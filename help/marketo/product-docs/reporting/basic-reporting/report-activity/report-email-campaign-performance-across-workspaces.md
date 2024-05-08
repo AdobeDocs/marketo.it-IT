@@ -4,16 +4,16 @@ description: Report e-mail, prestazioni delle campagne in più aree di lavoro - 
 title: Report e-mail, prestazioni della campagna in più aree di lavoro
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 # Report e-mail, prestazioni della campagna in più aree di lavoro {#report-email-campaign-performance-across-workspaces}
 
-Attiva la funzione di reporting globale per includere i dati di tutti i tuoi Marketo [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nel tuo [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md), [Prestazioni del collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md), e [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) rapporti.
+Attiva la funzione di reporting globale per includere i dati di tutti i tuoi Marketo [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nel tuo [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Prestazioni del collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporti.
 
 1. Vai a **Analytics** (o **Attività di marketing**).
 

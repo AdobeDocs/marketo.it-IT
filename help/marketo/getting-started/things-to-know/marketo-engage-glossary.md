@@ -3,9 +3,9 @@ description: Glossario del Marketo Engage - Documentazione di Marketo - Document
 title: Glossario Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '4097'
+source-wordcount: '4085'
 ht-degree: 1%
 
 ---
@@ -129,11 +129,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
    <td colspan="1">"Campagna" potrebbe significare alcune cose in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagna</a> è un termine più breve per campagna intelligente. In entrata <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagne</a> sono una serie di passaggi di corrispondenza multicanale. In entrata <strong>Personalizzazione web</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagne</a> sono reazioni personalizzate associate a un segmento specifico.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md" rel="nofollow">Rapporto sull’attività della campagna</a></strong></td> 
-   <td colspan="1">Tipo di rapporto che mostra come <strong>campagne intelligenti</strong> sono in esecuzione.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Rapporto sulle prestazioni e-mail della campagna</a></strong></td> 
    <td colspan="1">Tipo di rapporto che mostra le metriche delle prestazioni delle e-mail raggruppate per <strong>campagna intelligente</strong>.</td> 

@@ -4,9 +4,9 @@ description: Filtrare le persone in un rapporto con un elenco avanzato - Documen
 title: Filtrare le persone in un report con un elenco avanzato
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,6 @@ Utilizza gli elenchi avanzati per filtrare i rapporti in base a attributi person
 * [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Prestazioni del flusso di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)
-* [Attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
 * [Prestazioni e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
 * [Attività Web della società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
