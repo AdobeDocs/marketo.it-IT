@@ -4,9 +4,9 @@ title: Generazione di domande
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -37,11 +37,11 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-4.png)
 
->[!TIP]
->
->Lo stato sulla pagina non viene aggiornato in tempo reale. Premi Aggiorna per vedere quando passa da &quot;Elaborazione&quot; a &quot;Completo&quot;.
+   >[!TIP]
+   >
+   >Lo stato sulla pagina non viene aggiornato in tempo reale. Premi Aggiorna per vedere quando passa da &quot;Elaborazione&quot; a &quot;Completo&quot;.
 
-![](assets/question-generation-5.png)
+   ![](assets/question-generation-5.png)
 
 ## Scaricare domande e risposte {#download-questions-and-responses}
 
@@ -53,7 +53,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-6.png)
 
-1. Individua la cartella dei download nel browser e seleziona il file. Questo aspetto potrebbe essere diverso a seconda del browser.
+1. Individua la cartella dei download nel browser e seleziona il file. Questo aspetto può variare a seconda del browser utilizzato.
 
    ![](assets/question-generation-7.png)
 

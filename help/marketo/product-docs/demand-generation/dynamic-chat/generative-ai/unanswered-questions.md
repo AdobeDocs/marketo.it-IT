@@ -4,16 +4,16 @@ title: Domande senza risposta
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: 9ba9e80e9dcfb2ac835d172635489cc65307270c
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
 # Domande senza risposta {#unanswered-questions}
 
-Vedi tutte le domande a cui il chatbot non ha risposto o quelle a cui i visitatori sono stati contrassegnati come &quot;non utili&quot; e utilizza queste preziose informazioni per creare ulteriori risposte pre-approvate.
+Vedi tutte le domande a cui il chatbot non ha risposto e/o quelle a cui i visitatori sono stati contrassegnati come &quot;non utili&quot; e utilizza queste preziose informazioni per creare risposte aggiuntive pre-approvate.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Vedi tutte le domande a cui il chatbot non ha risposto o quelle a cui i visitato
 
    ![](assets/unanswered-questions-2.png)
 
-1. Seleziona la domanda senza risposta per la quale desideri generare una risposta.
+1. Seleziona la domanda senza risposta per la quale desideri creare una risposta.
 
    ![](assets/unanswered-questions-3.png)
 
