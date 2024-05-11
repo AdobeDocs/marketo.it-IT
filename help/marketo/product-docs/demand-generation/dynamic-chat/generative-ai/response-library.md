@@ -4,10 +4,10 @@ title: Libreria risposte
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: a6745e4a5321000bc1c91ef99c5f265b4c6c5760
+source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 2%
+source-wordcount: '366'
+ht-degree: 0%
 
 ---
 
@@ -57,24 +57,49 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 ## Modifica e caricamento in blocco di domande/risposte {#bulk-edit-and-upload-questions-responses}
 
-1. Testo
+Di seguito sono riportate le istruzioni su come apportare modifiche in blocco nel file Excel scaricato. Possono essere visualizzate anche nella scheda Dettagli attività del file.
 
-SCHERMATA
+<table>
+<thead>
+  <tr>
+    <th>Azione</th>
+    <th>Istruzioni</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Modificare una domanda</td>
+    <td>Immettere la nuova domanda nella colonna "editQuestion" (colonna H)</td>
+  </tr>
+  <tr>
+    <td>Modificare una risposta</td>
+    <td>Immettere la nuova risposta nella colonna "editResponse" (colonna I)</td>
+  </tr>
+  <tr>
+    <td>Aggiungi una nuova domanda</td>
+    <td>Immettere la nuova domanda nella colonna "editQuestion" (colonna H) e lasciare il campo questionResponse vuoto. È inoltre necessario immettere un argomento appropriato nella colonna "topic"(colonna C) e un URL di origine nella colonna "sourceUr!"</td>
+  </tr>
+  <tr>
+    <td>Aggiungi una domanda e una risposta</td>
+    <td>Immettere la nuova domanda nella colonna "editQuestion" (colonna H), la nuova risposta nella colonna "editResponse" (colonna I) e lasciare il campo questionResponseld vuoto. È inoltre necessario immettere un argomento appropriato nella colonna "topic" (colonna C)</td>
+  </tr>
+</tbody>
+</table>
 
-1. Testo
+1. Dopo aver apportato le modifiche nel file, torna alla scheda Libreria di risposte e fai clic su Carica risposte.
 
-SCHERMATA
+   ![](assets/response-library-9.png)
 
-1. Testo
+1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Clic **Salva** al termine.
 
-SCHERMATA
+   ![](assets/response-library-10.png)
 
-1. Testo
+1. Viene visualizzata la conferma e tutto è pronto.
 
-SCHERMATA
+   ![](assets/response-library-11.png)
 
 ## Filtra le domande {#filter-your-questions}
 
 Per impostazione predefinita, le domande sono elencate in ordine per ora/data di creazione, con quelle più recenti visualizzate per prime. Se stai cercando una domanda specifica, applica dei filtri per restringere la ricerca. Filtra per argomenti, nome dell&#39;attività e/o stato di approvazione.
 
-SCHERMATA
+![](assets/response-library-12.png)
