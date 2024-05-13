@@ -4,16 +4,17 @@ title: Inviare un elenco a Google
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 90ccae3e7390db36e45e2a391482df4ec34447d3
+exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
+source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
 
 # Inviare un elenco a Google {#send-a-list-to-google}
 
-Per inviare un elenco statico al tuo account Google, segui la procedura riportata di seguito.
+Per coloro che utilizzano Google Customer Match, segui i passaggi seguenti per inviare un elenco statico di Marketo Engage al tuo account Google.
 
 1. In Marketo Engage, individuate e selezionate l&#39;elenco desiderato.
 
@@ -39,7 +40,7 @@ Per inviare un elenco statico al tuo account Google, segui la procedura riportat
    >
    >* Selezione **Mantieni l’iscrizione al pubblico sincronizzata** mantiene l’elenco aggiornato man mano che cambia nell’istanza. Aggiungiamo/rimuoviamo persone dal pubblico quando vengono aggiunte/rimosse dall’elenco statico.
    >
-   >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO.
+   >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO. Per coloro che intendono caricare dati per gli utenti nello Spazio economico europeo (SEE), Google ha stilato un elenco di [Domande frequenti](https://support.google.com/google-ads/answer/14310715), nonché ulteriori dettagli che descrivono [Politica di consenso degli utenti UE](https://www.google.com/about/company/user-consent-policy/).
 
 1. Clic **Aggiorna**.
 
