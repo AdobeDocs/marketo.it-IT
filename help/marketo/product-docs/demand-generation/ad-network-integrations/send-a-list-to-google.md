@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: d0430078eaec5686ebded1e59e0eb4560b35ab44
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Per coloro che utilizzano Google Customer Match, segui i passaggi seguenti per i
    >
    >* Selezione **Mantieni l’iscrizione al pubblico sincronizzata** mantiene l’elenco aggiornato man mano che cambia nell’istanza. Aggiungiamo/rimuoviamo persone dal pubblico quando vengono aggiunte/rimosse dall’elenco statico.
    >
-   >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO. Per coloro che intendono caricare dati per gli utenti nello Spazio economico europeo (SEE), Google ha stilato un elenco di [Domande frequenti](https://support.google.com/google-ads/answer/14310715), nonché ulteriori dettagli che descrivono [Politica di consenso degli utenti UE](https://www.google.com/about/company/user-consent-policy/).
+   >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO. Per coloro che intendono caricare dati per gli utenti nello Spazio economico europeo (SEE), Google ha stilato un elenco di [Domande frequenti](https://support.google.com/google-ads/answer/14310715){target="_blank"}, as well as additional details outlining the [EU user consent policy](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
 1. Clic **Aggiorna**.
 

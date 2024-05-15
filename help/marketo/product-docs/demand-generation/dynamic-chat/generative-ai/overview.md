@@ -4,16 +4,29 @@ title: Panoramica di IA generativa
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 6%
+source-wordcount: '354'
+ht-degree: 2%
 
 ---
 
 # Panoramica di IA generativa {#generative-ai-overview}
 
-L’intelligenza artificiale generativa in Adobe Dynamic Chat consente di accelerare la creazione di campagne per il marketing, migliorare le risposte per gli agenti di vendita live e rispondere praticamente a qualsiasi domanda utilizzando un archivio di contenuti creati autonomamente.
+L’intelligenza artificiale generativa in Adobi Dynamic Chat elabora in tempo reale i segnali di intento, le preferenze dell’utente e il comportamento passato per generare messaggi pertinenti e personalizzati per i visitatori della chat.
+
+## Scheda risposta generazione {#generation-response-card}
+
+Crea un messaggio per il visitatore per quando raggiunge un determinato punto della conversazione. È possibile impostare una serie di domande da porre contemporaneamente per ottenere l&#39;indicatore di prestazioni chiave desiderato. Aggiungi fino a 5 domande di follow-up e includi un messaggio di fallback quando non è disponibile alcuna risposta alla domanda di un visitatore.
+
+(assets/generative-ai-overview-1.png
+
+## Riepilogo conversazione {#conversation-summary}
+
+In genere, per ottenere il contesto completo di una conversazione con un visitatore, devi scorrere l’intera trascrizione della chat. Il riepilogo delle conversazioni genera un riepilogo in tempo reale e include anche gli argomenti in cui il visitatore ha espresso interesse. Ciò è particolarmente utile per gli agenti di chat che necessitano di un contesto rapido di una conversazione quando passano da una chat a più visitatori.
+
+(assets/generative-ai-overview-2.png
 
 ## Generazione domanda {#question-generation}
 
@@ -35,6 +48,33 @@ L’intelligenza artificiale generativa in Adobe Dynamic Chat consente di accele
 
 ## Domande senza risposta {#unanswered-questions}
 
-[Creare ulteriori risposte pre-approvate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte utilizzando l’intelligenza artificiale basata su un archivio di domande senza risposta provenienti da conversazioni precedenti.
+[Creare ulteriori risposte pre-approvate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte che utilizza l’intelligenza artificiale basata su un archivio UTILIZZA UN TERMINE DIVERSO per le domande senza risposta di conversazioni precedenti.
 
 ![](assets/generative-ai-overview-4.png)
+
+>[!IMPORTANT]
+>
+>Quando utilizzi l’intelligenza artificiale generativa, devi rispettare [Linee guida per l’utente di Adobe Experience Cloud Generative AI](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) possiamo quindi assicurarci che le funzioni di Adobe Experience Cloud che incorporano l’intelligenza artificiale generativa vengano utilizzate in modo sicuro e responsabile.
+
+## Domande frequenti {#faq}
+
+**L’intelligenza artificiale generativa è disponibile per tutti gli utenti del Dynamic Chat?**
+
+L’intelligenza artificiale generativa è disponibile solo per gli abbonati Dynamic Chat Prime.
+
+**Esiste un limite al numero di domande e risposte che è possibile generare?**
+
+Sì. Al momento, il limite di durata è di 1000.
+
+**Quali lingue sono disponibili nell’intelligenza artificiale generativa?**
+
+Attualmente, nell’intelligenza artificiale generativa è supportato solo l’inglese.
+
+
+
+PER KG SOTTO...
+
+VIDEO - 13:09 - SCELTE RAPIDE
+
+
+

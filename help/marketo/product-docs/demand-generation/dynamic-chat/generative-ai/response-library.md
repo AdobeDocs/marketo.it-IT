@@ -4,9 +4,10 @@ title: Libreria risposte
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: d76230bb5feeaa4c75964a69eba070aca1bf8c6a
+exl-id: 774346fa-f633-48e8-a489-999404b6070b
+source-git-commit: cc16ec5dd5c6671ba9265042e108d0ff76b0e16d
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -17,27 +18,27 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 ## Aggiungi manualmente una domanda {#manually-add-a-question}
 
-1. In IA generativa, fai clic su **Risposte assistite**.
+1. In IA generativa, fai clic su **[!UICONTROL Risposte assistite]**.
 
    ![](assets/response-library-1.png)
 
-1. Fai clic su **Libreria di risposte** scheda.
+1. Fai clic su **[!UICONTROL Libreria di risposte]** scheda.
 
    ![](assets/response-library-2.png)
 
-1. Clic **Aggiungi domanda**.
+1. Clic **[!UICONTROL Aggiungi domanda]**.
 
    ![](assets/response-library-3.png)
 
-1. Inserisci la domanda e la risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Clic **Salva** al termine.
+1. Inserisci la domanda e la risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Clic **[!UICONTROL Salva]** al termine.
 
    ![](assets/response-library-4.png)
 
-1. Fai clic su Aggiorna e nella parte superiore viene visualizzata la nuova domanda con lo stato &quot;Elaborazione&quot;.
+1. Fai clic su aggiorna e la nuova domanda viene visualizzata in alto con lo stato di &quot;[!UICONTROL Elaborazione].&quot;
 
    ![](assets/response-library-5.png)
 
-1. Dopo alcuni minuti, fai di nuovo clic su e lo stato diventa &quot;Approvato&quot;.
+1. Dopo alcuni minuti, aggiorna di nuovo e lo stato diventa &quot;Approvato&quot;.
 
    ![](assets/response-library-6.png)
 
@@ -45,13 +46,13 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 >[!NOTE]
 >
->Per impostazione predefinita, a tutte le domande e risposte generate viene assegnato lo stato di &quot;revisione necessaria&quot;. Solo le domande e le risposte &quot;approvate&quot; sono rese disponibili ai visitatori della chat.
+>A tutte le domande e risposte generate viene assegnato il &quot;[!UICONTROL da rivedere]&quot; per impostazione predefinita. Solo &quot;[!UICONTROL approvato]&quot;Le domande e le risposte sono rese disponibili ai visitatori della chat.
 
-1. In **Libreria di risposte**, fai clic sulla domanda desiderata.
+1. In **[!UICONTROL Libreria di risposte]**, fai clic sulla domanda desiderata.
 
    ![](assets/response-library-7.png)
 
-1. Apporta le modifiche desiderate e fai clic su **Salva**.
+1. Apporta le modifiche necessarie e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/response-library-8.png)
 
@@ -77,7 +78,7 @@ Di seguito sono riportate le istruzioni su come apportare modifiche in blocco ne
   </tr>
   <tr>
     <td>Aggiungi una nuova domanda</td>
-    <td>Immettere la nuova domanda nella colonna "editQuestion" (colonna H) e lasciare il campo questionResponse vuoto. È inoltre necessario immettere un argomento appropriato nella colonna "topic"(colonna C) e un URL di origine nella colonna "sourceUr!"</td>
+    <td>Immettere la nuova domanda nella colonna "editQuestion" (colonna H) e lasciare il campo questionResponse vuoto. È inoltre necessario immettere un argomento appropriato nella colonna "topic" (colonna C) e un URL di origine nella colonna "sourceUr!"</td>
   </tr>
   <tr>
     <td>Aggiungi una domanda e una risposta</td>
@@ -86,11 +87,11 @@ Di seguito sono riportate le istruzioni su come apportare modifiche in blocco ne
 </tbody>
 </table>
 
-1. Dopo aver apportato le modifiche nel file, torna alla scheda Libreria di risposte e fai clic su Carica risposte.
+1. Dopo aver apportato le modifiche desiderate nel file, torna a **[!UICONTROL Libreria di risposte]** e fai clic su **[!UICONTROL Carica risposte]**.
 
    ![](assets/response-library-9.png)
 
-1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Clic **Salva** al termine.
+1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Clic **[!UICONTROL Salva]** al termine.
 
    ![](assets/response-library-10.png)
 
