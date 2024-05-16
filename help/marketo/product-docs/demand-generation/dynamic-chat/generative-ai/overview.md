@@ -3,9 +3,9 @@ description: Panoramica generativa sull’intelligenza artificiale - Documenti M
 title: Panoramica di IA generativa
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---
@@ -58,7 +58,7 @@ In genere, per ottenere il contesto completo di una conversazione con un visitat
 
 ## Domande senza risposta {#unanswered-questions}
 
-[Creare ulteriori risposte pre-approvate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte che utilizza l’intelligenza artificiale basata su un archivio UTILIZZA UN TERMINE DIVERSO per le domande senza risposta di conversazioni precedenti.
+[Creare ulteriori risposte pre-approvate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte utilizzando l’intelligenza artificiale basata su un archivio di domande senza risposta provenienti da conversazioni precedenti.
 
 ![](assets/generative-ai-overview-8.png)
 
