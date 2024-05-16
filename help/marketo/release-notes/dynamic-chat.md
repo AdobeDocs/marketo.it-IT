@@ -3,9 +3,9 @@ description: Note sulla versione del Dynamic Chat - Documentazione di Marketo - 
 title: Note sulla versione del Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: 719b43c637cb02ef22bde902912d53fae2661dad
+source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
 workflow-type: tm+mt
-source-wordcount: '1203'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,44 @@ ht-degree: 0%
 I rilasci di Adobe Dynamic Chat funzionano su un modello di distribuzione continua che consente un approccio più scalabile alla distribuzione delle funzioni. A volte ci sono più versioni in un mese, quindi controlla regolarmente per informazioni sempre aggiornate.
 
 Pagina Note sulla versione standard per il Marketo Engage [si trova qui](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Versione di maggio 2024 {#may-release}
+
+**Data di rilascio: 15 maggio 2024**
+
+### Libreria di risposte preapprovata {#pre-approved-response-library}
+
+[Creare una libreria approvata dal marketing](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md){target="_blank"} di domande e risposte generate dall’intelligenza artificiale per configurare in pochi minuti una chat generativa basata sull’intelligenza artificiale.
+
+![](assets/dynamic-chat-may-2024-release-1.png)
+
+## Domande senza risposta {#unanswered-questions}
+
+[Utilizza un archivio di domande senza risposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} dalle conversazioni precedenti per generare nuove risposte preapprovate mantenendo una libreria di risposte con le informazioni più recenti.
+
+![](assets/dynamic-chat-may-2024-release-2.png)
+
+### Riepiloghi conversazione {#conversation-summaries}
+
+[Assegna conversazioni riepilogate agli agenti di vendita](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#conversation-summary){target="_blank"} includendo approfondimenti su argomenti di discussione chiave prima delle riunioni per ridurre i tempi di preparazione e fornire ai migliori agenti di vendita le informazioni più recenti.
+
+![](assets/dynamic-chat-may-2024-release-3.png)
+
+### Scelte rapide per le vendite GenAI {#genai-sales-shortcuts}
+
+[Fornire agenti chat in tempo reale con modalità più rapide](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#shortcuts){target="_blank"} per accedere alle risposte generate dall’intelligenza artificiale, modifica le risposte generate esistenti e cerca contenuti aggiuntivi da inviare agli acquirenti durante la conversazione.
+
+![](assets/dynamic-chat-may-2024-release-4.png)
+
+### Assistente conversazioni {#conversation-assist}
+
+Aiuta gli agenti di vendita a rispondere con precisione durante le conversazioni live utilizzando risposte pre-approvate dal tuo team di marketing.
+
+### Spigoli di conversazione {#conversation-nudges}
+
+Incoraggia i visitatori Web con un invito all’azione per indirizzare le conversazioni alla conclusione.
+
+<p>
 
 ## Versione di aprile 2024 {#april-release}
 
