@@ -1,14 +1,12 @@
 ---
 description: Panoramica generativa sull’intelligenza artificiale - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di IA generativa
-hide: true
-hidefromtoc: true
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: ed8f0f5543e66ab6e6df5a97ac9a6cf55931daba
+source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '359'
-ht-degree: 3%
+source-wordcount: '429'
+ht-degree: 2%
 
 ---
 
@@ -30,33 +28,45 @@ Crea un messaggio per il visitatore per quando raggiunge un determinato punto de
 
 ## Riepilogo conversazione {#conversation-summary}
 
-In genere, per ottenere il contesto completo di una conversazione con un visitatore, devi scorrere l’intera trascrizione della chat. Il riepilogo delle conversazioni genera un riepilogo in tempo reale e include anche gli argomenti in cui il visitatore ha espresso interesse. Ciò è particolarmente utile per gli agenti di chat che necessitano di un contesto rapido di una conversazione quando passano da una chat a più visitatori.
+In genere, per ottenere il contesto completo di una conversazione con un visitatore, devi scorrere l’intera trascrizione della chat. Il riepilogo delle conversazioni genera un riepilogo in tempo reale e include anche gli argomenti in cui il visitatore ha espresso interesse. Ciò è particolarmente utile per gli agenti di chat che necessitano di un contesto rapido di una conversazione quando passano da una chat a più visitatori. Oltre a essere visibili nella schermata di chat della casella in entrata dell’agente, i riepiloghi delle conversazioni completati si trovano anche nel registro delle attività del record persona del visitatore nel database del Marketo Engage.
 
 ![](assets/generative-ai-overview-3.png)
+
+![](assets/generative-ai-overview-4.png)
+
+>[!NOTE]
+>
+>Viene generato un riepilogo delle conversazioni sia per le chat live che per quelle automatizzate.
 
 ## Generazione domanda {#question-generation}
 
 [Elevare le esperienze in entrata](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) con conversazioni basate sull’intelligenza artificiale per i visitatori che utilizzano un’interfaccia formata su vendite, marketing e conoscenza dei prodotti.
 
-![](assets/generative-ai-overview-4.png)
+![](assets/generative-ai-overview-5.png)
 
 ## Libreria di risposta {#response-library}
 
 [Produrre una raccolta personalizzata](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di domande e risposte, tutte pre-approvate da te, da utilizzare all’interno di campagne di chat di IA generativa.
 
-![](assets/generative-ai-overview-5.png)
+![](assets/generative-ai-overview-6.png)
 
 ## Registro delle attività {#activity-log}
 
 [Visualizza un elenco di tutte le attività](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e i relativi dettagli di accompagnamento, tra cui nome, proprietario, tipo, chi li ha modificati e quando.
 
-![](assets/generative-ai-overview-6.png)
+![](assets/generative-ai-overview-7.png)
 
 ## Domande senza risposta {#unanswered-questions}
 
 [Creare ulteriori risposte pre-approvate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte che utilizza l’intelligenza artificiale basata su un archivio UTILIZZA UN TERMINE DIVERSO per le domande senza risposta di conversazioni precedenti.
 
-![](assets/generative-ai-overview-7.png)
+![](assets/generative-ai-overview-8.png)
+
+## Argomenti discussi {#discussed-topics}
+
+Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di elenchi avanzati, che ti consentono di approfondire ulteriormente le informazioni di Dynamic Chat.
+
+![](assets/generative-ai-overview-9.png)
 
 >[!IMPORTANT]
 >

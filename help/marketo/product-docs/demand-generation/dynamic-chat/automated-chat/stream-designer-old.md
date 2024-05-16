@@ -1,11 +1,12 @@
 ---
 description: Progettazione flussi - Documentazione di Marketo - Documentazione del prodotto
 title: Designer flusso
+hide: true
+hidefromtoc: true
 feature: Dynamic Chat
-exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
 source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1128'
 ht-degree: 1%
 
 ---
@@ -51,22 +52,13 @@ Progettazione flussi contiene più schede che è possibile aggiungere per modell
  <tr>
   <td style="width:25%"><strong>Azione*</strong></td>
   <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell’azienda (che presenta un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo di dati string</a>) con valori impliciti che si desidera acquisire in base a un record lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.
-  <p><i>* Questa scheda richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).</i></td>
+  <p><i>* La scheda Azione richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).</i></td>
  </tr>
  <tr>
-  <td style="width:25%"><strong>Live Chat</strong></td>
+  <td style="width:25%"><strong>Chat live</strong></td>
   <td>Utilizza la scheda chat in diretta quando desideri che i visitatori chattino con un agente in diretta.
   <li>La scheda chat live deve essere l'ultima scheda del ramo.</li>
   <li>I visitatori verranno indirizzati a un agente non appena raggiungono questa scheda nel flusso, pertanto si consiglia di anteporre a questa scheda una scheda con le domande che chiedono ai visitatori se desiderano chattare con un agente live.</li></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Risposte generate*</strong></td>
-  <td>Crea un messaggio per il visitatore per quando raggiunge un determinato punto della conversazione. È possibile impostare una serie di domande da porre contemporaneamente per ottenere l'indicatore di prestazioni chiave desiderato.
-  <p><i>* Questa scheda richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).</i></td>
- </tr>
- <tr>
-  <td style="width:25%"><strong>Ramificazione condizionale</strong></td>
-  <td>Crea rami nei flussi della finestra di dialogo in base a condizioni diverse. Presentare contenuti diversi a persone diverse nella stessa finestra di dialogo in base agli attributi del lead e dell’azienda nel Marketo Engage.</td>
  </tr>
 </table>
 
