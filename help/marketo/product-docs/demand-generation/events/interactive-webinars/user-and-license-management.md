@@ -3,7 +3,7 @@ description: Gestione di utenti e licenze - Documentazione di Marketo - Document
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: b5fb106126e52a8d759e560d21e525e21154a4d6
+source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -69,31 +69,31 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
 <table> 
   <tr>
    <td width="20%"><b>Data inizio</b></td>
-   <td>Data di inizio della licenza.</td>
+   <td width="80%">Data di inizio della licenza.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Data di scadenza</b></td>
-   <td>Data di scadenza della licenza.</td>
+   <td width="80%">Data di scadenza della licenza.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Tipo</b></td>
-   <td>Tipo di licenza acquistata. Sono disponibili tre tipi di licenza: Shared Events License, Shared Rooms License, Additional Storage License.</td>
+   <td width="80%">Tipo di licenza acquistata. Sono disponibili tre tipi di licenza: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacità evento</b></td>
-   <td>Il numero massimo di partecipanti che possono essere ospitati in un evento.</td>
+   <td width="80%">Il numero massimo di partecipanti che possono essere ospitati in un evento.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Eventi totali</b></td>
-   <td>Numero totale di eventi per i quali è stato eseguito il provisioning con questa licenza.</td>
+   <td width="80%">Numero totale di eventi per i quali è stato eseguito il provisioning con questa licenza.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Eventi utilizzati</b></td>
-   <td>Numero totale di eventi completati.</td>
+   <td width="80%">Numero totale di eventi completati.</td>
   </tr>
   <tr> 
    <td width="20%"><b>Capacità di archiviazione</b></td>
-   <td>Quantità di storage disponibile per l'archiviazione di registrazioni, materiale collaterale, heri images, documentazione e altre risorse.</td>
+   <td width="80%">Quantità di storage disponibile per l'archiviazione di registrazioni, materiale collaterale, heri images, documentazione e altre risorse.</td>
   </tr>
   </tbody>
 </table>
