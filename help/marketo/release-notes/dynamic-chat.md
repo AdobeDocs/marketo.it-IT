@@ -3,7 +3,7 @@ description: Note sulla versione del Dynamic Chat - Documentazione di Marketo - 
 title: Note sulla versione del Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: bdfe64c28d3e6ae4e83561024b53e076c10fff96
+source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
 workflow-type: tm+mt
 source-wordcount: '1343'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Pagina Note sulla versione standard per il Marketo Engage [si trova qui](/help/m
 
 ![](assets/dynamic-chat-may-2024-release-1.png)
 
-## Domande senza risposta {#unanswered-questions}
+### Domande senza risposta {#unanswered-questions}
 
 [Utilizza un archivio di domande senza risposta](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md){target="_blank"} dalle conversazioni precedenti per generare nuove risposte preapprovate mantenendo una libreria di risposte con le informazioni più recenti.
 
