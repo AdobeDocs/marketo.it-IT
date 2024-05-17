@@ -3,10 +3,10 @@ description: Panoramica del Dynamic Chat - Documentazione di Marketo - Documenta
 title: Panoramica del Dynamic Chat
 feature: Dynamic Chat
 exl-id: 73ab651e-bb11-459d-aa6a-39d9e208d512
-source-git-commit: c4a02e1c365da6c56c94b119650e2c366cdc6641
+source-git-commit: be1ca409642fd5d81d341fbadaff38c268fe198f
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 1%
+source-wordcount: '595'
+ht-degree: 2%
 
 ---
 
@@ -48,17 +48,21 @@ Qui vengono visualizzati tutti gli appuntamenti pianificati dai visitatori del s
 
 Qui puoi visualizzare un elenco di tutti gli agenti che hanno connesso i loro calendari, l’ordine in cui verranno presentati ai visitatori del sito web e creare regole di indirizzamento personalizzate. [Ulteriori informazioni sull&#39;indirizzamento](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
 
-## Chat in tempo reale {#live-chat}
+## Chat live {#live-chat}
 
 Offri ai visitatori web qualificati di entrare in contatto con i rappresentanti commerciali tramite [chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
-## Flusso conversazionale {#conversational-flow}
+## Flussi conversazionali {#conversational-flow}
 
 [Progettare una conversazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} che può essere attivata da un visitatore in base a un’azione designata (ad esempio la compilazione di un modulo, il clic su un collegamento e così via).
 
+## IA generativa {#generative-ai}
+
+[IA generativa](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobi Dynamic Chat elabora in tempo reale segnali di intento, preferenze dell’utente e comportamenti passati per generare messaggi pertinenti e personalizzati per i visitatori della chat.
+
 ## Modifica della lingua {#changing-the-language}
 
-Per cambiare la lingua del Dynamic Chat, eseguire la procedura seguente.
+Per cambiare la lingua del Dynamic Chat, attenersi alla procedura descritta di seguito.
 
 >[!IMPORTANT]
 >
