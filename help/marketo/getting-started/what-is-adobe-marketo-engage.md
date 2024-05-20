@@ -4,9 +4,9 @@ description: Cos’è Adobe Marketo Engage? - Documentazione di Marketo - Docume
 title: Cos’è Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
@@ -21,13 +21,14 @@ Il Marketo Engage dispone di un sacco di grandi funzioni per aiutarti a raggiung
 
 * Editor di moduli
 * Editor pagina di destinazione
+* Campagne avanzate
+* Dynamic Chat
+* Webinar interattivi nativi
 * Modelli di pagina di destinazione guidata
 * Editor e-mail
 * Strumenti per la posta elettronica
 * Segmentazione
 * Contenuto predittivo
-* Dynamic Chat
-* Webinar interattivi nativi
 * Integrazione con webinar di terze parti
 * Mobile Marketing
 * Sincronizza con il tuo CRM (Salesforce o Dynamics)
