@@ -4,16 +4,20 @@ description: Selezionare la lingua, la lingua e il fuso orario - Documentazione 
 title: Seleziona la lingua, la lingua e il fuso orario
 exl-id: d11f376f-618c-4fa8-a6b5-e11d29e8d728
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 4%
+source-wordcount: '156'
+ht-degree: 5%
 
 ---
 
 # Seleziona la lingua, la lingua e il fuso orario {#select-your-language-locale-and-time-zone}
 
-L&#39;inglese non è la tua lingua madre? Non preoccuparti, ti abbiamo coperto. Ecco come modificare la lingua, le impostazioni locali e il fuso orario.
+L&#39;inglese non è la tua prima lingua? Non preoccuparti, ti abbiamo coperto. Per modificare la lingua, la lingua e il fuso orario dell’istanza del Marketo Engage, procedere come segue.
+
+>[!IMPORTANT]
+>
+>Questo articolo è solo per coloro che lo fanno _non_ utilizzare [Marketo con identità Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md). In tal caso, è possibile accedere alle impostazioni descritte di seguito nel [Adobe profilo account](https://account.adobe.com/profile).
 
 ## Lingue supportate {#supported-languages}
 
@@ -54,7 +58,7 @@ L&#39;inglese non è la tua lingua madre? Non preoccuparti, ti abbiamo coperto. 
 
    ![](assets/select-your-language-locale-and-time-zone-6.png)
 
-1. Clic **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/select-your-language-locale-and-time-zone-7.png)
 
