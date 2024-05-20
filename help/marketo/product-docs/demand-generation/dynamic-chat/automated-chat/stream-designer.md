@@ -3,7 +3,7 @@ description: Progettazione flussi - Documentazione di Marketo - Documentazione d
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
 workflow-type: tm+mt
 source-wordcount: '1212'
 ht-degree: 1%
@@ -115,7 +115,7 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
    >[!TIP]
    >
-   >Puoi personalizzare l’esperienza per i visitatori della chat conosciuti utilizzando dei token (es: Hello `{{lead.leadFirstName:""}}`). Fai clic sull’icona della parentesi graffa a destra ed effettua la selezione. Aggiungi un valore predefinito tra i quoate se vuoi che i visitatori anonimi vedano qualcosa di generico (es: Hello `{{lead.leadFirstName:"there"}}`).
+   >Puoi personalizzare l’esperienza per i visitatori della chat conosciuti utilizzando dei token (es: Hello `{{lead.leadFirstName:""}}`). Fai clic sull’icona della parentesi graffa a destra ed effettua la selezione. Aggiungi un valore predefinito tra le virgolette se vuoi che i visitatori anonimi vedano qualcosa di generico (es: Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
