@@ -4,9 +4,9 @@ title: Community Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: c40726e04b4b661e70cc9ba62f6b10aefab2cd58
+source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ SCHERMATA
 
 ## Configurare il profilo {#set-up-your-profile}
 
-Una volta effettuato l’accesso a Marketing Nation, fai clic sull’icona avatar predefinita e seleziona Le mie impostazioni per aggiornare le tue preferenze, modificare la foto dell’avatar, i tag di controllo e altro ancora.
+Una volta effettuato l’accesso a Marketing Nation, fai clic sull’icona avatar predefinita e seleziona **[!UICONTROL Le mie impostazioni]** per aggiornare le tue preferenze, modifica la tua foto avatar, l’assegnazione di tag di controllo e altro ancora.
 
 SCHERMATA
 
@@ -45,7 +45,7 @@ SCHERMATA
 
 ## Leggi post di blog {#read-blog-posts}
 
-Questa sezione contiene tutte le informazioni utili fornite dagli utenti del Marketo Engage (inclusi diversi campioni) e dai dipendenti Marketo. Per ulteriori informazioni, lasciare i commenti in basso.
+Questa sezione contiene tutte le informazioni utili fornite sia dagli utenti del Marketo Engage (inclusi diversi campioni) che dai dipendenti Marketo. Per ulteriori informazioni, lasciare i commenti in basso.
 
 SCHERMATA
 
@@ -57,7 +57,7 @@ SCHERMATA
 
 ## Gruppi di utenti di Marketo {#marketo-user-groups}
 
-I gruppi di utenti di Marketo (MUG) sono riunioni che si verificano in diverse aree del mondo. Offrono l’opportunità di creare una rete, discutere le ultime tendenze, scoprire le nuove funzioni e altro ancora. Controllane uno nella tua zona. In caso contrario, unisciti a un gruppo di utenti virtuali.
+I gruppi di utenti di Marketo (MUG) sono riunioni che si verificano in diverse aree del mondo. Offrono l’opportunità di creare una rete, discutere le ultime tendenze, scoprire le nuove funzioni e altro ancora. Controllane uno nella tua zona. In caso contrario, puoi partecipare a un gruppo di utenti virtuali.
 
 SCHERMATA
 
@@ -85,6 +85,6 @@ Nella richiesta specificare i seguenti dettagli:
 
 Il nostro team community unirà i profili della community in 4-6 giorni lavorativi. Una volta completato, visualizzerai la cronologia del coinvolgimento nel profilo principale della community al momento dell’accesso. In caso contrario, esci dal tuo account e accedi di nuovo per confermare.
 
-<p>
+<br>
 
 Benvenuto nel Marketo Engage, e godetevi la nazione del marketing!
