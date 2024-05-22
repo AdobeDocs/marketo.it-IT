@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 29c730246188740d004a45f34923bb83f0322ec5
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '280'
 ht-degree: 3%
 
 ---
@@ -30,6 +30,17 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:65%">Funzione</th> 
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
+  </tr>
+     <tr> 
+   <td><strong>Modelli per webinar interattivi</strong>: gli addetti al marketing possono ora creare modelli personalizzati per i layout delle room nei webinar interattivi.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
   </tr>
      <tr> 
    <td><strong>Campi dedotti in Forms</strong>: l’origine dati utilizzata per popolare i campi dedotti quando una persona viene creata tramite la compilazione dei moduli senza alcuna attività web precedente è stata aggiornata per utilizzare la stessa origine dati di altri metodi di raccolta di persone. I dati del campo dedotti sono ora coerenti tra tutti i punti di raccolta.</td> 

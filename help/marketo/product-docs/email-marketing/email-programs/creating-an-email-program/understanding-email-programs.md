@@ -4,16 +4,16 @@ description: Informazioni sui programmi e-mail - Documentazione di Marketo - Doc
 title: Informazioni sui programmi e-mail
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Informazioni sui programmi e-mail {#understanding-email-programs}
 
-Saluta il tuo nuovo amico di Marketo, il programma di posta elettronica. Invia e-mail, crea test A/B e tieni traccia dei risultati in un’unica posizione.
+Invia e-mail, crea test A/B e tieni traccia dei risultati in un’unica posizione.
 
 ## Pannello di controllo Campaign {#control-panel}
 
