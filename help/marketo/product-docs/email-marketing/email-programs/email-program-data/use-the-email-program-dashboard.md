@@ -4,9 +4,9 @@ description: Utilizzare la dashboard del programma e-mail - Documentazione di Ma
 title: Utilizzare il dashboard Programma e-mail
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '382'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Scopri le prestazioni dei programmi e-mail con questa visualizzazione dashboard.
 
+>[!CAUTION]
+>
+>Per garantire una reportistica accurata, evita di riutilizzare un’e-mail precedentemente utilizzata in un programma e-mail tramite una campagna intelligente o spostando la risorsa dal programma e-mail avviato a uno nuovo. Così facendo, si aggiungeranno ai numeri di reporting nel dashboard originale del programma e-mail. Se devi riutilizzare la stessa e-mail, [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} invece.
+
 >[!NOTE]
 >
->Se il programma dispone di un test A/B, vedi [Dashboard programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md).
+>Se il programma dispone di un test A/B, vedi [Dashboard programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -47,7 +51,7 @@ Questo grafico mostra il numero di e-mail aperte/su cui è stato fatto clic in s
 
 ## Riepilogo - Coinvolgimento {#summary-engagement}
 
-Questo mostra il [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+Questo mostra il [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -77,4 +81,4 @@ Per visualizzare i dati più aggiornati, fai clic sull’icona di aggiornamento 
 
 >[!MORELIKETHIS]
 >
->[Utilizzare la dashboard Programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>[Utilizzare la dashboard Programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

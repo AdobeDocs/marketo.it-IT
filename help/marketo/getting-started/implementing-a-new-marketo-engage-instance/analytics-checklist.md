@@ -4,7 +4,7 @@ title: Best practice per le nuove istanze - Elenco di controllo di Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
 source-wordcount: '1424'
 ht-degree: 0%
@@ -109,7 +109,7 @@ Identifica i rapporti che devono essere condivisi con diversi gruppi di utenti a
     <td>NOTA: questo rapporto richiede che siano definiti i canali, gli stati di progressione e i passaggi di successo in <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/tags/create-a-program-channel">Amministratore &gt; Area tag</a>. <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report">Misura l’efficacia delle tattiche di marketing</a> all'interno di programmi selettivi.</li>
     <li>Gestisci l’iscrizione al programma (utilizzando Campagne avanzate per aggiornare il programma di acquisizione, lo stato e gli stati di successo) in base alle best practice di Marketing Activities (Attività di marketing).</li>
     <li>Misura basata sui costi per l’anno in corso e su 12 mesi consecutivi.
-    <ul><li>Tenere presente che <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costi periodo</a> è fondamentale per sfruttare il Rapporto sulle prestazioni del programma.</li>
+    <ul><li>Tenere presente che <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costi periodo</a> è fondamentale per sfruttare il Rapporto sulle prestazioni del programma.</li></ul>
     <br>SUGGERIMENTO: per aggregare e visualizzare <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">elenchi importati</a> nei Rapporti sulle prestazioni del programma, accertati che i team selezionino il programma di acquisizione appropriato per l’assegnazione di tag. Considerare <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creazione di un programma predefinito</a> da selezionare come programma di acquisizione quando gli elenchi importati non si applicano ad alcun canale. In questo modo, ogni persona importata dispone di un programma di acquisizione valido relativo alla sua origine, business unit, canale, ecc. invece di un valore vuoto.</td>
   </tr>
   <tr>

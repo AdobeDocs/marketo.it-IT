@@ -4,9 +4,9 @@ description: Visualizza la dashboard del programma e-mail - Documentazione di Ma
 title: Visualizza la dashboard del programma e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Visualizza la dashboard del programma e-mail {#view-the-email-program-dashboard}
 
 Scopri le prestazioni del tuo programma e-mail (con o senza un test A/B) con questa dashboard.
+
+>[!CAUTION]
+>
+>Per garantire una reportistica accurata, evita di riutilizzare un’e-mail precedentemente utilizzata in un programma e-mail tramite una campagna intelligente o spostando la risorsa dal programma e-mail avviato a uno nuovo. Così facendo, si aggiungeranno ai numeri di reporting nel dashboard originale del programma e-mail. Se devi riutilizzare la stessa e-mail, [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} invece.
 
 ## Seleziona il programma e-mail {#select-your-email-program}
 

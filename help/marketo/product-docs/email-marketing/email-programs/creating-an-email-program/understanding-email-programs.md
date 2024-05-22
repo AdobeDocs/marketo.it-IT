@@ -4,9 +4,9 @@ description: Informazioni sui programmi e-mail - Documentazione di Marketo - Doc
 title: Informazioni sui programmi e-mail
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: 77aa62c45572bcd92710ee4a80529109aba45120
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -36,15 +36,19 @@ Scopri i seguenti test A/B:
 
 ## Dashboard {#dashboards}
 
->[!TIP]
+>[!CAUTION]
 >
->A causa della dashboard di reporting dettagliata del programma, alcuni preferiscono utilizzare programmi e-mail rispetto all’invio di un’e-mail tramite una campagna intelligente.
+>Per garantire una reportistica accurata, evita di riutilizzare un’e-mail precedentemente utilizzata in un programma e-mail tramite una campagna intelligente o spostando la risorsa dal programma e-mail avviato a uno nuovo. Così facendo, si aggiungeranno ai numeri di reporting nel dashboard originale del programma e-mail. Se devi riutilizzare la stessa e-mail, [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} invece.
 
 Godetevi i frutti del vostro lavoro. Le dashboard mostrano a colpo d’occhio il programma e-mail e le prestazioni dei test A/B.
 
 ![](assets/image2015-4-27-11-3a38-3a41.png)
 
 ![](assets/image2015-4-27-11-3a38-3a27.png)
+
+>[!TIP]
+>
+>A causa della dashboard di reporting dettagliata del programma, alcuni preferiscono utilizzare programmi e-mail rispetto all’invio di un’e-mail tramite una campagna intelligente.
 
 ## Nidificazione {#nesting}
 
