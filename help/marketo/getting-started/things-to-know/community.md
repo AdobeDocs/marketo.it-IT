@@ -4,16 +4,16 @@ title: Community Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: a7b1ede27b8286f13fcb850ee49757e86e23dbd5
+source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
 
-# Community Marketo Engage {#marketo-engage-community}
+# Community Adobe Marketo Engage {#marketo-engage-community}
 
-Il [Community nazione marketing](https://nation.marketo.com/){target="_blank"} è il luogo in cui trovare ulteriori informazioni sull’istanza di Marketo Engage dagli altri utenti e dai dipendenti Marketo. Prima di iniziare, soffermati un attimo a conoscere [Linee guida della community](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
+Il [Community Adobe Marketo Engage](https://nation.marketo.com/) (nota anche come Marketing Nation) è il luogo in cui trovare ulteriori informazioni sull&#39;istanza di Marketo Engage da altri utenti e dai dipendenti Marketo. Prima di iniziare, soffermati un attimo a conoscere [Linee guida della community](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registra il tuo nome utente {#register-your-username}
 
