@@ -3,7 +3,7 @@ description: Impostare la sezione Database per la nuova istanza di Marketo Engag
 title: Best practice per le nuove istanze - Elenco di controllo del database
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -84,8 +84,8 @@ Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/imp
 <table>
 <thead>
   <tr>
-    <th style="width:20%">Area</th>
-    <th style="width:80%">Elementi azione</th>
+    <th style="width:21%">Area</th>
+    <th style="width:79%">Elementi azione</th>
   </tr>
 </thead>
 <tbody>

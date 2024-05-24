@@ -4,7 +4,7 @@ title: Best practice per le nuove istanze - Elenco di controllo di Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: ece7af20c10f646bfc66708c45c3a4e612f0a823
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '1393'
 ht-degree: 0%
@@ -31,9 +31,7 @@ Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/imp
   <tr>
     <td>Organizzazione: denominazione, cartelle e archiviazione</td>
     <td><li>Utilizza una convenzione di denominazione dei rapporti per distinguere i rapporti nella scheda Rapporti globali.</li>
-    <ul>
-    <li>Un esempio di buona pratica per le convenzioni di denominazione è [Tipo di rapporto] [Tag globale vs. BU-Specific] [Descrizione rapporto], ad esempio [Prestazioni e-mail]-[Globale]-[Coinvolgimento e-mail di 180 giorni].</li>
-    </ul> 
+    <ul><li>Un esempio di buona pratica per le convenzioni di denominazione è [Tipo di rapporto] [Tag globale vs. BU-Specific] [Descrizione rapporto], ad esempio [Prestazioni e-mail]-[Globale]-[Coinvolgimento e-mail di 180 giorni].</li></ul><br>
     <li>Identifica i rapporti che devono essere condivisi con diversi gruppi di utenti all’interno della tua organizzazione (ad esempio, team di vendita, direzione marketing) e organizza i rapporti per cartella all’interno della cartella Rapporti gruppo in Analytics for Global Reports.</li> 
     <li>L’archiviazione deve essere limitata alla cartella Rapporti globali, in quanto si tratta di rapporti sempre attivi.   <ul>
     <li>Limitare l'archiviazione alle modifiche organizzative, ad esempio la riduzione o l'aggiunta di unità aziendali rilevanti, se il reporting è basato su una struttura di unità aziendali.</li>
@@ -104,7 +102,7 @@ Identifica i rapporti che devono essere condivisi con diversi gruppi di utenti a
     <td>Rapporto prestazioni persone</td>
     <td><img src="assets/note-icon.png" alt="icona nota"> NOTA: si consiglia di disporre di un <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">strategia di canale e tag</a> per ogni implementazione del Marketo Engage prima di poter monitorare le persone acquisite e il ROI dei tuoi investimenti di marketing per canale.
     <p>
-    <li>Determina i criteri da utilizzare per misurare le prestazioni dei programmi di acquisizione dei lead e crea i rapporti standard basati sul tempo (visualizzazione anno corrente, ultimi 12 mesi continui o 180 giorni) in base a queste metriche:</li> <ul><li>Programma di acquisizione: programma di Marketo Engage accreditato per l’acquisizione della persona.
+    <li>Determina i criteri da utilizzare per misurare le prestazioni dei programmi di acquisizione dei lead e crea i rapporti standard basati sul tempo (visualizzazione anno corrente, ultimi 12 mesi continui o 180 giorni) in base a queste metriche:</li> <ul><li>Programma di acquisizione: programma di Marketo Engage accreditato per l’acquisizione della persona.</li>
     <li>Origine persona: la categoria di origine per la modalità con cui il record è diventato noto al database (in base all’elenco di origine dei valori nel CRM)
     </li></ul>
     <li>Misura le persone create per settimana o mese. Questo report fornisce una misura del tasso di crescita del database e indica se si sta raggiungendo il limite di dimensione del database.</li>

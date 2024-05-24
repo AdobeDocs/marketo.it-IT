@@ -3,7 +3,7 @@ description: Imposta la sezione Amministratore per la nuova istanza di Marketo E
 title: Best practice per le nuove istanze - Elenco di controllo sezione amministratore
 feature: Getting Started
 exl-id: 4fa90a32-7e97-404c-90b1-90d05c2561d0
-source-git-commit: 7805983cdaff0b99a38aefc2c2467b53f3386da3
+source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
 workflow-type: tm+mt
 source-wordcount: '634'
 ht-degree: 1%
@@ -112,7 +112,8 @@ In qualità di nuovo amministratore che naviga in una nuova istanza del Marketo 
     <td><li>Definire come utilizzare <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/managing-tag-values.html" target="_blank">tag</a>.</li></td>
   </tr>
   <tr>
-    <td>Calendario (se applicabile)</td>
+    <td>Calendario<br> 
+    (se applicabile)</td>
     <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.html" target="_blank">Postazioni calendario di marketing problema</a> a coloro che hanno bisogno di accedervi.</li>
     <li>Configurare <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.html" target="_blank">Calendario</a>.</li></td>
   </tr>
