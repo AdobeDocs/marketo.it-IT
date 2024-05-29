@@ -3,9 +3,9 @@ description: Generazione di domande - Documentazione di Marketo - Documentazione
 title: Generazione di domande
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
 ## Indirizzi IP da Inserire nell&#39;elenco Consentiti per l accesso {#ip-addresses-to-allowlist}
 
-Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione di domande e risposte, individua la tua regione di seguito e assicurati che tutti gli indirizzi IP associati a essa siano inseriti nell&#39;elenco Consentiti dal team web.
+Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione di domande e risposte, individua la tua regione di seguito e assicurati che l’indirizzo IP associato sia inserito nell&#39;elenco Consentiti dal team web.
 
 <table width="450">
 <thead>
@@ -81,41 +81,6 @@ Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione 
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>20 10 235 188</td>
-    <td>20 76 246 248</td>
-    <td>20 167 0 195</td>
-  </tr>
-  <tr>
-    <td>20.10.235.189</td>
-    <td>20 76 247 92</td>
-    <td>20 248 128 31</td>
-  </tr>
-  <tr>
-    <td>20 10 235 246</td>
-    <td>20 76 247 134</td>
-    <td>20 167 1 48</td>
-  </tr>
-  <tr>
-    <td>20 10 235 248</td>
-    <td>20 76 247 244</td>
-    <td>20 167 1 63</td>
-  </tr>
-  <tr>
-    <td>20 10 235 255</td>
-    <td>20 93 168 10</td>
-    <td>20 167 1 92</td>
-  </tr>
-  <tr>
-    <td>20.10.236.96</td>
-    <td>20 93 168 44</td>
-    <td>20 167 1 155</td>
-  </tr>
-  <tr>
-    <td>20 119 144 14</td>
-    <td>20 105 224 16</td>
-    <td>20 211 64 11</td>
-  </tr>
   <tr>
     <td>13 68 17 252</td>
     <td>20 105 150 224</td>

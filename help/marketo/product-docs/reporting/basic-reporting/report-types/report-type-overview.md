@@ -4,9 +4,9 @@ description: Panoramica sul tipo di rapporto - Documenti Marketo - Documentazion
 title: Panoramica del tipo di rapporto
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: c7069488ccb0444179cd995bec523ac4dd92da73
+source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -64,11 +64,7 @@ Quando [creare un rapporto in un programma](/help/marketo/product-docs/reporting
   <tr> 
    <td><strong><a href="web-page-activity-report.md">Attività pagina web</a></strong></td> 
    <td>Segnala l’attività web alle pagine di destinazione e al sito web pubblico.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Influenza sociale</strong></td> 
-   <td>Rivedi l’attività sociale che stai generando e osserva quanto spesso le tue persone raccontano ai loro amici di te.</td> 
-  </tr> 
+  </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapporto sulle prestazioni del flusso di coinvolgimento</a> </strong></td> 
    <td>Scopri il tuo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a> funziona.</td> 
