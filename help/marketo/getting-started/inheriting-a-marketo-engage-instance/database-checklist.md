@@ -2,10 +2,10 @@
 description: Elenco di controllo del database delle istanze ereditate - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco di controllo del database delle istanze ereditate
 feature: Getting Started
-exl-id: efb126af-770c-4ce1-a131-0f3f66dfeafb
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '420'
 ht-degree: 1%
 
 ---
@@ -115,9 +115,3 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ audit di un’istanza ereditata: Admin](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
-
-[Audit di un’istanza ereditata: ► delle attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)

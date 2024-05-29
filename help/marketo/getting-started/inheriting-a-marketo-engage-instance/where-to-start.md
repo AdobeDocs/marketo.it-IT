@@ -2,10 +2,10 @@
 description: Scopri come ottimizzare e scalare un’istanza di Marketo Engage esistente che hai ereditato. Segui l’elenco di controllo per controllare le impostazioni di amministrazione e mantenere l’igiene del database.
 title: Da dove iniziare
 feature: Getting Started
-exl-id: a7abbfe3-c2ac-489f-bc4b-9e8d3412b419
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Assicurati di essere configurato correttamente nella community delle nazioni mar
 
 * Consulta la sezione [**Linee guida per il marketing**](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines){target="_blank"}.
 
-* Scopri come [**invia un caso di supporto**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (and confirm you're [**set up as an authorized support contact**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
+* Scopri come [**invia un caso di supporto**](https://nation.marketo.com/t5/Knowledgebase/Submitting-a-Support-Case-to-Marketo-Support/ta-p/252201){target="_blank"} (e conferma che sei [**imposta come contatto di supporto autorizzato**](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}).
 
 ## Unisci il tuo Marketing Nation Profile {#merge-your-marketing-nation-profile}
 
@@ -46,15 +46,15 @@ Ad Adobe, con l’input di Marketo Champions, ha creato diverse liste di control
 
 È inoltre possibile [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) sotto forma di foglio di calcolo.
 
-* [Sezione Amministratore](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
+* [Sezione Amministratore](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
-* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
+* [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+* [Attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Documentare la configurazione dell’istanza ereditata](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
+* [Documentare la configurazione dell’istanza ereditata](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Come ottenere assistenza {#ways-to-get-help}
 
@@ -62,7 +62,7 @@ Hai bisogno di ulteriore aiuto? Entra in contatto con noi o con altri utenti del
 
 * Per assistenza tecnica su qualcosa che non funziona correttamente, contatta **[Assistenza clienti Marketo Engage](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}**.
 
-* Connettersi con gli altri utenti del Marketo Engage e imparare da essi in **[Nazione marketing](https://nation.marketo.com/){target="_blank"}**.
+* Connettersi con gli altri utenti del Marketo Engage e imparare da essi in **[Community Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"}**.
 
 * Per assistenza pratica su come ottenere il massimo dall’istanza del Marketo Engage, contatta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 

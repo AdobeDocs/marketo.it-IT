@@ -3,9 +3,9 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '561'
 ht-degree: 1%
 
 ---
@@ -166,9 +166,3 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[◄ audit di un’istanza ereditata: attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
-
-[Controllo di un’istanza ereditata: documenta il ► di configurazione dell’istanza ereditata](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)

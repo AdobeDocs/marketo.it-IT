@@ -3,9 +3,9 @@ description: Scopri le best practice per l’implementazione di una nuova istanz
 title: Da dove iniziare
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -34,17 +34,19 @@ Scarica l’istanza di Marketo Engage [Nuovi elenchi di controllo per l’ammini
 
 * [Database](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md){target="_blank"}
 
+* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+
 * [Attività di marketing](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Design Studio](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Analytics](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md){target="_blank"}
 
 * [Documentare la configurazione della nuova istanza](/help/marketo/getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Connetti con i tuoi colleghi {#connect-with-your-peers}
 
-Visita il [Community nazione marketing](https://nation.marketo.com/){target="_blank"} per ulteriori informazioni sull&#39;istanza di Marketo Engage, dai dipendenti del Marketo Engage e dagli altri utenti.
+Visita il [Community Adobe Marketo Engage](https://nation.marketo.com/){target="_blank"} (nota anche come Marketing Nation) per ulteriori informazioni sull’istanza di Marketo Engage, dai dipendenti del Marketo Engage e dagli altri utenti.
 
-Introduzione alla community delle nazioni marketing:
+Introduzione alla community:
 
 1. Clic **Continua con Adobe ID** e seleziona l’abbonamento principale nella pagina di accesso.
 1. Al momento dell&#39;accesso, completa il profilo community.

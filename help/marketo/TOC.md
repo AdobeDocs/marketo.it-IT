@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
 source-wordcount: '9358'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
       + [Da dove iniziare](getting-started/implementing-a-new-marketo-engage-instance/where-to-start.md)
       + [Best practice per le nuove istanze: elenco di controllo sezione amministratore](getting-started/implementing-a-new-marketo-engage-instance/admin-section-checklist.md)
       + [Best practice per le nuove istanze: elenco di controllo del database](getting-started/implementing-a-new-marketo-engage-instance/database-checklist.md)
-      + [Best practice per la nuova istanza: elenco di controllo delle attività di marketing](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Best practice per le nuove istanze: Elenco di controllo di Design Studio](getting-started/implementing-a-new-marketo-engage-instance/design-studio-checklist.md)
+      + [Best practice per la nuova istanza: elenco di controllo delle attività di marketing](getting-started/implementing-a-new-marketo-engage-instance/marketing-activities-checklist.md)
       + [Best practice per le nuove istanze: elenco di controllo di Analytics](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Tecniche consigliate per le nuove istanze: documenta la configurazione](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Aspetti da considerare {#things-to-know}
@@ -51,8 +51,8 @@ ht-degree: 0%
       + [Da dove iniziare](getting-started/inheriting-a-marketo-engage-instance/where-to-start.md)
       + [Istanza ereditata: elenco di controllo sezione amministratore](getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md)
       + [Istanza ereditata: elenco di controllo del database](getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
-      + [Istanza ereditata: elenco di controllo delle attività di marketing](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Istanza ereditata: elenco di controllo di Design Studio](getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md)
+      + [Istanza ereditata: elenco di controllo delle attività di marketing](getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md)
       + [Istanza ereditata: documenta la configurazione](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Revisione delle abilità principali](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documentazione del prodotto {#product-docs}

@@ -3,9 +3,9 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: a3d9fcfa0381933e1a7e62f19b414bc380f325b5
+source-git-commit: 2c74c71c9311312f7e0991ed5598ccb09a9b1f15
 workflow-type: tm+mt
-source-wordcount: '1846'
+source-wordcount: '1858'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 
 >[!NOTE]
 >
->Questo è applicabile solo agli abbonamenti di Marketo Engage a cui è stato effettuato l’onboarding [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. If your subscription has not onboarded Adobe IMS yet, proceed with the [legacy user roles and permissions experience](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Amministratore > Utenti e ruoli.
+>Questo è applicabile solo agli abbonamenti di Marketo Engage a cui è stato effettuato l’onboarding [Sistema Adobe Identity Management (IMS)](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. Se il tuo abbonamento non ha ancora effettuato l’onboarding di Adobe IMS, procedi con [esperienza ruoli utente e autorizzazioni legacy](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"} in Marketo Engage > Amministratore > Utenti e ruoli.
 
 <table> 
  <tbody> 
@@ -381,7 +381,3 @@ Dopo aver completato il controllo delle impostazioni Utenti e ruoli, accedi al D
   </tr>
  </tbody> 
 </table>
-
-<br> 
-
-[Controllo di un&#39;istanza ereditata: ► database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md)
