@@ -4,9 +4,9 @@ title: Best practice per le nuove istanze - Elenco di controllo di Analytics
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 6aeb894e6a36064825a25474c67f53a291f548ab
 workflow-type: tm+mt
-source-wordcount: '1393'
+source-wordcount: '1615'
 ht-degree: 0%
 
 ---
@@ -117,7 +117,8 @@ Identifica i rapporti che devono essere condivisi con diversi gruppi di utenti a
     <li>Gestisci l’iscrizione al programma (utilizzando Campagne avanzate per aggiornare il programma di acquisizione, lo stato e gli stati di successo) in base alle best practice di Marketing Activities (Attività di marketing).</li>
     <li>Misura basata sui costi per l’anno in corso e su 12 mesi consecutivi.
     <ul><li>Tenere presente che <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program">Costi periodo</a> è fondamentale per sfruttare il Rapporto sulle prestazioni del programma.</li></ul>
-    <p><img src="assets/tip-icon.png" alt="icona nota"> SUGGERIMENTO: per aggregare e visualizzare <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">elenchi importati</a> nei Rapporti sulle prestazioni del programma, accertati che i team selezionino il programma di acquisizione appropriato per l’assegnazione di tag. Considerare <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creazione di un programma predefinito</a> da selezionare come programma di acquisizione quando gli elenchi importati non si applicano ad alcun canale. Questo assicura che ogni persona importata disponga di un programma di acquisizione valido relativo all'origine, alla Business Unit, al canale, ecc., invece di un valore vuoto.</td>
+    <br>
+    <br><img src="assets/tip-icon.png" alt="icona nota"> SUGGERIMENTO: per aggregare e visualizzare <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people">elenchi importati</a> nei Rapporti sulle prestazioni del programma, accertati che i team selezionino il programma di acquisizione appropriato per l’assegnazione di tag. Considerare <a href="https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/create-and-measure-default-programs">creazione di un programma predefinito</a> da selezionare come programma di acquisizione quando gli elenchi importati non si applicano ad alcun canale. Questo assicura che ogni persona importata disponga di un programma di acquisizione valido relativo all'origine, alla Business Unit, al canale, ecc., invece di un valore vuoto.</td>
   </tr>
   <tr>
     <td>Rapporto sulle prestazioni della pagina di destinazione</td>
@@ -152,7 +153,7 @@ Alcuni rapporti sui Marketi Engage possono essere distribuiti come risorse local
   <tr>
     <td>Rapporto sull’attività della campagna</td>
     <td><li>Creare <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">Rapporto sull’attività della campagna</a> e scegli un periodo all’interno della cartella operativa in Attività di marketing.</li>
-    <li>Imposta i rapporti per monitorare i trigger per ogni caso d’uso e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/campaign-activity-report" target="_blank">applicare i filtri della campagna</a> (ad esempio, trigger di Punteggio comportamento, trigger di qualificazione del ciclo di vita, trigger dei momenti di interesse).</li></td>
+    <li>Imposta i rapporti per monitorare i trigger per ogni caso d’uso e <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report" target="_blank">applicare i filtri della campagna</a> (ad esempio, trigger di Punteggio comportamento, trigger di qualificazione del ciclo di vita, trigger dei momenti di interesse).</li></td>
   </tr>
   <tr>
     <td>Rapporto sulle prestazioni del flusso di coinvolgimento (se applicabile)</td>
@@ -160,4 +161,41 @@ Alcuni rapporti sui Marketi Engage possono essere distribuiti come risorse local
     <li>Valuta l’utilizzo di <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/group-email-reports-by-segmentations" target="_blank">Filtro "Segmentation" (Segmentazione) nella scheda Setup (Configurazione) del rapporto</a> e raggruppamento dei dati di reporting per <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation" target="_blank">segmento</a> (ad esempio, origine della persona o settore) utilizzato nel programma di coinvolgimento. Questo ti aiuterà a ottenere informazioni più approfondite sui pattern di coinvolgimento di ogni segmento, guidandoti verso modifiche strategiche per migliorare il tuo programma di coinvolgimento (contenuto, flusso, frequenza di flusso, ecc.).</li></td>
   </tr>
 </tbody>
+</table>
+
+TABELLA CON PUNTI ELENCO FUNZIONANTI
+
+<table>
+<tbody>
+<tr>
+    <td>Rapporti sui gruppi</td>
+    <td><img src="assets/note-icon.png" alt="icona nota"> NOTA: TESTO.
+    <p>
+    <li>TESTO.</li>
+    <li>TESTO.
+    <ul><li>TESTO</li>
+    <li>TESTO</li></ul>
+    <li>TESTO.</li>
+    <li>TESTO.</li>
+    <p><img src="assets/tip-icon.png" alt="icona nota"> SUGGERIMENTO: TESTO.</td>
+  </tr>
+  </tbody>
+</table>
+
+TEST FIX 1
+
+<table>
+<tbody>
+<tr>
+    <td>Rapporto prestazioni persone</td>
+    <td><img src="assets/note-icon.png" alt="icona nota"> NOTA: si consiglia di disporre di un <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags">strategia di canale e tag</a> per ogni implementazione del Marketo Engage prima di poter monitorare le persone acquisite e il ROI dei tuoi investimenti di marketing per canale.
+    <p>
+    <li>Determina i criteri da utilizzare per misurare le prestazioni dei programmi di acquisizione dei lead e crea i rapporti standard basati sul tempo (visualizzazione anno corrente, ultimi 12 mesi continui o 180 giorni) in base a queste metriche:</li>
+    <ul><li>Programma di acquisizione: programma di Marketo Engage accreditato per l’acquisizione della persona</li>
+    <li>Origine persona: la categoria di origine per la modalità con cui il record è diventato noto al database (in base all’elenco di origine dei valori nel CRM)</li></ul>
+    <li>Misura le persone create per settimana o mese. Questo report fornisce una misura del tasso di crescita del database e indica se si sta raggiungendo il limite di dimensione del database.</li>
+    <li>Filtrare le metriche nei report sulle prestazioni delle persone per <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report">utilizzo degli elenchi avanzati come colonne personalizzate.</a></li>
+    <p><img src="assets/tip-icon.png" alt="icona nota"> SUGGERIMENTO: creare elenchi avanzati per le colonne personalizzate che si desidera aggiungere al rapporto Prestazioni persone nel database anziché alle attività di marketing, in modo da visualizzare correttamente e chiaramente il nome dell'elenco smart quando viene selezionato nel rapporto.</td>
+  </tr>
+  </tbody>
 </table>
