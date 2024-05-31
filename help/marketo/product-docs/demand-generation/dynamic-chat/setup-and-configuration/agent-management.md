@@ -2,11 +2,11 @@
 description: Gestione degli agenti - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione agente
 feature: Dynamic Chat
-exl-id: 6518a0bd-cdd2-4489-b414-d84e0ed2f61f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
+source-git-commit: 90cbf44cb567f32cc054f4fd6e282b1313a071b7
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 2%
+source-wordcount: '211'
+ht-degree: 0%
 
 ---
 
@@ -21,6 +21,10 @@ In Gestione agenti, visualizza un elenco di agenti nell’istanza di Dynamic Cha
 Questa scheda elenca tutti gli agenti nell’istanza di Dynamic Chat e include informazioni quali nome, indirizzo e-mail, stato della chat in tempo reale e altro ancora.
 
 ![](assets/agent-management-2.png)
+
+>[!NOTE]
+>
+>Non visualizzare un agente _solo_ aggiunto? Potrebbero essere necessarie fino a due ore per visualizzarle qui dopo averle aggiunte nell’Admin Console di Adobe.
 
 ## Team {#teams}
 
@@ -42,7 +46,7 @@ Gli amministratori possono creare team di agenti per facilitare l’inoltro a gr
 
    ![](assets/agent-management-6.png)
 
-1. Fai clic su **Crea**.
+1. Clic **Crea**.
 
    ![](assets/agent-management-7.png)
 
