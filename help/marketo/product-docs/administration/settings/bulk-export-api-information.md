@@ -3,16 +3,16 @@ description: Informazioni API per esportazione in blocco - Documenti Marketo - D
 title: Informazioni API per esportazione in blocco
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
 # Informazioni API per esportazione in blocco {#bulk-export-api-information}
 
-Scopri come controllare la quantità [API di estrazione in blocco](https://developers.marketo.com/rest-api/bulk-extract/){target="_blank"} la capacità è stata utilizzata dall’istanza di Marketo Engage negli ultimi sette giorni.
+Scopri come controllare la quantità [API di estrazione in blocco](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} la capacità è stata utilizzata dall’istanza di Marketo Engage negli ultimi sette giorni.
 
 >[!NOTE]
 >
@@ -34,4 +34,4 @@ Scopri come controllare la quantità [API di estrazione in blocco](https://devel
 
 >[!NOTE]
 >
->L’allocazione per l’istanza del Marketo Engage viene ripristinata ogni giorno alle 00:00 CST.
+>L’allocazione per l’istanza di Marketo Engage viene ripristinata ogni giorno alle 00:00 CST.

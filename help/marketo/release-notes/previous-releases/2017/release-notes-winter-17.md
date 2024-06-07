@@ -4,7 +4,7 @@ description: Note sulla versione -Inverno '17 - Documentazione Marketo - Documen
 title: Note sulla versione - Inverno '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
 feature: Release Information
-source-git-commit: d1187418ecc5fa0dc47e17471baf86955667c647
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -27,7 +27,7 @@ La corrispondenza di base utilizza solo gli indirizzi e-mail, ma la nuova corris
 
 ![](assets/fb-custom-audiences-schebsches.png)
 
-## [API di importazione oggetti personalizzati](https://developers.marketo.com/rest-api/lead-database/custom-objects/) {#custom-object-import-api}
+## [API di importazione oggetti personalizzati](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Custom-Objects) {#custom-object-import-api}
 
 Questa API fornisce un’interfaccia più veloce per sincronizzare gli oggetti personalizzati in Marketo. È possibile importare file CSV, TSV o SSV in Marketo come oggetti personalizzati.
 
@@ -81,7 +81,7 @@ Filtra l’analisi predittiva dei contenuti per origini specifiche: e-mail, cont
 
 L’URL dell’immagine e i metadati vengono ora utilizzati nel processo di rilevamento automatico dei contenuti.
 
-## [Miglioramenti dell’SDK](https://developers.marketo.com/mobile/) {#sdk-enhancements}
+## [Miglioramenti dell’SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Gli sviluppatori ora hanno un controllo aggiuntivo sulla distribuzione delle notifiche push con l’aggiunta di una nuova chiamata API SDK che consente agli sviluppatori di rimuovere i token push.
 

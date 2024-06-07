@@ -4,9 +4,9 @@ description: Inviare codice SDK a uno sviluppatore - Documentazione di Marketo -
 title: Inviare codice SDK a uno sviluppatore
 exl-id: 0c32b9af-8d86-40d7-b1f3-9aaa53b9b730
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Prima di poter creare messaggi in-app o notifiche push, è necessario che lo sviluppatore configuri e inizializzi l’SDK dell’app mobile per le piattaforme Android e iOS.
 
-* [Istruzioni per Android](https://developers.marketo.com/documentation/mobile/installation-instructions-on-android/)
-* [Istruzioni per iOS](https://developers.marketo.com/documentation/mobile/installation-instructions-on-ios/)
+* [Istruzioni per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Istruzioni per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios)
 
 ## Inviare codice SDK a uno sviluppatore {#send-sdk-code-to-a-developer-1}
 

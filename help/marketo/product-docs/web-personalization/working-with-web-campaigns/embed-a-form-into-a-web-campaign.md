@@ -4,9 +4,9 @@ description: Incorporare un modulo in una campagna web - Documentazione di Marke
 title: Incorporare un modulo in una campagna web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Per modificare il CSS di un tema modulo, vedi [questo articolo](/help/marketo/pr
 
 Per modificare i colori della finestra di dialogo o del widget in Imposta campagna:
 
-1. Nell’Editor Rich Text, seleziona un tipo di campagna Finestra di dialogo e uno stile di finestra di dialogo, il colore dell’intestazione e il colore di sfondo per personalizzare i colori di sfondo del modulo. Clic **Salva**.
+1. Nell’Editor Rich Text, seleziona un tipo di campagna Finestra di dialogo e uno stile di finestra di dialogo, il colore dell’intestazione e il colore di sfondo per personalizzare i colori di sfondo del modulo. Fai clic su **Salva**.
 
    ![](assets/image2015-12-29-18-3a28-3a31.png)
 
@@ -85,4 +85,4 @@ Per aggiungere codice CSS allo script:
 >
 >* [Modificare il CSS di un tema modulo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostra il messaggio di ringraziamento senza una pagina di destinazione di completamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

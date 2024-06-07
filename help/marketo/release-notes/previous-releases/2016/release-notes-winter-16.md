@@ -4,9 +4,9 @@ description: Note sulla versione -Inverno '16 - Documentazione Marketo - Documen
 title: Note sulla versione - Inverno '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '497'
 ht-degree: 0%
 
 ---
@@ -49,13 +49,13 @@ Per utilizzare questa funzione, il programma e-mail deve essere pianificato con 
 
 ## [Miglioramenti al mobile marketing](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Supporto PhoneGap:** Ora offriamo il supporto di PhoneGap per la tua app mobile. [Ulteriori informazioni](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
+**Supporto PhoneGap:** Ora offriamo il supporto di PhoneGap per la tua app mobile. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Supporto per le app sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API del programma](https://developers.marketo.com/documentation/programs/) {#program-api}
+## [API del programma](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Crea, aggiorna e clona programmi tramite l’API REST. Ciò non include la creazione o l’aggiornamento di elenchi avanzati e campagne intelligenti all’interno di un programma.
 

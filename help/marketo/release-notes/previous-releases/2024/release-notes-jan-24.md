@@ -2,7 +2,8 @@
 description: Note sulla versione - Gennaio 2024 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2024
 feature: Release Information
-source-git-commit: 2967e2214b8f1988f8a8482569cbb041381b1b6b
+exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 1%
@@ -191,7 +192,7 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 
 * **Aggiornamento annullamento iscrizione mailing list con un solo clic**: Gmail e Yahoo hanno implementato diversi nuovi requisiti del mittente che sono entrati in vigore il 1° febbraio 2024. Scopri [che cosa sono e come influiscono su di lei](https://nation.marketo.com/t5/employee-blogs/update-support-for-one-click-list-unsubscribe-for-marketo/ba-p/344514#M352){target="_blank"}.
 
-* **Sincronizza aggiornamento API lead**: Il [Sincronizza API lead](https://developers.marketo.com/rest-api/lead-database/leads/#create_and_update){target="_blank"}Il comportamento di è stato leggermente regolato per quanto riguarda gli aggiornamenti `unsubscribed` campo. Ora, quando si passa `null` come valore, è uguale al passaggio di un valore di `false`.
+* **Sincronizza aggiornamento API lead**: Il [Sincronizza API lead](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}Il comportamento di è stato leggermente regolato per quanto riguarda gli aggiornamenti `unsubscribed` campo. Ora, quando si passa `null` come valore, è uguale al passaggio di un valore di `false`.
 
 * **Marketi Engage Forms jQuery 1.x**: nella versione di gennaio 2024, aggiorneremo jQuery per Marketi Engage Forms a jQuery 3.x. Questo può influire sull’implementazione di moduli personalizzati basati su versioni precedenti di jQuery. [Fai clic qui per ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 

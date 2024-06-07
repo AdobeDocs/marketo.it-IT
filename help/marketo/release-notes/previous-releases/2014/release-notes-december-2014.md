@@ -4,9 +4,9 @@ description: Note sulla versione -Dicembre 2014 - Documentazione Marketo - Docum
 title: Note sulla versione - Dicembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '477'
 ht-degree: 0%
 
 ---
@@ -65,11 +65,11 @@ Tre nuove chiamate per l’API ReST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio, all’indirizzo [developers.marketo.com](https://developers.marketo.com/)
+I dettagli completi saranno disponibili dopo il rilascio, all’indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Miglioramenti alla compatibilità di Munchkin con JavaScript {#munchkin-javascript-compatibility-enhancements}
 
-Abbiamo apportato diversi miglioramenti minori a Munchkin per assicurarne il caricamento rapido e il corretto funzionamento nei casi in cui si riscontri la presenza di altri JavaScript sulla pagina.
+Abbiamo apportato diversi miglioramenti minori a Munchkin per assicurarne il caricamento rapido e il funzionamento come desiderato nei casi con altri JavaScript sulla pagina.
 
 Il rollout sarà messo in scena a partire da metà dicembre e continuerà per diversi mesi.
 
@@ -83,7 +83,7 @@ Il rollout sarà messo in scena a partire da metà dicembre e continuerà per di
 
 ## RTP: modulo elenco account denominati {#rtp-named-account-list-module}
 
-Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina Account denominati. Carica nuovi elenchi di account denominati per identificare ed eseguire il targeting di queste organizzazioni. Il processo è stato automatizzato per offrirti maggiore controllo e flessibilità nell’implementare piani di marketing basati sull’account e indirizzare gli account chiave verso canali diversi (web e pubblicitari).
+Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina Account denominati. Carica nuovi elenchi di account denominati per identificare ed eseguire il targeting di queste organizzazioni. Abbiamo automatizzato il processo per offrirti maggiore controllo e flessibilità nell’implementazione di piani di marketing basati sull’account e nel targeting dei tuoi account chiave per diversi canali (web e pubblicitari).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

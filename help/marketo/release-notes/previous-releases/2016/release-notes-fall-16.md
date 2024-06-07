@@ -4,9 +4,9 @@ description: Note sulla versione -Autunno '16 - Documentazione Marketo - Documen
 title: Note sulla versione - Autunno '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -53,7 +53,7 @@ Ora è possibile assegnare i team dell&#39;account ad account denominati in Acco
 
 **API REST**
 
-Questa versione consente inoltre di gestire gli attributi e i punteggi degli account denominati in ABM utilizzando l’API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visita il [Sito web Marketo Developers](https://developers.marketo.com/rest-api/lead-database/named-accounts).
+Questa versione consente inoltre di gestire gli attributi e i punteggi degli account denominati in ABM utilizzando l’API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visita il [Sito web Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
 ## [Miglioramenti di Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
@@ -84,11 +84,11 @@ Rendi più ricca la tua notifica push di iOS grazie all’abilitazione dell’au
 
 Market Sales Insight è ora compatibile con Salesforce Shield Encryption. Tutti i clienti Sales Insight devono effettuare l’aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), che è [disponibile su Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API degli account denominati](https://developers.marketo.com/rest-api/lead-database/named-accounts/) {#named-accounts-apis}
+## [API degli account denominati](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Con questa versione, gli utenti ABM di Marketo possono gestire account denominati tramite l’API Account denominati. Gli utenti possono creare, aggiornare ed eliminare account denominati, nonché leggere e aggiornare i punteggi degli account denominati ABM.
 
-## [Supporto API dell’editor e-mail v2.0](https://developers.marketo.com/rest-api/assets/emails/) {#email-editor-v-api-support}
+## [Supporto API dell’editor e-mail v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Gestisci variabili e moduli per le e-mail in formato v2.0 utilizzando l’API REST di Marketo.
 

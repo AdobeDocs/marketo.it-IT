@@ -4,9 +4,9 @@ description: Creare un servizio personalizzato da utilizzare con API ReST - Docu
 title: Creare un servizio personalizzato da utilizzare con API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 >[!TIP]
 >
->Consulta la documentazione per gli sviluppatori per informazioni dettagliate su [API ReST](https://developers.marketo.com/documentation/rest/). Inoltre, è possibile [API SOAP](https://developers.marketo.com/documentation/soap/) se è quello che ti serve.
+>Consulta la documentazione per gli sviluppatori per informazioni dettagliate su [API REST](https://developer.adobe.com/marketo-apis/). Inoltre, è possibile [API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) se è quello che ti serve.
 
 ## Crea servizio personalizzato {#create-custom-service}
 
@@ -51,7 +51,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
    >
    >Tieni presente che disponiamo già dell’integrazione nativa per i servizi dei webinar più diffusi.
 
-1. Fai clic su **[!UICONTROL Crea]**.
+1. Clic **[!UICONTROL Crea]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 

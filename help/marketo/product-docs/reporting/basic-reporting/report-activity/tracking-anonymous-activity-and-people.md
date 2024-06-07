@@ -4,9 +4,9 @@ description: Tracciamento attività e persone anonime - Documentazione di Market
 title: Tracciamento di attività e persone anonime
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ La prima volta che un utente visita un Marketo [pagina di destinazione](/help/ma
 
    * Clic su un [collegamento in un messaggio e-mail di Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Compila un Marketo [modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md).
-   * Utilizza Marketo [API REST](https://developers.marketo.com/rest-api/lead-database/leads/) o [Munchkin](https://developers.marketo.com/documentation/websites/lead-tracking-munchkin-js/) API (per sviluppatori) per associare un’attività anonima a un record noto.
+   * Utilizza Marketo [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) o [Munchkin](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking) API (per sviluppatori) per associare un’attività anonima a un record noto.
 
    Un nome nel database potrebbe essere associato a molti cookie perché le persone spesso utilizzano dispositivi e browser diversi per visitare il sito.
 

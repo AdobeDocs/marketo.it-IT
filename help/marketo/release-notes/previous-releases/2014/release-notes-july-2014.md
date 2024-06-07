@@ -4,7 +4,7 @@ description: Note sulla versione - Luglio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '425'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Elencare operazioni nell’API ReST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le chiamate di seguito relative alle operazioni di elenco in ReST. Consulta [developers.marketo.com](https://developers.marketo.com/documentation/rest/) per la documentazione completa.
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) per la documentazione completa.
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -78,7 +78,7 @@ Pagina Imposta campagna RTP [include modelli già pronti](/help/marketo/product-
 
 ## RTP: miglioramenti API JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Visualizza la [sito per sviluppatori](https://developers.marketo.com/documentation/websites/rtp-js-api/) per la documentazione completa.
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Visualizza la [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per la documentazione completa.
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

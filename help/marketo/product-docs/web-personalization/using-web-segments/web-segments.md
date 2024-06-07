@@ -4,9 +4,9 @@ description: Segmenti web - Documentazione di Marketo - Documentazione del prodo
 title: Segmenti web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '2031'
+source-wordcount: '2051'
 ht-degree: 0%
 
 ---
@@ -149,7 +149,7 @@ Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il cod
 
 >[!TIP]
 >
->**Quali condizioni di segmento scelgo? &quot;AND&quot; o &quot;OR&quot;?** O funziona come opzione aggiuntiva all’interno di ciascun campo. I potenziali clienti devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo per qualificarsi per il segmento. Ad esempio, i clienti potenziali possono provenire da Stati Uniti, *o* dell&#39;industria della difesa). AND funge da parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della Difesa). All’interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot; a seconda della Condizione del segmento selezionata.
+>**Quali condizioni di segmento scelgo? &#39;AND&#39; o &#39;OR&#39;?** O funziona come opzione aggiuntiva all’interno di ciascun campo. I potenziali clienti devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo per qualificarsi per il segmento. Ad esempio, i clienti potenziali possono provenire da Stati Uniti, *o* dell&#39;industria della difesa). AND funge da parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della Difesa). All’interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot; a seconda della Condizione del segmento selezionata.
 
 **Settori** Sotto **Segmentazione del profilo** sezione, seleziona la casella accanto a **Settore**.
 
@@ -187,7 +187,7 @@ Seleziona da un [Elenco account denominati](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell’elenco degli account denominati viene utilizzato come riferimento di indice per l’elenco per la personalizzazione web [API di lettura](https://developers.marketo.com/documentation/websites/rtp-js-api/).
+>Il numero tra parentesi accanto al nome dell’elenco degli account denominati viene utilizzato come riferimento di indice per l’elenco per la personalizzazione web [API di lettura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Escludi ISP**
 
@@ -236,7 +236,7 @@ Definisci il segmento in base allo stato di un potenziale cliente: noto o anonim
 
    * Nella casella di testo a destra, immetti il numero del visitatore che desideri monitorare. Il numero di identificazione univoco del visitatore di Web Personalization si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e si imposta Campaign sul pannello laterale destro. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
-**Termini di ricerca** - Definire un segmento in base ai termini di ricerca di un potenziale cliente.
+**Termini di ricerca** : definisci un segmento in base ai termini di ricerca di un potenziale cliente.
 
 * Il visitatore ha cercato: dall’elenco a discesa, seleziona i termini di cui vuoi tenere traccia dalla ricerca dei visitatori, oppure aggiungi i tuoi termini di ricerca. (Non è necessario utilizzare &#42; carattere jolly nei termini di ricerca poiché è impostato come predefinito per includere frasi che contengono il termine di ricerca).
 
@@ -286,11 +286,11 @@ Aggiungi il valore Evento di destinazione. Ad esempio da fonti di dati di terze 
 
 **API contesto utente**
 
-Chiamata API di personalizzazione web  [ulteriori informazioni qui.](https://developers.marketo.com/documentation/websites/rtp-user-context-api/)
+Chiamata API di personalizzazione web  [ulteriori informazioni qui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
->**Utilizzo dei caratteri jolly -** Quando desideri includere un termine di ricerca o un URL che contenga qualcosa, ad esempio &quot;[google.com](https://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito un asterisco - questo piccolo ragazzo&#42; - su ciascuna estremità. Quindi tutto ciò che proviene da [google.com](https://google.com) deve essere immesso come &#42; [google.com](https://google.com)&#42;
+>**Utilizzo dei caratteri jolly -** Quando desideri includere un termine di ricerca o un URL che contenga qualcosa, ad esempio &quot;[google.com](https://google.com)&quot; o &quot;search term product&quot;, lo chiamiamo un carattere jolly e dovrebbe essere inserito un asterisco - questo piccolo ragazzo&#42; - su ciascuna estremità. Quindi qualsiasi cosa provenga da [google.com](https://google.com) deve essere immesso come &#42; [google.com](https://google.com)&#42;
 
 ## Modifica segmenti {#edit-segments}
 
@@ -302,7 +302,7 @@ Puoi modificare un segmento che è stato creato.
 
 1. In **Segmenti** , fare clic sull&#39;icona di modifica ( ![](assets/segment-edit.png)) del segmento che desideri modificare. Il **Imposta segmento** viene visualizzata la pagina con il segmento selezionato.
 1. Applica al segmento le modifiche che desideri apportare.
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
 ## Eliminare segmenti {#delete-segments}
 
@@ -314,13 +314,13 @@ Puoi eliminare i segmenti creati.
 
 >[!NOTE]
 >
->Non puoi eliminare un segmento associato a una campagna. Devi innanzitutto eliminare la campagna e quindi il segmento.
+Non puoi eliminare un segmento associato a una campagna. Devi innanzitutto eliminare la campagna e quindi il segmento.
 
 Fantastico! Ora che conosci la sezione Segmenti, scopri le campagne.
 
 >[!MORELIKETHIS]
 >
->* [Creare un segmento web di base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
->* [Creare una nuova campagna web per finestre di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Crea una nuova campagna web nell’area](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Crea una nuova campagna web widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+* [Creare un segmento web di base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md)
+* [Creare una nuova campagna web per finestre di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+* [Crea una nuova campagna web nell’area](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+* [Crea una nuova campagna web widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

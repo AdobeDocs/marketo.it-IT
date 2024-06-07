@@ -4,9 +4,9 @@ description: Note sulla versione - Primavera 2019 - Documentazione di Marketo - 
 title: Note sulla versione - Primavera 2019
 exl-id: eb7a9ac4-5c3d-4d98-9b06-e3f11147bc6d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '460'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Le seguenti funzionalità sono state rilasciate il 15 marzo 2019.
 
 * **In lista d’attesa:** Nuovo stato programma/evento per l&#39;inserimento in lista d&#39;attesa di un membro quando si desidera [metterli in attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) fino all&#39;apertura di un ruolo vacante. Questo vale per i canali associati ai programmi Event in Marketo Classic e sia Event che Event con i programmi Webinar in Marketo Sky. Per impostazione predefinita, In lista d’attesa ha lo stesso valore di passaggio di Registrato.
 * **[Limite di comunicazione personalizzato](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md)**: gli amministratori possono ora impostare limiti di comunicazione personalizzati giornalieri o settimanali.
-* **[API per risorse di Campaign avanzate](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**: arricchisci le analisi al di fuori di Marketo con il recupero intelligente dei record della campagna in base a data e ID aggiornati.
+* **[API per risorse di Campaign avanzate](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**: arricchisci le analisi al di fuori di Marketo con il recupero intelligente dei record della campagna in base a data e ID aggiornati.
 * **Collegamenti di tracciamento HTTPS per e-mail:** Per i clienti che hanno acquistato &quot;Domini sicuri per i collegamenti di tracciamento&quot;, i collegamenti di tracciamento con brand possono ora essere visualizzati nelle e-mail come HTTPS.
 * **Aggiornamenti Powerpack per il recapito e-mail**: possibilità di contrassegnare e commentare specifici risultati di test, condividere i risultati con le parti interessate tramite un URL e tenere traccia delle modifiche per visualizzare l’evoluzione di un’e-mail mentre le parti interessate modificano il contenuto.
 

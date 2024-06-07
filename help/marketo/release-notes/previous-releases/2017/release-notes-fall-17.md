@@ -4,9 +4,9 @@ description: Note sulla versione -Autunno '17 - Documentazione Marketo - Documen
 title: Note sulla versione - Autunno '17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Con questa nuova funzione, ora è possibile conservare e consegnare le e-mail in
 
 >[!NOTE]
 >
->Se non riesci ancora ad abilitare il Fuso orario del destinatario nei tuoi programmi di e-mail e coinvolgimento, non farti prendere dal panico. Questa funzione viene gradualmente attivata per tutti i clienti.
+>Se non riesci ancora ad abilitare il fuso orario del destinatario nei tuoi programmi di e-mail e coinvolgimento, non preoccuparti. Questa funzione viene gradualmente attivata per tutti i clienti.
 
 ## [Rivedi e-mail di esempio per segmento](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md) {#review-sample-emails-by-segment}
 
@@ -86,10 +86,10 @@ Risparmia tempo riutilizzando le risorse creative e le immagini su più canali i
 
 ## Integrazione  {#integration}
 
-**[API di anteprima e-mail](https://developers.marketo.com/rest-api/assets/emails/)**
+**[API di anteprima e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ora è possibile visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semplificando il processo di localizzazione dei contenuti e-mail e riducendo gli errori.
 
-**[Sostituisci API HTML](https://developers.marketo.com/rest-api/assets/emails/)**
+**[Sostituisci API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.

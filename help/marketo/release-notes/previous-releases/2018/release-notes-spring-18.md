@@ -4,7 +4,7 @@ description: Note sulla versione - Primavera del 18 - Documentazione di Marketo 
 title: Note sulla versione - Primavera 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
 feature: Release Information
-source-git-commit: 9725758f46fcabb96572d7ae14cedabc29b2ce60
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -77,12 +77,12 @@ Imposta l’obiettivo dell’algoritmo di ottimizzazione ContentAI per distribui
 
 ## Integrazione e API {#integration-and-apis}
 
-[API di elenco statico](https://developers.marketo.com/rest-api/assets/static-lists/)
+[API di elenco statico](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Gestisci più facilmente gli elenchi tra Marketo e altri sistemi con nuove API bidirezionali per la creazione, la lettura, l’aggiornamento e l’eliminazione di elenchi statici in remoto senza intraprendere alcuna azione nell’interfaccia utente di Marketo.
 
 ## Miglioramenti della privacy {#privacy-enhancements}
 
-[Privacy tracciamento web](https://developers.marketo.com/javascript-api/lead-tracking/)
+[Privacy tracciamento web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Il monitoraggio Munchkin avanzato è conforme alle normative locali e internazionali sulla privacy rendendo anonimi gli indirizzi IP dei visitatori web e consentendo loro di rinunciare definitivamente al monitoraggio web.

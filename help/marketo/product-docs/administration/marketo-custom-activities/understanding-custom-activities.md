@@ -4,9 +4,9 @@ description: Informazioni sulle attività personalizzate - Documentazione di Mar
 title: Informazioni sulle attività personalizzate
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,6 @@ Le attività personalizzate funzionano come le attività standard. La loro confi
 
 Passaggio 1: [Creare un’attività personalizzata](/help/marketo/product-docs/administration/marketo-custom-activities/create-a-custom-activity.md) nel tuo account Marketo
 
-Passaggio 2: il dipendente dell’organizzazione che lavora con l’API può quindi iniziare l’implementazione. Ulteriori informazioni sono disponibili qui: [API attività personalizzata](https://developers.marketo.com/documentation/rest/add-custom-activities/)
+Passaggio 2: il dipendente dell’organizzazione che lavora con l’API può quindi iniziare l’implementazione. Ulteriori informazioni sono disponibili qui: [API attività personalizzata](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/addCustomActivityUsingPOST)
 
 Divertitevi!

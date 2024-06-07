@@ -4,9 +4,9 @@ description: Creare un [!DNL Webhook] - Documentazione di Marketo - Documentazio
 title: Creare un [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -49,10 +49,10 @@ Utilizzare [!DNL Webhooks] per sfruttare i servizi web di terze parti per inviar
 
    * **[!UICONTROL Tipo di richiesta]**: seleziona il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
 
-1. Fai clic su **[!UICONTROL Crea]**.
+1. Clic **[!UICONTROL Crea]**.
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->Per ulteriori informazioni, consulta [[!DNL Webhooks]](https://developers.marketo.com/documentation/webhooks/){target="_blank"} immersione profonda.
+>Per ulteriori informazioni, consulta [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} immersione profonda.

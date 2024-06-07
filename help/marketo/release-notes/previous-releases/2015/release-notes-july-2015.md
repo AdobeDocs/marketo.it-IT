@@ -4,7 +4,7 @@ description: Note sulla versione - Luglio 2015 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Quando fai clic sul riquadro recapito messaggi e-mail, non devi più fornire le 
 
 ## Priorità campagna {#campaign-prioritization}
 
-Hai configurato diverse campagne RTP personalizzate e hai notato che alcune di esse potrebbero sovrapporsi ad altre? Fissare una priorità per la quale l’RTP delle campagne debba prevalere sulle altre.
+Hai configurato diverse campagne RTP personalizzate e hai notato che alcune di esse potrebbero sovrapporsi ad altre? Procedi e imposta una priorità per la quale l’RTP delle campagne deve essere visualizzato rispetto alle altre.
 
 ![](assets/image2015-7-9-20-3a20-3a58.png)
 
@@ -50,7 +50,7 @@ Hai configurato diverse campagne RTP personalizzate e hai notato che alcune di e
 
 **Accesso agli oggetti aziendali tramite API REST**: l’API REST ora fornisce accesso all’oggetto Marketo Company (alias Account). Ciò significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead a tali aziende utilizzando l’API Lead aggiornata.
 
-Scopri [altro](https://developers.marketo.com/documentation/company-api/) nella nostra guida di riferimento per l’API aziendale.
+Scopri [altro]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) nella nostra guida di riferimento per l’API aziendale.
 
 ## Accesso al recapito messaggi e-mail {#access-email-deliverability}
 

@@ -4,9 +4,9 @@ description: Incorporare un modulo sul sito web - Documentazione di Marketo - Do
 title: Incorporare un modulo sul sito web
 exl-id: ead46100-7af8-48fe-a37f-74e5bdc4328c
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,6 @@ Ora è sufficiente fornire il codice da incorporare al tuo sviluppatore web e ch
 
 >[!NOTE]
 >
->Se lo sviluppatore desidera personalizzare l’aspetto o accedere alle funzioni API avanzate, mostra loro [Pagina Sviluppatori di Forms 2.0](https://developers.marketo.com/documentation/websites/forms-2-0/).
+>Se lo sviluppatore desidera personalizzare l’aspetto o accedere alle funzioni API avanzate, mostra loro [Pagina Sviluppatori di Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
 
 Ottimo lavoro! Vuoi il [codice da incorporare per includere il codice lightbox](/help/marketo/product-docs/demand-generation/forms/form-actions/use-a-form-in-a-lightbox.md)? Anche questo è facile!

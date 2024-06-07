@@ -4,9 +4,9 @@ description: Abilitare i contenuti predittivi per contenuti web - Documenti Mark
 title: Abilitare il contenuto predittivo per i contenuti rich media web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per R
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione per il modello per consigli su contenuti rich media [sul sito Marketo Developers](https://developers.marketo.com/documentation/websites/rtp-rich-media-recommendations-api){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione per il modello per consigli su contenuti rich media [sul sito Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
 Incolla il codice JavaScript nel tuo sito web nella posizione in cui desideri visualizzare il modello.
 

@@ -4,7 +4,7 @@ description: Note sulla versione -Inverno '18 - Documentazione Marketo - Documen
 title: Note sulla versione - Inverno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 0%
@@ -87,7 +87,7 @@ Il contenuto consigliato tramite gli algoritmi ContentAI ottimizzati di Marketo 
 
 ## Integrazione {#integration}
 
-**[Attivare/disattivare l’API di Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
+**[Attivare/disattivare l’API di Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Questa nuova API consente di attivare e disattivare in remoto le campagne di attivazione, per creare modelli di programma completamente automatizzati. Crea un modello di programma una volta, quindi automatizza la clonazione, gli aggiornamenti dei materiali di marketing e ora l’attivazione/pianificazione delle campagne intelligenti.
 

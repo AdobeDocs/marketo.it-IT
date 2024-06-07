@@ -4,9 +4,9 @@ description: Note sulla versione -Inverno '19 - Documentazione Marketo - Documen
 title: Note sulla versione - Inverno '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '1109'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Includi fino a cinque indirizzi CC per destinatario nelle e-mail inviate tramite
 * **Supporto di domini multi-branding per Asset API:** L’approvazione e la clonazione delle risorse produce gli stessi risultati nell’API e nell’interfaccia utente di.
 * **Supporto di Email CC per Asset API**: gli utenti che clonano, approvano ed elaborano le e-mail tramite l’API manterranno la parità con le impostazioni dell’interfaccia utente.
 
-**[Munchkin v155 (versione beta)](https://developers.marketo.com/javascript-api/lead-tracking/configuration/)**
+**[Munchkin v155 (versione beta)](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)**
 
 * **Modalità solo API**: gli utenti possono ora determinare quando e come tracciare i membri del proprio database consentendo alle app web a pagina singola di chiamare esplicitamente quando desiderano registrare una visita di pagina web invece di affidarsi al tracciamento automatico di Marketo.
 * **Gestione degli opt-out**: gestisci facilmente le rinunce facendo corrispondere il dominio del cookie di rinuncia con il dominio del cookie di tracciamento Munchkin.
@@ -105,8 +105,7 @@ Per gestire in modo più efficiente domini e sottodomini, gli utenti possono ora
 
 Abbiamo aggiornato l’SDK per Android a un framework più moderno, stabile e scalabile che contiene maggiore flessibilità e nuove funzioni ingegneristiche. Google Gli sviluppatori di app Android ora possono utilizzare direttamente i [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) con questo nuovo SDK.
 
-* [Istruzioni per gli sviluppatori](https://developers.marketo.com/mobile/installation/#android_adding_fcm_to_your_application)
-* [Domande frequenti per sviluppatori](https://developers.marketo.com/mobile/installation/#android_fcm_faq)
+* [Istruzioni per gli sviluppatori]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

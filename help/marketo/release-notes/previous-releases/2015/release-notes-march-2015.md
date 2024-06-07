@@ -4,9 +4,9 @@ description: Note sulla versione -Marzo 2015 - Documentazione Marketo - Document
 title: Note sulla versione - Marzo 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -37,9 +37,9 @@ Revenue Explorer ha un nuovo aspetto, così come il nuovo tipo di grafico Sunbur
 
 ## Nuove API REST di Assets {#new-asset-rest-apis}
 
-[Nuove API REST di Assets](https://developers.marketo.com/)
+[Nuove API REST di Assets](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
-È ora disponibile il supporto per la creazione e la modifica di e-mail, modelli, token, file e snippet [tramite l’API](https://developers.marketo.com/documentation/asset-api)!
+È ora disponibile il supporto per la creazione e la modifica di e-mail, modelli, token, file e snippet [tramite l’API](https://developer.adobe.com/marketo-apis/api/asset/)!
 
 ## Microsoft Dynamics 2015 On-Premise {#microsoft-dynamics-on-premise}
 

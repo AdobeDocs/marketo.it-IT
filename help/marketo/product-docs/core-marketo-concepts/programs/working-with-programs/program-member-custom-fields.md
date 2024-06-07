@@ -4,9 +4,9 @@ description: Campi personalizzati dei membri del programma - Documentazione di M
 title: Campi personalizzati del membro del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '416'
 ht-degree: 1%
 
 ---
@@ -56,7 +56,7 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
 ## Trigger e filtri {#triggers-and-filters}
 
-Puoi sfruttare questi dati specifici del programma negli elenchi avanzati tramite [trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} and/or [filters](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
+Puoi sfruttare questi dati specifici del programma negli elenchi avanzati tramite [trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"} e/o [filtri](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}.
 
 ![](assets/six.png)
 
@@ -68,7 +68,7 @@ Puoi sfruttare questi dati specifici del programma negli elenchi avanzati tramit
 * L&#39;oggetto Membro del programma può contenere fino a 20 campi personalizzati. Questi campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro del programma sono presenti dati, questi verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri nel programma e creare una visualizzazione personalizzata che includa tali campi.
-* Importare ed esportare tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [API](https://developers.marketo.com/){target="_blank"} sono supportati. Le esportazioni funzionano solo sugli elenchi dei membri del programma, non sugli elenchi statici.
+* Importare ed esportare tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} sono supportati. Le esportazioni funzionano solo sugli elenchi dei membri del programma, non sugli elenchi statici.
 * Quando si uniscono due persone, verranno utilizzati i dati del campo personalizzato Membro del programma del vincitore. Ma se il vincitore non ha, verrà utilizzato il valore del perdente.
 * Tipo di modifica non consentito nei campi Informazioni membro programma.
 * Il vincolo &quot;contiene&quot; non è supportato per i campi personalizzati dei membri del programma.

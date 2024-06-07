@@ -1,28 +1,28 @@
 ---
 unique-page-id: 10096656
 description: Creazione di un evento con l'adattatore Marketo ON24 - Documentazione Marketo - Documentazione del prodotto
-title: Creazione di un evento con l'adattatore Marketo ON24
+title: Creazione di un evento con la scheda Marketo ON24
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '284'
 ht-degree: 0%
 
 ---
 
-# Creazione di un evento con l&#39;adattatore Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
+# Creazione di un evento con la scheda Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
 
 Devi acquisire familiarità con i blocchi predefiniti e la sequenza consigliata per la creazione di eventi in Marketo. Dovresti anche avere una conoscenza operativa dei seguenti concetti di Marketo:
 
 * [Programmi Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md){target="_blank"} nonché Eventi e differenze tra di essi
 * [Canali](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
 * [Risorse locali](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md){target="_blank"}
-* [Campagne figlie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} and [Program Statuses](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
+* [Campagne figlie](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md){target="_blank"} e [Stati dei programmi](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}
 
 >[!NOTE]
 >
->Consulta la sezione [Documentazione API di Marketo](https://developers.marketo.com/documentation/rest/){target="_blank"} per ulteriori informazioni sulle API di Marketo.
+>Consulta la sezione [Documentazione API di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"} per ulteriori informazioni sulle API di Marketo.
 
 ## Prerequisiti {#prerequisites}
 

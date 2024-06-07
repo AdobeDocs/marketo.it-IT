@@ -4,9 +4,9 @@ description: Utilizzo della pagina dei dettagli della persona - Documentazione d
 title: Utilizzo della pagina Dettagli persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '546'
 ht-degree: 22%
 
 ---
@@ -40,7 +40,7 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 
 | Linguetta | Descrizione |
 |---|---|
-| Informazioni | Informazioni di contatto e campi personalizzati su una persona. |
+| Info | Informazioni di contatto e campi personalizzati su una persona. |
 | Informazioni società | Informazioni e indirizzo dell’azienda della persona. |
 | Informazioni sull’opportunità | Informazioni sull’opportunità sincronizzate da Salesforce. |
 | Campo lead SFDC | Campi Salesforce incorporati. |
@@ -51,7 +51,7 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 
 | Linguetta | Descrizione |
 |---|---|
-| Informazioni | Informazioni di contatto e campi personalizzati su una persona. |
+| Info | Informazioni di contatto e campi personalizzati su una persona. |
 | Informazioni società | Informazioni e indirizzo dell’azienda della persona. |
 | Informazioni sull’opportunità | Informazioni sull’opportunità sincronizzate da Microsoft. |
 | Campi personalizzati Microsoft | Campi Microsoft personalizzati. |
@@ -60,7 +60,7 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 
 >[!NOTE]
 >
->Puoi anche visualizzare le informazioni sull’opportunità [inserito tramite API](https://developers.marketo.com/rest-api/lead-database/opportunities/) per le istanze non sincronizzate con un CRM.
+>Puoi anche visualizzare le informazioni sull’opportunità [inserito tramite API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
 
 ## Modifica di un campo {#editing-a-field}
 

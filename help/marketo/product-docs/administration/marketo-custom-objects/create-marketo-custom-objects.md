@@ -4,9 +4,9 @@ description: Creazione di oggetti personalizzati Marketo - Documentazione di Mar
 title: Creare oggetti personalizzati di Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '704'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Questo esempio mostra un oggetto personalizzato Car, da utilizzare in una strutt
    >
    >È possibile modificare questi campi durante la creazione, ma dopo averli salvati, è possibile modificare solo [!UICONTROL Nome plurale] e **[!UICONTROL Mostra in dettagli lead]** cursore.
 
-1. Tirare la **[!UICONTROL Mostra in dettagli lead]** cursore sopra per visualizzare **[!UICONTROL Spettacolo]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Clic **[!UICONTROL Salva]**.
+1. Tirare la **[!UICONTROL Mostra in dettagli lead]** cursore sopra per visualizzare **[!UICONTROL Spettacolo]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
@@ -63,7 +63,7 @@ Questo esempio mostra un oggetto personalizzato Car, da utilizzare in una strutt
 
    >[!NOTE]
    >
-   >È possibile popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o [API](https://developers.marketo.com/documentation/rest/).
+   >È possibile popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Creare un oggetto personalizzato per una struttura Many-to-Many (Da molti-a-molti) {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -93,7 +93,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
    >
    >È possibile modificare questi campi durante la creazione, ma dopo averli salvati, è possibile modificare solo [!UICONTROL Nome plurale] e **[!UICONTROL Mostra in dettagli lead]** cursore.
 
-1. Tirare la **[!UICONTROL Mostra in dettagli lead]** cursore sopra per visualizzare **[!UICONTROL Spettacolo]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Clic **[!UICONTROL Salva]**.
+1. Tirare la **[!UICONTROL Mostra in dettagli lead]** cursore sopra per visualizzare **[!UICONTROL Spettacolo]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
@@ -103,7 +103,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
 
    >[!NOTE]
    >
-   >È possibile popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o [API](https://developers.marketo.com/documentation/rest/).
+   >È possibile popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 Il passaggio successivo è la creazione dell’oggetto intermedio (vedi di seguito). Ma prima di questo, devi creare un campo a cui collegarti.
 
@@ -135,7 +135,7 @@ Utilizzare un oggetto intermediario per connettere un oggetto personalizzato a u
    >
    >È possibile modificare questi campi durante la creazione, ma dopo averli salvati, è possibile modificare solo [!UICONTROL Nome plurale] e [!UICONTROL Mostra in dettagli lead] cursore.
 
-1. Tirare la **[!UICONTROL Mostra in dettagli lead]** cursore sopra per visualizzare **Spettacolo** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Clic **Salva**.
+1. Tirare la **[!UICONTROL Mostra in dettagli lead]** cursore sopra per visualizzare **Spettacolo** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **Salva**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 

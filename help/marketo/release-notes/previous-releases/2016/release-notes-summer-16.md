@@ -4,7 +4,7 @@ description: Note sulla versione - Estate del 16 - Documentazione Marketo - Docu
 title: Note sulla versione - Estate 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
 feature: Release Information
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
 source-wordcount: '783'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Utilizza la nuova funzionalità di ricerca per trovare e sostituire in modo effi
 
 **Supporto dei token negli elementi immagine**
 
-Ora è possibile utilizzare i token nell’area &quot;External URL&quot; dell’esperienza di inserimento immagine. Se hai specificato le immagini con `{{my.tokens}}`, ora puoi fare riferimento a questi token in Email Editor 2.0. Tieni presente che l’immagine risulterà ancora danneggiata nell’area di lavoro di Email Editor 2.0. Tuttavia, li vedrai renderizzati in Anteprima e Invia campione prima di inviare l’e-mail.
+Ora è possibile utilizzare i token nell’area &quot;External URL&quot; dell’esperienza di inserimento immagine. Se sono state specificate immagini con `{{my.tokens}}`, ora puoi fare riferimento a questi token in Email Editor 2.0. Tieni presente che l’immagine risulterà ancora danneggiata nell’area di lavoro di Email Editor 2.0. Tuttavia, li vedrai renderizzati in Anteprima e Invia campione prima di inviare l’e-mail.
 
 ## Più domini di branding {#multiple-branding-domains}
 
@@ -100,16 +100,16 @@ Specifica un ritardo nella reazione delle campagne web sul tuo sito web.
 
 Visualizzare i dati di analisi dei contenuti e consigli offline.
 
-## [Supporto API per l’editor e-mail 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
+## [Supporto API per l’editor e-mail 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
 
 Le API di Asset preesistenti, in precedenza compatibili solo con e-mail e modelli v1.0, ora sono abilitate per le risorse e-mail v2.0.
 
-## [Sito per sviluppatori Marketo](https://developers.marketo.com/) {#marketo-developers-site}
+## [Sito per sviluppatori Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nuovo e migliorato!
 
 ## [Impostazioni privacy](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Gli addetti al marketing possono utilizzare le impostazioni relative alla privacy per decidere se tenere traccia dei visitatori utilizzando le funzioni di Munchkin e personalizzazione web. Il livello di tracciamento è controllato utilizzando l’impostazione Do Not Track del browser, un cookie di rinuncia o un IP non specifico. Questi metodi possono influenzare il valore e la funzionalità di Marketo in aree specifiche, ma se l’addetto marketing non cambia nulla, la funzionalità di Marketo rimane la stessa.
+Gli addetti al marketing possono utilizzare le impostazioni relative alla privacy per decidere se tenere traccia dei visitatori utilizzando le funzioni di Munchkin e personalizzazione web. Il livello di tracciamento è controllato utilizzando l’impostazione Do Not Track del browser, un cookie di rinuncia o un IP non specifico. Questi metodi possono influenzare il valore e le funzionalità di Marketo in aree specifiche, ma se l’addetto marketing non cambia nulla, le funzionalità di Marketo rimangono le stesse.
 
 Questa funzione verrà rilasciata gradualmente ai clienti in un periodo di sei settimane. Se ne hai bisogno immediatamente, contatta il supporto Marketo.

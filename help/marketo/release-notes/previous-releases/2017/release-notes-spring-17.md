@@ -4,9 +4,9 @@ description: Note sulla versione -Primavera del '17 - Documentazione di Marketo 
 title: Note sulla versione - Primavera 2017
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '659'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Sono finiti i giorni in cui si pulivano i modelli obsoleti in Sales Insight. Imp
 
 ![](assets/four-281-29.png)
 
-## [API di estrazione in blocco per persone e attività](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
+## [API di estrazione in blocco per persone e attività](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
 
 Trasferisci facilmente grandi quantità di dati relativi a persone e attività da Marketo ai sistemi esterni.
 
@@ -49,7 +49,7 @@ Marketo ABM ora consente di creare fino a 10 campi personalizzati sui tuoi accou
 
 I punteggi degli account denominati possono variare notevolmente. Marketo ABM ora calcola automaticamente un percentile per ciascuno dei tuoi punteggi, in modo da poter visualizzare immediatamente la posizione di ogni account denominato rispetto agli altri account denominati.
 
-**[API elenco account ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
+**[API elenco account ABM](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
 
 Sfrutta le avanzate e affidabili integrazioni di partner ABM con supporto API avanzato per gli elenchi di account denominati.
 
