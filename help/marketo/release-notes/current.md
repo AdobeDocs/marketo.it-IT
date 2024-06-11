@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 40d1191fb5bab275e83322dd1fea89888d818820
+source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 3%
+source-wordcount: '277'
+ht-degree: 4%
 
 ---
 
@@ -33,8 +33,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
      <tr> 
    <td><strong>Modelli per webinar interattivi</strong>: gli addetti al marketing possono ora creare modelli personalizzati per i layout delle room nei webinar interattivi.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modelli</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
      <tr> 
    <td><strong>Campi dedotti in Forms</strong>: l’origine dati utilizzata per popolare i campi dedotti quando una persona viene creata tramite la compilazione dei moduli senza alcuna attività web precedente è stata aggiornata per utilizzare la stessa origine dati di altri metodi di raccolta di persone. I dati del campo dedotti sono ora coerenti tra tutti i punti di raccolta.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
  </tbody> 
 </table>
