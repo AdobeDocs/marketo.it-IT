@@ -4,7 +4,7 @@ description: Panoramica del selettore dei modelli e-mail - Documenti Marketo - D
 title: Panoramica del selettore del modello e-mail
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Quando [creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), sono disponibili diversi modelli gratuiti tra cui scegliere. Puoi anche creare un modello personalizzato e salvarlo per utilizzarlo in futuro.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-1.png)
 
 **Nome** sarà il nome dell’e-mail creata in base al modello, non il modello stesso. **Descrizione** si applica anche all’e-mail ed è facoltativo.
 
@@ -27,7 +27,7 @@ Se la tua e-mail è fondamentale e desideri che aggiri i limiti di comunicazione
 
 **Modelli iniziali** include una raccolta di modelli e-mail dinamici pronti all’uso. Puoi utilizzarli così come sono o personalizzarli a tuo piacimento.
 
-![](assets/starter-templates.png)
+![](assets/email-template-picker-overview-4.png)
 
 **Modelli personali** è costituito da tutti i modelli creati. Potresti anche avere delle cartelle.
 
