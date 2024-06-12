@@ -2,7 +2,7 @@
 title: Documentazione sui prodotti Marketo
 description: Documentazione sui prodotti di Marketo Engage
 exl-id: 4b97fe25-ce4d-446c-8b23-2566769f35ee
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 76880d7a2d37cf82ac6a677b08eb8880dc15c24e
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 7%
@@ -16,8 +16,8 @@ ht-degree: 7%
 ## Guida introduttiva
 
 * [Passaggi di configurazione](/help/marketo/getting-started/initial-setup/setup-steps.md)
-* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Configura protocolli per Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md)
 * [Glossario Marketo Engage](/help/marketo/getting-started/things-to-know/marketo-engage-glossary.md)
 
 ## Articoli più richiesti
@@ -28,8 +28,10 @@ ht-degree: 7%
 
 * [Informazioni sulle campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
 
-* [Panoramica sull&#39;esperienza di Adobe Marketo Engage Next Gen UX](/help/marketo/product-docs/marketo-engage-modern-ux/overview.md)
+* [Panoramica Adobe Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md)
 
 ## Note sulla versione
 
 * [Versione corrente](/help/marketo/release-notes/current.md)
+
+* [Note sulla versione del Dynamic Chat](/help/marketo/release-notes/dynamic-chat.md)
