@@ -3,9 +3,9 @@ description: Note sulla versione del Dynamic Chat - Documentazione di Marketo - 
 title: Note sulla versione del Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: cbf60ee8756996c554370604f95be7a2ffb1b959
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1472'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,26 @@ ht-degree: 0%
 I rilasci di Adobe Dynamic Chat funzionano su un modello di distribuzione continua che consente un approccio più scalabile alla distribuzione delle funzioni. A volte ci sono più versioni in un mese, quindi controlla regolarmente per informazioni sempre aggiornate.
 
 Pagina Note sulla versione standard per il Marketo Engage [si trova qui](/help/marketo/release-notes/current.md){target="_blank"}.
+
+## Versione di giugno 2024 {#june-release}
+
+**Data di rilascio: 6 giugno 2024**
+
+### Scheda flusso conversazionale {#conversational-flow-card}
+
+Semplifica più passaggi in un flusso all’interno delle finestre di dialogo sfruttando la scheda Flusso conversazionale.
+
+Esempio: se l’obiettivo è quello di promuovere le registrazioni per il webinar tramite più finestre di dialogo, è necessario ricreare lo stesso flusso in tutte le finestre di dialogo che hanno tale obiettivo. Per aggiornare i dettagli, è necessario modificare ogni singola finestra di dialogo una alla volta. Non è più così, grazie alla scheda Conversational Flow.
+
+Oltre a ridefinire l’utilizzo dei flussi in più finestre di dialogo, puoi utilizzare lo stesso flusso di transizione per passare ad altri canali, come moduli e pagine di destinazione.
+
+![](assets/dynamic-chat-june-2024-release-1.png)
+
+### Limiti di utilizzo {#usage-limits}
+
+La pagina Limiti di utilizzo mostra informazioni importanti, ad esempio i dettagli del pacchetto e lo stato del limite di utilizzo.
+
+![](assets/dynamic-chat-june-2024-release-2.png)
 
 ## Versione di maggio 2024 {#may-release}
 

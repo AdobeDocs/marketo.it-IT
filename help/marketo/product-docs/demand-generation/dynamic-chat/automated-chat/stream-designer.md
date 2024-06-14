@@ -3,10 +3,10 @@ description: Progettazione flussi - Documentazione di Marketo - Documentazione d
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: cb27e3ffb471358bc8a5c8d90582c6996c75bf61
+source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
-source-wordcount: '1212'
-ht-degree: 1%
+source-wordcount: '1229'
+ht-degree: 2%
 
 ---
 
@@ -67,6 +67,10 @@ Progettazione flussi contiene più schede che è possibile aggiungere per modell
  <tr>
   <td style="width:25%"><strong>Ramificazione condizionale</strong></td>
   <td>Crea rami nei flussi della finestra di dialogo in base a condizioni diverse. Presentare contenuti diversi a persone diverse nella stessa finestra di dialogo in base agli attributi del lead e dell’azienda nel Marketo Engage.</td>
+ </tr>
+ <tr>
+  <td style="width:25%"><strong>Flusso conversazionale</strong></td>
+  <td>Semplifica più passaggi in un flusso all’interno delle finestre di dialogo utilizzando la scheda Flusso conversazionale.</td>
  </tr>
 </table>
 
