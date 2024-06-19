@@ -4,9 +4,9 @@ description: Creazione di un rapporto di Revenue Explorer - Documentazione di Ma
 title: Creare un rapporto di Gestione ricavi
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d270a06fb47fd3ed81845a0914439d6378c74046
+source-git-commit: 2deab35807a078a490916bf379198c3537859e7b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Il rapporto Gestione ricavi consente di tenere traccia del ROI delle iniziative 
 
 >[!IMPORTANT]
 >
->La cartella Cestino in Esplora cicli di ricavi è stata temporaneamente nascosta a causa di un bug. Stiamo lavorando a una correzione e i tuoi file sono sicuri. Contatta [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se sono presenti file da ripristinare.
+>La cartella Cestino in Esplora cicli di ricavi è stata temporaneamente nascosta a causa di un problema tecnico. Stiamo lavorando a una correzione e i tuoi file sono sicuri. Contatta [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se sono presenti file da ripristinare.
 
 1. Vai a **Gestione ricavi** area.
 
