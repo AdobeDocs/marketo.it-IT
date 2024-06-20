@@ -1,8 +1,8 @@
 ---
-unique-page-id: 7515616
 description: Elenco modelli pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
 title: Elenco modelli pagina di destinazione guidata
-exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
+hide: true
+hidefromtoc: true
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
 workflow-type: tm+mt
@@ -200,6 +200,7 @@ Per importare un modello in Marketo:
 <td><img src="assets/10e.jpg"></td>
 </tr>
 </table>
+
 <table>
 <tr>
 <td><a href="/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-templates/template-10f.md">Modello 10F</a></td>
