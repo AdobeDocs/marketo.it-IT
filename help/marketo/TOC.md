@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 68962b2cc0132194852da2081b8577f732d4b497
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '9361'
+source-wordcount: '9331'
 ht-degree: 0%
 
 ---
@@ -116,11 +116,11 @@ ht-degree: 0%
          + [Aggiungere il Single Sign-On a un portale](product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md)
          + [Aggiungere Webex as a LaunchPoint Service](product-docs/administration/additional-integrations/add-webex-as-a-launchpoint-service.md)
          + [Aggiungere zoom come servizio LaunchPoint](product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
-         + [Configurazione delle impostazioni API SOAP](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
+         + [Configurazione delle impostazioni API dell’SOAP](product-docs/administration/additional-integrations/configuring-your-soap-api-settings.md)
          + [Collegare BrightTALK a Marketo](product-docs/administration/additional-integrations/connect-brighttalk-to-marketo.md)
          + [Creare un servizio personalizzato da utilizzare con API ReST](product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md)
          + [Creare un webhook](product-docs/administration/additional-integrations/create-a-webhook.md)
-         + [Creazione di un Inserisco nell&#39;elenco Consentiti di accesso API basato su IP](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
+         + [Creare un Inserisco nell&#39;elenco Consentiti di accesso API basato su IP](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [Scarica registro attività GoogleAdwords](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [Limita l&#39;accesso degli utenti solo all&#39;SSO](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
       + Audit Trail {#audit-trail}
@@ -169,7 +169,7 @@ ht-degree: 0%
          + [Aggiungi/Modifica/Elimina campi attività personalizzati di Marketo](product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md)
          + [Creare un’attività personalizzata](product-docs/administration/marketo-custom-activities/create-a-custom-activity.md)
          + [Modificare un’attività personalizzata](product-docs/administration/marketo-custom-activities/edit-a-custom-activity.md)
-         + [Pubblicare un’attività personalizzata](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
+         + [Publish come attività personalizzata](product-docs/administration/marketo-custom-activities/publish-a-custom-activity.md)
          + [Esportazione metadati attività personalizzati](product-docs/administration/marketo-custom-activities/custom-activity-metadata-export.md)
       + Oggetti personalizzati Marketo {#marketo-custom-objects}
          + [Informazioni sugli oggetti personalizzati di Marketo](product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
@@ -239,21 +239,21 @@ ht-degree: 0%
          + [Abilita bozza senza testo per snippet](product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md)
       + Aree di lavoro e partizioni persona {#workspaces-and-person-partitions}
          + [Informazioni sulle aree di lavoro e sulle partizioni delle persone](product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md)
-         + [Consentire l’accesso degli utenti a un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
+         + [Consenti accesso utente a un Workspace](product-docs/administration/workspaces-and-person-partitions/allow-user-access-to-a-workspace.md)
          + [Assegnare partizioni persona alle aree di lavoro](product-docs/administration/workspaces-and-person-partitions/assign-person-partitions-to-workspaces.md)
          + [Assegnazione di partizioni persona con regole di assegnazione](product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md)
-         + [Modificare il nome di un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
-         + [Creare una nuova area di lavoro](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
+         + [Modificare il nome di un Workspace](product-docs/administration/workspaces-and-person-partitions/change-the-name-of-a-workspace.md)
+         + [Crea un nuovo Workspace](product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
          + [Creare una partizione persona](product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
-         + [Eliminare un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
-         + [Modificare un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
+         + [Eliminare un Workspace](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
+         + [Modificare un Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Modificare una partizione di persona esistente](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Condividere segmentazioni tra aree di lavoro e partizioni](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Integrazioni Adobe Experience Cloud {#adobe-experience-cloud-integrations}
       + [Panoramica delle integrazioni Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [Imposta mapping organizzazione Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizzare un pubblico da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
-      + [Importazione di risorse con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
+      + [Importazione di Assets con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
       + [Panoramica dell’interfaccia di Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Concetti di base su Marketo {#core-marketo-concepts}
       + Campagne avanzate {#smart-campaigns}
@@ -391,9 +391,9 @@ ht-degree: 0%
          + Creazione di programmi {#creating-programs}
             + [Informazioni sui programmi](product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
             + [Creare un programma](product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
-            + [Informazioni sulle risorse locali in un programma](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
+            + [Informazioni sull’Assets locale in un programma](product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md)
             + [Informazioni sull’iscrizione al programma](product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
-            + [Utilizzo della scheda Risorse](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
+            + [Utilizzo della scheda Assets](product-docs/core-marketo-concepts/programs/creating-programs/using-the-assets-tab.md)
             + [Utilizzo della scheda Home del programma](product-docs/core-marketo-concepts/programs/creating-programs/using-the-program-home-tab.md)
          + Utilizzo dei programmi {#working-with-programs}
             + [Best practice: come organizzare i programmi](product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md)
@@ -424,7 +424,7 @@ ht-degree: 0%
             + [Contenuto CT-YYYY-MM sulla pagina di destinazione di Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-on-marketo-landing-page.md)
             + [Pagina di destinazione CT-YYY-MM-Content non-Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/ct-yyyy-mm-content-non-marketo-landing-page.md)
             + [Programma di richiesta Web WR-YYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/wr-yyyy-mm-web-request-program.md)
-            + [Pagina di destinazione Marketo per la pubblicità online OA-YYY-MM](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
+            + [Pagina di destinazione OA-YYY-MM-Online Advertising Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/oa-yyyy-mm-online-advertising-marketo-landing-page.md)
             + [Gestione dei dati operativi](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-data-management.md)
             + [Gestione OP-Lead](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-lead-management.md)
             + [Comportamento con punteggio OP](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/op-scoring-behavior.md)
@@ -471,7 +471,7 @@ ht-degree: 0%
             + [Elimina voci direttamente nel calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md)
             + [Eliminazione di un filtro nel calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/deleting-a-filter-in-the-marketing-calendar.md)
             + [Modificare le voci direttamente nel calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md)
-            + [Filtrare il calendario di marketing per area di lavoro](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar-by-workspace.md)
+            + [Filtrare il calendario di marketing per Workspace](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar-by-workspace.md)
             + [Filtrare il calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md)
             + [Salvataggio di una definizione di filtro nel calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md)
             + [Condivisione di una definizione di filtro nel calendario di marketing](product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md)
@@ -711,7 +711,7 @@ ht-degree: 0%
                + [Creazione di un evento con la scheda Marketo ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter.md)
                + [Configurare le impostazioni degli eventi e sincronizzare Marketo con il webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/configure-event-settings-and-sync-marketo-with-your-webinar.md)
                + [Creare un evento in Marketo](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-an-event-in-marketo.md)
-               + [Creare campagne secondarie e risorse locali](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
+               + [Creazione di campagne secondarie e Assets locale](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md)
                + [Creare un evento webinar in ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
                + [Esempio di integrazione di eventi ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/example-on24-event-integration.md)
                + [Aggiornamenti alla registrazione dell&#39;evento ON24](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/on24-event-registration-updates.md)
@@ -734,7 +734,7 @@ ht-degree: 0%
          + [Aggiungere lead a un pubblico personalizzato in Facebook](product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
          + [Creare un pubblico personalizzato in Facebook](product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
          + [Modifica impostazioni Facebook Rich Post](product-docs/demand-generation/facebook/edit-facebook-rich-post-settings.md)
-         + [Pubblicare pagine di destinazione in Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+         + [Pagine di destinazione Publish per Facebook](product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
          + [Configurare gli annunci lead di Facebook](product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
          + [Mappa campi personalizzati su Marketo](product-docs/demand-generation/facebook/set-up-facebook-lead-ads/map-custom-fields-to-marketo.md)
          + [Configurare le conversioni offline di Facebook](product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
@@ -970,15 +970,15 @@ ht-degree: 0%
             + [Configura quando si apre il pulsante Social](product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md)
             + [Pulsante Personalizza app social](product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
             + [Personalizza flusso di condivisione video](product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md)
-            + [Impostare l’attribuzione dei ricavi per le campagne pubblicitarie digitali](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
+            + [Impostare l’attribuzione dei ricavi per le campagne Digital Advertising](product-docs/demand-generation/social/configuring-social-actions/set-up-revenue-attribution-for-digital-advertising-campaigns.md)
          + Creazione di un sondaggio {#creating-a-poll}
             + [Creare un sondaggio](product-docs/demand-generation/social/creating-a-poll/create-a-poll.md)
             + [Personalizza impostazioni sondaggio](product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md)
-            + [Pubblicare un sondaggio](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
+            + [Sondaggio Publish a](product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md)
             + [Revisione dei voti espressi nel sondaggio](product-docs/demand-generation/social/creating-a-poll/review-votes-cast-in-poll.md)
          + Offerte di riferimento {#referral-offers}
             + [Creare un’offerta di riferimento](product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
-            + [Pubblicare un’offerta di riferimento](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
+            + [Publish un&#39;offerta di riferimento](product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md)
             + [Invia e-mail per evasione offerta di riferimento](product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md)
             + [Specifica l&#39;obiettivo per l&#39;offerta di riferimento](product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
          + Funzioni social {#social-functions}
@@ -1001,7 +1001,7 @@ ht-degree: 0%
          + Paletti {#sweepstakes}
             + [Crea punteggi](product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md)
             + [Personalizzare gli stili di Sweepstakes](product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md)
-            + [Pubblicare una puntata](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
+            + [PUBLISH a](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Selezionate i vincitori delle puntate](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-mail marketing {#email-marketing}
       + Recapito messaggi {#deliverability}
@@ -1142,7 +1142,7 @@ ht-degree: 0%
             + [Utilizza il token di informazioni sull’invio dell’avviso](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Utilizzo degli URL nei miei token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [E-mail CC](product-docs/email-marketing/general/email-cc.md)
-   + Marketi Engage Modern UX {#marketo-engage-modern-ux}
+   + Marketo Engage Modern UX {#marketo-engage-modern-ux}
       + [Panoramica](product-docs/marketo-engage-modern-ux/overview.md)
       + [Utilizzo della ricerca globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
       + [Attiva/Disattiva](product-docs/marketo-engage-modern-ux/toggle-switch.md)
@@ -1286,7 +1286,7 @@ ht-degree: 0%
          + [È possibile recuperare un contatto o un gruppo eliminato?](product-docs/marketo-sales-connect/faq/can-i-recover-a-contact-or-group-i-deleted.md)
          + [Domande frequenti su contenuto e file allegato](product-docs/marketo-sales-connect/faq/content-and-file-attachment-faq.md)
          + [Sales Connect dispone di un&#39;app iPhone o Android?](product-docs/marketo-sales-connect/faq/does-sales-connect-have-an-iphone-or-android-app.md)
-         + [Come posso Inserire nell&#39;elenco Consentiti Sales Connect sul mio server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
+         + [Come posso Inserire nell&#39;elenco Consentiti le vendite sul mio server?](product-docs/marketo-sales-connect/faq/how-can-i-allowlist-sales-connect-on-my-server.md)
          + [Sono Stato Bloccato Dal Mio Account. Che cosa devo fare?](product-docs/marketo-sales-connect/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
          + [Sales Connect è compatibile con Salesforce Lightning?](product-docs/marketo-sales-connect/faq/is-sales-connect-compatible-with-salesforce-lightning.md)
          + [Quali sono i termini di servizio di Sales Connect?](product-docs/marketo-sales-connect/faq/what-are-the-sales-connect-terms-of-service.md)
@@ -1508,7 +1508,7 @@ ht-degree: 0%
             + [Visualizza elenco modelli come altro utente](product-docs/marketo-sales-insight/actions/templates/view-template-list-as-another-user.md)
       + Utilizzo di MSI {#using-msi}
          + [Registra i messaggi in entrata dai lead in Marketo](product-docs/marketo-sales-insight/using-msi/log-inbound-mail-from-your-leads-in-marketo.md)
-      + Plug-in MSI Chrome {#msi-chrome-plugin}
+      + Plug-in Chrome MSI {#msi-chrome-plugin}
          + [Installare Marketo Insights per Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
          + [Utilizzo di Marketo Insights per Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Visualizzare le informazioni sulla persona e sull&#39;account e le attività in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
@@ -1561,7 +1561,7 @@ ht-degree: 0%
                + [Scegli un&#39;azione in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Blocca modello vendite](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Pubblicare un messaggio e-mail in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Publish e-mail a Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Inviare un messaggio e-mail di prova](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Supporto lingua {#language-support}
                + [Prepara approfondimenti sulle vendite per il supporto multilingue in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
@@ -1604,21 +1604,14 @@ ht-degree: 0%
       + [Approfondimenti sulle vendite per le integrazioni MS Dynamics non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
       + [Informazioni sulle vendite per integrazioni Salesforce non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
-      + [Abilitazione dei ruoli per Marketo Sky](product-docs/marketo-sky/enabling-roles-for-marketo-sky.md)
       + [Comportamento previsto](product-docs/marketo-sky/expected-behavior.md)
-      + [Guida introduttiva di Predictive Audiences](product-docs/marketo-sky/getting-started-with-predictive-audiences.md)
-      + [Integrità del modello e validità dei dati](product-docs/marketo-sky/model-health-and-data-validity.md)
-      + [Filtri predittivi](product-docs/marketo-sky/predictive-filters.md)
-      + [Impostazione di un limite per gli eventi](product-docs/marketo-sky/setting-an-event-cap.md)
-      + [Impostazione degli obiettivi evento](product-docs/marketo-sky/setting-event-goals.md)
-      + [Informazioni sul tracciamento degli obiettivi e sulle registrazioni previste](product-docs/marketo-sky/understanding-goal-tracking-and-projected-registrations.md)
    + Mobile Marketing {#mobile-marketing}
       + Amministratore {#admin}
          + [Aggiungere un’app mobile](product-docs/mobile-marketing/admin/add-a-mobile-app.md)
          + [Aggiungere Vibes come servizio LaunchPoint](product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md)
          + [Autentica sicurezza accesso mobile](product-docs/mobile-marketing/admin/authenticate-mobile-access-security.md)
          + [Prima di creare notifiche push e messaggi in-app](product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md)
-         + [Configurare l’accesso push Android per app mobili](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
+         + [Configurare l’accesso push di Android per app mobili](product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md)
          + [Configurare l’accesso push di iOS per app mobili](product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md)
          + [Elimina app mobile](product-docs/mobile-marketing/admin/delete-mobile-app.md)
          + [Inviare codice SDK a uno sviluppatore](product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md)
@@ -1656,7 +1649,7 @@ ht-degree: 0%
          + [Utilizzo delle opzioni SMS in una campagna avanzata](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [Segnalazione SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [Glossario SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalizzazione {#personalization}
+   + Personalization {#personalization}
       + Segmentazione e snippet {#segmentation-and-snippets}
          + Segmentazione {#segmentation}
             + [Approvare una segmentazione](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1686,7 +1679,7 @@ ht-degree: 0%
       + Guida introduttiva {#getting-started}
          + [Impostazioni obiettivo algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Creare modelli di contenuto](product-docs/predictive-content/getting-started/create-content-patterns.md)
-         + [Implementare JavaScript per IA per la gestione dei contenuti](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
+         + [Distribuire JavaScript per IA per la gestione dei contenuti](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
          + [Abilita individuazione contenuto](product-docs/predictive-content/getting-started/enable-content-discovery.md)
          + [Impostare le categorie](product-docs/predictive-content/getting-started/set-up-categories.md)
       + Utilizzo di tutti i contenuti {#working-with-all-content}
@@ -1733,8 +1726,8 @@ ht-degree: 0%
             + [Espandere un rapporto sulle prestazioni delle persone](product-docs/reporting/basic-reporting/report-activity/drill-down-in-a-people-performance-report.md)
             + [Esportare un rapporto in Excel](product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md)
             + [Filtrare un rapporto di attività campagna](product-docs/reporting/basic-reporting/report-activity/filter-a-campaign-activity-report.md)
-            + [Filtrare le risorse nei rapporti e-mail di una campagna](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-            + [Filtrare le risorse in un rapporto e-mail](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+            + [Filtrare i rapporti e-mail di Assets in una campagna](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+            + [Filtrare Assets in un rapporto e-mail](product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
             + [Raggruppa rapporti persona per attributo](product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md)
             + [Report e-mail, prestazioni della campagna in più aree di lavoro](product-docs/reporting/basic-reporting/report-activity/report-email-campaign-performance-across-workspaces.md)
             + [Condividere un modello tra aree di lavoro](product-docs/reporting/basic-reporting/report-activity/share-a-model-across-workspaces.md)
@@ -1807,11 +1800,11 @@ ht-degree: 0%
             + [Creare un analizzatore del percorso di successo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
             + [Abilita gruppi di campi personalizzati per l&#39;analisi delle prestazioni del modello (lead)](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/enable-custom-field-groups-for-model-performance-analysis-leads.md)
             + [Trovare tutti i lead in un modello di ciclo dei ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md)
-            + [Unione di due fasi in Revenue Modeler](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
+            + [Unione di due fasi nella Modeler dei ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/merging-two-stages-in-the-revenue-modeler.md)
             + [Rapporto sul modello di reddito](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
             + [Impostare le conversioni di Google AdWords nel modello dei ricavi con un account Manager](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md)
             + [Impostare le conversioni di Google AdWords nel modello dei ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model.md)
-            + [Avviare il tracciamento per account nel Modeler ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
+            + [Avvia tracciamento per account nella Modeler dei ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)
             + [Informazioni sulle fasi del modello di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-phases.md)
             + [Informazioni sul percorso di successo del modello dei ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md)
             + [Informazioni sui modelli di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
@@ -1890,7 +1883,7 @@ ht-degree: 0%
          + [Impostazione della profilazione dell’account](product-docs/target-account-management/account-profiling/setting-up-account-profiling.md)
          + [Classificazione e tuning profilo account](product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md)
          + [Individuazione nuovo account](product-docs/target-account-management/account-profiling/new-account-discovery.md)
-   + Personalizzazione web {#web-personalization}
+   + Web Personalization {#web-personalization}
       + Marketing Web basato su account {#account-based-web-marketing}
          + [Marketing web basato su account con TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Crea un nuovo elenco account](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
@@ -1899,9 +1892,9 @@ ht-degree: 0%
          + [Aggiungere sottodomini nelle impostazioni account](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Modifica aree geografiche](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Gestione di login e utenti](product-docs/web-personalization/getting-started/login-and-user-management.md)
-         + [Impostazione della personalizzazione web su Do Not Track](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
+         + [Impostazione di Web Personalization per Do Not Track](product-docs/web-personalization/getting-started/setting-web-personalization-to-do-not-track.md)
          + [Impostazioni utente](product-docs/web-personalization/getting-started/user-settings.md)
-         + [Aree di lavoro in Personalizzazione web](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
+         + [Aree di lavoro in Web Personalization](product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)
       + Implementazione tag RTP {#rtp-tag-implementation}
          + [Distribuire il JavaScript RTP](product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md)
          + [Abilitazione o disabilitazione del tag JavaScript RTP](product-docs/web-personalization/rtp-tag-implementation/enabling-or-disabling-the-rtp-javascript-tag.md)
@@ -1911,7 +1904,7 @@ ht-degree: 0%
          + [Implementazione di RTP con Adobe Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-adobe-tag-manager.md)
          + [Implementazione di RTP tramite Google Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-google-tag-manager.md)
          + [Implementazione di RTP con Tealium Tag Manager](product-docs/web-personalization/rtp-tag-implementation/implementing-rtp-using-tealium-tag-manager.md)
-      + Generazione di rapporti per la personalizzazione web {#reporting-for-web-personalization}
+      + Generazione di rapporti per Web Personalization {#reporting-for-web-personalization}
          + [Report e-mail](product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
          + [Abilita/Disabilita sottoscrizioni report](product-docs/web-personalization/reporting-for-web-personalization/enable-disable-report-subscriptions.md)
          + [Escludere specifici IP dal tracciamento](product-docs/web-personalization/reporting-for-web-personalization/exclude-specific-ips-from-being-tracked.md)
@@ -1923,10 +1916,10 @@ ht-degree: 0%
             + [Integrare RTP con Google Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-analytics.md)
             + [Integrare RTP con Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integrare con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
-      + Informazioni sulla personalizzazione web {#understanding-web-personalization}
+      + Informazioni su Web Personalization {#understanding-web-personalization}
          + [Informazioni sull’analisi dei contenuti](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
-         + [Glossario di personalizzazione web](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
-         + [Panoramica sulla personalizzazione web](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
+         + [Glossario di Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
+         + [Panoramica di Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + Utilizzo dei modelli {#using-templates}
          + [Salvare la campagna come modello](product-docs/web-personalization/using-templates/save-your-campaign-as-a-template.md)
          + [Utilizzo dei modelli per creare campagne web](product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md)
@@ -1942,7 +1935,7 @@ ht-degree: 0%
       + Retargeting di siti web {#website-retargeting}
          + [Remarketing personalizzato in Facebook](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
          + [Remarketing personalizzato in Google](product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
-         + [Retargeting con dati di personalizzazione web](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
+         + [Retargeting con dati di Web Personalization](product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
       + Utilizzo delle campagne web {#working-with-web-campaigns}
          + [Test AB della campagna web](product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md)
          + [Aggiunta di un URL di destinazione a una campagna web](product-docs/web-personalization/working-with-web-campaigns/adding-a-target-url-to-a-web-campaign.md)
@@ -1951,7 +1944,7 @@ ht-degree: 0%
          + [Creare una nuova campagna web per finestre di dialogo](product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
          + [Crea una nuova campagna web nell’area](product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
          + [Crea una nuova campagna web widget](product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
-         + [Definire un elenco avanzato per le attività di personalizzazione web](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+         + [Definire un elenco avanzato per le attività di Web Personalization](product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
          + [Eliminare una campagna web](product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
          + [Modificare una campagna web esistente](product-docs/web-personalization/working-with-web-campaigns/edit-an-existing-web-campaign.md)
          + [Incorporare un modulo in una campagna web](product-docs/web-personalization/working-with-web-campaigns/embed-a-form-into-a-web-campaign.md)
@@ -1964,7 +1957,7 @@ ht-degree: 0%
          + [Pianificare una campagna web](product-docs/web-personalization/working-with-web-campaigns/schedule-a-web-campaign.md)
          + [Impostare la modalità di visualizzazione della campagna web](product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)
          + [Ordina campagne web per ultima o con prestazioni migliori](product-docs/web-personalization/working-with-web-campaigns/sort-web-campaigns-by-latest-or-top-performing.md)
-         + [Utilizzo dell’Editor Rich Text per la personalizzazione web](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
+         + [Utilizzo dell’editor Rich Text di Web Personalization](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Visualizzare campagne Web da un&#39;etichetta specifica](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Note sulla versione {#release-notes}
    + [Pianificazione rilascio](release-notes/release-schedule.md)

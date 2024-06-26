@@ -3,16 +3,16 @@ description: Panoramica generativa sull’intelligenza artificiale - Documenti M
 title: Panoramica di IA generativa
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 091e4cb2d9909b86a9e1a78fff812b8421fb970d
+source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---
 
 # Panoramica di IA generativa {#generative-ai-overview}
 
-L’intelligenza artificiale generativa in Adobi Dynamic Chat elabora in tempo reale i segnali di intento, le preferenze dell’utente e il comportamento passato per generare messaggi pertinenti e personalizzati per i visitatori della chat.
+L’intelligenza artificiale generativa in Adobe Dynamic Chat elabora in tempo reale i segnali di intento, le preferenze dell’utente e il comportamento passato per generare messaggi pertinenti e personalizzati per i visitatori della chat.
 
 ## Autorizzazioni {#permissions}
 
@@ -76,7 +76,7 @@ Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di ele
 
 **L’intelligenza artificiale generativa è disponibile per tutti gli utenti del Dynamic Chat?**
 
-L’intelligenza artificiale generativa è disponibile solo per gli abbonati Dynamic Chat Prime.
+L’intelligenza artificiale generativa è disponibile solo per gli abbonati Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 **Esiste un limite al numero di domande e risposte che è possibile generare?**
 
