@@ -4,9 +4,9 @@ description: Aggiunta del Single Sign-On a un portale - Documentazione Marketo -
 title: Aggiungere il Single Sign-On a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 48f280eef0fb5762b8032307c5442906f7ceaae3
+source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!NOTE]
 >
->Sei un [!DNL Microsoft Azure] utente? Consulta la loro [tutorial sull’integrazione](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Utilizza `https://<munchkinid>.mktoweb.com`, **_non_** `https://<munchkinid>.marketo.com`.
+>Sei un [!DNL Microsoft Azure] utente? Consulta la loro [tutorial sull’integrazione](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato dell&#39;inoltro su `https://<munchkinid>.mktoweb.com`, **_non_** `https://<munchkinid>.marketo.com`.
 
 ## Come inviare la richiesta {#how-to-send-the-request}
 
