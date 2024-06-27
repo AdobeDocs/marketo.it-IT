@@ -4,18 +4,19 @@ description: Informazioni sui messaggi in-app - Documentazione di Marketo - Docu
 title: Informazioni sui messaggi in-app
 exl-id: afa7c974-71d9-4170-b4d9-7e37721fd931
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
 
 # Informazioni sui messaggi in-app {#understanding-in-app-messages}
 
->[!NOTE]
+>[!AVAILABILITY]
 >
->La messaggistica in-app è un’applicazione aggiuntiva. Conferma con il tuo account manager Marketo per essere sicuro che sia attivato.
+>
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 Utilizza i messaggi in-app per interagire direttamente con i clienti mentre utilizzano la tua app. Quando aprono o eseguono un’azione personalizzata, puoi presentare un’offerta promozionale. Un clic li porta a una pagina di destinazione, a un sito web esterno o a un collegamento diretto, dove possono saperne di più e fare un acquisto. Oppure, quel clic può semplicemente ignorare il messaggio.  Puoi anche utilizzare i messaggi in-app come promemoria per i clienti, ad esempio, per completare il loro profilo o per informarli sulle nuove funzioni dell’app.
 

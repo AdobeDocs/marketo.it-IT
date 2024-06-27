@@ -4,9 +4,9 @@ description: Creare un testo per i messaggi in-app - Documentazione di Marketo -
 title: Crea testo messaggio in-app
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Crea testo messaggio in-app {#create-in-app-message-text}
 
 Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del testo.
+
+>[!CAUTION]
+>
+>È consigliabile non utilizzare le emoticon nel testo, in quanto al momento non sono completamente supportate.
 
 1. Fai clic sul Testo principale per modificarlo in linea.
 

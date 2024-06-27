@@ -3,14 +3,14 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
+source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 4%
+source-wordcount: '341'
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: giugno 2024 {#release-notes-june-24}
+# Note sulla versione: luglio 2024 {#release-notes-july-24}
 
 Qui sotto troverai tutte le funzioni incluse nella versione di giugno 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
 
@@ -22,7 +22,7 @@ Le Note sulla versione, ad Adobe Dynamic Chat [si trova qui](/help/marketo/relea
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **7 giugno 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **26 luglio 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,20 +32,9 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:25%">Documentazione</th>
   </tr>
      <tr> 
-   <td><strong>Modelli per webinar interattivi</strong>: gli addetti al marketing possono ora creare modelli personalizzati per i layout delle room nei webinar interattivi.</td> 
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modelli</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-     <tr> 
-   <td><strong>Campi dedotti in Forms</strong>: l’origine dati utilizzata per popolare i campi dedotti quando una persona viene creata tramite la compilazione dei moduli senza alcuna attività web precedente è stata aggiornata per utilizzare la stessa origine dati di altri metodi di raccolta di persone. I dati del campo dedotti sono ora coerenti tra tutti i punti di raccolta.</td> 
-   <td>Spedito</td>
-   <td>n/d</td>
+   <td><strong>Modifica API REST di Marketo</strong>: stiamo introducendo una modifica minore al <a href="https://developers.marketo.com/rest-api/user-management/">API User Management</a>. Entrambe <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Sfoglia utenti</a> e <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Elimina utente</a> gli endpoint ora supportano <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gestione account di destinazione</a> utenti.</td> 
+   <td><i>in arrivo</i></td>
+   <td><i>in arrivo</i></td>
   </tr>
  </tbody> 
 </table>
@@ -53,4 +42,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 ## Annunci {#announcements}
 
-* **È necessaria la riautenticazione di linkedIn**: LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketi Engage LinkedIn. Queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel tuo **Amministratore** > **LaunchPoint** tra il 26 luglio e il 15 dicembre 2024, per evitare interruzioni del servizio. Puoi trovare istruzioni su come eseguire questa operazione [qui per Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [qui per tipi di pubblico corrispondenti](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Il servizio Modulo generazione lead ha un tipo di &quot;LinkedIn Lead Gen&quot; e il servizio Pubblico abbinato ha il tipo di &quot;LinkedIn Matched Audiences&quot;. Per ulteriori informazioni, vedere [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **Nuovo sito di documentazione per sviluppatori**: come parte del nostro impegno continuo per migliorare l’esperienza utente del Marketo Engage, a luglio 2024 eseguiremo la migrazione di tutta la documentazione per sviluppatori al sito web Adobe Experience League e Adobe Developer. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
+
+* **Token di accesso in Query Parameter Deprecation**: il supporto per l’autenticazione tramite token di accesso in un parametro di query di una chiamata API REST di Marketo Engage verrà rimosso in una versione futura (data specifica TBD). Le integrazioni esistenti devono migrare all’utilizzo dell’intestazione Autorizzazione [descritto qui](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Per i nuovi sviluppi, utilizza solo l’intestazione Autorizzazione per l’autenticazione con il Marketo Engage.
+
+* **È necessaria la riautenticazione di linkedIn**: LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketo Engage LinkedIn. Queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel tuo **Amministratore** > **LaunchPoint** tra il 26 luglio e il 15 dicembre 2024, per evitare interruzioni del servizio. Puoi trovare istruzioni su come eseguire questa operazione [qui per Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [qui per tipi di pubblico corrispondenti](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Il servizio Modulo generazione lead ha un tipo di &quot;LinkedIn Lead Gen&quot; e il servizio Pubblico abbinato ha il tipo di &quot;LinkedIn Matched Audiences&quot;. Per ulteriori informazioni, vedere [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
