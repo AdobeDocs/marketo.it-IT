@@ -3,9 +3,9 @@ description: Domande frequenti su Identity Management per Adobe - Documentazione
 title: Domande frequenti su Identity Management Adobe
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: af5e6b567c074507e20a8b8d312f3abaa5ab60b0
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
-source-wordcount: '1202'
+source-wordcount: '1279'
 ht-degree: 0%
 
 ---
@@ -25,6 +25,16 @@ Adobe Identity Management System è costituito da tre componenti.
 **Quando verranno integrati con IMS gli abbonamenti di Marketo Engage esistenti?**
 
 Gli abbonamenti Marketo esistenti verranno migrati al sistema Identity Management Adobe più avanti nel corso dell’anno. Il supporto Marketo non sarà in grado di fornire aggiornamenti relativi alla migrazione Adobe IMS. Il team dell’account Adobe raggiungerà la tempistica stimata nei prossimi mesi.
+
+**Dopo la migrazione, gli URL di Marketo Engage rimarranno invariati?**
+
+No. Gli URL avranno un aspetto diverso dopo la migrazione. Tuttavia, i numeri di ID delle risorse rimangono gli stessi. Inoltre, i segnalibri salvati in precedenza dovrebbero comunque portare alla posizione corretta.
+
+**C&#39;è qualcosa da fare per prepararci alla modifica dell&#39;URL?**
+
+Sì. Rivolgiti al team IT e accertati che aggiunga il dominio sottostante (incluso l’asterisco) per consentire tutte le risorse di Marketo Engage e i websockets:
+
+_*.experience.adobe.com_
 
 **Qual è la differenza tra un amministratore di prodotto Adobe e un amministratore di Marketo Engage?**
 
@@ -92,7 +102,7 @@ Sì, è possibile determinare il tipo di identità per il supporto dell&#39;orga
 
 **Quali schede prodotto sono supportate in Adobe Admin Console?**
 
-Le schede prodotto supportate sono: Marketi Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect e Marketo Sales Insight Actions.
+Le schede prodotto supportate sono: Marketo Engage, Marketo Measure, Marketo Dynamic Chat, Marketo Sales Connect e Marketo Sales Insight Actions.
 
 **Cosa succede se il mio accesso utente non corrisponde al mio indirizzo e-mail quando vengo migrato a un&#39;identità Adobe?**
 

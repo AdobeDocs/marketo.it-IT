@@ -3,7 +3,7 @@ description: Modificare o eliminare un webinar interattivo - Documentazione di M
 title: Modificare o eliminare un webinar interattivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Scopri come apportare modifiche al webinar interattivo.
    >
    >Puoi anche fare clic con il pulsante destro del mouse sul Programma eventi nella struttura e selezionare **Clona** da lì.
 
-1. Assegna un nome al programma clonato, imposta l’area di lavoro e la destinazione (se desideri che il programma viva altrove) e fai clic su **Salva**.
+1. Assegna un nome al programma clonato, imposta Workspace e Destination (se desideri che il programma viva altrove) e fai clic su **Salva**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
