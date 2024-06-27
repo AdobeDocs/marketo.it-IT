@@ -2,9 +2,10 @@
 description: Webinar on-demand - Documentazione di Marketo - Documentazione del prodotto
 title: Webinar on demand
 feature: Interactive Webinars
-source-git-commit: c3819373fbd49f7ea67f6eb6661d63ad5ba86d57
+exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
+source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,9 @@ I webinar on-demand acquisiscono e perfezionano i lead che si sono registrati pe
 
 L’URL di unione del webinar condiviso con gli utenti registrati prima dell’evento può essere utilizzato per guardare la registrazione on-demand. Quando un utente registrato che non ha partecipato all’evento live (ad esempio, un lead con lo stato di programma &quot;No-Show&quot;) fa clic sull’URL di iscrizione al webinar, lo stato di tale lead cambia da &quot;No-Show&quot; a &quot;Partecipated On-Demand&quot;. Lo stato del programma dei lead che hanno guardato l’evento in diretta e che hanno lo stato &quot;Partecipato&quot; non subisce modifiche se decidono di visitare l’URL di unione e guardare la registrazione on-demand.
 
-Adobe Connect, la tecnologia che alimenta i webinar interattivi, tiene traccia della visita e della durata dell’orologio relativi ai lead che guardano la registrazione e segnala le informazioni a Marketo su base giornaliera. La registrazione è disponibile nell’URL di join per 30 giorni dopo l’evento. Impossibile modificare la durata.
+Adobe Connect, la tecnologia che gestisce i webinar interattivi, tiene traccia della visita e della durata di osservazione dei lead che guardano la registrazione e segnala le informazioni al Marketo Engage su base giornaliera. Il tracciamento per i webinar on-demand si interrompe 30 giorni dopo l’evento. Impossibile modificare la durata.
 
-Marketo fornisce le statistiche di controllo per i webinar on-demand sulla scheda Dashboard con l’aiuto dei seguenti widget:
+Marketo Engage fornisce le statistiche di controllo per i webinar on demand sulla scheda Dashboard con l’aiuto dei seguenti widget:
 
 * Riepilogo on-demand: fornisce un riepilogo del numero di visitatori (no-show) che guardano la registrazione dopo l’evento in un dato giorno/i
 
