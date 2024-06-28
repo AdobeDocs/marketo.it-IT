@@ -4,16 +4,20 @@ description: Utilizzare i tag in un programma - Documentazione di Marketo - Docu
 title: Utilizzare i tag in un programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: aca03bfe0626abd18b8d797d0ad85bbeb7280f55
+source-git-commit: 271b3f9a6c526e343f04d4d05d4c03f2ae32d146
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 4%
+source-wordcount: '164'
+ht-degree: 3%
 
 ---
 
 # Utilizzare i tag in un programma {#use-tags-in-a-program}
 
 I tag sono attributi che descrivono i programmi e vengono utilizzati per raggruppare i tipi di programmi nel reporting.
+
+>[!NOTE]
+>
+>Se si utilizza Gestione ciclo ricavi, è necessario definire un costo periodo (anche se è 0) affinché il rapporto sia disponibile per il programma.
 
 ## Utilizzare un tag in un programma {#use-a-tag-in-a-program}
 
