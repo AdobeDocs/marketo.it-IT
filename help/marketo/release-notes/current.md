@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 10a77a09f5ca9ce57e7a357fe1b6736b7bdb95e3
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 2%
+source-wordcount: '465'
+ht-degree: 1%
 
 ---
 
@@ -32,9 +32,42 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:25%">Documentazione</th>
   </tr>
      <tr> 
+   <td><strong>Dashboard di coinvolgimento per webinar interattivi</strong>: ottieni una visualizzazione aggregata delle prestazioni del webinar e una visualizzazione completa del coinvolgimento di ogni partecipante durante il webinar, in modo da poter decidere quali lead indirizzare a target tramite gli strumenti di orchestrazione del Marketo Engage.</td> 
+    <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Gestione delle sale per webinar interattivi</strong>: accedere alle singole sale create (e apportare modifiche se necessario), nonché accedere al contenuto e alla registrazione (e cancellarli se necessario per ottimizzare l’archiviazione).</td> 
+    <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
+   <td><strong>Personalizzazione dei webinar interattivi</strong>: offre un’esperienza di marchio uniforme e approvata dall’organizzazione grazie all’utilizzo di un’interfaccia di sala comune, di schermi intermedi (come gli sfondi delle schermate di ingresso dei partecipanti) e di sfondi video personalizzati, per consentire un allineamento più semplice della strategia del webinar con quella del marchio.</td> 
+    <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+     <tr> 
    <td><strong>Modifica API REST di Marketo</strong>: stiamo introducendo una modifica minore al <a href="https://developers.marketo.com/rest-api/user-management/">API User Management</a>. Entrambe <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Sfoglia utenti</a> e <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Elimina utente</a> gli endpoint ora supportano <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gestione account di destinazione</a> utenti.</td> 
-   <td><i>in arrivo</i></td>
-   <td><i>in arrivo</i></td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
  </tbody> 
 </table>
