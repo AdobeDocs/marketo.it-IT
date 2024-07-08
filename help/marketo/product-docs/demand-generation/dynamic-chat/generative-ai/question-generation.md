@@ -3,9 +3,9 @@ description: Generazione di domande - Documentazione di Marketo - Documentazione
 title: Generazione di domande
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,11 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    >[!IMPORTANT]
    >
-   >Affinché il Marketo Engage possa raschiare il contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti alcuni indirizzi IP. Per evitare che il contenuto venga rimosso dagli URL forniti, devi prima diversi indirizzi IP. [Per ulteriori informazioni, consulta di seguito](#ip-addresses-to-allowlist).
+   >Per garantire che il Marketo Engage possa raschiare il contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. [Per ulteriori informazioni, consulta di seguito](#ip-addresses-to-allowlist).
+
+   >[!NOTE]
+   >
+   >I siti e le pagine devono essere pubblici (ovvero non nascosti dietro un accesso) affinché le loro informazioni possano essere raschiate.
 
 1. In base al contenuto, la generazione di domande e risposte può richiedere fino a 30 minuti. Clic **[!UICONTROL OK]**.
 
@@ -68,7 +72,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-9.png)
 
-## Indirizzi IP da Inserire nell&#39;elenco Consentiti per l accesso {#ip-addresses-to-allowlist}
+## INSERIRE NELL&#39;ELENCO CONSENTITI Indirizzi IP da {#ip-addresses-to-allowlist}
 
 Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione di domande e risposte, individua la tua regione di seguito e assicurati che l’indirizzo IP associato sia inserito nell&#39;elenco Consentiti dal team web.
 
