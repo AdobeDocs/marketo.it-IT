@@ -4,22 +4,22 @@ description: Informazioni sulle campagne intelligenti - Documentazione di Market
 title: Informazioni sulle campagne avanzate
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6dd6ce30dd90684ca685ae709cd9ab95e1c7d7e8
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 1%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
 # Informazioni sulle campagne avanzate {#understanding-smart-campaigns}
 
-Se Marketo è un&#39;auto potente, la campagna intelligente è davvero il motore. È semplice da iniziare, ma può fare quasi tutto quello che si chiede di esso.
+Se il Marketo Engage è un&#39;auto, la Smart Campaign ne è il motore. Le campagne intelligenti possono fare più di quanto si possa immaginare ed è facile iniziare a utilizzarle.
 
-La campagna intelligente si articola in 3 aree principali: [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flow](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} and [Schedule](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} schede.
+La campagna Smart è costituita da 3 aree principali: [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} e [Pianificazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} schede.
 
 ## Elenco avanzato {#smart-list}
 
-L’elenco avanzato è come definisci _chi_ desideri eseguire il targeting con la tua campagna intelligente. Ha filtri e trigger.
+L’elenco avanzato è come si definisce _chi_ desideri eseguire il targeting con la tua Smart Campaign. Ha filtri e trigger.
 
 <table> 
  <tbody> 
@@ -45,13 +45,13 @@ Puoi combinare i filtri in vari modi e utilizzarli insieme ai trigger. Questo è
 
 ## Flusso {#flow}
 
-Il flusso include i passaggi che desideri eseguire per la campagna intelligente, inclusi i passaggi di attesa e le scelte divise.
+Il flusso include i passaggi che si desidera eseguire in Smart Campaign, inclusi i passaggi di attesa e le scelte divise.
 
 ## Pianificazione {#schedule}
 
-Infine, questo controlla quando esegui la tua campagna intelligente. Puoi anche impostare la ricorrenza in modo che venga eseguita su una pianificazione ripetuta.
+Infine, questo controlla quando esegui la tua Smart Campaign. Puoi anche impostare la ricorrenza in modo che venga eseguita su una pianificazione ripetuta.
 
-C&#39;è un&#39;enorme quantità di cose che la campagna intelligente può fare. Riprendetevelo e troverete tutto in Marketo diventa molto più semplice da capire.
+La campagna intelligente può fare un numero enorme di cose. Riprendetevelo e troverete tutto in Marketo diventa molto più semplice da capire.
 
 >[!CAUTION]
 >
