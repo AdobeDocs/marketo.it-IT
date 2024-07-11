@@ -3,16 +3,16 @@ description: Panoramica generativa sull’intelligenza artificiale - Documenti M
 title: Panoramica di IA generativa
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---
 
 # Panoramica di IA generativa {#generative-ai-overview}
 
-L’intelligenza artificiale generativa in Adobe Dynamic Chat elabora in tempo reale i segnali di intento, le preferenze dell’utente e il comportamento passato per generare messaggi pertinenti e personalizzati per i visitatori della chat.
+Le funzionalità generative basate sull’intelligenza artificiale di Adobe Dynamic Chat consentono di ottimizzare la produttività per gli agenti di vendita, ottenere informazioni sulle intenzioni dei visitatori del sito web e rispondere alle domande dei visitatori in modo sicuro.
 
 ## Autorizzazioni {#permissions}
 
