@@ -1,11 +1,12 @@
 ---
 description: Passaggi di configurazione - Documentazione di Marketo - Documentazione del prodotto
+short-description: Hai appena iniziato a usare Adobe Marketo Engage? Scopri quali passaggi devi completare prima di immergerti.
 title: Passaggi di configurazione
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '1675'
+source-wordcount: '1708'
 ht-degree: 0%
 
 ---
@@ -38,7 +39,7 @@ Alcuni passaggi richiedono l’aiuto del team IT.
 Puoi adottare diverse misure per garantire che le e-mail raggiungano il maggior numero possibile di persone.
 
 * **Personalizzare i collegamenti di tracciamento**. Puoi scegliere un CNAME per utilizzare il tuo dominio (anziché quello di Marketo) nei collegamenti che includi nelle e-mail da Marketo. Questo rafforza il branding del dominio e aumenta la fiducia e il recapito messaggi con i destinatari.
-* **Aggiungi Marketo al tuo elenco Consentiti di e-mail aziendale per l invio di messaggi**. È buona prassi comune inviare e-mail di test agli account di test prima di inviare e-mail alle persone effettive. di inserire nell&#39;elenco Consentiti Marketo, puoi evitare che le e-mail di test vengano bloccate o contrassegnate come spam.
+* **Aggiungi Marketo al tuo elenco Consentiti di e-mail aziendali per la gestione dei messaggi di posta elettronica (e-mail)**. È buona prassi comune inviare e-mail di test agli account di test prima di inviare e-mail alle persone effettive. di inserire nell&#39;elenco Consentiti Marketo, puoi evitare che le e-mail di test vengano bloccate o contrassegnate come spam.
 * **Configurazione di SPF e DKIM**. Queste tecnologie garantiscono ai destinatari che le e-mail Marketo non siano spam. Per evitare che i filtri anti-spam dei destinatari rifiutino le e-mail Marketo, segui questi passaggi per [Configurare SPF e DKIM per il recapito messaggi e-mail](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
 * **Imposta un record MX per il dominio.** Un record MX ti consente di ricevere e-mail al dominio da cui stai inviando l’e-mail per elaborare le risposte e i risponditori automatici. Se invii dal dominio aziendale, probabilmente lo hai già configurato. In caso contrario, puoi in genere impostare la mappatura sul record MX del dominio aziendale.
 * **Impostazioni consigliate per l&#39;indirizzo Da.** Devi utilizzare un dominio e-mail valido, esistente e funzionante nell’Indirizzo mittente in tutte le campagne e-mail. Può essere utile configurare un sottodominio del dominio aziendale piuttosto che inviare dati dal dominio aziendale. In questo modo i problemi del flusso di posta aziendale non influiranno sul flusso di posta Marketo e viceversa. Inoltre, l&#39;invio di posta da `something@nonexistentdomain.com` causerà il filtraggio o il blocco delle e-mail. Qualsiasi dominio utilizzato nell&#39;indirizzo mittente deve avere un account postmaster@ valido e funzionante e un account abusivo@.
@@ -145,7 +146,7 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 
 `3)` Inserire nell&#39;elenco Consentiti Marketo.
 
-    * Se utilizziamo gli indirizzi IP nel nostro Elenco Consentiti di e-mail, aggiungi gli IP elencati di seguito:
+    * Se utilizziamo gli indirizzi IP nel nostro Inserisco nell&#39;elenco Consentiti di e-mail, aggiungi gli IP elencati di seguito:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -164,7 +165,7 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 
 >[!NOTE]
 >
->Contatta il supporto Marketo inserire nell&#39;elenco Consentiti se desideri un elenco abbreviato di IP da specifici per il tuo ambiente.
+>Contatta il Supporto Marketo se desideri un elenco abbreviato di IP da al inserisco nell&#39;elenco Consentiti specifico per il tuo ambiente.
 
     * Se il nostro sistema antispam utilizza i domini From, aggiungi questi:
 
@@ -261,7 +262,7 @@ Scegli una delle seguenti opzioni, a seconda del sistema di gestione delle relaz
 >
 >Sei un [!DNL Launch Pack] cliente? Puoi saltare questo passaggio. Il tuo consulente ti fornirà [!DNL Munchkin] le istruzioni di codice nel documento delle istruzioni di configurazione IT.
 
-Il Marketo Engage dispone di JavaScript di tracciamento personalizzato (denominato [!DNL Munchkin]) che è possibile utilizzare per tenere traccia delle attività delle persone su qualsiasi pagina web. [!DNL Munchkin] è richiesto per integrare il sito web in Marketo. Segui questi passaggi per [Aggiungi [!DNL Munchkin] Codice di tracciamento per il sito web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Il Marketo Engage dispone di un JavaScript di tracciamento personalizzato (denominato [!DNL Munchkin]) che è possibile utilizzare per tenere traccia delle attività delle persone su qualsiasi pagina web. [!DNL Munchkin] è richiesto per integrare il sito web in Marketo. Segui questi passaggi per [Aggiungi [!DNL Munchkin] Codice di tracciamento per il sito web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -269,7 +270,7 @@ Il Marketo Engage dispone di JavaScript di tracciamento personalizzato (denomina
 
 ## Aspettative di prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella sezione [Descrizione del prodotto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. The "Performance" and "Performance Plus" columns refer to performance tier packages that provide [higher performance levels](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella sezione [Descrizione del prodotto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; si riferiscono ai pacchetti del livello delle prestazioni che forniscono [livelli di prestazioni più elevati](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

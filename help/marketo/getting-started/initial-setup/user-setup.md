@@ -1,11 +1,12 @@
 ---
 description: Prima di immergerti nella nuova istanza di Marketo Engage, devi completare alcuni passaggi fondamentali per un utilizzo continuo. Questi passaggi includono la configurazione dell’account utente, l’impostazione dell’amministratore di supporto e la sottoscrizione agli aggiornamenti di sistema in corso.
+short-description: Dopo aver completato i passaggi di configurazione iniziali, scopri come stabilire elementi fondamentali per garantire un utilizzo continuo e fluido.
 title: Elenco di controllo per l'impostazione dell'utente
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 889071c38fdf1fc99c27cf14064a5463a162916e
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '794'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---

@@ -1,18 +1,19 @@
 ---
 description: Glossario del Marketo Engage - Documentazione di Marketo - Documentazione del prodotto
+short-description: Scopri i termini di Marketo Engage e le relative definizioni per aiutarti a imparare rapidamente a utilizzare.
 title: Glossario Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
-source-wordcount: '4083'
+source-wordcount: '4098'
 ht-degree: 1%
 
 ---
 
 # Glossario Marketo Engage {#marketo-engage-glossary}
 
-Di seguito sono riportate le definizioni di molti dei termini che è possibile incontrare quando si utilizza Marketi Engage. Per richiedere l&#39;aggiunta di un termine, [inviaci un&#39;email](mailto:GRP-Marketo-articlefeedback@adobe.com).
+Di seguito sono riportate le definizioni di molti dei termini che è possibile incontrare quando si utilizza Marketo Engage. Per richiedere l&#39;aggiunta di un termine, [inviaci un&#39;email](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
 ## A {#a}
 
@@ -52,7 +53,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/demand-generation/ad-network-integrations/understanding-ad-network-integrations.md" rel="nofollow"><strong>Integrazioni di reti pubblicitarie </strong></a></td> 
-   <td colspan="1">(precedentemente Ad Bridge) Un modo per collegare i dati univoci sul pubblico di Marketo ai sistemi multimediali a pagamento, per eseguire campagne pubblicitarie digitali personalizzate più mirate.</td> 
+   <td colspan="1">(precedentemente Ad Bridge) Un modo per collegare i dati univoci sul pubblico di Marketo ai sistemi di media a pagamento in modo da poter eseguire campagne pubblicitarie digitali personalizzate più mirate.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Adobe Marketo Engage</strong></td> 
@@ -72,7 +73,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr> 
   <tr> 
    <td colspan="1"><strong>Approvato</strong></td> 
-   <td colspan="1">Utilizzato per confermare quando un <strong>risorsa</strong> è pronto per essere consumato. Le risorse non possono essere visualizzate pubblicamente finché non sono state approvate.</td> 
+   <td colspan="1">Utilizzato per confermare quando un <strong>risorsa</strong> è pronto per essere consumato. Assets non può essere visualizzato pubblicamente finché non è stato approvato.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Risorsa</strong></td> 
@@ -128,7 +129,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
  <tbody> 
   <tr> 
    <td colspan="1"><strong>Campaign</strong></td> 
-   <td colspan="1">"Campagna" potrebbe significare alcune cose in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagna</a> è un termine più breve per campagna intelligente. In entrata <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagne</a> sono una serie di passaggi di corrispondenza multicanale. In entrata <strong>Personalizzazione web</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagne</a> sono reazioni personalizzate associate a un segmento specifico.</td> 
+   <td colspan="1">"Campagna" potrebbe significare alcune cose in Marketo. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md" rel="nofollow">campagna</a> è un termine più breve per campagna intelligente. In entrata <strong>Marketo Sales Connect</strong>, <a href="/help/marketo/product-docs/marketo-sales-connect/campaigns/create-a-campaign.md" rel="nofollow">campagne</a> sono una serie di passaggi di corrispondenza multicanale. In entrata <strong>Web Personalization</strong>, web <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">campagne</a> sono reazioni personalizzate associate a un segmento specifico.</td> 
   </tr>
   <tr> 
    <td colspan="1"><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md" rel="nofollow">Rapporto sulle prestazioni e-mail della campagna</a></strong></td> 
@@ -184,7 +185,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr> 
   <tr> 
    <td colspan="1"><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md" rel="nofollow"><strong>Analisi dei contenuti</strong></a></td> 
-   <td colspan="1">Area di <strong>Personalizzazione web</strong> che visualizza il contenuto individuato esistente del sito web, nonché le prestazioni del contenuto.</td> 
+   <td colspan="1">Area di <strong>Web Personalization</strong> che visualizza il contenuto individuato esistente del sito web, nonché le prestazioni del contenuto.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Livello di coinvolgimento dei contenuti</strong></td> 
@@ -393,8 +394,8 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td><p>La legislazione dell'Unione Europea entrata in vigore il 25 maggio 2018, mirava a dare ai cittadini dell'UE un maggiore controllo sui propri dati personali.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Risorse globali</strong></td> 
-   <td>Risorse create in <strong>Design Studio</strong> da utilizzare in <strong>programmi</strong> nell’istanza Marketo. </td> 
+   <td><strong>Assets globale</strong></td> 
+   <td>Assets creato in <strong>Design Studio</strong> da utilizzare in <strong>programmi</strong> nell’istanza Marketo. </td> 
   </tr> 
   <tr> 
    <td colspan="1"><strong>Pagina di destinazione guidata</strong></td> 
@@ -483,8 +484,8 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">Una raccolta di persone. In Marketo sono disponibili elenchi avanzati ed elenchi statici. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" rel="nofollow">elenco avanzato</a> è un elenco dinamico di persone che possono cambiare costantemente, in quanto si basa sui filtri che definisci (ad esempio, tutti coloro che vivono in California nel tuo database). Quando nuove persone sono idonee per i criteri (o le persone esistenti non sono più idonee), l’elenco cambia. A <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" rel="nofollow">elenco statico</a> è, beh, statico. Non cambia a meno che tu non aggiunga/elimini manualmente qualcuno.</td> 
   </tr> 
   <tr> 
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Risorse locali</strong></a></td> 
-   <td><strong>Risorse</strong> utilizzato all'interno di un <strong>programma</strong>.</td> 
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-local-assets-in-a-program.md" rel="nofollow"><strong>Assets locale</strong></a></td> 
+   <td><strong>Assets</strong> utilizzato all'interno di un <strong>programma</strong>.</td> 
   </tr> 
  </tbody> 
 </table>
@@ -861,14 +862,14 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
     <div> 
      <p><strong> Campagna web</strong></p> 
     </div></td> 
-   <td colspan="1">Una reazione personalizzata associata a un segmento specifico. In entrata <strong>Personalizzazione web</strong>, le campagne web includono <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Finestre di dialogo</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">Nelle zone</a>, e <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget</a></strong>.</td> 
+   <td colspan="1">Una reazione personalizzata associata a un segmento specifico. In entrata <strong>Web Personalization</strong>, le campagne web includono <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md" rel="nofollow">Finestre di dialogo</a>, <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md" rel="nofollow">Nelle zone</a>, e <strong><a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md" rel="nofollow">Widget</a></strong>.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md" rel="nofollow">Rapporto attività pagina web</a></strong></td> 
    <td>Un tipo di report in Marketo. Ti consente di visualizzare i contenuti <i>o</i> persone anonime che visitano il tuo sito web.</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Personalizzazione web</strong></td> 
+   <td><strong><a href="/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md" rel="nofollow">Web Personalization</strong></td> 
    <td>Funzione aggiuntiva che fornisce una piattaforma di targeting e personalizzazione che consente agli utenti di Marketo di coinvolgere in tempo reale visitatori noti e anonimi, in base a chi sono e a cosa fanno.</td> 
   </tr>
   <tr> 
@@ -889,7 +890,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr> 
   <tr> 
    <td><strong>Carattere jolly</strong></td> 
-   <td>Un carattere (*) viene utilizzato in <strong>Personalizzazione web</strong>) utilizzato prima o dopo una stringa per sostituire qualsiasi altro carattere in una stringa.</td> 
+   <td>Un carattere (*) viene utilizzato in <strong>Web Personalization</strong>) utilizzato prima o dopo una stringa per sostituire qualsiasi altro carattere in una stringa.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md" rel="nofollow">Area di lavoro</a></strong></td> 
