@@ -96,7 +96,7 @@ Oltre ai campi di Marketo Engage nativi e personalizzati, ora puoi utilizzare la
 
 ### Condizione elenco smart aggiunta alla diramazione condizionale {#smart-list-condition}
 
-Con l’aggiunta della nuova condizione Elenco smart di Marketo Engage nell’diramazione condizionale, puoi creare diramazioni in base a tipi di pubblico preesistenti già creati in Marketi Engage, anziché definire le condizioni di diramazione del pubblico in Dynamic Chat.
+Con l’aggiunta della nuova condizione Elenco smart di Marketo Engage nell’diramazione condizionale, puoi creare diramazioni in base a tipi di pubblico preesistenti già creati in Marketo Engage, anziché definire le condizioni di diramazione del pubblico in Dynamic Chat.
 
 ![](assets/dynamic-chat-release-2.png)
 
