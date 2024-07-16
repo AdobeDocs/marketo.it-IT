@@ -4,7 +4,7 @@ description: Aggiungere dati a un campo - Documentazione Marketo - Documentazion
 title: Aggiungere dati a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -17,26 +17,26 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creare una campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[Crea una campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
 
 >[!NOTE]
 >
 >I passaggi seguenti si applicano anche a [Modifica dati membro programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Sotto **[!UICONTROL Flusso]** , trascina nella scheda **[!UICONTROL Modifica valore dati]** passaggio di flusso.
+1. Nella scheda **[!UICONTROL Flusso]**, trascina il passaggio del flusso **[!UICONTROL Modifica valore dati]**.
 
-   ![](assets/image2014-9-22-16-3a5-3a1.png)
+   ![](assets/append-data-to-a-field-1.png)
 
 1. Individuare e selezionare il campo a cui si desidera aggiungere i dati.
 
-   ![](assets/image2014-9-22-16-3a5-3a5.png)
+   ![](assets/append-data-to-a-field-2.png)
 
 1. Trova e seleziona il token per lo stesso campo a cui desideri aggiungere i dati.
 
-   ![](assets/image2014-9-22-16-3a5-3a9.png)
+   ![](assets/append-data-to-a-field-3.png)
 
 1. Ora aggiungi il valore che desideri aggiungere a quello che esiste già nel campo.
 
-   ![](assets/image2014-9-22-16-3a5-3a12.png)
+   ![](assets/append-data-to-a-field-4.png)
 
 Tutto qui! Puoi diventare creativo e aggiungere più token.
