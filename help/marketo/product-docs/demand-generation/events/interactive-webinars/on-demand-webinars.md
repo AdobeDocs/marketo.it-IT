@@ -3,9 +3,9 @@ description: Webinar on-demand - Documentazione di Marketo - Documentazione del 
 title: Webinar on demand
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 0bbe8110b7912cfbe04fdfc9b73c90fa9606a6b8
+source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,9 @@ Marketo Engage fornisce le statistiche di controllo per i webinar on demand sull
    * Durata media dell’orologio in minuti per tutti i visitatori: fornisce agli addetti al marketing un’idea di quanta registrazione viene visualizzata e di quali campagne intelligenti possono essere utilizzate per indirizzare i lead oltre una determinata durata dell’orologio.
 
 ![](assets/on-demand-webinars-1.png)
+
+>[!NOTE]
+>
+>Le visualizzazioni vengono conteggiate solo quando la durata dell’osservazione supera un minuto.
 
 I filtri e i trigger per i webinar interattivi sono stati modificati per soddisfare i webinar on-demand. Il trigger &quot;Partecipa all’evento&quot; e il filtro &quot;Ha partecipato all’evento&quot; vengono aggiunti con un vincolo aggiuntivo (&quot;Modalità evento&quot;), in cui un addetto marketing può scegliere se il target è Pubblico live o Pubblico on demand. Se il vincolo &quot;Modalità evento&quot; non è selezionato, verrà eseguito il targeting sia del pubblico Live che di quello On-Demand. Con la modalità evento &quot;On-Demand&quot; è possibile utilizzare altri vincoli, ad esempio &quot;Watch Date&quot; (Data di osservazione) e &quot;Watch Duration&quot; (Durata osservazione). Il filtro di inattività &quot;Non ha partecipato a un evento&quot; può essere utilizzato anche per i webinar on-demand con modalità evento &quot;on-demand&quot;.
