@@ -4,32 +4,28 @@ description: Modifica stato del programma - Documentazione di Marketo - Document
 title: Modifica stato programma
 exl-id: ca6076a6-10f4-4687-8486-1bbcb6ea9255
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 1%
+source-wordcount: '129'
+ht-degree: 0%
 
 ---
 
 # Modifica stato programma {#change-program-status}
 
-## Panoramica {#overview}
-
-Gli stati del programma consentono di tenere traccia dell&#39;avanzamento delle persone in un programma o un evento. Ulteriori informazioni in [Personalizzare, Creare E Gestire I Canali](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Gli stati del programma consentono di tenere traccia dell&#39;avanzamento delle persone in un programma o un evento. Per ulteriori informazioni, consulta [Personalizzare, creare e gestire i canali](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 >[!CAUTION]
 >
 >La modifica dello stato del programma in un programma di coinvolgimento li aggiungerà automaticamente al primo flusso. Inizieranno a ricevere i contenuti.
 
-## Utilizzo {#usage}
+1. Trascina nel passaggio del flusso **[!UICONTROL Modifica stato programma]**.
 
-1. Trascina nella **[!UICONTROL Modifica stato programma]** passaggio di flusso.
+   ![](assets/change-program-status-1.png)
 
-   ![](assets/image2014-9-22-14-3a43-3a34.png)
+1. Selezionare il **[!UICONTROL nuovo stato]** da impostare. La persona sarà anche resa membro del programma, se non lo era già.
 
-1. Seleziona la **[!UICONTROL Nuovo stato]** si desidera impostare. La persona sarà anche resa membro del programma, se non lo era già.
-
-   ![](assets/image2014-9-22-14-3a43-3a45.png)
+   ![](assets/change-program-status-2.png)
 
 Le scelte sono limitate agli stati validi per quel programma.
 

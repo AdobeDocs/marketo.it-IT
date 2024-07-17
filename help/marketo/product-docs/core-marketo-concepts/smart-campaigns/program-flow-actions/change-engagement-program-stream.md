@@ -4,22 +4,18 @@ description: Flusso del programma di modifica del coinvolgimento - Documentazion
 title: Flusso del programma di modifica del coinvolgimento
 exl-id: 1b8dd04b-3af8-4733-b630-b06c4b06bb75
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 2%
+source-wordcount: '93'
+ht-degree: 0%
 
 ---
 
 # Flusso del programma di modifica del coinvolgimento {#change-engagement-program-stream}
 
-## Panoramica {#overview}
+Normalmente, per ottenere questo risultato, si utilizzano [regole di transizione di flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md). Ma se desideri spostare manualmente le persone da un flusso all’altro, questo è il passaggio di flusso da utilizzare.
 
-Normalmente, si utilizza [stream regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) per ottenere questo risultato. Ma se desideri spostare manualmente le persone da un flusso all’altro, questo è il passaggio di flusso da utilizzare.
-
-![](assets/image2014-9-22-14-3a52-3a14.png)
-
-## Utilizzo {#usage}
+![](assets/change-engagement-program-stream-1.png)
 
 1. Selezionare il programma di coinvolgimento in cui si desidera spostare la persona.
 
@@ -27,10 +23,10 @@ Normalmente, si utilizza [stream regole di transizione](/help/marketo/product-do
    >
    >Se selezioni un programma diverso, la persona rimarrà nel flusso corrente e le aggiungerà al nuovo.
 
-   ![](assets/image2014-9-22-14-3a52-3a50.png)
+   ![](assets/change-engagement-program-stream-2.png)
 
 1. Seleziona il flusso a cui desideri aggiungere le persone.
 
-   ![](assets/image2014-9-22-14-3a52-3a59.png)
+   ![](assets/change-engagement-program-stream-3.png)
 
 Ed è tutto!

@@ -4,22 +4,18 @@ description: Successo del programma di modifica - Documentazione di Marketo - Do
 title: Modifica programma completata
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 1%
+source-wordcount: '139'
+ht-degree: 0%
 
 ---
 
 # Modifica programma completata {#change-program-success}
 
-## Panoramica {#overview}
+Se un gruppo di persone è contrassegnato in modo errato con Program Success (Completato dal programma), puoi utilizzare questo passaggio di flusso per impostare il successo su true o false.
 
-Se hai un gruppo di persone contrassegnate accidentalmente con Program Success (Completato dal programma), puoi utilizzare questo passaggio di flusso per impostare il successo su true o false.
-
-![](assets/image2014-9-22-14-3a45-3a8.png)
-
-## Utilizzo {#usage}
+![](assets/change-program-success-1.png)
 
 1. Quando trascini in questo passaggio di flusso, il programma verrà automaticamente impostato sul programma che contiene la campagna avanzata che stai modificando.
 
@@ -27,19 +23,19 @@ Se hai un gruppo di persone contrassegnate accidentalmente con Program Success (
    >
    >Saranno interessati solo i membri del programma.
 
-   ![](assets/image2014-9-22-14-3a45-3a35.png)
+   ![](assets/change-program-success-2.png)
 
-1. Seleziona **[!UICONTROL Completato]** o **[!UICONTROL Data di completamento]** come attributo.
+1. Seleziona **[!UICONTROL Operazione completata]** o **[!UICONTROL Data riuscita]** come attributo.
 
-   ![](assets/image2014-9-22-14-3a45-3a39.png)
+   ![](assets/change-program-success-3.png)
 
    >[!NOTE]
    >
    >Se si imposta la data di successo su un valore qualsiasi, l’opzione Success viene impostata automaticamente su true. Se si imposta Success su true, la data di successo viene impostata automaticamente sulla data corrente.
 
-1. Imposta il **[!UICONTROL Nuovo valore]** a **[!UICONTROL Vero]** o **[!UICONTROL Falso]**.
+1. Impostare **[!UICONTROL Nuovo valore]** su **[!UICONTROL Vero]** o **[!UICONTROL Falso]**.
 
-   ![](assets/image2014-9-22-14-3a45-3a55.png)
+   ![](assets/change-program-success-4.png)
 
    >[!TIP]
    >

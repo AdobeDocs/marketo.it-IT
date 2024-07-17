@@ -4,10 +4,10 @@ description: Modifica stato in Campagna SFDC - Documentazione Marketo - Document
 title: Modifica stato in una campagna SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 1%
+source-wordcount: '94'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +21,12 @@ Questo passaggio di flusso consente di modificare lo stato dei membri della camp
 
 Se un lead non esiste in Salesforce o non è ancora membro della campagna, verrà automaticamente sincronizzato e aggiunto alla campagna Salesforce con lo stato appropriato.
 
-![](assets/image2014-9-22-15-3a13-3a54.png)
+![](assets/change-status-in-sfdc-campaign-1.png)
 
-## Utilizzo {#usage}
+1. Individua e seleziona la **[!UICONTROL campagna]** Salesforce in cui si trova il record.
 
-1. Trova e seleziona la Salesforce **[!UICONTROL Campagna]** il record è in.
+   ![](assets/change-status-in-sfdc-campaign-2.png)
 
-   ![](assets/image2014-9-22-15-3a13-3a58.png)
+1. Quindi seleziona il **[!UICONTROL Nuovo stato]** che desideri impostare ed è terminato.
 
-1. Quindi seleziona la **[!UICONTROL Nuovo stato]** vuoi iniziare, e hai finito!
-
-   ![](assets/image2014-9-22-15-3a14-3a0.png)
+   ![](assets/change-status-in-sfdc-campaign-3.png)

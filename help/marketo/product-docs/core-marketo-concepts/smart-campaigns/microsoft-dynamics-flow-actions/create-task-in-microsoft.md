@@ -4,7 +4,7 @@ description: Crea attività in Microsoft - Documentazione Marketo - Documentazio
 title: Crea attività in Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 In qualità di addetto al marketing, hai a disposizione informazioni che possono essere di aiuto alle vendite per concludere un affare. Puoi creare attività per comunicare loro cosa dovrebbero fare e quando dovrebbero farlo.
 
-Crea attività in Microsoft crea un’attività in Attività relative alla persona (lead o contatto) in [!DNL Microsoft].
+Crea attività in Microsoft crea un&#39;attività in Attività relative alla persona (lead o contatto) in [!DNL Microsoft].
 
 >[!NOTE]
 >
->Questo passaggio di flusso _funziona solo con i trigger_, non i filtri, nella tua campagna avanzata.
+>Questo passaggio di flusso _funziona solo se utilizzato con trigger_, non con filtri, nella tua campagna avanzata.
 
 Per impostazione predefinita, il passaggio del flusso si presenta così:
 
-![](assets/msd1.png)
+![](assets/create-task-in-microsoft-1.png)
 
 >[!NOTE]
 >
->Quando l&#39;utente di Marketo Sync sta creando attività, **[!UICONTROL Scade tra]** è un campo obbligatorio per la creazione dell’attività in [!DNL Microsoft]. Marketo inserirà cinque giorni per impostazione predefinita se non viene immesso alcun valore.
+>Quando l&#39;utente di Marketo Sync crea attività, **[!UICONTROL Scadenza]** è un campo obbligatorio per la creazione dell&#39;attività in [!DNL Microsoft]. Marketo inserirà cinque giorni per impostazione predefinita se non viene immesso alcun valore.
 
 Personalizzare tutti i campi per creare l&#39;attività nel modo desiderato.
 
-![](assets/msd2.png)
+![](assets/create-task-in-microsoft-2.png)
 
 >[!NOTE]
 >
@@ -39,4 +39,4 @@ Personalizzare tutti i campi per creare l&#39;attività nel modo desiderato.
 
 >[!TIP]
 >
->È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nel **[!UICONTROL Oggetto]** e **[!UICONTROL Descrizione]**. Consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} per ulteriori dettagli.
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in **[!UICONTROL Subject]** e **[!UICONTROL Description]**. Per ulteriori dettagli, consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}.
