@@ -4,10 +4,10 @@ description: Chiama webhook - Documentazione Marketo - Documentazione del prodot
 title: Chiama webhook
 exl-id: b2f69502-e459-4277-9725-7bbb3578384f
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '74'
+ht-degree: 0%
 
 ---
 
@@ -17,8 +17,6 @@ ht-degree: 2%
 >
 >[Crea un webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"}
 
-## Panoramica {#overview}
-
 I webhook consentono di interagire con i servizi di terze parti. Invia/ricevi informazioni chiamando un webhook in un flusso di campagne intelligente.
 
 ![](assets/call-webhook-1.png)
@@ -27,9 +25,7 @@ I webhook consentono di interagire con i servizi di terze parti. Invia/ricevi in
 >
 >Scopri tutte le cose affascinanti che [Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} possono fare per te.
 
-## Utilizzo {#usage}
-
-Seleziona un webhook dal menu a discesa.
+1. Seleziona un webhook dal menu a discesa.
 
 ![](assets/call-webhook-2.png)
 

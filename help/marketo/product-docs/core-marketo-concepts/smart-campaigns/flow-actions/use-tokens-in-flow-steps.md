@@ -4,7 +4,7 @@ description: Utilizzare i token nei passaggi del flusso - Documentazione di Mark
 title: Utilizzare i token nei passaggi del flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}
 
-Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare il lavoro. È possibile utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Puoi utilizzare i token per includere il contenuto delle variabili nei seguenti passaggi del flusso:
+Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare il lavoro. Puoi utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Puoi utilizzare i token per includere il contenuto delle variabili nei seguenti passaggi del flusso:
 
 * Modifica valore dati
 * Modifica dati membro programma
@@ -26,17 +26,17 @@ Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destin
 * Crea attività
 * Invia avviso (solo in Campagne con trigger)
 
-1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie dei token.
+1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token.
 
-   ![](assets/image2014-9-22-14-3a3-3a17.png)
+   ![](assets/use-tokens-in-flow-steps-1.png)
 
    >[!NOTE]
    >
-   >Estrai [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} per un elenco di diversi token disponibili.
+   >Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} per un elenco di diversi token disponibili.
 
 1. Continua a digitare finché non trovi il token desiderato e fai clic per selezionarlo.
 
-   ![](assets/image2014-9-22-14-3a3-3a48.png)
+   ![](assets/use-tokens-in-flow-steps-2.png)
 
    >[!TIP]
    >

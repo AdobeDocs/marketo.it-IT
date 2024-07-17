@@ -4,25 +4,21 @@ description: Aggiungi all’elenco - Documentazione di Marketo - Documentazione 
 title: Aggiungi all'elenco
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '39'
-ht-degree: 5%
+source-wordcount: '37'
+ht-degree: 0%
 
 ---
 
 # Aggiungi all&#39;elenco {#add-to-list}
 
-## Panoramica {#overview}
-
 Questo passaggio di flusso viene utilizzato per aggiungere persone agli elenchi.
 
-![](assets/image2014-9-22-10-3a41-3a33.png)
-
-## Utilizzo {#usage}
+![](assets/add-to-list-1.png)
 
 Individuare e selezionare l&#39;elenco a cui si desidera aggiungere le persone.
 
-![](assets/image2014-9-22-10-3a41-3a40.png)
+![](assets/add-to-list-2.png)
 
 Abbastanza semplice!

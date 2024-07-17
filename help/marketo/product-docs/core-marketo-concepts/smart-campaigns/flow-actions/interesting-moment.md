@@ -4,30 +4,26 @@ description: Momento di interesse - Documentazione di Marketo - Documentazione d
 title: Momento di interesse
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '96'
+ht-degree: 0%
 
 ---
 
 # Momento di interesse {#interesting-moment}
 
-## Panoramica {#overview}
+Se disponi di Marketo Sales Insight, puoi utilizzare il passaggio di flusso **Momento di interesse** per dare visibilità al team di vendita sulle cose interessanti che i tuoi dipendenti stanno facendo.
 
-Se si dispone di Marketo Sales Insight, è possibile utilizzare **Momento di interesse** Passaggio di flusso per dare visibilità al team di vendita sulle cose interessanti che il personale sta facendo.
-
-![](assets/image2016-1-27-11-3a0-3a21.png)
-
-## Utilizzo {#usage}
+![](assets/interesting-moment-1.png)
 
 1. Seleziona il momento di interesse **[!UICONTROL tipo]** che desideri utilizzare.
 
-   ![](assets/image2014-9-22-10-3a49-3a51.png)
+   ![](assets/interesting-moment-2.png)
 
-1. Creare un **[!UICONTROL descrizione]** questo spiega il momento più interessante per il tuo sales team.
+1. Crea una **[!UICONTROL descrizione]** che spieghi il momento interessante al tuo team vendite.
 
-   ![](assets/image2014-9-22-10-3a49-3a55.png)
+   ![](assets/interesting-moment-3.png)
 
    >[!TIP]
    >
@@ -37,5 +33,5 @@ Puoi anche utilizzare [token in momenti interessanti](/help/marketo/product-docs
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo di momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
+>* [Utilizzo di momenti di interesse](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md){target="_blank"}
 >* [Token per i momenti di interesse](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"}

@@ -4,40 +4,36 @@ description: Punteggio di modifica - Documentazione di Marketo - Documentazione 
 title: Modifica punteggio
 exl-id: bba77aa1-40ab-40e5-ad43-f8cf0b235d3b
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 0%
 
 ---
 
 # Modifica punteggio {#change-score}
 
-## Panoramica {#overview}
+Assegnare un punteggio alle persone è semplice e potente e aiuta il tuo team di vendita a dare la priorità.
 
-Assegnare un punteggio alle persone è semplice e potente per aiutare il tuo team di vendita a dare la priorità.
-
-![](assets/flowstep-changescore.png)
-
-## Utilizzo {#usage}
+![](assets/change-score-1.png)
 
 1. Selezionare il campo di punteggio che si desidera modificare.
 
-   ![](assets/image2014-9-22-11-3a7-3a31.png)
+   ![](assets/change-score-2.png)
 
    >[!TIP]
    >
-   >Puoi creare più campi di punteggio. Consulta [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} per i dettagli.
+   >Puoi creare più campi di punteggio. Per ulteriori dettagli, vedere [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Immetti la modifica di punteggio desiderata.
 
-   ![](assets/flowstep-changescoretype.png)
+   ![](assets/change-score-3.png)
 
    Modifiche:
 
    * **+5** da incrementare
-   * **-5** decremento (sono consentiti numeri negativi)
-   * **=5** farà il punteggio quel numero esatto
-   * **=-5** restituirà il punteggio corrispondente al numero negativo esatto
+   * **-5** diminuirà (sono consentiti numeri negativi)
+   * **=5** renderà il punteggio il numero esatto
+   * **=-5** restituirà il punteggio che è esattamente un numero negativo
 
-Posiziona rapidamente alcuni punteggi di base e quindi modifica i risultati nel tempo. È quello che abbiamo fatto!
+Posiziona rapidamente alcuni punteggi di base e quindi modifica i risultati nel tempo.

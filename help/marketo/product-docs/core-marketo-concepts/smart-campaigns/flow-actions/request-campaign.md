@@ -4,7 +4,7 @@ description: Richiedi campagna - Documentazione di Marketo - Documentazione del 
 title: Richiedi campagna
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -13,34 +13,34 @@ ht-degree: 0%
 
 # Richiedi campagna {#request-campaign}
 
-Puoi inserire le persone in una campagna specifica utilizzando la &quot;[!UICONTROL Richiedi campagna]&quot; passaggio a flusso singolo.
+Puoi inserire persone in una campagna specifica utilizzando il passaggio di flusso singolo &quot;[!UICONTROL Richiedi campagna]&quot;.
 
 >[!NOTE]
 >
->La campagna in cui stai inserendo la persona deve essere attiva e disporre [Campagna richiesta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"} trigger.
+>La campagna in cui stai inserendo la persona deve essere attiva e richiedere il trigger [Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md){target="_blank"}.
 
-1. In **[!UICONTROL Database]**, trova e seleziona la persona o le persone desiderate.
+1. Nel **[!UICONTROL Database]**, trovare e selezionare la persona o le persone desiderate.
 
-   ![](assets/one-5.png)
+   ![](assets/request-campaign-1.png)
 
-1. Clic **[!UICONTROL Azioni della persona]**, passaggio del mouse **[!UICONTROL Speciale]**, e seleziona **[!UICONTROL Richiedi campagna]**.
+1. Fai clic su **[!UICONTROL Azioni persona]**, passa il puntatore del mouse su **[!UICONTROL Speciale]** e seleziona **[!UICONTROL Richiedi campagna]**.
 
-   ![](assets/two-5.png)
+   ![](assets/request-campaign-2.png)
 
-1. Seleziona la campagna in cui desideri inserire la persona e fai clic su **[!UICONTROL Esegui ora]**.
+1. Selezionare la campagna in cui si desidera inserire la persona e fare clic su **[!UICONTROL Esegui ora]**.
 
-   ![](assets/three-4.png)
+   ![](assets/request-campaign-3.png)
 
-1. In alto a destra, vedrai quando è fatto. Clic **[!UICONTROL Visualizza risultati]**.
+1. In alto a destra, vedrai quando è fatto. Fare clic su **[!UICONTROL Visualizza risultati]**.
 
-   ![](assets/four-4.png)
+   ![](assets/request-campaign-4.png)
 
    La tua persona è ora nella campagna richiesta.
 
-   ![](assets/five-1.png)
+   ![](assets/request-campaign-5.png)
 
    Ottimo lavoro!
 
 >[!TIP]
 >
->Utilizza la &quot;[!UICONTROL Campagna richiesta]&quot; attiva o filtra per trovare le persone interessate da questo passaggio di flusso.
+>Utilizza il trigger o il filtro &quot;[!UICONTROL Campaign is Requested]&quot; per trovare le persone interessate da questo passaggio di flusso.

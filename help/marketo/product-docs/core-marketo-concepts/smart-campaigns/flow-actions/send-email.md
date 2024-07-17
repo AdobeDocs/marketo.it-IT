@@ -4,28 +4,24 @@ description: Inviare e-mail - Documentazione di Marketo - Documentazione del pro
 title: Invia e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 2%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
 # Invia e-mail {#send-email}
 
-## Panoramica {#overview}
+Il passaggio di flusso &quot;[!UICONTROL Invia e-mail]&quot; può essere utilizzato come parte di campagne o come singolo passaggio di flusso per inviare e-mail alle persone.
 
-La &quot;[!UICONTROL Invia e-mail]&quot;Il passaggio di flusso può essere utilizzato come parte di campagne o come un singolo passaggio di flusso per inviare e-mail alle tue persone.
-
-![](assets/image2014-9-22-10-3a8-3a11.png)
-
-## Utilizzo {#usage}
+![](assets/send-email-1.png)
 
 Puoi visualizzare in anteprima l’e-mail selezionata direttamente dal passaggio del flusso.
 
 1. Trova e seleziona l’e-mail che desideri inviare.
 
-   ![](assets/image2014-9-22-10-3a8-3a15.png)
+   ![](assets/send-email-2.png)
 
    >[!NOTE]
    >
@@ -33,6 +29,6 @@ Puoi visualizzare in anteprima l’e-mail selezionata direttamente dal passaggio
 
 1. Fai clic sull’icona di anteprima per visualizzare l’e-mail attualmente selezionata.
 
-   ![](assets/image2014-9-22-10-3a8-3a22.png)
+   ![](assets/send-email-3.png)
 
 Viene visualizzata una nuova scheda/finestra in cui puoi visualizzare l’e-mail.

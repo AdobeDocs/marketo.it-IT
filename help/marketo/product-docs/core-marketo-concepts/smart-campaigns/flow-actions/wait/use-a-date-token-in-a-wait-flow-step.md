@@ -4,7 +4,7 @@ description: Utilizzare un token di data in un passaggio del flusso di attesa - 
 title: Utilizzare un token di data in un passaggio del flusso di attesa
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -19,17 +19,17 @@ Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percor
 >
 >Questo si applica solo alle campagne Trigger. Non è possibile utilizzare questa funzione nelle campagne batch.
 
-1. Nella tua Smart Campaign **[!UICONTROL Flusso]** , trascina sulla scheda **[!UICONTROL Wait]** passaggio di flusso.
+1. Nella scheda **[!UICONTROL Flusso]** della campagna avanzata, trascina il passaggio del flusso **[!UICONTROL Attendi]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a22.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
 1. Fai clic sull’icona a forma di ingranaggio.
 
-   ![](assets/image2014-9-22-14-3a8-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Dalla sezione **[!UICONTROL Tipo]** a discesa, seleziona **[!UICONTROL Token data]**.
+1. Dal menu a discesa **[!UICONTROL Tipo]**, seleziona **[!UICONTROL Token data]**.
 
-   ![](assets/image2014-9-22-14-3a8-3a41.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
 1. Scegli un token di data per specificare quando deve terminare il passaggio Attendi:
 
@@ -38,11 +38,11 @@ Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percor
    * `{{company.______}}`
    * `{{system._______}}`
 
-   ![](assets/image2014-9-22-14-3a9-3a33.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-4.png)
 
 1. Per attendere fino al prossimo anniversario della data che si verifica nell&#39;anno di calendario corrente o successivo, seleziona la casella.
 
-   ![](assets/image2014-9-22-14-3a9-3a37.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-5.png)
 
    >[!TIP]
    >
@@ -50,15 +50,15 @@ Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percor
 
 1. Facoltativamente, è possibile modificare la data di fine di un numero specificato di giorni.
 
-   ![](assets/image2014-9-22-14-3a9-3a57.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-6.png)
 
    >[!NOTE]
    >
-   >È inoltre possibile specificare il numero di giorni utilizzando una `{{lead.` o `{{company.` token che rappresenta un campo intero o un `{{my.` token di tipo numero.
+   >È inoltre possibile specificare il numero di giorni utilizzando un token `{{lead.` o `{{company.` che rappresenta un campo intero o un token `{{my.` di tipo numero.
 
 1. Fai clic su **[!UICONTROL Salva]**.
 
-   ![](assets/image2014-9-22-14-3a11-3a3.png)
+   ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 
    >[!MORELIKETHIS]
    >

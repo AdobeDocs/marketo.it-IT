@@ -4,7 +4,7 @@ description: Utilizzare una data specifica in un passaggio del flusso di attesa 
 title: Utilizzare una data specifica in un passaggio del flusso di attesa
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Utilizzare una data specifica in un passaggio del flusso di attesa {#use-a-specific-date-in-a-wait-flow-step}
 
-Puoi utilizzare la &quot;[!UICONTROL Wait]&quot; passaggio di flusso per mettere in pausa il percorso di una persona attraverso una campagna intelligente fino a una data particolare.
+Puoi utilizzare il passaggio di flusso &quot;[!UICONTROL Attendi]&quot; per mettere in pausa il percorso di una persona tramite una campagna avanzata fino a una data specifica.
 
-1. Nella tua Smart Campaign **[!UICONTROL Flusso]** , trascina sulla scheda **[!UICONTROL Wait]** passaggio di flusso.
+1. Nella scheda **[!UICONTROL Flusso]** della campagna avanzata, trascina il passaggio del flusso **[!UICONTROL Attendi]**.
 
-   ![](assets/image2014-9-22-11-3a50-3a55.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
 1. Fai clic sull’icona a forma di ingranaggio.
 
-   ![](assets/image2014-9-22-11-3a50-3a59.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Dalla sezione **[!UICONTROL Tipo]** a discesa, seleziona **[!UICONTROL Data]**.
+1. Dal menu a discesa **[!UICONTROL Tipo]**, selezionare **[!UICONTROL Data]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a27.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
 1. Seleziona la data specifica in cui desideri riprendere.
 
-   ![](assets/image2014-9-22-11-3a51-3a20.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
-1. Specifica l’ora (facoltativa) e fai clic su **[!UICONTROL Salva]**.
+1. Specifica l&#39;ora (facoltativo) e fai clic su **[!UICONTROL Salva]**.
 
-   ![](assets/image2014-9-22-11-3a51-3a13.png)
+   ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 
 >[!MORELIKETHIS]
 >

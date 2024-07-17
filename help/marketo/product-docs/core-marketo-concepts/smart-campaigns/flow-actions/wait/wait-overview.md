@@ -1,25 +1,23 @@
 ---
 unique-page-id: 1146950
 description: Wait - Marketo Docs - Documentazione del prodotto
-title: Wait
+title: Attendere
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 1%
+source-wordcount: '188'
+ht-degree: 0%
 
 ---
 
-# Wait {#wait}
+# Panoramica dell’attesa {#wait-overview}
 
-## Panoramica {#overview}
+Metti in pausa una persona in un flusso di Smart Campaign con il pratico **passaggio di attesa**.
 
-Metti in pausa una persona in un flusso di campagna intelligente con il pratico **passaggio di attesa**.
+![](assets/wait-overview-1.png)
 
-![](assets/wait-overview.png)
-
-Osserva come si può digitare in un linguaggio naturale come &quot;4 ore&quot;. Esegui **non**, tuttavia, abbreviate le parole (ad esempio, 4 ore). La campagna avanzata verrebbe comunque eseguita, ma il passaggio di attesa verrebbe ignorato.
+Osserva come si può digitare in un linguaggio naturale come &quot;4 ore&quot;. **not**, tuttavia, abbreviare le parole (ad esempio, 4 ore). La campagna avanzata verrebbe comunque eseguita, ma il passaggio di attesa verrebbe ignorato.
 
 >[!CAUTION]
 >
@@ -27,9 +25,7 @@ Osserva come si può digitare in un linguaggio naturale come &quot;4 ore&quot;. 
 
 >[!TIP]
 >
->Se qualcuno è già in un passaggio di attesa e non desideri che avanzi dopo la fine del periodo di attesa, inserisci [rimuovi da flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) subito dopo il passaggio di attesa. Specificare gli utenti da rimuovere utilizzando [aggiungi scelta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) opzione.
-
-## Utilizzo {#usage}
+>Se qualcuno è già in un passaggio di attesa e non vuoi che avanzi dopo il termine del periodo di attesa, inserisci [rimuovi dal flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) subito dopo il passaggio di attesa. Specifica chi vuoi rimuovere utilizzando l&#39;opzione [aggiungi scelta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md).
 
 Esistono tre modi principali per utilizzare un passaggio del flusso di attesa:
 
