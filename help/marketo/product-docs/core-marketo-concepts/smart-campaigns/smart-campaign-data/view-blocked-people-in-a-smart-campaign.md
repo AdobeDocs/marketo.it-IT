@@ -4,9 +4,9 @@ description: Visualizzare le persone bloccate in una campagna avanzata - Documen
 title: Visualizzare le persone bloccate in una campagna avanzata
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Le persone bloccate nel database del Marketo Engage sono contrassegnate come appartenenti a gruppi di lavoro inseriti nell&#39;elenco Bloccati, non iscritti, con marketing sospeso e/o con un messaggio e-mail vuoto o non valido.
 
-1. In Smart Campaign, fai clic su **[!UICONTROL Pianificazione]**. Sotto **[!UICONTROL Stato elenco avanzato]**, fare clic sul secondo collegamento.
+1. In Smart Campaign, fai clic su **[!UICONTROL Pianifica]**. In **[!UICONTROL Stato elenco avanzato]** fare clic sul secondo collegamento.
 
-   ![](assets/image2014-9-22-16-3a47-3a38.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
    >[!NOTE]
    >
@@ -25,7 +25,7 @@ Le persone bloccate nel database del Marketo Engage sono contrassegnate come app
 
    La scheda Persone bloccate mostra le persone che potrebbero non ricevere le comunicazioni.
 
-   ![](assets/image2014-9-22-16-3a48-3a11.png)
+   ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 
    >[!NOTE]
    >
@@ -36,6 +36,4 @@ Le persone bloccate nel database del Marketo Engage sono contrassegnate come app
    >* [Modifica regole di qualifica](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}
    >* [Abilita limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
    >* [Visualizza membri di Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}
-   >* [Visualizzare persone qualificate in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
-
-Ecco qua! Ora puoi essere consapevole di chi potrebbe non ricevere i messaggi.
+   >* [Visualizza persone qualificate in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-qualified-people-in-a-smart-campaign.md){target="_blank"}
