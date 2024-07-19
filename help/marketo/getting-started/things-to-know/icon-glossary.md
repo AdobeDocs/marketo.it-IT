@@ -2,10 +2,8 @@
 description: Icona Glossario - Documentazione del Marketo Engage - Documentazione del prodotto
 title: Icona Glossario
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 21%
@@ -14,16 +12,16 @@ ht-degree: 21%
 
 # Glossario icona Marketo Engage {#icon-glossary}
 
-Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marketo Engage. Se hai bisogno di fare riferimento alle icone di Marketo Classic, possono essere [trovato qui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marketo Engage. Se devi fare riferimento alle icone di Marketo Classic, puoi trovarle [qui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
 ## Icone generali {#general-icons}
 
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th>
+   <th style="width:25%">Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
@@ -243,9 +241,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td> 
@@ -290,9 +288,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-trigger.png"></td> 
@@ -322,9 +320,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-aborted.png"></td> 
@@ -354,9 +352,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-engagement-program-off.png"></td> 
@@ -376,9 +374,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-in-app-program-approved.png"></td> 
@@ -413,9 +411,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><img src="assets/classic-email-approved.png"></td> 
@@ -440,9 +438,9 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
 <table> 
  <tbody>
   <tr>
-   <th>Icona precedente</th> 
-   <th> Nuova icona</th> 
-   <th>Descrizione</th> 
+   <th style="width:25%">Icona precedente</th> 
+   <th style="width:25%"> Nuova icona</th> 
+   <th style="width:50%">Descrizione</th> 
   </tr>
   <tr>
    <td><strong>n/d</strong></td> 
