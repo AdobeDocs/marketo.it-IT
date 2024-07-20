@@ -4,9 +4,9 @@ description: Filtri e attivatori dell’opportunità - Documentazione di Marketo
 title: Filtri e attivatori dell’opportunità
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -27,43 +27,43 @@ I filtri opportunità ti consentono di analizzare in dettaglio i lead di Salesfo
 * Opportunità rimossa
 * L’opportunità è stata aggiornata
 
-Se cerchi i campi Opportunità (personalizzati o standard), utilizza **Ha un’opportunità** filtro o **L&#39;opportunità è stata`[Added/Removed/Updated]`** filtri o trigger.
+Se cerchi i campi Opportunità (personalizzati o standard), usa il filtro **Possiede opportunità** oppure **L&#39;opportunità era`[Added/Removed/Updated]`** filtri o trigger.
 
-**Numero di opzioni, Importo opzione totale, Ricavi previsti opzione totale**
+**Numero di ottavi, Importo totale dell&#39;opzione, Ricavi totali previsti dell&#39;opzione**
 
 Con questi filtri, puoi trovare i lead in base al numero totale, all’importo o ai ricavi previsti di tutte le loro opportunità.
 
-![](assets/image2015-6-11-12-3a29-3a34.png)
+![](assets/opportunity-filters-and-triggers-1.png)
 
-**L’Opportunità Possesso È Stata Aggiunta All’Opportunità Ed È Stata Rimossa Dall’Opportunità**
+**Ha Un&#39;Opportunità, È Stato Aggiunto All&#39;Opportunità, È Stato Rimosso Dall&#39;Opportunità**
 
-Se cerchi lead con opportunità basate su una combinazione di criteri, utilizza **Ha un’opportunità**, **È stato aggiunto all’opportunità**, o **È stato rimosso dall’opportunità** filtro. Ti dicono:
+Se cerchi lead con opportunità basate su una combinazione di criteri, utilizza il filtro **Possibilità**, **È stato aggiunto all&#39;opportunità** o **È stato rimosso dall&#39;opportunità**. Ti dicono:
 
-* **Ha un’opportunità**: se al momento il lead ha un’opportunità corrispondente
-* **È stato aggiunto all’opportunità**: se questo lead è mai stato aggiunto a un’opportunità corrispondente
-* **È stato rimosso dall’opportunità**: se questo lead è stato rimosso da un’opportunità corrispondente
+* **Ha un&#39;opportunità**: se il lead ha un&#39;opportunità corrispondente
+* **È stato aggiunto all&#39;opportunità**: se questo lead è stato aggiunto a un&#39;opportunità corrispondente
+* **Rimosso dall&#39;opportunità**: se il lead è stato rimosso da un&#39;opportunità corrispondente
 
 Aggiungi i criteri di ricerca come **Vincoli** sul filtro. I vincoli includono lo standard dell’opportunità e i campi personalizzati:
 
-![](assets/image2015-6-11-12-3a31-3a0.png)
+![](assets/opportunity-filters-and-triggers-2.png)
 
-![](assets/image2015-6-11-12-3a31-3a46.png)
+![](assets/opportunity-filters-and-triggers-3.png)
 
-Ad esempio, supponiamo che tu voglia trovare lead con opportunità aperte di almeno 5.000 dollari. Trascina nella **Ha un’opportunità** filtrare e utilizzare **È chiuso** e **Quantità** vincoli:
+Ad esempio, supponiamo che tu voglia trovare lead con opportunità aperte di almeno 5.000 dollari. Trascina nel filtro **Has Opportunity** e utilizza i vincoli **Is Closed** e **Amount**:
 
-![](assets/image2015-6-11-12-3a32-3a0.png)
+![](assets/opportunity-filters-and-triggers-4.png)
 
 >[!NOTE]
 >
 >Quando si utilizzano più filtri opportunità, è possibile che vengano visualizzate risposte non corrette. Se hai creato l’esempio precedente con due filtri di opportunità, otterrai un elenco di lead con opportunità che sono pari ad almeno 5.000 dollari e con qualsiasi opportunità chiusa, anche se si tratta di opportunità separate.
 
-**L’opportunità è stata aggiornata**
+**Opportunità aggiornata**
 
-Il **L’opportunità è stata aggiornata** Il filtro cerca qualsiasi opportunità quando un campo opportunità specifico è stato aggiornato. Seleziona il campo da controllare con il menu a discesa Attributo trigger, quindi utilizza i vincoli per restringere l’insieme delle modifiche.
+Il filtro **Opportunità aggiornata** cerca le opportunità quando viene aggiornato un campo opportunità specifico. Seleziona il campo da controllare con il menu a discesa Attributo trigger, quindi utilizza i vincoli per restringere l’insieme delle modifiche.
 
 Ad esempio, questo filtro mostrerà tutti i lead per i quali è stata modificata la data di chiusura negli ultimi 30 giorni:
 
-![](assets/image2015-6-11-12-3a33-3a7.png)
+![](assets/opportunity-filters-and-triggers-5.png)
 
 ## Trigger opportunità {#opportunity-triggers}
 
@@ -75,8 +75,8 @@ Sono disponibili i seguenti trigger di opportunità. Funzionano esattamente come
 
 Ad esempio, puoi utilizzare questo elenco avanzato per attivare quando un lead viene aggiunto a qualsiasi opportunità. Nel flusso, puoi aggiungerli all’elenco Marketing Sospeso o inviare loro un’e-mail mirata.
 
-![](assets/image2015-6-11-12-3a33-3a48.png)
+![](assets/opportunity-filters-and-triggers-6.png)
 
-Per attivare i campi personalizzati dell’opportunità, utilizza **L’opportunità è aggiornata** attiva e seleziona il campo nel pulldown:
+Per attivare i campi personalizzati dell&#39;opportunità, usa il trigger **Opportunity is Updated** e scegli il campo nel menu a discesa:
 
-![](assets/image2015-6-11-12-3a33-3a34.png)
+![](assets/opportunity-filters-and-triggers-7.png)

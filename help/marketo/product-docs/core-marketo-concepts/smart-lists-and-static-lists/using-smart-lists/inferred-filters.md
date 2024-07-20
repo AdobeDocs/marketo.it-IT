@@ -4,34 +4,34 @@ description: Filtri dedotti - Documentazione Marketo - Documentazione del prodot
 title: Filtri dedotti
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # Filtri dedotti {#inferred-filters}
 
-Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di buone informazioni.
+Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di informazioni.
 
 >[!NOTE]
 >
 >Per garantire che i valori dei campi dedotti rimangano aggiornati, viene aggiornato periodicamente il database utilizzato per le ricerche degli indirizzi IP. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che potrebbe essere necessario aggiungere alle definizioni dei filtri di elenchi avanzati.
 >
->Gli aggiornamenti del database possono verificarsi durante un [Rilascio Marketo Engage del prodotto](/help/marketo/release-notes/release-schedule.md){target="_blank"}. When an update does occur, the [Marketo Engage release notes](/help/marketo/release-notes/current.md){target="_blank"} conterrà una spiegazione di eventuali modifiche ai valori dei campi dedotti.
+>Gli aggiornamenti del database possono verificarsi durante una [versione del prodotto del Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando si verifica un aggiornamento, le [note sulla versione del Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterranno una spiegazione di eventuali modifiche ai valori dei campi dedotti.
 
-![](assets/image2015-4-27-13-3a25-3a46.png)
+![](assets/inferred-filters-1.png)
 
-![](assets/image2015-4-27-16-3a58-3a53.png)
+![](assets/inferred-filters-2.png)
 
-![](assets/image2015-4-27-16-3a59-3a35.png)
+![](assets/inferred-filters-3.png)
 
-![](assets/image2015-4-27-17-3a0-3a12.png)
+![](assets/inferred-filters-4.png)
 
-![](assets/image2015-4-27-13-3a36-3a9.png)
+![](assets/inferred-filters-5.png)
 
-![](assets/image2015-4-27-13-3a30-3a48.png)
+![](assets/inferred-filters-6.png)
 
 Quando si utilizza uno di questi filtri in un elenco avanzato, i risultati restituiranno alle persone queste informazioni dedotte.
 
@@ -40,7 +40,7 @@ Quando si utilizza uno di questi filtri in un elenco avanzato, i risultati resti
 >Utilizza questi filtri in un rapporto di attività web. Utilizza i territori degli agenti di vendita e abbonali a un rapporto giornaliero personalizzato con i visitatori del sito web nelle ultime 24 ore. Loro lo ameranno!
 >
 >* Pagina Web visitata - Ultime 24 ore
->* Lo stato dedotto è [seleziona il loro territorio]
+>* Lo stato dedotto è [selezionare il proprio territorio]
 
 Questi visitatori anonimi vengono automaticamente convertiti in persone quando fanno clic su un collegamento e-mail o compilano un modulo. Tuttavia, conservano tutte le informazioni dedotte.
 
