@@ -13,7 +13,7 @@ ht-degree: 5%
 
 # Gestione dati profilo social network {#manage-social-profile-data}
 
-Quando qualcuno interagisce con un Marketo [app social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md), o autorizza il proprio social network a precompilare un modulo Marketo con [compilazione modulo social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo acquisisce tutti i dati disponibili dal loro profilo social. È possibile visualizzare queste informazioni su [Pagina Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md)o aggiungerlo come colonna in una [visualizzazione personalizzata di un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+Quando qualcuno interagisce con una [app social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) di Marketo o autorizza il proprio social network a precompilare un modulo di Marketo con [compilazione modulo social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo acquisisce tutti i dati disponibili dal proprio profilo social. Puoi visualizzare queste informazioni nella [pagina Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) oppure aggiungerle come colonna in una [visualizzazione personalizzata di un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
 La compilazione dei moduli social e le app social network acquisiscono set di campi leggermente diversi; vedi la sezione per ciascuno di essi.
 
@@ -56,7 +56,7 @@ A seconda delle impostazioni della rete e della privacy dell&#39;utente, vengono
 
 >[!CAUTION]
 >
->I dati acquisiti dal riempimento del modulo social network sovrascrivono i campi corrispondenti a meno che tu non [blocca gli aggiornamenti a tali campi a livello di modulo](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
+>I dati acquisiti dal riempimento del modulo social network sovrascrivono i campi corrispondenti a meno che non si [blocchi gli aggiornamenti a tali campi a livello di modulo](/help/marketo/product-docs/administration/field-management/block-updates-to-a-field.md).
 
 ## Dal Twitter: {#from-twitter-1}
 
@@ -75,7 +75,7 @@ A seconda delle impostazioni della rete e della privacy dell&#39;utente, vengono
 
 >[!NOTE]
 >
->Il riempimento di un modulo social acquisisce l’indirizzo e-mail _solo_ se la persona lo inserisce nel modulo. Se hai bisogno dell’indirizzo e-mail, devi [impostalo come campo obbligatorio nel modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
+>Il riempimento del modulo per social network acquisisce l&#39;indirizzo e-mail _solo_ se l&#39;utente lo inserisce nel modulo. Se hai bisogno dell&#39;indirizzo e-mail, dovresti [impostarlo come campo obbligatorio nel modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md).
 
 >[!MORELIKETHIS]
 >

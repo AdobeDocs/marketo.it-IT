@@ -38,16 +38,16 @@ Se ricevi il messaggio di errore &quot;Non siamo in grado di autenticare la tua 
 ### Abilitare l’API nelle autorizzazioni utente {#enable-api-in-user-permissions}
 
 1. Chiedi a un amministratore di Salesforce di accedere a Salesforce.
-1. Seleziona **Configurazione**.
-1. Seleziona **Gestisci utenti**.
+1. Selezionare **Configurazione**.
+1. Selezionare **Gestisci utenti**.
 1. Seleziona **Profili**.
 1. Trova il profilo in cui si trovano gli utenti ToutApp e fai clic su **Modifica**.
-1. Scorri verso il basso fino a **Autorizzazioni amministrative** e assicurati che **API abilitata** è selezionato.
+1. Scorri verso il basso fino a **Autorizzazioni amministrative** e assicurati che **API abilitata** sia selezionato.
 
 ### Controlla se Salesforce sta bloccando la connessione delle azioni di approfondimento sulle vendite {#check-if-salesforce-is-blocking-sales-insight-actions-from-connecting}
 
 1. Chiedi a un amministratore di Salesforce di accedere a Salesforce.
-1. Seleziona **Configurazione**.
-1. Seleziona **Gestione app**.
-1. Seleziona **Utilizzo OAuth delle app collegate**.
+1. Selezionare **Configurazione**.
+1. Seleziona **Gestisci app**.
+1. Seleziona **Utilizzo OAuth app collegate**.
 1. Accertati che Azioni approfondimento vendite sia visualizzato accanto a esso il messaggio &quot;Blocca&quot;. Se viene visualizzato &quot;Sblocca&quot;, fare clic sul pulsante per sbloccare l&#39;accesso delle azioni di approfondimento sulle vendite a Salesforce.

@@ -6,7 +6,7 @@ exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Clonare in modo rapido e semplice un intero programma e tutte le relative risorse anziché ricostruire manualmente tutto.
 
-1. Individuare e selezionare il programma da clonare. In **[!UICONTROL Azioni del programma]** a discesa, fai clic su **[!UICONTROL Clona]**.
+1. Individuare e selezionare il programma da clonare. Nel menu a discesa **[!UICONTROL Azioni programma]**, fai clic su **[!UICONTROL Clona]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,7 +23,7 @@ Clonare in modo rapido e semplice un intero programma e tutte le relative risors
 
    >[!NOTE]
    >
-   >I programmi possono essere clonati in [campagna](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicurati di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l&#39;area di lavoro di destinazione prima della clonazione.
+   >I programmi possono essere clonati in [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicurati di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l&#39;area di lavoro di destinazione prima della clonazione.
 
    ![](assets/cloneto.png)
 

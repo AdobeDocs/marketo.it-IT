@@ -19,11 +19,11 @@ Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche 
 
    ![](assets/one.png)
 
-1. Clic **Nuovo**, quindi seleziona **Nuovo modello per pagina di destinazione**.
+1. Fai clic su **Nuovo**, quindi seleziona **Nuovo modello pagina di destinazione**.
 
    ![](assets/two.png)
 
-1. Scegli la cartella, quindi assegna un nome al modello. Il formato libero è la modalità di modifica predefinita, quindi dopo aver denominato il modello, fai clic su **Crea**.
+1. Scegli la cartella, quindi assegna un nome al modello. Il formato libero è la modalità di modifica predefinita. Dopo aver denominato il modello, fai clic su **Crea**.
 
    ![](assets/three.png)
 
@@ -43,11 +43,11 @@ Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche 
 
    >[!NOTE]
    >
-   >Seleziona **Disabilita tracciamento Munchkin** se si desidera impedire la precompilazione dei moduli o semplicemente non tenere traccia del comportamento web su una pagina specifica.\
+   >Selezionare **Disattiva tracciamento Munchkin** se si desidera impedire la precompilazione dei moduli o semplicemente non si desidera tenere traccia del comportamento Web in una pagina specifica.\
    >Seleziona **Convalida compatibilità mobile** per verificare che il codice sia compatibile con i dispositivi mobili.
 
    >[!MORELIKETHIS]
    >
-   >* [Creare una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+   >* [Crea una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
    >* [Creare un modello di pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
    >* [Informazioni sulle pagine di destinazione in formato libero e guidato](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md)

@@ -21,11 +21,11 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
    ![](assets/one.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/two.png)
 
-1. Clic **[!UICONTROL Nuovo campo personalizzato]**.
+1. Fare clic su **[!UICONTROL Nuovo campo personalizzato]**.
 
    ![](assets/three.png)
 
@@ -64,17 +64,17 @@ Puoi sfruttare questi dati specifici del programma negli elenchi avanzati tramit
 
 * I campi personalizzati dei membri del programma sono disponibili solo nelle risorse locali. Non sono supportati in Design Studio perché non è possibile collegarli a un programma specifico.
 * Non è possibile clonare o spostare in Design Studio un modulo (o una pagina di destinazione con un modulo) contenente campi personalizzati per Membri del programma.
-* [Puoi sincronizzare](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} i campi personalizzati del membro del programma con i campi personalizzati del membro della campagna.
+* [È possibile sincronizzare](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"} i campi personalizzati del membro del programma con i campi personalizzati del membro della campagna.
 * L&#39;oggetto Membro del programma può contenere fino a 20 campi personalizzati. Questi campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro del programma sono presenti dati, questi verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri nel programma e creare una visualizzazione personalizzata che includa tali campi.
-* Importare ed esportare tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"} sono supportati. Le esportazioni funzionano solo sugli elenchi dei membri del programma, non sugli elenchi statici.
+* Sono supportate l&#39;importazione e l&#39;esportazione tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}. Le esportazioni funzionano solo sugli elenchi dei membri del programma, non sugli elenchi statici.
 * Quando si uniscono due persone, verranno utilizzati i dati del campo personalizzato Membro del programma del vincitore. Ma se il vincitore non ha, verrà utilizzato il valore del perdente.
 * Tipo di modifica non consentito nei campi Informazioni membro programma.
 * Il vincolo &quot;contiene&quot; non è supportato per i campi personalizzati dei membri del programma.
 
 >[!MORELIKETHIS]
 >
->* [Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
+>* [Crea un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}
 >
 >* [Sincronizzazione campo personalizzato membro programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md){target="_blank"}

@@ -2,10 +2,10 @@
 description: Comportamento con punteggio operativo - Documentazione di Marketo - Documentazione del prodotto
 title: Comportamento con punteggio OP
 feature: Programs
-exl-id: 7822c362-c134-4471-b9a5-4d4f06e989ed
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '347'
 ht-degree: 11%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 Questo esempio è un programma operativo avanzato (tokenizzato) per il punteggio di comportamento che utilizza un programma predefinito del Marketo Engage. Visualizza e modifica i valori di punteggio nella scheda &quot;I miei token&quot; del programma. Richiede un campo di punteggio personalizzato denominato &quot;Punteggio comportamento&quot;.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -52,7 +52,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -245,7 +245,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 

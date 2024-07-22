@@ -6,7 +6,7 @@ exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '991'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ L’esportazione può essere programmata su base giornaliera, settimanale o mens
 
 [Oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazione. Attualmente è supportata la possibilità di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a un’azienda.
+Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazione. Al momento è supportata la possibilità di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a un’azienda.
 
 >[!NOTE]
 >
@@ -41,15 +41,15 @@ Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazi
 
 ![](assets/image2015-10-1-13-3a55-3a21.png)
 
-## Marketo Insights per Google Chrome {#marketo-insights-for-google-chrome}
+## Approfondimenti Marketo per Google Chrome {#marketo-insights-for-google-chrome}
 
-[Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+[Approfondimenti Marketo per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
 
-Siamo entusiasti di annunciare il rilascio di un aggiornamento per la nostra estensione Google Mail Sales Insight! Visualizzalo in  [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
+Siamo entusiasti di annunciare il rilascio di un aggiornamento per la nostra estensione Google Mail Sales Insight! Visualizzalo in [Chrome Store](https://chrome.google.com/webstore/detail/marketo-insights-for-goog/jjkfbhajlmoeegbjgjipliamplidmbjb).
 
 Questo aggiornamento include molte nuove funzionalità:
 
-* Prima di essere coinvolti, i venditori possono visualizzare informazioni rilevanti sui potenziali clienti direttamente in Google Mail, tra cui titoli di lavoro, profili twitter, informazioni aziendali, foto e altro ancora.
+* Prima di essere coinvolti, i venditori possono visualizzare informazioni rilevanti sui potenziali clienti direttamente in Google Mail, tra cui titoli di lavoro, profili di twitter, informazioni aziendali, foto e altro ancora.
 * I venditori possono vedere in tempo reale quali contenuti i potenziali clienti sono coinvolti nei diversi canali, ad esempio e-mail aperte o cliccate, eventi online o di persona frequentati, pagine web visitate, eBooks scaricati e molto altro.
 * Le e-mail inviate tramite Google Mail vengono registrate in Marketo e monitorate in tempo reale. Questo consente ai venditori di vedere quando i potenziali clienti esaminano le loro e-mail in modo da poter dare un seguito al momento giusto. Marketo Sales Insight per Google Mail consente inoltre ai venditori di sfruttare facilmente i modelli creati dal marketing per inviare splendidi inviti, offerte e altri tipi di contenuti.
 
@@ -61,11 +61,11 @@ Questo aggiornamento include molte nuove funzionalità:
 * [Invia esempio](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md)
 * [Anteprima](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md)
 
-Personalizzare facilmente le notifiche push con [token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+Personalizza facilmente le notifiche push con [token](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
 
 ![](assets/image2015-10-1-13-3a44-3a58.png)
 
-È inoltre possibile [anteprima](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o invia una [esempio](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) notifica push prima di distribuirla ai clienti.
+Puoi anche [visualizzare in anteprima](/help/marketo/product-docs/mobile-marketing/push-notifications/preview-a-push-notification.md) o inviare una notifica push [di esempio](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-push-notification-sample.md) prima di distribuirla ai clienti.
 
 ![](assets/image2015-10-1-13-3a45-3a25.png)
 
@@ -86,7 +86,7 @@ Le statistiche sulle e-mail inviate tramite campagne intelligenti sono ora dispo
 
 ## RTP - Analisi dei contenuti e Recommendations {#rtp-content-analytics-and-recommendations}
 
-[Analisi dei contenuti](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e RECOMMENDATIONS
+[Analisi dei contenuti](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) e Recommendations
 
 RTP Content Analytics mostra le prestazioni delle risorse di contenuti web da visite regolari e anche visite generate dal motore di consigli dei contenuti di RTP.
 
@@ -94,10 +94,10 @@ RTP Content Analytics mostra le prestazioni delle risorse di contenuti web da vi
 * Aumenta il consumo di contenuti consentendo al contenuto nel motore di contenuti predittivi di RTP di consigliare automaticamente il contenuto migliore ai visitatori giusti
 * Approfondisci ogni risorsa di contenuto per visualizzare metriche, grafici e prestazioni più approfondite
 
-La pagina Assets di RTP è ora divisa in Content Analytics e Content Recommendations.
+La pagina Assets di RTP è ora suddivisa in Content Analytics e Content Recommendations.
 
-* **Analisi dei contenuti:** Mostra le visualizzazioni e i lead diretti di tutti i contenuti web individuati e definiti, per aiutarti ad analizzare i contenuti con le prestazioni migliori
-* **Recommendations dei contenuti**: mostra impression e clic dal contenuto consigliato dell’RTP e dall’attribuzione del lead associata. Puoi anche modificare e abilitare i consigli sui contenuti da questa pagina per il [barra](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md) consigli.
+* **Analisi dei contenuti:** mostra le visualizzazioni e i lead diretti di tutti i contenuti Web individuati e definiti, per consentirti di analizzare i contenuti con le prestazioni migliori
+* **Contenuto Recommendations**: mostra impression e clic dal contenuto consigliato di RTP e dall&#39;attribuzione del lead associato. Puoi anche modificare e abilitare i consigli sui contenuti da questa pagina per i consigli [bar](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) e [rich media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md).
 
 * Tutti i dati dei lead diretti in queste due pagine sono stati aggiornati retrospettivamente dall’inizio dell’anno (1° gennaio 2015).
 

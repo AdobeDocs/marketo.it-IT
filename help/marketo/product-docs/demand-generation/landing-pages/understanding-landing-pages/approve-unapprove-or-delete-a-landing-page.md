@@ -21,7 +21,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
    >[!TIP]
    >
-   >È possibile [approvare più pagine alla volta](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) per semplificare la tua vita.
+   >Puoi [approvare più pagine alla volta](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/approve-multiple-landing-pages-at-once.md) per semplificare il tuo lavoro.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
@@ -35,7 +35,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 ## Annullare l’approvazione di una pagina di destinazione {#unapprove-a-landing-page}
 
-1. Seleziona una pagina di destinazione, vai a **Azioni pagina di destinazione** e fai clic su **Annulla approvazione**.
+1. Seleziona una pagina di destinazione, passa a **Azioni pagina di destinazione** e fai clic su **Annulla approvazione**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
@@ -45,11 +45,11 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 >[!NOTE]
 >
->La pagina di destinazione non approvata non viene più pubblicata sul Web e non genererà alcuna attività aggiuntiva. I visitatori di pagine di destinazione non approvate e le relative schede Facebook visualizzano il [Pagina di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
+>La pagina di destinazione non approvata non viene più pubblicata sul Web e non genererà alcuna attività aggiuntiva. I visitatori delle pagine di destinazione non approvate e delle relative schede Facebook visualizzeranno la [pagina di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md).
 
 ## Eliminare una pagina di destinazione {#delete-a-landing-page}
 
-1. Seleziona una pagina di destinazione, vai a **Azioni pagina di destinazione** e fai clic su **Elimina**.
+1. Seleziona una pagina di destinazione, passa a **Azioni pagina di destinazione** e fai clic su **Elimina**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -77,11 +77,11 @@ Eliminare più pagine di destinazione alla volta? Ecco come.
    >
    >Puoi anche utilizzare i tasti Ctrl + clic per eliminare più pagine di destinazione non sequenziali.
 
-1. Fai clic su **Azioni pagina di destinazione** a discesa e selezionare **Elimina**.
+1. Fai clic sul menu a discesa **Azioni pagina di destinazione** e seleziona **Elimina**.
 
    ![](assets/three.png)
 
-1. Clic **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/four.png)
 

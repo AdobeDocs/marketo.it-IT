@@ -4,7 +4,8 @@ title: Community Marketo Engage
 hide: true
 hidefromtoc: true
 feature: Getting Started
-source-git-commit: 6bdac72f0b9831ba830d842cabffbd0f114325fb
+exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
+source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
 workflow-type: tm+mt
 source-wordcount: '592'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 # Community Adobe Marketo Engage {#marketo-engage-community}
 
-Il [Community Adobe Marketo Engage](https://nation.marketo.com/) (nota anche come Marketing Nation) è il luogo in cui trovare ulteriori informazioni sull&#39;istanza di Marketo Engage da altri utenti e dai dipendenti Marketo. Prima di iniziare, soffermati un attimo a conoscere [Linee guida della community](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [community di Adobe Marketo Engage](https://nation.marketo.com/) (nota anche come nazione marketing) è il luogo in cui si possono trovare ulteriori informazioni sull&#39;istanza di Marketo Engage da altri utenti e da dipendenti Marketo. Prima di iniziare, soffermati a conoscere le [linee guida per la community](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registra il tuo nome utente {#register-your-username}
 
@@ -33,7 +34,7 @@ SCHERMATA
 
 ## Configurare il profilo {#set-up-your-profile}
 
-Una volta effettuato l’accesso a Marketing Nation, fai clic sull’icona avatar predefinita e seleziona **[!UICONTROL Le mie impostazioni]** per aggiornare le tue preferenze, modifica la tua foto avatar, l’assegnazione di tag di controllo e altro ancora.
+Dopo aver effettuato l&#39;accesso a Marketing Nation, fai clic sull&#39;icona dell&#39;avatar predefinito e seleziona **[!UICONTROL Impostazioni personali]** per aggiornare le preferenze, modificare la foto dell&#39;avatar, i tag di controllo e altro ancora.
 
 SCHERMATA
 
@@ -85,7 +86,7 @@ SCHERMATA
 
 Segui i passaggi seguenti per unire la cronologia tra più profili della community. Si consiglia di sovrascrivere il profilo community con meno attività community, in quanto i dati di profilo sovrascritti non possono essere recuperati.
 
-Invia un messaggio e-mail a `ccare@marketo.com` per richiedere che i dati dei diversi profili della community vengano uniti al profilo associato all’abbonamento alla produzione primaria. Quando i profili vengono uniti, perderai l’attività storica del profilo sovrascritto desiderato.
+Invia un&#39;e-mail a `ccare@marketo.com` per richiedere che i dati dei diversi profili della community vengano uniti al profilo associato all&#39;abbonamento alla produzione primaria. Quando i profili vengono uniti, perderai l’attività storica del profilo sovrascritto desiderato.
 
 Nella richiesta specificare i seguenti dettagli:
 

@@ -6,7 +6,7 @@ exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Al fine di garantire la conformità con le leggi sul consenso di due parti degli
 
 >[!PREREQUISITES]
 >
->Prima di seguire questi passaggi, devi [abilita registrazione chiamate](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
+>Prima di eseguire la procedura seguente, devi prima [abilitare la registrazione delle chiamate](/help/marketo/product-docs/marketo-sales-connect/phone/enable-call-recording.md).
 
-1. Fai clic sull’icona Impostazioni e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona Impostazioni e selezionare **Impostazioni**.
 
    ![](assets/one-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/two-1.png)
 
@@ -31,7 +31,7 @@ Al fine di garantire la conformità con le leggi sul consenso di due parti degli
 
    ![](assets/three-1.png)
 
-1. Clic **Importa registrazione**.
+1. Fare clic su **Importa registrazione**.
 
    ![](assets/four-1.png)
 
@@ -43,7 +43,7 @@ Al fine di garantire la conformità con le leggi sul consenso di due parti degli
 
    ![](assets/five.png)
 
-1. Una volta completato il caricamento, seleziona il punto (tre punti) nel file manager e fai clic su **Seleziona come avviso di consenso**. Clic **OK** al termine.
+1. Una volta completato il caricamento, seleziona i tre punti nel file manager e fai clic su **Seleziona come avviso di consenso**. Al termine, fai clic su **OK**.
 
    ![](assets/six.png)
 

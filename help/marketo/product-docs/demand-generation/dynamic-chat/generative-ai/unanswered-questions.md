@@ -18,11 +18,11 @@ Vedi tutte le domande a cui il chatbot non ha risposto e/o quelle a cui i visita
 >
 >L&#39;elenco delle domande senza risposta viene aggiornato automaticamente ogni 24 ore, a mezzanotte PST.
 
-1. In IA generativa, fai clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Fai clic su **[!UICONTROL Domande senza risposta]** scheda.
+1. Fai clic sulla scheda **[!UICONTROL Domande senza risposta]**.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ Vedi tutte le domande a cui il chatbot non ha risposto e/o quelle a cui i visita
 
    ![](assets/unanswered-questions-3.png)
 
-1. Inserisci la tua risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Clic **[!UICONTROL Salva]** al termine.
+1. Inserisci la tua risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/unanswered-questions-4.png)
 

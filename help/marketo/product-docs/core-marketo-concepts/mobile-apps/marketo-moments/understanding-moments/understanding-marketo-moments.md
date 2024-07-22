@@ -6,7 +6,7 @@ exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '604'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizza l’ant
 
 >[!NOTE]
 >
->_Accedere alle app mobili_ è richiesta l&#39;autorizzazione. Contatta il tuo amministratore Marketo per [aggiorna il ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>_È richiesta l&#39;autorizzazione per accedere alle app mobili_. Contatta il tuo amministratore di Marketo per [aggiornare il tuo ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 ## Flussi {#streams}
 
@@ -33,9 +33,9 @@ Ecco i diversi flussi in Moments (Momenti).
 >
 >**Definizione**
 >
->* [!UICONTROL Momenti]: Qui vengono visualizzati tutti gli elementi che sono appena stati eseguiti o che stanno per essere eseguiti.
->* [!UICONTROL Preferiti]: qui entra tutto ciò che fai di preferito.
->* [!UICONTROL Più tardi]: Qui entra tutto ciò che avviene più tardi.
+>* [!UICONTROL Momenti]: qui viene visualizzato tutto ciò che è appena stato eseguito o sta per essere eseguito.
+>* [!UICONTROL Preferiti]: qui viene inserito tutto ciò che si crea come preferito.
+>* [!UICONTROL Più tardi]: qui viene inserito qualsiasi evento che si verifica più tardi di questo momento.
 >* [!UICONTROL Fine]: qui viene visualizzato tutto ciò che è stato completato o che è stato contrassegnato come completato.
 
 Ok, ora che ce l&#39;abbiamo fatta, diamo un&#39;occhiata a Marketo Moments al telefono!
@@ -44,21 +44,21 @@ Ok, ora che ce l&#39;abbiamo fatta, diamo un&#39;occhiata a Marketo Moments al t
 
 Marketo Moments offre tre diverse schede per seguire l’avanzamento della tua e-mail:
 
-**[!UICONTROL Sul deck]** - Questa e-mail sta per essere inviata. È l’ultima possibilità per visualizzarlo in anteprima, inviarne un campione o, anche per annullarlo, se necessario.
+**[!UICONTROL On-Deck]** - Questa e-mail sta per essere inviata. È l’ultima possibilità per visualizzarlo in anteprima, inviarne un campione o, anche per annullarlo, se necessario.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Battito cardiaco]** - Hey - Questa e-mail viene consegnata ora! Ed ecco anche le statistiche. Vai avanti e condividilo.
+**[!UICONTROL Battito cardiaco]** - Ciao - questa e-mail è in fase di recapito! Ed ecco anche le statistiche. Vai avanti e condividilo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Risultati]** - Ecco come è andata l’e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati vengono visualizzati il punteggio di coinvolgimento e altre statistiche.
+**[!UICONTROL Risultati]** - Ecco come è andata l&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati vengono visualizzati il punteggio di coinvolgimento e altre statistiche.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Flusso Moments {#moments-stream}
 
-La prima volta che apri l’app o tocca **[!UICONTROL Momenti]** nel menu, le relative schede vengono visualizzate per prime. Ciascuna contiene informazioni su quella specifica iniziativa di marketing e sulle sue prestazioni complessive.
+La prima volta che apri l&#39;app o tocca **[!UICONTROL Momenti]** nel menu, vengono visualizzate le relative schede. Ciascuna contiene informazioni su quella specifica iniziativa di marketing e sulle sue prestazioni complessive.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Fantastico! Ora puoi fare qualcosa toccando:
 >
 >**Definizione**
 >
->* [!UICONTROL Preferito]: è facile prestare attenzione alle cose più attuali e importanti se le rendi preferite.
->* [!UICONTROL Fine]: Fine la toglie dalla vista Momenti Marketo (ma la lascia in Marketo, sicura e sonora).
->* [!UICONTROL Condividi]: invia un’immagine per motivare o congratularsi con il team.
->* [!UICONTROL Invia esempio] (solo e-mail): utilizza questa opzione per consentire ad altri di controllare l’aspetto delle e-mail prima che vengano inviate.
->* [!UICONTROL Anteprima e-mail] (solo e-mail): è sempre una buona idea controllare le e-mail in anticipo.
+>* [!UICONTROL Preferito]: è facile prestare attenzione alle cose più tempestive e importanti se le si rende preferite.
+>* [!UICONTROL Operazione completata]: l&#39;operazione completata viene rimossa dalla visualizzazione Momenti Marketo, ma rimane in Marketo, sicura e valida.
+>* [!UICONTROL Condividi]: invia un&#39;immagine per motivare o congratularsi con il team.
+>* [!UICONTROL Invia campione] (solo e-mail): utilizza questa opzione per consentire ad altri utenti di controllare l&#39;aspetto delle e-mail prima che vengano inviate.
+>* [!UICONTROL Anteprima e-mail] (solo e-mail): è sempre consigliabile controllare le e-mail in anticipo.
 
 ## Momenti successivi {#later-moments}
 
@@ -96,7 +96,7 @@ La sezione Più tardi mostra le attività imminenti.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tocca **[!UICONTROL Più tardi]**.
+1. Tocca **[!UICONTROL Più Tardi]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -143,13 +143,13 @@ In ogni passaggio della procedura, puoi confermare o annullare un’azione. Se c
 Marketo Moments supporta le seguenti versioni del sistema operativo:
 
 * [!DNL Apple] iOS 8.0 e versioni successive.
-* [!DNL Android] versione 4.1 e successive (sostanzialmente Jellybean e versioni successive).
+* [!DNL Android] versione 4.1 e successive (sostanzialmente Jellybean e successive).
 
 Vuoi saperne di più?
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sulle schede del programma e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
->* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Informazioni sulle schede dei programmi e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Informazioni sulle schede eventi](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Informazioni sulle schede di Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)
->* [Informazioni sulle schede per campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)
+>* [Informazioni sulle smart card per campagne](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-smart-campaign-cards.md)

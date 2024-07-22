@@ -17,7 +17,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->L’impostazione delle aree di lavoro può essere complessa. Contatto [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per scoprire se sono giusti per te.
+>L’impostazione delle aree di lavoro può essere complessa. Contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per verificare se sono adatti a te.
 
 Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing come programmi, pagine di destinazione, e-mail e altro ancora. Possono essere utilizzati da più persone. Ogni utente ha accesso a una o più aree di lavoro.
 
@@ -28,13 +28,13 @@ Le aree di lavoro sono aree separate in Marketo che contengono risorse di market
 >Alcuni motivi per cui potresti utilizzare un’area di lavoro:
 >
 >* Geografia: i reparti marketing di Europa, Asia e Nord America dispongono ognuno di un’area di lavoro
->* Business Unit: [!DNL Quicken], [!DNL Quickbooks] e [!DNL TurboTax] ciascuno ottiene un’area di lavoro
+>* Business Unit: [!DNL Quicken], [!DNL Quickbooks] e [!DNL TurboTax] ottengono ciascuno un&#39;area di lavoro
 >
 >In ogni caso, la separazione è dovuta al fatto che le risorse di marketing sono completamente diverse. Se condividono risorse di marketing, le aree di lavoro potrebbero non essere lo strumento giusto per te.
 
 >[!NOTE]
 >
->Scopri come creare [crea una nuova area di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Scopri come creare [un nuovo workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Condivisione tra aree di lavoro {#sharing-across-workspaces}
 
@@ -44,15 +44,15 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 >
 >La cartella principale contenente le risorse è l’unica cartella che può essere condivisa, non le cartelle secondarie.
 
-1. Clic **[!UICONTROL Database]**.
+1. Fare clic su **[!UICONTROL Database]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Fai clic con il pulsante destro del mouse sulla cartella Segmentazione e fai clic su **[!UICONTROL Nuova cartella]**.
+1. Fare clic con il pulsante destro del mouse sulla cartella Segmentazione e scegliere **[!UICONTROL Nuova cartella]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Denomina la cartella e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -64,7 +64,7 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Seleziona i workspace con cui vuoi condividere la cartella e fai clic su **[!UICONTROL Salva]**. Nella finestra di dialogo Condividi cartella verranno visualizzate solo le aree di lavoro per le quali si dispone dell&#39;autorizzazione di visualizzazione.
+1. Seleziona le aree di lavoro con cui vuoi condividere la cartella e fai clic su **[!UICONTROL Salva]**. Nella finestra di dialogo Condividi cartella verranno visualizzate solo le aree di lavoro per le quali si dispone dell&#39;autorizzazione di visualizzazione.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -93,13 +93,13 @@ Per le risorse che non sono modelli, è meglio clonarle come risorse locali all�
 
 >[!IMPORTANT]
 >
->Tutti gli elementi elencati sopra possono essere clonati in Workspace, e-mail, moduli e pagine di destinazione _deve trovarsi all&#39;interno di un programma_ al momento della clonazione.
+>Mentre tutti gli elementi elencati sopra possono essere clonati in aree di lavoro, le e-mail, i moduli e le pagine di destinazione _devono trovarsi all&#39;interno di un programma_ al momento della clonazione.
 
 >[!NOTE]
 >
 >Quando si clonano risorse con modelli, questi devono essere condivisi con l’area di lavoro di destinazione.
 
-## Spostamento delle risorse in altre aree di lavoro {#moving-assets-to-other-workspaces}
+## Spostamento di Assets in altre aree di lavoro {#moving-assets-to-other-workspaces}
 
 Per spostare le risorse in una nuova area di lavoro, inseriscile in una cartella e trascina la cartella nell’altra area di lavoro.
 
@@ -109,9 +109,9 @@ Per spostare le risorse in una nuova area di lavoro, inseriscile in una cartella
 
 ## Partizioni della persona {#person-partitions}
 
-Le partizioni delle persone si comportano come database separati. Ogni partizione ha le proprie persone che non si deduplicano o si mescolano con altre partizioni. Se ritieni di avere un caso d’uso aziendale che potrebbe richiedere la duplicazione dei documenti con lo stesso indirizzo e-mail, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Le partizioni delle persone si comportano come database separati. Ogni partizione ha le proprie persone che non si deduplicano o si mescolano con altre partizioni. Se ritieni di avere un caso d&#39;uso aziendale che potrebbe richiedere la presenza di record duplicati con lo stesso indirizzo e-mail, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
-È possibile assegnare le partizioni persona a  [workspace](create-a-new-workspace.md) nelle seguenti configurazioni:
+È possibile assegnare le partizioni persona alle [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
 
 * partizione da un&#39;area di lavoro a una persona (1:1)
 * da un&#39;area di lavoro a più partizioni persona (1:x)
@@ -130,4 +130,4 @@ Le partizioni delle persone si comportano come database separati. Ogni partizion
 
 >[!NOTE]
 >
->Scopri come [creare una partizione persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).
+>Scopri come [creare una partizione personale](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md).

@@ -15,17 +15,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungere un’immagine a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Aggiungere un&#39;immagine a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 >[!NOTE]
 >
 >Questo vale solo per le pagine di destinazione in formato libero.
 
-1. Seleziona l’immagine aggiunta alla pagina di destinazione ed espandi la sezione **Foglio delle proprietà.**
+1. Seleziona l&#39;immagine aggiunta alla pagina di destinazione ed espandi la **finestra delle proprietà.**
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Digita il collegamento mailto in **URL collegamento.**
+1. Digita il collegamento mailto nell&#39;URL **collegamento.**
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 

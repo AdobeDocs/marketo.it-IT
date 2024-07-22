@@ -6,8 +6,8 @@ exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
 source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 8%
+source-wordcount: '768'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 >[!PREREQUISITES]
 >
->Per sincronizzare i dati tra Marketi Engage e Salesforce, l’istanza Salesforce deve avere accesso alle API Salesforce.
+>Per sincronizzare i dati tra Marketo Engage e Salesforce, l’istanza Salesforce deve avere accesso alle API Salesforce.
 
 Marketo utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in Salesforce, segui le istruzioni riportate di seguito.
 
@@ -35,15 +35,15 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Nel menu Genera a sinistra, fai clic su **[!UICONTROL Personalizza]** e seleziona **[!UICONTROL Lead]**. Clic **[!UICONTROL Campi]**.
+1. Nel menu Genera a sinistra, fai clic su **[!UICONTROL Personalizza]** e seleziona **[!UICONTROL Lead]**. Fare clic su **[!UICONTROL Campi]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Clic **[!UICONTROL Nuovo]** nella sezione Campi personalizzati e relazioni, nella parte inferiore della pagina.
+1. Fai clic su **[!UICONTROL Nuovo]** nella sezione Campi personalizzati e relazioni nella parte inferiore della pagina.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
-1. Scegliere il tipo di campo appropriato (per Punteggio - **[!UICONTROL numero]**; Programma di acquisizione - **[!UICONTROL text]**; Data di acquisizione - **Data/ora**).
+1. Scegli il tipo di campo appropriato (per Punteggio - **[!UICONTROL numero]**; Programma di acquisizione - **[!UICONTROL testo]**; Data acquisizione - **Data/ora**).
 
    ![](assets/choose-field-type-2-hand.png)
 
@@ -110,15 +110,15 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Specifica le impostazioni di accesso e fai clic su **[!UICONTROL Successivo]**:
+1. Specificare le impostazioni di accesso e fare clic su **[!UICONTROL Avanti]**:
 
    * Imposta tutti i ruoli su **[!UICONTROL Visibile]** e **[!UICONTROL Sola lettura]**
 
-   * Cancella **[!UICONTROL Sola lettura]** casella di controllo per il profilo dell&#39;utente di sincronizzazione:
+   * Deselezionare la casella di controllo **[!UICONTROL Sola lettura]** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se hai un utente con il profilo di un _Amministratore di sistema_ come utente di sincronizzazione, cancella **[!UICONTROL Sola lettura]** casella di controllo per il profilo Amministratore di sistema (come mostrato di seguito)
+      * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Sola lettura]** per il profilo Amministratore di sistema (come illustrato di seguito)
 
-      * Se hai creato un’ _profilo personalizzato_ per l&#39;utente di sincronizzazione, cancellare **[!UICONTROL Sola lettura]** casella di controllo per il profilo personalizzato
+      * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Sola lettura]** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -126,11 +126,11 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Clic **[!UICONTROL Salva e nuovo]** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Clic **[!UICONTROL Salva]** con voi avete finito tutti e tre.
+1. Fai clic su **[!UICONTROL Salva e nuovo]** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su **[!UICONTROL Salva]** e avrai terminato tutte e tre le operazioni.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Nel menu Genera a sinistra, fai clic su **[!UICONTROL Personalizza]** e seleziona **[!UICONTROL Contatti]**. Clic **[!UICONTROL Campi]**.
+1. Nel menu Genera a sinistra, fare clic su **[!UICONTROL Personalizza]** e selezionare **[!UICONTROL Contatti]**. Fare clic su **[!UICONTROL Campi]**.
 1. Eseguire i passaggi da 3 a 10 per i campi Punteggio, Data acquisizione e Programma di acquisizione sull&#39;oggetto contatto, come è stato fatto per l&#39;oggetto lead.
 1. Facoltativamente, utilizza la procedura precedente per tutti i campi personalizzati aggiuntivi di questa tabella.
 
@@ -231,15 +231,15 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
 Un campo personalizzato sull’oggetto lead in Salesforce deve essere mappato su un campo contatto nell’oggetto contatto in modo che i dati vengano trasferiti quando si verifica una conversione.
 
-1. Nell’angolo in alto a destra, fai clic su **[!UICONTROL Configurazione]**.
+1. Nell&#39;angolo superiore destro fare clic su **[!UICONTROL Configurazione]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Digita &quot;[!UICONTROL campi]&quot; nella ricerca di navigazione senza premere Invio. I campi vengono visualizzati sotto oggetti diversi; fare clic su **[!UICONTROL Campi]** in Lead.
+1. Digitare &quot;[!UICONTROL fields]&quot; nella ricerca di navigazione senza premere Invio. I campi vengono visualizzati in oggetti diversi. Fare clic su **[!UICONTROL Campi]** in Lead.
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vai alla sezione Campi personalizzati lead e relazioni e fai clic su **[!UICONTROL Mappa campi lead]**.
+1. Vai alla sezione Campi e relazioni personalizzati lead e fai clic su **[!UICONTROL Mappa campi lead]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -253,10 +253,10 @@ Un campo personalizzato sull’oggetto lead in Salesforce deve essere mappato su
 
 1. Ripeti i passaggi precedenti per tutti gli altri campi creati.
 
-1. Clic **[!UICONTROL Salva]** quando hai finito.
+1. Al termine, fai clic su **[!UICONTROL Salva]**.
 
 Abbastanza facile, vero?
 
 >[!MORELIKETHIS]
 >
->[Passaggio 2 di 3: creare un utente Salesforce per Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}
+>[Passaggio 2 di 3: creazione di un utente Salesforce per Marketo (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md){target="_blank"}

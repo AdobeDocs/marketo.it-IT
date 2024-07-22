@@ -6,7 +6,7 @@ exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
 >[!PREREQUISITES]
 >
->Se non lo hai ancora fatto, installa [Componente aggiuntivo e-mail Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Se non lo hai ancora fatto, installa il componente aggiuntivo e-mail di [Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
    >
    >Se includi più destinatari nell’e-mail, tutte le attività verranno tracciate sotto il primo destinatario.
 
-1. Componi l’e-mail come di consueto, quindi fai clic su **Invia e tieni traccia**.
+1. Componi l&#39;e-mail come di consueto, quindi fai clic su **Invia e tieni traccia**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
    >[!TIP]
    >
-   >Se desideri utilizzare un modello di Marketo, consulta [Inviare e tenere traccia di Outlook utilizzando un modello](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Se si desidera utilizzare un modello di Marketo, vedere [Inviare e tenere traccia di Outlook utilizzando un modello](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Guarda l’anteprima e fai clic su **Invia**.
+1. Guarda l&#39;anteprima e fai clic su **Invia**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 

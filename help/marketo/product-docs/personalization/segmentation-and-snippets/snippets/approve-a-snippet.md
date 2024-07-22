@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungere contenuto a uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Aggiungi contenuto a frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 Uno snippet deve essere approvato prima dell&#39;uso.
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Fai clic sul tuo **Frammento**. Sotto **Azioni snippet**, fai clic su **Approva**.
+1. Fai clic sul **frammento**. In **Azioni snippet**, fai clic su **Approva**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
@@ -31,4 +31,4 @@ Tutto qui! Lo stato del frammento cambia da Bozza ad Approvato.
 
 >[!MORELIKETHIS]
 >
->[Approvare un frammento senza bozza](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)
+>[Approva frammento senza bozza](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet-with-no-draft.md)

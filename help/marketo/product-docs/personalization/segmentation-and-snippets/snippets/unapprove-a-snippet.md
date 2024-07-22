@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Uno snippet non approvato non può essere utilizzato nelle e-mail o nelle pagine di destinazione.
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Vai al frammento e assicurati che non sia **Utilizzato da** qualsiasi risorsa.
+1. Vai allo snippet e assicurati che non sia **Utilizzato da** risorse.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Se il frammento è utilizzato da altre risorse, rimuovi tali associazioni prima di procedere.
 
-1. In entrata **Azioni snippet**, fai clic su **Annulla approvazione**.
+1. In **Azioni snippet**, fai clic su **Annulla approvazione**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori informazioni](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione in formato libero e guidato.
+>Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori informazioni](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sui modelli di pagine di destinazione guidate e in formato libero.
 
 >[!PREREQUISITES]
 >
@@ -33,7 +33,7 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Fai clic su **Nuovo** a discesa. Seleziona **Nuova risorsa locale**.
+1. Fai clic sul menu a discesa **Nuovo**. Seleziona **Nuova risorsa locale**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
@@ -41,11 +41,11 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/four.png)
 
-1. Assegna un nome alla pagina di destinazione. Fai clic su **Modello** a discesa e selezionare **Modello guidato**.
+1. Assegna un nome alla pagina di destinazione. Fai clic sul menu a discesa **Modello** e seleziona **Modello guidato**.
 
    >[!NOTE]
    >
-   >I modelli di pagina di destinazione guidata presentano ![—](assets/image2015-5-26-9-3a26-3a51.png) accanto a essi. I modelli guidati sono strutturati in modo che possano rimanere completamente reattivi.
+   >Accanto ai modelli di pagina di destinazione guidata è presente l&#39;icona ![—](assets/image2015-5-26-9-3a26-3a51.png). I modelli guidati sono strutturati in modo che possano rimanere completamente reattivi.
 
    ![](assets/image2015-5-24-15-3a47-3a56.png)
 
@@ -55,11 +55,11 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/six.png)
 
-1. Fai clic su **Nuovo** a discesa. Seleziona **Nuova pagina di destinazione**.
+1. Fai clic sul menu a discesa **Nuovo**. Seleziona **Nuova pagina di destinazione**.
 
    ![](assets/seven.png)
 
-1. Assegna un nome alla pagina di destinazione. Fai clic su **Modello** a discesa e selezionare **Modello guidato**.
+1. Assegna un nome alla pagina di destinazione. Fai clic sul menu a discesa **Modello** e seleziona **Modello guidato**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
@@ -69,6 +69,6 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
 >[!TIP]
 >
->L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l’URL, modifica **URL della pagina** campo.
+>L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **URL pagina**.
 >
->Cancella **Apri nell’editor** casella di controllo se non desideri che l’editor si apra immediatamente dopo aver fatto clic su **Crea**.
+>Deselezionare la casella di controllo **Apri nell&#39;editor** se non si desidera che l&#39;editor venga aperto immediatamente dopo aver fatto clic su **Crea**.

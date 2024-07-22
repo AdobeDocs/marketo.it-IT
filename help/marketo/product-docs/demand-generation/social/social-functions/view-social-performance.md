@@ -6,7 +6,7 @@ exl-id: 82f3754f-4aa8-4d07-ac02-22d138d2a021
 feature: Social
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Visualizza le attività social generate dalle tue app social. La dashboard di So
 
    ![](assets/image2014-9-23-17-3a10-3a13.png)
 
-1. Clic **Data di attività**.
+1. Fai clic su **Data attività**.
 
    ![](assets/image2014-9-23-17-3a10-3a22.png)
 
@@ -37,15 +37,15 @@ Visualizza le attività social generate dalle tue app social. La dashboard di So
 
    >[!NOTE]
    >
-   >Se si seleziona **Ultime 24 ore**, le metriche vengono calcolate su base oraria, nella parte superiore dell’ora. Per tutti gli altri intervalli, le metriche vengono eseguite ogni giorno alla mezzanotte del giorno precedente.
+   >Se selezioni **Ultime 24 ore**, le metriche vengono calcolate su base oraria, all&#39;inizio dell&#39;ora. Per tutti gli altri intervalli, le metriche vengono eseguite ogni giorno alla mezzanotte del giorno precedente.
 
-1. Utilizza il **Funnel social** per rivedere la progressione sociale e l&#39;efficacia della promozione.
+1. Utilizza **Funnel social** per verificare la progressione social e l&#39;efficacia della promozione.
 
-   * **Visite campagna**: numero di volte in cui i potenziali clienti caricano una pagina che contiene la tua app social.
-   * **Interazioni**: il numero di volte in cui i potenziali clienti hanno interagito con la tua app social, ad esempio registrandosi per una [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), votazione in un [sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [condivisione di un video](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md), ecc.
-   * **Condivisioni**: il numero di volte in cui i potenziali clienti condividono un messaggio con il proprio social network dalla tua app social.
-   * **Clic risultanti**: numero di volte in cui i potenziali clienti hanno fatto clic sui collegamenti in condivisioni dall’app social.
-   * **Registrazione**: numero di potenziali clienti che si registrano alla promozione dopo aver seguito un collegamento condiviso con la tua app.
+   * **Visite campagna**: il numero di volte in cui i potenziali clienti caricano una pagina che contiene la tua app social.
+   * **Interazioni**: il numero di volte in cui i potenziali clienti hanno interagito con la tua app social, ad esempio registrandosi per una [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), votando in un [sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), [condividendo un video](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-video-to-a-free-form-landing-page.md) e così via.
+   * **Condivisioni**: il numero di volte che i potenziali clienti condividono un messaggio con il proprio social network dalla tua app social.
+   * **Clic risultanti**: numero di volte in cui i potenziali clienti hanno fatto clic sui collegamenti in condivisioni dalla tua app social.
+   * **Registrazione**: il numero di potenziali clienti che si registrano alla promozione dopo aver seguito di nuovo un collegamento condiviso all&#39;app.
 
    >[!NOTE]
    >
@@ -53,20 +53,20 @@ Visualizza le attività social generate dalle tue app social. La dashboard di So
 
    ![](assets/image2014-9-23-17-3a11-3a16.png)
 
-1. Utilizza il **Pubblico** per vedere in che modo i potenziali clienti ti aiutano a diffondere la notizia.
+1. Utilizza il pannello **Pubblico** per verificare in che modo i tuoi potenziali clienti ti aiutano a diffondere la notizia.
 
-   * **Profili totali**: numero totale di potenziali clienti che hanno effettuato l’accesso ai social network dalla tua app social.
-   * **Influencer**: numero di potenziali clienti che hanno generato almeno un clic risultante da una condivisione app.
-   * **Portata social**: somma di tutte le connessioni dei potenziali clienti. Per i potenziali clienti che condividono con i social network, questo è il numero di amici che hanno nel momento in cui hanno condiviso dalla tua app social. Per la condivisione e-mail, si tratta del numero di destinatari dell’e-mail che generano dall’app.
-   * **Impression social**: numero totale di volte in cui l’app social è apparsa nei feed delle connessioni dei potenziali clienti.
+   * **Profili totali**: il numero totale di potenziali clienti che hanno effettuato l&#39;accesso ai social network dalla tua app social.
+   * **Influencer**: il numero di potenziali clienti che hanno generato almeno un clic risultante da una condivisione app.
+   * **Accesso social**: somma di tutte le connessioni dei potenziali clienti. Per i potenziali clienti che condividono con i social network, questo è il numero di amici che hanno nel momento in cui hanno condiviso dalla tua app social. Per la condivisione e-mail, si tratta del numero di destinatari dell’e-mail che generano dall’app.
+   * **Impression social**: il numero totale di volte in cui l&#39;app social è apparsa nei feed delle connessioni dei potenziali clienti.
 
    ![](assets/image2014-9-23-17-3a11-3a26.png)
 
-1. Utilizza il **Condividere le metriche** per esaminare l’attività social aggregata generata dalla tua app social.
+1. Utilizza il pannello **Condividi metriche** per esaminare l&#39;attività social aggregata generata dalla tua app social.
 
-   * **Tasso di condivisione**: percentuale di visite all’app che generano una condivisione.
-   * **Percentuale di clickback**: numero di clic risultanti per azione.
-   * **Incremento social**: rapporto tra le visite all’app (provenienti dal collegamento incluso nelle condivisioni) e il numero di visite non social (da origini diverse dall’app social).
+   * **Frequenza condivisioni**: percentuale di visite all&#39;app che generano una condivisione.
+   * **Percentuale di clickback**: numero di clic risultanti per condivisione.
+   * **Incremento social**: rapporto tra le visite all&#39;app (provenienti dal collegamento in condivisioni) e il numero di visite non social (provenienti da origini diverse dall&#39;app social).
 
    ![](assets/image2014-9-23-17-3a11-3a35.png)
 

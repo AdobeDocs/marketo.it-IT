@@ -29,15 +29,15 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
 **Configurazione delle impostazioni di limitazione della connessione e-mail**
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. Nella scheda Limitazione connessione e-mail a destra, fai clic su **Abilita limitazione e-mail** cursore.
+1. Nella scheda Limitazione connessione e-mail a destra, fai clic sul cursore **Abilita limitazione e-mail**.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -65,7 +65,7 @@ Aziende/Aziende
 * 30 al minuto
 * 500 destinatari per e-mail
 
-Ulteriori informazioni [si trova qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -73,7 +73,7 @@ Ulteriori informazioni [si trova qui](https://docs.microsoft.com/en-us/office365
 * 2 e-mail al secondo (limite API)
 * 2.000 destinatari per messaggio (massimo 500 per i destinatari esterni)
 
-Ulteriori informazioni [si trova qui](https://support.google.com/a/answer/166852?hl=en).
+Ulteriori informazioni [sono disponibili qui](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 

@@ -26,7 +26,7 @@ A volte, un amministratore deve inviare del codice SDK a uno sviluppatore.
 
 Ecco come si fa.
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -38,11 +38,11 @@ Ecco come si fa.
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clic **Azioni app mobile** e seleziona **Invia a sviluppatore**.
+1. Fai clic su **Azioni app mobile** e seleziona **Invia a sviluppatore**.
 
    ![](assets/image2015-4-22-17-3a13-3a30.png)
 
-1. Inserisci un indirizzo e-mail e fai clic su **Invia**.
+1. Immetti un indirizzo e-mail e fai clic su **Invia**.
 
    ![](assets/image2015-4-22-18-3a51-3a54.png)
 

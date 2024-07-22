@@ -6,7 +6,7 @@ exl-id: 5b83663e-8578-4a45-b8f8-4db8c2346372
 feature: Custom Activities
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Per creare una nuova attività personalizzata, segui la procedura riportata di s
 >
 >La maggior parte degli abbonamenti dispone di un limite allocato di 10 tipi di attività personalizzate.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-a-custom-activity-1.png)
 
-1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/create-a-custom-activity-2.png)
 
-1. Clic **[!UICONTROL Nuova attività personalizzata]**.
+1. Fai clic su **[!UICONTROL Nuova attività personalizzata]**.
 
    ![](assets/create-a-custom-activity-3.png)
 
-1. Immetti un nome e un nome facoltativo [!UICONTROL Descrizione], quindi fai clic su **[!UICONTROL Successivo]**. Il Nome API viene compilato automaticamente, ma può essere personalizzato.
+1. Immetti un nome e una [!UICONTROL Descrizione] facoltativa, quindi fai clic su **[!UICONTROL Successivo]**. Il Nome API viene compilato automaticamente, ma può essere personalizzato.
 
    ![](assets/create-a-custom-activity-4.png)
 
@@ -39,7 +39,7 @@ Per creare una nuova attività personalizzata, segui la procedura riportata di s
    >
    >Se decidi di modificare il nome API, assicurati che non sia in conflitto con i campi di altre attività personalizzate.
 
-1. Definisci le [!UICONTROL Filtro] e [!UICONTROL Trigger] e fai clic su **[!UICONTROL Successivo]**.
+1. Definisci il [!UICONTROL filtro] e il [!UICONTROL trigger] e fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/create-a-custom-activity-5.png)
 

@@ -6,24 +6,24 @@ exl-id: 0c5baefe-8339-4f7e-9d4f-a34704685b11
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
 
 # Pulsante Personalizza app social {#customize-social-app-button}
 
-Quando si crea un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), è possibile personalizzare l&#39;aspetto dei pulsanti.
+Quando crei un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) o un&#39;offerta di riferimento [](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi personalizzare l&#39;aspetto dei pulsanti.
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona l’app e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-23-17-3a3-3a34.png)
 
-1. Nell’editor delle app social, vai a **Impostazioni app** > **Stile pulsanti** (o **Stile registrazione,** per le offerte di riferimento).
+1. Nell&#39;editor dell&#39;app social, vai a **Impostazioni app** > **Stile pulsante** (o **Stile registrazione,** per le offerte di riferimento).
 
    ![](assets/image2014-9-23-17-3a3-3a57.png)
 
@@ -37,7 +37,7 @@ Quando si crea un [pulsante social](/help/marketo/product-docs/demand-generation
 
    >[!NOTE]
    >
-   >Per le offerte di riferimento, seleziona le reti in **2. Flusso registrazione > Social network**.
+   >Per le offerte di riferimento, selezionare le reti in **2. Flusso registrazione > Social network**.
 
 1. Scegliere un tipo di pulsante.
 
@@ -45,20 +45,20 @@ Quando si crea un [pulsante social](/help/marketo/product-docs/demand-generation
 
    >[!TIP]
    >
-   >Se si sceglie **Carica immagini in Stile pulsante** qui sopra, le sezioni seguenti ti consentono di caricare immagini di pulsanti invece di modificare il testo.
+   >Se hai scelto **Carica immagini in Stile pulsante**, le sezioni seguenti ti consentono di caricare le immagini dei pulsanti invece di modificare il testo.
 
 1. Modifica le etichette del pulsante prima e dopo aver fatto clic su.
 
    ![](assets/image2014-9-23-17-3a5-3a30.png)
 
-1. Quando effettui ogni scelta, rivedi il risultato in **Visualizza e modifica** finestra.
+1. Mentre effettui ogni scelta, controlla il risultato nella finestra **Visualizza e modifica**.
 
    ![](assets/image2014-9-23-17-3a5-3a42.png)
 
 >[!NOTE]
 >
->In un’offerta di riferimento, puoi anche personalizzare **Tracciare l’avanzamento** pulsante. Vai a **Impostazioni app** > **Stile di avanzamento traccia** e segui gli stessi passaggi di cui sopra.
+>In un&#39;offerta di riferimento, puoi anche personalizzare il pulsante **Traccia avanzamento**. Vai a **Impostazioni app** > **Tieni traccia dello stile di avanzamento** e segui gli stessi passaggi indicati sopra.
 
 >[!MORELIKETHIS]
 >
->Per un pulsante Social, [configura all’apertura](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un’offerta di riferimento, [specifica l’obiettivo dell’offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).
+>Per un pulsante social, [configura quando viene aperto](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-when-social-button-opens.md). Per un&#39;offerta di riferimento, [specifica l&#39;obiettivo dell&#39;offerta](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md).

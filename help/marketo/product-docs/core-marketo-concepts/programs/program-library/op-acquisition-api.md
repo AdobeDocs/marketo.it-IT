@@ -2,11 +2,11 @@
 description: OP-Acquisition-API - Documentazione di Marketo - Documentazione del prodotto
 title: OP-Acquisition-API
 feature: Programs
-exl-id: 1d6ec686-af0b-46a9-b428-1520b671ca24
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Questo programma di esempio Ã¨ destinato ai processi operativi per monitorare lâ
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -64,7 +64,7 @@ Questo programma di esempio Ã¨ destinato ai processi operativi per monitorare lâ
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 

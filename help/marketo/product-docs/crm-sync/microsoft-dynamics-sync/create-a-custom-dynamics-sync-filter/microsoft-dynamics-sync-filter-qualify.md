@@ -21,10 +21,10 @@ Ecco come funzionano i filtri durante il processo di conversione.
 
 | Se il filtro di sincronizzazione del lead è: | e il filtro di sincronizzazione dei contatti è: | Questo è il risultato in Marketo |
 |---|---|---|
-| False | False | Non viene sincronizzato nulla in Marketo |
-| True | True | Il contatto è sincronizzato in Marketo |
-| False | True | Nuovo record contatto creato in Marketo |
-| True | False | MS Dynamics aggiorna le informazioni del lead in Marketo, ma il record del contatto non è sincronizzato |
+| Falso | Falso | Non viene sincronizzato nulla in Marketo |
+| Vero | Vero | Il contatto è sincronizzato in Marketo |
+| Falso | Vero | Nuovo record contatto creato in Marketo |
+| Vero | Falso | MS Dynamics aggiorna le informazioni del lead in Marketo, ma il record del contatto non è sincronizzato |
 
 >[!CAUTION]
 >

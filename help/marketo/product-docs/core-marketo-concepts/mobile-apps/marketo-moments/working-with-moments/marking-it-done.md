@@ -6,14 +6,14 @@ exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 1%
+source-wordcount: '135'
+ht-degree: 0%
 
 ---
 
 # Contrassegno completato {#marking-it-done}
 
-Contrassegna un programma e-mail, un evento o una scheda di analisi come [!UICONTROL Fine] per rimuoverlo dal flusso. Ci sono due modi per farlo.
+Contrassegna un programma e-mail, un evento o una scheda di analisi come [!UICONTROL Fine] per rimuoverla dal flusso. Ci sono due modi per farlo.
 
 >[!IMPORTANT]
 >

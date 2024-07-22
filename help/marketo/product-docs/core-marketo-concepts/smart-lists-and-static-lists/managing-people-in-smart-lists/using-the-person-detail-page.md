@@ -19,11 +19,11 @@ La pagina dei dettagli della persona contiene tutte le informazioni che Marketo 
 
 Ci sono molti modi per aprire persone specifiche. Alcuni esempi sono:
 
-* Dalla sezione **Database**, è possibile eseguire una ricerca in Ricerca rapida
-* Qualsiasi **Elenco avanzato** o elenco
-* **Membri** scheda di un programma
-* **Visualizza membri della campagna** in una campagna avanzata
-* Alcuni **rapporti**
+* Dal **Database**, puoi eseguire una ricerca nella Ricerca rapida
+* Qualsiasi **elenco avanzato** o elenco
+* Scheda **Membri** di un programma
+* **Visualizzare i membri della campagna** in una campagna avanzata
+* Alcuni **report**
   <br> 
 
 1. Fai doppio clic su una persona o fai clic sull’ID a sinistra.
@@ -60,7 +60,7 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 
 >[!NOTE]
 >
->Puoi anche visualizzare le informazioni sull’opportunità [inserito tramite API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
+>È inoltre possibile visualizzare le informazioni sull&#39;opportunità [inserite tramite API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
 
 ## Modifica di un campo {#editing-a-field}
 
@@ -80,7 +80,7 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 | Settore | Città dedotta | Azienda in oggetto | Paese in oggetto | Area metropolitana dedotta |
 | Prefisso telefonico dedotto | Codice postale dedotto | Area geografica dello stato dedotta | È anonimo | È cliente |
 | È partner | Professione | Cognome | Valutazione | Punteggio |
-| Origine persona | Stato | Numero di telefono | Nome visualizzato Marketo Social Facebook | ID Marketo Social Facebook |
+| Source della persona | Stato | Numero di telefono | Nome visualizzato Marketo Social Facebook | ID Marketo Social Facebook |
 | URL foto Marketo Social Facebook | URL profilo Marketo Social Facebook | Marketo Social Facebook Reach | Iscrizioni con riferimenti a Marketo Social Facebook | Visite di riferimento di Marketo Social Facebook |
 | Genere social Marketo | Ultima iscrizione riferimento a Marketo Social | Ultima visita di riferimento di Marketo Social | Nome visualizzato Marketo Social LinkedIn | ID Marketo Social LinkedIn |
 | URL foto Marketo Social LinkedIn | URL profilo Marketo Social LinkedIn | Marketo Social LinkedIn Reach | Iscrizioni con riferimenti a Marketo Social LinkedIn | Visite di riferimento di Marketo Social LinkedIn |
@@ -93,15 +93,15 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 
 >[!NOTE]
 >
->Alcuni campi sono _non_ modificabile:
+>Alcuni campi sono _non_ modificabili:
 >
 >* Registro attività
 >* Informazioni sull&#39;azienda
 >* Opportunità per i contatti SFDC
->* Alcuni campi specifici di Marketo, come Data di creazione e Tipo di origine originale.
+>* Alcuni campi specifici di Marketo, come Data di creazione e Tipo di Source originale.
 >
->Ulteriori informazioni su [Campi gestiti dal sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
+>Ulteriori informazioni sui [campi gestiti dal sistema](/help/marketo/product-docs/administration/field-management/understanding-system-managed-fields.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Creazione di una scheda personalizzata per la pagina Dettagli persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}
+>[Creazione di una scheda personalizzata per la pagina dettagli persona](/help/marketo/product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md){target="_blank"}

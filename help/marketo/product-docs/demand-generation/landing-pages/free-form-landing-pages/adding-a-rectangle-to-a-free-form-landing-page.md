@@ -23,11 +23,11 @@ I rettangoli nelle pagine di destinazione sono ideali per evidenziare un’area 
    >
    >Il designer di pagine di destinazione in formato libero si apre in una nuova finestra.
 
-1. Trascina sulla **Rettangolo** elemento.
+1. Trascinare sull&#39;elemento **Rectangle**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Seleziona il rettangolo e utilizza **Foglio delle proprietà** per apportare le modifiche necessarie.
+1. Selezionare il rettangolo e utilizzare **Foglio delle proprietà** per apportare le modifiche necessarie.
 
    >[!TIP]
    >

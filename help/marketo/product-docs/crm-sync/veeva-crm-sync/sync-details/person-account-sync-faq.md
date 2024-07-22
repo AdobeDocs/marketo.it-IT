@@ -5,7 +5,7 @@ exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Gli account personali possono essere impostati in Veeva per soddisfare le esigen
 
 Un account persona è molto simile all’oggetto account in Veeva CRM. Tuttavia, un account persona ha accesso sia ai campi account che ai campi contatto.
 
-**Cosa succede quando un account persona viene sincronizzato con Marketo?**
+**Cosa succede quando un account utente viene sincronizzato con Marketo?**
 
 Un account persona viene sincronizzato in Marketo come azienda e come persona.
 
@@ -32,19 +32,19 @@ Un account persona viene sincronizzato in Marketo come azienda e come persona.
 >
 >I campi personalizzati per un account persona vengono copiati sia nella società che nella persona in Marketo.
 
-**Come posso distinguere gli account aziendali da quelli personali?**
+**Come posso distinguere gli account aziendali dagli account personali?**
 
 Utilizza il filtro Account &quot;Is Person&quot; (È persona) nel tuo elenco avanzato per separare gli account persona dagli account aziendali standard.
 
-**Quale campo e-mail utilizzare per gli account persona?**
+**Quale campo di posta elettronica utilizzare per gli account personali?**
 
 Per un account persona sono disponibili due campi e-mail. Utilizza il campo Indirizzo e-mail nei moduli (non l’Indirizzo e-mail della persona) per garantire che la deduplicazione di Marketo e altre forme di elaborazione e-mail funzionino correttamente.
 
 ## Direzione di sincronizzazione {#sync-direction}
 
-La sincronizzazione dei campi correlati al contatto dell’account persona è bidirezionale. Se apporti modifiche a un contatto in Veeva CRM o Marketo, i tuoi aggiornamenti verranno rispecchiati in entrambi i sistemi. I campi dell’account vengono sincronizzati in una sola direzione, da Veeva CRM a Marketo.
+La sincronizzazione dei campi relativi al contatto dell’account persona è bidirezionale. Se apporti modifiche a un contatto in Veeva CRM o Marketo, i tuoi aggiornamenti verranno rispecchiati in entrambi i sistemi. I campi dell’account vengono sincronizzati in una sola direzione, da Veeva CRM a Marketo.
 
-**Cosa succede se in entrambi i sistemi vengono apportate modifiche ai campi Contatto sull’Account persona contemporaneamente?**
+**Cosa succede se in entrambi i sistemi vengono apportate modifiche ai campi Contatto sull&#39;account della persona contemporaneamente?**
 
 Saremmo gentili e lasceremmo vincere Veeva CRM. Tuttavia, è raro che si verifichi questo tipo di conflitto di dati.
 

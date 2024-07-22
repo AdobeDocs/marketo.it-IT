@@ -55,7 +55,7 @@ Visualizzare finestre di dialogo, flussi conversazionali o tutti. Seleziona un p
 <tbody>
   <tr>
     <td style="width:25%"><b>Completato</b></td>
-    <td>Un evento completato si verifica quando un visitatore raggiunge l’ultimo prompt di una conversazione <i>o</i> quando un visitatore esaurisce tutti i contenuti di una conversazione.
+    <td>Un evento completato si verifica quando un visitatore raggiunge l'ultimo prompt in una conversazione <i>o</i> quando esaurisce tutto il contenuto di una conversazione.
     <br>Un evento completato per visitatore, per sessione.</td>
   </tr>
   <tr>

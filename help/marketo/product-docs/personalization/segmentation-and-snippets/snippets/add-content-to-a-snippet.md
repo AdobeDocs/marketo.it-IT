@@ -15,19 +15,19 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Crea snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 È possibile aggiungere token, immagini, file o testo RTF a uno snippet.
 
 >[!NOTE]
 >
->Non è possibile incorporare [Sintassi e-mail Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) in snippet; **non** lavorare in un’e-mail. I frammenti devono essere solo contenuto del corpo (HTML + TESTO).
+>Impossibile incorporare [sintassi e-mail di Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md) nei frammenti. **non** funzionerà in un messaggio e-mail. I frammenti devono essere solo contenuto del corpo (HTML + TESTO).
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/designstudio-2.png)
 
-1. Seleziona il **Frammento** e fai clic su **Modifica bozza**.
+1. Seleziona il **frammento** e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-16-9-3a34-3a58.png)
 
@@ -35,17 +35,17 @@ ht-degree: 1%
 
 ## Aggiungi token {#add-token}
 
-1. Trascina la **Token** elemento.
+1. Trascina l&#39;elemento **Token**.
 
    ![](assets/image2014-9-16-9-3a35-3a8.png)
 
-1. Invio **Token** e fai clic su **Inserisci**.
+1. Immetti **Token** e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-16-9-3a35-3a16.png)
 
 ## Aggiungi immagine/file {#add-image-file}
 
-1. Trascina la **Immagine/File** elemento.
+1. Trascina e rilascia l&#39;elemento **Immagine/File**.
 
    ![](assets/image2014-9-16-9-3a35-3a25.png)
 
@@ -53,7 +53,7 @@ ht-degree: 1%
    >
    >È possibile aggiungere immagini o file personalizzati a Marketo. Ulteriori informazioni su [immagini e file](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
-1. Seleziona la **Immagine** da utilizzare e fare clic su **Inserisci**.
+1. Selezionare l&#39;**Immagine** da utilizzare e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-9-3a35-3a33.png)
 
@@ -71,11 +71,11 @@ ht-degree: 1%
    >
    >Utilizzare gli strumenti di formattazione per personalizzare il testo.
 
-1. Per le e-mail, fai clic su **Versione testo** scheda.
+1. Per le e-mail, fare clic sulla scheda **Versione testo**.
 
    ![](assets/image2014-9-16-9-3a35-3a51.png)
 
-1. Clic **Copia da HTML**.
+1. Fai clic su **Copia da HTML**.
 
    ![](assets/image2014-9-16-9-3a35-3a59.png)
 

@@ -23,18 +23,18 @@ Se nel modulo è presente un campo non più necessario, è possibile eliminarlo 
 
    ![](assets/image2014-9-15-15-3a43-3a36.png)
 
-1. Seleziona il campo e fai clic su **eliminare** icona.
+1. Seleziona il campo e fai clic sull&#39;icona **elimina**.
 
    ![](assets/image2014-9-15-15-3a43-3a54.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-15-3a44-3a16.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-15-3a44-3a28.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
+>Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.

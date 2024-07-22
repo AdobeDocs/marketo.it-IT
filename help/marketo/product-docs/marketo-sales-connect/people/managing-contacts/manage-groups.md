@@ -33,15 +33,15 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/three-3.png)
 
-1. Clic **Azioni gruppo** e seleziona **Crea contatto**.
+1. Fai clic su **Azioni gruppo** e seleziona **Crea contatto**.
 
    ![](assets/four-3.png)
 
    >[!NOTE]
    >
-   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, eseguire le operazioni seguenti [questi passaggi](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, segui [questi passaggi](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Inserisci le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
+1. Compila le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
 
    ![](assets/five-3.png)
 
@@ -65,7 +65,7 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/eight.png)
 
-1. Clic **Condividi**.
+1. Fai clic su **Condividi**.
 
    ![](assets/nine.png)
 
@@ -93,7 +93,7 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/six.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Rinomina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Rinomina**.
 
    ![](assets/thirteen.png)
 
@@ -107,10 +107,10 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/fifteen.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
 
    ![](assets/sixteen.png)
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/seventeen.png)

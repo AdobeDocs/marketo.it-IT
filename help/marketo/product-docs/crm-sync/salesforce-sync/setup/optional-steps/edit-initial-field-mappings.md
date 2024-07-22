@@ -15,19 +15,19 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce. Una volta **[!UICONTROL Sincronizza]** non è più possibile.
+>Questa funzione è accessibile solo prima della sincronizzazione iniziale con Salesforce. Una volta premuto il pulsante **[!UICONTROL Sincronizza ora]**, non sarà più possibile eseguire questa operazione.
 
-Durante la sincronizzazione iniziale con Salesforce, Marketi Engage combina automaticamente campi personalizzati con nomi simili in un singolo campo sul lato Marketo per garantire che i dati possano essere scambiati sia con oggetti Lead che con oggetti Contact nel CRM. Questo articolo spiega come personalizzare queste mappature.
+Durante la sincronizzazione iniziale con Salesforce, Marketo Engage combina automaticamente campi personalizzati con nomi simili in un singolo campo sul lato Marketo per garantire che i dati possano essere scambiati sia con oggetti Lead che con oggetti Contact nel CRM. Questo articolo spiega come personalizzare queste mappature.
 
 ## Mappa campi non mappati {#map-unmapped-fields}
 
-Quando viene visualizzato un campo in [!UICONTROL Campi non mappati] significa che non è mappato a un campo simile sul lead o contatto in Salesforce. Puoi ripararlo.
+Quando trovi un campo nella cartella [!UICONTROL Campi non mappati], significa che non è mappato a un campo simile sul lead o sul contatto in Salesforce. Puoi ripararlo.
 
-1. Clic **[!UICONTROL Modifica mappature]**.
+1. Fare clic su **[!UICONTROL Modifica mapping]**.
 
 ![](assets/image2014-12-9-13-3a31-3a0.png)
 
-1. Apri **[!UICONTROL Campi personalizzati non mappati]** cartella.
+1. Apri la cartella **[!UICONTROL Campi personalizzati non mappati]**.
 
    ![](assets/two.png)
 
@@ -39,7 +39,7 @@ Quando viene visualizzato un campo in [!UICONTROL Campi non mappati] significa c
 
    ![](assets/three.png)
 
-1. Clic **[!UICONTROL Mappature finali]** quando hai finito.
+1. Al termine, fai clic su **[!UICONTROL Fine mappature]**.
 
    ![](assets/four.png)
 
@@ -47,7 +47,7 @@ Quando viene visualizzato un campo in [!UICONTROL Campi non mappati] significa c
 
 Se sul lead e sull&#39;oggetto contatto sono presenti campi con lo stesso nome, Marketo li mapperà automaticamente. Puoi considerarli diversi e conservare dati diversi. Interrompi la mappatura in questo modo.
 
-1. Clic **[!UICONTROL Modifica mappature]**.
+1. Fare clic su **[!UICONTROL Modifica mapping]**.
 
    ![](assets/image2014-12-9-13-3a31-3a37.png)
 
@@ -55,7 +55,7 @@ Se sul lead e sull&#39;oggetto contatto sono presenti campi con lo stesso nome, 
 
    ![](assets/image2014-12-9-13-3a31-3a47.png)
 
-1. Clic **[!UICONTROL Mappature finali]** quando hai finito.
+1. Al termine, fai clic su **[!UICONTROL Fine mappature]**.
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
@@ -63,7 +63,7 @@ Se sul lead e sull&#39;oggetto contatto sono presenti campi con lo stesso nome, 
 
 ## Ripristina schema {#reset-schema}
 
-1. Se apporti alcune modifiche allo schema in Salesforce mentre lavori sulle mappature, puoi richiamarle facendo clic su **[!UICONTROL Ripristina schema]**.
+1. Se apporti alcune modifiche allo schema in Salesforce mentre lavori sulle mappature, puoi richiamarle facendo clic su **[!UICONTROL Reimposta schema]**.
 
    * Tutte le modifiche di mappatura verranno reimpostate.
    * Se si ripristina lo schema, verranno aggiunti e non rimossi solo i campi (anche se li si nasconde all&#39;utente di sincronizzazione).

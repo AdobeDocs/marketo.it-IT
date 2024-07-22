@@ -6,14 +6,14 @@ exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '735'
-ht-degree: 1%
+source-wordcount: '701'
+ht-degree: 0%
 
 ---
 
 # Personalizzazioni di Sales Connect per CRM {#sales-connect-customizations-for-crm}
 
-I campi e i pulsanti riportati di seguito sono creati dall’API dei metadati nel sistema CRM di Salesforce. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel CRM per esporli. Le istruzioni sono disponibili sul sito [qui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+I campi e i pulsanti riportati di seguito sono creati dall’API dei metadati nel sistema CRM di Salesforce. Una volta creati i campi, gli amministratori devono configurare i layout di pagina nel CRM per esporli. Le istruzioni sono disponibili [qui](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ I campi e i pulsanti riportati di seguito sono creati dall’API dei metadati ne
 
 ## Installare le personalizzazioni in Salesforce {#how-to-install-customizations-in-salesforce}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Sales Connect, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/one.png)
 
-1. In Impostazioni amministratore, seleziona **Salesforce**.
+1. In Impostazioni amministrazione selezionare **Salesforce**.
 
    ![](assets/two.png)
 
-1. Clic **Personalizzazioni di Marketo Sales Connect**.
+1. Fare clic su **Personalizzazioni Marketo Sales Connect**.
 
    ![](assets/three.png)
 
-1. Clic **Connetti a Salesforce**.
+1. Fare clic su **Connetti a Salesforce**.
 
    ![](assets/four.png)
 
@@ -47,21 +47,21 @@ Gli aggiornamenti al pacchetto di personalizzazione di Salesforce includeranno m
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione richieste.**
+>**Autorizzazioni amministratore richieste.**
 
-1. In [applicazione web](https://www.toutapp.com), fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;[applicazione Web](https://www.toutapp.com), fare clic sull&#39;icona ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/sales-connect-customizations-for-crm-6.png)
 
-1. In Impostazioni amministrazione, fai clic su **Salesforce**.
+1. In Impostazioni amministrazione fare clic su **Salesforce**.
 
    ![](assets/sales-connect-customizations-for-crm-7.png)
 
-1. Se sono disponibili aggiornamenti, verrà visualizzata la scheda Personalizzazione Sales Connect. Clic **Aggiorna personalizzazioni**.
+1. Se sono disponibili aggiornamenti, verrà visualizzata la scheda Personalizzazione Sales Connect. Fare clic su **Aggiorna personalizzazioni**.
 
    ![](assets/sales-connect-customizations-for-crm-8.png)
 
-1. Clic **Aggiorna**.
+1. Fai clic su **Aggiorna**.
 
    ![](assets/sales-connect-customizations-for-crm-9.png)
 
@@ -75,9 +75,9 @@ Una volta completata, sulla scheda verrà visualizzato &quot;Le personalizzazion
 
 ## Campi attività personalizzati {#custom-activity-fields}
 
-Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una compilazione unica dei dati, una nuova mappatura e una sincronizzazione continua dei valori in **nuovo** solo campi. I campi obsoleti non verranno aggiornati.
+Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una retrocompilazione unica dei dati, una nuova mappatura e una sincronizzazione continua dei valori solo nei campi **new**. I campi obsoleti non verranno aggiornati.
 
-| **Nome campo** | **Descrizione** |
+| **Nome Campo** | **Descrizione** |
 |---|---|
 | ID presenza locale chiamata MSE | Come utente puoi scegliere Presenza locale come opzione quando effettui chiamate dal telefono MSE. Le chiamate in arrivo mostreranno un numero locale per il ricevente. |
 | URL di registrazione chiamate MSE | È possibile registrare le chiamate e qui verrà registrato un collegamento per la registrazione. |
@@ -118,8 +118,8 @@ Marketo rileverà la creazione dei nuovi campi, quindi eseguirà una compilazion
    <td>Descrizione del coinvolgimento.</td> 
   </tr> 
   <tr> 
-   <td>MSE - Ultima origine del coinvolgimento marketing</td> 
-   <td>Origine del coinvolgimento marketing.</td> 
+   <td>MSE - Ultimo Source di coinvolgimento marketing</td> 
+   <td>Source del coinvolgimento nel marketing.</td> 
   </tr> 
   <tr> 
    <td colspan="1">MSE - Ultimo tipo di coinvolgimento marketing</td> 

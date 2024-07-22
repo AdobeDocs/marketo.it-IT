@@ -7,7 +7,7 @@ feature: Marketing Calendar
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -20,15 +20,15 @@ Crea una presentazione per proiettare le visualizzazioni e gli obiettivi del cal
 >
 >Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-1. Vai a **[!UICONTROL Calendario]**.
+1. Vai al **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47.png)
 
-1. Clic **[!UICONTROL Presentations]** nell’angolo in basso a destra.
+1. Fai clic su **[!UICONTROL Presentations]** nell&#39;angolo inferiore destro.
 
    ![](assets/image2015-3-18-12-3a29-3a26.png)
 
-1. Clic **[!UICONTROL Azioni di presentazione]** e seleziona **[!UICONTROL Nuova presentazione]**.
+1. Fai clic su **[!UICONTROL Azioni presentazione]** e seleziona **[!UICONTROL Nuova presentazione]**.
 
    ![](assets/image2015-3-26-12-3a38-3a6.png)
 

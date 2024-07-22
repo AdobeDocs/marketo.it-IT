@@ -18,7 +18,7 @@ ht-degree: 0%
 È facile aggiungere un’e-mail a un flusso in un programma di coinvolgimento e funziona correttamente. Tuttavia, se le tue esigenze aziendali sono più complesse, potrebbe essere utile inserire l’e-mail all’interno di un programma. Ad esempio, potrebbe essere utile:
 
 * Inviare un messaggio e-mail a un sottogruppo di persone nel flusso
-* Invia *diverso* e-mail a sottogruppi all’interno del flusso
+* Invia *diverse* e-mail ai sottogruppi all’interno del flusso
 * Includi pagine di destinazione, moduli o altre risorse nell’ambiente di sviluppo
 * Abilita attribuzione multi-touch
 * Aggiungi passaggi di flusso aggiuntivi, ad esempio e-mail di avviso
@@ -31,17 +31,17 @@ Quando si utilizza un programma nidificato, la decisione di inviare un messaggio
 * Se sei iscritto al programma, non riceverai l’e-mail
 * Se non sei più membro ma hai ricevuto l’e-mail in precedenza tramite quel programma, non riceverai l’e-mail
 
-Quando utilizzi un programma in un flusso, non importa se hai già ricevuto quell’e-mail specifica. Se l’e-mail non è stata inviata in precedenza *in tale programma specifico*, puoi riceverlo nuovamente.
+Quando utilizzi un programma in un flusso, non importa se hai già ricevuto quell’e-mail specifica. Se l&#39;e-mail non è stata inviata prima di *in tale programma specifico*, puoi riceverla nuovamente.
 
 Può ottenere e-mail e programmi di mixaggio complicati in un programma di coinvolgimento. Potrebbe essere utile usare una delle due.
 
 >[!TIP]
 >
->Assicurati di utilizzare una **Membro del programma di coinvolgimento** nell&#39;elenco avanzato.
+>Assicurati di utilizzare un filtro **Membro del programma di coinvolgimento** nell&#39;elenco avanzato.
 
 ## Cosa succede alle persone che non soddisfano i criteri della lista intelligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
-Nel caso in cui qualcuno venga escluso dall’elenco avanzato della campagna intelligente di un programma nidificato, non passa alla parte successiva del contenuto durante il cast corrente. Passeranno alla parte successiva di contenuto nel flusso per *segue* getto.
+Nel caso in cui qualcuno venga escluso dall’elenco avanzato della campagna intelligente di un programma nidificato, non passa alla parte successiva del contenuto durante il cast corrente. Passeranno al contenuto successivo nel flusso per il cast *seguente*.
 
 ## Cosa contiene un programma nidificato? {#what-does-a-nested-program-contain}
 
@@ -57,5 +57,5 @@ La generazione di rapporti sulle modifiche con la posizione dell’e-mail. Ad es
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Aggiungi contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Informazioni sui programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

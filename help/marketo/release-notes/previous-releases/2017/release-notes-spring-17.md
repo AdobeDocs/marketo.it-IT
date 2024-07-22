@@ -17,11 +17,11 @@ Le seguenti funzioni sono incluse nella versione di primavera del 17. Verifica l
 
 Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione. **Nota**: se un argomento ha più sottotitoli, i collegamenti sono posizionati lì.
 
-## [Forms linkedIn Lead Gen](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[Forms linkedIn Lead Gen](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) rappresentano un modo più diretto per un’azienda di eseguire campagne di generazione di lead su LinkedIn. Le persone possono compilare i moduli per esprimere interesse per un prodotto o un servizio, consentendo all’azienda di acquisire i dettagli della persona e sincronizzarli con Marketo, dove possono verificarsi processi di follow-up automatizzati e attività di instradamento dei lead.
+[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) è un modo più diretto per consentire a un&#39;azienda di eseguire campagne di generazione di lead su LinkedIn. Le persone possono compilare i moduli per esprimere interesse per un prodotto o un servizio, consentendo all’azienda di acquisire i dettagli della persona e sincronizzarli con Marketo, dove possono verificarsi processi di follow-up automatizzati e attività di instradamento dei lead.
 
-L’integrazione di Marketo con LinkedIn Lead Gen Forms acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Lead Gen. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo **Compila il modulo generazione lead di LinkedIn** attivare e filtrare.
+L’integrazione di Marketo con LinkedIn Lead Gen Forms acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Lead Gen. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo trigger e filtro **Compila modulo generazione lead LinkedIn**.
 
 ![](assets/release-notes-image.png)
 
@@ -41,11 +41,11 @@ Trasferisci facilmente grandi quantità di dati relativi a persone e attività d
 
 ## Miglioramenti ABM {#abm-enhancements}
 
-**[Campi personalizzati su account denominati ABM](https://docs.marketo.com/x/1wnG)**
+**[Campi personalizzati in account denominati ABM](https://docs.marketo.com/x/1wnG)**
 
 Marketo ABM ora consente di creare fino a 10 campi personalizzati sui tuoi account denominati. Puoi mappare questi campi personalizzati ai campi nell’oggetto Account CRM e Marketo ABM sincronizzerà i dati, consentendoti di estendere gli account denominati ABM e aiutarti a indirizzare il tuo marketing.
 
-**[Punteggio percentuale sui conti denominati ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
+**[Punteggio percentuale su account denominati ABM](https://docs.marketo.com/display/docs/assets/abmpercentiles.png)**
 
 I punteggi degli account denominati possono variare notevolmente. Marketo ABM ora calcola automaticamente un percentile per ciascuno dei tuoi punteggi, in modo da poter visualizzare immediatamente la posizione di ogni account denominato rispetto agli altri account denominati.
 
@@ -53,7 +53,7 @@ I punteggi degli account denominati possono variare notevolmente. Marketo ABM or
 
 Sfrutta le avanzate e affidabili integrazioni di partner ABM con supporto API avanzato per gli elenchi di account denominati.
 
-## Miglioramenti alla personalizzazione web {#web-personalization-enhancements}
+## Miglioramenti di Web Personalization {#web-personalization-enhancements}
 
 ![](assets/dialogoptions.png)
 
@@ -65,11 +65,11 @@ I nuovi effetti della campagna web offrono ai visitatori un’esperienza più pe
 * pixel raggiunti
 * scorrimento sotto la pagina
 
-**[Campagna Web all&#39;uscita](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
+**[Campagna Web All&#39;Intenzione Di Uscita](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
 Cattura l’attenzione del visitatore prima che chiuda la pagina. Imposta la visualizzazione delle campagne web personalizzate solo quando un gesto del mouse indica che il visitatore sta uscendo dalla pagina.
 
-**[Effetti di animazione per le campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Effetti animazione per campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Impostare gli effetti di animazione per la campagna Web Dialog in modo da personalizzare la modalità di visualizzazione di una campagna all&#39;immissione o all&#39;uscita dalla pagina Web. È possibile scegliere tra 6 effetti diversi e controllare la tempistica e la direzione della finestra di dialogo.
 
@@ -81,7 +81,7 @@ Personalizzare il pulsante Chiudi per le finestre di dialogo. Consente di scegli
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
-**[Archiviare campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
+**[Archivia campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
 L’archivio è un nuovo stato della campagna web che consente di archiviare le campagne web e di nasconderle dalla vista predefinita Campagna web. Questo consente di concentrarsi sulle campagne attive più rilevanti e di recuperare on-demand le campagne archiviate meno recenti.
 
@@ -89,7 +89,7 @@ L’archivio è un nuovo stato della campagna web che consente di archiviare le 
 
 **[Localizzazione](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
 
-La personalizzazione web è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
+Web Personalization è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 
 ## Miglioramenti predittivi {#predictive-enhancements}
 
@@ -97,6 +97,6 @@ La personalizzazione web è ora disponibile in tutte le lingue supportate da Mar
 
 Il contenuto predittivo è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 
-## [Obsolescenza di Editor Rich Text e Editor di moduli legacy 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Deprecazione editor Rich Text legacy ed editor di moduli 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 A partire dal 1° agosto 2017, i clienti che utilizzano ancora l’editor Rich Text e l’editor di moduli 1.0 legacy passeranno automaticamente alla nuova esperienza.

@@ -6,7 +6,7 @@ exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '140'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ Assegniamo automaticamente un&#39;origine a ogni contatto che entra nel database
 
 ## Autorizzazione {#authorization}
 
-In conformità con [RGPD](https://eugdpr.org/), utilizzare l&#39;autorizzazione per indicare in che modo è stata ricevuta l&#39;autorizzazione a interagire con questi contatti.
+In conformità con [RGPD](https://eugdpr.org/), utilizza l&#39;autorizzazione per indicare in che modo hai ricevuto l&#39;autorizzazione per interagire con questi contatti.
 
 ![](assets/authorization.png)
 

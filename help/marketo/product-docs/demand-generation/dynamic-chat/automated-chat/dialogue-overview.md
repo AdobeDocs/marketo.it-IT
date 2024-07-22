@@ -16,13 +16,13 @@ Le finestre di dialogo sono conversazioni chat individuali. In ogni finestra di 
 
 ## Criteri di audience {#audience-criteria}
 
-Il [Criteri di pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} In una sezione di una finestra di dialogo è possibile definire dove e a chi verrà visualizzata la conversazione di chat
+Nella sezione [Criteri pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"} di una finestra di dialogo puoi definire dove e a chi verrà visualizzata la conversazione in chat
 
 ![](assets/dialogue-overview-1.png)
 
 ## Designer flusso {#stream-designer}
 
-Il [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} sezione di una finestra di dialogo è la sezione in cui si progetta la conversazione che si desidera avere con i visitatori del sito web.
+Nella sezione [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} di una finestra di dialogo è possibile progettare la conversazione desiderata con i visitatori del sito Web.
 
 ![](assets/dialogue-overview-2.png)
 
@@ -64,10 +64,10 @@ Nella scheda Rapporti potrai vedere le metriche relative alle prestazioni della 
 
 È possibile disattivare (e riattivare) tutte le finestre di dialogo pubblicate contemporaneamente.
 
-1. In Dynamic Chat, fai clic su **[!UICONTROL Configurazione]** scheda.
+1. In Dynamic Chat fare clic sulla scheda **[!UICONTROL Configurazione]**.
 
    ![](assets/dialogue-overview-4.png)
 
-1. Attiva/disattiva **[!UICONTROL Chat abilitata]** disattiva per disattivare (e riattiva per riattivare) tutte le finestre di dialogo.
+1. Disattiva l&#39;opzione **[!UICONTROL Chat abilitata]** per disabilitare (e riattivare) tutte le finestre di dialogo.
 
    ![](assets/dialogue-overview-5.png)

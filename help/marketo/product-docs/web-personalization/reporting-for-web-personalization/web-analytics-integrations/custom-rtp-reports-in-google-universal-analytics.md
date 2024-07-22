@@ -6,8 +6,8 @@ exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '386'
-ht-degree: 1%
+source-wordcount: '387'
+ht-degree: 2%
 
 ---
 
@@ -28,25 +28,25 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
 1. Fai clic su **Personalizzazione** nel menu principale.
 
-1. Clic **+Nuovo report personalizzato**.
+1. Fare clic su **+Nuovo report personalizzato**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
 ## Rapporto B2B RTP {#rtp-b-b-report}
 
-1. Assegna un nome al rapporto **Rapporto B2B RTP**.
+1. Denomina il rapporto **Rapporto B2B RTP**.
 
 1. Denomina la prima scheda **Settore**.
 
 >[!NOTE]
 >
->Lo farai **Duplica questa scheda** e creane altre simili - passaggio 5)
+>**Duplicare questa scheda** e crearne altre simili - passaggio 5)
 
-1. Seleziona la **Esplora** tipo di rapporto.
+1. Selezionare il tipo di report **Explorer**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. In **Gruppi di metriche** , seleziona le metriche rilevanti per la tua azienda.
+1. Nella sezione **Gruppi di metriche**, seleziona le metriche rilevanti per la tua azienda.
 
    a. Si raccomanda quanto segue:
 
@@ -58,11 +58,11 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
    1. **Gruppo**
    1. **Categoria**
    1. **ABM**
-   1. **Organismi**
+   1. **Organizzazioni**
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. In **Espansioni Dimension** impostate le quote rilevanti per ciascuna scheda come indicato di seguito.
+1. Nella sezione **Drill down dei Dimension**, imposta le dimensioni rilevanti per ogni scheda come indicato di seguito.
 
 <table> 
  <thead> 
@@ -101,15 +101,15 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
  </tbody> 
 </table>
 
-1. Non impostare alcun filtro e imposta il report affinché sia disponibile per **Tutti i dati del sito Web** (o cambia se attinente a un account Analytics specifico).
+1. Non impostare alcun filtro e impostare questo report come disponibile per **Tutti i dati del sito Web** (o modificarlo in base all&#39;account Analytics specifico).
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
 ## Rapporto sul coinvolgimento RTP {#rtp-engagement-report}
 
-1. Assegna un nome al rapporto **Rapporto sul coinvolgimento RTP**.
+1. Denomina il report **Report di coinvolgimento RTP**.
 
 1. Impostare il nome della prima scheda su **Tutto il coinvolgimento**.
 
@@ -117,7 +117,7 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 >
 >Questa scheda verrà duplicata e ne verranno create altre simili (passaggio 5)
 
-1. Seleziona la **Esplora** tipo di rapporto.
+1. Selezionare il tipo di report **Explorer**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
@@ -131,11 +131,11 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
    1. **Coinvolgimento per settore**
    1. **Coinvolgimento per gruppo**
    1. **Coinvolgimento per categoria**
-   1. **Coinvolgimento da parte di ABM**
+   1. **Coinvolgimento da ABM**
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. In **Espansioni Dimension** impostare le dimensioni rilevanti per ciascuna scheda come indicato di seguito:
+1. Nella sezione **Drill down dei Dimension**, imposta le dimensioni rilevanti per ogni scheda come segue:
 
 <table> 
  <thead> 
@@ -219,11 +219,11 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
  </tbody> 
 </table>
 
-1. Imposta il report per renderlo disponibile per **Tutti i dati del sito Web** (o modificare, se necessario).
+1. Impostare questo report affinché sia disponibile per **Tutti i dati del sito Web** (o modificarlo se necessario).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Per sincronizzare il Marketo Engage con le istanze MD è necessario l&#39;URL del servizio organizzazione. Ecco come trovarlo in Dynamics.
 
-1. Accedi a [!DNL Dynamics]. Fai clic sull’icona Impostazioni e seleziona **[!UICONTROL Impostazioni avanzate]**.
+1. Accedi a [!DNL Dynamics]. Fai clic sull&#39;icona Impostazioni e seleziona **[!UICONTROL Impostazioni avanzate]**.
 
    ![](assets/one.png)
 
-1. Clic **[!UICONTROL Impostazioni]** e seleziona **[!UICONTROL Personalizzazioni]**.
+1. Fai clic su **[!UICONTROL Impostazioni]** e seleziona **[!UICONTROL Personalizzazioni]**.
 
    ![](assets/two.png)
 
-1. Clic **[!UICONTROL Risorse per sviluppatori]**.
+1. Fai clic su **[!UICONTROL Risorse per sviluppatori]**.
 
    ![](assets/three.png)
 
-1. L’URL del servizio organizzativo si trova in **[!UICONTROL Endpoint di servizio]**.
+1. L&#39;URL del servizio organizzazione si trova in **[!UICONTROL Endpoint servizio]**.
 
    ![](assets/four.png)
 

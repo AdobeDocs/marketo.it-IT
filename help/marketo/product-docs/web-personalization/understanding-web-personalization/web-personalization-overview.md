@@ -1,21 +1,21 @@
 ---
 unique-page-id: 3571900
-description: Panoramica sulla personalizzazione web - Documenti Marketo - Documentazione del prodotto
-title: Panoramica sulla personalizzazione web
+description: Panoramica di Web Personalization - Documentazione di Marketo - Documentazione del prodotto
+title: Panoramica di Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '833'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
 
-# Panoramica sulla personalizzazione web {#web-personalization-overview}
+# Panoramica di Web Personalization {#web-personalization-overview}
 
 ## Introduzione {#introduction}
 
-Per i nuovi clienti di Marketo, la personalizzazione in tempo reale è divisa in quattro app, a cui si accede utilizzando le due sezioni seguenti: Personalizzazione web e ContentAI.
+Per i nuovi clienti di Marketo, Real-Time Personalization è diviso in quattro app, a cui si accede utilizzando queste due tessere: Web Personalization e ContentAI.
 
 ![](assets/pasted-image-at-2016-03-23-02-45-pm.png) ![](assets/mlm-homepage-content-ai-281-29.png)
 
@@ -23,30 +23,30 @@ Per i nuovi clienti di Marketo, la personalizzazione in tempo reale è divisa in
 >
 >Web Personalization e ContentAI sono disponibili in tutte le lingue supportate da Marketo (inglese, francese, tedesco, giapponese, portoghese, spagnolo).
 
-I clienti esistenti continuano ad accedere alle app tramite il riquadro Real-Time Personalization (Personalizzazione in tempo reale) fino al rinnovo, momento in cui utilizzeranno l’accesso riportato sopra.
+I clienti esistenti continuano ad accedere alle app tramite il riquadro Real-Time Personalization fino al rinnovo, momento in cui utilizzeranno l’accesso riportato sopra.
 
 ![](assets/image2016-2-9-8-3a52-3a32.png)
 
-Quando fai clic sul riquadro Personalizzazione web, viene visualizzata la pagina Dashboard. Fai clic sul riquadro ContentAI e accedi direttamente alla pagina Recommendations dei contenuti.
+Quando si fa clic sul riquadro Personalization Web, viene visualizzata la pagina Dashboard. Fai clic sul riquadro ContentAI e accedi direttamente alla pagina Recommendations dei contenuti.
 
 Le quattro app sono:
 
-* Personalizzazione web
+* Web Personalization
 * Marketing Web basato su account
 * Retargeting di siti web
 * ContentAI
 
-Il **Personalizzazione web** tile è il tuo punto di accesso per la creazione di campagne web personalizzate. Marketing web basato su account e retargeting web. Puoi aggiungere contenuti nella pagina di analisi dei contenuti.
+Il riquadro **Web Personalization** è il punto di accesso per la creazione di campagne Web personalizzate. Marketing web basato su account e retargeting web. Puoi aggiungere contenuti nella pagina di analisi dei contenuti.
 
-**Marketing Web basato su account** funziona con la personalizzazione web e con le funzioni Account denominati. La pagina Account denominati fornisce informazioni grafiche sui clienti esistenti, sugli impegni totali e sulle tendenze organizzative, nonché un elenco degli account. Puoi anche creare nuovi account denominati.
+**Il marketing Web basato su account** funziona con Web Personalization e le funzionalità Account denominati. La pagina Account denominati fornisce informazioni grafiche sui clienti esistenti, sugli impegni totali e sulle tendenze organizzative, nonché un elenco degli account. Puoi anche creare nuovi account denominati.
 
-**Retargeting di siti web** consente di reimmettere sul mercato tipi di pubblico segmentati. Puoi impostare i segmenti, ma non utilizzare Account denominati nel filtro.
+**Il retargeting del sito Web** ti offre la possibilità di recommercializzare i tipi di pubblico segmentati. Puoi impostare i segmenti, ma non utilizzare Account denominati nel filtro.
 
 **ContentAI** è il luogo in cui fornire consigli sui contenuti. Puoi aggiungere facilmente il contenuto alla pagina Recommendations dei contenuti.
 
 >[!NOTE]
 >
->Per accedere al Web marketing basato su account o al retargeting di siti web, fai clic sul riquadro Personalizzazione web anche se non disponi dell’app Personalizzazione web.
+>Per accedere al Web marketing basato su account o al retargeting di siti Web, fai clic sul riquadro Personalization Web, anche se non disponi dell’app Personalization Web.
 
 ## Organismi {#organizations}
 
@@ -69,7 +69,7 @@ Il pannello di destra della pagina Organizations (Organizzazioni) offre le segue
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Icona Foglio di calcolo</strong>: nella parte in alto a destra del pannello, l’icona scarica la tabella Organizzazioni in formato CSV per l’utilizzo offline</p><p><strong>Imposta avviso e-mail</strong>: invia un messaggio e-mail all'utente connesso ogni volta che l'organizzazione selezionata visita il sito Web</p><p><strong>Lead</strong>: apre la tabella dei lead per l’organizzazione selezionata</p><p><strong>Condividi</strong>: apre una finestra pop-up per inviare e-mail e condividere i dettagli dell’organizzazione che ha visitato la pagina web</p><p><strong>Icona posizione</strong>: visualizza il paese e la città dell’organizzazione selezionata</p><p><strong>Collegamenti</strong>: Jigsaw, Whois, Linkedin, Google, Twitter apre una nuova finestra con informazioni aggiuntive dalla rispettiva pagina web, per approfondire ulteriormente l’organizzazione selezionata</p><p><strong>Ricerca</strong>: visualizza la parola chiave utilizzata se il visitatore è arrivato tramite un motore di ricerca</p><p><strong>Riferimenti</strong>: mostra il collegamento URL della pagina che ha indirizzato il traffico al sito</p><p><strong>Visitor</strong>: visualizza il numero di visite, il numero di pagine visualizzate dall’organizzazione selezionata e il relativo indirizzo e-mail (se ha completato un modulo di invio), nonché l’ora e la data dell’ultima visita</p><p><strong>Clickstream</strong>: visualizza una tabella dell’attività utente e del percorso URL sul sito, indicando per quanto tempo ha visitato ogni pagina.</p></td> 
+   <td><p><strong>Icona foglio di calcolo</strong>: situata nella parte superiore destra del pannello, l'icona scarica la tabella Organizations (Organizzazioni) in formato CSV per l'utilizzo offline</p><p><strong>Imposta avviso e-mail</strong>: invia un messaggio e-mail all'utente connesso ogni volta che l'organizzazione selezionata visita il sito Web</p><p><strong>Lead</strong>: apre la tabella dei lead per l'organizzazione selezionata</p><p><strong>Condividi</strong>: apre una finestra popup per inviare e-mail e condividere i dettagli dell'organizzazione che ha visitato la pagina Web</p><p><strong>Icona località</strong>: visualizza il paese e la città dell'organizzazione selezionata</p><p><strong>Collegamenti</strong>: Jigsaw, Whois, Linkedin, Google, Twitter apre una nuova finestra con informazioni aggiuntive dalla rispettiva pagina Web per approfondire ulteriormente l'organizzazione selezionata</p><p><strong>Ricerca</strong>: visualizza la parola chiave utilizzata se il visitatore è arrivato tramite un motore di ricerca</p><p><strong>Riferimenti</strong>: mostra il collegamento URL della pagina che ha indirizzato il traffico al sito</p><p><strong>Visitatori</strong>: visualizza il numero di visite, il numero di pagine visualizzate dall'organizzazione selezionata e il relativo indirizzo e-mail (se ha completato un modulo di invio) e l'ora e la data dell'ultima visita</p><p><strong>Clickstream</strong>: visualizza una tabella dell'attività utente e del percorso URL sul sito e la durata della visita a ogni pagina</p></td> 
    <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
   </tr> 
  </tbody> 

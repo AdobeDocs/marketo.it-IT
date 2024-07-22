@@ -6,8 +6,8 @@ exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 1%
+source-wordcount: '118'
+ht-degree: 0%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->* [Creare un messaggio e-mail di solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
->* [Modificare elementi in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
+>* [Crea un&#39;e-mail di solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
+>* [Modifica elementi in un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md)
 
 I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come funziona. 1. Seleziona l’e-mail e fai clic su Modifica bozza.
 
@@ -26,7 +26,7 @@ I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come
 
    ![](assets/two-8.png)
 
-1. Inserisci l’URL tra parentesi quadre, come segue: `[[www.domain.com/path/page.html]]`.
+1. Immettere l&#39;URL tra parentesi quadre, come segue: `[[www.domain.com/path/page.html]]`.
 
    ![](assets/three-8.png)
 
@@ -42,4 +42,4 @@ I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come
 >
 >Esegui il test per ricontrollare. Assicurarsi di aver inserito correttamente le parentesi.
 
-Ottimo lavoro. 
+Bel lavoro!

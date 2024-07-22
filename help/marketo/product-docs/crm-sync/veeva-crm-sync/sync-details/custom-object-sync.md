@@ -26,15 +26,15 @@ Anche gli oggetti personalizzati creati nell’istanza di CRM Veeva possono far 
 
 ## Abilita oggetto personalizzato {#enable-custom-object}
 
-1. In Marketo, fai clic su **[!UICONTROL Amministratore]**, quindi **[!UICONTROL Sincronizzazione oggetti Veeva]**.
+1. In Marketo, fai clic su **[!UICONTROL Amministratore]**, quindi su **[!UICONTROL Sincronizzazione oggetti Veeva]**.
 
    ![](assets/custom-object-sync-1.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Schema di sincronizzazione]**.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sincronizza schema]**.
 
    ![](assets/custom-object-sync-2.png)
 
-1. Clic **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Fare clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
 
    ![](assets/custom-object-sync-3.png)
 
@@ -50,23 +50,23 @@ Anche gli oggetti personalizzati creati nell’istanza di CRM Veeva possono far 
    >
    >Gli oggetti personalizzati devono avere nomi univoci. Marketo non supporta due oggetti personalizzati diversi con lo stesso nome.
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/custom-object-sync-5.png)
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]** di nuovo.
+1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/custom-object-sync-6.png)
 
-1. Torna a **[!UICONTROL Veeva]** scheda.
+1. Torna alla scheda **[!UICONTROL Veeva]**.
 
    ![](assets/custom-object-sync-7.png)
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/custom-object-sync-8.png)
 
-1. Per visualizzare tutti gli oggetti personalizzati di Veeva, fai clic su **[!UICONTROL Amministratore]** e **[!UICONTROL Sincronizzazione oggetti Veeva]**.
+1. Per visualizzare tutti gli oggetti personalizzati Veeva, fai clic su **[!UICONTROL Amministratore]** e **[!UICONTROL Sincronizzazione oggetti Veeva]**.
 
    ![](assets/custom-object-sync-9.png)
 
@@ -79,4 +79,4 @@ Eccellente! È ora possibile utilizzare i dati di questo oggetto personalizzato 
 >[!MORELIKETHIS]
 >
 >* [Sincronizzazione dei messaggi chiave di chiamata e chiamata](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
->* [Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>* [Aggiungi/Rimuovi campo oggetto personalizzato come elenco avanzato/vincoli trigger](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

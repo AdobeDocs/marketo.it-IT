@@ -23,7 +23,7 @@ Inserisci video con opzioni di condivisione social nelle pagine di destinazione.
 
    ![](assets/image2014-9-23-16-3a49-3a49.png)
 
-1. Trascina **Video** dagli elementi a destra.
+1. Trascina sopra **Video** dagli elementi a destra.
 
    ![](assets/image2014-9-23-16-3a51-3a0.png)
 
@@ -33,18 +33,18 @@ Inserisci video con opzioni di condivisione social nelle pagine di destinazione.
 
    >[!NOTE]
    >
-   >Puoi anche creare una condivisione video _all’interno di un programma_ selezionando **Nuovo** > **Nuova risorsa locale**. Puoi selezionarlo dall’elenco a discesa, come illustrato qui.
+   >Puoi anche creare una condivisione video _all&#39;interno di un programma_ selezionando **Nuovo** > **Nuova risorsa locale**. Puoi selezionarlo dall’elenco a discesa, come illustrato qui.
 
-1. Inserisci l’URL del video YouTube e assegna un nome alla condivisione video. Sotto **Clona da** selezione opzione **Nessuno** e fai clic su **Inserisci**.
+1. Inserisci l’URL del video YouTube e assegna un nome alla condivisione video. Sotto l&#39;opzione **Clona da** selezionare **Nessuno** e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-23-16-3a51-3a32.png)
 
 >[!TIP]
 >
->Per risparmiare tempo, puoi utilizzare **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
+>Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
 
-Congratulazioni! Hai aggiunto una condivisione video alla pagina di destinazione. Approva la pagina di destinazione e la condivisione video è live. È inoltre possibile [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserisci la condivisione video sul sito web](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
+Congratulazioni! Hai aggiunto una condivisione video alla pagina di destinazione. Approva la pagina di destinazione e la condivisione video è live. Puoi anche [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire la condivisione video nel tuo sito Web](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md).
 
 >[!MORELIKETHIS]
 >
->Al termine, è possibile modificare le impostazioni della condivisione video, se necessario. Inizia con [personalizzazione del flusso di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove viene visualizzato il prompt di condivisione).
+>Al termine, è possibile modificare le impostazioni della condivisione video, se necessario. Inizia con [personalizzazione del flusso di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-video-share-flow.md) (quando e dove viene aperto il prompt di condivisione).

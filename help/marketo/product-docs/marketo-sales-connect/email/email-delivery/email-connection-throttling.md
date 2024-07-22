@@ -5,7 +5,7 @@ exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -29,11 +29,11 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
 **Configurazione delle impostazioni di limitazione della connessione e-mail**
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Clic **Generale**.
+1. Fare clic su **Generale**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -45,7 +45,7 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/email-connection-throttling-5.png)
 
@@ -61,7 +61,7 @@ Aziende/Aziende
 * 30 al minuto
 * 500 destinatari per e-mail
 
-Ulteriori informazioni [si trova qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
+Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
 **Gmail**
 
@@ -69,7 +69,7 @@ Ulteriori informazioni [si trova qui](https://docs.microsoft.com/en-us/office365
 * 2 e-mail al secondo (limite API)
 * 2.000 destinatari per messaggio (massimo 500 per i destinatari esterni)
 
-Ulteriori informazioni [si trova qui](https://support.google.com/a/answer/166852?hl=en).
+Ulteriori informazioni [sono disponibili qui](https://support.google.com/a/answer/166852?hl=en).
 
 **Microsoft Exchange Server (2010, 2013)**
 

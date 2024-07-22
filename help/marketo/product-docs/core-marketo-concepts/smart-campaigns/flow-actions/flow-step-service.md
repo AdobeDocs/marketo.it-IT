@@ -5,14 +5,14 @@ exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
 source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
 workflow-type: tm+mt
-source-wordcount: '1207'
+source-wordcount: '1210'
 ht-degree: 0%
 
 ---
 
 # Servizio passaggio di flusso {#flow-step-service}
 
-Passaggi di flusso self-service è un framework e un set di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne Adobe Marketo Engage Smart. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull’authoring e la pubblicazione del servizio, consulta [Archivio GitHub per l’interfaccia Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. A Proof-of-Concept Lookup Table implementation may be found [here](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Passaggi di flusso self-service è un framework e un set di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne Adobe Marketo Engage Smart. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del proprio servizio, fare riferimento all&#39;archivio [GitHub per l&#39;interfaccia Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. È possibile trovare un&#39;implementazione della tabella di ricerca di prova [qui](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Servizi di onboarding e gestione {#onboarding-and-managing-services}
 
@@ -20,15 +20,15 @@ L’installazione di un passaggio di flusso personalizzato richiede le autorizza
 
 ## URL di installazione {#installation-url}
 
-Per iniziare l’installazione, devi prima ottenere l’URL del documento OpenAPI che definisce il servizio. Il provider di servizi dovrebbe essere in grado di fornirtelo e in genere avrà un URL che termina con `/openapi.json`. Gli URL completi avranno un aspetto simile a `https://www.example.com/OpenAPI.json`. Una volta ottenuto questo URL, vai al menu Service Providers (Fornitori di servizi) nella sezione Admin (Amministratore).
+Per iniziare l’installazione, devi prima ottenere l’URL del documento OpenAPI che definisce il servizio. Il provider di servizi dovrebbe essere in grado di fornire questa informazione e in genere avrà un URL che termina in `/openapi.json`. Gli URL completi saranno simili a `https://www.example.com/OpenAPI.json`. Una volta ottenuto questo URL, vai al menu Service Providers (Fornitori di servizi) nella sezione Admin (Amministratore).
 
-Clic **[!UICONTROL Successivo]** per passare alla sezione Immettere le credenziali del servizio.
+Fai clic su **[!UICONTROL Avanti]** per passare alla sezione Immettere le credenziali del servizio.
 
 ![](assets/flow-step-service-1.png)
 
 ## Immetti credenziali servizio {#enter-service-credentials}
 
-Per accedere al servizio da installare, Marketo deve disporre di credenziali API valide. Queste credenziali devono essere fornite dal provider di servizi. I servizi dispongono di tre diverse opzioni di autenticazione, pertanto è possibile che vengano visualizzate tre diverse richieste di credenziali: **Chiave API** che dispone di un solo campo di input, **Autenticazione di base** che richiede un nome utente e una password e che può anche richiedere un campo denominato Realm, e **OAuth2** utilizzando _Credenziali client_ concessione, che richiede _ID client_ e _Segreto client_.
+Per accedere al servizio da installare, Marketo deve disporre di credenziali API valide. Queste credenziali devono essere fornite dal provider di servizi. I servizi dispongono di tre diverse opzioni di autenticazione, pertanto è possibile che vengano visualizzati tre diversi prompt per le credenziali: **Chiave API** che dispone di un solo campo di input, **Autenticazione di base** che richiede un nome utente e una password e può inoltre richiedere un campo denominato Realm e **OAuth2** che utilizza la concessione _Credenziali client_, che richiede un _ID client_ e _Segreto client_.
 
 Quando salvi le credenziali, Marketo tenterà di chiamare l’endpoint di stato del servizio per verificarne la validità. Se le credenziali fornite non sono valide, verrà visualizzato un errore che indica che si tratta di un errore.
 
@@ -38,7 +38,7 @@ Alcuni provider di servizi includeranno un passaggio facoltativo della Guida all
 
 ## Mappatura campi {#field-mapping}
 
-Per ricevere o restituire dati da un campo lead specifico, è necessario mappare tale campo. Anche se la mappatura è un passaggio obbligatorio durante l’onboarding, puoi sempre tornare ad alterarla in un secondo momento. Esistono due tipi di mappature configurate in schermate separate: **Campi in uscita**, che vengono inviati al servizio quando Marketo richiama il passaggio di flusso e **Campi in entrata** che sono campi che possono ricevere dati dal servizio quando restituisce dati a Marketo.
+Per ricevere o restituire dati da un campo lead specifico, è necessario mappare tale campo. Anche se la mappatura è un passaggio obbligatorio durante l’onboarding, puoi sempre tornare ad alterarla in un secondo momento. Esistono due tipi di mapping configurati in schermate separate: **Campi in uscita**, che vengono inviati al servizio quando Marketo richiama il passaggio di flusso, e **Campi in ingresso**, che sono campi che possono ricevere dati dal servizio quando restituisce dati a Marketo.
 
 >[!NOTE]
 >
@@ -48,13 +48,13 @@ Le mappature di campo opzionali possono essere disattivate senza interrompere il
 
 ## Mappature basate sui servizi {#service-driven-mappings}
 
-I servizi che dispongono di un set fisso di ingressi e uscite, come un passaggio del flusso di registrazione degli eventi, utilizzano **Mappature basate sui servizi**. Per questo tipo di mappatura, il provider di servizi fornirà sia un tipo di dati che un suggerimento sotto forma di un nome API. Se l’hint corrisponde al nome API di un campo lead esistente, tale campo verrà automaticamente popolato nella sezione di mappatura. Per i campi senza un hint corrispondente, è necessario compilare manualmente la mappatura dall’elenco dei campi con il tipo di dati corrispondente. Per completare l’onboarding, è necessario compilare le mappature richieste.
+I servizi che dispongono di un set fisso di input e output, ad esempio un passaggio del flusso di registrazione degli eventi, utilizzano **Mappature basate sui servizi**. Per questo tipo di mappatura, il provider di servizi fornirà sia un tipo di dati che un suggerimento sotto forma di un nome API. Se l’hint corrisponde al nome API di un campo lead esistente, tale campo verrà automaticamente popolato nella sezione di mappatura. Per i campi senza un hint corrispondente, è necessario compilare manualmente la mappatura dall’elenco dei campi con il tipo di dati corrispondente. Per completare l’onboarding, è necessario compilare le mappature richieste.
 
 ![](assets/flow-step-service-2.png)
 
 ## Mappature guidate dall&#39;utente {#user-driven-mappings}
 
-I servizi che non hanno un set fisso di input e output, come un servizio di formattazione della data, utilizzano **Mappature guidate dall&#39;utente**. Ciò significa che ogni campo in entrata e in uscita deve essere configurato da un amministratore.
+I servizi che non hanno un set fisso di input e output, come un servizio di formattazione delle date, utilizzano **Mappature guidate dall&#39;utente**. Ciò significa che ogni campo in entrata e in uscita deve essere configurato da un amministratore.
 
 ![](assets/flow-step-service-3.png)
 
@@ -74,7 +74,7 @@ Alcuni servizi dispongono di opzioni di configurazione globale facoltative o obb
 
 ## Ritiro di un servizio {#retiring-a-service}
 
-Per facilitare la transizione a versioni nuove o alternative di un servizio, senza interrompere l’utilizzo attivo, è possibile ritirare i servizi dal menu Service Provider. **Ritiro di un servizio** rimuove il passaggio di flusso corrispondente dalla palette di flusso di Smart Campaign, in modo che non sia possibile crearne di nuovi utilizzi. Nella maggior parte dei casi, quando si sceglie di ritirare un servizio, è necessario disporre di un servizio sostitutivo pronto a sostituire quello esistente.
+Per facilitare la transizione a versioni nuove o alternative di un servizio, senza interrompere l’utilizzo attivo, è possibile ritirare i servizi dal menu Service Provider. **Se si ritira un servizio**, il passaggio di flusso corrispondente viene rimosso dalla tavolozza di flusso di Smart Campaign e non è possibile crearne di nuovi. Nella maggior parte dei casi, quando si sceglie di ritirare un servizio, è necessario disporre di un servizio sostitutivo pronto a sostituire quello esistente.
 
 ## Servizio obsoleto {#service-deprecation}
 

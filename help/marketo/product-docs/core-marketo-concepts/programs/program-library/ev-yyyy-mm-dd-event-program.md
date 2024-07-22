@@ -2,10 +2,10 @@
 description: Programma Evento EV-YYY-MM-DD - Documentazione Marketo - Documentazione del prodotto
 title: Programma Evento EV-YYY-MM-DD
 feature: Programs
-exl-id: 3688317f-228c-4fc2-accd-3e1d541525d2
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '559'
+source-wordcount: '561'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 Questo è un esempio di un programma di eventi con una pagina di registrazione, tre e-mail di invito e messaggi e-mail di follow-up che utilizzano un programma di eventi di Marketo Engage. Adatto per tutti gli eventi per i quali è necessaria la registrazione, inclusi eventi itineranti, pranzi, cene o presentazioni durante le fiere.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -29,17 +29,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Evento</td> 
    <td>01 - Invitato 
-<br/>02-In lista d’attesa
+<br/>02-In lista d'attesa
 <br/>03-Registrato
 <br/>04-Nessuno spettacolo
-<br/>05-Partecipated-Success</td>
+<br/>05-Partecipato-Riuscito</td>
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -151,7 +151,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Assets: ospita tutte le risorse creative 
+   <td>Assets - Raccoglie tutte le risorse creative 
 <br/>(sottocartelle per e-mail e pagine di destinazione)</td>
   </tr>
   <tr> 
@@ -208,8 +208,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td><code>{{my.Content-Description}}</code></td>
    <td>Doppio clic per dettagli  
 <br/><code><--My Content Description Here--></code> 
-<br/>Modifica questa descrizione del contenuto a livello di programma, nella scheda I miei token. 
-<br/>Imparerai: 
+<br/>Modificare la descrizione del contenuto a livello di programma, nella scheda I miei token. 
+<br/>Verranno fornite informazioni: 
 <li>Punto elenco 1</li>
 <li>Punto elenco 2</li>
 <li>Punto elenco 3</li></td>
@@ -299,7 +299,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 
@@ -330,7 +330,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;06 partecipanti (programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;06 partecipanti (programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che il modulo sia attivo e che le e-mail vengano inviate.
 
 >[!IMPORTANT]
 >

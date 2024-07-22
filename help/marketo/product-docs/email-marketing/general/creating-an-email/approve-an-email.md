@@ -17,19 +17,19 @@ Le e-mail iniziano in stato di bozza. In genere non sono disponibili nel sistema
 
 ## Approva tramite il menu Azioni e-mail {#approve-it-using-the-email-actions-menu}
 
-1. Trova e seleziona l’e-mail, fai clic su **Azioni e-mail** a discesa e selezionare **Approva**.
+1. Trova e seleziona l&#39;e-mail, fai clic sul menu a discesa **Azioni e-mail** e seleziona **Approva**.
 
    ![](assets/one.png)
 
 ## Approva direttamente nella struttura {#approve-it-directly-in-the-tree}
 
-1. Trova e seleziona l’e-mail, fai clic con il pulsante destro del mouse su di essa e seleziona **Approva**.
+1. Individua e seleziona l&#39;e-mail, fai clic con il pulsante destro del mouse su di essa e seleziona **Approva**.
 
    ![](assets/approveemail.png)
 
 ## Approvare l’e-mail nell’editor e-mail {#approve-your-email-in-the-email-editor}
 
-1. Nell’e-mail, fai clic su **Azioni e-mail** a discesa e selezionare **Approva e chiudi**.
+1. Nell&#39;e-mail, fai clic sul menu a discesa **Azioni e-mail** e seleziona **Approva e chiudi**.
 
    ![](assets/three.png)
 

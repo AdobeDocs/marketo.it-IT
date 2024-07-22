@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 I collegamenti nelle e-mail di abbonamento al report scadono dopo tre giorni. Per modificare l’ora di scadenza di questi collegamenti, segui la procedura riportata di seguito.
 
-1. Sotto **Amministratore**, fai clic su **Impostazioni di accesso**.
+1. In **Amministratore**, fai clic su **Impostazioni accesso**.
 
    ![](assets/image2014-9-16-14-3a44-3a57.png)
 
-1. Fai clic sul pulsante **Modifica scadenza URL** pulsante.
+1. Fai clic sul pulsante **Modifica scadenza URL**.
 
    ![](assets/image2014-9-16-14-3a45-3a1.png)
 
-1. Seleziona dal menu a discesa quanti giorni prima della scadenza del collegamento. Clic **Salva**.
+1. Seleziona dal menu a discesa quanti giorni prima della scadenza del collegamento. Fai clic su **Salva**.
 
    ![](assets/image2014-9-16-14-3a45-3a5.png)
 

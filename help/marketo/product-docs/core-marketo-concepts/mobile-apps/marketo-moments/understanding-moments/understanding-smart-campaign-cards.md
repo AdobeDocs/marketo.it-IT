@@ -6,7 +6,7 @@ exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
 source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '574'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Clic **Riepilogo e-mail**.
+1. Fai clic su **Riepilogo e-mail**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tocca [Invia esempio](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fare clic su questi collegamenti per visualizzare i dettagli).
+1. Tocca [Invia campione](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fai clic su questi collegamenti per i dettagli).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -87,7 +87,7 @@ Le schede per le campagne Smart Campaign non confermate sono grigie fino a quand
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tocca **Conferma** per terminare il lavoro, oppure **Non importa** se ha dei ripensamenti.
+1. Tocca **Conferma** per terminare il processo, oppure **Non importa** se hai dei ripensamenti.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -107,7 +107,7 @@ Puoi annullare un’esecuzione confermata e pianificata di Smart Campaign.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
-1. Tocca **Annulla esecuzione**. Se decidi all’ultimo minuto di non annullare l’esecuzione, tocca **Non importa**, e la campagna avanzata verrà eseguita come pianificato.
+1. Tocca **Annulla esecuzione**. Se all&#39;ultimo minuto decidi di non annullare l&#39;esecuzione, tocca **Non importa** e la campagna avanzata verrà eseguita come pianificato.
 
    ![](assets/image2015-9-22-14-3a41-3a26.png)
 
@@ -141,7 +141,7 @@ Come per altre schede Marketo Moments, puoi toccare i tre punti su qualsiasi sch
 
 >[!NOTE]
 >
->Puoi anche toccare il **Condividi** su una scheda di Smart Campaign da condividere e il **Fine** e **Preferito** icone nella scheda dei dettagli.
+>Tocca anche l&#39;icona **Condividi** su una scheda di Smart Campaign da condividere e le icone **Fine** e **Preferiti** sulla scheda dei dettagli.
 
 ## Eliminare rapidamente una smart card di una campagna {#quickly-delete-a-smart-campaign-card}
 

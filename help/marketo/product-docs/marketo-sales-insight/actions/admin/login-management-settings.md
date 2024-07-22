@@ -16,7 +16,7 @@ Le impostazioni di Gestione dell’accesso consentono agli amministratori di imp
 
 >[!NOTE]
 >
->Per impostazione predefinita, l&#39;opzione Solo Salesforce viene selezionata per le istanze Azioni approfondimenti vendite. Questa impostazione è consigliata in modo che gli utenti possano [accesso automatico](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) da Salesforce.
+>Per impostazione predefinita, l&#39;opzione Solo Salesforce viene selezionata per le istanze Azioni approfondimenti vendite. È consigliabile utilizzare questa impostazione in modo che gli utenti possano [accedere automaticamente](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md) da Salesforce.
 
 ## Aggiorna impostazioni gestione accesso {#update-login-management-settings}
 
@@ -26,15 +26,15 @@ Le impostazioni di Gestione dell’accesso consentono agli amministratori di imp
 
 Aggiorna le preferenze di gestione degli accessi seguendo la procedura riportata di seguito.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/login-management-settings-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/login-management-settings-2.png)
 
-1. Scorri verso il basso fino alla scheda Gestione accesso e seleziona l’impostazione desiderata (in questo esempio scegliamo Solo Salesforce). Clic **Salva** al termine.
+1. Scorri verso il basso fino alla scheda Gestione accesso e seleziona l’impostazione desiderata (in questo esempio scegliamo Solo Salesforce). Al termine, fai clic su **Salva**.
 
    ![](assets/login-management-settings-3.png)
 
@@ -44,7 +44,7 @@ Solo Salesforce significa che gli utenti possono eseguire l’autenticazione sol
 
 ### In che modo un nuovo utente alla mia istanza attiva il proprio account quando si seleziona &quot;Solo Salesforce&quot;? {#activate-when-salesforce-only-is-selected}
 
-Facendo clic su **Guida introduttiva** nel messaggio e-mail di invito, i nuovi utenti verranno inviati a una schermata di attivazione dell’account in cui verrà richiesto di collegare la loro istanza Salesforce per attivare l’account Sales Insight Actions.
+Facendo clic sul pulsante **Guida introduttiva** nell&#39;e-mail di invito, i nuovi utenti verranno inviati a una schermata di attivazione dell&#39;account in cui verrà richiesto di connettere la loro istanza Salesforce per attivare l&#39;account Sales Insight Actions.
 
 ![](assets/login-management-settings-4.png)
 

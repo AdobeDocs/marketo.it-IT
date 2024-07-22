@@ -6,7 +6,7 @@ exl-id: 09e17279-c9f5-4a12-ab07-9fce8a0e77ee
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo ti invierà rapporti sull’andamento del test e-mail. Ecco come program
 
 >[!PREREQUISITES]
 >
->[Campione/Sfidante: definizione dei criteri del campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+>[Campione/Sfidante: definizione dei criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
 
 1. Pianifichiamo l’invio del rapporto una volta alla settimana, venerdì alle 9.
 
@@ -31,11 +31,11 @@ Marketo ti invierà rapporti sull’andamento del test e-mail. Ecco come program
 
    ![](assets/image2014-9-15-13-3a13-3a7.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-15-13-3a18-3a30.png)
 
-1. Verifica che tutte le informazioni siano corrette e fai clic su **Chiudi**.
+1. Verificare che tutte le informazioni siano corrette e fare clic su **Chiudi**.
 
    ![](assets/image2014-9-15-13-3a18-3a41.png)
 
@@ -43,4 +43,4 @@ Marketo ti invierà rapporti sull’andamento del test e-mail. Ecco come program
 
    >[!MORELIKETHIS]
    >
-   >[Campione/Challenger: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+   >[Campione/Sfidante: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)

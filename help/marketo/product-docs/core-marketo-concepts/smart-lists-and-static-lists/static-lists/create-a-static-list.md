@@ -19,7 +19,7 @@ Gli elenchi statici sono un gruppo di persone già presenti nel database. Ecco c
 
    ![](assets/db.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuovo elenco]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo elenco]**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ Gli elenchi statici sono un gruppo di persone già presenti nel database. Ecco c
 
    ![](assets/three.png)
 
-   Ora è disponibile un elenco vuoto pronto per essere compilato. Scopri come aggiungere persone [qui](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
+   Ora è disponibile un elenco vuoto pronto per essere compilato. Scopri come aggiungere [persone qui](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md#ways-to-add-remove-people-from-a-list){target="_blank"}.
 
    >[!NOTE]
    >

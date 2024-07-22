@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,7 +23,7 @@ Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con
 
    ![](assets/editform-1.png)
 
-1. Fai clic su **+** firma.
+1. Fai clic sul segno **+**.
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
@@ -31,15 +31,15 @@ Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Con il **Paese** campo selezionato modifica il **Tipo di campo** a **Seleziona**.
+1. Con il campo **Paese** selezionato, cambia il **Tipo di campo** in **Seleziona**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Modifica** il **Valori** per aggiungere l’elenco dei paesi tra cui gli utenti possono scegliere.
+1. **Modifica** i **Valori** per aggiungere l&#39;elenco dei paesi tra cui gli utenti possono scegliere.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Clic **Avanzate** **Editor**.
+1. Fare clic su **Avanzate** **Editor**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con
    >
    >Puoi modificare l’elenco o utilizzarne un altro.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
@@ -77,4 +77,4 @@ Dato che è stato così facile, perché non fare di più? Come si visualizza din
 
 >[!MORELIKETHIS]
 >
->[Attivazione/disattivazione dinamica della visibilità di un campo modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)
+>[Attiva/disattiva dinamicamente la visibilità di un campo modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md)

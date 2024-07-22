@@ -23,10 +23,10 @@ Ripianificare l’esecuzione di una campagna batch? Trascinali e rilasciali nel 
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Fantastico! La campagna avanzata è stata ripianificata. L&#39;ora può anche essere modificata dalla **[!UICONTROL Data]** nei dettagli della voce.
+1. Fantastico! La campagna avanzata è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **[!UICONTROL Data]** nei dettagli della voce.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 
 >[!MORELIKETHIS]
 >
->[Riprogrammazione di un intero programma dalla vista Pianificazione](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}
+>[Riprogrammazione di un intero programma dalla visualizzazione Pianificazione](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rescheduling-an-entire-program-from-the-schedule-view.md){target="_blank"}

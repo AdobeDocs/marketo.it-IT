@@ -17,7 +17,7 @@ Crea categorie in Contenuto predittivo per raggruppare i risultati predittivi su
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Quando modifichi il contenuto individuato, aggiungi delle categorie nella schermata di modifica. Fai clic su **Categorie** e selezionarli dal menu a discesa.
+Quando modifichi il contenuto individuato, aggiungi delle categorie nella schermata di modifica. Fai clic sul campo **Categorie** e selezionale dal menu a discesa.
 
 ![](assets/two.png)
 
@@ -33,19 +33,19 @@ Ecco come creare i tag delle categorie.
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Clic **Categorie**.
+1. Fai clic su **Categorie**.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Vengono visualizzati i tag di categoria esistenti. Inserisci un nuovo tag di categoria e fai clic su **Crea nuovo**.
+1. Vengono visualizzati i tag di categoria esistenti. Immettere un nuovo tag categoria e fare clic su **Crea nuovo**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
-1. Per rimuovere un tag di categoria, fai clic su **x** accanto.
+1. Per rimuovere un tag di categoria, fai clic su **x** accanto a esso.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Clic **Salva** quando hai finito.
+1. Al termine, fai clic su **Salva**.
 
    ![](assets/save-new.png)
 

@@ -6,7 +6,7 @@ exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Il pulsante Ignora dispone di molte opzioni che consentono di configurarlo nel m
 
 Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state salvate automaticamente. Ora sei pronto a finire il lavoro.
 
-1. Per visualizzare l’anteprima del messaggio in-app, fai clic su **Azioni messaggio** a discesa e selezionare **Anteprima**.
+1. Per visualizzare l&#39;anteprima del messaggio in-app, fai clic sul menu a discesa **Azioni messaggio** e seleziona **Anteprima**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -63,7 +63,7 @@ Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state sa
 
    >[!NOTE]
    >
-   >Puoi anche selezionare **Approva e chiudi** direttamente dal menu a discesa Azioni messaggio (vedi il passaggio 1), ma perché non visualizzare prima l’anteprima del messaggio solo per sicurezza?
+   >Puoi anche selezionare **Approva e chiudi** direttamente dal menu a discesa Azioni messaggio (vedi passaggio 1), ma perché non visualizzare prima l&#39;anteprima del messaggio, solo per sicurezza?
 
 1. Per chiudere l’editor senza approvazione, è sufficiente chiudere la scheda. Viene salvato automaticamente, quindi puoi restituirlo e approvarlo in un secondo momento.
 
@@ -71,7 +71,7 @@ Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state sa
 
 Ci sono così tante scelte, ma ora hai un messaggio in-app dall&#39;aspetto fantastico, pronto per iniziare!
 
-Ora è il momento di [inviare il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
+È ora di [inviare il messaggio](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md).
 
 >[!MORELIKETHIS]
 >

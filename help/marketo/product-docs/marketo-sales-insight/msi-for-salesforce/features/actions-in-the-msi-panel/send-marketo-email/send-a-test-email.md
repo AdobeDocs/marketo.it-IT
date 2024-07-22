@@ -16,19 +16,19 @@ Prima di inviare un’e-mail, puoi testarne il formato e i token inviando un’e
 
 1. Passa al pannello Insight vendite in Salesforce di un lead o contatto.
 
-1. Clic **Invia e-mail Marketo**.
+1. Fai clic su **Invia e-mail Marketo**.
 
-1. Clic **Modifica destinatari del test**.
+1. Fare clic su **Modifica destinatari test**.
 
-1. Puoi scegliere uno o più lead dall’elenco per vedere come verranno visualizzati. Clic **Applica modifiche** al termine.
+1. Puoi scegliere uno o più lead dall’elenco per vedere come verranno visualizzati. Al termine, fai clic su **Applica modifiche**.
 
    ![](assets/send-a-test-email-1.png)
 
    >[!NOTE]
    >
-   >Come promemoria, seleziona questi lead **non** invia loro il test e-mail che ti mostra _come verrà visualizzata l’e-mail_. Se scegli quattro lead, riceverai quattro diverse e-mail di test.
+   >La selezione di questi lead **non** invia loro il test e-mail. Viene visualizzato _l&#39;aspetto dell&#39;e-mail_. Se scegli quattro lead, riceverai quattro diverse e-mail di test.
 
-1. Clic **Invia test**.
+1. Fare clic su **Invia test**.
 
 Riceverai un’e-mail con i valori dei token compilati per i lead scelti.
 

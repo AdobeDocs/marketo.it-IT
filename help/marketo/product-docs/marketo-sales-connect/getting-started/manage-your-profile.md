@@ -5,7 +5,7 @@ exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,17 @@ Nella pagina Il mio profilo puoi aggiornare il tuo nome, la lingua/lingua/fuso o
 
 Qui puoi aggiornare il tuo nome e/o la tua password.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. Per impostazione predefinita, viene aperta la pagina Il mio profilo. Per aggiornare il nome, digita le modifiche e fai clic su **Salva**.
+1. Per impostazione predefinita, viene aperta la pagina Il mio profilo. Per aggiornare il tuo nome, digita le modifiche e fai clic su **Salva**.
 
    ![](assets/manage-your-profile-2.png)
 
 >[!NOTE]
 >
->Il tuo indirizzo e-mail è impostato per essere visualizzato solo. Se è necessario modificare anche questa impostazione, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Il tuo indirizzo e-mail è impostato per essere visualizzato solo. Se è necessario modificare anche questa impostazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 È inoltre possibile modificare la password in questa sezione. I passaggi sono descritti in questo documento.
 
@@ -50,23 +50,23 @@ Ecco come modificare la lingua, la lingua e/o il fuso orario dell’account.
 >
 >Lingue supportate: inglese, francese, tedesco, giapponese, portoghese, spagnolo.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Per modificare la lingua, fare clic su **Lingua** ed effettuare la scelta.
+1. Per cambiare lingua, fai clic sull&#39;elenco a discesa **Lingua** ed effettua la tua scelta.
 
    ![](assets/manage-your-profile-5.png)
 
-1. La lingua si riferisce alla regione in cui si parla quella lingua. Fai clic su **Lingua** ed effettuare la scelta.
+1. La lingua si riferisce alla regione in cui si parla quella lingua. Fai clic sul menu a discesa **Impostazioni internazionali** e seleziona un&#39;opzione.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Fai clic su **Fuso orario** ed effettuare la scelta.
+1. Fai clic sul menu a discesa **Fuso orario** e compila la tua scelta.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Clic **Salva** al termine.
+1. Al termine, fai clic su **Salva**.
 
    ![](assets/manage-your-profile-8.png)
 

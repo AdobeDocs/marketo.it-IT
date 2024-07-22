@@ -17,11 +17,11 @@ Dopo aver creato l’annuncio lead, devi testarlo. Ecco come farlo sul desktop.
 
 >[!PREREQUISITES]
 >
->Devi [Configurare l’integrazione dei lead Ads di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>È necessario [configurare l&#39;integrazione di Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 1. In Facebook Power Editor, selezionare una campagna, un annuncio e fare clic su **Modifica**.
 
-1. Sotto **Collegamenti**, fare clic su **Visualizza in Feed notizie** collegamento.
+1. In **Collegamenti**, fare clic sul collegamento **Visualizza in Feed notizie**.
 
    ![](assets/image2016-5-13-14-3a35-3a36.png)
 
@@ -33,7 +33,7 @@ Dopo aver creato l’annuncio lead, devi testarlo. Ecco come farlo sul desktop.
    >
    >Questo è solo un esempio, che utilizza un Invito all’azione Ulteriori informazioni. L&#39;invito all&#39;azione dell&#39;unità dell&#39;annuncio lead potrebbe essere diverso.
 
-1. Inviare l&#39;unità di prova dell&#39;annuncio lead compilando il modulo sul desktop. Clic **Invia**.
+1. Inviare l&#39;unità di prova dell&#39;annuncio lead compilando il modulo sul desktop. Fai clic su **Invia**.
 
    ![](assets/image2016-5-13-14-3a47-3a43.png)
 
@@ -41,11 +41,11 @@ Dopo aver creato l’annuncio lead, devi testarlo. Ecco come farlo sul desktop.
 
    ![](assets/image2016-5-13-14-3a52-3a57.png)
 
-1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [creare un elenco avanzato in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) come parte di un programma o nel database che utilizza il filtro Modulo annunci lead Facebook compilato. Inserisci il nome del modulo annuncio lead del modulo appena inviato.
+1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [crea un elenco smart in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) come parte di un programma o nel database che utilizza il filtro Modulo lead Ads di Facebook compilato. Inserisci il nome del modulo annuncio lead del modulo appena inviato.
 
    ![](assets/image2016-3-11-8-3a59-3a34-1.png)
 
-1. Ora fai clic su **Persone** per verificare che la sincronizzazione funzioni correttamente.
+1. Ora fai clic sulla scheda **Persone** per verificare che la sincronizzazione funzioni correttamente.
 
    ![](assets/people.png)
 

@@ -17,11 +17,11 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
 >[!PREREQUISITES]
 >
->[Aggiungi un Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
 ## Criteri campione standard {#standard-champion-criteria}
 
-1. Scegli una delle opzioni disponibili **Criteri campione**.
+1. Scegli uno dei **Criteri campione** disponibili.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -29,11 +29,11 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
    >
    >Traccieremo questa metrica e ti invieremo un rapporto con i dati per e-mail.
 
-1. Se è stato selezionato uno dei valori predefiniti **Criteri campione**, procedi e passa a [Champion/Challenger: configurare gli avvisi dei rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
+1. Se hai scelto uno dei **Criteri campione** predefiniti, passa a [Campione/Sfidante: configura avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)!
 
 ## Criterio Campione Personalizzato {#custom-champion-criteria}
 
-1. Se desideri ottenere fantasia, puoi andare personalizzato selezionando **Conversione personalizzata** e clic **Modifica**.
+1. Se vuoi aggiungere un tocco di fantasia, puoi personalizzare selezionando **Conversione personalizzata** e facendo clic su **Modifica**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -59,4 +59,4 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
    >[!MORELIKETHIS]
    >
-   >[Champion/Challenger: configurare gli avvisi dei rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+   >[Campione/Sfidante: configurazione avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver abilitato gli annunci lead di Facebook, puoi utilizzarli nelle campagne avanzate per verificare il successo del programma. Quando le persone inviano le proprie informazioni in un’unità Facebook Lead Ad, queste vengono inviate immediatamente a Marketo.
 
-1. Utilizza il **Compila il modulo per gli annunci di lead** filtro o trigger.
+1. Utilizza il filtro o il trigger **Compila modulo annunci lead**.
 
    ![](assets/image2016-8-5-11-3a18-3a31.png)
 

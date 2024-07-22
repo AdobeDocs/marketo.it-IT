@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione richieste.**
+>**Autorizzazioni amministratore richieste.**
 
 Una volta acquistata Sales Connect, nell’istanza Marketo verrà visualizzata una nuova pagina di integrazione. Utilizzare questa pagina per invitare il primo utente ed eseguire il provisioning della relativa istanza di Sales Connect.
 
@@ -22,11 +22,11 @@ Una volta acquistata Sales Connect, nell’istanza Marketo verrà visualizzata u
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Clic **Sales Connect**.
+1. Fai clic su **Sales Connect**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Seleziona da un elenco di amministratori Marketo da invitare e fai clic su **Invia invito**.
+1. Selezionare da un elenco di amministratori di Marketo da invitare e fare clic su **Invia invito**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 

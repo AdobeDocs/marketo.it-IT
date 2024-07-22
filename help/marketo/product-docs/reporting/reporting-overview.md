@@ -16,15 +16,15 @@ Marketo offre una varietà di moduli di reporting per diverse esigenze.
 
 ## Reporting di base {#basic-reporting}
 
-È possibile impostare [report di base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} all’interno di programmi o nell’area Analytics. I report di base sono costituiti da diversi tipi di report preconfigurati con la flessibilità di filtrare, ordinare e regolare i periodi di tempo.
+Puoi impostare [report di base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} all&#39;interno di programmi o nell&#39;area Analytics. I report di base sono costituiti da diversi tipi di report preconfigurati con la flessibilità di filtrare, ordinare e regolare i periodi di tempo.
 
 ## Email Insights {#email-insights}
 
-Utilizzare Analytics e Sends per ottenere [approfondimenti efficaci](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} nelle e-mail da dati storici.
+Utilizza Analytics e Sends per ottenere [informazioni importanti](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sulle e-mail dai dati storici.
 
 ## Informazioni sulle prestazioni {#performance-insights}
 
-[Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} descrive le prestazioni del canale e del programma per coinvolgimento, pipeline e generazione di ricavi.
+[Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} tratta le prestazioni del canale e del programma per coinvolgimento, pipeline e generazione di ricavi.
 
 ## Reporting avanzato di BI Analytics {#advanced-bi-analytics-reporting}
 

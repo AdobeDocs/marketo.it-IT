@@ -6,7 +6,7 @@ exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 >[!NOTE]
 >
->Per calcolare i punteggi dei conti, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead per i punteggi degli account. Ad esempio, prendiamo due degli esempi precedenti (_Punteggio interesse prodotto account_ e _Punteggio di coinvolgimento web dell’account_).
+>Per calcolare i punteggi dei conti, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead per i punteggi degli account. Ad esempio, verranno utilizzati due degli esempi precedenti (_Punteggio interesse prodotto account_ e _Punteggio coinvolgimento Web account_).
 >
 >Innanzitutto, crea dei campi di valutazione del lead che acquisiscono dettagli rilevanti da ciascun lead di un account target.\
 >Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:\
@@ -57,30 +57,30 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 Dopo aver configurato il punteggio del lead, procedi seguendo i passaggi seguenti.
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/account-score-1.png)
 
-1. Clic **Gestione account di destinazione**.
+1. Fare clic su **Gestione account di destinazione**.
 
    ![](assets/account-score-2.png)
 
-1. In Campi punteggio, fai clic su **Modifica**.
+1. In Campi punteggio fare clic su **Modifica**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Puoi scegliere fino a **cinque** campi per calcolare il Punteggio conto.
+   >Puoi scegliere fino a **cinque** campi per calcolare il punteggio dell&#39;account.
 
-1. Inserisci il nome del Punteggio account, fai clic su **Seleziona punteggio persona** e selezionare il punteggio corrispondente.
+1. Immettere il nome del punteggio dell&#39;account, fare clic sull&#39;elenco a discesa **Seleziona punteggio persona** e selezionare il punteggio corrispondente.
 
    ![](assets/account-score-4.png)
 
-1. Clic **+Aggiungi** per aggiungere altri punteggi.
+1. Fai clic su **+Aggiungi** per aggiungere altri punteggi.
 
    ![](assets/account-score-5.png)
 
-1. Aggiungi tutti i punteggi desiderati. Clic **Salva** al termine.
+1. Aggiungi tutti i punteggi desiderati. Al termine, fai clic su **Salva**.
 
    ![](assets/account-score-6.png)

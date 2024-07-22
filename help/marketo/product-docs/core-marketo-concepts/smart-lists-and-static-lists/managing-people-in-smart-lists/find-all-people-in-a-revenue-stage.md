@@ -19,23 +19,23 @@ ht-degree: 0%
 
 ## Trova tutti i membri di una fase di retribuzione specifica {#find-all-members-of-a-specific-revenue-stage}
 
-1. In un elenco avanzato, fai clic su **[!UICONTROL Elenco avanzato]** , trova il **[!UICONTROL Fase ricavi]** e trascinarlo nell’area di lavoro.
+1. In un elenco avanzato, fai clic sulla scheda **[!UICONTROL Elenco avanzato]**, individua il filtro **[!UICONTROL Fase ricavi]** e trascinalo nell&#39;area di lavoro.
 
    ![](assets/draginrevenuefilter.png)
 
-1. Seleziona un **[!UICONTROL Fase ricavi]**.
+1. Seleziona una **[!UICONTROL Fase ricavi]**.
 
    ![](assets/two.jpg)
 
-1. Vai a **[!UICONTROL Persone]** per visualizzare i risultati.
+1. Passa alla scheda **[!UICONTROL Persone]** per visualizzare i risultati.
 
    ![](assets/peopleresults.jpg)
 
 ## Eseguire un passaggio di flusso sui membri di una fase dei ricavi {#run-a-flow-step-on-the-members-of-a-revenue-stage}
 
-Ora che sai quali persone si trovano in determinate fasi del fatturato, puoi commercializzare direttamente con loro. Oltre a scegliere **[!UICONTROL Fase ricavi]** In qualità di filtro per elenchi avanzati, puoi anche sceglierlo come filtro &quot;if&quot; nel flusso.
+Ora che sai quali persone si trovano in determinate fasi del fatturato, puoi commercializzare direttamente con loro. Oltre a scegliere **[!UICONTROL Revenue Stage]** come filtro elenco avanzato, è possibile sceglierlo anche come filtro &quot;if&quot; nel flusso.
 
-1. Nel passaggio desiderato, fai clic su **[!UICONTROL Aggiungi scelta]** e seleziona **[!UICONTROL Fase ricavi]** dal menu a discesa.
+1. Nel passaggio di flusso desiderato, fai clic su **[!UICONTROL Aggiungi scelta]** e seleziona **[!UICONTROL Fase ricavi]** dal menu a discesa.
 
    ![](assets/six.png)
 

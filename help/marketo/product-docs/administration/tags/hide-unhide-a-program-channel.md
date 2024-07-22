@@ -21,19 +21,19 @@ ht-degree: 0%
 
 ## Nascondere un canale programma {#hide-a-program-channel}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. Clic **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tag]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Canale]** e selezionare il **[!UICONTROL Canale]** per nascondere.
+1. Fai clic sul menu a discesa **[!UICONTROL Canale]** e seleziona il **[!UICONTROL Canale]** da nascondere.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. Sotto **[!UICONTROL Azioni tag]**, fai clic su **[!UICONTROL Nascondi]**.
+1. In **[!UICONTROL Azioni tag]**, fai clic su **[!UICONTROL Nascondi]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 

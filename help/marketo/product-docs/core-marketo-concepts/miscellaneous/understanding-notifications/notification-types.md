@@ -46,7 +46,7 @@ Se tenti di inviare persone a Facebook senza accettare i termini di servizio o s
 
 ## Pulizia campagna attivazione inattività {#idle-trigger-campaign-cleanup}
 
-Disattiva le campagne intelligenti attivate che non ricevono più alcuna attività. Ulteriori informazioni su  [pulizia automatica delle campagne trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
+Disattiva le campagne intelligenti attivate che non ricevono più alcuna attività. Ulteriori informazioni sulla [pulizia automatica delle campagne di attivazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md).
 
 ## LinkedIn {#linkedin}
 
@@ -60,4 +60,4 @@ Riceverai una notifica quando raggiungerai la tua quota giornaliera. La quota vi
 
 >[!NOTE]
 >
->Alcuni dei codici di errore che potresti ricevere sono descritti nel nostro [Documentazione per gli sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).
+>Alcuni dei codici di errore che potresti ricevere sono descritti nella [Documentazione per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

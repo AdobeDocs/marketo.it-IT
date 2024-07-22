@@ -6,7 +6,7 @@ exl-id: 358b2737-52de-4d3b-a6e8-3254a8123359
 feature: Marketo Sales Insights
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Per iniziare a utilizzare il potente componente aggiuntivo Chrome, segui la proc
 >
 >Le funzionalità delle azioni di approfondimento delle vendite, tra cui Invia e-mail alle vendite, Aggiungi a campagna di vendita e Attività, non sono disponibili nei plug-in e-mail di approfondimento delle vendite per Gmail e Outlook. Al momento, gli utenti possono inviare un’e-mail tracciabile solo con o senza un modello e-mail di Marketo dal proprio client e-mail quando utilizzano i plug-in e-mail di Sales Insight.
 
-1. Installare [Estensione Marketo Insights for Google Chrome Add in](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} dal Chrome Web Store.
+1. Installa l&#39;estensione [Marketo Insights for Google Chrome Add in](https://chrome.google.com/webstore/detail/marketo-for-google-mail/jjkfbhajlmoeegbjgjipliamplidmbjb){target="_blank"} da Chrome Web Store.
 
    ![](assets/image2015-10-5-10-3a24-3a7.png)
 
@@ -27,19 +27,19 @@ Per iniziare a utilizzare il potente componente aggiuntivo Chrome, segui la proc
 
    ![](assets/two.png)
 
-1. Immetti il **Codice reg**, **Indirizzo e-mail**, **Nome**, e **Cognome**. Clic **Verifica e salva**.
+1. Immetti **Codice registro**, **Indirizzo e-mail**, **Nome** e **Cognome**. Fare clic su **Verifica e salva**.
 
    ![](assets/three.png)
 
    >[!CAUTION]
    >
-   >Assicurati di utilizzare **account e-mail principale** durante la registrazione, in quanto non è supportato l’utilizzo di alias per questo plug-in.
+   >Assicurati di utilizzare il tuo **account e-mail principale** durante la registrazione, in quanto non è supportato l&#39;utilizzo di alias per questo plug-in.
 
    >[!NOTE]
    >
-   >Il codice Reg sarà presente nell’e-mail inviata dopo che un amministratore di Marketo [ti rilascia una licenza di Marketo Email Add-in](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Scade dopo 14 giorni**.
+   >Il codice Reg sarà presente nell&#39;e-mail inviata dopo che un amministratore di Marketo [ti avrà rilasciato una licenza per il componente aggiuntivo e-mail di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md){target="_blank"}. **Scade dopo 14 giorni**.
 
-1. Clic **Consenti** per consentire l&#39;accesso offline.
+1. Fare clic su **Consenti** per consentire l&#39;accesso offline.
 
    ![](assets/image2015-10-5-10-3a34-3a1.png)
 

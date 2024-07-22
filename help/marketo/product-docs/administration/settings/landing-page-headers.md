@@ -18,15 +18,15 @@ Segui i passaggi seguenti per personalizzare alcune delle intestazioni HTTP nei 
 
    ![](assets/landing-page-headers-1.png)
 
-1. Clic **[!UICONTROL Pagine di destinazione]**.
+1. Fai clic su **[!UICONTROL Pagine di destinazione]**.
 
    ![](assets/landing-page-headers-2.png)
 
-1. Clic **[!UICONTROL Modifica]** accanto a Intestazioni HTTP della pagina di destinazione.
+1. Fai clic su **[!UICONTROL Modifica]** accanto a Intestazioni HTTP della pagina di destinazione.
 
    ![](assets/landing-page-headers-3.png)
 
-1. Scegli le impostazioni desiderate e fai clic su **[!UICONTROL Salva]** al termine.
+1. Scegli le impostazioni desiderate e al termine fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/landing-page-headers-4.png)
 

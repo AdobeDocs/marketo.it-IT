@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Creazione di contatti {#creating-contacts}
 
-1. Nella pagina Persone, fai clic su **Azioni gruppo** e seleziona **Crea contatto**.
+1. Nella pagina Persone fare clic sul pulsante **Azioni gruppo** e selezionare **Crea contatto**.
 
    ![](assets/one-2.png)
 
-1. Immetti nome/cognome e indirizzo e-mail, insieme a eventuali altre informazioni desiderate. Clic **Crea** al termine, oppure **Crea e aggiungi nuovo** per aggiungere altri contatti.
+1. Immetti nome/cognome e indirizzo e-mail, insieme a eventuali altre informazioni desiderate. Al termine, fai clic su **Crea** oppure su **Crea e aggiungi nuovo** per aggiungere altri contatti.
 
    ![](assets/two-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Per eliminare più contatti, è sufficiente selezionare più persone. I passaggi rimanenti sarebbero gli stessi.
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
 
    ![](assets/four-2.png)
 
-1. Clic **Elimina contatto** per confermare.
+1. Fai clic su **Elimina contatto** per confermare.
 
    ![](assets/five-2.png)

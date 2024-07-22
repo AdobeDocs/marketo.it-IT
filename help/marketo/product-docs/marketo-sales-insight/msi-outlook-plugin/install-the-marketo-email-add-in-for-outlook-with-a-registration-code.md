@@ -6,7 +6,7 @@ exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '532'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
 
 >[!PREREQUISITES]
 >
->Devi essere [ha emesso una licenza di Marketo Email Add-in](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
+>È necessario [emettere una licenza di Marketo Email Add-in](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/issue-a-marketo-email-add-in-license.md).
 
 >[!IMPORTANT]
 >
@@ -31,7 +31,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
 
 ## Scarica programma di installazione {#download-installer}
 
-1. Identificare [Versione di Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
+1. Identifica la tua [versione di Microsoft Outlook](https://support.office.com/en-us/article/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c){target="_blank"}
 
 1. Fare clic sul collegamento per scaricare il programma di installazione appropriato per la versione di Microsoft Outlook in uso.
 
@@ -56,7 +56,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
 
    >[!IMPORTANT]
    >
-   >Microsoft ha rilasciato un [nuova versione di Outlook per Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+   >Microsoft ha rilasciato una [nuova versione di Outlook per Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Questa nuova versione non supporta il plug-in di Outlook MSI esistente. Il plug-in MSI Outlook continuerà a funzionare per i desktop Windows che eseguono la versione classica di Outlook. Per ulteriori informazioni sul nuovo Outlook per Windows per le organizzazioni, [fare clic qui](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 ## Copia il codice di registrazione {#copy-your-registration-code}
 
@@ -78,11 +78,11 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
    >
    >Se ricevi un avviso di sicurezza, non preoccuparti! Fai clic su **Esegui**.
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Compila **Nome**, **Cognome**, **Indirizzo e-mail**, quindi copia e incolla il **Codice di registrazione** dall’e-mail al modulo e fai clic su **Successivo**.
+1. Compila **Nome**, **Cognome**, **Indirizzo e-mail**, quindi copia e incolla il **Codice di registrazione** dall&#39;e-mail nel modulo e fai clic su **Avanti**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -90,19 +90,19 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
    >
    >Se l&#39;installazione non riesce, rivolgiti al reparto IT per verificare che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l&#39;apertura del traffico HTTPS.
 
-1. Clic **Successivo** per eseguire l&#39;installazione nel percorso predefinito.
+1. Fai clic su **Avanti** per eseguire l&#39;installazione nel percorso predefinito.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Se ricevi una richiesta di sicurezza relativa a un editore sconosciuto, fai clic su **Sì**.
+   >Se ricevi una richiesta di sicurezza su un editore sconosciuto, fai clic su **Sì**.
 
-1. L&#39;installazione è stata completata, fare clic su **Chiudi**.
+1. Installazione completata. Fare clic su **Chiudi**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
@@ -116,5 +116,5 @@ Ulteriori informazioni sull&#39;utilizzo delle azioni Messaggio di Marketo e Reg
 
 >[!MORELIKETHIS]
 >
->* [Inviare e tenere traccia di un messaggio e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
->* [Inviare e tenere traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md){target="_blank"}
+>* [Invia e tieni traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md){target="_blank"}

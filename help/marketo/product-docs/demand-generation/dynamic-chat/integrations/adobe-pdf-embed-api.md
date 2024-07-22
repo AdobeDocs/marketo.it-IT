@@ -14,9 +14,9 @@ ht-degree: 5%
 
 La scheda Documento consente di incorporare documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti. Ecco come configurarlo.
 
-1. Accedi a [API di incorporamento Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
+1. Passa a [API di incorporamento Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
-1. Clic **[!UICONTROL Ottieni credenziali]**.
+1. Fare clic su **[!UICONTROL Ottieni credenziali]**.
 
    ![](assets/adobe-pdf-embed-api-1.png)
 
@@ -24,7 +24,7 @@ La scheda Documento consente di incorporare documenti PDF nelle finestre di dial
 
    ![](assets/adobe-pdf-embed-api-2.png)
 
-1. Immetti le credenziali, accetta i termini e fai clic su **[!UICONTROL Crea credenziali]**.
+1. Immettere le credenziali, accettare i termini e fare clic su **[!UICONTROL Crea credenziali]**.
 
    ![](assets/adobe-pdf-embed-api-3.png)
 
@@ -32,7 +32,7 @@ La scheda Documento consente di incorporare documenti PDF nelle finestre di dial
    >
    >Dovrai utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, assicurati di immetterlo nel passaggio 4).
 
-1. Clic **[!UICONTROL Copia]** per copiare l&#39;ID client.
+1. Fai clic su **[!UICONTROL Copia]** per copiare l&#39;ID client.
 
    ![](assets/adobe-pdf-embed-api-4.png)
 
@@ -40,8 +40,8 @@ La scheda Documento consente di incorporare documenti PDF nelle finestre di dial
 
    ![](assets/adobe-pdf-embed-api-5.png)
 
-1. Incolla [!UICONTROL ID client] e fai clic su **[!UICONTROL Salva]**.
+1. Incolla il tuo [!UICONTROL ID client] e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/adobe-pdf-embed-api-6.png)
 
-È ora possibile utilizzare la scheda Documento nelle finestre di dialogo&#39; [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}!
+È ora possibile utilizzare la scheda Documento nelle [finestre di dialogo Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.

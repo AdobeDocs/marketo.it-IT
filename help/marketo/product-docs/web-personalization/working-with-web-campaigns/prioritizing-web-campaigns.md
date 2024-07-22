@@ -6,7 +6,7 @@ exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '174'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Imposta un punteggio di priorità per assegnare la priorità alle campagne web q
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna Web desiderata, utilizza [funzione filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Per semplificare la ricerca della campagna Web desiderata, utilizzare la funzionalità [filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Nella pagina Modifica campagna, imposta il punteggio di priorità (9999 = Priorità più alta 1 = Priorità più bassa).
 

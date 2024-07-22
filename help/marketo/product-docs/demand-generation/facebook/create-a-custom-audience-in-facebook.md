@@ -6,7 +6,7 @@ exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} nella sezione Amministratore.
->* [Accettare i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account Facebook.
+>* [Accetta i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account Facebook.
 
 >[!TIP]
 >
@@ -26,15 +26,15 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Seleziona la **Lead** , quindi fare clic sul pulsante **Invia tramite Ad Bridge** nella parte inferiore.
+1. Seleziona la scheda **Lead**, quindi fai clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Seleziona **Facebook** e fai clic su **Successivo**.
+1. Seleziona **Facebook** e fai clic su **Avanti**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Fai clic su **Pubblico** a discesa e selezionare **+ Nuovo pubblico**.
+1. Fai clic sul menu a discesa **Pubblico** e seleziona **+ Nuovo pubblico**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,7 +42,7 @@ ht-degree: 0%
    >
    >L’API Facebook consente fino a 500 tipi di pubblico personalizzati per account annuncio Facebook.
 
-1. Digita in un **Nome pubblico**. Clic **Aggiorna**.
+1. Digita un **Nome pubblico**. Fai clic su **Aggiorna**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
@@ -52,13 +52,13 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Vuoi scambiare un nuovo pubblico con uno esistente attualmente associato a un set di annunci o a un gruppo? Seleziona la **Sostituire un pubblico esistente** casella di controllo. Per eseguire questa operazione **non** elimina il pubblico da sostituire.
+   >Vuoi scambiare un nuovo pubblico con uno esistente attualmente associato a un set di annunci o a un gruppo? Selezionare la casella di controllo **Sostituisci un pubblico esistente**. In questo modo **non** verrà eliminato il pubblico da sostituire.
 
 1. Al termine, la finestra di dialogo di stato viene aggiornata.
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Ed è tutto! In Facebook il nuovo pubblico sarà visibile in **Gestione annunci** > **Tipi di pubblico**.
+   Ed è tutto! In Facebook il nuovo pubblico verrà visualizzato in **Ads Manager** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
@@ -68,8 +68,8 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Consulta la [Percorso di apprendimento facebook per i clienti Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Copre tutto ciò che devi sapere, dalla creazione di una pagina Facebook al targeting degli annunci Facebook utilizzando le integrazioni di rete di annunci Marketo.
+   >Consulta il percorso di apprendimento di [Facebook per i clienti Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Copre tutto ciò che devi sapere, dalla creazione di una pagina Facebook al targeting degli annunci Facebook utilizzando le integrazioni di rete di annunci Marketo.
 
    >[!MORELIKETHIS]
    >
-   >[Aggiungere lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Aggiungi lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

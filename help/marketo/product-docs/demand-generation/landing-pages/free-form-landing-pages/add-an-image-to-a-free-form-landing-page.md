@@ -15,13 +15,13 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->[Aggiungere immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>[Aggiungi immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
 1. Seleziona la pagina di destinazione in formato libero e fai clic su **Modifica** **Bozza**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Nell’editor, trascina il puntatore del mouse su **Immagine** elemento.
+1. Nell&#39;editor, trascina sull&#39;elemento **Image**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Clic **Inserisci**.
+1. Fare clic su **Inserisci**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

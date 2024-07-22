@@ -19,11 +19,11 @@ Gli amministratori SEO (Search Engine Optimization) potranno scegliere l’area 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** sezione.
+1. Vai alla sezione **[!UICONTROL Amministratore]**.
 
 ![](assets/image2014-9-17-21-3a6-3a43.png)
 
-1. Fai clic su **[!UICONTROL Motori di ricerca]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Motori di ricerca]**.
 
    ![](assets/image2014-9-17-21-3a7-3a25.png)
 
@@ -41,5 +41,5 @@ Ottimo lavoro. Ora vedrai le classifiche delle parole chiave per il paese o la c
 
 >[!MORELIKETHIS]
 >
->* [Informazioni sulla dashboard: istantanea SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
->* [Informazioni sulla dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}
+>* [Informazioni sul dashboard: snapshot SEO](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md){target="_blank"}
+>* [Informazioni sul dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md){target="_blank"}

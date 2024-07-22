@@ -19,4 +19,4 @@ Esamina le attività web più recenti del lead, citando il conteggio delle visit
 
 ## Attività Web anonime {#anonymous-web-activities}
 
-La scheda Attività Web anonime mostra tutto **anonimo** attività web dei visitatori delle pagine web. Esamina le attività web più recenti citando il conteggio delle visite alla pagina.
+La scheda Attività Web anonime mostra tutte le **attività Web anonime** dei visitatori delle pagine Web. Esamina le attività web più recenti citando il conteggio delle visite alla pagina.

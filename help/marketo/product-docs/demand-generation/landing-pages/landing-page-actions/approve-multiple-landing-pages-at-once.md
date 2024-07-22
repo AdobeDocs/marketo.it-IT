@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-17-11-3a35-3a5.png)
 
-1. Clic **Pagine di destinazione**.
+1. Fai clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-17-11-3a35-3a11.png)
 

@@ -27,7 +27,7 @@ A volte è meglio non inviare più i moduli tramite un profilo social. Ecco come
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. In Impostazioni modulo fai clic su **Impostazioni**.
+1. In Impostazioni modulo fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -35,11 +35,11 @@ A volte è meglio non inviare più i moduli tramite un profilo social. Ecco come
 
    ![](assets/image2016-4-28-16-3a49-3a23.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

@@ -6,7 +6,7 @@ exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -45,15 +45,15 @@ La tabella Analytics fornisce i seguenti dettagli:
  <tbody> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Titolo</strong></td> 
-   <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Clic <strong>Titolo</strong> per aprire l’URL del contenuto in una nuova scheda.</td> 
+   <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Fai clic su <strong>Titolo</strong> per aprire l'URL del contenuto in una nuova scheda.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Consiglio </strong><strong>Icona</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
-   <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Recommendations dei contenuti</a>.</td> 
+   <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Visualizzazioni</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Il numero di visualizzazioni dalla risorsa del contenuto provenienti dai visitatori web. Il numero di volte in cui è stato visualizzato, aperto, guardato o scaricato. Fai clic sul numero di nella colonna Visualizzazioni per espandere e vedere chi ha visualizzato il contenuto</p></td> 
+   <td colspan="1" rowspan="1"><p>Il numero di visualizzazioni dalla risorsa contenuto da parte dei visitatori web. Il numero di volte in cui è stato visualizzato, aperto, guardato o scaricato. Fai clic sul numero di nella colonna Visualizzazioni per espandere e vedere chi ha visualizzato il contenuto</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Conversioni dirette</strong></td> 
@@ -84,13 +84,13 @@ L’analisi aggiuntiva dei contenuti include:
 
 **Analytics**
 
-* **Visualizzazioni**: visualizzazioni del contenuto per l’ambito temporale selezionato
-* **Conversioni dirette**: visitatori web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
+* **Visualizzazioni**: visualizzazioni di quel contenuto per l&#39;ambito temporale selezionato
+* **Conversioni dirette**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
 * **Tasso di conversione****:** Tasso di conversione percentuale calcolato per le conversioni dirette diviso per i clic
 
 **Tendenze**
 
-* A **Tendenze** grafico che mostra gli ultimi 30 giorni di visualizzazioni del contenuto specifico. Passa il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni di contenuto da un giorno specifico
+* Un grafico **Tendenze** che mostra gli ultimi 30 giorni di visualizzazioni del contenuto specifico. Passa il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni di contenuto da un giorno specifico
 
 ## Elimina contenuto {#delete-content}
 
@@ -100,5 +100,5 @@ Dalla pagina Analisi del contenuto, fai clic sull’icona Elimina del contenuto 
 
 >[!MORELIKETHIS]
 >
->* [Abilitare la barra dei consigli dei contenuti](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
->* [Abilitare il contenuto predittivo per i contenuti rich media web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>* [Attiva la barra dei contenuti](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+>* [Abilita contenuto predittivo per contenuti multimediali avanzati Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

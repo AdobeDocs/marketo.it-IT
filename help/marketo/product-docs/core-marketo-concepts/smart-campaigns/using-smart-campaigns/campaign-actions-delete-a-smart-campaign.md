@@ -19,19 +19,19 @@ Se disponi di una vecchia campagna avanzata di cui non hai più bisogno, puoi el
 >
 >Assicurati di aver eliminato. Una volta eliminata, una campagna avanzata non può essere ripristinata.
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-1.png)
 
-1. Passa a Smart Campaign inattiva. In **[!UICONTROL Azioni campagna]** a discesa, seleziona **[!UICONTROL Elimina]**.
+1. Passa a Smart Campaign inattiva. Nel menu a discesa **[!UICONTROL Azioni campagna]**, seleziona **[!UICONTROL Elimina]**.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-2.png)
 
    >[!TIP]
    >
-   >Per annullare l’elaborazione di una campagna Smart attiva senza eliminarla del tutto, scopri come [interrompere una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
+   >Per annullare l&#39;elaborazione di una campagna Smart attiva senza eliminarla del tutto, scopri come [interrompere una campagna Smart](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md).
 
-1. Clic **[!UICONTROL Elimina]** per confermare.
+1. Fai clic su **[!UICONTROL Elimina]** per confermare.
 
    ![](assets/campaign-actions-delete-a-smart-campaign-3.png)
 

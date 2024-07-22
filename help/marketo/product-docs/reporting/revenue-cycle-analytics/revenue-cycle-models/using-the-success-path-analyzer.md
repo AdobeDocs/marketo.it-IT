@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Utilizzo di Success Path Analyzer {#using-the-success-path-analyzer}
 
-Utilizzare un Analisi del percorso di successo per esplorare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (velocità, in termini di giorni) delle persone attraverso le fasi del [Modello del ciclo dei ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+Utilizzare un analizzatore del percorso di successo per esplorare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (velocità, in termini di giorni) delle persone attraverso le fasi del [modello di ciclo dei ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 >[!PREREQUISITES]
 >
->[Creare un analizzatore del percorso di successo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
+>[Creare un analizzatore di percorsi riusciti](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-success-path-analyzer.md)
 
 1. Vai a **Analytics** e seleziona il tuo **Analisi del percorso di successo**.
 
@@ -25,7 +25,7 @@ Utilizzare un Analisi del percorso di successo per esplorare i dettagli specific
 
    Il grafico a destra riflette i dati nel pulsante selezionato a sinistra. Per impostazione predefinita, è Saldo.
 
-1. Clic **In Flusso** per tracciare il numero di persone che sono entrate nell&#39;area di visualizzazione durante l&#39;intervallo di tempo selezionato.
+1. Fai clic su **In Flusso** per visualizzare il grafico di quante persone sono entrate nell&#39;area di visualizzazione durante l&#39;intervallo di tempo selezionato.
 
    ![](assets/image2015-6-12-17-3a30-3a52.png)
 
@@ -33,17 +33,17 @@ Utilizzare un Analisi del percorso di successo per esplorare i dettagli specific
    * Fare clic su Conv % per rappresentare graficamente il tasso di conversione da questa fase alla fase successiva.
    * Fare clic su Tempo medio per vedere quanto tempo le persone trascorrono in questa fase prima di passare alla fase successiva.
 
-1. Clic **Azioni grafico** > Confronta periodo per confrontare i dati con un intervallo di tempo diverso di uguale durata.
+1. Fai clic su **Azioni grafico** > Confronta periodo per confrontare i dati con un altro intervallo di tempo di uguale lunghezza.
 
    ![](assets/image2015-6-12-17-3a39-3a15.png)
 
-1. Seleziona la **Da** data del periodo di confronto.
+1. Seleziona la data **Da** per il periodo di confronto.
 
    ![](assets/image2015-6-12-17-3a43-3a49.png)
 
-   Il **A** La data viene impostata automaticamente in modo da corrispondere alla durata del periodo di tempo originale.
+   La data **To** viene impostata automaticamente in modo da corrispondere alla durata del periodo di tempo originale.
 
-1. Clic **Confronta**.
+1. Fare clic su **Confronta**.
 
    ![](assets/image2015-6-12-17-3a44-3a8.png)
 
@@ -51,11 +51,11 @@ Utilizzare un Analisi del percorso di successo per esplorare i dettagli specific
 
    ![](assets/image2015-6-12-17-3a46-3a16.png)
 
-1. Per modificare la scala cronologica del grafico, fare clic su una delle opzioni **Grafico di** pulsanti: giornaliero (impostazione predefinita), settimanale e mensile
+1. Per modificare la scala cronologica del grafico, fare clic su uno dei pulsanti **Grafico per**: giornaliero (impostazione predefinita), settimanale e mensile
 
    ![](assets/image2015-6-12-17-3a46-3a55.png)
 
-1. Per le fasi con accordi sui livelli di servizio (SLA), fare clic su **Azioni grafico** > **Mostra scadenza contratto di servizio** per mostrare a ogni persona che non ha raggiunto un obiettivo SLA entro l’intervallo di tempo specificato.
+1. Per le fasi con SLA (Service-Level Agreements), fare clic su **Azioni grafico** > **Mostra SLA scaduta** per mostrare ogni persona che non ha raggiunto un obiettivo SLA entro l&#39;intervallo di tempo specificato.
 
    ![](assets/image2015-6-12-17-3a49-3a23.png)
 
@@ -65,7 +65,7 @@ Utilizzare un Analisi del percorso di successo per esplorare i dettagli specific
 
    Le persone visualizzate in arancione potrebbero *o non* essere ancora nella fase SLA.
 
-1. Clic **Azioni grafico** > **Mostra contratto di servizio scaduto** per mostrare tutte le persone con obiettivi SLA scaduti ancora in fase SLA alla fine del periodo di tempo specificato.
+1. Fai clic su **Azioni grafico** > **Mostra contratto di servizio scaduto** per visualizzare tutte le persone con obiettivi contratto di servizio scaduti che si trovano ancora nella fase del contratto di servizio alla fine del periodo di tempo specificato.
 
    ![](assets/image2015-6-12-17-3a51-3a39.png)
 

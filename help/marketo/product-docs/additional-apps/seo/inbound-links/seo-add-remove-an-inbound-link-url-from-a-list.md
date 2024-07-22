@@ -17,11 +17,11 @@ Puoi organizzare gli URL dei collegamenti in entrata per il contenuto del tuo cu
 
 ## Aggiungere un URL di collegamento in entrata a un elenco {#add-an-inbound-link-url-to-a-list}
 
-1. Vai a **[!UICONTROL Collegamenti in entrata]** sezione.
+1. Vai alla sezione **[!UICONTROL Collegamenti in entrata]**.
 
    ![](assets/image2014-11-20-18-3a27-3a27.png)
 
-1. Passa il puntatore del mouse sull’URL del collegamento in entrata da categorizzare. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
+1. Passa il puntatore del mouse sull’URL del collegamento in entrata da categorizzare. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-11-20-18-3a27-3a40.png)
 
@@ -37,15 +37,15 @@ Puoi organizzare gli URL dei collegamenti in entrata per il contenuto del tuo cu
 
 A volte è necessario rimuovere un URL di collegamento in entrata da un elenco.
 
-1. Clic **[!UICONTROL Collegamenti in entrata]**.
+1. Fare clic su **[!UICONTROL Collegamenti in entrata]**.
 
    ![](assets/image2014-11-20-18-3a28-3a41.png)
 
-1. Fai clic su **[!UICONTROL Filtra per elenco]** a discesa. Fare clic sull&#39;elenco da pulire.
+1. Fai clic sul menu a discesa **[!UICONTROL Filtra per elenco]**. Fare clic sull&#39;elenco da pulire.
 
    ![](assets/image2014-11-20-18-3a28-3a57.png)
 
-1. Passa il puntatore del mouse sull’URL del collegamento in entrata da rimuovere. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
+1. Passa il puntatore del mouse sull’URL del collegamento in entrata da rimuovere. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-11-20-18-3a29-3a56.png)
 

@@ -5,7 +5,7 @@ exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '355'
 ht-degree: 6%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* Creazione di [Campi personalizzati del membro del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
+>* Creazione di [campi personalizzati membri del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
 >* [Sincronizzare una campagna Salesforce con un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
@@ -27,7 +27,7 @@ ht-degree: 6%
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Clic **[!DNL Salesforce]**, quindi fai clic su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro programma.
+1. Fai clic su **[!DNL Salesforce]**, quindi su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro del programma.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
@@ -49,7 +49,7 @@ ht-degree: 6%
 
 1. Per ulteriori mappature dei campi, deseleziona la casella di ricerca e ripeti i passaggi da 3 a 5.
 
-1. Clic **[!UICONTROL Salva]** al termine.
+1. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
@@ -69,7 +69,7 @@ Se desideri liberare un campo per sostituirlo o semplicemente apportare una modi
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Clic **[!DNL Salesforce]**, quindi fai clic su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro programma.
+1. Fai clic su **[!DNL Salesforce]**, quindi su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro del programma.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -79,9 +79,9 @@ Se desideri liberare un campo per sostituirlo o semplicemente apportare una modi
 
    >[!TIP]
    >
-   >È possibile selezionare **[!UICONTROL Mappato]** per visualizzare solo i campi mappati.
+   >È possibile selezionare la casella di controllo **[!UICONTROL Mapped]** per visualizzare solo i campi mappati.
 
-1. Per annullare la mappatura, fai clic su **X** accanto al campo.
+1. Annulla mappatura facendo clic su **X** accanto al campo.
 
    ![](assets/program-member-custom-field-sync-10.png)
 

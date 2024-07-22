@@ -6,7 +6,7 @@ exl-id: 9a7943fe-b2e7-443a-87e0-da01001682de
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Integra il tuo personale Marketo con il pubblico LinkedIn.
 
 >[!PREREQUISITES]
 >
->[Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
+>[Aggiungi tipi di pubblico corrispondenti a LinkedIn come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)
 
-1. Vai a **Database**.
+1. Vai al **database**.
 
    ![](assets/db.png)
 
@@ -27,11 +27,11 @@ Integra il tuo personale Marketo con il pubblico LinkedIn.
 
    ![](assets/two.png)
 
-1. Fai clic su **Persone** scheda.
+1. Fare clic sulla scheda **Persone**.
 
    ![](assets/three-1.png)
 
-1. Fai clic su **Invia tramite Ad Bridge** icona ![—](assets/image2015-4-20-18-3a18-3a41.png) in fondo all’elenco.
+1. Fai clic sull&#39;icona **Invia tramite Ad Bridge** ![—](assets/image2015-4-20-18-3a18-3a41.png) nella parte inferiore dell&#39;elenco.
 
    ![](assets/four-1.png)
 
@@ -39,15 +39,15 @@ Integra il tuo personale Marketo con il pubblico LinkedIn.
    >
    >Quando si utilizzano integrazioni di rete di annunci per inviare un pubblico a LinkedIn, Marketo invia solo l’indirizzo e-mail tramite.
 
-1. Seleziona **LinkedIn** e fai clic su **Successivo**.
+1. Seleziona **LinkedIn** e fai clic su **Avanti**.
 
    ![](assets/image2015-4-20-18-3a7-3a19.png)
 
-1. Seleziona un **Pubblico linkedIn**.
+1. Seleziona un pubblico di **LinkedIn**.
 
    >[!NOTE]
    >
-   >Clic **+Nuovo pubblico** creerà un pubblico in LinkedIn Campaign Manager.
+   >Facendo clic su **+Nuovo pubblico** verrà creato un pubblico in LinkedIn Campaign Manager.
 
    ![](assets/6.png)
 
@@ -55,7 +55,7 @@ Integra il tuo personale Marketo con il pubblico LinkedIn.
    >
    >A marzo 2018, linkedIn ha dichiarato obsolete le API utilizzate per il tipo di push &quot;Clear audience and add lead&quot; (Cancella pubblico e aggiungi lead). Questa opzione non è più disponibile dalla versione di Marketo del primo trimestre 2018.
 
-1. Seleziona un **Tipo di push**. Clic **Aggiorna**.
+1. Seleziona un **Tipo push**. Fai clic su **Aggiorna**.
 
    ![](assets/7.png)
 
@@ -63,4 +63,4 @@ Integra il tuo personale Marketo con il pubblico LinkedIn.
    >
    >Attendere 15 minuti per eseguire la sincronizzazione.
 
-Cinque in alto! Adesso i tuoi dati saranno disturbati dai tipi di pubblico di LinkedIn. Per informazioni sul caricamento di elenchi in LinkedIn per il targeting di account e contatti, visita [Centro assistenza per le soluzioni di marketing linkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).
+Cinque in alto! Adesso i tuoi dati saranno disturbati dai tipi di pubblico di LinkedIn. Per informazioni sul caricamento di elenchi in LinkedIn per il targeting di account e contatti, visitare il [Centro assistenza soluzioni di marketing LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment).

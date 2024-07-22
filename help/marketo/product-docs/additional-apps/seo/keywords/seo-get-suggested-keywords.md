@@ -17,23 +17,23 @@ Marketo SEO può suggerire quali parole chiave dovresti tenere traccia. Possiamo
 
 ## Ottenere suggerimenti di parole chiave utilizzando una parola chiave {#get-keyword-suggestions-using-a-keyword}
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-10-3a51-3a41.png)
 
-1. Clic **[!UICONTROL Ottieni suggerimenti]**.
+1. Fai clic su **[!UICONTROL Ottieni suggerimenti]**.
 
    ![](assets/image2014-9-18-10-3a52-3a42.png)
 
-1. Immetti un **[!UICONTROL Parola chiave]**. Clic **[!UICONTROL Suggerisci parole chiave]**.
+1. Immetti una **[!UICONTROL parola chiave]**. Fai clic su **[!UICONTROL Suggerisci parole chiave]**.
 
    ![](assets/image2014-9-18-10-3a53-3a14.png)
 
    >[!TIP]
    >
-   >Lo sapevi che puoi  [aggiungere la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
+   >Lo sapevi che puoi [aggiungere la tua parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
-1. Seleziona le parole chiave suggerite. Clic **[!UICONTROL Aggiungi selezionati]**.
+1. Seleziona le parole chiave suggerite. Fai clic su **[!UICONTROL Aggiungi selezionati]**.
 
    ![](assets/image2014-9-18-10-3a54-3a12.png)
 
@@ -45,15 +45,15 @@ Marketo SEO può suggerire quali parole chiave dovresti tenere traccia. Possiamo
 
 ## Ottenere suggerimenti di parole chiave da un URL  {#get-keyword-suggestions-from-a-url}
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-10-3a54-3a26.png)
 
-1. Clic **[!UICONTROL Ottieni suggerimenti]**.
+1. Fai clic su **[!UICONTROL Ottieni suggerimenti]**.
 
    ![](assets/image2014-9-18-11-3a4-3a43.png)
 
-1. Imposta **[!UICONTROL Suggerisci per]** a **[!UICONTROL URL]**.
+1. Imposta **[!UICONTROL Suggerisci da]** a **[!UICONTROL URL]**.
 
    ![](assets/image2014-9-18-11-3a4-3a52.png)
 
@@ -63,9 +63,9 @@ Marketo SEO può suggerire quali parole chiave dovresti tenere traccia. Possiamo
 
    >[!TIP]
    >
-   >Lo sapevi che puoi [aggiungere la parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
+   >Lo sapevi che puoi [aggiungere la tua parola chiave a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md) proprio qui?
 
-1. Seleziona le parole chiave suggerite. Clic **[!UICONTROL Aggiungi selezionati]**.
+1. Seleziona le parole chiave suggerite. Fai clic su **[!UICONTROL Aggiungi selezionati]**.
 
    ![](assets/image2014-9-18-11-3a8-3a3.png)
 
@@ -75,5 +75,5 @@ Fantastico! Parola chiave aggiunta.
 
 >[!MORELIKETHIS]
 >
->* [Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
->* [Aggiungere/rimuovere parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+>* [Informazioni sulle parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+>* [Aggiungi/Rimuovi parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

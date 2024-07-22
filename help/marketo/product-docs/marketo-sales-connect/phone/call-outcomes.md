@@ -5,7 +5,7 @@ exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate quando si 
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione richieste.**
+>**Autorizzazioni amministratore richieste.**
 
 ## Abilita risultati chiamata {#enable-call-outcomes}
 
-1. Fai clic sull’icona dell’ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/call-outcomes-1.png)
 
-1. In Impostazioni amministratore seleziona **Connessione telefonica**.
+1. In Impostazioni amministratore selezionare **Connessione**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Seleziona **Abilita risultati chiamata**.
+1. Selezionare **Abilita risultati chiamata**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate quando si 
 >
 >Puoi creare un massimo di 15 risultati di chiamata.
 
-1. Fai clic sull’icona dell’ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/call-outcomes-5.png)
 
-1. In Impostazioni amministratore seleziona **Connessione telefonica**.
+1. In Impostazioni amministratore selezionare **Connessione**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Clic **Gestire gli esiti delle chiamate**.
+1. Fai clic su **Gestisci risultati chiamata**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate quando si 
 
    ![](assets/call-outcomes-8.png)
 
-1. Fare clic sull&#39;elenco a discesa Risposte e scegliere il tipo di risultato (in questo esempio si sta scegliendo Risposte). Quindi fai clic su **Aggiungi**.
+1. Fare clic sull&#39;elenco a discesa Risposte e scegliere il tipo di risultato (in questo esempio si sta scegliendo Risposte). Quindi fare clic su **Aggiungi**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ Una volta abilitati i risultati della chiamata. Gli utenti possono selezionarne 
 
    ![](assets/call-outcomes-10.png)
 
-1. Inserisci le informazioni sulla chiamata nella finestra di dialogo e fai clic su **Chiamata**.
+1. Immetti le informazioni sulla chiamata nella composizione e fai clic su **Chiama**.
 
    ![](assets/call-outcomes-11.png)
 
@@ -89,4 +89,4 @@ Una volta abilitati i risultati della chiamata. Gli utenti possono selezionarne 
 >[!MORELIKETHIS]
 >
 >* [Registra i motivi e gli esiti delle chiamate a Salesforce](/help/marketo/product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
->* [Motivi della chiamata](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)
+>* [Motivi di chiamata](/help/marketo/product-docs/marketo-sales-connect/phone/call-reasons.md)

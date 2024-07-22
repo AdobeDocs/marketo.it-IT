@@ -6,7 +6,7 @@ exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 >[!PREREQUISITES]
 >
->Aggiornare alla versione più recente del pacchetto Sales Connect e installare i pulsanti di azione collettiva nella vista lead/contatto. [Fare clic qui per istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
+>Aggiornare alla versione più recente del pacchetto Sales Connect e installare i pulsanti di azione collettiva nella vista lead/contatto. [Fare clic qui per le istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf).
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 ## E-mail in blocco {#bulk-email}
 
-1. In Salesforce, fai clic su **Lead** , quindi la scheda **Vai** pulsante.
+1. In Salesforce, fai clic sulla scheda **Lead**, quindi sul pulsante **Vai**.
 
    ![](assets/one-5.png)
 
-1. Scegli i lead desiderati e fai clic su **E-mail con MSC (Classic)** pulsante.
+1. Scegli i lead desiderati e fai clic sul pulsante **E-mail con MSC (Classic)**.
 
    ![](assets/two-5.png)
 
@@ -45,29 +45,29 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 ## Aggiungi a campagna {#add-to-campaign}
 
-1. In Salesforce, fai clic su **Lead** , quindi la scheda **Vai** pulsante.
+1. In Salesforce, fai clic sulla scheda **Lead**, quindi sul pulsante **Vai**.
 
    ![](assets/four-3.png)
 
-1. Scegli i lead desiderati e fai clic su **Aggiungi a campagna MSC (classica)** pulsante.
+1. Scegli i lead desiderati e fai clic sul pulsante **Aggiungi a campagna MSC (Classic)**.
 
    ![](assets/five-3.png)
 
-1. Viene visualizzata la finestra a comparsa Aggiungi persone alla campagna. Clic **Successivo** e segui il flusso tipico delle campagne per attivare una campagna MSC.
+1. Viene visualizzata la finestra a comparsa Aggiungi persone alla campagna. Fai clic su **Avanti** e segui il flusso tipico della campagna per attivare una campagna MSC.
 
    ![](assets/six.png)
 
 ## Invia a Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. In Salesforce, fai clic su **Lead** , quindi la scheda **Vai** pulsante.
+1. In Salesforce, fai clic sulla scheda **Lead**, quindi sul pulsante **Vai**.
 
    ![](assets/seven-1.png)
 
-1. Scegli i lead desiderati e fai clic su **Push a MSC (Classic)** pulsante.
+1. Scegli i lead desiderati e fai clic sul pulsante **Push to MSC (Classic)**.
 
    ![](assets/eight-1.png)
 
-1. Si aprirà una nuova scheda denominata &quot;Ponte Salesforce&quot;. Fai clic su **Procedi al → di gruppo** pulsante.
+1. Si aprirà una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fare clic sul pulsante **Procedi al gruppo →**.
 
    ![](assets/nine-1.png)
 

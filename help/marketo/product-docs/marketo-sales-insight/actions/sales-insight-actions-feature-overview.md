@@ -5,7 +5,7 @@ exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Accelera le attività di ricerca di potenziali clienti con strumenti di marketin
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite [Pacchetto Sales Insight di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
+>Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite il [pacchetto Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
 >[!AVAILABILITY]
 >
->Questa funzione è attualmente implementata per tutti gli utenti di Sales Insight. Se desideri avere la priorità nel rollout, invia un’e-mail a `sales-insights(at)adobe(dot)com`.
+>Questa funzione è attualmente implementata per tutti gli utenti di Sales Insight. Se desideri che la tua priorità venga assegnata al rollout, invia un&#39;e-mail a `sales-insights(at)adobe(dot)com`.
 
-Per una panoramica video delle azioni di approfondimento sulle vendite: [fai clic qui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
+Per una panoramica video delle azioni di approfondimento sulle vendite, [fai clic qui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -32,7 +32,7 @@ Le seguenti azioni sono disponibili dal menu a discesa &quot;Scegli azioni&quot;
 
 * Invia e-mail vendite
    * Le e-mail di vendita hanno un monitoraggio di visualizzazione, clic e risposta (quando il canale di consegna è configurato)
-   * Include Personalizzazione e-mail, Firma personalizzata e allegati
+   * Include e-mail Personalization, firma personalizzata e allegati
    * Condivisione di modelli e rapporti
    * Condivisione team, e-mail di gruppo e capacità CC/CCN
    * L’attività e-mail di vendita verrà registrata nel record persona di Marketo
@@ -84,7 +84,7 @@ Nella barra di navigazione superiore sono disponibili le seguenti azioni:
 
 * Invia e-mail di vendita: possibilità di inviare e-mail di gruppo personalizzate o con modelli con visualizzazione, tracciamento dei clic e delle risposte a tutti i contatti associati a un account/opportunità
    * Le e-mail di vendita hanno un monitoraggio di visualizzazione, clic e risposta (quando il canale di consegna è configurato)
-   * Include Personalizzazione e-mail, Firma personalizzata e allegati
+   * Include e-mail Personalization, firma personalizzata e allegati
    * Condivisione di modelli e rapporti
    * Condivisione team, e-mail di gruppo e capacità CC/CCN
    * L’attività e-mail di vendita verrà registrata nel record persona di Marketo
@@ -142,7 +142,7 @@ Nella scheda Elementi di maggiore rilevanza sono disponibili le seguenti azioni 
 
   ![](assets/sales-insight-actions-feature-overview-5.png)
 
-**Scheda E-mail**
+**Scheda E-Mail**
 
 * Tutte le e-mail di vendita inviate verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
 * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente e Data

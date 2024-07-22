@@ -6,14 +6,14 @@ exl-id: ab318a92-76b5-4ca6-bb51-6633ad498221
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
 # Modello 19E {#template-19e}
 
-Fare clic con il pulsante destro del mouse per [scarica modello 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 19E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)
 
 ![](assets/image2015-9-16-17-3a4-3a14.png)
 
@@ -26,6 +26,6 @@ Questo modello include i seguenti contenuti:
 * Cinque sezioni di carrozzeria (facoltativo)
 * Piè di pagina (facoltativo)
 
-**Fai clic con il pulsante destro del mouse qui sotto per scaricare questo modello:**
+**Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
 [Modello 19E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-19e.html)

@@ -35,7 +35,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
    >
    >Una dimensione troppo grande del testo potrebbe spingere il contenuto oltre le tre righe di testo visibili massime.
 
-1. Scegliere uno stile di tipo facoltativo per enfasi: **Bold**, _Corsivo_, o Sottolineato.
+1. Scegliere uno stile di tipo facoltativo per enfasi: **Grassetto**, _Corsivo_ o Sottolineato.
 
    ![](assets/image2016-5-6-10-3a15-3a32.png)
 
@@ -67,7 +67,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Seleziona un Token personale dal menu a discesa, aggiungi un valore predefinito e fai clic su **Inserisci**.
+1. Selezionare un token personale dal menu a discesa, aggiungere un valore predefinito e fare clic su **Inserisci**.
 
    ![](assets/mytoken.png)
 
@@ -81,7 +81,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    Eventuali modifiche apportate ai token utilizzati in un programma di messaggi in-app approvato non avranno effetto nel messaggio in-app fino a quando il programma non viene sospeso e quindi ripreso.
 
-Tu sei dorata. Quindi, devi [configurare il pulsante del messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
+Tu sei dorata. Successivamente, devi [configurare il pulsante del messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-button.md).
 
 >[!MORELIKETHIS]
 >

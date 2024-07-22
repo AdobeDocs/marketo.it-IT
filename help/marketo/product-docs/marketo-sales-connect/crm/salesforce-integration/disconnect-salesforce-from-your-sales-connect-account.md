@@ -17,21 +17,21 @@ A volte potrebbe essere necessario disconnettere l&#39;account Salesforce dall&#
 
 ## Come disconnettersi da Salesforce come amministratore {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Salesforce**.
+1. In Impostazioni amministrazione fare clic su **Salesforce**.
 
    ![](assets/six-1.png)
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Disconnetti**.
+1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
 
    ![](assets/seven-1.png)
 
 ## Come disconnettersi da Salesforce come non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-1.png)
 
@@ -39,6 +39,6 @@ A volte potrebbe essere necessario disconnettere l&#39;account Salesforce dall&#
 
    ![](assets/two-1.png)
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Disconnetti**.
+1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
 
    ![](assets/3333.png)

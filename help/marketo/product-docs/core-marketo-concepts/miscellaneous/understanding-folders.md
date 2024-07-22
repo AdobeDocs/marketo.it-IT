@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Informazioni sulle cartelle {#understanding-folders}
 
-Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse avanzate. Questi sono diversi da [cartelle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
+Le cartelle all’interno di un programma possono essere utilizzate per organizzare campagne e risorse avanzate. Sono diverse dalle [cartelle campagne](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md).
 
 ## Creare una cartella {#create-a-folder}
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/ma.png)
 
@@ -38,7 +38,7 @@ Va bene cambiare idea.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
-1. Digita un nuovo nome e premi **[!UICONTROL Invio]**.
+1. Digitare un nuovo nome e premere **[!UICONTROL Invio]**.
 
    ![](assets/image2015-4-20-18-3a52-3a30.png)
 
@@ -65,7 +65,7 @@ Quando archivi una cartella:
 * I modelli archiviati non sono disponibili quando si crea un’e-mail o una pagina di destinazione in Design Studio
 * Le pagine archiviate non possono essere utilizzate nei gruppi di test delle pagine di destinazione
 
-Funzionalità che **non** cambia durante l&#39;archiviazione:
+Funzionalità che **non** cambieranno durante l&#39;archiviazione:
 
 * La ricerca globale trova ancora risultati nelle cartelle archiviate
 * Una risorsa in uso continuerà a funzionare anche dopo l’archiviazione

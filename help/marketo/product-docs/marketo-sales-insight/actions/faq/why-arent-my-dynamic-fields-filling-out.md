@@ -5,7 +5,7 @@ exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ I campi dinamici funzionano solo quando si utilizza un modello. Le singole e-mai
 
 ## Cosa verificare {#what-to-check}
 
-Nelle azioni Sales Insight sono disponibili tre tipi di campi dinamici: Base, Personalizzato e Salesforce. Sia Basic che Custom cercano di richiamare informazioni dall&#39; [applicazione web](https://toutapp.com/login){target="_blank"}. If the information does not exist in the web application, the fields will be blank. Salesforce fields pull information from [Salesforce.com](https://salesforce.com){target="_blank"}.
+Nelle azioni Sales Insight sono disponibili tre tipi di campi dinamici: Base, Personalizzato e Salesforce. Sia Basic che Custom cercano di richiamare informazioni dall&#39;[applicazione Web](https://toutapp.com/login){target="_blank"}. Se le informazioni non esistono nell’applicazione web, i campi saranno vuoti. I campi Salesforce richiamano informazioni da [Salesforce.com](https://salesforce.com){target="_blank"}.
 
 **Risoluzione dei problemi dei campi Salesforce**
 
-Campi Salesforce: ad es. `{{sfdc_account_name}}`
+Campi Salesforce: esempio: `{{sfdc_account_name}}`
 
-* Assicurati che sia correttamente collegato alle Azioni di approfondimento sulle vendite. Vai a [Impostazioni](https://toutapp.com/login{target="_blank"} pagina e fai clic su **Gestisci** accanto al CRM.
+* Assicurati che sia correttamente collegato alle Azioni di approfondimento sulle vendite. Vai alla pagina [Impostazioni](https://toutapp.com/login{target="_blank"}) e fai clic su **Gestisci** accanto al tuo CRM.
 
 **Risoluzione dei problemi dei campi di base e personalizzati**
 
-Campi di base delle azioni di approfondimento sulle vendite Marketo: ad esempio, `{{company}}`
+Campi di base delle azioni di Marketo Sales Insight: ad esempio, `{{company}}`
 
-Campi personalizzati delle azioni di approfondimento sulle vendite di Marketo: ad esempio `{{custom_field_favorite_movie}}`
+Campi personalizzati azioni approfondimento vendite Marketo: ad esempio `{{custom_field_favorite_movie}}`
 
-* Il campo corrispondente deve essere salvato per il contatto in [Pagina Persone](https://toutapp.com/next#relationships){target="_blank"} affinché il nostro campo dinamico faccia riferimento a. Ad esempio, se invii un’e-mail a Mary e utilizzi il `{{company}}` ma il suo record contatto non elenca una società, non saremo in grado di compilarlo.
+* Per fare riferimento al campo dinamico, è necessario salvare il campo corrispondente per il contatto nella [pagina Persone](https://toutapp.com/next#relationships){target="_blank"}. Ad esempio, se invii un&#39;e-mail a Mary e utilizzi il campo `{{company}}`, ma il suo record contatto non elenca una società, non saremo in grado di compilarlo.
 
 ## Perché La Mia E-Mail È Stata Inviata Senza Popolare Tutti I Campi Dinamici? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -48,4 +48,4 @@ Le azioni di approfondimento sulle vendite impediscono l’invio delle e-mail se
 
 >[!NOTE]
 >
->Il `{{first_name}}` Questo campo verrà visualizzato sia in Azioni approfondimento vendite che in Salesforce per tentare di richiamare informazioni. Tutti gli altri campi di questo elenco vengono cercati solo in Azioni approfondimenti vendite per compilare il campo.
+>Il campo `{{first_name}}` verrà cercato sia in Sales Insight Actions che in Salesforce per tentare di richiamare informazioni. Tutti gli altri campi di questo elenco vengono cercati solo in Azioni approfondimenti vendite per compilare il campo.

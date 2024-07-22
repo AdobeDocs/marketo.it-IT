@@ -5,7 +5,7 @@ exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 ## Creare un modello {#create-a-new-template}
 
-1. Accedi a **Modelli** scheda.
+1. Passa alla scheda **Modelli**.
 
    ![](assets/manage-templates-1.png)
 
-1. Clic **Crea modello**.
+1. Fare clic su **Crea modello**.
 
    ![](assets/manage-templates-2.png)
 
-1. Scegli un **Nome** e **Categoria** per il modello e-mail, quindi fai clic su **Crea**.
+1. Scegli un **Nome** e una **Categoria** per il tuo modello di e-mail, quindi fai clic su **Crea**.
 
    ![](assets/manage-templates-3.png)
 
-1. Nell’editor modelli, crea un oggetto per l’e-mail e digita il messaggio desiderato. Utilizza gli strumenti di modifica (font, dimensione del testo, ecc.) per personalizzare l&#39;aspetto. Clic **Salva** per finalizzare le modifiche.
+1. Nell’editor modelli, crea un oggetto per l’e-mail e digita il messaggio desiderato. Utilizza gli strumenti di modifica (font, dimensione del testo, ecc.) per personalizzare l&#39;aspetto. Fai clic su **Salva** per finalizzare le modifiche.
 
    ![](assets/manage-templates-4.png)
 
@@ -63,7 +63,7 @@ L&#39;area Dettagli modello contiene più schede.
 
 Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per impostazione predefinita.
 
-1. Accedi a **Modelli** scheda.
+1. Passa alla scheda **Modelli**.
 
    ![](assets/manage-templates-5.png)
 
@@ -71,19 +71,19 @@ Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per
 
    ![](assets/manage-templates-6.png)
 
-1. Fai clic su **Condividi** pulsante.
+1. Fai clic sul pulsante **Condividi**.
 
    ![](assets/manage-templates-7.png)
 
    >[!NOTE]
    >
-   >I modelli condivisi con te verranno visualizzati nella sezione **Modelli team** sulla sinistra della pagina Modelli. I team sono disponibili solo per gli utenti Premium.
+   >I modelli condivisi con te verranno visualizzati nell&#39;intestazione **Modelli team** sul lato sinistro della pagina Modelli. I team sono disponibili solo per gli utenti Premium.
 
 1. Fai clic sul menu a discesa Condividi con e seleziona i team con cui desideri condividere.
 
    ![](assets/manage-templates-8.png)
 
-1. È possibile mantenere il modello nella categoria corrente o spostarlo in una diversa. In questo esempio lo manteniamo nell&#39;attuale. Clic **Condividi** al termine.
+1. È possibile mantenere il modello nella categoria corrente o spostarlo in una diversa. In questo esempio lo manteniamo nell&#39;attuale. Al termine, fai clic su **Condividi**.
 
    ![](assets/manage-templates-9.png)
 
@@ -91,7 +91,7 @@ Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per
 
 È possibile aggiungere modelli di qualsiasi categoria all&#39;elenco Preferiti. In questo modo viene automaticamente generata una nuova categoria nella parte superiore dell’elenco, per poter accedere rapidamente ai modelli più utilizzati.
 
-1. Accedi a **Modelli** scheda.
+1. Passa alla scheda **Modelli**.
 
    ![](assets/manage-templates-10.png)
 
@@ -105,7 +105,7 @@ Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per
 
 ## Personalizza visualizzazione modello {#customize-template-view}
 
-Dalla sezione **Visualizza** , puoi scegliere di visualizzare: tutti i modelli, i tuoi modelli, i tuoi modelli preferiti, i modelli condivisi, i modelli non condivisi o i modelli non utilizzati (modelli che non sono stati utilizzati negli ultimi 90 giorni).
+Dall&#39;elenco a discesa **Visualizza** è possibile scegliere di visualizzare: tutti i modelli, i modelli preferiti, i modelli condivisi, i modelli non condivisi o i modelli non utilizzati (modelli che non sono stati utilizzati negli ultimi 90 giorni).
 
 ![](assets/manage-templates-13.png)
 
@@ -121,11 +121,11 @@ Archivia i modelli per organizzare e focalizzare i contenuti di vendita senza pe
 
    ![](assets/manage-templates-14.png)
 
-1. Clic **Archivia**.
+1. Fai clic su **Archivia**.
 
    ![](assets/manage-templates-15.png)
 
-1. Clic **Archivia** per confermare.
+1. Fai clic su **Archivia** per confermare.
 
    ![](assets/manage-templates-16.png)
 
@@ -147,10 +147,10 @@ Per eliminare un modello, segui la procedura riportata di seguito.
 
    ![](assets/manage-templates-17.png)
 
-1. Clic **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/manage-templates-18.png)
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/manage-templates-19.png)

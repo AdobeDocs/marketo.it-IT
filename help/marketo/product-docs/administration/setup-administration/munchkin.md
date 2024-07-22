@@ -13,6 +13,6 @@ ht-degree: 0%
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] è lo snippet JavaScript inserito sul sito web. Tiene traccia di visite, clic e compilazioni di moduli. Ha anche una ricca API per fare ogni sorta di cose interessanti.
+[!DNL Munchkin] è lo snippet di JavaScript inserito nel sito Web. Tiene traccia di visite, clic e compilazioni di moduli. Ha anche una ricca API per fare ogni sorta di cose interessanti.
 
-Consulta la sezione [pagina per sviluppatori su [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking){target="_blank"} per ulteriori informazioni.
+Per ulteriori informazioni, consulta la pagina per sviluppatori [in data [!DNL Munchkin]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking){target="_blank"}.

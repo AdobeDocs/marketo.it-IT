@@ -21,11 +21,11 @@ Gli utenti tipo sono un ottimo modo per segmentare il pubblico e il mercato ABM 
 
    ![](assets/one.png)
 
-1. Nella struttura, seleziona **Gestione account di destinazione**.
+1. Nella struttura selezionare **Gestione account di destinazione**.
 
    ![](assets/using-personas-2.png)
 
-1. Clic **Modifica**.
+1. Fai clic su **Modifica**.
 
    ![](assets/three.png)
 
@@ -33,11 +33,11 @@ Gli utenti tipo sono un ottimo modo per segmentare il pubblico e il mercato ABM 
    >
    >La persona Qualifica è inclusa per impostazione predefinita. Non può essere modificata o eliminata.
 
-1. Per aggiungere altri utenti tipo, fai clic su **+Aggiungi**.
+1. Per aggiungere altri utenti tipo, fare clic su **+Aggiungi**.
 
    ![](assets/four.png)
 
-1. Assegna un nome all’utente tipo e seleziona il campo corrispondente nel menu a discesa. Puoi aggiungere fino a due utenti tipo aggiuntivi. Clic **Salva** al termine.
+1. Assegna un nome all’utente tipo e seleziona il campo corrispondente nel menu a discesa. Puoi aggiungere fino a due utenti tipo aggiuntivi. Al termine, fai clic su **Salva**.
 
    ![](assets/five.png)
 
@@ -53,7 +53,7 @@ Visualizza i tuoi utenti tipo visitando un account con nome specifico.
 
    ![](assets/one-a.png)
 
-1. Fai clic su **Persone** scheda.
+1. Fai clic sulla scheda **Persone**.
 
    ![](assets/two-a.png)
 

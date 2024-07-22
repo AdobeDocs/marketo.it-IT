@@ -6,7 +6,7 @@ exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Quando un annullamento dell’iscrizione viene raccolto in Sales Connect, viene inviato a Salesforce in tempo reale e viene aggiornato uno dei campi di rinuncia selezionati per la sincronizzazione con. Se hai disattivato la sincronizzazione con Salesforce, invieremo comunque l’annullamento dell’iscrizione alla rinuncia all’e-mail.
 
-**Sincronizzazione per annullamento iscrizione**
+**Sincronizzazione annullamento abbonamento**
 
 Dopo aver attivato la sincronizzazione per l’annullamento dell’abbonamento (passaggio 3 di seguito), verrà attivata la sincronizzazione notturna. La sincronizzazione viene eseguita una volta al giorno intorno alle 20:00 PST. Sincronizzerà bidirezionalmente tutti gli annullamenti di abbonamenti in Marketo Sales con il campo Opt Out in Salesforce.
 
@@ -31,15 +31,15 @@ Dopo aver attivato la sincronizzazione per l’annullamento dell’abbonamento (
 
 Gli utenti possono decidere se sincronizzare gli annullamenti degli abbonamenti con il campo standard Email Opt Out (Rinuncia e-mail) con cui può sincronizzarsi Marketo, oppure con il campo Marketo Sales Opt Out (Rinuncia alle vendite) in modo da poter distinguere gli annullamenti degli abbonamenti alle vendite e agli marketing.
 
-1. Vai a [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Vai all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/one-1.png)
 
-1. In Impostazioni amministratore seleziona **Annulla iscrizione**.
+1. In Impostazioni amministrazione, seleziona **Annulla iscrizione**.
 
    ![](assets/two-2.png)
 
-1. Clic **Sincronizzazione con Salesforce**, quindi attiva la sincronizzazione notturna.
+1. Fai clic su **Sincronizzazione con Salesforce**, quindi attiva la sincronizzazione notturna.
 
    ![](assets/three-2.png)
 
@@ -50,7 +50,7 @@ Gli utenti possono decidere se sincronizzare gli annullamenti degli abbonamenti 
    | Campo | Descrizione |
    |---|---|
    | **Sincronizza con il campo di rinuncia Salesforce** | Selezionata per impostazione predefinita, aggiorna solo il campo Rinuncia Salesforce. |
-   | **Sincronizza con il campo Marketo Sales Opt Out** | Se si desidera separare gli annullamenti degli abbonamenti alle vendite e al marketing, scegliere questa opzione per aggiornare ulteriori [Campo Rinuncia vendite Marketo.](#msoo) |
+   | **Sincronizza con il campo di rinuncia vendite Marketo** | Se si desidera separare gli annullamenti degli abbonamenti alle vendite e al marketing, scegliere questa opzione per aggiornare il campo aggiuntivo [Marketo Sales Opt Out.](#msoo) |
 
 ## Installazione del campo Rinuncia nel layout di pagina {#installing-the-opt-out-field-in-the-page-layout}
 
@@ -62,7 +62,7 @@ Rinuncia e-mail è un campo standard in Salesforce disponibile per l’installaz
 
    ![](assets/five-1.png)
 
-1. Fai clic sul nome utente e seleziona **Configurazione**.
+1. Fai clic sul tuo nome utente e seleziona **Configurazione**.
 
    ![](assets/six-1.png)
 
@@ -74,7 +74,7 @@ Rinuncia e-mail è un campo standard in Salesforce disponibile per l’installaz
 
    ![](assets/eight-1.png)
 
-1. Seleziona **Modifica** accanto al layout di pagina a cui si desidera aggiungere il campo.
+1. Seleziona **Modifica** accanto al layout di pagina a cui desideri aggiungere il campo.
 
    ![](assets/nine.png)
 
@@ -86,7 +86,7 @@ Rinuncia e-mail è un campo standard in Salesforce disponibile per l’installaz
 
    ![](assets/11.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/twelve.png)
 

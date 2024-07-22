@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creazione di una campagna batch intelligente nella vista Programmazione del programma {#creating-a-batch-smart-campaign-in-the-program-schedule-view}
 
-Puoi creare nuove campagne avanzate e [riesegui quelli esistenti](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} all’interno del programma dalla vista pianificazione del programma.
+Puoi creare nuove campagne avanzate e [rieseguire quelle esistenti](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/rerun-a-smart-campaign-in-the-program-schedule-view.md){target="_blank"} all&#39;interno del programma dalla vista pianificazione del programma.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Puoi creare nuove campagne avanzate e [riesegui quelli esistenti](/help/marketo/
 
    ![](assets/image2014-9-23-15-3a28-3a20.png)
 
-1. Scegli un nome per la voce, che diventerà la nuova Smart Campaign. Premere il tasto **[!UICONTROL Invio/Ritorno]** chiave per confermare il nome.
+1. Scegli un nome per la voce, che diventerà la nuova Smart Campaign. Premere il tasto **[!UICONTROL Invio/Ritorno]** per confermare il nome.
 
    ![](assets/image2014-9-23-15-3a28-3a28.png)
 
-1. Fai clic su **[!UICONTROL Tipo]** e scegliere **[!UICONTROL Campagna avanzata]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Tipo]** e scegli **[!UICONTROL Smart Campaign]**.
 
    ![](assets/typechoose.png)
 
@@ -37,7 +37,7 @@ Puoi creare nuove campagne avanzate e [riesegui quelli esistenti](/help/marketo/
 
    ![](assets/four.png)
 
-1. Scegli il tuo [Campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} regole.
+1. Scegli le tue regole di [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
    ![](assets/changeprogramstatus-hands.png)
 

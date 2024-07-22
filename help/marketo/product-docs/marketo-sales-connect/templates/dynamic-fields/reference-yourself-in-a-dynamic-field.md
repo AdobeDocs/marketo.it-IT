@@ -15,6 +15,6 @@ ht-degree: 0%
 
 I campi dinamici sono la forma di stampa unione.
 
-Ti consentiamo di personalizzare i modelli e-mail con attributi predefiniti come `{{my_name}}` o `{{my_title}}`. Questi campi ti consentono di fare rapidamente riferimento a te stesso nei tuoi modelli e-mail.
+È possibile personalizzare i modelli e-mail con attributi predefiniti come `{{my_name}}` o `{{my_title}}`. Questi campi ti consentono di fare rapidamente riferimento a te stesso nei tuoi modelli e-mail.
 
-Per aggiungere a un modello un campo dinamico con riferimenti automatici, seleziona quello che desideri utilizzare da **Campi dinamici MSE** nell’editor modelli.
+Per aggiungere a un modello un campo dinamico con riferimenti a se stesso, seleziona il campo che desideri utilizzare dal pulsante **Campi dinamici MSE** nell&#39;editor modelli.

@@ -6,7 +6,7 @@ exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -25,23 +25,23 @@ Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinaz
 
    >[!NOTE]
    >
-   >Puoi anche creare rapporti da **Analytics** scheda.
+   >È inoltre possibile creare report dalla scheda **Analytics**.
 
 1. Fare clic con il pulsante destro del mouse sul programma e selezionare **Nuova risorsa locale**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Clic **Report**.
+1. Fai clic su **Report**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Seleziona il rapporto **Tipo**.
+1. Selezionare il report **Tipo**.
 
    ![](assets/choosereport.png)
 
    >[!TIP]
    >
-   >Consulta [Panoramica del tipo di rapporto](https://docs.marketo.com/display/DOCS/Report+Type+Overview) per una breve descrizione di ciascuno di essi.
+   >Per una breve descrizione di ciascuno di essi, vedere [Panoramica del tipo di report](https://docs.marketo.com/display/DOCS/Report+Type+Overview).
 
 1. Assegna un nome al rapporto.
 
@@ -51,9 +51,9 @@ Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinaz
    >
    >Per semplificare ulteriormente la navigazione nei rapporti, includi nel nome un riferimento al tipo di rapporto.
 
-1. Imposta l’intervallo di tempo del rapporto. Consulta [Modificare un intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) per ulteriori dettagli.
+1. Imposta l’intervallo di tempo del rapporto. Per ulteriori dettagli, consulta [Modificare un intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
 
-1. Fai clic su **Report** per visualizzare le statistiche.
+1. Fai clic sulla scheda **Report** per visualizzare le statistiche.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 
@@ -63,8 +63,8 @@ Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinaz
 
    >[!NOTE]
    >
-   >Puoi finire rapidamente con un sacco di rapporti. Ricorda a [eliminare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) non ti serve più.
+   >Puoi finire rapidamente con un sacco di rapporti. Ricorda di [eliminare un report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/delete-a-report.md) non più necessario.
 
    >[!MORELIKETHIS]
    >
-   >È possibile [modificare l’intervallo di tempo di un rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [sottoscrivere un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [esportare un rapporto in Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrare le persone in un report con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md), e altro ancora.
+   >È possibile [modificare un intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md), [sottoscrivere un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md), [esportare un report in Excel](/help/marketo/product-docs/reporting/basic-reporting/report-activity/export-a-report-to-excel.md), [filtrare le persone in un report con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) e altro ancora.

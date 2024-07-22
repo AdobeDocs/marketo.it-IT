@@ -19,11 +19,11 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 >
 >È possibile assegnare solo attività per i contatti condivisi.
 
-1. Fai clic sul pulsante **Centro comandi**.
+1. Fare clic su **Centro comandi**.
 
    ![](assets/one-1.png)
 
-1. Clic **Aggiungi attività**.
+1. Fai clic su **Aggiungi attività**.
 
    ![](assets/two-1.png)
 
@@ -51,6 +51,6 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 
    ![](assets/eight.png)
 
-1. Aggiungi tutti i dettagli importanti che sono rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
+1. Aggiungi tutti i dettagli importanti rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
 
    ![](assets/nine.png)

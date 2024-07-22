@@ -6,7 +6,7 @@ exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Ci sono alcune cose da fare prima di iniziare le missioni.
 
 Creiamo una cartella in cui inserire tutto ciò che farai nelle missioni.
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuova cartella Campaign]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova cartella campagne]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Denomina la cartella &quot;Learning&quot; e fai clic su **[!UICONTROL Crea]**.
+1. Denomina la cartella &quot;Apprendimento&quot; e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -45,11 +45,11 @@ Creiamo una cartella in cui inserire tutto ciò che farai nelle missioni.
 
 Aggiungi te stesso/a come persona in Marketo in modo da poter inviare e-mail di prova a te stesso in un secondo momento.
 
-1. Vai a **[!UICONTROL Database]** area.
+1. Passare all&#39;area **[!UICONTROL Database]**.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuova persona]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo utente]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
@@ -59,13 +59,13 @@ Aggiungi te stesso/a come persona in Marketo in modo da poter inviare e-mail di 
 
    >[!CAUTION]
    >
-   >Marketo sì **non** supporta gli indirizzi e-mail che contengono emoji.
+   >Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
 
-1. Per visualizzare le tue persone, apri il tuo [!UICONTROL Elenchi smart di sistema] nel menu a sinistra, quindi fai clic su **[!UICONTROL Tutte le persone]**.
+1. Per visualizzare i tuoi contatti, apri i [!UICONTROL Elenchi avanzati di sistema] nel menu a sinistra, quindi fai clic su **[!UICONTROL Tutti gli utenti]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Fai clic su **[!UICONTROL Persone]** scheda. Dovresti trovarti nel database.
+1. Fare clic sulla scheda **[!UICONTROL Persone]**. Dovresti trovarti nel database.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 

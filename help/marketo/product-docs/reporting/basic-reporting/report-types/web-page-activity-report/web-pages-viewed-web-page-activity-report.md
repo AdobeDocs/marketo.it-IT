@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Pagine Web visualizzate, Rapporto attività pagina Web {#web-pages-viewed-web-page-activity-report}
 
-Da un [Rapporto attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puoi visualizzare le pagine specifiche visualizzate dalle persone nel rapporto.
+Da un [report attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) è possibile visualizzare le pagine specifiche visualizzate dalle persone nel report.
 
 >[!PREREQUISITES]
 >
->Per acquisire l’attività dal sito web in Marketo, devi innanzitutto  [configurare Munchkin sul sito](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Per acquisire l&#39;attività dal sito Web in Marketo, devi innanzitutto [configurare Munchkin sul sito](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
-1. Nel tuo [Rapporto attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), fare clic sul numero nella colonna Visualizzazioni pagina.
+1. Nel [report attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), fare clic sul numero nella colonna Visualizzazioni pagina.
 
    ![](assets/image2014-9-16-14-3a54-3a8.png)
 
@@ -29,4 +29,4 @@ Da un [Rapporto attività pagina web](/help/marketo/product-docs/reporting/basic
 
    >[!MORELIKETHIS]
    >
-   >Creare un  [Rapporto Attività Web società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) per vedere quali aziende visitano il tuo sito.
+   >Crea un [report attività Web società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) per vedere quali società visitano il tuo sito.

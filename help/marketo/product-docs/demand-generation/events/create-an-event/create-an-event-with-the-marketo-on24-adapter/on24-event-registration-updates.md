@@ -19,26 +19,26 @@ Puoi approvare manualmente i tuoi iscritti prima di inviare loro un messaggio e-
 
 1. Per la campagna Trigger registrazione:
 
-   * Nell’elenco avanzato, imposta il trigger su **Compila modulo**.
-   * Nel flusso, imposta lo stato in Progressione su **In attesa di approvazione**.
+   * Nell&#39;elenco avanzato, impostare il trigger su **Compila modulo**.
+   * Nel flusso, impostare lo stato in Progressione su **In attesa di approvazione**.
 
-1. Vai all’evento e fai clic su **Membri** scheda. In questa scheda vengono visualizzate tutte le persone che hanno compilato il modulo. Il loro stato deve essere impostato su **In attesa di approvazione**.
-1. Utilizza il filtro nella parte superiore della griglia per visualizzare solo le persone con lo stato **In attesa di approvazione**.
+1. Vai all&#39;evento e fai clic sulla scheda **Membri**. In questa scheda vengono visualizzate tutte le persone che hanno compilato il modulo. Il loro stato deve essere impostato su **In attesa di approvazione**.
+1. Utilizza il filtro nella parte superiore della griglia per visualizzare solo le persone con uno stato di **In attesa di approvazione**.
 1. Selezionare le persone da registrare (Maiusc-clic, Ctrl-clic o Seleziona tutto).
-1. Dal menu, fai clic su **Modifica stato**. Seleziona **Registrato**, **Rifiutato** o qualsiasi altro stato applicabile.
+1. Scegliere **Modifica stato** dal menu. Seleziona **Registrato**, **Rifiutato** o qualsiasi altro stato applicabile.
 
 ## Gestione delle persone con un errore di registrazione {#handling-people-with-a-registration-error}
 
 Se una persona alla fine non viene registrata, ma piuttosto impostata sullo stato Errore di registrazione, non è troppo tardi per recuperare.
 
 1. Dalla scheda Membri, filtrare l&#39;elenco di persone con lo stato **Errore di registrazione**.
-1. Prima di continuare, accertati di aver determinato e risolto il problema con l’integrazione (verifica che non vi siano errori in ). **Partner evento** in Admin).
-1. Dopo aver risolto il problema, seleziona tutte le persone con lo stato Errore di registrazione e modificane lo stato in **Registrato**. Verrà eseguito un nuovo tentativo di registrazione con ON24.
+1. Prima di continuare, accertati di aver determinato e risolto il problema con l&#39;integrazione (verifica che non vi siano errori in **Partner evento** in Amministratore).
+1. Dopo aver risolto il problema, selezionare tutte le persone con lo stato Errore di registrazione e modificarne lo stato in **Registrato**. Verrà eseguito un nuovo tentativo di registrazione con ON24.
 
 ## Aggiornamento dello stato del membro da ON24 {#updating-member-status-from-on}
 
-Marketo richiama automaticamente le informazioni sulla frequenza alle 23:00 circa (Pacifico) di ogni notte. Per aggiornare manualmente le informazioni sulla partecipazione, fare clic su **Aggiorna dal provider del webinar** in **Azioni evento**.
+Marketo richiama automaticamente le informazioni sulla frequenza alle 23:00 circa (Pacifico) di ogni notte. Per aggiornare manualmente le informazioni sulla partecipazione, fare clic su **Aggiorna dal provider webinar** in **Azioni evento**.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi delle schede di rete Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Informazioni sugli eventi della scheda di rete Marketo ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

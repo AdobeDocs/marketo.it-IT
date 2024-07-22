@@ -6,7 +6,7 @@ exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1357'
+source-wordcount: '1346'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Puoi controllare la visibilità dei programmi impostando il comportamento Analyt
 
 >[!NOTE]
 >
->Ulteriori informazioni sull’impostazione del comportamento di analisi [qui](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
+>Ulteriori informazioni sull&#39;impostazione del comportamento di analisi [qui](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/edit-analytics-behavior-settings.md).
 
 ## Sto eseguendo una campagna multicanale per il lancio di un nuovo prodotto. Come posso visualizzare le prestazioni per questa campagna tra tutti i diversi canali in un’unica posizione? {#i-am-running-a-multi-channel-campaign-for-a-new-product-launch-how-can-i-view-the-performance-for-this-campaign-across-all-the-different-channels-in-one-place}
 
@@ -63,7 +63,7 @@ Potresti anche perdere delle opportunità a causa del costo del programma mancan
 
 >[!NOTE]
 >
->Costo periodo **ha** da configurare per la generazione di rapporti di successo e nuovi nomi nel dashboard Coinvolgimento. Questo pannello di controllo utilizza i dati relativi al costo periodo per aggregare i successi e i nuovi nomi. Se non è impostato il costo del periodo, il dashboard di coinvolgimento non genererà rapporti corretti indipendentemente dalle impostazioni di comportamento di Analytics riportate sopra.
+>Il costo del periodo **ha** da impostare per la generazione di rapporti di successo e nuovi nomi nel dashboard Coinvolgimento. Questo pannello di controllo utilizza i dati relativi al costo periodo per aggregare i successi e i nuovi nomi. Se non è impostato il costo del periodo, il dashboard di coinvolgimento non genererà rapporti corretti indipendentemente dalle impostazioni di comportamento di Analytics riportate sopra.
 
 ## Perché mi mancano alcune opportunità in MPI? {#why-am-i-missing-some-opportunities-in-mpi}
 
@@ -82,7 +82,7 @@ I campi personalizzati, il tipo di opportunità e i filtri ABM sono tutti attrib
 
 ## Desidero utilizzare un campo personalizzato Opportunità Salesforce per la generazione di rapporti sui ricavi anziché il campo standard Importo opportunità Salesforce. L&#39;MPI mi permette di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sì. [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) è in grado di rimappare il campo Importo opportunità di Marketo in un campo personalizzato Opportunità Salesforce, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo personalizzato Salesforce ricampionato.
+Sì. [Il supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) è in grado di mappare il campo Importo opportunità di Marketo a un campo personalizzato dell&#39;opportunità Salesforce, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo personalizzato Salesforce ricampionato.
 
 >[!NOTE]
 >
@@ -100,11 +100,11 @@ MPI è progettato per consentire di misurare le prestazioni del programma dall�
 
 ## Posso misurare il successo delle strategie basate su account in MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sì. MPI si integra con [MARKETO TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) per richiamare facilmente gli elenchi di account ABM in MPI. È possibile utilizzare il filtro Elenco account ABM per scegliere l&#39;elenco ABM desiderato in base al quale filtrare i dati.
+Sì. MPI si integra con [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) per richiamare gli elenchi di account ABM in MPI senza problemi. È possibile utilizzare il filtro Elenco account ABM per scegliere l&#39;elenco ABM desiderato in base al quale filtrare i dati.
 
 ## L’attribuzione è immediatamente disponibile quando acquisto MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
-Le funzionalità di attribuzione Marketo sono disponibili per i nostri clienti quando acquistano MPI. Tuttavia, [configurazione corretta](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) è necessario per garantire che le opportunità e i dati del programma fluiscano correttamente in MPI.
+Le funzionalità di attribuzione Marketo sono disponibili per i nostri clienti quando acquistano MPI. Tuttavia, è necessario [configurare correttamente](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md) per garantire il corretto flusso dei dati di opportunità e programmi in MPI.
 
 ## Cosa devo fare per impostare l’attribuzione? {#what-do-i-have-to-do-to-set-up-attribution}
 
@@ -125,7 +125,7 @@ Le funzionalità di attribuzione Marketo sono disponibili per i nostri clienti q
 
 >[!TIP]
 >
->Tutti i passaggi di configurazione richiesti sono descritti in [questo articolo](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
+>Tutti i passaggi di installazione richiesti sono descritti in [questo articolo](/help/marketo/product-docs/reporting/performance-insights/setting-up-performance-insights.md).
 
 ## Qual è la differenza tra MPI e Program Analyzer? {#whats-the-difference-between-mpi-and-the-program-analyzer}
 

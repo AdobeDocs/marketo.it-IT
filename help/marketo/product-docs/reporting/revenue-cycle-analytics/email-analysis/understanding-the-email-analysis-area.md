@@ -6,7 +6,7 @@ exl-id: a8219a4d-d240-432d-a7ef-bcfa0b4a82fa
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ L’area di analisi e-mail si concentra sulle metriche e-mail. Questo articolo i
 
 >[!AVAILABILITY]
 >
->Questa opzione è disponibile per gli utenti con Select Edition o [Analisi del ciclo dei ricavi](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/) componente aggiuntivo. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>È disponibile per gli utenti con il componente aggiuntivo Select Edition o [Revenue Cycle Analytics](https://www.marketo.com/global-enterprise/marketo-revenue-cycle-analytics/). Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
 
 ## Griglia di calore attività clic e-mail {#email-click-activity-heat-grid}
 

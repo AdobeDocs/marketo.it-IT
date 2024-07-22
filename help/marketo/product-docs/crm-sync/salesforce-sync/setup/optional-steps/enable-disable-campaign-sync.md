@@ -23,11 +23,11 @@ Questa opzione consente al Marketo Engage di sincronizzare l&#39;iscrizione al p
 
    ![](assets/image2014-12-9-13-3a36-3a49.png)
 
-1. Clic **[!UICONTROL Modifica impostazioni di sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Modifica impostazioni di sincronizzazione]**.
 
    ![](assets/image2014-12-9-13-3a37-3a0.png)
 
-1. Verifica **[!UICONTROL Abilita sincronizzazione campagne Salesforce]** e fai clic su **[!UICONTROL Salva]**.
+1. Seleziona **[!UICONTROL Abilita Salesforce Campaign Sync]** e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 

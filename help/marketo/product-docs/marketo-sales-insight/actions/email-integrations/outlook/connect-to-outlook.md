@@ -1,9 +1,10 @@
 ---
 description: Connettersi a Outlook - Documentazione di Marketo - Documentazione del prodotto
 title: Connetti a Outlook
-source-git-commit: 2538bd5973eb3372352c3ddbada6521911f9fc33
+exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ Scopri come collegare l’account Sales Insight Actions con Outlook.
 
 La connessione a Outlook ti consente di ricevere il tracciamento delle risposte, di accedere al canale di consegna di Outlook, di pianificare le e-mail in Outlook e di inviare messaggi di conformità.
 
-1. In Marketo Sales, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Marketo Sales, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/connect-to-outlook-1.png)
 
@@ -28,19 +29,19 @@ La connessione a Outlook ti consente di ricevere il tracciamento delle risposte,
 
    ![](assets/connect-to-outlook-2.png)
 
-1. Fai clic su **Connessione e-mail** scheda.
+1. Fare clic sulla scheda **Connessione e-mail**.
 
    ![](assets/connect-to-outlook-3.png)
 
-1. Clic **Introduzione**.
+1. Fai clic su **Inizia**.
 
    ![](assets/connect-to-outlook-4.png)
 
-1. Seleziona **Utilizzo Outlook per inviare le e-mail** e fai clic su **Successivo**.
+1. Seleziona **Utilizzo Outlook per inviare e-mail** e fai clic su **Avanti**.
 
    ![](assets/connect-to-outlook-5.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio si sta scegliendo Outlook Online.
+1. Selezionare la versione di Outlook in uso e fare clic su **Avanti**. In questo esempio si sta scegliendo Outlook Online.
 
    ![](assets/connect-to-outlook-6.png)
 
@@ -61,15 +62,15 @@ La connessione a Outlook ti consente di ricevere il tracciamento delle risposte,
    >
    >Al momento, Marketo non supporta gli account ibridi di Exchange.
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/connect-to-outlook-7.png)
 
-1. Se non si è connessi a Outlook, immettere le informazioni di accesso e fare clic su **Successivo**. Se lo sei, scegli l’account a cui desideri connetterti e fai clic su **Successivo**. In questo esempio, abbiamo già effettuato l’accesso.
+1. Se non hai effettuato l&#39;accesso a Outlook, immetti le tue informazioni di accesso e fai clic su **Avanti**. In caso affermativo, scegliere l&#39;account a cui connettersi e fare clic su **Avanti**. In questo esempio, abbiamo già effettuato l’accesso.
 
    ![](assets/connect-to-outlook-8.png)
 
-1. Clic **Accetta**.
+1. Fare clic su **Accetta**.
 
    ![](assets/connect-to-outlook-9.png)
 
@@ -77,13 +78,13 @@ La connessione a Outlook ti consente di ricevere il tracciamento delle risposte,
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) applica i propri limiti di invio. [Fai clic qui per ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365) applica i propri limiti di invio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Connessione a Exchange On-Premise {#connecting-to-exchange-on-premise}
 
 La connessione a Exchange On-Premise ti consente di ricevere il tracciamento delle risposte, di accedere al canale di consegna di Outlook, di pianificare le e-mail in Outlook e di inviare messaggi di conformità.
 
-1. In Marketo Sales, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Marketo Sales, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/connect-to-outlook-10.png)
 
@@ -91,19 +92,19 @@ La connessione a Exchange On-Premise ti consente di ricevere il tracciamento del
 
    ![](assets/connect-to-outlook-11.png)
 
-1. Fai clic su **Connessione e-mail** scheda.
+1. Fare clic sulla scheda **Connessione e-mail**.
 
    ![](assets/connect-to-outlook-12.png)
 
-1. Clic **Introduzione**.
+1. Fai clic su **Inizia**.
 
    ![](assets/connect-to-outlook-13.png)
 
-1. Seleziona **Utilizzo Outlook per inviare le e-mail** e fai clic su **Successivo**.
+1. Seleziona **Utilizzo Outlook per inviare e-mail** e fai clic su **Avanti**.
 
    ![](assets/connect-to-outlook-14.png)
 
-1. Selezionare la versione di Outlook in uso e fare clic su **Successivo**. In questo esempio viene scelto Exchange On-Premise.
+1. Selezionare la versione di Outlook in uso e fare clic su **Avanti**. In questo esempio viene scelto Exchange On-Premise.
 
    ![](assets/connect-to-outlook-15.png)
 
@@ -145,7 +146,7 @@ La connessione a Exchange On-Premise ti consente di ricevere il tracciamento del
 A seconda delle preferenze del team IT e della configurazione corrente, è consigliabile consultare il team IT per informazioni su come concedere l&#39;accesso. Di seguito sono riportati alcuni articoli che possono contribuire a guidare la conversazione.
 
 * Consenso globale: [App integrate e Azure AD per amministratori di Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Consenso utente: [Configurare il modo in cui gli utenti acconsentono alle applicazioni](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Consenso amministratore: [Configurare il flusso di lavoro di autorizzazione dell’amministratore](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Consenso utente: [Configura il consenso degli utenti alle applicazioni](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
+* Consenso amministratore: [Configura il flusso di lavoro del consenso amministratore](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
 * Attivazione o disattivazione del consenso utente: [Gestione del consenso degli utenti alle app in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Gestione con Microsoft Defender: [Gestione delle app OAuth](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}
+* Gestione con Microsoft Defender: [Gestione app OAuth](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

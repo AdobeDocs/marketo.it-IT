@@ -20,7 +20,7 @@ Segui i passaggi seguenti per scoprire come utilizzare i filtri e i trigger dell
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. In **Elenco avanzato** , cerca &quot;App di vendita&quot;.
+1. Nella scheda **Elenco avanzato**, cerca &quot;App di vendita&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Segui i passaggi seguenti per scoprire come utilizzare i filtri e i trigger dell
 
 >[!NOTE]
 >
->Per un elenco completo delle attività, dei vincoli e delle definizioni, consulta [Glossario attività di vendita](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).
+>Per un elenco completo delle attività, dei vincoli e delle definizioni, consultare il [Glossario delle attività di vendita](/help/marketo/product-docs/marketo-sales-connect/marketo/sales-activity-glossary.md).

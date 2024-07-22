@@ -21,7 +21,7 @@ I risultati mostrano tutti i tuoi account noti suddivisi per livello. A è il gr
 
 ![](assets/results.png)
 
-Anche se facoltativo, è consigliabile selezionare la casella di controllo Promuovi automaticamente in quanto consente di risparmiare molto tempo. Tuttavia, se desideri esaminare ogni account e [aggiungili manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia semplicemente deselezionata la casella.
+Anche se facoltativo, è consigliabile selezionare la casella di controllo Promuovi automaticamente in quanto consente di risparmiare molto tempo. Tuttavia, se desideri esaminare ogni account e [aggiungerlo manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia la casella deselezionata.
 
 <table> 
  <tbody> 
@@ -66,7 +66,7 @@ Sono disponibili diverse schede tra cui scegliere, che consentono una personaliz
 
 ![](assets/tuning-page.png)
 
-**Categorie indicatori**
+**Categorie indicatore**
 
 <table> 
  <tbody> 
@@ -158,13 +158,13 @@ Fai clic sul menu a discesa Aggiungi indicatore ICP per inserire indicatori aggi
 
 ![](assets/add-icp.png)
 
-La selezione della casella Esporta consente di visualizzare l&#39;indicatore ICP nella pagina Dettagli conto denominato e di utilizzare l&#39;indicatore ICP selezionato come vincoli in [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+La selezione della casella Esporta consente di visualizzare l&#39;indicatore ICP nella pagina Dettagli account denominati e di utilizzare l&#39;indicatore ICP selezionato come vincoli nei [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Gli indicatori ICP sono inclusi come vincoli in **Membro di account denominato** Filtri e trigger.
+>Gli indicatori ICP sono inclusi come vincoli in **Membro di filtri e trigger dell&#39;account denominato**.
 
 Ponderazione indicatore è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
 
@@ -174,6 +174,6 @@ Fate clic su Aggiorna modello (Refresh Model) per rendere effettive le modifiche
 
 ![](assets/refresh-button.png)
 
-Al termine della messa a punto del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica le classificazioni**.
+Al termine dell&#39;ottimizzazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica classificazione**.
 
 ![](assets/ranks.png)

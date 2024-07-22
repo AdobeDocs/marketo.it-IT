@@ -1,20 +1,20 @@
 ---
-description: Pagina principale della pubblicità online OA-YYY-MM-Marketo - Documentazione Marketo - Documentazione del prodotto
-title: Pagina di destinazione Marketo per la pubblicità online OA-YYY-MM
+description: Pagina iniziale Advertising Marketo OA-YYY-MM-Online - Documentazione Marketo - Documentazione del prodotto
+title: Pagina di destinazione OA-YYY-MM-Online Advertising Marketo
 feature: Programs
-exl-id: a41b87d9-922a-4ed8-a2a4-36ef17a88ede
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f7f17792-cc16-4a99-8683-68796770e42c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '485'
 ht-degree: 3%
 
 ---
 
-# Pagina di destinazione Marketo per la pubblicità online OA-YYY-MM {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# Pagina di destinazione OA-YYY-MM-Online Advertising Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Questo è un esempio di un programma di tracciamento della pubblicità online, che include una pagina di destinazione Marketo con modulo di registrazione e utilizza un programma predefinito Marketo. Il collegamento all’offerta può essere visualizzato nella pagina di ringraziamento, inviato tramite e-mail di ringraziamento o entrambi.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -27,7 +27,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <th>Tipo di programma</th>
   </tr> 
   <tr> 
-   <td>Pubblicità online</td> 
+   <td>Advertising online</td> 
    <td>01 - Membro 
 <br/>02 - Coinvolto - Completato</td>
    <td>Inclusivo</td>
@@ -36,7 +36,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Assets: contiene tutte le risorse creative 
+   <td>Assets - ospita tutte le risorse creative 
 <br/>(sottocartelle per e-mail e pagine di destinazione)  </td>
   </tr>
   <tr> 
@@ -125,8 +125,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td><code>{{my.Content-Description}}</code></td>
    <td>Doppio clic per dettagli  
 <br/><code><--My Content Description Here--></code> 
-<br/>Modifica questa descrizione del contenuto a livello di programma, nella scheda I miei token. 
-<br/>Imparerai: 
+<br/>Modificare la descrizione del contenuto a livello di programma, nella scheda I miei token. 
+<br/>Verranno fornite informazioni: 
 <li>Punto elenco 1</li>
 <li>Punto elenco 2</li>
 <li>Punto elenco 3</li></td>
@@ -173,7 +173,7 @@ SCHERMATA DEL PROGRAMMA
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 
@@ -198,7 +198,7 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 * È consigliabile aggiornare i modelli nel programma importato per utilizzare i modelli attualmente contrassegnati con il marchio oppure aggiornare il modello appena importato in base al marchio aggiungendo uno snippet o le informazioni appropriate su logo/piè di pagina.
 
-* Utilizza i tag del programma per filtrare i rapporti in base alle varie fonti di pubblicità online.
+* Utilizza i tag del programma per filtrare i rapporti in base alle diverse origini di Online Advertising.
 
 * Prendi in considerazione l’aggiornamento della convenzione di denominazione di questo esempio di programma per allinearla alla convenzione di denominazione.
 
@@ -208,7 +208,7 @@ SCHERMATA DELLE REGOLE DI CONFLITTO
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;02 - Coinvolto (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;02 - Coinvolto (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che il modulo sia attivo e che le e-mail vengano inviate.
 
 >[!IMPORTANT]
 >

@@ -17,17 +17,17 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungi un Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Nell’editor del test e-mail, seleziona **Oggetto** nel **Tipo di test** a discesa.
+1. Nell&#39;editor di test e-mail, seleziona **Oggetto** nel menu a discesa **Tipo di test**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In un test dell’oggetto, la prima riga dell’oggetto inserita è designata come **Campione**. Vengono chiamate le righe oggetto successive **Sfide**.
+   >In un test dell&#39;oggetto, la prima riga dell&#39;oggetto immessa è designata come **Champion**. Le righe dell&#39;oggetto successive sono denominate **Challengers**.
 
-1. Inserisci le righe dell&#39;oggetto per **Sfide**.
+1. Inserisci le righe dell&#39;oggetto per **Challengers**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    Per ottenere affidabilità statistica, assicurati che la percentuale scelta includa un numero sufficiente di persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti.
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 
@@ -55,4 +55,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Campione/Sfidante: definizione dei criteri del campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Campione/Sfidante: definizione dei criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

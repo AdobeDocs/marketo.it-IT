@@ -43,7 +43,7 @@ Con questa nuova funzione, ora è possibile conservare e consegnare le e-mail in
 
 Marketo ha una nuova opzione per scegliere un segmento quando si inviano e-mail di esempio per la revisione. Non è più necessario determinare manualmente a quale segmento appartiene un lead, semplificando l’invio di e-mail contenenti contenuto dinamico a segmenti diversi.
 
-## [Domande personalizzate sulla generazione lead di linkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Domande Personalizzate Generazione Lead LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
 Personalizza i moduli LinkedIn Lead Gen per raccogliere gli attributi del lead personalizzati. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra un&#39;immissione di testo a riga singola o domande a scelta multipla e mappare i campi lead di Marketo.
 
@@ -70,15 +70,15 @@ Visualizza e confronta le prestazioni dei contenuti negli elenchi di account ABM
 * contenuto convertito principale
 * Contenuti suggeriti basati sull’intelligenza artificiale per le attività di marketing
 
-## Miglioramenti alla personalizzazione web {#web-personalization-enhancements}
+## Miglioramenti di Web Personalization {#web-personalization-enhancements}
 
-**[Token per campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Token per campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 I token sono ora disponibili per l’utilizzo nelle campagne web. Sfrutta i token per inviare messaggi e contenuti personalizzati per aumentare il coinvolgimento nelle campagne web.
 
 ![](assets/image2017-11-16-11-3a25-3a7.png)
 
-**[Immagini di Design Studio nell’Editor di campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
+**[Immagini di Design Studio nell&#39;Editor campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)**
 
 Risparmia tempo riutilizzando le risorse creative e le immagini su più canali in Marketo.
 
@@ -86,7 +86,7 @@ Risparmia tempo riutilizzando le risorse creative e le immagini su più canali i
 
 ## Integrazione  {#integration}
 
-**[API di anteprima e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API anteprima e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ora è possibile visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semplificando il processo di localizzazione dei contenuti e-mail e riducendo gli errori.
 

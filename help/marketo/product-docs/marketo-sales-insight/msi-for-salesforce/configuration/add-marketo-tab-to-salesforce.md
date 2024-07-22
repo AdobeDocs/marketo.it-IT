@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Aggiungi scheda Marketo a Salesforce {#add-marketo-tab-to-salesforce}
 
-1. In Salesforce, fai clic su **+** e fai clic su **Personalizza schede personali**.
+1. In Salesforce, fai clic su **+** e fai clic su **Personalizza schede**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Seleziona Marketo nell’elenco a sinistra. Quindi fai clic su **Aggiungi** per aggiungerlo al **Schede selezionate**.
+1. Seleziona Marketo nell’elenco a sinistra. Quindi fai clic su **Aggiungi** per aggiungerlo alle **Schede selezionate**.
 
    >[!TIP]
    >
-   >Utilizza il **Su** e **Giù** freccia per riordinare le schede.
+   >Utilizza la freccia **Su** e **Giù** per riordinare le schede.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

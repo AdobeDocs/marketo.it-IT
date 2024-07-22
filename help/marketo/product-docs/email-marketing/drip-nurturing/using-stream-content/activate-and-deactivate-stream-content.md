@@ -21,7 +21,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attiva i co
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il programma di coinvolgimento e fai clic su **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **Streams**.
 
    ![](assets/cloneasteam.jpg)
 
@@ -35,13 +35,13 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attiva i co
 
    >[!TIP]
    >
-   >Puoi anche attivare tutto il contenuto di un flusso facendo clic sull’icona a forma di ingranaggio nel livello superiore, quindi facendo clic su **Attiva tutti i contenuti**.
+   >Puoi anche attivare tutti i contenuti di un flusso facendo clic sull&#39;icona a forma di ingranaggio nel livello superiore, quindi facendo clic su **Attiva tutti i contenuti**.
 
    Ottimo lavoro. Ora sai come attivare il contenuto nei flussi.
 
 ## Disattiva contenuto flusso {#deactivate-stream-content}
 
-1. Seleziona il programma di coinvolgimento e fai clic su **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **Streams**.
 
    ![](assets/cloneasteam.jpg)
 

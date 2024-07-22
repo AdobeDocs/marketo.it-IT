@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
 >[!NOTE]
 >
->Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori informazioni](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) informazioni sui modelli di pagina di destinazione in formato libero e guidato.
+>Le modalità della pagina di destinazione sono definite dal relativo modello. [Ulteriori informazioni](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md) sui modelli di pagine di destinazione guidate e in formato libero.
 
 ## Creare una pagina di destinazione in formato libero in un programma {#create-a-free-form-landing-page-in-a-program}
 
@@ -29,7 +29,7 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Clic **Nuovo**. Seleziona **Nuova risorsa locale**.
+1. Fare clic su **Nuovo**. Seleziona **Nuova risorsa locale**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
@@ -51,15 +51,15 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
 >[!TIP]
 >
->L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l’URL, modifica **URL della pagina** campo.
+>L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **URL pagina**.
 
 ## Creare una pagina di destinazione in formato libero in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Clic **Nuovo**, quindi **Nuova pagina di destinazione**.
+1. Fai clic su **Nuovo**, quindi su **Nuova pagina di destinazione**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -73,4 +73,4 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
 >[!TIP]
 >
->Deseleziona &quot;Apri editor pagina di destinazione per nuova pagina&quot; se non desideri che l’editor si apra immediatamente dopo aver fatto clic su **Crea**.
+>Deselezionare &quot;Apri editor pagina di destinazione per nuova pagina&quot; se non si desidera aprire l&#39;editor subito dopo aver fatto clic su **Crea**.

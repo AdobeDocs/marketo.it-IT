@@ -17,21 +17,21 @@ Apportare modifiche alle segmentazioni esistenti è semplice. Ecco la parte bass
 
 ## Creare una bozza di segmentazione {#create-a-segmentation-draft}
 
-1. Vai a **Database**.
+1. Vai al **database**.
 
    ![](assets/db.png)
 
-1. Nella segmentazione, fai clic su **Azioni di segmentazione** e poi **Crea bozza**.
+1. Nella segmentazione, fai clic su **Azioni di segmentazione** e quindi su **Crea bozza**.
 
    ![](assets/two.png)
 
-1. Il **Stato** Modifiche apportate ad Approvato con bozza. A **Bozza** viene creata nella segmentazione.
+1. Lo stato **Stato** diventa Approvato con bozza. Nella segmentazione è stata creata una cartella **Bozza**.
 
    ![](assets/three.png)
 
 ## Aggiungere, modificare o eliminare segmenti {#add-edit-or-delete-segments}
 
-1. Nella segmentazione, fai clic su **Azioni di segmentazione** e poi **Modifica segmenti**.
+1. Nella segmentazione, fai clic su **Azioni di segmentazione** e quindi su **Modifica segmenti**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Apportare modifiche alle segmentazioni esistenti è semplice. Ecco la parte bass
    >
    >Puoi modificare solo i segmenti di una bozza e non la segmentazione approvata.
 
-1. **Aggiungi segmento**, **Modifica** esistente (rinominare o modificare l’ordine) oppure **Elimina** qualsiasi Segmento.
+1. **Aggiungi segmento**, **Modifica** esistente (rinomina o modifica l&#39;ordine) o **Elimina** segmenti.
 
    ![](assets/image2014-9-16-9-3a6-3a9.png)
 
@@ -49,11 +49,11 @@ Apportare modifiche alle segmentazioni esistenti è semplice. Ecco la parte bass
 
    >[!CAUTION]
    >
-   >L’eliminazione influisce su tutti i contenuti dinamici associati nelle e-mail, nelle pagine di destinazione e nei frammenti. **Non è presente alcun annullamento**. Controlla la **Utilizzato da** per vedere cosa utilizza quel segmento.
+   >L’eliminazione influisce su tutti i contenuti dinamici associati nelle e-mail, nelle pagine di destinazione e nei frammenti. **Nessun annullamento**. Controlla la scheda **Usato da** per vedere cosa utilizza quel segmento.
 
 ## Modifica regole segmento {#edit-segment-rules}
 
-1. Nella bozza **Segmento**, vai a **Elenco avanzato**. Applica regole simili a [Definizione delle regole dei segmenti](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
+1. Nella bozza **Segmento**, passa a **Elenco avanzato**. Applica regole simili a [Definizione delle regole del segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md).
 
    ![](assets/image2014-9-16-9-3a6-3a20.png)
 

@@ -17,17 +17,17 @@ La modifica del dominio di branding predefinito è il primo passaggio nell’uti
 
 >[!PREREQUISITES]
 >
->Assicurati di aver [configurare un CNAME nel DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) prima di aggiungere i domini di branding in Marketo.
+>Assicurati di aver [configurato un CNAME nel DNS](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md) prima di aggiungere i domini di branding in Marketo.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-your-default-branding-domain-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. In [!UICONTROL Domini di branding] nella tabella, seleziona il dominio generico e fai clic su Modifica per modificarlo in dominio con marchio della tua azienda.
+1. Nella tabella [!UICONTROL Domini di branding], seleziona il dominio generico e fai clic su Modifica per modificarlo nel dominio con marchio della tua azienda.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 
@@ -39,4 +39,4 @@ La modifica del dominio di branding predefinito è il primo passaggio nell’uti
 
    ![](assets/edit-your-default-branding-domain-4.png)
 
-Ora puoi [aggiungi altri domini di branding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) ti serve.
+Ora puoi [aggiungere altri domini di branding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md) necessari.

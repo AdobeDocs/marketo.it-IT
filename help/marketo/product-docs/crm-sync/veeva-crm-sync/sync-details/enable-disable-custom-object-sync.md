@@ -20,15 +20,15 @@ Anche gli oggetti personalizzati creati nell’istanza di CRM Veeva possono far 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Marketo, fai clic su **[!UICONTROL Amministratore]**, quindi **[!UICONTROL Sincronizzazione oggetti Veeva]**.
+1. In Marketo, fai clic su **[!UICONTROL Amministratore]**, quindi su **[!UICONTROL Sincronizzazione oggetti Veeva]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su Sincronizza schema. In caso contrario, fare clic su **[!UICONTROL Aggiorna schema]** per avere la versione più recente.
+1. Se si tratta del primo oggetto personalizzato, fare clic su Sincronizza schema. In caso contrario, fare clic su **[!UICONTROL Aggiorna schema]** per verificare di disporre dell&#39;ultima versione.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Se la sincronizzazione globale è in esecuzione, disattivarla facendo clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Se la sincronizzazione globale è in esecuzione, disabilitarla facendo clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
@@ -36,7 +36,7 @@ Anche gli oggetti personalizzati creati nell’istanza di CRM Veeva possono far 
    >
    >La sincronizzazione dello schema di oggetti personalizzato Veeva potrebbe richiedere alcuni minuti.
 
-1. Clic **[!UICONTROL Aggiorna schema]**.
+1. Fare clic su **[!UICONTROL Aggiorna schema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
@@ -48,7 +48,7 @@ Selezionare l&#39;oggetto da sincronizzare e fare clic su Abilita sincronizzazio
 >
 >Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Contatto o Account in Veeva CRM.
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]** di nuovo.
+1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
@@ -62,7 +62,7 @@ Selezionare l&#39;oggetto da sincronizzare e fare clic su Abilita sincronizzazio
 >
 >Non è possibile utilizzare oggetti personalizzati nelle campagne intelligenti con trigger.
 
-1. Nell’elenco avanzato, trascina il filtro &quot;Ha opportunità&quot; e imposta su **[!UICONTROL Vero]**.
+1. Nell&#39;elenco avanzato, trascina il filtro &quot;Ha opportunità&quot; e imposta su **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -74,4 +74,4 @@ Eccellente! È ora possibile utilizzare i dati di questo oggetto personalizzato 
 
 >[!MORELIKETHIS]
 >
->[Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Aggiungi/Rimuovi campo oggetto personalizzato come elenco avanzato/vincoli trigger](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

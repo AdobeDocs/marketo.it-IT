@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -37,7 +37,7 @@ Quanti nuovi nomi sono stati generati al mese da ogni programma/canale?
 
 ### Iscrizione {#membership}
 
-| Misura | Descrizione |
+| Misurare | Descrizione |
 |---|---|
 | % nuovi nomi | Percentuale di lead acquisiti in un programma |
 | Membri | Totale lead in un programma |
@@ -60,9 +60,9 @@ Quanti nuovi nomi sono stati generati al mese da ogni programma/canale?
 | Settimana | Periodo di iscrizione al programma |
 | Data | Periodo di iscrizione al programma |
 
-### Completato {#success}
+### Operazione riuscita {#success}
 
-| Misura | Descrizione |
+| Misurare | Descrizione |
 |---|---|
 | % operazione riuscita (nuovi nomi) | Percentuale di lead acquisiti dal programma E che hanno raggiunto il successo nel suo avanzamento |
 | % di successo (totale) | Percentuale di lead che hanno raggiunto il successo nella progressione di un programma |

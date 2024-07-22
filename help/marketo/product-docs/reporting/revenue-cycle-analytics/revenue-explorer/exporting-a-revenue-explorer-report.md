@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque.
 
-1. Fai clic sull’icona a forma di ingranaggio, seleziona **Esporta** e selezionare un formato di file.
+1. Fai clic sull&#39;icona a forma di ingranaggio, seleziona **Esporta** e seleziona un formato di file.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -27,7 +27,7 @@ Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque
    >* Excel
    >* CSV
 
-1. Seleziona il **Formato pagina** e **Orientamento** e fai clic su **Esporta**.
+1. Seleziona il **Formato pagina** e l&#39;**Orientamento** desiderati, quindi fai clic su **Esporta**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque
 
 >[!MORELIKETHIS]
 >
->[Iscriviti a un rapporto di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Abbonati a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

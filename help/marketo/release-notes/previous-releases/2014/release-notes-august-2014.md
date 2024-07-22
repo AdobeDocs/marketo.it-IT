@@ -6,7 +6,7 @@ exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Le seguenti funzioni sono incluse nella versione di agosto 2014. Verifica la dis
 
 ## Licenze Marketing Calendar {#marketing-calendar-licenses}
 
-Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [Rilasciare/revocare una licenza di Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti di tua scelta prima di allora per un accesso ininterrotto.
+Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [rilasciare/revocare una licenza di Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti da te scelti prima di tale data per un accesso ininterrotto.
 
-![--](assets/image2014-9-16-9-3a45-3a52.png)
+![—](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Autorizzazioni per nuovi utenti {#new-user-permissions}
 
@@ -35,7 +35,7 @@ Sono state aggiunte le seguenti nuove autorizzazioni utente:
 
 ## Esporta utenti e ruoli da amministratore {#export-users-and-roles-from-admin}
 
-Ora puoi [Esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Puoi anche includere nell’esportazione il timestamp &quot;Last Login&quot; (Ultimo accesso).
+È ora possibile [esportare un elenco di utenti e ruoli](/help/marketo/product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md) da Marketo. Puoi anche includere nell’esportazione il timestamp &quot;Last Login&quot; (Ultimo accesso).
 
 ![](assets/image2014-9-16-12-3a20-3a16.png)
 
@@ -57,7 +57,7 @@ Per migliorare il recapito messaggi, tutte le e-mail in uscita saranno firmate D
 >
 >DKIM verrà introdotto lentamente, potrebbe non essere visibile per alcune settimane.
 
-## Aggiornamenti della personalizzazione in tempo reale {#real-time-personalization-updates}
+## Aggiornamenti di Real-Time Personalization {#real-time-personalization-updates}
 
 Abbiamo aggiunto delle etichette alla pagina della campagna per consentirti di assegnare tag al contenuto dei tuoi cuori.
 

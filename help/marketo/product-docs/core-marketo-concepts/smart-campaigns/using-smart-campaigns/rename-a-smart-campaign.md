@@ -27,7 +27,7 @@ Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
    >
    >I nomi delle campagne intelligenti all’interno dei programmi si traducono sempre nel formato &quot;NomeProgramma.NomeCampagna&quot;.
 
-1. Immetti il nuovo nome di Smart Campaign e fai clic su **[!UICONTROL Salva]**.
+1. Immetti il nuovo nome della campagna avanzata e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/rename-a-smart-campaign-3.png)
 

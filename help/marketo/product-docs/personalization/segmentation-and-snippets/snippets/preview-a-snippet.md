@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungere contenuto a uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>[Aggiungi contenuto a frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
 
 I frammenti sono blocchi di contenuto dinamico che cambiano in base alle regole di segmentazione.
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/designstudio-3.png)
 
-1. Fai clic sul frammento e quindi **Anteprima snippet**.
+1. Fai clic sul frammento e quindi **Anteprima frammento**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

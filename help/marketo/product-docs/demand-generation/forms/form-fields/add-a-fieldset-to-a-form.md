@@ -23,15 +23,15 @@ I campi sono fantastici. Raggruppano un mucchio di campi. Puoi anche controllare
 
    ![](assets/image2014-9-15-15-3a1-3a22.png)
 
-1. Fai clic su **+** firma e seleziona **Set di campi**.
+1. Fai clic sul segno **+** e seleziona **Set di campi**.
 
    ![](assets/image2014-9-15-15-3a1-3a43.png)
 
-1. Seleziona la **set di campi** e inserisci un **Etichetta**.
+1. Seleziona il **set di campi** e immetti un **etichetta**.
 
    ![](assets/image2014-9-15-15-3a2-3a0.png)
 
-1. Trascinare i campi desiderati in **set di campi**.
+1. Trascinare i campi desiderati nel **set di campi**.
 
    ![](assets/image2014-9-15-15-3a2-3a13.png)
 
@@ -43,4 +43,4 @@ Eccolo!
 
 >[!TIP]
 >
->Puoi nascondere/mostrare in modo dinamico l’intero set di campi a seconda di un altro campo. Informazioni su [regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).
+>Puoi nascondere/mostrare in modo dinamico l’intero set di campi a seconda di un altro campo. Scopri le [regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md).

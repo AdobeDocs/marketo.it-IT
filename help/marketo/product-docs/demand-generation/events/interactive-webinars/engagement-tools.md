@@ -49,7 +49,7 @@ Il pod di chat viene utilizzato per comunicare con altri partecipanti all&#39;in
 
 Un pod di chat aggiunto nell’area Host e Presenter può essere utilizzato per comunicare privatamente con il team di presentazione. Per ulteriori informazioni sul pod di chat, consulta questo Adobe di aiuto e questo video.
 
-NOTA: viene sempre registrato un pod di chat. Utilizza un pannello Chat se non desideri che le chat facciano parte della registrazione. Per ulteriori informazioni sul pod di chat, consulta questo Adobe della guida. [Collega questa sezione alle chat in registrazione della nuova pagina del webinar interattivo sulla consegna].
+NOTA: viene sempre registrato un pod di chat. Utilizza un pannello Chat se non desideri che le chat facciano parte della registrazione. Per ulteriori informazioni sul pod di chat, consulta questo Adobe della guida. [Collega questo elemento alle chat nella sezione Registrazione della nuova pagina del webinar interattivo per la consegna].
 
 SCHERMATA
 

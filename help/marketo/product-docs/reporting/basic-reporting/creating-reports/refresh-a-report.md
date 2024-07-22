@@ -6,7 +6,7 @@ exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Dopo aver visualizzato un report, Marketo lo memorizza nel database in modo che 
 
    ![](assets/two.png)
 
-1. Puoi anche aggiornare il rapporto facendo clic sul pulsante **Azioni report** e selezionando **Aggiorna report**.
+1. Puoi anche aggiornare il report facendo clic sul menu **Azioni report** e selezionando **Aggiorna report**.
 
    ![](assets/three.png)
 

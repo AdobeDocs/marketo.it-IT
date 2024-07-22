@@ -17,22 +17,22 @@ ht-degree: 0%
 
    ![](assets/one.png)
 
-1. Clic **[!UICONTROL Azioni della persona]** e **[!DNL Microsoft]**, e seleziona **[!UICONTROL Sincronizza persona con Microsoft]**.
+1. Fai clic su **[!UICONTROL Azioni persona]** e **[!DNL Microsoft]**, quindi seleziona **[!UICONTROL Sincronizza persona con Microsoft]**.
 
    ![](assets/two.png)
 
-1. Clic **[!UICONTROL Sincronizza con nome]** e seleziona **[!UICONTROL Contatto]**. Clic **[!UICONTROL Esegui ora]**.
+1. Fai clic su **[!UICONTROL Sincronizza come]** e seleziona **[!UICONTROL Contatto]**. Fare clic su **[!UICONTROL Esegui ora]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Quando si utilizza il file &quot;[!UICONTROL Sincronizza persona con Microsoft]&quot;Azione di flusso (solo in una campagna con trigger), il lead/contatto verrà creato in tempo reale in Dynamics.
+   >Quando si utilizza l&#39;azione di flusso &quot;[!UICONTROL Sincronizza persona con Microsoft]&quot; (solo in una campagna di attivazione), il lead/contatto verrà creato in tempo reale in Dynamics.
 
 1. Marketo qualifica il record Lead in Dynamics come un contatto non associato ad alcun account in Dynamics.
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. Ora puoi selezionare **[!UICONTROL Contatto]** quando utilizzi il vincolo Sincronizza con nome in un filtro smart campaign.
+1. È ora possibile selezionare **[!UICONTROL Contatto]** quando si utilizza il vincolo Sincronizza con nome in un filtro Smart Campaign.
 
    ![](assets/five.png)

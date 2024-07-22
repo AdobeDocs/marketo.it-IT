@@ -19,19 +19,19 @@ L’aggiunta di concorrenti consente di tenere traccia delle loro prestazioni pe
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Fai clic su **[!UICONTROL Concorrenti]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Concorrenti]**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Clic **[!UICONTROL Aggiungi concorrente]**.
+1. Fare clic su **[!UICONTROL Aggiungi concorrente]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Digita nella **[!UICONTROL Nome]** e **[!UICONTROL URL]** del tuo concorrente.
+1. Digita il **[!UICONTROL Nome]** e l&#39;**[!UICONTROL URL]** del tuo concorrente.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 
@@ -42,4 +42,4 @@ L’aggiunta di concorrenti consente di tenere traccia delle loro prestazioni pe
    >[!MORELIKETHIS]
    >
    >* [Aggiungi parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md){target="_blank"}
-   >* [Parole chiave (visualizzazione per i concorrenti)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}
+   >* [Informazioni sulle parole chiave (visualizzazione della concorrenza)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md){target="_blank"}

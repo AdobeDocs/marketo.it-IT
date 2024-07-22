@@ -16,9 +16,9 @@ ht-degree: 0%
 Ci sono diversi modi in cui le persone possono diventare membri di un programma di coinvolgimento:
 
 * [Aggiungi al programma di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/add-to-engagement-program.md)
-* [Modifica cadenza programma di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md) passaggio di flusso
+* [Passaggio di flusso per modifica cadenza programma di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-cadence.md)
 * [Flusso del programma di modifica del coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) passaggio di flusso
-* [Modifica stato programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md) passaggio di flusso
+* [Passaggio del flusso Modifica stato programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md)
 * Se una persona compila un modulo locale in un programma di coinvolgimento
 * Importazione di membri in un programma di coinvolgimento (tramite la scheda Membri nel programma)
 * Se utilizzi Salesforce come CRM e disponi di una campagna Salesforce associata al tuo programma di coinvolgimento, aggiungere qualcuno alla campagna Salesforce dal lato CRM li renderà anche membri del programma di coinvolgimento.

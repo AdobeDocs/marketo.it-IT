@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!TIP]
 >
->È possibile aggiungere persone a un elenco utilizzando [Importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) o [Passaggio di flusso Aggiungi a elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
+>Puoi aggiungere persone a un elenco utilizzando [Importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) o il [Passaggio del flusso Aggiungi a elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}.
 
 Con questo filtro, puoi estrarre i membri da un altro elenco facendo riferimento a esso nelle regole dell’elenco avanzato. Ecco come.
 
-1. Seleziona un elenco avanzato e fai clic su **[!UICONTROL Elenco avanzato]** scheda.
+1. Selezionare un elenco avanzato e fare clic sulla scheda **[!UICONTROL Elenco avanzato]**.
 
    ![](assets/smartlist-sltab.png)
 
-1. Nel pannello dei filtri a destra, cerca e trascina il **[!UICONTROL Membro dell&#39;elenco]** filtra nell’area di lavoro.
+1. Nel pannello dei filtri sul lato destro, cerca e trascina il filtro **[!UICONTROL Membro dell&#39;elenco]** nell&#39;area di lavoro.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 
@@ -31,4 +31,4 @@ Con questo filtro, puoi estrarre i membri da un altro elenco facendo riferimento
 
    ![](assets/memberoflist.png)
 
-   Completato! In questo esempio, l’elenco avanzato eseguirà il targeting solo dei membri dell’elenco e li valuterà in base alle altre regole che includi.
+   Fine. In questo esempio, l’elenco avanzato eseguirà il targeting solo dei membri dell’elenco e li valuterà in base alle altre regole che includi.

@@ -19,7 +19,7 @@ Dopo aver abilitato LinkedIn Lead Gen Forms, puoi utilizzarli come filtri e atti
 >
 >Quando le persone inviano le proprie informazioni in un modulo LinkedIn Lead Gen, queste vengono inviate immediatamente a Marketo, rendendo il modulo disponibile nel menu a discesa Lead Gen Form Name. I nomi dei moduli non saranno visibili fino a quando almeno una persona non avrà inviato il modulo.
 
-1. Utilizza il **Compila il modulo generazione lead di LinkedIn** attivare l&#39;azione immediata o **Modulo generazione lead LinkedIn compilato** filtro per campagne batch pianificate o filtro elenco avanzato standard.
+1. Utilizza il trigger **Compilazione modulo generazione lead LinkedIn** per intervenire immediatamente oppure il filtro **Compilazione modulo generazione lead LinkedIn** per le campagne batch pianificate o il filtro elenco smart standard.
 
    ![](assets/screen-shot-2017-03-29-at-2.38.03-pm.png)
 

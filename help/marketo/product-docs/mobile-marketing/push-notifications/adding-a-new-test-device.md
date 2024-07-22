@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 1%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Clic **Amministratore** e quindi il **App mobili** collegamento.
+1. Fai clic su **Amministratore**, quindi sul collegamento **App mobili**.
 
    ![](assets/image2015-7-9-14-3a33-3a12.png)
 
-1. Fai clic su **Dispositivi di prova** scheda e **Nuovo dispositivo di prova**.
+1. Fare clic sulla scheda **Dispositivi di prova** e **Nuovo dispositivo di prova**.
 
    ![](assets/image2015-7-17-17-3a4-3a52.png)
 
@@ -41,11 +41,11 @@ ht-degree: 1%
 
    ![](assets/image2015-7-17-17-3a9-3a54.png)
 
-1. Viene aperta l’app. Denomina il dispositivo e tocca **Sì**.
+1. Viene aperta l’app. Assegna un nome al dispositivo e tocca **Sì**.
 
    ![](assets/image2015-7-17-17-3a31-3a23.png)
 
-   Completato!
+   Operazione completata.
 
    ![](assets/image2015-7-17-17-3a33-3a5.png)
 

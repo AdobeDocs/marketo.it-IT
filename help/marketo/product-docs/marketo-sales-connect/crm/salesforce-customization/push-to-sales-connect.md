@@ -6,7 +6,7 @@ exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Il nostro pulsante Push to Tout (Invia a Tout) contiene un elenco dei lead/conta
 
 ## Procedura {#how-to}
 
-1. Fai clic su **Lead/Contatto** in Salesforce.
+1. Fai clic sulla scheda **Lead/Contatto** in Salesforce.
 1. Passa alla Vista a elenco da inviare a Sales Connect accanto al pulsante Vai.
-1. Clic **Vai**.
+1. Fai clic su **Vai**.
 1. Seleziona tutti i lead/contatti che desideri inviare al tout.
-1. Seleziona **Invia a MSE**.
-1. Verrà visualizzata una nuova finestra che verifica il numero di lead/contatti che desideri trasferire. Seleziona **Procedi al gruppo**. Sales Connect non invierà tramite push alcun contatto contrassegnato come Opt Out (Rifiuto) via e-mail in Salesforce o Unsubabbonamento in Sales Connect.
+1. Selezionare **Invia a MSE**.
+1. Verrà visualizzata una nuova finestra che verifica il numero di lead/contatti che desideri trasferire. Selezionare **Procedi al gruppo**. Sales Connect non invierà tramite push alcun contatto contrassegnato come Opt Out (Rifiuto) via e-mail in Salesforce o Unsubabbonamento in Sales Connect.
 
    >[!NOTE]
    >
-   >Sales Connect aggiungerà questo gruppo denominato &quot;SFDC-...&quot; alla pagina Relazioni del [applicazione web](https://toutapp.com/login).
+   >Sales Connect aggiungerà questo gruppo denominato &quot;SFDC-...&quot; alla pagina Relazioni della [applicazione Web](https://toutapp.com/login).
 
-1. Seleziona **Invia intero gruppo tramite e-mail** per inviare l&#39;e-mail del gruppo.
+1. Seleziona **Invia e-mail a tutto il gruppo** per inviare l&#39;e-mail a questo gruppo.

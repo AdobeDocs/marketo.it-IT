@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Seleziona un modello di e-mail o scrivi un nuovo messaggio.
 
-1. Quando l’e-mail è pronta per l’invio, fai clic su **Invia e connetti** pulsante. Facendo clic su quel pulsante invece del normale pulsante di invio, l’e-mail verrà inviata con il tracciamento applicato. Sales Connect tiene traccia di quando l&#39;e-mail viene aperta e quando qualcuno fa clic su qualsiasi collegamento.
+1. Quando l&#39;e-mail è pronta per l&#39;invio, fai clic sul pulsante **Invia e connetti**. Facendo clic su quel pulsante invece del normale pulsante di invio, l’e-mail verrà inviata con il tracciamento applicato. Sales Connect tiene traccia di quando l&#39;e-mail viene aperta e quando qualcuno fa clic su qualsiasi collegamento.

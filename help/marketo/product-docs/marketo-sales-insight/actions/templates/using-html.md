@@ -22,7 +22,7 @@ ht-degree: 0%
 
    ![](assets/using-html-2.png)
 
-1. Fai clic su **Sorgente** nell’editor modelli.
+1. Fai clic sul pulsante **Source** nell&#39;editor modelli.
 
    ![](assets/using-html-3.png)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Se viene visualizzato l’errore &quot;Error - to remove the style/java/html tags&quot; (Errore: per rimuovere i tag style/java/html), significa che sono presenti stili non supportati. È necessario cercare nel codice sorgente lo stile della parola ed eliminare tutto da `<style>` da a `</style>`.
+>Se viene visualizzato l’errore &quot;Error - to remove the style/java/html tags&quot; (Errore: per rimuovere i tag style/java/html), significa che sono presenti stili non supportati. Cercare nel codice Source lo stile della parola ed eliminare tutto da `<style>` a `</style>`.

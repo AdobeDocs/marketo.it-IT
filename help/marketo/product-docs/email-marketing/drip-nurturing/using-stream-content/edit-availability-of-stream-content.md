@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Puoi impostare un intervallo di tempo per il contenuto affinché sia attivo nel flusso. Ecco come.
 
-1. Seleziona il programma di coinvolgimento e vai al **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e passa alla scheda **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
-1. Fai clic sull’icona a forma di ingranaggio del contenuto da pianificare, quindi seleziona **Modifica disponibilità**.
+1. Fai clic sull&#39;icona a forma di ingranaggio per la parte di contenuto che desideri pianificare, quindi seleziona **Modifica disponibilità**.
 
    ![](assets/image2014-9-15-17-3a35-3a56.png)
 
-1. Seleziona il **Attivo da** data, quindi **Attivo tramite** data e clic **Salva**.
+1. Seleziona la data **Attivo da**, quindi la data **Attivo fino a** e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-17-3a36-3a0.png)
 
    >[!TIP]
    >
-   >Puoi partire **Attivo tramite** vuoto per rendere il contenuto disponibile per sempre.
+   >Puoi lasciare vuoto **Attivo fino a** per rendere il contenuto disponibile per sempre.
 
    Perfetto! Accanto al contenuto pianificato viene visualizzata l’icona dell’orologio. Diventerà attivo e inattivo in base alla pianificazione impostata.
 

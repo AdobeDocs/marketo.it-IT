@@ -17,7 +17,7 @@ Hai così tanti segmenti che scorrere diventa complicato? Utilizza le etichette 
 
 ## Assegnare tag a un segmento {#tag-a-segment}
 
-1. Accedi a Personalizzazione web e vai su **Segmenti**.
+1. Accedi a Web Personalization e passa a **Segmenti**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Hai così tanti segmenti che scorrere diventa complicato? Utilizza le etichette 
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Per utilizzare un&#39;etichetta esistente, fare clic su **Imposta etichetta**, seleziona una casella e fai clic su **Applica**.
+1. Per utilizzare un&#39;etichetta esistente, fare clic su **Imposta etichetta**, selezionare una casella e fare clic su **Applica**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. In alternativa, per creare una nuova etichetta, fai clic su **Imposta etichetta**, immettere il nome della nuova etichetta e fare clic su **Crea nuovo**.
+1. In alternativa, per creare una nuova etichetta, fare clic su **Imposta etichetta**, immettere il nome della nuova etichetta e fare clic su **Crea nuova**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Se il Marketo Engage è un&#39;auto, la Smart Campaign ne è il motore. Le campagne intelligenti possono fare più di quanto si possa immaginare ed è facile iniziare a utilizzarle.
 
-La campagna Smart è costituita da 3 aree principali: [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} e [Pianificazione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"} schede.
+Smart Campaign dispone di 3 aree principali: le schede [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md){target="_blank"}, [Flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} e [Pianifica](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md){target="_blank"}.
 
 ## Elenco avanzato {#smart-list}
 
-L’elenco avanzato è come si definisce _chi_ desideri eseguire il targeting con la tua Smart Campaign. Ha filtri e trigger.
+L&#39;elenco avanzato è il modo in cui definisci _chi_ desideri eseguire il targeting con la tua Smart Campaign. Ha filtri e trigger.
 
 <table> 
  <tbody> 
@@ -55,8 +55,8 @@ La campagna intelligente può fare un numero enorme di cose. Riprendetevelo e tr
 
 >[!CAUTION]
 >
->Se si sposta una campagna avanzata da un programma a un altro e i passaggi Smart List o Flow della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente le informazioni in modo che riflettano il nuovo programma. **non** aggiornamento automatico.
+>Se si sposta una campagna avanzata da un programma a un altro e i passaggi Smart List o Flow della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente le informazioni in modo che riflettano il nuovo programma, poiché **not** verrà aggiornato automaticamente.
 
 >[!MORELIKETHIS]
 >
->[Creare una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}
+>[Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}

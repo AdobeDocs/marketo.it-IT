@@ -6,7 +6,7 @@ exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
    ![](assets/two-2.png)
 
-1. Quando l’intervallo di date è selezionato, fai clic su **Applica**.
+1. Quando il tuo intervallo di date è selezionato, fai clic su **Applica**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
    ![](assets/5.png)
 
-1. Sul lato destro del grafico, fai clic sull’icona Esporta e seleziona **Salva come grafico rapido**.
+1. Sul lato destro del grafico fare clic sull&#39;icona di esportazione e selezionare **Salva come grafico rapido**.
 
    ![](assets/six.png)
 
@@ -65,15 +65,15 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
 Eliminare uno dei grafici rapidi? È facile!
 
-1. Fai clic su **Grafici rapidi** icona.
+1. Fai clic sull&#39;icona **Grafici rapidi**.
 
    ![](assets/nine.png)
 
-1. Passa il cursore del mouse sul grafico desiderato, ma non fai clic su di esso. Al passaggio del mouse, viene visualizzata una X. Fai clic su **X**.
+1. Passa il cursore del mouse sul grafico desiderato, ma non fai clic su di esso. Al passaggio del mouse, viene visualizzata una X. Fare clic su **X**.
 
    ![](assets/ten.png)
 
-1. Clic **Ok**.
+1. Fare clic su **Ok**.
 
    ![](assets/eleven.png)
 

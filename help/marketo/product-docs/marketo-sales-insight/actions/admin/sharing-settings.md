@@ -5,7 +5,7 @@ exl-id: 151d64da-7a36-4da2-8041-ebcdcd016a50
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 
 ## Configurare Le Impostazioni Di Condivisione {#configure-your-sharing-settings}
 
-1. In [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;[applicazione Web](https://toutapp.com/login), fare clic sull&#39;icona ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/sharing-settings-1.png)
 
-1. In Impostazioni amministratore, seleziona **Condivisione dell&#39;accesso**.
+1. In Impostazioni amministratore, selezionare **Accesso condiviso**.
 
    ![](assets/sharing-settings-2.png)
 
-1. Assicurati che **Impostazioni di condivisione** è abilitato. Ciò significa che, per impostazione predefinita, solo gli amministratori potranno condividere i modelli nelle categorie dei modelli.
+1. Verificare che **Impostazioni di condivisione** sia abilitato. Ciò significa che, per impostazione predefinita, solo gli amministratori potranno condividere i modelli nelle categorie dei modelli.
 
    ![](assets/sharing-settings-3.png)
 
@@ -36,7 +36,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
 
    ![](assets/sharing-settings-4.png)
 
-1. Clic **Aggiungi team per l&#39;accesso**.
+1. Fai clic su **Aggiungi team per l&#39;accesso**.
 
    ![](assets/sharing-settings-5.png)
 
@@ -48,7 +48,7 @@ Quando le impostazioni di condivisione sono abilitate, solo gli amministratori p
    >
    >Se non trovi team, devi passare a Gestione team e creare un team di utenti.
 
-1. Clic **Aggiungi team per l&#39;accesso** per salvare.
+1. Fai clic su **Aggiungi team per l&#39;accesso** per salvare.
 
    ![](assets/sharing-settings-7.png)
 

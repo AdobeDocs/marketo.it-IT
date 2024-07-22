@@ -6,7 +6,7 @@ exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,25 +17,25 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-Per utilizzare [Calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"} postazioni, devi rilasciare le licenze agli utenti che hanno bisogno di accedervi. Ecco come.
+Per utilizzare le postazioni del [Calendario marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, è necessario rilasciare le licenze agli utenti che necessitano di accedervi. Ecco come.
 
-1. Vai a **[!UICONTROL Amministratore]** sezione.
+1. Vai alla sezione **[!UICONTROL Amministratore]**.
 
    ![](assets/adminhand.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/2.png)
 
-1. Seleziona gli utenti e fai clic su **[!UICONTROL Licenza Issue]**.
+1. Selezionare gli utenti e fare clic su **[!UICONTROL Licenza Issue]**.
 
    >[!TIP]
    >
-   >Utilizzare **Ctrl/Comando+clic** per selezionare più utenti contemporaneamente.
+   >Utilizza **Ctrl/Comando+clic** per selezionare più utenti contemporaneamente.
 
    ![](assets/3.png)
 
-1. Verifica **[!UICONTROL Abilita licenza]** e fai clic su **[!UICONTROL Salva]**.
+1. Controlla **[!UICONTROL Abilita licenza]** e fai clic su **[!UICONTROL Salva]**.
 
    >[!NOTE]
    >

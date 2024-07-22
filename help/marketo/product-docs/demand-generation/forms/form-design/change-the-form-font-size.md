@@ -27,19 +27,19 @@ Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibil
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. Sotto **Impostazioni modulo**, Seleziona **Impostazioni**.
+1. In **Impostazioni Modulo**, Seleziona **Impostazioni**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Seleziona la **Dimensione font** tu vuoi.
+1. Selezionare la **dimensione carattere** desiderata.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    >[!NOTE]
    >

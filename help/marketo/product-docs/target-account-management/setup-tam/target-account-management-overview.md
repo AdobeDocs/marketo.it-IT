@@ -6,7 +6,7 @@ exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Marketo unisce la gestione dei lead e dei TAM in un’unica soluzione, semplific
 
 Marketo TAM è costituito da tre componenti:
 
-**1) Target**
+**1) Destinazione**
 
 * Individuazione account
 * Corrispondenza lead-account
@@ -35,7 +35,7 @@ Marketo TAM è costituito da tre componenti:
 
 **2) Coinvolgi**
 
-* Personalizzazione basata su account
+* Personalization basato su account
 * Cross-Channel Engagement
 * Flussi di lavoro specifici per l’account
 
@@ -47,15 +47,15 @@ Marketo TAM è costituito da tre componenti:
 
 Il marketing basato su account Marketo offre anche diversi strumenti per personalizzare l’esperienza dell’account denominato tra i canali.
 
-* Personalizzazione di e-mail e pagine di destinazione
-* Personalizzazione web
-* URL [Personalizzazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
-* Annuncio [Personalizzazione](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
-* [Personalizzato](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md) Remarketing
+* E-mail e pagina di destinazione Personalization
+* Web Personalization
+* URL [Personalization](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+* Aggiungi [Personalization](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+* [Remarketing personalizzato](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
 
 Sono dentro! Come si inizia?
 
-Pensavamo che non avresti mai chiesto! Il TAM è disponibile come componente aggiuntivo per l’abbonamento a Marketo; per favore contatta il tuo rappresentante di vendita per l’implementazione. Una volta ottenuto, consulta questo articolo: [Guida introduttiva a TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
+Pensavamo che non avresti mai chiesto! Il TAM è disponibile come componente aggiuntivo per l’abbonamento a Marketo; per favore contatta il tuo rappresentante di vendita per l’implementazione. Dopo averlo, vedi questo articolo: [Guida introduttiva al TAM](/help/marketo/product-docs/target-account-management/setup-tam/getting-started-with-tam.md).
 
 >[!NOTE]
 >

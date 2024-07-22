@@ -6,28 +6,28 @@ exl-id: c1b9d208-bdc0-4718-b3e5-e9e915b8ae0f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 0%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
 # Campi obbligatori per la sincronizzazione di Marketo con Dynamics {#required-fields-for-syncing-marketo-with-dynamics}
 
-Questi campi *deve* sincronizzarsi con Marketo per il funzionamento sia di Lead che di Contact for Sales Insight:
+I campi *must* devono essere sincronizzati con Marketo affinché sia il lead che il contatto per Sales Insight funzionino:
 
 * Priorità
 * Urgenza
 * Punteggio relativo
 
-Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere questo problema, controlla nell’istanza per assicurarti che i campi siano sincronizzati per entrambi **Lead** e **Contatto**. In caso contrario, aggiungili.
+Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, controlla nella tua istanza per assicurarti che i campi siano sincronizzati sia per **Lead** che per **Contact**. In caso contrario, aggiungili.
 
 Ecco come verificare e aggiungere campi di sincronizzazione.
 
-1. Vai a Amministratore e fai clic su **Microsoft Dynamics**.
+1. Accedi all&#39;amministratore e fai clic su **Microsoft Dynamics**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clic **Modifica** in Dettagli sincronizzazione campi.
+1. Fai clic su **Modifica** in Dettagli sincronizzazione campi.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -47,7 +47,7 @@ Ecco come verificare e aggiungere campi di sincronizzazione.
 
    ![](assets/image2016-6-8-13-3a36-3a36.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2016-6-8-13-3a41-3a27.png)
 

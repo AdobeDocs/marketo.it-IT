@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se desideri rimanere organizzato, puoi rinominare i flussi. Ecco come farlo.
 
-1. Trova e seleziona il programma di coinvolgimento, quindi fai clic su **Flussi**.
+1. Trova e seleziona il tuo programma di coinvolgimento, quindi fai clic su **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Se desideri rimanere organizzato, puoi rinominare i flussi. Ecco come farlo.
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Inserisci il nuovo flusso **Nome** e fai clic su **Salva**.
+1. Immetti il nuovo flusso **Name** e fai clic su **Save**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

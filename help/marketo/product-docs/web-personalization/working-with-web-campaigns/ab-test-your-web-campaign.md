@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I test sono un ottimo modo per ottimizzare le campagne web per un coinvolgimento migliore. Ecco come iniziare.
 
-Per testare le campagne personalizzate tramite A/B, puoi selezionare due o più campagne e associarle alla stessa **Dividi test** e seleziona **Sintonizzazione automatica** per continuare automaticamente con la campagna con le prestazioni migliori.
+Per eseguire il test A/B delle campagne personalizzate, è possibile selezionare due o più campagne, associarle allo stesso gruppo **Test suddiviso** e selezionare **Sintonizzazione automatica** per continuare automaticamente con la campagna dalle prestazioni migliori.
 
 >[!TIP]
 >
@@ -29,41 +29,41 @@ Per testare le campagne personalizzate tramite A/B, puoi selezionare due o più 
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizza [funzione filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Per semplificare la ricerca della campagna desiderata, utilizzare la funzionalità [filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
-1. Seleziona la prima campagna da sottoporre a test A/B. Clic **Modifica**.
+1. Seleziona la prima campagna da sottoporre a test A/B. Fai clic su **Modifica**.
 
    ![](assets/image2016-11-4-13-3a46-3a37.png)
 
-1. Nella pagina della campagna, seleziona **Test di suddivisione** e fai clic su **Crea nuovo**.
+1. Nella pagina della campagna, seleziona **Test suddivisi** e fai clic su **Crea nuovo**.
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Inserisci il **Nome gruppo di test suddiviso**, fai clic su **Crea**. Seleziona **Sintonizzazione automatica**.
+1. Immettere il nome del gruppo di test di suddivisione ****, quindi fare clic su **Crea**. Selezionare **Auto-Tune**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
-1. **Salva** o **Launch** la campagna.
+1. **Salva** o **Avvia** la campagna.
 
    >[!TIP]
    >
-   >Selezione **Sintonizzazione automatica** consente alla piattaforma di personalizzazione web di riconoscere automaticamente la campagna di split test dalle prestazioni migliori e di continuare con la campagna di conversione più elevata mettendo in pausa le altre.
+   >Se si seleziona **Auto-Tune**, la piattaforma Web Personalization riconoscerà automaticamente la campagna di split test con prestazioni migliori e continuerà con la campagna di conversione più elevata mettendo in pausa le altre.
 
 1. Ripeti il processo precedente con la seconda campagna.
 
-1. Seleziona la seconda campagna da sottoporre a test A/B. Clic **Modifica**.
+1. Seleziona la seconda campagna da sottoporre a test A/B. Fai clic su **Modifica**.
 
    ![](assets/image2016-11-4-13-3a51-3a39.png)
 
-1. In **Imposta campagna** pagina, seleziona **Test di suddivisione** e scegli la **Gruppo** dal menu a discesa. Seleziona **Sintonizzazione automatica**.
+1. Nella pagina **Imposta campagna**, seleziona **Dividi test** e scegli il **Gruppo** dal menu a discesa. Selezionare **Auto-Tune**.
 
    ![](assets/image2014-11-26-17-3a2-3a17.png)
 
-1. **Salva** o **Launch** la campagna.
+1. **Salva** o **Avvia** la campagna.
 
 1. Ripeti questo processo per una terza o quarta campagna da testare.
 
-1. In entrata **Campagne web** puoi visualizzare le campagne di test di suddivisione indicate dall’icona A/B.
+1. In **Campagne Web** puoi visualizzare le campagne di test di suddivisione indicate dall&#39;icona A/B.
 
    ![](assets/image2016-11-4-13-3a55-3a5.png)
 
@@ -76,6 +76,6 @@ Per testare le campagne personalizzate tramite A/B, puoi selezionare due o più 
 
 >[!MORELIKETHIS]
 >
->* [Creare una campagna di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Creare una campagna RTP in zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creare una campagna widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Crea una campagna di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Crea un RTP in una campagna zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crea una campagna widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

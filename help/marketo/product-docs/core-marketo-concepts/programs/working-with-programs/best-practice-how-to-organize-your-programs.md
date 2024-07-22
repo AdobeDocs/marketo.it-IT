@@ -6,8 +6,8 @@ exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
 source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
 workflow-type: tm+mt
-source-wordcount: '844'
-ht-degree: 1%
+source-wordcount: '847'
+ht-degree: 0%
 
 ---
 
@@ -46,7 +46,7 @@ In Attività di marketing è necessario utilizzare le cartelle per organizzare i
 >   * Momenti di interesse
 >   * E-mail vendite
 >   * Campagne con richiesta di vendita
->* **Archivia**
+>* **Archivio**
 >   * Archivia eventi
 >      * Archivio 2012
 >      * Archivio 2013
@@ -55,15 +55,15 @@ Ognuno di questi elementi menzionati nell’esempio è una cartella. Osserva com
 
 >[!TIP]
 >
->La cartella &quot;Archivia&quot; è un tipo speciale di cartella progettata per rimuovere elementi da elenchi selezionati e rapporti. In questo modo il sistema sarà più veloce. Scopri [ulteriori informazioni sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
+>La cartella &quot;Archivia&quot; è un tipo speciale di cartella progettata per rimuovere elementi da elenchi selezionati e rapporti. In questo modo il sistema sarà più veloce. Ulteriori informazioni [sulle cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md){target="_blank"}.
 
 Puoi certamente aggiungere altre cartelle in base alle tue esigenze. Tieni presente che le generazioni future di esperti di marketing nella tua azienda convivranno con le tue decisioni su come denominare/organizzare le cose.
 
 ## Schemi di denominazione {#naming-schemes}
 
-La denominazione è fondamentale, in quanto tutte le funzionalità di Marketo utilizzano un linguaggio comune per comunicare. Per i programmi, è necessario assegnare loro un nome univoco. **Non è possibile assegnare lo stesso nome a due programmi**. Si consiglia di utilizzare il seguente formato:
+La denominazione è fondamentale, in quanto tutte le funzionalità di Marketo utilizzano un linguaggio comune per comunicare. Per i programmi, è necessario assegnare loro un nome univoco. **Due programmi non possono avere lo stesso nome**. Si consiglia di utilizzare il seguente formato:
 
-[Abbreviazione del tipo di programma] [AAAA]-[MM]-[DD opzionale] [Descrizione breve]
+[Abbreviazione del tipo di programma] [AAAA]-[MM]-[GG facoltativo] [Descrizione breve]
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ La denominazione è fondamentale, in quanto tutte le funzionalità di Marketo ut
 >1. Newsletter NL 2015-06
 >1. Webinar WBN 2015-12-01 Argomento qui
 
-I nomi dei programmi devono essere univoci nell’abbonamento, anche in [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.  Per le risorse locali all’interno dei programmi, la regola è **mantieni il nome semplice**. È sufficiente denominare un invito &quot;Invito&quot; invece di &quot;Invito al webinar di giugno 2015&quot;. Poiché questi elementi sono inclusi in un programma, il programma padre fa automaticamente parte del nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invita&quot;, ciascuna in un programma diverso e non ti disturberà.
+I nomi dei programmi devono essere univoci nell&#39;abbonamento, anche in [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"} diverse.  Per le risorse locali nei programmi, la regola è **mantenere il nome semplice**. È sufficiente denominare un invito &quot;Invito&quot; invece di &quot;Invito al webinar di giugno 2015&quot;. Poiché questi elementi sono inclusi in un programma, il programma padre fa automaticamente parte del nome quando lo si sceglie altrove. In altre parole, le risorse locali devono essere univoche all’interno del programma. Puoi avere centinaia di risorse denominate &quot;Invita&quot;, ciascuna in un programma diverso e non ti disturberà.
 
 ## Token {#tokens}
 
@@ -121,4 +121,4 @@ Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle
 
 ## Riepilogo {#summary}
 
-Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma consideriamo servizi aggiuntivi offerti da [Esperti Marketi Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarsi per il successo.
+Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma prendi in considerazione ulteriori servizi di [esperti di Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarti per il successo.

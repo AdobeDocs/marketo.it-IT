@@ -6,7 +6,7 @@ exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
    ![](assets/two-1.png)
 
-1. Sotto **Nuovo**, seleziona **Nuova risorsa locale**.
+1. In **Nuovo**, seleziona **Nuova risorsa locale**.
 
    ![](assets/three-1.png)
 
-1. Clic **Elenco avanzato**.
+1. Fare clic su **Elenco avanzato**.
 
    ![](assets/four-1.png)
 
-1. Digita un nome e fai clic su **Crea**.
+1. Digitare un nome e fare clic su **Crea**.
 
    ![](assets/five-1.png)
 
@@ -53,7 +53,7 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
    >
    >In questo esempio è stato utilizzato il filtro E-mail aperta. Puoi anche utilizzare il filtro E-mail selezionata poiché presenta il vincolo Platform.
 
-1. Imposta piattaforma su **iOS**.
+1. Imposta Platform su **iOS**.
 
    ![](assets/nine.png)
 
@@ -61,19 +61,19 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
    >
    >Almeno una persona deve aver aperto una delle tue e-mail su un dispositivo iOS affinché il suggerimento automatico di Marketo possa trovarla. Se non viene visualizzato, puoi digitarlo manualmente e salvarlo.
 
-   Ora crea un secondo elenco avanzato per la piattaforma &quot;Android&quot;. Al termine, passa alla sezione successiva.
+   Ora crea un secondo elenco avanzato per la piattaforma Android. Al termine, passa alla sezione successiva.
 
 ## Creare un rapporto sulle prestazioni delle persone {#create-a-people-performance-report}
 
-1. In Attività di marketing, seleziona il programma che contiene il **iOS** e **Android** elenchi avanzati.
+1. In Attività di marketing, seleziona il programma che ospita gli elenchi avanzati **iOS** e **Android**.
 
    ![](assets/ten.png)
 
-1. Sotto **Nuovo**, seleziona **Nuova risorsa locale**.
+1. In **Nuovo**, seleziona **Nuova risorsa locale**.
 
    ![](assets/eleven.png)
 
-1. Clic **Report**.
+1. Fai clic su **Report**.
 
    ![](assets/twelve.png)
 
@@ -89,7 +89,7 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
 ## Aggiungi elenchi avanzati mobili come colonne {#add-mobile-smart-lists-as-columns}
 
-1. Nel report appena creato, fai clic su **Configurazione**, quindi trascina **Colonne personalizzate** nell’area di lavoro.
+1. Nel report appena creato, fai clic su **Configurazione**, quindi trascina **Colonne personalizzate** nell&#39;area di lavoro.
 
    ![](assets/fifteen.png)
 
@@ -101,7 +101,7 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
    ![](assets/sixteen.png)
 
-1. Clic **Report** per eseguire il rapporto e visualizzare i dati.
+1. Fai clic su **Report** per eseguire il report e visualizzare i dati.
 
    ![](assets/seventeen.png)
 

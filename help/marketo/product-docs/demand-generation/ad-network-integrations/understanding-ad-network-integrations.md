@@ -36,7 +36,7 @@ Le funzionalità includono:
 
    * Ad esempio, una persona cerca, visualizza e fa clic su un annuncio, quindi compila un modulo online. Dopo di che, riceve una demo offline e diventa un&#39;opportunità di gestione delle relazioni con i clienti. È lì che l&#39;inserzionista lo prende di mira
 
-* Retargeting dei visitatori del sito web, utilizzando [Personalizzazione web](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"}, per riportarli al sito Web
+* Retargeting dei visitatori del sito Web mediante [Web Personalization](/help/marketo/product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md){target="_blank"} per reindirizzarli al sito Web
 
    * Personalizza per segmento o verticale
 
@@ -44,10 +44,10 @@ Le funzionalità includono:
 
 Puoi utilizzare le integrazioni per:
 
-* [Aggiungere Google AdWords come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
-* [Aggiungere lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
-* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
-* [Configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
+* [Aggiungi Google AdWords come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-google-adwords-as-a-launchpoint-service.md){target="_blank"}
+* [Aggiungi lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md){target="_blank"}
+* [Creazione di un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+* [Configura conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md){target="_blank"}
 * [Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
 
 |   | Dati sul pubblico | Acquisizione lead | Conversione offline |

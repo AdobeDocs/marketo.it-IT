@@ -16,7 +16,7 @@ Le funzionalità generative basate sull’intelligenza artificiale di Adobe Dyna
 
 ## Autorizzazioni {#permissions}
 
-Per utilizzare l’intelligenza artificiale generativa, assicurati di concedere agli utenti desiderati le autorizzazioni appropriate [autorizzazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md).
+Per utilizzare l&#39;intelligenza artificiale generativa, assicurati di concedere agli utenti desiderati le [autorizzazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) appropriate.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -40,25 +40,25 @@ In genere, per ottenere il contesto completo di una conversazione con un visitat
 
 ## Generazione domanda {#question-generation}
 
-[Elevare le esperienze in entrata](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) con conversazioni basate sull’intelligenza artificiale per i visitatori che utilizzano un’interfaccia formata su vendite, marketing e conoscenza dei prodotti.
+[Migliora le esperienze in entrata](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md) con conversazioni basate sull&#39;intelligenza artificiale per i visitatori utilizzando un&#39;interfaccia formata sulle vendite, il marketing e la conoscenza dei prodotti.
 
 ![](assets/generative-ai-overview-5.png)
 
 ## Libreria di risposta {#response-library}
 
-[Produrre una raccolta personalizzata](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di domande e risposte, tutte pre-approvate da te, da utilizzare all’interno di campagne di chat di IA generativa.
+[Crea una raccolta personalizzata](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di domande e risposte, tutte pre-approvate da te, da utilizzare nelle campagne di chat di IA generativa.
 
 ![](assets/generative-ai-overview-6.png)
 
 ## Registro delle attività {#activity-log}
 
-[Visualizza un elenco di tutte le attività](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e i relativi dettagli di accompagnamento, tra cui nome, proprietario, tipo, chi li ha modificati e quando.
+[Visualizza un elenco di tutte le attività](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/activity-log.md) e dei relativi dettagli, inclusi nome, proprietario, tipo, autore e modifica.
 
 ![](assets/generative-ai-overview-7.png)
 
 ## Domande senza risposta {#unanswered-questions}
 
-[Creare ulteriori risposte pre-approvate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte utilizzando l’intelligenza artificiale basata su un archivio di domande senza risposta provenienti da conversazioni precedenti.
+[Crea ulteriori risposte preapprovate](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/unanswered-questions.md) per la libreria di risposte utilizzando l&#39;intelligenza artificiale in base a un archivio di domande senza risposta provenienti da conversazioni precedenti.
 
 ![](assets/generative-ai-overview-8.png)
 
@@ -70,11 +70,11 @@ Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di ele
 
 >[!IMPORTANT]
 >
->Quando utilizzi l’intelligenza artificiale generativa, devi rispettare [Linee guida per l’utente di Adobe Experience Cloud Generative AI](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) possiamo quindi assicurarci che le funzioni di Adobe Experience Cloud che incorporano l’intelligenza artificiale generativa vengano utilizzate in modo sicuro e responsabile.
+>Quando utilizzi l&#39;intelligenza artificiale generativa, devi attenerti alle [linee guida per l&#39;utente di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html), in modo da poter garantire che le funzioni di Adobe Experience Cloud che incorporano l&#39;intelligenza artificiale generativa vengano utilizzate in modo sicuro e responsabile.
 
 ## Domande frequenti {#faq}
 
-**L’intelligenza artificiale generativa è disponibile per tutti gli utenti del Dynamic Chat?**
+**L&#39;intelligenza artificiale generativa è disponibile per tutti gli utenti del Dynamic Chat?**
 
 L’intelligenza artificiale generativa è disponibile solo per gli abbonati Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
@@ -82,6 +82,6 @@ L’intelligenza artificiale generativa è disponibile solo per gli abbonati Dyn
 
 Sì. Al momento, il limite di durata è di 1000.
 
-**Quali lingue sono disponibili nell’intelligenza artificiale generativa?**
+**Quali lingue sono disponibili nell&#39;IA generativa?**
 
 Attualmente, nell’intelligenza artificiale generativa è supportato solo l’inglese.

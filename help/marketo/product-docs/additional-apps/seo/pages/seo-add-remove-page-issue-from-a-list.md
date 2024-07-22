@@ -17,15 +17,15 @@ Puoi organizzare i problemi relativi alla pagina in elenchi. È inoltre possibil
 
 ## Aggiungere problemi di pagina a un elenco {#add-page-issues-to-a-list}
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-14-3a3-3a10.png)
 
-1. Il giorno **[!UICONTROL Pagine]** , fare clic su **[!UICONTROL Problemi]**.
+1. Nella scheda **[!UICONTROL Pagine]**, fai clic su **[!UICONTROL Problemi]**.
 
    ![](assets/image2014-9-18-14-3a3-3a18.png)
 
-1. Passa il puntatore del mouse sul problema della pagina che desideri aggiungere. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
+1. Passa il puntatore del mouse sul problema della pagina che desideri aggiungere. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-9-18-14-3a3-3a40.png)
 
@@ -39,11 +39,11 @@ Puoi organizzare i problemi relativi alla pagina in elenchi. È inoltre possibil
 
 ## Rimuovere un problema di pagina da un elenco {#remove-page-issue-from-a-list}
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-14-3a4-3a8.png)
 
-1. Nella scheda delle pagine, fai clic su **[!UICONTROL Problemi]**.
+1. Nella scheda Pagine, fai clic su **[!UICONTROL Problemi]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
@@ -51,7 +51,7 @@ Puoi organizzare i problemi relativi alla pagina in elenchi. È inoltre possibil
 
    ![](assets/image2014-9-18-14-3a4-3a29.png)
 
-1. Passa il puntatore del mouse sul problema della pagina da rimuovere. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
+1. Passa il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-9-18-14-3a4-3a38.png)
 

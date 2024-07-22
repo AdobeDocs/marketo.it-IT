@@ -20,11 +20,11 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Clic **Modelli**.
+1. Fare clic su **Modelli**.
 
    ![](assets/view-template-list-as-another-user-1.png)
 
-1. Fai clic su **Visualizza come** e selezionare l&#39;utente desiderato.
+1. Fare clic sul menu a discesa **Visualizza come** e selezionare l&#39;utente desiderato.
 
    ![](assets/view-template-list-as-another-user-2.png)
 
@@ -34,4 +34,4 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
 
    >[!NOTE]
    >
-   >Puoi anche utilizzare i filtri o la funzione di ricerca insieme a _Visualizza come_ per visualizzare ciò che per te è più rilevante.
+   >Puoi anche utilizzare i filtri o la funzione di ricerca insieme a _Visualizza come_ per visualizzare ciò che ti interessa di più.

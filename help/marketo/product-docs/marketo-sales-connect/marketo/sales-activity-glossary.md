@@ -5,14 +5,14 @@ exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 5%
 
 ---
 
 # Glossario attività di vendita {#sales-activity-glossary}
 
-In Sales Connect, quando un venditore: aggiunge un lead a una cadenza di vendita, invia un’e-mail o effettua una chiamata a un’attività, verrà registrato nella cronologia delle attività di Marketo. Inoltre, quando il lead si impegna con le e-mail, vengono registrati anche le aperture, i clic e le risposte.
+In Sales Connect, quando un venditore: aggiunge un lead a una cadenza di vendita, invia un’e-mail o effettua una chiamata a un’attività, verrà registrato nella cronologia delle attività di Marketo. Inoltre, quando il lead si relaziona con le e-mail, vengono registrati anche le aperture, i clic e le risposte.
 
 Le attività seguenti verranno registrate in Marketo da Sales Connect.
 
@@ -35,7 +35,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID Modello</td>
+  <td>ID modello</td>
  </tr>
  <tr>
   <td>URL modello vendite</td>
@@ -63,7 +63,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID Modello</td>
+  <td>ID modello</td>
  </tr>
  <tr>
   <td>URL modello vendite</td>
@@ -94,7 +94,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID Modello</td>
+  <td>ID modello</td>
  </tr>
  <tr>
   <td>URL modello vendite</td>
@@ -210,7 +210,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   <td>ID persona di vendita Marketo</td>
  </tr>
  <tr>
-  <td>ID Modello</td>
+  <td>ID modello</td>
  </tr>
 </table>
 
@@ -300,10 +300,10 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
   </tr> 
   <tr> 
    <td><strong>Origine</strong></td> 
-   <td>Origine dell’attività. Verrà impostato come "Tout" per le attività Sales Connect precedenti alla versione di ottobre 2021. Sarà "App di vendita" per le attività Sales Connect dopo la versione di ottobre 2021.</td>
+   <td>Source dell’attività. Verrà impostato come "Tout" per le attività Sales Connect precedenti alla versione di ottobre 2021. Sarà "App di vendita" per le attività Sales Connect dopo la versione di ottobre 2021.</td>
   </tr> 
   <tr> 
-   <td><strong>ID Modello</strong></td> 
+   <td><strong>ID modello</strong></td> 
    <td>Quando l'origine è Tout, l'ID modello sarà l'ID modello Marketo Sales Connect. Usare questa opzione per eseguire il targeting di un modello specifico invece della riga dell'oggetto, che potrebbe esistere in più modelli.
 </td> 
   </tr> 

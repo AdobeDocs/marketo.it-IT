@@ -5,8 +5,8 @@ exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 7%
+source-wordcount: '527'
+ht-degree: 6%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->L’istanza di CRM Veeva deve avere accesso alle API Salesforce per sincronizzare i dati tra Marketi Engage e CRM Veeva.
+>L’istanza di CRM Veeva deve avere accesso alle API Salesforce per sincronizzare i dati tra Marketo Engage e CRM Veeva.
 
 Il Marketo Engage utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in Veeva CRM, segui le istruzioni di seguito.
 
@@ -22,7 +22,7 @@ Il Marketo Engage utilizza un set di campi per acquisire determinati tipi di inf
 
 `2.` Se necessario, puoi creare campi aggiuntivi (vedi la tabella seguente).
 
-Tutti questi campi personalizzati sono facoltativi e non sono necessari per sincronizzare Marketi Engage e Veeva CRM.
+Tutti questi campi personalizzati sono facoltativi e non sono necessari per sincronizzare Marketo Engage e Veeva CRM.
 
 ## Aggiungere campi Marketo a Veeva CRM {#add-marketo-fields-to-veeva-crm}
 
@@ -34,7 +34,7 @@ Per aggiungerlo, effettua le seguenti operazioni per il campo Punteggio.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Clic **[!UICONTROL Oggetti e campi]** e seleziona **[!UICONTROL Gestione oggetti]**.
+1. Fare clic su **[!UICONTROL Oggetti e campi]** e selezionare **[!UICONTROL Gestione oggetti]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -42,11 +42,11 @@ Per aggiungerlo, effettua le seguenti operazioni per il campo Punteggio.
 
    ![](assets/step-1-of-3-add-marketo-fields-3.png)
 
-1. Fai clic su **[!UICONTROL Contatto]** oggetto.
+1. Fare clic sull&#39;oggetto **[!UICONTROL Contact]**.
 
-1. Seleziona **[!UICONTROL Campi e relazioni]**.
+1. Selezionare **[!UICONTROL Campi e relazioni]**.
 
-1. Clic **[!UICONTROL Nuovo]**.
+1. Fare clic su **[!UICONTROL Nuovo]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -58,7 +58,7 @@ Per aggiungerlo, effettua le seguenti operazioni per il campo Punteggio.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Inserisci il **[!UICONTROL Etichetta campo]**, **[!UICONTROL Lunghezza]**, e **[!UICONTROL Nome campo]** per il campo, come illustrato nella tabella seguente.
+1. Immetti **[!UICONTROL Etichetta campo]**, **[!UICONTROL Lunghezza]** e **[!UICONTROL Nome campo]** per il campo, come illustrato nella tabella seguente.
 
 <table>
  <tbody>
@@ -92,7 +92,7 @@ Cifre decimali 0</td>
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Specifica le impostazioni di accesso e fai clic su **[!UICONTROL Successivo]**.
+1. Specificare le impostazioni di accesso e fare clic su **[!UICONTROL Avanti]**.
 
 1. Imposta tutti i ruoli su Visibile e Sola lettura.
 
@@ -105,9 +105,9 @@ Cifre decimali 0</td>
 
 1. Scegliere i layout di pagina da visualizzare nel campo.
 
-1. Clic **[!UICONTROL Salva e nuovo]** per tornare indietro e creare ciascuno degli altri due campi personalizzati.
+1. Fai clic su **[!UICONTROL Salva e nuovo]** per tornare indietro e creare ciascuno degli altri due campi personalizzati.
 
-1. Clic **[!UICONTROL Salva]** quando hai finito tutti e tre.
+1. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 

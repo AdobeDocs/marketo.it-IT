@@ -17,11 +17,11 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
 ## Come modificare l’elemento Rich Text {#how-to-edit-the-rich-text-element}
 
-1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza**.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
 
    ![](assets/one-edited.png)
 
-1. Si aprirà l’editor e-mail. Seleziona il Testo formattato, fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Si aprirà l’editor e-mail. Seleziona Rich Text, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/two.png)
 
@@ -29,13 +29,13 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/three.png)
 
-1. Aggiungere/modificare il testo e premere **Salva**.
+1. Aggiungi/modifica il testo e premi **Salva**.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >Puoi anche aggiungere immagini, token, tabelle e altri elementi. Consulta [Utilizzo dell’Editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+   >Puoi anche aggiungere immagini, token, tabelle e altri elementi. Consulta [Utilizzo dell&#39;editor Rich Text](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/five.png)
 
-1. Fai clic sull’elemento Immagine da modificare, quindi fai clic sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fai clic sull&#39;elemento Immagine che desideri modificare, quindi fai clic sull&#39;icona a forma di ingranaggio e seleziona **Modifica**.
 
    ![](assets/six.png)
 
@@ -81,21 +81,21 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/ten.png)
 
-   Modificare le dimensioni in base alle proprie esigenze, modificare il testo Alt (facoltativo), quindi premere **Scambia**.
+   Modifica le dimensioni in base alle tue esigenze, cambia il testo alternativo (facoltativo), quindi premi **Scambia**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Se stai sostituendo un&#39;immagine, dovrai controllare il **Sovrascrivi immagine esistente** che viene visualizzata sotto l’URL/nome dell’immagine.
+   >Se stai sostituendo un&#39;immagine, dovrai selezionare la casella **Sovrascrivi immagine esistente** che viene visualizzata sotto l&#39;URL/nome dell&#39;immagine.
 
-   **Design Studio**
+   **Studio Progettazione**
 
    Per inserire un&#39;immagine da Design Studio, è sufficiente individuarla...
 
    ![](assets/twelve.png)
 
-   ...e inseriscilo. Modificare le dimensioni in base alle proprie esigenze, modificare il testo Alt (facoltativo), quindi premere **Scambia**.
+   ...e inseriscilo. Modifica le dimensioni in base alle tue esigenze, cambia il testo alternativo (facoltativo), quindi premi **Scambia**.
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/fourteen.png)
 
-1. Fai clic sull’elemento Snippet, quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fai clic sull&#39;elemento Snippet, quindi sull&#39;icona ingranaggio e seleziona **Modifica**.
 
    ![](assets/fifteen.png)
 
-1. Trovare il frammento, selezionarlo e fare clic su **Salva**.
+1. Trova il tuo frammento, selezionalo e fai clic su **Salva**.
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/nineteen.png)
 
-1. Fai clic sull’elemento Video, quindi sull’icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fai clic sull&#39;elemento Video, quindi sull&#39;icona ingranaggio e seleziona **Modifica**.
 
    ![](assets/twenty.png)
 
-1. Incolla l’URL del video da Vimeo o YouTube. Quindi fai clic su nella casella URL per caricare l’anteprima. Modifica le dimensioni in base alle tue esigenze, aggiungi Testo alternativo (facoltativo), quindi premi **Inserisci**.
+1. Incolla l’URL del video da Vimeo o YouTube. Quindi fai clic su nella casella URL per caricare l’anteprima. Modificare le dimensioni in base alle proprie esigenze, aggiungere Testo alternativo (facoltativo), quindi premere **Inserisci**.
 
    ![](assets/twentyone.png)
 

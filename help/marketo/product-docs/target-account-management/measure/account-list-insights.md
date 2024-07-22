@@ -44,16 +44,16 @@ Per visualizzare la dashboard di un elenco account, fai clic sul nome...
 
 ## Scheda Account denominati {#named-accounts-tab}
 
-Fai clic su **Account denominati** per vedere quali account denominati appartengono a tale elenco di account.
+Fare clic sulla scheda **Account denominati** per vedere quali account denominati appartengono all&#39;elenco di account.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->Per rimuovere un account denominato, selezionalo e fai clic su **Rimuovi account denominati**.
+>È possibile rimuovere un account denominato in questa scheda selezionandolo e facendo clic su **Rimuovi account denominati**.
 
 ## Utilizzato dalla scheda {#used-by-tab}
 
-Fai clic su **Utilizzato da** per vedere quali risorse fanno riferimento a tale elenco di account.
+Fai clic sulla scheda **Usato da** per vedere quali risorse fanno riferimento a tale elenco di account.
 
 ![](assets/four-2.png)

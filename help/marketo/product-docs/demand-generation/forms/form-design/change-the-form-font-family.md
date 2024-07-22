@@ -6,7 +6,7 @@ exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,23 +27,23 @@ I Google Fonts sono fantastici, e li abbiamo inseriti direttamente nell&#39;edit
 
    ![](assets/image2014-9-15-15-3a47-3a27.png)
 
-1. Sotto **Impostazioni modulo**, seleziona **Impostazioni**.
+1. In **Impostazioni modulo**, selezionare **Impostazioni**.
 
    ![](assets/image2014-9-15-15-3a47-3a56.png)
 
-1. Seleziona la **Famiglia font** tu vuoi.
+1. Selezionare la **famiglia di caratteri** desiderata.
 
    >[!TIP]
    >
-   >Un gruppo di [Google Fonts](https://www.google.com/fonts) sono disponibili per l’uso.
+   >È disponibile una serie di [caratteri Google](https://www.google.com/fonts).
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    >[!NOTE]
    >
@@ -61,4 +61,4 @@ I Google Fonts sono fantastici, e li abbiamo inseriti direttamente nell&#39;edit
 
 >[!MORELIKETHIS]
 >
->[Modificare le dimensioni del carattere del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)
+>[Modifica dimensione carattere modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-size.md)

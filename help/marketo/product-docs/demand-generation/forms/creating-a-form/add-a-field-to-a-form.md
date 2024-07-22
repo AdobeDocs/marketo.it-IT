@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungere un campo a un modulo {#add-a-field-to-a-form}
 
-Una volta [ha creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [ha selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), potrebbe essere utile aggiungere altri campi da compilare. Ecco come.
+Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), è possibile aggiungere altri campi da compilare. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
@@ -23,7 +23,7 @@ Una volta [ha creato il modulo](/help/marketo/product-docs/demand-generation/for
 
    ![](assets/editform-1.png)
 
-1. Fai clic su **+** firma.
+1. Fai clic sul segno **+**.
 
    ![](assets/image2014-9-15-17-18-17.png)
 
@@ -39,7 +39,7 @@ Una volta [ha creato il modulo](/help/marketo/product-docs/demand-generation/for
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Ora fai clic su **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 
@@ -47,4 +47,4 @@ Una volta [ha creato il modulo](/help/marketo/product-docs/demand-generation/for
 >
 >Assicurati di approvare tutte le bozze di pagine di destinazione create a causa delle modifiche apportate al modulo.
 
-Non male per niente. Continua il buon lavoro! Che ne dici di imparare a [imposta un campo modulo obbligatorio](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md) il prossimo?
+Non male per niente. Continua il buon lavoro! Che ne dici di imparare a [rendere obbligatorio un campo modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/make-a-form-field-required.md)?

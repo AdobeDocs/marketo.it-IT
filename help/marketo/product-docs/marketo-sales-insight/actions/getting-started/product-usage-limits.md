@@ -5,7 +5,7 @@ exl-id: 899dc59e-85bf-408e-9687-e0ed823dd51f
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '233'
 ht-degree: 12%
 
 ---
@@ -16,7 +16,7 @@ Di seguito sono riportati i limiti per l&#39;utilizzo delle funzionalità di coi
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite [Pacchetto Sales Insight di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
+>Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite il [pacchetto Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
 <table>
   <th>Funzionalità</th>
@@ -30,7 +30,7 @@ Di seguito sono riportati i limiti per l&#39;utilizzo delle funzionalità di coi
  <tr>
   <td>Invii e-mail vendite</td>
   <td>per utente/per giorno</td>
-  <td>1,000</td>
+  <td>1.000</td>
  </tr>
  <tr>
   <td>E-mail per vendite in blocco</td>
@@ -40,7 +40,7 @@ Di seguito sono riportati i limiti per l&#39;utilizzo delle funzionalità di coi
  <tr>
   <td>Modelli e-mail</td>
   <td>per istanza</td>
-  <td>2,000</td>
+  <td>2.000</td>
  </tr>
  <tr>
   <td>Categorie dei modelli e-mail</td>

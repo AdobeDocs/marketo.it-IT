@@ -14,21 +14,21 @@ ht-degree: 0%
 
 Segui i passaggi descritti in questo articolo per consentire agli utenti delle azioni di approfondimento sulle vendite di accedere alla connessione Marketo. In questo modo verranno sbloccate funzioni quali Momenti di interesse nel feed live e l’accesso alle campagne di marketing.
 
-È necessario invitare gli utenti a [Azioni approfondimento vendite](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) prima che siano visibili nella pagina Marketo > Team Access (in Azioni di approfondimento sulle vendite), in cui è consentito l’accesso alla connessione Marketo.
+È necessario invitare gli utenti a [Azioni approfondimento vendite](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) prima che siano visibili nella pagina Marketo > Accesso team (in Azioni approfondimento vendite), in cui è consentito l&#39;accesso alla connessione Marketo.
 
 >[!CAUTION]
 >
 >Attendi dieci minuti dopo aver collegato Sales Insight Actions con Marketo prima di eseguire questi passaggi.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Marketo**.
+1. In Impostazioni amministrazione fare clic su **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Fai clic su **Accesso utente** scheda. Seleziona uno o più utenti, quindi fai clic su **Connetti**.
+1. Fare clic sulla scheda **Accesso utente**. Seleziona uno o più utenti, quindi fai clic su **Connetti**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -40,11 +40,11 @@ Segui i passaggi descritti in questo articolo per consentire agli utenti delle a
 
    ![](assets/grant-marketo-access-to-users-4.png)
 
-   **PASSAGGIO FACOLTATIVO**: fai clic sull’elenco a discesa Area di lavoro e seleziona le aree di lavoro desiderate.
+   **PASSAGGIO FACOLTATIVO**: fare clic sull&#39;elenco a discesa Workspace e selezionare le aree di lavoro desiderate.
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Clic **Connetti**.
+1. Fai clic su **Connetti**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 

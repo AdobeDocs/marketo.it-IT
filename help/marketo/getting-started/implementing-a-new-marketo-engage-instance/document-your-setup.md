@@ -26,8 +26,8 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
 <tbody>
   <tr>
     <td>Importazione elenco</td>
-    <td><li>Raccogliere un elenco di origini dati da cui verranno estratti i record <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importa nel Marketo Engage</a>.</li>
-    <li>Se si esegue l'importazione da più origini dati, è consigliabile utilizzare gli elenchi principali oppure <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">creazione di un campo personalizzato</a> nel record della persona per indicare l’origine dati.</li></td>
+    <td><li>Raccogliere un elenco di origini dati da cui verranno estratti i record per <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importare nel Marketo Engage</a>.</li>
+    <li>Se si esegue l'importazione da più origini dati, è consigliabile utilizzare Elenchi master o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">creare un campo personalizzato</a> nel record persona per indicare l'origine dati.</li></td>
   </tr>
   <tr>
     <td>Integrazione del database</td>
@@ -48,7 +48,7 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
 <tbody>
   <tr>
     <td>Utenti</td>
-    <td><li>Documenta il <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nel tuo caso per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Amministratore &gt; Utenti e ruoli):</li>
+    <td><li>Documenta gli <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nella tua istanza per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Amministratore &gt; Utenti e ruoli):</li>
     <ul>
     <li>Nome</li>
     <li>E-mail</li>
@@ -59,7 +59,7 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
     <li>Data di accesso più recente</li></ul>
     <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: puoi anche approfondire questo argomento per includere la documentazione su ruoli/autorizzazioni.
     <p>
-    <li>In qualità di amministratore di prodotto del Marketo Engage, sviluppa un processo interno per controllare e aggiornare l’elenco degli utenti del Marketo Engage a cadenza regolare. Per apportare modifiche all’elenco degli utenti in Adobe Admin Console, considera <a href="https://helpx.adobe.com/it/enterprise/using/users.html" target="_blank">azioni in blocco</a>, ad esempio il caricamento di un file CSV, l’utilizzo dell’API REST per la gestione utente, ecc.</li></td>
+    <li>In qualità di amministratore di prodotto del Marketo Engage, sviluppa un processo interno per controllare e aggiornare l’elenco degli utenti del Marketo Engage a cadenza regolare. Per apportare modifiche all'elenco degli utenti in Adobe Admin Console, considera <a href="https://helpx.adobe.com/it/enterprise/using/users.html" target="_blank">azioni in blocco</a>, ad esempio il caricamento di un file CSV, l'utilizzo dell'API REST per la gestione degli utenti e così via.</li></td>
   </tr>
   <tr>
     <td>Organizzazione</td>

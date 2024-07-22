@@ -19,7 +19,7 @@ I passaggi del flusso vengono eseguiti dall’alto verso il basso. Ecco come rio
 >
 >[Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
 
-1. Nella tua Smart Campaign **[!UICONTROL Flusso]** , è sufficiente trascinare e rilasciare il passaggio del flusso nel punto desiderato.
+1. Nella scheda **[!UICONTROL Flusso]** della campagna avanzata, trascina e rilascia il passaggio del flusso nel punto desiderato.
 
 ![](assets/reorder-the-flow-steps-in-a-smart-campaign-1.png)
 

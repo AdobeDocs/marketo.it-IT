@@ -23,11 +23,11 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    ![](assets/two.png)
 
-1. Clic **Azioni del programma** e seleziona **Flusso di prova**.
+1. Fai clic su **Azioni programma** e seleziona **Test flusso**.
 
    ![](assets/three.png)
 
-1. Seleziona la tua persona da **Persona di prova** a discesa. Ricordate, il contenuto verrà effettivamente distribuito, quindi tenetelo presente quando scegliete.
+1. Seleziona la tua persona dal menu a discesa **Persona di prova**. Ricordate, il contenuto verrà effettivamente distribuito, quindi tenetelo presente quando scegliete.
 
    ![](assets/four-rubix.png)
 
@@ -37,12 +37,12 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    >[!TIP]
    >
-   >Se la persona di prova che stai cercando non esiste, utilizza **Crea persona** per crearne una al volo.
+   >Se la persona di prova che stai cercando non esiste, utilizza l&#39;opzione **Crea persona** per crearne una al volo.
 
    Fare clic su Flusso iniziale, selezionare il flusso da testare e fare clic su Esegui cast.
    ![](assets/five-rubiks.png)
 
-1. Dopo che la persona passa attraverso il [regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) configurata in precedenza, fai clic sull’icona Aggiorna.
+1. Dopo aver eseguito le [regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) precedentemente impostate, fare clic sull&#39;icona Aggiorna.
 
    ![](assets/six-rubiks.png)
 
@@ -54,4 +54,4 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    >[!NOTE]
    >
-   >Nessun altro contenuto verrà inviato a meno che non fai clic su **Esegui nuovamente cast**.
+   >Nessun altro contenuto verrà inviato a meno che non si faccia clic su **Esegui nuovamente cast**.

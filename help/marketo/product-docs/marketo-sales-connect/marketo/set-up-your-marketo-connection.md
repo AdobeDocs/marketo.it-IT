@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Quando esegui il provisioning di MSC, Marketo invierà automaticamente le tue credenziali a Sales Connect e collegherà la tua istanza a Marketo. Questo passaggio è obbligatorio **solo se la connessione stabilita non viene visualizzata** dopo il provisioning dell’istanza Sales Connect. Se la connessione viene stabilita, le credenziali immesse verranno visualizzate nella pagina Impostazioni amministrazione di Marketo.
+>Quando esegui il provisioning di MSC, Marketo invierà automaticamente le tue credenziali a Sales Connect e collegherà la tua istanza a Marketo. Questo passaggio è necessario **solo se non visualizzi la connessione stabilita** dopo il provisioning dell&#39;istanza Sales Connect. Se la connessione viene stabilita, le credenziali immesse verranno visualizzate nella pagina Impostazioni amministrazione di Marketo.
 
 ## Acquisizione delle credenziali prima della connessione delle vendite Connetti con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Nella struttura, fai clic su **Sales Connect**.
+1. Nella struttura fare clic su **Sales Connect**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
@@ -38,14 +38,14 @@ ht-degree: 0%
 
 ## Connetti vendite Connetti a Marketo {#connect-sales-connect-to-marketo}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Sales Connect, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. In Impostazioni amministratore, seleziona **Marketo**.
+1. In Impostazioni amministrazione selezionare **Marketo**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Inserisci le credenziali Marketo fornite dall’amministratore di Marketo e fai clic su **Connetti**.
+1. Immettere le credenziali Marketo fornite dall&#39;amministratore di Marketo e fare clic su **Connetti**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

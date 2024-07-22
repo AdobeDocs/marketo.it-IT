@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Seguire i passaggi descritti in questo articolo per consentire agli utenti di Sales Connect di accedere alla connessione Marketo. In questo modo verranno sbloccate funzioni quali Momenti di interesse nel feed live e l’accesso alle campagne di marketing.
 
-Sarà necessario invitare gli utenti a Sales Connect [qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), prima che siano visibili nella pagina Marketo > Team Access (in Sales Connect), in cui è consentito l’accesso alla connessione Marketo.
+È necessario invitare gli utenti a Sales Connect [qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), prima che siano visibili nella pagina Marketo > Team Access (in Sales Connect), in cui è consentito l&#39;accesso alla connessione Marketo.
 
 >[!CAUTION]
 >
@@ -32,7 +32,7 @@ Sarà necessario invitare gli utenti a Sales Connect [qui](/help/marketo/product
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Fai clic sull’elenco a discesa Area di lavoro, seleziona le aree di lavoro desiderate e fai clic su **Connetti**.
+1. Fai clic sul menu a discesa Workspace, seleziona le aree di lavoro desiderate e fai clic su **Connetti**.
 
    ![](assets/granting-access-to-users-3.png)
 

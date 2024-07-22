@@ -15,7 +15,7 @@ ht-degree: 5%
 
 **Versione**: il mese/anno di ciascuna versione. Una volta disponibili, le note sulla versione saranno collegate nella tabella seguente.
 
-**Data di rilascio**: il rollout inizia in genere il martedì della settimana di rilascio, con l’aggiornamento che si verifica più spesso venerdì sera. La data indicata corrisponde all’aggiornamento del venerdì.
+**Data di rilascio**: in genere il rollout inizia il martedì della settimana di rilascio, con l&#39;aggiornamento che si verifica venerdì sera. La data indicata corrisponde all’aggiornamento del venerdì.
 
 **Stato**:
 
@@ -23,7 +23,7 @@ ht-degree: 5%
 * In corso: stiamo implementando le funzioni della versione
 * Spedito: rilascio completato
 
-_Le date e le funzioni di rilascio sono soggette a modifiche_
+_Le date/funzionalità di rilascio sono soggette a modifiche_
 
 <table>
  <tbody> 

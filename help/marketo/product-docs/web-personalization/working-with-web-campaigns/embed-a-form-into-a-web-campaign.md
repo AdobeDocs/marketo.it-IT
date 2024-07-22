@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Scopri come incorporare un modulo di Marketo in una campagna web (finestra di dialogo, nella zona o widget).
 
-1. Fai clic con il pulsante destro del mouse su un modulo approvato. Seleziona **Codice di incorporamento**.
+1. Fai clic con il pulsante destro del mouse su un modulo approvato. Selezionare **Codice di incorporamento**.
 
    ![](assets/image2015-12-16-10-3a58-3a39.png)
 
@@ -23,11 +23,11 @@ Scopri come incorporare un modulo di Marketo in una campagna web (finestra di di
 
    ![](assets/image2015-12-16-11-3a16-3a24.png)
 
-1. In Personalizzazione web, vai a **Campagne web**.
+1. In Web Personalization, vai a **Campagne Web**.
 
    ![](assets/web-campaigns-hand-7.jpg)
 
-1. Clic **Crea nuova campagna**.
+1. Fai clic su **Crea nuova campagna**.
 
    ![](assets/create-new-web-campaign-hand-1.jpg)
 
@@ -35,13 +35,13 @@ Scopri come incorporare un modulo di Marketo in una campagna web (finestra di di
 
    ![](assets/five-1.png)
 
-1. Incolla il codice da incorporare del modulo nell’editor di origine di HTML. Clic **Aggiorna**.
+1. Incolla il codice da incorporare del modulo nell’editor di HTML Source. Fai clic su **Aggiorna**.
 
    ![](assets/six-1.png)
 
 1. Il modulo non verrà visualizzato nella vista dell’editor, ma puoi visualizzarlo in anteprima per vedere come verrà riprodotto in una campagna.
 
-1. Clic **Launch** per avviare la campagna.
+1. Fai clic su **Avvia** per avviare la campagna.
 
    >[!NOTE]
    >
@@ -55,7 +55,7 @@ Per aggiungere un&#39;immagine di sfondo al modulo è possibile:
 * Modificare i colori della finestra di dialogo o del widget in Imposta campagna
 * Aggiungi codice CSS allo script
 
-Per modificare il CSS di un tema modulo, vedi [questo articolo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
+Per modificare il CSS di un tema modulo, consulta [questo articolo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md).
 
 Per modificare i colori della finestra di dialogo o del widget in Imposta campagna:
 
@@ -73,16 +73,16 @@ Per aggiungere codice CSS allo script:
 
    ![](assets/image2015-12-29-17-3a56-3a13.png)
 
-1. Incollare il codice da incorporare del modulo con il codice di stile di sfondo nell&#39;Editor origine di HTML. Clic **Aggiorna**.
+1. Incolla il codice da incorporare del modulo con il codice di stile di sfondo nell’editor di HTML Source. Fai clic su **Aggiorna**.
 
    ![](assets/image2015-12-29-18-3a1-3a15.png)
 
-1. Clic **Anteprima** per vedere come verrà riprodotto in una campagna (il modulo non verrà visualizzato nella vista dell’editor). Di seguito è riportato un esempio di come viene eseguito il rendering del codice del modulo in una campagna con un’immagine di sfondo.
+1. Fai clic su **Anteprima** per vedere come verrà eseguito il rendering in una campagna (il modulo non verrà visualizzato nella vista dell&#39;editor). Di seguito è riportato un esempio di come viene eseguito il rendering del codice del modulo in una campagna con un’immagine di sfondo.
 
    ![](assets/image2015-12-29-18-3a20-3a35.png)
 
 >[!MORELIKETHIS]
 >
->* [Modificare il CSS di un tema modulo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
->* [Mostra il messaggio di ringraziamento senza una pagina di destinazione di completamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
+>* [Modifica il CSS di un tema modulo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
+>* [Mostra messaggio di ringraziamento senza una pagina di destinazione di completamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
 >* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

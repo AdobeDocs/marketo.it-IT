@@ -15,19 +15,19 @@ ht-degree: 0%
 
 È possibile che non tutti i problemi relativi alle pagine siano utili. Ecco come rimuoverne uno.
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-14-3a0-3a16.png)
 
-1. In [!UICONTROL Pagine] , fare clic su **[!UICONTROL Problemi]**.
+1. Nella sezione [!UICONTROL Pagine], fai clic su **[!UICONTROL Problemi]**.
 
    ![](assets/image2014-9-18-14-3a0-3a30.png)
 
-1. Passa il puntatore del mouse sul problema della pagina da rimuovere. Clic **[!UICONTROL Rimuovi]**.
+1. Passa il puntatore del mouse sul problema della pagina da rimuovere. Fare clic su **[!UICONTROL Rimuovi]**.
 
    ![](assets/image2014-9-18-14-3a0-3a38.png)
 
-1. Clic **[!UICONTROL Elimina]** rimuoverà definitivamente questo problema di pagina.
+1. Facendo clic su **[!UICONTROL Elimina]**, il problema relativo alla pagina verrà rimosso definitivamente.
 
    >[!CAUTION]
    >

@@ -17,28 +17,28 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 
 >[!CAUTION]
 >
->I campi seguenti devono **non** per il corretto funzionamento della profilazione degli account.
+>I campi seguenti devono essere **not** nascosti per il corretto funzionamento del profiling account.
 >
 >* Sito web
 >* Azienda
 >* E-mail
 >* Paese
 >
->Scopri come [mostra un campo qui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
+>Scopri come [scoprire un campo qui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
 1. In Il mio Marketo, apri **Gestione account di destinazione**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Fai clic su **Profilo account** scheda.
+1. Fare clic sulla scheda **Profilo account**.
 
    ![](assets/two-1.png)
 
-1. Per impostazione predefinita, viene aperta la scheda Modello (Model). Clic **Introduzione**.
+1. Per impostazione predefinita, viene aperta la scheda Modello (Model). Fai clic su **Inizia**.
 
    ![](assets/three.png)
 
-1. Assegna un nome al modello e scegli il tipo di elenco o l’elenco di persone che fungeranno da base per il profilo cliente ideale (ICP). Clic **Crea modello** al termine.
+1. Assegna un nome al modello e scegli il tipo di elenco o l’elenco di persone che fungeranno da base per il profilo cliente ideale (ICP). Al termine, fai clic su **Crea modello**.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -46,7 +46,7 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 
    ![](assets/five.png)
 
-1. Per visualizzare i risultati del modello, fare clic su **Vedi Risultato modello**.
+1. Per visualizzare i risultati del modello, fare clic su **Visualizza risultato modello**.
 
    ![](assets/six.png)
 
@@ -56,4 +56,4 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 
    >[!TIP]
    >
-   >Una volta creato il modello, [scopri come regolarlo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).
+   >Dopo aver creato il modello, [scopri come ottimizzarlo](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md).

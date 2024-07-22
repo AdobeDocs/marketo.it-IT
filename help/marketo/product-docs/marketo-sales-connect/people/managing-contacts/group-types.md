@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Scopri i diversi tipi di gruppi in Sales Connect.
   </tr> 
   <tr> 
    <td colspan="1"><p>Gruppi dinamici</p></td> 
-   <td colspan="1">Contatti personali: tutti i contatti di cui si è proprietari.<br>Annullamenti iscrizione: contatti che hanno rinunciato a ricevere corrispondenza.</td> 
+   <td colspan="1">Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td> 
   </tr> 
   <tr> 
    <td><p>I miei gruppi</p></td> 

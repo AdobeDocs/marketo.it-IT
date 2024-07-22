@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # Configurare il flusso di avanzamento del tracciamento per un’offerta di riferimento {#configure-track-progress-flow-for-a-referral-offer}
 
-Quando [creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), è possibile configurare i prompt che mostrano ai partecipanti l&#39;avanzamento verso il premio.
+Quando [crei un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi configurare i prompt che mostrano ai partecipanti l&#39;avanzamento verso il premio.
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-4.png)
 
-1. Seleziona l’offerta di riferimento e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;offerta di riferimento e fare clic su **Modifica bozza**.
 
    ![](assets/image2014-9-22-14-3a35-3a31.png)
 
-1. Nell’editor delle offerte di riferimento, vai a **Tracciare il flusso di avanzamento** > **Social network**.
+1. Nell&#39;editor delle offerte di riferimento, vai a **Traccia flusso di avanzamento** > **Social network**.
 
    ![](assets/image2014-9-22-14-3a35-3a43.png)
 
-1. In **Visualizza e modifica** finestra, modifica il prompt che ricorda ai partecipanti di accedere allo stesso social network a cui si erano iscritti per la tua offerta.
+1. Nella finestra **Visualizza e modifica**, modifica il prompt che ricorda ai partecipanti di accedere allo stesso social network utilizzato per iscriversi all&#39;offerta.
 
    ![](assets/image2014-9-22-14-3a35-3a58.png)
 
    >[!NOTE]
    >
-   >Per evidenziare il testo modificabile, seleziona **Mostra modifiche** in alto a destra.
+   >Per evidenziare il testo modificabile, seleziona **Mostra modifiche** nell&#39;angolo superiore destro.
 
 1. Modifica il prompt che incoraggia il partecipante a condividere il collegamento con altri amici.
 
@@ -49,4 +49,4 @@ Quando [creare un’offerta di riferimento](/help/marketo/product-docs/demand-ge
 
 >[!MORELIKETHIS]
 >
->Quindi, fai clic su **Fine** > **Approva e chiudi** e [pubblicare l’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).
+>Fai clic su **Fine** > **Approva e chiudi** e [pubblica la tua offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md).

@@ -1,5 +1,5 @@
 ---
-description: Invio di un’e-mail tracciata - Documenti Marketo - Documentazione del prodotto
+description: Invio di un’e-mail tracciata - Documentazione di Marketo - Documentazione del prodotto
 title: Invio di un’e-mail tracciata
 hide: true
 hidefromtoc: true
@@ -12,35 +12,34 @@ ht-degree: 0%
 
 # Invio di un’e-mail tracciata {#sending-a-tracked-email}
 
-Durante l’invio di un’e-mail con Marketo Sales Connect, verranno monitorate le visualizzazioni (aperture e-mail) e i clic (collegamenti selezionati).
+Quando si invia un’e-mail con Marketo Sales Connect, vengono tracciate le visualizzazioni (apertura e-mail) e i clic (collegamenti selezionati).
 
 >[!PREREQUISITES]
 >
->Prima di inviare un’e-mail tracciata, dovrai verificare l’identità e impostare un canale di consegna e-mail.
+>Prima di inviare un’e-mail tracciata, è necessario aver verificato l’identità e configurato un canale di consegna e-mail.
 >
->* [Verifica l&#39;indirizzo e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
->* Impostare un canale di consegna per [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
+>* [Verifica il tuo indirizzo e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md)
+>* Configura un canale di consegna per [Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) o [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
 
-
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/sending-a-tracked-email-1.png)
 
-1. Immetti il nome o l’e-mail di un destinatario nel **A** campo .
+1. Immettere il nome o l&#39;indirizzo di posta elettronica di un destinatario nel campo **A**.
 
    ![](assets/sending-a-tracked-email-2.png)
 
    >[!NOTE]
    >
-   >Nel campo A è possibile avere una sola persona.
+   >Nel campo A è possibile inserire una sola persona.
 
-1. Aggiungi tutti i destinatari da Cc o Ccn nei rispettivi campi.
+1. Aggiungi tutti i destinatari da CC o Ccn nei rispettivi campi.
 
    ![](assets/sending-a-tracked-email-3.png)
 
    >[!NOTE]
    >
-   >Se qualcuno che è stato CC-d o Ccn apre l’e-mail, questa verrà registrata come visualizzazione nel record della persona nel **A** campo .
+   >Se un utente che è stato CC’d o BCC’d apre l’e-mail, l’apertura verrà registrata come visualizzazione nel record della persona nel campo **To**.
 
 1. Aggiungi un oggetto.
 
@@ -48,14 +47,13 @@ Durante l’invio di un’e-mail con Marketo Sales Connect, verranno monitorate 
 
    >[!NOTE]
    >
-   >Per inviare l’e-mail è necessario specificare l’oggetto e il destinatario. Lo faremo **salva automaticamente la bozza** dopo l’aggiunta dell’oggetto e del destinatario.
+   >Per inviare l’e-mail sono necessari un oggetto e un destinatario. La bozza **verrà salvata automaticamente** dopo l&#39;aggiunta dell&#39;oggetto e del destinatario.
 
-1. Componi il tuo messaggio e-mail utilizzando l’editor. Fai clic su **Invia** o [Pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se preferisci) al termine.
+1. Componi l’e-mail utilizzando l’editor. Al termine, fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md), se preferisci).
 
    ![](assets/sending-a-tracked-email-5.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Pianificazione di un’e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/scheduling-an-email.md)
+   >* [Pianificazione di un&#39;e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/scheduling-an-email.md)
    >* [Modelli](/help/marketo/product-docs/marketo-sales-insight/actions/templates/manage-templates.md#create-a-new-template)
-

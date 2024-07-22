@@ -17,13 +17,13 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 
 >[!PREREQUISITES]
 >
->[Abilitare gli URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>[Abilita URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Seleziona una pagina di destinazione e fai clic sulle impostazioni per **URL personalizzato**.
+1. Selezionare una pagina di destinazione e fare clic sulle impostazioni per **URL personalizzato**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Ora puoi controllare **Abilita URL personalizzati** e fai clic su **Salva**.
+1. Ora puoi selezionare **Abilita URL personalizzati** e fare clic su **Salva**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

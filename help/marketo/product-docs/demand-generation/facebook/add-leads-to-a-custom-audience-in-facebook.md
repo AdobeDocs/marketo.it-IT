@@ -6,7 +6,7 @@ exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,30 +17,30 @@ Hai già un pubblico personalizzato in Facebook e desideri aggiungervi altri lea
 
 >[!PREREQUISITES]
 >
->* [Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Accettare i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook.
+>* [Creazione di un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Accetta i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook.
 >
 
 1. Trova e seleziona l’elenco smart o statico contenente i lead da aggiungere.
 
    ![](assets/one.png)
 
-1. Seleziona la **Lead** , quindi fare clic sul pulsante **Invia tramite Ad Bridge** nella parte inferiore.
+1. Seleziona la scheda **Lead**, quindi fai clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
 
    ![](assets/two-1.png)
 
-1. Seleziona **Facebook** e fai clic su **Successivo**.
+1. Seleziona **Facebook** e fai clic su **Avanti**.
 
    ![](assets/three.png)
 
-1. Fai clic su **Pubblico** , seleziona il pubblico a cui desideri aggiungere i lead e fai clic su **Aggiorna**.
+1. Fai clic sul menu a discesa **Pubblico**, seleziona il pubblico a cui desideri aggiungere i lead, quindi fai clic su **Aggiorna**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Aggiungere lead al pubblico**: saranno disponibili solo i tipi di pubblico di Facebook con un sottotipo personalizzato.\
-   >**Rimuovi lead dal pubblico**: rimuove i lead dall’elenco statico o avanzato da un pubblico di Facebook.
+   >**Aggiungi lead al pubblico**: saranno disponibili solo i tipi di pubblico di Facebook con un sottotipo personalizzato.\
+   >**Rimuovi lead dal pubblico**: rimuove i lead dall&#39;elenco statico o avanzato da un pubblico di Facebook.
 
 1. Al termine, lo stato viene aggiornato.
 
@@ -50,4 +50,4 @@ Hai già un pubblico personalizzato in Facebook e desideri aggiungervi altri lea
 
    >[!NOTE]
    >
-   >[Creare un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[Creazione di un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

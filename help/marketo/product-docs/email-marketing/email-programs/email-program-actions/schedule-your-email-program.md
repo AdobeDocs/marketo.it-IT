@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Crea un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definire un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Scegli un messaggio e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Scegli un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Crea un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Dopo aver creato il programma e-mail, aver definito il pubblico e aver selezionato l’e-mail, notifica il programma *quando* per inviare l’e-mail. Ecco come.
+Dopo aver creato il programma di posta elettronica, definito il pubblico e selezionato l&#39;indirizzo di posta elettronica, è possibile comunicare al programma *quando* inviare l&#39;indirizzo di posta elettronica. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
@@ -30,7 +30,7 @@ Dopo aver creato il programma e-mail, aver definito il pubblico e aver seleziona
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Sotto **Pianificazione** riquadro, imposta la data.
+1. Nella sezione **Pianificazione**, imposta la data.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,13 +38,13 @@ Dopo aver creato il programma e-mail, aver definito il pubblico e aver seleziona
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Puoi anche scegliere di utilizzare la [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/o [Inizio intestazione](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) funzioni.
+1. Puoi anche scegliere di utilizzare le funzionalità [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/o [Inizio intestazione](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 
-   Quanto è stato facile? L&#39;unica cosa che rimane è [approvare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md) e sei a posto.
+   Quanto è stato facile? L&#39;unica cosa che rimane è [approvare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md).
 
 >[!MORELIKETHIS]
 >
->* [Pianificazione dei programmi e-mail con fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
->* [Head Start per i programmi e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)
+>* [Programmazione di programmi e-mail con fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md)
+>* [Inizio intestazione per programmi e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md)

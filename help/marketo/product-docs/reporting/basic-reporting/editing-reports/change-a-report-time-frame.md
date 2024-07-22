@@ -15,25 +15,25 @@ ht-degree: 0%
 
 Modifica il periodo di tempo coperto dal rapporto, per concentrarti su un orario di attività specifico.
 
-1. Vai a **Attività di marketing** (o **Analytics**).
+1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2017-3-27-9-3a15-3a9.png)
 
-1. Seleziona il rapporto dalla struttura di navigazione e fai clic su **Configurazione** scheda.
+1. Selezionare il report dalla struttura di navigazione e fare clic sulla scheda **Configurazione**.
 
    ![](assets/image2017-3-27-9-3a57-3a56.png)
 
 1. Fai doppio clic sul campo intervallo di tempo, etichettato in modo diverso a seconda del tipo di rapporto:
 
-   * **Persona creata in**, nei report di persona
-   * **Data di invio**, nei report e-mail
-   * **Data di attività**, in tutti gli altri rapporti
+   * **Persona creata alle**, nei report personali
+   * **Data invio**, nei report e-mail
+   * **Data attività** in tutti gli altri report
 
    ![](assets/image2017-3-27-9-3a58-3a23.png)
 
    >[!NOTE]
    >
-   >**Persona creata in** si riferisce al momento in cui la persona è diventata nota nel database.
+   >**La persona creata alle** fa riferimento al momento in cui la persona è diventata nota nel database.
 
 1. Scegli l’intervallo di tempo appropriato dal menu a discesa.
 
@@ -41,11 +41,11 @@ Modifica il periodo di tempo coperto dal rapporto, per concentrarti su un orario
 
    >[!TIP]
    >
-   >Per impostare date specifiche, seleziona **Personalizzato** dal menu a discesa e immettere le date nel campo **Da** e **A** campi del calendario.
+   >Per impostare date specifiche, selezionare **Personalizzato** dal menu a discesa e immettere le date nei campi del calendario **Da** e **A**.
 
-   Fai clic su **Report** per visualizzare il rapporto per l’intervallo di tempo selezionato.\
+   Fai clic sulla scheda **Report** per visualizzare il report per l&#39;intervallo di tempo selezionato.\
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]
    >
-   >Per limitare il rapporto in base agli attributi di una persona specifica, puoi: [Filtrare le persone in un report con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).
+   >Per limitare il report in base agli attributi di persona specifici, è possibile [filtrare le persone in un report con un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md).

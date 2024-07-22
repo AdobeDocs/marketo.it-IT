@@ -6,7 +6,7 @@ exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics per Sales Insight
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** area.
+1. Vai all&#39;area **Amministratore**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 
-1. Clic **Microsoft Dynamics**.
+1. Fare clic su **Microsoft Dynamics**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-2.png)
 
-1. Seleziona **Scarica la soluzione Marketo**.
+1. Selezionare **Scarica soluzione Marketo**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-3.png)
 
@@ -39,8 +39,8 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics per Sales Insight
 
 ## Esecuzione dell&#39;aggiornamento {#performing-the-upgrade}
 
-1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, puoi importare _oltre_ versione 1.4).
+1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, è necessario importare _over_ versione 1.4).
 
-2. Viene visualizzata la seguente finestra a comparsa. Seleziona **Fase di aggiornamento** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
+2. Viene visualizzata la seguente finestra a comparsa. Seleziona **Fase per l&#39;aggiornamento** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
 
 ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-5.png)

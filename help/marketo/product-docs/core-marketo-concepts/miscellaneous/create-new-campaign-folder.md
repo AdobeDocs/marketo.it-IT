@@ -22,15 +22,15 @@ Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Se
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Seleziona **[!UICONTROL Nuova cartella Campaign]**.
+1. Seleziona **[!UICONTROL Nuova cartella campagne]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Immetti un **[!UICONTROL Nome]** per la cartella campaign.
+1. Immetti un **[!UICONTROL Nome]** per la cartella della campagna.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facoltativo: immettere un valore **[!UICONTROL Descrizione]** e fai clic su **[!UICONTROL Crea]**.
+1. Facoltativo: immettere una **[!UICONTROL Descrizione]** e fare clic su **[!UICONTROL Crea]**.
 
    >[!TIP]
    >
@@ -42,9 +42,9 @@ Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Se
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ora quando [creazione di un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), visualizzerai questa cartella della campagna come opzione.
+   Ora, quando [crei un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vedrai questa cartella della campagna come un&#39;opzione.
 
 >[!MORELIKETHIS]
 >
->* [Creare un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Creare una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Crea un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

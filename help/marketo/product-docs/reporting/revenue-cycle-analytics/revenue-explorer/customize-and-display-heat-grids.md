@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Una griglia di calore rappresenta visivamente i dati in una griglia colorata in modo da poter identificare i pattern buoni e cattivi in modo più semplice e rapido.
 
-1. Nel rapporto, fai clic sull’icona del grafico, quindi **Griglia di calore**.
+1. Nel report fare clic sull&#39;icona del grafico e quindi **Griglia di calore**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Per apportare modifiche al **Griglia di calore**, passare alla **Proprietà** area.
+1. Per apportare modifiche alla **Griglia di calore**, passare all&#39;area **Proprietà**.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Fantastico! Ora hai il tuo **Griglia di calore**!
+   Fantastico! Hai ora la tua **Griglia di calore**!

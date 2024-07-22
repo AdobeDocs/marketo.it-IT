@@ -19,16 +19,16 @@ Il Generatore di URL consente di creare URL che possono popolare i campi dei mod
 >
 >Scopri come creare campi nascosti nei moduli e modificarne le impostazioni in [Impostare un campo modulo come nascosto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.md).
 
-1. Seleziona una pagina di destinazione, fai clic su **Azioni pagina di destinazione**, passaggio del mouse **Strumenti URL**, quindi fai clic su **Generatore URL**.
+1. Seleziona una pagina di destinazione, fai clic su **Azioni pagina di destinazione**, passa il puntatore del mouse su **Strumenti URL**, quindi fai clic su **Generatore URL**.
 
    ![](assets/image2014-9-18-13-3a5-3a19.png)
 
-1. Seleziona i campi da utilizzare, immetti il valore e fai clic su **Aggiorna URL**.
+1. Selezionare i campi da utilizzare, immettere il valore e fare clic su **Aggiorna URL**.
 
    ![](assets/image2014-9-18-13-3a5-3a28.png)
 
    >[!NOTE]
    >
-   >Se nel generatore non è disponibile alcun campo, verificare che il modulo contenga campi nascosti e che [impostato per accettare i parametri URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
+   >Se nel generatore non sono presenti campi disponibili, verificare che il modulo contenga campi nascosti e che tali campi siano impostati per accettare i parametri URL](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).[
 
 Ottimo lavoro! Ora puoi copiare e incollare l’URL e utilizzarlo sul web.

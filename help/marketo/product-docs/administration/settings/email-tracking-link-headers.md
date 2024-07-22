@@ -18,7 +18,7 @@ Segui i passaggi seguenti per personalizzare le intestazioni dei collegamenti di
 
    ![](assets/email-tracking-link-headers-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/email-tracking-link-headers-2.png)
 

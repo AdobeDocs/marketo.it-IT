@@ -19,14 +19,14 @@ Cerchi campagne web che utilizzano un segmento specifico?
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 
-1. Cerca un **Segmento**. Seleziona la **Nome segmento**. Nel pannello di destra, fai clic su **Campagne associate** per visualizzare le campagne associate a questo segmento specifico.
+1. Cerca un **segmento**. Seleziona il **Nome segmento**. Nel pannello di destra, fai clic su **Campagne associate** per visualizzare le campagne associate a questo segmento specifico.
 
    ![](assets/image2014-11-26-14-21-59.png)
 
-1. Visualizza **Campagne** associato al segmento selezionato.
+1. Visualizza le **Campagne** associate al segmento selezionato.
 
    ![](assets/image2014-11-26-14-3a25-3a30.png)
 
 >[!MORELIKETHIS]
 >
->Ulteriori informazioni su [segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) e come [creare un segmento di base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).
+>Ulteriori informazioni sui [segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md) e su come [creare un segmento di base](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md).

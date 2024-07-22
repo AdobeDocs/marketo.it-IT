@@ -23,7 +23,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 ## Visualizza il successo del programma per {#view-program-success-by}
 
-**Dashboard di coinvolgimento: contributi e tendenze**
+**Dashboard di coinvolgimento - Contributi e tendenze**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 ## Opportunità Influenzate Dal Marketing {#marketing-influenced-opportunities}
 
-**Dashboard delle pipeline - Contributo e tendenza**
+**Dashboard pipeline - Contributo e tendenza**
 
 <table> 
  <tbody> 

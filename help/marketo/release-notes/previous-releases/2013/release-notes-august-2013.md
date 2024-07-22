@@ -6,7 +6,7 @@ exl-id: c7af3af8-c51e-49dd-8ebf-803cb4350024
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Le seguenti funzioni sono incluse nella versione di agosto 2013.
 
-**E-mail di solo testo**
+**E-Mail Solo Testo**
 
-Ora puoi inviare [solo la versione del testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) di un messaggio e-mail. Tieni presente che i collegamenti non saranno decorati quando utilizzi questa opzione.
+Ora puoi inviare [solo la versione testuale](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md) di un&#39;e-mail. Tieni presente che i collegamenti non saranno decorati quando utilizzi questa opzione.
 
 ![](assets/image2014-9-22-16-3a34-3a15.png)
 
@@ -25,13 +25,13 @@ Ora puoi inviare [solo la versione del testo](/help/marketo/product-docs/email-m
 
 ### Ignora contenuto esaurito {#ignore-exhausted-content}
 
-Configurare il programma di coinvolgimento in [ignora esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inclusa la soppressione di eventuali notifiche.
+Configurare il programma di coinvolgimento per [ignorare l&#39;esaurimento](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/disable-and-enable-exhausted-content-notifications.md), inclusa la soppressione di eventuali notifiche.
 
 ![](assets/image2014-9-22-16-3a34-3a37.png)
 
 ## Test del flusso di coinvolgimento {#engagement-stream-testing}
 
-Utilizza il [nuova funzione di test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) per simulare un cast e testare i contenuti appena aggiunti a uno streaming live.
+Utilizza la [nuova funzionalità di test](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/test-an-engagement-stream.md) per simulare un cast e testare il contenuto appena aggiunto a un flusso live.
 
 ![](assets/image2014-9-22-16-3a34-3a56.png)
 
@@ -49,7 +49,7 @@ Utilizza questi [nuovi token](/help/marketo/product-docs/email-marketing/general
 
 ## Pulizia automatica campagna trigger {#automatic-trigger-campaign-cleanup}
 
-Marketo provvederà ora ad inviare periodicamente una notifica [disattivare automaticamente le campagne trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) che non sono stati eseguiti negli ultimi sei mesi.
+Marketo ti invierà periodicamente una notifica e [disattiverà automaticamente le campagne trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/automatic-trigger-campaign-cleanup.md) che non sono state eseguite negli ultimi sei mesi.
 
 ![](assets/image2014-9-22-16-3a36-3a2.png)
 

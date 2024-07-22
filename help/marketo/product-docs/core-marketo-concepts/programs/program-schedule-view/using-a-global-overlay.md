@@ -17,7 +17,7 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
 >[!PREREQUISITES]
 >
->È necessario disporre di [Licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"} per utilizzare questa funzione.
+>Per utilizzare questa funzionalità è necessario disporre di una [licenza Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md){target="_blank"}.
 
 ## Utilizzare la sovrapposizione globale {#use-the-global-overlay}
 
@@ -25,7 +25,7 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Seleziona **[!UICONTROL Sovrapposizione]** nell’angolo in basso a destra.
+1. Seleziona **[!UICONTROL Sovrapposizione]** nell&#39;angolo inferiore destro.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -39,9 +39,9 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
 ## Utilizzare un filtro salvato come sovrapposizione {#use-a-saved-filter-as-an-overlay}
 
-Se hai [ha salvato un filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, è possibile utilizzarlo come sovrapposizione nella visualizzazione della pianificazione del programma.
+Se hai [salvato un filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, puoi utilizzarlo come sovrapposizione nella visualizzazione della pianificazione del programma.
 
-1. Fai clic su **[!UICONTROL Sovrapposizione]** e seleziona la definizione del filtro.
+1. Fai clic sull&#39;elenco a discesa **[!UICONTROL Sovrapposizione]** e seleziona la definizione del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 
@@ -51,4 +51,4 @@ Se hai [ha salvato un filtro nel calendario di marketing](/help/marketo/product-
 
    >[!MORELIKETHIS]
    >
-   >[Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}
+   >[Creazione di sovrapposizioni personalizzate nella visualizzazione Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-custom-overlays-in-program-schedule-view.md){target="_blank"}

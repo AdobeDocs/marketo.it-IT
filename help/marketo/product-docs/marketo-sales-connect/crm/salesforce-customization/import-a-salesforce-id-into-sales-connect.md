@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Sales Connect utilizza l&#39;ID contatto o lead (noto anche come ID Salesforce) per registrare correttamente le informazioni in Salesforce. Puoi allegare il tuo ID Salesforce ai tuoi contatti in Sales Connect in diversi modi.
 
-[Invia a Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): l’utilizzo di Push to Sales Connect creerà un contatto in Sales Connect con tutte le informazioni chiave del contatto, incluso l’ID Salesforce del lead/contatto.
+[Invia a Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md): l&#39;utilizzo di Push to Sales Connect creerà un contatto in Sales Connect con tutte le informazioni di contatto chiave, incluso l&#39;ID Salesforce del lead/contatto.
 
-[Invia e-mail di vendita Marketo, aggiungi a campagna e fai clic per chiamare i pulsanti in SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): quando utilizzi uno di questi tre pulsanti in Salesforce, il contatto viene inviato a Sales Connect con l’ID Salesforce.
+[Invia e-mail di vendita Marketo, Aggiungi a Campaign e Fai clic per chiamare i pulsanti in SFDC](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-sales-connect-buttons-in-salesforce.md): quando utilizzi uno di questi tre pulsanti in Salesforce, il contatto verrà inviato a Sales Connect con l&#39;ID Salesforce.
 
-[Importa CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): se esporti un elenco di lead/contatti da Salesforce e includi una colonna con l’ID Salesforce, puoi mappare il campo su Sales Connect al momento dell’importazione.
+[Importa CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md): se esporti un elenco di lead/contatti da Salesforce e includi una colonna con l&#39;ID Salesforce, puoi mappare il campo a Sales Connect al momento dell&#39;importazione.

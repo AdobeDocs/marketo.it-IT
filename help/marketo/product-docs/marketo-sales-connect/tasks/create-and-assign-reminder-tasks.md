@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Le attività di promemoria sono un ottimo modo per rimanere al passo con il coinvolgimento di clienti e potenziali clienti. Per creare un&#39;attività, eseguire la procedura seguente.
 
-1. Clic **Centro comandi**.
+1. Fare clic su **Centro comandi**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Le attività vengono aperte per impostazione predefinita. Clic **Aggiungi attività**.
+1. Le attività vengono aperte per impostazione predefinita. Fai clic su **Aggiungi attività**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
@@ -46,6 +46,6 @@ Le attività di promemoria sono un ottimo modo per rimanere al passo con il coin
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Aggiungere tutti i dettagli sull&#39;attività che si desidera rendere disponibili quando si completa l&#39;attività, ad esempio le note di conversazione telefonica, un modello di messaggio InMail o anche le note sulla persona. Clic **Crea** al termine.
+1. Aggiungere tutti i dettagli sull&#39;attività che si desidera rendere disponibili quando si completa l&#39;attività, ad esempio le note di conversazione telefonica, un modello di messaggio InMail o anche le note sulla persona. Al termine, fai clic su **Crea**.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

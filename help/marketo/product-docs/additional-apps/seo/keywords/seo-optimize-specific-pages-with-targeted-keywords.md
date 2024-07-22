@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Alcune parole chiave vanno molto bene con determinate pagine. In questo modo la parola chiave perfetta viene associata alla pagina perfetta. Questo fornirà i dati più accurati e le migliori raccomandazioni per il miglioramento.
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-12-3a52-3a28.png)
 
@@ -23,7 +23,7 @@ Alcune parole chiave vanno molto bene con determinate pagine. In questo modo la 
 
    ![](assets/image2014-9-18-12-3a52-3a41.png)
 
-1. Seleziona la parola chiave per la quale stai tentando di ottimizzare la pagina. Clic **[!UICONTROL Aggiorna]**.
+1. Seleziona la parola chiave per la quale stai tentando di ottimizzare la pagina. Fai clic su **[!UICONTROL Aggiorna]**.
 
    >[!TIP]
    >

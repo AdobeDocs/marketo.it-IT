@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
 source-wordcount: '435'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ Sul pannello posteriore delle funzioni Campi personalizzati membro del programma
 
 I token PMCF saranno supportati nel dominio membro della famiglia di token.
 
-I token dei membri vengono utilizzati per i campi che rientrano nell’ambito di Membro del programma. Allo stato attuale, i token membro vengono utilizzati anche per inserire valori univoci dai partner di servizi integrati. `{{member.webinar url}}` Il token risolve automaticamente l’URL di conferma univoco della persona generato dal provider di servizi. {{member.registration code}} viene risolto nel codice di registrazione fornito dal provider di servizi.
+I token dei membri vengono utilizzati per i campi che rientrano nell’ambito di Membro del programma. Allo stato attuale, i token membro vengono utilizzati anche per inserire valori univoci dai partner di servizi integrati. Il token `{{member.webinar url}}` risolve automaticamente l&#39;URL di conferma univoco della persona generato dal provider di servizi. {{member.registration code}} viene risolto nel codice di registrazione fornito dal provider di servizi.
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ I token dei membri vengono utilizzati per i campi che rientrano nell’ambito di
 >* I token dei campi personalizzati dei membri del programma non possono essere utilizzati in: preheader e-mail, Token di data in Wait Steps o Snippet.
 >* Lo stato dei membri del programma non è supportato nei token dei membri.
 
-## Utilizzo dei token dei campi personalizzati dei membri del programma nelle risorse {#using-program-member-custom-field-tokens-in-assets}
+## Utilizzo dei token dei campi personalizzati dei membri del programma in Assets {#using-program-member-custom-field-tokens-in-assets}
 
 Puoi inserire token dei campi personalizzati dei membri del programma in e-mail, pagine di destinazione, SMS, notifiche push e webhook.
 
-**E-mail**
+**E-Mail**
 
-1. Seleziona l’e-mail desiderata e fai clic su **[!UICONTROL Modifica bozza]**.
+1. Seleziona l&#39;e-mail desiderata e fai clic su **[!UICONTROL Modifica bozza]**.
 
    ![](assets/program-member-custom-field-tokens-1.png)
 
@@ -41,7 +41,7 @@ Puoi inserire token dei campi personalizzati dei membri del programma in e-mail,
 
    ![](assets/program-member-custom-field-tokens-2.png)
 
-1. Trova e seleziona il token del campo personalizzato del membro del programma desiderato, immetti un valore predefinito e fai clic su **[!UICONTROL Inserisci]**.
+1. Individuare e selezionare il token del campo personalizzato del membro del programma desiderato, immettere un valore predefinito e fare clic su **[!UICONTROL Inserisci]**.
 
    ![](assets/program-member-custom-field-tokens-3.png)
 
@@ -75,7 +75,7 @@ Puoi inserire token dei campi personalizzati dei membri del programma in e-mail,
 
    ![](assets/program-member-custom-field-tokens-8.png)
 
-1. Inserisci un valore predefinito e fai clic su **[!UICONTROL Inserisci]**.
+1. Immettere un valore predefinito e fare clic su **[!UICONTROL Inserisci]**.
 
    ![](assets/program-member-custom-field-tokens-9.png)
 
@@ -85,11 +85,11 @@ Puoi inserire token dei campi personalizzati dei membri del programma in e-mail,
 
 **SMS**
 
-1. Seleziona l’SMS desiderato e fai clic su **[!UICONTROL Modifica bozza]**.
+1. Seleziona l&#39;SMS desiderato e fai clic su **[!UICONTROL Modifica bozza]**.
 
    ![](assets/program-member-custom-field-tokens-11.png)
 
-1. Fai clic su **`{{ Token`** pulsante.
+1. Fare clic sul pulsante **`{{ Token`**.
 
    ![](assets/program-member-custom-field-tokens-12.png)
 
@@ -103,23 +103,23 @@ Puoi inserire token dei campi personalizzati dei membri del programma in e-mail,
 
 **Notifiche push**
 
-1. Seleziona la notifica push desiderata e fai clic su **[!UICONTROL Modifica bozza]**.
+1. Selezionare la notifica push desiderata e fare clic su **[!UICONTROL Modifica bozza]**.
 
    ![](assets/program-member-custom-field-tokens-15.png)
 
-1. Clic **[!UICONTROL Notifica push]**.
+1. Fai clic su **[!UICONTROL Notifica push]**.
 
    ![](assets/program-member-custom-field-tokens-16.png)
 
-1. Fai clic sul messaggio nell’editor e fai clic sul pulsante `{{` per ottenere il selettore del token.
+1. Fai clic sul messaggio nell&#39;editor e fai clic sul pulsante `{{` per ottenere il selettore del token.
 
    ![](assets/program-member-custom-field-tokens-17.png)
 
-1. Individua e seleziona il token del campo personalizzato del membro del programma desiderato. Immetti un valore predefinito e fai clic su **[!UICONTROL Inserisci]**.
+1. Individua e seleziona il token del campo personalizzato del membro del programma desiderato. Immettere un valore predefinito e fare clic su **[!UICONTROL Inserisci]**.
 
    ![](assets/program-member-custom-field-tokens-18.png)
 
-1. Clic **[!UICONTROL Fine]** per salvare ed uscire (oppure **[!UICONTROL Successivo]** per prima cosa).
+1. Fai clic su **[!UICONTROL Fine]** per salvare ed uscire (oppure su **[!UICONTROL Avanti]** per rivedere).
 
    ![](assets/program-member-custom-field-tokens-19.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Come allegare un contenuto {#attaching-a-piece-of-content}
 
-Aggiungi contenuto tracciabile facendo clic sul pulsante **Contenuto** e caricare un file. Tutti i contenuti tracciati in precedenza vengono visualizzati per la selezione nella finestra pop-up senza dover caricare nuovamente.
+Aggiungi contenuto tracciabile facendo clic sul pulsante **Contenuto** e caricando un file. Tutti i contenuti tracciati in precedenza vengono visualizzati per la selezione nella finestra pop-up senza dover caricare nuovamente.
 
 >[!NOTE]
 >

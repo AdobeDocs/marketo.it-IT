@@ -6,7 +6,7 @@ exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->L&#39;account Sales Connect non può essere già connesso a Salesforce quando si stabilisce una connessione alla sandbox. Se lo è, [assicurati di disconnetterti](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
+>L&#39;account Sales Connect non può essere già connesso a Salesforce quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurati di disconnetterti](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-2.png)
 
-1. In Integrazioni, fai clic su **CRM**.
+1. In Integrazioni fare clic su **CRM**.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/three-2.png)
 
-1. Nella parte inferiore della pagina, fai clic su **Connetti a Sandbox**.
+1. Nella parte inferiore della pagina, fai clic su **Connetti alla sandbox**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Come installare personalizzazioni nel tuo Salesforce Sandbox](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Come installare le personalizzazioni nella Sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

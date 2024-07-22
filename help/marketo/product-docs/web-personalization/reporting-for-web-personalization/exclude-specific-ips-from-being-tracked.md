@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Escludere specifici IP dal tracciamento {#exclude-specific-ips-from-being-tracked}
 
-Desideri mai escludere i tuoi dipendenti e il nome della tua organizzazione dal tracciamento e dal reporting in Personalizzazione web?
+Desideri mai escludere i tuoi dipendenti e il nome della tua organizzazione dal monitoraggio e dal reporting in Web Personalization?
 
 Puoi escludere singoli IP e tutti o parte di un intervallo di IP.
 
@@ -21,15 +21,15 @@ Puoi escludere singoli IP e tutti o parte di un intervallo di IP.
 >
 >Il completamento di questo processo può richiedere fino a cinque minuti.
 
-1. Accedi a Web Personalization e sotto il tuo accesso fai clic su **Impostazioni account**.
+1. Accedi a Web Personalization e sotto il tuo account di accesso, fai clic su **Impostazioni account**.
 
    ![](assets/image2014-11-19-19-3a25-3a41.png)
 
-1. Scorri verso il basso fino a **Esclusione IP** area. Se escludi gli indirizzi IP per la prima volta, fai clic su (Indirizzo vuoto) **Escludi indirizzi IP** campo.
+1. Scorri verso il basso fino all&#39;area **IP exclude**. Se escludi gli indirizzi IP per la prima volta, fai clic sul campo **Escludi indirizzi IP** vuoto.
 
    ![](assets/image2016-11-4-10-3a27-3a1.png)
 
-1. Inserisci i singoli IP o intervalli di IP da escludere dal tracciamento e dal reporting, quindi fai clic su **Salva**.
+1. Immetti i singoli IP o intervalli di IP da escludere dal tracciamento e dal reporting e fai clic su **Salva**.
 
    ![](assets/exclude-ips-form-hands.png)
 

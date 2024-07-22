@@ -1,11 +1,11 @@
 ---
 description: Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Aggiorna il campo del tipo di attività durante la registrazione delle attività in Salesforce
-exl-id: f65d7d97-ec65-4210-9381-02be788498f9
-source-git-commit: 02354356949aef7aa8836d4753ec538b7819a65a
+exl-id: 800323cb-2b99-42f1-ae30-0f87a9a1b4be
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '420'
+ht-degree: 1%
 
 ---
 
@@ -32,32 +32,32 @@ Verifica innanzitutto quali valori mancano nell’elenco a discesa Tipo di attiv
 
 ### In Salesforce Lightning {#salesforce-lightning}
 
-1. Accedi a [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Fai clic sull’icona a forma di ingranaggio nell’angolo in alto a destra e seleziona **Configurazione** > **Gestione oggetti**.
+1. Passa a [Salesforce.com](https://salesforce.com){target="_blank"}.
+1. Fai clic sull&#39;icona ingranaggio nell&#39;angolo in alto a destra e seleziona **Configurazione** > **Gestione oggetti**.
 1. Digitare &quot;task&quot; nella casella Ricerca rapida.
 1. Nel pannello a sinistra, fai clic su **Campi e relazioni**.
-1. Fai clic sull’etichetta del campo **Tipo**.
+1. Fare clic sull&#39;etichetta del campo **Tipo**.
 1. In Tipo di attività Valore elenco a discesa, fare clic su **Nuovo**.
 1. Digita il nome dei valori mancanti nell’elenco a discesa Tipo di attività (&quot;E-mail, &quot;Chiamata&quot;, &quot;Risposta&quot;).
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
 ### In Salesforce Classic {#salesforce-classic}
 
-1. Accedi a [Salesforce.com](https://salesforce.com){target="_blank"}.
-1. Clic **Configurazione** > **Genera** > **Personalizza** > **Attività** > **Campi attività**.
-1. Clic **Tipo**.
+1. Passa a [Salesforce.com](https://salesforce.com){target="_blank"}.
+1. Fai clic su **Configurazione** > **Build** > **Personalizza** > **Attività** > **Campi attività**.
+1. Fare clic su **Tipo**.
 1. In Tipo di attività Valore elenco a discesa, fare clic su **Nuovo**.
 1. Digita il nome dei valori mancanti nell’elenco a discesa Tipo di attività (&quot;E-mail, &quot;Chiamata&quot;, &quot;Risposta&quot;).
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
-Ora che questa è attiva, inizierai a vedere che il campo Tipo popola il valore corrispondente per e-mail, chiamate e risposte registrate. Questi valori _non_ essere compilati sulle attività di promemoria delle azioni di approfondimento sulle vendite.
+Ora che questa è attiva, inizierai a vedere che il campo Tipo popola il valore corrispondente per e-mail, chiamate e risposte registrate. Questi valori _non_ verranno inseriti nelle attività promemoria delle azioni di approfondimento vendite.
 
 >[!NOTE]
 >
->Se il valore &quot;Reply&quot; (Risposta) non è visibile, aggiungerlo facendo clic su **Nuovo**. &quot;Reply&quot; (&quot;Risposta&quot;) non è un valore standard in Salesforce.
+>Se il valore &quot;Reply&quot; (Risposta) non è visualizzato, aggiungerlo facendo clic su **New**. &quot;Reply&quot; (&quot;Risposta&quot;) non è un valore standard in Salesforce.
 
 >[!MORELIKETHIS]
 >
 >* [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}
->* [Configura personalizzazione dettagli attività Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
+>* [Configura Personalizzazione Dettagli Attività Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md){target="_blank"}
 >* [Sincronizza attività di vendita con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md){target="_blank"}

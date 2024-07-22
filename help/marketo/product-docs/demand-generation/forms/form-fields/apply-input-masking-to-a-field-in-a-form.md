@@ -23,19 +23,19 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
 
    ![](assets/image2014-9-15-13-3a40-3a44.png)
 
-1. Seleziona il campo e assicurati che **Tipo di campo** è impostato su **Testo**.
+1. Seleziona il campo e assicurati che **Tipo di campo** sia impostato su **Testo**.
 
    >[!NOTE]
    >
-   >Il mascheramento degli input funziona solo con **Tipi di campi di testo**.
+   >Il mascheramento dell&#39;input funziona solo con **Tipi di campi di testo**.
 
    ![](assets/image2014-9-15-13-3a40-3a53.png)
 
-1. Fai clic su **Input maschera** collegamento.
+1. Fare clic sul collegamento **Input maschera**.
 
    ![](assets/image2014-9-15-13-3a41-3a3.png)
 
-1. Inserisci la maschera di input e fai clic su **Salva**.
+1. Immetti la maschera di input e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a41-3a14.png)
 
@@ -43,11 +43,11 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
    >
    >Presta attenzione alle regole di mascheramento. È possibile limitare l&#39;input a numeri, lettere, entrambi e/o anche limitare il numero di caratteri immessi.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-13-3a41-3a22.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 

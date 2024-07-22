@@ -17,7 +17,7 @@ Spostare una campagna avanzata tra programmi o cartelle diversi utilizzando il t
 
 >[!CAUTION]
 >
->Poiché le regole non cambiano, se l’elenco avanzato o i passaggi del flusso della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, come accadrà _non_ aggiornamento automatico.
+>Poiché le regole non verranno modificate, se l&#39;elenco avanzato o i passaggi del flusso della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, in quanto _non_ verrà aggiornato automaticamente.
 
 1. Vai a **[!UICONTROL Attività di marketing]**.
 
@@ -27,7 +27,7 @@ Spostare una campagna avanzata tra programmi o cartelle diversi utilizzando il t
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Seleziona la **[!UICONTROL A]** (destinazione), **[!UICONTROL Programma]**, e facoltativo **[!UICONTROL Cartella]**. Seleziona **[!UICONTROL Sposta]**.
+1. Selezionare **[!UICONTROL A]** (destinazione), **[!UICONTROL Programma]** e **[!UICONTROL Cartella]** facoltativa. Seleziona **[!UICONTROL Sposta]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

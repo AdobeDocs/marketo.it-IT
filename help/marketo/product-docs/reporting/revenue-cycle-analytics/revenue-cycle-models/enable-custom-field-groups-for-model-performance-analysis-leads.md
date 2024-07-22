@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Suddividere i campi standard o personalizzati in gruppi per la generazione di rapporti tramite l&#39;Organizer campi in Marketo. Per ulteriori informazioni, consulta [Creare gruppi di campi personalizzati tramite l’Organizer campi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
+>Suddividere i campi standard o personalizzati in gruppi per la generazione di rapporti tramite l&#39;Organizer campi in Marketo. Per informazioni dettagliate, vedere [Creare gruppi di campi personalizzati tramite l&#39;Organizer campi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
 <table> 
  <tbody> 
@@ -35,26 +35,26 @@ ht-degree: 0%
   <tr> 
    <td colspan="1" rowspan="1"><p><strong>Cosa succede quando si abilita un gruppo di campi personalizzato associato a un campo personalizzato della persona o dell’azienda?</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Il gruppo di campi personalizzato è abilitato per la generazione di rapporti nell'area Analisi delle prestazioni del modello (lead)</p></td> 
-   <td colspan="1" rowspan="1"><p>Il campo personalizzato è abilitato per la generazione di rapporti nelle aree Analisi lead, Analisi campagna e Analisi opportunità.</p><p><strong>NOTA:</strong> I gruppi di campi personalizzati NON sono supportati in queste aree di analisi, pertanto le associazioni dei gruppi non vengono visualizzate in Gestione ciclo di ricavi.<em>solo</em> il campo personalizzato.</p></td> 
+   <td colspan="1" rowspan="1"><p>Il campo personalizzato è abilitato per la generazione di rapporti nelle aree Analisi lead, Analisi campagna e Analisi opportunità.</p><p><strong>NOTA:</strong> i gruppi di campi personalizzati NON sono supportati in queste aree di analisi, pertanto le associazioni dei gruppi non vengono visualizzate in Gestione cicli di ricavo.<em>solo</em> il campo personalizzato.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 Segui questi passaggi per abilitare un gruppo di campi personalizzato per il reporting nell’area Analisi delle prestazioni del modello (Lead).
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one-1.png)
 
-1. Clic **Analisi del ciclo dei ricavi**.
+1. Fare clic su **Analisi ciclo ricavi**.
 
    ![](assets/two-1.png)
 
-1. Clic **Nessuno** accanto a un gruppo di campi vuoto. Se sono già stati attivati tre gruppi di campi e si desidera apportare una modifica, fare clic sul nome del gruppo di campi che si desidera modificare.
+1. Fai clic su **Nessuno** accanto a un gruppo di campi vuoto. Se sono già stati attivati tre gruppi di campi e si desidera apportare una modifica, fare clic sul nome del gruppo di campi che si desidera modificare.
 
    ![](assets/three.png)
 
-1. Fai clic su **Campo** e selezionare quello desiderato.
+1. Fai clic sul menu a discesa **Campo** e seleziona quello desiderato.
 
    ![](assets/four-1.png)
 
@@ -62,6 +62,6 @@ Segui questi passaggi per abilitare un gruppo di campi personalizzato per il rep
    >
    >In questo esempio viene abilitato un gruppo di campi personalizzato per un campo standard (State). Pertanto, è stata interessata solo l&#39;area Analisi prestazioni modello (lead). Se è stato abilitato un gruppo di campi personalizzato per un campo persona o società, tale gruppo viene visualizzato nella sezione Analisi delle prestazioni del modello (lead) della scheda Riepilogo sincronizzazione e il conteggio dei campi personalizzati per Analisi lead, campagna e opportunità aumenta di uno.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/five-1.png)

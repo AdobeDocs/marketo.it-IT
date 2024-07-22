@@ -7,7 +7,7 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -16,14 +16,14 @@ ht-degree: 0%
 Facile installazione Chiamata con Marketo Sales Connect, Invia e-mail Marketo Sales e Aggiungi a Campaign. Per installare questi campi, devi disporre dei privilegi di amministratore in Salesforce.
 
 1. Accedi a [Salesforce.com.](https://salesforce.com)
-1. Clic **Personalizza**.
-1. Clic **Lead**.
-1. Clic **Layout di pagina**.
-1. Clic **Modifica** accanto a Layout lead a cui si desidera aggiungere i pulsanti.
-1. Clic **Pulsanti**.
+1. Fai clic su **Personalizza**.
+1. Fai clic su **Lead**.
+1. Fare clic su **Layout di pagina**.
+1. Fai clic su **Modifica** accanto al Layout lead a cui desideri aggiungere i pulsanti.
+1. Fai clic su **Pulsanti**.
 1. Trascinare i pulsanti Sales Connect nella sezione Lead Details (Dettagli lead).
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    >[!NOTE]
    >
-   >È possibile ripetere questi passaggi per installarli nel layout dei contatti. Assicurati di scegliere **Contatti** per il passaggio 3.
+   >È possibile ripetere questi passaggi per installarli nel layout dei contatti. Assicurarsi di scegliere **Contatti** per il passaggio 3.

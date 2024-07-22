@@ -33,6 +33,6 @@ Puoi creare facilmente nuove esecuzioni di una campagna avanzata esistente diret
 
    >[!TIP]
    >
-   >Puoi eseguire questa operazione anche dal [focus programma](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
+   >Puoi eseguire questa operazione anche dal [programma attivo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/understand-enable-program-focus.md).
 
 Boom! Proprio così, hai pianificato un’altra esecuzione per quella Smart Campaign. Se la Smart Campaign conteneva passaggi per l’invio di e-mail, li vedrai anche tu!

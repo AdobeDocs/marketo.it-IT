@@ -2,7 +2,8 @@
 description: Utilizzo delle opzioni SMS in una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
 title: Utilizzo delle opzioni SMS in una campagna avanzata
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -11,15 +12,15 @@ ht-degree: 0%
 
 # Utilizzo delle opzioni SMS in una campagna avanzata {#using-sms-options-in-a-smart-campaign}
 
-Dopo di te [creare un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, per ottenere i vantaggi desiderati, è necessario utilizzare i trigger e i filtri dell’elenco avanzato all’interno di una campagna avanzata.
+Dopo aver [creato un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, è necessario utilizzare i trigger e i filtri dell&#39;elenco smart all&#39;interno di una campagna avanzata per ottenere i vantaggi.
 
 >[!NOTE]
 >
->Se stai cercando di inviare un messaggio SMS, abbiamo un [articolo specifico](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} per quello.
+>Se stai cercando di inviare un messaggio SMS, abbiamo un [articolo specifico](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"} per questo.
 
 >[!PREREQUISITES]
 >
->I trigger/filtri SMS vengono visualizzati solo se [Il servizio Vibes è stato abilitato](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
+>I trigger/filtri SMS vengono visualizzati solo se il servizio [Vibes è stato abilitato](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}.
 
 ## Trigger SMS {#sms-triggers}
 
@@ -32,11 +33,11 @@ Dopo di te [creare un messaggio SMS](/help/marketo/product-docs/mobile-marketing
 
 Di seguito sono riportati alcuni esempi:
 
-Il **Mancato recapito messaggi SMS** trigger avvia un flusso, ad esempio l’invio di un’e-mail, quando un messaggio SMS viene recapitato.
+Il trigger **Messaggi SMS non recapitati** avvia un flusso, ad esempio l&#39;invio di un&#39;e-mail, quando un messaggio SMS non viene inviato.
 
-Il **Abbonati all’elenco delle vibrazioni** attiva avvia un flusso quando una persona si abbona.
+Il trigger **Subscribes to Vibes List** avvia un flusso quando una persona si abbona.
 
-Il **Clic sul collegamento nel messaggio SMS** attiva avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
+Il trigger **Click Link in SMS Message** avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
 
 ## Filtri SMS {#sms-filters}
 
@@ -47,13 +48,13 @@ Il **Clic sul collegamento nel messaggio SMS** attiva avvia un flusso quando una
   </tr>
 </table>
 
-Il **Abbonati all’elenco Vibes** il filtro trova chiunque abbia *sempre* Abbonati a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
+Il filtro **Abbonato all&#39;elenco Vibes** trova chiunque abbia *mai* abbonato a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
 
-Per contro, la **Membro dell’elenco Vibes** risultati del filtro _chiunque_ attualmente abbonato a Vibes ed è più adatto per l’utilizzo in Campagne avanzate o elenchi.
+Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova _chiunque_ è attualmente abbonato a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi Smart.
 
 >[!NOTE]
 >
->Tutti i filtri SMS includono **Data di attività** per impostazione predefinita.
+>Per impostazione predefinita, tutti i filtri SMS includono il vincolo **Data attività**.
 
 ## Passaggi del flusso SMS {#sms-flow-steps}
 
@@ -81,10 +82,10 @@ Per contro, la **Membro dell’elenco Vibes** risultati del filtro _chiunque_ at
 
 >[!NOTE]
 >
->Il **Iscriviti all’elenco delle vibrazioni** e **Annulla iscrizione all’elenco delle vibrazioni** i flussi hanno requisiti diversi. Per **Abbonati**, è necessario selezionare l’elenco Vibes e la campagna di acquisizione Vibes. Per **Annulla iscrizione**, è necessario solo l’elenco Vibes.
+>I flussi **Abbonati all&#39;elenco delle vibrazioni** e **Annulla abbonamento all&#39;elenco delle vibrazioni** hanno requisiti diversi. Per **Abbonati**, devi selezionare l&#39;elenco Vibes e la campagna di acquisizione Vibes. Per **Annulla sottoscrizione**, è necessario solo l&#39;elenco Vibes.
 
 >[!MORELIKETHIS]
 >
->* [Inviare un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
->* [Definire un elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
->* [Definire un elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+>* [Invia un messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/send-an-sms-message.md){target="_blank"}
+>* [Definisci elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+>* [Definisci elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}

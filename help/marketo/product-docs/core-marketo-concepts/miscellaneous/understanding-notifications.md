@@ -5,7 +5,7 @@ title: Notifiche
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -32,16 +32,16 @@ Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
    ![](assets/understanding-notifications-3.png)
 
-1. Seleziona il Tipo di notifica e immetti gli indirizzi e-mail a cui desideri inviare le notifiche (separati da una virgola). Clic **[!UICONTROL Abbonati]** al termine.
+1. Seleziona il Tipo di notifica e immetti gli indirizzi e-mail a cui desideri inviare le notifiche (separati da una virgola). Al termine, fai clic su **[!UICONTROL Sottoscrivi]**.
 
    ![](assets/understanding-notifications-4.png)
 
 >[!NOTE]
 >
->Il **[!UICONTROL invia a]** L’area può essere utilizzata solo per l’immissione dell’e-mail e non mostra un elenco degli abbonati esistenti.
+>L&#39;area **[!UICONTROL invia a]** è riservata all&#39;utente che deve immettere l&#39;indirizzo di posta elettronica e non mostrerà un elenco degli abbonati esistenti.
 
 In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, riceverai un errore 404.
 
 >[!TIP]
 >
->Desideri annullare l’abbonamento alle e-mail di notifica? Nessun problema. Fai clic sul pulsante **[!UICONTROL annulla abbonamento a notifiche]** nella parte inferiore dell’e-mail.
+>Desideri annullare l’abbonamento alle e-mail di notifica? Nessun problema. Fai clic sul collegamento **[!UICONTROL annulla iscrizione a notifiche]** nella parte inferiore dell&#39;e-mail.

@@ -15,18 +15,18 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Abilitare gli URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
->* [Abilitare URL personalizzati per una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
+>* [Abilita URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
+>* [Abilita URL personalizzati per una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Seleziona l’elenco o l’elenco avanzato, fai clic sul pulsante **Lead** per ottenere i risultati e fare clic sull&#39;icona di excel. INLINE Assicurarsi di avere **Codice univoco Marketo** e **Nome univoco Marketo** [colonne visibili](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Seleziona l&#39;elenco o l&#39;elenco avanzato, fai clic sulla scheda **Lead** per ottenere i risultati, quindi fai clic sull&#39;icona Excel. INLINE Assicurarsi di avere **Codice univoco Marketo** e **Nome univoco Marketo** [colonne visibili](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
-1. Verifica **Includi URL personalizzato**, individua e seleziona la pagina di destinazione per la quale desideri generare i PURL.
+1. Seleziona **Includi URL personalizzato**, individua e seleziona la pagina di destinazione per la quale desideri generare i PURL.
 
    ![](assets/image2014-9-18-13-3a36-3a42.png)
 
-1. Seleziona la **URL**.
+1. Seleziona l&#39;**URL**.
 
    ![](assets/image2014-9-18-13-3a36-3a53.png)
 
@@ -34,11 +34,11 @@ ht-degree: 0%
    >
    >Se trovi più URL per la stessa pagina di destinazione, è probabile che tu abbia modificato l’URL delle pagine in passato e creato un reindirizzamento.
 
-1. Scegli un **Stile** e fai clic su **Esporta**.
+1. Scegli uno **Stile** e fai clic su **Esporta**.
 
    ![](assets/image2014-9-18-13-3a37-3a6.png)
 
-1. Al termine dell’esportazione, fai clic su **Scarica ora** per salvare il file.
+1. Al termine dell&#39;esportazione, fare clic sul collegamento **Scarica ora** per salvare il file.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
 

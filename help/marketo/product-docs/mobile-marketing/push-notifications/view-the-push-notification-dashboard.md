@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È facile vedere come funzionano le notifiche push.
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Clic **Visualizza: Riepilogo** e seleziona **Dashboard**.
+1. Fai clic su **Visualizza: Riepilogo** e seleziona **Dashboard**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
@@ -33,9 +33,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il _Inviato_ La metrica può riflettere più invii rispetto al numero esatto di persone a cui è stata inviata la notifica push. Questo perché viene calcolato in base al *numero di dispositivi* che possono ricevere il messaggio push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
+   >La metrica _Inviato_ può riflettere più invii del numero esatto di persone a cui è stata inviata la notifica push. Questo perché viene calcolato in base al *numero di dispositivi* idonei a ricevere il messaggio push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
 
    >[!MORELIKETHIS]
    >
    >* [Informazioni sulle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md)
-   >* [Inviare una notifica push per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+   >* [Invia una notifica push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

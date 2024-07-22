@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creare, eliminare, modificare e modificare un ruolo utente {#create-delete-edit-and-change-a-user-role}
 
-**Ruoli** raggruppa un gruppo di autorizzazioni. **Autorizzazioni** consente di eseguire operazioni in Marketo. Assegna un **ruolo** a un utente. Facile come una torta.
+**I ruoli** raggruppano un gruppo di autorizzazioni. **Autorizzazioni** ti consentono di eseguire operazioni in Marketo. Assegna un **ruolo** a un utente. Facile come una torta.
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ ht-degree: 0%
 
 ## Crea un Ruolo {#create-a-role}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-1.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-2.png)
 
-1. Vai a **[!UICONTROL Ruoli]** e fai clic su **[!UICONTROL Crea Ruolo]**.
+1. Vai alla scheda **[!UICONTROL Ruoli]** e fai clic su **[!UICONTROL Nuovo ruolo]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-3.png)
 
@@ -49,19 +49,19 @@ ht-degree: 0%
 
 ## Eliminare un ruolo {#delete-a-role}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-5.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-6.png)
 
-1. Sotto **[!UICONTROL Ruoli]** , selezionare un ruolo e fare clic su **[!UICONTROL Elimina Ruolo]**.
+1. Nella scheda **[!UICONTROL Ruoli]**, seleziona un ruolo e fai clic su **[!UICONTROL Elimina ruolo]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-7.png)
 
-1. Conferma l’eliminazione facendo clic su **[!UICONTROL Elimina]**.
+1. Confermare l&#39;eliminazione facendo clic su **[!UICONTROL Elimina]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-8.png)
 
@@ -75,19 +75,19 @@ ht-degree: 0%
 >
 >Per modificare il tuo ruolo utente, dovrai accedere come altro utente con diritti di amministratore.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-9.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Fai clic su **[!UICONTROL Ruoli]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Ruoli]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 
-1. Seleziona il ruolo da modificare e fai clic su **[!UICONTROL Modifica Ruolo]**.
+1. Selezionare il ruolo da modificare e fare clic su **[!UICONTROL Modifica ruolo]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-12.png)
 
@@ -105,15 +105,15 @@ ht-degree: 0%
 
 ## Cambia il ruolo di un utente {#change-a-users-role}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-14.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-15.png)
 
-1. Seleziona l’utente a cui assegnare un ruolo diverso e fai clic su **[!UICONTROL Modifica utente]**.
+1. Selezionare l&#39;utente a cui si desidera assegnare un ruolo diverso e fare clic su **[!UICONTROL Modifica utente]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-16.png)
 

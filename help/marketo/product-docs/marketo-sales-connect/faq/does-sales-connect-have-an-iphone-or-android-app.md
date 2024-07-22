@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Sales Connect dispone di un&#39;app iPhone o Android? {#does-sales-connect-have-an-iphone-or-android-app}
 
-Al momento Sales Connect non dispone di un&#39;app iPhone o Android. È qualcosa che speriamo di aggiungere in futuro.
+Sales Connect non dispone al momento di un&#39;app iPhone o Android. È qualcosa che speriamo di aggiungere in futuro.

@@ -2,7 +2,8 @@
 description: Scopri come creare e implementare modelli nei webinar interattivi.
 title: Modelli per webinar interattivi
 feature: Interactive Webinars
-source-git-commit: af56f809a05ea6aa8dd52b60c5c540f373b40338
+exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -15,23 +16,23 @@ Crea modelli facili da usare nei webinar interattivi per produrre contenuti più
 
 ## Creare un modello {#create-a-template}
 
-1. In Marketo Engage, fai clic su **[!UICONTROL Design Studio]**.
+1. In Marketo Engage fare clic su **[!UICONTROL Design Studio]**.
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. Clic **[!UICONTROL Webinar interattivi]**.
+1. Fai clic su **[!UICONTROL Webinar interattivi]**.
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
-1. Clic **[!UICONTROL Gestisci modelli]**.
+1. Fare clic su **[!UICONTROL Gestisci modelli]**.
 
    ![](assets/templates-for-interactive-webinars-3.png)
 
-1. Viene visualizzata una nuova scheda. Clic **Crea nuovo**.
+1. Viene visualizzata una nuova scheda. Fare clic su **Crea nuovo**.
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. Nella scheda Modelli standard, seleziona il modello desiderato e fai clic su **Successivo**.
+1. Nella scheda Modelli standard, seleziona il modello desiderato e fai clic su **Avanti**.
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
@@ -39,11 +40,11 @@ Crea modelli facili da usare nei webinar interattivi per produrre contenuti più
    >
    >I modelli di organizzazione sono modelli già creati dall&#39;utente o dal team.
 
-1. Immettere un nome e una descrizione. Clic **Salva e apri**.
+1. Immettere un nome e una descrizione. Fai clic su **Salva e apri**.
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. Viene visualizzata una nuova scheda. Per modificare o salvare il modello, è necessario accedere a una room. Poiché non si tratta di una vera e propria sala webinar, non è necessario effettuare selezioni audio/video. Clic **Entrate nella stanza**.
+1. Viene visualizzata una nuova scheda. Per modificare o salvare il modello, è necessario accedere a una room. Poiché non si tratta di una vera e propria sala webinar, non è necessario effettuare selezioni audio/video. Fare clic su **Entra nella room**.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
@@ -51,11 +52,11 @@ Crea modelli facili da usare nei webinar interattivi per produrre contenuti più
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
-1. Nel menu Exit in alto a destra, seleziona **Termina sessione per tutti**.
+1. Nel menu Esci in alto a destra, seleziona **Termina sessione per tutti**.
 
    ![](assets/templates-for-interactive-webinars-9.png)
 
-1. Clic **Termina ora**.
+1. Fai clic su **Fine**.
 
    ![](assets/templates-for-interactive-webinars-10.png)
 
@@ -65,15 +66,15 @@ Il modello viene salvato automaticamente.
 
 Per modificare un modello esistente, effettua le seguenti operazioni.
 
-1. In Marketo Engage, fai clic su **[!UICONTROL Design Studio]**.
+1. In Marketo Engage fare clic su **[!UICONTROL Design Studio]**.
 
    ![](assets/templates-for-interactive-webinars-11.png)
 
-1. Clic **[!UICONTROL Webinar interattivi]**.
+1. Fai clic su **[!UICONTROL Webinar interattivi]**.
 
    ![](assets/templates-for-interactive-webinars-12.png)
 
-1. Clic **[!UICONTROL Gestisci modelli]**.
+1. Fare clic su **[!UICONTROL Gestisci modelli]**.
 
    ![](assets/templates-for-interactive-webinars-13.png)
 
@@ -81,7 +82,7 @@ Per modificare un modello esistente, effettua le seguenti operazioni.
 
    ![](assets/templates-for-interactive-webinars-14.png)
 
-1. Viene visualizzata una nuova scheda. Per modificare il modello, è necessario immettere una room. Poiché non si tratta di una vera e propria sala webinar, non è necessario effettuare selezioni audio/video. Clic **Entrate nella stanza**.
+1. Viene visualizzata una nuova scheda. Per modificare il modello, è necessario immettere una room. Poiché non si tratta di una vera e propria sala webinar, non è necessario effettuare selezioni audio/video. Fare clic su **Entra nella room**.
 
    ![](assets/templates-for-interactive-webinars-15.png)
 
@@ -89,11 +90,11 @@ Per modificare un modello esistente, effettua le seguenti operazioni.
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. Nel menu Exit in alto a destra, seleziona **Termina sessione per tutti**.
+1. Nel menu Esci in alto a destra, seleziona **Termina sessione per tutti**.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. Clic **Termina ora**.
+1. Fai clic su **Fine**.
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

@@ -6,7 +6,7 @@ exl-id: f27b481a-6fae-4908-9488-b7fe456af071
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,6 @@ Questo modello include i seguenti contenuti:
 * Quattro sezioni del corpo (facoltativo)
 * Un piè di pagina (facoltativo)
 
-**Fai clic con il pulsante destro del mouse qui sotto per scaricare questo modello:**
+**Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
 [Modello 7A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7a.html)

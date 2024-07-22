@@ -15,7 +15,7 @@ ht-degree: 3%
 
 Hai mai ricevuto la stessa e-mail due volte? Fastidioso, vero?
 
-Di seguito sono riportati sette possibili scenari e risultati di cui tenere conto per evitare che venga inviato a un altro utente lo stesso messaggio due volte con i programmi di coinvolgimento.
+Di seguito sono riportati sette possibili scenari e risultati di cui tenere conto per evitare che venga inviato a qualcuno lo stesso messaggio due volte con i programmi di coinvolgimento.
 
 ## Scenari {#scenarios}
 
@@ -23,8 +23,8 @@ Di seguito sono riportati sette possibili scenari e risultati di cui tenere cont
 |---|---|---|
 | Una campagna in un programma predefinito separato e autonomo | Non è membro del programma predefinito | Sì |
 | Una campagna in un programma predefinito separato e autonomo | Membro del programma predefinito | No |
-| Una campagna all’interno di un programma predefinito che viene attivata da un cast all’interno del **uguale** Programma CEE | Membro del programma predefinito | No |
-| Una campagna all’interno di un programma predefinito che viene attivata da un cast all’interno del **uguale** Programma CEE | Non è membro del programma predefinito | Sì |
-| Una campagna all’interno di un programma predefinito che viene attivata da un cast all’interno di un **diverso** Programma CEE | Membro del programma predefinito | No |
-| Una campagna all’interno di un programma predefinito che viene attivata da un cast all’interno di un **diverso** Programma CEE | Non è membro del programma predefinito | Sì |
-| A **diverso** Programma CEE con flusso avanzato | Membro di entrambi i programmi CEE | No |
+| Campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno del programma CEE **same** | Membro del programma predefinito | No |
+| Campagna all&#39;interno di un programma predefinito attivata da un cast all&#39;interno del programma CEE **same** | Non è membro del programma predefinito | Sì |
+| Campagna all&#39;interno di un programma predefinito attivata da un cast in un programma CEE **diverso** | Membro del programma predefinito | No |
+| Campagna all&#39;interno di un programma predefinito attivata da un cast in un programma CEE **diverso** | Non è membro del programma predefinito | Sì |
+| Un programma CEE **diverso** che utilizza un flusso avanzato | Membro di entrambi i programmi CEE | No |

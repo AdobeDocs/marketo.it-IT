@@ -6,7 +6,7 @@ exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Crea e utilizza un modulo in una pagina di destinazione per generare nuovi nomi.
 
 >[!NOTE]
 >
->Scopri le attività di Marketo [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
+>Scopri cosa sta facendo Marketo per [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
 1. Vai a **Attività di marketing**.
 
@@ -27,7 +27,7 @@ Crea e utilizza un modulo in una pagina di destinazione per generare nuovi nomi.
 
    ![](assets/programseelct.png)
 
-1. Sotto **Nuovo**, fai clic su **Nuovo** **Locale** **Risorsa**.
+1. In **Nuovo**, fai clic su **Nuovo** **Locale** **Risorsa**.
 
    ![](assets/newlocalasset.png)
 
@@ -35,7 +35,7 @@ Crea e utilizza un modulo in una pagina di destinazione per generare nuovi nomi.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Immetti un modulo **Nome** e fai clic su **Crea**.
+1. Immetti un modulo **Name** e fai clic su **Create**.
 
    ![](assets/newformwithhands.png)
 

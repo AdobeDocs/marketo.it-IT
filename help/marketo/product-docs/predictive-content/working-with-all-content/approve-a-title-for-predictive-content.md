@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Fai clic su **Azioni contenuto** a discesa e selezionare **Approva per contenuti predittivi**.
+1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Approva per contenuto predittivo**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
@@ -33,7 +33,7 @@ Puoi anche approvare i titoli per i contenuti predittivi direttamente nella fine
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Controlla la **Approva per contenuti predittivi** nella finestra a comparsa Modifica contenuto e fare clic su **Salva**.
+1. Selezionare la casella **Approva per contenuto predittivo** nel popup Modifica contenuto e fare clic su **Salva**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 

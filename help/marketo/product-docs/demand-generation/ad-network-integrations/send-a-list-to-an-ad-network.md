@@ -16,15 +16,15 @@ Scopri come inviare un elenco statico a LinkedIn, Facebook o Google.
 
 ## Come inviare un elenco {#how-to-send-a-list}
 
-1. In Marketo Engage, seleziona l’elenco, fai clic su **[!UICONTROL Azioni elenco]** e selezionare **[!UICONTROL Invia ad Ad Network]**.
+1. In Marketo Engage, seleziona l&#39;elenco, fai clic sull&#39;elenco a discesa **[!UICONTROL Azioni elenco]** e seleziona **[!UICONTROL Invia ad Ad Network]**.
 
    ![](assets/send-a-list-to-an-ad-network-1.png)
 
-1. Scegli tra LinkedIn, Facebook o Google (le altre opzioni non sono al momento disponibili). In questo esempio, stiamo scegliendo **[!UICONTROL LinkedIn]**. Clic **[!UICONTROL Successivo]**.
+1. Scegli tra LinkedIn, Facebook o Google (le altre opzioni non sono al momento disponibili). In questo esempio, stiamo scegliendo **[!UICONTROL LinkedIn]**. Fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/send-a-list-to-an-ad-network-2.png)
 
-1. Fai clic su **[!UICONTROL Pubblico]** e selezionare il pubblico desiderato.
+1. Fai clic sul menu a discesa **[!UICONTROL Pubblico]** e seleziona il pubblico desiderato.
 
    ![](assets/send-a-list-to-an-ad-network-3.png)
 
@@ -38,9 +38,9 @@ Scopri come inviare un elenco statico a LinkedIn, Facebook o Google.
 
    >[!NOTE]
    >
-   >Se selezioni &quot;Abilita sincronizzazione continua del pubblico&quot;, Marketo mantiene l’elenco aggiornato nella rete di annunci selezionata quando l’elenco cambia nell’istanza di Marketo. Aggiungiamo entrambi _e_ rimuovi le persone dal pubblico se vengono aggiunte o rimosse dall’elenco statico.
+   >Se selezioni &quot;Abilita sincronizzazione continua del pubblico&quot;, Marketo mantiene l’elenco aggiornato nella rete di annunci selezionata quando l’elenco cambia nell’istanza di Marketo. Aggiungiamo entrambi _e_ persone rimosse dal pubblico se vengono aggiunte o rimosse dall&#39;elenco statico.
 
-1. Ed è tutto! Clic **[!UICONTROL OK]** per uscire.
+1. Ed è tutto! Fare clic su **[!UICONTROL OK]** per uscire.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 
@@ -50,6 +50,6 @@ Scopri come inviare un elenco statico a LinkedIn, Facebook o Google.
 
 No, un elenco può essere sincronizzato solo con un singolo pubblico di destinazione.
 
-**Se si abilita la sincronizzazione continua con un pubblico di annunci esistente, questo verrà sostituito?**
+**Se si abilita la sincronizzazione continua con un pubblico di annunci esistente, verrà sostituito il pubblico esistente?**
 
 No, il pubblico esistente verrà aggiunto a, non sostituito.

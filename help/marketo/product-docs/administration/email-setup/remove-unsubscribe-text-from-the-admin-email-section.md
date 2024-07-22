@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Rimuovi il testo per annullare l’iscrizione dalla sezione Amministratore > E-mail {#remove-unsubscribe-text-from-the-admin-email-section}
 
-L’unico motivo per cui dovresti mai rimuovere completamente il contenuto per cui hai annullato l’abbonamento dal **[!UICONTROL Amministratore]** > **[!UICONTROL E-mail]** L’area è utile per creare il collegamento di annullamento all’abbonamento nei modelli e-mail stessi. La convalida della casella di testo non consente il salvataggio senza contenuto. Per ovviare a questo problema, aggiungi un piccolo commento HTML. Il commento di HTML non verrà visualizzato nel client e-mail, perché esegue il rendering dell’e-mail in HTML e i commenti vengono omessi. Ecco come farlo.
+L&#39;unico motivo per cui dovresti rimuovere completamente il contenuto per l&#39;annullamento dell&#39;iscrizione dall&#39;area **[!UICONTROL Amministratore]** > **[!UICONTROL E-mail]** è che stai scegliendo di creare il collegamento per l&#39;annullamento dell&#39;iscrizione nei modelli e-mail stessi. La convalida della casella di testo non consente il salvataggio senza contenuto. Per ovviare a questo problema, aggiungi un piccolo commento HTML. Il commento di HTML non verrà visualizzato nel client e-mail, perché esegue il rendering dell’e-mail in HTML e i commenti vengono omessi. Ecco come farlo.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-2.png)
 
-1. Selezionare tutto il testo e premere il tasto **[!UICONTROL Elimina]** chiave.
+1. Selezionare tutto il testo e premere il tasto **[!UICONTROL Elimina]**.
 
    >[!CAUTION]
    >
@@ -33,10 +33,10 @@ L’unico motivo per cui dovresti mai rimuovere completamente il contenuto per c
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-3.png)
 
-1. Clic **[!UICONTROL Salva modifiche]**.
+1. Fai clic su **[!UICONTROL Salva modifiche]**.
 
    ![](assets/remove-unsubscribe-text-from-the-admin-email-section-4.png)
 
 >[!NOTE]
 >
->Per **Testo per annullamento iscrizione** devi aggiungere un singolo carattere. Utilizza un trattino o un punto.
+>Per il **Testo per annullamento sottoscrizione** è necessario aggiungere un singolo carattere. Utilizza un trattino o un punto.

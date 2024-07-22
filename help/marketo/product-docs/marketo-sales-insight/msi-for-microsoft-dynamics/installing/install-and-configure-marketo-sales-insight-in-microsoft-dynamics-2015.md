@@ -6,7 +6,7 @@ exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '442'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
 >
 >Completa l&#39;integrazione Marketo-Microsoft.
 >
->[Scaricare la soluzione corretta](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) per la versione di Microsoft Dynamics CRM in uso.
+>[Scarica la soluzione corretta](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) per la versione di Microsoft Dynamics CRM in uso.
 
 ## Importa soluzione {#import-solution}
 
 Ora è il momento di importare la soluzione Marketo Sales Insight in Microsoft Dynamics. Ecco come:
 
-1. In Microsoft Dynamics CRM, fai clic su **Impostazioni**.
+1. In Microsoft Dynamics CRM fare clic su **Impostazioni**.
 
    ![](assets/image2014-12-12-9-3a4-3a56.png)
 
-1. In SETTINGS, fai clic su **Personalizzazioni**.
+1. In IMPOSTAZIONI fare clic su **Personalizzazioni**.
 
    ![](assets/image2015-4-29-14-3a22-3a1.png)
 
-1. Clic **Soluzioni**.
+1. Fai clic su **Soluzioni**.
 
    ![](assets/image2014-12-12-9-3a5-3a17.png)
 
@@ -41,7 +41,7 @@ Ora è il momento di importare la soluzione Marketo Sales Insight in Microsoft D
    >
    >Prima di procedere, dovreste aver già installato e configurato la soluzione Marketo.
 
-1. Clic **Importa**.
+1. Fai clic su **Importa**.
 
    ![](assets/image2014-12-12-9-3a5-3a27.png)
 
@@ -53,11 +53,11 @@ Ora è il momento di importare la soluzione Marketo Sales Insight in Microsoft D
 
    ![](assets/image2014-12-12-9-3a5-3a45.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-12-12-9-3a5-3a55.png)
 
-1. La soluzione verrà caricata. Puoi visualizzare il contenuto del pacchetto, se lo desideri. Clic **Successivo**.
+1. La soluzione verrà caricata. Puoi visualizzare il contenuto del pacchetto, se lo desideri. Fai clic su **Avanti**.
 
    ![](assets/image2014-12-12-9-3a6-3a10.png)
 
@@ -65,7 +65,7 @@ Ora è il momento di importare la soluzione Marketo Sales Insight in Microsoft D
 
    ![](assets/image2014-12-12-9-3a6-3a19.png)
 
-1. Puoi scaricare il file di registro, quindi fai clic su **Chiudi**.
+1. Scarica il file di registro e fai clic su **Chiudi**.
 
    ![](assets/image2014-12-12-9-3a6-3a29.png)
 
@@ -81,15 +81,15 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Ecco come:
 >
 >Diritti di amministrazione richiesti.
 
-1. Accedi a Marketo e vai a **Amministratore** sezione.
+1. Accedi a Marketo e passa alla sezione **Admin**.
 
    ![](assets/image2014-12-12-9-3a6-3a50.png)
 
-1. Nella sezione Sales Insight (Approfondimenti sulla vendita), fai clic su **Modifica configurazione API**.
+1. Nella sezione Sales Insight fare clic su **Modifica configurazione API**.
 
    ![](assets/image2014-12-12-9-3a7-3a0.png)
 
-1. Copia il **Host Marketo**, **URL API**, e **ID utente API** da utilizzare in un passaggio successivo. Immetti una chiave segreta API a tua scelta e fai clic su **Salva**.
+1. Copiare l&#39;**host Marketo**, l&#39;**URL API** e l&#39;**ID utente API** da utilizzare in un passaggio successivo. Immetti una chiave segreta API a tua scelta e fai clic su **Salva**.
 
    >[!CAUTION]
    >
@@ -99,23 +99,23 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Ecco come:
 
    >[!NOTE]
    >
-   >I seguenti campi devono essere sincronizzati con Marketo per *lead e contatto* per il corretto funzionamento di Sales Insight:
+   >I campi seguenti devono essere sincronizzati con Marketo affinché *lead e contatto* possano funzionare:
    >
    >* Priorità
    >* Urgenza
    >* Punteggio relativo
    >
-   >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere questo problema, esegui [questa procedura](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
+   >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, eseguire [questa procedura](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Torna a Microsoft Dynamics, vai a **Impostazioni**.
+1. Tornando a Microsoft Dynamics, vai a **Impostazioni**.
 
    ![](assets/image2014-12-12-9-3a7-3a25.png)
 
-1. Sotto **Impostazioni**, fai clic su **Configurazione API Marketo**.
+1. In **Impostazioni**, fare clic su **Configurazione API Marketo**.
 
    ![](assets/image2014-12-12-9-3a7-3a34.png)
 
-1. Clic **Nuovo**.
+1. Fare clic su **Nuovo**.
 
    ![](assets/image2014-12-12-9-3a8-3a8.png)
 
@@ -135,15 +135,15 @@ Infine, devi fornire a utenti specifici l’accesso per utilizzare Marketo Sales
 
    ![](assets/image2015-4-29-14-3a56-3a33.png)
 
-1. Clic **Utenti**.
+1. Fare clic su **Utenti**.
 
    ![](assets/image2015-4-29-14-3a57-3a46.png)
 
-1. Seleziona gli utenti a cui vuoi dare accesso a Sales Insight e fai clic su **Gestisci ruoli**.
+1. Selezionare gli utenti a cui si desidera concedere l&#39;accesso a Sales Insight e fare clic su **Gestisci ruoli**.
 
    ![](assets/image2015-4-29-14-3a59-3a31.png)
 
-1. Seleziona il ruolo Marketo Sales Insight e fai clic su **OK**.
+1. Selezionare il ruolo Marketo Sales Insight e fare clic su **OK**.
 
    ![](assets/image2014-12-12-9-3a9-3a22.png)
 

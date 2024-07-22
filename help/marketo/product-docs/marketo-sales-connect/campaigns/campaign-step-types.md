@@ -31,7 +31,7 @@ Componi una nuova e-mail o utilizza un modello preesistente.
 
 >[!TIP]
 >
->Scopri i dettagli del tuo [opzioni di invio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
+>Scopri i dettagli sulle [opzioni di invio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
 ## Chiamata {#call}
 

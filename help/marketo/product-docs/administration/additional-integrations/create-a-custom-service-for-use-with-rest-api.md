@@ -17,8 +17,8 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 >[!PREREQUISITES]
 >
->* [Creare un ruolo utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Creare un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Crea un ruolo utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+>* [Crea un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
 >
 
 >[!NOTE]
@@ -27,23 +27,23 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 >[!TIP]
 >
->Consulta la documentazione per gli sviluppatori per informazioni dettagliate su [API REST](https://developer.adobe.com/marketo-apis/). Inoltre, è possibile [API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) se è quello che ti serve.
+>Consulta la documentazione per gli sviluppatori per informazioni dettagliate sull&#39;[API REST](https://developer.adobe.com/marketo-apis/). Abbiamo anche l&#39;[API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api), se questo è ciò che ti serve.
 
 ## Crea servizio personalizzato {#create-custom-service}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
-1. Clic **LaunchPoint**.
+1. Fare clic su **LaunchPoint**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-2.png)
 
-1. Seleziona **[!UICONTROL Nuovo]** e poi **[!UICONTROL Nuovo servizio]**.
+1. Selezionare **[!UICONTROL Nuovo]** e quindi **[!UICONTROL Nuovo servizio]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]** per il servizio. Seleziona la **[!UICONTROL Utente solo API]** [creato in precedenza](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Immetti un **[!UICONTROL Nome visualizzato]** per il servizio. Seleziona l&#39;**[!UICONTROL utente solo API]** [creato in precedenza](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
@@ -51,7 +51,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
    >
    >Tieni presente che disponiamo già dell’integrazione nativa per i servizi dei webinar più diffusi.
 
-1. Clic **[!UICONTROL Crea]**.
+1. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-5.png)
 
@@ -59,23 +59,23 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 ## Credenziali per l’accesso API {#credentials-for-api-access}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 
-1. Clic **[!UICONTROL LaunchPoint]**.
+1. Fare clic su **[!UICONTROL LaunchPoint]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-7.png)
 
-1. Clic **[!UICONTROL Visualizza dettagli]** per il personalizzato [!UICONTROL LaunchPoint] servizio creato in precedenza.
+1. Fai clic su **[!UICONTROL Visualizza dettagli]** per il servizio [!UICONTROL LaunchPoint] personalizzato creato in precedenza.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-8.png)
 
-1. Clic **[!UICONTROL Ottieni token]**.
+1. Fai clic su **[!UICONTROL Ottieni token]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-9.png)
 
-1. Fornisci **[!UICONTROL ID client]**, **[!UICONTROL Segreto client]**, **[!UICONTROL Utente autorizzato]**, e **[!UICONTROL Token]** alla persona incaricata di stabilire il collegamento.
+1. Fornisci **[!UICONTROL ID client]**, **[!UICONTROL Segreto client]**, **[!UICONTROL Utente autorizzato]** e **[!UICONTROL Token]** alla persona responsabile di stabilire la connessione.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-10.png)
 

@@ -23,19 +23,19 @@ Creare una nuova partizione persona seguendo la procedura riportata di seguito.
 >
 >Comprendere prima con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-a-person-partition-1.png)
 
-1. Clic **[!UICONTROL Aree di lavoro e partizioni]**.
+1. Fare clic su **[!UICONTROL Aree di lavoro e partizioni]**.
 
    ![](assets/create-a-person-partition-2.png)
 
-1. Vai a **[!UICONTROL Partizioni della persona]** e fai clic su **[!UICONTROL Nuova partizione persona]**.
+1. Vai alla scheda **[!UICONTROL Partizioni persona]** e fai clic su **[!UICONTROL Nuova partizione persona]**.
 
    ![](assets/create-a-person-partition-3.png)
 
-1. Assegnare un nome alla partizione, scegliere **[!UICONTROL Aree di lavoro]** nel punto in cui verrà visualizzato e fare clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla partizione, scegli le **[!UICONTROL aree di lavoro]** in cui verrà visualizzata e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/create-a-person-partition-4.png)
 

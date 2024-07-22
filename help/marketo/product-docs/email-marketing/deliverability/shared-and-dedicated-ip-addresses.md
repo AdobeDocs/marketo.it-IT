@@ -6,7 +6,7 @@ exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -33,29 +33,29 @@ Come al solito, ci sono pro e contro per entrambe le opzioni.
 
 _Pro_
 
-**Reputazione** - La reputazione e la consegna dei messaggi sono completamente di tua proprietà.\
-**Monitorare** - Il monitoraggio dei rapporti sul recapito messaggi consente di rispondere rapidamente alle modifiche apportate alle metriche di consegna.\
+**Reputazione** - Sei completamente proprietario della tua reputazione e del tuo recapito messaggi.\
+**Monitoraggio** - Il monitoraggio del reporting sul recapito messaggi consente di rispondere rapidamente alle modifiche nelle metriche di consegna.\
 **Risoluzione dei problemi** - È più facile ricercare, comprendere e risolvere i problemi di consegna.
 
 _Contro_
 
-**Modifiche del volume** - Picchi di volume possono influenzare negativamente la tua reputazione e devono essere gestiti.\
-**Processo di riscaldamento IP** - La reputazione si costruisce nel tempo. Alcuni provider di servizi Internet (ISP) limitano gli indirizzi IP senza cronologia dei volumi, pertanto dovrai creare una reputazione nelle prime settimane (Marketo può aiutarti).\
-**Costo** - Di solito esiste un costo aggiuntivo da inviare da un IP dedicato con qualsiasi provider.
+**Modifiche al volume** - I picchi nel volume possono influire negativamente sulla reputazione e devono essere gestiti.\
+**Processo di riscaldamento IP** - La reputazione è stata creata nel tempo. Alcuni provider di servizi Internet (ISP) limitano gli indirizzi IP senza cronologia dei volumi, pertanto dovrai creare una reputazione nelle prime settimane (Marketo può aiutarti).\
+**Costo** - In genere è previsto un costo aggiuntivo per l&#39;invio da un IP dedicato con qualsiasi provider.
 
 **Pro e contro di un IP condiviso**
 
 _Pro_
 
-**Buoni coinquilini** - Se la gente che stai condividendo il tuo IP con seguire le migliori pratiche di invio, ne trarrai vantaggio.\
-**Frequenza di invio** - Non è necessaria alcuna frequenza di mailing minima per qualificarsi per un IP condiviso, a differenza degli IP dedicati.\
+**Buoni coinquilini** - Se gli utenti che stai condividendo il tuo IP seguono le best practice di invio, ne trarrai vantaggio.\
+**Frequenza di invio** - Non è necessaria alcuna frequenza di invio minima per qualificarsi per un IP condiviso, a differenza di quanto avviene con gli IP dedicati.\
 **Costo** - Non esiste mai un costo aggiuntivo da inviare da un IP condiviso.
 
 _Contro_
 
-**Compagni di stanza non validi** - Se le persone che stai condividendo il tuo IP utilizzano pratiche di invio scadenti, le tue campagne e-mail potrebbero essere influenzate negativamente.\
-**Controllo** - Il controllo sulla reputazione del mittente è molto minore.\
-**Risoluzione problema** - Spesso può essere più difficile risolvere un problema durante l’invio da IP condivisi.
+**Compagni di stanza non validi** - Se gli utenti che condividi il tuo IP sono coinvolti in pratiche di invio scadenti, le tue campagne e-mail potrebbero essere influenzate negativamente.\
+**Controllo** - Hai un controllo molto minore sulla reputazione del mittente.\
+**Risoluzione del problema** - Spesso può essere più difficile risolvere un problema durante l&#39;invio da IP condivisi.
 
 >[!NOTE]
 >

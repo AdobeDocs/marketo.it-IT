@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite [Pacchetto Sales Insight di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
+>Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite il [pacchetto Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
 >[!PREREQUISITES]
 >
@@ -23,11 +23,11 @@ ht-degree: 0%
 
 I nuovi utenti dovranno seguire i passaggi indicati di seguito.
 
-1. Nell’e-mail di benvenuto, fai clic su **Introduzione**.
+1. Nel messaggio di benvenuto, fai clic su **Inizia**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-1.png)
 
-1. Clic **Attiva account con Salesforce**.
+1. Fai clic su **Attiva account con Salesforce**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-2.png)
 
@@ -39,31 +39,31 @@ I nuovi utenti dovranno seguire i passaggi indicati di seguito.
 >
 >L’ID e-mail dell’e-mail dell’account di vendita deve essere lo stesso.
 
-1. Clic **Consenti**.
+1. Fare clic su **Consenti**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-4.png)
 
-1. Clic **Inizio**.
+1. Fare clic su **Inizio**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-5.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-6.png)
 
-1. Scegliere il client di posta elettronica utilizzato (Gmail o Outlook) e fare clic su **Successivo**.
+1. Scegliere il client di posta elettronica utilizzato (Gmail o Outlook) e fare clic su **Avanti**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-7.png)
 
-1. Inserisci il tuo indirizzo e-mail e fai clic su **Successivo**.
+1. Immetti il tuo indirizzo e-mail e fai clic su **Avanti**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-8.png)
 
-1. Immetti la password e fai clic su **Successivo**.
+1. Immetti la password e fai clic su **Avanti**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-9.png)
 
-1. Clic **Continua**.
+1. Fai clic su **Continua**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-10.png)
 
@@ -75,19 +75,19 @@ I nuovi utenti dovranno seguire i passaggi indicati di seguito.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-11.png)
 
-1. Immetti la firma personalizzata e fai clic su **Salva** (se desideri eseguire questa operazione in un secondo momento tramite la pagina del profilo, fai clic su **Ignora**).
+1. Immetti la firma personalizzata e fai clic su **Salva** (se desideri farlo in un secondo momento tramite la pagina del profilo, fai clic su **Ignora**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-12.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-13.png)
 
-1. È disponibile l&#39;opzione per visualizzare un&#39;introduzione rapida alle azioni di vendita Marketo. Clic **Successivo** per visualizzare, oppure **Non adesso** per salvare per dopo.
+1. È disponibile l&#39;opzione per visualizzare un&#39;introduzione rapida alle azioni di vendita Marketo. Fai clic su **Avanti** per visualizzarlo oppure su **Non adesso** per salvarlo in un secondo momento.
 
    ![](assets/sales-insight-actions-user-onboarding-guide-14.png)
 
-1. Al termine della presentazione, o se l’hai saltata, scegli se accedere direttamente all’applicazione web o all’account Salesforce per accedere a tutte le funzioni dal pannello MSI (in questo esempio stiamo scegliendo **Avvia Salesforce**).
+1. Al termine della presentazione o se l&#39;hai saltata, scegli se accedere direttamente all&#39;applicazione Web o all&#39;account Salesforce per accedere a tutte le funzionalità dal pannello MSI (in questo esempio scegliamo **Avvia Salesforce**).
 
    ![](assets/sales-insight-actions-user-onboarding-guide-15.png)
 

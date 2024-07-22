@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Presenza locale telefono vendita {#sales-phone-local-presence}
 
-Se desideri effettuare una chiamata dallo stesso indicativo di località, controlla semplicemente **Presenza locale** prima di effettuare la chiamata.
+Se desideri chiamare dallo stesso indicativo località, seleziona la casella **Presenza locale** prima di effettuare la chiamata.
 
 ## Domande frequenti sulla presenza locale {#local-presence-faq}
 
-**Il mio contatto può richiamarmi a questo nuovo numero?**
+**Il mio contatto può richiamarmi con questo nuovo numero?**
 
 No, la presenza locale funziona solo per le chiamate in uscita. Il chiamante non può richiamarti a questo numero &quot;nuovo&quot;.
 
-**Posso chiamare da qualche parte con Presenza locale?**
+**Posso chiamare ovunque con Presenza locale?**
 
 Offriamo tutte le funzionalità di telefono di vendita per le chiamate solo negli Stati Uniti.
 
-**Il numero di presenza locale è sempre lo stesso quando richiamo un prefisso?**
+**Il numero di presenza locale è sempre lo stesso quando richiamo un indicativo di località?**
 
 È probabile che il numero sia sempre lo stesso quando si chiama in un indicativo di località.
 
-**Quando si utilizza la presenza locale, il numero intero o solo l&#39;indicativo di località cambia?**
+**L&#39;intero numero o solo l&#39;indicativo di località viene modificato quando si utilizza la presenza locale?**
 
 Il numero intero cambierà.

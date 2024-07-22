@@ -21,13 +21,13 @@ Il rapporto Gestione ricavi consente di tenere traccia del ROI delle iniziative 
 
 >[!IMPORTANT]
 >
->La cartella Cestino in Esplora cicli di ricavi è stata temporaneamente nascosta a causa di un problema tecnico. Stiamo lavorando a una correzione e i tuoi file sono sicuri. Contatta [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se sono presenti file da ripristinare.
+>La cartella Cestino in Esplora cicli di ricavi è stata temporaneamente nascosta a causa di un problema tecnico. Stiamo lavorando a una correzione e i tuoi file sono sicuri. Contatta il [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se sono presenti file da ripristinare.
 
-1. Vai a **Gestione ricavi** area.
+1. Vai all&#39;area **Gestione entrate**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 
-1. Fai clic su **Crea nuovo** e quindi seleziona **Report**.
+1. Fai clic su **Crea nuovo**, quindi seleziona **Rapporto**.
 
    ![](assets/image2015-3-24-13-3a20-3a40.png)
 
@@ -41,5 +41,5 @@ Il rapporto Gestione ricavi consente di tenere traccia del ROI delle iniziative 
 
 >[!MORELIKETHIS]
 >
->[Aggiunta di campi a un rapporto di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>[Aggiunta di campi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
 >[Aggiunta di misure personalizzate a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-custom-measures-to-a-revenue-explorer-report.md)

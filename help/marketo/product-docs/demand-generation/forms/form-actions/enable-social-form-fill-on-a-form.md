@@ -27,7 +27,7 @@ Consenti ai visitatori di compilare il modulo utilizzando il proprio social netw
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. Sotto **Modulo** **Impostazioni** fai clic su **Impostazioni**.
+1. In **Modulo** **Impostazioni** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -37,13 +37,13 @@ Consenti ai visitatori di compilare il modulo utilizzando il proprio social netw
 
    >[!TIP]
    >
-   >Dai un&#39;occhiata [dati che Marketo acquisirà](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se gli utenti utilizzano i pulsanti social.
+   >Dai un&#39;occhiata ai dati che [Marketo acquisirà](/help/marketo/product-docs/demand-generation/social/social-functions/manage-social-profile-data.md) se gli utenti utilizzano i pulsanti social.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

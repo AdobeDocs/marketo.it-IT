@@ -23,11 +23,11 @@ Scopri come modificare la lingua del modulo.
 
    ![](assets/change-the-language-of-a-form-2.png)
 
-1. Clic **Impostazioni modulo** e seleziona **Impostazioni**.
+1. Fai clic su **Impostazioni modulo** e seleziona **Impostazioni**.
 
    ![](assets/change-the-language-of-a-form-3.png)
 
-1. Seleziona il **Lingua modulo**.
+1. Seleziona la **Lingua modulo** desiderata.
 
    ![](assets/change-the-language-of-a-form-4.png)
 
@@ -35,11 +35,11 @@ Scopri come modificare la lingua del modulo.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
-1. Clic **Approva e chiudi** per applicare e salvare le modifiche.
+1. Fai clic su **Approva e chiudi** per applicare e salvare le modifiche.
 
    ![](assets/change-the-language-of-a-form-7.png)
 
@@ -49,7 +49,7 @@ Scopri come modificare la lingua del modulo.
 
    >[!TIP]
    >
-   >Ricorda a [approvare la pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) la bozza creata dal modulo cambia.
+   >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
 Il modulo ora rifletterà la lingua selezionata.
 

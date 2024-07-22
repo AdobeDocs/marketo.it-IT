@@ -7,7 +7,7 @@ feature: Tokens
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, puoi utilizzare i token. Ecco come.
 
-1. Seleziona l’e-mail e fai clic su **Modifica bozza** scheda.
+1. Seleziona l&#39;e-mail e fai clic sulla scheda **Modifica bozza**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, pu
 
    ![](assets/two.png)
 
-1. Individua o scrive il testo del collegamento. Evidenziarlo e fare clic su **Inserisci/Modifica collegamento** icona.
+1. Individua o scrive il testo del collegamento. Evidenziarlo e fare clic sull&#39;icona **Inserisci/Modifica collegamento**.
 
    ![](assets/three.png)
 
-1. Digita i token desiderati in **URL** e fai clic su **Inserisci**.
+1. Digitare i token desiderati in **URL** e fare clic su **Inserisci**.
 
    ![](assets/four.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/five.png)
 
@@ -39,4 +39,4 @@ Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, pu
 
 >[!MORELIKETHIS]
 >
->[Utilizzo degli URL nei miei token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
+>[Utilizzo di URL nei miei token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)

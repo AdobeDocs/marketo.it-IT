@@ -19,11 +19,11 @@ Segui questi semplici passaggi per pianificare un’e-mail.
 >
 >Per aggiornare il fuso orario predefinito, vai alla pagina Impostazioni.
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/one-1.png)
 
-1. Al termine della composizione dell’e-mail, fai clic su **Pianificazione** in basso a destra
+1. Al termine, fai clic su **Pianifica** in basso a destra
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Segui questi semplici passaggi per pianificare un’e-mail.
 
    ![](assets/four-1.png)
 
-1. Dopo aver selezionato la data/ora pianificata, fai clic su **Invia** per pianificare l’e-mail.
+1. Dopo aver selezionato la data/ora pianificata, fai clic su **Invia** per pianificare l&#39;e-mail.
 
    ![](assets/five-1.png)
 

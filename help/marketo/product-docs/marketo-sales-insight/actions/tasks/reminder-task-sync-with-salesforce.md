@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Per informazioni su come attivare l&#39;estrazione di Sincronizzazione attività [Sincronizza attività/promemoria di Sales Insight con le attività Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Per informazioni su come abilitare l&#39;opzione Sincronizzazione attività, estrarre [Sincronizza attività/promemoria delle informazioni sulle vendite per le attività Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
 Una volta abilitate le impostazioni di sincronizzazione delle attività, gli utenti vedranno le loro attività promemoria sincronizzate bidirezionalmente con Salesforce. Ciò significa che gli utenti possono gestire le attività dalle azioni Salesforce o Sales Insight e avere la certezza che i sistemi rimarranno allineati.
 
@@ -63,7 +63,7 @@ Di seguito è riportato un elenco dei campi delle attività promemoria nelle azi
 
 ## Sincronizzazione delle attività di Sales Insight con Salesforce per la prima volta {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-Quando attivi per la prima volta la sincronizzazione tra le azioni di approfondimento sulle vendite e le attività di Salesforce, importiamo le attività di Salesforce. Lo faremo **non** trasferisci a Salesforce tutte le attività correnti presenti in Azioni approfondimenti vendite. Per ridurre l’ingombro e i duplicati, le uniche attività sincronizzate dalle azioni di approfondimento sulle vendite in Salesforce sono le attività create *dopo* sincronizzi le azioni di Sales Insight con SFDC.
+Quando attivi per la prima volta la sincronizzazione tra le azioni di approfondimento sulle vendite e le attività di Salesforce, importiamo le attività di Salesforce. **non** invieremo a Salesforce le attività in corso nelle azioni Sales Insight. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate dalle azioni di Sales Insight in Salesforce sono le attività create *dopo* la sincronizzazione delle azioni di Sales Insight con SFDC.
 
 Ecco cosa accade quando si sincronizzano le azioni Sales Insight e le attività SFDC:
 
@@ -77,8 +77,8 @@ Ecco cosa accade quando si sincronizzano le azioni Sales Insight e le attività 
 
 Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Azioni approfondimenti vendite verranno sincronizzate con l’elenco delle attività in Salesforce. E qualsiasi cosa creata, modificata, completata o eliminata in Salesforce aggiornerà l’elenco delle attività in Azioni approfondimento vendite.
 
-Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nel [Pagina Impostazioni](https://toutapp.com/login) nell’applicazione web.
+Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nella [pagina Impostazioni](https://toutapp.com/login) dell&#39;applicazione Web.
 
 >[!NOTE]
 >
->Il campo oggetto di un’attività può essere aggiornato in Azioni approfondimento vendite e tale aggiornamento verrà sincronizzato nel campo oggetto Salesforce per l’attività sincronizzata corrispondente, se utilizzi `{{activity_subject}}` campo dinamico nel tuo [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) impostazioni. Al contrario, eventuali aggiornamenti apportati al campo dell’oggetto in Salesforce _non_ sincronizza con il campo Oggetto attività promemoria azioni approfondimenti vendite.
+>Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in Azioni approfondimento vendite e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto Salesforce per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in Salesforce _non_ verranno sincronizzati con il campo dell&#39;oggetto dell&#39;attività promemoria delle azioni Sales Insight.

@@ -18,7 +18,7 @@ Ecco come esportare tutti i ruoli e le relative autorizzazioni.
 >
 >Autorizzazioni amministratore richieste
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/export-roles-and-permissions-1.png)
 
@@ -26,7 +26,7 @@ Ecco come esportare tutti i ruoli e le relative autorizzazioni.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Fai clic su **[!UICONTROL Ruoli]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Ruoli]**.
 
    ![](assets/export-roles-and-permissions-3.png)
 

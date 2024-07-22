@@ -17,21 +17,21 @@ Per ricevere aggiornamenti automatici di un report di base o per condividerli, Ã
 
 >[!NOTE]
 >
->Per le sottoscrizioni ai rapporti di Revenue Cycle Explorer, vedere [Iscriviti a un rapporto di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
+>Per le sottoscrizioni ai report di Revenue Cycle Explorer, vedere [Abbonarsi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Vai a **AttivitÃ  di marketing** area.
+1. Vai all&#39;area **AttivitÃ  di marketing**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Seleziona il rapporto dalla struttura di navigazione e fai clic su **Iscrizioni** scheda.
+1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Abbonamenti**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >Puoi anche abbonarti ai rapporti di da **Analytics** scheda.
+   >Ãˆ inoltre possibile sottoscrivere report dalla scheda **Analytics**.
 
-1. Clic **Nuova sottoscrizione report**.
+1. Fare clic su **Nuova sottoscrizione report**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -49,4 +49,4 @@ Per ricevere aggiornamenti automatici di un report di base o per condividerli, Ã
 
    >[!MORELIKETHIS]
    >
-   >Scopri come [gestisci tutte le sottoscrizioni ai report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un unico posto.
+   >Scopri come [gestire tutte le sottoscrizioni ai report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.

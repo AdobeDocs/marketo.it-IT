@@ -6,7 +6,7 @@ exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,14 @@ Segui questi semplici passaggi per disabilitare la sincronizzazione con MS Dynam
 
    ![](assets/one.png)
 
-1. In Integrazione, fai clic su **Microsoft Dynamics**.
+1. In Integrazione fare clic su **Microsoft Dynamics**.
 
    ![](assets/two.png)
 
-1. Clic **Disattiva sincronizzazione**.
+1. Fare clic su **Disattiva sincronizzazione**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Se non trovi un pulsante Disattiva sincronizzazione nella tua istanza, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se nell&#39;istanza non viene visualizzato il pulsante Disattiva sincronizzazione, contattare il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).

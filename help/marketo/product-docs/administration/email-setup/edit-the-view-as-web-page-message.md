@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message}
 
-Se devi modificare il &quot;[Visualizza come pagina Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;text, ecco come.
+Se devi modificare il testo &quot;[Visualizza come pagina Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, ecco come.
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Se devi modificare il &quot;[Visualizza come pagina Web](/help/marketo/product-d
 
 ## Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message-1}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -35,9 +35,9 @@ Se devi modificare il &quot;[Visualizza come pagina Web](/help/marketo/product-d
    >
    >`%mkt_webview_url%?mkt_tok=##MKT_TOK##`
    >
-   >La seconda parte `##MKT_TOK##` è il [!UICONTROL munchkin] cookie di quella persona. Si assicura che vengano cookie in modo appropriato quando fanno clic sul collegamento.
+   >La seconda parte `##MKT_TOK##` è il cookie [!UICONTROL munchkin] di quella persona. Si assicura che vengano cookie in modo appropriato quando fanno clic sul collegamento.
 
-1. Modifica il **[!UICONTROL Visualizza come Web Page HTML]** e **[!UICONTROL Visualizza come testo pagina Web]** versioni desiderate e fare clic su **[!UICONTROL Salva modifiche]**.
+1. Modifica le versioni **[!UICONTROL Visualizza come HTML di pagine Web]** e **[!UICONTROL Visualizza come testo di pagine Web]** e fai clic su **[!UICONTROL Salva modifiche]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,7 +52,7 @@ Eccola qui. Invia e-mail di test per garantire la formattazione.
 
 ## Testo predefinito &quot;Visualizza come pagina Web&quot; {#default-view-as-web-page-text}
 
-Se hai bisogno di tornare al sistema predefinito &quot;[!UICONTROL Visualizza come pagina Web]&quot;, copia/incolla quanto segue:
+Se hai bisogno di ripristinare il sistema predefinito &quot;[!UICONTROL Visualizza come pagina Web]&quot;, copia/incolla quanto segue:
 
 **[!UICONTROL Visualizza come Web Page HTML]**:
 

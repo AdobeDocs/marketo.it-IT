@@ -28,7 +28,7 @@ Sono disponibili diverse opzioni di personalizzazione.
 
 Qui puoi definire l’aspetto del chatbot in cui verranno visualizzate le finestre di dialogo, inclusi: colori, font, posizionamento del widget bot e nome/avatar del chatbot.
 
-Il colore di ogni categoria è determinato da un [valore colore esadecimale](https://color.adobe.com/create/color-wheel){target="_blank"} (ad esempio, bianco = #ffffff, rosso = #bf1932, ecc.).
+Il colore di ogni categoria è determinato da un valore di colore [esadecimale](https://color.adobe.com/create/color-wheel){target="_blank"} (ad esempio, bianco = #ffffff, rosso = #bf1932, ecc.).
 
 ![](assets/configuration-3.png)
 
@@ -38,7 +38,7 @@ L’ancoraggio consente al visitatore del sito di aprire/chiudere la chatbox. Pu
 
 ### Impostazioni bot {#agent-settings}
 
-In Impostazioni bot, puoi aggiungere alla chatbox un’etichetta (ad esempio, &quot;Assistente Adobe&quot;) che verrà visualizzata nella parte superiore. Puoi anche determinare il ritardo di risposta (in secondi) e modificare l’avatar della chat. Per caricare la tua immagine avatar, fai clic su **+** pulsante.
+In Impostazioni bot, puoi aggiungere alla chatbox un’etichetta (ad esempio, &quot;Assistente Adobe&quot;) che verrà visualizzata nella parte superiore. Puoi anche determinare il ritardo di risposta (in secondi) e modificare l’avatar della chat. Per caricare la tua immagine avatar, fai clic sul pulsante **+**.
 
 ![](assets/configuration-5.png)
 
@@ -46,19 +46,19 @@ In Impostazioni bot, puoi aggiungere alla chatbox un’etichetta (ad esempio, &q
 >
 >Gli avatar personalizzati devono essere immagini quadrate inferiori a 256 kb e inferiori a 200x200 px. I tipi di file supportati sono: .jpg, .png, .gif, .webp, .svg.
 
-Al termine, ricorda di fare clic su **Salva**.
+Dopo aver apportato le modifiche, ricorda di fare clic su **Salva**.
 
 ![](assets/configuration-6.png)
 
 ## Scheda Privacy {#privacy-tab}
 
-Fai clic su **Privacy** per aggiungere/modificare l’URL dell’informativa sulla privacy del sito (facoltativo).
+Fai clic sulla scheda **Privacy** per aggiungere/modificare l&#39;URL dell&#39;informativa sulla privacy del tuo sito (facoltativo).
 
 ![](assets/configuration-7.png)
 
 ## Scheda Installazione {#installation-tab}
 
-Per far sì che il chatbot venga visualizzato sul sito web, devi innanzitutto installare lo snippet JavaScript di Dynamic Chat. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il tuo team Web o il reparto IT per assistenza.
+Affinché il chatbot venga visualizzato sul sito web, devi innanzitutto installare lo snippet JavaScript di Dynamic Chat. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il tuo team Web o il reparto IT per assistenza.
 
 ![](assets/configuration-8.png)
 

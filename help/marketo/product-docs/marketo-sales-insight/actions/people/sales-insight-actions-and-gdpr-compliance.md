@@ -5,7 +5,7 @@ exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1396'
+source-wordcount: '1395'
 ht-degree: 1%
 
 ---
@@ -41,7 +41,7 @@ Il modo in cui gli esperti di marketing rispondono a queste aspettative più ele
 
 Esistono due aspetti chiave del RGPD in cui gli esperti di marketing devono rivedere le pratiche passate, correnti e future. Il primo è il consenso dell’interessato al trattamento dei suoi dati personali, e il secondo è la responsabilità, ossia la capacità di dimostrare come vengono seguiti i principi del RGPD.
 
-Nel nostro e-book, forniamo ampie informazioni sul consenso e la responsabilità all’interno della piattaforma Marketo, [RGPD e l’addetto al marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/). Tuttavia, in questo articolo ci concentreremo specificamente sulle nuove funzioni delle azioni di approfondimento sulle vendite, che aiuteranno la tua organizzazione ad aderire alle regole RGPD.
+Nel nostro e-book, [GDPR e l&#39;addetto al marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/), forniamo informazioni complete sul consenso e la responsabilità all&#39;interno della piattaforma Marketo. Tuttavia, in questo articolo ci concentreremo specificamente sulle nuove funzioni delle azioni di approfondimento sulle vendite, che aiuteranno la tua organizzazione ad aderire alle regole RGPD.
 
 ## Conformità al RGPD nelle azioni di approfondimento sulle vendite {#gdpr-compliance-in-marketo-sales-connect}
 
@@ -49,7 +49,7 @@ Sales Insight Actions è un&#39;applicazione potente, parte di Marketo Engagemen
 
 ## Scheda di conformità {#compliance-card}
 
-Le azioni di approfondimento sulle vendite includono una scheda di conformità nella vista Dettagli persona per fornire informazioni chiave sul tipo di autorizzazione di un contatto e sul relativo tipo di origine. Questo consente agli utenti di aggiungere e tenere traccia facilmente delle informazioni critiche per la privacy dei dati e li aiuta a prendere decisioni più informate sulla strategia di campagna/sensibilizzazione.
+Sales Insight Actions include una scheda di conformità nella vista dettagli persona per fornire informazioni chiave sul tipo di autorizzazione di un contatto, oltre al tipo di Source corrispondente. Questo consente agli utenti di aggiungere e tenere traccia facilmente delle informazioni critiche per la privacy dei dati e li aiuta a prendere decisioni più informate sulla strategia di campagna/sensibilizzazione.
 
 **Tipo di autorizzazione contatto**
 
@@ -65,9 +65,9 @@ Gli utenti possono scegliere tra numerose opzioni, tra cui:
 * Interesse pubblico/Autorità ufficiale
 * Altro
 
-**Tipo origine contatto**
+**Contatta Tipo Source**
 
-Nella nuova scheda di conformità, gli utenti possono tenere traccia dell&#39;origine di un contatto. Il tipo di origine definisce da dove provengono le informazioni di un contatto quando è stato caricato inizialmente in Azioni approfondimenti vendite. Comprendere il tipo di origine di un contatto aiuta anche nelle decisioni relative alle pratiche di sensibilizzazione, nonché a determinare quali altri sistemi o posizioni memorizzare i dati personali, garantendo che ogni impegno sia in linea con la legislazione RGPD.
+Nella nuova scheda di conformità, gli utenti possono tenere traccia dell&#39;origine di un contatto. Il tipo di Source definisce da dove provengono le informazioni di un contatto caricato inizialmente in Azioni approfondimento vendite. Comprendere il tipo di origine di un contatto aiuta anche nelle decisioni relative alle pratiche di sensibilizzazione, nonché a determinare quali altri sistemi o posizioni memorizzare i dati personali, garantendo che ogni impegno sia in linea con la legislazione RGPD.
 
 Anche in questo caso, gli utenti possono scegliere tra numerose opzioni a discesa, tra cui:
 
@@ -79,11 +79,11 @@ Anche in questo caso, gli utenti possono scegliere tra numerose opzioni a disces
 
 **Modifica della scheda di conformità**
 
-Quando è aperta la Visualizzazione dettagli persona, fare clic su **Modifica** nella scheda di conformità.
+Quando la Visualizzazione dettagli persona è aperta, fare clic su **Modifica** nella scheda di conformità.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Sono disponibili due elenchi a discesa: Tipo di autorizzazione e Tipo di origine.
+Sono disponibili due elenchi a discesa: Tipo di autorizzazione e Tipo di Source.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
@@ -91,15 +91,15 @@ Se scegli &quot;Consenso&quot; come Tipo di autorizzazione, verranno visualizzat
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Se si sceglie &quot;Altro&quot; per Tipo di autorizzazione o Tipo di origine, è possibile immettere il testo per descrivere il Tipo di origine.
+Se per Tipo di autorizzazione o Tipo Source viene selezionato &quot;Altro&quot;, è possibile immettere un testo che descriva il Tipo Source.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
 **Azioni in blocco**
 
-Le azioni di approfondimento sulle vendite consentono inoltre di aggiornare in blocco i tipi di autorizzazione e origine di un contatto, risparmiando tempo prezioso nel processo di conformità.
+Le azioni di approfondimento sulle vendite consentono inoltre di aggiornare in blocco i tipi di autorizzazione di un contatto e Source, risparmiando tempo prezioso nel processo di conformità.
 
-Quando si selezionano uno o più contatti dalla pagina Persone, a destra viene visualizzato un punto (menu a tre punti). Fare clic su di esso e vedrai Autorizzazione e Origine sono opzioni. È possibile impostare l&#39;autorizzazione o l&#39;origine di più contatti contemporaneamente.
+Quando si selezionano uno o più contatti dalla pagina Persone, a destra viene visualizzato un punto (menu a tre punti). Fai clic su di esso e vedrai Autorizzazione e Source sono opzioni. È possibile impostare l&#39;autorizzazione o il Source di più contatti contemporaneamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
@@ -111,11 +111,11 @@ Dopo aver aggiornato il tipo di autorizzazione, riceverai una finestra a compars
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
-Allo stesso modo, il Tipo di origine può essere aggiornato in blocco facendo clic sul modale Origine.
+Allo stesso modo, il Tipo di Source può essere aggiornato in blocco facendo clic sul modale Source.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-8.png)
 
-Dopo aver selezionato il tipo di origine corretto per i contatti selezionati, viene visualizzata una finestra di conferma per confermare l&#39;aggiornamento.
+Dopo aver selezionato il tipo di Source corretto per i contatti selezionati, viene visualizzata una finestra di conferma per confermare l&#39;aggiornamento.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
@@ -179,13 +179,13 @@ Per esportare le informazioni di contatto, fare clic sui tre punti verticali nel
 
 Un’area comunemente fraintesa del RGPD riguarda i contatti che annullano l’abbonamento al database dell’organizzazione. Al fine di rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l’abbonamento, nelle azioni di approfondimento sulle vendite è stata inclusa la seguente funzionalità:
 
-**Collegamenti per annullare l’abbonamento:** I collegamenti per l’annullamento dell’iscrizione verranno aggiunti automaticamente a tutte le e-mail inviate dall’applicazione web Sales Connect, in modo che ai contatti sia data una modalità accessibile di rinuncia.\
-**Sincronizzazione per annullamento abbonamento:** Gli utenti possono sincronizzare gli annullamenti dell’abbonamento al e dal proprio CRM (Salesforce) per garantire che le rinunce siano aggiornate.\
-**Cronologia annullamenti iscrizione:** Gli utenti possono visualizzare dati storici delle rinunce e delle rinunce nella Visualizzazione dettagli persona.\
-**Rimozione annullamento sottoscrizione:** La possibilità di scegliere nuovamente un contatto per il quale non è stato effettuato l’abbonamento richiede che l’utente disponga dei privilegi di amministratore e che dimostri che il contatto ha dato il nuovo consenso per contattarlo.
+**Collegamenti per l&#39;annullamento dell&#39;abbonamento:** I collegamenti per l&#39;annullamento dell&#39;abbonamento verranno aggiunti automaticamente a tutte le e-mail inviate dall&#39;applicazione Web Sales Connect per garantire che ai contatti sia assegnato un modo accessibile per la rinuncia.\
+**Sincronizzazione annullamento abbonamento:** Gli utenti possono sincronizzare gli annullamenti degli abbonamenti a e dal proprio CRM (Salesforce) per garantire che gli annullamenti degli abbonamenti siano aggiornati.\
+**Cronologia annullamenti abbonamento:** gli utenti possono visualizzare informazioni cronologiche su rinunce e rinunce nella visualizzazione Dettagli persona.\
+**Rimozione annullamento abbonamento:** Per annullare l&#39;abbonamento di un contatto, è necessario che l&#39;utente disponga dei privilegi di amministratore e che dimostri che il contatto ha dato il nuovo consenso per contattarlo.
 
 ## Aggiornamenti futuri {#future-updates}
 
 In qualità di sostenitore entusiasta della forza e dell&#39;attenzione al cliente dell&#39;economia del coinvolgimento, Marketo comprende l&#39;importanza di mettere la privacy e la protezione dei dati nelle mani della persona interessata. Come per altre leggi sulla protezione dei dati, la conformità ai requisiti RGPD richiede l’impegno sia di Marketo che dei nostri clienti. Il presente articolo ha lo scopo di aiutarti a utilizzare Marketo in modo appropriato per supportare la conformità ai requisiti RGPD della tua organizzazione.
 
-Continueremo a seguire da vicino le linee guida RGPD applicabili emesse dalle autorità di regolamentazione e la relativa legislazione. Gli aggiornamenti verranno pubblicati nel Centro affidabilità all&#39;indirizzo [trust.marketo.com](https://trust.marketo.com).
+Continueremo a seguire da vicino le linee guida RGPD applicabili emesse dalle autorità di regolamentazione e la relativa legislazione. Gli aggiornamenti verranno pubblicati nel Centro protezione all&#39;indirizzo [trust.marketo.com](https://trust.marketo.com).

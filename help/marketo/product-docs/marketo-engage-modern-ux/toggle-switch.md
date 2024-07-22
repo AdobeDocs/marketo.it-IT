@@ -22,11 +22,11 @@ L&#39;interruttore di attivazione consente di passare dall&#39;interfaccia class
 
 Attiva l’interruttore di attivazione per i singoli ruoli o per tutti i ruoli. Ecco come.
 
-1. In Marketo Engage, fai clic su **Amministratore**.
+1. In Marketo Engage fare clic su **Amministratore**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Clic **Nuova esperienza**.
+1. Fai clic su **Nuova esperienza**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -46,11 +46,11 @@ La nuova esperienza verrà caricata.
 
 ![](assets/toggle-switch-5.png)
 
-Per abilitarlo per _tutto_ funzioni, fai clic sull’icona a forma di ingranaggio accanto all’interruttore di attivazione.
+Per abilitarla per _tutte_ le funzionalità, fai clic sull&#39;icona a forma di ingranaggio accanto all&#39;interruttore di attivazione/disattivazione.
 
 ![](assets/toggle-switch-6.png)
 
-Seleziona **Attiva per tutte le funzioni disponibili** e fai clic su **OK**.
+Selezionare **Attiva per tutte le funzionalità disponibili** e fare clic su **OK**.
 
 ![](assets/toggle-switch-7.png)
 

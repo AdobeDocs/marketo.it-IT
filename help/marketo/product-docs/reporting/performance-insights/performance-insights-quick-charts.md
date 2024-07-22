@@ -6,7 +6,7 @@ exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ I grafici rapidi sono miniature personalizzate e salvate, che consentono di visu
 
 I grafici rapidi derivano dai dati specificati. In questo esempio sceglieremo: **nuove opportunità (primo contatto), tipo di opportunità = nuova attività, anno corrente**.
 
-1. Fai clic sul filtro della data e scegli **Anno corrente (YTD)**.
+1. Fare clic sul filtro data e scegliere **Anno corrente (YTD)**.
 
    ![](assets/1-2.png)
 
-1. Fai clic su **+** e selezionare i criteri.
+1. Fai clic su **+** e seleziona i criteri.
 
    ![](assets/2-2.png)
 
@@ -31,7 +31,7 @@ I grafici rapidi derivano dai dati specificati. In questo esempio sceglieremo: *
 
    ![](assets/3-3.png)
 
-1. Fai clic sull’icona Esporta e seleziona **Salva come grafico rapido**.
+1. Fare clic sull&#39;icona Esporta e selezionare **Salva come grafico rapido**.
 
    ![](assets/4-2.png)
 
@@ -49,7 +49,7 @@ Il grafico rapido è ora associato agli altri.
 
 ## Visualizza i grafici rapidi esistenti {#view-existing-quick-charts}
 
-1. Per visualizzare i grafici rapidi esistenti, fai clic sul pulsante **Grafici rapidi** icona.
+1. Per visualizzare i grafici rapidi esistenti, fai clic sull&#39;icona **grafici rapidi**.
 
    ![](assets/7-1.png)
 
@@ -57,14 +57,14 @@ Il grafico rapido è ora associato agli altri.
 
 Per eliminare un grafico rapido, eseguire la procedura seguente.
 
-1. Fai clic su **Grafici rapidi** icona.
+1. Fai clic sull&#39;icona **Grafici rapidi**.
 
    ![](assets/8-1.png)
 
-1. Passa il cursore del mouse sul grafico desiderato, ma non fai clic su di esso. Al passaggio del mouse, viene visualizzata una X. Fai clic su **X**.
+1. Passa il cursore del mouse sul grafico desiderato, ma non fai clic su di esso. Al passaggio del mouse, viene visualizzata una X. Fare clic su **X**.
 
    ![](assets/9-2.png)
 
-1. Clic **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/10-1.png)

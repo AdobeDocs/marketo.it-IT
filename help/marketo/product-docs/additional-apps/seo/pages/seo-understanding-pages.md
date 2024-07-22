@@ -6,8 +6,8 @@ exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 1%
+source-wordcount: '289'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 1%
 
 ![](assets/image2014-9-17-21-3a52-3a3.png)
 
-La pagina [!UICONTROL Punteggio ottimizzazione] è una classificazione generale dell’ottimizzazione della pagina per la ricerca, su una scala da 1 a 100. Si basa su decine di best practice nell’ambito dell’ottimizzazione SEO.
+Il punteggio di ottimizzazione della pagina  è una classificazione generale dell&#39;ottimizzazione della pagina per la ricerca, su una scala da 1 a 100. Si basa su decine di best practice nell’ambito dell’ottimizzazione SEO.
 
 * 0 - 35 = Non ottimizzato
 * 35 - 70 = sulla strada giusta
@@ -25,24 +25,24 @@ La pagina [!UICONTROL Punteggio ottimizzazione] è una classificazione generale 
 
 >[!TIP]
 >
->Fai clic sul pulsante [!UICONTROL Impatto elevato] collegamento in [!UICONTROL Da fare] , questo ti reindirizzerà al [!UICONTROL Scheda Problemi] e mostrare problemi ad alta priorità da risolvere.
+>Fai clic sul collegamento [!UICONTROL Impatto elevato] nella casella [!UICONTROL Da fare] per reindirizzarti alla [!UICONTROL scheda Problemi] e visualizzare i problemi ad alta priorità da risolvere.
 
-## [!UICONTROL Pagine] Linguetta {#pages-tab}
+## Scheda [!UICONTROL Pagine] {#pages-tab}
 
-Il **[!UICONTROL Pagine] scheda** mostra come le singole pagine del sito sono ottimizzate per la ricerca.
+La scheda **[!UICONTROL Pagine]** mostra come le singole pagine del sito sono ottimizzate per la ricerca.
 
 ![](assets/image2014-9-17-21-3a52-3a41.png)
 
 | Nome colonna | Descrizione |
 |---|---|
 | [!UICONTROL Titolo] | Titolo e URL di tutte le pagine del dominio. Verifica il dominio. |
-| [!UICONTROL Punteggio ottimizzazione] | La salsa segreta utilizzata per mostrare come la tua pagina è ottimizzata per la ricerca su una scala da 1 a 100. |
+| [!UICONTROL Punteggio di ottimizzazione] | La salsa segreta utilizzata per mostrare come la tua pagina è ottimizzata per la ricerca su una scala da 1 a 100. |
 | [!UICONTROL Collegamenti] | Numero di domini diversi con almeno 1 collegamento in entrata al sito. |
-| [!UICONTROL Parole chiave di Target] | Le parole chiave per le quali decidi di ottimizzare ogni pagina. [È necessario il tuo input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
+| [!UICONTROL Parole chiave di destinazione] | Le parole chiave per le quali decidi di ottimizzare ogni pagina. [È necessario il tuo input](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md). |
 
-## [!UICONTROL Problemi] Linguetta {#issues-tab}
+## Scheda [!UICONTROL Problemi] {#issues-tab}
 
-Il **[!UICONTROL Problemi] scheda** identificherà quali miglioramenti è possibile apportare per aumentare il punteggio di ottimizzazione e la classificazione.
+La scheda **[!UICONTROL Problemi]** identificherà i miglioramenti che è possibile apportare per aumentare il punteggio di ottimizzazione e la classificazione.
 
 ![](assets/image2014-9-17-21-3a53-3a15.png)
 
@@ -53,4 +53,4 @@ Il **[!UICONTROL Problemi] scheda** identificherà quali miglioramenti è possib
 | [!UICONTROL Categoria] | Tipo di problema segnalato. |
 | [!UICONTROL Stato] | L’attività è completa o ancora aperta. Una volta che tu e il webmaster avete risolto il problema sul sito, lo stato dovrebbe cambiare in risolto (controllo verde). |
 
-Fantastico, ora che conosci le nozioni di base delle pagine, consulta la [Articolo di approfondimento pagina](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per scoprire cose più interessanti che puoi fare.
+Fantastico, ora che conosci le nozioni di base delle pagine, consulta l&#39;[articolo di approfondimento delle pagine](/help/marketo/product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md) per scoprire altre cose interessanti da fare.

@@ -6,7 +6,7 @@ exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La dashboard di coinvolgimento è il modo più semplice per visualizzare le pres
 
 >[!NOTE]
 >
->Il punteggio di coinvolgimento include i dati degli ultimi tre cast. Una nuova è calcolata 72 ore dopo ogni cast. Ulteriori informazioni su [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+>Il punteggio di coinvolgimento include i dati degli ultimi tre cast. Una nuova è calcolata 72 ore dopo ogni cast. Ulteriori informazioni sul [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
 ## Visualizza dashboard di coinvolgimento {#view-the-engagement-dashboard}
 
@@ -27,7 +27,7 @@ Seleziona il programma di coinvolgimento e fai clic su **Visualizza** > **Dashbo
 
 >[!TIP]
 >
->Consulta la sezione [report sulle prestazioni del flusso di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per statistiche più dettagliate.
+>Per statistiche più dettagliate, consulta il [report sulle prestazioni del flusso di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md).
 
 ## Comprendere il widget Esaurimento {#understand-the-exhaustion-widget}
 
@@ -37,7 +37,7 @@ Questo widget consente di prevedere quando i lead avranno esaurito tutti i conte
 
 >[!NOTE]
 >
->Devi passare alla scheda Configurazione e assicurarti che le notifiche di contenuto esaurito siano **On** per vedere il grafico qui sopra. Se sono disattivati, il grafico sarà diverso.
+>Devi passare alla scheda Configurazione e assicurarti che le notifiche del contenuto esaurito siano **Il** per visualizzare il grafico qui sopra. Se sono disattivati, il grafico sarà diverso.
 
 >[!CAUTION]
 >
@@ -67,8 +67,8 @@ Per modificare l’ordinamento, fai clic sull’icona a forma di ingranaggio, qu
 
 ![](assets/image2014-9-15-16-3a46-3a58.png)
 
-_Più recente_ e _Più vecchio_ si basano sull’ora dell’ultima approvazione.
+_I più recenti_ e _i più vecchi_ si basano sull&#39;ora dell&#39;ultima approvazione.
 
 >[!NOTE]
 >
->Per ulteriori informazioni, consulta [Creare un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md) immersione profonda.
+>Per ulteriori informazioni, consulta l&#39;approfondimento su [Creare un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md).

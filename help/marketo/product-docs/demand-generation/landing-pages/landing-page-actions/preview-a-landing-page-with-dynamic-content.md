@@ -17,14 +17,14 @@ Visualizza l’anteprima della pagina di destinazione dopo l’aggiunta di conte
 
 >[!PREREQUISITES]
 >
->* [Utilizzare il contenuto dinamico in una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
+>* [Utilizza il contenuto dinamico in una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
 >* [Anteprima di una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
 
 1. Seleziona una pagina di destinazione e fai clic su **Anteprima pagina**.
 
    ![](assets/image2014-9-17-16-3a9-3a55.png)
 
-1. Fai clic sull’elenco a discesa e seleziona una **Segmento** per visualizzarlo in anteprima.
+1. Fai clic sull&#39;elenco a discesa e seleziona un **segmento** per visualizzarlo in anteprima.
 
    ![](assets/image2014-9-25-15-3a34-3a40.png)
 

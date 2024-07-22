@@ -19,7 +19,7 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 >
 >[Creare due o più pagine di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferibilmente con un modulo.
 
-1. In Design Studio, fai clic su **Nuovo**. Nel menu a discesa, seleziona **Nuovo gruppo di test**.
+1. In Design Studio, fare clic su **Nuovo**. Nel menu a discesa, seleziona **Nuovo gruppo di test**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -27,8 +27,8 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
    >
    >Gli altri modi per creare un gruppo di test sono:
    >
-   >* Fai clic con il pulsante destro del mouse su una pagina di destinazione nella struttura ad albero e seleziona **Converti in gruppo di test**
-   >* Creare un gruppo di test per la pagina di destinazione in un programma scegliendo **Gruppo test AB** nel **Nuova risorsa locale** menu
+   >* Fare clic con il pulsante destro del mouse su una pagina di destinazione nella struttura e selezionare **Converti in gruppo di test**
+   >* Creare un gruppo di test della pagina di destinazione in un programma scegliendo **Gruppo di test AB** nel menu **Nuova risorsa locale**
 
 1. Immettere un nome e una descrizione facoltativa. Seleziona le pagine di destinazione da testare e fai clic su **Crea**.
 
@@ -38,11 +38,11 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
    >
    >Solo le pagine di destinazione non approvate saranno disponibili per la scelta.
 
-1. Fai clic con il pulsante destro del mouse su ciascuna pagina di destinazione e seleziona (Aggiungi una pagina di destinazione) **Approva**.
+1. Fai clic con il pulsante destro del mouse su ogni pagina di destinazione e seleziona **Approva**.
 
    ![](assets/three-1.png)
 
-1. Fai clic su **Opzioni gruppo di test** a discesa e seleziona **Approva gruppo di test**.
+1. Fai clic sul menu a discesa **Opzioni gruppo di test** e seleziona **Approva gruppo di test**.
 
    ![](assets/four-1.png)
 
@@ -52,4 +52,4 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 
    >[!TIP]
    >
-   >Se desideri eliminare il gruppo di test, fai clic su **Azioni gruppo di test** e seleziona **Elimina gruppo di test**.
+   >Per eliminare il gruppo di test, fare clic su **Azioni gruppo di test** e selezionare **Elimina gruppo di test**.

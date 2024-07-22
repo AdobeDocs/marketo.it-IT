@@ -29,8 +29,8 @@ I grafici indicano il numero totale di persone, il numero di persone commerciabi
 
 >[!TIP]
 >
->Desideri ottenere informazioni più specifiche o tempestive sulle tue persone? Prova a [Rapporto prestazioni persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Desideri ottenere informazioni più specifiche o tempestive sulle tue persone? Prova un [report sulle prestazioni delle persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
-**Persone totali:** Il numero di persone di ogni tempo per l’area di lavoro elencata.
+**Persone totali:** il numero di persone di ogni tempo per l&#39;area di lavoro elencata.
 
-**Persone commerciabili:** Il numero di persone di ogni tempo per l’area di lavoro elencata, _meno i seguenti_ inserire nell&#39;elenco Bloccati : persone senza un indirizzo e-mail, persone la cui e-mail è stata fortemente recapitata, persone che sono state, persone che hanno annullato l’abbonamento, persone attualmente impostate su Marketing Sospeso.
+inserire nell&#39;elenco Bloccati **Persone idonee per il marketing:** Il numero di persone di ogni tempo per l&#39;area di lavoro elencata, _meno le seguenti_: persone senza un indirizzo e-mail, persone la cui e-mail è stata duramente recapitata, persone che sono state, persone che hanno annullato l&#39;iscrizione, persone attualmente impostate su Marketing sospeso.

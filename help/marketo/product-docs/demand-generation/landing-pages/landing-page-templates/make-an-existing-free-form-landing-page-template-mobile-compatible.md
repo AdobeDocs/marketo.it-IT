@@ -17,7 +17,7 @@ Questa operazione può essere eseguita in due posizioni, Editor modelli e Editor
 
 ## Eseguire l’aggiornamento dall’Editor modelli {#upgrade-from-the-template-editor}
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/designstudio-1.png)
 
@@ -29,15 +29,15 @@ Questa operazione può essere eseguita in due posizioni, Editor modelli e Editor
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Clic **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Clic **Rendi Mobile Compatibile**.
+1. Fare clic su **Rendi compatibile Mobile**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Clic **Aggiorna**.
+1. Fai clic su **Aggiorna**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -69,7 +69,7 @@ Se apporti modifiche al modello, fai clic su Azioni modello e seleziona Convalid
 
 Quando modifichi una pagina di destinazione e fai clic sulla scheda mobile, a volte noterai che il modello non è stato aggiornato. Non abbiate paura! Puoi aggiornarla proprio qui.
 
-1. Fai clic su **Dispositivi mobili** scheda.
+1. Fare clic sulla scheda **Mobile**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 

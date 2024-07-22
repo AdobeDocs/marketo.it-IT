@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360352
-description: Configurazione delle impostazioni API SOAP - Documentazione di Marketo - Documentazione del prodotto
-title: Configurazione delle impostazioni API SOAP
+description: Configurazione delle impostazioni API dell’SOAP - Documentazione di Marketo - Documentazione del prodotto
+title: Configurazione delle impostazioni API dell’SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 ---
 
-# Configurazione delle impostazioni API SOAP {#configuring-your-soap-api-settings}
+# Configurazione delle impostazioni API dell’SOAP {#configuring-your-soap-api-settings}
 
 >[!NOTE]
 >
@@ -21,21 +21,21 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/configuring-your-soap-api-settings-1.png)
 
-1. Clic **[!UICONTROL Servizi Web]**.
+1. Fare clic su **[!UICONTROL Servizi Web]**.
 
    ![](assets/configuring-your-soap-api-settings-2.png)
 
-1. Impostare un **[!UICONTROL Chiave di crittografia]**, fai clic su **[!UICONTROL Salva modifiche]** e passa tutte le informazioni al tuo sviluppatore.
+1. Imposta una **[!UICONTROL chiave di crittografia]** appropriata, fai clic su **[!UICONTROL Salva modifiche]** e passa tutte le informazioni allo sviluppatore.
 
    ![](assets/configuring-your-soap-api-settings-3.png)
 
 >[!CAUTION]
 >
->Endpoint SOAP e [!UICONTROL ID utente] sarà univoco; non inviare la schermata in questo articolo al tuo sviluppatore.
+>L&#39;endpoint SOAP e l&#39;[!UICONTROL ID utente] saranno univoci. Non inviare la schermata di questo articolo al tuo sviluppatore.
 
 >[!MORELIKETHIS]
 >

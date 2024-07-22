@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Modificare una campagna web esistente {#edit-an-existing-web-campaign}
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/image2016-8-18-16-3a15-3a14.png)
 
-1. Il giorno **Campagne web** pagina, fai clic su **Modifica** sulla campagna da modificare.
+1. Nella pagina **Campagne Web**, fai clic su **Modifica** nella campagna che desideri modificare.
 
    ![](assets/web-campaigns-1-edit-hand.png)
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna Web desiderata, utilizza [funzione filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Per semplificare la ricerca della campagna Web desiderata, utilizzare la funzionalità [filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 >[!MORELIKETHIS]
 >
->* [Eliminare una campagna web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
->* [Avviare/mettere in pausa una campagna](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).
+>* [Eliminare una campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>* [Avviare/sospendere una campagna](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/launch-pause-a-web-campaign.md).

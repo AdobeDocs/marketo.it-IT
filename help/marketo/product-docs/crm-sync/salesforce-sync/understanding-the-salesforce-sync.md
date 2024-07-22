@@ -6,8 +6,8 @@ exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 1%
+source-wordcount: '221'
+ht-degree: 0%
 
 ---
 
@@ -40,6 +40,6 @@ La sincronizzazione tra Salesforce e Marketo è bidirezionale solo per lead, con
 
 >[!NOTE]
 >
->Il [credenziali immesse in Marketo per Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} vengono utilizzati per sincronizzare i dati. Verranno inclusi solo i dati a cui le credenziali hanno accesso.
+>Le [credenziali immesse in Marketo per Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui le credenziali hanno accesso.
 
 La sincronizzazione di Marketo con Salesforce è la più potente del suo genere al mondo. Sembra una magia; viene fatto un cambiamento e l&#39;altro sistema è presto aggiornato.

@@ -6,7 +6,7 @@ exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 L’intestazione e-mail in Marketo è completamente personalizzabile. Si compone di quattro campi:
 
-* **Da** - Il nome del mittente desiderato
+* **Da** - Nome del mittente che si desidera venga visualizzato
 * **Indirizzo mittente** - L&#39;indirizzo e-mail del mittente che si desidera venga visualizzato
-* **Risposta** - L&#39;indirizzo di posta elettronica a cui si desidera inviare la risposta di una persona (può essere diverso dall&#39;indirizzo mittente)
-* **Oggetto** - Oggetto dell’e-mail
+* **Rispondi a** - L&#39;indirizzo di posta elettronica a cui si desidera inviare la risposta di una persona (può essere diverso dall&#39;indirizzo mittente)
+* **Oggetto** - Oggetto dell&#39;e-mail
 
 Per modificare questi valori, fare clic in ogni campo e immettere le informazioni desiderate.
 
@@ -26,7 +26,7 @@ Per modificare questi valori, fare clic in ogni campo e immettere le informazion
 
 >[!TIP]
 >
->Per impostare un valore predefinito per Nome mittente e Da e-mail, vedere [Modifica l&#39;etichetta Predefinita Da e-mail e Da](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
+>Per impostare un valore predefinito per Nome mittente e Da indirizzo e-mail, vedere [Modificare il valore predefinito per E-mail mittente e Da etichetta](/help/marketo/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.md).
 
 Se desideri utilizzare un token, fai clic prima all’interno del campo desiderato, quindi fai clic sull’icona del token.
 
@@ -50,4 +50,4 @@ Se superi i 50 caratteri, il contatore diventa rosso per avvisarti.
 
 >[!MORELIKETHIS]
 >
->[Panoramica di Email Editor v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
+>[Panoramica dell&#39;editor di posta elettronica v2.0](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)

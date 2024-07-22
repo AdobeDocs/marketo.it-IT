@@ -15,19 +15,19 @@ ht-degree: 0%
 
 È possibile combinare valori provenienti da più campi o creare un valore condizionale utilizzando un campo formula di Marketo Engage.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Clic **[!UICONTROL Nuovo campo personalizzato]**.
+1. Fare clic su **[!UICONTROL Nuovo campo personalizzato]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Seleziona **[!UICONTROL Formula]** per **[!UICONTROL Tipo]**.
+1. Selezionare **[!UICONTROL Formula]** per **[!UICONTROL Tipo]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Individuare e selezionare il campo formula, quindi fare clic su **[!UICONTROL Modifica regole]**.
+1. Trova e seleziona il campo formula, quindi fai clic su **[!UICONTROL Modifica regole]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Ulteriori informazioni su [token per le fasi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
+   >Ulteriori informazioni sui [token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md).
 
 1. Ora puoi aggiungere il campo formula come token in un messaggio e-mail.
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->I campi formula possono essere utilizzati nelle colonne Pagine di destinazione, E-mail ed Elenco avanzato. Le e-mail con campi formula possono _non_ essere inviato utilizzando una campagna batch. Utilizza un [token di script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md) in questo scenario.
+>I campi formula possono essere utilizzati nelle colonne Pagine di destinazione, E-mail ed Elenco avanzato. Le e-mail con campi formula possono _non_ essere inviate utilizzando una campagna batch. In questo scenario, utilizza un [token di script e-mail](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md).
 
 Ottimo lavoro! Ora hai un campo intelligente che sa quale formula di saluto includere in base al sesso. Divertitevi e diventate creativi.

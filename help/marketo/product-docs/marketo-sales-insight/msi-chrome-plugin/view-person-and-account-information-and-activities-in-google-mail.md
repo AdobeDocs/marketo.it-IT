@@ -41,7 +41,7 @@ Fai clic sull’icona Marketo per espandere il riquadro.
 
 ## Visualizzare le attività in Google Chrome {#view-activities-in-google-chrome}
 
-Puoi anche utilizzare il riquadro attività globale in Google Chrome per visualizzare un elenco completo delle attività più recenti che si sono verificate per tutte le persone a cui hai recentemente corrisposto. Si tratta di un feed aggiornato in tempo reale che visualizza continuamente il numero di attività non lette sull’icona.
+Puoi inoltre utilizzare il Riquadro attività globale in Google Chrome per visualizzare un elenco completo delle attività più recenti che si sono verificate per tutte le persone con cui hai recentemente avuto una corrispondenza. Si tratta di un feed aggiornato in tempo reale che visualizza continuamente il numero di attività non lette sull’icona.
 
 Fai clic sull’icona Marketo per aprire il riquadro.
 

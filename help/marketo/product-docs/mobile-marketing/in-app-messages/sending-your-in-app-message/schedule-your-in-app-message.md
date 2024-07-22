@@ -27,8 +27,8 @@ Invia subito il messaggio o pianificalo per dopo.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. Oppure, per eseguire il programma in questo momento, seleziona **Esegui immediatamente**. I campi Data inizio scompaiono.
+1. In alternativa, per eseguire il programma in questo momento, selezionare **Esegui immediatamente**. I campi Data inizio scompaiono.
 
    ![](assets/schedule-your-in-app-message-4.png)
 
-Facile! Ultimo ma non meno importante è il [Approvazione](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md) passaggio.
+Facile! Ultimo, ma non meno importante, è il passaggio [Approvazione](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/approve-your-in-app-message.md).

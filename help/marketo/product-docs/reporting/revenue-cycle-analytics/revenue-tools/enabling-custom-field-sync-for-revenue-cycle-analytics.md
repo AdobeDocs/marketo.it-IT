@@ -15,11 +15,11 @@ ht-degree: 0%
 
 I passaggi seguenti ti consentono di utilizzare campi personalizzati nei rapporti RCA.
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one.png)
 
-1. Clic **Analisi del ciclo dei ricavi**, quindi **Sincronizzazione campi personalizzati**.
+1. Fai clic su **Analisi del ciclo dei ricavi**, quindi su **Sincronizzazione campi personalizzati**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ I passaggi seguenti ti consentono di utilizzare campi personalizzati nei rapport
 
    ![](assets/three.png)
 
-1. In Stato sincronizzazione, seleziona **Abilitato**, quindi fai clic su **Salva**.
+1. In Stato sincronizzazione selezionare **Abilitato**, quindi fare clic su **Salva**.
 
    ![](assets/four.png)
 

@@ -1,6 +1,6 @@
 ---
-description: Panoramica di Marketi Engage Modern UX - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica di Marketi Engage Modern UX
+description: Panoramica di Marketo Engage Modern UX - Documentazione di Marketo - Documentazione del prodotto
+title: Panoramica di Marketo Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
@@ -10,7 +10,7 @@ ht-degree: 1%
 
 ---
 
-# Panoramica di Marketi Engage Modern UX {#overview}
+# Panoramica di Marketo Engage Modern UX {#overview}
 
 Benvenuti in Adobe Marketo Engage Modern UX (user experience), un’interfaccia aggiornata che offre una migliore usabilità e un nuovo aspetto sulla piattaforma del Marketo Engage.
 
@@ -50,9 +50,9 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
 
 >[!NOTE]
 >
->Quando si esegue una ricerca nella struttura, vengono visualizzati solo i primi 250 risultati. Se dopo una ricerca non riesci a individuare la risorsa, utilizza [Ricerca globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md) funzione.
+>Quando si esegue una ricerca nella struttura, vengono visualizzati solo i primi 250 risultati. Se dopo una ricerca non riesci a individuare la risorsa, utilizza la funzione [Ricerca globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
-**Confronto tra Marketo Classic e il nuovo Marketo**
+**Marketo Classic rispetto al nuovo Marketo**
 
 <table> 
  <tbody>

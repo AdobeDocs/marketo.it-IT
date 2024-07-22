@@ -25,7 +25,7 @@ Che cos&#39;è il Marketo Engage? Ottima domanda!
 
 Con un piccolo aiuto dal tuo team IT, potrai completarlo in breve tempo.
 
-[Avvia configurazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[Avvia installazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Ottieni alcuni risultati in breve {#get-some-quick-wins}
 
@@ -38,7 +38,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <img alt="Connetti" src="getting-started/assets/getting-started-1.png"/>
     </a>
     <div>
-    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configurazione e aggiunta di una persona</a>
+    <a href="/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md">1. Configura e aggiungi una persona</a>
     </div>
     <br>
   </td>
@@ -46,7 +46,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <a href="getting-started/quick-wins/send-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started.png" />
        </a>
-    <div><a href="getting-started/quick-wins/send-an-email.md">2. Inviare un’e-mail</a>
+    <div><a href="getting-started/quick-wins/send-an-email.md">2. Invia un'e-mail</a>
     </div>
     <br>
   </td>
@@ -92,7 +92,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <img alt="Connetti" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Goccia Goccia Nurture</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Alimentazione A Goccia</a>
     </div>
     <br>
   </td>
@@ -100,7 +100,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizzazione di un’e-mail</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizzazione di un'e-mail</a>
     </div>
     <br>
   </td>
@@ -109,7 +109,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisa il rappresentante commerciale</a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisa il rappresentante commerciale </a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
 
 ## FASE 4 Congratulazioni! Sei pronto per la nazione  {#congrats-youre-ready-for-the-nation}
 
-Consulta la sezione [Nazione marketing](https://nation.marketo.com){target="_blank"}!
+Controlla la [nazione marketing](https://nation.marketo.com){target="_blank"}!

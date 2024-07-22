@@ -6,7 +6,7 @@ exl-id: 1c451ff7-c56f-477e-b287-898c359aedcf
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -27,17 +27,17 @@ A volte le persone vogliono rinunciare alla ricezione di e-mail. Ecco come rende
 >
 >Se la sincronizzazione dell’annullamento dell’abbonamento è attivata, rimuovi l’annullamento dell’abbonamento da ToutApp e deseleziona la rinuncia in Salesforce affinché il record della persona non venga sincronizzato nuovamente.
 
-1. Vai a [applicazione web](https://toutapp.com/login) e fai clic su **Persone**.
+1. Vai all&#39;[applicazione Web](https://toutapp.com/login) e fai clic su **Persone**.
 
 1. Selezionare la persona per aprire la visualizzazione dettagli persona.
 
    ![](assets/two.png)
 
-1. Fai clic sui tre punti nella visualizzazione dettagli persona e seleziona **Rimuovi Annulla iscrizione**.
+1. Fare clic sui tre punti nella visualizzazione Dettagli persona e selezionare **Rimuovi annullamento sottoscrizione**.
 
    ![](assets/three.png)
 
-1. Seleziona il motivo per cui la persona ha rinunciato a ricevere e-mail, quindi fai clic su **Rimuovi Annulla iscrizione**.
+1. Seleziona il motivo per cui la persona ha rinunciato a ricevere e-mail, quindi fai clic su **Rimuovi annullamento iscrizione**.
 
    ![](assets/four.png)
 

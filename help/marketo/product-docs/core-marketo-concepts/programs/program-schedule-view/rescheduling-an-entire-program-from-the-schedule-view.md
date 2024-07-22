@@ -19,7 +19,7 @@ Quando si clona un programma o un evento con date, è probabile che si desideri 
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleziona il menu a discesa Azione evento. Scegli **[!UICONTROL Riprogramma voci]**.
+1. Seleziona il menu a discesa Azione evento. Scegliere **[!UICONTROL Riprogramma voci]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
@@ -31,7 +31,7 @@ Quando si clona un programma o un evento con date, è probabile che si desideri 
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Clic **[!UICONTROL Riprogramma]**.
+1. Fare clic su **[!UICONTROL Riprogramma]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 
@@ -41,7 +41,7 @@ Quando si clona un programma o un evento con date, è probabile che si desideri 
 
 >[!NOTE]
 >
->Le risorse già eseguite non verranno spostate.
+>Assets già in esecuzione non si sposterà.
 
 Ora tutto è stato riprogrammato. Regola eventuali date specifiche in base alle esigenze.
 

@@ -17,17 +17,17 @@ Vuoi provare un indirizzo diverso da senza complicazioni? Ecco come.
 
 >[!PREREQUISITES]
 >
->[Aggiungi un Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Nell’editor del test e-mail, seleziona **Indirizzo mittente** nel **Tipo di test** a discesa.
+1. Nell&#39;editor di test e-mail, selezionare **Dall&#39;indirizzo** nell&#39;elenco a discesa **Tipo di test**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Il primo Indirizzo mittente è designato come **Campione**. Vengono chiamati gli indirizzi successivi da **Sfide**.
+   >Il primo indirizzo mittente è designato come **Champion**. Gli indirizzi successivi sono denominati **Challengers**.
 
-1. Inserisci il **Nome mittente** (a sinistra) e **Indirizzo mittente** (a destra) per gli sfidanti.
+1. Immettere **Nome mittente** (a sinistra) e **Indirizzo mittente** (a destra) per gli sfidanti.
 
    ![](assets/image2014-9-15-12-3a52-3a50.png)
 
@@ -47,7 +47,7 @@ Vuoi provare un indirizzo diverso da senza complicazioni? Ecco come.
 
    Per ottenere l’affidabilità statistica, assicurati di scegliere una percentuale che includa un numero sufficiente di persone per la validità del test. Non fatevi ingannare da risultati inconcludenti.
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 
@@ -55,4 +55,4 @@ Vuoi provare un indirizzo diverso da senza complicazioni? Ecco come.
 
    >[!MORELIKETHIS]
    >
-   >[Campione/Sfidante: definizione dei criteri del campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Campione/Sfidante: definizione dei criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

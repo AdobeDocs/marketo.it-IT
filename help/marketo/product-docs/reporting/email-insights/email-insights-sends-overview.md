@@ -17,7 +17,7 @@ Nella pagina Invii, esamina le caratteristiche delle comunicazioni e-mail recent
 
 ![](assets/one.png)
 
-Utilizzare [filtro](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per specificare quali e-mail desideri visualizzare.
+Utilizza [filtro](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) per specificare quali e-mail visualizzare.
 
 ![](assets/filtering.png)
 
@@ -25,11 +25,11 @@ Sul lato destro della pagina sono presenti diverse informazioni relative alle e-
 
 ![](assets/two-1.png)
 
-**Tipo** indica il tipo di risorsa utilizzato.
-**Destinatario** numero indica quante persone hanno ricevuto l’e-mail.
-**Metriche di consegna** ti offre una visualizzazione rapida di quante e-mail sono state consegnate, sono in sospeso o sono rimbalzate.\
-**Metriche di coinvolgimento** ti offre una visualizzazione rapida del numero di destinatari che hanno aperto, fatto clic e annullato l’abbonamento a un’e-mail.
-**Punteggio** è l’e-mail di [Punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
+**Tipo** indica il tipo di risorsa utilizzata.
+Numero **Destinatario** indica quante persone hanno ricevuto l&#39;e-mail.
+**Metriche di consegna** fornisce una visualizzazione rapida del numero di e-mail consegnate, in sospeso o non recapitate.\
+**Metriche di coinvolgimento** fornisce una visualizzazione rapida del numero di destinatari che hanno aperto, fatto clic e annullato l&#39;abbonamento a un&#39;e-mail.
+**Il punteggio** è il [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) della tua e-mail.
 
 Per impostazione predefinita, le e-mail sono ordinate in base alla più recente, ma puoi ordinarle in base a qualsiasi metrica disponibile.
 

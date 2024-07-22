@@ -4,7 +4,7 @@ title: Disinstalla Marketo Sales Connect da Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1197'
 ht-degree: 5%
 
 ---
@@ -15,7 +15,7 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
 ## Rimuovi campi Sales Connect dal layout della pagina {#remove-sales-connect-fields-from-page-layout}
 
-1. In Salesforce Classic, fai clic su **Configurazione**.
+1. In Salesforce Classic, fare clic su **Configurazione**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-1.png)
 
@@ -23,11 +23,11 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
    ![](assets/uninstall-salesforce-classic-customization-package-2.png)
 
-1. Clic **Modifica** accanto a Layout lead.
+1. Fai clic su **Modifica** accanto a Layout lead.
 
    ![](assets/uninstall-salesforce-classic-customization-package-3.png)
 
-1. Nella console, seleziona **Campi**. In Ricerca rapida, cercare &quot;MSC&quot;. Tutti i campi disattivati sono stati aggiunti al layout della pagina. Dovrai eliminarli.
+1. Nella console selezionare **Campi**. In Ricerca rapida, cercare &quot;MSC&quot;. Tutti i campi disattivati sono stati aggiunti al layout della pagina. Dovrai eliminarli.
 
    ![](assets/uninstall-salesforce-classic-customization-package-4.png)
 
@@ -41,13 +41,13 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
 1. È possibile aggiungere a questa sezione 10 tipi di campi MSC. Rimuovi tutti i campi aggiunti o elimina semplicemente l’intera sezione.
 
-1. Clic **Salvataggio rapido** al termine.
+1. Al termine, fai clic su **Salvataggio rapido**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-6.png)
 
 ## Rimuovi pulsanti di connessione vendite dai layout di pagina {#remove-sales-connect-buttons-from-page-layouts}
 
-1. Nella console (passaggio 4 sopra), seleziona **Pulsanti**. Cercare &quot;MSC&quot;. Tutti i pulsanti disattivati sono stati aggiunti alla sezione dei pulsanti personalizzati. Dovrai eliminarli.
+1. Nella console (passaggio 4), seleziona **Pulsanti**. Cercare &quot;MSC&quot;. Tutti i pulsanti disattivati sono stati aggiunti alla sezione dei pulsanti personalizzati. Dovrai eliminarli.
 
    ![](assets/uninstall-salesforce-classic-customization-package-7.png)
 
@@ -59,7 +59,7 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
    ![](assets/uninstall-salesforce-classic-customization-package-8.png)
 
-1. Clic **Salvataggio rapido** al termine.
+1. Al termine, fai clic su **Salvataggio rapido**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-9.png)
 
@@ -69,27 +69,27 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
    ![](assets/uninstall-salesforce-classic-customization-package-10.png)
 
-1. Selezionare i campi Sales Connect nell&#39;area Campi selezionati e fare clic sulla freccia Rimuovi. Clic **OK** al termine.
+1. Selezionare i campi Sales Connect nell&#39;area Campi selezionati e fare clic sulla freccia Rimuovi. Al termine, fai clic su **OK**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-11.png)
 
    >[!NOTE]
    >
-   >L’abbreviazione MSE _è_ Sales Connect È solo il nome precedente, &quot;Marketo Sales Engage&quot;.
+   >L&#39;abbreviazione MSE _è_ Sales Connect. È solo il nome precedente, &quot;Marketo Sales Engage&quot;.
 
-1. Clic **Salva** al termine della pagina Lead.
+1. Fai clic su **Salva** quando hai finito con la pagina Lead.
 
 ## Rimuovi pulsanti di azione in blocco Sales Connect dalla vista Elenco lead {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. Nella barra di navigazione a sinistra, in Genera, espandi (ma non fai clic su) Personalizza, quindi Lead. Quindi, seleziona **Cerca layout**.
+1. Nella barra di navigazione a sinistra, in Genera, espandi (ma non fai clic su) Personalizza, quindi Lead. Quindi, selezionare **Cerca layout**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-12.png)
 
-1. Accanto alla visualizzazione elenco lead, fai clic su **Modifica**.
+1. Accanto alla visualizzazione elenco lead, fare clic su **Modifica**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-13.png)
 
-1. Seleziona **Aggiungi a campagna MSC (classica)**, **E-mail con MSC (Classic)**, e **Push a MSC (Classic)** e fare clic sulla freccia Rimuovi. Quindi fai clic su **Salva**.
+1. Selezionare **Aggiungi a campagna MSC (classica)**, **Invia e-mail con MSC (classica)** e **Invia a MSC (classica)** e fare clic sulla freccia Rimuovi. Quindi fai clic su **Salva**.
 
    ![](assets/uninstall-salesforce-classic-customization-package-14.png)
 
@@ -97,7 +97,7 @@ I pulsanti non dovrebbero più essere visualizzati nella vista elenco lead.
 
 ## Rimuovi configurazione MSC per contatti {#remove-msc-configuration-for-contacts}
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fare clic su **Configurazione**.
 
 1. Nella barra di navigazione a sinistra, in Genera, espandi (ma non fai clic su) Personalizza, quindi Contatti. Quindi, seleziona **Layout di pagina**.
 
@@ -107,11 +107,11 @@ I pulsanti non dovrebbero più essere visualizzati nella vista elenco lead.
 
 ## Rimuovi configurazione MSC per opportunità {#remove-msc-configuration-for-opportunity}
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fare clic su **Configurazione**.
 
 1. Nella barra di navigazione a sinistra, in Genera, espandi (ma non fai clic su) Personalizza, quindi Opportunità. Quindi, seleziona **Layout di pagina**.
 
-1. Accanto a Layout opportunità, fai clic su **Modifica**.
+1. Accanto a Layout opportunità fare clic su **Modifica**.
 
 1. Ripeti i passaggi da tutte e tre le sezioni.
 
@@ -121,11 +121,11 @@ La visualizzazione dell’opportunità dispone di un solo pulsante: &quot;Invia 
 
 ## Rimuovi configurazione MSC per l&#39;account {#remove-msc-configuration-for-account}
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fare clic su **Configurazione**.
 
 1. Nella barra di navigazione a sinistra, in Genera, espandi (ma non fare clic su) Personalizza, quindi Account. Quindi, seleziona **Layout di pagina**.
 
-1. Accanto a Layout account, fai clic su **Modifica**.
+1. Accanto a Layout account, fare clic su **Modifica**.
 
 1. Ripeti i passaggi da tutte e tre le sezioni.
 
@@ -135,9 +135,9 @@ La visualizzazione Account include un solo pulsante: &quot;Invia e-mail MSE&quot
 
 ## Rimuovi Marketo Sales Outbox {#remove-marketo-sales-outbox}
 
-1. In Salesforce, fai clic su **+** nella parte superiore dello schermo.
+1. In Salesforce, fai clic sulla scheda **+** nella parte superiore dello schermo.
 
-1. Clic **Personalizza schede personali**.
+1. Fare clic su **Personalizza schede personali**.
 
 1. Selezionare l&#39;opzione Marketo Sales Outbox a destra. Fare clic sulla freccia Rimuovi, quindi su **Salva**.
 
@@ -145,11 +145,11 @@ La visualizzazione Account include un solo pulsante: &quot;Invia e-mail MSE&quot
 
 Dopo aver rimosso tutti gli oggetti dal tuo account Salesforce, segui i passaggi indicati di seguito.
 
-1. In Salesforce, fai clic su **Configurazione**.
+1. In Salesforce, fare clic su **Configurazione**.
 
 1. Nella casella Ricerca rapida immettere &quot;Classi apex&quot;.
 
-1. Clic **Elimina** accanto a tutte le voci &quot;MarketoSalesConnectionCustomization&quot; o &quot;MarketoSalesEngageCustomization&quot; dell&#39;elenco.
+1. Fai clic su **Elimina** accanto a tutte le voci &quot;MarketoSalesConnectionCustomization&quot; o &quot;MarketoSalesEngageCustomization&quot; nel tuo elenco.
 
 È tutto pronto!
 
@@ -282,8 +282,8 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>Testo</td>
  </tr>
  <tr>
-  <td>MSC - Ultima origine del coinvolgimento marketing</td>
-  <td>Origine del coinvolgimento marketing</td>
+  <td>MSC - Ultimo Source di coinvolgimento marketing</td>
+  <td>Source del coinvolgimento nel marketing</td>
   <td>
   <p>Account 
   <p>Contatto 

@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Modifica l&#39;etichetta Predefinita Da e-mail e Da {#change-the-default-from-email-and-from-label}
 
-Ogni utente amministratore può modificare i valori predefiniti per **[!UICONTROL Da e-mail]** e **[!UICONTROL Etichetta Da]** in modo che, quando vengono create nuove e-mail, vengano utilizzate queste impostazioni predefinite.
+Ogni utente amministratore ha la possibilità di modificare i valori predefiniti per **[!UICONTROL Da e-mail]** e **[!UICONTROL Da etichetta]** in modo che, quando crea nuove e-mail, vengano utilizzate le impostazioni predefinite.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** sezione.
+1. Vai alla sezione **[!UICONTROL Amministratore]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Immettere i valori predefiniti desiderati per **[!UICONTROL Da e-mail]** e **[!UICONTROL Etichetta Da]** quindi fai clic su **[!UICONTROL Salva modifiche]**.
+1. Immettere i valori predefiniti desiderati per **[!UICONTROL Da e-mail]** e **[!UICONTROL Da etichetta]**, quindi fare clic su **[!UICONTROL Salva modifiche]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

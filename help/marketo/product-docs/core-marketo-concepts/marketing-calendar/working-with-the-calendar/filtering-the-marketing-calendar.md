@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le informazioni visualizzate nel calendario.
 
-1. Fai clic su **[!UICONTROL Calendario]** affiancare.
+1. Fare clic sul riquadro **[!UICONTROL Calendario]**.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Fai clic su **[!UICONTROL Tipo di voce]** a discesa.
+1. Fare clic sul menu a discesa **[!UICONTROL Tipo di voce]**.
 
    >[!NOTE]
    >
-   >I tipi di voce predefiniti saranno **[!UICONTROL E-mail]** **[!UICONTROL Programmi]** e **[!UICONTROL Campagne intelligenti con e-mail]**.
+   >I tipi di voce predefiniti saranno **[!UICONTROL E-mail]** **[!UICONTROL Programmi]** e **[!UICONTROL Campagne avanzate con e-mail]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
@@ -33,7 +33,7 @@ Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le infor
 
    >[!TIP]
    >
-   >Per le descrizioni dei tipi di voce standard, estrarre [Tipi di voci di visualizzazione della programmazione](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Per le descrizioni dei tipi di voce standard, consultare [Tipi di voce per la visualizzazione della pianificazione dei programmi](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Seleziona i tag del programma che ti interessano.
 

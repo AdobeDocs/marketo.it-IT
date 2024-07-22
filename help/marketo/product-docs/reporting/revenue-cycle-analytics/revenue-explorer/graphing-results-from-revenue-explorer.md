@@ -6,7 +6,7 @@ exl-id: 628d1c9d-f636-4d67-8685-87edb3a5fb8b
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Per impostazione predefinita, i rapporti in Esplora entrate vengono visualizzati sotto forma di tabella. È inoltre possibile visualizzare i risultati sotto forma di grafico in vari formati.
 
-1. Fare clic sulla freccia nella **Visualizza come** menu a discesa del rapporto. Verranno visualizzate diverse opzioni di grafica.
+1. Fare clic sulla freccia nel menu a discesa **Visualizza come** del report. Verranno visualizzate diverse opzioni di grafica.
 
    ![](assets/one-1.png)
 
 ## Esempi di grafici {#graph-examples}
 
-**Colonna**: ogni riga e colonna della tabella viene visualizzata come una colonna verticale.
+**Colonna**: ogni riga e colonna della tabella viene visualizzata come colonna verticale.
 
 ![](assets/column.png)
 
@@ -29,19 +29,19 @@ Per impostazione predefinita, i rapporti in Esplora entrate vengono visualizzati
 
 ![](assets/stacked-column.png)
 
-**Istogramma in pila 100%**: ogni riga della tabella ha una colonna nel grafico ed è ridimensionata al 100%.
+**Colonna in pila 100%**: ogni riga della tabella ha una colonna nel grafico ed è ridimensionata al 100%.
 
 ![](assets/100-stacked-column.png)
 
-**Linea**: ogni colonna viene visualizzata come una riga e ogni riga come punto dati sulla riga.
+**Riga**: ogni colonna viene visualizzata come una riga e ogni riga come punto dati sulla riga.
 
 ![](assets/line.png)
 
-**Casella combinata riga colonna**: combinazione di grafici a colonne e a linee.
+**Combinazione righe colonna**: combinazione di grafici a colonne e a linee.
 
 ![](assets/column-line-combo.png)
 
-**Barre**: ogni riga e colonna della tabella viene visualizzata come una barra orizzontale.
+**Barra**: ogni riga e colonna della tabella viene visualizzata come una barra orizzontale.
 
 ![](assets/bar.png)
 
@@ -53,7 +53,7 @@ Per impostazione predefinita, i rapporti in Esplora entrate vengono visualizzati
 
 ![](assets/100-stacked-bar.png)
 
-**Superfici**: i dati vengono visualizzati in modo simile alle barre in pila ma vengono compilati.
+**Area**: i dati sono visualizzati in modo simile alle barre in pila ma sono stati compilati.
 
 ![](assets/area.png)
 
@@ -65,7 +65,7 @@ Per impostazione predefinita, i rapporti in Esplora entrate vengono visualizzati
 
 ![](assets/sunburst.png)
 
-**A dispersione**: bolle in base agli attributi utilizzati. Utilizza le misure per codificare il colore della bolla e/o determinarne le dimensioni.
+**Dispersione**: bolle basate sugli attributi utilizzati. Utilizza le misure per codificare il colore della bolla e/o determinarne le dimensioni.
 
 ![](assets/scatter.png)
 

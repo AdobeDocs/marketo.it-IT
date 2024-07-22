@@ -25,21 +25,21 @@ Selezionata per impostazione predefinita, questa opzione visualizza semplicement
 
 Specifica un ritardo (in secondi totali) per la reazione delle campagne web sul tuo sito web.
 
-1. Fai clic su **Visualizza su** a discesa e selezionare **Ritardo**.
+1. Fai clic sul menu a discesa **Visualizza su** e seleziona **Ritarda**.
 
    ![](assets/d1.png)
 
-1. Fai clic su **Wait** e selezionare la quantità di tempo desiderata.
+1. Fai clic sul menu a discesa **Attendi** e seleziona la quantità di tempo desiderata.
 
    ![](assets/d2.png)
 
 ## Scorri {#scroll}
 
-1. Fai clic su **Visualizza su** a discesa e selezionare **Scorri**.
+1. Fai clic sul menu a discesa **Visualizza su** e seleziona **Scorri**.
 
    ![](assets/s1.png)
 
-1. Fai clic su **Quando** e seleziona quando visualizzare la campagna web.
+1. Fai clic sul menu a discesa **Quando** e seleziona quando desideri visualizzare la campagna Web.
 
    ![](assets/s2.png)
 
@@ -64,7 +64,7 @@ Specifica un ritardo (in secondi totali) per la reazione delle campagne web sul 
 
 L’intento di uscita visualizza la campagna web all’uscita del cursore del mouse dal browser.
 
-1. Fai clic su **Visualizza su** a discesa e selezionare **Intento di uscita**.
+1. Fai clic sul menu a discesa **Visualizza su** e seleziona **Intenzione di uscita**.
 
    ![](assets/ei1.png)
 
@@ -74,4 +74,4 @@ L’intento di uscita visualizza la campagna web all’uscita del cursore del mo
 
 >[!TIP]
 >
->Vuoi vedere come appariranno gli effetti prescelti in anticipo? Effettuare il check-out tramite un [Anteprima campagna web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).
+>Vuoi vedere come appariranno gli effetti prescelti in anticipo? Estrarre i file tramite una [anteprima campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md).

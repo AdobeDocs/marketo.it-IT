@@ -19,19 +19,19 @@ Se un visitatore è cookie (persona nota che ha fornito un indirizzo e-mail in p
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Sotto **Attività di marketing**, seleziona il modulo e fai clic su **Modifica modulo**.
+1. In **Attività di marketing**, seleziona il modulo e fai clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. Sotto **Impostazioni modulo**, fai clic su **Impostazioni**.
+1. In **Impostazioni modulo**, fai clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Imposta se **Visitatore noto, Mostra**: a **Personalizza HTML**.
+1. Imposta Se **Visitatore Noto, Mostra**: a **HTML Personalizzato**.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Fai clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare **Personalizza HTML** sarà mostrato a persone conosciute.
+1. Fai clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare **HTML personalizzati** che verranno mostrati a persone note.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
@@ -52,11 +52,11 @@ Se un visitatore è cookie (persona nota che ha fornito un indirizzo e-mail in p
    >
    >È possibile utilizzare solo i quattro token indicati sopra. Qualsiasi altro token non funzionerà qui.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    >[!NOTE]
    >
@@ -66,7 +66,7 @@ Se un visitatore è cookie (persona nota che ha fornito un indirizzo e-mail in p
 
    >[!NOTE]
    >
-   >Ricorda a [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
+   >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
    Un pezzo di torta! Scopri cosa vedrebbe una persona se tornasse allo stesso modulo:
 

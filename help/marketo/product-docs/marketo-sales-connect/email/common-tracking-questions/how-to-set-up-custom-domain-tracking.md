@@ -6,7 +6,7 @@ exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 Ti diamo la possibilità di configurare il tracciamento del dominio personalizzato per i tuoi collegamenti, in modo che quando qualcuno passa il mouse su un collegamento, legga &quot;go.yourcompany.com&quot; invece di &quot;go.toutapp.com&quot;.
 
-Per effettuare questa configurazione, l&#39;amministratore IT deve seguire i passaggi elencati in [pagina delle impostazioni](https://toutapp.com/custom_tracking_domain).
+Per configurare questa impostazione, l&#39;amministratore IT deve seguire i passaggi elencati nella [pagina impostazioni](https://toutapp.com/custom_tracking_domain).
 
-Dopo aver configurato l’app, tutti i collegamenti presenti nell’e-mail verranno inseriti nell&#39;elenco Consentiti come &quot;go.yourcompany.com&quot;.
+Dopo aver configurato questa configurazione, verrà inserito nell&#39;elenco Consentiti come &quot;go.yourcompany.com&quot; qualsiasi collegamento presente nell’e-mail.

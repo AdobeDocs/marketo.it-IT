@@ -1,5 +1,5 @@
 ---
-description: Progettazione flussi - Documentazione di Marketo - Documentazione del prodotto
+description: Streaming Designer - Documentazione Marketo - Documentazione del prodotto
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
@@ -12,15 +12,15 @@ ht-degree: 2%
 
 # Designer flusso {#stream-designer}
 
-Ci sono _molti_ combinazioni di flusso possibili. Questo articolo contiene un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha domande sul prodotto. In caso affermativo, il visitatore può pianificare un appuntamento. In caso negativo, il visitatore ha la possibilità di iscriversi a una mailing list per la corrispondenza futura. Viene anche offerto loro un PDF gratuito. L’obiettivo finale è pianificare un appuntamento o raccogliere l’e-mail del visitatore.
+Sono possibili _molte_ combinazioni di flusso. Questo articolo contiene un esempio in cui l’addetto al marketing chiede al visitatore del sito se ha domande sul prodotto. In caso affermativo, il visitatore può pianificare un appuntamento. In caso negativo, il visitatore ha la possibilità di iscriversi a una mailing list per la corrispondenza futura. Viene anche offerto loro un PDF gratuito. L’obiettivo finale è pianificare un appuntamento o raccogliere l’e-mail del visitatore.
 
 >[!PREREQUISITES]
 >
->Prima di poter utilizzare la scheda Documento, è necessario [configurarlo](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} nel tuo account di Adobe.
+>Prima di poter utilizzare la scheda Documento, devi prima [configurarla](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} nel tuo account di Adobe.
 
-## Schede di Stream Designer {#stream-designer-cards}
+## Trasmetti schede Designer {#stream-designer-cards}
 
-Progettazione flussi contiene più schede che è possibile aggiungere per modellare la conversazione chat.
+Il Designer Stream contiene più schede che è possibile aggiungere per modellare la conversazione chat.
 
 <table>
  <tr>
@@ -42,7 +42,7 @@ Progettazione flussi contiene più schede che è possibile aggiungere per modell
  </tr>
  <tr>
   <td style="width:25%"><strong>Prenotazione riunione</strong></td>
-  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, un agente specifico o utilizzando regole personalizzate. Clic <b>Aggiungi attributo</b> se desideri acquisire il nome o l’indirizzo e-mail dell’agente e assegnarlo al record persona del visitatore della chat per eseguire query future (suggerimento: creare un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizzato</a> per mappare le informazioni dell’agente su in modo da non sovrascrivere un campo di Marketo Engage standard).</td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, un agente specifico o utilizzando regole personalizzate. Fai clic su <b>Aggiungi attributo</b> se desideri acquisire il nome o l'indirizzo e-mail dell'agente e assegnarlo al record della persona del visitatore della chat per eseguire query future (suggerimento: crea un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizzato</a> per mappare le informazioni dell'agente su in modo che non sovrascriva un campo di Marketo Engage standard).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Obiettivo</strong></td>
@@ -50,7 +50,7 @@ Progettazione flussi contiene più schede che è possibile aggiungere per modell
  </tr>
  <tr>
   <td style="width:25%"><strong>Azione*</strong></td>
-  <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell’azienda (che presenta un <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">tipo di dati string</a>) con valori impliciti che si desidera acquisire in base a un record lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.
+  <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell'azienda (con tipo di dati <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string</a>) con valori impliciti che si desidera acquisire in base a un record del lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.
   <p><i>* Questa scheda richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).</i></td>
  </tr>
  <tr>
@@ -74,9 +74,9 @@ Progettazione flussi contiene più schede che è possibile aggiungere per modell
  </tr>
 </table>
 
-## Icone di Stream Designer {#stream-designer-icons}
+## Icone Streaming Designer {#stream-designer-icons}
 
-In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco cosa fanno.
+In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fanno.
 
 <table>
  <tr>
@@ -103,57 +103,57 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
 ## Creare un flusso {#create-a-stream}
 
-È possibile creare flussi per le finestre di dialogo o [Forms per conversazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In questo esempio ne creeremo uno per un dialogo.
+È possibile creare flussi per le finestre di dialogo o [Forms conversational](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In questo esempio ne creeremo uno per un dialogo.
 
-1. Dopo aver [ha creato il tuo dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, fare clic su **[!UICONTROL Progettazione flussi]** scheda.
+1. Dopo aver [creato la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, fare clic sulla scheda **[!UICONTROL Stream Designer]**.
 
    ![](assets/stream-designer-6.png)
 
-1. Trascina la [!UICONTROL Domanda] Card.
+1. Trascina la scheda [!UICONTROL Domanda].
 
    ![](assets/stream-designer-7.png)
 
-1. Sotto [!UICONTROL Risposta Chatbot], digita la tua domanda come desideri.
+1. In [!UICONTROL Risposta chatbot], invia una parola con la tua domanda.
 
    ![](assets/stream-designer-8.png)
 
    >[!TIP]
    >
-   >Puoi personalizzare l’esperienza per i visitatori della chat conosciuti utilizzando dei token (es: Hello `{{lead.leadFirstName:""}}`). Fai clic sull’icona della parentesi graffa a destra ed effettua la selezione. Aggiungi un valore predefinito tra le virgolette se vuoi che i visitatori anonimi vedano qualcosa di generico (es: Hello `{{lead.leadFirstName:"there"}}`).
+   >Puoi personalizzare l&#39;esperienza per i visitatori della chat conosciuti utilizzando dei token (esempio: Hello `{{lead.leadFirstName:""}}`). Fai clic sull’icona della parentesi graffa a destra ed effettua la selezione. Aggiungere un valore predefinito tra le virgolette se si desidera che i visitatori anonimi visualizzino un elemento generico (ad esempio, Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
    >Poke è impostato su on per impostazione predefinita, il che mostra la domanda di apertura accanto all’icona della chat senza che il visitatore debba fare clic su di essa per visualizzarla. Poke è disponibile solo sulla prima scheda della conversazione.
 
-1. Inserisci le risposte utente e fai clic su **[!UICONTROL Salva]**.
+1. Immetti le risposte utente e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Modifica valori memorizzati]** è un passaggio facoltativo per coloro che desiderano memorizzare nel database un valore diverso da quello visualizzato ai visitatori nel chatbot per gli attributi mappati nella scheda Domanda (ad esempio, il visitatore vede &quot;Ottimizzazione del motore di ricerca&quot; e il valore viene memorizzato come &quot;SEO&quot;).
+   >**[!UICONTROL Modifica valori memorizzati]** è un passaggio facoltativo per coloro che desiderano memorizzare nel database un valore diverso da quello visualizzato ai visitatori nel chatbot per gli attributi mappati nella scheda Domanda (ad esempio: il visitatore vede &quot;Ottimizzazione motore di ricerca&quot;, il valore viene memorizzato come &quot;SEO&quot;).
 
 1. Se si seleziona &quot;Sì&quot; si desidera pianificare un appuntamento, quindi trascinare l&#39;opzione nella scheda Programmazione appuntamenti.
 
    ![](assets/stream-designer-10.png)
 
-1. Nella colonna a destra, fai clic su **[!UICONTROL Salva]**.
+1. Nella colonna di destra fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Poiché si tratta di un obiettivo, trascina [!UICONTROL Obiettivo] sotto l&#39;Utilità di pianificazione appuntamenti.
+1. Poiché si tratta di un obiettivo, trascina la scheda [!UICONTROL Obiettivo] sotto l&#39;Utilità di pianificazione appuntamenti.
 
    ![](assets/stream-designer-12.png)
 
-1. Assegna un nome all’obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Salva]**.
+1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi sotto quell&#39;opzione trascinare su un altro [!UICONTROL Domanda] Card.
+1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi di seguito quell&#39;opzione trascina su un&#39;altra scheda [!UICONTROL Domanda].
 
    ![](assets/stream-designer-14.png)
 
-1. Inserisci la risposta e aggiungi le scelte di risposta per il visitatore. Clic **[!UICONTROL Salva]** al termine.
+1. Inserisci la risposta e aggiungi le scelte di risposta per il visitatore. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-15.png)
 
@@ -165,11 +165,11 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
    ![](assets/stream-designer-16.png)
 
-1. Fai clic su **[!UICONTROL Tipo]** a discesa e selezionare **[!UICONTROL E-mail]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Tipo]** e seleziona **[!UICONTROL E-mail]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Inserisci un messaggio chatbot e un segnaposto. Assicurati che l’attributo sia mappato al campo appropriato nel Marketo Engage e fai clic su **[!UICONTROL Salva]**.
+1. Inserisci un messaggio chatbot e un segnaposto. Assicurarsi che l&#39;attributo sia mappato al campo appropriato nel Marketo Engage e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -192,11 +192,11 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
     </tr>
    </table>
 
-1. Poiché la raccolta delle e-mail è un obiettivo, trascina [!UICONTROL Obiettivo] sotto Info Capture.
+1. Poiché la raccolta dell&#39;e-mail è un obiettivo, trascina la scheda [!UICONTROL Obiettivo] sotto Info Capture (Acquisizione informazioni).
 
    ![](assets/stream-designer-19.png)
 
-1. Assegna un nome all’obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Salva]**.
+1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-20.png)
 
@@ -204,24 +204,24 @@ In alto a destra in Progettazione flussi sono visualizzate alcune icone. Ecco co
 
    ![](assets/stream-designer-21.png)
 
-1. In questo esempio verrà creato un nuovo documento. Assegna un nome, immetti l’URL del PDF che hai già ospitato e fai clic su **[!UICONTROL Salva]**.
+1. In questo esempio verrà creato un nuovo documento. Assegnagli un nome, immetti l&#39;URL del PDF che hai già ospitato e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Seleziona la **[!UICONTROL Anteprima]** attiva per visualizzare l’anteprima della finestra di dialogo.
+1. Seleziona l&#39;interruttore **[!UICONTROL Anteprima]** per visualizzare l&#39;anteprima della finestra di dialogo.
 
    ![](assets/stream-designer-23.png)
 
-1. Quando sei pronto ad attivare la tua finestra di dialogo, fai clic su **[!UICONTROL Pubblica]**.
+1. Quando sei pronto ad attivare la tua finestra di dialogo, fai clic su **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-24.png)
 
 >[!NOTE]
 >
->Prima di fare clic [!UICONTROL Pubblica], ricorda di assicurarti di aver [ha inserito gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Prima di fare clic su [!UICONTROL Publish], ricordati di assicurarti di avere [immesso gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Creare una finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Criteri di pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [API di incorporamento Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}
+>* [Crea un dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Criteri pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [API per l&#39;incorporamento di Adobe PDF](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"}

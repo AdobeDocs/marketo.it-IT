@@ -25,7 +25,7 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 
 >[!IMPORTANT]
 >
->**Questo sostituirà** il [disponibilità live chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} è stato stabilito in Impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
+>**L&#39;operazione sovrascriverà** la [disponibilità chat in tempo reale](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} stabilita nelle impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 
 ## Notifiche chat in diretta {#live-chat-notifications}
 
-Per ulteriori informazioni sulle notifiche, consulta [Panoramica chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Ulteriori informazioni sulle notifiche nella [Panoramica chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversazioni {#conversations}
 
@@ -75,7 +75,7 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 
    ![](assets/agent-inbox-8.png)
 
-1. Scegli il calendario agente desiderato e fai clic su **Invia**.
+1. Scegli il calendario dell&#39;agente desiderato e fai clic su **Invia**.
 
    ![](assets/agent-inbox-9.png)
 

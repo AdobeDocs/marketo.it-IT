@@ -17,17 +17,17 @@ L’aggiunta di un account denominato a un elenco di account è semplice.
 
 >[!NOTE]
 >
->Questo vale solo per gli elenchi di account, **non** Elenchi di account dinamici.
+>Questo vale solo per gli elenchi account, **not** elenchi account dinamici.
 
 1. Selezionare la riga dell&#39;account denominato che si desidera aggiungere.
 
    ![](assets/four-1.png)
 
-1. Fai clic su **Azioni account denominate** a discesa e selezionare **Aggiungi a elenco account**.
+1. Fai clic sul menu a discesa **Azioni account denominate** e seleziona **Aggiungi all&#39;elenco account**.
 
    ![](assets/five-1.png)
 
-1. Fai clic su **Elenco account** , selezionare l&#39;elenco di account desiderato e fare clic su **Aggiungi**.
+1. Fare clic sull&#39;elenco a discesa **Elenco account**, selezionare l&#39;elenco account desiderato e fare clic su **Aggiungi**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ L’aggiunta di un account denominato a un elenco di account è semplice.
 
 >[!MORELIKETHIS]
 >
->[Creare un account denominato](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Crea un account denominato](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

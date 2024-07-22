@@ -18,11 +18,11 @@ In qualità di Amministratore, puoi visualizzare le campagne come qualsiasi uten
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nell’applicazione web, fai clic su **Campagne**.
+1. Nell&#39;applicazione Web, fare clic su **Campagne**.
 
    ![](assets/view-campaigns-list-as-another-user-1.png)
 
-1. Fai clic su **Visualizza come** e selezionare l&#39;utente desiderato.
+1. Fare clic sul menu a discesa **Visualizza come** e selezionare l&#39;utente desiderato.
 
    ![](assets/view-campaigns-list-as-another-user-2.png)
 

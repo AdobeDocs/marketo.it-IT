@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,15 +25,15 @@ Per impedire agli utenti di CRM di modificare i modelli di vendita, gli amminist
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore**, quindi fai clic su **Insight sulle vendite**.
+1. Vai a **Amministratore**, quindi fai clic su **Insight vendite**.
 
    ![](assets/1.png)
 
-1. Sotto **Impostazioni**, fai clic su **Modifica**.
+1. In **Impostazioni**, fare clic su **Modifica**.
 
    ![](assets/2.png)
 
-1. Verifica **Abilita la possibilità di bloccare i modelli**. Clic **Salva**.
+1. Seleziona **Abilita la possibilità di bloccare i modelli**. Fai clic su **Salva**.
 
    ![](assets/image2017-10-9-8-3a19-3a45.png)
 
@@ -43,19 +43,19 @@ Per impedire agli utenti di CRM di modificare i modelli di vendita, gli amminist
 
 >[!NOTE]
 >
->La modifica di questa impostazione come amministratore **non** influisce retroattivamente sui modelli esistenti, ovvero non li blocca automaticamente.
+>La modifica di questa impostazione come amministratore **non** influirà retroattivamente sui modelli esistenti, ovvero non li bloccherà automaticamente.
 
 ## Blocca modello nell’editor e-mail {#lock-template-in-the-email-editor}
 
-1. Seleziona l’e-mail da bloccare, quindi fai clic su **Modifica bozza**.
+1. Seleziona l&#39;e-mail che desideri bloccare, quindi fai clic su **Modifica bozza**.
 
    ![](assets/5.png)
 
-1. Nell’editor e-mail, fai clic su **Impostazioni e-mail**.
+1. Nell&#39;editor di posta elettronica fare clic su **Impostazioni posta elettronica**.
 
    ![](assets/6.png)
 
-1. Verifica **Pubblica su Marketo Sales Insight** se non è già selezionato. Ora puoi deselezionare **Consenti all&#39;utente CRM di modificare l&#39;e-mail** per bloccare il modello. Clic **Salva**.
+1. Selezionare **Publish in Marketo Sales Insight** se non è già selezionato. È ora possibile deselezionare **Consenti all&#39;utente di CRM di modificare l&#39;e-mail** per bloccare il modello. Fai clic su **Salva**.
 
    ![](assets/7.png)
 

@@ -7,7 +7,7 @@ feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
-1. Fai clic su **+** firma.
+1. Fai clic sul segno **+**.
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Seleziona **Rich Text**.
+1. Seleziona **Testo formattato**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
    >
    >Se nel modulo è necessario un separatore di linea, utilizzare il pulsante Linea orizzontale.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 
@@ -57,4 +57,4 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 
 >[!TIP]
 >
->Lo sapevi che puoi anche [aggiungi regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) in un blocco rich text?
+>Sapevi che puoi anche [aggiungere regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md) a un blocco di testo RTF?

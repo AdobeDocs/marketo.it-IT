@@ -6,18 +6,18 @@ exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# SEO: comprendere [!UICONTROL Parole chiave] {#seo-understanding-keywords}
+# SEO - Informazioni su [!UICONTROL Parole chiave] {#seo-understanding-keywords}
 
-[!UICONTROL Parole chiave] sono la spina dorsale della tua strategia SEO (Search Engine Optimization). Il tuo obiettivo è di essere sulla prima pagina, il più vicino #1 possibile per parole chiave rilevanti per la tua azienda.
+[!UICONTROL Le parole chiave] sono la spina dorsale della tua strategia SEO (Search Engine Optimization). Il tuo obiettivo è di essere sulla prima pagina, il più vicino #1 possibile per parole chiave rilevanti per la tua azienda.
 
-Il [!UICONTROL Parole chiave] mostrerà quanto il sito è riuscito a raggiungere questo obiettivo e come si accumulano fino a [la concorrenza](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
+La sezione [!UICONTROL Parole chiave] ti mostrerà quanto il tuo sito sia riuscito a raggiungere questo obiettivo e come puoi impilare fino a [la tua concorrenza](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 
-## [!UICONTROL Parole chiave] - Vista di riepilogo {#keywords-summary-view}
+## [!UICONTROL Parole chiave] - Visualizzazione riepilogo {#keywords-summary-view}
 
 ![](assets/image2014-9-17-21-3a44-3a25.png)
 
@@ -35,7 +35,7 @@ Il [!UICONTROL Parole chiave] mostrerà quanto il sito è riuscito a raggiungere
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">Classificazione e tendenze</span></td> 
-   <td colspan="1" rowspan="1"><p>La classificazione del sito per questa parola chiave. Le frecce mostrano la tendenza della classificazione delle parole chiave rispetto alla settimana precedente </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rango superiore</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rango inferiore</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= rango uguale</p></td> 
+   <td colspan="1" rowspan="1"><p>La classificazione del sito per questa parola chiave. Le frecce mostrano la tendenza della classificazione delle parole chiave rispetto alla settimana precedente </p><p><img alt="—" src="assets/image2015-5-11-15-3a24-3a6.png" data-linked-resource-id="7514508" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">  = rango superiore</p><p><img alt="--" src="assets/image2015-5-11-15-3a18-3a3.png" data-linked-resource-id="7514505" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--"> = rango inferiore</p><p> <img alt="--" src="assets/image2015-5-11-15-3a23-3a44.png" data-linked-resource-id="7514507" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="2949182" title="--">= classifica uguale</p></td> 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><span class="uicontrol">Livello di concorrenza</span></td> 
@@ -56,13 +56,13 @@ Il [!UICONTROL Parole chiave] mostrerà quanto il sito è riuscito a raggiungere
 >
 >I dati vengono visualizzati solo per le parole chiave con classificazione da 1 a 100.
 
-## [!UICONTROL Parole chiave] - Visualizzazione della concorrenza {#keywords-competitor-view}
+## [!UICONTROL Parole chiave] - Visualizzazione per la concorrenza {#keywords-competitor-view}
 
 Puoi anche visualizzare le prestazioni dei tuoi concorrenti utilizzando le stesse metriche facendo clic sul menu a discesa Visualizza e selezionando i concorrenti.
 
 ![](assets/image2014-9-17-21-3a44-3a45.png)
 
-Fantastico! Ora che hai compreso [!UICONTROL Parole chiave] sezione, scopri le pagine e i collegamenti in entrata.
+Fantastico! Ora che conosci la sezione [!UICONTROL Parole chiave], scopri le pagine e i collegamenti in entrata.
 
 >[!MORELIKETHIS]
 >

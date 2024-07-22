@@ -6,7 +6,7 @@ exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Le aziende possono avere più divisioni e filiali. Tali società spesso si organ
 
 Con le gerarchie TAM è possibile ottenere rapidamente informazioni su un&#39;intera gerarchia o su singoli account nel dashboard Conti denominati.
 
-**Gerarchia non utilizzata**
+**Gerarchia non in uso**
 
 ![](assets/before.png)
 
@@ -35,6 +35,6 @@ Con le gerarchie TAM è possibile ottenere rapidamente informazioni su un&#39;in
 >
 >L’interfaccia di Marketo mostrerà solo fino a 10 livelli di sotto (account figlio e nipote dell’account padre), tuttavia non esiste alcun limite al numero di account figlio che è possibile creare.
 
-Eseguire il targeting e creare rapporti su intere gerarchie con [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
+Esegui il targeting e crea rapporti su intere gerarchie con [un clic](/help/marketo/product-docs/target-account-management/engage/account-filters.md#member-of-named-account).
 
 ![](assets/member.png)

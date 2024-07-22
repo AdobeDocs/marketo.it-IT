@@ -24,7 +24,7 @@ Quando un amministratore invita un utente, quest’ultimo viene verificato autom
 
 >[!IMPORTANT]
 >
->L’eccezione a quanto sopra è, _in un abbonamento solo SSO_, gli amministratori riceveranno un nuovo invito utente, ma gli utenti non amministratori no. Gli utenti che non sono amministratori devono comunque seguire il processo di verifica e-mail per garantire la migrazione dei propri record. Gli utenti possono inviare a se stessi il collegamento di verifica e-mail andando in **Amministratore** > **Il mio account** > **Impostazioni account** e clic **Invia di nuovo la verifica**.
+>L&#39;eccezione a quanto sopra è _in una sottoscrizione di sola SSO_, gli amministratori riceveranno un nuovo invito utente, ma gli utenti non amministratori non lo riceveranno. Gli utenti che non sono amministratori devono comunque seguire il processo di verifica e-mail per garantire la migrazione dei propri record. Gli utenti possono inviarsi il collegamento di verifica tramite posta elettronica da **Amministratore** > **Il mio account** > **Impostazioni account** e facendo clic su **Invia di nuovo verifica**.
 
 ![](assets/email-verification-1.png)
 
@@ -32,17 +32,17 @@ Quando un amministratore invita un utente, quest’ultimo viene verificato autom
 
 Gli utenti riceveranno l’e-mail seguente quando la verifica e-mail viene attivata per un abbonamento o se è attivata da un amministratore/utente.
 
-Per il completamento della verifica e-mail è necessaria una sessione utente attiva. L’utente deve prima accedere alla sottoscrizione Marketo utilizzando il proprio URL del provider di identità (IdP). Una volta stabilita una sessione, _allora_ fai clic su **Verifica indirizzo e-mail** nell’e-mail.
+Per il completamento della verifica e-mail è necessaria una sessione utente attiva. L’utente deve prima accedere alla sottoscrizione Marketo utilizzando il proprio URL del provider di identità (IdP). Una volta stabilita la sessione, _quindi_ fai clic sul collegamento **Verifica indirizzo e-mail** nell&#39;e-mail.
 
 ![](assets/email-verification-2.png)
 
 >[!TIP]
 >
->Per inviare di nuovo un messaggio e-mail di verifica a un utente non verificato, selezionane il record e fai clic su **[!UICONTROL Verifica e-mail]** pulsante.
+>Per inviare di nuovo un&#39;e-mail di verifica a un utente non verificato, selezionarne il record e fare clic sul pulsante **[!UICONTROL Verifica e-mail]**.
 
 ## Modifica di un indirizzo e-mail {#changing-an-email-address}
 
-Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare nuovamente tale e-mail facendo clic su **[!UICONTROL Invia di nuovo la verifica]**.
+Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare di nuovo manualmente l&#39;e-mail facendo clic su **[!UICONTROL Invia di nuovo verifica]**.
 
 ![](assets/email-verification-3.png)
 
@@ -50,7 +50,7 @@ Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato.
 
 ## Utenti e ruoli {#users-and-roles}
 
-In entrata **[!UICONTROL Amministratore]** > **[!UICONTROL Utenti e ruoli]**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
+In **[!UICONTROL Amministratore]** > **[!UICONTROL Utenti e ruoli]**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
 
 ![](assets/email-verification-5.png)
 

@@ -7,23 +7,23 @@ feature: Administration
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
-# Scarica [!DNL Google Adwords] Registro attività {#download-googleadwords-activity-log}
+# Scarica registro attività [!DNL Google Adwords] {#download-googleadwords-activity-log}
 
 Succede della roba. A volte è necessario scaricare il registro attività per risolvere i problemi.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/download-googleadwords-activity-log-1.png)
 
-1. Clic **[!UICONTROL LaunchPoint]**.
+1. Fare clic su **[!UICONTROL LaunchPoint]**.
 
    ![](assets/download-googleadwords-activity-log-2.png)
 
-1. Trova il [!DNL Google AdWords] servizio e clic **[!UICONTROL Scarica registro attività]**.
+1. Trova il tuo servizio [!DNL Google AdWords] e fai clic su **[!UICONTROL Scarica registro attività]**.
 
    ![](assets/download-googleadwords-activity-log-3.png)
 

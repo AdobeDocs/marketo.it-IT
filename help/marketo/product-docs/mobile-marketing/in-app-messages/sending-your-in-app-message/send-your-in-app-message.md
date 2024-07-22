@@ -20,13 +20,13 @@ Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riport
 
 1. In Attività di marketing, fai clic sulla cartella in cui desideri che viva il programma e scegli **Nuovo programma**.
 
-   ![Immagine uno](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
+   ![Immagine Uno](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-1.png)
 
 1. Immetti un nome.
 
    ![Immagine due](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-2.png)
 
-1. Seleziona il tipo di programma in-app dall’elenco a discesa e fai clic su **Crea**.
+1. Selezionare il tipo di programma in-app dall&#39;elenco a discesa e fare clic su **Crea**.
 
    ![Immagine tre](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-3.png)
 
@@ -34,4 +34,4 @@ Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riport
 
    ![Immagine quattro](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/assets/send-your-in-app-message-4.png)
 
-Pronto? Inizia con [impostazione del pubblico](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).
+Pronti? Inizia con [impostare il pubblico](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/set-your-in-app-message-audience.md).

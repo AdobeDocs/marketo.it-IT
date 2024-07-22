@@ -19,20 +19,20 @@ I valori cambiano e vengono aggiornati costantemente nel database di Marketo. A 
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/ma.png)
 
-1. Seleziona lo Smart List e fai clic su **[!UICONTROL Elenco avanzato]** scheda.
+1. Selezionare l&#39;elenco avanzato e fare clic sulla scheda **[!UICONTROL Elenco avanzato]**.
 
    ![](assets/two-1.png)
 
-1. Trova il **[!UICONTROL Valore dati modificato]** e trascinarlo nell’area di lavoro.
+1. Trovare il filtro **[!UICONTROL Valore dati modificato]** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/three-1.png)
 
-1. Imposta **[!UICONTROL Attributo]** al campo in cui desideri cercare le modifiche al valore dei dati.
+1. Imposta **[!UICONTROL Attributo]** sul campo in cui desideri cercare le modifiche al valore dei dati.
 
    ![](assets/four.png)
 
-Questo filtro cercherà tutte le persone il cui Stato è stato modificato (o modificato). Se vuoi ottenere ancora più fantasia, prova [aggiunta di un vincolo a un filtro Smart List](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.
+Questo filtro cercherà tutte le persone il cui Stato è stato modificato (o modificato). Per ottenere informazioni ancora più dettagliate, prova ad [aggiungere un vincolo a un filtro per elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"}.

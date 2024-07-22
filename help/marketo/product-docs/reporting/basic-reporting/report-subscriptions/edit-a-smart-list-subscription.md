@@ -7,7 +7,7 @@ feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni, che vie
 * Fine consegna
 * Formato
 
-1. Seleziona **Database** (lo utilizziamo in questo esempio, ma le attività di marketing funzionano esattamente nello stesso modo).
+1. Seleziona **Database** (è in uso in questo esempio, ma le attività di marketing funzionano esattamente allo stesso modo).
 
    ![](assets/db-1.png)
 
@@ -33,11 +33,11 @@ Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni, che vie
 
    ![](assets/image2015-9-14-13-3a44-3a14.png)
 
-1. Fai clic su **Frequenza** per scegliere o modificare l&#39;impostazione.
+1. Fai clic sulla colonna **Frequenza** per scegliere o modificare l&#39;impostazione.
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Apri **Colonne** e utilizza il selettore per aggiungere o rimuovere colonne dal rapporto. Colonne report contiene tutte le colonne disponibili e Colonne Marketo mostra solo quelle selezionate per la visualizzazione nel report. Clic **Salva**.
+1. Apri la colonna **Colonne** e utilizza il selettore per aggiungere o rimuovere colonne dal report. Colonne report contiene tutte le colonne disponibili e Colonne Marketo mostra solo quelle selezionate per la visualizzazione nel report. Fai clic su **Salva**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,10 +45,10 @@ Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni, che vie
    >
    >Le colonne in Colonne di Marketo sono le colonne del rapporto, non quelle utilizzate nella scheda del rapporto Sottoscrizioni.
 
-1. Fai clic su **Data di fine** per modificare la data di fine. Seleziona **Mai** o **Data**. Per una data, inseritela o sceglietela dal calendario. Clic **Approva**.
+1. Fai clic sulla colonna **Data di fine** per modificare la data di fine. Seleziona **Mai** o **Data**. Per una data, inseritela o sceglietela dal calendario. Fai clic su **Approva**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 
-1. L&#39;ultimo tassello del puzzle è il formato. Fai clic su **Formato** e selezionare quello desiderato. Il valore predefinito è CSV.
+1. L&#39;ultimo tassello del puzzle è il formato. Fare clic sulla colonna **Formato** e selezionare quella desiderata. Il valore predefinito è CSV.
 
    ![](assets/image2015-9-14-11-3a11-3a41.png)

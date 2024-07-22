@@ -6,7 +6,7 @@ exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 
 >[!NOTE]
 >
->Questo articolo si applica solo ai clienti ABM Web legacy. Se hai acquisito Web ABM dopo settembre 2016, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList) invece.
+>Questo articolo si applica solo ai clienti ABM Web legacy. Se hai acquisito Web ABM dopo settembre 2016, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
 
 ## Crea un nuovo elenco account {#create-a-new-account-list-1}
 
@@ -25,11 +25,11 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Seleziona **Crea nuovo**.
+1. Selezionare **Crea nuovo**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Seleziona **Sfoglia** e carica il file CSV (assicurati che il file CSV soddisfi i criteri). Aggiungi un **Nome** e **Descrizione**. Clic **Salva**.
+1. Seleziona **Sfoglia** e carica il file CSV (assicurati che il file CSV soddisfi i criteri). Aggiungi un **Nome** e una **Descrizione**. Fai clic su **Salva**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -48,7 +48,7 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 
    >[!NOTE]
    >
-   >**Esempio di file CSV**
+   >**Esempio del file CSV**
    >
    >* Riga 1 Colonna A valore = Organizzazione
    >* Riga 1 Colonna B valore = Dominio
@@ -64,11 +64,11 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 
 ## Modificare un elenco di account {#edit-an-account-list}
 
-Il giorno **Elenchi account** , fare clic su **Modifica** sull&#39;elenco.
+Nella pagina **Elenchi account**, fare clic sull&#39;icona **Modifica** nell&#39;elenco.
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Seleziona **Sfoglia** e carica il nuovo file CSV. Questo file sostituirà il file originale. Clic **Salva**. Il nuovo file caricato rimarrà in sospeso fino all&#39;approvazione da parte del supporto tecnico Marketo, mentre il file originale rimarrà attivo in sospeso.
+Seleziona **Sfoglia** e carica il nuovo file CSV. Questo file sostituirà il file originale. Fai clic su **Salva**. Il nuovo file caricato rimarrà in sospeso fino all&#39;approvazione da parte del supporto tecnico Marketo, mentre il file originale rimarrà attivo in sospeso.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,14 +76,14 @@ Il file CSV sostituirà il file esistente. L&#39;elenco esistente rimarrà attiv
 
 ## Eliminare un elenco di account denominati {#delete-a-named-account-list}
 
-1. Il giorno **Elenchi account** fare clic sull&#39;icona Elimina dell&#39;elenco che si desidera eliminare.
+1. Nella pagina **Elenchi account** fare clic sull&#39;icona Elimina dell&#39;elenco che si desidera eliminare.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Viene visualizzato un messaggio per confermare se si desidera eliminare l&#39;elenco. Clic **OK**.
+1. Viene visualizzato un messaggio per confermare se si desidera eliminare l&#39;elenco. Fare clic su **OK**.
 
    ![](assets/delete-notification-hand.jpg)
 
 >[!MORELIKETHIS]
 >
->[Creare un segmento utilizzando un elenco di conti](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
+>[Creare un segmento utilizzando un elenco di account](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)

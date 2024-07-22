@@ -17,7 +17,7 @@ Se, in qualsiasi momento, decidi di non voler continuare a eseguire il test e-ma
 
 >[!PREREQUISITES]
 >
->[Campione/Challenger: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
+>[Campione/Sfidante: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
 1. Vai a **Attività di marketing**.
 
@@ -27,8 +27,8 @@ Se, in qualsiasi momento, decidi di non voler continuare a eseguire il test e-ma
 
    ![](assets/champion5.jpg)
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/image2014-9-15-14-3a17-3a11.png)
 
-   Hai finito! Se decidi di impostare nuovamente un test, procedi e [aggiungi un campione/sfidante e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).
+   Hai finito! Se decidi di impostare nuovamente un test, continua e [aggiungi un campione/sfidante e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md).

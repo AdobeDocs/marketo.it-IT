@@ -6,7 +6,7 @@ exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -40,23 +40,23 @@ Le sottoscrizioni sono specifiche dell’area di lavoro. Ad esempio, questo elen
 
    ![](assets/db.png)
 
-1. Seleziona l’elenco avanzato per il quale desideri creare una sottoscrizione. Clic **Azioni elenco** e seleziona **Nuova sottoscrizione elenco avanzato**.
+1. Seleziona l’elenco avanzato per il quale desideri creare una sottoscrizione. Fai clic su **Azioni elenco** e seleziona **Nuova sottoscrizione elenco avanzato**.
 
    ![](assets/three.png)
 
-1. Assegna un abbonamento a **Nome**, quindi seleziona o inserisci gli indirizzi e-mail del **Destinatari**.
+1. Assegna un **Nome** al tuo abbonamento, quindi seleziona o immetti gli indirizzi e-mail dei **Destinatari**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Fai clic su **Frequenza** e selezionare una frequenza.
+1. Fare clic sull&#39;elenco **Frequenza** e selezionare una frequenza.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Imposta il **Fine consegna** data. Puoi selezionare **Mai** o una data del calendario.
+1. Imposta la data di **fine consegna**. Puoi selezionare **Mai** o una data del calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Clic **Formato** e scegliete dall&#39;elenco.
+1. Fai clic su **Formato** e scegli dall&#39;elenco.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
@@ -64,7 +64,7 @@ Le sottoscrizioni sono specifiche dell’area di lavoro. Ad esempio, questo elen
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Il nuovo abbonamento all’elenco avanzato viene visualizzato nella parte superiore dell’elenco nella scheda Abbonamenti. Clic **Invia** se desideri inviare ora, senza attendere la consegna dell’e-mail pianificata.
+1. Il nuovo abbonamento all’elenco avanzato viene visualizzato nella parte superiore dell’elenco nella scheda Abbonamenti. Fai clic su **Invia** se desideri inviare ora e non attendere la consegna dell&#39;e-mail pianificata.
 
    ![](assets/eight.png)
 
@@ -80,7 +80,7 @@ I destinatari riceveranno un’e-mail con l’opzione di download del rapporto e
 
 >[!NOTE]
 >
->Se il [Amministratore sottoscrizione sicura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostato su **Sì**, solo le persone con accesso all’istanza di Marketo potranno scaricare il rapporto.
+>Se l&#39;impostazione [Amministratore sottoscrizione sicura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostata su **Sì**, solo gli utenti con accesso all&#39;istanza di Marketo saranno in grado di scaricare il report.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -102,5 +102,5 @@ Per eliminare una sottoscrizione, selezionarla nella scheda sottoscrizioni e far
 
 >[!MORELIKETHIS]
 >
->* [Modificare una sottoscrizione a un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
+>* [Modifica sottoscrizione a elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
 >* [Proteggere le impostazioni di amministrazione della sottoscrizione](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)

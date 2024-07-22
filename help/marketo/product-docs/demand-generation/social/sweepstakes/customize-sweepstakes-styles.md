@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Personalizzare gli stili di Sweepstakes {#customize-sweepstakes-styles}
 
-Quando [creare una sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi personalizzarne l’aspetto sulla pagina di destinazione.
+Quando [crei una verifica](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi personalizzarne l&#39;aspetto nella pagina di destinazione.
 
 >[!AVAILABILITY]
 >
@@ -22,11 +22,11 @@ Quando [creare una sweepstakes](/help/marketo/product-docs/demand-generation/soc
 
 ![](assets/login-marketing-activities-1.png)
 
-1. Selezionate le sweepstakes e fate clic su **Modifica bozza**.
+1. Selezionare le puntate e fare clic su **Modifica bozza**.
 
    ![](assets/image2014-9-25-17-3a51-3a45.png)
 
-1. Nell’editor di punteggi, vai a **Impostazioni app** > **Aspetto**.
+1. Nell&#39;editor dei file di sweepstakes, vai a **Impostazioni app** > **Aspetto**.
 
    ![](assets/image2014-9-25-17-3a51-3a59.png)
 
@@ -38,15 +38,15 @@ Quando [creare una sweepstakes](/help/marketo/product-docs/demand-generation/soc
 
    ![](assets/image2014-9-25-17-3a52-3a37.png)
 
-   Esempio di CSS per **Pulsante Invio**:
+   Esempio di CSS per il **pulsante Invio**:
    `<pre>border: 5px solid #7B68EE; background-color: purple; padding: 10px; font: 16px; color: #FFFFFF; text-align: center;</pre>`
 
-   Immagine di esempio per **Pulsante Invio**:
+   Immagine di esempio per il **pulsante Invio**:
    `<pre>background:url(https://app.marketo.com/images/public-site/button_sign-up-now.png) no-repeat center center; width:275px; height:95px; margin:auto; display:block;</pre>` `<pre>`
 
    >[!NOTE]
    >
-   >Se utilizzi un’immagine con del testo, ricorda di rimuoverla dal **Pulsante Invio** in Testo sopra.
+   >Se utilizzi un&#39;immagine con del testo, ricorda di rimuovere il testo dal campo **Pulsante di immissione** sotto Testo qui sopra.
 
 1. Ogni volta che apportate una modifica, il risultato viene visualizzato nell&#39;anteprima Visualizza e modifica.
 
@@ -58,4 +58,4 @@ Quando [creare una sweepstakes](/help/marketo/product-docs/demand-generation/soc
 
    >[!MORELIKETHIS]
    >
-   >Il passaggio successivo consiste nell’aggiungere [e-mail di iscrizione e di evasione ai tuoi interessi](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).
+   >Il passaggio successivo consiste nell&#39;aggiungere [e-mail di iscrizione e di evasione alle tue azioni](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md).

@@ -17,8 +17,8 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il pub
 
 >[!PREREQUISITES]
 >
->* [Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Creare una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Crea una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [Aggiungere un nuovo modulo a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 ## Aggiungi segmentazione {#add-segmentation}
@@ -31,7 +31,7 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il pub
 
    ![](assets/landingpageeditdraft-1.jpg)
 
-1. Clic **Segmento per**.
+1. Fai clic su **Segmento per**.
 
    ![](assets/image2014-9-17-12-3a8-3a46.png)
 
@@ -49,17 +49,17 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge il pub
 
 ## Rendi elemento dinamico {#make-element-dynamic}
 
-1. Trascina e rilascia gli elementi di contenuto dinamico da sotto **Statico** a **Dinamico**.
+1. Trascina e rilascia gli elementi di contenuto dinamico da sotto **Static** a **Dynamic**.
 
    ![](assets/image2014-9-17-12-3a10-3a8.png)
 
-1. Puoi anche creare elementi **Statico** o **Dinamico** dall’elemento **Impostazioni**.
+1. È inoltre possibile rendere gli elementi **Statici** o **Dinamici** dall&#39;elemento **Impostazioni**.
 
    ![](assets/image2014-9-17-12-3a10-3a14.png)
 
 ## Applicare contenuti dinamici {#apply-dynamic-content}
 
-1. Seleziona un elemento sotto un segmento, fai clic sull’icona delle impostazioni, quindi fai clic su **Modifica**. Ripeti per ogni segmento.
+1. Seleziona un elemento sotto un segmento, fai clic sull&#39;icona delle impostazioni, quindi fai clic su **Modifica**. Ripeti per ogni segmento.
 
    ![](assets/image2014-9-17-12-3a11-3a43.png)
 

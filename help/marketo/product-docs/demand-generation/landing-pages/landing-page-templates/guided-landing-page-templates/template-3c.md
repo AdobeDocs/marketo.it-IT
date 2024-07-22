@@ -6,14 +6,14 @@ exl-id: 0bf7cb43-607e-4c9b-a860-511837925a1e
 feature: Landing Pages, Guided Landing Page Templates
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
 # Modello 3C {#template-3c}
 
-Fare clic con il pulsante destro del mouse per [scarica modello 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 3C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)
 
 ![](assets/image2015-6-15-11-3a20-3a37.png)
 
@@ -27,6 +27,6 @@ Questo modello include i seguenti contenuti:
 * Tre sezioni di corpo (facoltativo)
 * Piè di pagina (facoltativo)
 
-**Fai clic con il pulsante destro del mouse qui sotto per scaricare questo modello:**
+**Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
 [Modello 3C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3c.html)

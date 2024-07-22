@@ -6,7 +6,7 @@ exl-id: 2568911a-071f-42b3-a4be-e951c9fc2ac5
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Se non sincronizzi l’abbonamento con Salesforce, noterai che tutte le cartelle
 
 ## Marketo Revenue Cycle Analytics {#marketo-revenue-cycle-analytics}
 
-**Fasi gate migliorate nel Modeler del ciclo dei ricavi**
+**Fasi gate migliorate nel ciclo dei ricavi Modeler**
 
 Consente agli utenti di definire un ordine per le regole di transizione.
 

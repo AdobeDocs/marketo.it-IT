@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359799
-description: Pubblicare un’azione - Documentazione Marketo - Documentazione del prodotto
-title: Pubblicare una puntata
+description: Publish a Sweepstakes - Documentazione Marketo - Documentazione del prodotto
+title: PUBLISH a
 exl-id: c02d213c-a965-4737-817a-ce8bd7491853
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
@@ -10,9 +10,9 @@ ht-degree: 0%
 
 ---
 
-# Pubblicare una puntata {#publish-a-sweepstakes}
+# PUBLISH a {#publish-a-sweepstakes}
 
-Dopo di te [creare una sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi pubblicarlo sulle pagine di destinazione di Marketo, sul sito web e sul Facebook.
+Dopo aver [creato una verifica](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi pubblicarla nelle pagine di destinazione di Marketo, sul sito Web e nel Facebook.
 
 >[!AVAILABILITY]
 >
@@ -26,7 +26,7 @@ Dopo di te [creare una sweepstakes](/help/marketo/product-docs/demand-generation
 
    ![](assets/image2014-9-25-17-3a41-3a27.png)
 
-1. Posizionare la sezione Inserisci elementi sul lato destro della pagina. Trascina **Paletti**.
+1. Posizionare la sezione Inserisci elementi sul lato destro della pagina. Trascina su **puntate**.
 
    ![](assets/image2014-9-25-17-3a41-3a31.png)
 
@@ -38,7 +38,7 @@ Dopo di te [creare una sweepstakes](/help/marketo/product-docs/demand-generation
    >
    >Devi approvare i tuoi pali per renderli disponibili qui.
 
-   Congratulazioni! Approva la pagina di destinazione e le tue puntate sono live. È inoltre possibile [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserisci le puntate nel tuo sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+   Congratulazioni! Approva la pagina di destinazione e le tue puntate sono live. Puoi anche [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserire le puntate nel tuo sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
    >[!TIP]
    >
@@ -46,4 +46,4 @@ Dopo di te [creare una sweepstakes](/help/marketo/product-docs/demand-generation
 
    >[!NOTE]
    >
-   >Una volta che le persone iniziano l’iscrizione, ricorda di tornare all’app per [seleziona i vincitori di sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!
+   >Una volta che le persone iniziano a iscriversi, ricorda di tornare all&#39;app per [selezionare i vincitori delle puntate](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)!

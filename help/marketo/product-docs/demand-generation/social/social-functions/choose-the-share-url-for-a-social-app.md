@@ -19,11 +19,11 @@ Quando crei un’app social, puoi scegliere quale URL verrà condiviso tra i par
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona l’app e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;app e fai clic su **Modifica bozza**.
 
    ![](assets/image2015-4-21-11-3a12-3a12.png)
 
-1. Nell’editor delle app social, vai a **Impostazioni app** e poi **Opzioni avanzate**.
+1. Nell&#39;editor di app social, vai a **Impostazioni app** e quindi a **Opzioni avanzate**.
 
    ![](assets/image2015-4-21-11-3a14-3a46.png)
 
@@ -37,10 +37,10 @@ Quando crei un’app social, puoi scegliere quale URL verrà condiviso tra i par
    >
    >Condividi i post possono collegarsi a tre luoghi:
    >
-   >* **Pagina di riferimento**: pagina che contiene l’app.
-   >* **Altra pagina di destinazione**: pagina di destinazione di Marketo diversa da quelle del menu a discesa.
+   >* **Pagina di riferimento**: la pagina che contiene l&#39;app.
+   >* **Altra pagina di destinazione**: una pagina di destinazione di Marketo diversa da quelle del menu a discesa.
    >* **URL esterno**: pagina di destinazione non Marketo.
 
 >[!MORELIKETHIS]
 >
->[Aggiungere l’informativa sulla privacy a un’app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)
+>[Aggiungi l&#39;informativa sulla privacy a un&#39;app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md)

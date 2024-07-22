@@ -19,11 +19,11 @@ In qualità di amministratore, puoi esportare le risorse correlate di un campo i
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/export-used-by-data-for-a-field-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/export-used-by-data-for-a-field-2.png)
 
@@ -31,11 +31,11 @@ In qualità di amministratore, puoi esportare le risorse correlate di un campo i
 
    ![](assets/export-used-by-data-for-a-field-3.png)
 
-1. Fai clic su **[!UICONTROL Azioni campo]** a discesa e selezionare **[!UICONTROL Esporta utilizzato da]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni campo]** e seleziona **[!UICONTROL Esporta utilizzato da]**.
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Un [!DNL Excel] il file verrà esportato. Aprilo per visualizzarne il contenuto.
+1. Verrà esportato un file [!DNL Excel]. Aprilo per visualizzarne il contenuto.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 

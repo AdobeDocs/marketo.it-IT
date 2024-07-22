@@ -6,7 +6,7 @@ exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Nelle e-mail di vendita, il piè di pagina per l’annullamento dell’iscrizion
 >
 >**Definizione**
 >
->**E-mail di vendita** sono quelli inviati da Sales Insight (non include quelli inviati dal plug-in di Marketo Outlook).
+>**Le e-mail di vendita** sono quelle inviate da Sales Insight (non includono quelle inviate dal plug-in di Marketo Outlook).
 
-1. Vai a **Amministratore** area.
+1. Vai all&#39;area **Amministratore**.
 
    ![](assets/one-1.png)
 
-1. Clic **Insight sulle vendite**, quindi **Modifica impostazioni**.
+1. Fai clic su **Insight vendite**, quindi su **Modifica impostazioni**.
 
    ![](assets/two-1.png)
 
@@ -39,17 +39,17 @@ Nelle e-mail di vendita, il piè di pagina per l’annullamento dell’iscrizion
 
    * **Nessun modello** - Composto manualmente dall&#39;utente di vendita.
    * **E-mail standard** - E-mail basate su un modello.
-   * **E-mail operativa** : e-mail che ignorano i limiti di annullamento dell’iscrizione, marketing sospeso e comunicazione (vengono inviate a prescindere da cosa).
+   * **E-mail operativa** - E-mail che ignorano l&#39;annullamento dell&#39;iscrizione, la sospensione del marketing e i limiti di comunicazione (vengono inviate indipendentemente dall&#39;operazione).
 
    È possibile impostare un comportamento diverso per ogni tipo.
 
    >[!CAUTION]
    >
-   >**Rispetta impostazioni annullamento iscrizione**: i lead non abbonati NON riceveranno l’e-mail nemmeno se l’e-mail pubblicata è &quot;operativa&quot;
+   >**Rispetta impostazioni annullamento sottoscrizione**: i lead non sottoscritti NON riceveranno l&#39;e-mail anche se l&#39;e-mail pubblicata è &quot;operativa&quot;
    >
-   >**Ignora impostazioni annullamento iscrizione**: i lead non abbonati riceveranno l’e-mail
+   >**Ignora impostazioni annullamento sottoscrizione**: i lead non sottoscritti riceveranno l&#39;e-mail
 
-1. Apportare le modifiche desiderate, quindi fare clic su **Salva**.
+1. Apporta le modifiche desiderate, quindi fai clic su **Salva**.
 
    >[!TIP]
    >

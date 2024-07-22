@@ -6,7 +6,7 @@ exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ Per trovare le persone necessarie, applica la logica della regola Elenco avanzat
 
 >[!PREREQUISITES]
 >
->* [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
->* [Definire i filtri per elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+>* [Trova e aggiungi filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+>* [Definisci filtri elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 >[!NOTE]
 >
@@ -26,19 +26,19 @@ Per trovare le persone necessarie, applica la logica della regola Elenco avanzat
 
 ## Aggiungere logica a un elenco avanzato {#add-logic-to-a-smart-list}
 
-Per impostazione predefinita, l’elenco avanzato individua le persone corrispondenti **[!UICONTROL TUTTI]** filtri (filtri 1) _e_ 2 _e_ 3). Puoi cambiare la logica della regola per trovare le persone che corrispondono a **[!UICONTROL QUALSIASI]** dei filtri definiti (filtri 1 _o_ 2 _o_ 3), oppure utilizzare filtri avanzati (filtri 1 _e_ 2 _o_ 3).
+Per impostazione predefinita, il tuo elenco avanzato troverà le persone che corrispondono a **[!UICONTROL ALL]** filtri (filtri 1 _and_ 2 _and_ 3). È possibile modificare la logica della regola per trovare persone che corrispondono a **[!UICONTROL ANY]** dei filtri definiti (filtri 1 _or_ 2 _or_ 3) o utilizzare filtri avanzati (filtri 1 _and_ 2 _or_ 3).
 
-In questo esempio, supponiamo che tu voglia trovare persone in California _e_ con un punteggio di almeno 50 punti _o_ con lo stato &quot;Vendite qualificate&quot;.
+In questo esempio, supponiamo che si desideri trovare persone in California _e_ con un punteggio di almeno 50 punti _o_ con uno stato di &quot;qualificato per le vendite&quot;.
 
-1. Seleziona **[!UICONTROL Utilizzare filtri avanzati]** dal menu a discesa.
+1. Selezionare **[!UICONTROL Usa filtri avanzati]** dal menu a discesa.
 
    ![](assets/one.png)
 
    >[!NOTE]
    >
-   >Utilizzo di **[!UICONTROL Avanzate]** I filtri riducono la necessità di creare elenchi avanzati con il filtro Membro di elenco avanzato. Questo consente di ottimizzare le prestazioni.
+   >L&#39;utilizzo dei filtri **[!UICONTROL Avanzate]** riduce la necessità di creare elenchi avanzati con il filtro Membro di elenco avanzato. Questo consente di ottimizzare le prestazioni.
 
-1. Il **[!UICONTROL Filtri avanzati]** La casella di testo visualizzerà &quot;e&quot; come valore predefinito tra tutti i filtri.
+1. Nella casella di testo **[!UICONTROL Filtri avanzati]** verrà visualizzato &quot;and&quot; come valore predefinito tra tutti i filtri.
 
    ![](assets/two-2.png)
 

@@ -19,15 +19,15 @@ Quando le persone esauriscono tutti i contenuti di un flusso, Marketo può invia
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona un programma di coinvolgimento e fai clic su **Configurazione** scheda.
+1. Selezionare un programma di coinvolgimento e fare clic sulla scheda **Configurazione**.
 
    ![](assets/setuptab.jpg)
 
-1. Doppio clic **Notifiche per contenuti esauriti**.
+1. Fare doppio clic su **Notifiche contenuto esaurito**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Seleziona **Disattivato** (o **On**) e fai clic su **Salva**.
+1. Seleziona **Off** (o **On**) e fai clic su **Save**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

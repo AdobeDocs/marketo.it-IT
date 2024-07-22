@@ -7,7 +7,7 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,17 +17,17 @@ Un token File calendario consente di aggiungere un collegamento di evento calend
 
 >[!PREREQUISITES]
 >
->[Creazione di un file evento calendario (con estensione ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
+>[Crea un file evento calendario (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
 1. Durante la modifica dell’e-mail del programma, fai clic nel punto in cui desideri spostare il token, quindi fai clic sul pulsante Inserisci token.
 
 ![](assets/one-6.png)
 
-1. Seleziona il token del file del calendario e fai clic su **Inserisci**.
+1. Selezionare il token del file del calendario e fare clic su **Inserisci**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/three-5.png)
 

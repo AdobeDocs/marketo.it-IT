@@ -13,24 +13,24 @@ ht-degree: 0%
 
 # Personalizza impostazioni sondaggio {#customize-poll-settings}
 
-Quando [creare un sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), puoi limitare il numero di voti consentiti per profilo social.
+Quando [crei un sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md), puoi limitare il numero di voti consentiti per profilo social.
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il sondaggio e fai clic su **Modifica bozza**.
+1. Selezionare il sondaggio e fare clic su **Modifica bozza**.
 
    ![](assets/image2014-9-19-10-3a56-3a37.png)
 
-1. Nell’editor dei sondaggi, vai a **Impostazioni app** > **Opzioni avanzate**.
+1. Nell&#39;editor di polling, vai a **Impostazioni app** > **Opzioni avanzate**.
 
    ![](assets/image2014-9-19-10-3a56-3a44.png)
 
-1. Seleziona l’opzione per imporre un **Limite di voti** e immettere il numero massimo di voti consentiti.
+1. Seleziona l&#39;opzione per imporre un **limite di voti** e immetti il numero massimo di voti consentiti.
 
    ![](assets/image2014-9-19-10-3a56-3a54.png)
 
 >[!TIP]
 >
->Puoi fare clic su **Fine** > **Approva e chiudi** a [pubblicare il sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), oppure puoi continuare a personalizzarlo. Ad esempio, prova [configurazione dei prompt di post-condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).
+>Puoi fare clic su **Fine** > **Approva e chiudi** per [pubblicare il sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), oppure puoi continuare a personalizzarlo. Provare ad esempio a [configurare i prompt dopo la condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-after-share-prompts.md).

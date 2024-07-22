@@ -17,13 +17,13 @@ Le seguenti funzioni sono incluse nella versione di gennaio 2015. Per informazio
 
 ## Aggiornamenti di Marketing Automation {#marketing-automation-updates}
 
-**Pagine di destinazione facili da usare su dispositivi mobili**
+**Pagine Di Destinazione Per Dispositivi Mobili**
 
-Ora puoi [creare visualizzazioni mobili per le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) dall’interno dell’editor della pagina di destinazione. Distribuisci il messaggio in modo efficace indipendentemente dal dispositivo e aumenta il coinvolgimento personalizzando i contenuti per facilitarne l’utilizzo in movimento. Questa funzione verrà implementata gradualmente nel corso della settimana successiva al rilascio.
+Ora puoi [creare visualizzazioni per dispositivi mobili per le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) dall&#39;editor delle pagine di destinazione. Distribuisci il messaggio in modo efficace indipendentemente dal dispositivo e aumenta il coinvolgimento personalizzando i contenuti per facilitarne l’utilizzo in movimento. Questa funzione verrà implementata gradualmente nel corso della settimana successiva al rilascio.
 
-[-Video introduttivo sulla pagina di destinazione-](https://youtu.be/aPQHlG2X6c0)
+Video introduttivo sulla pagina di destinazione [-](https://youtu.be/aPQHlG2X6c0)
 
-**Nuove chiamate API Rest**
+**Nuove chiamate API REST**
 
 Tre nuove chiamate per l’API ReST per lead e attività:
 
@@ -31,17 +31,17 @@ Tre nuove chiamate per l’API ReST per lead e attività:
 * Ottieni lead per ID programma
 * Ottieni lead eliminati
 
-Inoltre, è disponibile una nuova opzione per Lead di sincronizzazione, che consente di scrivere la modifica del lead in modo asincrono per una chiamata API più veloce. I dettagli completi saranno disponibili dopo il rilascio, all’indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+Inoltre, è disponibile una nuova opzione per Lead di sincronizzazione, che consente di scrivere la modifica del lead in modo asincrono per una chiamata API più veloce. I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
-**Supporto oggetto personalizzato script e-mail**
+**Supporto Oggetto Personalizzato Script E-Mail**
 
 Ora puoi accedere agli oggetti personalizzati associati all’oggetto Account dall’interno degli script e-mail.
 
-## Personalizzazione in tempo reale {#real-time-personalization}
+## Real-Time Personalization {#real-time-personalization}
 
 **Remarketing personalizzato per Google e Facebook**
 
-Il remarketing mostra annunci a persone che hanno visitato il tuo sito web. Ora puoi personalizzare le campagne di remarketing su [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) utilizzando i dati di Real-Time Personalization. Rivolgiti a tipi di pubblico di diversi settori, elenchi di account denominati, dimensioni dell’azienda o qualsiasi dato proveniente da lead noti.
+Il remarketing mostra annunci a persone che hanno visitato il tuo sito web. Ora puoi personalizzare le campagne di remarketing in [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md) e [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md) utilizzando i dati di Real-Time Personalization. Rivolgiti a tipi di pubblico di diversi settori, elenchi di account denominati, dimensioni dell’azienda o qualsiasi dato proveniente da lead noti.
 
 [Modulo elenco account denominati](/help/marketo/product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
 
@@ -62,6 +62,6 @@ Le opzioni dei tag RTP in Impostazioni account sono state aggiornate per include
 1. Tag asincrono senza CDN
 1. Tag sincrono senza CDN
 
-Per prestazioni ottimali, si consiglia di posizionare il tag nella parte superiore dell’intestazione nella pagina web dopo `<head>`. Tutti i tag consentono l’utilizzo di [API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Per informazioni su come distribuire il tag RTP, vedi [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Per ottenere prestazioni ottimali, si consiglia di posizionare il tag nella parte superiore dell&#39;intestazione della pagina Web dopo `<head>`. Tutti i tag consentono l&#39;utilizzo dell&#39;[API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Per informazioni su come distribuire il tag RTP, vedi [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

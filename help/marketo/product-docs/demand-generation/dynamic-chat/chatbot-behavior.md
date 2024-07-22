@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
 source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1623'
 ht-degree: 0%
 
 ---
@@ -185,7 +185,7 @@ Di seguito sono riportati diversi possibili scenari che descrivono il comportame
         <p>V1 fa clic su D1 ma non risponde</p>
         <p>Visite V1 WP2</p>
       </td>
-      <td>D1 verrà risolto nel WP1<br/>
+      <td>D1 verrà risolto in WP1<br/>
       D2 verrà risolto nel WP2</td>
       <td>
         <p>Il conteggio dei trigger per D1 verrà aumentato di 1</p>
@@ -200,7 +200,7 @@ Di seguito sono riportati diversi possibili scenari che descrivono il comportame
         <p>V1 fa clic su D1 e completa D1</p>
         <p>Visite V1 WP2</p>
       </td>
-      <td>D1 verrà risolto nel WP1 e dopo il completamento<br/>D2 verrà risolto nel WP2</td>
+      <td>D1 verrà risolto nel WP1 e dopo il completamento<br/>D2 nel WP2</td>
       <td>
         <p>Il conteggio dei trigger, il conteggio dei coinvolgimento e il conteggio dei completamenti per D1 verranno aumentati di 1</p>
         <p>Il conteggio dei trigger per D2 verrà aumentato di 1</p>
@@ -215,7 +215,7 @@ Di seguito sono riportati diversi possibili scenari che descrivono il comportame
         <p>Visite V1 WP2</p>
         <p>I clic V1 su D2 forniscono la prima risposta</p>
       </td>
-      <td>D1 verrà risolto nel WP1 e dopo il completamento<br/>D2 verrà risolto nel WP2</td>
+      <td>D1 verrà risolto nel WP1 e dopo il completamento<br/>D2 nel WP2</td>
       <td>
         <p>Il conteggio dei trigger, il conteggio dei coinvolgimento e il conteggio dei completamenti per D1 verranno aumentati di 1</p>
         <p>Il conteggio di trigger e coinvolgimento per D2 verrà aumentato di 1</p>
@@ -329,7 +329,7 @@ Di seguito sono riportati diversi possibili scenari che descrivono il comportame
         <p>D2 previsto per WP1 con priorità 2</p>
         <p>V1 visita WP1 per la prima volta</p>
         <p>V1 fa clic su D1 e completa D1</p>
-        <p>V1 aggiorna WP1 e consulta D2<br/>V1 fa clic su D2 e completa D2</p>
+        <p>V1 aggiorna WP1 e visualizza D2<br/>V1 clic su D2 e completa D2</p>
         <p>L’addetto al marketing ha apportato modifiche a D1 e ripubblicato</p>
         <p>V1 aggiorna WP1</p>
       </td>

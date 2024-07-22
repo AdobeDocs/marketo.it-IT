@@ -5,7 +5,7 @@ exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
 source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Come parte di Predictive Audiences, Marketo offre un gruppo di filtri basati su IA/ML in elenchi avanzati all’interno di campagne intelligenti.
 
-![Immagine uno](assets/predictive-filters-1.png)
+![Immagine Uno](assets/predictive-filters-1.png)
 
 >[!NOTE]
 >
@@ -22,13 +22,13 @@ Come parte di Predictive Audiences, Marketo offre un gruppo di filtri basati su 
 
 ## Probabilità di partecipare {#likelihood-to-attend}
 
-Questo filtro viene utilizzato per limitare efficacemente il pubblico. In questo modo puoi indirizzare e invitare i lead con una maggiore probabilità di **partecipazione** il tuo webinar o evento. Tieni presente che il programma &quot;Probabilità di partecipare&quot; sarà il programma dell’evento corrente.
+Questo filtro viene utilizzato per limitare efficacemente il pubblico. In questo modo puoi indirizzare e invitare i lead che hanno una maggiore probabilità di **partecipare** al tuo webinar o evento. Tieni presente che il programma &quot;Probabilità di partecipare&quot; sarà il programma dell’evento corrente.
 
 ![Immagine due](assets/predictive-filters-2.png)
 
 ## Probabilità di registrazione {#likelihood-to-register}
 
-Simile a _Probabilità di partecipare_ , utilizza questo filtro per limitare il pubblico ed eseguire il targeting dei lead che hanno una maggiore probabilità di **registrazione** per il tuo webinar o evento.
+Simile al filtro _Probabilità di partecipare_, utilizza questo filtro per limitare il pubblico e rivolgersi ai lead che hanno una probabilità maggiore di **registrarsi** per il webinar o l&#39;evento.
 
 ![Immagine tre](assets/predictive-filters-3.png)
 
@@ -46,9 +46,9 @@ Questo filtra il pubblico in base alla probabilità che annulli l’abbonamento 
 
 Questi due filtri consentono di espandere il pubblico corrente eseguendo il targeting di lead aggiuntivi simili ai membri di un altro programma o elenco avanzato. I filtri lookalike prendono in considerazione oltre 50 fattori, tra cui attributi di lead, attività e-mail, attività web e coinvolgimento.
 
-Clic **[!UICONTROL Aggiungi vincolo]** per scegliere i criteri di successo per i membri dei programmi selezionati.
+Fai clic su **[!UICONTROL Aggiungi vincolo]** per scegliere i criteri di successo per i membri dei programmi selezionati.
 
-Fai clic su **+** per aggiungere facilmente più programmi/elenchi avanzati a un filtro.
+Fai clic sull&#39;icona **+** per aggiungere facilmente più programmi/elenchi avanzati a un filtro.
 
 ![Immagine cinque](assets/predictive-filters-5.png)
 

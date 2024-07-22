@@ -6,7 +6,7 @@ exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Per impostare un colore, fare clic su **Colore**, quindi il quadrato di selezione del colore. Selezionare il colore facendo clic su di esso o immettendo i codici esadecimali o RGB nel selettore colore.
+1. Per impostare un colore, fare clic su **Colore**, quindi sul quadrato di selezione del colore. Selezionare il colore facendo clic su di esso o immettendo i codici esadecimali o RGB nel selettore colore.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
    >
    >Il bianco normale, l&#39;impostazione predefinita, è in genere un vincitore.
 
-1. Per utilizzare uno sfondo, fare clic su **Immagine** e quindi il **Seleziona immagine** collegamento.
+1. Per utilizzare uno sfondo, fare clic su **Immagine** e quindi sul collegamento **Seleziona immagine**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Scegliere tra i file caricati in Design Studio. Clic **Seleziona**.
+1. Scegliere tra i file caricati in Design Studio. Fai clic su **Seleziona**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -65,9 +65,9 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
 
    >[!NOTE]
    >
-   >Per le azioni di tocco per gli sfondi, puoi impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio riguarda solo una piattaforma o l’altra, lascia l’altra nell’impostazione predefinita o seleziona **Nessuno**.
+   >Per le azioni di tocco per gli sfondi, puoi impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita o selezionare **Nessuno**.
 
-   Per completare il processo, l&#39;ultimo passaggio consiste nel [impostare il pulsante Ignora](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
+   Per completare il processo, l&#39;ultimo passaggio è [configurare il pulsante Ignora](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 
    >[!MORELIKETHIS]
    >

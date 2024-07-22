@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Quando decidi di attivare l’Editor e-mail v2.0, noterai diverse nuove funzioni.
 
-**Selettore modello e-mail**
+**Selettore modelli e-mail**
 
-Quando crei una nuova e-mail, accedi al [Selettore modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Quando crei una nuova e-mail, accedi al [selettore modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -29,19 +29,19 @@ Quando inizi a modificare l’e-mail, noterai che l’editor ha un aspetto compl
 
 **Moduli**
 
-Quegli elementi a destra dell&#39;editor sono chiamati moduli. Scopri come [aggiungi moduli all’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+Quegli elementi a destra dell&#39;editor sono chiamati moduli. Scopri come [aggiungere moduli alla tua e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
 **Versione testo**
 
-Il passaggio tra la versione HTML e la versione Text dell’e-mail ora è in una pratica scheda nella parte inferiore. Scopri come [modificare la versione testuale di un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
+Il passaggio tra la versione HTML e la versione Text dell’e-mail ora è in una pratica scheda nella parte inferiore. Scopri come [modificare la versione testuale di un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
 **Intestazione e-mail**
 
-Desideri più spazio per il design? Al termine, l’intestazione dell’e-mail può essere nascosta [modifica](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
+Desideri più spazio per il design? L&#39;intestazione e-mail può essere nascosta al termine di [modifica](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
 
 ![](assets/email-editor-v2-overview-5.png)
 
@@ -59,7 +59,7 @@ Per impostazione predefinita, l’e-mail mostra l’aspetto che avrebbe su un de
 
 ![](assets/email-editor-v2-overview-8.png)
 
-Per ingrandire l&#39;anteprima, fare clic su **Anteprima** in alto a destra nell’e-mail.
+Per ingrandire l&#39;anteprima, fare clic su **Anteprima** in alto a destra nell&#39;e-mail.
 
 ![](assets/email-editor-v2-overview-9.png)
 
@@ -73,7 +73,7 @@ La vista predefinita è desktop...
 
 **Azioni e-mail**
 
-Sotto **Azioni e-mail**, noterai alcune nuove funzioni. **Carica un&#39;immagine o un file**, e **Acquisisci immagini dal web**. Puoi anche salvare l’e-mail stessa come nuovo modello e-mail. Tutto quello che dovete fare è dargli un nome e una destinazione.
+In **Azioni e-mail**, noterai alcune nuove funzioni. **Carica un&#39;immagine o un file** e **Acquisisci immagini dal Web**. Puoi anche salvare l’e-mail stessa come nuovo modello e-mail. Tutto quello che dovete fare è dargli un nome e una destinazione.
 
 ![](assets/email-editor-v2-overview-12.png)
 
@@ -83,9 +83,9 @@ Sotto **Azioni e-mail**, noterai alcune nuove funzioni. **Carica un&#39;immagine
 
 >[!NOTE]
 >
->**[Acquisisci immagini dal web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funziona come in Design Studio.
+>**[Acquisisci immagini dal Web](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funziona come in Design Studio.
 
-**Disabilita tracciamento apertura** Sotto **Impostazioni e-mail**, se necessario, puoi disattivare il tracciamento delle operazioni di apertura.
+**Disabilita tracciamento apertura** In **Impostazioni e-mail**, se necessario, puoi disabilitare il tracciamento apertura.
 
 ![](assets/email-editor-v2-overview-13.png)
 
@@ -103,8 +103,8 @@ Nuove funzioni! Divertitevi!
 
 >[!NOTE]
 >
->Per approfondire la ricerca, consulta questa [video](https://nation.marketo.com/videos/1463).
+>Se vuoi approfondire ulteriormente, guarda questo [video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
->[Sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

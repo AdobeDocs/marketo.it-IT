@@ -17,9 +17,9 @@ Verifica e-mail intere tra loro. Al termine del test, invia l&#39;esecutore prin
 
 >[!PREREQUISITES]
 >
->[Aggiungi un Email Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
+>[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Nell’editor del test e-mail, seleziona **E-mail intere** nel **Tipo di test** a discesa.
+1. Nell&#39;editor di test e-mail, seleziona **E-mail intere** nel menu a discesa **Tipo di test**.
 
    ![](assets/image2014-9-12-16-3a39-3a14.png)
 
@@ -27,7 +27,7 @@ Verifica e-mail intere tra loro. Al termine del test, invia l&#39;esecutore prin
    >
    >Ricorda: l’e-mail originale è il campione. Gli sfidanti competono contro di esso.
 
-1. Trova e seleziona la **Sfide** e-mail, quindi fai clic **Clona**.
+1. Trova e seleziona le **e-mail di verifica**, quindi fai clic su **Clona**.
 
    ![](assets/image2015-8-10-11-3a46-3a28.png)
 
@@ -47,7 +47,7 @@ Verifica e-mail intere tra loro. Al termine del test, invia l&#39;esecutore prin
 
    Per ottenere la sicurezza statistica, assicurati che la percentuale assegnata agli sfidanti includa un numero sufficiente di persone per la validità del test. Non fatevi ingannare da risultati inconcludenti.
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-12-16-3a42-3a9.png)
 
@@ -55,4 +55,4 @@ Verifica e-mail intere tra loro. Al termine del test, invia l&#39;esecutore prin
 
    >[!MORELIKETHIS]
    >
-   >[Campione/Sfidante: definizione dei criteri del campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)
+   >[Campione/Sfidante: definizione dei criteri campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-define-champion-criteria.md)

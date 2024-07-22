@@ -7,7 +7,7 @@ feature: Events
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -30,10 +30,10 @@ Un programma di eventi è un tipo di programma che può essere utilizzato per au
 >* Fiere
 >* Riunioni
 
-Gli eventi possono connettersi automaticamente al tuo [provider webinar](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) nonché sincronizzare con un [App di check-in iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
+Gli eventi possono connettersi automaticamente al tuo [provider di webinar](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md) e sincronizzarsi con una [app di archiviazione iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md).
 
 >[!MORELIKETHIS]
 >
->* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >
 >* [Partner eventi LaunchPoint](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md)

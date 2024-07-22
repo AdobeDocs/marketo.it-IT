@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Definire i valori in un campo radio o selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
 
-Una volta [impostare un tipo di campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) per essere un pulsante di scelta o un tipo di selezione, è necessario definire i valori che l&#39;utente può scegliere. Ecco come.
+Dopo aver [impostato un tipo di campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o tipo di selezione, è necessario definire i valori tra cui l&#39;utente può scegliere. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
@@ -23,7 +23,7 @@ Una volta [impostare un tipo di campo](/help/marketo/product-docs/administration
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Seleziona il campo e fai clic su **Modifica**.
+1. Selezionare il campo e fare clic su **Modifica**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
@@ -39,9 +39,9 @@ Una volta [impostare un tipo di campo](/help/marketo/product-docs/administration
    >
    >**Definizione**
    >
-   >**Valore visualizzato:** Cosa viene mostrato al visitatore.
+   >**Valore visualizzato:** ciò che viene mostrato al visitatore.
    >
-   >**Valore memorizzato:** Cosa viene registrato in Marketo.
+   >**Valore memorizzato:** ciò che è stato registrato in Marketo.
 
 1. Aggiungi tutti i valori necessari, quindi fai clic su **Salva**.
 
@@ -53,13 +53,13 @@ Una volta [impostare un tipo di campo](/help/marketo/product-docs/administration
 
    >[!TIP]
    >
-   >Clic **Editor avanzato** per copiare/incollare un elenco di valori, se necessario. Può risparmiare tempo reale.
+   >Fai clic su **Editor avanzato** per copiare/incollare un elenco di valori, se lo desideri. Può risparmiare tempo reale.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

@@ -6,24 +6,24 @@ exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Come inserire campi dinamici {#how-to-insert-dynamic-fields}
 
-Ti consentiamo di personalizzare i modelli e-mail con attributi predefiniti come `{{first_name}}` o `{{company}}`. Questi campi ti consentono di inviare tramite e-mail più contatti e di completarli automaticamente senza doverli digitare separatamente per ciascun contatto.
+È possibile personalizzare i modelli e-mail con attributi predefiniti come `{{first_name}}` o `{{company}}`. Questi campi ti consentono di inviare tramite e-mail più contatti e di completarli automaticamente senza doverli digitare separatamente per ciascun contatto.
 
 >[!TIP]
 >
->Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno visualizzati sia in Sales Connect che in Salesforce. Ciò significa che se un contatto non esiste in [applicazione web](https://toutapp.com/login), analizziamo Salesforce per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno visualizzati sia in Sales Connect che in Salesforce. Ciò significa che se un contatto non esiste nell&#39;[applicazione Web](https://toutapp.com/login), verrà eseguita una ricerca in Salesforce per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 
-1. In entrata **Modelli e campagne**, individua il modello da modificare e fai clic su **Modifica modello**.
+1. In **Modelli e campagne**, individua il modello da modificare e fai clic su **Modifica modello**.
 
-1. Clic **Campi dinamici tout**.
+1. Fare clic su **Tout campi dinamici**.
 
    >[!NOTE]
    >

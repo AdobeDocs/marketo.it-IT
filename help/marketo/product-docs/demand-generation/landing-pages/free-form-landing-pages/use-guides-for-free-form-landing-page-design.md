@@ -17,13 +17,13 @@ Durante la progettazione di una pagina di destinazione in formato libero, è pos
 
 >[!NOTE]
 >
->Le guide sono disponibili solo nel **Formato libero** editor pagina di destinazione.
+>Le guide sono disponibili solo nell&#39;editor di pagine di destinazione **formato libero**.
 
-1. Seleziona un **Pagina di destinazione** e fai clic su **Modifica bozza**.
+1. Seleziona una **pagina di destinazione** e fai clic su **Modifica bozza**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Clic **Azioni pagina di destinazione** e seleziona **Mostra guide**.
+1. Fai clic su **Azioni pagina di destinazione** e seleziona **Mostra guide**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

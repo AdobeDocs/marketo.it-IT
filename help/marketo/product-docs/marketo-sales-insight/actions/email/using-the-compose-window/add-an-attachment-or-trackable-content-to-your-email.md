@@ -20,7 +20,7 @@ Quando invii un’e-mail tramite Marketo Sales, puoi aggiungere un file come all
 
 ## Aggiungi un allegato {#add-an-attachment}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/add-an-attachment-or-trackable-content-1.png)
 
@@ -38,7 +38,7 @@ Quando invii un’e-mail tramite Marketo Sales, puoi aggiungere un file come all
 
    >[!NOTE]
    >
-   >Se devi caricare un file, fai clic su **Carica contenuto** in alto a destra.
+   >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
 
    L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
@@ -58,13 +58,13 @@ Quando invii un’e-mail tramite Marketo Sales, puoi aggiungere un file come all
 
    ![](assets/add-an-attachment-or-trackable-content-8.png)
 
-1. Seleziona il contenuto da aggiungere, fai clic su **Il contenuto è tracciato** e fare clic su **Inserisci**.
+1. Seleziona il contenuto da aggiungere, fai clic sul cursore **Il contenuto è tracciato** e fai clic su **Inserisci**.
 
    ![](assets/add-an-attachment-or-trackable-content-9.png)
 
    >[!NOTE]
    >
-   >Se devi caricare un file, fai clic su **Carica contenuto** in alto a destra.
+   >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
 
    Il contenuto viene visualizzato come collegamento nell’e-mail. Il destinatario può fare clic sul collegamento per scaricare il contenuto.
 
@@ -96,7 +96,7 @@ All’interno del visualizzatore di contenuti, i lead possono effettuare le segu
 
 ![](assets/add-an-attachment-or-trackable-content-14.png)
 
-**Eventi di contenuto tracciabile nei feed live**
+**Eventi di contenuto tracciabile nei feed attivi**
 
 Quando un lead fa clic sul collegamento del nostro documento, viene visualizzato un evento di clic. Puoi fare clic su quel collegamento per visualizzare il contenuto. Se hai effettuato l’accesso al tuo account Actions nel browser, questi clic non verranno conteggiati come eventi.
 

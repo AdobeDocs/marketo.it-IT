@@ -19,7 +19,7 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
 
    ![](assets/one-4.png)
 
-1. Seleziona la **Testo** Mio Token, trascinalo e rilascialo sull’area di lavoro.
+1. Seleziona il **Testo** Il mio token, trascinalo sull&#39;area di lavoro.
 
    ![](assets/two-4.png)
 
@@ -29,13 +29,13 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
 
    >[!CAUTION]
    >
-   >Per assicurarti che i clic siano tracciati nell’e-mail, esegui **non** immetti https:// all’interno del valore del token.
+   >Per assicurarti che i clic siano tracciati nel messaggio e-mail, **non** immetti https:// all&#39;interno del valore del token.
 
 1. Seleziona l’e-mail nel programma.
 
    ![](assets/four-3.png)
 
-1. Clic **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/five-3.png)
 
@@ -51,7 +51,7 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
    >
    >Naturalmente puoi anche inserire &quot;https&quot; se il tuo sito lo utilizza.
 
-1. Individua il Mio Token, selezionalo e fai clic su **Inserisci**.
+1. Individua il token personale, selezionalo e fai clic su **Inserisci**.
 
    ![](assets/eight.png)
 
@@ -63,11 +63,11 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
 
    ![](assets/ten.png)
 
-1. Premi Ctrl/Comando+V per incollare il contenuto nel **URL** e fai clic su **Inserisci**.
+1. Premere Ctrl/Comando+V per incollare il contenuto nella casella **URL** e fare clic su **Inserisci**.
 
    ![](assets/eleven.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/twelve.png)
 

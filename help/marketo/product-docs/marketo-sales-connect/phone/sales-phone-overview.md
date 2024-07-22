@@ -23,9 +23,9 @@ ht-degree: 0%
 
 **Numero di telefono:** Sarà necessario digitarlo una sola volta. Sales Connect ricorderà il tuo numero per tutte le chiamate future.
 
-**Presenza locale:** Sarà sufficiente selezionare &quot;usa presenza locale&quot; e registrare la chiamata per la prima chiamata. Sales Connect memorizzerà le impostazioni per tutte le chiamate future.
+**Presenza locale:** Sarà sufficiente selezionare &quot;Usa presenza locale&quot; e registrare la chiamata per la prima chiamata. Sales Connect memorizzerà le impostazioni per tutte le chiamate future.
 
-Se si desidera che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, estrarre [questo articolo](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
+Se desideri che Sales Connect crei automaticamente un&#39;attività di chiamata in Salesforce, vedi [questo articolo](/help/marketo/product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md).
 
 ## Come si effettua una chiamata con il telefono di vendita? {#how-do-i-make-a-call-with-sales-phone}
 
@@ -37,6 +37,6 @@ Nel centro comandi è possibile utilizzare l&#39;&quot;elenco chiamate&quot; dal
 
 Una volta effettuata una chiamata, Sales Connect richiama il numero di telefono del lead/contatto da Salesforce. Se in Salesforce non è presente alcun numero, Sales Connect inserirà il numero di telefono nel record dell&#39;account.
 
-Per i team che utilizzano altri CRMS, Sales Connect richiamerà il numero di telefono dal numero riportato nel record di Sales Connect. Questi dati possono essere facilmente disponibili tramite un [Caricamento CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
+Per i team che utilizzano altri CRMS, Sales Connect richiamerà il numero di telefono dal numero riportato nel record di Sales Connect. Questi dati possono essere facilmente disponibili tramite un [caricamento CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-Colpisci il grande verde **Chiamata** pulsante. Il telefono inizierà quindi a squillare. Prelievo del telefono e Sales Connect chiamerà automaticamente il lead/contatto.
+Premi il pulsante verde **Chiamata**. Il telefono inizierà quindi a squillare. Prelievo del telefono e Sales Connect chiamerà automaticamente il lead/contatto.

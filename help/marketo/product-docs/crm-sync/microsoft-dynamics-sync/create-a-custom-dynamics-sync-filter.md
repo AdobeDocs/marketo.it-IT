@@ -39,7 +39,7 @@ Marketo cerca questo campo durante la sincronizzazione in background automatica 
 
 >[!CAUTION]
 >
->L’unico modo per dire a Marketo di saltare un record è impostare esplicitamente il valore del campo su **No**. Marketo sincronizza comunque i record anche se i valori dei campi sono vuoti.
+>L&#39;unico modo per indicare a Marketo di ignorare un record consiste nell&#39;impostare esplicitamente il valore del campo su **No**. Marketo sincronizza comunque i record anche se i valori dei campi sono vuoti.
 
 >[!PREREQUISITES]
 >
@@ -47,45 +47,45 @@ Marketo cerca questo campo durante la sincronizzazione in background automatica 
 
 ## Crea campo SyncToMkto {#create-synctomkto-field}
 
-1. Accedi a Dynamics CRM. Clic **Impostazioni**, quindi fai clic su **Personalizzazioni**.
+1. Accedi a Dynamics CRM. Fai clic su **Impostazioni**, quindi su **Personalizzazioni**.
 
    ![](assets/image2015-8-10-21-3a40-3a9.png)
 
-1. Clic **Personalizzare il sistema**.
+1. Fare clic su **Personalizza il sistema**.
 
    ![](assets/image2015-8-10-21-3a42-3a15.png)
 
-1. Clic ![](assets/image2015-8-10-21-3a44-3a23.png) accanto a **Entità**.
+1. Fai clic su ![](assets/image2015-8-10-21-3a44-3a23.png) accanto a **Entità**.
 
    ![](assets/image2015-8-10-21-3a43-3a39.png)
 
-1. Clic ![](assets/image2015-8-10-21-3a44-3a23.png) accanto a **Lead** e seleziona **Campi**. Quindi fai clic su **Nuovo**.
+1. Fai clic su ![](assets/image2015-8-10-21-3a44-3a23.png) accanto a **Lead** e seleziona **Campi**. Quindi fare clic su **Nuovo**.
 
    ![](assets/image2015-8-10-21-3a49-3a49.png)
 
-1. Invio **SyncToMkto** nel **Nome visualizzato** e seleziona **Due opzioni** come **Tipo di dati**. Quindi fai clic su **Salva e chiudi**.
+1. Immetti **SyncToMkto** nel campo **Nome visualizzato** e seleziona **Due opzioni** come **Tipo dati**. Quindi fare clic su **Salva e chiudi**.
 
    ![](assets/image2015-9-8-10-3a25-3a33.png)
 
    >[!NOTE]
    >
-   >Scegliere un nome visualizzato per questo campo, ma il campo Nome deve essere esattamente **new_synctomkto**. È necessario utilizzare **nuovo** come prefisso predefinito. Se hai modificato il valore predefinito, vai qui per [reimpostare il prefisso predefinito per i nomi dei campi personalizzati](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. Puoi ripristinarla dopo aver creato i nuovi campi.
+   >Scegliere un nome visualizzato per questo campo, ma il campo Nome deve essere esattamente **new_synctomkto**. Utilizza **new** come prefisso predefinito. Se hai modificato il valore predefinito, vai qui per [reimpostare il prefisso predefinito per i nomi dei campi personalizzati](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/set-a-default-custom-field-prefix.md){target="_blank"}. Puoi ripristinarla dopo aver creato i nuovi campi.
 
    >[!NOTE]
    >
-   >Se è stato configurato un flusso di lavoro asincrono, il record ottiene il valore SyncToMkto predefinito impostato nel campo e ottiene il valore corretto alcuni secondi dopo al termine dell&#39;esecuzione del flusso di lavoro. Se il valore predefinito è impostato su Sì, tali record verranno creati in Marketo e quindi diventeranno obsoleti. Utilizzare **No** come valore predefinito per evitare questo inconveniente.
+   >Se è stato configurato un flusso di lavoro asincrono, il record ottiene il valore SyncToMkto predefinito impostato nel campo e ottiene il valore corretto alcuni secondi dopo al termine dell&#39;esecuzione del flusso di lavoro. Se il valore predefinito è impostato su Sì, tali record verranno creati in Marketo e quindi diventeranno obsoleti. Utilizza **No** come valore predefinito per evitare questo problema.
 
-1. Ripeti questo processo e crea il **SyncToMkto** per qualsiasi altra entità su cui desideri limitare la sincronizzazione, ad esempio contatto, account, opportunità ed entità personalizzate.
+1. Ripeti questo processo e crea il campo **SyncToMkto** per tutte le altre entità su cui desideri limitare la sincronizzazione, ad esempio contatto, account, opportunità ed entità personalizzate.
 
 ## Selezionare il filtro in Marketo {#select-the-filter-in-marketo}
 
 Anche se la sincronizzazione iniziale è già stata eseguita, accedere e selezionare i campi da sincronizzare con Marketo.
 
-1. Vai a Amministratore e seleziona **[!UICONTROL Microsoft Dynamics]**.
+1. Vai all&#39;amministratore e seleziona **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Clic **[!UICONTROL Modifica]** in Dettagli sincronizzazione campi.
+1. Fai clic su **[!UICONTROL Modifica]** in Dettagli sincronizzazione campi.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
@@ -105,33 +105,33 @@ Bene, ora hai attivato il filtro di sincronizzazione per Marketo.
 >
 >Un flusso di lavoro Dynamics funziona solo sui nuovi record creati in futuro, non sui dati storici. Utilizzare un aggiornamento batch per spostarsi sui record esistenti.
 
-1. Vai a Dynamics CRM. Clic **Impostazioni**, quindi **Processi**.
+1. Vai a Dynamics CRM. Fare clic su **Impostazioni**, quindi su **Processi**.
 
    ![](assets/image2015-8-11-8-3a42-3a10.png)
 
-1. Clic **Nuovo**.
+1. Fare clic su **Nuovo**.
 
    ![](assets/image2015-8-11-8-3a43-3a46.png)
 
-1. Immetti un nome per il flusso di lavoro e seleziona **Flusso di lavoro** come categoria e **Lead** come Entità. Quindi fai clic su **OK**.
+1. Immettere un nome per il flusso di lavoro e selezionare **Flusso di lavoro** come categoria e **Lead** come entità. Quindi fare clic su **OK**.
 
    ![](assets/image2015-8-11-8-3a45-3a46.png)
 
-1. Creare regole per assegnare un valore true o false al **SyncToMkto** in base alle preferenze della tua organizzazione. Clic **Salva e chiudi**.
+1. Crea regole per assegnare un valore true o false al campo **SyncToMkto** in base alle preferenze della tua organizzazione. Fare clic su **Salva e chiudi**.
 
    ![](assets/setsynctomkto-fix.png)
 
    >[!NOTE]
    >
-   >Definisci un&#39;azione predefinita dopo aver fatto clic su **Aggiungi passaggio** per aggiungere una condizione Check. Imposta i record a cui non si desidera sincronizzare **No**. In caso contrario, verranno sincronizzati.
+   >Definisci un&#39;azione predefinita dopo aver fatto clic su **Aggiungi passaggio** per aggiungere una condizione di controllo. Imposta i record che non desideri sincronizzare su **No**. In caso contrario, verranno sincronizzati.
 
-1. Seleziona il flusso di lavoro e fai clic su **Attiva**.
+1. Selezionare il flusso di lavoro e fare clic su **Attiva**.
 
    ![](assets/image2015-8-11-8-3a57-3a29.png)
 
    >[!TIP]
    >
-   >Consulta [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} per impostare regole per sincronizzare solo i record per le persone con indirizzi e-mail.
+   >Consulta [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"} per impostare regole per sincronizzare solo i record per gli utenti con indirizzi e-mail.
 
 ## Dettagli filtro di sincronizzazione {#sync-filter-details}
 
@@ -139,11 +139,11 @@ Di seguito sono riportati alcuni dettagli di implementazione che pensavamo doves
 
 * Avvia un&#39;operazione di sincronizzazione
 
-  Quando **SyncToMkto** il valore cambia da **No** a **Sì**, Dynamics notifica immediatamente a Marketo l&#39;avvio della sincronizzazione del record. Se il record esiste già, Marketo lo aggiorna. In caso contrario, Marketo crea il record.
+  Quando il valore **SyncToMkto** cambia da **No** a **Sì**, Dynamics invia immediatamente una notifica a Marketo per avviare la sincronizzazione del record. Se il record esiste già, Marketo lo aggiorna. In caso contrario, Marketo crea il record.
 
   >[!TIP]
   >
-  >A `Create [StartSync]` Questa operazione viene aggiunta al registro di Marketo quando ciò accade.
+  >Quando ciò accade, viene aggiunta un&#39;operazione `Create [StartSync]` al registro di Marketo.
 
 * Interrompere un&#39;operazione di sincronizzazione
 
@@ -151,6 +151,6 @@ Di seguito sono riportati alcuni dettagli di implementazione che pensavamo doves
 
 >[!MORELIKETHIS]
 >
->* [Filtro sincronizzazione Microsoft Dynamics: qualificato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
+>* [Filtro di sincronizzazione di Microsoft Dynamics: qualificato](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-qualify.md){target="_blank"}
 >* [Filtro sincronizzazione Microsoft Dynamics: Unisci](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/microsoft-dynamics-sync-filter-merge.md){target="_blank"}
 >* [Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/create-a-custom-dynamics-sync-filter/custom-sync-filter-rules-for-an-email-address.md){target="_blank"}

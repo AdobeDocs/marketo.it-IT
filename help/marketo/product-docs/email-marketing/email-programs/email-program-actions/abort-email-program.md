@@ -19,11 +19,11 @@ Ops! Premi il freno! Questo programma e-mail non deve uscire.
 >
 >Questo articolo ha lo scopo di aiutarti a impedire che le e-mail escano prima che vengano inviate. Non è possibile richiamare le e-mail inviate.
 
-1. In un programma e-mail, fai clic su **Interrompi programma**.
+1. In un programma di posta elettronica, fare clic su **Interrompi programma**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Clic **Interrompi** per una conferma completa.
+1. Fai clic su **Interrompi** per una conferma completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

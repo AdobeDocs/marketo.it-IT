@@ -6,7 +6,7 @@ exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 1%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 1%
 
 È possibile creare tipi di voce personalizzati da utilizzare nella visualizzazione Programmazione. In questo modo potrai tenere traccia di tutte le voci dell’agenda non Marketo che influiscono sul programma.
 
-1. Vai a **[!UICONTROL Amministratore]** e fai clic su **[!UICONTROL Tag]**.
+1. Vai alla sezione **[!UICONTROL Amministratore]** e fai clic su **[!UICONTROL Tag]**.
 
    ![](assets/admintags.png)
 
-1. Clic **[!UICONTROL Tipo di voce calendario]**.
+1. Fare clic su **[!UICONTROL Tipo voce calendario]**.
 
    ![](assets/image2014-9-15-15-3a41-3a33.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Tipo di voce]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Tipo di voce]**.
 
    ![](assets/image2014-9-15-15-3a41-3a58.png)
 
@@ -31,7 +31,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-15-16-3a11-3a24.png)
 
-1. Seleziona un **[!UICONTROL Colore di ingresso]**.
+1. Seleziona un **[!UICONTROL Colore voce]**.
 
    ![](assets/image2014-9-15-16-3a3-3a55.png)
 

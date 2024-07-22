@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Ecco come creare una nuova finestra di dialogo.
 
-1. Clic **[!UICONTROL Finestre di dialogo]**.
+1. Fai clic su **[!UICONTROL Finestre di dialogo]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Fai clic su **[!UICONTROL Crea nuovo]** pulsante.
+1. Fare clic sul pulsante **[!UICONTROL Crea nuovo]**.
 
    ![](assets/create-a-dialogue-2.png)
 
@@ -34,5 +34,5 @@ Quindi, scopri come [creare un flusso](/help/marketo/product-docs/demand-generat
 
 >[!MORELIKETHIS]
 >
->* [Criteri di pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
->* [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Criteri pubblico](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md){target="_blank"}
+>* [Trasmetti Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

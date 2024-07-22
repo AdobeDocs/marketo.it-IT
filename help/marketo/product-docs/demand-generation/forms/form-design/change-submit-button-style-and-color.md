@@ -23,7 +23,7 @@ Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di 
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Seleziona la **Invia** e fai clic su **Modifica** accanto a Stile pulsante.
+1. Seleziona il pulsante **Invia** e fai clic su **Modifica** accanto a Stile pulsante.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di 
    >
    >È inoltre possibile immettere manualmente il codice colore.
 
-1. Clic **Seleziona**.
+1. Fai clic su **Seleziona**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

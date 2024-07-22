@@ -6,7 +6,7 @@ exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Controlla i criteri password della tua iscrizione. Ecco come.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. Clic **[!UICONTROL Impostazioni di accesso]**.
+1. Fare clic su **[!UICONTROL Impostazioni accesso]**.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. Sotto **[!UICONTROL Impostazioni di protezione]**, fai clic su **[!UICONTROL Modifica]**.
+1. In **[!UICONTROL Impostazioni protezione]**, fare clic su **[!UICONTROL Modifica]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Seleziona un **[!UICONTROL Modello]**. Per opzioni avanzate, fai clic su **[!UICONTROL Avanzate]** a discesa.
+1. Seleziona un **[!UICONTROL modello]**. Per opzioni avanzate, fare clic sul menu a discesa **[!UICONTROL Avanzate]**.
 
    ![](assets/change-your-password-security-settings-4.png)
 
@@ -41,16 +41,16 @@ Controlla i criteri password della tua iscrizione. Ecco come.
 
    >[!TIP]
    >
-   >In entrata **[!UICONTROL Personalizzato]**, selezionare le caselle per indicare le caratteristiche che si desidera includere quando si creano le password.
+   >In **[!UICONTROL Personalizzato]**, selezionare le caselle per indicare le caratteristiche che si desidera includere quando si creano le password.
 
-1. Imposta il **[!UICONTROL Scade]**. Questa funzione richiede automaticamente agli utenti di reimpostare le password dopo un certo periodo di tempo. Questo include anche l’utente amministratore.
+1. Imposta **[!UICONTROL Scadenza]**. Questa funzione richiede automaticamente agli utenti di reimpostare le password dopo un certo periodo di tempo. Questo include anche l’utente amministratore.
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >Gli utenti esistenti non verranno informati delle modifiche. Imposta **[!UICONTROL Scade]** , impostare dapprima su 30 giorni per assicurarsi che tutti abbiano eseguito l&#39;aggiornamento alle nuove impostazioni, quindi riportarlo alla cadenza originale.
+   >Gli utenti esistenti non verranno informati delle modifiche. Imposta **[!UICONTROL Scadenza]** su 30 giorni per assicurarti che tutti abbiano eseguito l&#39;aggiornamento alle nuove impostazioni, quindi ripristina la cadenza originale.
 
-1. Imposta il **[!UICONTROL Timeout sessione inattiva]**. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover accedere nuovamente a Marketo.
+1. Imposta il **[!UICONTROL timeout sessione inattiva]**. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover accedere nuovamente a Marketo.
 
    ![](assets/change-your-password-security-settings-6.png)

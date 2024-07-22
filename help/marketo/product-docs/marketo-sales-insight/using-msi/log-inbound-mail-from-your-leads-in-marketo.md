@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Puoi anche fare clic con il pulsante destro del mouse su un messaggio e scegliere **Accedi a Marketo**.
+>È inoltre possibile fare clic con il pulsante destro del mouse su un messaggio e scegliere **Accedi a Marketo**.
 
 Dovresti vedere una conferma.
 
@@ -43,5 +43,5 @@ Registra le risposte del lead per aggiungerle alla cronologia in Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Inviare e tenere traccia di un messaggio e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Inviare e tenere traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Invia e tieni traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

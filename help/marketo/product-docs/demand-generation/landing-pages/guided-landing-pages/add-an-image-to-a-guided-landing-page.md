@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A differenza delle pagine di destinazione in formato libero, le pagine di destinazione guidate dispongono di spazi predefiniti e bloccati in cui aggiungere immagini.
 
-1. Seleziona una pagina di destinazione guidata. Clic **Modifica bozza**.
+1. Seleziona una pagina di destinazione guidata. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 

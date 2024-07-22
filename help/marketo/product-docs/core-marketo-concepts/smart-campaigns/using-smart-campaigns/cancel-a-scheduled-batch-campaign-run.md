@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Se hai pianificato un’esecuzione per una delle tue campagne batch e desideri annullarla, ecco come.
 
-1. Seleziona la campagna e passa a **[!UICONTROL Pianificazione]** scheda.
+1. Seleziona la campagna e passa alla scheda **[!UICONTROL Pianifica]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-1.png)
 
-1. Individuare l&#39;esecuzione pianificata che si desidera annullare e fare clic su **x** accanto.
+1. Individua l&#39;esecuzione pianificata da annullare e fai clic su **x** accanto.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-2.png)
 
-1. Conferma l’annullamento facendo clic su **[!UICONTROL OK]**.
+1. Confermare l&#39;annullamento facendo clic su **[!UICONTROL OK]**.
 
    ![](assets/cancel-a-scheduled-batch-campaign-run-3.png)
 

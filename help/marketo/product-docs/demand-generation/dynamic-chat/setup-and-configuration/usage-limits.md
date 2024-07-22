@@ -2,7 +2,8 @@
 description: Impostazioni di sicurezza - Documentazione di Marketo - Documentazione del prodotto
 title: Impostazioni di protezione
 feature: Dynamic Chat
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+exl-id: c3c26319-d819-4a12-a77b-da5d57dc3620
+source-git-commit: 18494906815d907371996ae6c93a3ed59f139ffc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Visita la pagina Limiti di utilizzo per visualizzare informazioni importanti, ad esempio le informazioni sul pacchetto e lo stato del limite di utilizzo.
 
-1. In Configurazione, fai clic su **[!UICONTROL Limiti di utilizzo]**.
+1. In Configurazione fare clic su **[!UICONTROL Limiti di utilizzo]**.
 
    ![](assets/usage-limits-1.png)
 

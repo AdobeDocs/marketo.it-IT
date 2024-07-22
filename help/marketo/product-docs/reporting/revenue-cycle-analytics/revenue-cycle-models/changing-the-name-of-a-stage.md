@@ -15,15 +15,15 @@ ht-degree: 2%
 
 Cambiare idea? Non è un problema. Ridenominare una fase nel modellatore del ciclo dei ricavi è facile.
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Seleziona un modellatore del ciclo dei ricavi da aggiornare. Clic **Modifica bozza**.
+1. Seleziona un modellatore del ciclo dei ricavi da aggiornare. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Seleziona la fase da aggiornare e immetti una nuova **Nome**.
+1. Seleziona la fase da aggiornare e immetti un nuovo **Nome**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
@@ -31,4 +31,4 @@ Cambiare idea? Non è un problema. Ridenominare una fase nel modellatore del cic
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 
-   Vedi? Facile! Ricorda a [Approvare il modello](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).
+   Vedi? Facile! Ricorda di [Approvare il modello](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md).

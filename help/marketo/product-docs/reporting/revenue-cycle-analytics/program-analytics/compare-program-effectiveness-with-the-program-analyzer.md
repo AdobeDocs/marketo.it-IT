@@ -6,7 +6,7 @@ exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Utilizza l’analizzatore di programmi per identificare i programmi più efficac
 >
 >[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
-1. Clic **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/image2014-9-17-18-3a50-3a30.png)
 
@@ -37,7 +37,7 @@ Utilizza l’analizzatore di programmi per identificare i programmi più efficac
 
    >[!TIP]
    >
-   >Un modo rapido per filtrare i programmi su un solo canale consiste nel selezionare **Visualizza** > **Per canale**, fare clic sulla bolla del canale e quindi fare clic sul nome del canale nella finestra di dialogo a comparsa.
+   >Un modo rapido per filtrare i programmi su un solo canale consiste nel selezionare **Visualizza** > **Per canale**, fare clic sulla bolla per quel canale, quindi fare clic sul nome del canale nella finestra di dialogo a comparsa.
 
 1. Utilizza il menu a discesa Asse X per scegliere una metrica per l’asse orizzontale. Inizieremo con il costo del programma.
 
@@ -53,7 +53,7 @@ Utilizza l’analizzatore di programmi per identificare i programmi più efficac
 
    >[!TIP]
    >
-   >È inoltre possibile migliorare la visualizzazione passando da una scala lineare a una logaritmica o viceversa. Utilizza il **Scala** menu nella parte superiore.
+   >È inoltre possibile migliorare la visualizzazione passando da una scala lineare a una logaritmica o viceversa. Utilizza il menu **Scala** nella parte superiore.
 
 1. Esplora il grafico risultante.
 
@@ -67,13 +67,13 @@ Utilizza l’analizzatore di programmi per identificare i programmi più efficac
 
    >[!NOTE]
    >
-   >Molte delle metriche selezionabili nell’analizzatore di programmi sono disponibili con calcoli di primo contatto (FT) e multi contatto (MT). È importante comprendere il [differenza tra attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Molte delle metriche selezionabili nell’analizzatore di programmi sono disponibili con calcoli di primo contatto (FT) e multi contatto (MT). È importante comprendere la [differenza tra l&#39;attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Osserva come le bolle cambiano dimensione nel grafico.
 
    ![](assets/image2014-9-17-18-3a54-3a57.png)
 
-   Aggiungendo **(FT) Entrate realizzate** Tuttavia, vediamo rapidamente che, mentre l&#39;Origami Expo ha acquisito un sacco di nuovi nomi, si traduce in ricavi relativamente bassi. Inoltre, notiamo che il programma Paper Fest 12 sta ottenendo nomi sempre più piccoli, ma migliori, in quanto influenza maggiori ricavi ottenuti (bolla più grande).
+   Aggiungendo **(FT) Revenue Won**, notiamo rapidamente che, mentre Origami Expo ha acquisito un sacco di nuovi nomi, si traduce in un fatturato relativamente basso. Inoltre, notiamo che il programma Paper Fest 12 sta ottenendo nomi sempre più piccoli, ma migliori, in quanto influenza maggiori ricavi ottenuti (bolla più grande).
 
 1. Utilizza il menu a discesa Colore per aggiungere una quarta metrica. Vedremo le entrate (FT) da investimenti.
 
@@ -87,9 +87,9 @@ Vediamo che il programma Paper Fest 12 non solo influenza maggiori ricavi (bolla
 
 >[!TIP]
 >
->È possibile confrontare rapidamente i programmi di un canale con quelli di un altro. Utilizza semplicemente **Filtro canale** nella parte superiore della finestra per aggiungere altri canali.
+>È possibile confrontare rapidamente i programmi di un canale con quelli di un altro. Utilizza il **Filtro canale** nella parte superiore della finestra per aggiungere altri canali.
 
 >[!MORELIKETHIS]
 >
->* [Esplora i dettagli del programma e del canale con l’analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Confrontare l’efficacia dei canali con l’analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Esplora i dettagli del programma e del canale con l&#39;analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Confrontare l&#39;efficacia del canale con l&#39;analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)

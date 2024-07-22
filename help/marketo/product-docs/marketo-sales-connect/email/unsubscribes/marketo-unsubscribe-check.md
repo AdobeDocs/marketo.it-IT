@@ -21,15 +21,15 @@ Il controllo per annullare l’abbonamento a Marketo utilizza la connessione del
 
 ## Attivazione {#turning-it-on}
 
-1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/one-2.png)
 
-1. In Impostazioni amministrazione, fai clic su **Annulla iscrizione**.
+1. In Impostazioni amministrazione fare clic su **Annulla sottoscrizione**.
 
    ![](assets/two-3.png)
 
-1. Clic **Integrazioni**.
+1. Fai clic su **Integrazioni**.
 
    ![](assets/three-3.png)
 
@@ -45,4 +45,4 @@ Controllo per annullare l’abbonamento a Marketo...
 * Richiede la connessione a Marketo
 * È un’impostazione globale
 * Blocca le e-mail inviate dall’applicazione web, dai client e-mail e da Salesforce
-* Registra un’e-mail non riuscita o impedisce a un utente di inviare quando tenta di inviare per tutti i flussi di lavoro (invio del plug-in e-mail, invio individuale, invio della campagna di vendita, selezione e invio multipli) ad eccezione di [raggruppa e-mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), in cui impediremo l’invio silenzioso delle e-mail
+* Registrerà un messaggio e-mail non riuscito o impedirà a un utente di inviarlo quando tenta di inviare per tutti i flussi di lavoro (invio del plug-in e-mail, invio di singoli utenti, invio della campagna di vendita, selezione multipla e invio) ad eccezione di [e-mail di gruppo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/composing-bulk-emails-with-select-and-send.md), in cui impediremo l&#39;invio silenzioso dei messaggi e-mail

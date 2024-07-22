@@ -23,7 +23,7 @@ Alcune informazioni aggiuntive sulle autorizzazioni:
 
 ## Autorizzazioni disponibili {#available-permissions}
 
-Quando [creare o modificare un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), è possibile selezionare una delle seguenti autorizzazioni per consentire tale ruolo selezionando le caselle appropriate.
+Quando [crei o modifichi un ruolo](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md), puoi selezionare quale delle seguenti autorizzazioni consentire per quel ruolo selezionando le caselle appropriate.
 
 ![](assets/descriptions-of-role-permissions-1.png)
 
@@ -32,16 +32,16 @@ Quando [creare o modificare un ruolo](/help/marketo/product-docs/administration/
 Visualizza e modifica le impostazioni nella sezione Account personale dell’amministratore.
 
 * Accedere ad Adobe Connect: consente agli utenti di accedere alla schermata Adobe Connect
-* Accedere a Adobe Experience Manager&#42; - Consente agli utenti di accedere alla schermata Adobe Experience Manager
-* Mappatura organizzazione Adobe di accesso&#42; - Consente agli utenti di accedere alla schermata Mappatura organizzazione Adobe
-* Accedi ad Admin Audit Trail&#42; - Consente agli utenti di accedere alla schermata Admin Audit Trail (Admin Audit Trail)
-* Accedi a prova di verifica dell’accesso&#42; - Consente agli utenti di accedere ad Access Audit Trail
+* Accedi a Adobe Experience Manager&#42; - Consente agli utenti di accedere alla schermata Adobe Experience Manager
+* Accedi a Mapping organizzazione Adobe&#42; - Consente agli utenti di accedere alla schermata Mapping organizzazione Adobe
+* Accesso Admin Audit Trail&#42; - Consente agli utenti di accedere alla schermata Admin Audit Trail
+* Accesso alla prova di verifica dell&#39;accesso&#42; - Consente agli utenti di accedere alla prova di verifica dell&#39;accesso
 * Accedi a Audit Trail: consente agli utenti di accedere sia ad Asset Audit Trail che ad Admin Audit Trail
 * Accedere a CAPTCHA: accedere alla schermata CAPTCHA
 * Accesso ai canali: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
 * Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Admin
-* Accesso al CRM: consente agli utenti di accedere al CRM, ad esempio [!DNL Salesforce] o [!DNL Microsoft Dynamics], in Admin
-* Accesso [[!DNL Data.com]](https://data.com) - Consente agli utenti di accedere all’azione di flusso Data.com
+* Accesso al CRM - Consente agli utenti di accedere al CRM, ad esempio [!DNL Salesforce] o [!DNL Microsoft Dynamics], in Admin
+* Accesso [[!DNL Data.com]](https://data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
 * Accedi a Amministrazione e-mail: consente agli utenti di accedere a Amministrazione e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
 * Accesso ai partner eventi: consente agli utenti di accedere a LaunchPoint in Admin
 * Accesso alla gestione dei campi: consente agli utenti di accedere alla gestione dei campi in Admin
@@ -50,17 +50,17 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Posizione di accesso: consente agli utenti di accedere alla posizione in Amministratore per impostare lingua, lingua, fuso orario e valuta predefiniti
 * Cronologia accesso - Consente agli utenti di accedere alla Cronologia accesso utente in Audit Trail
 * Impostazioni di accesso - Consente agli utenti di accedere alle impostazioni di accesso in Amministratore per sicurezza, restrizioni IP e impostazioni dei rapporti degli elenchi avanzati
-* Accedi a nuova esperienza&#42; - Consente agli utenti di accedere alla schermata Nuova esperienza
+* Accedi alla nuova esperienza&#42; - Consente agli utenti di accedere alla schermata Nuova esperienza
 * Accedi all’attività personalizzata di Marketo: consente agli utenti di accedere alle attività personalizzate di Marketo in Amministratore
 * Accedi a oggetto personalizzato Marketo: consente agli utenti di accedere a oggetti personalizzati Marketo in Amministrazione
-* Accesso [!DNL Munchkin] - Accesso degli utenti di GIves a [!DNL Munchkin] in Admin, per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
-* Accedere a Predictive Audiences&#42; - Consente agli utenti di accedere alla schermata Predictive Audiences (Tipi di pubblico predittivi)
+* Accesso a [!DNL Munchkin]: gli utenti GIves accedono a [!DNL Munchkin] in Admin per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
+* Accedi a Predictive Audiences&#42; - Consente agli utenti di accedere alla schermata Predictive Audiences
 * Accedere ad Analytics per il ciclo dei ricavi: consente agli utenti di accedere ad Analytics per il ciclo dei ricavi in Admin, per impostare Riepilogo sincronizzazione e Attribuzione
 * Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
 * Accedi a Sales Insight: consente agli utenti di gestire Sales Insight in Admin (Amministrazione) per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni
 * Accesso Single Sign-on: consente agli utenti di gestire il Single Sign-On in Admin, per abilitare SAML e lavorare con le impostazioni SAML e gli URL di pagina di reindirizzamento
 * Accedi a Smart Campaign: consente agli utenti di accedere a Smart Campaign in Admin, per limitare i limiti alle persone qualificate
-* Accedere alle API SOAP: consente agli utenti di gestire le API SOAP nei servizi web in Admin
+* Accesso all’API SOAP: consente agli utenti di gestire le API SOAP nei servizi web in Admin
 * Accedi ai tag: consente agli utenti di accedere a tutti i tag personalizzati eccetto il tag Canale
 * Accedi a Treasure Chest: consente agli utenti di accedere alle funzioni sperimentali di Treasure Chest in Admin
 * Accesso agli utenti: consente agli utenti di modificare e gestire gli utenti (ma non i ruoli) in Amministratore
@@ -71,13 +71,13 @@ _&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione v
 
 ## API di accesso  {#access-api}
 
-Offre agli utenti le **Solo API** **Ruolo** accedere alle singole API elencate di seguito.
+Consente agli utenti con **Solo API** **Ruolo** di accedere alle singole API elencate di seguito.
 
-* Approva risorse
+* Approva Assets
 * Esegui campagna
 * Attività di sola lettura
 * Metadati attività di sola lettura
-* Risorse di sola lettura
+* Assets di sola lettura
 * Campagna di sola lettura
 * Società di sola lettura
 * Oggetto personalizzato di sola lettura
@@ -87,7 +87,7 @@ Offre agli utenti le **Solo API** **Ruolo** accedere alle singole API elencate d
 * Venditore di sola lettura
 * Attività di lettura/scrittura
 * Metadati attività di lettura/scrittura
-* Risorse di lettura/scrittura
+* Assets di lettura/scrittura
 * Campagna di lettura/scrittura
 * Società di lettura/scrittura
 * Oggetto personalizzato di lettura/scrittura
@@ -101,7 +101,7 @@ Offre agli utenti le **Solo API** **Ruolo** accedere alle singole API elencate d
 Consente agli utenti di accedere alle schede di Analytics, a Informazioni e-mail, ai rapporti e ai tre elementi seguenti, a meno che non siano deselezionati.
 
 * Accesso a Gestione ricavi: l&#39;annullamento della selezione comporta la rimozione dell&#39;accesso dell&#39;utente a Gestione ricavi
-* Crea rapporto&#42; : consente agli utenti di creare, clonare, leggere, aggiornare e spostare le risorse dei rapporti in Analytics e nelle attività di marketing, nonché le risorse di Revenue Cycle Modeler
+* Crea report&#42; - Consente agli utenti di creare, clonare, leggere, aggiornare e spostare le risorse report in Analytics e nelle attività di marketing, nonché le risorse Modeler del ciclo dei ricavi
 * Elimina rapporto: se si deseleziona, viene rimossa la possibilità dell’utente di eliminare rapporti
 * Esporta dati di Analytics: se si deseleziona, viene rimossa la possibilità dell’utente di esportare dati di Analytics
 
@@ -119,11 +119,11 @@ Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazion
 
 * Accedi all’e-mail
    * Modifica e-mail: consente agli utenti di modificare, creare e clonare le e-mail
-      * Rendi operativa l’e-mail: consente agli utenti di rendere operativa un’e-mail. Consulta: [Rendere operativa un’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Rendi operativa l’e-mail: consente agli utenti di rendere operativa un’e-mail. Vedere: [Rendere operativa un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Approva e-mail: consente agli utenti di approvare le e-mail.
       * Elimina e-mail: consente agli utenti di eliminare le e-mail.
-      * Imposta dominio con marchio: consente agli utenti di lavorare con i domini di branding. Consulta: [Aggiungi un dominio di branding aggiuntivo](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
+      * Imposta dominio con marchio: consente agli utenti di lavorare con i domini di branding. Vedere: [Aggiungi un dominio di branding aggiuntivo](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md)
 
 * Accedi al modello di e-mail
 
@@ -186,7 +186,7 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
 * Importa oggetto personalizzato
 * Importa elenco
 * Unisci persone
-* Eseguire azioni a flusso singolo: consente agli utenti di eseguire **Modifica valore dati** passaggio di flusso sulle persone dal database
+* Esegui azioni a flusso singolo: consente agli utenti di eseguire il passaggio di flusso **Modifica valore dati** sulle persone dal database
 
 * Visualizza dati opportunità: nasconde le informazioni sull’opportunità nella pagina dei dettagli della persona.
 
@@ -227,15 +227,15 @@ Accedere a SEO
 
 _&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
-## Targeting e personalizzazione {#targeting-and-personalization}
+## Targeting e Personalization {#targeting-and-personalization}
 
-* Amministrare la personalizzazione web
+* Amministrare Web Personalization
 * Editor campagna CRE
 * Modulo di avvio campagna CRE
 * Editor campagna web
 * Modulo di avvio campagna web
 
-Amministrazione di Workspace
+Amministrazione Workspace
 
-* Accesso amministratore per un’area di lavoro specifica (solo se sono state abilitate aree di lavoro)
+* Accesso amministratore per un Workspace specifico (solo se sono state abilitate le aree di lavoro)
 * Spostare le risorse tra le aree di lavoro (solo se sono state abilitate le aree di lavoro)

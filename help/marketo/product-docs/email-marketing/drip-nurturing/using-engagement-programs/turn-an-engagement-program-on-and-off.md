@@ -19,7 +19,7 @@ ht-degree: 0%
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il programma di coinvolgimento e fai clic su **Configurazione**.
+1. Selezionare il programma di coinvolgimento e fare clic su **Configurazione**.
 
    >[!NOTE]
    >
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Doppio clic **Stato del programma**.
+1. Fare doppio clic su **Stato programma**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo consente di condividere uno o più modelli tra più aree di lavoro. Ecco come.
 
-1. Vai a **Analytics** sezione.
+1. Vai alla sezione **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Fai clic con il pulsante destro del mouse sulla **I miei modelli** cartella e fai clic su **Nuova cartella**.
+1. Fare clic con il pulsante destro del mouse sulla cartella **Modelli** e scegliere **Nuova cartella**.
 
    ![](assets/image2014-10-3-14-3a5-3a23.png)
 
@@ -27,7 +27,7 @@ Marketo consente di condividere uno o più modelli tra più aree di lavoro. Ecco
 
    ![](assets/image2014-10-3-14-3a5-3a38.png)
 
-1. Trascina i modelli da condividere nel **Condividi cartella**.
+1. Trascina i modelli da condividere nella **cartella di condivisione**.
 
    ![](assets/image2014-10-3-14-3a5-3a52.png)
 
@@ -39,7 +39,7 @@ Marketo consente di condividere uno o più modelli tra più aree di lavoro. Ecco
    >
    >La condivisione di un modello con un’altra area di lavoro consente a tali utenti di eseguire rapporti basati sul modello.
 
-1. Seleziona le aree di lavoro con cui vuoi condividere la cartella e fai clic su **Salva**.
+1. Selezionare le aree di lavoro con cui condividere la cartella e fare clic su **Salva**.
 
    ![](assets/image2014-10-3-14-3a6-3a22.png)
 

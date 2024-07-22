@@ -6,7 +6,7 @@ exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Puoi rimuovere un filtro in qualsiasi momento facendo clic sulla X accanto a ess
   </tr> 
   <tr> 
    <td colspan="1"><strong>Attributi personalizzati</strong></td> 
-   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">si abilita</a> per l’analisi delle opportunità può essere filtrato in Performance Insights.</p></td> 
+   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">abilitati</a> per l'analisi dell'opportunità possono essere filtrati in Performance Insights.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Periodo di investimento</strong></p></td> 

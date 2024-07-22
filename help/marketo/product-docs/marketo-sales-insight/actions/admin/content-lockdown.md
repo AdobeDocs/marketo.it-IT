@@ -18,11 +18,11 @@ Attivando il blocco del contenuto, impedisci agli utenti non amministratori di m
 >
 >Gli utenti potranno comunque modificare il contenuto di un’e-mail al momento dell’invio o del lancio di una campagna.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/content-lockdown-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/content-lockdown-2.png)
 

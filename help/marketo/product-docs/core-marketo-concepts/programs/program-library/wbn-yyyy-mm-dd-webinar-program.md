@@ -2,10 +2,10 @@
 description: Programma WBN-YYYY-MM-DD-Webinar - Documentazione di Marketo - Documentazione del prodotto
 title: Programma del webinar WBN-YYYY-MM-DD
 feature: Programs
-exl-id: af2febb3-1773-4507-a694-c6c0f3d65a22
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '591'
 ht-degree: 5%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 Questo è un esempio di un programma di webinar con gestione della registrazione, tre e-mail di invito, promemoria per la partecipazione e e-mail di follow-up che utilizzano un programma di eventi di Marketo Engage.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -32,8 +32,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <br/>02 - In lista d’attesa
    <br/>03 - Registrato
    <br/>04 - Nessuno spettacolo
-   <br/>05 - Partecipazione avvenuta - Esito positivo
-   <br/>06 - Partecipazione On-Demand - Esito positivo</td>
+   <br/>05 - Partecipazione avvenuta - Completata
+   <br/>06 - Partecipazione On-Demand riuscita</td>
    <td>Inclusivo</td>
    <td>Evento
    <p>(Integrato: Evento con webinar)</td>
@@ -41,7 +41,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -159,7 +159,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Assets: ospita tutte le risorse creative 
+   <td>Assets - Raccoglie tutte le risorse creative 
 <br/>(sottocartelle per e-mail, pagine di destinazione e Forms)</td>
   </tr>
   <tr> 
@@ -221,8 +221,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td><code>{{my.Event-Description}}</code></td>
    <td>Doppio clic per dettagli  
 <br/><code><--My Event Description Here--></code> 
-<br/>Modifica questa descrizione dell’evento a livello di programma, nella scheda I miei token. 
-<br/>Imparerai: 
+<br/>Modificare la descrizione dell'evento a livello di programma, nella scheda Token personali. 
+<br/>Verranno fornite informazioni: 
 <li>Punto elenco 1</li>
 <li>Punto elenco 2</li>
 <li>Punto elenco 3</li></td>
@@ -292,7 +292,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 
@@ -325,7 +325,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;05 - Partecipazione avvenuta (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;05 - Partecipazione avvenuta (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che le e-mail vengano inviate.
 
 >[!IMPORTANT]
 >

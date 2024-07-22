@@ -23,14 +23,14 @@ I rapporti di Revenue Explorer possono essere salvati nel file desiderato.
    >
    >Le modifiche apportate al report non vengono salvate automaticamente. Quindi assicurati di risparmiare spesso!
 
-1. Assegna un nome descrittivo al rapporto, seleziona una posizione e fai clic su **Salva**!
+1. Assegna un nome descrittivo al report, seleziona un percorso e fai clic su **Salva**.
 
    ![](assets/image2015-3-26-13-3a30-3a33.png)
 
-   Tutto qui! Ora puoi accedere al tuo file in **Sfoglia file**.
+   Tutto qui! È ora possibile accedere al file in **Sfoglia file**.
 
    ![](assets/image2015-3-27-11-3a32-3a51.png)
 
 >[!MORELIKETHIS]
 >
->[Iscriviti a un rapporto di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Abbonati a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

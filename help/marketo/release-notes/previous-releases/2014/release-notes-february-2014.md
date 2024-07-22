@@ -6,7 +6,7 @@ exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -17,35 +17,35 @@ Le seguenti funzioni sono incluse nella versione di febbraio 2014. Per informazi
 
 ## Punteggio di coinvolgimento come criterio di vincita {#engagement-score-as-winning-criteria}
 
-[Utilizzare il punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) per determinare la variante vincente nel test A/B split o nel test Champion/Challenger. Il test deve essere eseguito per un minimo di 24 ore, per ottenere un punteggio di coinvolgimento adeguato.
+[Utilizza il punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) per determinare la variante vincente nel test A/B split o nel test Champion/Challenger. Il test deve essere eseguito per un minimo di 24 ore, per ottenere un punteggio di coinvolgimento adeguato.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
 ## Scheda Risultati programma e-mail {#email-program-results-tab}
 
-[Visualizzare i risultati](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) e attività registrate per il programma e-mail.
+[Visualizza i risultati](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) e le attività registrate per il programma e-mail.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
 ## Persone/lead bloccati dall&#39;invio {#people-leads-blocked-from-mailing}
 
-[Fai clic sulle persone o i lead a cui non è consentito inviare messaggi](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) numero per vedere chi non riceverà l’e-mail a causa di annullamento dell’abbonamento, iscrizione in blacklist, indirizzo e-mail non valido o vuoto o sospensione del marketing.
+[Fai clic sul numero di persone/lead che non possono inviare](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) per vedere chi non riceverà l&#39;e-mail perché è stato annullato l&#39;abbonamento, inserito nella blacklist, ha un indirizzo e-mail non valido o vuoto o perché il marketing è stato sospeso.
 
 ![](assets/image2014-9-22-10-3a47-3a42.png)
 
 ## Esporta dati programma e-mail {#export-email-program-data}
 
-[Esportare le metriche e-mail in Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), inclusi i dati della variante del test AB.
+[Esporta metriche e-mail in Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), inclusi i dati della variante del test AB.
 
-## [!UICONTROL Punteggio di coinvolgimento] in [!UICONTROL Prestazioni del flusso di coinvolgimento] Report {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Punteggio di coinvolgimento] in [!UICONTROL Rapporto prestazioni flusso di coinvolgimento] {#engagement-score-in-engagement-stream-performance-report}
 
-Il punteggio di coinvolgimento è stato aggiunto al [[!UICONTROL Prestazioni del flusso di coinvolgimento] Report](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per aiutarti a vedere quanto sia efficace il contenuto del programma di coinvolgimento.
+Il punteggio di coinvolgimento è stato aggiunto al report [[!UICONTROL Prestazioni del flusso di coinvolgimento]](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per aiutarti a vedere l&#39;efficacia del contenuto nel programma di coinvolgimento.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
 ## Dettagli del programma in E-mail Analysis {#program-details-in-email-analysis}
 
-[Ora puoi raggruppare le metriche e-mail per nome del programma, canale e tag](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). Il nome del programma viene aggiunto al campo Nome e-mail quando l’e-mail è una risorsa locale del programma. Il nuovo campo Nome programma mostra il nome del programma della campagna avanzata che ha inviato l’e-mail. Potrebbe essere diverso dal programma nel campo Nome e-mail se l’e-mail è una risorsa locale di un altro programma.
+[Ora puoi raggruppare le metriche delle e-mail per Nome programma, Canale e Tag](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md). Il nome del programma viene aggiunto al campo Nome e-mail quando l’e-mail è una risorsa locale del programma. Il nuovo campo Nome programma mostra il nome del programma della campagna avanzata che ha inviato l’e-mail. Potrebbe essere diverso dal programma nel campo Nome e-mail se l’e-mail è una risorsa locale di un altro programma.
 
 ![](assets/image2014-9-22-10-3a50-3a57.png)
 
@@ -61,6 +61,6 @@ Sono stati aggiornati i seguenti nomi di filtro e attivatore:
 
 ## Miglioramenti di Forms 2.0 {#forms-enhancements}
 
-Con questa versione di Forms 2.0 sono stati apportati diversi aggiornamenti relativi alla &quot;qualità della vita&quot;. Oltre ad abilitare la profilatura progressiva sui moduli incorporati, abbiamo apportato modifiche al flusso di lavoro e all’interfaccia utente che renderanno più semplice l’utilizzo delle funzionalità più avanzate nell’editor, [incluse le regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), pagine di ringraziamento avanzate e campi nascosti.
+Con questa versione di Forms 2.0 sono stati apportati diversi aggiornamenti relativi alla &quot;qualità della vita&quot;. Oltre ad abilitare la profilatura progressiva sui moduli incorporati, sono state apportate modifiche al flusso di lavoro e all&#39;interfaccia utente che semplificheranno l&#39;utilizzo delle funzionalità più avanzate nell&#39;editor, [incluse le regole di visibilità](/help/marketo/product-docs/demand-generation/forms/form-fields/dynamically-toggle-visibility-of-a-form-field.md), le pagine di ringraziamento avanzate e i campi nascosti.
 
 ![](assets/image2014-9-22-10-3a51-3a54.png)

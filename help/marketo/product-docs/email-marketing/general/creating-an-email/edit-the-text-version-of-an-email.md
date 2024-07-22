@@ -6,7 +6,7 @@ exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Quando crei un’e-mail, potresti desiderare che la versione del testo sia formu
 
 >[!NOTE]
 >
->Questo non è un articolo sulla creazione di un messaggio e-mail di solo testo. Per informazioni al riguardo, consulta [Creare un messaggio e-mail di solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
+>Questo non è un articolo sulla creazione di un messaggio e-mail di solo testo. Per ulteriori informazioni, vedere [Creare un&#39;e-mail di solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Nell’editor e-mail, fai clic su **Testo** nella parte inferiore dell’e-mail.
+1. Nell&#39;editor e-mail, fai clic sulla scheda **Testo** nella parte inferiore dell&#39;e-mail.
 
    ![](assets/one-5.png)
 

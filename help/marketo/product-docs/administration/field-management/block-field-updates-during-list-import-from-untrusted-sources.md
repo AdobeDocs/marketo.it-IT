@@ -21,34 +21,34 @@ In alcuni elenchi è possibile considerare attendibili i dati più di altri. A v
 
 ## Blocco Degli Aggiornamenti Dei Campi Da Origini Non Attendibili {#blocking-field-updates-from-untrusted-sources}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-2.png)
 
-1. Individuare il campo desiderato, selezionarlo, quindi in **[!UICONTROL Azioni campo]**, fai clic su **[!UICONTROL Blocca aggiornamenti campi]**.
+1. Trova il campo desiderato, selezionalo, quindi in **[!UICONTROL Azioni campo]** fai clic su **[!UICONTROL Blocca aggiornamenti campo]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-3.png)
 
-1. Verifica **[!UICONTROL Origine non attendibile importazione elenco]** e fai clic su **[!UICONTROL Applica]**.
+1. Controlla **[!UICONTROL Origine non attendibile importazione elenchi]** e fai clic su **[!UICONTROL Applica]**.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-4.png)
 
 >[!TIP]
 >
->È possibile proteggere i campi da tutti gli elenchi, attendibili e non attendibili, selezionando anche **[!UICONTROL Origine attendibile importazione elenco]**.
+>È possibile proteggere i campi da tutti gli elenchi, attendibili e non attendibili, selezionando anche **[!UICONTROL Origine attendibile importazione elenchi]**.
 
 Ripetere i passaggi precedenti per tutti gli altri campi che si desidera proteggere dagli elenchi non attendibili.
 
 ## Esecuzione di un&#39;importazione di elenchi non attendibili {#running-an-untrusted-list-import}
 
-1. Durante l’importazione dell’elenco, assicurati di selezionare **[!UICONTROL Non attendibile]** se si desidera che tutti i campi impostati nel passaggio precedente siano sicuri.
+1. Quando esegui l&#39;importazione dell&#39;elenco, assicurati di selezionare **[!UICONTROL Non attendibile]** se desideri che tutti i campi configurati nel passaggio precedente siano sicuri.
 
    ![](assets/blocking-field-updates-from-untrusted-sources-5.png)
 
-Per istruzioni dettagliate sull&#39;importazione degli elenchi, vedere [Importa un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
+Per istruzioni dettagliate sull&#39;importazione degli elenchi, vedere [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
 Ottimo lavoro. Ora sai come proteggere i campi chiave dagli elenchi non attendibili.

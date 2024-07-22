@@ -16,19 +16,19 @@ Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate 
 
 ## Abilita Ispettore campagna {#enable-campaign-inspector}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/campaign-inspector-1.png)
 
-1. Clic **[!UICONTROL Treasure Chest]**.
+1. Fai clic su **[!UICONTROL Sfondo tesoro]**.
 
    ![](assets/campaign-inspector-2.png)
 
-1. Clic **[!UICONTROL Modifica]** accanto a Ispettore campagna.
+1. Fai clic su **[!UICONTROL Modifica]** accanto a Ispettore campagna.
 
    ![](assets/campaign-inspector-3.png)
 
-1. Seleziona la **[!UICONTROL Abilitato]** e fai clic su **[!UICONTROL Salva]**.
+1. Selezionare la casella di controllo **[!UICONTROL Abilitato]** e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/campaign-inspector-4.png)
 
@@ -42,7 +42,7 @@ Una volta abilitata, la scheda Ispettore campagna si trova accanto alla scheda A
 
 ![](assets/campaign-inspector-5.png)
 
-Fai clic su **[!UICONTROL Campagne attive]** per filtrare in base a diversi tipi di campagne.
+Fai clic sul menu a discesa **[!UICONTROL Campagne attive]** per filtrare in base a diversi tipi di campagne.
 
 ![](assets/campaign-inspector-6.png)
 

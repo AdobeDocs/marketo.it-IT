@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead.
 
-1. Vai a **Marketo** area in Salesforce1.
+1. Vai all&#39;area **Marketo** in Salesforce1.
 
    ![](assets/image2015-4-20-15-3a14-3a15.png)
 
@@ -33,6 +33,6 @@ Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead.
 
 >[!MORELIKETHIS]
 >
->* [Momenti interessanti in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Momenti di interesse in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)
 >* [Elementi di maggiore rilevanza in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/best-bets-in-salesforce1.md)

@@ -23,24 +23,24 @@ L&#39;etichetta di un modulo può essere modificata in qualsiasi elemento, ad es
 
    ![](assets/image2014-9-15-17-3a26-3a27.png)
 
-1. Seleziona il campo e quindi modifica il **Etichetta**. I campi in Impostazioni modulo rifletteranno le etichette immesse.
+1. Selezionare il campo e quindi modificare l&#39;**etichetta**. I campi in Impostazioni modulo rifletteranno le etichette immesse.
 
    ![](assets/image2014-9-15-17-3a26-3a42.png)
 
    >[!TIP]
    >
-   >Se desideri ottenere favoloso, puoi fare clic sul ![matita](assets/image2014-9-15-17-3a27-3a7.png). Verrà aperto un editor Rich Text che consentirà di visitare la città con immagini, collegamenti e altro ancora.
+   >Se desideri ottenere fantasia, puoi fare clic sulla ![matita](assets/image2014-9-15-17-3a27-3a7.png). Verrà aperto un editor Rich Text che consentirà di visitare la città con immagini, collegamenti e altro ancora.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-17-3a27-3a26.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-17-3a27-3a44.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
+>Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
 Eccolo! A poco a poco stai diventando un campione di design.

@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Un amministratore può scegliere di richiedere l’accesso per visualizzare un rapporto.
 
-1. Clic **Amministratore**, e quindi **Impostazioni di accesso**.
+1. Fare clic su **Amministratore**, quindi su **Impostazioni accesso**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Clic **Modifica** per le impostazioni dei rapporti degli elenchi smart.
+1. Fare clic su **Modifica** per le impostazioni report elenchi smart.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Seleziona **Sì** per scaricare i rapporti, è necessario effettuare l’accesso.
+1. Selezionare **Sì** per richiedere l&#39;accesso per scaricare i report.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

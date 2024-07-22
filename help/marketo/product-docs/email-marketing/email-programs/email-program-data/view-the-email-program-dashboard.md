@@ -17,7 +17,7 @@ Scopri le prestazioni del tuo programma e-mail (con o senza un test A/B) con que
 
 >[!CAUTION]
 >
->Per una segnalazione accurata, evita _riutilizzo_ un messaggio e-mail da un programma e-mail, facendo riferimento a esso in una campagna intelligente o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un’e-mail, [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in quanto copia l’e-mail ma ne crea una nuova con un nuovo ID e-mail.
+>Per ottenere rapporti accurati, evita di _riutilizzare_ un&#39;e-mail da un programma e-mail, facendo riferimento ad essa in una campagna avanzata o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un&#39;e-mail, [clonala](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, in quanto copia l&#39;e-mail ma ne crea una nuova con un nuovo ID e-mail.
 
 ## Seleziona il programma e-mail {#select-your-email-program}
 
@@ -41,7 +41,7 @@ Se hai aggiunto un test A/B al programma e-mail e il test è attualmente in esec
 
 ## Visualizzazione programma e-mail {#email-program-view}
 
-In alternativa, se non hai aggiunto un test A/B *o* se il test è terminato, deve essere visualizzato quanto segue:
+In alternativa, se non hai aggiunto un test A/B *o* se il test è terminato, dovresti visualizzare quanto segue:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 
@@ -51,5 +51,5 @@ In alternativa, se non hai aggiunto un test A/B *o* se il test è terminato, dev
 
 >[!MORELIKETHIS]
 >
->* [Utilizzare la dashboard Programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
->* [Utilizzare il dashboard Programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)
+>* [Utilizza la dashboard del programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md)
+>* [Utilizza il dashboard del programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/use-the-email-program-dashboard.md)

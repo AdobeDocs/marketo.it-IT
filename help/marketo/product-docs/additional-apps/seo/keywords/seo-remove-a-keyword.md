@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se hai una parola chiave per la quale non desideri continuare a eseguire l’ottimizzazione, ecco come rimuoverla.
 
-1. Fai clic per passare alla **[!UICONTROL Parole chiave]** sezione.
+1. Fare clic per passare alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-13-3a35-3a52.png)
 
@@ -23,6 +23,6 @@ Se hai una parola chiave per la quale non desideri continuare a eseguire l’ott
 
    ![](assets/image2014-9-18-13-3a36-3a6.png)
 
-1. Clic **[!UICONTROL Elimina]** di nuovo per confermare.
+1. Fai di nuovo clic su **[!UICONTROL Elimina]** per confermare.
 
    ![](assets/image2014-9-18-13-3a36-3a11.png)

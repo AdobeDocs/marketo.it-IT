@@ -5,7 +5,7 @@ exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Se il secondo amministratore non è connesso a Marketo come amministratore...
 
 1. L’amministratore principale deve disconnettere il secondo amministratore da Marketo da Impostazioni > Marketo > Accesso utente.
 
-1. L’amministratore secondario accede al proprio account MSC, passa a Impostazioni > Marketo e fa clic su **Connetti**.
+1. L&#39;amministratore secondario accede al proprio account MSC, passa a Impostazioni > Marketo e fa clic su **Connetti**.
 
 1. Ora l’utente secondario è connesso a Marketo come amministratore.
 
@@ -52,34 +52,34 @@ Per semplificare le istruzioni, consulta l’Amministratore attualmente connesso
 
 L’Amministratore A (originariamente responsabile della connessione) deve seguire la procedura riportata di seguito.
 
-1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
-1. Clic **Marketo**.
+1. Fare clic su **Marketo**.
 
-1. Clic **Accesso utente**.
+1. Fare clic su **Accesso utente**.
 
 1. Cerca l’Amministratore per il quale vuoi stabilire la nuova connessione Marketo.
 
 1. Rimuovi l&#39;accesso.
 
-**Stabilisci nuova connessione per l’amministratore B**
+**Stabilire una nuova connessione per l&#39;amministratore B**
 
 Questi passaggi devono essere seguiti da Amministratore B (nuovo Amministratore)
 
-1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
-1. Clic **Marketo**.
+1. Fare clic su **Marketo**.
 
-1. Clic **Disconnetti**.
+1. Fare clic su **Disconnetti**.
 
-**Disconnettere l’integrazione di Marketo per l’amministratore A**
+**Disconnetti l&#39;integrazione di Marketo per l&#39;amministratore A**
 
 Questi passaggi devono essere seguiti dall’Amministratore A (Amministratore originariamente connesso).
 
-1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
-1. Clic **Marketo**.
+1. Fare clic su **Marketo**.
 
-1. Clic **Disconnetti**.
+1. Fare clic su **Disconnetti**.
 
 Ora che un nuovo amministratore ha stabilito una connessione a Marketo e l’amministratore originale è stato disconnesso, l’amministratore originariamente connesso può essere rimosso in modo sicuro dall’istanza Sales Connect/Actions.

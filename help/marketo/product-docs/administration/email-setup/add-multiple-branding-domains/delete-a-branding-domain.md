@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Eliminare un dominio di branding {#delete-a-branding-domain}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. Nella tabella Domini di branding, seleziona il dominio da rimuovere e fai clic su **[!UICONTROL Elimina]**.
+1. Nella tabella Domini di branding selezionare il dominio da rimuovere e fare clic su **[!UICONTROL Elimina]**.
 
    ![](assets/delete-a-branding-domain-3.png)
 

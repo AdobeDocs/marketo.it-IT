@@ -6,7 +6,7 @@ exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ No. Marketo non può creare utenti in Dynamics.
 
 ## Quali campi verranno sincronizzati con Marketo? {#which-fields-will-sync-to-marketo}
 
-È possibile [seleziona i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione. Marketo sincronizzerà solo i campi a cui l’utente di Dynamics Sync ha accesso.
+È possibile [selezionare i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione. Marketo sincronizzerà solo i campi a cui l’utente di Dynamics Sync ha accesso.

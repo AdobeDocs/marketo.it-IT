@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Creare un campo personalizzato in Marketo {#create-a-custom-field-in-marketo}
 
-Se hai bisogno di un nuovo campo personalizzato in Marketi Engage per archiviare/acquisire dati, ecco come crearne uno.
+Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare/acquisire dati, ecco come crearne uno.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,7 +27,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketi Engage per archiviare
    >
    >Se desideri che i campi siano sincronizzati con il CRM, creali nel CRM e verranno creati automaticamente in Marketo.
 
-1. Clic **[!UICONTROL Nuovo campo personalizzato]**.
+1. Fare clic su **[!UICONTROL Nuovo campo personalizzato]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
@@ -35,20 +35,20 @@ Se hai bisogno di un nuovo campo personalizzato in Marketi Engage per archiviare
 
    >[!TIP]
    >
-   >Consulta la sezione [Glossario dei tipi di campo personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+   >Consulta il [Glossario dei tipi di campo personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Inserisci il [!UICONTROL Nome] come desideri che appaia in Marketo. Il [!UICONTROL Nome API] viene generato automaticamente. Puoi modificarlo, ma non può essere rinominato una volta impostato. Clic **[!UICONTROL Crea]** al termine.
+1. Immetti il [!UICONTROL Nome] come desideri che venga visualizzato in Marketo. Il nome [!UICONTROL API] viene generato automaticamente. Puoi modificarlo, ma non può essere rinominato una volta impostato. Al termine, fai clic su **[!UICONTROL Crea]**.
 
 >[!CAUTION]
 >
->I nomi dei campi non possono iniziare con i seguenti caratteri: **. E +[]**
+>I nomi dei campi non possono iniziare con i seguenti caratteri: **. &amp; +[]**
 
 ![](assets/create-a-custom-field-in-marketo-5.png)
 
 >[!NOTE]
 >
->Il nome API viene utilizzato dall’API SOAP e da altri processi di back-end.
+>Il nome API viene utilizzato dall’API dell’SOAP e da altri processi di back-end.
 
 Ora puoi utilizzare questo campo personalizzato in moduli, passaggi di flusso ed elenchi avanzati.

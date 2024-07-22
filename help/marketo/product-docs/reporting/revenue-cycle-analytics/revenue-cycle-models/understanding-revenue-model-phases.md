@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Le fasi sono un modo per raggruppare una serie di fasi. A volte più stadi in un modello riflettono una fase di un funnel.
 
-![--](assets/image2015-6-12-16-3a56-3a40.png)
+![—](assets/image2015-6-12-16-3a56-3a40.png)
 
 ## Definire le fasi del modello {#define-the-phases-of-the-model}
 
-1. Clic **Fasi**.
+1. Fai clic su **Fasi**.
 
    ![](assets/image2015-6-12-16-3a2-3a28.png)
 

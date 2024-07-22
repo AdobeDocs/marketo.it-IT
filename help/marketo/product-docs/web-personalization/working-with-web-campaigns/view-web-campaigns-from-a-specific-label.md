@@ -17,7 +17,7 @@ Desideri visualizzare e filtrare le campagne in base a un’etichetta specifica?
 
 ## Filtra per etichette esistenti {#filter-by-existing-labels}
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ Desideri visualizzare e filtrare le campagne in base a un’etichetta specifica?
 
 >[!MORELIKETHIS]
 >
->* [Etichettare le campagne web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
->* [Visualizzare segmenti da un’etichetta specifica](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
+>* [Etichettare Le Campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Visualizza segmenti da un&#39;etichetta specifica](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Etichettare i segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

@@ -17,7 +17,7 @@ Invia e tieni traccia di qualsiasi e-mail Google con Marketo Insights for Google
 
 >[!PREREQUISITES]
 >
->[Installare Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+>[Installa Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
 
 >[!NOTE]
 >
@@ -41,11 +41,11 @@ Invia e tieni traccia di qualsiasi e-mail Google con Marketo Insights for Google
    >
    >Facoltativamente, fai clic sulla doppia freccia per espandere la visualizzazione a schermo intero.
 
-1. Se desideri precompilare l’e-mail con un modello di Marketo pubblicato, fai clic su **Altre opzioni** e seleziona **Carica modello Marketo**.
+1. Se desideri precompilare l&#39;e-mail con un modello di Marketo pubblicato, fai clic su **Altre opzioni** e seleziona **Carica modello di Marketo**.
 
    ![](assets/image2015-10-5-15-3a6-3a50.png)
 
-1. Seleziona un **Modello disponibile** e fai clic su **Ok**.
+1. Selezionare un **modello disponibile** e fare clic su **Ok**.
 
    ![](assets/image2015-10-5-15-3a11-3a44.png)
 
@@ -55,7 +55,7 @@ Invia e tieni traccia di qualsiasi e-mail Google con Marketo Insights for Google
 
    >[!NOTE]
    >
-   >I messaggi vengono tracciati solo quando **Invia** Il pulsante è viola.
+   >I messaggi vengono tracciati solo quando il pulsante **Invia** è viola.
 
 1. L’e-mail verrà presto visualizzata in Marketo Sales Insight e verranno tracciate tutte le aperture e i clic.
 
@@ -65,7 +65,7 @@ Invia e tieni traccia di qualsiasi e-mail Google con Marketo Insights for Google
 
 È possibile registrare le risposte e le attività precedenti nella cronologia delle attività di un lead.
 
-1. Nel riquadro di anteprima di Google Mail fare clic su **Accedi a Marketo**.
+1. Nel riquadro di anteprima di Google Mail, fare clic su **Registra con Marketo**.
 
    ![](assets/image2015-4-23-17-3a0-3a42.png)
 
@@ -75,5 +75,5 @@ Invia e tieni traccia di qualsiasi e-mail Google con Marketo Insights for Google
 
    >[!MORELIKETHIS]
    >
-   >* [Installare Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
+   >* [Installa Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/install-marketo-insights-for-google-chrome.md)
    >* [Visualizzare le informazioni sulla persona e sull&#39;account e le attività in Google Mail](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)

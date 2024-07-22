@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Durante l’automazione di una campagna, probabilmente non vorrai che le e-mail vengano inviate di sabato o domenica. In caso contrario, puoi saltare i fine settimana.
 
-1. In Sales Connect, fare clic su **Campagne** scheda.
+1. In Sales Connect, fare clic sulla scheda **Campagne**.
 
    ![](assets/one-2.png)
 
@@ -23,11 +23,11 @@ Durante l’automazione di una campagna, probabilmente non vorrai che le e-mail 
 
    ![](assets/two-2.png)
 
-1. Clic **Impostazioni**.
+1. Fare clic su **Impostazioni**.
 
    ![](assets/three-2.png)
 
-1. Seleziona la **Salta fine settimana** casella di controllo.
+1. Selezionare la casella di controllo **Ignora fine settimana**.
 
    ![](assets/four-2.png)
 

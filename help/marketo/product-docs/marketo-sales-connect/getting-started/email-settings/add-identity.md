@@ -21,11 +21,11 @@ Aggiungi un’identità quando disponi di più indirizzi e-mail da inviare.
 
 1. Fai clic sull’icona Impostazioni.
 
-1. Clic **Impostazioni e-mail**.
+1. Fare clic su **Impostazioni e-mail**.
 
-1. Clic **Aggiungi identità**.
+1. Fare clic su **Aggiungi identità**.
 
-1. Inserisci le tue informazioni (i campi e-mail e nome sono obbligatori), fai clic su **Crea** al termine.
+1. Inserisci le tue informazioni (i campi obbligatori email e name) e al termine fai clic su **Crea**.
 
 1. Fai clic sul collegamento nell’e-mail di verifica ricevuta.
 
@@ -37,4 +37,4 @@ Aggiungi un’identità quando disponi di più indirizzi e-mail da inviare.
 
 >[!MORELIKETHIS]
 >
->[Aggiungere la firma e-mail](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).
+>[Aggiungi La Firma E-Mail](/help/marketo/product-docs/marketo-sales-connect/getting-started/email-settings/add-your-email-signature.md).

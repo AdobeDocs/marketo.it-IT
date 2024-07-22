@@ -13,19 +13,19 @@ ht-degree: 1%
 
 # Utilizzo dei costi del periodo in un programma {#using-period-costs-in-a-program}
 
-A [costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} è l&#39;importo che si spende per un programma. Può essere per uno o più mesi ed è utilizzato per la generazione di rapporti sul ROI.
+Un [costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"} è l&#39;importo che si spende per un programma. Può essere per uno o più mesi ed è utilizzato per la generazione di rapporti sul ROI.
 
 ## Aggiungi un costo periodo  {#add-a-period-cost}
 
-1. Vai a **[!UICONTROL Configurazione]** del programma.
+1. Vai alla scheda **[!UICONTROL Configurazione]** del programma.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Trascina **[!UICONTROL Costo periodo]** nell’area di lavoro.
+1. Trascina e rilascia **[!UICONTROL Costo periodo]** nell&#39;area di lavoro.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Fai clic sull’icona del calendario. Seleziona un mese. Clic **[!UICONTROL OK]**.
+1. Fai clic sull’icona del calendario. Seleziona un mese. Fare clic su **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
@@ -49,11 +49,11 @@ A [costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
 1. Se si spendono più o meno soldi di quanto originariamente previsto, è possibile modificare il costo del periodo.
 
-1. Vai a **[!UICONTROL Configurazione]** del programma.
+1. Vai alla scheda **[!UICONTROL Configurazione]** del programma.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Fai clic con il pulsante destro del mouse sulla **[!UICONTROL Costo periodo]**. Seleziona **[!UICONTROL Modifica]**.
+1. Fai clic con il pulsante destro del mouse su **[!UICONTROL Costo periodo]**. Seleziona **[!UICONTROL Modifica]**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
@@ -63,19 +63,19 @@ A [costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
 ## Eliminare un costo periodo {#delete-a-period-cost}
 
-1. Vai a **[!UICONTROL Configurazione]** del programma.
+1. Vai alla scheda **[!UICONTROL Configurazione]** del programma.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Fai clic con il pulsante destro del mouse sulla **[!UICONTROL Costo periodo]**. Seleziona **[!UICONTROL Elimina]**.
+1. Fai clic con il pulsante destro del mouse su **[!UICONTROL Costo periodo]**. Selezionare **[!UICONTROL Elimina]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Clic **[!UICONTROL Elimina]** per confermare.
+1. Fai clic su **[!UICONTROL Elimina]** per confermare.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 
 >[!MORELIKETHIS]
 >
 >* [Informazioni sui costi del periodo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-period-costs.md){target="_blank"}
->* [Filtrare un rapporto Programma per costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}
+>* [Filtrare un report di programma per costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md){target="_blank"}

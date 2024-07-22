@@ -13,16 +13,16 @@ ht-degree: 0%
 
 # Informazioni sul contenuto predittivo {#understanding-predictive-content}
 
-Dopo di te [approva un titolo per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), ci lavori qui. Nella pagina Contenuto predittivo vengono visualizzati tutti i titoli approvati per il contenuto predittivo.
+Dopo aver [approvato un titolo per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavori qui. Nella pagina Contenuto predittivo vengono visualizzati tutti i titoli approvati per il contenuto predittivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 I campi della pagina includono:
 
-* **Immagine e titolo**: nome dell’elemento di contenuto e dell’immagine selezionata
-* **Attivato dall’origine**: mostra se il titolo è approvato per contenuti multimediali avanzati, e-mail o barra dei consigli.
-* **Categorie**: creato da te e utilizzato per raggruppare i risultati predittivi per web o e-mail
-* **Clic**: numero totale di clic sul contenuto consigliato (comprese tutte le origini)
+* **Immagine e titolo**: nome dell&#39;elemento di contenuto e dell&#39;immagine selezionata
+* **Abilitato da Source**: mostra se il titolo è approvato per contenuti multimediali avanzati, e-mail o barra dei consigli.
+* **Categorie**: create da te e utilizzate per raggruppare i tuoi risultati predittivi per il web o l&#39;e-mail
+* **Clic**: numero totale di clic sul contenuto consigliato (incluse tutte le origini)
 * **Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per i clic. Passa il puntatore del mouse per visualizzare i dati aggiuntivi (vedi sotto)
 * **Conversione assistita**: visitatori che hanno fatto clic sul contenuto consigliato in una visita precedente e hanno completato un modulo in un secondo momento
 
@@ -30,17 +30,17 @@ I campi della pagina includono:
 
 **Categoria**
 
-Puoi filtrare il contenuto per categorie create. Fai clic sull’icona del filtro e sotto **Categoria**, seleziona una o più categorie di contenuto.
+Puoi filtrare il contenuto per categorie create. Fai clic sull&#39;icona del filtro e in **Categoria** seleziona una o più categorie di contenuto.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**Origine abilitata**
+**Source abilitato**
 
 Puoi filtrare per ciascun tipo di contenuto abilitato: e-mail, contenuti multimediali avanzati, barra dei consigli.
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Analytics per origine**
+**Analytics di Source**
 
 L’analisi dei contenuti abilitata per filtrare consente di visualizzare le prestazioni di ogni origine.
 
@@ -48,7 +48,7 @@ L’analisi dei contenuti abilitata per filtrare consente di visualizzare le pre
 
 ## Visualizza analisi per data {#display-analytics-by-date}
 
-1. selezionare le date di inizio e di fine a destra (come illustrato). Clic **Applica**.
+1. selezionare le date di inizio e di fine a destra (come illustrato). Fare clic su **Applica**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -66,8 +66,8 @@ Passa il puntatore del mouse sulla barra nella colonna Tasso di conversione per 
 >
 >**Definizioni**
 >
->**Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per clic
+>**Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per i clic
 >
->**Conversione diretta**: visitatori che hanno fatto clic sul contenuto consigliato e completato un modulo nella stessa visita
+>**Conversione diretta**: visitatori che hanno fatto clic sul contenuto consigliato e hanno completato un modulo nella stessa visita
 >
->**Clic effettuato**: numero totale di clic sul contenuto consigliato (incluse tutte e tre le origini)
+>**Clic**: numero totale di clic sul contenuto consigliato (incluse tutte e tre le origini)

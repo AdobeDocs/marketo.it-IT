@@ -21,7 +21,7 @@ ht-degree: 0%
 
 ## Disattivare una campagna per una persona {#turn-off-a-campaign-for-one-person}
 
-Dopo aver creato la campagna, passa semplicemente al **Impostazioni** e scegli il comportamento desiderato per la campagna nel caso in cui qualcuno risponda.
+Dopo aver creato la campagna, passa alla scheda **Impostazioni** e scegli come vorresti che la campagna si comportasse se qualcuno ti rispondesse.
 
 Entrambe le opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te.
 

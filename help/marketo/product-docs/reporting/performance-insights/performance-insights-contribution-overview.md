@@ -47,7 +47,7 @@ Il grafico a barre mostra le prestazioni del programma su tutti i canali (dieci 
 
 >[!TIP]
 >
->Se desiderate che le barre del grafico aumentino durante lo scorrimento dei gruppi, selezionate **Adatta asse Y** casella di controllo.
+>Se si desidera che le barre del grafico aumentino durante lo scorrimento dei gruppi, selezionare la casella di controllo **Adatta asse Y**.
 
 Passa il puntatore del mouse su una barra per visualizzare ulteriori dettagli.
 
@@ -65,8 +65,8 @@ La griglia dati seguente funziona come un foglio di calcolo e mostra tutte le me
 |---|---|
 | **Ricavi ottenuti** | La parte di credito (in valore monetario) ricevuta dal programma per influenzare l’opportunità acquisita |
 | **Costo** | Costo totale del programma |
-| **Costo per opportunità acquisita** | Il rapporto tra il costo del programma e la parte di credito (in valore numerico) ricevuta dal programma per influenzare la creazione di nuove opportunità |
-| **Rapporto ricavi acquisiti/costi** | Il rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità realizzate e il costo del programma |
+| **Costo per opportunità vinto** | Il rapporto tra il costo del programma e la parte di credito (in valore numerico) ricevuta dal programma per influenzare la creazione di nuove opportunità |
+| **Percentuale ricavi ottenuti su costi** | Il rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità realizzate e il costo del programma |
 
 Espandere un canale per visualizzare i suoi dieci programmi principali, con i programmi rimanenti combinati.
 

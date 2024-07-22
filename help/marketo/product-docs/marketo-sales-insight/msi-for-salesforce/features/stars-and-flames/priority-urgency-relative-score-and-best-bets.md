@@ -6,7 +6,7 @@ exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Gli elementi di maggiore rilevanza sono i lead e i contatti con il punteggio rel
 
 >[!NOTE]
 >
->Se le tue scelte migliori non corrispondono ai contatti e ai lead migliori che possiedi, chiedi a qualcuno della tua azienda che ha accesso a Marketo di aggiornare i tuoi [Regole punteggio](/help/marketo/getting-started/quick-wins/simple-scoring.md).
+>Se gli elementi di maggiore rilevanza non corrispondono ai lead e ai contatti migliori di cui sei titolare, rivolgiti a un utente della tua azienda che ha accesso a Marketo per informazioni sull&#39;aggiornamento delle [regole per il punteggio](/help/marketo/getting-started/quick-wins/simple-scoring.md).
 
 ### Calcolo dell’urgenza e del punteggio relativo
 

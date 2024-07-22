@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Transizione Delle Persone Tra Flussi Di Coinvolgimento {#transition-people-between-engagement-streams}
 
-I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), è necessario definire un modo in cui le persone possono spostarsi da un flusso all&#39;altro. Questi vengono chiamati **regole di transizione.**
+I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vuoi definire un modo in cui le persone possono spostarsi da un flusso all&#39;altro. Queste regole sono denominate **regole di transizione.**
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Seleziona il tuo programma di coinvolgimento multi-streaming e vai a **Flussi**.
+1. Seleziona il tuo programma di coinvolgimento con più flussi e passa a **Streams**.
 
    ![](assets/multistream.jpg)
 
-1. Clic **Regole di transizione** per il flusso in cui desideri richiamare da altri flussi, quindi fai clic su **Modifica regole di transizione**.
+1. Fai clic su **Regole di transizione** per il flusso da richiamare da altri flussi, quindi fai clic su **Modifica regole di transizione**.
 
    ![](assets/image2014-9-15-18-3a10-3a18.png)
 
@@ -35,7 +35,7 @@ I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso]
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
-1. Imposta l’operatore su **è qualsiasi** in modo che le persone si spostino per qualsiasi opportunità aggiunta.
+1. Impostiamo l&#39;operatore su **is any** in modo che le persone si spostino per qualsiasi opportunità aggiunta.
 
    ![](assets/image2014-9-15-18-3a11-3a14.png)
 
@@ -53,4 +53,4 @@ I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso]
 
    >[!NOTE]
    >
-   >I passaggi descritti sopra *fare* applica alle persone che sono [in pausa](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md) anche.
+   >I passaggi descritti sopra *do* valgono anche per le persone che sono [in pausa](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/pause-people-in-an-engagement-program.md).

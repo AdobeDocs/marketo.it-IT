@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Vuoi ricevere un avviso ogni volta che viene creata una persona duplicata? Ecco come impostare una campagna avanzata per farlo.
 
-1. [Creare una nuova campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definisci il seguente elenco avanzato:
+1. [Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definisci il seguente elenco avanzato:
 
-* Attivatore: **[!UICONTROL Persona creata]**
-* Filtro: **[!UICONTROL Campi duplicati]**. Nome campo **[!UICONTROL è] [!UICONTROL Nome e cognome]**
+* Trigger: **[!UICONTROL La persona è stata creata]**
+* Filtro: **[!UICONTROL Campi Duplicati]**. Nome campo **[!UICONTROL is] [!UICONTROL Nome completo]**
 
   ![](assets/automate-an-alert-1.png)
 
@@ -26,13 +26,13 @@ Vuoi ricevere un avviso ogni volta che viene creata una persona duplicata? Ecco 
   >
   >Sii creativo. Sperimenta diversi campi per ottenere risultati di filtro migliori.
 
-1. Nel passaggio del flusso, scegli [[!UICONTROL Invia avviso]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} azione di flusso.
+1. Nel passaggio di flusso, scegli [[!UICONTROL Invia avviso]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert.md){target="_blank"} azione di flusso.
 
    ![](assets/automate-an-alert-2.png)
 
    >[!TIP]
    >
-   >Utilizzo di [Invia token di informazioni avviso](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} per includere un collegamento alla persona nel CRM.
+   >Utilizzo del token [Invia informazioni avviso](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"} per includere un collegamento alla persona nel CRM.
 
    >[!CAUTION]
    >
@@ -40,7 +40,7 @@ Vuoi ricevere un avviso ogni volta che viene creata una persona duplicata? Ecco 
    >
    >Inoltre, due persone con lo stesso nome non significa automaticamente che siano la stessa persona.
 
-1. Attiva la campagna in **[!UICONTROL Pianificazione]** scheda.
+1. Attiva la campagna nella scheda **[!UICONTROL Pianifica]**.
 
    ![](assets/automate-an-alert-3.png)
 

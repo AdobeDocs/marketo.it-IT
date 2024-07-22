@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Informazioni sulle vendite {#sales-intelligence}
 
-Marketo Web Personalization fornisce informazioni preziose sui visitatori e sulle organizzazioni web anonimi e noti che visitano il tuo sito web. I responsabili delle vendite possono utilizzarlo per tenere traccia, monitorare e ricevere avvisi sulle organizzazioni e gli account chiave in base all&#39;area geografica specifica.
+Marketo Web Personalization fornisce informazioni utili sui visitatori e sulle organizzazioni Web noti e anonimi che visitano il sito Web. I responsabili delle vendite possono utilizzarlo per tenere traccia, monitorare e ricevere avvisi sulle organizzazioni e gli account chiave in base all&#39;area geografica specifica.
 
-Per accedervi, accedi alla piattaforma Marketo Web Personalization, inserendo un rapporto e-mail giornaliero/settimanale o visualizzandolo nell’app mobile.
+Per accedervi, accedi alla piattaforma Marketo Web Personalization, inserisci un rapporto e-mail giornaliero/settimanale oppure visualizzalo nell’app mobile.
 
 ## Definire l’area geografica dell’utente {#define-the-users-region}
 
-Per definire i dati relativi all’organizzazione e al visitatore visualizzati in Marketo Web Personalization in base all’area geografica, al paese o allo stato, vai a [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selezionare i paesi o gli stati.
+Per definire i dati relativi all&#39;organizzazione e al visitatore visualizzati in Marketo Web Personalization in base all&#39;area geografica, al paese o allo stato, passare a [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selezionare i paesi o gli stati.
 
 ## Impostare i report e-mail giornalieri o settimanali {#set-up-daily-or-weekly-email-reports}
 
-In entrata [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puoi impostare la ricezione di rapporti e-mail giornalieri o settimanali, inviati la mattina presto. I rapporti principali di interesse per un responsabile delle vendite includono i rapporti Organizzazioni e Lead, che visualizzano le organizzazioni visitate più importanti e i lead inviati, compresi i comportamenti, dall’area specifica dell’utente.
+In [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puoi impostare la ricezione di report e-mail giornalieri o settimanali, inviati la mattina presto. I rapporti principali di interesse per un responsabile delle vendite includono i rapporti Organizzazioni e Lead, che visualizzano le organizzazioni visitate più importanti e i lead inviati, compresi i comportamenti, dall’area specifica dell’utente.
 
 >[!NOTE]
 >

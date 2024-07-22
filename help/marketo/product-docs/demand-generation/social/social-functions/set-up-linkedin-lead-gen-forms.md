@@ -17,7 +17,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
 >[!IMPORTANT]
 >
->LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketi Engage LinkedIn. Queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel tuo **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024, per evitare interruzioni del servizio. Per ulteriori informazioni, vedere [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketo Engage LinkedIn. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024. Per ulteriori informazioni, vedere le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -35,11 +35,11 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Immetti un **Nome visualizzato** per il servizio, seleziona **LinkedIn Lead Gen** dal menu a discesa, quindi fai clic su **Successivo**.
+1. Immetti un **Nome visualizzato** per il servizio, seleziona il servizio **LinkedIn Lead Gen** dall&#39;elenco a discesa e fai clic su **Avanti**.
 
    ![](assets/linkedin-lead-gen.png)
 
-1. Marketo apre una nuova scheda nello stesso browser per [linkedin.com](https://www.linkedin.com). Accedi a LinkedIn utilizzando l’account che desideri utilizzare per l’integrazione.
+1. Marketo apre una nuova scheda nello stesso browser a [linkedin.com](https://www.linkedin.com). Accedi a LinkedIn utilizzando l’account che desideri utilizzare per l’integrazione.
 
    >[!NOTE]
    >
@@ -47,23 +47,23 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    ![](assets/linkedin-login.png)
 
-1. Dopo aver effettuato l’accesso a LinkedIn, torna a Marketo e fai clic su **Autorizza**.
+1. Dopo aver effettuato l&#39;accesso a LinkedIn, tornare a Marketo e fare clic su **Autorizza**.
 
    ![](assets/linkedin-lead-gen-authorize.png)
 
-1. Quando richiesto, fai clic su **Consenti** per accettare l’installazione dell’app Marketo in LinkedIn.
+1. Quando richiesto, fare clic su **Consenti** per accettare l&#39;installazione dell&#39;app Marketo in LinkedIn.
 
    ![](assets/linkedin-marketo-allow.png)
 
-1. Noterai che ora sei autorizzato. Clic **Successivo**.
+1. Noterai che ora sei autorizzato. Fai clic su **Avanti**.
 
    ![](assets/image2017-9-28-7-3a55-3a14.png)
 
    >[!CAUTION]
    >
-   >Il servizio scade automaticamente un anno dopo l’autorizzazione. Per recuperare l’accesso, fai clic su **Autorizza nuovamente**. Potrebbe essere necessario reimmettere la password di LinkedIn, a seconda delle impostazioni del browser.
+   >Il servizio scade automaticamente un anno dopo l’autorizzazione. Per recuperare l&#39;accesso, fai clic su **Riautorizza**. Potrebbe essere necessario reimmettere la password di LinkedIn, a seconda delle impostazioni del browser.
 
-1. Seleziona gli account da cui desideri che i lead Gen di LinkedIn vengano inseriti in Marketo e fai clic su **Successivo**.
+1. Seleziona gli account da cui vuoi che i lead gen di LinkedIn vengano inseriti in Marketo e fai clic su **Avanti**.
 
    >[!TIP]
    >
@@ -75,13 +75,13 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 
    >[!CAUTION]
    >
-   >Marketo supporta la mappatura di due campi LinkedIn in un singolo campo Marketo, **ma solo quando** i due campi di LinkedIn non si trovano nello stesso modulo. Se si esegue il mapping di due campi dello stesso modulo di LinkedIn a un singolo campo di Marketo, è possibile che l&#39;immissione del database di Marketo non venga eseguita correttamente.
+   >Marketo supporta la mappatura di due campi di LinkedIn in un singolo campo di Marketo, **ma solo quando** i due campi di LinkedIn non si trovano nello stesso modulo. Se si esegue il mapping di due campi dello stesso modulo di LinkedIn a un singolo campo di Marketo, è possibile che l&#39;immissione del database di Marketo non venga eseguita correttamente.
 
    ![](assets/linkedin-lead-gen-mapping.png)
 
    >[!NOTE]
    >
-   >Solo i campi LinkedIn già salvati in un [modello di modulo](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager verranno visualizzati come Campi LinkedIn che possono essere mappati ai campi Marketo.
+   >Solo i campi LinkedIn già salvati in un [modello di modulo](https://www.linkedin.com/help/lms/answer/79634) in LinkedIn Campaign Manager verranno visualizzati come campi LinkedIn che è possibile mappare ai campi Marketo.
 
    ![](assets/linkedin-installed-services.png)
 
@@ -93,4 +93,4 @@ Ben fatto! Le persone che inviano i moduli LinkedIn Lead Gen inizieranno a fluir
 
 >[!MORELIKETHIS]
 >
->[Utilizzare i filtri e i trigger per moduli di generazione lead di LinkedIn in una campagna avanzata](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
+>[Utilizzare i filtri e i trigger di LinkedIn Lead Gen Form in una campagna avanzata](/help/marketo/product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)

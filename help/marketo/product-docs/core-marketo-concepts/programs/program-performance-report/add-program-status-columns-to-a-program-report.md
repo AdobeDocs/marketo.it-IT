@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiunta di colonne di stato del programma a un report del programma {#add-program-status-columns-to-a-program-report}
 
-Aggiungi le statistiche sullo stato del programma al tuo [rapporto prestazioni programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
+Aggiungi le statistiche sullo stato del programma al [report sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
 
 1. Vai a **[!UICONTROL Attività di marketing]** (o **[!UICONTROL Analytics]**).
 
@@ -23,7 +23,7 @@ Aggiungi le statistiche sullo stato del programma al tuo [rapporto prestazioni p
 
    ![](assets/emailperformance.jpg)
 
-1. Fai clic su **[!UICONTROL Configurazione]** e trascinate sulla **[!UICONTROL Canale]** tag.
+1. Fai clic sulla scheda **[!UICONTROL Configurazione]** e trascina sul tag **[!UICONTROL Canale]**.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -33,20 +33,20 @@ Aggiungi le statistiche sullo stato del programma al tuo [rapporto prestazioni p
 
    >[!TIP]
    >
-   >Per visualizzare le colonne di stato del programma, il report deve essere filtrato per _solo uno_ canale.
+   >Per visualizzare le colonne di stato del programma, il report deve essere filtrato per _un solo canale_.
 
-1. Selezionare l&#39;opzione per visualizzare le colonne dello stato del programma. Clic **[!UICONTROL Applica]**.
+1. Selezionare l&#39;opzione per visualizzare le colonne dello stato del programma. Fare clic su **[!UICONTROL Applica]**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. Ce l&#39;hai fatta! Fai clic su [!UICONTROL Report] per visualizzare il rapporto con le colonne di stato del programma.
+1. Ce l&#39;hai fatta! Fai clic sulla scheda [!UICONTROL Report] per visualizzare il report con le colonne di stato del programma.
 
    ![](assets/programreport.jpg)
 
 >[!NOTE]
 >
->Se non viene visualizzata una colonna per ogni stato nel programma, verificare di avere [ha selezionato le colonne da mostrare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} nella relazione.
+>Se non trovi una colonna per ogni stato nel programma, assicurati di aver selezionato [le colonne da mostrare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md){target="_blank"} nel report.
 
 >[!MORELIKETHIS]
 >
->[Filtrare un rapporto di programma per tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[Filtrare un report di programma per tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

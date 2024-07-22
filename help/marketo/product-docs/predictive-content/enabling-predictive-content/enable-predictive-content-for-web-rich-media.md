@@ -23,33 +23,33 @@ I contenuti predittivi coinvolgono i visitatori web con i contenuti più rilevan
 >
 >Prima di abilitare il contenuto predittivo, è necessario:
 >
->* **Preparare i contenuti predittivi**
+>* **Prepara il contenuto predittivo**
 >
->   * [Modifica contenuto predittivo per le e-mail](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} o
+>   * [Modifica contenuto predittivo per e-mail](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md){target="_blank"} o
 >   * [Modifica contenuto predittivo per contenuti rich media](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md){target="_blank"} o
 >   * [Modifica contenuto predittivo per la barra dei consigli](/help/marketo/product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md){target="_blank"}
 >
->* [Approvare un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
+>* [Approva un titolo per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md){target="_blank"}
 
 Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per Rich Media, puoi abilitare singole parti o più parti di contenuto.
 
-1. Per abilitare un singolo titolo, fai clic su un titolo per aprire l’editor. Fai clic su Rich Media, quindi seleziona la **Abilitato per Predictive Content in Rich Media** e fai clic su **Salva**.
+1. Per abilitare un singolo titolo, fai clic su un titolo per aprire l’editor. Fai clic su Rich Media, quindi seleziona la casella **Abilitato per Predictive Content in Rich Media** e fai clic su **Salva**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Per più parti di contenuto, nella **Contenuto predittivo** , seleziona le caselle accanto ai titoli.
+1. Per più parti di contenuto, nella pagina **Contenuto predittivo**, seleziona le caselle accanto ai titoli.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Fai clic su **Azioni contenuto** a discesa e selezionare **Abilita per contenuti multimediali avanzati Web**.
+1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Abilita per contenuti multimediali avanzati Web**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione per il modello per consigli su contenuti rich media [sul sito Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
-Incolla il codice JavaScript nel tuo sito web nella posizione in cui desideri visualizzare il modello.
+Incolla il codice JavaScript nel tuo sito web nel percorso in cui desideri visualizzare il modello.
 
 **Esempi di modelli**
 

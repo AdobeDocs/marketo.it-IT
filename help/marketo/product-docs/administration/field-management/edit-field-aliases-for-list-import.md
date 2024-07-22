@@ -19,11 +19,11 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,7 +31,7 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. In **[!UICONTROL Azioni campo]** a discesa, fai clic su **[!UICONTROL Modifica alias di importazione]**.
+1. Nel menu a discesa **[!UICONTROL Azioni campo]**, fare clic su **[!UICONTROL Modifica alias importazione]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
@@ -41,7 +41,7 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 
 >[!TIP]
 >
->Clic **[!UICONTROL Aggiungi un altro]** e immettere altri alias, se necessario.
+>Fai clic su **[!UICONTROL Aggiungi altro]** e immetti altri alias, se necessario.
 
 Guardate quello! Ora, se si importa un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
 

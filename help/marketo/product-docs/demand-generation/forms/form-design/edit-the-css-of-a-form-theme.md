@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Modificare il CSS di un tema modulo {#edit-the-css-of-a-form-theme}
 
-Ne sono presenti alcuni predefiniti [temi tra cui scegliere](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Ma se ti piace modificare i CSS, puoi apportare le modifiche desiderate. Ecco come.
+Hai alcuni [temi predefiniti tra cui puoi scegliere](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Ma se ti piace modificare i CSS, puoi apportare le modifiche desiderate. Ecco come.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Ne sono presenti alcuni predefiniti [temi tra cui scegliere](/help/marketo/produ
 
    ![](assets/image2014-9-15-14-3a37-3a54.png)
 
-1. Sotto l’icona a forma di ingranaggio, fai clic su **Visualizza CSS tema**.
+1. Sotto l&#39;icona a forma di ingranaggio, fai clic su **Visualizza tema CSS**.
 
    ![](assets/image2014-9-15-14-3a38-3a18.png)
 
@@ -47,7 +47,7 @@ Ne sono presenti alcuni predefiniti [temi tra cui scegliere](/help/marketo/produ
 
    ![](assets/image2014-9-15-14-3a38-3a46.png)
 
-1. Sotto l’icona a forma di ingranaggio, fai clic su **Modifica CSS personalizzato**.
+1. Sotto l&#39;icona a forma di ingranaggio, fai clic su **Modifica CSS personalizzato**.
 
    ![](assets/image2014-9-15-14-3a39-3a5.png)
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puoi modificare l’ordine delle colonne in un rapporto.
 
-1. Vai a **Attività di marketing** (o **Analytics**).
+1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Seleziona il rapporto dalla struttura di navigazione e fai clic sul pulsante **Report** scheda.
+1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Report**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -35,4 +35,4 @@ Puoi modificare l’ordine delle colonne in un rapporto.
 
    >[!MORELIKETHIS]
    >
-   >[Seleziona colonne rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Seleziona colonne report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

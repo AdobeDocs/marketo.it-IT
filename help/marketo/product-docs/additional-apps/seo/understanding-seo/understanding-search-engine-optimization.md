@@ -6,7 +6,7 @@ exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '403'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ In primo luogo, è necessario apprendere le nozioni di base con questo utile glo
 
 ## Glossario SEO {#seo-glossary}
 
-**Ottimizzazione dei motori di ricerca (SEO)**: combinazione di strategie e tecniche utilizzate per aumentare il traffico del sito ottenendo un posizionamento di alto livello nelle pagine dei risultati dei motori di ricerca (SERP).
+**Ottimizzazione SEO (Search Engine Optimization)**: combinazione di strategie e tecniche utilizzate per aumentare il traffico del sito ottenendo un posizionamento di alto livello nelle pagine dei risultati dei motori di ricerca (SERP).
 
-**Parola chiave**: una parola chiave è la parola o la frase che gli utenti digitano in un motore di ricerca come Google, [!DNL Yahoo] o [!DNL Bing].
+**Parola chiave**: una parola chiave è la parola o la frase che gli utenti digitano in motori di ricerca come Google, [!DNL Yahoo] o [!DNL Bing].
 
-**Collegamenti in entrata**: collegamenti su altri siti che indirizzano il traffico al sito. Maggiore è la reputazione del sito di collegamento, maggiore è il valore di questo collegamento in entrata.
+**Collegamenti in entrata**: collegamenti in altri siti che indirizzano il traffico al sito. Maggiore è la reputazione del sito di collegamento, maggiore è il valore di questo collegamento in entrata.
 
-**Classificazione SERP**: sta per pagina dei risultati del motore di ricerca. I motori di ricerca restituiscono più pagine di risultati. La classificazione SERP è la pagina visualizzata dal collegamento. In genere sono presenti 10 risultati per pagina.
+**Classificazione SERP**: sta per pagina risultati motore di ricerca. I motori di ricerca restituiscono più pagine di risultati. La classificazione SERP è la pagina visualizzata dal collegamento. In genere sono presenti 10 risultati per pagina.
 
-**Visualizzazione motore di ricerca**: il modo in cui un computer con motore di ricerca percepisce il tuo sito rispetto a come lo percepisce un essere umano.
+**Visualizzazione Motore di ricerca**: il modo in cui un computer motore di ricerca percepisce il sito rispetto a un essere umano.
 
-**Termini di ricerca testa grassa**: parole chiave generiche che generano una rete molto grande. Rappresentano circa il 19% di tutti i termini di ricerca utilizzati.
+**Termini di ricerca Testa grassa**: parole chiave generiche che generano una rete molto grande. Rappresentano circa il 19% di tutti i termini di ricerca utilizzati.
 
 (Esempio: Scarpe)
 
-**Termini di ricerca centrale con blocchi**: parole chiave più specifiche. Questi rappresentano circa l&#39;11% di tutti i termini di ricerca utilizzati.
+**Termini di ricerca intermedi con blocchi**: parole chiave più specifiche. Questi rappresentano circa l&#39;11% di tutti i termini di ricerca utilizzati.
 
 (Esempio: Scarpe da corsa)
 
-**Termini di ricerca Long Tail**: parole chiave super specifiche. Questi vengono utilizzati circa il 70% del tempo.
+**Termini di ricerca a lunga coda**: parole chiave super specifiche. Questi vengono utilizzati circa il 70% del tempo.
 
 (Esempio: Donne minimaliste che corrono scarpe misura 9)
 
-**Punteggio ottimizzazione**: il punteggio di ottimizzazione è un punteggio Marketo proprietario che misura tutte le pagine del sito su una scala da 1 a 100. Si basa su una raccolta di decine di best practice. Un punteggio di 70 o superiore indica un sito ottimizzato in modo soddisfacente.
+**Punteggio di ottimizzazione**: il punteggio di ottimizzazione è un punteggio Marketo proprietario che misura tutte le pagine del sito su una scala da 1 a 100. Si basa su una raccolta di decine di best practice. Un punteggio di 70 o superiore indica un sito ottimizzato in modo soddisfacente.
 
-**Ottimizzazione su pagina**: misure che possono essere adottate direttamente all’interno del sito web per migliorarne la posizione nelle pagine dei risultati dei motori di ricerca.
+**Ottimizzazione su pagina**: misure che possono essere adottate direttamente all&#39;interno del sito Web per migliorarne la posizione nelle pagine dei risultati dei motori di ricerca.
 
 (Esempio: incorporazione di parole chiave nell’intestazione della pagina)
 
-**Ottimizzazione fuori pagina**: misure che possono essere adottate al di fuori del sito web effettivo per migliorarne la posizione nella classificazione delle ricerche.
+**Ottimizzazione fuori pagina**: misure che possono essere adottate al di fuori del sito Web effettivo per migliorarne la posizione nelle classificazioni di ricerca.
 
 (Esempio: aumento del numero di collegamenti in entrata da siti di alta qualità e affidabili)
 

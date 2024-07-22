@@ -21,15 +21,15 @@ ht-degree: 0%
 >
 >[Connetti vendite Connetti alla tua sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-connect-sales-connect-to-your-salesforce-sandbox.md)
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-3.png)
 
-1. In Impostazioni amministratore fai clic su **Salesforce.**
+1. In Impostazioni amministratore fare clic su **Salesforce.**
 
    ![](assets/two-3.png)
 
-1. Clic **Installare le personalizzazioni**.
+1. Fare clic su **Installa personalizzazioni**.
 
    ![](assets/three-3.png)
 

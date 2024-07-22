@@ -17,17 +17,17 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 
 >[!PREREQUISITES]
 >
->Devi [sostituisci il collegamento di tracciamento generico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) con un dominio di marchio prima di aggiungere altri domini di marchio.
+>È necessario [sostituire il collegamento di tracciamento generico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) con un dominio con marchio prima di aggiungere altri domini con marchio.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-an-additional-branding-domain-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/add-an-additional-branding-domain-2.png)
 
-1. Clic **[!UICONTROL Aggiungi]** per aggiungere un dominio di branding aggiuntivo.
+1. Fai clic su **[!UICONTROL Aggiungi]** per aggiungere un dominio di branding aggiuntivo.
 
    ![](assets/add-an-additional-branding-domain-3.png)
 
@@ -37,7 +37,7 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 
 >[!NOTE]
 >
->Puoi scegliere di impostare questo dominio primario per tutti i messaggi e-mail non inviati esistenti su &quot;Predefinito&quot; e tutti i messaggi e-mail appena creati verranno impostati come dominio primario per impostazione predefinita. Sarà possibile: [sovrascrivi per e-mail](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
+>Puoi scegliere di impostare questo dominio primario per tutti i messaggi e-mail non inviati esistenti su &quot;Predefinito&quot; e tutti i messaggi e-mail appena creati verranno impostati come dominio primario per impostazione predefinita. Potrai [sovrascriverlo per ogni e-mail](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/overwrite-primary-domain-for-emails.md).
 
 >[!MORELIKETHIS]
 >

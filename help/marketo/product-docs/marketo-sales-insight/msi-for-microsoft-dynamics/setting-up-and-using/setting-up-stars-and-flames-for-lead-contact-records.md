@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Le stelle e le fiamme nei record lead/contatti dipendono dai campi Punteggio lead, Punteggio relativo, Urgenza e Priorità. Questi campi sono disponibili per impostazione predefinita dopo l&#39;installazione e la configurazione della soluzione MSI. Se non si dispone di stelle e fiamme, una configurazione/personalizzazione precedente potrebbe aver causato la rimozione delle stelle e delle fiamme. Per aggiungerli, segui la procedura riportata di seguito.
 
-1. In Microsoft Dynamics, fai clic sul menu a discesa Vendite e seleziona **Impostazioni**. Clic **Personalizzazioni**, quindi **Personalizzare il sistema**.
+1. In Microsoft Dynamics, fai clic sul menu a discesa Vendite e seleziona **Impostazioni**. Fai clic su **Personalizzazioni**, quindi su **Personalizza sistema**.
 
 1. Nel pannello a sinistra, fai clic su **Entità**.
 
-1. Trova e fai clic su **Lead**, quindi **Forms**, quindi selezionare il modulo da modificare.
+1. Trova e fai clic su **Lead**, quindi su **Forms**, quindi seleziona il modulo che desideri modificare.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-1.png)
 
-1. Clic **Insight sulla vendita di Marketo** nel pannello a sinistra. Nel pannello a destra, fai clic sul menu a discesa Filtro e seleziona **Campi personalizzati**.
+1. Fai clic su **Marketo Sales Insight** nel pannello a sinistra. Nel pannello a destra, fai clic sull&#39;elenco a discesa Filtro e seleziona **Campi personalizzati**.
 
    ![](assets/setting-up-stars-and-flames-for-lead-contact-records-2.png)
 
 1. Trascina i campi Punteggio lead, Punteggio relativo, Urgenza e Priorità. Disponili in modo che funzioni al meglio per te. È inoltre possibile formattare qualsiasi campo facendo doppio clic su di esso.
 
-1. Al termine, fai clic su **Salva e chiudi**.
+1. Al termine, fare clic su **Salva e chiudi**.

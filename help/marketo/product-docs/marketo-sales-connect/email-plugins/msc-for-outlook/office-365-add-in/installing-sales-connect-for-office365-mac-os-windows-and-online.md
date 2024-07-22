@@ -6,7 +6,7 @@ exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È stata creata un&#39;integrazione con Outlook Web Apps. Outlook Web Apps è una versione di Outlook fornita con la sottoscrizione a Office 365. Poiché è basata su browser, l’integrazione funziona sia su Mac che su Windows. [Fare clic qui per la guida completa all&#39;installazione](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-In qualità di amministratore, puoi [installa per conto dell&#39;intero team](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
+In qualità di amministratore, puoi [installarlo per conto dell&#39;intero team](https://docs.microsoft.com/en-us/office365/admin/manage/manage-deployment-of-add-ins?view=o365-worldwide).
 
 >[!NOTE]
 >

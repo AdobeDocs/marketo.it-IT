@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi creare sovrapposizioni personalizzate per visualizzare le voci pertinenti alle tue esigenze.
 
-1. Fai clic su **[!UICONTROL Agenda]** a discesa.
+1. Fai clic sul menu a discesa **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-24-10-3a20-3a11.png)
 
@@ -27,7 +27,7 @@ Puoi creare sovrapposizioni personalizzate per visualizzare le voci pertinenti a
 
    ![](assets/image2014-9-24-10-3a20-3a26.png)
 
-1. Puoi anche filtrare per [tag del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
+1. Puoi anche filtrare per [tag programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}.
 
    ![](assets/image2014-9-24-10-3a20-3a32.png)
 

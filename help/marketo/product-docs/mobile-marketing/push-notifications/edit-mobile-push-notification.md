@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modifica notifica push mobile {#edit-mobile-push-notification}
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
 ![](assets/image2015-4-22-18-3a44-3a42.png)
 
@@ -23,4 +23,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->Ulteriori informazioni su [configurazione delle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) qui.
+>Ulteriori informazioni sulla [configurazione delle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) qui.

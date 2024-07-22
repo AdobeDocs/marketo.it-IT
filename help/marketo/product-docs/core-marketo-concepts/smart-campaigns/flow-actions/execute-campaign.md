@@ -24,7 +24,7 @@ Ci sono molte cose che puoi fare con una campagna eseguibile. Sono progettate pe
 
 Puoi utilizzarli anche quando devi eseguire un flusso separato, ma devi dipendere dai risultati di tale flusso nelle scelte dei passaggi successivi del flusso (ad esempio, in questo caso, fai così).
 
-L’esecuzione di Campaign è un miglioramento rispetto a [Richiedi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), in quanto può essere eseguito in serie, mentre quest&#39;ultima viene eseguita solo in parallelo.
+Esegui campagna è un miglioramento rispetto a [Richiedi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md), in quanto può essere eseguita in serie, mentre quest&#39;ultima viene eseguita solo in parallelo.
 
 >[!NOTE]
 >
@@ -32,17 +32,17 @@ L’esecuzione di Campaign è un miglioramento rispetto a [Richiedi campagna](/h
 
 ## Come creare una campagna eseguibile {#how-to-create-an-executable-campaign}
 
-1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona (Condividi) **[!UICONTROL Nuova campagna avanzata]**.
+1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona **[!UICONTROL Nuova campagna avanzata]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Assegna un nome, seleziona la **[!UICONTROL Eseguibile]** e fai clic su **[!UICONTROL Crea]**.
+1. Assegnare un nome, selezionare la casella di controllo **[!UICONTROL Eseguibile]** e fare clic su **[!UICONTROL Crea]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definisci l’elenco avanzato e il flusso, come per qualsiasi altra campagna avanzata.
 
-Puoi anche clonare una campagna avanzata esistente. Se cloni una campagna eseguibile esistente, dovrai comunque selezionare **[!UICONTROL Eseguibile]** dopo averlo denominato.
+Puoi anche clonare una campagna avanzata esistente. Se si clona una campagna eseguibile esistente, sarà comunque necessario selezionare la casella di controllo **[!UICONTROL Eseguibile]** dopo averla denominata.
 
 >[!NOTE]
 >
@@ -56,28 +56,28 @@ Se è impostato su true, i seguenti contesti di token vengono inviati nella camp
 * Token campagna
 * Token programma
 * Token membro
-* [Attiva token](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (se chiamato da una campagna attivata)
+* [Token di attivazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) (se chiamato da una campagna attivata)
 
 **Interazione API**
 
-Quando si utilizza Pianifica o Richiedi campagna [nell’API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch)Entrambi ti consentono di trasmettere valori per I miei token, che si sovrappongono ai valori impostati per tali token nella campagna che stai chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
+Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 
 * L’elenco avanzato escluderà chiunque non sia idoneo. Se una persona risulta idonea, il record di attività Campagna eseguita risultante le elencherà come &quot;Qualificate: TRUE&quot; (e FALSE in caso contrario)
 * Si applicano le regole di qualificazione della pianificazione della campagna (Impostazioni campagna avanzata nella scheda Pianificazione)
 * Impossibile chiamare le campagne eseguibili in più aree di lavoro
-* Se si utilizza [Rimuovi dal flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) azione di flusso indirizzata a una campagna eseguibile, eseguirà il targeting sia per la campagna figlio che per quella padre
+* Se si utilizza l&#39;azione di flusso [Rimuovi dal flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow.md) destinata a una campagna eseguibile, verrà eseguita sia la campagna figlio che la campagna padre
 * Sfruttare l’ereditarietà dei token: ad esempio, se disponi di un singolo flusso di punteggio comune attivato da più risorse diverse, puoi definire un punteggio My Token predefinito nella campagna secondaria e nella campagna principale, in modo da poter sovrascrivere il valore della campagna punteggio secondario per le campagne principali (vedi di seguito un esempio visivo)
 * Le campagne eseguibili possono essere richiamate fino a tre livelli (ad esempio, Campagna principale > Figlio > Figlio)
 
 >[!CAUTION]
 >
->Non lasciare mai i tuoi elenchi avanzati per le campagne eseguibili non validi, altrimenti _nessuno_ si qualificherà per essa. Si consiglia di creare risorse di elenchi avanzati separate, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di elenco avanzato&quot; nella campagna eseguibile in modo da poter scambiare la definizione dell’elenco avanzato.
+>Non lasciare mai i tuoi elenchi avanzati per le campagne eseguibili non validi. In caso contrario, _nessuno_ sarà idoneo. Si consiglia di creare risorse di elenchi avanzati separate, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di elenco avanzato&quot; nella campagna eseguibile in modo da poter scambiare la definizione dell’elenco avanzato.
 
 ## Esempio di ereditarietà del token {#token-inheritance-example}
 
-Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: una con il contesto del token impostato su **[!UICONTROL Vero]**, l&#39;altro a **[!UICONTROL Falso]**.
+Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: una con contesto token impostato su **[!UICONTROL True]**, l&#39;altra su **[!UICONTROL False]**.
 
 Campagna figlio con un punteggio di modifica tokenizzato.
 
@@ -89,7 +89,7 @@ La campagna per bambini è My Tokens (I miei token).
 
 ### Esempio 1 - True {#example-one-true}
 
-Nel passaggio del flusso Esegui campagna della prima campagna principale, l’opzione &quot;Usa contesto token campagna principale&quot; è impostata su **Vero**.
+Nel passaggio del flusso Esegui campagna della prima campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **True**.
 
 ![](assets/execute-campaign-5.png)
 
@@ -103,7 +103,7 @@ I risultati: punteggio cambiato di +10.
 
 ### Esempio 2: False {#example-two-false}
 
-Nel passaggio di flusso Esegui campagna della seconda campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **Falso**.
+Nel passaggio del flusso Esegui campagna della seconda campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **False**.
 
 ![](assets/execute-campaign-8.png)
 

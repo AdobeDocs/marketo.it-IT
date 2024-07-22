@@ -49,11 +49,11 @@ No, questi dati sono già stati memorizzati nel record persona in Marketo e non 
 
 ## Dove posso trovare ulteriori informazioni sui criteri API di LinkedIn? {#where-can-i-find-more-information-about-linkedin-s-api-policy}
 
-Segui questo collegamento per ulteriori informazioni sulle modifiche apportate da LinkedIn ai propri criteri API: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
+Segui questo collegamento per ulteriori informazioni sulle modifiche apportate da LinkedIn ai criteri API: [https://developer.linkedin.com/blog/posts/2015/developer-program-changes](https://developer.linkedin.com/blog/posts/2015/developer-program-changes)
 
 ## Come posso contattare LinkedIn per eventuali domande? {#how-can-i-contact-linkedin-with-questions}
 
-Segui questo link per contattare LinkedIn in merito alle sue soluzioni di marketing: [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
+Segui questo collegamento per contattare LinkedIn in merito alle loro soluzioni di marketing: [https://business.linkedin.com/marketing-solutions/contact-us](https://business.linkedin.com/marketing-solutions/contact-us)
 
 ## Se Marketo ha rimosso questa funzionalità dai miei moduli il 28 aprile, i miei moduli e le pagine di destinazione interessate sono stati messi in modalità bozza? {#if-marketo-removed-this-functionality-from-my-forms-on-april-were-my-forms-and-the-affected-landing-pages-put-into-draft-mode}
 

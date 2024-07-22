@@ -4,8 +4,8 @@ title: Richieste di accesso a dati personali
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 2%
+source-wordcount: '336'
+ht-degree: 0%
 
 ---
 
@@ -19,16 +19,16 @@ Questo documento fornisce una panoramica sulla gestione delle singole richieste 
 >
 >* Utenti del Marketo Engage che hanno effettuato l’onboarding in Adobe Identity Management System
 >
->**-oppure-**
+>**o-**
 >
 >* Utenti del Marketo Engage che utilizzano un altro prodotto di Experience Cloud Adobe già presente in Identity Management System (ad esempio, edizioni RT-CDP, B2B e B2P, Audience Manager).
 
 Puoi inviare singole richieste di accesso ed eliminazione dei dati dei consumatori dal Marketo Engage in due modi:
 
-* Attraverso il [Interfaccia utente di Privacy Service](https://privacyui.cloud.adobe.io/). Consulta la documentazione [qui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=it){target="_blank"}.
-* Tramite l’API Privacy Service. Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} and API information [here](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
+* Tramite l&#39;[interfaccia utente Privacy Service](https://privacyui.cloud.adobe.io/). Consulta la documentazione [qui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=it){target="_blank"}.
+* Tramite l’API Privacy Service. Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} e le informazioni API [qui](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-Il [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
 
 Vediamo come creare richieste di accesso ed eliminazione.
 
@@ -41,7 +41,7 @@ Per richiedere l&#39;accesso e l&#39;eliminazione dei dati per il Marketo Engage
    a. ID organizzazione IMS<br/>
 b. Indirizzo e-mail della persona su cui desideri agire
 
-   Un ID organizzazione IMS è una stringa alfanumerica composta da 24 caratteri a cui segue @AdobeOrg. Se il team marketing o l’amministratore di Adobe interno non conosce l’ID organizzazione IMS dell’organizzazione, contatta l’Assistenza clienti Adobe all’indirizzo `gdprsupport@adobe.com`. Per inviare richieste all’API per la privacy è necessario l’ID organizzazione IMS.
+   Un ID organizzazione IMS è una stringa alfanumerica composta da 24 caratteri a cui segue @AdobeOrg. Se il team marketing o l&#39;amministratore di Adobe interno non conosce l&#39;ID organizzazione IMS dell&#39;organizzazione, contatta l&#39;Assistenza clienti Adobe all&#39;indirizzo `gdprsupport@adobe.com`. Per inviare richieste all’API per la privacy è necessario l’ID organizzazione IMS.
 
 1. In Privacy Service, puoi inviare le richieste di accesso ed eliminazione al Marketo Engage e controllare lo stato delle richieste esistenti.
 
@@ -54,7 +54,7 @@ b. Indirizzo e-mail della persona su cui desideri agire
 
 &quot;users&quot; (utenti):
 
-* &quot;action&quot;: **accesso** o **eliminare**
+* &quot;action&quot;: **access** o **delete**
 * &quot;userIDs&quot;:
    * &quot;namespace&quot;: **email**
    * &quot;type&quot;: **standard**
@@ -66,7 +66,7 @@ b. Indirizzo e-mail della persona su cui desideri agire
 
 &quot;regolamento&quot;:
 
-* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra**, o **nzpa_nzl**  (regolamento sulla privacy applicabile alla richiesta)
+* **gdpr**, **ccpa**, **pdpa**, **lgpd_bra** o **nzpa_nzl** (normativa sulla privacy applicabile alla richiesta)
 
 ## Esempio 1: richiesta di eliminazione RGPD {#gdpr-delete-request}
 

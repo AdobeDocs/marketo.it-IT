@@ -6,14 +6,14 @@ exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 1%
 
 ---
 
 # Modifica titolo e metadati della pagina di destinazione {#edit-landing-page-title-and-metadata}
 
-Marketo consente di modificare la pagina di destinazione [Metatag a scopo SEO (Search Engine Optimization)](https://www.w3schools.com/tags/tag_meta.asp) nonché personalizzare la `<head>` parte del HTML.
+Marketo ti consente di modificare i [metatag della pagina di destinazione a scopo SEO](https://www.w3schools.com/tags/tag_meta.asp) e di personalizzare la parte `<head>` del HTML.
 
 1. Seleziona una pagina di destinazione e fai clic su **Modifica bozza**.
 
@@ -23,18 +23,18 @@ Marketo consente di modificare la pagina di destinazione [Metatag a scopo SEO (S
    >
    >Il designer della pagina di destinazione si aprirà in una nuova finestra.
 
-1. Sotto **Azioni pagina di destinazione**, fai clic su **Modifica metatag pagina**.
+1. In **Azioni pagina di destinazione**, fai clic su **Modifica metadati pagina**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Inserisci il **Titolo**, **Parole chiave**, e **Descrizione** per la pagina. Seleziona il **Robot** e immettere il contenuto personalizzato desiderato per il HTML `<head>` sezione. Clic **Salva**.
+1. Immetti **Titolo**, **Parole chiave** e **Descrizione** per la pagina. Selezionare l&#39;opzione **Robot** desiderata e immettere il contenuto personalizzato desiderato per la sezione HTML `<head>`. Fai clic su **Salva**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 
    >[!TIP]
    >
-   >**Che cosa fa [robot](https://www.robotstxt.org/meta.html) Cioè?**
+   >**Cosa significano [robot](https://www.robotstxt.org/meta.html)?**
    >
-   >**index**: la pagina può essere cercata sul web. **seguire**: i motori di ricerca possono seguire i collegamenti sulle pagine indicizzate.
+   >**indice**: è possibile eseguire ricerche nella pagina sul Web. **segui**: i motori di ricerca possono seguire i collegamenti nelle pagine indicizzate.
 
 1. Modifica i tag in qualsiasi momento e approva la pagina di destinazione.

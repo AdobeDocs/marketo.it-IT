@@ -1,10 +1,10 @@
 ---
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Engagement Map
-exl-id: 0b445ac7-bfa4-4f86-bb92-86d4d982555e
-source-git-commit: 34545817fd35719290a848384e4bc9feba521305
+exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ La Mappa di coinvolgimento consente di visualizzare in modo intuitivo le campagn
 
 ## Accesso a Engagement Map {#accessing-engagement-map}
 
-Passa a una campagna esistente e fai clic su **Mappa di coinvolgimento** pulsante.
+Passare a una campagna esistente e fare clic sul pulsante **Mappa di coinvolgimento**.
 
 ![](assets/engagement-map-overview-2.png)
 
-Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mappa di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} and [Settings](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+Una volta in Engagement Map, verranno visualizzate due schede: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} e [Impostazioni](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
@@ -33,11 +33,11 @@ Una volta nella mappa di coinvolgimento, verranno visualizzate due schede: [Mapp
 
 **Triggers**: nelle campagne che includono trigger, la mappa avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questo pulsante vengono visualizzate una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
 
-**Filtri**: nelle campagne che includono filtri, la mappa conterrà la scheda Panoramica filtri. Facendo clic su di esso verrà visualizzato un pannello a tendina con informazioni aggiuntive su ciascun filtro.
+**Filtri**: nelle campagne che includono filtri, la mappa conterrà una scheda Panoramica filtri. Facendo clic su di esso verrà visualizzato un pannello a tendina con informazioni aggiuntive su ciascun filtro.
 
-**Passaggi del flusso**: ogni campagna includerà una scheda per ogni passaggio di flusso. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
+**Passaggi del flusso**: ogni campagna includerà una scheda per ogni passaggio del flusso. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
 
-**Scelte**: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda del flusso vengono visualizzate una scheda per ciascuna scelta e un pannello a tendina con informazioni aggiuntive.
+**Scelte**: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda di flusso verrà visualizzata una scheda per ogni scelta e un pannello a tendina con ulteriori informazioni.
 
 ## Campagne nidificate {#nested-campaigns}
 
@@ -71,11 +71,11 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 ## Domande frequenti {#faq}
 
-**Devo ricreare tutte le mie campagne in Engagement Map?**
+**È necessario ricreare tutte le campagne in Engagement Map?**
 
 No. Engagement Map è completamente compatibile con le versioni precedenti. Facendo clic su un pulsante, potrai visualizzare tutte le campagne esistenti nell’interfaccia di Visual Engagement Map.
 
-**Avere Engagement Map nel Marketo Engage significa che perderò l’accesso alla struttura delle cartelle e dovrò imparare di nuovo a creare una campagna intelligente?**
+**Se si dispone di Engagement Map nel Marketo Engage, non sarà più possibile accedere alla struttura delle cartelle e sarà necessario imparare a creare una Smart Campaign?**
 
 No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Tutti gli utenti potranno ancora usufruire del potente set di funzioni del Marketo Engage, ora integrato da immagini chiare.
 
@@ -83,11 +83,11 @@ No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i
 
 No. Tutti gli utenti del Marketo Engage nuovi ed esistenti in tutti gli abbonamenti avranno accesso a questa funzione gratuita.
 
-**In qualità di amministratore di Marketo Engage, sono responsabile dell’attivazione/disattivazione di Engagement Map?**
+**In qualità di amministratore di Marketo Engage, sono responsabile dell&#39;attivazione/disattivazione di Engagement Map?**
 
 No. Engagement Map sarà disponibile per tutti gli utenti nelle loro istanze. Non sarà possibile attivarla o disattivarla per determinati utenti, aree di lavoro e così via.
 
-**In che modo questo è diverso da altri costruttori visivi?**
+**In che modo questo è diverso da altri generatori visivi?**
 
 Sono tre gli elementi chiave che distinguono Engagement Map:
 
@@ -99,5 +99,5 @@ Sono tre gli elementi chiave che distinguono Engagement Map:
 
 >[!MORELIKETHIS]
 >
->* [Scheda Mappa di coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
+>* [Scheda Mappa Di Coinvolgimento](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"}
 >* [Scheda Impostazioni](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}

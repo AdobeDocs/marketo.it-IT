@@ -17,25 +17,25 @@ Le segmentazioni non sono solo per il contenuto dinamico. Puoi anche raggruppare
 
 >[!PREREQUISITES]
 >
->[Approvare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
+>[Approva una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
 
-1. Vai a **Attività di marketing** (o **Analytics**).
+1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-9-3a15-3a58.png)
 
-1. Seleziona il **Prestazioni e-mail** rapporto.
+1. Seleziona il tuo report **Prestazioni e-mail**.
 
    ![](assets/image2014-9-16-9-3a16-3a6.png)
 
-1. Fai clic su **Configurazione** e trascinate **Raggruppa per segmentazioni**.
+1. Fai clic sulla scheda **Configurazione** e trascina su **Raggruppa per segmentazioni**.
 
    ![](assets/image2014-9-16-9-3a16-3a59.png)
 
-1. Scegli una o due segmentazioni da utilizzare per raggruppare il rapporto. Clic **Applica**.
+1. Scegli una o due segmentazioni da utilizzare per raggruppare il rapporto. Fare clic su **Applica**.
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Tutto qui! Fai clic su **Report** scheda. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
+1. Tutto qui! Fare clic sulla scheda **Report**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 
@@ -45,4 +45,4 @@ Le segmentazioni non sono solo per il contenuto dinamico. Puoi anche raggruppare
 
 >[!MORELIKETHIS]
 >
->[Filtrare le risorse in un rapporto e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+>[Filtrare Assets in un report e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

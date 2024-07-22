@@ -15,10 +15,10 @@ ht-degree: 0%
 
 Puoi personalizzare le preferenze delle e-mail per determinare quando verrai aggiornato sulle tue attività SEO (Search Engine Optimization).
 
-1. Nella barra di navigazione superiore, fai clic sul nome utente. Clic **[!UICONTROL Preferenze e-mail]**.
+1. Nella barra di navigazione superiore, fai clic sul nome utente. Fai clic su **[!UICONTROL Preferenze e-mail]**.
 
    ![](assets/image2014-9-17-21-3a23-3a28.png)
 
-1. Indica cosa desideri segnalare via e-mail e fai clic su **[!UICONTROL Salva]**.
+1. Indicare gli elementi per i quali si desidera ricevere avvisi tramite e-mail e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-17-21-3a23-3a33.png)

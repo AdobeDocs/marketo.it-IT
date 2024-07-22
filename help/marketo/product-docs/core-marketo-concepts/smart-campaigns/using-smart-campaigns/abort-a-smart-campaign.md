@@ -19,15 +19,15 @@ ht-degree: 0%
 
 A volte avvii una campagna avanzata e capisci subito che si è trattato di un errore. Ecco come tirare il freno di emergenza e fermare la campagna Smart a metà corsa.
 
-1. Scegli la campagna avanzata desiderata e fai clic su **[!UICONTROL Pianificazione]** scheda.
+1. Scegli la campagna avanzata desiderata e fai clic sulla scheda **[!UICONTROL Pianifica]**.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Fai clic su **[!UICONTROL Azioni campagna]** a discesa. Seleziona **[!UICONTROL Interrompi campagna]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni campagna]**. Seleziona **[!UICONTROL Interrompi campagna]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Clic **[!UICONTROL Interrompi]** per confermare.
+1. Fai clic su **[!UICONTROL Interrompi]** per confermare.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,7 +39,7 @@ A volte avvii una campagna avanzata e capisci subito che si è trattato di un er
 
    >[!NOTE]
    >
-   >Dai un&#39;occhiata al **[!UICONTROL Risultati]** della Smart Campaign per visualizzare quali azioni sono state eseguite prima dell’interruzione. Troverai anche un  [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} con ulteriori dettagli.
+   >Dai un&#39;occhiata alla scheda **[!UICONTROL Risultati]** di Smart Campaign per vedere quali azioni sono state eseguite prima dell&#39;interruzione. Troverai anche una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} con ulteriori dettagli.
 
    >[!TIP]
    >

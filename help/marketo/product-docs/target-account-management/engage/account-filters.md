@@ -17,11 +17,11 @@ Identifica e coinvolgi gli account denominati e gli utenti tipo al loro interno 
 
 ## Filtri TAM {#tam-filters}
 
-1. Seleziona la tua campagna intelligente e fai clic su **Elenco avanzato**.
+1. Seleziona la tua campagna avanzata e fai clic su **Elenco avanzato**.
 
    ![](assets/one.png)
 
-1. Fai clic su **+** per espandere **Filtri account** cartella.
+1. Fare clic su **+** per espandere la cartella **Filtri account**.
 
    ![](assets/two.png)
 
@@ -45,7 +45,7 @@ Per utilizzare questo filtro, fai clic sull’elenco a discesa degli account...
 
 ## Membro di account denominato {#member-of-named-account}
 
-Scegliere innanzitutto un qualificatore. **È** per uno specifico account denominato o **è qualsiasi** per qualsiasi account denominato.
+Scegliere innanzitutto un qualificatore. **È** per uno o più account denominati specifici oppure **è qualsiasi** per qualsiasi account denominato.
 
 ![](assets/six.png)
 
@@ -57,7 +57,7 @@ Fai clic sull’elenco a discesa dell’account denominato...
 
 ![](assets/eight.png)
 
-Se si utilizza il qualificatore &quot;è qualsiasi&quot;, è possibile utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) per limitare i risultati della ricerca. Aggiungetene quanti ne volete!
+Se utilizzi il qualificatore &quot;è qualsiasi&quot;, puoi utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) per limitare i risultati della ricerca. Aggiungetene quanti ne volete!
 
 ![](assets/nine.png)
 
@@ -67,4 +67,4 @@ Impostare &quot;Includi elementi figlio&quot; su false se si desidera che i memb
 
 >[!MORELIKETHIS]
 >
->[Attivatori account](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)
+>[Trigger account](/help/marketo/product-docs/target-account-management/engage/account-triggers.md)

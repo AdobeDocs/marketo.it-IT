@@ -24,7 +24,7 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 
 >[!IMPORTANT]
 >
->**Questo sostituirà** il [disponibilità live chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} è stato stabilito in Impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
+>**L&#39;operazione sovrascriverà** la [disponibilità chat in tempo reale](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md#live-chat-availability){target="_blank"} stabilita nelle impostazioni agente. Lo stato rimarrà fino al ripristino o al successivo blocco di tempo della disponibilità.
 
 >[!NOTE]
 >
@@ -32,7 +32,7 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 
 ## Notifiche chat in diretta {#live-chat-notifications}
 
-Per ulteriori informazioni sulle notifiche, consulta [Panoramica chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
+Ulteriori informazioni sulle notifiche nella [Panoramica chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
 ## Conversazioni {#conversations}
 
@@ -62,11 +62,11 @@ Gli agenti possono terminare manualmente una sessione semplicemente facendo clic
 >
 >Questa funzione fa parte dell’intelligenza artificiale generativa, disponibile tramite l’abbonamento Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-Scelte rapide, basate sull’intelligenza artificiale generativa [Libreria di risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md), è un ottimo modo per ottenere aiuto al volo quando si chatta con un visitatore. È sufficiente digitare una barra (`/`) nella casella di testo e scegliere `ask` o `search`.
+Le scelte rapide, basate sulla [libreria di risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di IA generativa, sono un ottimo modo per ottenere aiuto in tempo reale durante le chat con un visitatore. Digitare una barra (`/`) nella casella di testo e scegliere `ask` o `search`.
 
 ![](assets/agent-inbox-7.png)
 
-**Chiedi** : per ricevere assistenza nelle risposte a una domanda.
+**Chiedi** ti aiuta a rispondere a una domanda.
 
 1. Digitare o scegliere `/ask` nella casella di testo. Digita la domanda e premi Invio sulla tastiera.
 
@@ -76,7 +76,7 @@ Scelte rapide, basate sull’intelligenza artificiale generativa [Libreria di ri
 
    ![](assets/agent-inbox-9.png)
 
-**Ricerca** è utile per trovare le pagine relative a un testo specifico.
+**Ricerca** è utile per trovare le pagine relative a testo specifico.
 
 1. Digitare o scegliere `/search` nella casella di testo.
 
@@ -108,7 +108,7 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 
    ![](assets/agent-inbox-14.png)
 
-1. Scegli il calendario agente desiderato e fai clic su **Invia**.
+1. Scegli il calendario dell&#39;agente desiderato e fai clic su **Invia**.
 
    ![](assets/agent-inbox-15.png)
 

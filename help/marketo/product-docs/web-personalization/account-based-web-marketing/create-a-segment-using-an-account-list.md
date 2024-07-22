@@ -23,11 +23,11 @@ Ecco come creare un segmento utilizzando un Elenco account.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Clic **Crea nuovo**.
+1. Fare clic su **Crea nuovo**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Immetti un nome per il segmento. Trascina **Elenchi account** dal **Firmografica** sezione.
+1. Immetti un nome per il segmento. Trascina **Elenchi account** dalla sezione **Firmographics**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -37,9 +37,9 @@ Ecco come creare un segmento utilizzando un Elenco account.
 
    >[!NOTE]
    >
-   >Gli elenchi account vengono sincronizzati da ABM a Personalizzazione web per l’utilizzo in Segmentazione. Selezionali dal menu a discesa. La sincronizzazione può richiedere fino a cinque minuti. Verrà sincronizzato solo se nell&#39;elenco account sono presenti uno o più account denominati.
+   >Gli elenchi account vengono sincronizzati da ABM a Web Personalization per l’utilizzo in Segmentazione. Selezionali dal menu a discesa. La sincronizzazione può richiedere fino a cinque minuti. Verrà sincronizzato solo se nell&#39;elenco account sono presenti uno o più account denominati.
 
-1. Clic **Salva**, o fai clic su **Salva e definisci campagna** per passare alla pagina Campagne.
+1. Fai clic su **Salva** oppure su **Salva e definisci campagna** per passare alla pagina Campagne.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

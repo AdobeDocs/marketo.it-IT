@@ -6,7 +6,7 @@ exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente _prima di_ esecuzione di eventuali aggiornamenti.
+>È fondamentale scaricare la soluzione Marketo più recente _prima_ di eseguire qualsiasi aggiornamento.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/admin.png)
 
-1. Clic **[!DNL Microsoft Dynamics]**.
+1. Fare clic su **[!DNL Microsoft Dynamics]**.
 
    ![](assets/image2015-3-16-10-3a51-3a25.png)
 
-1. Seleziona **[!UICONTROL Scarica la soluzione Marketo]**.
+1. Selezionare **[!UICONTROL Scarica soluzione Marketo]**.
 
    ![](assets/image2015-3-16-10-3a52-3a1.png)
 
@@ -43,7 +43,7 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 ## Esecuzione dell&#39;aggiornamento {#performing-the-update}
 
-1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, puoi importare _oltre_ versione 1.4).
+1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, è necessario importare _over_ versione 1.4).
 
 1. Viene visualizzata la seguente finestra a comparsa. Seleziona **[!UICONTROL Aggiorna]** e **[!UICONTROL Gestisci personalizzazioni]**, quindi fai clic su **[!UICONTROL Importa]**.
 
@@ -51,4 +51,4 @@ Quando viene rilasciata una nuova soluzione Microsoft Dynamics, puoi scaricare l
 
 >[!CAUTION]
 >
->Se si seleziona Aggiorna invece di Aggiorna, i dati potrebbero danneggiarsi nell’ambiente Dynamics. _Assicurati di scegliere Aggiorna_ in Opzioni di importazione.
+>Se si seleziona Aggiorna invece di Aggiorna, i dati potrebbero danneggiarsi nell’ambiente Dynamics. _Scegliere Aggiorna_ in Opzioni di importazione.

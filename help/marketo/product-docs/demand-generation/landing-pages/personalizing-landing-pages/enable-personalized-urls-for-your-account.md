@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 3%
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** e fai clic su **Pagine di destinazione**.
+1. Vai alla sezione **Amministratore** e fai clic su **Pagine di destinazione**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Clic **Modifica**.
+1. Fai clic su **Modifica**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Controlla la **Abilita URL personalizzati** e fai clic su **Salva**.
+1. Seleziona la casella **Abilita URL personalizzati** e fai clic su **Salva**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 

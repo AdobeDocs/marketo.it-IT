@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elimina app mobile {#delete-mobile-app}
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
@@ -25,11 +25,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-17-3a22-3a11.png)
 
-1. Clic **Azioni app mobile** e seleziona **Elimina app**.
+1. Fai clic su **Azioni app mobile** e seleziona **Elimina app**.
 
    ![](assets/image2015-4-22-17-3a21-3a51.png)
 
-1. Conferma facendo clic su **Elimina**.
+1. Confermare facendo clic su **Elimina**.
 
    ![](assets/image2015-4-22-17-3a23-3a18.png)
 

@@ -21,11 +21,11 @@ ht-degree: 0%
 
 Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un oggetto personalizzato.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-1.png)
 
-1. Clic **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-2.png)
 
@@ -33,15 +33,15 @@ Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un o
 
    ![](assets/edit-and-delete-a-marketo-custom-object-3.png)
 
-1. Fai clic su **[!UICONTROL Azioni oggetto personalizzato]** e fai clic su **[!UICONTROL Modifica oggetto]**.
+1. Fai clic sulla scheda **[!UICONTROL Azioni oggetto personalizzato]** e fai clic su **[!UICONTROL Modifica oggetto]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-4.png)
 
-1. Apporta le modifiche desiderate. Trascinare il dispositivo di scorrimento se si desidera visualizzare l&#39;oggetto nella pagina Dettagli lead. Clic **[!UICONTROL Salva]**.
+1. Apporta le modifiche desiderate. Trascinare il dispositivo di scorrimento se si desidera visualizzare l&#39;oggetto nella pagina Dettagli lead. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. Assicurati di approvare [oggetto modificato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. Assicurarsi di approvare [l&#39;oggetto modificato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Eliminare un oggetto personalizzato {#delete-a-custom-object}
 
@@ -51,11 +51,11 @@ Eliminare un oggetto personalizzato è facile, ma è necessario prestare attenzi
 >
 >Non è possibile ripristinare un oggetto personalizzato dopo averlo eliminato.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-6.png)
 
-1. Clic **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-7.png)
 
@@ -63,7 +63,7 @@ Eliminare un oggetto personalizzato è facile, ma è necessario prestare attenzi
 
    ![](assets/edit-and-delete-a-marketo-custom-object-8.png)
 
-1. Clic **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Elimina oggetto]**.
+1. Fai clic su **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Elimina oggetto]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-9.png)
 
@@ -75,7 +75,7 @@ Eliminare un oggetto personalizzato è facile, ma è necessario prestare attenzi
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Se l’oggetto personalizzato è già approvato, il rischio di eliminarlo è maggiore. Quindi, riceverete questo severo avviso. Invio **[!UICONTROL Capisco]**, controlla **[!UICONTROL Impossibile annullare]** e fai clic su **[!UICONTROL Elimina]**.
+1. Se l’oggetto personalizzato è già approvato, il rischio di eliminarlo è maggiore. Quindi, riceverete questo severo avviso. Immetti **[!UICONTROL Ho capito]**, seleziona la casella di controllo **[!UICONTROL Impossibile annullare]** e fai clic su **[!UICONTROL Elimina]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 
@@ -85,4 +85,4 @@ Eliminare un oggetto personalizzato è facile, ma è necessario prestare attenzi
 
 >[!MORELIKETHIS]
 >
->[Approvare un oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>[Approva un oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)

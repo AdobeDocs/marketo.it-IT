@@ -21,15 +21,15 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/one.png)
 
-1. Nel menu Gestione database fare clic su **[!UICONTROL Sincronizzazione oggetti Salesforce]**.
+1. Scegliere **[!UICONTROL Sincronizzazione oggetti Salesforce]** dal menu Gestione database.
 
    ![](assets/two-2.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sincronizza schema]**. Altrimenti fai clic su **[!UICONTROL Aggiorna schema]** per avere la versione più recente.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sincronizza schema]**. In caso contrario, fare clic su **[!UICONTROL Aggiorna schema]** per verificare di disporre dell&#39;ultima versione.
 
    ![](assets/image2014-12-10-10-3a14-3a44.png)
 
@@ -41,7 +41,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >La sincronizzazione dello schema di oggetti personalizzato di Salesforce potrebbe richiedere alcuni minuti.
 
-1. Clic **[!UICONTROL Aggiorna schema]**.
+1. Fare clic su **[!UICONTROL Aggiorna schema]**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
@@ -53,11 +53,11 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]** di nuovo.
+1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Torna a **[!DNL Salesforce]** e fai clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Torna alla scheda **[!DNL Salesforce]** e fai clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >Non è possibile utilizzare oggetti personalizzati in Smart Campaigns con trigger.
 
-1. Nell’elenco avanzato, trascina sulla **[!UICONTROL Ha un’opportunità]** filtra e imposta su **[!UICONTROL true]**.
+1. Nell&#39;elenco avanzato, trascina il filtro **[!UICONTROL Ha opportunità]** e imposta su **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
@@ -79,4 +79,4 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 >[!MORELIKETHIS]
 >
->[Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+>[Aggiungi/Rimuovi campo oggetto personalizzato come elenco avanzato/vincoli trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}

@@ -19,11 +19,11 @@ Ad esempio, supponiamo che Keith utilizzi il collegamento ‘Inoltra all’amico
 
 ## Aggiungere il collegamento a un modello e-mail {#add-the-link-to-an-email-template}
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/one-8.png)
 
-1. Trova e seleziona il modello e-mail a cui desideri aggiungere il collegamento. Clic **Modifica bozza**.
+1. Trova e seleziona il modello e-mail a cui desideri aggiungere il collegamento. Fare clic su **Modifica bozza**.
 
    ![](assets/two-7.png)
 
@@ -42,9 +42,9 @@ Ad esempio, supponiamo che Keith utilizzi il collegamento ‘Inoltra all’amico
 
    >[!CAUTION]
    >
-   >Si sconsiglia di utilizzare lo stile **posizione:relativa** nel modello di e-mail. Può creare problemi con la posizione e la visualizzazione della casella &quot;Inoltra a amico&quot;.
+   >Non è consigliabile utilizzare lo stile **position:relative** nel modello di messaggio di posta elettronica. Può creare problemi con la posizione e la visualizzazione della casella &quot;Inoltra a amico&quot;.
 
-1. Clic **Anteprima bozza** per fare in modo che il modello abbia l&#39;aspetto desiderato.
+1. Fare clic su **Anteprima bozza** per verificare che l&#39;aspetto del modello sia quello desiderato.
 
    ![](assets/four-5.png)
 
@@ -64,11 +64,11 @@ Puoi anche aggiungere il collegamento &quot;Inoltra all’amico&quot; direttamen
 
    ![](assets/five-4.png)
 
-1. Posizionare il cursore nel punto in cui si desidera visualizzare il collegamento e fare clic sul pulsante **Inserisci token** pulsante.
+1. Posizionare il cursore nel punto in cui si desidera visualizzare il collegamento e fare clic sul pulsante **Inserisci token**.
 
    ![](assets/six-2.png)
 
-1. Seleziona la **`{{system.forwardToFriendLink}}`** token.
+1. Selezionare il token **`{{system.forwardToFriendLink}}`**.
 
    ![](assets/seven-1.png)
 
@@ -80,11 +80,11 @@ Puoi anche aggiungere il collegamento &quot;Inoltra all’amico&quot; direttamen
 
    ![](assets/seven-1.png)
 
-1. Taglia il **`{{system.forwardToFriendLink}}`** token utilizzando Ctrl+X (Windows) o Comando+X (Mac). Evidenzia &quot;Inoltra a un amico&quot; e fai clic sul pulsante **Inserisci/Modifica collegamento** pulsante.
+1. Tagliare il token **`{{system.forwardToFriendLink}}`** utilizzando Ctrl+X (Windows) o Comando+X (Mac). Evidenziare &quot;Inoltra a un amico&quot; e fare clic sul pulsante **Inserisci/Modifica collegamento**.
 
    ![](assets/eight-1.png)
 
-1. Incolla il **`{{system.forwardToFriendLink}}`** token in **URL** utilizzando Ctrl/Comando+V, quindi fare clic su **Inserisci**.
+1. Incollare il token **`{{system.forwardToFriendLink}}`** nella casella **URL** utilizzando Ctrl/Comando+V, quindi fare clic su **Inserisci**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Puoi anche aggiungere il collegamento &quot;Inoltra all’amico&quot; direttamen
 
 Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della persona.
 
-1. Vai a **`Database`**.
+1. Passare a **`Database`**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della p
 
    ![](assets/fourteen.png)
 
-1. Vai a **Registro attività** scheda. Doppio clic **Ricevuto Inoltra a e-mail amico** o **Inoltro a e-mail amico** per visualizzare i dettagli.
+1. Passa alla scheda **Registro attività**. Fai doppio clic su **Ricevuto e-mail per amici** o su **Inoltro a e-mail per amici** per visualizzare i dettagli.
 
    ![](assets/fifteen.png)
 
@@ -122,20 +122,20 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della p
 
    ![](assets/sixteen.png)
 
-1. Per visualizzare una persona per ID, copia e incolla il **ID persona** alla fine dell’URL (l’inizio di tale URL dipenderà dall’istanza Marketo):
+1. Per visualizzare una persona per ID, copia e incolla **ID persona** alla fine dell&#39;URL (l&#39;inizio di tale URL dipenderà dalla tua istanza di Marketo):
 
    `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
 
    >[!NOTE]
    >
-   >Faremo la **ID persona** cliccabile e collegarsi direttamente alla persona in una delle prossime patch.
+   >In una patch successiva, renderemo **cliccabile l&#39;ID persona** e lo collegheremo direttamente alla persona.
 
    ![](assets/seventeen.png)
 
    >[!NOTE]
    >
-   >Se l’amico che riceve l’inoltro è una persona sconosciuta, viene creata una nuova persona con &quot;Inoltra all’amico&quot; contrassegnato come **Sorgente**.
-   >Se l’e-mail è una risorsa locale di un programma, il programma viene contrassegnato come **Programma di acquisizione**.
+   >Se l&#39;amico che riceve l&#39;inoltro è una persona sconosciuta, viene creato un nuovo utente con l&#39;opzione &quot;Inoltra all&#39;amico&quot; contrassegnata come **Source** della persona.
+   >Se l&#39;e-mail è una risorsa locale di un programma, il programma viene contrassegnato come **Programma di acquisizione** della persona.
 
 ## Attivare o filtrare tramite attività di inoltro {#trigger-or-filter-using-forwarding-activity}
 
@@ -147,4 +147,4 @@ Nell’elenco smart di una campagna, se cerchi &quot;inoltra&quot; troverai i tr
 
 ## Inoltra test ad amico {#test-forward-to-friend}
 
-Per verificare l’efficacia di Inoltra a un amico, invia un’e-mail con il collegamento di inoltro. Assicurati di inviarlo tramite il **Invia e-mail** fase di flusso, *non* da a **Invia e-mail di prova**.
+Per verificare l’efficacia di Inoltra a un amico, invia un’e-mail con il collegamento di inoltro. Assicurati di inviarlo tramite il passaggio di flusso **Invia e-mail**, *non* tramite **Invia e-mail di prova**.

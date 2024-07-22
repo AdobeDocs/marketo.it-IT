@@ -6,28 +6,28 @@ exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
 
 # Definire i criteri vincitori del test A/B {#define-the-a-b-test-winner-criteria}
 
-Quando [aggiunta di un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} to your email program, you will need to pick a test type, [schedule the A/B test](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}, quindi definisci i criteri del vincitore. Ecco come decidere quale e-mail vince.
+Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"} al tuo programma e-mail, dovrai scegliere un tipo di test, [pianificare il test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}, quindi definire i criteri dei vincitori. Ecco come decidere quale e-mail vince.
 
 >[!PREREQUISITES]
 >
->[Aggiungere un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}
+>[Aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md){target="_blank"}
 
 ## Criteri vincitori {#winner-criteria}
 
-1. Il valore predefinito **Criteri vincitori** Le opzioni sono elencate per prime.
+1. Le opzioni **Criteri vincitori** predefinite sono elencate per prime.
 
    ![](assets/image2014-9-12-15-3a51-3a3.png)
 
    <table>
    <tr>
-   <td><b>Aperture</b></td>
+   <td><b>Aperti</b></td>
    <td>Un messaggio aperto si registra quando le immagini vengono scaricate in un messaggio e-mail. Anche se non includi un’immagine, per impostazione predefinita Marketo inserisce un singolo pixel di tracciamento in tutte le e-mail HTML.</td>
    </tr>
    <tr>
@@ -40,13 +40,13 @@ Quando [aggiunta di un test A/B](/help/marketo/product-docs/email-marketing/emai
    </tr>
    <tr>
    <td><b>Punteggio di coinvolgimento</b></td>
-   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">punteggio di coinvolgimento</a> consente di determinare l’efficacia dei contenuti.</td>
+   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
    </tr>
    </table>
 
    >[!TIP]
    >
-   >Se scegli il punteggio di coinvolgimento, il test dovrà essere eseguito per almeno 24 ore. Ulteriori informazioni su [comprensione del punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+   >Se scegli il punteggio di coinvolgimento, il test dovrà essere eseguito per almeno 24 ore. Ulteriori informazioni su [comprendere il punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
 
 1. Puoi anche personalizzare i criteri selezionando Conversione personalizzata e facendo clic su Modifica.
 
@@ -82,16 +82,16 @@ Quando [aggiunta di un test A/B](/help/marketo/product-docs/email-marketing/emai
 
    >[!NOTE]
    >
-   >Se si sta eseguendo una **Data/ora** Test A/B, puoi solo scegliere **Manuale**.
+   >Se stai eseguendo un test A/B di **Data/ora**, puoi scegliere solo **Manuale**.
 
    Al termine del test A/B, Marketo può inviare automaticamente l’e-mail vincente all’orario pianificato, oppure puoi rivedere i risultati e decidere quale e-mail viene inviata quando.
 
-1. Automatico è fantastico ed è l&#39;opzione predefinita. Fai clic su **Successivo**.
+1. Automatico è fantastico ed è l&#39;opzione predefinita. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-12-15-3a54-3a35.png)
 
    >[!TIP]
    >
-   >Scelta **Manuale** invierà il test e vi aspetterà per dichiarare un vincitore. Riceverai un rapporto sui risultati.
+   >Scegliendo **Manuale** verrà inviato il test e si attenderà la dichiarazione di un vincitore. Riceverai un rapporto sui risultati.
 
-Perfetto! Ora andiamo [pianificare il test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Perfetto! Ora [pianifica il test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.

@@ -19,7 +19,7 @@ Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambi
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. Seleziona un messaggio e-mail e fai clic su **[!UICONTROL Modifica bozza]**.
+1. Seleziona un&#39;e-mail e fai clic su **[!UICONTROL Modifica bozza]**.
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
@@ -29,4 +29,4 @@ Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambi
 
    >[!NOTE]
    >
-   >Non tutti gli utenti dispongono delle autorizzazioni necessarie per impostare il dominio con marchio per e-mail. Contatta l&#39;amministratore se non visualizzi [!UICONTROL Domini con marchio] a discesa.
+   >Non tutti gli utenti dispongono delle autorizzazioni necessarie per impostare il dominio con marchio per e-mail. Contatta l&#39;amministratore se non trovi il menu a discesa [!UICONTROL Domini con marchio].

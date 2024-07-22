@@ -19,7 +19,7 @@ Se hai bisogno di un elenco o di risultati di elenchi avanzati al di fuori di Ma
 
    ![](assets/ma.png)
 
-1. Seleziona l’elenco o l’elenco avanzato da esportare e passa alla sezione **[!UICONTROL Persone]** scheda.
+1. Seleziona l&#39;elenco o l&#39;elenco avanzato da esportare e passa alla scheda **[!UICONTROL Persone]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -33,16 +33,16 @@ Se hai bisogno di un elenco o di risultati di elenchi avanzati al di fuori di Ma
 
    >[!NOTE]
    >
-   >Se si sceglie **[!UICONTROL Tutte le colonne]**, l’esportazione avrà dimensioni maggiori e richiederà più tempo per essere generata/scaricata.
+   >Se scegli **[!UICONTROL Tutte le colonne]**, l&#39;esportazione avrà dimensioni maggiori e richiederà più tempo per essere generata/scaricata.
 
    >[!TIP]
    >
-   >Se i record delle persone contengono caratteri esterni che non vengono riprodotti correttamente durante l&#39;esportazione, provare a modificare il tipo di file in **[!UICONTROL Formato]** a discesa.
+   >Se i record delle persone contengono caratteri esterni che non vengono riprodotti correttamente durante l&#39;esportazione, provare a modificare il tipo di file nel menu a discesa **[!UICONTROL Formato]**.
 
-1. L’esportazione verrà eseguita. Al termine puoi fare clic su **[!UICONTROL Scarica ora]** per acquisire il file.
+1. L’esportazione verrà eseguita. Al termine, puoi fare clic su **[!UICONTROL Scarica ora]** per acquisire il file.
 
    ![](assets/popup.png)
 
    >[!TIP]
    >
-   >Se l’esportazione richiede un po’ di tempo, puoi sempre disconnetterti e tornare in un secondo momento. Il **[!UICONTROL Scarica ora]** per accedere al collegamento, seleziona **[!UICONTROL Mostra stato esportazione]** nel **[!UICONTROL Azioni elenco]** ed è valido per una settimana.
+   >Se l’esportazione richiede un po’ di tempo, puoi sempre disconnetterti e tornare in un secondo momento. È possibile accedere al collegamento **[!UICONTROL Scarica ora]** selezionando **[!UICONTROL Mostra stato esportazione]** nel menu **[!UICONTROL Elenca azioni]** ed è valido per una settimana.

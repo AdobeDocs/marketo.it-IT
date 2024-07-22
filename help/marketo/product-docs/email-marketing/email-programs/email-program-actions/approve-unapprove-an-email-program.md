@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Crea un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >* [Definire un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) o [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)
 >
->* [Scegli un messaggio e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Scegli un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [Crea un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 >
->* [Pianificazione del programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Pianifica Il Programma Di Posta Elettronica](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
 
 ## Approva il programma e-mail {#approve-your-email-program}
 
@@ -37,7 +37,7 @@ Ora che il programma è pronto, il passaggio finale è quello di approvarlo. Ecc
    >
    >Se non approvi il tuo programma e-mail, l’e-mail non verrà inviata.
 
-1. Sotto **Approvazione** affianca vai avanti e fai clic su **Approva programma**.
+1. Sotto il riquadro **Approvazione** procedere e fare clic su **Approva programma**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -61,7 +61,7 @@ Se cambi idea e decidi di non volerla uscire, puoi annullare l’approvazione de
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Sotto **Approvazione** affiancare, fai clic su **Annulla approvazione programma**.
+1. Nel riquadro **Approvazione**, fai clic su **Annulla approvazione programma**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

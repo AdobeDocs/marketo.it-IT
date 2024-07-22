@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Crea un duplicato del rapporto per personalizzarlo ulteriormente senza modificare l’originale.
 
-1. Vai a **Attività di marketing** (o **Analytics**).
+1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Seleziona il rapporto. Seleziona **Azioni report** > **Clonare un rapporto**.
+1. Seleziona il rapporto. Seleziona **Azioni report** > **Clona un report**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

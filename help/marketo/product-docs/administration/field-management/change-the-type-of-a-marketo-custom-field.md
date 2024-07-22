@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Per modificare il tipo di campo di un campo personalizzato, procedere come segue.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-2.png)
 
@@ -27,7 +27,7 @@ Per modificare il tipo di campo di un campo personalizzato, procedere come segue
 
    ![](assets/change-the-type-of-a-marketo-custom-field-3.png)
 
-1. In **[!UICONTROL Azioni campo]** a discesa, fai clic su **[!UICONTROL Cambia tipo]**.
+1. Nel menu a discesa **[!UICONTROL Azioni campo]**, fare clic su **[!UICONTROL Tipo di modifica]**.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-4.png)
 
@@ -39,7 +39,7 @@ Per modificare il tipo di campo di un campo personalizzato, procedere come segue
 
    ![](assets/change-the-type-of-a-marketo-custom-field-5.png)
 
-1. Leggi l’avviso, quindi fai clic su **[!UICONTROL Cambia]** per confermare.
+1. Leggi l&#39;avviso, quindi fai clic su **[!UICONTROL Modifica]** per confermare.
 
    ![](assets/change-the-type-of-a-marketo-custom-field-6.png)
 
@@ -49,4 +49,4 @@ Per modificare il tipo di campo di un campo personalizzato, procedere come segue
 
    >[!MORELIKETHIS]
    >
-   >[Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+   >[Crea un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)

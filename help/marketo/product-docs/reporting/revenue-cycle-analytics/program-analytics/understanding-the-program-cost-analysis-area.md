@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ Quanti nuovi nomi sono stati generati da ogni canale al mese?
 
 ![](assets/image2015-5-6-14-3a13-3a47.png)
 
-Qual è il costo mensile per ogni nuovo nome in base al canale?
+Qual è il costo mensile per ogni nuovo nome per canale?
 
 ![](assets/image2015-5-6-14-3a16-3a28.png)
 
@@ -41,7 +41,7 @@ Quanto ho speso per programma al mese?
 
 ## Investimento {#investment}
 
-| Misura | Descrizione |
+| Misurare | Descrizione |
 |---|---|
 | Costo per membro | Costo medio per membro del programma |
 | Costo per nuovo nome | Costo medio per lead acquisito dal programma |
@@ -54,7 +54,7 @@ Quanto ho speso per programma al mese?
 <table> 
  <tbody> 
   <tr> 
-   <th>Misura</th> 
+   <th>Misurare</th> 
    <th>Descrizione</th> 
   </tr> 
   <tr> 
@@ -89,16 +89,16 @@ Quanto ho speso per programma al mese?
 
 ## Tag del programma {#program-tags}
 
-| Misura | Descrizione |
+| Misurare | Descrizione |
 |---|---|
 | Settore | Tag del programma |
 | Linea di prodotti | Tag del programma |
 | Proprietario del programma | Tag del programma |
 | Area geografica | Tag del programma |
 
-## Completato {#success}
+## Operazione riuscita {#success}
 
-| Misura | Descrizione |
+| Misurare | Descrizione |
 |---|---|
 | % operazione riuscita (nuovi nomi) | Percentuale di lead acquisiti dal programma E che hanno raggiunto il successo nel suo avanzamento |
 | % di successo (totale) | Percentuale di lead che hanno raggiunto il successo nella progressione di un programma |

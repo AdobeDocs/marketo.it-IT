@@ -6,7 +6,7 @@ exl-id: 5b202877-b501-4cd2-9fe2-e8663dd5792f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ La funzione di analisi dell’e-mail verrà attivata in più fasi in aprile e ma
 
 ## API del programma {#program-apis}
 
-Supporto per i programmi nella chiamata API SOAP, incluso l’accesso in sola lettura ai dati del programma, ad esempio: conteggi di iscrizione al programma, acquisito da, successo, impostazioni, canali, tag, token e costi. Per ulteriori informazioni, consulta la documentazione dell’API SOAP.
+Supporto per i programmi nella chiamata API SOAP, incluso l’accesso in sola lettura ai dati del programma, ad esempio: conteggi di iscrizione al programma, acquisiti da, successo, impostazioni, canali, tag, token e costi. Per ulteriori informazioni, consulta la documentazione sulle API dell’SOAP.
 
 ## Miglioramento ON24 {#on-enhancement}
 

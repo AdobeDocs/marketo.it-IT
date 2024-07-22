@@ -33,17 +33,17 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Clic **[!UICONTROL Esporta]** in fondo al rapporto Riepilogo per il download.
+1. Fai clic su **[!UICONTROL Esporta]** nella parte inferiore del rapporto Riepilogo per scaricarlo.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Utilizzato dalla vista {#used-by-view}
 
-1. In entrata **[!UICONTROL Attività di marketing]**, seleziona un programma.
+1. In **[!UICONTROL Attività di marketing]**, seleziona un programma.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Fai clic su **[!UICONTROL Visualizza]** a discesa. Seleziona **[!UICONTROL Utilizzato da]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Visualizza]**. Seleziona **[!UICONTROL Utilizzato da]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
 ## Visualizzazione appartenenza {#membership-view}
 
-1. In entrata **[!UICONTROL Attività di marketing]**, seleziona un programma.
+1. In **[!UICONTROL Attività di marketing]**, seleziona un programma.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Fai clic su **[!UICONTROL Visualizza]** a discesa. Seleziona **[!UICONTROL Iscrizione]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Visualizza]**. Seleziona **[!UICONTROL Appartenenza]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,8 +67,8 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
    >[!NOTE]
    >
-   >**[!UICONTROL Storico]** indica chiunque abbia mai visitato il programma, mentre **[!UICONTROL Corrente]** include solo le persone attualmente nel programma.
+   >**[!UICONTROL Storico]** indica chiunque abbia mai eseguito il programma, mentre **[!UICONTROL Corrente]** include solo le persone attualmente nel programma.
 
    >[!MORELIKETHIS]
    >
-   >[Informazioni sull’iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

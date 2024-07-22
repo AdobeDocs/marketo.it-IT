@@ -16,27 +16,27 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
 ## Genera domande {#generate-questions}
 
-1. In IA generativa, fai clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
 
    ![](assets/question-generation-1.png)
 
-1. Clic **[!UICONTROL Genera domande]**.
+1. Fai clic su **[!UICONTROL Genera domande]**.
 
    ![](assets/question-generation-2.png)
 
-1. Assegna un nome all’attività e inserisci un URL di origine (fino a 10) dal quale verrà estratto tutto il contenuto. Immettere gli argomenti/parole chiave desiderati e premere Invio sulla tastiera. Al termine, fai clic su **[!UICONTROL Genera]**.
+1. Assegna un nome all’attività e inserisci un URL di origine (fino a 10) dal quale verrà estratto tutto il contenuto. Immettere gli argomenti/parole chiave desiderati e premere Invio sulla tastiera. Al termine, fare clic su **[!UICONTROL Genera]**.
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >Per garantire che il Marketo Engage possa raschiare il contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. [Per ulteriori informazioni, consulta di seguito](#ip-addresses-to-allowlist).
+   >Per garantire che il Marketo Engage possa raschiare il contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. [Per ulteriori dettagli, vedere di seguito](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
    >I siti e le pagine devono essere pubblici (ovvero non nascosti dietro un accesso) affinché le loro informazioni possano essere raschiate.
 
-1. In base al contenuto, la generazione di domande e risposte può richiedere fino a 30 minuti. Clic **[!UICONTROL OK]**.
+1. In base al contenuto, la generazione di domande e risposte può richiedere fino a 30 minuti. Fare clic su **[!UICONTROL OK]**.
 
    ![](assets/question-generation-4.png)
 
@@ -50,7 +50,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
 >[!NOTE]
 >
->Le domande e le risposte generate sono visualizzabili anche in [Libreria di risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+>Le domande e le risposte generate sono visualizzabili anche nella [Libreria risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
 1. Trova l’attività desiderata e fai clic sull’icona Scarica accanto al nome.
 
@@ -60,15 +60,15 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-7.png)
 
-1. Nel file di Excel, **[!DNL Task details]** mostra solo questo, vari dettagli sull’attività, comprese istruzioni su come aggiungere/modificare domande e/o risposte.
+1. Nel file di Excel, **[!DNL Task details]** mostra solo questo, vari dettagli sull&#39;attività, comprese le istruzioni su come aggiungere/modificare domande e/o risposte.
 
    ![](assets/question-generation-8.png)
 
    >[!NOTE]
    >
-   >Se decidi di aggiungere/modificare domande e/o risposte in blocco, [scopri come ricaricarli qui](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
+   >Se decidi di aggiungere/modificare domande e/o risposte in blocco, [scopri come ricaricarle qui](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md).
 
-1. Il **[!DNL Q&Rs]** fornisce ulteriori dettagli, incluse le domande e le risposte generate.
+1. La scheda **[!DNL Q&Rs]** fornisce ulteriori dettagli, incluse le domande e le risposte generate.
 
    ![](assets/question-generation-9.png)
 

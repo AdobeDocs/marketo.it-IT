@@ -18,11 +18,11 @@ Per coloro che utilizzano Google Customer Match, segui i passaggi seguenti per i
 
    ![](assets/send-a-list-to-google-1.png)
 
-1. Fai clic su **Azioni elenco** a discesa e selezionare **Invia ad Ad Network**.
+1. Fai clic sul menu a discesa **Azioni elenco** e seleziona **Invia ad Ad Network**.
 
    ![](assets/send-a-list-to-google-2.png)
 
-1. Scegli Google e fai clic su **Successivo**.
+1. Scegli Google e fai clic su **Avanti**.
 
    ![](assets/send-a-list-to-google-3.png)
 
@@ -36,14 +36,14 @@ Per coloro che utilizzano Google Customer Match, segui i passaggi seguenti per i
 
    >[!NOTE]
    >
-   >* Selezione **Mantieni l’iscrizione al pubblico sincronizzata** mantiene l’elenco aggiornato man mano che cambia nell’istanza. Aggiungiamo/rimuoviamo persone dal pubblico quando vengono aggiunte/rimosse dall’elenco statico.
+   >* Selezionando **Mantieni l&#39;iscrizione al pubblico sincronizzato**, l&#39;elenco viene aggiornato man mano che cambia nell&#39;istanza. Aggiungiamo/rimuoviamo persone dal pubblico quando vengono aggiunte/rimosse dall’elenco statico.
    >
-   >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO. Per coloro che intendono caricare dati per gli utenti nello Spazio economico europeo (SEE), Google ha stilato un elenco di [Domande frequenti](https://support.google.com/google-ads/answer/14310715){target="_blank"}, nonché ulteriori dettagli che descrivono [Politica di consenso degli utenti UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
+   >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO. Per coloro che intendono caricare dati per gli utenti dello Spazio economico europeo (SEE), Google ha stilato un elenco di [domande frequenti](https://support.google.com/google-ads/answer/14310715){target="_blank"}, oltre a dettagli aggiuntivi che descrivono i [criteri di consenso degli utenti dell&#39;UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 
-1. Clic **Aggiorna**.
+1. Fai clic su **Aggiorna**.
 
    ![](assets/send-a-list-to-google-6.png)
 
-1. Clic **OK** per uscire.
+1. Fare clic su **OK** per uscire.
 
    ![](assets/send-a-list-to-google-7.png)

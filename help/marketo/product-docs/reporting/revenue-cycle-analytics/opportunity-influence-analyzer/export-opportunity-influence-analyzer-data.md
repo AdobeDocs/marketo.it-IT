@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Per ricevere aggiornamenti dai rapporti di Revenue Cycle Explorer e condividerli, è possibile sottoscrivere qualsiasi indirizzo e-mail a un rapporto esistente.
 
-1. Vai a **Analytics** e seleziona **Nuovo** > **Nuova sottoscrizione report**.
+1. Vai a **Analytics** e seleziona **New** > **New Report Subscription**.
 
    ![](assets/image2014-9-17-12-3a40-3a46.png)
 
    >[!NOTE]
    >
-   >Per sottoscrivere un report di base creato in un programma, vedere [Iscriviti a un rapporto di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
+   >Per sottoscrivere un report di base creato in un programma, vedere [Sottoscrivere un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md).
 
-1. Per Origine report, seleziona **Gestione ricavi**.
+1. Per Report Source, selezionare **Gestione ricavi**.
 
    ![](assets/image2014-9-17-12-3a42-3a15.png)
 
@@ -45,4 +45,4 @@ Per ricevere aggiornamenti dai rapporti di Revenue Cycle Explorer e condividerli
 
 >[!MORELIKETHIS]
 >
->Scopri come [gestisci tutte le sottoscrizioni ai report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un unico posto.
+>Scopri come [gestire tutte le sottoscrizioni ai report](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md) in un&#39;unica posizione.

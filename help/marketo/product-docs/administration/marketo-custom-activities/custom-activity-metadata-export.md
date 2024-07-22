@@ -18,7 +18,7 @@ Segui i passaggi seguenti per esportare lo schema metadati attività personalizz
 
    ![](assets/custom-activity-metadata-export-1.png)
 
-1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/custom-activity-metadata-export-2.png)
 
@@ -26,7 +26,7 @@ Segui i passaggi seguenti per esportare lo schema metadati attività personalizz
 
    ![](assets/custom-activity-metadata-export-3.png)
 
-1. Fai clic su **[!UICONTROL Azioni attività personalizzate]** a discesa e selezionare **[!UICONTROL Attività esportazione]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni attività personalizzate]** e seleziona **[!UICONTROL Esporta attività]**.
 
    ![](assets/custom-activity-metadata-export-4.png)
 

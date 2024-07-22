@@ -6,7 +6,7 @@ exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
 source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Una volta al trimestre, Marketo troverà le campagne avanzate che sono rimaste i
 
 Certo! Una volta al trimestre, riceverai una notifica con una settimana di anticipo, indicando ogni campagna che prevediamo di disattivare.
 
-1. Fai clic su **[!UICONTROL Notifiche]** icona.
+1. Fai clic sull&#39;icona **[!UICONTROL Notifiche]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Clic **[!UICONTROL Pianificazione pulizia campagna attivazione inattività]**. Quindi fai clic su **[!UICONTROL Queste campagne con trigger di inattività verranno disattivate]** collegamento.
+1. Fai clic su **[!UICONTROL Inattiva pulizia campagna trigger pianificata]**. Fai clic sul collegamento **[!UICONTROL Le campagne con trigger inattivo verranno disattivate]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 
@@ -52,7 +52,7 @@ In entrambi i casi verrà reimpostato il contatore di 6 mesi.
 
 Assolutamente - una settimana dopo la notifica originale, disattiveremo le campagne elencate (meno quelle che hanno qualificato almeno una persona o che sono state disattivate/riattivate) e invieremo una notifica di conferma.
 
-1. Seleziona la **[!UICONTROL Pianificazione pulizia campagna attivazione inattività]** notifica. Fai clic su **[!UICONTROL Queste campagne con trigger inattivi]** collegamento.
+1. Seleziona la notifica **[!UICONTROL Pianificata]** dell&#39;attivazione inattiva della pulizia della campagna. Fai clic sul collegamento **[!UICONTROL Queste campagne trigger inattive]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-4.png)
 

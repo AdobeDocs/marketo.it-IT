@@ -6,7 +6,7 @@ exl-id: 11f84157-55b7-42a7-81d0-f5848adbb9f4
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,13 @@ Sales Connect ti offre la possibilità di registrare automaticamente le risposte
 ## Requisiti {#requirements}
 
 * Deve registrare le e-mail tramite registrazione API
-* Deve essere in grado di [tracciare una risposta](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
+* Deve essere in grado di [tenere traccia di una risposta](/help/marketo/product-docs/marketo-sales-connect/email/common-tracking-questions/how-reply-tracking-works.md)
 * Deve essere collegato a Salesforce
-* Deve avere Salesforce [Chiamate API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) disponibile
+* Deve avere [chiamate API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) Salesforce disponibili
 
 ## Abilita registrazione risposte {#enable-reply-logging}
 
-1. Per abilitare la registrazione delle risposte puoi passare alla pagina delle impostazioni Salesforce. Una volta deselezionata la registrazione API, viene visualizzata l’opzione per verificare _Registra risposte_.
+1. Per abilitare la registrazione delle risposte puoi passare alla pagina delle impostazioni Salesforce. Una volta disattivata la registrazione API, verrà visualizzata l&#39;opzione per controllare _Registra risposte_.
 
    >[!NOTE]
    >
@@ -32,12 +32,12 @@ Sales Connect ti offre la possibilità di registrare automaticamente le risposte
 
 ## Impostazione del tipo di risposta in Salesforce {#setting-type-to-reply-in-salesforce}
 
-È importante ottenere dati significativi dai rapporti Salesforce. La possibilità di compilare il campo Tipo come &quot;Risposta&quot; consente di ottenere tali dati tramite i rapporti. Collaborate con il vostro `Salesforce admin` per ottenere questa configurazione.
+È importante ottenere dati significativi dai rapporti Salesforce. La possibilità di compilare il campo Tipo come &quot;Risposta&quot; consente di ottenere tali dati tramite i rapporti. Collabora con `Salesforce admin` per completare la configurazione.
 
 1. Vai a **Configurazione** > **Personalizza** > **Attività** > **Campi attività**.
-1. Clic **Tipo**.
-1. In Task Type Picklist Values, fai clic su **Nuovo**.
-1. Digita &quot;Reply&quot; (&quot;Risposta&quot;) nella casella vuota. Assicurarsi di scrivere la lettera &quot;R&quot; maiuscola e fare clic su **Salva**.
+1. Fare clic su **Tipo**.
+1. In Valori elenco a discesa Tipo di attività fare clic su **Nuovo**.
+1. Digita &quot;Reply&quot; (&quot;Risposta&quot;) nella casella vuota. Assicurati di scrivere la lettera &quot;R&quot; maiuscola e fai clic su **Salva**.
 
    >[!NOTE]
    >

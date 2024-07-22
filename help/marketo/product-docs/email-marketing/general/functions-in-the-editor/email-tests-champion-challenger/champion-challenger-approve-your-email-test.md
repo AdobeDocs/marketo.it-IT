@@ -17,7 +17,7 @@ Passaggio finale della configurazione del test e-mail per l’approvazione. Ecco
 
 >[!PREREQUISITES]
 >
->[Champion/Challenger: configurare gli avvisi dei rapporti](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+>[Campione/Sfidante: configurazione avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
 
 1. Vai a **Attività di marketing**.
 
@@ -29,15 +29,15 @@ Passaggio finale della configurazione del test e-mail per l’approvazione. Ecco
 
    >[!NOTE]
    >
-   >Quando si approva un **E-mail intera** test, approva prima l’e-mail sfidante.
+   >Quando si approva un test di **E-mail intera**, approvare prima l&#39;e-mail della sfida.
 
    >[!NOTE]
    >
-   >Per inviare il test, scegli l’e-mail a cui è stato aggiunto il test in **Invia e-mail** passaggio di flusso della campagna trigger. Puoi anche inserire l’e-mail nel flusso di un programma di coinvolgimento. Le e-mail Campione/Sfida non funzioneranno nelle campagne batch.
+   >Per inviare il test, scegli l&#39;e-mail a cui hai aggiunto il test nel passaggio di flusso **Invia e-mail** della campagna trigger. Puoi anche inserire l’e-mail nel flusso di un programma di coinvolgimento. Le e-mail Campione/Sfida non funzioneranno nelle campagne batch.
 
    Non è stato facile? Una volta ricevute alcune segnalazioni, vorrai dichiarare un campione.
 
    >[!MORELIKETHIS]
    >
-   >* [Campione/Sfida: Dichiara un Campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
-   >* [Campione/Challenger: elimina un test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)
+   >* [Campione/Sfidante: dichiarare un campione](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-declare-a-champion.md)
+   >* [Campione/Sfidante: ignora un test e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-discard-an-email-test.md)

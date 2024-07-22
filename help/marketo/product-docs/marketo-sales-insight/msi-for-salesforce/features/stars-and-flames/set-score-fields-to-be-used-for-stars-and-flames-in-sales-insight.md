@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,37 +17,37 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-Per impostazione predefinita, Marketo Sales Insight utilizza **Punteggio lead** per calcolare le stelle e le fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
+Per impostazione predefinita, Marketo Sales Insight utilizza il campo **Punteggio lead** per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
 >[!TIP]
 >
->Se non disponi già dei campi di punteggio personalizzati, ecco come [creare](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) loro.
+>Se non disponi già dei campi di punteggio personalizzati, ecco come [crearli](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
 >[!NOTE]
 >
 >**Definizione**
 >
->* **Stelle**: le stelle rappresentano il punteggio totale di lead rispetto ad altri lead.
->* **Fiamme**: le fiamme rappresentano l’urgenza - quanto il punteggio di un lead è cambiato di recente.
+>* **Stelle**: le stelle rappresentano il punteggio lead totale rispetto ad altri lead.
+>* **Fiamme**: le fiamme rappresentano l&#39;urgenza - quanto il punteggio di un lead è cambiato di recente.
 >
 
-1. Sotto **Amministratore**, fai clic su **Insight sulle vendite**.
+1. In **Amministratore**, fai clic su **Insight vendite**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. Sotto **Impostazioni punteggio lead**, fai clic su **Modifica**.
+1. In **Impostazioni punteggio lead**, fare clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Seleziona il campo da utilizzare per **Stelle**.
+1. Selezionare il campo da utilizzare per **Stelle**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Seleziona il campo da utilizzare per **Fiamme**.
+1. Selezionare il campo da utilizzare per **Fiamme**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
@@ -57,4 +57,4 @@ Per impostazione predefinita, Marketo Sales Insight utilizza **Punteggio lead** 
 
    >[!MORELIKETHIS]
    >
-   >[Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
+   >[Priorità, Urgenza, Punteggio relativo e Elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)

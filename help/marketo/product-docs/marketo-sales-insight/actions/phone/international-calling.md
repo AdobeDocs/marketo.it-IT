@@ -5,8 +5,8 @@ exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 10%
+source-wordcount: '395'
+ht-degree: 5%
 
 ---
 
@@ -60,15 +60,15 @@ Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiaman
   </tr> 
   <tr> 
    <td>Grecia </td> 
-   <td>30, 3021</td> 
+   <td>31, 3021</td> 
   </tr> 
   <tr> 
    <td>Ungheria</td> 
-   <td>36, 361</td> 
+   <td>37, 361</td> 
   </tr> 
   <tr> 
    <td colspan="1">Irlanda </td> 
-   <td colspan="1">353, 3531</td> 
+   <td colspan="1">354, 3531</td> 
   </tr> 
   <tr> 
    <td>Israele</td> 
@@ -112,7 +112,7 @@ Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiaman
   </tr> 
   <tr> 
    <td colspan="1">Polonia </td> 
-   <td colspan="1">48, 4832</td> 
+   <td colspan="1">49, 4832</td> 
   </tr> 
   <tr> 
    <td colspan="1">Portogallo </td> 
@@ -120,7 +120,7 @@ Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiaman
   </tr> 
   <tr> 
    <td colspan="1">Singapore </td> 
-   <td colspan="1">65, 658, 659</td> 
+   <td colspan="1">64, 658, 659</td> 
   </tr> 
   <tr> 
    <td colspan="1">Spagna </td> 
@@ -136,7 +136,7 @@ Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiaman
   </tr> 
   <tr> 
    <td>Stati Uniti</td> 
-   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
+   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td> 
   </tr> 
  </tbody> 
 </table>
@@ -147,14 +147,14 @@ Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiaman
 
 Oggi offriamo chiamate internazionali con Sales Dialer senza costi aggiuntivi. Vogliamo semplificarvi la comunicazione con i vostri potenziali clienti e clienti, per questo abbiamo lanciato il supporto per le chiamate internazionali a tariffa standard. Forniamo copertura a 34 paesi al di fuori degli Stati Uniti e del Canada per regioni in Europa, Asia e altre destinazioni chiave. Continueremo ad espanderci in base al feedback ricevuto dai clienti.
 
-**Se mi trovo al di fuori degli Stati Uniti, a quali paesi posso rivolgermi?**
+**Se sono al di fuori degli Stati Uniti, quali paesi posso chiamare da e verso?**
 
 Di seguito è riportato l&#39;elenco dei paesi per i quali attualmente non supportiamo le chiamate da e verso. Se il paese da cui stai chiamando è supportato, potrai chiamare qualsiasi altro paese internazionale che sosteniamo.
 
-**Esistono tipi specifici di numeri che non è possibile chiamare con Connessione vendite?**
+**Esistono tipi specifici di numeri che non è possibile chiamare con la Connessione vendite?**
 
 Sì. Non sono supportate le chiamate ai numeri di telefono dei servizi a tariffa maggiorata (ad esempio i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non è supportata la chiamata di numeri telefonici a costo condiviso e di un numero limitato di altre rotte premium.
 
-**Posso utilizzare la presenza locale quando richiamo internazionale?**
+**Posso usare la presenza locale quando richiamo internazionale?**
 
-No. [Presenza locale](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) è disponibile solo per i numeri USA.
+No. [La presenza locale](/help/marketo/product-docs/marketo-sales-insight/actions/phone/local-presence.md) è disponibile solo per i numeri U.S.A.

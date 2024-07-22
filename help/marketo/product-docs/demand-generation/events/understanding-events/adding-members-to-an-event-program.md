@@ -19,11 +19,11 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 >
 >L’importazione di un elenco di persone direttamente in un programma di eventi impedisce che tali record vengano conteggiati nelle registrazioni effettive nel rapporto Tracciamento obiettivo e nel rapporto Progressione limite evento. Segui le istruzioni riportate di seguito per assicurarti che i tuoi dati vengano conteggiati.
 
-1. Creare e [aggiungere persone a un elenco statico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
+1. Crea e [aggiungi persone a un elenco statico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/create-a-static-list.md).
 
-1. [Creare una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+1. [Crea una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Nell’elenco avanzato della campagna avanzata creata nel passaggio due, individua e aggiungi **Membro dell&#39;elenco** filtro.
+1. Nell&#39;elenco avanzato della campagna avanzata creata nel passaggio due, trovare e aggiungere il filtro **Membro dell&#39;elenco**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 
    ![](assets/four.png)
 
-1. Nel flusso, individua e aggiungi il **Modifica stato programma** passaggio di flusso.
+1. Nel flusso, individua e aggiungi il passaggio di flusso **Modifica stato programma**.
 
    ![](assets/five.png)
 
@@ -43,7 +43,7 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 
    ![](assets/seven.png)
 
-1. Nella scheda Pianificazione, fai clic su **Esegui una volta**.
+1. Nella scheda Pianificazione, fare clic su **Esegui una volta**.
 
    ![](assets/eight.png)
 

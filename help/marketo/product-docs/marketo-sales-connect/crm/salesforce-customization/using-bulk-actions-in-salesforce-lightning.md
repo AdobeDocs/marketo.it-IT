@@ -6,7 +6,7 @@ exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 >[!PREREQUISITES]
 >
->Aggiornare alla versione più recente del pacchetto Sales Connect e installare i pulsanti di azione collettiva nella vista lead/contatto. [Fare clic qui per istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
+>Aggiornare alla versione più recente del pacchetto Sales Connect e installare i pulsanti di azione collettiva nella vista lead/contatto. [Fare clic qui per le istruzioni](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf).
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 ## E-mail in blocco {#bulk-email}
 
-1. In Salesforce, fai clic su **Lead** , quindi scegli l’elenco dei lead desiderati.
+1. In Salesforce, fai clic sulla scheda **Lead**, quindi scegli l&#39;elenco dei lead desiderati.
 
    ![](assets/one-6.png)
 
@@ -33,13 +33,13 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
    >
    >Se sei già presente nell’elenco che utilizzerai, dovrai eseguirlo nuovamente scegliendolo dall’elenco a discesa per assicurarti che vengano visualizzati i pulsanti delle azioni in blocco MSC. Questo è un comportamento di Salesforce che non può essere modificato.
 
-1. Fai clic sul menu a discesa della freccia (all’estrema destra dello schermo) e seleziona **E-mail con MSC**.
+1. Fare clic sull&#39;elenco a discesa della freccia (all&#39;estrema destra dello schermo) e selezionare **E-mail con MSC**.
 
    ![](assets/two-6.png)
 
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
-   a. Il campo &quot;A&quot; mostra &quot;Tutte le ricezioni&quot;, che corrisponde all&#39;elenco di lead scelti nella vista Elenco lead\
+   a. Il campo &quot;A&quot; mostra &quot;Tutte le ricezioni&quot;: corrisponde all&#39;elenco dei lead scelti nella vista Elenco lead\
    b. Questo elenco è visibile nel pannello a sinistra denominato &quot;Composizione in blocco&quot;. Qui puoi aggiungere/rimuovere i destinatari\
    c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato\
    d. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
@@ -48,29 +48,29 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 ## Aggiungi a campagna {#add-to-campaign}
 
-1. In Salesforce, fai clic su **Lead** , quindi scegli l’elenco dei lead desiderati.
+1. In Salesforce, fai clic sulla scheda **Lead**, quindi scegli l&#39;elenco dei lead desiderati.
 
    ![](assets/four-4.png)
 
-1. Fai clic sul menu a discesa della freccia (all’estrema destra dello schermo) e seleziona **Aggiungi a campagna MSC**.
+1. Fai clic sull&#39;elenco a discesa della freccia (all&#39;estrema destra dello schermo) e seleziona **Aggiungi a campagna MSC**.
 
    ![](assets/five-4.png)
 
-1. Viene visualizzata la finestra a comparsa Aggiungi persone alla campagna. Clic **Successivo** e segui il flusso tipico delle campagne per attivare una campagna MSC.
+1. Viene visualizzata la finestra a comparsa Aggiungi persone alla campagna. Fai clic su **Avanti** e segui il flusso tipico della campagna per attivare una campagna MSC.
 
    ![](assets/six-1.png)
 
 ## Invia a Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. In Salesforce, fai clic su **Lead** , quindi scegli l’elenco dei lead desiderati.
+1. In Salesforce, fai clic sulla scheda **Lead**, quindi scegli l&#39;elenco dei lead desiderati.
 
    ![](assets/seven-2.png)
 
-1. Fai clic sul menu a discesa della freccia (all’estrema destra dello schermo) e seleziona **Invia a MSC**.
+1. Fare clic sull&#39;elenco a discesa della freccia (all&#39;estrema destra dello schermo) e selezionare **Push to MSC** (Invia a MSC).
 
    ![](assets/eight-2.png)
 
-1. Si aprirà una nuova scheda denominata &quot;Ponte Salesforce&quot;. Fai clic su **Procedi al → di gruppo** pulsante.
+1. Si aprirà una nuova scheda denominata &quot;Salesforce Bridge&quot;. Fare clic sul pulsante **Procedi al gruppo →**.
 
    ![](assets/nine-2.png)
 

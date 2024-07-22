@@ -20,11 +20,11 @@ Marketo consente di creare voci direttamente nel calendario di marketing utilizz
 * Programmi e-mail
 * Campagne avanzate
 
-1. Fai clic su **[!UICONTROL Calendario]** affiancare.
+1. Fare clic sul riquadro **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Seleziona una voce precedente e fai clic su **[!UICONTROL Mostra Focus Programma]**.
+1. Seleziona una voce precedente e fai clic su **[!UICONTROL Mostra attivazione programma]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 
@@ -38,7 +38,7 @@ Marketo consente di creare voci direttamente nel calendario di marketing utilizz
 
    >[!TIP]
    >
-   >Avviso puoi anche creare **Campagne avanzate**, **Programmi e-mail** e **Voci di base** nello stesso modo.
+   >Si noti che è anche possibile creare **Campagne avanzate**, **Programmi e-mail** e **Voci di base** nello stesso modo.
 
 1. Al termine della modifica, chiudi la modalità di attivazione del programma.
 
@@ -46,4 +46,4 @@ Marketo consente di creare voci direttamente nel calendario di marketing utilizz
 
 >[!MORELIKETHIS]
 >
->[Modificare le voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>[Modifica le voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}

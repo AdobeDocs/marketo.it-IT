@@ -40,7 +40,7 @@ Il Marketo Engage dispone di tre passaggi di flusso che puoi utilizzare nelle ca
 >* Deduplicazione Marketo per numero di telefono. Quindi, se più persone hanno lo stesso numero di telefono, solo una persona riceverà il messaggio se è membro di un solo elenco di abbonamenti Vibes. La deduplicazione viene eseguita a livello di elenco degli abbonamenti Vibes, non a livello di programma Marketo.
 >* Marketo inserire nell&#39;elenco Bloccati non invierà a persone che sono state o Sospese dal marketing.
 
-Per informazioni generali sull&#39;impostazione delle fasi del flusso, vedere [Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
+Per informazioni generali sulla configurazione dei passaggi di flusso, vedere [Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md).
 
 Di seguito sono riportate le nozioni di base sull’utilizzo degli SMS.
 
@@ -56,7 +56,7 @@ Di seguito sono riportate le nozioni di base sull’utilizzo degli SMS.
 
    SCHERMATA
 
-1. In **Flusso** , trascina sul passaggio del flusso (ad es. **Invia messaggio SMS**). Seleziona il Messaggio SMS e l’elenco Vibes dai menu a discesa.
+1. Nella scheda **Flusso**, trascina il passaggio del flusso (ad esempio, **Invia messaggio SMS**). Seleziona il Messaggio SMS e l’elenco Vibes dai menu a discesa.
 
    ![](assets/send-sms-message-hands.jpg)
 
@@ -64,4 +64,4 @@ Di seguito sono riportate le nozioni di base sull’utilizzo degli SMS.
    >
    >Il selettore Elenco vibrazioni funge da ulteriore filtro per il pubblico già identificato nell’elenco smart, in modo da eseguire il targeting solo dei lead che appartengono a tale elenco.
    >
-   >Il **Iscriviti all’elenco delle vibrazioni** e **Annulla iscrizione all’elenco delle vibrazioni** i flussi hanno requisiti diversi. Per **Abbonati**, è necessario selezionare l’elenco Vibes e la campagna di acquisizione Vibes. Per **Annulla iscrizione**, è necessario solo l’elenco Vibes.
+   >I flussi **Abbonati all&#39;elenco delle vibrazioni** e **Annulla abbonamento all&#39;elenco delle vibrazioni** hanno requisiti diversi. Per **Abbonati**, devi selezionare l&#39;elenco Vibes e la campagna di acquisizione Vibes. Per **Annulla sottoscrizione**, è necessario solo l&#39;elenco Vibes.

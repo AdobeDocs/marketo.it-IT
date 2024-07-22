@@ -17,12 +17,12 @@ ht-degree: 0%
 >
 >Questa funzione è disponibile solo:
 >
->* Da utilizzare solo con oggetti personalizzati di Marketo, non con oggetti personalizzati sincronizzati tramite il [!DNL Salesforce] o [!DNL Microsoft Dynamics] integrazione
+>* Da utilizzare solo con oggetti personalizzati di Marketo, non con oggetti personalizzati sincronizzati tramite l&#39;integrazione nativa di [!DNL Salesforce] o [!DNL Microsoft Dynamics]
 >* Come attivatore, non come filtro
 >
->Contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per attivare i trigger di modifica degli oggetti personalizzati.
+>Contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per richiedere l&#39;abilitazione dei trigger di modifica degli oggetti personalizzati.
 
-Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. È inoltre possibile creare un elenco avanzato che utilizza _modifica_ in un oggetto personalizzato come trigger. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
+Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. Puoi anche creare un elenco avanzato che utilizza come attivatore una _modifica_ in un oggetto personalizzato. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di fl
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Seleziona la [!UICONTROL attributo trigger].
+1. Seleziona l&#39;[!UICONTROL attributo trigger].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

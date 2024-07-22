@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile aggiungere elementi agli elenchi quando si aggiungono parole chiave, pagine, problemi di pagina o collegamenti in entrata. Gli elenchi consentono di rimanere organizzati e filtrare i rapporti in modo da visualizzare solo i dati dell’elenco. Ecco come farle.
 
-1. Clic **[!UICONTROL Aggiungi parole chiave]**.
+1. Fai clic su **[!UICONTROL Aggiungi parole chiave]**.
 
    >[!NOTE]
    >
@@ -31,6 +31,6 @@ ht-degree: 0%
    >
    >Puoi creare un nuovo elenco nel menu a discesa. Inserisci un titolo e premi il tasto Invio.
 
-1. Clic **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

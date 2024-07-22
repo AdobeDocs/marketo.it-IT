@@ -7,7 +7,7 @@ feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,19 +17,19 @@ Visualizza le prestazioni delle e-mail inviate tramite Salesforce, Microsoft Dyn
 
 ## Generare un rapporto {#generate-a-report}
 
-1. Clic **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/mainnav-analyticshand-small.png)
 
-1. Clic **Prestazioni e-mail approfondimento vendite**.
+1. Fare clic su **Prestazioni e-mail approfondimento vendite**.
 
    ![](assets/analytics-salesemailreporthand.png)
 
-1. Fai clic su **Configurazione** e scegliere i valori desiderati.
+1. Fare clic sulla scheda **Configurazione** e scegliere i valori desiderati.
 
    ![](assets/three.png)
 
-1. Fai clic su **Report** scheda.
+1. Fare clic sulla scheda **Report**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,19 +47,19 @@ Visualizza le prestazioni delle e-mail inviate tramite Salesforce, Microsoft Dyn
 
 È possibile visualizzare questo rapporto raggruppato per rappresentante commerciale modificando le impostazioni.
 
-1. Clic **Configurazione**. Doppio clic **E-mail**.
+1. Fare clic su **Configurazione**. Fare doppio clic su **E-mail**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
-1. Seleziona Raggruppa e-mail per **Agente di vendita**.
+1. Seleziona Raggruppa e-mail da **Agente di vendita**.
 
    ![](assets/image2014-12-9-12-3a16-3a42.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Fai clic su **Report** scheda.
+1. Fare clic sulla scheda **Report**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2360354
-description: "Aggiungi [!DNL Munchkin] Codice di tracciamento per il tuo sito web - Documentazione di Marketo - Documentazione del prodotto"
-title: "Aggiungi [!DNL Munchkin] Codice di tracciamento per il tuo sito web"
+description: "Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web - Documentazione di Marketo - Documentazione del prodotto"
+title: "Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web"
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
 source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
@@ -11,25 +11,25 @@ ht-degree: 0%
 
 ---
 
-# Aggiungi [!DNL Munchkin] Codice di tracciamento per il sito web {#add-munchkin-tracking-code-to-your-website}
+# Aggiungi il codice di tracciamento [!DNL Munchkin] al tuo sito Web {#add-munchkin-tracking-code-to-your-website}
 
-Codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Munchkin], tiene traccia di tutti i singoli utenti che visitano il tuo sito web in modo che tu possa reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati insieme ai loro indirizzi IP e altre informazioni. **Senza questo codice di tracciamento, non potrai tenere traccia di visite o altre attività sul tuo sito web**!
+Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Munchkin], tiene traccia di tutti gli utenti che visitano il tuo sito Web in modo che tu possa reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati insieme ai loro indirizzi IP e altre informazioni. **Senza questo codice di tracciamento, non potrai tenere traccia di visite o altre attività sul tuo sito Web**.
 
 >[!PREREQUISITES]
 >
->Assicurati di avere accesso a uno sviluppatore JavaScript esperto. Il supporto tecnico Marketo non è configurato per assistere nella risoluzione dei problemi di JavaScript personalizzato.
+>Assicurati di avere accesso a uno sviluppatore JavaScript esperto. Il supporto tecnico Marketo non è configurato per fornire assistenza nella risoluzione dei problemi relativi al JavaScript personalizzato.
 
 ## Aggiungi codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Gli utenti di Adobe Experience Cloud possono inoltre utilizzare [Integrazione di Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} da includere [!DNL Munchkin] nelle loro pagine web. Se utilizzi Adobe Launch, _il [!DNL Munchkin] lo script viene aggiunto automaticamente_, quindi non è necessario aggiungerlo manualmente.
+>Gli utenti di Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione di [Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} per includere lo script [!DNL Munchkin] nelle proprie pagine Web. Se si utilizza Adobe Launch, _lo script [!DNL Munchkin] viene aggiunto automaticamente_, pertanto non è necessario aggiungerlo personalmente.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
-1. Clic **[!UICONTROL Munchkin]**.
+1. Fare clic su **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
@@ -53,7 +53,7 @@ Codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Mu
    >
    >Inserisci il codice di tracciamento nelle pagine web che desideri tracciare. Può trattarsi di tutte le pagine per i siti più piccoli o solo di pagine chiave per i siti con molte pagine Web generate dinamicamente, forum utente e così via.
 
-   Per ottenere risultati ottimali, utilizzare la [!DNL Munchkin] e inseriscilo all&#39;interno del `<head>` elementi delle pagine. Se utilizzi il codice semplice (scelta non consigliata), questo viene visualizzato immediatamente prima del `</body>` tag.
+   Per ottenere risultati ottimali, utilizzare il codice [!DNL Munchkin] asincrono e inserirlo negli elementi `<head>` delle pagine. Se utilizzi il codice semplice (scelta non consigliata), si trova immediatamente prima del tag `</body>`.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
@@ -63,13 +63,13 @@ Codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Mu
 
 ## Aggiungi Codice Di Tracciamento Quando Si Utilizzano Più Aree Di Lavoro {#add-tracking-code-when-using-multiple-workspaces}
 
-Se utilizzi le aree di lavoro nell’account Marketo, probabilmente avrai anche presentazioni web separate che corrispondono alle aree di lavoro. In tal caso, puoi utilizzare [!DNL Munchkin] tracciamento di JavaScript per assegnare persone anonime all&#39;area di lavoro e alla partizione corrette.
+Se utilizzi le aree di lavoro nell’account Marketo, probabilmente avrai anche presentazioni web separate che corrispondono alle aree di lavoro. In tal caso, è possibile utilizzare JavaScript di monitoraggio [!DNL Munchkin] per assegnare le persone anonime all&#39;area di lavoro e alla partizione corrette.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
-1. Clic **[!UICONTROL Munchkin]**.
+1. Fare clic su **[!UICONTROL Munchkin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
@@ -79,7 +79,7 @@ Se utilizzi le aree di lavoro nell’account Marketo, probabilmente avrai anche 
 
    >[!NOTE]
    >
-   >Se non utilizzi l’area di lavoro speciale [!DNL Munchkin] , gli utenti verranno assegnati alla partizione predefinita creata al momento della configurazione dell&#39;account. Si chiama &quot;.[!UICONTROL Predefinito]&quot; inizialmente, ma potresti averlo modificato nel tuo account Marketo.
+   >Se non si utilizza il codice speciale dell&#39;area di lavoro [!DNL Munchkin], le persone verranno assegnate alla partizione predefinita creata al momento della configurazione dell&#39;account. Inizialmente si chiama &quot;[!UICONTROL Default]&quot;, ma potresti averlo modificato nel tuo account Marketo.
 
 1. Seleziona **[!UICONTROL Asincrono]** per **[!UICONTROL Tipo di codice di tracciamento]**.
 
@@ -93,49 +93,49 @@ Se utilizzi le aree di lavoro nell’account Marketo, probabilmente avrai anche 
    >
    >Non utilizzare il codice mostrato in questa schermata: devi utilizzare il codice univoco visualizzato nel tuo account!
 
-1. Inserisci il codice di tracciamento nelle pagine web di `<head>` elemento. Le nuove persone che visitano questa pagina verranno assegnate a questa partizione.
+1. Inserire il codice di tracciamento nelle pagine Web nell&#39;elemento `<head>`. Le nuove persone che visitano questa pagina verranno assegnate a questa partizione.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-11.png)
 
    >[!CAUTION]
    >
-   >Puoi utilizzarne solo uno [!DNL Munchkin] script di tracciamento per una singola partizione e area di lavoro in una pagina. Non includere script di tracciamento per più partizioni/aree di lavoro nel sito Web.
+   >È possibile utilizzare un solo script di tracciamento [!DNL Munchkin] per una singola partizione e area di lavoro in una pagina. Non includere script di tracciamento per più partizioni/aree di lavoro nel sito Web.
 
    >[!NOTE]
    >
    >Le pagine di destinazione create in Marketo contengono automaticamente un codice di tracciamento, pertanto non è necessario inserirlo.
 
-## Tipi di [!DNL Munchkin] Codici di tracciamento {#types-of-munchkin-tracking-codes}
+## Tipi di codici di tracciamento [!DNL Munchkin] {#types-of-munchkin-tracking-codes}
 
-Esistono tre tipi di [!DNL Munchkin] codici di tracciamento selezionabili. Ciascuno influisce sui tempi di caricamento della pagina web in modo diverso.
+È possibile scegliere tra tre tipi di codici di tracciamento [!DNL Munchkin]. Ciascuno influisce sui tempi di caricamento della pagina web in modo diverso.
 
-1. **[!UICONTROL Semplice]**: ha il minor numero di righe di codice, ma non ottimizza il tempo di caricamento della pagina web. Questo codice carica la libreria jQuery ogni volta che viene caricata una pagina Web.
-1. **[!UICONTROL Asincrono]**: riduce il tempo di caricamento della pagina web.
-1. **[!UICONTROL jQuery asincrona]**: riduce il tempo di caricamento delle pagine web e migliora le prestazioni del sistema. Questo codice presuppone che tu disponga già di jQuery e non controlla di caricarlo.
+1. **[!UICONTROL Semplice]**: ha il minor numero di righe di codice, ma non ottimizza il tempo di caricamento della pagina Web. Questo codice carica la libreria jQuery ogni volta che viene caricata una pagina Web.
+1. **[!UICONTROL Asincrono]**: riduce il tempo di caricamento della pagina Web.
+1. **[!UICONTROL jQuery asincrona]**: riduce il tempo di caricamento della pagina Web e migliora le prestazioni del sistema. Questo codice presuppone che tu disponga già di jQuery e non controlla di caricarlo.
 
-## Verifica se [!DNL Munchkin] Il codice funziona {#test-if-your-munchkin-code-is-working}
+## Verifica se il codice [!DNL Munchkin] funziona {#test-if-your-munchkin-code-is-working}
 
-Per verificare che [!DNL Munchkin] il codice funziona dopo averlo aggiunto:
+Per verificare che il codice [!DNL Munchkin] funzioni dopo averlo aggiunto:
 
 1. Visita la tua pagina web.
 
-1. Nel tuo [!DNL My Marketo], fare clic su **[!UICONTROL Analytics]** affiancare.
+1. In [!DNL My Marketo], fai clic sul riquadro **[!UICONTROL Analytics]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-12.png)
 
-1. Clic **[!UICONTROL Attività pagina web]**.
+1. Fare clic su **[!UICONTROL Attività pagina Web]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-13.png)
 
-1. Fai clic su **[!UICONTROL Configurazione]** , fare doppio clic **[!UICONTROL Origine attività]**.
+1. Fare clic sulla scheda **[!UICONTROL Configurazione]**, quindi fare doppio clic su **[!UICONTROL Source attività]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-14.png)
 
-1. Modificare il [!UICONTROL Origine attività] a **[!UICONTROL Visitatori anonimi (inclusi ISP)]** e fai clic su **[!UICONTROL Applica]**.
+1. Cambia l&#39;[!UICONTROL attività Source] in **[!UICONTROL Visitatori anonimi (inclusi gli ISP)]** e fai clic su **[!UICONTROL Applica]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Fai clic su **[!UICONTROL Report]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

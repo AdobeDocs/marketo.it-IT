@@ -19,13 +19,13 @@ Personalizza i post quando gli utenti ti condividono su Facebook.
 >
 >Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-Marketo [app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) consenti ai lead di condividere le pagine di destinazione con le loro connessioni su social network come Facebook, Twitter, ecc. I tag di facebook OpenGraph (tag OG) consentono di specificare quali informazioni della pagina di destinazione vengono incluse nei post di Facebook.
+Le [app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-social-button-on-a-landing-page.md) di Marketo consentono ai lead di condividere le pagine di destinazione con le relative connessioni su social network quali Facebook, Twitter, ecc. I tag di facebook OpenGraph (tag OG) consentono di specificare quali informazioni della pagina di destinazione vengono incluse nei post di Facebook.
 
 ## Seleziona opzioni post formattato {#select-rich-post-options}
 
 Puoi specificare i tipi di informazioni di pagina da utilizzare nei post avanzati di Facebook generati dalle condivisioni dalla pagina di destinazione.
 
-1. Seleziona **Messaggio facebook** nell’editor per il tuo **YouTube** pulsante video o social.
+1. Seleziona **Messaggio Facebook** nell&#39;editor per il tuo video o pulsante social **YouTube**.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 
@@ -35,7 +35,7 @@ Puoi specificare i tipi di informazioni di pagina da utilizzare nei post avanzat
 
    ![](assets/image2014-9-22-16-3a48-3a0.png)
 
-   * Aggiungi contenuto dinamico: la tua app social può utilizzare i `<TITLE>`, `<CAPTION>`, e `<DESCRIPTION>` per compilare il post RTF.
+   * Aggiungi contenuto dinamico: l&#39;app social può utilizzare i tag `<TITLE>`, `<CAPTION>` e `<DESCRIPTION>` della pagina di destinazione per compilare il post RTF.
 
    ![](assets/image2014-9-22-16-3a48-3a9.png)
 
@@ -51,13 +51,13 @@ Puoi specificare i tipi di informazioni di pagina da utilizzare nei post avanzat
 
 Per controllare gli elementi della pagina che verranno inclusi nelle condivisioni Facebook dalla pagina di destinazione, puoi aggiungere alla pagina di destinazione i tag Facebook OG (Open Graph) per titolo, didascalia e descrizione.
 
-1. Apri la pagina di destinazione contenente il **Video su YouTube** o pulsante social.
+1. Apri la pagina di destinazione contenente il tuo **video YouTube** o pulsante per social network.
 
    ![](assets/image2014-9-22-16-3a51-3a28.png)
 
-   Il **Progettazione pagina di destinazione** si apre in una nuova finestra.
+   La **Pagina di destinazione Designer** si apre in una nuova finestra.
 
-1. Seleziona **Azioni pagina di destinazione** > **Modifica metatag pagina**.
+1. Seleziona **Azioni pagina di destinazione** > **Modifica metadati pagina**.
 
    ![](assets/image2014-9-22-16-3a51-3a36.png)
 

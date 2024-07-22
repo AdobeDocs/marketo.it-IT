@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Anteprima di una notifica push {#preview-a-push-notification}
 
-È facile visualizzare in anteprima come si presenterà la notifica push, sia per Android che per iOS. Ci sono quattro modi per farlo.
+È facile visualizzare in anteprima come si presenterà la notifica push, per Android o iOS. Ci sono quattro modi per farlo.
 
-Nella struttura di spostamento fare clic con il pulsante destro del mouse sul file della notifica che si desidera visualizzare in anteprima e quindi scegliere **Anteprima**.
+Nella struttura di spostamento fare clic con il pulsante destro del mouse sul file della notifica che si desidera visualizzare in anteprima e scegliere **Anteprima**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Nella struttura di spostamento fare clic con il pulsante destro del mouse sul fi
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-In alternativa, nella pagina di visualizzazione Notifica push, fai clic su **Azioni notifiche push** e poi **Anteprima**. Oppure fai clic su **Anteprima** all&#39;estrema destra.
+In alternativa, nella pagina di visualizzazione delle notifiche push, fare clic su **Azioni notifiche push** e quindi su **Anteprima**. Oppure fai clic su **Anteprima** all&#39;estrema destra.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Infine, nell’editor, puoi fare clic sul pulsante **Anteprima bozza** in alto a destra mentre stai lavorando sulla notifica.
+Infine, nell&#39;editor, puoi fare clic sulla scheda **Anteprima bozza** in alto a destra mentre stai lavorando sulla notifica.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 
@@ -68,4 +68,4 @@ Con l’anteprima delle notifiche push, sai sempre cosa vedranno i tuoi clienti!
 >[!MORELIKETHIS]
 >
 >* [Creare una notifica push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
->* [Configurare le notifiche push per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)
+>* [Configura notifica push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md)

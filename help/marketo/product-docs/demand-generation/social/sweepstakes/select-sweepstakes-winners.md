@@ -5,14 +5,14 @@ title: Selezionate i vincitori delle puntate
 exl-id: 4f6d0b39-86c6-468f-97ad-d65ef3f13b9c
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
 
 # Selezionate i vincitori delle puntate {#select-sweepstakes-winners}
 
-Quando [pubblicare un&#39;analisi approfondita](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), è necessario selezionare i vincitori per ogni disegno. Quando lo fai, il tuo [e-mail di adempimento](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) viene inviato automaticamente.
+Quando [pubblichi una puntata](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), devi selezionare i vincitori per ogni disegno. Al termine dell&#39;operazione, l&#39;[e-mail di evasione](/help/marketo/product-docs/demand-generation/social/social-functions/use-emails-in-social-promotions.md) viene inviata automaticamente.
 
 >[!AVAILABILITY]
 >
@@ -26,23 +26,23 @@ Quando [pubblicare un&#39;analisi approfondita](/help/marketo/product-docs/deman
 
    ![](assets/image2014-9-25-17-3a47-3a37.png)
 
-1. Clic **Scegli i vincitori**.
+1. Fare clic su **Scegli vincitori**.
 
    ![](assets/image2014-9-25-17-3a47-3a49.png)
 
    >[!TIP]
    >
-   >Per visualizzare un elenco di persone che si sono iscritte al tuo concorso, fai clic su **Partecipanti** scheda.
+   >Per visualizzare un elenco di persone che si sono iscritte al tuo concorso, fai clic sulla scheda **Partecipanti**.
 
-1. Scegli il numero di vincitori, seleziona **Sono pronto a scegliere** e fai clic su **Successivo**.
+1. Scegli il numero di vincitori, seleziona **Sono pronto per scegliere**, quindi fai clic su **Avanti**.
 
    ![](assets/image2014-9-25-17-3a49-3a2.png)
 
    >[!NOTE]
    >
-   >Se si sceglie 0 vincitori per un determinato disegno, tali informazioni non vengono visualizzate nel **Vincitori** scheda.
+   >Se si sceglie 0 vincitori per un disegno specifico, tali informazioni non verranno visualizzate nella scheda **Vincitori**.
 
-1. Clic **Finalizza** per inviare [e-mail di adempimento](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) ai vincitori elencati.
+1. Fai clic su **Finalize** per inviare l&#39;e-mail di [evasione](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md) ai vincitori elencati.
 
    ![](assets/image2014-9-25-17-3a49-3a48.png)
 

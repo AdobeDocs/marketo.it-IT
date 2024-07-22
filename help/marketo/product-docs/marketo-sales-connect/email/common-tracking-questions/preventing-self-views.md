@@ -33,11 +33,11 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
    ![](assets/win-1.png)
 
-1. Clic **Opzioni**.
+1. Fare clic su **Opzioni**.
 
    ![](assets/win-2.png)
 
-1. Nella finestra di dialogo Opzioni di Outlook fare clic su **Centro affidabilità**.
+1. Nella finestra di dialogo Opzioni di Outlook fare clic su **Centro protezione**.
 
    ![](assets/win-3.png)
 
@@ -45,15 +45,15 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
    ![](assets/win-4.png)
 
-1. Fai clic su Download automatico nel menu a sinistra, quindi seleziona la **Non scaricare automaticamente le immagini nelle e-mail o negli elementi RSS di HTML** casella di controllo.
+1. Fare clic su Download automatico nel menu a sinistra e selezionare la casella di controllo **Non scaricare automaticamente le immagini nell&#39;e-mail HTML o negli elementi RSS**.
 
    ![](assets/win-5.png)
 
-1. Clic **OK** nella finestra di dialogo Centro protezione.
+1. Fare clic su **OK** nella finestra di dialogo Centro protezione.
 
    ![](assets/win-6.png)
 
-1. Clic **OK** nella finestra di dialogo Opzioni di Outlook.
+1. Fare clic su **OK** nella finestra di dialogo Opzioni di Outlook.
 
    ![](assets/win-6.png)
 
@@ -61,7 +61,7 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
 Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine invisibile nel client e-mail. È possibile ridurre in modo significativo la quantità di visualizzazioni automatiche in Outlook disabilitando il download automatico delle immagini. Di seguito sono riportati i passaggi come.
 
-1. In Outlook, fare clic su **Outlook** nella barra dei menu e seleziona **Preferenze**.
+1. In Outlook, fare clic su **Outlook** nella barra dei menu e selezionare **Preferenze**.
 
    ![](assets/mac-1.png)
 
@@ -69,6 +69,6 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
    ![](assets/mac-2.png)
 
-1. In Protezione, fai clic su **Mai** pulsante di opzione.
+1. In Protezione fare clic sul pulsante di opzione **Mai**.
 
    ![](assets/mac-3.png)

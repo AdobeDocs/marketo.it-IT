@@ -6,7 +6,7 @@ exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Cosa succede quando qualcuno compila un modulo? A chi vengono inoltrati? Ecco co
 
    ![](assets/image2014-9-15-17-3a34-3a14.png)
 
-1. Sotto **Impostazioni modulo** click **Impostazioni**.
+1. In **Impostazioni modulo** fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-17-3a34-3a21.png)
 
-1. Scorri verso il basso fino a **Pagina di ringraziamento** sezione.
+1. Scorri verso il basso fino alla sezione **Pagina di ringraziamento**.
 
 ## Rimani sulla pagina {#stay-on-page}
 
 L’opzione Resta sulla pagina manterrà il visitatore sulla stessa pagina quando il modulo è stato inviato.
 
-1. Seleziona **Rimani sulla pagina** per **Completa con**.
+1. Seleziona **Resta a pagina** per **Completa con**.
 
    ![](assets/image2014-9-15-17-3a34-3a35.png)
 
@@ -59,7 +59,7 @@ L’impostazione External URL (URL esterno) consente di definire qualsiasi URL c
 
 Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 
-1. Imposta **Completa con** a **Pagina di destinazione**.
+1. Imposta **Completa con** su **Pagina di destinazione**.
 
    ![](assets/image2014-9-15-17-3a37-3a52.png)
 
@@ -71,7 +71,7 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 
 È possibile aggiungere più opzioni e creare scelte per mostrare alle persone follow-up diversi a seconda delle loro risposte.
 
-1. Clic **Aggiungi scelta**.
+1. Fare clic su **Aggiungi scelta**.
 
    ![](assets/image2014-9-15-17-3a38-3a6.png)
 
@@ -91,7 +91,7 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 
    ![](assets/image2014-9-15-17-3a38-3a40.png)
 
-1. Scegli la pagina appropriata per **Completa con** tipo.
+1. Scegliere la pagina appropriata per il tipo **Completa con**.
 
    ![](assets/image2014-9-15-17-3a38-3a51.png)
 
@@ -103,7 +103,7 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
    >
    >Devi aver creato/approvato queste pagine di destinazione in anticipo.
 
-1. Fai clic su **+** accedi per aggiungere un&#39;altra scelta.
+1. Fai clic sul segno **+** per aggiungere un&#39;altra scelta.
 
    ![](assets/image2014-9-15-17-3a39-3a25.png)
 
@@ -123,7 +123,7 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 
    ![](assets/image2014-9-15-17-3a40-3a10.png)
 
-1. Seleziona la pagina stessa e fai clic su **Salva**.
+1. Selezionare la pagina e fare clic su **Salva**.
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
@@ -131,11 +131,11 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-17-3a40-3a42.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
 

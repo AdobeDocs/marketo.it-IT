@@ -15,26 +15,26 @@ ht-degree: 0%
 
 Qualsiasi rapporto in **I miei rapporti **è visibile solo a te. Cosa succede se vuoi rendere il rapporto accessibile a tutti gli altri? Ecco come farlo:
 
-1. In **Analytics** , fare clic sulla [rapporto salvato](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md).
+1. Nell&#39;area **Analytics**, fare clic sul [report salvato](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) desiderato.
 
    ![](assets/image2015-4-21-11-3a25-3a54.png)
 
    >[!NOTE]
    >
-   >In alternativa, è possibile clonare un rapporto salvato in **Rapporti sui gruppi** trascinando il rapporto nella cartella.
+   >In alternativa, è possibile clonare un report salvato in **Report di gruppo** trascinandolo nella cartella.
 
-1. Clic **Azioni report** e seleziona **Clona report**.
+1. Fai clic su **Azioni report** e seleziona **Clona report**.
 
    ![](assets/image2015-4-21-11-3a29-3a32.png)
 
-1. Fai clic su **Clona in** e selezionare il gruppo. Seleziona la **Cartella**.
+1. Fai clic sul menu a discesa **Clona in** e seleziona il gruppo. Seleziona la **cartella**.
 
    ![](assets/image2015-4-21-11-3a32-3a0.png)
 
-1. **Nome** il rapporto e fai clic su **Clona**.
+1. **Denomina** il report e fai clic su **Clona**.
 
    ![](assets/image2015-4-21-11-3a33-3a11.png)
 
-   Fantastico! Il report verrà ora visualizzato in **Rapporti sui gruppi**.
+   Fantastico! Il report verrà ora visualizzato in **Report di gruppo**.
 
    ![](assets/image2015-4-21-11-3a37-3a25.png)

@@ -31,7 +31,7 @@ Marketo Lead Management verrà aggiornato con un nuovo look and feel, moderno ed
 
 ## Operatori data {#date-operators}
 
-[Filtri avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) per &quot;nel passato prima&quot;, &quot;nel futuro&quot; e &quot;nel futuro dopo&quot;. Ad esempio, trova i lead con una data di nascita nei successivi 3 mesi o un contratto che scade dopo 6 mesi.
+[Filtri avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) per &quot;prima&quot;, &quot;in futuro&quot; e &quot;dopo&quot;. Ad esempio, trova i lead con una data di nascita nei successivi 3 mesi o un contratto che scade dopo 6 mesi.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -47,7 +47,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Elencare operazioni nell’API ReST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api) per la documentazione completa.
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -56,7 +56,7 @@ Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST
 
 ## Importazione elenchi rapidi {#fast-list-import}
 
-Oltre **50 volte più veloce**, i file verranno ingranditi in Marketo. Le precedenti opzioni di importazione &quot;Normale&quot; e &quot;Ottimizzato per nuovi lead&quot; sono state sostituite da &quot;Predefinito (Importazione rapida)&quot;.
+Più di **50x più veloce**, i tuoi file si ingrandiranno in Marketo! Le precedenti opzioni di importazione &quot;Normale&quot; e &quot;Ottimizzato per nuovi lead&quot; sono state sostituite da &quot;Predefinito (Importazione rapida)&quot;.
 
 L’opzione &quot;Ignora nuovi lead e aggiornamenti&quot; rimane invariata.
 
@@ -65,20 +65,20 @@ L’opzione &quot;Ignora nuovi lead e aggiornamenti&quot; rimane invariata.
 Il rollout sarà messo in scena a partire da metà luglio e continuerà per diversi mesi.
 
 * Rimuove la dipendenza jQuery per compatibilità completa e futura
-* Più compatibile con altri JavaScript sul sito
+* Più compatibile con altri JavaScript sul tuo sito
 * Completamente testato su molti siti nel corso dell&#39;ultimo anno!
 
-## RTP: modelli di campagne per la personalizzazione in tempo reale {#rtp-real-time-personalization-campaign-templates}
+## RTP: modelli di campagne Personalization in tempo reale {#rtp-real-time-personalization-campaign-templates}
 
-Pagina Imposta campagna RTP [include modelli già pronti](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Scegli tra una varietà di stili tra cui webinar, case study, ebook.
+La pagina Imposta campagna RTP ora [include modelli già pronti](/help/marketo/product-docs/web-personalization/using-templates/using-templates-to-create-web-campaigns.md). Scegli tra una varietà di stili tra cui webinar, case study, ebook.
 
 ![](assets/image2014-9-22-14-3a25-3a13.png)
 
 ![](assets/image2014-9-22-14-3a25-3a47.png)
 
-## RTP: miglioramenti API JavaScript {#rtp-javascript-api-enhancements}
+## RTP: miglioramenti API di JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Visualizza la [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per la documentazione completa.
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

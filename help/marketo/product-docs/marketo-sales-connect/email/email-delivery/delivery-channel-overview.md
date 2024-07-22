@@ -6,7 +6,7 @@ exl-id: 432bad1e-4eaf-4be8-b856-be364c44816e
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '582'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Marketo Sales Connect offre diverse opzioni per la consegna delle e-mail. Questo
 
 ## Consigliato: Gmail o Exchange tramite connessione e-mail {#recommended-gmail-or-exchange-via-email-connection}
 
-Sales Connect consente una configurazione semplificata e la consegna avanzata tramite il servizio Email Connection. La connessione e-mail consente a ogni utente di connettersi al proprio [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) account per Sales Connect da utilizzare come canale di consegna per tutte le e-mail di Sales Connect.
+Sales Connect consente una configurazione semplificata e la consegna avanzata tramite il servizio Email Connection. La connessione e-mail consente a ogni utente di connettersi al proprio account [Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md) o [Exchange](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md) a Sales Connect per essere utilizzato come canale di consegna preferito per tutte le e-mail di Sales Connect.
 
 L’utilizzo di Gmail o Exchange offre alcuni vantaggi rispetto ad altre opzioni di canale di consegna:
 
@@ -25,13 +25,13 @@ L’utilizzo di Gmail o Exchange offre alcuni vantaggi rispetto ad altre opzioni
 * I metodi di autenticazione come SPF e DKIM sono già configurati e gestiti dal team IT, pertanto non vi sono configurazioni aggiuntive.
 * L’invio di e-mail all’interno di una determinata rete e-mail (ovvero, l’invio di un’e-mail come utente di Exchange a una società che riceve e-mail tramite Exchange) può contribuire ad aumentare ulteriormente il recapito dei messaggi.
 
-È importante notare che questi canali di consegna hanno i propri limiti di invio che vengono applicati da Microsoft e Google. Per combattere questo problema, utilizziamo un meccanismo di limitazione per aiutare gli utenti a rimanere entro tali limiti. Ulteriori informazioni su [limitazione posta elettronica qui](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
+È importante notare che questi canali di consegna hanno i propri limiti di invio che vengono applicati da Microsoft e Google. Per combattere questo problema, utilizziamo un meccanismo di limitazione per aiutare gli utenti a rimanere entro tali limiti. Ulteriori informazioni sulla limitazione di [posta elettronica](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md).
 
 >[!NOTE]
 >
 >Per impostazione predefinita, il plug-in O365 utilizzerà sempre il tuo canale di consegna Exchange e il plug-in Gmail utilizzerà sempre il tuo canale di consegna Gmail per inviare e-mail dai plug-in.
 
-**Tracciamento mancato recapito**: MSC può rilevare i messaggi non recapitati per gli utenti di Exchange Online o Gmail rilevando il messaggio non recapitati inviato alla casella in entrata del mittente. Queste notifiche di mancato recapito verranno aggregate in Template Analytics, Campaign Analytics e Live Feed per gli utenti. Il tracciamento delle e-mail non consegnate non è supportato per i clienti Exchange On-Prem.
+**Tracciamento dei messaggi non recapitati**: MSC può rilevare i messaggi non recapitati per gli utenti di Exchange Online o Gmail rilevando il messaggio non recapitati inviato alla casella in entrata del mittente. Queste notifiche di mancato recapito verranno aggregate in Template Analytics, Campaign Analytics e Live Feed per gli utenti. Il tracciamento delle e-mail non consegnate non è supportato per i clienti Exchange On-Prem.
 
 ## Canale di consegna personalizzato tramite SMTP {#custom-delivery-channel-via-smtp}
 

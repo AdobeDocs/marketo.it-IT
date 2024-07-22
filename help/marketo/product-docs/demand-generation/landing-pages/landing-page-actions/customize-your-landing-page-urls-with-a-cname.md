@@ -33,11 +33,11 @@ L’unica parola (più YourCompany.com) è denominata CNAME. Ne avrai bisogno pi
 
 ## Ricerca dell&#39;ID Munchkin {#find-your-munchkin-id}
 
-1. Vai a **Amministratore** area.
+1. Vai all&#39;area **Amministratore**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-1.png)
 
-1. Clic **Il mio account**.
+1. Fai clic su **Il mio account**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-2.png)
 
@@ -51,25 +51,25 @@ L’unica parola (più YourCompany.com) è denominata CNAME. Ne avrai bisogno pi
 
 ## Invia richiesta al reparto IT {#send-request-to-it}
 
-Chiedi al tuo personale IT di configurare il seguente CNAME: (Sostituisci la parola [CNAME] e [ID Munchkin] con il testo del passaggio precedente.)
+Chiedi al tuo personale IT di configurare il seguente CNAME: (sostituisci la parola [CNAME] e [ID Munchkin] con il testo del passaggio precedente).
 
 [CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
 
 ## Completare l’impostazione di CNAME {#complete-cname-setup}
 
-1. Una volta creato il CNAME da parte del reparto IT, vai al **Amministratore** area.
+1. Una volta creato il CNAME da parte del reparto IT, vai all&#39;area **Amministratore**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-4.png)
 
-1. Clic **Pagine di destinazione**.
+1. Fai clic su **Pagine di destinazione**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-5.png)
 
-1. Sotto **Impostazioni** , fare clic su **Modifica**.
+1. Nella sezione **Impostazioni**, fai clic su **Modifica**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Immetti il CNAME in **Nome di dominio per le pagine di destinazione**, immetti il **Pagina di fallback**, immetti il **Homepage** e fai clic su **Salva**.
+1. Immetti il CNAME in **Nome dominio per le pagine di destinazione**, immetti la **Pagina di fallback**, immetti la **Home page** e fai clic su **Salva**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

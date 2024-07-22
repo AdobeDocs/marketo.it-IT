@@ -25,11 +25,11 @@ Puoi distribuire app di social network sul tuo sito web per coinvolgere il tuo p
 
    ![](assets/image2015-5-12-11-3a43-3a24.png)
 
-1. Seleziona **Codice di incorporamento** dalle azioni eseguite nell’app social.
+1. Seleziona **Codice da incorporare** dalle azioni delle app social.
 
    ![](assets/image2015-5-12-12-3a59-3a46.png)
 
-1. Copia il codice per l’intestazione della pagina del sito (`<head>`) e corpo (`<body>`).
+1. Copiare il codice per l&#39;intestazione (`<head>`) e il corpo della pagina del sito (`<body>`).
 
    ![](assets/image2015-5-12-13-3a3-3a34.png)
 
@@ -41,7 +41,7 @@ Puoi distribuire app di social network sul tuo sito web per coinvolgere il tuo p
 
    ![](assets/socialonsite-embedwidget.png)
 
-1. Se devi impostare le dimensioni dell&#39;app social su dimensioni specifiche nella pagina, aggiungi **outerHeight** e **outerWidth** al secondo frammento di codice. Ad esempio, puoi aggiungere `options='{"outerHeight":400, "outerWidth":600}'`, come in:
+1. Se devi impostare la dimensione dell&#39;app social su dimensioni specifiche nella pagina, aggiungi le opzioni **outerHeight** e **outerWidth** al secondo snippet di codice. Ad esempio, puoi aggiungere `options='{"outerHeight":400, "outerWidth":600}'`, come in:
 
    ![](assets/socialonsite-resizewidget2.png)
 
@@ -50,5 +50,5 @@ Puoi distribuire app di social network sul tuo sito web per coinvolgere il tuo p
    >[!MORELIKETHIS]
    >
    >* [Pulsante Personalizza app social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md)
-   >* [Imposta requisito condivisione social network](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
-   >* [Pubblicare pagine di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)
+   >* [Imposta requisito condivisione social](/help/marketo/product-docs/demand-generation/social/social-functions/set-social-share-requirement.md)
+   >* [Pagine di destinazione Publish per Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md)

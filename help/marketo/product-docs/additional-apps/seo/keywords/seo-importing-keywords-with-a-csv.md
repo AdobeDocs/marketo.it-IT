@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # SEO - Importazione di parole chiave con un file CSV {#seo-importing-keywords-with-a-csv}
 
-1. È possibile [aggiungi parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [ottieni suggerimenti parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e persino importare parole chiave da un file CSV. Ecco come eseguire l’importazione.
+1. Puoi [aggiungere parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md) manualmente, [ottenere suggerimenti per parole chiave](/help/marketo/product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md) e persino importare parole chiave da un file CSV. Ecco come eseguire l’importazione.
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-11-3a44-3a25.png)
 
-1. Clic **[!UICONTROL Importa]**.
+1. Fai clic su **[!UICONTROL Importa]**.
 
    ![](assets/image2014-9-18-11-3a44-3a36.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-11-3a44-3a42.png)
 
-1. Clic **[!UICONTROL Scegli file]**.
+1. Fare clic su **[!UICONTROL Scegli file]**.
 
    ![](assets/image2014-9-18-11-3a44-3a46.png)
 
@@ -35,7 +35,7 @@ ht-degree: 0%
    >
    >I limiti di importazione variano a seconda dell’abbonamento. Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
 
-1. Clic **[!UICONTROL Importa]**.
+1. Fai clic su **[!UICONTROL Importa]**.
 
    ![](assets/image2014-9-18-11-3a45-3a25.png)
 
@@ -49,5 +49,5 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >* [Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-   >* [Aggiungere/rimuovere parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
+   >* [Informazioni sulle parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >* [Aggiungi/Rimuovi parole chiave da un elenco](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)

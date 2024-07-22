@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ Sapevi che è possibile aggiungere note ai problemi della pagina come promemoria
 
 ## Aggiunta di note nella sezione Problemi della pagina {#adding-notes-in-page-issues-section}
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-13-3a11-3a43.png)
 
-1. Nella scheda delle pagine, fai clic su **[!UICONTROL Problemi]**.
+1. Nella scheda Pagine, fai clic su **[!UICONTROL Problemi]**.
 
    ![](assets/image2014-9-18-13-3a12-3a0.png)
 
-1. Passa il puntatore del mouse sul problema a cui desideri aggiungere una nota. Clic **[!UICONTROL Aggiungi nota]**.
+1. Passa il puntatore del mouse sul problema a cui desideri aggiungere una nota. Fai clic su **[!UICONTROL Aggiungi nota]**.
 
    ![](assets/image2014-9-18-13-3a12-3a6.png)
 
@@ -35,11 +35,11 @@ Sapevi che è possibile aggiungere note ai problemi della pagina come promemoria
 
 >[!TIP]
 >
->È possibile eliminare la nota facendo clic sul piccolo **x** nell’angolo superiore sinistro.
+>Puoi eliminare la nota facendo clic sul piccolo **x** nell&#39;angolo in alto a sinistra.
 
 ## Aggiungi note nell&#39;espansione dei dettagli della pagina {#add-notes-in-page-detail-drill-down}
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-13-3a12-3a59.png)
 
@@ -51,7 +51,7 @@ Sapevi che è possibile aggiungere note ai problemi della pagina come promemoria
 
    ![](assets/image2014-9-18-13-3a13-3a46.png)
 
-1. Immetti la nota. Clic **[!UICONTROL Salva]**.
+1. Immetti la nota. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-18-13-3a14-3a5.png)
 

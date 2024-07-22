@@ -6,18 +6,18 @@ exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
 
 # Note sulla versione: gennaio 2013 {#release-notes-january}
 
-La versione di gennaio amplia l’offerta social con **Offerte di riferimento**. Inoltre, gli utenti di Gestione lead di Marketo possono impostare il fuso orario, la lingua e le preferenze locali. Si prega di notare che le funzioni contrassegnate con un &#42; sono disponibili solo in Select Edition.
+La versione di gennaio amplia l&#39;offerta social con **offerte di riferimento**. Inoltre, gli utenti di Gestione lead di Marketo possono impostare il fuso orario, la lingua e le preferenze locali. Le funzionalità contrassegnate con &#42; sono disponibili solo in Select Edition.
 
 ## Offerte di riferimento {#referral-offers}
 
-A **Offerta di riferimento** offre ai lead un incentivo per indirizzare i loro amici. Crea obiettivi e premi per i riferimenti di successo. Puoi utilizzarlo nelle pagine di destinazione, sul sito web e persino su Facebook.
+Una **Offerta di riferimento** offre ai lead un incentivo per segnalare i propri amici. Crea obiettivi e premi per i riferimenti di successo. Puoi utilizzarlo nelle pagine di destinazione, sul sito web e persino su Facebook.
 
 ![](assets/image2014-9-22-15-3a20-3a13.png)
 

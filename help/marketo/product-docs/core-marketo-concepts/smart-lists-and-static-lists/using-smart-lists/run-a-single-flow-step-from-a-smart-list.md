@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona un elenco o un elenco avanzato con persone al suo interno, quindi vai al **[!UICONTROL Persone]** scheda.
+1. Seleziona un elenco o un elenco avanzato contenente persone, quindi vai alla scheda **[!UICONTROL Persone]**.
 
    ![](assets/smartlistpeopletab-hands.png)
 
@@ -31,27 +31,27 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
    >
    >Questa funzionalità è disponibile sia per gli elenchi statici che per gli elenchi avanzati.
 
-1. Clic **[!UICONTROL Seleziona tutto]**. Puoi anche utilizzare **Ctrl/Comando** e fare clic su per selezionare alcuni record manualmente.
+1. Fare clic su **[!UICONTROL Seleziona tutto]**. È inoltre possibile utilizzare **Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
 
    ![](assets/smartlist-selectallhand.png)
 
    >[!NOTE]
    >
-   >Se i risultati si estendono su più pagine, fare clic su **[!UICONTROL Seleziona tutto]** seleziona tutte le persone in tutte le pagine.
+   >Se i risultati si estendono su più pagine, facendo clic su **[!UICONTROL Seleziona tutto]** verranno selezionate tutte le persone in tutte le pagine.
 
-1. Sotto **[!UICONTROL Azioni della persona]**, seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. In **[!UICONTROL Azioni persona]**, seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/personactions-hands.png)
 
-1. Trova e seleziona un **[!UICONTROL Attributo]**. In questo esempio prenderemo tutte le persone che hanno lo stato &quot;California&quot; e lo cambieremo in &quot;CA&quot;.
+1. Trova e seleziona un **[!UICONTROL attributo]**. In questo esempio prenderemo tutte le persone che hanno lo stato &quot;California&quot; e lo cambieremo in &quot;CA&quot;.
 
    ![](assets/runaction-hands.png)
 
-1. Inserisci un nuovo valore. Clic **[!UICONTROL Esegui ora]**.
+1. Immetti un nuovo valore. Fare clic su **[!UICONTROL Esegui ora]**.
 
    ![](assets/runactionnewvalue-hands.png)
 
-1. Se i valori dei dati vengono modificati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Clic **[!UICONTROL Vai]**.
+1. Se i valori dei dati vengono modificati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fai Clic Su **[!UICONTROL Vai]**.
 
    ![](assets/changedatavalue.jpg)
 

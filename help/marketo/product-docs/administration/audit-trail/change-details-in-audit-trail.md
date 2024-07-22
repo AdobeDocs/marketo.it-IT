@@ -6,7 +6,7 @@ exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1913'
+source-wordcount: '1902'
 ht-degree: 10%
 
 ---
@@ -40,7 +40,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato nel "nome area di lavoro" dell’area di lavoro <br>Posizione "Cartella campagna" o "Programma di coinvolgimento" <br>Nome del programma clonato "new name"</td> 
+   <td>Clonato nell'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna" o "programma di coinvolgimento" <br>Nome programma clonato "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -93,7 +93,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   <tr> 
    <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
    <td>Crea</td> 
-   <td>Creato utilizzando il modello "nome modello" <br>o <br>Clonato da "nome risorsa"</td> 
+   <td>Creato utilizzando il modello "nome modello" <br> o <br>Clonato da "nome risorsa"</td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
@@ -113,7 +113,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>È stata aggiunta la segmentazione "segmentation_name"</td> 
+   <td>Segmentazione "segmentation_name" aggiunta</td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
@@ -149,11 +149,11 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato in "Design studio" nella cartella "foldername" <br>Nome risorsa clonato "name"<br>o<br>Clonato in "Attività di marketing" nel programma "nome programma"<br>Nome risorsa clonato "name"</td> 
+   <td>Clonato in "Design studio" nella cartella "foldername" <br>Nome risorsa clonato <br>o<br>Clonato in "Marketing Activities" nel programma "nome programma"<br>Nome risorsa clonato "name"</td> 
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Passato a "Attività di marketing" nel programma "nome programma"</td> 
+   <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Spostato in "Attività di marketing" nel programma "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Approva</td> 
@@ -165,7 +165,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Bozza</td> 
-   <td>Il messaggio e-mail è stato redatto perché il frammento "nome frammento" è stato approvato<br>o<br>L’e-mail è stata bozza perché il modello "nome modello" è stato approvato</td> 
+   <td>L'e-mail è stata bozza perché il frammento "nome frammento" è stato approvato<br>o<br>L'e-mail è stata bozza perché il modello "nome modello" è stato approvato</td> 
   </tr> 
    <td rowspan="17">Programma e-mail</td> 
    <td>Crea</td> 
@@ -177,7 +177,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato nel "nome area di lavoro" dell’area di lavoro <br>Posizione "Cartella della campagna o programma di coinvolgimento" <br>Nome del programma clonato "new name"</td> 
+   <td>Clonato nell'area di lavoro "nome area di lavoro" <br>Posizione "Cartella campagna o programma di coinvolgimento" <br>Nome programma clonato "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -217,7 +217,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
-   <td>Modifica il comportamento di Analytics "nome comportamento"<br>Comportamento precedente "nome comportamento"</td> 
+   <td>Modifica comportamento di analisi "nome comportamento"<br>Comportamento precedente "nome comportamento"</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
@@ -279,7 +279,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato nel "nome area di lavoro" dell’area di lavoro <br>Posizione "Cartella della campagna o programma di coinvolgimento" <br>Nome del programma clonato "new name"</td> 
+   <td>Clonato nell'area di lavoro "nome area di lavoro" <br>Posizione "Cartella campagna o programma di coinvolgimento" <br>Nome programma clonato "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -303,19 +303,19 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica flusso programma</td> 
-   <td>Aggiungi contenuto<br>Nome flusso "nome flusso"<br>Digita "Email" o "Program"<br>Nome "email name" o "program name"<br>"Nome smart campaign" della campagna avanzata</td> 
+   <td>Aggiungi contenuto<br>Nome flusso "nome flusso"<br>Digitare "E-mail" o "Programma"<br>Nome "nome e-mail" o "nome programma"<br>Nome campagna avanzata "nome campagna avanzata"</td> 
   </tr> 
   <tr> 
    <td>Modifica flusso programma</td> 
-   <td>Attiva contenuto<br>Nome flusso "nome flusso"<br>Nome del contenuto "nome e-mail" o "nome del programma"</td> 
+   <td>Attiva contenuto<br>Nome flusso "nome flusso"<br>Nome contenuto "nome e-mail" o "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Modifica flusso programma</td> 
-   <td>Disattiva contenuto<br>Nome flusso "nome flusso"<br>Nome del contenuto "nome e-mail" o "nome del programma"</td> 
+   <td>Disattiva contenuto<br>Nome flusso "nome flusso"<br>Nome contenuto "nome e-mail" o "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Modifica flusso programma</td> 
-   <td>Rimuovi contenuto<br>Nome flusso "nome flusso"<br>Nome del contenuto "nome e-mail" o "nome del programma"</td> 
+   <td>Rimuovi contenuto<br>Nome flusso "nome flusso"<br>Nome contenuto "nome e-mail" o "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Modifica token programma</td> 
@@ -335,7 +335,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
-   <td>Modifica il comportamento di Analytics "nome comportamento"<br>Comportamento precedente "nome comportamento"</td> 
+   <td>Modifica comportamento di analisi "nome comportamento"<br>Comportamento precedente "nome comportamento"</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
@@ -376,7 +376,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato nel "nome area di lavoro" dell’area di lavoro <br>Posizione "cartella campagna" o "programma di coinvolgimento" <br>Nome del programma clonato "new name"</td> 
+   <td>Clonato nell'area di lavoro "nome area di lavoro" <br>Posizione "cartella campagna" o "programma di coinvolgimento" <br>Nome programma clonato "nuovo nome"</td> 
   </tr> 
   <tr> 
    <td>Modifica canale</td> 
@@ -408,7 +408,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
-   <td>Modifica il comportamento di Analytics "nome comportamento"<br>Comportamento precedente "nome comportamento"</td> 
+   <td>Modifica comportamento di analisi "nome comportamento"<br>Comportamento precedente "nome comportamento"</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione programma</td> 
@@ -482,11 +482,11 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato in "Design studio" nella cartella "foldername" <br>Nome risorsa clonato "name"<br>o<br>Clonato in "Attività di marketing" nel programma "nome programma"<br>Nome risorsa clonato "name"</td> 
+   <td>Clonato in "Design studio" nella cartella "foldername" <br>Nome risorsa clonato <br>o<br>Clonato in "Marketing Activities" nel programma "nome programma"<br>Nome risorsa clonato "name"</td> 
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Passato a "Attività di marketing" nel programma "nome programma"</td> 
+   <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Spostato in "Attività di marketing" nel programma "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Forms</td> 
@@ -496,7 +496,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   <tr> 
    <td rowspan="9">Pagina di destinazione</td> 
    <td>Crea</td> 
-   <td>Creato utilizzando il modello "nome modello" <br>o <br>Clonato da "nome risorsa"</td> 
+   <td>Creato utilizzando il modello "nome modello" <br> o <br>Clonato da "nome risorsa"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -520,11 +520,11 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato in "Design studio" nella cartella "foldername"<br>Nome risorsa clonato "name"<br>URL risorsa clonata "www.url.com"<br>o<br>Clonato in "Attività di marketing" nel programma "nome programma" <br>Nome risorsa clonato "name"<br>URL risorsa clonata "www.url.com"</td> 
+   <td>Clonato in "Design studio" nella cartella "foldername"<br>Nome risorsa clonato "name"<br>URL risorsa clonato "www.url.com"<br>o<br>Clonato in "Marketing Activities" nel programma "nome programma" <br>Nome risorsa clonato "name"<br>URL risorsa clonato "www.url.com"</td> 
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Spostato in "Design studio" nella cartella "nome cartella"<br> o<br> Passato a "Attività di marketing" nel programma "nome programma"</td> 
+   <td>Spostato in "Design studio" nella cartella "nome cartella"<br> o<br> Spostato in "Attività di marketing" nel programma "nome programma"</td> 
   </tr> 
   <tr> 
    <td>Approva</td> 
@@ -611,7 +611,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Sposta</td> 
-   <td>Passato a "Programmi" nel programma "nome programma"<br>o<br>Spostato in "Cartelle" nella cartella "nome cartella"</td> 
+   <td>Spostato in "Programmi" nel programma "nome programma"<br>o<br>Spostato in "Cartelle" nella cartella "nome cartella"</td> 
   </tr> 
   <tr> 
    <td>Rinomina</td> 
@@ -627,7 +627,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Duplica</td> 
-   <td>Clonato in "Programmi" nel programma "nome programma" <br>Nome risorsa clonato "name"<br>o<br>Clonato in "Folder" (Cartella) nella cartella "folder name" (Nome cartella)<br>Nome risorsa clonato "name"</td> 
+   <td>Clonato in "Programmi" nel programma "nome programma" <br>Nome risorsa clonato "nome"<br>o<br>Clonato in "Cartella" nella cartella "nome cartella"<br>Nome risorsa clonato "nome"</td> 
   </tr> 
   <tr> 
    <td>Modifica impostazione elenco smart</td> 
@@ -677,7 +677,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>È stata aggiunta la segmentazione "segmentation_name"</td> 
+   <td>Segmentazione "segmentation_name" aggiunta</td> 
   </tr> 
   <tr> 
    <td>Modifica</td> 
@@ -754,7 +754,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   <tr> 
    <td rowspan="3">Ruolo<br><br></td> 
    <td>Crea</td> 
-   <td>Ruolo creato con "nome ruolo" (NOTA: per ulteriori informazioni sulle autorizzazioni, contatta il supporto) - <br>mostra lo snapshot delle autorizzazioni assegnate al ruolo</td> 
+   <td>Ruolo creato con "nome ruolo" (NOTA: se sono necessari dettagli sulle autorizzazioni aggiunte, contattare il supporto tecnico) - <br>mostra l'istantanea delle autorizzazioni assegnate al ruolo</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -762,7 +762,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>Ruolo modificato da "nome precedente" a "nuovo nome" (NOTA: per informazioni sulle autorizzazioni modificate, contatta il supporto) - <br>mostra lo snapshot delle autorizzazioni assegnate al ruolo<br></td> 
+   <td>Ruolo modificato da "nome precedente" a "nuovo nome" (NOTA: per informazioni sulle autorizzazioni modificate, contattare il supporto tecnico) - <br>mostra un'istantanea delle autorizzazioni assegnate al ruolo<br></td> 
   </tr> 
   <tr> 
    <td>Rapporto elenco smart</td> 
@@ -772,7 +772,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   <tr> 
    <td rowspan="7">Utente<br><br><br><br></td> 
    <td>Crea (invita)</td> 
-   <td>Utente invitato con: E-mail "indirizzo e-mail", Nome "nome e cognome", Scadenza accesso "vuoto o con data", Utente API "vero o falso" - <br>mostra lo snapshot dei ruoli e delle aree di lavoro assegnati all'utente</td> 
+   <td>Utente invitato con: E-mail "indirizzo e-mail", Nome "nome e cognome", Scadenza accesso "vuoto o con una data", Utente API "vero o falso" - <br>mostra l’istantanea dei ruoli e delle aree di lavoro assegnati all’utente</td> 
   </tr> 
   <tr> 
    <td colspan="1">Elimina</td> 
@@ -801,7 +801,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   <tr> 
    <td rowspan="2">Area di lavoro</td> 
    <td>Crea</td> 
-   <td>Area di lavoro creata con il nome "nome area di lavoro"</td> 
+   <td>Workspace creato con il nome "workspace name"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -812,4 +812,4 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
 
 >[!MORELIKETHIS]
 >
->[Filtraggio in Audit Trail](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)
+>[Filtro in Audit Trail](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md)

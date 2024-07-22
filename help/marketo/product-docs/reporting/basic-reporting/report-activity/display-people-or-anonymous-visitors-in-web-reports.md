@@ -15,15 +15,15 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungere il codice di tracciamento Munchkin al sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
+>[Aggiungi il codice di tracciamento Munchkin al tuo sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)
 
-In [Attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) e  [Rapporti sull’attività web della società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) puoi vedere [persone o visitatori anonimi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) che visitano il tuo sito. I visitatori anonimi hanno dedotto dati, come ad esempio Metro Area.  Ecco come selezionare se nel rapporto vengono visualizzati lead noti o visitatori anonimi.
+Nei [report Attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) e [Report attività Web società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md) puoi vedere [persone o visitatori anonimi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/understanding-anonymous-activity-and-people.md) che visitano il tuo sito. I visitatori anonimi hanno dedotto dati, come ad esempio Metro Area.  Ecco come selezionare se nel rapporto vengono visualizzati lead noti o visitatori anonimi.
 
-1. Nel rapporto Attività pagina Web, fai clic su **Configurazione**.
+1. Nel report Attività pagina Web, fai clic su **Configurazione**.
 
    ![](assets/image2015-3-10-11-3a43-3a13.png)
 
-1. Doppio clic **Origine attività**.
+1. Fare doppio clic su **Source attività**.
 
    ![](assets/image2016-2-2-14-3a5-3a59.png)
 
@@ -35,10 +35,10 @@ In [Attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/r
    >
    >L’inclusione degli ISP per i visitatori anonimi genera un rapporto più lungo, ma l’esclusione di questi fornisce una visione più chiara di dove provengono i visitatori oltre alle sorgenti standard, come Google.
 
-1. Tutto qui. Fai clic su **Report** per tornare indietro e visualizzare il report con persone note o anonime.
+1. Tutto qui. Fai clic sulla scheda **Report** per tornare indietro e visualizzare il report con persone note o anonime.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 
 >[!MORELIKETHIS]
 >
->[Tracciamento di attività e persone anonime](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)
+>[Tracciamento attività anonima e persone](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md)

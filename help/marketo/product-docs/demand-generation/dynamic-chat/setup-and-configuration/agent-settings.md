@@ -2,10 +2,10 @@
 description: Impostazioni agente - Documentazione di Marketo - Documentazione del prodotto
 title: Impostazioni agente
 feature: Dynamic Chat
-exl-id: 792a87bb-3ff9-46fb-ac68-146d5ffa9dc5
-source-git-commit: 9834f6be3e2a89595d91d1fe51c11b8bb59b714d
+exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '498'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Configura il calendario e imposta la disponibilità di riunioni/chat live.
 
 >[!PREREQUISITES]
 >
->Assicurati che ai tuoi agenti sia stato concesso il [autorizzazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}.
+>Assicurati che agli agenti siano state concesse le [autorizzazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"} appropriate.
 
 ![](assets/agent-settings-1.png)
 
@@ -78,7 +78,7 @@ Impostare il fuso orario e l&#39;ora/giorno della settimana per ricevere le pren
 
 >[!TIP]
 >
->Puoi selezionare più blocchi di tempo nello stesso giorno (ad esempio, venerdì da 8a-12p _e_ 1p-5p) facendo clic sul pulsante **+** accedi a destra.
+>È possibile selezionare più blocchi di tempo nello stesso giorno (ad esempio, venerdì da 8a-12p _e_ 1p-5p) facendo clic sul segno **+** a destra.
 
 ## Disponibilità chat in tempo reale {#live-chat-availability}
 
@@ -86,12 +86,12 @@ Imposta il tuo fuso orario e l’ora/giorno della settimana per ricevere le chat
 
 ![](assets/agent-settings-5.png)
 
-Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una chat in arrivo. Se non hai effettuato l&#39;accesso, riceverai una notifica dal browser (se hai [configuralo](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
+Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una chat in arrivo. Se non hai effettuato l&#39;accesso, riceverai una notifica dal browser (se hai [configurato](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}).
 
 >[!IMPORTANT]
 >
->Il [attivazione/disattivazione della disponibilità](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} nella casella in entrata dell’agente **sostituirà** nella scheda Disponibilità chat in diretta. Pertanto, se si è programmati come disponibili a partire da 1p-5p, ma si deve fare una breve pausa a 3p, non è necessario modificare le impostazioni dell&#39;agente. Lo stato di attivazione/disattivazione della disponibilità rimarrà fino alla modifica manuale o al raggiungimento del blocco di tempo successivo nella disponibilità.
+>L&#39;[attivazione/disattivazione della disponibilità](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} nella cartella Posta in arrivo dell&#39;agente **sovrascriverà** quanto immesso nella scheda Disponibilità di Live Chat. Pertanto, se si è programmati come disponibili a partire da 1p-5p, ma si deve fare una breve pausa a 3p, non è necessario modificare le impostazioni dell&#39;agente. Lo stato di attivazione/disattivazione della disponibilità rimarrà fino alla modifica manuale o al raggiungimento del blocco di tempo successivo nella disponibilità.
 
 >[!TIP]
 >
->Puoi selezionare più blocchi di tempo nello stesso giorno (ad esempio, venerdì da 8a-12p _e_ 1p-5p) facendo clic sul pulsante **+** accedi a destra.
+>È possibile selezionare più blocchi di tempo nello stesso giorno (ad esempio, venerdì da 8a-12p _e_ 1p-5p) facendo clic sul segno **+** a destra.

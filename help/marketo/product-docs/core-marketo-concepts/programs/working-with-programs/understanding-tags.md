@@ -7,7 +7,7 @@ feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
 source-wordcount: '168'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,7 @@ I tipi di tag identificano il tipo di informazioni in base alle quali si desider
 
 >[!TIP]
 >
->Contatta il tuo amministratore di Marketo se desideri creare [tag personalizzati](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
+>Rivolgiti al tuo amministratore di Marketo per creare [tag personalizzati](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Ogni tipo di tag avrà dei valori tra cui scegliere.
 
 ## Canale {#channel}
 
-I canali vengono utilizzati per generare rapporti su come [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} è stato spostato all&#39;interno del programma. Ogni canale ha un set di stati di progressione e uno stato impostato su un successo uguale.
+I canali vengono utilizzati per creare rapporti sullo spostamento dei [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} nel programma. Ogni canale ha un set di stati di progressione e uno stato impostato su un successo uguale.
 
 >[!NOTE]
 >
@@ -61,5 +61,5 @@ I canali vengono utilizzati per generare rapporti su come [membri](/help/marketo
 
 >[!MORELIKETHIS]
 >
->* [Creare tag personalizzati](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
->* [Creare un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}
+>* [Crea tag personalizzati](/help/marketo/product-docs/administration/tags/create-custom-tags.md){target="_blank"}
+>* [Crea un canale del programma](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}

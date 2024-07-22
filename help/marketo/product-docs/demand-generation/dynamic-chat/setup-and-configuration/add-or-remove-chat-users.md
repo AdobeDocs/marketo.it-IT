@@ -24,7 +24,7 @@ Per aggiungere o rimuovere utenti chat, segui la procedura riportata di seguito.
 
    ![](assets/add-or-remove-chat-users-1.png)
 
-1. Clic **[!UICONTROL Dynamic Chat]**.
+1. Fai clic su **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-2.png)
 
@@ -32,11 +32,11 @@ Per aggiungere o rimuovere utenti chat, segui la procedura riportata di seguito.
    >
    >Se disponi di più di un abbonamento a Marketo, seleziona quello desiderato prima del passaggio successivo.
 
-1. Fai clic su **[!UICONTROL Utenti]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Utenti]**.
 
    ![](assets/add-or-remove-chat-users-3.png)
 
-1. Fai clic su **[!UICONTROL Aggiungi utente]** pulsante.
+1. Fare clic sul pulsante **[!UICONTROL Aggiungi utente]**.
 
    ![](assets/add-or-remove-chat-users-4.png)
 
@@ -44,7 +44,7 @@ Per aggiungere o rimuovere utenti chat, segui la procedura riportata di seguito.
 
    ![](assets/add-or-remove-chat-users-5.png)
 
-1. Fai clic su **+** e seleziona il profilo di prodotto desiderato.
+1. Fai clic sull&#39;icona **+** e seleziona il profilo di prodotto desiderato.
 
    ![](assets/add-or-remove-chat-users-6.png)
 
@@ -64,11 +64,11 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone dell&#39
 
    ![](assets/add-or-remove-chat-users-8.png)
 
-1. Fai clic su **[!UICONTROL Ruoli]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Ruoli]**.
 
    ![](assets/add-or-remove-chat-users-9.png)
 
-1. Dall’elenco, seleziona il ruolo da modificare e fai clic su **[!UICONTROL Modifica Ruolo]**.
+1. Dall&#39;elenco, selezionare il ruolo che si desidera modificare e fare clic su **[!UICONTROL Modifica ruolo]**.
 
    ![](assets/add-or-remove-chat-users-10.png)
 
@@ -82,7 +82,7 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone dell&#39
 
    ![](assets/add-or-remove-chat-users-12.png)
 
-1. Clic **[!UICONTROL Dynamic Chat]**.
+1. Fai clic su **[!UICONTROL Dynamic Chat]**.
 
    ![](assets/add-or-remove-chat-users-13.png)
 
@@ -90,7 +90,7 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone dell&#39
    >
    >Se disponi di più di un abbonamento a Marketo, seleziona quello desiderato prima del passaggio successivo.
 
-1. Fai clic su **[!UICONTROL Utenti]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Utenti]**.
 
    ![](assets/add-or-remove-chat-users-14.png)
 
@@ -98,11 +98,11 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone dell&#39
 
    ![](assets/add-or-remove-chat-users-15.png)
 
-1. Fai clic su **[!UICONTROL Rimuovi utente]** pulsante.
+1. Fare clic sul pulsante **[!UICONTROL Rimuovi utente]**.
 
    ![](assets/add-or-remove-chat-users-16.png)
 
-1. Clic **[!UICONTROL Rimuovi utente]** per confermare.
+1. Fai clic su **[!UICONTROL Rimuovi utente]** per confermare.
 
    ![](assets/add-or-remove-chat-users-17.png)
 

@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # I miei report e i report dei gruppi {#understanding-my-reports-and-group-reports}
 
-Puoi creare **I miei report** e **Rapporti sui gruppi** dal [Pagina principale di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Puoi creare **I miei report** e **I report del gruppo** dalla [Home di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
 **I miei report** sono visibili solo a te.
 
-**Rapporti sui gruppi** sono visibili a tutti gli utenti in quell’area di lavoro.
+**I report dei gruppi** sono visibili a tutti gli utenti di quell&#39;area di lavoro.
 
 >[!NOTE]
 >
->Ogni area di lavoro ha un set di **I miei report** e **Rapporti sui gruppi**.
+>Ogni area di lavoro ha un set di **Report personali** e **Report di gruppo**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 
 >[!MORELIKETHIS]
 >
->* [Salvare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
->* [Clonare un rapporto in rapporti di gruppo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)
+>* [Salva un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md)
+>* [Clonare un report in report di gruppo](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md)

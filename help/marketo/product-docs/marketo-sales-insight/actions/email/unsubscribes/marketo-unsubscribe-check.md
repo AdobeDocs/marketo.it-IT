@@ -20,15 +20,15 @@ Il controllo per annullare l’abbonamento a Marketo utilizza la connessione del
 
 ## Attivazione {#turning-it-on}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/marketo-unsubscribe-check-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Annulla iscrizione**.
+1. In Impostazioni amministrazione fare clic su **Annulla sottoscrizione**.
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Fai clic su **Integrazioni** scheda. Nella sezione Marketo Unsubscribe Check, fai clic sul cursore per attivare il controllo.
+1. Fai clic sulla scheda **Integrazioni**. Nella sezione Marketo Unsubscribe Check, fai clic sul cursore per attivare il controllo.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 

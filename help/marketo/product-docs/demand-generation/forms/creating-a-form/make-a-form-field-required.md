@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Rendi obbligatorio un campo modulo {#make-a-form-field-required}
 
-Quando [aggiunta di campi a un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md) potrebbe essere utile sottoporne alcune alla persona che le compila. Ecco come.
+Quando si [aggiungono campi a un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md), è possibile che si desideri renderne obbligatori alcuni alla persona che li compila. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
@@ -27,16 +27,16 @@ Quando [aggiunta di campi a un modulo](/help/marketo/product-docs/demand-generat
 
    ![](assets/image2014-9-15-17-3a30-3a44.png)
 
-1. Ben fatto! Clic **Fine**.
+1. Ben fatto! Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-17-3a30-3a58.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-17-3a31-3a11.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approva tutte le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) questo modulo è valido per le modifiche apportate.
+>Non dimenticare di [approvare le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) su cui si basa il modulo per attivare le modifiche.
 
-È necessario [riordinare i campi aggiunti al modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?
+[riordinare i campi aggiunti al modulo](/help/marketo/product-docs/demand-generation/forms/form-fields/reorder-fields-in-a-form.md)?

@@ -21,39 +21,39 @@ Tutti i lead e gli account noti risiedono inizialmente nella fase di inventario.
 
 ## Aggiungi Una Fase Di Inventario {#add-an-inventory-stage}
 
-1. Per aggiungere una nuova fase dell&#39;inventario del modello del ciclo dei ricavi, fare clic sul pulsante **Analytics** pulsante in **Il mio Marketo** schermata iniziale.
+1. Per aggiungere una nuova fase dell&#39;inventario del modello del ciclo dei ricavi, fare clic sul pulsante **Analytics** nella schermata iniziale di **My Marketo**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. In **Analytics** , selezionare il modello esistente oppure [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Nella sezione **Analytics**, seleziona il modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Clic **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Per aggiungere una nuova fase di inventario, fare clic su **Inventario** , quindi trascinarlo e rilasciarlo in qualsiasi punto all’interno dell’area di lavoro.
+1. Per aggiungere una nuova fase di inventario, fai clic sul pulsante **Inventario**, quindi trascina e rilascia in qualsiasi punto all&#39;interno dell&#39;area di lavoro.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. È possibile modificare il Nome, aggiungere una Descrizione e regolare il Tipo dopo l&#39;aggiunta di una fase. Puoi anche selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** in questo momento.
+1. È possibile modificare il Nome, aggiungere una Descrizione e regolare il Tipo dopo l&#39;aggiunta di una fase. Al momento puoi anche selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Modificare una fase di inventario {#edit-an-inventory-stage}
 
-Quando si seleziona un&#39;icona Inventario è possibile modificare la **Nome**, aggiungi un **Descrizione** o regolare **Tipo**. Puoi anche selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Quando selezioni un&#39;icona Inventario puoi modificare il **Nome**, aggiungere una **Descrizione** o regolare il **Tipo**. Puoi anche selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
 1. Fai clic sull’icona di un magazzino.
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Fai clic su all’interno del **Nome** e **Descrizione** per modificarne il contenuto.
+1. Fai clic sui campi **Nome** e **Descrizione** per modificarne il contenuto.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Seleziona la **Tipo** per la modifica.
+1. Selezionare il menu a discesa **Tipo** da modificare.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,11 +63,11 @@ Quando si seleziona un&#39;icona Inventario è possibile modificare la **Nome**,
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. È inoltre possibile eliminare una fase facendo clic su di essa, quindi nella **Azioni fase** a discesa, seleziona **Elimina**.
+1. Puoi anche eliminare una fase facendo clic su di essa, quindi nel menu a discesa **Azioni fase**, seleziona **Elimina**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Clic **Elimina**.
+1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fare clic su **Elimina**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

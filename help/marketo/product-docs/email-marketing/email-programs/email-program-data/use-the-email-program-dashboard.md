@@ -17,11 +17,11 @@ Scopri le prestazioni dei programmi e-mail con questa visualizzazione dashboard.
 
 >[!CAUTION]
 >
->Per una segnalazione accurata, evita _riutilizzo_ un messaggio e-mail da un programma e-mail, facendo riferimento a esso in una campagna intelligente o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un’e-mail, [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in quanto copia l’e-mail ma ne crea una nuova con un nuovo ID e-mail.
+>Per ottenere rapporti accurati, evita di _riutilizzare_ un&#39;e-mail da un programma e-mail, facendo riferimento ad essa in una campagna avanzata o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un&#39;e-mail, [clonala](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, in quanto copia l&#39;e-mail ma ne crea una nuova con un nuovo ID e-mail.
 
 >[!NOTE]
 >
->Se il programma dispone di un test A/B, vedi [Dashboard programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
+>Se il programma dispone di un test A/B, controllare la [Dashboard del programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}.
 
 ![](assets/image2014-9-12-14-3a12-3a56.png)
 
@@ -51,7 +51,7 @@ Questo grafico mostra il numero di e-mail aperte/su cui è stato fatto clic in s
 
 ## Riepilogo - Coinvolgimento {#summary-engagement}
 
-Questo mostra il [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"}.
+Questo mostra il [punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md){target="_blank"} complessivo.
 
 ![](assets/image2014-9-12-14-3a13-3a11.png)
 
@@ -63,15 +63,15 @@ Per il resto dei dati verranno visualizzati i comandi Opens (Aperture), Clicks (
 
 >[!TIP]
 >
->Il **Annulla iscrizione** nell’esempio precedente era così piccolo che Marketo è stato ingrandito per darti un aspetto migliore. Il secondo numero all&#39;interno della barra viene semplicemente aggiunto per la scala.
+>La percentuale di **Annulla sottoscrizione** nell&#39;esempio precedente era così bassa che Marketo è stato ingrandito per darti un aspetto migliore. Il secondo numero all&#39;interno della barra viene semplicemente aggiunto per la scala.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->**Aperture** vengono conteggiati quando il destinatario dell’e-mail scarica le immagini dell’e-mail, incluso un pixel di tracciamento inserito in Marketo. Se il destinatario visualizza l’e-mail ma sceglie di non scaricare le immagini, non verrà conteggiato come un messaggio aperto. Se le immagini vengono caricate nel riquadro di anteprima del destinatario, in genere vengono conteggiate come aperte, ma variano in base al client e-mail.
+>**Le aperture** vengono conteggiate quando il destinatario dell&#39;e-mail scarica le immagini dell&#39;e-mail, che includono un pixel di tracciamento inserito in Marketo. Se il destinatario visualizza l’e-mail ma sceglie di non scaricare le immagini, non verrà conteggiato come un messaggio aperto. Se le immagini vengono caricate nel riquadro di anteprima del destinatario, in genere vengono conteggiate come aperte, ma variano in base al client e-mail.
 >
->**Fai clic per aprire** misura la percentuale di e-mail aperte e in cui è stato fatto clic su un collegamento nell’e-mail. Il numero di clic univoci viene diviso per il numero di aperture univoche, quindi moltiplicato per 100 per visualizzarlo come percentuale.
+>**Fare clic per aprire** misura la percentuale di messaggi di posta elettronica aperti e su cui è stato fatto clic su un collegamento nell&#39;e-mail. Il numero di clic univoci viene diviso per il numero di aperture univoche, quindi moltiplicato per 100 per visualizzarlo come percentuale.
 
 ## Aggiorna Cruscotto {#refresh-dashboard}
 
@@ -81,4 +81,4 @@ Per visualizzare i dati più aggiornati, fai clic sull’icona di aggiornamento 
 
 >[!MORELIKETHIS]
 >
->[Utilizzare la dashboard Programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}
+>[Utilizza la dashboard del programma e-mail - Visualizzazione test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/use-the-email-program-dashboard-a-b-test-view.md){target="_blank"}

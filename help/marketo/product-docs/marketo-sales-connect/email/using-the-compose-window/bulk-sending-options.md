@@ -7,13 +7,13 @@ feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 3%
+ht-degree: 0%
 
 ---
 
 # Opzioni di invio in blocco {#bulk-sending-options}
 
-L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. Sales Connect offre due modi per inviare le e-mail in blocco: **Raggruppa e-mail** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
+L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. Sales Connect offre due modi per inviare e-mail in blocco: **Raggruppa e-mail** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
 
 **E-mail di gruppo e selezione e invio**
 
@@ -30,15 +30,15 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
   <tr> 
    <th><p><span>Invia</span><span> Tipo</span> </p></th> 
    <th><p><span>Numero massimo di </span><span>E</span><span>mail</span> </p></th> 
-   <th><p><span>Avviato </span><span>Invia per</span></p></th> 
-   <th><p><span>In blocco </span><span>Modifica e-mail</span> </p></th> 
-   <th><p><span>Modifica</span><span> Ogni e-mail </span><span>Esclusivamente</span> </p></th> 
-   <th><p><span>Modello e </span><span>Supporto di campi dinamici</span> </p></th> 
+   <th><p><span>Avviato </span><span>Inviato Da</span></p></th> 
+   <th><p><span>In Blocco </span><span>Modifica E-Mail</span> </p></th> 
+   <th><p><span>Modifica</span><span> Ogni E-Mail </span><span>In Modo Univoco</span> </p></th> 
+   <th><p><span>Modello e </span><span>Supporto campi dinamici</span> </p></th> 
   </tr> 
   <tr> 
    <td><p><span>E-mail gruppo</span> </p></td> 
-   <td><p><span>1,000</span> </p></td> 
-   <td><p><span>Seleziona un gruppo e fai clic su</span><span> il </span><span>Pulsante "Azioni gruppo"</span><span>o digitare il nome del gruppo nel campo A. </span> </p></td> 
+   <td><p><span>1.000</span> </p></td> 
+   <td><p><span>Selezionare un gruppo e fare clic</span><span> sul pulsante </span><span>"Azioni gruppo"</span><span> oppure digitare il nome del gruppo nel campo A. </span> </p></td> 
    <td><p><span>Sì</span> </p></td> 
    <td><p><span>No</span> </p></td> 
    <td><p><span>Sì</span> </p></td> 
@@ -46,7 +46,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
   <tr> 
    <td><p><span>Seleziona </span><span>e </span><span>Invia</span> </p></td> 
    <td><p><span>200</span> </p></td> 
-   <td><p><span>Seleziona le persone nella griglia e fai clic sul pulsante "E-mail selezionata" nella barra delle azioni</span><span>, o</span><span>r digita i destinatari nell’e-mail in blocco </span><span>barra laterale</span><span>.</span></p></td> 
+   <td><p><span>Selezionare le persone nella griglia e fare clic sul pulsante "E-mail selezionata" nella barra delle azioni</span><span>, o</span><span>r digitare i destinatari nell'e-mail collettiva </span><span>sidebar</span><span>.</span></p></td> 
    <td><p><span>Sì</span> </p></td> 
    <td><p><span>Sì</span> </p></td> 
    <td><p><span>Sì</span> </p></td> 
@@ -54,7 +54,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
  </tbody> 
 </table>
 
-**Utilizzo dell’e-mail del gruppo**
+**Utilizzo dell&#39;e-mail del gruppo**
 
 Puoi visualizzare in anteprima ogni e-mail nell’elenco per verificare se i campi dinamici vengono compilati correttamente e puoi modificare in blocco il modello da inviare. Tuttavia, non è possibile apportare modifiche univoche &quot;per utente&quot;.
 

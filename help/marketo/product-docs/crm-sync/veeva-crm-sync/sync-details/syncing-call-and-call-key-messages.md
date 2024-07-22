@@ -5,7 +5,7 @@ exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Gli oggetti messaggio chiave di chiamata e chiamata in Veeva CRM vengono sincron
 >
 >Marketo conserva i dati della chiamata fino a sei mesi dalla data della chiamata.
 
-**Quali sono i trigger/filtri relativi alla chiamata e al messaggio chiave di chiamata?**
+**Quali sono i trigger/filtri relativi al messaggio di chiamata e al messaggio di chiave di chiamata?**
 
 Trigger:
 

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Vuoi apportare modifiche a un&#39;attività personalizzata già creata? Ecco come.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-a-custom-activity-1.png)
 
-1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/edit-a-custom-activity-2.png)
 
@@ -27,7 +27,7 @@ Vuoi apportare modifiche a un&#39;attività personalizzata già creata? Ecco com
 
    ![](assets/edit-a-custom-activity-3.png)
 
-1. Clic **[!UICONTROL Azioni attività personalizzate]** e seleziona **[!UICONTROL Modifica attività]**.
+1. Fai clic su **[!UICONTROL Azioni attività personalizzate]** e seleziona **[!UICONTROL Modifica attività]**.
 
    ![](assets/edit-a-custom-activity-4.png)
 

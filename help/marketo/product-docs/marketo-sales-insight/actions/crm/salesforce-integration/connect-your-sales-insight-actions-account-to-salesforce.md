@@ -16,19 +16,19 @@ Segui questi semplici passaggi per collegare l’account Sales Insight Actions a
 
 ## Come connettersi come amministratore {#how-to-connect-as-an-admin}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Salesforce**.
+1. In Impostazioni amministrazione fare clic su **Salesforce**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Salesforce** allora **Connetti**.
+1. Nella scheda Connessioni e personalizzazioni, fai clic su **Salesforce** e quindi su **Connect**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -36,17 +36,17 @@ Segui questi semplici passaggi per collegare l’account Sales Insight Actions a
 
 ## Come connettersi come non amministratore {#how-to-connect-as-a-non-admin}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
 1. In Il mio account, seleziona **Salesforce**.
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Salesforce** allora **Connetti**.
+1. Nella scheda Connessioni e personalizzazioni, fai clic su **Salesforce** e quindi su **Connect**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

@@ -15,20 +15,20 @@ ht-degree: 0%
 
 Se hai accesso a più abbonamenti Marketo e desideri essere sicuro di quale stai utilizzando, prova a dare a ciascuno un nome univoco. Tale nome viene quindi visualizzato nella parte superiore della pagina di abbonamento.
 
-Ad esempio, se lavori sia nelle istanze di produzione che in quelle di sandbox, puoi denominare una sottoscrizione **Produzione Marketo** e l&#39;altro **Sandbox Marketo**.
+Ad esempio, se lavori sia nelle istanze di produzione che in quelle di sandbox, puoi denominare una sottoscrizione **Marketo Production** e l&#39;altra **Marketo Sandbox**.
 
 1. Vai a **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-subscription-settings-1.png)
 
-1. Clic **[!UICONTROL Il mio account]**.
+1. Fai clic su **[!UICONTROL Il mio account]**.
 
    ![](assets/edit-subscription-settings-2.png)
 
-1. Clic **[!UICONTROL Modifica informazioni abbonamento]**.
+1. Fare clic su **[!UICONTROL Modifica informazioni sottoscrizione]**.
 
    ![](assets/edit-subscription-settings-3.png)
 
-1. Apporta le modifiche necessarie e fai clic su **[!UICONTROL Salva]**.
+1. Apporta le modifiche e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/edit-subscription-settings-4.png)

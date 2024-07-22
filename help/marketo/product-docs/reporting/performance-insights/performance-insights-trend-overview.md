@@ -6,7 +6,7 @@ exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 La tendenza mostra le prestazioni del canale in un periodo di tempo.
 
-Fai clic su **Tendenza** per accedere a questa visualizzazione.
+Fare clic sulla scheda **Tendenza** per accedere a questa visualizzazione.
 
 ![](assets/1.png)
 

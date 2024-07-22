@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A volte ti può capitare di voler rimuovere i collegamenti in entrata. Ecco come:
 
-1. Vai a **[!UICONTROL Collegamenti in entrata]** sezione.
+1. Vai alla sezione **[!UICONTROL Collegamenti in entrata]**.
 
    ![](assets/image2014-9-18-13-3a47-3a3.png)
 
@@ -23,7 +23,7 @@ A volte ti può capitare di voler rimuovere i collegamenti in entrata. Ecco come
 
    ![](assets/image2014-9-18-13-3a49-3a34.png)
 
-1. Clic **[!UICONTROL Rimuovi]**.
+1. Fare clic su **[!UICONTROL Rimuovi]**.
 
    ![](assets/image2014-9-18-13-3a49-3a44.png)
 

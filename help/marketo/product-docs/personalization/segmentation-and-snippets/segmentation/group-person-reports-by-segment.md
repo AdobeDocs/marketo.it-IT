@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi raggruppare i rapporti sulle persone in base a qualsiasi segmento definito nelle segmentazioni.
 
-1. Vai a **Attività di marketing** (o **Analytics**).
+1. Vai alla sezione **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2017-3-28-8-3a43-3a9.png)
 
@@ -23,22 +23,22 @@ Puoi raggruppare i rapporti sulle persone in base a qualsiasi segmento definito 
 
    ![](assets/image2017-3-28-9-3a25-3a0.png)
 
-1. Fai clic su **Configurazione** e doppio clic **Raggruppa persone per**.
+1. Fare clic sulla scheda **Configurazione** e fare doppio clic su **Raggruppa persone per**.
 
    ![](assets/image2017-3-28-9-3a25-3a22.png)
 
    >[!NOTE]
    >
-   >È inoltre possibile [raggruppa i rapporti della persona per attributo della persona o dell’azienda](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
+   >Puoi anche [raggruppare i rapporti sulle persone per attributo della persona o dell&#39;azienda](/help/marketo/product-docs/reporting/basic-reporting/report-activity/group-person-reports-by-attribute.md).
 
-1. In **Raggruppa persone per** , inizia a digitare &#39;Segmentation&#39; nella casella di testo. Quando **Segmentazioni** , selezionarne uno dall&#39;elenco sottostante l&#39;intestazione.
+1. Nella finestra di dialogo **Raggruppa persone per**, inizia a digitare &#39;Segmentation&#39; nella casella di testo. Quando viene visualizzata l&#39;intestazione **Segmentations**, selezionane una dall&#39;elenco sotto l&#39;intestazione.
 
    ![](assets/image2017-3-28-9-3a25-3a55.png)
 
-1. Fai clic su **Report** per visualizzare il rapporto raggruppato per il segmento selezionato.
+1. Fai clic sulla scheda **Report** per visualizzare il report raggruppato per il segmento selezionato.
 
    ![](assets/image2017-3-28-9-3a26-3a13.png)
 
 >[!MORELIKETHIS]
 >
->[Aggiungere colonne personalizzate a un rapporto Persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+>[Aggiungere colonne personalizzate a un report persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

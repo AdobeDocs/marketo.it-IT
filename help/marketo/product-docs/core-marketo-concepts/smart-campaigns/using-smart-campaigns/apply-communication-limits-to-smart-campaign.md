@@ -23,11 +23,11 @@ Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe vo
 >
 >Quando una persona supera i limiti di comunicazione impostati, Marketo blocca le e-mail non operative (le e-mail operative vengono sempre inviate).
 
-1. In Smart Campaign, fai clic su **[!UICONTROL Pianificazione]** e quindi **[!UICONTROL Modifica impostazioni]**.
+1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Pianifica]** e quindi su **[!UICONTROL Modifica impostazioni]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Controlla la **[!UICONTROL Blocca e-mail non operative]** e quindi fare clic su **[!UICONTROL Salva]**.
+1. Selezionare la casella di controllo **[!UICONTROL Blocca e-mail non operative]** e quindi fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe vo
 
 >[!TIP]
 >
->Per impostare questa impostazione come predefinita, modifica [limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} nella sezione Amministratore.
+>Per impostare questa impostazione come predefinita, modifica i [limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} nella sezione Amministratore.
 
 Ora puoi stare certo che non invii accidentalmente troppe e-mail al pubblico.

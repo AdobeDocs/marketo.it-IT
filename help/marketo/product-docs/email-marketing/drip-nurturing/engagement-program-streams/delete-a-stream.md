@@ -19,7 +19,7 @@ Se hai bisogno di eliminare un flusso dal programma di coinvolgimento, segui que
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il programma di coinvolgimento e vai a **Flussi**.
+1. Seleziona il programma di coinvolgimento e passa a **Streams**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -27,14 +27,14 @@ Se hai bisogno di eliminare un flusso dal programma di coinvolgimento, segui que
    >
    >L’eliminazione di un flusso determinerà la perdita di dati storici per il contenuto in quel flusso.
 
-1. Fai clic sull’icona dell’ingranaggio e seleziona **Elimina**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Elimina**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Conferma l’eliminazione facendo clic su **Elimina**.
+1. Confermare l&#39;eliminazione facendo clic su **Elimina**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 
    >[!NOTE]
    >
-   >Se il flusso include persone, ti verrà chiesto di: [sposta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) prima di tutto.
+   >Se nel flusso sono presenti persone, ti verrà chiesto di [spostarle](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-engagement-program-stream.md) prima.

@@ -12,7 +12,7 @@ ht-degree: 3%
 
 # Opzioni di invio e-mail in blocco {#bulk-emailing-options}
 
-L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. Marketo Sales offre due modi per inviare le e-mail in blocco: **Raggruppa e-mail** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
+L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. Marketo Sales offre due modi per inviare e-mail in blocco: **E-mail di gruppo** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
 
 **E-mail di gruppo e selezione e invio**
 
@@ -36,7 +36,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
   </tr> 
   <tr> 
    <td>E-mail gruppo</td> 
-   <td>1,000</td> 
+   <td>1.000</td> 
    <td>Selezionare un gruppo e fare clic sul pulsante "Azioni gruppo" oppure digitare il nome del gruppo nel campo A.</td> 
    <td>Sì</td> 
    <td>No</td> 
@@ -53,7 +53,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
  </tbody> 
 </table>
 
-**Utilizzo dell’e-mail del gruppo**
+**Utilizzo dell&#39;e-mail del gruppo**
 
 Puoi visualizzare in anteprima ogni e-mail nell’elenco per verificare se i campi dinamici vengono compilati correttamente e puoi modificare in blocco il modello da inviare. Tuttavia, non è possibile apportare modifiche univoche &quot;per utente&quot;.
 

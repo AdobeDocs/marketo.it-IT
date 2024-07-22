@@ -19,15 +19,15 @@ Ci sono molti modi per far entrare una persona nel Marketo Engage. Se devi crear
 >
 >Marketo non supporta gli indirizzi e-mail che contengono emoticon.
 
-1. Vai a **[!UICONTROL Database]**.
+1. Vai al **[!UICONTROL database]**.
 
    ![](assets/db-1.png)
 
-1. Sotto **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuova persona]**.
+1. In **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuova persona]**.
 
    ![](assets/two-2.png)
 
-1. Inserisci le informazioni della persona, quindi fai clic su **[!UICONTROL Crea]**.
+1. Immetti le informazioni della persona, quindi fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/three-2.png)
 

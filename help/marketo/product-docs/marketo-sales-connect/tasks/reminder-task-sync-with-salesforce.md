@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Per informazioni su come attivare l&#39;estrazione di Sincronizzazione attività [Sincronizza attività/promemoria vendite con attività Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Per informazioni su come abilitare l&#39;attività Sincronizza, estrarre [Sincronizza attività/promemoria Sales Connect per le attività Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
 
 Una volta abilitate le impostazioni di sincronizzazione delle attività, gli utenti vedranno le loro attività promemoria sincronizzate bidirezionalmente con Salesforce. In questo modo gli utenti possono gestire le attività da Salesforce o Sales Connect e avere la certezza che i sistemi rimarranno allineati.
 
@@ -63,7 +63,7 @@ Di seguito è riportato un elenco dei campi delle attività promemoria in Sales 
 
 ## Sincronizzazione per la prima volta delle attività Sales Connect con Salesforce {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Quando attivi per la prima volta la sincronizzazione tra le attività Sales Connect e Salesforce, le attività Salesforce vengono importate. Lo faremo **non** eseguire il push di tutte le attività correnti disponibili in Sales Connect a Salesforce. Per ridurre il disordine e i duplicati, le uniche attività sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* sincronizzi Sales Connect con SFDC.
+Quando attivi per la prima volta la sincronizzazione tra le attività Sales Connect e Salesforce, le attività Salesforce vengono importate. **non** eseguiremo il push delle attività in corso in Sales Connect a Salesforce. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* la sincronizzazione di Sales Connect con SFDC.
 
 Ecco cosa accade quando si sincronizzano le attività Sales Connect e SFDC:
 
@@ -77,8 +77,8 @@ Ecco cosa accade quando si sincronizzano le attività Sales Connect e SFDC:
 
 Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Sales Connect verranno sincronizzate con l&#39;elenco delle attività in Salesforce. E tutto ciò che viene creato, modificato, completato o eliminato in Salesforce aggiorna l&#39;elenco delle attività in Sales Connect.
 
-Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nel [Pagina Impostazioni](https://toutapp.com/login) nell’applicazione web.
+Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nella [pagina Impostazioni](https://toutapp.com/login) dell&#39;applicazione Web.
 
 >[!NOTE]
 >
->Il campo oggetto di un&#39;attività può essere aggiornato in Sales Connect e tale aggiornamento verrà sincronizzato nel campo oggetto Salesforce per l&#39;attività sincronizzata corrispondente, se si utilizza `{{activity_subject}}` campo dinamico nel tuo [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md) impostazioni. Al contrario, eventuali aggiornamenti apportati al campo dell’oggetto in Salesforce _non_ sincronizzare con il campo Oggetto attività promemoria Sales Connect.
+>Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in Sales Connect e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto Salesforce per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in Salesforce _non_ verranno sincronizzati con il campo dell&#39;oggetto dell&#39;attività promemoria Sales Connect.

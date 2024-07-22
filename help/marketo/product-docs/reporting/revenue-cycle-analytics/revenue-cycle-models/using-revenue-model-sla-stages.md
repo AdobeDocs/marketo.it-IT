@@ -21,23 +21,23 @@ SLA sta per &quot;service level agreement&quot; (accordo sul livello di servizio
 
 ## Aggiungi una fase SLA {#add-an-sla-stage}
 
-1. Per aggiungere una nuova fase del contratto di servizio del modello del ciclo dei ricavi, fare clic sul pulsante **Analytics** nella schermata iniziale di My Marketo.
+1. Per aggiungere una nuova fase del contratto di servizio del modello del ciclo dei ricavi, fare clic sul pulsante **Analytics** nella schermata Home di My Marketo.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Nella sezione Analytics, seleziona il modello esistente, oppure [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Nella sezione Analytics, seleziona il modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Clic **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Per aggiungere una nuova fase del contratto di servizio, fare clic su **SLA** , quindi trascinarlo e rilasciarlo in qualsiasi punto all’interno dell’area di lavoro.
+1. Per aggiungere una nuova fase del contratto di servizio, fai clic sul pulsante **SLA**, quindi trascina e rilascia in qualsiasi punto all&#39;interno dell&#39;area di lavoro.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. È possibile modificare il **Nome**, aggiungi un **Descrizione** e regola **Tipo** dopo l&#39;aggiunta di una fase. Puoi anche selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)** in questo momento.
+1. È possibile modificare il **Nome**, aggiungere una **Descrizione** e regolare il **Tipo** dopo l&#39;aggiunta di una fase. Al momento puoi anche selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
@@ -49,11 +49,11 @@ Quando si seleziona un&#39;icona di fase SLA è possibile modificare il Nome, ag
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Fai clic su all’interno del **Nome** e **Descrizione** per modificarne il contenuto.
+1. Fai clic sui campi **Nome** e **Descrizione** per modificarne il contenuto.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Seleziona la **Tipo** a discesa per la modifica.
+1. Selezionare il menu a discesa **Tipo** da modificare.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 

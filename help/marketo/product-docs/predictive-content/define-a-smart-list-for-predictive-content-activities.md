@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Definire un elenco avanzato per le attività di contenuti predittivi {#define-a-smart-list-for-predictive-content-activities}
 
-Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri quando definisci un elenco avanzato in una campagna avanzata. Puoi attivare un’azione per chiunque faccia clic su contenuti predittivi tramite [Modello Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), il [Barra dei consigli del contenuto](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md), o in un [email](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
+Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri quando definisci un elenco avanzato in una campagna avanzata. Puoi attivare un&#39;azione per chiunque faccia clic su contenuti predittivi tramite il [modello Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [Barra dei contenuti consigliati](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) o un [messaggio e-mail](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. Nella tua campagna avanzata, passa a **Elenco avanzato** scheda.
+1. Nella tua campagna avanzata, passa alla scheda **Elenco avanzato**.
 
    ![](assets/smart-list-1.png)
 
    >[!NOTE]
    >
-   >Gli elenchi avanzati possono fare cose straordinarie. Per ulteriori informazioni, consulta [immersione approfondita elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Gli elenchi avanzati possono fare cose straordinarie. Ulteriori informazioni sono disponibili in [immersione approfondita elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Cerca il trigger, quindi trascinalo e rilascialo sull’area di lavoro.
 
@@ -31,7 +31,7 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
    >
    >Una campagna avanzata con trigger viene eseguita in modalità Trigger. Viene eseguito su una persona alla volta in base agli eventi attivati e ai filtri aggiunti.
 
-1. Fai clic su **Nome** e selezionare un operatore.
+1. Fai clic sul menu a discesa **Nome** e seleziona un operatore.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Aggiungi il **Tipo** vincolo.
+1. Aggiungi il vincolo **Type**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
 
    ![](assets/pc-add-constraint.png)
 
-1. Se utilizzi l’origine e-mail per il contenuto predittivo, aggiungi **Clic sul collegamento nell’e-mail** trigger. Seleziona l’e-mail e aggiungi **Predittivo** vincolo, definito come **true**.
+1. Se utilizzi l&#39;origine e-mail per il contenuto predittivo, aggiungi il trigger **Clic sul collegamento e-mail**. Seleziona l&#39;e-mail e aggiungi il vincolo **Is Predictive**, definito come **true**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 
@@ -63,12 +63,12 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
    >
    >Con più trigger, una persona passa al flusso se viene attivato UNO QUALSIASI dei trigger.
 
-   Per eseguire la campagna su un set di persone contemporaneamente, scopri come [definire un elenco avanzato per una campagna intelligente batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Per eseguire la campagna su un gruppo di persone contemporaneamente, scopri come [definire un elenco smart per una campagna smart batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definisci elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Definire un elenco avanzato per le attività di personalizzazione web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
-   >* [Abilitare il contenuto predittivo per i contenuti rich media web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
-   >* [Abilitare la barra dei consigli dei contenuti](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)
+   >* [Definire un elenco avanzato per le attività di Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/define-a-smart-list-for-web-personalization-activities.md)
+   >* [Abilita contenuto predittivo per contenuti multimediali avanzati Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+   >* [Attiva la barra dei contenuti](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md)

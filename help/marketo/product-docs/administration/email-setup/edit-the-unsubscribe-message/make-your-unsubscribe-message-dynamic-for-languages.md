@@ -21,23 +21,23 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
 ## Preparare i dati {#prepare-your-data}
 
-1. [Creare un campo personalizzato](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) denominata &quot;Preferred Language&quot;. (configuralo nel tuo CRM se vuoi che questo campo venga sincronizzato).
+1. [Crea un campo personalizzato](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md) denominato &quot;Lingua preferita&quot;. (configuralo nel tuo CRM se vuoi che questo campo venga sincronizzato).
 
    >[!TIP]
    >
-   >In futuro, utilizza questo campo quando [creare un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) per acquisire la preferenza della lingua.
+   >In futuro, utilizzare questo campo quando si [crea un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) per acquisire le preferenze della lingua.
 
 ## Crea segmentazione {#create-segmentation}
 
-1. Vai a **[!UICONTROL Database]**.
+1. Vai al **[!UICONTROL database]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-1.png)
 
-1. In **[!UICONTROL Nuovo]** a discesa, fai clic su **[!UICONTROL Nuova segmentazione]**.
+1. Nel menu a discesa **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuova segmentazione]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Denomina la segmentazione **[!UICONTROL Lingua preferita]**. Clic **[!UICONTROL Aggiungi segmento]**. Digita in una lingua.
+1. Denomina la segmentazione **[!UICONTROL Lingua preferita]**. Fai clic su **[!UICONTROL Aggiungi segmento]**. Digita in una lingua.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 
@@ -53,7 +53,7 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-5.png)
 
-1. Vai a **[!UICONTROL Elenco avanzato]** scheda. Invio **[!UICONTROL Lingua preferita]** nel campo di ricerca. Trascina e rilascia il filtro nell’area di lavoro.
+1. Passa alla scheda **[!UICONTROL Elenco avanzato]**. Immetti **[!UICONTROL Lingua preferita]** nel campo di ricerca. Trascina e rilascia il filtro nell’area di lavoro.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-6.png)
 
@@ -61,21 +61,21 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-7.png)
 
-1. Ripeti per tutte le diverse lingue. Quindi, seleziona la **[!UICONTROL Azioni di segmentazione]** e fai clic su **[!UICONTROL Approva]**.
+1. Ripeti per tutte le diverse lingue. Quindi, seleziona l&#39;elenco a discesa **[!UICONTROL Azioni di segmentazione]** e fai clic su **[!UICONTROL Approva]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-8.png)
 
 ## Creare uno snippet {#create-a-snippet}
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-9.png)
 
-1. In **[!UICONTROL Nuovo]** a discesa, fai clic su **[!UICONTROL Nuovo snippet]**.
+1. Nel menu a discesa **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuovo snippet]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-10.png)
 
-1. Denomina lo snippet **Messaggio di annullamento iscrizione**. Fai clic su **[!UICONTROL Crea]**.
+1. Denomina il frammento **Messaggio di annullamento sottoscrizione**. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-11.png)
 
@@ -83,27 +83,27 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-12.png)
 
-1. Copia e incolla questo token: `{{system.unsubscribeLink}}` in **[!UICONTROL URL]** campo. Clic **[!UICONTROL Inserisci]**.
+1. Copia e incolla questo token: `{{system.unsubscribeLink}}` nel campo **[!UICONTROL URL]**. Fare clic su **[!UICONTROL Inserisci]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-13.png)
 
-1. Seleziona **[!UICONTROL Segmento per]** nel **[!UICONTROL Segmentazione]** sezione.
+1. Seleziona **[!UICONTROL Segmento di]** nella sezione **[!UICONTROL Segmentazione]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-14.png)
 
-1. Dalla sezione **[!UICONTROL Segmentazione]** a discesa, digitare **[!UICONTROL Preferito]** e seleziona **[!UICONTROL Lingua preferita]**. Clic **[!UICONTROL Salva]**.
+1. Dal menu a discesa **[!UICONTROL Segmentazione]**, digita in **[!UICONTROL Preferred]** e seleziona **[!UICONTROL Preferred Language]**. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Seleziona un segmento dalla struttura. Fai clic sul collegamento per annullare l’iscrizione, quindi sull’icona del collegamento.
+1. Seleziona un segmento dalla struttura. Fai clic sull’icona di annullamento dell’abbonamento e quindi sull’icona del collegamento.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
-1. Assicurati che `{{system.unsubscribeLink}}` è ancora in **[!UICONTROL URL]** campo. Modifica il **[!UICONTROL Visualizza testo]** in base alla lingua selezionata. Clic **[!UICONTROL Applica]**.
+1. Assicurarsi che `{{system.unsubscribeLink}}` sia ancora nel campo **[!UICONTROL URL]**. Modifica il **[!UICONTROL Testo visualizzato]** in base alla lingua selezionata. Fare clic su **[!UICONTROL Applica]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-17.png)
 
-1. Ripeti per tutti i segmenti. Quindi, torna al **[!UICONTROL Design Studio]**, fare clic su **[!UICONTROL Azioni snippet]** e fai clic su **[!UICONTROL Approva]**.
+1. Ripeti per tutti i segmenti. Quindi, torna a **[!UICONTROL Design Studio]**, fai clic sul menu a discesa **[!UICONTROL Azioni snippet]** e fai clic su **[!UICONTROL Approva]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
@@ -111,19 +111,19 @@ Fantastico. Ci siamo quasi!
 
 ## Utilizzare lo snippet in un messaggio e-mail {#use-snippet-in-an-email}
 
-1. Nell’editor e-mail, fai clic sull’elemento modificabile. Quindi fai clic sull’icona a forma di ingranaggio e seleziona. **[!UICONTROL Sostituisci con snippet]**. Se selezioni un elemento snippet modificabile, fai clic sull’icona a forma di ingranaggio e seleziona **[!UICONTROL Modifica]**.
+1. Nell’editor e-mail, fai clic sull’elemento modificabile. Fare quindi clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Sostituisci con snippet]**. Se selezioni un elemento snippet modificabile, fai clic sull&#39;icona a forma di ingranaggio e seleziona **[!UICONTROL Modifica]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
-1. Trova e seleziona il frammento di codice dall’elenco a discesa e fai clic su **[!UICONTROL Salva]**.
+1. Trova e seleziona il tuo frammento di codice dall&#39;elenco a discesa, quindi fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-20.png)
 
-1. Per verificarlo, fai clic su **[!UICONTROL Indietro]**...
+1. Per eseguire il test, fare clic su **[!UICONTROL Indietro]**...
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-21.png)
 
-1. ...quindi il **[!UICONTROL Dinamico]** scheda.
+1. ...quindi la scheda **[!UICONTROL Dynamic]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-22.png)
 
@@ -139,23 +139,23 @@ Fantastico. Ci siamo quasi!
 
 Se desideri che le persone visitino una pagina per l’annullamento dell’abbonamento nella lingua preferita, puoi utilizzare il contenuto dinamico nelle pagine di destinazione e di conferma.
 
-1. Accedi a **[!UICONTROL Design Studio]**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-24.png)
 
-1. Digitare in _Annulla iscrizione_ nel campo di ricerca e seleziona la pagina di annullamento dell’abbonamento desiderata.
+1. Digitare _Annulla sottoscrizione_ nel campo di ricerca e selezionare la pagina di annullamento dell&#39;iscrizione desiderata.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-25.png)
 
-1. Clic **[!UICONTROL Modifica bozza]**.
+1. Fare clic su **[!UICONTROL Modifica bozza]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-26.png)
 
-1. Seleziona **[!UICONTROL Segmento per]**.
+1. Seleziona **[!UICONTROL Segmento Per]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-27.png)
 
-1. Trova il **[!UICONTROL Lingua preferita]** segmento. Clic **[!UICONTROL Salva]**.
+1. Trova il segmento **[!UICONTROL Lingua preferita]**. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
@@ -163,4 +163,4 @@ Se desideri che le persone visitino una pagina per l’annullamento dell’abbon
 
    >[!NOTE]
    >
-   >Ulteriori informazioni su [contenuto dinamico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e tutte le cose interessanti che puoi fare.
+   >Ulteriori informazioni su [contenuti dinamici](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e su tutte le operazioni più interessanti.

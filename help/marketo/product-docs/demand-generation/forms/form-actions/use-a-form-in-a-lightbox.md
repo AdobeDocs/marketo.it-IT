@@ -23,7 +23,7 @@ Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si de
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. Sotto **Azioni modulo**, fai clic su **Codice di incorporamento**.
+1. In **Azioni modulo**, fai clic su **Codice di incorporamento**.
 
    >[!NOTE]
    >
@@ -31,7 +31,7 @@ Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si de
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Imposta **Tipo di codice** a **Lightbox**.
+1. Imposta **Tipo di codice** su **Lightbox**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 

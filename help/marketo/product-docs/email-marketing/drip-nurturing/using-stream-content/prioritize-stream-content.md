@@ -19,7 +19,7 @@ Dopo aver aggiunto il contenuto al flusso, potrebbe essere utile modificare la p
 
    ![](assets/ma.png)
 
-1. Seleziona il programma di coinvolgimento e fai clic su **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **Streams**.
 
    ![](assets/cloneasteam-1.jpg)
 

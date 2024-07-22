@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >**Definizione**
 >
->Modulo **Suggerimenti** è il testo che all’interno del campo scompare quando il visitatore inizia a digitare nel campo.
+>Il modulo **Suggerimenti** è costituito da testo all&#39;interno del campo che scompare quando il visitatore inizia a digitare nel campo.
 >
->Modulo **Istruzioni** sono piccole descrizioni che appaiono quando il visitatore passa il mouse sul campo.
+>Le **istruzioni** per il modulo sono descrizioni comandi che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
 1. Vai a **Attività di marketing**.
 
@@ -31,21 +31,21 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Seleziona il campo e immetti **Istruzioni**.
+1. Seleziona il campo e immetti **istruzioni**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 
    >[!NOTE]
    >
-   >Non dimenticare di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
+   >Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 

@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >Puoi anche impedire l’aggiornamento di un campo. Per ulteriori informazioni, consulta Bloccare aggiornamenti a un campo.
 
-1. Nella scheda Flusso della campagna avanzata, riporta **[!UICONTROL Modifica dati membro programma]** e scegliere il programma desiderato.
+1. Nella scheda Flusso di Smart Campaign, richiama il passaggio di flusso **[!UICONTROL Modifica dati membro del programma]** e scegli il programma desiderato.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Puoi anche utilizzare i token in [!UICONTROL Nuovo valore].
+>È inoltre possibile utilizzare i token in [!UICONTROL Nuovo valore].
 
 Ora esegui Smart Campaign ed è tutto pronto!
 
@@ -42,5 +42,5 @@ Ora esegui Smart Campaign ed è tutto pronto!
 
 >[!MORELIKETHIS]
 >
->* [Utilizzare i token nei passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
->* [Aggiungere dati a un campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}
+>* [Usa token nei passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}
+>* [Aggiungi dati a un campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/append-data-to-a-field.md){target="_blank"}

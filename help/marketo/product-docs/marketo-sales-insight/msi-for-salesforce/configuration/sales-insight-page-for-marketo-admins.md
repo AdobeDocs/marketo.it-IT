@@ -29,16 +29,16 @@ Queste credenziali vengono utilizzate per collegare l’account Salesforce all�
 
 ## Impostazioni punteggio persona {#person-score-settings}
 
-* **Stelle**: le stelle rappresentano il punteggio totale di lead rispetto ad altri lead.
-* **Fiamme**: le fiamme rappresentano l’urgenza - quanto il punteggio di un lead è cambiato di recente.
+* **Stelle**: le stelle rappresentano il punteggio lead totale rispetto ad altri lead.
+* **Fiamme**: le fiamme rappresentano l&#39;urgenza - quanto è cambiato di recente il punteggio di un lead.
 
 Per impostazione predefinita, Marketo Sales Insight utilizza il campo Punteggio lead per calcolare le stelle e le fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
-1. In **Amministratore** di Marketo, fai clic su **Insight sulle vendite**.
+1. Nell&#39;area **Admin** di Marketo, fare clic su **Sales Insight**.
 
    ![](assets/four.png)
 
-1. In Impostazioni punteggio lead, fai clic su **Modifica**.
+1. In Impostazioni punteggio lead fare clic su **Modifica**.
 
    ![](assets/five.png)
 
@@ -50,13 +50,13 @@ Per impostazione predefinita, Marketo Sales Insight utilizza il campo Punteggio 
 
    ![](assets/seven.png)
 
-1. Clic **Salva**. Il ricalcolo degli approfondimenti sulle vendite richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
+1. Fai clic su **Salva**. Il ricalcolo degli approfondimenti sulle vendite richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Se non disponi già dei campi di punteggio personalizzati, ecco come [crearle](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
+   >Se non disponi già dei campi di punteggio personalizzati, ecco come [crearli](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md).
 
    >[!MORELIKETHIS]
    >
@@ -66,7 +66,7 @@ Per impostazione predefinita, Marketo Sales Insight utilizza il campo Punteggio 
 
 ![](assets/nine.png)
 
-**Impostazioni annullamento iscrizione:**
+**Impostazioni annullamento sottoscrizione:**
 
 Puoi scegliere una delle seguenti impostazioni per annullare l’iscrizione a Nessun modello, e-mail standard e e e-mail operative
 
@@ -75,17 +75,17 @@ Puoi scegliere una delle seguenti impostazioni per annullare l’iscrizione a Ne
 * Rispetta le impostazioni per l’annullamento dell’iscrizione quando più di 5 destinatari
 * Ignora impostazioni annullamento iscrizione
 
-**Abilita la possibilità di bloccare i modelli:**
+**Possibilità di bloccare i modelli:**
 
 Se questa opzione è abilitata, gli utenti MSI non potranno modificare i modelli durante l’invio di e-mail da Salesforce
 
-**Attiva feed RSS:**
+**Abilita feed RSS:**
 
 Quando questa opzione è abilitata, gli utenti MSI possono visualizzare il proprio feed lead in un feed RSS (oltre al feed lead in Salesforce). Il feed RSS può funzionare solo se la funzione &quot;Scadenza token&quot; è disabilitata.
 
 **Scadenza token:**
 
-La scadenza del token è controllata in Feature Manager. Per abilitarlo o disabilitarlo, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Se abilitati, tutti i token Marketo scadono entro 10 minuti. Se disabilitati, i token Marketo non scadranno.
+La scadenza del token è controllata in Feature Manager. Per attivarlo o disattivarlo, contattare il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Se abilitati, tutti i token Marketo scadono entro 10 minuti. Se disabilitati, i token Marketo non scadranno.
 
 I token generati prima dell’abilitazione della scadenza del token non avranno un tempo di scadenza per la convalida, pertanto non scadranno anche se la funzione è attualmente abilitata.
 

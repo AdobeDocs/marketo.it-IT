@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Rapporto sulle prestazioni e-mail della campagna {#campaign-email-performance-report}
 
-Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail della campagna.
+Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail di Campaign.
 
-1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona la **Prestazioni e-mail campagna** [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **Prestazioni e-mail campagna** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Impostare l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Report** scheda.
+1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **Report**.
 
 1. Ora esplora il rapporto per visualizzare le prestazioni di ogni e-mail nelle campagne.
 
@@ -27,7 +27,7 @@ Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [
    >
    >Fai clic sul nome di un’e-mail per aprirla in Anteprima e-mail.
 
-   [Colonne selezionabili](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)i rapporti sulle prestazioni e-mail di una campagna includono:
+   [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)per un report sulle prestazioni e-mail di una campagna includono:
 
    | Colonna | Descrizione |
    |---|---|
@@ -35,13 +35,13 @@ Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [
    | Rimbalzo morbido | L&#39;e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa. |
    | In sospeso | L’e-mail è ancora in fase di consegna. |
    | Collegamento selezionato | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
-   | Annulla l&#39;iscrizione | Numero di destinatari e-mail che hanno fatto clic su **Annulla iscrizione** nell’e-mail e ha compilato il modulo. |
+   | Annulla l&#39;iscrizione | Numero di destinatari e-mail che hanno fatto clic sul collegamento **Annulla iscrizione** nell&#39;e-mail e hanno compilato il modulo. |
 
    >[!NOTE]
    >
-   >In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente l’ha aperto prima. Per le regole specifiche che seguiamo, vedi [Rapporto prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente l’ha aperto prima. Per le regole specifiche che seguiamo, consulta il [Rapporto sulle prestazioni delle e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Filtrare le risorse in un rapporto e-mail per campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+   >* [Filtrare Assets in un report e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
    >* [Rapporto prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)

@@ -23,11 +23,11 @@ Per creare un report di analisi dell&#39;appartenenza al programma che mostri tu
 
    ![](assets/one.png)
 
-1. Clic **Crea nuovo** allora **Report**.
+1. Fai clic su **Crea nuovo** e quindi su **Report**.
 
    ![](assets/two.png)
 
-1. Seleziona **Analisi dell’iscrizione al programma** e fai clic su **OK**.
+1. Seleziona **Analisi appartenenza programma** e fai clic su **OK**.
 
    ![](assets/three.png)
 
@@ -47,13 +47,13 @@ Vedi quanto è stato facile?
 
 ![](assets/seven.png)
 
-Puoi aggiungere rapidamente un attributo del lead, ad esempio _Nome e cognome_ per vedere i membri.
+Puoi aggiungere rapidamente un attributo del lead, ad esempio _Nome completo_, per vedere chi sono i membri.
 
 >[!TIP]
 >
 >Sono disponibili numerosi attributi lead/società tra cui scegliere. Controllateli!
 
-1. Trova e fai doppio clic su **Nome e cognome** punto giallo.
+1. Trova e fai doppio clic sul punto giallo **Nome completo**.
 
    ![](assets/eight.png)
 

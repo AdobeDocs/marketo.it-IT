@@ -19,28 +19,28 @@ Eliminare immagini o file è facile e veloce.
 >
 >Una volta eliminate, le immagini/i file vengono completamente rimossi dal Marketo Engage e non possono essere recuperati.
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/delete-an-uploaded-image-or-file-1.png)
 
-1. Seleziona **[!UICONTROL Immagini e file]**
+1. Seleziona **[!UICONTROL immagini e file]**
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Individuare e selezionare l&#39;immagine o il file desiderato. Fai clic su **[!UICONTROL Azioni immagine e file]** a discesa e selezionare **[!UICONTROL Elimina]**.
+1. Individuare e selezionare l&#39;immagine o il file desiderato. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Elimina]**.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 
-1. Verifica di aver selezionato il file corretto e fai clic su **[!UICONTROL Elimina]**.
+1. Verificare di aver selezionato il file corretto e fare clic su **[!UICONTROL Elimina]**.
 
    ![](assets/delete-an-uploaded-image-or-file-4.png)
 
    >[!NOTE]
    >
-   >Le risorse non vengono eliminate se sono attualmente in uso.
+   >Assets non eliminerà i file attualmente in uso.
 
 >[!MORELIKETHIS]
 >
->* [Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>* [Sostituisci un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
 >* [Cerca immagini e file caricati](/help/marketo/product-docs/demand-generation/images-and-files/search-uploaded-images-and-files.md){target="_blank"}
->* [Trovare l’URL di un’immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}
+>* [Trovare l&#39;URL di un&#39;immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md){target="_blank"}

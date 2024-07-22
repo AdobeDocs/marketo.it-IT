@@ -21,7 +21,7 @@ Se l&#39;utente di Marketo Sync è impostato su una lingua diversa dall&#39;ingl
 
 ## Come aggirare il problema {#getting-around-it}
 
-1. Accedi a [!DNL Salesforce] utilizzo dell&#39;utente marketo sync.
+1. Accedere a [!DNL Salesforce] utilizzando l&#39;utente marketo sync.
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
@@ -29,15 +29,15 @@ Se l&#39;utente di Marketo Sync è impostato su una lingua diversa dall&#39;ingl
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. Sotto **[!UICONTROL Informazioni personali]**, fai clic su **[!UICONTROL Informazioni personali]**.
+1. In **[!UICONTROL Informazioni personali]**, fare clic su **[!UICONTROL Informazioni personali]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Modificare il **[!UICONTROL Lingua]** a **[!UICONTROL Inglese]**.
+1. Cambia la **[!UICONTROL lingua]** in **[!UICONTROL inglese]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
@@ -45,7 +45,7 @@ Se l&#39;utente di Marketo Sync è impostato su una lingua diversa dall&#39;ingl
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. Torna a Marketo, sotto **[!UICONTROL Amministratore]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Oggetti]**, fai clic su **[!UICONTROL Aggiorna schema]**.
+1. In Marketo, in **[!UICONTROL Amministratore]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Oggetti]**, fai clic su **[!UICONTROL Aggiorna schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 

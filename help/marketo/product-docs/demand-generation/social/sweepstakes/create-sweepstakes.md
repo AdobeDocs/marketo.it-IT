@@ -5,7 +5,7 @@ title: Crea punteggi
 exl-id: c16c03df-86d0-40ee-ad95-3c2653fa2a07
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Una posta in gioco dà alle persone la possibilità di vincere un premio in camb
 
    ![](assets/image2014-9-25-17-3a29-3a20.png)
 
-1. Nella Raccolta risorse locali, fai clic su **Paletti**.
+1. Nella Raccolta risorse locali, fai clic su **Puntate**.
 
    ![](assets/image2014-9-25-17-3a29-3a31.png)
 
@@ -32,11 +32,11 @@ Una posta in gioco dà alle persone la possibilità di vincere un premio in camb
 
    >[!TIP]
    >
-   >Per risparmiare tempo, puoi utilizzare **Clona da** per copiare tutte le impostazioni da una sweepstakes esistente.
+   >Per risparmiare tempo, è possibile utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una sweepstakes esistente.
 
    L’editor di sweepstakes viene aperto in una nuova finestra. Le impostazioni predefinite sono tutte valide, ma è comunque necessario configurare alcuni dettagli. Nei passaggi successivi verrà illustrato come.
 
-1. Clic **Dettagli delle puntate**.
+1. Fare clic su **Dettagli azioni di sweep**.
 
    ![](assets/image2014-9-25-17-3a32-3a37.png)
 
@@ -48,7 +48,7 @@ Una posta in gioco dà alle persone la possibilità di vincere un premio in camb
    >
    >Per i disegni giornalieri e settimanali, l&#39;ora di inizio e di fine sono fissate rispettivamente alle ore 12.00 e alle 23.59. Per un disegno occasionale, potete scegliere l&#39;ora di inizio e di fine desiderate.
 
-1. Clic **Opzioni avanzate**.
+1. Fare clic su **Opzioni avanzate**.
 
    ![](assets/image2014-9-25-17-3a33-3a19.png)
 
@@ -60,19 +60,19 @@ Una posta in gioco dà alle persone la possibilità di vincere un premio in camb
 
    >[!NOTE]
    >
-   >In questa schermata puoi anche aggiungere un collegamento all’informativa sulla privacy. Consulta [Aggiungere l’informativa sulla privacy a un’app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >In questa schermata puoi anche aggiungere un collegamento all’informativa sulla privacy. Consulta [Aggiungere l&#39;informativa sulla privacy a un&#39;app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-25-17-3a34-3a2.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-25-17-3a34-3a15.png)
 
    >[!TIP]
    >
-   >Per modificare uno dei valori predefiniti, fate clic su **Indietro**. Per salvare il lavoro per un momento successivo senza approvazione, fai clic su **Chiudi**.
+   >Per modificare le impostazioni predefinite, fare clic su **Indietro**. Per salvare il lavoro per un momento successivo senza approvazione, fare clic su **Chiudi**.
 
 In caso di problemi, verrà richiesto di risolverli prima dell&#39;approvazione dei pali.
 
@@ -80,4 +80,4 @@ Congratulazioni! Hai creato una posta in gioco.
 
 >[!MORELIKETHIS]
 >
->Il passaggio successivo consiste nel [pubblicare le tue puntate](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), ma puoi modificare l’aspetto e le impostazioni delle tue puntine. Inizia con [personalizzazione degli stili di sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).
+>Il passaggio successivo consiste nel [pubblicare le tue puntate](/help/marketo/product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md), ma puoi modificare l&#39;aspetto e le impostazioni delle puntate. Inizia con [personalizzare gli stili delle puntate](/help/marketo/product-docs/demand-generation/social/sweepstakes/customize-sweepstakes-styles.md).

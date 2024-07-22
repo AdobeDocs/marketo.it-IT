@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Creare uno snippet {#create-a-snippet}
 
-I frammenti possono essere utilizzati come blocchi di contenuto dinamici in **email** e **pagine di destinazione**.
+I frammenti possono essere utilizzati come blocchi di contenuto dinamici nelle **e-mail** e nelle **pagine di destinazione**.
 
-1. Vai a **Design Studio**
+1. Vai a **Design Studio.**
 
    ![](assets/designstudio.png)
 
-1. Clic **Nuovo** e poi **Nuovo snippet**.
+1. Fare clic su **Nuovo** e quindi su **Nuovo snippet**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Inserisci i dettagli richiesti e fai clic su **Crea**.
+1. Immetti i dettagli richiesti e fai clic su **Crea**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 
-Ottimo lavoro! Semplifica il tuo lavoro creando snippet per il contenuto dinamico. Ora puoi andare avanti e [aggiungi contenuto al nuovo snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
+Ottimo lavoro! Semplifica il tuo lavoro creando snippet per il contenuto dinamico. Ora puoi continuare e [aggiungere contenuto al nuovo frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md).
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere contenuto a uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
->* [Informazioni sui contenuti dinamici](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)
+>* [Aggiungi contenuto a frammento](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/add-content-to-a-snippet.md)
+>* [Informazioni sul contenuto dinamico](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md)

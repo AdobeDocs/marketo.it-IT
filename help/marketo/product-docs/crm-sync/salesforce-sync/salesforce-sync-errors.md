@@ -20,11 +20,11 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
 ## Visualizza errori di sincronizzazione {#view-sync-errors}
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/salesforce-sync-errors-1.png)
 
-1. In Integrazione, fai clic su **Salesforce**, quindi **[!UICONTROL Errori di sincronizzazione]** scheda.
+1. In Integrazione, fai clic su **Salesforce**, quindi sulla scheda **[!UICONTROL Errori di sincronizzazione]**.
 
    ![](assets/salesforce-sync-errors-2.png)
 
@@ -34,7 +34,7 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
 | Campo | Descrizione |
 |---|---|
-| Non riuscito il | Livello record _o_ Livello di lavoro |
+| Non riuscito il | Livello record _o_ livello processo |
 | Data/ora dell’errore | Dettagli errore |
 | Tipo di errore | Messaggio restituito SFDC |
 
@@ -48,10 +48,10 @@ Visualizza un riepilogo degli errori riscontrati durante il processo di sincroni
 
    ![](assets/salesforce-sync-errors-3.png)
 
-1. Seleziona l’intervallo di date e ore, quindi filtra per tipo di errore (livello processo o livello record). Clic **[!UICONTROL Applica]** al termine.
+1. Seleziona l’intervallo di date e ore, quindi filtra per tipo di errore (livello processo o livello record). Al termine, fai clic su **[!UICONTROL Applica]**.
 
    ![](assets/salesforce-sync-errors-4.png)
 
-**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fai clic su **[!UICONTROL Esporta]**. I dati verranno esportati come file CSV.
+**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fare clic su **[!UICONTROL Esporta]**. I dati verranno esportati come file CSV.
 
 ![](assets/salesforce-sync-errors-5.png)

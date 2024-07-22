@@ -6,7 +6,7 @@ exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Questa versione include funzioni social integrate e molto attese, oltre a utili funzioni di gestione dei lead. Nota: le funzioni social network sono disponibili come componente aggiuntivo o come parte di bundle selezionati.
 
-## Pubblicare un video YouTube con condivisione tramite social network {#publish-a-youtube-video-with-social-sharing}
+## Video Publish a YouTube con condivisione tramite social network {#publish-a-youtube-video-with-social-sharing}
 
 Amplifica il pubblico per i tuoi video incoraggiando i visitatori a condividerli socialmente, utilizzando il nuovo Condivisione video sulle pagine di destinazione.
 
@@ -33,7 +33,7 @@ Ottieni informazioni approfondite e riduci gli attriti consentendo ai lead di pr
 
 ![](assets/image2014-9-23-10-3a40-3a2.png)
 
-## Pubblicare pagine di destinazione in Facebook {#publish-landing-pages-to-facebook}
+## Pagine di destinazione Publish per Facebook {#publish-landing-pages-to-facebook}
 
 Amplia la portata delle pagine di destinazione pubblicandole direttamente in Facebook, complete di app social, moduli e tutte le funzionalità delle pagine di destinazione di Marketo.
 

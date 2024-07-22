@@ -1,8 +1,8 @@
 ---
 description: Scheda Impostazioni - Documentazione di Marketo - Documentazione del prodotto
 title: Scheda Impostazioni
-exl-id: 44bb3227-4d77-47db-88ef-aafc2ddf3c74
-source-git-commit: d41324dbde32ee731b3ce9c3416888e8088a2daa
+exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '303'
 ht-degree: 1%
@@ -15,9 +15,9 @@ La scheda Impostazioni contiene tutte le impostazioni della campagna, inclusi gl
 
 Include le tre sezioni seguenti.
 
-* **Regole di qualificazione**: determina quante volte ogni persona può eseguire il flusso di Smart Campaign.
+* **Regole di qualificazione**: determina quante volte ogni persona può essere eseguita attraverso il flusso di Smart Campaign.
 
-* **Singole esecuzioni**: può essere utilizzato per pianificare esecuzioni singole immediatamente o in futuro.
+* **Singole esecuzioni**: può essere utilizzato per pianificare singole esecuzioni immediatamente o in futuro.
 
 * **Ricorrenza**: utilizzato per pianificare una ricorrenza giornaliera, settimanale o mensile.
 

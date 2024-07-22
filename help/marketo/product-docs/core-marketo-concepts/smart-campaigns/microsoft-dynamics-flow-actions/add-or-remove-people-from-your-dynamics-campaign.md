@@ -31,7 +31,7 @@ In Smart Campaign, individua e seleziona la campagna Dynamics a cui desideri agg
 >* Assicurati che Campaign Sync sia funzionante
 >* La campagna non è attiva in [!DNL Microsoft Dynamics]
 
-Il sistema crea automaticamente un elenco di marketing statico specifico per la campagna, ciascuno per lead e contatti, a cui aggiungere la persona. Si tratta di un’azione una tantum; per le successive sincronizzazioni con la campagna, viene utilizzato lo stesso elenco di marketing. Lo standard di denominazione adottato per il nome dell’elenco di marketing statico è `Mkto-leads-<uniqueID>` per lead e `Mkto-contacts-<uniqueID>` per i contatti.
+Il sistema crea automaticamente un elenco di marketing statico specifico per la campagna, ciascuno per lead e contatti, a cui aggiungere la persona. Si tratta di un’azione una tantum; per le successive sincronizzazioni con la campagna, viene utilizzato lo stesso elenco di marketing. Lo standard di denominazione adottato per il nome dell&#39;elenco di marketing statico è `Mkto-leads-<uniqueID>` per i lead e `Mkto-contacts-<uniqueID>` per i contatti.
 
 L’associazione di questi elenchi di marketing generati da Marketo ad altre campagne potrebbe causare confusione. Ad esempio: l’aggiunta a una campagna determinerebbe anche l’aggiunta alla seconda campagna. Allo stesso modo, non è consigliabile dissociare l’elenco di marketing generato da Marketo dalla campagna in Dynamics.
 

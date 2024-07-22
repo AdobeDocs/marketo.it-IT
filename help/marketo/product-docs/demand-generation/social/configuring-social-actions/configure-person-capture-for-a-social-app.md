@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurare l’acquisizione della persona per un’app social {#configure-person-capture-for-a-social-app}
 
-Quando si crea un [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o un [pali](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), è possibile configurare le informazioni richieste e quelle richieste alle persone per la partecipazione.
+Quando crei una [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [puntata](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi configurare le informazioni richieste e quelle necessarie agli utenti per partecipare.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Quando si crea un [offerta di riferimento](/help/marketo/product-docs/demand-gen
 
    ![](assets/ma-2.png)
 
-1. Seleziona l’app e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-22-10-3a57-3a57.png)
 
-1. Nell’editor delle app social, vai a **Flusso registrazione** > **Acquisizione della persona**.
+1. Nell&#39;editor dell&#39;app social, vai a **Flusso per l&#39;iscrizione** > **Acquisizione persona**.
 
    ![](assets/three-1.png)
 
@@ -38,16 +38,16 @@ Quando si crea un [offerta di riferimento](/help/marketo/product-docs/demand-gen
    Includi opzioni di marketing:
 
    * **Rinuncia**: la persona è abbonata per impostazione predefinita.
-   * **Consenso**: la persona può scegliere di abbonarsi.
+   * **Consenso**: la persona può scegliere di iscriversi.
 
    >[!NOTE]
    >
-   >In entrambi i casi, i partecipanti riceveranno comunque il [_operative_ email](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) dalla tua offerta.
+   >In entrambi i casi, i partecipanti riceveranno comunque le [_e-mail operative_](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) dalla tua offerta.
 
-1. Nella finestra Visualizza e modifica, fai clic su **Mostra modifiche** e modificare i messaggi nel prompt di condivisione.
+1. Nella finestra Visualizza e modifica fare clic su **Mostra modifiche** e modificare i messaggi nel prompt di condivisione.
 
    ![](assets/image2014-9-22-11-3a2-3a56.png)
 
 >[!MORELIKETHIS]
 >
->Ora puoi [configurare il flusso di registrazione social network](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) e modificare i messaggi di condivisione che verranno inviati a ciascun social network.
+>Ora puoi [configurare il flusso di iscrizione al social network](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) e modificare i messaggi di condivisione che verranno inviati a ogni social network.

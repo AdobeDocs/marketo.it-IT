@@ -23,7 +23,7 @@ In genere, i nuovi campi personalizzati in Salesforce vengono sincronizzati auto
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-1.png)
 
-1. Immetti &quot;profile&quot; nella barra di ricerca a sinistra e fai clic su **[!UICONTROL Profili]** in **[!UICONTROL Gestisci utenti]**.
+1. Immetti &quot;profile&quot; nella barra di ricerca a sinistra e fai clic su **[!UICONTROL Profiles]** in **[!UICONTROL Manage Users]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-2.png)
 
@@ -31,15 +31,15 @@ In genere, i nuovi campi personalizzati in Salesforce vengono sincronizzati auto
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-3.png)
 
-1. Sotto **[!UICONTROL Sicurezza a livello di campo]** , fare clic su **[!UICONTROL Visualizza]** accanto all&#39;oggetto che contiene il campo.
+1. Nella sezione **[!UICONTROL Sicurezza a livello di campo]**, fai clic su **[!UICONTROL Visualizza]** accanto all&#39;oggetto che contiene il campo.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-4.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-5.png)
 
-1. Controlla la **[!UICONTROL Visibile]** casella di controllo per il campo da aggiungere alla sincronizzazione e fare clic su **[!UICONTROL Salva]**.
+1. Selezionare la casella di controllo **[!UICONTROL Visibile]** per il campo che si desidera aggiungere alla sincronizzazione e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-an-existing-salesforce-field-to-the-marketo-sync-6.png)
 

@@ -4,8 +4,8 @@ title: Registrazione degli attributi dell'attività di vendita in Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
 source-git-commit: 544dfc0892016223c1e5976bd8c9d108ade7c984
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 5%
+source-wordcount: '292'
+ht-degree: 8%
 
 ---
 
@@ -17,17 +17,17 @@ L’amministratore di Salesforce può aggiungere manualmente campi di attività 
 
 1. Cerca &quot;Campi personalizzati attività&quot; nel campo di ricerca rapida e fai clic su di esso.
 
-1. Clic **Nuovo**.
+1. Fare clic su **Nuovo**.
 
-1. Seleziona il Tipo di dati corrispondente al campo da aggiungere in base alla tabella seguente e fai clic su **Successivo**.
+1. Seleziona il Tipo di dati corrispondente al campo che desideri aggiungere in base alla tabella seguente e fai clic su **Avanti**.
 
 1. Immettere il nome e l&#39;etichetta del campo corrispondenti al campo che si desidera aggiungere.
 
 Descrizione di ciascuna colonna della tabella seguente:
 
-* **Etichetta campo**: nome del campo visualizzato nell’interfaccia utente (può essere personalizzato dal team per migliorarne la leggibilità)
-* **Nome campo**: nome tecnico del campo (assicurati che il nome del campo immesso corrisponda al nome del campo nella tabella seguente)
-* **Nome API**: nome tecnico del campo per API (assicurati che il nome API immesso corrisponda al nome API nella tabella seguente)
+* **Etichetta campo**: nome del campo visualizzato nell&#39;interfaccia utente (può essere personalizzato dal team per migliorarne la leggibilità)
+* **Nome campo**: nome tecnico del campo (verificare che il nome del campo immesso corrisponda al nome del campo nella tabella seguente)
+* **Nome API**: nome tecnico del campo per API (verificare che il nome API immesso corrisponda al nome API nella tabella seguente)
 * **Tipo di dati**: tipo di campo
 * **Dimensione**: dimensione del campo di testo
 

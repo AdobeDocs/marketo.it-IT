@@ -34,16 +34,16 @@ Nelle schede Me e Team troverai informazioni sulle offerte chiuse. Questo numero
 
 ## Scheda Me {#me-tab}
 
-Il [Scheda Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} è un ottimo punto per controllare il coinvolgimento delle e-mail, dei modelli e dei collegamenti. Se sei un amministratore di Sales Insight Actions, puoi filtrare in base a qualsiasi utente del tuo team per visualizzarne le statistiche.
+La [scheda Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} è un&#39;ottima posizione per controllare il coinvolgimento delle e-mail, dei modelli e dei collegamenti. Se sei un amministratore di Sales Insight Actions, puoi filtrare in base a qualsiasi utente del tuo team per visualizzarne le statistiche.
 
 ## Scheda Team {#team-tab}
 
-In [Scheda Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, consulta statistiche e classificazioni per l’intero team. Puoi anche filtrare in base a qualsiasi team secondario creato.
+Nella [scheda Team](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md){target="_blank"}, vedi le statistiche e le classificazioni per l&#39;intero team. Puoi anche filtrare in base a qualsiasi team secondario creato.
 
 ## Scheda Contenuto {#content-tab}
 
-Il [Scheda Contenuto](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contiene statistiche su modelli, contenuto e collegamenti. Puoi filtrare per tutti o per team creati dagli amministratori.
+La [scheda Contenuto](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md){target="_blank"} contiene statistiche su modelli, contenuto e collegamenti. Puoi filtrare per tutti o per team creati dagli amministratori.
 
-Se sotto la colonna dell’oggetto è presente del testo blu, significa che il modello è condiviso. Puoi fare clic sul testo blu da portare a quel modello. Visualizzarne l’utilizzo facendo clic su **Analisi dei modelli**.
+Se sotto la colonna dell’oggetto è presente del testo blu, significa che il modello è condiviso. Puoi fare clic sul testo blu da portare a quel modello. Visualizzarne l&#39;utilizzo facendo clic su **Analisi modello**.
 
 I &quot;clic sul contenuto&quot; vengono conteggiati quando un destinatario fa clic su un collegamento nell’e-mail.

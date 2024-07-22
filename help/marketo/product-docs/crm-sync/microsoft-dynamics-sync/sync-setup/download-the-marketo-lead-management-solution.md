@@ -6,7 +6,7 @@ exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Per avviare la sincronizzazione, è necessario scaricare e installare una soluzi
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente _prima di_ esecuzione di qualsiasi aggiornamento.
+>È fondamentale scaricare la soluzione Marketo più recente _prima_ di eseguire qualsiasi aggiornamento.
 
 >[!NOTE]
 >
 >Al momento, Marketo supporta solo i certificati SSL compatibili con Java 7.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/download-the-marketo-lead-management-solution-1.png)
 
@@ -35,11 +35,11 @@ Per avviare la sincronizzazione, è necessario scaricare e installare una soluzi
 
    ![](assets/download-the-marketo-lead-management-solution-2.png)
 
-1. Seleziona **[!DNL Microsoft]**.
+1. Selezionare **[!DNL Microsoft]**.
 
    ![](assets/download-the-marketo-lead-management-solution-3.png)
 
-1. Seleziona **[!UICONTROL Scarica la soluzione Marketo]**.
+1. Selezionare **[!UICONTROL Scarica soluzione Marketo]**.
 
    ![](assets/download-the-marketo-lead-management-solution-4.png)
 

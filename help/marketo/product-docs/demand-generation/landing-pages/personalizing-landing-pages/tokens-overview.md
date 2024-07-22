@@ -87,7 +87,7 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* I campi personalizzati della persona funzionano anche se utilizzi il loro nome visualizzato, ad esempio `{{lead.Custom Field Name}}`
+* I campi persona personalizzati funzionano anche se utilizzi il loro nome visualizzato, ad esempio `{{lead.Custom Field Name}}`
 
 ## Token società {#company-tokens}
 
@@ -122,7 +122,7 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 
 >[!NOTE]
 >
->Per ulteriori informazioni su questi token, consulta [Glossario dei token di sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
+>Ulteriori informazioni su questi token sono disponibili nel [Glossario dei token di sistema](/help/marketo/product-docs/email-marketing/general/using-tokens/system-tokens-glossary.md).
 
 * `{{system.date}}`
 * `{{system.time}}`
@@ -149,7 +149,7 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 
 >[!NOTE]
 >
->Ulteriori dettagli su [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna intelligente.
+>Trova ulteriori dettagli su [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna intelligente.
 
 ## Token programma {#program-tokens}
 
@@ -159,14 +159,14 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 
 ## I miei token {#my-tokens}
 
-I miei token sono definiti all&#39;interno di un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+I miei token sono definiti in un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token membro {#member-token}
 
-I token dei membri vengono utilizzati per inserire valori univoci dai partner di servizi integrati. Un uso comune dei token di membro è quello di URL univoci per i partecipanti al webinar. Ogni persona ha un URL univoco per accedere al webinar, che può essere inserito utilizzando un `{{member.webinar url}}` token. Il `{{member.webinar url}}` Il token risolve automaticamente l’URL univoco di conferma della persona generato dal provider di servizi.
+I token dei membri vengono utilizzati per inserire valori univoci dai partner di servizi integrati. Un uso comune dei token di membro è quello di URL univoci per i partecipanti al webinar. Ogni persona dispone di un URL univoco per accedere al webinar che può essere inserito utilizzando un token `{{member.webinar url}}`. Il token `{{member.webinar url}}` risolve automaticamente l&#39;URL di conferma univoco della persona generato dal provider di servizi.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Il `{{member.webinar url}}` il token viene popolato solo se la campagna avanzata che invia l’e-mail è una risorsa secondaria del programma dell’evento.
+>Il token `{{member.webinar url}}` verrà popolato solo se la campagna avanzata che invia l&#39;e-mail è una risorsa secondaria del programma dell&#39;evento.

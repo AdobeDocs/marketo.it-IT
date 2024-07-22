@@ -6,7 +6,7 @@ exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,27 +23,27 @@ Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà 
 >
 >Il motore di dati che supporta E-mail Analysis RCA ignora più di 12 clic a persona se provengono dalla stessa e-mail e campagna. Tieni presente questo aspetto durante il confronto tra i rapporti di Email Analysis e quelli standard di Marketo Analytics.
 
-1. Launch **Gestione ricavi**.
+1. Avvia **Gestione ricavi**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Clic **Crea nuovo** allora **Report**.
+1. Fai clic su **Crea nuovo** e quindi su **Report**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Seleziona Email Analysis e fai clic su **OK**.
+1. Selezionare Email Analysis e fare clic su **OK**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Trova il punto giallo del Nome e-mail, fai clic con il pulsante destro del mouse su di esso e seleziona **Filtro**.
+1. Trovare il punto giallo del Nome e-mail, fare clic con il pulsante destro del mouse e selezionare **Filtro**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Fai doppio clic sull’e-mail scelta dall’elenco e fai clic su **OK**.
+1. Fare doppio clic sull&#39;indirizzo di posta elettronica desiderato nell&#39;elenco e fare clic su **OK**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Trascina **Nome e-mail** punto giallo su **Colonne**.
+1. Trascina il punto giallo **Nome e-mail** in **Colonne**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà 
    >
    >È possibile aggiungere come colonne molti attributi lead/società ed estrarli.
 
-1. Trova il **Nome e cognome** punto giallo e trascinarlo su **Righe**.
+1. Trova il punto giallo **Nome completo** e trascinalo su **Righe**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Ora aggiungi **Misure** è possibile fare doppio clic su di essi.
+1. Aggiungere ora le **Misure** desiderate facendo doppio clic su di esse.
 
    ![](assets/report-that-lists-leads-8.png)
 

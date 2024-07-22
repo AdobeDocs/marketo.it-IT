@@ -15,19 +15,19 @@ ht-degree: 0%
 
 La creazione di cartelle consente di spostare immagini e file, visualizzare solo il set di immagini desiderato e caricarlo direttamente in una cartella specifica.
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Immagini e file]** e seleziona **[!UICONTROL Nuova cartella]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Immagini e file]** e selezionare **[!UICONTROL Nuova cartella]**.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Denomina la cartella e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Torna a **[!UICONTROL Immagini e file]** e seleziona la risorsa da spostare. Fai clic su **[!UICONTROL Azioni immagine e file]** a discesa e selezionare **[!UICONTROL Sposta]**.
+1. Torna a **[!UICONTROL Immagini e file]** e seleziona la risorsa da spostare. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Sposta]**.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 
@@ -35,7 +35,7 @@ La creazione di cartelle consente di spostare immagini e file, visualizzare solo
 
    ![](assets/organize-your-images-and-files-using-folders-5.png)
 
-1. Clic **Msposta**.
+1. Fai clic su **Move**.
 
    ![](assets/organize-your-images-and-files-using-folders-6.png)
 

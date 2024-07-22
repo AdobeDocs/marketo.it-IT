@@ -7,7 +7,7 @@ exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -30,27 +30,27 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
    >
    >È possibile selezionare fino a 200 persone con le opzioni Seleziona e Invia.
 
-1. Fai clic su **E-mail selezionata** pulsante.
+1. Fai clic sul pulsante **E-mail selezionata**.
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
-1. Inserisci un oggetto, seleziona un modello (o componi l’e-mail da zero) e invia/[pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) l’e-mail.
+1. Immetti un oggetto, seleziona un modello (o componi l&#39;e-mail da zero) e invia/[la pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md) dell&#39;e-mail.
 
    ![](assets/composing-bulk-emails-with-select-and-send-4.png)
 
    >[!NOTE]
    >
-   >Se hai selezionato un modello e desideri verificare che tutti i campi dinamici vengano compilati correttamente prima dell’invio, fai clic su **Anteprima campi dinamici**. Assicurati che tutti i destinatari nella barra laterale in massa siano selezionati per l’anteprima di tutte le e-mail. Se selezioni un’e-mail e fai clic su **Anteprima campi dinamici**, verrà visualizzata in anteprima solo l’e-mail.
+   >Se è stato selezionato un modello e si desidera verificare che tutti i campi dinamici siano compilati correttamente prima dell&#39;invio, fare clic su **Anteprima campi dinamici**. Assicurati che tutti i destinatari nella barra laterale in massa siano selezionati per l’anteprima di tutte le e-mail. Se si seleziona un&#39;e-mail e si fa clic su **Anteprima campi dinamici**, verrà visualizzata solo l&#39;anteprima dell&#39;e-mail.
 
 ## Modifica delle e-mail {#editing-emails}
 
 **Modifiche in blocco**
 
-1. Segui i passaggi 1-3 da [Sezione Invio di e-mail](#sending-emails) sopra.
+1. Segui i passaggi 1-3 della [sezione Invio di e-mail](#sending-emails) di cui sopra.
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se fai clic su un singolo utente e vuoi riselezionare tutti gli utenti, fai clic su **Tutti i destinatari**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
+   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se si fa clic su un singolo utente e si desidera riselezionare tutti gli utenti, fare clic su **Tutti i destinatari**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
 
 1. Apporta le modifiche nell’editor. Puoi creare una nuova e-mail o modificare un modello (in questo esempio stiamo creando una nuova e-mail).
 
@@ -60,7 +60,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
    >
    >Puoi fare clic su un destinatario e-mail specifico per visualizzare le modifiche propagate a tale e-mail.
 
-1. Clic **Invia** (o [Pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
+1. Fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
@@ -68,11 +68,11 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
 
 Completa gli Aggiornamenti in blocco prima di personalizzare ogni e-mail, poiché l’esecuzione di un aggiornamento in blocco sovrascrive le modifiche apportate a ogni e-mail nella barra laterale di composizione in blocco.
 
-1. Segui i passaggi 1-4 da [Sezione Invio di e-mail](#sending-emails).
+1. Segui i passaggi 1-4 della [sezione Invio di e-mail](#sending-emails).
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se fai clic su un singolo utente e vuoi riselezionare tutti gli utenti, fai clic su **Tutti i destinatari**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
+   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se si fa clic su un singolo utente e si desidera riselezionare tutti gli utenti, fare clic su **Tutti i destinatari**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
 
 1. Seleziona un singolo destinatario.
 
@@ -90,12 +90,12 @@ Completa gli Aggiornamenti in blocco prima di personalizzare ogni e-mail, poich�
    >
    >Puoi fare clic su altri destinatari per verificare che le modifiche apportate al destinatario selezionato in precedenza non siano visualizzate.
 
-1. Clic **Invia** (o [Pianificazione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
+1. Fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Opzioni di invio e-mail in blocco](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
-   >* [Utilizzo di un modello nella finestra Componi](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
+   >* [Opzioni per l&#39;invio di posta elettronica in blocco](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/bulk-emailing-options.md)
+   >* [Utilizzo di un modello nella finestra di composizione](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/using-a-template-in-the-compose-window.md)
    >* [Campi dinamici](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/how-to-insert-dynamic-fields.md)

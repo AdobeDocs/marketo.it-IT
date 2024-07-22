@@ -6,7 +6,7 @@ exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '354'
+source-wordcount: '356'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Il reparto Marketing o Vendite richiede un nuovo campo. O forse ne hai dimenticato uno nella selezione iniziale del campo. Oppure, le tue esigenze sono cambiate. In ogni caso, puoi utilizzare la sincronizzazione rapida per risincronizzare campi specifici.
 
-Normalmente si utilizza la sincronizzazione rapida per aggiungere un nuovo campo e aggiornare i valori. Tuttavia, in alcuni casi potrebbe essere utile sincronizzare un campo esistente. Puoi limitare la sincronizzazione dei campi in base a un intervallo di date aggiornato o creato. Consulta [Opzioni di sincronizzazione avanzate](#Advanced_Sync_Options) di seguito per ulteriori dettagli.
+Normalmente si utilizza la sincronizzazione rapida per aggiungere un nuovo campo e aggiornare i valori. Tuttavia, in alcuni casi potrebbe essere utile sincronizzare un campo esistente. Puoi limitare la sincronizzazione dei campi in base a un intervallo di date aggiornato o creato. Per ulteriori dettagli, consulta [Opzioni di sincronizzazione avanzate](#Advanced_Sync_Options) di seguito.
 
 La sincronizzazione rapida può sincronizzare valori Null. Ad esempio, se utilizzi i valori A e B e modifichi un valore B in Dynamics in null, il valore null verrà sincronizzato con Marketo.
 
@@ -23,11 +23,11 @@ La sincronizzazione rapida può sincronizzare valori Null. Ad esempio, se utiliz
 
 Utilizzare la sincronizzazione rapida per risincronizzare i nuovi campi.
 
-1. In Marketo Engage, fai clic su **[!UICONTROL Amministratore]**.
+1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/image2016-8-19-11-3a14-3a5.png)
 
-1. Clic **[!UICONTROL Microsoft Dynamics]**.
+1. Fare clic su **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-8-19-11-3a15-3a8.png)
 
@@ -35,7 +35,7 @@ Utilizzare la sincronizzazione rapida per risincronizzare i nuovi campi.
 
    ![](assets/image2016-8-19-11-3a16-3a22.png)
 
-1. Seleziona i campi da sincronizzare rapidamente e fai clic su **[!UICONTROL Salva]**.
+1. Selezionare i campi da sincronizzare rapidamente e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2016-8-25-15-3a26-3a11.png)
 
@@ -63,7 +63,7 @@ Cosa succede se desideri sincronizzare un campo esistente, ma solo per un set li
 
    ![](assets/select-field-reselect-hand.png)
 
-1. Clic **[!UICONTROL Sincronizzazione avanzata]**.
+1. Fare clic su **[!UICONTROL Sincronizzazione avanzata]**.
 
    ![](assets/image2016-8-25-15-3a52-3a9.png)
 
@@ -81,7 +81,7 @@ Nel raro caso in cui un campo Dynamics e Marketo non siano sincronizzati, esiste
 
    ![](assets/image2016-8-25-16-3a16-3a32-1.png)
 
-1. Riseleziona il campo e fai clic su **[!UICONTROL Salva]**.
+1. Riselezionare il campo e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2016-8-25-16-3a20-3a45.png)
 

@@ -6,7 +6,7 @@ exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '479'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Marketo fornisce sei layout per la creazione di messaggi in-app.
 
 Tutti e tre i layout a comparsa offrono elementi di progettazione predefiniti, tra cui un&#39;immagine, un testo, pulsanti e uno sfondo.
 
-Il primo layout a comparsa è la selezione predefinita per un buon motivo: si adatta alla maggior parte degli usi. Funziona bene con immagini a bassa risoluzione. Questo layout utilizza i font standard per la piattaforma (Helvetica per Apple, Roboto per Android), in modo da avere sempre l’aspetto giusto su un telefono o un tablet. È possibile caricare e posizionare le immagini principali e di sfondo, scrivere testo principale e di supporto e configurare i pulsanti principale e di chiusura. Il testo è limitato a tre righe a 24 pixel. Le dimensioni maggiori riducono il numero di righe.
+Il primo layout a comparsa è la selezione predefinita per un buon motivo: si adatta alla maggior parte degli usi. Funziona bene con immagini a bassa risoluzione. Questo layout utilizza i font standard per la piattaforma (Helvetica per Apple, Roboto per Android), in modo da avere sempre l’aspetto desiderato su un telefono o un tablet. È possibile caricare e posizionare le immagini principali e di sfondo, scrivere testo principale e di supporto e configurare i pulsanti principale e di chiusura. Il testo è limitato a tre righe a 24 pixel. Le dimensioni maggiori riducono il numero di righe.
 
 ![](assets/image2016-5-9-13-3a3-3a48.png)
 
@@ -58,7 +58,7 @@ Il terzo layout a schermo intero è lo stesso del secondo, ad eccezione del seco
 
 ![](assets/image2016-5-9-13-3a11-3a35.png)
 
-Ora che conosci i modelli, scegli un modello quando [creare le immagini dei messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
+Ora che conosci i modelli, puoi sceglierne uno quando [crei le immagini dei messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/add-in-app-message-images.md).
 
 >[!MORELIKETHIS]
 >

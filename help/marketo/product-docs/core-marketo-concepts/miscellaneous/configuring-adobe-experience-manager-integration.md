@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Configurazione dell’integrazione di Adobe Experience Manager {#configuring-adobe-experience-manager-integration}
 
-Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare e importare le risorse AEM in Marketi Engage Design Studio.
+Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare e importare le risorse AEM in Marketo Engage Design Studio.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
    ![](assets/two.png)
 
-1. In entrata **[!UICONTROL Strumenti]**, fai clic su **[!UICONTROL Operazioni]** e seleziona **[!UICONTROL Console web]**.
+1. In **[!UICONTROL Strumenti]**, fare clic su **[!UICONTROL Operazioni]** e selezionare **[!UICONTROL Console Web]**.
 
    ![](assets/2a.png)
 
@@ -43,38 +43,38 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
    ![](assets/three.png)
 
-1. Fai clic su **+** accedi a destra.
+1. Fai clic sul segno **+** a destra.
 
    ![](assets/four.png)
 
-1. In **[!UICONTROL Origini consentite (Regexp)]** casella di testo, digitare `https://.*\.marketo\.com` e fai clic su **[!UICONTROL Salva]**.
+1. Nella casella di testo **[!UICONTROL Origini consentite (Regexp)]** digitare `https://.*\.marketo\.com` e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/five-psd.png)
 
-1. Nell’intestazione nella parte superiore della pagina, fai clic su **[!UICONTROL Console web]** e seleziona **[!UICONTROL Informazioni di sistema]**.
+1. Nell&#39;intestazione nella parte superiore della pagina fare clic su **[!UICONTROL Console Web]** e selezionare **[!UICONTROL Informazioni di sistema]**.
 
    ![](assets/six.png)
 
-1. In Informazioni server fare clic su **[!UICONTROL Riavvia]** pulsante.
+1. In Informazioni server fare clic sul pulsante **[!UICONTROL Riavvia]**.
 
    ![](assets/seven.png)
 
-1. Clic **[!UICONTROL OK]** per confermare.
+1. Fai clic su **[!UICONTROL OK]** per confermare.
 
    ![](assets/eight.png)
 
-1. In Marketo Engage, fai clic su **[!UICONTROL Amministratore]**.
+1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/nine.png)
 
-1. In Integrazione, seleziona **[!UICONTROL Adobe Experience Manager]**.
+1. In Integrazione, selezionare **[!UICONTROL Adobe Experience Manager]**.
 
    ![](assets/ten.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/eleven.png)
 
-1. Inserisci l’URL dell’AEM e fai clic su **[!UICONTROL OK]**.
+1. Immetti l&#39;URL dell&#39;AEM e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Imposta requisito condivisione social network {#set-social-share-requirement}
 
-Quando [creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi richiedere agli utenti di condividere l’offerta per registrarti o renderla facoltativa.
+Quando [crei un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi richiedere agli utenti di condividere l&#39;offerta per iscriversi o renderla facoltativa.
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/ma-1.png)
 
-1. Seleziona l’offerta di riferimento e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;offerta di riferimento e fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-22-13-3a30-3a36.png)
 
-1. Nell’editor delle offerte di riferimento, vai a **Impostazioni app** e poi **Passaggi del flusso di registrazione**.
+1. Nell&#39;editor delle offerte di riferimento, vai a **Impostazioni app** e quindi a **Passaggi del flusso di registrazione**.
 
    ![](assets/three.png)
 
@@ -31,9 +31,9 @@ Quando [creare un’offerta di riferimento](/help/marketo/product-docs/demand-ge
 
    ![](assets/four.png)
 
-   * **Acquisizione della persona** > **Condividi**: la persona può saltare la condivisione e registrarsi.
-   * **Condividi** > **Acquisizione della persona**: la persona deve condividere per registrarsi.
+   * **Acquisizione persona** > **Condividi**: la persona può saltare la condivisione e semplicemente iscriversi.
+   * **Condividi** > **Acquisizione persona**: la persona deve condividere per iscriversi.
 
-1. Per ogni opzione, vedi l’anteprima in **Visualizza e modifica** finestra.
+1. Per ogni opzione, vedere l&#39;anteprima nella finestra **Visualizza e modifica**.
 
    ![](assets/image2015-4-22-13-3a34-3a28.png)

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Eliminare una pagina? Niente sudore, ecco come.
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-13-3a58-3a33.png)
 
-1. Il giorno [!UICONTROL Pagine] , passa il puntatore del mouse sulla pagina da rimuovere e fai clic su **[!UICONTROL Elimina]**, quindi fai clic su **[!UICONTROL Rimuovi]**.
+1. Nella scheda [!UICONTROL Pagine], passa il puntatore del mouse sulla pagina da rimuovere, fai clic su **[!UICONTROL Elimina]**, quindi fai clic su **[!UICONTROL Rimuovi]**.
 
    ![](assets/image2014-9-18-13-3a58-3a39.png)
 

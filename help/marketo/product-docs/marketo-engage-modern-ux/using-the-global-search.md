@@ -65,6 +65,6 @@ Viene visualizzata direttamente l’e-mail desiderata.
  </tbody>
 </table>
 
-**PASSAGGIO FACOLTATIVO**: per utilizzare il filtro, seleziona semplicemente le opzioni desiderate.
+**PASSAGGIO FACOLTATIVO**: per utilizzare il filtro, è sufficiente selezionare le opzioni desiderate.
 
 ![](assets/using-the-global-search-7.png)

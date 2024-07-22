@@ -27,7 +27,7 @@ Ecco come approvare un modulo esistente pronto per l’uso.
 
    ![](assets/image2014-9-15-17-3a49-3a40.png)
 
-1. Sotto **Azioni modulo**, fai clic su **Approva**.
+1. In **Azioni modulo**, fai clic su **Approva**.
 
    ![](assets/image2014-9-15-17-3a49-3a47.png)
 
@@ -47,12 +47,12 @@ Se apporti modifiche a un modulo, puoi approvare la pagina direttamente dall’e
 
 >[!PREREQUISITES]
 >
->[Modificare un modulo](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
+>[Modifica modulo](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-17-3a51-3a43.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-17-3a52-3a1.png)

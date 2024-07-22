@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Vogliamo che l’invio di e-mail dal reparto vendite di Marketo avvenga in modo trasparente dal momento che proviene dal tuo client e-mail. Un ottimo modo per farlo è aggiungere la tua firma e-mail.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/add-or-update-your-email-signature-1.png)
 
@@ -22,7 +22,7 @@ Vogliamo che l’invio di e-mail dal reparto vendite di Marketo avvenga in modo 
 
    ![](assets/add-or-update-your-email-signature-2.png)
 
-1. In **Indirizzo e firma** , seleziona l’identità e-mail per la quale desideri creare una firma.
+1. Nella scheda **Indirizzo e firma** selezionare l&#39;identità di posta elettronica per la quale si desidera creare una firma.
 
    ![](assets/add-or-update-your-email-signature-3.png)
 

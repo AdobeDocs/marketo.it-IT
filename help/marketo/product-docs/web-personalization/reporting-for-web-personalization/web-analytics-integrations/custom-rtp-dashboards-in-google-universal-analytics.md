@@ -6,7 +6,7 @@ exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ Questo post spiega come impostare dashboard RTP in Google Universal Analytics (G
 
 ## Impostazione di un dashboard personalizzato {#setting-up-a-custom-dashboard}
 
-1. Accedi alle Google Analytics. Fai clic su **Generazione rapporti** nel menu principale. Clic **Dashboard** e **+Nuovo dashboard personalizzato**.
+1. Accedi alle Google Analytics. Fai clic su **Generazione rapporti** nel menu principale. Fai clic su **Dashboard** e **+Nuovo dashboard personalizzato**.
 
    ![](assets/image2015-3-22-16-3a41-3a29.png)
 
-1. Seleziona **Area di lavoro vuota**, aggiungi un **Nome dashboard** e fai clic su **Crea dashboard**.
+1. Seleziona **Area di lavoro vuota**, aggiungi **Nome dashboard** e fai clic su **Crea dashboard**.
 
-1. Clic **Aggiungi widget** per creare un nuovo widget.
+1. Fare clic su **Aggiungi widget** per creare un nuovo widget.
 
    ![](assets/image2015-3-22-16-3a46-3a48.png)
 
@@ -61,7 +61,7 @@ Il dashboard è costituito da 3 colonne
     <div> <strong>Colonna 2 - Segmentazione</strong> 
     </div></th> 
    <th> 
-    <div> <strong>Colonna 3 - Espansione firmografica</strong> 
+    <div> <strong>Colonna 3 - Espansione firmware</strong> 
     </div></th> 
   </tr> 
  </thead> 
@@ -74,14 +74,14 @@ Il dashboard è costituito da 3 colonne
      <li>Crea un grafico a barre che mostra: Sessione</li> 
      <li>Raggruppato per: etichetta evento</li> 
      <li>Pivot per: raggruppamento canali predefinito</li> 
-     <li>Filtro: <br>Mostra solo | Categoria di eventi (contenente) segmenti RTP</li> 
+     <li>Filtro: <br>Mostra solo | Categoria evento (contenente) segmenti RTP</li> 
     </ul><p><img width="300" src="assets/image2015-3-23-11-3a32-3a13.png" data-linked-resource-id="7504247" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nome: numero di utenti RTP segmentati</li> 
      <li>Tipo: 2.1 Metrica</li> 
      <li>Mostra la metrica seguente: Utenti<br></li> 
-     <li>Filtro: <br>Mostra solo | Categoria di eventi (contenente) segmenti RTP</li> 
+     <li>Filtro: <br>Mostra solo | Categoria evento (contenente) segmenti RTP</li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
@@ -106,7 +106,7 @@ Il dashboard è costituito da 3 colonne
      <li><strong>Tipo: Geomap</strong></li> 
      <li><strong>Traccia la metrica selezionata: Paese | Sessioni</strong></li> 
      <li><strong>Seleziona una regione: Il mondo</strong></li> 
-     <li><strong>Filtro: Mostra solo | Categoria di eventi (contenente) segmenti RTP</strong></li> 
+     <li><strong>Filtro: Mostra solo | Categoria evento (contenente) segmenti RTP</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
@@ -124,7 +124,7 @@ Il dashboard è costituito da 3 colonne
      <li>Tipo: barra</li> 
      <li>Crea un grafico a barre che mostra: Utenti</li> 
      <li>Raggruppato per: azione evento</li> 
-     <li>Filtro: Mostra solo | Categoria di eventi (contenente) segmenti RTP</li> 
+     <li>Filtro: Mostra solo | Categoria evento (contenente) segmenti RTP</li> 
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th> 
    <th> 
     <ul> 
@@ -141,7 +141,7 @@ Il dashboard è costituito da 3 colonne
      <li>Nome: sessioni e obiettivi per segmenti principali</li> 
      <li>Tipo: tabella<br></li> 
      <li>Visualizza le colonne seguenti: <br>Etichetta evento | Sessioni | Tasso di conversione obiettivo</li> 
-     <li>Filtro: <br>Mostra solo | Categoria di eventi (contenente) segmenti RTP</li> 
+     <li>Filtro: <br>Mostra solo | Categoria evento (contenente) segmenti RTP</li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></th> 
    <th> </th> 
   </tr> 
@@ -156,7 +156,7 @@ Questa dashboard consente agli utenti di analizzare le prestazioni della campagn
 * Coinvolto (impression e clic su una campagna personalizzata)
 * Fai clic sul motore di consigli e sui principali contenuti consigliati
 
-Crea un nuovo dashboard denominato **Dashboard del coinvolgimento RTP** e definisci i seguenti widget:
+Crea un nuovo dashboard denominato **Dashboard di coinvolgimento RTP** e definisci i seguenti widget:
 
 ![](assets/image2015-3-22-17-3a7-3a19.png)
 
@@ -164,13 +164,13 @@ Crea un nuovo dashboard denominato **Dashboard del coinvolgimento RTP** e defini
  <thead> 
   <tr> 
    <th> 
-    <div> <strong>Colonna 1 Esposizione campagne</strong> 
+    <div> <strong>Esposizione campagne colonna 1</strong> 
     </div></th> 
    <th> 
-    <div> <strong>Clickthrough di campagne colonna 2</strong> 
+    <div> <strong>Clickthrough campagne colonna 2</strong> 
     </div></th> 
    <th> 
-    <div> <strong>Colonna 3 Motore di consigli</strong> 
+    <div> <strong>Motore di consigli colonna 3</strong> 
     </div></th> 
   </tr> 
  </thead> 
@@ -181,14 +181,14 @@ Crea un nuovo dashboard denominato **Dashboard del coinvolgimento RTP** e defini
      <li>Nome: <strong>CTA (coinvolgimento) totale</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
      <li>Mostra la metrica seguente: <strong>Eventi totali</strong></li> 
-     <li>Filtri:<br><strong>[mostra solo] Categoria evento (contiene): Campagne RTP</strong><br><strong>[only show] Azione evento (corrispondenza esatta): Impression</strong><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (contiene): RTP-Campaigns</strong><br><strong>[show only] Azione evento (corrispondenza esatta): Impression</strong><strong>[don't show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a37-3a55.png" data-linked-resource-id="7504259" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
-     <li>Nome: <strong>CTA (clickthrough) - Totale</strong></li> 
+     <li>Nome: <strong>CTA (clickthrough) totale</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
      <li>Mostra la metrica seguente: <strong>Eventi totali</strong></li> 
-     <li>Filtri:<br><strong>[mostra solo] Categoria evento (contiene): Campagne RTP</strong><br><strong>[only show] Azione evento (esattamente corrispondente): Clic</strong><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (contiene): RTP-Campaigns</strong><br><strong>[show only] Azione evento (esattamente corrispondente): Clic</strong><strong>[don't show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a38-3a12.png" data-linked-resource-id="7504261" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td> 
     <ul> 
@@ -201,23 +201,23 @@ Crea un nuovo dashboard denominato **Dashboard del coinvolgimento RTP** e defini
   <tr> 
    <td colspan="1"> 
     <ul> 
-     <li>Nome: <strong>Media Durata della sessione (coinvolgimento)</strong></li> 
+     <li>Nome: <strong>Media Durata sessione (coinvolgimento)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
      <li>Mostra la metrica seguente: <strong>Media Durata sessione</strong></li> 
-     <li>Filtri:<br><strong>[only show] Categoria evento (esattamente corrispondente): Campagne RTP</strong><br><strong>[only show] Azione evento (corrispondenza esatta): impression</strong><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (esattamente corrispondente): RTP-Campaigns</strong><br><strong>[only show] Azione evento (esattamente corrispondente): impression</strong><strong>[don't show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a21.png" data-linked-resource-id="7504264" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
-     <li>Nome: <strong>Media Durata della sessione (click-through)</strong></li> 
+     <li>Nome: <strong>Media Durata sessione (clickthrough)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
      <li>Mostra la metrica seguente: <strong>Media Durata sessione</strong></li> 
-     <li>Filtri:<br><strong>[only show] Categoria evento (esattamente corrispondente): Campagne RTP</strong><br><strong>[only show] Azione evento (esattamente corrispondente): clic</strong><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (esattamente corrispondente): RTP-Campaigns</strong><br><strong>[only show] Azione evento (esattamente corrispondente): clicks</strong><strong>[don't show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a41-3a37.png" data-linked-resource-id="7504265" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
    <td colspan="1"> 
     <ul> 
      <li>Nome: <strong>CRE - Contenuto consigliato principale</strong></li> 
      <li>Tipo: <strong>Tabella</strong><br></li> 
-     <li>Visualizza le colonne seguenti: <br><strong>Titolo pagina | Pageview</strong><br></li> 
+     <li>Visualizza le colonne seguenti: <br><strong>Titolo pagina | Visualizzazioni pagina</strong><br></li> 
      <li>Filtri:<br>Filtro: <strong>[mostra solo] Pagina (contenente): rcmd</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a41-3a51.png" data-linked-resource-id="7504266" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
   </tr> 
@@ -226,17 +226,17 @@ Crea un nuovo dashboard denominato **Dashboard del coinvolgimento RTP** e defini
     <ul> 
      <li>Nome: <strong>Pagine/Sessione (Coinvolgimento)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
-     <li>Mostra la metrica seguente: <strong>Pagine/Sessione</strong></li> 
-     <li>Filtri:<br><strong>[only show] Categoria evento (esattamente corrispondente): Campagne RTP</strong></li> 
+     <li>Mostra la metrica seguente: <strong>Pagine / Sessione</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (esattamente corrispondente): RTP-Campaigns</strong></li> 
      <li><strong>[only show] Azione evento (corrispondenza esatta): impression</strong></li> 
      <li><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a10.png" data-linked-resource-id="7504267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Pagine/Sessione (Clickthrough)</strong></li> 
+     <li>Nome: <strong>Pagine / Sessione (Clickthrough)</strong></li> 
      <li>Tipo: <strong>2.1 Metrica </strong></li> 
-     <li>Mostra la metrica seguente: <strong>Pagine/Sessione</strong></li> 
-     <li>Filtri:<br><strong>[only show] Categoria evento (esattamente corrispondente): Campagne RTP</strong></li> 
+     <li>Mostra la metrica seguente: <strong>Pagine / Sessione</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (esattamente corrispondente): RTP-Campaigns</strong></li> 
      <li><strong>[only show] Azione evento (esattamente corrispondente): clic</strong></li> 
      <li><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><strong><img width="350" src="assets/image2015-3-23-11-3a42-3a32.png" data-linked-resource-id="7504268" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></strong></p></td> 
@@ -245,17 +245,17 @@ Crea un nuovo dashboard denominato **Dashboard del coinvolgimento RTP** e defini
   <tr> 
    <td> 
     <ul> 
-     <li>Nome: <strong>Impression da parte di CTA</strong></li> 
+     <li>Nome: <strong>Impression da CTA</strong></li> 
      <li>Tipo: <strong>Tabella</strong></li> 
-     <li>Visualizza le colonne seguenti: <strong>Etichetta evento | Totale eventi | Utenti</strong></li> 
-     <li>Filtri:<br><strong>[only show] Categoria evento (esattamente corrispondente): Campagne RTP</strong><br><strong>[only show] Azione evento (corrispondenza esatta): impression</strong><strong>[do not show] Etichetta evento (contenente): #</strong></li> 
+     <li>Visualizza le colonne seguenti: <strong>Etichetta evento | Eventi totali | Utenti</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (esattamente corrispondente): RTP-Campaigns</strong><br><strong>[only show] Azione evento (esattamente corrispondente): impression</strong><strong>[don't show] Etichetta evento (contenente): #</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a42-3a48.png" data-linked-resource-id="7504269" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> 
     <ul> 
      <li>Nome: <strong>Clickthrough da CTA</strong></li> 
      <li>Tipo: <strong>Tabella</strong></li> 
-     <li>Visualizza le colonne seguenti: <strong>Etichetta evento | Totale eventi | Utenti</strong></li> 
-     <li>Filtri:<br><strong>[only show] Categoria evento (esattamente corrispondente): Campagne RTP</strong><br><strong>[only show] Azione evento (esattamente corrispondente): clic</strong></li> 
+     <li>Visualizza le colonne seguenti: <strong>Etichetta evento | Eventi totali | Utenti</strong></li> 
+     <li>Filtri:<br><strong>[show only] Categoria evento (esattamente corrispondente): RTP-Campaigns</strong><br><strong>[only show] Azione evento (esattamente corrispondente): clicks</strong></li> 
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a43-3a4.png" data-linked-resource-id="7504270" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td> 
    <td> </td> 
   </tr> 

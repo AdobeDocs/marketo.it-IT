@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Panoramica del tipo di rapporto {#report-type-overview}
 
-Quando [creare un rapporto in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), scegli il tipo di rapporto desiderato.
+Quando [crei un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), scegli il tipo di report desiderato.
 
 ## Rapporti più utilizzati {#most-used-reports}
 
@@ -47,7 +47,7 @@ Quando [creare un rapporto in un programma](/help/marketo/product-docs/reporting
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapporto Fase Persone per retribuzione</a></strong></td> 
-   <td>Generazione di rapporti di base per il modello di ricavo. Consulta <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per rapporti più approfonditi.</td> 
+   <td>Generazione di rapporti di base per il modello di ricavo. Consulta <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestazioni della pagina di destinazione</a>  </strong></td> 
@@ -55,7 +55,7 @@ Quando [creare un rapporto in un programma](/help/marketo/product-docs/reporting
   </tr> 
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Prestazioni del programma</a>  </strong></td> 
-   <td>Metriche di base del programma come membri e successo. Consulta <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per rapporti più approfonditi.</td> 
+   <td>Metriche di base del programma come membri e successo. Consulta <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td> 
   </tr> 
   <tr> 
    <td><strong><a href="company-web-activity-report.md">Attività Web della società</a></strong></td> 
@@ -67,11 +67,11 @@ Quando [creare un rapporto in un programma](/help/marketo/product-docs/reporting
   </tr>
   <tr> 
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapporto sulle prestazioni del flusso di coinvolgimento</a> </strong></td> 
-   <td>Scopri il tuo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a> funziona.</td> 
+   <td>Controlla il funzionamento del <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a>.</td> 
   </tr>
    <tr> 
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Prestazioni e-mail campagna</a> </strong></td> 
-   <td>Scopri il tuo <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a> funziona.</td> 
+   <td>Controlla il funzionamento del <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a>.</td> 
   </tr>
  </tbody> 
 </table>

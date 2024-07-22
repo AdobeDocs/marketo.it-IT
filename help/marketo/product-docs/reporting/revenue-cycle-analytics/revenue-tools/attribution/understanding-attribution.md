@@ -6,7 +6,7 @@ exl-id: bf5f3d0f-809a-4fb1-835a-d87b733bd6c6
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ L’attribuzione consente di misurare il successo del programma. Alcuni programm
 
 ## Attribuzione primo contatto (FT) {#first-touch-ft-attribution}
 
-L’attribuzione First-Touch (FT) risponde a una **semplice domanda di business**, &quot;Quali programmi sono bravi ad acquisire nuovi nomi redditizi?&quot;
+L&#39;attribuzione First-Touch (FT) risponde a una **semplice domanda di business**, &quot;Quali programmi sono in grado di acquisire nuovi nomi redditizi?&quot;
 
 ## Attribuzione multi-touch {#multi-touch-attribution}
 
-Risposte multi-touch a **questione di business complicata**, &quot;Quali programmi sono più influenti nel portare avanti le persone nel ciclo di vendita nel tempo?&quot;
+Multi-Touch risponde a una **complessa domanda di business**, &quot;Quali programmi sono più influenti nel portare avanti le persone nel ciclo di vendita nel tempo?&quot;
 
 ## Regole di attribuzione {#rules-of-attribution}
 

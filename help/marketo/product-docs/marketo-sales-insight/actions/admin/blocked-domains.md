@@ -18,15 +18,15 @@ Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/blocked-domains-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/blocked-domains-2.png)
 
-1. Immetti il dominio da bloccare e fai clic su **Blocca dominio**.
+1. Immettere il dominio da bloccare e fare clic su **Blocca dominio**.
 
    ![](assets/blocked-domains-3.png)
 

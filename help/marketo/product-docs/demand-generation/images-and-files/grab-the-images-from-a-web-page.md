@@ -19,11 +19,11 @@ Per aggiungere immagini da una pagina web, copia l’indirizzo web (URL) della p
 
    ![](assets/designstudio-2.png)
 
-1. Fai clic su **Nuovo** e **Acquisisci immagini dal web**.
+1. Fai clic su **Nuovo** e **Acquisisci immagini dal Web**.
 
    ![](assets/image2014-9-16-11-3a37-3a46.png)
 
-1. Seleziona la **Immagini e file** , incollare l&#39;indirizzo Web (URL) nella casella di testo URL e fare clic su **Successivo**.
+1. Selezionare la cartella **Immagini e file**, incollare l&#39;indirizzo Web (URL) nella casella di testo URL e fare clic su **Avanti**.
 
    ![](assets/image2014-9-16-11-3a37-3a55.png)
 
@@ -31,7 +31,7 @@ Per aggiungere immagini da una pagina web, copia l’indirizzo web (URL) della p
    >
    >Questa funzione non funziona con URL che puntano direttamente a un’immagine. Utilizza l’URL della pagina web che contiene le immagini.
 
-1. Seleziona le immagini da aggiungere e fai clic su **Importa**.
+1. Selezionare le immagini da aggiungere e fare clic su **Importa**.
 
    ![](assets/image2014-9-16-11-3a38-3a3.png)
 
@@ -47,7 +47,7 @@ Ottimo lavoro, maestro di immagini!
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
->* [Organizzazione di immagini e file mediante le cartelle](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
->* [Trovare l’URL di un’immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
->* [Carica immagini e file da Box](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)
+>* [Aggiungi immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
+>* [Organizza immagini e file utilizzando le cartelle](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md)
+>* [Trovare l&#39;URL di un&#39;immagine o di un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/find-the-url-of-an-uploaded-image-or-file.md)
+>* [Carica immagini e file dalla casella](/help/marketo/product-docs/demand-generation/images-and-files/upload-images-and-files-from-box.md)

@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Scopri come aggiungere nuove immagini o file all’istanza di Marketo Engage.
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Seleziona **[!UICONTROL Immagini e file]**
+1. Seleziona **[!UICONTROL immagini e file]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Fai clic su **[!UICONTROL Azioni immagine e file]** a discesa e selezionare **[!UICONTROL Carica immagine o file]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Carica immagine o file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -41,8 +41,8 @@ Scopri come aggiungere nuove immagini o file all’istanza di Marketo Engage.
 
    >[!NOTE]
    >
-   >Anche se Marketo accetta tutti i tipi di file per il caricamento, solo i tipi di immagine principali (JPG, PNG, GIF, ecc.) funzionerà nel nostro editor e-mail.
+   >Marketo accetta tutti i tipi di file per il caricamento, ma solo i tipi di immagine principali (JPG, PNG, GIF, ecc.) funzionerà nel nostro editor e-mail.
 
    >[!MORELIKETHIS]
    >
-   >[Organizzazione di immagini e file mediante le cartelle](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}
+   >[Organizza immagini e file utilizzando le cartelle](/help/marketo/product-docs/demand-generation/images-and-files/organize-your-images-and-files-using-folders.md){target="_blank"}

@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Per vedere come si presenterà il contenuto all&#39;interno di un motore di ricerca, abbiamo aggiunto una pratica scorciatoia.
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-13-3a33-3a58.png)
 
-1. Passa il cursore sopra una parola chiave. Clic **[!UICONTROL Visualizza risultati]**.
+1. Passa il cursore sopra una parola chiave. Fare clic su **[!UICONTROL Visualizza risultati]**.
 
    ![](assets/image2014-9-18-13-3a34-3a2.png)
 

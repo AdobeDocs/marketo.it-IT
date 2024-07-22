@@ -17,17 +17,17 @@ I snippet sono blocchi di testo RTF e di grafica riutilizzabili che è possibile
 
 >[!PREREQUISITES]
 >
->[Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Crea snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 >[!NOTE]
 >
->Non è possibile incorporare [Sintassi e-mail Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)in snippet; **non** lavorare in un’e-mail. I frammenti devono essere solo contenuto del corpo (HTML + TESTO).
+>Impossibile incorporare [sintassi e-mail di Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)nei frammenti. **non** funzionerà in un messaggio e-mail. I frammenti devono essere solo contenuto del corpo (HTML + TESTO).
 
-1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza**.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
 
    ![](assets/one-2.png)
 
-1. Seleziona l’area modificabile da convertire in snippet, fai clic sull’icona a forma di ingranaggio e seleziona **Sostituisci con snippet**.
+1. Selezionare l&#39;area modificabile da convertire in uno snippet, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Sostituisci con snippet**.
 
    ![](assets/two-2.png)
 
@@ -43,6 +43,6 @@ I snippet sono blocchi di testo RTF e di grafica riutilizzabili che è possibile
 
    >[!NOTE]
    >
-   >Ogni volta che aggiorni e approvi il frammento di codice, le modifiche verranno riportate nell’e-mail. L’e-mail verrà redatta a meno che tu non approvi lo snippet con [Nessuna bozza](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
+   >Ogni volta che aggiorni e approvi il frammento di codice, le modifiche verranno riportate nell’e-mail. L&#39;e-mail verrà redatta a meno che tu non approvi lo snippet con [Nessuna bozza](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md).
 
 Si tratta di un modo rapido e semplice per riutilizzare i contenuti dinamici.

@@ -1,6 +1,6 @@
 ---
 unique-page-id: 2359649
-description: Testo pulsante invio modulo di modifica - Documentazione Marketo - Documentazione del prodotto
+description: Testo pulsante invio modulo di modifica - Documentazione di Marketo - Documentazione del prodotto
 title: Modifica testo pulsante invio modulo
 exl-id: 6461bbf0-9e77-4187-a7d1-a7ad3abe08d9
 feature: Forms
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-12-3a42-3a14.png)
 
-1. Seleziona il pulsante e modifica il **Etichetta**.
+1. Selezionare il pulsante e modificare l&#39;**etichetta**.
 
    ![](assets/image2014-9-15-12-3a42-3a41.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
    >
    >È inoltre possibile modificare l&#39;etichetta di attesa. Questo viene visualizzato dopo aver fatto clic sul pulsante e prima del completamento dell’azione di invio del modulo.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-12-3a43-3a26.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-12-3a43-3a36.png)
 

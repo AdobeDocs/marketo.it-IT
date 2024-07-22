@@ -6,7 +6,7 @@ exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Leggi lo scenario seguente e prova a determinare i numeri che devono essere presenti nella griglia.
 
-* 11 aprile | Michelle scarica l&#39;e-Book (Contenuto) - Successo
+* 11 aprile | Michelle scarica l&#39;e-Book (contenuto) - operazione riuscita
 * Aprile 15 | John partecipa (webinar) - Operazione riuscita
-* Aprile 22 | (Opportunità 1) creato per $ 3.000
+* Aprile 22 | (Opportunità 1) creata per $ 3.000
 * Aprile 24 | (Opportunità 2) creato per $5.000
-* Aprile 25 | John e Michelle sono associati a **entrambi** Opti
-* Aprile 29 | [Opzione 1] è Closed-Won
+* Aprile 25 | John e Michelle sono associati a **entrambi** optys
+* Aprile 29 | [L&#39;opzione 1] è chiusa
 
 | Nome del programma | (Contenuto) | (Webinar) |
 |---|---|---|

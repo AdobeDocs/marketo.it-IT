@@ -6,7 +6,7 @@ exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ Nell’Editor e-mail 2.0, un modulo è una sezione dell’e-mail definita nel mo
 
    >[!NOTE]
    >
-   >La maggior parte dei modelli di Marketo Starter contiene moduli. È inoltre possibile [crea il tuo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La maggior parte dei modelli di Marketo Starter contiene moduli. Puoi anche [creare ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. All’estrema destra dell’e-mail, fai clic su **Moduli**.
+1. All&#39;estrema destra dell&#39;e-mail, fai clic su **Moduli**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Esistono due modi per spostare un modulo.
 
    ![](assets/nine-2.png)
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Sposta su** o **Sposta giù**, a seconda di dove desideri che vada il modulo.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Sposta su** o **Sposta giù**, a seconda di dove desideri spostare il modulo.
 
    ![](assets/ten-2.png)
 
@@ -67,4 +67,4 @@ Esistono due modi per spostare un modulo.
 
 >[!MORELIKETHIS]
 >
->[Sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

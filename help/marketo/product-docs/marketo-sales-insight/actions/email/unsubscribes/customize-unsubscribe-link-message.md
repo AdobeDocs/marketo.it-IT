@@ -18,11 +18,11 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
 >
 >Non puoi utilizzare un collegamento di terze parti per annullare l’abbonamento con Marketo Sales in quanto queste informazioni non verranno acquisite nuovamente nel nostro database.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Annulla iscrizione**.
+1. In Impostazioni amministrazione fare clic su **Annulla sottoscrizione**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
    >
    >Non importa quale URL si immette. Quando l’e-mail viene inviata, il primo (o unico) collegamento ipertestuale si collega automaticamente alla pagina predefinita di annullamento dell’iscrizione.
 
-1. Inserisci un URL, determina se desideri che il collegamento venga aperto nella finestra corrente o in una nuova finestra e fai clic su **Salva**.
+1. Immettere un URL, determinare se si desidera aprire il collegamento nella finestra corrente o in una nuova finestra e fare clic su **Salva**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Clic **Salva** nella parte inferiore per salvare le modifiche.
+1. Fai clic su **Salva** in basso per salvare le modifiche.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

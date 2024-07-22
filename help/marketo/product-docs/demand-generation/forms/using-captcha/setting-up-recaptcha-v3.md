@@ -5,7 +5,7 @@ exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Per il passaggio 6 della sezione Configurazione iniziale di reCAPTCHA v3 riporta
 
    ![](assets/setting-up-recaptcha-v3-1.png)
 
-1. Clic **Il mio account**.
+1. Fai clic su **Il mio account**.
 
    ![](assets/setting-up-recaptcha-v3-2.png)
 
@@ -34,7 +34,7 @@ Per il passaggio 6 della sezione Configurazione iniziale di reCAPTCHA v3 riporta
 
 I seguenti passaggi vengono eseguiti al di fuori di Marketo.
 
-1. Vai a [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} e fai clic su Admin Console v3.
+1. Vai a [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/){target="_blank"} e fai clic sull&#39;Admin Console v3.
 
 1. Accedi/registrati con un account Google.
 
@@ -42,9 +42,9 @@ I seguenti passaggi vengono eseguiti al di fuori di Marketo.
 
 1. Crea un’etichetta per identificare la chiave da utilizzare per il Marketo Engage.
 
-1. Scegli il tipo **reCAPTCHA v3**. Il Marketo Engage non supporta reCAPTCHA v2.
+1. Scegliere il tipo **reCAPTCHA v3**. Il Marketo Engage non supporta reCAPTCHA v2.
 
-1. Aggiungi ogni dominio utilizzato dalla sottoscrizione del Marketo Engage. I domini non impostati qui restituiranno errori nei moduli in cui è abilitato reCAPTCHA. Ricordarsi di sostituire le parole &#39;datacenter&#39; e &#39;munchkinID&#39; con il [dati nella sottoscrizione](#retrieve-your-data-center-and-munchkin-id).
+1. Aggiungi ogni dominio utilizzato dalla sottoscrizione del Marketo Engage. I domini non impostati qui restituiranno errori nei moduli in cui è abilitato reCAPTCHA. Ricorda di sostituire le parole &quot;datacenter&quot; e &quot;munchkinID&quot; con i [dati nella sottoscrizione](#retrieve-your-data-center-and-munchkin-id).
 
    * app-datacenter.marketo.com
    * munchkinID.mktoweb.com
@@ -52,13 +52,13 @@ I seguenti passaggi vengono eseguiti al di fuori di Marketo.
 
    >[!NOTE]
    >
-   >Ad esempio, se il Data Center dell’account è &quot;sjst&quot;, il dominio da inserire nell&#39;elenco Consentiti sarà `app-sjst.marketo.com`. Se l&#39;ID Munchkin è 123-ABC-789, il dominio da inserire nell&#39;elenco Consentiti sarà `123-ABC-789.mktoweb.com`.
+   >Ad esempio, se il centro dati dell&#39;account è &quot;sjst&quot;, il dominio che si desidera inserire nell&#39;elenco Consentiti sarà `app-sjst.marketo.com`. Se l&#39;ID Munchkin è 123-ABC-789, il dominio da inserire nell&#39;elenco Consentiti sarà `123-ABC-789.mktoweb.com`.
 
 1. Imposta un proprietario e un indirizzo e-mail aggiuntivo a cui inviare eventuali avvisi relativi al servizio.
 
 1. Accetta i termini di servizio reCAPTCHA.
 
-1. Clic **Invia**.
+1. Fai clic su **Invia**.
 
    >[!NOTE]
    >
@@ -68,17 +68,17 @@ I seguenti passaggi vengono eseguiti al di fuori di Marketo.
 
 >[!IMPORTANT]
 >
->Dopo aver seguito questi passaggi e [abilitare CAPTCHA nel primo modulo Marketo](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, assicurati di testare il modulo immediatamente, poiché qualsiasi tipo di configurazione errata nella configurazione reCAPTCHA può interrompere il modulo.
+>Dopo aver eseguito questi passaggi e aver [abilitato CAPTCHA nel primo Marketo form](/help/marketo/product-docs/demand-generation/forms/using-captcha/enable-captcha-in-marketo-forms.md){target="_blank"}, assicurarsi di verificare immediatamente il modulo in quanto qualsiasi configurazione errata nella configurazione di reCAPTCHA potrebbe interrompere il modulo.
 
 1. In Marketo, fai clic su **Amministratore**.
 
    ![](assets/setting-up-recaptcha-v3-4.png)
 
-1. Seleziona **CAPTCHA** nell&#39;albero.
+1. Selezionare **CAPTCHA** nella struttura.
 
    ![](assets/setting-up-recaptcha-v3-5.png)
 
-1. Clic **Modifica** sulle impostazioni CAPTCHA.
+1. Fare clic su **Modifica** per le impostazioni CAPTCHA.
 
    ![](assets/setting-up-recaptcha-v3-6.png)
 
@@ -86,7 +86,7 @@ I seguenti passaggi vengono eseguiti al di fuori di Marketo.
 
    ![](assets/setting-up-recaptcha-v3-7.png)
 
-1. Inserisci la chiave segreta e la chiave del sito. Clic **Salva** al termine.
+1. Inserisci la chiave segreta e la chiave del sito. Al termine, fai clic su **Salva**.
 
    ![](assets/setting-up-recaptcha-v3-8.png)
 

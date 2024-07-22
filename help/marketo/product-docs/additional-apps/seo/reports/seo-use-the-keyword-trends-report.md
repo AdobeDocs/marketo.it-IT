@@ -6,7 +6,7 @@ exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ In questo rapporto puoi vedere come sei classificato in base alle parole chiave 
 
 ## Carica report {#load-report}
 
-1. Vai a **[!UICONTROL Rapporti]**.
+1. Vai a **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
@@ -54,7 +54,7 @@ In questo rapporto puoi vedere come sei classificato in base alle parole chiave 
 >
 >Puoi esportare questo rapporto sul desktop.
 
-1. Clic **[!UICONTROL Esporta CSV]** o **[!UICONTROL Export PDF]**.
+1. Fai clic su **[!UICONTROL Esporta CSV]** o **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
@@ -62,4 +62,4 @@ In questo rapporto puoi vedere come sei classificato in base alle parole chiave 
 
    >[!NOTE]
    >
-   >[Utilizzo del rapporto sulle tendenze della classifica KW competitiva](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+   >[Utilizzo del rapporto sulle tendenze della classificazione KW competitiva](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

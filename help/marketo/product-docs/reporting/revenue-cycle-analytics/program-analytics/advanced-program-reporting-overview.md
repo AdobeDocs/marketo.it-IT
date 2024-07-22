@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Panoramica sui report avanzati sui programmi {#advanced-program-reporting-overview}
 
-**Gestione ciclo ricavi** include diverse aree di analisi e un’ampia gamma di nuove metriche che consentono di misurare l’efficacia del programma.
+**Revenue Cycle Explorer** include diverse aree di analisi e un&#39;ampia gamma di nuove metriche che consentono di misurare l&#39;efficacia del programma.
 
 ![](assets/rev.png)
 
@@ -27,19 +27,19 @@ Ogni area di analisi contiene set di dati e metriche diversi in Revenue Explorer
 
 ## Aree di analisi programma {#program-analysis-areas}
 
-* **[Analisi dei costi del programma](understanding-the-program-cost-analysis-area.md)** - Visualizzare il ROI di tutti i programmi.
+* **[Analisi dei costi del programma](understanding-the-program-cost-analysis-area.md)** - Vedi il ROI di tutti i tuoi programmi.
 
-* **[Analisi dell’iscrizione al programma](understanding-the-program-membership-analysis-area.md)** - Vedi i risultati per canale, partecipazione, criteri di successo, ecc.
+* **[Analisi sull&#39;iscrizione al programma](understanding-the-program-membership-analysis-area.md)** - Visualizza i risultati per canale, partecipazione, criteri di successo, ecc.
 
 * **[Analisi opportunità programma](understanding-the-program-opportunity-analysis-area.md)** - Opportunità generate in base alla distribuzione, ai ricavi e al ROI.
 
-* **[Analisi della fase dei ricavi del programma](understanding-the-program-revenue-stage-analysis-area.md)** - Nuovi nomi che hanno raggiunto particolari stadi di successo nel modello del ciclo dei ricavi.
+* **[Analisi della fase dei ricavi del programma](understanding-the-program-revenue-stage-analysis-area.md)** - Nuovi nomi che hanno raggiunto particolari fasi di successo nel modello del ciclo dei ricavi.
 
 ## Analizzatori di programmi {#program-analyzers}
 
-* **Analizzatore di programmi** - Identificare rapidamente i programmi che hanno esito positivo o negativo e focalizzare le risorse in modo appropriato.
+* **Analizzatore di programmi** - Identifica rapidamente i programmi che hanno esito positivo o negativo e focalizza le risorse in modo appropriato.
 
-* **Analisi influenza opportunità** - Dimostrare il contributo del marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
+* **Opportunity Influence Analyzer** - Prova il contributo del marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
 
 ## Opzioni report {#report-options}
 

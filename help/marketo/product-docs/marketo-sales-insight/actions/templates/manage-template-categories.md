@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ## Creare una categoria {#create-a-category}
 
-1. Fai clic su **Modelli** scheda.
+1. Fare clic sulla scheda **Modelli**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Fai clic su **+** icona accanto a **Categorie**.
+1. Fai clic sull&#39;icona **+** accanto a **Categorie**.
 
    ![](assets/manage-template-categories-2.png)
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
 ## Rinominare una categoria di modelli {#rename-a-template-category}
 
-1. Fai clic su **Modelli** scheda.
+1. Fare clic sulla scheda **Modelli**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Seleziona **Rinomina**.
+1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Selezionare **Rinomina**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Eliminare una categoria di modelli {#delete-a-template-category}
 
-1. Fai clic su **Modelli** scheda.
+1. Fare clic sulla scheda **Modelli**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Seleziona **Elimina**.
+1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Selezionare **Elimina**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/manage-template-categories-9.png)
 

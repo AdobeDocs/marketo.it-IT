@@ -17,7 +17,7 @@ Esistono tre modi diversi per aggiungere manualmente persone a un account denomi
 
 ## Azione flusso singolo {#single-flow-action}
 
-1. Clic **Database**.
+1. Fare clic su **Database**.
 
    ![](assets/one-2.png)
 
@@ -25,17 +25,17 @@ Esistono tre modi diversi per aggiungere manualmente persone a un account denomi
 
    ![](assets/two.png)
 
-1. Fai clic sulla persona per selezionarla. Fai clic su **Azioni della persona** a discesa, fai clic su **Marketing** e seleziona **Aggiungi a account denominato**.
+1. Fai clic sulla persona per selezionarla. Fai clic sul menu a discesa **Azioni persona**, fai clic su **Marketing** e seleziona **Aggiungi a account denominato**.
 
    ![](assets/three.png)
 
-1. Fai clic su **Account denominato** , selezionare l&#39;account denominato desiderato e fare clic su **Esegui ora**.
+1. Fare clic sull&#39;elenco a discesa **Account denominato**, selezionare l&#39;account denominato desiderato e fare clic su **Esegui ora**.
 
    ![](assets/four.png)
 
 ## Passaggio di flusso di Smart Campaign {#smart-campaign-flow-step}
 
-1. Seleziona la tua campagna avanzata e fai clic su **Flusso**.
+1. Seleziona Smart Campaign e fai clic su **Flusso**.
 
    ![](assets/five.png)
 
@@ -47,7 +47,7 @@ Esistono tre modi diversi per aggiungere manualmente persone a un account denomi
 
    ![](assets/seven.png)
 
-1. Fai clic su **Account denominato** e selezionare l&#39;account denominato desiderato.
+1. Fare clic sul menu a discesa **Account denominato** e selezionare l&#39;account denominato desiderato.
 
    ![](assets/eight.png)
 
@@ -55,15 +55,15 @@ Esistono tre modi diversi per aggiungere manualmente persone a un account denomi
 
 ## Importazione elenco {#list-import}
 
-1. Seleziona l’elenco, fai clic su **Azioni elenco** a discesa e selezionare **Importa elenco**.
+1. Seleziona l&#39;elenco, fai clic sull&#39;elenco a discesa **Azioni elenco** e seleziona **Importa elenco**.
 
    ![](assets/nine.png)
 
-1. Dopo aver scelto il file e le impostazioni, fare clic su **Successivo**.
+1. Dopo aver scelto il file e le impostazioni, fare clic su **Avanti**.
 
    ![](assets/ten.png)
 
-1. Mappa i campi desiderati. Assicurati che le **Account denominato** è mappato.
+1. Mappa i campi desiderati. Verificare che il campo **Account denominato** sia mappato.
 
    ![](assets/eleven.png)
 

@@ -23,19 +23,19 @@ Con questa integrazione, puoi inviare un pubblico di Marketo Engage a Google per
 
    ![](assets/admin.png)
 
-1. Clic **[!UICONTROL LaunchPoint]**.
+1. Fare clic su **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleziona **[!UICONTROL Nuovo]** allora **[!UICONTROL Nuovo servizio]**.
+1. Selezionare **[!UICONTROL Nuovo]** e quindi **[!UICONTROL Nuovo servizio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]** e seleziona **[!UICONTROL Customer Match di Google]** dal **[!UICONTROL Servizio]** a discesa. Clic **[!UICONTROL Crea]**.
+1. Immetti un **[!UICONTROL Nome visualizzato]** e seleziona **[!UICONTROL Google Customer Match]** dal menu a discesa **[!UICONTROL Service]**. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/chooseservice.png)
 
-1. Per collegare un account Google AdWords, fai clic su **[!UICONTROL Autorizza]**.
+1. Per connettere un account Google AdWords, fare clic su **[!UICONTROL Autorizza]**.
 
    ![](assets/authorizeaccount-1.png)
 
@@ -43,7 +43,7 @@ Con questa integrazione, puoi inviare un pubblico di Marketo Engage a Google per
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare tipi di pubblico su più account AdWords, l&#39;utente Google autorizzato nei passaggi seguenti deve avere accesso a _tutto_ di questi conti.
+   >Affinché Marketo possa inviare tipi di pubblico su più account AdWords, l&#39;utente di Google autorizzato nei passaggi seguenti deve avere accesso a _tutti_ di questi account.
 
    ![](assets/chooseaccount.png)
 
@@ -51,7 +51,7 @@ Con questa integrazione, puoi inviare un pubblico di Marketo Engage a Google per
 
    ![](assets/reviewpermissions.png)
 
-1. Il tuo account Google AdWords è ora connesso a Marketo. Clic **[!UICONTROL Crea]**.
+1. Il tuo account Google AdWords è ora connesso a Marketo. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/authorizesuccess.png)
 

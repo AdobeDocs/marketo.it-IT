@@ -24,7 +24,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
 | Stato | Descrizione |
 |---|---|
 | Archivia | Aggiunge l’e-mail alla cartella archiviata e interrompe tutte le attività di visualizzazione disabilitata e il tracciamento dei clic per tale e-mail. |
-| Completato | Contrassegna l’e-mail come completata da segnalare nell’analisi dei modelli. |
+| Operazione riuscita | Contrassegna l’e-mail come completata da segnalare nell’analisi dei modelli. |
 
 **Archiviato**
 
@@ -40,7 +40,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr> 
   <tr> 
    <td>Elimina</td> 
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> Le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
+   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -59,7 +59,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr> 
   <tr> 
    <td>Elimina</td> 
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> Le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
+   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -78,12 +78,12 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr> 
   <tr> 
    <td>Elimina</td> 
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> Le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
+   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-**Azioni di seguito**
+**Azioni di follow-up**
 
 ![](assets/using-quick-actions-to-speed-up-your-workflow-1.png)
 

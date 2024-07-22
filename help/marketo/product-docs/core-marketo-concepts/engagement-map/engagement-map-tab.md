@@ -1,8 +1,8 @@
 ---
 description: Scheda Mappa di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
 title: Scheda Mappa di coinvolgimento
-exl-id: f54b9258-451b-4607-b5a9-f8627c6f420a
-source-git-commit: 4ada58abaed493e548573e9c48c3ee544b6f4476
+exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '949'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Passaggi di flusso: se un passo di flusso include delle scelte, questa scheda mo
 * Elenco delle condizioni di scelta associate alla fase del flusso
 * Passaggio Modifica flusso
 
-Passaggi di flusso: se un passaggio di flusso esegue _non_ Includi eventuali scelte, questa scheda mostrerà gli attributi associati alla fase del flusso. Facendo clic su di esso verrà visualizzato un pannello a tendina con le seguenti informazioni:
+Passaggi del flusso: se un passaggio del flusso _non_ include scelte, questa scheda mostrerà gli attributi associati al passaggio del flusso. Facendo clic su di esso verrà visualizzato un pannello a tendina con le seguenti informazioni:
 
 * Campagna a cui appartiene il passaggio di flusso
 * Elenco di attributi associati al passaggio del flusso
@@ -69,7 +69,7 @@ Passaggi di flusso: se un passaggio di flusso esegue _non_ Includi eventuali sce
    * Elenco delle condizioni di scelta associate alla fase del flusso
    * Passaggio Modifica flusso
 
-* Se una campagna Execute (Esegui) o Request (Richiedi) include delle scelte, facendo clic sulla scheda del flusso si espande per mostrare tutte le scelte nelle singole schede. Facendo clic su _scelta_ espanderà la campagna associata alla scelta specifica e mostrerà un pannello a tendina con le seguenti informazioni:
+* Se una campagna Execute (Esegui) o Request (Richiedi) include delle scelte, facendo clic sulla scheda del flusso si espande per mostrare tutte le scelte nelle singole schede. Facendo clic sulla scheda _scelta_, verrà espansa la campagna associata alla scelta specifica e verrà visualizzato un pannello a tendina con le seguenti informazioni:
 
    * Campagna a cui appartiene la scelta
    * Modifica scelta

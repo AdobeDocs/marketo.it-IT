@@ -7,7 +7,7 @@ feature: Snippets
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Annullare l&#39;approvazione di uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
+>[Annullamento dell&#39;approvazione di uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/unapprove-a-snippet.md)
 
 Eliminare uno snippet non più necessario.
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a43-3a47.png)
 
-1. Vai al frammento e quindi in **Azioni snippet** fai clic su **Elimina**.
+1. Vai al tuo frammento di codice, quindi in **Azioni frammento di codice** fai clic su **Elimina**.
 
    ![](assets/image2014-9-16-10-3a43-3a57.png)
 
-1. Fai clic su **Elimina** per confermare o semplicemente **Annulla**.
+1. Fai clic su **Elimina** per confermare o solo **Annulla**.
 
    ![](assets/image2014-9-16-10-3a44-3a8.png)
 
@@ -35,4 +35,4 @@ Eliminare uno snippet non più necessario.
    >
    >Puoi eliminare solo un frammento non approvato e non utilizzato da alcuna risorsa.
 
-Completato! Non è possibile recuperarlo, quindi accertati prima di fare clic sul pulsante Elimina.
+Fine. Non è possibile recuperarlo, quindi accertati prima di fare clic sul pulsante Elimina.

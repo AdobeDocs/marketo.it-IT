@@ -6,14 +6,14 @@ exl-id: b3b5e14c-f914-429c-a4b9-6b535ad8e882
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Sincronizzazione SFDC: coda lead {#sfdc-sync-lead-queue}
 
-Il Marketo Engage consente di aggiungere persone a [Code lead Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} per facilitare la distribuzione dei lead. Ecco i dettagli.
+Il Marketo Engage consente di aggiungere persone alle [code lead Salesforce](https://help.salesforce.com/apex/HTViewHelpDoc?id=queues_overview.htm){target="_blank"} per facilitare la distribuzione dei lead. Ecco i dettagli.
 
 ## Come assegnare una persona a una coda in Marketo? {#how-to-assign-a-person-to-a-queue-in-marketo}
 

@@ -13,27 +13,27 @@ ht-degree: 0%
 
 # SEO - Suggerimenti per ottenere collegamenti in entrata {#seo-get-inbound-link-suggestions}
 
-Marketo può suggerire quali collegamenti in entrata sono utili per il tuo [ottimizzazione fuori pagina](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
+Marketo può suggerire quali collegamenti in entrata sono utili per [l&#39;ottimizzazione fuori pagina](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 
-1. Vai a **[!UICONTROL Collegamenti in entrata]** sezione.
+1. Vai alla sezione **[!UICONTROL Collegamenti in entrata]**.
 
    ![](assets/image2014-9-18-13-3a20-3a44.png)
 
-1. Clic **[!UICONTROL Ottieni suggerimenti]**.
+1. Fai clic su **[!UICONTROL Ottieni suggerimenti]**.
 
    ![](assets/image2014-9-18-13-3a21-3a8.png)
 
-1. Immettere una parola chiave. Clic **[!UICONTROL Suggerisci collegamenti]**.
+1. Immettere una parola chiave. Fai clic su **[!UICONTROL Suggerisci collegamenti]**.
 
    ![](assets/image2014-9-18-13-3a21-3a31.png)
 
-1. Seleziona i collegamenti. Clic **[!UICONTROL Aggiungi selezionati]**.
+1. Seleziona i collegamenti. Fai clic su **[!UICONTROL Aggiungi selezionati]**.
 
    ![](assets/image2014-9-18-13-3a21-3a40.png)
 
    >[!TIP]
    >
-   >Lo sapevi che puoi  [aggiungere il collegamento a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Dai un&#39;occhiata!
+   >Lo sapevi che puoi [aggiungere il tuo collegamento a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)? Dai un&#39;occhiata!
 
 Fantastico! Questi collegamenti aggiunti verranno ora tracciati.
 

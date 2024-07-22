@@ -19,7 +19,7 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
 >
 >Apportare modifiche a un elenco avanzato o a una fase del flusso in una campagna attiva può potenzialmente comprometterne la funzionalità. Se scegli di farlo, procedi con cautela.
 
-1. In Smart Campaign, fai clic su **[!UICONTROL Elenco avanzato]** scheda.
+1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Elenco avanzato]**.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 
@@ -29,7 +29,7 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
 
    >[!NOTE]
    >
-   >Viene eseguita una campagna avanzata con trigger in _Trigger_ modalità. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
+   >Una campagna avanzata con trigger viene eseguita in modalità _Trigger_. Viene eseguito su una persona alla volta in base agli eventi attivati ed eventuali filtri aggiuntivi.
 
    >[!IMPORTANT]
    >
@@ -53,9 +53,9 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
 
    >[!NOTE]
    >
-   >Con più trigger, una persona passa attraverso il flusso se _QUALSIASI_ viene attivato uno dei trigger.
+   >Con più trigger, una persona passa attraverso il flusso se _ANY_ uno dei trigger viene attivato.
 
-Per eseguire la campagna su un set di persone contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
+Per eseguire la campagna su un gruppo di persone contemporaneamente, scopri come [definire un elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -15,42 +15,42 @@ ht-degree: 0%
 
 Configurare ed eliminare sottoscrizioni ai rapporti.
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Fai clic su **Iscrizioni** scheda.
+1. Fare clic sulla scheda **Sottoscrizioni**.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
-   In questa pagina vengono visualizzate le sottoscrizioni a tutti i report dell&#39;account, raggruppati per [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Ciò include [abbonamenti ai report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) e nei rapporti di Revenue Cycle Explorer.
+   In questa pagina vengono visualizzate le sottoscrizioni a tutti i report nel tuo account, raggruppati per [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md). Sono incluse [sottoscrizioni a report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md) e a report di Revenue Cycle Explorer.
 
    >[!TIP]
    >
-   >Puoi anche gestire gli abbonamenti a un singolo rapporto in **Attività di marketing**. Seleziona il rapporto e fai clic su **Iscrizioni** scheda.
+   >Puoi anche gestire gli abbonamenti a un singolo rapporto in **Attività di marketing**. Selezionare il report e fare clic sulla scheda **Sottoscrizioni**.
 
    Per modificare la frequenza dell’e-mail di un rapporto, fai clic sul campo Frequenza e seleziona una nuova opzione dal menu a discesa.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Per modificare gli indirizzi e-mail di un abbonamento, fai clic su **Destinatari e-mail** e modificare gli indirizzi e-mail.
+1. Per modificare gli indirizzi e-mail di un abbonamento, fai clic sul campo **Destinatari e-mail** e modifica gli indirizzi e-mail.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
    >[!TIP]
    >
    >* Utilizza le virgole tra gli indirizzi e-mail.
-   >* Per salvare le modifiche, fai clic su un’area _esterno_ l&#39;elenco delle sottoscrizioni.
+   >* Per salvare le modifiche, fai clic su un&#39;area _esterna_ all&#39;elenco delle sottoscrizioni.
 
    È inoltre possibile:
 
-   * Fai clic su **Visualizza** per aprire un report.
-   * Deseleziona il **Attivo** per disattivare la sottoscrizione.
-   * Fai clic su e modifica il **Riepilogo** per modificare il numero di righe di anteprima visualizzate nell’e-mail.
-   * Deseleziona il **Excel** casella di controllo per inviare i riepiloghi dei rapporti senza l’allegato del foglio di calcolo.
-   * Fai clic su **Invia** per inviare immediatamente l’e-mail del rapporto.
+   * Fare clic sul pulsante **Visualizza** per aprire un report.
+   * Deselezionare la casella di controllo **Attivo** per disattivare la sottoscrizione.
+   * Fai clic e modifica il campo **Riepilogo** per modificare il numero di righe di anteprima visualizzate nell&#39;e-mail.
+   * Deselezionare la casella di controllo **Excel** per inviare i riepiloghi dei report senza l&#39;allegato del foglio di calcolo.
+   * Fai clic sul pulsante **Invia** per inviare immediatamente l&#39;e-mail del report.
 
-1. Per eliminare completamente una sottoscrizione, selezionarla e fare clic su **Elimina sottoscrizione**.
+1. Per eliminare completamente una sottoscrizione, selezionare la riga e fare clic su **Elimina sottoscrizione**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 
@@ -60,5 +60,5 @@ Configurare ed eliminare sottoscrizioni ai rapporti.
 
    >[!MORELIKETHIS]
    >
-   >* [Iscriviti a un rapporto di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Iscriviti a un rapporto di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >* [Iscriviti a un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+   >* [Abbonati a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

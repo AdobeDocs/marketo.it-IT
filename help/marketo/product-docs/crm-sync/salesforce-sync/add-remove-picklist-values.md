@@ -17,11 +17,11 @@ Di seguito sono riportati alcuni aspetti da considerare sull’aggiunta e la rim
 
 ## Aggiunta di valori di elenco a discesa {#adding-picklist-values}
 
-1. Se in Salesforce viene aggiunto un valore aggiuntivo a un tipo di campo dell’elenco a discesa, riceverai un’ [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} identificando i moduli su cui questo influirà.
+1. Se in Salesforce viene aggiunto un valore aggiuntivo a un tipo di campo dell&#39;elenco a discesa, riceverai una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} che identifica i moduli su cui questo influirà.
 
    ![](assets/image2015-1-21-14-3a4-3a7.png)
 
-1. Passa all’editor dei moduli e [aggiungi il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} all’elenco dei suggerimenti.
+1. Vai all&#39;editor dei moduli e [aggiungi il valore aggiuntivo](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md){target="_blank"} all&#39;elenco dei suggerimenti.
 
 ## Rimuovi valori elenco a discesa {#remove-picklist-values}
 

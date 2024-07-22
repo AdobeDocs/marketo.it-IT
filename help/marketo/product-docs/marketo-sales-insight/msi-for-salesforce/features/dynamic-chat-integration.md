@@ -5,7 +5,7 @@ exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
 source-git-commit: 6e81a8891f7d6e5916549d453a694b42e08cd496
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '415'
 ht-degree: 5%
 
 ---
@@ -16,23 +16,23 @@ Ulteriori informazioni sull’integrazione del Dynamic Chat con Sales Insight.
 
 >[!PREREQUISITES]
 >
->* La versione del pacchetto SFDC Sales Insight deve essere [2.4.0 o versione successiva](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
+>* La versione del pacchetto SFDC Sales Insight deve essere [2.4.0 o successiva](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"}
 >
->* È necessario disporre di [Integrazione del Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} configurazione
+>* È necessario configurare l&#39;[integrazione di Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"}
 >
->* Assicurati in Sales Insight [Impostazioni operative](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"}, you have the "API Secret Key" field populated. If you don't, learn how to retrieve it [here](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
+>* Assicurati che nel tuo approfondimento sulle vendite [Impostazioni operative](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md#operational-settings){target="_blank"} sia compilato il campo &quot;Chiave segreta API&quot;. In caso contrario, scopri come recuperarlo [qui](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-sales-insight-in-marketo){target="_blank"}.
 
 ## Scheda Configurazione di Marketo Sales Insight {#marketo-sales-insight-configuration-tab}
 
 Per abilitare l’integrazione del Dynamic Chat, segui i passaggi indicati di seguito.
 
-1. Accedi al tuo account Salesforce, fai clic sul segno + alla fine della barra delle schede e fai clic su **Configurazione approfondimento vendite Marketo**.
+1. Accedi al tuo account Salesforce, fai clic sul segno + alla fine della barra delle schede e fai clic su **Configurazione di Marketo Sales Insight**.
 
 1. Fate clic su per aprire il pannello &quot;Visualforce&quot;.
 
    ![](assets/dynamic-chat-integration-1.png)
 
-1. Seleziona la **Abilita dati Dynamic Chat** casella di controllo.
+1. Selezionare la casella di controllo **Abilita dati Dynamic Chat**.
 
    ![](assets/dynamic-chat-integration-2.png)
 
@@ -42,13 +42,13 @@ Gli utenti di Sales Insight possono sfruttare le seguenti attività di Dynamic C
 
 Dialogo coinvolto: effettuato l’accesso a Marketo e popolato in Sales Insight quando un visitatore fa clic su un chatbot e si impegna con il dialogo.
 
-* Nome dialogo
+* Nome Dialogo
 * URL pagina
 * Stato (Avviato / Rilasciato / Completato)
 
 Appuntamento pianificato: effettuato l’accesso a Marketo e popolato in Sales Insight quando un visitatore pianifica correttamente un appuntamento tramite il chatbot.
 
-* Nome dialogo
+* Nome Dialogo
 * Agente
 * URL pagina
 * Data e ora pianificate (inserire la data e l&#39;ora)
@@ -56,13 +56,13 @@ Appuntamento pianificato: effettuato l’accesso a Marketo e popolato in Sales I
 
 Obiettivo raggiunto: effettuato l’accesso a Marketo e popolato in Sales Insight quando un visitatore raggiunge un obiettivo in un flusso di dialogo.
 
-* Nome dialogo
+* Nome Dialogo
 * Nome obiettivo
 * URL pagina
 
 Interazione con il documento: effettuato l’accesso a Marketo e popolato in Sales Insight quando un visitatore interagisce con un documento condiviso tramite il chatbot.
 
-* Nome dialogo
+* Nome Dialogo
 * Documento
 * Stato
 
@@ -87,7 +87,7 @@ La scheda Chat è inclusa anche nella scheda Global Marketo. Include tre tipi di
 * Persona
 * Account
 * Tipo di attività (finestra di dialogo Coinvolto, appuntamento pianificato, obiettivo raggiunto)
-* Nome dialogo
+* Nome Dialogo
 * Data e ora
 
 Di nuovo, puoi saperne di più su un tipo di attività facendo clic su di esso.

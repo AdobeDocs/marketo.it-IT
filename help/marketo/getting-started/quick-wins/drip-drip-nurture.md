@@ -6,7 +6,7 @@ exl-id: b457e191-3b46-4a4d-af1b-e9127d81b71c
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
@@ -24,19 +24,19 @@ Marketo offre un sistema di sviluppo avanzato e sofisticato. Ecco come!
 
 ## Passaggio 1: creare un programma di coinvolgimento {#step-create-an-engagement-program}
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/drip-drip-nurture-1.png)
 
-1. Seleziona la **Apprendimento** cartella, fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuovo programma]**.
+1. Seleziona la cartella **Apprendimento**, fai clic sull&#39;elenco a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo programma]**.
 
    ![](assets/drip-drip-nurture-2.png)
 
-1. Immetti un **[!UICONTROL Nome]** e seleziona **[!UICONTROL Coinvolgimento]** per **[!UICONTROL Tipo di programma]**.
+1. Immetti un **[!UICONTROL Nome]** e seleziona **[!UICONTROL Coinvolgimento]** per il **[!UICONTROL Tipo di programma]**.
 
    ![](assets/drip-drip-nurture-3.png)
 
-1. Assicurati che le **[!UICONTROL Canale]** il campo è **[!UICONTROL Allevamento]** e fai clic su **[!UICONTROL Crea]**.
+1. Assicurati che il campo **[!UICONTROL Canale]** sia **[!UICONTROL Sviluppo]** e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/drip-drip-nurture-4.png)
 
@@ -48,31 +48,31 @@ Marketo offre un sistema di sviluppo avanzato e sofisticato. Ecco come!
 
    ![](assets/drip-drip-nurture-5.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/drip-drip-nurture-6.png)
 
-1. Immetti un **[!UICONTROL Nome]**, seleziona la **[!UICONTROL Modello]** desideri utilizzare e fai clic su **[!UICONTROL Crea]**.
+1. Immetti un **[!UICONTROL Nome]**, seleziona il **[!UICONTROL Modello]** che desideri utilizzare e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/drip-drip-nurture-7.png)
 
    >[!NOTE]
    >
-   >L’editor e-mail non è visualizzato? Probabilmente il browser ha bloccato la finestra. Abilita popup da `app.marketo.com` nel browser e fai clic su **[!UICONTROL Modifica bozza]** nella barra dei menu superiore.
+   >L’editor e-mail non è visualizzato? Probabilmente il browser ha bloccato la finestra. Abilita i popup di `app.marketo.com` nel browser e fai clic su **[!UICONTROL Modifica bozza]** nella barra dei menu superiore.
 
 1. Immetti un oggetto.
 
    ![](assets/drip-drip-nurture-8.png)
 
-1. Seleziona l’area dell’e-mail da modificare, fai clic sull’icona a forma di ingranaggio e seleziona **[!UICONTROL Modifica]**.
+1. Seleziona l&#39;area dell&#39;e-mail che desideri modificare, fai clic sull&#39;icona a forma di ingranaggio e seleziona **[!UICONTROL Modifica]**.
 
    ![](assets/drip-drip-nurture-9.png)
 
-1. Modifica l’e-mail e fai clic su **[!UICONTROL Salva]**.
+1. Modifica l&#39;e-mail e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/drip-drip-nurture-10.png)
 
-1. Sotto **[!UICONTROL Azioni e-mail]**, fai clic su **[!UICONTROL Approva e chiudi]**.
+1. In **[!UICONTROL Azioni e-mail]**, fai clic su **[!UICONTROL Approva e chiudi]**.
 
    ![](assets/drip-drip-nurture-11.png)
 
@@ -88,17 +88,17 @@ Marketo offre un sistema di sviluppo avanzato e sofisticato. Ecco come!
 
 Ora è il momento di creare un flusso di contenuti per il programma di coinvolgimento utilizzando le e-mail create.
 
-1. Seleziona il programma di coinvolgimento e fai clic su **[!UICONTROL Flussi]** scheda.
+1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **[!UICONTROL Streams]**.
 
    ![](assets/drip-drip-nurture-13.png)
 
-1. Fai clic su **[!UICONTROL Aggiungi contenuto]** nel flusso.
+1. Fare clic sul pulsante **[!UICONTROL Aggiungi contenuto]** nel flusso.
 
    ![](assets/drip-drip-nurture-14.png)
 
    >[!TIP]
    >
-   >È inoltre possibile utilizzare **+** icona.
+   >È inoltre possibile utilizzare l&#39;icona **+**.
 
 1. Lascia selezionato il tipo &quot;E-mail&quot;. Trova e seleziona le due e-mail create.
 
@@ -106,7 +106,7 @@ Ora è il momento di creare un flusso di contenuti per il programma di coinvolgi
 
 ## Passaggio 4: attivare il contenuto del flusso {#step-activate-stream-content}
 
-1. Attiva tutti i contenuti contemporaneamente facendo clic sull’icona dell’ingranaggio di flusso, quindi fai clic su **[!UICONTROL Attiva tutti i contenuti]**.
+1. Attiva tutti i contenuti contemporaneamente facendo clic sull&#39;icona a forma di ingranaggio del flusso, quindi fai clic su **[!UICONTROL Attiva tutti i contenuti]**.
 
    ![](assets/drip-drip-nurture-16.png)
 
@@ -118,11 +118,11 @@ Ora è il momento di creare un flusso di contenuti per il programma di coinvolgi
 
 ## Passaggio 5: impostare la cadenza del flusso {#step-set-the-stream-cadence}
 
-1. Clic **[!UICONTROL Imposta cadenza flusso]**.
+1. Fare clic su **[!UICONTROL Imposta cadenza flusso]**.
 
    ![](assets/drip-drip-nurture-17.png)
 
-1. Modifica le impostazioni in base alla pianificazione desiderata e fai clic su **[!UICONTROL Salva]**.
+1. Modificare le impostazioni in base alla pianificazione desiderata e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/drip-drip-nurture-18.png)
 
@@ -134,7 +134,7 @@ Ora è il momento di creare un flusso di contenuti per il programma di coinvolgi
 
 ## Passaggio 6: aggiungere una persona di prova al programma di coinvolgimento {#step-add-a-test-person-to-your-engagement-program}
 
-1. Vai a **[!UICONTROL Database]** area.
+1. Passare all&#39;area **[!UICONTROL Database]**.
 
    ![](assets/drip-drip-nurture-19.png)
 
@@ -146,11 +146,11 @@ Ora è il momento di creare un flusso di contenuti per il programma di coinvolgi
    >
    >Assicurati che la persona che effettua il test disponga di un indirizzo e-mail valido, in modo da poter confermare la ricezione delle e-mail durante il test.
 
-1. Fai clic con il pulsante destro del mouse sulla persona, quindi fai clic su **[!UICONTROL Programmi]** e **[!UICONTROL Aggiungi al programma di coinvolgimento...]**.
+1. Fare clic con il pulsante destro del mouse sulla persona, quindi scegliere **[!UICONTROL Programmi]** e **[!UICONTROL Aggiungi al programma di coinvolgimento...]**.
 
    ![](assets/drip-drip-nurture-21.png)
 
-1. Seleziona il **[!UICONTROL Programma]** e **[!UICONTROL Flusso]**, quindi fai clic su **[!UICONTROL Esegui ora]**.
+1. Seleziona il **[!UICONTROL programma]** e il **[!UICONTROL flusso]**, quindi fai clic su **[!UICONTROL Esegui ora]**.
 
    ![](assets/drip-drip-nurture-22.png)
 

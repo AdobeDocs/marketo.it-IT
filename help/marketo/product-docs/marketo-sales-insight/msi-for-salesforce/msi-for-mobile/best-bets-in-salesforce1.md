@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elementi di maggiore rilevanza in Salesforce1 {#best-bets-in-salesforce}
 
-Il tuo [Elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i tuoi lead e contatti con la massima urgenza e punteggio relativo. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
+I [elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i lead e i contatti con il punteggio relativo e di urgenza più elevato. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
 
 1. Vai all’area Marketo nell’app Salesforce.
 
@@ -23,5 +23,5 @@ Il tuo [Elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales
 
 >[!MORELIKETHIS]
 >
->* [Momenti interessanti in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
+>* [Momenti di interesse in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/interesting-moments-in-salesforce1.md)
 >* [Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/msi-for-mobile/send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce1.md)

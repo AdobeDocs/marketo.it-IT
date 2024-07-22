@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A volte è possibile trascinare un campo errato nel report. Ecco come rimuoverlo:
 
-1. Trascina il campo da rimuovere nella sezione **cestino** in basso a destra nel rapporto.
+1. Trascina il campo da rimuovere sull&#39;icona **cestino** in basso a destra del report.
 
    ![](assets/image2015-3-24-16-3a40-3a13.png)
 
@@ -25,4 +25,4 @@ A volte è possibile trascinare un campo errato nel report. Ecco come rimuoverlo
 
 >[!MORELIKETHIS]
 >
->[Salvataggio di un rapporto di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Salvataggio di un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

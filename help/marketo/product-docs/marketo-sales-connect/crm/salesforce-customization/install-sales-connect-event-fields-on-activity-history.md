@@ -17,11 +17,11 @@ Dopo aver installato il pacchetto Enterprise in Salesforce, puoi installare i ca
 
 Accertati di collaborare con l’amministratore Salesforce durante l’esecuzione di questi passaggi. In questo esempio i campi verranno installati nel **Layout pagina lead**. È inoltre possibile installare i campi nei layout di pagina Contatto, Account e Opportunità. Ricorda che quando si registrano le e-mail su account e opportunità è necessario il contatto a cui si sta inviando l’e-mail come ruolo di contatto.
 
-1. Clic **Configurazione**.
-1. Clic **Personalizza**.
-1. Clic **Lead**.
-1. Clic **Layout di pagina**.
-1. Clic **Modifica** accanto al layout di pagina che si desidera modificare.
+1. Fare clic su **Configurazione**.
+1. Fai clic su **Personalizza**.
+1. Fai clic su **Lead**.
+1. Fare clic su **Layout di pagina**.
+1. Fai clic su **Modifica** accanto al layout di pagina da modificare.
 
    >[!NOTE]
    >
@@ -30,8 +30,8 @@ Accertati di collaborare con l’amministratore Salesforce durante l’esecuzion
 1. Scorri verso il basso fino alla sezione Cronologia attività.
 1. Fai clic sulla chiave inglese da modificare.
 1. Selezionare i campi Sales Connect che si desidera includere nella sezione Cronologia attività. Se i campi Sales Connect non sono visualizzati qui, è possibile che sia stato installato il pacchetto Salesforce errato.
-1. Clic **Aggiungi** per spostare i campi desiderati.
-1. Clic **OK**.
-1. Clic **Salva**.
+1. Fai clic su **Aggiungi** per spostare i campi desiderati.
+1. Fare clic su **OK**.
+1. Fai clic su **Salva**.
 
    I tuoi utenti possono ora visualizzare informazioni e aggiornamenti utili sulle e-mail in Salesforce!

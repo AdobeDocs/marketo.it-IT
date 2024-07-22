@@ -27,32 +27,32 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Seleziona **Pulsanti social network (con Analytics)**.
+1. Seleziona **Pulsanti social (con Analytics)**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Quando la pagina di destinazione è attiva, controlla l’attività generata dal pulsante social (con Analytics) sul [Dashboard social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Quando la pagina di destinazione è attiva, visualizza l&#39;attività generata dal pulsante per social network (con Analytics) nel [dashboard per social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
-   Se invece aggiungi un pulsante Mi piace/Consiglia (Lite), verifica il numero di condivisioni nel [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Se invece aggiungi un pulsante Mi piace/Consiglia (Lite), consulta il numero di condivisioni nel [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Seleziona **Crea nuovo** dal menu a discesa.
+1. Selezionare **Crea nuovo** dal menu a discesa.
 
    >[!NOTE]
    >
-   >Puoi anche creare un pulsante per social network all’interno di un programma selezionando **Nuovo** > **Nuova risorsa locale**.
+   >Puoi anche creare un pulsante per social network all&#39;interno di un programma selezionando **Nuovo** > **Nuova risorsa locale**.
 
-1. Assegna un nome al pulsante social, seleziona **Nessuno** da **Clona da** e fai clic su **Inserisci**.
+1. Assegna un nome al pulsante del social network, seleziona **Nessuno** da **Clona da** e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Per risparmiare tempo, puoi utilizzare **Clona da** per copiare tutte le impostazioni da un pulsante social esistente.
+   >Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da un pulsante social esistente.
 
-   [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [inserisci il pulsante social nel tuo sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [pubblica la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [inserisci il pulsante social nel tuo sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
 
 Congratulazioni! Hai aggiunto un pulsante Social alla pagina di destinazione. Assicurati di approvare la pagina di destinazione.
 
 >[!MORELIKETHIS]
 >
->Hai terminato, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con [personalizzazione dello stile del pulsante](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) o  [modifica dei messaggi di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) si presenta.
+>Hai terminato, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con [personalizzare lo stile del pulsante](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) o [modificare i messaggi di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) che presenta.

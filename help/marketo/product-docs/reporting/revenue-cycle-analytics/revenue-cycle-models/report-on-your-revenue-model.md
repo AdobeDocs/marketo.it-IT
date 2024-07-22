@@ -23,15 +23,15 @@ Per ogni modello di ciclo dei ricavi, è possibile generare un rapporto sul nume
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
-1. Clic **Lead per fase ricavi**.
+1. Fare clic su **Lead per fase ricavi**.
 
    ![](assets/image2015-4-29-16-3a15-3a3.png)
 
-1. Fai clic sul pulsante **Configurazione** e quindi sotto la sezione del filtro fare doppio clic su **Modello del ciclo dei ricavi**.
+1. Fare clic sulla scheda **Configurazione**, quindi fare doppio clic su **Modello ciclo ricavi** sotto la sezione del filtro.
 
    ![](assets/image2015-4-29-16-3a37-3a57.png)
 
-1. Seleziona il file approvato **Modello**.
+1. Seleziona il **modello** approvato.
 
    ![](assets/image2015-4-29-16-3a40-3a34.png)
 
@@ -39,7 +39,7 @@ Per ogni modello di ciclo dei ricavi, è possibile generare un rapporto sul nume
    >
    >Per essere disponibile da questo menu a discesa, il modello deve essere approvato o avere almeno fasi approvate.
 
-1. Fai clic su **Report** per vedere quanti lead si trovano in ogni fase del modello del ciclo dei ricavi.
+1. Fai clic sulla scheda **Report** per vedere quanti lead si trovano in ogni fase del modello del ciclo dei ricavi.
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 

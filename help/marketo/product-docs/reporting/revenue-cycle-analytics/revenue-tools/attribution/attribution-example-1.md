@@ -6,7 +6,7 @@ exl-id: 851cbad3-0f6d-4ea0-857f-8b15337c7540
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Leggi lo scenario seguente e prova a determinare i numeri che devono essere presenti nella griglia.
 
-* 11 aprile | Fred è acquisita da (fiera)
-* Aprile 15 | Partecipazione a Margo (webinar) - operazione riuscita
+* 11 aprile | Fred viene acquisita da (Tradeshow)
+* Aprile 15 | Partecipazioni Margo (webinar) - operazione riuscita
 * Aprile 22 | Fred è associato (ruolo) all’opportunità
 * Aprile 22 | Opportunità creata per 3.000 dollari
 

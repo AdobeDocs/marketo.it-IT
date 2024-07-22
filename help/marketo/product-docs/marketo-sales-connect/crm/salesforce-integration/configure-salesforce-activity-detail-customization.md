@@ -5,8 +5,8 @@ exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '707'
-ht-degree: 0%
+source-wordcount: '697'
+ht-degree: 1%
 
 ---
 
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* Salesforce e Marketo Sales Connect [deve essere connesso](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* Registrazione dell’attività e-mail tramite API [deve essere abilitato](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* Salesforce e Marketo Sales Connect [ devono essere connessi](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività Salesforce quando un&#39;attività/promemoria Sales Connect viene sincronizzato con Salesforce.
 
 >[!NOTE]
 >
->* Gli aggiornamenti apportati al campo dell&#39;oggetto in Sales Connect di un&#39;attività promemoria si rifletteranno nel campo dell&#39;oggetto dell&#39;attività Salesforce corrispondente, se si utilizza `{{activity_subject}}` dinamico nella personalizzazione dei dettagli dell’attività.
+>* Se si utilizza il campo dinamico `{{activity_subject}}` nella personalizzazione dei dettagli attività, gli aggiornamenti apportati al campo dell&#39;oggetto in Sales Connect di un&#39;attività promemoria si rifletteranno nel campo dell&#39;oggetto corrispondente dell&#39;attività Salesforce.
 >* Le interruzioni di riga non sono supportate quando si registrano informazioni nel campo dell’oggetto Salesforce. Eventuali interruzioni di riga nell&#39;editor personalizzazione dettagli attività verranno rimosse quando si aggiorna un oggetto attività di vendita.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -103,19 +103,19 @@ I campi dinamici delle attività contengono informazioni di riferimento sulle at
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione richieste.**
+>**Autorizzazioni amministratore richieste.**
 
 Quando configuri i dettagli dell’attività, considera quali dati sarebbero più rilevanti per le vendite quando esamini la cronologia delle attività in Salesforce.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Clic **Salesforce**.
+1. Fare clic su **Salesforce**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Clic **Impostazioni di sincronizzazione**.
+1. Fare clic su **Impostazioni sincronizzazione**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
@@ -127,7 +127,7 @@ Quando configuri i dettagli dell’attività, considera quali dati sarebbero pi�
    >
    >Anche se non obbligatorio, racchiudere il testo aggiunto tra parentesi quadre può facilitare la distinzione tra i dati quando vengono inseriti in un campo dell’oggetto in Salesforce. Esempio: `[Sales Connect] - {{Activity_type}}`
 
-1. Aggiungi eventuali campi dinamici aggiuntivi facendo clic sul pulsante **Aggiungi campo dinamico** pulsante.
+1. Aggiungere altri campi dinamici facendo clic sul pulsante **Aggiungi campo dinamico**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,7 +135,7 @@ Quando configuri i dettagli dell’attività, considera quali dati sarebbero pi�
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
@@ -145,6 +145,6 @@ Quando configuri i dettagli dell’attività, considera quali dati sarebbero pi�
 
 >[!MORELIKETHIS]
 >
->* [Impostazioni di sincronizzazione](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* [Impostazioni sincronizzazione](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 >* [Sincronizzazione attività promemoria con Salesforce](/help/marketo/product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
 >* [Personalizzazione di Sales Connect per CRM](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/sales-connect-customizations-for-crm.md)

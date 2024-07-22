@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Sales Connect viene fornito con due categorie predefinite per facilitare l’organizzazione dei modelli.
 
-1. Fai clic su **+** icona accanto a **Categorie**.
+1. Fai clic sull&#39;icona **+** accanto a **Categorie**.
 
 1. Immetti un nome per la nuova categoria, quindi fai clic su **Crea**.
 

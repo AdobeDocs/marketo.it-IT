@@ -19,29 +19,29 @@ Utilizzando gli elenchi avanzati, puoi trovare facilmente tutti i membri del mod
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con le smart elencate selezionate, fai clic sul pulsante **Elenco avanzato** scheda.
+1. Con la smart list selezionata, fai clic sulla scheda **Smart List**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Trova il **Modello membro ricavi** e trascinarlo nell’area di lavoro.
+1. Trova il filtro **Membro del modello ricavi** e trascinalo nell&#39;area di lavoro.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleziona un **Modello**.
+1. Seleziona un **modello**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Questo ti darebbe tutti i contatti in quel modello, indipendentemente dallo stadio. In genere è necessario un passaggio specifico. Utilizza invece il seguente filtro.
 
-1. Trova il **Fase ricavi** e trascinarlo nell’area di lavoro.
+1. Trova il filtro **Fase ricavi** e trascinalo nell&#39;area di lavoro.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleziona un **Fase**.
+1. Seleziona una **Fase**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Vai a **Lead** per visualizzare i risultati.
+1. Passa alla scheda **Lead** per visualizzare i risultati.
 
    ![](assets/2.png)
 

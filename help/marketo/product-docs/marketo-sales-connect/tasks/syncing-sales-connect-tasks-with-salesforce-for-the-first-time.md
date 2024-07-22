@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronizzazione per la prima volta delle attività Sales Connect con Salesforce {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Quando attivi per la prima volta la sincronizzazione tra le attività Sales Connect e Salesforce, le attività Salesforce vengono importate. Lo faremo **non** eseguire il push di tutte le attività correnti disponibili in Sales Connect a Salesforce. Per ridurre il disordine e i duplicati, le uniche attività sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* sincronizzi Sales Connect con SFDC.
+Quando attivi per la prima volta la sincronizzazione tra le attività Sales Connect e Salesforce, le attività Salesforce vengono importate. **non** eseguiremo il push delle attività in corso in Sales Connect a Salesforce. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* la sincronizzazione di Sales Connect con SFDC.
 
 Ecco cosa accade quando si sincronizzano le attività Sales Connect e SFDC:
 
@@ -27,4 +27,4 @@ Ecco cosa accade quando si sincronizzano le attività Sales Connect e SFDC:
 
 Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Sales Connect verranno sincronizzate con l&#39;elenco delle attività in Salesforce. E tutto ciò che viene creato, modificato, completato o eliminato in Salesforce aggiorna l&#39;elenco delle attività in Sales Connect.
 
-Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nel [Pagina Impostazioni](https://toutapp.com/login) nell’applicazione web.
+Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nella [pagina Impostazioni](https://toutapp.com/login) dell&#39;applicazione Web.

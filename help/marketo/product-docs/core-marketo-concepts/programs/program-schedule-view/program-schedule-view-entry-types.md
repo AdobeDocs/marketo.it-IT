@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Tipi di voci di visualizzazione della programmazione {#program-schedule-view-entry-types}
 
-Sono disponibili otto diversi tipi di voce incorporati che saranno visibili e disponibili per l&#39;utilizzo nella visualizzazione di programmazione. È inoltre possibile [creare tipi di voce personalizzati](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) nella sezione Amministratore.
+Sono disponibili otto diversi tipi di voce incorporati che saranno visibili e disponibili per l&#39;utilizzo nella visualizzazione di programmazione. Puoi anche [creare tipi di voce personalizzati](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) nella sezione Amministratore.
 
 >[!NOTE]
 >
->Le campagne intelligenti ricorrenti sono **non** supportate nella vista pianificazione.
+>Le campagne Smart ricorrenti sono **non** supportate nella visualizzazione Pianificazione.
 
 <table> 
  <thead> 
@@ -28,7 +28,7 @@ Sono disponibili otto diversi tipi di voce incorporati che saranno visibili e di
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Voce di base<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
+   <td colspan="1" rowspan="1">Voce base<span> <img alt="—" src="assets/image2014-9-24-10-3a4-3a47.png" data-linked-resource-id="3082715" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147243"></span></td> 
    <td colspan="1" rowspan="1">Tipo di voce predefinito. Utilizza come segnaposto o nota. </td> 
   </tr> 
   <tr> 

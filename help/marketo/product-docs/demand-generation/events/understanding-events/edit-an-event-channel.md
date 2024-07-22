@@ -7,13 +7,13 @@ feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Modificare un canale eventi {#edit-an-event-channel}
 
-Puoi modificare il tipo di canale dal menu **Riepilogo** scheda o dal relativo **Configurazione** scheda.
+Puoi modificare il tipo di canale dalla scheda **Riepilogo** dell&#39;evento o dalla relativa scheda **Configurazione**.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Puoi modificare il tipo di canale dal menu **Riepilogo** scheda o dal relativo *
 
 >[!NOTE]
 >
->Un programma è una specifica iniziativa di marketing. Il **channel** deve essere il meccanismo di consegna, come webinar, fiere commerciali o annunci online. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. È inoltre possibile  [crea un tuo canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
+>Un programma è una specifica iniziativa di marketing. Il **canale** deve essere il meccanismo di consegna, ad esempio webinar, fiera o annuncio online. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. Puoi anche [creare un tuo canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md).
 
 ## Dalla scheda Riepilogo {#from-the-summary-tab}
 
-1. Da **Attività di marketing**, seleziona l’evento dalla struttura.
+1. Da **Attività di marketing**, seleziona l&#39;evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accedi a **Riepilogo** visualizzazione.
+1. Passare alla visualizzazione **Riepilogo**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Sotto **Impostazioni** categoria, selezionare la categoria corrente **Canale** visualizzato come collegamento ipertestuale.
+1. Nella categoria **Impostazioni**, seleziona il **Canale** corrente visualizzato come collegamento ipertestuale.
 
    ![](assets/channeltypeevent.png)
 
@@ -41,27 +41,27 @@ Puoi modificare il tipo di canale dal menu **Riepilogo** scheda o dal relativo *
 
    ![](assets/tradeshowchange.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Dalla scheda Configurazione {#from-the-setup-tab}
 
-È possibile assegnare un nuovo tipo di canale anche dal menu dell’evento **Configurazione** scheda.
+È possibile assegnare un nuovo tipo di canale anche dalla scheda **Configurazione** dell&#39;evento.
 
 1. Seleziona l’evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Accedi a **Configurazione** scheda. Fare doppio clic sulla corrente **Canale**.
+1. Passare alla scheda **Configurazione**. Fare doppio clic sul **canale** corrente.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Seleziona un nuovo **Canale**.
+1. Seleziona un nuovo **canale**.
 
    ![](assets/tradeshowchange.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

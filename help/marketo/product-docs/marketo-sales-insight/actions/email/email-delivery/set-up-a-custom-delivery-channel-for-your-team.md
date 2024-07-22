@@ -18,23 +18,23 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Oltre alla configurazione del server SMTP, [l’identità e-mail deve essere verificata](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) prima di poter inviare le e-mail.
+>* Oltre a configurare il server SMTP, è necessario verificare l&#39;[identità e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) prima di poter inviare le e-mail.
 >* È consigliabile rivolgersi al team IT o al fornitore del server SMTP per ottenere le credenziali corrette per il server SMTP.
 >* Non è possibile connettere il server Gmail ed Exchange utilizzando le credenziali del server SMTP. Utilizza il nostro servizio di connessione e-mail per eseguire l’integrazione con questi provider.
 
-1. Fai clic sull’icona a forma di ingranaggio e scegli **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e scegli **Impostazioni**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Fai clic su **Canale di consegna team** scheda.
+1. Fare clic sulla scheda **Canale di consegna team**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Immettere le credenziali del server SMTP e fare clic su **Connetti**.
+1. Immetti le credenziali del server SMTP e fai clic su **Connetti**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 

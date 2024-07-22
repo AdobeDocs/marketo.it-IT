@@ -5,7 +5,7 @@ exl-id: 12969d09-529d-4cba-a419-7a3be52d3e96
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -16,29 +16,29 @@ Le campagne di vendita sono una serie di passaggi multicanale, tra cui e-mail, t
 
 Con le campagne di vendita è possibile:
 
-* **Organizza**: semplifica tutte le attività di sensibilizzazione in un’unica posizione per un’esecuzione efficiente.
+* **Organizza**: semplifica tutte le attività di outreach in un&#39;unica posizione per un&#39;esecuzione efficiente.
 * **Scala**: pianifica tutte le tue attività di sensibilizzazione in modo da poter ridimensionare le tue attività, ridurre al minimo il lavoro manuale e personalizzare tutto il necessario.
-* **Misura**: tieni traccia del successo di tutte le e-mail e le attività in un’unica posizione, registrandole automaticamente in Salesforce. Conoscendo ciò che risuona e porta ai risultati, puoi testare e migliorare costantemente i risultati.
+* **Misura**: tieni traccia del successo di tutte le e-mail e le attività in un&#39;unica posizione, registrandole automaticamente in Salesforce. Conoscendo ciò che risuona e porta ai risultati, puoi testare e migliorare costantemente i risultati.
 
 Quindi, come si imposta una campagna di vendita?
 
-1. Fai clic su **Campagne** scheda.
+1. Fare clic sulla scheda **Campagne**.
 
    ![](assets/create-a-sales-campaign-1.png)
 
-1. Seleziona una categoria e fai clic su **Crea nuova campagna** pulsante.
+1. Selezionare una categoria e fare clic sul pulsante **Crea nuova campagna**.
 
    ![](assets/create-a-sales-campaign-2.png)
 
    >[!NOTE]
    >
-   >Creare una nuova categoria facendo clic sul pulsante **+** accanto a **Categorie**.
+   >Crea una nuova categoria facendo clic su **+** accanto a **Categorie**.
 
-1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fai clic su **Continua**.
+1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **Continua**.
 
    ![](assets/create-a-sales-campaign-3.png)
 
-1. Clic **Aggiungi un passaggio**.
+1. Fai clic su **Aggiungi un passaggio**.
 
    ![](assets/create-a-sales-campaign-4.png)
 
@@ -46,7 +46,7 @@ Quindi, come si imposta una campagna di vendita?
 
    ![](assets/create-a-sales-campaign-5.png)
 
-1. Quando sei [completato con l’e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, fai clic su **Aggiungi**.
+1. Al [completamento dell&#39;e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md#email){target="_blank"}, fai clic su **Aggiungi**.
 
    ![](assets/create-a-sales-campaign-6.png)
 
@@ -56,9 +56,9 @@ Quindi, come si imposta una campagna di vendita?
 
    >[!NOTE]
    >
-   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna di vendita durerà 7 giorni, l’immissione di &quot;3&quot; indica che l’azione si concluderà il giorno 3 di 7, **non** 3 giorni dopo.
+   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna di vendita durerà 7 giorni, l&#39;immissione di &#39;3&#39; indica che l&#39;azione si interromperà il giorno 3 di 7, **not** 3 giorni dopo.
 
-1. Assicurati di personalizzare le opzioni di pianificazione e risposta, ad esempio di saltare i fine settimana (fantastico) visitando il **Scheda Impostazioni** per la campagna di vendita.
+1. Assicurati di personalizzare le opzioni di pianificazione e risposta, ad esempio di saltare i fine settimana (fantastico) visitando la **scheda Impostazioni** per la tua campagna di vendita.
 
    ![](assets/create-a-sales-campaign-8.png)
 
@@ -66,5 +66,5 @@ Ora è il momento di iniziare ad aggiungere persone!
 
 >[!MORELIKETHIS]
 >
->* [Tipi di fasi della campagna di vendita e task promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->* [Impostazioni campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>* [Tipi di passaggi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>* [Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

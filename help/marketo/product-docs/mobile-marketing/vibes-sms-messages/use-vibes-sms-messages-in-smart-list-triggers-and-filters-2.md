@@ -13,13 +13,13 @@ ht-degree: 0%
 
 # Utilizzare i messaggi Vibes SMS in Smart List Triggers and Filters {#use-vibes-sms-messages-in-smart-list-triggers-and-filters}
 
-Dopo di te [creare un messaggio Vibes SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, per ottenere i vantaggi desiderati, è necessario utilizzare i trigger e i filtri dell’elenco avanzato all’interno di una campagna avanzata. Ecco come.
+Dopo aver [creato un messaggio SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, è necessario utilizzare i trigger e i filtri dell&#39;elenco smart all&#39;interno di una campagna avanzata per ottenere i vantaggi. Ecco come.
 
 1. In Il mio Marketo, fai clic su **Attività di marketing**.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
-1. Scegli una campagna avanzata in cui desideri utilizzare le risorse SMS. Trascina su un trigger. In questo esempio utilizziamo **Compila modulo**.
+1. Scegli una campagna avanzata in cui desideri utilizzare le risorse SMS. Trascina su un trigger. In questo esempio stiamo utilizzando **Compila modulo**.
 
    ![](assets/fills-out-form-pull-over.jpg)
 
@@ -42,35 +42,35 @@ INVIA UN MESSAGGIO SMS:
 
 Di seguito sono riportati alcuni esempi:
 
-Il **Mancato recapito messaggi SMS** trigger avvia un flusso, ad esempio l’invio di un’e-mail, quando un messaggio SMS viene recapitato.
+Il trigger **Messaggi SMS non recapitati** avvia un flusso, ad esempio l&#39;invio di un&#39;e-mail, quando un messaggio SMS non viene inviato.
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Il **Abbonati all’elenco delle vibrazioni** attiva avvia un flusso quando una persona si abbona.
+Il trigger **Subscribes to Vibes List** avvia un flusso quando una persona si abbona.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Il **Clic sul collegamento nel messaggio SMS** attiva avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
+Il trigger **Click Link in SMS Message** avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtri SMS {#sms-filters}
 
-Puoi anche utilizzare i filtri Vibes negli elenchi avanzati. Il **Abbonati all’elenco Vibes** il filtro trova chiunque abbia *sempre* Abbonati a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
+Puoi anche utilizzare i filtri Vibes negli elenchi avanzati. Il filtro **Abbonato all&#39;elenco Vibes** trova chiunque abbia *mai* abbonato a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Per contro, la **Membro dell’elenco Vibes** risultati del filtro _chiunque_ attualmente abbonato a Vibes ed è più adatto per l’utilizzo in Campagne avanzate o elenchi.
+Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova _chiunque_ è attualmente abbonato a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi Smart.
 
 ![](assets/image001.png)
 
 >[!NOTE]
 >
->Tutti i filtri SMS includono **Data di attività** per impostazione predefinita.
+>Per impostazione predefinita, tutti i filtri SMS includono il vincolo **Data attività**.
 
-Dopo aver impostato i trigger e i filtri Vibes nell’elenco avanzato, puoi [definire il flusso](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
+Dopo aver impostato i trigger e i filtri Vibes nell&#39;elenco avanzato, puoi [definire il flusso](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 
 >[!MORELIKETHIS]
 >
->* [Definire un elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
->* [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)
+>* [Definisci elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md)
+>* [Trova e aggiungi filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md)

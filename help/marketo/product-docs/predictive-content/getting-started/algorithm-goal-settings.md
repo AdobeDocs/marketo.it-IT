@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Impostazioni obiettivo algoritmo consente di impostare l’obiettivo finale dell’algoritmo di Predictive Content (intelligenza artificiale) in modo che sia allineato agli obiettivi aziendali.
 
-1. In Predictive Content (Contenuto predittivo), fai clic sul nome del login e seleziona **Impostazioni contenuto**.
+1. In Contenuto predittivo, fai clic sul nome di accesso e seleziona **Impostazioni contenuto**.
 
    ![](assets/1.png)
 
-1. In Impostazioni contenuto, seleziona **Algoritmo**.
+1. In Impostazioni contenuto selezionare **Algoritmo**.
 
    ![](assets/two-1.png)
 
@@ -31,6 +31,6 @@ Impostazioni obiettivo algoritmo consente di impostare l’obiettivo finale dell
    |---|---|
    | **Conversioni** | Visualizza il contenuto che probabilmente farà inviare un modulo all’utente che lo visualizza |
 
-1. Clic **Salva** al termine.
+1. Al termine, fai clic su **Salva**.
 
    ![](assets/four.png)

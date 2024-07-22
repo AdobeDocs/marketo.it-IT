@@ -6,14 +6,14 @@ exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '200'
 ht-degree: 7%
 
 ---
 
 # Gestisci dati persona {#manage-person-data}
 
-Sfrutta i dati personali per la personalizzazione web selezionando i campi persona da utilizzare nella segmentazione.
+Sfrutta i dati personali per Web Personalization selezionando i campi persona da utilizzare nella segmentazione.
 
 1. Vai a **Impostazioni account**.
 
@@ -25,7 +25,7 @@ Sfrutta i dati personali per la personalizzazione web selezionando i campi perso
 
 ## Aggiunta di un nuovo campo Persona {#adding-a-new-person-field}
 
-1. Seleziona **Campo da aggiungere** dall’elenco a discesa per aggiungere all’elenco un campo dati persona.
+1. Selezionare **Campo da aggiungere** dal menu a discesa per aggiungere un campo dati persona all&#39;elenco.
 
    ![](assets/add-a-person-field-hand.jpg)
 
@@ -35,7 +35,7 @@ Sfrutta i dati personali per la personalizzazione web selezionando i campi perso
 
 ## Eliminazione di un campo persona {#deleting-a-person-field}
 
-1. Fai clic sull’icona Elimina ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) per rimuovere un campo dall&#39;elenco. Clic **Sì** per confermare l’eliminazione del campo.
+1. Fare clic sull&#39;icona Elimina ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) per rimuovere un campo dall&#39;elenco. Fare clic su **Sì** per confermare l&#39;eliminazione del campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,8 +99,8 @@ Sfrutta i dati personali per la personalizzazione web selezionando i campi perso
  </tbody> 
 </table>
 
-Per i nuovi account di Personalizzazione web vengono forniti i seguenti campi di lead:
+Per i nuovi account Web Personalization vengono forniti i seguenti campi di lead:
 
 >[!MORELIKETHIS]
 >
->[Creare un segmento utilizzando i dati della persona nota](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)
+>[Crea un segmento utilizzando dati persona noti](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-segment-using-known-person-data.md)

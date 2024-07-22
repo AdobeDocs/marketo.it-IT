@@ -7,7 +7,7 @@ feature: Smart Lists
 source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la tua corrispondenza.
 
-1. Crea un nuovo [programma predefinito](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} e denominalo &quot;Aggiungi a Inserisce nell&#39;elenco Bloccati di&quot;.
+1. Creare un nuovo [programma predefinito](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} e denominarlo &quot;Aggiungi al Inserisco nell&#39;elenco Bloccati di&quot;.
 
-1. Clic **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
+1. Fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
@@ -25,7 +25,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Denomina l’elenco e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome all&#39;elenco e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
@@ -41,7 +41,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Clic **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova campagna avanzata]**.
+1. Fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova campagna avanzata]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
@@ -49,7 +49,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Trascina **[!UICONTROL Membro di elenco avanzato]**.
+1. Trascina e rilascia **[!UICONTROL Membro di Smart List]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,15 +57,15 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Fai clic su **[!UICONTROL Flusso]** scheda. Trascina la **[!UICONTROL Modifica valore dati]** Azione di flusso.
+1. Fare clic sulla scheda **[!UICONTROL Flusso]**. Trascina e rilascia l&#39;azione **[!UICONTROL Modifica valore dati]**.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. In **[!UICONTROL Attributo]** selezione a discesa **[!UICONTROL Blocca nell&#39;elenco]** e imposta **[!UICONTROL Nuovo valore]** a **[!UICONTROL true]**.
+1. Nel menu a discesa **[!UICONTROL Attributo]**, seleziona **[!UICONTROL Blocca elencato]** e imposta **[!UICONTROL Nuovo valore]** su **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Fai clic su **[!UICONTROL Pianificazione]** e seleziona **[!UICONTROL Esegui una volta]**.
+1. Fai clic sulla scheda **[!UICONTROL Pianifica]** e seleziona **[!UICONTROL Esegui una volta]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
@@ -73,7 +73,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Clic **[!UICONTROL Esegui]** di nuovo.
+1. Fai di nuovo clic su **[!UICONTROL Esegui]**.
 
    ![](assets/add-person-to-blocklist-14.png)
 
@@ -81,4 +81,4 @@ Queste persone non riceveranno più e-mail.
 
 >[!TIP]
 >
->Creare un [Attiva campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} utilizzo **Modifica valore dati** con **Blocca nell’elenco è true** per tutte le persone che in futuro avranno attributi che possono essere inseriti nell&#39;elenco Bloccati in modo da poter essere utilizzati in modo più efficiente.
+>Crea una [campagna Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"} utilizzando **Modifica valore dati** con **Blocco inserito nell&#39;elenco true** per tutte le persone che in futuro avranno gli attributi che possono essere inseriti nell&#39;elenco Bloccati da.

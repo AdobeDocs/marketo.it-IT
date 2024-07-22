@@ -2,10 +2,10 @@
 description: Gestione della consegna dei messaggi - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione recapito messaggi OP
 feature: Programs
-exl-id: 2c831c7a-f9c9-4308-9610-0e98eeb14288
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '248'
 ht-degree: 4%
 
 ---
@@ -18,7 +18,7 @@ Questo è un esempio di flussi di lavoro basati sulle best practice per la gesti
 >
 >Richiede il campo stringa personalizzato &quot;Motivo di sospensione del marketing&quot; per importare. [Ulteriori informazioni](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -56,7 +56,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -102,7 +102,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 

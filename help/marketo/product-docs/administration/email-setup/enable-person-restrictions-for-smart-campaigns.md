@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Abilita restrizioni persona per campagne intelligenti {#enable-person-restrictions-for-smart-campaigns}
 
-In Marketo è disponibile una funzione per limitare _massimo_ numero di persone che possono qualificarsi per una campagna avanzata. In questo modo si evita di inviare accidentalmente e-mail all’intero database.
+In Marketo è disponibile una funzione per limitare il numero massimo di _persone_ idonee per una campagna avanzata. In questo modo si evita di inviare accidentalmente e-mail all’intero database.
 
 >[!NOTE]
 >
@@ -23,15 +23,15 @@ In Marketo è disponibile una funzione per limitare _massimo_ numero di persone 
 >
 >Questo vale solo per le campagne batch e i programmi e-mail.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-1.png)
 
-1. Clic **[!UICONTROL Campagna avanzata]**.
+1. Fai clic su **[!UICONTROL Smart Campaign]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-2.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/enable-person-restrictions-for-smart-campaigns-3.png)
 
@@ -49,10 +49,10 @@ In Marketo è disponibile una funzione per limitare _massimo_ numero di persone 
 
    >[!CAUTION]
    >
-   >Questo limite viene applicato a tutte le campagne avanzate, ma può essere ignorato a livello di campagna. Scopri come [ignorare le restrizioni per le persone in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+   >Questo limite viene applicato a tutte le campagne avanzate, ma può essere ignorato a livello di campagna. Scopri come [ignorare le restrizioni personali in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
-Completato! Hai appena acceso l&#39;interruttore di sicurezza.
+Fine. Hai appena acceso l&#39;interruttore di sicurezza.
 
 >[!MORELIKETHIS]
 >
->[Sovrascrivere le restrizioni relative alla persona in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)
+>[Ignorare le restrizioni per le persone in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md)

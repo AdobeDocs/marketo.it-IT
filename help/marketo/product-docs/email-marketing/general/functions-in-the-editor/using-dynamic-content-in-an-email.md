@@ -6,7 +6,7 @@ exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Utilizza il contenuto dinamico nelle e-mail per inviare informazioni di destinazione ai lead.
 
 >[!NOTE]
 >
->L’utilizzo di variabili all’interno di contenuto dinamico in un messaggio e-mail è supportato solo quando si utilizzano le campagne Trigger. È **non** supportate quando si utilizzano campagne batch.
+>L’utilizzo di variabili all’interno di contenuto dinamico in un messaggio e-mail è supportato solo quando si utilizzano le campagne Trigger. **non** è supportato quando si utilizzano campagne batch.
 
 ## Aggiungi segmentazione {#add-segmentation}
 
@@ -29,17 +29,17 @@ Utilizza il contenuto dinamico nelle e-mail per inviare informazioni di destinaz
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona l’e-mail e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
 
    ![](assets/1.2.png)
 
-1. In questo esempio stiamo rendendo dinamica la riga oggetto. Fai clic nel campo Oggetto, quindi fai clic su **Rendi dinamico** pulsante.
+1. In questo esempio stiamo rendendo dinamica la riga oggetto. Fare clic nel campo Oggetto, quindi fare clic sul pulsante **Rendi dinamico**.
 
    ![](assets/1.3.png)
 
    >[!NOTE]
    >
-   >Puoi anche rendere dinamico un elemento all’interno dell’e-mail. A questo scopo, seleziona l’area, fai clic sull’icona a forma di ingranaggio e seleziona **Rendi dinamico** (o [Sostituisci con snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), a seconda di quello che stai facendo).
+   >Puoi anche rendere dinamico un elemento all’interno dell’e-mail. A tale scopo, selezionare l&#39;area, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Rendi dinamico** (o [Sostituisci con snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), a seconda delle operazioni eseguite).
 
 1. Inserisci il nome della segmentazione, selezionalo e fai clic su **Salva**.
 
@@ -75,5 +75,5 @@ Dolce! Ora puoi inviare e-mail flessibili al pubblico di destinazione.
 
 >[!MORELIKETHIS]
 >
->* [Anteprima di un’e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
->* [Utilizzare il contenuto dinamico in una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)
+>* [Anteprima di un&#39;e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
+>* [Utilizza il contenuto dinamico in una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/use-dynamic-content-in-a-free-form-landing-page.md)

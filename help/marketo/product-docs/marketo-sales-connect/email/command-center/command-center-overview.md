@@ -6,7 +6,7 @@ exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '570'
 ht-degree: 1%
 
 ---
@@ -37,7 +37,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><strong title="">Inviato</strong></td> 
-   <td title="Colore di sfondo : Blu">Consegnato</td> 
+   <td title="Colore di sfondo : Blu">Consegnati</td> 
    <td title="Colore di sfondo : Blu">E-mail che sono state consegnate al destinatario.</td> 
   </tr> 
   <tr> 
@@ -53,7 +53,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   <tr> 
    <td title="Colore di sfondo : Grigio"><br></td> 
    <td title="Colore di sfondo : Grigio">Bozza</td> 
-   <td title="Colore di sfondo : Grigio"><p>E-mail che sono state salvate come bozza.<br><strong>Nota:</strong> Solo le e-mail singole possono essere salvate come bozze. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td> 
+   <td title="Colore di sfondo : Grigio"><p>E-mail che sono state salvate come bozza.<br><strong>Nota:</strong> è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Grigio"><br></td> 
@@ -68,12 +68,12 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   <tr> 
    <td title="Colore di sfondo : Blu"><br></td> 
    <td title="Colore di sfondo : Blu">Rifiutato</td> 
-   <td title="Colore di sfondo : Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> Questo viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
+   <td title="Colore di sfondo : Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><br></td> 
    <td title="Colore di sfondo : Blu">Spam</td> 
-   <td title="Colore di sfondo : Blu"><p>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> Questo viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
+   <td title="Colore di sfondo : Blu"><p>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
   </tr> 
  </tbody> 
 </table>

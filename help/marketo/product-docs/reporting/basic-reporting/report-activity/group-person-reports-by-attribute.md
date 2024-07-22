@@ -15,21 +15,21 @@ ht-degree: 0%
 
 È possibile raggruppare i rapporti sulle persone in base a qualsiasi attributo di persona o società.
 
-1. Vai a **Attività di marketing** (o **Analytics**).
+1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
 
    ![](assets/image2017-3-28-10-3a22-3a53.png)
 
-1. Seleziona il rapporto della persona dalla struttura di navigazione e fai clic sul pulsante **Configurazione** scheda.
+1. Selezionare il report della persona dalla struttura di navigazione e fare clic sulla scheda **Configurazione**.
 
    ![](assets/image2017-3-28-11-3a33-3a48.png)
 
-1. Doppio clic **Raggruppa persone per**.
+1. Fare doppio clic su **Raggruppa persone per**.
 
    ![](assets/image2017-3-28-11-3a34-3a5.png)
 
    >[!NOTE]
    >
-   >È inoltre possibile [raggruppa i rapporti delle persone per segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
+   >È inoltre possibile [raggruppare i report delle persone per segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/group-person-reports-by-segment.md).
 
    Nella finestra di dialogo Raggruppa persone per selezionare l&#39;attributo persona o società da utilizzare per il raggruppamento.
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Se scegli un attributo con un valore numerico, ad esempio _Creazione_ o _Entrate annuali_, seleziona le metriche dalla sezione **Unità** a destra.
+   >Se scegli un attributo con un valore numerico, ad esempio _Creato alle_ o _Ricavo annuale_, seleziona le metriche dal menu a discesa **Unità** a destra.
 
    Tutto qui! Fai clic sulla scheda Rapporto per visualizzare il rapporto raggruppato di conseguenza.
 
@@ -45,4 +45,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Aggiungere colonne personalizzate a un rapporto Persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)
+   >[Aggiungere colonne personalizzate a un report persona](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/add-custom-columns-to-a-person-report.md)

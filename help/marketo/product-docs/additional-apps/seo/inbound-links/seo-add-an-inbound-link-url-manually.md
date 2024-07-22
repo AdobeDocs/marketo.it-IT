@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Puoi aggiungere manualmente i collegamenti in entrata. Ecco come:
 
-1. Vai a **[!UICONTROL Collegamenti in entrata]** sezione.
+1. Vai alla sezione **[!UICONTROL Collegamenti in entrata]**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Clic **[!UICONTROL Aggiungi URL]**.
+1. Fare clic su **[!UICONTROL Aggiungi URL]**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Digita l’URL. Clic **[!UICONTROL Aggiungi]**.
+1. Digita l’URL. Fare clic su **[!UICONTROL Aggiungi]**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 
    >[!TIP]
    >
-   >Lo sapevi che puoi [aggiungi il collegamento in entrata a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Dai un&#39;occhiata!
+   >Lo sapevi che puoi [aggiungere il tuo collegamento in entrata a un elenco nuovo o esistente](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md){target="_blank"}? Dai un&#39;occhiata!
 
    ![](assets/image2014-9-18-13-3a41-3a14.png)
 

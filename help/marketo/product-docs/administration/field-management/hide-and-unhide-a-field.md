@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Nascondere e scoprire un campo {#hide-and-unhide-a-field}
 
-Se non utilizzi più un campo in Marketi Engage, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
+Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
 
 ## Nascondi campo {#hide-a-field}
 
@@ -21,15 +21,15 @@ Se non utilizzi più un campo in Marketi Engage, puoi nasconderlo dall’interfa
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/hide-and-unhide-a-field-2.png)
 
-1. Trova il campo, selezionalo, quindi in **[!UICONTROL Azioni campo]** click **[!UICONTROL Nascondi campo]**.
+1. Trova il campo, selezionalo, quindi in **[!UICONTROL Azioni campo]** fai clic su **[!UICONTROL Nascondi campo]**.
 
    ![](assets/hide-and-unhide-a-field-3.png)
 
@@ -39,7 +39,7 @@ Se non utilizzi più un campo in Marketi Engage, puoi nasconderlo dall’interfa
    >* Non è possibile nascondere i campi standard (di sistema).
    >* Non puoi nascondere i campi di informazioni sull’opportunità.
 
-1. Clic **[!UICONTROL Nascondi]** per confermare.
+1. Fai clic su **[!UICONTROL Nascondi]** per confermare.
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
@@ -49,15 +49,15 @@ Se non utilizzi più un campo in Marketi Engage, puoi nasconderlo dall’interfa
 
 ## Scoprire un campo {#unhide-a-field}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/hide-and-unhide-a-field-7.png)
 
-1. Individuare e selezionare il campo. In [!UICONTROL Azioni campo] a discesa, fai clic su **[!UICONTROL Mostra campo]**.
+1. Individuare e selezionare il campo. Nel menu a discesa [!UICONTROL Azioni campo], fare clic su **[!UICONTROL Mostra campo]**.
 
    ![](assets/hide-and-unhide-a-field-8.png)
 

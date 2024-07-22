@@ -22,12 +22,12 @@ Utilizza oggetti personalizzati per tenere traccia delle metriche specifiche del
 Utilizza oggetti personalizzati come filtri e attivatori nelle campagne intelligenti. Ad esempio:
 
 * **Filtro**: invia e-mail solo ai proprietari di una marca di veicolo specifica
-* **Trigger**: invia un’e-mail quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda.
+* **Trigger**: invia un&#39;e-mail quando un oggetto personalizzato viene aggiunto a una persona o a un&#39;azienda.
 
 È possibile impostare oggetti personalizzati in una relazione uno-a-molti o molti-a-molti. Ad esempio:
 
-* **Uno-a-molti**: una persona possiede diverse auto
-* **Molti-a-molti**: più studenti sono iscritti a più corsi da un catalogo dei corsi
+* **Uno-a-molti**: una persona possiede più auto
+* **Molti-a-molti**: più studenti sono iscritti a più corsi da un catalogo corsi
 
 Una struttura uno-a-molti utilizza un singolo campo di collegamento per collegare l’oggetto personalizzato a una persona o a un’azienda.
 
@@ -43,11 +43,11 @@ Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di 
 
 ## Accesso agli oggetti personalizzati di Marketo {#accessing-marketo-custom-objects}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Clic **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,17 +69,17 @@ Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di 
 
 ## Visualizzare oggetti personalizzati associati a una persona {#view-custom-objects-associated-to-a-person}
 
-Dopo aver creato la struttura oggetto personalizzata, quando si caricano dati oggetto personalizzati specifici, gli oggetti personalizzati vengono automaticamente associati agli utenti del database utilizzando il campo di collegamento nell&#39;oggetto personalizzato. È possibile visualizzare le informazioni da [!UICONTROL Oggetti personalizzati] nella pagina dettagli persona.
+Dopo aver creato la struttura oggetto personalizzata, quando si caricano dati oggetto personalizzati specifici, gli oggetti personalizzati vengono automaticamente associati agli utenti del database utilizzando il campo di collegamento nell&#39;oggetto personalizzato. Puoi visualizzare le informazioni dalla scheda [!UICONTROL Oggetti personalizzati] nella pagina dei dettagli della persona.
 
 1. Vai a **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Aprire il database e fare clic su **[!UICONTROL Persone]** scheda. Fare doppio clic sul record di una persona associata a un oggetto personalizzato.
+1. Apri il database e fai clic sulla scheda **[!UICONTROL Persone]**. Fare doppio clic sul record di una persona associata a un oggetto personalizzato.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Nella pagina dei dettagli della persona, fai clic su **[!UICONTROL Oggetti personalizzati]** scheda. Seleziona l’oggetto dal menu a discesa.
+1. Nella pagina dei dettagli della persona, fai clic sulla scheda **[!UICONTROL Oggetti personalizzati]**. Seleziona l’oggetto dal menu a discesa.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
@@ -95,13 +95,13 @@ Se in Marketo sono presenti più persone che sono record nei record CRM o solo M
 
 Gli oggetti personalizzati possono essere collegati direttamente solo a un singolo record. Ciò significa che quando il tipo di oggetto personalizzato è collegato dal campo aziendale, devi assicurarti che i record delle persone siano associati a una società utilizzando la conversione dei contatti nel CRM oppure utilizzando il campo externalCompanyId, se gestisci aziende utilizzando le API REST di Marketo. Per i record persona che non sono collegati in modo esplicito ai record società, gli oggetti personalizzati collegati tramite azienda verranno collegati in modo casuale a un singolo record, anche se il valore del campo società è condiviso tra più persone.
 
-Consulta [Importa dati oggetto personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md) per ulteriori informazioni.
+Per ulteriori informazioni, vedere [Importa dati oggetto personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md).
 
 >[!MORELIKETHIS]
 >
->* [Creare oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
->* [Approvare un oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
->* [Modificare ed eliminare un oggetto personalizzato di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
+>* [Crea oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/create-marketo-custom-objects.md)
+>* [Approva un oggetto personalizzato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md)
+>* [Modifica ed elimina un oggetto personalizzato di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-a-marketo-custom-object.md)
 >* [Aggiungi campi oggetto personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-fields.md)
->* [Modificare ed eliminare i campi oggetto personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
+>* [Modifica ed elimina campi oggetto personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/edit-and-delete-marketo-custom-object-fields.md)
 >* [Importa dati oggetto personalizzati](/help/marketo/product-docs/administration/marketo-custom-objects/import-custom-object-data.md)

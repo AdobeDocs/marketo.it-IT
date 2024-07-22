@@ -6,7 +6,7 @@ exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -19,21 +19,21 @@ Un messaggio non recapitato può rendere non valido l’indirizzo e-mail di una 
 
 In Marketo sono presenti 5 stringhe di persone correlate alla consegna di e-mail con problemi.
 
-1. **E-mail sospesa** : impostato su True quando si verifica un determinato tipo di mancati recapiti permanenti.
-1. **Causa e-mail sospesa** - Le ragioni possono essere molteplici. Questo campo cerca di spiegare la causa.
-1. **E-mail sospesa alle** - Quando si verifica il mancato recapito, Marketo sospenderà l’invio di e-mail alla persona per 24 ore da questa marca temporale.
-1. **E-mail non valida** : impostato su True quando si verifica un determinato tipo di mancati recapiti permanenti.
-1. **Causa e-mail non valida** - Il motivo dell’hard bounce.
+1. **E-mail sospesa** - Impostato su True quando si verifica un determinato tipo di mancato recapito.
+1. **Causa di sospensione dell&#39;e-mail** - I motivi possono essere molteplici. Questo campo cerca di spiegare la causa.
+1. **E-mail sospesa alle** - Quando si verifica il mancato recapito illecito, Marketo sospenderà l&#39;invio di e-mail alla persona per 24 ore da questa marca temporale.
+1. **E-mail non valida** - Impostato su True quando si verifica un determinato tipo di messaggio non recapitato.
+1. **Causa e-mail non valida** - Motivo dell&#39;interruzione definitiva.
 
 >[!NOTE]
 >
->Dopo che una persona raggiunge **e-mail sospesa** stato, non è possibile deselezionare la casella di controllo e-mail sospesa. Tuttavia, la persona sarà ancora disponibile per la posta 24 ore dopo la sospensione iniziale.
+>Quando una persona raggiunge lo stato **e-mail sospesa**, non è possibile deselezionare la casella di controllo e-mail sospesa. Tuttavia, la persona sarà ancora disponibile per la posta 24 ore dopo la sospensione iniziale.
 >
->Quando una persona è contrassegnata come **e-mail non valida**, possono essere reimpostate solo manualmente (operazione che consigliamo di eseguire solo se si è certi che l’e-mail sia valida) deselezionando la casella &quot;E-mail non valida&quot; nella scheda Informazioni persona del record.
+>Quando una persona è contrassegnata come **e-mail non valida**, può essere reimpostata solo manualmente (cosa che ti consigliamo di fare solo se sai per certo che la sua e-mail è valida) deselezionando la casella &quot;E-mail non valida&quot; nella scheda Informazioni persona del suo record.
 
 >[!PREREQUISITES]
 >
->Segui [questi passaggi](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) per creare un rapporto sulle prestazioni delle e-mail che genererà i dati non recapitati.
+>Segui [questi passaggi](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) per creare un report sulle prestazioni delle e-mail, che genererà i dati non recapitati.
 
 Dopo aver creato il rapporto sulle prestazioni delle e-mail, lo schermo dovrebbe essere simile al seguente:
 

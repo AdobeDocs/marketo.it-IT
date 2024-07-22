@@ -17,16 +17,16 @@ Attivando il blocco del contenuto, impedisci agli utenti non amministratori di m
 
 >[!NOTE]
 >
->Utenti **will** essere comunque in grado di modificare il contenuto di un’e-mail al momento dell’invio o del lancio di una campagna.
+>Gli utenti **potranno ancora** modificare il contenuto di un&#39;e-mail al momento dell&#39;invio o dell&#39;avvio di una campagna.
 
-1. In Sales Connect, fai clic sull’icona delle impostazioni e seleziona **Impostazioni**.
+1. In Sales Connect fare clic sull&#39;icona delle impostazioni e selezionare **Impostazioni**.
 
    ![](assets/one-4.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/two-4.png)
 
-1. Scorri verso il basso fino a Blocco contenuto. L&#39;attivazione del dispositivo di scorrimento _disable_ la possibilità per i membri del gruppo di creare/modificare modelli e/o campagne.
+1. Scorri verso il basso fino a Blocco contenuto. L&#39;attivazione di uno dei cursori _disabilita_ la possibilità per i membri del team di creare/modificare modelli e/o campagne.
 
    ![](assets/three-4.png)

@@ -6,7 +6,7 @@ exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
 ## Passaggio 1: Scaricare e modificare un foglio di calcolo {#step-download-and-edit-a-spreadsheet}
 
-1. Per iniziare, scaricare il file del foglio di calcolo dell&#39;esercitazione ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) al computer.
+1. Per iniziare, scarica il file del foglio di calcolo dell&#39;esercitazione ([**tradeshow-attendees.csv**](/help/marketo/getting-started/assets/tradeshow-attendees.csv){target="_blank"}) nel computer.
 
    ![](assets/import-a-list-of-people-1.png)
 
    >[!NOTE]
    >
-   >Quando importi una data, utilizza questo formato: **9/21/20** (mese/giorno/anno).
+   >Durante l&#39;importazione di una data, utilizzare questo formato: **9/21/20** (mese/giorno/anno).
 
    >[!NOTE]
    >
@@ -41,23 +41,23 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
    >[!CAUTION]
    >
-   >Marketo sì **non** supporta gli indirizzi e-mail che contengono emoji.
+   >Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
 
 ## Passaggio 2: creare un programma {#step-create-a-program}
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Seleziona il **Apprendimento** cartella, quindi in **[!UICONTROL Nuovo]** click **[!UICONTROL Nuovo programma]**.
+1. Seleziona la cartella **Apprendimento**, quindi in **[!UICONTROL Nuovo]** fai clic su **[!UICONTROL Nuovo programma]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Nome** il programma &quot;My Tradeshow Program&quot; e selezionare &quot;Event&quot; per il **[!UICONTROL Tipo di programma]**.
+1. **Denomina** il programma &quot;Il mio programma di fiere&quot; e seleziona &quot;Evento&quot; per il **[!UICONTROL tipo di programma]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Seleziona **[!UICONTROL Tradeshow]** per **[!UICONTROL Canale]** e fai clic su **[!UICONTROL Crea]**.
+1. Seleziona **[!UICONTROL Presentazione]** per il **[!UICONTROL Canale]** e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
@@ -67,7 +67,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
 ## Passaggio 3: importare il foglio di calcolo in Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In entrata **Il mio programma di fiere**, fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
+1. In **Programma di fiere**, fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
@@ -75,11 +75,11 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Nome** nell&#39;elenco Partecipanti alla fiera e fare clic su **[!UICONTROL Crea]**.
+1. **Denomina** l&#39;elenco &quot;Partecipanti alla fiera&quot; e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. Nel tuo **[!UICONTROL Partecipanti a fiere]** , fare clic su **[!UICONTROL Azioni elenco]** e seleziona **[!UICONTROL Importa elenco]**.
+1. Nell&#39;elenco **[!UICONTROL Partecipanti a fiere]** fare clic su **[!UICONTROL Azioni elenco]** e selezionare **[!UICONTROL Importa elenco]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -91,31 +91,31 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    >
    >Il limite di dimensione per i file CSV è di 100 MB.
 
-1. **[!UICONTROL Sfoglia]** al **tradeshow-attendees.csv** file di foglio di calcolo sul computer e fare clic su **[!UICONTROL Successivo]**.
+1. **[!UICONTROL Individua]** il file del foglio di calcolo **tradeshow-attendees.csv** nel computer e fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >In modalità di importazione elenco, scegliere **[!UICONTROL Ignora nuove persone e aggiornamenti]** significa che non influirai sui record persona esistenti o non registrerai alcuna attività. Utilizza questa modalità se desideri un elenco statico rapido e prefiltrato di persone esistenti da utilizzare nelle attività di marketing. Selezionando questa modalità:
+   >In modalità di importazione elenchi, se si sceglie **[!UICONTROL Ignora nuove persone e aggiornamenti]**, non verranno registrati record persona esistenti né attività. Utilizza questa modalità se desideri un elenco statico rapido e prefiltrato di persone esistenti da utilizzare nelle attività di marketing. Selezionando questa modalità:
    >
    > * Ignora creazione nuova persona
    > * Ignora aggiornamenti campo persona
    > * Ignora registrazione attività
 
-1. Mappa il tuo [!UICONTROL Colonna elenco] ai rispettivi campi Marketo e fai clic su **[!UICONTROL Successivo]**.
+1. Mappa i campi [!UICONTROL Colonna elenco] ai rispettivi campi Marketo e fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
    >[!TIP]
    >
-   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (distinzione maiuscole/minuscole). Se utilizzi campi personalizzati e non li vedi nel menu a discesa, torna indietro e [crearle](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} quindi possono diventare delle opzioni.
+   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (distinzione maiuscole/minuscole). Se stai utilizzando campi personalizzati e non li vedi nel menu a discesa, torna indietro e [creali](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} in modo che possano diventare opzioni.
 
    >[!NOTE]
    >
    >Se sono presenti campi che non si desidera importare, selezionare **Ignora** nel menu a discesa Campo Marketo.
 
-1. Seleziona **Il mio programma di fiere** per **[!UICONTROL Programma di acquisizione]**, quindi fai clic su **[!UICONTROL Importa]**.
+1. Seleziona **Il mio programma di fiere** per il **[!UICONTROL programma di acquisizione]**, quindi fai clic su **[!UICONTROL Importa]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -123,7 +123,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Torna in **Il mio programma di fiere**, fare clic su **[!UICONTROL Membri]** scheda. Vedrai tutte le persone appena importate.
+1. Tornando al **Programma di fiere**, fare clic sulla scheda **[!UICONTROL Membri]**. Vedrai tutte le persone appena importate.
 
    ![](assets/import-a-list-of-people-15.png)
 

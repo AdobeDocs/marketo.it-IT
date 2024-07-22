@@ -6,7 +6,7 @@ exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tr
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocca **[!UICONTROL Conferma]** per terminare il lavoro, oppure **[!UICONTROL Non importa]** se ha avuto dei ripensamenti.
+1. Tocca **[!UICONTROL Conferma]** per terminare il processo, oppure **[!UICONTROL Non importa]** se hai avuto dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -93,11 +93,11 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocca **[!UICONTROL Invia esempio]**.
+1. Tocca **[!UICONTROL Invia campione]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Inserisci un indirizzo e-mail e fai clic su **[!UICONTROL Invia esempio]**.
+1. Immetti un indirizzo e-mail e fai clic su **[!UICONTROL Invia campione]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -116,5 +116,5 @@ Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne
 >[!MORELIKETHIS]
 >
 >* [Informazioni su Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Informazioni sulle schede eventi](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
 >* [Informazioni sulle schede di Analytics](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-analytics-cards.md)

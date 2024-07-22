@@ -23,7 +23,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. Sotto **Azioni modulo**, fai clic su **Elimina modulo**.
+1. In **Azioni modulo**, fare clic su **Elimina modulo**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
    >
    >Ricordati di rimuovere il modulo da una o più pagine di destinazione che lo utilizzano. Inoltre, verifica che il modulo non venga utilizzato su un sito Web pubblico.
 
-1. Conferma facendo clic su **Elimina**.
+1. Confermare facendo clic su **Elimina**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 
@@ -41,4 +41,4 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
 
 >[!CAUTION]
 >
->Se elimini un modulo utilizzato dal sito Web pubblico, non verrà visualizzato alcun avviso e il modulo verrà interrotto. Considerare  [archiviazione](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) invece.
+>Se elimini un modulo utilizzato dal sito Web pubblico, non verrà visualizzato alcun avviso e il modulo verrà interrotto. Valuta invece di [archiviarlo](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).

@@ -22,18 +22,18 @@ Dopo aver impostato le visualizzazioni e la frequenza di rotazione per la presen
 
 >[!PREREQUISITES]
 >
->* [Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>* [Crea una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 >* [Personalizzare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/customize-a-presentation.md)
 
 >[!TIP]
 >
->Assicurati di _Anteprima di una presentazione_ prima del lancio.
+>Assicurati di _visualizzare in anteprima una presentazione_ prima di avviare.
 
-1. Clic **[!UICONTROL Launch]**.
+1. Fare clic su **[!UICONTROL Avvia]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Clic **[!UICONTROL Launch]** ancora una volta. In questo modo si esce da Marketo per poter visualizzare la presentazione in modo sicuro.
+1. Fai clic ancora una volta su **[!UICONTROL Avvia]**. In questo modo si esce da Marketo per poter visualizzare la presentazione in modo sicuro.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 

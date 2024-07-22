@@ -17,17 +17,17 @@ I frammenti sono piccoli frammenti di HTML che possono seguire le regole e conte
 
 >[!PREREQUISITES]
 >
->[Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>[Crea snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
 1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Nell’editor della pagina di destinazione, trascina sulla **Frammento** elemento.
+1. Nell&#39;editor pagina di destinazione, trascina sull&#39;elemento **Snippet**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Trovare il frammento, selezionarlo e fare clic su **Salva**.
+1. Trova il tuo frammento, selezionalo e fai clic su **Salva**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 

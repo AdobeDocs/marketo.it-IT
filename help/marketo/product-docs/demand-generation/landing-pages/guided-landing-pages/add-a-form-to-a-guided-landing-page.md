@@ -17,9 +17,9 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 
 >[!PREREQUISITES]
 >
->[Creare una pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
+>[Crea una pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
    >
    >Gli elementi disponibili nelle pagine di destinazione guidate sono definiti dal modello. Se non trovi un modulo nel pannello elementi, seleziona un nuovo modello o contatta l’autore del modello.
 
-1. Fai doppio clic su **Modulo** nel pannello elemento.
+1. Fare doppio clic su **Modulo** nel pannello degli elementi.
 
    ![](assets/image2015-5-20-15-3a37-3a55.png)
 
@@ -49,7 +49,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
    >
    >La pagina di follow-up è la pagina che le persone vedranno dopo aver inviato il modulo.
 
-1. In questo esempio utilizzeremo Definito da modulo. Clic **Inserisci**.
+1. In questo esempio utilizzeremo Definito da modulo. Fare clic su **Inserisci**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
@@ -57,4 +57,4 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ora chiudi l’editor della pagina di destinazione e [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Ora chiudi l&#39;editor della pagina di destinazione e [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

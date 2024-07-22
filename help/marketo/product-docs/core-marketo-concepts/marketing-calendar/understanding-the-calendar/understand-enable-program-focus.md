@@ -6,20 +6,20 @@ exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 # Comprendere/abilitare la messa a fuoco del programma {#understand-enable-program-focus}
 
-Il calendario di marketing offre una visione d’insieme delle cose, ma consente anche alcune interazioni. È possibile [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [edit](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [delete](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}, and [confirm](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} voci. Per interagire con le voci, devi prima concentrarti su un programma.
+Il calendario di marketing offre una visione d’insieme delle cose, ma consente anche alcune interazioni. Puoi [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [eliminare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [confermare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} le voci. Per interagire con le voci, devi prima concentrarti su un programma.
 
-1. Vai a **Calendario di marketing**.
+1. Vai al **Calendario di marketing**.
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Seleziona una voce e fai clic su **[!UICONTROL Mostra Focus Programma]**.
+1. Selezionare una voce e fare clic su **[!UICONTROL Mostra attivazione programma]**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
@@ -39,7 +39,7 @@ Fantastico! Ora vai avanti e scopri come interagire con le voci.
 
 >[!MORELIKETHIS]
 >
->* [Creare voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}
->* [Modificare le voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [Crea Voci Direttamente Nel Calendario Di Marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}
+>* [Modifica le voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}
 >* [Elimina voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"}
 >* [Conferma le voci direttamente nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"}

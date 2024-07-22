@@ -6,7 +6,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 2%
+ht-degree: 1%
 
 ---
 
@@ -16,11 +16,11 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
 ## Come accedere alla ricerca avanzata {#how-to-access-advanced-search}
 
-1. Nell’applicazione web, fai clic su **Centro comandi**.
+1. Nell&#39;applicazione Web fare clic su **Centro comandi**.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Clic **E-mail**.
+1. Fai clic su **E-mail**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -89,7 +89,7 @@ _**Stato: inviato**_
 
 Filtri per attività e-mail inviata. Puoi scegliere viste/nessuna visualizzazione, clic/nessun clic e/o risposte/nessuna risposta.
 
-_**Stato: In sospeso**_
+_**Stato: in sospeso**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra per tutte le e-mail in sospeso.
  </tr>
 </table>
 
-_**Stato: Non consegnato**_
+_**Stato: non consegnato**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -143,7 +143,7 @@ Filtri per e-mail che non sono mai state consegnate.
 
 Ecco come creare una ricerca salvata.
 
-1. Dopo aver impostato tutti i filtri, fai clic su **Salva filtri con nome**.
+1. Dopo aver impostato tutti i filtri, fare clic su **Salva filtri con nome**.
 
    ![](assets/advanced-search-overview-13.png)
 

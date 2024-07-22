@@ -21,7 +21,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Digita un nuovo nome e premi **[!UICONTROL Invio/Ritorno]** per confermare la modifica.
+1. Digitare un nuovo nome e premere **[!UICONTROL Invio/Ritorno]** sulla tastiera per confermare la modifica.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 

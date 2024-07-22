@@ -6,7 +6,7 @@ exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
 source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Per utilizzare il plug-in MSI di Marketo in Outlook, è necessario autorizzarlo.
 
 >[!IMPORTANT]
 >
->Microsoft ha rilasciato un [nuova versione di Outlook per Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. This new version does not support the existing MSI Outlook plugin. The MSI Outlook plugin will continue to work for Windows desktops running the classic version of Outlook. To learn more about the new Outlook for Windows for organizations, [click here](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
+>Microsoft ha rilasciato una [nuova versione di Outlook per Windows](https://techcommunity.microsoft.com/t5/outlook-blog/new-outlook-for-windows-now-available/ba-p/3932068){target="_blank"}. Questa nuova versione non supporta il plug-in di Outlook MSI esistente. Il plug-in MSI Outlook continuerà a funzionare per i desktop Windows che eseguono la versione classica di Outlook. Per ulteriori informazioni sul nuovo Outlook per Windows per le organizzazioni, [fare clic qui](https://techcommunity.microsoft.com/t5/outlook-blog/the-new-outlook-for-windows-for-organization-admins/ba-p/3929169){target="_blank"}.
 
 1. Fare clic su uno dei pulsanti Messaggio di Marketo.
 
@@ -35,7 +35,7 @@ Per utilizzare il plug-in MSI di Marketo in Outlook, è necessario autorizzarlo.
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Se l&#39;indirizzo di posta elettronica predefinito dell&#39;account di Outlook viene estratto, verrà visualizzata una chiave di registrazione. Inseriscilo nel pop-up e fai clic su **Invia**.
+1. Se l&#39;indirizzo di posta elettronica predefinito dell&#39;account di Outlook viene estratto, verrà visualizzata una chiave di registrazione. Immettilo nel pop-up e fai clic su **Invia**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

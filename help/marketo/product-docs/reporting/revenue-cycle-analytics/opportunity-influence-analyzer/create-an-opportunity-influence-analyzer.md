@@ -6,7 +6,7 @@ exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -19,38 +19,38 @@ Utilizza Opportunity Influence Analyzer (Analisi di influenza opportunità) per 
 >
 >Per ottenere informazioni corrette da un analizzatore di influenza delle opportunità, assicurati che i tuoi contatti siano collegati alle opportunità nel tuo CRM.
 
-1. Clic **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/analytics.png)
 
-1. Clic **Analisi influenza opportunità**.
+1. Fare clic su **Analisi influenza opportunità**.
 
    ![](assets/two.png)
 
-1. Seleziona l’account da **Impostazioni** pannello.
+1. Seleziona l&#39;account dal pannello **Impostazioni**.
 
    ![](assets/image2014-9-17-8-3a56-3a32.png)
 
    >[!NOTE]
    >
-   >Se ricevi un avviso che indica che non vi sono state attività durante l’intervallo di tempo, fai clic su **Chiudi**. Ritorneremo su questo dopo il prossimo passaggio.
+   >Se ricevi un avviso che segnala l&#39;assenza di attività nel periodo di tempo, fai clic su **Chiudi**. Ritorneremo su questo dopo il prossimo passaggio.
 
 1. Seleziona l’opportunità in tale account.
 
    ![](assets/image2014-9-17-8-3a56-3a48.png)
 
-1. Imposta il periodo di tempo. Fai clic su **Configurazione** e doppio clic **Intervallo temporale**.
+1. Imposta il periodo di tempo. Fare clic sulla scheda **Configurazione** e fare doppio clic su **Intervallo di tempo**.
 
    ![](assets/image2014-9-17-8-3a57-3a17.png)
 
-1. Seleziona il periodo di tempo dell’opportunità da analizzare e fai clic su **Salva**.
+1. Selezionare il periodo di tempo dell&#39;opportunità da analizzare e fare clic su **Salva**.
 
    ![](assets/image2014-9-17-8-3a57-3a27.png)
 
    >[!TIP]
    >
    >
-   >Nella maggior parte dei casi, **Tutti i tempi** è la scelta più semplice.
+   >Nella maggior parte dei casi, **All Time** è la scelta più semplice.
 
 1. Ci sei! Fai clic sulla scheda principale per visualizzare i momenti interessanti e i successi coinvolti nell’opportunità.
 
@@ -62,5 +62,5 @@ Utilizza Opportunity Influence Analyzer (Analisi di influenza opportunità) per 
 
 >[!MORELIKETHIS]
 >
->* [Raccontare la storia del marketing con un analizzatore di influenza dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Configurare un analizzatore di influenza dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)
+>* [Racconta la storia del marketing con un analizzatore di influenza dell&#39;opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Configurare un analizzatore di influenza dell&#39;opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/configure-an-opportunity-influence-analyzer.md)

@@ -6,7 +6,7 @@ exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Per creare un nuovo modello di e-mail, segui la procedura riportata di seguito.
 
 ## Crea un nuovo modello e-mail {#create-a-new-email-template}
 
-1. Clic **Design Studio**.
+1. Fare clic su **Design Studio**.
 
    ![](assets/designstudio.png)
 
-1. Clic **Nuovo**, quindi seleziona **Nuovo modello e-mail**.
+1. Fai clic su **Nuovo**, quindi seleziona **Nuovo modello di e-mail**.
 
    ![](assets/ds-two.png)
 
@@ -49,19 +49,19 @@ Per creare un nuovo modello di e-mail, segui la procedura riportata di seguito.
 
 Se hai creato un’e-mail da salvare come modello da utilizzare in futuro, segui questi semplici passaggi.
 
-1. Clic **Attività di marketing**.
+1. Fai clic su **Attività di marketing**.
 
    ![](assets/one.png)
 
-1. Trova e seleziona l’e-mail, quindi fai clic su **Modifica bozza**.
+1. Trova e seleziona il tuo indirizzo e-mail, quindi fai clic su **Modifica bozza**.
 
    ![](assets/two-1.png)
 
-1. Fai clic su **Azioni e-mail** a discesa e selezionare **Salva come modello**.
+1. Fai clic sul menu a discesa **Azioni e-mail** e seleziona **Salva come modello**.
 
    ![](assets/four-1.png)
 
-1. Fai clic su **Cartella** , seleziona la posizione in cui vuoi inserire il modello e fai clic su **Salva**.
+1. Fai clic sull&#39;elenco a discesa **Cartella**, seleziona la posizione in cui desideri inserire il modello e fai clic su **Salva**.
 
    ![](assets/five-1.png)
 
@@ -75,4 +75,4 @@ Per personalizzare il modello di e-mail, consulta l’articolo seguente.
 
 >[!MORELIKETHIS]
 >
->[Sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

@@ -15,24 +15,24 @@ ht-degree: 0%
 
 ## Invia a Marketo Sales Connect {#push-to-marketo-sales-connect}
 
-1. Vai a **Configurazione** allora **Personalizza**.
-1. In Contatti/Lead/Account, apri **Cerca layout**.
-1. Modifica visualizzazione elenco lead e trascinamento **Invia a MSC** nei pulsanti selezionati.
+1. Vai a **Configurazione** e poi a **Personalizza**.
+1. In Contatti/Lead/Account aprire **Layout di ricerca**.
+1. Modifica visualizzazione elenco lead e trascina **Push to MSC** nei pulsanti selezionati.
 
 ## Invia e-mail per vendite Marketo {#send-marketo-sales-email}
 
 1. Modifica il layout di pagina per lead/contatto/account.
 1. Selezionare la sezione Pulsanti.
-1. Acquisisci **Invia e-mail MSC** e trascinarlo nella **Pulsanti personalizzati** sezione della sezione Dettagli.
+1. Acquisisci il pulsante **Invia e-mail MSC** e trascinalo nella sezione **Pulsanti personalizzati** dei Dettagli.
 
 ## Chiamata con Marketo Sales Connect {#call-with-marketo-sales-connect}
 
 1. Modifica il layout di pagina per lead/contatto/account.
 1. Selezionare la sezione Pulsanti.
-1. Acquisisci **Chiamata con MSC** e trascinarlo nella **Pulsanti personalizzati** sezione della sezione Dettagli.
+1. Acquisisci il pulsante **Chiamata con MSC** e trascinalo nella sezione **Pulsanti personalizzati** dei Dettagli.
 
 ## Aggiungi a campagna {#add-to-campaign}
 
 1. Modifica il layout di pagina per lead/contatto/account.
 1. Selezionare la sezione Pulsanti.
-1. Acquisisci **Aggiungi a campagna MSC** e trascinarlo nella **Pulsanti personalizzati** sezione della sezione Dettagli.
+1. Acquisisci il pulsante **Aggiungi a campagna MSC** e trascinalo nella sezione **Pulsanti personalizzati** dei Dettagli.

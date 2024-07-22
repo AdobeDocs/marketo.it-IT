@@ -5,7 +5,7 @@ exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -26,21 +26,21 @@ Ciò significa che se invii un’e-mail a flynn@flynnsarcade.com e lui risponde 
 
 ## Come tenere traccia degli allegati e-mail {#how-to-track-your-email-attachments}
 
-Sales Connect offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consentirti di vedere quando sono stati aperti/scaricati e vedere quali pagine sta cercando il destinatario. È possibile utilizzare la funzionalità degli allegati tracciabili di entrambi [applicazione web](https://toutapp.com/login) e Gmail (o Google Apps).
+Sales Connect offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consentirti di vedere quando sono stati aperti/scaricati e vedere quali pagine sta cercando il destinatario. Ti consentiremo di utilizzare la funzionalità degli allegati tracciabili sia dall&#39;[applicazione Web](https://toutapp.com/login) che da Gmail (o dalle app Google).
 
 >[!NOTE]
 >
 >Il tracciamento degli allegati è disponibile solo per i piani del team (a partire dal piano di avvio g3startup).
 
-**Come inviare il primo allegato tracciabile**
+**Inviare il primo allegato tracciabile**
 
-1. Componi un messaggio e-mail o modifichi un modello, quindi fai clic su **Contenuto** pulsante.
+1. Componi un messaggio e-mail o modifichi un modello, quindi fai clic sul pulsante **Contenuto**.
 
 1. Carica l’allegato e invialo. Supportiamo PDF, documenti Word e presentazioni Powerpoint.
 
 1. Seleziona **Aggiungi a e-mail**.
 
-1. Clic **Invia** e accendi il tuo feed live. Potrai visualizzare i destinatari all’apertura e scorrere la pagina tra gli allegati.
+1. Fai clic su **Invia** e attiva il tuo feed live. Potrai visualizzare i destinatari all’apertura e scorrere la pagina tra gli allegati.
 
 >[!TIP]
 >

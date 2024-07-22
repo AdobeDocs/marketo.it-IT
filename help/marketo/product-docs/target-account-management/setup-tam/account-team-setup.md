@@ -6,7 +6,7 @@ exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Un team di account è un gruppo di stakeholder che lavorano insieme su un account con nome. Segui questi passaggi per scegliere quali ruoli dell’account CRM aggiungere.
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one-3.png)
 
-1. Clic **Gestione account di destinazione**.
+1. Fare clic su **Gestione account di destinazione**.
 
    ![](assets/account-team-setup-2.png)
 
-1. In Membri del team account, fai clic su **Modifica**.
+1. In Membri del team account, fare clic su **Modifica**.
 
    ![](assets/3.png)
 
@@ -31,7 +31,7 @@ Un team di account è un gruppo di stakeholder che lavorano insieme su un accoun
    >
    >Per Ruolo account, assegna un nome e confrontalo con il campo di ricerca utente desiderato nel CRM.
 
-1. Digita il nome del tuo Account Role (Ruolo account) e seleziona il **CRM** campo. Somma fino a 10.
+1. Digita il nome del tuo account e seleziona il campo **CRM**. Somma fino a 10.
 
    ![](assets/four-2.png)
 
@@ -39,7 +39,7 @@ Un team di account è un gruppo di stakeholder che lavorano insieme su un accoun
    >
    >Impossibile selezionare il proprietario dell&#39;account. Viene scelto per impostazione predefinita dal livello account nel CRM.
 
-1. Clic **Salva** al termine.
+1. Al termine, fai clic su **Salva**.
 
    ![](assets/five-2.png)
 

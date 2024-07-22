@@ -6,7 +6,7 @@ exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -16,10 +16,10 @@ ht-degree: 0%
 Leggi lo scenario seguente e prova a determinare i numeri che devono essere presenti nella griglia.
 
 * 11 aprile | Fatturazione acquisita da (fiera)
-* Aprile 15 | Giovanna è acquisita da (webinar)
-* Aprile 22 | (Opportunità 1) creato per 6.000 dollari
-* Aprile 24 | (Opportunità 2) creato per $ 10.000
-* Aprile 25 | Bill e Joan sono associati a ruoli **ENTRAMBI** Opti
+* Aprile 15 | Joan viene acquisito da (webinar)
+* Aprile 22 | (Opportunità 1) creata per 6.000 dollari
+* Aprile 24 | (Opportunità 2) creata per $ 10.000
+* Aprile 25 | Bill e Joan sono associati con ruoli a **BOTH** Optys
 * Aprile 29 | (Opportunità 1) è un&#39;opportunità acquisita
 
 | Nome del programma | (fiera) | (Webinar) |
@@ -35,7 +35,7 @@ Leggi lo scenario seguente e prova a determinare i numeri che devono essere pres
 >
 >**Spiegazione**
 >
->Perché sia Bill che Joan erano associati a ruoli **ENTRAMBI** opportunità, il sistema (secondo le regole) ripartisce il credito in modo uniforme tra loro.
+>Poiché sia Bill che Joan sono stati associati a ruoli per le opportunità **BOTH**, il sistema (in base alle regole) suddivide il credito in modo uniforme tra loro.
 >
 >La pipeline creata per ciascun programma (8.000 dollari) è la metà del totale (16.000 dollari) disponibile da attribuire come credito.
 

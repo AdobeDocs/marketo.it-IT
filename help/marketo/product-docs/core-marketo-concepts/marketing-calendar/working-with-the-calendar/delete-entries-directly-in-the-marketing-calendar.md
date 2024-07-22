@@ -6,20 +6,20 @@ exl-id: c0e2dbc5-f9b1-4743-b07d-c31fecea9977
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
 
 # Elimina voci direttamente nel calendario di marketing {#delete-entries-directly-in-the-marketing-calendar}
 
-Oltre a [creazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} and [editing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} possono essere eliminate direttamente nel calendario di marketing. Ecco come.
+Oltre a [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"} voci, puoi eliminarle direttamente nel calendario di marketing. Ecco come.
 
-1. Fai clic su **MU** affiancare.
+1. Fare clic sul riquadro **MU**.
 
    ![](assets/2017-05-10-15-30-47-4.png)
 
-1. Seleziona la voce da eliminare e fai clic su **[!UICONTROL Mostra Focus Programma]**.
+1. Selezionare la voce che si desidera eliminare e fare clic su **[!UICONTROL Mostra stato attivo programma]**.
 
    ![](assets/image2014-10-20-13-3a20-3a33.png)
 

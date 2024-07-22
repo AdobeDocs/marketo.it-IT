@@ -6,7 +6,7 @@ exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Le seguenti funzioni sono incluse nella versione di aprile 2015. Per informazion
 >
 >Questa funzione verrà rilasciata martedì 28 aprile.
 
-Il nuovo [Home page di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente di accedere rapidamente all’esecuzione di rapporti ad hoc tra i tipi di rapporti disponibili.
+La nuova [home page di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente l&#39;accesso rapido per l&#39;esecuzione di report ad hoc tra i tipi di report disponibili.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
@@ -41,7 +41,7 @@ Con Marketo Mobile Engagement, offrire esperienze mobili coinvolgenti è facile.
 
 [Integrazione di linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estendi la tua strategia di sviluppo del lead alla visualizzazione a pagamento e agli annunci social. Il [integrazione di ad network](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator puoi creare in modo sicuro un segmento di pubblico in LinkedIn in base ai membri di qualsiasi elenco smart o statico. I membri all’interno di un segmento di pubblico di LinkedIn possono quindi essere nutriti con una sequenza di annunci rilevanti.
+Estendi la tua strategia di sviluppo del lead alla visualizzazione a pagamento e agli annunci social. L&#39;[integrazione della rete di annunci](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator consente di creare in modo sicuro un segmento di pubblico in LinkedIn in base ai membri di qualsiasi elenco smart o statico. I membri all’interno di un segmento di pubblico di LinkedIn possono quindi essere nutriti con una sequenza di annunci rilevanti.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 

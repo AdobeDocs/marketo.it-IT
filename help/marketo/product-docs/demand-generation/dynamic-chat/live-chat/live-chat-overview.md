@@ -5,7 +5,7 @@ feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
 source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '665'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ La chat in tempo reale consente ai visitatori del sito web di intrattenere conve
 
 ## Aggiungi agenti chat in tempo reale {#add-live-chat-agents}
 
-Per iniziare a utilizzare la chat in diretta, devi aggiungere i tuoi agenti chat in diretta come [utenti in Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} and give them the [Live Chat permission](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Al termine dell’operazione, puoi aggiungere una [scheda chat in diretta](#using-the-live-chat-card) in una finestra di dialogo nuova o esistente.
+Per iniziare a utilizzare la chat in diretta, devi aggiungere i tuoi agenti chat in diretta come [utenti in Adobe Admin Console](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#add-a-chat-user){target="_blank"} e concedere loro l&#39;autorizzazione [chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md){target="_blank"}. Al termine dell&#39;operazione, sarà possibile aggiungere una [scheda chat in diretta](#using-the-live-chat-card) a una finestra di dialogo nuova o esistente.
 
-Quando i visitatori richiedono di chattare con un agente tramite la tua finestra di dialogo, gli agenti avranno più [opzioni di notifica](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. When they click on the notification, they'll be taken to their [Agent Inbox](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"} dove possono iniziare a chattare con il visitatore.
+Quando i visitatori richiedono di chattare con un agente tramite la finestra di dialogo, gli agenti avranno più [opzioni di notifica](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#live-chat-notifications){target="_blank"}. Quando fanno clic sulla notifica, vengono reindirizzati alla [Posta in arrivo agente](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md){target="_blank"}, dove possono iniziare a chattare con il visitatore.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Quando i visitatori richiedono di chattare con un agente tramite la tua finestra
 
 ## Utilizzo della scheda Live Chat {#using-the-live-chat-card}
 
-Utilizza la scheda della chat in tempo reale in [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} quando desideri che i visitatori chattino con un agente live.
+Utilizza la scheda chat in diretta in [Stream Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"} quando desideri che i visitatori chattino con un agente in diretta.
 
 ![](assets/live-chat-overview-1.png)
 
@@ -61,7 +61,7 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
   </tr>
     <tr> 
    <td><b>Regole personalizzate</b></td>
-   <td>Tutte le regole personalizzate vengono esaminate ogni volta che si considera dove indirizzare il visitatore. Se il visitatore non è idoneo per alcuna regola personalizzata, ottiene il <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">messaggio di fallback di live chat</a>.</td>
+   <td>Tutte le regole personalizzate vengono esaminate ogni volta che si considera dove indirizzare il visitatore. Se il visitatore non è idoneo per nessuna regola personalizzata, riceve il <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">messaggio di fallback della chat in tempo reale</a>.</td>
   </tr> 
   <tr> 
    <td><b>Team</b></td>
@@ -78,11 +78,11 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
 
 ### Abilitazione delle notifiche {#enabling-notifications}
 
-Gli agenti di chat live visualizzeranno un banner nella parte superiore dello schermo quando effettuano l’accesso che recita &quot;Abilita le notifiche del browser per ricevere le notifiche di chat live&quot;. Clic **Abilita**.
+Gli agenti di chat live visualizzeranno un banner nella parte superiore dello schermo quando effettuano l’accesso che recita &quot;Abilita le notifiche del browser per ricevere le notifiche di chat live&quot;. Fare clic su **Abilita**.
 
 ![](assets/live-chat-overview-4.png)
 
-Agli agenti di chat live verrà quindi richiesto dal browser di visualizzare le notifiche. Clic **Consenti**.
+Agli agenti di chat live verrà quindi richiesto dal browser di visualizzare le notifiche. Fare clic su **Consenti**.
 
 ![](assets/live-chat-overview-5.png)
 
@@ -102,12 +102,12 @@ Quando una chat in diretta viene indirizzata a un agente, vede un banner blu nel
 >
 >Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso al Dynamic Chat.
 >
->* Abilitare le notifiche del browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
->* Abilitare le notifiche del browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+>* Abilita notifiche browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Abilita notifiche browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Aspetti da considerare {#things-to-note}
 
-* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accept chat&quot; (Accetta chat). Successivamente, i visitatori riceveranno la [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per gli abbonati Dynamic Chat Prime che hanno l’opzione di indirizzamento impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
+* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accept chat&quot; (Accetta chat). In seguito, i visitatori riceveranno il [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per gli abbonati Dynamic Chat Prime con l&#39;opzione di routing impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
 * Al momento esiste un limite di 10 chat live per agente.
 
 >[!MORELIKETHIS]

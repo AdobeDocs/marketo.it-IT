@@ -24,9 +24,9 @@ Il Marketo Engage si sincronizza con Veeva CRM tutto il giorno, ogni giorno. Ogn
 
 ![](assets/understanding-the-veeva-sync-1.png)
 
-La sincronizzazione tra Veeva e Marketi Engage è bidirezionale solo per i campi Contatto sull’oggetto account Persona. In questi casi, ogni volta che apporti modifiche in Veeva o Marketi Engage, gli aggiornamenti verranno rispecchiati in entrambi i sistemi. Tutte le altre sincronizzazioni sono da Veeva solo al Marketo Engage. Fai clic sui collegamenti riportati di seguito per ottenere informazioni dettagliate su ciascuno di essi.
+La sincronizzazione tra Veeva e Marketo Engage è bidirezionale solo per i campi Contatto sull’oggetto account Persona. In questi casi, ogni volta che apporti modifiche in Veeva o Marketo Engage, gli aggiornamenti verranno rispecchiati in entrambi i sistemi. Tutte le altre sincronizzazioni sono da Veeva solo al Marketo Engage. Fai clic sui collegamenti riportati di seguito per ottenere informazioni dettagliate su ciascuno di essi.
 
-## Cos’è sincronizzato tra Marketi Engage e Veeva {#what-is-synced-between-marketo-engage-and-veeva}
+## Cos’è sincronizzato tra Marketo Engage e Veeva {#what-is-synced-between-marketo-engage-and-veeva}
 
 * [Account persona](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/person-account-sync-faq.md){target="_blank"}
 * Utenti
@@ -35,7 +35,7 @@ La sincronizzazione tra Veeva e Marketi Engage è bidirezionale solo per i campi
 
 ## Aspetti da considerare {#things-to-know}
 
-* Il [credenziali immesse nel Marketo Engage per Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} vengono utilizzati per sincronizzare i dati. Verranno inclusi solo i dati a cui le credenziali hanno accesso.
+* Le [credenziali immesse nel Marketo Engage per Veeva](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui le credenziali hanno accesso.
 
 * Veeva CRM è basato su force.com e il Marketo Engage di esperienza avanzato con la piattaforma è ereditato in questa sincronizzazione.
 

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hai mai trascorso del tempo a creare la campagna web perfetta? Ora è possibile salvarlo come modello per riutilizzarlo facilmente in futuro.
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -27,7 +27,7 @@ Hai mai trascorso del tempo a creare la campagna web perfetta? Ora è possibile 
 
    ![](assets/my-campaign-edit.jpg)
 
-1. Seleziona Usa come modello e fai clic su **Salva**.
+1. Selezionare Usa come modello e fare clic su **Salva**.
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 

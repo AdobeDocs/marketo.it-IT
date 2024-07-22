@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Questo include uno snippet condiviso o a cui fanno riferimento le risorse in altre aree di lavoro.
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-the-snippet-1.png)
 
@@ -25,14 +25,14 @@ Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Q
 
    ![](assets/approve-the-snippet-2.png)
 
-1. In **[!UICONTROL Azioni snippet]** a discesa, scegli **[!UICONTROL Approva bozza]**.
+1. Nel menu a discesa **[!UICONTROL Azioni snippet]**, scegli **[!UICONTROL Approva bozza]**.
 
    ![](assets/approve-the-snippet-3.png)
 
-1. Selezionate un&#39;opzione nella finestra di dialogo Approva snippet (Approve snippet) e fate clic su **[!UICONTROL Approva]**:
+1. Selezionare un&#39;opzione nella finestra di dialogo Approva frammento e fare clic su **[!UICONTROL Approva]**:
 
-   * **[!UICONTROL Aggiorna tutto]**: con questa opzione non vengono create bozze delle risorse approvate utilizzando lo snippet. Tutte le risorse ricevono gli aggiornamenti e mantengono gli stati precedenti. Un modulo di avanzamento viene visualizzato sul lato destro superiore dello schermo e può essere chiuso in qualsiasi momento. Per ripristinarlo, fare clic con il pulsante destro del mouse sul nome del frammento e selezionare Mostra stato approvazione.
-   * **[!UICONTROL Creare bozze]**: con questa opzione vengono create le bozze delle risorse approvate utilizzando lo snippet. Selezionare questa opzione se è necessario rivedere prima le modifiche apportate al frammento. Tutte le bozze devono essere approvate manualmente
+   * **[!UICONTROL Aggiorna tutti]**: questa opzione non crea bozze delle risorse approvate utilizzando lo snippet. Tutte le risorse ricevono gli aggiornamenti e mantengono gli stati precedenti. Un modulo di avanzamento viene visualizzato sul lato destro superiore dello schermo e può essere chiuso in qualsiasi momento. Per ripristinarlo, fare clic con il pulsante destro del mouse sul nome del frammento e selezionare Mostra stato approvazione.
+   * **[!UICONTROL Crea bozze]**: questa opzione consente di creare bozze delle risorse approvate utilizzando lo snippet. Selezionare questa opzione se è necessario rivedere prima le modifiche apportate al frammento. Tutte le bozze devono essere approvate manualmente
 
    ![](assets/approve-the-snippet-4.png)
 
@@ -42,8 +42,8 @@ Il comando No-Draft viene attivato ogni volta che viene approvato uno snippet. Q
 
 >[!CAUTION]
 >
->Questa funzione consente di risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcune limitazioni di cui essere a conoscenza. Consulta [questo articolo](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"} per i dettagli.
+>Questa funzione consente di risparmiare tempo con il flusso di lavoro di approvazione degli snippet. Tuttavia, ci sono alcune limitazioni di cui essere a conoscenza. Per informazioni dettagliate, consulta [questo articolo](https://nation.marketo.com/t5/knowledgebase/no-draft-snippet-limitations-and-troubleshooting/ta-p/300799){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Abilita bozza senza testo per snippet](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}
+>[Abilita bozza non elaborata per snippet](/help/marketo/product-docs/administration/users-and-roles/enable-no-draft-for-snippets.md){target="_blank"}

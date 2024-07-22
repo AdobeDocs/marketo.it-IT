@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Filtrare un rapporto di programma per programma {#filter-a-program-report-by-program}
 
-Metti a fuoco [rapporto prestazioni programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} su programmi specifici per confrontarne le prestazioni.
+Concentrare il [report sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} su programmi specifici per confrontarne le prestazioni.
 
 1. Vai a **[!UICONTROL Attività di marketing]** (o **[!UICONTROL Analytics]**).
 
@@ -23,7 +23,7 @@ Metti a fuoco [rapporto prestazioni programma](/help/marketo/product-docs/core-m
 
    ![](assets/image2014-9-23-16-3a4-3a4.png)
 
-1. Fai clic su **[!UICONTROL Configurazione]** e trascinate **[!UICONTROL Programmi]**.
+1. Fai clic sulla scheda **[!UICONTROL Configurazione]** e trascina su **[!UICONTROL Programmi]**.
 
    ![](assets/prospect3.jpg)
 
@@ -35,10 +35,10 @@ Metti a fuoco [rapporto prestazioni programma](/help/marketo/product-docs/core-m
    >
    >Se selezioni una cartella, il rapporto includerà tutto ciò che la cartella contiene al momento dell’esecuzione del rapporto.
 
-1. Tutto qui! Fai clic su **[!UICONTROL Report]** scheda da visualizzare _solo_ i programmi selezionati nel report.
+1. Tutto qui! Fai clic sulla scheda **[!UICONTROL Report]** per visualizzare _just_ i programmi selezionati nel tuo report.
 
    ![](assets/image2014-9-23-16-3a5-3a41.png)
 
 >[!NOTE]
 >
->[Filtrare un rapporto di programma per tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}
+>[Filtrare un report di programma per tag](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-tag.md){target="_blank"}

@@ -17,11 +17,11 @@ A cosa hanno accesso gli amministratori e i non amministratori?
 
 ## Autorizzazioni utente amministratore {#admin-user-permissions}
 
-Gli amministratori possono [visualizza tutti i modelli](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
+Gli amministratori possono [visualizzare tutti i modelli](/help/marketo/product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md).
 
 ![](assets/templates.jpg)
 
-Gli amministratori possono [visualizza tutte le campagne](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
+Gli amministratori possono [visualizzare tutte le campagne](/help/marketo/product-docs/marketo-sales-connect/campaigns/view-campaigns-list-as-another-user.md).
 
 ![](assets/campaigns.jpg)
 

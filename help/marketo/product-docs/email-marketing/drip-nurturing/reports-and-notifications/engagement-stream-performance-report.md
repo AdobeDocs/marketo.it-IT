@@ -17,7 +17,7 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
 
 ## Creare il rapporto {#create-the-report}
 
-1. Trova e seleziona il tuo programma di coinvolgimento, quindi in **Nuovo** click **Nuova risorsa locale**.
+1. Trova e seleziona il tuo programma di coinvolgimento, quindi in **Nuovo** fai clic su **Nuova risorsa locale**.
 
    ![](assets/localassetnutring.jpg)
 
@@ -32,7 +32,7 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
    Selezionare Prestazioni flusso di coinvolgimento come tipo di report.
    ![](assets/engagementreportchoose.png)
 
-1. Assegna un nome al rapporto e fai clic su **Crea**.
+1. Assegna un nome al report e fai clic su **Crea**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,22 +44,22 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Sotto **Configurazione** , fare doppio clic sulla scheda **E-mail programma di coinvolgimento** filtro.
+1. Nella scheda **Configurazione** fare doppio clic sul filtro **E-mail programma di coinvolgimento**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Seleziona le e-mail su cui vuoi creare il rapporto e fai clic su **Applica**.
+1. Seleziona le e-mail per le quali vuoi creare un rapporto e fai clic su **Applica**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Esegui rapporto {#run-report}
 
-1. Per eseguire il rapporto, fai clic sul pulsante **Report** scheda.
+1. Per eseguire il report, fare clic sulla scheda **Report**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 
    >[!TIP]
    >
-   >Anche se non illustrato, il punteggio di coinvolgimento è una colonna in questo rapporto. Consulta [Informazioni sul punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md) per i dettagli su cosa si tratta.
+   >Anche se non illustrato, il punteggio di coinvolgimento è una colonna in questo rapporto. Per informazioni dettagliate su cosa è, consulta [Informazioni sul punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
    Ottimo lavoro! Il report è raggruppato per programma di coinvolgimento.

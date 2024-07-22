@@ -23,11 +23,11 @@ Per eliminare un account denominato, segui la procedura rapida riportata di segu
    >
    >Per selezionare più account denominati, premere Ctrl+clic (Windows) o Comando+clic (Mac).
 
-1. Fai clic su **Azioni account denominate** a discesa e selezionare **Elimina account denominato**.
+1. Fai clic sul menu a discesa **Azioni account denominato** e seleziona **Elimina account denominato**.
 
    ![](assets/eight-1.png)
 
-1. Clic **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/nine-1.png)
 

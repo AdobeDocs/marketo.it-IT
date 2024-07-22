@@ -13,31 +13,31 @@ ht-degree: 0%
 
 # Utilizzare le e-mail nelle promozioni social {#use-emails-in-social-promotions}
 
-Quando si crea un [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o un [pali](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi includere e-mail da inviare quando la persona si iscrive e di nuovo quando la persona ha vinto la ricompensa.
+Quando crei una [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [puntata](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi includere le e-mail da inviare quando la persona si iscrive e di nuovo quando la persona ha vinto la ricompensa.
 
 >[!TIP]
 >
->Per creare un messaggio e-mail, consulta [Invia un&#39;esplosione e-mail](/help/marketo/getting-started/quick-wins/send-an-email.md).
+>Per creare un&#39;e-mail, vedi [Invia un&#39;e-mail di avviso](/help/marketo/getting-started/quick-wins/send-an-email.md).
 
 Nelle e-mail, utilizza i seguenti token:
 
-* **E-mail di iscrizione**: Utilizzare **`{{social.Share Url}}`** per inviare a ogni persona partecipante un collegamento di condivisione personalizzato.
+* **E-mail di iscrizione**: utilizza **`{{social.Share Url}}`** per inviare a ogni partecipante un collegamento di condivisione personalizzato.
 
-* **E-mail di evasione**: Utilizzare **`{{social.Promo Code}}`** per inviare a ogni vincitore un [codice promozionale](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
+* **E-mail di evasione**: utilizza **`{{social.Promo Code}}`** per inviare a ogni vincitore un [codice promozionale](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md).
 
 >[!PREREQUISITES]
 >
->Prima di poter aggiungere un’e-mail a un’app social, devi _operative_ e _approvato_. Consulta [Modificare le impostazioni per un’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
+>Prima di poter aggiungere un&#39;e-mail a un&#39;app social, è necessario che sia _operativa_ e _approvata_. Consulta [Modifica impostazioni per un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Seleziona l’app e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-19-16-3a12-3a33.png)
 
-1. Nell’editor delle app social, vai a **Impostazioni app > Dettagli offerta** (o **Dettagli delle puntate**).
+1. Nell&#39;editor dell&#39;app social, vai a **Impostazioni app > Dettagli offerta** (o **Dettagli azioni**).
 
    ![](assets/image2014-9-19-16-3a12-3a41.png)
 
@@ -59,16 +59,16 @@ Nelle e-mail, utilizza i seguenti token:
 
 >[!NOTE]
 >
->In un’esperienza indimenticabile, l’e-mail di evasione viene sempre inviata automaticamente quando [seleziona il vincitore](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
+>In un&#39;indagine generale, l&#39;e-mail di evasione viene sempre inviata automaticamente quando [selezioni il vincitore](/help/marketo/product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md).
 
 >[!NOTE]
 >
 >**Definizione**
 >
->* **auto sull&#39;obiettivo**: l’e-mail di evasione viene inviata automaticamente quando ogni partecipante raggiunge l’obiettivo.
->* **invia manualmente**: una volta che le persone iniziano a raggiungere l’obiettivo, torna all’offerta di riferimento per [inviare l’e-mail di evasione](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
+>* **auto sull&#39;obiettivo**: l&#39;e-mail di evasione viene inviata automaticamente quando ogni partecipante raggiunge l&#39;obiettivo.
+>* **invia manualmente**: una volta che le persone iniziano a raggiungere l&#39;obiettivo, torna alla tua offerta di riferimento per [inviare manualmente l&#39;e-mail di evasione](/help/marketo/product-docs/demand-generation/social/referral-offers/send-referral-offer-fulfillment-email.md).
 >
 
 >[!MORELIKETHIS]
 >
->Quindi, puoi [scegli l’URL di condivisione](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) oppure, nell’offerta di riferimento, puoi [carica i codici promozionali](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) tu manderai.
+>Successivamente, puoi [scegliere l&#39;URL di condivisione](/help/marketo/product-docs/demand-generation/social/social-functions/choose-the-share-url-for-a-social-app.md) oppure, nell&#39;offerta di riferimento, puoi [caricare i codici promozionali](/help/marketo/product-docs/demand-generation/social/social-functions/use-promo-codes-for-offer-fulfillment.md) che invierai.

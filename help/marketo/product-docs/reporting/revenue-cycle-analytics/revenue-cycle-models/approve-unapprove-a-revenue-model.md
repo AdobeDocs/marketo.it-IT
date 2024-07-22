@@ -17,11 +17,11 @@ Puoi avere un solo modello approvato alla volta.
 
 >[!CAUTION]
 >
->[È necessario approvare singole fasi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) e le persone aggiunte prima dell’approvazione di un intero modello.
+>[Le singole fasi devono essere approvate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md) e le persone aggiunte prima di approvare un intero modello.
 
 ## Approva {#approve}
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -29,11 +29,11 @@ Puoi avere un solo modello approvato alla volta.
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Dalla sezione **Azioni modello** menu, scegliere **Approva modello**.
+1. Dal menu **Azioni modello**, scegliere **Approva modello**.
 
    ![](assets/image2015-4-28-14-3a6-3a3.png)
 
-1. Viene visualizzata una finestra di dialogo per confermare la scelta. Clic **Approva**.
+1. Viene visualizzata una finestra di dialogo per confermare la scelta. Fai clic su **Approva**.
 
    ![](assets/image2015-4-28-14-3a6-3a49.png)
 
@@ -45,7 +45,7 @@ Il tuo modello è ora live!
 >
 >Se annulli l’approvazione del modello, tutte le persone vengono rimosse dal modello e la cronologia viene eliminata.
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 
@@ -53,7 +53,7 @@ Il tuo modello è ora live!
 
    ![](assets/image2015-4-28-13-3a25-3a17.png)
 
-1. Fai clic su **Azioni modello** e scegliere **Annulla approvazione modello**.
+1. Fare clic sul menu **Azioni modello** e scegliere **Annulla approvazione modello**.
 
    ![](assets/image2015-4-28-13-3a28-3a0.png)
 

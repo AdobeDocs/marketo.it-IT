@@ -23,7 +23,7 @@ I campi modulo nascosti possono acquisire dati in modo invisibile all’utente s
 
    ![](assets/image2014-9-15-12-3a58-3a47.png)
 
-1. Seleziona il campo e imposta **Tipo di campo** a **Nascosto.**
+1. Selezionare il campo e impostare **Tipo di campo** su **Nascosto.**
 
    ![](assets/image2014-9-15-12-3a58-3a56.png)
 
@@ -33,4 +33,4 @@ I campi modulo nascosti possono acquisire dati in modo invisibile all’utente s
 
 >[!MORELIKETHIS]
 >
->[Impostare un valore per il campo modulo nascosto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)
+>[Imposta valore campo modulo nascosto](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md)

@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Gestione dei token {#managing-my-tokens}
 
-L’utilizzo dei token può semplificare le attività in Marketo. È possibile utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Ecco come farle.
+L’utilizzo dei token può semplificare le attività in Marketo. Puoi utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Ecco come farle.
 
 >[!TIP]
 >
@@ -25,11 +25,11 @@ L’utilizzo dei token può semplificare le attività in Marketo. È possibile u
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona un programma o una cartella della campagna. Clic **[!UICONTROL I miei token]**.
+1. Seleziona un programma o una cartella della campagna. Fai clic su **[!UICONTROL I miei token]**.
 
    ![](assets/image2014-9-18-12-3a4-3a27.png)
 
-1. Seleziona un **[!UICONTROL Il mio token]** tipo. Trascinalo e rilascialo sull’area di lavoro.
+1. Seleziona un tipo **[!UICONTROL Il mio token]**. Trascinalo e rilascialo sull’area di lavoro.
 
    ![](assets/image2014-9-18-12-3a4-3a39.png)
 
@@ -47,7 +47,7 @@ L’utilizzo dei token può semplificare le attività in Marketo. È possibile u
 
 ## Modifica un token personale {#edit-a-my-token}
 
-1. Fai doppio clic su **[!UICONTROL Il mio token]** e apportare le modifiche desiderate. Fai clic su **Salva**.
+1. Fai doppio clic su **[!UICONTROL Il mio token]** e apporta le modifiche. Fai clic su **Salva**.
 
    ![](assets/image2014-9-18-12-3a5-3a45.png)
 
@@ -57,11 +57,11 @@ L’utilizzo dei token può semplificare le attività in Marketo. È possibile u
 >
 >Quando elimini un token personale, assicurati di non farvi riferimento in alcuna risorsa. Se viene eliminato, uno spazio vuoto verrà visualizzato in qualsiasi punto in cui viene fatto riferimento a tale spazio.
 
-1. Fare clic con il pulsante destro del mouse **[!UICONTROL Il mio token]**. Seleziona **[!UICONTROL Elimina token]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Il mio token]**. Seleziona **[!UICONTROL Elimina token]**.
 
    ![](assets/image2014-9-18-12-3a7-3a24.png)
 
-1. Clic **[!UICONTROL Elimina]**.
+1. Fare clic su **[!UICONTROL Elimina]**.
 
    ![](assets/image2014-9-18-12-3a7-3a31.png)
 
@@ -69,4 +69,4 @@ L’utilizzo dei token può semplificare le attività in Marketo. È possibile u
    >
    >* [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}
    >* [Informazioni sui token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"}
-   >* [Utilizzo degli URL nei miei token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}
+   >* [Utilizzo di URL nei miei token](/help/marketo/product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md){target="_blank"}

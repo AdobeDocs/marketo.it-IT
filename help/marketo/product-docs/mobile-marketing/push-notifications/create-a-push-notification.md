@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Creare una notifica push {#create-a-push-notification}
 
-È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che l’amministratore di Marketo e lo sviluppatore di app mobili abbiano configurato alcuni elementi necessari mentre li esegui. Consulta [Informazioni sulle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md) per i dettagli.
+È facile creare una notifica push. Tuttavia, prima di iniziare, è necessario che l’amministratore di Marketo e lo sviluppatore di app mobili abbiano configurato alcuni elementi necessari mentre li esegui. Per informazioni dettagliate, consulta [Informazioni sulle notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md).
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/image2015-4-22-18-3a46-3a14.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a31-3a43.png)
 
-1. Sotto **Nuovo**, fai clic su **Nuova risorsa locale**.
+1. In **Nuovo**, fai clic su **Nuova risorsa locale**.
 
    ![](assets/image2015-4-23-13-3a33-3a20.png)
 
@@ -31,8 +31,8 @@ ht-degree: 0%
 
    ![](assets/image2015-4-23-13-3a35-3a6.png)
 
-1. Immetti un **Nome notifica push** e fai clic su **Crea**.
+1. Immetti un **nome notifica push** e fai clic su **Crea**.
 
    ![](assets/image2015-4-23-13-3a36-3a56.png)
 
-   Dolce! Ora che hai creato la notifica push, procediamo e [travestitelo](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).
+   Dolce! Ora che la notifica push è stata creata, procediamo e [camuffiala](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md).

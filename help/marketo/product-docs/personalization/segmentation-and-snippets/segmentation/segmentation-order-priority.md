@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Priorità ordine di segmentazione {#segmentation-order-priority}
 
-È importante capire come **ordine** imposta la priorità per la valutazione delle persone in una segmentazione.
+È importante comprendere in che modo **order** imposta la priorità per la valutazione delle persone in una segmentazione.
 
 >[!PREREQUISITES]
 >
->[Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->[Definire le regole del segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>[Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>[Definisci regole segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >Puoi modificare una segmentazione solo in modalità bozza.
 
-1. Vai a **Database**.
+1. Vai al **database**.
 
    ![](assets/segmentation-order-priority-1.png)
 
-1. Seleziona il **Segmentazione**. In entrata **Azioni di segmentazione**, fai clic su **Modifica segmenti**.
+1. Seleziona la **segmentazione**. In **Azioni di segmentazione**, fai clic su **Modifica segmenti**.
 
    ![](assets/segmentation-order-priority-2.png)
 

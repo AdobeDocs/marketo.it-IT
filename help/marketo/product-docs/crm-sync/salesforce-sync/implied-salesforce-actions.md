@@ -6,7 +6,7 @@ exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
 source-git-commit: 4045f262889d06304111288d30da893529396e81
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Queste regole verranno applicate quando la persona non si trova attualmente in [
  </tbody> 
 </table>
 
-È possibile filtrare i record SFDC in un elenco avanzato utilizzando **[!UICONTROL Tipo SFDC]** Filtra con l’operatore impostato su &quot;non è vuoto&quot;. Tutti i record SFDC contengono un valore in questo campo.
+È possibile filtrare i record SFDC in un elenco avanzato utilizzando il filtro **[!UICONTROL SFDC Type]** con l&#39;operatore impostato su &quot;non è vuoto&quot;. Tutti i record SFDC contengono un valore in questo campo.
 
-Ricorda che queste azioni automatiche si verificano solo se il lead non è attualmente in [Salesforce.com](https://salesforce.com){target="_blank"}
+Ricorda che queste azioni automatiche si verificano solo se il lead non si trova attualmente in [Salesforce.com](https://salesforce.com){target="_blank"}

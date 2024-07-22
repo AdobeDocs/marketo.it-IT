@@ -6,7 +6,7 @@ exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Il filtro è un ottimo modo per limitare i dati rapidamente.
 
    >[!NOTE]
    >
-   >Sono disponibili diverse combinazioni di parametri di ricerca. In questo esempio individuiamo: _Settore = Banca, Paese = Stati Uniti, Dipendenti max = 10000_.
+   >Sono disponibili diverse combinazioni di parametri di ricerca. In questo esempio vengono individuati: _Settore = Banca, Paese = Stati Uniti, Numero massimo dipendenti = 10000_.
 
-1. Fai clic su **Settore** a discesa e selezionare **Settore bancario**.
+1. Fai clic sul menu a discesa **Settore** e seleziona **Settore bancario**.
 
    ![](assets/filter-2.png)
 
-1. Fai clic su **Paese** a discesa e selezionare **Stati Uniti**.
+1. Fai clic sul menu a discesa **Paese** e seleziona **Stati Uniti**.
 
    ![](assets/filter-3.png)
 
-1. Sotto **Dipendenti**, digitare &quot;0&quot; nella **Min** campo, &quot;10000&quot; nella **Max** , quindi fai clic su **Applica**.
+1. In **Dipendenti**, digitare &quot;0&quot; nel campo **Min**, &quot;10000&quot; nel campo **Max**, quindi fare clic su **Applica**.
 
    ![](assets/four-2.png)
 

@@ -19,7 +19,7 @@ Potresti aver notato l’opzione &quot;Usa filtri&quot; durante la creazione deg
 
 >[!NOTE]
 >
->La modifica della logica della regola dell’elenco avanzato si applica solo ai filtri, _non_ trigger.
+>La modifica della logica della regola dell&#39;elenco smart si applica solo ai filtri, _not_ trigger.
 
 Gli attivatori vengono sempre valutati come OR anche se l’impostazione precedente è impostata su ALL. Ecco un esempio:
 
@@ -38,8 +38,8 @@ Country is US
 THEN follow the campaign's flow step(s)
 ```
 
-Quindi, se una persona compila il modulo _o_ visita la pagina, la campagna valuterà quindi tale persona in base a _tutto_ o _qualsiasi_ dei filtri successivi, a seconda dell’impostazione utilizzata.
+Pertanto, se una persona compila il modulo _o_ visita la pagina, la campagna valuterà tale persona in base a _all_ o _any_ dei filtri successivi, a seconda dell&#39;impostazione utilizzata.
 
 >[!MORELIKETHIS]
 >
->[Utilizzo della logica avanzata della regola di elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}
+>[Utilizzo della logica avanzata dell&#39;elenco smart](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"}

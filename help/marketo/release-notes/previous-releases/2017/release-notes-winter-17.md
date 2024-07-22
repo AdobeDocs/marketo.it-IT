@@ -31,7 +31,7 @@ La corrispondenza di base utilizza solo gli indirizzi e-mail, ma la nuova corris
 
 Questa API fornisce un’interfaccia più veloce per sincronizzare gli oggetti personalizzati in Marketo. È possibile importare file CSV, TSV o SSV in Marketo come oggetti personalizzati.
 
-## [Esportazione di campagne di personalizzazione web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
+## [Esportazione campagne Web Personalization](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/export-web-campaign-data.md) {#web-personalization-campaigns-export}
 
 Esporta tutti i dettagli e le analisi della campagna web in formato CSV. Potrai quindi visualizzare i dati in un layout semplice.
 
@@ -39,7 +39,7 @@ Esporta tutti i dettagli e le analisi della campagna web in formato CSV. Potrai 
 
 ## Localizzazione {#localization}
 
-Le app di personalizzazione web, contenuti predittivi e informazioni e-mail sono ora disponibili in giapponese, tedesco e spagnolo. Tu [seleziona la lingua e le impostazioni internazionali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare il contenuto in queste lingue.
+Le app Web Personalization, Predictive Content e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. [selezionare la lingua e le impostazioni locali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare il contenuto in queste lingue.
 
 ![](assets/japanese-web-personalization.png)
 
@@ -59,13 +59,13 @@ Utilizza Account denominato o Elenco account come dimensioni in Informazioni e-m
 
 ## Miglioramenti predittivi dei contenuti {#predictive-content-enhancements}
 
-**[Filtra per origine abilitata](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtra per Source abilitato](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtra i contenuti predittivi abilitati per e-mail, contenuti multimediali avanzati o barra dei consigli.
 
 ![](assets/predictive-content-enabled-source.png)
 
-**[Filtra analisi per origine](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
+**[Filtra analisi per Source](/help/marketo/product-docs/predictive-content/working-with-predictive-content/understanding-predictive-content.md)**
 
 Filtra l’analisi predittiva dei contenuti per origini specifiche: e-mail, contenuti multimediali avanzati o barra dei consigli.
 
@@ -77,22 +77,22 @@ Filtra l’analisi predittiva dei contenuti per origini specifiche: e-mail, cont
 
 ![](assets/predictive-content-editor.png)
 
-**[Rilevamento automatico dei contenuti per predictive](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
+**[Contenuto individuazione automatica per predittivo](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md)**
 
 L’URL dell’immagine e i metadati vengono ora utilizzati nel processo di rilevamento automatico dei contenuti.
 
-## [Miglioramenti dell’SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Miglioramenti SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Gli sviluppatori ora hanno un controllo aggiuntivo sulla distribuzione delle notifiche push con l’aggiunta di una nuova chiamata API SDK che consente agli sviluppatori di rimuovere i token push.
 
-## [Integrazione Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## Integrazione di [Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Migliora il targeting con una nuova opzione di filtro, &quot;Membro dell’elenco delle vibrazioni&quot;.
 
-## [Obsolescenza di Editor Rich Text e Editor di moduli legacy 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
+## [Deprecazione editor Rich Text legacy ed editor di moduli 1.0](https://nation.marketo.com/docs/DOC-4315) {#legacy-rich-text-editor-and-form-editor-deprecation}
 
 A partire dal 1° agosto 2017, i clienti che utilizzano ancora l’editor Rich Text e l’editor di moduli 1.0 legacy passeranno automaticamente alla nuova esperienza.
 
-## [API delle attività di Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
+## [API attività Marketo](https://developers.marketo.com/blog/important-change-activity-records-marketo-apis/) {#marketo-activity-apis}
 
 Un cambiamento importante sta arrivando alle API delle attività di Marketo. Sei preparato?

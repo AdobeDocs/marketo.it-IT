@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Cambia posizione etichetta modulo {#change-form-label-position}
 
-Quando [creazione di un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), è possibile modificare molto facilmente la posizione delle etichette dei campi modulo. Ecco come.
+Durante la [creazione di un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), è possibile modificare molto facilmente la posizione delle etichette dei campi modulo. Ecco come.
 
 1. Vai a **Attività di marketing**.
 
@@ -27,7 +27,7 @@ Quando [creazione di un modulo](/help/marketo/product-docs/demand-generation/for
 
    ![](assets/image2014-9-15-16-3a16-3a26.png)
 
-1. Seleziona la **Posizione etichetta** tu vuoi.
+1. Selezionare la **posizione etichetta** desiderata.
 
    ![](assets/image2014-9-15-16-3a16-3a39.png)
 
@@ -36,11 +36,11 @@ Quando [creazione di un modulo](/help/marketo/product-docs/demand-generation/for
    * Sinistra (impostazione predefinita)
    * Sopra
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a16-3a49.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    >[!NOTE]
    >
@@ -56,4 +56,4 @@ Ben fatto! È facile modificare le posizioni delle etichette in un modulo? OK, v
 
 >[!MORELIKETHIS]
 >
->[Modificare la famiglia di caratteri del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)
+>[Modifica la famiglia di caratteri del modulo](/help/marketo/product-docs/demand-generation/forms/form-design/change-the-form-font-family.md)

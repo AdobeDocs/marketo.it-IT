@@ -17,7 +17,7 @@ I tag ti aiuteranno a organizzare i programmi, mentre i canali ti aiuteranno a r
 
 >[!NOTE]
 >
->Estrai [Informazioni sui tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) per ulteriori informazioni.
+>Consulta [Informazioni sui tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) per ulteriori informazioni.
 
 >[!NOTE]
 >
@@ -27,15 +27,15 @@ I tag ti aiuteranno a organizzare i programmi, mentre i canali ti aiuteranno a r
 
 Per creare un nuovo tipo di tag:
 
-1. Vai a **[!UICONTROL Amministratore]** sezione.
+1. Vai alla sezione **[!UICONTROL Amministratore]**.
 
    ![](assets/create-custom-tags-1.png)
 
-1. Clic **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tag]**.
 
    ![](assets/create-custom-tags-2.png)
 
-1. Clic **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo tipo di tag]**.
+1. Fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo tipo di tag]**.
 
    ![](assets/create-custom-tags-3.png)
 
@@ -43,7 +43,7 @@ Per creare un nuovo tipo di tag:
 
    ![](assets/create-custom-tags-4.png)
 
-1. Immetti il valore desiderato per il tipo di tag. Clic **[!UICONTROL Aggiungi un altro]** per immettere valori aggiuntivi.
+1. Immetti il valore desiderato per il tipo di tag. Fai clic su **[!UICONTROL Aggiungi altro]** per immettere valori aggiuntivi.
 
    ![](assets/create-custom-tags-5.png)
 
@@ -57,12 +57,12 @@ Per creare un nuovo tipo di tag:
 
    >[!NOTE]
    >
-   >* Seleziona &quot;[!UICONTROL Obbligatorio]&quot; se desideri che questo tag venga aggiunto in qualsiasi momento venga creato un nuovo programma.
-   >* Rimozione di un tipo di programma da &#39;[!UICONTROL Applicabile a]&#39; eliminerà il tag e i relativi valori da tutti i programmi esistenti di quel tipo. Se desideri mantenere i valori dei tag esistenti e rendere questo tag facoltativo, procedi per _tutto_ tipi di programma elencati, lasciare deselezionata la casella di controllo &quot;Obbligatorio&quot;.
+   >* Seleziona &quot;[!UICONTROL Obbligatorio]&quot; se desideri aggiungere questo tag ogni volta che viene creato un nuovo programma.
+   >* Se si rimuove un tipo di programma dall&#39;elenco &#39;[!UICONTROL Si applica a]&#39;, il tag e i relativi valori verranno eliminati da tutti i programmi esistenti di quel tipo. Se si desidera mantenere i valori dei tag esistenti e rendere facoltativo il tag in futuro per _tutti_ i tipi di programma elencati, lasciare deselezionata la casella di controllo &quot;Obbligatorio&quot;.
 
    >[!TIP]
    >
-   >Se desideri che un tag simile sia richiesto per alcuni tipi di programmi ma facoltativo per altri, devi impostare due tag separati, ciascuno applicabile a tipi di programmi diversi con uno con &quot;[!UICONTROL Obbligatorio]&quot; selezionato, e l’altro con &quot;[!UICONTROL Obbligatorio]&quot; non selezionato.
+   >Se si desidera rendere un tag simile necessario per alcuni tipi di programmi ma facoltativo per altri, è necessario impostare due tag distinti, ciascuno applicabile a tipi di programmi diversi, uno con &quot;[!UICONTROL Obbligatorio]&quot; selezionato e l&#39;altro con &quot;[!UICONTROL Obbligatorio]&quot; non selezionato.
 
 1. Fai clic su **[!UICONTROL Crea]**.
 

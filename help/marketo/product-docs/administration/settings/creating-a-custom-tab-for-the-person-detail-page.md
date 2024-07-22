@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi creare un layout personalizzato per semplificare la ricerca.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Fai clic su **[!UICONTROL Progettazione layout personalizzati]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Layout personalizzato Designer]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi 
    >
    >Hai due colonne con cui lavorare.
 
-   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo che si desidera rimuovere e scegliere **[!UICONTROL Elimina]**.
+   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo da rimuovere e scegliere **[!UICONTROL Elimina]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

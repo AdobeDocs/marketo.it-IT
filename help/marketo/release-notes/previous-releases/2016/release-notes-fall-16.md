@@ -29,7 +29,7 @@ Ora puoi aggiungere contenuto predittivo all’e-mail. Quando l’e-mail viene a
 
 ![](assets/predictive.png)
 
-## [Conversioni offline facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
+## [Conversioni offline Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md) {#facebook-offline-conversions}
 
 Con l’integrazione delle conversioni offline di Facebook, i dati di conversione in Marketo (per lead di annunci) vengono automaticamente rimandati a Facebook in modo che il team pubblicitario possa ottimizzare la spesa pubblicitaria. In questo rapporto di Facebook Ad Manager, vengono evidenziate le conversioni offline.
 
@@ -53,21 +53,21 @@ Ora è possibile assegnare i team dell&#39;account ad account denominati in Acco
 
 **API REST**
 
-Questa versione consente inoltre di gestire gli attributi e i punteggi degli account denominati in ABM utilizzando l’API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visita il [Sito web Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
+Questa versione consente inoltre di gestire gli attributi e i punteggi degli account denominati in ABM utilizzando l’API REST di Marketo. Per ulteriori dettagli sulle operazioni API, visita il [sito Web Marketo Developers](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts).
 
-## [Miglioramenti di Audit Trail](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
+## [Miglioramenti della prova di verifica](/help/marketo/product-docs/administration/audit-trail/change-details-in-audit-trail.md) {#audit-trail-enhancements}
 
 Audit trail fornisce una cronologia completa delle modifiche apportate all’interno dell’abbonamento Marketo. Sono state aggiunte ulteriori funzionalità di tracciamento per i programmi e sono stati evidenziati importanti dettagli di modifica per campagne intelligenti, elenchi avanzati e modifiche apportate a utenti e ruoli.
 
 ## [Nuove autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md) {#new-permissions}
 
-**Rendi operativa l’e-mail**
+**Rendi operativa l&#39;e-mail**
 
 Sono finiti i giorni in cui dovevi preoccuparti che gli utenti inviassero e-mail transazionali a persone del tuo database che hanno annullato l’abbonamento. Ora puoi specificare quali utenti possono rendere operativa un’e-mail o modificarne le e-mail operative.
 
 **Modifica restrizioni campagna**
 
-Perché impostare [restrizioni delle campagne](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se non riesci a farle rispettare? Quando imposti Impostazioni limite campagna in modo da limitare il numero di persone nel database a cui è possibile indirizzare una singola campagna, ora puoi limitare quali utenti possono ignorare queste impostazioni durante la pianificazione di una campagna.
+Perché impostare [restrizioni campagna](/help/marketo/product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md) se non è possibile applicarle? Quando imposti Impostazioni limite campagna in modo da limitare il numero di persone nel database a cui è possibile indirizzare una singola campagna, ora puoi limitare quali utenti possono ignorare queste impostazioni durante la pianificazione di una campagna.
 
 ## [Suono per le notifiche push per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md) {#sound-for-mobile-push-notifications}
 
@@ -80,15 +80,15 @@ Rendi più ricca la tua notifica push di iOS grazie all’abilitazione dell’au
 
 ![](assets/sound-for-push-notifications.png)
 
-## [Sales Insight compatibile con la crittografia Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
+## [Informazioni sulle vendite compatibili con Salesforce Encryption](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md) {#sales-insight-compatible-with-salesforce-encryption}
 
-Market Sales Insight è ora compatibile con Salesforce Shield Encryption. Tutti i clienti Sales Insight devono effettuare l’aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), che è [disponibile su Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
+Market Sales Insight è ora compatibile con Salesforce Shield Encryption. Tutti i clienti Sales Insight devono effettuare l&#39;aggiornamento a questo pacchetto gestito più recente (versione 1.4359.2), disponibile [su Appexchange](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO).
 
-## [API degli account denominati](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
+## [API account denominati](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/named-accounts) {#named-accounts-apis}
 
 Con questa versione, gli utenti ABM di Marketo possono gestire account denominati tramite l’API Account denominati. Gli utenti possono creare, aggiornare ed eliminare account denominati, nonché leggere e aggiornare i punteggi degli account denominati ABM.
 
-## [Supporto API dell’editor e-mail v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
+## [Supporto API dell&#39;editor di posta elettronica v2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting) {#email-editor-v-api-support}
 
 Gestisci variabili e moduli per le e-mail in formato v2.0 utilizzando l’API REST di Marketo.
 

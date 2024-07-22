@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Aggiungi campi personalizzati agli account, mappali sul tuo CRM e utilizzali per l’individuazione degli account CRM in Marketo.
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/admin.png)
 
-1. Clic **Gestione dei campi**, quindi **Nuovo campo personalizzato**.
+1. Fai clic su **Gestione campi**, quindi su **Nuovo campo personalizzato**.
 
    ![](assets/two-4.png)
 
-1. Fai clic su **Oggetto** a discesa e selezionare **Account denominato**.
+1. Fai clic sul menu a discesa **Oggetto** e seleziona **Account denominato**.
 
    ![](assets/three-3.png)
 
-1. Fai clic su **Tipo** e selezionare un tipo.
+1. Fare clic sull&#39;elenco a discesa **Tipo** e selezionare un tipo.
 
    ![](assets/four-3.png)
 
@@ -35,11 +35,11 @@ Aggiungi campi personalizzati agli account, mappali sul tuo CRM e utilizzali per
 
    ![](assets/five-3.png)
 
-1. Dopo aver creato il campo, selezionalo dalla struttura a destra. Fai clic su **Azioni campo** a discesa e selezionare **Mappa su campo CRM**.
+1. Dopo aver creato il campo, selezionalo dalla struttura a destra. Fai clic sul menu a discesa **Azioni campo** e seleziona **Mappa sul campo CRM**.
 
    ![](assets/six-2.png)
 
-1. Seleziona il campo dell’account CRM a cui vuoi eseguire il mapping e fai clic su **Salva**.
+1. Selezionare il campo dell&#39;account CRM a cui si desidera eseguire il mapping e fare clic su **Salva**.
 
    ![](assets/seven-1.png)
 

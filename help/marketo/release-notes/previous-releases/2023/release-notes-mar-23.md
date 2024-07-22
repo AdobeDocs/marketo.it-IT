@@ -16,17 +16,17 @@ Di seguito sono riportate tutte le funzioni incluse nella versione di marzo 2023
 
 >[!AVAILABILITY]
 >
->Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **31 marzo 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **31 marzo 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
-### Marketi Engage Modern UX {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Componente Utilizzo ottimizzato per dettagli modello pagina di destinazione e modulo**: la nuova scheda Usato da dell’interfaccia utente fornisce informazioni aggiuntive in Dettagli modello pagina di destinazione e Dettagli modulo, inclusi ulteriori dettagli sulle risorse che hanno utilizzato una risorsa selezionata. Esegui analisi su lunghi elenchi di risorse tramite le funzionalità di ricerca, ordinamento e filtro.
+* **Utilizzo avanzato del componente per i dettagli del modello della pagina di destinazione e del modulo**: la nuova scheda Utilizzo da parte dell&#39;interfaccia utente fornisce informazioni aggiuntive in Dettagli modello pagina di destinazione e Dettagli modulo, inclusi ulteriori dettagli relativi alle risorse che hanno utilizzato una risorsa selezionata. Esegui analisi su lunghi elenchi di risorse tramite le funzionalità di ricerca, ordinamento e filtro.
 
 <table> 
   <tr> 
@@ -40,7 +40,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-* **Rimuovi interruttore e esperienza classica dalle pagine di destinazione**: la deprecazione dell’interruttore di attivazione e dell’esperienza classica per le pagine di destinazione ti aiuterà ad adottare completamente la nuova esperienza. La nuova esperienza consente di utilizzare completamente le funzionalità fornite con queste risorse senza dover fare affidamento sulla vecchia esperienza o dover passare continuamente da un’esperienza all’altra.
+* **Rimuovi interruttore ed esperienza classica dalle pagine di destinazione**: la rimozione dell&#39;interruttore e dell&#39;esperienza classica per le pagine di destinazione ti aiuterà ad adottare completamente la nuova esperienza. La nuova esperienza consente di utilizzare completamente le funzionalità fornite con queste risorse senza dover fare affidamento sulla vecchia esperienza o dover passare continuamente da un’esperienza all’altra.
 
 <table> 
   <tr> 
@@ -54,7 +54,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-* **Miglioramenti delle prestazioni dei nodi della struttura**: per chi dispone di un numero elevato di nodi della struttura, le prestazioni risulteranno notevolmente migliorate.
+* **Miglioramenti delle prestazioni dei nodi della struttura**: gli utenti con un numero elevato di nodi della struttura vedranno un miglioramento significativo delle prestazioni.
 
 <table> 
   <tr> 
@@ -72,7 +72,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Aggiornare l’integrazione di Marketo Facebook per utilizzare Facebook Graph API Update**: con il recente aggiornamento di Facebook all’API Graph di Facebook v15, è ora possibile creare un limite di 500 tipi di pubblico personalizzati per un particolare account pubblicitario.
+* **Aggiorna l&#39;integrazione di Marketo Facebook per utilizzare Facebook Graph API Update**: con il recente aggiornamento di Facebook all&#39;API di Facebook Graph v15, è ora possibile creare un limite di 500 tipi di pubblico personalizzati per un particolare account annuncio.
 
 <table> 
   <tr> 
@@ -94,7 +94,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 </br>
 
-* **Rapporto Coinvolgimento finestre di dialogo per Dynamic Chat**: fornisce una visualizzazione dell’interazione di Dialog nel tempo, inclusa la possibilità di filtrare per tipo di visitatore e di coinvolgimento per fornire una migliore visibilità agli utenti.
+* **Rapporto di coinvolgimento del dialogo per il Dynamic Chat**: fornisce una visualizzazione del coinvolgimento del dialogo nel tempo, inclusa la possibilità di filtrare per tipo di visitatore e tipo di coinvolgimento per fornire una migliore visibilità agli utenti.
 
 <table> 
   <tr> 
@@ -108,7 +108,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Ruoli e autorizzazioni per il Dynamic Chat**: introduce ruoli e autorizzazioni al Dynamic Chat, consentendo agli amministratori di limitare la visibilità e l’utilizzo di diverse aree dell’app a specifici tipi di utenti.
+* **Ruoli e autorizzazioni per il Dynamic Chat**: introduce ruoli e autorizzazioni per il Dynamic Chat, consentendo agli amministratori di limitare la visibilità e l&#39;utilizzo di diverse aree dell&#39;app ai tipi di utenti selezionati.
 
 <table> 
   <tr> 
@@ -122,7 +122,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Chat come canale del programma per il Dynamic Chat**: crea un nuovo canale del programma &quot;Chat&quot; per monitorare la progressione del programma per le persone acquisite dal Dynamic Chat. Ad esempio, un addetto marketing ha un programma associato a una finestra di dialogo di Dynamic Chat per acquisire nuovi lead. Ora possono assegnare quel programma al canale Chat in modo da poter monitorare quando i lead sono membri del programma e quando hanno raggiunto il successo.
+* **Chat come canale del programma per il Dynamic Chat**: crea un nuovo canale del programma &quot;Chat&quot; per tenere traccia della progressione del programma per le persone acquisite dal Dynamic Chat. Ad esempio, un addetto marketing ha un programma associato a una finestra di dialogo di Dynamic Chat per acquisire nuovi lead. Ora possono assegnare quel programma al canale Chat in modo da poter monitorare quando i lead sono membri del programma e quando hanno raggiunto il successo.
 
 <table> 
   <tr> 
@@ -150,7 +150,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Supporto linguistico aggiuntivo per il Dynamic Chat**: ora puoi scegliere tra nove lingue supportate per visualizzare il contenuto statico del Dynamic Chat in.
+* **Supporto linguistico aggiuntivo per il Dynamic Chat**: è ora possibile scegliere tra nove lingue supportate per visualizzare il contenuto statico del Dynamic Chat in.
 
 <table> 
   <tr> 
@@ -164,7 +164,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Passa al nodo nell&#39;anteprima di Stream Designer per il Dynamic Chat**: dal pannello di anteprima, passa direttamente a un nodo in Progettazione flussi.
+* **Passa al nodo nell&#39;anteprima Stream Designer per il Dynamic Chat**: passa direttamente a un nodo nel Stream Designer dal pannello di anteprima.
 
 <table> 
   <tr> 

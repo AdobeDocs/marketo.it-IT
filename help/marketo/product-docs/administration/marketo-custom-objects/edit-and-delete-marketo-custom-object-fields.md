@@ -21,7 +21,7 @@ A volte è necessario modificare un campo non ancora approvato.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. In [!UICONTROL Campi] , fare clic su **[!UICONTROL Azioni campo]** e **[!UICONTROL Modifica campo]**.
+1. Nella scheda [!UICONTROL Campi], fai clic su **[!UICONTROL Azioni campo]** e **[!UICONTROL Modifica campo]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
@@ -45,7 +45,7 @@ Quando non è più necessario un campo in un oggetto personalizzato, è possibil
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Assicurati di voler eliminare il campo prima di premere il trigger. Clic **[!UICONTROL Elimina]**.
+1. Assicurati di voler eliminare il campo prima di premere il trigger. Fare clic su **[!UICONTROL Elimina]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

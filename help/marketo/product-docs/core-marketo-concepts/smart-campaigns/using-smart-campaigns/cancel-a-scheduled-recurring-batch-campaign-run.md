@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le esecuzioni future. Ecco come.
 
-1. Seleziona la Smart Campaign e fai clic su **Pianificazione** scheda.
+1. Seleziona Smart Campaign e fai clic sulla scheda **Pianifica**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Clic **Pianifica Ricorrenza**.
+1. Fai clic su **Pianifica ricorrenza**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
    >[!TIP]
    >
-   >Per annullare una singola esecuzione, fai clic sul pulsante ![x rossa](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) accanto. Scopri come [annullare un’esecuzione di una campagna batch pianificata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
+   >Puoi annullare una singola esecuzione facendo clic sulla ![x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) rossa accanto ad essa. Scopri come [annullare l&#39;esecuzione di una campagna batch pianificata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Imposta pianificazione su **[!UICONTROL Nessuno]** e fai clic su **[!UICONTROL Salva]**.
+1. Imposta Schedule su **[!UICONTROL None]** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 
@@ -39,4 +39,4 @@ Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le
 
    >[!MORELIKETHIS]
    >
-   >[Annullare un’esecuzione di una campagna batch pianificata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}
+   >[Annullare un&#39;esecuzione pianificata di una campagna in batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}

@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Definire un pubblico con un elenco avanzato {#define-an-audience-with-a-smart-list}
 
-Una volta [creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), gli verrà indicato a chi inviare l’e-mail. Per eseguire questa operazione: [importazione di un elenco di persone](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) o con un elenco avanzato. Ecco come eseguire questa operazione con un elenco avanzato.
+Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md), gli verrà indicato a chi inviare l&#39;e-mail. Puoi eseguire questa operazione [importando un elenco di persone](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md) o con un elenco avanzato. Ecco come eseguire questa operazione con un elenco avanzato.
 
 >[!PREREQUISITES]
 >
->[Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>[Crea un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 
 >[!NOTE]
 >
@@ -27,13 +27,13 @@ Una volta [creare un programma e-mail](/help/marketo/product-docs/email-marketin
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il programma e-mail e fai clic su **Modifica elenco avanzato** sotto **Pubblico** affiancare.
+1. Seleziona il tuo programma di posta elettronica e fai clic su **Modifica elenco avanzato** nella sezione **Pubblico**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Assicurarsi che la visualizzazione sia impostata su **Pannello di controllo Campaign** per trovare questa impostazione.
+   >Verificare che la visualizzazione sia impostata su **Pannello di controllo Campaign** per trovare questa impostazione.
 
 1. Individua i filtri che desideri utilizzare e trascinali nell’area di lavoro.
 
@@ -47,7 +47,7 @@ Una volta [creare un programma e-mail](/help/marketo/product-docs/email-marketin
 
    ![](assets/myemailprogram.jpg)
 
-   Ottimo lavoro! Ora è il momento di [scegli un’e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) per inviare messaggi a queste persone.
+   Ottimo lavoro! È ora di [scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [creare un&#39;e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
 
 >[!NOTE]
 >
@@ -61,11 +61,11 @@ Una volta [creare un programma e-mail](/help/marketo/product-docs/email-marketin
 >* E-mail non valida
 >* E-mail vuota
 >
->Fare clic sul numero per visualizzare un elenco dettagliato delle persone bloccate dalla posta. **Nota:** Le e-mail operative verranno comunque inviate a persone contrassegnate come non abbonate e il marketing verrà sospeso.
+>Fare clic sul numero per visualizzare un elenco dettagliato delle persone bloccate dalla posta. **Nota:** le e-mail operative verranno comunque inviate alle persone contrassegnate come non sottoscritte e il marketing verrà sospeso.
 >
->Utilizza il ![—](assets/image2014-10-23-16-3a32-3a36.png) per vedere quante persone riceveranno l’e-mail.
+>Utilizza il pulsante ![—](assets/image2014-10-23-16-3a32-3a36.png) nella sezione Pubblico per vedere quante persone riceveranno l&#39;e-mail.
 
 >[!MORELIKETHIS]
 >
->* [Scegli un messaggio e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Scegli un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

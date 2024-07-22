@@ -6,7 +6,7 @@ exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -17,24 +17,24 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
 
 >[!PREREQUISITES]
 >
->* [Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Definire le regole del segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+>* [Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Definisci regole segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
 
 >[!NOTE]
 >
 >È possibile approvare un massimo di 20 segmentazioni alla volta.
 
-1. Vai a **Database**.
+1. Vai al **database**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Nella Segmentazione fai clic su **Azioni di segmentazione**, e quindi **Approva**.
+1. Nella segmentazione, fai clic su **Azioni di segmentazione**, quindi su **Approva**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Lo stato cambia in Approvazione con ruota girevole ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mentre è in corso l&#39;approvazione.
+   >Lo stato cambia in Approvazione con una ruota girevole ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mentre l&#39;approvazione è in corso.
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
    >
    >Il numero di persone in ciascun segmento viene visualizzato tra parentesi accanto al nome del segmento.
 
-1. Il **Persone** scheda in **Segmento** ora mostra l’elenco finale delle persone per il segmento.
+1. Nella scheda **Persone** del **Segmento** è ora visualizzato l&#39;elenco finale delle persone per il segmento.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 
@@ -55,7 +55,7 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
 >
 >Il numero totale di segmenti che puoi creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l’utilizzo di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri di un elenco, campi del proprietario del lead e fasi dei ricavi.
 >
->Se ricevi un messaggio di errore durante l’approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >

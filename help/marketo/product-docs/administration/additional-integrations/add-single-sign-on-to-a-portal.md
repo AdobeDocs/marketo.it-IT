@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Aggiungere il Single Sign-On a un portale {#add-single-sign-on-to-a-portal}
 
-Se si dispone di un servizio directory che autentica gli utenti, è possibile consentire l&#39;accesso Single Sign-On (SSO) in Marketo. Questa funzione è supportata tramite [!DNL Security Assertion Markup Language] (SAML) versione 2.0 e successive.
+Se si dispone di un servizio directory che autentica gli utenti, è possibile consentire l&#39;accesso Single Sign-On (SSO) in Marketo. Questa funzionalità è supportata con [!DNL Security Assertion Markup Language] (SAML) versione 2.0 e successive.
 
 Marketo funziona come provider di servizi SAML (SP) e dipende da un provider di identità esterno (IdP) per l’autenticazione degli utenti.
 
@@ -25,18 +25,18 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!IMPORTANT]
 >
->Questo non si applica alle sottoscrizioni a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. [Fai clic qui per ulteriori informazioni](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Questo non si applica alle sottoscrizioni a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. [Ulteriori informazioni](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Sei un [!DNL Microsoft Azure] utente? Consulta la loro [tutorial sull’integrazione](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato dell&#39;inoltro su `https://<munchkinid>.mktoweb.com`, **_non_** `https://<munchkinid>.marketo.com`.
+>Sei un utente di [!DNL Microsoft Azure]? Consulta la loro [esercitazione sull&#39;integrazione](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato di inoltro su `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## Come inviare la richiesta {#how-to-send-the-request}
 
 * Invia la richiesta SSO, che è una risposta SAML, a `https://login.marketo.com/saml/assertion/<your-munchkin-id>`
-* Come URL del pubblico dell’SP. Utilizzare `http://saml.marketo.com/sp`
+* Come URL del pubblico dell’SP. Usa `http://saml.marketo.com/sp`
 * Se si utilizza l&#39;attributo SPNameQualifier, impostare l&#39;elemento NameID per Subject su `http://saml.marketo.com/sp`
-* Se si uniscono più sottoscrizioni Marketo allo stesso provider SSO, è possibile utilizzare URL SP univoci per ogni sottomaschera Marketo con il formato `http://saml.marketo.com/sp/<munchkin_id>`
+* Se si stanno federando più sottoscrizioni Marketo allo stesso provider SSO, è possibile utilizzare URL SP univoci per ogni sottomissione Marketo con il formato `http://saml.marketo.com/sp/<munchkin_id>`
 
 >[!NOTE]
 >
@@ -45,10 +45,10 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 ## Note aggiuntive {#additional-notes}
 
 * **Tempo di sincronizzazione** - Per un nuovo utente, trascorrono circa 10 minuti prima che venga elaborata una richiesta SSO iniziale.
-* **Provisioning utente** : il provisioning degli utenti viene eseguito manualmente da Marketo.
+* **Provisioning utenti** - Gli utenti dispongono del provisioning manuale tramite Marketo.
 * **Autorizzazione** - Le autorizzazioni utente vengono mantenute in Marketo.
-* **Supporto OAuth** - Marketo al momento non supporta OAuth.
-* **Propagazione utente automatica** - Anche noto come &quot;Just in Time Provisioning&quot;, si verifica quando il primo accesso SAML di un utente è in grado di creare l’utente in qualsiasi applicazione web a cui sta accedendo (ad esempio, Marketo) e non è richiesta alcuna azione manuale da parte dell’amministratore. Al momento questo non è supportato da Marketo.
+* **Supporto OAuth** - Marketo non supporta attualmente OAuth.
+* **Propagazione utente automatica** - Nota anche come &quot;Just in Time Provisioning&quot;, si verifica quando il primo accesso SAML di un utente è in grado di creare l&#39;utente in qualsiasi applicazione Web a cui sta accedendo (ad esempio, Marketo) e non è richiesta alcuna azione manuale da parte dell&#39;amministratore. Al momento questo non è supportato da Marketo.
 * **Crittografia** - Marketo non supporta attualmente la crittografia.
 
 >[!NOTE]
@@ -59,31 +59,31 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configurarlo, segui la procedura riportata di seguito.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. Clic **[!UICONTROL Single Sign-On]**.
+1. Fare clic su **[!UICONTROL Single Sign-On]**.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >Se non vedi **[!UICONTROL Single Sign-On]** in **[!UICONTROL Amministratore]**, contatto [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Se non trovi **[!UICONTROL Single Sign-On]** in **[!UICONTROL Admin]**, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Sotto **[!UICONTROL Impostazioni SAML]** , fare clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL Impostazioni SAML]** fare clic su **[!UICONTROL Modifica]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. Cambia **[!UICONTROL Single Sign-On SAML]** a **[!UICONTROL Abilitato]**.
+1. Cambia **[!UICONTROL Single Sign-On]** SAML in **[!UICONTROL Abilitato]**.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. Immetti il **[!UICONTROL ID emittente]**, **[!UICONTROL ID entità]**, seleziona la **[!UICONTROL Posizione ID utente]**, quindi fai clic su **[!UICONTROL Sfoglia]**.
+1. Immetti il tuo **[!UICONTROL ID emittente]**, **[!UICONTROL ID entità]**, seleziona il **[!UICONTROL Percorso ID utente]**, quindi fai clic su **[!UICONTROL Sfoglia]**.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. Seleziona il **[!UICONTROL Certificato provider di identità]** file.
+1. Selezionare il file del **[!UICONTROL certificato provider di identità]**.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
@@ -93,15 +93,15 @@ SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configura
 
 ## Aggiorna impostazioni pagina di reindirizzamento {#update-redirect-page-settings}
 
-1. Sotto **[!UICONTROL Pagine di reindirizzamento]** , fare clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL Pagine di reindirizzamento]**, fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >I clienti che utilizzano l’ID universale insieme all’SSO devono immettere l’URL di accesso del provider di identità in **[!UICONTROL URL di accesso]** campo.
+   >I clienti che utilizzano Universal ID insieme all&#39;SSO devono immettere l&#39;URL di accesso del provider di identità nel campo **[!UICONTROL URL di accesso]**.
 
-1. Immetti un **[!UICONTROL URL disconnessione]**. Questo è l’URL a cui desideri che l’utente venga indirizzato quando esce da Marketo.
+1. Immetti un **[!UICONTROL URL di disconnessione]**. Questo è l’URL a cui desideri che l’utente venga indirizzato quando esce da Marketo.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
@@ -115,6 +115,6 @@ SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configura
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo di un ID universale per l’accesso in abbonamento](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
->* [Limita l&#39;accesso degli utenti solo all&#39;SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
->* [Invito degli utenti di Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}
+>* [Utilizzo di un ID universale per l&#39;accesso all&#39;abbonamento](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
+>* [Limita l&#39;accesso utente solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
+>* [Invito di utenti Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

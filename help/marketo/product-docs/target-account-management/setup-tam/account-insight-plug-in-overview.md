@@ -6,7 +6,7 @@ exl-id: 0306f82d-43c8-44eb-943f-f7f01279b844
 feature: Target Account Management
 source-git-commit: e5fe19bd17e3da7991b09dfa17beb05d4efd58f6
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Account Insight è un plug-in di Chrome che fornisce ai team di vendita informaz
 >
 >* La funzione Insight account è inclusa per tutti i clienti che dispongono sia di TAM che di Marketo Sales Insight. Per i clienti che dispongono solo di TAM, Account Insight è disponibile come componente aggiuntivo acquistato. Ogni cliente ha un limite di 250 postazioni di approfondimento sull’account. Per ulteriori informazioni, contatta il tuo rappresentante commerciale. Non è disponibile per i clienti che non dispongono di TAM.
 >
->* Questo plug-in non è compatibile con [Autenticazione dell’identità di Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"} in questo momento.
+>* Questo plug-in non è attualmente compatibile con [Adobe Identity Authentication](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
->Il plug-in Insight account non funzionerà in abbonamenti che hanno [Solo SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (Single Sign-On) abilitato.
+>Il plug-in Account Insight non funzionerà nelle sottoscrizioni in cui è abilitato [SSO-only](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md) (single sign-on).
 
 >[!CAUTION]
 >
@@ -73,7 +73,7 @@ Il feed attività mostra le attività recenti, risalenti a sette giorni fa.
 
 ![](assets/af1.png)
 
-Fai clic su **Filtro** per filtrare in base a diversi tipi di attività.
+Fai clic sull&#39;elenco a discesa **Filtro** per filtrare in base a diversi tipi di attività.
 
 ![](assets/af2.png)
 
@@ -85,4 +85,4 @@ Roba piuttosto figa!
 
 >[!MORELIKETHIS]
 >
->[Configurare l’approfondimento dell’account](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+>[Configura approfondimento account](/help/marketo/product-docs/target-account-management/setup-tam/set-up-account-insight.md)

@@ -6,8 +6,8 @@ exl-id: 03b76c33-3dbe-4675-83f3-e2d82907f94e
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 0%
+source-wordcount: '230'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Segui questi passaggi per configurare le impostazioni dell’evento Marketo e co
 
 ## Impostare l’evento {#set-the-event}
 
-1. Scegli l’evento da associare a un webinar su ON24, quindi fai clic su **Azioni evento** a discesa e selezionare **Impostazioni evento**.
+1. Scegli l&#39;evento da associare a un webinar ON24, quindi fai clic sul menu a discesa **Azioni evento** e seleziona **Impostazioni evento**.
 
    ![](assets/one.png)
 
@@ -29,7 +29,7 @@ Segui questi passaggi per configurare le impostazioni dell’evento Marketo e co
 
    ![](assets/three.png)
 
-1. Inserisci l’ID evento (recuperalo da ON24). Clic **Salva**.
+1. Inserisci l’ID evento (recuperalo da ON24). Fai clic su **Salva**.
 
    ![](assets/four.png)
 
@@ -41,20 +41,20 @@ Segui questi passaggi per configurare le impostazioni dell’evento Marketo e co
 
 Quando imposti un evento associato a un webinar ON24, la pianificazione dell’evento si compila con i dati provenienti da ON24. Per accedere alla finestra di dialogo Pianificazione eventi, eseguire la procedura seguente.
 
-1. Seleziona l’evento. Fai clic su **Azioni evento** a discesa e selezionare **Pianificazione.**
+1. Seleziona l’evento. Fai clic sul menu a discesa **Azioni evento** e seleziona **Pianifica.**
 
    ![](assets/five.png)
 
-1. Scegli il tuo **Data di inizio, data di fine**, e **Fuso orario**. Clic **Salva**.
+1. Scegli la **data di inizio, data di fine** e il **fuso orario**. Fai clic su **Salva**.
 
    ![](assets/six-1.png)
 
    >[!NOTE]
    >
-   >Se si aggiornano le informazioni sull&#39;evento in ON24, è necessario fare clic su **Aggiorna dal provider del webinar** nel menu Azioni evento per visualizzare i nuovi dati.
+   >Se si aggiornano informazioni sull&#39;evento in ON24, è necessario fare clic su **Aggiorna dal provider webinar** nel menu Azioni evento per visualizzare i nuovi dati.
 
 Ora puoi passare al passaggio successivo: [creazione di campagne secondarie e risorse locali](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-child-campaigns-and-local-assets.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sugli eventi delle schede di rete Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}
+>[Informazioni sugli eventi della scheda di rete Marketo On24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-marketo-on24-adapter-events.md){target="_blank"}

@@ -6,7 +6,7 @@ exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
 
 ## Personalizzare la messaggistica {#customize-messaging-for-yourself}
 
-1. Accedi a [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Accedi all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -41,24 +41,24 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
    >
    >Non importa quale sia l’URL da collegare. Quando l’e-mail viene inviata, il collegamento ipertestuale verrà convertito nel collegamento per annullare l’abbonamento.
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/five.png)
 
 ## Impostare i messaggi di annullamento dell&#39;iscrizione per il team {#set-unsubscribe-messaging-for-your-team}
 
-1. Accedi a [applicazione web](https://toutapp.com/login), fai clic sull’icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Accedi all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
 
    ![](assets/six.png)
 
-1. In Impostazioni amministratore, seleziona **Annulla iscrizione**.
+1. In Impostazioni amministrazione selezionare **Annulla sottoscrizione**.
 
    ![](assets/eight.png)
 
-1. Personalizza i messaggi e fai clic su **Salva** al termine.
+1. Personalizza i messaggi e al termine fai clic su **Salva**.
 
    ![](assets/seven.png)
 
-1. Seleziona **Sto impostando i messaggi predefiniti per il mio team** affinché i messaggi vengano applicati a tutti gli utenti.
+1. Seleziona **Sto impostando la messaggistica predefinita per il mio team** affinché venga applicata a tutti gli utenti.
 
    ![](assets/eleven.png)

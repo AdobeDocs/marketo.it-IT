@@ -21,7 +21,7 @@ Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un 
 
 ## Aggiungi un allegato {#add-an-attachment}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/one-4.png)
 
@@ -39,7 +39,7 @@ Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un 
 
    >[!NOTE]
    >
-   >Se devi caricare un file, fai clic su **Carica contenuto** in alto a destra.
+   >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
 
    ![](assets/attach-five.png)
 
@@ -59,13 +59,13 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
    ![](assets/three-4.png)
 
-1. Seleziona il contenuto da aggiungere, fai clic su **Il contenuto è tracciato** e fare clic su **Inserisci**.
+1. Seleziona il contenuto da aggiungere, fai clic sul cursore **Il contenuto è tracciato** e fai clic su **Inserisci**.
 
    ![](assets/four-4.png)
 
    >[!NOTE]
    >
-   >Se devi caricare un file, fai clic su **Carica contenuto** in alto a destra.
+   >Se devi caricare un file, fai clic sul pulsante **Carica contenuto** in alto a destra nella finestra.
 
    Il contenuto viene visualizzato come collegamento nell’e-mail. Il destinatario può fare clic sul collegamento per scaricare il contenuto.
 

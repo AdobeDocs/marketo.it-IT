@@ -7,7 +7,7 @@ feature: Social
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ Le app social in Marketo dispongono di attivatori e filtri specifici.
 >
 >Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-1. Per utilizzare il social network _trigger_, seleziona la tua campagna intelligente e fai clic su **Elenco avanzato** scheda. A destra, fai clic su + per espandere **Triggers**, quindi **Social**.
+1. Per utilizzare i _trigger_ social, seleziona la tua smart campaign e fai clic sulla scheda **Smart List**. A destra, fai clic sul + per espandere **Triggers**, quindi **Social**.
 
    ![](assets/image2015-4-23-11-22-39.png)
 
-1. Per utilizzare il social network _filtri_, fare clic su **+** per espandere **Filtri**.
+1. Per utilizzare i _filtri_ per social network, fare clic su **+** per espandere **Filtri**.
 
    ![](assets/two-282-29.png)
 
@@ -31,16 +31,16 @@ Le app social in Marketo dispongono di attivatori e filtri specifici.
 
    | Attivatori/filtri | Pulsanti social | Sondaggi | Video | Offerte di riferimento | Lotterie |
    |---|---|---|---|---|---|
-   | Obiettivo raggiunto nella presentazione |  |  |  | ![(segno di spunta)](assets/check.png) | |
-   | Condivisione del contenuto | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) |
-   | Clic sul collegamento condiviso | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) |
-   | Squalifica le azioni |  |  |  |  | ![(segno di spunta)](assets/check.png) |
-   | Guadagna la voce nell&#39;app social |  |  |  |  | ![(segno di spunta)](assets/check.png) |
-   | Inserisce le puntate |  |  |  |  | ![(segno di spunta)](assets/check.png) |
-   | Fa riferimento all&#39;app social |  |  |  | ![(segno di spunta)](assets/check.png) | ![(segno di spunta)](assets/check.png) |
-   | Registrati per l&#39;offerta di riferimento |  |  |  | ![(segno di spunta)](assets/check.png) |  |
-   | Voti nel sondaggio |  | ![(segno di spunta)](assets/check.png) |  |  |  |
-   | Puntate vincenti |  |  |  |  | ![(segno di spunta)](assets/check.png) |
+   | Obiettivo raggiunto nella presentazione |  |  |  | ![(tick)](assets/check.png) | |
+   | Condivisione del contenuto | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Clic sul collegamento condiviso | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Squalifica le azioni |  |  |  |  | ![(tick)](assets/check.png) |
+   | Guadagna la voce nell&#39;app social |  |  |  |  | ![(tick)](assets/check.png) |
+   | Inserisce le puntate |  |  |  |  | ![(tick)](assets/check.png) |
+   | Fa riferimento all&#39;app social |  |  |  | ![(tick)](assets/check.png) | ![(tick)](assets/check.png) |
+   | Registrati per l&#39;offerta di riferimento |  |  |  | ![(tick)](assets/check.png) |  |
+   | Voti nel sondaggio |  | ![(tick)](assets/check.png) |  |  |  |
+   | Puntate vincenti |  |  |  |  | ![(tick)](assets/check.png) |
 
    >[!MORELIKETHIS]
    >

@@ -19,10 +19,10 @@ A volte puoi avere troppe cose buone. Elimina le vecchie presentazioni per liber
 
    ![](assets/image2015-3-26-12-3a26-3a41.png)
 
-1. Fai clic con il pulsante destro del mouse e seleziona (Copia negli Appunti) **[!UICONTROL Elimina]**.
+1. Fare clic con il pulsante destro del mouse e selezionare **[!UICONTROL Elimina]**.
 
    ![](assets/image2015-3-26-12-3a26-3a51.png)
 
-1. Clic **[!UICONTROL Elimina]** per confermare.
+1. Fai clic su **[!UICONTROL Elimina]** per confermare.
 
    ![](assets/image2015-3-20-16-3a21-3a10.png)

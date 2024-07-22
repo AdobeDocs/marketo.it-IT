@@ -16,15 +16,15 @@ Aggiungere utenti o amministratori è facile e veloce.
 
 ## Invita utenti {#invite-users}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/invite-users-and-admins-1.png)
 
-1. In Impostazioni amministratore, seleziona **Gestione utente**.
+1. In Impostazioni amministrazione selezionare **Gestione utente**.
 
    ![](assets/invite-users-and-admins-2.png)
 
-1. Fai clic su **Azioni** e seleziona **Invita utenti**.
+1. Fai clic sul pulsante **Azioni** e seleziona **Invita utenti**.
 
    ![](assets/invite-users-and-admins-3.png)
 
@@ -36,7 +36,7 @@ Aggiungere utenti o amministratori è facile e veloce.
 
    ![](assets/invite-users-and-admins-4.png)
 
-1. PASSAGGIO FACOLTATIVO: aggiungere gli utenti ai team di cui dovrebbero far parte. Se salti questa parte, tutti i nuovi membri verranno aggiunti al team Everyone.
+1. PASSAGGIO FACOLTATIVO: aggiungere gli utenti a tutti i team di cui dovrebbero far parte. Se salti questa parte, tutti i nuovi membri verranno aggiunti al team Everyone.
 
    ![](assets/invite-users-and-admins-5.png)
 
@@ -44,11 +44,11 @@ Aggiungere utenti o amministratori è facile e veloce.
    >
    >[Ulteriori informazioni sui team](/help/marketo/product-docs/marketo-sales-insight/actions/admin/creating-a-team.md).
 
-1. Selezionare l&#39;area di lavoro di Marketo a cui si desidera aggiungere i nuovi utenti. Se disponi di una sola area di lavoro, come opzione visualizzerai &quot;Predefinito&quot;. Clic **Invita**.
+1. Selezionare l&#39;area di lavoro di Marketo a cui si desidera aggiungere i nuovi utenti. Se disponi di una sola area di lavoro, come opzione visualizzerai &quot;Predefinito&quot;. Fai clic su **Invita**.
 
    ![](assets/invite-users-and-admins-6.png)
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/invite-users-and-admins-7.png)
 
@@ -60,15 +60,15 @@ Aggiungere utenti o amministratori è facile e veloce.
 
 Segui questi passaggi per rendere amministratore un utente esistente.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/invite-users-and-admins-8.png)
 
-1. In Impostazioni amministratore, seleziona **Gestione utente**.
+1. In Impostazioni amministrazione selezionare **Gestione utente**.
 
    ![](assets/invite-users-and-admins-9.png)
 
-1. Trova l’utente che desideri impostare come Amministratore, fai clic sul menu a discesa Ruolo e seleziona **Amministratore**.
+1. Individua l&#39;utente che desideri impostare come amministratore, fai clic sull&#39;elenco a discesa Ruolo e seleziona **Amministratore**.
 
    ![](assets/invite-users-and-admins-10.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 10097867
-description: Definire un elenco avanzato per le attività di personalizzazione web - Documenti Marketo - Documentazione del prodotto
-title: Definire un elenco avanzato per le attività di personalizzazione web
+description: Definire un elenco avanzato per le attività di Web Personalization - Documenti Marketo - Documentazione del prodotto
+title: Definire un elenco avanzato per le attività di Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Definire un elenco avanzato per le attività di personalizzazione web {#define-a-smart-list-for-web-personalization-activities}
+# Definire un elenco avanzato per le attività di Web Personalization {#define-a-smart-list-for-web-personalization-activities}
 
-Puoi utilizzare le attività di personalizzazione web nei filtri e nei trigger quando definisci un elenco avanzato in una campagna avanzata. In questo caso, vuoi acquisire chiunque abbia fatto clic su un invito all’azione di personalizzazione web (campagna).
+Puoi utilizzare le attività di Web Personalization nei filtri e nei trigger quando definisci un elenco avanzato in una campagna avanzata. In questo caso, vuoi acquisire chiunque abbia fatto clic su un invito all’azione (campagna) di Web Personalization.
 
-Utilizza un trigger per inviare un’e-mail o un avviso, oppure per modificare un valore o un punteggio in base ai visitatori che hanno fatto clic e sono coinvolti in un invito all’azione di Personalizzazione web. Puoi anche filtrare e visualizzare i lead che hanno fatto clic su un invito all’azione di Personalizzazione web.
+Utilizza un trigger per inviare un’e-mail o un avviso, oppure per modificare un valore o un punteggio in base ai visitatori che hanno fatto clic e sono coinvolti in un invito all’azione di Web Personalization. Puoi anche filtrare e visualizzare i lead su cui è stato fatto clic su un invito all’azione di Web Personalization.
 
-1. Nella tua campagna avanzata, fai clic su **Elenco avanzato** scheda.
+1. Nella tua campagna avanzata, fai clic sulla scheda **Elenco avanzato**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 
    >[!NOTE]
    >
-   >Gli elenchi avanzati possono fare cose straordinarie. Per ulteriori informazioni, consulta [Approfondimento elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
+   >Gli elenchi avanzati possono fare cose straordinarie. Ulteriori informazioni sono disponibili in [Smart List Deep Dive](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md).
 
 1. Cerca il trigger, quindi trascina e rilascia il trigger sull’area di lavoro.
 
@@ -57,10 +57,10 @@ Utilizza un trigger per inviare un’e-mail o un avviso, oppure per modificare u
    >
    >Con più trigger, una persona passa al flusso se viene attivato UNO QUALSIASI dei trigger.
 
-   Per eseguire la campagna su un set di persone contemporaneamente, scopri come [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
+   Per eseguire la campagna su un gruppo di persone contemporaneamente, scopri come [definire un elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md).
 
    >[!MORELIKETHIS]
    >
-   >* [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
+   >* [Definisci elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md)
    >* [Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
-   >* [Definire un elenco avanzato per le attività di contenuti predittivi](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
+   >* [Definisci un elenco avanzato per le attività di Predictive Content](/help/marketo/product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)

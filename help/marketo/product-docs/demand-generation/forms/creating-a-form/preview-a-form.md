@@ -23,19 +23,19 @@ Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di mod
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. Sotto **Azioni modulo**, fai clic su **Anteprima**.
+1. In **Azioni modulo**, fare clic su **Anteprima**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L’editor moduli verrà aperto in **anteprima** modalità.
+1. L&#39;editor moduli verrà aperto in modalità **anteprima**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Clic **Modifica bozza** per tornare a **modifica** modalità.
+1. Fai clic su **Modifica bozza** per tornare alla modalità **modifica**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Torna indietro facilmente facendo clic su **Anteprima bozza**.
+1. Tornare indietro facilmente facendo clic su **Anteprima bozza**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

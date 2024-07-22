@@ -5,7 +5,7 @@ exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '489'
 ht-degree: 1%
 
 ---
@@ -30,7 +30,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
  </tr>
  <tr>
   <th rowspan="2">Inviato</th>
-  <td>Consegnato</td>
+  <td>Consegnati</td>
   <td>E-mail che sono state consegnate al destinatario.</td>
  </tr>
  <tr>
@@ -45,7 +45,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
  <tr>
   <td>Bozza</td>
   <td>E-mail che sono state salvate come bozza.<br/>
-  <strong>Nota</strong>: è possibile salvare come bozze solo e-mail singole. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</td>
+  <strong>Nota</strong>: è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</td>
  </tr>
  <tr>
   <td>In corso</td>

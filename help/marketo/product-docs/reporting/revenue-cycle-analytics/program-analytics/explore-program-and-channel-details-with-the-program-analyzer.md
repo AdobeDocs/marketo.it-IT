@@ -23,7 +23,7 @@ Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Progr
 >
 >Non tutte le edizioni di Marketo includono questa funzionalità. Per ulteriori informazioni, contatta il tuo account manager.
 
-1. Clic **Analytics**.
+1. Fare clic su **Analytics**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,13 +31,13 @@ Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Progr
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Per visualizzare le statistiche specifiche di un canale o di un programma (a seconda della **Visualizza** selezionate), fate clic sulla bolla corrispondente.
+1. Per visualizzare le statistiche specifiche di un canale o programma (a seconda della **visualizzazione** selezionata), fare clic sulla bolla corrispondente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
    >[!NOTE]
    >
-   >Molte delle metriche selezionabili nell’analizzatore di programmi sono disponibili con calcoli di primo contatto (FT) e multi contatto (MT). È importante comprendere il [differenza tra attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+   >Molte delle metriche selezionabili nell’analizzatore di programmi sono disponibili con calcoli di primo contatto (FT) e multi contatto (MT). È importante comprendere la [differenza tra l&#39;attribuzione FT e MT](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 1. Per confrontare tutti i programmi all&#39;interno di un singolo canale, fare clic sul nome del canale nella finestra di dialogo a comparsa.
 
@@ -49,7 +49,7 @@ Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Progr
 
    >[!NOTE]
    >
-   >Facendo clic su un singolo canale si passa alla visualizzazione Per programma, filtrata solo per quel canale. Per tornare a tutti i canali, seleziona **Visualizza** > **Per canale**.
+   >Facendo clic su un singolo canale si passa alla visualizzazione Per programma, filtrata solo per quel canale. Per tornare a tutti i canali, selezionare **Visualizza** > **Per canale**.
 
 1. Per aprire Gestione ciclo ricavi e approfondire ulteriormente una statistica, fare clic su tale numero nella finestra di dialogo a comparsa.
 

@@ -18,11 +18,11 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 >
 >È possibile assegnare solo attività per i contatti condivisi.
 
-1. Nell’applicazione web, fai clic su **Centro comandi**.
+1. Nell&#39;applicazione Web fare clic su **Centro comandi**.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Clic **Aggiungi attività**.
+1. Fai clic su **Aggiungi attività**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Aggiungi tutti i dettagli importanti che sono rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
+1. Aggiungi tutti i dettagli importanti rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

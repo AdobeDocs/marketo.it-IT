@@ -6,7 +6,7 @@ exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
 source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '221'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 In realtà esistono diversi tipi di annullamento di abbonamenti incorporati in Marketo. Sono tutti rappresentati da campi sull’oggetto persona, proprio come Nome.
 
-Tutti questi campi sono incorporati nel tuo abbonamento Marketo. Sono tutti di tipo booleano (casella di controllo). Possono essere utilizzati in Forms o [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) passaggi del flusso.
+Tutti questi campi sono incorporati nel tuo abbonamento Marketo. Sono tutti di tipo booleano (casella di controllo). Possono essere utilizzati in Forms o nei [passaggi del flusso Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
 ## Annulla l&#39;iscrizione {#unsubscribed}
 
@@ -35,6 +35,6 @@ Questo stato blocca la spedizione di una persona per 24 ore dopo che si è verif
 
 ## Inserire nell&#39;elenco Bloccati {#blocklisted}
 
-[Utilizzalo per persone come i concorrenti](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Chiunque desideri ricevere **no** e-mail: operative, di marketing, ecc. Non ricevono nulla!
+[Utilizzalo per persone come i concorrenti](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Chiunque desideri ricevere **no** e-mail: operativo, di marketing, ecc. Non ricevono nulla!
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

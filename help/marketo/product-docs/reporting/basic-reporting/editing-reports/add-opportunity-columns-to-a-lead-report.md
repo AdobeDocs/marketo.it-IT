@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Per visualizzare le statistiche sulle opportunità nei rapporti sulle persone, puoi aggiungere colonne di opportunità.
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/ma.png)
 
-1. Seleziona il rapporto dalla struttura di navigazione e fai clic su **Configurazione** scheda.
+1. Selezionare il report dalla struttura di navigazione e fare clic sulla scheda **Configurazione**.
 
    ![](assets/two.png)
 
-1. Doppio clic **Colonne opportunità**.
+1. Fare doppio clic su **Colonne opportunità**.
 
    ![](assets/three.png)
 
-1. Seleziona **Mostrato** dal menu a discesa.
+1. Seleziona **Visualizzato** dal menu a discesa.
 
    ![](assets/image2014-9-16-12-3a50-3a33.png)
 
-1. Fai clic su **Report** per visualizzare il rapporto con le metriche delle opportunità.
+1. Fai clic sulla scheda **Report** per visualizzare il tuo report con le metriche delle opportunità.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Per visualizzare le statistiche sulle opportunità nei rapporti sulle persone, p
    >
    >Scorri verso destra per visualizzare altre colonne.
 
-1. A [aggiungere o rimuovere colonne dal report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), fai clic su un’intestazione di colonna e seleziona **Colonne**.
+1. Per [aggiungere o rimuovere colonne dal report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md), fare clic su un&#39;intestazione di colonna e selezionare **Colonne**.
 
    ![](assets/six.png)
 
@@ -51,8 +51,8 @@ Per visualizzare le statistiche sulle opportunità nei rapporti sulle persone, p
 
    | Colonna | Descrizione |
    |---|---|
-   | Nessuna opportunità | Numero di persone *non* un contatto dell’opportunità principale. |
-   | Giorni senza opportunità | Età media, in giorni, delle persone che *non* un contatto principale. |
+   | Nessuna opportunità | Numero di persone che sono *non* un contatto dell&#39;opportunità principale. |
+   | Giorni senza opportunità | Età media, in giorni, delle persone che sono *non* un contatto primario. |
    | Ha un’opportunità | Numero di persone che sono un contatto dell’opportunità principale. |
    | Ha % opportunità | Percentuale di persone che sono un contatto dell’opportunità principale. |
    | Giorni mancanti all’opportunità | Numero medio di giorni per la conversione da persona a contatto dell’opportunità principale. |
@@ -68,4 +68,4 @@ Per visualizzare le statistiche sulle opportunità nei rapporti sulle persone, p
 
    >[!MORELIKETHIS]
    >
-   >Scopri come [gestisci la dimensione del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Scopri come [gestire le dimensioni del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

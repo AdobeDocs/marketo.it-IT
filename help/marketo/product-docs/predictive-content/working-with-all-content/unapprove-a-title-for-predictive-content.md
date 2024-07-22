@@ -21,7 +21,7 @@ Puoi annullare l’approvazione di qualsiasi titolo per contenuto predittivo nel
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Fai clic su **Azioni contenuto** a discesa e selezionare **Annulla approvazione per contenuto predittivo**.
+1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Annulla approvazione per contenuto predittivo**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
@@ -33,7 +33,7 @@ Puoi annullare l’approvazione di qualsiasi titolo per contenuto predittivo nel
 
    ![](assets/click-icon-hand.png)
 
-1. Deseleziona la **Approva per contenuti predittivi** e fai clic su **Salva**.
+1. Deseleziona la casella **Approva per contenuto predittivo** e fai clic su **Salva**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 

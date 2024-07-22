@@ -6,7 +6,7 @@ exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '660'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Utilizzando le nuove proprietà Advanced Wait, è possibile configurare il passa
 
 Figura 1. Specifica il passaggio di attesa per terminare in un giorno lavorativo
 
-## Risorse archiviate nascoste {#archived-assets-hidden}
+## Assets Hidden archiviato {#archived-assets-hidden}
 
 Le risorse archiviate vengono filtrate automaticamente dalla funzione di suggerimento automatico, dai menu a discesa e dai rapporti, facilitando la ricerca.
 
@@ -55,7 +55,7 @@ Figura 5. Archiviali
 
 ## URL di conferma del webinar avanzato {#enhanced-webinar-confirmation-url}
 
-Ora disponibile per ON24 e Adobe Connect. Includi un collegamento univoco nell’e-mail di conferma per ogni partecipante registrato che utilizza il nuovo `{{member.webinar URL}}` token. I miglioramenti apportati ad Adobe Connect includono anche la possibilità di attivare/disattivare l’e-mail con le informazioni sull’account Adobe, che include l’ID di accesso e la password dell’utente.
+Ora disponibile per ON24 e Adobe Connect. Includi un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato che utilizza il nuovo token `{{member.webinar URL}}`. I miglioramenti apportati ad Adobe Connect includono anche la possibilità di attivare/disattivare l’e-mail con le informazioni sull’account Adobe, che include l’ID di accesso e la password dell’utente.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -99,7 +99,7 @@ Figura 11. Configurazione di Microsoft Dynamics
 
 ## Miglioramenti di Marketo Sales Insight {#marketo-sales-insight-enhancements}
 
-**Opzioni piè di pagina per annullamento iscrizione**
+**Opzioni piè di pagina per annullamento abbonamento**
 
 Configura quando e se viene visualizzato il piè di pagina per l’annullamento dell’iscrizione alle e-mail inviate tramite Sales Insight.
 

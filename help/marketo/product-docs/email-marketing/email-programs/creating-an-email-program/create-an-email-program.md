@@ -19,17 +19,17 @@ Utilizza i programmi e-mail per inviare in modo rapido e semplice un messaggio e
 
    ![](assets/one.png)
 
-1. Selezionare la cartella in cui si desidera creare il programma, fare clic sul pulsante **Nuovo** e selezionare **Nuovo programma**.
+1. Selezionare la cartella in cui si desidera creare il programma, fare clic sul menu a discesa **Nuovo** e selezionare **Nuovo programma**.
 
    ![](assets/two.png)
 
-1. Immetti un nome, seleziona **E-mail** come Tipo di programma, quindi fare clic su **Crea**.
+1. Immetti un nome, seleziona **E-mail** come Tipo di programma, quindi fai clic su **Crea**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Durante la selezione **E-mail** come Tipo di programma, il Canale viene automaticamente impostato su **Invia e-mail**. Puoi cambiarla se vuoi.
+   >Quando si seleziona **E-mail** come tipo di programma, il canale verrà impostato automaticamente su **Invia e-mail**. Puoi cambiarla se vuoi.
 
    ![](assets/four.png)
 
@@ -37,5 +37,5 @@ Bello! Il programma è ora nella struttura ed è pronto per essere utilizzato. I
 
 >[!MORELIKETHIS]
 >
->* [Definire un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Definisci un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
 >* [Definire un pubblico importando un elenco](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.md)

@@ -7,13 +7,13 @@ feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
-# Aggiungere sezioni modificabili ai modelli e-mail v1.0 {#add-editable-sections-to-email-templates-v1.0}
+# Aggiungi sezioni modificabili ai modelli di e-mail v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
-Se stai creando un modello nell’Editor modelli e-mail v1.0, puoi rendere modificabile qualsiasi sezione inserendo un’opzione `<div>` intorno a esso.
+Se stai creando un modello nell&#39;Editor modelli e-mail v1.0, puoi rendere modificabile qualsiasi sezione racchiudendola con uno speciale `<div>`.
 
 >[!NOTE]
 >
@@ -24,7 +24,7 @@ Se stai creando un modello nell’Editor modelli e-mail v1.0, puoi rendere modif
 Regole:
 
 1. Il HTML deve essere sempre valido.
-1. La classe di **MarketEditable** deve essere incluso.
+1. La classe di **mktEditable** deve essere inclusa.
 1. L’ID deve essere univoco in tale HTML.
 1. L&#39;ID non contiene spazi.
 
@@ -32,4 +32,4 @@ Regole:
 >
 >Impossibile nidificare le istruzioni mktEditable.
 
-Per informazioni su come eseguire questa operazione in Editor modelli e-mail v2.0, vedi [sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).
+Per informazioni su come eseguire questa operazione in Email Template Editor v2.0, vedi [sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md).

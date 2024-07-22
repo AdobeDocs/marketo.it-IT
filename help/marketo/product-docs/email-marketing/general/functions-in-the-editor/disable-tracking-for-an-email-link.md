@@ -6,16 +6,16 @@ exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 # Disattiva tracciamento per un collegamento e-mail {#disable-tracking-for-an-email-link}
 
-A volte è meglio non abilitare **URL di tracciamento Marketo** su un collegamento in un messaggio e-mail. Questa funzione è utile quando la pagina di destinazione non supporta i parametri URL e può causare il mancato funzionamento del collegamento.
+A volte non è necessario abilitare **URL di tracciamento Marketo** su un collegamento in un messaggio e-mail. Questa funzione è utile quando la pagina di destinazione non supporta i parametri URL e può causare il mancato funzionamento del collegamento.
 
-1. Seleziona l’e-mail e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
 
    ![](assets/one-7.png)
 
@@ -23,29 +23,29 @@ A volte è meglio non abilitare **URL di tracciamento Marketo** su un collegamen
 
    ![](assets/two-6.png)
 
-1. Fai clic sul collegamento in questione, quindi fai clic su **Inserisci/Modifica collegamento** pulsante.
+1. Fare clic sul collegamento in questione, quindi sul pulsante **Inserisci/Modifica collegamento**.
 
    ![](assets/three-6.png)
 
-1. Nella finestra a comparsa Modifica collegamento, deseleziona **Traccia collegamento** casella di controllo.
+1. Nella finestra a comparsa Modifica collegamento, deselezionare la casella di controllo **Traccia collegamento**.
 
    ![](assets/four-4.png)
 
-1. Noterai la **Casella Includi _token** scompare. Clic **Applica**.
+1. Noterai che la casella **Includi mkt_tok** scompare. Fare clic su **Applica**.
 
    ![](assets/five-3.png)
 
    >[!TIP]
    >
-   >Deseleziona solo **Includi _token di marketing** consentirà comunque il tracciamento del collegamento, ma dopo il reindirizzamento, l’URL di destinazione non includerà il parametro della stringa di query mkt_tok. Questo parametro viene utilizzato dalle pagine di destinazione di Marketo e da Munchkin per garantire il corretto tracciamento delle attività della persona (come quando una persona annulla l’iscrizione a un’e-mail). È consigliabile evitare di utilizzare questa funzione a meno che non si verifichi un comportamento strano sul sito web a causa della presenza del parametro.
+   >Deselezionando solo **Includi mkt_tok** sarà comunque possibile tenere traccia del collegamento, ma dopo il reindirizzamento l&#39;URL di destinazione non includerà il parametro della stringa di query mkt_tok. Questo parametro viene utilizzato dalle pagine di destinazione di Marketo e da Munchkin per garantire il corretto tracciamento delle attività della persona (come quando una persona annulla l’iscrizione a un’e-mail). È consigliabile evitare di utilizzare questa funzione a meno che non si verifichi un comportamento strano sul sito web a causa della presenza del parametro.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
    >[!TIP]
    >
-   >Desideri disabilitare il tracciamento dei clic per un collegamento in un messaggio e-mail **modello**? Usa questo formato:
+   >Disabilitare il tracciamento dei clic per un collegamento in un messaggio e-mail **modello**? Usa questo formato:
    >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
    >Se hai bisogno di aiuto per implementare questo, consulta il tuo sviluppatore web.
 

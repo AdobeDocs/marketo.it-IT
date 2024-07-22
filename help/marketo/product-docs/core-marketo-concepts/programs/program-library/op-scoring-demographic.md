@@ -2,11 +2,11 @@
 description: OP-Scoring-Demographic - Documentazione Marketo - Documentazione del prodotto
 title: OP-Scoring-Demografico
 feature: Programs
-exl-id: c0e69f35-a3b7-496d-a9b6-b3e7168b07f4
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 16%
+source-wordcount: '310'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Questo è un esempio di programma operativo avanzato (tokenizzato) che utilizza un programma predefinito Marketo Engage per il punteggio demografico. Visualizza e modifica i valori di punteggio nella scheda &quot;I miei token&quot; del programma. Richiede un campo di punteggio personalizzato denominato &quot;Punteggio demografico&quot;.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -52,7 +52,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -235,7 +235,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 

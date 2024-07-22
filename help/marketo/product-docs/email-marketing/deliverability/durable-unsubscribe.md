@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo ha migliorato il comportamento della funzionalità di annullamento dell’abbonamento per renderla &quot;durevole&quot;. È stato aggiunto lo stato di un’e-mail principale, separato dal flag di annullamento dell’iscrizione visibile nel record dei dettagli della persona.
 
-Se il flag di annullamento dell’iscrizione è impostato su false su true, lo stato dell’e-mail principale viene aggiornato e la modifica viene propagata ad altre persone con lo stesso indirizzo e-mail. Se una persona viene rimossa e ricreata, o se viene creato un nuovo record con lo stesso indirizzo e-mail, il flag di annullamento dell’iscrizione **non** essere sovrascritto.
+Se il flag di annullamento dell’iscrizione è impostato su false su true, lo stato dell’e-mail principale viene aggiornato e la modifica viene propagata ad altre persone con lo stesso indirizzo e-mail. Se una persona viene rimossa e ricreata o se viene creato un nuovo record con lo stesso indirizzo e-mail, il flag di annullamento dell&#39;iscrizione **non** verrà sovrascritto.
 
 >[!NOTE]
 >
@@ -29,11 +29,11 @@ In Salesforce, **cancella** il campo Rinuncia e-mail nel record del lead/contatt
 
 ![](assets/one.png)
 
-In Marketo, **cancella** la casella di annullamento dell’iscrizione nella scheda Info del record della persona.
+In Marketo, **cancella** la casella di annullamento dell&#39;abbonamento nella scheda Info del record dell&#39;utente.
 
 ![](assets/two.png)
 
-Esegui una **Modifica valore dati** passaggio di flusso come mostrato di seguito per una o più persone.
+Esegui un passaggio del flusso **Modifica valore dati** come mostrato di seguito per una o più persone.
 
 ![](assets/three.png)
 
@@ -55,4 +55,4 @@ Proprio come un annullamento dell’iscrizione causerebbe la cancellazione di tu
 
 >[!MORELIKETHIS]
 >
->[Informazioni sull’annullamento dell’iscrizione](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)
+>[Informazioni sull&#39;annullamento dell&#39;iscrizione](/help/marketo/product-docs/email-marketing/deliverability/understanding-unsubscribe.md)

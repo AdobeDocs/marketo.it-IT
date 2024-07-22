@@ -16,7 +16,7 @@ Analogamente agli elenchi avanzati dei Marketi Engage, gli attributi dei criteri
 
 ## Priorità {#priority}
 
-La priorità determina quale finestra di dialogo riceve un lead nel caso in cui sia idoneo per più di una. Viene stabilito quando si inizia [creare la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Per modificare la priorità di una finestra di dialogo esistente, aprila e vai a **[!UICONTROL Dettagli finestra di dialogo]** nella scheda Criteri del pubblico.
+La priorità determina quale finestra di dialogo riceve un lead nel caso in cui sia idoneo per più di una. Viene stabilito quando [crei il tuo dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}. Per modificare la priorità di una finestra di dialogo esistente, aprirla e passare a **[!UICONTROL Dettagli finestra di dialogo]** nella scheda Criteri pubblico.
 
 ![](assets/audience-criteria-1.png)
 
@@ -24,7 +24,7 @@ La priorità determina quale finestra di dialogo riceve un lead nel caso in cui 
 
 Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimento o alla durata della loro presenza sulla pagina/sito. Nell’esempio seguente, eseguiamo il targeting dei visitatori che si trovano su una pagina specifica da più di 20 secondi.
 
-1. Acquisisci **[!UICONTROL Tempo sulla pagina]** e trascinarlo a destra.
+1. Acquisisci l&#39;evento **[!UICONTROL Ora sulla pagina]** e trascinalo a destra.
 
    ![](assets/audience-criteria-3.png)
 
@@ -32,7 +32,7 @@ Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimen
 
    ![](assets/audience-criteria-4.png)
 
-1. Aggiungi l’URL della pagina desiderata in [Target](#target) sezione.
+1. Aggiungi l&#39;URL della pagina desiderata nella sezione [Target](#target).
 
    ![](assets/audience-criteria-5.png)
 
@@ -40,23 +40,23 @@ Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimen
 
 **Persone note**
 
-Ci sono _molti_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, il targeting riguarda tutte le persone note in California che lavorano in un’azienda con più di 50 dipendenti.
+Sono disponibili _molte_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, il targeting riguarda tutte le persone note in California che lavorano in un’azienda con più di 50 dipendenti.
 
-1. Acquisisci **[!UICONTROL Stato della persona]** e trascinarlo verso destra.
+1. Acquisisci l&#39;attributo **[!UICONTROL Stato persona]** e trascinalo a destra.
 
    ![](assets/audience-criteria-7.png)
 
-1. _È_ è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _Is_ è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-8.png)
 
-1. Acquisisci **[!UICONTROL Dimensioni società]** e trascinarlo nel punto in cui è indicato _trascina e rilascia qui un attributo_.
+1. Acquisisci l&#39;attributo **[!UICONTROL Dimensione società]** e trascinalo nel punto in cui dice _trascina un attributo qui_.
 
    ![](assets/audience-criteria-9.png)
 
    >[!NOTE]
    >
-   >È inoltre possibile scegliere un attributo facendo clic sul relativo **+** icona.
+   >È inoltre possibile scegliere un attributo facendo clic sulla relativa icona **+**.
 
 1. Fai clic sul menu a discesa operatore e seleziona **[!UICONTROL Maggiore di]**.
 
@@ -72,23 +72,23 @@ Ed è tutto!
 
 Esiste un modo semplice per eseguire il targeting specifico delle persone che non sono ancora presenti nel database. In questo esempio, il targeting riguarda tutte le persone anonime che si trovano nell&#39;area di New York.
 
-1. Acquisisci **[!UICONTROL E-mail della persona]** e trascinarlo verso destra.
+1. Acquisisci l&#39;attributo **[!UICONTROL E-mail persona]** e trascinalo a destra.
 
    ![](assets/audience-criteria-12.png)
 
-1. Fai clic sul menu a discesa operatore e seleziona **[!UICONTROL È vuoto]**.
+1. Fare clic sull&#39;elenco a discesa operatore e selezionare **[!UICONTROL È vuoto]**.
 
    ![](assets/audience-criteria-13.png)
 
-1. Acquisisci **[!UICONTROL Stato dedotto]** e trascinarlo nel punto in cui è indicato _trascina e rilascia qui un attributo_.
+1. Acquisisci l&#39;attributo **[!UICONTROL Inferred State]** e trascinalo nel punto in cui dice _trascina un attributo qui_.
 
    ![](assets/audience-criteria-14.png)
 
    >[!NOTE]
    >
-   >Quando qualcuno visita il tuo sito web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} li cookie e li inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di buone informazioni.
+   >Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di buone informazioni.
 
-1. _È_ è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _Is_ è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-15.png)
 
@@ -100,7 +100,7 @@ Utilizza gli elenchi avanzati di Marketo Engage per il pubblico di destinazione 
 >
 >Il membro di un elenco avanzato o il criterio del membro di un elenco richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-1. In Iscrizione, accedi **[!UICONTROL Membro di elenco avanzato]** e lo rilasci sull&#39;area di lavoro.
+1. In Appartenenza, acquisire **[!UICONTROL Membro di Smart List]** e rilasciarlo nell&#39;area di lavoro.
 
    ![](assets/audience-criteria-15a.png)
 
@@ -129,15 +129,15 @@ Formati accettabili:
 
 >[!NOTE]
 >
->L&#39;utilizzo di un asterisco funge da carattere jolly catch-all. Quindi `https://*.website.com` inserirebbe la finestra di dialogo in ogni pagina del sito, inclusi i sottodomini (ad esempio: `support.website.com`). E `https://website.com/folder/*` inserirebbe la finestra di dialogo in ogni pagina HTML nella cartella successiva (ad esempio, in questo caso diciamo che la cartella è &quot;sport&quot;, quindi: website.com/sports/baseball.html, website.com/sports/football.html, ecc.).
+>L&#39;utilizzo di un asterisco funge da carattere jolly catch-all. Pertanto `https://*.website.com` inserirebbe la finestra di dialogo in ogni pagina del sito, inclusi i sottodomini (esempio: `support.website.com`). E `https://website.com/folder/*` inserirebbe la finestra di dialogo in ogni pagina HTML nella cartella successiva (es: in questo caso diciamo che la cartella è &quot;sport&quot;, quindi: website.com/sports/baseball.html, website.com/sports/football.html, ecc.).
 
 **Esclusioni**
 
-Utilizza le esclusioni per assicurarti che la finestra di dialogo _non_ in una pagina o area specifica del sito. Le esclusioni seguono lo stesso formato delle inclusioni.
+Utilizza le esclusioni per assicurarti che la finestra di dialogo _non_ venga visualizzata in una pagina o in un&#39;area specifica del sito. Le esclusioni seguono lo stesso formato delle inclusioni.
 
 ![](assets/audience-criteria-18.png)
 
 >[!MORELIKETHIS]
 >
->* [Creare una finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
->* [Progettazione flussi](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}
+>* [Crea un dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}
+>* [Trasmetti Designer](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}

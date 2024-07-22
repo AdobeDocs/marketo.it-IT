@@ -12,19 +12,19 @@ ht-degree: 0%
 
 # Aggiungi utente solo API per le sottoscrizioni abilitate Adobe IMS {#add-api-only-user-for-adobe-ims-enabled-subscriptions}
 
-Gli utenti e gli amministratori di Marketi Engage Marketing vengono gestiti in Adobe Admin Console, mentre gli utenti di Marketi Engage API Only devono essere creati e gestiti in Marketi Engage.
+Gli utenti e gli amministratori di Marketo Engage Marketing vengono gestiti in Adobe Admin Console, mentre gli utenti di Marketo Engage API Only devono essere creati e gestiti in Marketo Engage.
 
-I passaggi seguenti descrivono come aggiungere un utente solo API nel Marketo Engage. Prima di procedere, è necessario disporre di [ha stabilito un ruolo solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
+I passaggi seguenti descrivono come aggiungere un utente solo API nel Marketo Engage. Prima di eseguire questa operazione, è necessario che [abbia stabilito un ruolo solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md).
 
 1. In Marketo, fai clic su **[!UICONTROL Amministratore]** e seleziona **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-1.png)
 
-1. Clic **[!UICONTROL Crea utente solo API]**.
+1. Fare clic su **[!UICONTROL Crea solo utente API]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-2.png)
 
-1. Immetti un [!UICONTROL E-mail], [!UICONTROL Nome], e [!UICONTROL Cognome] solo per l’utente API. Seleziona la [!UICONTROL Solo API] Ruolo che desideri assegnare all’utente. Clic **[!UICONTROL Crea utente solo API]** al termine.
+1. Immetti [!UICONTROL E-mail], [!UICONTROL Nome] e [!UICONTROL Cognome] per l&#39;utente solo API. Selezionare il ruolo [!UICONTROL Solo API] che si desidera assegnare all&#39;utente. Al termine, fai clic su **[!UICONTROL Crea solo utente API]**.
 
    ![](assets/add-api-only-user-for-adobe-ims-3.png)
 

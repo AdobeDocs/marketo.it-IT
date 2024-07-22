@@ -15,14 +15,14 @@ ht-degree: 0%
 
 ## Marketo Moments {#marketo-moments}
 
-Sei fuori a pranzo ma devi riprogrammare un&#39;email? L’app Marketo Moments, disponibile da App Store o Google Play, ti consente di vedere in tempo reale le prestazioni delle campagne e-mail e degli eventi, nonché quelle future, dal telefono iPhone, iPad o Android.
+Sei fuori a pranzo ma devi riprogrammare un&#39;email? L’app Marketo Moments, disponibile da App Store o Google Play, ti consente di vedere in tempo reale le prestazioni delle campagne e-mail e degli eventi, nonché quelle future, dal telefono di iPhone, iPad o Android.
 
 ![](assets/image2015-7-10-9-3a42-3a29.png)
 
 ## Aggiornamento dell’editor Rich Text {#rich-text-editor-update}
 
 L’editor di testo è stato aggiornato con aspetto moderno, inclusa la formattazione del testo semplificata, la modifica delle immagini, l’inserimento di collegamenti e la modifica dei HTML. L’editor di HTML ora dispone di una convalida minima, che consente modifiche del codice meno restrittive.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà implementato automaticamente entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella legacy dell’editor da **Amministratore > E-mail > Modifica impostazioni editor**.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà implementato automaticamente entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella precedente dell&#39;editor da **Amministratore > E-mail > Modifica impostazioni editor**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
@@ -48,10 +48,10 @@ Hai configurato diverse campagne RTP personalizzate e hai notato che alcune di e
 
 ## API società {#company-api}
 
-**Accesso agli oggetti aziendali tramite API REST**: l’API REST ora fornisce accesso all’oggetto Marketo Company (alias Account). Ciò significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead a tali aziende utilizzando l’API Lead aggiornata.
+**Accesso agli oggetti aziendali tramite API REST**: l&#39;API REST ora fornisce accesso all&#39;oggetto società Marketo (alias account). Ciò significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead a tali aziende utilizzando l’API Lead aggiornata.
 
-Scopri [altro]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) nella nostra guida di riferimento per l’API aziendale.
+Ulteriori informazioni [ulteriori]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) nella nostra guida di riferimento per l&#39;API aziendale.
 
 ## Accesso al recapito messaggi e-mail {#access-email-deliverability}
 
-**Accesso allo strumento di recapito messaggi e-mail**: questa nuova autorizzazione consente agli amministratori di concedere agli utenti l’accesso allo strumento Recapito e-mail.
+**Accesso allo strumento di recapito messaggi e-mail**: questa nuova autorizzazione consente agli amministratori di concedere agli utenti l&#39;accesso allo strumento di recapito messaggi e-mail.

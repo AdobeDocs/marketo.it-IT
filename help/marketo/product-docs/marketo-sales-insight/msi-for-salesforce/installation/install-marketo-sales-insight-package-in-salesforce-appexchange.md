@@ -6,7 +6,7 @@ exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -23,19 +23,19 @@ ht-degree: 0%
 >
 >Marketo Sales Insight è compatibile con la crittografia Salesforce Platform (Shield).
 
-1. Vai a [Pagina di AppExchange di Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e fai clic su **Ottieni subito**.
+1. Vai alla [pagina di AppExchange per Marketo Sales Insight](https://appexchange.salesforce.com/listingDetail?listingId=a0N30000001SVZmEAO) e fai clic su **Ottieni subito**.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-1.png)
 
-1. Clic **Accedi all’AppExchange** e accedi con le tue credenziali Salesforce.
+1. Fai clic su **Accedi al pulsante AppExchange** e accedi con le credenziali Salesforce.
 
-1. Inserisci il login dell’account Salesforce connesso e fai clic su **Installazione in produzione**.
+1. Immetti l&#39;account Salesforce connesso per l&#39;accesso e fai clic su **Installa in produzione**.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-2.png)
 
    >[!TIP]
    >
-   >Se vuoi testarlo prima nella sandbox, scegli **Installa in Sandbox**.
+   >Se prima vuoi testarlo nella tua sandbox, scegli **Installa nella sandbox**.
 
 1. Leggi e accetta i termini e le condizioni, quindi fai clic su **Conferma e installa**.
 
@@ -45,15 +45,15 @@ ht-degree: 0%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-4.png)
 
-1. Una volta avviato il processo di installazione, è possibile che venga visualizzato il seguente messaggio. Al termine dell&#39;installazione, riceverai un&#39;e-mail. Clic **Fine** da ignorare.
+1. Una volta avviato il processo di installazione, è possibile che venga visualizzato il seguente messaggio. Al termine dell&#39;installazione, riceverai un&#39;e-mail. Fai clic su **Fine** per chiudere.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-5.png)
 
-1. Verifica che **Insight sulla vendita di Marketo** è incluso nei pacchetti installati.
+1. Verificare che **Marketo Sales Insight** sia incluso nei pacchetti installati.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-6.png)
 
-1. Clic **Configurazione** accanto al tuo nome.
+1. Fai clic su **Configurazione** accanto al tuo nome.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-7.png)
 
@@ -61,7 +61,7 @@ ht-degree: 0%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-8.png)
 
-1. Ricontrolla **Implementato** è selezionato per tutti gli elementi di Marketo Sales Insight.
+1. Verificare che **Distribuito** sia controllato per tutti gli elementi di Marketo Sales Insight.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-9.png)
 
@@ -69,7 +69,7 @@ ht-degree: 0%
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-10.png)
 
-1. Sotto **Stato della distribuzione** sezione, seleziona **Implementato** e fai clic su **Salva**.
+1. Nella sezione **Stato distribuzione** selezionare **Distribuito** e fare clic su **Salva**.
 
    ![](assets/install-marketo-sales-insight-package-in-salesforce-appexchange-11.png)
 
@@ -79,4 +79,4 @@ Ottimo lavoro! Ora hai installato e implementato Marketo Sales Insight. Configur
 >
 >* [Configurare Marketo Sales Insight in Salesforce Professional Edition](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-professional-edition.md)
 >* [Configurare Marketo Sales Insight in Salesforce Enterprise/Unlimited](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md)
->* [Aggiungere l’accesso a Sales Insight ai profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>* [Aggiungi accesso a Sales Insight ai profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

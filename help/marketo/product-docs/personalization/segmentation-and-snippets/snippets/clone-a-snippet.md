@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Clonare uno snippet per crearne una copia modificabile in base alle proprie esigenze.
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/image2014-9-16-10-3a32-3a36.png)
 
-1. Vai al tuo snippet e poi sotto **Azioni snippet**, fai clic su **Clona**.
+1. Vai allo snippet e in **Azioni snippet** fai clic su **Clone**.
 
    ![](assets/image2014-9-16-10-3a32-3a44.png)
 
-1. Immetti i dettagli dello snippet e fai clic su **Clona**.
+1. Immetti i dettagli dello snippet e fai clic su **Clone**.
 
    ![](assets/image2014-9-16-10-3a32-3a53.png)
 

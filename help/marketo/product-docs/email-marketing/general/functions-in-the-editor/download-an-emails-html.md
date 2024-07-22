@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per backup e altri scopi, Marketo consente di scaricare il contenuto HTML di un’e-mail.
 
-1. Trova l’e-mail e selezionala. In **Azioni e-mail** menu a discesa **Scarica HTML**.
+1. Trova l’e-mail e selezionala. Nel menu a discesa **Azioni e-mail**, fai clic su **Scarica HTML**.
 
    ![](assets/one-4.png)
 

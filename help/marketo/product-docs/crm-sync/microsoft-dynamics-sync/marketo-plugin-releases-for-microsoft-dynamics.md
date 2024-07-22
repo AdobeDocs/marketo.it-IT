@@ -15,13 +15,13 @@ ht-degree: 0%
 
 La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi la versione più recente dei plug-in per Marketo. Periodicamente, Marketo aggiorna questi plug-in, in modo da poter tornare nella stessa posizione per scaricare la nuova versione.
 
-[Scarica il plug-in più recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} corrisponde alla versione di Dynamics.
+[Scarica il plug-in più recente](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"} corrispondente alla versione di Dynamics.
 
 ![](assets/marketo-plugin-releases-for-microsoft-dynamics-1.png)
 
 ## Aggiornamento della soluzione Dynamics {#updating-your-dynamics-solution}
 
-1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, puoi importare _oltre_ versione 1.4).
+1. Importa la versione più recente della soluzione rispetto alla versione esistente di Dynamics CRM (ad esempio, se la versione di Dynamics CRM è 1.4 e quella più recente è 1.5, è necessario importare _over_ versione 1.4).
 
 1. Viene visualizzata la seguente finestra a comparsa. Seleziona **Aggiorna** e **Gestisci personalizzazioni**, quindi fai clic su **Importa**.
 
@@ -137,4 +137,4 @@ La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi l
 
 >[!MORELIKETHIS]
 >
->[Scarica la soluzione di gestione dei lead Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}
+>[Scarica la soluzione Marketo per la gestione dei lead](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md){target="_blank"}

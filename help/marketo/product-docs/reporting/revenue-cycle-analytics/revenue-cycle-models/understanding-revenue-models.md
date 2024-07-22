@@ -6,7 +6,7 @@ exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ I modelli del ciclo dei ricavi portano il marketing al livello successivo. Model
 
 ## Modello mentale (come pensare a questa cosa) {#mental-model-how-to-think-about-this-thing}
 
-Il Modeler è come una serie di secchi con dentro dell&#39;acqua. Ci sono dei fori nella parte inferiore dei secchi.
+La Modeler è come una serie di secchi con dentro dell&#39;acqua. Ci sono dei fori nella parte inferiore dei secchi.
 
 ![](assets/image2015-6-12-10-3a14-3a4.png)
 
@@ -37,11 +37,11 @@ Per impostazione predefinita, un nuovo modello inizia con sei stadi di ricavo. Q
 
 ![](assets/image2015-6-12-9-3a43-3a11.png)
 
-Notate che sono tutti su sfondo verde. Questa funzione è denominata **Percorso di successo**. Ulteriori informazioni sul percorso di successo [qui](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
+Notate che sono tutti su sfondo verde. Questo percorso è denominato **Percorso di successo**. Ulteriori informazioni sul percorso di successo [qui](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-model-success-path.md).
 
-**Fasi** sono le tappe di una progressione di lead verso i loro obiettivi.
+**Le fasi** sono le tappe fondamentali della progressione dei lead verso i loro obiettivi.
 
-**Transizioni** vengono visualizzate come frecce e controllano il modo in cui le lead si spostano tra gli stadi.
+**Le transizioni** sono visualizzate come frecce e controllano il modo in cui i lead si spostano tra le fasi.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Questa sembra una scatola ed è la più semplice delle fasi. Analytics terrà tr
 
 ## Fase SLA {#sla-stage}
 
-Questo è l’abbreviazione di **Accordo sui livelli di servizio** fase. L’obiettivo è quello di applicare un limite di tempo in alcune fasi.
+Breve durata per la fase **Contratto di servizio**. L’obiettivo è quello di applicare un limite di tempo in alcune fasi.
 
 >[!NOTE]
 >
@@ -75,7 +75,7 @@ Una fase Gate è destinata alle situazioni in cui si desidera filtrare i lead in
 >
 >**Esempio**
 >
->Un gate può essere utilizzato per i lead che fanno parte di un **elenco di account denominati** per separare questo processo dal normale.
+>È possibile utilizzare un gate per i lead che fanno parte di un **elenco di account denominato** per separarlo dal normale processo.
 
 ## Transizioni {#transitions}
 
@@ -95,13 +95,13 @@ Lost è un buon esempio da aggiungere, ma notate che non si trova sul percorso v
 
 >[!MORELIKETHIS]
 >
->* [Crea un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>* [Crea un nuovo modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 >
->* [Utilizzo delle fasi di magazzino del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilizzo delle fasi di inventario del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
 >
->* [Utilizzo degli stadi del gate del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
+>* [Utilizzo degli stadi del gate del modello dei ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Utilizzo degli stadi SLA del modello ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Utilizzo degli stadi SLA del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Rapporto sul modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

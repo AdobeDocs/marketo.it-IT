@@ -41,5 +41,5 @@ Se desideri mantenere questo comportamento, prova a deduplicare i dati nel siste
 
 >[!MORELIKETHIS]
 >
->* [Raccontare la storia del marketing con un analizzatore di influenza dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
->* [Creare un analizzatore di influenza dell’opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)
+>* [Racconta la storia del marketing con un analizzatore di influenza dell&#39;opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md)
+>* [Creare un&#39;analisi dell&#39;influenza dell&#39;opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/create-an-opportunity-influence-analyzer.md)

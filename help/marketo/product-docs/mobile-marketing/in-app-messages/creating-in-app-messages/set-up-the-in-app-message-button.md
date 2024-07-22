@@ -19,7 +19,7 @@ Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricar
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Per modificare il colore del pulsante standard, fare clic sul pulsante **Colore** pulsante.
+1. Per cambiare il colore del pulsante standard, fare clic sul pulsante **Colore**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -35,7 +35,7 @@ Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricar
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Scegli l’immagine e fai clic su **Seleziona**.
+1. Scegli l&#39;immagine e fai clic su **Seleziona**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -51,7 +51,7 @@ Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricar
 
    ![](assets/image2016-5-6-16-3a41-3a52.png)
 
-1. Scegliere lo stile del carattere per l&#39;enfasi: **Bold**, _Corsivo_, o Sottolineato.
+1. Scegli lo stile font per enfasi: **Grassetto**, _Corsivo_ o Sottolineato.
 
    ![](assets/image2016-5-6-16-3a43-3a47.png)
 
@@ -71,7 +71,7 @@ Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricar
    >
    >Il pulsante ha sempre un&#39;azione di tocco, pertanto la casella di controllo Azione tocco viene selezionata automaticamente con il messaggio predefinito &quot;Ignora messaggio&quot;.
 
-Ci siamo quasi. L’ultimo passaggio consiste nel [configurare lo sfondo del messaggio in-app e il pulsante chiudi](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
+Ci siamo quasi. L&#39;ultimo passaggio consiste nel [configurare lo sfondo del messaggio in-app e il pulsante di chiusura](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >

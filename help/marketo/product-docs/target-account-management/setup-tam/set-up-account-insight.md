@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,17 +17,17 @@ Ecco come impostare Account Insight.
 
 >[!PREREQUISITES]
 >
->Punteggio dell’account TAM [deve essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) prima.
+>Il punteggio dell&#39;account TAM [ deve prima essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/admin-1.png)
 
-1. Clic **Gestione account di destinazione** nell&#39;albero, quindi **Vendite** scheda.
+1. Fai clic su **Gestione account di destinazione** nella struttura, quindi sulla scheda **Vendite**.
 
    ![](assets/set-up-account-insight-2.png)
 
-1. Clic **Modifica**.
+1. Fai clic su **Modifica**.
 
    ![](assets/set-up-account-insight-3.png)
 
@@ -37,8 +37,8 @@ Ecco come impostare Account Insight.
 
    >[!NOTE]
    >
-   >Se il [Impostazioni punteggio account](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) vengono aggiornate in qualsiasi momento, la configurazione in Vendite deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano accuratamente le preferenze dell’utente. L’utente deve disconnettersi ed effettuare di nuovo l’accesso per visualizzare le modifiche.
+   >Se le [impostazioni del punteggio account](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md) vengono aggiornate in qualsiasi momento, la configurazione in Vendite deve essere aggiornata da un amministratore per assicurarsi che i punteggi riflettano accuratamente le preferenze dell&#39;utente. L’utente deve disconnettersi ed effettuare di nuovo l’accesso per visualizzare le modifiche.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/five-4.png)

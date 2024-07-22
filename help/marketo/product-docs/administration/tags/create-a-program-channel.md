@@ -21,13 +21,13 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
 >[!NOTE]
 >
->Ulteriori informazioni su [programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l’elemento più importante di Marketo.
+>Ulteriori informazioni su [programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l&#39;elemento più importante di Marketo.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-a-program-channel-1.png)
 
-1. Clic **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tag]**.
 
    ![](assets/create-a-program-channel-2.png)
 
@@ -35,11 +35,11 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >
    >Perché utilizzare i tag? Un canale è un modo per descrivere un programma, proprio come gli altri tag. Il canale ha solo speciali funzionalità extra.
 
-1. Fai clic su **+** accedi a [!UICONTROL Canale] per espandere e visualizzare i canali esistenti.
+1. Fai clic sul segno **+** accanto a [!UICONTROL Canale] per espandere e visualizzare i canali esistenti.
 
    ![](assets/create-a-program-channel-3.png)
 
-1. Sotto **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuovo canale]**.
+1. In **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuovo canale]**.
 
    ![](assets/create-a-program-channel-4.png)
 
@@ -61,7 +61,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >
    >Consulta le Progressioni dei canali esistenti per scoprire come utilizzarli.
 
-1. Prendiamo l&#39;esempio del canale del partito. Assegna un nome al nuovo **Canale** e seleziona il tipo di programma a cui applicare.
+1. Prendiamo l&#39;esempio del canale del partito. Assegna un nome al nuovo **Canale** e seleziona il tipo di programma a cui verrà applicato.
 
    ![](assets/create-a-program-channel-5.png)
 
@@ -71,49 +71,49 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
    >[!NOTE]
    >
-   >Quando si utilizza &quot;[!UICONTROL Evento con webinar],&quot; le mappature di sistema verranno bloccate (come richiesto dalle integrazioni del webinar) e non possono essere modificate.
+   >Quando si utilizza &quot;[!UICONTROL Event with Webinar]&quot;, le mappature di sistema verranno bloccate (come richiesto dalle integrazioni del webinar) e non possono essere modificate.
 
 1. Immettere i primi due nomi di stato del programma, quindi fare clic su **[!UICONTROL Aggiungi passaggio]**.
 
    ![](assets/create-a-program-channel-6.png)
 
-1. Immetti un altro programma **[!UICONTROL Stato]** e **[!UICONTROL Passaggio]** numero, quindi fai clic su **[!UICONTROL Aggiungi passaggio]**.
+1. Immetti un altro programma **[!UICONTROL Stato]** e il numero del **[!UICONTROL Passaggio]**, quindi fai clic su **[!UICONTROL Aggiungi passaggio]**.
 
    ![](assets/create-a-program-channel-7.png)
 
    >[!TIP]
    >
-   >Il **[!UICONTROL Passaggio]** number viene utilizzato per ordinare gli stati dei programmi. Tieni presente che le persone non possono tornare indietro in questi passaggi di progressione. Possono cambiare lo stato solo a uno stato con valore maggiore o uguale. Utilizzare i valori uguali quando gli stati sono destinati a passare da una progressione all&#39;altra.
+   >Il numero del **[!UICONTROL passaggio]** viene utilizzato per ordinare gli stati dei programmi. Tieni presente che le persone non possono tornare indietro in questi passaggi di progressione. Possono cambiare lo stato solo a uno stato con valore maggiore o uguale. Utilizzare i valori uguali quando gli stati sono destinati a passare da una progressione all&#39;altra.
 
-1. Immetti l’ultimo programma **[!UICONTROL Stato]** e **[!UICONTROL Passaggio]** numero.
+1. Immetti l&#39;ultimo programma **[!UICONTROL Stato]** e il numero del **[!UICONTROL Passaggio]**.
 
    ![](assets/create-a-program-channel-8.png)
 
    >[!NOTE]
    >
-   >Quando si utilizza il tipo &quot;[!UICONTROL Evento],&quot; è necessario mappare il sistema per gli stati Registrato, In lista d’attesa e Partecipato. Di conseguenza, tali stati non possono essere nascosti.
+   >Quando si utilizza il tipo &quot;[!UICONTROL Event]&quot;, è necessario il mapping di sistema per gli stati Registrato, In lista d&#39;attesa e Partecipato. Di conseguenza, tali stati non possono essere nascosti.
 
-1. Scegli il **[!UICONTROL Stato check-in mobile]** per **[!UICONTROL Registrato]**.
+1. Scegli lo **[!UICONTROL stato di archiviazione mobile]** per **[!UICONTROL Registrato]**.
 
    ![](assets/create-a-program-channel-9.png)
 
-1. Scegli il **[!UICONTROL Stato check-in mobile]** per **[!UICONTROL Partecipazione avvenuta]**.
+1. Selezionare lo **[!UICONTROL stato archiviazione dispositivi mobili]** per **[!UICONTROL Partecipazione avvenuta]**.
 
    ![](assets/create-a-program-channel-10.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Stato check-in mobile]** le opzioni saranno disponibili solo se il canale sarà per i programmi evento.
+   >Le opzioni di **[!UICONTROL Stato archiviazione dispositivi mobili]** saranno disponibili solo se il canale sarà per i programmi evento.
 
    >[!NOTE]
    >
-   >Solo le persone con **[!UICONTROL Stato check-in mobile]** di **[!UICONTROL Registrato]** e **[!UICONTROL Partecipazione avvenuta]** sarà visibile in [App di check-in per dispositivi mobili](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
+   >Solo le persone con **[!UICONTROL Stato archiviazione dispositivi mobili]** di **[!UICONTROL Registrato]** e **[!UICONTROL Partecipato]** saranno visibili nelle [App archiviazione dispositivi mobili](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/event-check-in-overview.md).
 
    >[!TIP]
    >
    >Se nell&#39;app di archiviazione per dispositivi mobili viene creata una nuova persona, questa verrà impostata su Registrata nel programma dell&#39;evento. Se una persona viene registrata nell’evento nell’app, verrà impostata su Partecipato nel programma dell’evento.
 
-1. Seleziona la **[!UICONTROL Completato]** stato del programma, quindi fai clic su **[!UICONTROL Crea]**.
+1. Seleziona lo stato del programma **[!UICONTROL Operazione completata]**, quindi fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/create-a-program-channel-11.png)
 

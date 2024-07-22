@@ -17,15 +17,15 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
 ## Aggiungere un campo attività personalizzato {#add-a-custom-activity-field}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Clic **[!UICONTROL Campi]**.
+1. Fare clic su **[!UICONTROL Campi]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -33,11 +33,11 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Clic **[!UICONTROL Nuovo campo]**.
+1. Fare clic su **[!UICONTROL Nuovo campo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Scegli il campo [!UICONTROL tipo di dati].
+1. Scegli il tipo di dati [!UICONTROL del campo].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -53,15 +53,15 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
 ## Modificare un campo attività personalizzato {#edit-a-custom-activity-field}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Clic **[!UICONTROL Campi]**.
+1. Fare clic su **[!UICONTROL Campi]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -69,7 +69,7 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Seleziona il campo da modificare, fai clic su **[!UICONTROL Azioni campo]** e selezionare **[!UICONTROL Modifica campo]**.
+1. Seleziona il campo da modificare, fai clic sul menu a discesa **[!UICONTROL Azioni campo]** e seleziona **[!UICONTROL Modifica campo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
@@ -77,7 +77,7 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Inserisci il nuovo Nome e Nome API, quindi fai clic su **[!UICONTROL Salva]**.
+1. Immetti il nuovo nome e il nome API, quindi fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
@@ -97,15 +97,15 @@ Il campo è stato modificato.
 
 ## Eliminare un campo attività personalizzato {#delete-a-custom-activity-field}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Clic **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Clic **[!UICONTROL Campi]**.
+1. Fare clic su **[!UICONTROL Campi]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -113,6 +113,6 @@ Il campo è stato modificato.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Seleziona il campo da eliminare, fai clic sul pulsante **[!UICONTROL Azioni campo]** e selezionare **[!UICONTROL Elimina campo]**.
+1. Selezionare il campo che si desidera eliminare, fare clic sul menu a discesa **[!UICONTROL Azioni campo]** e selezionare **[!UICONTROL Elimina campo]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

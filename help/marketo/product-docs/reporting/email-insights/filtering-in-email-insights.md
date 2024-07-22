@@ -6,7 +6,7 @@ exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -59,10 +59,10 @@ Scegli tra intervalli di date predefiniti comuni, seleziona date specifiche e ut
 
 >[!NOTE]
 >
->Gli intervalli di date si applicano sia alla pagina Analytics che alla pagina Invii. Il **Confronta** Tuttavia, questa opzione è applicabile solo alla pagina Analytics.
+>Gli intervalli di date si applicano sia alla pagina Analytics che alla pagina Invii. L&#39;opzione **Confronta** è tuttavia applicabile solo alla pagina Analytics.
 
 ## Marketing basato sull&#39;account {#account-based-marketing}
 
-Se usa [Gestione account di destinazione](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), esistono filtri specifici per te.
+Se utilizzi [Gestione account di Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), sono disponibili filtri specifici.
 
 ![](assets/abm.png)

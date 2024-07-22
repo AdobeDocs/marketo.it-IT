@@ -19,18 +19,18 @@ Aiuta il tuo team di vendita a raggiungere il successo impedendo loro di inviare
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Nell’applicazione web, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/one-3.png)
 
-1. In Impostazioni amministrazione, fai clic su **Generale**.
+1. In Impostazioni amministrazione fare clic su **Generale**.
 
    ![](assets/two-3.png)
 
-1. Immetti il dominio da bloccare e fai clic su **Blocca dominio**.
+1. Immettere il dominio da bloccare e fare clic su **Blocca dominio**.
 
    ![](assets/three-3.png)
 
    >[!NOTE]
    >
-   >E-mail che fanno parte di un [E-mail gruppo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) l’invio non riuscito per l’invio a un dominio e-mail bloccato avrà esito negativo automaticamente e non verrà visualizzato nella cartella e-mail non riuscita.
+   >Le e-mail che fanno parte di un [Invio e-mail di gruppo](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/sending-emails-via-group-email.md) non riuscito a causa dell&#39;invio a un dominio e-mail bloccato avranno esito negativo e non verranno visualizzate nella cartella e-mail non riuscita.

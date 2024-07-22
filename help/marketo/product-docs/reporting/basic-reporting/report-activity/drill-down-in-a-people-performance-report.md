@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori informazioni sulla persona.
 
-1. Fai clic su **Report** per visualizzare eventuali rapporti esistenti.
+1. Fai clic sulla scheda **Report** per visualizzare eventuali report esistenti.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori
 
    ![](assets/two.png)
 
-1. Fai clic su **Drill-down**.
+1. Fare clic su **Drill-down**.
 
    ![](assets/three.png)
 
-1. In **Drill-down** a comparsa, selezionare l&#39;attributo a cui si desidera eseguire il drill-down. Quindi fai clic su **Drill-down**.
+1. Nel pop-up **Drill-down**, selezionare l&#39;attributo che si desidera espandere. Quindi fare clic su **Espandi**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori
 
    ![](assets/five.png)
 
-1. Per salvare i risultati (facoltativo), fai clic sul pulsante **Esporta** in basso a sinistra.
+1. Per salvare i risultati (facoltativo), fai clic sull&#39;icona **Esporta** in basso a sinistra.
 
    ![](assets/six.png)

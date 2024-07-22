@@ -15,11 +15,11 @@ ht-degree: 2%
 
 Chi ha votato per cosa nel suo sondaggio? Scopriamolo.
 
-1. In entrata **Attività di marketing**, selezionare il sondaggio e fare clic su **Partecipanti** scheda.
+1. In **Attività di marketing**, seleziona il sondaggio e fai clic sulla scheda **Partecipanti**.
 
    ![](assets/image2015-5-12-14-3a35-3a10.png)
 
-1. Fai clic sul numero in **Voti** colonna.
+1. Fare clic sul numero nella colonna **Voti**.
 
    ![](assets/image2015-5-12-14-3a36-3a36.png)
 
@@ -29,4 +29,4 @@ Chi ha votato per cosa nel suo sondaggio? Scopriamolo.
 
    >[!MORELIKETHIS]
    >
-   >Ulteriori informazioni sulla portata e sull’impatto social delle app in [Visualizza prestazioni social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   >Ulteriori informazioni sulla portata e sull&#39;impatto social delle app in [Visualizza prestazioni social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).

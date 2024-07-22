@@ -50,4 +50,4 @@ Personalizza i rapporti di Esplora entrate trascinando i campi delle dimensioni 
 
 >[!MORELIKETHIS]
 >
->[Eliminazione di un campo in un report di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)
+>[Eliminazione di un campo in un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/deleting-a-field-in-a-revenue-explorer-report.md)

@@ -19,11 +19,11 @@ Salesforce richiede (almeno) il cognome e il nome della società per i lead e i 
 
    ![](assets/image2014-12-9-13-3a41-3a58.png)
 
-1. Clic **[!UICONTROL Modifica opzioni di sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Modifica opzioni di sincronizzazione]**.
 
    ![](assets/image2014-12-9-13-3a42-3a6.png)
 
-1. Immetti un **[!UICONTROL Cognome persona predefinito]** e un **[!UICONTROL Società persona predefinita]**, quindi fai clic su **[!UICONTROL Salva]**.
+1. Immetti un **[!UICONTROL cognome persona predefinito]** e una **[!UICONTROL società persona predefinita]**, quindi fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/sync-options-hands.png)
 

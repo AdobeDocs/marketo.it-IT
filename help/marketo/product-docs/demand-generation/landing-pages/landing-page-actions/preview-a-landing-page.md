@@ -31,7 +31,7 @@ Probabilmente vorrai vedere come si presenta la pagina di destinazione prima di 
 
 ## Anteprima di una bozza di pagina di destinazione {#preview-a-landing-page-draft}
 
-1. Fai clic con il pulsante destro del mouse su una pagina di destinazione approvata con una versione bozza e fai clic su **Anteprima bozza**.
+1. Fare clic con il pulsante destro del mouse su una pagina di destinazione approvata con una versione bozza e scegliere **Anteprima bozza**.
 
    ![](assets/image2014-9-17-10-3a9-3a56.png)
 
@@ -41,7 +41,7 @@ Probabilmente vorrai vedere come si presenta la pagina di destinazione prima di 
 
    ![](assets/image2014-9-17-10-3a10-3a4.png)
 
-1. In qualsiasi momento durante il lavoro nell’editor pagina di destinazione, puoi fare clic su **Anteprima bozza**.
+1. In qualsiasi momento durante il lavoro nell&#39;editor pagina di destinazione, puoi fare clic su **Anteprima bozza**.
 
    ![](assets/image2015-5-21-15-3a48-3a59.png)
 

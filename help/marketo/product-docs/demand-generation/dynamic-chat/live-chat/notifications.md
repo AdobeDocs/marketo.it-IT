@@ -4,7 +4,8 @@ title: Notifiche
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 56070990d8bcea61fbbf3b382e5abae786b2488e
+exl-id: b06da576-39a4-41db-8e29-302083baca36
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 1%
@@ -15,11 +16,11 @@ ht-degree: 1%
 
 Per ricevere le notifiche del browser per la chat in tempo reale, tutti gli agenti chat in tempo reale devono abilitare le notifiche del browser per il Dynamic Chat quando richiesto.
 
-Gli agenti di chat live visualizzeranno un banner nella parte superiore dello schermo quando effettuano l’accesso che recita &quot;Abilita le notifiche del browser per ricevere le notifiche di chat live&quot;. Clic **Abilita**.
+Gli agenti di chat live visualizzeranno un banner nella parte superiore dello schermo quando effettuano l’accesso che recita &quot;Abilita le notifiche del browser per ricevere le notifiche di chat live&quot;. Fare clic su **Abilita**.
 
 ![](assets/live-chat-overview-4.png)
 
-Agli agenti di chat live verrà quindi richiesto dal browser di visualizzare le notifiche. Clic **Consenti**.
+Agli agenti di chat live verrà quindi richiesto dal browser di visualizzare le notifiche. Fare clic su **Consenti**.
 
 ![](assets/live-chat-overview-5.png)
 
@@ -27,7 +28,7 @@ Agli agenti di chat live verrà quindi richiesto dal browser di visualizzare le 
 
 ### Chrome per Windows
 
-Google illustra i passaggi necessari per abilitare le notifiche del browser per Windows in [questo articolo](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
+Google illustra i passaggi per abilitare le notifiche del browser per Windows in [questo articolo](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}.
 
 ### Chrome per Mac OS
 

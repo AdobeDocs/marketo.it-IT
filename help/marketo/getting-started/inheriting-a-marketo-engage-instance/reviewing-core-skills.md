@@ -17,7 +17,7 @@ Devi colmare alcune lacune nel tuo know-how di automazione marketing?
 
 Se hai un tempo limitato per approfondire le tue competenze principali, ecco cosa ti consigliamo:
 
-![Creare un programma e-mail](assets/reviewing-core-skills-1.png) [**Creare un programma e-mail**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
+![Creare un programma di posta elettronica](assets/reviewing-core-skills-1.png) [**Creare un programma di posta elettronica**](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"}
 
 <p>
 
@@ -25,16 +25,16 @@ Se hai un tempo limitato per approfondire le tue competenze principali, ecco cos
 
 <p>
 
-![Modificare il testo in un messaggio e-mail](assets/reviewing-core-skills-3.png) [**Modificare il testo in un messaggio e-mail**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
+![Modifica testo in un&#39;e-mail](assets/reviewing-core-skills-3.png) [**Modifica testo in un&#39;e-mail**](/help/marketo/product-docs/email-marketing/general/email-editor-2/edit-elements-in-an-email.md){target="_blank"}
 
 <p>
 
-![Creare un nuovo programma evento](assets/reviewing-core-skills-4.png) [**Creare un nuovo programma evento**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
+![Crea un nuovo programma eventi](assets/reviewing-core-skills-4.png) [**Crea un nuovo programma eventi**](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md){target="_blank"}
 
 <p>
 
-![Tipi di rapporti](assets/reviewing-core-skills-5.png) [**Tipi di rapporti**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
+![Tipi di report](assets/reviewing-core-skills-5.png) [**Tipi di report**](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}
 
 <p>
 
-![Come organizzare i programmi](assets/reviewing-core-skills-6.png) [**Come organizzare i programmi**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}
+![Organizzazione dei programmi](assets/reviewing-core-skills-6.png) [**Organizzazione dei programmi**](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.md){target="_blank"}

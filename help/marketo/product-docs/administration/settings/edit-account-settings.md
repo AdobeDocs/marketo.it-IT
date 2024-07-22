@@ -19,7 +19,7 @@ Modificare l&#39;indirizzo e-mail, il nome o il numero di telefono dell&#39;acco
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-account-settings-1.png)
 
@@ -27,10 +27,10 @@ Modificare l&#39;indirizzo e-mail, il nome o il numero di telefono dell&#39;acco
 
    ![](assets/edit-account-settings-2.png)
 
-1. Seleziona **[!UICONTROL Modifica impostazioni account]**.
+1. Selezionare **[!UICONTROL Modifica impostazioni account]**.
 
    ![](assets/edit-account-settings-3.png)
 
-1. Apporta le modifiche necessarie e fai clic su **[!UICONTROL Salva]**.
+1. Apporta le modifiche e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/edit-account-settings-4.png)

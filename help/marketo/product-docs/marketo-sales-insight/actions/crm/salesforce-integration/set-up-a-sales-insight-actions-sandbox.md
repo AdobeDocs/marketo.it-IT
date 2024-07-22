@@ -1,10 +1,10 @@
 ---
 description: Configurare una sandbox per le azioni di approfondimento sulle vendite - Documentazione di Marketo - Documentazione del prodotto
 title: Impostare una sandbox per le azioni di approfondimento sulle vendite
-exl-id: 58af77ef-93ea-4149-be91-f86cdc8f7476
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '626'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite [Pacchetto Sales Insight di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
+>Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra con l&#39;interfaccia utente di Salesforce tramite il [pacchetto Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
 Se disponi di una sandbox di Marketo, puoi abilitare un’istanza Azioni da utilizzare con la sandbox a scopo di test.
 
@@ -23,9 +23,9 @@ Segui i passaggi indicati di seguito per configurare un’istanza Actions in mod
 
 >[!NOTE]
 >
->Ulteriori informazioni sugli utenti [attivare la propria postazione Azioni](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}. You can also learn about how users will [authenticate with Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}. Additionally, if you prefer to have users authenticate with email and password, you can learn more about this in our [Login Management settings article](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+>Ulteriori informazioni su come gli utenti attiveranno [la postazione Azioni](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md){target="_blank"}. Puoi anche scoprire come gli utenti effettueranno l&#39;autenticazione [con Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}. Inoltre, se preferisci che gli utenti si autentichino con e-mail e password, puoi saperne di più nell&#39;[articolo sulle impostazioni di gestione dell&#39;accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
-## Richiedi il provisioning di un’istanza Actions per la tua sandbox Marketo {#request=an-actions-instance}
+## Richiedi il provisioning di un&#39;istanza Actions per la tua sandbox Marketo {#request=an-actions-instance}
 
 Le azioni di approfondimento sulle vendite non sono abilitate per le istanze Sandbox di Marketo, a meno che non sia richiesto. Contatta l’Adobe Account Team (il tuo Account Manager) per inviare una richiesta.
 
@@ -35,9 +35,9 @@ Una volta che Actions è abilitato per la tua Sandbox Marketo, dovrai seguire i 
 
 1. Accedi all’istanza Sandbox di Marketo.
 
-1. Accedi a **Amministratore**.
+1. Passa a **Amministratore**.
 
-1. Seleziona **Insight sulle vendite**.
+1. Selezionare **Informazioni sulle vendite**.
 
 1. Seleziona **Configurazione azioni**.
 
@@ -53,17 +53,17 @@ L’istanza Actions dovrà essere attivata con un account di produzione Salesfor
 
 1. Individua l’invito inviato.
 
-1. Fai clic su **Introduzione** Link.
+1. Fai clic sul collegamento **Inizia**.
 
 1. Attiva con la tua istanza di produzione Salesforce.
 
-1. Segui le istruzioni per configurare l’account. Per una panoramica dettagliata, consulta [Articolo sull’onboarding degli utenti](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
+1. Segui le istruzioni per configurare l’account. Per una panoramica dettagliata, consulta l&#39;[articolo sull&#39;onboarding degli utenti](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}.
 
 ## Prepara l’istanza delle azioni affinché sia compatibile con l’istanza Sandbox Salesforce {#prepare-your-actions-instance}
 
 Per eseguire le azioni è necessario attivare prima una nuova istanza con un utente di produzione Salesforce. Una volta attivata, puoi utilizzare i seguenti passaggi per preparare l’istanza affinché sia compatibile con Salesforce Sandbox.
 
-1. Aggiorna le impostazioni di accesso in &quot;Tutti i metodi di accesso&quot; in modo da poter accedere con un nome utente e una password, se necessario. Se lo si desidera, è possibile tornare a &quot;Solo Salesforce&quot; dopo aver configurato tutto. [Scopri come eseguire questa operazione qui](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+1. Aggiorna le impostazioni di accesso in &quot;Tutti i metodi di accesso&quot; in modo da poter accedere con un nome utente e una password, se necessario. Se lo si desidera, è possibile tornare a &quot;Solo Salesforce&quot; dopo aver configurato tutto. [Per ulteriori informazioni, vedere](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
 1. Disconnettiti da Salesforce Production e connettiti alla tua Salesforce Sandbox. [Scopri come connetterti qui](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. Per il passaggio 3, seleziona &quot;Sandbox&quot; invece di &quot;Salesforce&quot;. Se sei già connesso, nella scheda Connessioni e personalizzazioni di Salesforce dovrebbe essere presente un’opzione per disconnetterti.
 
@@ -73,7 +73,7 @@ Per eseguire le azioni è necessario attivare prima una nuova istanza con un ute
 
 ## Richiedi la conversione dell’istanza delle azioni per renderla compatibile con la sandbox Salesforce {#request-your-actions-instance-be-converted}
 
-1. Contatto [Supporto Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per richiedere che la nuova istanza Sales Insight Actions sia configurata per essere compatibile con Salesforce Sandbox.
+1. Contatta il supporto di Marketo Engage [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per richiedere che la nuova istanza delle azioni Sales Insight sia configurata per essere compatibile con Salesforce Sandbox.
 
 1. Verifica che tutto sia configurato correttamente tentando di accedere con il pulsante &quot;Accedi con Salesforce&quot; nella pagina toutapp.com/login.
 
@@ -83,11 +83,11 @@ Per eseguire le azioni è necessario attivare prima una nuova istanza con un ute
    >
    >In caso di problemi, puoi richiedere la reimpostazione della password e utilizzare una password per recuperare l’accesso al tuo account.
 
-Ora la tua istanza è pronta per essere utilizzata con l’istanza Sandbox Salesforce. Se si desidera utilizzare [Accesso automatico Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} from Salesforce, you can switch back to "Salesforce Only" in your [Login Management settings](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
+Ora la tua istanza è pronta per essere utilizzata con l’istanza Sandbox Salesforce. Se desideri utilizzare l&#39;accesso automatico [Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"} da Salesforce, puoi tornare a &quot;Solo Salesforce&quot; nelle [impostazioni di Gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
 >[!NOTE]
 >
->* [Collegare l&#39;account Sales Insight Actions a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
->* [Guida all’onboarding degli utenti per le azioni di approfondimento sulle vendite](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
+>* [Collega l&#39;account Sales Insight Actions a Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}
+>* [Guida all&#39;onboarding degli utenti per le azioni Sales Insight](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md){target="_blank"}
 >* [Accesso automatico da Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/admin/auto-login-from-salesforce.md){target="_blank"}
 >* [Impostazioni gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}

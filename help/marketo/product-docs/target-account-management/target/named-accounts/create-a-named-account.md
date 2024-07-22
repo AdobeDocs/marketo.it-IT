@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per creare manualmente un account denominato, segui la procedura riportata di seguito.
 
-1. In Account denominati, fai clic su **Nuovo** a discesa e selezionare **Crea account denominato**.
+1. In Account denominati fare clic sull&#39;elenco a discesa **Nuovo** e selezionare **Crea account denominato**.
 
    ![](assets/two-1.png)
 
@@ -29,4 +29,4 @@ Per creare manualmente un account denominato, segui la procedura riportata di se
 
 >[!MORELIKETHIS]
 >
->[Aggiungere persone a un account denominato](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
+>[Aggiungi persone a un account denominato](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)

@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Eliminare un rapporto {#delete-a-report}
 
-Una volta avviato [creazione di rapporti](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), puoi trovarne rapidamente molti. Ricordati di eliminare i rapporti che non ti servono più.
+Dopo aver iniziato a [creare i report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md), puoi trovarne molti. Ricordati di eliminare i rapporti che non ti servono più.
 
-1. Fai clic con il pulsante destro del mouse sul rapporto non necessario nella struttura ad albero e seleziona **Elimina report**.
+1. Fare clic con il pulsante destro del mouse sul report non necessario nella struttura e selezionare **Elimina report**.
 
    ![](assets/image2014-9-16-14-3a26-3a48.png)
 

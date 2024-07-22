@@ -5,7 +5,7 @@ exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Componi una nuova e-mail o utilizza un modello preesistente.
 
 >[!TIP]
 >
->Scopri i dettagli del tuo [opzioni di invio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
+>Scopri i dettagli sulle [opzioni di invio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
 ### Chiamata {#call}
 
@@ -66,4 +66,4 @@ Puoi anche impostare un &quot;Attività in Inmail&quot; come contatto in LinkedI
 
 >[!MORELIKETHIS]
 >
->[Creare una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
+>[Crea una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}

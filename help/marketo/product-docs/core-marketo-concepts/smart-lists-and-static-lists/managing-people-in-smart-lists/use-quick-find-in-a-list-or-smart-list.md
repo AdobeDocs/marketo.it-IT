@@ -19,13 +19,13 @@ Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare l&#39;elenco smart che si desidera cercare e quindi fare clic su **[!UICONTROL Persone]** scheda.
+1. Selezionare l&#39;elenco avanzato che si desidera cercare, quindi fare clic sulla scheda **[!UICONTROL Persone]**.
 
    ![](assets/smartlistpeople.png)
 
 ## Trova persone utilizzando le informazioni personali {#find-people-using-personal-info}
 
-1. In **[!UICONTROL Ricerca rapida]** nella parte inferiore dello schermo, digitare una parola chiave (**nome personale**, **indirizzo e-mail**, o **qualifica**).
+1. Nella casella **[!UICONTROL Ricerca rapida]** nella parte inferiore della schermata, digitare una parola chiave (**nome personale**, **indirizzo e-mail** o **titolo processo**).
 
    ![](assets/searchpeople.png)
 
@@ -33,7 +33,7 @@ Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando
 
 ## Trovare persone utilizzando il nome di una società {#find-people-using-a-company-name}
 
-1. Per trovare una società, digitare `[company]` nella casella Ricerca rapida, seguita da qualsiasi parte del nome dell&#39;azienda che si sta cercando.
+1. Per trovare una società, digitare `[company]` nella casella Ricerca rapida, seguito da una parte del nome della società che si sta cercando.
 
    ![](assets/supersmartlistsearch.jpg)
 

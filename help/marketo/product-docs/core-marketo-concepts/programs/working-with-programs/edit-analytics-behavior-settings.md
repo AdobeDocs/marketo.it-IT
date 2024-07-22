@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # Modifica impostazioni comportamento di Analytics {#edit-analytics-behavior-settings}
 
-È possibile impostare [comportamento di analytics a livello di amministrazione sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, ma puoi anche modificarlo a livello di programma. Ecco come.
+È possibile impostare il comportamento di [Analytics a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, ma è anche possibile modificarlo a livello di programma. Ecco come.
 
 1. Vai a **[!UICONTROL Attività di marketing]**.
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. In **[!UICONTROL Configurazione]** , trascinare [!UICONTROL Comportamento di Analytics] nell’area di lavoro.
+1. Nella scheda **[!UICONTROL Configurazione]**, trascina [!UICONTROL Comportamento di Analytics] nell&#39;area di lavoro.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 1%
 >
 >**Definizione**
 >
->**[!UICONTROL Inclusivo]** - Questa opzione garantisce che il programma sia disponibile per la generazione di rapporti in Esplora ricavi e analizzatori indipendentemente dal fatto che sia stato incluso o meno un costo del periodo.
+>**[!UICONTROL Inclusivo]** - Questa opzione garantisce che il programma sia disponibile per la generazione di rapporti in Esplora ricavi e analizzatori, indipendentemente dal fatto che sia stato incluso o meno un costo di periodo.
 >
->**[!UICONTROL Operativo]** - Con questa opzione, il programma non viene visualizzato in Esplora ricavi o negli analizzatori.
+>**[!UICONTROL Operativo]** - Con questa opzione il programma non viene visualizzato in Esplora ricavi o negli analizzatori.
 
 >[!NOTE]
 >

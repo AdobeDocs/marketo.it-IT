@@ -6,7 +6,7 @@ exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Imposta la presentazione del calendario in modo che rifletta gli obiettivi e le 
 
 >[!PREREQUISITES]
 >
->* [Crea obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [Smart List Goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
+>* [Crea obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} o [Obiettivi elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}
 >
->* [Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
+>* [Crea una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md){target="_blank"}
 
 ## Scelta delle viste {#choosing-the-views}
 
-Presentations passa da un ciclo all&#39;altro [definizioni dei filtri](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} tu scegli. Richiama tutte le visualizzazioni che desideri e personalizza la frequenza.
+Presentations passa da una definizione di [filtro](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/filtering-the-marketing-calendar.md){target="_blank"} all&#39;altra scelta. Richiama tutte le visualizzazioni che desideri e personalizza la frequenza.
 
 1. Dall&#39;albero destro trascinare le diverse viste da ruotare nella presentazione.
 
@@ -36,7 +36,7 @@ Presentations passa da un ciclo all&#39;altro [definizioni dei filtri](/help/mar
 
 ## Aggiungi un obiettivo {#add-a-goal}
 
-Presentations è il più fantastico quando mostra gli obiettivi del tuo team. Trascina su un’altra [obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} or [smart list goals](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. È possibile utilizzare fino a 10.
+Presentations è il più fantastico quando mostra gli obiettivi del tuo team. Trascina su [obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} o [obiettivi elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} diversi. È possibile utilizzare fino a 10.
 
 1. Nell&#39;albero a destra trascinare i diversi obiettivi che si desidera visualizzare nella presentazione.
 
@@ -46,7 +46,7 @@ Presentations è il più fantastico quando mostra gli obiettivi del tuo team. Tr
 
 Dopo aver inserito le viste desiderate nella presentazione, impostare la frequenza di rotazione tra le diverse viste.
 
-1. Clic **[!UICONTROL 5 minuti]** (questa è la cadenza predefinita).
+1. Fare clic su **[!UICONTROL 5 minuti]** (cadenza predefinita).
 
    ![](assets/image2015-3-18-13-3a17-3a29.png)
 
@@ -54,7 +54,7 @@ Dopo aver inserito le viste desiderate nella presentazione, impostare la frequen
 
    >[!NOTE]
    >
-   >Visualizzare una vista statica selezionando **[!UICONTROL Disattiva rotazione]**.
+   >Visualizzare una visualizzazione statica selezionando **[!UICONTROL Disattiva rotazione]**.
 
    ![](assets/image2015-3-18-13-3a22-3a18.png)
 
@@ -62,7 +62,7 @@ Dopo aver inserito le viste desiderate nella presentazione, impostare la frequen
 
 È possibile impostare la visualizzazione del calendario su 3 settimane o mensile.
 
-1. Seleziona la **[!UICONTROL Visualizzazione calendario]** e scegliere tra **[!UICONTROL 3 settimane]** o uno **[!UICONTROL Mese]**.
+1. Seleziona l&#39;elenco a discesa **[!UICONTROL Visualizzazione calendario]** e scegli tra **[!UICONTROL 3 settimane]** o un **[!UICONTROL Mese]**.
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
@@ -70,13 +70,13 @@ Dopo aver inserito le viste desiderate nella presentazione, impostare la frequen
 
 >[!TIP]
 >
->Imposta un [immagine di sfondo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} per la presentazione. Suggeriamo gattini o arcobaleni.
+>Imposta [immagine di sfondo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} per la presentazione. Suggeriamo gattini o arcobaleni.
 
 ## Anteprima di una presentazione {#preview-a-presentation}
 
 Una volta configurata, la presentazione è pronta per essere visualizzata in anteprima e avviata.
 
-1. Seleziona **[!UICONTROL Anteprima]**.
+1. Selezionare **[!UICONTROL Anteprima]**.
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
@@ -89,4 +89,4 @@ Una volta configurata, la presentazione è pronta per essere visualizzata in ant
 >[!MORELIKETHIS]
 >
 >* [Aggiungere un&#39;immagine di sfondo a una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"}
->* [Avviare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}
+>* [Avvia una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/launch-a-presentation.md){target="_blank"}

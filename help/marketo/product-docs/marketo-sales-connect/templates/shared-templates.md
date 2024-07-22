@@ -19,7 +19,7 @@ Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per
 
 ## Come trovare i modelli condivisi  {#how-to-find-shared-templates}
 
-I modelli condivisi con te verranno visualizzati nella sezione **Modelli team** sulla sinistra della pagina Modelli.
+I modelli condivisi con te verranno visualizzati nell&#39;intestazione **Modelli team** sul lato sinistro della pagina Modelli.
 
 >[!NOTE]
 >

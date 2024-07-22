@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Creare una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
+>* [Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Crea una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 >* [Aggiungere un nuovo modulo a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-new-form-to-a-free-form-landing-page.md)
 
 L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le persone con informazioni mirate.
@@ -49,17 +49,17 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le per
 
 ## Rendi elemento dinamico {#make-element-dynamic}
 
-1. Trascina gli elementi da Static a **Dinamico**.
+1. Trascina gli elementi da Static a **Dynamic**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. Puoi anche rendere gli elementi statici o dinamici dall’elemento **Impostazioni**.
+1. È inoltre possibile rendere gli elementi statici o dinamici dall&#39;elemento **Impostazioni**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Applicare contenuti dinamici {#apply-dynamic-content}
 
-1. Seleziona un elemento sotto un segmento, quindi fai clic su **Modifica**. Ripeti per ogni segmento.
+1. Selezionare un elemento in un segmento, quindi fare clic su **Modifica**. Ripeti per ogni segmento.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

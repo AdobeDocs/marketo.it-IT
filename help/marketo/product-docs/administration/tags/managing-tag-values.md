@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Gestione dei valori dei tag {#managing-tag-values}
 
-[Tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) vengono utilizzati per descrivere i programmi. Puoi crearne quanti ne hai bisogno, ciascuno con valori univoci. Ecco come gestire questi valori.
+[Tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) utilizzati per descrivere i programmi. Puoi crearne quanti ne hai bisogno, ciascuno con valori univoci. Ecco come gestire questi valori.
 
 >[!NOTE]
 >
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creare un nuovo tag programma e valori di tag](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
+>[Crea un nuovo tag programma e valori tag](/help/marketo/product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
 
 ## Aggiunta di valori di tag {#adding-tag-values}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/managing-tag-values-1.png)
 
-1. Clic **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tag]**.
 
    ![](assets/managing-tag-values-2.png)
 
-1. Clic **[!UICONTROL Nuovo]**, quindi **[!UICONTROL Nuovo valore tag]**.
+1. Fai clic su **[!UICONTROL Nuovo]**, quindi su **[!UICONTROL Nuovo valore tag]**.
 
    ![](assets/managing-tag-values-3.png)
 
-1. Seleziona la **[!UICONTROL Tipo di tag]**.
+1. Seleziona il **[!UICONTROL Tipo di tag]**.
 
    ![](assets/managing-tag-values-4.png)
 
-1. Immetti un **[!UICONTROL Valore]** e fai clic su **[!UICONTROL Aggiungi un altro]**. È possibile aggiungere tutti i valori desiderati.
+1. Immetti un **[!UICONTROL Valore]** e fai clic su **[!UICONTROL Aggiungi altro]**. È possibile aggiungere tutti i valori desiderati.
 
    ![](assets/managing-tag-values-5.png)
 
@@ -57,11 +57,11 @@ Dovresti vedere le modifiche immediatamente!
 
 I tag potrebbero essere utilizzati da programmi precedenti. Per renderle obsolete e utilizzarle in futuro, nascondi il tipo di tag.
 
-1. Seleziona la **[!UICONTROL Tag]** e seleziona la **[!UICONTROL Valore]** vuoi nasconderti.
+1. Seleziona il **[!UICONTROL Tag]** e seleziona il **[!UICONTROL Valore]** che desideri nascondere.
 
    ![](assets/managing-tag-values-8.png)
 
-1. Sotto **[!UICONTROL Azioni tag]**, seleziona **[!UICONTROL Nascondi]**.
+1. In **[!UICONTROL Azioni tag]**, seleziona **[!UICONTROL Nascondi]**.
 
    ![](assets/managing-tag-values-9.png)
 
@@ -69,7 +69,7 @@ I tag potrebbero essere utilizzati da programmi precedenti. Per renderle obsolet
 
 Se si desidera visualizzare nuovamente i valori nascosti, eseguire le operazioni seguenti:
 
-1. Seleziona la **[!UICONTROL Mostra nascosti]** casella di controllo. Una volta selezionata, è possibile visualizzare il valore nascosto.
+1. Selezionare la casella di controllo **[!UICONTROL Mostra nascosti]**. Una volta selezionata, è possibile visualizzare il valore nascosto.
 
    ![](assets/managing-tag-values-10.png)
 

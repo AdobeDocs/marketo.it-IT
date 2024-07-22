@@ -6,7 +6,7 @@ exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
 source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '621'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Dovrai configurarlo per iniziare a utilizzare Sales Insight in SFDC.
 
 Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche per i profili.
 
-**Impostazioni pagina di Visualforce**
+**Impostazioni pagina Visualforce**
 
 * Menu a discesa Abilita azione:
    * Possibilità di nascondere l’elenco a discesa Invia e-mail Marketo in Layout MSI lead e contatto
@@ -40,7 +40,7 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
-**Scheda globale di Marketo**
+**Scheda globale Marketo**
 
 * Feed RSS abilitato: se abilitato, gli utenti MSI possono visualizzare il proprio feed di lead in un feed RSS (oltre al feed di lead in Salesforce). Il feed RSS può funzionare solo se la funzione &quot;Scadenza token&quot; è disabilitata. Questa impostazione è controllata nella pagina di amministrazione di Marketo Sales Insight.
 * Modalità di debug elementi di maggiore rilevanza
@@ -81,4 +81,4 @@ La scelta di eseguire questa operazione cancellerà tutte le configurazioni in S
 
 >[!MORELIKETHIS]
 >
->[Aggiungere l’accesso a Sales Insight ai profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[Aggiungi accesso a Sales Insight ai profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

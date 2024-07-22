@@ -5,7 +5,7 @@ exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,12 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 
 Ecco come valutare lo stato del modello.
 
-Accedi a **[!UICONTROL Modelli e integrità dei dati]** sezione in **[!UICONTROL Predictive Audiences]** nel **[!UICONTROL Amministratore]** area di Marketo Engage. Qui vedrai tutti i tuoi modelli e i loro stati.
+Passa alla sezione **[!UICONTROL Modelli e integrità dei dati]** in **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** del Marketo Engage. Qui vedrai tutti i tuoi modelli e i loro stati.
 
-![Immagine uno](assets/models-and-insights-1.png)
+![Immagine Uno](assets/models-and-insights-1.png)
 
-* **Stato apprendimento**: indica se il modello si sta addestrando attivamente (migliorando le previsioni). L’addestramento viene eseguito automaticamente ogni 2 settimane. Qualsiasi modello che sia _Elaborazione_ potrebbero essere necessarie fino a 24 ore per terminare. Per qualsiasi _Non riuscito_ modelli, contattare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Stato apprendimento**: indica se il modello sta eseguendo un addestramento attivo (migliorando le previsioni). L’addestramento viene eseguito automaticamente ogni 2 settimane. Il completamento di qualsiasi modello _in elaborazione_ potrebbe richiedere fino a 24 ore. Per qualsiasi modello _Non riuscito_, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 * **Stato punteggio**: indica se il modello sta calcolando attivamente le previsioni (percentuali di probabilità) per i membri del programma.
-* **Prestazioni**: categorizzazione dello stato del modello in base alla completezza e alla qualità dei dati (vedi di seguito).
-* **Completezza dei dati**: percentuale di attributi di dati presenti/completi.
+* **Prestazioni**: categorizzazione dell&#39;integrità del modello in base alla completezza dei dati e alla qualità dei dati (vedere di seguito).
+* **Completezza dati**: percentuale di attributi di dati presenti/completi.
 * **Qualità dei dati**: percentuale di attributi che contengono dati validi e utilizzabili.

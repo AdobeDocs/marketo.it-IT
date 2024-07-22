@@ -18,7 +18,7 @@ La vista Dettagli persona fornisce un profilo dettagliato di ogni persona nel tu
 
 ## Come accedere {#how-to-access}
 
-1. Per accedere alla visualizzazione dei dettagli della persona, fare clic su **Persone** scheda.
+1. Per accedere alla visualizzazione dettagli persona, fare clic sulla scheda **Persone**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -89,11 +89,11 @@ PICC
 
 * Visualizza tutte le campagne di marketing di cui questa persona è membro
 
-**E-mail vendite**
+**E-Mail Vendite**
 
 * Visualizza tutte le e-mail che hai inviato a questa persona e le metriche di coinvolgimento
 
-**Chiamate di vendita**
+**Chiamate per la vendita**
 
 * Visualizza le chiamate effettuate a questa persona
 

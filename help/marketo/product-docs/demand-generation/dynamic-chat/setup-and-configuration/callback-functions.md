@@ -80,7 +80,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
+Il parametro `event` è un oggetto con metadati relativi alla conversazione. È possibile accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui è possibile accedere:
 
@@ -145,7 +145,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
+Il parametro `event` è un oggetto con metadati relativi alla conversazione. È possibile accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui è possibile accedere:
 
@@ -199,7 +199,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
+Il parametro `event` è un oggetto con metadati relativi alla conversazione. È possibile accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui è possibile accedere:
 
@@ -304,7 +304,7 @@ window.addEventListener('adobedx.conversations.ready', () => {
 }); 
 ```
 
-Il `event` Il parametro è un oggetto con metadati relativi alla conversazione. Puoi accedere a questi metadati accedendo a `event.data`.
+Il parametro `event` è un oggetto con metadati relativi alla conversazione. È possibile accedere a questi metadati accedendo a `event.data`.
 
 Di seguito sono riportati alcuni valori di metadati chiave a cui è possibile accedere:
 

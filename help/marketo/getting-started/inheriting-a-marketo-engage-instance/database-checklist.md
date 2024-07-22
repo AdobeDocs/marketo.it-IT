@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Istanza ereditata: elenco di controllo del database {#inherited-instance-database-checklist}
 
-Comprendi il numero totale di persone, persone commerciabili e principali sorgenti di acquisizione persone nel tuo abbonamento. Ricorda a [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tieni traccia dei tuoi progressi.
+Comprendi il numero totale di persone, persone commerciabili e principali sorgenti di acquisizione persone nel tuo abbonamento. Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) e tenere traccia dell&#39;avanzamento.
 
 ## Elenchi smart di sistema {#system-smart-lists}
 
@@ -43,21 +43,21 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr>
    <tr> 
    <td>INSERISCO NELL'ELENCO BLOCCATI DI</td> 
-   <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">record in inserita nell'elenco Bloccati</a>? Inserire nell'elenco Bloccati Ci sono troppe persone che sono?</li></td>
+   <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">inserire nell'elenco Bloccati i record</a>? Inserire nell'elenco Bloccati Ci sono troppe persone che sono?</li></td>
   </tr>
   <tr> 
    <td>Indirizzi e-mail non recapitati</td> 
-   <td><li>Ha molti <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">persone che non hanno risposto</a> nel database?
+   <td><li>Ci sono molte <a href="/help/marketo/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md" target="_blank">persone che hanno rimbalzato</a> nel tuo database?
    <br/>     In caso affermativo, valutare la possibilità di indagare sul motivo.</li></td></li></td>
   </tr>
   <tr> 
    <td>Possibili duplicati</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">record potenzialmente duplicati</a> ci sono?
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md" target="_blank">record potenzialmente duplicati</a> sono presenti?
    <br/>     Provare a eliminarle o unirle.</li></td>
   </tr>
    <tr> 
    <td>Nessun programma di acquisizione</td> 
-   <td><li>Quante persone non hanno un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programma di acquisizione</a>?
+   <td><li>Quante persone non dispongono di un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programma di acquisizione</a>?
    <br/>     Se ci sono molte cose, puoi indagare il perché.</li></td>
   </tr>
  </tbody> 
@@ -73,11 +73,11 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr> 
   <tr> 
    <td>Elenchi smart</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">Elenchi smart</a> ci sono? Come vengono utilizzati in questa istanza?</li>
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md" target="_blank">elenchi avanzati</a> sono presenti? Come vengono utilizzati in questa istanza?</li>
    <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: nella sezione Database, gli elenchi smart di gruppo sono generati dall'utente e gli elenchi smart di sistema sono elenchi predefiniti creati dal Marketo Engage.
 <li>Gli elenchi sono organizzati in una struttura di cartelle coesa? 
 <br/>     Se disponi di elenchi orfani, puoi organizzare la struttura in modo che le risorse siano facili da trovare.</li>
-<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviare</a> Gli elenchi avanzati che non sono più necessari aiuteranno con l’organizzazione e le prestazioni.</td>
+<p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: <a href="/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.md#archive-a-folder" target="_blank">Archiviazione</a> degli elenchi avanzati non più necessari per migliorare l'organizzazione e le prestazioni.</td>
   </tr>
  </tbody> 
 </table>
@@ -92,7 +92,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr> 
   <tr> 
    <td>Elenchi statici</td> 
-   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Elenchi statici</a> ci sono? Come vengono utilizzati in questa istanza?</li>
+   <td><li>Quanti <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md" target="_blank">Elenchi statici</a> sono presenti? Come vengono utilizzati in questa istanza?</li>
    <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: nella sezione Database gli elenchi di gruppi sono elenchi statici.</td>
   </tr>
  </tbody> 
@@ -108,8 +108,8 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
   </tr> 
   <tr> 
    <td>Segmentazioni</td> 
-   <td><li>Quale <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentazioni</a> ci sono? Come vengono utilizzati?</li>
-<li>Ci sono troppe persone in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmenti predefiniti</a>?</li>
+   <td><li>Quali <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" target="_blank">segmentazioni</a> sono presenti? Come vengono utilizzati?</li>
+<li>Troppe persone in <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md" target="_blank">segmenti predefiniti</a>?</li>
 <li>Esiste una segmentazione per il pubblico commerciabile? 
 <br/>     In caso contrario, puoi crearne una.</li></td>
   </tr>

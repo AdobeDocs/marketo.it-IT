@@ -15,23 +15,23 @@ ht-degree: 0%
 
 A volte può essere necessario salvare un rapporto predefinito per visualizzarlo nuovamente in un secondo momento. Ecco come farlo:
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Seleziona un [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selezionare un tipo di report [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 
-1. Clic **Azioni report** e seleziona **Salva con nome**.
+1. Fai clic su **Azioni report** e seleziona **Salva con nome**.
 
    ![](assets/image2015-4-20-17-3a4-3a11.png)
 
-1. **Salva in** una posizione e selezionare una **Cartella**.
+1. **Salva in** un percorso e seleziona una **cartella**.
 
    ![](assets/image2015-4-20-17-3a33-3a25.png)
 
-1. **Nome** il rapporto e fai clic su **Salva**.
+1. **Denomina** il report e fai clic su **Salva**.
 
    ![](assets/image2015-4-20-17-3a34-3a57.png)
 
@@ -41,4 +41,4 @@ A volte può essere necessario salvare un rapporto predefinito per visualizzarlo
 
 >[!MORELIKETHIS]
 >
->Scopri come [clonare un rapporto per raggruppare i rapporti](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).
+>Scopri come [clonare un report per raggruppare i report](/help/marketo/product-docs/reporting/basic-reporting/report-activity/clone-a-report-to-group-reports.md).

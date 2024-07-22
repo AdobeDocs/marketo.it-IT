@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Elenco di controllo per l&#39;installazione {#setup-checklist}
 
-Benvenuto in Marketo. Puoi utilizzare il seguente elenco di controllo come elenco visivo delle cose da fare per iniziare. I dettagli sono disponibili in [Passaggi di configurazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
+Benvenuto in Marketo. Puoi utilizzare il seguente elenco di controllo come elenco visivo delle cose da fare per iniziare. I dettagli sono disponibili in [Passaggi di installazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}.
 
 ## Accedi a Marketo e crea altri utenti {#log-in-to-marketo-and-create-additional-users}
 
@@ -35,7 +35,7 @@ Benvenuto in Marketo. Puoi utilizzare il seguente elenco di controllo come elenc
 1. Seleziona un CNAME e-mail per i collegamenti di tracciamento con brand
 1. Chiedi al reparto IT di impostare un record DNS per il CNAME e-mail
 1. Inserire nell&#39;elenco Consentiti Chiedi al reparto IT di Marketo
-1. Configurare DKIM e SPF nel [!UICONTROL Amministratore] area
+1. Configura DKIM e SPF nell&#39;area [!UICONTROL Amministratore]
 1. Configura MX per `[FromDomain1]`
 1. Una volta che l’E-mail CNAME è stata completata, imposta il tuo CNAME e-mail in Marketo
 
@@ -53,4 +53,4 @@ Benvenuto in Marketo. Puoi utilizzare il seguente elenco di controllo come elenc
 
 >[!MORELIKETHIS]
 >
->[Passaggi di configurazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+>[Passaggi di installazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}

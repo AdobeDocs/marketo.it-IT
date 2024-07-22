@@ -16,7 +16,7 @@ Come parte di Campaign Sync, gli utenti possono impostare l’automazione per fu
 
 >[!PREREQUISITES]
 >
->Aggiornamento alla versione più recente del plug-in Dynamics per Marketi Engage.
+>Aggiornamento alla versione più recente del plug-in Dynamics per Marketo Engage.
 
 Sono disponibili le seguenti azioni di flusso:
 
@@ -25,14 +25,14 @@ Sono disponibili le seguenti azioni di flusso:
 
 >[!NOTE]
 >
->**[!UICONTROL Rimuovi da Microsoft Campaign]** rimuoverà solo le persone che sono state aggiunte utilizzando azioni di flusso in Marketo.
+>**[!UICONTROL Rimuovi da Microsoft Campaign]** rimuoverà solo le persone aggiunte tramite azioni di flusso in Marketo.
 
 Sono inoltre disponibili due trigger:
 
 * [!UICONTROL Aggiunto a Microsoft Campaign]
 * [!UICONTROL Rimosso da Microsoft Campaign]
 
-I trigger verranno eseguiti in base alle azioni dell’azione Flusso di Marketo &quot;[!UICONTROL Aggiungi a Microsoft Campaign]&quot; e &quot;[!UICONTROL Rimosso da Microsoft Campaign].&quot;
+I trigger verranno eseguiti in base alle azioni dell&#39;azione di flusso di Marketo &quot;[!UICONTROL Aggiungi a campagna Microsoft]&quot; e &quot;[!UICONTROL Rimosso da campagna Microsoft]&quot;.
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ I trigger verranno eseguiti in base alle azioni dell’azione Flusso di Marketo 
 >[!MORELIKETHIS]
 >
 >* [Abilita sincronizzazione campagne](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Aggiungere o rimuovere persone da Dynamics Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Aggiungi o rimuovi persone dalla tua campagna Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}

@@ -14,11 +14,11 @@ ht-degree: 0%
 
 Visualizzare un elenco di tutte le attività e dei relativi dettagli di accompagnamento, inclusi nome, proprietario, tipo e autore e quando sono state modificate.
 
-1. In IA generativa, fai clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
 
    ![](assets/activity-log-1.png)
 
-1. Fai clic su **[!UICONTROL Registro attività]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Registro attività]**.
 
    ![](assets/activity-log-2.png)
 

@@ -1,7 +1,7 @@
 ---
 unique-page-id: 2359845
-description: Pubblicare un’offerta di riferimento - Documentazione di Marketo - Documentazione del prodotto
-title: Pubblicare un’offerta di riferimento
+description: Offerta di riferimento Publish a - Documentazione Marketo - Documentazione del prodotto
+title: Publish un'offerta di riferimento
 exl-id: 48335902-cb43-44ea-9f19-2fe49105bb45
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
@@ -11,19 +11,19 @@ ht-degree: 0%
 
 ---
 
-# Pubblicare un’offerta di riferimento {#publish-a-referral-offer}
+# Publish un&#39;offerta di riferimento {#publish-a-referral-offer}
 
-Dopo di te [creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi pubblicarlo sulle pagine di destinazione di Marketo, su Facebook e sul tuo sito web.
+Dopo aver [creato un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi pubblicarla nelle pagine di destinazione di Marketo, su Facebook e sul sito Web.
 
 1. Passa alla pagina di destinazione e aprila per modificarla.
 
    ![](assets/image2014-9-19-11-3a15-3a30.png)
 
-1. Trascina **Offerta di riferimento** dalla palette a destra.
+1. Trascina sulla **Offerta di riferimento** dalla palette a destra.
 
    ![](assets/image2014-9-19-11-3a15-3a42.png)
 
-1. Seleziona l’offerta di riferimento e fai clic su **Inserisci**.
+1. Seleziona l&#39;offerta di riferimento e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-19-11-3a15-3a52.png)
 
@@ -31,7 +31,7 @@ Dopo di te [creare un’offerta di riferimento](/help/marketo/product-docs/deman
 >
 >È necessario approvare l’offerta di riferimento per renderla disponibile qui.
 
-Congratulazioni! Approva la pagina di destinazione e la tua offerta di riferimento è live. È inoltre possibile [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [inserisci l’offerta sul tuo sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
+Congratulazioni! Approva la pagina di destinazione e la tua offerta di riferimento è live. Puoi anche [pubblicare la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) o [pubblicare l&#39;offerta sul tuo sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md).
 
 >[!TIP]
 >

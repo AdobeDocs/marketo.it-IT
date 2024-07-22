@@ -17,13 +17,13 @@ Hai così tante campagne che lo scorrimento sta diventando complicato? Utilizza 
 
 ## Aggiungere un’etichetta a una campagna web {#add-a-label-to-a-web-campaign}
 
-1. Accedi a Personalizzazione web e vai all’area Campagne web.
+1. Accedi a Web Personalization e vai all’area Campagne web.
 
    ![](assets/web-campaigns-hand.jpg)
 
    >[!NOTE]
    >
-   >Per trovare più facilmente la campagna desiderata, utilizza [funzione filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
+   >Per semplificare la ricerca della campagna desiderata, utilizzare la funzionalità [filtro](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/filter-web-campaigns.md).
 
 1. Seleziona le campagne a cui vuoi assegnare un tag con un’etichetta.
 

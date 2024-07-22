@@ -7,7 +7,7 @@ feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,22 +19,22 @@ I collegamenti nelle e-mail di abbonamento al report scadono dopo tre giorni. Pe
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** sezione.
+1. Vai alla sezione **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-1.png)
 
-1. Clic **[!UICONTROL Impostazioni di accesso]**.
+1. Fare clic su **[!UICONTROL Impostazioni accesso]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-2.png)
 
-1. Clic **[!UICONTROL Modifica scadenza URL]**.
+1. Fai clic su **[!UICONTROL Modifica scadenza URL]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-3.png)
 
-1. Nell’elenco a discesa, seleziona il numero di giorni precedenti alla scadenza del collegamento. Clic **[!UICONTROL Salva]**.
+1. Nell’elenco a discesa, seleziona il numero di giorni precedenti alla scadenza del collegamento. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/edit-link-expiration-in-reports-and-alerts-4.png)
 
 >[!IMPORTANT]
 >
->Questa impostazione si applica solo ai collegamenti nei report e negli avvisi. È vero **non** applica all’e-mail [scarica rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) e-mail di collegamento o marketing.
+>Questa impostazione si applica solo ai collegamenti nei report e negli avvisi. **non** si applica al collegamento del [rapporto di download](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md#email-message) o alle e-mail di marketing inviate tramite e-mail.

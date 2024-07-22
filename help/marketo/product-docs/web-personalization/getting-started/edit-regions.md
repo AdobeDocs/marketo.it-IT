@@ -19,7 +19,7 @@ Vuoi modificare le impostazioni internazionali dell’utente per visualizzare so
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 
-1. Clic **Modifica aree geografiche**.
+1. Fai clic su **Modifica aree geografiche**.
 
    ![](assets/image2014-12-3-18-3a55-3a25.png)
 

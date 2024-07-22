@@ -19,7 +19,7 @@ Affinché Marketo possa richiamare dati (collegamenti in entrata e consigli) rel
 >
 >Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-## [!UICONTROL Aggiungi un sito] {#add-a-site}
+## [!UICONTROL Aggiungi sito] {#add-a-site}
 
 1. Fai clic sul menu a discesa Amministratore e seleziona **[!UICONTROL Amministratore]**.
 
@@ -29,15 +29,15 @@ Affinché Marketo possa richiamare dati (collegamenti in entrata e consigli) rel
 
    ![](assets/one.png)
 
-1. Clic **[!UICONTROL Aggiungi sito]**.
+1. Fare clic su **[!UICONTROL Aggiungi sito]**.
 
    ![](assets/two.png)
 
-1. Inserisci il **[!UICONTROL Nome], [!UICONTROL URL sito Web]** e fai clic su **[!UICONTROL Salva]**.
+1. Immetti **[!UICONTROL Nome], [!UICONTROL URL sito Web]** e fai clic su **[!UICONTROL Salva]**.
 
    >[!TIP]
    >
-   >Puoi anche aggiungere una **[!UICONTROL URL blog]** se ne hai uno.
+   >Puoi anche aggiungere un **[!UICONTROL URL blog]**, se ne hai uno.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -57,14 +57,14 @@ Se tieni traccia di più siti, puoi anche eliminare un sito che non ti interessa
 
    ![](assets/six.png)
 
-1. Clic **[!UICONTROL Elimina]**.
+1. Fare clic su **[!UICONTROL Elimina]**.
 
    ![](assets/seven.png)
 
-1. Conferma che desideri **[!UICONTROL Elimina]**.
+1. Conferma di voler **[!UICONTROL eliminare]**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >È possibile eliminare un sito solo se ne sono presenti più di uno. Se ne hai solo uno, puoi eseguire una reimpostazione selezionando il sito e facendo clic su **[!UICONTROL Reimposta]**. Reimpostare un sito _elimina tutti i dati del sito_ e ricreare il sito.
+   >È possibile eliminare un sito solo se ne sono presenti più di uno. Se ne hai uno solo, puoi eseguire una reimpostazione selezionando il sito e facendo clic su **[!UICONTROL Reimposta]**. La reimpostazione di un sito _eliminerà tutti i dati del sito_ e ricreerà il sito.

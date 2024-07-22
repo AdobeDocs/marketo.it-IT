@@ -5,7 +5,7 @@ exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '830'
+source-wordcount: '823'
 ht-degree: 18%
 
 ---
@@ -66,7 +66,7 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Microsoft, Mar
     <tr>
       <td>Telefono</td>
       <td>Telefono (uff.)</td>
-      <td>telephone1</td>
+      <td>telefono1</td>
     </tr>
     <tr>
       <td>Mobile</td>
@@ -104,8 +104,8 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Microsoft, Mar
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Origine persona</td>
-      <td>Fonte lead</td>
+      <td>Source della persona</td>
+      <td>Fonte Lead</td>
       <td>lead sourcecode</td>
     </tr>
     <tr>
@@ -166,7 +166,7 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Microsoft, Mar
     <tr>
       <td>Telefono Microsoft (ab.)</td>
       <td>Telefono abitazione</td>
-      <td>telephone2</td>
+      <td>telefono2</td>
     </tr>
     <tr>
       <td>Metodo Di Contatto Preferito Da Microsoft</td>
@@ -306,7 +306,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Telefono</td>
       <td>Telefono (uff.)</td>
-      <td>telephone1</td>
+      <td>telefono1</td>
     </tr>
     <tr>
       <td>Mobile</td>
@@ -376,7 +376,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Telefono Microsoft (ab.)</td>
       <td>Telefono abitazione</td>
-      <td>telephone2</td>
+      <td>telefono2</td>
     </tr>
     <tr>
       <td>Metodo Di Contatto Preferito Da Microsoft</td>
@@ -435,7 +435,7 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
     </tr>
     <tr>
       <td>Punteggio della persona</td>
-      <td>Punteggio lead</td>
+      <td>Punteggio Lead</td>
       <td>mkt_leadingScore</td>
     </tr>
     <tr>
@@ -525,7 +525,7 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
     <tr>
       <td>Numero di telefono</td>
       <td>Numero di telefono</td>
-      <td>telephone1</td>
+      <td>telefono1</td>
     </tr>
     <tr>
       <td>Tipo di azienda</td>

@@ -6,7 +6,7 @@ exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Le schede facebook pubblicate da Marketo rilevano i dispositivi mobili e li indi
 
 ## Disponibile a breve: supporto per più modelli {#coming-soon-support-for-multiple-models}
 
-Stiamo gettando le basi per supportare modelli di cicli di fatturato multipli, votati #1&#39;idea per RCA nella Comunità, in una versione futura. In questa versione, noterai alcune modifiche tra cui [Filtri per elenchi avanzati e Aggiungi scelte nei passaggi del flusso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e di uno stadio. Stiamo inoltre spostando i campi Fase ricavi lead e Modello ciclo ricavi lead dalla scheda Griglia lead elenco avanzato.
+Stiamo gettando le basi per supportare modelli di cicli di fatturato multipli, votati #1&#39;idea per RCA nella Comunità, in una versione futura. In questa versione, noterai alcune modifiche tra cui [Filtri per elenchi avanzati e Aggiungi scelte nei passaggi del flusso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e un&#39;area di visualizzazione. Stiamo inoltre spostando i campi Fase ricavi lead e Modello ciclo ricavi lead dalla scheda Griglia lead elenco avanzato.

@@ -19,19 +19,19 @@ Segui questi passaggi per creare un rapporto di analisi delle e-mail che mostrer
 >
 >Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
-1. Launch **Gestione ricavi**.
+1. Avvia **Gestione ricavi**.
 
    ![](assets/report-that-shows-program-information-1.png)
 
-1. Clic **Crea nuovo** e seleziona **Report**.
+1. Fai clic su **Crea nuovo** e seleziona **Rapporto**.
 
    ![](assets/report-that-shows-program-information-2.png)
 
-1. Seleziona **Analisi e-mail** e fai clic su **OK**.
+1. Seleziona l&#39;area **Analisi e-mail** e fai clic su **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a20.png)
 
-1. Trova il **Inviato (Settimana)** punto giallo e fare clic con il pulsante destro del mouse su di esso. Clic **Filtro**.
+1. Trova il punto giallo **Inviato (Settimana)** e fai clic con il pulsante destro del mouse su di esso. Fai clic su **Filtro**.
 
    >[!NOTE]
    >
@@ -39,19 +39,19 @@ Segui questi passaggi per creare un rapporto di analisi delle e-mail che mostrer
 
    ![](assets/image2014-9-17-19-3a43-3a49.png)
 
-1. Verifica **Settimana inviata corrente** e fai clic su **OK**.
+1. Controlla **Settimana inviata corrente** e fai clic su **OK**.
 
    ![](assets/image2014-9-17-19-3a43-3a59.png)
 
-1. Trova e fai doppio clic su **Canale del programma** punto giallo.
+1. Trova e fai doppio clic sul punto giallo del **canale del programma**.
 
    ![](assets/image2014-9-17-19-3a44-3a14.png)
 
-1. Trova e fai doppio clic su **Nome e-mail** punto giallo.
+1. Trova e fai doppio clic sul **Nome e-mail** punto giallo.
 
    ![](assets/image2014-9-17-19-3a44-3a34.png)
 
-1. Trova e fai doppio clic su **Inviato**, **Aperto** e **Clic effettuato** punti blu.
+1. Trova e fai doppio clic sui **puntini blu inviati**, **aperti** e **selezionati**.
 
    ![](assets/image2014-9-17-19-3a44-3a41.png)
 

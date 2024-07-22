@@ -1,7 +1,7 @@
 ---
 unique-page-id: 1147124
-description: Utilizzo della scheda Risorse - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo della scheda Risorse
+description: Utilizzo della scheda Assets - Documentazione Marketo - Documentazione del prodotto
+title: Utilizzo della scheda Assets
 exl-id: 7e7679bb-f83d-4b7f-adfb-2733259eeac2
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
@@ -11,13 +11,13 @@ ht-degree: 0%
 
 ---
 
-# Utilizzo della scheda Risorse {#using-the-assets-tab}
+# Utilizzo della scheda Assets {#using-the-assets-tab}
 
 L’area di lavoro delle risorse è una rappresentazione visiva del programma predefinito o dell’evento. Puoi utilizzarlo per aggiungere risorse locali e interagire con quelle esistenti.
 
-## Aggiunta di risorse {#adding-assets}
+## Aggiunta di Assets {#adding-assets}
 
-Fai clic su **[!UICONTROL Risorse]** nel programma desiderato. Scegli una delle risorse seguenti e aggiungile al programma.
+Fare clic sulla scheda **[!UICONTROL Assets]** nel programma desiderato. Scegli una delle risorse seguenti e aggiungile al programma.
 
 ![](assets/programassets.png)
 
@@ -37,7 +37,7 @@ Puoi fare clic con il pulsante destro del mouse sull’intestazione se desideri 
 >
 >Trascina per ridisporre le colonne della risorsa.
 
-Le risorse non locali per il programma avranno un aspetto simile a questo:
+Assets che non sono locali per il programma sarà simile al seguente:
 
 ![](assets/image2014-9-18-16-3a30-3a33.png)
 

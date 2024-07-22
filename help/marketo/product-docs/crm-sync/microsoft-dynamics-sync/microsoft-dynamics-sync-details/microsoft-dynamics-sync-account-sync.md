@@ -6,7 +6,7 @@ exl-id: 86249d33-60dd-47e1-a7c8-3996c9444084
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ No. Marketo non può creare account in Dynamics.
 
 ## Quali campi verranno sincronizzati con Marketo? {#which-fields-will-sync-to-marketo}
 
-È possibile [seleziona i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione. Marketo sincronizzerà solo i campi a cui l’utente di Dynamics Sync ha accesso.
+È possibile [selezionare i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione. Marketo sincronizzerà solo i campi a cui l’utente di Dynamics Sync ha accesso.
 
 ## Una modifica in un campo account in Dynamics determina un registro attività Modifica valore dati per ogni contatto?  {#does-a-change-in-an-account-field-in-dynamics-results-in-a-change-data-value-activity-log-for-each-contact}
 

@@ -17,11 +17,11 @@ Quando crei un’offerta di riferimento, definisci l’obiettivo di adempimento.
 
 ## Recuperare lo script di conversione {#retrieve-the-conversion-script}
 
-1. Nell’editor delle offerte di riferimento, fai clic su **Dettagli offerta** e quindi seleziona **Evento JavaScript del cliente** dal menu a discesa obiettivo di adempimento.
+1. Nell&#39;editor delle offerte di riferimento, fare clic su **Dettagli offerta** e quindi selezionare **Evento JavaScript cliente** dal menu a discesa obiettivo di evasione.
 
    ![](assets/image2015-4-20-17-3a22-3a15.png)
 
-1. Copiare lo script superiore nella casella grigia e inserirlo nella pagina Web all&#39;interno di `<body>` tag. Lo script inferiore viene posizionato all&#39;interno del `<header>` tag.
+1. Copiare lo script superiore nella casella grigia e inserirlo nella pagina Web all&#39;interno dei tag `<body>`. Lo script inferiore si trova all&#39;interno dei tag `<header>`.
 
    ![](assets/image2015-4-20-17-3a29-3a7.png)
 
@@ -31,11 +31,11 @@ Quando crei un’offerta di riferimento, definisci l’obiettivo di adempimento.
 
 ## Recuperare lo script del caricatore {#retrieve-the-loader-script}
 
-1. Seleziona l’offerta di riferimento dalla struttura, quindi fai clic su **Azioni offerta di riferimento** e **Codice di incorporamento**.
+1. Seleziona l&#39;offerta di riferimento dalla struttura, quindi fai clic su **Azioni offerta di riferimento** e **Codice di incorporamento**.
 
    ![](assets/image2015-4-20-17-3a34-3a46.png)
 
-1. Fare clic con il pulsante destro del mouse **Codice intestazione** e inseriscilo nell’intestazione della pagina web. Quindi fai lo stesso per **Codice corpo**.
+1. Fare clic con il pulsante destro del mouse su **Codice intestazione** e inserirlo nell&#39;intestazione della pagina Web. Eseguire quindi le stesse operazioni per il **codice corpo**.
 
    ![](assets/image2015-4-20-20-3a49-3a19.png)
 
@@ -47,7 +47,7 @@ Incolla gli script di conversione nel HTML per il corpo e l’intestazione. Quin
 
 ## Collegamento dello script di conversione {#connecting-the-conversion-script}
 
-Qui puoi scrivere una funzione JavaScript che utilizza l’ID HTML specifico di qualsiasi elemento della pagina che desideri attivare per il completamento dell’obiettivo. Ad esempio:
+Qui è dove scriverai una funzione JavaScript che utilizza l&#39;ID HTML specifico di qualsiasi elemento della pagina che desideri attivare il completamento dell&#39;obiettivo. Ad esempio:
 
 `<pre><em><!-- Referral offer conversion script --></em> <script> cf_scripts.afterload(function (){ jQuery("#myButtonId").click(function (){ CF.insight.conversion(); }); }); </script></pre>` `<pre>`
 
@@ -58,5 +58,5 @@ Fantastico! Il tuo sito web sta ora acquisendo obiettivi di promozione social pe
 >[!MORELIKETHIS]
 >
 >* [Specifica l&#39;obiettivo per l&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md)
->* [Creare un’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
->* [Distribuire social network sul sito web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+>* [Crea un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md)
+>* [Distribuisci social network nel sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)

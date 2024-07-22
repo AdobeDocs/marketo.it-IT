@@ -21,7 +21,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
 ## Utilizzare un tag in un programma {#use-a-tag-in-a-program}
 
-1. Seleziona il programma. Clic **Configurazione**.
+1. Seleziona il programma. Fare clic su **Configurazione**.
 
    ![](assets/use-tags-in-a-program-1.png)
 
@@ -43,7 +43,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
 ## Modificare un tag {#edit-a-tag}
 
-1. Vai a **Configurazione** scheda. Fai clic con il pulsante destro del mouse sul tag. Seleziona **Modifica**.
+1. Passare alla scheda **Configurazione**. Fai clic con il pulsante destro del mouse sul tag. Seleziona **Modifica**.
 
    ![](assets/use-tags-in-a-program-6.png)
 
@@ -61,11 +61,11 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
 ## Eliminare un tag  {#delete-a-tag}
 
-1. Vai a **Configurazione** scheda. Fai clic con il pulsante destro del mouse sul tag e seleziona **Elimina**.
+1. Passare alla scheda **Configurazione**. Fare clic con il pulsante destro del mouse sul tag e selezionare **Elimina**.
 
    ![](assets/use-tags-in-a-program-10.png)
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/use-tags-in-a-program-11.png)
 

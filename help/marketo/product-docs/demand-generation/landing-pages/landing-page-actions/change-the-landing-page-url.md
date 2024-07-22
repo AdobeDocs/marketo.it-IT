@@ -19,14 +19,14 @@ Puoi modificare l’URL di una pagina di destinazione. Questo può aiutare a ren
 
    ![](assets/change-the-landing-page-url-1.png)
 
-1. Fai clic su **Azioni pagina di destinazione** a discesa, scorri fino a **Strumenti URL** e seleziona **Impostazioni URL**.
+1. Fai clic sul menu a discesa **Azioni pagina di destinazione**, scorri fino a **Strumenti URL** e seleziona **Impostazioni URL**.
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Inserisci il **Nuovo URL**, scegli di eliminare o reindirizzare il vecchio URL e fai clic su **Salva**.
+1. Immetti il **nuovo URL**, scegli di eliminare o reindirizzare il vecchio URL e fai clic su **Salva**.
 
    ![](assets/change-the-landing-page-url-3.png)
 
    >[!NOTE]
    >
-   >Se decidi di mantenere entrambi gli URL, verrà creata automaticamente una regola di reindirizzamento. Ulteriori informazioni su [Reindirizzamenti URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).
+   >Se decidi di mantenere entrambi gli URL, verrà creata automaticamente una regola di reindirizzamento. Ulteriori informazioni sui [reindirizzamenti URL](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md).

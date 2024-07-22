@@ -7,7 +7,7 @@ feature: Partitions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,27 +19,27 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Creare una partizione persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
+>[Creare una partizione di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md)
 
 Quando si utilizzano le partizioni persona, impostare le regole di assegnazione per indirizzare le persone create dal CRM alle rispettive partizioni.
 
 >[!NOTE]
 >
->Solo le persone create in Marketo dal CRM e tramite l’API SOAP avranno regole di assegnazione applicate.
+>Solo alle persone create in Marketo dal CRM e tramite l’API SOAP verranno applicate le regole di assegnazione.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Clic **[!UICONTROL Aree di lavoro e partizioni]**.
+1. Fare clic su **[!UICONTROL Aree di lavoro e partizioni]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Sotto **[!UICONTROL Partizioni della persona]** , fare clic su **[!UICONTROL Regole di assegnazione]**.
+1. Nella scheda **[!UICONTROL Partizioni persona]**, fai clic su **[!UICONTROL Regole di assegnazione]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Clic **[!UICONTROL Aggiungi scelta]** per aggiungere le condizioni per instradare le persone nelle partizioni personali.
+1. Fai clic su **[!UICONTROL Aggiungi scelta]** per aggiungere le condizioni per instradare le persone nelle partizioni personali.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -59,7 +59,7 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
    >
    >Puoi aggiungere tutte le scelte che ti piacciono.
 
-1. Clic **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

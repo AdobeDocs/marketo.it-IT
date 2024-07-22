@@ -17,7 +17,7 @@ Esistono due modi per ridimensionare sia la larghezza dell’etichetta del campo
 
 ## Trascina la larghezza {#drag-and-drop-the-width}
 
-1. In [editor di moduli](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md), seleziona il campo da ridimensionare.
+1. Nell&#39;[editor moduli](/help/marketo/product-docs/demand-generation/forms/form-actions/edit-a-form.md) selezionare il campo che si desidera ridimensionare.
 
    ![](assets/image2014-9-15-15-3a24-3a0.png)
 

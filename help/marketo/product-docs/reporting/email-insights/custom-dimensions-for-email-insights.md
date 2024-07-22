@@ -6,7 +6,7 @@ exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,13 @@ Sono incluse tutte le dimensioni Marketo standard, ma puoi aggiungere fino a 10 
 
 >[!CAUTION]
 >
->Dimensioni personalizzate **non può** essere eliminati o sostituiti, quindi scegli attentamente il tuo 10.
+>Le dimensioni personalizzate **non possono** essere eliminate o sostituite, quindi scegli attentamente le tue 10.
 
 1. In Email Insights, fai clic sull’icona a forma di ingranaggio in alto a destra della pagina.
 
    ![](assets/cd1.png)
 
-1. Clic **Sistema**.
+1. Fare clic su **Sistema**.
 
    ![](assets/cd2.png)
 

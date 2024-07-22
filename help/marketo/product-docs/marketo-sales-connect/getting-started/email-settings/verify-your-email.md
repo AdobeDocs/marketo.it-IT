@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se disponi di un’identità e-mail non verificata, segui i passaggi indicati di seguito.
 
-1. Fai clic sull’icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Fai clic sull&#39;icona ingranaggio in alto a destra e scegli **Impostazioni**.
 
    ![](assets/verify-your-email-1.png)
 
@@ -23,11 +23,11 @@ Se disponi di un’identità e-mail non verificata, segui i passaggi indicati di
 
    ![](assets/verify-your-email-2.png)
 
-1. In Indirizzo e firma trovare l’identità e-mail da verificare e fare clic su **Invia di nuovo e-mail di verifica**. Verrà inviato un nuovo messaggio e-mail di verifica.
+1. In Indirizzo e firma trovare l&#39;identità e-mail che si desidera verificare e fare clic su **Invia di nuovo e-mail di verifica**. Verrà inviato un nuovo messaggio e-mail di verifica.
 
    ![](assets/verify-your-email-3.png)
 
-1. Clic **Invia di nuovo**.
+1. Fare clic su **Invia di nuovo**.
 
    ![](assets/verify-your-email-4.png)
 

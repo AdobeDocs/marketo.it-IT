@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Cerchi l’indirizzo web (URL) di un’immagine o di un file che hai caricato?
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-1.png)
 
-1. Clic **[!UICONTROL Immagini e file]**.
+1. Fare clic su **[!UICONTROL Immagini e file]**.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-2.png)
 
@@ -27,10 +27,10 @@ Cerchi l’indirizzo web (URL) di un’immagine o di un file che hai caricato?
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-3.png)
 
-1. Il **[!UICONTROL URL]** nella pagina dei dettagli.
+1. **[!UICONTROL URL]** viene visualizzato nella pagina dei dettagli.
 
    ![](assets/find-the-url-of-an-uploaded-image-or-file-4.png)
 
 >[!MORELIKETHIS]
 >
->[Sostituire un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}
+>[Sostituisci un&#39;immagine o un file caricato](/help/marketo/product-docs/demand-generation/images-and-files/replace-an-uploaded-image-or-file.md){target="_blank"}

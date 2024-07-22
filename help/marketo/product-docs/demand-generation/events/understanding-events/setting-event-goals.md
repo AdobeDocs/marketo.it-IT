@@ -24,15 +24,15 @@ Assegna agli eventi obiettivi specifici e ne osserva le prestazioni.
 
    ![](assets/setting-event-goals-1.png)
 
-1. Scegli la [!UICONTROL Cartella campagna], assegna all’evento un [!UICONTROL Nome], seleziona la [!UICONTROL Tipo di programma] e [!UICONTROL Canale]. Clic **[!UICONTROL Crea]** al termine.
+1. Scegli la [!UICONTROL cartella campagne], assegna all&#39;evento un [!UICONTROL nome], seleziona il [!UICONTROL tipo di programma] e il [!UICONTROL canale]. Al termine, fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/setting-event-goals-2.png)
 
-1. Nell’evento, fai clic su **[!UICONTROL Rapporti]** scheda.
+1. Nel tuo evento, fai clic sulla scheda **[!UICONTROL Rapporti]**.
 
    ![](assets/setting-event-goals-3.png)
 
-1. Immetti l’obiettivo per [!UICONTROL Registrato] facendo clic su **[!UICONTROL Imposta un obiettivo]**. Digita il numero in e premi Invio.
+1. Immetti l&#39;obiettivo per [!UICONTROL Registrato] facendo clic su **[!UICONTROL Imposta un obiettivo]**. Digita il numero in e premi Invio.
 
    ![](assets/setting-event-goals-4.png)
 
@@ -46,4 +46,4 @@ Assegna agli eventi obiettivi specifici e ne osserva le prestazioni.
 >
 >Non puoi impostare gli obiettivi per un evento dopo il suo avvio.
 
-Ed è tutto! Controlla lo stato dell’obiettivo dell’evento facendo clic sul pulsante [!UICONTROL Rapporti] scheda.
+Ed è tutto! Controlla lo stato dell&#39;obiettivo dell&#39;evento facendo clic sulla scheda [!UICONTROL Rapporti].

@@ -6,7 +6,7 @@ exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 1%
 
 ---
@@ -29,15 +29,15 @@ La cronologia degli accessi utente identifica gli utenti che accedono tramite:
 
 Per visualizzare la cronologia degli accessi utente:
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/user-login-history-1.png)
 
-1. In Protezione, fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. In Protezione fare clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/user-login-history-2.png)
 
-1. Fai clic su **[!UICONTROL Cronologia accesso]** scheda. L’elenco mostra gli accessi più recenti.
+1. Fare clic sulla scheda **[!UICONTROL Cronologia accesso]**. L’elenco mostra gli accessi più recenti.
 
    ![](assets/user-login-history-3.png)
 
@@ -53,15 +53,15 @@ Per visualizzare la cronologia degli accessi utente:
 
    ![](assets/user-login-history-6.png)
 
-1. Seleziona gli utenti dal **[!UICONTROL Utenti]** a discesa.
+1. Seleziona gli utenti dal menu a discesa **[!UICONTROL Utenti]**.
 
    ![](assets/user-login-history-7.png)
 
-1. Controlla la **[!UICONTROL Solo accessi non riusciti]** per visualizzare solo gli accessi non riusciti nella ricerca.
+1. Seleziona la casella **[!UICONTROL Solo accessi non riusciti]** per visualizzare solo gli accessi non riusciti nella ricerca.
 
    ![](assets/user-login-history-8.png)
 
-1. Clic **[!UICONTROL Applica]**.
+1. Fare clic su **[!UICONTROL Applica]**.
 
    ![](assets/user-login-history-9.png)
 
@@ -71,4 +71,4 @@ Per visualizzare la cronologia degli accessi utente:
 
    >[!MORELIKETHIS]
    >
-   >[Panoramica di Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)
+   >[Panoramica prova di verifica](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md)

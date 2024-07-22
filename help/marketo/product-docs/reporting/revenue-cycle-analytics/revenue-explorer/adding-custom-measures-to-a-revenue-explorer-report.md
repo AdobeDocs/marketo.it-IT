@@ -21,9 +21,9 @@ Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti 
 >
 >È necessaria almeno una metrica nel rapporto, ma non deve essere una delle misure utilizzate per definire la misura personalizzata.
 
-1. Recupera i campi necessari per il report. Consulta [Aggiunta di campi a un rapporto di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md) per i dettagli.
+1. Recupera i campi necessari per il report. Per ulteriori informazioni, vedere [Aggiunta di campi a un report di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
 
-1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu) e scegliere **Misura definita dall&#39;utente** e seleziona **Misura calcolata**.
+1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu), scegliere **Misura definita dall&#39;utente** e selezionare **Misura calcolata**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti 
    >
    >Potete digitare i simboli matematici personalmente o utilizzare la casella di selezione.
 
-1. Al termine, fai clic su **OK**.
+1. Al termine, fare clic su **OK**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 
@@ -49,4 +49,4 @@ Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti 
 
    >[!MORELIKETHIS]
    >
-   >[Aggiunta di campi a un rapporto di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+   >[Aggiunta di campi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)

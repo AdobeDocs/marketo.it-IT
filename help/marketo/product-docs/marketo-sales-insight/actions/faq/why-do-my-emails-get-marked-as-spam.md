@@ -1,10 +1,10 @@
 ---
 description: Perché le mie e-mail vengono contrassegnate come spam? - Documentazione di Marketo - Documentazione del prodotto
 title: Perché le mie e-mail vengono contrassegnate come spam?
-exl-id: 09fbfd78-fd06-4350-ad22-c0ff5e08394d
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ In qualità di azienda, ci impegniamo a fondo per garantire che i nostri tassi d
 
 * Custom Domain Tracking: ti consente di visualizzare tutti i collegamenti di tracciamento in movimento.&quot;yourdomain&quot; invece di go.toutapp. Alcuni servizi di sicurezza e-mail noteranno che l’e-mail proviene dal &quot;tuo dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le e-mail avranno un aspetto legittimo e una probabilità maggiore di raggiungere la casella in entrata del destinatario.
 
-**Verifica i comportamenti e-mail**
+**Verifica il comportamento delle e-mail**
 
 * Mantieni le e-mail brevi e informali e incolla i modelli come e-mail scritta in precedenza.
 
@@ -25,4 +25,4 @@ In qualità di azienda, ci impegniamo a fondo per garantire che i nostri tassi d
 
 * Assicurati di disporre di una firma e-mail completa con un indirizzo fisico.
 
-* Leggi e assicurati di rispettare le [Leggi CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.
+* Leggi e assicurati di rispettare le [leggi CAN-SPAM](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business){target="_blank"}.

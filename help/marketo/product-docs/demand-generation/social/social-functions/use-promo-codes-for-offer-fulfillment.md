@@ -21,15 +21,15 @@ Quando crei un&#39;offerta di riferimento o una puntata, puoi inviare un codice 
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleziona l’offerta di riferimento e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;offerta di riferimento e fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-22-11-3a16-3a45.png)
 
-1. Nell’editor delle offerte di riferimento, vai a **Impostazioni app** e poi **Dettagli offerta**.
+1. Nell&#39;editor delle offerte di riferimento, vai a **Impostazioni app** e quindi a **Dettagli offerta**.
 
    ![](assets/image2015-4-22-11-3a23-3a39.png)
 
-1. In E-mail, seleziona **Usa codici promozionali**, e in Carica codici, fai clic su **Sfoglia** per selezionare il file dei codici promozionali dal sistema.
+1. In E-mail, seleziona **Usa codici promozionali** e in Carica codici fai clic su **Sfoglia** per selezionare il file dei codici promozionali dal sistema.
 
    ![](assets/image2015-4-22-12-3a52-3a43.png)
 
@@ -51,16 +51,16 @@ Una volta che i partecipanti iniziano a guadagnare il premio della tua offerta, 
 
 >[!NOTE]
 >
->Solo gli utenti di Marketo con _Riconoscimenti accesso_ hanno accesso a queste informazioni. Consulta  [Gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
+>Solo gli utenti di Marketo con l&#39;autorizzazione _Access Awards_ possono accedere a queste informazioni. Vedere [Gestione di ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md).
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleziona l’offerta o le puntate di riferimento e fai clic sul pulsante **Partecipanti** scheda.
+1. Seleziona l&#39;offerta o le puntate di riferimento e fai clic sulla scheda **Partecipanti**.
 
    ![](assets/image2015-4-22-11-3a36-3a22.png)
 
-1. Qui dovresti vedere alcune voci. Fai clic sul numero in **Codici promozionali** per visualizzare i codici promozionali inviati al partecipante e quando.
+1. Qui dovresti vedere alcune voci. Fai clic sul numero nella colonna **Codici promozionali** per visualizzare i codici promozionali inviati al partecipante e quando.
 
    ![](assets/image2015-4-22-11-3a36-3a43.png)

@@ -17,11 +17,11 @@ Puoi mantenere tutte le tue parole chiave belle e organizzate utilizzando gli el
 
 ## Aggiungi a un elenco {#add-to-a-list}
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-11-3a48-3a36.png)
 
-1. Passa il cursore del mouse sulla parola chiave da aggiungere a un elenco. Clic **[!UICONTROL Aggiungi/Rimuovi dall’elenco]**.
+1. Passa il cursore del mouse sulla parola chiave da aggiungere a un elenco. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-9-18-11-3a48-3a42.png)
 
@@ -31,7 +31,7 @@ Puoi mantenere tutte le tue parole chiave belle e organizzate utilizzando gli el
 
    >[!TIP]
    >
-   >È inoltre possibile creare un nuovo elenco per le parole chiave. Digita il nome **[!UICONTROL Crea un nuovo elenco]**.
+   >È inoltre possibile creare un nuovo elenco per le parole chiave. Digita il nome in **[!UICONTROL Crea un nuovo elenco]**.
 
    ![](assets/image2014-9-18-11-3a49-3a16.png)
 
@@ -41,11 +41,11 @@ Ehi! Selezionare l&#39;elenco per visualizzare le nuove parole chiave.
 
 È inoltre possibile rimuovere parole chiave da un elenco.
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-11-3a49-3a55.png)
 
-1. Passa il cursore del mouse sulla parola chiave da rimuovere da un elenco. Clic **[!UICONTROL Aggiungi/Rimuovi dall’elenco]**.
+1. Passa il cursore del mouse sulla parola chiave da rimuovere da un elenco. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-9-18-11-3a50-3a4.png)
 
@@ -61,4 +61,4 @@ Ehi! Selezionare l&#39;elenco per visualizzare le nuove parole chiave.
 
    >[!MORELIKETHIS]
    >
-   >[Parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Informazioni sulle parole chiave (visualizzazione di riepilogo)](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

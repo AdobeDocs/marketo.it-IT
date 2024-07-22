@@ -2,11 +2,11 @@
 description: Indirizzamento - Documentazione Marketo - Documentazione del prodotto
 title: Indirizzamento
 feature: Dynamic Chat
-exl-id: 93d1a96d-c101-4a1c-898c-dcadb5cdce85
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,21 +20,21 @@ Regola personalizzata: è possibile scegliere agenti specifici per ricevere riun
 
 >[!NOTE]
 >
->All’Instradamento dell’account viene assegnata la priorità più elevata. Quando un visitatore raggiunge il punto della conversazione per prenotare una riunione o avviare una chat in tempo reale, [Indirizzamento account](#account-routing) viene selezionato prima di prendere in considerazione altre opzioni di instradamento.
+>All’Instradamento dell’account viene assegnata la priorità più elevata. Quando un visitatore raggiunge il punto della conversazione per prenotare una riunione o avviare una chat in tempo reale, [Instradamento account](#account-routing) viene controllato prima di prendere in considerazione altre opzioni di instradamento.
 
 ## Creare una regola personalizzata {#create-a-custom-rule}
 
 In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA all&#39;agente John.
 
-1. In Configurazione, fai clic su **Regole di instradamento**.
+1. In Configurazione fare clic su **Regole di routing**.
 
    ![](assets/routing-1.png)
 
-1. Fai clic su **Regole personalizzate** scheda.
+1. Fare clic sulla scheda **Regole personalizzate**.
 
    ![](assets/routing-2.png)
 
-1. Clic **Crea regola**.
+1. Fai clic su **Crea regola**.
 
    ![](assets/routing-3.png)
 
@@ -54,7 +54,7 @@ In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA
 
    ![](assets/routing-7.png)
 
-1. Dopo aver selezionato tutti i valori desiderati, fai clic su **Salva**.
+1. Dopo aver selezionato tutti i valori desiderati, fare clic su **Salva**.
 
    ![](assets/routing-8.png)
 
@@ -68,13 +68,13 @@ Identifica e carica il tuo account di destinazione e i rispettivi proprietari de
 
 In questo esempio, indirizzeremo tutti i dipendenti della Lego direttamente all&#39;agente Steven.
 
-1. Nella scheda Instradamento account fare clic su **+ Aggiungi account**.
+1. Nella scheda Instradamento account, fare clic su **+ Aggiungi account**.
 
    ![](assets/routing-10.png)
 
    >[!TIP]
    >
-   >Puoi creare più account contemporaneamente facendo clic su **Carica elenco account** e il caricamento di un file CSV.
+   >Puoi creare più account contemporaneamente facendo clic su **Carica elenco account** e caricando un file CSV.
 
 1. Immetti il nome della società, il dominio e seleziona l’agente desiderato.
 

@@ -16,11 +16,11 @@ Il Dynamic Chat ti consente di sfruttare un’interfaccia di facile utilizzo per
 
 >[!TIP]
 >
->Visita [questa pagina](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} per visualizzare i video tutorial sul Dynamic Chat.
+>Visita [questa pagina](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview.html){target="_blank"} per visualizzare i video tutorial del Dynamic Chat.
 
 ## Integrazioni {#integrations}
 
-Un componente chiave del Dynamic Chat è la sua capacità di interfacciarsi in modo nativo con il tuo abbonamento a Marketo. Per sfruttare appieno le funzionalità di questa integrazione, devi innanzitutto avviare la sincronizzazione dei dati. A seconda delle dimensioni del database Marketo, potrebbero essere necessarie fino a 24 ore per i dati iniziali, [sincronizzazione una tantum](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} per completare.
+Un componente chiave del Dynamic Chat è la sua capacità di interfacciarsi in modo nativo con il tuo abbonamento a Marketo. Per sfruttare appieno le funzionalità di questa integrazione, devi innanzitutto avviare la sincronizzazione dei dati. A seconda delle dimensioni del database di Marketo, potrebbero essere necessarie fino a 24 ore per il completamento della [sincronizzazione una tantum](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-marketo-engage.md){target="_blank"} iniziale.
 
 Viene sincronizzato quanto segue:
 
@@ -46,19 +46,19 @@ Qui vengono visualizzati tutti gli appuntamenti pianificati dai visitatori del s
 
 ## Indirizzamento {#routing}
 
-Qui puoi visualizzare un elenco di tutti gli agenti che hanno connesso i loro calendari, l’ordine in cui verranno presentati ai visitatori del sito web e creare regole di indirizzamento personalizzate. [Ulteriori informazioni sull&#39;indirizzamento](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
+Qui puoi visualizzare un elenco di tutti gli agenti che hanno connesso i loro calendari, l’ordine in cui verranno presentati ai visitatori del sito web e creare regole di indirizzamento personalizzate. [Ulteriori informazioni sull&#39;instradamento](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/routing.md){target="_blank"}
 
 ## Chat live {#live-chat}
 
-Offri ai visitatori web qualificati di entrare in contatto con i rappresentanti commerciali tramite [chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
+Offri ai tuoi visitatori web qualificati di entrare in contatto con i rappresentanti commerciali tramite [chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md){target="_blank"}.
 
-## Flussi conversazionali {#conversational-flow}
+## Flusso conversazionale {#conversational-flow}
 
-[Progettare una conversazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} che può essere attivata da un visitatore in base a un’azione designata (ad esempio la compilazione di un modulo, il clic su un collegamento e così via).
+[Progetta una conversazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"} che può essere attivata da un visitatore in base a un&#39;azione designata, ad esempio la compilazione di un modulo, la selezione di un collegamento e così via.
 
 ## IA generativa {#generative-ai}
 
-[IA generativa](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobi Dynamic Chat elabora in tempo reale segnali di intento, preferenze dell’utente e comportamenti passati per generare messaggi pertinenti e personalizzati per i visitatori della chat.
+[IA generativa](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/overview.md){target="_blank"} in Adobe Dynamic Chat elabora in tempo reale segnali di intento, preferenze utente e comportamenti passati per generare messaggi pertinenti e personalizzati per i visitatori della chat.
 
 ## Modifica della lingua {#changing-the-language}
 
@@ -66,9 +66,9 @@ Per cambiare la lingua del Dynamic Chat, attenersi alla procedura descritta di s
 
 >[!IMPORTANT]
 >
->La modifica della lingua a livello di profilo cambierà la lingua per _tutto_ Applicazioni Experienci Cloud, non solo Dynamic Chat.
+>La modifica della lingua a livello di profilo cambierà la lingua per _tutte_ le applicazioni di Experience Cloud, non solo per il Dynamic Chat.
 
-1. Nell’account di Experience Cloud, fai clic sull’icona delle impostazioni e scegli **Preferenze**.
+1. Nel tuo account di Experience Cloud, fai clic sull&#39;icona delle impostazioni e scegli **Preferenze**.
 
    ![](assets/dynamic-chat-overview-1.png)
 
@@ -76,7 +76,7 @@ Per cambiare la lingua del Dynamic Chat, attenersi alla procedura descritta di s
 
    ![](assets/dynamic-chat-overview-2.png)
 
-1. Scegliere la nuova lingua (la seconda lingua è facoltativa) e fare clic su **Salva**.
+1. Scegli la nuova lingua (la seconda lingua è facoltativa) e fai clic su **Salva**.
 
    ![](assets/dynamic-chat-overview-3.png)
 
@@ -88,7 +88,7 @@ Quando aggiorni la lingua, tutto ciò che si trova nell’app stessa cambia, tra
 
 ## Limiti Dynamic Chat di conservazione dei dati {#dynamic-chat-data-retention-limits}
 
-Di seguito sono riportati solo alcuni dei limiti/parametri all’interno di Dynamic Chat. Per un elenco completo, consultare il Marketo Engage [Pagina di descrizione prodotto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}.
+Di seguito sono riportati solo alcuni dei limiti/parametri all’interno di Dynamic Chat. Per un elenco completo, vedere la [pagina di descrizione del prodotto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} del Marketo Engage.
 
 <table>
   <th>Tipo di dati</th>
@@ -117,4 +117,4 @@ Di seguito sono riportati solo alcuni dei limiti/parametri all’interno di Dyna
 
 ## Domande frequenti {#faq}
 
-Consulta la sezione [Domande frequenti sul Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.
+Consulta le [Domande frequenti sui Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/faq.md){target="_blank"}.

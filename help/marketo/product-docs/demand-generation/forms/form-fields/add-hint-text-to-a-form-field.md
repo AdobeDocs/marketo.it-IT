@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Aggiungere testo suggerimento a un campo modulo {#add-hint-text-to-a-form-field}
 
-Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) aiutare le persone a compilare i moduli. Ecco come aggiungere un suggerimento.
+Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/form-fields/add-tooltip-instructions-to-a-form-field.md) per la compilazione dei moduli. Ecco come aggiungere un suggerimento.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->Modulo **Suggerimenti** è il testo all’interno del campo che scompare quando il visitatore inizia a digitare nel campo.
+>Il modulo **Hints** è testo all&#39;interno del campo che scompare quando il visitatore inizia a digitare nel campo.
 >
->Modulo **Istruzioni** sono piccole descrizioni che vengono visualizzate quando il visitatore passa il mouse sul campo.
+>Le **istruzioni** per il modulo sono piccole descrizioni che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
 1. Vai a **Attività di marketing**.
 
@@ -35,18 +35,18 @@ Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/f
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 
    >[!NOTE]
    >
-   >Non dimenticare di [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
+   >Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Dai un&#39;occhiata! Andiamo avanti e aggiungiamone un po&#39; [istruzioni](add-tooltip-instructions-to-a-form-field.md) ora.
+Dai un&#39;occhiata! Andiamo avanti e aggiungiamo alcune [istruzioni](add-tooltip-instructions-to-a-form-field.md) ora.

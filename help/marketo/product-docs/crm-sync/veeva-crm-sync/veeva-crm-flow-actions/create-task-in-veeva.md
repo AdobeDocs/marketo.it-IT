@@ -18,7 +18,7 @@ In qualità di addetto al marketing, hai a disposizione informazioni che possono
 
 >[!NOTE]
 >
->Quando l&#39;utente di Marketo Sync sta creando attività, **Scade tra** è un campo obbligatorio per la creazione dell’attività in Veeva. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
+>Quando l&#39;utente di Marketo Sync crea attività, **Scadenza** è un campo obbligatorio per la creazione dell&#39;attività in Veeva. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
 
 Per impostazione predefinita, il passaggio del flusso si presenta così:
 
@@ -30,4 +30,4 @@ Personalizzare tutti i campi per creare l&#39;attività nel modo desiderato.
 
 >[!TIP]
 >
->È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` in Oggetto e Descrizione. Consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"} per ulteriori dettagli.
+>È possibile utilizzare `{{lead.tokens}}`, `{{company.tokens}}`, `{{campaign.tokens}}` e `{{system.tokens}}` nell&#39;oggetto e nella descrizione. Per ulteriori dettagli, consulta [Token per i passaggi del flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md){target="_blank"}.

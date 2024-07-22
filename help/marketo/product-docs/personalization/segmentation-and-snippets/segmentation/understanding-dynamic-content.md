@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Informazioni sui contenuti dinamici {#understanding-dynamic-content}
 
-La personalizzazione offre molto di più di un semplice saluto `{{First_Name}}`&quot;. Con il contenuto dinamico Marketo, puoi personalizzare il modo in cui persone diverse visualizzano una pagina di destinazione o un’e-mail.
+La personalizzazione offre molto di più di &quot;Salve `{{First_Name}}`&quot;. Con il contenuto dinamico Marketo, puoi personalizzare il modo in cui persone diverse visualizzano una pagina di destinazione o un’e-mail.
 
 ![](assets/artboard-1.png)
 
 ## Segmentazione {#segmentation}
 
-Innanzitutto, devi dividere il tuo popolo in sottogruppi. Questo è chiamato [segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
+Innanzitutto, devi dividere il tuo popolo in sottogruppi. Questa operazione è denominata [segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
 >[!NOTE]
 >
 >**Definizione**
 >
->La segmentazione classifica il pubblico in diversi sottogruppi in base a una [Elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md) regola. Questi gruppi sono denominati segmenti.
+>La segmentazione classifica il pubblico in diversi sottogruppi in base a una regola di [elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md). Questi gruppi sono denominati segmenti.
 
 Ad esempio, se abbiamo una segmentazione chiamata Industria, alcuni dei segmenti potrebbero essere: Sanità, Tecnologia, Finanza, Beni di consumo, ecc.
 
@@ -52,5 +52,5 @@ Provatelo e raccontateci la vostra storia di successo!
 
 >[!MORELIKETHIS]
 >
->* [Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
->* [Creare uno snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
+>* [Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Crea snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)

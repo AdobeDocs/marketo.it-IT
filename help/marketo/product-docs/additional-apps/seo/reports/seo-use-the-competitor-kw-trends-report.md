@@ -6,7 +6,7 @@ exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ In questo rapporto, puoi vedere come tu e i tuoi concorrenti siete classificati 
 
 ## Trova i Report {#find-reports}
 
-1. Vai a **[!UICONTROL Rapporti]**.
+1. Vai a **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-18-14-3a6-3a18.png)
 
-1. Clic **[!UICONTROL Tendenze della classifica KW del concorrente]**.
+1. Fai clic su **[!UICONTROL Tendenze classificazione KW concorrente]**.
 
    ![](assets/image2014-9-18-14-3a6-3a37.png)
 
@@ -35,7 +35,7 @@ Questo grafico può mostrare quale percentuale delle parole chiave viene classif
 |---|---|
 | [!UICONTROL Parole chiave] | Il numero di parole chiave che si stanno tracciando. |
 | [!UICONTROL URL di classificazione] | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
-| [!UICONTROL % in classifica] | Percentuale di parole chiave che rientrano nell&#39;intervallo impostato. |
+| [!UICONTROL % nel rango] | Percentuale di parole chiave che rientrano nell&#39;intervallo impostato. |
 | [!UICONTROL Media ricerche] | Il numero medio di ricerche su tali parole chiave che si sono verificate durante l&#39;intervallo impostato (negli ultimi 30 giorni, in Google US search) |
 
 ## Filtraggio dei dati {#filtering-data}
@@ -44,7 +44,7 @@ Questo grafico può mostrare quale percentuale delle parole chiave viene classif
 
    ![](assets/image2014-9-18-14-3a7-3a17.png)
 
-1. Fai clic su **[!UICONTROL Classifica]** per scegliere per quale intervallo di classificazione si desidera visualizzare le parole chiave.
+1. Fai clic sull&#39;elenco a discesa **[!UICONTROL Classifica]** per scegliere l&#39;intervallo di classifica per il quale visualizzare le parole chiave.
 
    ![](assets/image2014-9-18-14-3a8-3a26.png)
 
@@ -54,6 +54,6 @@ Questo grafico può mostrare quale percentuale delle parole chiave viene classif
 >
 >Puoi esportare questo rapporto sul desktop.
 
-1. Clic **[!UICONTROL Esporta CSV]** o **[!UICONTROL Export PDF]**.
+1. Fai clic su **[!UICONTROL Esporta CSV]** o **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a9-3a49.png)

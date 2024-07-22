@@ -18,11 +18,11 @@ Puoi abilitare/disabilitare il CAPTCHA in base al modulo.
 
    ![](assets/enable-captcha-in-marketo-forms-1.png)
 
-1. Clic **Modifica bozza** Se il modulo è già stato approvato, fare clic su Crea bozza.
+1. Fare clic su **Modifica bozza** (se il modulo è già stato approvato, fare clic su Crea bozza).
 
    ![](assets/enable-captcha-in-marketo-forms-2.png)
 
-1. Clic **Impostazioni modulo**, quindi **Impostazioni**.
+1. Fai clic su **Impostazioni modulo**, quindi su **Impostazioni**.
 
    ![](assets/enable-captcha-in-marketo-forms-3.png)
 
@@ -30,11 +30,11 @@ Puoi abilitare/disabilitare il CAPTCHA in base al modulo.
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

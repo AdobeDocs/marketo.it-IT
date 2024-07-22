@@ -2,7 +2,8 @@
 description: Glossario SMS - Documentazione Marketo - Documentazione del prodotto
 title: Glossario SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '734'
 ht-degree: 0%
@@ -57,7 +58,7 @@ Di seguito sono riportati alcuni termini comuni che incontrerai quando utilizzi 
   </tr>
   <tr>
     <td>Evento</td>
-    <td>Un evento è un’occorrenza definita che può essere inviata alla piattaforma Vibes e utilizzata per attivare azioni attivate dall’API, inclusi gli invii di messaggi. Ogni evento contiene dati specifici dell’evento, tra cui un event_type, utilizzato per determinare con quale campagna di messaggi attivata da API corrisponde. L’API Evento può essere attivata tramite Webhook nel Marketo Engage. Per saperne di più <a href="https://developer-platform.vibes.com/reference/event-api">Riferimento API evento</a>.</td>
+    <td>Un evento è un’occorrenza definita che può essere inviata alla piattaforma Vibes e utilizzata per attivare azioni attivate dall’API, inclusi gli invii di messaggi. Ogni evento contiene dati specifici dell’evento, tra cui un event_type, utilizzato per determinare con quale campagna di messaggi attivata da API corrisponde. L’API Evento può essere attivata tramite Webhook nel Marketo Engage. Ulteriori informazioni con il riferimento <a href="https://developer-platform.vibes.com/reference/event-api">API evento</a>.</td>
   </tr>
   <tr>
     <td>Parola chiave</td>
@@ -81,7 +82,7 @@ Di seguito sono riportati alcuni termini comuni che incontrerai quando utilizzi 
   </tr>
   <tr>
     <td>Record persona</td>
-    <td>Un record persona è una raccolta di dati per un numero di telefono cellulare specifico. A ogni record persona viene inoltre assegnato un valore person_key univoco per l'identificazione. Gli ID Marketo sono collegati a Vibes utilizzando il campo external_person_id. Ulteriori informazioni sui record delle persone in <a href="https://developer-platform.vibes.com/reference/person-api">Documentazione API di Vibes Person</a>.</td>
+    <td>Un record persona è una raccolta di dati per un numero di telefono cellulare specifico. A ogni record persona viene inoltre assegnato un valore person_key univoco per l'identificazione. Gli ID Marketo sono collegati a Vibes utilizzando il campo external_person_id. Ulteriori informazioni sui record delle persone nella <a href="https://developer-platform.vibes.com/reference/person-api">documentazione API delle persone Vibes</a>.</td>
   </tr>
   <tr>
     <td>Codice breve</td>

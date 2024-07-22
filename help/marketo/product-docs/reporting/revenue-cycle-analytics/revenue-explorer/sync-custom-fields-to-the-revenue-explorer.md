@@ -19,27 +19,27 @@ Revenue Cycle Analytics può creare rapporti sui campi Marketo personalizzati. A
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** sezione.
+1. Vai alla sezione **Amministratore**.
 
    ![](assets/image2014-9-19-9-3a51-3a11.png)
 
-1. Seleziona **Analisi del ciclo dei ricavi**.
+1. Selezionare **Analisi del ciclo dei ricavi**.
 
    ![](assets/image2014-9-19-9-3a51-3a19.png)
 
-1. Fai clic sul pulsante **Sincronizzazione campi personalizzati** e scegliere l&#39;area di analisi desiderata.
+1. Fai clic sulla scheda **Sincronizzazione campi personalizzati** e scegli l&#39;area di analisi desiderata.
 
    ![](assets/image2014-9-19-9-3a51-3a26.png)
 
-1. Selezionare il campo per il quale si desidera attivare la sincronizzazione e fare clic su **Modifica opzione di sincronizzazione**.
+1. Selezionare il campo per il quale si desidera abilitare la sincronizzazione e fare clic su **Modifica opzione di sincronizzazione**.
 
    ![](assets/image2014-9-19-9-3a51-3a36.png)
 
-1. Modificare il **Stato sincronizzazione** a **Abilitato**.
+1. Cambia lo stato di **sincronizzazione** in **Abilitato**.
 
    ![](assets/image2014-9-19-9-3a51-3a45.png)
 
-1. Seleziona la **Tipo RCA** a tua scelta, quindi fai clic su **Salva**.
+1. Seleziona il tipo di **RCA** desiderato, quindi fai clic su **Salva**.
 
    ![](assets/image2014-9-19-9-3a51-3a52.png)
 

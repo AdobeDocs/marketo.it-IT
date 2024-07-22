@@ -13,19 +13,19 @@ ht-degree: 0%
 
 # Panoramica del selettore del modello e-mail {#email-template-picker-overview}
 
-Quando [creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), sono disponibili diversi modelli gratuiti tra cui scegliere. Puoi anche creare un modello personalizzato e salvarlo per utilizzarlo in futuro.
+Quando [crei un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md), puoi scegliere tra diversi modelli gratuiti. Puoi anche creare un modello personalizzato e salvarlo per utilizzarlo in futuro.
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Nome** sarà il nome dell’e-mail creata in base al modello, non il modello stesso. **Descrizione** si applica anche all’e-mail ed è facoltativo.
+**Nome** sarà il nome dell&#39;e-mail creata in base al modello, non il modello stesso. **Descrizione** si applica anche all&#39;e-mail ed è facoltativo.
 
 ![](assets/two-2.png)
 
-Se la tua e-mail è fondamentale e desideri che aggiri i limiti di comunicazione, [rendilo operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) selezionando la casella. **Apri nell’editor** è selezionato per impostazione predefinita e indica semplicemente che desideri iniziare a modificare immediatamente la nuova e-mail. **Crea** significa creare!
+Se il tuo indirizzo e-mail è critico e vuoi che aggiri i limiti di comunicazione, [rendilo operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) selezionando la casella. **Apri nell&#39;editor** è selezionato per impostazione predefinita e indica semplicemente che desideri iniziare a modificare il nuovo messaggio immediatamente. **Crea** significa, crea!
 
 ![](assets/three-2.png)
 
-**Modelli iniziali** include una raccolta di modelli e-mail dinamici pronti all’uso. Puoi utilizzarli così come sono o personalizzarli a tuo piacimento.
+**Modelli Starter** include una raccolta di modelli e-mail dinamici pronti all&#39;uso. Puoi utilizzarli così come sono o personalizzarli a tuo piacimento.
 
 ![](assets/email-template-picker-overview-4.png)
 
@@ -37,7 +37,7 @@ Tutte le cartelle visualizzate in E-mail > Modelli nella struttura di Design Stu
 
 ![](assets/six-1.png)
 
-Per visualizzare l’anteprima di un modello, passa il cursore sulla miniatura e fai clic su **Anteprima**. È inoltre possibile fare doppio clic su di esso.
+Per visualizzare l&#39;anteprima di un modello, posizionare il puntatore sull&#39;anteprima e fare clic su **Anteprima**. È inoltre possibile fare doppio clic su di esso.
 
 ![](assets/seven-1.png)
 
@@ -65,5 +65,5 @@ Abbastanza pulito!
 
 >[!MORELIKETHIS]
 >
->* [Sintassi del modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
->* [Creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
+>* [Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Crea un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

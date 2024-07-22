@@ -6,7 +6,7 @@ exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Esistono due modi principali per creare un’e-mail in Marketo. Guardiamo entram
 
 ## Creare un messaggio e-mail in Design Studio {#create-an-email-in-the-design-studio}
 
-1. Vai a **Design Studio**.
+1. Passare a **Design Studio**.
 
    ![](assets/create-an-email-1.png)
 
-1. Fai clic su **Nuovo** a discesa e selezionare **Nuova e-mail**.
+1. Fai clic sul menu a discesa **Nuovo** e seleziona **Nuovo messaggio e-mail**.
 
    ![](assets/create-an-email-2.png)
 
@@ -37,11 +37,11 @@ Semplice! Ora per il contrario...
 
    ![](assets/create-an-email-3.png)
 
-1. Seleziona il programma a cui desideri aggiungere l’e-mail, fai clic sul pulsante **Nuovo** a discesa e selezionare **Nuova risorsa locale**.
+1. Seleziona il programma a cui desideri aggiungere l&#39;e-mail, fai clic sul menu a discesa **Nuovo** e seleziona **Nuova risorsa locale**.
 
    ![](assets/create-an-email-4.png)
 
-1. Clic **E-mail**.
+1. Fai clic su **E-mail**.
 
    ![](assets/create-an-email-5.png)
 
@@ -55,13 +55,13 @@ Il metodo scelto consente di passare al selettore di modelli.
 
    >[!NOTE]
    >
-   >Puoi scegliere tra una raccolta di modelli e-mail dinamici pronti, o un modello salvato selezionando prima **Modelli personali** e seguendo gli stessi passaggi.
+   >Puoi scegliere tra una raccolta di modelli di e-mail reattive pronti all&#39;uso o un modello salvato selezionando prima **Modelli personali** e seguendo gli stessi passaggi.
 
 1. Immettere un oggetto. Il limite di caratteri consigliato è 50.
 
    ![](assets/create-an-email-7.png)
 
-   A seconda del modello scelto, sono disponibili opzioni diverse per la modifica dell’e-mail. Per le e-mail con moduli, vedi [Aggiungere moduli all’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
+   A seconda del modello scelto, sono disponibili opzioni diverse per la modifica dell’e-mail. Per le e-mail con moduli, vedi [Aggiungi moduli al tuo indirizzo e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 L&#39;e-mail è stata creata, quindi puoi modificarla.
 

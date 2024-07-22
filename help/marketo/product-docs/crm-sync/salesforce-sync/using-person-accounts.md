@@ -37,11 +37,11 @@ Utilizza il filtro &quot;Account persona&quot; nell’elenco avanzato per separa
 
 ## Dove vengono visualizzate le informazioni sugli account personali in Marketo Sales Insight? {#where-is-my-person-accounts-information-displayed-in-marketo-sales-insight}
 
-Le attività relative agli account persona vengono visualizzate nel **[!UICONTROL Account]** pannello.
+Le attività relative agli account persona vengono visualizzate nel pannello **[!UICONTROL Account]**.
 
 >[!NOTE]
 >
->Marketo Sales Insight **[!UICONTROL Aggiungi a Marketo Campaign]** e **[!UICONTROL Invia e-mail]** Le opzioni non sono attualmente disponibili per gli account persona.
+>Le opzioni **[!UICONTROL Aggiungi a Marketo Campaign]** e **[!UICONTROL Invia e-mail]** di Marketo Sales Insight non sono attualmente disponibili per gli account personali.
 
 ## Come si associano le opportunità a un account personale? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo dipende dal ruolo di contatto dell’opportunità per determinare a qual
 
 ## Quale campo e-mail utilizzare per gli account persona? {#which-email-field-should-i-use-for-person-accounts}
 
-Per un account persona sono disponibili due campi e-mail. Utilizza il **Indirizzo e-mail** nei moduli (non il campo **Indirizzo e-mail della persona**) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre procedure di elaborazione e-mail.
+Per un account persona sono disponibili due campi e-mail. Utilizza il campo **Indirizzo e-mail** nei moduli (non **Indirizzo e-mail persona**) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre elaborazioni e-mail.

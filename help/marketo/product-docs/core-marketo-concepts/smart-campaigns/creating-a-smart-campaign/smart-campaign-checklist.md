@@ -29,7 +29,7 @@ In Smart Campaign, fai clic su **[!UICONTROL Elenco avanzato]**. Eliminare le li
 
 >[!NOTE]
 >
->Utilizzo di **[!UICONTROL Membro di elenco avanzato]** potrebbero contenere errori nell&#39;altro elenco. Controlla anche lì.
+>L&#39;utilizzo di **[!UICONTROL Membro di Smart List]** potrebbe contenere errori nell&#39;altro elenco. Controlla anche lì.
 
 ## Eliminazione degli errori di flusso {#get-rid-of-flow-errors}
 
@@ -43,24 +43,24 @@ In Smart Campaign, fai clic su **[!UICONTROL Flusso]**. Eliminare le linee rosse
 
 ## Esaminare la scheda Pianificazione {#review-the-schedule-tab}
 
-In **[!UICONTROL Pianificazione]** scheda, spunta **[!UICONTROL Stato elenco avanzato]** per eventuali errori in Smart Campaign che devono essere corretti.
+Nella scheda **[!UICONTROL Pianificazione]**, controlla **[!UICONTROL Stato elenco avanzato]** per eventuali errori in Smart Campaign che devono essere corretti.
 
 ![](assets/smart-campaign-checklist-3.png)
 
 ## Controlla limite restrizioni persona {#check-person-restrictions-limit}
 
-In **[!UICONTROL Pianificazione]** , assicurati che il numero di persone qualificate non superi il limite di restrizione della persona.
+Nella scheda **[!UICONTROL Pianifica]**, assicurati che il numero di persone qualificate non superi il limite di restrizione della persona.
 
 ![](assets/smart-campaign-checklist-4.png)
 
 >[!TIP]
 >
->Se necessario, puoi [ignorare le restrizioni per le persone in una campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
+>Se necessario, puoi [ignorare le restrizioni per le persone in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
 
 >[!NOTE]
 >
 >**Promemoria**
 >
->Se la campagna avanzata non riesce ancora, scopri come [comprendere le notifiche](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per capire qual è stato il problema e come risolverlo.
+>Se il tuo Smart Campaign non riesce ancora, scopri come [comprendere le notifiche](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per capire qual è stato il problema e come risolverlo.
 
 Ottimo lavoro! Tieni a portata di mano questo elenco di controllo prima di eseguire una campagna avanzata.

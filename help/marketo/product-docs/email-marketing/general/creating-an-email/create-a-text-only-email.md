@@ -17,13 +17,13 @@ Se desideri inviare solo messaggi di posta elettronica, ecco come creare un’e-
 
 >[!NOTE]
 >
->Poiché le aperture vengono tracciate dal destinatario che scarica le immagini dell’e-mail (che include un pixel di tracciamento invisibile), le aperture sono **non** tracciabilità per e-mail di solo testo.
+>Poiché le aperture vengono tracciate dal destinatario che scarica le immagini dell&#39;e-mail (che include un pixel di tracciamento invisibile), le aperture sono **non** tracciabili per le e-mail di solo testo.
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/one-1.png)
 
-1. Seleziona il programma e fai clic su **Nuovo** a discesa e selezionare **Nuova risorsa locale**.
+1. Seleziona il programma, fai clic sul menu a discesa **Nuovo** e seleziona **Nuova risorsa locale**.
 
    ![](assets/two-1.png)
 
@@ -35,23 +35,23 @@ Se desideri inviare solo messaggi di posta elettronica, ecco come creare un’e-
 
    ![](assets/four-1.png)
 
-1. Nell’editor e-mail, fai clic su **Impostazioni e-mail**.
+1. Nell&#39;editor di posta elettronica fare clic su **Impostazioni posta elettronica**.
 
    ![](assets/five.png)
 
-1. Verifica **Solo testo** e fai clic su **Salva**.
+1. Seleziona **Solo testo** e fai clic su **Salva**.
 
    ![](assets/six.png)
 
    >[!CAUTION]
    >
-   >I collegamenti non vengono tracciati automaticamente nelle e-mail di solo testo. Scopri come [Aggiungere collegamenti tracciati a un messaggio e-mail di testo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
+   >I collegamenti non vengono tracciati automaticamente nelle e-mail di solo testo. Scopri come [aggiungere collegamenti tracciati a un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-tracked-links-to-a-text-email.md).
 
    >[!TIP]
    >
    >Puoi anche modificare un’e-mail esistente e modificare questa impostazione. Non dimenticate di approvare la bozza.
 
-1. Deseleziona la **Copia automaticamente da HTML** casella di controllo.
+1. Deselezionare la casella di controllo **Copia automatica da HTML**.
 
    ![](assets/seven.png)
 

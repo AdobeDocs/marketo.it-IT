@@ -6,7 +6,7 @@ exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
    ![](assets/image2017-3-28-13-3a44-3a54.png)
 
-1. Clic **Nuovo** e poi **Nuova segmentazione**.
+1. Fare clic su **Nuovo** e quindi su **Nuova segmentazione**.
 
    ![](assets/image2017-3-28-13-3a56-3a57.png)
 
@@ -43,7 +43,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
    >
    >Il numero totale di segmenti che puoi creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l’utilizzo di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri di un elenco, campi del proprietario del lead e fasi dei ricavi.
    >
-   >Se ricevi un messaggio di errore durante l’approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Trascina e rilascia i segmenti per modificarne l’ordine. Al termine, fai clic su **Crea**.
 
@@ -51,7 +51,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
    >[!NOTE]
    >
-   >Una persona si qualificherà per il primo segmento corrispondente nel [ordine](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) definito.
+   >Una persona sarà idonea per il primo segmento corrispondente nell&#39;[ordine](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/segmentation-order-priority.md) definito.
 
    >[!NOTE]
    >
@@ -61,4 +61,4 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
    >[!MORELIKETHIS]
    >
-   >[Definire le regole del segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)
+   >[Definisci regole segmento](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.md)

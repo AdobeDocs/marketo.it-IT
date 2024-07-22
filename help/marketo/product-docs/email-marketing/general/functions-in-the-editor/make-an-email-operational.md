@@ -19,7 +19,7 @@ Le e-mail operative ignorano gli stati Annullamento iscrizione e Marketing sospe
 >
 >Le e-mail operative non sono soggette a limiti di comunicazione.
 
-1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza**.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
 
 ![](assets/one-1.png)
 
@@ -27,11 +27,11 @@ Le e-mail operative ignorano gli stati Annullamento iscrizione e Marketing sospe
 >
 >Utilizza solo e-mail operative per e-mail e risponditori automatici di importanza critica. Non sono destinati alle e-mail di marketing.
 
-1. Una volta aperto l’editor, fai clic su **Impostazioni e-mail**.
+1. Una volta aperto l&#39;editor, fai clic su **Impostazioni e-mail**.
 
    ![](assets/two-1.png)
 
-1. Verifica **E-mail operativa** e fai clic su **Salva**.
+1. Controlla **E-mail operativa** e fai clic su **Salva**.
 
    ![](assets/three.png)
 
@@ -39,4 +39,4 @@ Le e-mail operative ignorano gli stati Annullamento iscrizione e Marketing sospe
 >
 >Le e-mail operative non erano progettate per funzionare con i programmi di coinvolgimento. Pertanto, un programma di coinvolgimento ignorerà lo stato operativo di un’e-mail. Tienilo presente quando lavori con loro.
 
-Per rendere effettive le modifiche, non dimenticare di approvare questa e-mail. Scopri come  [approvare un’e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).
+Per rendere effettive le modifiche, non dimenticare di approvare questa e-mail. Scopri come [approvare un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md).

@@ -13,23 +13,23 @@ ht-degree: 0%
 
 # Avviare/sospendere una campagna web {#launch-pause-a-web-campaign}
 
-Una campagna web è una reazione personalizzata associata a un segmento specifico e può essere una [finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sul sito web, un [nella zona di sostituzione](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), un widget o un avviso e-mail.
+Una campagna Web è una reazione personalizzata associata a un segmento specifico e può essere una [finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sul sito Web, una [sostituzione zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una funzionalità widget o un avviso e-mail.
 
 È possibile avviare o mettere in pausa una campagna Web in due modi, dalla pagina Campagne Web o Imposta campagne Web.
 
-1. Clic **Personalizzazione web**.
+1. Fare clic su **Web Personalization**.
 
    ![](assets/one-1.png)
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/two-1.png)
 
-1. Se la campagna viene avviata, fai clic su **Avviato** per cambiare lo stato della campagna in **In pausa**, per sospendere la campagna.
+1. Se la campagna è stata avviata, fare clic su **Avviato** per modificare lo stato della campagna in **In pausa**, per sospendere la campagna.
 
    ![](assets/image2014-11-26-17-3a26-3a38.png)
 
-1. Se la campagna è in pausa, fai clic su **In pausa** per cambiare lo stato della campagna in **Avviato**. Verrà attivata e avviata la campagna.
+1. Se la campagna è in pausa, fare clic su **In pausa** per modificare lo stato della campagna in **Avviata**. Verrà attivata e avviata la campagna.
 
    ![](assets/image2014-11-26-17-3a28-3a59.png)
 
@@ -41,12 +41,12 @@ Una campagna web è una reazione personalizzata associata a un segmento specific
 
    ![](assets/image2014-11-26-17-3a31-3a37.png)
 
-1. Clic **Salva** per salvare e mettere in pausa la campagna Clic **Launch** per avviare e attivare la campagna.
+1. Fai clic su **Salva** per salvare e mettere in pausa la campagna. Fai clic su **Avvia** per avviare e attivare la campagna.
 
    ![](assets/image2014-11-26-17-3a32-3a48.png)
 
 >[!MORELIKETHIS]
 >
->* [Creare una campagna di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
->* [Creare una campagna RTP in zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
->* [Creare una campagna widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)
+>* [Crea una campagna di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)
+>* [Crea un RTP in una campagna zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md)
+>* [Crea una campagna widget RTP](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)

@@ -13,25 +13,25 @@ ht-degree: 0%
 
 # Creare un ruolo utente solo API {#create-an-api-only-user-role}
 
-Se desideri effettuare l’integrazione con Marketo tramite [API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api), la best practice consiste nel [assegna a un utente il ruolo Solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e poi [creare un servizio personalizzato da utilizzare con API REST](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
+Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api), è consigliabile [assegnare a un utente il ruolo Solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e quindi [creare un servizio personalizzato da utilizzare con REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. Fai clic su **[!UICONTROL Ruoli]** e quindi **[!UICONTROL Crea Ruolo]**.
+1. Fare clic sulla scheda **[!UICONTROL Ruoli]** e quindi su **[!UICONTROL Nuovo ruolo]**.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. Inserisci un Nome ruolo, seleziona le Autorizzazioni di accesso API che desideri assegnare e fai clic su **[!UICONTROL Crea]**.
+1. Immetti un nome per il ruolo, seleziona le autorizzazioni di accesso API che desideri concedere e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/create-an-api-only-user-role-4.png)
 
@@ -41,4 +41,4 @@ Se desideri effettuare l’integrazione con Marketo tramite [API REST](https://e
 
 >[!MORELIKETHIS]
 >
->Ok, ben fatto! Ora andiamo [creare un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>Ok, ben fatto! Ora [creiamo un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).

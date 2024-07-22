@@ -13,21 +13,21 @@ ht-degree: 0%
 
 # Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger {#add-remove-custom-object-field-as-smart-list-trigger-constraints}
 
-Marketi Engage offre un controllo granulare sulla sincronizzazione personalizzata degli oggetti Salesforce. Questo consente di selezionare i campi disponibili come vincoli nei filtri oggetto personalizzati e di utilizzarli come attivatori nelle campagne avanzate.
+Marketo Engage offre un controllo granulare sulla sincronizzazione personalizzata degli oggetti Salesforce. Questo consente di selezionare i campi disponibili come vincoli nei filtri oggetto personalizzati e di utilizzarli come attivatori nelle campagne avanzate.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/image2014-12-10-13-3a9-3a47.png)
 
-1. Clic **[!UICONTROL Amministratore]** e poi **[!UICONTROL Sincronizzazione oggetti Salesforce]**.
+1. Fare clic su **[!UICONTROL Admin]** e quindi su **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-12-11-15-3a11-3a41.png)
 
-1. **[!UICONTROL Sincronizzazione oggetti Salesforce]** viene visualizzato nella colonna sinistra.
+1. **[!UICONTROL Salesforce Objects Sync]** viene visualizzato nella colonna sinistra.
 
    ![](assets/image2015-12-11-15-3a15-3a15.png)
 
@@ -35,15 +35,15 @@ Marketi Engage offre un controllo granulare sulla sincronizzazione personalizzat
 
    ![](assets/image2014-12-10-13-3a10-3a11.png)
 
-1. Clic **[!UICONTROL Modifica campi visibili]**.
+1. Fare clic su **[!UICONTROL Modifica campi visibili]**.
 
    >[!TIP]
    >
-   >Se il **[!UICONTROL Modifica campi visibili]** è disattivato, l’oggetto è attualmente in uso in un elenco avanzato o in una campagna avanzata. Rimuovere tutte le associazioni per continuare.
+   >Se il pulsante **[!UICONTROL Modifica campi visibili]** è disattivato, l&#39;oggetto è attualmente in uso in un elenco avanzato o in una campagna avanzata. Rimuovere tutte le associazioni per continuare.
 
    ![](assets/image2014-12-10-13-3a10-3a25.png)
 
-1. Se la sincronizzazione globale è attivata, fare clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Se la sincronizzazione globale è abilitata, fare clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
 
    ![](assets/image2014-12-10-13-3a10-3a36.png)
 
@@ -55,7 +55,7 @@ Marketi Engage offre un controllo granulare sulla sincronizzazione personalizzat
    >
    >Per impostazione predefinita, tutti i campi sono selezionati come vincoli sui filtri.
 
-1. Fai clic sul pulsante **[!UICONTROL Campi]** per confermare le modifiche.
+1. Fai clic sulla scheda **[!UICONTROL Campi]** per confermare le modifiche.
 
    ![](assets/image2014-12-10-13-3a10-3a56.png)
 
@@ -67,4 +67,4 @@ Ora i tuoi elenchi avanzati e le campagne avanzate hanno ancora più potenza.
 
 >[!MORELIKETHIS]
 >
->[Abilita/Disabilita sincronizzazione oggetti personalizzati](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}
+>[Attiva/Disattiva Sincronizzazione Oggetto Personalizzato](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-custom-object-sync.md){target="_blank"}

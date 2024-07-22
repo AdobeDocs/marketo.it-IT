@@ -15,13 +15,13 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Crea un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Crea un nuovo modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
 Quando crei il modello e selezioni e organizzi le fasi di inventario, è il momento di impostare le transizioni.
 
 ![](assets/one-2.png)
 
-1. Fai clic con il pulsante destro del mouse (puoi anche fare doppio clic) su una delle frecce per iniziare e seleziona **Modifica transizione**.
+1. Fare clic con il pulsante destro del mouse (è anche possibile fare doppio clic) su una delle frecce per iniziare e selezionare **Modifica transizione**.
 
    ![](assets/two-2.png)
 
@@ -45,7 +45,7 @@ Quando crei il modello e selezioni e organizzi le fasi di inventario, è il mome
 
    ![](assets/five-2.png)
 
-1. Per tornare al modello, fai clic su **Modeler**.
+1. Per tornare al tuo modello, fai clic su **Modeler**.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Quando crei il modello e selezioni e organizzi le fasi di inventario, è il mome
 
    ![](assets/seven.png)
 
-1. Dopo aver configurato le regole per tutte le transizioni, fai clic su **Convalida** da verificare.
+1. Dopo aver configurato le regole per tutte le transizioni, fai clic su **Convalida** per verificare.
 
    ![](assets/eight.png)
 

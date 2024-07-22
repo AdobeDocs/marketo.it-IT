@@ -25,7 +25,7 @@ Per filtrare in base all’elenco degli account, fai clic sul menu a discesa Vis
 
 ![](assets/three.png)
 
-Per visualizzare [Dashboard elenco account](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), fare clic sul nome dell&#39;elenco di account selezionato...
+Per visualizzare il [dashboard elenco account](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md#account-list-dashboard), fare clic sul nome dell&#39;elenco account selezionato...
 
 ![](assets/four.png)
 
@@ -33,10 +33,10 @@ Per visualizzare [Dashboard elenco account](/help/marketo/product-docs/target-ac
 
 ![](assets/five.png)
 
-Se invece di visualizzare il dashboard Elenco account si desidera espandere un account denominato, fare clic su **Maggiori dettagli** sotto il suo nome...
+Se invece di visualizzare la dashboard dell&#39;elenco account si desidera espandere un account denominato, fare clic su **Ulteriori dettagli** sotto il nome...
 
 ![](assets/six.png)
 
-...e visualizzare [approfondimenti dell’account denominato](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
+...e visualizzare le informazioni sull&#39;[account denominato](/help/marketo/product-docs/target-account-management/measure/named-account-insights.md).
 
 ![](assets/seven.png)

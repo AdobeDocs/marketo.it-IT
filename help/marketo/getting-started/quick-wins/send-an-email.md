@@ -6,7 +6,7 @@ exl-id: 1f80fc08-3587-41f0-9c51-2feea10dff0d
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 
 ## Creare un programma e-mail {#create-an-email-program}
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/send-an-email-1.png)
 
-1. Seleziona il **[!UICONTROL Apprendimento]** cartella. Fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuovo programma]**.
+1. Seleziona la cartella **[!UICONTROL Apprendimento]**. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo programma]**.
 
    ![](assets/send-an-email-2.png)
 
@@ -37,23 +37,23 @@ ht-degree: 0%
 
    ![](assets/send-an-email-3.png)
 
-1. Sotto **[!UICONTROL Canale]**, seleziona **[!UICONTROL Invia e-mail]** e fai clic su **[!UICONTROL Crea]**.
+1. In **[!UICONTROL Canale]**, seleziona **[!UICONTROL Invia e-mail]** e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/send-an-email-4.png)
 
 ## Definire il pubblico {#define-your-audience}
 
-1. Clic **[!UICONTROL Modifica elenco avanzato]** sotto [!UICONTROL Pubblico] affiancare.
+1. Fai clic su **[!UICONTROL Modifica elenco avanzato]** nella sezione [!UICONTROL Pubblico].
 
    ![](assets/send-an-email-5.png)
 
-1. Trova e trascina [!UICONTROL Indirizzo e-mail] filtra nell’area di lavoro.
+1. Trova e trascina il filtro [!UICONTROL Indirizzo e-mail] nell&#39;area di lavoro.
 
    ![](assets/send-an-email-6.png)
 
    >[!TIP]
    >
-   >Utilizza il **[!UICONTROL Ricerca]** per trovare più facilmente i filtri.
+   >Utilizza la funzione **[!UICONTROL Ricerca]** per trovare più facilmente i filtri.
 
 1. Trova e seleziona il tuo indirizzo e-mail.
 
@@ -61,13 +61,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se l’e-mail non si compila automaticamente, potresti aver dimenticato di [Imposta e aggiungi un lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+   >Se l&#39;e-mail non viene compilata automaticamente, è possibile che ti sia dimenticato di [Configurare e aggiungere un lead.](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
    >[!NOTE]
    >
    >In questo esempio ti richiediamo di inviare l’e-mail solo a te stesso, ma puoi personalizzare il pubblico come ritieni opportuno.
 
-1. Torna alla scheda del programma principale e fai clic sull’icona di aggiornamento per **[!UICONTROL Persona]**.
+1. Torna alla scheda del programma principale e fai clic sull&#39;icona di aggiornamento per **[!UICONTROL Persona]**.
 
    ![](assets/send-an-email-8.png)
 
@@ -75,7 +75,7 @@ ht-degree: 0%
 
 ## Creare un messaggio e-mail {#create-an-email}
 
-1. Sotto il riquadro E-mail fai clic su **[!UICONTROL Nuova e-mail]**.
+1. Nella sezione E-mail, fai clic su **[!UICONTROL Nuovo messaggio e-mail]**.
 
    ![](assets/send-an-email-9.png)
 
@@ -89,35 +89,35 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se si dispone di un blocco popup, fare clic su **[!UICONTROL Modifica bozza]** per accedere all’editor e-mail.
+   >Se hai un blocco popup, fai clic su **[!UICONTROL Modifica bozza]** per accedere all&#39;editor e-mail.
 
-1. Seleziona l’area da modificare, fai clic sull’icona a forma di ingranaggio a destra, quindi seleziona **[!UICONTROL Modifica]** (puoi anche fare doppio clic sulla sezione modificabile da modificare).
+1. Seleziona l&#39;area da modificare, fai clic sull&#39;icona a forma di ingranaggio a destra, quindi seleziona **[!UICONTROL Modifica]** (puoi anche fare doppio clic sulla sezione modificabile da modificare).
 
    ![](assets/send-an-email-12.png)
 
-1. Inserisci il contenuto desiderato e fai clic su **[!UICONTROL Salva]**.
+1. Immettere il contenuto desiderato e fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/send-an-email-13.png)
 
-1. Fai clic su **[!UICONTROL Azioni e-mail]** a discesa e selezionare **[!UICONTROL Approva e chiudi]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni e-mail]** e seleziona **[!UICONTROL Approva e chiudi]**.
 
    ![](assets/send-an-email-14.png)
 
    >[!TIP]
    >
-   >Vuoi inviarti un rapido esempio per vedere come si presenta il tuo messaggio e-mail prima di avviarlo? Seleziona **[!UICONTROL Invia esempio]** nel menu precedente, oppure fai clic su **[!UICONTROL Azioni e-mail]** allora [**[!UICONTROL Invia esempio]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
+   >Vuoi inviarti un rapido esempio per vedere come si presenta il tuo messaggio e-mail prima di avviarlo? Seleziona **[!UICONTROL Invia campione]** nel menu qui sopra, oppure fai clic su **[!UICONTROL Azioni e-mail]** e quindi su [**[!UICONTROL Invia campione]**](/help/marketo/product-docs/email-marketing/general/creating-an-email/send-a-sample-email.md){target="_blank"}.
 
 1. Seleziona il Programma e-mail nella struttura a sinistra.
 
    ![](assets/send-an-email-15.png)
 
-1. Sotto [!UICONTROL Pianificazione] , imposta il giorno di lancio dell’e-mail su **[!UICONTROL Oggi]**.
+1. Nel riquadro [!UICONTROL Pianificazione], imposta il giorno di avvio per l&#39;e-mail su **[!UICONTROL Oggi]**.
 
    ![](assets/send-an-email-16.png)
 
    >[!NOTE]
    >
-   >Ulteriori informazioni su [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} and [Head Start](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
+   >Ulteriori informazioni su [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md){target="_blank"} e [Inizio intestazione](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md){target="_blank"}.
 
 1. Seleziona un orario futuro di almeno 15 minuti.
 
@@ -125,9 +125,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Il fuso orario predefinito non è vostro? Scopri come [aggiorna qui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
+   >Il fuso orario predefinito non è vostro? Scopri come [aggiornarla qui](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md){target="_blank"}.
 
-1. Clic **[!UICONTROL Approva programma]** sotto [!UICONTROL Approvazione] piastrella e hai finito!
+1. Fai clic su **[!UICONTROL Approva programma]** sotto il riquadro [!UICONTROL Approvazione] e l&#39;operazione è terminata.
 
    ![](assets/send-an-email-18.png)
 

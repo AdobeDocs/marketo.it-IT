@@ -6,7 +6,7 @@ exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
 source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ Marketo Sales Insight utilizza stelle e fiamma per dare la priorità ai lead. Ma
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Amministratore, fai clic su **Insight sulle vendite**.
+1. In Amministratore fare clic su **Informazioni sulle vendite**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Sotto **Impostazioni punteggio lead** , fare clic su **Modifica**.
+1. Nella sezione **Impostazioni punteggio lead**, fai clic su **Modifica**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Seleziona la **Metodo di assegnazione punteggio** di tua scelta.
+1. Selezionare il **metodo di assegnazione del punteggio** desiderato.
 
    >[!NOTE]
    >
    >**Definizione**
    >
-   >**Dinamico** - è un valore percentuale derivato da [dati relativi](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Cose fantastiche. Si consiglia questo metodo.
+   >**Dinamico** - Valore percentuale derivato da [dati relativi](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Cose fantastiche. Si consiglia questo metodo.
    >
-   >**Statico** - Consente di definire i numeri esatti dei punteggi, senza più percentuali né salse segrete.
+   >**Statico** - Ti consente di definire numeri di punteggio esatti - non più percentuali, non più salse segrete.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 

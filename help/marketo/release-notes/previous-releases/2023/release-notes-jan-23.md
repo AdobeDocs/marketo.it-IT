@@ -5,7 +5,7 @@ exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
 source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '626'
 ht-degree: 3%
 
 ---
@@ -16,17 +16,17 @@ Di seguito sono elencate tutte le funzioni incluse nella versione di gennaio 202
 
 >[!AVAILABILITY]
 >
->Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **20 gennaio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **20 gennaio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
-### Marketi Engage Modern UX {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Schermi aggiornati nell’interfaccia utente moderna**: nell’interfaccia utente moderna (precedentemente nota come Esperienza di nuova generazione), offriamo schermi aggiuntivi e aggiornati che offrono miglioramenti aggiornati a livello di progettazione e usabilità, accessibili tramite interruttore:
+* **Aggiornamento di Screens nell&#39;interfaccia utente moderna**: nell&#39;interfaccia utente moderna (precedentemente nota come esperienza di nuova generazione) sono disponibili schermate aggiuntive e aggiornate che offrono miglioramenti aggiornati a livello di progettazione e usabilità accessibili tramite switch:
 
    * Vista elenco snippet
    * Elenco modelli pagina di destinazione
@@ -43,7 +43,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-* **Utilizzo ottimizzato del componente per i dettagli del modello e-mail e dei frammenti**: la nuova scheda Usato da dell’interfaccia utente fornisce informazioni aggiuntive su ciascuna delle risorse Usato da, ad esempio quando è stata modificata l’ultima volta e da chi. Puoi eseguire facilmente l’analisi tramite le funzionalità di ricerca, ordinamento e filtro. Questo nuovo componente dell’interfaccia utente verrà incorporato a partire dalle risorse Modello e-mail e Snippet.
+* **Utilizzo avanzato del componente per i dettagli del modello e-mail e dei frammenti di codice**: la nuova scheda Utilizzo da parte dell&#39;interfaccia utente fornisce informazioni aggiuntive su ciascuna delle risorse Utilizzo da, ad esempio quando è stata modificata l&#39;ultima volta e da chi. Puoi eseguire facilmente l’analisi tramite le funzionalità di ricerca, ordinamento e filtro. Questo nuovo componente dell’interfaccia utente verrà incorporato a partire dalle risorse Modello e-mail e Snippet.
 
 <table> 
   <tr> 
@@ -61,7 +61,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Modali riprogettati per le risorse dei rapporti**: nuovo design per i moduli di configurazione dei rapporti nell’interfaccia utente moderna, con aspetto aggiornato e accessibilità migliorata.
+* **Modali riprogettati per Report Assets**: nuova progettazione per i moduli di configurazione dei report nell&#39;interfaccia utente moderna, che offre un aspetto aggiornato e una migliore accessibilità.
 
 <table> 
   <tr> 
@@ -79,7 +79,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Marketo Measure Ultimate**: consente l’attribuzione B2B completa per le aziende con più istanze di gestione delle relazioni con i clienti e/o di Marketo Engage e diverse esigenze in termini di dati di origine. Fornisce anche una soluzione di attribuzione B2B per RT-CDP Adobe tramite dati AEP condivisi.
+* **Marketo Measure Ultimate**: consente l&#39;attribuzione B2B completa per le aziende con più istanze di gestione delle relazioni con i clienti e/o di Marketo Engage e diverse esigenze di dati di origine. Fornisce anche una soluzione di attribuzione B2B per RT-CDP Adobe tramite dati AEP condivisi.
 
 <table> 
   <tr> 
@@ -97,7 +97,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 </br>
 
-* **Scheda Servizi Web migliorata aggiungendo informazioni API di esportazione in blocco**: ora puoi visualizzare l’allocazione della capacità giornaliera per gli abbonamenti e la quantità di allocazione della capacità giornaliera utilizzata negli ultimi 7 giorni.
+* **Scheda Servizi Web migliorati aggiungendo informazioni API esportazione in blocco**: è ora possibile visualizzare l&#39;allocazione della capacità giornaliera per le sottoscrizioni e la quantità di allocazione della capacità giornaliera utilizzata negli ultimi 7 giorni.
 
 <table> 
   <tr> 
@@ -119,7 +119,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 </br>
 
-* **Definite l&#39;elenco di selezione nella scheda di acquisizione informazioni per il Dynamic Chat**: per garantire la pulizia dei dati, puoi definire elenchi a discesa per le schede di acquisizione delle informazioni, in modo che i visitatori possano selezionare solo da un elenco predefinito di opzioni.
+* **Definisci elenco di selezione nella scheda di acquisizione informazioni per il Dynamic Chat**: per garantire la pulizia dei dati, puoi definire elenchi di selezione per le schede di acquisizione informazioni in modo che i visitatori possano selezionare solo da un elenco predefinito di opzioni.
 
 <table> 
   <tr> 
@@ -133,7 +133,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Conferma personalizzazione in riunione per Dynamic Chat**: gli agenti possono personalizzare le conferme e-mail per la prenotazione di una riunione utilizzando i campi Persona del Marketo Engage e Azienda per interagire meglio con i visitatori (ad esempio: salutare i visitatori in base al nome nell’e-mail di notifica della prenotazione di una riunione automatica).
+* **Conferma di Personalization in riunione per il Dynamic Chat**: gli agenti possono personalizzare le conferme e-mail di prenotazione della riunione utilizzando i campi Persona del Marketo Engage e Azienda per interagire meglio con i visitatori (ad esempio, salutare i visitatori in base al nome nell&#39;e-mail di notifica di prenotazione riunione automatica).
 
 <table> 
   <tr> 
@@ -147,7 +147,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Cerca in Progettazione flussi**: cerca facilmente contenuti in Progettazione flussi per trovare rapidamente contenuti su tutte le schede/nodi di un flusso (ad esempio: cerca &quot;SEO&quot; ed evidenzia tutti i nodi che contengono quella stringa).
+* **Cerca nel flusso Designer**: cerca facilmente il contenuto nel flusso Designer per trovare rapidamente il contenuto in tutte le schede/nodi di un flusso (ad esempio, cerca &quot;SEO&quot; ed evidenzia tutti i nodi che contengono tale stringa).
 
 <table> 
   <tr> 
@@ -161,7 +161,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Selettore data/ora chatbot per Dynamic Chat**: i visitatori Web possono utilizzare il selettore calendario per scegliere una data e un’ora anziché immettere manualmente la data.
+* **Selettore data/ora chatbot per il Dynamic Chat**: i visitatori Web possono utilizzare il selettore calendario per scegliere una data e un&#39;ora invece di immettere la data manualmente.
 
 <table> 
   <tr> 
@@ -175,7 +175,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tbody>
 </table>
 
-* **Notifiche e-mail riunione pianificata per il Dynamic Chat**: quando una riunione viene prenotata sul calendario di un agente, l’agente riceverà una notifica e-mail sulla prenotazione, incluse informazioni dettagliate sul coinvolgimento di Dynamic Chat del visitatore.
+* **Notifiche e-mail riunione pianificata per il Dynamic Chat**: quando una riunione viene prenotata nel calendario di un agente, l&#39;agente riceverà una notifica e-mail relativa alla prenotazione, incluse informazioni dettagliate sul coinvolgimento del Dynamic Chat del visitatore.
 
 <table> 
   <tr> 
@@ -191,6 +191,6 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 ## Annunci {#announcements}
 
-* **Modifica API REST di Marketo**: con la versione di ottobre 2022, è stata introdotta una modifica minore al messaggio di risposta dell’API REST di Marketo. Vedi questo [Post Marketo Nation](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"} per ulteriori dettagli.
+* **Modifica API REST di Marketo**: con la versione di ottobre 2022, è stata introdotta una modifica minore al messaggio di risposta API REST di Marketo. Per ulteriori dettagli, consulta [Marketo Nation post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}.
 
-* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione del Marketo Engage di ottobre 2022 e gennaio 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione del Marketo Engage di ottobre 2022 e di gennaio 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

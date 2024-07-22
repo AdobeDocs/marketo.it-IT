@@ -2,10 +2,10 @@
 description: Modello per pagina di destinazione rapida - Documentazione di Marketo - Documentazione del prodotto
 title: Modello per pagina di destinazione rapida
 feature: Programs
-exl-id: 677bf3fa-25da-40c8-9c1e-6c6385a0596a
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Alcuni dei programmi iniziali nella Libreria di riferimento del Marketo Engage c
 >
 >Ulteriori informazioni su [Modelli di pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo sezioni {#sections-summary}
 
@@ -49,7 +49,8 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 * Elemento di testo paragrafo per aggiornare la copia del paragrafo
 * Elemento modulo da aggiungere in un modulo
 * Elemento di testo sotto il modulo per modificare il testo e i collegamenti dell’informativa sulla privacy
-* Variabili da modificare: colore di sfondo per la sezione
+* Variabili da modificare:
+Colore di sfondo per sezione
    * Colore di sfondo direttamente dietro al modulo
    * Raggio del bordo per il riquadro intorno al modulo (che lo rende con angoli curvi o, se impostato su &quot;0&quot;, con angoli quadrati)
    * Mostrare o nascondere l&#39;intera sezione
@@ -79,9 +80,9 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ### Variabili aggiuntive {#additional-variables}
 
-* **Raggio bordo pulsante**: regola il pulsante del modulo in modo che sia arrotondato o rettangolare
+* **Raggio bordo pulsante**: imposta il pulsante del modulo in modo che sia arrotondato o rettangolare
 * **Colore pulsante**: aggiorna il colore del pulsante nel modulo
-* **Colore al passaggio del mouse sul pulsante**: modifica il colore dello stato al passaggio del mouse per il pulsante nel modulo
-* **Colore collegamento**: aggiorna il colore dei collegamenti in tutta la pagina
-* **Spaziatura superiore sezione**: aggiunge spazio sopra ogni sezione, tranne la sezione del logo
-* **Spaziatura inferiore sezione**: aggiunge spazio sotto ogni sezione ad eccezione della sezione loghi
+* **Colore passaggio del mouse sul pulsante**: cambia il colore dello stato del passaggio del mouse per il pulsante nel modulo
+* **Colore collegamento**: aggiorna il colore dei collegamenti nella pagina
+* **Spaziatura superiore sezione**: aggiunge spazio sopra ogni sezione ad eccezione della sezione logo
+* **Spaziatura inferiore sezione**: aggiunge spazio sotto ogni sezione ad eccezione della sezione logos

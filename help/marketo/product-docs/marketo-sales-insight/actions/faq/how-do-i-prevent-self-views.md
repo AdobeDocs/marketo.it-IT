@@ -30,11 +30,11 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Clic **Opzioni**.
+1. Fare clic su **Opzioni**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. Nella finestra di dialogo Opzioni di Outlook fare clic su **Centro affidabilità**.
+1. Nella finestra di dialogo Opzioni di Outlook fare clic su **Centro protezione**.
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
@@ -42,15 +42,15 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Fai clic su Download automatico nel menu a sinistra, quindi seleziona la **Non scaricare automaticamente le immagini nelle e-mail o negli elementi RSS di HTML** casella di controllo.
+1. Fare clic su Download automatico nel menu a sinistra e selezionare la casella di controllo **Non scaricare automaticamente le immagini nell&#39;e-mail HTML o negli elementi RSS**.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Clic **OK** nella finestra di dialogo Centro protezione.
+1. Fare clic su **OK** nella finestra di dialogo Centro protezione.
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Clic **OK** nella finestra di dialogo Opzioni di Outlook.
+1. Fare clic su **OK** nella finestra di dialogo Opzioni di Outlook.
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
@@ -58,7 +58,7 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
 Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine invisibile nel client e-mail. È possibile ridurre in modo significativo la quantità di visualizzazioni automatiche in Outlook disabilitando il download automatico delle immagini. Di seguito sono riportati i passaggi come.
 
-1. In Outlook, fare clic su **Outlook** nella barra dei menu e seleziona **Preferenze**.
+1. In Outlook, fare clic su **Outlook** nella barra dei menu e selezionare **Preferenze**.
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
@@ -66,6 +66,6 @@ Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine inv
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. In Protezione, fai clic su **Mai** pulsante di opzione.
+1. In Protezione fare clic sul pulsante di opzione **Mai**.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

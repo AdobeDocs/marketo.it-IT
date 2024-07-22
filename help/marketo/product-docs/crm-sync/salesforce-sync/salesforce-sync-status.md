@@ -22,11 +22,11 @@ I passaggi di sincronizzazione riflettono le operazioni di push o pull di ciascu
 
 ## Visualizza stato di sincronizzazione {#view-sync-status}
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/salesforce-sync-status-1.png)
 
-1. Sotto [!UICONTROL Integrazione], fai clic su **Salesforce**, quindi **[!UICONTROL Stato sincronizzazione]** scheda.
+1. In [!UICONTROL Integrazione], fai clic su **Salesforce**, quindi sulla scheda **[!UICONTROL Stato sincronizzazione]**.
 
    ![](assets/salesforce-sync-status-2.png)
 
@@ -40,15 +40,15 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
 
    ![](assets/salesforce-sync-status-4.png)
 
-1. Seleziona l’intervallo di date e ora, quindi fai clic sull’elenco a discesa in base al quale filtrare [!UICONTROL Tipo di oggetto], [!UICONTROL Tipo di operazione], e/o [!UICONTROL Tipo di stato].
+1. Seleziona l&#39;intervallo di date e ora, quindi fai clic sull&#39;elenco a discesa per filtrare in base a [!UICONTROL Tipo di oggetto], [!UICONTROL Tipo di operazione] e/o [!UICONTROL Tipo di stato].
 
    ![](assets/salesforce-sync-status-5.png)
 
-1. Clic **[!UICONTROL Applica]**.
+1. Fare clic su **[!UICONTROL Applica]**.
 
    ![](assets/salesforce-sync-status-6.png)
 
-**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fai clic su **[!UICONTROL Esporta]**. I dati verranno esportati come file CSV.
+**PASSAGGIO FACOLTATIVO**: per esportare gli errori di sincronizzazione, fare clic su **[!UICONTROL Esporta]**. I dati verranno esportati come file CSV.
 
 ![](assets/salesforce-sync-status-7.png)
 
@@ -119,7 +119,7 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
  </tbody> 
 </table>
 
-&#42;Dati ripristinati allo stato precedente di integrità dopo un errore del passaggio di sincronizzazione.
+&#42;I dati sono tornati allo stato di integrità precedente dopo un errore del passaggio di sincronizzazione.
 
 ## Tipo di oggetto {#object-type}
 
@@ -249,4 +249,4 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
  </tbody> 
 </table>
 
-&#42;La configurazione del branding a livello di abbonamento determina l’etichetta: &quot;Lead&quot; o &quot;Persona&quot; nel rapporto.
+&#42;La configurazione del branding a livello di abbonamento determina l&#39;etichetta: &quot;Lead&quot; o &quot;Person&quot; nel report.

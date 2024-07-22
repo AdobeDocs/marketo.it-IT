@@ -2,10 +2,10 @@
 description: Gestione dei lead operativi - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione OP-Lead
 feature: Programs
-exl-id: 28db1a91-a559-4dcb-b2e3-9cb2c0c23f9f
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Questo è un esempio di flussi di lavoro basati sulle best practice per la gesti
 >
 >In Marketo Engage, i record del database sono denominati persone/persone. La gestione dei lead in questo esempio fa riferimento ai record nel CRM.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html) pagina.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Riepilogo canale {#channel-summary}
 
@@ -39,7 +39,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -80,7 +80,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 

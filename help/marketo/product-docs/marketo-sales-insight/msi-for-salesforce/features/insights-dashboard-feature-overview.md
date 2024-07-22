@@ -6,7 +6,7 @@ exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '1503'
+source-wordcount: '1525'
 ht-degree: 0%
 
 ---
@@ -17,20 +17,20 @@ Ulteriori informazioni sulle funzioni disponibili nella dashboard Informazioni d
 
 >[!PREREQUISITES]
 >
->È necessario disporre del pacchetto SFDC MSI più recente e [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>Devi disporre del pacchetto SFDC MSI più recente e della [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
 ## Layout contatto {#contact-layout}
 
-**Griglia velocità di coinvolgimento**
+**Griglia Velocità Di Coinvolgimento**
 
 * Questa griglia intelligente include i momenti di interesse, e-mail e attività Web negli ultimi 90 giorni
 * L’utente può scegliere di &quot;mostrare l’attività account&quot;, in modo da disporre a livello di account tutti i momenti di interesse, e-mail e attività web nella visualizzazione del contatto
 * L’utente può evidenziare una settimana specifica per visualizzare le attività entro tale settimana
 * Visualizzazione predefinita: è selezionata la settimana corrente
 
-**Drill-down e riepilogo del coinvolgimento**
+**Espansione e riepilogo del coinvolgimento**
 
 * Espandere schede attività per i momenti di interesse, e-mail e attività web
 * Scheda Attività Momenti di interesse - Include l’opzione di abbonamento
@@ -64,14 +64,14 @@ Scheda Evento:
 
 ## Layout lead {#lead-layout}
 
-**Griglia velocità di coinvolgimento**
+**Griglia Velocità Di Coinvolgimento**
 
 * Questa griglia intelligente include i momenti di interesse, e-mail e attività Web negli ultimi 90 giorni
 * L’utente può evidenziare una settimana specifica per visualizzare le attività entro tale settimana
 * Visualizzazione predefinita: è selezionata la settimana corrente
 * La funzione &quot;Mostra attività account&quot; non è disponibile per i lead perché non fa parte di alcun account in Salesforce finché non viene convertito in un contatto
 
-**Drill-down e riepilogo del coinvolgimento**
+**Espansione e riepilogo del coinvolgimento**
 
 * Schede di attività drill-down per i momenti di interesse, e-mail e attività web
 * Scheda Attività Momenti di interesse - Include l’opzione di abbonamento
@@ -80,7 +80,7 @@ Scheda Evento:
 * La barra di riepilogo settimanale mostra i momenti di interesse, l’e-mail e l’attività web per quella settimana. Ogni icona è cliccabile e può essere usata come filtro per mostrare un’attività specifica
 * Visualizzazione predefinita: elenco delle attività della visualizzazione corrente
 
-**Prossime campagne ed eventi via e-mail:**
+**Prossime campagne ed eventi e-mail:**
 
 Scheda Campagne e-mail:
 
@@ -105,7 +105,7 @@ Scheda Evento:
 
 ## Layout account {#account-layout}
 
-**Griglia velocità di coinvolgimento**
+**Griglia Velocità Di Coinvolgimento**
 
 * Questa griglia intelligente include i momenti di interesse, e-mail e attività Web degli ultimi 90 giorni per tutti i contatti nell’account
 * L’utente può evidenziare una settimana specifica per visualizzare le attività entro tale settimana
@@ -141,7 +141,7 @@ Scheda Evento:
 
 ## Layout opportunità {#opportunity-layout}
 
-**Griglia velocità di coinvolgimento**
+**Griglia Velocità Di Coinvolgimento**
 
 * Questa griglia intelligente include i momenti di interesse, e-mail e attività Web degli ultimi 90 giorni per tutti i contatti nell’opportunità
 * L’utente può evidenziare una settimana specifica per visualizzare le attività entro tale settimana
@@ -156,7 +156,7 @@ Scheda Evento:
 * La barra di riepilogo settimanale mostra i momenti di interesse, l’e-mail e l’attività web per quella settimana. Ogni icona è cliccabile e può essere usata come filtro per mostrare un’attività specifica
 * Visualizzazione predefinita: elenco delle attività della visualizzazione corrente
 
-**Prossime campagne ed eventi e-mail** Scheda Campagne e-mail:
+**Prossime campagne ed eventi e-mail** scheda Campagne e-mail:
 
 * Include campagne che fanno parte di programmi e-mail o programmi predefiniti pianificati nei successivi 90 giorni
 * Non specifico per il contatto/lead (ad esempio, l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza di Marketo). L’elenco delle campagne in tutti i pannelli lead, contatto, account e opportunità sarà lo stesso

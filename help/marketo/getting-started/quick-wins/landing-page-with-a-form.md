@@ -6,7 +6,7 @@ exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '552'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ ht-degree: 0%
 
 ## PASSAGGIO 1: creare un programma {#step-create-a-program}
 
-1. Vai a **[!UICONTROL Attività di marketing]** area.
+1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
 
    ![](assets/landing-page-with-a-form-1.png)
 
-1. Seleziona la **Apprendimento** cartella creata in [vittoria rapida precedente](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. Sotto **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuovo programma]**.
+1. Seleziona la cartella **Apprendimento** creata nella [vittoria rapida precedente](/help/marketo/getting-started/quick-wins/send-an-email.md){target="_blank"}. In **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuovo programma]**.
 
    ![](assets/landing-page-with-a-form-2.png)
 
-1. Immetti un programma **[!UICONTROL Nome]**, seleziona un **[!UICONTROL Canale]** e fai clic su **[!UICONTROL Crea]**.
+1. Immetti un programma **[!UICONTROL Name]**, seleziona un **[!UICONTROL Channel]** e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/landing-page-with-a-form-3.png)
 
@@ -39,13 +39,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Un programma è una specifica iniziativa di marketing. Il **channel** deve essere il meccanismo di consegna, ad esempio webinar, sponsorizzazione o annunci online. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. È inoltre possibile [crea un tuo canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Un programma è una specifica iniziativa di marketing. Il **canale** deve essere il meccanismo di consegna, ad esempio webinar, sponsorizzazione o annuncio online. Puoi visualizzare diverse opzioni di canale nel menu a discesa, a seconda di ciò che è disponibile nella tua istanza. Puoi anche [creare un tuo canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni contenuti.
 
 ## PASSAGGIO 2: creare un modulo {#step-create-a-form}
 
-1. Con il programma selezionato, fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuova risorsa locale]**.
+1. Con il programma selezionato, fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
 
    ![](assets/landing-page-with-a-form-4.png)
 
@@ -53,23 +53,23 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    ![](assets/landing-page-with-a-form-5.png)
 
-1. Immetti un modulo **[!UICONTROL Nome]** e fai clic su **[!UICONTROL Crea]**.
+1. Immetti un modulo **[!UICONTROL Name]** e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/landing-page-with-a-form-6.png)
 
    >[!NOTE]
    >
-   >Assicurarsi che **[!UICONTROL Apri nell’editor]** è selezionata. In caso contrario, sarà necessario fare clic sul pulsante **[!UICONTROL Modifica modulo]** scheda.
+   >Assicurarsi che la casella **[!UICONTROL Apri nell&#39;editor]** sia selezionata. In caso contrario, fare clic sulla scheda **[!UICONTROL Modifica modulo]**.
 
    >[!TIP]
    >
-   >L’editor moduli non è visualizzato? Probabilmente il browser ha bloccato la finestra. Abilita popup da `app.marketo.com` nel browser e fare clic su Modifica bozza nella barra dei menu superiore.
+   >L’editor moduli non è visualizzato? Probabilmente il browser ha bloccato la finestra. Abilitare i popup di `app.marketo.com` nel browser e fare clic su Modifica bozza nella barra dei menu superiore.
 
-1. Seleziona la **[!UICONTROL Indirizzo e-mail]** campo e assegno **[!UICONTROL E&#39; Necessario]**.
+1. Seleziona il campo **[!UICONTROL Indirizzo e-mail]** e seleziona **[!UICONTROL È obbligatorio]**.
 
    ![](assets/landing-page-with-a-form-7.png)
 
-1. Clic **[!UICONTROL Successivo]**.
+1. Fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/landing-page-with-a-form-8.png)
 
@@ -77,11 +77,11 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    ![](assets/landing-page-with-a-form-9.png)
 
-1. Clic **[!UICONTROL Successivo]**.
+1. Fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/landing-page-with-a-form-10.png)
 
-1. Nella sezione Pagina di ringraziamento selezionare **[!UICONTROL URL esterno]** per **[!UICONTROL Completa con]**.
+1. Nella sezione Pagina di ringraziamento, seleziona **[!UICONTROL External URL]** per **[!UICONTROL Completare con]**.
 
    ![](assets/landing-page-with-a-form-11.png)
 
@@ -91,13 +91,13 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    >[!NOTE]
    >
-   >Nella pagina di completamento il visitatore viene reindirizzato dopo la compilazione del modulo. L’URL esterno è un’opzione, ma ce ne sono altre. Consulta [Imposta una pagina di ringraziamento modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
+   >Nella pagina di completamento il visitatore viene reindirizzato dopo la compilazione del modulo. L’URL esterno è un’opzione, ma ce ne sono altre. Consulta [Imposta una pagina di ringraziamento per il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/set-a-form-thank-you-page.md){target="_blank"}.
 
-1. Clic **[!UICONTROL Fine]**.
+1. Fare clic su **[!UICONTROL Fine]**.
 
    ![](assets/landing-page-with-a-form-13.png)
 
-1. Clic **[!UICONTROL Approva e chiudi]**.
+1. Fare clic su **[!UICONTROL Approva e chiudi]**.
 
    ![](assets/landing-page-with-a-form-14.png)
 
@@ -105,7 +105,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
 ## PASSAGGIO 3: creare una pagina di destinazione e aggiungere il modulo {#step-create-a-landing-page-and-add-your-form}
 
-1. Con il programma selezionato, fai clic su **[!UICONTROL Nuovo]** a discesa e selezionare **[!UICONTROL Nuova risorsa locale]**.
+1. Con il programma selezionato, fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
 
    ![](assets/landing-page-with-a-form-15.png)
 
@@ -113,7 +113,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    ![](assets/landing-page-with-a-form-16.png)
 
-1. Inserisci una pagina **[!UICONTROL Nome]**, seleziona un modello e fai clic su **[!UICONTROL Crea]**.
+1. Immetti una pagina **[!UICONTROL Nome]**, seleziona un modello e fai clic su **[!UICONTROL Crea]**.
 
    >[!NOTE]
    >
@@ -121,7 +121,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    ![](assets/landing-page-with-a-form-17.png)
 
-1. Una volta aperto l’editor della pagina di destinazione, trascina [!UICONTROL Modulo] nell&#39;area di lavoro.
+1. Una volta aperto l&#39;editor della pagina di destinazione, trascina l&#39;elemento [!UICONTROL Form] nell&#39;area di lavoro.
 
    ![](assets/landing-page-with-a-form-18.png)
 
@@ -163,7 +163,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    ![](assets/landing-page-with-a-form-25.png)
 
-1. Vai a **[!UICONTROL Database]** area.
+1. Passare all&#39;area **[!UICONTROL Database]**.
 
    ![](assets/landing-page-with-a-form-26.png)
 

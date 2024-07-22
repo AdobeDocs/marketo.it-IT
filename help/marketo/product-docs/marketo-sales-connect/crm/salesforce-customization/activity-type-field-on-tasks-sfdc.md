@@ -6,7 +6,7 @@ exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Con l’aiuto di Sales Connect puoi registrare le tue e-mail e chiamate come att
 
 Verifica innanzitutto di disporre dei valori corretti per l’elenco a discesa. Per apportare qualsiasi modifica alla tua lista di selezione dovrai chiedere aiuto all’amministratore Salesforce.
 
-1. Accedi a [Salesforce.com](https://salesforce.com) e fai clic su Configurazione nell’angolo in alto a destra.
+1. Passa a [Salesforce.com](https://salesforce.com) e fai clic su Configurazione nell&#39;angolo in alto a destra.
 1. Fai clic su Personalizza.
 1. Fai clic su Attività.
 1. Fare clic su Campi attività.
@@ -38,8 +38,8 @@ Verifica innanzitutto di disporre dei valori corretti per l’elenco a discesa. 
 1. Ora ti trovi nell’elenco a discesa Tipo di attività. Assicurati che non sia selezionato &quot;Predefinito&quot;.
 1. Assicurati che sia elencato un valore Tipo per E-mail, Chiamata e Risposta.
 
-Ora che questa è attiva, inizierai a vedere che il campo Tipo popola il valore corrispondente per e-mail, chiamate e risposte registrate. Questi valori _non_ essere compilati nelle attività promemoria di Sales Connect.
+Ora che questa è attiva, inizierai a vedere che il campo Tipo popola il valore corrispondente per e-mail, chiamate e risposte registrate. Questi valori _non_ verranno inseriti nelle attività promemoria di Sales Connect.
 
 >[!NOTE]
 >
->Se il valore &quot;Reply&quot; (Risposta) non è visibile, aggiungerlo facendo clic su **Nuovo**. &quot;Reply&quot; (&quot;Risposta&quot;) non è un valore standard in Salesforce.
+>Se il valore &quot;Reply&quot; (Risposta) non è visualizzato, aggiungerlo facendo clic su **New**. &quot;Reply&quot; (&quot;Risposta&quot;) non è un valore standard in Salesforce.

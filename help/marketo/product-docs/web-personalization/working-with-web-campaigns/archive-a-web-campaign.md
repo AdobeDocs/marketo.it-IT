@@ -13,18 +13,18 @@ ht-degree: 0%
 
 # Archiviare una campagna web {#archive-a-web-campaign}
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/one.jpg)
 
-1. Fai clic sull’elenco a discesa dello stato della campagna web desiderata e seleziona **Archivia**.
+1. Fare clic sull&#39;elenco a discesa dello stato della campagna Web desiderata e selezionare **Archivia**.
 
    ![](assets/two-3.png)
 
    >[!NOTE]
    >
-   >Le campagne web archiviate non vengono visualizzate nel filtro predefinito. Per visualizzarli, fai clic sull’icona Filtro e sotto **Stato**, seleziona la **Archiviato** e fai clic su **Applica**.
+   >Le campagne web archiviate non vengono visualizzate nel filtro predefinito. Per visualizzarli, fai clic sull&#39;icona Filtro e in **Stato** seleziona la casella di controllo **Archiviato** e fai clic su **Applica**.
 
 >[!MORELIKETHIS]
 >
->[Eliminare una campagna web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)
+>[Eliminare una campagna Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/delete-a-web-campaign.md)

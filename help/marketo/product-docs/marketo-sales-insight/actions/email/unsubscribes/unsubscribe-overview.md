@@ -48,7 +48,7 @@ La scheda Cronologia Annulla iscrizione consente agli amministratori e agli uten
 
 >[!NOTE]
 >
->Sarà disponibile una scheda Cronologia Annulla iscrizione solo se la persona ha _ha rieffettuato l’abbonamento_ ad un certo punto.
+>La scheda Cronologia annullamento abbonamento verrà visualizzata solo se l&#39;utente ha _effettuato nuovamente l&#39;abbonamento_.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -75,4 +75,4 @@ La scheda Cronologia Annulla iscrizione consente agli amministratori e agli uten
 
 >[!MORELIKETHIS]
 >
->[Personalizza messaggio di collegamento per annullare l’abbonamento](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)
+>[Personalizza messaggio di collegamento per annullare l&#39;iscrizione](/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/customize-unsubscribe-link-message.md)

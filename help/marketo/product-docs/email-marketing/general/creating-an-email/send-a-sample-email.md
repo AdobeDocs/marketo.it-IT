@@ -13,22 +13,22 @@ ht-degree: 0%
 
 # Invia e-mail di esempio {#send-a-sample-email}
 
-È facile e veloce inviare campioni di un’e-mail. Per inviare un messaggio e-mail con contenuto dinamico, consulta [Anteprima di un’e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
+È facile e veloce inviare campioni di un’e-mail. Per inviare un&#39;e-mail di contenuto dinamico, vedere [Anteprima di un&#39;e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
 >[!NOTE]
 >
->È necessario disporre di **Database di Access - Eseguire azioni a flusso singolo** autorizzazione per l’invio di e-mail di esempio.
+>Per inviare e-mail di esempio è necessario disporre dell&#39;autorizzazione **Database di Access - Esegui azioni a flusso singolo**.
 
 ## Invia e-mail di esempio {#send-a-sample-email-1}
 
-1. Trova e seleziona l’e-mail. Fai clic su **Azioni e-mail** a discesa e selezionare **Invia esempio**.\
+1. Trova e seleziona l’e-mail. Fai clic sul menu a discesa **Azioni e-mail** e seleziona **Invia esempio**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >I miei token vengono risolti nel valore appropriato per il programma dell’e-mail.
 
-1. Inserisci uno o più indirizzi e-mail per la consegna. Per più indirizzi e-mail, utilizza le virgole per separarli. Clic **Invia** al termine.
+1. Inserisci uno o più indirizzi e-mail per la consegna. Per più indirizzi e-mail, utilizza le virgole per separarli. Al termine, fai clic su **Invia**.
 
    ![](assets/two.png)
 
@@ -38,15 +38,15 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Se desideri risolvere i token come una persona specifica, scegli tale persona nel **elenco a discesa della persona** nel passaggio 2.
+   >Se desideri risolvere i token come persona specifica, scegli tale persona nel menu a discesa **persona** nel passaggio 2.
 
 ## Invia un&#39;e-mail di esempio durante la modifica {#send-a-sample-email-while-editing}
 
-1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza** scheda.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic sulla scheda **Modifica bozza**.
 
    ![](assets/three-281-29.jpg)
 
-1. Clic **Azioni e-mail**, seleziona **Invia esempio**.
+1. Fai clic su **Azioni e-mail**, seleziona **Invia esempio**.
 
    ![](assets/four.png)
 
@@ -56,23 +56,23 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il campo trigger è applicabile solo a coloro che utilizzano [scripting e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Inviare un messaggio e-mail di esempio basato su un segmento {#send-a-sample-email-based-on-a-segment}
 
 >[!PREREQUISITES]
 >
->[Applicare la segmentazione all’e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
+>[Applica segmentazione all&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Trova l’e-mail, selezionala e fai clic su **Modifica bozza** scheda.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic sulla scheda **Modifica bozza**.
 
    ![](assets/three-281-29.jpg)
 
-1. Clic **Anteprima**.
+1. Fare clic su **Anteprima**.
 
    ![](assets/1.png)
 
-1. Fai clic su **Visualizza per** a discesa e selezionare **Segmentazione**.
+1. Fai clic sul menu a discesa **Visualizza per** e seleziona **Segmentazione**.
 
    ![](assets/2.png)
 
@@ -84,12 +84,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. Clic **Invia esempio** per ricevere un’e-mail di test del segmento in azione.
+1. Fai clic su **Invia campione** per ricevere un&#39;e-mail di prova del segmento in azione.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >Puoi anche inviare un’e-mail di esempio basata su un segmento nella modalità di modifica dell’e-mail. Fai clic su **Azioni e-mail** a discesa, seleziona **Invia esempio**, quindi scegli il segmento.
+   >Puoi anche inviare un’e-mail di esempio basata su un segmento nella modalità di modifica dell’e-mail. Fai clic sul menu a discesa **Azioni e-mail**, seleziona **Invia campione**, quindi scegli il tuo segmento.
 
 Campionare i contenuti prima di lanciare una campagna è molto importante. Misura due volte, taglia una volta!

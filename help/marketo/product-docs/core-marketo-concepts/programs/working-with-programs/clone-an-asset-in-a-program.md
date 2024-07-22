@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Clonare una risorsa in un programma {#clone-an-asset-in-a-program}
 
-Clonazione di un programma duplicati _tutto_. A volte ti basta clonare una risorsa. Ecco come.
+Clonazione di un programma clona _tutto_. A volte ti basta clonare una risorsa. Ecco come.
 
 >[!NOTE]
 >
->Dovrai eseguire ulteriori passaggi per [clonare un gruppo di test di una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
+>È necessario eseguire ulteriori passaggi per [clonare un gruppo di test di una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/cloning-a-landing-page-test-group.md){target="_blank"}.
 
 ## Clonare una risorsa locale {#clone-a-local-asset}
 
@@ -29,17 +29,17 @@ Clonazione di un programma duplicati _tutto_. A volte ti basta clonare una risor
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Clic **[!UICONTROL Clona]**.
+1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fare clic su **[!UICONTROL Clona]**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
-1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. Compila le informazioni e fai clic su **[!UICONTROL Clona]**.
+1. Ogni tipo di risorsa presenta una finestra di dialogo diversa. Compila le informazioni e fai clic su **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a34.png)
 
    >[!TIP]
    >
-   >Puoi anche clonare una risorsa in un altro programma. Utilizza il **[!UICONTROL Programma]** per effettuare la selezione.
+   >Puoi anche clonare una risorsa in un altro programma. Utilizza il menu a discesa **[!UICONTROL Programma]** per effettuare la selezione.
 
 1. Fantastico! Ora dovresti visualizzare la nuova risorsa clonata.
 

@@ -1,10 +1,10 @@
 ---
 description: Utilizzo dell’invio in blocco di e-mail per le vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dell’e-mail per vendite in blocco in Salesforce
-exl-id: eac77a64-7eaa-48eb-820c-c8e188a234dd
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
 
 >[!PREREQUISITES]
 >
->Assicurarsi di aver installato [pacchetto Sales Insight più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} to your Salesforce instance and have configured the [Action buttons](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} sulle visualizzazioni dei contatti e dell’elenco dei lead in Salesforce.
+>Assicurati di aver installato il [pacchetto Sales Insight più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} nell&#39;istanza Salesforce e di aver configurato i [pulsanti di azione](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nelle visualizzazioni Contatto e Elenco lead in Salesforce.
 
 ## Invio di e-mail in blocco in Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
-1. In Salesforce, accedi alla home page Lead/Contatti facendo clic sul pulsante **Lead/Contatti** scheda.
+1. In Salesforce, passare alla home page Lead/Contatti facendo clic sulla scheda **Lead/Contatti**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-1.png)
 
@@ -31,9 +31,9 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
 
    >[!TIP]
    >
-   >Per creare una nuova vista, fai clic sull’icona a forma di cono a destra e seleziona **Nuovo**. Dopo aver assegnato alla visualizzazione un nuovo nome e averla salvata, puoi fare clic sull’icona del filtro a destra per passare al set desiderato di lead/contatti da inviare tramite e-mail.
+   >Per creare una nuova visualizzazione, fai clic sull&#39;icona del baricentro a destra e seleziona **Nuovo**. Dopo aver assegnato alla visualizzazione un nuovo nome e averla salvata, puoi fare clic sull’icona del filtro a destra per passare al set desiderato di lead/contatti da inviare tramite e-mail.
 
-1. Scegliere l&#39;elenco di contatti o lead desiderato e fare clic su **Invia e-mail vendite** pulsante.
+1. Scegliere l&#39;elenco contatti o lead desiderato e fare clic sul pulsante **Invia e-mail vendite**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-2.png)
 
@@ -43,23 +43,23 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
 
    >[!TIP]
    >
-   >Utilizzare [Categorie bloccate](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} per fornire un accesso più semplice ai tuoi modelli e-mail preferiti.
+   >Utilizza [Categorie bloccate](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} per fornire un accesso più semplice ai tuoi modelli di e-mail preferiti.
 
-   **PASSAGGIO FACOLTATIVO**: per visualizzare in anteprima tutte le personalizzazioni di Campi dinamici, fai clic sul pulsante **Anteprima campi dinamici** pulsante.
+   **PASSAGGIO FACOLTATIVO**: visualizzare in anteprima qualsiasi personalizzazione di campi dinamici facendo clic sul pulsante **Anteprima campi dinamici**.
 
    >[!TIP]
    >
    >Se desideri personalizzare un modello per tutti i destinatari, facendo clic sull’opzione Tutti i destinatari nella barra laterale Componi in blocco, puoi apportare modifiche a tutte le e-mail dei destinatari contemporaneamente. Se desideri apportare una modifica a un’e-mail specifica, fai clic sul nome o sull’e-mail del destinatario nella barra laterale Componi in blocco. Tieni presente che se apporti modifiche a una singola e-mail e quindi apporti modifiche durante la selezione di Tutti i destinatari, le modifiche apportate a Tutti i destinatari sovrascriveranno quelle apportate alla singola e-mail.
 
-1. Seleziona **Invia** per inviare l&#39;e-mail immediatamente, oppure **Imposta pianificazione** per impostare una data e un&#39;ora per l&#39;invio dell&#39;e-mail.
+1. Seleziona **Invia** per inviare l&#39;e-mail immediatamente oppure **Imposta pianificazione** per impostare una data e un&#39;ora per l&#39;invio dell&#39;e-mail.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-3.png)
 
 ## Invio di e-mail in blocco in Salesforce Classic {#sending-bulk-email-in-salesforce-classic}
 
-1. In Salesforce, fai clic su **Lead/Contatti** scheda.
+1. In Salesforce, fai clic sulla scheda **Lead/Contatti**.
 
-1. Nell’elenco a discesa Visualizza, seleziona la visualizzazione desiderata di Lead/Contatti che desideri inviare tramite e-mail e fai clic su **Vai**.
+1. Nel menu a discesa Visualizza, selezionare la visualizzazione desiderata di Lead/Contatti che si desidera inviare tramite e-mail e fare clic su **Vai**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-4.png)
 
@@ -67,7 +67,7 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
    >
    >Per creare una nuova visualizzazione, fare clic su Crea nuova visualizzazione e configurare i filtri disponibili per limitare l&#39;elenco delle persone da aggiungere a una campagna di vendita.
 
-1. Scegliere l&#39;elenco dei contatti o dei lead desiderati e fare clic su **Invia e-mail vendite** pulsante.
+1. Scegliere l&#39;elenco contatti o lead desiderato e fare clic sul pulsante **Invia e-mail vendite**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-5.png)
 
@@ -79,12 +79,12 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
 
    >[!TIP]
    >
-   >Utilizzare [Categorie bloccate](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} per fornire un accesso più semplice ai tuoi modelli e-mail preferiti.
+   >Utilizza [Categorie bloccate](/help/marketo/product-docs/marketo-sales-insight/actions/email/using-the-compose-window/using-a-template-in-the-compose-window.md#pinning-template-categories-in-the-compose-window){target="_blank"} per fornire un accesso più semplice ai tuoi modelli di e-mail preferiti.
 
-   **PASSAGGIO FACOLTATIVO**: per visualizzare in anteprima tutte le personalizzazioni di Campi dinamici, fai clic sul pulsante **Anteprima campi dinamici** pulsante.
+   **PASSAGGIO FACOLTATIVO**: visualizzare in anteprima qualsiasi personalizzazione di campi dinamici facendo clic sul pulsante **Anteprima campi dinamici**.
 
    >[!TIP]
    >
    >Se desideri personalizzare un modello per tutti i destinatari, facendo clic sull’opzione Tutti i destinatari nella barra laterale Componi in blocco, puoi apportare modifiche a tutte le e-mail dei destinatari contemporaneamente. Se desideri apportare una modifica a un’e-mail specifica, fai clic sul nome o sull’e-mail del destinatario nella barra laterale Componi in blocco. Tieni presente che se apporti modifiche a una singola e-mail e quindi apporti modifiche durante la selezione di Tutti i destinatari, le modifiche apportate a Tutti i destinatari sovrascriveranno quelle apportate alla singola e-mail.
 
-1. Seleziona **Invia** per inviare l&#39;e-mail immediatamente, oppure **Imposta pianificazione** per impostare una data e un&#39;ora per l&#39;invio dell&#39;e-mail.
+1. Seleziona **Invia** per inviare l&#39;e-mail immediatamente oppure **Imposta pianificazione** per impostare una data e un&#39;ora per l&#39;invio dell&#39;e-mail.

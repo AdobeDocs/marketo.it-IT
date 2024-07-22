@@ -6,7 +6,7 @@ exl-id: 678684da-3e99-462f-9950-504df1c1bb1e
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -49,4 +49,4 @@ Per specificare un percorso per i file di registro, è possibile specificare il 
 >
 >La disinstallazione del plug-in in remoto comporta la chiusura forzata di Outlook nel computer dell&#39;utente.
 
-Fare riferimento a [Elenco completo degli switch di Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) per provare diversi livelli di registrazione o di interfaccia utente.
+Fare riferimento all&#39;[elenco completo degli switch di Microsoft](https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6) se si desidera provare livelli di registrazione o di interfaccia utente diversi.

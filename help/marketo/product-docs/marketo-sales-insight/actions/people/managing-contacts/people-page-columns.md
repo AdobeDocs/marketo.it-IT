@@ -8,7 +8,7 @@ feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 8%
+ht-degree: 7%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 8%
 
    ![](assets/people-page-columns-1.png)
 
-1. Scorri e seleziona le colonne desiderate (puoi anche fare clic su **Seleziona tutto** se desideri ogni colonna). Al termine, fai clic su (Annulla) nell’elenco.
+1. Scorrere e selezionare le colonne desiderate. È inoltre possibile fare clic su **Seleziona tutto** per ogni colonna. Al termine, fai clic su (Annulla) nell’elenco.
 
    ![](assets/people-page-columns-2.png)
 
@@ -67,7 +67,7 @@ ht-degree: 8%
    <td>Campagna di vendita in cui si trova la persona</td> 
   </tr> 
   <tr> 
-   <td># Campagne</td> 
+   <td>N. campagne</td> 
    <td>Numero totale di campagne di vendita di cui la persona ha fatto parte</td> 
   </tr> 
   <tr> 
@@ -103,7 +103,7 @@ ht-degree: 8%
    <td>Numero totale di visualizzazioni per questa persona</td> 
   </tr> 
   <tr> 
-   <td># Clic</td> 
+   <td>N. clic</td> 
    <td>Numero totale di clic da questa persona</td> 
   </tr> 
   <tr> 
@@ -120,7 +120,7 @@ ht-degree: 8%
   </tr> 
   <tr> 
    <td>Origine</td> 
-   <td>Origine da cui è stata creata la persona</td> 
+   <td>Source da cui è stata creata la persona</td> 
   </tr> 
   <tr> 
    <td>Gruppi (impostazione predefinita)</td> 

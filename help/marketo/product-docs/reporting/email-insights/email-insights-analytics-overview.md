@@ -17,7 +17,7 @@ In Analytics, esplora i dati aggregati per la consegna e il coinvolgimento delle
 
 ![](assets/emailanalytics-1.jpg)
 
-[Filtraggio](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) è disponibile per aiutarti a eseguire il drill-down per metriche specifiche.
+[Il filtro](/help/marketo/product-docs/reporting/email-insights/filtering-in-email-insights.md) è disponibile per aiutarti a eseguire il drill-down per metriche specifiche.
 
 ![](assets/filter-field.png)
 
@@ -45,7 +45,7 @@ Il grafico mostra i criteri filtrati. Per nascondere uno dei filtri, fai clic su
 
 ![](assets/chart2.png)
 
-Se si crea un grafico che si desidera riutilizzare, impostarlo come [grafico rapido](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
+Se crei un grafico che desideri riutilizzare, impostalo come [grafico rapido](/help/marketo/product-docs/reporting/email-insights/email-insights-quick-charts.md).
 
 ![](assets/quick-chart.png)
 
@@ -63,4 +63,4 @@ Puoi anche specificare cosa visualizzare (da sinistra a destra): Tutto, Pubblico
 
 >[!MORELIKETHIS]
 >
->[Panoramica sugli invii di e-mail Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)
+>[Panoramica sugli invii di Email Insights](/help/marketo/product-docs/reporting/email-insights/email-insights-sends-overview.md)

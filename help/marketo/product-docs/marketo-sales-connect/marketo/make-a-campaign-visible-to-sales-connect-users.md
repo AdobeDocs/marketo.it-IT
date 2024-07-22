@@ -19,7 +19,7 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/one.png)
 
-1. Fai clic su **Elenco avanzato** scheda.
+1. Fare clic sulla scheda **Elenco avanzato**.
 
    ![](assets/two.png)
 
@@ -27,11 +27,11 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/three.png)
 
-1. Per l’origine, scegli &quot;è&quot; **API servizio Web**.
+1. Per l&#39;origine, scegliere &quot;is&quot; **API servizio Web**.
 
    ![](assets/4.png)
 
-1. Fai clic su **Flusso** scheda.
+1. Fare clic sulla scheda **Flusso**.
 
    ![](assets/five.png)
 
@@ -39,7 +39,7 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/six.png)
 
-1. Per Tipo, seleziona **Web**.
+1. Per Tipo, selezionare **Web**.
 
    ![](assets/seven.png)
 
@@ -47,6 +47,6 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/eight.png)
 
-1. Fai clic su **Pianificazione** scheda e **Attiva** la campagna.
+1. Fai clic sulla scheda **Pianifica** e **Attiva** la campagna.
 
    ![](assets/nine.png)

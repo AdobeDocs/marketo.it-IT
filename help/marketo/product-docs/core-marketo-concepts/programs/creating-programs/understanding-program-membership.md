@@ -23,18 +23,18 @@ ht-degree: 0%
 
 ## Come le persone diventano membri di un programma {#how-people-become-members-of-a-program}
 
-1. Una persona compila un [modulo in una pagina di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} nel programma.
+1. Una persona compila un modulo [in una pagina di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} nel programma.
 
    1. La persona avrà automaticamente il primo stato nella progressione.
 
-1. Tu [importa membri nel programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} da un file CSV.
+1. [importa membri nel programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} da un file CSV.
 
    1. La persona avrà automaticamente il primo stato nella progressione.
 
-1. Utilizzi il [cambiare lo stato del programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"} passaggio di flusso.
-1. Una persona si registra o partecipa a un [webinar sincronizzato con un programma di eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
-1. Una persona è [creato mediante l&#39;applicazione di archiviazione Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Una persona viene aggiunta a una campagna SFDC, che è [sincronizzato nel programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. Utilizza il passaggio di flusso [cambia stato del programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}.
+1. Una persona si registra o partecipa a un [webinar sincronizzato con un programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
+1. Creazione di una persona [tramite l&#39;applicazione di archiviazione Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
+1. Persona aggiunta a una campagna SFDC [sincronizzata con il programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 ## Stati dei programmi {#program-statuses}
 
-Gli stati del programma sono i passaggi che le persone seguono in un programma (ad esempio Invitato, Confermato, Partecipato, No Show). Questi passaggi sono definiti da [channel](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+Gli stati del programma sono i passaggi che le persone seguono in un programma (ad esempio Invitato, Confermato, Partecipato, No Show). Questi passaggi sono definiti dal [canale](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
 ![](assets/image2015-2-5-15-3a14-3a48.png)
 
@@ -60,9 +60,9 @@ Lo scopo di un programma è quello di creare un’interazione significativa con 
 
 ## Programma di acquisizione {#acquisition-program}
 
-Quando un nuovo nome entra nel sistema come membro del programma, Marketo imposta automaticamente tale programma come &quot;acquisizione&quot;. Questo stabilisce il merito per [Attribuzione del primo contatto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Quando un nuovo nome entra nel sistema come membro del programma, Marketo imposta automaticamente tale programma come &quot;acquisizione&quot;. Viene stabilito il merito per [Attribuzione primo contatto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
 >* [Utilizzare i tag in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/use-tags-in-a-program.md){target="_blank"}
->* [Creare un rapporto sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}
+>* [Crea un report sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}

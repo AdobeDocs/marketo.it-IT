@@ -15,10 +15,10 @@ ht-degree: 0%
 
 La crittografia SSL (Secure Socket Layer) consente di rendere sicure tutte le pagine di destinazione di un’istanza del Marketo Engage.
 
-Quando si compila un modulo web o si visita una pagina di destinazione ospitata dal Marketo Engage, per impostazione predefinita le informazioni vengono inviate tramite un protocollo non sicuro (HTTP). In base alla politica aziendale, potrebbe essere utile proteggere le informazioni inviate a Marketo tramite (HTTPS). Ad esempio, quando visiti `http://info.mydomain.com/` ora sarà `https://info.mydomain.com/`.
+Quando si compila un modulo web o si visita una pagina di destinazione ospitata dal Marketo Engage, per impostazione predefinita le informazioni vengono inviate tramite un protocollo non sicuro (HTTP). In base alla politica aziendale, potrebbe essere utile proteggere le informazioni inviate a Marketo tramite (HTTPS). Ad esempio, quando visiti `http://info.mydomain.com/`, adesso sarà `https://info.mydomain.com/`.
 
 Per impostazione predefinita, il Marketo Engage tiene traccia di &quot;Visited Web Page&quot; e &quot;Click Link on Web Page&quot; su un protocollo HTTP non sicuro. Se desideri proteggere i collegamenti di tracciamento con il proprio certificato, è necessario che Marketo crei un server non condiviso separato per abilitarlo. Proteggere tutti gli aspetti dell’interazione di un contatto con te in genere significa proteggere sia le pagine di destinazione che i collegamenti di tracciamento.
 
-Alla fine del 2022 sono state apportate modifiche alla modalità di protezione dei domini di collegamento delle pagine di destinazione e di tracciamento. [Scopri di più su di loro qui](https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305){target="_blank"}.
+Alla fine del 2022 sono state apportate modifiche alla modalità di protezione dei domini di collegamento delle pagine di destinazione e di tracciamento. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305){target="_blank"}.
 
 Se desideri utilizzare SSL per le pagine di destinazione del Marketo Engage, contatta il team dell’account Adobe (il tuo account manager).

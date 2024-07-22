@@ -6,7 +6,7 @@ exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e altro ancora.
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. Sotto **[!UICONTROL Sicurezza]**, seleziona **[!UICONTROL Audit Trail]**.
+1. In **[!UICONTROL Sicurezza]**, selezionare **[!UICONTROL Audit Trail]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -29,21 +29,21 @@ Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e alt
 
    >[!NOTE]
    >
-   >Sono disponibili numerose possibili combinazioni di parametri di ricerca. In questo esempio individuiamo: _tutte le e-mail, a cura di chiunque, negli ultimi sette giorni_.
+   >Sono disponibili numerose possibili combinazioni di parametri di ricerca. In questo esempio vengono individuate _tutte le e-mail, modificate da chiunque, nei sette giorni precedenti_.
 
-1. Fai clic su **[!UICONTROL Periodo]** a discesa e selezionare **[!UICONTROL Ultimi 7 giorni]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Periodo]** e seleziona **[!UICONTROL Ultimi 7 giorni]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Fai clic su **[!UICONTROL Tipo risorsa]** a discesa e selezionare **[!UICONTROL E-mail]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Tipo risorsa]** e seleziona **[!UICONTROL E-mail]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Fai clic su **Aazioni** a discesa e selezionare **[!UICONTROL Modifica]**.
+1. Fai clic sul menu a discesa **Actions** e seleziona **[!UICONTROL Modifica]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Clic **[!UICONTROL Applica]**.
+1. Fare clic su **[!UICONTROL Applica]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 
@@ -55,7 +55,7 @@ Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e alt
 
    >[!NOTE]
    >
-   >Se sono state attivate delle aree di lavoro, verranno visualizzati i dati di controllo per tutte le aree di lavoro. Se applichi un filtro dell’area di lavoro, Marketo ricorda il valore dell’area di lavoro precedente ogni volta che utilizzi l’audit trail. Vengono applicate le autorizzazioni dell’area di lavoro a livello di risorsa.
+   >Se sono state attivate delle aree di lavoro, verranno visualizzati i dati di controllo per tutte le aree di lavoro. Se applichi un filtro dell’area di lavoro, Marketo ricorda il valore dell’area di lavoro precedente ogni volta che utilizzi l’audit trail. Le autorizzazioni Workspace a livello di risorsa vengono applicate.
 
    >[!MORELIKETHIS]
    >

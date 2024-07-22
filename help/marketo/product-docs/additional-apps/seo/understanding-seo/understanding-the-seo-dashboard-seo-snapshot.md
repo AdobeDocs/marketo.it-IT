@@ -6,7 +6,7 @@ exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
 source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Utilizza la dashboard per ottenere una visualizzazione di alto livello della tendenza del rango delle parole chiave e dell’ottimizzazione del sito per SEO (Search Engine Optimization).
 
-Per scoprire su cosa concentrarti per migliorare le tue attività SEO, utilizza [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) sezione di questo dashboard.
+Per scoprire su cosa concentrarsi per migliorare le tue attività SEO, utilizza la sezione [[!UICONTROL Recommendations]](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md) di questo dashboard.
 
 ![](assets/image2014-9-17-21-3a32-3a22.png)
 
 ## [!UICONTROL Riepilogo classificazione parole chiave] {#keyword-rank-summary}
 
-Questa sezione mostra come il tuo sito viene classificato per il [parole chiave di destinazione](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
+Questa sezione mostra come il tuo sito viene classificato per le [parole chiave di cui stai eseguendo il targeting](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-keywords.md).
 
 ![](assets/image2014-9-17-21-3a34-3a5.png)
 
@@ -33,7 +33,7 @@ Questa sezione mostra come il tuo sito viene classificato per il [parole chiave 
 
 >[!TIP]
 >
->È inoltre possibile visualizzare come [elenco specifico](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) di parole chiave in esecuzione. Fai clic sull’elenco a discesa e seleziona quello che ti interessa.
+>È inoltre possibile visualizzare le prestazioni di un [elenco specifico](/help/marketo/product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md) di parole chiave. Fai clic sull’elenco a discesa e seleziona quello che ti interessa.
 
 >[!NOTE]
 >
@@ -53,7 +53,7 @@ Si basa su una raccolta di decine di best practice. Un punteggio pari o superior
 
 ## [!UICONTROL Tendenze classificazione parole chiave] {#keyword-rank-trends}
 
-Il [!UICONTROL Tendenze classificazione parole chiave] graph richiama le parole chiave con i cinque volumi di ricerca mensili più elevati e genera un grafico che illustra la classificazione nel tempo.
+Il grafico [!UICONTROL Tendenze classifica parole chiave] richiama le parole chiave con i cinque volumi di ricerca mensili più elevati e genera un grafico che mostra come sono classificate nel tempo.
 
 >[!TIP]
 >
@@ -61,8 +61,8 @@ Il [!UICONTROL Tendenze classificazione parole chiave] graph richiama le parole 
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Ora diamo un’occhiata al [!UICONTROL Recommendations] sezione di questo dashboard.
+Esaminiamo ora la sezione [!UICONTROL Recommendations] di questo dashboard.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sulla dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
+>[Informazioni sul dashboard: SEO Recommendations](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)

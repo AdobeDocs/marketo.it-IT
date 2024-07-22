@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,13 +17,13 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 
 >[!PREREQUISITES]
 >
->Il contenuto deve essere [approvato per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
+>Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
 
-1. Il giorno **Contenuto predittivo** , fai clic su un titolo per aprire l’editor.
+1. Nella pagina **Contenuto predittivo** fare clic su un titolo per aprire l&#39;editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Clic **Contenuti multimediali avanzati**.
+1. Fai clic su **Rich Media**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -31,11 +31,11 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
 
-1. Digita in un **Descrizione**.
+1. Digita una **Descrizione**.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Fai clic su **Categorie** casella per selezionare/aggiungere [categorie già configurate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facoltativo).
+1. Fai clic sulla casella **Categorie** per selezionare/aggiungere [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facoltativo).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -51,6 +51,6 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 
    ![](assets/six-1.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/save.png)

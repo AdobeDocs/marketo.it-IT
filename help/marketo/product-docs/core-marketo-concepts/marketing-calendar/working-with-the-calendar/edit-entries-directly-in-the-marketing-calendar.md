@@ -17,11 +17,11 @@ Una volta attivata la modalità di attivazione del programma, è possibile appor
 
 ## Abilita attivazione programma {#enable-program-focus}
 
-1. Fai clic su **[!UICONTROL Calendario]** affiancare.
+1. Fare clic sul riquadro **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Seleziona una voce che appartiene al programma su cui desideri concentrarti e fai clic su **[!UICONTROL Mostra Focus Programma]**.
+1. Selezionare una voce che appartiene al programma su cui si desidera concentrarsi e fare clic su **[!UICONTROL Mostra stato attivo]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -23,11 +23,11 @@ In Marketo puoi modificare qualsiasi modello di pagina di destinazione.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Seleziona la **Modello** desideri modificare. Clic **Modifica bozza**.
+1. Seleziona il **Modello** da modificare. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 
-   Completato! Ora puoi modificare il CSS del modello e avere il controllo completo sull’aspetto e sul layout.
+   Fine. Ora puoi modificare il CSS del modello e avere il controllo completo sull’aspetto e sul layout.
 
    >[!NOTE]
    >

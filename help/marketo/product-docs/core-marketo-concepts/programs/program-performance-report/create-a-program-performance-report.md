@@ -6,7 +6,7 @@ exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '126'
 ht-degree: 3%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 Con questo rapporto puoi vedere statistiche straordinarie sui tuoi programmi.
 
-1. [Creare un rapporto in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} and select the **[!UICONTROL Program Performance]** [report type](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
-1. Fai clic su **[!UICONTROL Report]** scheda.
+1. [Crea un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e seleziona il **[!UICONTROL Tipo di report]** [Prestazioni del programma](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
+1. Fare clic sulla scheda **[!UICONTROL Report]**.
 1. Ci sei! Esplora il tuo rapporto per vedere come stanno andando i tuoi programmi.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 
 >[!TIP]
 >
->Per trovare i programmi con il valore più basso *Costo per successo* ad esempio: [ordinare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in tale colonna e scegliere **[!UICONTROL Ordinamento crescente]**.
+>Per trovare i programmi con il *Costo per completamento* più basso, ad esempio, [ordinare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md){target="_blank"} in tale colonna e scegliere **[!UICONTROL Ordinamento crescente]**.
 
 Le colonne di un rapporto Prestazioni programma includono:
 
@@ -44,7 +44,7 @@ Le colonne di un rapporto Prestazioni programma includono:
    <td>Nuove persone acquisite dal programma.</td> 
   </tr> 
   <tr> 
-   <td>Completato</td> 
+   <td>Operazione riuscita</td> 
    <td>Numero di membri che hanno raggiunto il successo come definito negli stati del programma. </td> 
   </tr> 
   <tr> 

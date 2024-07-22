@@ -6,7 +6,7 @@ exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '670'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Nelle pagine di riepilogo esistenti di Programma e Campagna, sono state aggiunte
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Utilizzato da per le risorse {#used-by-for-assets}
+## Utilizzato da per Assets {#used-by-for-assets}
 
 Abbiamo aggiunto una nuova scheda alle pagine di riepilogo delle risorse, denominata Utilizzato da.
 
@@ -65,7 +65,7 @@ Quando pianifichi una campagna, puoi fare clic sul collegamento per visualizzare
 
 ## Passaggio di attesa: token lead e token personale {#wait-step-lead-token-and-my-token}
 
-Nella versione di maggio sono state aggiunte opzioni avanzate al passaggio Flusso di attesa. Con queste modifiche è possibile specificare un giorno lavorativo, una data e un&#39;ora. In questa versione è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, potrebbe essere utile utilizzare `{{lead.Birthday}}` per inviare un’e-mail di compleanno, oppure utilizza `{{my.Event Date}}` per inviare un promemoria finale del webinar.
+Nella versione di maggio sono state aggiunte opzioni avanzate al passaggio Flusso di attesa. Con queste modifiche è possibile specificare un giorno lavorativo, una data e un&#39;ora. In questa versione è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, è possibile utilizzare `{{lead.Birthday}}` per inviare un messaggio e-mail di compleanno o `{{my.Event Date}}` per inviare un promemoria finale del webinar.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 

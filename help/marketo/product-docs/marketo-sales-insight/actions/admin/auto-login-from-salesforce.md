@@ -16,7 +16,7 @@ L’accesso automatico consente agli utenti delle azioni di approfondimento sull
 
 Per utilizzare l’accesso automatico:
 
-* [Impostazioni di Gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) deve essere impostato su &quot;Solo Salesforce&quot;
+* [Le impostazioni di Gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) devono essere impostate su &quot;Solo Salesforce&quot;
 
 * L&#39;utente deve essere stato invitato a utilizzare le azioni di approfondimento sulle vendite
 

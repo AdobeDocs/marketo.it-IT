@@ -5,7 +5,7 @@ exl-id: 110768f4-46ed-4951-96b2-a97813d7b257
 feature: Predictive Audiences
 source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
 workflow-type: tm+mt
-source-wordcount: '986'
+source-wordcount: '1013'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Ecco come tracciare i progressi del tuo obiettivo e comprendere le previsioni di
 
 >[!PREREQUISITES]
 >
->Per accedere alla maggior parte di queste funzioni, assicurati di abilitare [interruttore di nuova generazione](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} per i programmi evento.
+>Per accedere alla maggior parte di queste funzionalità, assicurati di abilitare l&#39;[interruttore di prossima generazione](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"} per i programmi evento.
 
 >[!NOTE]
 >
@@ -24,11 +24,11 @@ Ecco come tracciare i progressi del tuo obiettivo e comprendere le previsioni di
 
 ## Tracciamento degli obiettivi e registrazioni previste
 
-1. Puoi trovare i dettagli di tracciamento dell’obiettivo in **[!UICONTROL Rapporti]** del programma eventi. In questo esempio, ci sono 150 membri registrati finora contro un obiettivo di 200 (75%).
+1. Puoi trovare i dettagli di tracciamento dell&#39;obiettivo nella scheda **[!UICONTROL Rapporti]** del programma dell&#39;evento. In questo esempio, ci sono 150 membri registrati finora contro un obiettivo di 200 (75%).
 
    ![](assets/understanding-goal-tracking-and-projected-registrations-1.png)
 
-Vedrai anche il tuo **[!UICONTROL Previsto]** registrazioni. Passa il cursore del mouse sull’icona delle informazioni per visualizzare un raggruppamento di questo numero per segmento di probabilità.
+Visualizzerai anche le tue **[!UICONTROL registrazioni previste]**. Passa il cursore del mouse sull’icona delle informazioni per visualizzare un raggruppamento di questo numero per segmento di probabilità.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-2.png)
 
@@ -50,11 +50,11 @@ Tutti i membri (registrati e non ancora registrati) sono classificati in base al
 
 >[!NOTE]
 >
->I numeri di previsione vengono aggiornati ogni 24 ore fino al giorno dell’evento. Tutti i membri elencati come _Elaborazione_ sarà incluso nel successivo ciclo di calcolo.
+>I numeri di previsione vengono aggiornati ogni 24 ore fino al giorno dell’evento. Tutti i membri elencati come _Elaborazione_ verranno inclusi nel ciclo di calcolo successivo.
 
 ## Programmi simili
 
-Puoi ottenere informazioni approfondite sull’evento corrente osservando le prestazioni di programmi simili in passato. Questa sezione mostra fino a 5 programmi simili degli ultimi 6 mesi, con il numero/percentuale di membri che sono stati _Registrato_ o superiore.
+Puoi ottenere informazioni approfondite sull’evento corrente osservando le prestazioni di programmi simili in passato. In questa sezione vengono visualizzati fino a 5 programmi simili degli ultimi 6 mesi, con il numero/percentuale di membri registrati _1 o superiore._
 
 Nel calcolare programmi simili, includiamo i seguenti fattori, tra gli altri:
 
@@ -67,15 +67,15 @@ Nel calcolare programmi simili, includiamo i seguenti fattori, tra gli altri:
 
   ![](assets/understanding-goal-tracking-and-projected-registrations-6.png)
 
-## Recommendations
+## Consigli
 
-Nella parte superiore della sezione [!UICONTROL Rapporti] pagina, puoi trovare consigli basati su AI/ML in base all’avanzamento. Controlla periodicamente la disponibilità di suggerimenti e informazioni utili.
+Nella parte superiore della pagina [!UICONTROL Rapporti], puoi trovare consigli basati su IA/ML in base all&#39;avanzamento. Controlla periodicamente la disponibilità di suggerimenti e informazioni utili.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-7.png)
 
 ## Previsioni a livello di persona
 
-Fai clic su **[!UICONTROL Membri]** per visualizzare tutti i membri del programma. Passa il puntatore del mouse sopra **[!UICONTROL Probabilità di registrazione]** o **[!UICONTROL Probabilità di partecipazione]** barre per visualizzare percentuali e categorizzazioni esatte. Potrai quindi intervenire sui membri di una particolare categoria (ad esempio, tutti coloro che rientrano nella categoria &quot;Meno probabili&quot; per la registrazione) e indirizzarli in modo specifico per aumentare potenzialmente i numeri di registrazione.
+Fai clic sulla scheda **[!UICONTROL Membri]** per visualizzare tutti i membri del programma. Passa il cursore del mouse sulle barre **[!UICONTROL Probabilità di registrazione]** o **[!UICONTROL Probabilità di partecipazione]** per visualizzare le percentuali e le categorizzazioni esatte. Potrai quindi intervenire sui membri di una particolare categoria (ad esempio, tutti coloro che rientrano nella categoria &quot;Meno probabili&quot; per la registrazione) e indirizzarli in modo specifico per aumentare potenzialmente i numeri di registrazione.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-8.png)
 
@@ -85,7 +85,7 @@ Fai clic su **[!UICONTROL Membri]** per visualizzare tutti i membri del programm
 
 ## Domande frequenti
 
-**D: Cos’è il segmento?**
+**D: Cos&#39;è il segmento?**
 
 R: Probabile valore di registrazione compreso tra 0 e 100. Ogni membro del programma dell’evento avrà un valore di probabilità compreso tra 0 e 100.
 
@@ -95,7 +95,7 @@ I valori di probabilità vengono inseriti in tre segmenti:
 * Probabilità di registrazione da > 25% a &lt;50% = Segmento probabile
 * Probabilità di registrazione &lt;25% = segmento meno probabile
 
-Quando una persona ha la probabilità di registrarsi, la previsione rientra in uno di questi segmenti (ogni persona che è membro di un programma rientra in uno di questi segmenti). Ad esempio, se un programma per eventi ha 1000 membri in base alle previsioni di probabilità, questi 1000 verranno distribuiti in _Molto probabile_, _Probabile_, o _Meno probabile_ segmenti.
+Quando una persona ha la probabilità di registrarsi, la previsione rientra in uno di questi segmenti (ogni persona che è membro di un programma rientra in uno di questi segmenti). Ad esempio, se un programma per eventi ha 1000 membri in base alle previsioni di probabilità, questi 1000 verranno distribuiti in _segmenti con elevata probabilità_, _con probabilità elevata_ o _con minore probabilità_.
 
 Pertanto, le persone che rientrano nel segmento Altamente probabile avranno maggiori possibilità di registrarsi all’evento.
 
@@ -103,13 +103,13 @@ Conversione al registro = # delle persone nel segmento registrate diviso per # d
 
 La percentuale di conversione da registrare seguirà questo schema: Molto probabile > Probabile > Meno probabile.
 
-**D: Come posso utilizzare le informazioni?**
+**D: come si utilizzano le informazioni?**
 
 R: La best practice prevede quanto segue:
 
 i. Quando crei un programma, una campagna avanzata utilizza filtri predittivi con &quot;maggiore di X&quot;, che determinerebbe l’esecuzione di una determinata quantità di persone (ad esempio, 1000).
 
-ii. Dopo 24 ore, nella [!UICONTROL Rapporti] scheda puoi visualizzare le registrazioni previste calcolate in base alla probabilità di registrare i valori di tutte le persone attualmente invitate.
+ii. Dopo 24 ore, nella scheda [!UICONTROL Rapporti] puoi visualizzare le registrazioni previste calcolate in base alla probabilità di registrare i valori di tutte le persone attualmente invitate.
 
 iii. Se le registrazioni previste sono inferiori all’obiettivo, dovrai invitare più persone. A questo punto, puoi vedere le informazioni che ti dicono qual è stata la soglia di funzionamento nei programmi passati.
 
@@ -119,19 +119,19 @@ iv. Puoi creare una nuova campagna avanzata con tale soglia per invitare più pe
 
 v. In qualsiasi momento, se desideri comprendere il motivo per cui viene visualizzato un numero previsto, puoi visualizzare alternativamente la distribuzione del pubblico tra i segmenti e i relativi tassi di conversione del passato, e applicare tali tassi di conversione al pubblico corrente (vedi la schermata seguente).
 
-**D: Cos’è il grafico Segmenti per registrazione?**
+**D: Cos&#39;è il grafico Segmenti per registrazione?**
 
 R: Tre barre, ciascuna che rappresenta un segmento (molto probabile, probabile, meno probabile).
 
-**Linea tratteggiata viola:** Tasso medio di conversazione per la registrazione in quel segmento, in base a precedenti programmi simili.
+**Linea tratteggiata viola:** Tasso medio di conversazione per la registrazione in quel segmento, basato su precedenti programmi simili.
 
-**Barra blu:** Percentuale di registrazione di tutte le persone in quel segmento.
+**Barra blu:** percentuale di registrazione di tutte le persone in quel segmento.
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-10.png)
 
 Ad esempio, supponiamo che 100 persone abbiano probabilità di registrarsi > 50% e che 60 di quelle 100 persone si siano registrate. Molto probabilmente ha una conversione del 60%. Pertanto, tutti i membri aggiunti al programma hanno la probabilità di registrare valori, quindi vengono inseriti in segmenti e in base al numero di persone registrate in ciascun segmento viene calcolato il tasso di conversione.
 
-**D: Cosa significa &quot;Registrato e superiore&quot;?**
+**D: cosa significa &quot;Registrato e superiore&quot;?**
 
 R: Qualsiasi persona elencata come registrata o qualsiasi altro stato con un numero di passaggio uguale o superiore.
 
@@ -139,7 +139,7 @@ R: Qualsiasi persona elencata come registrata o qualsiasi altro stato con un num
 
 ![](assets/understanding-goal-tracking-and-projected-registrations-11.png)
 
-**D: Come vengono calcolate le registrazioni previste?**
+**Q: come vengono calcolate le registrazioni previste?**
 
 R: Vedi sotto.
 

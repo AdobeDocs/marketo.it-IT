@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo dispone di esempi di modellatori di ricavi per aiutarti a ispirarti. Clonate questi modellatori e rendeteli personalizzati. Ecco come:
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Seleziona **Modellatore ciclo ricavi** e fai clic su **Esempi di Marketo**.
+1. Selezionare la cartella **Modeler** del ciclo delle entrate e fare clic su **Esempi Marketo**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +27,11 @@ Marketo dispone di esempi di modellatori di ricavi per aiutarti a ispirarti. Clo
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. Da Azioni modello, selezionare **Clona modello**.
+1. In Azioni modello, selezionare **Clona modello**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Immetti un **Nome** e fai clic su **Clona**.
+1. Immetti un **Nome** e fai clic su **Clone**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Archiviazione e annullamento dell&#39;archiviazione dei contenuti in streaming {#archive-and-unarchive-stream-content}
 
-Se non desideri più utilizzare una parte di contenuto in un flusso, puoi: [rimuovere](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archiviarlo. Ecco come archiviare i contenuti.
+Se non desideri più utilizzare una parte di contenuto in un flusso, puoi [rimuoverla](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archiviarla. Ecco come archiviare i contenuti.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Se non desideri più utilizzare una parte di contenuto in un flusso, puoi: [rimu
 
 ## Archivia contenuto flusso {#archive-stream-content}
 
-1. Seleziona il programma di coinvolgimento e vai al **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e passa alla scheda **Streams**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passa il puntatore del mouse sull’e-mail che desideri archiviare, quindi fai clic su sotto l’icona a forma di ingranaggio **Archivia**.
+1. Passa il puntatore del mouse sull&#39;e-mail che desideri archiviare, quindi fai clic su **Archivia** sotto l&#39;icona a forma di ingranaggio.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
@@ -33,15 +33,15 @@ Se non desideri più utilizzare una parte di contenuto in un flusso, puoi: [rimu
 
 ## Annulla archiviazione contenuto flusso {#unarchive-stream-content}
 
-1. Seleziona il programma di coinvolgimento e vai al **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e passa alla scheda **Streams**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Fai clic sull’icona a forma di ingranaggio del flusso, quindi fai clic su **Mostra contenuto archiviato**.
+1. Fai clic sull&#39;icona a forma di ingranaggio del flusso, quindi fai clic su **Mostra contenuto archiviato**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Ora che puoi visualizzare il contenuto archiviato, fai clic sull’icona a forma di ingranaggio del contenuto da annullare l’archiviazione, quindi fai clic su **Annulla archiviazione**.
+1. Ora che puoi visualizzare il contenuto archiviato, fai clic sull&#39;icona a forma di ingranaggio del contenuto di cui vuoi annullare l&#39;archiviazione, quindi fai clic su **Annulla archiviazione**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

@@ -6,7 +6,7 @@ exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -17,46 +17,46 @@ I programmi di coinvolgimento sono progettati per essere commercializzati per nu
 
 >[!NOTE]
 >
->Il limite è 100 **attivo** programmi di coinvolgimento per abbonamento.
+>È previsto un limite di 100 **programmi di coinvolgimento attivi** per abbonamento.
 
 ## Programma di coinvolgimento {#engagement-program}
 
-Un **programma di coinvolgimento** è un tipo di programma che può realizzare un&#39;educazione complessa con facilità.
+Un **programma di coinvolgimento** è un tipo di programma che può eseguire con facilità operazioni di sviluppo complesse.
 
 ![](assets/image2014-9-15-15-3a24-3a57.png)
 
 >[!MORELIKETHIS]
 >
->[Creare un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
+>[Crea un programma di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/create-an-engagement-program.md)
 
 ## Flusso {#stream}
 
-A **flusso** è un pool di contenuti con priorità che il programma di coinvolgimento utilizzerà per educare le persone.
+Un **flusso** è un pool di contenuti con priorità che il programma di coinvolgimento utilizzerà per nutrire le persone.
 
 ![](assets/image2014-9-15-15-3a25-3a4.png)
 
 >[!MORELIKETHIS]
 >
->* [Aggiungi un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
+>* [Aggiungi flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md)
 >* [Clona un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/clone-a-stream.md)
 
 ## Contenuto {#content}
 
-Esistono due tipi di **contenuto** puoi aggiungere a flussi di programmi di coinvolgimento: e-mail e programmi. Le e-mail verranno inviate alle persone al momento del cast.
+Esistono due tipi di **contenuto** che è possibile aggiungere ai flussi del programma di coinvolgimento: e-mail e programmi. Le e-mail verranno inviate alle persone al momento del cast.
 
 ![](assets/image2014-9-15-15-3a25-3a18.png)
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Aggiungi contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Assegna priorità al contenuto del flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
->* [Modifica disponibilità del contenuto di flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
+>* [Modifica disponibilità contenuto flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/edit-availability-of-stream-content.md)
 >* [Rimuovi contenuto flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
->* [Archiviazione e annullamento dell&#39;archiviazione dei contenuti in streaming](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
+>* [Archiviare e annullare l&#39;archiviazione del contenuto del flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md)
 
 ## Cast {#cast}
 
-A **cast** è l’evento di invio di e-mail da un programma di coinvolgimento.
+Un **cast** è l&#39;evento di invio di e-mail da un programma di coinvolgimento.
 
 >[!NOTE]
 >
@@ -64,7 +64,7 @@ A **cast** è l’evento di invio di e-mail da un programma di coinvolgimento.
 
 ## Cadenza flusso {#stream-cadence}
 
-È possibile decidere quando si verifica un cast impostando **cadenza di flusso**. In questo modo si pianifica la pubblicazione del contenuto a intervalli regolari.
+Puoi decidere quando si verifica un cast impostando **cadenza flusso**. In questo modo si pianifica la pubblicazione del contenuto a intervalli regolari.
 
 ![](assets/image2014-9-15-15-3a25-3a27.png)
 
@@ -74,19 +74,19 @@ A **cast** è l’evento di invio di e-mail da un programma di coinvolgimento.
 
 ## Cadenza persona {#person-cadence}
 
-A **cadenza persona** è uno stato che definisce la sua capacità di ricevere contenuti da un programma di coinvolgimento. È possibile utilizzare **Modifica cadenza programma di coinvolgimento** passaggio di flusso per passare a Sospeso o Normale.
+Una **cadenza persona** è uno stato che definisce la sua capacità di ricevere contenuti da un programma di coinvolgimento. È possibile utilizzare il passaggio di flusso **Modifica cadenza programma di coinvolgimento** per impostare l&#39;elemento come In pausa o Normale.
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 
 ## Esaurito {#exhausted}
 
-Una volta che una persona ha ricevuto ogni elemento di contenuto in un flusso, la chiamiamo **Esaurito**.
+Una volta che una persona ha ricevuto ogni elemento di contenuto in un flusso, chiamiamo la persona **Esaurita**.
 
 ![](assets/image2014-9-15-15-3a26-3a5.png)
 
 >[!MORELIKETHIS]
 >
->[Persone Con Contenuti Esauriti](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
+>[Persone Con Contenuto Esaurito](/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md)
 
 ## Livello di coinvolgimento dei contenuti {#content-engagement-level}
 

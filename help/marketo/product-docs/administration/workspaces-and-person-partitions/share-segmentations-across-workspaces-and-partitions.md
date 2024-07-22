@@ -6,7 +6,7 @@ exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -25,23 +25,23 @@ Marketo è in grado di individuare le persone giuste per un programma o una camp
 >
 >Scopri [come creare segmentazioni](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md).
 
-Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), è necessario condividerle tra le aree di lavoro. Ecco alcune cose buone da sapere:
+Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), è necessario condividerli tra le aree di lavoro. Ecco alcune cose buone da sapere:
 
 ## Regole e suggerimenti {#rules-tips}
 
-* Ogni abbonamento a Marketo può contenere fino a 20 segmentazioni &quot;totali&quot; in più aree di lavoro (**non 20 per workspace**).
+* Ogni sottoscrizione di Marketo può contenere fino a 20 segmentazioni &quot;totali&quot; in più aree di lavoro (**non 20 per area di lavoro**).
 * Puoi condividere una segmentazione solo con le aree di lavoro a cui hai accesso.
-* Assicurati di creare e utilizzare un’ **Area di lavoro predefinita con visibilità in tutte le partizioni**.
+* Assicurati di creare e utilizzare un&#39;area di lavoro **predefinita con visibilità in tutte le partizioni**.
 
 * L’elaborazione della segmentazione viene eseguita solo sulle persone nell’area di lavoro in cui viene creata la segmentazione.
 
-   * Crea la segmentazione da condividere nell’area di lavoro predefinita.
+   * Crea la segmentazione da condividere all’interno del Workspace predefinito.
       * Approvare la segmentazione
       * L’area di lavoro condivisa visualizza una cartella bloccata e la segmentazione è di sola lettura.
       * Impossibile modificare la versione condivisa. Puoi modificare solo la segmentazione originale nel punto in cui è stata creata.
 
    * Quando fai clic su un segmento (ad esempio, settore sanitario) all’interno di una segmentazione condivisa, le persone visualizzate saranno solo quelle nella partizione associata all’area di lavoro che stai visualizzando.
-      * Se si crea una segmentazione in Workspace 1 (WS1) e la si condivide con WS2 e WS1 non dispone dell&#39;accesso alla partizione per WS2, LA segmentazione NON VERRÀ ricalcolata.
+      * Se si crea una segmentazione in Workspace 1 (WS1) e la si condivide con WS2 e WS1 non dispone dell&#39;accesso alla partizione per WS2, NON verrà ricalcolata la segmentazione.
       * Se crei una segmentazione in un’area di lavoro con partizioni limitate e la condividi con un’altra area di lavoro, l’area di lavoro che ha ricevuto la segmentazione condivisa vedrà le persone solo se si sovrappongono.
 
 >[!NOTE]
@@ -56,15 +56,15 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
 ## Condividere una segmentazione {#share-a-segmentation}
 
-1. Vai a **[!UICONTROL Database]**.
+1. Vai al **[!UICONTROL database]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Clic con il pulsante destro **[!UICONTROL Segmentazioni]** e seleziona **[!UICONTROL Nuova cartella]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Segmentazioni]** e selezionare **[!UICONTROL Nuova cartella]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Assegna un nome alla cartella da condividere tra le aree di lavoro (ad esempio: Condividi segmentazioni) e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella da condividere tra aree di lavoro (ad esempio: Condividi segmentazioni) e fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -76,7 +76,7 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Seleziona i workspace con cui vuoi condividere la cartella. Clic **[!UICONTROL Salva]**.
+1. Seleziona i workspace con cui vuoi condividere la cartella. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

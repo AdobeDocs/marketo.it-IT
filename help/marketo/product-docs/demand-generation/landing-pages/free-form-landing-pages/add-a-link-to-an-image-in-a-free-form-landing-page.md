@@ -17,21 +17,21 @@ Desideri creare un’immagine nella pagina di destinazione come collegamento a u
 
 >[!PREREQUISITES]
 >
->[Aggiungere un’immagine a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
+>[Aggiungere un&#39;immagine a una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-an-image-to-a-free-form-landing-page.md)
 
 1. Fare clic sull&#39;immagine a cui si desidera aggiungere un collegamento.
 
    ![](assets/click-on-image.png)
 
-1. Espandi **Foglio delle proprietà**.
+1. Espandere **Foglio delle proprietà**.
 
    ![](assets/image2015-5-21-15-3a42-3a27.png)
 
-1. Copia o digita il collegamento in **linkUrl** casella.
+1. Copiare o digitare il collegamento nella casella **linkUrl**.
 
    ![](assets/add-link.png)
 
-   Congratulazioni! Ora hai aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora puoi [anteprima della pagina](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) per vederlo in azione.
+   Congratulazioni! Ora hai aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora puoi [visualizzare l&#39;anteprima della pagina](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) per vederla in azione.
 
 >[!TIP]
 >

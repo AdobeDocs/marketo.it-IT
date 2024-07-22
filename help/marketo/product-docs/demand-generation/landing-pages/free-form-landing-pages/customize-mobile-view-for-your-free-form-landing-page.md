@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Aggiungere una visualizzazione mobile alla pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
+>[Aggiungi una visualizzazione mobile alla pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
 La visualizzazione mobile della pagina di destinazione in formato libero è per lo più automatica, ma puoi personalizzarla. Ecco come.
 
@@ -23,17 +23,17 @@ La visualizzazione mobile della pagina di destinazione in formato libero è per 
 
    ![](assets/selectlandingapge.jpg)
 
-1. Clic **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Fai clic su **Dispositivi mobili** scheda.
+1. Fare clic sulla scheda **Mobile**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
 ## Visualizzazione mobile e visualizzazione desktop {#mobile-vs-desktop-view}
 
-In Elementi pagina viene visualizzata una ![](assets/image2015-1-22-18-3a39-3a53.png) (desktop) e un ![](assets/image2015-1-22-18-3a40-3a31.png) (mobile). Questo consente di mostrare/nascondere dinamicamente diversi elementi.
+In Elementi pagina verranno visualizzate l&#39;icona ![](assets/image2015-1-22-18-3a39-3a53.png) (desktop) e l&#39;icona ![](assets/image2015-1-22-18-3a40-3a31.png) (mobile). Questo consente di mostrare/nascondere dinamicamente diversi elementi.
 
 ![](assets/image2015-5-21-15-3a9-3a34.png)
 
@@ -83,15 +83,15 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
 >[!TIP]
 >
->La visualizzazione per dispositivi mobili può anche avere una diversa disposizione degli elementi di pagina. Sposta gli elementi nella pagina di destinazione in formato libero o riordina gli oggetti elencati in **Elementi pagina** mediante trascinamento della selezione.
+>La visualizzazione per dispositivi mobili può anche avere una diversa disposizione degli elementi di pagina. Spostare gli elementi nella pagina di destinazione in formato libero o riordinare gli oggetti elencati in **Elementi pagina** tramite trascinamento della selezione.
 
 ## Anteprima visualizzazione mobile {#preview-mobile-view}
 
-1. Clic **Anteprima bozza**.
+1. Fare clic su **Anteprima bozza**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Vuoi vedere qualcosa di figo? Seleziona **Affianca**.
+1. Vuoi vedere qualcosa di figo? Seleziona **Affiancato**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -111,4 +111,4 @@ Divertitevi!
 
 >[!MORELIKETHIS]
 >
->[Rendi compatibile con dispositivi mobili un modello di pagina di destinazione in formato libero esistente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)
+>[Rendi compatibile per dispositivi mobili un modello di pagina di destinazione in formato libero esistente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md)

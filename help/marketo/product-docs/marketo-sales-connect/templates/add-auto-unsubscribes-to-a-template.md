@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Puoi anche regolare la modalità di visualizzazione di questi messaggi di annullamento dell’abbonamento dal **Fuso orario e annullamenti abbonamenti** scheda in **Impostazioni**.
+>È inoltre possibile modificare la modalità di visualizzazione di questi messaggi di annullamento dell&#39;iscrizione dalla scheda **Fuso orario e annullamento dell&#39;iscrizione** in **Impostazioni**.

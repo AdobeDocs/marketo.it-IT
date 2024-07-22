@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096583
-description: "Prossima generazione [!DNL Munchkin] Domande frequenti sul tracciamento - Documentazione di Marketo - Documentazione del prodotto"
-title: "Prossima generazione [!DNL Munchkin] Domande frequenti sul tracciamento"
+description: "Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] - Documenti Marketo - Documentazione del prodotto"
+title: "Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] "
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '716'
+source-wordcount: '698'
 ht-degree: 0%
 
 ---
 
-# Prossima generazione [!DNL Munchkin] Domande frequenti sul tracciamento {#next-generation-munchkin-tracking-faq}
+# Domande frequenti sul tracciamento di [!DNL Munchkin] di nuova generazione {#next-generation-munchkin-tracking-faq}
 
 Siamo entusiasti di annunciare che presto inizieremo un rollout graduale della nostra tecnologia di tracciamento web di nuova generazione.
 
@@ -19,19 +19,19 @@ Ecco le cose più importanti da sapere:
 
 * Con la versione Q1 stiamo rimuovendo il filtro per elenchi avanzati &quot;È anonimo&quot; (già eseguito)
 * Stiamo aumentando il numero di eventi web (Visita pagina web, Collegamento selezionato su pagina web) che è possibile acquisire
-* Il tuo [!DNL Munchkin] il codice non verrà modificato, pertanto non sono necessari aggiornamenti sul sito web
+* Il codice [!DNL Munchkin] non verrà modificato, quindi non sono richiesti aggiornamenti sul sito Web
 
-## Quando sarà attiva la mia iscrizione a Marketo [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
+## Quando avverrà la sottoscrizione a Marketo in [!DNL Munchkin] V2? {#when-will-my-marketo-subscription-be-on-munchkin-v}
 
 Non abbiamo ancora una data esatta, ma tornate qui per aggiornamenti.
 
-## Dovrò apportare modifiche al mio [!DNL Munchkin] tracciamento sul sito web? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
+## Dovrò apportare delle modifiche al mio tracciamento di [!DNL Munchkin] sul mio sito Web? {#will-i-need-to-make-any-changes-to-my-munchkin-tracking-on-my-website}
 
-No. Il [!DNL Munchkin] il codice di tracciamento rimane invariato. Non è necessario apportare modifiche al sito Web.
+No. Il codice di tracciamento [!DNL Munchkin] rimane invariato. Non è necessario apportare modifiche al sito Web.
 
 >[!NOTE]
 >
->Questa modifica non influisce sulla personalizzazione web (personalizzazione in tempo reale). Continua a identificare visitatori web anonimi e noti e a personalizzare i contenuti in tempo reale per tali visitatori.
+>Questa modifica non influisce su Web Personalization (Real-Time Personalization). Continua a identificare visitatori web anonimi e noti e a personalizzare i contenuti in tempo reale per tali visitatori.
 
 ## Perché Marketo ha rimosso il filtro &quot;È anonimo&quot; dagli elenchi avanzati? {#why-did-marketo-remove-the-is-anonymous-filter-from-smart-lists}
 
@@ -45,9 +45,9 @@ Se utilizzi già questo filtro in un elenco avanzato (ad esempio, in una campagn
 >
 >**Trigger**: pagina Web Visite, pagina Web è pagina determinazione prezzi\
 >**Flusso**: modifica punteggio +10 e momento di interesse
->**Web**: pagina Determinazione prezzi visualizzata
+>**Web**: pagina determinazione prezzi visualizzata
 >
->Con [!DNL Munchkin] V2: se una persona anonima visita la pagina dei prezzi, non entra immediatamente nella campagna. Nel momento in cui la persona anonima si farà conoscere, faremo una campagna su di lei. Lei:
+>Con [!DNL Munchkin] V2, se una persona anonima visita la pagina dei prezzi, non entra immediatamente nella campagna. Nel momento in cui la persona anonima si farà conoscere, faremo una campagna su di lei. Lei:
 >
 >* Ottieni un punteggio di 10
 >
@@ -74,20 +74,20 @@ Rivedi le campagne e identifica dove &quot;È anonimo&quot; è impostato su True
 
 Consulta questi collegamenti:
 
-[Panoramica degli aggiornamenti dei lead anonimi](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
+[Panoramica aggiornamenti lead anonimi](https://nation.marketo.com/docs/DOC-2937){target="_blank"}
 
-[Aggiornamenti dei lead anonimi - Modifiche nell’interfaccia utente di Marketo](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
+[Aggiornamenti lead anonimi - Modifiche nell&#39;interfaccia utente di Marketo](https://nation.marketo.com/docs/DOC-2938){target="_blank"}
 
-[Aggiornamenti dei lead anonimi - Azione del cliente necessaria](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
+[Aggiornamenti lead anonimi - Azione cliente necessaria](https://nation.marketo.com/docs/DOC-2939){target="_blank"}
 
 [Aggiornamenti lead anonimi - Rapporti di Analytics](https://nation.marketo.com/docs/DOC-2940){target="_blank"}
 
 [Aggiornamenti lead anonimi - Pianificazione rilascio](https://nation.marketo.com/docs/DOC-2961){target="_blank"}
 
-[Aggiornamenti lead anonimi - Sotto il cappuccio](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
+[Aggiornamenti Lead Anonimi - Sotto Il Cappuccio](https://nation.marketo.com/docs/DOC-2962){target="_blank"}
 
-[Promozione lead anonimo per lead noto - [!DNL Munchkin] Comportamento V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
+[Promozione lead anonimo a lead noto - [!DNL Munchkin] Comportamento V2](https://nation.marketo.com/docs/DOC-2963){target="_blank"}
 
 ## Ho altre domande! Come faccio a rispondergli? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Contatta il numero [community](https://nation.marketo.com/){target="_blank"}. You can also contact [Marketo Support](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Saranno felici di rispondere alle vostre domande.
+Rivolgiti alla [community](https://nation.marketo.com/){target="_blank"}. È inoltre possibile contattare il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Saranno felici di rispondere alle vostre domande.

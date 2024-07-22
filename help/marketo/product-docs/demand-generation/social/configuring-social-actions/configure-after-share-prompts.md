@@ -19,11 +19,11 @@ Nei pulsanti social, nelle app di condivisione video e di sondaggio, puoi scegli
 
    ![](assets/ma.png)
 
-1. Seleziona l’app e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;app e fai clic su **Modifica bozza**.
 
    ![](assets/image2015-4-21-12-3a1-3a11.png)
 
-1. Nell’editor delle app social, vai a **Impostazioni app** e poi **Opzioni avanzate**.
+1. Nell&#39;editor di app social, vai a **Impostazioni app** e quindi a **Opzioni avanzate**.
 
    ![](assets/image2015-4-21-12-3a10-3a54.png)
 
@@ -31,14 +31,14 @@ Nei pulsanti social, nelle app di condivisione video e di sondaggio, puoi scegli
 
    ![](assets/image2015-4-21-12-3a18-3a32.png)
 
-   * **Messaggio di conferma:** Una volta che la persona ha condiviso, visualizza una conferma.
+   * **Messaggio di conferma:** Una volta condivisa la persona, visualizza una conferma.
    * **Acquisizione e-mail:** Una volta che la persona ha condiviso, richiedi il suo indirizzo e-mail.
 
    >[!NOTE]
    >
-   >Se si sceglie **Acquisizione e-mail**, la richiesta viene visualizzata solo se la persona non ha già fornito le proprie informazioni.
+   >Se si sceglie **Cattura e-mail**, la richiesta verrà visualizzata solo se l&#39;utente non ha già fornito le informazioni.
 
-1. Se si sceglie **Messaggio di conferma:** Vai a **Condividi flusso** e poi **Messaggio di conferma**.
+1. Se hai scelto **Messaggio di conferma:** Vai a **Condividi flusso** e quindi a **Messaggio di conferma**.
 
    ![](assets/image2015-4-21-12-3a26-3a10.png)
 
@@ -46,11 +46,11 @@ Nei pulsanti social, nelle app di condivisione video e di sondaggio, puoi scegli
 
    ![](assets/image2015-4-21-12-3a31-3a41.png)
 
-1. Se si sceglie **Acquisizione e-mail** (invece della conferma): vai a **Condividi flusso** e poi **Acquisizione e-mail**.
+1. Se hai scelto **Cattura e-mail** (anziché conferma): vai a **Condividi flusso** e quindi a **Cattura e-mail**.
 
    ![](assets/image2015-4-21-12-3a46-3a15.png)
 
-1. Scegli se includere un prompt di marketing e se tale casella di controllo è selezionata per impostazione predefinita (**Rinuncia**) o meno (**Consenso**).
+1. Scegli se includere una richiesta di marketing e se la casella di controllo è selezionata per impostazione predefinita (**Rinuncia**) o meno (**Consenso**).
 
    ![](assets/image2015-4-21-12-3a48-3a51.png)
 

@@ -7,7 +7,7 @@ feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 0%
    >
    >Il designer della pagina di destinazione si apre in una nuova finestra.
 
-1. Trascina sulla **Rich Text** elemento.
+1. Trascinare sull&#39;elemento **Rich Text**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Inserisci il testo desiderato e fai clic su **Salva**.
+1. Immettere il testo desiderato e fare clic su **Salva**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -65,11 +65,11 @@ I token sono parti di testo dinamiche che possono personalizzare la pagina di de
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Immetti un **Valore predefinito** e fai clic su **Inserisci**.
+1. Immetti un **valore predefinito** e fai clic su **Inserisci**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

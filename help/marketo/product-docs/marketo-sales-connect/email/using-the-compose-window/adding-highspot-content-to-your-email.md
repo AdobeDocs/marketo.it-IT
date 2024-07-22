@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se sei un cliente Highspot, puoi inserire facilmente contenuti Highspot nelle e-mail di Sales Connect.
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/one-5.png)
 
@@ -23,7 +23,7 @@ Se sei un cliente Highspot, puoi inserire facilmente contenuti Highspot nelle e-
 
    ![](assets/two-5.png)
 
-1. Fai clic sul punto dell’e-mail in cui desideri inserire il contenuto Highspot. Fai clic sul menu a discesa della freccia (accanto all’icona dell’allegato) e seleziona **Highspot**.
+1. Fai clic sul punto dell’e-mail in cui desideri inserire il contenuto Highspot. Fare clic sull&#39;elenco a discesa della freccia accanto all&#39;icona dell&#39;allegato e selezionare **Area sensibile**.
 
    ![](assets/three-5.png)
 
@@ -31,7 +31,7 @@ Se sei un cliente Highspot, puoi inserire facilmente contenuti Highspot nelle e-
 
    ![](assets/four-5.png)
 
-1. Seleziona il contenuto desiderato e fai clic su **Aggiungi contenuto** pulsante.
+1. Seleziona il contenuto desiderato e fai clic sul pulsante **Aggiungi contenuto**.
 
    ![](assets/five-3.png)
 

@@ -29,15 +29,15 @@ Ecco come identificare in modo rapido e accurato i tuoi account di alto valore.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Fai clic su **Nuovo** a discesa e selezionare **Nuova risorsa locale**.
+1. Fai clic sul menu a discesa **Nuovo** e seleziona **Nuova risorsa locale**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Clic **Elenco avanzato account**.
+1. Fare clic su **Elenco smart account**.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Immetti un nome e fai clic su **Crea** (Descrizione ed etichette sono facoltative).
+1. Immetti un nome e fai clic su **Crea** (la descrizione e le etichette sono facoltative).
 
    ![](assets/account-smart-lists-5.png)
 
@@ -47,11 +47,11 @@ L&#39;elenco avanzato account è stato creato. Consulta di seguito per i passagg
 
 Gli elenchi avanzati account funzionano in modo simile agli elenchi avanzati standard, con una notevole eccezione: i contenitori.
 
-1. Per definire l’elenco avanzato degli account, fai clic su **Regole per elenchi avanzati account** scheda.
+1. Per definire l&#39;elenco avanzato account, fare clic sulla scheda **Regole elenco avanzato account**.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Scegli i filtri account desiderati. In questo esempio stiamo scegliendo _Il settore è quello sanitario_.
+1. Scegli i filtri account desiderati. In questo esempio stiamo scegliendo _L&#39;industria è sanitaria_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -59,13 +59,13 @@ Gli elenchi avanzati account funzionano in modo simile agli elenchi avanzati sta
 
    >[!NOTE]
    >
-   >dati degli indicatori ICP utilizzati nel [Classificazione e tuning profilo account](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verranno visualizzati come attributi dell’account personalizzati da utilizzare nell’elenco avanzato degli account. Questi dati attributo personalizzati si basano su quando è stato creato/aggiornato il modello di profilo account.
+   >I dati dell&#39;indicatore ICP utilizzati nella [Classifica di profilatura account e ottimizzazione](/help/marketo/product-docs/target-account-management/account-profiling/account-profiling-ranking-and-tuning.md) verranno visualizzati come attributi dell&#39;account personalizzati da utilizzare nell&#39;elenco avanzato account. Questi dati attributo personalizzati si basano su quando è stato creato/aggiornato il modello di profilo account.
 
-1. Scegli i filtri persona corrispondenti. In questo esempio stiamo scegliendo _Lo stato è la California_.
+1. Scegli i filtri persona corrispondenti. In questo esempio si sta scegliendo _State come California_.
 
    ![](assets/account-smart-lists-9.png)
 
-**PASSAGGIO FACOLTATIVO**: Ecco dove entrano i contenitori. Se scegli un filtro persona corrispondente aggiuntivo, puoi rilasciarlo sotto il primo, oppure _in_ creando un contenitore. In questo esempio stiamo creando un contenitore aggiungendo _La qualifica è CFO_.
+**PASSAGGIO FACOLTATIVO**: è qui che entrano i contenitori. Se scegli un filtro persona corrispondente aggiuntivo, puoi rilasciarlo sotto il primo o _in_ creando un contenitore. In questo esempio stiamo creando un contenitore aggiungendo _Il titolo del processo è CFO_.
 
 ![](assets/account-smart-lists-10.png)
 
@@ -75,7 +75,7 @@ Ecco come apparirà il contenitore.
 
 >[!NOTE]
 >
->La creazione di un contenitore di filtri crea una regola &quot;e&quot;, che restituisce solo tutti i risultati combinati. In questo esempio, gli account con un settore sanitario, oltre a trovarsi in California _e_ con qualcuno elencato come direttore finanziario. Se non desideri utilizzare i contenitori, rilascia semplicemente il filtro al di sotto/al di sopra di quello esistente.
+>La creazione di un contenitore di filtri crea una regola &quot;e&quot;, che restituisce solo tutti i risultati combinati. In questo esempio, gli account con un settore sanitario, oltre a trovarsi in California _e_ con qualcuno elencato come CFO. Se non desideri utilizzare i contenitori, rilascia semplicemente il filtro al di sotto/al di sopra di quello esistente.
 
 Ed è tutto! Consulta la sezione seguente per scoprire come sfruttare il tuo elenco avanzato degli account.
 
@@ -87,13 +87,13 @@ Ed è tutto! Consulta la sezione seguente per scoprire come sfruttare il tuo ele
 
 Nella scheda Panoramica dell’elenco avanzato account, noterai alcune opzioni di azione.
 
-**Esporta**: esporta i risultati dell’elenco avanzato dell’account come file CSV.
+**Esporta**: esporta i risultati dell&#39;elenco avanzato account come file CSV.
 
-**Clona**: crea una copia dell’elenco avanzato dell’account.
+**Clone**: crea una copia dell&#39;elenco avanzato account.
 
-**Invia ad Ad Network**: invia l’elenco a LinkedIn come nuovo pubblico corrispondente.
+**Invia ad Ad Network**: invia l&#39;elenco a LinkedIn come nuovo pubblico corrispondente.
 
-Puoi anche fare riferimento all’elenco avanzato dell’account in un elenco/campagna avanzato standard utilizzando _Persone Membro dell’elenco avanzato account_ filtro.
+È inoltre possibile fare riferimento all&#39;elenco smart dell&#39;account in un elenco/campagna smart standard utilizzando il filtro _Persone membro dell&#39;elenco smart dell&#39;account_.
 
 ![](assets/account-smart-lists-12.png)
 
@@ -105,4 +105,4 @@ Puoi anche fare riferimento all’elenco avanzato dell’account in un elenco/ca
 >
 >**Definizione**
 >
->**Persone Membro dell’elenco avanzato account**: in questo caso la parola &quot;membro&quot; fa riferimento all’account stesso, quindi &quot;membro persona&quot; indica le persone effettive (record Marketo) in tali account.
+>**Elenco avanzato utenti dell&#39;account**: in questo caso la parola &quot;membro&quot; fa riferimento all&#39;account stesso, quindi &quot;membro utenti&quot; indica le persone effettive (record Marketo) in tali account.

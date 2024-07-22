@@ -12,7 +12,7 @@ ht-degree: 2%
 
 # Colonne e-mail e layout della pagina e-mail {#email-columns-and-email-page-layout}
 
-Puoi configurare una qualsiasi delle colonne disponibili in modo che sia visibile nella sezione e-mail della sezione [Centro comandi](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Le impostazioni di configurazione verranno salvate per ogni sottocartella e-mail (ad esempio Consegnata, Non riuscita, Pianificata, ecc.).
+È possibile configurare le colonne disponibili affinché siano visibili nella sezione e-mail del [Centro comandi](/help/marketo/product-docs/marketo-sales-insight/actions/email/command-center/command-center-overview.md). Le impostazioni di configurazione verranno salvate per ogni sottocartella e-mail (ad esempio Consegnata, Non riuscita, Pianificata, ecc.).
 
 ## Colonne e-mail {#email-columns}
 
@@ -39,7 +39,7 @@ Puoi configurare una qualsiasi delle colonne disponibili in modo che sia visibil
    <td>Indirizzo e-mail principale della persona in Sales Connect.</td> 
   </tr> 
   <tr> 
-   <td><strong>Campagna</td> 
+   <td><strong>Campaign</td> 
    <td>Se l’e-mail è stata inviata come parte di una campagna, verrà visualizzato il nome della campagna. Facendo clic su questo campo si aprirà la pagina di configurazione della campagna.</td> 
   </tr> 
   <tr> 
@@ -117,11 +117,11 @@ Puoi configurare una qualsiasi delle colonne disponibili in modo che sia visibil
 
 Per configurare il layout, segui la procedura riportata di seguito.
 
-1. Nell’applicazione web, fai clic su **Centro comandi**.
+1. Nell&#39;applicazione Web fare clic su **Centro comandi**.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Seleziona la **E-mail** sezione.
+1. Seleziona la sezione **E-mail**.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

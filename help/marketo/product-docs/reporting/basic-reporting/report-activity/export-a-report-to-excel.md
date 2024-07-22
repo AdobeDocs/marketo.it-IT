@@ -15,15 +15,15 @@ ht-degree: 0%
 
 È possibile esportare qualsiasi rapporto in un file Excel per lavorare con i dati in un altro software.
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Seleziona il rapporto dalla struttura di navigazione e fai clic su **Report** scheda.
+1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Report**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Fai clic su **Esporta** pulsante.
+1. Fai clic sul pulsante **Esporta**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
@@ -31,4 +31,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >Se il file scaricato è troppo grande, puoi [modificare le dimensioni del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).
+   >Se il file scaricato è troppo grande, è possibile [modificare la dimensione del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/configure-report-size.md).

@@ -17,19 +17,19 @@ Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
 
 ## Come connettersi come amministratore {#how-to-connect-as-an-admin}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one.png)
 
-1. In Impostazioni amministrazione, fai clic su **Salesforce**.
+1. In Impostazioni amministrazione fare clic su **Salesforce**.
 
    ![](assets/six.png)
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Connetti**.
+1. Nella scheda Connessioni e personalizzazioni fare clic su **Connetti**.
 
    ![](assets/seven.png)
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/four.png)
 
@@ -37,7 +37,7 @@ Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
 
 ## Come connettersi come non amministratore {#how-to-connect-as-a-non-admin}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. In Sales Connect, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
 
    ![](assets/one.png)
 
@@ -45,11 +45,11 @@ Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
 
    ![](assets/two.png)
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Connetti**.
+1. Nella scheda Connessioni e personalizzazioni fare clic su **Connetti**.
 
    ![](assets/three.png)
 
-1. Clic **OK**.
+1. Fare clic su **OK**.
 
    ![](assets/four.png)
 

@@ -6,7 +6,7 @@ exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ In questo esempio, il rosso indica che il valore è diminuito nell’intervallo 
 
 ## Lead acquisiti {#acquired-leads}
 
-Il **Lead acquisiti** La scheda mostra un rapporto sul numero di nuovi lead, mese dopo mese.
+La scheda **Lead acquisiti** mostra un report del numero di nuovi lead con tendenze su base mensile.
 
 >[!NOTE]
 >
@@ -51,18 +51,18 @@ Il **Lead acquisiti** La scheda mostra un rapporto sul numero di nuovi lead, mes
 
 ## Nuovi lead {#new-leads}
 
-Il **[!UICONTROL Nuovi lead]** La scheda mostra un rapporto sulle tendenze rispetto al mese precedente del numero totale di nuovi lead nella tua istanza negli ultimi sei mesi.
+La scheda **[!UICONTROL Nuovi lead]** mostra un rapporto sul numero totale di nuovi lead nella tua istanza nel corso degli ultimi sei mesi, mese dopo mese.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
 ## Annulla iscrizione {#unsubscribes}
 
-Il **[!UICONTROL Annulla iscrizione]** mostra un rapporto sulla tendenza mensile del tasso di annullamento degli abbonamenti negli ultimi sei mesi.
+La scheda **[!UICONTROL Annullamenti abbonamenti]** mostra un report sull&#39;andamento mese per mese del tasso di annullamento degli abbonamenti negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 
 >[!MORELIKETHIS]
 >
 >* [Informazioni su Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Informazioni sulle schede evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
->* [Informazioni sulle schede del programma e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Informazioni sulle schede eventi](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-event-cards.md)
+>* [Informazioni sulle schede dei programmi e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)

@@ -47,7 +47,7 @@ Le seguenti azioni sono disponibili dal menu a discesa Sales Insight in Salesfor
 
   ![](assets/choose-an-action-in-sales-insight-4.png)
 
-**Vista a elenco con azione collettiva**
+**Visualizzazione elenco con azione collettiva**
 
 * Visualizzazione elenco lead: azione collettiva e non può essere controllata dal profilo utente
 * Visualizzazione elenco contatti: azione collettiva e non può essere controllata dal profilo utente

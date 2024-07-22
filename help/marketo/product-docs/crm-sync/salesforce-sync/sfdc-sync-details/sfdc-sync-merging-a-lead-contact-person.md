@@ -6,7 +6,7 @@ exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 A volte è meglio elencare semplicemente le regole. Eccoci qui:
 
 * Quando si uniscono due lead in **Salesforce**, la sincronizzazione normale comunica al Marketo Engage e i lead vengono uniti automaticamente come persone in Marketo.
-* Unione di due persone in **Marketo** richiama in realtà lo stesso processo di unione dei lead in Salesforce. Funziona comunque automaticamente.
-* Unione di un **lead (persona) in un contatto** funziona allo stesso modo. Si finisce con un unico contatto su entrambi i lati.
+* L&#39;unione di due persone in **Marketo** richiama lo stesso processo utilizzato per unirle come lead in Salesforce. Funziona comunque automaticamente.
+* L&#39;unione di un **lead (persona) in un contatto** funziona allo stesso modo. Si finisce con un unico contatto su entrambi i lati.
 * Durante l’unione, viene sommato il punteggio predefinito.
 
 >[!NOTE]
@@ -30,4 +30,4 @@ A volte è meglio elencare semplicemente le regole. Eccoci qui:
 
 >[!NOTE]
 >
->Approfondimento per ulteriori informazioni su [unione di persone in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Approfondisci per ulteriori informazioni sull&#39;unione di [persone in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.

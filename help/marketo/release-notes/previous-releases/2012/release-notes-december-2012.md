@@ -6,24 +6,24 @@ exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
 # Note sulla versione: dicembre 2012 {#release-notes-december}
 
-La versione di dicembre include le funzionalità **Inoltra ad amico** funzionalità, così come diverse altre chicche! Le caratteristiche contrassegnate da un asterisco (&#42;) sono disponibili solo in Select Edition e in RCA (Revenue Cycle Analytics).
+La versione di dicembre include la funzionalità **Inoltra ad amico** molto prevista, oltre a diverse altre utilità. Le funzionalità contrassegnate con un asterisco (&#42;) sono disponibili solo in Select Edition e in RCA (Revenue Cycle Analytics).
 
 ## Inoltra ad amico {#forward-to-friend}
 
-Abilita la condivisione di contenuti con altri includendo un **Inoltra ad amico** nelle e-mail. L’aggiunta di nuovi filtri e trigger ti aiuterà a identificare i tuoi influencer, identificando gli utenti che hanno inoltrato un’e-mail, nonché quelli che hanno ricevuto le e-mail inoltrate.
+Abilita la condivisione di contenuti con altri tramite l&#39;inclusione di un collegamento **Inoltra a amico** nelle e-mail. L’aggiunta di nuovi filtri e trigger ti aiuterà a identificare i tuoi influencer, identificando gli utenti che hanno inoltrato un’e-mail, nonché quelli che hanno ricevuto le e-mail inoltrate.
 
-Per includere una **Inoltra ad amico** nell’e-mail, aprilo nell’editor e inserisci l’invito `{{system.forwardToFriendLink}}` token.
+Per includere un invito **Inoltra a un amico** nell&#39;e-mail, aprilo nell&#39;editor e inserisci il token `{{system.forwardToFriendLink}}`.
 
 ![](assets/image2014-9-23-10-3a50-3a45.png)
 
-Utilizza i trigger e i filtri corrispondenti per identificare gli utenti che hanno utilizzato **Inoltra ad amico** e a coloro che hanno ricevuto l&#39;e-mail.
+Utilizza i trigger e i filtri corrispondenti per identificare gli utenti che hanno utilizzato il collegamento **Inoltra a amico** e quelli che hanno ricevuto l&#39;e-mail.
 
 ![](assets/image2014-9-23-10-3a50-3a56.png)
 
@@ -53,14 +53,14 @@ Sincronizza i dati dell’opportunità tra Marketo e Microsoft Dynamics.
 
 ## Rapporto Opportunità Influenzate Dal Marketing&#42; {#marketing-influenced-opportunities-report}
 
-Indica in quale percentuale la pipeline e i ricavi della tua azienda sono stati influenzati dai tuoi programmi di marketing. In entrata **Gestione ricavi**, ora puoi creare rapporti personalizzati con il nuovo punto giallo &quot;Opportunità Influenzate dal Marketing&quot; nell’analisi delle opportunità. È inoltre possibile utilizzare i due rapporti seguenti nella cartella Standard:
+Indica in quale percentuale la pipeline e i ricavi della tua azienda sono stati influenzati dai tuoi programmi di marketing. In **Revenue Explorer**, è ora possibile creare report personalizzati con il nuovo punto giallo &quot;Opportunità influenzata dal marketing&quot; in Analisi opportunità. È inoltre possibile utilizzare i due rapporti seguenti nella cartella Standard:
 
 * Influenza del marketing sulle opportunità create
 * Influenza del marketing sulle opportunità chiuse
 
 ![](assets/image2014-9-23-10-3a52-3a11.png)
 
-## Campi opportunità personalizzati nell’analisi dell’opportunità del programma&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
+## Campi opportunità personalizzati nell&#39;analisi dell&#39;opportunità del programma&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
 Aggiungi campi opportunità personalizzati per arricchire i rapporti Analisi opportunità programma in Esplora entrate.
 
@@ -70,6 +70,6 @@ Aggiungi campi opportunità personalizzati per arricchire i rapporti Analisi opp
 
 Ti sei mai chiesto quali campagne utilizzano un’azione di flusso specifica, ad esempio Modifica punteggio o Richiedi campagna? O dove viene utilizzato un determinato filtro? Il nuovo Campaign Inspector (disponibile dal Treasure Chest) consente di identificare queste campagne, nonché le campagne attive e le campagne con errori.
 
-Vai a **Amministratore** > **Treasure Chest** per attivare **Ispettore campagna**.
+Vai a **Amministratore** > **Sfondo tesoro** per abilitare **Ispettore campagna**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

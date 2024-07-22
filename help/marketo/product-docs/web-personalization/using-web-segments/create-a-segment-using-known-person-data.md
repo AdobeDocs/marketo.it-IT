@@ -23,7 +23,7 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Clic **Crea nuovo**.
+1. Fare clic su **Crea nuovo**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. In Segmentazione profilo, trascina **Database** nell’area di lavoro.
+1. In Segmentazione profilo trascinare **Database** nell&#39;area di lavoro.
 
    ![](assets/four-1.png)
 
@@ -49,7 +49,7 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 
 ## Selezione di più campi dati persona {#selecting-multiple-person-data-fields}
 
-1. Clic **+** per aggiungere un altro campo dati persona.
+1. Fare clic su **+** per aggiungere un altro campo dati persona.
 
    ![](assets/eight.png)
 
@@ -57,7 +57,7 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 
    ![](assets/nine.png)
 
-1. Clic **Salva** per salvare il segmento o **Salva e definisci campagna** per salvare e passare alla pagina Campagne.
+1. Fai clic su **Salva** per salvare il segmento o su **Salva e definisci campagna** per salvare e passare alla pagina Campagne.
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

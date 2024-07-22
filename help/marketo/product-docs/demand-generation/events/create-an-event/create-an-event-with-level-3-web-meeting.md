@@ -6,8 +6,8 @@ exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 0%
+source-wordcount: '196'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere una riunione Web di livello 3 come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
->* [Creare un nuovo programma evento](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Impostare il [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)per tenere traccia del coinvolgimento
+>* [Aggiungi riunione Web di livello 3 come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
+>* Imposta le [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriate per tenere traccia del coinvolgimento
 
-Crea il webinar nel livello 3. Se hai bisogno di aiuto, consulta [Libreria risorse di livello 3](https://www.level3.com/en/resource-library/). Troverete che è molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
+Crea il webinar nel livello 3. Se hai bisogno di aiuto, consulta la [Libreria risorse di livello 3](https://www.level3.com/en/resource-library/). Troverete che è molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
 
-* **Nome** : nome del webcast.
-* **Data di inizio** - La data di inizio del webcast.
+* **Nome** - Nome del webcast.
+* **Data inizio** - La data di inizio del webcast.
 * **Data di fine** - La data di fine del webcast.
 * **Fuso orario** - Fuso orario impostato per il webcast.
-* **Descrizione** : descrizione del webcast.
+* **Descrizione** - Descrizione del webcast.
 
-1. Seleziona il nuovo evento. Clic **Azioni evento,** allora **Impostazioni evento.**
+1. Seleziona il nuovo evento. Fai clic su **Azioni evento,** quindi su **Impostazioni evento.**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. In Partner evento, seleziona **Riunione Web livello 3**.
+1. In Partner evento selezionare **Riunione Web di livello 3**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
@@ -43,7 +43,7 @@ Crea il webinar nel livello 3. Se hai bisogno di aiuto, consulta [Libreria risor
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 

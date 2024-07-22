@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Questa area di analisi consente di analizzare l&#39;efficacia dei singoli programmi o di visualizzare i risultati riepilogati per canale. Fornisce informazioni approfondite sul numero di nuovi nomi generati che hanno raggiunto particolari fasi del percorso di successo all’interno del modello del ciclo di fatturato.
 
-**Esempio di domande aziendali a cui è possibile rispondere utilizzando questa area di analisi:**:
+**Le domande aziendali di esempio a cui è possibile rispondere con questa area di analisi includono**:
 
 Quanti nuovi nomi di un determinato programma hanno mai raggiunto una fase specifica del mio modello?
 
@@ -29,7 +29,7 @@ Quanti giorni ci vogliono per raggiungere la fase attuale?
 
 ![](assets/three-3.png)
 
-**Dimension e misure di analisi della fase dei ricavi del programma**
+**Dimension e misure di analisi fase ricavi programma**
 
 I Dimension e le misure sono suddivisi per funzionalità e sono rappresentati da punti gialli o blu nel sistema: giallo per le dimensioni e blu per le misure. Utilizza le dimensioni e le misure di analisi della fase dei ricavi del programma per rispondere a domande specifiche nel rapporto.
 
@@ -93,7 +93,7 @@ Per visualizzare le dimensioni o le misure disponibili all&#39;interno di una ca
  </tbody> 
 </table>
 
-**Intervallo temporale costi programma**
+**Intervallo di tempo costo programma**
 
 <table> 
  <tbody> 
@@ -121,7 +121,7 @@ Per visualizzare le dimensioni o le misure disponibili all&#39;interno di una ca
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Misura</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Misurare</strong></p></td> 
    <td colspan="1" rowspan="1"><p><strong>Descrizione</strong></p></td> 
   </tr> 
   <tr> 
@@ -153,4 +153,4 @@ Per visualizzare le dimensioni o le misure disponibili all&#39;interno di una ca
 
 >[!MORELIKETHIS]
 >
->[Creare un rapporto di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Crea un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

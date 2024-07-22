@@ -16,23 +16,23 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 ## Aggiungi manualmente una domanda {#manually-add-a-question}
 
-1. In IA generativa, fai clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
 
    ![](assets/response-library-1.png)
 
-1. Fai clic su **[!UICONTROL Libreria di risposte]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Libreria risposte]**.
 
    ![](assets/response-library-2.png)
 
-1. Clic **[!UICONTROL Aggiungi domanda]**.
+1. Fai clic su **[!UICONTROL Aggiungi domanda]**.
 
    ![](assets/response-library-3.png)
 
-1. Inserisci la domanda e la risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Clic **[!UICONTROL Salva]** al termine.
+1. Inserisci la domanda e la risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/response-library-4.png)
 
-1. Fai clic su aggiorna e la nuova domanda viene visualizzata in alto con lo stato di &quot;[!UICONTROL Elaborazione].&quot;
+1. Fai clic su Aggiorna e la nuova domanda viene visualizzata in alto con lo stato di &quot;[!UICONTROL Elaborazione]&quot;.
 
    ![](assets/response-library-5.png)
 
@@ -44,13 +44,13 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 >[!NOTE]
 >
->A tutte le domande e risposte generate viene assegnato il &quot;[!UICONTROL da rivedere]&quot; per impostazione predefinita. Solo &quot;[!UICONTROL approvato]&quot;Le domande e le risposte sono rese disponibili ai visitatori della chat.
+>Per impostazione predefinita, a tutte le domande e risposte generate viene assegnato lo stato &quot;[!UICONTROL revisione necessaria]&quot;. Solo le domande e le risposte &quot;[!UICONTROL approvate]&quot; sono rese disponibili ai visitatori della chat.
 
-1. In **[!UICONTROL Libreria di risposte]**, fai clic sulla domanda desiderata.
+1. Nella **[!UICONTROL libreria di risposte]**, fare clic sulla domanda desiderata.
 
    ![](assets/response-library-7.png)
 
-1. Apporta le modifiche necessarie e fai clic su **[!UICONTROL Salva]**.
+1. Apporta le modifiche e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/response-library-8.png)
 
@@ -85,11 +85,11 @@ Di seguito sono riportate le istruzioni su come apportare modifiche in blocco ne
 </tbody>
 </table>
 
-1. Dopo aver apportato le modifiche desiderate nel file, torna a **[!UICONTROL Libreria di risposte]** e fai clic su **[!UICONTROL Carica risposte]**.
+1. Dopo aver apportato le modifiche nel file, torna alla scheda **[!UICONTROL Libreria risposte]** e fai clic su **[!UICONTROL Carica risposte]**.
 
    ![](assets/response-library-9.png)
 
-1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Clic **[!UICONTROL Salva]** al termine.
+1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/response-library-10.png)
 

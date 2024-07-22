@@ -25,7 +25,7 @@ No, devi creare l’opportunità in Dynamics che verrà sincronizzata automatica
 
 ## Quali campi verranno sincronizzati con Marketo? {#what-fields-will-sync-to-marketo}
 
-È possibile [seleziona i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione.
+È possibile [selezionare i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione.
 
 ## In che modo un account/contatto è associato a un’opportunità? {#how-is-an-account-contact-associated-with-an-opportunity}
 
@@ -33,9 +33,9 @@ Il contatto/account può essere associato all’opportunità in due modi:
 
 * Durante la creazione di un’opportunità, è possibile impostare Contatto (campo di ricerca nel modulo da contattare) e/o Account (campo di ricerca nel modulo da account). In entrambi i casi, questi valori vengono memorizzati nel campo Cliente potenziale (customerid) in Dynamics. Questo campo non viene visualizzato nel modulo dell’opportunità, ma può essere aggiunto dalle impostazioni. Questo campo può contenere solo 1 valore, contatto o account. Marketo esegue le operazioni seguenti:
 
-   * Se il valore del contatto è impostato e l’account viene lasciato vuoto, Marketo crea un `opportunitycontactrole` e imposta l&#39;account dell&#39;opportunità sull&#39;account del contatto. Se il contatto non dispone di un account, questo campo viene lasciato vuoto.
+   * Se il valore del contatto è impostato e l&#39;account viene lasciato vuoto, Marketo crea un account `opportunitycontactrole` e imposta l&#39;account dell&#39;opportunità sull&#39;account del contatto. Se il contatto non dispone di un account, questo campo viene lasciato vuoto.
    * Se il valore dell&#39;account è impostato e il contatto viene lasciato vuoto, Marketo imposterà l&#39;account solo sull&#39;opportunità.
    * Se sono impostati entrambi i valori, Dynamics sceglie account come valore per customerid, in modo che il comportamento sia lo stesso di cui sopra.
 
 
-* Tramite parti interessate: Dynamics utilizza le connessioni per connettere l’opportunità di contattare le parti interessate dalla pagina di creazione dell’opportunità. Per questo, verrà creato un’ `opportunitycontactrole` record per ogni nuovo soggetto interessato.
+* Tramite parti interessate: Dynamics utilizza le connessioni per connettere l’opportunità di contattare le parti interessate dalla pagina di creazione dell’opportunità. Per questo, creeremo un record `opportunitycontactrole` per ogni nuovo stakeholder.

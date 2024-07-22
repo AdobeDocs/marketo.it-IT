@@ -22,19 +22,19 @@ Aggiungi un’identità quando disponi di più indirizzi e-mail da inviare.
 
    ![](assets/add-identity-1.png)
 
-1. Clic **Impostazioni e-mail**.
+1. Fare clic su **Impostazioni e-mail**.
 
    ![](assets/add-identity-2.png)
 
-1. Clic **Aggiungi identità**.
+1. Fare clic su **Aggiungi identità**.
 
    ![](assets/add-identity-3.png)
 
-1. Inserisci le informazioni (i campi obbligatori e-mail e nome) e fai clic su **Crea**.
+1. Immetti le informazioni (i campi obbligatori e-mail e nome) e fai clic su **Crea**.
 
    ![](assets/add-identity-4.png)
 
-1. Riceverai un’e-mail con la dicitura &quot;Verifica l’indirizzo e-mail&quot;. Per verificare, fai clic su **Verifica indirizzo e-mail**.
+1. Riceverai un’e-mail con la dicitura &quot;Verifica l’indirizzo e-mail&quot;. Per verificare, fare clic su **Verifica indirizzo e-mail**.
 
    ![](assets/add-identity-5.png)
 
@@ -46,4 +46,4 @@ Quando invii un’e-mail in Marketo Sales e hai più identità, puoi passare da 
 
 >[!MORELIKETHIS]
 >
->[Aggiungere o aggiornare la firma e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).
+>[Aggiungi o aggiorna la firma e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/add-or-update-your-email-signature.md).

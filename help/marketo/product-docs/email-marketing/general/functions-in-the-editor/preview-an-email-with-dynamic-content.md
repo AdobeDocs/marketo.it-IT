@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Visualizza l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto dinamico per verificarlo.
 
-1. Seleziona l’e-mail e fai clic su **Anteprima e-mail**.
+1. Seleziona l&#39;e-mail e fai clic su **Anteprima e-mail**.
 
    ![](assets/one-3.png)
 
@@ -33,7 +33,7 @@ Visualizza l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto din
 
 Puoi anche visualizzare in anteprima il contenuto dinamico direttamente nell’editor e-mail.
 
-1. Sotto **Contenuto**, fare clic su **Dinamico** scheda.
+1. In **Contenuto**, fare clic sulla scheda **Dinamico**.
 
    ![](assets/five-1.png)
 

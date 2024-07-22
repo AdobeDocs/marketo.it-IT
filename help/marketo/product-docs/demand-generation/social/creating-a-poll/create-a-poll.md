@@ -6,7 +6,7 @@ exl-id: a43b39d2-d6a7-4ba8-a623-d28a8f089816
 feature: Social
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '295'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Coinvolgi le persone con un sondaggio che possano votare e condividere con i lor
 
 >[!PREREQUISITES]
 >
->Se desideri utilizzare le immagini nel sondaggio, aggiungili alla libreria Immagini e file di Marketo prima di iniziare. Aggiungi un&#39;immagine 60x60px per ogni voce di sondaggio. Consulta [Aggiungere immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
+>Se desideri utilizzare le immagini nel sondaggio, aggiungili alla libreria Immagini e file di Marketo prima di iniziare. Aggiungi un&#39;immagine 60x60px per ogni voce di sondaggio. Vedere [Aggiungere immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md).
 
 1. Nel programma, seleziona **Nuovo** > **Nuova risorsa locale**.
 
    ![](assets/image2014-9-18-18-3a18-3a41.png)
 
-1. In **Raccolta risorse locali**, fai clic su **Sondaggio**.
+1. Nella **Raccolta risorse locali**, fai clic su **Polling**.
 
    ![](assets/image2014-9-18-18-3a18-3a47.png)
 
@@ -33,7 +33,7 @@ Coinvolgi le persone con un sondaggio che possano votare e condividere con i lor
 
    >[!TIP]
    >
-   >Per risparmiare tempo, puoi utilizzare **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
+   >Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da una condivisione video esistente.
 
 1. Dai un titolo al sondaggio (in genere una breve domanda).
 
@@ -43,7 +43,7 @@ Coinvolgi le persone con un sondaggio che possano votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a23.png)
 
-1. Per aggiungere una voce, fare clic su **+** e modificare titolo e descrizione.
+1. Per aggiungere una voce, fare clic sul simbolo **+** e modificare il titolo e la descrizione.
 
    ![](assets/image2014-9-18-18-3a19-3a30.png)
 
@@ -51,7 +51,7 @@ Coinvolgi le persone con un sondaggio che possano votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a37.png)
 
-1. Seleziona l’immagine necessaria, quindi fai clic su **Seleziona**.
+1. Seleziona l&#39;immagine necessaria, quindi fai clic su **Seleziona**.
 
    ![](assets/image2014-9-18-18-3a19-3a44.png)
 
@@ -59,7 +59,7 @@ Coinvolgi le persone con un sondaggio che possano votare e condividere con i lor
 
    ![](assets/image2014-9-18-18-3a19-3a50.png)
 
-1. Clic **Approva** e **Chiudi.**
+1. Fai clic su **Approva** e **Chiudi.**
 
    ![](assets/image2014-9-18-18-3a19-3a57.png)
 
@@ -67,7 +67,7 @@ L’editor dei sondaggi si apre in una nuova finestra. Le impostazioni predefini
 
 >[!TIP]
 >
->Per modificare uno dei valori predefiniti del sondaggio, fai clic su **Indietro**. Per salvare il lavoro per un momento successivo senza approvazione, fai clic su **Chiudi**.
+>Per modificare le impostazioni predefinite del sondaggio, fare clic su **Indietro**. Per salvare il lavoro per un momento successivo senza approvazione, fare clic su **Chiudi**.
 
 In caso di problemi nel sondaggio, verrà richiesto di risolverli prima dell&#39;approvazione del sondaggio.
 
@@ -77,4 +77,4 @@ In caso di problemi nel sondaggio, verrà richiesto di risolverli prima dell&#39
 
 >[!MORELIKETHIS]
 >
->Il passaggio successivo consiste nel [pubblicare il sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), ma puoi modificare le impostazioni del sondaggio, se necessario. Inizia con [personalizzazione delle impostazioni del sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).
+>Il passaggio successivo consiste nel [pubblicare il sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/publish-a-poll.md), ma se necessario è possibile modificare le impostazioni del sondaggio. Inizia con [personalizzare le impostazioni del sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/customize-poll-settings.md).

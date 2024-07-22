@@ -18,7 +18,7 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-1.png)
 
-1. Fai clic con il pulsante destro del mouse sulla cartella desiderata e seleziona **Nuovo programma**.
+1. Fare clic con il pulsante destro del mouse sulla cartella desiderata e selezionare **Nuovo programma**.
 
    ![](assets/create-an-interactive-webinar-2.png)
 
@@ -26,15 +26,15 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Fai clic sul menu a discesa Canale e seleziona un canale con _Evento con webinar_ nella colonna &quot;Si applica a&quot;. In questo esempio, stiamo scegliendo **Webinar**.
+1. Fare clic sull&#39;elenco a discesa Canale e selezionare un canale contenente _Evento con webinar_ nella colonna &quot;Si applica a&quot;. In questo esempio, stiamo scegliendo **Webinar**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 
    >[!NOTE]
    >
-   >Per vedere a quali canali applicare _Evento con webinar_, vai a **Amministratore** > **Tag**. &quot;Si applica a&quot; deve essere la colonna centrale. Ulteriori informazioni su &quot;Si applica a&quot; nel passaggio 5 di [questo articolo](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
+   >Per vedere quali canali applicare all&#39;evento _con webinar_, passa a **Amministratore** > **Tag**. &quot;Si applica a&quot; deve essere la colonna centrale. Ulteriori informazioni su &quot;Si applica a&quot; nel passaggio 5 di [questo articolo](/help/marketo/product-docs/administration/tags/create-a-program-channel.md){target="_blank"}.
 
-1. Scegli **Webinar interattivi** e fai clic su **Successivo**.
+1. Scegli **Webinar interattivi** e fai clic su **Avanti**.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
@@ -60,7 +60,7 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
 <p>
 
-Ora è il momento di [progettare il webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
+Ora è il momento di [progettare il tuo webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

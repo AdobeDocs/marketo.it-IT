@@ -6,7 +6,7 @@ exl-id: d4583ea0-2b52-415e-b28c-a8eafebeff64
 feature: Microsoft Dynamics
 source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,11 @@ Sì. [Ecco come](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/mic
 
 ## È possibile forzare manualmente la sincronizzazione di una persona o di un contatto? {#can-i-manually-force-a-sync-of-a-person-or-a-contact}
 
-No, la sincronizzazione in background automatizzata è l’unico modo per sincronizzare gli aggiornamenti tra Marketo e Dynamics. Il [Sincronizza persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} non forzerà la sincronizzazione del lead.
+No, la sincronizzazione in background automatizzata è l’unico modo per sincronizzare gli aggiornamenti tra Marketo e Dynamics. [Sincronizza persona con Microsoft](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md){target="_blank"} non forzerà la sincronizzazione del lead.
 
 ## Quali campi verranno sincronizzati con Marketo? {#what-fields-will-sync-to-marketo}
 
-È possibile [seleziona i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione. Marketo sincronizzerà solo i campi a cui l’utente di Dynamics Sync ha accesso.
+È possibile [selezionare i campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md#select-fields-to-sync){target="_blank"} durante l&#39;installazione. Marketo sincronizzerà solo i campi a cui l’utente di Dynamics Sync ha accesso.
 
 ## Marketo rispetterà le regole di convalida Dynamics? {#will-marketo-respect-the-dynamics-validation-rules}
 

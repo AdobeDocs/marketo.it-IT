@@ -2,7 +2,8 @@
 description: Inviare un messaggio SMS - Documentazione di Marketo - Documentazione del prodotto
 title: Inviare un messaggio SMS
 feature: Mobile Marketing
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Inviare un messaggio SMS {#send-a-vibes-sms-message}
 
-Hai [ha creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, ora è il momento di inviarlo. Puoi inviarlo tramite Batch o Trigger Campaign.
+Hai [creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}, ora è il momento di inviarlo. Puoi inviarlo tramite Batch o Trigger Campaign.
 
 >[!NOTE]
 >
@@ -31,11 +32,11 @@ Hai [ha creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vib
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Fai clic su **Elenco avanzato** e definisci il pubblico per l’SMS. In questo esempio invieremo a tutti gli utenti del nostro Database la cui azienda è indicata come &quot;Adobe&quot;.
+1. Fai clic sulla scheda **Elenco avanzato** e definisci il pubblico per l&#39;SMS. In questo esempio invieremo a tutti gli utenti del nostro Database la cui azienda è indicata come &quot;Adobe&quot;.
 
    ![](assets/send-an-sms-message-3.png)
 
-1. In **Flusso** , trascinare **Invia messaggio SMS**. Seleziona l’elenco Messaggi SMS e vibrazioni desiderato dai menu a discesa.
+1. Nella scheda **Flusso**, trascina su **Invia messaggio SMS**. Seleziona l’elenco Messaggi SMS e vibrazioni desiderato dai menu a discesa.
 
    ![](assets/send-an-sms-message-4.png)
 
@@ -43,7 +44,7 @@ Hai [ha creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vib
    >
    >Il selettore Elenco vibrazioni funge da ulteriore filtro per il pubblico già identificato nell’Elenco avanzato in modo da eseguire il targeting solo delle persone che appartengono a tale elenco.
 
-1. Fai clic su **Pianificazione** e pianifica l’SMS.
+1. Fai clic sulla scheda **Pianifica** e pianifica il tuo SMS.
 
    ![](assets/send-an-sms-message-5.png)
 
@@ -57,11 +58,11 @@ Hai [ha creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vib
 
    ![](assets/send-an-sms-message-7.png)
 
-1. Fai clic su **Elenco avanzato** , selezionare il trigger desiderato e definirne il valore. In questo esempio utilizziamo **Compila modulo**.
+1. Fare clic sulla scheda **Elenco avanzato**, selezionare il trigger desiderato e definirne il valore. In questo esempio, stiamo utilizzando **Compila modulo**.
 
    ![](assets/send-an-sms-message-8.png)
 
-1. In **Flusso** , trascinare **Invia messaggio SMS**. Seleziona l’elenco Messaggi SMS e vibrazioni desiderato dai menu a discesa.
+1. Nella scheda **Flusso**, trascina su **Invia messaggio SMS**. Seleziona l’elenco Messaggi SMS e vibrazioni desiderato dai menu a discesa.
 
    ![](assets/send-an-sms-message-9.png)
 
@@ -69,11 +70,11 @@ Hai [ha creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vib
    >
    >Il selettore Elenco vibrazioni funge da ulteriore filtro per il pubblico già identificato nell’Elenco avanzato in modo da eseguire il targeting solo delle persone che appartengono a tale elenco.
 
-1. Fai clic su **Pianificazione** , quindi **Attiva**.
+1. Fai clic sulla scheda **Pianifica**, quindi **Attiva**.
 
    ![](assets/send-an-sms-message-10.png)
 
 >[!MORELIKETHIS]
 >
->* [Creare un messaggio vibrazioni](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+>* [Crea un messaggio di vibrazione](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
 >* [Utilizzo delle opzioni SMS in una campagna avanzata](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md){target="_blank"}

@@ -2,10 +2,10 @@
 description: Gestione dei dati operativi - Documentazione di Marketo - Documentazione del prodotto
 title: Gestione dei dati operativi
 feature: Programs
-exl-id: 21cd86b2-e924-4326-bbf7-32a03a3eb224
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 2%
 
 Questo è un esempio di semplici flussi di lavoro basati sulle best practice per la gestione dei dati operativi che utilizzano un programma predefinito, per aiutarti a gestire la coerenza dei dati per i record nel database di Marketo Engage.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -35,7 +35,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -77,7 +77,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>Pubblicità online</td>
+   <td>Advertising online</td>
   </tr>
   <tr> 
    <td>Campagna avanzata</td> 
@@ -112,7 +112,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Campagna avanzata</td> 
    <td> </td>
-   <td>Nuova persona dalla pubblicità online</td>
+   <td>Nuova persona da Online Advertising</td>
   </tr>
   <tr> 
    <td>Campagna avanzata</td> 
@@ -137,17 +137,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Batch notturno sorgente persona (per le istanze con traffico elevato)</td>
+   <td>Persona Source Nightly Batch (per le istanze con traffico elevato)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Sorgente della persona attivata (per istanze a traffico ridotto)</td>
+   <td>Source della persona attivato (per istanze a traffico ridotto)</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Acquisire l’origine della persona</td>
+   <td>Acquisisci Source persona</td>
   </tr>
   <tr> 
    <td>Cartella</td> 
@@ -171,7 +171,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 

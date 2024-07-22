@@ -6,7 +6,7 @@ exl-id: fb3e8b56-506a-41f8-a84f-41370381c058
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '293'
 ht-degree: 0%
 
 ---
@@ -17,21 +17,21 @@ I campi dinamici funzionano solo quando si utilizza un modello. Le singole e-mai
 
 ## Cosa verificare {#what-to-check}
 
-In Sales Connect sono disponibili tre tipi di campi dinamici: Basic, Custom e Salesforce. Sia Basic che Custom cercano di richiamare informazioni dall&#39; [applicazione web](https://toutapp.com/login). Se le informazioni non esistono nell’applicazione web, i campi saranno vuoti. I campi Salesforce richiamano le informazioni da [Salesforce.com](https://salesforce.com).
+In Sales Connect sono disponibili tre tipi di campi dinamici: Basic, Custom e Salesforce. Sia Basic che Custom cercano di richiamare informazioni dall&#39;[applicazione Web](https://toutapp.com/login). Se le informazioni non esistono nell’applicazione web, i campi saranno vuoti. I campi Salesforce richiamano informazioni da [Salesforce.com](https://salesforce.com).
 
 **Risoluzione dei problemi dei campi Salesforce**
 
-Campi Salesforce: ad es. `{{sfdc_account_name}}`
+Campi Salesforce: esempio: `{{sfdc_account_name}}`
 
-* Assicurati che sia collegato correttamente a Sales Connect. Vai a [Impostazioni](https://toutapp.com/login) pagina e fai clic su **Gestisci** accanto al CRM.
+* Assicurati che sia collegato correttamente a Sales Connect. Vai alla pagina [Impostazioni](https://toutapp.com/login) e fai clic su **Gestione** accanto al tuo CRM.
 
 **Risoluzione dei problemi dei campi di base e personalizzati**
 
-Campi di base tout: ad es. `{{company}}`
+Campi di base tout: ad esempio `{{company}}`
 
-Campi personalizzati tout: ad es. `{{custom_field_favorite_movie}}`
+Campi personalizzati tout: ad esempio `{{custom_field_favorite_movie}}`
 
-* Il campo corrispondente deve essere salvato per il contatto in [Pagina Persone](https://toutapp.com/next#relationships) affinché il nostro campo dinamico faccia riferimento a. Ad esempio, se invii un’e-mail a Mary e utilizzi il `{{company}}` ma il suo record contatto non elenca una società, non saremo in grado di compilarlo.
+* Per fare riferimento al campo dinamico, è necessario salvare il campo corrispondente per il contatto nella [pagina Persone](https://toutapp.com/next#relationships). Ad esempio, se invii un&#39;e-mail a Mary e utilizzi il campo `{{company}}`, ma il suo record contatto non elenca una società, non saremo in grado di compilarlo.
 
 ## Perché La Mia E-Mail È Stata Inviata Senza Popolare Tutti I Campi Dinamici? {#why-did-my-email-send-without-populating-all-dynamic-fields}
 
@@ -49,4 +49,4 @@ Sales Connect impedirà l’invio delle e-mail se non è possibile compilare tut
 
 >[!NOTE]
 >
->Il `{{first_name}}` per tentare di richiamare informazioni, verrà visualizzato sia in Sales Connect che in Salesforce. Tutti gli altri campi dell&#39;elenco vengono cercati solo in Sales Connect per compilare il campo.
+>Il campo `{{first_name}}` verrà visualizzato sia in Sales Connect che in Salesforce per tentare di richiamare informazioni. Tutti gli altri campi dell&#39;elenco vengono cercati solo in Sales Connect per compilare il campo.

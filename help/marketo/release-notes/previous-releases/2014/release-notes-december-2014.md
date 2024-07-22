@@ -17,7 +17,7 @@ Le seguenti funzioni sono incluse nella versione di dicembre 2014. Per informazi
 
 ## Rapporti Approfondimenti vendite {#sales-insight-reports}
 
-Il [Rapporto sulle prestazioni delle e-mail di Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in di Outlook e il plug-in Gmail.
+Il [rapporto Prestazioni e-mail approfondimento vendite](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche delle e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in di Outlook e il plug-in Gmail.
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
@@ -25,13 +25,13 @@ Il [Rapporto sulle prestazioni delle e-mail di Sales Insight](/help/marketo/prod
 
 ## Tipi di pubblico personalizzati facebook {#facebook-custom-audiences}
 
-Una volta aggiunto il tuo amministratore Marketo [Facebook tramite Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi facilmente creare, aggiornare o [sostituire un pubblico personalizzato di Facebook con lead da un elenco statico o avanzato di Marketo](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cerca la nuova icona Facebook nella parte inferiore della griglia dei lead di un elenco statico o avanzato.
+Dopo che il tuo amministratore di Marketo ha aggiunto [Facebook tramite Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi facilmente creare, aggiornare o [sostituire un pubblico personalizzato di Facebook con lead da un elenco Marketo statico o avanzato](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cerca la nuova icona Facebook nella parte inferiore della griglia dei lead di un elenco statico o avanzato.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
 ## Clonazione migliorata in più aree di lavoro  {#improved-cloning-across-workspaces}
 
-[Clonazione di un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) in un&#39;altra area di lavoro non è mai stato così facile. Quando si fa clic su clona, viene selezionato il workspace di destinazione. Non clonare più in una cartella e quindi spostare la cartella.
+[La clonazione di un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.md) in un&#39;altra area di lavoro non è mai stata così semplice. Quando si fa clic su clona, viene selezionato il workspace di destinazione. Non clonare più in una cartella e quindi spostare la cartella.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Una volta aggiunto il tuo amministratore Marketo [Facebook tramite Admin > Launc
 
 ## Elenco avanzato riferimenti {#reference-smart-list}
 
-[È possibile fare riferimento agli elenchi avanzati condivisi con un&#39;altra area di lavoro](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) durante la creazione di un elenco avanzato o di un flusso.
+È possibile fare riferimento a [elenchi avanzati condivisi con un&#39;altra area di lavoro](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md) durante la creazione di un elenco avanzato o di un flusso.
 
 ## Miglioramenti all’importazione degli elenchi {#list-import-improvements}
 
@@ -65,11 +65,11 @@ Tre nuove chiamate per l’API ReST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio, all’indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
 
 ## Miglioramenti alla compatibilità di Munchkin con JavaScript {#munchkin-javascript-compatibility-enhancements}
 
-Abbiamo apportato diversi miglioramenti minori a Munchkin per assicurarne il caricamento rapido e il funzionamento come desiderato nei casi con altri JavaScript sulla pagina.
+Abbiamo apportato diversi piccoli miglioramenti a Munchkin per assicurarne il caricamento rapido e il funzionamento corretto nei casi in cui si disponga di altri JavaScript sulla pagina.
 
 Il rollout sarà messo in scena a partire da metà dicembre e continuerà per diversi mesi.
 

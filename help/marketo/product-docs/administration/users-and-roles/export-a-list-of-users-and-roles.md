@@ -23,7 +23,7 @@ ht-degree: 0%
 
    ![](assets/export-a-list-of-users-and-roles-1.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/export-a-list-of-users-and-roles-2.png)
 
@@ -31,11 +31,11 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Per esportare i ruoli, vai a **[!UICONTROL Ruoli]** , quindi esporta.
+   >Per esportare i ruoli, vai prima alla scheda **[!UICONTROL Ruoli]**, quindi esporta.
 
    ![](assets/export-a-list-of-users-and-roles-3.png)
 
-1. Fai clic su **[!UICONTROL Esporta]** icona.
+1. Fai clic sull&#39;icona **[!UICONTROL Esporta]**.
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 

@@ -13,5 +13,5 @@ ht-degree: 0%
 
 # Altri amministratori {#additional-admins}
 
-Per modificare o rimuovere un membro del team, passare alla pagina Impostazioni e fare clic su **Gestione team** nel pannello di navigazione a sinistra.
+Per cambiare o rimuovere un membro del team, passare alla pagina Impostazioni e fare clic su **Gestione team** nel pannello di navigazione a sinistra.
 In qualità di amministratore di un account, puoi gestire gli utenti del tuo team.

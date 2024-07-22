@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Il registro attività è la fonte ultima di verità. Questa è la storia completa del percorso di una persona in Marketo Engage.
 
-1. Vai a **[!UICONTROL Database]**.
+1. Vai al **[!UICONTROL database]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Seleziona **[!UICONTROL Tutte le persone]**.
+1. Seleziona **[!UICONTROL Tutti gli utenti]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Fai clic su **[!UICONTROL Persone]** scheda. Seleziona una persona **[!UICONTROL ID]** numero.
+1. Fare clic sulla scheda **[!UICONTROL Persone]**. Seleziona un numero di persona **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Clic **[!UICONTROL Registro attività]**.
+1. Fare clic su **[!UICONTROL Registro attività]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 
@@ -49,4 +49,4 @@ Esportare il registro attività di una persona in Excel?
 
    >[!MORELIKETHIS]
    >
-   >Ulteriori informazioni su [filtraggio del registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} per visualizzare attività di persona specifiche.
+   >Ulteriori informazioni su [filtrare il registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/filter-activity-types-in-the-activity-log-of-a-person.md){target="_blank"} per visualizzare attività di persona specifiche.

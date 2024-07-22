@@ -16,7 +16,7 @@ ht-degree: 0%
 >[!PREREQUISITES]
 >
 >* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
->* [Creare una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
+>* [Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Ottimizza le prestazioni degli elenchi avanzati utilizzando i filtri di segmento.
 

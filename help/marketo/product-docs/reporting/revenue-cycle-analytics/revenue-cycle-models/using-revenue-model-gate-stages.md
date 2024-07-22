@@ -21,19 +21,19 @@ Una fase del gate funge da controllo di qualificazione.
 
 ## Aggiungi Un Gate Stage {#add-a-gate-stage}
 
-1. Vai a **Analytics** area.
+1. Vai all&#39;area **Analytics**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 
-1. Seleziona un modello esistente oppure [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Seleziona un modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Clic **Modifica bozza**.
+1. Fare clic su **Modifica bozza**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Fai clic su **Cancello** , quindi trascinare e rilasciare in un punto qualsiasi dell&#39;area di lavoro.
+1. Fai clic sul pulsante **Gate**, quindi trascina e rilascia un punto qualsiasi nell&#39;area di lavoro.
 
    ![](assets/image2015-4-27-16-3a54-3a19.png)
 
@@ -41,27 +41,27 @@ Una fase del gate funge da controllo di qualificazione.
 
    >[!NOTE]
    >
-   >Seleziona [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) in questo momento per ottenere informazioni sulle prestazioni dei tuoi account mentre progrediscono attraverso il tuo modello.
+   >Seleziona [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md) in questo momento per ottenere informazioni approfondite sulle prestazioni degli account durante l&#39;avanzamento nel modello.
 
    ![](assets/image2015-4-28-12-3a1-3a7.png)
 
 >[!NOTE]
 >
->Lo stadio del cancello divide i lead in base ai criteri inseriti nelle regole di transizione; **non contiene i lead**. È necessaria una transizione predefinita in modo che i lead che non sono stati scelti dalle altre transizioni finiscano per passare attraverso il valore predefinito.
+>La fase del gate divide i lead in base ai criteri immessi nelle regole di transizione; **non contiene i lead**. È necessaria una transizione predefinita in modo che i lead che non sono stati scelti dalle altre transizioni finiscano per passare attraverso il valore predefinito.
 
 ## Modificare una fase del gate {#edit-a-gate-stage}
 
-Modificate Nome (Name), Descrizione (Description) e Tipo (Type) dello stadio del cancello. Puoi anche scegliere di [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Modificate Nome (Name), Descrizione (Description) e Tipo (Type) dello stadio del cancello. Puoi anche scegliere di [Avviare il tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Fai clic su un **Cancello** icona stage.
+1. Fare clic sull&#39;icona di una fase di **Gate**.
 
    ![](assets/image2015-4-27-17-3a11-3a41.png)
 
-1. Fai clic su all’interno del **Nome** e **Descrizione** per modificarne il contenuto.
+1. Fai clic sui campi **Nome** e **Descrizione** per modificarne il contenuto.
 
    ![](assets/image2015-4-28-12-3a17-3a22.png)
 
-1. Seleziona la **Tipo** da modificare.
+1. Selezionare il menu a discesa **Tipo** da modificare.
 
    ![](assets/image2015-4-27-17-3a14-3a7.png)
 
@@ -71,11 +71,11 @@ Modificate Nome (Name), Descrizione (Description) e Tipo (Type) dello stadio del
 
    ![](assets/image2015-4-28-12-3a30-3a19.png)
 
-1. È inoltre possibile eliminare una fase Gate facendo clic su di essa, quindi nella **Azioni fase** a discesa, selezione **Elimina**.
+1. Puoi anche eliminare una fase Gate facendo clic su di essa e selezionando **Elimina** nel menu a discesa **Azioni fase**.
 
    ![](assets/image2015-4-28-12-3a56-3a28.png)
 
-1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Clic **Elimina**.
+1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fare clic su **Elimina**.
 
    ![](assets/image2015-4-28-12-3a52-3a22.png)
 
@@ -83,6 +83,6 @@ Congratulazioni! Ora capite il meraviglioso mondo dei Gate Stages.
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo delle fasi di magazzino del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
->* [Utilizzo degli stadi SLA del modello ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
->* [Crea un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+>* [Utilizzo delle fasi di inventario del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
+>* [Utilizzo degli stadi SLA del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Crea un nuovo modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).

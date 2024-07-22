@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Clic **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -31,23 +31,23 @@ Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Fai clic su **[!UICONTROL Azioni oggetto personalizzato]** a discesa e selezionare **[!UICONTROL Approva oggetto]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Approva oggetto]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. Lo stato cambia in [!UICONTROL Approvato].
+1. Lo stato diventa [!UICONTROL Approvato].
 
    ![](assets/approve-a-custom-object-5.png)
 
    >[!NOTE]
    >
-   >Un oggetto personalizzato utilizzato in una _struttura uno-a-molti_ per essere approvato, deve essere presente almeno un campo di deduplicazione, un campo di collegamento, un nome di oggetto collegato e un nome di campo collegato.
+   >Un oggetto personalizzato utilizzato in una struttura _uno-a-molti_ deve avere almeno un campo di deduplicazione, un campo di collegamento, un nome di oggetto collegato e un nome di campo collegato da approvare.
    >
-   >Un oggetto personalizzato utilizzato in una _struttura many-to-many_ **non** quando lo approvi, è necessario un campo collegamento, un nome di oggetto collegato o un nome di campo collegato, in quanto si trovano nell’oggetto intermedio.
+   >Un oggetto personalizzato utilizzato in una struttura _many-to-many_ **non richiede un campo collegamento, un nome di oggetto collegato o un nome di campo collegato quando viene approvato (perché risiedono nell&#39;oggetto intermedio).**
    >
-   >Un oggetto personalizzato utilizzato come _oggetto intermedio_ richiede un campo collegamento, un nome oggetto collegato e un nome campo collegato, ma **non** richiede un campo di deduplicazione.
+   >Un oggetto personalizzato utilizzato come _oggetto intermedio_ richiede un campo di collegamento, un nome di oggetto collegato e un nome di campo collegato, ma **non richiede un campo di deduplicazione**.
    >
-   >Consulta [Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md) per ulteriori informazioni.
+   >Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
 Tutto qui! Ora puoi selezionare l’oggetto personalizzato nei vincoli dei filtri e dei trigger da utilizzare nelle campagne.
 
@@ -55,14 +55,14 @@ Tutto qui! Ora puoi selezionare l’oggetto personalizzato nei vincoli dei filtr
 
 Dopo aver modificato un oggetto personalizzato approvato, è necessario approvare la bozza per ripristinare lo stato Approvato dell&#39;oggetto personalizzato.
 
-1. Quando si modifica un oggetto personalizzato già approvato, viene visualizzato un messaggio [!UICONTROL Approvato con bozza] stato.
+1. Quando modifichi un oggetto personalizzato già approvato, riceve lo stato [!UICONTROL Approvato con bozza].
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. Quando sei pronto ad approvare la bozza, fai clic sul pulsante **[!UICONTROL Azioni oggetto personalizzato]** a discesa e selezionare **[!UICONTROL Approva oggetto]**.
+1. Quando sei pronto ad approvare la bozza, fai clic sul menu a discesa **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Approva oggetto]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. Un’anteprima mostra gli elementi modificati nella bozza. Clic **[!UICONTROL Approva]**.
+1. Un’anteprima mostra gli elementi modificati nella bozza. Fai clic su **[!UICONTROL Approva]**.
 
    ![](assets/approve-a-custom-object-8.png)

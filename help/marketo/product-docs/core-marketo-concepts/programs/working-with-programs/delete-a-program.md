@@ -19,19 +19,19 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Fai clic su **[!UICONTROL Azioni del programma]** a discesa e selezionare **[!UICONTROL Elimina]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Azioni programma]** e seleziona **[!UICONTROL Elimina]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selezionare il pulsante di opzione Elimina tutto... Controlla gli effetti dell’eliminazione del programma, quindi fai clic su **[!UICONTROL Elimina]** per confermare.
+1. Selezionare il pulsante di opzione Elimina tutto... Rivedi gli effetti dell&#39;eliminazione del programma, quindi fai clic su **[!UICONTROL Elimina]** per confermare.
 
 >[!TIP]
 >
->L&#39;archiviazione dei programmi consente di conservare i dati del programma, ma ne impedisce l&#39;utilizzo. Seleziona tale opzione e fai clic su **[!UICONTROL Successivo]** per ulteriori dettagli sull&#39;archiviazione.
+>L&#39;archiviazione dei programmi consente di conservare i dati del programma, ma ne impedisce l&#39;utilizzo. Seleziona questa opzione, quindi fai clic su **[!UICONTROL Avanti]** per visualizzare ulteriori dettagli sull&#39;archiviazione.
 
 ![](assets/2017-05-05-15-04-15.png)
 
-Completato. È come se il programma non fosse mai esistito.
+Fine. È come se il programma non fosse mai esistito.
 
 ## Perché non posso eliminare il mio programma? {#why-cant-i-delete-my-program}
 
@@ -43,7 +43,7 @@ Per risolvere il problema, potrebbe essere necessario eseguire un drill-down e a
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Clic **[!UICONTROL Utilizzato da]** per vedere dove viene utilizzata la risorsa.
+1. Fai clic su **[!UICONTROL Utilizzato da]** per vedere dove viene utilizzata la risorsa.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

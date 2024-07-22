@@ -19,7 +19,7 @@ Quando non hai più bisogno di contenuti, puoi eliminarli facilmente.
 
    ![](assets/image2017-10-3-9-3a8-3a39.png)
 
-1. Fai clic su **Azioni contenuto** a discesa e selezionare **Elimina contenuto**.
+1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Elimina contenuto**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
 

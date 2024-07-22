@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## Modifica del modello {#editing-your-model}
 
-1. Seleziona il modello a cui desideri apportare modifiche nella sezione Analytics e fai clic su **Modifica bozza**.
+1. Selezionare il modello a cui si desidera apportare le modifiche nella sezione Analytics e fare clic su **Modifica bozza**.
 
    ![](assets/one.png)
 
-1. Non potete eliminare le fasi durante la modifica di un modello 2D (dopo l&#39;approvazione del modello). Potete invece unire lo stadio con un altro nel modello. Fare clic con il pulsante destro del mouse sullo stadio che si desidera unire e scegliere **Unisci**.
+1. Non potete eliminare le fasi durante la modifica di un modello 2D (dopo l&#39;approvazione del modello). Potete invece unire lo stadio con un altro nel modello. Fare clic con il pulsante destro del mouse sulla fase che si desidera unire e scegliere **Unisci**.
 
    ![](assets/two.png)
 
-1. Scegliere la nuova fase per i lead attualmente in quella selezionata oppure selezionare **Nessuno** per rimuovere i lead dal modello. Al termine, fai clic su **Unisci**.
+1. Scegli la nuova fase per i lead attualmente in quella selezionata, oppure seleziona **Nessuno** per rimuovere i lead dal modello. Al termine, fare clic su **Unisci**.
 
    ![](assets/three.png)
 
-1. Dopo aver apportato le modifiche desiderate al modello, approvarlo di nuovo selezionando **Approva bozza modello** nel **Azioni modello** menu.
+1. Dopo aver apportato le modifiche al modello, approvarlo nuovamente selezionando **Approva bozza modello** nel menu **Azioni modello**.
 
    ![](assets/four.png)
 
@@ -41,11 +41,11 @@ ht-degree: 0%
 >
 >Se annulli l’approvazione del modello, tutti i lead corrispondenti verranno rimossi e la cronologia nel modello verrà eliminata. Valuta la possibilità di modificare il modello invece di annullarne l’approvazione.
 
-1. Seleziona il modello da annullare l’approvazione. Dalla sezione **Azioni modello** menu, seleziona **Annulla approvazione modello**.
+1. Seleziona il modello da annullare l’approvazione. Dal menu **Azioni modello**, selezionare **Annulla approvazione modello**.
 
    ![](assets/five.png)
 
-1. Clic **Annulla approvazione**.
+1. Fai clic su **Annulla approvazione**.
 
    ![](assets/six.png)
 
@@ -59,4 +59,4 @@ Puoi avere un solo modello approvato alla volta. Se desideri approvare un modell
 
 >[!MORELIKETHIS]
 >
->[Crea un nuovo modello di ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
+>[Crea un nuovo modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)

@@ -17,7 +17,7 @@ Invia e-mail, crea test A/B e tieni traccia dei risultati in un’unica posizion
 
 ## Pannello di controllo Campaign {#control-panel}
 
-Quattro scatole ti tengono concentrato. **Pubblico** definisce il &quot;chi&quot;, **E-mail** fornisce il &quot;cosa&quot;, **Pianificazione** definisce &quot;when&quot;, e **Approvazione** lo rende pronto ad andare.
+Quattro scatole ti tengono concentrato. **Il pubblico** definisce il &quot;chi&quot;, **L&#39;e-mail** fornisce il &quot;cosa&quot;, **La pianificazione** definisce &quot;quando&quot; e **L&#39;approvazione** lo rende pronto.
 
 ![](assets/emailprogram.png)
 
@@ -38,7 +38,7 @@ Scopri i seguenti test A/B:
 
 >[!CAUTION]
 >
->Per una segnalazione accurata, evita _riutilizzo_ un messaggio e-mail da un programma e-mail, facendo riferimento a esso in una campagna intelligente o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un’e-mail, [clonarlo](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"} in quanto copia l’e-mail ma ne crea una nuova con un nuovo ID e-mail.
+>Per ottenere rapporti accurati, evita di _riutilizzare_ un&#39;e-mail da un programma e-mail, facendo riferimento ad essa in una campagna avanzata o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un&#39;e-mail, [clonala](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, in quanto copia l&#39;e-mail ma ne crea una nuova con un nuovo ID e-mail.
 
 Godetevi i frutti del vostro lavoro. Le dashboard mostrano a colpo d’occhio il programma e-mail e le prestazioni dei test A/B.
 
@@ -76,8 +76,8 @@ Ora che conosci i programmi e-mail, inizia con uno degli articoli correlati ripo
 
 >[!MORELIKETHIS]
 >
->* [Creare un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
+>* [Crea un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
 >
->* [Definire un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
->* [Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
->* [Pianificazione del programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)
+>* [Definisci un pubblico con un elenco avanzato](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md)
+>* [Creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Pianifica Il Programma Di Posta Elettronica](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.md)

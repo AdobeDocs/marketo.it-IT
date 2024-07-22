@@ -16,7 +16,7 @@ ht-degree: 0%
 Ecco alcuni dettagli:
 
 * Il Marketo Engage non elimina automaticamente le persone solo perché i lead sono stati eliminati in Salesforce. Piuttosto, il flag &quot;SFDC Is Deleted&quot; del campo è impostato su true. Se necessario, puoi disattivare questo campo per eliminarlo in Marketo.
-* [Elimina persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} azione di flusso. Questa operazione elimina una persona in MKTO, ma è possibile scegliere di eliminarla in `Salesforce` anche.
+* [Elimina persona](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/delete-person.md){target="_blank"} azione di flusso. In questo modo verrà eliminata una persona in MKTO, ma è possibile scegliere di eliminare anche `Salesforce`.
 
 * [Elimina da SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/delete-person-from-sfdc.md){target="_blank"} azione di flusso: elimina un lead in SFDC, ma puoi scegliere di eliminare anche una persona in Marketo.
-* Se un lead viene eliminato in Salesforce (ma una persona non viene eliminata in Marketo) e successivamente viene eseguito attraverso il [Sincronizza con Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} azione di flusso, per poi creare un nuovo lead in Salesforce.
+* Se un lead viene eliminato in Salesforce (ma una persona non viene eliminata in Marketo) e successivamente viene eseguita l&#39;azione di flusso [Sincronizza con Salesforce](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"}, verrà creato un nuovo lead in Salesforce.

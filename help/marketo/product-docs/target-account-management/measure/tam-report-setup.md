@@ -7,7 +7,7 @@ feature: Target Account Management
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -17,27 +17,27 @@ Il rapporto sulle vendite TAM è un’e-mail personalizzata inviata settimanalme
 
 ## Configurazione del rapporto {#report-setup}
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one-3.png)
 
-1. Clic **Gestione account di destinazione**.
+1. Fare clic su **Gestione account di destinazione**.
 
    ![](assets/tam-report-setup-2.png)
 
-1. In Rapporto settimanale, fai clic su **Modifica**.
+1. In Report settimanale fare clic su **Modifica**.
 
    ![](assets/three-3.png)
 
-1. Fai clic su **Giorno** e selezionare il giorno della settimana in cui si desidera che i destinatari ricevano l&#39;e-mail.
+1. Fai clic sul menu a discesa **Giorno** e seleziona il giorno della settimana in cui desideri che i destinatari ricevano l&#39;e-mail.
 
    ![](assets/four-4.png)
 
-1. Per determinare il layout dell’e-mail, fai clic su **Ordina per** ed effettuare una selezione.
+1. Per determinare il layout dell&#39;e-mail, fai clic sul menu a discesa **Ordina per** ed effettua una selezione.
 
    ![](assets/five-3.png)
 
-1. Controlla la **Utenti** , quindi fai clic sul menu a discesa e seleziona il destinatario dell’e-mail.
+1. Seleziona la casella di controllo **Utenti**, quindi fai clic sull&#39;elenco a discesa e seleziona il destinatario dell&#39;e-mail.
 
    ![](assets/six-2.png)
 
@@ -45,7 +45,7 @@ Il rapporto sulle vendite TAM è un’e-mail personalizzata inviata settimanalme
    >
    >Le notifiche vengono inviate solo ai proprietari dell’account o ai membri del gruppo.
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/seven-2.png)
 
@@ -53,17 +53,17 @@ Ed è tutto!
 
 ## Annullare l’abbonamento {#how-to-unsubscribe}
 
-Ogni rapporto include l’opzione di rinuncia. Per farlo, fai clic su **Annulla iscrizione** nella parte inferiore dell’e-mail.
+Ogni rapporto include l’opzione di rinuncia. Per farlo, fai clic su **Annulla l&#39;iscrizione** nella parte inferiore dell&#39;e-mail.
 
 ![](assets/eight-1.png)
 
 ## Come effettuare nuovamente la sottoscrizione {#how-to-resubscribe}
 
-1. Clic **Amministratore**.
+1. Fai clic su **Amministratore**.
 
    ![](assets/one-3.png)
 
-1. Clic **Gestione account di destinazione**.
+1. Fare clic su **Gestione account di destinazione**.
 
    ![](assets/tam-report-setup-10.png)
 
@@ -71,10 +71,10 @@ Ogni rapporto include l’opzione di rinuncia. Per farlo, fai clic su **Annulla 
 
    ![](assets/nine.png)
 
-1. Fai clic su **Utenti** a discesa.
+1. Fai clic sul menu a discesa **Utenti**.
 
    ![](assets/ten.png)
 
-1. Seleziona di nuovo l’utente che desideri ricevere e-mail e fai clic su **Riscrivi**.
+1. Selezionare l&#39;utente che si desidera ricevere nuovamente le e-mail e fare clic su **Ricevi**.
 
    ![](assets/eleven.png)

@@ -17,10 +17,10 @@ Verifica le e-mail per migliorare il punteggio di coinvolgimento. In Marketo son
 
 ## Test A/B {#a-b-testing}
 
-Questo è per le e-mail una tantum che utilizzano programmi e-mail. Aggiungi [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) e un piccolo gruppo avrà il test e il resto avrà il vincitore.
+Questo è per le e-mail una tantum che utilizzano programmi e-mail. Aggiungi [Test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md) e un piccolo gruppo otterrà il test e il resto otterrà il vincitore.
 
 ## E-mail Champion/Challenger {#email-champion-challenger}
 
-Per le e-mail in corso utilizzate nelle campagne intelligenti di attivazione o nei programmi di coinvolgimento, puoi aggiungere [e-mail campione/sfidante](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) test. Ciò introdurrà variazioni a una percentuale costante dei destinatari.
+Per le e-mail in corso utilizzate nelle campagne intelligenti di attivazione o nei programmi di coinvolgimento, puoi aggiungere [test e-mail champion/challenge](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md). Ciò introdurrà variazioni a una percentuale costante dei destinatari.
 
 Buon test!

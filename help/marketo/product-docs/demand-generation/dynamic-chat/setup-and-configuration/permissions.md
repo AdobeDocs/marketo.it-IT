@@ -2,11 +2,11 @@
 description: Autorizzazioni - Documentazione di Marketo - Documentazione del prodotto
 title: Autorizzazioni
 feature: Dynamic Chat
-exl-id: e05308fe-b8b7-40a3-8099-cec937e1961c
-source-git-commit: cf082705f68c459e5b46cf7c968df75241102f60
+exl-id: 06798ac4-636b-476e-bbb1-498062844406
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
 source-wordcount: '724'
-ht-degree: 8%
+ht-degree: 4%
 
 ---
 
@@ -16,15 +16,15 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che √
 
 ## Modifica autorizzazioni esistenti {#edit-existing-permissions}
 
-1. In [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, fai clic su **Dynamic Chat**.
+1. In [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, fare clic su **Dynamic Chat**.
 
    ![](assets/permissions-1.png)
 
-1. In **Profili di prodotto** , selezionare il profilo da modificare. In questo esempio, stiamo scegliendo **Agente live**.
+1. Nella scheda **Profili di prodotto**, seleziona il profilo da modificare. In questo esempio, stiamo scegliendo **Agente live**.
 
    ![](assets/permissions-2.png)
 
-1. Fai clic su **Autorizzazioni** scheda.
+1. Fare clic sulla scheda **Autorizzazioni**.
 
    ![](assets/permissions-3.png)
 
@@ -32,7 +32,7 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che √
 
    ![](assets/permissions-4.png)
 
-1. Le autorizzazioni disponibili sono elencate a sinistra. Puoi scegliere di aggiungere le autorizzazioni una alla volta o tutte contemporaneamente. In questo esempio ne √® disponibile solo uno, quindi stiamo aggiungendo quello. Fai clic su **+** firma.
+1. Le autorizzazioni disponibili sono elencate a sinistra. Puoi scegliere di aggiungere le autorizzazioni una alla volta o tutte contemporaneamente. In questo esempio ne √® disponibile solo uno, quindi stiamo aggiungendo quello. Fai clic sul segno **+**.
 
    ![](assets/permissions-5.png)
 
@@ -50,15 +50,15 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che √
 
 ## Creare un profilo {#create-a-profile}
 
-1. In [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, fai clic su **Dynamic Chat**.
+1. In [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}, fare clic su **Dynamic Chat**.
 
    ![](assets/permissions-8.png)
 
-1. In **Profili di prodotto** , fare clic su **Nuovo profilo**.
+1. Nella scheda **Profili di prodotto**, fai clic su **Nuovo profilo**.
 
    ![](assets/permissions-9.png)
 
-1. **Nome** profilo di prodotto. Facoltativamente, puoi assegnargli un nome visualizzato e/o una descrizione e scegliere di avvisare gli utenti quando vengono aggiunti/rimossi. Clic **Salva** al termine.
+1. **Denomina** il tuo profilo di prodotto. Facoltativamente, puoi assegnargli un nome visualizzato e/o una descrizione e scegliere di avvisare gli utenti quando vengono aggiunti/rimossi. Al termine, fai clic su **Salva**.
 
    ![](assets/permissions-10.png)
 
@@ -66,7 +66,7 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che √
 
    ![](assets/permissions-11.png)
 
-1. Ora seguire i punti 3-6 della [sezione precedente](#edit-existing-permissions) per ogni area desiderata.
+1. Ora segui i passaggi 3-6 della [sezione precedente](#edit-existing-permissions) per ogni area desiderata.
 
 ## Elenco di autorizzazioni {#list-of-permissions}
 
@@ -84,13 +84,13 @@ Di seguito √® riportato un elenco di tutte le autorizzazioni disponibili per ogn
     <td>Gestione conversazioni</td>
     <td><li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
-    <li>Finestre di dialogo di pubblicazione</li>
+    <li>Finestre di dialogo Publish</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
-    <li>Pubblica flussi conversazionali</li></td>
+    <li>Flussi conversazionali Publish</li></td>
   </tr>
   <tr>
-    <td>Chat in tempo reale</td>
+    <td>Chat live</td>
     <td><li>Visualizza conversazioni personali</li>
     <li>Visualizza tutte le conversazioni</li>
   </tr>
@@ -150,10 +150,10 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <td><i>Gestione conversazioni</i>
     <li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
-    <li>Finestre di dialogo di pubblicazione</li>
+    <li>Finestre di dialogo Publish</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
-    <li>Pubblica flussi conversazionali</li>
+    <li>Flussi conversazionali Publish</li>
     <br>
     <i>Chat in tempo reale</i>
     <li>n/d</li>
@@ -169,7 +169,7 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <i>Impostazioni agente</i>
     <li>n/d</li>
     <br>
-    <i>Impostazioni di amministrazione</i>
+    <i>Impostazioni amministratore</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
@@ -198,7 +198,7 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <li>Connetti calendario</li>
     <li>Gestisci disponibilit√† calendario</li>
     <br>
-    <i>Impostazioni di amministrazione</i>
+    <i>Impostazioni amministratore</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
@@ -226,7 +226,7 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <li>Connetti calendario</li>
     <li>Gestisci disponibilit√† calendario</li>
     <br>
-    <i>Impostazioni di amministrazione</i>
+    <i>Impostazioni amministratore</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Visualizza elenco account <b>*</b></li>
@@ -238,10 +238,10 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <td><i>Gestione conversazioni</i>
     <li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
-    <li>Finestre di dialogo di pubblicazione</li>
+    <li>Finestre di dialogo Publish</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
-    <li>Pubblica flussi conversazionali</li>
+    <li>Flussi conversazionali Publish</li>
     <br>
     <i>Chat in tempo reale</i>
     <li>n/d</li>
@@ -258,7 +258,7 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <i>Impostazioni agente</i>
     <li>n/d</li>
     <br>
-    <i>Impostazioni di amministrazione</i>
+    <i>Impostazioni amministratore</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</li>
@@ -295,7 +295,7 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <li>Connetti calendario</li>
     <li>Gestisci disponibilit√† calendario</li>
     <br>
-    <i>Impostazioni di amministrazione</i>
+    <i>Impostazioni amministratore</i>
     <li>Visualizza round robin</li>
     <li>Visualizza regole personalizzate</li>
     <li>Gestire le regole personalizzate (aggiungere, modificare, eliminare)</li>

@@ -19,8 +19,8 @@ Tutto ciò che devi fare è scegliere quando desideri che le e-mail vengano invi
 
 Se non hai pianificato il primo passaggio o hai bisogno di scegliere un’ora di invio, ti verrà chiesto di scegliere quando inviare la campagna ogni volta che aggiungi una persona o un gruppo.
 
-Apri il modale Aggiungi a Campaign aggiungendo singoli utenti, un gruppo o persone selezionate e fai clic su **Successivo**.
+Apri il modale Aggiungi a Campaign aggiungendo singoli utenti, un gruppo o persone selezionate e fai clic su **Avanti**.
 
-Dopo aver fatto clic su **Successivo**, puoi visualizzare in anteprima il primo messaggio e-mail.
+Dopo aver fatto clic su **Avanti**, puoi visualizzare in anteprima la prima e-mail.
 
-Dopo aver fatto clic su **Successivo** di nuovo, un&#39;opzione ti verrà data per quando desideri che la campagna esca. Puoi far iniziare subito la campagna o pianificarne un’altra in un secondo momento.
+Dopo aver fatto nuovamente clic su **Avanti**, riceverai un&#39;opzione per specificare quando desideri che la campagna esca. Puoi far iniziare subito la campagna o pianificarne un’altra in un secondo momento.

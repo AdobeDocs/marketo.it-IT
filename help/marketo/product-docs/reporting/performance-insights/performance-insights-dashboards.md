@@ -25,7 +25,7 @@ La dashboard Coinvolgimento consente di misurare l’efficacia dei programmi di 
 
 Misurazione del coinvolgimento del pubblico
 
-Scegli la **Operazioni completate** metrica per misurare il coinvolgimento del pubblico nei programmi di apprendimento. Il successo è una misura dell’interazione significativa in Marketo.
+Scegli la metrica **Success** per misurare il coinvolgimento del pubblico nei tuoi programmi di sviluppo. Il successo è una misura dell’interazione significativa in Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +37,7 @@ Lo scopo di un programma è quello di creare un’interazione significativa con 
 
 Misurazione dell’acquisizione di un nuovo nome
 
-Scegli la **Nuovi nomi** metrica per misurare l’efficacia dei nuovi programmi di acquisizione dei nomi.
+Scegli la metrica **Nuovi nomi** per misurare l&#39;efficacia dei nuovi programmi di acquisizione dei nomi.
 
 ![](assets/4-3.png)
 
@@ -89,7 +89,7 @@ La dashboard Ricavi mostra le prestazioni del canale in base alle metriche di pr
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Opportunità acquisite</strong></p></td> 
+   <td><p><strong>Opportunità vinte</strong></p></td> 
    <td><p>La parte di credito ricevuta da un programma per aver influenzato un’opportunità acquisita.</p></td> 
   </tr> 
   <tr> 

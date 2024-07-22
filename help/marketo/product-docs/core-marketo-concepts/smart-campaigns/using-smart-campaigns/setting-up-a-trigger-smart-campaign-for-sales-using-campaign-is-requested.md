@@ -19,8 +19,8 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 >
 >Esempi di campagne intelligenti da richiedere:
 >
->1. **Alimentazione a lungo termine** - quando quest&#39;anno non hanno un budget e si vuole solo rimanere sul radar
->1. **Ciclo di vendita attivo** - quando il venditore non desidera alcun messaggio per la persona, ad eccezione dei propri. (utilizza il flag marketing sospeso per annullare temporaneamente l’abbonamento)
+>1. **Alimentazione a lungo termine** - se quest&#39;anno non hanno un budget e vuoi solo restare nel radar
+>1. **Ciclo di vendita attivo** - quando il venditore non desidera inviare messaggi alla persona, ad eccezione dei propri. (utilizza il flag marketing sospeso per annullare temporaneamente l’abbonamento)
 >
 >Sii creativo. Cosa vorrebbe automatizzare il venditore? Chiedetelo a loro e collegatelo!
 
@@ -28,17 +28,17 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-1.png)
 
-1. Trova e trascina **[!UICONTROL Campagna richiesta]** attiva l’area di lavoro.
+1. Trova e trascina il trigger **[!UICONTROL Campaign is Requested]** nell&#39;area di lavoro.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurati di scegliere **[!UICONTROL Insight sulle vendite]**.
+1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurati di scegliere **[!UICONTROL Informazioni sulle vendite]**.
 
    >[!TIP]
    >
-   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegli **[!UICONTROL È qualsiasi]** nella prima casella se desideri consentire le richieste da tutte le origini.
+   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegliere **[!UICONTROL Is Any]** nella prima casella se si desidera consentire le richieste provenienti da tutte le origini.
    >
-   >_Ricorda_, scegliendo Insight vendite, magicamente apparirà nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
+   >_Ricorda_, scegliendo Insight vendite, verrà magicamente visualizzato nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 

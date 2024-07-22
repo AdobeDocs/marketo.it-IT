@@ -46,14 +46,14 @@ Pagine Visualforce:
 * Lead: include l’opzione per fare clic su hyper &quot;Vai alla lista completa&quot;, verrai inviato a una nuova scheda in Salesforce dove il pannello MSI sarà visibile in un layout di pagina intera
 * Elenco completo lead: non include l’opzione &quot;Vai all’elenco completo&quot;
 * Mobile lead - Visibile nell’app mobile Salesforce
-* Ponte contatti lead: visualizza il pannello MSI del contatto aggiunto nel campo ID contatto MSI
+* Bridge contatto lead: visualizza il pannello MSI del contatto aggiunto nel campo ID contatto MSI
 
 Campi:
 
 * Ultimo momento di interesse
 * Data ultimo momento di interesse
 * Descrizione ultimo momento di interesse
-* Sorgente ultimo momento di interesse
+* Ultimo momento di interesse Source
 * Tipo ultimo momento di interesse
 * Ultima attività Marketo per vendite
 * Ultimo coinvolgimento Marketo per vendite
@@ -62,7 +62,7 @@ Campi:
 * Urgenza
 * Valore Urgenza
 * Visualizza in Marketo: fare clic su questo campo per aprire una visualizzazione non modificabile del lead in Marketo. Include: Informazioni lead, Informazioni società, Informazioni lead SFDC, Campi personalizzati SFDC, Registro attività
-* ID contatto MSI: aggiungi un contatto Salesforce a questo campo e includi il pannello &quot;Ponte di contatto lead&quot; nel layout del lead per visualizzare il pannello MSI del contatto
+* ID contatto MSI: aggiungi un contatto Salesforce a questo campo e includi il pannello &quot;Bridge contatto lead&quot; nel layout del lead per visualizzare il pannello MSI del contatto
 
 ## Layout contatto {#contact-layout}
 
@@ -78,7 +78,7 @@ Campi:
 * Ultimo momento di interesse
 * Data ultimo momento di interesse
 * Descrizione ultimo momento di interesse
-* Sorgente ultimo momento di interesse
+* Ultimo momento di interesse Source
 * Tipo ultimo momento di interesse
 * Ultima attività Marketo per vendite
 * Punteggio relativo
@@ -107,7 +107,7 @@ Azioni:
 * Invia e-mail Marketo
 * Aggiungi/Rimuovi da elenco di controllo
 
-Le seguenti funzioni sono **non disponibile** nella pagina Layout account:
+Le seguenti funzionalità sono **non disponibili** nella pagina Layout account:
 
 * Stelle e fiamme
 
@@ -130,7 +130,7 @@ Azioni:
 * Invia e-mail Marketo
 * Aggiungi/Rimuovi da elenco di controllo
 
-Le seguenti funzioni sono **non disponibile** nella pagina Layout opportunità:
+Le seguenti funzionalità sono **non disponibili** nella pagina Layout opportunità:
 
 * Stelle e fiamme
 

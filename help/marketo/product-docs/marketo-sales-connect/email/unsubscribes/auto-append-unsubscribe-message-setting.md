@@ -18,15 +18,15 @@ Assicurati che ogni e-mail inviata includa un messaggio per annullare l’iscriz
 
 * Per le e-mail inviate dai plug-in, l’annullamento dell’abbonamento verrà aggiunto solo quando viene utilizzato un modello.
 
-* Se si utilizza `{{team_unsubscribe}}` campo dinamico in un modello e-mail e l’impostazione di aggiunta del messaggio di annullamento dell’iscrizione è abilitata, il campo dinamico di annullamento dell’iscrizione del team popolerà il messaggio di annullamento dell’iscrizione _invece di_ aggiunta del messaggio per annullare l’abbonamento.
+* Se si utilizza il campo dinamico `{{team_unsubscribe}}` in un modello di messaggio di posta elettronica e l&#39;impostazione di accodamento del messaggio di annullamento dell&#39;iscrizione è abilitata, il campo dinamico di annullamento dell&#39;iscrizione del team popolerà il messaggio di annullamento dell&#39;iscrizione _anziché_ accodando il messaggio di annullamento dell&#39;iscrizione.
 
 ## Abilita/Disabilita annulla iscrizione accodamento {#enable-disable-unsubscribe-append}
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/auto-append-unsubscribe-message-setting-1.png)
 
-1. In Impostazioni Amministratore, Fai Clic Su **Annulla iscrizione**.
+1. In Impostazioni Amministrazione Fare Clic Su **Annulla Sottoscrizione**.
 
    ![](assets/auto-append-unsubscribe-message-setting-2.png)
 
@@ -36,4 +36,4 @@ Assicurati che ogni e-mail inviata includa un messaggio per annullare l’iscriz
 
 >[!TIP]
 >
->Se disattivi l’impostazione di aggiunta del messaggio di annullamento dell’iscrizione, ti consigliamo di aggiungere ai modelli un piè di pagina di annullamento dell’iscrizione per garantire che la comunicazione disponga di un’opzione di rinuncia. A tale scopo, puoi aggiungere un messaggio personalizzato a ciascun modello oppure utilizzare `{{team_unsubscribe}}` [campo dinamico](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.
+>Se disattivi l’impostazione di aggiunta del messaggio di annullamento dell’iscrizione, ti consigliamo di aggiungere ai modelli un piè di pagina di annullamento dell’iscrizione per garantire che la comunicazione disponga di un’opzione di rinuncia. Per eseguire questa operazione, aggiungere un messaggio personalizzato a ogni modello oppure utilizzare il `{{team_unsubscribe}}` [campo dinamico](/help/marketo/product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md){target="_blank"}.

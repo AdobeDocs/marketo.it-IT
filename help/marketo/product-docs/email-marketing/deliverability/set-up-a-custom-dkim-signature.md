@@ -21,7 +21,7 @@ Per garantire un recapito messaggi di prima qualità, firmiamo automaticamente t
 
 Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come.
 
-1. Vai a **Amministratore** sezione.
+1. Vai alla sezione **Amministratore**.
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -29,15 +29,15 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
    >
    >Se imposti una firma DKIM personalizzata secondo la vecchia modalità, questa continuerà a funzionare e dovrebbe essere visualizzata qui.
 
-1. Clic **E-mail**.
+1. Fai clic su **E-mail**.
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Fai clic su **SPF/DKIM** , quindi **Aggiungi dominio**.
+1. Fai clic sulla scheda **SPF/DKIM**, quindi **Aggiungi dominio**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
-1. Immetti il dominio che utilizzerai nelle e-mail Marketo come Indirizzo mittente. Scegli un selettore e una dimensione chiave. Clic **Aggiungi** al termine.
+1. Immetti il dominio che utilizzerai nelle e-mail Marketo come Indirizzo mittente. Scegli un selettore e una dimensione chiave. Al termine, fai clic su **Aggiungi**.
 
    ![](assets/set-up-a-custom-dkim-signature-4.png)
 
@@ -66,11 +66,11 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
    >
    >Tieni presente che, in questo caso, DKIM non verrà firmato per il dominio fino a quando il nuovo record non verrà pubblicato e convalidato dal sistema. Pianifica la modifica di conseguenza, in quanto possono essere necessarie da 24 a 48 ore prima che il nuovo record DKIM venga completamente propagato su Internet.
 
-1. Invia il **Record host** e **Valore TXT** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
+1. Invia il **record host** e il **valore TXT** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Dopo aver confermato la creazione del record, torna a Marketo, seleziona il dominio e fai clic su **Controlla DNS**.
+1. Dopo aver confermato di aver creato il record, tornare a Marketo, selezionare il dominio e fare clic su **Controlla DNS**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

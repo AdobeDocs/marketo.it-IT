@@ -6,7 +6,7 @@ exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ ht-degree: 0%
 >
 >&quot;Do Not Track&quot; (Non tracciare) sarà impostato su Ignore (Ignora) per impostazione predefinita, quindi se questo è ciò che desideri, non dovrai adottare alcuna misura.
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Clic **[!UICONTROL Munchkin]**.
+1. Fare clic su **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. Sotto **[!UICONTROL Tracciamento persona]**, fai clic su **[!UICONTROL Modifica]**.
+1. In **[!UICONTROL Individuazione persona]**, fare clic su **[!UICONTROL Modifica]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 

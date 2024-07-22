@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Gli stati dei programmi sono i punti di controllo attraverso un percorso dei programmi (canale). Se per errore crei uno stato o non ne hai più bisogno, puoi eliminarlo.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Clic **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tag]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Seleziona il canale da cui vuoi rimuovere uno stato, quindi in **[!UICONTROL Azioni tag]**, fai clic su **[!UICONTROL Modifica]**.
+1. Seleziona il canale da cui vuoi rimuovere uno stato, quindi in **[!UICONTROL Azioni tag]** fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Fai clic sul pulsante rosso **X** per rimuovere lo stato, fai clic su **[!UICONTROL Salva]**.
+1. Fai clic sul **X** rosso per rimuovere lo stato, quindi fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 
@@ -35,4 +35,4 @@ Gli stati dei programmi sono i punti di controllo attraverso un percorso dei pro
    >
    >Se una persona è attualmente assegnata allo stato in questione, non è possibile eliminarlo, è tuttavia possibile nasconderlo.
 
-Ben fatto! È inoltre possibile [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se è necessario.
+Ben fatto! Puoi anche [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessario.

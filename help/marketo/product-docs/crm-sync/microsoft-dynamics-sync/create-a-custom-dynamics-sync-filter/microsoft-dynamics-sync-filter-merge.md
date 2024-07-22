@@ -21,7 +21,7 @@ I record dei lead diventano true o false in base alle regole del flusso di lavor
 
 | Se il filtro di sincronizzazione per il record perdente è: | e il filtro di sincronizzazione per il record vincente è: | Questo è il risultato in Marketo |
 |---|---|---|
-| True | True | Il record vincente continua la sincronizzazione con Marketo |
-| False | False | Il record vincente continua a _non_ sincronizza con Marketo |
-| False | True | Il record vincente verrà sincronizzato con Marketo |
-| True | False | Il record vincente non verrà sincronizzato con Marketo |
+| Vero | Vero | Il record vincente continua la sincronizzazione con Marketo |
+| Falso | Falso | Il record vincente continua con la sincronizzazione di _not_ con Marketo |
+| Falso | Vero | Il record vincente verrà sincronizzato con Marketo |
+| Vero | Falso | Il record vincente non verrà sincronizzato con Marketo |

@@ -6,7 +6,7 @@ exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Personalizzare una presentazione selezionando un&#39;immagine di sfondo.
 
 >[!PREREQUISITES]
 >
->[Creare una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
+>[Crea una presentazione](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-presentation.md)
 
-1. Fare clic con il pulsante destro del mouse su una presentazione e selezionare **[!UICONTROL Visualizza configurazione]**.
+1. Fare clic con il pulsante destro del mouse su una presentazione e selezionare **[!UICONTROL Visualizza installazione]**.
 
    >[!NOTE]
    >
@@ -27,7 +27,7 @@ Personalizzare una presentazione selezionando un&#39;immagine di sfondo.
 
    ![](assets/image2015-3-24-14-3a36-3a52.png)
 
-1. Trascina **[!UICONTROL Immagine di sfondo]** dall’albero a destra all’area di lavoro.
+1. Trascina e rilascia **[!UICONTROL Immagine di sfondo]** dalla struttura destra nell&#39;area di lavoro.
 
    ![](assets/image2015-3-24-14-3a39-3a40.png)
 
@@ -35,11 +35,11 @@ Personalizzare una presentazione selezionando un&#39;immagine di sfondo.
 
    >[!TIP]
    >
-   >Per un aspetto più pulito, utilizza un’immagine **1920 x 1080** o **1280 x 720**.
+   >Per un aspetto più pulito, utilizzare un&#39;immagine di tipo **1920 x 1080** o **1280 x 720**.
 
    ![](assets/image2015-3-24-14-3a47-3a57.png)
 
-1. Clic **[!UICONTROL Anteprima]** per estrarlo.
+1. Fai clic su **[!UICONTROL Anteprima]** per estrarlo.
 
    ![](assets/image2015-3-24-14-3a51-3a1.png)
 

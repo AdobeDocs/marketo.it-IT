@@ -23,7 +23,7 @@ Le offerte di referral forniscono alle persone un incentivo per indirizzare i lo
 
    ![](assets/image2014-9-19-11-3a3-3a23.png)
 
-1. In **Raccolta risorse locali**, fai clic su **Offerta di riferimento**.
+1. Nella **Raccolta risorse locali**, fai clic su **Offerta di riferimento**.
 
    ![](assets/image2014-9-19-11-3a3-3a31.png)
 
@@ -33,31 +33,31 @@ Le offerte di referral forniscono alle persone un incentivo per indirizzare i lo
 
    >[!TIP]
    >
-   >Per risparmiare tempo, puoi utilizzare **Clona da** per copiare tutte le impostazioni da un’offerta di riferimento esistente.
+   >Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da un&#39;offerta di riferimento esistente.
 
    L’editor delle offerte di riferimento si apre in una nuova finestra. Le impostazioni predefinite sono tutte valide, ma è necessario aggiungere un collegamento alle regole dell’offerta (termini e condizioni). Il collegamento verrà visualizzato nella parte inferiore delle schermate di condivisione dei messaggi. Nel passaggio successivo verrà illustrato come.
 
-1. Clic **Opzioni avanzate**.
+1. Fare clic su **Opzioni avanzate**.
 
    ![](assets/image2014-9-19-11-3a3-3a49.png)
 
-1. Aggiungi un collegamento alle regole dell’offerta. Inserisci il **URL**.
+1. Aggiungi un collegamento alle regole dell’offerta. Immetti l&#39;**URL**.
 
    ![](assets/image2014-9-19-11-3a3-3a57.png)
 
    >[!NOTE]
    >
-   >In questa schermata puoi anche aggiungere un collegamento all’informativa sulla privacy. Consulta  [Aggiungere l’informativa sulla privacy a un’app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
+   >In questa schermata puoi anche aggiungere un collegamento all’informativa sulla privacy. Consulta [Aggiungere l&#39;informativa sulla privacy a un&#39;app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    >[!TIP]
    >
-   >Per modificare uno dei valori predefiniti nell&#39;offerta di riferimento, fare clic su **Indietro**. Per salvare il lavoro per un momento successivo senza approvazione, fai clic su **Chiudi**.
+   >Per modificare le impostazioni predefinite dell&#39;offerta di riferimento, fare clic su **Indietro**. Per salvare il lavoro per un momento successivo senza approvazione, fare clic su **Chiudi**.
 
    ![](assets/image2014-9-19-11-3a4-3a11.png)
 
@@ -71,4 +71,4 @@ Congratulazioni! Hai creato la tua offerta di riferimento.
 
 >[!MORELIKETHIS]
 >
->Il passaggio successivo consiste nel [pubblicare l’offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) in una pagina di destinazione, sul sito web o su Facebook.
+>Il passaggio successivo consiste nel [pubblicare l&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/publish-a-referral-offer.md) in una pagina di destinazione, sul sito Web o su Facebook.

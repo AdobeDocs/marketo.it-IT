@@ -19,21 +19,21 @@ Aggiungere Marketo TAM alla tua istanza? Fantastico! Diamo un&#39;occhiata a que
 >
 >Fai clic con il pulsante destro del mouse (Ctrl+clic per Mac) sui collegamenti per aprire ogni articolo in una nuova scheda.
 
-**Passaggio uno: [Rilasciare una licenza](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md)** - Decidere chi del team utilizzerà il TAM.
+**Passaggio uno: [Rilascia una licenza](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md)** - Decidi chi del tuo team utilizzerà il TAM.
 
-**Passaggio 2: impostare [Autorizzazioni](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md)** - Assegnare aspetti specifici del TAM a determinati utenti o concedere semplicemente l&#39;accesso completo al TAM.
+**Passaggio due: imposta [Autorizzazioni](/help/marketo/product-docs/target-account-management/setup-tam/permissions.md)** - Assegna aspetti specifici di TAM a determinati utenti o concedi semplicemente l&#39;accesso completo a TAM.
 
-**Passaggio tre: configurare [Punteggio account](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)** - Il punteggio dell’account è uno degli elementi chiave nella gestione dell’account di Target. Consente di determinare il livello di coinvolgimento di ciascun account.
+**Passaggio tre: configura il [punteggio account](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md)** - Il punteggio account è uno degli elementi chiave nella gestione degli account di Target. Consente di determinare il livello di coinvolgimento di ciascun account.
 
-**Passaggio 4: [Creare un campo personalizzato per l&#39;individuazione CRM](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)** : mappa un campo Account CRM esistente su un nuovo campo personalizzato Account denominato (se non utilizzi un CRM, salta questo passaggio).
+**Passaggio quattro: [Crea un campo personalizzato per l&#39;individuazione CRM](/help/marketo/product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)** - Mappa un campo account CRM esistente su un nuovo campo personalizzato Account denominato (se non utilizzi un CRM, salta questo passaggio).
 
-**Passaggio cinque:** **_Crea account denominati_** : i conti denominati contengono le persone provenienti dalle aziende di destinazione. Esistono quattro modi per creare un account denominato:
+**Passaggio cinque:** **_Crea account denominati_** - Gli account denominati contengono le persone delle aziende di destinazione. Esistono quattro modi per creare un account denominato:
 
-* [Importa account denominati](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md) : carica un elenco di potenziali account di destinazione direttamente in TAM (può essere un elenco esportato dal tuo CRM)
-* [Scopri gli account CRM](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts) : visualizza un elenco di tutti gli account CRM sincronizzati in Marketo e filtra utilizzando gli attributi chiave (ad esempio, il settore) per creare account denominati
-* [Scopri le aziende Marketo](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - Visualizzare un elenco di aziende da origini diverse dal CRM e filtrare utilizzando gli attributi chiave per creare account denominati
-* [Creare manualmente un account denominato](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - Se crei manualmente un account con nome, il passaggio successivo è [riempilo di persone](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md) manualmente
+* [Importa account denominati](/help/marketo/product-docs/target-account-management/target/named-accounts/import-named-accounts.md) - Carica un elenco di potenziali account di destinazione direttamente in TAM (può trattarsi di un elenco esportato dal CRM)
+* [Scopri gli account CRM](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts): visualizza un elenco di tutti gli account CRM sincronizzati in Marketo e filtra utilizzando gli attributi chiave (ovvero il settore) per creare account denominati
+* [Scopri le società di Marketo](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-marketo-companies) - Visualizza un elenco di società da origini diverse dal tuo CRM e filtra utilizzando gli attributi chiave per creare account denominati
+* [Creare manualmente un account con nome](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md) - Se crei manualmente un account con nome, il passaggio successivo consiste nel [riempirlo manualmente con persone](/help/marketo/product-docs/target-account-management/target/named-accounts/add-people-to-a-named-account.md)
 
-**PASSAGGIO FACOLTATIVO: [Creare e impostare gli elenchi di account](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** : raggruppa gli account in elenchi che ti consentono di eseguire il targeting degli account denominati per settore, posizione o dimensione dell’azienda.
+**PASSAGGIO FACOLTATIVO: [Creare e impostare gli elenchi di account](/help/marketo/product-docs/target-account-management/target/account-lists.md#create-a-new-account-list)** - Raggruppare gli account in elenchi che consentono di eseguire il targeting degli account denominati per settore, posizione o dimensione dell&#39;azienda.
 
 Dopo aver seguito i passaggi precedenti, è possibile iniziare a utilizzare il TAM.

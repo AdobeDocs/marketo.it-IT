@@ -6,7 +6,7 @@ exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ I clienti con Salesforce Professional Edition dovranno seguire questi passaggi p
 
 ## Installazione {#installation}
 
-1. In Sales Connect, fai clic sull’icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
 
    ![](assets/one-4.png)
 
-1. In Impostazioni amministrazione, fai clic su **Salesforce**.
+1. In Impostazioni amministrazione fare clic su **Salesforce**.
 
    ![](assets/two-4.png)
 
@@ -36,7 +36,7 @@ I clienti con Salesforce Professional Edition dovranno seguire questi passaggi p
    >
    >Se si è connessi, verrà visualizzato un pulsante verde &quot;Installa&quot;. **DO NOT** fare clic su questo pulsante, passare al passaggio 4.
 
-1. Accedi all’account Salesforce a cui sei connesso e fai clic su [questo collegamento](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Accedi all&#39;account Salesforce a cui sei connesso, quindi fai clic su [questo collegamento](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
 1. Verrà visualizzata la pagina Installazione di Sales Connect.
 
    ![](assets/install-package.png)
@@ -44,7 +44,7 @@ I clienti con Salesforce Professional Edition dovranno seguire questi passaggi p
 1. Scegli gli utenti per i quali desideri installare le personalizzazioni: solo amministratore, tutti gli utenti o profili specifici.
 1. Fai clic sul pulsante **Installa** per installare la personalizzazione.
 1. Per confermare la corretta installazione, accedi al tuo account Salesforce.
-1. Clic **Configurazione**, cerca &quot;Pacchetti installati&quot; nella barra di ricerca e fai clic su **Pacchetti installati**.
+1. Fare clic su **Configurazione**, cercare &quot;Pacchetti installati&quot; nella barra di ricerca, quindi fare clic su **Pacchetti installati**.
 
    Qui verranno visualizzate le personalizzazioni di Marketo Sales Connect.
 
@@ -56,6 +56,6 @@ I clienti con Salesforce Professional Edition dovranno seguire questi passaggi p
 
 ## Guide {#guides}
 
-[Guida all’installazione per Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Guida all&#39;installazione per Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
 [Guida all&#39;installazione per Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

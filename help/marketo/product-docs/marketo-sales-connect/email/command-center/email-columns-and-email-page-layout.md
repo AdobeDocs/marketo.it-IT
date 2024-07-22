@@ -40,7 +40,7 @@ ht-degree: 2%
    <td>Indirizzo e-mail principale della persona in Sales Connect.</td> 
   </tr> 
   <tr> 
-   <td>Campagna</td> 
+   <td>Campaign</td> 
    <td>Se l’e-mail è stata inviata come parte di una campagna, verrà visualizzato il nome della campagna. Facendo clic su questo campo si aprirà la pagina di configurazione della campagna.</td> 
   </tr> 
   <tr> 
@@ -122,7 +122,7 @@ Per configurare il layout, segui la procedura riportata di seguito.
 
    ![](assets/email-columns-and-email-grid-layout-1.png)
 
-1. Seleziona la **E-mail** sezione.
+1. Seleziona la sezione **E-mail**.
 
    ![](assets/email-columns-and-email-grid-layout-2.png)
 

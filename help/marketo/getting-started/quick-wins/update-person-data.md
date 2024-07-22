@@ -6,7 +6,7 @@ exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Immaginiamo che alla tua recente fiera, una persona ti abbia fornito alcune info
 
 ## Trova la persona da aggiornare {#find-the-person-you-need-to-update}
 
-1. Vai al tuo **[!UICONTROL Database]**.
+1. Vai al **[!UICONTROL database]**.
 
    ![](assets/update-person-data-1.png)
 
@@ -42,7 +42,7 @@ Immaginiamo che alla tua recente fiera, una persona ti abbia fornito alcune info
 
    >[!TIP]
    >
-   >In Marketo sono disponibili diversi modi per aggiornare i dati personali. Consulta [Importa un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} and [Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+   >In Marketo sono disponibili diversi modi per aggiornare i dati personali. Vedere [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [Modificare il valore dei dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
 ## Aggiornare i dati della persona {#update-the-person-data}
 

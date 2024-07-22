@@ -5,7 +5,7 @@ exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Segui questi passaggi per aggiungere l’accesso alle funzioni di approfondiment
 
 >[!IMPORTANT]
 >
->Se in precedenza hai dato a Sales Insight l’accesso a tutti i profili e/o implementato Sales Insight per tutti gli utenti, devi [rimuovi accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
+>Se in precedenza hai concesso a Sales Insight l&#39;accesso a tutti i profili e/o hai implementato Sales Insight per tutti gli utenti, devi [rimuovere l&#39;accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
 
 ## Panoramica {#overview}
 
@@ -85,23 +85,23 @@ L’autorizzazione &quot;App Marketo&quot; fa parte del pacchetto Sales Insight 
 
 1. Accedi al tuo account Salesforce.
 
-1. Clic **Configurazione**.
+1. Fare clic su **Configurazione**.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. In Amministratore, fai clic su per annullare **Gestisci utenti**, quindi **Utenti**.
+1. In Amministratore, fai clic su per eseguire l&#39;unfurl di **Gestisci utenti**, quindi **Utenti**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. In Tutti gli utenti, seleziona l’utente a cui desideri fornire l’accesso, quindi fai clic su **Assegnazioni set di autorizzazioni**.
+1. In Tutti gli utenti selezionare l&#39;utente a cui si desidera fornire l&#39;accesso, quindi fare clic su **Assegnazioni set di autorizzazioni**.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. Clic **Modifica assegnazioni**.
+1. Fare clic su **Modifica assegnazioni**.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Seleziona **Accesso all&#39;app Marketo** dai set di autorizzazioni disponibili, quindi **Aggiungi**. Clic **Salva**.
+1. Seleziona **Accesso app Marketo** dai set di autorizzazioni disponibili, quindi **Aggiungi**. Fai clic su **Salva**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 

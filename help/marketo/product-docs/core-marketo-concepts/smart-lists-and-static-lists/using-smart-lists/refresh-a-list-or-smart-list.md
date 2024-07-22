@@ -17,7 +17,7 @@ Se hai eseguito un elenco avanzato e sono trascorsi alcuni minuti, ora i risulta
 
 ## Aggiorna risultati {#refresh-results}
 
-1. Per aggiornare i dati in **[!UICONTROL Persone]** fare clic sull&#39;icona di aggiornamento.
+1. Per aggiornare i dati nella scheda **[!UICONTROL Persone]** di un elenco avanzato, fare clic sull&#39;icona di aggiornamento.
 
    ![](assets/refreshbutton.png)
 

@@ -6,7 +6,7 @@ exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '465'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Le seguenti funzioni sono incluse nella versione di maggio 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna a trovare i collegamenti agli articoli della Knowledge Base dettagliati per ogni funzione.
 
-## Elimina area di lavoro {#delete-workspace}
+## Elimina Workspace {#delete-workspace}
 
-Ora puoi [eliminare un’area di lavoro non utilizzata](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Accertati di spostare tutte le risorse in un’altra area di lavoro prima di tentare di eliminarla.
+Ora puoi [eliminare un&#39;area di lavoro inutilizzata](/help/marketo/product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md). Accertati di spostare tutte le risorse in un’altra area di lavoro prima di tentare di eliminarla.
 
 ## Pianifica primo cast {#schedule-first-cast}
 
-Nei programmi di coinvolgimento, puoi pianificare la data per il [primo cast da eseguire](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Ad esempio, specificate la cadenza ogni 2 settimane e selezionate la data del primo cast.
+Nei programmi di coinvolgimento, puoi pianificare la data di esecuzione del [primo cast](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md). Ad esempio, specificate la cadenza ogni 2 settimane e selezionate la data del primo cast.
 
 ![](assets/image2014-9-22-11-3a57-3a36.png)
 
@@ -44,12 +44,12 @@ Ora tutti ottengono più programmi, flussi e limiti di comunicazione.
 Per impostazione predefinita, non viene tracciato alcun collegamento nella versione testuale delle e-mail. Aggiungi questa nuova sintassi per indicare quando un collegamento deve essere convertito in un collegamento di tracciamento. Il comportamento dei collegamenti HTML rimane invariato.  Per aggiungere collegamenti tracciati alle e-mail:
 
 * **Versione HTML:** Inserisci il collegamento. Per impostazione predefinita, ne viene tenuta traccia.
-* **Versione testo:** Inserisci l’URL racchiuso tra parentesi quadre.
+* **Versione testo:** Immettere l&#39;URL racchiuso tra parentesi quadre.
 
 Per aggiungere collegamenti non tracciati alle e-mail:
 
-* **Versione HTML:** Inserire il collegamento e aggiungere la classe &quot;MarktNoTrack&quot; al collegamento.
-* **Versione testo:** Inserisci l’URL. Per impostazione predefinita, la registrazione viene annullata.
+* **Versione HTML:** Inserire il collegamento e aggiungere la classe &quot;mktNoTrack&quot; al collegamento.
+* **Versione testo:** Inserisci l&#39;URL. Per impostazione predefinita, la registrazione viene annullata.
 
 ![](assets/image2014-9-22-12-3a1-3a34.png)
 
@@ -59,7 +59,7 @@ Scopri in anticipo il comportamento dei collegamenti nelle e-mail. Le e-mail di 
 
 ## Interrompi campagna {#abort-campaign}
 
-Non farti prendere dal panico! Se riscontri un errore, utilizza il nuovo [interrompi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) per interrompere immediatamente le campagne nelle loro tracce. Riceverai una notifica che indica quanti lead erano in sospeso in ogni passaggio di flusso al momento dell’interruzione della campagna.
+Non farti prendere dal panico! Se si verifica un errore, utilizzare il nuovo pulsante [interrompi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) per interrompere immediatamente le campagne nei brani. Riceverai una notifica che indica quanti lead erano in sospeso in ogni passaggio di flusso al momento dell’interruzione della campagna.
 
 ## Insight vendite in giapponese, portoghese e spagnolo {#sales-insight-in-japanese-portuguese-and-spanish}
 
@@ -69,16 +69,16 @@ Scarica l’ultima versione di Sales Insight dall’AppExchange per consentire a
 
 ## Stato del programma e tempistica di successo nell’analisi dell’iscrizione al programma {#program-status-and-success-timeframe-in-program-membership-analysis}
 
-Visualizza quanti [i membri si trovano in ogni Stato del programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e quando sono passati a ogni stato, inclusa la data in cui hanno raggiunto il successo del programma.
+Visualizzare il numero di [membri presenti in ogni stato del programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e il momento in cui hanno cambiato lo stato, inclusa la data in cui hanno raggiunto il successo del programma.
 
 ## E-mail per test A/B in E-mail Analysis {#a-b-test-emails-in-email-analysis}
 
-Generare rapporti su ogni [Varianti e-mail per test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Analisi e-mail.
+Generare rapporti su ciascuna delle [varianti di e-mail di test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Email Analysis.
 
 ## Modifiche al pacchetto di Analytics {#analytics-packaging-changes}
 
-In MA Standard Edition sono ora inclusi Revenue Cycle Modeler e Success Path Analyzer.
+Modeler del ciclo dei ricavi e Success Path Analyzer sono ora inclusi in MA Standard Edition.
 
 ## Informazioni sulla piattaforma mobile {#mobile-platform-info}
 
-[Segmento e attivatore](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) dei lead che aprono e fanno clic sulle e-mail dai loro dispositivi mobili.
+[Segmentazione e attivazione](/help/marketo/product-docs/reporting/basic-reporting/report-activity/build-a-people-performance-report-with-mobile-platform-columns.md) dell&#39;apertura e del clic delle e-mail dei lead dai loro dispositivi mobili.

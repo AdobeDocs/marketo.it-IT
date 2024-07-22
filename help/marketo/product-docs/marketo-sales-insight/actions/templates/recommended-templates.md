@@ -5,7 +5,7 @@ exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ I modelli consigliati dell’azione Sales Insight consentono di ricevere i messa
 
    ![](assets/recommended-templates-3.png)
 
-1. Seleziona la **Creare un modello consigliato** e fai clic su **Salva**.
+1. Selezionare la casella di controllo **Crea modello consigliato** e fare clic su **Salva**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ I modelli consigliati dell’azione Sales Insight consentono di ricevere i messa
 
 ## Tutti e Qualsiasi {#all-vs-any}
 
-Seleziona **Tutti** se desideri che il modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il modello sia consigliato quando viene soddisfatto uno qualsiasi dei criteri.
+Seleziona **Tutti** se desideri che il tuo modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il tuo modello sia consigliato quando uno qualsiasi dei criteri è soddisfatto.
 
 ## Impostazione dei criteri {#setting-criteria}
 
@@ -46,13 +46,13 @@ I criteri imposteranno le condizioni per le quali verranno consigliati i modelli
 
 Ora, seleziona la condizione. Quando vengono soddisfatte le condizioni per il campo dinamico, viene consigliato il modello. Scegli tra 4 diverse condizioni.
 
-**Uguale a**: il valore deve corrispondere esattamente (ad esempio, Marketo è uguale a Marketo)
+**È uguale a**: il valore deve corrispondere esattamente (ad esempio, Marketo è uguale a Marketo)
 
-**Does Not Equal**: il valore deve corrispondere a qualsiasi cosa tranne che a una corrispondenza esatta (ad esempio, Marketing Nation è diverso da Marketing)
+**Non è uguale a**: il valore deve essere qualsiasi cosa tranne una corrispondenza esatta (ad esempio, Marketing Nation non è uguale a Marketing)
 
-**Contiene**: deve solo contenere il valore (ad esempio, Marketo Rocks! contiene Marketo)
+**Contiene**: solo deve contenere il valore (ad esempio, Marketo Rocks! contiene Marketo)
 
-**Does Not Contain**: il valore non deve trovarsi nel campo dinamico (ad esempio, Marketo Rocks! non contiene Awesome)
+**Non contiene**: il valore non deve essere nel campo dinamico (ad esempio, Marketo Rocks! non contiene Awesome)
 
 ## Descrizione Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
 

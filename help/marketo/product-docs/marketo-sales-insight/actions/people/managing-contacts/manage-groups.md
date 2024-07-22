@@ -32,7 +32,7 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
   </tr> 
   <tr> 
    <td>Gruppi dinamici</td> 
-   <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annullamenti iscrizione: contatti che hanno rinunciato a ricevere corrispondenza.</td> 
+   <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td> 
   </tr> 
   <tr> 
    <td>I miei gruppi</td> 
@@ -63,15 +63,15 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
    ![](assets/manage-groups-3.png)
 
-1. Clic **Azioni gruppo** e seleziona **Crea contatto e aggiungi al gruppo**.
+1. Fai clic su **Azioni gruppo**, quindi seleziona **Crea contatto e aggiungi al gruppo**.
 
    ![](assets/manage-groups-4.png)
 
    >[!NOTE]
    >
-   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, eseguire le operazioni seguenti [questi passaggi](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
+   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, segui [questi passaggi](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Inserisci le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
+1. Compila le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
 
    ![](assets/manage-groups-5.png)
 
@@ -91,11 +91,11 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
    ![](assets/manage-groups-7.png)
 
-1. Fai clic sull’elenco a discesa, scegli il team con cui vuoi condividere il gruppo e fai clic su **Condividi**.
+1. Fai clic sull&#39;elenco a discesa, scegli il team con cui vuoi condividere il gruppo e fai clic su **Condividi**.
 
    ![](assets/manage-groups-8.png)
 
-   Il gruppo è ancora di tua proprietà, ma ora verrà visualizzato in _Gruppi di team_.
+   Il gruppo è ancora di tua proprietà, ma ora verrà visualizzato in _Gruppi team_.
 
 ## Annullare la condivisione di un gruppo {#unshare-a-group}
 
@@ -123,7 +123,7 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
    ![](assets/manage-groups-13.png)
 
-1. Digita il nuovo nome e fai clic su **Salva**.
+1. Digitare il nuovo nome e fare clic su **Salva**.
 
    ![](assets/manage-groups-14.png)
 
@@ -133,10 +133,10 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
    ![](assets/manage-groups-15.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
 
    ![](assets/manage-groups-16.png)
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
    ![](assets/manage-groups-17.png)

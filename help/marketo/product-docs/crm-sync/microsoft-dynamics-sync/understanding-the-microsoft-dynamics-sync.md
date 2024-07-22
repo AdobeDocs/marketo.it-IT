@@ -6,14 +6,14 @@ exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
 # Informazioni su Microsoft Dynamics Sync {#understanding-the-microsoft-dynamics-sync}
 
-Marketi Engage e Microsoft Dynamics si uniscono. Manteniamo sincronizzati i dati di vendita e marketing.
+Marketo Engage e Microsoft Dynamics si uniscono. Manteniamo sincronizzati i dati di vendita e marketing.
 
 >[!NOTE]
 >
@@ -43,7 +43,7 @@ La sincronizzazione tra Marketo e Dynamics è bidirezionale per lead e contatti.
 * [Opportunità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-opportunity-sync.md)
 * [Entità personalizzate](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md)
 
-Il [credenziali immesse in Marketo for Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) vengono utilizzati per sincronizzare i dati.
+Le [credenziali immesse in Marketo per Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md) vengono utilizzate per sincronizzare i dati.
 
 >[!NOTE]
 >

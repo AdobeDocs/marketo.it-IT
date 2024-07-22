@@ -2,10 +2,10 @@
 description: Modello e-mail per guida rapida - Documentazione di Marketo - Documentazione del prodotto
 title: Modello e-mail di avvio rapido
 feature: Programs
-exl-id: cf4c3be9-a71f-4b75-b262-67bd788e0a67
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '565'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Alcuni dei programmi iniziali nella Libreria di riferimento dei Marketi Engage c
 
 L’editor e-mail di Marketo Engage è dotato di funzioni che consentono di modificare il layout e il contenuto delle e-mail.
 
-* **Moduli**: blocchi di contenuto trascinabili/rilasciabili codificati nel modello. Possono essere riorganizzati e duplicati.
+* **Moduli**: blocchi di contenuto trascinabili o eliminabili che sono codificati nel modello. Possono essere riorganizzati e duplicati.
 
-* **Elementi di testo**: è possibile utilizzare l’editor per aggiornare la copia, modificare gli stili dei caratteri o aggiungere collegamenti.
+* **Elementi di testo**: è possibile utilizzare l&#39;editor per aggiornare la copia, modificare gli stili dei caratteri o aggiungere collegamenti.
 
-* **Elementi immagine**: simile agli elementi di testo, le immagini possono essere scambiate, collegate e ridimensionate.
+* **Elementi immagine**: analogamente agli elementi di testo, le immagini possono essere scambiate, collegate e ridimensionate.
 
-* **Variabili**: quando viene selezionato un modulo, le variabili vengono visualizzate sul lato destro dell’editor. Questi possono essere utilizzati per regolare gli attributi del modulo che non sono facilmente modificabili tramite elementi di immagine o testo.
+* **Variabili**: quando è selezionato un modulo, le variabili vengono visualizzate sul lato destro dell&#39;editor. Questi possono essere utilizzati per regolare gli attributi del modulo che non sono facilmente modificabili tramite elementi di immagine o testo.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo moduli {#modules-summary}
 

@@ -21,13 +21,13 @@ Marketo Sales Connect è una soluzione di supporto alle vendite con svariate fun
 
 ## Feed live {#the-live-feed}
 
-Gli agenti di vendita possono visualizzare [coinvolgimento in tempo reale](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) di contenuti sia di marketing che di vendita.
+Gli agenti di vendita possono visualizzare [il coinvolgimento in tempo reale](/help/marketo/product-docs/marketo-sales-connect/email/the-live-feed/live-feed-overview.md) sia del contenuto di marketing che di quello di vendita.
 
 ![](assets/engagement.jpg)
 
 ## Visualizzazione dettagli persona {#person-detail-view}
 
-Accesso [statistiche dettagliate sulle persone](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
+Accedi a [statistiche dettagliate sulle persone](/help/marketo/product-docs/marketo-sales-connect/people/person-detail-view.md).
 
 ![](assets/2018-05-11-at-3.28-pm.jpg)
 
@@ -61,7 +61,7 @@ Scopri in che modo i tuoi clienti potenziali sono coinvolti nelle tue attività 
   </tr> 
   <tr> 
    <td colspan="1"><p>Ricevi chiamata di vendita</p></td> 
-   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore utilizzando <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">Telefono di vendita</a>.</p></td> 
+   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore che utilizza il <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">telefono di vendita</a>.</p></td> 
   </tr> 
   <tr> 
    <td colspan="1"><p>Aggiungi a campagna di vendita</p></td> 
@@ -80,7 +80,7 @@ Scopri in che modo i tuoi clienti potenziali sono coinvolti nelle tue attività 
 
 ## Condivisione di campagne di marketing {#share-marketing-campaigns}
 
-Crea una semplice campagna intelligente per dare accesso agli utenti delle vendite a [Dati campagna Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
+Crea una semplice campagna intelligente per consentire agli utenti delle vendite di accedere ai [dati della campagna Marketo](/help/marketo/product-docs/marketo-sales-connect/marketo/make-a-campaign-visible-to-sales-connect-users.md).
 
 ![](assets/campaign-is-requested.jpg)
 

@@ -15,17 +15,17 @@ Di seguito sono elencate tutte le funzioni incluse nella versione di maggio 2023
 
 >[!AVAILABILITY]
 >
->Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **12 maggio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **12 maggio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
-### Marketi Engage Modern UX {#modern-ux}
+### Marketo Engage Modern UX {#modern-ux}
 
 </br>
 
-* **Interfaccia Adobe Experience Cloud**: allinea il Marketo Engage con Experience Cloud per creare un’esperienza di navigazione coerente tra più soluzioni di Experience Cloud in una singola sessione utente.
+* **Interfaccia Adobe Experience Cloud**: allinea il Marketo Engage con Experience Cloud per creare un&#39;esperienza di navigazione coerente tra più soluzioni Experience Cloud in una singola sessione utente.
 
 <table> 
   <tr> 
@@ -39,7 +39,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tbody>
 </table>
 
-* **Centro assistenza Marketo Engage**: l&#39;Help Center offre agli utenti del Marketo Engage una posizione centrale da cui trovare le risorse di supporto all&#39;interno del prodotto. Inoltre, l&#39;Help Center offre agli utenti la possibilità di attivare guide interne al prodotto che spiegano come sfruttare le funzioni chiave.
+* **Centro assistenza per Marketi Engage**: il Centro assistenza fornisce agli utenti del Marketo Engage una posizione centrale per trovare risorse di assistenza all&#39;interno del prodotto. Inoltre, l&#39;Help Center offre agli utenti la possibilità di attivare guide interne al prodotto che spiegano come sfruttare le funzioni chiave.
 
 <table> 
   <tr> 
@@ -65,7 +65,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 I webinar interattivi migliorano l’esperienza degli eventi e dei webinar esistenti fornendo un’esperienza nativa e fluida che consente agli addetti al marketing di creare, gestire e distribuire eventi all’interno del Marketo Engage. Personalizza i webinar in base al tipo di evento e, se lo desideri, aggiungi anche dei presentatori. Ottieni informazioni approfondite sul coinvolgimento tramite funzioni di Adobe Connect come sondaggi live, chat, sessioni di domande e risposte, clic su collegamenti web, download di documenti e altro ancora. Recupera la registrazione del webinar direttamente nel Marketo Engage e valutane le prestazioni tramite metriche avanzate della dashboard.
 
-I webinar interattivi verranno introdotti gradualmente. Per richiedere l&#39;accesso anticipato, compila [questo modulo](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
+I webinar interattivi verranno introdotti gradualmente. Per richiedere l&#39;accesso precedente, compila [questo modulo](https://forms.office.com/r/Jf4zFVCH0T){target="_blank"}.
 
 <table> 
   <tr> 

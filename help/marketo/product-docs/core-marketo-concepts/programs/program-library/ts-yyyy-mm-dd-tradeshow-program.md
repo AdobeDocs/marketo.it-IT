@@ -2,10 +2,10 @@
 description: Programma di fiere TS-YYY-MM-DD - Documentazione di Marketo - Documentazione del prodotto
 title: TS-YYYY-MM-DD-Tradeshow
 feature: Programs
-exl-id: 32e4d07e-e9fd-4906-acc4-5f97c09f3c44
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '410'
 ht-degree: 4%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 4%
 
 Questo è un esempio di programma di fiera con inviti e e-mail di follow-up utilizzando un programma di eventi di Marketo Engage.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -29,18 +29,18 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Evento</td> 
    <td>01 - Invitato 
-   <br/>02-In lista d’attesa
+   <br/>02-In lista d'attesa
    <br/>03-Registrato
-   <br/>Stand visitato da 04
-   <br/>05-Coinvolto allo spettacolo - Successo
-   <br/>06-Coinvolto al Post Show - Successo</td>
+   Stand visitato da <br/>04
+   <br/>05-Coinvolti allo spettacolo - Completato
+   <br/>06-Coinvolto al post-show - operazione riuscita</td>
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -93,7 +93,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Assets: ospita tutte le risorse creative 
+   <td>Assets - Raccoglie tutte le risorse creative 
 <br/>(sottocartelle per e-mail e pagine di destinazione)</td>
   </tr>
   <tr> 
@@ -180,7 +180,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 
@@ -211,7 +211,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;03 - Coinvolto tramite e-mail di follow-up (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;03 - Coinvolto tramite e-mail di follow-up (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che le e-mail vengano inviate.
 
 >[!IMPORTANT]
 >

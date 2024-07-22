@@ -23,7 +23,7 @@ Le campagne intelligenti sono lo strumento più importante nel Marketo Engage. P
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona (Condividi) **[!UICONTROL Nuova campagna avanzata]**.
+1. Fare clic con il pulsante destro del mouse sul programma desiderato e selezionare **[!UICONTROL Nuova campagna avanzata]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -39,5 +39,5 @@ Le campagne intelligenti sono lo strumento più importante nel Marketo Engage. P
 
    >[!MORELIKETHIS]
    >
-   >* [Definire un elenco avanzato per Smart Campaign | Lotto](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
-   >* [Definire un elenco avanzato per Smart Campaign | Attivatore](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definisci elenco avanzato per Smart Campaign | Batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-batch.md){target="_blank"}
+   >* [Definisci elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}

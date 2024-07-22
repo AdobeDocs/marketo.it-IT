@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Il team vendite può inviare e-mail e tenerle traccia per aperture e clic direttamente da Microsoft Dynamics. Ecco come.
 
-1. In Dynamics, vai a **Vendite** area.
+1. In Dynamics, vai all&#39;area **Vendite**.
 
    ![](assets/image2014-10-20-11-3a56-3a9.png)
 
-1. Seleziona un **Vista sistema**.
+1. Selezionare una **Visualizzazione sistema**.
 
    ![](assets/image2014-10-20-11-3a56-3a20.png)
 
@@ -27,21 +27,21 @@ Il team vendite può inviare e-mail e tenerle traccia per aperture e clic dirett
 
    ![](assets/image2014-10-20-11-3a56-3a35.png)
 
-1. Fai clic su **...** , quindi fai clic su **Invia e-mail Marketo**.
+1. Fai clic sulla scheda **...**, quindi fai clic su **Invia e-mail Marketo**.
 
    ![](assets/image2014-10-20-11-3a56-3a57.png)
 
    >[!TIP]
    >
-   >È possibile [pubblicare e-mail come modelli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) affinché il tuo team di vendita possa utilizzarlo.
+   >Puoi [pubblicare le e-mail come modelli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) da utilizzare per il team vendite.
 
-1. Aggiungi un oggetto, componi l’e-mail e fai clic su **Invia e-mail**. (Se necessario, scegli un modello).
+1. Aggiungi un oggetto, componi l&#39;e-mail e fai clic su **Invia e-mail**. (Se necessario, scegli un modello).
 
    ![](assets/image2014-10-20-11-3a57-3a8.png)
 
    >[!TIP]
    >
-   >Puoi fare clic su **Invia e-mail di prova** prima di inviare l’e-mail, riceverai l’indirizzo e-mail principale in Microsoft Dynamics.
+   >Puoi fare clic su **Invia e-mail di prova** e l&#39;e-mail ti verrà inviata (indirizzo e-mail principale in Microsoft Dynamics) prima di inviare l&#39;e-mail effettiva.
 
    >[!NOTE]
    >

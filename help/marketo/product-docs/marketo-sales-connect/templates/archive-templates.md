@@ -6,7 +6,7 @@ exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Archivia i contenuti per pulire il tuo account dei contenuti di vendita senza perdere i dati dei modelli.
 
-Seleziona la casella accanto a un modello e fai clic su **Archivia**.
+Selezionare la casella accanto a un modello e fare clic su **Archivia**.
 
 >[!NOTE]
 >

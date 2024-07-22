@@ -27,10 +27,10 @@ Se il CRM ti fornisce un indirizzo Ccn, puoi utilizzare la sezione &quot;Altro&q
 
 ## Come connettersi ad altri CRM {#how-to-connect-to-other-crms}
 
-1. Clic **Impostazioni**.
-1. Clic **CRM**.
-1. Clic **Connetti** in Altri CRM.
-1. Clic **Configura**, quindi incolla il tuo indirizzo in Ccn qui sotto e-mail a Ccn.
-1. Clic **Salva** e l&#39;indirizzo Ccn verrà salvato in Sales Connect.
+1. Fare clic su **Impostazioni**.
+1. Fare clic su **CRM**.
+1. Fai clic su **Connetti** in Altri CRM.
+1. Fai clic su **Configura**, quindi incolla il tuo indirizzo Ccn qui sotto e-mail in Ccn.
+1. Fai clic su **Salva** per salvare l&#39;indirizzo Ccn in Sales Connect.
 
    Le e-mail verranno ora registrate nel CRM tramite Ccn.

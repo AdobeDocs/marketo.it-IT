@@ -7,7 +7,7 @@ feature: Predictive Content
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -17,13 +17,13 @@ Per impostare il contenuto predittivo per la barra dei consigli, procedere come 
 
 >[!PREREQUISITES]
 >
->Il contenuto deve essere [approvato per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
+>Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
 
-1. Il giorno **Contenuto predittivo** , fai clic su un titolo per aprire l’editor.
+1. Nella pagina **Contenuto predittivo** fare clic su un titolo per aprire l&#39;editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Clic **Barre**.
+1. Fare clic su **Barra**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ Per impostare il contenuto predittivo per la barra dei consigli, procedere come 
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/save.png)

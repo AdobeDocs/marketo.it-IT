@@ -31,13 +31,13 @@ Aumenta i flussi di lavoro e i ricavi potenziando le vendite con intelligenza, c
 
 **ToutApp**
 
-* **Scheda di conformità**: assicurati che il RGPD sia conforme acquisendo la fonte dei contatti di vendita e i dettagli del consenso del cliente per ricevere le comunicazioni.
-* **Aggiornamento criteri password**: proteggi i tuoi dati con requisiti più severi per la creazione, il ripristino e la scadenza delle password (soddisfa i requisiti di conformità Soc II - Tipo 1).
-* **Esperienza di configurazione dell’account semplificata**: configurazione dell’account e connessione a Gmail, Outlook e altri sistemi più rapida.
+* **Scheda di conformità**: assicurati che il regolamento RGPD sia conforme acquisendo l&#39;origine dei contatti di vendita e i dettagli del consenso del cliente per la ricezione delle comunicazioni.
+* **Aggiornamento criteri password**: proteggi i tuoi dati con requisiti più severi per la creazione, la reimpostazione e la scadenza delle password (soddisfa i requisiti di conformità Soc II - Tipo 1).
+* **Esperienza di configurazione account semplificata**: configurazione dell&#39;account e connessione più rapida a Gmail, Outlook e ad altri sistemi.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
-[Marketo Sky Open Beta](https://help.marketo.com/)
+[Marketo Sky Apri Beta](https://help.marketo.com/)
 
 Opt in the Marketo Sky open beta per accedere a oltre 100 nuove funzionalità per aumentare la produttività, tra cui:
 
@@ -49,7 +49,7 @@ Opt in the Marketo Sky open beta per accedere a oltre 100 nuove funzionalità pe
 
 [Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
-**Confronto anno su anno**
+**Confronto Periodo Su Base Annua**
 
 Ottieni informazioni più rilevanti confrontando i risultati rispetto allo stesso periodo dell’anno precedente.
 
@@ -57,7 +57,7 @@ Ottieni informazioni più rilevanti confrontando i risultati rispetto allo stess
 
 Confrontare le prestazioni di più canali nel tempo.
 
-**Sincronizzazione e filtro campi personalizzati dell’opportunità**
+**Sincronizzazione e filtro campi personalizzati opportunità**
 
 Filtra i risultati in base ai campi personalizzati dell’opportunità, ad esempio un’area di vendita specifica. Per i campi numerici o di valuta, imposta valori minimi e massimi, ad esempio l’importo minimo di opportunità, e genera informazioni approfondite per intervalli di dati specifici.
 
@@ -77,12 +77,12 @@ Imposta l’obiettivo dell’algoritmo di ottimizzazione ContentAI per distribui
 
 ## Integrazione e API {#integration-and-apis}
 
-[API di elenco statico](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+[API elenco statiche](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
 
 Gestisci più facilmente gli elenchi tra Marketo e altri sistemi con nuove API bidirezionali per la creazione, la lettura, l’aggiornamento e l’eliminazione di elenchi statici in remoto senza intraprendere alcuna azione nell’interfaccia utente di Marketo.
 
 ## Miglioramenti della privacy {#privacy-enhancements}
 
-[Privacy tracciamento web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+[Privacy tracciamento Web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
 
 Il monitoraggio Munchkin avanzato è conforme alle normative locali e internazionali sulla privacy rendendo anonimi gli indirizzi IP dei visitatori web e consentendo loro di rinunciare definitivamente al monitoraggio web.

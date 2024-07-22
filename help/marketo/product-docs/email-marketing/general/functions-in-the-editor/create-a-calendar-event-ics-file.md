@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Un token File calendario consente di aggiungere un collegamento di evento calendario (con estensione ics) alle e-mail e alle pagine di destinazione di Marketo.
 
-1. All’interno del programma, vai a **I miei token** scheda.
+1. Nel programma, vai alla scheda **I miei token**.
 
    ![](assets/image2014-9-11-15-3a33-3a27.png)
 
-1. Trascina un **File di calendario** token per l’area di lavoro.
+1. Trascina nell&#39;area di lavoro un token **File di calendario**.
 
    ![](assets/image2014-9-11-15-3a34-3a0.png)
 

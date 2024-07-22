@@ -5,7 +5,7 @@ exl-id: 7aaf6926-c921-4182-a8ef-d594643a5c1c
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ L&#39;interfaccia Adobe Experience Cloud consente di allineare l&#39;aspetto del
 
 ## Flusso utente {#user-flow}
 
-Se non hai già effettuato l’accesso a un prodotto Adobe Experience Cloud, accedi direttamente a [!DNL Marketo Engage] qui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
+Se non hai già effettuato l&#39;accesso a un prodotto Adobe Experience Cloud, accedi direttamente a [!DNL Marketo Engage] qui: [https://experience.adobe.com/marketo-engage](https://experience.adobe.com/marketo-engage).
 
-Se _sono_ già connesso a un prodotto Adobe Experience Cloud, fai clic sull’icona del menu e seleziona **[!DNL Marketo Engage]**.
+Se _sei_ già connesso a un prodotto Adobe Experience Cloud, fai clic sull&#39;icona del menu e seleziona **[!DNL Marketo Engage]**.
 
 ![](assets/unified-shell-overview-1.png)
 
@@ -32,7 +32,7 @@ Oltre al look and feel aggiornato, noterete le seguenti funzioni:
 
 **Centro assistenza integrato**
 
-Accedi a numerose risorse di assistenza disponibili dall&#39;interno di [!DNL Marketo Engage] applicazione.
+Accedere a diverse risorse della Guida disponibili dall&#39;applicazione [!DNL Marketo Engage].
 
 ![](assets/unified-shell-overview-2.png)
 
@@ -56,11 +56,11 @@ Fai clic sull’icona del profilo per modificare la lingua o altre preferenze a 
 
 ## Domande frequenti {#faq}
 
-**Non riesco ad accedere a [!DNL Marketo Engage] tramite l&#39;interfaccia Experience Cloud. Quale potrebbe essere il problema?**
+**Impossibile accedere a [!DNL Marketo Engage] tramite l&#39;interfaccia Experience Cloud. Quale potrebbe essere il problema?**
 
-Se è possibile accedere a Adobe Experience Cloud, ma in seguito viene visualizzato l’errore &quot;Impossibile caricare la pagina&quot;, il problema potrebbe verificarsi in [!DNL Marketo Engage] lato. Contatta [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per assistenza.
+Se è possibile accedere a Adobe Experience Cloud, ma viene visualizzato l&#39;errore &quot;Impossibile caricare la pagina&quot;, il problema potrebbe verificarsi sul lato [!DNL Marketo Engage]. Contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per assistenza.
 
-**Dove sono finite la cronologia utente, la ricerca globale, le notifiche Marketo e la barra delle applicazioni?**
+**Dove sono finiti Cronologia utenti, Ricerca globale, Notifiche Marketo e barra delle applicazioni?**
 
 Queste funzioni sono state spostate dal menu di navigazione superiore a una nuova barra sul lato sinistro nell’interfaccia Experience Cloud.
 

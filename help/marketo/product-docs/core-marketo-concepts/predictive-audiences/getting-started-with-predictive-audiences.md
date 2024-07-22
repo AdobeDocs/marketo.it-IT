@@ -5,7 +5,7 @@ exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Le prestazioni dei modelli AI/ML si basano sui dati presenti nell’abbonamento.
 
 Predictive Audiences viene incluso e attivato automaticamente per le istanze che utilizzano i bundle di prezzo Prime o Ultimate. Per ulteriori informazioni su come accedere a questa funzione, contatta il team dell’account Adobe (il tuo Account Manager).
 
-1. Una volta aggiunta la funzione all’istanza, passa alla **[!UICONTROL Predictive Audiences]** pagina in **[!UICONTROL Amministratore]** di Marketo.
+1. Una volta aggiunta la funzionalità all&#39;istanza, passa alla pagina **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** di Marketo.
 
-1. Verifica **[!UICONTROL Abilita Predictive Audiences]** per attivare la feature. La configurazione di tutti i processi potrebbe richiedere fino a 24 ore.
+1. Seleziona **[!UICONTROL Abilita audience predittive]** per attivare la funzione. La configurazione di tutti i processi potrebbe richiedere fino a 24 ore.

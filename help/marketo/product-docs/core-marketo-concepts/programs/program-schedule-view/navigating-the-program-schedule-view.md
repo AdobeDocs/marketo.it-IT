@@ -6,7 +6,7 @@ exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
 source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il programma. Fai clic su **[!UICONTROL Visualizza]** a discesa. Seleziona **[!UICONTROL Pianificazione]**.
+1. Seleziona il programma. Fai clic sul menu a discesa **[!UICONTROL Visualizza]**. Seleziona **[!UICONTROL Pianificazione]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 
 ## Passaggio da una modalità all&#39;altra {#changing-between-modes}
 
-1. Clic su **[!UICONTROL 3 Weeks]** o **[!UICONTROL Mese]** modifica le date visibili sullo schermo.
+1. Se fai clic su **[!UICONTROL 3 settimane]** o **[!UICONTROL mese]**, le date visibili sul display cambieranno.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 
@@ -65,4 +65,4 @@ Fantastico! Ora che sai come visualizzare il tuo programma, impariamo le altre c
 
 >[!MORELIKETHIS]
 >
->[Creazione di una voce nella vista Programmazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}
+>[Creazione di una voce nella visualizzazione Pianificazione programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/creating-an-entry-in-the-program-schedule-view.md){target="_blank"}

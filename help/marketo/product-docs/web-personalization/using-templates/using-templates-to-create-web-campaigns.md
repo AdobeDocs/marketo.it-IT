@@ -7,23 +7,23 @@ feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Utilizzo dei modelli per creare campagne web {#using-templates-to-create-web-campaigns}
 
-Accelera e semplifica il processo di creazione delle campagne web utilizzando i modelli incorporati o [salvataggio](save-your-campaign-as-a-template.md).
+Accelera e semplifica il processo di creazione della campagna web utilizzando i nostri modelli incorporati o [salvando il tuo](save-your-campaign-as-a-template.md).
 
 >[!NOTE]
 >
 >I modelli sono ottimizzati per tutti i dispositivi e le esperienze di navigazione sia per desktop che per dispositivi mobili.
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Clic **Crea nuova campagna web**.
+1. Fare clic su **Crea nuova campagna Web**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -35,7 +35,7 @@ Accelera e semplifica il processo di creazione delle campagne web utilizzando i 
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Clic **Modelli**.
+1. Fare clic su **Modelli**.
 
    ![](assets/templates.png)
 
@@ -49,13 +49,13 @@ Accelera e semplifica il processo di creazione delle campagne web utilizzando i 
 
    >[!TIP]
    >
-   >Per le campagne mobile, seleziona un modello da **mobile** sezione.
+   >Per le campagne mobile, seleziona un modello dalla sezione **mobile**.
 
 1. Personalizza il modello.
 
    ![](assets/customize-template.jpg)
 
-1. Clic **Salva**.
+1. Fai clic su **Salva**.
 
    ![](assets/click-save-hand.jpg)
 

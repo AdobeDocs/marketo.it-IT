@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 2%
+ht-degree: 0%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 2%
 
 ## Percorso di successo {#success-path}
 
-Nel modello, il percorso verde è denominato **Percorso di successo** è il percorso ottimale della transizione lineare di un lead verso un’azienda chiusa/acquisita.
+Nel modello, il percorso verde denominato **Percorso di successo** rappresenta il percorso ottimale per la transizione lineare di un lead a un&#39;azienda chiusa/acquisita.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![—](assets/image2015-6-12-17-3a12-3a18.png)
 
 Esempio di fasi in un percorso di successo:
 
 | **NOME FASE PERCORSO DI SUCCESSO** | **DEFINIZIONE** |
 |---|---|
 | **Rivedi nuovi nomi** | Controlla se i nuovi nomi sono qualificati |
-| **Potenziale cliente** | Potenziali clienti qualificati non ancora pronti per le vendite |
+| **Potenziale** | Potenziali clienti qualificati non ancora pronti per le vendite |
 | **Lead** | Lead qualificati per il marketing (&quot;pronti per le vendite&quot;) |
 | **Opportunità** | Clienti potenziali accettati per le vendite, che lavorano attivamente |
 | **Cliente** | Offerte vincenti chiuse |
 
 >[!TIP]
 >
->Il verde è per il denaro. Tutto ciò che è sulla strada del verde è sulla strada del successo! Per questo motivo nel riquadro sono presenti solo frecce verdi [Analisi del percorso di successo](using-the-success-path-analyzer.md).
+>Il verde è per il denaro. Tutto ciò che è sulla strada del verde è sulla strada del successo! Per questo motivo in [Analisi del percorso di successo](using-the-success-path-analyzer.md) sono presenti solo frecce verdi.
 
 ## Distorsioni {#detours}
 
@@ -40,7 +40,7 @@ Poiché non tutti i lead seguono un &quot;percorso di successo&quot; lineare, è
 | **NOME FASE DEVIAZIONE** | **DEFINIZIONE** |
 |---|---|
 | **Non qualificato** | Nomi contrassegnati come profilo non in |
-| **Non attivo** | Potenziali clienti che non rispondono |
+| **Inattivo** | Potenziali clienti che non rispondono |
 | **Riciclato** | Qualificato ma che necessita di maggiore assistenza (collegata al prospect) |
 | **Perso** | Perdita di opportunità (in corso di sviluppo) |
 

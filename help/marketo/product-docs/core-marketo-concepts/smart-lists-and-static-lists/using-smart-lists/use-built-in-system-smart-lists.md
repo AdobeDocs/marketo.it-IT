@@ -15,15 +15,15 @@ ht-degree: 1%
 
 Il Marketo Engage dispone di alcuni elenchi avanzati incorporati molto utili. Vediamo di cosa si tratta!
 
-1. Vai a **[!UICONTROL Database]**.
+1. Vai al **[!UICONTROL database]**.
 
    ![](assets/db.png)
 
-1. Apri **[!UICONTROL Elenchi smart di sistema]** per visualizzare la raccolta.
+1. Aprire la cartella **[!UICONTROL Elenchi smart di sistema]** per visualizzare la raccolta.
 
    ![](assets/two.png)
 
-1. Per visualizzare un esempio: Seleziona **[!UICONTROL Tutte le persone]**, quindi fare clic su **[!UICONTROL Persone]** scheda.
+1. Per visualizzare un esempio: Seleziona **[!UICONTROL Tutte le persone]**, quindi fai clic sulla scheda **[!UICONTROL Persone]**.
 
    ![](assets/three.png)
 

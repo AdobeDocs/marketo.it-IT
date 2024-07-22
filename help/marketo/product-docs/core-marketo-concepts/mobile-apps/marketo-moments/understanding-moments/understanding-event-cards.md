@@ -6,8 +6,8 @@ exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '152'
+ht-degree: 0%
 
 ---
 
@@ -25,12 +25,12 @@ Quando tocchi una scheda del programma e-mail, puoi:
 * [Contrassegna un evento come completato](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Condivisione di una scheda dei momenti dell’evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-Sono disponibili due schede evento. Il [!UICONTROL Sul deck] , inviata poche ore prima dell’evento, mostra il numero di persone iscritte. Il [!UICONTROL Risultati] , inviata in seguito, mostra il numero di partecipanti effettivi.
+Sono disponibili due schede evento. La scheda [!UICONTROL On-Deck], inviata poche ore prima dell&#39;evento, mostra il numero di persone iscritte. Nella scheda [!UICONTROL Risultati], inviata successivamente, viene visualizzato il numero di partecipanti effettivi.
 
 ![](assets/image2015-7-15-16-3a56-3a16.png)
 
 >[!MORELIKETHIS]
 >
 >* [Informazioni su Marketo Moments](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-marketo-moments.md)
->* [Informazioni sulle schede del programma e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
+>* [Informazioni sulle schede dei programmi e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/understanding-moments/understanding-email-program-cards.md)
 >* [Informazioni sui programmi evento](/help/marketo/product-docs/demand-generation/events/understanding-events/understanding-event-programs.md)

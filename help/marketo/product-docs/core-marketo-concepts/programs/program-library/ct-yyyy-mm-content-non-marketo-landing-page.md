@@ -2,10 +2,10 @@
 description: Pagina di destinazione CT-YYY-MM-Content Non-Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Pagina di destinazione CT-YYY-MM-Content non-Marketo
 feature: Programs
-exl-id: 22b53312-ac62-4172-a719-c98fe1547d45
-source-git-commit: 38274b4859ae38c018ee73d4f1715fdf6a78e815
+exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
+source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '395'
 ht-degree: 3%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 3%
 
 Questo è un esempio di un programma per contenuti con un modulo Marketo Engage per scaricare contenuti su una pagina di destinazione non appartenente al Marketo Engage utilizzando un programma predefinito del Marketo Engage. Questo programma è concepito per funzionare con un modulo di Marketo Engage incorporato nel sito Web. Il collegamento all’offerta o al contenuto può essere inviato tramite e-mail di ringraziamento.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell’account Adobe o visita il [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} pagina.
+Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -29,14 +29,14 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Contenuto web</td> 
    <td>01 membro 
-<br/>02-Coinvolto-Successo</td>
+<br/>02-Coinvolto-Riuscito</td>
    <td>Inclusivo</td>
    <td>Predefinito</td>
   </tr>
  </tbody> 
 </table>
 
-## Il programma contiene le seguenti risorse {#program-contains-the-following-assets}
+## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -78,7 +78,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr> 
    <td>Cartella</td> 
    <td> </td>
-   <td>Assets: contiene tutte le risorse creative 
+   <td>Assets - ospita tutte le risorse creative 
 <br/>(sottocartelle per e-mail e pagine di destinazione)  </td>
   </tr>
   <tr> 
@@ -140,7 +140,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Regole di conflitto {#conflict-rules}
 
-* **Tag del programma**
+* **Tag programma**
    * Crea tag in questa sottoscrizione - _Consigliato_
    * Ignora
 
@@ -171,4 +171,4 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;02-Engaged&quot; per tenere traccia del successo. Esegui questa operazione _prima di_ il modulo è attivo e le e-mail vengono inviate.
+>Non dimenticare di attivare la campagna &quot;02-Engaged&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che il modulo sia attivo e che le e-mail vengano inviate.

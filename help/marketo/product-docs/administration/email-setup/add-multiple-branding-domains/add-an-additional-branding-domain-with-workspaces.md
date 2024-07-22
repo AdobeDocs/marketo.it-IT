@@ -17,23 +17,23 @@ Se disponi di aree di lavoro, puoi aggiungere altri domini di branding.
 
 >[!PREREQUISITES]
 >
->Devi [modifica il dominio di branding predefinito](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md) prima.
+>Devi [modificare prima il dominio di branding predefinito](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain.md).
 >
->Devi prima [sostituisci il collegamento di tracciamento generico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) con un dominio di branding prima di aggiungere altri domini di branding.
+>Prima di aggiungere altri domini di branding, devi [sostituire il collegamento di tracciamento generico](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/edit-your-default-branding-domain-with-workspaces.md) con un dominio di branding.
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-2.png)
 
-1. Clic **[!UICONTROL Aggiungi]** per aggiungere un dominio di branding aggiuntivo.
+1. Fai clic su **[!UICONTROL Aggiungi]** per aggiungere un dominio di branding aggiuntivo.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-3.png)
 
-1. Immetti un nuovo dominio di branding. Clic **[!UICONTROL Successivo]**.
+1. Immetti un nuovo dominio di branding. Fai clic su **[!UICONTROL Avanti]**.
 
    ![](assets/add-an-additional-branding-domain-with-workspaces-4.png)
 

@@ -19,11 +19,11 @@ Puoi caricare file da Box per utilizzarli nelle pagine di destinazione e nelle e
 
    ![](assets/designstudio-3.png)
 
-1. Vai a **Immagini e file**. Clic **Azioni file** e seleziona **Acquisisci immagini dal web**.
+1. Vai a **Immagini e file**. Fai clic su **Azioni file** e seleziona **Acquisisci immagini dal Web**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 
-1. Clic **Casella**.
+1. Fare clic su **Casella**.
 
    ![](assets/image2014-9-16-12-3a50-3a56.png)
 
@@ -35,11 +35,11 @@ Puoi caricare file da Box per utilizzarli nelle pagine di destinazione e nelle e
 
    ![](assets/image2014-9-16-12-3a51-3a28.png)
 
-1. Scegliere la posizione in cui salvare i file. Quindi seleziona la **Casella** cartella da cui vuoi caricare. Clic **Successivo**.
+1. Scegliere la posizione in cui salvare i file. Quindi seleziona la cartella **Box** da cui desideri caricare. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-16-12-3a51-3a59.png)
 
-1. Seleziona i file da caricare. Clic **Importa**.
+1. Seleziona i file da caricare. Fai clic su **Importa**.
 
    ![](assets/image2014-9-16-12-3a52-3a15.png)
 

@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # Centro assistenza {#help-center}
 
-L&#39;Help Center di Adobe Marketo Engage funge da sede centralizzata per l&#39;assistenza. Oltre a collegarsi a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [informazioni sulla versione](/help/marketo/release-notes/current.md){target="_blank"}, il [Community nazione marketing](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate per livello di esperienza.
+L&#39;Help Center di Adobe Marketo Engage funge da sede centralizzata per l&#39;assistenza. Oltre a effettuare il collegamento a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [informazioni sulla versione](/help/marketo/release-notes/current.md){target="_blank"}, [Community delle nazioni di marketing](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate in base al livello di esperienza.
 
 ## Come accedere {#how-to-access}
 
@@ -30,21 +30,21 @@ Le guide fungono da procedure dettagliate rapide per le funzioni più comuni.
 
    ![](assets/help-center-3.png)
 
-1. Clic **Introduzione**.
+1. Fai clic su **Inizia**.
 
    ![](assets/help-center-4.png)
 
-1. Clic **Successivo** per continuare.
+1. Fai clic su **Avanti** per continuare.
 
    ![](assets/help-center-5.png)
 
-1. Clic **Fine** per uscire dalla procedura dettagliata.
+1. Fare clic su **Fine** per uscire dalla procedura dettagliata.
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
+   >Uscire dalla guida in qualsiasi momento facendo clic su **Ignora**.
 
 ### Novità {#whats-new}
 

@@ -6,7 +6,7 @@ exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '896'
+source-wordcount: '907'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 L’area Analisi opportunità programma consente di analizzare l’efficacia dei singoli programmi o di visualizzare un riepilogo dei risultati per canale del programma.
 
-**Esempio di domande aziendali a cui è possibile rispondere utilizzando questa area di analisi:**:
+**Le domande aziendali di esempio a cui è possibile rispondere con questa area di analisi includono**:
 
 Quante opportunità sono state associate a un determinato programma e quante ne abbiamo vinte?
 
@@ -74,7 +74,7 @@ Come per l’acquisizione, il valore del contributo alle vendite effettuate a un
    <td>La porzione di credito ricevuta dal programma per aver influenzato la creazione dell’opportunità. Può essere una frazione se sono coinvolti più lead.</td> 
   </tr> 
   <tr> 
-   <td>Opportunità acquisite</td> 
+   <td>Opportunità vinte</td> 
    <td>La porzione di credito ricevuta dal programma per aver influenzato l’opportunità acquisita. Può essere una frazione se sono coinvolti più lead.</td> 
   </tr> 
   <tr> 
@@ -100,7 +100,7 @@ Come per l’acquisizione, il valore del contributo alle vendite effettuate a un
  </tbody> 
 </table>
 
-_&#42;(FT) = First-Touch Attribution, utilizzato per le misure di acquisizione dei lead; (MT) = Multi-Touch Attribution, utilizzato per le misure di successo dei lead_
+_&#42;(FT) = Attribuzione primo contatto, utilizzato per le misure di acquisizione del lead; (MT) = Attribuzione multi-contatto, utilizzato per le misure di successo del lead_
 
 Di seguito è riportato uno scenario che descrive come vengono calcolate le unità di opportunità quando sono presenti due programmi che hanno generato lead, ma tali lead hanno portato a un’opportunità dallo stesso account.
 
@@ -169,7 +169,7 @@ Mentre le misure (punti blu) vengono calcolate e richiedono un certo pensiero e 
   </tr> 
   <tr> 
    <td>Attributi di opportunità</td> 
-   <td>Opportunità chiusa<br>Nome opportunità*<br>Nome del proprietario dell’opportunità<br>Fase dell’opportunità<br>Tipo di opportunità</td> 
+   <td>Opportunità chiusa<br>Nome opportunità*<br>Nome proprietario opportunità<br>Fase opportunità<br>Tipo opportunità</td> 
   </tr> 
   <tr> 
    <td>Intervallo temporale dell’opportunità</td> 
@@ -177,7 +177,7 @@ Mentre le misure (punti blu) vengono calcolate e richiedono un certo pensiero e 
   </tr> 
   <tr> 
    <td>Attributi del programma</td> 
-   <td>Canale del programma<br>Nome del programma</td> 
+   <td>Canale programma<br>Nome programma</td> 
   </tr> 
   <tr> 
    <td>Intervallo temporale costi programma</td> 
@@ -186,8 +186,8 @@ Mentre le misure (punti blu) vengono calcolate e richiedono un certo pensiero e 
  </tbody> 
 </table>
 
-*&#42;Tutte le opportunità che hanno assegnato qualsiasi tipo di merito di attribuzione a un programma. Le opportunità possono essere influenzate da uno o più lead e da uno o più programmi.*
+*&#42;Tutte le opportunità che hanno assegnato qualsiasi tipo di credito di attribuzione a un programma. Le opportunità possono essere influenzate da uno o più lead e da uno o più programmi.*
 
 >[!MORELIKETHIS]
 >
->[Creare un rapporto di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>[Crea un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)

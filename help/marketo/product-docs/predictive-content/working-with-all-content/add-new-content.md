@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi aggiungere facilmente il contenuto manualmente alla pagina Tutti i contenuti.
 
-1. Fai clic su **Aggiungi contenuto** a discesa e selezionare **Aggiungi contenuto**.
+1. Fai clic sul menu a discesa **Aggiungi contenuto** e seleziona **Aggiungi contenuto**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 
@@ -27,12 +27,12 @@ Puoi aggiungere facilmente il contenuto manualmente alla pagina Tutti i contenut
 
    ![](assets/add-new-content-categories-updated-hands.png)
 
-1. Clic **Aggiungi**.
+1. Fare clic su **Aggiungi**.
 
    ![](assets/all-content-add-hand.png)
 
-1. Il nuovo titolo viene ora visualizzato sulla **Tutti i contenuti** pagina. Nota che non è ancora approvato per il contenuto predittivo.
+1. Il nuovo titolo verrà visualizzato nella pagina **Tutti i contenuti**. Nota che non è ancora approvato per il contenuto predittivo.
 
    ![](assets/image2017-10-3-8-3a55-3a21.png)
 
-1. Ecco come aggiungerlo a [Contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).
+1. Ecco come aggiungerlo a [Predictive Content](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md).

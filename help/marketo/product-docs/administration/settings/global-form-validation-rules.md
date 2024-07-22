@@ -22,11 +22,11 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
 
    ![](assets/global-form-validation-rules-1.png)
 
-1. Clic **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Fai clic su **[!UICONTROL Ruoli]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Ruoli]**.
 
    ![](assets/global-form-validation-rules-3.png)
 
@@ -34,11 +34,11 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
 
    ![](assets/global-form-validation-rules-4.png)
 
-1. Fai clic su **+** Accedi ad Access Admin.
+1. Fai clic sul segno **+** accanto ad Amministratore di accesso.
 
    ![](assets/global-form-validation-rules-5.png)
 
-1. Scorri verso il basso e seleziona **[!UICONTROL Regole di convalida modulo di accesso]** e fai clic su **[!UICONTROL Salva]**.
+1. Scorri verso il basso e seleziona **[!UICONTROL Accedi a regole di convalida modulo]**, quindi fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/global-form-validation-rules-6.png)
 
@@ -52,11 +52,11 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
 
    ![](assets/global-form-validation-rules-7.png)
 
-1. Clic **[!UICONTROL Regola di convalida modulo globale]**.
+1. Fai clic su **[!UICONTROL Regola di convalida modulo globale]**.
 
    ![](assets/global-form-validation-rules-8.png)
 
-1. Clic **[!UICONTROL Nuova regola di convalida modulo]**.
+1. Fai clic su **[!UICONTROL Nuova regola di convalida modulo]**.
 
    ![](assets/global-form-validation-rules-9.png)
 
@@ -64,7 +64,7 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
    >
    >Il menu a discesa Azioni regola di convalida modulo consente di eliminare o modificare le regole esistenti.
 
-1. Assegna un nome alla regola, fornisci una descrizione facoltativa e inserisci il messaggio di errore che desideri venga visualizzato dai visitatori del modulo. Immetti i domini da bloccare nella casella delle regole, seleziona **[!UICONTROL Attiva regola]** e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla regola, fornisci una descrizione facoltativa e inserisci il messaggio di errore che desideri venga visualizzato dai visitatori del modulo. Immettere i domini da bloccare nella casella delle regole, selezionare **[!UICONTROL Attiva regola]** e fare clic su **[!UICONTROL Crea]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
@@ -74,14 +74,14 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
 
 ## Disattivazione dell&#39;accesso per modulo{#how-to-disable-access-per-form}
 
-Una volta abilitate, le regole vengono applicate a tutti i moduli. Se tuttavia si dispone di un modulo con requisiti specifici e non si desidera che venga rifiutato alcun elemento, è possibile disattivare [!UICONTROL Regole di convalida modulo globale] nelle impostazioni del modulo.
+Una volta abilitate, le regole vengono applicate a tutti i moduli. Se tuttavia si dispone di un modulo con requisiti specifici e non si desidera rifiutare nulla, è possibile disabilitare [!UICONTROL Regole di convalida modulo globale] nelle impostazioni del modulo.
 
-1. Nel modulo desiderato, fai clic su **[!UICONTROL Impostazioni modulo]**, quindi **[!UICONTROL Impostazioni]**.
+1. Nel modulo desiderato, fai clic su **[!UICONTROL Impostazioni modulo]**, quindi su **[!UICONTROL Impostazioni]**.
 
    ![](assets/global-form-validation-rules-11.png)
 
-1. Fai clic su **[!UICONTROL Regole di convalida modulo globale]** e scegliere **[!UICONTROL Disabilitato]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Regole di convalida modulo globale]** e scegli **[!UICONTROL Disabilitato]**.
 
    ![](assets/global-form-validation-rules-12.png)
 
-Quando approvi e pubblichi il modulo, questo ignorerà il tuo [!UICONTROL Regole di convalida modulo globale].
+Quando approvi e pubblichi il modulo, questo ignorerà le [!UICONTROL regole globali di convalida del modulo].

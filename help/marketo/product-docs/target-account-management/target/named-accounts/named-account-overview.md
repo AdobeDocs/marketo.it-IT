@@ -61,7 +61,7 @@ Gli account denominati contengono le persone provenienti dalle aziende di destin
   </tr> 
   <tr> 
    <td><strong>Codice SIC (Standard Industrial Classification)</strong></td> 
-   <td><span><strong>S</strong>standard <strong>I</strong>industriale <strong>C</strong>classificazione - codice a quattro cifre per la classificazione delle industrie<br></span></td> 
+   <td><span><strong>S</strong>standard <strong>I</strong>industriale <strong>C</strong>classificazione - codice di quattro cifre per la classificazione dei settori<br></span></td> 
   </tr> 
   <tr> 
    <td><strong>Ricavi</strong></td> 

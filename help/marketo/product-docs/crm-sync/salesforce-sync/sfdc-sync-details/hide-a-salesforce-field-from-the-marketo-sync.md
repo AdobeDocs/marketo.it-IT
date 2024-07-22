@@ -19,11 +19,11 @@ ht-degree: 1%
 
 Non tutti i campi in Salesforce sono utili per il Marketing. È possibile ottimizzare le prestazioni di sincronizzazione includendo solo i campi necessari. Ecco come nascondere un campo dal Marketo Engage.
 
-1. Fai clic sul menu del nome e seleziona **[!UICONTROL Configurazione]**.
+1. Fai clic sul menu del tuo nome e seleziona **[!UICONTROL Configurazione]**.
 
    ![](assets/image2015-6-30-15-3a11-3a23.png)
 
-1. Inserisci i &quot;profili&quot; nella barra di ricerca e fai clic su **[!UICONTROL Profili]** in **[!UICONTROL Gestisci utenti]**.
+1. Immetti i &quot;profili&quot; nella barra di ricerca e fai clic su **[!UICONTROL Profili]** in **[!UICONTROL Gestisci utenti]**.
 
    ![](assets/image2015-6-30-15-3a12-3a46.png)
 
@@ -31,15 +31,15 @@ Non tutti i campi in Salesforce sono utili per il Marketing. È possibile ottimi
 
    ![](assets/image2015-6-30-15-3a17-3a38.png)
 
-1. Sotto **[!UICONTROL Sicurezza a livello di campo]** , fare clic su **[!UICONTROL Visualizza]** accanto all&#39;oggetto che contiene il campo di destinazione.
+1. Nella sezione **[!UICONTROL Sicurezza a livello di campo]**, fai clic su **[!UICONTROL Visualizza]** accanto all&#39;oggetto che contiene il campo di destinazione.
 
    ![](assets/image2015-6-30-15-3a24-3a32.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/image2015-6-30-15-3a25-3a42.png)
 
-1. Deseleziona la **[!UICONTROL Visibile]** accanto al campo da nascondere. Fai clic su **[!UICONTROL Salva]**.
+1. Deseleziona la casella di controllo **[!UICONTROL Visibile]** accanto al campo che desideri nascondere. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2015-6-30-15-3a27-3a16.png)
 
@@ -51,4 +51,4 @@ Non tutti i campi in Salesforce sono utili per il Marketing. È possibile ottimi
 
    >[!MORELIKETHIS]
    >
-   >[Nascondere e scoprire un campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}
+   >[Nascondi e scopri campo](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md){target="_blank"}

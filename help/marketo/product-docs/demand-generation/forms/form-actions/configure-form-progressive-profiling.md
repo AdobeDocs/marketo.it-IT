@@ -6,7 +6,7 @@ exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 
 >[!NOTE]
 >
->Affinché questa funzione funzioni correttamente, assicurati che la precompilazione del modulo sia abilitata per i campi visibili e [disabilitato](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) per i campi nascosti.
+>Affinché questa funzione funzioni correttamente, assicurati che la precompilazione del modulo sia abilitata per i campi visibili e [disabilitata](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) per i campi nascosti.
 
 1. Vai a **Attività di marketing**.
 
@@ -27,11 +27,11 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. Sotto **Impostazioni modulo**, fai clic su **Impostazioni**.
+1. In **Impostazioni modulo**, fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Imposta **Profilatura progressiva** a **Abilitato**.
+1. Imposta **Progressive Profiling** su **Enabled**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
@@ -49,9 +49,9 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 
    >[!NOTE]
    >
-   >Campi al di fuori del **Profilatura progressiva** viene sempre visualizzata nel modulo, anche se è stata compilata.
+   >I campi al di fuori della casella **Profiling progressivo** verranno sempre visualizzati nel modulo, anche se sono compilati.
 
-1. Seleziona la **Profilatura progressiva** casella.
+1. Selezionare la casella **Progressive Profiling**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
@@ -59,13 +59,13 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
    >
    >Presta attenzione quando utilizzi i campi obbligatori nella profilatura progressiva. Questi campi potrebbero essere lasciati vuoti se il visitatore immette un nuovo indirizzo e-mail (che creerebbe una nuova persona) dopo aver precedentemente inviato i dati per gli altri campi, in quanto verrebbero soppressi nell’ultimo modulo.
 
-1. Scegliere il numero di campi vuoti che si desidera visualizzare dall&#39; **Profilatura progressiva** in qualsiasi momento.
+1. Ora scegli quanti campi vuoti si desidera visualizzare dalla casella **Profilatura progressiva** in un dato momento.
 
    ![](assets/image2014-9-15-12-3a32-3a26.png)
 
    >[!NOTE]
    >
-   >Se si sceglie **Numero** **di** **Vuoto** **Campi** come 1, la prima volta che vede questo modulo il visitatore vedrà quanto segue:
+   >Se scegli **Numero** **di** **Vuoto** **Campi** come 1, il visitatore vedrà quanto segue la prima volta che vede questo modulo:
    >
    >* Nome (vuoto)
    >* Cognome (vuoto)
@@ -86,11 +86,11 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
    >* Indirizzo e-mail (precompilato)
    >* Paese (vuoto)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Elimina notifica push mobile {#delete-mobile-push-notification}
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
 ![](assets/image2015-4-22-18-3a42-3a36.png)
 
@@ -21,11 +21,11 @@ ht-degree: 0%
 
    ![](assets/image2015-4-22-18-3a43-3a21.png)
 
-1. Sotto **Azioni di notifica push**, fai clic su **Elimina**.
+1. In **Azioni notifica push**, fare clic su **Elimina**.
 
    ![](assets/image2015-4-22-18-3a43-3a38.png)
 
-1. Conferma facendo clic su **Elimina**.
+1. Confermare facendo clic su **Elimina**.
 
    ![](assets/image2015-4-22-18-3a43-3a51.png)
 

@@ -21,15 +21,15 @@ Puoi inviare un esempio per verificare che la notifica push funzioni correttamen
 
 1. Puoi inviare un campione in tre modi:
 
-   Nella struttura a sinistra, fai clic con il pulsante destro del mouse sulla risorsa di notifica push e fai clic su **Invia esempio**.
+   Nella struttura a sinistra, fai clic con il pulsante destro del mouse sulla risorsa di notifica push e fai clic su **Invia campione**.
 
    ![](assets/image2015-7-13-11-3a26-3a15.png)
 
-   In alternativa, dal menu Azioni notifica push, fai clic su **Invia esempio**.
+   In alternativa, dal menu Azioni notifica push, fare clic su **Invia campione**.
 
    ![](assets/image2015-7-13-11-3a28-3a37.png)
 
-   In alternativa, nell’Editor notifiche push, fai clic su **Invia esempio**.
+   In alternativa, nell&#39;Editor notifiche push, fare clic su **Invia campione**.
 
    ![](assets/image2015-7-20-13-3a29-3a3.png)
 
@@ -37,23 +37,23 @@ Puoi inviare un esempio per verificare che la notifica push funzioni correttamen
 
    ![](assets/image2015-7-29-8-3a25-3a17.png)
 
-   Oppure fai clic su **Aggiungi dispositivo** a [aggiungi un nuovo dispositivo di test](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) per inviare l&#39;esempio a.
+   In alternativa, fare clic su **Aggiungi dispositivo** a [aggiungi un nuovo dispositivo di test](/help/marketo/product-docs/mobile-marketing/push-notifications/adding-a-new-test-device.md) a cui inviare l&#39;esempio.
 
    ![](assets/image2015-7-13-11-3a34-3a21.png)
 
 1. Puoi collegare il dispositivo all’app in due modi.
 
-   Con la prima opzione, fai clic su **Visita URL con dispositivo** copia l’URL dal campo e invialo tramite e-mail o messaggio di testo al dispositivo. Dal dispositivo, tocca l’URL. Quando lo stato mostra la connessione, fai clic su **Invia**.
+   Con la prima opzione, fai clic sul pulsante **Visita URL con dispositivo**, copia l&#39;URL dal campo e invialo tramite e-mail o SMS al dispositivo. Dal dispositivo, tocca l’URL. Quando lo stato mostra la connessione, fai clic su **Invia**.
 
    ![](assets/image2015-7-29-8-3a29-3a18.png)
 
-   Oppure, con la seconda opzione, fai clic su **Scansiona codice QR con dispositivo** e scansionare il codice QR con il dispositivo. Quando lo stato mostra la connessione, fai clic su **Invia**.
+   Oppure, con la seconda opzione, fai clic sul pulsante **Scansiona codice QR con il dispositivo** e scansiona il codice QR con il tuo dispositivo. Quando lo stato mostra la connessione, fai clic su **Invia**.
 
    ![](assets/image2015-7-29-8-3a31-3a20.png)
 
    >[!TIP]
    >
-   >Un dispositivo di test è stato aggiunto correttamente, ma non è elencato in **Invia a** campo? Seleziona questa opzione per risolvere i problemi:
+   >È stato aggiunto un dispositivo di test, ma non è visualizzato nell&#39;elenco del campo **Invia a**? Seleziona questa opzione per risolvere i problemi:
    >
    >* Le notifiche push sono attivate per l’app associata alla notifica push.
    >

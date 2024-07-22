@@ -23,6 +23,6 @@ Se stai cercando di eliminare un filtro nel calendario di marketing, sei arrivat
 
    ![](assets/image2014-9-24-11-3a27-3a36.png)
 
-1. Clic **[!UICONTROL Elimina]** per confermare.
+1. Fai clic su **[!UICONTROL Elimina]** per confermare.
 
    ![](assets/image2014-9-24-11-3a27-3a42.png)

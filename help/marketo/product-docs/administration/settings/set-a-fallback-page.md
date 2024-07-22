@@ -19,19 +19,19 @@ Le pagine di fallback rappresentano l’ultima linea di difesa se la pagina di d
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. Clic **[!UICONTROL Pagine di destinazione]**.
+1. Fai clic su **[!UICONTROL Pagine di destinazione]**.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. Sotto **[!UICONTROL Pagine di destinazione]** , fare clic su **[!UICONTROL Modifica]**.
+1. Nella scheda **[!UICONTROL Pagine di destinazione]**, fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Immetti un **[!UICONTROL Pagina di fallback]** nella finestra di dialogo e fai clic su **[!UICONTROL Salva]**.
+1. Immetti una **[!UICONTROL pagina di fallback]** nella finestra di dialogo e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/set-a-fallback-page-4.png)
 

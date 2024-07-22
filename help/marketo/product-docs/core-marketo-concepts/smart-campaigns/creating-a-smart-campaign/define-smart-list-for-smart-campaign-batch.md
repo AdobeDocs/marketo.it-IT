@@ -29,11 +29,11 @@ Gli elenchi avanzati sono il meccanismo in tutto il Marketo Engage per definire 
 
    >[!NOTE]
    >
-   >Viene eseguita una campagna avanzata con solo filtri _Batch_ modalità. Trova le persone nel database che si qualificano in base ai filtri ed esegue tutte attraverso il flusso in una sola volta.
+   >Una campagna avanzata con solo filtri viene eseguita in modalità _Batch_. Trova le persone nel database che si qualificano in base ai filtri ed esegue tutte attraverso il flusso in una sola volta.
 
    >[!NOTE]
    >
-   >Puoi fare in modo che una campagna avanzata venga eseguita su una persona alla volta in base a eventi live aggiungendo trigger, che inseriscono la campagna avanzata in _Trigger_ modalità.
+   >È possibile fare in modo che una campagna avanzata venga eseguita su una persona alla volta in base a eventi live aggiungendo trigger, che attivano la modalità _Trigger_.
 
 1. Fai clic sull’elenco a discesa e scegli un operatore di filtro per il filtro scelto.
 
@@ -49,11 +49,11 @@ Gli elenchi avanzati sono il meccanismo in tutto il Marketo Engage per definire 
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, gli utenti che soddisfano TUTTE le regole dell&#39;elenco smart sono qualificati. Può essere modificato in base alle tue esigenze della campagna. Estrai  [Regole per elenchi avanzati per logica complessa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} per ulteriori informazioni.
+   >Per impostazione predefinita, gli utenti che soddisfano TUTTE le regole dell&#39;elenco smart sono qualificati. Può essere modificato in base alle tue esigenze della campagna. Consulta [Regole per elenchi avanzati per logica complessa](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/using-advanced-smart-list-rule-logic.md){target="_blank"} per ulteriori informazioni.
 
-   Per attivare eventi live una persona alla volta, scopri come [Definire un elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
+   Per attivare eventi live una persona alla volta, scopri come [definire un elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
-   >* [Definire un elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
+   >* [Definisci elenco avanzato per Smart Campaign | Trigger](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger.md){target="_blank"}
    >* [Aggiungere un passaggio di flusso a una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"}

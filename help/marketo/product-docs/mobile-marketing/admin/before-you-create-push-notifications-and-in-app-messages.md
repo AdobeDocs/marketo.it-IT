@@ -15,17 +15,17 @@ ht-degree: 0%
 
 La creazione di notifiche push e messaggi in-app non è difficile, ma è necessario avere tutto pronto prima di poter iniziare. L’amministratore di Marketo e lo sviluppatore di app mobili devono seguire i passaggi seguenti per preparare le integrazioni necessarie.
 
-1. In primo luogo, l’amministratore di Marketo [aggiunge un’app mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
+1. L&#39;amministratore di Marketo [aggiunge innanzitutto un&#39;app mobile](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md).
 
-1. L’amministratore di Marketo [invia un frammento di codice allo sviluppatore](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
+1. L&#39;amministratore di Marketo [invia quindi uno snippet di codice allo sviluppatore](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. Lo sviluppatore scarica l’SDK e include snippet e altri metodi per [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
+1. Lo sviluppatore scarica l&#39;SDK e include snippet e altri metodi per [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
 1. Per impostazione predefinita, i messaggi in-app vengono attivati all’apertura dell’app. Se desideri attivare messaggi per altri eventi, ad esempio quando viene visualizzata una pagina particolare o viene premuto un pulsante specifico, lo sviluppatore deve aggiungere eventi personalizzati al codice (vedi [Eventi personalizzati per messaggi in-app](#CustomEvents) di seguito).
 
-1. Sviluppatore [genera la chiave API server e il numero del progetto per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [la certificazione e la password per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) e lo invia all’amministratore di Marketo.
+1. Lo sviluppatore [genera la chiave API server e il numero del progetto per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [la certificazione e la password per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) e la invia all&#39;amministratore Marketo.
 
-1. L’amministratore di Marketo configura l’accesso alle notifiche push [con la chiave API del server (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) o [con il certificato (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
+1. L&#39;amministratore di Marketo configura l&#39;accesso alle notifiche push [con la chiave API del server (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) o [con il certificato (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 
 >[!TIP]
 >
@@ -33,7 +33,7 @@ La creazione di notifiche push e messaggi in-app non è difficile, ma è necessa
 
 ## Eventi personalizzati per messaggi in-app {#custom-events-for-in-app-messages}
 
-Per i messaggi in-app, il trigger di visualizzazione è impostato su **Apertura app** per impostazione predefinita. Se desideri utilizzare eventi personalizzati per attivare la visualizzazione dei messaggi in-app (ad esempio, **Clic su Aggiungi al carrello**, **Pagina Impostazioni visualizzazioni**), crea un elenco di eventi desiderati e passalo allo sviluppatore di app mobili. Lo sviluppatore aggiungerà quindi gli eventi personalizzati nel codice. Una volta approvate, vengono visualizzate come attivatori di visualizzazione durante la configurazione del pubblico. **Attenzione**: il completamento del processo di approvazione della codifica degli eventi personalizzata potrebbe richiedere un po’ di tempo.
+Per i messaggi in-app, il trigger di visualizzazione è impostato su **App Open** per impostazione predefinita. Se desideri utilizzare eventi personalizzati per attivare la visualizzazione dei messaggi in-app (ad esempio, **Clic Aggiungi al carrello**, **Pagina impostazioni visualizzazioni**), crea un elenco di eventi desiderati e passalo allo sviluppatore di app mobili. Lo sviluppatore aggiungerà quindi gli eventi personalizzati nel codice. Una volta approvate, vengono visualizzate come attivatori di visualizzazione durante la configurazione del pubblico. **Attenzione**: il completamento del processo di approvazione della codifica degli eventi personalizzata potrebbe richiedere del tempo.
 
 Dopo aver completato tutta la preparazione per i messaggi in-app e le notifiche push, è ora di iniziare.
 

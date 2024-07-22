@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Report e-mail, prestazioni della campagna in più aree di lavoro {#report-email-campaign-performance-across-workspaces}
 
-Attiva la funzione di reporting globale per includere i dati di tutti i tuoi Marketo [workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) nel tuo [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e [Prestazioni del collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md) rapporti.
+Attiva la funzione di reporting globale per includere i dati di tutte le [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md) di Marketo nei tuoi [report Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md) e Prestazioni [Collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md).
 
-1. Vai a **Analytics** (o **Attività di marketing**).
+1. Vai all&#39;area **Analytics** (o **Attività di marketing**).
 
    ![](assets/image2014-9-16-16-3a4-3a46.png)
 
@@ -23,7 +23,7 @@ Attiva la funzione di reporting globale per includere i dati di tutti i tuoi Mar
 
    ![](assets/image2014-9-16-16-3a4-3a51.png)
 
-1. Fai clic su **Configurazione** e doppio clic **Reporting globale**.
+1. Fare clic sulla scheda **Configurazione** e fare doppio clic su **Global Reporting**.
 
    ![](assets/image2014-9-16-16-3a4-3a58.png)
 
@@ -31,10 +31,10 @@ Attiva la funzione di reporting globale per includere i dati di tutti i tuoi Mar
 
    ![](assets/image2014-9-16-16-3a5-3a4.png)
 
-1. Tutto qui! Fai clic su **Report** per visualizzare i dati di tutte le aree di lavoro.
+1. Tutto qui! Fai clic sulla scheda **Report** per visualizzare i dati da tutte le aree di lavoro.
 
    ![](assets/image2014-9-16-16-3a5-3a8.png)
 
    >[!MORELIKETHIS]
    >
-   >[Filtrare le risorse in un rapporto e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)
+   >[Filtrare Assets in un report e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-an-email-report.md)

@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 
-1. Dal programma di coinvolgimento, fai clic con il pulsante destro del mouse e seleziona **Visualizza membri**.
+1. Nel programma di coinvolgimento, fare clic con il pulsante destro del mouse e selezionare **Visualizza membri**.
 
    ![](assets/membersofengagement.jpg)
 
    >[!NOTE]
    >
-   >Il  [Contenuto esaurito](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) il valore della colonna viene aggiornato dopo ogni cast.
+   >Il valore della colonna [Contenuto esaurito](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md) viene aggiornato dopo ogni cast.
 
 1. Ora puoi visualizzare tutti i membri del programma.
 

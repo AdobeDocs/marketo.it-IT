@@ -23,17 +23,17 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 >
 >**Stesso dominio di primo livello - Buono! I cookie sono condivisi**.<br/> **vai**.mycompany.com > **info**.mycompany.com
 >
->**Domini di primo livello diversi: non valido I cookie sono _non_ condiviso**.<br/> vai.**mia azienda**.com > vai.**mynewcompany**.com
+>**Domini di primo livello diversi - non validi! I cookie sono _non_ condivisi**.<br/> vai.**società**.com > vai.**mionuova società**.com
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **Amministratore** area.
+1. Vai all&#39;area **Amministratore**.
 
    ![](assets/add-additional-landing-page-cnames-1.png)
 
-1. Clic **Il mio account**.
+1. Fai clic su **Il mio account**.
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
@@ -43,25 +43,25 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 
 ## Invia richiesta al reparto IT {#send-request-to-it}
 
-1. Chiedi al tuo reparto IT di impostare il seguente CNAME: (Sostituisci la parola [CNAME] con il CNAME desiderato e [ID Munchkin] con il testo del passaggio precedente).
+1. Chiedi al tuo reparto IT di configurare il seguente CNAME: (sostituisci la parola [CNAME] con il CNAME desiderato e l&#39;ID [Munchkin] con il testo del passaggio precedente).
 
    [CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
 
 ## Aggiungi un nuovo CNAME {#add-a-new-cname}
 
-1. Una volta che il reparto IT ha creato il CNAME, vai al **Amministratore** area.
+1. Una volta che il reparto IT ha creato il CNAME, vai all&#39;area **Amministratore**.
 
    ![](assets/add-additional-landing-page-cnames-4.png)
 
-1. Clic **Pagine di destinazione**.
+1. Fai clic su **Pagine di destinazione**.
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Clic **Nuovo** quindi seleziona **Nuovo alias di dominio**.
+1. Fai clic su **Nuovo**, quindi seleziona **Nuovo alias di dominio**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Immetti il **Alias di dominio.** Il **Pagina predefinita** viene visualizzato se il visitatore non inserisce un URL. In tal caso, specifica il percorso da seguire.
+1. Immetti l&#39;alias di dominio **.** Se il visitatore non inserisce un URL, viene visualizzata la **pagina predefinita**. In tal caso, specifica il percorso da seguire.
 
    >[!NOTE]
    >
@@ -69,7 +69,7 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Immetti il **Pagina predefinita** e fai clic su **Crea**.
+1. Immetti la **pagina predefinita** e fai clic su **Crea**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

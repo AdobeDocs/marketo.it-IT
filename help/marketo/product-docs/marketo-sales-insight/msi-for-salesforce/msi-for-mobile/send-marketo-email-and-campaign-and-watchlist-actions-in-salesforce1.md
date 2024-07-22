@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Andare all&#39;area Dettagli lead in Salesforce1 e fare clic sul pulsante **Correlato** scheda.
+1. Vai all&#39;area Dettagli lead in Salesforce1 e fai clic sulla scheda **Correlati**.
 
    ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Quali campagne intelligenti vengono visualizzate? Quelli con trigger &quot;Campaign is Requested&quot; (È richiesta la campagna). Scopri come impostare una [campagna attivata utilizzando &quot;È richiesta la campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quali campagne intelligenti vengono visualizzate? Quelli con trigger &quot;Campaign is Requested&quot; (È richiesta la campagna). Scopri come impostare una campagna attivata da [ utilizzando &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Fantastico, ora i tuoi venditori possono partecipare attivamente alle attività di marketing.
 

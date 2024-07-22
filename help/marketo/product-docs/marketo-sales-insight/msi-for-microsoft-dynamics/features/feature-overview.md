@@ -25,7 +25,7 @@ Nella nuova soluzione MSI MSD sono disponibili le seguenti funzioni.
 
 ## Campi personalizzati di Marketo Sales Insight nel layout del lead  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
-* Punteggio lead
+* Punteggio Lead
 * Punteggio relativo
 * Priorità
 * Urgenza
@@ -50,7 +50,7 @@ Nella nuova soluzione MSI MSD sono disponibili le seguenti funzioni.
 
 ## Campi personalizzati di Marketo Sales Insight nel layout del contatto  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
-* Punteggio lead
+* Punteggio Lead
 * Punteggio relativo
 * Priorità
 * Urgenza

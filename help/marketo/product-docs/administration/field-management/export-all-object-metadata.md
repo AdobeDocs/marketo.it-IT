@@ -29,15 +29,15 @@ Questa funzione consente di esportare tutti gli oggetti e i relativi metadati.
 
 ## Esporta metadati oggetto {#export-object-metadata}
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. Clic **[!UICONTROL Gestione dei campi]**.
+1. Fare clic su **[!UICONTROL Gestione campi]**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Clic **[!UICONTROL Esporta tutti gli oggetti]**.
+1. Fare clic su **[!UICONTROL Esporta tutti gli oggetti]**.
 
    ![](assets/export-all-object-metadata-3.png)
 

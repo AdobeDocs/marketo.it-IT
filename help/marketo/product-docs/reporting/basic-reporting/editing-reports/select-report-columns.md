@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi scegliere quali colonne includere e non includere nel rapporto.
 
-1. Vai a **Analytics** (o **Attività di marketing**).
+1. Vai all&#39;area **Analytics** (o **Attività di marketing**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,10 +23,10 @@ Puoi scegliere quali colonne includere e non includere nel rapporto.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Fai clic su **Report** , quindi fare clic su un&#39;intestazione di colonna e selezionare **Colonne** e quindi scegliere le colonne da includere.
+1. Fai clic sulla scheda **Report**, quindi fai clic su un&#39;intestazione di colonna e seleziona **Colonne**, quindi scegli le colonne da includere.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 
    >[!MORELIKETHIS]
    >
-   >[Ordinare il rapporto in base alle colonne](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)
+   >[Ordina report per colonne](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md)

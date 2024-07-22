@@ -6,7 +6,7 @@ exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '595'
 ht-degree: 2%
 
 ---
@@ -17,23 +17,23 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 >[!PREREQUISITES]
 >
->[Creare un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
+>[Crea un campo personalizzato in Marketo](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md)
 
 >[!TIP]
 >
->A seconda del tipo di campo, filtro/trigger [operatori](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) sarà diverso.
+>A seconda del tipo di campo, il filtro/trigger [operatori](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) sarà diverso.
 
 >[!NOTE]
 >
->La maggior parte dei campi non prevede un numero massimo di caratteri, ma solo un numero di byte. Per questo motivo, non è possibile fornire un limite di caratteri definitivo per ciascun campo. L’eccezione è **Stringa**, che non può superare i 255 caratteri.
+>La maggior parte dei campi non prevede un numero massimo di caratteri, ma solo un numero di byte. Per questo motivo, non è possibile fornire un limite di caratteri definitivo per ciascun campo. L&#39;eccezione è **String**, che non può superare i 255 caratteri.
 
 ## Booleano {#boolean}
 
-**Nome esempio:** È cliente - Assegna tag alle persone come clienti
+**Nome esempio:** è un cliente - Assegna tag alle persone come clienti
 
 **Valori di esempio:** True (selezionato) / False (deselezionato)
 
-**Operatori**: nessuna
+**Operatori**: nessuno
 
 ## Valuta {#currency}
 
@@ -45,23 +45,23 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Data {#date}
 
-**Nome esempio:** Data di rinnovo: memorizza le date di rinnovo dei clienti
+**Nome esempio:** Data di rinnovo - Memorizza le date di rinnovo dei clienti
 
 **Valori di esempio:** 8/19/14
 
-**Operatori**: è, non è, tra, nel passato, nel passato, prima, nel futuro, dopo, nell’intervallo di tempo, dopo, prima, il o dopo, il o prima di, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, passato, passato, passato, futuro, dopo, nell&#39;intervallo di tempo, dopo, prima, il o dopo, il o prima, è vuoto, non è vuoto
 
 ## Data e ora {#datetime}
 
-**Nome esempio:** Data creazione: memorizza la data e l’ora di creazione di una persona.
+**Nome esempio:** Data creazione - Memorizza la data e l&#39;ora di creazione di una persona
 
 **Valori di esempio:** 8/19/14 2:00
 
-**Operatori**: è, non è, tra, nel passato, nel passato, prima, nel futuro, dopo, nell’intervallo di tempo, dopo, prima, il o dopo, il o prima di, è vuoto, non è vuoto
+**Operatori**: è, non è, tra, passato, passato, passato, futuro, dopo, nell&#39;intervallo di tempo, dopo, prima, il o dopo, il o prima, è vuoto, non è vuoto
 
 ## E-mail {#email}
 
-**Nome esempio:** E-mail alternativa: mantieni un indirizzo e-mail alternativo per le tue persone (non puoi effettivamente inviare e-mail a questo campo come nel campo dell’indirizzo e-mail predefinito, che è speciale)
+**Nome esempio:** e-mail alternativa - Mantieni un indirizzo e-mail alternativo per le tue persone (non può effettivamente inviare e-mail a questo campo come il campo indirizzo e-mail predefinito, che è speciale)
 
 **Valori di esempio:** name@company.com
 
@@ -69,21 +69,21 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Mobile {#float}
 
-**Nome esempio:** Media punti livello: consente di mantenere la media dei punti livello di una persona o qualsiasi altro valore numerico con decimali
+**Nome esempio:** Media punti livello - Mantieni la media punti livello di una persona o qualsiasi altro valore numerico con decimali
 
-**Valori di esempio:** 2,47
+**Valori di esempio:** 2.47
 
 **Operatori**: tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Formula {#formula}
 
-**Nome esempio:** Saluti: utilizza questo campo speciale in una [soluzione per ottenere il giusto saluto](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) in base al sesso
+**Nome esempio:** Saluti. Utilizzare questo campo speciale in una [soluzione per ottenere la formula di apertura corretta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) in base al sesso
 
 **Valori di esempio:** controllare la soluzione collegata
 
 ## Intero {#integer}
 
-**Nome esempio:** Numero di dipendenti: memorizza un valore numerico che non richiede decimali
+**Nome esempio:** Numero di dipendenti - memorizzare un valore numerico che non richiede decimali
 
 **Valori di esempio:** 600
 
@@ -91,7 +91,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Percentuale {#percent}
 
-**Nome esempio:** Probabilità di acquistare - memorizzare un valore percentuale (forse calcolato sul lato CRM)
+**Nome esempio:** probabile acquisto - memorizzare un valore percentuale (forse calcolato sul lato CRM)
 
 **Valori di esempio:** 85%
 
@@ -99,40 +99,40 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Telefono {#phone}
 
-**Nome esempio:** Telefono alternativo: memorizza un numero di telefono aggiuntivo per le tue persone
+**Nome esempio:** telefono alternativo - memorizzare un numero di telefono aggiuntivo per le persone
 
-**Esempio di valore:** 650 555 555
+**Valore di esempio:** 650-555-5555
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
 ## Punteggio {#score}
 
-**Nome esempio:** Punteggio comportamentale/Punteggio demografico: crea più campi di punteggio per tenere traccia dei diversi attributi
+**Nome esempio:** Punteggio comportamentale/Punteggio demografico - crea più campi di punteggio per tenere traccia di attributi diversi
 
-**Esempio di valore:** 14
+**Valore di esempio:** 14
 
 **Operatori**: è, non è, tra, maggiore di, minore di, almeno, è vuoto, non è vuoto
 
 ## Stringa {#string}
 
-**Nome esempio:** Secondo nome: memorizza un attributo di testo aggiuntivo
+**Nome esempio:** secondo nome - memorizzare un attributo di testo aggiuntivo
 
-**Esempio di valore:** Rosa
+**Valore di esempio:** Rose
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
 ## Area di testo {#text-area}
 
-**Nome esempio:** Commenti: aggiungi un campo commenti ai moduli per consentire l’immissione di testo su più righe
+**Nome esempio:** Commenti - aggiungi un campo commenti ai moduli per consentire l&#39;immissione di testo su più righe
 
-**Esempio di valore:** Questo articolo è fantastico!
+**Valore di esempio:** Questo articolo è fantastico!
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
 ## URL {#url}
 
-**Nome esempio:** Blog: crea un campo per memorizzare gli URL del blog di una persona
+**Nome esempio:** Blog - crea un campo per memorizzare gli URL del blog della persona
 
-**Esempio di valore:** www.myblog.com
+**Valore di esempio:** www.myblog.com
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto

@@ -6,8 +6,8 @@ exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 0%
+source-wordcount: '160'
+ht-degree: 1%
 
 ---
 
@@ -19,31 +19,31 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/enable-communication-limits-1.png)
 
-1. Clic **[!UICONTROL Limiti di comunicazione]**.
+1. Fare clic su **[!UICONTROL Limiti di comunicazione]**.
 
    ![](assets/enable-communication-limits-2.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/enable-communication-limits-3.png)
 
    >[!NOTE]
    >
-   >[!UICONTROL Al giorno] si basa sul giorno del calendario nel fuso orario dell’abbonamento (mezzanotte-mezzanotte).
+   >[!UICONTROL Al giorno] è basato sul giorno del calendario nel fuso orario dell&#39;abbonamento (mezzanotte-mezzanotte).
 
-1. Fai clic su **[!UICONTROL Al giorno]** e selezionare il limite desiderato. In questo esempio scegliamo 1.
+1. Fai clic sul menu a discesa **[!UICONTROL Per Day]** e seleziona il limite desiderato. In questo esempio scegliamo 1.
 
    ![](assets/enable-communication-limits-4.png)
 
    >[!TIP]
    >
-   >Puoi anche scegliere **[!UICONTROL Personalizzato]** se nessuna delle opzioni predefinite funziona.
+   >Puoi anche scegliere **[!UICONTROL Personalizzato]** se nessuna delle opzioni del predefinito funziona.
 
-1. Fai clic su **[!UICONTROL Ogni 7 giorni]** e selezionare il limite desiderato. In questo esempio scegliamo 5.
+1. Fai clic sul menu a discesa **[!UICONTROL Per 7 giorni]** e seleziona il limite desiderato. In questo esempio scegliamo 5.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -53,9 +53,9 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Ulteriori informazioni su [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) sono.
+   >Ulteriori informazioni su [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md).
 
-1. Clic **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/enable-communication-limits-7.png)
 
@@ -63,7 +63,7 @@ ht-degree: 0%
    >
    >**Esempio**
    >
-   >Le impostazioni precedenti indicano che le persone non riceveranno più di **1 e-mail al giorno** o più di **5 su un periodo di sette giorni**.
+   >Le impostazioni precedenti indicano che le persone non riceveranno più di **1 e-mail al giorno** o più di **5 in un periodo di sette giorni**.
 
    >[!NOTE]
    >
@@ -71,4 +71,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[Applicare limiti di comunicazione a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)
+>[Applica limiti di comunicazione a Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/apply-communication-limits-to-smart-campaign.md)

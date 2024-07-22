@@ -16,7 +16,7 @@ A volte, l’attività di bot su e-mail può erroneamente gonfiare le aperture d
 
 Per confermare l’attività da bot usiamo due metodi separati:
 
-* Corrispondenza con [Elenco dei bot di Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: le attività che corrispondono a qualcosa nell’elenco IAB UA/IP (agente utente/indirizzo IP) verranno contrassegnate come bot.
+* Corrispondenza con [Elenco bot di Interactive Advertising Bureau](https://www.iab.com/guidelines/iab-abc-international-spiders-bots-list/){target="_blank"}: le attività che corrispondono a qualsiasi elemento nell&#39;elenco IAB UA/IP (agente utente/indirizzo IP) verranno contrassegnate come bot.
 * Corrispondenza con pattern di prossimità: quando due o più attività si verificano contemporaneamente (in meno di un secondo), vengono identificate come bot. Attributi considerati durante il confronto:
    * ID lead (deve essere lo stesso)
    * Risorsa e-mail (deve essere la stessa)
@@ -31,35 +31,35 @@ A seconda del clic sul collegamento e-mail e dell’attività di apertura e-mail
 
 ## Seleziona tipo di filtro {#select-filter-type}
 
-1. Clic **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Amministratore]**.
 
    ![](assets/filtering-email-bot-activity-1.png)
 
-1. Clic **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL E-mail]**.
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Fai clic su **[!UICONTROL Attività bot]** scheda.
+1. Fai clic sulla scheda **[!UICONTROL Attività bot]**.
 
    ![](assets/filtering-email-bot-activity-3.png)
 
-1. Sono disponibili due cursori tra cui scegliere. Puoi abilitare solo uno o entrambi. Se si abilita **[!UICONTROL Corrispondenza con elenco IAB]**, scegliere se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot].
+1. Sono disponibili due cursori tra cui scegliere. Puoi abilitare solo uno o entrambi. Se abiliti **[!UICONTROL Corrispondenza con elenco IAB]**, scegli se [!UICONTROL registrare l&#39;attività bot] _o_ [!UICONTROL filtrare l&#39;attività bot].
 
    ![](assets/filtering-email-bot-activity-4.png)
 
-1. Se si abilita **[!UICONTROL Corrispondenza con pattern di prossimità]**, scegliere se [!UICONTROL registra attività bot] _o_ [!UICONTROL attività filtro bot]. Puoi anche impostare la quantità di secondi per **Durata tra attività** Il valore predefinito è 0, il massimo è 3.
+1. Se abiliti **[!UICONTROL Match with Proximity Pattern]**, scegli se [!UICONTROL registrare l&#39;attività bot] _o_ [!UICONTROL filtrare l&#39;attività bot]. Puoi anche impostare la quantità di secondi per **Durata tra le attività** (il valore predefinito è 0, il massimo è 3).
 
    ![](assets/filtering-email-bot-activity-5.png)
 
 >[!NOTE]
 >
->Con **Durata tra attività** impostata su 0 secondi, identificheremo le attività e-mail che si verificano esattamente nello stesso secondo. Se si verificano più attività e-mail entro la quantità di secondi specificata, queste vengono identificate come attività bot.
+>Con **Durata tra attività** impostata su 0 secondi, identificheremo le attività e-mail che si verificano nello stesso esatto secondo. Se si verificano più attività e-mail entro la quantità di secondi specificata, queste vengono identificate come attività bot.
 
 >[!IMPORTANT]
 >
->* Se si sceglie [!UICONTROL Filtra attività bot], potrebbe verificarsi un calo nelle aperture delle e-mail e nei clic quando le attività false vengono eliminate.
+>* Se scegli [!UICONTROL Filtra attività bot], potrebbe verificarsi un calo nelle aperture delle e-mail e nei clic quando le attività false vengono eliminate.
 
-**PASSAGGIO FACOLTATIVO**: per disattivare una delle due funzioni, è sufficiente deselezionare il cursore corrispondente. In tal caso, i dati non vengono ripristinati.
+**PASSAGGIO FACOLTATIVO**: per disattivare una delle due funzionalità, deselezionare il dispositivo di scorrimento corrispondente. In tal caso, i dati non vengono ripristinati.
 
 >[!TIP]
 >

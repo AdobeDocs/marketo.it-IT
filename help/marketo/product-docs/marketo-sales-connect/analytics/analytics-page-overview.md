@@ -45,6 +45,6 @@ Qui puoi vedere le statistiche e le classificazioni dell’intero team. Puoi anc
 
 La scheda contenuto contiene le statistiche relative a modelli, contenuto e collegamenti. Puoi filtrare per tutti o per team creati dagli amministratori.
 
-Se sotto la colonna dell’oggetto è presente del testo blu, significa che il modello è condiviso. Puoi fare clic sul testo blu da portare a quel modello. Visualizzarne l’utilizzo facendo clic su **Analisi dei modelli**.
+Se sotto la colonna dell’oggetto è presente del testo blu, significa che il modello è condiviso. Puoi fare clic sul testo blu da portare a quel modello. Visualizzarne l&#39;utilizzo facendo clic su **Analisi modello**.
 
 I &quot;clic sul contenuto&quot; vengono conteggiati quando un destinatario fa clic su un collegamento nell’e-mail.

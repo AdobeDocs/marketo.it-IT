@@ -6,7 +6,7 @@ exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
 
 >[!PREREQUISITES]
 >
->[Aggiungere un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
+>[Aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
 >[!NOTE]
 >
 >Per i test di data e ora, è necessario impostare solo quando si riceve il riepilogo dei risultati del test.
 
-1. Seleziona la **Invia test** data.
+1. Seleziona la data **Invia test**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Seleziona la **Invia test** tempo.
+1. Seleziona l&#39;ora **Invia test**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +35,7 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
    >
    >Invia vincitore test e Invia vincitore devono essere a distanza di almeno 4 ore. Tuttavia, per invii più grandi potresti voler aspettare 24 ore per avere il tempo necessario per ottenere buoni risultati.
 
-1. Fai la stessa cosa per **Invia vincitore**. Inserisci i destinatari della notifica (facoltativo) e fai clic su **Successivo**.
+1. Fai la stessa cosa per **Invia vincitore**. Immettere i destinatari della notifica (facoltativo) e fare clic su **Avanti**.
 
    >[!NOTE]
    >
@@ -45,13 +45,13 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
 
    >[!NOTE]
    >
-   >Se hai scelto di dichiarare manualmente un vincitore, definirai **Invio report** data/ora anziché **Termina mailing** data/ora.
+   >Se hai scelto di dichiarare manualmente un vincitore, definirai **Data/ora invio report** invece di **Data/ora fine invio**.
 
    Super! Al termine, esaminare il riepilogo e fare clic su Chiudi.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Noterai la **Pianificazione** Il riquadro è stato aggiornato.
+   Noterai che la sezione **Pianificazione** è ora aggiornata.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 
@@ -63,4 +63,4 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
 
    >[!MORELIKETHIS]
    >
-   >[Approvare/Annullare l’approvazione di un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)
+   >[Approvare/Annullare l&#39;approvazione di un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/approve-unapprove-an-email-program.md)

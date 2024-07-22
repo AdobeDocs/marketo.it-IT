@@ -17,7 +17,7 @@ Crea rapporti basati sui ricavi utilizzando la dimensione Conto denominato speci
 
 >[!NOTE]
 >
->**Dimension** - attributi (rappresentati da punti gialli) che forniscono viste diverse delle misure.
+>**Dimension** - attributi (rappresentati da punti gialli) che forniscono visualizzazioni diverse delle misure.
 
 ![](assets/one-2.png)
 
@@ -48,6 +48,6 @@ Efficacia e impatto del programma sui profitti
 
 ![](assets/four-3.png)
 
-Copertura di lead di qualità e coinvolgimento in account denominati
+Copertura dei lead di qualità e coinvolgimento all’interno di account denominati
 
 ![](assets/five-2.png)

@@ -7,7 +7,7 @@ feature: Mobile Marketing
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,11 +29,11 @@ Per abilitare gli ID, devi acquisire i codici e fornirli al reparto IT in modo c
 
    ![](assets/image2015-12-2-10-3a18-3a6.png)
 
-1. Scorri verso il basso e, nella sezione Access Security, fai clic su **Modifica**.
+1. Scorri verso il basso e nella sezione Sicurezza degli accessi, fai clic su **Modifica**.
 
    ![](assets/image2015-12-1-14-3a41-3a37.png)
 
-1. Controlla la **Abilita sicurezza** casella di controllo. Clic **Salva**.
+1. Selezionare la casella di controllo **Abilita protezione**. Fai clic su **Salva**.
 
    ![](assets/image2015-12-1-14-3a54-3a0.png)
 

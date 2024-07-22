@@ -16,11 +16,11 @@ Scopri come apportare modifiche al webinar interattivo.
 
 ## Modificare un webinar interattivo {#modify-an-interactive-webinar}
 
-1. Seleziona il programma di eventi desiderato e fai clic su **Cambia stanza/modello**.
+1. Selezionare il programma eventi desiderato e fare clic su **Cambia stanza/modello**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-1.png)
 
-1. La stanza verrà caricata. Se si desidera modificare la room, selezionarne una dal menu a discesa Room. Per aggiornare il modello, fai clic su **Usa stanza**.
+1. La stanza verrà caricata. Se si desidera modificare la room, selezionarne una dal menu a discesa Room. Per aggiornare il modello, fare clic su **Usa stanza**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-2.png)
 
@@ -28,15 +28,15 @@ Scopri come apportare modifiche al webinar interattivo.
 >
 >La modifica della stanza è facoltativa e non è necessaria per aggiornare il modello.
 
-1. Clic **Perfeziona il tuo webinar ora**.
+1. Fai Clic Su **Perfeziona Ora Il Tuo Webinar**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-3.png)
 
-1. Seleziona le preferenze audio/video e fai clic su **Entrate nella stanza**.
+1. Seleziona le preferenze audio/video e fai clic su **Accedi alla stanza**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-4.png)
 
-1. Al termine delle modifiche, fai clic su **Esci dalla stanza**.
+1. Al termine delle modifiche, fare clic su **Esci dalla room**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-5.png)
 
@@ -46,7 +46,7 @@ Scopri come apportare modifiche al webinar interattivo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-6.png)
 
-1. Fai clic sull’icona del calendario, scegli la nuova data/ora e fai clic su **Salva**.
+1. Fai clic sull&#39;icona del calendario, scegli la nuova data/ora e fai clic su **Salva**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-7.png)
 
@@ -56,19 +56,19 @@ Scopri come apportare modifiche al webinar interattivo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-8.png)
 
-1. Fai clic sul menu a discesa Azioni programma e seleziona **Clona**.
+1. Fare clic sul menu a discesa Azioni programma e selezionare **Clona**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-9.png)
 
    >[!TIP]
    >
-   >Puoi anche fare clic con il pulsante destro del mouse sul Programma eventi nella struttura e selezionare **Clona** da lì.
+   >È inoltre possibile fare clic con il pulsante destro del mouse sul Programma eventi nella struttura e selezionare **Clone**.
 
-1. Assegna un nome al programma clonato, imposta Workspace e Destination (se desideri che il programma viva altrove) e fai clic su **Salva**.
+1. Assegna un nome al programma clonato, imposta Workspace e Destination (se vuoi che il programma viva altrove) e fai clic su **Salva**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-10.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-11.png)
 
@@ -76,7 +76,7 @@ Scopri come apportare modifiche al webinar interattivo.
    >
    >Al momento è possibile salvare un webinar interattivo clonato solo come webinar interattivo. Salvataggio di un webinar clonato come webinar per i partner (ad esempio, Zoom, ON24 e così via) sarà disponibile a breve.
 
-1. Scegli le impostazioni per il webinar clonato e fai clic su **Clona**.
+1. Scegli le impostazioni per il webinar clonato e fai clic su **Clone**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-12.png)
 
@@ -86,7 +86,7 @@ Scopri come apportare modifiche al webinar interattivo.
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
 
-1. Fai clic sul menu a discesa Azioni programma e seleziona **Elimina**.
+1. Fare clic sul menu a discesa Azioni programma e selezionare **Elimina**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-14.png)
 
@@ -94,7 +94,7 @@ Scopri come apportare modifiche al webinar interattivo.
    >
    >Puoi anche fare clic con il pulsante destro del mouse sul Programma eventi nella struttura e selezionare **Elimina** da lì.
 
-1. Clic **Elimina**.
+1. Fare clic su **Elimina**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-15.png)
 

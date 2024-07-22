@@ -6,7 +6,7 @@ feature: Veeva CRM
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '263'
-ht-degree: 33%
+ht-degree: 34%
 
 ---
 
@@ -65,11 +65,11 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo
       <td>Cognome</td>
     </tr>
     <tr>
-      <td>Fonte lead</td>
+      <td>Fonte Lead</td>
       <td>Origine</td>
     </tr>
     <tr>
-      <td>Punteggio lead</td>
+      <td>Punteggio Lead</td>
       <td>Punteggio</td>
     </tr>
     <tr>
@@ -163,7 +163,7 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo
     </tr>
     <tr>
       <td>Nome account</td>
-      <td>Nome azienda</td>
+      <td>Nome della società</td>
     </tr>
     <tr>
       <td>Dipendenti</td>

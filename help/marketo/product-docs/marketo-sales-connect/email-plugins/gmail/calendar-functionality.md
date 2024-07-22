@@ -13,4 +13,4 @@ ht-degree: 0%
 
 # Funzionalità calendario {#calendar-functionality}
 
-Informa i destinatari quando sei disponibile premendo il tasto **Calendario** pulsante. Inserisce il calendario Google e consente di aggiungere date e ore specifiche gratuite. Il destinatario può rispondere con un orario adeguato.
+Comunica ai destinatari quando sei disponibile premendo il pulsante **Calendario**. Inserisce il calendario Google e consente di aggiungere date e ore specifiche gratuite. Il destinatario può rispondere con un orario adeguato.

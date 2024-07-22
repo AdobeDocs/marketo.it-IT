@@ -5,7 +5,7 @@ exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '641'
 ht-degree: 4%
 
 ---
@@ -26,21 +26,21 @@ In questo articolo personalizzerai le autorizzazioni del campo con un layout di 
 
 La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i campi personalizzati.
 
-1. Fai clic sui layout di pagina Account (account persona) nella barra di ricerca di navigazione senza premere Invio, quindi fai clic su **[!UICONTROL Layout di pagina]** in Contatti.
+1. Fare clic sui layout di pagina Account (account persona) nella barra di ricerca di navigazione senza premere Invio, quindi fare clic su **[!UICONTROL Layout di pagina]** in Contatti.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-1.png)
 
-1. Clic **[!UICONTROL Layout di pagina]**.
+1. Fare clic su **[!UICONTROL Layout di pagina]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-2.png)
 
-1. Clic **[!UICONTROL HCP - Professional]**.
+1. Fare clic su **[!UICONTROL HCP - Professional]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-3.png)
 
-1. Fai clic e trascina un nuovo **[!UICONTROL Sezione]** nel layout di pagina.
+1. Fai clic su e trascina una nuova **[!UICONTROL sezione]** nel layout della pagina.
 
-1. Immettete &quot;Marketo&quot; per Nome sezione (Section Name) e fate clic su **[!UICONTROL OK]**.
+1. Immettere &quot;Marketo&quot; per Nome sezione e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-4.png)
 
@@ -66,7 +66,7 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
    >
    >Per creare due colonne per i campi, trascinare verso il basso il lato destro della pagina. È possibile spostare i campi da un lato all&#39;altro per bilanciare la lunghezza delle colonne.
 
-1. Una volta terminato il layout HCP-Professional, fare clic su **[!UICONTROL Salva]**.
+1. Al termine, fare clic su **[!UICONTROL Salva]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-6.png)
 
@@ -76,15 +76,15 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
 
 ## Creare un profilo {#create-a-profile}
 
-1. Clic **[!UICONTROL Configurazione]**.
+1. Fare clic su **[!UICONTROL Configurazione]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-7.png)
 
-1. Digita &quot;profiles&quot; nella barra di ricerca di navigazione e fai clic su **[!UICONTROL Profili]** collegamento.
+1. Digita &quot;profiles&quot; nella barra di ricerca di navigazione e fai clic sul collegamento **[!UICONTROL Profili]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-8.png)
 
-1. Clic **[!UICONTROL Nuovo]**.
+1. Fare clic su **[!UICONTROL Nuovo]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-9.png)
 
@@ -94,11 +94,11 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
 
 ## Imposta autorizzazioni profilo {#set-profile-permissions}
 
-1. Clic **[!UICONTROL Modifica]** per impostare le autorizzazioni di protezione.
+1. Fai clic su **[!UICONTROL Modifica]** per impostare le autorizzazioni di protezione.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-11.png)
 
-1. Nella sezione Autorizzazioni amministrative, assicurati di **[!UICONTROL API abilitata]** è selezionato.
+1. Nella sezione Autorizzazioni amministrative, assicurati che sia selezionato **[!UICONTROL API Enabled]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-12.png)
 
@@ -106,19 +106,19 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
    >
    >Seleziona la casella Password Never Expires (Password senza scadenza).
 
-1. Nella sezione Autorizzazioni utente generali, assicurati **[!UICONTROL Modifica eventi]** e **[!UICONTROL Modifica le Attività]** sono selezionati.
+1. Nella sezione Autorizzazioni utente generali, assicurati che siano selezionati **[!UICONTROL Modifica eventi]** e **[!UICONTROL Modifica attività]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
-1. Nella sezione Autorizzazioni oggetto standard, assicurati che **[!UICONTROL Letto]**, **[!UICONTROL Crea]**, **[!UICONTROL Modifica]**, e **[!UICONTROL Elimina]** Le autorizzazioni vengono controllate per Account e Contatti.
+1. Nella sezione Autorizzazioni oggetto standard, assicurati che le autorizzazioni **[!UICONTROL Lettura]**, **[!UICONTROL Creazione]**, **[!UICONTROL Modifica]** e **[!UICONTROL Elimina]** siano verificate per account e contatti.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-14.png)
 
-1. Nella sezione Autorizzazioni oggetto personalizzato verificare che le autorizzazioni di lettura siano verificate **[!UICONTROL Chiamata]**, **[!UICONTROL Chiama messaggio chiave]** e qualsiasi altro oggetto personalizzato desiderato.
+1. Nella sezione Autorizzazioni oggetto personalizzato verificare che le autorizzazioni di lettura siano verificate per **[!UICONTROL Chiamata]**, **[!UICONTROL Messaggio chiave chiamata]** e per qualsiasi altro oggetto personalizzato desiderato.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-15.png)
 
-1. Al termine, fai clic su **[!UICONTROL Salva]** nella parte inferiore della pagina.
+1. Al termine, fare clic su **[!UICONTROL Salva]** nella parte inferiore della pagina.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-16.png)
 
@@ -130,7 +130,7 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
    >
    >Questo passaggio impedisce la visualizzazione dei campi non necessari in Marketo, riducendo il disordine e velocizzando la sincronizzazione.
 
-1. Nella pagina dei dettagli del profilo, vai a [!UICONTROL Sicurezza a livello di campo] sezione. Clic **[!UICONTROL Visualizza]** per modificare l&#39;accessibilità per gli oggetti Contatto e Account.
+1. Nella pagina dei dettagli del profilo, vai alla sezione [!UICONTROL Sicurezza a livello di campo]. Fare clic su **[!UICONTROL Visualizza]** per modificare l&#39;accessibilità per gli oggetti Contatto e Account.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-17.png)
 
@@ -138,11 +138,11 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
    >
    >Puoi configurare altri oggetti in base alle esigenze della tua organizzazione.
 
-1. Per ogni oggetto, fai clic su **[!UICONTROL Modifica]**.
+1. Per ogni oggetto, fare clic su **[!UICONTROL Modifica]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-1. Individuare i campi non necessari, verificare che Accesso in lettura e Accesso in modifica siano _non selezionato_. Clic **[!UICONTROL Salva]** al termine.
+1. Individuare i campi non necessari, assicurarsi che Accesso in lettura e Accesso in modifica siano _deselezionati_. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
@@ -150,7 +150,7 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
    >
    >Modifica solo l’accessibilità per i campi personalizzati.
 
-1. Dopo aver disattivato tutti i campi non necessari, selezionare Accesso in lettura e Accesso in modifica per i campi oggetto seguenti. Clic **[!UICONTROL Salva]** al termine.
+1. Dopo aver disattivato tutti i campi non necessari, selezionare Accesso in lettura e Accesso in modifica per i campi oggetto seguenti. Al termine, fai clic su **[!UICONTROL Salva]**.
 
 <table>
  <tbody>
@@ -181,15 +181,15 @@ Marketo richiede le credenziali per accedere a Veeva CRM. Questa operazione può
 >
 >Se la tua organizzazione non dispone di licenze CRM aggiuntive per Veeva, puoi utilizzare un utente Marketing esistente con il profilo Amministratore di sistema.
 
-1. Immetti &quot;users&quot; (Utenti) nella barra di ricerca di navigazione e fai clic su **[!UICONTROL Utenti]** in Gestisci utenti.
+1. Immetti &quot;users&quot; (Utenti) nella barra di ricerca di navigazione e fai clic su **[!UICONTROL Users]** in Manage Users (Gestisci utenti).
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-20.png)
 
-1. Clic **[!UICONTROL Nuovo utente]**.
+1. Fare clic su **[!UICONTROL Nuovo utente]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-21.png)
 
-1. Compila i campi obbligatori, seleziona la Licenza utente: Salesforce, imposta il Profilo: Utente di Marketo Sync, quindi fai clic su **[!UICONTROL Salva]**.
+1. Compila i campi obbligatori, seleziona la Licenza utente: Salesforce, imposta il profilo: Utente Marketo Sync e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-22.png)
 
@@ -201,4 +201,4 @@ Eccellente! Ora hai un account che il Marketo Engage può utilizzare per connett
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: collegare Marketo e Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}
+>[Passaggio 3 di 3: connettere Marketo e Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/setup/step-3-of-3-connect-marketo-engage-and-veeva-crm.md){target="_blank"}

@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ascolta e agisci su importanti attività comportamentali a livello di account tra diversi canali (ad esempio e-mail, web, annunci) utilizzando i trigger a livello di account.
 
-Seleziona la tua campagna intelligente e fai clic su **[!UICONTROL Elenco avanzato]**.
+Seleziona la tua campagna avanzata e fai clic su **[!UICONTROL Elenco avanzato]**.
 
 ![](assets/one-1.png)
 
@@ -23,7 +23,7 @@ Immettere &quot;Named Account&quot; nella casella di ricerca per trovare entramb
 
 ![](assets/two-1.png)
 
-Trascina il trigger desiderato nell’area di lavoro. In questo esempio utilizziamo _Aggiunto all&#39;account denominato_.
+Trascina il trigger desiderato nell’area di lavoro. In questo esempio stiamo utilizzando _Aggiunto all&#39;account denominato_.
 
 ![](assets/three-1.png)
 

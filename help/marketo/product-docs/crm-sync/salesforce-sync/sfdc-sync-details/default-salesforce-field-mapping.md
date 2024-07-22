@@ -7,7 +7,7 @@ feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 43%
+ht-degree: 44%
 
 ---
 
@@ -34,8 +34,8 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Salesforce, Ma
 | Convertito | SFDC è stato convertito |
 | Eliminato | SFDC è stato eliminato |
 | Cognome | Cognome |
-| Fonte lead | Origine |
-| Punteggio lead | Punteggio |
+| Fonte Lead | Origine |
+| Punteggio Lead | Punteggio |
 | Telefono cellulare | Numero di telefono |
 | Dipendenti | Numero dipendenti |
 | Telefono | Numero di telefono |
@@ -61,8 +61,8 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Salesforce, Ma
 | Rinuncia e-mail | Annulla l&#39;iscrizione |
 | Eliminato | SFDC è stato eliminato |
 | Cognome | Cognome |
-| Fonte lead | Origine |
-| Punteggio lead | Punteggio |
+| Fonte Lead | Origine |
+| Punteggio Lead | Punteggio |
 | MailingCity | Città |
 | MailingCountry | Paese |
 | CodicePostaleMailing | Codice postale |

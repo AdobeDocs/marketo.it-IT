@@ -19,7 +19,7 @@ Utilizza le colonne per ordinare i dati nel rapporto e individuare facilmente le
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il rapporto dalla struttura di navigazione e fai clic sul pulsante **Report** scheda.
+1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Report**.
 
    ![](assets/reports2.jpg)
 
@@ -33,4 +33,4 @@ Utilizza le colonne per ordinare i dati nel rapporto e individuare facilmente le
 
    >[!MORELIKETHIS]
    >
-   >[Seleziona colonne rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)
+   >[Seleziona colonne report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)

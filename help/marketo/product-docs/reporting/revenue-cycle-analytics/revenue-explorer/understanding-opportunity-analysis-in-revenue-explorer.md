@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -31,13 +31,13 @@ Di seguito sono riportati alcuni rapporti che è possibile creare nell’area An
 
    ![](assets/image2015-7-21-16-3a41-3a55.png)
 
-1. Opportunità chiusa dall&#39;origine lead
+1. Opportunità chiusa dal lead Source
 
    Questo rapporto suddivide tutte le opportunità chiuse per origine lead e fornisce una panoramica chiara di quali origini funzionano e quali no.
 
    ![](assets/image2015-7-21-10-3a34-3a50.png)
 
-1. Tempo di chiusura per origine
+1. Tempo di chiusura per Source
 
    Questo rapporto illustra la relazione tra la media dei giorni per la chiusura di un&#39;opportunità e l&#39;origine del lead.
 
@@ -67,7 +67,7 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
    | Città | La città in cui si trova l’azienda |
    | Paese | La provincia in cui si trova la società |
    | Settore | Settore di attività dell&#39;azienda |
-   | Nome azienda | Nome della società |
+   | Nome della società | Nome della società |
    | Numero di dipendenti | Numero di dipendenti nella società |
    | Codice postale | Codice postale della società |
    | Codice SIC (Standard Industrial Classification) | Codice SIC della società |
@@ -85,12 +85,12 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
    | Qualifica | Qualifica del lead |
    | Nome completo | Nome e cognome del lead |
    | Tipo di sorgente originale | Tipo di origine del lead |
-   | Registra tipo di origine | Tipo di origine registrato del lead |
+   | Registra tipo di Source | Tipo di origine registrato del lead |
    | Indirizzo e-mail proprietario lead | Indirizzo e-mail del proprietario del lead |
    | Qualifica proprietario lead | Qualifica del proprietario del lead |
    | Nome proprietario lead | Nome del proprietario del lead |
-   | Fonte lead | Sorgente lead |
-   | Stato lead | Stato lead |
+   | Fonte Lead | Sorgente lead |
+   | Stato Lead | Stato lead |
 
 1. Intervallo temporale creato dal lead
 
@@ -108,10 +108,10 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
    |---|---|
    | Opportunità chiusa | L’opportunità è chiusa |
    | Categoria previsione opportunità | Categoria previsione opportunità |
-   | Nome dell’opportunità | Nome opportunità |
+   | Nome opportunità | Nome opportunità |
    | Fase dell’opportunità | Fase dell’opportunità |
    | Tipo di opportunità | Tipo di opportunità |
-   | Opportunità acquisita | Questa opportunità è chiusa e vinta? |
+   | Opportunità vinta | Questa opportunità è chiusa e vinta? |
    | Opportunità Influenzata Dal Marketing | Questo flag indica se uno dei lead/contatti è stato acquisito o ha raggiunto il successo in un programma di marketing. Vengono considerati solo i programmi per i quali è stato definito un costo di periodo. |
 
 1. Intervallo temporale chiuso dell’opportunità
@@ -136,7 +136,7 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
 
 1. Misure
 
-   | Misura | Descrizione |
+   | Misurare | Descrizione |
    |---|---|
    | Media giorni per chiusura opportunità | Numero medio di giorni per la chiusura di un&#39;opportunità |
    | Media giorni per chiusura opportunità (perduta) | Numero medio di giorni per un&#39;opportunità persa |
@@ -153,6 +153,6 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
 
 >[!MORELIKETHIS]
 >
->* [Creare un rapporto di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
->* [Aggiunta di campi a un rapporto di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
->* [Iscriviti a un rapporto di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>* [Crea un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/create-a-revenue-explorer-report.md)
+>* [Aggiunta di campi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md)
+>* [Abbonati a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

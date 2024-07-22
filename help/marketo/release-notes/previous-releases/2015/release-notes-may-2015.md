@@ -6,7 +6,7 @@ exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Stiamo rilasciando una nuova modalità di modifica della pagina di destinazione 
 
 [Interrompi programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
-Hai premuto Invia prima che un programma e-mail fosse pronto per essere inviato? Tirare i freni con il nuovo pulsante del programma e-mail di interruzione. In questo modo i programmi e-mail in-flight verranno interrotti immediatamente.
+Hai premuto Invia prima che un programma e-mail fosse pronto per essere inviato? Tirare i freni con il nuovo pulsante del programma e-mail di interruzione. In questo modo i programmi e-mail in-flight si interromperanno immediatamente.
 
 ## Recapito e-mail  {#email-deliverability}
 
@@ -39,7 +39,7 @@ A partire da questa versione, i commenti validi di HTML sono ora consentiti e no
 
 ## RTP: trascinamento dell’editor di segmenti {#rtp-drag-and-drop-segment-editor}
 
-RTP: [Trascina e rilascia l’editor di segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
+RTP: [Trascina e rilascia l&#39;editor di segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md)
 
 Trascina e rilascia i criteri nel generatore di segmenti, definisci il valore e sei sulla strada giusta per creare un segmento in tempo reale.
 

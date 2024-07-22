@@ -6,7 +6,7 @@ exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -36,12 +36,12 @@ Le campagne facebook Lead Ads generano lead e li inviano a Marketo per l’utili
 >
 >Senza conversioni offline, l&#39;inserzionista probabilmente investirebbe più soldi in Ad 3. Con i dati di conversione offline, l’inserzionista investirà più probabilmente in Ad 1.
 
-È possibile [configurare Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
+Puoi [configurare Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
 
-1. Assicurati che le [Integrazione di facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) è aggiornato.
+1. Assicurati che l&#39;[integrazione di Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
 1. Mappa le fasi nel modello del ciclo dei ricavi su quelle di conversione offline in Facebook.
 1. Quando un lead Facebook viene generato da un annuncio lead Facebook e raggiunge una fase mappata, Marketo invia nuovamente i dati di conversione offline a Facebook diverse volte al giorno tramite un’API sicura e automatizzata. I dati vengono visualizzati nel rapporto di Facebook Ads Manager.
 
 >[!MORELIKETHIS]
 >
->[Configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[Configura conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

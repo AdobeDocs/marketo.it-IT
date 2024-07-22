@@ -6,7 +6,7 @@ exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
 source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -23,13 +23,13 @@ I costi del periodo si riferiscono al denaro speso in un mese specifico per un p
 >
 >Se si spendono $ 1000 per assumere un illustratore per un eBook che viene lanciato a luglio, il programma eBook avrebbe un costo di periodo di $ 1000 a luglio.
 >
->Se spendi $200 al mese per [!DNL Google Adwords] - il [!DNL Google Adwords] il programma avrebbe un costo di periodo di 200 dollari _ogni mese_.
+>Se spendi 200 dollari al mese per [!DNL Google Adwords], il programma [!DNL Google Adwords] avrà un costo di periodo di 200 dollari _ogni mese_.
 
 >[!NOTE]
 >
 >[Informazioni sui programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Informazioni sull’iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Modalità di calcolo dei costi del periodo {#how-period-costs-are-calculated}
 
@@ -39,7 +39,7 @@ Immaginate un evento, come un webinar, che si verifica a marzo. Le nuove persone
 
    ![](assets/graph1.png)
 
-   ...contatti aggiunti nei mesi precedenti e successivi verranno *solo* contare verso marzo.
+   ...i contatti aggiunti nei mesi precedenti e successivi contano *solo* per marzo.
 
    ![](assets/graph2.png)
 
@@ -61,9 +61,9 @@ Immaginate un evento, come un webinar, che si verifica a marzo. Le nuove persone
 
    >[!NOTE]
    >
-   >In sintesi: se per un mese non è definito alcun periodo, i costi verranno riportati all&#39;ultimo periodo definito. Se non è presente alcun costo del periodo precedente, i mesi verranno riportati &quot;in avanti&quot; al successivo periodo definito. Se non è stato definito un costo di periodo per _qualsiasi_ mesi, il reporting in RCE non sarà disponibile per il programma.
+   >In sintesi: se per un mese non è definito alcun periodo, i costi verranno riportati all&#39;ultimo periodo definito. Se non è presente alcun costo del periodo precedente, i mesi verranno riportati &quot;in avanti&quot; al successivo periodo definito. Se per _qualsiasi_ mesi non è stato definito un costo per il periodo, il reporting in RCE non sarà disponibile per il programma.
 
    >[!MORELIKETHIS]
    >
    >* [Utilizzo dei costi del periodo in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/using-period-costs-in-a-program.md)
-   >* [Filtrare un rapporto Programma per costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)
+   >* [Filtrare un report di programma per costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/filter-a-program-report-by-period-cost.md)

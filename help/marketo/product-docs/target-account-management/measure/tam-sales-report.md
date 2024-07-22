@@ -17,7 +17,7 @@ Ricevi un’e-mail settimanale contenente i tuoi account principali e le relativ
 
 >[!NOTE]
 >
->Scopri come impostare questo rapporto [qui](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
+>Scopri come impostare il report [qui](/help/marketo/product-docs/target-account-management/measure/tam-report-setup.md).
 
 La relazione riporta:
 

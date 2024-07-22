@@ -6,7 +6,7 @@ exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
 source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Ci sono diverse cose da fare per prepararsi all&#39;evento.
 
 ## Crea un nuovo ruolo Marketo {#create-a-new-marketo-role}
 
-Marketo ha un ruolo utente speciale per l’app di archiviazione degli eventi. [Crea un nuovo ruolo Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) per [!DNL iPad] o [!DNL Android] utenti, con l’autorizzazione di accedere all’app mobile.
+Marketo ha un ruolo utente speciale per l’app di archiviazione degli eventi. [Crea un nuovo ruolo di Marketo](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) per [!DNL iPad] o [!DNL Android] utenti, con l&#39;autorizzazione per accedere all&#39;app mobile.
 
 ## Invita nuovi utenti Tablet PC all&#39;evento {#invite-new-tablet-users-to-the-event}
 
-[Invita nuovi utenti tablet all&#39;evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e assegnargli il nuovo ruolo.
+[Invita nuovi utenti Tablet PC all&#39;evento](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/grant-users-access-to-the-check-in-app.md) e assegna loro il nuovo ruolo.
 
 ## Creazione di un nuovo programma eventi di Marketo {#create-a-new-marketo-event-program}
 
-[Creazione di un nuovo programma eventi di Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) acquisire lo stato delle persone durante il loro avanzamento in diverse fasi e ottenere misurazioni accurate del ROI per le iniziative di marketing.
+[Crea un nuovo programma eventi di Marketo](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md) per acquisire lo stato delle persone durante il loro avanzamento in diverse fasi e ottenere misurazioni accurate del ROI per le iniziative di marketing.
 
 ## Specificare le date dell&#39;evento {#specify-the-event-dates}
 
@@ -39,39 +39,39 @@ Impostare le date dell&#39;evento è un&#39;operazione immediata.
 
    ![](assets/image2016-4-6-15-3a27-3a35.png)
 
-1. Scorri verso l&#39;alto per cambiare **[!UICONTROL Provvisorio]** a **[!UICONTROL Confermato]**.
+1. Scorri per cambiare **[!UICONTROL Provvisorio]** in **[!UICONTROL Confermato]**.
 
    ![](assets/image2016-4-6-15-3a30-3a57.png)
 
    >[!CAUTION]
    >
-   >Se la data dell’evento è anteriore o posteriore di più di una settimana alla data corrente, l’evento non verrà visualizzato nell’app. **Suggerimento**: per eseguire il test, imposta temporaneamente le date su entro una settimana dalla data odierna. Ricordati di ripristinare le date corrette dell’evento dopo averlo testato.
+   >Se la data dell’evento è anteriore o posteriore di più di una settimana alla data corrente, l’evento non verrà visualizzato nell’app. **Suggerimento**: per testarlo, imposta temporaneamente le date entro una settimana da oggi. Ricordati di ripristinare le date corrette dell’evento dopo averlo testato.
 
 ## Aggiungi persone al tuo evento {#add-people-to-your-event}
 
-Ora che conosci _quando_, è ora di aggiungere *chi*.
+Ora che conosci _quando_, è il momento di aggiungere *chi*.
 
-1. Se si dispone già di un elenco di persone, in Il mio Marketo fare clic sul pulsante **[!UICONTROL Database]** affiancare.
+1. Se si dispone già di un elenco di persone, in My Marketo fare clic sul riquadro **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
-1. Seleziona un elenco con persone e fai clic su **[!UICONTROL Persone]** scheda.
+1. Seleziona un elenco di persone e fai clic sulla scheda **[!UICONTROL Persone]**.
 
    ![](assets/four.png)
 
-1. Seleziona dall’elenco le persone per il tuo evento. Utilizzare **[!UICONTROL Ctrl]** (o **[!UICONTROL Comando]** su un Mac) per fare clic su più persone, oppure **[!UICONTROL Seleziona tutto]** per contrassegnarli tutti.
+1. Seleziona dall’elenco le persone per il tuo evento. Utilizza **[!UICONTROL Ctrl]** (o **[!UICONTROL Comando]** su un Mac) per fare clic su più persone, oppure **[!UICONTROL Seleziona tutto]** per contrassegnarle tutte.
 
    ![](assets/five.png)
 
-1. Clic **[!UICONTROL Azioni della persona]**, passaggio del mouse **[!UICONTROL Programmi]** e seleziona **[!UICONTROL Modifica stato programma]**.
+1. Fai clic su **[!UICONTROL Azioni persona]**, passa il puntatore del mouse su **[!UICONTROL Programmi]** e seleziona **[!UICONTROL Cambia stato programma]**.
 
    ![](assets/six.png)
 
-1. Fai clic su **[!UICONTROL Programma]** e seleziona l’evento.
+1. Fai clic sull&#39;elenco a discesa **[!UICONTROL Programma]** e seleziona l&#39;evento.
 
    ![](assets/seven.png)
 
-1. Fai clic su **[!UICONTROL Nuovo stato]** a discesa e selezionare **[!UICONTROL Roadshow] > [!UICONTROL Registrato]**. Clic **[!UICONTROL Esegui ora]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Nuovo stato]** e seleziona **[!UICONTROL Roadshow] > [!UICONTROL Registrato]**. Fare clic su **[!UICONTROL Esegui ora]**.
 
    ![](assets/eight.png)
 

@@ -24,19 +24,19 @@ Sta a te decidere! Decidi quali informazioni sono rilevanti per il tuo team di v
 
 ## Come posso creare un momento interessante? {#how-do-i-create-an-interesting-moment}
 
-1. Scegli un [campagna intelligente](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, preferibilmente uno che il tuo team di vendita troverebbe interessante se attivato.
+1. Scegli una [campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}, preferibilmente una che il tuo team di vendita troverebbe interessante se venisse attivata.
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Trascina sulla **Momenti di interesse** passaggio di flusso.
+1. Trascina sul passaggio del flusso **Momenti di interesse**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
-1. Seleziona un **tipo** (E-mail, Milestone o Web).
+1. Seleziona un **tipo** (e-mail, milestone o Web).
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Scrivi un messaggio al tuo team vendite nella sezione **Descrizione** che spiega perché questa azione è importante.
+1. Scrivi un messaggio al tuo team vendite nel campo **Descrizione** che spiega perché questa azione è importante.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -46,7 +46,7 @@ Sta a te decidere! Decidi quali informazioni sono rilevanti per il tuo team di v
 
 ## Come appare un momento interessante in Marketo?  {#what-does-an-interesting-moment-look-like-in-marketo}
 
-I momenti interessanti verranno visualizzati in una [registro attività del lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
+I momenti interessanti verranno visualizzati nel registro attività di un [lead](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md){target="_blank"}.
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 

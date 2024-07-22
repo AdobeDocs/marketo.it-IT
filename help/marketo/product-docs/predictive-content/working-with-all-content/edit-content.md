@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi apportare alcune modifiche alle inserzioni nella pagina Tutto il contenuto.
 
-1. Il giorno **Tutti i contenuti** , passa il puntatore del mouse sulla riga del titolo da modificare e fai clic sull&#39;icona di modifica.
+1. Nella pagina **Tutti i contenuti**, posiziona il cursore del mouse sulla riga del titolo che desideri modificare e fai clic sull&#39;icona di modifica.
 
    ![](assets/image2017-10-3-9-3a8-3a1.png)
 
@@ -23,10 +23,10 @@ Puoi apportare alcune modifiche alle inserzioni nella pagina Tutto il contenuto.
 
    ![](assets/edit-content-2.png)
 
-1. Fai clic su **Categorie** per aggiungere/rimuovere categorie. Seleziona nuove dal menu a discesa. È possibile rimuovere una categoria attualmente selezionata facendo clic sulla relativa **X**.
+1. Fai clic sul campo **Categorie** per aggiungere/rimuovere categorie. Seleziona nuove dal menu a discesa. È possibile rimuovere una categoria attualmente selezionata facendo clic sulla relativa **X**.
 
    ![](assets/edit-content-3.png)
 
-1. Controlla la **Approva per contenuti predittivi** o deseleziona la casella per annullare l’approvazione. Clic **Salva** al termine.
+1. Seleziona la casella **Approva per contenuto predittivo** per approvare o deseleziona la casella per annullare l&#39;approvazione. Al termine, fai clic su **Salva**.
 
    ![](assets/edit-content-4.png)

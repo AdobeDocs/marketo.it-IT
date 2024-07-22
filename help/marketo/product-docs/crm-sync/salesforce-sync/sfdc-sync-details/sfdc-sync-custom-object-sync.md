@@ -6,7 +6,7 @@ exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
 source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 >[!PREREQUISITES]
 >
->Per utilizzare un oggetto personalizzato, è necessario associarlo a un [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"}, or [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} oggetto in Salesforce.
+>Per utilizzare un oggetto personalizzato, è necessario associarlo a un oggetto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"} o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} in Salesforce.
 
 >[!IMPORTANT]
 >
@@ -29,15 +29,15 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 ## Abilita oggetto personalizzato  {#enable-custom-object}
 
-1. Clic **[!UICONTROL Amministratore]** e **[!UICONTROL Sincronizzazione oggetti Salesforce]** collegamento.
+1. Fai clic su **[!UICONTROL Amministratore]** e sul collegamento **[!UICONTROL Sincronizzazione oggetti Salesforce]**.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Schema di sincronizzazione]**.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sincronizza schema]**.
 
    ![](assets/rtaimage-2.png)
 
-1. Clic **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Fare clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
@@ -55,11 +55,11 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >Gli oggetti personalizzati devono avere nomi univoci. Marketo non supporta due oggetti personalizzati diversi con lo stesso nome.
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]** di nuovo.
+1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,15 +67,15 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >Non dimenticare di riattivare la sincronizzazione globale.
 
-1. Torna a **Salesforce** scheda.
+1. Torna alla scheda **Salesforce**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Clic **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Abilita sincronizzazione]**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Per visualizzare tutti gli oggetti personalizzati di Salesforce, fai clic su **[!UICONTROL Amministratore]** e **[!UICONTROL Sincronizzazione oggetti Salesforce]** (come nel precedente passaggio 1).
+1. Per visualizzare tutti gli oggetti personalizzati Salesforce, fai clic su **[!UICONTROL Amministratore]** e sul collegamento **[!UICONTROL Sincronizzazione oggetti Salesforce]** (come nel passaggio 1 precedente).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
@@ -85,6 +85,6 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 ### Passaggio successivo: {#whats-next}
 
-[Aggiungi/Rimuovi campo oggetto personalizzato come vincoli di elenco avanzato/trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Aggiungi/Rimuovi campo oggetto personalizzato come elenco avanzato/vincoli trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
 Eccellente! Ora puoi utilizzare i dati di questo oggetto personalizzato nelle campagne avanzate e negli elenchi avanzati.

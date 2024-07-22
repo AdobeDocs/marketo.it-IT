@@ -17,23 +17,23 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
 
 >[!IMPORTANT]
 >
->Questo articolo è per coloro che hanno un abbonamento Everest attivo in questo momento. Se utilizzi Inbox Tracker by Bird (già MessageBird), i tutorial [si trova qui](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
+>Questo articolo è per coloro che hanno un abbonamento Everest attivo in questo momento. Se usi Inbox Tracker by Bird (già MessageBird), i tuoi tutorial [si trovano qui](/help/marketo/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.md){target="_blank"}.
 
 ## Importare un elenco di seed {#import-a-seed-list}
 
-1. In Il mio Marketo, seleziona **Strumenti di consegna**.
+1. In Il mio Marketo, seleziona **Strumenti di recapito messaggi**.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Si aprirà l&#39;applicazione Everest. Nella barra di navigazione a sinistra, fai clic su **In volo** e seleziona **Posizionamento casella in entrata**.
+1. Si aprirà l&#39;applicazione Everest. Nella barra di navigazione a sinistra, fai clic su **In-Flight** e seleziona **Posta in arrivo**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Fai clic su **Gestisci elenco seed** scheda.
+1. Fare clic sulla scheda **Gestisci elenco seed**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Fai clic sul menu a discesa Azioni e seleziona **Scarica Uno Per Riga**.
+1. Fare clic sull&#39;elenco a discesa Azioni e selezionare **Scarica uno per riga**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
@@ -41,7 +41,7 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
    >
    >Utilizza il Seed List Optimizer (Ottimizzatore elenco seed), nella parte superiore della pagina, se desideri che Everest ottimizzi la tua lista.
 
-1. Dopo l&#39;esportazione, l&#39;elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperalo, e [importa](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nell’istanza Marketo come elenco statico.
+1. Dopo l&#39;esportazione, l&#39;elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperalo e [importalo](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nella tua istanza di Marketo come elenco statico.
 
    ![](assets/email-deliverability-power-pack-5.png)
 

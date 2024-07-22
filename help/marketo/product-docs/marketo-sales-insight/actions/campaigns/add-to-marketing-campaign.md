@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->[Rendere visibile una campagna agli utenti delle vendite](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
+>[Rendi una campagna visibile agli utenti delle vendite](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/make-a-campaign-visible-to-sales-connect-users.md)
 
 ## Aggiungere persone a una campagna {#add-individuals-to-a-campaign}
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 >Per aggiungere una persona a una campagna Marketo da Sales Connect, Sales Connect deve disporre dell&#39;ID lead Marketo della persona.
 
-1. Fai clic su **Persone** Tab.
+1. Fare clic sulla scheda **Persone**.
 
    ![](assets/add-to-marketing-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. Selezionare i contatti e fare clic su **Aggiungi selezionati alla campagna**.
+1. Fai clic sulla casella di controllo per selezionare i contatti e fai clic su **Aggiungi selezionati alla campagna**.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su Singoli utenti e digitarli. Clic **Successivo** al termine.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su Singoli utenti e digitarli. Al termine, fai clic su **Avanti**.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
-1. Clic **Campagna di marketing**.
+1. Fai clic su **Campagna di marketing**.
 
 PICC
 
@@ -56,17 +56,17 @@ PICC
 >
 >Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo Team Access.
 
-1. Seleziona la campagna desiderata e fai clic su **Successivo**.
+1. Seleziona la campagna desiderata e fai clic su **Avanti**.
 
 PICC
 
-1. Vengono visualizzati i contatti idonei. Clic **Inizio** per aggiungerle.
+1. Vengono visualizzati i contatti idonei. Fai clic su **Inizio** per aggiungerli.
 
 PICC
 
 ## Aggiungere un gruppo a una campagna {#add-a-group-to-a-campaign}
 
-1. Fai clic su **Persone** Tab.
+1. Fare clic sulla scheda **Persone**.
 
 PICC
 
@@ -74,11 +74,11 @@ PICC
 
 PICC
 
-1. Clic **Aggiungi gruppo a campagna**.
+1. Fai clic su **Aggiungi gruppo a campagna**.
 
 PICC
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su Singoli utenti e digitarli. Clic **Successivo** al termine.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su Singoli utenti e digitarli. Al termine, fai clic su **Avanti**.
 
 PICC
 
@@ -98,10 +98,10 @@ PICC
 >
 >Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo Team Access.
 
-1. Seleziona la campagna desiderata e fai clic su **Successivo**.
+1. Seleziona la campagna desiderata e fai clic su **Avanti**.
 
 PICC
 
-1. Vengono visualizzati i contatti idonei. Clic **Inizio** per aggiungerle.
+1. Vengono visualizzati i contatti idonei. Fai clic su **Inizio** per aggiungerli.
 
 PICC

@@ -6,7 +6,7 @@ exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---
@@ -23,13 +23,13 @@ Gli elementi sono i diversi contenuti che compongono una pagina di destinazione.
 
 Quando modifichi una pagina di destinazione guidata, gli elementi vengono visualizzati se sono stati contrassegnati come modificabili nel modello. Gli elementi avranno le seguenti icone:
 
-* ![--](assets/image2015-5-20-12-3a30-3a48.png) Immagine
+* ![—](assets/image2015-5-20-12-3a30-3a48.png) immagine
 * ![—](assets/image2015-5-20-12-3a31-3a33.png)Marketo Form
-* ![--](assets/image2015-5-20-12-3a41-3a21.png)Testo
+* ![—](assets/image2015-5-20-12-3a41-3a21.png)Testo
 * ![—](assets/image2015-5-20-12-3a42-3a47.png)Video
-* ![—](assets/image2015-5-20-12-3a44-3a17.png)Pulsante Condividi di Marketo
+* ![—](assets/image2015-5-20-12-3a44-3a17.png)Pulsante Condividi Marketo
 * ![—](assets/image2015-5-20-12-3a43-3a21.png)Sondaggio Marketo
-* ![—](assets/image2015-5-20-12-3a43-3a2.png)Referral Marketo
+* ![—](assets/image2015-5-20-12-3a43-3a2.png)Riferimento Marketo
 * ![—](assets/image2015-5-20-12-3a44-3a40.png)Marketo Sweepstakes
 * ![—](assets/image2015-5-20-12-3a47-3a45.png)Snippet Marketo
 

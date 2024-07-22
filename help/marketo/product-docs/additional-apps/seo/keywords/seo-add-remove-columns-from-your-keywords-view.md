@@ -7,7 +7,7 @@ feature: SEO
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È possibile regolare la visualizzazione delle parole chiave per visualizzare i dati di interesse.
 
-1. Vai a **[!UICONTROL Parole chiave]** sezione.
+1. Vai alla sezione **[!UICONTROL Parole chiave]**.
 
    ![](assets/image2014-9-18-13-3a37-3a31.png)
 
@@ -27,7 +27,7 @@ ht-degree: 0%
 
    ![](assets/image2014-9-18-13-3a37-3a39.png)
 
-1. Seleziona o deseleziona le colonne da visualizzare. Clic **[!UICONTROL Salva]**.
+1. Seleziona o deseleziona le colonne da visualizzare. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-9-18-13-3a37-3a42.png)
 
@@ -37,4 +37,4 @@ ht-degree: 0%
 
    >[!MORELIKETHIS]
    >
-   >[Informazioni sulle parole chiave - Vista di riepilogo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
+   >[Informazioni sulle parole chiave - Visualizzazione riepilogo](/help/marketo/product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)

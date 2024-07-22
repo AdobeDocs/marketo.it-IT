@@ -23,19 +23,19 @@ Quando si utilizzano i moduli internazionali, è necessario visualizzare le date
 
    ![](assets/image2014-9-15-12-3a52-3a52.png)
 
-1. Sotto **Impostazioni modulo**, fai clic su **Impostazioni**.
+1. In **Impostazioni modulo**, fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a53-3a23.png)
 
-1. Seleziona la **Lingua** di tua scelta.
+1. Seleziona la **lingua** desiderata.
 
    ![](assets/image2014-9-15-12-3a53-3a35.png)
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-12-3a53-3a43.png)
 
-1. Clic **Approva e chiudi** per applicare e salvare le modifiche.
+1. Fai clic su **Approva e chiudi** per applicare e salvare le modifiche.
 
    >[!NOTE]
    >
@@ -45,7 +45,7 @@ Quando si utilizzano i moduli internazionali, è necessario visualizzare le date
 
    >[!NOTE]
    >
-   >Ricorda a [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) create dalle modifiche apportate al modulo.
+   >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
    Questo è quanto! Gli utenti possono visualizzare la data/ora nella lingua corretta.
 

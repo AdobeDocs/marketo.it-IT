@@ -17,7 +17,7 @@ Quando si utilizzano in parallelo Marketo Sales Insight (MSI) e Marketo Sales Co
 
 >[!NOTE]
 >
->Questo interessa solo i clienti che utilizzano **entrambi** MSI e MSE e che desiderano utilizzare la funzione Elementi di maggiore rilevanza in MSI. Se non hai bisogno/utilizza gli elementi di maggiore rilevanza, puoi ignorarli.
+>Questo interessa solo i clienti che utilizzano **entrambi** MSI e MSE e che desiderano utilizzare la funzionalità Elementi di maggiore rilevanza in MSI. Se non hai bisogno/utilizza gli elementi di maggiore rilevanza, puoi ignorarli.
 
 ## Guida introduttiva {#getting-started}
 
@@ -33,26 +33,26 @@ Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e
  <tbody> 
   <tr> 
    <td>Aggiorna campo descrizione momento di interesse</td> 
-   <td><p>Copia da: ultima descrizione di Marketo Engagement<br>Copia in: Descrizione ultimo momento di interesse</p></td> 
+   <td><p>Copia da: Ultima descrizione Marketo Engagement<br>Copia in: Ultima descrizione momento di interesse</p></td> 
   </tr> 
   <tr> 
    <td>Aggiorna il campo del tipo di momento di interesse</td> 
-   <td><p>Copia da: ultimo tipo di coinvolgimento Marketo<br>Copia in: Ultimo tipo di momento di interesse</p></td> 
+   <td><p>Copia da: Ultimo tipo di coinvolgimento Marketo<br>Copia in: Ultimo tipo di momento di interesse</p></td> 
   </tr> 
   <tr> 
-   <td>Aggiorna il campo Origine momento di interesse</td> 
-   <td><p>Copia da: ultima origine di Marketo Engagement<br>Copia in: Origine ultimo momento di interesse</p></td> 
+   <td>Aggiorna il campo Source del momento di interesse</td> 
+   <td><p>Copia da: Ultimo Marketo Engagement Source<br>Copia in: Ultimo momento di interesse Source</p></td> 
   </tr> 
   <tr> 
    <td>Aggiorna il campo Data momento di interesse</td> 
-   <td><p>Copia da: data ultimo coinvolgimento Marketo<br>Copia in: data ultimo momento di interesse</p></td> 
+   <td><p>Copia da: Data ultimo coinvolgimento Marketo<br>Copia in: Data ultimo momento di interesse</p></td> 
   </tr> 
  </tbody> 
 </table>
 
 ## Istruzioni {#instructions}
 
-1. Dopo aver fatto clic su **Configurazione**, cerca **Flusso di lavoro** e seleziona **Regole flusso di lavoro**.
+1. Dopo aver fatto clic su **Configurazione**, cercare **Flusso di lavoro** e selezionare **Regole flusso di lavoro**.
 
    ![](assets/one-1.png)
 
@@ -60,19 +60,19 @@ Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e
 
    ![](assets/two-1.png)
 
-1. Fai clic sull’elenco a discesa Oggetto e seleziona **Lead**, quindi fai clic su **Successivo**.
+1. Fai clic sull&#39;elenco a discesa Oggetto e seleziona **Lead**, quindi fai clic su **Next**.
 
    ![](assets/three-1.png)
 
-1. Immetti &quot;Aggiorna campo descrizione momento di interesse&quot; come nome della regola. Seleziona il pulsante di opzione **e ogni volta che viene modificato**. Nel menu a discesa Criteri regola, seleziona **formula restituisce true**. Cercare e selezionare la funzione ISCHANGED. Quindi, evidenzia il valore del campo predefinito e fai clic su **Inserisci campo**.
+1. Immetti &quot;Aggiorna campo descrizione momento di interesse&quot; come nome della regola. Seleziona il pulsante di scelta **creato e ogni volta che viene modificato**. Nel menu a discesa Criteri regola, selezionare **la formula restituisce true**. Cercare e selezionare la funzione ISCHANGED. Quindi, evidenziare il valore del campo predefinito e fare clic su **Inserisci campo**.
 
    ![](assets/four-1.png)
 
-1. Nella finestra a comparsa &quot;Inserisci campo&quot;, scegliere **Descrizione ultimo coinvolgimento Marketo** e fai clic su **Inserisci**.
+1. Nella finestra popup &quot;Inserisci campo&quot;, scegli **Ultimo Marketo Engagement Desc** e fai clic su **Inserisci**.
 
    ![](assets/five-1.png)
 
-1. Clic **Salva e Successivo**.
+1. Fai clic su **Salva e successivo**.
 
    ![](assets/6.png)
 
@@ -80,24 +80,24 @@ Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e
 
    ![](assets/seven.png)
 
-1. Nel campo Nome, immetti &quot;Aggiorna campo descrizione momento di interesse&quot; (viene generato automaticamente un nome univoco). Nel menu a discesa Campo da aggiornare, scegli **Descrizione ultimo momento di interesse**. Seleziona la **Utilizzare una formula per impostare un nuovo valore** , quindi fare clic su **Mostra editor formule**.
+1. Nel campo Nome, immetti &quot;Aggiorna campo descrizione momento di interesse&quot; (viene generato automaticamente un nome univoco). Nel menu a discesa Campo da aggiornare, scegli **Desc ultimo momento di interesse**. Selezionare il pulsante di opzione **Utilizza una formula per impostare un nuovo valore**, quindi fare clic su **Mostra editor formule**.
 
    ![](assets/eight.png)
 
-1. Fai clic su **Inserisci campo** pulsante.
+1. Fare clic sul pulsante **Inserisci campo**.
 
    ![](assets/9a.png)
 
-1. Seleziona **Descrizione ultimo coinvolgimento Marketo** e fai clic su **Inserisci**. Nella pagina successiva fare clic su **Salva**.
+1. Selezionare **Ultima descrizione Marketo Engagement** e fare clic su **Inserisci**. Nella pagina successiva, fai clic su **Salva**.
 
    ![](assets/nine.png)
 
-1. Clic **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/twelve.png)
 
-1. Clic **Attiva** per attivare la regola del flusso di lavoro.
+1. Fai clic su **Attiva** per attivare la regola del flusso di lavoro.
 
    ![](assets/thirteen.png)
 
-   Dopo l&#39;ultimo passaggio, è possibile scegliere di clonare la regola del flusso di lavoro per gli altri campi elencati nella sezione Guida introduttiva: Desc, Type, Source, Date. Dopo aver completato le quattro regole del flusso di lavoro nell&#39;oggetto Contact, ripetere le stesse operazioni per l&#39;oggetto Lead.
+   Dopo l’ultimo passaggio, puoi scegliere di clonare la regola del flusso di lavoro per gli altri campi elencati nella sezione Guida introduttiva: Desc, Type, Source, Date. Dopo aver completato le quattro regole del flusso di lavoro nell&#39;oggetto Contact, ripetere le stesse operazioni per l&#39;oggetto Lead.

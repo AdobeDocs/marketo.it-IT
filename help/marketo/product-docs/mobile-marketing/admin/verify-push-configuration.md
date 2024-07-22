@@ -31,11 +31,11 @@ Verifica la configurazione push per assicurarti che tutto sia sincronizzato corr
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. Clic **Azioni app mobile** e seleziona **Verifica configurazione push**.
+1. Fai clic su **Azioni app mobile** e seleziona **Verifica configurazione push**.
 
    ![](assets/image2015-4-22-17-3a25-3a8.png)
 
-1. Conferma le piattaforme desiderate, leggi e fai clic su **Chiudi**.
+1. Confermare la verifica della lettura delle piattaforme desiderate e fare clic su **Chiudi**.
 
    ![](assets/image2015-4-22-18-3a52-3a38.png)
 

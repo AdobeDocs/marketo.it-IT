@@ -41,14 +41,14 @@ Le finestre di dialogo e i flussi conversazionali hanno diverse somiglianze, ma 
   </tr>
   <tr>
    <td>Le conversazioni chatbot sono alimentate da Finestre di dialogo.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms per conversazioni</a> nel Marketo Engage sono alimentati da Flussi conversazionali.</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">I Forms per conversazioni</a> nel Marketo Engage sono basati su flussi per conversazioni.</td>
   </tr>
  </tbody> 
 </table>
 
-## Scheda Progettazione flussi {#stream-designer-tab}
+## Scheda Streaming Designer {#stream-designer-tab}
 
-Progettazione flussi per flussi conversazionali è quasi identico a quello delle finestre di dialogo. [Ulteriori informazioni qui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
+Il Designer di flusso per i flussi conversazionali è quasi identico a quello per le finestre di dialogo. [Ulteriori informazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md){target="_blank"}.
 
 ![](assets/conversational-flow-overview-2.png)
 
@@ -82,8 +82,8 @@ Nella metà inferiore della scheda Impostazioni, personalizza il trigger Convers
 
 >[!TIP]
 >
->Consulta [SDK conversazioni](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione!
+>Vedi [SDK conversazioni](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione!
 
 >[!MORELIKETHIS]
 >
->[Creare un flusso conversazionale](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}
+>[Crea un flusso conversazionale](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md){target="_blank"}

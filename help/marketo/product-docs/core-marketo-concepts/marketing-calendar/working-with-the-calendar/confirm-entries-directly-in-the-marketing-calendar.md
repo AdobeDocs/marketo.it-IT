@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Campagne intelligenti e programmi e-mail possono essere creati come voci provvisorie e devono essere confermati affinché tutto accada effettivamente. Ecco come.
 
-1. Vai a **[!UICONTROL Calendario]**.
+1. Vai al **[!UICONTROL Calendario]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Selezionare la voce che si desidera confermare e fare clic su **[!UICONTROL Mostra Focus Programma]**.
+1. Selezionare la voce che si desidera confermare e fare clic su **[!UICONTROL Mostra programma attivo]**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 

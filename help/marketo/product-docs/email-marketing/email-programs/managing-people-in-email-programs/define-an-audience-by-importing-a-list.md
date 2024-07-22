@@ -6,8 +6,8 @@ exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '372'
-ht-degree: 1%
+source-wordcount: '374'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 >[!PREREQUISITES]
 >
->[Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>[Creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
 
-Dopo aver creato un programma di posta elettronica, è necessario indicare a chi inviare l&#39;e-mail. Per eseguire questa operazione: [creazione di un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando un elenco. Per eseguire questa operazione, importare un elenco.
+Dopo aver creato un programma di posta elettronica, è necessario indicare a chi inviare l&#39;e-mail. Puoi eseguire questa operazione [creando un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) o importando un elenco. Per eseguire questa operazione, importare un elenco.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 
    ![](assets/importlist.png)
 
-1. Viene visualizzata la finestra di importazione dell’elenco, fai clic su **Sfoglia** e selezionare il file da importare. Dopo aver selezionato l’elenco delle persone, fai clic su **Successivo**.
+1. Viene visualizzata la finestra di importazione dell&#39;elenco. Fare clic su **Sfoglia** e selezionare il file che si desidera importare. Dopo aver selezionato l&#39;elenco di persone, fare clic su **Avanti**.
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
    >
    >Assicurati che l’elenco sia codificato in UTF-8, UTF-16, Shift-JIS o EUC-JP e che non superi i 50 MB di dimensione del file.
 
-1. Verifica che i campi nel file siano mappati correttamente e fai clic su **Successivo**.
+1. Verifica che i campi nel file siano mappati correttamente e fai clic su **Avanti**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
    >
    >Marketo ricorderà le mappature per le importazioni future.
 
-1. Immetti un **Nome** per l’elenco e fai clic su **Importa**.
+1. Immetti un **Nome** per l&#39;elenco e fai clic su **Importa**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >Fare clic sul numero per visualizzare un elenco dettagliato delle persone bloccate dalla posta.
 >
->Utilizza il ![—](assets/image2014-10-23-16-3a32-3a36-1.png) pulsante sulla **Pubblico** riquadro per visualizzare quante persone sono qualificate per ricevere l’e-mail in base ai criteri dell’elenco avanzato. Sottrarre il numero Bloccato dal numero Persone per ottenere il numero totale di persone che riceveranno l&#39;e-mail.
+>Utilizza il pulsante ![—](assets/image2014-10-23-16-3a32-3a36-1.png) nella sezione **Pubblico** per vedere quante persone sono qualificate per ricevere l&#39;e-mail in base ai criteri dell&#39;elenco avanzato. Sottrarre il numero Bloccato dal numero Persone per ottenere il numero totale di persone che riceveranno l&#39;e-mail.
 
 >[!TIP]
 >
@@ -81,5 +81,5 @@ Fantastico! Ora è il momento di scegliere un’e-mail già esistente o di crear
 
 >[!MORELIKETHIS]
 >
->* [Scegli un messaggio e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
->* [Creare un messaggio e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)
+>* [Scegli un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md)
+>* [Creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md)

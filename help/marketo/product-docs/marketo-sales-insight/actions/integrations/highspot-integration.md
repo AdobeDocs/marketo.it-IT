@@ -20,15 +20,15 @@ Le vendite possono accedere alle funzionalità Highspot da Sales Insight Actions
 >
 >Per abilitare Highspot per l&#39;istanza delle azioni Sales Insight, è necessario disporre dei privilegi di amministratore.
 
-1. Fai clic sull’icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
 
    ![](assets/highspot-integration-1.png)
 
-1. Sotto **Impostazioni di amministrazione**, seleziona **Generale**.
+1. In **Impostazioni amministratore**, selezionare **Generale**.
 
    ![](assets/highspot-integration-2.png)
 
-1. Scorri fino a **Integrazioni** e fare clic sul dispositivo di scorrimento per attivare Highspot.
+1. Scorri fino alla scheda **Integrazioni** e fai clic sul cursore per abilitare Highspot.
 
    ![](assets/highspot-integration-3.png)
 
@@ -40,7 +40,7 @@ Ora gli utenti visualizzano un’opzione per selezionare Highspot quando si sele
 
 Accedi a Highspot e aggiungi contenuto alle e-mail dalla finestra di composizione Azioni approfondimenti vendite, dall’editor di modelli e dall’editor e-mail della campagna di vendita. Di seguito sono riportati i passaggi per accedere al contenuto dalla finestra di composizione.
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo; in questo esempio selezioniamo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo; in questo esempio stiamo selezionando **Componi** nell&#39;intestazione).
 
    ![](assets/highspot-integration-5.png)
 
@@ -48,7 +48,7 @@ Accedi a Highspot e aggiungi contenuto alle e-mail dalla finestra di composizion
 
    ![](assets/highspot-integration-6.png)
 
-1. Scriva il suo messaggio. Fai clic sul punto dell’e-mail in cui desideri inserire il contenuto Highspot. Fai clic sul menu a discesa della freccia (accanto all’icona dell’immagine) e seleziona **Highspot**.
+1. Scriva il suo messaggio. Fai clic sul punto dell’e-mail in cui desideri inserire il contenuto Highspot. Fai clic sull&#39;elenco a discesa della freccia (accanto all&#39;icona dell&#39;immagine) e seleziona **Area sensibile**.
 
    ![](assets/highspot-integration-7.png)
 
@@ -56,7 +56,7 @@ Accedi a Highspot e aggiungi contenuto alle e-mail dalla finestra di composizion
 
    ![](assets/highspot-integration-8.png)
 
-1. Seleziona il contenuto desiderato e fai clic su **Aggiungi contenuto** pulsante.
+1. Seleziona il contenuto desiderato e fai clic sul pulsante **Aggiungi contenuto**.
 
    ![](assets/highspot-integration-9.png)
 

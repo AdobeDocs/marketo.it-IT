@@ -6,7 +6,7 @@ exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ I programmi di coinvolgimento possono contenere più flussi. Ecco come aggiunger
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleziona il programma di coinvolgimento e fai clic su **Flussi** scheda.
+1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **Streams**.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Clic **Aggiungi flusso**.
+1. Fare clic su **Aggiungi flusso**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

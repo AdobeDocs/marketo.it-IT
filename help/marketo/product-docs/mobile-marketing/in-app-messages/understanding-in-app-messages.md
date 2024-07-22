@@ -22,19 +22,19 @@ Utilizza i messaggi in-app per interagire direttamente con i clienti mentre util
 
 >[!NOTE]
 >
->**Esempio 1**: all’apertura dell’app viene visualizzata la promozione &quot;Vendita estiva&quot;.
+>**Esempio 1**: la promozione &quot;Vendita estiva&quot; viene visualizzata all&#39;apertura dell&#39;app.
 >
->**Esempio 2**: mentre guardi un video medico, pianifica una visita medica e attiva un buono sconto di 40 dollari.
+>**Esempio 2**: durante la visione di un video medico, pianifica una visita medica e attiva un buono sconto di 40 dollari.
 
 Prima di poter creare e inviare messaggi in-app per la tua app mobile, dovrai rivolgerti al tuo amministratore di Marketo e allo sviluppatore di app mobili per eseguire alcune impostazioni.  Il processo di produzione dei messaggi in-app prevede tre passaggi:
 
 ## Passaggio 1: l’amministratore e lo sviluppatore eseguono le impostazioni iniziali {#step-admin-and-developer-perform-initial-setups}
 
-L’amministratore di Marketo e lo sviluppatore di app per dispositivi mobili collaborano per effettuare la configurazione. Consulta [Prima di creare notifiche push e messaggi in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md) per i dettagli.
+L’amministratore di Marketo e lo sviluppatore di app per dispositivi mobili collaborano per effettuare la configurazione. Per informazioni dettagliate, consulta [Prima di creare notifiche push e messaggi in-app](/help/marketo/product-docs/mobile-marketing/admin/before-you-create-push-notifications-and-in-app-messages.md).
 
 ## Passaggio 2: creare un messaggio in-app {#step-create-an-in-app-message}
 
-Tu [creare un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) utilizzando l’editor online.
+[creare un messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-an-in-app-message.md) utilizzando l&#39;editor online.
 
 ## Passaggio 3: invia {#step-send}
 

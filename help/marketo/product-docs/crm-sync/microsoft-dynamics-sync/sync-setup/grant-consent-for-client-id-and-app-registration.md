@@ -5,7 +5,7 @@ exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
 source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Segui i passaggi seguenti per scoprire come concedere il consenso/le autorizzazi
     </tbody> 
    </table>
 
-   L’URL finale sarà simile al seguente: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
+   L&#39;URL finale deve essere simile al seguente: `https://login.microsoftonline.com/common/oauth2/authorize?client_id=xxxxxx-xxxx-xxxx-xxxx-xxxxxxxx&response_type=code&redirect_uri=https://www.marketo.com&response_mode=query&state=12345`
 
 1. Apri l’URI creato in qualsiasi browser.
 
@@ -65,24 +65,24 @@ Segui i passaggi seguenti per scoprire come concedere il consenso/le autorizzazi
    >
    >Se hai già effettuato l’accesso ad Azure come Amministratore in un’altra scheda, dovrai utilizzare un browser diverso o la modalità in incognito per accedere come utente di sincronizzazione.
 
-1. Clic **[!UICONTROL Accetta]**.
+1. Fare clic su **[!UICONTROL Accetta]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-3.png)
 
 ## Concedi il consenso per tutti gli utenti {#grant-consent-for-all-users}
 
-In qualità di amministratore, puoi anche acconsentire alle autorizzazioni delegate di un’applicazione per conto di tutti gli utenti nel tenant. Il consenso amministrativo impedisce la visualizzazione della finestra di dialogo del consenso per ogni utente nel tenant e può essere eseguito nel portale di Azure dagli utenti con il ruolo di amministratore. Scopri quali ruoli amministratore possono [consenso alle autorizzazioni delegate qui](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
+In qualità di amministratore, puoi anche acconsentire alle autorizzazioni delegate di un’applicazione per conto di tutti gli utenti nel tenant. Il consenso amministrativo impedisce la visualizzazione della finestra di dialogo del consenso per ogni utente nel tenant e può essere eseguito nel portale di Azure dagli utenti con il ruolo di amministratore. Scopri quali ruoli di amministratore possono [concedere autorizzazioni delegate qui](https://docs.microsoft.com/en-us/azure/active-directory/roles/permissions-reference).
 
 1. Nel portale di Azure, passa alla home page dell’applicazione.
 
-1. In Gestisci, fai clic su **[!UICONTROL Autorizzazioni API]**.
+1. In Gestisci fare clic su **[!UICONTROL Autorizzazioni API]**.
 
    ![](assets/grant-consent-for-client-id-app-registration-4.png)
 
-1. Fai clic su **[!UICONTROL Concedere il consenso dell’amministratore]** (per tenant).
+1. Fai clic sul pulsante **[!UICONTROL Concedi il consenso amministratore]** (per il tenant).
 
    ![](assets/grant-consent-for-client-id-app-registration-5.png)
 
-1. Clic **[!UICONTROL Sì]** per confermare.
+1. Fai clic su **[!UICONTROL Sì]** per confermare.
 
    ![](assets/grant-consent-for-client-id-app-registration-6.png)

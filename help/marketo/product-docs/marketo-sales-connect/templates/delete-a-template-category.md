@@ -13,9 +13,9 @@ ht-degree: 0%
 
 # Eliminare una categoria di modelli {#delete-a-template-category}
 
-1. Fai clic sull’icona del menu accanto a una categoria, quindi fai clic su **Elimina**.
+1. Fare clic sull&#39;icona del menu accanto a una categoria, quindi fare clic su **Elimina**.
 
-1. Clic **Elimina** per confermare.
+1. Fai clic su **Elimina** per confermare.
 
 >[!NOTE]
 >

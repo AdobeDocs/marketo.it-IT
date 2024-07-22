@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Se non vedi il registro chiamate a Salesforce, è possibile che non sia possibile individuare un lead o un contatto in Salesforce.
 
-Affinché le chiamate possano accedere al lead/contatto corretto, Sales Connect deve disporre dell&#39;ID Salesforce. Il modo migliore per aggiungere l&#39;ID Salesforce a Sales Connect consiste nell&#39;utilizzare [Invia a Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md) funzionalità. Quando utilizzi Push to Sales Connect, includiamo l’ID Salesforce nella migrazione dei contatti.
+Affinché le chiamate possano accedere al lead/contatto corretto, Sales Connect deve disporre dell&#39;ID Salesforce. Il modo migliore per aggiungere l&#39;ID Salesforce a Sales Connect consiste nell&#39;utilizzare la funzionalità [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Quando utilizzi Push to Sales Connect, includiamo l’ID Salesforce nella migrazione dei contatti.

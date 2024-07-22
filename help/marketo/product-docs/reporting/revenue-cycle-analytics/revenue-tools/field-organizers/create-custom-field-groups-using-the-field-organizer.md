@@ -6,7 +6,7 @@ exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '1000'
 ht-degree: 2%
 
 ---
@@ -36,15 +36,15 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
 ## Crea gruppo di campi personalizzato - Editor di stringhe {#create-custom-field-group-string-editor}
 
-1. Clic **Database lead**.
+1. Fare clic su **Database lead**.
 
    ![](assets/one.png)
 
-1. Clic **Nuovo**, e seleziona **Crea Organizzatore Campi**.
+1. Fai clic su **Nuovo** e seleziona **Nuovo organizzatore campi**.
 
    ![](assets/two.png)
 
-1. Clic **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all’editor di stringhe (vedi tabella nella sezione precedente). Il paese è utilizzato qui.
+1. Fai clic su **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedi tabella nella sezione precedente). Il paese è utilizzato qui.
 
    ![](assets/three.png)
 
@@ -60,7 +60,7 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    ![](assets/five.png)
 
-1. Per impostazione predefinita, tutti i valori dei dati sono inseriti nel sottogruppo &quot;Altro&quot;. Per categorizzare i valori dei dati, fai clic su **Aggiungi gruppo** per creare un sottogruppo e assegnargli un nome.
+1. Per impostazione predefinita, tutti i valori dei dati sono inseriti nel sottogruppo &quot;Altro&quot;. Per categorizzare i valori dei dati, fare clic su **Aggiungi gruppo** per creare un sottogruppo e assegnare un nome.
 
    >[!NOTE]
    >
@@ -92,15 +92,15 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
 ## Crea gruppo di campi personalizzato - Editor numeri interi {#create-custom-field-group-integer-editor}
 
-1. Clic **Database lead**.
+1. Fare clic su **Database lead**.
 
    ![](assets/one.png)
 
-1. Clic **Nuovo**, e seleziona **Crea Organizzatore Campi**.
+1. Fai clic su **Nuovo** e seleziona **Nuovo organizzatore campi**.
 
    ![](assets/two.png)
 
-1. Clic **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all’editor di stringhe (vedi tabella nella sezione precedente). Il reddito annuale è utilizzato qui.
+1. Fai clic su **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedi tabella nella sezione precedente). Il reddito annuale è utilizzato qui.
 
    ![](assets/nine.png)
 
@@ -112,17 +112,17 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    ![](assets/9.6.png)
 
-1. Fare clic sul nome del gruppo personalizzato predefinito sopra l&#39;editor di numeri interi per personalizzare il nome. Ad esempio, è possibile rinominare &quot;Gruppo di ricavi annuale&quot; in &quot;Ricavo annuale per dimensione&quot;. Clic **Salva**.
+1. Fare clic sul nome del gruppo personalizzato predefinito sopra l&#39;editor di numeri interi per personalizzare il nome. Ad esempio, è possibile rinominare &quot;Gruppo di ricavi annuale&quot; in &quot;Ricavo annuale per dimensione&quot;. Fai clic su **Salva**.
 
    ![](assets/eleven.png)
 
-   L’editor di numeri interi consente di creare più sottogruppi per definire ciascun sottogruppo in base alla dimensione. In questo esempio verranno creati tre gruppi per le piccole, medie e imprese.
+   L’editor di numeri interi consente di creare più sottogruppi per definire ciascun sottogruppo in base alla dimensione. In questo esempio verranno creati tre gruppi per le piccole imprese, Medium e Enterprise.
 
-1. Per aggiungere il primo gruppo, immettere un nome nel campo **Nome gruppo** (ad esempio: piccolo) e immettere un valore massimo nel campo **Intervallo gruppo** (esempio: 200000). Clic **Aggiungi gruppo**.
+1. Per aggiungere il primo gruppo, immetti un nome nel campo **Nome gruppo** (esempio: Piccolo) e un valore massimo nel campo **Intervallo gruppo** (esempio: 200000). Fare clic su **Aggiungi gruppo**.
 
    ![](assets/twelve.png)
 
-   Sotto il gruppo appena inserito viene visualizzata una voce di gruppo vuota. L’esempio seguente mostra una voce per piccole, medie e imprese.
+   Sotto il gruppo appena inserito viene visualizzata una voce di gruppo vuota. L’esempio seguente mostra una voce per piccole, Medium ed Enterprise.
 
    >[!NOTE]
    >
@@ -146,15 +146,15 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
 ## Crea gruppo di campi personalizzato - Editor date {#create-custom-field-group-date-editor}
 
-1. Clic **Database lead**.
+1. Fare clic su **Database lead**.
 
    ![](assets/one.png)
 
-1. Clic **Nuovo**, e seleziona **Crea Organizzatore Campi**.
+1. Fai clic su **Nuovo** e seleziona **Nuovo organizzatore campi**.
 
    ![](assets/two.png)
 
-1. Clic **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all’editor di stringhe (vedi tabella nella sezione precedente). Qui viene utilizzata la data di acquisizione.
+1. Fai clic su **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedi tabella nella sezione precedente). Qui viene utilizzata la data di acquisizione.
 
    ![](assets/fourteen.png)
 
@@ -166,13 +166,13 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    ![](assets/14.6.png)
 
-1. Fai clic sul nome del gruppo personalizzato predefinito sopra l’editor di date per personalizzarlo. Ad esempio, puoi rinominare &quot;Gruppo di date di acquisizione&quot; in &quot;Categorie di date di acquisizione&quot;. Clic **Salva**.
+1. Fai clic sul nome del gruppo personalizzato predefinito sopra l’editor di date per personalizzarlo. Ad esempio, puoi rinominare &quot;Gruppo di date di acquisizione&quot; in &quot;Categorie di date di acquisizione&quot;. Fai clic su **Salva**.
 
    ![](assets/fifteen.png)
 
    L’editor di date consente di creare più sottogruppi e definire ciascun sottogruppo per data. In questo esempio verranno creati tre gruppi: Lead Q1-15, Lead Q2-15 e Lead Q3-15.
 
-1. Per aggiungere il primo gruppo, immettere un nome nel campo **Nome gruppo** (ad esempio, Lead T1-15) e immettere una data nel campo data che rappresenta la data in cui il lead è stato acquisito o prima (ad esempio: 3/31/2015 per l&#39;ultimo giorno del T1-15). Clic **Aggiungi gruppo**.
+1. Per aggiungere il primo gruppo, immettere un nome nel campo **Nome gruppo** (ad esempio: Lead T1-15) e una data nel campo data che rappresenta la data di acquisizione del lead prima o al momento indicato (ad esempio: 3/31/2015 per l&#39;ultimo giorno del primo trimestre 15). Fare clic su **Aggiungi gruppo**.
 
    ![](assets/sixteen.png)
 

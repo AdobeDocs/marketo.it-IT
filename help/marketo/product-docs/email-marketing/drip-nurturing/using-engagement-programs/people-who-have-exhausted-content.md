@@ -17,7 +17,7 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
 ## Filtro Membro del programma di coinvolgimento {#member-of-engagement-program-filter}
 
-1. Crea un nuovo elenco avanzato, quindi individua e trascina nella **Membro del programma di coinvolgimento** filtro.
+1. Crea un nuovo elenco avanzato, quindi individua e trascina il filtro **Membro del programma di coinvolgimento**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. Sotto **Aggiungi vincolo**, seleziona **Contenuto esaurito**.
+1. In **Aggiungi vincolo**, selezionare **Contenuto esaurito**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Imposta **Contenuto esaurito** a **true**.
+1. Imposta **Contenuto esaurito** su **true**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -41,11 +41,11 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
    ![](assets/ma.png)
 
-1. Seleziona il programma di coinvolgimento e vai al **Membri** scheda.
+1. Seleziona il programma di coinvolgimento e passa alla scheda **Membri**.
 
    ![](assets/memberstab.jpg)
 
-1. Osserva la colonna denominata **Contenuto esaurito**.
+1. Nota la colonna denominata **Contenuto esaurito**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 

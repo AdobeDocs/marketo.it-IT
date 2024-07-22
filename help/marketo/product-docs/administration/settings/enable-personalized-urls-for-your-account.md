@@ -19,23 +19,23 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/enable-personalized-urls-for-your-account-1.png)
 
-1. Clic **[!UICONTROL Pagine di destinazione]**.
+1. Fai clic su **[!UICONTROL Pagine di destinazione]**.
 
    ![](assets/enable-personalized-urls-for-your-account-2.png)
 
-1. Clic **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/enable-personalized-urls-for-your-account-3.png)
 
-1. Controlla la **[!UICONTROL Abilita URL personalizzati]** e fai clic su **[!UICONTROL Salva]**.
+1. Seleziona la casella **[!UICONTROL Abilita URL personalizzati]** e fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Ottimo lavoro! Dopo aver abilitato i PURL per il tuo account, puoi [abilitarli per singole pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Ottimo lavoro! Ora che hai abilitato i PURL per il tuo account, puoi [abilitarli per singole pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

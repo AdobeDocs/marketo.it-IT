@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Di seguito sono riportate tutte le funzioni incluse nella versione di aprile 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
 
-Le Note sulla versione, ad Adobe Dynamic Chat [si trova qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Le note sulla versione specificatamente per l&#39;Adobe Dynamic Chat [ si trovano qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Caratteristiche contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **26 aprile 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **26 aprile 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -32,7 +32,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <th style="width:25%">Documentazione</th>
   </tr>
      <tr> 
-   <td><strong>Miglioramenti ai webinar interattivi</strong>: ora puoi fornire a host e relatori la possibilità di aggiungere un titolo del webinar, rinominare una room e sincronizzare manualmente i dati del coinvolgimento dopo la consegna dell’evento.</td> 
+   <td><strong>Miglioramenti ai webinar interattivi</strong>: è ora possibile consentire a host e relatori di aggiungere un titolo al webinar, rinominare una room e sincronizzare manualmente i dati di coinvolgimento dopo la consegna dell'evento.</td> 
    <td>Spedito</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Creare un webinar interattivo</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronizzazione manuale</a></li></td>
@@ -43,7 +43,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Miglioramenti di Audit Trail</strong>: è ora possibile acquisire nuovi tipi di azioni in Audit Trail per le modifiche apportate in Gestione campi, le modifiche apportate a Utenti e ruoli e il numero di persone esportate da elenchi ed elenchi avanzati.</td> 
+   <td><strong>Miglioramenti Audit Trail</strong>: 
+   È ora possibile acquisire nuovi tipi di azioni in Audit Trail per le modifiche apportate in Gestione campi, per le modifiche apportate a Utenti e ruoli e per il numero di persone esportate da elenchi ed elenchi avanzati.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
@@ -53,7 +54,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
     <tr> 
-   <td><strong>Nuovi utenti e ruoli - Autorizzazioni</strong>: sono disponibili nuove autorizzazioni che forniscono agli utenti un accesso più granulare al Marketo Engage. Controlla le parti dell’amministratore non gestite in precedenza, ad esempio Nuova esperienza e Predictive Audiences, divide le autorizzazioni per concedere separatamente l’accesso all’Asset Audit Trail e all’Admin Audit Trail e utilizza le nuove autorizzazioni di creazione e spostamento per le risorse e le cartelle per impedire che gli utenti di sola lettura apportino modifiche. 
+   <td><strong>Autorizzazioni nuovi utenti e ruoli</strong>: sono disponibili nuove autorizzazioni che forniscono agli utenti un accesso più granulare al Marketo Engage. Controlla le parti dell’amministratore non gestite in precedenza, ad esempio Nuova esperienza e Predictive Audiences, divide le autorizzazioni per concedere separatamente l’accesso all’Asset Audit Trail e all’Admin Audit Trail e utilizza le nuove autorizzazioni di creazione e spostamento per le risorse e le cartelle per impedire che gli utenti di sola lettura apportino modifiche. 
    <p>Le nuove autorizzazioni appariranno nell’istanza di Marketo Engage a partire dal 26 aprile, ma per il momento sono passive e diventeranno accessibili più avanti nel corso del trimestre.
    <li>Accedere a Adobe Experience Manager</li>
    <li>Mappatura organizzazione Adobe di accesso</li>
@@ -74,9 +75,9 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 ## Annunci {#announcements}
 
-* **Aggiornamento API delle attività**: il 26 aprile, stiamo aggiungendo diversi nuovi attributi alle attività basate su web e e-mail che vengono restituiti quando recuperi le attività utilizzando [API REST di Marketo](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Le attività elencate di seguito ora includono gli attributi Browser, Platform, Device e User Agent. Chiama il [Ottieni tipi di attività](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} endpoint per rivedere i dettagli dell&#39;attributo per ogni attività.
+* **Aggiornamento API attività**: il 26 aprile verranno aggiunti diversi nuovi attributi alle attività basate su Web e posta elettronica restituiti quando si recuperano attività tramite l&#39;[API REST Marketo](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities){target="_blank"}. Le attività elencate di seguito ora includono gli attributi Browser, Platform, Device e User Agent. Chiamare l&#39;endpoint [Get Activity Types](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Activities/operation/getAllActivityTypesUsingGET){target="_blank"} per rivedere i dettagli degli attributi di ogni attività.
 
-**Attività basate sul web**
+**Attività basate sul Web**
 
 <table style="table-layout:auto"> 
  <tbody> 

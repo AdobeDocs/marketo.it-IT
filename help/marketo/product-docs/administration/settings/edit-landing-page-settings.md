@@ -19,15 +19,15 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]** area.
+1. Vai all&#39;area **[!UICONTROL Amministratore]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Clic **[!UICONTROL Pagine di destinazione]**.
+1. Fai clic su **[!UICONTROL Pagine di destinazione]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. In **[!UICONTROL Pagine di destinazione]** , fare clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL Pagine di destinazione]**, fai clic su **[!UICONTROL Modifica]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,19 +37,19 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 
    | Termine | Definizione |
    |---|---|
-   | [!UICONTROL Nome di dominio per le pagine di destinazione] | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che viene assegnato alle persone per le pagine di destinazione. Ad esempio, in `https://go.yourCompany.com`, la parola &quot;go&quot; è il CNAME. Si possono avere più, ma la maggior parte delle persone usa solo quello. |
+   | [!UICONTROL Nome di dominio per le pagine di destinazione] | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che viene assegnato alle persone per le pagine di destinazione. In `https://go.yourCompany.com`, ad esempio, la parola &quot;go&quot; è il CNAME. Si possono avere più, ma la maggior parte delle persone usa solo quello. |
    | [!UICONTROL Pagina di fallback] | Questo è il percorso da seguire se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Home page] | Immetti l’URL del sito aziendale. |
 
-1. Controlla la **[!UICONTROL Precompilazione modulo]** casella di controllo per consentire ai moduli di precompilare le informazioni per le persone note (ricette). Deseleziona per bloccare.
+1. Selezionare la casella di controllo **[!UICONTROL Precompilazione modulo]** per consentire ai moduli di precompilare le informazioni per le persone note (ricette). Deseleziona per bloccare.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Se desideri la precompilazione `<script>` da visualizzare alla fine del `<head>` nel codice, controlla **[!UICONTROL Inserisci script di preriempimento alla fine dell’intestazione]** casella. Lascia deselezionata questa opzione per visualizzarla all’inizio.
+   >Se si desidera che il tag di precompilazione `<script>` venga visualizzato alla fine del tag `<head>` nel codice, selezionare la casella **[!UICONTROL Inserisci script di precompilazione alla fine dell&#39;intestazione]**. Lascia deselezionata questa opzione per visualizzarla all’inizio.
    >
-   >Verifica **[!UICONTROL Rimuovi collegamenti favicon predefiniti]** per impedire a Marketo di inserire collegamenti favicon nel codice.
+   >Selezionare **[!UICONTROL Rimuovi collegamenti favicon predefiniti]** per impedire a Marketo di inserire collegamenti favicon nel codice.
 
 1. Dopo aver effettuato le selezioni, fai clic su **[!UICONTROL Salva]**.
 

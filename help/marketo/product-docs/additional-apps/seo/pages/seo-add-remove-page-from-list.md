@@ -17,11 +17,11 @@ Desideri gestire le pagine? Puoi farlo facilmente creando un elenco. È possibil
 
 ## Aggiungi pagina a un elenco {#add-page-to-a-list}
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-13-3a2-3a49.png)
 
-1. Passa il cursore del mouse sulla pagina da aggiungere a un elenco. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
+1. Passa il cursore del mouse sulla pagina da aggiungere a un elenco. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-9-18-13-3a2-3a53.png)
 
@@ -41,15 +41,15 @@ Yay! Ora dovresti vedere la tua pagina aggiunta all’elenco.
 
 ## Rimuovere una pagina da un elenco {#remove-page-from-a-list}
 
-1. Vai a **[!UICONTROL Pagine]** sezione.
+1. Vai alla sezione **[!UICONTROL Pagine]**.
 
    ![](assets/image2014-9-18-13-3a3-3a45.png)
 
-1. Il giorno **[!UICONTROL Pagine]** , fare clic sull&#39;elenco che si desidera eliminare.
+1. Nella scheda **[!UICONTROL Pagine]**, fai clic sull&#39;elenco da pulire.
 
    ![](assets/image2014-9-18-13-3a3-3a59.png)
 
-1. Passa il cursore del mouse sulla pagina da rimuovere. Clic **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
+1. Passa il cursore del mouse sulla pagina da rimuovere. Fare clic su **[!UICONTROL Aggiungi/Rimuovi dall&#39;elenco]**.
 
    ![](assets/image2014-9-18-13-3a4-3a3.png)
 
@@ -61,4 +61,4 @@ Yay! Ora dovresti vedere la tua pagina aggiunta all’elenco.
 
    ![](assets/image2014-9-18-13-3a5-3a40.png)
 
-Completato. La pagina viene rimossa dall’elenco.
+Fine. La pagina viene rimossa dall’elenco.

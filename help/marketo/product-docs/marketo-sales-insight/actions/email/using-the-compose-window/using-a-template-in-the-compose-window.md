@@ -5,7 +5,7 @@ exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Ricerca e utilizzo dei modelli {#finding-and-using-templates}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
@@ -40,17 +40,17 @@ ht-degree: 0%
 
 ## Aggiunta di categorie di modelli nella finestra Componi {#pinning-template-categories-in-the-compose-window}
 
-Preferito **fino a cinque** categorie di modelli specifiche per accedere rapidamente ai modelli più utilizzati.
+**fino a cinque** categorie di modelli specifiche preferite per accedere rapidamente ai modelli più utilizzati.
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo, in questo esempio che stiamo scegliendo **Componi** nell’intestazione).
+1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Fai clic su **+** accanto a Preferiti.
+1. Fare clic sull&#39;icona **+** accanto a Preferiti.
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Fai clic su **Fissa una categoria** e selezionare la categoria desiderata.
+1. Fai clic sul menu a discesa **Aggiungi una categoria** e seleziona la categoria desiderata.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -58,7 +58,7 @@ Preferito **fino a cinque** categorie di modelli specifiche per accedere rapidam
    >
    >È consigliabile aggiungere la categoria &quot;Tutti&quot; per accedere rapidamente alla ricerca nell&#39;intera libreria di modelli, in quanto spesso è necessario eseguire ricerche in tutti i modelli per trovare ciò che si sta cercando. Se hai selezionato una categoria bloccata e fai clic sull’icona di ricerca, per impostazione predefinita la ricerca viene eseguita all’interno della categoria bloccata selezionata.
 
-1. Clic **Salva modifiche** al termine (facoltativo: ripetere il passaggio 3 per aggiungerne altri).
+1. Al termine, fai clic su **Salva modifiche** (facoltativo: ripeti il passaggio 3 per aggiungerne altre).
 
    ![](assets/using-a-template-in-the-compose-window-9.png)
 
@@ -70,6 +70,6 @@ Preferito **fino a cinque** categorie di modelli specifiche per accedere rapidam
 
    >[!NOTE]
    >
-   >**Preferiti** è presente per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
+   >**Preferiti** per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
 
    La categoria selezionata è bloccata.

@@ -6,7 +6,7 @@ exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ I campi nascosti vengono in genere compilati in modo dinamico. Non vengono mostr
 
 ## Seleziona il campo {#select-the-field}
 
-1. Nel modulo, seleziona il campo nascosto e fai clic su **Modifica** per **Riempimento automatico**.
+1. Nel modulo, seleziona il campo nascosto e fai clic su **Modifica** per **riempimento automatico**.
 
    ![](assets/autofill.png)
 
@@ -37,13 +37,13 @@ Se desideri acquisire i parametri URL (stringhe di query) dalla pagina in cui si
 
 >[!NOTE]
 >
->I parametri sono piuttosto tecnologici, vero? Una volta ottenuti, però, sono potenti. Questo [Pagina Wikipedia sulle stringhe di query](https://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
+>I parametri sono piuttosto tecnologici, vero? Una volta ottenuti, però, sono potenti. Questa [pagina Wikipedia sulle stringhe di query](https://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
 
-1. Seleziona **Parametro URL** per **Ottieni tipo di valore**.
+1. Seleziona **Parametro URL** per **Ottieni tipo valore**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Inserisci il **Nome parametro** e fai clic su **Salva**.
+1. Immetti il **Nome parametro** e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
@@ -53,13 +53,13 @@ Se desideri acquisire i parametri URL (stringhe di query) dalla pagina in cui si
 
 ## Valore cookie {#cookie-value}
 
-Se memorizzi i dati nei cookie, puoi utilizzare **Valore cookie** per raccogliere i dati quando il modulo viene inviato.
+Se memorizzi i dati nei cookie, puoi utilizzare **Valore cookie** per raccogliere i dati al momento dell&#39;invio del modulo.
 
 1. Seleziona **Valore cookie** per **Ottieni valore da**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. Inserisci il nome del parametro cookie desiderato e fai clic su **Salva**.
+1. Immettere il nome del parametro del cookie desiderato e fare clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
@@ -69,24 +69,24 @@ Se memorizzi i dati nei cookie, puoi utilizzare **Valore cookie** per raccoglier
 
 ## Parametro referrer {#referrer-parameter}
 
-Per acquisire i dati dalla pagina di provenienza del visitatore prima di compilare il modulo, puoi utilizzare **Parametro referrer**.
+Se desideri acquisire i dati dalla pagina da cui proviene il visitatore prima di compilare il modulo, puoi utilizzare **Parametro referrer**.
 
 1. Imposta **Ottieni valore da** a **Parametro referrer**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Inserisci il **Nome parametro** che desideri acquisire dall’URL del referente e fai clic su **Salva**.
+1. Immetti il **Nome parametro** che desideri acquisire dall&#39;URL del referente e fai clic su **Salva**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >È possibile immettere un valore **Valore predefinito** nel caso in cui il parametro referrer non venga trovato.
+   >È possibile immettere un **valore predefinito** nel caso in cui il parametro referrer non sia stato trovato.
 
-1. Clic **Fine**.
+1. Fare clic su **Fine**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)

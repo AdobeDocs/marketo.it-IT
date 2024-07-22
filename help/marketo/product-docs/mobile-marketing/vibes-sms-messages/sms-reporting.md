@@ -2,7 +2,8 @@
 description: Segnalazione SMS - Documentazione Marketo - Documentazione del prodotto
 title: Segnalazione SMS
 feature: Mobile Marketing
-source-git-commit: efaf34e8113fc6364655ff01aa788aa62bdd31af
+exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
+source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -15,7 +16,7 @@ Il dashboard dei messaggi SMS fornisce utili analisi dei messaggi.
 
 ## Accedere al dashboard {#access-the-dashboard}
 
-1. Per visualizzare i rapporti, seleziona il messaggio SMS desiderato. Fai clic su **Visualizza** a discesa e selezionare **Dashboard**.
+1. Per visualizzare i rapporti, seleziona il messaggio SMS desiderato. Fai clic sul menu a discesa **Visualizza** e seleziona **Dashboard**.
 
    ![](assets/sms-reporting-1.png)
 

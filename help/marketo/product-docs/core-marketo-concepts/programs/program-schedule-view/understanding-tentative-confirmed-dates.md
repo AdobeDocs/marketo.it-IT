@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Informazioni sulle date provvisorie/confermate {#understanding-tentative-confirmed-dates}
 
-Le campagne intelligenti e i programmi e-mail hanno una potente funzionalità per essere contrassegnati come **[!UICONTROL Provvisorio]** o **[!UICONTROL Confermato]**. Ecco come funzionano.
+Le campagne e i programmi e-mail avanzati dispongono di una potente funzionalità per essere contrassegnati come **[!UICONTROL Provvisori]** o **[!UICONTROL Confermati]**. Ecco come funzionano.
 
 ## Provvisorio {#tentative}
 
-Le date provvisorie indicano l&#39;intento. Considera questo come _pennellata_ qualcosa nel calendario. Le voci provvisorie non verranno eseguite, ma solo come segnaposto.
+Le date provvisorie indicano l&#39;intento. Considera questo elemento come _inserimento_ di elementi nel calendario. Le voci provvisorie non verranno eseguite, ma solo come segnaposto.
 
 ![](assets/image2014-9-23-15-3a22-3a23.png)
 
@@ -47,7 +47,7 @@ Le voci confermate verranno sicuramente eseguite. Hanno regole, risorse approvat
 
 ## Completato  {#finished}
 
-Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita e **[!UICONTROL Completato]**, non è possibile spostarlo o renderlo provvisorio. (Nessuna realtà mutevole e interruzione del flusso temporale).
+Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita ed è **[!UICONTROL Completata]**, non puoi spostarla o renderla provvisoria. (Nessuna realtà mutevole e interruzione del flusso temporale).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

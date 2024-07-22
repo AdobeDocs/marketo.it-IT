@@ -16,15 +16,15 @@ Puoi aggiungere pulsanti Marketo ai layout Salesforce. Ecco un esempio:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Clic **Configurazione**. Cercare &quot;layout di ricerca&quot; e fare clic su **Cerca layout** in **Lead**.
+1. Fare clic su **Configurazione**. Cerca &quot;layout di ricerca&quot; e fai clic su **Layout di ricerca** in **Lead**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Clic **Modifica** nel **Visualizzazione elenco lead** riga.
+1. Fai clic su **Modifica** nella riga **Visualizzazione elenco lead**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Aggiungi **Aggiungi a Marketo Campaign**, **Invia e-mail Marketo**, e **Aggiungi a elenco di controllo** pulsanti per **Pulsanti selezionati** e **Salva**.
+1. Aggiungi **Aggiungi a Marketo Campaign**, **Invia e-mail Marketo** e **Aggiungi all&#39;elenco di controllo** ai **pulsanti selezionati** e **Salva**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

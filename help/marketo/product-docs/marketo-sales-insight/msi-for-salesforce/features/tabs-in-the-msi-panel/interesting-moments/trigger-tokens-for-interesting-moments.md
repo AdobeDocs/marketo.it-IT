@@ -15,11 +15,11 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Scopri come utilizzare la [Passaggio flusso momento di interesse](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
+>Scopri come utilizzare il [passaggio del flusso Momento di interesse](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/interesting-moment.md).
 
 ## Token disponibili {#available-tokens}
 
-Estrai [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per vedere tutti i token si può mettere in un momento interessante.
+Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per visualizzare tutti i token che puoi inserire in un momento interessante.
 
 ## Attiva token {#trigger-tokens}
 
@@ -1055,9 +1055,9 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili tok
 
 >[!NOTE]
 >
->Se non ha un assegno ![(segno di spunta)](assets/check.png) quindi restituirebbe una stringa vuota (niente) nel momento interessante.
+>Se non ha un segno di spunta ![(tick)](assets/check.png), restituirà una stringa vuota (niente) nel momento di interesse.
 
-&#42;Il trigger **Pagina Web Visite** dispone di alcuni token aggiuntivi:
+&#42;La pagina Web Trigger **Visite** contiene alcuni token aggiuntivi:
 
 * `{{trigger.Referrer}}`
 * `{{trigger.Search Engine}}`

@@ -7,7 +7,7 @@ feature: Reporting, Revenue Cycle Analytics
 source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -25,15 +25,15 @@ Gli organizzatori di campi vengono utilizzati nell&#39;analisi delle prestazioni
 
 ## Come creare organizzatori di campi {#how-to-create-field-organizers}
 
-1. Clic **Database**.
+1. Fare clic su **Database**.
 
    ![](assets/db.png)
 
-1. Sotto **Nuovo**, seleziona **Crea Organizzatore Campi**.
+1. In **Nuovo**, selezionare **Nuovo organizzatore campi**.
 
    ![](assets/two-1.png)
 
-1. Sotto **Campo**, selezionare un attributo. Descrizione facoltativa.
+1. In **Campo**, selezionare un attributo. Descrizione facoltativa.
 
    ![](assets/three-1.png)
 
@@ -41,7 +41,7 @@ Gli organizzatori di campi vengono utilizzati nell&#39;analisi delle prestazioni
 
    ![](assets/image2015-9-3-16-3a36-3a31.png)
 
-1. Assegna un nome al gruppo e immetti i dati appropriati (che dipendono dal tipo di dati del campo selezionato). Clic **Aggiungi gruppo**.
+1. Assegna un nome al gruppo e immetti i dati appropriati (che dipendono dal tipo di dati del campo selezionato). Fare clic su **Aggiungi gruppo**.
 
    ![](assets/image2015-9-3-16-3a40-3a45.png)
 
@@ -49,4 +49,4 @@ Creare più organizzatori di campi allo stesso modo, se necessario. Ed eccoti qu
 
 >[!MORELIKETHIS]
 >
->[Creare gruppi di campi personalizzati utilizzando l’Organizer campi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)
+>[Creare gruppi di campi personalizzati utilizzando l&#39;Organizer campi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md)

@@ -27,11 +27,11 @@ Proprio come la scheda Risultati nelle campagne intelligenti, puoi visualizzare 
    >
    >Se il programma e-mail è già stato eseguito, verrà visualizzata direttamente la dashboard del programma e-mail.
 
-1. Sotto **Visualizza**, seleziona **Pannello di controllo Campaign**.
+1. In **Visualizza**, selezionare **Pannello di controllo Campaign**.
 
    ![](assets/controlpanelview.jpg)
 
-1. Sotto **Pubblico** riquadro, fai clic su **Visualizza risultati**.
+1. Nella sezione **Pubblico**, fai clic su **Visualizza risultati**.
 
    ![](assets/audiencetile.jpg)
 

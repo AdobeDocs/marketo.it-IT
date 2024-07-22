@@ -13,11 +13,11 @@ ht-degree: 0%
 
 # Rapporto Persone per stato {#people-by-status-report}
 
-Controlla il modo in cui stai spostando le persone nel processo controllando quanti di loro appaiono in ogni _Stato della persona_ ogni mese.
+Verifica quanto bene stai spostando le persone nel processo controllando quanti di loro appaiono ogni mese in ogni valore di _Stato persona_.
 
-1. [Creare un rapporto](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona la **Persone per stato** [tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona **Persone per stato** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Impostare l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic su **Report** scheda.
+1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **Report**.
 
 1. Fantastico! Ora puoi vedere quante persone erano in ogni Stato della persona, da mese a mese.
 
@@ -29,4 +29,4 @@ Controlla il modo in cui stai spostando le persone nel processo controllando qua
 
    >[!MORELIKETHIS]
    >
-   >[Utilizzare un elenco avanzato per filtrare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) a persone specifiche.
+   >[Utilizzare un elenco avanzato per filtrare il report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/filter-people-in-a-report-with-a-smart-list.md) per utenti specifici.

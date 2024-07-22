@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!IMPORTANT]
 >
->LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketi Engage LinkedIn. Queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel tuo **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024, per evitare interruzioni del servizio. Per ulteriori informazioni, vedere [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketo Engage LinkedIn. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024. Per ulteriori informazioni, vedere le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -23,29 +23,29 @@ ht-degree: 0%
 
 Connetti l’account di Marketo Engage con LinkedIn Matched Audiences per utilizzare un elenco statico di Marketo o un elenco avanzato come segmento di pubblico di LinkedIn.
 
-1. Vai a **[!UICONTROL Amministratore]** sezione.
+1. Vai alla sezione **[!UICONTROL Amministratore]**.
 
    ![](assets/admin.png)
 
-1. Seleziona **[!UICONTROL LaunchPoint]**.
+1. Selezionare **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Seleziona **[!UICONTROL Nuovo]** e **[!UICONTROL Nuovo servizio]**.
+1. Selezionare **[!UICONTROL Nuovo]** e **[!UICONTROL Nuovo servizio]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]** e scegli **[!UICONTROL Tipi di pubblico di linkedIn corrispondenti]**. Clic **[!UICONTROL Crea]**.
+1. Immetti un **[!UICONTROL Nome visualizzato]** e scegli **[!UICONTROL Tipi di pubblico corrispondenti a LinkedIn]**. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Per connettere un account LinkedIn, fai clic su **[!UICONTROL Autorizza]**.
+1. Per connettere un account LinkedIn, fare clic su **[!UICONTROL Autorizza]**.
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare tipi di pubblico su più account LinkedIn Ad, l’utente LinkedIn autorizzato nei passaggi seguenti deve avere accesso a *tutto* di questi account pubblicitari nel rispettivo Campaign Manager.
+   >Affinché Marketo possa inviare tipi di pubblico su più account LinkedIn Ad, l&#39;utente LinkedIn che autorizzi nei passaggi seguenti deve avere accesso a *tutti* di questi account Ad nel proprio Campaign Manager.
 
 1. LinkedIn si apre in una nuova scheda. Da qui, accedi al tuo account LinkedIn.
 
@@ -55,7 +55,7 @@ Connetti l’account di Marketo Engage con LinkedIn Matched Audiences per utiliz
 
    ![](assets/li-permissions.png)
 
-1. Il tuo account LinkedIn è ora connesso a Marketo. Clic **[!UICONTROL Crea]**.
+1. Il tuo account LinkedIn è ora connesso a Marketo. Fai clic su **[!UICONTROL Crea]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 

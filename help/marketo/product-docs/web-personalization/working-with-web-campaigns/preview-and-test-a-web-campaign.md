@@ -6,7 +6,7 @@ exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 ## Visualizzare l’anteprima di una campagna web nella pagina di creazione {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vai a **Campagne web**.
+1. Vai a **Campagne Web**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Clic **Crea nuova campagna web** oppure l’icona per modificare una campagna esistente.
+1. Fai clic su **Crea nuova campagna web** o sull&#39;icona per modificare una campagna esistente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. In Anteprima sul sito, aggiungi l’URL della pagina e fai clic su **Anteprima**. Viene visualizzata una nuova finestra/scheda con l’anteprima della campagna.
+1. In Anteprima sul sito aggiungere l&#39;URL della pagina e fare clic su **Anteprima**. Viene visualizzata una nuova finestra/scheda con l’anteprima della campagna.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Clic **Condividi** per aprire un messaggio e-mail con un URL fisso dell’anteprima della campagna.
+   >Fai clic su **Condividi** per aprire un&#39;e-mail con un URL fisso dell&#39;anteprima della campagna.
 
    >[!NOTE]
    >
-   >È inoltre possibile installare un plug-in del browser (uno [Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) per una migliore esperienza nell’anteprima della campagna. Consulta la sezione seguente.
+   >Puoi anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) per una migliore esperienza nella visualizzazione dell&#39;anteprima della campagna. Consulta la sezione seguente.
 
 ## Visualizzare l’anteprima di una campagna web nella pagina di creazione utilizzando il plug-in del browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
@@ -49,15 +49,15 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
    ![](assets/4-1.png)
 
-1. Viene visualizzata una nuova finestra o scheda. Clic **Aggiungi a Chrome**.
+1. Viene visualizzata una nuova finestra o scheda. Fai clic su **Aggiungi a Chrome**.
 
    ![](assets/five.png)
 
-1. Clic **Aggiungi estensione**.
+1. Fare clic su **Aggiungi estensione**.
 
    ![](assets/six.png)
 
-1. Torna a Marketo. Aggiungi l’URL della pagina e fai clic su **Anteprima**.
+1. Torna a Marketo. Aggiungi l&#39;URL della pagina e fai clic su **Anteprima**.
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 ## Visualizzare l’anteprima di una campagna web nella pagina Campagne web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Osservando l’elenco delle campagne web, è sufficiente scegliere una campagna e fare clic sul pulsante **Anteprima** icona.
+1. Per visualizzare l&#39;elenco delle campagne Web, è sufficiente scegliere una campagna e fare clic sull&#39;icona **Anteprima**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -81,13 +81,13 @@ Crea un segmento sandbox e una campagna.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Clic **Crea nuovo**.
+1. Fare clic su **Crea nuovo**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Denomina il segmento.
 
-1. In Comportamento trascinare Includi pagine nell&#39;area di lavoro. Aggiungi il valore &#42;sandbox=1&#42;. Clic **Salva e definisci campagna**.
+1. In Comportamento trascinare Includi pagine nell&#39;area di lavoro. Aggiungi il valore &#42;sandbox=1&#42;. Fai clic su **Salva e definisci campagna**.
 
    ![](assets/segment.png)
 
@@ -95,7 +95,7 @@ Crea un segmento sandbox e una campagna.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Completa la creatività della campagna e fai clic su **Launch**.
+1. Completa la creatività della campagna e fai clic su **Avvia**.
 
    ![](assets/click-launch.jpg)
 
@@ -109,4 +109,4 @@ Crea un segmento sandbox e una campagna.
 
 >[!NOTE]
 >
->Non è possibile visualizzare in anteprima le campagne di reindirizzamento. L’unico modo per testarli è utilizzando un segmento di sandbox (che esegue il targeting per pagine specifiche). &#42;sandbox=redirect&#42;)
+>Non è possibile visualizzare in anteprima le campagne di reindirizzamento. L&#39;unico modo per testarli è utilizzando un segmento di sandbox (destinato a pagine specifiche - &#42;sandbox=redirect&#42;)

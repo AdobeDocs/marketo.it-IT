@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Configurare le notifiche push per dispositivi mobili {#configure-mobile-push-notification}
 
-1. Vai a **Attività di marketing** area.
+1. Vai all&#39;area **Attività di marketing**.
 
 ![](assets/2fbf1ab6-2247-40c8-980d-be56b9d94890.png)
 
@@ -33,11 +33,11 @@ ht-degree: 0%
 
    ![](assets/image2016-8-23-16-3a41-3a48.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2016-8-23-16-3a43-3a28.png)
 
-1. Inserisci il testo del messaggio o seleziona l’icona del token per aggiungere token. Quindi, seleziona una **Azione tocco**.
+1. Inserisci il testo del messaggio o seleziona l’icona del token per aggiungere token. Quindi, seleziona **Azione tocco**.
 
    ![](assets/image2015-9-14-16-3a7-3a43.png)
 
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Esistono tre tipi di azioni di tocco:
    >
-   >**Avvia app** - **Questa app** apre la home page dell’app quando viene toccata la notifica. **Personalizzato** utilizza un collegamento profondo per aprire altre aree dell’app o qualsiasi altra app a cui si ha il collegamento (vedi [URI di collegamenti profondi](#Deeplink) per i dettagli).
+   >**Avvia app** - **Questa app** apre la home page dell&#39;app quando viene toccata la notifica. **Personalizzato** utilizza un collegamento profondo per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai il collegamento (vedi [URI di collegamento profondo](#Deeplink) di seguito per i dettagli).
    >
-   >**Pagina di destinazione** : consente di accedere a una pagina di destinazione di Marketo specifica.
+   >**Pagina di destinazione** - consente di accedere a una pagina di destinazione di Marketo specificata.
    >
-   >**URL esterno** : per passare a una pagina di destinazione non Marketo.
+   >**External URL** - consente di accedere a una pagina di destinazione non Marketo.
 
-1. Per inserire un collegamento profondo per un’azione di tocco personalizzata, fai clic su Personalizzato e immetti il [URI collegamento profondo](#Deeplink) nel campo.
+1. Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fare clic su Personalizzato e immettere l&#39;[URI collegamento profondo](#Deeplink) nel campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
@@ -75,11 +75,11 @@ ht-degree: 0%
 
    ![](assets/ios-tap-and-notification-hand.png)
 
-1. Visualizza l’anteprima dell’altra piattaforma e fai clic su **Fine**.
+1. Visualizzare l&#39;anteprima dell&#39;altra piattaforma e fare clic su **Fine**.
 
    ![](assets/image2015-9-14-16-3a12-3a34.png)
 
-1. Clic **Approva e chiudi**.
+1. Fare clic su **Approva e chiudi**.
 
    ![](assets/323dda12-0543-4558-8562-563eed5fa0e0.png)
 
@@ -93,8 +93,8 @@ Un URI di collegamento profondo è costituito da tre parti: nome dello schema, p
 
 ![](assets/image2016-7-29-12-3a49-3a1.png)
 
-Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Il tuo sviluppatore dispone di molte opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push saranno posizionati correttamente. Lo sviluppatore può [ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Il tuo sviluppatore dispone di molte opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push saranno posizionati correttamente. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >
->[Inviare una notifica push per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)
+>[Invia una notifica push mobile](/help/marketo/product-docs/mobile-marketing/push-notifications/send-a-mobile-push-notification.md)

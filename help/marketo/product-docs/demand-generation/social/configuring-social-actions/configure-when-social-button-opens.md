@@ -13,17 +13,17 @@ ht-degree: 0%
 
 # Configura quando si apre il pulsante Social {#configure-when-social-button-opens}
 
-Quando si crea un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), puoi configurare quando il pulsante presenta il prompt di condivisione.
+Quando crei un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), puoi configurare quando il pulsante presenta il prompt di condivisione.
 
 1. Vai a **Attività di marketing**.
 
    ![](assets/ma-3.png)
 
-1. Seleziona l’app e fai clic su **Modifica bozza**.
+1. Seleziona l&#39;app e fai clic su **Modifica bozza**.
 
    ![](assets/image2014-9-22-16-3a35-3a50.png)
 
-1. Nell’editor delle app social, vai a **Impostazioni app** > **Opzioni avanzate**.
+1. Nell&#39;editor dell&#39;app social, vai a **Impostazioni app** > **Opzioni avanzate**.
 
    ![](assets/image2014-9-22-16-3a36-3a6.png)
 
@@ -32,8 +32,8 @@ Quando si crea un [pulsante social](/help/marketo/product-docs/demand-generation
    ![](assets/image2014-9-22-16-3a36-3a21.png)
 
    * **Al clic:** Quando una persona fa clic sul pulsante social network.
-   * **Al caricamento della pagina:** Non appena la pagina di destinazione contenente il pulsante Social viene caricata nel browser di una persona.
-   * **Al passaggio del mouse:** Quando una persona passa il mouse sul pulsante social.
+   * **Al caricamento della pagina:** non appena la pagina di destinazione contenente il pulsante social viene caricata nel browser di un utente.
+   * **Al passaggio del mouse:** Quando una persona passa il mouse sopra il pulsante social.
 
    >[!MORELIKETHIS]
    >

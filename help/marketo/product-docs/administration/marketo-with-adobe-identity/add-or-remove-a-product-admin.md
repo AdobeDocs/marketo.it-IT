@@ -5,8 +5,8 @@ exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
 source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 0%
+source-wordcount: '286'
+ht-degree: 2%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->**Sistema** Gli amministratori vengono creati solo a livello di organizzazione Adobe. Se pensi di averne bisogno, contatta [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>**Gli amministratori di sistema** vengono creati solo a livello di organizzazione di Adobe. Se pensi di averne bisogno più di uno, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Aggiungi un amministratore prodotto {#add-a-product-admin}
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Clic **Marketo Engage**.
+1. Fai clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -34,15 +34,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Fai clic su **[!UICONTROL Amministratori]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Amministratori]**.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Fai clic su **[!UICONTROL Aggiungi amministratore]** pulsante.
+1. Fare clic sul pulsante **[!UICONTROL Aggiungi amministratore]**.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Inserisci l’indirizzo e-mail o il nome utente dell’amministratore che desideri aggiungere. Nome e cognome sono facoltativi. Clic **[!UICONTROL Salva]**.
+1. Inserisci l’indirizzo e-mail o il nome utente dell’amministratore che desideri aggiungere. Nome e cognome sono facoltativi. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,15 +50,15 @@ ht-degree: 0%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. In Prodotti, fai clic sul menu a tre punti e seleziona **[!UICONTROL Modifica]**.
+1. In Prodotti, fare clic sul menu a tre punti e selezionare **[!UICONTROL Modifica]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Fai clic su **+** firma. Fai clic sulla freccia accanto all’abbonamento di Marketo Engage desiderato (se ve ne sono più di uno) e seleziona il profilo di prodotto desiderato.
+1. Fai clic sul segno **+**. Fai clic sulla freccia accanto all’abbonamento di Marketo Engage desiderato (se ve ne sono più di uno) e seleziona il profilo di prodotto desiderato.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Clic **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
@@ -74,7 +74,7 @@ L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono st
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Clic **Marketo Engage**.
+1. Fai clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -82,15 +82,15 @@ L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono st
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Fai clic su **[!UICONTROL Amministratori]** scheda.
+1. Fare clic sulla scheda **[!UICONTROL Amministratori]**.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Seleziona l’Amministratore da rimuovere e fai clic su **[!UICONTROL Rimuovi amministratore]** pulsante.
+1. Selezionare l&#39;amministratore da rimuovere e fare clic sul pulsante **[!UICONTROL Rimuovi amministratore]**.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Clic **[!UICONTROL Rimuovi amministratore]** per confermare.
+1. Fai clic su **[!UICONTROL Rimuovi amministratore]** per confermare.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 

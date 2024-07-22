@@ -6,8 +6,8 @@ exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 8%
+source-wordcount: '335'
+ht-degree: 10%
 
 ---
 
@@ -121,7 +121,7 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
 ## Aggiorna {#upgrade}
 
-1. Identificare [Versione di Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
+1. Identificare la [versione di Microsoft Outlook](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&amp;rs=en-us&amp;ad=us).
 
 1. Seleziona la tua versione dall’elenco qui sopra.
 
@@ -129,7 +129,7 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
    ![](assets/image2014-9-23-16-3a53-3a56.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-23-16-3a54-3a8.png)
 
@@ -141,7 +141,7 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
    ![](assets/ent-key-close-outlook-hand.png)
 
-1. Noterai che tutte le informazioni sono precompilate. Fai clic su **Successivo**.
+1. Noterai che tutte le informazioni sono precompilate. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-23-16-3a54-3a40.png)
 
@@ -149,11 +149,11 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
    >
    >Se l’installazione non riesce, collabora con il reparto IT per garantire che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l&#39;apertura del traffico HTTPS.
 
-1. Clic **Successivo** per eseguire l&#39;installazione nel percorso predefinito.
+1. Fai clic su **Avanti** per eseguire l&#39;installazione nel percorso predefinito.
 
    ![](assets/image2014-9-23-16-3a54-3a55.png)
 
-1. Clic **Successivo**.
+1. Fai clic su **Avanti**.
 
    ![](assets/image2014-9-23-16-3a55-3a20.png)
 
@@ -167,5 +167,5 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
 >[!MORELIKETHIS]
 >
->* [Inviare e tenere traccia di un messaggio e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Inviare e tenere traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Invia e tieni traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

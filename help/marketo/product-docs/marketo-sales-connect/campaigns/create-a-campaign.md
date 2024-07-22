@@ -6,7 +6,7 @@ exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
 source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -17,30 +17,30 @@ Le campagne sono una serie di passaggi multicanale, tra cui e-mail, telefonate, 
 
 Con Campagne è possibile:
 
-* **Organizza**: semplifica tutte le attività di sensibilizzazione in un’unica posizione per un’esecuzione efficiente.
+* **Organizza**: semplifica tutte le attività di outreach in un&#39;unica posizione per un&#39;esecuzione efficiente.
 
 * **Scala**: pianifica tutte le tue attività di sensibilizzazione in modo da poter ridimensionare le tue attività, ridurre al minimo il lavoro manuale e personalizzare tutto il necessario.
-* **Misura**: tieni traccia del successo di tutte le e-mail e le attività in un’unica posizione, registrandole automaticamente in Salesforce. Conoscendo ciò che risuona e porta ai risultati, puoi testare e migliorare costantemente i risultati.
+* **Misura**: tieni traccia del successo di tutte le e-mail e le attività in un&#39;unica posizione, registrandole automaticamente in Salesforce. Conoscendo ciò che risuona e porta ai risultati, puoi testare e migliorare costantemente i risultati.
 
 Quindi, come si imposta una campagna?
 
-1. Fai clic su **Campagne** scheda.
+1. Fare clic sulla scheda **Campagne**.
 
    ![](assets/one-1.png)
 
-1. Seleziona una categoria e fai clic su **Creare una campagna** per creare una nuova campagna.
+1. Seleziona una categoria e fai clic sul pulsante **Crea campagna** per creare una nuova campagna.
 
    ![](assets/two-1.png)
 
    >[!NOTE]
    >
-   >Creare una nuova categoria facendo clic sul pulsante **+** accanto a **Categorie**.
+   >Crea una nuova categoria facendo clic su **+** accanto a **Categorie**.
 
-1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fai clic su **Continua**.
+1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **Continua**.
 
    ![](assets/three-1.png)
 
-1. Clic **Aggiungi un passaggio**.
+1. Fai clic su **Aggiungi un passaggio**.
 
    ![](assets/four-1.png)
 
@@ -54,9 +54,9 @@ Quindi, come si imposta una campagna?
 
    >[!NOTE]
    >
-   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna dura 7 giorni, l’immissione di &quot;3&quot; indica che l’azione si attiva il giorno 3 di 7, **non** 3 giorni dopo.
+   >&quot;Giorni&quot; non è il numero di giorni tra le azioni, ma il giorno all’interno della sequenza. Ad esempio, se la campagna durerà 7 giorni, l&#39;immissione di &#39;3&#39; indica che l&#39;azione verrà eseguita il giorno 3 di 7, **not** 3 giorni dopo.
 
-1. Assicurati di personalizzare le opzioni di pianificazione e risposta, ad esempio di saltare i fine settimana (fantastico) visitando il **Scheda Impostazioni** per la tua campagna.
+1. Assicurati di personalizzare le opzioni di pianificazione e risposta, ad esempio di saltare i fine settimana (fantastico) visitando la **scheda Impostazioni** per la tua campagna.
 
    ![](assets/seven.png)
 
