@@ -85,7 +85,7 @@ L’URL dell’immagine e i metadati vengono ora utilizzati nel processo di rile
 
 Gli sviluppatori ora hanno un controllo aggiuntivo sulla distribuzione delle notifiche push con l’aggiunta di una nuova chiamata API SDK che consente agli sviluppatori di rimuovere i token push.
 
-## Integrazione di [Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
+## [Integrazione di Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md) {#vibes-sms-launchpoint-integration}
 
 Migliora il targeting con una nuova opzione di filtro, &quot;Membro dell’elenco delle vibrazioni&quot;.
 
