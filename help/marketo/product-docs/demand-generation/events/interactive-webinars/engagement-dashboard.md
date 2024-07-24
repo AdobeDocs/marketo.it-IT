@@ -4,7 +4,8 @@ title: Dashboard di coinvolgimento
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
 source-wordcount: '1759'
 ht-degree: 0%
@@ -17,7 +18,7 @@ I webinar interattivi basati su Adobe Connect utilizzano vari pod per coinvolger
 
 Visualizzare una visualizzazione consolidata delle attività, delle interazioni e del coinvolgimento dei partecipanti durante un evento. In qualità di host, puoi visualizzare le prestazioni di eventi live e on-demand e scaricare vari rapporti dopo la sessione. Inoltre, i rapporti post-webinar generati dalla dashboard vengono utilizzati per valutare l’efficacia della sessione, informare i contenuti futuri e migliorare la strategia complessiva del webinar.
 
-La dashboard tiene traccia di varie metriche, tra cui risposte ai sondaggi, attività di chat e interazioni video, offrendo informazioni preziose sulle preferenze e i comportamenti dei partecipanti. Offre una panoramica completa delle attività e dei livelli di coinvolgimento dei partecipanti, consentendo agli host di monitorare la partecipazione, la partecipazione e le interazioni in tempo reale.
+La dashboard tiene traccia di varie metriche, tra cui risposte ai sondaggi, attività di chat e interazioni video, offrendo informazioni preziose sulle preferenze e i comportamenti dei partecipanti. Offre una panoramica completa delle attività dei partecipanti e dei livelli di coinvolgimento, consentendo agli host di monitorare la partecipazione, la partecipazione e le interazioni in tempo reale.
 
 Visualizza il coinvolgimento per i seguenti tipi di sessioni in un webinar interattivo.
 
@@ -102,15 +103,15 @@ SCHERMATA
 
 ### Coinvolgimento {#engagement}
 
-Questa interfaccia fornisce una panoramica delle prestazioni di una sessione live di un evento. La panoramica include metriche chiave, coinvolgimento nel tempo e interazioni dei partecipanti. Aiuta gli organizzatori a valutare il successo dell’evento e a identificare aree di miglioramento.
+Offre una panoramica delle prestazioni di un evento durante una sessione live. La panoramica include metriche chiave, coinvolgimento nel tempo e interazioni dei partecipanti. Aiuta gli organizzatori a valutare il successo dell’evento e a identificare aree di miglioramento.
 
-Dal pannello a sinistra, seleziona Coinvolgimento per visualizzare le prestazioni della sessione live. Seleziona Riepilogo coinvolgimento (PDF) per scaricare il riepilogo delle prestazioni della sessione live. La panoramica è suddivisa in diverse sezioni.
+Dal pannello a sinistra, seleziona **[!UICONTROL Coinvolgimento]** per visualizzare le prestazioni della sessione live. **[!UICONTROL Fai clic su Riepilogo coinvolgimento (PDF)]** per scaricare il riepilogo delle prestazioni della sessione live. La panoramica fornisce dati in diverse sezioni.
 
 SCHERMATA
 
 **Metriche chiave**
 
-Visualizza il numero di registrazioni, partecipanti e coinvolgimento nella sessione live dalle metriche chiave.
+Visualizza il numero di registrazioni, partecipanti e coinvolgimento nella sessione in tempo reale.
 
 SCHERMATA
 
@@ -134,14 +135,14 @@ SCHERMATA
   </tr>
   <tr>
     <td><b>Durata media controllo in minuti</td>
-    <td>Visualizza la durata media dell'orologio in minuti di sessione live.</td>
+    <td>Visualizza la durata media di osservazione in minuti della sessione in tempo reale.</td>
   </tr>
 </tbody>
 </table>
 
 **Coinvolgimento nel tempo**
 
-Dai grafici di coinvolgimento, scopri il coinvolgimento medio nel tempo durante la sessione live. Gli host possono monitorare la fluttuazione dei livelli di coinvolgimento, consentendo loro di identificare i momenti critici di interazione alta o bassa. Controlla quanto del punteggio medio di coinvolgimento è stato ottenuto dai partecipanti coinvolti in layout diversi.
+Dai grafici di coinvolgimento, scopri il coinvolgimento medio nel tempo durante la sessione live. Gli host possono monitorare la fluttuazione dei livelli di coinvolgimento, consentendo loro di identificare i momenti critici di interazione alta o bassa. Scopri quanto del punteggio medio di coinvolgimento è stato ottenuto dai partecipanti coinvolti in diversi layout.
 
 SCHERMATA
 
@@ -151,7 +152,7 @@ Passando il puntatore del mouse sul grafico, puoi visualizzare le seguenti infor
 * Punteggio medio di coinvolgimento in quel momento.
 * Numero di partecipanti impegnati in quel momento.
 * Layout del coinvolgimento in quel momento.
-* Selezionare Visualizza istantaneo in registrazione per visualizzare l&#39;istante in cui il coinvolgimento è stato alto o basso.
+* Selezionare **[!UICONTROL Visualizza l&#39;istante in registrazione]** per visualizzare l&#39;istante in cui il coinvolgimento è stato alto o basso.
 * Punteggio medio di coinvolgimento (%) nel tempo nella sessione
 * Partecipazione nel tempo durante la sessione
 * La partecipazione a diversi layout di webinar viene mostrata quando diversi layout sono stati utilizzati all’interno della stanza durante l’evento. Aiuta a correlare l&#39;aumento e la diminuzione del coinvolgimento in diversi layout.
@@ -162,28 +163,28 @@ Passando il puntatore del mouse sul grafico, puoi visualizzare le seguenti infor
 
 SCHERMATA
 
-Seleziona Vai alle interazioni per visualizzare le risposte dai sondaggi, le metriche di Controllo qualità e le reazioni dei partecipanti durante la sessione. Scopri in che modo i partecipanti vengono coinvolti nei diversi pod dei rapporti sulle interazioni e scarica i rapporti sulle interazioni dalla sezione seguente.
+Seleziona **[!UICONTROL Vai alle interazioni]** per visualizzare le risposte dai sondaggi, dalle metriche di Controllo qualità e dalle reazioni dei partecipanti durante la sessione. Scopri in che modo i partecipanti vengono coinvolti nei diversi pod dei rapporti sulle interazioni e scarica i rapporti sulle interazioni dalla sezione seguente.
 
 ### Interazioni {#interactions}
 
-Visualizzare il modo in cui i partecipanti interagiscono e interagiscono nella sessione da Interactions. Monitora risposte a sondaggi, metriche di controllo qualità, reazioni dei partecipanti e collegamenti e file rilasciati dai rispettivi pod. Gli host possono anche scaricare i rapporti di interazione di questi pod per una migliore analisi. Analizzando queste interazioni, è possibile individuare le tendenze e adeguare le strategie per incoraggiare un ambiente più interattivo e coinvolgente.
+Visualizzare il modo in cui i partecipanti interagiscono e interagiscono nella sessione da Interactions. Monitora risposte a sondaggi, metriche di controllo qualità, reazioni dei partecipanti e collegamenti e file rilasciati dai rispettivi pod. Gli host possono anche scaricare i rapporti di interazione di questi pod per una migliore analisi. Analizzando queste interazioni, puoi identificare le tendenze e adattare le loro strategie per incoraggiare un ambiente più interattivo e coinvolgente.
 
-Dal pannello a sinistra, seleziona Interazioni per visualizzare il modo in cui i partecipanti vengono coinvolti tra i pod.
+Dal pannello a sinistra, seleziona **[!UICONTROL Interazioni]** per visualizzare il modo in cui i partecipanti vengono coinvolti tra i pod.
 
 SCHERMATA
 
-Seleziona la scheda Sondaggi dalla barra dei menu per visualizzare le domande e le risposte aggiunte al sondaggio. Questa scheda mostra le seguenti informazioni:
+Seleziona la scheda **[!UICONTROL Sondaggi]** dalla barra dei menu per visualizzare le domande e le risposte aggiunte al sondaggio. Questa scheda mostra le seguenti informazioni:
 
-* Seleziona Rapporto di sondaggio (CSV) per scaricare il rapporto per le interazioni nel pod di sondaggio.
+* Seleziona **[!UICONTROL Rapporto sondaggio (CSV)]** per scaricare il rapporto per le interazioni nel pod di sondaggio.
 * Domanda di sondaggio e relativo tipo.
 * Numero di risposte e periodo durante il quale il sondaggio è stato aperto e attivato.
-* Selezionare Visualizza tutte le `<number>` risposte per visualizzarle in una finestra di dialogo.
+* Seleziona **Visualizza tutte le `<number>` risposte** per visualizzarle in una finestra di dialogo.
 
-Seleziona la scheda Altre interazioni dalla barra dei menu per visualizzare il coinvolgimento in altri pod e scaricare i relativi rapporti.
+Seleziona la scheda **[!UICONTROL Altre interazioni]** dalla barra dei menu per visualizzare il coinvolgimento in altri pod e scaricare i relativi rapporti.
 
 SCHERMATA
 
-Seleziona Scarica rapporti di interazione dal menu a discesa in alto a destra per scaricare rapporti di diversi pod. Scarica il rapporto Controllo di qualità, il rapporto Collegamenti e file e il rapporto Reazioni da qui per un migliore tracciamento.
+Seleziona **[!UICONTROL Scarica rapporti interazione]** dal menu a discesa per scaricare rapporti di diversi pod. Scarica il rapporto Controllo di qualità, il rapporto Collegamenti e file e il rapporto Reazioni da qui per un migliore tracciamento.
 
 Le informazioni sul coinvolgimento tra i pod sono disponibili in diverse sezioni.
 
@@ -219,7 +220,7 @@ Visualizza i collegamenti aggiunti al pod dei collegamenti web durante la sessio
 
 SCHERMATA
 
-Dal grafico, visualizzare i dettagli seguenti:
+Dal grafico, visualizza i seguenti dettagli:
 
 * Collegamenti aggiunti al pod weblinks.
 * Numero di partecipanti che hanno fatto clic su almeno un collegamento.
@@ -232,7 +233,7 @@ Visualizza i file aggiunti al pod dei file durante la sessione e il numero di do
 
 SCHERMATA
 
-Dal grafico, visualizzare i dettagli seguenti:
+Dal grafico, visualizza i seguenti dettagli:
 
 * Nome dei file aggiunti al pod dei file.
 * Numero di partecipanti che hanno scaricato almeno un file.
@@ -240,13 +241,13 @@ Dal grafico, visualizzare i dettagli seguenti:
 
 ### Attività on-demand {#on-demand-activity}
 
-Dal pannello a sinistra, seleziona Attività on-demand per visualizzare il riepilogo delle registrazioni. Puoi anche scaricare un rapporto per le attività on-demand.
+Dal pannello a sinistra, seleziona **[!UICONTROL Attività on-demand]** per visualizzare il riepilogo delle registrazioni. Puoi anche scaricare un rapporto per le attività on-demand.
 
 SCHERMATA
 
 Nell’attività on-demand, visualizza le metriche seguenti:
 
-* Seleziona Rapporto su richiesta (CSV) per scaricare le metriche su richiesta.
+* Fai clic su **[!UICONTROL Rapporto su richiesta (CSV)]** per scaricare le metriche su richiesta.
 * Numero di visualizzatori univoci fino all’ultimo aggiornamento del dashboard.
 * Numero di utenti che hanno visualizzato la registrazione ma non hanno potuto partecipare al webinar.
 * Numero di spettatori che hanno partecipato al webinar e hanno visualizzato la registrazione. È probabile che siano i migliori potenziali clienti.
@@ -255,7 +256,7 @@ Nell’attività on-demand, visualizza le metriche seguenti:
 
 ### Attività partecipante {#participant-activity}
 
-Dal pannello a sinistra, seleziona Attività partecipante per visualizzare informazioni consolidate sul livello di coinvolgimento di ciascun partecipante. Visualizza come questo impegno viene classificato nei livelli dal livello di coinvolgimento Partecipante. Per migliorare il tracciamento, seleziona Rapporto attività utente (CSV) per scaricarlo.
+Dal pannello a sinistra, seleziona **[!UICONTROL Attività partecipante]** per visualizzare informazioni consolidate sul livello di coinvolgimento di ciascun partecipante. Visualizza come questo impegno viene classificato nei livelli dal livello di coinvolgimento Partecipante. Fai clic su **[!UICONTROL Rapporto attività utente (CSV)]** per scaricare il rapporto e migliorarne il tracciamento.
 
 SCHERMATA
 
@@ -272,23 +273,26 @@ Visualizza i dettagli seguenti dalla tabella:
 
 Scarica i rapporti per diverse attività e pod da un hub centralizzato come host.
 
-1. Dal pannello a sinistra, seleziona Scarica rapporti.
-1. Seleziona Scarica tutto (.zip) per scaricare i rapporti per tutte le attività e i pod in una sola volta.
+1. Dal pannello a sinistra, seleziona **[!UICONTROL Scarica rapporti]**.
+
+1. Seleziona **[!UICONTROL Scarica tutto (.zip)]** per scaricare i report per tutte le attività e i pod contemporaneamente.
 
 SCHERMATA
 
-Seleziona l’icona accanto a ciascun rapporto per scaricarlo singolarmente.
+>[!NOTE]
+>
+>Fai clic sull’icona di download accanto a ciascun rapporto per scaricarlo singolarmente.
 
 ## Livello di coinvolgimento dei partecipanti {#participant-engagement-level}
 
-Le organizzazioni utilizzano Adobe Connect per fornire webinar altamente personalizzati, con marchio e basati sul coinvolgimento. Strumenti interattivi come sondaggi, chat, domande e risposte aiutano a coinvolgere i partecipanti e a raccogliere più dei soli dati di registrazione e partecipazione. Dopo che i partecipanti si sono interessati a queste funzioni interattive, i dati di coinvolgimento vengono utilizzati per classificare i partecipanti in tre livelli di coinvolgimento: alto, medio e basso. Gli addetti al marketing possono utilizzare il livello di coinvolgimento per aggiornare i segmenti di pubblico, i punteggi dei lead e le vendite degli avvisi.
+Le organizzazioni utilizzano Adobe Connect per fornire webinar altamente personalizzati, con marchio e basati sul coinvolgimento. Strumenti interattivi come sondaggi, chat, domande e risposte aiutano a coinvolgere i partecipanti e a raccogliere più dei soli dati di registrazione e partecipazione. Dopo che i partecipanti si sono interessati a queste funzioni interattive, i dati di coinvolgimento vengono utilizzati per classificare i partecipanti in tre livelli di coinvolgimento: alto, medio e basso. Puoi utilizzare il livello di coinvolgimento per aggiornare i segmenti di pubblico, i punteggi delle persone e le vendite degli avvisi.
 
-Comprendere il criterio per la classificazione del livello di coinvolgimento per ciascun partecipante:
+Comprendere i criteri per la classificazione del livello di coinvolgimento per ciascun partecipante:
 
 <table><thead>
   <tr>
     <th>Livello di coinvolgimento</th>
-    <th>Criterio di classificazione</th>
+    <th>Criteri di classificazione</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -299,7 +303,7 @@ Comprendere il criterio per la classificazione del livello di coinvolgimento per
     <li>Il partecipante ha posto almeno una domanda nel pod domande e risposte.</li></td>
   </tr>
   <tr>
-    <td>Medium</td>
+    <td>Canale</td>
     <td>Partecipanti che soddisfano tutti i seguenti criteri:
     <li>Il livello di coinvolgimento del partecipante non è determinato come elevato.</li>
     <li>La durata della partecipazione è di almeno il 60% del tempo totale dell'evento.</li>

@@ -4,34 +4,47 @@ title: Gestione della stanza
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '844'
+source-wordcount: '817'
 ht-degree: 0%
 
 ---
 
 # Gestione della stanza {#room-management}
 
-Le sale dei webinar interattivi gestiti da Adobe Connect sono progettate per facilitare l’organizzazione di eventi online coinvolgenti e collaborativi. Questi webinar memorizzano una quantità di contenuti e registrazioni nelle sale create dai membri autorizzati dell&#39;organizzazione. In qualità di membro con il diritto di creare una room, puoi accedervi e gestirli da una posizione centralizzata.
-
-Per gestire e accedere alle room o alle registrazioni create, attenersi alla procedura descritta di seguito.
-
-1. Selezionare la scheda Design Studio dalla barra dei menu superiore.
-1. Nel pannello di navigazione a sinistra, seleziona Modelli di webinar interattivi > Gestisci room.
-1. Consente di accedere e gestire room o registrazioni dalla barra dei menu superiore.
+Le sale dei webinar interattivi basati su Adobe Connect sono progettate per facilitare gli eventi online coinvolgenti e collaborativi. Questi webinar memorizzano una quantità di contenuti e registrazioni nelle sale create dai membri autorizzati dell&#39;organizzazione. In qualità di membro con il diritto di creare una room, puoi accedervi e gestirli da una posizione centralizzata.
 
 ## Gestione e accesso alle room {#manage-and-access-rooms}
+
+1. Selezionare la scheda Design Studio dalla barra dei menu superiore.
+
+1. Nel pannello di navigazione a sinistra, seleziona Webinar interattivi > Gestisci room.
+
+1. Consente di accedere e gestire room o registrazioni dalla barra dei menu superiore.
+
+NUOVA INTESTAZIONE
 
 Una sala di webinar interattiva è uno spazio virtuale progettato per ospitare eventi online live e coinvolgenti in cui i partecipanti possono interagire attivamente con il presentatore e altri partecipanti. In queste sale, puoi trovare i contenuti caricati e le registrazioni dei webinar.
 
 Per visualizzare l&#39;elenco di tutte le camere, selezionare Room nella barra dei menu superiore. In queste room puoi trovare tutte le room create con i contenuti caricati (collegala qui, dove viene spiegato come caricare i contenuti) e le registrazioni (collegala qui, dove sono spiegate le registrazioni). È inoltre possibile visualizzare il numero di registrazioni, la dimensione del file nella stanza e la data dell&#39;ultimo accesso per le rispettive stanze.
 
-TABELLA
-
-* Registrazioni: visualizza il numero di registrazioni disponibili in una stanza.
-* Dimensione file in-room: visualizza la dimensione file combinata del contenuto e delle registrazioni disponibili in una room.
-* Data ultimo accesso: mostra la data dell&#39;ultimo accesso alla room. Puoi ordinare le informazioni in base alla timeline.
+<table><tbody>
+  <tr>
+    <td><b>Registrazioni</td>
+    <td>Visualizzare il numero di registrazioni disponibili in una stanza.</td>
+  </tr>
+  <tr>
+    <td><b>Dimensione file in-room</td>
+    <td>Consente di visualizzare le dimensioni file combinate del contenuto e delle registrazioni disponibili in una stanza.</td>
+  </tr>
+  <tr>
+    <td><b>Ultimo accesso il</td>
+    <td>Mostra la data dell'ultimo accesso alla room. Puoi ordinare le informazioni in base alla timeline.</td>
+  </tr>
+</tbody>
+</table>
 
 SCHERMATA
 
@@ -94,7 +107,7 @@ Da questo hub centralizzato è possibile eseguire le azioni seguenti:
 
 Le registrazioni sono risorse preziose che catturano l&#39;essenza delle discussioni in tempo reale, delle presentazioni e delle sessioni di domande e risposte. Consentono ai partecipanti di rivedere informazioni chiave, dettagli saltati o concetti complessi al proprio ritmo.
 
-Dopo aver selezionato Registrazioni dalla barra superiore, si passa a Registrazioni personali, dove è possibile visualizzare un elenco di tutte le registrazioni caricate.
+Fare clic sulla scheda Registrazioni per visualizzare un elenco di tutte le registrazioni caricate.
 
 Nella sezione Registrazione personale è possibile trovare tutte le registrazioni disponibili nella stanza creata. È inoltre possibile visualizzarne le dimensioni, la data e l&#39;ora e la durata.
 

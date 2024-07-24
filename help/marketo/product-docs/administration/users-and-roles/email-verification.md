@@ -3,9 +3,9 @@ description: Verifica e-mail - Documentazione di Marketo - Documentazione del pr
 title: Verifica e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: c5d5fd490fe2800dc7a34d02c73d728e115646a0
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Quando un amministratore invita un utente, quest’ultimo viene verificato autom
 
 >[!IMPORTANT]
 >
->L&#39;eccezione a quanto sopra è _in una sottoscrizione di sola SSO_, gli amministratori riceveranno un nuovo invito utente, ma gli utenti non amministratori non lo riceveranno. Gli utenti che non sono amministratori devono comunque seguire il processo di verifica e-mail per garantire la migrazione dei propri record. Gli utenti possono inviarsi il collegamento di verifica tramite posta elettronica da **Amministratore** > **Il mio account** > **Impostazioni account** e facendo clic su **Invia di nuovo verifica**.
+>L&#39;eccezione a quanto sopra è _in una sottoscrizione di sola SSO_, gli amministratori riceveranno un nuovo invito utente, ma gli utenti non amministratori non lo riceveranno. Gli utenti che non sono amministratori devono comunque seguire il processo di verifica e-mail per garantire la migrazione dei propri record. Gli utenti possono inviare a se stessi il collegamento di verifica tramite e-mail facendo clic sull&#39;icona del proprio profilo e accedendo a **Il mio account** > **Impostazioni account** e facendo clic su **Invia di nuovo verifica**.
 
 ![](assets/email-verification-1.png)
 

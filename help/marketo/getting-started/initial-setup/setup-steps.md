@@ -4,9 +4,9 @@ short-description: Hai appena iniziato a usare Adobe Marketo Engage? Scopri qual
 title: Passaggi di configurazione
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
 workflow-type: tm+mt
-source-wordcount: '1708'
+source-wordcount: '1705'
 ht-degree: 0%
 
 ---
@@ -187,17 +187,17 @@ include:mktomail.com
 
 `b.` Per DKIM, creare record di risorse DNS per ogni dominio che si desidera impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
 
-**`[DKIMDomain1]`**: il record host è **`[HostRecord1]`** e il valore TXT è **[TXTValue1]**.
+**`[DKIMDomain1]`**: il record host è **`[HostRecord1]`** e il valore TXT è **`[TXTValue1]`**.
 
 **`[DKIMDomain2]`**: il record host è **`[HostRecord2]`** e il valore TXT è **`[TXTValue2]`**.
 
 `[`Copiare **HostRecord** e **TXTValue** per ogni **DKIMDomain** configurato dopo aver seguito le [istruzioni](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Non dimenticare di verificare ogni dominio in **Amministratore > E-mail > DKIM** dopo che il personale IT ha completato questo passaggio.`]`
 
-`5)` È necessario verificare che sia presente un record MX valido per i domini FROM **[FromDomain1]**, **[FromDomain2]**, ecc. Può confermare? In caso contrario, configuralo per eseguire il mapping al record MX del dominio aziendale. In questo modo sarà possibile elaborare le risposte e i risponditori automatici alle nostre comunicazioni Marketo.
+`5)` È necessario assicurarsi che sia presente un record MX valido per i domini FROM **`[FromDomain1]`**, **`[FromDomain2]`**, ecc. Può confermare? In caso contrario, configuralo per eseguire il mapping al record MX del dominio aziendale. In questo modo sarà possibile elaborare le risposte e i risponditori automatici alle nostre comunicazioni Marketo.
 
 Fatemi sapere quando avete completato questi passaggi, in modo che io possa completare il processo di configurazione con Marketo.
 
-Grazie! Sei il migliore!
+Grazie. Sei il migliore!
 
 Cordiali saluti
 
