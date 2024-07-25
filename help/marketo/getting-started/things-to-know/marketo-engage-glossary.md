@@ -1,7 +1,7 @@
 ---
-description: Glossario del Marketo Engage - Documentazione di Marketo - Documentazione del prodotto
-short-description: Scopri i termini di Marketo Engage e le relative definizioni per aiutarti a imparare rapidamente a utilizzare.
-title: Glossario Marketo Engage
+description: Glossario di Marketo Engage - Documentazione di Marketo - Documentazione del prodotto
+short-description: Scopri i termini di Marketo Engage e le relative definizioni per aiutarti ad utilizzarlo rapidamente.
+title: Glossario di Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
@@ -11,7 +11,7 @@ ht-degree: 1%
 
 ---
 
-# Glossario Marketo Engage {#marketo-engage-glossary}
+# Glossario di Marketo Engage {#marketo-engage-glossary}
 
 Di seguito sono riportate le definizioni di molti dei termini che è possibile incontrare quando si utilizza Marketo Engage. Per richiedere l&#39;aggiunta di un termine, [inviaci un&#39;email](mailto:GRP-Marketo-articlefeedback@adobe.com).
 
@@ -144,7 +144,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">Un cast è l'evento di invio di e-mail da un <strong>programma di coinvolgimento</strong>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>Canale</strong></a></td> 
+   <td colspan="1"><a href="/help/marketo/product-docs/administration/tags/create-a-program-channel.md" rel="nofollow"><strong>Channel</strong></a></td> 
    <td colspan="1">Tipo di attività di marketing associata a un <strong>programma</strong> (ad esempio e-mail, <strong>webinar, </strong>fiera, roadshow, pubblicità online e così via). </td> 
   </tr> 
   <tr> 
@@ -244,7 +244,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">Un tipo di programma in Marketo. Un programma generico da utilizzare quando un programma di e-mail, evento o coinvolgimento non è rilevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Recapito dei messaggi</strong></td> 
+   <td colspan="1"><strong>Strategia e definizione</strong></td> 
    <td colspan="1">La capacità di un messaggio e-mail di raggiungere la casella in entrata del destinatario, che può essere interessata da <strong>spam</strong> e filtri lato client. Diverso da "Consegnato", che indica solo che l’e-mail è stata consegnata al server del destinatario.</td> 
   </tr> 
   <tr> 
@@ -460,7 +460,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   <tr> 
    <td> 
     <div> 
-     <p><strong>Pagina di destinazione</strong></p> 
+     <p><strong>Landing Page</strong></p> 
     </div></td> 
    <td>Pagina ospitata da Marketo che consente di visualizzare <strong>contenuto</strong> e tenere traccia dei visitatori. Esistono due tipi diversi: in formato libero e guidato. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Le pagine di destinazione in formato libero</a> consentono di trascinare il contenuto desiderato ovunque. Le <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">pagine di destinazione guidate</a> sono più rigorose, con un layout/struttura predefinito determinato dal <strong>modello</strong>.</td> 
   </tr> 

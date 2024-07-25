@@ -1,16 +1,16 @@
 ---
-description: Note sulla versione del Dynamic Chat - Documentazione di Marketo - Documentazione del prodotto
-title: Note sulla versione del Dynamic Chat
+description: Note sulla versione corrente di Dynamic Chat - Documenti Marketo - Documentazione del prodotto
+title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
 workflow-type: tm+mt
 source-wordcount: '1472'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Note sulla versione del Dynamic Chat {#dynamic-chat-release}
+# Note sulla versione di Dynamic Chat {#dynamic-chat-release}
 
 I rilasci di Adobe Dynamic Chat funzionano su un modello di distribuzione continua che consente un approccio più scalabile alla distribuzione delle funzioni. A volte ci sono più versioni in un mese, quindi controlla regolarmente per informazioni sempre aggiornate.
 
@@ -18,7 +18,7 @@ La pagina delle note sulla versione standard per il Marketo Engage [ si trova qu
 
 ## Versione di giugno 2024 {#june-release}
 
-**Data di rilascio: 6 giugno 2024**
+**Data di rilascio: venerdì 6 giugno 2024**
 
 ### Scheda flusso conversazionale {#conversational-flow-card}
 
@@ -38,7 +38,7 @@ La pagina Limiti di utilizzo mostra informazioni importanti, ad esempio i dettag
 
 ## Versione di maggio 2024 {#may-release}
 
-**Data di rilascio: 15 maggio 2024**
+**Data di rilascio: giovedì 15 maggio 2024**
 
 ### Libreria di risposte preapprovata {#pre-approved-response-library}
 
@@ -76,7 +76,7 @@ Incoraggia i visitatori Web con un invito all’azione per indirizzare le conver
 
 ## Versione di aprile 2024 {#april-release}
 
-**Data di rilascio: 23 aprile 2024**
+**Data di rilascio: mercoledì 23 aprile 2024**
 
 ### Flussi conversazionali ora disponibili per tutti gli utenti {#conversational-flows-available-to-all-users}
 
@@ -177,7 +177,7 @@ Quando abbiamo rilasciato il Dynamic Chat nel 2022, non c&#39;era supporto per l
 
 ## Versione di febbraio 2024 {#february-release}
 
-**Data di rilascio: 22 febbraio 2024**
+**Data di rilascio: venerdì 22 febbraio 2024**
 
 ### Pagina Conversazioni {#conversations-page}
 
@@ -195,7 +195,7 @@ La diramazione condizionale consente di creare rami nei flussi della finestra di
 
 ## Versione di gennaio 2024 {#january-release}
 
-**Data di rilascio: 24 gennaio 2024**
+**Data di rilascio: giovedì 24 gennaio 2024**
 
 ### Limite simultaneo di chat live nella gestione degli agenti {#Concurrent-live-chat-limit-setting}
 

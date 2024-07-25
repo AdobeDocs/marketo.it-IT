@@ -1,19 +1,19 @@
 ---
-description: Prima di immergerti nella nuova istanza di Marketo Engage, devi completare alcuni passaggi fondamentali per un utilizzo continuo. Questi passaggi includono la configurazione dell’account utente, l’impostazione dell’amministratore di supporto e la sottoscrizione agli aggiornamenti di sistema in corso.
-short-description: Dopo aver completato i passaggi di configurazione iniziali, scopri come stabilire elementi fondamentali per garantire un utilizzo continuo e fluido.
+description: Prima di iniziare a utilizzare la nuova istanza di Marketo Engage, devi completare alcuni passaggi fondamentali per un utilizzo continuo. Questi passaggi includono la configurazione dell’account utente, dell’amministratore di supporto e la sottoscrizione agli aggiornamenti di sistema in corso.
+short-description: Dopo aver completato i passaggi di configurazione iniziali, scopri come determinare gli elementi fondamentali per garantire un utilizzo continuo e fluido.
 title: Elenco di controllo per l'impostazione dell'utente
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
 source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
 workflow-type: tm+mt
 source-wordcount: '811'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Elenco di controllo per l&#39;impostazione dell&#39;utente {#user-setup-checklist}
 
-Ora che hai completato tutti i [passaggi di configurazione iniziali](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, è necessario stabilire alcuni elementi fondamentali per garantire un utilizzo regolare e continuo. In questo modo, il percorso potrà disporre delle basi necessarie per il Marketo Engage e sarà possibile sfruttarne al meglio le funzionalità. Iniziamo!
+Ora che hai completato tutti i [passaggi di configurazione iniziali](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}, è necessario stabilire alcuni elementi fondamentali per garantire un utilizzo regolare e continuo. In questo modo, il percorso potrà disporre delle basi necessarie per il Marketo Engage e sarà possibile sfruttarne al meglio le funzionalità. Cominciamo.
 
 >[!NOTE]
 >
