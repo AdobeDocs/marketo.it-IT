@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
 workflow-type: tm+mt
-source-wordcount: '1759'
+source-wordcount: '1742'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,15 @@ Visualizza il coinvolgimento per i seguenti tipi di sessioni in un webinar inter
 
 1. Vai a **[!UICONTROL Attività di marketing]**.
 
-   SCHERMATA
+   ![](assets/engagement-dashboard-1.png)
 
 1. Seleziona l’evento desiderato.
 
-   SCHERMATA
+   ![](assets/engagement-dashboard-2.png)
 
 1. In Panoramica, fare clic su **[!UICONTROL Visualizza dashboard di coinvolgimento]**.
 
-   SCHERMATA
+   ![](assets/engagement-dashboard-3.png)
 
    >[!NOTE]
    >
@@ -79,7 +79,7 @@ Puoi visualizzare i seguenti dettagli nel dashboard del coinvolgimento.
 
 Questa interfaccia fornisce una vista consolidata delle prestazioni dell’evento per le sessioni live e on-demand. Dal pannello a sinistra, seleziona Riepilogo eventi per visualizzare le metriche generali.
 
-SCHERMATA
+![](assets/engagement-dashboard-4.png)
 
 <table><tbody>
   <tr>
@@ -107,13 +107,13 @@ Offre una panoramica delle prestazioni di un evento durante una sessione live. L
 
 Dal pannello a sinistra, seleziona **[!UICONTROL Coinvolgimento]** per visualizzare le prestazioni della sessione live. **[!UICONTROL Fai clic su Riepilogo coinvolgimento (PDF)]** per scaricare il riepilogo delle prestazioni della sessione live. La panoramica fornisce dati in diverse sezioni.
 
-SCHERMATA
+![](assets/engagement-dashboard-5.png)
 
 **Metriche chiave**
 
 Visualizza il numero di registrazioni, partecipanti e coinvolgimento nella sessione in tempo reale.
 
-SCHERMATA
+![](assets/engagement-dashboard-6.png)
 
 <table><tbody>
   <tr>
@@ -144,7 +144,7 @@ SCHERMATA
 
 Dai grafici di coinvolgimento, scopri il coinvolgimento medio nel tempo durante la sessione live. Gli host possono monitorare la fluttuazione dei livelli di coinvolgimento, consentendo loro di identificare i momenti critici di interazione alta o bassa. Scopri quanto del punteggio medio di coinvolgimento è stato ottenuto dai partecipanti coinvolti in diversi layout.
 
-SCHERMATA
+![](assets/engagement-dashboard-7.png)
 
 Passando il puntatore del mouse sul grafico, puoi visualizzare le seguenti informazioni:
 
@@ -161,7 +161,7 @@ Passando il puntatore del mouse sul grafico, puoi visualizzare le seguenti infor
 
 È possibile visualizzare le interazioni dei partecipanti da diversi pod. Fornisce informazioni quali sondaggi con risposta, domande, Interagire con la chat, Clic su almeno un collegamento e Download di almeno un file.
 
-SCHERMATA
+![](assets/engagement-dashboard-8.png)
 
 Seleziona **[!UICONTROL Vai alle interazioni]** per visualizzare le risposte dai sondaggi, dalle metriche di Controllo qualità e dalle reazioni dei partecipanti durante la sessione. Scopri in che modo i partecipanti vengono coinvolti nei diversi pod dei rapporti sulle interazioni e scarica i rapporti sulle interazioni dalla sezione seguente.
 
@@ -171,7 +171,7 @@ Visualizzare il modo in cui i partecipanti interagiscono e interagiscono nella s
 
 Dal pannello a sinistra, seleziona **[!UICONTROL Interazioni]** per visualizzare il modo in cui i partecipanti vengono coinvolti tra i pod.
 
-SCHERMATA
+![](assets/engagement-dashboard-9.png)
 
 Seleziona la scheda **[!UICONTROL Sondaggi]** dalla barra dei menu per visualizzare le domande e le risposte aggiunte al sondaggio. Questa scheda mostra le seguenti informazioni:
 
@@ -182,7 +182,7 @@ Seleziona la scheda **[!UICONTROL Sondaggi]** dalla barra dei menu per visualizz
 
 Seleziona la scheda **[!UICONTROL Altre interazioni]** dalla barra dei menu per visualizzare il coinvolgimento in altri pod e scaricare i relativi rapporti.
 
-SCHERMATA
+![](assets/engagement-dashboard-10.png)
 
 Seleziona **[!UICONTROL Scarica rapporti interazione]** dal menu a discesa per scaricare rapporti di diversi pod. Scarica il rapporto Controllo di qualità, il rapporto Collegamenti e file e il rapporto Reazioni da qui per un migliore tracciamento.
 
@@ -192,7 +192,7 @@ Le informazioni sul coinvolgimento tra i pod sono disponibili in diverse sezioni
 
 Visualizza i seguenti attributi del pod domande e risposte.
 
-SCHERMATA
+![](assets/engagement-dashboard-11.png)
 
 * Totale domande poste.
 * Numero di domande senza risposta.
@@ -204,7 +204,7 @@ SCHERMATA
 
 Guarda le reazioni dei partecipanti da qui, come essere d&#39;accordo, in disaccordo, applauditi e ridenti durante la sessione.
 
-SCHERMATA
+![](assets/engagement-dashboard-12.png)
 
 Dal grafico delle reazioni, visualizza i seguenti dettagli:
 
@@ -218,7 +218,7 @@ Dal grafico delle reazioni, visualizza i seguenti dettagli:
 
 Visualizza i collegamenti aggiunti al pod dei collegamenti web durante la sessione e il numero di clic sul collegamento condiviso. Il pod Weblinks consente di aggiungere collegamenti da origini esterne al webinar per generare coinvolgimento.
 
-SCHERMATA
+![](assets/engagement-dashboard-13.png)
 
 Dal grafico, visualizza i seguenti dettagli:
 
@@ -231,7 +231,7 @@ Dal grafico, visualizza i seguenti dettagli:
 
 Visualizza i file aggiunti al pod dei file durante la sessione e il numero di download univoci. Il pod dei file consente di aggiungere file e fornire risorse per generare coinvolgimento.
 
-SCHERMATA
+![](assets/engagement-dashboard-14.png)
 
 Dal grafico, visualizza i seguenti dettagli:
 
@@ -243,7 +243,7 @@ Dal grafico, visualizza i seguenti dettagli:
 
 Dal pannello a sinistra, seleziona **[!UICONTROL Attività on-demand]** per visualizzare il riepilogo delle registrazioni. Puoi anche scaricare un rapporto per le attività on-demand.
 
-SCHERMATA
+![](assets/engagement-dashboard-15.png)
 
 Nell’attività on-demand, visualizza le metriche seguenti:
 
@@ -258,7 +258,7 @@ Nell’attività on-demand, visualizza le metriche seguenti:
 
 Dal pannello a sinistra, seleziona **[!UICONTROL Attività partecipante]** per visualizzare informazioni consolidate sul livello di coinvolgimento di ciascun partecipante. Visualizza come questo impegno viene classificato nei livelli dal livello di coinvolgimento Partecipante. Fai clic su **[!UICONTROL Rapporto attività utente (CSV)]** per scaricare il rapporto e migliorarne il tracciamento.
 
-SCHERMATA
+![](assets/engagement-dashboard-16.png)
 
 Visualizza i dettagli seguenti dalla tabella:
 
@@ -277,7 +277,7 @@ Scarica i rapporti per diverse attività e pod da un hub centralizzato come host
 
 1. Seleziona **[!UICONTROL Scarica tutto (.zip)]** per scaricare i report per tutte le attività e i pod contemporaneamente.
 
-SCHERMATA
+   ![](assets/engagement-dashboard-17.png)
 
 >[!NOTE]
 >
