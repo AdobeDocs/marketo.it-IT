@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,17 @@ Puoi personalizzare le seguenti opzioni:
 
 ## Personalizzare le schermate dei webinar interattivi {#customize-interactive-webinar-screens}
 
-1. Fare clic su **Design Studio**.
+1. Passare a **Design Studio**.
+
+   ![](assets/interactive-webinars-customization-1.png)
 
 1. Fai clic su **Webinar interattivi** e seleziona **Personalizza webinar**.
 
-1. Personalizzare l&#39;interfaccia della room, le schermate immediate o gli sfondi video virtuali dalla barra dei menu.
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. È possibile personalizzare l&#39;interfaccia della stanza, gli schermi immediati o gli sfondi video virtuali.
+
+   ![](assets/interactive-webinars-customization-3.png)
 
 ### Personalizzare l&#39;interfaccia della room {#customize-the-room-interface}
 
@@ -41,27 +47,25 @@ Per personalizzare l&#39;aspetto di una room, selezionare la scheda Interfaccia 
 
 1. Nel pannello a destra, personalizzate le seguenti preferenze:
 
-SCHERMATA
+   ![](assets/interactive-webinars-customization-4.png)
 
-**Logo personalizzato**: seleziona Carica logo e sfoglia l&#39;immagine dal dispositivo. Le dimensioni dell&#39;immagine non devono superare i 50 x 31 pixel e possono essere in diversi formati di file: svg, gif, jpg e png. È possibile modificare o eliminare il logo.
+   **Logo personalizzato**: seleziona Carica logo e sfoglia l&#39;immagine dal dispositivo. Le dimensioni dell&#39;immagine non devono superare i 50 x 31 pixel e possono essere in diversi formati di file: svg, gif, jpg e png. È possibile modificare o eliminare il logo.
 
-**Collegamento di reindirizzamento**: aggiungi un URL per reindirizzare i partecipanti dopo che hanno fatto clic sul logo.
+   **Collegamento di reindirizzamento**: aggiungi un URL per reindirizzare i partecipanti dopo che hanno fatto clic sul logo.
 
-**Testo alternativo**: aggiungere un testo alternativo per i partecipanti utilizzando le funzionalità di accesso facilitato.
+   **Testo alternativo**: aggiungere un testo alternativo per i partecipanti utilizzando le funzionalità di accesso facilitato.
 
-**Colori**: selezionare i colori per la barra della stanza, le icone della stanza, lo sfondo della stanza, la barra del pod e le sezioni/icone del pod per modificare il colore delle diverse sezioni.
+   **Colori**: selezionare i colori per la barra della stanza, le icone della stanza, lo sfondo della stanza, la barra del pod e le sezioni/icone del pod per modificare il colore delle diverse sezioni.
 
-È inoltre possibile immettere il codice colore HEX utilizzando l&#39;opzione HEX.
+   È inoltre possibile immettere il codice colore HEX utilizzando l&#39;opzione HEX.
 
-Selezionare **[!UICONTROL Visualizza modelli]** per modificare il tema della room.
+   Selezionare **[!UICONTROL Visualizza modelli]** per modificare il tema della room.
 
-Dopo aver apportato le modifiche, è possibile controllare il logo e i colori in Anteprima.
+   Dopo aver apportato le modifiche, è possibile controllare il logo e i colori in Anteprima.
 
-1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche.
+1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
 
->[!NOTE]
->
->Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
+   ![](assets/interactive-webinars-customization-5.png)
 
 ### Personalizzare le schermate intermedie {#customize-intermediate-screens}
 
@@ -71,19 +75,13 @@ Per personalizzare l&#39;aspetto di una stanza, selezionare la scheda Schermi in
 
 1. Nel pannello di destra, personalizzare l&#39;immagine di sfondo selezionando **Carica immagine** e cerca un logo in un&#39;immagine. Le dimensioni dell&#39;immagine non devono superare i 1920 x 1080 pixel e possono essere in diversi formati di file: svg, gif, jpg e png. Se necessario, è possibile modificare o eliminare il logo.
 
-Dopo aver apportato le modifiche, visualizzare lo sfondo in Anteprima.
+   ![](assets/interactive-webinars-customization-6.png)
 
-SCHERMATA
+   >[!NOTE]
+   >
+   >L’immagine caricata viene applicata nelle schermate Entrata, Uscita e In attesa.
 
->[!NOTE]
->
->L’immagine caricata viene applicata nelle schermate Entrata, Uscita e In attesa.
-
-1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche.
-
->[!NOTE]
->
->Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
+1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
 
 ### Personalizzare gli sfondi di video virtuali {#Customize-virtual-video-backgrounds}
 
@@ -91,11 +89,11 @@ Durante gli eventi, utilizza sfondi definiti dall&#39;organizzazione per visuali
 
 **Sfondi personalizzati**
 
-Utilizza l’interruttore di attivazione per consentire sfondi personalizzati negli eventi e nelle sale.
+1. Fai clic sull’interruttore di attivazione per consentire sfondi personalizzati negli eventi e nelle sale.
+
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. Seleziona **Carica sfondo** per caricare uno sfondo personalizzato. Le dimensioni dell&#39;immagine non devono superare i 1920 x 1080 pixel e possono essere in diversi formati di file: svg, gif, jpg e png.
-
-SCHERMATA
 
 Passa il cursore del mouse sull’immagine di sfondo personalizzata per eliminarla dagli sfondi video.
 
@@ -103,11 +101,7 @@ Dopo aver apportato le modifiche, visualizzare lo sfondo in Anteprima.
 
 È possibile utilizzare il dispositivo di scorrimento nella schermata Anteprima per ingrandire o ridurre e verificare l&#39;aspetto dello sfondo virtuale se l&#39;utente si trova vicino o lontano dalla fotocamera. Se sullo sfondo è presente del testo, questo contribuirà a garantirne la visibilità.
 
-1. Seleziona **Applica** per salvare le modifiche.
-
->[!NOTE]
->
->Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
+1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
 
 **Sfondi Adobe Connect**
 
@@ -115,6 +109,6 @@ Adobe Connect fornisce nove sfondi predefiniti pronti per l’uso. Potete visual
 
 Utilizza l’interruttore di attivazione per controllare la disponibilità di questi sfondi predefiniti negli eventi e nelle sale.
 
-SCHERMATA
+![](assets/interactive-webinars-customization-8.png)
 
-Seleziona **Applica** per salvare le modifiche oppure seleziona **Ripristina impostazioni predefinite** per reimpostare le impostazioni predefinite.
+Seleziona **Applica** per salvare le modifiche o **Ripristina impostazioni predefinite** per ripristinare le impostazioni predefinite.
