@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 9d3fab2c007922aa4f250cc16f84d23edfe81c6a
+source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Per visualizzare l&#39;elenco di tutte le camere, seleziona **[!UICONTROL Camere
 </tbody>
 </table>
 
-SCHERMATA
+![](assets/room-management-3.png)
 
 Da questa interfaccia centralizzata è possibile eseguire le azioni seguenti:
 
@@ -82,7 +82,7 @@ La scheda Contenuto consente di visualizzare i file caricati, il loro tipo, le d
 </tbody>
 </table>
 
-SCHERMATA
+![](assets/room-management-4.png)
 
 Nella scheda Contenuto è possibile eseguire le azioni seguenti:
 
@@ -96,14 +96,14 @@ Nella scheda Contenuto è possibile eseguire le azioni seguenti:
 
 La scheda Registrazioni consente di visualizzare tutte le registrazioni disponibili in questa room. Ogni registrazione viene visualizzata con dettagli quali dimensioni, data e ora di registrazione e durata.
 
-SCHERMATA
+![](assets/room-management-5.png)
 
 Da questo hub centralizzato è possibile eseguire le azioni seguenti:
 
 * Fare clic sul pulsante **[!UICONTROL Launch room]** per avviare e accedere alla room.
 * Utilizzare la barra di ricerca per trovare la registrazione desiderata.
 * Fai clic sull’icona Scarica file per scaricare un file sul dispositivo. Selezionare due o più file da scaricare in blocco.
-* Fai clic sull’icona Copia registrazione per copiare l’URL di registrazione.
+* Fai clic sull’icona del collegamento Copia registrazione per copiare l’URL di registrazione.
 * Fare clic sull&#39;icona Modifica registrazione per apportare modifiche alla registrazione.
 * Fare clic sull&#39;icona Elimina per rimuovere la registrazione. Quando una registrazione viene eliminata, non può essere recuperata.
 * Selezionare una registrazione per riprodurla sul dispositivo.
@@ -112,18 +112,17 @@ Da questo hub centralizzato è possibile eseguire le azioni seguenti:
 
 Le registrazioni sono risorse preziose che catturano l&#39;essenza delle discussioni in tempo reale, delle presentazioni e delle sessioni di domande e risposte. Consentono ai partecipanti di rivedere informazioni chiave, dettagli saltati o concetti complessi al proprio ritmo.
 
-Fai clic sulla scheda **Registrazioni** per visualizzare un elenco di tutte le registrazioni caricate.
+Fai clic sulla scheda **[!UICONTROL Registrazioni]** per visualizzare un elenco di tutte le registrazioni caricate.
 
-Nella sezione Registrazione personale è possibile trovare tutte le registrazioni disponibili nella stanza creata. È inoltre possibile visualizzarne le dimensioni, la data e l&#39;ora e la durata.
+In **[!UICONTROL Registrazioni personali]** è possibile trovare tutte le registrazioni disponibili nella room creata. È inoltre possibile visualizzarne le dimensioni, la data e l&#39;ora e la durata.
 
-SCHERMATA
+![](assets/room-management-6.png)
 
 Da questo hub centralizzato è possibile eseguire le azioni seguenti:
 
 * Utilizzare la barra di ricerca per trovare la registrazione desiderata. Puoi anche eseguire ricerche all’interno di una timeline selezionando un intervallo di date.
-* Seleziona il collegamento per la registrazione della copia   per copiare l&#39;URL di registrazione.
-* Modificare la registrazione. (aggiungi un collegamento per modificare la registrazione su &quot;modifica&quot; parola)
-* Selezionare Modifica registrazione per apportare modifiche alla registrazione. (aggiungi un collegamento per modificare la registrazione su &quot;modifica&quot; parola)
-* Seleziona Mostra pagina collegata   per visualizzare le informazioni sulla room in cui è disponibile la registrazione selezionata.
-* Utilizzare Elimina stanza per rimuovere la registrazione. Una volta eliminata, la registrazione non può essere recuperata.
+* Fai clic sull’icona del collegamento Copia registrazione per copiare l’URL di registrazione.
+* Fare clic sull&#39;icona Modifica registrazione per apportare modifiche alla registrazione.
+* Fare clic sull&#39;icona Mostra pagina collegata per visualizzare le informazioni sulla room in cui è disponibile la registrazione selezionata.
+* Fare clic sull&#39;icona Elimina per rimuovere la registrazione. Quando una registrazione viene eliminata, non può essere recuperata.
 * Selezionare una registrazione per riprodurla sul dispositivo.
