@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: dc792cb088202b59283bb1146b19f6b086907053
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '676'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -25,19 +25,43 @@ Puoi personalizzare le seguenti opzioni:
 * Logo
 * Sfondi video virtuali
 
+## Concedere le autorizzazioni {#grant-permissions}
+
+Prima che qualsiasi utente dell’organizzazione possa personalizzare i webinar interattivi, un amministratore di Marketo Engage deve innanzitutto aggiungere l’accesso ai ruoli desiderati.
+
+1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
+
+   ![](assets/interactive-webinars-customization-1.png)
+
+1. Fai clic su **[!UICONTROL Utenti e ruoli]**, quindi sulla scheda **[!UICONTROL Ruoli]**.
+
+   ![](assets/interactive-webinars-customization-2.png)
+
+1. Fare doppio clic sul ruolo a cui si desidera aggiungere le autorizzazioni.
+
+   ![](assets/interactive-webinars-customization-3.png)
+
+1. Fare clic per aprire **[!UICONTROL Access Design Studio]**.
+
+   ![](assets/interactive-webinars-customization-4.png)
+
+1. Selezionare la casella di controllo **[!UICONTROL Accedi alla personalizzazione dei webinar interattivi]**.
+
+   ![](assets/interactive-webinars-customization-5.png)
+
 ## Personalizzare le schermate dei webinar interattivi {#customize-interactive-webinar-screens}
 
 1. Passare a **Design Studio**.
 
-   ![](assets/interactive-webinars-customization-1.png)
+   ![](assets/interactive-webinars-customization-6.png)
 
 1. Fai clic su **Webinar interattivi** e seleziona **Personalizza webinar**.
 
-   ![](assets/interactive-webinars-customization-2.png)
+   ![](assets/interactive-webinars-customization-7.png)
 
 1. È possibile personalizzare l&#39;interfaccia della stanza, gli schermi immediati o gli sfondi video virtuali.
 
-   ![](assets/interactive-webinars-customization-3.png)
+   ![](assets/interactive-webinars-customization-8.png)
 
 ### Personalizzare l&#39;interfaccia della room {#customize-the-room-interface}
 
@@ -47,7 +71,7 @@ Per personalizzare l&#39;aspetto di una room, selezionare la scheda Interfaccia 
 
 1. Nel pannello a destra, personalizzate le seguenti preferenze:
 
-   ![](assets/interactive-webinars-customization-4.png)
+   ![](assets/interactive-webinars-customization-9.png)
 
    **Logo personalizzato**: seleziona Carica logo e sfoglia l&#39;immagine dal dispositivo. Le dimensioni dell&#39;immagine non devono superare i 50 x 31 pixel e possono essere in diversi formati di file: svg, gif, jpg e png. È possibile modificare o eliminare il logo.
 
@@ -65,7 +89,7 @@ Per personalizzare l&#39;aspetto di una room, selezionare la scheda Interfaccia 
 
 1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
 
-   ![](assets/interactive-webinars-customization-5.png)
+   ![](assets/interactive-webinars-customization-10.png)
 
 ### Personalizzare le schermate intermedie {#customize-intermediate-screens}
 
@@ -75,7 +99,7 @@ Per personalizzare l&#39;aspetto di una stanza, selezionare la scheda Schermi in
 
 1. Nel pannello di destra, personalizzare l&#39;immagine di sfondo selezionando **Carica immagine** e cerca un logo in un&#39;immagine. Le dimensioni dell&#39;immagine non devono superare i 1920 x 1080 pixel e possono essere in diversi formati di file: svg, gif, jpg e png. Se necessario, è possibile modificare o eliminare il logo.
 
-   ![](assets/interactive-webinars-customization-6.png)
+   ![](assets/interactive-webinars-customization-11.png)
 
    >[!NOTE]
    >
@@ -91,7 +115,7 @@ Durante gli eventi, utilizza sfondi definiti dall&#39;organizzazione per visuali
 
 1. Fai clic sull’interruttore di attivazione per consentire sfondi personalizzati negli eventi e nelle sale.
 
-   ![](assets/interactive-webinars-customization-7.png)
+   ![](assets/interactive-webinars-customization-12.png)
 
 1. Seleziona **Carica sfondo** per caricare uno sfondo personalizzato. Le dimensioni dell&#39;immagine non devono superare i 1920 x 1080 pixel e possono essere in diversi formati di file: svg, gif, jpg e png.
 
@@ -109,6 +133,6 @@ Adobe Connect fornisce nove sfondi predefiniti pronti per l’uso. Potete visual
 
 Utilizza l’interruttore di attivazione per controllare la disponibilità di questi sfondi predefiniti negli eventi e nelle sale.
 
-![](assets/interactive-webinars-customization-8.png)
+![](assets/interactive-webinars-customization-13.png)
 
 Seleziona **Applica** per salvare le modifiche o **Ripristina impostazioni predefinite** per ripristinare le impostazioni predefinite.

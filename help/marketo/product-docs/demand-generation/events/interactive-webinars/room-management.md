@@ -5,16 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 5757be46841e10ab12ea320ae380c434361a4240
+source-git-commit: 1d2dbc5859b031995eb487f617ace9fdb2be7f0b
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
 # Gestione della stanza {#room-management}
 
-Le sale dei webinar interattivi basati su Adobe Connect sono progettate per facilitare gli eventi online coinvolgenti e collaborativi. Questi webinar memorizzano una quantità di contenuti e registrazioni nelle sale create dai membri autorizzati dell&#39;organizzazione. In qualità di membro con il diritto di creare una room, puoi accedervi e gestirli da una posizione centralizzata.
+Le sale dei webinar interattivi basati su Adobe Connect sono progettate per facilitare gli eventi online coinvolgenti e collaborativi. Questi webinar memorizzano il contenuto e le registrazioni create e utilizzate durante il webinar. In qualità di membro con il diritto di creare una room, puoi accedervi e gestirli da una posizione centrale.
+
+>[!NOTE]
+>
+>Puoi accedere solo alle chat che hai creato per un webinar e non alle chat di altri membri della tua organizzazione.
 
 ## Gestione e accesso a room e registrazioni {#manage-and-access-rooms-and-recordings}
 
