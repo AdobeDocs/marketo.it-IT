@@ -3,10 +3,10 @@ description: Note sulla versione - Marzo 2024 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
@@ -53,8 +53,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
     <tr> 
    <td><strong>Metadati attività API</strong>: 
    I metadati come Agente utente, Platform e Device sono ora inclusi nelle attività web ed e-mail, consentendo di ottenere informazioni coerenti su queste attività tramite l’API REST di Marketo.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
  </tbody> 
 </table>

@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: d61ac2c4b7c3fbd138a75b51bb184e4bfd1eef3c
+source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 3%
 
 ---
@@ -33,8 +33,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
      <tr> 
    <td><strong>Dashboard di coinvolgimento per i webinar interattivi</strong>: ottieni una visualizzazione delle prestazioni del webinar aggregato e una visualizzazione completa del coinvolgimento per ogni partecipante durante il webinar in modo da poter decidere quali lead indirizzare a target tramite gli strumenti di orchestrazione del Marketo Engage.</td> 
-    <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+    <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Dashboard di coinvolgimento</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -44,8 +44,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
      <tr> 
    <td><strong>Room Management per webinar interattivi</strong>: accedere alle singole room create (e apportare modifiche se necessario), nonché accedere al contenuto e alla registrazione (e cancellarle se necessario per ottimizzare lo storage).</td> 
-    <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+    <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gestione della stanza</a></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -55,8 +55,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
      <tr> 
    <td><strong>Personalizzazione dei webinar interattivi</strong>: fornisci un'esperienza uniforme approvata dall'organizzazione tramite l'utilizzo di un'interfaccia comune per la sala riunioni, schermate intermedie (come gli sfondi delle schermate di ingresso dei partecipanti) e sfondi video personalizzati, in modo che la strategia del webinar possa allinearsi più facilmente alla strategia del marchio.</td> 
-    <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+    <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personalizzazione dei webinar interattivi</a></td>
   </tr>
   <tr> 
    <td> </td> 
