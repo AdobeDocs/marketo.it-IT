@@ -4,16 +4,20 @@ description: Impostare il requisito di condivisione social - Documentazione di M
 title: Imposta requisito condivisione social network
 exl-id: 5aa8f245-f122-44eb-bec4-0a41c2509706
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 
 ---
 
 # Imposta requisito condivisione social network {#set-social-share-requirement}
 
 Quando [crei un&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md), puoi richiedere agli utenti di condividere l&#39;offerta per iscriversi o renderla facoltativa.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vai a **Attività di marketing**.
 

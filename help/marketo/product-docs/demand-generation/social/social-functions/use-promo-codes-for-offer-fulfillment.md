@@ -4,16 +4,20 @@ description: Utilizzare i codici promozionali per il soddisfacimento delle offer
 title: Utilizza codici promozionali per l’evasione dell’offerta
 exl-id: 71cfc1c5-ecd3-435f-8c8c-1a93478fe80c
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 1%
 
 ---
 
 # Utilizza codici promozionali per l’evasione dell’offerta {#use-promo-codes-for-offer-fulfillment}
 
 Quando crei un&#39;offerta di riferimento o una puntata, puoi inviare un codice promozionale (coupon) a ciascun vincitore. Per riscattare il premio, utilizzano il codice, ad esempio, nella pagina di pagamento di un acquisto sul sito.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Carica codici promozionali {#upload-promo-codes}
 

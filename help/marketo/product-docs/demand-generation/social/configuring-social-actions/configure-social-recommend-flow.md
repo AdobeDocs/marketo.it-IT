@@ -4,9 +4,9 @@ description: Configurare il flusso di consigli per social network - Documentazio
 title: Configura flusso consigli social
 exl-id: 01b54215-4a0c-4639-80d2-ec30603b3695
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configura flusso consigli social {#configure-social-recommend-flow}
 
 Quando crei un’app social, puoi configurare le scelte del social network e i prompt che un utente incontra durante la registrazione.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 ## Seleziona reti da condividere {#select-networks-for-sharing}
 

@@ -4,9 +4,9 @@ description: Invia e-mail per evasione offerta di riferimento - Documenti Market
 title: Invia e-mail per evasione offerta di riferimento
 exl-id: ed5e3dbf-1e48-49c6-b859-01872d1305e2
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Invia e-mail per evasione offerta di riferimento {#send-referral-offer-fulfillment-email}
 
 Premiare i clienti con coupon e codici sconto utilizzando l’e-mail di evasione dell’offerta.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!PREREQUISITES]
 >

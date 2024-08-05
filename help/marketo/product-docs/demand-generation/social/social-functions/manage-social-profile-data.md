@@ -4,9 +4,9 @@ description: Gestire i dati del profilo social - Documentazione di Marketo - Doc
 title: Gestione dati profilo social network
 exl-id: 9b20c6fc-5c80-4665-9c93-1bb6e53a29ae
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '339'
 ht-degree: 5%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 5%
 # Gestione dati profilo social network {#manage-social-profile-data}
 
 Quando qualcuno interagisce con una [app social](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) di Marketo o autorizza il proprio social network a precompilare un modulo di Marketo con [compilazione modulo social](/help/marketo/product-docs/demand-generation/forms/form-actions/enable-social-form-fill-on-a-form.md), Marketo acquisisce tutti i dati disponibili dal proprio profilo social. Puoi visualizzare queste informazioni nella [pagina Dettagli persona](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/using-the-person-detail-page.md) oppure aggiungerle come colonna in una [visualizzazione personalizzata di un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 La compilazione dei moduli social e le app social network acquisiscono set di campi leggermente diversi; vedi la sezione per ciascuno di essi.
 

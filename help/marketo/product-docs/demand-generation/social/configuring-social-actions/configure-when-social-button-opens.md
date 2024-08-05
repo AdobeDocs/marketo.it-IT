@@ -4,16 +4,20 @@ description: Configurare Quando Si Apre Il Pulsante Social - Documentazione Di M
 title: Configura quando si apre il pulsante Social
 exl-id: 3acb6656-35ab-486e-ba91-d52c434a1b90
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 0%
+source-wordcount: '156'
+ht-degree: 1%
 
 ---
 
 # Configura quando si apre il pulsante Social {#configure-when-social-button-opens}
 
 Quando crei un [pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md), puoi configurare quando il pulsante presenta il prompt di condivisione.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vai a **Attività di marketing**.
 

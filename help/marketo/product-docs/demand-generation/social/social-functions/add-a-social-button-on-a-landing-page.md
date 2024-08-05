@@ -4,16 +4,20 @@ description: Aggiungere un pulsante Social su una pagina di destinazione - Docum
 title: Aggiungere un pulsante Social su una pagina di destinazione
 exl-id: a47aec5a-435d-479f-856c-5fa2e0f9c6e8
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # Aggiungere un pulsante Social su una pagina di destinazione {#add-a-social-button-on-a-landing-page}
 
 Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i loro amici. Rilascialo sulle pagine di destinazione, su Facebook e sul tuo sito web.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

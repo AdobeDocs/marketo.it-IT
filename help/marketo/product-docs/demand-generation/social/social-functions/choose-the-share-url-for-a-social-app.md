@@ -4,16 +4,20 @@ description: Scegliere l’URL di condivisione per un’app social - Documentazi
 title: Scegli l'URL di condivisione per un'app social
 exl-id: 6a0b37b7-bca7-458a-9111-f0c717b18e2a
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 1%
 
 ---
 
 # Scegli l&#39;URL di condivisione per un&#39;app social {#choose-the-share-url-for-a-social-app}
 
 Quando crei un’app social, puoi scegliere quale URL verrà condiviso tra i partecipanti nei post.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vai a **Attività di marketing**.
 

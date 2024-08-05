@@ -4,9 +4,9 @@ description: Distribuzione di social network sul sito web - Documentazione di Ma
 title: Distribuire social network sul sito web
 exl-id: bccfa461-29c1-4cf1-8e6a-2186c36bdf7e
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,13 @@ ht-degree: 0%
 
 Incorpora le app social nelle pagine non Marketo.
 
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+
 >[!AVAILABILITY]
 >
->Per ulteriori informazioni, contatta il tuo rappresentante commerciale.
+>Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
 
 Puoi distribuire app di social network sul tuo sito web per coinvolgere il tuo pubblico e coinvolgere tutti nella conversazione più ampia sui social network. Quando le persone condividono le tue promozioni e i tuoi contenuti con i loro amici sui social network, generi più traffico sul tuo sito.
 

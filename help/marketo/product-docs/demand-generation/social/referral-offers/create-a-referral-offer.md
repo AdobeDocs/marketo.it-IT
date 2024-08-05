@@ -4,16 +4,20 @@ description: Creare un’offerta di riferimento - Documentazione di Marketo - Do
 title: Creare un’offerta di riferimento
 exl-id: c295943e-b9e5-4922-a3a4-800ed60cd513
 feature: Social
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
 # Creare un’offerta di riferimento {#create-a-referral-offer}
 
 Le offerte di referral forniscono alle persone un incentivo per indirizzare i loro amici. Crea obiettivi e premi per i riferimenti di successo. Puoi rilasciarlo nelle pagine di destinazione, sul sito web e persino su Facebook.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >
@@ -35,7 +39,7 @@ Le offerte di referral forniscono alle persone un incentivo per indirizzare i lo
    >
    >Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da un&#39;offerta di riferimento esistente.
 
-   L’editor delle offerte di riferimento si apre in una nuova finestra. Le impostazioni predefinite sono tutte valide, ma è necessario aggiungere un collegamento alle regole dell’offerta (termini e condizioni). Il collegamento verrà visualizzato nella parte inferiore delle schermate di condivisione dei messaggi. Nel passaggio successivo verrà illustrato come.
+   L’editor delle offerte di riferimento si apre in una nuova finestra. Le impostazioni predefinite sono tutte valide, ma devi aggiungere un collegamento alle regole dell’offerta (termini e condizioni). Il collegamento verrà visualizzato nella parte inferiore delle schermate di condivisione dei messaggi. Nel passaggio successivo verrà illustrato come.
 
 1. Fare clic su **Opzioni avanzate**.
 
@@ -49,7 +53,7 @@ Le offerte di referral forniscono alle persone un incentivo per indirizzare i lo
    >
    >In questa schermata puoi anche aggiungere un collegamento all’informativa sulla privacy. Consulta [Aggiungere l&#39;informativa sulla privacy a un&#39;app social](/help/marketo/product-docs/demand-generation/social/social-functions/add-your-privacy-policy-to-a-social-app.md).
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-19-11-3a4-3a4.png)
 

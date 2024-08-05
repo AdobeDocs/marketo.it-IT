@@ -4,9 +4,9 @@ description: Configurare l’acquisizione della persona per un’app social - Do
 title: Configurare l’acquisizione della persona per un’app social
 exl-id: bad8db26-bb1b-4d04-a80f-4d5ee3200335
 feature: Social
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 97324d932b65020d041f728928d3792140bea71c
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 0%
 # Configurare l’acquisizione della persona per un’app social {#configure-person-capture-for-a-social-app}
 
 Quando crei una [offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md) o una [puntata](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md), puoi configurare le informazioni richieste e quelle necessarie agli utenti per partecipare.
+
+>[!IMPORTANT]
+>
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!NOTE]
 >
