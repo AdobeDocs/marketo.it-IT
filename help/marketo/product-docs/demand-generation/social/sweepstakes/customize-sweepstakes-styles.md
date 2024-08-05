@@ -3,9 +3,9 @@ unique-page-id: 2359807
 description: Personalizzare gli stili di Sweepstakes - Documentazione di Marketo - Documentazione del prodotto
 title: Personalizzare gli stili di Sweepstakes
 exl-id: 2b1437d9-a424-4d05-b614-7502c12e6ba2
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '188'
 ht-degree: 1%
 
 ---
@@ -16,7 +16,7 @@ Quando [crei una verifica](/help/marketo/product-docs/demand-generation/social/s
 
 >[!IMPORTANT]
 >
->Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non è più possibile creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 >[!AVAILABILITY]
 >

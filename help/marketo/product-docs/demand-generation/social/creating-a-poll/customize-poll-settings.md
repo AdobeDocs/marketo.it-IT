@@ -4,9 +4,9 @@ description: Personalizzare le impostazioni di sondaggio - Documentazione di Mar
 title: Personalizza impostazioni sondaggio
 exl-id: 72379bc7-9457-4285-9cc2-02dc0c1f3966
 feature: Social
-source-git-commit: 97324d932b65020d041f728928d3792140bea71c
+source-git-commit: 6c3f803104c550227aec25376778147ff92aaab9
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '118'
 ht-degree: 1%
 
 ---
@@ -17,7 +17,7 @@ Quando [crei un sondaggio](/help/marketo/product-docs/demand-generation/social/c
 
 >[!IMPORTANT]
 >
->Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non potrai creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+>Il 31 luglio 2024 è iniziato il processo di rimozione di questa funzione. Non è più possibile creare nuove risorse. Le risorse esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 1. Vai a **Attività di marketing**.
 
