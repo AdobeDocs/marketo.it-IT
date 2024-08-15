@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: d802f6b5988f93f7c75558d864b527da9e0afbec
+source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
 workflow-type: tm+mt
-source-wordcount: '9344'
+source-wordcount: '9348'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
       + [Best practice per le nuove istanze: elenco di controllo di Analytics](getting-started/implementing-a-new-marketo-engage-instance/analytics-checklist.md)
       + [Tecniche consigliate per le nuove istanze: documenta la configurazione](getting-started/implementing-a-new-marketo-engage-instance/document-your-setup.md)
    + Aspetti da considerare {#things-to-know}
-      + [Glossario Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
+      + [Glossario di Marketo Engage](getting-started/things-to-know/marketo-engage-glossary.md)
       + [Icona Glossario](getting-started/things-to-know/icon-glossary.md)
       + [Glossario icona classica](getting-started/things-to-know/classic-icon-glossary.md)
       + [Centro assistenza](getting-started/things-to-know/help-center.md)
@@ -123,7 +123,7 @@ ht-degree: 0%
          + [Creare un Inserisco nell&#39;elenco Consentiti di accesso API basato su IP](product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md)
          + [Scarica registro attività GoogleAdwords](product-docs/administration/additional-integrations/download-googleadwords-activity-log.md)
          + [Limita l&#39;accesso degli utenti solo all&#39;SSO](product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md)
-      + Audit Trail {#audit-trail}
+      + Audit trail {#audit-trail}
          + [Panoramica di Audit Trail](product-docs/administration/audit-trail/audit-trail-overview.md)
          + [Modifica dettagli in Audit Trail](product-docs/administration/audit-trail/change-details-in-audit-trail.md)
          + [Abilita Audit Trail](product-docs/administration/audit-trail/enable-audit-trail.md)
@@ -726,6 +726,7 @@ ht-degree: 0%
             + [Creare un webinar interattivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
             + [Aggiungi un team di webinar](product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md)
             + [Progettazione di webinar interattivi](product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md)
+            + [Consegnare un webinar interattivo](product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md)
             + [Modelli](product-docs/demand-generation/events/interactive-webinars/templates.md)
             + [Personalizzazione](product-docs/demand-generation/events/interactive-webinars/customization.md)
             + [Gestione della stanza](product-docs/demand-generation/events/interactive-webinars/room-management.md)
@@ -1008,7 +1009,7 @@ ht-degree: 0%
             + [PUBLISH a](product-docs/demand-generation/social/sweepstakes/publish-a-sweepstakes.md)
             + [Selezionate i vincitori delle puntate](product-docs/demand-generation/social/sweepstakes/select-sweepstakes-winners.md)
    + E-mail marketing {#email-marketing}
-      + Recapito messaggi {#deliverability}
+      + Recapitabilità {#deliverability}
          + [Annulla iscrizione durevole](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack: come importare un elenco di seed](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Mancati recapiti permanenti e non permanenti nelle e-mail](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
@@ -1153,7 +1154,7 @@ ht-degree: 0%
    + Notifiche Marketo {#marketo-notifications}
       + [Notifica: connessione Websocket](product-docs/marketo-notifications/websocket-connection.md)
    + Marketo Sales Connect {#marketo-sales-connect}
-      + Guida introduttiva {#getting-started}
+      + Introduzione {#getting-started}
          + [Panoramica di Sales Connect](product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
          + [Accesso alla nuova istanza di Sales Connect](product-docs/marketo-sales-connect/getting-started/accessing-your-new-sales-connect-instance.md)
          + [Guida introduttiva per gli amministratori di Sales Connect](product-docs/marketo-sales-connect/getting-started/getting-started-guide-for-sales-connect-admins.md)
@@ -1362,7 +1363,7 @@ ht-degree: 0%
    + Insight vendite Marketo {#marketo-sales-insight}
       + Azioni {#actions}
          + [Panoramica sulla funzione Azioni approfondimenti vendite](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
-         + Guida introduttiva {#getting-started}
+         + Introduzione {#getting-started}
             + [Guida all’onboarding degli utenti per le azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
             + [Elenco di controllo per l’onboarding degli utenti per le azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
             + [Guida alla configurazione dell&#39;amministratore delle azioni di Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
@@ -1517,7 +1518,7 @@ ht-degree: 0%
          + [Utilizzo di Marketo Insights per Google Chrome](product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
          + [Visualizzare le informazioni sulla persona e sull&#39;account e le attività in Google Mail](product-docs/marketo-sales-insight/msi-chrome-plugin/view-person-and-account-information-and-activities-in-google-mail.md)
       + MSI per Microsoft Dynamics {#msi-for-microsoft-dynamics}
-         + Caratteristiche {#features}
+         + Funzioni {#features}
             + [Panoramica delle funzioni](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/feature-overview.md)
             + Scheda Marketo {#marketo-tab}
                + [Configurazione delle visualizzazioni MSI](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/features/marketo-tab/setting-up-msi-views.md)
@@ -1556,7 +1557,7 @@ ht-degree: 0%
             + [Aggiungere l’accesso a Sales Insight ai profili](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [Aggiungi pulsanti di azione in blocco a Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Azioni in blocco in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
-         + Caratteristiche {#features}
+         + Funzioni {#features}
             + [Panoramica delle funzioni MSI](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md)
             + [Panoramica delle funzioni del dashboard approfondimenti](product-docs/marketo-sales-insight/msi-for-salesforce/features/insights-dashboard-feature-overview.md)
             + [Integrazione Dynamic Chat](product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md)
@@ -1653,7 +1654,7 @@ ht-degree: 0%
          + [Utilizzo delle opzioni SMS in una campagna avanzata](product-docs/mobile-marketing/vibes-sms-messages/using-sms-options-in-a-smart-campaign.md)
          + [Segnalazione SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-reporting.md)
          + [Glossario SMS](product-docs/mobile-marketing/vibes-sms-messages/sms-glossary.md)
-   + Personalization {#personalization}
+   + Personalizzazione {#personalization}
       + Segmentazione e snippet {#segmentation-and-snippets}
          + Segmentazione {#segmentation}
             + [Approvare una segmentazione](product-docs/personalization/segmentation-and-snippets/segmentation/approve-a-segmentation.md)
@@ -1680,7 +1681,7 @@ ht-degree: 0%
       + [Riepilogo del contenuto predittivo](product-docs/predictive-content/the-predictive-content-summary.md)
       + [Definire un elenco avanzato per le attività di contenuti predittivi](product-docs/predictive-content/define-a-smart-list-for-predictive-content-activities.md)
       + [Panoramica di Predictive Content Analytics](product-docs/predictive-content/predictive-content-analytics-overview.md)
-      + Guida introduttiva {#getting-started}
+      + Introduzione {#getting-started}
          + [Impostazioni obiettivo algoritmo](product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
          + [Creare modelli di contenuto](product-docs/predictive-content/getting-started/create-content-patterns.md)
          + [Distribuire JavaScript per IA per la gestione dei contenuti](product-docs/predictive-content/getting-started/deploy-the-javascript-for-content-ai.md)
@@ -1742,7 +1743,7 @@ ht-degree: 0%
             + [Proteggere le impostazioni di amministrazione della sottoscrizione](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
             + [Iscriviti a un rapporto di base](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
             + [Iscrizione a un elenco avanzato](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
-         + Tipi di report {#report-types}
+         + Tipi di rapporti {#report-types}
             + [Rapporto sull’attività della campagna](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
             + [Rapporto sulle prestazioni e-mail della campagna](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Report attività Web società](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
@@ -1814,7 +1815,7 @@ ht-degree: 0%
             + [Informazioni sui modelli di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md)
             + [Utilizzo degli stadi del gate del modello di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
             + [Utilizzo delle fasi di magazzino del modello di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-inventory-stages.md)
-            + [Utilizzo degli stadi SLA del modello ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+            + [Utilizzo degli stadi di SLA del modello di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
             + [Utilizzo delle transizioni del modello di ricavo](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-transitions.md)
             + [Utilizzo di Success Path Analyzer](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-the-success-path-analyzer.md)
          + Esplora ricavi {#revenue-explorer}
@@ -1856,7 +1857,7 @@ ht-degree: 0%
          + [Configurare l’approfondimento dell’account](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
          + [Panoramica del plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
          + [Invita gli utenti ad accedere agli approfondimenti sull’account](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
-      + Destinazione {#target}
+      + Target {#target}
          + Account denominati {#named-accounts}
             + [Panoramica dell’account denominato](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
             + [Importa account denominati](product-docs/target-account-management/target/named-accounts/import-named-accounts.md)
@@ -1892,7 +1893,7 @@ ht-degree: 0%
          + [Marketing web basato su account con TAM](product-docs/web-personalization/account-based-web-marketing/account-based-web-marketing-with-tam.md)
          + [Crea un nuovo elenco account](product-docs/web-personalization/account-based-web-marketing/create-a-new-account-list.md)
          + [Creare un segmento utilizzando un elenco di conti](product-docs/web-personalization/account-based-web-marketing/create-a-segment-using-an-account-list.md)
-      + Guida introduttiva {#getting-started}
+      + Introduzione {#getting-started}
          + [Aggiungere sottodomini nelle impostazioni account](product-docs/web-personalization/getting-started/add-subdomains-in-account-settings.md)
          + [Modifica aree geografiche](product-docs/web-personalization/getting-started/edit-regions.md)
          + [Gestione di login e utenti](product-docs/web-personalization/getting-started/login-and-user-management.md)
@@ -1964,7 +1965,7 @@ ht-degree: 0%
          + [Utilizzo dell’editor Rich Text di Web Personalization](product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md)
          + [Visualizzare campagne Web da un&#39;etichetta specifica](product-docs/web-personalization/working-with-web-campaigns/view-web-campaigns-from-a-specific-label.md)
 + Note sulla versione {#release-notes}
-   + [Pianificazione rilascio](release-notes/release-schedule.md)
+   + [Pianificazione delle versioni](release-notes/release-schedule.md)
    + [Versione corrente](release-notes/current.md)
    + [Versione Dynamic Chat](release-notes/dynamic-chat.md)
    + Versioni precedenti {#previous-releases}
