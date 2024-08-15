@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 62ddfc7705fc16fd5b0a5cee17731b878982de1c
 workflow-type: tm+mt
-source-wordcount: '9348'
+source-wordcount: '9353'
 ht-degree: 0%
 
 ---
@@ -721,6 +721,7 @@ ht-degree: 0%
                + [Informazioni sugli stati dei programmi di webinar](product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/understanding-webinar-program-statuses.md)
          + Webinar interattivi {#interactive-webinars}
             + [Panoramica dei webinar interattivi](product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.md)
+            + [Introduzione ai webinar interattivi](product-docs/demand-generation/events/interactive-webinars/get-started-with-interactive-webinars.md)
             + [Best practice per i webinar interattivi](product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md)
             + [Gestione di utenti e licenze](product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md)
             + [Creare un webinar interattivo](product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
