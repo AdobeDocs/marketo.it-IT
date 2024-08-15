@@ -2,7 +2,7 @@
 description: Consegna di un webinar interattivo - Documentazione di Marketo - Documentazione del prodotto
 title: Consegnare un webinar interattivo
 feature: Interactive Webinars
-source-git-commit: b8ed6ca65a651de77a06ad5aeb79a2cb2eaa0835
+source-git-commit: 0cec57e40dbc5f20174e4d76e41768c4ffc7cecc
 workflow-type: tm+mt
 source-wordcount: '1052'
 ht-degree: 0%
@@ -23,15 +23,13 @@ Il webinar interattivo è pronto per iniziare. Scopri tutto quello che devi sape
 
 1. Se sei un co-host o un relatore, fai clic sul collegamento personalizzato nell’e-mail ricevuta per il webinar.
 
-   ![](assets/deliver-an-interactive-webinar-2.png)
-
 1. Seleziona le preferenze audio/video e fai clic su **Accedi alla stanza**.
 
-   ![](assets/deliver-an-interactive-webinar-3.png)
+   ![](assets/deliver-an-interactive-webinar-2.png)
 
 1. Selezionare il layout da mostrare ai primi join.
 
-   ![](assets/deliver-an-interactive-webinar-4.png)
+   ![](assets/deliver-an-interactive-webinar-3.png)
 
    >[!NOTE]
    >
@@ -43,17 +41,17 @@ Il webinar interattivo è pronto per iniziare. Scopri tutto quello che devi sape
 
 1. Se necessario, puoi registrare la sessione. Selezionare **Registra sessione** dal menu della room. La registrazione può essere interrotta in un secondo momento dallo stesso menu.
 
-   ![](assets/deliver-an-interactive-webinar-5.png)
+   ![](assets/deliver-an-interactive-webinar-4.png)
 
 1. La sessione inizia all&#39;ora specificata.
 
 1. Fare clic sul nome della room. Nell&#39;elenco a discesa, selezionare **Area host e presentatore** per chattare o condividere le note con il team della presentazione nel backstage. L&#39;area host e presentatore si apre sul lato destro dello schermo. Solo gli host, i co-host e i relatori possono visualizzare questa parte dello schermo.
 
-   ![](assets/deliver-an-interactive-webinar-6.png)
+   ![](assets/deliver-an-interactive-webinar-5.png)
 
 1. Al termine della sessione, fare clic sull&#39;icona freccia rossa e selezionare **Termina sessione per tutti**.
 
-   ![](assets/deliver-an-interactive-webinar-7.png)
+   ![](assets/deliver-an-interactive-webinar-6.png)
 
    >[!CAUTION]
    >
@@ -69,11 +67,11 @@ I partecipanti possono partecipare al webinar facendo clic sul collegamento pers
 
 1. I partecipanti che avviano il collegamento dell’evento più di 15 minuti prima dell’inizio pianificato visualizzano una pagina di destinazione in cui si informano di attendere l’inizio dell’evento.
 
-   ![](assets/deliver-an-interactive-webinar-8.png)
+   ![](assets/deliver-an-interactive-webinar-7.png)
 
 1. I partecipanti devono selezionare le proprie preferenze audio e quindi fare clic su Entra nella room. I partecipanti che entrano per la prima volta in una stanza di Adobe Connect visualizzeranno anche una finestra a comparsa del browser per ottenere l&#39;autorizzazione per il microfono. Adobe Connect ha bisogno di questo accesso per consentire ai partecipanti di utilizzare il microfono in un secondo momento all’interno della stanza.
 
-   ![](assets/deliver-an-interactive-webinar-9.png)
+   ![](assets/deliver-an-interactive-webinar-8.png)
 
    >[!NOTE]
    >
@@ -103,7 +101,7 @@ Le discussioni all’interno dei pod di chat vengono sempre registrate. Quindi, 
 
 La discussione nel pannello Chat non viene registrata. Il pannello Chat libera anche l&#39;immobile che sarebbe stato occupato dal pod di chat all&#39;interno del layout. Quindi, se le discussioni di chat non aggiungeranno valore ai visualizzatori di registrazione, utilizza il Pannello Chat invece di chat pod durante la progettazione della room.
 
-![](assets/deliver-an-interactive-webinar-10.png)
+![](assets/deliver-an-interactive-webinar-9.png)
 
 Ulteriori informazioni su [il pannello chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
@@ -115,7 +113,7 @@ Per utilizzare la modalità Prepara:
 
 1. Fare clic sull&#39;icona chiave inglese nella parte inferiore del pannello Layout.
 
-   ![](assets/deliver-an-interactive-webinar-.png)
+   ![](assets/deliver-an-interactive-webinar-10.png)
 
 1. Nel pannello Layout, scegliete il layout da regolare. Spostare, nascondere o visualizzare i pod in base alle esigenze. Puoi anche aggiornare il contenuto in pod, ad esempio caricare una nuova versione della presentazione in un pod condiviso.
 
