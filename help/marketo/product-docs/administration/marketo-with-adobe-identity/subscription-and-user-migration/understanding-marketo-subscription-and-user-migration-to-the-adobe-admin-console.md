@@ -3,9 +3,9 @@ description: Abbonamento a Marketo e migrazione degli utenti al Adobe Admin Cons
 title: Abbonamento a Marketo e migrazione degli utenti a Adobe Admin Console
 exl-id: 91e7b56b-2563-4986-a55c-f9760ea88b05
 feature: Marketo with Adobe Identity
-source-git-commit: dd2d91d61bcbf3f20bdc06977f06b1f3b0b47f01
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1440'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -28,9 +28,9 @@ Come parte della migrazione, la gestione dell’abbonamento e degli utenti passe
 
 * **Gli utenti effettueranno l&#39;accesso con Adobe Identity**. Adobe eseguirà la migrazione degli utenti esistenti a Adobe Admin Console. Gli utenti accederanno alle sottoscrizioni Marketo utilizzando la nuova identità Adobe, un Adobe ID o un Federated ID Adobe (SSO).
 
-* **Gli URL avranno un aspetto diverso dopo la migrazione**. Tuttavia, i numeri di ID delle risorse rimangono gli stessi. Inoltre, i segnalibri salvati in precedenza dovrebbero comunque portare alla posizione corretta. Rivolgiti al team IT e accertati che aggiunga il dominio sottostante (incluso l’asterisco) per consentire tutte le risorse di Marketo Engage e i websockets:
+* **Gli URL avranno un aspetto diverso dopo la migrazione**. Dopo la migrazione, il Marketo Engage passerà da experience.adobe.com a Adobe Experience Cloud. Devi collaborare con il tuo team IT per inserire nell&#39;elenco Consentiti tutti i domini Adobi elencati [nella parte superiore di questo articolo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, in modo da evitare interruzioni nell&#39;accesso al Marketo Engage.
 
-_*.experience.adobe.com_
+I numeri ID delle risorse rimangono invariati. I collegamenti e i segnalibri precedenti alle risorse di Marketo Engage nel dominio engage-xx.marketo.com _continueranno a funzionare_. Tuttavia, devi prima accedere all’istanza di Marketo Engage per l’URL a cui stai navigando. Ad esempio, per passare a un segnalibro per una campagna avanzata nell’istanza con ID Munchkin 123-ABC-456, devi prima accedere all’istanza di Marketo Engage con ID Munchkin 123-ABC-456.
 
 ## Cosa non cambia? {#what-is-not-changing}
 

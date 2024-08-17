@@ -3,9 +3,9 @@ description: Domande frequenti su Identity Management per Adobe - Documentazione
 title: Domande frequenti su Identity Management Adobe
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 3ae2a894b4f3350fe71f78e5259bab0af31c4f54
 workflow-type: tm+mt
-source-wordcount: '1279'
+source-wordcount: '1342'
 ht-degree: 0%
 
 ---
@@ -28,13 +28,13 @@ Gli abbonamenti Marketo esistenti verranno migrati al sistema Identity Managemen
 
 **Dopo la migrazione, gli URL di Marketo Engage rimarranno invariati?**
 
-No. Gli URL avranno un aspetto diverso dopo la migrazione. Tuttavia, i numeri di ID delle risorse rimangono gli stessi. Inoltre, i segnalibri salvati in precedenza dovrebbero comunque portare alla posizione corretta.
+No. Gli URL avranno un aspetto diverso dopo la migrazione.
 
 **C&#39;è qualcosa da fare per prepararci alla modifica dell&#39;URL?**
 
-Sì. Rivolgiti al team IT e accertati che aggiunga il dominio sottostante (incluso l’asterisco) per consentire tutte le risorse di Marketo Engage e i websockets:
+Sì.  Dopo la migrazione, il Marketo Engage passerà da experience.adobe.com a Adobe Experience Cloud. Devi collaborare con il tuo team IT per inserire nell&#39;elenco Consentiti tutti i domini Adobi elencati [nella parte superiore di questo articolo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}, in modo da evitare interruzioni nell&#39;accesso al Marketo Engage.
 
-_*.experience.adobe.com_
+I collegamenti e i segnalibri precedenti per le risorse di Marketo Engage nel dominio engage-xx.marketo.com _funzioneranno_. Tuttavia, devi prima accedere all’istanza di Marketo Engage per l’URL a cui stai navigando. Ad esempio, per passare a un segnalibro per una campagna avanzata nell’istanza con ID Munchkin 123-ABC-456, devi prima accedere all’istanza di Marketo Engage con ID Munchkin 123-ABC-456.
 
 **Qual è la differenza tra un amministratore di prodotto Adobe e un amministratore di Marketo Engage?**
 
@@ -46,7 +46,7 @@ _*.experience.adobe.com_
 
 **Sono state apportate modifiche al supporto client API per la gestione utenti?**
 
-Sì. Gli utenti che hanno effettuato l’onboarding in Adobe IMS non possono utilizzare tutte le API di gestione utenti di Marketo esistenti. Per le azioni di invito, aggiornamento ed eliminazione degli utenti, è necessario utilizzare l&#39;Adobe [API IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"}. Per la gestione dei ruoli, si applicano ancora le API di gestione utenti di Marketo. Inoltre, non vi sono altre modifiche al supporto client API REST di Marketo.
+Sì.  Gli utenti che hanno effettuato l’onboarding in Adobe IMS non possono utilizzare tutte le API di gestione utenti di Marketo esistenti. Per le azioni di invito, aggiornamento ed eliminazione degli utenti, è necessario utilizzare l&#39;Adobe [API IMS](https://www.adobe.io/apis/experienceplatform/umapi-new.html){target="_blank"}. Per la gestione dei ruoli, si applicano ancora le API di gestione utenti di Marketo. Inoltre, non vi sono altre modifiche al supporto client API REST di Marketo.
 
 **A chi rivolgerci per richiedere assistenza se siamo integrati con IMS?**
 
@@ -82,7 +82,7 @@ Coloro che utilizzano l’identità Adobe possono accedere facilmente a tutti gl
 
 **Funziona con SSO?**
 
-Sì. L’integrazione di Marketo con Adobe IMS supporta gli utenti Universal ID e SSO. L’SSO è ora gestito da Adobe IMS ed è configurato a livello di organizzazione in Adobe Admin Console. [Ulteriori informazioni](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Sì.  L’integrazione di Marketo con Adobe IMS supporta gli utenti Universal ID e SSO. L’SSO è ora gestito da Adobe IMS ed è configurato a livello di organizzazione in Adobe Admin Console. [Ulteriori informazioni](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Ho già effettuato l&#39;onboarding in Adobe Identity e ora voglio implementare il SSO. Cosa posso fare?**
 
@@ -98,7 +98,7 @@ No. Il flusso di lavoro Invito utente non è più attivo quando una sottoscrizio
 
 **Per Adobe IMS, è possibile utilizzare Adobe ID, Enterprise ID o Federated ID?**
 
-Sì, è possibile determinare il tipo di identità per il supporto dell&#39;organizzazione. Ulteriori informazioni sono disponibili qui: [Panoramica identità](https://helpx.adobe.com/enterprise/using/identity.html) e qui: [Configura identità](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+Sì, è possibile determinare il tipo di identità per il supporto dell&#39;organizzazione. Ulteriori informazioni sono disponibili qui: [Panoramica identità](https://helpx.adobe.com/it/enterprise/using/identity.html) e qui: [Configura identità](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 **Quali schede prodotto sono supportate in Adobe Admin Console?**
 
