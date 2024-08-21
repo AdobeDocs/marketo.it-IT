@@ -4,16 +4,20 @@ description: Modificare la lingua di un modulo - Documentazione di Marketo - Doc
 title: Modificare la lingua di un modulo
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 210c18f522a8358d02eb19018755daf2af2bd280
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 1%
 
 ---
 
 # Modificare la lingua di un modulo {#change-the-language-of-a-form}
 
 Scopri come modificare la lingua del modulo.
+
+>[!IMPORTANT]
+>
+>Seguendo i passaggi descritti in questo articolo verrà modificata la lingua dei campi standard di Marketo, nonché la dicitura utilizzata nell’etichetta del pulsante Invia. Non tradurrà [campi personalizzati](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"}.
 
 1. Vai a **Attività di marketing**.
 
@@ -35,7 +39,7 @@ Scopri come modificare la lingua del modulo.
 
    ![](assets/change-the-language-of-a-form-5.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/change-the-language-of-a-form-6.png)
 
