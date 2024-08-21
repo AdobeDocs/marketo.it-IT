@@ -2,9 +2,9 @@
 description: 'Guida introduttiva ai webinar interattivi: documentazione di Marketo - Documentazione del prodotto'
 title: Introduzione ai webinar interattivi
 feature: Interactive Webinars
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: bdb91148499f2f84160a48c62cd111a4c6883f9f
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Hai letto la [Panoramica dei webinar interattivi](/help/marketo/product-docs/dem
 
 ![](assets/get-started-with-interactive-webinars-1.png)
 
-<p>
+## Cosa fare {#what-to-do}
 
 **Passaggio uno**: [Aggiungi utenti](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md#add-a-user){target="_blank"} — Scopri come aggiungere (e in seguito rimuovere, se desiderato) utenti per l&#39;accesso ai webinar interattivi.
 
@@ -29,9 +29,11 @@ Hai letto la [Panoramica dei webinar interattivi](/help/marketo/product-docs/dem
 
 **Passaggio Sei**: [Distribuisci il webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Tutto ciò che devi sapere sulla presentazione del webinar.
 
-<br>
+Tutto qui!
 
-Tutto qui. Al termine del webinar, scopri le sue prestazioni utilizzando l’utile dashboard nella schermata Panoramica dell’evento. Puoi vedere il coinvolgimento dettagliato del pubblico nella [dashboard di coinvolgimento](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Puoi sfruttare il coinvolgimento del webinar per eseguire il targeting del pubblico in modo personalizzato tramite Filtri avanzati e Trigger in [Flussi di lavoro eventi](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. E scopri come tenere traccia delle prestazioni on-demand tramite [webinar on-demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
+## Documentazione aggiuntiva {#additional-documentation}
+
+Al termine del webinar, scopri le sue prestazioni utilizzando l’utile dashboard nella schermata Panoramica dell’evento. Puoi vedere il coinvolgimento dettagliato del pubblico nella [dashboard di coinvolgimento](/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md){target="_blank"}. Puoi sfruttare il coinvolgimento del webinar per eseguire il targeting del pubblico in modo personalizzato tramite Filtri avanzati e Trigger in [Flussi di lavoro eventi](/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md){target="_blank"}. E scopri come tenere traccia delle prestazioni on-demand tramite [webinar on-demand](/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md){target="_blank"}.
 
 Su questo argomento sono disponibili altri articoli della Guida, tra cui [Best practice per i webinar interattivi](/help/marketo/product-docs/demand-generation/events/interactive-webinars/best-practices-for-interactive-webinars.md){target="_blank"}, come [personalizzare i webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md){target="_blank"} in base alle proprie esigenze o al proprio marchio, come creare modelli a livello di organizzazione utilizzando [Modelli per i webinar interattivi](/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md){target="_blank"} e come gestire le room e le registrazioni in [Room Management](/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md){target="_blank"}.
 
