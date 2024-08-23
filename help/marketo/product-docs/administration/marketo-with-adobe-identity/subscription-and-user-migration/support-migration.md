@@ -2,19 +2,17 @@
 description: Migrazione del supporto di Marketo Engage - Documentazione Marketo - Documentazione del prodotto
 title: Migrazione supporto Marketo Engage
 feature: Marketo with Adobe Identity
-hide: true
-hidefromtoc: true
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 7e47555e61ef9c4423e83a977637d7a5f4ad9849
+source-git-commit: aa77a0124f261eea2999029806adb1d1aaf3e0da
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: '468'
 ht-degree: 1%
 
 ---
 
 # Migrazione supporto Marketo Engage {#marketo-engage-support-migration}
 
-Ulteriori informazioni sulle modifiche imminenti all’esperienza di supporto Adobe Marketo Engage. Le modifiche sono progettate per migliorare l’esperienza utente e semplificare le attività amministrative.
+Ulteriori informazioni sulle modifiche imminenti al processo di assistenza Adobe Marketo Engage. Gli aggiornamenti sono progettati per semplificare le attività amministrative e migliorare l’esperienza complessiva.
 
 ## Admin Console Marketo Engage {#marketo-engage-admin-console}
 
@@ -38,7 +36,7 @@ Il secondo aggiornamento migliorerà notevolmente il modo in cui invii i ticket 
 
 ## Come posso sapere quando è stata completata la migrazione del supporto? {#support-migration-has-been-completed}
 
-La migrazione del supporto verrà eseguita al termine della migrazione degli utenti per tutti gli abbonamenti. Se sei stato aggiunto come PSA come parte della migrazione del supporto, riceverai un’e-mail al termine della migrazione degli utenti, indicando che sei stato aggiunto come amministratore del supporto per contattare il supporto per tali abbonamenti specifici. Questo attiverà un reindirizzamento automatico dalla nazione marketing a Adobe Experience League per tutte le richieste di casi. Continua a inviare casi di supporto tramite Marketing Nation fino a quando non viene attivato il reindirizzamento automatico.
+La migrazione del supporto verrà eseguita al termine della migrazione degli utenti per tutti gli abbonamenti. Se sei stato aggiunto come PSA come parte della migrazione del supporto, riceverai un’e-mail al termine della migrazione degli utenti, indicando che sei stato aggiunto come amministratore del supporto per contattare il supporto Adobe per tali abbonamenti specifici. Questo attiverà un reindirizzamento automatico dalla nazione marketing a Adobe Experience League per tutte le richieste di casi. Continua a inviare casi di supporto tramite Marketing Nation fino a quando non viene attivato il reindirizzamento automatico.
 
 ## Risorse aggiuntive {#additional-resources}
 
