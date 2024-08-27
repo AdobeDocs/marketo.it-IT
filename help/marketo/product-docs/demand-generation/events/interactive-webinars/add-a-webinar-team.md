@@ -3,10 +3,10 @@ description: Aggiungere un team al webinar - Documentazione di Marketo - Documen
 title: Aggiungi un team di webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '379'
-ht-degree: 0%
+source-wordcount: '393'
+ht-degree: 1%
 
 ---
 
@@ -36,9 +36,9 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
    >[!NOTE]
    >
-   >Se selezioni **Utente interno del webinar interattivo**, dovrai semplicemente fare clic sul menu a discesa **Host disponibili** e scegliere dall&#39;elenco di persone che sono state aggiunte come utenti del webinar interattivo nel Marketo Engage.
+   >Se selezioni **Utente interno del webinar interattivo**, dovrai semplicemente fare clic sul menu a discesa **Host disponibili** e scegliere dall&#39;elenco di persone che sono state aggiunte come utenti del webinar interattivo nel Marketo Engage. Gli host esistenti non verranno visualizzati in questo elenco a discesa, in quanto sono già host.
 
-1. Immetti il nome, il cognome e l&#39;indirizzo e-mail del co-host desiderato. Fare clic su **Aggiungi**.
+1. Immetti il nome, il cognome e l&#39;indirizzo e-mail del co-host desiderato. Fai clic su **Aggiungi**.
 
    ![](assets/add-a-webinar-team-3.png)
 
@@ -52,7 +52,7 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
    ![](assets/add-a-webinar-team-5.png)
 
-1. Immetti il nome, il cognome e l&#39;indirizzo e-mail del relatore desiderato. Fare clic su **Aggiungi**.
+1. Immetti il nome, il cognome e l&#39;indirizzo e-mail del relatore desiderato. Fai clic su **Aggiungi**.
 
    ![](assets/add-a-webinar-team-6.png)
 

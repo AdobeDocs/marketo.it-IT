@@ -3,9 +3,9 @@ description: Best practice per i webinar interattivi - Documentazione di Marketo
 title: Best practice per i webinar interattivi
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
 workflow-type: tm+mt
-source-wordcount: '1650'
+source-wordcount: '1691'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 ## Preparazione pre-evento {#pre-event-preparation}
 
 ### Creazione di un evento {#creating-an-event}
+
+>[!TIP]
+>
+>L’esperienza web mobile dei webinar interattivi non risponde, pertanto consigliamo di utilizzare l’app Adobe Connect per un’esperienza di webinar fluida sul dispositivo mobile. Nota: l’app Adobe Connect non è attualmente disponibile negli App Store in Cina.
 
 * Crea un webinar interattivo di esempio (IW) e clonalo ogni volta, per evitare di partire da zero.
 
