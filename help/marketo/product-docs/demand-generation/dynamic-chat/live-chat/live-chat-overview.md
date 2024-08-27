@@ -3,9 +3,9 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Quando i visitatori richiedono di chattare con un agente tramite la finestra di 
 
 >[!NOTE]
 >
->L’avatar dell’agente live utilizza l’immagine del profilo dell’account Adobe dell’agente. Per aggiornare l&#39;immagine, segui [questi passaggi](https://helpx.adobe.com/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
+>L’avatar dell’agente live utilizza l’immagine del profilo dell’account Adobe dell’agente. Per aggiornare l&#39;immagine, segui [questi passaggi](https://helpx.adobe.com/it/manage-account/using/edit-adobe-account-personal-profile.html){target="_blank"}.
 
 ## Utilizzo della scheda Live Chat {#using-the-live-chat-card}
 
@@ -104,6 +104,12 @@ Quando una chat in diretta viene indirizzata a un agente, vede un banner blu nel
 >
 >* Abilita notifiche browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Abilita notifiche browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
+
+### Notifiche azioni non riuscite {#failed-action-notifications}
+
+Quando un’azione, come la prenotazione di una riunione o una chat in tempo reale, non riesce, gli utenti ricevono una notifica tramite e-mail.
+
+![](assets/live-chat-overview-6.png)
 
 ### Aspetti da considerare {#things-to-note}
 

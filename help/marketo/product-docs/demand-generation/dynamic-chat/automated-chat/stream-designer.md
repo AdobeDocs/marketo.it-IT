@@ -3,9 +3,9 @@ description: Streaming Designer - Documentazione Marketo - Documentazione del pr
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 0015db05477cbb46a34e8abd4800d00c6522496f
+source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1250'
 ht-degree: 2%
 
 ---
@@ -119,7 +119,11 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    >[!TIP]
    >
-   >Puoi personalizzare l&#39;esperienza per i visitatori della chat conosciuti utilizzando dei token (esempio: Hello `{{lead.leadFirstName:""}}`). Fai clic sull’icona della parentesi graffa a destra ed effettua la selezione. Aggiungere un valore predefinito tra le virgolette se si desidera che i visitatori anonimi visualizzino un elemento generico (ad esempio, Hello `{{lead.leadFirstName:"there"}}`).
+   >Puoi personalizzare l’esperienza per i visitatori della chat.
+   >
+   >* Fare clic sull&#39;icona &quot;insert HTML&quot; `</>` per inserire il proprio HTML per ottenere l&#39;aspetto desiderato della conversazione.
+   >
+   >* Usa i token per i visitatori di chat conosciuti per personalizzare la loro esperienza (es: Ciao `{{lead.leadFirstName:""}}`). Fare clic sull&#39;icona della parentesi graffa `{}` ed effettuare la selezione. Aggiungere un valore predefinito tra le virgolette se si desidera che i visitatori anonimi visualizzino un elemento generico (ad esempio, Hello `{{lead.leadFirstName:"there"}}`).
 
    >[!NOTE]
    >
