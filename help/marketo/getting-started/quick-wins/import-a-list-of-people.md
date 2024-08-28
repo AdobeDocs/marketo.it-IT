@@ -4,9 +4,9 @@ description: Importare un elenco di persone - Documentazione di Marketo - Docume
 title: Importa un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,9 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
    >[!CAUTION]
    >
-   >Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
+   >* Assicurati che gli indirizzi e-mail contengano solo caratteri ASCII.
+   >
+   >* Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
 
 ## Passaggio 2: creare un programma {#step-create-a-program}
 

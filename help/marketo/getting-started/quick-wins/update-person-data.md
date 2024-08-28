@@ -4,9 +4,9 @@ description: Aggiornare i dati della persona - Documentazione di Marketo - Docum
 title: Aggiorna dati persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -49,6 +49,12 @@ Immaginiamo che alla tua recente fiera, una persona ti abbia fornito alcune info
 1. Digita le nuove informazioni ricevute, quindi chiudi la scheda.
 
 ![](assets/update-person-data-4.png)
+
+>[!CAUTION]
+>
+>* Assicurati che gli indirizzi e-mail contengano solo caratteri ASCII.
+>
+>* Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
 
 >[!NOTE]
 >
