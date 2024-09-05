@@ -4,9 +4,9 @@ description: Limita l’accesso degli utenti solo all’SSO - Documentazione di 
 title: Limita l'accesso degli utenti solo all'SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrati
 
 >[!TIP]
 >
->Se si seleziona **[!UICONTROL Richiedi SSO]**, è possibile escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **[!UICONTROL Ignora Single Sign-On]** durante la configurazione del ruolo. In questo modo gli utenti potranno accedere normalmente. Ad esempio, gli utenti Admin potrebbero dover ancora accedere a Marketo tramite la schermata di accesso.
+>Se si seleziona **[!UICONTROL Richiedi SSO]**, è possibile escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **[!UICONTROL Ignora Single Sign-On]** durante la configurazione del ruolo. In questo modo gli utenti potranno accedere normalmente. Ad esempio, gli utenti Admin potrebbero dover ancora accedere a Marketo tramite la schermata di accesso. Se sono abilitati sia SSO che Universal ID, è necessario disporre dell&#39;autorizzazione &quot;Bypass Single Signed On&quot; (Ignora Single Sign On) per attivare o disattivare le sottoscrizioni.
 
 >[!CAUTION]
 >
 >Quando nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se è selezionato **[!UICONTROL Richiedi SSO]**, questi messaggi non verranno ricevuti a meno che non siano assegnati a un ruolo impostato su **[!UICONTROL Ignora Single Sign-On]**.
 
-Tutto qui! Ora tutti gli utenti (ad eccezione di quelli che dispongono dell&#39;autorizzazione per ignorare il Single Sign-On) saranno limitati a utilizzare solo l&#39;accesso SSO.
+Tutto qui. Ora tutti gli utenti (ad eccezione di quelli che dispongono dell&#39;autorizzazione per ignorare il Single Sign-On) saranno limitati a utilizzare solo l&#39;accesso SSO.
 
 >[!MORELIKETHIS]
 >

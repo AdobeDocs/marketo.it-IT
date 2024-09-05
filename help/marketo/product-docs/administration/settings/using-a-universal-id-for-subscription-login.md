@@ -4,9 +4,9 @@ description: Utilizzo di un ID universale per l’accesso in abbonamento - Docum
 title: Utilizzo di un ID universale per l’accesso in abbonamento
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: c0f0134972138eb4fa3498028a4acf5233dbe2fe
+source-git-commit: 5a8ea3c5356cb370b4e502b23eea8a457bfc97f1
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '569'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,8 @@ Con un ID universale per più abbonamenti, solo tu puoi modificare la password.
 ## Passaggio tra le sottoscrizioni {#switching-between-subscriptions}
 
 Utilizzando un ID universale, puoi visualizzare l’abbonamento a cui hai effettuato l’accesso e selezionare altri abbonamenti a cui hai accesso. Nella maggior parte dei casi, è possibile passare da una all’altra senza dover disconnettersi ed effettuare nuovamente l’accesso.
+
+Se sono abilitati sia [Single Sign On](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) che Universal ID, è necessario disporre dell&#39;autorizzazione &quot;Bypass Single Sign On&quot; per attivare o disattivare le sottoscrizioni.
 
 ![](assets/using-a-universal-id-for-subscription-login-2.png)
 
