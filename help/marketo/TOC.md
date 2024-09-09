@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 938ec953d002a9c4bf946a13b1c66cb9718ac2a0
+source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
 workflow-type: tm+mt
-source-wordcount: '9353'
+source-wordcount: '9349'
 ht-degree: 0%
 
 ---
@@ -1488,7 +1488,6 @@ ht-degree: 0%
             + Gestione dei contatti {#managing-contacts}
                + [Azioni in blocco sulle persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Creazione ed eliminazione di contatti](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
-               + [Importa contatti tramite CSV](product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md)
                + [Gestisci gruppi](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Colonne pagina persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefono {#phone}
