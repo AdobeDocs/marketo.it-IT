@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 0ca5fa73fa93845c4795b94980cc1170665a1ccb
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '9349'
+source-wordcount: '9341'
 ht-degree: 0%
 
 ---
@@ -1460,7 +1460,6 @@ ht-degree: 0%
             + [Come posso risolvere il problema &quot;Impossibile autenticare la richiesta&quot; durante la connessione a Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Come posso impedire le visualizzazioni automatiche?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Come funziona il tracciamento della posizione?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
-            + [In Che Modo Le Azioni Di Insight Sulle Vendite Gestiscono La Deduplicazione Delle E-Mail?](product-docs/marketo-sales-insight/actions/faq/how-does-sales-insight-actions-handle-email-de-duping.md)
             + [Sono Stato Bloccato Dal Mio Account. Che cosa devo fare?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
             + [Sales Insight Actions è compatibile con Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Quali Browser Sono Supportati Dalle Azioni Di Sales Insight?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
@@ -1487,7 +1486,6 @@ ht-degree: 0%
             + [Azioni di approfondimento sulle vendite e conformità ai requisiti RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Gestione dei contatti {#managing-contacts}
                + [Azioni in blocco sulle persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
-               + [Creazione ed eliminazione di contatti](product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md)
                + [Gestisci gruppi](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
                + [Colonne pagina persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/people-page-columns.md)
          + Telefono {#phone}
@@ -1974,6 +1972,7 @@ ht-degree: 0%
          + [Note sulla versione: marzo 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)
          + [Note sulla versione: aprile 2024](release-notes/previous-releases/2024/release-notes-apr-24.md)
          + [Note sulla versione: giugno 2024](release-notes/previous-releases/2024/release-notes-june-24.md)
+         + [Note sulla versione: luglio 2024](release-notes/previous-releases/2024/release-notes-july-24.md)
       + 2023 {#2023}
          + [Note sulla versione: gennaio 2023](release-notes/previous-releases/2023/release-notes-jan-23.md)
          + [Note sulla versione: marzo 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)

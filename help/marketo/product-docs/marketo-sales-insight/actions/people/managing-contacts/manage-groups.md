@@ -3,9 +3,9 @@ description: Gestire i gruppi - Documentazione di Marketo - Documentazione del p
 title: Gestisci gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
@@ -66,10 +66,6 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 1. Fai clic su **Azioni gruppo**, quindi seleziona **Crea contatto e aggiungi al gruppo**.
 
    ![](assets/manage-groups-4.png)
-
-   >[!NOTE]
-   >
-   >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, segui [questi passaggi](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/import-contacts-via-csv.md).
 
 1. Compila le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
 

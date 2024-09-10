@@ -3,9 +3,9 @@ description: Azioni in blocco sulle persone - Documentazione di Marketo - Docume
 title: Azioni in blocco sulle persone
 exl-id: fcd89688-6905-4714-9254-42873eca8428
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '129'
 ht-degree: 2%
 
 ---
@@ -34,7 +34,7 @@ Assegniamo automaticamente un&#39;origine a ogni contatto che entra nel database
 >
 >Le origini non sono personalizzabili.
 
-## Autorizzazione {#authorization}
+## Authorization {#authorization}
 
 In conformità con [RGPD](https://eugdpr.org/), utilizza l&#39;autorizzazione per indicare in che modo hai ricevuto l&#39;autorizzazione per interagire con questi contatti.
 
@@ -45,9 +45,3 @@ In conformità con [RGPD](https://eugdpr.org/), utilizza l&#39;autorizzazione pe
 Effettua un annullamento in blocco dell’abbonamento per i contatti che non desiderano più ricevere corrispondenza da te.
 
 ![](assets/bulk-actions-on-people-5.png)
-
-## Elimina {#delete}
-
-Eliminare i contatti in blocco. I passaggi completi sono disponibili [qui](/help/marketo/product-docs/marketo-sales-insight/actions/people/managing-contacts/creating-and-deleting-contacts.md).
-
-![](assets/bulk-actions-on-people-6.png)

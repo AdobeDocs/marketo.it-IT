@@ -3,16 +3,16 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: c7fa016a93de2ca0634bf117a04843e7762588d1
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '255'
 ht-degree: 3%
 
 ---
 
-# Note sulla versione: luglio 2024 {#release-notes-july-24}
+# Note sulla versione: ottobre 2024 {#release-notes-oct-24}
 
-Di seguito trovi tutte le funzioni incluse nella versione di luglio 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Qui sotto troverai tutte le funzioni incluse nella versione di ottobre 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
 
 Le note sulla versione specificatamente per l&#39;Adobe Dynamic Chat [ si trovano qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Le note sulla versione specificatamente per l&#39;Adobe Dynamic Chat [ si trovan
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **26 luglio 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **4 ottobre 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto"> 
  <tbody> 
@@ -31,10 +31,20 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
   </tr>
-     <tr> 
-   <td><strong>Dashboard di coinvolgimento per i webinar interattivi</strong>: ottieni una visualizzazione delle prestazioni del webinar aggregato e una visualizzazione completa del coinvolgimento per ogni partecipante durante il webinar in modo da poter decidere quali lead indirizzare a target tramite gli strumenti di orchestrazione del Marketo Engage.</td> 
-    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/engagement-dashboard.md" target="_blank">Dashboard di coinvolgimento</a></td>
+    <tr> 
+   <td><strong>Dati di registrazione migliorati in Engagement Dashboard per webinar interattivi</strong>: ora puoi vedere quali società hanno avuto più presenze e ottenere l'aggiornamento di società, titolo e settore a livello di lead nei report disponibili in Engagement Dashboard.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+    <tr> 
+   <td><strong>Tokenizzazione per i webinar interattivi</strong>: ora puoi utilizzare i token per promuovere i webinar interattivi nelle e-mail e nelle pagine di destinazione senza dover aggiungere manualmente i dettagli del webinar.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -42,10 +52,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   </tr>
-     <tr> 
-   <td><strong>Room Management per webinar interattivi</strong>: accedere alle singole room create (e apportare modifiche se necessario), nonché accedere al contenuto e alla registrazione (e cancellarle se necessario per ottimizzare lo storage).</td> 
-    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/room-management.md" target="_blank">Gestione della stanza</a></td>
+   <tr> 
+   <td><strong>Conteggio "Influenza" elenco smart</strong>: verifica il numero di persone interessate dalla modifica delle regole di qualifica di una campagna smart.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
   </tr>
   <tr> 
    <td> </td> 
@@ -53,40 +63,11 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   </tr>
-     <tr> 
-   <td><strong>Personalizzazione dei webinar interattivi</strong>: fornisci un'esperienza uniforme approvata dall'organizzazione tramite l'utilizzo di un'interfaccia comune per la sala riunioni, schermate intermedie (come gli sfondi delle schermate di ingresso dei partecipanti) e sfondi video personalizzati, in modo che la strategia del webinar possa allinearsi più facilmente alla strategia del marchio.</td> 
-    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/customization.md" target="_blank">Personalizzazione dei webinar interattivi</a></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  </tr>
-     <tr> 
-   <td><strong>Modifica API REST di Marketo</strong>: verrà introdotta una modifica minore alla <a href="https://developers.marketo.com/rest-api/user-management/">API di gestione utenti</a>. Entrambi gli endpoint <a href="https://developers.marketo.com/rest-api/user-management/#browse_users">Sfoglia utenti</a> e <a href="https://developers.marketo.com/rest-api/user-management/#delete_user">Elimina utente</a> supportano ora <a href="/help/marketo/product-docs/target-account-management/setup-tam/target-account-management-overview.md">Gestione account di destinazione</a> utenti.</td> 
+   <tr> 
+   <td><strong>Pulsante Account personale nella barra di navigazione</strong>: per coloro che hanno eseguito la migrazione ad Adobe Identity Management System, un nuovo pulsante "Account personale" nella barra di navigazione a sinistra consente di configurare il fuso orario e di accedere ai dettagli dell'abbonamento.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
  </tbody> 
 </table>
 <br/>
-
-## Annunci {#announcements}
-
-* **Nuovo sito di documentazione per sviluppatori**: nell&#39;ambito del nostro impegno continuo per migliorare l&#39;esperienza utente del Marketo Engage, a luglio 2024 eseguiremo la migrazione di tutta la documentazione per sviluppatori al sito Web Adobe Experience League e Adobe Developer. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/new-developer-documentation-website/ba-p/351055){target="_blank"}
-
-* **Funzionalità social obsolete**: mercoledì 31 luglio 2024, il Marketo Engage inizierà la rimozione delle seguenti funzionalità social dal prodotto:
-
-   * Sondaggi
-   * Pulsante social
-   * Offerta segnalata
-   * Condividi video
-   * Lotterie
-
-Gli utenti non potranno più creare, clonare o incorporare nessuna di queste funzioni social nel Marketo Engage. Le risorse sociali esistenti continueranno a funzionare fino al 31 gennaio 2025. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
-
-* **Token di accesso in Query Parameter Deprecation**: il supporto per l&#39;autenticazione tramite token di accesso in un parametro di query di una chiamata API REST di Marketo Engage verrà rimosso in una versione futura (data specifica da definire). Le integrazioni esistenti devono migrare all&#39;utilizzo dell&#39;intestazione Autorizzazione [qui](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Per i nuovi sviluppi, utilizza solo l’intestazione Autorizzazione per l’autenticazione con il Marketo Engage.
-
-* **È richiesta la riautenticazione di LinkedIn**: LinkedIn sta aggiornando le API marketing utilizzate dalle integrazioni LinkedIn di Marketo Engage. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 26 luglio e il 15 dicembre 2024. Le istruzioni su come eseguire [qui per Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [qui per Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Il servizio Modulo generazione lead ha un tipo di &quot;LinkedIn Lead Gen&quot; e il servizio Pubblico abbinato ha il tipo di &quot;LinkedIn Matched Audiences&quot;. Per ulteriori informazioni, vedere le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
