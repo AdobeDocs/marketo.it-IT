@@ -2,9 +2,9 @@
 description: Note sulla versione - Luglio 2024 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Luglio 2024
 feature: Release Information
-source-git-commit: 3881c6e327dc7edc072fd3e7e3d4f6f5b78347dc
+source-git-commit: 3a722d0f4ec3e48b031c641d3b73e1e5539ebf80
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 3%
 
 ---
@@ -88,4 +88,4 @@ Gli utenti non potranno più creare, clonare o incorporare nessuna di queste fun
 
 * **Token di accesso in Query Parameter Deprecation**: il supporto per l&#39;autenticazione tramite token di accesso in un parametro di query di una chiamata API REST di Marketo Engage verrà rimosso in una versione futura (data specifica da definire). Le integrazioni esistenti devono migrare all&#39;utilizzo dell&#39;intestazione Autorizzazione [qui](https://developers.marketo.com/rest-api/authentication/){target="_blank"}. Per i nuovi sviluppi, utilizza solo l’intestazione Autorizzazione per l’autenticazione con il Marketo Engage.
 
-* **È richiesta la riautenticazione di LinkedIn**: LinkedIn sta aggiornando le API marketing utilizzate dalle integrazioni LinkedIn di Marketo Engage. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 26 luglio e il 15 dicembre 2024. Le istruzioni su come eseguire [qui per Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [qui per Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Il servizio Modulo generazione lead ha un tipo di &quot;LinkedIn Lead Gen&quot; e il servizio Pubblico abbinato ha il tipo di &quot;LinkedIn Matched Audiences&quot;. Per ulteriori informazioni, vedere le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+* **È richiesta la riautenticazione di LinkedIn**: LinkedIn sta aggiornando le API marketing utilizzate dalle integrazioni LinkedIn di Marketo Engage. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 26 luglio e il 15 dicembre 2024. Le istruzioni su come eseguire [qui per Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md){target="_blank"} e [qui per Matched Audiences](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md){target="_blank"}. Il servizio Modulo generazione lead ha un tipo di &quot;LinkedIn Lead Gen&quot; e il servizio Pubblico abbinato ha il tipo di &quot;LinkedIn Matched Audiences&quot;. Per ulteriori informazioni, visitare [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
