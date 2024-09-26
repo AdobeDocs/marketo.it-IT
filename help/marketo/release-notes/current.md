@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 9d5b27d82736b2b89a12aa3d184d90f1f95945b5
+source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '420'
 ht-degree: 2%
 
 ---
@@ -74,6 +74,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Nuova versione di Munchkin**: il 17 settembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 inizierà il rollout per le istanze di Marketo Engage in cui l&#39;impostazione &quot;Munchkin Beta&quot; è abilitata in **Admin** > **Treasure Chest**. È pianificato per l’inizio del rollout per tutte le altre istanze il 29 ottobre. Questa versione aggiorna la creazione dei cookie di Munchkin. Nessuna modifica nelle funzionalità.
-
 * **Deprecazione del codice QR**: il 4 ottobre 2024 la funzione del codice QR utilizzata nelle notifiche push e nelle risorse di messaggistica in-app diventerà obsoleta. Ciò include l&#39;utilizzo di codici QR per un nuovo dispositivo di test e la creazione di nuove risorse con codici QR. Le funzioni obsolete con un utilizzo inferiore ci consentono di riallocare le loro risorse alla manutenzione complessiva del Marketo Engage.
+
+* **Modifiche Munchkin**
+
+   * **Nuova versione**: il 17 settembre 2024, [Munchkin](/help/marketo/product-docs/administration/setup-administration/munchkin.md){target="_blank"} v.164 inizierà il rollout per le istanze di Marketo Engage in cui l&#39;impostazione &quot;Munchkin Beta&quot; è abilitata in **Admin** > **Treasure Chest**. È pianificato per l’inizio del rollout per tutte le altre istanze il 29 ottobre. Questa versione aggiorna la creazione dei cookie di Munchkin. Nessuna modifica nelle funzionalità.
+
+   * **Caratteri rimossi dall&#39;URL**: le attività &#39;Pagina Web visite&#39; e &#39;Collegamento clic&#39; create da Munchkin JS ora rimuoveranno i caratteri di controllo non codificati dall&#39;URL da tutti i campi URL. Questa modifica è stata progettata per evitare errori relativi alla propagazione di questi tipi di caratteri in sistemi che non li supportano e che non sono utilizzati in modo valido all&#39;interno del Marketo Engage.
