@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
+source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 2%
+source-wordcount: '513'
+ht-degree: 1%
 
 ---
 
@@ -65,6 +65,34 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
    <tr> 
    <td><strong>Pulsante Account personale nella barra di navigazione</strong>: per coloro che hanno eseguito la migrazione ad Adobe Identity Management System, un nuovo pulsante "Account personale" nella barra di navigazione a sinistra consente di configurare il fuso orario e di accedere ai dettagli dell'abbonamento.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Metriche backlog sincronizzazione Salesforce</strong>: è ora possibile monitorare le tendenze della velocità effettiva di sincronizzazione e del backlog per pianificare e pianificare gli aggiornamenti CRM per un'esperienza di sincronizzazione ottimale.</td> 
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  </tr>
+   <tr> 
+   <td><strong>Miglioramenti al report delle prestazioni delle e-mail</strong>: sono stati apportati diversi miglioramenti alle metriche di reporting e al tracciamento delle attività e-mail, offrendo ulteriori informazioni e migliorando la precisione.
+   <ul>
+   <li>Filtrare le persone eliminate e unite dalle metriche delle prestazioni delle e-mail</li>
+   <li>Le e-mail sono ora classificate come <i>interrotte</i> dopo tre giorni di attesa per l'attività di risposta</li>
+   <li>L’e-mail dell’account viene aperta a livello di campagna</li>
+   <li>È stato migliorato il tracciamento delle attività e-mail tramite il perfezionamento della posizione dei pixel di tracciamento</li>
+   </td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
