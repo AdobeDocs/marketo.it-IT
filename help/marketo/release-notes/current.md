@@ -3,7 +3,7 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 00b4617427e2d836ce678963c8faa0f9015a0d40
+source-git-commit: 2457f0f51c6365c29a040e908678e81517327de5
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 2%
@@ -32,7 +32,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:25%">Documentazione</th>
   </tr>
     <tr> 
-   <td><strong>Dati di registrazione migliorati in Engagement Dashboard per webinar interattivi</strong>: ora puoi vedere quali società hanno avuto più presenze e ottenere l'aggiornamento di società, titolo e settore a livello di lead nei report disponibili in Engagement Dashboard.</td> 
+   <td><strong>Dati di registrazione migliorati in Engagement Dashboard per webinar interattivi</strong>: è ora possibile vedere quali società hanno avuto più presenze e ottenere l'aggiornamento di società, titolo e settore a livello di lead nei report disponibili in Engagement Dashboard.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
