@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 49b1545e61a5d11c1ca6ebf5b17d56ef038f6c65
+source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
 workflow-type: tm+mt
-source-wordcount: '9346'
+source-wordcount: '9345'
 ht-degree: 0%
 
 ---
@@ -627,6 +627,7 @@ ht-degree: 0%
          + [Attiva/disattiva la sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md)
          + [Azioni Salesforce implicite](product-docs/crm-sync/salesforce-sync/implied-salesforce-actions.md)
          + [Accedi con OAuth 2.0](product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md)
+         + [Metriche backlog di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md)
          + [Errori di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.md)
          + [Stato di sincronizzazione Salesforce](product-docs/crm-sync/salesforce-sync/salesforce-sync-status.md)
          + [Utilizzo degli account persona](product-docs/crm-sync/salesforce-sync/using-person-accounts.md)
@@ -1748,7 +1749,6 @@ ht-degree: 0%
             + [Rapporto Persone per stato](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
             + [Rapporto prestazioni persone](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Panoramica del tipo di rapporto](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Dashboard delle metriche di osservabilità sincronizzazione di Salesforce](product-docs/reporting/basic-reporting/report-types/salesforce-sync-observability-metrics-dashboard.md)
             + [Rapporto attività pagina web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
             + [Pagine Web visualizzate, Rapporto attività pagina Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + Approfondimenti e-mail {#email-insights}
