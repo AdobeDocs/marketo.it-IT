@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a837ec558ae5a845a841d8ea7d9eb3b8a37313e1
+source-git-commit: 2ae776fb67e590c4ccad711e4dfa55e6fc558c3b
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 1%
+source-wordcount: '485'
+ht-degree: 2%
 
 ---
 
@@ -72,18 +72,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td> 
    <td> </td>
    <td> </td>
-  </tr>
-  </tr>
-   <tr> 
-   <td><strong>Metriche backlog sincronizzazione Salesforce</strong>: è ora possibile monitorare le tendenze della velocità effettiva di sincronizzazione e del backlog per pianificare e pianificare gli aggiornamenti CRM per un'esperienza di sincronizzazione ottimale.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
   </tr>
    <tr> 
    <td><strong>Miglioramenti al report delle prestazioni delle e-mail</strong>: sono stati apportati diversi miglioramenti alle metriche di reporting e al tracciamento delle attività e-mail, offrendo ulteriori informazioni e migliorando la precisione.
