@@ -4,7 +4,7 @@ title: Metriche backlog di sincronizzazione Salesforce
 hide: true
 hidefromtoc: true
 feature: Reporting
-source-git-commit: a9ed4a7e2247a26b376bde64bb1cfd6db2833822
+source-git-commit: 1cc876285f8d7ac7a21a763dd65da34341341a0e
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Sia che l&#39;aggiornamento venga eseguito sul lato Marketo Engage o sul lato CR
 
 Quando si esegue una grande quantità di aggiornamenti (ad esempio, se si modifica il valore di un campo), molti record vengono modificati, creando nuovi SysModStamps. Un numero elevato di aggiornamenti dei record persona deve quindi essere risincronizzato tra il Marketo Engage e il CRM, a volte creando un backlog momentaneo.
 
-## Procedure consigliate per la gestione dei backlog di sincronizzazione {#best-practices-for-managing-sync-backlogs}
+## Procedure consigliate per la gestione dei backlog di sincronizzazione {#best-practices}
 
 **Campi sincronizzati**: verificare che i campi sincronizzati siano solo quelli da sincronizzare. Le modifiche apportate ai campi aumentano il backlog di sincronizzazione e i campi con priorità inferiore potrebbero arrestare o rallentare la sincronizzazione di campi più importanti. Rivolgiti al [Supporto Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per rimuovere i campi sincronizzati.
 
@@ -105,4 +105,4 @@ Quando si esegue una grande quantità di aggiornamenti (ad esempio, se si modifi
 
 **Pianifica aggiornamenti in blocco durante le ore non critiche**: controlla i modelli di sincronizzazione dei dati per identificare i periodi non critici. Verifica se è possibile pianificare aggiornamenti in blocco durante questi periodi non critici.
 
-Se segui tutte le best practice di cui sopra e stai ancora riscontrando backlog significativi, contatta il [Supporto Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Se si seguono tutte le best practice di cui sopra e si riscontrano ancora arretrati significativi, contattare il [Supporto Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
