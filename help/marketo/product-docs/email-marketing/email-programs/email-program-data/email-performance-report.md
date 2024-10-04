@@ -4,9 +4,9 @@ description: Rapporto sulle prestazioni delle e-mail - Documenti Marketo - Docum
 title: Rapporto prestazioni e-mail
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2cfb8381d3207efb00b7d4751e21244a188a411e
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
@@ -35,17 +35,41 @@ Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte,
 
    [Selezionare le colonne del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report delle prestazioni delle e-mail:
 
-   | Colonna | Descrizione |
-   |---|---|
-   | Rifiuto rigido | L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente. |
-   | Rimbalzo morbido | L&#39;e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa. |
-   | In sospeso | Questo numero viene calcolato sottraendo il numero di e-mail consegnate, non recapitate e non recapitate dal numero totale inviato. |
-   | Collegamento selezionato | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
-   | Annulla l&#39;iscrizione | Numero di destinatari e-mail che hanno fatto clic sul collegamento **Annulla iscrizione** nell&#39;e-mail e hanno compilato il modulo. |
+   <table><thead>
+<tr>
+    <th>Colonna</th>
+    <th>Descrizione</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Rifiuto rigido</td>
+    <td>L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente.</td>
+  </tr>
+  <tr>
+    <td>Rimbalzo morbido</td>
+    <td>L'e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa.</td>
+  </tr>
+  <tr>
+    <td>In sospeso</td>
+    <td>Questo numero viene calcolato sottraendo il numero di e-mail consegnate, non recapitate e non recapitate dal numero totale inviato.</td>
+  </tr>
+  <tr>
+    <td>Collegamento selezionato</td>
+    <td>Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail.</td>
+  </tr>
+  <tr>
+    <td>Annulla l'iscrizione</td>
+    <td>Numero di destinatari e-mail che hanno fatto clic sul collegamento Annulla iscrizione nell’e-mail e hanno compilato il modulo.</td>
+  </tr>
+  <tr>
+    <td>Interrotto</td>
+    <td>Numero di e-mail che non è stato possibile recapitare e non è stato ricevuto alcun evento di mancato recapito. Un’e-mail viene automaticamente definita Interrotta se non viene ricevuta una risposta entro tre giorni dall’invio dell’e-mail.</td>
+  </tr>
+</tbody></table>
 
-   >[!NOTE]
-   >
-   >I collegamenti e gli indirizzi e-mail per l’annullamento dell’abbonamento su cui si fa clic in un’e-mail non verranno registrati in Collegamenti selezionati nel rapporto.
+>[!NOTE]
+>
+>I collegamenti e gli indirizzi e-mail per l’annullamento dell’abbonamento su cui si fa clic in un’e-mail non verranno registrati in Collegamenti selezionati nel rapporto.
 
 In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente ha aperto prima l’e-mail. Seguiamo queste regole specifiche per il rapporto sulle prestazioni delle e-mail:
 
@@ -57,9 +81,13 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 
 * **Regola 4**: se l&#39;e-mail è _Aperta_, le mancate consegne vengono ignorate. Se l&#39;e-mail non è stata aperta, _Non recapitato_ ha la precedenza su _Non recapitato_ e _Non recapitato_.
 
+* **Regola 5**: se non viene ricevuta alcuna attività e-mail tre giorni dopo l&#39;invio, verrà considerata _Interrotta_.
+
 >[!NOTE]
 >
->Più invii dalla stessa campagna alla stessa persona vengono conteggiati una sola volta.
+>* Più invii dalla stessa campagna alla stessa persona vengono conteggiati una sola volta.
+>
+>* Più invii da campagne diverse alla stessa persona vengono conteggiati separatamente.
 
 >[!MORELIKETHIS]
 >
