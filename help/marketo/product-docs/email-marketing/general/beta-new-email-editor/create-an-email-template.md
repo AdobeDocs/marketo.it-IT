@@ -4,10 +4,10 @@ title: Creare un modello e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 5d9cd426d939939f22b3187342ab7950a6897d25
+source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 5%
+source-wordcount: '277'
+ht-degree: 3%
 
 ---
 
@@ -39,13 +39,21 @@ ELENCARE OGNI PASSAGGIO FINO AL GET A MARKETO?
 
 ## Progettare il modello {#design-your-template}
 
-Nella schermata di progettazione, puoi scegliere alcune opzioni. Progetta da zero, importa il tuo HTML o scegli un modello salvato (uno dei nostri esempi o uno dei tuoi).
+Nella pagina Progetta modello è possibile scegliere tra alcune opzioni. Progetta da zero, importa un tuo HTML o seleziona un modello esistente (uno dei nostri esempi o uno già salvato).
 
 >[!BEGINTABS]
 
 >[!TAB Progetta da zero]
 
-1. Seleziona **Progettazione da zero**.
+Definisci il contenuto aggiungendo e spostando elementi strutturali con semplici azioni di trascinamento della selezione.
+
+## Creare da zero {#design-from-scratch}
+
+1. Nella pagina Progetta modello selezionare **Progetta da zero**.
+
+   SCHERMATA
+
+1. testo.
 
    SCHERMATA
 
@@ -55,13 +63,39 @@ Nella schermata di progettazione, puoi scegliere alcune opzioni. Progetta da zer
 
 >[!TAB Importa HTML]
 
-1. Seleziona Importa HTML.
+Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il contenuto può essere:
+
+* Un file HTML con un foglio di stile incorporato
+
+* Un file .zip che include un file HTML, il foglio di stile (.css) e le immagini
+
+>[!NOTE]
+>
+>La struttura del file .zip non è soggetta a vincoli. Tuttavia, i riferimenti devono essere relativi e adattarsi alla struttura ad albero della cartella .zip.
+
+## Importa il tuo HTML {#import-your-html}
+
+1. Nella pagina Progetta modello, seleziona **Importa HTML**.
 
    SCHERMATA
 
-1. Testo.
+1. Trascina e rilascia il file HTML o .zip desiderato e fai clic su **Importa**.
 
    SCHERMATA
+
+   >[!CAUTION]
+   >
+   >L&#39;utilizzo di un tag `<table>` come primo livello in un file HTML può causare la perdita di stile, incluse le impostazioni di sfondo e larghezza nel tag del livello superiore.
+
+```
+THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+
+Once the HTML content is uploaded, your content will be in Compatibility mode.
+
+In this mode, you can only personalize your text, add links, or include assets to your content.
+```
+
+IN ACCOUNT DI TEST: IMPOSTAZIONI/STILI/CONVERTITORE HTML
 
 >[!TAB Modelli di esempio]
 
