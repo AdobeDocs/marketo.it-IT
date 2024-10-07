@@ -4,7 +4,7 @@ title: Documento temp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 3%
@@ -39,6 +39,7 @@ Inserisci campi di personalizzazione per personalizzare il contenuto da attribut
 Fai clic su Abilita contenuto condizione per aggiungere contenuto dinamico e adattare il contenuto ai profili target in base a regole condizionali.
 Fai clic sulla scheda Collegamenti dal riquadro a sinistra per visualizzare tutti gli URL del contenuto che verranno tracciati. Puoi modificarne il Tipo di tracciamento o l’Etichetta e aggiungere Tag, se necessario.
 Se necessario, puoi personalizzare ulteriormente l’e-mail facendo clic su Passa all’editor di codice dal menu avanzato. Questo consente di modificare il codice sorgente dell’e-mail, ad esempio per aggiungere tag di tracciamento o HTML personalizzati.
+
 ATTENZIONE
 Dopo il passaggio all’editor di codice, non puoi tornare al designer visivo per questo messaggio e-mail.
 

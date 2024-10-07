@@ -4,9 +4,9 @@ title: Creare un messaggio e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ea06508c495484b6fd73e22876ba3dc06819a864
+source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '363'
 ht-degree: 3%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 3%
 # Creare un messaggio e-mail {#create-an-email}
 
 Testo introduttivo qui.
+
+>[!IMPORTANT]
+>
+>Questo articolo è solo per i membri del New Marketo Engage Email Editor Closed beta. Non divulgare.
 
 1. Accedi a [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
 
@@ -36,6 +40,8 @@ Testo introduttivo qui.
 1. Immetti un nome e un oggetto per l’e-mail. Fai clic su **Crea**.
 
    ![](assets/create-an-email-4.png)
+
+Tutto qui. Ora è il momento di progettare la tua e-mail.
 
 ## Progettare l’e-mail {#design-your-email}
 
@@ -138,3 +144,7 @@ Scegli uno dei modelli creati in precedenza.
    SCHERMATA
 
 >[!ENDTABS]
+
+>[!MORELIKETHIS]
+>
+>[Come accedere a un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
