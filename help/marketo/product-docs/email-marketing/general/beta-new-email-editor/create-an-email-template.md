@@ -4,9 +4,9 @@ title: Creare un modello e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '347'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,7 @@ Testo introduttivo qui.
 >
 >Questo articolo è solo per i membri del New Marketo Engage Email Editor Closed beta. Non divulgare.
 
-1. Accedi a [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   SCHERMATA
-
-ELENCARE OGNI PASSAGGIO FINO AL GET A MARKETO?
+1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Il mio Marketo, seleziona **Design Studio**.
 
@@ -45,13 +41,9 @@ ELENCARE OGNI PASSAGGIO FINO AL GET A MARKETO?
 
 Nella pagina Progetta modello è possibile scegliere tra alcune opzioni. Progetta da zero, importa un tuo HTML o seleziona un modello esistente (uno dei nostri esempi o uno già salvato).
 
->[!BEGINTABS]
-
->[!TAB Progetta da zero]
+### Creare da zero {#design-from-scratch}
 
 Definisci il contenuto aggiungendo e spostando elementi strutturali con semplici azioni di trascinamento della selezione.
-
-## Creare da zero {#design-from-scratch}
 
 1. Nella pagina Progetta modello selezionare **Progetta da zero**.
 
@@ -77,7 +69,7 @@ Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il cont
 >
 >La struttura del file .zip non è soggetta a vincoli. Tuttavia, i riferimenti devono essere relativi e adattarsi alla struttura ad albero della cartella .zip.
 
-## Importa il tuo HTML {#import-your-html}
+### Importa il tuo HTML {#import-your-html}
 
 1. Nella pagina Progetta modello, seleziona **Importa HTML**.
 
@@ -99,9 +91,19 @@ Once the HTML content is uploaded, your content will be in Compatibility mode.
 In this mode, you can only personalize your text, add links, or include assets to your content.
 ```
 
-IN ACCOUNT DI TEST: IMPOSTAZIONI/STILI/CONVERTITORE HTML
+### Scegli un modello {#choose-a-template}
+
+È possibile scegliere tra due tipi di modelli.
+
+* Modelli di esempio: il Marketo Engage offre quattro modelli e-mail predefiniti.
+
+* Modelli salvati: si tratta di modelli creati da zero utilizzando il menu Modelli o di un messaggio e-mail creato e scelto di salvare come modello.
+
+>[!BEGINTABS]
 
 >[!TAB Modelli di esempio]
+
+Scegli uno dei quattro modelli predefiniti per iniziare subito a utilizzare la progettazione dei modelli e-mail.
 
 1. Seleziona Modelli di esempio.
 

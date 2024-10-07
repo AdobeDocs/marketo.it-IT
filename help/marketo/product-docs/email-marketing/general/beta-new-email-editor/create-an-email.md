@@ -4,9 +4,9 @@ title: Creare un messaggio e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '357'
 ht-degree: 3%
 
 ---
@@ -19,11 +19,7 @@ Testo introduttivo qui.
 >
 >Questo articolo è solo per i membri del New Marketo Engage Email Editor Closed beta. Non divulgare.
 
-1. Accedi a [Adobe Experience Cloud](https://experiencecloud.adobe.com/).
-
-   SCHERMATA???
-
-   ELENCA OGNI PASSAGGIO FINO AL GET A MARKETO???
+1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Il mio Marketo, seleziona **Design Studio**.
 
