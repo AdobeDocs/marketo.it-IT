@@ -3,9 +3,9 @@ description: Domande frequenti su Identity Management per Adobe - Documentazione
 title: Domande frequenti su Identity Management Adobe
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 384484aaa9f4c765f5f1aaee436ae783b265e069
+source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
 workflow-type: tm+mt
-source-wordcount: '1342'
+source-wordcount: '1456'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Adobe Identity Management System è costituito da tre componenti.
 
 **Quando verranno integrate con IMS le sottoscrizioni di Marketo Engage esistenti?**
 
-Gli abbonamenti Marketo esistenti verranno migrati al sistema Identity Management Adobe più avanti nel corso dell’anno. Il supporto Marketo non sarà in grado di fornire aggiornamenti relativi alla migrazione Adobe IMS. Il team dell’account Adobe raggiungerà la tempistica stimata nei prossimi mesi.
+Gli abbonamenti al Marketo Engage esistenti sono attualmente in fase di migrazione ad Adobe IMS per qualsiasi evento di vendita, che include rinnovi, eventi di riappalto e/o supplementi. Le migrazioni al di fuori di un evento di vendita sono ora supportate a ottobre 2024.
 
 **Dopo la migrazione, gli URL di Marketo Engage rimarranno invariati?**
 
@@ -50,7 +50,13 @@ Sì.  Gli utenti che hanno effettuato l’onboarding in Adobe IMS non possono ut
 
 **A chi rivolgerci per richiedere assistenza se siamo integrati con IMS?**
 
-Segui la procedura standard per contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Migrazione pre-utente: casi di supporto dei file in [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) o e-mail `customercare@marketo.com`.
+
+* Migrazione post-utente: casi di supporto file in [Marketing Nation Community](https://nation.marketo.com/t5/support/ct-p/Support) o e-mail `customercare@marketo.com`.
+
+* Completamento della migrazione post-supporto: gli amministratori del supporto del prodotto possono segnalare i casi tramite il portale di supporto Experience League.
+
+Se hai successo Ultimate, puoi accedere al servizio Guanto bianco per migrazione Admin Console. Rivolgiti al team dell’account Adobe (il tuo Account Manager) per assistenza.
 
 **Se si utilizza un&#39;identità Adobe per accedere ad altre applicazioni Adobe, è possibile utilizzarla per accedere a Marketo?**
 
@@ -106,13 +112,13 @@ Le schede prodotto supportate sono: Marketo Engage, Marketo Measure, Marketo Dyn
 
 **Cosa succede se l&#39;accesso utente non corrisponde all&#39;indirizzo e-mail quando viene eseguita la migrazione a un&#39;identità Adobe?**
 
-Gli attuali utenti di Marketo con accessi diversi dal proprio indirizzo e-mail non accederanno più con quella credenziale una volta migrati a un’identità di Adobe. Le identità di Adobe si autenticano sempre con l’indirizzo e-mail di un utente.
+Gli attuali utenti del Marketo Engage con accessi diversi dal loro indirizzo e-mail non accederanno più con quella credenziale una volta migrati a un’identità Adobe. Le identità di Adobe si autenticano sempre con l’indirizzo e-mail di un utente. Puoi aggiornare un indirizzo e-mail di identità di Adobe all&#39;indirizzo [account.adobe.com](https://account.adobe.com){target="_blank"}.
 
 **Cosa succede dopo la migrazione dell&#39;identità di Adobe se la sottoscrizione utilizza le impostazioni di restrizione IP?**
 
 Quando si effettua l’onboarding delle sottoscrizioni in Adobe Identity, non viene effettuata la migrazione delle impostazioni di restrizione IP a Adobe Admin Console. Le impostazioni di restrizione IP di Marketo includono l’autorizzazione all’accesso solo da indirizzi IP specifici e il blocco dell’accesso da parte di indirizzi IP specifici. Al momento, Adobe Identity Management System non supporta le funzioni di restrizione IP.
 
-Nel 2024, Adobe Identity Management System rilascerà una funzione per supportare solo indirizzi IP specifici, supportando una transizione per gli utenti di Marketo che attualmente utilizzano questa funzione. Gli utenti che attualmente utilizzano questa funzione non verranno sottoposti a migrazione fino al rilascio della funzione. Una volta distribuita la funzione, gli utenti riceveranno una notifica della pianificazione della migrazione. Se disponibili, verranno fornite ulteriori informazioni sulla funzione.
+In arrivo all’inizio del 2025, Adobe Identity Management System rilascerà una funzione per supportare solo indirizzi IP specifici, supportando una transizione per gli utenti di Marketo che attualmente utilizzano questa funzione. Gli utenti che attualmente utilizzano questa funzione non verranno sottoposti a migrazione fino al rilascio della funzione. Una volta distribuita la funzione, gli utenti riceveranno una notifica della pianificazione della migrazione. Se disponibili, verranno fornite ulteriori informazioni sulla funzione.
 
 Gli utenti che attualmente utilizzano la restrizione IP, che blocca l’accesso a indirizzi specifici, non potranno più utilizzare questa funzione dopo la migrazione ad Adobe Identity, in quanto non supportata da Adobe Identity Management System.
 
@@ -123,3 +129,9 @@ Quando si effettua l’onboarding degli abbonamenti in Adobe Identity, a livello
 **Ho più di una sottoscrizione, ma non tutte hanno Single Sign-On abilitato. Cosa succede dopo la migrazione di Adobe Identity?**
 
 Quando si effettua l’onboarding degli abbonamenti in Adobe Identity, viene impostato il Single Sign On (SSO) a livello di organizzazione Adobe. Ciò significa che l’SSO si applica a tutte le istanze di prodotto nell’organizzazione Adobe. Una volta configurato, l’SSO verrà applicato a tutte le istanze Marketo in tale organizzazione di Adobe. In precedenza, Marketo supportava questa impostazione a livello di istanza. Non supportato da Adobe Identity Management System.
+
+**Per accedere al Marketo Engage, ora devo passare a Experience Cloud. Esiste un modo per semplificare questo flusso?**
+
+Sì.  Puoi creare un segnalibro del browser del collegamento che viene avviato dopo aver fatto clic sul pulsante **Avvia** nella pagina di ingresso dell&#39;istanza di Marketo Engage per ignorare la pagina in corso.
+
+![](assets/faq-1.png)
