@@ -3,16 +3,20 @@ description: Aggiungere un team al webinar - Documentazione di Marketo - Documen
 title: Aggiungi un team di webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 488da545043cbd59eb3d3b1d4f57684d14bd501a
+source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '411'
+ht-degree: 0%
 
 ---
 
 # Aggiungi un team di webinar {#add-a-webinar-team}
 
 Un team di webinar nei webinar interattivi è costituito da tutti i ruoli che contribuiscono alla corretta distribuzione del webinar in Adobe Connect. Ciò include sia i relatori che i co-host.
+
+>[!IMPORTANT]
+>
+>Ti consigliamo vivamente di [progettare il webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _prima_ di aggiungere relatori o co-host.
 
 >[!NOTE]
 >
@@ -22,7 +26,9 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
 >[!PREREQUISITES]
 >
->[Crea un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>* [Crea un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
+>
+>* [Progetta il tuo webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"}
 
 ## Aggiungi un co-host {#add-a-co-host}
 
@@ -70,4 +76,4 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
 >[!MORELIKETHIS]
 >
->[Crea un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md)
+>[Crea un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}
