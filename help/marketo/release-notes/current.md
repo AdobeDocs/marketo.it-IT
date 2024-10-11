@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 2%
 
 ---
@@ -54,8 +54,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
    <tr> 
    <td><strong>Conteggio "Influenza" elenco smart</strong>: verifica il numero di persone interessate dalla modifica delle regole di qualifica di una campagna smart.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 
@@ -65,8 +65,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
    <tr> 
    <td><strong>Pulsante Account personale nella barra di navigazione</strong>: per coloro che hanno eseguito la migrazione ad Adobe Identity Management System, un nuovo pulsante "Account personale" nella barra di navigazione a sinistra consente di configurare il fuso orario e di accedere ai dettagli dell'abbonamento.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 

@@ -4,9 +4,9 @@ title: Creare un modello e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '432'
 ht-degree: 2%
 
 ---
@@ -18,6 +18,10 @@ Testo introduttivo qui.
 >[!IMPORTANT]
 >
 >Questo articolo è solo per i membri del New Marketo Engage Email Editor Closed beta. Non divulgare.
+
+>[!NOTE]
+>
+>I modelli e-mail nel nuovo editor e-mail possono essere utilizzati solo per creare e-mail nel nuovo editor e-mail. Non è possibile farvi riferimento nel vecchio editor e-mail.
 
 1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -79,17 +83,19 @@ Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il cont
 
    SCHERMATA
 
+   >[!NOTE]
+   >
+   >Quando il contenuto di HTML viene caricato, il contenuto sarà in modalità di compatibilità. In questa modalità, puoi solo personalizzare il testo, aggiungere collegamenti o includere risorse nel contenuto.
+
+1. Per poter sfruttare i componenti di contenuto di E-mail Designer, accedi alla scheda HTML converter e fai clic su Converti.
+
+   SCHERMATA
+
    >[!CAUTION]
    >
    >L&#39;utilizzo di un tag `<table>` come primo livello in un file HTML può causare la perdita di stile, incluse le impostazioni di sfondo e larghezza nel tag del livello superiore.
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
-
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Ora puoi personalizzare il file importato in base alle esigenze con l’editor e-mail visivo.
 
 ### Scegli un modello {#choose-a-template}
 
@@ -124,7 +130,3 @@ Scegli uno dei quattro modelli predefiniti per iniziare subito a utilizzare la p
    SCHERMATA
 
 >[!ENDTABS]
-
->[!MORELIKETHIS]
->
->[Come accedere a un modello di e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md){target="_blank"}

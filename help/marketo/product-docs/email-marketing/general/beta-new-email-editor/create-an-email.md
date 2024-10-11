@@ -4,10 +4,10 @@ title: Creare un messaggio e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 3%
+source-wordcount: '1063'
+ht-degree: 0%
 
 ---
 
@@ -39,7 +39,7 @@ Testo introduttivo qui.
 
 Tutto qui. Ora è il momento di progettare la tua e-mail.
 
-## Progettare l’e-mail {#design-your-email}
+## Scegli il tipo di contenuto {#choose-your-content-type}
 
 1. Nell&#39;e-mail appena creata, fare clic su **+ Aggiungi contenuto e-mail**.
 
@@ -47,27 +47,25 @@ Tutto qui. Ora è il momento di progettare la tua e-mail.
 
 1. La pagina &quot;Crea e-mail&quot; viene caricata. Puoi scegliere tra alcune opzioni:
 
-* [Creare da zero](#design-from-scratch)
+* [Progetta da zero](#design-from-scratch) utilizzando l&#39;Editor e-mail
 
-* [Importa il tuo HTML](#import-html)
+* [Importa il tuo HTML](#import-html) tramite un file HTML o zip
 
 * [Seleziona un modello esistente](#choose-a-template) (uno dei nostri esempi o uno già salvato)
 
 ### Creare da zero {#design-from-scratch}
 
-Breve introduzione
+Quando inizi da zero, utilizza le opzioni seguenti per definire il contenuto.
 
-1. Testo
+1. Nella home page Progetta modello selezionare **Progetta da zero**.
 
-   SCHERMATA
+Aggiungi struttura e contenuto all’e-mail.
 
-1. Testo
+Aggiungere immagini.
 
-   SCHERMATA
+Personalizza i contenuti.
 
-1. Testo
-
-   SCHERMATA
+Rivedi e aggiorna i collegamenti.
 
 ### Importa HTML {#import-html}
 
@@ -89,13 +87,11 @@ Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il cont
 
    SCHERMATA
 
-```
-THIS INFO MISSING FROM AJO B2B DOC - ADD IN THIS DOC?
+>[!NOTE]
+>
+>Quando il contenuto di HTML viene caricato, il contenuto sarà in modalità di compatibilità. In questa modalità, puoi solo personalizzare il testo, aggiungere collegamenti o includere risorse nel contenuto.
 
-Once the HTML content is uploaded, your content will be in Compatibility mode.
-
-In this mode, you can only personalize your text, add links, or include assets to your content.
-```
+Puoi apportare le modifiche desiderate al contenuto importato utilizzando gli [strumenti dell&#39;editor e-mail](#add-structure-and-content).
 
 ### Scegli un modello {#choose-a-template}
 
@@ -109,9 +105,9 @@ In this mode, you can only personalize your text, add links, or include assets t
 
 >[!TAB Modelli di esempio]
 
-Scegli uno dei quattro modelli predefiniti per iniziare subito a utilizzare la progettazione delle e-mail.
+Scegli uno dei nostri modelli predefiniti per iniziare subito a utilizzare la progettazione delle e-mail.
 
-1. Nella pagina Crea e-mail, seleziona Modelli di esempio.
+1. Nella pagina Crea e-mail, seleziona **Modelli di esempio**.
 
    SCHERMATA
 
@@ -141,6 +137,97 @@ Scegli uno dei modelli creati in precedenza.
 
 >[!ENDTABS]
 
->[!MORELIKETHIS]
+## Aggiungere struttura e contenuto {#add-structure-and-content}
+
+1. Per iniziare a creare o modificare il contenuto, trascina un elemento da Strutture nell’area di lavoro. Modificane le impostazioni nel riquadro a destra.
+
+   >[!TIP]
+   >
+   >Seleziona il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
+
+   SCHERMATA
+
+   >[!NOTE]
+   >
+   >Le dimensioni di ogni colonna non possono essere inferiori al 10% della larghezza totale del componente struttura. È possibile rimuovere solo colonne vuote.
+
+1. Dalla sezione Sommario, trascina gli elementi desiderati e rilasciali in uno o più componenti della struttura.
+
+   SCHERMATA
+
+1. Ogni componente può essere personalizzato tramite le schede Impostazioni o Stile. Modificare il carattere, lo stile del testo, il margine e altro ancora.
+
+SCHERMATA
+
+### Aggiungi Assets {#add-assets}
+
+Dal selettore delle risorse, puoi selezionare direttamente le risorse memorizzate nella libreria Assets. Fai doppio clic sulla cartella che contiene le risorse. Trascinali e rilasciali in un componente struttura.
+
+Inserisci campi di personalizzazione per personalizzare il contenuto da attributi di profili, iscrizioni di pubblico, attributi contestuali e altro ancora.
+
+Fai clic su Abilita contenuto condizione per aggiungere contenuto dinamico e adattare il contenuto ai profili target in base a regole condizionali.
+
+Fai clic sulla scheda Collegamenti dal riquadro a sinistra per visualizzare tutti gli URL del contenuto che verranno tracciati. Puoi modificarne il Tipo di tracciamento o l’Etichetta e aggiungere Tag, se necessario.
+
+Se necessario, puoi personalizzare ulteriormente l’e-mail facendo clic su Passa all’editor di codice dal menu avanzato. Questo consente di modificare il codice sorgente dell’e-mail, ad esempio per aggiungere tag di tracciamento o HTML personalizzati.
+
+ATTENZIONE
+Dopo il passaggio all’editor di codice, non puoi tornare al designer visivo per questo messaggio e-mail.
+
+Una volta che il contenuto è pronto, fai clic sul pulsante Simula contenuto per verificare il rendering. È possibile scegliere la visualizzazione desktop o mobile.
+
+Al termine, fai clic su Salva.
+
+
+
+
+
+## Controlla avvisi {#check-alerts}
+
+Durante la progettazione del contenuto, gli avvisi vengono visualizzati nell’interfaccia (in alto a destra dello schermo) quando mancano le impostazioni chiave.
+
+Esistono due tipi di avvisi:
+
+**Avvisi**
+
+Le avvertenze si riferiscono a consigli e best practice, ad esempio:
+
+* **Il collegamento di rinuncia non è presente nel corpo dell&#39;e-mail**: sebbene i collegamenti di annullamento dell&#39;iscrizione siano un requisito, è consigliabile aggiungerli al corpo dell&#39;e-mail.
+
+>[!NOTE]
 >
->[Come accedere a un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}
+>L&#39;aggiunta di un&#39;opzione di annullamento dell&#39;abbonamento non è richiesta per [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non di marketing).
+
+* **La versione di testo di HTML è vuota**: è necessario definire una versione di testo del corpo dell&#39;e-mail per i casi in cui non è possibile visualizzare il contenuto di HTML.
+
+* **Nel corpo dell&#39;e-mail è presente un collegamento vuoto**: verifica che tutti i collegamenti presenti nell&#39;e-mail siano corretti.
+
+* **La dimensione dell&#39;e-mail ha superato il limite di 100 KB**: per una consegna ottimale, assicurati che la dimensione dell&#39;e-mail non superi i 100 KB.
+
+**Errori**
+
+Gli errori impediscono l’invio o il test dell’e-mail finché non vengono risolti:
+
+* **Riga dell&#39;oggetto mancante**: è necessaria una riga dell&#39;oggetto dell&#39;e-mail.
+
+* **La versione e-mail del messaggio è vuota**: questo errore si verifica quando il contenuto dell&#39;e-mail non è stato configurato.
+
+## Verifica l’e-mail
+
+Una volta definito il contenuto del messaggio, puoi utilizzare i profili di test per visualizzarne l’anteprima, inviare bozze e controllare il rendering nei client desktop, mobili e basati su Web più diffusi. Se hai inserito contenuti personalizzati, puoi controllarne la modalità di visualizzazione nel messaggio utilizzando i dati del profilo di test.
+
+Per visualizzare l&#39;anteprima del contenuto dell&#39;e-mail, fai clic su **Simula contenuto**, quindi aggiungi un profilo di test per verificare il messaggio utilizzando i dati del profilo di test.
+
+SCHERMATA
+
+## Fai riferimento a un’e-mail {#reference-an-email}
+
+Dopo aver creato un’e-mail nel nuovo editor, puoi farvi riferimento in Campagne avanzate o Elenchi avanzati come faresti con qualsiasi altra e-mail.
+
+* Per farvi riferimento in un elenco avanzato, [segui i soliti passaggi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
+
+* Per farvi riferimento in una campagna avanzata, [segui i soliti passaggi](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
+
+>[!NOTE]
+>
+>È possibile fare riferimento solo alle e-mail salvate. Nel nuovo editor e-mail non è presente lo stato &quot;approvato&quot;.
