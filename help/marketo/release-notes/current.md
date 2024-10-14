@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '487'
 ht-degree: 2%
 
 ---
@@ -78,7 +78,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <ul>
    <li>Filtrare le persone eliminate e unite dalle metriche delle prestazioni delle e-mail</li>
    <li>Le e-mail sono ora classificate come <i>interrotte</i> dopo tre giorni di attesa per l'attività di risposta</li>
-   <li>L’e-mail dell’account viene aperta a livello di campagna</li>
+   <li>Le aperture delle e-mail contano come aperture univoche separatamente per ogni Smart Campaign</li>
    <li>È stato migliorato il tracciamento delle attività e-mail tramite il perfezionamento della posizione dei pixel di tracciamento</li>
    </td> 
    <td>Spedito</td>

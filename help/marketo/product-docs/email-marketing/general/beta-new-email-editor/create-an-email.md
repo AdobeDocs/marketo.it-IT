@@ -4,9 +4,9 @@ title: Creare un messaggio e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: ef1cb0b67deb935b67a56076ed9ed0a14f449662
 workflow-type: tm+mt
-source-wordcount: '1063'
+source-wordcount: '1064'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,7 @@ SCHERMATA
 
 ## Fai riferimento a un’e-mail {#reference-an-email}
 
-Dopo aver creato un’e-mail nel nuovo editor, puoi farvi riferimento in Campagne avanzate o Elenchi avanzati come faresti con qualsiasi altra e-mail.
+Dopo aver creato un’e-mail nel nuovo editor, puoi farvi riferimento in Campagne avanzate e/o Elenchi avanzati come faresti con qualsiasi altra e-mail.
 
 * Per farvi riferimento in un elenco avanzato, [segui i soliti passaggi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
