@@ -4,27 +4,27 @@ title: Panoramica
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 2d69e52883d141e3976c6d4fc1de6038675af602
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '60'
+ht-degree: 3%
 
 ---
 
 # Panoramica {#overview}
 
-Testo introduttivo qui.
+Testo introduttivo.
 
 >[!IMPORTANT]
 >
->Questo articolo è solo per i membri del New Marketo Engage Email Editor Closed beta. Non divulgare.
+>Questo articolo è valido solo per i membri della versione beta dell’Editor e-mail per il nuovo Marketo Engage. Non divulgare.
+
+```
+DO WE WANT TO ADD A DESCRIPTIVE INTRO HERE?
+```
 
 **Articoli disponibili**
 
-* [Creare un messaggio e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md){target="_blank"}: scopri come creare e progettare un messaggio e-mail nel nuovo editor.
+* [Authoring di e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md){target="_blank"}: scopri come creare, progettare e fare riferimento a un’e-mail nel nuovo editor.
 
-* [Come accedere a un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md){target="_blank"}: scopri come accedere alle e-mail del tuo nuovo editor dal Marketo Engage.
-
-^^^ POTREBBE ESSERE MIGLIORE AGGIUNGERE AL DOCUMENTO PRINCIPALE
-
-* [Creare un modello di e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md){target="_blank"}: scopri come creare e progettare un modello di e-mail nel nuovo editor.
+* [Modelli e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-editor/email-templates.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nel nuovo editor.

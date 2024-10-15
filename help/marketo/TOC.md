@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: ddba357e6e0e3d451ee4b054b18eaf1ed29055b6
+source-git-commit: bdcb4e5def16e509ae083b6eebdefadbb0e8fa47
 workflow-type: tm+mt
-source-wordcount: '9379'
+source-wordcount: '9370'
 ht-degree: 0%
 
 ---
@@ -1100,10 +1100,9 @@ ht-degree: 0%
             + [Informazioni sulla registrazione degli eventi e-mail](product-docs/email-marketing/general/understanding-the-email-editor/understanding-email-event-logging.md)
             + [Utilizzo dell’Editor Rich Text](product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md)
          + Beta - Nuovo editor e-mail {#beta-new-email-editor}
-            + [Creare un messaggio e-mail](product-docs/email-marketing/general/beta-new-email-editor/create-an-email.md)
-            + [Creare un modello e-mail](product-docs/email-marketing/general/beta-new-email-editor/create-an-email-template.md)
-            + [Come accedere a un’e-mail](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email.md)
-            + [Come accedere a un modello di messaggio](product-docs/email-marketing/general/beta-new-email-editor/how-to-access-an-email-template.md)
+            + [Panoramica del nuovo editor e-mail (beta)](product-docs/email-marketing/general/beta-new-email-editor/overview.md)
+            + [Authoring di e-mail](product-docs/email-marketing/general/beta-new-email-editor/email-authoring.md)
+            + [Modelli e-mail](product-docs/email-marketing/general/beta-new-email-editor/email-templates.md)
          + Creazione di un messaggio e-mail {#creating-an-email}
             + [Approvare un’e-mail](product-docs/email-marketing/general/creating-an-email/approve-an-email.md)
             + [Creare un messaggio e-mail di solo testo](product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md)
