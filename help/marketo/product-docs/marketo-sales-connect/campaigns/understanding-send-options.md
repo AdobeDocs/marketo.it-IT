@@ -4,7 +4,7 @@ description: Informazioni sulle opzioni di invio - Documentazione di Marketo - D
 title: Informazioni sulle opzioni di invio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
 source-wordcount: '609'
 ht-degree: 0%
@@ -63,3 +63,4 @@ Per qualsiasi giorno/passaggio successivo nella campagna, avrai a disposizione l
 **Invia questa e-mail all&#39;e-mail precedente**
 
 * Questa opzione di invio rappresenta un &quot;follow-up&quot; dell’e-mail precedente e aggiunge il corpo dell’e-mail precedente alla fine di questa e-mail.
+

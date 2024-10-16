@@ -4,9 +4,9 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
+source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
 workflow-type: tm+mt
-source-wordcount: '1271'
+source-wordcount: '1474'
 ht-degree: 1%
 
 ---
@@ -196,14 +196,38 @@ Al termine, fai clic su Salva.
 ARE THEY CALLED LAYERS OR COMPONENTS
 ```
 
-Apri la struttura di navigazione per accedere a strutture specifiche e alle relative colonne/componenti per una modifica più granulare.
+Apri la struttura di navigazione per accedere a strutture specifiche e alle relative colonne/componenti per una modifica più granulare. Per accedere a, fai clic sull’icona della struttura di navigazione.
 
-1. Per accedere a, fai clic sull’icona della struttura di navigazione.
+![](assets/authoring-layers-settings-styles-1.png)
 
-SCHERMATA
+L’esempio seguente illustra i passaggi per regolare la spaziatura e l’allineamento verticale all’interno di un componente struttura composto da colonne.
 
+1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Seleziona una colonna]_ e scegliere quello che si desidera modificare.
 
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Impostazioni]_ e _[!UICONTROL Stili]_ a destra.
+
+   ![](assets/authoring-layers-settings-styles-2.png)
+
+1. Per modificare le proprietà della colonna, fai clic sulla scheda _[!UICONTROL Stili]_ a destra e modificale in base alle tue esigenze:
+
+   * Per **[!UICONTROL Sfondo]**, modifica il colore di sfondo in base alle esigenze.
+
+     Deselezionare la casella di controllo relativa a uno sfondo trasparente. Abilita l&#39;impostazione **[!UICONTROL Immagine di sfondo]** per utilizzare un&#39;immagine come sfondo invece di un colore a tinta unita.
+
+   * Per **[!UICONTROL Allineamento]**, seleziona l&#39;icona _Superiore_, _Centro_ o _Inferiore_.
+   * Per **[!UICONTROL Spaziatura interna]**, definire la spaziatura per tutti i lati.
+
+     Selezionare **[!UICONTROL Spaziatura interna diversa per ogni lato]** se si desidera modificarla. Fai clic sull&#39;icona _Blocca_ per interrompere la sincronizzazione.
+
+   * Espandi la sezione **[!UICONTROL Avanzate]** per definire gli stili in linea per la colonna.
+
+   ![](assets/authoring-layers-settings-styles-3.png)
+
+1. Ripeti questi passaggi per regolare l’allineamento e la spaziatura per le altre colonne del componente.
+
+1. Salva le modifiche.
 
 ### Personalizzare il contenuto {#personalize-content}
 
