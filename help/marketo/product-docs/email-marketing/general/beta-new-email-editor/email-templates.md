@@ -4,9 +4,9 @@ title: Modelli e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1672'
+source-wordcount: '1728'
 ht-degree: 1%
 
 ---
@@ -149,8 +149,6 @@ Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-ma
 
 1. Ogni componente può essere personalizzato tramite le schede Impostazioni o Stile. Modificare il carattere, lo stile del testo, il margine e altro ancora.
 
-SCHERMATA
-
 ### Aggiungi Assets {#add-assets}
 
 ```
@@ -227,25 +225,29 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 ### Personalizzare il contenuto {#personalize-content}
 
-I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecchio, ma l’icona ha un aspetto diverso.
+I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecchio, ma l’icona ha un aspetto diverso. L’esempio seguente illustra l’aggiunta di un token di nome con testo di fallback.
 
-1. Seleziona il componente testo e fai clic sull&#39;icona **Aggiungi personalizzazione**.
+1. Seleziona il componente testo. Posiziona il cursore nel punto in cui desideri visualizzare il token e fai clic sull&#39;icona **Aggiungi personalizzazione**.
 
-   SCHERMATA
+   ![](assets/personalize-content-1.png)
 
 1. Fai clic sul tipo di [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} desiderato.
 
-   SCHERMATA
+   ![](assets/personalize-content-2.png)
 
-1. Fai clic su + o ... per aggiungere un token allo spazio vuoto.
+1. Trova il token desiderato e fai clic sull&#39;icona **...** (facendo clic sull&#39;icona + viene aggiunto un token senza testo di fallback).
 
-   SCHERMATA
+   ![](assets/personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Testo di fallback&quot; è il nuovo termine dell’editor per il valore predefinito. Esempio: ``{{lead.First Name:default=Friend}}``
+   >&quot;Testo di fallback&quot; è il nuovo termine dell’editor per il valore predefinito. Esempio: ``{{lead.First Name:default=Friend}}``. È consigliato nel caso in cui non vi sia alcun valore per la persona nel campo scelto.
 
-1. Al termine, fai clic su **Salva**.
+1. Imposta il testo di fallback e fai clic su **Aggiungi**.
+
+   ![](assets/personalize-content-4.png)
+
+1. Fai clic su **Salva**.
 
 ### Modifica tracciamento URL {#edit-url-tracking}
 
@@ -253,11 +255,13 @@ A volte è meglio non abilitare l’URL di tracciamento di Marketo su un collega
 
 1. Fai clic sull’icona Collegamenti per visualizzare tutti gli URL nel messaggio e-mail.
 
-   SCHERMATA
+   ![](assets/edit-url-tracking-1.png)
 
 1. Fai clic sull’icona a forma di matita per modificare il tracciamento di eventuali collegamenti desiderati.
 
-   SCHERMATA
+1. Fai clic sul menu a discesa **Tipo di tracciamento** ed effettua la selezione.
+
+   ![](assets/edit-url-tracking-2.png)
 
    ```
    LABEL?

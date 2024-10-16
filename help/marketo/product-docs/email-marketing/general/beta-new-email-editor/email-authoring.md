@@ -4,9 +4,9 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
 workflow-type: tm+mt
-source-wordcount: '1474'
+source-wordcount: '1477'
 ht-degree: 1%
 
 ---
@@ -141,7 +141,7 @@ Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-ma
    >
    >Seleziona il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
 
-   SCHERMATA
+   ![](assets/authoring-add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -149,11 +149,9 @@ Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-ma
 
 1. Dalla sezione Sommario, trascina gli elementi desiderati e rilasciali in uno o più componenti della struttura.
 
-   SCHERMATA
+   ![](assets/authoring-add-structure-and-content-2.png)
 
 1. Ogni componente può essere personalizzato tramite le schede Impostazioni o Stile. Modificare il carattere, lo stile del testo, il margine e altro ancora.
-
-SCHERMATA
 
 ### Aggiungi Assets {#add-assets}
 
@@ -261,11 +259,13 @@ A volte è meglio non abilitare l’URL di tracciamento di Marketo su un collega
 
 1. Fai clic sull’icona Collegamenti per visualizzare tutti gli URL nel messaggio e-mail.
 
-   SCHERMATA
+   ![](assets/authoring-edit-url-tracking-1.png)
 
 1. Fai clic sull’icona a forma di matita per modificare il tracciamento di eventuali collegamenti desiderati.
 
-   SCHERMATA
+1. Fai clic sul menu a discesa **Tipo di tracciamento** ed effettua la selezione.
+
+   ![](assets/authoring-edit-url-tracking-2.png)
 
    ```
    LABEL?
@@ -327,7 +327,7 @@ Una volta definito il contenuto del messaggio, puoi utilizzare i profili di test
 
 Per visualizzare l&#39;anteprima del contenuto dell&#39;e-mail, fai clic su **Simula contenuto**, quindi aggiungi un profilo di test per verificare il messaggio utilizzando i dati del profilo di test.
 
-SCHERMATA
+![](assets/test-your-email-1.png)
 
 ## Fai riferimento a un’e-mail {#reference-an-email}
 
