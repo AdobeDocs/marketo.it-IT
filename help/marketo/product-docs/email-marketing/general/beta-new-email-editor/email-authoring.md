@@ -4,16 +4,16 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
+source-git-commit: 43a0d32c2bc6a5f72a13cb6022b00c058d9c3269
 workflow-type: tm+mt
-source-wordcount: '1259'
+source-wordcount: '1271'
 ht-degree: 1%
 
 ---
 
 # Authoring di e-mail {#email-authoring}
 
-Testo introduttivo qui.
+Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuovo Designer e-mail di Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -297,7 +297,7 @@ Gli errori impediscono l’invio o il test dell’e-mail finché non vengono ris
 
 * **La versione e-mail del messaggio è vuota**: questo errore si verifica quando il contenuto dell&#39;e-mail non è stato configurato.
 
-## Verifica l’e-mail
+## Verifica l’e-mail {#test-your-email}
 
 Una volta definito il contenuto del messaggio, puoi utilizzare i profili di test per visualizzarne l’anteprima, inviare bozze e controllare il rendering nei client desktop, mobili e basati su Web più diffusi. Se hai inserito contenuti personalizzati, puoi controllarne la modalità di visualizzazione nel messaggio utilizzando i dati del profilo di test.
 
