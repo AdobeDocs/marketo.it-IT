@@ -4,16 +4,16 @@ title: Modelli e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 28bc524ac651a2a9516888b11acb226725689869
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1592'
 ht-degree: 1%
 
 ---
 
 # Modelli e-mail {#email-templates}
 
-Testo introduttivo qui.
+Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-mail autonomi per riutilizzare facilmente i contenuti personalizzati.
 
 >[!IMPORTANT]
 >
@@ -47,13 +47,13 @@ Testo introduttivo qui.
 
 Nella pagina _Progetta modello_ puoi scegliere tra alcune opzioni. [Progetta da zero](#design-from-scratch), [importa il tuo HTML personale](#import-html) o [seleziona un modello esistente](#choose-a-template) (uno dei nostri esempi o uno già salvato).
 
+![](assets/design-your-template-1.png)
+
 ### Creare da zero {#design-from-scratch}
 
 Definisci il contenuto aggiungendo e spostando elementi strutturali con semplici azioni di trascinamento della selezione.
 
 1. Nella pagina _Progetta modello_, seleziona **Progetta da zero**.
-
-   SCHERMATA
 
 1. Aggiungi [struttura e contenuto](#add-structure-and-content).
 
@@ -71,11 +71,9 @@ Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il cont
 
 1. Nella pagina _Progetta modello_, seleziona **Importa HTML**.
 
-   SCHERMATA
+1. Trascina e rilascia il file HTML o .zip desiderato (o seleziona un file dal computer) e fai clic su **Importa**.
 
-1. Trascina e rilascia il file HTML o .zip desiderato e fai clic su **Importa**.
-
-   SCHERMATA
+   ![](assets/import-your-html-1.png)
 
    >[!NOTE]
    >
@@ -103,25 +101,31 @@ Ora puoi personalizzare il file importato in base alle esigenze con l’editor e
 
 >[!TAB Modelli di esempio]
 
-Scegli uno dei quattro modelli predefiniti per iniziare subito a utilizzare la progettazione dei modelli e-mail.
+Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-mail.
 
-1. Seleziona Modelli di esempio.
+1. La scheda Modelli di esempio è aperta per impostazione predefinita.
 
-   SCHERMATA
+1. Seleziona il modello da utilizzare.
 
-1. Testo.
+   ![](assets/sample-templates-1.png)
 
-   SCHERMATA
+1. Fare clic su **Usa questo modello**.
+
+   ![](assets/sample-templates-2.png)
+
+1. Modifica il contenuto come desiderato utilizzando la finestra di progettazione del contenuto visivo.
 
 >[!TAB Modelli salvati]
 
-1. Seleziona Modelli salvati.
+1. Fai clic sulla scheda **Modelli salvati** e seleziona il modello desiderato.
 
-   SCHERMATA
+   ![](assets/saved-templates-1.png)
 
-1. Testo.
+1. Fare clic su **Usa questo modello**.
 
-   SCHERMATA
+   ![](assets/saved-templates-2.png)
+
+1. Modifica il contenuto come desiderato utilizzando la finestra di progettazione del contenuto visivo.
 
 >[!ENDTABS]
 
@@ -133,7 +137,7 @@ Scegli uno dei quattro modelli predefiniti per iniziare subito a utilizzare la p
    >
    >Seleziona il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
 
-   SCHERMATA
+   ![](assets/add-structure-and-content-1.png)
 
    >[!NOTE]
    >
@@ -141,7 +145,7 @@ Scegli uno dei quattro modelli predefiniti per iniziare subito a utilizzare la p
 
 1. Dalla sezione Sommario, trascina gli elementi desiderati e rilasciali in uno o più componenti della struttura.
 
-   SCHERMATA
+   ![](assets/add-structure-and-content-2.png)
 
 1. Ogni componente può essere personalizzato tramite le schede Impostazioni o Stile. Modificare il carattere, lo stile del testo, il margine e altro ancora.
 
@@ -194,6 +198,30 @@ Apri la struttura di navigazione per accedere a strutture specifiche e alle rela
 
 SCHERMATA
 
+
+L’esempio seguente illustra come regolare la spaziatura e l’allineamento verticale all’interno di un componente struttura composto da tre colonne.
+
+Seleziona il componente struttura direttamente nel messaggio e-mail o utilizzando la struttura di navigazione disponibile nel menu a sinistra.
+
+Dalla barra degli strumenti, fai clic su Seleziona una colonna e scegli quella che desideri modificare. Puoi anche selezionarla dall’albero della struttura.
+
+I parametri modificabili per tale colonna vengono visualizzati nella scheda Stili.
+
+
+
+In Allineamento selezionare Superiore, Medio o Inferiore.
+
+
+
+In Spaziatura interna, definite la spaziatura per tutti i lati.
+
+Selezionare Spaziatura interna diversa per ciascun lato se si desidera ottimizzare la spaziatura. Fai clic sull’icona del lucchetto per interrompere la sincronizzazione.
+
+
+
+Procedi in modo simile per regolare l’allineamento e la spaziatura delle altre colonne.
+
+Salva le modifiche.
 
 
 

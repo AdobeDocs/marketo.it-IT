@@ -4,9 +4,9 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 482c2955bbf3ad10d244ebc5e6b6d6a37d82c217
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '1212'
+source-wordcount: '1259'
 ht-degree: 1%
 
 ---
@@ -43,9 +43,9 @@ Tutto qui. Ora è il momento di progettare la tua e-mail.
 
 ## Scegli il tipo di contenuto {#choose-your-content-type}
 
-1. Nell&#39;e-mail appena creata, fare clic su **+ Aggiungi contenuto e-mail**.
+1. Nell&#39;e-mail appena creata, fai clic su **Aggiungi contenuto e-mail**.
 
-   SCHERMATA
+   ![](assets/choose-your-content-type-1.png)
 
 1. La pagina _Crea messaggio e-mail_ viene caricata. Puoi scegliere tra alcune opzioni:
 
@@ -83,11 +83,9 @@ Puoi importare contenuti HTML esistenti per progettare i messaggi e-mail. Il con
 
 1. Nella pagina Progetta modello, seleziona **Importa HTML**.
 
-   SCHERMATA
+1. Trascina e rilascia il file HTML o .zip desiderato (o seleziona un file dal computer) e fai clic su **Importa**.
 
-1. Trascina e rilascia il file HTML o .zip desiderato e fai clic su **Importa**.
-
-   SCHERMATA
+   ![](assets/authoring-import-your-html-1.png)
 
 >[!NOTE]
 >
@@ -107,35 +105,31 @@ Puoi apportare le modifiche desiderate al contenuto importato utilizzando gli [s
 
 >[!TAB Modelli di esempio]
 
-Scegli uno dei nostri modelli predefiniti per iniziare subito a utilizzare la progettazione delle e-mail.
+Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-mail.
 
-1. Nella pagina Crea e-mail, seleziona **Modelli di esempio**.
+1. La scheda Modelli di esempio è aperta per impostazione predefinita.
 
-   SCHERMATA
+1. Seleziona il modello da utilizzare.
 
-1. Seleziona il modello desiderato.
+   ![](assets/authoring-sample-templates-1.png)
 
-   SCHERMATA
+1. Fare clic su **Usa questo modello**.
 
-1. Viene visualizzata un&#39;anteprima. Per confermare la selezione, fai clic su **Usa questo modello**.
+   ![](assets/authoring-sample-templates-2.png)
 
-   SCHERMATA
+1. Modifica il contenuto come desiderato utilizzando la finestra di progettazione del contenuto visivo.
 
 >[!TAB Modelli salvati]
 
-Scegli uno dei modelli creati in precedenza.
+1. Fai clic sulla scheda **Modelli salvati** e seleziona il modello desiderato.
 
-1. Nella pagina Crea e-mail, seleziona **Modelli salvati**.
+   ![](assets/authoring-saved-templates-1.png)
 
-   SCHERMATA
+1. Fare clic su **Usa questo modello**.
 
-1. Seleziona il modello desiderato.
+   ![](assets/authoring-saved-templates-2.png)
 
-   SCHERMATA
-
-1. Viene visualizzata un&#39;anteprima. Per confermare la selezione, fai clic su **Usa questo modello**.
-
-   SCHERMATA
+1. Modifica il contenuto come desiderato utilizzando la finestra di progettazione del contenuto visivo.
 
 >[!ENDTABS]
 
@@ -213,25 +207,29 @@ SCHERMATA
 
 ### Personalizzare il contenuto {#personalize-content}
 
-I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecchio, ma l’icona ha un aspetto diverso.
+I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecchio, ma l’icona ha un aspetto diverso. L’esempio seguente illustra l’aggiunta di un token di nome con testo di fallback.
 
-1. Seleziona il componente testo e fai clic sull&#39;icona **Aggiungi personalizzazione**.
+1. Seleziona il componente testo. Posiziona il cursore nel punto in cui desideri visualizzare il token e fai clic sull&#39;icona **Aggiungi personalizzazione**.
 
-   SCHERMATA
+   ![](assets/authoring-personalize-content-1.png)
 
 1. Fai clic sul tipo di [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} desiderato.
 
-   SCHERMATA
+   ![](assets/authoring-personalize-content-2.png)
 
-1. Fai clic su + o ... per aggiungere un token allo spazio vuoto.
+1. Trova il token desiderato e fai clic sull&#39;icona **...** (facendo clic sull&#39;icona + viene aggiunto un token senza testo di fallback).
 
-   SCHERMATA
+   ![](assets/authoring-personalize-content-3.png)
 
    >[!NOTE]
    >
-   >&quot;Testo di fallback&quot; è il nuovo termine dell’editor per il valore predefinito. Esempio: ``{{lead.First Name:default=Friend}}``
+   >&quot;Testo di fallback&quot; è il nuovo termine dell’editor per il valore predefinito. Esempio: ``{{lead.First Name:default=Friend}}``. È consigliato nel caso in cui non vi sia alcun valore per la persona nel campo scelto.
 
-1. Al termine, fai clic su **Salva**.
+1. Imposta il testo di fallback e fai clic su **Aggiungi**.
+
+   ![](assets/authoring-personalize-content-4.png)
+
+1. Fai clic su **Salva**.
 
 ### Modifica tracciamento URL {#edit-url-tracking}
 

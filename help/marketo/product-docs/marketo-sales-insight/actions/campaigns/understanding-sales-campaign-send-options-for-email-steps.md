@@ -3,9 +3,9 @@ description: Informazioni sulle opzioni di invio della campagna di vendita per i
 title: Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 3e1db4c113df7278eadcf1b61ee225989e70452b
+source-git-commit: ec88618ad96c5929f220aadfd5dac2ac81be7701
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,10 @@ Per i giorni/passaggi successivi della campagna di vendita, avrai a disposizione
 
 * Questa opzione invia l’e-mail contemporaneamente all’e-mail direttamente prima di essa.
 * L’invio avverrà comunque nel giorno a cui è associato.
+
+>[!IMPORTANT]
+>
+>L’invio di un’e-mail contemporaneamente all’e-mail precedente non è supportato per le e-mail inviate lo stesso giorno. Al contrario, l’e-mail verrà inviata al momento dell’e-mail inviata dal giorno precedente. Se questa opzione è selezionata per un’e-mail il primo giorno della campagna (scelta non consigliata), l’e-mail verrà inviata immediatamente all’inizio della campagna.
 
 ### Invia questa e-mail al seguente orario {#subsequent-send-at-following-time}
 
