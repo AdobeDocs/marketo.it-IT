@@ -4,7 +4,7 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: af8afc9342a4ca0b4032c4d7c761703adb5a6701
+source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
 workflow-type: tm+mt
 source-wordcount: '1477'
 ht-degree: 1%
@@ -97,9 +97,9 @@ Puoi apportare le modifiche desiderate al contenuto importato utilizzando gli [s
 
 È possibile scegliere tra due tipi di modelli.
 
-* Modelli di esempio: il Marketo Engage offre quattro modelli e-mail predefiniti.
+* **Modelli di esempio**: il Marketo Engage offre quattro modelli di e-mail predefiniti.
 
-* Modelli salvati: si tratta di modelli creati da zero utilizzando il menu Modelli o di un messaggio e-mail creato e scelto di salvare come modello.
+* **Modelli salvati**: si tratta di modelli creati da zero utilizzando il menu Modelli o di un messaggio di posta elettronica creato e scelto di salvare come modello.
 
 >[!BEGINTABS]
 
