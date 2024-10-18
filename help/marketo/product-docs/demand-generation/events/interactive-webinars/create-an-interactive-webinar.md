@@ -3,9 +3,9 @@ description: Creazione di un webinar interattivo - Documentazione di Marketo - D
 title: Creare un webinar interattivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,8 @@ Crea un webinar interattivo in pochi semplici passaggi.
    >* Non è possibile riutilizzare un titolo di webinar. Ciascuno deve essere univoco nell’istanza di Marketo.
    >
    >* Se necessario, puoi modificare il titolo del webinar in un secondo momento.
+   >
+   >* Se crei un webinar di prova, devi eliminarlo prima dell’ora di inizio per evitare che venga utilizzata la licenza di quel webinar.
 
 1. Pianifica la data/ora del webinar e fai clic su **Crea**.
 

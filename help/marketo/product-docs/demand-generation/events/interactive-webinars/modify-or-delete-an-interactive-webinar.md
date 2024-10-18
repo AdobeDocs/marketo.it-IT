@@ -3,9 +3,9 @@ description: Modificare o eliminare un webinar interattivo - Documentazione di M
 title: Modificare o eliminare un webinar interattivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -82,6 +82,10 @@ Scopri come apportare modifiche al webinar interattivo.
 
 ## Eliminare un webinar interattivo {#delete-an-interactive-webinar}
 
+>[!NOTE]
+>
+>Se crei un webinar di prova, devi eliminarlo prima dell’ora di inizio per evitare che venga utilizzata la licenza di quel webinar.
+
 1. Seleziona il programma di eventi desiderato.
 
    ![](assets/modify-or-delete-an-interactive-webinar-13.png)
@@ -94,7 +98,7 @@ Scopri come apportare modifiche al webinar interattivo.
    >
    >Puoi anche fare clic con il pulsante destro del mouse sul Programma eventi nella struttura e selezionare **Elimina** da lì.
 
-1. Fare clic su **Elimina**.
+1. Fai clic su **Elimina**.
 
    ![](assets/modify-or-delete-an-interactive-webinar-15.png)
 
