@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953471
-description: Sincronizzazione SFDC - Sincronizzazione oggetti personalizzati - Documentazione di Marketo - Documentazione del prodotto
+description: Sincronizzazione SFDC - Sincronizzazione oggetti personalizzati - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzazione SFDC - Sincronizzazione oggetto personalizzato
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    >[!NOTE]
    >
-   >Una sincronizzazione iniziale dello schema di oggetti personalizzato di Salesforce potrebbe richiedere alcuni minuti.
+   >La sincronizzazione iniziale dello schema di oggetti personalizzato di Salesforce potrebbe richiedere alcuni minuti.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -75,13 +75,15 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Per visualizzare tutti gli oggetti personalizzati Salesforce, fai clic su **[!UICONTROL Amministratore]** e sul collegamento **[!UICONTROL Sincronizzazione oggetti Salesforce]** (come nel passaggio 1 precedente).
+1. Per visualizzare tutti gli oggetti personalizzati di Salesforce, fai clic su **[!UICONTROL Amministratore]** e sul collegamento **[!UICONTROL Sincronizzazione oggetti di Salesforce]** (come nel passaggio 1 precedente).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 
    >[!NOTE]
    >
-   >Marketo supporta solo entità personalizzate collegate a entità standard profonde uno o due livelli.
+   >* Marketo supporta solo entità personalizzate collegate a entità standard profonde uno o due livelli.
+   >
+   >* La struttura ad oggetti personalizzata può mostrare lo stesso oggetto più di una volta, a causa delle sue connessioni dirette con uno degli oggetti principali (ad esempio lead, contatti o account o connessioni indirette attraverso un oggetto intermedio). In questi casi, scegliere l&#39;oggetto più vicino all&#39;oggetto principale e sceglierne solo uno. La scelta dello stesso oggetto più volte può ostacolare la sincronizzazione dell&#39;oggetto personalizzato.
 
 ### Passaggio successivo: {#whats-next}
 

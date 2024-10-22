@@ -4,9 +4,9 @@ description: Abilitare la sincronizzazione per un’entità personalizzata - Doc
 title: Abilitare la sincronizzazione per un'entità personalizzata
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: d522950af40c5e3e702a6522101ebe9550432be5
+source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Selezionare **[!UICONTROL Microsoft Dynamics]** e fare clic su **[!UICONTROL Disattiva sincronizzazione]**.
+1. Seleziona **[!UICONTROL Microsoft Dynamics]** e fai clic su **[!UICONTROL Disattiva sincronizzazione]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -67,3 +67,9 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
 1. Non dimenticare di riattivare la sincronizzazione globale.
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
+
+   >[!NOTE]
+   >
+   >* Marketo supporta solo entità personalizzate collegate a entità standard profonde uno o due livelli.
+   >
+   >* La struttura ad oggetti personalizzata può mostrare lo stesso oggetto più di una volta, a causa delle sue connessioni dirette con uno degli oggetti principali (ad esempio lead, contatti o account o connessioni indirette attraverso un oggetto intermedio). In questi casi, scegliere l&#39;oggetto più vicino all&#39;oggetto principale e sceglierne solo uno. La scelta dello stesso oggetto più volte può ostacolare la sincronizzazione dell&#39;oggetto personalizzato.
