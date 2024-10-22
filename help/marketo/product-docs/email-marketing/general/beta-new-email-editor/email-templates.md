@@ -4,7 +4,7 @@ title: Modelli e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7c07755a3e97370fe68d92312cdfa7b449130a11
+source-git-commit: 1f899044d0eb872d4b91fa341cb8b28e1556a045
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 1%
@@ -156,7 +156,7 @@ ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD??
 ```
 
 ```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY?
+Access assets stored in the Assets library. IMAGES AND FILES ONLY? - SEE EMAIL AUTHORING FOR ANSWERS - KG
 ```
 
 1. Per accedere alle immagini, fai clic sull’icona del selettore delle risorse.
@@ -187,7 +187,7 @@ Al termine, fai clic su Salva.
 ### Livelli, impostazioni e stili {#layers-settings-styles}
 
 ```
-ARE THEY CALLED LAYERS OR COMPONENTS
+ARE THEY CALLED LAYERS OR COMPONENTS - NILESH IS CHECKING
 ```
 
 Apri la struttura di navigazione per accedere a strutture specifiche e alle relative colonne/componenti per una modifica più granulare. Per accedere a, fai clic sull’icona della struttura di navigazione.
@@ -266,7 +266,7 @@ A volte è meglio non abilitare l’URL di tracciamento di Marketo su un collega
    ```
    LABEL?
    
-   TAGS?
+   TAGS? - NILESH IS LOOKING INTO IT
    ```
 
    <table><tbody>
@@ -342,7 +342,7 @@ Questa azione può essere intrapresa da:
 * Pagina di elenco dei _modelli e-mail_: fai clic sull&#39;icona Altre azioni (tre punti) del modello e-mail desiderato e scegli Modifica.
 
 ```
-THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE
+THE SECOND ONE DOESN'T WORK IN MARKETO?? JUST LISTS DUPE AND DELETE - CONFIRMED WITH NILESH - KG
 ```
 
 Questa azione ti porta alla pagina _Progetta il modello_ o alla pagina dell&#39;editor di contenuti visivi in base all&#39;ultimo stato salvato del modello e-mail. Da qui puoi modificare il contenuto del modello e-mail in base alle esigenze. Consulta Creare modelli e-mail per informazioni sulle opzioni di modifica.
