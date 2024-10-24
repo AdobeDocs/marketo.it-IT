@@ -3,9 +3,9 @@ description: Servizio Flusso - Documentazione Marketo - Documentazione del prodo
 title: Servizio passaggio di flusso
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 91dde9461b1bfa38aece5491f3f8b311dd6a91fd
 workflow-type: tm+mt
-source-wordcount: '1210'
+source-wordcount: '1234'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,10 @@ Fai clic su **[!UICONTROL Avanti]** per passare alla sezione Immettere le creden
 Per accedere al servizio da installare, Marketo deve disporre di credenziali API valide. Queste credenziali devono essere fornite dal provider di servizi. I servizi dispongono di tre diverse opzioni di autenticazione, pertanto è possibile che vengano visualizzati tre diversi prompt per le credenziali: **Chiave API** che dispone di un solo campo di input, **Autenticazione di base** che richiede un nome utente e una password e può inoltre richiedere un campo denominato Realm e **OAuth2** che utilizza la concessione _Credenziali client_, che richiede un _ID client_ e _Segreto client_.
 
 Quando salvi le credenziali, Marketo tenterà di chiamare l’endpoint di stato del servizio per verificarne la validità. Se le credenziali fornite non sono valide, verrà visualizzato un errore che indica che si tratta di un errore.
+
+>[!CAUTION]
+>
+>Se un provider di servizi viene creato ed eliminato, non sarà più possibile riutilizzare il relativo nome di provider di servizi, API, trigger o filtro.
 
 ## Guida all’onboarding (facoltativo) {#onboarding-guide}
 
