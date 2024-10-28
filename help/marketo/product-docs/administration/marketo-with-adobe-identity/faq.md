@@ -3,9 +3,9 @@ description: Domande frequenti su Identity Management per Adobe - Documentazione
 title: Domande frequenti su Identity Management Adobe
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: 525417cc289d918f6ff8038c1c293f5c4aca0f9c
 workflow-type: tm+mt
-source-wordcount: '1456'
+source-wordcount: '1484'
 ht-degree: 0%
 
 ---
@@ -129,6 +129,10 @@ Quando si effettua l’onboarding degli abbonamenti in Adobe Identity, a livello
 **Ho più di una sottoscrizione, ma non tutte hanno Single Sign-On abilitato. Cosa succede dopo la migrazione di Adobe Identity?**
 
 Quando si effettua l’onboarding degli abbonamenti in Adobe Identity, viene impostato il Single Sign On (SSO) a livello di organizzazione Adobe. Ciò significa che l’SSO si applica a tutte le istanze di prodotto nell’organizzazione Adobe. Una volta configurato, l’SSO verrà applicato a tutte le istanze Marketo in tale organizzazione di Adobe. In precedenza, Marketo supportava questa impostazione a livello di istanza. Non supportato da Adobe Identity Management System.
+
+**Sono necessarie modifiche a CNAME, SPF o DKIM che utilizziamo attualmente per il Marketo Engage dopo la migrazione dell&#39;identità di Adobe?**
+
+No, non vi sono impatti su queste configurazioni.
 
 **Per accedere al Marketo Engage, ora devo passare a Experience Cloud. Esiste un modo per semplificare questo flusso?**
 
