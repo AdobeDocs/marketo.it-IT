@@ -4,9 +4,9 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 22f667b27168eafe51df75f81be74e18f5497c3f
+source-git-commit: bdc3d0531cb8c0b25fef49b6d82d0877445d768d
 workflow-type: tm+mt
-source-wordcount: '1524'
+source-wordcount: '1455'
 ht-degree: 1%
 
 ---
@@ -155,38 +155,23 @@ Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-ma
 
 ### Aggiungi Assets {#add-assets}
 
-```
-ADD ASSETS OR ADD IMAGES? WHAT OTHER ASSETS CAN YOU ADD?
-```
+Aggiungi le immagini archiviate nella sezione [Immagini e file](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} dell&#39;istanza di Marketo Engage.
 
-```
-Access assets stored in the Assets library. IMAGES AND FILES ONLY? - For now, only from Marketo Images and Files section!!!
-```
+>[!NOTE]
+>
+>È possibile aggiungere solo immagini nella nuova finestra di progettazione, non altri tipi di file in questo momento.
 
 1. Per accedere alle immagini, fai clic sull’icona del selettore delle risorse.
 
-   SCHERMATA
+   ![](assets/authoring-add-assets-1.png)
 
 1. Trascina e rilascia l’immagine desiderata in un componente struttura.
 
-   SCHERMATA
+   ![](assets/authoring-add-assets-2.png)
 
    >[!NOTE]
    >
    >Per sostituire un&#39;immagine esistente, selezionala, quindi fai clic su **Seleziona una risorsa** nella scheda Impostazioni a destra.
-
-Fai clic su Abilita contenuto condizione per aggiungere contenuto dinamico e adattare il contenuto ai profili target in base a regole condizionali.
-
-
-
-Se necessario, puoi personalizzare ulteriormente l’e-mail facendo clic su Passa all’editor di codice dal menu avanzato. Questo consente di modificare il codice sorgente dell’e-mail, ad esempio per aggiungere tag di tracciamento o HTML personalizzati.
-
-ATTENZIONE
-Dopo il passaggio all’editor di codice, non puoi tornare al designer visivo per questo messaggio e-mail.
-
-Una volta che il contenuto è pronto, fai clic sul pulsante Simula contenuto per verificare il rendering. È possibile scegliere la visualizzazione desktop o mobile.
-
-Al termine, fai clic su Salva.
 
 ### Livelli, impostazioni e stili {#layers-settings-styles}
 
