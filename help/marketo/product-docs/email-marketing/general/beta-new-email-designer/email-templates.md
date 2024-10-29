@@ -4,7 +4,7 @@ title: Modelli e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '1683'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-
 
 >[!IMPORTANT]
 >
->Questo articolo è solo per i membri del Nuovo Marketo Engage E-mail Designer beta. Non divulgare.
+>Questo articolo è solo per i membri del nuovo Marketo Engage E-mail Designer beta. Non divulgare.
 
 >[!NOTE]
 >

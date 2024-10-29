@@ -4,7 +4,7 @@ title: Panoramica
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 69539efa25b471a355b768f0d2fdabb6ae360dba
+source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 
 >[!IMPORTANT]
 >
->Questo articolo è solo per i membri del Nuovo Marketo Engage E-mail Designer beta. Non divulgare.
+>Questo articolo è solo per i membri del nuovo Marketo Engage E-mail Designer beta. Non divulgare.
 
 Il nuovo E-mail Designer è l’ultima innovazione nel Marketo Engage, che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza, mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
 
