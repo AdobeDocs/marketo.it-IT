@@ -3,9 +3,9 @@ description: Regole di convalida modulo globale - Documentazione di Marketo - Do
 title: Regole di convalida modulo globale
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
 
 >[!NOTE]
 >
->Il Marketo Engage dispone di un elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di Elenco Bloccati del dominio e-mail consumer pre-caricata &quot;Dominio e-mail consumer:&quot;. [Visualizza l&#39;elenco](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv).
+>Il Marketo Engage dispone di un elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di Elenco Bloccati del dominio e-mail consumer pre-caricata &quot;Dominio e-mail consumer:&quot;. [Visualizza l&#39;elenco](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (per scaricare, assicurati che il browser sia aggiornato e in grado di accettare i download).
 
 ## Disattivazione dell&#39;accesso per modulo{#how-to-disable-access-per-form}
 

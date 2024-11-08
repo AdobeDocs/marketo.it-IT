@@ -4,10 +4,10 @@ description: Modifica contenuti predittivi per rich media - Documentazione Marke
 title: Modifica contenuto predittivo per contenuti rich media
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '216'
+ht-degree: 0%
 
 ---
 
@@ -30,6 +30,10 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 1. Noterai che è possibile avere immagini separate per e-mail e contenuti multimediali avanzati. Per aggiungere o modificare l’immagine, incolla l’URL dell’immagine nella relativa casella di testo.
 
    ![](assets/image2017-10-3-9-3a42-3a20.png)
+
+   >[!NOTE]
+   >
+   >Le immagini JPEG con il modello di colore CMYK non sono supportate per i file multimediali avanzati. I JPEG devono essere convertiti in sRGB utilizzando un profilo colore. Assicurati di scegliere questa impostazione durante l’esportazione dall’editor di immagini.
 
 1. Digita una **Descrizione**.
 
