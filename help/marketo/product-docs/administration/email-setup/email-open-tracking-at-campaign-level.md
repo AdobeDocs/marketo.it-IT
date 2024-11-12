@@ -4,10 +4,11 @@ title: Tracciamento dell’apertura delle e-mail a livello di campagna
 hide: true
 hidefromtoc: true
 feature: Email Setup
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
+source-git-commit: 6e60b39f12c75269b186573db4120e7dccb119c0
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 1%
 
 ---
 
@@ -42,7 +43,7 @@ Questa funzione ti consente di controllare il tracciamento delle aperture delle 
   </tr>
   <tr>
     <td><b>Disabilitata</b></td>
-    <td>Le aperture delle e-mail vengono tracciate...</td>
+    <td>Le aperture dei messaggi e-mail vengono conteggiate solo in base alle aperture univoche di persone.</td>
   </tr>
 </tbody>
 </table>
