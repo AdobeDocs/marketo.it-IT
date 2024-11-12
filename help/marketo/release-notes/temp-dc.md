@@ -4,10 +4,10 @@ title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 342d52439a21668a3bf94e5149710b20e4ddb83f
+source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 3%
+source-wordcount: '446'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 3%
 
 ## Versione di settembre/ottobre 2024 {#august-release}
 
-### Analisi avanzata della chat in diretta {#enhanced-live-chat-analytics}
+### Analisi avanzata delle chat in tempo reale {#enhanced-live-chat-analytics}
 
 Sono stati apportati diversi miglioramenti alla dashboard di Analytics, tra cui:
 
@@ -33,7 +33,7 @@ Sono stati apportati diversi miglioramenti alla dashboard di Analytics, tra cui:
 
 SCHERMATA
 
-### Punteggio conversazione
+### Punteggio conversazione {#conversation-scoring}
 
 Quantifica i lead in base alla qualità della loro interazione con la chat e utilizza tale metrica come attivatore/filtro nelle campagne intelligenti di Marketo Engage. Utilizza il nuovo attributo _punteggio conversazione_ per le seguenti attività:
 
@@ -59,7 +59,7 @@ SCHERMATA
 
 SCHERMATA
 
-### Nuova logica di creazione lead {#new-lead-creation-logic}
+### Nuova logica di creazione del lead {#new-lead-creation-logic}
 
 Se un lead compila un modulo con l&#39;e-mail `abc@test.com` e viene cookie come xyz, quindi compila lo stesso modulo con l&#39;e-mail `def@test.com`, viene creato un nuovo lead, ma il cookie xyz viene associato al nuovo lead e rimosso dal lead `abc@test.com`.
 
@@ -68,3 +68,21 @@ Da quel momento, `abc@test.com` sarà un lead senza cookie. ANON LEAD??
 Pertanto, quando un visitatore con cookie abc arriva a una pagina e fornisce un ID e-mail come `abc@p.com`:
 
 TABELLA
+
+### Tempo di caricamento del flusso di conversazione ottimizzato {#optimized-conversation-flow-load-time}
+
+Per migliorare l’esperienza utente, ora viene visualizzato un caricatore shimmer invece di uno spazio vuoto durante il caricamento del flusso di conversazione. CONVERSAZIONE O CONVERSAZIONE???
+
+**Prima**
+
+GIF
+
+**Dopo**
+
+GIF
+
+### Opzione per ereditare il carattere {#option-to-inherit-font}
+
+In qualità di utente, vorrei abilitare il mio chatbot per ereditare direttamente il font dalla pagina web in cui viene caricato, anziché gestire il font del mio marchio in Dynamic Chat
+
+Nota: una volta abilitata questa opzione, Chatbot assume il font definito sul tag body della pagina
