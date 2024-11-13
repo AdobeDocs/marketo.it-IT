@@ -4,9 +4,9 @@ title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
-source-git-commit: 236c99d8939f076d93dfcd7988fc89e4c617c113
+source-git-commit: 7fbfdc6d34d2f1174e921464d64689b0c5687914
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '495'
 ht-degree: 2%
 
 ---
@@ -21,13 +21,13 @@ Sono stati apportati diversi miglioramenti alla dashboard di Analytics, tra cui:
 
 * Numero totale di chat in diretta richieste: numero di visitatori richiesti per una &quot;chat con agente&quot;
 
-* Totale chat in diretta connessa: numero di visitatori connessi rispetto al totale richiesto per una &quot;Chat con agente&quot;
+* Totale chat in diretta connessa: numero di visitatori connessi rispetto al totale richiesto per una &quot;chat con agente&quot;
 
 * Totale richieste di chat in diretta non effettuate: numero di visitatori non assistiti rispetto al totale richiesto per una &quot;chat con agente&quot;
 
 * Lunghezza media chat in minuti: analizza la &quot;lunghezza media della chat&quot; tra i visitatori e i tuoi agenti
 
-* Tempo medio di risposta dell&#39;agente in secondi: analizza il &quot;tempo medio impiegato&quot; dagli agenti per rispondere alle domande e risposte live chat
+* Tempo medio di risposta agente in secondi: analizza il &quot;tempo medio impiegato&quot; dagli agenti per rispondere alle domande e risposte live chat
 
 * Dashboard giornaliera: richieste chat in diretta connesse correttamente, richieste chat in diretta non soddisfatte, ordina e filtra le attività chat in diretta recenti
 
@@ -45,7 +45,7 @@ Quantifica i lead in base alla qualità della loro interazione con la chat e uti
 
 * Il valore del punteggio sarà compreso tra 0, 1, 2, 3 (il valore predefinito è null)
 
-* Una volta completata o eliminata la conversazione, nell’attività salva il valore di punteggio e pubblica che non può essere modificato???????????????????????????????? (cosa significa)
+* Una volta completata o eliminata la conversazione, nell’attività salva il valore di punteggio e pubblica che non può essere modificato????? (cosa significa questa frase)
 
 * Impostazione punteggio:
 
@@ -63,7 +63,7 @@ SCHERMATA
 
 Se un lead compila un modulo con l&#39;e-mail `abc@test.com` e viene cookie come xyz, quindi compila lo stesso modulo con l&#39;e-mail `def@test.com`, viene creato un nuovo lead, ma il cookie xyz viene associato al nuovo lead e rimosso dal lead `abc@test.com`.
 
-Da quel momento, `abc@test.com` sarà un lead senza cookie. ANON LEAD??
+Da quel momento, `abc@test.com` sarà un lead senza cookie. LEAD ANONIMO??
 
 Pertanto, quando un visitatore con cookie abc arriva a una pagina e fornisce un ID e-mail come `abc@p.com`:
 
@@ -83,6 +83,12 @@ GIF
 
 ### Opzione per ereditare il carattere {#option-to-inherit-font}
 
-In qualità di utente, vorrei abilitare il mio chatbot per ereditare direttamente il font dalla pagina web in cui viene caricato, anziché gestire il font del mio marchio in Dynamic Chat
+Ora puoi abilitare il chatbot per ereditare direttamente il font dalla pagina web in cui è ospitato, anziché gestire il font del brand in Dynamic Chat. Quando abiliti questa opzione, il chatbot assumerà il font definito sul tag `<body>` della pagina.
 
-Nota: una volta abilitata questa opzione, Chatbot assume il font definito sul tag body della pagina
+SCHERMATA
+
+### Integrazione Demandbase con Dynamic Chat {#demandbase-integration-with-dynamic-chat}
+
+Gli utenti di Demandbase sono in grado di portare la propria licenza di Demandbase e attivare l&#39;integrazione. Utilizza gli attributi persona Demandbase per il targeting delle finestre di dialogo, il branding condizionale e il routing personalizzato.
+
+La risoluzione di questi valori di attributo rispetto a un lead viene eseguita in tempo reale e viene memorizzata nel rispettivo profilo di lead.
