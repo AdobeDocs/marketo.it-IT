@@ -4,9 +4,9 @@ description: Champion/Challenger - Approva Il Test E-Mail - Documenti Marketo - 
 title: Campione/Sfidante - Approva Il Test E-Mail
 exl-id: dfef8e21-2a94-47b8-9551-68a24605d267
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Passaggio finale della configurazione del test e-mail per l’approvazione. Ecco
 
 >[!PREREQUISITES]
 >
->[Campione/Sfidante: configurazione avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-configure-report-alerts.md)
+>[Configura avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts)
 
 1. Vai a **Attività di marketing**.
 

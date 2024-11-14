@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 12130dee-2dbf-4e71-b542-30d4732b1067
-source-git-commit: d58d6f0e2134549c024de123f468930da6ab5716
+source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
 workflow-type: tm+mt
 source-wordcount: '495'
 ht-degree: 2%
@@ -46,7 +46,7 @@ Quantifica i lead in base alla qualità della loro interazione con la chat e uti
 
 * Il valore del punteggio sarà compreso tra 0, 1, 2, 3 (il valore predefinito è null)
 
-* Una volta completata o eliminata la conversazione, nell’attività salva il valore di punteggio e pubblica che non può essere modificato????? (cosa significa questa frase)
+* Una volta completata o eliminata la conversazione, nell’attività salva il valore di punteggio e pubblica che non può essere modificato   ????? (cosa significa questa frase)
 
 * Impostazione punteggio:
 
