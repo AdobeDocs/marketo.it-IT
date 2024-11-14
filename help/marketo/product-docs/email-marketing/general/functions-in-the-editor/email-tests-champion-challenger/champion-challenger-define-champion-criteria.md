@@ -4,7 +4,7 @@ description: Champion/Challenger - Definizione dei criteri dei campioni - Docume
 title: Campione/Sfidante - Definizione dei criteri del campione
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: cc8de935451fe5d6dc9c8dad19962391d8ed3535
+source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 1%
@@ -29,7 +29,7 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
    >
    >Traccieremo questa metrica e ti invieremo un rapporto con i dati per e-mail.
 
-1. Se hai scelto uno dei **Criteri campione** predefiniti, passa a [configurazione avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md#configure-report-alerts).
+1. Se hai scelto uno dei **Criteri campione** predefiniti, passa a [configurazione avvisi report](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md#configure-report-alerts).
 
 ## Criterio Campione Personalizzato {#custom-champion-criteria}
 
@@ -59,4 +59,4 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
    >[!MORELIKETHIS]
    >
-   >[Campione/Sfidante: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/analytics.md)
+   >[Campione/Sfidante: Analytics](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-analytics.md)
