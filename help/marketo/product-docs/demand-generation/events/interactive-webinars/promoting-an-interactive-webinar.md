@@ -3,9 +3,9 @@ description: Promozione di un webinar interattivo - Documentazione di Marketo - 
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 4d7732582dccb00c90bb61d2db1d7553027e92a9
+source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Dopo l’aggiunta o l’importazione dei membri nel programma, puoi creare una c
 >
 >Se desideri aggiungere un co-host o un presentatore come membro del pubblico al programma di eventi del webinar interattivo, devi utilizzare un ID e-mail diverso per loro, altrimenti riceveranno un errore &quot;Questa e-mail è già registrata&quot;.
 
-L’e-mail può contenere dettagli specifici del programma e includere un URL della pagina di destinazione che reindirizzerebbe il destinatario a una pagina specifica in cui ulteriori informazioni relative al webinar (ad esempio, contenuto, informazioni sul presentatore, ecc.) possono essere aggiunti. Questa pagina di destinazione può essere creata come risorsa locale nel programma di eventi dei webinar interattivi.
+L’e-mail può contenere dettagli specifici del programma e includere un URL della pagina di destinazione che reindirizzerebbe il destinatario a una pagina specifica in cui è possibile aggiungere ulteriori informazioni relative al webinar (ad esempio, contenuto, informazioni sul presentatore, ecc.). Questa pagina di destinazione può essere creata come risorsa locale nel programma di eventi dei webinar interattivi.
 
 Per richiedere la registrazione a questo webinar, abilita un modulo nella pagina di destinazione e collega i clic del modulo alla registrazione abilitata nel programma di eventi del webinar interattivo. È quindi possibile creare una campagna che utilizza l’invio dei moduli come attivatore e cambia lo stato del programma da &quot;invitato&quot; a &quot;registrato&quot;.
 
@@ -41,3 +41,22 @@ Sul lato destro della scheda Panoramica nel programma dell’evento sono disponi
 ![](assets/promoting-an-interactive-webinar-2.png)
 
 I webinar interattivi consentono di richiedere la registrazione prima, durante o dopo un webinar. In tutti i casi, dovrai semplicemente condividere l’URL del webinar con il lead. Facendo clic sul collegamento prima dell’inizio del webinar, vengono inviate a una pagina di destinazione precedente al webinar. Facendo clic su di esso durante il webinar, vengono indirizzati al webinar in corso. Facendo clic su di esso dopo il webinar, viene visualizzata una registrazione del webinar.
+
+## Token webinar interattivi {#interactive-webinars-tokens}
+
+Utilizza i token per promuovere i webinar interattivi nelle e-mail e nelle pagine di destinazione senza dover aggiungere manualmente i dettagli del webinar. Questo migliora l’efficienza complessiva, poiché qualsiasi modifica apportata ai metadati del webinar (come titolo del webinar, data di inizio e così via) si rifletterà automaticamente nelle risorse.
+
+![](assets/promoting-an-interactive-webinar-3.png)
+
+**Elenco dei token**
+
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
