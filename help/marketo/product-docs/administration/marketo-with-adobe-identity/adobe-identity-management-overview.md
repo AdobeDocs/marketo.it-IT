@@ -3,25 +3,25 @@ description: Panoramica di Adobe Identity Management - Documentazione di Marketo
 title: Panoramica di Adobe Identity Management
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 1defe6e8c7b4e458203169150ec77df4f615e5d2
+source-git-commit: 8d4a542687119e7e4044b26eeafcc71315609f19
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
 # Panoramica di Adobe Identity Management {#adobe-identity-management-overview}
 
-Tutte le nuove sottoscrizioni a Adobe Marketo Engage (31 luglio 2023 o versioni successive) sono integrate con il sistema Identity Management di Adobe. Gli abbonamenti di Marketo Engage esistenti sono attualmente in fase di migrazione al sistema Identity Management Adobe su qualsiasi evento di vendita, che include rinnovi, eventi di riappalto e/o aggiunte. Al momento, le migrazioni al di fuori di un evento di vendita non sono supportate.
+Tutte le nuove sottoscrizioni a Adobe Marketo Engage (31 luglio 2023 o versioni successive) sono integrate con il sistema Identity Management di Adobe. È in corso la migrazione degli abbonamenti di Marketo Engage esistenti ad Adobe Identity Management System su qualsiasi evento di vendita, che include rinnovi, eventi di riappalto e/o aggiunte. Le migrazioni al di fuori di un evento di vendita sono supportate a ottobre 2024. Gli amministratori di Marketo riceveranno una notifica con 2-4 settimane di anticipo se il loro abbonamento è pianificato per essere trasferito al di fuori di un evento di vendita.
 
 >[!NOTE]
 >
 >Il supporto Marketo non è in grado di fornire aggiornamenti relativi alla migrazione Adobe IMS. Il team dell’account Adobe raggiungerà la tempistica stimata nei prossimi mesi. Per ulteriori informazioni, consulta [questo articolo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} e le [Domande frequenti](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
-Per gli abbonamenti a cui è stato effettuato l’onboarding dell’identità dell’Adobe, Adobe Admin Console viene utilizzato per la gestione degli utenti. Nell’Admin Console sono gestiti anche i concetti relativi all’identità, come Single Sign On.
+Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe identity, Adobe Admin Console viene utilizzato per la gestione degli utenti. Nell’Admin Console sono gestiti anche i concetti relativi all’identità, come Single Sign On.
 
 * Trova ulteriori informazioni su [Adobe Admin Console](https://helpx.adobe.com/it/enterprise/using/admin-console.html){target="_blank"}.
-* Ulteriori informazioni sulla [configurazione dell&#39;organizzazione di Adobe correlata alla sottoscrizione di Marketo](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+* Ulteriori informazioni sulla [configurazione dell&#39;organizzazione Adobe relativa alla sottoscrizione a Marketo](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Gli abbonamenti Adobe Marketo Engage inseriti nel sistema Identity Management di
 <table>
  <tr>
   <td><strong>Amministratore di sistema Adobe Admin Console</strong></td>
-  <td>Responsabile dell’impostazione dei concetti di identità per l’organizzazione di Adobi e il prodotto di Marketo Engage in Adobe Admin Console. Ruolo assegnato nella configurazione dell'organizzazione di Adobe.</td>
+  <td>Responsabile dell’impostazione dei concetti di identità per l’organizzazione Adobe e il prodotto di Marketo Engage in Adobe Admin Console. Ruolo assegnato nella configurazione dell’organizzazione Adobe.</td>
  </tr>
  <tr>
   <td><strong>Amministratore di prodotto Adobe Admin Console</strong></td>
