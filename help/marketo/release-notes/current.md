@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ec128b52bb94bd9c4dd3d89f7c04b1596b66c965
+source-git-commit: 97806e0df45327fb695f02c02af0dde42a602737
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '546'
 ht-degree: 2%
 
 ---
@@ -89,6 +89,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <br/>
 
 ## Annunci {#announcements}
+
+* **Aggiornamento API per estrazione in blocco**: è stato risolto un problema nell&#39;API per estrazione in blocco che interessava l&#39;opzione columnHeaderNames, che consente di specificare nomi di intestazione di colonna personalizzati nel file esportato. In precedenza, i nomi delle intestazioni di colonna contenenti caratteri non ASCII potevano danneggiarsi.
 
 * **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 30 giugno 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
