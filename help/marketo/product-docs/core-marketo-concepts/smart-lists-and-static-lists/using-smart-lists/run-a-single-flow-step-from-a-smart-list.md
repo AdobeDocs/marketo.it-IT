@@ -4,7 +4,7 @@ description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Doc
 title: Eseguire un singolo passaggio di flusso da un elenco avanzato
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -21,11 +21,11 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 
 1. Vai a **[!UICONTROL Attività di marketing]**.
 
-   ![](assets/login-marketing-activities-1.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
 1. Seleziona un elenco o un elenco avanzato contenente persone, quindi vai alla scheda **[!UICONTROL Persone]**.
 
-   ![](assets/smartlistpeopletab-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-2.png)
 
    >[!TIP]
    >
@@ -33,7 +33,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 
 1. Fare clic su **[!UICONTROL Seleziona tutto]**. È inoltre possibile utilizzare **Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
 
-   ![](assets/smartlist-selectallhand.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 
    >[!NOTE]
    >
@@ -41,22 +41,22 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 
 1. In **[!UICONTROL Azioni persona]**, seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
-   ![](assets/personactions-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
 1. Trova e seleziona un **[!UICONTROL attributo]**. In questo esempio prenderemo tutte le persone che hanno lo stato &quot;California&quot; e lo cambieremo in &quot;CA&quot;.
 
-   ![](assets/runaction-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-5.png)
 
 1. Immetti un nuovo valore. Fare clic su **[!UICONTROL Esegui ora]**.
 
-   ![](assets/runactionnewvalue-hands.png)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
 1. Se i valori dei dati vengono modificati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fai Clic Su **[!UICONTROL Vai]**.
 
-   ![](assets/changedatavalue.jpg)
+   ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
 Ottimo lavoro! Lo stato del singolo passaggio di flusso viene visualizzato nell’angolo in alto a destra.
 
-![](assets/completesingleflowaction.jpg)
+![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 
 Al termine, aggiorna l’elenco e vedrai le informazioni aggiornate.
