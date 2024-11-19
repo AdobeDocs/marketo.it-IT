@@ -3,7 +3,7 @@ description: Note sulla versione corrente di Dynamic Chat - Documenti Marketo - 
 title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: b6fb381527a24286fef5e438d7bf12b029810e64
+source-git-commit: c0ccf1c515dbde48a131242939c077b44ffd5c1b
 workflow-type: tm+mt
 source-wordcount: '2427'
 ht-degree: 2%
@@ -120,29 +120,29 @@ Pertanto, quando un visitatore con cookie abc arriva a una pagina e fornisce un 
   </tr>
 </tbody></table>
 
-### Tempo di caricamento del flusso di conversazione ottimizzato {#optimized-conversation-flow-load-time}
-
-Per migliorare l’esperienza utente, ora viene visualizzato un caricatore shimmer invece di uno spazio vuoto durante il caricamento del flusso conversazionale.
-
-**Prima**
-
-![](assets/dynamic-chat-sep-oct-2024-release-5.png)
-
-**Dopo**
-
-![](assets/dynamic-chat-sep-oct-2024-release-6.gif)
-
 ### Opzione per ereditare il carattere {#option-to-inherit-font}
 
 Ora puoi abilitare il chatbot per ereditare direttamente il font dalla pagina web in cui è ospitato, anziché gestire il font del brand in Dynamic Chat. Quando abiliti questa opzione, il chatbot assumerà il font definito sul tag `<body>` della pagina.
 
-![](assets/dynamic-chat-sep-oct-2024-release-7.png)
+![](assets/dynamic-chat-sep-oct-2024-release-5.png)
 
 ### Integrazione Demandbase con Dynamic Chat {#demandbase-integration-with-dynamic-chat}
 
 Gli utenti di Demandbase sono in grado di portare la propria licenza di Demandbase e attivare l&#39;integrazione. Utilizza gli attributi persona Demandbase per il targeting delle finestre di dialogo, il branding condizionale e il routing personalizzato.
 
 La risoluzione di questi valori di attributo nei confronti di una persona viene eseguita in tempo reale e viene memorizzata nel rispettivo profilo persona.
+
+### Tempo di caricamento del flusso di conversazione ottimizzato {#optimized-conversation-flow-load-time}
+
+Per migliorare l’esperienza utente, ora viene visualizzato un caricatore shimmer invece di uno spazio vuoto durante il caricamento del flusso conversazionale.
+
+**Prima**
+
+![](assets/dynamic-chat-sep-oct-2024-release-6.png)
+
+**Dopo**
+
+![](assets/dynamic-chat-sep-oct-2024-release-7.gif)
 
 ## Versione di agosto 2024 {#august-release}
 
