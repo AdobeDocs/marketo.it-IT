@@ -4,9 +4,10 @@ title: Verifica di un webinar interattivo
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: e4a6123684162d9bbf2edddbd9aaf190030dc728
+exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
+source-git-commit: fe58e0e0bf38ba4389398cd4f0dc3695cbc65407
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 # Verifica di un webinar interattivo {#testing-an-interactive-webinar}
 
 I webinar interattivi comportano l’utilizzo di Adobe Connect come strumento per la fornitura di webinar. È consigliabile creare un webinar di prova prima di ospitarne il primo live.
+
+## Flusso di lavoro {#workflow}
 
 Qualsiasi webinar interattivo può essere utilizzato come webinar di prova. Il test può essere eseguito aggiungendo non più di 10 host e relatori (partecipanti).
 
@@ -23,12 +26,10 @@ Il flusso di lavoro per la creazione di un webinar di prova rimane invariato ris
 >
 >Se imposti la data e l’ora per il webinar di prova troppo vicino in futuro e tale data/ora è trascorsa, i webinar interattivi considerano il webinar consegnato e detrarranno un credito dalla licenza.
 
-INTERRUZIONE QUI
+Un credito verrà bloccato per il webinar di prova, ma può essere utilizzato ripianificando il programma da utilizzare con un webinar effettivo o semplicemente eliminando il programma del webinar di prova.
 
-Per evitare questo, crea un webinar interattivo lontano nel futuro e blocca solo 1 credito. Questo credito può essere utilizzato riprogrammando il programma per utilizzarlo per un webinar effettivo spostandolo nella data desiderata o semplicemente eliminando il programma del webinar.
+Dopo aver creato e progettato il webinar, l’host, il co-host e/o i relatori possono unirsi per provare la consegna. È inoltre possibile aggiungere invitati esterni come co-host per poter partecipare al test. Il test può essere eseguito nello stesso modo in cui viene consegnato il webinar, in modo che i valutatori abbiano un’idea di come il webinar si presenterà di fronte a un pubblico effettivo. Tutte le funzionalità del webinar live sono disponibili anche nel webinar di prova. Questa operazione può essere eseguita fino a 15 minuti prima dell’ora di inizio del webinar.
 
-Dopo aver creato e progettato il webinar, l’host, il co-host e/o i relatori possono unirsi al webinar per provarne la consegna. È inoltre possibile aggiungere invitati esterni come co-host al webinar per poter partecipare al test. Il test può essere eseguito nello stesso modo in cui viene distribuito il webinar, in modo che i valutatori possano avere un’idea di come il webinar verrà distribuito davanti al pubblico effettivo. Tutte le funzionalità del webinar live saranno disponibili anche nel webinar di prova. Questa operazione può essere eseguita fino a 15 minuti prima del webinar. È consigliabile che l’host ripianifichi o elimini il webinar per non perdere il credito di un webinar interattivo dalla licenza.
+## Funzioni non disponibili durante il test {#features-not-available-when-testing}
 
-Poiché si tratta di un webinar di prova, sono disponibili alcuni elementi dopo il webinar in diretta che non sarebbero disponibili per il test. Ciò include la registrazione del webinar, l’ottenimento delle informazioni sul coinvolgimento sotto forma di Engagement Dashboard o del dashboard aggregato nella scheda Dashboard. Il tracciamento dei webinar on demand per i webinar interattivi, disponibile per i webinar registrati, non sarà disponibile. Poiché non vengono tracciati dati di coinvolgimento durante il webinar di test, non verranno ricevuti dati da Adobe Connect a Marketo e non è possibile eseguire alcuna attività di apprendimento dopo il webinar.
-
-L’intenzione alla base del processo di disponibilità del webinar di prova è quella di testare il flusso di lavoro dalla creazione alla consegna, quindi di utilizzare uno dei crediti per distribuire un webinar live per esplorare le funzioni aggiuntive elencate in precedenza.
+Poiché questo è un webinar di prova, ci sono alcuni elementi che non sono disponibili che normalmente sarebbero dopo un webinar live. Ciò include: la registrazione del webinar, l’ottenimento delle informazioni sul coinvolgimento sotto forma di Engagement Dashboard o del dashboard aggregato nella scheda Dashboard. Nemmeno il tracciamento dei webinar on demand per i webinar interattivi, disponibile per i webinar registrati, sarà disponibile. Poiché non vengono tracciati dati di coinvolgimento durante il webinar di test, non verranno ricevuti dati da Adobe Connect al Marketo Engage, pertanto non è possibile eseguire l’apprendimento post-webinar.
