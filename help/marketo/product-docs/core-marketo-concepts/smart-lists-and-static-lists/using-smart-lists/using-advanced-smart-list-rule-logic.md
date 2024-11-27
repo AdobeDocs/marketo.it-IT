@@ -4,7 +4,7 @@ description: Utilizzo della logica avanzata per le regole di elenco avanzato - D
 title: Utilizzo della logica avanzata della regola di elenco avanzato
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 8a5903fa5313e34f448f833f20ab8e3624cf23e6
+source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -32,7 +32,7 @@ In questo esempio, supponiamo che si desideri trovare persone in California _e_ 
 
 1. Selezionare **[!UICONTROL Usa filtri avanzati]** dal menu a discesa.
 
-   ![](assets/one.png)
+   ![](assets/using-advanced-smart-list-rule-logic-1.png)
 
    >[!NOTE]
    >
@@ -40,11 +40,11 @@ In questo esempio, supponiamo che si desideri trovare persone in California _e_ 
 
 1. Nella casella di testo **[!UICONTROL Filtri avanzati]** verrà visualizzato &quot;and&quot; come valore predefinito tra tutti i filtri.
 
-   ![](assets/two-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-2.png)
 
 1. Digita una coppia di parentesi intorno a &quot;2 e 3&quot;.
 
-   ![](assets/three-2.png)
+   ![](assets/using-advanced-smart-list-rule-logic-3.png)
 
    >[!CAUTION]
    >
@@ -52,19 +52,19 @@ In questo esempio, supponiamo che si desideri trovare persone in California _e_ 
 
 1. Modificare &quot;and&quot; tra &quot;2 e 3&quot; in &quot;or&quot;.
 
-   ![](assets/four-1.png)
+   ![](assets/using-advanced-smart-list-rule-logic-4.png)
 
 ## Utilizzare Le Parentesi Quando Si Miscelano &quot;And&quot; E &quot;Or&quot; {#use-parentheses-when-mixing-and-and-or}
 
 La combinazione delle logiche &quot;and&quot; e &quot;or&quot; richiede parentesi per rendere chiara la tua intenzione.
 
-![](assets/advancedfilters-parent.png)
+![](assets/using-advanced-smart-list-rule-logic-5.png)
 
 ## Usa parentesi nidificate per quattro o più filtri, se necessario {#use-nested-parentheses-for-four-or-more-filters-if-needed}
 
 A seconda dell’intenzione, potrebbe essere necessario aggiungere parentesi nidificate quando si utilizzano quattro o più filtri.
 
-![](assets/advancedfilters-nested.png)
+![](assets/using-advanced-smart-list-rule-logic-6.png)
 
 >[!TIP]
 >
