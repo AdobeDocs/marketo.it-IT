@@ -4,9 +4,9 @@ description: Configurare i protocolli per il Marketo Engage - Documentazione di 
 title: Configura protocolli per Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: d2f8a90cf780fc5db6a4f148a53968a53df835a4
+source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
 workflow-type: tm+mt
-source-wordcount: '2145'
+source-wordcount: '2148'
 ht-degree: 0%
 
 ---
@@ -88,7 +88,7 @@ Alcuni sistemi anti-spam utilizzano il campo Return-Path (Percorso di ritorno) d
 
 ## Passaggio 3: configurare SPF e DKIM {#step-set-up-spf-and-dkim}
 
-Il team di marketing avrebbe inoltre dovuto inviarti informazioni DKIM (Domain Keys Identified Mail) da aggiungere al record di risorse DNS (anch’esso elencato di seguito). Segui i passaggi per configurare correttamente DKIM e SPF (Sender Policy Framework), quindi avvisa il team di marketing che l’aggiornamento è stato completato.
+Il team marketing avrebbe dovuto inviarti anche informazioni su DKIM (Domain Keys Identified Mail) da aggiungere al record di risorse DNS (anch’esso elencato di seguito). Segui i passaggi per configurare correttamente DKIM e SPF (Sender Policy Framework), quindi avvisa il team di marketing che l’aggiornamento è stato completato.
 
 1. Per impostare SPF, aggiungi la seguente riga alle voci DNS:
 
@@ -131,7 +131,7 @@ Come best practice, si consiglia di implementare lentamente l’implementazione 
 
    III. Determina se SPF o DKIM sono allineati e trasmette l’autenticazione per tutte le e-mail legittime.
 
-   IV. Rivedi i rapporti per assicurarti che i risultati siano quelli previsti in base ai criteri SPF/DKIM.
+   IV. Esamina i rapporti per assicurarti che i risultati siano quelli previsti in base ai criteri SPF/DKIM.
 
 1. Procedi con l’impostazione del criterio (p=quarantena), che indica al server e-mail ricevente di mettere in quarantena le e-mail che non superano l’autenticazione (in genere significa inserire tali messaggi nella cartella di posta indesiderata).
 
@@ -194,7 +194,7 @@ I record DMARC dispongono di più componenti denominati tag DMARC. Ogni tag ha u
     <td>Consente al proprietario del dominio di specificare le opzioni di reporting.</td>
     <td>0: genera il rapporto se tutto non riesce 
     <br>1: genera report in caso di errori 
-    <br>d: genera report se DKIM non riesce 
+    <br>d: genera report in caso di errore di DKIM 
     <br>s: genera report se SPF non riesce</td>
     <td>1 (consigliato per i rapporti di DMARC)</td>
   </tr>
@@ -253,9 +253,9 @@ Esistono due tipi di allineamento per DMARC: allineamento DKIM e allineamento SP
 >
 >Si consiglia di eseguire l&#39;allineamento DMARC su DKIM rispetto a SPF per il Marketo Engage.
 
-* DMARC allineato DKIM: per configurare DMARC allineato DKIM è necessario:
+* DMARC allineato a DKIM: per configurare DMARC allineato a DKIM è necessario:
 
-   * Imposta DKIM per il dominio FROM: del messaggio. Utilizza le istruzioni [in questo articolo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
+   * Configura DKIM per il dominio FROM: del messaggio. Utilizza le istruzioni [in questo articolo](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
    * Configura DMARC per il dominio FROM:/DKIM configurato in precedenza
 
 * SPF allineato a DMARC: per impostare SPF allineato a DMARC tramite il percorso di ritorno del marchio, è necessario:
@@ -266,13 +266,13 @@ Esistono due tipi di allineamento per DMARC: allineamento DKIM e allineamento SP
 
    * Configurare DMARC per il dominio del percorso di ritorno del marchio
 
-* Se invii messaggi dal Marketo Engage tramite un IP dedicato e non hai già implementato il percorso di ritorno del brand, oppure non sei sicuro di averlo fatto, apri un ticket con [il supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Se invii messaggi dal Marketo Engage tramite un IP dedicato e non hai già implementato il percorso di ritorno del marchio, oppure non sei sicuro di averlo fatto, apri un ticket con [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * Se invii messaggi dal Marketo Engage tramite un pool condiviso di IP, puoi verificare se sei idoneo per gli IP attendibili [applicando qui](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Il percorso di ritorno con marchio è offerto gratuitamente a chi invia da IP attendibili del Marketo Engage. Se approvato per questo programma, contatta il supporto Adobe per impostare il percorso di ritorno a marchio.
 
    * IP attendibili: un pool condiviso di IP riservati agli utenti con volumi inferiori che inviano &lt;75.000/mese che non sono idonei per un IP dedicato. Anche questi utenti devono soddisfare i requisiti delle best practice.
 
-* Se invii messaggi dal Marketo Engage tramite IP condivisi e non sei idoneo per gli IP attendibili e invii più di 100.000 messaggi al mese, devi contattare il Team account Adobe (il tuo account manager) per acquistare un IP dedicato.
+* Se invii messaggi dal Marketo Engage tramite IP condivisi e non sei idoneo per gli IP attendibili e invii più di 100.000 messaggi al mese, devi contattare il Team account di Adobe (il tuo account manager) per acquistare un IP dedicato.
 
 * L&#39;allineamento rigoroso dell&#39;SPF non è supportato né consigliato all&#39;interno del Marketo Engage.
 
@@ -369,13 +369,20 @@ Le tabelle seguenti descrivono tutti i server di Marketo Engage che effettuano c
    <tr>
    <td>54 237 141 197</td>
   </tr>
+  <tr>
+   <td>124 47 174 193</td>
   </tr>
-   <tr>
+  <tr>
    <td>130 248 168 166</td>
-  </tr>
   </tr>
    <tr>
    <td>130 248 168 17</td>
+  </tr>
+  <tr>
+   <td>199.15.213.245</td>
+  </tr>
+  <tr>
+   <td>199.15.215.245</td>
   </tr>
  </tbody>
 </table>
