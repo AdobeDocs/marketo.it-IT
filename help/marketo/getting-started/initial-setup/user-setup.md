@@ -4,9 +4,9 @@ short-description: Dopo aver completato i passaggi di configurazione iniziali, s
 title: Elenco di controllo per l'impostazione dell'utente
 feature: Getting Started
 exl-id: c7b068fc-a038-4f9c-a037-72440a1a864e
-source-git-commit: 384740fdfc1f6950369116bd77ee49f9e745bdf1
+source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
 workflow-type: tm+mt
-source-wordcount: '811'
+source-wordcount: '823'
 ht-degree: 7%
 
 ---
@@ -48,13 +48,14 @@ Le nuove sottoscrizioni di Marketo Engage sono state acquisite in [Adobe Identit
   <tr>
     <td>Utenti</td>
     <td><li>Crea un criterio su quando <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">creare un utente</a>.</li> <li>Crea un criterio per determinare quando rimuovere gli utenti.</li>
-    <li>Determinare gli utenti che devono disporre di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">autorizzazioni di amministratore di sistema Adobe e amministratore di prodotto di Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Aggiungi utenti</a> al profilo di prodotto desiderato.</li>
+    <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: per rimuovere gli utenti è necessario essere amministratore di sistema.
+    <li>Adobe Determina chi deve disporre delle <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html">autorizzazioni di amministratore di sistema e amministratore di prodotto di Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Aggiungi utenti</a> al profilo di prodotto desiderato.</li>
     <li>Crea un utente API per ogni caso d’uso dell’API.</li></td>
   </tr>
   <tr>
     <td>API User Management (se applicabile)</td>
-    <td><li>Utilizza l'<a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">API per la gestione degli utenti Adobe</a> per invitare, aggiornare ed eliminare gli utenti.</li>
-    <li>Utilizza l'<a href="https://developer.adobe.com/umapi/">API per la gestione degli utenti Adobe</a> per aggiungere o rimuovere ruoli (ad esempio, Amministratori, Amministratori di supporto, Sviluppatori).</li>
+    <td><li>Utilizza l'<a href="https://www.adobe.io/apis/experienceplatform/umapi-new.html">API per la gestione utenti di Adobe</a> per invitare, aggiornare ed eliminare utenti.</li>
+    <li>Utilizza l'<a href="https://developer.adobe.com/umapi/">API per la gestione degli utenti di Adobe</a> per aggiungere o rimuovere ruoli (ad esempio, amministratori, amministratori del supporto, sviluppatori).</li>
     </td>
   </tr>
   <tr>
@@ -66,7 +67,7 @@ Le nuove sottoscrizioni di Marketo Engage sono state acquisite in [Adobe Identit
 </tbody>
 </table>
 
-## Dynamic Chat nella configurazione di Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
+## Dynamic Chat sulla configurazione di Adobe Identity Management {#dynamic-chat-on-adobe-identity-management}
 
 Per utilizzare [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.html), il canale di automazione della conversazione nativo nel Marketo Engage, procedere con la configurazione delle autorizzazioni utente seguendo i passaggi seguenti in [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
@@ -111,7 +112,7 @@ Per utilizzare [Dynamic Chat](https://experienceleague.adobe.com/docs/marketo/us
 </thead>
 <tbody>
   <tr>
-    <td>Adobe di aggiornamenti dello stato di Marketo</td>
+    <td>Aggiornamenti dello stato di Adobe Marketo</td>
     <td><li><a href="https://status.adobe.com/cloud/experience_cloud">Iscriviti agli aggiornamenti relativi allo stato di Adobe Marketo Engage</a>.</li></td>
   </tr>
   <tr>
