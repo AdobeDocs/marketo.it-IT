@@ -4,9 +4,9 @@ description: Approvare più pagine di destinazione alla volta - Documentazione d
 title: Approvare più pagine di destinazione alla volta
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,27 +15,27 @@ ht-degree: 0%
 
 1. Vai a **Design Studio**.
 
-   ![](assets/image2014-9-17-11-3a35-3a5.png)
+   ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
 1. Fai clic su **Pagine di destinazione**.
 
-   ![](assets/image2014-9-17-11-3a35-3a11.png)
+   ![](assets/approve-multiple-landing-pages-at-once-2.png)
 
-1. Tenere premuto Ctrl (Windows) o Comando (Mac) e fare clic per selezionare più pagine di destinazione.
+1. Seleziona le pagine di destinazione desiderate.
 
-   ![](assets/image2014-9-17-11-3a35-3a19.png)
+   ![](assets/approve-multiple-landing-pages-at-once-3.png)
 
    >[!TIP]
    >
    >Non fare clic sul nome effettivo della pagina di destinazione, poiché si tratta di collegamenti che ti porteranno alla pagina stessa.
 
-1. Con le pagine di destinazione selezionate, vai a **Azioni pagina di destinazione** e fai clic su **Approva**.
+1. Con le pagine di destinazione selezionate, fai clic sul menu a discesa **Azioni pagina di destinazione** e seleziona **Approva**.
 
-   ![](assets/image2014-9-17-11-3a35-3a27.png)
+   ![](assets/approve-multiple-landing-pages-at-once-4.png)
 
-   Ecco qua! Ora puoi approvare in modo rapido e semplice più pagine di destinazione.
+1. Fai clic su **Approva**.
 
-   ![](assets/image2014-9-17-11-3a35-3a36.png)
+   ![](assets/approve-multiple-landing-pages-at-once-5.png)
 
    >[!TIP]
    >

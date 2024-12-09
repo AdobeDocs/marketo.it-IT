@@ -4,7 +4,7 @@ description: Inoltrare a un amico Link nelle e-mail - Documentazione di Marketo 
 title: Inoltra a un collegamento amico nelle e-mail
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 L’aggiunta del collegamento &quot;Inoltra all’amico&quot; alle e-mail consente di tenere traccia delle persone che hanno ricevuto un’e-mail inoltrata tramite questo collegamento e di aggiungerle automaticamente come nuova persona se non sono già presenti nel database.
 
-Ad esempio, supponiamo che Keith utilizzi il collegamento ‘Inoltra all’amico’ per inoltrare l’e-mail a una persona sconosciuta, Mark. Mark viene aggiunto automaticamente come nuova persona, gli viene assegnato un cookie personale e una qualsiasi delle sue attività e-mail e web è collegata a lui. Tuttavia, se Keith usa il pulsante di inoltro nel suo client e-mail, Mark viene erroneamente ricattato come Keith e la sua attività viene registrata come Keith.
+Ad esempio, supponiamo che Keith utilizzi il collegamento &#39;Inoltra all&#39;amico&#39; per inoltrare l&#39;e-mail a una persona sconosciuta, Mark. Mark viene aggiunto automaticamente come nuova persona, gli viene assegnato un cookie personale e una qualsiasi delle sue attività e-mail e web è collegata a lui. Tuttavia, se Keith usa il pulsante di inoltro nel suo client e-mail, Mark viene erroneamente ricattato come Keith e la sua attività viene registrata come Keith.
 
 ## Aggiungere il collegamento a un modello e-mail {#add-the-link-to-an-email-template}
 
@@ -29,7 +29,7 @@ Ad esempio, supponiamo che Keith utilizzi il collegamento ‘Inoltra all’amico
 
 1. Incolla il seguente codice HTML nel punto in cui vuoi che appaia il collegamento &#39;Inoltra all&#39;amico&#39; (se hai bisogno di aiuto con questa parte, contatta il tuo sviluppatore web):
 
-   `<pre data-theme="Confluence"><a href="{{system.forwardToFriendLink}}">Forward to Friend</a></pre>`
+   `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
    ![](assets/three-7.png)
 
@@ -42,7 +42,7 @@ Ad esempio, supponiamo che Keith utilizzi il collegamento ‘Inoltra all’amico
 
    >[!CAUTION]
    >
-   >Non è consigliabile utilizzare lo stile **position:relative** nel modello di messaggio di posta elettronica. Può creare problemi con la posizione e la visualizzazione della casella &quot;Inoltra a amico&quot;.
+   >Non è consigliabile utilizzare lo stile **position:relative** nel modello di messaggio di posta elettronica. Potrebbe causare problemi nella posizione e visualizzazione della casella &#39;Inoltra a amico&#39;.
 
 1. Fare clic su **Anteprima bozza** per verificare che l&#39;aspetto del modello sia quello desiderato.
 
@@ -122,9 +122,9 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della p
 
    ![](assets/sixteen.png)
 
-1. Per visualizzare una persona per ID, copia e incolla **ID persona** alla fine dell&#39;URL (l&#39;inizio di tale URL dipenderà dalla tua istanza di Marketo):
+1. Per visualizzare una persona per ID, copia e incolla **ID persona** alla fine dell&#39;URL (l&#39;inizio dell&#39;URL dipenderà dall&#39;istanza di Marketo):
 
-   `<pre data-theme="Confluence">...marketo.com/Database/loadPersonDetail?personId=</pre>`
+   `...marketo.com/Database/loadPersonDetail?personId=`
 
    >[!NOTE]
    >
@@ -134,7 +134,7 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della p
 
    >[!NOTE]
    >
-   >Se l&#39;amico che riceve l&#39;inoltro è una persona sconosciuta, viene creato un nuovo utente con l&#39;opzione &quot;Inoltra all&#39;amico&quot; contrassegnata come **Source** della persona.
+   >Se l&#39;amico che riceve l&#39;inoltro è una persona sconosciuta, viene creato un nuovo utente con &#39;Inoltra all&#39;amico&#39; contrassegnato come **Source** dell&#39;utente.
    >Se l&#39;e-mail è una risorsa locale di un programma, il programma viene contrassegnato come **Programma di acquisizione** della persona.
 
 ## Attivare o filtrare tramite attività di inoltro {#trigger-or-filter-using-forwarding-activity}
@@ -147,4 +147,4 @@ Nell’elenco smart di una campagna, se cerchi &quot;inoltra&quot; troverai i tr
 
 ## Inoltra test ad amico {#test-forward-to-friend}
 
-Per verificare l’efficacia di Inoltra a un amico, invia un’e-mail con il collegamento di inoltro. Assicurati di inviarlo tramite il passaggio di flusso **Invia e-mail**, *non* tramite **Invia e-mail di prova**.
+Per verificare &quot;Inoltra ad amico&quot;, invia un&#39;e-mail con il collegamento di inoltro. Assicurati di inviarlo tramite il passaggio di flusso **Invia e-mail**, *non* tramite **Invia e-mail di prova**.

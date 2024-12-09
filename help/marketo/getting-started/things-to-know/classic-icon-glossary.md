@@ -3,10 +3,10 @@ description: Glossario delle icone classiche - Documentazione di Marketo - Docum
 title: Glossario icona classica
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 87cf178f82103025ff0132c4a6a40166237805c9
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -220,7 +220,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png"> 
     </td> 
-   <td>Amministratore</td> 
+   <td>Amministrazione</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png"> 
@@ -401,7 +401,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a56-3a46.png"> 
     </td> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-14-3a57-3a27.png"> 
@@ -431,7 +431,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a17-3a53.png"> 
     </td> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-15-3a18-3a20.png"> 
@@ -617,7 +617,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png"> 
     </td> 
-   <td>Nuovo</td> 
+   <td>Nuova</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png"> 
@@ -668,7 +668,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a55-3a51.png"> 
     </td> 
-   <td>Report</td> 
+   <td>Rapporto</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-9-12-3a56-3a29.png"> 
@@ -739,7 +739,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (anche su tutti gli elementi correlati all’SFDC)</td> 
+   <td>Salesforce (anche su tutti gli elementi correlati a SFDC)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-15-3a44-3a30.png"> 
@@ -790,7 +790,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a31-3a7.png"> 
     </td> 
-   <td>Salesforce (anche su tutti gli elementi correlati all’SFDC)</td> 
+   <td>Salesforce (anche su tutti gli elementi correlati a SFDC)</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-5-14-3a33-3a11.png"> 
@@ -871,7 +871,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png"> 
     </td> 
-   <td>Nuovo</td> 
+   <td>Nuova</td> 
   </tr> 
   <tr> 
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png"> 
@@ -885,3 +885,4 @@ Di seguito sono riportate le vecchie icone dell’interfaccia di Marketo Classic
   </tr> 
  </tbody> 
 </table>
+ 

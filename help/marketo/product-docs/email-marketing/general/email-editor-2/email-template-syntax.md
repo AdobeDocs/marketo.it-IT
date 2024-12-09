@@ -4,7 +4,7 @@ description: Sintassi del modello e-mail - Documentazione di Marketo - Documenta
 title: Sintassi del modello e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
 workflow-type: tm+mt
 source-wordcount: '2449'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Il contenuto all’interno dell’elemento HTML (se fornito) con class=&quot;mkt
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktEditable" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ### Opzione 2: mktoText {#option-mktotext}
 
@@ -75,7 +75,7 @@ Il contenuto all’interno dell’elemento HTML (se fornito) con class=&quot;mkt
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div></pre>`
+`<div class="mktoText" id="exampleText" mktoName="Main Body Text"> Optionally add default text for the editable text area. </div>`
 
 ## Immagini {#images}
 
@@ -106,7 +106,7 @@ Valore predefinito (facoltativo)
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div></pre>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Opzione 2 - Utilizzare un \&lt;img\> {#option-use-an-img}
 
@@ -124,7 +124,7 @@ Attributi richiesti
 * **mktoLockImgStyle:** Utilizzato per bloccare la proprietà di stile dell&#39;elemento `<img>` (il valore predefinito è false).
 
 Esempio:
-`<pre data-theme="Confluence"><img class="mktoImg" id="exampleImg" mktoName="Example Image"></pre>`
+`<img class="mktoImg" id="exampleImg" mktoName="Example Image">`
 
 ## Snippet {#snippets}
 
@@ -141,7 +141,7 @@ Valore predefinito (facoltativo)
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div></pre>`
+`<div class="mktoSnippet" id="unsubscribeFooter" mktoName="Unsubscribe Footer" mktoDefaultSnippetId="12"></div>`
 
 ## Video {#video}
 
@@ -158,7 +158,7 @@ Attributi facoltativi
 
 Esempio:
 
-`<pre data-theme="Confluence"><div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div></pre>`
+`<div class="mktoVideo" id="productVideo" mktoName="Product Announcement Video"></div>`
 
 ## Variabili {#variables}
 
@@ -181,11 +181,11 @@ Attributi facoltativi
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me"></pre>`
+`<meta class="mktoString" id="textHeader" mktoName="Text Header" default="Edit Me">`
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${textHeader}</pre>`
+`${textHeader}`
 
 ## Elenco {#list}
 
@@ -204,11 +204,11 @@ Attributi facoltativi
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman"></pre>`
+`<meta class="mktoList" id="textFontFamily" mktoName="Main Text Font Family" values="Arial,Verdana,Times New Roman">`
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${textFontFamily}</pre>`
+`${textFontFamily}`
 
 ## Numero {#number}
 
@@ -224,17 +224,17 @@ Attributi facoltativi
 
 * **min:** valore minimo accettato.
 * **max:** valore massimo accettato.
-* **unità:** unità da aggiungere al valore numerico (ad esempio: px, pt, em, ecc.) quando viene visualizzato nell’Editor e-mail e nel codice risultante.
+* **unità:** unità da aggiungere al valore numerico (ad es. px, pt, em, ecc.) quando vengono visualizzate nell&#39;editor e-mail e nel codice risultante.
 * **passaggio:** quante unità la variabile numerica deve aumentare/diminuire di (0,1, 1, 10, ecc.). Se omesso, il valore predefinito è 1.
 * **mktoModuleScope**: valore booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Se omesso, il valore predefinito è False.
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> </pre>`
+`<meta class="mktoNumber" id="textFontSize" mktoName="Main Text Font Size" default="12" min="8" max="18" units="px" step="1"> `
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${textFontSize}</pre>`
+`${textFontSize}`
 
 ## Colore {#color}
 
@@ -252,11 +252,11 @@ Attributi facoltativi
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF"></pre>`
+`<meta class="mktoColor" id="textColor" mktoName="Main Text Color" default="#FFFFFF">`
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${textColor}</pre>`
+`${textColor}`
 
 ## Booleano {#boolean}
 
@@ -278,11 +278,11 @@ Attributi facoltativi
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES"></pre>`
+`<meta class="mktoBoolean" id="showFooter" mktoName="Show Footer BG?" default="false" false_value="transparent" true_value="black" false_value_name="NO" true_value_name="YES">`
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${showFooter}</pre>`
+`${showFooter}`
 
 ## Blocco HTML {#html-block}
 
@@ -300,11 +300,11 @@ Attributi facoltativi
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel"></pre>`
+`<meta class="mktoHTML" id="trackingPixel" mktoName="Add Tracking Pixel">`
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${trackingPixel}</pre>`
+`${trackingPixel}`
 
 ## Variabile immagine {#image-variable}
 
@@ -322,11 +322,11 @@ Attributi facoltativi
 
 Esempio di dichiarazione:
 
-`<pre data-theme="Confluence"><meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg"></pre>`
+`<meta class="mktoImg" id="heroBackgroundImage" mktoName="Hero Background Image" default="https://www.company.com/image.jpg">`
 
 Esempio di utilizzo:
 
-`<pre data-theme="Confluence">${heroBackgroundImage}</pre>`
+`${heroBackgroundImage}`
 
 ## Moduli {#modules}
 
