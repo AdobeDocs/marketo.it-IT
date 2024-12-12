@@ -3,9 +3,9 @@ description: Promozione di un webinar interattivo - Documentazione di Marketo - 
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: dbf058714f6c4e6003c5a64d1048ac8a47931a0f
+source-git-commit: 6747a7b85047024d295ecc2c061bb6370ccfe0b9
 workflow-type: tm+mt
-source-wordcount: '653'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Quando un membro si trova nello stato di programma &quot;registrato&quot; in un 
 
 Entro pochi minuti dalla registrazione, l’URL del webinar per il membro viene popolato nella scheda Membri. Se non riesci a individuare la colonna per l’URL del webinar, accertati che la colonna sia stata aggiunta alla vista. Questo è un URL personalizzato per ogni membro registrato per poter accedere al webinar all’ora pianificata senza richiedere alcuna autenticazione. I token scambiati internamente si occupano dell&#39;autenticazione per i membri.
 
-Puoi utilizzare i token per includere l’URL del webinar per singoli membri in una campagna e-mail per comunicare che sono stati registrati nell’evento e per utilizzare l’URL di unione per accedere al webinar all’ora pianificata. I token del calendario possono essere utilizzati nella stessa campagna e-mail per garantire che la pianificazione del webinar possa essere aggiunta ai calendari dei membri.
+È possibile utilizzare il `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} per includere l&#39;URL del webinar ai singoli membri in una campagna e-mail per comunicare che sono stati registrati nell&#39;evento e per utilizzare l&#39;URL di partecipazione per accedere al webinar all&#39;ora pianificata. I token del calendario possono essere utilizzati nella stessa campagna e-mail per garantire che la pianificazione del webinar possa essere aggiunta ai calendari dei membri.
 
 Sul lato destro della scheda Panoramica nel programma dell’evento sono disponibili collegamenti per creare una pagina di destinazione e una campagna e-mail. Le altre promozioni relative a un evento rimangono invariate rispetto ai webinar dei partner che utilizzano l’integrazione Launchpoint.
 
