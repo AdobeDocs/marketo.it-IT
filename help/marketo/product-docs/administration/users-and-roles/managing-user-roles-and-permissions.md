@@ -4,9 +4,9 @@ description: Gestione di ruoli e autorizzazioni utente - Documentazione di Marke
 title: Gestione di ruoli utente e autorizzazioni
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
@@ -103,7 +103,7 @@ Se è necessario modificare le autorizzazioni associate a un ruolo esistente, è
 
    ![](assets/managing-user-roles-and-permissions-13.png)
 
-1. Modificare **[!UICONTROL Nome ruolo]** e **[!UICONTROL Descrizione]** se necessario, quindi modificare la selezione delle **[!UICONTROL Autorizzazioni]** associate.
+1. Se necessario, modifica il **[!UICONTROL Nome ruolo]** e la **[!UICONTROL Descrizione]**, modifica la selezione delle **[!UICONTROL Autorizzazioni]** associate e al termine fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/managing-user-roles-and-permissions-14.png)
 

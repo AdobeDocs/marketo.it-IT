@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360364
-description: Passaggio 2 di 3 -Creazione di un utente Salesforce per Marketo (Enterprise/Unlimited) - Documentazione Marketo - Documentazione del prodotto
+description: Passaggio 2 di 3 -Creare un utente Salesforce per Marketo (Enterprise/Unlimited) - Documentazione Marketo - Documentazione del prodotto
 title: 'Passaggio 2 di 3: creazione di un utente Salesforce per Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 3%
@@ -124,20 +124,20 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1" rowspan="1"><p>Oggetto</p></th> 
-   <th colspan="1" rowspan="1"><p>Campi</p></th> 
+   <th>Oggetto</th> 
+   <th>Campi</th> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Account</p></td> 
-   <td colspan="1" rowspan="1"><p>Campo tipo</p></td> 
+   <td>Account</td> 
+   <td>Campo tipo</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Evento</p></td> 
-   <td colspan="1" rowspan="1"><p>Tutti i campi</p></td> 
+   <td>Evento</td> 
+   <td>Tutti i campi</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p>Attività</p></td> 
-   <td colspan="1" rowspan="1"><p>Tutti i campi</p></td> 
+   <td>Attività</td> 
+   <td>Tutti i campi</td> 
   </tr> 
  </tbody> 
 </table>
@@ -148,13 +148,13 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
 >[!TIP]
 >
->Creare un account Salesforce dedicato (ad esempio, `marketo@yourcompany.com`) per distinguere le modifiche apportate da Marketo rispetto ad altri utenti Salesforce.
+>Creare un account Salesforce dedicato (ad esempio, `marketo@yourcompany.com`) per distinguere le modifiche apportate da Marketo rispetto ad altri utenti di Salesforce.
 
 1. Digita &quot;Gestisci utenti&quot; nella barra di ricerca di navigazione, quindi fai clic su **[!UICONTROL Utenti]**. Fare clic su **[!UICONTROL Nuovo utente]**.
 
    ![](assets/sfdc-new-users.png)
 
-1. Compila i campi obbligatori. Quindi, seleziona la **[!UICONTROL licenza utente: Salesforce]** e il profilo creato in precedenza. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Compila i campi obbligatori. Quindi, selezionare la **[!UICONTROL licenza utente: Salesforce]** e il profilo creato in precedenza. Al termine, fai clic su **[!UICONTROL Salva]**.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 
