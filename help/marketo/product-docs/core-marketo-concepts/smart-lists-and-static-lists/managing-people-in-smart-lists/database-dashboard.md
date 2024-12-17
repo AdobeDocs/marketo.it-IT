@@ -4,9 +4,9 @@ description: Dashboard del database - Documentazione di Marketo - Documentazione
 title: Dashboard del database
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: a3a75e5eaebc081a96ff9a9e1490d520b40ae4ec
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,9 @@ Database Dashboard funge da istantanea per consentire di determinare rapidamente
 
 >[!NOTE]
 >
->Ogni area di lavoro dispone di un proprio Dashboard di database.
+>* Database Dashboard viene aggiornato automaticamente ogni 24-32 ore. È possibile eseguire un aggiornamento manuale in qualsiasi momento facendo clic sul testo &quot;ultimo aggiornamento&quot; sul lato destro dello schermo.
+>
+>* Ogni area di lavoro dispone di un proprio Dashboard di database.
 
 Per accedervi, seleziona **[!UICONTROL Database]** dal tuo My Marketo.
 
