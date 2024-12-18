@@ -3,7 +3,7 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 4e13fbba90efcecf8f22e4d8cdc5173e6f6f43a4
+source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 2%
@@ -41,23 +41,21 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
    <td> </td>
   </tr>
-  </tr>
   <tr> 
    <td><strong>Annulla registrazione partecipanti da un evento nei webinar interattivi</strong>: se non desideri un partecipante al webinar per qualsiasi motivo, puoi annullarne la registrazione. Il flusso di lavoro rimuove il registrante sia dal programma Marketo Event che da Adobe Connect.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
   <tr> 
-  <tr> 
    <td> </td> 
    <td> </td>
    <td> </td>
+  </tr>
   <tr> 
    <td><strong>Disabilita campagne nell'archivio</strong>: disabilita le campagne con trigger attivo e annulla eventuali esecuzioni batch pianificate di campagne in una cartella al momento dell'archiviazione. Poiché è in corso un controllo aggiuntivo delle autorizzazioni per l'archiviazione di cartelle che contengono campagne attive (Attiva campagna trigger e Pianifica campagna batch), questa funzione viene disabilitata per impostazione predefinita con questa versione e può essere abilitata passando a <b>Amministratore</b> &gt; <b>Sfondo tesoro</b> nell'abbonamento di Marketo Engage.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  <tr> 
  </tbody> 
 </table>
 <br/>
