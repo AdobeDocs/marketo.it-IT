@@ -3,7 +3,7 @@ description: Domande frequenti su Adobe Identity Management - Documentazione Mar
 title: Domande frequenti su Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: ec0fcba763a50348c3424a1ba33c5fc700093c68
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '1521'
 ht-degree: 0%
@@ -136,7 +136,7 @@ No, non vi sono impatti su queste configurazioni.
 
 **Come posso evitare il timeout delle sessioni?**
 
-In [Impostazioni avanzate](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings), è possibile personalizzare la durata massima della sessione desiderata (sono necessarie le autorizzazioni di amministratore di sistema). Si consiglia di stabilire questa impostazione dopo la migrazione del prodotto, ma prima della migrazione degli utenti.
+In [Impostazioni avanzate](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, puoi personalizzare la durata massima della sessione desiderata (sono necessarie le autorizzazioni di amministratore di sistema). Si consiglia di stabilire questa impostazione dopo la migrazione del prodotto, ma prima della migrazione degli utenti.
 
 **Per accedere al Marketo Engage, ora devo passare a Experience Cloud. Esiste un modo per semplificare questo flusso?**
 

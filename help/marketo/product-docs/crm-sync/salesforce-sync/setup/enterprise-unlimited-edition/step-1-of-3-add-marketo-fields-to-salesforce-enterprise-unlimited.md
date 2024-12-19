@@ -1,10 +1,10 @@
 ---
 unique-page-id: 2360362
-description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unlimited) - Documentazione Marketo - Documentazione del prodotto
+description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unlimited) - Documentazione di Marketo - Documentazione del prodotto
 title: 'Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Enterprise/Unlimited)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
 workflow-type: tm+mt
 source-wordcount: '766'
 ht-degree: 7%
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 >[!PREREQUISITES]
 >
->Per eseguire la sincronizzazione tra Marketo Engage e Salesforce, devi avere accesso alle API di Salesforce.
+>Per eseguire la sincronizzazione tra il Marketo Engage e Salesforce, è necessario avere accesso alle API di Salesforce.
 
 Marketo utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in Salesforce, segui le istruzioni riportate di seguito.
 
@@ -238,7 +238,7 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
 >[!NOTE]
 >
->I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in Salesforce al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con Salesforce al prossimo aggiornamento del record su uno dei due sistemi (ovvero, un aggiornamento a uno qualsiasi dei campi sincronizzati tra Marketo e Salesforce).
+>I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in Salesforce al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con Salesforce al prossimo aggiornamento del record di uno dei due sistemi (ovvero, un aggiornamento di uno qualsiasi dei campi sincronizzati tra Marketo e Salesforce).
 
 ## Mappa campi personalizzati per conversioni {#map-custom-fields-for-conversions}
 
