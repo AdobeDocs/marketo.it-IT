@@ -4,9 +4,9 @@ description: Descrizioni delle autorizzazioni per il ruolo - Documentazione di M
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 548f3f84bf6a7d39dadbf1eb5069618c4f4d44b5
+source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
 workflow-type: tm+mt
-source-wordcount: '1429'
+source-wordcount: '1448'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,7 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accesso [[!DNL Data.com]](https://data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
 * Accedi a Amministrazione e-mail: consente agli utenti di accedere a Amministrazione e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
 * Accesso ai partner eventi: consente agli utenti di accedere a LaunchPoint in Admin
+* Accedere a Condivisione pubblico di Experience Cloud: consente agli utenti di sincronizzare un pubblico da Adobe Experience Cloud al Marketo Engage
 * Accesso alla gestione dei campi: consente agli utenti di accedere alla gestione dei campi in Admin
 * Caricamento file di accesso: consente agli utenti di caricare immagini e file in Design Studio
 * Accedere alle pagine di destinazione: consente agli utenti di accedere alle pagine di destinazione in Admin
