@@ -2,9 +2,10 @@
 description: Promozione di un webinar interattivo - Documentazione di Marketo - Documentazione del prodotto
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
-source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
+source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -14,6 +15,8 @@ ht-degree: 0%
 La promozione di un webinar interattivo è simile alla promozione di un webinar per partner tramite Launchpoint. Durante la creazione di un programma di eventi di webinar interattivo, è possibile aggiungere membri eseguendo una campagna o importando membri nel programma. Per verificare i membri aggiunti al programma eventi webinar interattivi, fare clic sulla scheda **[!UICONTROL Membri]**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
+
+## Panoramica {#overview}
 
 Dopo l’aggiunta o l’importazione dei membri, puoi creare una campagna e-mail all’interno del programma di eventi del webinar interattivo per inviare un invito a tutti i membri del programma e cambiarne lo stato in &quot;invitato&quot; una volta che l’e-mail è stata consegnata.
 
