@@ -2,16 +2,17 @@
 description: Promozione di un webinar interattivo - Documentazione di Marketo - Documentazione del prodotto
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
+exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
 source-git-commit: 75035e6ae7989aaf3ed6cedd7fdab42c79ab8f37
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '654'
 ht-degree: 0%
 
 ---
 
 # Promozione di un webinar interattivo {#promoting-an-interactive-webinar}
 
-La promozione di un webinar interattivo è simile alla promozione di un webinar per partner tramite Launchpoint. Durante la creazione di un programma di eventi di webinar interattivo, è possibile aggiungere membri eseguendo una campagna o importando membri nel programma. Per verificare i membri aggiunti al programma eventi webinar interattivi, fare clic sulla scheda **[!UICONTROL Membri]**.
+La promozione di un webinar interattivo è simile alla promozione di un webinar per partner tramite Launchpoint. Durante la creazione di un programma di eventi di webinar interattivo, è possibile aggiungere membri eseguendo una campagna o importando membri nel programma. Per verificare i membri aggiunti al programma eventi webinar interattivi, fare clic sulla scheda **Membri**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -49,50 +50,13 @@ Utilizza i token per promuovere i webinar interattivi nelle e-mail e nelle pagin
 
 **Elenco dei token**
 
-<table><thead>
-  <tr>
-    <th>Token</th>
-    <th>Definizione</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>program.webinarCapacity</td>
-    <td>Il numero massimo di partecipanti che possono partecipare al webinar interattivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarDuration</td>
-    <td>La durata per la quale è pianificato il webinar interattivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndDate</td>
-    <td>Data di fine del webinar interattivo pianificato.</td>
-  </tr>
-  <tr>
-    <td>program.webinarEndTime</td>
-    <td>L’ora di fine pianificata del webinar interattivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarGenericURL</td>
-    <td>L’URL di registrazione generico che può essere condiviso con il pubblico dopo il webinar. Questo URL non serve per partecipare al webinar in diretta e non tiene traccia dell’attività del pubblico.</td>
-  </tr>
-  <tr>
-    <td>program.webinarLanguage</td>
-    <td>Lingua in cui deve essere condotto il webinar.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartDate</td>
-    <td>La data di inizio del webinar interattivo pianificato.</td>
-  </tr>
-  <tr>
-    <td>program.webinarStartTime</td>
-    <td>L’ora di inizio pianificata del webinar interattivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTimezone</td>
-    <td>Il fuso orario in cui è pianificato il webinar interattivo.</td>
-  </tr>
-  <tr>
-    <td>program.webinarTitle</td>
-    <td>Il titolo del webinar interattivo che è visibile al pubblico sul Screens di accesso al webinar.</td>
-  </tr>
-</tbody></table>
+* program.webinarCapacity
+* program.webinarDuration
+* program.webinarEndDate
+* program.webinarEndTime
+* program.webinarGenericURL
+* program.webinarLanguage
+* program.webinarStartDate
+* program.webinarStartTime
+* program.webinarTimezone
+* program.webinarTitle
