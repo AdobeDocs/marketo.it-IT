@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: bf6525359d8bc206ed01220823b6c1de5734df55
+source-git-commit: fa149bb386e98a5b9daa1c7b8933d66b708047c1
 workflow-type: tm+mt
-source-wordcount: '395'
-ht-degree: 2%
+source-wordcount: '471'
+ht-degree: 3%
 
 ---
 
@@ -61,6 +61,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <br/>
 
 ## Annunci {#announcements}
+
+* **Funzionalità social obsolete**: mercoledì 31 luglio 2024, il Marketo Engage ha iniziato a rendere obsolete le seguenti funzionalità social all&#39;interno del prodotto:
+
+   * Sondaggi
+   * Pulsante social
+   * Offerta segnalata
+   * Condividi video
+   * Lotterie
+
+A partire da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social nel Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le risorse social cesseranno di funzionare. Le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Aggiornamento API Get Program Members**: è stata migliorata l&#39;API [Get Program Members](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} per supportare la possibilità di recuperare l&#39;identificatore dei membri del programma. A questo scopo, aggiungi l’ID all’elenco di campi specificati nel parametro fields della richiesta API.
 
