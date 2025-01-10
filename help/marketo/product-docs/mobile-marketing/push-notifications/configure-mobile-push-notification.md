@@ -4,7 +4,7 @@ description: Configurare le notifiche push per dispositivi mobili - Documenti Ma
 title: Configurare le notifiche push per dispositivi mobili
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 736e21d45d8a62e50f449e0ee6d0fc4df5963dfb
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -49,13 +49,13 @@ ht-degree: 0%
    >
    >Esistono tre tipi di azioni di tocco:
    >
-   >**Avvia app** - **Questa app** apre la home page dell&#39;app quando viene toccata la notifica. **Personalizzato** utilizza un collegamento profondo per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai il collegamento (vedi [URI di collegamento profondo](#Deeplink) di seguito per i dettagli).
+   >**Avvia app** - **Questa app** apre la home page dell&#39;app quando viene toccata la notifica. **Personalizzato** utilizza un collegamento profondo per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai il collegamento (vedi [URI di collegamento profondo](#deep-link-uris) di seguito per i dettagli).
    >
    >**Pagina di destinazione** - consente di accedere a una pagina di destinazione di Marketo specificata.
    >
    >**External URL** - consente di accedere a una pagina di destinazione non Marketo.
 
-1. Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fare clic su Personalizzato e immettere l&#39;[URI collegamento profondo](#Deeplink) nel campo.
+1. Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, fare clic su Personalizzato e immettere l&#39;[URI collegamento profondo](#deep-link-uris) nel campo.
 
    ![](assets/image2016-7-28-16-3a19-3a13.png)
 
