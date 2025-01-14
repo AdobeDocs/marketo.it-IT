@@ -1,18 +1,18 @@
 ---
-description: Migrazione a Identità Adobe - Documentazione Marketo - Documentazione del prodotto
-title: Migrazione all’identità Adobe
+description: Migrazione ad Adobe Identity - Documentazione Marketo - Documentazione del prodotto
+title: Migrazione ad Adobe Identity
 feature: Marketo with Adobe Identity
 exl-id: a7969204-0ec9-45aa-a206-eff2df8adcd0
-source-git-commit: 7a5440b3673c3ebbb181ee5e81ee202463291fe7
+source-git-commit: df7b29f9b7bb31b2762dd6a6d48eb237f4ccb9f0
 workflow-type: tm+mt
-source-wordcount: '2300'
+source-wordcount: '2317'
 ht-degree: 0%
 
 ---
 
-# Migrazione all’identità Adobe {#migrating-to-adobe-identity}
+# Migrazione ad Adobe Identity {#migrating-to-adobe-identity}
 
-Quando Adobe pianifica la migrazione degli utenti di un abbonamento, gli amministratori dei prodotti di Marketo Engage avranno accesso alla console di migrazione, accessibile dal menu di navigazione nell’area Amministratore di Integrazione.
+Quando Adobe pianifica la migrazione di un utente di un abbonamento, gli amministratori dei prodotti di Marketo Engage avranno accesso alla console di migrazione, accessibile dal menu di navigazione nell’area Amministratore di Integrazione.
 
 ![](assets/migrating-to-adobe-identity-1.png)
 
@@ -30,11 +30,15 @@ L’amministratore può scegliere una data compresa tra 8 e 30 giorni nel futuro
 >
 >Per richiedere una data prima degli 8 giorni o oltre i 30, o se devi modificare la data dopo il blocco della console di pre-migrazione, invia un&#39;e-mail a `marketocares@marketo.com`.
 
-## Migrazioni all’identità Adobe {#migrations-to-adobe-identity}
+## Migrazioni a Adobe Identity {#migrations-to-adobe-identity}
 
 Tutti gli abbonamenti Marketo con fuso orario negli Stati Uniti verranno migrati a partire dalla mezzanotte (ora standard del Pacifico) della data di inizio della migrazione degli utenti. La migrazione degli utenti per tutti gli altri abbonamenti inizierà alla mezzanotte del fuso orario specificato per l’abbonamento. Quando inizia la migrazione degli utenti di un abbonamento, la gestione degli utenti non sarà più disponibile nell’area di amministrazione di Marketo e sarà ottenuta solo in Adobe Admin Console. La gestione dei ruoli rimane nella scheda Utenti e ruoli dell’area di amministrazione di Marketo, nonché nella gestione locale degli utenti (solo API).
 
-Adobe eseguirà automaticamente la migrazione di tutti gli amministratori di Marketo con prima le e-mail verificate. Quando gli amministratori di Marketo vengono trasferiti ad Adobe Identity, vengono aggiunti a Adobe Admin Console come amministratore di prodotto per l’abbonamento a Marketo dell’abbonamento e ricevono il ruolo di amministratore del prodotto di Adobe all’interno dell’applicazione Marketo (insieme a tutti gli altri ruoli che avevano in precedenza) e dispongono del diritto Adobe ID all’abbonamento. Gli amministratori riceveranno due e-mail. Una indica che l’utente è assegnato come amministratore di prodotto Adobe, l’altra che indica che l’utente Adobe ID ha diritto al prodotto Marketo.
+Adobe eseguirà automaticamente la migrazione di tutti gli amministratori di Marketo con e-mail verificate. Quando gli amministratori di Marketo vengono migrati ad Adobe Identity, vengono aggiunti all’abbonamento Adobe Admin Console come amministratore di prodotto per l’abbonamento a Marketo e ricevono il ruolo di amministratore di prodotto Adobe all’interno dell’applicazione Marketo (insieme a tutti gli altri ruoli che avevano in precedenza) e dispongono del diritto Adobe ID all’abbonamento. Gli amministratori riceveranno due e-mail. Una indica che viene assegnato come amministratore di prodotto Adobe e l’altra che il relativo Adobe ID ha diritto al prodotto Marketo.
+
+>[!IMPORTANT]
+>
+>Per accedere al Marketo Engage con il tuo Adobe ID, devi fare clic sul pulsante **Accetta invito** nell&#39;e-mail per l&#39;adesione.
 
 **E-mail amministratore prodotto Marketo**
 
@@ -44,9 +48,9 @@ Adobe eseguirà automaticamente la migrazione di tutti gli amministratori di Mar
 
 ![](assets/migrating-to-adobe-identity-5.png)
 
-**Se il tuo abbonamento a Marketo ha meno di 75 utenti e non dispone di SSO in Marketo e/o nell&#39;organizzazione di Adobe**, Adobe eseguirà automaticamente la migrazione degli altri utenti. Questo flusso di lavoro mira a fornire il massimo livello di automazione e non è necessaria alcuna azione per eseguire la migrazione. Al termine della migrazione, Marketo Migration Console non verrà più visualizzato nell’area di navigazione di Marketo Admin e tutti gli utenti accederanno a Marketo utilizzando un Adobe ID.
+**Se il tuo abbonamento a Marketo ha meno di 75 utenti e non dispone di SSO in Marketo e/o nella tua organizzazione Adobe**, Adobe eseguirà automaticamente la migrazione degli altri utenti. Questo flusso di lavoro mira a fornire il massimo livello di automazione e non è necessaria alcuna azione per eseguire la migrazione. Al termine della migrazione, Marketo Migration Console non verrà più visualizzato nell’area di navigazione di Marketo Admin e tutti gli utenti accederanno a Marketo utilizzando un Adobe ID.
 
-**Se il tuo abbonamento a Marketo ha 75 o più utenti o ha un SSO in Marketo e/o nell&#39;organizzazione di Adobe**, gli amministratori di prodotto di Marketo avranno accesso allo strumento Self-Service User Migration di Migration Console all&#39;inizio della migrazione degli utenti e riceveranno un avviso tramite banner all&#39;accesso nella pagina My Marketo. L&#39;amministratore sarà responsabile del completamento della migrazione degli utenti mediante lo strumento di migrazione self-service degli utenti.
+**Se il tuo abbonamento a Marketo ha 75 o più utenti o ha un SSO in Marketo e/o nella tua organizzazione Adobe**, gli amministratori di prodotto Marketo avranno accesso allo strumento Self-Service User Migration (Migrazione utenti self-service) di Migration Console all&#39;inizio della migrazione degli utenti e riceveranno un avviso tramite banner al momento dell&#39;accesso alla pagina My Marketo. L&#39;amministratore sarà responsabile del completamento della migrazione degli utenti mediante lo strumento di migrazione self-service degli utenti.
 
 ![](assets/migrating-to-adobe-identity-6.png)
 
@@ -81,7 +85,7 @@ Successivamente, l’amministratore visualizzerà tre sezioni dello Stato.
 
 #### Verifica e-mail utente {#user-email-verification}
 
-Nella sezione Verifica e-mail utente, un amministratore può trovare lo stato corrente della verifica e-mail per gli utenti nell’abbonamento, prima della migrazione all’identità Adobe.
+Nella sezione Verifica e-mail utente, un amministratore può trovare lo stato corrente della verifica e-mail per gli utenti nell’abbonamento, prima della migrazione ad Adobe Identity.
 
 Un amministratore può visualizzare lo stato di verifica e-mail dell’abbonamento, la percentuale di utenti nell’abbonamento che hanno completato la verifica e-mail e il numero di utenti contrassegnati come ignorati. Lo stato viene segnalato in base allo stato della verifica e-mail di tutti gli utenti nell’abbonamento. L’amministratore può fare clic sul numero di utenti ignorati e passare alla scheda Migrazione utenti per visualizzarli.
 
@@ -93,7 +97,7 @@ L’e-mail di verifica può essere inviata nuovamente da un amministratore nelle
 
 #### Migrazione e attivazione degli utenti {#user-migration-and-activation}
 
-Nella sezione Migrazione e attivazione utenti, un amministratore può trovare lo stato corrente della migrazione utente totale e l’adesione all’Adobe Identity Management System.
+Nella sezione Migrazione e attivazione utenti, un amministratore può trovare lo stato corrente della migrazione utente totale e l’adesione al sistema Adobe Identity Management.
 
 Un amministratore può visualizzare la percentuale di utenti nella sottoscrizione che sono stati trasferiti a un Adobe ID o contrassegnati come Ignorati. Lo stato viene segnalato sullo stato della migrazione di tutti gli utenti a un Adobe ID nell’abbonamento, oppure viene contrassegnato come Ignorato e non verrà migrato. Quando gli utenti vengono trasferiti e autorizzati al Marketo Engage, o saltati, questo stato viene aggiornato.
 
@@ -123,7 +127,7 @@ Facendo clic sul pulsante **Estendi scadenza**, la data verrà aggiornata a una 
 
 ![](assets/migrating-to-adobe-identity-12.png)
 
-Se non completi la migrazione entro la data di scadenza, verrà visualizzato un Adobe.
+Adobe contatterà se non completi la migrazione entro la data di scadenza.
 
 ### Scheda Migrazione utenti {#user-migration-tab}
 
@@ -151,7 +155,7 @@ Quando l&#39;amministratore fa clic sul pulsante **Verifica e-mail**, riceverà 
 
 **Ignora e annulla migrazione utenti**
 
-Durante la migrazione degli utenti, è necessario eseguire o saltare la migrazione di tutti gli utenti. In base all&#39;Adobe, gli amministratori devono confermare che non verrà eseguita la migrazione di un utente e devono contrassegnare l&#39;utente come ignorato. In caso contrario, l’amministratore non sarà in grado di confermare il completamento della migrazione utente. Al termine della migrazione, tutti gli utenti ignorati perderanno l’accesso a Marketo.
+Durante la migrazione degli utenti, è necessario eseguire o saltare la migrazione di tutti gli utenti. Adobe richiede agli amministratori di confermare che non verrà eseguita la migrazione di un utente e che un amministratore contrassegni l’utente come ignorato. In caso contrario, l’amministratore non sarà in grado di confermare il completamento della migrazione utente. Al termine della migrazione, tutti gli utenti ignorati perderanno l’accesso a Marketo.
 
 >[!IMPORTANT]
 >
@@ -171,17 +175,17 @@ Per non saltare un utente, l’amministratore può selezionare l’utente deside
 >
 >Il pulsante &#39;Annulla migrazione&#39; sarà attivo solo se tutti gli utenti selezionati hanno uno stato di migrazione &#39;Ignorato&#39;.
 
-### Migrazione degli utenti Marketo agli ID Adobe {#migrating-marketo-users-to-adobe-ids}
+### Migrazione degli utenti Marketo agli Adobe ID {#migrating-marketo-users-to-adobe-ids}
 
 Gli amministratori di prodotto Marketo potranno selezionare gli utenti da migrare in batch o tutti gli utenti idonei contemporaneamente. Una volta selezionati gli utenti, gli amministratori possono scegliere &quot;Migra ora&quot; o &quot;Pianifica migrazione&quot; per una data successiva, offrendo agli amministratori flessibilità e controllo su quali utenti vengono migrati e quando. Agli amministratori viene inoltre offerta l’opzione &quot;Migra tutti gli utenti&quot; in un abbonamento.
 
-Ad esempio, un amministratore può selezionare un gruppo di &quot;utenti avanzati&quot; di cui si desidera eseguire prima la migrazione. Una volta completate correttamente le migrazioni degli utenti, è possibile selezionare diversi gruppi di utenti in base a variabili quali workspace/business o funzione/ruolo per eseguire ulteriori migrazioni batch degli utenti. In alternativa, può decidere di eseguire la migrazione degli altri utenti degli abbonamenti dopo il completamento del primo batch. L’obiettivo è fornire agli utenti la massima flessibilità nella distribuzione degli ID Adobi.
+Ad esempio, un amministratore può selezionare un gruppo di &quot;utenti avanzati&quot; di cui si desidera eseguire prima la migrazione. Una volta completate correttamente le migrazioni degli utenti, è possibile selezionare diversi gruppi di utenti in base a variabili quali workspace/business o funzione/ruolo per eseguire ulteriori migrazioni batch degli utenti. In alternativa, può decidere di eseguire la migrazione degli altri utenti degli abbonamenti dopo il completamento del primo batch. L’obiettivo è fornire agli utenti la massima flessibilità nella distribuzione degli Adobe ID.
 
-Tutte le migrazioni degli utenti avvengono contemporaneamente e dovrebbero essere completate correttamente entro sessanta secondi. Durante la migrazione di un utente specifico, l’utente potrebbe perdere l’accesso per un massimo di 1 minuto e ciò solo se ha effettuato l’accesso all’applicazione. Al termine della migrazione utente, l’utente riceverà un’e-mail su come accedere al Marketo Engage con un’identità Adobe. L’utente deve accettare l’invito tramite il collegamento del pulsante nell’e-mail. Dopo aver accettato l’invito, l’utente deve accedere con un Adobe ID. Le istruzioni su come accedere al Marketo Engage con un Adobe ID [ sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
+Tutte le migrazioni degli utenti avvengono contemporaneamente e dovrebbero essere completate correttamente entro sessanta secondi. Durante la migrazione di un utente specifico, l’utente potrebbe perdere l’accesso per un massimo di 1 minuto e ciò solo se ha effettuato l’accesso all’applicazione. Al termine della migrazione utente, l’utente riceverà un’e-mail su come accedere al Marketo Engage con un’identità Adobe. L&#39;utente deve accettare l&#39;invito tramite il collegamento del pulsante nell&#39;e-mail _prima_ di poter accedere con le istruzioni di Adobe ID su come accedere al Marketo Engage con un Adobe ID [sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md).
 
 ![](assets/migrating-to-adobe-identity-18.png)
 
-Le migrazioni degli utenti vengono elaborate in modo indipendente; pertanto, se una migrazione non riesce, Adobe continuerà a elaborare le migrazioni degli altri utenti. Se si verifica un errore di migrazione utente, non è richiesta alcuna azione da parte di un amministratore. L’amministratore riceverà una notifica e-mail relativa all’errore e verrà avvisato che l’Adobe è in grado di risolvere il problema immediatamente. Se la migrazione di un utente non riesce e l’utente è connesso al Marketo Engage, potrebbe perdere l’accesso per un massimo di due minuti durante i nuovi tentativi di migrazione. Se la migrazione di un utente non riesce, l’utente può continuare ad accedere al Marketo Engage con la propria identità Marketo fino a quando non riceve una notifica e-mail di avvenuta migrazione e viene invitato ad accedere con un Adobe ID.
+Le migrazioni degli utenti vengono elaborate in modo indipendente; pertanto, se una migrazione non riesce, Adobe continuerà a elaborare le migrazioni degli altri utenti. Se si verifica un errore di migrazione utente, non è richiesta alcuna azione da parte di un amministratore. L’amministratore riceverà una notifica e-mail relativa all’errore e verrà avvisato che Adobe sta lavorando per risolvere il problema immediatamente. Se la migrazione di un utente non riesce e l’utente è connesso al Marketo Engage, potrebbe perdere l’accesso per un massimo di due minuti durante i nuovi tentativi di migrazione. Se la migrazione di un utente non riesce, l’utente può continuare ad accedere al Marketo Engage con la propria identità Marketo fino a quando non riceve una notifica e-mail di avvenuta migrazione e viene invitato ad accedere con un Adobe ID.
 
 ![](assets/migrating-to-adobe-identity-19.png)
 
