@@ -4,9 +4,9 @@ description: Aggiunta del Single Sign-On a un portale - Documentazione Marketo -
 title: Aggiungere il Single Sign-On a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: c46800149cc517e3684db150e1f7b415f0a5783e
+source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '606'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!IMPORTANT]
 >
->Questo non si applica alle sottoscrizioni a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. [Ulteriori informazioni](https://helpx.adobe.com/enterprise/using/set-up-identity.html){target="_blank"}.
+>Questo non si applica alle sottoscrizioni a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. Al momento, Adobe Admin Console supporta solo gli SP avviati. [Ulteriori informazioni](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -40,7 +40,7 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!NOTE]
 >
->Marketo supporta solo le operazioni avviate dal provider di identità (note anche come avviate da IdP), in cui l’utente avvia per la prima volta la pagina di accesso Idp, si autentica e poi passa a Il mio Marketo.
+>Marketo supporta solo le pagine avviate dal provider di identità (note anche come avviate da IdP), in cui l’utente avvia per la prima volta la pagina di accesso IdP, si autentica e poi passa a Il mio Marketo. Se la sottoscrizione a Marketo è stata spostata in Admin Console, al momento Adobe Admin Console supporta solo le sottoscrizioni avviate dal provider di servizi (note anche come avviate da SP). Potrebbero essere state apportate modifiche nell&#39;esperienza SSO.
 
 ## Note aggiuntive {#additional-notes}
 
