@@ -4,9 +4,10 @@ title: Modelli e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1683'
+source-wordcount: '1732'
 ht-degree: 1%
 
 ---
@@ -18,6 +19,10 @@ Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-
 >[!IMPORTANT]
 >
 >Questo articolo è solo per i membri del nuovo Marketo Engage E-mail Designer beta. Non divulgare.
+
+>[!PREREQUISITES]
+>
+>Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >

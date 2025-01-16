@@ -4,9 +4,10 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 17739fcc03bdcdee9f55cfc1f1776ac76003ea55
+exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
+source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1504'
 ht-degree: 1%
 
 ---
@@ -18,6 +19,10 @@ Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuo
 >[!IMPORTANT]
 >
 >Questo articolo è solo per i membri del nuovo Marketo Engage E-mail Designer beta. Non divulgare.
+
+>[!PREREQUISITES]
+>
+>Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Creare un messaggio e-mail {#create-an-email}
 
