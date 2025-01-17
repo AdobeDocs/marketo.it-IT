@@ -3,9 +3,9 @@ description: Criteri di pubblico - Documentazione di Marketo - Documentazione de
 title: Criteri di audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: d255c1c4c15d5aca5d89687f50ee0e6f0dedfb7d
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '605'
 ht-degree: 1%
 
 ---
@@ -98,7 +98,7 @@ Utilizza gli elenchi avanzati di Marketo Engage per il pubblico di destinazione 
 
 >[!AVAILABILITY]
 >
->Il membro di un elenco avanzato o il criterio del membro di un elenco richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Il membro di un elenco avanzato o il criterio Membro di un elenco richiede Prime di Dynamic Chat. Per ulteriori informazioni, contatta il team dell’account Adobe (il tuo Account Manager).
 
 1. In Appartenenza, acquisire **[!UICONTROL Membro di Smart List]** e rilasciarlo nell&#39;area di lavoro.
 
@@ -129,7 +129,9 @@ Formati accettabili:
 
 >[!NOTE]
 >
->L&#39;utilizzo di un asterisco funge da carattere jolly catch-all. Pertanto `https://*.website.com` inserirebbe la finestra di dialogo in ogni pagina del sito, inclusi i sottodomini (esempio: `support.website.com`). E `https://website.com/folder/*` inserirebbe la finestra di dialogo in ogni pagina HTML nella cartella successiva (es: in questo caso diciamo che la cartella è &quot;sport&quot;, quindi: website.com/sports/baseball.html, website.com/sports/football.html, ecc.).
+>* L&#39;utilizzo di un asterisco funge da carattere jolly catch-all. Pertanto `https://*.website.com` inserirebbe la finestra di dialogo in ogni pagina del sito, inclusi i sottodomini (esempio: `support.website.com`). E `https://website.com/folder/*` inserirebbe la finestra di dialogo in ogni pagina HTML nella cartella successiva (es: in questo caso diciamo che la cartella è &quot;sport&quot;, quindi: website.com/sports/baseball.html, website.com/sports/football.html, ecc.).
+>
+>* I parametri URL non sono attualmente supportati.
 
 **Esclusioni**
 
