@@ -4,7 +4,7 @@ description: Informazioni su Content Analytics - Documentazione di Marketo - Doc
 title: Informazioni sull’analisi dei contenuti
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 1%
@@ -48,11 +48,11 @@ La tabella Analytics fornisce i seguenti dettagli:
    <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Fai clic su <strong>Titolo</strong> per aprire l'URL del contenuto in una nuova scheda.</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Consiglio </strong><strong>Icona</strong></p><p><strong><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Consiglio </strong><strong>Icona</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Content Recommendations</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Visualizzazioni</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>Viste</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Il numero di visualizzazioni dalla risorsa contenuto da parte dei visitatori web. Il numero di volte in cui è stato visualizzato, aperto, guardato o scaricato. Fai clic sul numero di nella colonna Visualizzazioni per espandere e vedere chi ha visualizzato il contenuto</p></td> 
   </tr> 
   <tr> 
@@ -60,7 +60,7 @@ La tabella Analytics fornisce i seguenti dettagli:
    <td colspan="1" rowspan="1">Visitatori web che hanno visualizzato il contenuto e compilato un modulo nel corso della stessa visita</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><p><strong>Icona Analytics</strong></p><p><strong><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></strong></p></td> 
+   <td colspan="1"><p><strong>Icona Analytics</strong></p><p><img alt="--" width="17" src="assets/analytics-icon.png" data-linked-resource-id="10097027" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
    <td colspan="1">Ulteriori informazioni analitiche sul contenuto</td> 
   </tr> 
   <tr> 

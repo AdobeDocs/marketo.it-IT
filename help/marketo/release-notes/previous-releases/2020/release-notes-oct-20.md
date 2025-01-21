@@ -4,7 +4,7 @@ description: Note sulla versione - 20 ottobre - Documentazione di Marketo - Docu
 title: Note sulla versione - Ottobre 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
 workflow-type: tm+mt
 source-wordcount: '957'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 ## E-mail marketing {#email-marketing}
 
-* **Incremento e-mail in batch ![(stella)](assets/yellow-star.png)**: invia più e-mail con una velocità effettiva maggiore, fino a 5 milioni di e-mail in batch all&#39;ora. Le opzioni di recapito e-mail estese eliminano la necessità di attendere tra i batch di e-mail: invia tutte le e-mail in tempo e secondo la pianificazione.
+* **Incremento e-mail in batch** ![(stella)](assets/yellow-star.png): invia più e-mail con una velocità effettiva maggiore, fino a 5 milioni di e-mail in batch all&#39;ora. Le opzioni di recapito e-mail estese eliminano la necessità di attendere tra i batch di e-mail: invia tutte le e-mail in tempo e secondo la pianificazione.
 
 ## Marketing per siti Web {#website-marketing}
 
@@ -41,9 +41,9 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 ## Integrazione CRM {#crm-integration}
 
-* **Sincronizzazione CRM Salesforce**: identifica e correggi gli errori e gli errori di sincronizzazione con due nuovi dashboard di sincronizzazione ed errori Salesforce. Monitora gli aggiornamenti, le eliminazioni e gli errori dei nuovi record e il completamento del processo di sincronizzazione. I report possono essere filtrati per data, tipo di operazione o tipo di oggetto.
+* **Sincronizzazione di Salesforce CRM**: identificare e correggere gli errori e gli errori di sincronizzazione con due nuovi dashboard di sincronizzazione ed errori di Salesforce. Monitora gli aggiornamenti, le eliminazioni e gli errori dei nuovi record e il completamento del processo di sincronizzazione. I report possono essere filtrati per data, tipo di operazione o tipo di oggetto.
 
-* **Integrazione con Microsoft Dynamics 365**: registrazione automatizzata di lead e contatti nelle campagne Microsoft Dynamics 365. Aggiungi o rimuovi facilmente lead e contatti di Marketo Engage alle campagne MS Dynamics con nuove azioni di flusso per campagne intelligenti. Trasmettere senza problemi i lead dal marketing alle vendite e chiudere le offerte più rapidamente.
+* **Integrazione di Microsoft Dynamics 365**: registrazione automatizzata di lead e contatti nelle campagne Microsoft Dynamics 365. Aggiungi o rimuovi facilmente lead e contatti di Marketo Engage alle campagne MS Dynamics con nuove azioni di flusso per campagne intelligenti. Trasmettere senza problemi i lead dal marketing alle vendite e chiudere le offerte più rapidamente.
 
 ## Targeting di media a pagamento {#paid-media-targeting}
 
@@ -57,7 +57,7 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 * **Gestione campi**: è possibile trovare facilmente i nomi dei campi API con la nuova funzionalità di immissione dei metadati nel record di campo. Non è necessario esportare tutti i campi in fogli di calcolo per individuare il nome del campo. Crea integrazioni con le app di LaunchPoint, connetti database o utilizza le API aperte in qualsiasi modo che si adatti alla tua organizzazione.
 
-* **Nuove opzioni di esportazione metadati**: esporta i metadati di oggetti personalizzati per gli oggetti personalizzati selezionati in un foglio di calcolo per facilitarne la condivisione. Inoltre, è possibile esportare i metadati di uno o tutti gli oggetti di abbonamento, ad esempio lead, azienda, attività standard e personalizzate, tag e canali. I dati possono essere estratti dagli amministratori e condivisi rapidamente con i team di progettazione a scopo di analisi e progettazione.
+* **Nuove opzioni di esportazione metadati**: esporta i metadati di oggetti personalizzati per gli oggetti personalizzati selezionati in un foglio di calcolo per facilitarne la condivisione. Inoltre, è possibile esportare i metadati di uno o tutti gli oggetti abbonamento, ad esempio lead, azienda, attività standard e personalizzate, tag e canali. I dati possono essere estratti dagli amministratori e condivisi rapidamente con i team di progettazione a scopo di analisi e progettazione.
 
 * **Campo personalizzato opportunità**: ulteriori informazioni sui record opportunità con i campi personalizzati opportunità visualizzati nel Marketo Engage. Visualizza i dati dei campi personalizzati dell’opportunità da Salesforce CRM, Microsoft Dynamics 365 CRM, integrazioni native di vendita o tramite altre integrazioni API. La visibilità completa dei dettagli e della pipeline delle opportunità consente di coordinare il coinvolgimento con le attività di vendita, aumentare le conversioni e contribuire a chiudere più rapidamente le offerte.
 
@@ -73,7 +73,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ## Annunci ed elementi obsoleti {#announcements-deprecations}
 
-* **Nuovo aspetto Marketo Engage**: le nuove versioni dei grafici a linee, a barre, a colonne e a torta forniscono visualizzazioni aggiornate in tutto il Marketo Engage, incluse le attività di marketing, tutte le funzioni di reporting e la visualizzazione dei dati visualizzata nelle attività di marketing. Questo aggiornamento risponde al fatto che il Flash Adobe ha raggiunto la fine del ciclo di vita il 31 dicembre 2020.
+* **Nuovo aspetto Marketo Engage**: le nuove versioni dei grafici a linee, a barre, a colonne e a torta forniscono visualizzazioni aggiornate in tutto il Marketo Engage, incluse le attività di marketing, tutte le funzioni di reporting e la visualizzazione dei dati visualizzata nelle attività di marketing. Questo aggiornamento è una risposta al fatto che l’Adobe Flash ha raggiunto la fine del ciclo di vita il 31 dicembre 2020.
 
 * **Aggiornamenti a ruoli utente e autorizzazioni**: l&#39;autorizzazione di importazione avanzata degli elenchi diventerà obsoleta nella prossima versione per semplificare la gestione di ruoli e autorizzazioni. Le autorizzazioni di importazione degli elenchi esistenti nelle attività di marketing e nel database lead abilitano le opzioni di importazione degli elenchi necessarie nelle rispettive aree dell’app.
 
