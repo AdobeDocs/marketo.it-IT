@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 50c60e6b82215f59ec20e4872ff7a72edbb3681f
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '551'
 ht-degree: 3%
 
 ---
@@ -32,8 +32,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:25%">Documentazione</th>
   </tr>
     <tr> 
-   <td><strong>Nuovo Designer e-mail</strong>: crea e-mail moderne ed efficienti utilizzando il nuovo Designer e-mail nativo nel Marketo Engage. Accedi a uno dei modelli e-mail predefiniti oppure creane facilmente uno tuo. Utilizza i contenuti dinamici e accedi alle immagini da Adobe Experience Manager Cloud Services.
-   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell'account Adobe (il tuo account manager) o il <a href="https://nation.marketo.com/t5/support/ct-p/Support">supporto Marketo</a>.</td> 
+   <td><strong>Nuovo Designer e-mail</strong>: crea e-mail moderne ed efficienti utilizzando il nuovo Designer e-mail nativo nel Marketo Engage. Accedi a uno dei modelli e-mail predefiniti oppure creane facilmente uno tuo. Utilizza i contenuti dinamici e accedi alle immagini da Adobe Experience Manager Cloud Services. Utilizza la funzionalità Content Accelerator Gen-AI per creare e-mail innovative e performanti su larga scala.
+   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell'account Adobe (il tuo account manager) o il <a href="https://nation.marketo.com/t5/support/ct-p/Support">supporto Marketo</a>. Per accedere alla funzionalità Content Accelerator Gen-AI, contatta il team dell’account Adobe.</td>
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
