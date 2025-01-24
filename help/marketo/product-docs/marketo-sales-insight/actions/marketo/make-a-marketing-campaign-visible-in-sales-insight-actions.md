@@ -3,9 +3,9 @@ description: Rendere visibile una campagna di marketing nelle azioni di approfon
 title: Rendere visibile una campagna di marketing nelle azioni di approfondimento sulle vendite
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 696353c74fd14fe72699fb53a87cfed5e9c42d51
+source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '300'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Con le azioni di approfondimento sulle vendite, gli utenti avranno accesso a una
 
    >[!NOTE]
    >
-   >Se desideri mostrare la campagna di marketing agli utenti che utilizzano _Aggiungi alla campagna di marketing_ dall&#39;app Web toutapp.com (anche se l&#39;app Web è incorporata nel CRM tramite l&#39;oggetto Marketo Sales Outbox), impostala su &quot;Web Service API&quot;. Se desideri che la campagna di marketing venga visualizzata quando un utente utilizza le azioni nel pannello MSI di Salesforce sul lead, contatto, pagina dell’account o i pulsanti di azione collettiva nelle visualizzazioni lead e elenco contatti, aggiornala in &quot;Informazioni sulle vendite&quot;
+   >Se desideri mostrare la campagna di marketing agli utenti che utilizzano _Aggiungi alla campagna di marketing_ dall&#39;app Web toutapp.com (anche se l&#39;app Web è incorporata nel sistema CRM tramite l&#39;oggetto Marketo Sales Outbox), imposta l&#39;origine richiesta di Campaign su &quot;Web Service API&quot;. Se desideri che la campagna di marketing venga visualizzata quando un utente utilizza le azioni nel pannello MSI di Salesforce sul lead, il contatto, la pagina dell’account o i pulsanti di azione collettiva nelle visualizzazioni elenco lead e contatti, aggiorna l’origine richiesta della campagna in &quot;Informazioni sulle vendite&quot;
 
 1. Fare clic sulla scheda **Flusso**.
 
