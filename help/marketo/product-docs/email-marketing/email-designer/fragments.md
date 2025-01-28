@@ -3,27 +3,27 @@ title: Frammenti
 description: Scopri come creare e utilizzare frammenti di contenuto visivo come componenti riutilizzabili per e-mail e modelli e-mail.
 hide: true
 hidefromtoc: true
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+source-git-commit: b9c1ffef43f18aa504d23b3101cfab896800537f
 workflow-type: tm+mt
-source-wordcount: '2558'
-ht-degree: 2%
+source-wordcount: '2428'
+ht-degree: 3%
 
 ---
 
 # Frammenti
 
-Un frammento è un componente riutilizzabile a cui è possibile fare riferimento in uno o più modelli e-mail e e-mail. In genere si tratta di un blocco di contenuto (testo, immagine o entrambi) che può essere creato e inserito rapidamente in un modello e-mail o e-mail. Con questa funzionalità, puoi precreare più blocchi di contenuto personalizzati da utilizzare da parte dei membri del team di marketing per assemblare contenuti e-mail e migliorare così il processo di progettazione. I casi d’uso comuni includono blocchi di contenuto di intestazione/piè di pagina per e-mail, banner di invito di eventi, messaggi stagionali e altro ancora.
+Un frammento è un componente riutilizzabile a cui è possibile fare riferimento in uno o più modelli e-mail e e-mail. In genere si tratta di un blocco di contenuto (testo, immagine o entrambi) che può essere creato e inserito rapidamente nel progetto. Con questa funzionalità, puoi precreare più blocchi di contenuto personalizzati da utilizzare da parte dei membri del team di marketing per assemblare contenuti e-mail e migliorare il processo di progettazione. I casi d’uso comuni includono blocchi di contenuto di intestazione/piè di pagina per e-mail, banner di invito di eventi, messaggi stagionali e altro ancora.
 
 Per utilizzare al meglio i frammenti nei flussi di lavoro:
 
 * _Crea frammenti personalizzati_ - Crea frammenti visivi da zero o salvando il contenuto come frammento dall&#39;editor di contenuti visivi.
 * _Riutilizza frammenti_ - Puoi utilizzarli nel contenuto per il numero di volte necessario.
 
-## Frammenti visivi
+## Frammenti visivi {#visual-fragments}
 
 I frammenti visivi sono blocchi visivi predefiniti creati utilizzando l’editor di contenuto visivo che puoi riutilizzare in più e-mail o modelli e-mail.
 
-## Accedere e gestire i frammenti
+## Accedere e gestire i frammenti {#access-and-manage-fragments}
 
 Per accedere ai frammenti visivi, vai alla navigazione a sinistra e fai clic su **[!UICONTROL Gestione contenuto]** > **[!UICONTROL Frammenti]**. Questa azione apre una pagina di elenco con tutti i frammenti creati nell’istanza elencata in una tabella.
 
@@ -49,7 +49,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un me
   </td>
   <tr>
     <td><b>Pubblicato</b></td>
-    <td>Quando pubblichi un frammento, questo diventa disponibile per l’utilizzo in un’e-mail o in un modello e-mail. Il contenuto di un frammento pubblicato non può essere modificato nella finestra di progettazione visiva.
+    <td>Quando pubblichi un frammento, questo diventa disponibile per l’utilizzo in un’e-mail o in un modello e-mail. Il contenuto del frammento pubblicato non può essere modificato nella finestra di progettazione visiva.
     <p>Azioni disponibili:
     <li>Modifica descrizione</li>
     <li>Aggiungi a un messaggio e-mail o a un modello</li>
@@ -74,38 +74,31 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un me
 
 SCHERMATA
 
->[!IMPORTANT]
->
->Lo stato del frammento è stato introdotto nella versione di agosto di Journey Optimizer B2B edition. Tutti i frammenti creati prima di questa versione hanno lo stato _Bozza_, anche se vengono utilizzati in un messaggio e-mail o in un modello. Se apporti modifiche a questi frammenti, devi pubblicare il frammento per propagare le modifiche.
+### Filtrare l’elenco dei frammenti {#filter-the-fragments-list}
 
-### Filtrare l’elenco dei frammenti
-
-Per cercare un frammento in base al nome, immetti una stringa di testo nella barra di ricerca per trovare una corrispondenza. Fai clic sull&#39;icona _Filtro_ ( ![Mostra o nascondi icona filtri](../assets/do-not-localize/icon-filter.svg) ) per visualizzare le opzioni di filtro disponibili e modificare le impostazioni per filtrare gli elementi visualizzati in base ai criteri specificati.
+Utilizza la barra di ricerca per trovare un frammento in base al nome. Fai clic sull&#39;icona _Filtro_ ( ![Mostra o nascondi icona filtri](../assets/do-not-localize/icon-filter.svg) ) per visualizzare le opzioni di filtro disponibili e scegliere le impostazioni desiderate.
 
 SCHERMATA
 
-### Personalizzare la visualizzazione delle colonne
+### Personalizzare la visualizzazione delle colonne {#customize-the-column-display}
 
 Personalizza le colonne da visualizzare nella tabella facendo clic sull&#39;icona _Personalizza tabella_ ( ![Personalizza icona tabella](../assets/do-not-localize/icon-column-settings.svg) ) in alto a destra.
 
-Nella finestra di dialogo, seleziona le colonne da visualizzare e fai clic su **[!UICONTROL Applica]**.
+Nella finestra di dialogo, seleziona le colonne desiderate e fai clic su **[!UICONTROL Applica]**.
 
 SCHERMATA
 
-## Creare i frammenti
+## Creare i frammenti {#create-fragments}
 
-Per creare nuovi frammenti visivi in Journey Optimizer B2B edition, fai clic su **[!UICONTROL Crea frammento]** in alto a destra.
+Crea un nuovo frammento visivo facendo clic su **[!UICONTROL Crea frammento]** in alto a destra.
 
-1. Nella finestra di dialogo _[!UICONTROL Crea frammento]_, immetti un **[!UICONTROL Nome]** e una **[!UICONTROL Descrizione]** utili (facoltativi).
+1. Nella finestra di dialogo _[!UICONTROL Crea frammento]_, immetti un **[!UICONTROL Nome]** e una **[!UICONTROL Descrizione]** facoltativa.
 
    Requisiti dei frammenti:
 
    * Nome: massimo 100 caratteri, deve essere univoco, senza distinzione tra maiuscole e minuscole
-
    * Descrizione: massimo 300 caratteri
-
-   * Sono consentiti caratteri Alpha, numerici e speciali
-
+   * Alpha, caratteri numerici e speciali sono ammessi
    * I caratteri riservati sono **_non consentiti_**: `\ / : * ? " < > |`
 
 SCHERMATA
@@ -126,7 +119,7 @@ SCHERMATA
 
 1. Quando sei pronto a rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Publish]**.
 
-### Aggiungere struttura e contenuto {#design-fragment}
+### Aggiungere struttura e contenuto {#add-structure-and-content}
 
 >[!CONTEXTUALHELP]
 >id="ajo-b2b_structure_components_fragment"
@@ -156,13 +149,13 @@ SCHERMATA
 
 {{$include /help/_includes/content-design-links.md}}
 
-## Visualizza dettagli frammento
+## Visualizza dettagli frammento {#view-fragment-details}
 
 Fai clic sul nome di un frammento nella pagina dell’elenco per aprire la pagina dei dettagli del frammento. Puoi scegliere di modificare il frammento, rinominarlo o aggiornare la descrizione del frammento. Per salvare automaticamente le modifiche, apporta gli aggiornamenti e fai clic all’esterno del campo nome o descrizione.
 
 >[!NOTE]
 >
->Se un frammento pubblicato è utilizzato da un’e-mail o da un modello e-mail, non puoi modificare il nome o il contenuto. Puoi creare una versione bozza se desideri apportare modifiche al frammento.
+>Se un frammento pubblicato è utilizzato da un’e-mail o da un modello e-mail, non puoi modificarne il nome o il contenuto. Puoi creare una versione bozza se desideri apportare modifiche al frammento.
 
 SCHERMATA
 
@@ -170,23 +163,23 @@ Fai clic su **[!UICONTROL Modifica frammento]** per aprire il frammento nell&#39
 
 Uscire dalla visualizzazione in qualsiasi momento facendo clic sulla freccia _Indietro_ in alto a sinistra, per tornare alla pagina dell&#39;elenco _Frammenti_.
 
-## Visualizza frammento utilizzato da riferimenti
+## Visualizza frammento utilizzato da riferimenti {#view-fragment-used-by-references}
 
-Nella pagina dei dettagli del frammento, fai clic sulla scheda **[!UICONTROL Usato da]** per visualizzare i dettagli sulla posizione in cui il frammento è attualmente utilizzato in Journey Optimizer B2B edition, nelle e-mail, nei modelli e-mail e nei frammenti.
+Nella pagina dei dettagli del frammento, fai clic sulla scheda **[!UICONTROL Usato da]** per visualizzare i dettagli sulla posizione in cui il frammento viene utilizzato all&#39;interno del Marketo Engage.
 
 >[!IMPORTANT]
 >
->Non è possibile eliminare i frammenti attualmente utilizzati da e-mail o modelli e-mail.
+>Non è possibile eliminare un frammento attualmente utilizzato da un’e-mail o da un modello e-mail.
 
-I riferimenti vengono visualizzati in base alla categoria: _E-mail_ o _Modello e-mail_. Le e-mail in Journey Optimizer B2B edition sono incorporate e create all’interno di percorsi di account, pertanto il percorso principale dell’e-mail che utilizza il frammento viene visualizzato in riferimenti.
+I riferimenti vengono visualizzati in base alla categoria: _E-mail_ o _Modello e-mail_. Le e-mail in Journey Optimizer B2B edition sono incorporate e create all’interno di percorsi di account, pertanto il percorso principale dell’e-mail che utilizza il frammento viene visualizzato in riferimenti. &lt;— COSA DIRE DI QUESTA PARTE, NILESH
 
 SCHERMATA
 
 Fai clic sul collegamento per aprire l’e-mail o il modello e-mail corrispondente in cui viene utilizzato il frammento.
 
-## Elimina frammenti
+## Elimina frammenti {#delete-fragments}
 
-Qualsiasi frammento attualmente utilizzato da un messaggio e-mail o da un modello e-mail non può essere eliminato. Prima di avviare la rimozione di un frammento, assicurati di controllare i riferimenti a _usato da_. Inoltre, una rimozione non può essere annullata, pertanto controlla prima di avviare un’azione di eliminazione.
+Poiché non è possibile eliminare un frammento attualmente utilizzato da un messaggio e-mail o da un modello e-mail, controlla i riferimenti _used-by_ prima di avviare la rimozione di un frammento. Inoltre, una rimozione non può essere annullata, pertanto controlla prima di avviare un’azione di eliminazione.
 
 Puoi eliminare un frammento utilizzando uno dei seguenti metodi:
 
@@ -194,10 +187,6 @@ Puoi eliminare un frammento utilizzando uno dei seguenti metodi:
 * Nella pagina dell&#39;elenco _[!UICONTROL Frammenti]_, fare clic sui puntini di sospensione accanto al frammento e scegliere **[!UICONTROL Elimina]**.
 
 Questa azione apre una finestra di dialogo di conferma. È possibile interrompere il processo facendo clic su **[!UICONTROL Annulla]** oppure su **[!UICONTROL Elimina]** per confermare l&#39;eliminazione.
-
-SCHERMATA
-
-Se il frammento è attualmente in uso, l’azione apre una finestra di dialogo informativa che avvisa che non è possibile eliminarlo. Fare clic su **[!UICONTROL OK]** per interrompere l&#39;azione di eliminazione.
 
 SCHERMATA
 
@@ -217,7 +206,7 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
    Viene visualizzata un’anteprima del contenuto visivo, con i dettagli del frammento a destra.
 
-1. Modifica uno dei dettagli, ad esempio nome e descrizione.
+1. Apportare le modifiche desiderate.
 
 SCHERMATA
 
@@ -295,7 +284,7 @@ Per aggiornare il contenuto:
 
 >[!ENDTABS]
 
-## Frammenti duplicati
+## Frammenti duplicati {#duplicate-fragments}
 
 Puoi duplicare un frammento utilizzando uno dei seguenti metodi:
 
@@ -304,17 +293,17 @@ Puoi duplicare un frammento utilizzando uno dei seguenti metodi:
 
 SCHERMATA
 
-Nella finestra di dialogo, inserisci un nome utile (univoco) e una descrizione. Fai clic su **[!UICONTROL Duplica]** per completare l&#39;azione.
+Nella finestra di dialogo, inserisci un nome univoco e una descrizione facoltativa. Fai clic su **[!UICONTROL Duplica]** per completare l&#39;azione.
 
 SCHERMATA
 
-Il frammento duplicato (nuovo) viene quindi visualizzato nell&#39;elenco _Frammenti_.
+Il frammento duplicato viene quindi visualizzato nell&#39;elenco _Frammenti_.
 
-## Salvare un nuovo frammento da e-mail o contenuto del modello
+## Salvare un nuovo frammento da e-mail o contenuto del modello {#save-a-new-fragment-from-email-or-template-content}
 
 Quando crei/modifichi un modello e-mail o e-mail nell’editor di contenuto visivo, puoi scegliere di salvare tutto o parte del contenuto come frammento in modo che sia disponibile per il riutilizzo.
 
-1. Quando hai del contenuto da salvare come frammento, fai clic su **[!UICONTROL Altro]** e scegli **[!UICONTROL Salva come frammento]**.
+1. Per salvare il contenuto come frammento, fare clic su **[!UICONTROL Altro]** e scegliere **[!UICONTROL Salva come frammento]**.
 
 1. Seleziona i diversi elementi da includere nel frammento.
 
@@ -324,19 +313,21 @@ Quando crei/modifichi un modello e-mail o e-mail nell’editor di contenuto visi
 
 1. Con il contenuto selezionato, fai clic su **[!UICONTROL Crea]** in alto a destra.
 
-1. Nella finestra di dialogo, immetti un nome e una descrizione utili per il frammento. Quindi fare clic su **[!UICONTROL Crea]**.
+1. Nella finestra di dialogo, immetti un nome e una descrizione facoltativa per il frammento. Quindi fare clic su **[!UICONTROL Crea]**.
 
-   Il nuovo frammento viene quindi visualizzato nella pagina di elenco _Frammenti_ ed è disponibile anche all&#39;interno di e-mail e modelli di e-mail.
+   Il frammento viene quindi visualizzato nella pagina di elenco _Frammenti_ ed è disponibile anche per l&#39;utilizzo nelle e-mail e nei modelli e-mail.
 
-## Aggiungere frammenti visivi all’e-mail o al contenuto del modello
+## Aggiungere frammenti visivi all’e-mail o al contenuto del modello {#add-visual-fragments-to-your-email-or-template-content}
 
-I frammenti sono progettati per il riutilizzo e possono essere inseriti per la creazione di modelli e-mail e e-mail. Puoi aggiungere fino a 30 frammenti in un messaggio e-mail o in un modello. I frammenti possono essere nidificati fino a un solo livello.
+I frammenti sono progettati per essere riutilizzati e puoi aggiungerne fino a 30 in un modello e-mail o e-mail. I frammenti possono essere nidificati fino a un solo livello.
 
 >[!BEGINTABS]
 
 >[!TAB Aggiungere frammenti a un&#39;e-mail]
 
-1. Passa a **[!UICONTROL Percorsi di account]** e apri un percorsi percorso esistente o creane uno nuovo.
+1. Passa a **[!UICONTROL Percorsi di account]** e apri un percorsi percorso esistente o creane uno nuovo. &lt;— RICONTROLLA
+
+----------HA SMESSO DI MODIFICARE QUI---------
 
 1. Crea un nodo [_[!UICONTROL Invia e-mail ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
 
