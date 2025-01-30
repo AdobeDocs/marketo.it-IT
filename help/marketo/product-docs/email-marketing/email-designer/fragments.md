@@ -3,10 +3,11 @@ title: Frammenti
 description: Scopri come creare e utilizzare frammenti di contenuto visivo come componenti riutilizzabili per e-mail e modelli e-mail.
 hide: true
 hidefromtoc: true
-source-git-commit: 32aff679ec2de3f4ff93f89ac298b1fec3cb9792
+exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '2429'
-ht-degree: 3%
+source-wordcount: '2371'
+ht-degree: 1%
 
 ---
 
@@ -25,13 +26,13 @@ I frammenti visivi sono blocchi visivi predefiniti creati utilizzando l’editor
 
 ## Accedere e gestire i frammenti {#access-and-manage-fragments}
 
-Per accedere ai frammenti visivi, vai alla navigazione a sinistra e fai clic su **[!UICONTROL Gestione contenuto]** > **[!UICONTROL Frammenti]**. Questa azione apre una pagina di elenco con tutti i frammenti creati nell’istanza elencata in una tabella.
+Per accedere ai frammenti visivi, passare a Design Studio. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Frammenti (nuovi)]**.
 
 SCHERMATA
 
-La tabella è ordinata in base alla colonna _[!UICONTROL Modificato]_, con i frammenti aggiornati più di recente nella parte superiore per impostazione predefinita. Fai clic sul titolo della colonna per passare da crescente a decrescente.
+Per impostazione predefinita, la tabella è ordinata in base alla colonna _[!UICONTROL Modificato]_, con i frammenti aggiornati più di recente nella parte superiore. Fare clic su altri titoli di colonna per modificare l&#39;ordinamento. Fai di nuovo clic su per passare da crescente a decrescente.
 
-### Stato e ciclo di vita del frammento
+### Stato del frammento {#fragment-status}
 
 Lo stato del frammento determina la sua disponibilità per l’utilizzo in un messaggio e-mail o in un modello e-mail e le modifiche che puoi apportarvi.
 
@@ -121,17 +122,7 @@ SCHERMATA
 
 ### Aggiungere struttura e contenuto {#add-structure-and-content}
 
->[!CONTEXTUALHELP]
->id="ajo-b2b_structure_components_fragment"
->title="Aggiungere i componenti Struttura"
->abstract="I componenti della struttura definiscono il layout del frammento. Per iniziare a progettare il contenuto del frammento, trascina un componente **Struttura** nell’area di lavoro."
-
->[!CONTEXTUALHELP]
->id="ajo-b2b_content_components_fragment"
->title="Informazioni sui componenti per contenuti"
->abstract="I componenti di contenuto sono segnaposto di contenuto vuoti che possono essere utilizzati per creare il layout di un frammento."
-
-{{$include /help/_includes/content-design-components.md}}
+{{$include /help/marketo/_includes/content-design-components.md}}
 
 ### Aggiungere risorse
 
@@ -327,7 +318,7 @@ I frammenti sono progettati per essere riutilizzati e puoi aggiungerne fino a 30
 
 1. Passa a **[!UICONTROL Percorsi di account]** e apri un percorsi percorso esistente o creane uno nuovo. &lt;— RICONTROLLA
 
-----------HA SMESSO DI MODIFICARE QUI---------
+---------HA SMESSO DI MODIFICARE QUI---------
 
 1. Crea un nodo [_[!UICONTROL Invia e-mail ]_](./email-authoring.md#add-an-email-action-in-an-account-journey).
 

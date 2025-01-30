@@ -4,9 +4,10 @@ title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
+source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
 workflow-type: tm+mt
-source-wordcount: '1486'
+source-wordcount: '1611'
 ht-degree: 1%
 
 ---
@@ -20,6 +21,12 @@ Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuo
 >Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Creare un messaggio e-mail {#create-an-email}
+
+Le e-mail da E-mail Designer possono essere create solo in Design Studio e a cui si fa riferimento in Campagne/Elenchi avanzati, oppure create/utilizzate direttamente in Programmi e-mail in questo momento.
+
+>[!BEGINTABS]
+
+>[!TAB Studio Progettazione]
 
 1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -38,6 +45,28 @@ Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuo
 1. Immetti un nome e un oggetto per l’e-mail. Fai clic su **Crea**.
 
    ![](assets/create-an-email-4.png)
+
+>[!TAB Programma e-mail]
+
+1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+
+1. Trova e seleziona (o crea) il programma e-mail.
+
+   ![](assets/create-an-email-5.png)
+
+1. Sono disponibili due opzioni per creare una nuova e-mail. Fai clic con il pulsante destro del mouse sul nome del programma e-mail e seleziona **Nuova risorsa locale** oppure fai clic sul pulsante **+Nuova e-mail** nella casella E-mail nel dashboard. In questo esempio, eseguiremo la prima.
+
+   ![](assets/create-an-email-6.png)
+
+1. Seleziona **E-mail (nuovo editor)**.
+
+   ![](assets/create-an-email-7.png)
+
+1. Immetti un nome e un oggetto per l’e-mail. Fai clic su **Crea**.
+
+   ![](assets/create-an-email-8.png)
+
+>[!ENDTABS]
 
 Tutto qui. Ora è il momento di progettare la tua e-mail.
 
@@ -308,7 +337,7 @@ Per visualizzare l&#39;anteprima del contenuto dell&#39;e-mail, fai clic su **Si
 
 ## Fai riferimento a un’e-mail {#reference-an-email}
 
-Dopo aver creato un’e-mail nel nuovo editor, puoi farvi riferimento in Campagne avanzate e/o Elenchi avanzati come faresti con qualsiasi altra e-mail.
+Se hai creato l’e-mail all’interno di un programma e-mail, puoi utilizzarla solo in tale programma. Se hai creato l’e-mail in Design Studio, puoi farvi riferimento da Campagne avanzate e/o Elenchi avanzati come faresti con qualsiasi altra e-mail.
 
 * Per farvi riferimento in un elenco avanzato, [segui i soliti passaggi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
@@ -320,4 +349,4 @@ Dopo aver creato un’e-mail nel nuovo editor, puoi farvi riferimento in Campagn
 
 >[!MORELIKETHIS]
 >
->[Modelli e-mail](/help/marketo/product-docs/email-marketing/general/beta-new-email-designer/email-templates.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nella nuova finestra di progettazione.
+>[Modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nella nuova finestra di progettazione.
