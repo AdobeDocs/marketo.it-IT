@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -365,4 +365,4 @@ Se hai creato l’e-mail all’interno di un programma e-mail, puoi utilizzarla 
 
 >[!MORELIKETHIS]
 >
->[Modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nella nuova finestra di progettazione.
+>[Modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nella nuova finestra di progettazione.
