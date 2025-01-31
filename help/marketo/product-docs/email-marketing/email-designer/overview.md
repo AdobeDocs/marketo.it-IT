@@ -3,7 +3,7 @@ description: Panoramica - Documentazione di Marketo - Documentazione del prodott
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
+source-git-commit: 009388b94208729c85ec3b72117b3e0daf4149c5
 workflow-type: tm+mt
 source-wordcount: '545'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Sì, il vecchio editor e-mail (classico) coesisterà con il nuovo e-mail designe
 
 No, non è possibile fare riferimento ai modelli e-mail dall’editor classico nella nuova finestra di progettazione. Dovrai creare nuovi modelli nel nuovo designer. Tuttavia, _puoi_ importare HTML di modelli nella nuova finestra di progettazione, quindi apportare le modifiche necessarie. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
 
-**Esiste un modo per applicare il marchio (caratteri, logo e colori)?**
+**Esiste un modo per applicare il branding (caratteri, loghi e colori)?**
 
 Il blocco delle sezioni di contenuto fa parte della nuova finestra di progettazione e il blocco di stile, colori e così via verrà introdotto nel corso dell&#39;anno.
 
