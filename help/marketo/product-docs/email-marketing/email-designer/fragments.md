@@ -4,9 +4,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
+source-git-commit: 7076f020035b5751328e34620f3992f49da82290
 workflow-type: tm+mt
-source-wordcount: '2395'
+source-wordcount: '2396'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ I frammenti visivi sono blocchi visivi predefiniti creati (utilizzando l’edito
 
 Per accedere ai frammenti visivi, passare a Design Studio. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Frammenti (nuovi)]**.
 
-SCHERMATA
+![Frammenti di accesso](assets/fragments-1.png){width="600" zoomable="yes"}
 
 Per impostazione predefinita, la tabella è ordinata in base alla colonna _[!UICONTROL Modificato]_. Fare clic sui titoli di altre colonne per modificare l&#39;ordinamento della tabella. Fai di nuovo clic su per passare da crescente a decrescente.
 
