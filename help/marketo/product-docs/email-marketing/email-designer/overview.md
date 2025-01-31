@@ -1,13 +1,11 @@
 ---
 description: Panoramica - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b8e8f81217b2addc4bc7dcd49be4cb852679d3b2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -20,7 +18,7 @@ Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 >
 >Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-Il nuovo E-mail Designer è l’ultima innovazione nel Marketo Engage, che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza, mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
+Il nuovo e-mail designer è l’ultima innovazione del Marketo Engage, che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza, mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
 
 Le e-mail create nella nuova finestra di progettazione possono essere utilizzate nei programmi e-mail e negli elenchi/campagne avanzati. Nuovi e potenti miglioramenti per il designer saranno presto disponibili.
 
@@ -55,7 +53,7 @@ modelli nella finestra di progettazione, riducendo la necessità di sviluppatori
 
 **La nuova finestra di progettazione e-mail supporta il linguaggio AMP?**
 
-La versione di base non supporta attualmente AMP.
+Al momento non dispone del supporto per AMP.
 
 **Il contenuto dinamico per attributo è ottimo, ma il contenuto dinamico per segmento continua a funzionare?**
 

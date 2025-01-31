@@ -1,11 +1,9 @@
 ---
 description: Authoring delle e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Authoring di e-mail
-hide: true
-hidefromtoc: true
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 35b5638ff62a25630a273ad320ee6d6c40191cc2
+source-git-commit: 861d4673fc173a9ce9d50f080cf0d85b6247155b
 workflow-type: tm+mt
 source-wordcount: '1739'
 ht-degree: 1%
@@ -22,7 +20,7 @@ Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuo
 
 ## Creare un messaggio e-mail {#create-an-email}
 
-Le e-mail da E-mail Designer possono essere create solo in Design Studio e a cui si fa riferimento in Campagne/Elenchi avanzati, oppure create/utilizzate direttamente in Programmi e-mail in questo momento.
+Le e-mail inviate da e-mail designer possono essere create solo in Design Studio e a cui si fa riferimento in Smart Campaigns/Lists, oppure create/utilizzate direttamente in Email Programs (Programmi e-mail) in questo momento.
 
 >[!BEGINTABS]
 
