@@ -4,10 +4,11 @@ title: Panoramica
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 723caafc41da6d4aeb9101bb6f9a999b45d72dd9
+exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 2%
+source-wordcount: '543'
+ht-degree: 0%
 
 ---
 
@@ -21,14 +22,45 @@ Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 
 Il nuovo E-mail Designer è l’ultima innovazione nel Marketo Engage, che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza, mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
 
-Le e-mail create nella nuova finestra di progettazione possono essere utilizzate in elenchi avanzati e campagne avanzate. Ci sono molti altri miglioramenti previsti per il futuro per rendere il nuovo designer ancora migliore.
+Le e-mail create nella nuova finestra di progettazione possono essere utilizzate nei programmi e-mail e negli elenchi/campagne avanzati. Nuovi e potenti miglioramenti per il designer saranno presto disponibili.
 
-**Articoli disponibili**
+## Articoli disponibili {#available-articles}
 
 * [Authoring di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: scopri come creare, progettare e fare riferimento a un’e-mail nel nuovo editor.
 
 * [Modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-templates.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nel nuovo editor.
 
-* AEM Assets
+## Domande frequenti {#faq}
 
-* Frammenti
+**Il vecchio editor di posta elettronica continuerà a funzionare? In caso affermativo, per quanto tempo?**
+
+Sì, il vecchio editor e-mail (classico) coesisterà con il nuovo e-mail designer. Le e-mail create nell’editor classico rimarranno invariate. Non esiste una data per indicare quando l’editor classico verrà dichiarato obsoleto in questo momento, ma continuerà a funzionare per tutto il 2025.
+
+**I nostri modelli e-mail esistenti funzioneranno nella nuova finestra di progettazione? In caso contrario, è necessario creare modelli utilizzando la nuova finestra di progettazione in modo che tutte le sezioni/moduli corrispondano all&#39;aspetto desiderato per il contenuto?**
+
+No, non è possibile fare riferimento ai modelli e-mail dall’editor classico nella nuova finestra di progettazione. Dovrai creare nuovi modelli nel nuovo designer. Tuttavia, _puoi_ importare HTML di modelli nella nuova finestra di progettazione, quindi apportare le modifiche necessarie. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
+
+**Esiste un modo per applicare il marchio (caratteri, logo e colori)?**
+
+Il blocco delle sezioni di contenuto fa parte della nuova finestra di progettazione e il blocco di stile, colori e così via verrà introdotto nel corso dell&#39;anno.
+
+**I moduli per i modelli saranno più personalizzabili e scalabili?**
+
+Sì, assolutamente, più personalizzabile con il nostro editor WYSIWYG (what-you-see-is-what-you-get).
+
+**Come funziona il processo di creazione del modello di posta elettronica nel nuovo designer? È WYSIWYG o richiede la conoscenza HTML?**
+
+È WYSIWYG; la conoscenza dei HTML non è necessaria. Puoi creare facilmente
+modelli nella finestra di progettazione, riducendo la necessità di sviluppatori web esterni. Tuttavia, puoi comunque aggiornare i CSS e modificare le singole sezioni tramite HTML. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
+
+**La nuova finestra di progettazione e-mail supporta il linguaggio AMP?**
+
+La versione di base non supporta attualmente AMP.
+
+**Il contenuto dinamico per attributo è ottimo, ma il contenuto dinamico per segmento continua a funzionare?**
+
+Attualmente, il nuovo designer supporta solo gli attributi, ma stiamo lavorando per ottenere l’aggiunta di segmenti in una versione futura.
+
+**Come posso sapere se la sottoscrizione di Marketo Engage è stata migrata a IMS (Adobe Admin Console)?**
+
+Se accedi al Marketo Engage tramite [experience.adobe.com](experience.adobe.com), la tua sottoscrizione è stata migrata.

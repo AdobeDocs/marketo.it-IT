@@ -4,25 +4,25 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 783a5baa5961ea899b41c8d4a329598fbeb5e58f
+source-git-commit: f6a8f9ec79240a10549adb12ca8b1b4124f683a3
 workflow-type: tm+mt
-source-wordcount: '2371'
+source-wordcount: '2395'
 ht-degree: 1%
 
 ---
 
 # Frammenti
 
-Un frammento è un componente riutilizzabile a cui è possibile fare riferimento in uno o più modelli e-mail e e-mail. In genere si tratta di un blocco di contenuto (testo, immagine o entrambi) che può essere creato e inserito rapidamente nel progetto. Con questa funzionalità, puoi precreare più blocchi di contenuto personalizzati da utilizzare da parte dei membri del team di marketing per assemblare contenuti e-mail e migliorare il processo di progettazione. I casi d’uso comuni includono blocchi di contenuto di intestazione/piè di pagina per e-mail, banner di invito di eventi, messaggi stagionali e altro ancora.
+Un frammento è un componente riutilizzabile a cui è possibile fare riferimento in uno o più modelli e-mail e e-mail. In genere si tratta di un blocco di contenuto (testo, immagine o entrambi) che può essere creato e inserito rapidamente nel progetto. Con questa funzionalità, puoi precreare più blocchi di contenuto personalizzati per assemblare il contenuto delle e-mail e migliorare così il processo di progettazione. I casi d’uso comuni includono blocchi di contenuto di intestazione/piè di pagina per e-mail, banner di invito di eventi, messaggi stagionali e altro ancora.
 
 Per utilizzare al meglio i frammenti nei flussi di lavoro:
 
-* _Crea frammenti personalizzati_ - Crea frammenti visivi da zero o salvando il contenuto come frammento dall&#39;editor di contenuti visivi.
+* _Crea frammenti_ - Crea frammenti visivi da zero o salvando il contenuto come frammento dall&#39;editor di contenuti visivi.
 * _Riutilizza frammenti_ - Puoi utilizzarli nel contenuto per il numero di volte necessario.
 
 ## Frammenti visivi {#visual-fragments}
 
-I frammenti visivi sono blocchi visivi predefiniti creati utilizzando l’editor di contenuto visivo che puoi riutilizzare in più e-mail o modelli e-mail.
+I frammenti visivi sono blocchi visivi predefiniti creati (utilizzando l’editor di contenuto visivo) che puoi riutilizzare in più e-mail o modelli e-mail.
 
 ## Accedere e gestire i frammenti {#access-and-manage-fragments}
 
@@ -30,11 +30,11 @@ Per accedere ai frammenti visivi, passare a Design Studio. Nell&#39;albero a sin
 
 SCHERMATA
 
-Per impostazione predefinita, la tabella è ordinata in base alla colonna _[!UICONTROL Modificato]_, con i frammenti aggiornati più di recente nella parte superiore. Fare clic su altri titoli di colonna per modificare l&#39;ordinamento. Fai di nuovo clic su per passare da crescente a decrescente.
+Per impostazione predefinita, la tabella è ordinata in base alla colonna _[!UICONTROL Modificato]_. Fare clic sui titoli di altre colonne per modificare l&#39;ordinamento della tabella. Fai di nuovo clic su per passare da crescente a decrescente.
 
 ### Stato del frammento {#fragment-status}
 
-Lo stato del frammento determina la sua disponibilità per l’utilizzo in un messaggio e-mail o in un modello e-mail e le modifiche che puoi apportarvi.
+Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’e-mail o in un modello e-mail e le modifiche che puoi apportare.
 
 <table>
 <tbody>
@@ -73,13 +73,11 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un me
   </tr>
 </tbody></table>
 
-SCHERMATA
-
 ### Filtrare l’elenco dei frammenti {#filter-the-fragments-list}
 
 Utilizza la barra di ricerca per trovare un frammento in base al nome. Fai clic sull&#39;icona _Filtro_ ( ![Mostra o nascondi icona filtri](assets/icon-filter.svg) ) per visualizzare le opzioni di filtro disponibili e scegliere le impostazioni desiderate.
 
-SCHERMATA
+![Filtra i frammenti visualizzati](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
 
 ### Personalizzare la visualizzazione delle colonne {#customize-the-column-display}
 
@@ -148,7 +146,7 @@ Fai clic sul nome di un frammento nella pagina dell’elenco per aprire la pagin
 >
 >Se un frammento pubblicato è utilizzato da un’e-mail o da un modello e-mail, non puoi modificarne il nome o il contenuto. Puoi creare una versione bozza se desideri apportare modifiche al frammento.
 
-SCHERMATA
+![Visualizza dettagli per un frammento pubblicato](assets/fragment-details-published.png){width="600" zoomable="yes"}
 
 Fai clic su **[!UICONTROL Modifica frammento]** per aprire il frammento nell&#39;editor di contenuti visivi.
 
@@ -164,7 +162,7 @@ Nella pagina dei dettagli del frammento, fai clic sulla scheda **[!UICONTROL Usa
 
 I riferimenti vengono visualizzati in base alla categoria: _E-mail_ o _Modello e-mail_. Le e-mail in Journey Optimizer B2B edition sono incorporate e create all’interno di percorsi di account, pertanto il percorso principale dell’e-mail che utilizza il frammento viene visualizzato in riferimenti. &lt;— COSA DIRE DI QUESTA PARTE, NILESH
 
-SCHERMATA
+![Utilizzato dai riferimenti per il frammento](assets/fragment-used-by-published.png){width="600" zoomable="yes"}
 
 Fai clic sul collegamento per aprire l’e-mail o il modello e-mail corrispondente in cui viene utilizzato il frammento.
 
@@ -179,9 +177,9 @@ Puoi eliminare un frammento utilizzando uno dei seguenti metodi:
 
 Questa azione apre una finestra di dialogo di conferma. È possibile interrompere il processo facendo clic su **[!UICONTROL Annulla]** oppure su **[!UICONTROL Elimina]** per confermare l&#39;eliminazione.
 
-SCHERMATA
+![Finestra di dialogo Elimina frammento](assets/fragment-delete-dialog.png){width="400"}
 
-## Modificare i frammenti
+## Modificare i frammenti {#edit-fragments}
 
 Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
@@ -199,7 +197,7 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
 1. Apportare le modifiche desiderate.
 
-SCHERMATA
+   ![Dettagli per frammento con stato Bozza](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
 1. Per apportare modifiche al contenuto nella finestra di progettazione visiva, fare clic su **[!UICONTROL Modifica frammento]**.
 
@@ -229,17 +227,17 @@ SCHERMATA
 
    Fare clic su **[!UICONTROL OK]** nella finestra di dialogo per aprire la versione bozza nella finestra di progettazione visiva. Se necessario, è possibile modificare `image source` KG - LINK HERE.
 
-SCHERMATA
+   ![Finestra di dialogo Crea bozza versione](assets/fragments-create-draft-version.png){width="300"}
 
-Utilizza gli strumenti di progettazione visiva secondo necessità:
+   Utilizza gli strumenti di progettazione visiva secondo necessità:
 
-* [Aggiungere struttura e contenuto](#add-structure-and-content)
-* [Aggiungi Assets](#add-assets)
-* [Spostarsi tra livelli, impostazioni e stili](#navigate-the-layers-settings-and-styles)
-* [Personalizzare il contenuto](#personalize-content)
-* [Modifica tracciamento URL collegato](#edit-linked-url-tracking)
+   * [Aggiungere struttura e contenuto](#add-structure-and-content)
+   * [Aggiungi Assets](#add-assets)
+   * [Spostarsi tra livelli, impostazioni e stili](#navigate-the-layers-settings-and-styles)
+   * [Personalizzare il contenuto](#personalize-content)
+   * [Modifica tracciamento URL collegato](#edit-linked-url-tracking)
 
-Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
+   Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
 1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Publish]**.
 
@@ -251,7 +249,7 @@ Esistono due modi per aprire la versione bozza per la modifica dalla pagina di e
 
 * Fai clic sull&#39;icona _Altro_ (**...**) accanto al nome del frammento e scegli **[!UICONTROL Apri versione bozza]**.
 
-SCHERMATA
+  ![Apri versione bozza](assets/fragments-create-draft-version.png){width="300"}
 
 * Fai clic sul nome del frammento per aprirlo. Quindi, fai clic su **[!UICONTROL Apri versione bozza]** in alto a destra.
 
@@ -282,11 +280,11 @@ Puoi duplicare un frammento utilizzando uno dei seguenti metodi:
 * Dalla pagina dell&#39;elenco _[!UICONTROL Frammenti]_, fai clic sull&#39;icona _Altro_ (**...**) accanto al nome del frammento e scegli **[!UICONTROL Duplica]**.
 * Nella parte superiore destra della pagina dei dettagli del frammento, fare clic su **[!UICONTROL ... Altro]** e scegli **[!UICONTROL Duplicato]**.
 
-SCHERMATA
+![Duplica il frammento](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
 Nella finestra di dialogo, inserisci un nome univoco e una descrizione facoltativa. Fai clic su **[!UICONTROL Duplica]** per completare l&#39;azione.
 
-SCHERMATA
+![Immettere un nome e una descrizione per il frammento duplicato](assets/fragment-duplicate-dialog.png){width="400"}
 
 Il frammento duplicato viene quindi visualizzato nell&#39;elenco _Frammenti_.
 
@@ -394,4 +392,4 @@ Quando un frammento viene aggiunto a un’e-mail o a un modello e-mail, non è p
 
 Quando selezioni il frammento nella pagina dell’editor, queste azioni sono disponibili nella barra degli strumenti contestuale e nel pannello delle proprietà a destra.
 
-SCHERMATA
+![Applica azioni al frammento selezionato](assets/fragment-actions-email-authoring.png){width="600" zoomable="yes"}
