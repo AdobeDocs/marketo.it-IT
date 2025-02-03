@@ -4,9 +4,9 @@ description: Modificare la versione testuale di un’e-mail - Documentazione di 
 title: Modificare la versione testuale di un messaggio e-mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: d903c7d8adf817bd3aae2ea6bebc291a3f8bffb5
+source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
@@ -41,4 +41,4 @@ Quando crei un’e-mail, potresti desiderare che la versione del testo sia formu
 
 >[!CAUTION]
 >
->Selezionando **Copia da HTML** o riselezionando **Copia automaticamente da HTML** nelle e-mail che contengono contenuto dinamico, il flag Rivisto verrà impostato su _true_ per tutti i segmenti sia nelle versioni HTML che nelle versioni Testo dell&#39;e-mail.
+>Selezionando **Copia da HTML** o riselezionando **Copia automaticamente da HTML** nelle e-mail che contengono contenuto dinamico, il flag Rivisto verrà impostato su _true_ per tutti i segmenti (generando il segno di spunta verde che indica che è stato rivisto) sia nella versione HTML che in quella Testo dell&#39;e-mail. Se esegui una delle azioni di cui sopra, assicurati di controllare nuovamente il contenuto prima dell’invio.
