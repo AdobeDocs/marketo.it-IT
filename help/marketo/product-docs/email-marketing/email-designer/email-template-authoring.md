@@ -2,15 +2,17 @@
 description: Modelli di e-mail - Documentazione di Marketo - Documentazione del prodotto
 title: Modelli e-mail
 feature: Email Editor
+hide: true
+hidefromtoc: true
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 4ebefa5eff49d2b703f0b4885c663945b215fa5c
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
 source-wordcount: '1843'
 ht-degree: 1%
 
 ---
 
-# Authoring del modello e-mail {#email-template-authoring}
+# Authoring dei modelli e-mail {#email-template-authoring}
 
 Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-mail autonomi per riutilizzare facilmente i contenuti personalizzati.
 
@@ -162,7 +164,7 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 
 Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Usato da]_ della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
-### Aggiungi Assets {#add-assets}
+### Aggiungere risorse {#add-assets}
 
 Aggiungi le immagini archiviate nella sezione [Immagini e file](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md){target="_blank"} dell&#39;istanza di Marketo Engage.
 

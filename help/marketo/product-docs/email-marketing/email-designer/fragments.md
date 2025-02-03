@@ -4,9 +4,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7076f020035b5751328e34620f3992f49da82290
+source-git-commit: aefdb7360ca4c687d05f4695afc618815b08c336
 workflow-type: tm+mt
-source-wordcount: '2396'
+source-wordcount: '2402'
 ht-degree: 1%
 
 ---
@@ -314,7 +314,7 @@ I frammenti sono progettati per essere riutilizzati e puoi aggiungerne fino a 30
 
 >[!TAB Aggiungere frammenti a un&#39;e-mail]
 
-1. Passa a **[!UICONTROL Percorsi di account]** e apri un percorsi percorso esistente o creane uno nuovo. &lt;— RICONTROLLA
+1. Passa a **[!UICONTROL Percorsi di account]** e apri un percorsi percorso esistente o creane uno nuovo. &lt;— SOLO SE ALL’INTERNO DEL MODELLO E-MAIL O E-MAIL
 
 ---------HA SMESSO DI MODIFICARE QUI---------
 
