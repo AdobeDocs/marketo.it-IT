@@ -4,9 +4,9 @@ description: Importare un elenco di persone - Documentazione di Marketo - Docume
 title: Importa un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '581'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    >
    >* Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
    >
-   >* L&#39;importazione di valori `NULL` tramite CSV potrebbe generare un &quot;Change Data Value&quot; per i campi numerici nel [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} di una persona, _anche se i campi sono già vuoti_. Se disponi di [campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} che utilizzano il filtro &quot;Valore dati modificato&quot; o il trigger &quot;Modifiche valore dati&quot;, assicurati di utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} per assicurarti che non vengano attivati inutilmente durante l&#39;esecuzione delle importazioni.
+   >* L&#39;importazione di valori `NULL` tramite CSV potrebbe generare un &quot;Change Data Value&quot; per i campi numerici nel [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"} di una persona, _anche se i campi sono già vuoti_. Se sono presenti [campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"} che utilizzano il filtro &quot;Valore modificato dati&quot; o il trigger &quot;Modifica valore dati&quot;, le persone potrebbero essere idonee per tali campagne anche se i dati non vengono effettivamente modificati. Puoi utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} per garantire che nessuno sia idoneo per tali campagne al momento dell&#39;importazione.
 
 ## Passaggio 2: creare un programma {#step-create-a-program}
 

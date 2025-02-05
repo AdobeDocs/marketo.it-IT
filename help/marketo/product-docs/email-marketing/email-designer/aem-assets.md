@@ -4,7 +4,7 @@ description: Scopri come utilizzare le risorse di immagini da un archivio AEM As
 hide: true
 hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
 workflow-type: tm+mt
 source-wordcount: '617'
 ht-degree: 1%
@@ -53,13 +53,13 @@ Se sono presenti più repository AEM connessi, fare clic sul pulsante **[!UICONT
 
 Scegli l’archivio desiderato.
 
-![Scegli un archivio AEM Assets per accedere alle risorse immagine](assets/work-with-experience-manager-assets-five.png)
+![Scegli un archivio AEM Assets per accedere alle risorse immagine](assets/work-with-experience-manager-assets-5.png)
 
 Esistono diversi metodi per aggiungere una risorsa immagine all’area di lavoro visiva:
 
 * Trascina e rilascia la miniatura di un’immagine dal menu di navigazione a sinistra.
 
-![Scegli un archivio AEM Assets per accedere alle risorse immagine](assets/work-with-experience-manager-assets-5.png){width="700" zoomable="yes"}
+![Scegli un archivio AEM Assets per accedere alle risorse immagine](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
 
 * Aggiungi un componente immagine all&#39;area di lavoro e fai clic su **[!UICONTROL Sfoglia]** per aprire la finestra di dialogo _[!UICONTROL Seleziona Assets]_.
 
@@ -67,7 +67,7 @@ Esistono diversi metodi per aggiungere una risorsa immagine all’area di lavoro
 
   Sono disponibili diversi strumenti per aiutarti a individuare la risorsa di cui hai bisogno.
 
-![usa lo strumento nella finestra di dialogo Seleziona Assets per trovare e selezionare una risorsa immagine](assets/work-with-experience-manager-assets-6.png){width="700" zoomable="yes"}
+![usa lo strumento nella finestra di dialogo Seleziona Assets per trovare e selezionare una risorsa immagine](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Modifica l&#39;**[!UICONTROL Archivio]** in alto a destra.
 
@@ -83,4 +83,4 @@ Esistono diversi metodi per aggiungere una risorsa immagine all’area di lavoro
 
 * Immetti il testo da cercare nel campo Ricerca per filtrare gli elementi visualizzati in modo che corrispondano al nome della risorsa.
 
-![Utilizza i filtri e il campo di ricerca per individuare la risorsa](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Utilizza i filtri e il campo di ricerca per individuare la risorsa](assets/work-with-experience-manager-assets-8.png){width="700" zoomable="yes"}
