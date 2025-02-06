@@ -1,12 +1,10 @@
 ---
 title: Utilizzare Experience Manager Assets
 description: Scopri come utilizzare le risorse di immagini da un archivio AEM Assets connesso durante l’authoring dei contenuti in Adobe Marketo Engage.
-hide: true
-hidefromtoc: true
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '607'
 ht-degree: 1%
 
 ---
@@ -17,11 +15,11 @@ Quando _Adobe Experience Manager Assets as a Cloud Service_ è integrato con Ado
 
 >[!PREREQUISITES]
 >
->Collegare il documento MKTO/AEM.
+>[Connetti i Cloud Service Adobe Experience Manager all&#39;istanza Adobe Marketo Engage](/help/marketo/product-docs/email-marketing/email-designer/aem-cloud-services.md){target="_blank"}
 
 >[!NOTE]
 >
->Al momento, solo le risorse immagine di _Adobe Experience Manager Assets_ sono supportate nel Marketo Engage. Le modifiche alle risorse devono essere effettuate dall’archivio centrale di Adobe Experience Manager Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets)
+>Al momento, solo le risorse immagine di _Adobe Experience Manager Assets_ sono supportate nel Marketo Engage. Le modifiche alle risorse devono essere effettuate dall’archivio centrale di Adobe Experience Manager Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 Quando si utilizzano queste risorse digitali, le modifiche più recenti in _Assets as a Cloud Service_ si propagano automaticamente alle campagne e-mail live tramite riferimenti collegati. Se le immagini vengono eliminate in _Adobe Experience Manager Assets as a Cloud Service_, le immagini vengono visualizzate con un riferimento interrotto nelle e-mail. Quando le risorse attualmente utilizzate nel Marketo Engage vengono modificate o eliminate, gli autori delle e-mail vengono informati delle modifiche apportate all’immagine. Tutte le modifiche apportate alle risorse devono essere effettuate nell’archivio centrale di Adobe Experience Manager Assets.
 
@@ -67,7 +65,7 @@ Esistono diversi metodi per aggiungere una risorsa immagine all’area di lavoro
 
   Sono disponibili diversi strumenti per aiutarti a individuare la risorsa di cui hai bisogno.
 
-![usa lo strumento nella finestra di dialogo Seleziona Assets per trovare e selezionare una risorsa immagine](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
+![Utilizza lo strumento nella finestra di dialogo Seleziona Assets per trovare e selezionare una risorsa immagine](assets/work-with-experience-manager-assets-7.png){width="700" zoomable="yes"}
 
 * Modifica l&#39;**[!UICONTROL Archivio]** in alto a destra.
 

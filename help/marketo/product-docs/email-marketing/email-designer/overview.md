@@ -3,9 +3,9 @@ description: Panoramica - Documentazione di Marketo - Documentazione del prodott
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,8 @@ Le e-mail create nella nuova finestra di progettazione possono essere utilizzate
 * [Authoring di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: scopri come creare, progettare e fare riferimento a un’e-mail nel nuovo editor.
 
 * [Authoring di modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nel nuovo editor.
+
+* [Utilizzare AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: scopri come accedere facilmente alle risorse digitali AEM per l&#39;utilizzo in Marketo Engage.
 
 ## Domande frequenti {#faq}
 

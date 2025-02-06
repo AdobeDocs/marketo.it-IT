@@ -4,9 +4,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 233c50c0539131c21e913cbd6ba5471f1a41f407
+source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
 workflow-type: tm+mt
-source-wordcount: '2029'
+source-wordcount: '2052'
 ht-degree: 1%
 
 ---
@@ -26,11 +26,25 @@ I frammenti visivi sono blocchi visivi predefiniti creati (utilizzando l’edito
 
 ## Accedere e gestire i frammenti {#access-and-manage-fragments}
 
-Per accedere ai frammenti visivi, passare a **Design Studio**. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Frammenti (nuovi)]**.
+Per accedere ai frammenti visivi, vai a **Design Studio** nel Marketo Engage. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Frammenti (nuovi)]**.
 
-![Frammenti di accesso](assets/fragments-1.png){width="600" zoomable="yes"}
+![Frammenti di accesso](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
 Per impostazione predefinita, la tabella è ordinata in base alla colonna _[!UICONTROL Modificato]_. Fare clic sui titoli di altre colonne per modificare l&#39;ordinamento della tabella. Fai di nuovo clic sullo stesso titolo per passare da crescente a decrescente.
+
+### Trova e filtra
+
+Utilizza la barra di ricerca per trovare un frammento in base al nome. Fai clic sull&#39;icona _Filtro_ ( ![Icona Filtro](assets/icon-filter.svg) ) per visualizzare le opzioni di filtro disponibili e scegliere le impostazioni desiderate.
+
+![Filtra i frammenti visualizzati](assets/access-and-manage-fragments-2.png){width="700" zoomable="yes"}
+
+### Personalizzare le colonne {#customize-the-column-display}
+
+Personalizza le colonne da visualizzare nella tabella facendo clic sull&#39;icona _Personalizza tabella_ ( ![Personalizza icona tabella](assets/icon-column-settings.svg) ) in alto a destra.
+
+Selezionare le colonne desiderate e fare clic su **[!UICONTROL Applica]**.
+
+![Personalizza tabella modale](assets/access-and-manage-fragments-3.png){width="400" zoomable="yes"}
 
 ### Stato del frammento {#fragment-status}
 
@@ -73,36 +87,30 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
   </tr>
 </tbody></table>
 
-### Filtrare l’elenco dei frammenti {#filter-the-fragments-list}
-
-Utilizza la barra di ricerca per trovare un frammento in base al nome. Fai clic sull&#39;icona _Filtro_ ( ![Icona Filtro](assets/icon-filter.svg) ) per visualizzare le opzioni di filtro disponibili e scegliere le impostazioni desiderate.
-
-![Filtra i frammenti visualizzati](assets/fragments-list-filtered.png){width="700" zoomable="yes"}
-
-### Personalizzare la visualizzazione delle colonne {#customize-the-column-display}
-
-Personalizza le colonne da visualizzare nella tabella facendo clic sull&#39;icona _Personalizza tabella_ ( ![Personalizza icona tabella](assets/icon-column-settings.svg) ) in alto a destra.
-
-Nella finestra di dialogo, seleziona le colonne desiderate e fai clic su **[!UICONTROL Applica]**.
-
-SCHERMATA
-
 ## Creare i frammenti {#create-fragments}
 
-Crea un nuovo frammento visivo facendo clic su **[!UICONTROL Crea frammento]** in alto a destra.
+1. Per creare un nuovo frammento visivo, fare clic su **[!UICONTROL Crea frammento]** in alto a destra nella pagina dell&#39;elenco dei frammenti.
 
-1. Nella finestra di dialogo _[!UICONTROL Crea frammento]_, immetti un **[!UICONTROL Nome]** e una **[!UICONTROL Descrizione]** facoltativa.
+   ![Pulsante Crea frammento](assets/create-fragments-1.png){width="700" zoomable="yes"}
 
-   Requisiti dei frammenti:
+1. Assegna al frammento un **[!UICONTROL Nome]** e una **[!UICONTROL Descrizione]** facoltativa.
+
+   _Requisiti del frammento_
 
    * Nome: massimo 100 caratteri, deve essere univoco, senza distinzione tra maiuscole e minuscole
    * Descrizione: massimo 300 caratteri
-   * Alpha, caratteri numerici e speciali sono ammessi
+   * Caratteri: i caratteri alfa, numerici e speciali sono ammessi
    * I caratteri riservati sono **_non consentiti_**: `\ / : * ? " < > |`
 
-SCHERMATA
+   ![Crea frammento modale](assets/create-fragments-2.png){width="400" zoomable="yes"}
 
 1. Fai clic su **[!UICONTROL Crea]**.
+
+   ![Crea frammento modale](assets/create-fragments-3.png){width="400" zoomable="yes"}
+
+   >[!NOTE]
+   >
+   >Impossibile modificare il tipo **Type** di un frammento in questo momento.
 
    La finestra di progettazione visiva viene aperta con un&#39;area di lavoro vuota.
 
