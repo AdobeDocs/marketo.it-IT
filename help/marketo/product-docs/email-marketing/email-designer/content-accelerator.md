@@ -3,38 +3,38 @@ title: Documento Content Accelerator
 description: Scopri come...
 hide: true
 hidefromtoc: true
-source-git-commit: 1676c9049c61a637faede4751ea49bbcfa018be5
+source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
 
-# Documento Content Accelerator {#connect-experience-manager-doc}
+# Utilizzare l’Assistente AI Content Accelerator {#use-the-ai-assistant-content-accelerator}
 
-Content Accelerator (con funzionalità Gen-AI)
+L’AI Assistant Content Accelerator è una funzionalità all’interno del Marketo Engage E-mail Designer che consente di creare e-mail contemporanee, performanti e intuitive in modo produttivo. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme al Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase del percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
 
-Content Accelerator o AI Assistant è una funzionalità all’interno del nuovo Designer e-mail che aiuta gli esperti di marketing a creare e-mail contemporanee, performanti e intuitive in modo produttivo. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme al Firefly per la generazione di immagini che aiuta gli esperti di marketing a creare contenuti adatti a un particolare utente/gruppo di acquisto, fase di percorso di marketing, strategia di comunicazione, tono e così via. È inoltre possibile utilizzare risorse specifiche per il marchio per creare contenuti con input provenienti da tali risorse.
+>[!PREREQUISITES]
+>
+>Per impostazione predefinita, l&#39;Acceleratore contenuto dell&#39;Assistente AI non è attivato. Devi innanzitutto accettare i termini di base Gen-AI e i termini supplementari per l’utilizzo della funzionalità Gen-AI in E-mail Designer. Per ulteriori informazioni, contatta il team dell’account Adobe (il tuo account manager).
 
-Questa funzionalità è abilitata solo per i clienti che hanno firmato i termini Core Gen-AI e a cui sono stati offerti i termini supplementari per l’utilizzo della funzionalità Gen-AI nel nuovo Designer e-mail. Per accedere a questa funzionalità, contatta il rappresentante del tuo account. Per impostazione predefinita, questa opzione non è disponibile con il nuovo Designer e-mail.
+Esistono tre casi d’uso principali per IA Assistant Content Accelerator:
 
-Content Accelerator può essere utilizzato per 3 casi d’uso principali:
+* [Crea un oggetto](#create-a-subject-line) per l&#39;e-mail
+* [Crea contenuto per una sezione specifica](#create-content-for-a-specific-section) dell&#39;e-mail
+* [Crea un&#39;intera e-mail](#create-an-entire-email) da un modello selezionato
 
-* Creazione di un oggetto per l’e-mail
-* Creazione di un intero messaggio e-mail da un modello selezionato
-* Creazione di contenuti per una sezione specifica dell’e-mail
+## Creare un oggetto {#create-a-subject-line}
 
-## Creare un oggetto {#creating-a-subject-line}
+Quando viene creato un messaggio e-mail utilizzando il nuovo Designer e-mail, immetti un oggetto temporaneo.
 
-Quando si crea un messaggio e-mail utilizzando il nuovo Designer e-mail, è possibile immettere un oggetto temporaneo.
+SCHERMATA
+
+Dopo la creazione dell&#39;e-mail, l&#39;oggetto si trova nella colonna _Dettagli_ a destra. Fai clic sul pulsante Assistente IA ( ![Icona Filtro](assets/icon-ai-assistant.png) ) accanto a esso per ottenere assistenza nella creazione di una nuova riga dell&#39;oggetto utilizzando la funzionalità di intelligenza artificiale generica.
 
 SCHERMATA
 
-Una volta creato il messaggio e-mail, l’oggetto viene visualizzato nella scheda Dettagli nella barra a destra. Accanto alla riga dell’oggetto è disponibile un pulsante dell’assistente di intelligenza artificiale che consente agli addetti al marketing di generare la riga dell’oggetto utilizzando la funzionalità di intelligenza artificiale generica.
-
-Facendo clic sul pulsante, si apre la seguente schermata per fornire opzioni per personalizzare la generazione dell’oggetto.
-
-SCHERMATA
+—MODIFICA QUI INTERROTTA—
 
 Se hai già utilizzato un oggetto e desideri utilizzarlo come riferimento per la generazione, attiva il pulsante &quot;Usa contenuto di riferimento&quot;.
 
@@ -47,15 +47,15 @@ Le impostazioni di testo includono:
 <table><tbody>
   <tr>
     <td><b>Gruppo di acquisto</b></td>
-    <td>Gruppo di acquisto specifico di destinazione, ad esempio influencer, decision maker ecc.</td>
+    <td>Gruppo di acquisto specifico di destinazione (ad es. CEO, Influencer, Decision Maker).</td>
   </tr>
   <tr>
     <td><b>Fase Percorso marketing</b></td>
-    <td>Destinatari in una particolare fase del percorso di marketing, ad esempio Discover, Evaluate, Commit, ecc.</td>
+    <td>Destinatari in una particolare fase del percorso di marketing (ad esempio, Discover, Evaluate, Commit).</td>
   </tr>
   <tr>
     <td><b>Strategia di comunicazione</b></td>
-    <td>Obiettivo della comunicazione: Urgente, prova sociale, INFORMATIVA, ECC.</td>
+    <td>Obiettivo della comunicazione (ad esempio Urgente, A prova sociale, INFORMATIVO).</td>
   </tr>
   <tr>
     <td><b>Lingua</b></td>
@@ -63,11 +63,11 @@ Le impostazioni di testo includono:
   </tr>
   <tr>
     <td><b>Tono</b></td>
-    <td>Tono in cui vuoi che il contenuto venga generato, come Inspirational, Exciting, Humorous e così via.</td>
+    <td>Tono in cui desideri generare il contenuto (ad es. Inspirazionale, Eccitante, Umoristico).</td>
   </tr>
   <tr>
     <td><b>Emoji</b></td>
-    <td>Seleziona questa opzione se desideri includere le emoticon nella generazione.</td>
+    <td>Consente di includere le emoticon nel contenuto generato.</td>
   </tr>
 </tbody>
 </table>
@@ -83,6 +83,28 @@ SCHERMATA
 Dopo aver selezionato una variante, puoi scegliere di utilizzarla selezionando la variante tramite la casella di controllo e facendo clic su Seleziona. Puoi anche scegliere di perfezionarla facendo clic su perfeziona e modifica le impostazioni. Inoltre, puoi fornire un feedback attraverso i pollici verso l&#39;alto o verso il basso in modo che la tecnologia Gen-AI comprenda ciò che funziona in base alle tue preferenze.
 
 Dopo aver selezionato, puoi vedere che l’oggetto viene popolato nei tuoi Dettagli e-mail
+
+SCHERMATA
+
+## Creare contenuti per una sezione specifica dell’e-mail {#create-content-for-a-specific-section}
+
+Dopo aver creato l’e-mail tramite l’Assistente AI da un modello e-mail, potresti voler modificare alcune parti dell’immagine, ad esempio e-mail o testo.
+
+SCHERMATA
+
+Dall’e-mail precedente che è stata generata, l’immagine dell’esperto sanitario non è del tutto corretta; pertanto, se non disponi di un’immagine reale, potresti voler istruire l’assistente AI a creare un’immagine di un esperto sanitario come rappresentazione.
+
+In tal caso, potrebbe essere utile selezionare una parte dell’e-mail e quindi utilizzare l’assistente AI per creare in modo specifico il contenuto per tale sezione. Seleziona il contenuto dell’immagine, quindi fai clic sull’assistente AI.
+
+SCHERMATA
+
+Inserisci i dettagli pertinenti nel prompt, ad esempio &quot;genera un’immagine per un esperto sanitario&quot; e aggiungi eventuali personalizzazioni, se necessario. È inoltre possibile utilizzare la libreria dei prompt a destra del prompt se non si è certi del prompt da immettere.
+
+Facendo clic su &quot;Genera&quot;, vengono create più varianti e puoi scegliere quella più adatta al contenuto dell’e-mail.
+
+SCHERMATA
+
+Analogamente all’immagine, è possibile modificare anche qualsiasi altra parte del contenuto, come il testo.
 
 SCHERMATA
 
@@ -107,26 +129,3 @@ Seleziona le impostazioni appropriate, ad esempio Tipo di contenuto, Colore e To
 SCHERMATA
 
 Seleziona una delle varianti da visualizzare in anteprima facendo clic su Anteprima o applica la variante in modo da riflettere la modifica nell’area di lavoro.
-
-
-## Creare contenuti per una sezione specifica dell’e-mail {#create-content-for-a-specific-section}
-
-Dopo aver creato l’e-mail tramite l’Assistente AI da un modello e-mail, potresti voler modificare alcune parti dell’immagine, ad esempio e-mail o testo.
-
-SCHERMATA
-
-Dall’e-mail precedente che è stata generata, l’immagine dell’esperto sanitario non è del tutto corretta; pertanto, se non disponi di un’immagine reale, potresti voler istruire l’assistente AI a creare un’immagine di un esperto sanitario come rappresentazione.
-
-In tal caso, potrebbe essere utile selezionare una parte dell’e-mail e quindi utilizzare l’assistente AI per creare in modo specifico il contenuto per tale sezione. Seleziona il contenuto dell’immagine, quindi fai clic sull’assistente AI.
-
-SCHERMATA
-
-Inserisci i dettagli pertinenti nel prompt, ad esempio &quot;genera un’immagine per un esperto sanitario&quot; e aggiungi eventuali personalizzazioni, se necessario. È inoltre possibile utilizzare la libreria dei prompt a destra del prompt se non si è certi del prompt da immettere.
-
-Facendo clic su &quot;Genera&quot;, vengono create più varianti e puoi scegliere quella più adatta al contenuto dell’e-mail.
-
-SCHERMATA
-
-Analogamente all’immagine, è possibile modificare anche qualsiasi altra parte del contenuto, come il testo.
-
-SCHERMATA
