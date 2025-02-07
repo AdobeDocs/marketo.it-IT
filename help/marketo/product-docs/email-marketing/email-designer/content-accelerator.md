@@ -1,18 +1,20 @@
 ---
-title: Documento Content Accelerator
-description: Scopri come...
-hide: true
-hidefromtoc: true
-source-git-commit: 87dfe8e1f3f10940a9079e22a056ccb4f5ea9a95
+solution: Marketo Engage
+product: marketo engage
+title: Utilizzare l’Assistente AI Content Accelerator
+description: Sfrutta la tecnologia AI generativa di Adobe per aggiungere testo utile o immagini straordinarie alle e-mail.
+feature: Email Editor
+exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
+source-git-commit: a60fad2162ee963c37124fbeedab561dfd52884f
 workflow-type: tm+mt
-source-wordcount: '868'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # Utilizzare l’Assistente AI Content Accelerator {#use-the-ai-assistant-content-accelerator}
 
-L’AI Assistant Content Accelerator è una funzionalità all’interno del Marketo Engage E-mail Designer che consente di creare e-mail contemporanee, performanti e intuitive in modo produttivo. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme al Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase del percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
+L’Assistente AI Content Accelerator all’interno del Designer e-mail di Marketo Engage consente di creare e-mail contemporanee, performanti e intuitive. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme al Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase del percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
 
 >[!PREREQUISITES]
 >
@@ -28,26 +30,24 @@ Esistono tre casi d’uso principali per IA Assistant Content Accelerator:
 
 Quando viene creato un messaggio e-mail utilizzando il nuovo Designer e-mail, immetti un oggetto temporaneo.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-1.png)
 
 Dopo la creazione dell&#39;e-mail, l&#39;oggetto si trova nella colonna _Dettagli_ a destra. Fai clic sul pulsante Assistente IA ( ![Icona Filtro](assets/icon-ai-assistant.png) ) accanto a esso per ottenere assistenza nella creazione di una nuova riga dell&#39;oggetto utilizzando la funzionalità di intelligenza artificiale generica.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-2.png)
 
-—MODIFICA QUI INTERROTTA—
-
-Se hai già utilizzato un oggetto e desideri utilizzarlo come riferimento per la generazione, attiva il pulsante &quot;Usa contenuto di riferimento&quot;.
+Abilita l&#39;opzione **Usa contenuto di riferimento** per l&#39;Acceleratore contenuto dell&#39;Assistente di intelligenza artificiale per personalizzare il nuovo contenuto in base al contenuto selezionato.
 
 Immettere il prompt per personalizzare l&#39;oggetto. Inserisci le impostazioni di testo pertinenti e carica tutte le risorse del brand da utilizzare come riferimento per creare una riga dell’oggetto appropriata.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-3.png)
 
 Le impostazioni di testo includono:
 
 <table><tbody>
   <tr>
     <td><b>Gruppo di acquisto</b></td>
-    <td>Gruppo di acquisto specifico di destinazione (ad es. CEO, Influencer, Decision Maker).</td>
+    <td>Gruppo di acquisto specifico di destinazione (ad esempio, professionista, influenzatore, decision maker).</td>
   </tr>
   <tr>
     <td><b>Fase Percorso marketing</b></td>
@@ -72,60 +72,58 @@ Le impostazioni di testo includono:
 </tbody>
 </table>
 
-Di seguito è riportata un&#39;impostazione di esempio per il testo riempito:
+Facendo clic su **Genera**, vengono visualizzati alcuni esempi tra cui scegliere:
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-4.png)
 
-Puoi anche scegliere di caricare una risorsa del marchio per utilizzare il contenuto all’interno della risorsa come contenuto di riferimento per creare la riga dell’oggetto.
+Puoi anche caricare una risorsa del marchio per utilizzare il contenuto all’interno della risorsa come riferimento per creare la riga oggetto.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-5.png)
 
-Dopo aver selezionato una variante, puoi scegliere di utilizzarla selezionando la variante tramite la casella di controllo e facendo clic su Seleziona. Puoi anche scegliere di perfezionarla facendo clic su perfeziona e modifica le impostazioni. Inoltre, puoi fornire un feedback attraverso i pollici verso l&#39;alto o verso il basso in modo che la tecnologia Gen-AI comprenda ciò che funziona in base alle tue preferenze.
+Per scegliere una variante, selezionarne la casella di controllo e fare clic su **Seleziona**. È inoltre possibile modificarlo facendo clic su **Perfeziona**. Inoltre, puoi fornire un feedback facendo clic sull&#39;icona miniature in alto o miniature in basso in modo che la tecnologia Gen-AI apprenda le tue preferenze.
 
-Dopo aver selezionato, puoi vedere che l’oggetto viene popolato nei tuoi Dettagli e-mail
+Dopo aver effettuato la selezione, la riga dell’oggetto viene inserita nei Dettagli e-mail.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-6.png)
 
 ## Creare contenuti per una sezione specifica dell’e-mail {#create-content-for-a-specific-section}
 
-Dopo aver creato l’e-mail tramite l’Assistente AI da un modello e-mail, potresti voler modificare alcune parti dell’immagine, ad esempio e-mail o testo.
+Dopo aver creato l’e-mail, puoi modificare alcune sezioni, immagini o testo.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-7.png)
 
-Dall’e-mail precedente che è stata generata, l’immagine dell’esperto sanitario non è del tutto corretta; pertanto, se non disponi di un’immagine reale, potresti voler istruire l’assistente AI a creare un’immagine di un esperto sanitario come rappresentazione.
+In questo esempio, utilizziamo un modello di assistenza sanitaria. Se l’immagine esistente dell’esperto sanitario non soddisfa le tue esigenze, puoi istruire l’assistente di intelligenza artificiale a creare la propria immagine di un esperto sanitario. Seleziona semplicemente il contenuto dell’immagine e fai clic sull’assistente AI.
 
-In tal caso, potrebbe essere utile selezionare una parte dell’e-mail e quindi utilizzare l’assistente AI per creare in modo specifico il contenuto per tale sezione. Seleziona il contenuto dell’immagine, quindi fai clic sull’assistente AI.
+![](assets/use-the-ai-assistant-content-accelerator-8.png)
 
-SCHERMATA
+Immetti i dettagli pertinenti nel prompt, ad esempio, &quot;genera un’immagine per un esperto sanitario&quot; e aggiungi eventuali personalizzazioni desiderate. È inoltre possibile utilizzare la libreria dei prompt (a destra del prompt) se non si è sicuri di cosa immettere.
 
-Inserisci i dettagli pertinenti nel prompt, ad esempio &quot;genera un’immagine per un esperto sanitario&quot; e aggiungi eventuali personalizzazioni, se necessario. È inoltre possibile utilizzare la libreria dei prompt a destra del prompt se non si è certi del prompt da immettere.
+Dopo aver fatto clic su **Genera**, vengono create più varianti tra cui scegliere.
 
-Facendo clic su &quot;Genera&quot;, vengono create più varianti e puoi scegliere quella più adatta al contenuto dell’e-mail.
+![](assets/use-the-ai-assistant-content-accelerator-9.png)
 
-SCHERMATA
+Simile all’immagine, è possibile modificare anche parti di testo dell’e-mail.
 
-Analogamente all’immagine, è possibile modificare anche qualsiasi altra parte del contenuto, come il testo.
-
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-10.png)
 
 ## Creare un messaggio e-mail completo da un modello selezionato {#create-an-entire-email}
 
-Questa opzione è disponibile solo se l’e-mail viene creata utilizzando un modello esistente. Può trattarsi di un modello standard fornito da E-mail Designer, di un modello salvato già creato da un addetto marketing o di un modello importato tramite Import HTML. Tieni presente che questa opzione non sarà disponibile se hai scelto &quot;Design from Scratch&quot; (Progetta da zero) per la tua e-mail.
+Questa opzione è disponibile solo se l’e-mail viene creata utilizzando un modello esistente. Può essere un modello standard fornito da E-mail Designer, un modello salvato già creato o un modello importato utilizzando l’opzione Importa HTML. Questa opzione non è disponibile se per l&#39;e-mail si sceglie [Progetta da zero](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch).
 
-Quando selezioni un particolare modello, senza selezionare alcun componente all’interno del modello, fai clic sul pulsante Assistente IA all’interno del nuovo Designer e-mail.
+Seleziona un modello, senza selezionare alcun componente all’interno del modello, quindi fai clic sul pulsante Assistente IA in E-mail Designer.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-11.png)
 
-Immetti il prompt pertinente e scegli le impostazioni di testo, le risorse del brand e le impostazioni di immagine desiderate per l’e-mail.
+Immetti il prompt corrispondente e scegli le impostazioni di testo, le risorse del brand e le impostazioni immagine desiderate per l’e-mail.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-12.png)
 
-Se desideri generare le immagini utilizzando Firefly, seleziona Image Settings (Impostazioni immagine) e attiva l’opzione &quot;Generate Images using AI&quot; (Genera immagini con AI)
+Se desideri generare immagini utilizzando Firefly, seleziona Impostazioni immagine e seleziona l&#39;opzione per **Generare immagini utilizzando AI**.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-13.png)
 
-Seleziona le impostazioni appropriate, ad esempio Tipo di contenuto, Colore e Tono, Illuminazione e composizione, per creare immagini Gen-AI per l’e-mail. Fai clic su Genera per generare varianti dell’e-mail.
+Seleziona il _Tipo di contenuto_, _Colore e tono_, _Illuminazione_ e _Composizione_ per creare immagini Gen-AI per la tua e-mail. Al termine, fai clic su **Genera**.
 
-SCHERMATA
+![](assets/use-the-ai-assistant-content-accelerator-14.png)
 
-Seleziona una delle varianti da visualizzare in anteprima facendo clic su Anteprima o applica la variante in modo da riflettere la modifica nell’area di lavoro.
+Per vedere come si presenterà una variante nell&#39;e-mail, fai clic su **Anteprima**. Scegliere una variante facendo clic su **Applica**.
