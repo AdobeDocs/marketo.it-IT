@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: a5fafa0fb218a366b6e2c9b3adfb785791b52447
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---
@@ -44,11 +44,11 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
    >[!NOTE]
    >
-   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **Mostra cartelle** in alto a sinistra.
+   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **[!UICONTROL Mostra cartelle]** in alto a sinistra.
    >
    >* Per ordinare la tabella in base a una delle colonne, fare clic sul titolo della colonna. La freccia nella riga del titolo indica la colonna e l&#39;ordine di ordinamento correnti.
 
-1. Nella scheda immagine _Dettagli_, fai clic su **Modifica in Adobe Express**.
+1. Nella scheda immagine _Dettagli_, fai clic su **[!UICONTROL Modifica in Adobe Express]**.
 
    SCHERMATA 3a
 
@@ -64,7 +64,7 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
    >[!NOTE]
    >
-   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **Mostra cartelle** in alto a sinistra.
+   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **[!UICONTROL Mostra cartelle]** in alto a sinistra.
    >
    >* Per ordinare la tabella in base a una delle colonne, fare clic sul titolo della colonna. La freccia nella riga del titolo indica la colonna e l&#39;ordine di ordinamento correnti.
 
@@ -90,7 +90,7 @@ Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’edit
 >
 >Per accedere a tutte le funzionalità di modifica di Adobe Express, la licenza acquistata deve trovarsi nella stessa organizzazione IMS del tuo abbonamento Marketo Engage. Inoltre, ogni singolo utente deve disporre di una licenza in Adobe Express. Gli utenti [senza una licenza](#users-without-an-enterprise-license) possono accedere solo alle azioni rapide in Adobe Express.
 
-## Utenti senza una licenza Enterprise {#users-without-an-enterprise-license}
+### Utenti senza una licenza Enterprise {#users-without-an-enterprise-license}
 
 Per chi non dispone di una licenza Enterprise, è comunque possibile accedere a diverse funzioni di modifica rapida delle azioni. Tali caratteristiche sono:
 
@@ -103,9 +103,11 @@ Le funzioni sono accessibili nella parte superiore sinistra della pagina dell’
 
 SCHERMATA
 
-### Ridimensiona immagine {#resize-image}
+#### Ridimensiona immagine {#resize-image}
 
-Apporta le modifiche desiderate e al termine fai clic su **Applica**.
+1. Fare clic su **Ridimensiona immagine**.
+
+1. Apporta le modifiche desiderate e al termine fai clic su **Applica**.
 
 SCHERMATA
 
@@ -124,22 +126,42 @@ SCHERMATA
   </tr>
   <tr>
     <td><b>Zoom e ritaglio</b></td>
-    <td>Fare clic su Zoom e ritaglio per ingrandire aree specifiche dell'immagine.</td>
+    <td>Fai clic su <b>Zoom e ritaglio</b> per ingrandire aree specifiche dell'immagine.</td>
   </tr>
 </tbody>
 </table>
 
+#### Rimuovi sfondo {#remove-background}
 
+1. Fare clic su **Rimuovi sfondo**.
 
-### Rimuovi sfondo {#remove-background}
+1. Adobe Express visualizza l’immagine senza sfondo. Fare clic su **Applica**.
 
-testo
+PIC
 
-### Ritaglia immagine {#crop-image}
+>[!TIP]
+>
+>Per ripristinare lo sfondo, selezionare l&#39;immagine e selezionare di nuovo **Rimuovi sfondo**.
 
-Testo
+#### Ritaglia immagine {#crop-image}
 
-### Converti in PNG/JPEG {#convert-to-png-jpeg}
+1. Fare clic su Ritaglia immagine.
+
+1. Trascinate gli angoli dell&#39;immagine per creare il ritaglio desiderato.
+
+SCHERMATA
+
+1. Al termine, fai clic su **Applica**.
+
+#### Converti in PNG/JPEG {#convert-to-png-jpeg}
+
+Convertire un file PNG in JPEG o un file JPEG in PNG.
+
+1. Fare clic su **Converti in PNG/JPEG**.
+
+1. Fare clic su **Applica**.
+
+RITAGLIA ELEMENTI SOTTO
 
 Fai clic su Ritaglia immagine nella pagina.
 
@@ -151,21 +173,10 @@ Puoi eseguire ulteriori aggiornamenti utilizzando un’altra opzione nel pannell
 
 Fai clic su Salva per completare l’azione.
 
-Accesso all&#39;editor dalla pagina dell&#39;elenco di immagini e file
-Nella pagina dell&#39;elenco selezionare l&#39;immagine che si desidera modificare e fare clic sulla freccia del pulsante di azione Immagine e file nella pagina.
+## Salvare i dati {#save-your-work}
 
-Fai clic su Modifica con Adobe Express
+Al termine delle modifiche, fai clic su Salva per salvare i dati.
 
-Accesso all’editor all’interno di E-mail Designer
+SCHERMATA
 
-Dal nuovo Email Designer, seleziona un’immagine da modificare.
-
-Verrà visualizzata un’opzione per modificare con Adobe Express. Fai clic sul pulsante per procedere.
-
-Nota: questa azione è disponibile per le immagini originate dall&#39;archivio di Marketo Design Studio.
-
-Se l&#39;immagine è in uso, viene visualizzata una finestra di dialogo di avviso che informa che eventuali modifiche apportate avranno effetto sul contenuto. Fai clic su Continua per passare all’editor di Adobe Express.
-
-Completa le modifiche in Adobe Express
-
-Fai clic su Salva per completare l’azione.  L’immagine modificata viene salvata nella stessa cartella dell’immagine originale e aggiornata anche nell’area di lavoro di modifica dell’e-mail.
+L&#39;immagine modificata viene salvata nella stessa cartella dell&#39;immagine originale.
