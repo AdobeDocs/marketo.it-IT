@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
+source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -36,11 +36,11 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 1. In Marketo Engage, passare a **[!UICONTROL Design Studio]** e selezionare **[!UICONTROL Immagini e file]**.
 
-   ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
 1. Seleziona l’immagine da modificare (o creane una nuova).
 
-   SCHERMATA
+   SCHERMATA 2a
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 1. Nella scheda immagine _Dettagli_, fai clic su **Modifica in Adobe Express**.
 
-   SCHERMATA
+   SCHERMATA 3a
 
    >[!CAUTION]
    >
@@ -60,7 +60,7 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 1. In Marketo Engage, passare a **[!UICONTROL Design Studio]** e selezionare **[!UICONTROL Immagini e file]**.
 
-   ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1.png){width="600" zoomable="yes"}
+   ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -70,7 +70,7 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 1. Seleziona la casella di controllo accanto all’immagine da modificare.
 
-   SCHERMATA
+   SCHERMATA 2b
 
 1. Nel menu a discesa **[!UICONTROL Azioni immagine e file]**, seleziona **[!UICONTROL Modifica in Adobe Express]**.
 
@@ -80,7 +80,9 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 >[!ENDTABS]
 
-## Utenti con una licenza Enterprise {#users-with-an-enterprise-license}
+## Licenza Adobe Express Enterprise {#adobe-express-enterprise-license}
+
+### Utenti con una licenza Enterprise {#users-with-an-enterprise-license}
 
 Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’editor Express completo. È possibile regolare le impostazioni dell&#39;immagine come colore, luminosità, nitidezza, contrasto, dimensione e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti di un’immagine.
 
@@ -88,25 +90,56 @@ Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’edit
 >
 >Per accedere a tutte le funzionalità di modifica di Adobe Express, la licenza acquistata deve trovarsi nella stessa organizzazione IMS del tuo abbonamento Marketo Engage. Inoltre, ogni singolo utente deve disporre di una licenza in Adobe Express. Gli utenti [senza una licenza](#users-without-an-enterprise-license) possono accedere solo alle azioni rapide in Adobe Express.
 
-Fai clic su Modifica con Adobe Express per aprire l’immagine.
-
-SCHERMATA
-
-Apporta le modifiche necessarie e salva il file.
-
-SCHERMATA
-
-Fai clic su Salva per completare l’azione.
-
 ## Utenti senza una licenza Enterprise {#users-without-an-enterprise-license}
 
 Per chi non dispone di una licenza Enterprise, è comunque possibile accedere a diverse funzioni di modifica rapida delle azioni. Tali caratteristiche sono:
 
-* Ridimensiona immagine
-* Rimuovi sfondo
-* Ritaglia immagine
-* Converti in PNG
-* Converti in JPEG
+* [Ridimensiona immagine](#resize-image)
+* [Rimuovi sfondo](#remove-background)
+* [Ritaglia immagine](#crop-image)
+* [Converti in PNG/JPEG](#convert-to-png-jpeg)
+
+Le funzioni sono accessibili nella parte superiore sinistra della pagina dell’immagine.
+
+SCHERMATA
+
+### Ridimensiona immagine {#resize-image}
+
+Apporta le modifiche desiderate e al termine fai clic su **Applica**.
+
+SCHERMATA
+
+<table><tbody>
+  <tr>
+    <td><b>Proporzioni</b></td>
+    <td>Nell'elenco a discesa <b>Proporzioni</b>, scegli <b>Standard</b> su BLANK oppure <b>Custom</b> per impostare la tua larghezza/altezza.</td>
+  </tr>
+  <tr>
+    <td><b>Larghezza e altezza</b></td>
+    <td>Per impostazione predefinita, le proporzioni sono bloccate, mantenendo le stesse proporzioni dell'immagine quando ne regolate le dimensioni. Se necessario, è possibile selezionare il pulsante di blocco per sbloccare le proporzioni.</td>
+  </tr>
+  <tr>
+    <td><b>Ripristino</b></td>
+    <td>Fare clic su <b>Reimposta</b> per rimuovere eventuali modifiche apportate all'immagine e riportarla allo stato originale.</td>
+  </tr>
+  <tr>
+    <td><b>Zoom e ritaglio</b></td>
+    <td>Fare clic su Zoom e ritaglio per ingrandire aree specifiche dell'immagine.</td>
+  </tr>
+</tbody>
+</table>
+
+
+
+### Rimuovi sfondo {#remove-background}
+
+testo
+
+### Ritaglia immagine {#crop-image}
+
+Testo
+
+### Converti in PNG/JPEG {#convert-to-png-jpeg}
 
 Fai clic su Ritaglia immagine nella pagina.
 
