@@ -1,11 +1,13 @@
 ---
+solution: Marketo Engage
+product: marketo engage
 description: Panoramica - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 56f40040f6a6eae9ec80393727b89b7902d22816
+source-git-commit: 57b391e568417e34bf1b124d47be13dd22ab98a1
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -14,13 +16,31 @@ ht-degree: 0%
 
 Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 
->[!PREREQUISITES]
->
->Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
-
-Il nuovo e-mail designer è l’ultima innovazione del Marketo Engage, che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza, mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
+E-mail designer è l’ultima innovazione di Marketo Engage che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza, mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
 
 Le e-mail create nella nuova finestra di progettazione possono essere utilizzate nei programmi e-mail e negli elenchi/campagne avanzati. Nuovi e potenti miglioramenti per il designer saranno presto disponibili.
+
+## Come accedere {#how-to-access}
+
++++Scopri come accedere a e-mail designer
+
+Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+
+### Aggiungi utenti {#add-users}
+
+1. In Marketo Engage, vai all&#39;area **[!UICONTROL Amministratore]** e seleziona **[!UICONTROL Nuovo Designer e-mail]**.
+
+   ![Selezione di un nuovo Designer di posta elettronica nel menu di navigazione a sinistra dell&#39;amministratore](assets/overview-1.png){width="600" zoomable="yes"}
+
+1. Fare clic su **[!UICONTROL Aggiungi utenti]**.
+
+   ![Pulsante Aggiungi utenti](assets/overview-2.png){width="600" zoomable="yes"}
+
+1. Nel menu a discesa **[!UICONTROL Aggiungi nuovi valori]**, seleziona gli utenti desiderati. Al termine, fai clic su **[!UICONTROL OK]**.
+
+   ![Scelta degli utenti dall&#39;elenco](assets/overview-3.png){width="600" zoomable="yes"}
+
++++
 
 ## Articoli disponibili {#available-articles}
 
@@ -28,7 +48,11 @@ Le e-mail create nella nuova finestra di progettazione possono essere utilizzate
 
 * [Authoring di modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md){target="_blank"}: scopri come creare, progettare e accedere a un modello e-mail nel nuovo editor.
 
-* [Utilizzare AEM Assets](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: scopri come accedere facilmente alle risorse digitali AEM per l&#39;utilizzo in Marketo Engage.
+* [Utilizzare risorse AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: scopri come accedere facilmente alle risorse digitali AEM per l&#39;utilizzo in Marketo Engage.
+
+* [Utilizza l&#39;AI Assistant Content Accelerator](/help/marketo/product-docs/email-marketing/email-designer/content-accelerator.md){target="_blank"}: sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e/o immagini utili alle e-mail.
+
+* [Blocca il contenuto nei modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: scopri come bloccare il contenuto nei modelli e-mail, per evitare modifiche o eliminazioni non intenzionali.
 
 ## Domande frequenti {#faq}
 

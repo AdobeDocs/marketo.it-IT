@@ -3,13 +3,12 @@ solution: Marketo Engage
 product: marketo engage
 title: Bloccare il contenuto nei modelli e-mail
 description: Scopri come bloccare il contenuto nei modelli e-mail.
-hide: true
-hidefromtoc: true
 level: Beginner, Intermediate
-source-git-commit: dd0da9d57331cf82055b0caca80b8610dbddca57
+exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
+source-git-commit: b8d878ce37218e4fd2afcd52fd07162d110e1c21
 workflow-type: tm+mt
-source-wordcount: '919'
-ht-degree: 11%
+source-wordcount: '891'
+ht-degree: 9%
 
 ---
 
@@ -41,11 +40,9 @@ Il blocco del contenuto può essere applicato al livello **struttura** o al live
 
 Puoi abilitare il blocco del contenuto per un modello e-mail direttamente in E-mail Designer, sia che tu stia creando un nuovo modello che ne stia modificando uno esistente.
 
-—MODIFICA QUI INTERROTTA—
-
 1. Apri o crea un modello e-mail e accedi alla schermata di modifica del contenuto nel Designer e-mail.
 
-1. Nel riquadro **[!UICONTROL Corpo]** a destra, attiva l&#39;opzione **[!UICONTROL Governance]**.
+1. Nel riquadro **[!UICONTROL Corpo]** a destra, abilita l&#39;opzione **[!UICONTROL Governance]**.
 
 1. Dall&#39;elenco a discesa **[!UICONTROL Modalità]**, selezionare la modalità di blocco desiderata per il modello:
 
@@ -54,7 +51,7 @@ Puoi abilitare il blocco del contenuto per un modello e-mail direttamente in E-m
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Se hai selezionato la modalità **[!UICONTROL Blocco contenuto]**, puoi definire ulteriormente il modo in cui gli utenti possono interagire con il modello. Attiva l&#39;opzione **[!UICONTROL Abilita edizione contenuto]** e scegli una delle opzioni seguenti:
+1. Se hai selezionato la modalità **[!UICONTROL Blocco contenuto]**, puoi definire ulteriormente il modo in cui gli utenti possono interagire con il modello. Abilitare l&#39;opzione **[!UICONTROL Abilita edizione contenuto]** e scegliere una delle opzioni seguenti:
 
    * **[!UICONTROL Consenti aggiunta struttura e contenuto]**: gli utenti possono aggiungere strutture tra quelle esistenti e aggiungere componenti di contenuto o frammenti all&#39;interno di strutture modificabili.
 
@@ -65,9 +62,9 @@ Puoi abilitare il blocco del contenuto per un modello e-mail direttamente in E-m
    * [Scopri come bloccare le strutture](#lock-structures)
    * [Scopri come bloccare i componenti](#lock-components)
 
-   Se hai scelto la modalità **[!UICONTROL Sola lettura]**, puoi procedere con la finalizzazione e il salvataggio del modello come di consueto.
+   Se hai scelto la modalità **[!UICONTROL Sola lettura]**, puoi procedere con la finalizzazione e il salvataggio del modello.
 
-Puoi modificare le impostazioni di **[!UICONTROL Governance]** in qualsiasi momento durante la progettazione del modello selezionando il corpo del modello. A questo scopo, fai clic sul collegamento **[!UICONTROL Corpo]** nella barra di navigazione in alto nel riquadro a destra.
+Puoi modificare le impostazioni di **[!UICONTROL Governance]** in qualsiasi momento durante la progettazione del modello selezionando il corpo del modello. A tale scopo, fai clic sul collegamento **[!UICONTROL Corpo]** nella barra di navigazione nella parte superiore del riquadro a destra.
 
 ![](assets/content-locking-2.png){width="800" zoomable="yes"}
 
@@ -89,7 +86,7 @@ Dopo aver bloccato una struttura, non è più possibile duplicare o aggiungere a
 
 1. Seleziona il componente da sbloccare.
 
-1. Attiva l&#39;opzione **[!UICONTROL Usa blocco specifico]**.
+1. Abilita l&#39;opzione **[!UICONTROL Usa blocco specifico]**.
 
 1. Nell&#39;elenco a discesa **[!UICONTROL Blocca tipo]** scegliere **[!UICONTROL Modificabile]**. Per consentire la modifica del contenuto durante il blocco degli stili, selezionare **[!UICONTROL Solo contenuto modificabile]**. [Scopri come bloccare i componenti](#lock-components)
 
@@ -126,18 +123,13 @@ Nell’esempio seguente, la governance è abilitata per il corpo del modello. *L
 
 Quando si utilizza un modello con contenuto bloccato, nel riquadro di destra viene visualizzato il messaggio **[!UICONTROL Governance abilitata]**.
 
-A seconda del tipo di blocco applicato al modello, è possibile eseguire azioni diverse sulle strutture e sui componenti del modello. Per identificare rapidamente tutte le aree modificabili nel modello, attiva l’opzione **[!UICONTROL Evidenzia aree modificabili]**.
+A seconda del tipo di blocco applicato al modello, è possibile eseguire azioni diverse sulle strutture e sui componenti del modello. Per identificare rapidamente tutte le aree modificabili all&#39;interno del modello, abilita l&#39;opzione **[!UICONTROL Evidenzia aree modificabili]**.
 
 Ad esempio, nel modello seguente, tutte le aree sono modificabili, ad eccezione dell’immagine superiore che è stata bloccata, il che significa che non è possibile modificarla o rimuoverla.
 
 ![](assets/content-locking-7.png){width="800" zoomable="yes"}
 
-Per informazioni dettagliate sui diversi tipi di blocco che è possibile applicare, vedere le sezioni seguenti:
-
-* [Bloccare le strutture](#lock-structures)
-* [Bloccare i componenti](#lock-components)
-
-Di seguito sono riportati alcuni esempi di modifica delle e-mail e della configurazione associata di blocco del contenuto che è stata configurata:
+Di seguito sono riportati alcuni esempi di modifica delle e-mail e della configurazione associata di blocco del contenuto configurata:
 
 <table>
 <thead>
