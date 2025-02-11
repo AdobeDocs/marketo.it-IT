@@ -2,22 +2,23 @@
 solution: Marketo Engage
 product: marketo engage
 title: Modificare le immagini con Adobe Express
-description: Scopri come modificare le immagini nell’Editor e-mail di Adobe Marketo Engage utilizzando l’Adobe Express.
+description: Scopri come modificare le immagini nell’Editor e-mail di Adobe Marketo Engage utilizzando Adobe Express.
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 803ab5d02f1e2f66ca0fe9176a8dd248fd91b564
+exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
+source-git-commit: e9a412d0786a0dbeb6f743a90bcaf735032561a6
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
 
 # Modificare le immagini con Adobe Express {#edit-images-with-adobe-express}
 
-Adobe Marketo Engage si integra in modo nativo con Adobe Express, consentendoti di accedere a una serie di strumenti di modifica delle immagini. È possibile utilizzare questi strumenti per modificare le immagini in Marketo Engage Design Studio. L’integrazione offre i seguenti vantaggi chiave:
+Adobe Marketo Engage si integra in modo nativo con Adobe Express e consente di accedere a una serie di strumenti di modifica delle immagini. Questi strumenti consentono di modificare le immagini in Marketo Engage Design Studio. L’integrazione offre i seguenti vantaggi chiave:
 
-* È stato aumentato il riutilizzo dei contenuti modificando e salvando nuove immagini nel Marketo Engage.
+* È stato aumentato il riutilizzo dei contenuti modificando e salvando nuove immagini in Marketo Engage.
 
 * Riduzione del tempo e dell&#39;impegno necessari per aggiornare le immagini o crearne di nuove.
 
@@ -25,9 +26,9 @@ Adobe Marketo Engage si integra in modo nativo con Adobe Express, consentendoti 
 >
 >Al momento, Adobe Express supporta solo i formati di file immagine PNG e JPEG.
 
-## Accedere all’editor di Adobi Express {#access-the-adobe-express-editor}
+## Accedere all’editor di Adobe Express {#access-the-adobe-express-editor}
 
-Esistono due modi per accedere all’editor di Adobi Express.
+Esistono due modi per accedere all’editor di Adobe Express.
 
 >[!BEGINTABS]
 
@@ -47,7 +48,7 @@ Esistono due modi per accedere all’editor di Adobi Express.
    >
    >* Per ordinare la tabella in base a una delle colonne, fare clic sul titolo della colonna. La freccia nella riga del titolo indica la colonna e l&#39;ordine di ordinamento correnti.
 
-1. Nella scheda immagine _Dettagli_, fai clic su **Modifica nell&#39;Adobe Express**.
+1. Nella scheda immagine _Dettagli_, fai clic su **Modifica in Adobe Express**.
 
    SCHERMATA
 
@@ -71,7 +72,7 @@ Esistono due modi per accedere all’editor di Adobi Express.
 
    SCHERMATA
 
-1. Nel menu a discesa **[!UICONTROL Azioni immagine e file]**, seleziona **[!UICONTROL Modifica nell&#39;Adobe Express]**.
+1. Nel menu a discesa **[!UICONTROL Azioni immagine e file]**, seleziona **[!UICONTROL Modifica in Adobe Express]**.
 
    >[!CAUTION]
    >
@@ -81,11 +82,11 @@ Esistono due modi per accedere all’editor di Adobi Express.
 
 ## Utenti con una licenza Enterprise {#users-with-an-enterprise-license}
 
-Se ad Adobe Express si dispone di una licenza Enterprise, è possibile accedere all&#39;editor Express. È possibile regolare impostazioni quali il colore, la luminosità, la nitidezza, il contrasto, le dimensioni di un&#39;immagine e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti dell’immagine.
+Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’editor Express completo. È possibile regolare le impostazioni dell&#39;immagine come colore, luminosità, nitidezza, contrasto, dimensione e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti di un’immagine.
 
 >[!IMPORTANT]
 >
->Per accedere a tutte le funzionalità di modifica degli Adobi Express, la licenza acquistata deve trovarsi nella stessa organizzazione IMS dell’abbonamento al Marketo Engage. Inoltre, ogni singolo utente deve disporre di una licenza in Adobe Express. Gli utenti [senza una licenza](#users-without-an-enterprise-license) possono accedere solo alle azioni rapide in Adobe Express.
+>Per accedere a tutte le funzionalità di modifica di Adobe Express, la licenza acquistata deve trovarsi nella stessa organizzazione IMS del tuo abbonamento Marketo Engage. Inoltre, ogni singolo utente deve disporre di una licenza in Adobe Express. Gli utenti [senza una licenza](#users-without-an-enterprise-license) possono accedere solo alle azioni rapide in Adobe Express.
 
 Fai clic su Modifica con Adobe Express per aprire l’immagine.
 
@@ -109,7 +110,7 @@ Per chi non dispone di una licenza Enterprise, è comunque possibile accedere a 
 
 Fai clic su Ritaglia immagine nella pagina.
 
-Nell’editor di Adobi Express, esegui il ritaglio sull’immagine e fai clic su Salva.
+Nell’editor di Adobe Express, esegui il ritaglio dell’immagine e fai clic su Salva.
 
 Nota: questa azione non sovrascrive l&#39;immagine, ma la presenta per ulteriori modifiche.
 
@@ -126,12 +127,12 @@ Accesso all’editor all’interno di E-mail Designer
 
 Dal nuovo Email Designer, seleziona un’immagine da modificare.
 
-Verrà visualizzata un’opzione per la modifica con Adobe Express. Fai clic sul pulsante per procedere.
+Verrà visualizzata un’opzione per modificare con Adobe Express. Fai clic sul pulsante per procedere.
 
 Nota: questa azione è disponibile per le immagini originate dall&#39;archivio di Marketo Design Studio.
 
-Se l&#39;immagine è in uso, viene visualizzata una finestra di dialogo di avviso che informa che eventuali modifiche apportate avranno effetto sul contenuto. Fai clic su Continua per passare all’editor di Adobi Express.
+Se l&#39;immagine è in uso, viene visualizzata una finestra di dialogo di avviso che informa che eventuali modifiche apportate avranno effetto sul contenuto. Fai clic su Continua per passare all’editor di Adobe Express.
 
-Completa le modifiche nell’Adobe Express
+Completa le modifiche in Adobe Express
 
 Fai clic su Salva per completare l’azione.  L’immagine modificata viene salvata nella stessa cartella dell’immagine originale e aggiornata anche nell’area di lavoro di modifica dell’e-mail.
