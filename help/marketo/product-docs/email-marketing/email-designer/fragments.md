@@ -4,7 +4,7 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 92404e10771920862cd147c09e2ada37484e6118
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
 source-wordcount: '2052'
 ht-degree: 1%
@@ -26,7 +26,7 @@ I frammenti visivi sono blocchi visivi predefiniti creati (utilizzando l’edito
 
 ## Accedere e gestire i frammenti {#access-and-manage-fragments}
 
-Per accedere ai frammenti visivi, vai a **Design Studio** nel Marketo Engage. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Frammenti (nuovi)]**.
+Per accedere ai frammenti visivi, vai a **Design Studio** in Marketo Engage. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Frammenti (nuovi)]**.
 
 ![Frammenti di accesso](assets/access-and-manage-fragments-1.png){width="600" zoomable="yes"}
 
@@ -53,7 +53,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
 <table>
 <tbody>
   <tr>
-    <td><b>Bozza</b></td>
+    <td style="width:25%"><b>Bozza</b></td>
     <td>Quando crei un frammento, questo si trova nello stato Bozza. La bozza rimane tale fino a quando non la pubblichi per l’utilizzo in un messaggio e-mail o in un modello e-mail.
     <p>Azioni disponibili:
     <li>Modifica tutti i dettagli</li>
@@ -63,7 +63,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
     <li>Elimina</li>
   </td>
   <tr>
-    <td><b>Pubblicato</b></td>
+    <td style="width:25%"><b>Pubblicato</b></td>
     <td>Quando pubblichi un frammento, questo diventa disponibile per l’utilizzo in un’e-mail o in un modello e-mail. Il contenuto del frammento pubblicato non può essere modificato nella finestra di progettazione visiva.
     <p>Azioni disponibili:
     <li>Modifica descrizione</li>
@@ -74,13 +74,13 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
     </td>
   </tr>
   <tr>
-    <td><b>Pubblicato con bozza</b></td>
+    <td style="width:25%"><b>Pubblicato con bozza</b></td>
     <td>Quando crei una bozza da un frammento pubblicato, la versione pubblicata rimane disponibile per l’utilizzo in un modello e-mail o e-mail e il contenuto della bozza può essere modificato nella finestra di progettazione visiva. Se si pubblica la bozza della versione, questa sostituirà la versione pubblicata corrente e il contenuto verrà aggiornato in <i>tutti</i> i modelli e-mail e le e-mail in cui è in uso. 
     <p>Azioni disponibili:
     <li>Modifica descrizione</li>
     <li>Aggiungi a un messaggio e-mail o a un modello</li>
     <li>Modifica versione bozza in Progettazione visiva</li>
-    <li>Versione bozza Publish</li>
+    <li>Pubblica versione bozza</li>
     <li>Duplica</li>
     <li>Elimina (se non in uso)</li>
     </td>
@@ -124,7 +124,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
 
 1. Fai clic su **[!UICONTROL Salva]** in qualsiasi momento per salvare la bozza del frammento.
 
-1. Quando sei pronto a rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Publish]**.
+1. Quando sei pronto a rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
 ### Aggiungere struttura e contenuto {#add-structure-and-content}
 
@@ -162,7 +162,7 @@ Uscire dalla visualizzazione in qualsiasi momento facendo clic sulla freccia _In
 
 ## Visualizza frammento utilizzato da riferimenti {#view-fragment-used-by-references}
 
-Nella pagina dei dettagli del frammento, fai clic sulla scheda **[!UICONTROL Usato da]** per visualizzare i dettagli sulla posizione in cui il frammento viene utilizzato all&#39;interno del Marketo Engage.
+Nella pagina dei dettagli del frammento, fai clic sulla scheda **[!UICONTROL Usato da]** per visualizzare i dettagli sulla posizione in cui il frammento viene utilizzato in Marketo Engage.
 
 >[!IMPORTANT]
 >
@@ -217,7 +217,7 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
    Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
-1. Quando il frammento soddisfa i criteri e desideri renderlo disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Publish]**.
+1. Quando il frammento soddisfa i criteri e desideri renderlo disponibile per l&#39;utilizzo in un&#39;e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
 >[!TAB Pubblicato]
 
@@ -245,7 +245,7 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
    Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
-1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Publish]**.
+1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
    Quando pubblichi la versione bozza, questa sostituisce la versione pubblicata corrente e il contenuto viene aggiornato nelle e-mail e nei modelli e-mail in cui è già in uso.
 
@@ -273,7 +273,7 @@ Per aggiornare il contenuto:
 
    Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
-1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Publish]**.
+1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
    Quando pubblichi la versione bozza, questa sostituisce la versione pubblicata corrente e il contenuto viene aggiornato nelle e-mail e nei modelli e-mail in cui è già in uso.
 

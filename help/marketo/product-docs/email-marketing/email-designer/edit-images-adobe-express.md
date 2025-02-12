@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
+source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
 workflow-type: tm+mt
-source-wordcount: '851'
+source-wordcount: '841'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,10 @@ Adobe Marketo Engage si integra in modo nativo con Adobe Express e consente di a
 
 ## Accedere all’editor di Adobe Express {#access-the-adobe-express-editor}
 
-Esistono due modi per accedere all’editor di Adobe Express.
+Esistono due modi per accedere all’editor di Adobe Express:
+
+* Fai clic sul nome dell’immagine
+* _Menu a discesa Azioni immagine e file_
 
 >[!BEGINTABS]
 
@@ -82,7 +85,7 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 ### Utenti con una licenza Enterprise {#users-with-an-enterprise-license}
 
-Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’editor Express completo. È possibile regolare le impostazioni dell&#39;immagine come colore, luminosità, nitidezza, contrasto, dimensione e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti di un’immagine.
+Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’editor Express completo. È possibile regolare le impostazioni dell&#39;immagine come colore, luminosità, nitidezza, contrasto, dimensione e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti di un’immagine. Per informazioni su ciascuna impostazione, visita la [Guida utente di Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"}.
 
 >[!IMPORTANT]
 >
@@ -107,12 +110,12 @@ Le funzioni sono accessibili sul lato sinistro della pagina immagine.
 
 1. Apporta le modifiche desiderate e al termine fai clic su **Applica**.
 
-![TESTOESTRATTO](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Ridimensiona l&#39;immagine con tutte le opzioni disponibili](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
     <td style="width:25%"><b>Proporzioni</b></td>
-    <td>Nell'elenco a discesa <b>Proporzioni</b>, scegli <b>Standard</b> su BLANK oppure <b>Custom</b> per impostare la tua larghezza/altezza.</td>
+    <td>Nel menu a discesa <b>Proporzioni</b>, scegli <b>Standard</b> per scegliere tra le dimensioni comuni precalcolate delle foto oppure <b>Personalizzato</b> per impostare la tua larghezza/altezza. Puoi anche scegliere le dimensioni standard di una specifica piattaforma di social media (Pinterest, Snapchat, ecc.).</td>
   </tr>
   <tr>
     <td style="width:25%"><b>Larghezza e altezza</b></td>
@@ -135,11 +138,11 @@ Le funzioni sono accessibili sul lato sinistro della pagina immagine.
 
 1. Adobe Express visualizza l’immagine senza sfondo. Se soddisfa le tue esigenze, fai clic su **Applica**.
 
-![TESTOESTRATTO](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
+![Immagine di un cane con sfondo rimosso](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
->Per ripristinare lo sfondo, selezionare l&#39;immagine e selezionare di nuovo **Rimuovi sfondo**.
+>Se non sei soddisfatto del risultato, fai clic su **X** per chiudere la finestra.
 
 #### Ritaglia immagine {#crop-image}
 
@@ -147,7 +150,7 @@ Le funzioni sono accessibili sul lato sinistro della pagina immagine.
 
 1. Trascinate gli angoli dell&#39;immagine per creare il ritaglio desiderato.
 
-![TESTOESTRATTO](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
+![Trascinamento degli angoli delle foto per ritagliare l&#39;immagine](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
 1. Al termine, fai clic su **[!UICONTROL Applica]**.
 
@@ -157,26 +160,14 @@ Convertire un file PNG in un file JPEG o un file JPEG in un file PNG.
 
 1. Fare clic su **[!UICONTROL Converti in PNG/JPEG]**.
 
-![TESTOESTRATTO](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+![Converti in finestra PNG/JPEG](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
 1. Fare clic su **[!UICONTROL Applica]**.
 
-—RITAGLIO SOTTO—
-
-Fai clic su Ritaglia immagine nella pagina.
-
-Nell’editor di Adobe Express, esegui il ritaglio dell’immagine e fai clic su Salva.
-
-Nota: questa azione non sovrascrive l&#39;immagine, ma la presenta per ulteriori modifiche.
-
-Puoi eseguire ulteriori aggiornamenti utilizzando un’altra opzione nel pannello di sinistra, fare clic su Salva per sovrascrivere l’immagine esistente o su Salva come nuova risorsa per salvarla come nuova immagine.
-
-Fai clic su Salva per completare l’azione.
-
 ## Salvare i dati {#save-your-work}
 
-Al termine delle modifiche, fai clic su Salva per salvare i dati.
+Dopo aver apportato tutte le modifiche, fai clic su **Salva** per salvare il lavoro.
 
-SCHERMATA
+![Pulsante Salva](assets/edit-images-with-adobe-express-9.png){width="800" zoomable="yes"}
 
 L&#39;immagine modificata viene salvata nella stessa cartella dell&#39;immagine originale.
