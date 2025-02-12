@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 844f9c9b7402974b8e0f2e54159b451818b505c6
+source-git-commit: 6756e292fc8955529ad1ece8f08fb6206717d929
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '851'
 ht-degree: 1%
 
 ---
@@ -38,9 +38,9 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
    ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
-1. Seleziona l’immagine da modificare (o creane una nuova).
+1. Seleziona l’immagine da modificare.
 
-   SCHERMATA 2a
+   ![Clic sul nome dell&#39;immagine](assets/edit-images-with-adobe-express-2a.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -50,7 +50,7 @@ Esistono due modi per accedere all’editor di Adobe Express.
 
 1. Nella scheda immagine _Dettagli_, fai clic su **[!UICONTROL Modifica in Adobe Express]**.
 
-   SCHERMATA 3a
+   ![Fare clic sul pulsante Modifica in Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -68,11 +68,9 @@ Esistono due modi per accedere all’editor di Adobe Express.
    >
    >* Per ordinare la tabella in base a una delle colonne, fare clic sul titolo della colonna. La freccia nella riga del titolo indica la colonna e l&#39;ordine di ordinamento correnti.
 
-1. Seleziona la casella di controllo accanto all’immagine da modificare.
+1. Seleziona la casella di controllo accanto all’immagine da modificare. Nel menu a discesa **[!UICONTROL Azioni immagine e file]**, seleziona **[!UICONTROL Modifica in Adobe Express]**.
 
-   SCHERMATA 2b
-
-1. Nel menu a discesa **[!UICONTROL Azioni immagine e file]**, seleziona **[!UICONTROL Modifica in Adobe Express]**.
+   ![Selezione della casella di controllo accanto al nome dell&#39;immagine e utilizzo del menu a discesa Immagini e azioni file](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
    >[!CAUTION]
    >
@@ -99,9 +97,9 @@ Per chi non dispone di una licenza Enterprise, è comunque possibile accedere a 
 * [Ritaglia immagine](#crop-image)
 * [Converti in PNG/JPEG](#convert-to-png-jpeg)
 
-Le funzioni sono accessibili nella parte superiore sinistra della pagina dell’immagine.
+Le funzioni sono accessibili sul lato sinistro della pagina immagine.
 
-SCHERMATA
+![Pagina immagine che mostra le opzioni di modifica di Adobe Express](assets/edit-images-with-adobe-express-4.png){width="800" zoomable="yes"}
 
 #### Ridimensiona immagine {#resize-image}
 
@@ -109,24 +107,24 @@ SCHERMATA
 
 1. Apporta le modifiche desiderate e al termine fai clic su **Applica**.
 
-SCHERMATA
+![TESTOESTRATTO](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
-    <td><b>Proporzioni</b></td>
+    <td style="width:25%"><b>Proporzioni</b></td>
     <td>Nell'elenco a discesa <b>Proporzioni</b>, scegli <b>Standard</b> su BLANK oppure <b>Custom</b> per impostare la tua larghezza/altezza.</td>
   </tr>
   <tr>
-    <td><b>Larghezza e altezza</b></td>
+    <td style="width:25%"><b>Larghezza e altezza</b></td>
     <td>Per impostazione predefinita, le proporzioni sono bloccate, mantenendo le stesse proporzioni dell'immagine quando ne regolate le dimensioni. Se necessario, è possibile selezionare il pulsante di blocco per sbloccare le proporzioni.</td>
   </tr>
   <tr>
-    <td><b>Ripristino</b></td>
+    <td style="width:25%"><b>Ripristino</b></td>
     <td>Fare clic su <b>Reimposta</b> per rimuovere eventuali modifiche apportate all'immagine e riportarla allo stato originale.</td>
   </tr>
   <tr>
-    <td><b>Zoom e ritaglio</b></td>
-    <td>Fai clic su <b>Zoom e ritaglio</b> per ingrandire aree specifiche dell'immagine.</td>
+    <td style="width:25%"><b>Zoom e ritaglio</b></td>
+    <td>Fai clic su <b>Zoom e ritaglio</b> per ingrandire aree specifiche dell'immagine. Facendo clic su <b>Applica</b> dopo lo zoom, l'immagine viene ritagliata in base al contenuto visualizzato.</td>
   </tr>
 </tbody>
 </table>
@@ -135,9 +133,9 @@ SCHERMATA
 
 1. Fare clic su **Rimuovi sfondo**.
 
-1. Adobe Express visualizza l’immagine senza sfondo. Fare clic su **Applica**.
+1. Adobe Express visualizza l’immagine senza sfondo. Se soddisfa le tue esigenze, fai clic su **Applica**.
 
-PIC
+![TESTOESTRATTO](assets/edit-images-with-adobe-express-6.png){width="800" zoomable="yes"}
 
 >[!TIP]
 >
@@ -145,21 +143,23 @@ PIC
 
 #### Ritaglia immagine {#crop-image}
 
-1. Fare clic su Ritaglia immagine.
+1. Fare clic su **[!UICONTROL Ritaglia immagine]**.
 
 1. Trascinate gli angoli dell&#39;immagine per creare il ritaglio desiderato.
 
-SCHERMATA
+![TESTOESTRATTO](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Al termine, fai clic su **Applica**.
+1. Al termine, fai clic su **[!UICONTROL Applica]**.
 
 #### Converti in PNG/JPEG {#convert-to-png-jpeg}
 
-Convertire un file PNG in JPEG o un file JPEG in PNG.
+Convertire un file PNG in un file JPEG o un file JPEG in un file PNG.
 
-1. Fare clic su **Converti in PNG/JPEG**.
+1. Fare clic su **[!UICONTROL Converti in PNG/JPEG]**.
 
-1. Fare clic su **Applica**.
+![TESTOESTRATTO](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
+
+1. Fare clic su **[!UICONTROL Applica]**.
 
 —RITAGLIO SOTTO—
 
