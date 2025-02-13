@@ -4,9 +4,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
+source-git-commit: 45961ce486231ab2512d65ffa934369a014fe016
 workflow-type: tm+mt
-source-wordcount: '1909'
+source-wordcount: '1908'
 ht-degree: 0%
 
 ---
@@ -53,8 +53,8 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
 <table>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Bozza</b></td>
-    <td>Quando crei un frammento, questo si trova nello stato Bozza. La bozza rimane tale fino a quando non la pubblichi per l’utilizzo in un messaggio e-mail o in un modello e-mail.
+    <td width="25%"><b>Bozza</b></td>
+    <td width="70%">Quando crei un frammento, questo si trova nello stato Bozza. La bozza rimane tale fino a quando non la pubblichi per l’utilizzo in un messaggio e-mail o in un modello e-mail.
     <p>Azioni disponibili:
     <li>Modifica tutti i dettagli</li>
     <li>Modifica in designer visivo</li>
@@ -63,7 +63,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
     <li>Elimina</li>
   </td>
   <tr>
-    <td style="width:25%"><b>Pubblicato</b></td>
+    <td><b>Pubblicato</b></td>
     <td>Quando pubblichi un frammento, questo diventa disponibile per l’utilizzo in un’e-mail o in un modello e-mail. Il contenuto del frammento pubblicato non può essere modificato nella finestra di progettazione visiva.
     <p>Azioni disponibili:
     <li>Modifica descrizione</li>
@@ -74,7 +74,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
     </td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Pubblicato con bozza</b></td>
+    <td><b>Pubblicato con bozza</b></td>
     <td>Quando crei una bozza da un frammento pubblicato, la versione pubblicata rimane disponibile per l’utilizzo in un modello e-mail o e-mail e il contenuto della bozza può essere modificato nella finestra di progettazione visiva. Se si pubblica la bozza della versione, questa sostituirà la versione pubblicata corrente e il contenuto verrà aggiornato in <i>tutti</i> i modelli e-mail e le e-mail in cui è in uso. 
     <p>Azioni disponibili:
     <li>Modifica descrizione</li>
