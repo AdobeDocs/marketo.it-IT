@@ -1,6 +1,6 @@
 ---
 solution: Marketo Engage
-product: marketo engage
+product: marketo
 title: Frammenti con parametri
 description: Scopri come personalizzare i frammenti rendendo modificabili alcuni dei loro campi.
 feature: Email Editor
@@ -8,9 +8,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: f50fe3ff6ce2d9e98fa98cc72fd756844d55660c
+source-git-commit: 76d854176c3c462596596689b43d3567517fee63
 workflow-type: tm+mt
-source-wordcount: '648'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Sfruttando i frammenti con parametri, puoi gestire e personalizzare in modo effi
 
 I frammenti visivi e di espressione possono essere contrassegnati come personalizzabili. Per istruzioni dettagliate su come procedere con ciascun tipo di frammento, consulta le sezioni seguenti.
 
-SCHERMATA
+SCHERMATA - GIF?
 
 —MODIFICA QUI INTERROTTA—
 
@@ -45,17 +45,17 @@ Per rendere modificabili parti di un frammento visivo, effettua le seguenti oper
 
    Nell’esempio seguente, è consentita la modifica dell’URL del pulsante &quot;Fai clic qui&quot;.
 
-SCHERMATA
+   ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
 1. Fare clic su **Panoramica** per controllare tutti i campi modificabili e i relativi valori predefiniti.
 
    In questo esempio, il campo URL del pulsante viene visualizzato con il valore predefinito definito nel componente. Questo valore sarà personalizzabile dagli utenti dopo che avranno aggiunto il frammento al loro contenuto.
 
-SCHERMATA
+   ![](assets/fragment-param-preview.png){width="800" zoomable="yes"}
 
 1. Al termine dell’operazione, salva le modifiche per aggiornare il frammento.
 
-1. Dopo aver aggiunto il frammento in un messaggio e-mail, gli utenti potranno personalizzare tutti i campi modificabili configurati nel frammento. [Scopri come personalizzare i campi modificabili in un frammento visivo](../email/use-visual-fragments.md#customize-fields)
+1. Dopo aver aggiunto il frammento in un messaggio e-mail, gli utenti potranno personalizzare tutti i campi modificabili configurati nel frammento.
 
 ## Aggiungere campi modificabili nei componenti HTML e nei frammenti di espressione {#expression}
 
@@ -75,6 +75,6 @@ Gli elementi riportati di seguito possono diventare campi modificabili in un com
 
 Ad esempio, nel codice seguente, ogni elemento evidenziato in rosso può diventare una proprietà:
 
-![](assets/fragment-html.png){width="70%"}
+![](assets/fragment-html.png){width="500" zoomable="yes"}
 
 +++
