@@ -4,10 +4,10 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 hide: true
 hidefromtoc: true
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 6133a39e8a30aac4f2788b754bb40c2b4f282f03
+source-git-commit: 7ff2a4f48fb871e91e45889cce10aa0a0fd7051f
 workflow-type: tm+mt
-source-wordcount: '2052'
-ht-degree: 1%
+source-wordcount: '1909'
+ht-degree: 0%
 
 ---
 
@@ -114,37 +114,11 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
 
    La finestra di progettazione visiva viene aperta con un&#39;area di lavoro vuota.
 
-1. Utilizza gli strumenti di progettazione del contenuto per creare il contenuto del frammento visivo:
-
-   * [Aggiungere struttura e contenuto](#add-structure-and-content)
-   * [Aggiungi Assets](#add-assets)
-   * [Spostarsi tra livelli, impostazioni e stili](#navigate-the-layers-settings-and-styles)
-   * [Personalizzare il contenuto](#personalize-content)
-   * [Modifica tracciamento URL collegato](#edit-linked-url-tracking)
+1. Utilizza gli [strumenti di progettazione del contenuto](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} per creare il contenuto del frammento visivo.
 
 1. Fai clic su **[!UICONTROL Salva]** in qualsiasi momento per salvare la bozza del frammento.
 
 1. Quando sei pronto a rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
-
-### Aggiungere struttura e contenuto {#add-structure-and-content}
-
-{{$include /help/marketo/_includes/content-design-components.md}}
-
-### Aggiungere risorse
-
-{{$include /help/_includes/content-design-assets.md}}
-
-### Spostarsi tra livelli, impostazioni e stili
-
-{{$include /help/_includes/content-design-navigation.md}}
-
-### Personalizzare il contenuto
-
-{{$include /help/_includes/content-design-personalization.md}}
-
-### Modifica tracciamento URL collegato
-
-{{$include /help/_includes/content-design-links.md}}
 
 ## Visualizza dettagli frammento {#view-fragment-details}
 
@@ -205,19 +179,11 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
    ![Dettagli per frammento con stato Bozza](assets/fragment-draft-details.png){width="600" zoomable="yes"}
 
-1. Per apportare modifiche al contenuto nella finestra di progettazione visiva, fare clic su **[!UICONTROL Modifica frammento]**.
+1. Per apportare modifiche al contenuto nella finestra di progettazione visiva, fare clic su **[!UICONTROL Modifica frammento]**. Al termine, fai clic su **Salva**.
 
-   Utilizza gli strumenti di progettazione visiva secondo necessità:
+1. Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
-   * [Aggiungere struttura e contenuto](#add-structure-and-content)
-   * [Aggiungi Assets](#add-assets)
-   * [Spostarsi tra livelli, impostazioni e stili](#navigate-the-layers-settings-and-styles)
-   * [Personalizzare il contenuto](#personalize-content)
-   * [Modifica tracciamento URL collegato](#edit-linked-url-tracking)
-
-   Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
-
-1. Quando il frammento soddisfa i criteri e desideri renderlo disponibile per l&#39;utilizzo in un&#39;e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
+1. Se desideri rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
 >[!TAB Pubblicato]
 
@@ -235,19 +201,13 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
    ![Finestra di dialogo Crea bozza versione](assets/fragments-create-draft-version.png){width="300"}
 
-   Utilizza gli strumenti di progettazione visiva secondo necessità:
+1. Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
-   * [Aggiungere struttura e contenuto](#add-structure-and-content)
-   * [Aggiungi Assets](#add-assets)
-   * [Spostarsi tra livelli, impostazioni e stili](#navigate-the-layers-settings-and-styles)
-   * [Personalizzare il contenuto](#personalize-content)
-   * [Modifica tracciamento URL collegato](#edit-linked-url-tracking)
+1. Se desideri rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
-   Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
-
-1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
-
-   Quando pubblichi la versione bozza, questa sostituisce la versione pubblicata corrente e il contenuto viene aggiornato nelle e-mail e nei modelli e-mail in cui è già in uso.
+>[!NOTE]
+>
+>Quando pubblichi la versione bozza, questa sostituisce la versione pubblicata corrente e il contenuto viene aggiornato nelle e-mail e nei modelli e-mail in cui è già in uso.
 
 >[!TAB Pubblicato con bozza]
 
@@ -259,23 +219,19 @@ Esistono due modi per aprire la versione bozza per la modifica dalla pagina di e
 
 * Fai clic sul nome del frammento per aprirlo. Quindi, fai clic su **[!UICONTROL Apri versione bozza]** in alto a destra.
 
-  Viene visualizzata un’anteprima del contenuto visivo per la versione bozza, con i dettagli del frammento a destra.
+Viene visualizzata un’anteprima del contenuto visivo per la versione bozza, con i dettagli del frammento a destra.
 
 Per aggiornare il contenuto:
 
-1. Fai clic su **[!UICONTROL Modifica frammento]** in alto a destra. Utilizza gli strumenti di progettazione visiva secondo necessità:
+1. Fai clic su **[!UICONTROL Modifica frammento]** in alto a destra. Al termine, fai clic su **Salva**.
 
-   * [Aggiungere struttura e contenuto](#add-structure-and-content)
-   * [Aggiungi Assets](#add-assets)
-   * [Spostarsi tra livelli, impostazioni e stili](#navigate-the-layers-settings-and-styles)
-   * [Personalizzare il contenuto](#personalize-content)
-   * [Modifica tracciamento URL collegato](#edit-linked-url-tracking)
+1. Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
 
-   Fai clic su **[!UICONTROL Salva]** o **[!UICONTROL Salva e chiudi]** per tornare ai dettagli del frammento.
+1. Se desideri rendere il frammento disponibile per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
 
-1. Quando il frammento bozza soddisfa i criteri e desideri rendere le modifiche disponibili per l&#39;utilizzo in un messaggio e-mail o in un modello e-mail, fai clic su **[!UICONTROL Pubblica]**.
-
-   Quando pubblichi la versione bozza, questa sostituisce la versione pubblicata corrente e il contenuto viene aggiornato nelle e-mail e nei modelli e-mail in cui è già in uso.
+>[!NOTE]
+>
+>Quando pubblichi la versione bozza, questa sostituisce la versione pubblicata corrente e il contenuto viene aggiornato nelle e-mail e nei modelli e-mail in cui è già in uso.
 
 >[!ENDTABS]
 
@@ -288,7 +244,7 @@ Puoi duplicare un frammento utilizzando uno dei seguenti metodi:
 
 ![Duplica il frammento](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}
 
-Nella finestra di dialogo, inserisci un nome univoco e una descrizione facoltativa. Fai clic su **[!UICONTROL Duplica]** per completare l&#39;azione.
+Nella finestra di dialogo, inserisci un nome univoco e una descrizione facoltativa. Fai clic su **[!UICONTROL Duplica]**.
 
 ![Immettere un nome e una descrizione per il frammento duplicato](assets/fragment-duplicate-dialog.png){width="400"}
 
@@ -296,7 +252,7 @@ Il frammento duplicato viene quindi visualizzato nell&#39;elenco _Frammenti_.
 
 ## Salvare un nuovo frammento da e-mail o contenuto del modello {#save-a-new-fragment-from-email-or-template-content}
 
-Quando crei/modifichi un modello e-mail o e-mail nell’editor di contenuto visivo, puoi salvare tutto o parte del contenuto come frammento in modo che sia disponibile per il riutilizzo.
+Quando crei/modifichi un modello e-mail o e-mail nell’editor di contenuto visivo, puoi salvare tutto o parte del contenuto come frammento per riutilizzarlo.
 
 1. Per salvare il contenuto come frammento, fare clic su **[!UICONTROL Altro]** e scegliere **[!UICONTROL Salva come frammento]**.
 
@@ -304,13 +260,13 @@ Quando crei/modifichi un modello e-mail o e-mail nell’editor di contenuto visi
 
    Selezionare più strutture tenendo premuto il pulsante Maiusc o Ctrl.
 
-   È possibile selezionare solo strutture adiacenti e l&#39;interfaccia non consente di selezionare elementi non adiacenti.
+   È possibile selezionare solo strutture adiacenti.
 
 1. Con il contenuto selezionato, fai clic su **[!UICONTROL Crea]** in alto a destra.
 
 1. Nella finestra di dialogo, immetti un nome e una descrizione facoltativa per il frammento e fai clic su **[!UICONTROL Crea]**.
 
-   Il frammento viene quindi visualizzato nella pagina di elenco _Frammenti_ ed è disponibile anche per l&#39;utilizzo nelle e-mail e nei modelli e-mail.
+Il frammento viene quindi visualizzato nella pagina di elenco _Frammenti_ ed è disponibile per l&#39;utilizzo nelle e-mail e nei modelli e-mail.
 
 ## Aggiungere frammenti visivi all’e-mail o al contenuto del modello {#add-visual-fragments-to-your-email-or-template-content}
 
