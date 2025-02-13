@@ -3,9 +3,9 @@ description: Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 79b439a9bb3d3cd130eb5a7b52cea13988e7b88e
+source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
@@ -54,14 +54,22 @@ Visualizzare finestre di dialogo, flussi conversazionali o tutti. Seleziona un p
 <thead>
 <tbody>
   <tr>
-    <td style="width:25%"><b>Completato</b></td>
+    <td style="width:30%"><b>Completato</b></td>
     <td>Un evento completato si verifica quando un visitatore raggiunge l'ultimo prompt in una conversazione <i>o</i> quando esaurisce tutto il contenuto di una conversazione.
     <br>Un evento completato per visitatore, per sessione.</td>
   </tr>
   <tr>
-    <td style="width:25%"><b>Persone acquisite</b></td>
+    <td style="width:30%"><b>Persone acquisite</b></td>
     <td>Si verifica quando un visitatore invia il proprio indirizzo e-mail.
     <br>Un'acquisizione per visitatore, per sessione.</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Tasso di coinvolgimento</b></td>
+    <td>Numero di utenti che hanno risposto (primo input dell’utente)/numero di trigger (chatbot visualizzati).</td>
+  </tr>
+  <tr>
+    <td style="width:30%"><b>Tasso di conversione</b></td>
+    <td>Utente acquisito (nuove e-mail acquisite)/utente coinvolto.</td>
   </tr>
 </tbody>
 </table>
