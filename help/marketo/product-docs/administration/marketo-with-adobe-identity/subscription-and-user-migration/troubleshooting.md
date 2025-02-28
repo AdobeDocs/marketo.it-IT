@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: a2186f054e7b7a780098157927651a084e353bd8
+source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
 workflow-type: tm+mt
 source-wordcount: '602'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Post-migrazione: l&#39;utente deve essere aggiunto ad Active Directory con le au
 
 ### Carattere Gmail non valido {#gmail-invalid-character}
 
-_Causa principale_: in base ai criteri di sicurezza di Adobe, i caratteri `.` e `+` non sono consentiti in un indirizzo e-mail Gmail. Entrambi i caratteri sono consentiti solo negli indirizzi e-mail non Gmail.
+_Causa principale_: in base ai criteri di sicurezza di Adobe, i caratteri `.` e `+` non sono consentiti in un indirizzo e-mail Gmail. Entrambi i caratteri sono consentiti negli indirizzi e-mail non Gmail.
 
 _Risoluzione_:
 
