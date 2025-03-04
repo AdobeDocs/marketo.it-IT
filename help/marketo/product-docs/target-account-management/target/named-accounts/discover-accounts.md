@@ -4,9 +4,9 @@ description: Esplorare gli account - Documentazione di Marketo - Documentazione 
 title: Individua account
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: dd4c8472ec3f453462bd8046daf70c89c587724a
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '558'
 ht-degree: 0%
 
 ---
@@ -76,8 +76,6 @@ Identifica le aziende giuste per il targeting.
    >* Filtra la maggior parte dei provider di servizi Internet e dei domini pubblici (ad esempio, yahoo.com, gmail.com) come nomi di società
    >
    >* Deduplica gli account CRM. Se hai &quot;Acme&quot; in un record e &quot;Acme Inc&quot; (o uno qualsiasi dei seguenti suffissi: Co, Corp, Corporation, Gmbh, Inc, Incorporated, LLC, LLP, LP, Ltd, PA, PC, PLC, PLLC), li uniremo in TAM come semplicemente &quot;Acme&quot;
-   >
-   >Se desideri che Marketo deduplichi gli account in base all&#39;ID CRM o al proprietario dell&#39;account anziché in base al nome della società, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
 
 1. Fai clic sulla freccia rivolta verso il basso sotto la colonna Account denominato per visualizzare il menu a discesa.
 
