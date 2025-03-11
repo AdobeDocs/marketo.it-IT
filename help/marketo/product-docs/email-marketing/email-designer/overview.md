@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: b7e378af0d606202f022848d2a099d5170061024
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -28,15 +28,15 @@ Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve e
 
 ### Aggiungi utenti {#add-users}
 
-1. In Marketo Engage, vai all&#39;area **[!UICONTROL Amministratore]** e seleziona **[!UICONTROL Nuovo Designer e-mail]**.
+1. In Marketo Engage, passare all&#39;area **[!UICONTROL Admin]** e selezionare **[!UICONTROL New Email Designer]**.
 
    ![Selezione di un nuovo Designer di posta elettronica nel menu di navigazione a sinistra dell&#39;amministratore](assets/overview-1.png){width="600" zoomable="yes"}
 
-1. Fare clic su **[!UICONTROL Aggiungi utenti]**.
+1. Fai clic su **[!UICONTROL Add Users]**.
 
    ![Pulsante Aggiungi utenti](assets/overview-2.png){width="600" zoomable="yes"}
 
-1. Nel menu a discesa **[!UICONTROL Aggiungi nuovi valori]**, seleziona gli utenti desiderati. Al termine, fai clic su **[!UICONTROL OK]**.
+1. Nel menu a discesa **[!UICONTROL Add New Values]**, seleziona gli utenti desiderati. Al termine, fai clic su **[!UICONTROL OK]**.
 
    ![Scelta degli utenti dall&#39;elenco](assets/overview-3.png){width="600" zoomable="yes"}
 
@@ -86,6 +86,10 @@ modelli nella finestra di progettazione, riducendo la necessità di sviluppatori
 **La nuova finestra di progettazione e-mail supporta il linguaggio AMP?**
 
 Al momento non dispone del supporto per AMP.
+
+**È possibile modificare le risorse tramite API nella nuova finestra di progettazione e-mail?**
+
+Assets in fase di modifica tramite API non è al momento supportato nel nuovo e-mail designer.
 
 **Il contenuto dinamico per attributo è ottimo, ma il contenuto dinamico per segmento continua a funzionare?**
 
