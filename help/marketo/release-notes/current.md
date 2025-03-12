@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 709c5f3c0009763f8ab7778278c6a2fe6db10a08
+source-git-commit: 7a583a482af64290d08644945e569612f4be8ab9
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '438'
 ht-degree: 4%
 
 ---
@@ -33,6 +33,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr> 
    <td><strong>Designer e-mail disponibile in tutti i programmi</strong>: le nuove e-mail di Designer sono ora accessibili nei programmi di coinvolgimento, predefiniti ed eventi (con l'unica eccezione dei programmi di webinar interattivi). In precedenza erano disponibili solo nei programmi e-mail.</td>
+   <td><i>In arrivo</i></td>
+   <td><i>In arrivo</i></td>
+  </tr>
+  <tr> 
+   <td> </td> 
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr> 
+   <td><strong>Funzionalità GenAI nei webinar interattivi</strong>: è ora possibile generare capitoli e un riepilogo per i webinar on demand. Modificare ed esportare un file HTML dei dati.</td>
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
@@ -70,7 +80,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    * Condividi video
    * Lotterie
 
-Da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social in Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le risorse social cesseranno di funzionare. Le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
+Da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social in Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le attività social hanno cessato di funzionare. Tutte le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
 * **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 30 giugno 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
