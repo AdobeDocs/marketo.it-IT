@@ -4,9 +4,9 @@ description: Informazioni sugli oggetti personalizzati di Marketo - Documentazio
 title: Informazioni sugli oggetti personalizzati di Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7fd4d4e12b348ad4d0d69cd3f62cf441eda258b8
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Utilizza oggetti personalizzati per tenere traccia delle metriche specifiche del
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 Utilizza oggetti personalizzati come filtri e attivatori nelle campagne intelligenti. Ad esempio:
 
@@ -43,11 +43,11 @@ Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di 
 
 ## Accesso agli oggetti personalizzati di Marketo {#accessing-marketo-custom-objects}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/understanding-marketo-custom-objects-1.png)
 
-1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/understanding-marketo-custom-objects-2.png)
 
@@ -69,23 +69,27 @@ Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di 
 
 ## Visualizzare oggetti personalizzati associati a una persona {#view-custom-objects-associated-to-a-person}
 
-Dopo aver creato la struttura oggetto personalizzata, quando si caricano dati oggetto personalizzati specifici, gli oggetti personalizzati vengono automaticamente associati agli utenti del database utilizzando il campo di collegamento nell&#39;oggetto personalizzato. Puoi visualizzare le informazioni dalla scheda [!UICONTROL Oggetti personalizzati] nella pagina dei dettagli della persona.
+Dopo aver creato la struttura oggetto personalizzata, quando si caricano dati oggetto personalizzati specifici, gli oggetti personalizzati vengono automaticamente associati agli utenti del database utilizzando il campo di collegamento nell&#39;oggetto personalizzato. È possibile visualizzare le informazioni dalla scheda [!UICONTROL Custom Objects] nella pagina dei dettagli della persona.
 
 1. Vai a **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 
-1. Apri il database e fai clic sulla scheda **[!UICONTROL Persone]**. Fare doppio clic sul record di una persona associata a un oggetto personalizzato.
+1. Aprire il database e fare clic sulla scheda **[!UICONTROL People]**. Fare doppio clic sul record di una persona associata a un oggetto personalizzato.
 
    ![](assets/understanding-marketo-custom-objects-6.png)
 
-1. Nella pagina dei dettagli della persona, fai clic sulla scheda **[!UICONTROL Oggetti personalizzati]**. Seleziona l’oggetto dal menu a discesa.
+1. Nella pagina dei dettagli della persona fare clic sulla scheda **[!UICONTROL Custom Objects]**. Seleziona l’oggetto dal menu a discesa.
 
    ![](assets/understanding-marketo-custom-objects-7.png)
 
 1. Ora puoi visualizzare un elenco di tutti gli oggetti personalizzati di quel tipo associati a quella persona.
 
    ![](assets/understanding-marketo-custom-objects-8.png)
+
+   >[!NOTE]
+   >
+   >In un record persona, nella scheda Oggetto personalizzato è possibile visualizzare un massimo di 100 record, ordinati in base all&#39;ID in ordine decrescente.
 
 ## Utilizzo di oggetti personalizzati con le aziende {#using-custom-objects-with-companies}
 
