@@ -4,9 +4,10 @@ title: Funzioni GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
+exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
+source-git-commit: 827e5acdf901201c16a4265f35e9be0fc45cdf2f
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -57,10 +58,11 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
      ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
-
    >[!NOTE]
    >
-   >Se lo desideri, puoi valutare la qualità dei capitoli/riepilogo generati con le icone _miniature_ ![miniature verso l&#39;alto](assets/icon-thumbs-up.png) o _miniature verso il basso_ ![miniature verso il basso](assets/icon-thumbs-down.png). Puoi anche segnalare eventuali contenuti problematici facendo clic sull&#39;icona del contrassegno ![icona Contrassegno](assets/icon-flag.png).
+   >* Se lo desideri, puoi valutare la qualità dei capitoli/riepilogo generati con le icone _miniature_ ![miniature verso l&#39;alto](assets/icon-thumbs-up.png) o _miniature verso il basso_ ![miniature verso il basso](assets/icon-thumbs-down.png). Puoi anche segnalare eventuali contenuti problematici facendo clic sull&#39;icona del contrassegno ![icona Contrassegno](assets/icon-flag.png).
+   >
+   >* Se non si è soddisfatti del riepilogo iniziale, è possibile fare clic sul pulsante **Rigenera riepilogo** per generare un&#39;altra versione.
 
 1. Salva le modifiche facendo clic sul pulsante **Salva** in alto a destra dello schermo.
 
