@@ -4,7 +4,7 @@ title: Funzioni GenAI
 feature: Interactive Webinars
 hide: true
 hidefromtoc: true
-source-git-commit: 5aba776dc5e6b324eb6c6aacc398b7c7c0adc96e
+source-git-commit: 0008359ee2299cc9158151320bc8752be49e3821
 workflow-type: tm+mt
 source-wordcount: '454'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
 1. Fai clic su **Genera**.
 
-   ![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+   ![](assets/gen-ai-features-1.png){width="750" zoomable="yes"}
 
 1. Viene visualizzata una nuova scheda con i capitoli generati dall’intelligenza artificiale e un riepilogo di testo.
 
@@ -41,7 +41,7 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
 1. Se sono necessarie modifiche, fare clic sul pulsante **Modifica**.
 
-   Per apportare modifiche:
+   Apportare modifiche:
 
    * Modifica il testo nel riepilogo e/o nei titoli dei capitoli.
 
@@ -55,14 +55,14 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
       * Per unire più capitoli, è necessario eseguire due operazioni alla volta
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-2.png){width="600" zoomable="yes"}
 
 
    >[!NOTE]
    >
    >Se lo desideri, puoi valutare la qualità dei capitoli/riepilogo generati con le icone _miniature_ ![miniature verso l&#39;alto](assets/icon-thumbs-up.png) o _miniature verso il basso_ ![miniature verso il basso](assets/icon-thumbs-down.png). Puoi anche segnalare eventuali contenuti problematici facendo clic sull&#39;icona del contrassegno ![icona Contrassegno](assets/icon-flag.png).
 
-1. Salva le modifiche facendo clic sul pulsante **Salva** in alto a sinistra nella schermata.
+1. Salva le modifiche facendo clic sul pulsante **Salva** in alto a destra dello schermo.
 
 ## Utilizzare i contenuti generati {#use-generated-content}
 
@@ -88,4 +88,4 @@ Dopo aver copiato il contenuto che desideri utilizzare, incollalo nell’editor 
 
 * Eliminando il webinar viene eliminato anche il contenuto GenAI.
 
-* Per ulteriori chiarimenti o una richiesta di eliminazione dei dati, contatta il team dell&#39;account Adobe (il tuo Account Manager) oppure inviaci un&#39;e-mail qui: `marketo-webinar-genai-alerts@adobe.com`.
+* Per ulteriori chiarimenti o una richiesta di eliminazione dei dati, contatta il team dell&#39;account di Adobe (il tuo Account Manager) oppure invia un&#39;e-mail a: `marketo-webinar-genai-alerts@adobe.com`.
