@@ -4,7 +4,7 @@ description: Dettagli delle modifiche in Audit Trail - Documentazione di Marketo
 title: Modifica dettagli in Audit Trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1477b889f74597396b3467371229a511e4390f91
 workflow-type: tm+mt
 source-wordcount: '1902'
 ht-degree: 10%
@@ -31,7 +31,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="15"><strong>Programma predefinito</strong><br><br><br><br><br><br><br><br><br><br><br></td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Tipo di canale "tipo di canale"<br>o<br>Clonato da "nome programma"</td> 
   </tr> 
   <tr> 
@@ -92,7 +92,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="19"><strong>E-mail</strong><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Creato utilizzando il modello "nome modello" <br> o <br>Clonato da "nome risorsa"</td> 
   </tr> 
   <tr> 
@@ -137,7 +137,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Modifica</td> 
-   <td>Modifica modulo <module name><attribute> a "value"</td> 
+   <td>Modifica modulo <code>"&lt;module name&gt;" &lt;attribute&gt;</code> in "valore"</td> 
   </tr> 
   <tr> 
    <td>Elimina</td> 
@@ -156,7 +156,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Spostato in "Attività di marketing" nel programma "nome programma"</td> 
   </tr> 
   <tr> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -168,7 +168,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>L'e-mail è stata bozza perché il frammento "nome frammento" è stato approvato<br>o<br>L'e-mail è stata bozza perché il modello "nome modello" è stato approvato</td> 
   </tr> 
    <td rowspan="17">Programma e-mail</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Tipo di canale "tipo di canale"<br>o<br>Clonato da "nome programma"</td> 
   </tr> 
   <tr> 
@@ -237,7 +237,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="8">Modello e-mail</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Vuoto o clonato da "nome modello"</td> 
   </tr> 
   <tr> 
@@ -261,7 +261,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>Clonato in "nome cartella" <br> Nome risorsa clonato "name"</td> 
   </tr> 
   <tr> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -270,7 +270,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="23">Programma di coinvolgimento</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Tipo di canale "tipo di canale"<br> o<br> Clonato da "nome programma"</td> 
   </tr> 
   <tr> 
@@ -363,7 +363,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="18">Programma evento</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Tipo di canale "tipo di canale"<br>o<br>Clonato da "nome programma"</td> 
   </tr> 
   <tr> 
@@ -436,7 +436,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="5">Cartelle</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -457,7 +457,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="8">Forms</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>In arrivo. Ulteriori informazioni o clonazione da "nome modulo"</td> 
   </tr> 
   <tr> 
@@ -490,12 +490,12 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td>Forms</td> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
    <td>Utilizzato da # assets </td> 
   </tr> 
   <tr> 
-   <td rowspan="9">Pagina di destinazione</td> 
-   <td>Crea</td> 
+   <td rowspan="9">Landing Page</td> 
+   <td>Creare</td> 
    <td>Creato utilizzando il modello "nome modello" <br> o <br>Clonato da "nome risorsa"</td> 
   </tr> 
   <tr> 
@@ -527,7 +527,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>Spostato in "Design studio" nella cartella "nome cartella"<br> o<br> Spostato in "Attività di marketing" nel programma "nome programma"</td> 
   </tr> 
   <tr> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -540,7 +540,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="8">Modello per pagina di destinazione</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td><p>Vuoto<br>o<br>Clonato da "nome risorsa"</p></td> 
   </tr> 
   <tr> 
@@ -564,7 +564,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>N/D</td> 
   </tr> 
   <tr> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
    <td>Utilizzato da # assets </td> 
   </tr> 
   <tr> 
@@ -573,7 +573,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="5">Elenco (statico)</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -594,7 +594,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="12">Campagna avanzata</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>N/D</td> 
   </tr> 
   <tr> 
@@ -643,7 +643,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="7">Elenco avanzato</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Clonato da "nome elenco avanzato"</td> 
   </tr> 
   <tr> 
@@ -672,7 +672,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="11">Frammento</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td><p>Vuoto<br>o<br>Clonato da "nome frammento"</p></td> 
   </tr> 
   <tr> 
@@ -704,7 +704,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>Clonato in "nome cartella" <br>Nome frammento clonato "name"</td> 
   </tr> 
   <tr> 
-   <td>Approva</td> 
+   <td>Approvazione</td> 
    <td>Utilizzato da # assets</td> 
   </tr> 
   <tr> 
@@ -739,7 +739,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="2">Partizione</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Partizione creata con il nome "nome partizione"</td> 
   </tr> 
   <tr> 
@@ -753,7 +753,7 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
   </tr> 
   <tr> 
    <td rowspan="3">Ruolo<br><br></td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Ruolo creato con "nome ruolo" (NOTA: se sono necessari dettagli sulle autorizzazioni aggiunte, contattare il supporto tecnico) - <br>mostra l'istantanea delle autorizzazioni assegnate al ruolo</td> 
   </tr> 
   <tr> 
@@ -795,12 +795,12 @@ Audit Trail offre informazioni approfondite su chi sta facendo cosa nell’abbon
    <td>Licenza calendario rilasciata all’e-mail: nome "e-mail utente": "nome utente"</td> 
   </tr> 
   <tr> 
-   <td>Ripristina</td> 
+   <td>Ripristino</td> 
    <td>Reimpostazione della password per nome "name" e e-mail "email"</td> 
   </tr> 
   <tr> 
    <td rowspan="2">Area di lavoro</td> 
-   <td>Crea</td> 
+   <td>Creare</td> 
    <td>Workspace creato con il nome "workspace name"</td> 
   </tr> 
   <tr> 
