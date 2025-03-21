@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Marketo with Adobe Identity
 exl-id: 921d9d45-c5c2-405c-bd3b-be8aa6d11e2f
-source-git-commit: c5b05cf7d1131c9d98d89c12a4a8bd04d215886d
+source-git-commit: 251f84b2dff6b7c0706c0f08fe8b51d8d4d897f0
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -69,8 +69,6 @@ _Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione d
 _Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione del dominio è abilitata in un&#39;altra organizzazione), un amministratore di sistema dell&#39;organizzazione in cui il dominio è stato richiesto deve aggiungere l&#39;indirizzo e-mail dell&#39;utente all&#39;elenco di eccezioni. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
 _Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
-
-**Tutti i seguenti messaggi di errore hanno la stessa causa principale/risoluzione...**
 
 ### Creazione utente non riuscita {#user-creation-failed}
 
