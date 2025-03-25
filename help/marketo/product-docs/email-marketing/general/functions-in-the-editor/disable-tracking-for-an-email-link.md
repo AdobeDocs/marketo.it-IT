@@ -4,9 +4,9 @@ description: Disabilita tracciamento per un collegamento e-mail - Documentazione
 title: Disattiva tracciamento per un collegamento e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,8 @@ ht-degree: 0%
 # Disattiva tracciamento per un collegamento e-mail {#disable-tracking-for-an-email-link}
 
 A volte non è necessario abilitare **URL di tracciamento Marketo** su un collegamento in un messaggio e-mail. Questa funzione è utile quando la pagina di destinazione non supporta i parametri URL e può causare il mancato funzionamento del collegamento.
+
+Inoltre, se un&#39;e-mail è stata inviata più di 365 giorni fa **e** nessuno ha fatto clic su uno dei collegamenti negli ultimi 180 giorni, Marketo Engage elimina la route all&#39;URL dal nostro database, causando l&#39;interruzione del collegamento. Pertanto, se hai bisogno che il collegamento sia permanente, devi disabilitare il tracciamento.
 
 1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
 

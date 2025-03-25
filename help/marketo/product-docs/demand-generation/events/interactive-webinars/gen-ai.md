@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 43ecb24bd051fe49b41ef61448234b8704f8ab88
+source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -82,7 +82,7 @@ Dopo aver copiato il contenuto che desideri utilizzare, incollalo nell’editor 
 
 ## Aspetti da considerare {#things-to-note}
 
-* L’eliminazione o l’unione di capitoli influisce solo sullo stack dei capitoli, non sul contenuto video stesso. Queste azioni sono irreversibili
+* L’eliminazione o l’unione di capitoli influisce solo sullo stack dei capitoli, non sul contenuto video stesso. Queste azioni sono permanenti.
 
 * Le funzioni GenAI sono flessibili e possono essere utilizzate con vari editor di pagine web, non solo con quelli di Marketo Engage.
 
