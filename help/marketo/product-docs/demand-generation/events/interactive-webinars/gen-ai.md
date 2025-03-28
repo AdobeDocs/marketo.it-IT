@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -15,6 +15,10 @@ ht-degree: 0%
 # Funzioni GenAI {#gen-ai-features}
 
 Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendoli più accessibili e facili da consultare per il pubblico.
+
+>[!PREREQUISITES]
+>
+>Prima di utilizzare queste funzioni, devi accettare i termini e le condizioni di Adobe GenAI. Se non lo hai ancora fatto, contatta il team dell’account di Adobe (il tuo Account Manager) per maggiori dettagli.
 
 * **Generazione automatica dei capitoli**: la tecnologia basata sull&#39;intelligenza artificiale crea capitoli per il contenuto del webinar.
 
