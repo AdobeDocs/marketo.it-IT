@@ -4,9 +4,9 @@ description: Annullamento duraturo dell’abbonamento - Documentazione di Market
 title: Annulla iscrizione durevole
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 020e35ad6763240d968ef3fe8e8fff544b77b96f
+source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
@@ -36,8 +36,6 @@ In Marketo, deseleziona la casella di annullamento dell’abbonamento nella sche
 Esegui un passaggio del flusso _Modifica valore dati_ come mostrato di seguito per una o più persone.
 
 ![Passaggio del flusso del valore dei dati di modifica](assets/durable-unsubscribe-3.png)
-
-Aggiorna una persona esistente tramite API SOAP.
 
 ## Creazione di una nuova persona {#creating-a-new-person}
 
