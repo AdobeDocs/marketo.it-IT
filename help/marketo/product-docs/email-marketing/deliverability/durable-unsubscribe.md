@@ -4,9 +4,9 @@ description: Annullamento duraturo dell’abbonamento - Documentazione di Market
 title: Annulla iscrizione durevole
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 366de1bf0ec858da50aa19dcea1cb5b36b624394
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -27,15 +27,15 @@ Se il flag di annullamento dell’iscrizione è impostato su false su true, lo s
 
 In Salesforce, **cancella** il campo Rinuncia e-mail nel record del lead/contatto. Verrà eseguita la sincronizzazione con Marketo.
 
-![](assets/one.png)
+![Schermata Salesforce](assets/durable-unsubscribe-1.png)
 
 In Marketo, **cancella** la casella di annullamento dell&#39;abbonamento nella scheda Info del record dell&#39;utente.
 
-![](assets/two.png)
+![Cancellazione della casella di annullamento dell&#39;iscrizione in un record persona](assets/durable-unsubscribe-2.png)
 
 Esegui un passaggio del flusso **Modifica valore dati** come mostrato di seguito per una o più persone.
 
-![](assets/three.png)
+![Passaggio del flusso del valore dei dati di modifica](assets/durable-unsubscribe-3.png)
 
 Aggiorna una persona esistente tramite API SOAP.
 
