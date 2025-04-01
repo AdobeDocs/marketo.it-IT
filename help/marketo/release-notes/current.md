@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f8d75117254b20672fde3bcfd4fbbd4d8a6506e1
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '445'
 ht-degree: 4%
 
 ---
@@ -33,8 +33,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr> 
    <td><strong>Designer e-mail disponibile in tutti i programmi</strong>: le nuove e-mail di Designer sono ora accessibili nei programmi di coinvolgimento, predefiniti ed eventi (con l'unica eccezione dei programmi di webinar interattivi). In precedenza erano disponibili solo nei programmi e-mail. Con questo aggiornamento, diventa disponibile anche la clonazione.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   <tr> 
    <td> </td> 

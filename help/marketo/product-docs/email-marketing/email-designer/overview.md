@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: b7e378af0d606202f022848d2a099d5170061024
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,6 @@ ht-degree: 0%
 Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 
 E-mail designer è l’innovazione più recente di Marketo Engage che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
-
-Le e-mail create nella nuova finestra di progettazione possono essere utilizzate nei programmi e-mail e negli elenchi/campagne avanzati. Nuovi e potenti miglioramenti per il designer saranno presto disponibili.
 
 ## Come accedere {#how-to-access}
 
@@ -65,6 +63,10 @@ Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve e
 **Il vecchio editor di posta elettronica continuerà a funzionare? In caso affermativo, per quanto tempo?**
 
 Sì, il vecchio editor e-mail (classico) coesisterà con il nuovo e-mail designer. Le e-mail create nell’editor classico rimarranno invariate. Non esiste una data per indicare quando l’editor classico verrà dichiarato obsoleto in questo momento, ma continuerà a funzionare per tutto il 2025.
+
+**In quali programmi è possibile utilizzare i nuovi messaggi di posta elettronica di Designer?**
+
+Le nuove e-mail di Designer sono accessibili in tutti i programmi (con l’unica eccezione dei programmi di webinar interattivi). È disponibile anche la clonazione.
 
 **I nostri modelli e-mail esistenti funzioneranno nella nuova finestra di progettazione? In caso contrario, è necessario creare modelli utilizzando la nuova finestra di progettazione in modo che tutte le sezioni/moduli corrispondano all&#39;aspetto desiderato per il contenuto?**
 

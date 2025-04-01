@@ -3,20 +3,20 @@ description: Authoring delle e-mail - Documentazione di Marketo - Documentazione
 title: Authoring di e-mail
 feature: Email Editor
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 4b6d3c4f91fe117511ad3235f757ec904d9bafa2
+source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
 workflow-type: tm+mt
-source-wordcount: '1739'
+source-wordcount: '1723'
 ht-degree: 1%
 
 ---
 
 # Authoring di e-mail {#email-authoring}
 
-Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuovo Designer e-mail di Marketo Engage.
+Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuovo Marketo Engage Email Designer.
 
 >[!PREREQUISITES]
 >
->Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Creare un messaggio e-mail {#create-an-email}
 
@@ -26,7 +26,7 @@ Le e-mail inviate da e-mail designer possono essere create solo in Design Studio
 
 >[!TAB Studio Progettazione]
 
-1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Il mio Marketo, seleziona **Design Studio**.
 
@@ -46,7 +46,7 @@ Le e-mail inviate da e-mail designer possono essere create solo in Design Studio
 
 >[!TAB Programma e-mail]
 
-1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. Trova e seleziona (o crea) il programma e-mail.
 
@@ -108,7 +108,7 @@ Puoi importare contenuti HTML esistenti per progettare i messaggi e-mail. Il con
 >
 >La struttura del file .zip non è soggetta a vincoli. Tuttavia, i riferimenti devono essere relativi e adattarsi alla struttura ad albero della cartella .zip.
 
-1. Nella pagina Progetta modello, seleziona **Importa HTML**.
+1. Nella pagina Progetta modello selezionare **Importa HTML**.
 
 1. Trascina e rilascia il file HTML o .zip desiderato (o seleziona un file dal computer) e fai clic su **Importa**.
 
@@ -116,7 +116,7 @@ Puoi importare contenuti HTML esistenti per progettare i messaggi e-mail. Il con
 
 >[!NOTE]
 >
->Quando il contenuto di HTML viene caricato, il contenuto sarà in modalità di compatibilità. In questa modalità, puoi solo personalizzare il testo, aggiungere collegamenti o aggiungere risorse al contenuto.
+>Quando il contenuto HTML viene caricato, il contenuto sarà in modalità di compatibilità. In questa modalità, puoi solo personalizzare il testo, aggiungere collegamenti o aggiungere risorse al contenuto.
 
 Puoi apportare le modifiche desiderate al contenuto importato utilizzando gli [strumenti dell&#39;editor di posta elettronica visivo](#add-structure-and-content).
 
@@ -124,7 +124,7 @@ Puoi apportare le modifiche desiderate al contenuto importato utilizzando gli [s
 
 È possibile scegliere tra due tipi di modelli.
 
-* **Modelli di esempio**: il Marketo Engage offre quattro modelli di e-mail predefiniti.
+* **Modelli di esempio**: Marketo Engage offre quattro modelli e-mail predefiniti.
 
 * **Modelli salvati**: si tratta di modelli creati da zero utilizzando il menu Modelli o di un messaggio di posta elettronica creato e scelto di salvare come modello.
 
@@ -194,7 +194,7 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 >
 >Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne 1:1, quindi trascina e rilascia il frammento al suo interno.
 
-Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Usato da]_ della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
+Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
 ### Aggiungi Assets {#add-assets}
 
@@ -226,24 +226,24 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Seleziona una colonna]_ e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Impostazioni]_ e _[!UICONTROL Stili]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fai clic sulla scheda _[!UICONTROL Stili]_ a destra e modificale in base alle tue esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
-   * Per **[!UICONTROL Sfondo]**, modifica il colore di sfondo in base alle esigenze.
+   * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 
-     Deselezionare la casella di controllo relativa a uno sfondo trasparente. Abilita l&#39;impostazione **[!UICONTROL Immagine di sfondo]** per utilizzare un&#39;immagine come sfondo invece di un colore a tinta unita.
+     Deselezionare la casella di controllo relativa a uno sfondo trasparente. Abilitare l&#39;impostazione **[!UICONTROL Background image]** per utilizzare un&#39;immagine come sfondo invece di un colore a tinta unita.
 
-   * Per **[!UICONTROL Allineamento]**, seleziona l&#39;icona _Superiore_, _Centro_ o _Inferiore_.
-   * Per **[!UICONTROL Spaziatura interna]**, definire la spaziatura per tutti i lati.
+   * Per **[!UICONTROL Alignment]**, seleziona l&#39;icona _Top_, _Middle_ o _Bottom_.
+   * Per **[!UICONTROL Padding]**, definire la spaziatura per tutti i lati.
 
-     Selezionare **[!UICONTROL Spaziatura interna diversa per ogni lato]** se si desidera modificarla. Fai clic sull&#39;icona _Blocca_ per interrompere la sincronizzazione.
+     Selezionare **[!UICONTROL Different padding for each side]** se si desidera regolare la spaziatura. Fai clic sull&#39;icona _Blocca_ per interrompere la sincronizzazione.
 
-   * Espandi la sezione **[!UICONTROL Avanzate]** per definire gli stili in linea per la colonna.
+   * Espandere la sezione **[!UICONTROL Advanced]** per definire gli stili in linea per la colonna.
 
    ![](assets/authoring-layers-settings-styles-3.png)
 
@@ -327,7 +327,7 @@ Le avvertenze si riferiscono a consigli e best practice, ad esempio:
 >
 >L&#39;aggiunta di un&#39;opzione di annullamento dell&#39;abbonamento non è richiesta per [e-mail operative](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) (non di marketing).
 
-* **La versione di testo di HTML è vuota**: è necessario definire una versione di testo del corpo dell&#39;e-mail per i casi in cui non è possibile visualizzare il contenuto di HTML.
+* **La versione testuale di HTML è vuota**: è necessario definire una versione testuale del corpo dell&#39;e-mail per i casi in cui non è possibile visualizzare il contenuto di HTML.
 
 * **Nel corpo dell&#39;e-mail è presente un collegamento vuoto**: verifica che tutti i collegamenti presenti nell&#39;e-mail siano corretti.
 
@@ -351,7 +351,7 @@ Per visualizzare l&#39;anteprima del contenuto dell&#39;e-mail, fai clic su **Si
 
 ## Fai riferimento a un’e-mail {#reference-an-email}
 
-Se hai creato l’e-mail all’interno di un programma e-mail, puoi utilizzarla solo in tale programma. Se hai creato l’e-mail in Design Studio, puoi farvi riferimento da Campagne avanzate e/o Elenchi avanzati come faresti con qualsiasi altra e-mail.
+Le e-mail Designer sono accessibili tramite e-mail, coinvolgimento, programmi predefiniti ed eventi (con l’unica eccezione dei programmi di webinar interattivi). Se hai creato l’e-mail in Design Studio, puoi farvi riferimento da Campagne avanzate e/o Elenchi avanzati come faresti con qualsiasi altra e-mail.
 
 * Per farvi riferimento in un elenco avanzato, [segui i soliti passaggi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md).
 
