@@ -5,9 +5,9 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 232b7a513be6ad9d4c3a524d2f78cd02df5abe6f
+source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,6 @@ ht-degree: 0%
 # Funzioni GenAI {#gen-ai-features}
 
 Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendoli più accessibili e facili da consultare per il pubblico.
-
->[!PREREQUISITES]
->
->Prima di utilizzare queste funzioni, devi accettare i termini e le condizioni di Adobe GenAI. Se non lo hai ancora fatto, contatta il team dell’account di Adobe (il tuo Account Manager) per maggiori dettagli.
 
 * **Generazione automatica dei capitoli**: la tecnologia basata sull&#39;intelligenza artificiale crea capitoli per il contenuto del webinar.
 
@@ -28,15 +24,25 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
 * **Integrazione semplificata**: è possibile aggiungere facilmente capitoli e riepiloghi alle pagine di destinazione copiando il codice HTML nell&#39;editor di pagine Web desiderato.
 
+## Abilita GenAI {#enable-genai}
+
+>[!PREREQUISITES]
+>
+>Prima di utilizzare queste funzioni, devi accettare i termini e le condizioni di Adobe GenAI. Se non lo hai ancora fatto, contatta il team dell’account di Adobe (il tuo Account Manager) per maggiori dettagli.
+
+Dopo aver accettato i termini e le condizioni di Adobe GenAI, il passaggio successivo consiste nell’abilitarli per i singoli utenti. A tale scopo, passare a **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** e selezionare gli utenti che devono avere accesso a GenAI.
+
+![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+
 ## Come accedere {#how-to-access}
 
 1. Vai alla pagina della panoramica del webinar nei webinar interattivi di Marketo Engage.
 
 1. Dopo aver condotto il webinar on-demand, attendi 30-60 minuti per consentire all’intelligenza artificiale di elaborare la registrazione. Il pulsante Genera diventa cliccabile quando è disponibile.
 
-1. Fai clic su **Genera**.
+1. Fai clic su **[!UICONTROL Generate]**.
 
-   ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
+   ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 
 1. Viene visualizzata una nuova scheda con i capitoli generati dall’intelligenza artificiale e un riepilogo di testo.
 
@@ -44,7 +50,7 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
 1. Esamina i capitoli e il riepilogo generati.
 
-1. Se sono necessarie modifiche, fare clic sul pulsante **Modifica**.
+1. Se sono necessarie modifiche, fare clic sul pulsante **[!UICONTROL Edit]**.
 
    Apportare modifiche:
 
@@ -52,23 +58,23 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
    * Se necessario, regola i timestamp modificando i valori nei campi timestamp.
 
-   * Eliminare i capitoli indesiderati selezionandoli e facendo clic su **Elimina**.
+   * Eliminare i capitoli indesiderati selezionandoli e facendo clic su **[!UICONTROL Delete]**.
 
-   * Unisci due capitoli consecutivi selezionandoli e facendo clic su **Unisci**.
+   * Unire due capitoli consecutivi selezionandoli e facendo clic su **[!UICONTROL Merge]**.
 
       * IA genera un capitolo composito composto dai due capitoli selezionati
 
       * Per unire più capitoli, è necessario eseguire due operazioni alla volta
 
-     ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
+     ![](assets/gen-ai-features-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
    >* Se lo desideri, puoi valutare la qualità dei capitoli/riepilogo generati con le icone _miniature_ ![miniature verso l&#39;alto](assets/icon-thumbs-up.png) o _miniature verso il basso_ ![miniature verso il basso](assets/icon-thumbs-down.png). Puoi anche segnalare eventuali contenuti problematici facendo clic sull&#39;icona del contrassegno ![icona Contrassegno](assets/icon-flag.png).
    >
-   >* Se non si è soddisfatti del riepilogo iniziale, è possibile fare clic sul pulsante **Rigenera riepilogo** per generare un&#39;altra versione.
+   >* Se non si è soddisfatti del riepilogo iniziale, è possibile fare clic sul pulsante **[!UICONTROL Regenerate summary]** per generare un&#39;altra versione.
 
-1. Salva le modifiche facendo clic sul pulsante **Salva** in alto a destra dello schermo.
+1. Salva le modifiche facendo clic sul pulsante **[!UICONTROL Save]** in alto a destra dello schermo.
 
 ## Utilizzare i contenuti generati {#use-generated-content}
 
@@ -76,13 +82,13 @@ Dopo aver copiato il contenuto che desideri utilizzare, incollalo nell’editor 
 
 ### Riepilogo {#summary}
 
-**Copia HTML** - Fare clic sul pulsante **Copia HTML** per ottenere tutto il testo, completo del codice HTML che lo ha formattato all&#39;interno di una tabella.
+**Copia HTML** - Fare clic sul pulsante **[!UICONTROL Copy HTML]** per ottenere tutto il testo, completo di formattazione del codice HTML all&#39;interno di una tabella.
 
 **Solo testo** - Se desideri solo il testo, evidenzialo e seleziona Ctrl/Comando+C (o fai clic con il pulsante destro del mouse) per copiarlo.
 
 ### Capitoli {#chapters}
 
-**Copia HTML** - Fare clic sul pulsante **Copia HTML** per formattare tutta la registrazione e i relativi capitoli all&#39;interno di un lettore video.
+**Copia HTML** - Fare clic sul pulsante **[!UICONTROL Copy HTML]** per formattare tutta la registrazione e i relativi capitoli all&#39;interno di un lettore video.
 
 ## Aspetti da considerare {#things-to-note}
 
