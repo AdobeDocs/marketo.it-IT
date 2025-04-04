@@ -5,7 +5,7 @@ feature: Interactive Webinars
 hide: true
 hidefromtoc: true
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 374226d3b12cdffe1d0f2e04a1cb00d2f3135d22
+source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
 Dopo aver accettato i termini e le condizioni di Adobe GenAI, il passaggio successivo consiste nell’abilitarli per i singoli utenti. A tale scopo, passare a **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** e selezionare gli utenti che devono avere accesso a GenAI.
 
-![](assets/gen-ai-features-1.png){width="600" zoomable="yes"}
+![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
 ## Come accedere {#how-to-access}
 
