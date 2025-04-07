@@ -6,10 +6,8 @@ description: Usa questa tabella per confrontare la disponibilità delle funzioni
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 659fca6a02251b35fc8443d235b831a383a43d35
+source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
@@ -32,7 +30,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
 <tbody>
   <tr>
     <td>Modelli di e-mail per iniziare preconfigurati</td>
-    <td>Possibilità di utilizzare i modelli OOTB forniti da E-mail Designer.</td>
+    <td>Possibilità di utilizzare i modelli predefiniti forniti da E-mail Designer.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -98,7 +96,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Assistente IA</td>
-    <td>Possibilità di generare l’oggetto, una parte di contenuto o l’intera e-mail tramite modelli di intelligenza artificiale generativi.</td>
+    <td>Possibilità di generare l'oggetto, parte del contenuto o l'intera e-mail tramite <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">modelli di IA generativa</a>.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -110,7 +108,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Blocco dei contenuti</td>
-    <td>Possibilità di bloccare il contenuto di un modello e-mail in modo che non possa essere modificato durante la creazione di e-mail.</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">bloccare il contenuto</a> in un modello e-mail in modo che non possa essere modificato durante la creazione di e-mail.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -164,7 +162,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Integrazione con Adobe Express</td>
-    <td>Possibilità di creare/modificare immagini tramite Adobe Express.</td>
+    <td>Possibilità di creare/modificare immagini utilizzando <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -178,7 +176,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Moduli</td>
     <td>Possibilità di precreare strutture e predefiniti di contenuto specifici da riutilizzare nelle e-mail.</td>
     <td>Disponibile</td>
-    <td>Disponibile come frammento personalizzabile</td>
+    <td>Disponibile come <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">frammento personalizzabile</a></td>
   </tr>
   <tr>
     <td>Integrazione di AEM Assets Cloud Service</td>
@@ -241,6 +239,18 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile a breve</td>
   </tr>
   <tr>
+    <td>Script Velocity</td>
+    <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
+    <td>Disponibile</td>
+    <td>Non necessario</td>
+  </tr>
+   <tr>
+    <td>Script Handlebar</td>
+    <td>Possibilità di utilizzare gli script Handlebar nelle e-mail.</td>
+    <td>Non disponibile</td>
+    <td>Pianificato per il terzo trimestre '25</td>
+  </tr>
+  <tr>
     <td>Integrazione Litmus</td>
     <td>Possibilità di integrazione con Litmus per vedere come verranno riprodotti i messaggi e-mail nei diversi client e-mail.</td>
     <td>Non disponibile</td>
@@ -255,12 +265,6 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   <tr>
     <td>Integrazione di Spam Assassin</td>
     <td>Possibilità di rilevare la possibilità che le e-mail vengano contrassegnate come spam prima della consegna.</td>
-    <td>Non disponibile</td>
-    <td>Pianificato per il terzo trimestre '25</td>
-  </tr>
-  <tr>
-    <td>Script Handlebar</td>
-    <td>Possibilità di utilizzare gli script Handlebar nelle e-mail.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il terzo trimestre '25</td>
   </tr>
@@ -300,10 +304,5 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile</td>
     <td>Non disponibile</td>
   </tr>
-  <tr>
-    <td>Script Velocity</td>
-    <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
-    <td>Disponibile</td>
-    <td>Non necessario</td>
-  </tr>
 </tbody></table>
+
