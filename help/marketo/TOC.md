@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '9429'
+source-wordcount: '9433'
 ht-degree: 1%
 
 ---
@@ -251,9 +251,9 @@ ht-degree: 1%
          + [Eliminare un Workspace](product-docs/administration/workspaces-and-person-partitions/delete-a-workspace.md)
          + [Modificare un Workspace](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Modificare una partizione di persona esistente](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
-         + [Condividere segmentazioni tra Workspaces e partizioni](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
+         + [Condividere segmentazioni tra aree di lavoro e partizioni](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
    + Integrazioni Adobe Experience Cloud {#adobe-experience-cloud-integrations}
-      + [Panoramica delle integrazioni di Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
+      + [Panoramica delle integrazioni Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [Impostare Adobe Organization Mapping](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizzare un pubblico da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importazione di Assets con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
@@ -675,10 +675,10 @@ ht-degree: 1%
             + [Funzioni callback](product-docs/demand-generation/dynamic-chat/setup-and-configuration/callback-functions.md)
             + [Limiti di utilizzo](product-docs/demand-generation/dynamic-chat/setup-and-configuration/usage-limits.md)
          + Chat automatizzata {#automated-chat}
-            + [Panoramica Flusso conversazionale](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
-            + [Crea un Flusso colloquiale](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
-            + [Impostazioni di Flusso conversazionale per Marketo Engage Forms](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
-            + [Panoramica delle finestre di dialogo](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
+            + [Panoramica del flusso conversazionale](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md)
+            + [Creare un flusso conversazionale](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md)
+            + [Impostazioni del flusso conversazionale per Marketo Engage Forms](product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md)
+            + [Panoramica della finestra di dialogo](product-docs/demand-generation/dynamic-chat/automated-chat/dialogue-overview.md)
             + [Creare una finestra di dialogo](product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md)
             + [Criteri di audience](product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md)
             + [Designer flusso](product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md)
@@ -964,6 +964,7 @@ ht-degree: 1%
             + [Aggiungere uno snippet a una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Aggiungi altri CNAME per pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Aggiungere SSL alle pagine di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
+            + [Aggiungi DOCUMENTO TEMPORANEO SSL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [Aggiungere testo e token a una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Abilitare URL personalizzati per una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Abilitare gli URL personalizzati per il tuo account](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -1342,15 +1343,15 @@ ht-degree: 1%
             + [Azioni in blocco sulle persone](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [Creazione ed eliminazione di contatti](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Tipi di gruppo](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
-            + [In che modo Sales Connect gestisce il deduplicaggio delle e-mail](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
+            + [Gestione della deduplicazione delle e-mail in Sales Connect](product-docs/marketo-sales-connect/people/managing-contacts/how-sales-connect-handles-email-de-duping.md)
             + [Importa contatti tramite CSV](product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md)
             + [Gestisci gruppi](product-docs/marketo-sales-connect/people/managing-contacts/manage-groups.md)
             + [Colonne pagina persone](product-docs/marketo-sales-connect/people/managing-contacts/people-page-columns.md)
       + Telefono {#phone}
-         + [Le chiamate non vengono registrate a Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
+         + [Le chiamate non si registrano in Salesforce](product-docs/marketo-sales-connect/phone/calls-arent-logging-to-salesforce.md)
          + [Risultati della chiamata](product-docs/marketo-sales-connect/phone/call-outcomes.md)
          + [Motivi della chiamata](product-docs/marketo-sales-connect/phone/call-reasons.md)
-         + [Impossibile accedere alla cronologia attività](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
+         + [Non ho effettuato l&#39;accesso alla cronologia attività](product-docs/marketo-sales-connect/phone/didnt-log-to-activity-history.md)
          + [Accesso a Salesforce non eseguito](product-docs/marketo-sales-connect/phone/didnt-log-to-salesforce.md)
          + [Abilita registrazione chiamate](product-docs/marketo-sales-connect/phone/enable-call-recording.md)
          + [Registra i motivi e gli esiti delle chiamate a Salesforce](product-docs/marketo-sales-connect/phone/log-call-reasons-and-call-outcomes-to-salesforce.md)
@@ -1763,17 +1764,17 @@ ht-degree: 1%
             + [Modificare una sottoscrizione a un elenco avanzato](product-docs/reporting/basic-reporting/report-subscriptions/edit-a-smart-list-subscription.md)
             + [Gestire le sottoscrizioni ai report](product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.md)
             + [Proteggere le impostazioni di amministrazione della sottoscrizione](product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md)
-            + [Abbonati a un report di base](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-            + [Abbonati a un elenco avanzato](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+            + [Iscriviti a un rapporto di base](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+            + [Iscrizione a un elenco avanzato](product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
          + Tipi di rapporti {#report-types}
-            + [Rapporto attività Campaign](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
-            + [Campaign Report sulle prestazioni delle e-mail](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
+            + [Rapporto sull’attività della campagna](product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)
+            + [Rapporto sulle prestazioni e-mail della campagna](product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md)
             + [Report attività Web società](product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
             + [Rapporto Persone per stato](product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-            + [Report sulle prestazioni delle persone](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
+            + [Rapporto prestazioni persone](product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
             + [Panoramica del tipo di rapporto](product-docs/reporting/basic-reporting/report-types/report-type-overview.md)
-            + [Report attività Pagina Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
-            + [Pagine Web visualizzate, report attività Pagina Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
+            + [Rapporto attività pagina web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
+            + [Pagine Web visualizzate, Rapporto attività pagina Web](product-docs/reporting/basic-reporting/report-types/web-page-activity-report/web-pages-viewed-web-page-activity-report.md)
       + Approfondimenti e-mail {#email-insights}
          + [Panoramica di Email Insights](product-docs/reporting/email-insights/email-insights-overview.md)
          + [Dimensioni personalizzate per approfondimenti e-mail](product-docs/reporting/email-insights/custom-dimensions-for-email-insights.md)
@@ -2005,8 +2006,8 @@ ht-degree: 1%
          + [Note sulla versione: marzo 2023](release-notes/previous-releases/2023/release-notes-mar-23.md)
          + [Note sulla versione: maggio 2023](release-notes/previous-releases/2023/release-notes-may-23.md)
          + [Note sulla versione: luglio 2023](release-notes/previous-releases/2023/release-notes-july-23.md)
-         + [Note sulla versione: Settembre &#39;23](release-notes/previous-releases/2023/release-notes-sep-23.md)
-         + [Note sulla versione: Ottobre &#39;23](release-notes/previous-releases/2023/release-notes-oct-23.md)
+         + [Note sulla versione: settembre 2023](release-notes/previous-releases/2023/release-notes-sep-23.md)
+         + [Note sulla versione: ottobre 2023](release-notes/previous-releases/2023/release-notes-oct-23.md)
       + 2022 {#2022}
          + [Note sulla versione: gennaio 2022](release-notes/previous-releases/2022/release-notes-jan-22.md)
          + [Note sulla versione: marzo 2022](release-notes/previous-releases/2022/release-notes-mar-22.md)

@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: cf4df30b575061bde18cf38e355604b970b7c51e
+source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -57,6 +57,8 @@ Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve e
 * [Utilizza l&#39;Assistente AI](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e/o immagini utili alle e-mail.
 
 * [Blocca il contenuto nei modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: scopri come bloccare il contenuto nei modelli e-mail, per evitare modifiche o eliminazioni non intenzionali.
+
+* [Confronto delle funzionalità](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: confronta la disponibilità delle funzionalità nell&#39;editor e-mail precedente (Editor e-mail 2.0) e nel nuovo Designer e-mail.
 
 ## Domande frequenti {#faq}
 
