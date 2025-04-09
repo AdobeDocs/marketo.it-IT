@@ -4,16 +4,21 @@ title: Aggiungere SSL alle pagine di destinazione
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
+source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
 # Aggiungere SSL alle pagine di destinazione {#add-ssl-to-your-landing-pages}
 
-Scopri come aggiungere l’alias del dominio del tuo marchio (ad esempio, `http://business.adobe.com`) alle pagine di destinazione create in Marketo Engage in modo che sia possibile accedervi nell’ambito dei domini del tuo marchio.
+La crittografia SSL (Secure Socket Layer) consente di rendere sicure tutte le pagine di destinazione di un’istanza di Marketo Engage.
+
+Quando si compila un modulo web o si visita una pagina di destinazione ospitata da Marketo Engage, per impostazione predefinita le informazioni vengono inviate tramite un protocollo non sicuro (HTTP). In base alla politica aziendale, potrebbe essere utile proteggere le informazioni inviate a Marketo tramite (HTTPS). Ad esempio, quando visiti `http://info.mydomain.com/`, adesso sarà `https://info.mydomain.com/`.
+
+Marketo Engage tiene traccia di &quot;Visited Web Page&quot; e &quot;Click Link on Web Page&quot; per impostazione predefinita su un protocollo HTTP non sicuro. Se desideri proteggere i collegamenti di tracciamento con il proprio certificato, è necessario che Marketo crei un server non condiviso separato per abilitarlo. Proteggere tutti gli aspetti dell’interazione di un contatto con te in genere significa proteggere sia le pagine di destinazione che i collegamenti di tracciamento.
 
 SCHERMATA
 
@@ -37,7 +42,7 @@ Questo aggiunge automaticamente un certificato SSL per questo dominio.
 
 SCHERMATA
 
-## Abilita SSL per il dominio predefinito
+## Abilita SSL per il dominio predefinito {#enable-ssl-default-domain}
 
 SCHERMATA
 
