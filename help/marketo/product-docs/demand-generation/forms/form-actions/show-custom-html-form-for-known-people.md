@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2359644
-description: Mostra modulo di HTML personalizzato per utenti noti - Documentazione di Marketo - Documentazione del prodotto
-title: Mostra modulo HTML personalizzato per utenti noti
+description: Mostra Modulo HTML personalizzato per persone conosciute - Marketo Docs - Product Documentazione
+title: Mostra modulo HTML personalizzato per persone conosciute
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 55964499f5d49258539492f952513833af5692b5
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 0%
+source-wordcount: '254'
+ht-degree: 1%
 
 ---
 
-# Mostra modulo HTML personalizzato per utenti noti {#show-custom-html-form-for-known-people}
+# Mostra modulo HTML personalizzato per persone conosciute {#show-custom-html-form-for-known-people}
 
-Se un visitatore è cookie (persona nota che ha fornito un indirizzo e-mail in passato), perché preoccuparsi del modulo? Date loro il pulsante per il download. Ecco come.
+Se un visitatore ha fornito il proprio nome completo e indirizzo e-mail in passato e non si desidera che riceva l&#39;intero modulo, scopri come mostrargli un HTML personalizzato (ad esempio, solo un scaricare pulsante).
 
-1. Vai a **Attività di marketing**.
+1. Vai ad Attività&#x200B;**di** marketing.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. In **Attività di marketing**, seleziona il modulo e fai clic su **Modifica modulo**.
+1. In **Attività** marketing selezionare il modulo e fare clic su **Modifica modulo**.
 
    ![](assets/image2014-9-15-12-3a24-3a6.png)
 
-1. In **Impostazioni modulo**, fai clic su **Impostazioni**.
+1. In **Impostazioni** modulo, fare clic su **Impostazioni**.
 
    ![](assets/image2014-9-15-12-3a24-3a36.png)
 
-1. Imposta Se **Visitatore Noto, Mostra**: a **HTML Personalizzato**.
+1. Imposta se **visitatore conosciuto, Mostra**: su **HTML** personalizzato.
 
    ![](assets/image2014-9-15-12-3a24-3a59.png)
 
-1. Fai clic su ![—](assets/image2014-9-25-14-3a1-3a26.png) per modificare **HTML personalizzati** che verranno mostrati a persone note.
+1. Fai clic su ![--](assets/image2014-9-25-14-3a1-3a26.png) per modificare il **codice HTML** personalizzato che verrà mostrato alle persone conosciute.
 
    ![](assets/image2014-9-15-12-3a25-3a38.png)
 
-1. È presente del contenuto predefinito, ma puoi modificarlo.
+1. C&#39;è qualche contenuto predefinita, ma sentiti gratuito di cambiarla.
 
    ![](assets/image2014-9-15-12-3a25-3a49.png)
 
@@ -43,20 +43,20 @@ Se un visitatore è cookie (persona nota che ha fornito un indirizzo e-mail in p
 
    | Token | Descrizione |
    |---|---|
-   | `{{lead.FirstName}}` | In questo modo verrà visualizzato il nome della persona. |
+   | `{{lead.FirstName}}` | Verrà visualizzato il nome della persona. |
    | `{{lead.LastName}}` | Verrà visualizzato il cognome della persona. |
-   | `{{form.Button:default=Download}}` | Verrà visualizzato il pulsante del modulo. Sostituire l&#39;area dopo `=` per modificare il testo del pulsante. |
-   | `{{form.NotYou:default=Not you?}}` | Se la persona è qualcun altro, verrà visualizzato un collegamento. Sostituire l&#39;area dopo `=` per modificare il testo del collegamento. |
+   | `{{form.Button:default=Download}}` | Il modulo verrà visualizzato pulsante. Sostituisci l&#39;area dopo il per `=` modificare il testo pulsante. |
+   | `{{form.NotYou:default=Not you?}}` | Verrà visualizzato un collegare nel caso in cui la persona sia qualcun altro. Sostituisci l&#39;area dopo il per `=` modificare il testo collegare. |
 
    >[!CAUTION]
    >
-   >È possibile utilizzare solo i quattro token indicati sopra. Qualsiasi altro token non funzionerà qui.
+   >È possibile utilizzare solo i quattro token di cui sopra. Qualsiasi altro token non funzionerà qui.
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **Approva e Chiudi**.
 
    >[!NOTE]
    >
@@ -66,12 +66,12 @@ Se un visitatore è cookie (persona nota che ha fornito un indirizzo e-mail in p
 
    >[!NOTE]
    >
-   >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
+   >Ricordati di [approvare la bozza](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) della pagina di destinazione creata dalle modifiche al modulo.
 
-   Un pezzo di torta! Scopri cosa vedrebbe una persona se tornasse allo stesso modulo:
+   Gioco da ragazzi! Scopri cosa vedrebbe una persona se tornasse allo stesso modulo:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 
    >[!TIP]
    >
-   >Per indirizzare il clic del pulsante alla risorsa, imposta la pagina di follow-up del modulo sull’URL del file.
+   >È possibile indirizzare il clic del pulsante al risorsa impostando la pagina di seguire up del modulo sul URL del file.
