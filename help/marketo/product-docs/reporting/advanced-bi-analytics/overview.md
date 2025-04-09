@@ -1,13 +1,11 @@
 ---
 description: Panoramica di Advanced BI Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Panoramica di Advanced BI Analytics
-hide: true
-hidefromtoc: true
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: c123899d8f2ef47cee542d244a6655c6d86e181e
+source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
 workflow-type: tm+mt
-source-wordcount: '969'
+source-wordcount: '989'
 ht-degree: 0%
 
 ---
@@ -21,6 +19,10 @@ Questi miglioramenti consentono di risparmiare tempo, scoprire informazioni più
 >[!PREREQUISITES]
 >
 >Per accedere a questa funzione, è necessario aver acquistato il componente aggiuntivo Advanced BI Analytics. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
+
+>[!NOTE]
+>
+>Se hai domande su questa funzione mentre è in versione beta (fino al 1° giugno 2025), invia un&#39;e-mail a: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Caratteristiche principali e vantaggi {#key-features-and-benefits}
 
@@ -36,39 +38,39 @@ Questi miglioramenti consentono di risparmiare tempo, scoprire informazioni più
 
 ## Creare un rapporto {#create-a-report}
 
-1. Nel Marketo personale, fare clic sul riquadro **Advanced BI Analytics (Beta)**.
+1. Nel Marketo personale, fare clic sul riquadro **[!UICONTROL Advanced BI Analytics (Beta)]**.
 
-   SCHERMATA
+   ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
-1. Nella scheda **Report**, fai clic su **Crea report**.
+1. Nella scheda **[!UICONTROL Reports]**, fare clic su **[!UICONTROL Create Report]**.
 
-   SCHERMATA
+   ![](assets/advanced-bi-analytics-overview-2.png){width="800" zoomable="yes"}
 
 1. Seleziona le misure desiderate.
 
-   IMMAGINE DELLO SCHERMO
+   ![](assets/advanced-bi-analytics-overview-3.png){width="800" zoomable="yes"}
 
-1. Selezionate le dimensioni desiderate.
+1. Selezionate le quote desiderate.
 
-   IMMAGINE DELLO SCHERMO
+   ![](assets/advanced-bi-analytics-overview-4.png){width="800" zoomable="yes"}
 
-1. Scegli la visualizzazione che preferisci.
+1. Scegli la visualizzazione desiderata.
 
-   IMMAGINE DELLO SCHERMO
+   ![](assets/advanced-bi-analytics-overview-5.png){width="800" zoomable="yes"}
 
-1. Aggiungi filtri trascinando un attributo di dimensione.
+1. Per aggiungere filtri, trascina e rilascia un attributo di dimensione.
 
-   IMMAGINE DELLO SCHERMO
+   ![](assets/advanced-bi-analytics-overview-6.png){width="800" zoomable="yes"}
 
-## Video demo {#video}
+## Demo video {#video}
 
-Guarda il video seguente per vedere un esempio di esperienza di report di drill-through multipagina.
+Guarda il video seguente per vedere un esempio di esperienza di report drill-through con più pagine.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
-## Report standard in Avanzate BI Analytics {#standard-reports}
+## Rapporti standard in Advanced BI Analytics {#standard-reports}
 
-I seguenti report standard sono inclusi come esempi per i report personalizzati.
+I seguenti rapporti standard sono inclusi come esempi per i rapporti personalizzati.
 
 <table>
   <thead>
@@ -86,7 +88,7 @@ I seguenti report standard sono inclusi come esempi per i report personalizzati.
       <td>E-mail - Attività di clic (in CST)</td>
     </tr>
     <tr>
-      <td>Email - Apri attività (in CST)</td>
+      <td>E-mail - Attività aperta (in CST)</td>
     </tr>
     <tr>
       <td>E-mail - Distribuzione del tempo di clic (in CST)</td>
@@ -133,7 +135,7 @@ I seguenti report standard sono inclusi come esempi per i report personalizzati.
       <td>Primi 10 programmi per successo</td>
     </tr>
     <tr>
-      <td>I primi 10 programmi per pipeline totale</td>
+      <td>Primi 10 programmi per pipeline totale</td>
     </tr>
     <tr>
       <td>Rapporto fase ricavi programma</td>
@@ -184,7 +186,7 @@ _Durante la versione beta pubblica:_
 
   >[!IMPORTANT]
   >
-  >La replica dei rapporti personalizzati verrà eseguita in coorti. Una volta replicati i rapporti personalizzati nella nuova esperienza, per garantire la coerenza tra le due esperienze, eventuali modifiche apportate nell’esperienza classica dovranno essere applicate manualmente anche ai rapporti corrispondenti nella nuova esperienza. Una nota informativa su quanto sopra si accenderà nell’esperienza classica al momento della replica dei rapporti dei clienti.
+  >La replica dei rapporti personalizzati verrà eseguita in gruppi. Una volta replicati i rapporti personalizzati nella nuova esperienza, per garantire la coerenza tra le due esperienze, eventuali modifiche apportate nell’esperienza classica dovranno essere applicate manualmente anche ai rapporti corrispondenti nella nuova esperienza. Una nota informativa su quanto sopra si accenderà nell’esperienza classica al momento della replica dei rapporti dei clienti.
 
    * Le dashboard nell’esperienza classica non sono trasferibili e richiederanno la ricreazione nella nuova esperienza. Dovrebbero essere ricreati come rapporti nella nuova esperienza e i filtri nella nuova esperienza richiamano automaticamente i valori possibili invece di richiedere di immettere manualmente tutti i valori possibili singolarmente nell’esperienza classica.
 
@@ -200,21 +202,21 @@ _Durante la versione beta pubblica:_
 
 La nuova esperienza di visualizzazione viene fornita tramite il servizio Power BI incorporato.
 
-Per una rapida esercitazione sull&#39;esperienza [di visualizzazione, visita gli oggetti visivi di Microsoft in Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"} .
+Per un&#39;esercitazione rapida sull&#39;esperienza di visualizzazione, visita la pagina relativa all&#39;[utilizzo degli elementi visivi di Microsoft nella documentazione di Power BI](https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/){target="_blank"}. Tieni presente che potresti non visualizzare tutte queste funzioni in Marketo Engage.
 
-### Modifiche significative dell&#39;esperienza {#notable-experience-changes}
+### Modifiche di rilievo apportate alle esperienze {#notable-experience-changes}
 
-Di seguito sono riportate le modifiche apportate alla nuova esperienza (Avanzate BI Analytics) rispetto all&#39;esperienza classica (Esplora entrate/Avanzate Report Builder).
+Di seguito sono riportate le modifiche apportate alla nuova esperienza (Advanced BI Analytics) dall’esperienza classica (Revenue Explorer/Advanced Report Builder).
 
-* Il filtro di tipo data funziona in modo equivalente; Tuttavia, la sintassi per specificare i valori è cambiata. Nei rapporti personalizzati esistenti, tutti i valori di filtro di tipo data, ad eccezione di &quot;Giorno della settimana&quot;, vengono automaticamente convertiti nei corrispondenti equivalenti nella nuova esperienza. Il supporto per i valori &quot;Giorno della settimana&quot; è stato interrotto.
+* Il filtro di tipo data funziona in modo equivalente; tuttavia, la sintassi per specificare i valori è stata modificata. Nei rapporti personalizzati esistenti, tutti i valori dei filtri di tipo data, ad eccezione di &quot;Giorno della settimana&quot;, vengono automaticamente convertiti nei corrispondenti equivalenti nella nuova esperienza. Il supporto per i valori di &quot;Giorno della settimana&quot; è stato interrotto.
 
-* I filtri di tipo stringa sono ora sensibili all&#39;uso di maiuscole e minuscole.
+* I filtri di tipo stringa ora distinguono tra maiuscole e minuscole.
 
-* Il campo formula runtime nell&#39;esperienza classica non è più supportato.
+* Il campo della formula di runtime nell’esperienza classica non è più supportato.
 
-* La sottoscrizione e-mail include l&#39;esportazione PDF anziché il codice HTML del report. La nuova sottoscrizione e-mail non includerà la definizione del report.
+* L’abbonamento e-mail include l’esportazione PDF anziché il HTML del rapporto. La nuova sottoscrizione e-mail non includerà la definizione del rapporto.
 
-* Al momento la collegare profonda del rapporto non è supportata.
+* Il collegamento profondo del rapporto non è al momento supportato.
 
 * Al momento l’esperienza della cartella dei rapporti non è disponibile ed è stata temporaneamente sostituita da un elenco semplice con ricerca del tipo &quot;avanti&quot;. Il nome del report replicato conterrà il percorso della cartella, ad esempio `/folder1/folder2/report`.
 
@@ -226,5 +228,4 @@ Di seguito sono riportate le modifiche apportate alla nuova esperienza (Avanzate
 
 >[!MORELIKETHIS]
 >
->[Metriche e dimensioni](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md)
-
+>[Metriche e dimensioni](/help/marketo/product-docs/reporting/advanced-bi-analytics/metrics-and-dimensions.md){target="_blank"}
