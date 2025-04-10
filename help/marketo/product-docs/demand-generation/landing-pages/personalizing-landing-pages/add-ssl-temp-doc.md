@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
+source-git-commit: d20a560d3ef0a76081787c962e2e9c7276caf5cf
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Per abilitare SSL per il dominio predefinito, segui la procedura riportata di se
 
 1. Sempre nella sezione **Amministratore**, seleziona **Pagine di destinazione**. Fai clic sul pulsante arancione **Modifica** accanto a _Impostazioni_.
 
-   ![](assets/add-ssl-to-your-landing-pages-4.png)
+   ![](assets/add-ssl-to-your-landing-pages-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
