@@ -4,26 +4,30 @@ description: Personalizzare la sincronizzazione delle attività - Documentazione
 title: Personalizza sincronizzazione attività
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '289'
+ht-degree: 2%
 
 ---
 
 # Personalizza sincronizzazione attività {#customize-activities-sync}
 
-Se non utilizzi Marketo Sales Insight, il Marketo Engage può creare record di cronologia delle attività Salesforce per determinati eventi. Ecco come abilitarli.
+Se non si utilizza Marketo Sales Insight, Marketo Engage può creare record della cronologia attività di Salesforce per determinati eventi. Ecco come abilitarli.
 
-1. Vai a **[!UICONTROL Amministratore]**.
+>[!NOTE]
+>
+>La sincronizzazione Salesforce/Marketo Engage non invierà a Salesforce alcuna attività che si è verificata prima del push della persona a Salesforce.
 
-   ![](assets/admin.png)
+1. Vai a **[!UICONTROL Admin]**.
 
-1. Fare clic su **[!DNL Salesforce]**, quindi su **[!UICONTROL Modifica opzioni di sincronizzazione]**.
+   ![](assets/customize-activities-sync-1.png)
+
+1. Fai clic su **[!DNL Salesforce]**, quindi su **[!UICONTROL Edit Sync Options]**.
 
    ![](assets/two-1.png)
 
-1. Seleziona le caselle accanto alle attività che desideri che Marketo invii a Salesforce, quindi fai clic su **[!UICONTROL Salva]**.
+1. Selezionare le caselle accanto alle attività che si desidera inviare da Marketo a Salesforce e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 
@@ -85,7 +89,7 @@ Se non utilizzi Marketo Sales Insight, il Marketo Engage può creare record di c
   </tr> 
   <tr> 
    <td>Fai clic sul collegamento nell’e-mail di vendita</td> 
-   <td>Clic su un collegamento in un'e-mail inviata tramite Marketo Sales Insight</td> 
+   <td>Clic su un collegamento in un’e-mail inviata tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
    <td>E-mail di vendita ricevuta</td> 

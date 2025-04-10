@@ -4,16 +4,16 @@ description: Abilitare/Disabilitare la sincronizzazione oggetti personalizzati -
 title: Abilita/Disabilita sincronizzazione oggetti personalizzati
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
 # Abilita/Disabilita sincronizzazione oggetti personalizzati {#enable-disable-custom-object-sync}
 
-Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far parte del Marketo Engage. Ecco come configurarlo.
+Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far parte di Marketo Engage. Ecco come configurarlo.
 
 ## Abilita/Disabilita sincronizzazione oggetti personalizzati {#enable-disable-custom-object-sync-1}
 
@@ -21,19 +21,19 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fai clic su **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
-   ![](assets/one.png)
+   ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Scegliere **[!UICONTROL Sincronizzazione oggetti Salesforce]** dal menu Gestione database.
+1. Scegliere **[!UICONTROL Salesforce Objects Sync]** dal menu Gestione database.
 
-   ![](assets/two-2.png)
+   ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sincronizza schema]**. In caso contrario, fare clic su **[!UICONTROL Aggiorna schema]** per verificare di disporre dell&#39;ultima versione.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sync schema]**. In caso contrario, fai clic su **[!UICONTROL Refresh Schema]** per assicurarti di disporre dell&#39;ultima versione.
 
-   ![](assets/image2014-12-10-10-3a14-3a44.png)
+   ![](assets/enable-disable-custom-object-sync-3.png)
 
-1. Se la sincronizzazione globale è in esecuzione, è necessario disattivarla facendo clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Se la sincronizzazione globale è in esecuzione, sarà necessario disattivarla facendo clic su **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2014-12-10-10-3a14-3a54.png)
 
@@ -41,23 +41,23 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >La sincronizzazione dello schema di oggetti personalizzato di Salesforce potrebbe richiedere alcuni minuti.
 
-1. Fare clic su **[!UICONTROL Aggiorna schema]**.
+1. Fai clic su **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-10-3a15-3a7.png)
 
-1. Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
 
    >[!TIP]
    >
-   >Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l’oggetto Lead, Contact o Account in Salesforce.
+   >Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Lead, Contact o Account in Salesforce.
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 
-1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare di nuovo clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-10-3a15-3a40.png)
 
-1. Torna alla scheda **[!DNL Salesforce]** e fai clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Tornare alla scheda **[!DNL Salesforce]** e fare clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-10-3a15-3a49.png)
 
@@ -67,7 +67,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 >
 >Non è possibile utilizzare oggetti personalizzati in Smart Campaigns con trigger.
 
-1. Nell&#39;elenco avanzato, trascina il filtro **[!UICONTROL Ha opportunità]** e imposta su **[!UICONTROL true]**.
+1. Nell&#39;elenco avanzato, trascinare il mouse sul filtro **[!UICONTROL Has Opportunity]** e impostare su **[!UICONTROL true]**.
 
    ![](assets/image2015-8-26-9-3a39-3a28.png)
 
