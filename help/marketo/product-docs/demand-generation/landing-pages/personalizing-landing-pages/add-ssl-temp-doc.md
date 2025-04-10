@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Landing Pages
 exl-id: 00ec2d91-3d4f-4671-af9d-9750c1642d40
-source-git-commit: 1112af01c08835876f4a2385f304a33e2ddd48ff
+source-git-commit: c7bf6c7ffca16e95f13a7009897bce6fc39a9ffd
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -20,31 +20,39 @@ Quando si compila un modulo web o si visita una pagina di destinazione ospitata 
 
 Marketo Engage tiene traccia di &quot;Visited Web Page&quot; e &quot;Click Link on Web Page&quot; per impostazione predefinita su un protocollo HTTP non sicuro. Se desideri proteggere i collegamenti di tracciamento con il proprio certificato, è necessario che Marketo crei un server non condiviso separato per abilitarlo. Proteggere tutti gli aspetti dell’interazione di un contatto con te in genere significa proteggere sia le pagine di destinazione che i collegamenti di tracciamento.
 
-SCHERMATA
-
 ## Abilita certificazione SSL {#enable-ssl-certification}
 
 Aggiungi automaticamente SSL per tutti gli alias di dominio creati come parte delle regole della pagina di destinazione.
 
 1. Vai all&#39;area **Amministratore**.
 
-   SCHERMATA
+   ![](assets/add-ssl-to-your-landing-pages-1.png)
 
 1. Seleziona **Pagine di destinazione** dalla struttura. Nella scheda **Regole**, fai clic sull&#39;elenco a discesa **Nuovo** e seleziona **Nuovo alias di dominio**.
 
-   SCHERMATA
+   ![](assets/add-ssl-to-your-landing-pages-2.png)
 
-1. Selezionare la casella di controllo **Genera certificato SSL**.
+1. Immetti l&#39;_alias di dominio_ e la _pagina predefinita_. Selezionare la casella di controllo **Genera certificato SSL**. Al termine, fai clic su **Crea**.
 
-   SCHERMATA
+   ![](assets/add-ssl-to-your-landing-pages-3.png)
 
 Questo aggiunge automaticamente un certificato SSL per questo dominio.
 
-SCHERMATA
-
 ## Abilita SSL per il dominio predefinito {#enable-ssl-default-domain}
 
-SCHERMATA
+Per abilitare SSL per il dominio predefinito, segui la procedura riportata di seguito.
+
+1. Sempre nella sezione **Amministratore**, seleziona **Pagine di destinazione**. Fai clic sul pulsante arancione **Modifica** accanto a _Impostazioni_.
+
+   ![](assets/add-ssl-to-your-landing-pages-4.png)
+
+   >[!NOTE]
+   >
+   >Se lo desideri, puoi anche modificare il nome di dominio qui (è richiesto un dominio valido).
+
+1. Seleziona la casella di controllo &quot;Genera certificato SSL&quot; e fai clic su Salva.
+
+   ![](assets/add-ssl-to-your-landing-pages-5.png)
 
 >[!NOTE]
 >
