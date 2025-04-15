@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 978bbe4de06a0e269b60108e5a91edc5499dc9c1
+source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 3%
+source-wordcount: '474'
+ht-degree: 4%
 
 ---
 
@@ -56,17 +56,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>Token per qualsiasi attributo del trigger</strong>: espande l'elenco dei token del trigger disponibili solo dall'elenco in <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments" target="_blank">questo documento</a> per supportare l'utilizzo dei dati di qualsiasi attributo dell'attività di attivazione nei campi del flusso della campagna. Stampare i dati da un attributo di attività in un momento di interesse o impostare l’ultimo ID transazione di un lead da un’attività personalizzata in un campo lead.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
- </tbody> 
+  </tbody> 
 </table>
 <br/>
 
