@@ -1,24 +1,24 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Confronto delle funzioni di E-mail Designer ed Editor e-mail
-description: Usa questa tabella per confrontare la disponibilità delle funzioni del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
+title: Confronto tra funzionalità di Email Designer ed Email Editor
+description: Utilizza questa tabella per confrontare la disponibilità delle funzionalità del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: f41d0595db695fc485a209aa2f9646a76e57acdf
+source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
 
 ---
 
-# Confronto delle funzioni di Email Designer/Email Editor {#feature-comparison}
+# Confronto tra funzionalità Email Designer/Email Editor {#feature-comparison}
 
-Utilizza la tabella seguente per confrontare la disponibilità delle funzioni del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
+Utilizza la tabella seguente per confrontare la disponibilità delle funzionalità del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
 
-Consultate questa pagina (così come le [note sulla versione corrente](/help/marketo/release-notes/current.md){target="_blank"}) per aggiornamenti.
+Controlla questa pagina (così come la [note sulla versione](/help/marketo/release-notes/current.md){target="_blank"} corrente) per gli aggiornamenti.
 
 <table><thead>
   <tr>
@@ -29,8 +29,8 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr></thead>
 <tbody>
   <tr>
-    <td>Modelli di e-mail per iniziare preconfigurati</td>
-    <td>Possibilità di utilizzare i modelli predefiniti forniti da E-mail Designer.</td>
+    <td>Modelli di e-mail OOTB Starter</td>
+    <td>Possibilità di utilizzare <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">modelli predefiniti</a> forniti da E-mail Designer.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -42,7 +42,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Anteprima modelli e-mail</td>
-    <td>Possibilità di visualizzare in anteprima i modelli e-mail prima di utilizzarli in un messaggio e-mail.</td>
+    <td>Possibilità di visualizzare in anteprima i modelli e-mail prima di utilizzarli in un'e-mail.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -72,7 +72,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Carica immagine/file</td>
-    <td>Possibilità di caricare un’immagine dal sistema locale.</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-assets" target="_blank">caricare un'immagine</a> dal sistema locale.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -83,8 +83,8 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile</td>
   </tr>
   <tr>
-    <td>Assets di Design Studio</td>
-    <td>Possibilità di accedere alle immagini e ai file di Design Studio nell'editor/designer.</td>
+    <td>Design Studio Assets</td>
+    <td>Possibilità di accesso le immagini e le File di Design Studio all'interno del editor/designer.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -96,7 +96,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Assistente IA</td>
-    <td>Possibilità di generare l'oggetto, parte del contenuto o l'intera e-mail tramite <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md">modelli di IA generativa</a>.</td>
+    <td>Possibilità di generare l'oggetto, parte del contenuto o l'intera e-mail tramite <a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md" target="_blank">modelli di IA generativa</a>.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -108,7 +108,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Blocco dei contenuti</td>
-    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md">bloccare il contenuto</a> in un modello e-mail in modo che non possa essere modificato durante la creazione di e-mail.</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">bloccare contenuto</a> in un modello di e-mail in modo che non possa essere modificato durante la creazione di e-mail.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -138,7 +138,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Salva contenuto come frammento</td>
-    <td>Possibilità di salvare una parte del contenuto come frammento.</td>
+    <td>Possibilità di salvare una parte del contenuto <a href="/help/marketo/product-docs/email-marketing/email-designer/fragments.md#save-a-new-fragment-from-email-or-template-content" target="_blank">come frammento</a>.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -162,7 +162,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Integrazione con Adobe Express</td>
-    <td>Possibilità di creare/modificare immagini utilizzando <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md">Adobe Express</a>.</td>
+    <td>Possibilità di creare/modificare immagini utilizzando <a href="/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md" target="_blank">Adobe Express</a>.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -176,7 +176,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Moduli</td>
     <td>Possibilità di precreare strutture e predefiniti di contenuto specifici da riutilizzare nelle e-mail.</td>
     <td>Disponibile</td>
-    <td>Disponibile come <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md">frammento personalizzabile</a></td>
+    <td>Disponibile come <a href="/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md" target="_blank">frammento personalizzabile</a></td>
   </tr>
   <tr>
     <td>Integrazione di AEM Assets Cloud Service</td>
@@ -194,11 +194,11 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Sostituisci con snippet</td>
     <td>Possibilità di sostituire una parte del contenuto con uno snippet.</td>
     <td>Disponibile</td>
-    <td>Trascina e rilascia frammento</td>
+    <td>Trascina frammento</td>
   </tr>
   <tr>
     <td>Temi globali</td>
-    <td>Possibilità di applicare temi approvati all’interno dell’organizzazione per garantire la coerenza di elementi come stile, colore, dimensione del font e così via.</td>
+    <td>Capacità di applicare temi approvati in tutta l'organizzazione per garantire coerenza in elementi quali stile, colore, font dimensioni, ecc.</td>
     <td>Non disponibile</td>
     <td>Disponibile a breve</td>
   </tr>
@@ -210,7 +210,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Immagine per HTML</td>
-    <td>Possibilità di convertire un’immagine in HTML da utilizzare per la creazione di e-mail.</td>
+    <td>Possibilità di convertire un'immagine in HTML per poi utilizzarla per creare e-mail.</td>
     <td>Non disponibile</td>
     <td>Disponibile a breve</td>
   </tr>
@@ -221,7 +221,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile a breve</td>
   </tr>
   <tr>
-    <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
+    <td>Supporto per lo spostamento, la Elimina e la Importa di programmi con risorse e-mail</td>
     <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
     <td>Disponibile</td>
     <td>Disponibile a breve</td>
@@ -246,7 +246,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
    <tr>
     <td>Script Handlebar</td>
-    <td>Possibilità di utilizzare gli script Handlebar nelle e-mail.</td>
+    <td>Possibilità di utilizzare il scripting Handlebar nelle e-mail.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il terzo trimestre '25</td>
   </tr>
@@ -288,19 +288,19 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>E-mail in CRM</td>
-    <td>Possibilità di inviare informazioni relative alle e-mail al CRM.</td>
+    <td>Possibilità di inviare informazioni relative alle e-mail al tuo CRM.</td>
     <td>Disponibile</td>
     <td>Da definire</td>
   </tr>
   <tr>
-    <td>Editor di codice</td>
+    <td>Code Editor</td>
     <td>Possibilità di modificare il contenuto HTML di e-mail, modelli e frammenti di e-mail.</td>
     <td>Disponibile</td>
     <td>Da definire</td>
   </tr>
   <tr>
     <td>Contenuto predittivo</td>
-    <td>Possibilità di prevedere i contenuti da una knowledge base all’interno dell’e-mail in base al pubblico di destinazione.</td>
+    <td>Possibilità di prevedere i contenuto da un knowledge base all'interno dell'e-mail in base al pubblico destinazione.</td>
     <td>Disponibile</td>
     <td>Non disponibile</td>
   </tr>
