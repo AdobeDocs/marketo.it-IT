@@ -1,24 +1,24 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Confronto tra funzionalità di Email Designer ed Email Editor
-description: Utilizza questa tabella per confrontare la disponibilità delle funzionalità del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
+title: Confronto delle funzioni di E-mail Designer ed Editor e-mail
+description: Usa questa tabella per confrontare la disponibilità delle funzioni del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
 feature: Email Editor
 role: User
 level: Beginner, Intermediate
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: d8e833e5997f1b9cfeef8ecf8b88ca81151041c2
+source-git-commit: f5d0e85ab6aa4227c15685de337afa12f7d8f761
 workflow-type: tm+mt
 source-wordcount: '916'
 ht-degree: 9%
 
 ---
 
-# Confronto tra funzionalità Email Designer/Email Editor {#feature-comparison}
+# Confronto delle funzioni di Email Designer/Email Editor {#feature-comparison}
 
-Utilizza la tabella seguente per confrontare la disponibilità delle funzionalità del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
+Utilizza la tabella seguente per confrontare la disponibilità delle funzioni del nostro precedente editor e-mail (Email Editor 2.0) e del nostro nuovo Email Designer.
 
-Controlla questa pagina (così come la [note sulla versione](/help/marketo/release-notes/current.md){target="_blank"} corrente) per gli aggiornamenti.
+Consultate questa pagina (così come le [note sulla versione corrente](/help/marketo/release-notes/current.md){target="_blank"}) per aggiornamenti.
 
 <table><thead>
   <tr>
@@ -29,7 +29,7 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
   </tr></thead>
 <tbody>
   <tr>
-    <td>Modelli di e-mail OOTB Starter</td>
+    <td>Modelli di e-mail per iniziare preconfigurati</td>
     <td>Possibilità di utilizzare <a href="/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#choose-a-template" target="_blank">modelli predefiniti</a> forniti da E-mail Designer.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
@@ -42,7 +42,7 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
   </tr>
   <tr>
     <td>Anteprima modelli e-mail</td>
-    <td>Possibilità di visualizzare in anteprima i modelli e-mail prima di utilizzarli in un'e-mail.</td>
+    <td>Possibilità di visualizzare in anteprima i modelli e-mail prima di utilizzarli in un messaggio e-mail.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -83,8 +83,8 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
     <td>Disponibile</td>
   </tr>
   <tr>
-    <td>Design Studio Assets</td>
-    <td>Possibilità di accesso le immagini e le File di Design Studio all'interno del editor/designer.</td>
+    <td>Assets di Design Studio</td>
+    <td>Possibilità di accedere alle immagini e ai file di Design Studio nell'editor/designer.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -108,7 +108,7 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
   </tr>
   <tr>
     <td>Blocco dei contenuti</td>
-    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">bloccare contenuto</a> in un modello di e-mail in modo che non possa essere modificato durante la creazione di e-mail.</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/content-locking.md" target="_blank">bloccare il contenuto</a> in un modello e-mail in modo che non possa essere modificato durante la creazione di e-mail.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -145,6 +145,12 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
   <tr>
     <td>Ciclo di vita e-mail</td>
     <td>Possibilità di spostare e-mail, modelli e frammenti durante il ciclo di vita da <i>Bozza</i> a <i>Pubblicato</i> in <i>Pubblicato con bozza</i>.</td>
+    <td>Disponibile</td>
+    <td>Disponibile</td>
+  </tr>
+  <tr>
+    <td>Reporting e-mail</td>
+    <td>Visualizzazione delle e-mail in Marketo Engage Analytics.</td>
     <td>Disponibile</td>
     <td>Disponibile</td>
   </tr>
@@ -194,11 +200,11 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
     <td>Sostituisci con snippet</td>
     <td>Possibilità di sostituire una parte del contenuto con uno snippet.</td>
     <td>Disponibile</td>
-    <td>Trascina frammento</td>
+    <td>Trascina e rilascia frammento</td>
   </tr>
   <tr>
     <td>Temi globali</td>
-    <td>Capacità di applicare temi approvati in tutta l'organizzazione per garantire coerenza in elementi quali stile, colore, font dimensioni, ecc.</td>
+    <td>Possibilità di applicare temi approvati all’interno dell’organizzazione per garantire la coerenza di elementi come stile, colore, dimensione del font e così via.</td>
     <td>Non disponibile</td>
     <td>Disponibile a breve</td>
   </tr>
@@ -210,7 +216,7 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
   </tr>
   <tr>
     <td>Immagine per HTML</td>
-    <td>Possibilità di convertire un'immagine in HTML per poi utilizzarla per creare e-mail.</td>
+    <td>Possibilità di convertire un’immagine in HTML da utilizzare per la creazione di e-mail.</td>
     <td>Non disponibile</td>
     <td>Disponibile a breve</td>
   </tr>
@@ -221,7 +227,7 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
     <td>Disponibile a breve</td>
   </tr>
   <tr>
-    <td>Supporto per lo spostamento, la Elimina e la Importa di programmi con risorse e-mail</td>
+    <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
     <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
     <td>Disponibile</td>
     <td>Disponibile a breve</td>
@@ -246,7 +252,7 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
   </tr>
    <tr>
     <td>Script Handlebar</td>
-    <td>Possibilità di utilizzare il scripting Handlebar nelle e-mail.</td>
+    <td>Possibilità di utilizzare gli script Handlebar nelle e-mail.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il terzo trimestre '25</td>
   </tr>
@@ -281,26 +287,20 @@ Controlla questa pagina (così come la [note sulla versione](/help/marketo/relea
     <td>Da definire</td>
   </tr>
   <tr>
-    <td>Reporting e-mail</td>
-    <td>Visualizzazione delle e-mail in Marketo Engage Analytics.</td>
-    <td>Disponibile</td>
-    <td>Da definire</td>
-  </tr>
-  <tr>
     <td>E-mail in CRM</td>
-    <td>Possibilità di inviare informazioni relative alle e-mail al tuo CRM.</td>
+    <td>Possibilità di inviare informazioni relative alle e-mail al CRM.</td>
     <td>Disponibile</td>
     <td>Da definire</td>
   </tr>
   <tr>
-    <td>Code Editor</td>
+    <td>Editor di codice</td>
     <td>Possibilità di modificare il contenuto HTML di e-mail, modelli e frammenti di e-mail.</td>
     <td>Disponibile</td>
     <td>Da definire</td>
   </tr>
   <tr>
     <td>Contenuto predittivo</td>
-    <td>Possibilità di prevedere i contenuto da un knowledge base all'interno dell'e-mail in base al pubblico destinazione.</td>
+    <td>Possibilità di prevedere i contenuti da una knowledge base all’interno dell’e-mail in base al pubblico di destinazione.</td>
     <td>Disponibile</td>
     <td>Non disponibile</td>
   </tr>
