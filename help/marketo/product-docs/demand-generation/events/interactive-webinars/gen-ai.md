@@ -3,9 +3,9 @@ description: Funzioni GenAI - Documentazione Marketo - Documentazione del prodot
 title: Funzioni GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: a4db7dbc6d62edd3d2efdba08c402d762fdaf921
+source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -87,6 +87,22 @@ Dopo aver copiato il contenuto che desideri utilizzare, incollalo nell’editor 
 ### Capitoli {#chapters}
 
 **Copia HTML** - Fare clic sul pulsante **[!UICONTROL Copy HTML]** per formattare tutta la registrazione e i relativi capitoli all&#39;interno di un lettore video.
+
+## Rivolgiti al tuo pubblico
+
+Sfrutta i filtri e/o i trigger per campagne/elenchi avanzati per visualizzare cosa ha guardato ogni visualizzatore, quante volte e così via, consentendo follow-up personalizzati.
+
+![](assets/gen-ai-features-4.png){width="800" zoomable="yes"}
+
+* **Trigger**: _Clic sul collegamento nella pagina Web_, _Visite alla pagina Web_
+
+* **Filtri**: _Collegamento selezionato sulla pagina Web_, _Pagina Web visitata_
+
+Il &quot;collegamento&quot; è il nome del capitolo e la &quot;pagina web&quot; è la pagina che ospita il webinar On Demand.
+
+>[!TIP]
+>
+>Utilizza [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} per perfezionare ulteriormente il pubblico di destinazione.
 
 ## Aspetti da considerare {#things-to-note}
 
