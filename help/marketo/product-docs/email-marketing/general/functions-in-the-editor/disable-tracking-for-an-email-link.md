@@ -4,9 +4,9 @@ description: Disabilita tracciamento per un collegamento e-mail - Documentazione
 title: Disattiva tracciamento per un collegamento e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -45,10 +45,6 @@ Inoltre, se un&#39;e-mail è stata inviata più di 365 giorni fa **e** nessuno h
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 
-   >[!TIP]
+   >[!CAUTION]
    >
-   >Disabilitare il tracciamento dei clic per un collegamento in un messaggio e-mail **modello**? Usa questo formato:
-   >`<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`\
-   >Se hai bisogno di aiuto per implementare questo, consulta il tuo sviluppatore web.
-
-Bello! Hai disabilitato il tracciamento di un collegamento.
+   >Se vuoi disabilitare il tracciamento dei clic per un collegamento in un modello e-mail o per la [versione testuale](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md){target="_blank"} di un&#39;e-mail, aggiungi `mktNoTrack` all&#39;*inizio* della stringa, non alla fine, come in questo esempio: `<a class="mktNoTrack" href="https://www.mywebsite.com">This link does not have tracking</a>`. In caso contrario, il collegamento potrebbe scomparire. Per assistenza nell’implementazione del codice di cui sopra, consulta il tuo sviluppatore web.
