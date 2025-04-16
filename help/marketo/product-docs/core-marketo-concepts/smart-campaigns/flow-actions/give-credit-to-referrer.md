@@ -3,8 +3,10 @@ unique-page-id: 1147040
 description: Attribuisci credito al referente - Documentazione Marketo - Documentazione del prodotto
 title: Attribuisci credito al referente
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
+hide: true
+hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 1%
@@ -13,7 +15,7 @@ ht-degree: 1%
 
 # Attribuisci credito al referente {#give-credit-to-referrer}
 
-Quando si esegue un&#39;offerta di riferimento [](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"} o un [sweepstakes](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}, è possibile attribuire il merito al referente utilizzando metodi diversi:
+Quando si esegue un&#39;offerta di riferimento __ o un _sweepstakes_, è possibile attribuire il merito al referente utilizzando metodi diversi:
 
 * Visite relative
 * Accessi con riferimenti
@@ -30,6 +32,6 @@ Se si sceglie di utilizzare l&#39;opzione **Trigger elenco avanzato** per specif
 
    >[!NOTE]
    >
-   >Assicurati che la tua app social sia configurata per l’utilizzo di Trigger elenco avanzato. Per ulteriori dettagli, vedere [Specificare l&#39;obiettivo per l&#39;offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/specify-goal-for-referral-offer.md){target="_blank"}.
+   >Assicurati che la tua app social sia configurata per l’utilizzo di Trigger elenco avanzato. Per ulteriori dettagli, vedere _Specificare l&#39;obiettivo per l&#39;offerta di riferimento_.
 
 Eccellente! Qualsiasi persona elaborata da questo passaggio di flusso attribuirà ora un credito al suo referente.

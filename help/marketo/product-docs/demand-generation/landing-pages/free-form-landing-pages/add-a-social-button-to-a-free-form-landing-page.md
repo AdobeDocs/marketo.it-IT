@@ -4,7 +4,7 @@ description: Aggiungere un pulsante Social a una pagina di destinazione in forma
 title: Aggiungere un pulsante Social a una pagina di destinazione in formato libero
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 1. Passa alla pagina di destinazione in formato libero e fai clic su **Modifica bozza**.
 
@@ -31,7 +31,7 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Quando la pagina di destinazione è attiva, visualizza l&#39;attività generata dal pulsante per social network (con Analytics) nel [dashboard per social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
+   Quando la pagina di destinazione è attiva, visualizza l&#39;attività generata dal _pulsante social (con Analytics) nel dashboard social_.
 
    Se invece aggiungi un pulsante Mi piace/Consiglia (Lite), consulta il numero di condivisioni nel [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -49,10 +49,10 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
    >
    >Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da un pulsante social esistente.
 
-   [pubblica la pagina di destinazione in Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) [inserisci il pulsante social nel tuo sito Web](/help/marketo/product-docs/demand-generation/social/social-functions/deploy-social-on-your-website.md)
+   [pubblica la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _inserisci il pulsante social nel tuo sito Web_
 
 Congratulazioni! Hai aggiunto un pulsante Social alla pagina di destinazione. Assicurati di approvare la pagina di destinazione.
 
 >[!MORELIKETHIS]
 >
->Hai terminato, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con [personalizzare lo stile del pulsante](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/customize-social-app-button.md) o [modificare i messaggi di condivisione](/help/marketo/product-docs/demand-generation/social/configuring-social-actions/configure-social-sign-up-share-flow.md) che presenta.
+>Hai terminato, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con _personalizzare lo stile del pulsante_ o _modificare i messaggi di condivisione_ che presenta.

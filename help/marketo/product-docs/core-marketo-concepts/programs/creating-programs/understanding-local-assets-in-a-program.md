@@ -4,10 +4,10 @@ description: Informazioni su Local Assets in a Program - Documentazione Marketo 
 title: Informazioni sull’Assets locale in un programma
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 5e2d1979abcafd8e4a37e55b843be932125c954e
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Le risorse locali sono i contenuti che compongono il programma. Assets è person
 
 >[!NOTE]
 >
->Non tutti hanno accesso a ogni risorsa disponibile. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo account manager).
+>Non tutti hanno accesso a ogni risorsa disponibile. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 
 * [Campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}
 * [Elenchi](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md){target="_blank"}
@@ -31,9 +31,4 @@ Le risorse locali sono i contenuti che compongono il programma. Assets è person
 * [Pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
 * [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Gruppo di test](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [Pulsante social](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md){target="_blank"}
-* [Video Youtube](/help/marketo/product-docs/demand-generation/social/social-functions/add-a-video.md){target="_blank"}
-* [Sondaggio](/help/marketo/product-docs/demand-generation/social/creating-a-poll/create-a-poll.md){target="_blank"}
-* [Offerta di riferimento](/help/marketo/product-docs/demand-generation/social/referral-offers/create-a-referral-offer.md){target="_blank"}
-* [Azioni](/help/marketo/product-docs/demand-generation/social/sweepstakes/create-sweepstakes.md){target="_blank"}
 * [Vibes SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

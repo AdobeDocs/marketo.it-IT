@@ -4,9 +4,9 @@ description: Rapporto sulle prestazioni della pagina di destinazione - Documenti
 title: Rapporto sulle prestazioni della pagina di destinazione
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Scopri quante persone hanno compilato i moduli nelle pagine di destinazione e qu
 
 >[!NOTE]
 >
->Se noti una discrepanza nei numeri tra il rapporto Prestazioni elenchi avanzati e pagina di destinazione, è probabile che tali rapporti filtrino i dati solo in base alle persone, mentre i rapporti Prestazioni pagine di destinazione includono dati social (Facebook, Google Ads, ecc.) e attività anonime, oltre ai dati relativi alle persone.
+>Se noti una discrepanza nei numeri tra il rapporto Prestazioni elenchi avanzati e pagine di destinazione, è probabile che tali elenchi filtrino i dati solo in base alle persone, mentre i rapporti Prestazioni pagine di destinazione includono dati social (Facebook, Google Ads, ecc.) e attività anonime, oltre ai dati relativi alle persone.
 
 1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il tipo di report [Prestazioni pagina di destinazione](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda Report.
-1. Tutto qui! Esplora il rapporto per valutare il funzionamento delle pagine di destinazione.
+1. Tutto qui. Esplora il rapporto per valutare il funzionamento delle pagine di destinazione.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 
@@ -36,10 +36,6 @@ Scopri quante persone hanno compilato i moduli nelle pagine di destinazione e qu
 1. Scorri verso destra per vedere il numero di visite che hanno avuto origine da varie piattaforme di social media.
 
    ![](assets/image2014-9-16-15-3a54-3a27.png)
-
->[!NOTE]
->
->L&#39;attività generata dal pulsante [social con Analytics](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-social-button-to-a-free-form-landing-page.md) non è inclusa qui. Per queste statistiche, consulta [Dashboard social](/help/marketo/product-docs/demand-generation/social/social-functions/view-social-performance.md).
 
 >[!MORELIKETHIS]
 >
