@@ -3,7 +3,7 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: d88406c1f9d72c57a6d4f09934cbf685499ed198
+source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
 workflow-type: tm+mt
 source-wordcount: '697'
 ht-degree: 0%
@@ -16,7 +16,7 @@ La chat in tempo reale consente ai visitatori del sito web di intrattenere conve
 
 >[!NOTE]
 >
->Per coloro che fanno parte del pacchetto di selezione del Dynamic Chat, la chat in diretta è una funzione di prova con un limite di durata di 100 engagement. Quando questo limite viene raggiunto, tutti i visitatori che richiedono di chattare con un agente live non saranno connessi e riceveranno invece il messaggio di fallback globale. Per aumentare il limite, contatta il rappresentante del tuo account Adobe per discutere le opzioni di aggiornamento del pacchetto.
+>Per coloro che fanno parte del pacchetto Dynamic Chat Select, la chat in diretta è una funzione di prova con un limite di durata di 100 engagement. Quando questo limite viene raggiunto, tutti i visitatori che richiedono di chattare con un agente live non saranno connessi e riceveranno invece il messaggio di fallback globale. Per aumentare il limite, contatta il rappresentante del tuo account Adobe per informazioni sulle opzioni di aggiornamento del pacchetto.
 
 ## Aggiungi agenti chat in tempo reale {#add-live-chat-agents}
 
@@ -74,7 +74,7 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
 
 >[!IMPORTANT]
 >
->Per ricevere le notifiche del browser per la chat in tempo reale, tutti gli agenti chat in tempo reale devono abilitare le notifiche del browser per il Dynamic Chat quando richiesto.
+>Per ricevere le notifiche del browser per la chat in tempo reale, tutti gli agenti chat in tempo reale devono abilitare le notifiche del browser per Dynamic Chat quando richiesto.
 
 ### Abilitazione delle notifiche {#enabling-notifications}
 
@@ -100,7 +100,7 @@ Quando una chat in diretta viene indirizzata a un agente, questi visualizzerà u
 
 >[!TIP]
 >
->Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso al Dynamic Chat.
+>Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso a Dynamic Chat.
 >
 >* Abilita notifiche browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Abilita notifiche browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
@@ -113,7 +113,7 @@ Quando un’azione, come la prenotazione di una riunione o una chat in tempo rea
 
 ### Aspetti da considerare {#things-to-note}
 
-* Gli agenti hanno 45 secondi di tempo per rispondere prima che venga visualizzato il messaggio &quot;Accept chat&quot; (Accetta chat). In seguito, i visitatori riceveranno il [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per gli abbonati Dynamic Chat Prime con l&#39;opzione di routing impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
+* Gli agenti hanno 100 secondi per rispondere prima che venga visualizzato il messaggio &quot;Accetta chat&quot;. In seguito, i visitatori riceveranno il [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per i sottoscrittori di Dynamic Chat Prime che hanno l&#39;opzione di routing impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
 * Al momento esiste un limite di 10 chat live per agente.
 
 >[!MORELIKETHIS]
