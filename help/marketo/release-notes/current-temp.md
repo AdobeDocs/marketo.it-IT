@@ -4,9 +4,9 @@ title: Note sulla versione corrente
 hide: true
 hidefromtoc: true
 feature: Release Information
-source-git-commit: 44ea3d408cf460b41f3fa92c639ca089a195a4bc
+source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '429'
 ht-degree: 4%
 
 ---
@@ -43,17 +43,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr> 
-   <td><strong>TITOLO</strong>: testo.</td> 
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
-  </tr>
-  <tr> 
-   <td> </td> 
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr> 
-   <td><strong>TITOLO</strong>: testo.</td> 
+   <td><strong>SSL (Secure Socket Layer) Self Service</strong>: la crittografia SSL consente di rendere sicure le pagine di destinazione per un'istanza di Marketo Engage. L’abilitazione di questa funzione veniva utilizzata per richiedere assistenza al team di supporto Adobe. Gli utenti di Marketo possono ora abilitarla da soli, risparmiando tempo prezioso.</td> 
    <td><i>In arrivo</i></td>
    <td><i>In arrivo</i></td>
   </tr>
