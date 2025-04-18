@@ -4,22 +4,22 @@ description: Informazioni sui token in un programma - Documentazione di Marketo 
 title: Informazioni sui token in un programma
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 0%
+source-wordcount: '417'
+ht-degree: 1%
 
 ---
 
 # Informazioni sui token in un programma {#understanding-my-tokens-in-a-program}
 
-Un token è una variabile che puoi utilizzare nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare la tua vita.
+Un token è una variabile che puoi utilizzare nelle e-mail, nelle pagine di destinazione e nelle campagne avanzate per semplificare la tua vita.
 
 Oltre a I miei token, nei programmi puoi utilizzare anche qualsiasi token incorporato. Controlla la [panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## I miei token  {#my-tokens}
 
-I miei token sono variabili personalizzate che chiunque può creare. Sono [create](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} nelle cartelle o nei programmi della campagna.
+I miei token sono variabili personalizzate che chiunque può creare. Localmente, sono [create](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md){target="_blank"} nelle cartelle o nei programmi della campagna.
 
 I miei token sono visualizzati così: `{{my.Name Of Token}}`
 
@@ -61,19 +61,19 @@ Esempi:
    <td>Usa questo token nel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">passaggio del flusso del punteggio di modifica</a>. </td> 
   </tr> 
   <tr> 
-   <td colspan="1">Campagna SFDC <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
-   <td colspan="1">Usa questo token per consentire ai lead che diventano parte di un programma Marketo di essere aggiunti anche a qualsiasi campagna SFDC aggiunta.</td> 
+   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td> 
+   <td colspan="1">Utilizza questo token per consentire ai lead che entrano a far parte di un programma Marketo di essere aggiunti anche a qualsiasi campagna SFDC venga aggiunta.</td> 
   </tr> 
   <tr> 
    <td>Testo <img alt="--" src="assets/image2014-9-25-16-3a46-3a54.png" data-linked-resource-id="3083236" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Solo un testo. Usatelo quando HTML è sovraccarico. Il limite di dimensione per i token di testo è di 524.288 caratteri (UTF-8) o 2 MB.</td> 
+   <td>Solo un testo. Utilizzalo quando HTML è sovraccarico. Il limite di dimensione per i token di testo è di 524.288 caratteri (UTF-8) o 2 MB.</td> 
   </tr> 
  </tbody> 
 </table>
 
 >[!CAUTION]
 >
->I miei token non vengono risolti quando si invia un’e-mail da Sales Insight su Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (lead, società, ecc.). I valori predefiniti per i token _funzioneranno_.
+>I miei token non vengono risolti quando invii un’e-mail da Sales Insight su Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (lead, società, ecc.). I valori predefiniti per i token _funzioneranno_.
 
 ## Nidificazione dei token {#nesting-tokens}
 
