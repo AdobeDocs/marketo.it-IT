@@ -3,7 +3,7 @@ description: Funzioni GenAI - Documentazione Marketo - Documentazione del prodot
 title: Funzioni GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 58ccf430a1bf05e93ce9ba5bef4315c6e4ccad2d
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
 source-wordcount: '614'
 ht-degree: 0%
@@ -38,7 +38,7 @@ Dopo aver accettato i termini e le condizioni di Adobe GenAI, il passaggio succe
 
 1. Dopo aver condotto il webinar on-demand, attendi 30-60 minuti per consentire all’intelligenza artificiale di elaborare la registrazione. Il pulsante Genera diventa cliccabile quando è disponibile.
 
-1. Fai clic su **[!UICONTROL Generate]**.
+1. Fai clic su **[!UICONTROL View GenAI Content]**.
 
    ![](assets/gen-ai-features-2.png){width="800" zoomable="yes"}
 

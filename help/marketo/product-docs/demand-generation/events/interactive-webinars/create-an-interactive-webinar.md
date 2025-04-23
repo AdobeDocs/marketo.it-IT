@@ -3,9 +3,9 @@ description: Creazione di un webinar interattivo - Documentazione di Marketo - D
 title: Creare un webinar interattivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: de95149324a5841a21876598ae1cd06e1fbef6e6
+source-git-commit: ce79145d8186e6d17dbe579aceb90d3c209f1b31
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -42,13 +42,13 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-5.png)
 
-1. Dai un titolo al webinar. Imposta la dimensione massima del pubblico e la durata.
+1. Dai un titolo al webinar e decidi quanto durerà.
 
    ![](assets/create-an-interactive-webinar-6.png)
 
    >[!NOTE]
    >
-   >* Il titolo del webinar è visibile ai partecipanti che partecipano. È importante che il titolo sia diverso dal nome del programma di eventi dei webinar interattivi nella tua istanza di Marketo Engage, nonché dal nome della sala del webinar.
+   >* Il titolo del webinar **è** visibile ai partecipanti quando partecipano. È importante che il titolo sia diverso dal nome del programma di eventi dei webinar interattivi nella tua istanza di Marketo Engage, nonché dal nome della sala del webinar.
    >
    >* Non è possibile riutilizzare un titolo di webinar. Ciascuno deve essere univoco nell’istanza di Marketo.
    >
@@ -56,7 +56,7 @@ Crea un webinar interattivo in pochi semplici passaggi.
    >
    >* Se crei un webinar di prova, devi eliminarlo prima dell’ora di inizio per evitare che venga utilizzata la licenza di quel webinar.
 
-1. Pianifica la data/ora del webinar e fai clic su **Crea**.
+1. Pianifica la data/ora del webinar, modifica il fuso orario (se desiderato) e imposta la dimensione massima del pubblico. Al termine, fai clic su **Crea**.
 
    ![](assets/create-an-interactive-webinar-7.png)
 
