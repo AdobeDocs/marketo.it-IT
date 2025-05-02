@@ -2,12 +2,10 @@
 description: Demandbase - Documentazione Marketo - Documentazione del prodotto
 title: Demandbase
 feature: Dynamic Chat
-hide: true
-hidefromtoc: true
 exl-id: 2623eef2-0b15-4821-a23e-12eed613d6b6
-source-git-commit: 4b8ad353dac509ab901cb6672a649f85d8a6f150
+source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '179'
 ht-degree: 2%
 
 ---
@@ -33,6 +31,8 @@ I passaggi seguenti devono essere eseguiti _nell&#39;account Demandbase_.
 1. Fai clic su **Crea**.
 
 1. Utilizzando l&#39;icona _copia_, copia la stringa del token API nella parte inferiore della pagina.
+
+1. Invia un ticket con [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) e fornisci la stringa token API per attivare l&#39;integrazione Demandbase.
 
 >[!NOTE]
 >
