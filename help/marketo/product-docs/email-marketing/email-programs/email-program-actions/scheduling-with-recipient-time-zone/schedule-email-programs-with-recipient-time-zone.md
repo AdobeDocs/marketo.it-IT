@@ -36,7 +36,7 @@ Questo offre due opzioni:
 >
 >* **Consegna il giorno seguente nel fuso orario del destinatario**: se l&#39;e-mail è programmata per essere consegnata martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail il *mercoledì* alle 9:00.
 >
->* **Consegna utilizzando l&#39;ora predefinita del programma**: se l&#39;e-mail è programmata per essere consegnata martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail _in base alle impostazioni del fuso orario della sottoscrizione_. Pertanto, se le impostazioni del fuso orario dell&#39;abbonamento [](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00 PDT (a prescindere dall&#39;ora nel proprio fuso orario).
+>* **Consegna utilizzando l&#39;ora predefinita del programma**: se l&#39;e-mail è programmata per essere consegnata martedì alle 9:00, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail _in base alle impostazioni del fuso orario della sottoscrizione_. Pertanto, se le impostazioni del fuso orario dell&#39;abbonamento [&#128279;](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00 PDT (a prescindere dall&#39;ora nel proprio fuso orario).
 
 >[!NOTE]
 >

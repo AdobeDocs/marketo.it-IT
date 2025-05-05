@@ -73,7 +73,7 @@ Per eseguire le azioni è necessario attivare prima una nuova istanza con un ute
 
 ## Richiedi la conversione dell’istanza delle azioni per renderla compatibile con la sandbox Salesforce {#request-your-actions-instance-be-converted}
 
-1. Contatta il supporto di Marketo Engage [](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per richiedere che la nuova istanza delle azioni Sales Insight sia configurata per essere compatibile con Salesforce Sandbox.
+1. Contatta il supporto di Marketo Engage [&#128279;](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per richiedere che la nuova istanza delle azioni Sales Insight sia configurata per essere compatibile con Salesforce Sandbox.
 
 1. Verifica che tutto sia configurato correttamente tentando di accedere con il pulsante &quot;Accedi con Salesforce&quot; nella pagina toutapp.com/login.
 

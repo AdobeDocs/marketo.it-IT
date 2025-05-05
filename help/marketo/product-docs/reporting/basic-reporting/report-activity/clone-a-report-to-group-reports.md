@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Clonare un rapporto in rapporti di gruppo {#clone-a-report-to-group-reports}
 
-Qualsiasi rapporto in **I miei rapporti **è visibile solo a te. Cosa succede se vuoi rendere il rapporto accessibile a tutti gli altri? Ecco come farlo:
+Qualsiasi rapporto in **I miei rapporti &#x200B;** è visibile solo a te. Cosa succede se vuoi rendere il rapporto accessibile a tutti gli altri? Ecco come farlo:
 
 1. Nell&#39;area **Analytics**, fare clic sul [report salvato](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/save-a-report.md) desiderato.
 

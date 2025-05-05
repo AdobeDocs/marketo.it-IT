@@ -86,7 +86,7 @@ L’analisi aggiuntiva dei contenuti include:
 
 * **Visualizzazioni**: visualizzazioni di quel contenuto per l&#39;ambito temporale selezionato
 * **Conversioni dirette**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
-* **Tasso di conversione****:** Tasso di conversione percentuale calcolato per le conversioni dirette diviso per i clic
+* **Tasso di conversione**&#x200B;**:** Tasso di conversione percentuale calcolato per le conversioni dirette diviso per i clic
 
 **Tendenze**
 

@@ -43,6 +43,7 @@ Google Universal Analytics con i dati RTP offre una migliore comprensione del mo
    1. Selezionare l&#39;account **Account.**
    1. Seleziona la **proprietà.**
    1. Seleziona **Definizioni personalizzate** e **Dimension personalizzati**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Aggiungi una nuova dimensione personalizzata. Fai clic su **+Nuovo Dimension personalizzato**
@@ -103,7 +104,7 @@ Dopo aver attivato i Dimension personalizzati nella GUA, passa alla piattaforma 
 
 1. In **Impostazioni account**, fare clic su **Dominio**.
 1. In **Analytics**, fare clic su **Google Universal Analytics**.
-1. Attiva **1} i Dimension ed eventi personalizzati pertinenti per aggiungere questi dati da RTP a Google Universal Analytics.**
+1. Attiva **1&rbrace; i Dimension ed eventi personalizzati pertinenti per aggiungere questi dati da RTP a Google Universal Analytics.**
 1. Immettere il **numero indice** della dimensione allineata con il numero di indice in GUA.
 1. Fai clic su **Salva**.
 

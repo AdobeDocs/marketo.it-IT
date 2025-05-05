@@ -34,7 +34,7 @@ Utilizza la sezione &quot;Su questa pagina&quot; a destra per passare direttamen
 
 _Se è necessario eseguire la migrazione dell&#39;utente_ - L&#39;indirizzo e-mail deve essere aggiornato in Marketo Engage per essere conforme ai criteri di sicurezza di Adobe e sottoposto a nuova verifica. L’amministratore di Marketo dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
-_Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
+_Se l&#39;utente **non**&#x200B;deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
 
 ### Utente non presente nella directory {#user-not-in-directory}
 
@@ -44,7 +44,7 @@ _Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo E
 
 _Se è necessario eseguire la migrazione dell&#39;utente_ - L&#39;utente deve essere aggiunto ad Active Directory con le autorizzazioni appropriate da un amministratore di sistema. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
-_Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
+_Se l&#39;utente **non**&#x200B;deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
 
 ### Utente inattivo {#inactive-user}
 
@@ -54,7 +54,7 @@ _Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo E
 
 _Se è necessario eseguire la migrazione dell&#39;utente_ - Lo stato dell&#39;utente e le autorizzazioni appropriate devono essere ripristinati da un amministratore di sistema. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
-_Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
+_Se l&#39;utente **non**&#x200B;deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
 
 ### Dominio non valido {#invalid-domain}
 
@@ -66,7 +66,7 @@ _Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione d
 
 _Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione del dominio è abilitata in un&#39;altra organizzazione), un amministratore di sistema dell&#39;organizzazione in cui il dominio è stato richiesto deve aggiungere l&#39;indirizzo e-mail dell&#39;utente all&#39;elenco di eccezioni. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
-_Se l&#39;utente **non**deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
+_Se l&#39;utente **non**&#x200B;deve essere migrato_ - l&#39;amministratore di Marketo Engage salta l&#39;utente nella console di migrazione. Il pulsante &quot;Migrazione completata&quot; viene visualizzato quando tutti gli utenti vengono considerati tramite la migrazione o il salto. Fai clic sul pulsante per terminare il processo di migrazione utente.
 
 ### Creazione utente non riuscita {#user-creation-failed}
 

@@ -147,6 +147,7 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 `3)` Inserire nell&#39;elenco Consentiti Marketo.
 
     * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli indirizzi IP elencati di seguito:
+
     199.15.212.0/22
     
     192.28.144.0/20

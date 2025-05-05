@@ -17,9 +17,9 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
 1. Accedi al tuo account Google Tag Manager.
 
-1. Aggiungi un nuovo Tag > Configurazioni tag > Tag HTML personalizzato**.** Chiamarlo **RTP**.
+1. Aggiungi un nuovo Tag > Configurazioni tag > Tag HTML personalizzato&#x200B;**.** Chiamarlo **RTP**.
 
-1. Accedi al tuo account RTP**.**
+1. Accedi al tuo account RTP&#x200B;**.**
 
 1. Vai a **Impostazioni account**.
 

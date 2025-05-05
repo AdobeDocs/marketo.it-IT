@@ -52,9 +52,9 @@ Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi preditt
    >* L’URL di visualizzazione deve essere il percorso del dominio
    >* Non includere https:// o https://
    >* Usa &#42; per i caratteri jolly
-   * Utilizzare un punto e virgola come separatore
-   * Esempio: /contact_us&#42;; &#42;action=logout&#42;
-   * Questo campo distingue tra maiuscole e minuscole
+   >* Utilizzare un punto e virgola come separatore
+   >* Esempio: /contact_us&#42;; &#42;action=logout&#42;
+   >* Questo campo distingue tra maiuscole e minuscole
 
 ## Considerazioni sulla barra dei consigli {#recommendation-bar-considerations}
 
@@ -65,4 +65,4 @@ Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi preditt
 
 >[!MORELIKETHIS]
 >
-[Abilita contenuto predittivo per contenuti multimediali avanzati Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+>[Abilita contenuto predittivo per contenuti multimediali avanzati Web](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)

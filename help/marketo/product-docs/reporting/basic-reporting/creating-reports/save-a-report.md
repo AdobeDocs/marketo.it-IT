@@ -19,7 +19,7 @@ A volte può essere necessario salvare un rapporto predefinito per visualizzarlo
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selezionare un tipo di report [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selezionare un tipo di report [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 

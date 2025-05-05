@@ -34,7 +34,7 @@ SCHERMATA
 >
 >Vengono elencati solo gli archivi associati alla stessa organizzazione IMS del tuo abbonamento di Marketo Engage.
 
-1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
+1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [&#128279;](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
 
 SCHERMATA
 

@@ -45,11 +45,11 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 
 1. Seleziona la seconda e-mail.
 
-   [](assets/image2014-9-12-15-3a23-3a49.png)
+   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Fai clic su **Aggiungi** per applicare la seconda e-mail. Trascina il cursore per scegliere la percentuale del pubblico che desideri ricevere il test A/B e fai clic su **Avanti**.
 
-   [](assets/image2014-9-12-15-3a24-3a1.png)
+   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

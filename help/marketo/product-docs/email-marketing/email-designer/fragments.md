@@ -18,7 +18,7 @@ Un frammento è un componente riutilizzabile a cui è possibile fare riferimento
 
 >[!NOTE]
 >
->I frammenti sono l&#39;equivalente degli snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} nel vecchio editor di [posta elettronica.
+>I frammenti sono l&#39;equivalente degli snippet[&#128279;](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md){target="_blank"} nel vecchio editor di posta elettronica.
 
 Per utilizzare al meglio i frammenti nei flussi di lavoro:
 
@@ -120,7 +120,7 @@ Lo stato del frammento ne determina la disponibilità per l&#39;utilizzo in un m
 
    La finestra di progettazione visiva si apre con una tela vuota.
 
-1. Utilizzare gli strumenti](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} di [progettazione contenuto per creare il frammento visivo contenuto.
+1. Utilizzare gli strumenti[&#128279;](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} di progettazione contenuto per creare il frammento visivo contenuto.
 
 1. Fate clic in **[!UICONTROL Save]** qualsiasi momento per salvare il frammento bozza.
 
@@ -177,7 +177,7 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
 >[!TAB Bozza]
 
-1. Nella pagina di _[!UICONTROL Fragments]_presentazione, fai clic sul nome del frammento per aprirlo.
+1. Nella pagina di _[!UICONTROL Fragments]_&#x200B;presentazione, fai clic sul nome del frammento per aprirlo.
 
    Viene visualizzata un&#39;anteprima del contenuto visivo, con i dettagli del frammento sulla destra.
 
@@ -288,7 +288,7 @@ Il contenuto del frammento viene aggiornato dinamicamente all&#39;interno della 
 >
 >Se vuoi che il frammento occupi l&#39;intero layout orizzontale all&#39;interno del messaggio e-mail, aggiungi una [!UICONTROL 1:1 column] struttura e quindi trascina e rilascia il frammento al suo interno.
 
-Una volta salvato, il modello e-mail/e-mail viene visualizzato nella pagina dei dettagli del frammento quando viene selezionata la _[!UICONTROL Used By]_scheda. I frammenti aggiunti non sono modificabili all&#39;interno dell&#39;e-mail o del modello: il frammento di origine pubblicato definisce il contenuto.
+Una volta salvato, il modello e-mail/e-mail viene visualizzato nella pagina dei dettagli del frammento quando viene selezionata la _[!UICONTROL Used By]_&#x200B;scheda. I frammenti aggiunti non sono modificabili all&#39;interno dell&#39;e-mail o del modello: il frammento di origine pubblicato definisce il contenuto.
 
 ## Azioni frammento durante la creazione di e-mail e modelli {#fragment-actions-during-email-and-template-authoring}
 

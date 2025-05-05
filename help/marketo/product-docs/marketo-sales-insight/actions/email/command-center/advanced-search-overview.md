@@ -83,13 +83,13 @@ Sono disponibili tre stati e-mail tra cui scegliere. Le opzioni di tipo/attivit√
 
 ![](assets/advanced-search-overview-9.png)
 
-_**Stato: inviato**_
+_&#x200B;**Stato: inviato**&#x200B;_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtri per attivit√† e-mail inviata. Puoi scegliere viste/nessuna visualizzazione, clic/nessun clic e/o risposte/nessuna risposta.
 
-_**Stato: in sospeso**_
+_&#x200B;**Stato: in sospeso**&#x200B;_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra per tutte le e-mail in sospeso.
  </tr>
 </table>
 
-_**Stato: non consegnato**_
+_&#x200B;**Stato: non consegnato**&#x200B;_
 
 ![](assets/advanced-search-overview-12.png)
 

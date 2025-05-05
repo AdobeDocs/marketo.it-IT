@@ -39,7 +39,7 @@ Per eseguire il test A/B delle campagne personalizzate, è possibile selezionare
 
    ![](assets/image2014-11-26-16-3a47-3a18.png)
 
-1. Immettere il nome del gruppo di test di suddivisione ****, quindi fare clic su **Crea**. Selezionare **Auto-Tune**.
+1. Immettere il nome del gruppo di test di suddivisione **&#x200B;**, quindi fare clic su **Crea**. Selezionare **Auto-Tune**.
 
    ![](assets/image2014-11-26-16-3a52-3a24.png)
 
