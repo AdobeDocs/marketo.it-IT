@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 18A {#template-18a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 18A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=it)
 
 ![](assets/image2015-8-17-17-3a57-3a23.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html)
+[Modello 18A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18a.html?lang=it)

@@ -271,7 +271,7 @@ Il Marketo Engage dispone di un JavaScript di tracciamento personalizzato (denom
 
 ## Aspettative di prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto del Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto del Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

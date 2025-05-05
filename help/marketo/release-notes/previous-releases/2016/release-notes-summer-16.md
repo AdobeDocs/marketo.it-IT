@@ -104,7 +104,7 @@ Visualizzare i dati di analisi dei contenuti e consigli offline.
 
 Le API di Asset preesistenti, in precedenza compatibili solo con e-mail e modelli v1.0, ora sono abilitate per le risorse e-mail v2.0.
 
-## [Sito sviluppatori Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Sito sviluppatori Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home) {#marketo-developers-site}
 
 Nuovo e migliorato!
 

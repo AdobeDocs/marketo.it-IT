@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
+   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting).
 
 ## Inviare un messaggio e-mail di esempio basato su un segmento {#send-a-sample-email-based-on-a-segment}
 

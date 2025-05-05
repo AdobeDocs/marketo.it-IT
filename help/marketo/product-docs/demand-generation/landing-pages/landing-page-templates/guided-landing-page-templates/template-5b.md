@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 5B {#template-5b}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 5B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=it)
 
 ![](assets/template-5b.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html)
+[Modello 5B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5b.html?lang=it)

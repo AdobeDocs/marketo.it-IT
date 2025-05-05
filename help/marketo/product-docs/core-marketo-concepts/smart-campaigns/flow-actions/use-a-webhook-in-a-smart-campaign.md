@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Utilizzare un webhook in una campagna avanzata {#use-a-webhook-in-a-smart-campaign}
 
-Per utilizzare un [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, aggiungilo a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} come azione di flusso.
+Per utilizzare un [webhook](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, aggiungilo a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} come azione di flusso.
 
 >[!AVAILABILITY]
 >

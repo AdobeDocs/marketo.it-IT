@@ -19,11 +19,11 @@ La creazione di notifiche push e messaggi in-app non è difficile, ma è necessa
 
 1. L&#39;amministratore di Marketo [invia quindi uno snippet di codice allo sviluppatore](/help/marketo/product-docs/mobile-marketing/admin/send-sdk-code-to-a-developer.md).
 
-1. Lo sviluppatore scarica l&#39;SDK e include snippet e altri metodi per [Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
+1. Lo sviluppatore scarica l&#39;SDK e include snippet e altri metodi per [Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-ios).
 
 1. Per impostazione predefinita, i messaggi in-app vengono attivati all’apertura dell’app. Se desideri attivare messaggi per altri eventi, ad esempio quando viene visualizzata una pagina particolare o viene premuto un pulsante specifico, lo sviluppatore deve aggiungere eventi personalizzati al codice (vedi [Eventi personalizzati per messaggi in-app](#CustomEvents) di seguito).
 
-1. Lo sviluppatore [genera la chiave API server e il numero del progetto per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [la certificazione e la password per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) e la invia all&#39;amministratore Marketo.
+1. Lo sviluppatore [genera la chiave API server e il numero del progetto per Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android) o [la certificazione e la password per iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios) e la invia all&#39;amministratore Marketo.
 
 1. L&#39;amministratore di Marketo configura l&#39;accesso alle notifiche push [con la chiave API del server (Android)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-android-push-access.md) o [con il certificato (iOS)](/help/marketo/product-docs/mobile-marketing/admin/configure-mobile-app-ios-push-access.md).
 

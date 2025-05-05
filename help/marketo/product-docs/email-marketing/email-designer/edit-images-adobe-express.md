@@ -83,7 +83,7 @@ Esistono due modi per accedere all’editor di Adobe Express:
 
 ### Utenti con una licenza Enterprise {#users-with-an-enterprise-license}
 
-Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’editor Express completo. È possibile regolare le impostazioni dell&#39;immagine come colore, luminosità, nitidezza, contrasto, dimensione e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti di un’immagine. Per informazioni su ciascuna impostazione, visita la [Guida utente di Adobe Express](https://helpx.adobe.com/express/user-guide.html){target="_blank"}.
+Se disponi di una licenza Enterprise per Adobe Express, puoi accedere all’editor Express completo. È possibile regolare le impostazioni dell&#39;immagine come colore, luminosità, nitidezza, contrasto, dimensione e altro ancora. L’opzione AI Magic consente di rimuovere gli sfondi, inserire e rimuovere oggetti e cancellare parti di un’immagine. Per informazioni su ciascuna impostazione, visita la [Guida utente di Adobe Express](https://helpx.adobe.com/it/express/user-guide.html){target="_blank"}.
 
 >[!IMPORTANT]
 >

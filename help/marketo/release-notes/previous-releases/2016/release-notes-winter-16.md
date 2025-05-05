@@ -49,13 +49,13 @@ Per utilizzare questa funzione, il programma e-mail deve essere pianificato con 
 
 ## [Miglioramenti al marketing per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Supporto PhoneGap:** Offriamo ora il supporto PhoneGap per la tua app mobile. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/phonegap).
+**Supporto PhoneGap:** Offriamo ora il supporto PhoneGap per la tua app mobile. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/phonegap).
 
 **Supporto per le app sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API programma](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [API programma](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
 
 Crea, aggiorna e clona programmi tramite l’API REST. Ciò non include la creazione o l’aggiornamento di elenchi avanzati e campagne intelligenti all’interno di un programma.
 

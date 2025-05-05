@@ -87,7 +87,7 @@ Il contenuto consigliato tramite gli algoritmi ContentAI ottimizzati di Marketo 
 
 ## Integrazione {#integration}
 
-**[Attiva/Disattiva API Campaign](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Attiva/Disattiva API Campaign](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
 
 Questa nuova API consente di attivare e disattivare in remoto le campagne di attivazione, per creare modelli di programma completamente automatizzati. Crea un modello di programma una volta, quindi automatizza la clonazione, gli aggiornamenti dei materiali di marketing e ora l’attivazione/pianificazione delle campagne intelligenti.
 

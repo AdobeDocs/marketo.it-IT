@@ -24,7 +24,7 @@ Lo snippet JavaScript di Dynamic Chat può essere installato su qualsiasi sito W
 
 **Per quanto tempo vengono memorizzati i dati per i rapporti?**
 
-90 giorni. Per un elenco completo dei limiti/parametri, visita la [pagina di descrizione del prodotto](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} del Marketo Engage.
+90 giorni. Per un elenco completo dei limiti/parametri, visita la [pagina di descrizione del prodotto](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"} del Marketo Engage.
 
 **Il Dynamic Chat supporta altre lingue oltre all&#39;inglese?**
 

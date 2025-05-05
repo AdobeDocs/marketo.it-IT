@@ -103,7 +103,7 @@ La discussione nel pannello Chat non viene registrata. Il pannello Chat libera a
 
 ![](assets/deliver-an-interactive-webinar-9.png)
 
-Ulteriori informazioni su [il pannello chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
+Ulteriori informazioni su [il pannello chat](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"}.
 
 ### Modalità Prepara {#prepare-mode}
 
@@ -126,16 +126,16 @@ Ulteriori informazioni sulla modalità di preparazione [in questo video](https:/
 >[!NOTE]
 >
 >* Qualsiasi modifica apportata ai pod live viene immediatamente riportata ai partecipanti.
->* [Il pannello chat](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} non fa parte della modalità Prepara e qualsiasi modifica apportata verrà immediatamente visualizzata ai partecipanti.
+>* [Il pannello chat](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} non fa parte della modalità Prepara e qualsiasi modifica apportata verrà immediatamente visualizzata ai partecipanti.
 
 ### Accessibilità {#accessibility}
 
 L’Adobe si sforza di includere relatori e partecipanti con disabilità migliorando l’accessibilità dei webinar interattivi. Il software viene continuamente migliorato per soddisfare le esigenze di tutti i tipi di utenti e per rispettare gli standard mondiali che includono le persone con disabilità visive, uditive, di mobilità o di altro tipo.
 
-Scopri come Adobe Connect fornisce assistenza per [esigenze visive, uditive e di mobilità](https://helpx.adobe.com/adobe-connect/using/accessibility-features.html){target="_blank"}.
+Scopri come Adobe Connect fornisce assistenza per [esigenze visive, uditive e di mobilità](https://helpx.adobe.com/it/adobe-connect/using/accessibility-features.html){target="_blank"}.
 
 ### Sottotitoli {#closed-captions}
 
 I sottotitoli codificati sono una rappresentazione testuale dell’audio all’interno di una room di Adobe Connect e consentono ai partecipanti non udenti o ipoudenti di partecipare agli eventi. È possibile integrare sottotitoli in tempo reale di contenuti audio negli eventi e presentarli nella visualizzazione sottotitoli.
 
-Scopri come [abilitare i sottotitoli](https://helpx.adobe.com/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.
+Scopri come [abilitare i sottotitoli](https://helpx.adobe.com/it/adobe-connect/using/closed-captioning-html-client.html){target="_blank"}.

@@ -23,7 +23,7 @@ I webhook consentono di interagire con i servizi di terze parti. Invia/ricevi in
 
 >[!NOTE]
 >
->Scopri tutte le cose affascinanti che [Webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} possono fare per te.
+>Scopri tutte le cose affascinanti che [Webhook](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"} possono fare per te.
 
 1. Seleziona un webhook dal menu a discesa.
 

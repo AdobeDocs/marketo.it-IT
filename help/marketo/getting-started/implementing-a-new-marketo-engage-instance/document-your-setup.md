@@ -26,8 +26,8 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
 <tbody>
   <tr>
     <td>Importazione elenco</td>
-    <td><li>Raccogliere un elenco di origini dati da cui verranno estratti i record per <a href="https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importare nel Marketo Engage</a>.</li>
-    <li>Se si esegue l'importazione da più origini dati, è consigliabile utilizzare Elenchi master o <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">creare un campo personalizzato</a> nel record persona per indicare l'origine dati.</li></td>
+    <td><li>Raccogliere un elenco di origini dati da cui verranno estratti i record per <a href="https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people" target="_blank">importare nel Marketo Engage</a>.</li>
+    <li>Se si esegue l'importazione da più origini dati, è consigliabile utilizzare Elenchi master o <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/field-management/create-a-custom-field-in-marketo" target="_blank">creare un campo personalizzato</a> nel record persona per indicare l'origine dati.</li></td>
   </tr>
   <tr>
     <td>Integrazione del database</td>
@@ -48,7 +48,7 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
 <tbody>
   <tr>
     <td>Utenti</td>
-    <td><li>Documenta gli <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nella tua istanza per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Amministratore &gt; Utenti e ruoli):</li>
+    <td><li>Documenta gli <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nella tua istanza per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Amministratore &gt; Utenti e ruoli):</li>
     <ul>
     <li>Nome</li>
     <li>E-mail</li>
@@ -63,11 +63,11 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
   </tr>
   <tr>
     <td>Organizzazione</td>
-    <td><li>Documenta la struttura delle cartelle concordata, le convenzioni di denominazione standard per programmi, risorse e così via, e il motivo delle decisioni adottate. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Ulteriori informazioni sulle best practice disponibili qui.</a></li></td>
+    <td><li>Documenta la struttura delle cartelle concordata, le convenzioni di denominazione standard per programmi, risorse e così via, e il motivo delle decisioni adottate. <a href="https://experienceleague.adobe.com/it/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance" target="_blank">Ulteriori informazioni sulle best practice disponibili qui.</a></li></td>
   </tr>
   <tr>
     <td>Changelog</td>
-    <td><li>Crea un registro delle modifiche in cui puoi documentare le modifiche apportate all’istanza e il motivo per cui sono state apportate. <a href="https://experienceleague.adobe.com/en/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Ulteriori informazioni sulle best practice disponibili qui.</a></li></td>
+    <td><li>Crea un registro delle modifiche in cui puoi documentare le modifiche apportate all’istanza e il motivo per cui sono state apportate. <a href="https://experienceleague.adobe.com/it/docs/marketo-learn/auditing-an-inherited-instance/develop-an-instance-governance-guide" target="_blank">Ulteriori informazioni sulle best practice disponibili qui.</a></li></td>
   </tr>
   <tr>
     <td>Playbook</td>

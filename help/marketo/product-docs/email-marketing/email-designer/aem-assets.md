@@ -15,7 +15,7 @@ Connetti il tuo account _Adobe Experience Manager Assets as a Cloud Service_ all
 
 >[!NOTE]
 >
->Al momento, solo le risorse immagine di _Adobe Experience Manager Assets_ sono supportate nel Marketo Engage. Le modifiche alle risorse devono essere effettuate dall’archivio centrale di Adobe Experience Manager Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Al momento, solo le risorse immagine di _Adobe Experience Manager Assets_ sono supportate nel Marketo Engage. Le modifiche alle risorse devono essere effettuate dall’archivio centrale di Adobe Experience Manager Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Accedi all’Assistente IA per l’accelerazione di contenuti. {#access-the-ai-assistant-content-accelerator}
 
@@ -79,7 +79,7 @@ Se l’ambiente dispone di una o più connessioni all’archivio delle risorse, 
 
 >[!IMPORTANT]
 >
->Un amministratore deve aggiungere gli utenti che hanno bisogno di accedere alle risorse ai profili di prodotto Utenti consumer di Assets e/o Utenti di Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Un amministratore deve aggiungere gli utenti che hanno bisogno di accedere alle risorse ai profili di prodotto Utenti consumer di Assets e/o Utenti di Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Nell&#39;editor di contenuti visivi, fai clic sull&#39;icona _Selettore risorse di Experience Manager_ nella barra laterale a sinistra. In questo modo il pannello strumenti diventa un elenco delle risorse disponibili nell’archivio selezionato.
 

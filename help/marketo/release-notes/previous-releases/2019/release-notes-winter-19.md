@@ -105,7 +105,7 @@ Per gestire in modo più efficiente domini e sottodomini, gli utenti possono ora
 
 Abbiamo aggiornato l’SDK per Android a un framework più moderno, stabile e scalabile che contiene maggiore flessibilità e nuove funzioni di progettazione. Gli sviluppatori di app Android ora possono utilizzare direttamente [Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) (FCM) di Google con questo nuovo SDK.
 
-* [Istruzioni per gli sviluppatori]https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
+* [Istruzioni per gli sviluppatori]https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android)
 
 >[!NOTE]
 >

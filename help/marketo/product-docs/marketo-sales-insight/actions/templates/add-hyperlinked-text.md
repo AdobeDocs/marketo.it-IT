@@ -26,7 +26,7 @@ Segui i passaggi seguenti per scoprire come aggiungere collegamenti ipertestuali
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Immettere l&#39;URL al quale si desidera collegarlo (ovvero `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Scegli se vuoi che l&#39;URL si apra nella stessa finestra o in una nuova e fai clic su **Salva**.
+1. Immettere l&#39;URL al quale si desidera collegarlo (ovvero `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it`). Scegli se vuoi che l&#39;URL si apra nella stessa finestra o in una nuova e fai clic su **Salva**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

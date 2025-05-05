@@ -65,7 +65,7 @@ Tre nuove chiamate per l’API ReST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
 
 ## Miglioramenti alla compatibilità di Munchkin con JavaScript {#munchkin-javascript-compatibility-enhancements}
 

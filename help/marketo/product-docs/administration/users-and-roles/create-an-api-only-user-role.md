@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Creare un ruolo utente solo API {#create-an-api-only-user-role}
 
-Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api), è consigliabile [assegnare a un utente il ruolo Solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e quindi [creare un servizio personalizzato da utilizzare con REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
+Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api), è consigliabile [assegnare a un utente il ruolo Solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e quindi [creare un servizio personalizzato da utilizzare con REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
 
 >[!NOTE]
 >

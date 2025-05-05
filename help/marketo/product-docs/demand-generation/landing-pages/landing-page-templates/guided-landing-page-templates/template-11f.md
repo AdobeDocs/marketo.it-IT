@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 11F {#template-11f}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 11F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=it)
 
 ![](assets/image2015-8-4-13-3a57-3a13.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html)
+[Modello 11F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11f.html?lang=it)

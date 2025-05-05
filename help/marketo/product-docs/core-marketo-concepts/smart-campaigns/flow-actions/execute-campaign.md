@@ -60,7 +60,7 @@ Se è impostato su true, i seguenti contesti di token vengono inviati nella camp
 
 **Interazione API**
 
-Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
+Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 

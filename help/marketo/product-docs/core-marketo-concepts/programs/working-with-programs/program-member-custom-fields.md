@@ -68,7 +68,7 @@ Puoi sfruttare questi dati specifici del programma negli elenchi avanzati tramit
 * L&#39;oggetto Membro del programma può contenere fino a 20 campi personalizzati. Questi campi sono disponibili per qualsiasi programma.
 * Quando si rimuove un membro di un programma, se nel campo personalizzato Membro del programma sono presenti dati, questi verranno eliminati da tale campo.
 * Per visualizzare i dati, fare clic sulla scheda Membri nel programma e creare una visualizzazione personalizzata che includa tali campi.
-* Sono supportate l&#39;importazione e l&#39;esportazione tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home){target="_blank"}. Le esportazioni funzionano solo sugli elenchi dei membri del programma, non sugli elenchi statici.
+* Sono supportate l&#39;importazione e l&#39;esportazione tramite [list](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"} e [API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home){target="_blank"}. Le esportazioni funzionano solo sugli elenchi dei membri del programma, non sugli elenchi statici.
 * Quando si uniscono due persone, verranno utilizzati i dati del campo personalizzato Membro del programma del vincitore. Ma se il vincitore non ha, verrà utilizzato il valore del perdente.
 * Tipo di modifica non consentito nei campi Informazioni membro programma.
 * Il vincolo &quot;contiene&quot; non è supportato per i campi personalizzati dei membri del programma.

@@ -100,7 +100,7 @@ Questa funzione consente di inviare al Marketo Engage i segmenti presenti nel Ad
 
    >[!NOTE]
    >
-   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui l&#39;organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
+   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui l&#39;organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
 
 1. Mappare il cognome e il nome della società facendo nuovamente clic su **[!UICONTROL Aggiungi nuova mappatura]** e ripetendo due volte il passaggio 15, scegliendo **[!UICONTROL cognome]** e quindi **[!UICONTROL nomeSocietà]**.
 

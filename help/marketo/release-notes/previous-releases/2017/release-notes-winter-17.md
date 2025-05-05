@@ -81,7 +81,7 @@ Filtra l’analisi predittiva dei contenuti per origini specifiche: e-mail, cont
 
 L’URL dell’immagine e i metadati vengono ora utilizzati nel processo di rilevamento automatico dei contenuti.
 
-## [Miglioramenti SDK](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
+## [Miglioramenti SDK](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/mobile) {#sdk-enhancements}
 
 Gli sviluppatori ora hanno un controllo aggiuntivo sulla distribuzione delle notifiche push con l’aggiunta di una nuova chiamata API SDK che consente agli sviluppatori di rimuovere i token push.
 

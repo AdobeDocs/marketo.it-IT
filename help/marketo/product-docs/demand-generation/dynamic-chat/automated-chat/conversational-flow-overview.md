@@ -82,7 +82,7 @@ Nella metà inferiore della scheda Impostazioni, personalizza il trigger Convers
 
 >[!TIP]
 >
->Vedi [SDK conversazioni](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione!
+>Vedi [SDK conversazioni](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=it){target="_blank"} in azione!
 
 >[!MORELIKETHIS]
 >

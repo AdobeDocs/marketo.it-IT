@@ -22,7 +22,7 @@ Devi acquisire familiarità con i blocchi predefiniti e la sequenza consigliata 
 
 >[!NOTE]
 >
->Per ulteriori informazioni sulle API di Marketo, consulta la [documentazione delle API di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+>Per ulteriori informazioni sulle API di Marketo, consulta la [documentazione delle API di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Prerequisiti {#prerequisites}
 

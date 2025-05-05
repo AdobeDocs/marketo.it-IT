@@ -28,7 +28,7 @@ Puoi inviare singole richieste di accesso ed eliminazione dei dati dei consumato
 * Tramite l&#39;[interfaccia utente Privacy Service](https://privacyui.cloud.adobe.io/). Consulta la documentazione [qui](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=it){target="_blank"}.
 * Tramite l’API Privacy Service. Consulta la documentazione [qui](https://developer.adobe.com/experience-platform-apis/references/privacy-service/){target="_blank"} e le informazioni API [qui](https://developer.adobe.com/experience-platform-apis/){target="_blank"}.
 
-[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html){target="_blank"} supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
+[Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=it){target="_blank"} supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
 
 Vediamo come creare richieste di accesso ed eliminazione.
 
