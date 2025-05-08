@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 0e73866a4187d7bff67ce199e8d01e55081bcbef
+source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 
 E-mail designer è l’innovazione più recente di Marketo Engage che offre un’esperienza rinnovata di creazione di modelli e-mail e e-mail per migliorare produttività ed efficienza mediante un editor drag-and-drop visivo e modelli predefiniti standard. Crea facilmente modelli e-mail personalizzati senza dover spendere denaro per i fornitori.
 
+>[!NOTE]
+>
+>Mentre E-mail Designer è accessibile in tutti i principali browser, al momento non è supportata la funzionalità completa in Firefox.
+
 ## Come accedere {#how-to-access}
 
 +++Scopri come accedere a e-mail designer
 
-Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Aggiungi utenti {#add-users}
 
@@ -101,4 +105,8 @@ Attualmente, il nuovo designer supporta solo gli attributi, ma stiamo lavorando 
 
 **Come posso sapere se la nostra sottoscrizione a Marketo Engage è stata migrata a IMS (Adobe Admin Console)?**
 
-Se accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, la sottoscrizione è stata migrata.
+Se accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}, la tua sottoscrizione è stata migrata.
+
+**Quali browser è possibile utilizzare con il nuovo Designer di posta elettronica?**
+
+Si consiglia di utilizzare Google Chrome, Apple Safari o Microsoft Edge. Il supporto completo per Mozilla Firefox sarà disponibile in un secondo momento.
