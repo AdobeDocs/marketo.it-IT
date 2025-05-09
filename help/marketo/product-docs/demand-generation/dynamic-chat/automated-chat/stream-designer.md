@@ -3,10 +3,10 @@ description: Streaming Designer - Documentazione Marketo - Documentazione del pr
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: d73ff37236abbd0d97631ad66b8eb34473650554
+source-git-commit: 11006e3244fd7a145a955dd08b669a897dae826b
 workflow-type: tm+mt
-source-wordcount: '1225'
-ht-degree: 2%
+source-wordcount: '1175'
+ht-degree: 1%
 
 ---
 
@@ -141,15 +141,15 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-10.png)
 
-1. Nella colonna di destra fare clic su **[!UICONTROL Save]**.
+1. Scegliere l&#39;opzione di routing e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Poiché è un obiettivo, trascinare la scheda [!UICONTROL Goal] sotto l&#39;Utilità di pianificazione appuntamenti.
+1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_sotto la prenotazione della riunione.
 
    ![](assets/stream-designer-12.png)
 
-1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Save]**.
+1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Save]**. L’assegnazione di un punteggio di conversazione è facoltativa.
 
    ![](assets/stream-designer-13.png)
 
@@ -165,38 +165,19 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
    >
    >È possibile aggiungere altre risposte facendo clic su **[!UICONTROL Add Response]**.
 
-1. Sotto la risposta &quot;Sì&quot;, trascina sulla scheda Info Capture per raccogliere l’e-mail del visitatore.
+1. Sotto la risposta &quot;Sì&quot;, trascina sulla scheda _Info Capture_ per raccogliere l&#39;e-mail del visitatore.
 
    ![](assets/stream-designer-16.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Type]** e selezionare **[!UICONTROL Email]**.
+1. Fare clic sull&#39;elenco a discesa e selezionare **[!UICONTROL Email Address]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Inserisci un messaggio chatbot e un segnaposto. Verificare che l&#39;attributo sia mappato al campo appropriato in Marketo Engage e fare clic su **[!UICONTROL Save]**.
+1. Inserisci un messaggio chatbot e un segnaposto. Se nel database è già presente un valore per questo attributo, scegliere se si desidera ignorarlo o se si desidera che i dati vengano sovrascritti. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
-   <table>
-    <tr>
-     <td style="width:30%"><strong>Tipo</strong></td>
-     <td>Tipo di informazioni da acquisire: telefono, testo, e-mail.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Messaggio del chatbot</strong></td>
-     <td>Il messaggio visualizzato dal visitatore che gli chiede di fornire le informazioni.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Placeholder</strong></td>
-     <td>Testo di esempio che aiuta il visitatore a vedere cosa inserire.</td>
-    </tr>
-    <tr>
-     <td style="width:30%"><strong>Mappa risposta su attributo</strong></td>
-     <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento Marketo Engage.</td>
-    </tr>
-   </table>
-
-1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda [!UICONTROL Goal] sotto Info Capture.
+1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_sotto Info Capture.
 
    ![](assets/stream-designer-19.png)
 
@@ -212,13 +193,9 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-22.png)
 
-1. Seleziona l&#39;interruttore **[!UICONTROL Preview]** per visualizzare l&#39;anteprima della finestra di dialogo.
-
-   ![](assets/stream-designer-23.png)
-
 1. Quando sei pronto ad attivare la tua finestra di dialogo, fai clic su **[!UICONTROL Publish]**.
 
-   ![](assets/stream-designer-24.png)
+   ![](assets/stream-designer-23.png)
 
 >[!NOTE]
 >
