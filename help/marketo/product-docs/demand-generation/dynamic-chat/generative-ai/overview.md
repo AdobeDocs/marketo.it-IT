@@ -1,16 +1,16 @@
 ---
 description: Panoramica generativa sull’intelligenza artificiale - Documenti Marketo - Documentazione del prodotto
-title: Panoramica di IA generativa
+title: IA generativa in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 338f7ab16b3eea1a5d9777ca5283a1b1629376e6
+source-git-commit: a027acc6da55fb9316f4e34c0445b17dba9f60f1
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '449'
 ht-degree: 2%
 
 ---
 
-# Panoramica di IA generativa {#generative-ai-overview}
+# IA generativa in Dynamic Chat {#generative-ai-overview}
 
 Le funzionalità generative basate sull’intelligenza artificiale di Adobe Dynamic Chat consentono di ottimizzare la produttività per gli agenti di vendita, ottenere informazioni sulle intenzioni dei visitatori del sito web e rispondere alle domande dei visitatori in modo sicuro.
 
@@ -28,7 +28,7 @@ Crea un messaggio per il visitatore per quando raggiunge un determinato punto de
 
 ## Riepilogo conversazione {#conversation-summary}
 
-In genere, per ottenere il contesto completo di una conversazione con un visitatore, devi scorrere l’intera trascrizione della chat. Il riepilogo delle conversazioni genera un riepilogo in tempo reale e include anche gli argomenti in cui il visitatore ha espresso interesse. Ciò è particolarmente utile per gli agenti di chat che necessitano di un contesto rapido di una conversazione quando passano da una chat a più visitatori. Oltre a essere visibili nella schermata di chat della casella in entrata dell’agente, i riepiloghi delle conversazioni completati si trovano anche nel registro delle attività del record persona del visitatore nel database del Marketo Engage.
+In genere, per ottenere il contesto completo di una conversazione con un visitatore, devi scorrere l’intera trascrizione della chat. Il riepilogo delle conversazioni genera un riepilogo in tempo reale e include anche gli argomenti in cui il visitatore ha espresso interesse. Ciò è particolarmente utile per gli agenti di chat che necessitano di un contesto rapido di una conversazione quando passano da una chat a più visitatori. Oltre a essere visibili nella schermata di chat della casella in entrata dell’agente, i riepiloghi delle conversazioni completati si trovano anche nel registro delle attività del record persona del visitatore nel tuo database di Marketo Engage.
 
 ![](assets/generative-ai-overview-3.png)
 
@@ -74,13 +74,13 @@ Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di ele
 
 ## Domande frequenti {#faq}
 
-**L&#39;intelligenza artificiale generativa è disponibile per tutti gli utenti del Dynamic Chat?**
+**L&#39;intelligenza artificiale generativa è disponibile per tutti gli utenti di Dynamic Chat?**
 
-L’intelligenza artificiale generativa è disponibile solo per gli abbonati Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+L’intelligenza artificiale generativa è disponibile solo per gli abbonati a Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 **Esiste un limite al numero di domande e risposte che è possibile generare?**
 
-Sì. Al momento, il limite di durata è di 1000.
+Sì.  Al momento, il limite di durata è di 1000.
 
 **Quali lingue sono disponibili nell&#39;IA generativa?**
 
