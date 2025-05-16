@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 38ec4726dece1695a15104fdb7fa7592b298d4a9
+source-git-commit: 7ec3687c0c16738805394377b2080295c2f18032
 workflow-type: tm+mt
-source-wordcount: '9265'
+source-wordcount: '9261'
 ht-degree: 1%
 
 ---
@@ -964,7 +964,6 @@ ht-degree: 1%
             + [Aggiungere uno snippet a una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md)
             + [Aggiungi altri CNAME per pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-additional-landing-page-cnames.md)
             + [Aggiungere SSL alle pagine di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-to-your-landing-pages.md)
-            + [Aggiungi DOCUMENTO TEMPORANEO SSL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-ssl-temp-doc.md)
             + [Aggiungere testo e token a una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-text-and-tokens-to-a-landing-page.md)
             + [Abilitare URL personalizzati per una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
             + [Abilitare gli URL personalizzati per il tuo account](product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
@@ -980,7 +979,7 @@ ht-degree: 1%
             + [Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico LinkedIn](product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
             + [Utilizzare i filtri e i trigger di modulo LinkedIn Lead Gen in una campagna avanzata](product-docs/demand-generation/social/social-functions/use-linkedin-lead-gen-form-filters-and-triggers-in-a-smart-campaign.md)
    + E-mail marketing {#email-marketing}
-      + Strategia e definizione {#deliverability}
+      + Recapitabilità {#deliverability}
          + [Annulla iscrizione durevole](product-docs/email-marketing/deliverability/durable-unsubscribe.md)
          + [Email Deliverability Power Pack: come importare un elenco di seed](product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.md)
          + [Mancati recapiti permanenti e non permanenti nelle e-mail](product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.md)
