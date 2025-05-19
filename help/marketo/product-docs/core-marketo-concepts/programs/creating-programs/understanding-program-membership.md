@@ -4,18 +4,14 @@ description: Iscrizione al programma - Documentazione Marketo - Documentazione d
 title: Informazioni sull’iscrizione al programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: eb6d834c1f430beebf0666d7694203a268be93f2
+source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
 
 # Informazioni sull’iscrizione al programma {#understanding-program-membership}
-
->[!NOTE]
->
->Marketo ora sta standardizzando il linguaggio in tutti gli abbonamenti, quindi potresti vedere lead/lead nel tuo abbonamento e persone/persone nei nostri documenti. Questi termini significano la stessa cosa; non influisce sulle istruzioni dell&#39;articolo. Ci sono anche altri cambiamenti. [Ulteriori informazioni](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -25,16 +21,16 @@ ht-degree: 0%
 
 1. Una persona compila un modulo [in una pagina di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} nel programma.
 
-   1. La persona avrà automaticamente il primo stato nella progressione.
+   * La persona avrà automaticamente il primo stato nella progressione.
 
 1. [importa membri nel programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/import-members-from-a-spreadsheet-into-a-program.md){target="_blank"} da un file CSV.
 
-   1. La persona avrà automaticamente il primo stato nella progressione.
+   * La persona avrà automaticamente il primo stato nella progressione.
 
 1. Utilizza il passaggio di flusso [cambia stato del programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.md){target="_blank"}.
 1. Una persona si registra o partecipa a un [webinar sincronizzato con un programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/event-partners.md){target="_blank"}.
 1. Creazione di una persona [tramite l&#39;applicazione di archiviazione Marketo iPad](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/event-check-in/check-people-into-your-event-from-your-tablet.md){target="_blank"}.
-1. Persona aggiunta a una campagna SFDC [sincronizzata con il programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
+1. Una persona viene aggiunta a una campagna SFDC, che è [sincronizzata con il programma](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}.
 
 >[!NOTE]
 >
