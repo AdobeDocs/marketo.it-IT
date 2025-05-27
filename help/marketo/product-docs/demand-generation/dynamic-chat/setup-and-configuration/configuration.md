@@ -3,9 +3,9 @@ description: Configurazione - Documentazione di Marketo - Documentazione del pro
 title: Configurazione
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 4dccf70f42153045f630bf646a6a193e27dbf637
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Scopri come personalizzare l’aspetto della finestra di dialogo del chatbot.
 
-Per iniziare, fai clic su **Impostazioni chatbot** in **Configurazione**.
+Per iniziare, fai clic su **Chatbot** in **Configurazione**.
 
 ![](assets/configuration-1.png)
 
@@ -28,7 +28,7 @@ Sono disponibili diverse opzioni di personalizzazione.
 
 Qui puoi definire l’aspetto del chatbot in cui verranno visualizzate le finestre di dialogo, inclusi: colori, font, posizionamento del widget bot e nome/avatar del chatbot.
 
-Il colore di ogni categoria è determinato da un valore di colore [esadecimale](https://color.adobe.com/create/color-wheel){target="_blank"} (ad esempio, bianco = #ffffff, rosso = #bf1932, ecc.).
+Il colore di ogni categoria è determinato da un valore [esadecimale del colore](https://color.adobe.com/create/color-wheel){target="_blank"} (ad esempio, bianco = #ffffff, rosso = #bf1932, ecc.).
 
 ![](assets/configuration-3.png)
 
@@ -46,21 +46,35 @@ In Impostazioni bot, puoi aggiungere alla chatbox un’etichetta (ad esempio, &q
 >
 >Gli avatar personalizzati devono essere immagini quadrate inferiori a 256 kb e inferiori a 200x200 px. I tipi di file supportati sono: .jpg, .png, .gif, .webp, .svg.
 
-Dopo aver apportato le modifiche, ricorda di fare clic su **Salva**.
+**Suono notifica nuovo messaggio**
+
+Fai clic sul menu a discesa per selezionare un suono per il visitatore ogni volta che il chatbot viene attivato in una sessione. È possibile scegliere tra più suoni.
+
+**Abilita messaggi poke su dispositivi mobili**
+
+Seleziona il cursore per abilitare &quot;Poke&quot; (Poke), che mostra la domanda di apertura accanto all’icona della chat senza che il visitatore debba fare clic su di essa per visualizzarla, per i visitatori che chattano da un dispositivo mobile.
 
 ![](assets/configuration-6.png)
+
+>[!NOTE]
+>
+>Poke è disponibile solo nella prima [scheda](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"} della conversazione.
+
+Dopo aver apportato le modifiche, ricorda di fare clic su **Salva**.
+
+![](assets/configuration-7.png)
 
 ## Scheda Privacy {#privacy-tab}
 
 Fai clic sulla scheda **Privacy** per aggiungere/modificare l&#39;URL dell&#39;informativa sulla privacy del tuo sito (facoltativo).
 
-![](assets/configuration-7.png)
+![](assets/configuration-8.png)
 
 ## Scheda Installazione {#installation-tab}
 
-Affinché il chatbot venga visualizzato sul sito web, devi innanzitutto installare lo snippet JavaScript di Dynamic Chat. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il tuo team Web o il reparto IT per assistenza.
+Per far sì che il chatbot venga visualizzato sul sito web, devi innanzitutto installare lo snippet Dynamic Chat JavaScript. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il tuo team Web o il reparto IT per assistenza.
 
-![](assets/configuration-8.png)
+![](assets/configuration-9.png)
 
 >[!TIP]
 >
@@ -68,4 +82,4 @@ Affinché il chatbot venga visualizzato sul sito web, devi innanzitutto installa
 
 >[!NOTE]
 >
->Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di HTML. Per assistenza HTML, consulta uno sviluppatore web.
+>Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di HTML. Per assistenza su HTML, consulta uno sviluppatore web.

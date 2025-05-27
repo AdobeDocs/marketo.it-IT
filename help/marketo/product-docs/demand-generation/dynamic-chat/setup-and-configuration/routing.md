@@ -3,9 +3,9 @@ description: Indirizzamento - Documentazione Marketo - Documentazione del prodot
 title: Indirizzamento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA
 
    ![](assets/routing-1.png)
 
-1. Fare clic sulla scheda **Regole personalizzate**.
+1. Per impostazione predefinita, viene aperta la scheda **Regole personalizzate**.
 
    ![](assets/routing-2.png)
 

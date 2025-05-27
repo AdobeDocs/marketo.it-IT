@@ -3,16 +3,16 @@ description: Gestione degli agenti - Documentazione di Marketo - Documentazione 
 title: Gestione agente
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 5aaf7081bbe96ff49753a7e142b0f3b38a70ea10
+source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 1%
 
 ---
 
 # Gestione agente {#agent-management}
 
-In Gestione agenti, visualizza un elenco di agenti nell’istanza di Dynamic Chat, gestisci i team e imposta le regole di fallback.
+In Gestione agenti, visualizza un elenco di agenti nell’istanza Dynamic Chat, gestisci i team e imposta le regole di fallback.
 
 ![](assets/agent-management-1.png)
 
@@ -20,11 +20,11 @@ In Gestione agenti, visualizza un elenco di agenti nell’istanza di Dynamic Cha
 
 Questa scheda elenca tutti gli agenti nell’istanza di Dynamic Chat e include informazioni quali nome, indirizzo e-mail, stato della chat in tempo reale e altro ancora.
 
-![](assets/agent-management-2.png)
+![](assets/agent-management-2.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
->Non trovi un agente _appena_ aggiunto? Potrebbero essere necessarie fino a due ore per visualizzarle qui dopo averle aggiunte nell’Admin Console di Adobe.
+>Non trovi un agente _appena_ aggiunto? Potrebbero essere necessarie fino a due ore prima che vengano visualizzate qui dopo essere state aggiunte nell’Admin Console di Adobe.
 
 ## Team {#teams}
 
@@ -32,7 +32,7 @@ Gli amministratori possono creare team di agenti per facilitare l’inoltro a gr
 
 >[!AVAILABILITY]
 >
->L’accesso ai team richiede un abbonamento Prime Dynamic Chat. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>L’accesso a Teams richiede un abbonamento a Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 ![](assets/agent-management-3.png)
 
@@ -70,7 +70,9 @@ Seleziona un messaggio standard (di sistema) o scrivine uno personalizzato che i
 
 >[!NOTE]
 >
->Se si seleziona la casella di controllo **Includi opzione prenotazione riunioni**, il visitatore della chat potrà prenotare una riunione quando non sono disponibili agenti per la chat in diretta.
+>* Se si seleziona la casella di controllo _Includi opzione prenotazione riunioni_, il visitatore della chat potrà prenotare una riunione quando non sono disponibili agenti per la chat in diretta.
+>
+>* **Per qualsiasi regola/team personalizzato come scheda di chat in diretta**: durante la verifica degli agenti, se non sono disponibili o non sono in grado di connettersi, verrà eseguito il fallback su Round Robin per cercare &quot;Agenti disponibili&quot; (tutti gli agenti disponibili in quel momento, indipendentemente dalla logica/regola di routing inserita nel flusso).
 
 >[!TIP]
 >
