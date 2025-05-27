@@ -4,16 +4,20 @@ description: Classificazione e ottimizzazione della profilatura dell’account -
 title: Classificazione e tuning profilo account
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '381'
-ht-degree: 0%
+source-wordcount: '401'
+ht-degree: 1%
 
 ---
 
 # Classificazione e tuning profilo account {#account-profiling-ranking-and-tuning}
 
 La profilazione account identifica il profilo cliente ideale (ICP), classifica le aziende nel database in base all&#39;ICP e aggiunge i dati dell&#39;indicatore ICP agli account promossi come Account denominati.
+
+>[!IMPORTANT]
+>
+>A partire dal 2025, la profilazione degli account non è più disponibile per i nuovi utenti. Continuerà a funzionare per gli utenti esistenti.
 
 ## Risultati modello {#model-results}
 
@@ -134,7 +138,7 @@ Sono disponibili diverse schede tra cui scegliere, che consentono una personaliz
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Aziende</strong></td> 
+   <td><strong>Business</strong></td> 
    <td> 
     <div>
       Inserzioni o partnership commerciali con Forbes o Inc. 

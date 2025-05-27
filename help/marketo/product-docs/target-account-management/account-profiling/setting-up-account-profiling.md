@@ -4,9 +4,9 @@ description: Configurazione della profilatura dell’account - Documentazione di
 title: Impostazione della profilazione dell’account
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '169'
 ht-degree: 2%
 
 ---
@@ -14,6 +14,10 @@ ht-degree: 2%
 # Impostazione della profilazione dell’account {#setting-up-account-profiling}
 
 Per iniziare a utilizzare la profilazione account, segui la procedura riportata di seguito.
+
+>[!IMPORTANT]
+>
+>A partire dal 2025, la profilazione degli account non è più disponibile per i nuovi utenti. Continuerà a funzionare per gli utenti esistenti.
 
 >[!CAUTION]
 >

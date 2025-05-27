@@ -4,16 +4,20 @@ description: Individuazione nuovo account - Documentazione Marketo - Documentazi
 title: Individuazione nuovo account
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 0%
+source-wordcount: '301'
+ht-degree: 1%
 
 ---
 
 # Individuazione nuovo account {#new-account-discovery}
 
 L’individuazione di nuovi account può aiutarti a trovare nuovi account di destinazione utilizzando i consigli basati sull’intelligenza artificiale del tuo profilo cliente ideale.
+
+>[!IMPORTANT]
+>
+>A partire dal 2025, la profilazione degli account non è più disponibile per i nuovi utenti. Continuerà a funzionare per gli utenti esistenti.
 
 >[!PREREQUISITES]
 >
@@ -67,7 +71,7 @@ L’individuazione di nuovi account può aiutarti a trovare nuovi account di des
    >
    >È possibile salvare solo fino a 5.000 account alla volta. Se la ricerca restituisce 10.000 risultati, dovrai salvare le prime 5.000 (in alto), quindi reimpostare i filtri e salvare le successive 5.000. Il limite di account **total** è di un milione.
 
-1. Fare clic su **OK**.
+1. Fai clic su **OK**.
 
    ![](assets/eight.png)
 
