@@ -23,7 +23,7 @@ Il Designer e-mail ha un formato diverso rispetto all’editor e-mail classico p
 
 ## Caso d’uso principale {#primary-use-case}
 
-Questo miglioramento è utile principalmente per coloro che passano dallo script [Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} allo script Handlebar. Il nuovo Email Designer supporta solo il nuovo formato di token. Il formato aggiornato elimina gli spazi e introduce una struttura di testo predefinita rivista, garantendo un’esperienza di scripting più fluida ed efficiente.
+Questo miglioramento è utile principalmente per coloro che passano dallo script [Velocity](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting){target="_blank"} allo script Handlebar. Il nuovo Email Designer supporta solo il nuovo formato di token. Il formato aggiornato elimina gli spazi e introduce una struttura di testo predefinita rivista, garantendo un’esperienza di scripting più fluida ed efficiente.
 
 ## Esperienza token {#token-experience}
 
