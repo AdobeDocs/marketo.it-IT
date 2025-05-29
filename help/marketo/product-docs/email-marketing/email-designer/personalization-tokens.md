@@ -4,18 +4,17 @@ product: marketo
 title: Token Personalization
 description: Scopri come utilizzare i token di personalizzazione nel nuovo Designer e-mail di Marketo Engage
 level: Beginner, Intermediate
-hide: true
-hidefromtoc: true
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
+source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
 
 # Token Personalization {#personalization-tokens}
 
-Il Designer e-mail ha un formato diverso rispetto all’editor e-mail classico per quanto riguarda i token di personalizzazione e-mail. La modifica è stata implementata per migliorare la compatibilità con gli script Handlebar e semplificare il processo di creazione delle e-mail.
+E-mail designer ha un formato diverso rispetto all’editor e-mail classico quando si tratta di token di personalizzazione e-mail. La modifica è stata implementata per migliorare la compatibilità con gli script Handlebar e semplificare il processo di creazione delle e-mail.
 
 >[!AVAILABILITY]
 >
@@ -23,7 +22,7 @@ Il Designer e-mail ha un formato diverso rispetto all’editor e-mail classico p
 
 ## Caso d’uso principale {#primary-use-case}
 
-Questo miglioramento è utile principalmente per coloro che passano dallo script [Velocity](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting){target="_blank"} allo script Handlebar. Il nuovo Email Designer supporta solo il nuovo formato di token. Il formato aggiornato elimina gli spazi e introduce una struttura di testo predefinita rivista, garantendo un’esperienza di scripting più fluida ed efficiente.
+Questo miglioramento è utile principalmente per coloro che passano dallo script [Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} allo script Handlebar. Il nuovo e-mail designer supporta solo il nuovo formato di token. Il formato aggiornato elimina gli spazi e introduce una struttura di testo predefinita rivista, garantendo un’esperienza di scripting più fluida ed efficiente.
 
 ## Esperienza token {#token-experience}
 
@@ -37,7 +36,7 @@ Nell&#39;editor di posta elettronica classico è possibile aggiungere token con 
 
 ### Nuovo formato {#new-format}
 
-Nella finestra di progettazione e-mail è necessario adattarsi a [Camel Case](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) o caratteri di sottolineatura per i token (ad esempio, `lead.anonymousIP` o `member.registration_code`). Anche il formato del testo predefinito diventa `{%=lead.city ?: "fallback" %}`.
+Nella finestra di progettazione e-mail è necessario utilizzare [notazione camel](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) o caratteri di sottolineatura per i token (ad esempio, `lead.anonymousIP` o `member.registration_code`). Anche il formato del testo predefinito diventa `{%=lead.city ?: "fallback" %}`.
 
 ![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
 
