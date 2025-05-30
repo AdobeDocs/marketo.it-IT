@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 0abb2a7499541b8efbf3000bcd9fc9c1a79e43e1
+source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
 workflow-type: tm+mt
-source-wordcount: '9261'
+source-wordcount: '9264'
 ht-degree: 1%
 
 ---
@@ -215,6 +215,7 @@ ht-degree: 1%
          + [Abilitare gli URL personalizzati per il tuo account](product-docs/administration/settings/enable-personalized-urls-for-your-account.md)
          + [Regole di convalida modulo globale](product-docs/administration/settings/global-form-validation-rules.md)
          + [Intestazioni pagina di destinazione](product-docs/administration/settings/landing-page-headers.md)
+         + [Dashboard utilizzo prodotto](product-docs/administration/settings/product-usage-dashboards.md)
          + [Limita gli accessi a Marketo in base all’IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Seleziona la lingua, la lingua e il fuso orario](product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
          + [Impostare una pagina di fallback](product-docs/administration/settings/set-a-fallback-page.md)
