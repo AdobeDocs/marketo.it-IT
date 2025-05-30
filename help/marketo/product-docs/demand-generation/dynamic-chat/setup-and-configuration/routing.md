@@ -3,9 +3,9 @@ description: Indirizzamento - Documentazione Marketo - Documentazione del prodot
 title: Indirizzamento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 42e2a23c1c451c61fd62237fd1305924b51437b2
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -64,13 +64,47 @@ Identifica e carica il tuo account di destinazione e i rispettivi proprietari de
 
 ![](assets/routing-9.png)
 
+>[!PREREQUISITES]
+>
+>Prima che l&#39;instradamento dell&#39;account _Account_ sia visibile in Dynamic Chat, è necessario abilitare le autorizzazioni in Admin Console. Vedi [Abilita autorizzazioni](#enable-permissions) di seguito.
+
+### Abilita autorizzazioni {#enable-permissions}
+
++++ Abilita autorizzazioni di indirizzamento degli account
+
+1. Accedi a [https://adminconsole.adobe.com/](https://adminconsole.adobe.com/){target="_blank"}.
+
+1. In _Prodotti_, seleziona **Dynamic Chat**.
+
+   ![](assets/routing-10.png)
+
+1. In _Profili di prodotto_, selezionare il profilo desiderato.
+
+   ![](assets/routing-11.png)
+
+1. Fare clic sulla scheda **Autorizzazioni**.
+
+   ![](assets/routing-12.png)
+
+1. Fai clic sull&#39;icona Modifica (![icona Modifica](assets/icon-routing-edit.png)) accanto a _Configurazione_.
+
+   ![](assets/routing-13.png)
+
+1. Fai clic sul segno **+** accanto a _Visualizza indirizzamento account_.
+
+   ![](assets/routing-14.png){width="600" zoomable="yes"}
+
+1. Al termine, fai clic su **Salva**.
+
++++
+
 ### Aggiungi un account {#add-an-account}
 
 In questo esempio, indirizzeremo tutti i dipendenti della Lego direttamente all&#39;agente Steven.
 
 1. Nella scheda Instradamento account, fare clic su **+ Aggiungi account**.
 
-   ![](assets/routing-10.png)
+   ![](assets/routing-15.png)
 
    >[!TIP]
    >
@@ -78,4 +112,4 @@ In questo esempio, indirizzeremo tutti i dipendenti della Lego direttamente all&
 
 1. Immetti il nome della società, il dominio e seleziona l’agente desiderato.
 
-   ![](assets/routing-11.png)
+   ![](assets/routing-16.png)

@@ -3,9 +3,9 @@ description: Impostazioni agente - Documentazione di Marketo - Documentazione de
 title: Impostazioni agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '543'
 ht-degree: 2%
 
 ---
@@ -26,13 +26,13 @@ Nella scheda Configurazione calendario connettere il calendario di Outlook o Gma
 
 ![](assets/agent-settings-2.png)
 
-Una volta connesso al Dynamic Chat, il calendario di un utente verrà aggiunto alla coda e sarà disponibile per consentire ai visitatori del sito Web di pianificare gli appuntamenti in data.
+Una volta connesso a Dynamic Chat, il calendario dell&#39;utente viene aggiunto alla coda e reso disponibile ai visitatori del sito Web per la pianificazione degli appuntamenti.
 
 >[!NOTE]
 >
 >È possibile connettere un calendario per utente. Se si desidera ricevere riunioni su più calendari, è necessario aggiungere più utenti e fare in modo che ciascuno di essi connetta i propri calendari.
 
-Gli utenti possono inoltre personalizzare il corpo dell’invito inviato al visitatore quando pianificano un appuntamento nel calendario dell’utente. Possono anche selezionare la casella di controllo in basso per includere un Google Meeting o un collegamento ai Microsoft Teams (a seconda del calendario connesso).
+Gli utenti possono inoltre personalizzare il corpo dell’invito inviato al visitatore quando pianificano un appuntamento nel calendario dell’utente. Possono anche selezionare la casella di controllo in basso per includere un Google Meet o un collegamento Microsoft Teams (a seconda del calendario connesso).
 
 ![](assets/agent-settings-3.png)
 
@@ -42,14 +42,14 @@ Gli utenti possono inoltre personalizzare il corpo dell’invito inviato al visi
 
 ### Autorizzazioni {#permissions}
 
-La configurazione con Outlook concede le seguenti autorizzazioni al Dynamic Chat:
+La configurazione con Outlook concede le seguenti autorizzazioni a Dynamic Chat:
 
 * Accesso completo ai calendari
 * Accedi e leggi il tuo profilo
 * Gestisci accesso ai dati a cui hai dato accesso
 * Leggi le impostazioni della cassetta postale
 
-La configurazione con Google concede le seguenti autorizzazioni al Dynamic Chat:
+La configurazione con Google concede le seguenti autorizzazioni a Dynamic Chat:
 
 * Creare, modificare o eliminare calendari
 * Aggiornare singoli eventi di calendario
@@ -95,3 +95,11 @@ Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una ch
 >[!TIP]
 >
 >È possibile selezionare più blocchi di tempo nello stesso giorno (ad esempio, venerdì da 8a-12p _e_ 1p-5p) facendo clic sul segno **+** a destra.
+
+## Foto profilo agente
+
+Anche se un agente può caricare la propria foto del profilo, tale azione non viene eseguita in Dynamic Chat. Dovrebbero passare a `account.adobe.com/profile`. Ulteriori informazioni qui: [Aggiorna il tuo profilo account](https://helpx.adobe.com/it/manage-account/using/edit-adobe-account-personal-profile.html).
+
+>[!NOTE]
+>
+>L&#39;immagine del profilo mostrata in `experience.adobe.com` è **non** supportata.

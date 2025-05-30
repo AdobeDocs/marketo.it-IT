@@ -3,16 +3,20 @@ description: Analytics - Documentazione di Marketo - Documentazione del prodotto
 title: Analytics
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 24d5c7f1135857e387031d043a3855e1779233e6
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 2%
+source-wordcount: '259'
+ht-degree: 3%
 
 ---
 
 # Analytics {#analytics}
 
 Mentre il reporting è disponibile a livello di finestra di dialogo, controlla il coinvolgimento complessivo utilizzando le tre dashboard seguenti.
+
+>[!NOTE]
+>
+>I dati provenienti da Dynamic Chat possono richiedere fino a 24 ore per essere riflessi nell’istanza Marketo Engage.
 
 Accedi a ogni dashboard in **Analytics** nella barra di navigazione a sinistra.
 

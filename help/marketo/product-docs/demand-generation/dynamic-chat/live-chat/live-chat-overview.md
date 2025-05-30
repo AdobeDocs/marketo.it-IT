@@ -3,9 +3,9 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 8e26cd1920fe66b63238c8b6e51ec424d1dda1fb
+source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,10 @@ Quando un’azione, come la prenotazione di una riunione o una chat in tempo rea
 
 * Gli agenti hanno 100 secondi per rispondere prima che venga visualizzato il messaggio &quot;Accetta chat&quot;. In seguito, i visitatori riceveranno il [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per i sottoscrittori di Dynamic Chat Prime che hanno l&#39;opzione di routing impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
 * Al momento esiste un limite di 10 chat live per agente.
+* Casella in entrata agente è solo per le conversazioni Live Chat. Se la chat non viene accettata da un agente, non verrà visualizzata nella casella Posta in arrivo dell&#39;agente, in quanto non si qualifica come chat in diretta.
+* La scheda Conversazione visualizza tutte le conversazioni, sia Live che Automated chat. Quindi se una conversazione non viene accettata dall&#39;agente, verrà elencata nella scheda Conversazione. Nella scheda Conversazione si verifica un ritardo di 24 ore, poiché non è in tempo reale. Casella in entrata agente, tuttavia, è in tempo reale.
+* Se dopo 10 minuti (dall’agente o dal visitatore) non vi è alcuna attività di chat, la chat si interrompe.
+* Se un agente modifica l&#39;immagine del profilo (in account.adobe.com) _durante_ una chat in diretta, il visitatore vedrà comunque la vecchia immagine fino alla fine della chat. Il visitatore vedrà la nuova immagine la prossima volta che chatta e avrà quell’agente.
 
 >[!MORELIKETHIS]
 >
