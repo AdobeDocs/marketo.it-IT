@@ -3,9 +3,9 @@ description: Panoramica di Advanced BI Analytics - Documentazione di Marketo - D
 title: Panoramica di Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 93d1d33e4f4874612269e1b89151a78181193c62
+source-git-commit: acf1070ff8e29f77677d9dba0f79ba45b48b1ee8
 workflow-type: tm+mt
-source-wordcount: '989'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -19,10 +19,6 @@ Questi miglioramenti consentono di risparmiare tempo, scoprire informazioni più
 >[!PREREQUISITES]
 >
 >Per accedere a questa funzione, è necessario aver acquistato il componente aggiuntivo Advanced BI Analytics. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
-
->[!NOTE]
->
->Se hai domande su questa funzione mentre è in versione beta (fino al 1° giugno 2025), invia un&#39;e-mail a: `adobe-marketo-advanced-bi-analytics-public-beta@adobe.com`.
 
 ## Caratteristiche principali e vantaggi {#key-features-and-benefits}
 
@@ -38,7 +34,7 @@ Questi miglioramenti consentono di risparmiare tempo, scoprire informazioni più
 
 ## Creare un rapporto {#create-a-report}
 
-1. Nel Marketo personale, fare clic sul riquadro **[!UICONTROL Advanced BI Analytics (Beta)]**.
+1. Nel Marketo personale, fare clic sul riquadro **[!UICONTROL Advanced BI Analytics]**.
 
    ![](assets/advanced-bi-analytics-overview-1.png){width="800" zoomable="yes"}
 
@@ -66,7 +62,7 @@ Questi miglioramenti consentono di risparmiare tempo, scoprire informazioni più
 
 Guarda il video seguente per vedere un esempio di esperienza di report drill-through con più pagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451690/?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapporti standard in Advanced BI Analytics {#standard-reports}
 
@@ -177,11 +173,8 @@ I seguenti rapporti standard sono inclusi come esempi per i rapporti personalizz
 
 ## Aspetti da considerare {#note}
 
-La versione beta pubblica durerà fino al 1° giugno 2025, momento in cui l’esperienza classica tramite &quot;Revenue Explorer&quot; diventerà definitivamente obsoleta.
+* La classica esperienza &quot;Revenue Explorer&quot; diventerà definitivamente obsoleta il 10 giugno 2025. Nel frattempo, puoi accedere ai rapporti di entrambe le esperienze, crearli, aggiornarli ed eliminarli.
 
-_Durante la versione beta pubblica:_
-
-* Puoi accedere ai rapporti, crearli, aggiornarli ed eliminarli in entrambe le esperienze.
 * I report personalizzati verranno replicati dall&#39;esperienza classica alla nuova esperienza con le modifiche di comportamento rilevanti menzionate nella sezione [Apprendimento della nuova esperienza](#learning-the-new-experience) di seguito.
 
   >[!IMPORTANT]
@@ -194,9 +187,13 @@ _Durante la versione beta pubblica:_
      >
      >La dashboard nella nuova esperienza è semplicemente una raccolta di rapporti su una singola pagina. Il valore principale della dashboard nella nuova esperienza consiste nel consentire la presentazione di informazioni analitiche tra diverse aree di reporting.
 
-* Gli abbonamenti e-mail nell’esperienza classica verranno replicati nella nuova esperienza. Gli abbonamenti e-mail nell’esperienza classica continueranno a funzionare fino a quando, il 1° giugno 2025, l’esperienza classica non verrà dichiarata obsoleta.
+* Gli abbonamenti e-mail nell’esperienza classica verranno replicati nella nuova esperienza. Gli abbonamenti e-mail nell’esperienza classica continueranno a funzionare fino a quando, il 10 giugno 2025, l’esperienza classica non verrà dichiarata obsoleta.
 
-* Gli utenti di Revenue Explorer esistenti hanno automaticamente accesso alla nuova esperienza di Advanced BI Analytics (Beta).
+* Gli utenti di Revenue Explorer esistenti hanno automaticamente accesso alla nuova esperienza di Advanced BI Analytics.
+
+* In Advanced BI Analytics è possibile creare fino a 700 rapporti.
+
+* Per ogni visualizzazione è previsto un limite di 1 milione di righe per query. Se la query supera questo limite, verrà visualizzato il seguente errore: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Per risolvere questo problema, riduci l’intervallo di date e/o regola i filtri nel rapporto per ridurre il numero di righe nei risultati della query.
 
 ## Imparare la nuova esperienza {#learning-the-new-experience}
 
@@ -217,8 +214,6 @@ Di seguito sono riportate le modifiche apportate alla nuova esperienza (Advanced
 * L’abbonamento e-mail include l’esportazione PDF anziché il HTML del rapporto. La nuova sottoscrizione e-mail non includerà la definizione del rapporto.
 
 * Il collegamento profondo del rapporto non è al momento supportato.
-
-* Al momento l’esperienza della cartella dei rapporti non è disponibile ed è stata temporaneamente sostituita da un elenco semplice con ricerca del tipo &quot;avanti&quot;. Il nome del report replicato conterrà il percorso della cartella, ad esempio `/folder1/folder2/report`.
 
 * L’esportazione di PDF è sincrona nella nuova esperienza, rispetto all’esperienza classica.
 
