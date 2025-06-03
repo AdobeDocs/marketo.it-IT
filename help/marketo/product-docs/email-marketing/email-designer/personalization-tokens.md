@@ -5,7 +5,7 @@ title: Token Personalization
 description: Scopri come utilizzare i token di personalizzazione nel nuovo Designer e-mail di Marketo Engage
 level: Beginner, Intermediate
 exl-id: 4828e1a5-822f-48a9-bbb8-b1ffe8421e4f
-source-git-commit: c31f338d7f784258a120c90a9d5016366d5a1095
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -22,7 +22,7 @@ E-mail designer ha un formato diverso rispetto all’editor e-mail classico quan
 
 ## Caso d’uso principale {#primary-use-case}
 
-Questo miglioramento è utile principalmente per coloro che passano dallo script [Velocity](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting){target="_blank"} allo script Handlebar. Il nuovo e-mail designer supporta solo il nuovo formato di token. Il formato aggiornato elimina gli spazi e introduce una struttura di testo predefinita rivista, garantendo un’esperienza di scripting più fluida ed efficiente.
+Questo miglioramento è utile principalmente per coloro che passano dallo script [Velocity](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting){target="_blank"} allo script Handlebar. Il nuovo e-mail designer supporta solo il nuovo formato di token. Il formato aggiornato elimina gli spazi e introduce una struttura di testo predefinita rivista, garantendo un’esperienza di scripting più fluida ed efficiente.
 
 ## Esperienza token {#token-experience}
 
@@ -32,13 +32,13 @@ Guarda l’esperienza del token, sia vecchia che nuova.
 
 Nell&#39;editor di posta elettronica classico è possibile aggiungere token con spazi, ad esempio `lead.Anonymous IP` o `member.registration code`. Formato del testo predefinito: `{{lead.City:default=fallback}}`
 
-![](assets/personalization-tokens-1.png){width="500" zoomable="yes"}
+![](assets/personalization-tokens-1.png){width="800" zoomable="yes"}
 
 ### Nuovo formato {#new-format}
 
 Nella finestra di progettazione e-mail è necessario utilizzare [notazione camel](https://developer.mozilla.org/en-US/docs/Glossary/Camel_case) o caratteri di sottolineatura per i token (ad esempio, `lead.anonymousIP` o `member.registration_code`). Anche il formato del testo predefinito diventa `{%=lead.city ?: "fallback" %}`.
 
-![](assets/personalization-tokens-2.png){width="600" zoomable="yes"}
+![](assets/personalization-tokens-2.png){width="800" zoomable="yes"}
 
 ## Aspetti da considerare {#things-to-note}
 

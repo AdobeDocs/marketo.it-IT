@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: f3bc58c0d65e8110c5366269fdb4abf817370aee
+source-git-commit: 5575ab0d7141d4bfc610430db625439c9f52e231
 workflow-type: tm+mt
-source-wordcount: '9264'
+source-wordcount: '9269'
 ht-degree: 1%
 
 ---
@@ -1034,6 +1034,7 @@ ht-degree: 1%
          + [Modificare le immagini con Adobe Express](product-docs/email-marketing/email-designer/edit-images-adobe-express.md)
          + [Frammenti](product-docs/email-marketing/email-designer/fragments.md)
          + [Frammenti personalizzabili](product-docs/email-marketing/email-designer/customizable-fragments.md)
+         + [Integrazione di GenStudio per Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Blocco dei contenuti](product-docs/email-marketing/email-designer/content-locking.md)
          + [Assistente IA](product-docs/email-marketing/email-designer/ai-assistant.md)
       + Programmi e-mail {#email-programs}
@@ -1686,7 +1687,7 @@ ht-degree: 1%
          + [Modifica contenuto predittivo per le e-mail](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-emails.md)
          + [Modifica contenuto predittivo per contenuti rich media](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-rich-media.md)
          + [Modifica contenuto predittivo per la barra dei consigli](product-docs/predictive-content/working-with-predictive-content/edit-predictive-content-for-the-recommendation-bar.md)
-   + Generazione rapporti {#reporting}
+   + Generazione dei rapporti {#reporting}
       + [Panoramica sul reporting](product-docs/reporting/reporting-overview.md)
       + Reporting di base {#basic-reporting}
          + Creazione di rapporti {#creating-reports}
