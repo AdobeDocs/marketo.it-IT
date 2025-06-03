@@ -4,9 +4,9 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: f236f2cf73637ee1a0ee6062c1ecbf82f0e02130
+source-git-commit: c06b4b0c648d1f464994926dd17cbc412823a37c
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '138'
 ht-degree: 10%
 
 ---
@@ -49,17 +49,12 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
   </tr>
   <tr> 
    <td><a href="/help/marketo/release-notes/current.md">Maggio '25</a></td>
-   <td>23 maggio 2025</td>
+   <td>sabato 23 maggio 2025</td>
    <td>In corso</td>
   </tr>
   <tr> 
-   <td>Giugno '25</td>
-   <td>sabato 27 giugno 2025</td>
-   <td>Su pianificazione</td>
-  </tr>
-  <tr> 
    <td>Luglio '25</td>
-   <td>sabato 25 luglio 2025</td>
+   <td>sabato 11 luglio 2025</td>
    <td>Su pianificazione</td>
   </tr>
   <tr> 
