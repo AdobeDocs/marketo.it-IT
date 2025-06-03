@@ -4,9 +4,9 @@ description: Utilizzare gli indirizzi IP dedicati per inviare e-mail - Documenta
 title: Utilizza i tuoi indirizzi IP dedicati per inviare e-mail
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ L’invio da uno o più IP dedicati offre il controllo completo sulla reputazion
 
 >[!AVAILABILITY]
 >
->Un IP dedicato è un prodotto aggiuntivo. Non tutti possono aggiungere un IP dedicato al proprio programma. Dovrai inviare più di 100.000 e-mail al mese e disporre di una cadenza della campagna stabile per mantenere un IP dedicato. Rivolgiti al team dell’account Adobe (il tuo Account Manager) per ulteriori informazioni su come aggiungere un IP dedicato al programma Marketo.
+>Un IP dedicato è un prodotto aggiuntivo. Non tutti possono aggiungere un IP dedicato al proprio programma. Dovrai inviare più di 100.000 e-mail al mese e disporre di una cadenza della campagna stabile per mantenere un IP dedicato. Per ulteriori informazioni su come aggiungere un IP dedicato al programma Marketo, contatta il team del tuo account.
 >
->Se invii meno di 100.000 e-mail al mese e/o hai volumi di campagne variabili e/o sei un mittente stagionale, non potrai mantenere un IP dedicato. Marketo mantiene un pool condiviso IP attendibile separato per i clienti che si attengono a procedure ottimali rigorose. Se interessati, compilare il [questionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html) da applicare al programma IP attendibile di Marketo.
+>Se invii meno di 100.000 e-mail al mese e/o hai volumi di campagne variabili e/o sei un mittente stagionale, non potrai mantenere un IP dedicato. Marketo mantiene un pool condiviso IP attendibile separato per i clienti che si attengono a procedure ottimali rigorose. Se interessati, compilare il [questionario](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=it) da applicare al programma IP attendibile di Marketo.
 
 Tutti gli account Marketo iniziano con un IP condiviso, che consente di avviare immediatamente l’invio di e-mail. Se aggiungi un IP dedicato, collaborerai con i consulenti del recapito messaggi per pianificare il provisioning dell’IP.
 
@@ -38,7 +38,7 @@ Per massimizzare il recapito messaggi a lungo termine, i consulenti di recapito 
 
 >[!TIP]
 >
->Mantenere pulito il database per mantenere elevata la consegna dei messaggi. [L&#39;Adobe richiede](https://www.adobe.com/legal/terms/aup.html) che i clienti inviino comunicazioni di marketing solo a persone che hanno acconsentito/richiesto di ricevere e-mail. Non spam.
+>Mantenere pulito il database per mantenere elevata la consegna dei messaggi. [Adobe richiede](https://www.adobe.com/legal/terms/aup.html) che i clienti inviino comunicazioni di marketing solo a persone che hanno acconsentito/richiesto di ricevere e-mail. Non spam.
 
 >[!CAUTION]
 >
