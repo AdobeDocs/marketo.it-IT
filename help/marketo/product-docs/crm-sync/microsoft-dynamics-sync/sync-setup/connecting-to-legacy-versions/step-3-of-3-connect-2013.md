@@ -4,9 +4,9 @@ description: Passaggio 3 di 3 - Connessione di Marketo e Dynamics (on-premise 20
 title: 'Passaggio 3 di 3: connessione di Marketo e Dynamics (on-premise 2013)'
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Va bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincroniz
 
 ## Immetti le informazioni utente di Dynamics Sync {#enter-dynamics-sync-user-information}
 
-1. Accedi a Marketo e fai clic su **[!UICONTROL Amministratore]**.
+1. Accedere a Marketo e fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/login-admin.png)
 
@@ -34,11 +34,11 @@ Va bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincroniz
 
    ![](assets/image2014-12-11-11-3a53-3a59.png)
 
-1. Selezionare **[!DNL Microsoft]**.
+1. Seleziona **[!DNL Microsoft]**.
 
    ![](assets/image2014-12-11-11-3a54-3a10.png)
 
-1. Fai clic su **[!UICONTROL Modifica]** in **[!UICONTROL Inserisci credenziali]**.
+1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Enter Credentials]**.
 
    ![](assets/image2014-12-11-11-3a54-3a19.png)
 
@@ -46,7 +46,7 @@ Va bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincroniz
    >
    >Assicurati che le credenziali siano corrette in quanto non è possibile ripristinare le modifiche allo schema successive dopo l’invio. Se vengono salvate credenziali non corrette, dovrai ottenere una nuova sottoscrizione Marketo.
 
-1. Immetti **[!UICONTROL Nome utente]**, **[!UICONTROL Password]** e Microsoft Dynamics **[!UICONTROL URL]**, quindi fai clic su **[!UICONTROL Salva]**.
+1. Immettere **[!UICONTROL Username]**, **[!UICONTROL Password]** e Microsoft Dynamics **[!UICONTROL URL]**, quindi fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-3-26-11-3a47-3a59.png)
 
@@ -59,11 +59,11 @@ Va bene! Abbiamo installato la soluzione e configurato l&#39;utente di sincroniz
 
 Ora è necessario selezionare i campi da sincronizzare.
 
-1. Fai clic su **[!UICONTROL Modifica]** in **[!UICONTROL Seleziona campi da sincronizzare]**.
+1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Seleziona i campi da sincronizzare con Marketo in modo che siano preselezionati. Fai clic su **[!UICONTROL Salva]**.
+1. Seleziona i campi da sincronizzare con Marketo in modo che siano preselezionati. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a10-3a17.png)
 
@@ -79,33 +79,32 @@ Se hai creato un filtro personalizzato, accertati di entrare e selezionare i nuo
 
    ![](assets/image2015-10-9-9-3a50-3a9.png)
 
-1. Fai clic su **[!UICONTROL Modifica]** in Dettagli sincronizzazione campi.
+1. Fare clic su **[!UICONTROL Edit]** in Dettagli sincronizzazione campi.
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fai clic su **[!UICONTROL Salva]**.
+1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a11-3a4.png)
 
 ## Abilita sincronizzazione {#enable-sync}
 
-1. Fai clic su **[!UICONTROL Modifica]** in **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-3-16-9-3a52-3a2.png)
 
    >[!CAUTION]
    >
-   >Marketo non eseguirà automaticamente la deduplicazione su una sincronizzazione Microsoft Dynamics o quando immetti manualmente persone o lead.
+   >Marketo non esegue automaticamente la deduplicazione su una sincronizzazione Microsoft Dynamics o quando si immettono manualmente persone o lead.
 
-1. Leggi tutto il contenuto del popup, immetti il tuo indirizzo e-mail e fai clic su **[!UICONTROL Avvia sincronizzazione]**.
+1. Leggi tutto il contenuto del popup, immetti il tuo indirizzo e-mail e fai clic su **[!UICONTROL Start Sync]**.
 
    ![](assets/image2015-3-30-14-3a23-3a13.png)
 
-1. La prima sincronizzazione potrebbe richiedere alcune ore. Al termine riceverai una notifica e-mail.
+1. A seconda del numero di record, la sincronizzazione iniziale può richiedere da alcune ore a pochi giorni. Al termine riceverai una notifica e-mail.
 
    ![](assets/image2014-12-11-11-3a55-3a15.png)
 
-Ottimo lavoro! Hai appena liberato la potenza della sincronizzazione bidirezionale tra Marketo e Microsoft Dynamics. Se hai acquistato Marketo Sales Insight, è più divertente:
 
 >[!MORELIKETHIS]
 >
