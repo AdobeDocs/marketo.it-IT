@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
 workflow-type: tm+mt
 source-wordcount: '656'
 ht-degree: 0%
@@ -64,21 +64,26 @@ Qui riceviamo i conteggi delle attività dei sette giorni precedenti in base a s
 >
 >* Il dashboard mostra solo i primi 20 tipi di attività, mentre gli altri sono ordinati in una categoria denominata &quot;Altro&quot;.
 
-![](assets/product-usage-dashboards-4.png){width="800" zoomable="yes"}
-
 L’utilizzo delle attività mostra la quantità di marketing condotto e aiuta a visualizzare la crescita rispetto al livello di prodotto per il quale è stato identificato il contratto. Le dashboard possono essere utilizzate anche come guida per determinare il livello di ottimizzazione che può/deve essere eseguito riducendo i campi da aggiornare.
 
 ### Per tipo {#by-type}
 
 Raggruppa le attività in base ai tipi di attività più comuni osservati negli ultimi sette giorni. Questo può includere categorie come _Modifica valore dati_, _Aggiungi all&#39;elenco_ o _Invia e-mail_. Questo consente di vedere quali tipi di attività si verificano più spesso nel tuo account Marketo Engage.
 
+![](assets/product-usage-dashboards-4.png){width="600" zoomable="yes"}
+
+
 ### Per modifica attributo valore dati {#by-change-data-value-attribute}
 
 _Modifica valore dati_ è il tipo di attività più comune. Indica quando vengono aggiornate le informazioni di un record persona/lead. In questo caso, eseguiamo il raggruppamento in base ai campi che vengono modificati più spesso, in modo da poter determinare quali informazioni sono utili per le operazioni di marketing, se sono disponibili opportunità per ottimizzare l’utilizzo della piattaforma e così via.
 
+![](assets/product-usage-dashboards-5.png){width="600" zoomable="yes"}
+
 ### Per campagna {#by-campaign}
 
 Gruppo in base al quale le campagne producono il maggior numero di attività. Questo ti consente di verificare se disponi di campagne particolarmente &quot;rumorose&quot; che creano più attività del necessario. Scopri rapidamente le campagne che devono essere disattivate o quelle che stanno facendo più lavoro di quanto previsto.
+
+![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
 
 ### Di Source (DISPONIBILE A BREVE) {#by-source}
 
