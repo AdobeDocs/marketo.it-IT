@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 73e5b80de146512bc2f00cc7a6891911be20d9fc
+source-git-commit: d7a7e6f7fd9c9009a058578f6027698a181226f5
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,3 @@ _Modifica valore dati_ è il tipo di attività più comune. Indica quando vengon
 Gruppo in base al quale le campagne producono il maggior numero di attività. Questo ti consente di verificare se disponi di campagne particolarmente &quot;rumorose&quot; che creano più attività del necessario. Scopri rapidamente le campagne che devono essere disattivate o quelle che stanno facendo più lavoro di quanto previsto.
 
 ![](assets/product-usage-dashboards-6.png){width="600" zoomable="yes"}
-
-### Di Source (DISPONIBILE A BREVE) {#by-source}
-
-Raggruppa in base all&#39;origine delle attività (_Sincronizzazione CRM_, _Azione di flusso campagna_, _Caricamento API_, _Riempimento modulo pagina di destinazione_, ecc.). Questo ti aiuta a capire se la maggior parte delle attività è prodotta da azioni di marketing, sincronizzazioni CRM o dalle persone/dai lead stessi.
