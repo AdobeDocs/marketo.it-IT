@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Editor
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 8c1e165a1d1d3fc00bf34c983a8edcb974294150
+source-git-commit: d7cb61fabcf82bb5fe9a0411cc94abf5445de689
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ E-mail designer è l’innovazione più recente di Marketo Engage che offre un�
 
 +++Scopri come accedere a e-mail designer
 
-Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Aggiungi utenti {#add-users}
 
@@ -76,11 +76,19 @@ Le nuove e-mail di Designer sono accessibili in tutti i programmi (con l’unica
 
 **I nostri modelli e-mail esistenti funzioneranno nella nuova finestra di progettazione? In caso contrario, è necessario creare modelli utilizzando la nuova finestra di progettazione in modo che tutte le sezioni/moduli corrispondano all&#39;aspetto desiderato per il contenuto?**
 
-No, non è possibile fare riferimento ai modelli e-mail dall’editor classico nella nuova finestra di progettazione. Dovrai creare nuovi modelli nel nuovo designer. Tuttavia, _puoi_ importare il modello HTML nella nuova finestra di progettazione, quindi apportare le modifiche necessarie. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
+Non è possibile fare riferimento ai modelli e-mail dall’editor classico nella nuova finestra di progettazione. Dovrai creare nuovi modelli nel nuovo designer. Tuttavia, _puoi_ importare il modello HTML nella nuova finestra di progettazione, quindi apportare le modifiche necessarie. **Nota**: la compatibilità del modello dell&#39;editor classico con la nuova finestra di progettazione sarà presto disponibile.
+
+**È possibile spostare facilmente le nuove risorse della finestra di progettazione in un altro programma?**
+
+Al momento non è possibile. Ma questa funzionalità sarà presto disponibile.
+
+**È possibile modificare le risorse tramite API nella nuova finestra di progettazione e-mail?**
+
+Assets in fase di modifica tramite API non è al momento supportato nel nuovo e-mail designer.
 
 **Esiste un modo per applicare il branding (caratteri, loghi e colori)?**
 
-Il blocco delle sezioni di contenuto fa parte della nuova finestra di progettazione e il blocco di stile, colori e così via verrà introdotto nel corso dell&#39;anno.
+Il blocco delle sezioni di contenuto fa parte della nuova finestra di progettazione e il blocco di stile, colori e così via sarà presto disponibile.
 
 **I moduli per i modelli saranno più personalizzabili e scalabili?**
 
@@ -88,16 +96,11 @@ Sì, assolutamente, più personalizzabile con il nostro editor WYSIWYG (what-you
 
 **Come funziona il processo di creazione del modello di posta elettronica nel nuovo designer? È WYSIWYG o richiede la conoscenza di HTML?**
 
-È WYSIWYG; la conoscenza di HTML non è necessaria. Puoi creare facilmente
-modelli nella finestra di progettazione, riducendo la necessità di sviluppatori web esterni. Tuttavia, puoi comunque aggiornare i CSS e modificare le singole sezioni tramite HTML. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
+È WYSIWYG; la conoscenza di HTML non è necessaria. Puoi creare facilmente modelli nella finestra di progettazione, riducendo la necessità per gli sviluppatori web esterni. Tuttavia, puoi comunque aggiornare i CSS e modificare le singole sezioni tramite HTML. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
 
 **La nuova finestra di progettazione e-mail supporta il linguaggio AMP?**
 
 Al momento non dispone del supporto per AMP.
-
-**È possibile modificare le risorse tramite API nella nuova finestra di progettazione e-mail?**
-
-Assets in fase di modifica tramite API non è al momento supportato nel nuovo e-mail designer.
 
 **Il contenuto dinamico per attributo è ottimo, ma il contenuto dinamico per segmento continua a funzionare?**
 
