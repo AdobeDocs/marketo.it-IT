@@ -3,7 +3,7 @@ description: Panoramica di Advanced BI Analytics - Documentazione di Marketo - D
 title: Panoramica di Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 896a4d16f6f2133b2d5311735143f4aab348dbf6
+source-git-commit: 4e9b830d350f0c8b50873b359e64be281af226fa
 workflow-type: tm+mt
 source-wordcount: '1138'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Questi miglioramenti consentono di risparmiare tempo, scoprire informazioni più
 
 ## Esportare un rapporto {#export-a-report}
 
-Quando esportate un report completo, le opzioni di esportazione sono PDF e PPT. Se hai bisogno dei tuoi dati in XLS o CSV, puoi farlo esportando singole visualizzazioni ([vedi di seguito](#export-a-visualization)).
+Quando esportate un report completo, le opzioni di esportazione sono PDF e PPT. Se hai bisogno dei tuoi dati in .XLS o .CSV, puoi esportare singole visualizzazioni ([vedi di seguito](#export-a-visualization)).
 
 >[!BEGINTABS]
 
@@ -113,7 +113,7 @@ Scopri come esportare sezioni specifiche del rapporto.
    >[!NOTE]
    >
    >* _I dati con il layout corrente_ sono disponibili solo per gli elementi visivi di tabelle e matrici.
-   >* _Dati sottostanti_ non disponibili in Marketo Engage.
+   * _Dati sottostanti_ non disponibili in Marketo Engage.
 
 1. Scegli il formato di file desiderato (.XLS, .CSV).
 
@@ -125,7 +125,7 @@ Scopri come esportare sezioni specifiche del rapporto.
 
 Guarda il video seguente per vedere un esempio di esperienza di report drill-through con più pagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451690/?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapporti standard in Advanced BI Analytics {#standard-reports}
 
