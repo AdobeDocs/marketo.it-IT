@@ -113,7 +113,7 @@ Scopri come esportare sezioni specifiche del rapporto.
    >[!NOTE]
    >
    >* _I dati con il layout corrente_ sono disponibili solo per gli elementi visivi di tabelle e matrici.
-   * _Dati sottostanti_ non disponibili in Marketo Engage.
+   >* _Dati sottostanti_ non disponibili in Marketo Engage.
 
 1. Scegli il formato di file desiderato (.XLS, .CSV).
 
