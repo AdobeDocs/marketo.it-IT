@@ -4,20 +4,20 @@ description: Rendere operativo un messaggio e-mail - Documentazione di Marketo -
 title: Rendere operativa un’e-mail
 exl-id: e36c6a7b-2c50-4d9f-9e6d-0828ab3af5a8
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 7c1bf673c2f7917c244dafdd3e8207203cd56bfb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Rendere operativa un’e-mail {#make-an-email-operational}
 
-Le e-mail operative ignorano gli stati Annullamento iscrizione e Marketing sospeso. Non importa cosa mandano.
+Le e-mail operative ignorano gli stati Annullamento iscrizione e Marketing sospeso. Inoltre, non sono soggetti a limiti di comunicazione. Non importa cosa mandano.
 
 >[!NOTE]
 >
->Le e-mail operative non sono soggette a limiti di comunicazione.
+>Le e-mail operative non vengono conteggiate per i limiti di comunicazione. Ad esempio, se un utente può ricevere una sola e-mail alla settimana e gli hai già inviato un’e-mail di marketing, puoi comunque inviargli un’e-mail operativa, se necessario.
 
 1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
 
