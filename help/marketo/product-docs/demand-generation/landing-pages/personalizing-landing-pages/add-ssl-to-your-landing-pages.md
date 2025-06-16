@@ -4,9 +4,9 @@ description: Aggiungere SSL alle pagine di destinazione - Documentazione di Mark
 title: Aggiungere SSL alle pagine di destinazione
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: de396f08c50a1862fbdd3ae1e435ac5671d96b0e
+source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '669'
 ht-degree: 0%
 
 ---
@@ -71,7 +71,7 @@ Di seguito sono riportati i messaggi di errore che potresti ricevere insieme all
 <tbody>
   <tr>
     <td><i>Errore imprevisto durante la creazione di un dominio. Contatta il supporto per assistenza.</i></td>
-    <td>Si è verificato un errore imprevisto. Raccogli i registri e i dettagli dell’errore e inoltra il problema all’assistenza.</td>
+    <td>Si è verificato un errore imprevisto. Raccogliere i registri e i dettagli degli errori e inoltrare il problema al <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Supporto Marketo</a>.</td>
   </tr>
   <tr>
     <td><i>Dominio predefinito non trovato. Contatta il supporto per assistenza.</i></td>
@@ -89,22 +89,16 @@ Di seguito sono riportati i messaggi di errore che potresti ricevere insieme all
     <td><i>Il dominio esiste già.</i></td>
     <td>Esiste già un dominio con lo stesso nome.</td>
   </tr>
-  <tr>
-    <td><i>È necessaria una configurazione IP una tantum prima di aggiungere altri domini. Contatta il supporto per completare la configurazione e ritenta l’aggiunta di un altro dominio.</i></td>
-    <td>Il primo dominio personalizzato dopo quello predefinito richiede una configurazione una tantum da parte tua. Crea un ticket di supporto per completare la configurazione e aggiungi il dominio al termine.</td>
-  </tr>
 </tbody></table>
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 
 * **SSL preesistenti**: durante l&#39;aggiunta di un dominio, il sistema verifica la presenza di SSL preesistenti, che potrebbero essere stati creati manualmente in precedenza. Se si verifica questa convalida, crea il dominio senza selezionare la creazione SSL, che verrà connessa automaticamente. [Contatta il supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per ulteriori dettagli/opzioni.
 
-* **Primo dominio di tracciamento**: la prima creazione dei domini di collegamento di tracciamento e-mail richiederà l&#39;intervento manuale del [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. La successiva creazione di sottodomini nello stesso dominio è consentita nell’interfaccia utente di.
-
 * **Aggiunta di certificati a domini esistenti**: l&#39;aggiunta di certificati a domini esistenti non è al momento supportata. Per i domini preesistenti o per i casi in cui non è stato possibile selezionare la casella del certificato SSL, è necessario contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per ottenere l&#39;aggiunta del certificato.
 
-* **Eliminazione di domini**: l&#39;eliminazione di un dominio non comporta l&#39;eliminazione automatica del certificato SSL in questo momento. Questo problema sarà risolto in una versione futura.
+* **Eliminazione di domini**: l&#39;eliminazione di un dominio comporta l&#39;eliminazione automatica del certificato SSL.
