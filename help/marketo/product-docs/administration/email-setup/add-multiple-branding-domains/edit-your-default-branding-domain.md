@@ -4,9 +4,9 @@ description: Modifica il dominio di branding predefinito - Documentazione di Mar
 title: Modifica il dominio di branding predefinito
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -40,3 +40,7 @@ La modifica del dominio di branding predefinito è il primo passaggio nell’uti
    ![](assets/edit-your-default-branding-domain-4.png)
 
 Ora puoi [aggiungere altri domini di branding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain.md){target="_blank"} necessari.
+
+>[!NOTE]
+>
+>Se devi aggiornare o rimuovere un SSL esistente, contatta il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.

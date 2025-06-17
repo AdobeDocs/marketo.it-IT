@@ -4,9 +4,9 @@ description: Aggiungere un dominio di branding aggiuntivo - Documentazione di Ma
 title: Aggiungi un dominio di branding aggiuntivo
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: df7c5bfc344d5a22632128ef70b2c5c12d2f669d
+source-git-commit: dafac137a6c626794f3b9b2bfaa2fc2de9f2cb75
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '598'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 
@@ -86,6 +86,8 @@ Aggiungi un dominio di branding aggiuntivo quando esegui più marchi da una sing
 * **Primo dominio di tracciamento**: la prima creazione dei domini di collegamento di tracciamento e-mail richiederà l&#39;intervento manuale del [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. La successiva creazione di sottodomini nello stesso dominio è consentita nell’interfaccia utente di.
 
 * **Aggiunta di certificati a domini esistenti**: l&#39;aggiunta di certificati a domini esistenti non è al momento supportata. Per i domini preesistenti o per i casi in cui non è stato possibile selezionare la casella del certificato SSL, è necessario contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per ottenere l&#39;aggiunta del certificato.
+
+* **Modifica o rimozione di certificati nei domini esistenti**: se è necessario aggiornare o rimuovere un SSL esistente, contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 * **Eliminazione di domini**: l&#39;eliminazione di un dominio non comporta l&#39;eliminazione automatica del certificato SSL in questo momento. Questo problema sarà risolto in una versione futura.
 
