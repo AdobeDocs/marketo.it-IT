@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Sfrutta il tuo account [Litmus](https://www.litmus.com/email-testing) in Marketo Engage per visualizzare immediatamente il rendering delle e-mail nei client e-mail più diffusi.
 
-## Come usare {how-to-use}
+## Come usare &lbrace;how-to-use&rbrace;
 
 1. Dalla schermata di modifica del contenuto del messaggio o in E-mail Designer, fai clic sul pulsante Simula contenuto.
 
