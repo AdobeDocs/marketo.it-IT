@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Editor
 hide: true
 hidefromtoc: true
-source-git-commit: 0157bc64444151a43bf464158d508e84d75b3427
+source-git-commit: c10984c5c4076103a4ccc81e94d595e0ec41c535
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Sfrutta il tuo account [Litmus](https://www.litmus.com/email-testing) in Marketo Engage per visualizzare immediatamente il rendering delle e-mail nei client e-mail più diffusi.
 
-## Come usare &lbrace;how-to-use&rbrace;
+## Come usare {#how-to-use}
 
 1. Dalla schermata di modifica del contenuto del messaggio o in E-mail Designer, fai clic sul pulsante Simula contenuto.
 
