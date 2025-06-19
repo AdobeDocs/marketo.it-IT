@@ -3,16 +3,16 @@ description: Promozione di un webinar interattivo - Documentazione di Marketo - 
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: f5b66521f678b2aa618d270077292ddd9b8775c3
+source-git-commit: 3717cba468ed7f1a916fa0eefa2ff50708d95c34
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
 
 # Promozione di un webinar interattivo {#promoting-an-interactive-webinar}
 
-La promozione di un webinar interattivo è simile alla promozione di un webinar per partner tramite Launchpoint. Durante la creazione di un programma di eventi di webinar interattivo, è possibile aggiungere membri eseguendo una campagna o importando membri nel programma. Per verificare i membri aggiunti al programma eventi webinar interattivi, fare clic sulla scheda **[!UICONTROL Membri]**.
+La promozione di un webinar interattivo è simile alla promozione di un webinar per partner tramite Launchpoint. Durante la creazione di un programma di eventi di webinar interattivo, è possibile aggiungere membri eseguendo una campagna o importando membri nel programma. Per verificare i membri aggiunti al programma eventi webinar interattivi, fare clic sulla scheda **[!UICONTROL Members]**.
 
 ![](assets/promoting-an-interactive-webinar-1.png)
 
@@ -46,9 +46,13 @@ I webinar interattivi consentono di richiedere la registrazione prima, durante o
 
 ## Token webinar interattivi {#interactive-webinars-tokens}
 
-Utilizza i token per promuovere i webinar interattivi nelle e-mail e nelle pagine di destinazione senza dover aggiungere manualmente i dettagli del webinar. Questo migliora l’efficienza complessiva, poiché qualsiasi modifica apportata ai metadati del webinar (come titolo del webinar, data di inizio e così via) si rifletterà automaticamente nelle risorse.
+Utilizza i token per promuovere i webinar interattivi nelle e-mail senza dover aggiungere manualmente i dettagli del webinar. Questo migliora l’efficienza complessiva, poiché qualsiasi modifica apportata ai metadati del webinar (come titolo del webinar, data di inizio e così via) si rifletterà automaticamente nelle risorse.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
+
+>[!NOTE]
+>
+>Al momento, i token del webinar interattivo non sono supportati nelle pagine di destinazione.
 
 **Elenco dei token**
 
