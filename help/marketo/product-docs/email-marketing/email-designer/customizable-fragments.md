@@ -3,13 +3,13 @@ solution: Marketo Engage
 product: marketo
 title: Frammenti personalizzabili
 description: Scopri come personalizzare i frammenti rendendo modificabili alcuni dei loro campi.
-feature: Email Editor
-role: User
 level: Beginner, Intermediate
+feature: Email Designer
+role: User
 exl-id: 3e0232c7-13bd-49e2-b7c7-cd389b5f0704
-source-git-commit: 2a01045abbc23bce9531c64e3494fb12a9adf1bd
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '627'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Per rendere modificabili parti di un frammento visivo, effettua le seguenti oper
 
 1. Seleziona il componente nel frammento in cui desideri configurare i campi modificabili.
 
-1. Il riquadro delle proprietà del componente viene visualizzato sul lato destro. Seleziona la scheda **[!UICONTROL Campi modificabili]**, quindi attiva l&#39;opzione **[!UICONTROL Abilita edizione]**.
+1. Il riquadro delle proprietà del componente viene visualizzato sul lato destro. Selezionare la scheda **[!UICONTROL Editable fields]**, quindi attivare/disattivare l&#39;opzione **[!UICONTROL Enable edition]**.
 
 1. Tutti i campi che possono essere modificati per il componente selezionato sono elencati nel riquadro. I campi disponibili per la modifica dipendono dal tipo di componente selezionato.
 
@@ -42,7 +42,7 @@ Per rendere modificabili parti di un frammento visivo, effettua le seguenti oper
 
    ![](assets/fragment-param-enable.png){width="800" zoomable="yes"}
 
-1. Fai clic su **[!UICONTROL Panoramica]** per controllare tutti i campi modificabili e i relativi valori predefiniti.
+1. Fare clic su **[!UICONTROL Overview]** per controllare tutti i campi modificabili e i relativi valori predefiniti.
 
    In questo esempio, il campo URL del pulsante viene visualizzato con il valore predefinito definito nel componente. Questo valore sarà personalizzabile dagli utenti dopo che avranno aggiunto il frammento al loro contenuto.
 

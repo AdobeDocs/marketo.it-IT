@@ -4,10 +4,11 @@ product: marketo
 title: Modificare le immagini con Adobe Express
 description: Scopri come modificare le immagini nell’Editor e-mail di Adobe Marketo Engage utilizzando Adobe Express.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '841'
+source-wordcount: '807'
 ht-degree: 1%
 
 ---
@@ -35,7 +36,7 @@ Esistono due modi per accedere all’editor di Adobe Express:
 
 >[!TAB Fare clic sul nome dell&#39;immagine]
 
-1. In Marketo Engage, passare a **[!UICONTROL Design Studio]** e selezionare **[!UICONTROL Immagini e file]**.
+1. In Marketo Engage, vai a **[!UICONTROL Design Studio]** e seleziona **[!UICONTROL Images and Files]**.
 
    ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1a.png){width="600" zoomable="yes"}
 
@@ -45,11 +46,11 @@ Esistono due modi per accedere all’editor di Adobe Express:
 
    >[!NOTE]
    >
-   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **[!UICONTROL Mostra cartelle]** in alto a sinistra.
+   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **[!UICONTROL Show Folders]** in alto a sinistra.
    >
    >* Per ordinare la tabella in base a una delle colonne, fare clic sul titolo della colonna. La freccia nella riga del titolo indica la colonna e l&#39;ordine di ordinamento correnti.
 
-1. Nella scheda immagine _Dettagli_, fai clic su **[!UICONTROL Modifica in Adobe Express]**.
+1. Nella scheda immagine _Dettagli_, fare clic su **[!UICONTROL Edit in Adobe Express]**.
 
    ![Fare clic sul pulsante Modifica in Adobe Express](assets/edit-images-with-adobe-express-3a.png){width="600" zoomable="yes"}
 
@@ -59,17 +60,17 @@ Esistono due modi per accedere all’editor di Adobe Express:
 
 >[!TAB Azioni immagine e file]
 
-1. In Marketo Engage, passare a **[!UICONTROL Design Studio]** e selezionare **[!UICONTROL Immagini e file]**.
+1. In Marketo Engage, vai a **[!UICONTROL Design Studio]** e seleziona **[!UICONTROL Images and Files]**.
 
    ![Selezione di immagini e file nella barra di spostamento a sinistra di Design Studio](assets/edit-images-with-adobe-express-1b.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
-   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **[!UICONTROL Mostra cartelle]** in alto a sinistra.
+   >* Per visualizzare le risorse per area di lavoro e cartella, apri la struttura facendo clic sull&#39;icona **[!UICONTROL Show Folders]** in alto a sinistra.
    >
    >* Per ordinare la tabella in base a una delle colonne, fare clic sul titolo della colonna. La freccia nella riga del titolo indica la colonna e l&#39;ordine di ordinamento correnti.
 
-1. Seleziona la casella di controllo accanto all’immagine da modificare. Nel menu a discesa **[!UICONTROL Azioni immagine e file]**, seleziona **[!UICONTROL Modifica in Adobe Express]**.
+1. Seleziona la casella di controllo accanto all’immagine da modificare. Nel menu a discesa **[!UICONTROL Image and file actions]**, selezionare **[!UICONTROL Edit in Adobe Express]**.
 
    ![Selezione della casella di controllo accanto al nome dell&#39;immagine e utilizzo del menu a discesa Immagini e azioni file](assets/edit-images-with-adobe-express-2b.png){width="600" zoomable="yes"}
 
@@ -144,23 +145,23 @@ Le funzioni sono accessibili sul lato sinistro della pagina immagine.
 
 #### Ritaglia immagine {#crop-image}
 
-1. Fare clic su **[!UICONTROL Ritaglia immagine]**.
+1. Fai clic su **[!UICONTROL Crop Image]**.
 
 1. Trascinate gli angoli dell&#39;immagine per creare il ritaglio desiderato.
 
 ![Trascinamento degli angoli delle foto per ritagliare l&#39;immagine](assets/edit-images-with-adobe-express-7.png){width="800" zoomable="yes"}
 
-1. Al termine, fai clic su **[!UICONTROL Applica]**.
+1. Al termine, fai clic su **[!UICONTROL Apply]**.
 
 #### Converti in PNG/JPEG {#convert-to-png-jpeg}
 
 Convertire un file PNG in un file JPEG o un file JPEG in un file PNG.
 
-1. Fare clic su **[!UICONTROL Converti in PNG/JPEG]**.
+1. Fai clic su **[!UICONTROL Convert to PNG/JPEG]**.
 
 ![Converti in finestra PNG/JPEG](assets/edit-images-with-adobe-express-8.png){width="800" zoomable="yes"}
 
-1. Fare clic su **[!UICONTROL Applica]**.
+1. Fai clic su **[!UICONTROL Apply]**.
 
 ## Salvare i dati {#save-your-work}
 

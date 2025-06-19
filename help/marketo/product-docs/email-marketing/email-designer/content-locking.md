@@ -4,11 +4,12 @@ product: marketo
 title: Bloccare il contenuto nei modelli e-mail
 description: Scopri come bloccare il contenuto nei modelli e-mail.
 level: Beginner, Intermediate
+feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 76d854176c3c462596596689b43d3567517fee63
+source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
 workflow-type: tm+mt
-source-wordcount: '891'
-ht-degree: 9%
+source-wordcount: '831'
+ht-degree: 8%
 
 ---
 
@@ -42,29 +43,29 @@ Puoi abilitare il blocco del contenuto per un modello e-mail direttamente in E-m
 
 1. Apri o crea un modello e-mail e accedi alla schermata di modifica del contenuto nel Designer e-mail.
 
-1. Nel riquadro **[!UICONTROL Corpo]** a destra, abilita l&#39;opzione **[!UICONTROL Governance]**.
+1. Nel riquadro **[!UICONTROL Body]** a destra, abilitare l&#39;opzione **[!UICONTROL Governance]**.
 
-1. Dall&#39;elenco a discesa **[!UICONTROL Modalità]**, selezionare la modalità di blocco desiderata per il modello:
+1. Dall&#39;elenco a discesa **[!UICONTROL Mode]**, selezionare la modalità di blocco desiderata per il modello:
 
-   * **[!UICONTROL Blocco del contenuto]**: blocca sezioni specifiche del contenuto all&#39;interno del modello. Per impostazione predefinita, tutte le strutture e i componenti diventano modificabili. Puoi quindi bloccare selettivamente singoli elementi.
-   * **[!UICONTROL Sola lettura]**: blocca l&#39;intero contenuto del modello, impedendo eventuali modifiche.
+   * **[!UICONTROL Content locking]**: Blocca sezioni specifiche del contenuto all&#39;interno del modello. Per impostazione predefinita, tutte le strutture e i componenti diventano modificabili. Puoi quindi bloccare selettivamente singoli elementi.
+   * **[!UICONTROL Read only]**: Blocca l&#39;intero contenuto del modello, impedendo eventuali modifiche.
 
    ![](assets/content-locking-1.png){width="800" zoomable="yes"}
 
-1. Se hai selezionato la modalità **[!UICONTROL Blocco contenuto]**, puoi definire ulteriormente il modo in cui gli utenti possono interagire con il modello. Abilitare l&#39;opzione **[!UICONTROL Abilita edizione contenuto]** e scegliere una delle opzioni seguenti:
+1. Se hai selezionato la modalità **[!UICONTROL Content locking]**, puoi definire ulteriormente il modo in cui gli utenti possono interagire con il modello. Abilitare l&#39;opzione **[!UICONTROL Enable content edition]** e scegliere una delle opzioni seguenti:
 
-   * **[!UICONTROL Consenti aggiunta struttura e contenuto]**: gli utenti possono aggiungere strutture tra quelle esistenti e aggiungere componenti di contenuto o frammenti all&#39;interno di strutture modificabili.
+   * **[!UICONTROL Allow structure & content addition]**: gli utenti possono aggiungere strutture tra quelle esistenti e aggiungere componenti di contenuto o frammenti all&#39;interno di strutture modificabili.
 
-   * **[!UICONTROL Consenti solo l&#39;aggiunta di contenuto]**: gli utenti possono aggiungere componenti di contenuto o frammenti all&#39;interno di strutture modificabili, ma non possono aggiungere o duplicare strutture.
+   * **[!UICONTROL Allow content addition only]**: gli utenti possono aggiungere componenti di contenuto o frammenti all&#39;interno di strutture modificabili, ma non possono aggiungere o duplicare strutture.
 
-1. Dopo aver selezionato la modalità di blocco, puoi definire quali strutture e/o componenti bloccare se hai selezionato la modalità **[!UICONTROL Blocco contenuto]**:
+1. Dopo aver selezionato la modalità di blocco, è possibile definire le strutture e/o i componenti da bloccare se è stata selezionata la modalità **[!UICONTROL Content locking]**:
 
    * [Scopri come bloccare le strutture](#lock-structures)
    * [Scopri come bloccare i componenti](#lock-components)
 
-   Se hai scelto la modalità **[!UICONTROL Sola lettura]**, puoi procedere con la finalizzazione e il salvataggio del modello.
+   Se si sceglie la modalità **[!UICONTROL Read only]**, è possibile procedere con la finalizzazione e il salvataggio del modello.
 
-Puoi modificare le impostazioni di **[!UICONTROL Governance]** in qualsiasi momento durante la progettazione del modello selezionando il corpo del modello. A tale scopo, fai clic sul collegamento **[!UICONTROL Corpo]** nella barra di navigazione nella parte superiore del riquadro a destra.
+È possibile modificare le impostazioni di **[!UICONTROL Governance]** in qualsiasi momento durante la progettazione del modello selezionando il corpo del modello. A tale scopo, fare clic sul collegamento **[!UICONTROL Body]** nella barra di navigazione nella parte superiore del riquadro a destra.
 
 ![](assets/content-locking-2.png){width="800" zoomable="yes"}
 
@@ -74,21 +75,21 @@ Per bloccare una struttura all’interno del modello:
 
 1. Seleziona la struttura da bloccare.
 
-1. Nell&#39;elenco a discesa **[!UICONTROL Blocca tipo]** scegliere **[!UICONTROL Bloccato]**.
+1. Nell&#39;elenco a discesa **[!UICONTROL Lock type]**, scegliere **[!UICONTROL Locked]**.
 
    ![](assets/content-locking-3.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, gli utenti non possono eliminare le strutture bloccate. È possibile annullare questa restrizione abilitando l’opzione **[!UICONTROL Consenti eliminazione]**.
+   >Per impostazione predefinita, gli utenti non possono eliminare le strutture bloccate. È possibile ignorare questa restrizione abilitando l&#39;opzione **[!UICONTROL Allow delete]**.
 
 Dopo aver bloccato una struttura, non è più possibile duplicare o aggiungere altri componenti o frammenti di contenuto al suo interno. Anche tutti i componenti all’interno di una struttura bloccata vengono bloccati per impostazione predefinita. Per rendere modificabile un componente all’interno di una struttura bloccata:
 
 1. Seleziona il componente da sbloccare.
 
-1. Abilita l&#39;opzione **[!UICONTROL Usa blocco specifico]**.
+1. Abilitare l&#39;opzione **[!UICONTROL Use specific locking]**.
 
-1. Nell&#39;elenco a discesa **[!UICONTROL Blocca tipo]** scegliere **[!UICONTROL Modificabile]**. Per consentire la modifica del contenuto durante il blocco degli stili, selezionare **[!UICONTROL Solo contenuto modificabile]**. [Scopri come bloccare i componenti](#lock-components)
+1. Nell&#39;elenco a discesa **[!UICONTROL Lock type]**, scegliere **[!UICONTROL Editable]**. Per consentire la modifica del contenuto durante il blocco degli stili, selezionare **[!UICONTROL Editable content only]**. [Scopri come bloccare i componenti](#lock-components)
 
    ![](assets/content-locking-4.png){width="800" zoomable="yes"}
 
@@ -96,24 +97,24 @@ Dopo aver bloccato una struttura, non è più possibile duplicare o aggiungere a
 
 Per bloccare un componente specifico all’interno di una struttura:
 
-1. Selezionare il componente e abilitare l&#39;opzione **[!UICONTROL Usa blocco specifico]** nel riquadro di destra.
+1. Selezionare il componente e abilitare l&#39;opzione **[!UICONTROL Use specific locking]** nel riquadro di destra.
 
-1. Dall&#39;elenco a discesa **[!UICONTROL Blocca tipo]**, selezionare l&#39;opzione di blocco preferita:
+1. Dall&#39;elenco a discesa **[!UICONTROL Lock type]**, selezionare l&#39;opzione di blocco preferita:
 
    ![](assets/content-locking-5.png){width="800" zoomable="yes"}
 
-   * **[!UICONTROL Solo blocco contenuto modificabile]**: blocca gli stili del componente ma consente la modifica del contenuto.
-   * **[!UICONTROL Bloccato]**: blocco completo del contenuto e degli stili del componente.
+   * **[!UICONTROL Editable content lock only]**: blocca gli stili del componente ma consente la modifica del contenuto.
+   * **[!UICONTROL Locked]**: blocco completo del contenuto e degli stili del componente.
 
    >[!NOTE]
    >
-   >Il tipo di blocco **[!UICONTROL Modificabile]** consente agli utenti di modificare un componente, anche all&#39;interno di una struttura bloccata. [Scopri come bloccare le strutture](#lock-structures)
+   >Il tipo di blocco **[!UICONTROL Editable]** consente agli utenti di modificare un componente, anche all&#39;interno di una struttura bloccata. [Scopri come bloccare le strutture](#lock-structures)
 
-1. Per impostazione predefinita, gli utenti non possono eliminare i componenti bloccati. È possibile abilitare l&#39;eliminazione attivando l&#39;opzione **[!UICONTROL Consenti eliminazione]**.
+1. Per impostazione predefinita, gli utenti non possono eliminare i componenti bloccati. È possibile abilitare l&#39;eliminazione attivando l&#39;opzione **[!UICONTROL Allow delete]**.
 
 ### Identificare il contenuto bloccato {#identify-locked-content}
 
-Per identificare facilmente le strutture e i componenti bloccati all&#39;interno del modello, utilizzare la **[!UICONTROL struttura di spostamento]** disponibile nel menu a sinistra. Questo menu fornisce una panoramica visiva di tutti gli elementi del modello, evidenziando gli elementi bloccati con un’icona a forma di lucchetto e gli elementi modificabili con un’icona a forma di matita.
+Per identificare facilmente le strutture e i componenti bloccati all&#39;interno del modello, utilizzare **[!UICONTROL Navigation tree]** che si trova nel menu a sinistra. Questo menu fornisce una panoramica visiva di tutti gli elementi del modello, evidenziando gli elementi bloccati con un’icona a forma di lucchetto e gli elementi modificabili con un’icona a forma di matita.
 
 Nell’esempio seguente, la governance è abilitata per il corpo del modello. *La struttura 2* è bloccata con *Il componente 1* è modificabile, mentre *La struttura 3* è completamente bloccata.
 
@@ -121,9 +122,9 @@ Nell’esempio seguente, la governance è abilitata per il corpo del modello. *L
 
 ## Utilizzare modelli con contenuti bloccati {#use-templates-with-locked-content}
 
-Quando si utilizza un modello con contenuto bloccato, nel riquadro di destra viene visualizzato il messaggio **[!UICONTROL Governance abilitata]**.
+Quando si utilizza un modello con contenuto bloccato, il messaggio **[!UICONTROL Governance enabled]** viene visualizzato nel riquadro di destra.
 
-A seconda del tipo di blocco applicato al modello, è possibile eseguire azioni diverse sulle strutture e sui componenti del modello. Per identificare rapidamente tutte le aree modificabili all&#39;interno del modello, abilita l&#39;opzione **[!UICONTROL Evidenzia aree modificabili]**.
+A seconda del tipo di blocco applicato al modello, è possibile eseguire azioni diverse sulle strutture e sui componenti del modello. Per identificare rapidamente tutte le aree modificabili nel modello, abilitare l&#39;opzione **[!UICONTROL Highlight editable areas]**.
 
 Ad esempio, nel modello seguente, tutte le aree sono modificabili, ad eccezione dell’immagine superiore che è stata bloccata, il che significa che non è possibile modificarla o rimuoverla.
 
