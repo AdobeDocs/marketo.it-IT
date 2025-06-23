@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 2dc4a0db97f8c7c3e5eee2456da9831ccd6f79cf
 workflow-type: tm+mt
-source-wordcount: '916'
+source-wordcount: '913'
 ht-degree: 9%
 
 ---
@@ -173,6 +173,12 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile</td>
   </tr>
   <tr>
+    <td>Integrazione Litmus</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrare con Litmus</a> per vedere come verranno riprodotti i messaggi e-mail nei diversi client e-mail.</td>
+    <td>Non disponibile</td>
+    <td>Disponibile</td>
+  </tr>
+  <tr>
     <td>Editor Personalization</td>
     <td>Possibilità di personalizzare il contenuto nelle e-mail utilizzando i token.</td>
     <td>Disponibile</td>
@@ -253,12 +259,6 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
    <tr>
     <td>Script Handlebar</td>
     <td>Possibilità di utilizzare gli script Handlebar nelle e-mail.</td>
-    <td>Non disponibile</td>
-    <td>Pianificato per il terzo trimestre '25</td>
-  </tr>
-  <tr>
-    <td>Integrazione Litmus</td>
-    <td>Possibilità di integrazione con Litmus per vedere come verranno riprodotti i messaggi e-mail nei diversi client e-mail.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il terzo trimestre '25</td>
   </tr>
