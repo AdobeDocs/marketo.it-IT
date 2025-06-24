@@ -4,7 +4,7 @@ description: Creazione di campagne secondarie e Assets locale - Documentazione d
 title: Creazione di campagne secondarie e Assets locale
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 1%
@@ -50,7 +50,7 @@ Utilizza Marketo per inviare l’e-mail di conferma per l’evento. Quando una p
 
 >[!TIP]
 >
->Puoi configurare ON24 per inviare conferme, promemoria o e-mail di follow-up. Per ulteriori informazioni, visitare il sito della Guida [ON24](https://www.on24.com/live-webcast-elite/){target="_blank"}.
+>Puoi configurare ON24 per inviare conferme, promemoria o e-mail di follow-up. Per ulteriori informazioni, visitare il sito della Guida [ON24](https://support.on24.com/hc/en-us/categories/26127314569115-Webcast-Elite){target="_blank"}.
 
 ## Requisiti della campagna secondaria di registrazione {#registration-child-campaign-requirements}
 

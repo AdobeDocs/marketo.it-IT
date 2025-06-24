@@ -4,9 +4,9 @@ description: Descrizioni delle autorizzazioni per il ruolo - Documentazione di M
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: c79de5b87d75c26aeec5f8d39252dc303dabeac8
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '1448'
+source-wordcount: '1447'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 
 * Accedere ad Adobe Connect: consente agli utenti di accedere alla schermata Adobe Connect
 * Accedi a Adobe Experience Manager&#42; - Consente agli utenti di accedere alla schermata Adobe Experience Manager
-* Accedi a Mapping organizzazione Adobe&#42; - Consente agli utenti di accedere alla schermata Mapping organizzazione Adobe
+* Accedi a Mapping organizzazione Adobe&#42;: consente agli utenti di accedere alla schermata Mapping organizzazione Adobe
 * Accesso Admin Audit Trail&#42; - Consente agli utenti di accedere alla schermata Admin Audit Trail
 * Accesso alla prova di verifica dell&#39;accesso&#42; - Consente agli utenti di accedere alla prova di verifica dell&#39;accesso
 * Accedi a Audit Trail: consente agli utenti di accedere sia ad Asset Audit Trail che ad Admin Audit Trail
@@ -41,10 +41,10 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accesso ai canali: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
 * Limite di comunicazione di accesso: consente agli utenti di abilitare un limite di comunicazione in Admin
 * Accesso al CRM - Consente agli utenti di accedere al CRM, ad esempio [!DNL Salesforce] o [!DNL Microsoft Dynamics], in Admin
-* Accesso [[!DNL Data.com]](https://data.com) - Consente agli utenti di accedere all&#39;azione di flusso Data.com
+* Accesso a `Data.com`: consente agli utenti di accedere all&#39;azione di flusso Data.com
 * Accedi a Amministrazione e-mail: consente agli utenti di accedere a Amministrazione e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
 * Accesso ai partner eventi: consente agli utenti di accedere a LaunchPoint in Admin
-* Accedere a Condivisione pubblico di Experience Cloud: consente agli utenti di sincronizzare un pubblico da Adobe Experience Cloud al Marketo Engage
+* Accedere ad Experience Cloud Audience Sharing - Consente agli utenti di sincronizzare un pubblico da Adobe Experience Cloud a Marketo Engage
 * Accesso alla gestione dei campi: consente agli utenti di accedere alla gestione dei campi in Admin
 * Caricamento file di accesso: consente agli utenti di caricare immagini e file in Design Studio
 * Accedere alle pagine di destinazione: consente agli utenti di accedere alle pagine di destinazione in Admin
@@ -58,10 +58,10 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accedi a Predictive Audiences&#42; - Consente agli utenti di accedere alla schermata Predictive Audiences
 * Accedere ad Analytics per il ciclo dei ricavi: consente agli utenti di accedere ad Analytics per il ciclo dei ricavi in Admin, per impostare Riepilogo sincronizzazione e Attribuzione
 * Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
-* Accedi a Sales Insight: consente agli utenti di gestire Sales Insight in Admin (Amministrazione) per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni
+* Accesso a Sales Insight: consente agli utenti di gestire Sales Insight in Admin (Amministrazione) per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni
 * Accesso Single Sign-on: consente agli utenti di gestire il Single Sign-On in Admin, per abilitare SAML e lavorare con le impostazioni SAML e gli URL di pagina di reindirizzamento
 * Accedi a Smart Campaign: consente agli utenti di accedere a Smart Campaign in Admin, per limitare i limiti alle persone qualificate
-* Accesso all’API SOAP: consente agli utenti di gestire le API SOAP nei servizi web in Admin
+* Accedere all’API di SOAP: consente agli utenti di gestire le API di SOAP nei servizi web in Admin
 * Accedi ai tag: consente agli utenti di accedere a tutti i tag personalizzati eccetto il tag Canale
 * Accedi a Treasure Chest: consente agli utenti di accedere alle funzioni sperimentali di Treasure Chest in Admin
 * Accesso agli utenti: consente agli utenti di modificare e gestire gli utenti (ma non i ruoli) in Amministratore
@@ -108,11 +108,11 @@ Consente agli utenti di accedere alle schede di Analytics, a Informazioni e-mail
 
 _&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
-## Accedi a Calendar Presentations {#access-calendar-presentations}
+## Accedere alle presentazioni del calendario {#access-calendar-presentations}
 
-Consente agli utenti di accedere alle presentazioni del Calendario: consente la visualizzazione del pulsante Presentations nella parte inferiore.
+Consente agli utenti di accedere alle presentazioni del Calendario: consente la visualizzazione del pulsante Presentazioni nella parte inferiore.
 
-* Modifica calendario Presentations: consente agli utenti di modificare le presentazioni nel calendario
+* Modifica presentazioni calendario: consente agli utenti di modificare le presentazioni nel calendario
 
 ## Accedere a Design Studio {#access-design-studio}
 

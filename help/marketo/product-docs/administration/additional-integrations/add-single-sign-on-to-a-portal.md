@@ -4,9 +4,9 @@ description: Aggiunta del Single Sign-On a un portale - Documentazione Marketo -
 title: Aggiungere il Single Sign-On a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 573a40c7d2ee7329d82d209bfefc284497295239
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!IMPORTANT]
 >
->Questo non si applica alle sottoscrizioni a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. Al momento, Adobe Admin Console supporta solo gli SP avviati. [Ulteriori informazioni](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
+>Questo non si applica agli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. Al momento, Adobe Admin Console supporta solo gli SP avviati. [Ulteriori informazioni](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Sei un utente di [!DNL Microsoft Azure]? Consulta la loro [esercitazione sull&#39;integrazione](https://azure.microsoft.com/en-us/documentation/articles/active-directory-saas-marketo-tutorial/){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato di inoltro su `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
+>Sei un utente di [!DNL Microsoft Azure]? Consulta la loro [esercitazione sull&#39;integrazione](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato di inoltro su `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## Come inviare la richiesta {#how-to-send-the-request}
 
@@ -59,53 +59,53 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configurarlo, segui la procedura riportata di seguito.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 
-1. Fare clic su **[!UICONTROL Single Sign-On]**.
+1. Fai clic su **[!UICONTROL Single Sign-On]**.
 
    ![](assets/add-single-sign-on-to-a-portal-2.png)
 
    >[!NOTE]
    >
-   >Se non trovi **[!UICONTROL Single Sign-On]** in **[!UICONTROL Admin]**, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Se non vedi **[!UICONTROL Single Sign-On]** in **[!UICONTROL Admin]**, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Nella sezione **[!UICONTROL Impostazioni SAML]** fare clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL SAML Settings]** fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-3.png)
 
-1. Cambia **[!UICONTROL Single Sign-On]** SAML in **[!UICONTROL Abilitato]**.
+1. Cambia **[!UICONTROL SAML Single Sign-On]** in **[!UICONTROL Enabled]**.
 
    ![](assets/add-single-sign-on-to-a-portal-4.png)
 
-1. Immetti il tuo **[!UICONTROL ID emittente]**, **[!UICONTROL ID entità]**, seleziona il **[!UICONTROL Percorso ID utente]**, quindi fai clic su **[!UICONTROL Sfoglia]**.
+1. Immetti **[!UICONTROL Issuer ID]**, **[!UICONTROL Entity ID]**, seleziona **[!UICONTROL User ID Location]**, quindi fai clic su **[!UICONTROL Browse]**.
 
    ![](assets/add-single-sign-on-to-a-portal-5.png)
 
-1. Selezionare il file del **[!UICONTROL certificato provider di identità]**.
+1. Selezionare il file **[!UICONTROL Identity Provider Certificate]**.
 
    ![](assets/add-single-sign-on-to-a-portal-6.png)
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-7.png)
 
 ## Aggiorna impostazioni pagina di reindirizzamento {#update-redirect-page-settings}
 
-1. Nella sezione **[!UICONTROL Pagine di reindirizzamento]**, fai clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL Redirect Pages]** fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/add-single-sign-on-to-a-portal-8.png)
 
    >[!NOTE]
    >
-   >I clienti che utilizzano Universal ID insieme all&#39;SSO devono immettere l&#39;URL di accesso del provider di identità nel campo **[!UICONTROL URL di accesso]**.
+   >I clienti che utilizzano Universal ID insieme all&#39;SSO devono immettere l&#39;URL di accesso del provider di identità nel campo **[!UICONTROL Login URL]**.
 
-1. Immetti un **[!UICONTROL URL di disconnessione]**. Questo è l’URL a cui desideri che l’utente venga indirizzato quando esce da Marketo.
+1. Immetti **[!UICONTROL Logout URL]**. Questo è l’URL a cui desideri che l’utente venga indirizzato quando esce da Marketo.
 
    ![](assets/add-single-sign-on-to-a-portal-9.png)
 
-1. Immetti un **[!UICONTROL URL errore]**. Questo è l’URL a cui desideri indirizzare l’utente nel caso in cui l’accesso a Marketo non riesca. Fai clic su **[!UICONTROL Salva]**.
+1. Immetti un **[!UICONTROL Error URL]**. Questo è l’URL a cui desideri indirizzare l’utente nel caso in cui l’accesso a Marketo non riesca. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-single-sign-on-to-a-portal-10.png)
 

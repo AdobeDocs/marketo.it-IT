@@ -4,7 +4,7 @@ short-description: Scopri i termini di Marketo Engage e le relative definizioni 
 title: Glossario di Marketo Engage
 feature: Getting Started
 exl-id: 57b60323-fe4a-4de1-898d-282e5aefd3ed
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
 source-wordcount: '4065'
 ht-degree: 2%
@@ -244,7 +244,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">Un tipo di programma in Marketo. Un programma generico da utilizzare quando un programma di e-mail, evento o coinvolgimento non è rilevante. <br></td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Strategia e definizione</strong></td> 
+   <td colspan="1"><strong>Recapitabilità</strong></td> 
    <td colspan="1">La capacità di un messaggio e-mail di raggiungere la casella in entrata del destinatario, che può essere interessata da <strong>spam</strong> e filtri lato client. Diverso da "Consegnato", che indica solo che l’e-mail è stata consegnata al server del destinatario.</td> 
   </tr> 
   <tr> 
@@ -444,7 +444,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona nota</strong></a></td> 
-   <td><p>Qualsiasi dato di persona nel <strong>database</strong> di Marketo è considerato un dato di persona noto. Esistono diversi modi per consentire a un utente di accedere al database, tra cui: sincronizzazione CRM, compilazione di un modulo, importazione elenco/immissione manuale, a livello di programmazione (integrazioni REST API/partner) e altro ancora. I visitatori Web inizialmente sono <strong>cookie</strong> (e sono anonimi) tramite il tracciamento Web di Marketo <strong>Munchkin</strong> e successivamente vengono mappati al corrispondente record persona nota quando si verifica un'azione identificabile (ad esempio, se si fa clic su un collegamento tracciato in un'e-mail di Marketo, si compila un modulo con il relativo indirizzo e-mail o si eseguono manualmente i mapping tramite le API lead di Marketo Associate sia in <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking#known-and-anonymous-leads">Munchkin</a> che in <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Qualsiasi dato di persona nel <strong>database</strong> di Marketo è considerato un dato di persona noto. Esistono diversi modi per consentire a un utente di accedere al database, tra cui: sincronizzazione CRM, compilazione di un modulo, importazione elenco/immissione manuale, a livello di programmazione (integrazioni REST API/partner) e altro ancora. I visitatori Web inizialmente sono <strong>cookie</strong> (e sono anonimi) tramite il tracciamento Web di Marketo <strong>Munchkin</strong> e successivamente vengono mappati al corrispondente record persona nota quando si verifica un'azione identificabile (ad esempio, se si fa clic su un collegamento tracciato in un'e-mail di Marketo, si compila un modulo con il relativo indirizzo e-mail o si eseguono manualmente i mapping tramite le API lead di Marketo Associate sia in <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> che in <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -460,7 +460,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   <tr> 
    <td> 
     <div> 
-     <p><strong>Landing Page</strong></p> 
+     <p><strong>Pagina di destinazione</strong></p> 
     </div></td> 
    <td>Pagina ospitata da Marketo che consente di visualizzare <strong>contenuto</strong> e tenere traccia dei visitatori. Esistono due tipi diversi: in formato libero e guidato. <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#free-form-pages" rel="nofollow">Le pagine di destinazione in formato libero</a> consentono di trascinare il contenuto desiderato ovunque. Le <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md#guided-pages" rel="nofollow">pagine di destinazione guidate</a> sono più rigorose, con un layout/struttura predefinito determinato dal <strong>modello</strong>.</td> 
   </tr> 
@@ -535,7 +535,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td>Noto anche come MSD. Uno dei due CRM Marketo ha un'integrazione nativa con (vedi <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking" rel="nofollow">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Codice di tracciamento JavaScript personalizzato di Marketo. Tiene traccia di tutti gli utenti che visitano il tuo sito web. Questo include i visitatori anonimi (insieme ai loro indirizzi IP e altre informazioni). </td> 
   </tr> 
   <tr> 

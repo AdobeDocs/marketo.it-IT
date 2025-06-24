@@ -4,9 +4,9 @@ description: Creare un pubblico personalizzato in Facebook - Documentazione di M
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} nella sezione Amministratore.
->* [Accetta i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account Facebook.
+>* [Aggiungi i tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} nella sezione Amministratore.
+>* [Accetta i termini di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account Facebook.
 
 >[!TIP]
 >
@@ -40,7 +40,7 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >L’API Facebook consente fino a 500 tipi di pubblico personalizzati per account annuncio Facebook.
+   >L’API di Facebook consente fino a 500 tipi di pubblico personalizzati per account pubblicitario di Facebook.
 
 1. Digita un **Nome pubblico**. Fai clic su **Aggiorna**.
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Se disponi di più account Facebook Ad, visualizzerai un elenco a discesa aggiuntivo che ti consente di scegliere in quale account annuncio viene creato questo pubblico.
+   >Se disponi di più account Facebook Ad, visualizzerai un elenco a discesa aggiuntivo che ti consente di scegliere in quale account annuncio viene creato il pubblico.
 
    >[!TIP]
    >
@@ -64,11 +64,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Tutti gli elenchi inviati a Facebook diventano statici. Gli elenchi avanzati in Marketo non aggiorneranno automaticamente l’elenco dei tipi di pubblico in Facebook in modo da riflettere le modifiche apportate dopo il trasferimento.
-
-   >[!TIP]
-   >
-   >Consulta il percorso di apprendimento di [Facebook per i clienti Marketo](https://facebook.exceedlms.com/student/enrollments/create_enrollment_from_token/BF9TqSaCvM73PP4ScjhCm4fi){target="_blank"}. Copre tutto ciò che devi sapere, dalla creazione di una pagina Facebook al targeting degli annunci Facebook utilizzando le integrazioni di rete di annunci Marketo.
+   >Tutti gli elenchi inviati a Facebook diventano statici. Gli elenchi avanzati in Marketo non aggiorneranno automaticamente l’elenco del pubblico in Facebook in modo da riflettere le modifiche apportate dopo il trasferimento.
 
    >[!MORELIKETHIS]
    >
