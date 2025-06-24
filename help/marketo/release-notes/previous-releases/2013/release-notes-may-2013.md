@@ -4,9 +4,9 @@ description: Note sulla versione - Maggio 2013 - Documentazione Marketo - Docume
 title: Note sulla versione - Maggio 2013
 exl-id: 7f1a22bc-56d8-4ebf-be15-fa1b46e37928
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Crea un file del calendario come My Token che può essere aggiunto alla pagina d
 
 ## Scheda Appartenenza al modello {#model-membership-tab}
 
-Visualizza tutti i dati del membro del modello in un&#39;unica posizione per monitorare e risolvere facilmente i problemi. La nuova scheda Membri è una vista di sola lettura disponibile quando si seleziona un modello del ciclo dei ricavi approvato.
+Visualizza tutti i dati del membro del modello in un&#39;unica posizione per monitorare e risolvere facilmente i problemi. La nuova scheda [!UICONTROL Members] è una visualizzazione di sola lettura disponibile quando si seleziona un modello di ciclo dei ricavi approvato.
 
 ![](assets/image2014-9-22-16-3a3-3a33.png)
 
@@ -35,6 +35,6 @@ La struttura ad albero delle azioni di flusso appena riorganizzata consente di t
 
 ## Azioni di flusso rinominate {#renamed-flow-actions}
 
-Modifica stato progressione è ora Modifica stato programma. Modifica dati programma è ora Modifica programma riuscita
+Modifica stato progressione è ora [!UICONTROL Change Program Status]. I dati del programma di modifica sono ora [!UICONTROL Change Program Success].
 
 ![](assets/image2014-9-22-16-3a4-3a17.png)

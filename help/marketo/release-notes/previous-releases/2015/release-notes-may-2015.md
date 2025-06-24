@@ -4,10 +4,10 @@ description: Note sulla versione - Maggio 2015 - Documenti Marketo - Documentazi
 title: Note sulla versione - Maggio 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -31,7 +31,7 @@ Hai premuto Invia prima che un programma e-mail fosse pronto per essere inviato?
 
 ## Recapito e-mail  {#email-deliverability}
 
-Marketo ora eseguirà controlli settimanali automatizzati SPF e DKIM sui domini aggiunti. Per continuare, controlla le notifiche.
+Marketo eseguirà ora [!DNL SPF] e [!DNL DKIM] controlli settimanali automatizzati sui domini aggiunti. Per continuare, controlla le notifiche.
 
 ## Modifica comportamento modello e-mail {#email-template-behavior-change}
 
@@ -43,8 +43,8 @@ RTP: [Trascina e rilascia l&#39;editor di segmenti](/help/marketo/product-docs/w
 
 Trascina e rilascia i criteri nel generatore di segmenti, definisci il valore e sei sulla strada giusta per creare un segmento in tempo reale.
 
-## RTP: Predictive Content Recommendations {#rtp-predictive-content-recommendations}
+## RTP: consigli sui contenuti predittivi {#rtp-predictive-content-recommendations}
 
-[Predictive Content Recommendations](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
+[Consigli sui contenuti predittivi](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md)
 
 Utilizza gli algoritmi di apprendimento automatico e di analisi predittiva di RTP per consigliare i contenuti giusti al potenziale cliente. Migliora visivamente le risorse di contenuto con immagini e descrizioni di testo e consiglia più di una risorsa di contenuto.

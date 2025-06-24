@@ -4,9 +4,9 @@ description: Note sulla versione -Aprile 2015 - Documentazione Marketo - Documen
 title: Note sulla versione - Aprile 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Le seguenti funzioni sono incluse nella versione di aprile 2015. Per informazion
 >
 >Questa funzione verrà rilasciata martedì 28 aprile.
 
-La nuova [home page di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente l&#39;accesso rapido per l&#39;esecuzione di report ad hoc tra i tipi di report disponibili.
+La nuova home page [[!UICONTROL Analytics]](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md) consente l&#39;accesso rapido per l&#39;esecuzione di report ad hoc tra i tipi di report disponibili.
 
 ![](assets/image2015-4-20-11-3a18-3a8.png)
 
-Inoltre, è ora disponibile l’organizzazione di rapporti privata e condivisa. Crea o trascina i report nella cartella I miei report per impedirne la visualizzazione, la modifica o l’eliminazione da parte di altri utenti. I report del gruppo sono condivisi tra tutti gli utenti.
+Inoltre, è ora disponibile l’organizzazione di rapporti privata e condivisa. Crea o trascina i report nella cartella [!UICONTROL My Reports] per impedirne la visualizzazione, la modifica o l&#39;eliminazione da parte di altri utenti. [!UICONTROL Group Reports] è condiviso tra tutti gli utenti.
 
 ## Marketo Mobile Engagement {#marketo-mobile-engagement}
 
@@ -37,17 +37,17 @@ Con Marketo Mobile Engagement, offrire esperienze mobili coinvolgenti è facile.
 
 ![](assets/image2015-4-20-11-3a16-3a55.png)
 
-## Integrazione di linkedIn Lead Accelerator
+## Integrazione di [!DNL LinkedIn] Lead Accelerator
 
-[Integrazione di linkedIn Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
+[Integrazione di [!DNL LinkedIn] Lead Accelerator](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)
 
-Estendi la tua strategia di sviluppo del lead alla visualizzazione a pagamento e agli annunci social. L&#39;[integrazione della rete di annunci](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con LinkedIn Lead Accelerator consente di creare in modo sicuro un segmento di pubblico in LinkedIn in base ai membri di qualsiasi elenco smart o statico. I membri all’interno di un segmento di pubblico di LinkedIn possono quindi essere nutriti con una sequenza di annunci rilevanti.
+Estendi la tua strategia di sviluppo del lead alla visualizzazione a pagamento e agli annunci social. L&#39;integrazione di rete [ad](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md) con [!DNL LinkedIn] Lead Accelerator consente di creare in modo sicuro un segmento di pubblico in [!DNL LinkedIn] in base ai membri di qualsiasi elenco smart o statico. I membri all&#39;interno di un segmento di pubblico [!DNL LinkedIn] possono quindi essere nutriti con una sequenza di annunci rilevanti.
 
 ![](assets/image2015-4-20-11-3a3-3a27.png)
 
-## Marketo Sales Insight per Salesforce1 {#marketo-sales-insight-for-salesforce}
+## Marketo [!DNL Sales Insight] per [!DNL Salesforce1] {#marketo-sales-insight-for-salesforce}
 
-Le funzionalità di Sales Insight preferite - feed di lead, best bets, momenti interessanti e add to Marketo Campaign - sono disponibili nell’app Salesforce1.
+Le tue caratteristiche preferite di [!DNL Sales Insight] - feed di lead, best bets, momenti interessanti e aggiungi a Marketo Campaign - sono tutte disponibili nell&#39;app [!DNL Salesforce1].
 
 ![](assets/image2015-4-20-11-3a11-3a37.png) ![](assets/image2015-4-20-11-3a15-3a16.png)
 

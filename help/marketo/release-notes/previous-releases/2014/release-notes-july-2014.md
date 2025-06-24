@@ -4,9 +4,9 @@ description: Note sulla versione - Luglio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le seguenti funzioni sono incluse nella versione di luglio 2014. Per informazion
 
 ## Calendario di marketing {#marketing-calendar}
 
-Visualizza tutti gli eventi, le e-mail e altro nei vari programmi. [Questo nuovo prodotto](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sarà disponibile gratuitamente per i clienti con un massimo di 10 utenti Marketo Lead Management o Dialog.
+Visualizza tutti gli eventi, le e-mail e altro nei vari programmi. [Questo nuovo prodotto](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sarà disponibile gratuitamente per i clienti con un massimo di 10 [!DNL Marketo Lead Management] o utenti Dialog.
 
 ![](assets/image2014-9-22-14-3a22-3a27.png)
 
@@ -27,11 +27,11 @@ La documentazione sul calendario di marketing sarà disponibile al momento del r
 
 ![](assets/image2014-9-22-14-3a22-3a47.png)
 
-Marketo Lead Management verrà aggiornato con un nuovo look and feel, moderno ed elegante, e include una navigazione aggiornata.
+[!DNL Marketo Lead Management] verrà aggiornato con un nuovo aspetto moderno ed elegante e include una navigazione aggiornata.
 
 ## Operatori data {#date-operators}
 
-[Filtri avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) per &quot;prima&quot;, &quot;in futuro&quot; e &quot;dopo&quot;. Ad esempio, trova i lead con una data di nascita nei successivi 3 mesi o un contratto che scade dopo 6 mesi.
+[Filtri avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/smart-list-filter-operators-glossary.md) per &quot;[!UICONTROL in past before]&quot;, &quot;[!UICONTROL in future]&quot; e &quot;[!UICONTROL in future after]&quot;. Ad esempio, trova i lead con una data di nascita nei successivi 3 mesi o un contratto che scade dopo 6 mesi.
 
 ![](assets/image2014-9-22-14-3a23-3a56.png)
 
@@ -45,9 +45,9 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 * Nuove Date Provvisorie - matita!
 * Tipi di voce personalizzati - Da fare, Comunicato stampa, tutto ciò che si desidera
 
-## Elencare operazioni nell’API ReST {#list-operations-in-the-rest-api}
+## Elencare le operazioni nell’API REST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -64,7 +64,7 @@ L’opzione &quot;Ignora nuovi lead e aggiornamenti&quot; rimane invariata.
 
 Il rollout sarà messo in scena a partire da metà luglio e continuerà per diversi mesi.
 
-* Rimuove la dipendenza jQuery per compatibilità completa e futura
+* Rimuove la dipendenza [!DNL jQuery] per compatibilità completa e futura
 * Più compatibile con altri JavaScript sul tuo sito
 * Completamente testato su molti siti nel corso dell&#39;ultimo anno!
 
@@ -78,10 +78,10 @@ La pagina Imposta campagna RTP ora [include modelli già pronti](/help/marketo/p
 
 ## RTP: miglioramenti API di JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
 ## RTP: supporto di HTML5 nell’editor di contenuti di Campaign {#rtp-html-support-in-campaign-content-editor}
 
-L’editor WYSIWYG dei contenuti nella pagina Imposta campagne ora è completamente compatibile con HTML 5. Fai clic sull’icona &quot;HTML&quot; all’interno dell’editor per inserire un codice HTML5.
+L’editor di contenuti WYSIWYG nella pagina Imposta campagne ora è completamente compatibile con HTML5. Fai clic sull’icona &quot;HTML&quot; all’interno dell’editor per inserire un codice HTML5.

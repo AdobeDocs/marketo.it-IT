@@ -4,9 +4,9 @@ description: Note sulla versione -Settembre 2013 - Documentazione Marketo - Docu
 title: Note sulla versione - Settembre 2013
 exl-id: 43428813-0405-4c35-9165-f189fbb5ffb7
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -31,15 +31,15 @@ Utilizza i dati provenienti da oggetti personalizzati di Marketo o aggiungi una 
 
 L’azione Invia test è stata rinominata Invia campione
 
-## E-mail di esempio per invio personalizzato {#personalized-send-sample-email}
+## Personalizzato [!UICONTROL Send Sample Email] {#personalized-send-sample-email}
 
 Quando invii un esempio di e-mail, puoi selezionare il nome di un lead per personalizzare l’e-mail di esempio.
 
 ![](assets/image2014-9-22-17-3a11-3a22.png)
 
-## Sincronizzazione campi aggiuntiva per webinar GoTo {#additional-field-sync-for-gotowebinar}
+## Sincronizzazione campi aggiuntivi per [!DNL GoToWebinar] {#additional-field-sync-for-gotowebinar}
 
-Puoi sincronizzare il nome della società e la posizione lavorativa dal modulo Marketo al webinar GoTo. Per abilitare questi campi aggiuntivi, passare a Partner eventi e selezionare &quot;Abilita campi aggiuntivi&quot;.
+È possibile sincronizzare il nome della società e la posizione lavorativa dal modulo Marketo a [!DNL GoToWebinar]. Per abilitare questi campi aggiuntivi, passare a Partner eventi e selezionare &quot;Abilita campi aggiuntivi&quot;.
 
 ![](assets/image2014-9-22-17-3a11-3a53.png)
 
@@ -53,13 +53,13 @@ I file caricati in Design Studio vengono analizzati e bloccati automaticamente s
 
 ## Analizzatore influenza opportunità di esportazione {#export-opportunity-influence-analyzer}
 
-Ora puoi esportare i dati in Opportunity Influence Analyzer (Analisi influenza opportunità) in Excel. Ogni file Excel esportato contiene tutte le interazioni di marketing per tutti i lead (inclusi quelli senza un ruolo nell’opportunità) nonché tutte le opportunità nell’account selezionato nell’analizzatore. Le righe dell’opportunità sono evidenziate in verde. Puoi utilizzare le funzionalità native di filtro dei dati di Excel se devi concentrarti su lead specifici o attività di marketing.
+È ora possibile esportare i dati in Analisi influenza opportunità in [!DNL Excel]. Ogni file [!DNL Excel] esportato contiene tutte le interazioni di marketing per tutti i lead (inclusi quelli senza un ruolo nell&#39;opportunità) nonché tutte le opportunità nell&#39;account selezionato nell&#39;analizzatore. Le righe dell’opportunità sono evidenziate in verde. Puoi utilizzare le funzionalità native di filtro dei dati di [!DNL Excel] se devi concentrarti su lead specifici o attività di marketing.
 
 ![](assets/image2014-9-22-17-3a12-3a23.png)
 
 ## Impostazioni di attribuzione programma {#program-attribution-settings}
 
-Puoi modificare il modo in cui Marketo collega contatti e opportunità per le metriche di attribuzione di primo e più contatti, inclusa la possibilità di eseguire l’attribuzione basata sull’account. Queste impostazioni avranno un impatto sulle metriche di attribuzione nei rapporti di Revenue Explorer nelle aree Analisi opportunità del programma e Analisi opportunità. Questo influirà anche sulle metriche di attribuzione in Analisi programma.
+Puoi modificare il modo in cui Marketo collega contatti e opportunità per le metriche di attribuzione di primo e più contatti, inclusa la possibilità di eseguire l’attribuzione basata sull’account. Queste impostazioni avranno un impatto sulle metriche di attribuzione nei rapporti [!UICONTROL Revenue Explorer] nell&#39;area Analisi opportunità del programma e nell&#39;area Analisi opportunità. Questo influirà anche sulle metriche di attribuzione in Analisi programma.
 
 È possibile modificare le impostazioni di attribuzione del programma in una delle tre opzioni disponibili. La modifica di questa impostazione non comporta la modifica di dati Marketo o CRM, ma semplicemente modifica il modo in cui vengono eseguiti i rapporti e può essere ripristinato in qualsiasi momento.
 
@@ -67,9 +67,9 @@ L&#39;impostazione Esplicita esaminerà solo i contatti con i ruoli (comportamen
 
 ![](assets/image2014-9-22-17-3a12-3a43.png)
 
-## Informazioni sulle vendite disponibili in francese e tedesco (solo Salesforce) {#sales-insight-available-in-french-and-german-salesforce-only}
+## [!UICONTROL Sales Insight] disponibile in francese e tedesco (solo [!DNL Salesforce]) {#sales-insight-available-in-french-and-german-salesforce-only}
 
-Scarica la versione più recente di Marketo Lead Management e Marketo Sales Insight da AppExchange per consentire ai venditori francesi e tedeschi di visualizzare i contenuti di Sales Insight nella lingua preferita.
+Scarica la versione più recente di Marketo Lead Management e Marketo [!UICONTROL Sales Insight] da [!DNL AppExchange] per consentire ai venditori francesi e tedeschi di visualizzare il contenuto di [!UICONTROL Sales Insight] nella lingua preferita.
 
 ![](assets/image2014-9-22-17-3a13-3a12.png)
 

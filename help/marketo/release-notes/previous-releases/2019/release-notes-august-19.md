@@ -4,9 +4,9 @@ description: Note sulla versione -19 agosto - Documentazione Marketo - Documenta
 title: Note sulla versione di Marketing Cloud
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '327'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
 **Account-Based Marketing** ![(stella)](assets/yellow-star.png)
 
-* **Corrispondenza account LinkedIn**, in precedenza in versione beta, è ora generalmente disponibile.
+* La corrispondenza dell&#39;account **[!DNL LinkedIn]**, precedentemente in versione beta, è ora generalmente disponibile.
 * È in corso il rebranding ufficiale di **AccountAI** come **profilazione account**.
 
 <br> 
@@ -36,7 +36,7 @@ Le seguenti funzionalità sono state rilasciate il 16 agosto 2019.
 
 Le seguenti funzionalità sono presentate in un ciclo non trimestrale e saranno rilasciate durante il terzo trimestre del calendario e all’inizio del quarto trimestre del 2019.
 
-**Marketo Sales Connect** ![(stella)](assets/yellow-star.png)
+**[!DNL Marketo Sales Connect]** ![(stella)](assets/yellow-star.png)
 
 * **Miglioramento del layout della pagina Persone:** Gestisci persone e gruppi tramite le importazioni di elenchi e le azioni collettive nel nuovo layout della pagina Persone.
 
@@ -46,8 +46,8 @@ Le seguenti funzionalità sono presentate in un ciclo non trimestrale e saranno 
 
 >[!NOTE]
 >
->**Deprecazione di TLS 1.0 e 1.1**: per allinearsi allo standard di livello mondiale Adobe per la sicurezza, a partire dal 13 dicembre 2019 verrà dichiarato obsoleto il supporto per TLS (Transport Layer Security) 1.0 e 1.1. I sistemi che si integrano con Marketo non conformi al protocollo 1.2 potrebbero perdere l&#39;accesso ai servizi di Marketo Engage.
+>**Deprecazione di TLS 1.0 e 1.1**: per allinearsi allo standard di livello mondiale di Adobe per la sicurezza, a partire dal 13 dicembre 2019 il supporto per TLS (Transport Layer Security) 1.0 e 1.1 verrà dichiarato obsoleto. I sistemi che si integrano con Marketo non conformi al protocollo 1.2 potrebbero perdere l’accesso ai servizi Marketo Engage.
 >
->**Per mantenere l&#39;accesso al Marketo Engage, verificare che tutti i sistemi client siano conformi a TLS 1.2 prima del 13 dicembre 2019**. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
+>**Per mantenere l&#39;accesso a Marketo Engage, verificare che tutti i sistemi client siano conformi a TLS 1.2 prima del 13 dicembre 2019**. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
 **_Webinar sulla versione del prodotto_** [Unisciti a noi](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 13:00 PT / 16:00 ET per un webinar live ospitato dal nostro team di prodotto e ulteriori informazioni sulle funzioni incluse in questa versione.

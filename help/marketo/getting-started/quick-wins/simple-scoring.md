@@ -4,9 +4,9 @@ description: Punteggio semplice - Documentazione di Marketo - Documentazione del
 title: Punteggio semplice
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ ht-degree: 0%
 
 ## Passaggio 1: creare una campagna punteggio {#step-create-a-scoring-campaign}
 
-1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/simple-scoring-1.png)
 
-1. Fai clic con il pulsante destro del mouse sulla cartella **Apprendimento** e fai clic su **[!UICONTROL Nuova cartella campagne]**.
+1. Fare clic con il pulsante destro del mouse sulla cartella **Apprendimento** e scegliere **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/simple-scoring-2.png)
 
-1. Denomina la cartella della campagna &quot;Punteggio&quot; e fai clic su **[!UICONTROL Crea]**.
+1. Denomina la cartella della campagna &quot;Punteggio&quot; e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/simple-scoring-3.png)
 
@@ -36,21 +36,21 @@ ht-degree: 0%
    >
    >Se disponi già di una cartella Punteggio, assegna a questa un nome diverso, ad esempio Punteggio 1. I nomi delle cartelle devono essere univoci.
 
-1. Fai clic con il pulsante destro del mouse sulla cartella **Punteggio** e seleziona **[!UICONTROL Nuova campagna avanzata]**.
+1. Fai clic con il pulsante destro del mouse sulla cartella **Punteggio** e seleziona **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/simple-scoring-4.png)
 
-1. Denomina la campagna &quot;Punteggio di modifica&quot; e fai clic su **[!UICONTROL Crea]**.
+1. Denomina la campagna &quot;Change Score&quot; e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/simple-scoring-5.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Elenco avanzato]**.
+1. Fare clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/simple-scoring-6.png)
 
    Vogliamo che questa campagna venga eseguita ogni volta che una persona compila il **modulo di richiesta di prova**.
 
-1. Trova e trascina il trigger **[!UICONTROL Compila modulo]** nell&#39;area di lavoro a sinistra.
+1. Trovare e trascinare il trigger **[!UICONTROL Fills Out Form]** nell&#39;area di lavoro a sinistra.
 
    ![](assets/simple-scoring-7.png)
 
@@ -62,15 +62,15 @@ ht-degree: 0%
    >
    >Se hai completato la [pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vinto rapidamente, dovresti disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
-1. Fare clic sulla scheda **[!UICONTROL Flusso]**.
+1. Fare clic sulla scheda **[!UICONTROL Flow]**.
 
    ![](assets/simple-scoring-9.png)
 
-1. Trascina l&#39;azione di flusso **Change Score** nell&#39;area di lavoro a sinistra.
+1. Trascinare l&#39;azione di flusso **[!UICONTROL Change Score]** nell&#39;area di lavoro a sinistra.
 
    ![](assets/simple-scoring-10.png)
 
-1. Puoi digitare qualsiasi valore da aggiungere al punteggio della persona. Immettiamo &quot;+5&quot; nel campo **[!UICONTROL Modifica]**.
+1. Puoi digitare qualsiasi valore da aggiungere al punteggio della persona. Immettere &quot;+5&quot; nel campo **[!UICONTROL Change]**.
 
    ![](assets/simple-scoring-11.png)
 
@@ -78,11 +78,11 @@ ht-degree: 0%
    >
    >Le campagne con un buon punteggio sono fondamentali per offrire alle vendite personale di alta qualità. Leggi [**La guida definitiva al punteggio lead**](https://www.marketo.com/definitive-guides/lead-scoring/){target="_blank"}.
 
-1. Fai clic sulla scheda **[!UICONTROL Pianifica]** e sul pulsante **[!UICONTROL Attiva]**.
+1. Fare clic sulle schede **[!UICONTROL Schedule]** e **[!UICONTROL Activate]**.
 
    ![](assets/simple-scoring-12.png)
 
-1. Fai clic su **[!UICONTROL Attiva]** nella schermata di conferma.
+1. Fare clic su **[!UICONTROL Activate]** nella schermata di conferma.
 
    ![](assets/simple-scoring-13.png)
 
@@ -96,11 +96,11 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-14.png)
 
-1. Fare clic su **[!UICONTROL Anteprima]**. La pagina di destinazione si aprirà in una nuova scheda.
+1. Fare clic su **[!UICONTROL Preview]**. La pagina di destinazione si aprirà in una nuova scheda.
 
    ![](assets/simple-scoring-15.png)
 
-1. Compila il modulo con il tuo nome, cognome e indirizzo e-mail, quindi fai clic su **[!UICONTROL Invia]**.
+1. Compila il modulo con il tuo nome, cognome e indirizzo e-mail, quindi fai clic su **[!UICONTROL Submit]**.
 
    ![](assets/simple-scoring-16.png)
 
@@ -130,6 +130,6 @@ I dettagli della persona verranno aperti in una nuova scheda o finestra. Vedi co
 
 <br> 
 
-[◄ Mission 2: Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
+[◄ Missione 2: pagina di destinazione con modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md)
 
-[Missione 4: ► di risposta automatica e-mail](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[Missione 4: risposta automatica e-mail ►](/help/marketo/getting-started/quick-wins/email-auto-response.md)

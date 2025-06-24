@@ -4,16 +4,16 @@ description: Note sulla versione -Gennaio 2013 - Documentazione Marketo - Docume
 title: Note sulla versione - Gennaio 2013
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
 
 # Note sulla versione: gennaio 2013 {#release-notes-january}
 
-La versione di gennaio amplia l&#39;offerta social con **offerte di riferimento**. Inoltre, gli utenti di Gestione lead di Marketo possono impostare il fuso orario, la lingua e le preferenze locali. Le funzionalità contrassegnate con &#42; sono disponibili solo in Select Edition.
+La versione di gennaio amplia l&#39;offerta social con **offerte di riferimento**. Inoltre, [!DNL Marketo Lead Management] utenti possono impostare il proprio fuso orario, la propria lingua e le proprie preferenze locali. Le funzionalità contrassegnate con &#42; sono disponibili solo in Select Edition.
 
 ## Offerte di riferimento {#referral-offers}
 
@@ -29,7 +29,7 @@ Puoi modificare il fuso orario predefinito per il tuo account Marketo personale.
 
 ![](assets/image2014-9-22-15-3a21-3a2.png)
 
-## Seleziona la lingua di gestione dei lead di Marketo {#select-your-marketo-lead-management-language}
+## Seleziona la lingua [!DNL Marketo Lead Management] {#select-your-marketo-lead-management-language}
 
 Puoi modificare la lingua predefinita per l’account utente di Marketo. Anche se l’abbonamento è in inglese, per impostazione predefinita è possibile cambiarlo in tedesco o francese.
 
@@ -45,9 +45,9 @@ Un esempio di una forma francese:
 
 ![](assets/image2014-9-22-15-3a22-3a2.png)
 
-## Seleziona la lingua Sales Insight (solo Salesforce) {#select-your-sales-insight-language-salesforce-only}
+## Seleziona la lingua [!DNL Sales Insight] (solo [!DNL Salesforce]) {#select-your-sales-insight-language-salesforce-only}
 
-Se la preferenza per la lingua Salesforce è impostata sul francese o sul tedesco, Marketo Sales Insight la rispetterà. Scarica l’ultimo pacchetto MSI per ottenere questa funzionalità (disponibile la settimana del 14 gennaio).
+Se la preferenza per la lingua [!DNL Salesforce] è impostata sul francese o sul tedesco, Marketo [!DNL Sales Insight] rispetterà questa preferenza. Scarica l’ultimo pacchetto MSI per ottenere questa funzionalità (disponibile la settimana del 14 gennaio).
 
 ![](assets/image2014-9-22-15-3a22-3a31.png)
 
@@ -59,6 +59,6 @@ I nomi di visualizzazione dei campi possono visualizzare il testo in lingue dive
 
 ## Cambia dati programma {#change-program-data}
 
-Il passaggio Modifica flusso di dati del programma consente di modificare manualmente lo stato e la data di successo di un membro del programma tramite una campagna. È possibile utilizzare questo passaggio di flusso per correggere un errore o per modificare manualmente un membro che non ha partecipato al programma come previsto.
+Il passaggio di flusso [!UICONTROL Change Program Data] consente di modificare manualmente lo stato [!UICONTROL Success] e [!UICONTROL Success Date] di un membro del programma tramite una campagna. È possibile utilizzare questo passaggio di flusso per correggere un errore o per modificare manualmente un membro che non ha partecipato al programma come previsto.
 
 ![](assets/image2014-9-22-15-3a23-3a23.png)

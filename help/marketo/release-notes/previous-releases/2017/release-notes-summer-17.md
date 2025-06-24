@@ -4,9 +4,9 @@ description: Note sulla versione -Estate del 17 - Documentazione di Marketo - Do
 title: Note sulla versione - Estate 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Le seguenti funzioni sono incluse nella versione dell’estate del 17. Verifica 
 
 Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione. Nota: ad alcune funzioni incluse in questa versione non sono associati articoli. Se un argomento ha più sottotitoli, i collegamenti sono posizionati lì.
 
-## [Ulteriori fasi di conversione offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
+## [Fasi aggiuntive di conversione offline Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) {#additional-facebook-offline-conversion-stages}
 
-Scegli fino a 7 fasi di conversione offline aggiuntive da mappare alle fasi del ciclo di vita di Marketo (oltre alle 3 disponibili oggi). Ottimizza la spesa pubblicitaria Facebook in base alle conversioni nel percorso del cliente per ottenere un ROI migliore.
+Scegli fino a 7 fasi di conversione offline aggiuntive da mappare alle fasi del ciclo di vita di Marketo (oltre alle 3 disponibili oggi). Ottimizza la spesa pubblicitaria di [!DNL Facebook] in base alle conversioni nel percorso del cliente per ottenere un ROI migliore.
 
 ![](assets/image2017-8-24-15-3a23-3a31.png)
 
-## [Blocca modello approfondimenti vendite](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
+## [Blocca modello Insight vendite](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md) {#lock-sales-insight-template}
 
 Assicurati la coerenza del messaggio e del contenuto impedendo modifiche ai modelli di vendita. Questo consente di standardizzare i modelli e mantenere comunicazioni professionali.
 
@@ -37,13 +37,13 @@ Associa persone a nomi di società giapponesi nella lingua locale.
 
 **[Integrazione ABM e LeanData](https://docs.marketo.com/x/pKmt)**
 
-L’integrazione LeanData ora consente la corrispondenza lead-account in Marketo. Mantenere il marketing e le vendite allineati con gli stessi lead associati agli account all&#39;interno dei sistemi di vendita e marketing di record. Opzioni più flessibili consentono alle operazioni di marketing e vendita un maggiore controllo sulle regole di corrispondenza lead-account, in modo che possano raggiungere il livello di precisione desiderato.
+L&#39;integrazione di [!DNL LeanData] ora consente la corrispondenza lead-account in Marketo. Mantenere il marketing e le vendite allineati con gli stessi lead associati agli account all&#39;interno dei sistemi di vendita e marketing di record. Opzioni più flessibili consentono alle operazioni di marketing e vendita un maggiore controllo sulle regole di corrispondenza lead-account, in modo che possano raggiungere il livello di precisione desiderato.
 
 ## Miglioramenti di Web Personalization {#web-personalization-enhancements}
 
 **[Miglioramenti di Anteprima campagna](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/preview-and-test-a-web-campaign.md)**
 
-I professionisti del marketing possono ora garantire che le loro campagne web avranno un aspetto ottimale su qualsiasi dispositivo *prima* del loro avvio. Con questi miglioramenti, scopri come verrà eseguito il rendering delle campagne web su desktop, dispositivi mobili e tablet. Il nuovo plug-in per Chrome offre anche anteprime più coerenti e precise.
+I professionisti del marketing possono ora garantire che le loro campagne web avranno un aspetto ottimale su qualsiasi dispositivo *prima* del loro avvio. Con questi miglioramenti, scopri come verrà eseguito il rendering delle campagne web su desktop, dispositivi mobili e tablet. Il nuovo plug-in per [!DNL Chrome] offre inoltre anteprime più coerenti e precise.
 
 **[Miglioramenti campagna widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md)**
 
@@ -51,7 +51,7 @@ Sono ora disponibili nuove opzioni per le campagne Widget, tra cui:
 
 * Attivazione di campagne (ritardo, scorrimento)
 * Visualizzazione delle campagne (qualsiasi posizione intorno allo schermo)
-* Modifica la freccia di espansione/riduzione a icona per qualsiasi testo CTA
+* Cambia la freccia di espansione/riduzione a icona in qualsiasi testo CTA
 
 ## ContentAI {#contentai}
 
@@ -61,10 +61,10 @@ Aumenta il ritorno sul marketing dei contenuti con analisi più approfondite e s
 
 ## Analytics {#analytics}
 
-**Miglioramenti Approfondimenti E-Mail**
+**[!UICONTROL Email Insights]miglioramenti**
 
-Ottieni di più dalla tua esperienza di e-mail Insights con nuovi modi per preparare e condividere i dati. Ora puoi scaricare i risultati di Email Insights in Microsoft Excel e PowerPoint per lavorare con i dati al di fuori di Marketo.
+Ottieni di più dalla tua esperienza con [!UICONTROL Email Insights] grazie a nuovi modi per preparare e condividere i dati. È ora possibile scaricare i risultati di [!UICONTROL Email Insights] in [!DNL Microsoft Excel] e [!DNL PowerPoint] per lavorare con i dati al di fuori di Marketo.
 
 ## Supporto della configurazione di identità federate {#federated-identity-configuration-support}
 
-Mantenere l&#39;autenticazione (Active Directory) in locale del firewall mentre si continua a utilizzare Microsoft Dynamics CRM nel cloud.
+Mantieni l&#39;autenticazione (Active Directory) dietro il firewall locale mentre continui a utilizzare il CRM [!DNL Microsoft Dynamics] nel cloud.

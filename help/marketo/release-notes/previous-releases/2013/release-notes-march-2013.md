@@ -4,10 +4,10 @@ description: Note sulla versione - Marzo 2013 - Documentazione Marketo - Documen
 title: Note sulla versione - Marzo 2013
 exl-id: 4036380a-c4a1-44be-8bf3-87253181e5c8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
@@ -35,7 +35,7 @@ Una posta in palio dà la possibilità ai tuoi lead di vincere un premio e dire 
 
 ![](assets/image2014-9-22-15-3a36-3a55.png)
 
-## Lingue aggiuntive messaggio di errore modulo {#additional-form-error-message-languages}
+## Altre lingue del modulo [!UICONTROL Error Message] {#additional-form-error-message-languages}
 
 Sono state aggiunte più di una dozzina di lingue ai messaggi di errore del modulo.
 

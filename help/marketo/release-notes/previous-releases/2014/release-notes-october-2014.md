@@ -4,9 +4,9 @@ description: Note sulla versione -Ottobre 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Ottobre 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '256'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Verifica la disponibilità delle funzioni nella tua edizione di Marketo. La docu
 
 ![](assets/image2014-10-20-11-3a48-3a51.png)
 
-## Nuove chiamate API ReST {#new-rest-api-calls}
+## Nuove chiamate API REST {#new-rest-api-calls}
 
 Utilizza l’API per richiamare nuove attività o modifiche ai lead:
 
@@ -30,25 +30,25 @@ Utilizza l’API per richiamare nuove attività o modifiche ai lead:
 * Ottieni tipi di attività
 * Ottieni token di paging
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
 
-## MSI - Invia e-mail Marketo per Microsoft Dynamics {#msi-send-marketo-email-for-microsoft-dynamics}
+## MSI - Invia e-mail Marketo per [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
-[Inviare e tenere traccia delle e-mail di vendita](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) ai lead e ai contatti da Microsoft Dynamics.
+[Invia e tieni traccia delle e-mail di vendita](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/send-a-marketo-sales-email-from-microsoft-dynamics.md) ai lead e ai contatti da [!DNL Microsoft Dynamics].
 
 ![](assets/image2014-10-20-11-3a49-3a25.png)
 
-## MSI - Aggiungi a campagne Marketo per Microsoft Dynamics {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
+## MSI - Aggiungi a campagne Marketo per [!DNL Microsoft Dynamics] {#msi-add-to-marketo-campaigns-for-microsoft-dynamics}
 
-[Aggiungi lead e contatti alle campagne Smart di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direttamente da Microsoft Dynamics. Il marketing può scegliere quali campagne Marketo sono disponibili per le vendite.
+[Aggiungi lead e contatti alle campagne Smart di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md) direttamente da [!DNL Microsoft Dynamics]. Il marketing può scegliere quali campagne Marketo sono disponibili per le vendite.
 
-## Supporto di entità personalizzate per Microsoft Dynamics Sync {#custom-entity-support-for-microsoft-dynamics-sync}
+## Supporto entità personalizzata per la sincronizzazione [!DNL Microsoft Dynamics] {#custom-entity-support-for-microsoft-dynamics-sync}
 
-[Utilizza i dati oggetto personalizzati](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) di Microsoft Dynamics per filtrare e attivare elenchi avanzati, campagne avanzate e programmi...
+[Utilizza i dati oggetto personalizzati](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-sync-for-a-custom-entity.md) di [!DNL Microsoft Dynamics] per filtrare e attivare elenchi avanzati, campagne avanzate e programmi...
 
-## Supporto per gli azionisti per Microsoft Dynamics Sync {#shareholder-support-for-microsoft-dynamics-sync}
+## Supporto per gli azionisti per la sincronizzazione di [!DNL Microsoft Dynamics] {#shareholder-support-for-microsoft-dynamics-sync}
 
-Sincronizza i dati degli azionisti dell’opportunità da Dynamics. Sono supportate anche le opportunità connesse a un account tramite il campo &quot;Account principale&quot; e le opportunità connesse al contatto tramite la sincronizzazione &quot;Contatto principale&quot;.
+Sincronizza i dati dell&#39;azionista dell&#39;opportunità da [!DNL Dynamics]. Sono supportate anche le opportunità connesse a un account tramite il campo &quot;Account principale&quot; e le opportunità connesse al contatto tramite la sincronizzazione &quot;Contatto principale&quot;.
 
 ## RTP - Miglioramenti del dashboard {#rtp-dashboard-enhancements}
 
@@ -70,4 +70,4 @@ Utilizza una nuova chiamata che tiene traccia della cronologia delle visite prec
 * Prodotti interessati a
 * Quali campagne RTP hanno visto
 
-Visita [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.
+Visita [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.

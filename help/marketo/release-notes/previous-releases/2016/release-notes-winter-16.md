@@ -3,10 +3,9 @@ unique-page-id: 10097199
 description: Note sulla versione -Inverno '16 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '16
 exl-id: 1e3b9207-27fe-47b1-b709-1306ac57b93b
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -17,25 +16,25 @@ Le seguenti funzioni sono incluse nella versione invernale del &#39;16. Fai clic
 
 ## [Filtro anonimo](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md) {#is-anonymous-filter}
 
-Il filtro È anonimo è stato rimosso per gli elenchi avanzati. Per informazioni dettagliate, consulta il documento [Domande frequenti sul tracciamento di Munchkin di nuova generazione](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Questa modifica non interessa il Web Personalization (RTP), che continua a identificare i visitatori anonimi e noti e a personalizzare i contenuti in tempo reale per tali visitatori.
+Il filtro È anonimo è stato rimosso per gli elenchi avanzati. Per informazioni dettagliate, consulta il documento [Domande frequenti sul tracciamento dei Munchkin di nuova generazione](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website/next-generation-munchkin-tracking-faq.md). Questa modifica non interessa il Web Personalization (RTP), che continua a identificare i visitatori anonimi e noti e a personalizzare i contenuti in tempo reale per tali visitatori.
 
-## [Dashboard database](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md) {#database-dashboard}
+## [Dashboard database](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.md)  {#database-dashboard}
 
-Il database dei lead dispone di una dashboard di riepilogo aggiornata che include le dimensioni totali del database delle persone, il numero di lead commerciabili e una suddivisione dei lead per le prime cinque origini.
+[!UICONTROL Lead Database] dispone di una dashboard di riepilogo aggiornata che include la dimensione totale del database delle persone, il numero di lead commerciabili e una suddivisione dei lead per le prime cinque origini.
 
 ![](assets/image2016-1-12-16-3a18-3a7.png)
 
 ## [Browser Microsoft Edge](/help/marketo/product-docs/administration/setup-administration/supported-browsers.md) {#microsoft-edge-browser}
 
-Microsoft Edge è stato aggiunto all&#39;[elenco di browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supportati da Marketo.
+[!DNL Microsoft Edge] è stato aggiunto all&#39;[elenco di browser](https://docs.marketo.com/display/public/DOCS/Supported+Browsers) supportati da Marketo.
 
 ## [Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) {#microsoft-outlook}
 
-[Microsoft Outlook 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) è ora supportato.
+[[!DNL Microsoft Outlook] 2016](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md) è ora supportato.
 
 ## [Inizio intestazione programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md) {#email-program-head-start}
 
-Utilizza Head Start per indicare che l’elaborazione dell’invio deve avvenire in anticipo. Invece di qualificare i lead e preparare le e-mail all’orario pianificato del programma, Head Start assicura che queste attività vengano eseguite in anticipo. In questo modo, il pubblico inizierà a ricevere e-mail all’ora pianificata.
+Utilizza [!UICONTROL Head Start] per indicare che l&#39;elaborazione per l&#39;invio deve avvenire in anticipo. Invece di qualificare i lead e preparare le e-mail all&#39;ora pianificata del programma, [!UICONTROL Head Start] assicura che queste attività vengano eseguite in anticipo. In questo modo, il pubblico inizierà a ricevere e-mail all’ora pianificata.
 
 ![](assets/image2016-1-11-15-3a38-3a3.png)
 
@@ -49,23 +48,23 @@ Per utilizzare questa funzione, il programma e-mail deve essere pianificato con 
 
 ## [Miglioramenti al marketing per dispositivi mobili](/help/marketo/product-docs/mobile-marketing/admin/add-a-mobile-app.md) {#mobile-marketing-enhancements}
 
-**Supporto PhoneGap:** Offriamo ora il supporto PhoneGap per la tua app mobile. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/phonegap).
+Supporto di **[!DNL PhoneGap]:** Offriamo ora il supporto di [!DNL PhoneGap] per la tua app mobile. [Ulteriori informazioni](https://developers.marketo.com/documentation/mobile/phonegap-plugin/).
 
 **Supporto per le app sandbox**:
 
 ![](assets/image2016-1-12-10-3a47-3a13.png)
 
-## [API programma](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/programs) {#program-api}
+## [API programma](https://developers.marketo.com/documentation/programs/) {#program-api}
 
 Crea, aggiorna e clona programmi tramite l’API REST. Ciò non include la creazione o l’aggiornamento di elenchi avanzati e campagne intelligenti all’interno di un programma.
 
-## [Miglioramenti di Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
+## [Miglioramenti Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#microsoft-dynamics-enhancements}
 
-**[Stato sincronizzazione](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: mantieni le schede sulla velocità effettiva corrente e sul backlog del processo di sincronizzazione. Suddividilo per il numero di inserimenti e aggiornamenti per oggetto.
+**[[!UICONTROL Sync Status]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md)**: Mantieni schede sulla velocità effettiva corrente e sul backlog del processo di sincronizzazione. Suddividilo per il numero di inserimenti e aggiornamenti per oggetto.
 
 ![](assets/pending-backog-cropped.png)
 
-**[Notifiche](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: ricevere notifiche per gli errori di sincronizzazione più comuni, insieme a un elenco di lead che presentano tale errore.
+**[[!UICONTROL Notifications]](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md)**: ricevere notifiche per gli errori di sincronizzazione comuni, insieme a un elenco di lead che presentano tale errore.
 
 ![](assets/image2016-1-12-8-3a13-3a9.png)
 
@@ -77,7 +76,7 @@ Crea, aggiorna e clona programmi tramite l’API REST. Ciò non include la creaz
 
 ## [Annunci lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md) {#facebook-lead-ads}
 
-[Gli annunci lead di Facebook](https://www.facebook.com/business/a/lead-ads) sono un modo più diretto per consentire a un&#39;azienda di eseguire campagne di generazione di lead su Facebook. Le persone compilano un modulo per esprimere interesse per un prodotto o un servizio, in modo che l&#39;azienda possa seguirli. L’integrazione di Marketo con Facebook Lead Ads acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Lead Ads. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo trigger Riempimenti annunci lead Facebook.
+[[!UICONTROL Facebook Lead ads]](https://www.facebook.com/business/a/lead-ads) sono un modo più diretto per un&#39;azienda di eseguire campagne di generazione di lead su [!DNL Facebook]. Le persone compilano un modulo per esprimere interesse per un prodotto o un servizio, in modo che l&#39;azienda possa seguirli. L&#39;integrazione di Marketo con [!UICONTROL Facebook Lead Ads] acquisisce automaticamente le informazioni fornite da un lead all&#39;interno del modulo Annuncio lead. Le azioni di completamento e le notifiche possono quindi essere automatizzate utilizzando il nuovo trigger [!UICONTROL Fills Out Facebook Lead Ads].
 
 ![](assets/image2016-1-11-10-3a20-3a39.png)
 

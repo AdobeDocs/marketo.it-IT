@@ -3,10 +3,9 @@ unique-page-id: 13795395
 description: Note sulla versione -Inverno '18 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -21,9 +20,9 @@ Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per c
 
 Marketo sfrutta la nostra architettura dei big data per aumentare la velocità effettiva delle campagne trigger e migliorare l’elaborazione delle attività web, in modo da poter reagire più rapidamente alle azioni del pubblico.
 
-## Miglioramenti all’integrazione con Salesforce CRM di Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
+## Miglioramenti all&#39;integrazione CRM [!DNL Salesforce] di Marketo {#enhancements-to-marketo-s-salesforce-crm-integration}
 
-Abbiamo due miglioramenti alla nostra integrazione con la gestione delle relazioni con i clienti Salesforce:
+Sono stati apportati due miglioramenti all&#39;integrazione CRM di [!DNL Salesforce]:
 
 * [Notifiche dell&#39;amministratore di Marketo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications/notification-types.md) per alcuni errori di sincronizzazione CRM (credenziali scadute, limiti API raggiunti, ecc.)
 
@@ -35,7 +34,7 @@ Questi miglioramenti verranno implementati nel corso del 2018.
 
 >[!AVAILABILITY]
 >
->Performance Insights è un prodotto aggiuntivo. Contatta il tuo Account Manager o Account Executive Marketo per richiedere un preventivo.
+>[!UICONTROL Performance Insights] è un componente aggiuntivo. Contatta il tuo Customer Success Manager Marketo o Account Executive per richiedere un preventivo.
 
 Scopri in che modo le campagne e i canali influiscono sui risultati aziendali con analisi dell’attribuzione, visualizzazioni interattive e una tabella di dati dettagliata.
 
@@ -45,7 +44,7 @@ Scopri in che modo le campagne e i canali influiscono sui risultati aziendali co
 
 **[Gerarchie ABM](/help/marketo/product-docs/target-account-management/target/named-accounts/tam-hierarchies.md)**
 
-Per i clienti ABM con Salesforce o Microsoft Dynamics, ABM ora erediterà automaticamente (e visualizzerà) le relazioni padre-figlio stabilite nel CRM. Potrai utilizzare queste relazioni sia nel reporting aggregato che nell’esecuzione della campagna.
+Per i clienti ABM con [!DNL Salesforce] o [!DNL Microsoft Dynamics], ABM erediterà automaticamente (e visualizzerà) le relazioni padre-figlio stabilite nel CRM. Potrai utilizzare queste relazioni sia nel reporting aggregato che nell’esecuzione della campagna.
 
 ## E-mail marketing {#email-marketing}
 
@@ -63,11 +62,11 @@ Lo script Velocity è ora supportato nelle e-mail che utilizzano il contenuto di
 
 **[Integrazione Customer Match Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
-Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting utilizzando Google AdWords, nonché per il re-targeting del pubblico in YouTube, Search e Gmail.
+Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting utilizzando [!DNL Google AdWords], nonché rieseguire il targeting dei tipi di pubblico in [!DNL YouTube], Search e [!DNL Gmail].
 
-**[Miglioramento API per tipi di pubblico corrispondenti a LinkedIn](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
+**[[!DNL LinkedIn] Miglioramento API tipi di pubblico corrispondenti](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-linkedin-matched-audiences-as-a-launchpoint-service.md)**
 
-La nuova API di LinkedIn ora consente di eseguire il targeting delle persone nel database di Marketo tra più account di LinkedIn Campaign Manager.
+La nuova API [!DNL LinkedIn] consente ora di eseguire il targeting delle persone nel database di Marketo tra più account di [!DNL LinkedIn] Campaign Manager.
 
 ## Web Personalization {#web-personalization}
 
@@ -87,20 +86,20 @@ Il contenuto consigliato tramite gli algoritmi ContentAI ottimizzati di Marketo 
 
 ## Integrazione {#integration}
 
-**[Attiva/Disattiva API Campaign](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns)**
+**[Attiva/Disattiva API Campaign](https://developers.marketo.com/rest-api/assets/smart-campaigns/)**
 
 Questa nuova API consente di attivare e disattivare in remoto le campagne di attivazione, per creare modelli di programma completamente automatizzati. Crea un modello di programma una volta, quindi automatizza la clonazione, gli aggiornamenti dei materiali di marketing e ora l’attivazione/pianificazione delle campagne intelligenti.
 
-## ToutApp {#toutapp}
+## [!DNL ToutApp] {#toutapp}
 
 **Aggiornamento annullamento abbonamento**
 
-A partire dal 1° marzo 2018, a tutte le e-mail inviate da [ToutApp.com](https://ToutApp.com) (e utilizzando il pulsante &quot;E-mail con Tout&quot; in Salesforce) verrà aggiunto in basso un collegamento per l&#39;annullamento dell&#39;iscrizione.
+A partire dal 1° marzo 2018, a tutte le e-mail inviate da [ToutApp.com](https://ToutApp.com) (e utilizzando il pulsante &quot;E-mail con [!DNL Tout]&quot; in [!DNL Salesforce]) verrà aggiunto in basso un collegamento per l&#39;annullamento dell&#39;iscrizione.
 
 **Aggiornamento feed live**
 
-Abbiamo aggiornato l&#39;aspetto delle schede Coinvolgimento e Attività per rendere più semplice e veloce la risposta dei membri delle vendite alle attività dei clienti direttamente dal feed live.
+Abbiamo aggiornato l&#39;aspetto delle schede Coinvolgimento e Attività per consentire ai membri delle vendite di rispondere più facilmente e più rapidamente alle attività dei clienti direttamente dal feed live.
 
 **Aggiornamento visualizzazione dettagli persone**
 
-Il PDV (People Detail View) migliorato offre una visione completa dei contatti riunendo i dettagli di contatto Tout e Salesforce CRM.
+La visualizzazione PDV (People Detail View) migliorata offre una visualizzazione completa dei contatti riunendo i dettagli di contatto del CRM [!DNL Tout] e [!DNL Salesforce].

@@ -4,9 +4,9 @@ description: Note sulla versione -Dicembre 2014 - Documentazione Marketo - Docum
 title: Note sulla versione - Dicembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Le seguenti funzioni sono incluse nella versione di dicembre 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
-## Rapporti Approfondimenti vendite {#sales-insight-reports}
+## [!DNL Sales Insight] report {#sales-insight-reports}
 
-Il [rapporto Prestazioni e-mail approfondimento vendite](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche delle e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite Salesforce, Microsoft Dynamics, il plug-in di Outlook e il plug-in Gmail.
+Il [[!DNL Sales Insight] Rapporto prestazioni e-mail](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md) consente di visualizzare le metriche delle e-mail per e-mail e rappresentante commerciale. Supporta le e-mail inviate tramite [!DNL Salesforce], [!DNL Microsoft Dynamics], il plug-in [!DNL Outlook] e il plug-in [!DNL Gmail].
 
 ![](assets/image2014-12-5-11-3a5-3a46.png)
 
 ![](assets/image2014-12-5-11-3a5-3a55.png)
 
-## Tipi di pubblico personalizzati facebook {#facebook-custom-audiences}
+## [!DNL Facebook] tipi di pubblico personalizzati {#facebook-custom-audiences}
 
-Dopo che il tuo amministratore di Marketo ha aggiunto [Facebook tramite Admin > Launchpoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi facilmente creare, aggiornare o [sostituire un pubblico personalizzato di Facebook con lead da un elenco Marketo statico o avanzato](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cerca la nuova icona Facebook nella parte inferiore della griglia dei lead di un elenco statico o avanzato.
+Dopo che il tuo amministratore di Marketo ha aggiunto [[!DNL Facebook] tramite [!UICONTROL Admin] > [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md), puoi facilmente creare, aggiornare o [sostituire un pubblico personalizzato [!DNL Facebook] con lead da un elenco Marketo statico o smart](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md). Cercare la nuova icona [!DNL Facebook] nella parte inferiore della griglia del lead di un elenco statico o smart.
 
 ![](assets/image2014-12-5-11-3a6-3a28.png)
 
@@ -53,11 +53,11 @@ I collegamenti all’interno degli script e-mail verranno ora tracciati e dispon
 
 ## Impostazione codifica token {#token-encoding-setting}
 
-È stata implementata una nuova funzione di sicurezza per la codifica automatica dei token da parte di HTML, che verrà abilitata per impostazione predefinita a marzo 2015. Fino ad allora, attiva questa funzionalità in Gestione campi per verificare il comportamento in anticipo. Tutti i token di lead e società verranno codificati quando vengono inseriti nelle e-mail o nelle pagine di destinazione. Saranno inoltre disponibili opzioni per singoli campi.
+È stata implementata una nuova funzione di sicurezza per codificare automaticamente i token in HTML, che verrà abilitata per impostazione predefinita a marzo 2015. Fino ad allora, attiva questa funzionalità in Gestione campi per verificare il comportamento in anticipo. Tutti i token di lead e società verranno codificati quando vengono inseriti nelle e-mail o nelle pagine di destinazione. Saranno inoltre disponibili opzioni per singoli campi.
 
-## Nuove chiamate API ReST {#new-rest-api-calls}
+## Nuove chiamate API REST {#new-rest-api-calls}
 
-Tre nuove chiamate per l’API ReST per lead e attività:
+Tre nuove chiamate per l’API REST per lead e attività:
 
 · Ottieni partizioni lead
 
@@ -65,15 +65,15 @@ Tre nuove chiamate per l’API ReST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
 
-## Miglioramenti alla compatibilità di Munchkin con JavaScript {#munchkin-javascript-compatibility-enhancements}
+## [!DNL Munchkin Javascript] miglioramenti alla compatibilità {#munchkin-javascript-compatibility-enhancements}
 
-Abbiamo apportato diversi piccoli miglioramenti a Munchkin per assicurarne il caricamento rapido e il funzionamento corretto nei casi in cui si disponga di altri JavaScript sulla pagina.
+Sono stati apportati diversi miglioramenti minori a [!DNL Munchkin] per garantire che continui a essere caricato rapidamente e funzioni come desiderato nei casi in cui altri JavaScript siano presenti nella pagina.
 
 Il rollout sarà messo in scena a partire da metà dicembre e continuerà per diversi mesi.
 
-## Revenue Explorer - Aspetto aggiornato {#revenue-explorer-upgraded-look-and-feel}
+## [!UICONTROL Revenue Explorer] aspetto aggiornato {#revenue-explorer-upgraded-look-and-feel}
 
 ![](assets/image2014-12-5-11-3a8-3a4.png)
 
@@ -83,7 +83,7 @@ Il rollout sarà messo in scena a partire da metà dicembre e continuerà per di
 
 ## RTP: modulo elenco account denominati {#rtp-named-account-list-module}
 
-Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina Account denominati. Carica nuovi elenchi di account denominati per identificare ed eseguire il targeting di queste organizzazioni. Abbiamo automatizzato il processo per offrirti maggiore controllo e flessibilità nell’implementazione di piani di marketing basati sull’account e nel targeting dei tuoi account chiave per diversi canali (web e pubblicitari).
+Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina [!UICONTROL Named Accounts]. Carica nuovi elenchi di account denominati per identificare ed eseguire il targeting di queste organizzazioni. Abbiamo automatizzato il processo per offrirti maggiore controllo e flessibilità nell’implementazione di piani di marketing basati sull’account e nel targeting dei tuoi account chiave per diversi canali (web e pubblicitari).
 
 ![](assets/image2014-12-5-11-3a8-3a56.png)
 

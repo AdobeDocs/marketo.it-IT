@@ -4,9 +4,9 @@ description: Note sulla versione - Febbraio 2015 - Documentazione Marketo - Docu
 title: Note sulla versione - Febbraio 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Le seguenti funzioni sono incluse nella versione di febbraio 2015. Per informazi
 
 Rallegratevi! Ora è possibile spostare le campagne intelligenti all’interno e all’esterno dei programmi tramite il trascinamento della selezione o la funzione Sposta nella struttura.
 
-**[Dynamics 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - supportato.
+**[[!DNL Dynamics] 2015 (online)](https://docs.marketo.com/display/docs/microsoft+dynamics+2013+on-premises)** - supportato.
 
 **Modifiche al certificato HTTPS**
 
@@ -29,15 +29,15 @@ Per proteggere la riservatezza e l&#39;integrità dei dati dei clienti e dei ser
 
 e sostituirà i protocolli di sicurezza attualmente utilizzati (SHA-1 e SSL) con versioni più sicure (SHA-2 (alias SHA-256) e TLS) per i seguenti domini:
 
-* marketo.net (traffico Munchkin crittografato)
+* marketo.net (traffico [!DNL Munchkin] crittografato)
 
 * [marketo.com](https://marketo.com) (principali applicazioni SaaS)
 
 Ciò avverrà poco dopo questa versione. Il protocollo SHA-1 verrà temporaneamente supportato sul dominio [mktoapi.com](https://mktoapi.com) fino a dicembre 2015 per consentire ai proprietari di sistemi e applicazioni legacy di aggiornare i propri sistemi con compatibilità SHA-2.
 
-**Munchkin Sicuro**
+**Proteggi[!DNL Munchkin]**
 
-È in corso la rimozione del supporto per SSL3. Abbiamo mantenuto SSL3 fino ad ora per mantenere il supporto per i vecchi browser web, ma nel 2015 non vediamo più traffico web significativo da questi browser. Questo avrebbe effetto solo su Munchkin se utilizzato su pagine sicure e verrà distribuito lentamente dopo il rilascio di febbraio.
+È in corso la rimozione del supporto per SSL3. Abbiamo mantenuto SSL3 fino ad ora per mantenere il supporto per i vecchi browser web, ma nel 2015 non vediamo più traffico web significativo da questi browser. Questo influisce solo su [!DNL Munchkin] se utilizzato su pagine sicure e verrà distribuito lentamente dopo la versione di febbraio.
 
 ## Miglioramenti di Real-Time Personalization {#real-time-personalization-enhancements}
 

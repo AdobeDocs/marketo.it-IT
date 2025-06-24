@@ -3,10 +3,9 @@ unique-page-id: 12977439
 description: Note sulla versione -Primavera del '17 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera 2017
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '633'
 ht-degree: 0%
 
 ---
@@ -17,25 +16,25 @@ Le seguenti funzioni sono incluse nella versione di primavera del 17. Verifica l
 
 Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione. **Nota**: se un argomento ha più sottotitoli, i collegamenti sono posizionati lì.
 
-## [LinkedIn Lead Gen Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
+## [LinkedIn Generazione lead Forms](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-forms}
 
-[LinkedIn Lead Gen Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) è un modo più diretto per consentire a un&#39;azienda di eseguire campagne di generazione di lead su LinkedIn. Le persone possono compilare i moduli per esprimere interesse per un prodotto o un servizio, consentendo all’azienda di acquisire i dettagli della persona e sincronizzarli con Marketo, dove possono verificarsi processi di follow-up automatizzati e attività di instradamento dei lead.
+[[!UICONTROL LinkedIn Lead Gen] Forms](https://business.linkedin.com/marketing-solutions/native-advertising/lead-gen-ads) è un modo più diretto per un&#39;azienda di eseguire campagne di generazione di lead su [!DNL LinkedIn]. Le persone possono compilare i moduli per esprimere interesse per un prodotto o un servizio, consentendo all’azienda di acquisire i dettagli della persona e sincronizzarli con Marketo, dove possono verificarsi processi di follow-up automatizzati e attività di instradamento dei lead.
 
-L’integrazione di Marketo con LinkedIn Lead Gen Forms acquisisce automaticamente le informazioni fornite da un lead all’interno del modulo Lead Gen. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo trigger e filtro **Compila modulo generazione lead LinkedIn**.
+L&#39;integrazione di Marketo con [!UICONTROL LinkedIn Lead Gen] Forms acquisisce automaticamente le informazioni fornite da un lead all&#39;interno del modulo Lead Gen. Le azioni di follow-up e le notifiche possono quindi essere automatizzate utilizzando il nuovo trigger e filtro **Compila modulo [!DNL LinkedIn Lead Gen]**.
 
 ![](assets/release-notes-image.png)
 
 ## [Scadenza modello MSI](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md) {#expire-msi-template}
 
-Sono finiti i giorni in cui si pulivano i modelli obsoleti in Sales Insight. Imposta una data di scadenza quando pubblichi l’e-mail; ci occuperemo di annullarne la pubblicazione quando la data di scadenza sarà riportata.
+Sono finiti i giorni di pulizia dei modelli obsoleti in [!DNL Sales Insight]. Imposta una data di scadenza quando pubblichi l’e-mail; ci occuperemo di annullarne la pubblicazione quando la data di scadenza sarà riportata.
 
 >[!NOTE]
 >
->Impostando la data di scadenza per il 5/31/17, il modello verrà rimosso da Sales Insight alla fine della giornata del 5/31/17.
+>Se si imposta la data di scadenza per il 5/31/17, il modello verrà rimosso da [!DNL Sales Insight] alla fine del giorno, il 5/31/17.
 
 ![](assets/four-281-29.png)
 
-## [API di estrazione in blocco per persone e attività](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract) {#bulk-extract-apis-for-people-and-activities}
+## [API di estrazione in blocco per persone e attività](https://developers.marketo.com/rest-api/bulk-extract/) {#bulk-extract-apis-for-people-and-activities}
 
 Trasferisci facilmente grandi quantità di dati relativi a persone e attività da Marketo ai sistemi esterni.
 
@@ -49,7 +48,7 @@ Marketo ABM ora consente di creare fino a 10 campi personalizzati sui tuoi accou
 
 I punteggi degli account denominati possono variare notevolmente. Marketo ABM ora calcola automaticamente un percentile per ciascuno dei tuoi punteggi, in modo da poter visualizzare immediatamente la posizione di ogni account denominato rispetto agli altri account denominati.
 
-**[API elenco account ABM](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/named-account-lists)**
+**[API elenco account ABM](https://developers.marketo.com/rest-api/lead-database/named-account-lists/)**
 
 Sfrutta le avanzate e affidabili integrazioni di partner ABM con supporto API avanzato per gli elenchi di account denominati.
 
@@ -59,7 +58,7 @@ Sfrutta le avanzate e affidabili integrazioni di partner ABM con supporto API av
 
 **[Campagna Web Al Momento Dello Scorrimento](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-I nuovi effetti della campagna web offrono ai visitatori un’esperienza più personalizzata. Imposta le campagne web personalizzate in modo che vengano visualizzate solo quando un visitatore web scorre la pagina verso il basso. Puoi impostare la visualizzazione delle campagne web delle finestre di dialogo al momento dello scorrimento in base a:
+I nuovi effetti della campagna web offrono ai visitatori un’esperienza più personalizzata. Imposta [!UICONTROL Web Campaigns] personalizzato in modo che venga visualizzato solo quando un visitatore Web scorre la pagina Web verso il basso. È possibile impostare la finestra di dialogo [!UICONTROL Web Campaigns] in modo che venga visualizzata dopo lo scorrimento in base a:
 
 * percentuale della pagina a cui è stato eseguito lo scorrimento
 * pixel raggiunti
@@ -67,9 +66,9 @@ I nuovi effetti della campagna web offrono ai visitatori un’esperienza più pe
 
 **[Campagna Web All&#39;Intenzione Di Uscita](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/set-how-your-web-campaign-displays.md)**
 
-Cattura l’attenzione del visitatore prima che chiuda la pagina. Imposta la visualizzazione delle campagne web personalizzate solo quando un gesto del mouse indica che il visitatore sta uscendo dalla pagina.
+Cattura l’attenzione del visitatore prima che chiuda la pagina. Imposta [!UICONTROL Web Campaigns] personalizzato in modo che venga visualizzato solo quando un gesto del mouse indica che il visitatore sta lasciando la pagina.
 
-**[Effetti animazione per campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
+**[Effetti animazione per[!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
 Impostare gli effetti di animazione per la campagna Web Dialog in modo da personalizzare la modalità di visualizzazione di una campagna all&#39;immissione o all&#39;uscita dalla pagina Web. È possibile scegliere tra 6 effetti diversi e controllare la tempistica e la direzione della finestra di dialogo.
 
@@ -77,13 +76,13 @@ Impostare gli effetti di animazione per la campagna Web Dialog in modo da person
 
 **[Personalizzazione pulsante di chiusura finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md)**
 
-Personalizzare il pulsante Chiudi per le finestre di dialogo. Consente di scegliere tra una serie di opzioni utilizzate nelle campagne Web in stile finestra di dialogo trasparente. Selezionare l&#39;icona, il colore e il posizionamento per il pulsante Chiudi. È inoltre possibile aggiungere un&#39;immagine del pulsante personalizzata.
+Personalizzare il pulsante Chiudi per le finestre di dialogo. Selezionare una delle opzioni utilizzate nello stile della finestra di dialogo trasparente [!UICONTROL Web Campaigns]. Selezionare l&#39;icona, il colore e il posizionamento per il pulsante Chiudi. È inoltre possibile aggiungere un&#39;immagine del pulsante personalizzata.
 
 ![](assets/dialog-button-fill-5b1-5d.png)
 
 **[Archivia campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/archive-a-web-campaign.md)**
 
-L’archivio è un nuovo stato della campagna web che consente di archiviare le campagne web e di nasconderle dalla vista predefinita Campagna web. Questo consente di concentrarsi sulle campagne attive più rilevanti e di recuperare on-demand le campagne archiviate meno recenti.
+Archivia è un nuovo stato di Campagna Web che consente di archiviare [!UICONTROL Web Campaigns] e nasconderli dalla visualizzazione predefinita Campagna Web. Questo consente di concentrarsi sulle campagne attive più rilevanti e di recuperare on-demand le campagne archiviate meno recenti.
 
 ![](assets/archive-campaign-5b2-5d.png)
 

@@ -4,9 +4,9 @@ description: Note sulla versione -Autunno '17 - Documentazione Marketo - Documen
 title: Note sulla versione - Autunno '17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per c
 
 ## Affidabilità del sistema {#system-reliability}
 
-Abbiamo apportato ulteriori miglioramenti all&#39;infrastruttura Marketo di base, tra cui una migliore sequenza, meno incongruenze e una maggiore stabilità di Munchkin.
+Sono stati apportati ulteriori miglioramenti all&#39;infrastruttura Marketo di base, tra cui una migliore sequenza, meno incongruenze e una maggiore stabilità di [!DNL Munchkin].
 
-## Prestazioni di sincronizzazione SFDC {#sfdc-sync-performance}
+## Prestazioni sincronizzazione SFDC {#sfdc-sync-performance}
 
-Sfrutta una sincronizzazione più ricca e veloce tra Marketo e Salesforce. Le modifiche ai dati che richiedono aggiornamenti in blocco su account o lead possono essere suddivise in code parallele per evitare backlog. Gli eventi e le attività ora si sincronizzano anche fino al 50% più rapidamente.
+Sfruttare la sincronizzazione più completa e veloce tra Marketo e [!DNL Salesforce]. Le modifiche ai dati che richiedono aggiornamenti in blocco su account o lead possono essere suddivise in code parallele per evitare backlog. Gli eventi e le attività ora si sincronizzano anche fino al 50% più rapidamente.
 
 ## Miglioramenti delle prestazioni di Analytics {#analytics-performance-improvements}
 
@@ -43,16 +43,16 @@ Con questa nuova funzione, ora è possibile conservare e consegnare le e-mail in
 
 Marketo ha una nuova opzione per scegliere un segmento quando si inviano e-mail di esempio per la revisione. Non è più necessario determinare manualmente a quale segmento appartiene un lead, semplificando l’invio di e-mail contenenti contenuto dinamico a segmenti diversi.
 
-## [Domande Personalizzate Generazione Lead LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
+## [Domande personalizzate di generazione lead collegate](/help/marketo/product-docs/demand-generation/social/social-functions/set-up-linkedin-lead-gen-forms.md) {#linkedin-lead-gen-custom-questions}
 
-Personalizza i moduli LinkedIn Lead Gen per raccogliere gli attributi del lead personalizzati. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra un&#39;immissione di testo a riga singola o domande a scelta multipla e mappare i campi lead di Marketo.
+Personalizza i moduli [!UICONTROL LinkedIn Lead Gen] per raccogliere gli attributi del lead personalizzati. È ora possibile porre fino a tre domande personalizzate per modulo, scegliere tra un&#39;immissione di testo a riga singola o domande a scelta multipla e mappare i campi lead di Marketo.
 
 ## Integrazione Slack {#slack-integration}
 
-Sono state rilasciate due funzioni come parte della nuova integrazione di Slack:
+Nell’ambito della nuova integrazione Slack sono state rilasciate due funzioni:
 
-* Notifiche di sistema: ottieni notifiche di Slack relative a eventi importanti nell’istanza di Marketo, ad esempio avvisi sugli stati attuali delle campagne e su eventuali problemi che richiedono attenzione immediata.
-* Momenti interessanti: quando un oggetto Marketo Insight è stato attivato da un utente noto da un account di vendita, i proprietari dei lead possono ricevere una notifica tramite Slack. Le notifiche includono informazioni sul lead e dettagli sul conto vendite.
+* Notifiche di sistema: ottieni notifiche Slack relative a eventi importanti nella tua istanza di Marketo, ad esempio avvisi sugli stati attuali delle campagne e su eventuali problemi che richiedono attenzione immediata.
+* Momenti interessanti: quando un’Insight di Marketo è stata attivata da un individuo noto proveniente da un account di vendita, i proprietari dei lead possono ricevere una notifica tramite Slack. Le notifiche includono informazioni sul lead e dettagli sul conto vendite.
 
 ## Miglioramenti ABM {#abm-enhancements}
 
@@ -86,10 +86,10 @@ Risparmia tempo riutilizzando le risorse creative e le immagini su più canali i
 
 ## Integrazione  {#integration}
 
-**[API anteprima e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)**
+**[API anteprima e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ora è possibile visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semplificando il processo di localizzazione dei contenuti e-mail e riducendo gli errori.
 
-**[Sostituisci API HTML](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)**
+**[Sostituisci API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.

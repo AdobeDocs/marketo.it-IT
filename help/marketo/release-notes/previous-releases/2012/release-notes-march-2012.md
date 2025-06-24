@@ -4,9 +4,9 @@ description: Note sulla versione -Marzo 2012 - Documentazione Marketo - Document
 title: Note sulla versione - Marzo 2012
 exl-id: 8dce59bf-6349-4e47-b07b-8302b5039739
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Anteprima nell&#39;editor:
 
 ## Anteprima snippet {#snippet-previewer}
 
-Selezionando &quot;Anteprima snippet&quot; dal menu, è possibile visualizzare un frammento senza renderlo bozza.Inoltre, se si dispone dell&#39;accesso in sola lettura a un frammento condiviso (tramite le aree di lavoro), è possibile visualizzare il frammento con questa azione
+Selezionando &quot;Anteprima snippet&quot; dal menu, potete visualizzare uno snippet senza che questo diventi una bozza. Inoltre, se si dispone dell&#39;accesso in sola lettura a uno snippet condiviso (tramite le aree di lavoro), è possibile visualizzare lo snippet con questa azione.
 
 ![](assets/image2014-9-23-10-3a0-3a37.png)
 

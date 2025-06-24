@@ -4,10 +4,10 @@ description: Note sulla versione - Ottobre 2012 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 1%
 
 ---
 
@@ -47,14 +47,14 @@ Scopri chi ha condiviso i tuoi contenuti e votato nei tuoi sondaggi creando elen
 
 ## Profili social {#social-profiles}
 
-Ora puoi raccogliere informazioni sui lead quando condividono contenuti o compilano moduli utilizzando i loro profili social. Questo include le maniglie di Facebook, LinkedIn e Twitter, il numero di amici e altro ancora.
+Ora puoi raccogliere informazioni sui lead quando condividono contenuti o compilano moduli utilizzando i loro profili social. Sono inclusi [!DNL Facebook], [!DNL LinkedIn] e [!DNL Twitter] handle, il numero di amici e altro ancora.
 
-## Sottoscrizioni ai report di Gestione ricavi {#revenue-explorer-report-subscriptions}
+## [!UICONTROL Revenue Explorer] sottoscrizioni report {#revenue-explorer-report-subscriptions}
 
-Crea abbonamenti a rapporti e invia periodicamente rapporti di Revenue Explorer alle principali parti interessate, inclusi gli utenti non Marketo. L’e-mail contiene un’anteprima della tabella o dei grafici dei dati del rapporto e un foglio di calcolo Excel con tutti i dati del rapporto.
+Crea abbonamenti ai report e invia periodicamente report [!UICONTROL Revenue Explorer] alle principali parti interessate, inclusi gli utenti non Marketo. L&#39;e-mail contiene un&#39;anteprima della tabella o dei grafici dei dati del report e un foglio di calcolo [!DNL Excel] con tutti i dati del report.
 
 ![](assets/image2014-9-23-10-3a47-3a33.png)
 
 >[!NOTE]
 >
->Disponibile solo per gli utenti che dispongono di Gestione ricavi acquistando l’analisi del ciclo di ricavi con Enterprise o Select Edition.
+>Disponibile solo per gli utenti che hanno [!UICONTROL Revenue Explorer] acquistando Revenue Cycle Analytics con Enterprise o Select Edition.

@@ -4,9 +4,9 @@ description: Note sulla versione - Maggio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Maggio 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ Ora tutti ottengono più programmi, flussi e limiti di comunicazione.
 >
 >`[[https://www.marketo.com]]`
 
-Per impostazione predefinita, non viene tracciato alcun collegamento nella versione testuale delle e-mail. Aggiungi questa nuova sintassi per indicare quando un collegamento deve essere convertito in un collegamento di tracciamento. Il comportamento dei collegamenti HTML rimane invariato.  Per aggiungere collegamenti tracciati alle e-mail:
+Per impostazione predefinita, non viene tracciato alcun collegamento nella versione testuale delle e-mail. Aggiungi questa nuova sintassi per indicare quando un collegamento deve essere convertito in un collegamento di tracciamento. Il comportamento dei collegamenti HTML è invariato.  Per aggiungere collegamenti tracciati alle e-mail:
 
 * **Versione HTML:** Inserisci il collegamento. Per impostazione predefinita, ne viene tenuta traccia.
 * **Versione testo:** Immettere l&#39;URL racchiuso tra parentesi quadre.
@@ -57,13 +57,13 @@ Per aggiungere collegamenti non tracciati alle e-mail:
 
 Scopri in anticipo il comportamento dei collegamenti nelle e-mail. Le e-mail di esempio ora visualizzano i collegamenti esattamente come apparirebbero ai lead. Visualizza in anteprima quali collegamenti sono stati convertiti in collegamenti di tracciamento, per consentirti di comprendere meglio come il messaggio verrà effettivamente visualizzato ai destinatari.
 
-## Interrompi campagna {#abort-campaign}
+## [!UICONTROL Abort Campaign] {#abort-campaign}
 
 Non farti prendere dal panico! Se si verifica un errore, utilizzare il nuovo pulsante [interrompi campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md) per interrompere immediatamente le campagne nei brani. Riceverai una notifica che indica quanti lead erano in sospeso in ogni passaggio di flusso al momento dell’interruzione della campagna.
 
-## Insight vendite in giapponese, portoghese e spagnolo {#sales-insight-in-japanese-portuguese-and-spanish}
+## [!UICONTROL Sales Insight] in giapponese, portoghese e spagnolo {#sales-insight-in-japanese-portuguese-and-spanish}
 
-Scarica l’ultima versione di Sales Insight dall’AppExchange per consentire agli agenti di vendita di lingua giapponese, portoghese e spagnola di visualizzare i contenuti di Sales Insight nella lingua preferita.
+Scarica la versione più recente di [!UICONTROL Sales Insight] da AppExchange in modo che i tuoi agenti di vendita di lingua giapponese, portoghese e spagnola possano visualizzare il contenuto di [!UICONTROL Sales Insight] nella loro lingua preferita.
 
 ![](assets/image2014-9-22-12-3a2-3a12.png)
 
@@ -71,9 +71,9 @@ Scarica l’ultima versione di Sales Insight dall’AppExchange per consentire a
 
 Visualizzare il numero di [membri presenti in ogni stato del programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) e il momento in cui hanno cambiato lo stato, inclusa la data in cui hanno raggiunto il successo del programma.
 
-## E-mail per test A/B in E-mail Analysis {#a-b-test-emails-in-email-analysis}
+## E-mail test A/B in [!UICONTROL Email Analysis] {#a-b-test-emails-in-email-analysis}
 
-Generare rapporti su ciascuna delle [varianti di e-mail di test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in Email Analysis.
+Generare rapporti su ciascuna delle [varianti di e-mail di test A/B](/help/marketo/product-docs/reporting/revenue-cycle-analytics/email-analysis/build-an-email-analysis-report-that-shows-program-information.md) in [!UICONTROL Email Analysis].
 
 ## Modifiche al pacchetto di Analytics {#analytics-packaging-changes}
 

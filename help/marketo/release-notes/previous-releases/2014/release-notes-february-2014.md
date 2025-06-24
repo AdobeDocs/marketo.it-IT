@@ -4,9 +4,9 @@ description: Note sulla versione - Febbraio 2014 - Documentazione Marketo - Docu
 title: Note sulla versione - Febbraio 2014
 exl-id: 5fcac75d-4e09-4f4d-9fd0-7c89f890d63e
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Le seguenti funzioni sono incluse nella versione di febbraio 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna a trovare i collegamenti agli articoli della Knowledge Base dettagliati per ogni funzione.
 
-## Punteggio di coinvolgimento come criterio di vincita {#engagement-score-as-winning-criteria}
+## [!UICONTROL Engagement Score] come criterio vincente {#engagement-score-as-winning-criteria}
 
 [Utilizza il punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/define-the-a-b-test-winner-criteria.md) per determinare la variante vincente nel test A/B split o nel test Champion/Challenger. Il test deve essere eseguito per un minimo di 24 ore, per ottenere un punteggio di coinvolgimento adeguato.
 
 ![](assets/image2014-9-22-10-3a46-3a49.png)
 
-## Scheda Risultati programma e-mail {#email-program-results-tab}
+## Scheda Programma e-mail [!UICONTROL Results] {#email-program-results-tab}
 
 [Visualizza i risultati](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/view-email-program-results.md) e le attività registrate per il programma e-mail.
 
 ![](assets/image2014-9-22-10-3a47-3a19.png)
 
-## Persone/lead bloccati dall&#39;invio {#people-leads-blocked-from-mailing}
+## Persone/[!UICONTROL Leads] bloccate per l&#39;invio {#people-leads-blocked-from-mailing}
 
 [Fai clic sul numero di persone/lead che non possono inviare](/help/marketo/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-with-a-smart-list.md) per vedere chi non riceverà l&#39;e-mail perché è stato annullato l&#39;abbonamento, inserito nella blacklist, ha un indirizzo e-mail non valido o vuoto o perché il marketing è stato sospeso.
 
@@ -35,11 +35,11 @@ Le seguenti funzioni sono incluse nella versione di febbraio 2014. Per informazi
 
 ## Esporta dati programma e-mail {#export-email-program-data}
 
-[Esporta metriche e-mail in Excel](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), inclusi i dati della variante del test AB.
+[Esporta metriche e-mail in [!DNL Excel]](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/export-email-program-dashboard-to-excel.md), inclusi i dati della variante del test AB.
 
-## [!UICONTROL Punteggio di coinvolgimento] in [!UICONTROL Rapporto prestazioni flusso di coinvolgimento] {#engagement-score-in-engagement-stream-performance-report}
+## [!UICONTROL Engagement Score] nel report [!UICONTROL Engagement Stream Performance] {#engagement-score-in-engagement-stream-performance-report}
 
-Il punteggio di coinvolgimento è stato aggiunto al report [[!UICONTROL Prestazioni del flusso di coinvolgimento]](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per aiutarti a vedere l&#39;efficacia del contenuto nel programma di coinvolgimento.
+Abbiamo aggiunto il punteggio di coinvolgimento al report [[!UICONTROL Engagement Stream Performance]](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md) per aiutarti a vedere l&#39;efficacia del contenuto nel tuo programma di coinvolgimento.
 
 ![](assets/image2014-9-22-10-3a50-3a36.png)
 
@@ -53,9 +53,9 @@ Il punteggio di coinvolgimento è stato aggiunto al report [[!UICONTROL Prestazi
 
 Sono stati aggiornati i seguenti nomi di filtro e attivatore:
 
-* Clic Collegamento a clic Collegamento a pagina web
-* Collegamento selezionato al collegamento selezionato nella pagina Web
-* Collegamento non selezionato Collegamento a collegamento non selezionato nella pagina Web
+* Clic sul collegamento a [!UICONTROL Clicks Link on Web Page]
+* Collegamento a [!UICONTROL Clicked Link on Web Page] su cui è stato fatto clic
+* Collegamento a [!UICONTROL Not Clicked Link on Web Page] non selezionato
 
 ![](assets/image2014-9-22-10-3a51-3a31.png)
 

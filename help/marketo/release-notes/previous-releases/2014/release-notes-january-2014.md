@@ -4,9 +4,9 @@ description: Note sulla versione -Gennaio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Gennaio 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ Le progettazioni dei temi, la personalizzazione dei pulsanti e i layout flessibi
 
 ![](assets/image2014-9-22-10-3a30-3a52.png)
 
-Vuoi che &quot;Stato&quot; venga visualizzato solo se un utente seleziona Stati Uniti come proprio &quot;Paese&quot;? Che ne dici di presentare ai clienti white paper diversi in base al modo in cui rispondono alle domande nel modulo? Crea una logica condizionale nei moduli direttamente dall’editor. Non è richiesto alcun JavaScript.
+Vuoi che &quot;Stato&quot; venga visualizzato solo se un utente seleziona Stati Uniti come proprio &quot;Paese&quot;? Che ne dici di presentare ai clienti white paper diversi in base al modo in cui rispondono alle domande nel modulo? Crea una logica condizionale nei moduli direttamente dall’editor. Nessun [!DNL javascript] richiesto.
 
 ![](assets/image2014-9-22-10-3a31-3a54.png)
 
 **Incorpora facilmente Forms nelle tue pagine di destinazione:**
 
-Sono finiti i giorni in cui si sollevava il codice HTML dai moduli inseriti nelle pagine di destinazione di Marketo e li si rilasciava in un iFrame. È sufficiente acquisire il codice da incorporare e inserirlo nella pagina di destinazione in cui desideri eseguire il rendering del modulo. Due modalità, normale e lightbox, offrono ancora più flessibilità con Marketo Forms sul sito.
+Sono finiti i giorni in cui si solleva il codice HTML dai moduli inseriti nelle pagine di destinazione di Marketo e li si rilascia in un [!DNL iFrame]. È sufficiente acquisire il codice da incorporare e inserirlo nella pagina di destinazione in cui desideri eseguire il rendering del modulo. Due modalità, normale e lightbox, offrono ancora più flessibilità con Marketo Forms sul sito.
 
 ![](assets/image2014-9-22-10-3a38-3a2.png)
 

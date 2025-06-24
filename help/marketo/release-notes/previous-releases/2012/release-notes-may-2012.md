@@ -4,10 +4,10 @@ description: Note sulla versione - Maggio 2012 - Documentazione di Marketo - Doc
 title: Note sulla versione di Marketing Cloud
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '660'
-ht-degree: 0%
+source-wordcount: '638'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,7 @@ Figura 5. Archiviali
 
 ## URL di conferma del webinar avanzato {#enhanced-webinar-confirmation-url}
 
-Ora disponibile per ON24 e Adobe Connect. Includi un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato che utilizza il nuovo token `{{member.webinar URL}}`. I miglioramenti apportati ad Adobe Connect includono anche la possibilità di attivare/disattivare l’e-mail con le informazioni sull’account Adobe, che include l’ID di accesso e la password dell’utente.
+Ora disponibile per [!DNL ON24] e Adobe Connect. Includi un collegamento univoco nell&#39;e-mail di conferma per ogni partecipante registrato che utilizza il nuovo token `{{member.webinar URL}}`. I miglioramenti apportati ad Adobe Connect includono anche la possibilità di attivare/disattivare l’e-mail con le informazioni sull’account Adobe, che include l’ID di accesso e la password dell’utente.
 
 ![](assets/image2014-9-23-10-3a15-3a44.png)
 
@@ -89,39 +89,39 @@ Accedi alle funzioni sperimentali sviluppate da tecnici Marketo per migliorare l
 
 Figura 10. Funzioni di Manager Treasure Chest in Amministratore
 
-## Integrazione con Microsoft Dynamics® CRM {#microsoft-dynamics-crm-integration}
+## Integrazione di [!DNL Microsoft Dynamics]® CRM {#microsoft-dynamics-crm-integration}
 
-Sincronizza account, contatti e lead tra Marketo e Microsoft Dynamics CRM Online tramite la nuova integrazione predefinita.
+Sincronizza account, contatti e lead tra Marketo e [!DNL Microsoft Dynamics] CRM Online utilizzando la nuova integrazione predefinita.
 
 ![](assets/image2014-9-23-10-3a17-3a6.png)
 
-Figura 11. Configurazione di Microsoft Dynamics
+Figura 11. Configurazione di [!DNL Microsoft Dynamics]
 
-## Miglioramenti di Marketo Sales Insight {#marketo-sales-insight-enhancements}
+## Miglioramenti di Marketo [!DNL Sales Insight] {#marketo-sales-insight-enhancements}
 
 **Opzioni piè di pagina per annullamento abbonamento**
 
-Configura quando e se viene visualizzato il piè di pagina per l’annullamento dell’iscrizione alle e-mail inviate tramite Sales Insight.
+Configurare quando e se viene visualizzato il piè di pagina per l&#39;annullamento dell&#39;iscrizione per le e-mail inviate tramite [!DNL Sales Insight].
 
 ![](assets/image2014-9-23-10-3a17-3a20.png)
 
-Figura 12. Impostazioni di Sales Insight in Admin
+Figura 12. Impostazioni [!DNL Sales Insight] in Amministrazione
 
 ## Cartelle per modelli e-mail vendite {#folders-for-sales-email-templates}
 
-Ora puoi organizzare i modelli e-mail condivisi con Marketo Sales Insight in cartelle specifiche, in modo che i rappresentanti commerciali possano trovare più facilmente l’e-mail corretta.
+È ora possibile organizzare i modelli di posta elettronica condivisi con Marketo [!DNL Sales Insight] in cartelle specifiche, semplificando la ricerca del messaggio di posta elettronica corretto per i rappresentanti commerciali.
 
 ![](assets/image2014-9-23-10-3a17-3a35.png)
 
 Figura 13. Scegli una cartella per le e-mail
 
-## Accedere ad Opportunity Analyzer da Sales Insight {#access-opportunity-analyzer-from-sales-insight}
+## Accedere ad Analizzatore opportunità da [!DNL Sales Insight] {#access-opportunity-analyzer-from-sales-insight}
 
-Fornisci ai tuoi rappresentanti commerciali informazioni approfondite sulle attività di marketing che stanno determinando il coinvolgimento, utilizzando l’accesso diretto ad Opportunity Analyzer da Marketo Sales Insight. Nota. Richiede la licenza Revenue Cycle Analytics.
+Fornisci ai tuoi rappresentanti commerciali insight in cui le attività di marketing stanno stimolando il coinvolgimento, utilizzando l&#39;accesso diretto ad Opportunity Analyzer da Marketo [!DNL Sales Insight]. Nota. Richiede la licenza Revenue Cycle Analytics.
 
 ## Campo personalizzato per lo stato del contatto {#custom-field-for-contact-status}
 
-Ora puoi mappare un campo personalizzato in Salesforce per compilare il campo Stato per i Contatti nelle visualizzazioni Elementi di maggiore rilevanza, Elementi di maggiore rilevanza del mio team e Personalizza.
+È ora possibile mappare un campo personalizzato in [!DNL Salesforce] per compilare il campo Stato per i contatti nelle visualizzazioni Elementi di maggiore rilevanza, Elementi di maggiore rilevanza del team e Personalizza.
 
 ![](assets/image2014-9-23-10-3a17-3a47.png)
 
@@ -129,7 +129,7 @@ Figura 14. Mappare un campo personalizzato ai contatti
 
 Vedi Pagine visitate da lead anonimi
 
-Espandere le pagine visualizzate da un lead anonimo dalla visualizzazione Attività Web anonimo.
+Espandere le pagine visualizzate da un lead anonimo dalla visualizzazione [!UICONTROL Anonymous Web Activity].
 
 ![](assets/image2014-9-23-10-3a17-3a59.png)
 

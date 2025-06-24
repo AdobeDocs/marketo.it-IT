@@ -4,9 +4,9 @@ description: Note sulla versione -Gen/Feb 2012 - Documentazione di Marketo - Doc
 title: Note sulla versione - Gen/Feb 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Le organizzazioni ora possono supportare l’accesso senza problemi all’applic
 
 Gli editor di e-mail e pagine di destinazione sono stati riprogettati con un’interfaccia più invitante, una navigazione intuitiva e un’esperienza utente notevolmente migliorata, che include:
 
-HTML affiancata e visualizzazione testo
+HTML affiancato e visualizzazione testo
 
 ![](assets/image2014-9-23-9-3a51-3a54.png)
 
@@ -69,10 +69,10 @@ Nell’editor vengono visualizzati Nome mittente, Da e-mail, Rispondi a (NUOVO) 
 
 ## Supporto browser {#browser-support}
 
-* Mozilla Firefox 9.0
-* Google Chrome 16
-* Microsoft Internet Explorer 8 e 9
-* **Nota**: Internet Explorer 7 non è più supportato
+* [!DNL Mozilla Firefox] 9.0
+* [!DNL Google Chrome] 16
+* [!DNL Microsoft Internet Explorer] 8 e 9
+* **Nota**: non sono più supportati [!DNL Internet Explorer] 7
 
 ## Gestione del programma {#program-management}
 
@@ -96,6 +96,6 @@ Comprendere il contributo del marketing ai ricavi delle singole opportunità
 
 ## Analisi della fase dei ricavi del programma {#program-revenue-stage-analysis}
 
-Approfondisci la velocità di avanzamento del programma comprendendo quali programmi hanno acquisito i movimenti rapidi
+Acquisisci insight in velocità di lead del programma comprendendo quali programmi hanno acquisito i fast move
 
 ![](assets/image2014-9-23-9-3a52-3a47.png)

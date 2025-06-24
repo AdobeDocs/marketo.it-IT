@@ -4,9 +4,9 @@ description: Note sulla versione - Giugno 2012 - Documentazione Marketo - Docume
 title: Note sulla versione - Giugno 2012
 exl-id: c22eda86-da7a-4c76-9cea-1ce23ff0f3e8
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '670'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Inoltre, abbiamo migliorato l’inserimento e la visualizzazione del testo descr
 
 ## Importa mappatura campi {#import-field-mapping}
 
-L&#39;importazione di un elenco in Marketo è stata semplificata. Durante il processo di importazione, è possibile mappare il nome del campo Marketo al nome dell&#39;intestazione di colonna nel file di importazione. Inoltre, in Admin puoi impostare nomi alias mappati al nome del campo in Marketo, garantendo che gli utenti selezionino ogni volta il campo corretto.
+L&#39;importazione di un elenco in Marketo è stata semplificata. Durante il processo di importazione, è possibile mappare il nome del campo Marketo al nome dell&#39;intestazione di colonna nel file di importazione. Inoltre, in [!UICONTROL Admin] è possibile impostare alias mappati al nome del campo in Marketo, assicurandosi che gli utenti selezionino ogni volta il campo corretto.
 
 Continuando a importare e mappare i campi, Marketo ricorderà e visualizzerà le mappature durante l’importazione, per semplificarne l’utilizzo. Per semplificare ulteriormente la gestione, fai clic sull’intestazione Valore di esempio per visualizzare i diversi valori che verrebbero inseriti nel campo. Questo ti aiuta a mappare il campo corretto ogni volta.
 
 ![](assets/image2014-9-23-10-3a23-3a27.png)
 
-## Pagina Riepilogo per elenchi avanzati ed elenchi statici {#summary-page-for-smart-lists-and-static-lists}
+## Pagina [!UICONTROL Summary] per elenchi avanzati ed elenchi statici {#summary-page-for-smart-lists-and-static-lists}
 
 Vi siete mai chiesti dove vengono usati i vostri elenchi? Chi ha creato o modificato per ultimo l’elenco? La nuova pagina di riepilogo disponibile negli elenchi smart e statici fornirà questi importanti dettagli.
 
@@ -41,13 +41,13 @@ Nelle pagine di riepilogo esistenti di Programma e Campagna, sono state aggiunte
 
 ![](assets/image2014-9-23-10-3a23-3a54.png)
 
-## Utilizzato da per Assets {#used-by-for-assets}
+## [!UICONTROL Used By] per Assets {#used-by-for-assets}
 
-Abbiamo aggiunto una nuova scheda alle pagine di riepilogo delle risorse, denominata Utilizzato da.
+È stata aggiunta una nuova scheda alle pagine [!UICONTROL Summary] della risorsa, denominata [!UICONTROL Used By].
 
 ![](assets/image2014-9-23-10-3a24-3a5.png)
 
-Esempio: utilizzato da per gli elenchi statici
+Esempio: [!UICONTROL Used By] per elenchi statici
 
 ## Griglia della pagina di destinazione {#landing-page-gridlines}
 
@@ -63,13 +63,13 @@ Quando pianifichi una campagna, puoi fare clic sul collegamento per visualizzare
 
 ![](assets/image2014-9-23-10-3a24-3a51.png)
 
-## Passaggio di attesa: token lead e token personale {#wait-step-lead-token-and-my-token}
+## Passaggio [!UICONTROL Wait] - Token lead e token personale {#wait-step-lead-token-and-my-token}
 
-Nella versione di maggio sono state aggiunte opzioni avanzate al passaggio Flusso di attesa. Con queste modifiche è possibile specificare un giorno lavorativo, una data e un&#39;ora. In questa versione è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, è possibile utilizzare `{{lead.Birthday}}` per inviare un messaggio e-mail di compleanno o `{{my.Event Date}}` per inviare un promemoria finale del webinar.
+Nella versione di maggio sono state aggiunte opzioni avanzate al passaggio del flusso [!UICONTROL Wait]. Con queste modifiche è possibile specificare un giorno lavorativo, una data e un&#39;ora. In questa versione è stata aggiunta la possibilità di utilizzare un token nel passaggio di attesa. Ad esempio, è possibile utilizzare `{{lead.Birthday}}` per inviare un messaggio e-mail di compleanno o `{{my.Event Date}}` per inviare un promemoria finale del webinar.
 
 ![](assets/image2014-9-23-10-3a25-3a57.png)
 
-## Visualizzare come miniature in Design Studio {#view-as-thumbnails-in-design-studio}
+## [!UICONTROL View] come [!UICONTROL Thumbnails] in Design Studio {#view-as-thumbnails-in-design-studio}
 
 Passare da una visualizzazione elenco di immagini a una visualizzazione miniature.
 

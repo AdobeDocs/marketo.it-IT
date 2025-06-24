@@ -4,9 +4,9 @@ description: Note sulla versione -Giugno 2014 - Documentazione Marketo - Documen
 title: Note sulla versione - Giugno 2014
 exl-id: 690c4e41-831b-47b4-a0c6-d29cf607b179
 feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Le seguenti funzioni sono incluse nella versione di giugno 2014. Per informazion
 
 ## Interfaccia utente aggiornata a breve. {#updated-ui-coming-soon}
 
-Un nuovo look and feel, inclusa la navigazione per Marketo Lead Management, sarà presto disponibile in una versione successiva.
+Un nuovo aspetto, inclusa la navigazione per [!DNL Marketo Lead Management], sarà presto disponibile in una versione successiva.
 
-## Plug-in Sales Insight per Outlook 2013 {#sales-insight-plugin-for-outlook}
+## Plug-in [!DNL Sales Insight] per [!DNL Outlook] 2013 {#sales-insight-plugin-for-outlook}
 
 Sarà necessario scaricare il nuovo plug-in. Puoi scaricarlo da [qui](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 ## Risoluzione token {#token-resolution}
 
-Quando invii un’e-mail di test da Sales Insight, i token attualmente presenti nell’e-mail non vengono risolti e viene inviato il valore predefinito. Questo miglioramento garantirà la risoluzione dei token nelle e-mail di test.
+Quando si invia un&#39;e-mail di test da [!DNL Sales Insight], i token presenti nell&#39;e-mail non vengono risolti e viene inviato il valore predefinito. Questo miglioramento garantirà la risoluzione dei token nelle e-mail di test.
 
 ## Personalizza percentuali per stelle e fiamme {#customize-percentages-for-stars-and-flames}
 
@@ -33,7 +33,7 @@ Quando invii un’e-mail di test da Sales Insight, i token attualmente presenti 
 
 ![](assets/image2014-9-22-13-3a50-3a31.png)
 
-## API lead ReST {#lead-rest-api}
+## API REST lead {#lead-rest-api}
 
 Crea, leggi e aggiorna i lead a livello di programmazione tramite la nuova API ReST. Per iniziare a utilizzare ReST è necessario [creare un servizio personalizzato](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md) in Marketo. Per informazioni dettagliate sull&#39;utilizzo di questa API, visita il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api/).
 

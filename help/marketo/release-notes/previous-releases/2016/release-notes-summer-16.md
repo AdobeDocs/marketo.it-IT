@@ -3,10 +3,9 @@ unique-page-id: 11380218
 description: Note sulla versione - Estate del 16 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Estate 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '773'
 ht-degree: 0%
 
 ---
@@ -29,7 +28,7 @@ Il marketing basato su account Marketo offre tutte le funzionalità di base in u
 >
 >ABM è disponibile come componente aggiuntivo per l’abbonamento a Marketo; per favore contatta il tuo rappresentante di vendita per l’implementazione.
 
-## [Audit Trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
+## [Audit trail](/help/marketo/product-docs/administration/audit-trail/audit-trail-overview.md) {#audit-trail}
 
 Audit trail fornisce una cronologia completa delle modifiche apportate all’interno dell’abbonamento Marketo. Creerà responsabilità tra utenti e amministratori, aiuterà a identificare la causa di comportamenti imprevisti e fornirà la sicurezza di sapere chi sta facendo cosa e quando. Queste informazioni saranno disponibili in qualsiasi momento e possono essere utilizzate per rispondere a domande quali:
 
@@ -39,13 +38,13 @@ Audit trail fornisce una cronologia completa delle modifiche apportate all’int
 
 ![](assets/audit-trail.png)
 
-## [Integrazione Marketo-Vibes SMS LaunchPoint](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md) {#marketo-vibes-sms-launchpoint-integration}
+## Integrazione Marketo-Vibes SMS LaunchPoint
 
 Creazione semplice di messaggi SMS direttamente in Marketo. Personalizza e indirizza il messaggio utilizzando dati Marketo avanzati e monitorane facilmente le prestazioni tramite la dashboard dei messaggi SMS.
 
 >[!NOTE]
 >
->Questa funzione richiede un account Vibes SMS esistente.
+>Questa funzionalità richiede un account [!DNL Vibes SMS] esistente.
 
 ![](assets/vibes-sms2.png)
 
@@ -60,7 +59,7 @@ In precedenza, tutte le variabili specificate in Modelli e-mail 2.0 erano &quot;
 **Aggiornamenti sintassi**
 
 * Ora è possibile utilizzare &quot;mktoAddByDefault&quot; sui moduli specificati in Modelli e-mail 2.0 per indicare quali moduli devono essere visualizzati nelle nuove e-mail per impostazione predefinita. Questa funzione è molto più utile se stai creando un modello e-mail con un numero elevato di moduli.
-* Sugli elementi immagine è ora possibile specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell&#39;elemento HTML sottostante di `<img>` devono essere bloccate o modificabili per l&#39;utente finale. mktoLockImgSize=&quot;true&quot; causerà il blocco di altezza/larghezza (anche se l&#39;immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; causerà il blocco della proprietà &quot;style&quot;.
+* Sugli elementi immagine è ora possibile specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell&#39;elemento HTML sottostante devono essere bloccate o modificabili per l&#39;utente finale. `<img>` mktoLockImgSize=&quot;true&quot; causerà il blocco di altezza/larghezza (anche se l&#39;immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; causerà il blocco della proprietà &quot;style&quot;.
 
 **Ricerca codice**
 
@@ -86,7 +85,7 @@ Sono finiti i giorni in cui i collegamenti di tracciamento e-mail potevano esser
 
 ## [Chiave organizzazione](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/authorize-the-marketo-outlook-plugin.md) {#enterprise-key}
 
-Richiedere a ogni persona del team di vendita di installare il nostro plug-in Sales Insight per Outlook può essere noioso. È stato introdotto un nuovo modo per installare il plug-in per Outlook in remoto utilizzando una chiave aziendale. Invia al tuo team IT la chiave univoca che trovi nella sezione Marketo Sales Insight dell’amministratore e lascia che faccia il resto.
+Richiedere a ogni persona nel team vendite di installare il plug-in [!DNL Sales Insight] per [!DNL Outlook] può essere noioso. È stato introdotto un nuovo modo per installare il plug-in per [!DNL Outlook] in remoto utilizzando una chiave Enterprise. Invia al tuo team IT la tua chiave univoca trovata nella sezione Marketo [!DNL Sales Insight] di [!UICONTROL Admin] e lascia fare il resto.
 
 ![](assets/enterprise-key.png)
 
@@ -96,20 +95,20 @@ Specifica un ritardo nella reazione delle campagne web sul tuo sito web.
 
 ![](assets/dialog-campaign-delay.png)
 
-## [Esportazione di Recommendations e analisi dei contenuti](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
+## [Esportazione Content Analytics e consigli](/help/marketo/product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md) {#content-analytics-and-recommendations-export}
 
 Visualizzare i dati di analisi dei contenuti e consigli offline.
 
-## [Supporto API per l&#39;editor e-mail 2.0](https://developer.adobe.com/marketo-apis/api/asset/) {#api-support-for-email-editor}
+## [Supporto API per l&#39;editor e-mail 2.0](https://developers.marketo.com/documentation/asset-api/) {#api-support-for-email-editor}
 
 Le API di Asset preesistenti, in precedenza compatibili solo con e-mail e modelli v1.0, ora sono abilitate per le risorse e-mail v2.0.
 
-## [Sito sviluppatori Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home) {#marketo-developers-site}
+## [Sito sviluppatori Marketo](https://developers.marketo.com/) {#marketo-developers-site}
 
 Nuovo e migliorato!
 
 ## [Impostazioni privacy](/help/marketo/product-docs/administration/settings/understanding-privacy-settings.md) {#privacy-settings}
 
-Gli addetti al marketing possono utilizzare le impostazioni relative alla privacy per decidere se tenere traccia dei visitatori utilizzando le funzionalità di Munchkin e Web Personalization. Il livello di tracciamento è controllato utilizzando l’impostazione Do Not Track del browser, un cookie di rinuncia o un IP non specifico. Questi metodi possono influenzare il valore e le funzionalità di Marketo in aree specifiche, ma se l’addetto marketing non cambia nulla, le funzionalità di Marketo rimangono le stesse.
+Gli addetti al marketing possono utilizzare le impostazioni relative alla privacy per decidere se tenere traccia dei visitatori utilizzando le funzionalità di [!DNL Munchkin] e Web Personalization. Il livello di tracciamento è controllato utilizzando l’impostazione Do Not Track del browser, un cookie di rinuncia o un IP non specifico. Questi metodi possono influenzare il valore e le funzionalità di Marketo in aree specifiche, ma se l’addetto marketing non cambia nulla, le funzionalità di Marketo rimangono le stesse.
 
 Questa funzione verrà rilasciata gradualmente ai clienti in un periodo di sei settimane. Se ne hai bisogno immediatamente, contatta il supporto Marketo.

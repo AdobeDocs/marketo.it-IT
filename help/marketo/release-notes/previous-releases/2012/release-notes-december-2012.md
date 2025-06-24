@@ -4,9 +4,9 @@ description: Note sulla versione - Dicembre 2012 - Documentazione di Marketo - D
 title: Note sulla versione - Dicembre 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -29,31 +29,31 @@ Utilizza i trigger e i filtri corrispondenti per identificare gli utenti che han
 
 ## Autorizzazioni amministratore granulari {#granular-admin-permissions}
 
-La nostra ultima versione offre un maggiore accesso e controllo sui ruoli di amministratore, controllando l’accesso a diverse funzioni nell’area di amministrazione di Marketo per ogni ruolo. Quando crei un nuovo ruolo, puoi assegnare funzioni amministratore specifiche a cui il ruolo può accedere.
+La versione più recente offre maggiore accesso e controllo sui ruoli [!UICONTROL Admin], controllando l&#39;accesso a diverse funzioni nell&#39;area di Marketo [!UICONTROL Admin] per ogni ruolo. Quando si crea un nuovo ruolo, è possibile assegnare [!UICONTROL Admin] funzioni specifiche a cui il ruolo può accedere.
 
 ![](assets/image2014-9-23-10-3a51-3a18.png)
 
 >[!NOTE]
 >
->Per impostazione predefinita, i ruoli esistenti con l’autorizzazione &quot;Amministratore di accesso&quot; hanno accesso a tutte le funzioni di amministrazione fino a quando e a meno che non vengano modificati.
+>Per impostazione predefinita, i ruoli esistenti con l&#39;autorizzazione ‘[!UICONTROL Access Admin]’ hanno accesso a tutte le funzioni [!UICONTROL Admin] fino a e a meno che non vengano modificati.
 
-## Scheda BrightTALK {#brighttalk-adapter}
+## Scheda [!UICONTROL BrightTALK] {#brighttalk-adapter}
 
-L&#39;adattatore Marketo BrightTALK consente di acquisire le informazioni sulle presenze da un webcast live o on-demand, direttamente in un evento Marketo.
+L&#39;adattatore Marketo [!UICONTROL BrightTALK] consente di acquisire le informazioni sulle presenze da un webcast live o on-demand direttamente in un evento Marketo.
 
 ![](assets/image2014-9-23-10-3a51-3a31.png)
 
-## Marketo Sales Insight per Microsoft Dynamics {#marketo-sales-insight-for-microsoft-dynamics}
+## Marketo [!DNL Sales Insight] per [!DNL Microsoft Dynamics] {#marketo-sales-insight-for-microsoft-dynamics}
 
-Sales Insight è ora disponibile per i clienti Microsoft Dynamics.
+[!DNL Sales Insight] è ora disponibile per [!DNL Microsoft Dynamics] clienti.
 
-## Sincronizzazione opportunità Dynamics {#dynamics-opportunity-sync}
+## Sincronizzazione opportunità [!DNL Dynamics] {#dynamics-opportunity-sync}
 
-Sincronizza i dati dell’opportunità tra Marketo e Microsoft Dynamics.
+Sincronizza dati opportunità tra Marketo e [!DNL Microsoft Dynamics].
 
 ## Rapporto Opportunità Influenzate Dal Marketing&#42; {#marketing-influenced-opportunities-report}
 
-Indica in quale percentuale la pipeline e i ricavi della tua azienda sono stati influenzati dai tuoi programmi di marketing. In **Revenue Explorer**, è ora possibile creare report personalizzati con il nuovo punto giallo &quot;Opportunità influenzata dal marketing&quot; in Analisi opportunità. È inoltre possibile utilizzare i due rapporti seguenti nella cartella Standard:
+Indica in quale percentuale la pipeline e i ricavi della tua azienda sono stati influenzati dai tuoi programmi di marketing. In **[!UICONTROL Revenue Explorer]** è ora possibile creare report personalizzati con il nuovo punto giallo &quot;Opportunità influenzata dal marketing&quot; nell&#39;analisi delle opportunità. È inoltre possibile utilizzare i due rapporti seguenti nella cartella Standard:
 
 * Influenza del marketing sulle opportunità create
 * Influenza del marketing sulle opportunità chiuse
@@ -62,14 +62,14 @@ Indica in quale percentuale la pipeline e i ricavi della tua azienda sono stati 
 
 ## Campi opportunità personalizzati nell&#39;analisi dell&#39;opportunità del programma&#42; {#custom-opportunity-fields-in-program-opportunity-analysis}
 
-Aggiungi campi opportunità personalizzati per arricchire i rapporti Analisi opportunità programma in Esplora entrate.
+Aggiungere campi opportunità personalizzati per arricchire i rapporti Analisi opportunità programma in [!UICONTROL Revenue Explorer].
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
 ## Ispettore campagna {#campaign-inspector}
 
-Ti sei mai chiesto quali campagne utilizzano un’azione di flusso specifica, ad esempio Modifica punteggio o Richiedi campagna? O dove viene utilizzato un determinato filtro? Il nuovo Campaign Inspector (disponibile dal Treasure Chest) consente di identificare queste campagne, nonché le campagne attive e le campagne con errori.
+Ti sei mai chiesto quali campagne utilizzano un&#39;azione di flusso specifica, ad esempio [!UICONTROL Change Score] o [!UICONTROL Request Campaign]? O dove viene utilizzato un determinato filtro? Il nuovo [!UICONTROL Campaign Inspector] (disponibile dal Treasure Chest) consente di identificare queste campagne, nonché le campagne attive e le campagne con errori.
 
-Vai a **Amministratore** > **Sfondo tesoro** per abilitare **Ispettore campagna**.
+Vai a **[!UICONTROL Admin]** > **[!UICONTROL Treasure Chest]** per abilitare **[!UICONTROL Campaign Inspector]**.
 
 ![](assets/image2014-9-23-10-3a52-3a39.png)

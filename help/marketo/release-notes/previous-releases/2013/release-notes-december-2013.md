@@ -4,9 +4,9 @@ description: Note sulla versione -Dicembre 2013 - Documentazione Marketo - Docum
 title: Note sulla versione - Dicembre 2013
 exl-id: 145e2706-c770-4f39-a1ef-77b7912b1b70
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -35,14 +35,14 @@ Nel nuovo programma e-mail, esegui un test [A/B](/help/marketo/product-docs/emai
 
 [Il test Champion/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md) è simile al test A/B, ma la differenza è che viene utilizzato per le e-mail attivate e non si invia automaticamente un vincitore. Questo test ti permette di sfidare un modo consolidato di fare qualcosa, chiamato Champion, e di verificare se è ancora il migliore introducendo un Challenger. Inoltre, i test e-mail Champion/Challenger possono essere utilizzati all’interno dei flussi del programma di coinvolgimento.
 
-## Dettagli del lead in E-mail Analysis {#lead-details-in-email-analysis}
+## Dettagli lead in [!UICONTROL Email Analysis] {#lead-details-in-email-analysis}
 
-Abbiamo introdotto attributi aggiuntivi per lead e società in E-mail Analysis. Ora puoi visualizzare le statistiche delle e-mail raggruppate per nuovi attributi, ad esempio Industria e Source lead.
+Sono stati introdotti ulteriori attributi lead e società in [!UICONTROL Email Analysis]. Ora puoi visualizzare le statistiche dei messaggi e-mail raggruppate per nuovi attributi, ad esempio [!UICONTROL Industry] e [!UICONTROL Lead Source].
 
 ![](assets/image2014-9-22-17-3a20-3a43.png)
 
 ![](assets/image2014-9-22-17-3a21-3a18.png)
 
-## Adattatore evento BrightTALK avanzato {#enhanced-brighttalk-event-adapter}
+## Adattatore evento [!DNL BrightTALK] avanzato {#enhanced-brighttalk-event-adapter}
 
-Ora puoi richiamare gli utenti registrati in Marketo dal tuo canale ed evento BrightTALK. Puoi utilizzare queste informazioni per informare altre campagne di marketing.
+Ora puoi richiamare gli utenti registrati in Marketo dal tuo canale ed evento [!DNL BrightTALK]. Puoi utilizzare queste informazioni per informare altre campagne di marketing.

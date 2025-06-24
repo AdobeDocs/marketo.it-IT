@@ -4,9 +4,9 @@ description: Note sulla versione - 20 ottobre - Documentazione di Marketo - Docu
 title: Note sulla versione - Ottobre 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da un asterisco (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da un asterisco (![](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 **_Versioni trimestrali_** Le seguenti funzionalità verranno rilasciate il **16 ottobre 2020**.
 
@@ -33,21 +33,21 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 ## Marketing per siti Web {#website-marketing}
 
-* **Incorpora automazione codice modulo**: acquisisci altri lead con moduli di Marketo Engage incorporati nelle pagine di destinazione protette ospitate al di fuori di Marketo. Il codice di incorporamento del modulo si aggiorna automaticamente per includere il nome di dominio della pagina di destinazione ed elimina il lavoro manuale per gli sviluppatori web. Il dominio personalizzato nel collegamento di codice migliora le esperienze di navigazione del sito web e l’utilizzo dei moduli.
+* **Incorpora automazione codice modulo**: acquisisci altri lead con Marketo Engage Form incorporati nelle pagine di destinazione protette ospitate al di fuori di Marketo. Il codice di incorporamento del modulo si aggiorna automaticamente per includere il nome di dominio della pagina di destinazione ed elimina il lavoro manuale per gli sviluppatori web. Il dominio personalizzato nel collegamento di codice migliora le esperienze di navigazione del sito web e l’utilizzo dei moduli.
 
-## Integrazione Experience Cloud {#experience-cloud-integration}
+## Integrazione di Experience Cloud {#experience-cloud-integration}
 
-* **Sincronizzazione continua del pubblico da Adobe Experience Cloud al Marketo Engage**: rivolgiti ai lead con Marketo Engage basato su dati di intenti di prime parti da Adobe Analytics, Adobe Audience Manager o Adobe Real-Time CDP. Aggiorna automaticamente gli elenchi statici del Marketo Engage tramite sincronizzazione continua, aggiungi lead a programmi e-mail o di coinvolgimento e avvisa le vendite quando i lead sono pronti.
+* **Sincronizzazione continua del pubblico da Adobe Experience Cloud a Marketo Engage**: esegui il targeting dei lead con Marketo Engage in base ai dati di intento di prime parti da Adobe Analytics, Adobe Audience Manager o Adobe Real-Time CDP. Aggiorna automaticamente gli elenchi statici di Marketo Engage tramite sincronizzazione continua, aggiungi lead a programmi e-mail o di coinvolgimento e avvisa le vendite quando i lead sono pronti.
 
 ## Integrazione CRM {#crm-integration}
 
-* **Sincronizzazione di Salesforce CRM**: identificare e correggere gli errori e gli errori di sincronizzazione con due nuovi dashboard di sincronizzazione ed errori di Salesforce. Monitora gli aggiornamenti, le eliminazioni e gli errori dei nuovi record e il completamento del processo di sincronizzazione. I report possono essere filtrati per data, tipo di operazione o tipo di oggetto.
+* Sincronizzazione CRM **[!DNL Salesforce]**: identificare e correggere gli errori e gli errori di sincronizzazione con due nuovi dashboard di sincronizzazione ed errori di [!DNL Salesforce]. Monitora gli aggiornamenti, le eliminazioni e gli errori dei nuovi record e il completamento del processo di sincronizzazione. I report possono essere filtrati per data, tipo di operazione o tipo di oggetto.
 
-* **Integrazione di Microsoft Dynamics 365**: registrazione automatizzata di lead e contatti nelle campagne Microsoft Dynamics 365. Aggiungi o rimuovi facilmente lead e contatti di Marketo Engage alle campagne MS Dynamics con nuove azioni di flusso per campagne intelligenti. Trasmettere senza problemi i lead dal marketing alle vendite e chiudere le offerte più rapidamente.
+* Integrazione **[!DNL Microsoft Dynamics 365]**: registrazione automatica di lead e contatti nelle campagne [!DNL Microsoft Dynamics 365]. Aggiungere o rimuovere facilmente lead e contatti Marketo Engage in [!DNL MS Dynamics] campagne con nuove azioni di flusso smart campaign. Trasmettere senza problemi i lead dal marketing alle vendite e chiudere le offerte più rapidamente.
 
 ## Targeting di media a pagamento {#paid-media-targeting}
 
-* **Integrazioni di annunci lead Facebook**: i parametri di tracciamento dei moduli di Facebook possono ora essere acquisiti tramite il servizio LaunchPoint per gli annunci lead di Facebook. Questi campi nascosti possono ora essere mappati sui campi Marketo, consentendo agli addetti al marketing di memorizzare e agire sui dati di tracciamento delle campagne.
+* Integrazioni di **[!DNL Facebook]annunci lead**: è ora possibile acquisire [!DNL Facebook] parametri di tracciamento dei moduli tramite il servizio LaunchPoint per [!DNL Facebook] annunci lead. Questi campi nascosti possono ora essere mappati sui campi Marketo, consentendo agli addetti al marketing di memorizzare e agire sui dati di tracciamento delle campagne.
 
 ## Amministrazione {#administration}
 
@@ -59,25 +59,25 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 * **Nuove opzioni di esportazione metadati**: esporta i metadati di oggetti personalizzati per gli oggetti personalizzati selezionati in un foglio di calcolo per facilitarne la condivisione. Inoltre, è possibile esportare i metadati di uno o tutti gli oggetti abbonamento, ad esempio lead, azienda, attività standard e personalizzate, tag e canali. I dati possono essere estratti dagli amministratori e condivisi rapidamente con i team di progettazione a scopo di analisi e progettazione.
 
-* **Campo personalizzato opportunità**: ulteriori informazioni sui record opportunità con i campi personalizzati opportunità visualizzati nel Marketo Engage. Visualizza i dati dei campi personalizzati dell’opportunità da Salesforce CRM, Microsoft Dynamics 365 CRM, integrazioni native di vendita o tramite altre integrazioni API. La visibilità completa dei dettagli e della pipeline delle opportunità consente di coordinare il coinvolgimento con le attività di vendita, aumentare le conversioni e contribuire a chiudere più rapidamente le offerte.
+* **Campo personalizzato opportunità**: acquisisci più insight nei record opportunità con i campi personalizzati opportunità visualizzati in Marketo Engage. Visualizza i dati dei campi personalizzati dell&#39;opportunità da [!DNL Salesforce] CRM, [!DNL Microsoft Dynamics 365] CRM, integrazioni native di vendita o tramite altre integrazioni API. La visibilità completa dei dettagli e della pipeline delle opportunità consente di coordinare il coinvolgimento con le attività di vendita, aumentare le conversioni e contribuire a chiudere più rapidamente le offerte.
 
 ## Rilascio nel corso del trimestre {#releasing-throughout-the-quarter}
 
 Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
-## Insight sulle vendite {#sales-insight}
+## [!DNL Sales Insight] {#sales-insight}
 
 ![(stella)](assets/yellow-star.png)
 
-* **Opzioni di configurazione per l&#39;ottimizzazione API e la nuova governance**: migliora l&#39;esperienza utente di Sales Insight tramite l&#39;ottimizzazione API migliorata e l&#39;aggiunta di funzioni di governance. Le impostazioni di configurazione consentono agli amministratori di definire il modo in cui le campagne e gli eventi vengono caricati nel dashboard di Informazioni sulle vendite. Le attività di calendario flessibili visualizzano opzioni che riducono l’utilizzo delle API e migliorano l’esperienza complessiva.
+* **Opzioni di configurazione per l&#39;ottimizzazione API e la nuova governance**: migliorare l&#39;esperienza utente di [!DNL Sales Insight] tramite l&#39;ottimizzazione API avanzata e l&#39;aggiunta di funzionalità di governance. Le impostazioni di configurazione consentono agli amministratori di definire il modo in cui le campagne e gli eventi vengono caricati nel dashboard di Sales Insight. Le attività di calendario flessibili visualizzano opzioni che riducono l’utilizzo delle API e migliorano l’esperienza complessiva.
 
 ## Annunci ed elementi obsoleti {#announcements-deprecations}
 
-* **Nuovo aspetto Marketo Engage**: le nuove versioni dei grafici a linee, a barre, a colonne e a torta forniscono visualizzazioni aggiornate in tutto il Marketo Engage, incluse le attività di marketing, tutte le funzioni di reporting e la visualizzazione dei dati visualizzata nelle attività di marketing. Questo aggiornamento è una risposta al fatto che l’Adobe Flash ha raggiunto la fine del ciclo di vita il 31 dicembre 2020.
+* **Nuovo aspetto Marketo Engage**: le nuove versioni dei grafici a linee, a barre, a colonne e a torta forniscono visualizzazioni aggiornate in Marketo Engage, incluse le attività di marketing, tutte le funzionalità di reporting e la visualizzazione dei dati visualizzata nelle attività di marketing. Questo aggiornamento risponde al fatto che Adobe Flash ha raggiunto la fine del ciclo di vita il 31 dicembre 2020.
 
 * **Aggiornamenti a ruoli utente e autorizzazioni**: l&#39;autorizzazione di importazione avanzata degli elenchi diventerà obsoleta nella prossima versione per semplificare la gestione di ruoli e autorizzazioni. Le autorizzazioni di importazione degli elenchi esistenti nelle attività di marketing e nel database lead abilitano le opzioni di importazione degli elenchi necessarie nelle rispettive aree dell’app.
 
-* **Gestione campi**: è stata introdotta una restrizione alle modifiche sincrone al tipo di campo personalizzato nel Marketo Engage per aumentare la sicurezza dell&#39;infrastruttura. Quando si apportano modifiche a più tipi di campo, le modifiche apportate al primo campo devono essere completate prima di passare al campo successivo. Questo nuovo processo garantisce un ambiente più stabile e riduce al minimo i rischi di guasto del tipo di modifica.
+* **Gestione campi**: viene introdotta una restrizione alle modifiche sincrone al tipo di campo personalizzato in Marketo Engage per aumentare la sicurezza dell&#39;infrastruttura. Quando si apportano modifiche a più tipi di campo, le modifiche apportate al primo campo devono essere completate prima di passare al campo successivo. Questo nuovo processo garantisce un ambiente più stabile e riduce al minimo i rischi di guasto del tipo di modifica.
 
 * **Limite dimensione URI API risorsa aumentato**: il limite dimensione URI (Uniform Resource Identifier) viene aumentato da 8 KB a 65 KB prima della rimozione del parametro &quot;_method&quot;. L’aumento del limite di dimensione consente ai clienti che utilizzano stringhe di query lunghe di trasmettere più facilmente i dati. La rimozione del parametro &quot;_method&quot; fa parte di un aggiornamento della sicurezza imminente.
 

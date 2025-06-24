@@ -4,9 +4,9 @@ description: Note sulla versione -19 giugno - Documentazione Marketo - Documenta
 title: Note sulla versione - Giugno '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
 workflow-type: tm+mt
-source-wordcount: '639'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 ## Servizi di base di Marketo {#marketo-core-services}
 
 * **Checksum dell&#39;estrazione in blocco dei file**: verificare che sia stato recuperato un file completo confrontando l&#39;hash del file con la stringa di checksum dei processi di estrazione completati.
-* **Migrazione automatizzata da e-mail 1.0 a e-mail 2.0**: e-mail 2.0 è completamente compatibile con e-mail 1.0 e modelli. Scopri nuove funzionalità, come la possibilità di raggruppare gli elementi di contenuto (immagini, testo, ecc.) nei moduli, definisci variabili come Stringa, Colore, Immagine, ecc. nei modelli e sfrutta modelli di avvio completamente reattivi. Include anche un selettore del modello e-mail visivo.
+* **Migrazione automatizzata da e-mail 1.0 a e-mail 2.0**: e-mail 2.0 è completamente compatibile con e-mail 1.0 e modelli. Scopri nuove funzionalità, come la possibilità di raggruppare gli elementi di contenuto (immagini, testo, ecc.) in moduli, definire variabili come Stringa, Colore, Immagine, ecc. nei modelli e sfrutta modelli di avvio completamente reattivi. Include anche un selettore del modello e-mail visivo.
 
 >[!CAUTION]
 >
@@ -30,7 +30,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* **Corrispondenza account LinkedIn (BETA)**: è ora disponibile una nuova funzionalità ABM in versione beta che consente di inviare elenchi di account noti e con spazi vuoti direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti ABM di Marketo.
+* Corrispondenza account **[!DNL LinkedIn](BETA)**: è ora disponibile una nuova funzionalità ABM in versione beta che consente di inviare elenchi di account noti e con spazi vuoti direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti ABM di Marketo.
 
 <br> 
 
@@ -38,9 +38,9 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 
 Le seguenti funzionalità dovrebbero essere rilasciate nel corso del secondo trimestre del calendario e all&#39;inizio del terzo trimestre del 2019.
 
-## Marketo Sky {#marketo-sky}
+## [!DNL Marketo Sky] {#marketo-sky}
 
-* **Capi evento** e **Obiettivi evento** sono generalmente disponibili in Marketo Sky nel componente aggiuntivo Eventi Premium.
+* **Capi evento** e **Obiettivi evento** sono generalmente disponibili in [!DNL Marketo Sky] nel componente aggiuntivo Eventi Premium.
 
    * Limiti per gli eventi: ottimizza l’esperienza del cliente per i tuoi eventi e webinar con limiti di registrazione, reindirizzamenti di pagina e funzionalità di lista d’attesa.
    * Obiettivi dell’evento: imposta gli obiettivi di registrazione e partecipazione all’evento e tieni traccia dell’avanzamento in tempo reale.
@@ -53,19 +53,19 @@ Le seguenti funzionalità dovrebbero essere rilasciate nel corso del secondo tri
 * **Altre smart list**: segmentare e impostare la destinazione in modo appropriato con altre smart list, inclusi il passaggio di flusso &quot;Crea attività&quot;, le regole degli smart list CRM e altro ancora.
 * **Pagina dettagli campione/sfidante e-mail**: visualizza dati come criteri di vincita, creati in, ecc. dai test e-mail champion/challenge.
 
-## Marketo Sales Connect {#marketo-sales-connect}
+## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 
-* **Azioni in blocco nella personalizzazione Salesforce**: massimizza la produttività inviando e-mail e aggiungendo contatti alle campagne in blocco con la personalizzazione Salesforce.
-* **Impostazioni - Pagina Salesforce per amministratori e non amministratori**: gestisci l&#39;istanza Sales Connect con una chiara visualizzazione dell&#39;istanza Salesforce connessa a Sales Connect e degli aggiornamenti My Email to Salesforce. Le impostazioni di sincronizzazione migliorate per amministratori, non amministratori e Sincronizzazione a livello di team verranno rilasciate nei prossimi mesi.
+* **Azioni in blocco nella personalizzazione [!DNL Salesforce]**: massimizza la produttività inviando e-mail e aggiungendo contatti alle campagne in blocco con la personalizzazione [!DNL Salesforce].
+* **Impostazioni - [!DNL Salesforce] Pagina per amministratori e non amministratori**: gestisci l&#39;istanza [!DNL Sales Connect] con una visualizzazione chiara dell&#39;istanza [!DNL Salesforce] connessa a [!DNL Sales Connect], nonché dell&#39;indirizzo e-mail personale agli aggiornamenti [!DNL Salesforce]. Le impostazioni di sincronizzazione migliorate per amministratori, non amministratori e Sincronizzazione a livello di team verranno rilasciate nei prossimi mesi.
 * **Impostazioni - Pagina di integrazione**: uno sportello unico per tutte le integrazioni, in modo da poter ottenere il massimo dal nostro ecosistema aperto.
 * **Impostazioni - Pagina profilo**: visualizza e aggiorna i dettagli dell&#39;account, cambia la password e controlla lo stato dell&#39;implementazione dell&#39;istanza in questa nuova pagina profilo.
 
 * **Modelli e-mail di sistema**: funzionalità di progettazione, reattività e internazionalizzazione aggiornate.
 
-## Bizible di Marketo {#bizible-by-marketo}
+## [!DNL Bizible] di Marketo {#bizible-by-marketo}
 
-* **Supporto multi-valuta per Dynamics**: Bizible si adatta ora alle tabelle di valuta di Microsoft Dynamics, in modo da poter passare facilmente dalla valuta aziendale a quella locale. (Nota: il supporto per SFDC è stato rilasciato nel primo trimestre del 2019).
-* **Integrazione Drift**: scopri in che modo le conversazioni Drift influiscono sul percorso del cliente. Bizible richiamerà inoltre gli indirizzi e-mail dalle conversazioni per creare un nuovo lead o collegare il punto di contatto a un lead esistente.
-* **Localizzazione**: Bizible è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
+* **Supporto multi-valuta per[!DNL Dynamics]**: [!DNL Bizible] si adatta ora alle tabelle di valuta [!DNL Microsoft Dynamics], per passare facilmente dalla valuta aziendale a quella locale. (Nota: il supporto per SFDC è stato rilasciato nel primo trimestre del 2019.)
+* **Integrazione Drift**: scopri in che modo le conversazioni Drift influiscono sul percorso del cliente. [!DNL Bizible] richiamerà inoltre gli indirizzi e-mail dalle conversazioni per creare un nuovo lead o collegare il punto di contatto a un lead esistente.
+* **Localizzazione**: [!DNL Bizible] è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 
 ***Webinar sulla versione del prodotto*** Guarda la registrazione del nostro webinar sulle innovazioni della versione di giugno &#39;19 [qui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

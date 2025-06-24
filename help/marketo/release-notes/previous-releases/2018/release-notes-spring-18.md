@@ -3,10 +3,9 @@ unique-page-id: 14745959
 description: Note sulla versione - Primavera del 18 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-feature: Release Information
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -17,37 +16,37 @@ Le seguenti funzioni sono incluse nella versione di primavera del 18. Verifica l
 
 Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione. Nota: ad alcune funzioni incluse in questa versione non sono associati articoli. Se un argomento ha più sottotitoli, i collegamenti sono posizionati lì.
 
-## Aggiornamenti Marketo Sales Engage, Launch e ToutApp {#marketo-sales-engage-launch-and-toutapp-updates}
+## Aggiornamenti di Marketo [!DNL Sales Engage], Launch e [!DNL ToutApp] {#marketo-sales-engage-launch-and-toutapp-updates}
 
-* [Marketo Sales Engage](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* [Avvia](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
-* Aggiornamenti ToutApp
+* [Marketo [!DNL Sales Engage]](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [Launch](/help/marketo/product-docs/marketo-sales-connect/getting-started/sales-connect-overview.md)
+* [!DNL ToutApp] aggiornamenti
 
 >[!AVAILABILITY]
 >
->Sales Engage è un prodotto aggiuntivo. Contatta il tuo Account Manager o Account Executive Marketo per richiedere un preventivo.
+>[!DNL Sales Engage] è un componente aggiuntivo. Contatta il tuo Customer Success Manager Marketo o Account Executive per richiedere un preventivo.
 
-Aumenta i flussi di lavoro e i ricavi potenziando le vendite con intelligenza, contenuti, playbook e analisi per convertire più lead in opportunità di vendita. Sales Engage offre alle attività di vendita e marketing una piattaforma unificata per il coinvolgimento in tutto il percorso di clienti e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
+Aumenta i flussi di lavoro e i ricavi potenziando le vendite con intelligenza, contenuti, playbook e analisi per convertire più lead in opportunità di vendita. [!DNL Sales Engage] offre alle attività di vendita e marketing una piattaforma unificata per il coinvolgimento in tutto il percorso di clienti e consente un migliore coordinamento attraverso una visione condivisa dei punti di contatto dei clienti.
 
-**ToutApp**
+**[!DNL ToutApp]**
 
 * **Scheda di conformità**: assicurati che il regolamento RGPD sia conforme acquisendo l&#39;origine dei contatti di vendita e i dettagli del consenso del cliente per la ricezione delle comunicazioni.
 * **Aggiornamento criteri password**: proteggi i tuoi dati con requisiti più severi per la creazione, la reimpostazione e la scadenza delle password (soddisfa i requisiti di conformità Soc II - Tipo 1).
-* **Esperienza di configurazione account semplificata**: configurazione dell&#39;account e connessione più rapida a Gmail, Outlook e ad altri sistemi.
+* **Esperienza di configurazione account semplificata**: configurazione dell&#39;account e connessione più rapida a [!DNL Gmail], [!DNL Outlook] e altri sistemi.
 
 ## Marketo Sky Open Beta {#marketo-sky-open-beta}
 
 [Marketo Sky Apri Beta](https://help.marketo.com/)
 
-Opt in the Marketo Sky open beta per accedere a oltre 100 nuove funzionalità per aumentare la produttività, tra cui:
+Opt in Marketo Sky open beta per accedere a oltre 100 nuove funzionalità per aumentare la produttività, tra cui:
 
 * Un menu di navigazione a sinistra aggiornato, regole di elenchi avanzati e azioni di flusso salvate, azioni di massa per la gestione delle risorse e scadenza delle risorse pianificata
 * Guide in-app e aiuto contestuale
 * Etichette delle risorse e visualizzazioni del calendario più flessibili
 
-## Informazioni sulle prestazioni {#performance-insights}
+## [!UICONTROL Performance Insights] {#performance-insights}
 
-[Informazioni sulle prestazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
+[[!UICONTROL Performance Insights]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md)
 
 **Confronto Periodo Su Base Annua**
 
@@ -63,7 +62,7 @@ Filtra i risultati in base ai campi personalizzati dell’opportunità, ad esemp
 
 **Grafici rapidi condivisi**
 
-Condividi facilmente i tuoi grafici rapidi con altri utenti di Performance Insights.
+Condividi facilmente i tuoi grafici rapidi con altri [!UICONTROL Performance Insights] utenti.
 
 **Miglioramenti di usabilità**
 
@@ -77,12 +76,16 @@ Imposta l’obiettivo dell’algoritmo di ottimizzazione ContentAI per distribui
 
 ## Integrazione e API {#integration-and-apis}
 
-[API elenco statiche](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Static-Lists)
+Integrazione di Facebook Workplace
+
+Invia notifiche di sistema e momenti interessanti a [!DNL Facebook Workplace].
+
+API di elenco statico
 
 Gestisci più facilmente gli elenchi tra Marketo e altri sistemi con nuove API bidirezionali per la creazione, la lettura, l’aggiornamento e l’eliminazione di elenchi statici in remoto senza intraprendere alcuna azione nell’interfaccia utente di Marketo.
 
 ## Miglioramenti della privacy {#privacy-enhancements}
 
-[Privacy tracciamento Web](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/lead-tracking)
+Privacy tracciamento web
 
-Il monitoraggio Munchkin avanzato è conforme alle normative locali e internazionali sulla privacy rendendo anonimi gli indirizzi IP dei visitatori web e consentendo loro di rinunciare definitivamente al monitoraggio web.
+Il monitoraggio avanzato di [!DNL Munchkin] è conforme alle normative sulla privacy locali e internazionali rendendo anonimi gli indirizzi IP dei visitatori Web e consentendo loro di rinunciare definitivamente al monitoraggio web.
