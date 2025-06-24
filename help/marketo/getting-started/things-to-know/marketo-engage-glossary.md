@@ -444,7 +444,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
  <tbody> 
   <tr> 
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/using-interesting-moments.md" rel="nofollow"><strong>Persona nota</strong></a></td> 
-   <td><p>Qualsiasi dato di persona nel <strong>database</strong> di Marketo è considerato un dato di persona noto. Esistono diversi modi per consentire a un utente di accedere al database, tra cui: sincronizzazione CRM, compilazione di un modulo, importazione elenco/immissione manuale, a livello di programmazione (integrazioni REST API/partner) e altro ancora. I visitatori Web inizialmente sono <strong>cookie</strong> (e sono anonimi) tramite il tracciamento Web di Marketo <strong>Munchkin</strong> e successivamente vengono mappati al corrispondente record persona nota quando si verifica un'azione identificabile (ad esempio, se si fa clic su un collegamento tracciato in un'e-mail di Marketo, si compila un modulo con il relativo indirizzo e-mail o si eseguono manualmente i mapping tramite le API lead di Marketo Associate sia in <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> che in <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
+   <td><p>Qualsiasi dato di persona nel <strong>database</strong> di Marketo è considerato un dato di persona noto. Esistono diversi modi per consentire a un utente di accedere al database, tra cui: sincronizzazione CRM, compilazione di un modulo, importazione elenco/immissione manuale, a livello di programmazione (integrazioni REST API/partner) e altro ancora. I visitatori Web inizialmente sono <strong>cookie</strong> (e sono anonimi) tramite il tracciamento Web di Marketo <strong>Munchkin</strong> e successivamente vengono mappati al corrispondente record persona nota quando si verifica un'azione identificabile (ad esempio, se si fa clic su un collegamento tracciato in un'e-mail di Marketo, si compila un modulo con il relativo indirizzo e-mail o si eseguono manualmente i mapping tramite le API lead di Marketo Associate sia in <a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking#known-and-anonymous-leads">Munchkin</a> che in <a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/associateLeadUsingPOST">Rest API</a></p></td> 
   </tr> 
  </tbody> 
 </table>
@@ -535,7 +535,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td>Noto anche come MSD. Uno dei due CRM Marketo ha un'integrazione nativa con (vedi <a href="#c"><strong>CRM</strong></a>).</td> 
   </tr> 
   <tr> 
-   <td><strong><a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
+   <td><strong><a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking" target="_blank">Munchkin</a></strong></td> 
    <td>Codice di tracciamento JavaScript personalizzato di Marketo. Tiene traccia di tutti gli utenti che visitano il tuo sito web. Questo include i visitatori anonimi (insieme ai loro indirizzi IP e altre informazioni). </td> 
   </tr> 
   <tr> 
