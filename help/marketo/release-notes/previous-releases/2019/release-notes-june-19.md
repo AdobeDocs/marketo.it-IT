@@ -30,7 +30,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* Corrispondenza account **[!DNL LinkedIn](BETA)**: è ora disponibile una nuova funzionalità ABM in versione beta che consente di inviare elenchi di account noti e con spazi vuoti direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti ABM di Marketo.
+* Corrispondenza account **[!DNL LinkedIn] (BETA)**: è ora disponibile una nuova funzionalità ABM in versione beta che consente di inviare elenchi di account noti e con spazi vuoti direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti ABM di Marketo.
 
 <br> 
 
