@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720710
-description: Configurare SPF e DKIM per il recapito messaggi e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Configurare SPF e DKIM per il recapito messaggi e-mail - Documentazione Marketo - Documentazione del prodotto
 title: Configurare SPF e DKIM per il recapito messaggi e-mail
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Un metodo rapido per migliorare le percentuali di consegna delle e-mail consiste
 
 **Se non hai un record SPF nel tuo dominio**
 
-Chiedere all&#39;amministratore di rete di aggiungere la riga seguente alle voci DNS. Sostituisci [dominio] con il dominio principale del tuo sito Web (ad es. &quot;company.com&quot;) e [corpIP] con l&#39;indirizzo IP del server di posta elettronica aziendale (ad esempio &quot;255.255.255.255&quot;). Se invii e-mail da più domini tramite Marketo, devi aggiungerle a ciascun dominio (su una riga).
+Chiedere all&#39;amministratore di rete di aggiungere la riga seguente alle voci DNS. Sostituisci [dominio] con il dominio principale del tuo sito Web (ad es. &quot;company.com&quot;) e [corpIP] con l&#39;indirizzo IP del server di posta elettronica aziendale (ad esempio &quot;255.255.255.255&quot;) Se invii e-mail da più domini tramite Marketo, devi aggiungerle a ciascun dominio (su una riga).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 
@@ -37,20 +37,20 @@ include:mktomail.com
 
 **Cos&#39;è DKIM? Perché configurare DKIM?**
 
-DKIM è un protocollo di autenticazione utilizzato dai destinatari e-mail per determinare se un messaggio e-mail è stato inviato da chi lo ha dichiarato. DKIM spesso migliora il recapito delle e-mail alla casella in entrata poiché un destinatario può essere sicuro che il messaggio non sia un falso.
+DKIM è un protocollo di autenticazione utilizzato dai destinatari e-mail per determinare se un messaggio e-mail è stato inviato da chi lo afferma. DKIM spesso migliora il recapito delle e-mail alla casella in entrata, in quanto il destinatario può essere certo che il messaggio non sia un falso.
 
-**Funzionamento di DKIM**
+**Come funziona DKIM?**
 
-Dopo aver impostato la chiave pubblica nel record DNS e aver attivato il dominio di invio nella sezione Amministratore (A), per i messaggi in uscita verrà attivata la firma DKIM personalizzata, che includerà una firma digitale crittografata per ogni e-mail inviata (B). I riceventi saranno in grado di decrittografare la firma digitale cercando la &quot;chiave pubblica&quot; nel DNS (C) del dominio di invio. Se la chiave nell’e-mail corrisponde a quella nel record DNS, è più probabile che il server di posta ricevente accetti l’e-mail Marketo inviata per tuo conto.
+Dopo aver configurato la chiave pubblica nel record DNS e aver attivato il dominio di invio nella sezione Amministratore (A), verrà attivata la firma personalizzata di DKIM per i messaggi in uscita, che includerà una firma digitale crittografata con ogni e-mail inviata per te (B). I riceventi saranno in grado di decrittografare la firma digitale cercando la &quot;chiave pubblica&quot; nel DNS (C) del dominio di invio. Se la chiave nell’e-mail corrisponde a quella nel record DNS, è più probabile che il server di posta ricevente accetti l’e-mail Marketo inviata per tuo conto.
 
 ![](assets/image2015-1-12-13-3a56-3a55.png)
 
-**Come si configura DKIM?**
+**Configurazione di DKIM**
 
 Consulta [Configurare una firma DKIM personalizzata](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Ulteriori informazioni su SPF e sul suo funzionamento](http://www.open-spf.org/Introduction/){target="_blank"}
->* [Il mio SPF è configurato correttamente?](https://www.kitterman.com/spf/validate.html){target="_blank"}
->* [Ho usato la sintassi corretta?](http://www.open-spf.org/SPF_Record_Syntax/){target="_blank"}
+>* Ulteriori informazioni su SPF e sul suo funzionamento`: http://www.open-spf.org/Introduction/`
+>* Il mio SPF è configurato correttamente?: `https://www.kitterman.com/spf/validate.html`
+>* Ho usato la sintassi corretta?: `http://www.open-spf.org/SPF_Record_Syntax/`
