@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4720433
-description: Configurare i protocolli per il Marketo Engage - Documentazione di Marketo Engage - Documentazione del prodotto
-title: Configura protocolli per Marketo Engage
+description: Configurare i protocolli per Marketo Engage - Documentazione Marketo Engage - Documentazione del prodotto
+title: Configurazione dei protocolli per Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: ed42e3662dc1f9c3b3b27d86d1df816ce26e1076
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
-source-wordcount: '2148'
-ht-degree: 0%
+source-wordcount: '2131'
+ht-degree: 8%
 
 ---
 
-# Configura protocolli per Marketo Engage{#configure-protocols-for-marketo-engage}
+# Configurazione dei protocolli per Marketo Engage{#configure-protocols-for-marketo-engage}
 
 Se l&#39;utente o l&#39;organizzazione utilizza impostazioni restrittive del firewall o del server proxy, potrebbe essere necessario inserire nell&#39;elenco Consentiti alcuni domini e intervalli di indirizzi IP per garantire il corretto funzionamento di Adobe Marketo Engage.
 
-Per assistenza nell’implementazione dei protocolli riportati di seguito, condividi questo articolo con il tuo reparto IT. Se limitano l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, accertati di aggiungere i seguenti domini (incluso l’asterisco) per consentire tutte le risorse di Marketo Engage e i websockets:
+Per assistenza nell’implementazione dei protocolli riportati di seguito, condividi questo articolo con il tuo reparto IT. Se limitano l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, accertati di aggiungere i seguenti domini (incluso l’asterisco) per consentire tutte le risorse e i websockets di Marketo Engage:
 
 * `*.marketo.com`
 * `*.marketodesigner.com`
@@ -27,11 +27,11 @@ Per assistenza nell’implementazione dei protocolli riportati di seguito, condi
 
 **CNAME collegamento di tracciamento**
 
-Il team marketing avrebbe dovuto inviarti due richieste per nuovi record CNAME. Il primo è per gli URL della pagina di destinazione, in modo che le pagine di destinazione vengano visualizzate in URL che riflettono il dominio e non il Marketo Engage (l’host effettivo). La seconda è per i collegamenti di tracciamento inclusi nelle e-mail inviate dal Marketo Engage.
+Il team marketing avrebbe dovuto inviarti due richieste per nuovi record CNAME. Il primo è per gli URL della pagina di destinazione, in modo che le pagine di destinazione vengano visualizzate in URL che riflettono il dominio e non Marketo Engage (l’host effettivo). La seconda è per i collegamenti di tracciamento inclusi nelle e-mail inviate da Marketo Engage.
 
 `1` **Aggiungi CNAME per le pagine di destinazione**
 
-Aggiungi il CNAME della pagina di destinazione che ti hanno inviato al tuo record DNS, in modo che `[YourLandingPageCNAME]` punti alla stringa account univoca assegnata alle pagine di destinazione del Marketo Engage. Accedi al sito del tuo registrar di dominio e immetti il CNAME della pagina di destinazione e la stringa dell’account. In genere, questo comporta tre campi:
+Aggiungi il CNAME della pagina di destinazione che ti hanno inviato al tuo record DNS, in modo che `[YourLandingPageCNAME]` punti alla stringa account univoca assegnata alle tue pagine di destinazione Marketo Engage. Accedi al sito del tuo registrar di dominio e immetti il CNAME della pagina di destinazione e la stringa dell’account. In genere, questo comporta tre campi:
 
 * Alias: immetti `[YourLandingPageCNAME]` (fornito dal marketing)
 * Tipo: CNAME
@@ -39,8 +39,8 @@ Aggiungi il CNAME della pagina di destinazione che ti hanno inviato al tuo recor
 
 `2` **Aggiungi CNAME per i collegamenti di tracciamento e-mail**
 
-Aggiungi l&#39;e-mail inviata dal marketing CNAME, in modo che `[YourEmailCNAME]` punti a [MktoTrackingLink], il collegamento di tracciamento predefinito assegnato da quel Marketo Engage, nel formato:\
-`[YourEmailCNAME].[YourDomain].com` NEL CNAME `[MktoTrackingLink]`
+Aggiungi l&#39;e-mail inviata dal marketing CNAME, in modo che `[YourEmailCNAME]` punti a [MktoTrackingLink], il collegamento di tracciamento predefinito assegnato da Marketo Engage, nel formato:\
+`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
 
 Ad esempio:
 
@@ -58,9 +58,9 @@ Avvisa il team marketing quando hai completato questo processo.
 
 Il completamento di questo processo può richiedere fino a 3 giorni lavorativi.
 
-## Passaggio 2: Inserire nell&#39;elenco Consentiti gli IP del Marketo Engage {#step-allowlist-marketo-ips}
+## Passaggio 2: Inserire nell&#39;elenco Consentiti IP Marketo Engage {#step-allowlist-marketo-ips}
 
-Quando il gruppo Marketing utilizza il Marketo Engage per inviare e-mail di test (una best practice prima di inviare e-mail flash), a volte le e-mail di test vengono bloccate dai sistemi anti-spam che si basano sugli indirizzi IP del mittente per verificare che l’e-mail sia valida. Per assicurarti che le e-mail di test arrivino, aggiungi Marketo Engage al tuo inserisco nell&#39;elenco Consentiti di.
+Quando il gruppo Marketing utilizza Marketo Engage per inviare e-mail di test (una best practice per evitare l’invio di messaggi esplosivi), a volte le e-mail di test vengono bloccate da sistemi anti-spam che si basano sugli indirizzi IP del mittente per verificare che l’e-mail sia valida. Per assicurarti che arrivino queste e-mail di test, aggiungi Marketo Engage al tuo inserisco nell&#39;elenco Consentiti di.
 
 Aggiungi questi indirizzi IP al tuo elenco Consentiti di aziendale:
 
@@ -80,7 +80,7 @@ Aggiungi questi indirizzi IP al tuo elenco Consentiti di aziendale:
 
 199.15.212.0/22
 
-Alcuni sistemi anti-spam utilizzano il campo Return-Path (Percorso di ritorno) dell’e-mail invece dell’indirizzo IP per l’inserimento nell’elenco Consentiti. In questi casi, l&#39;approccio migliore consiste nel inserire nell&#39;elenco Consentiti &#39;&#42;.mktomail.com&#39;, poiché il Marketo Engage utilizza diversi sottodomini delle cassette postali. Inserire nell&#39;elenco Consentiti Altri sistemi anti-spam si in base all&#39;indirizzo del mittente. In queste situazioni, assicurati di includere tutti i domini di invio (&quot;Da&quot;) utilizzati dal gruppo Marketing per comunicare con persone/lead.
+Alcuni sistemi anti-spam utilizzano il campo Return-Path (Percorso di ritorno) dell’e-mail invece dell’indirizzo IP per l’inserimento nell’elenco Consentiti. In questi casi, l&#39;approccio migliore consiste nel inserire nell&#39;elenco Consentiti &#39;&#42;.mktomail.com&#39;, poiché Marketo Engage utilizza diversi sottodomini delle cassette postali. Inserire nell&#39;elenco Consentiti Altri sistemi anti-spam si in base all&#39;indirizzo del mittente. In queste situazioni, assicurati di includere tutti i domini di invio (&quot;Da&quot;) utilizzati dal gruppo Marketing per comunicare con persone/lead.
 
 >[!NOTE]
 >
@@ -98,7 +98,7 @@ Il team marketing avrebbe dovuto inviarti anche informazioni su DKIM (Domain Key
    Se disponiamo già di un record SPF nella voce DNS, è sufficiente aggiungervi quanto segue:\
    include: mktomail.com
 
-   Sostituire CompanyDomain con il dominio principale del sito Web (ad esempio: &quot;`(company.com/)`&quot;) e CorpIP con l&#39;indirizzo IP del server di posta elettronica aziendale (ad esempio &quot;255.255.255.255&quot;). Se intendi inviare e-mail da più domini tramite il Marketo Engage, il personale IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).
+   Sostituire CompanyDomain con il dominio principale del sito Web (ad esempio: &quot;`(company.com/)`&quot;) e CorpIP con l&#39;indirizzo IP del server di posta elettronica aziendale (ad esempio &quot;255.255.255.255&quot;) Se intendi inviare e-mail da più domini tramite Marketo Engage, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).
 
 1. Per DKIM, crea record di risorse DNS per ogni dominio che desideri impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
 
@@ -112,10 +112,10 @@ Il team marketing avrebbe dovuto inviarti anche informazioni su DKIM (Domain Key
 
 DMARC (Domain-based Message Authentication, Reporting &amp; Conformance) è un protocollo di autenticazione utilizzato per aiutare le organizzazioni a proteggere il proprio dominio da utilizzi non autorizzati. DMARC estende i protocolli di autenticazione esistenti, come SPF e DKIM, per informare i server destinatari sulle azioni da intraprendere in caso di errore di autenticazione nel dominio. Anche se DMARC è attualmente opzionale, è vivamente consigliato in quanto proteggerà meglio il marchio e la reputazione della tua organizzazione. I principali provider come Google e Yahoo richiederanno l’utilizzo di DMARC per i mittenti in blocco a partire da febbraio 2024.
 
-Affinché DMARC funzioni, è necessario disporre di almeno uno dei seguenti record TXT DNS:
+Affinché il protocollo DMARC funzioni, devi disporre di almeno uno dei seguenti record TXT DNS:
 
 * Un SPF valido
-* Un record DKIM valido per il dominio FROM: (consigliato per il Marketo Engage)
+* Un record DKIM valido per il dominio FROM: (consigliato per Marketo Engage)
 
 Inoltre, è necessario disporre di un record TXT DNS specifico per DMARC per il dominio FROM:. Facoltativamente, puoi definire un indirizzo e-mail a tua scelta per indicare dove collocare i rapporti di DMARC all’interno della tua organizzazione, in modo da poter monitorare i rapporti.
 
@@ -129,7 +129,7 @@ Come best practice, si consiglia di implementare lentamente l’implementazione 
 
    II. Rivedi e risolvi i problemi relativi a SPF/DKIM se l’autenticazione dei messaggi legittimi non riesce.
 
-   III. Determina se SPF o DKIM sono allineati e trasmette l’autenticazione per tutte le e-mail legittime.
+   III. Determina se SPF o DKIM sono allineati e consentono l’autenticazione di tutte le e-mail legittime.
 
    IV. Esamina i rapporti per assicurarti che i risultati siano quelli previsti in base ai criteri SPF/DKIM.
 
@@ -141,7 +141,7 @@ Come best practice, si consiglia di implementare lentamente l’implementazione 
 
 >[!CAUTION]
 >
->Utilizza questo criterio con cautela e stabilisci se è appropriato per la tua organizzazione.
+>Utilizza questa regola con cautela e determina se è appropriata per la tua organizzazione.
 
 ### Generazione rapporti DMARC {#dmarc-reporting}
 
@@ -151,7 +151,7 @@ DMARC offre la possibilità di ricevere rapporti relativi alle e-mail che non su
 
 * Rapporti forensi (RUF): contiene indirizzi e-mail sensibili al RGPD. Prima di utilizzare, è consigliabile verificare internamente come gestire le informazioni che devono essere conformi ai requisiti RGPD.
 
-L’utilizzo principale di questi rapporti consiste nel ricevere una panoramica delle e-mail che vengono tentate di spoofing. Si tratta di rapporti altamente tecnici che è meglio digerire tramite uno strumento di terze parti.
+L’utilizzo principale di questi rapporti è quello di ricevere una panoramica delle e-mail che sono un tentativo di spoofing. Si tratta di rapporti altamente tecnici che è meglio digerire tramite uno strumento di terze parti.
 
 ### Esempio di record DMARC {#example-dmarc-records}
 
@@ -243,7 +243,7 @@ I record DMARC dispongono di più componenti denominati tag DMARC. Ogni tag ha u
 </tbody>
 </table>
 
-Per informazioni dettagliate su DMARC e sulle sue opzioni, visitare il sito Web all&#39;indirizzo [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
+Per informazioni complete su DMARC e sulle opzioni disponibili, visitare il sito Web all&#39;indirizzo [https://dmarc.org/](https://dmarc.org/){target="_blank"}.
 
 ### DMARC e MARKETO ENGAGE {#dmarc-and-marketo-engage}
 
@@ -251,7 +251,7 @@ Esistono due tipi di allineamento per DMARC: allineamento DKIM e allineamento SP
 
 >[!NOTE]
 >
->Si consiglia di eseguire l&#39;allineamento DMARC su DKIM rispetto a SPF per il Marketo Engage.
+>Si consiglia di eseguire l&#39;allineamento DMARC su DKIM rispetto a SPF per Marketo Engage.
 
 * DMARC allineato a DKIM: per configurare DMARC allineato a DKIM è necessario:
 
@@ -266,35 +266,35 @@ Esistono due tipi di allineamento per DMARC: allineamento DKIM e allineamento SP
 
    * Configurare DMARC per il dominio del percorso di ritorno del marchio
 
-* Se invii messaggi dal Marketo Engage tramite un IP dedicato e non hai già implementato il percorso di ritorno del marchio, oppure non sei sicuro di averlo fatto, apri un ticket con [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+* Se invii messaggi da Marketo Engage tramite un IP dedicato e non hai già implementato il percorso di ritorno del marchio, oppure non sei sicuro di averlo fatto, apri un ticket con [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-* Se invii messaggi dal Marketo Engage tramite un pool condiviso di IP, puoi verificare se sei idoneo per gli IP attendibili [applicando qui](http://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html){target="_blank"}. Il percorso di ritorno con marchio è offerto gratuitamente a chi invia da IP attendibili del Marketo Engage. Se approvato per questo programma, contatta il supporto Adobe per impostare il percorso di ritorno a marchio.
+* Se invii messaggi da Marketo Engage tramite un pool condiviso di IP, puoi verificare se sei idoneo per gli IP attendibili [applicando qui](https://na-sjg.marketo.com/lp/marketoprivacydemo/Trusted-IP-Sending-Range-Program.html?lang=it){target="_blank"}. Il percorso di ritorno con marchio è offerto gratuitamente a chi invia da IP attendibili di Marketo Engage. Se approvato per questo programma, contatta il supporto Adobe per impostare il percorso di ritorno a marchio.
 
    * IP attendibili: un pool condiviso di IP riservati agli utenti con volumi inferiori che inviano &lt;75.000/mese che non sono idonei per un IP dedicato. Anche questi utenti devono soddisfare i requisiti delle best practice.
 
-* Se invii messaggi dal Marketo Engage tramite IP condivisi e non sei idoneo per gli IP attendibili e invii più di 100.000 messaggi al mese, devi contattare il Team account di Adobe (il tuo account manager) per acquistare un IP dedicato.
+* Se invii messaggi da Marketo Engage tramite IP condivisi e non sei idoneo per gli IP attendibili e invii più di 100.000 messaggi al mese, devi contattare il Team account di Adobe (il tuo account manager) per acquistare un IP dedicato.
 
-* L&#39;allineamento rigoroso dell&#39;SPF non è supportato né consigliato all&#39;interno del Marketo Engage.
+* L&#39;allineamento rigoroso dell&#39;SPF non è supportato né consigliato in Marketo Engage.
 
 ## Passaggio 5: configurare i record MX per il dominio {#step-set-up-mx-records-for-your-domain}
 
-Un record MX ti consente di ricevere e-mail al dominio da cui stai inviando l’e-mail per elaborare le risposte e i risponditori automatici. Se invii dal dominio aziendale, probabilmente lo hai già configurato. In caso contrario, in genere è possibile configurarlo per eseguire la mappatura sul record MX del dominio aziendale.
+Un record MX ti consente di ricevere e-mail al dominio da cui stai inviando l’e-mail per elaborare le risposte e gli auto-responder. Se invii dal dominio aziendale, probabilmente lo hai già configurato. In caso contrario, in genere è possibile configurarlo per eseguire la mappatura sul record MX del dominio aziendale.
 
 ## Indirizzi IP in uscita {#outbound-ip-addresses}
 
-Per connessione in uscita si intende una connessione effettuata dal Marketo Engage a un server su Internet per conto dell&#39;utente. Alcuni partner/fornitori con cui collabori o la tua organizzazione IT possono utilizzare i inserisce nell&#39;elenco Consentiti di accesso ai server di un&#39;organizzazione di IT di cui si è proprietari, in modo da limitare l&#39;accesso ai server. In tal caso, devi fornire loro blocchi di indirizzi IP in uscita di Marketo Engage da aggiungere ai loro inserisce nell&#39;elenco Consentiti di indirizzi.
+Per connessione in uscita si intende una connessione effettuata da Marketo Engage a un server su Internet per conto dell&#39;utente. Alcuni partner/fornitori con cui collabori o la tua organizzazione IT possono utilizzare i inserisce nell&#39;elenco Consentiti di accesso ai server di un&#39;organizzazione di IT di cui si è proprietari, in modo da limitare l&#39;accesso ai server. In tal caso, devi fornire loro i blocchi di indirizzi IP in uscita di Marketo Engage da aggiungere ai loro elenchi Consentiti.
 
 **Webhook**
 
-Il Marketo Engage [Webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} è un meccanismo di integrazione in uscita. Quando viene eseguita un&#39;azione di flusso [Chiama webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} come parte di una campagna intelligente, viene effettuata una richiesta HTTP a un servizio Web esterno. Se l’editore del servizio web utilizza un inserisco nell&#39;elenco Consentiti di sul firewall della rete in cui si trova il servizio web esterno, deve aggiungere i blocchi di indirizzi IP elencati di seguito al proprio inserisco nell&#39;elenco Consentiti di.
+I [webhook](/help/marketo/product-docs/administration/additional-integrations/create-a-webhook.md){target="_blank"} di Marketo Engage sono un meccanismo di integrazione in uscita. Quando viene eseguita un&#39;azione di flusso [Chiama webhook](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/call-webhook.md){target="_blank"} come parte di una campagna intelligente, viene effettuata una richiesta HTTP a un servizio Web esterno. Se l’editore del servizio web utilizza un inserisco nell&#39;elenco Consentiti di sul firewall della rete in cui si trova il servizio web esterno, deve aggiungere i blocchi di indirizzi IP elencati di seguito al proprio inserisco nell&#39;elenco Consentiti di.
 
 **Sincronizzazione CRM**
 
-Il Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} e [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sono meccanismi di integrazione che eseguono richieste HTTP in uscita alle API pubblicate dal fornitore del sistema di gestione delle relazioni con i clienti. È necessario assicurarsi che l’organizzazione IT non blocchi nessuno dei blocchi di indirizzi IP riportati di seguito per l’accesso alle API del fornitore CRM.
+Marketo Engage [Salesforce CRM Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/add-an-existing-salesforce-field-to-the-marketo-sync.md){target="_blank"} e [Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md){target="_blank"} sono meccanismi di integrazione che eseguono richieste HTTP in uscita alle API pubblicate dal fornitore del sistema CRM. È necessario assicurarsi che l’organizzazione IT non blocchi nessuno dei blocchi di indirizzi IP riportati di seguito per l’accesso alle API del fornitore CRM.
 
-**Blocchi di indirizzi IP in uscita di Marketo Engage**
+**Blocchi di indirizzi IP in uscita Marketo Engage**
 
-Le tabelle seguenti descrivono tutti i server di Marketo Engage che effettuano chiamate in uscita. Inserire nell&#39;elenco Consentiti Utilizzare gli elenchi seguenti se si sta configurando un gruppo IP, un server, un firewall, un elenco di controllo di accesso, un gruppo di sicurezza o un servizio di terze parti per ricevere connessioni in uscita dal Marketo Engage.
+Le tabelle seguenti descrivono tutti i server Marketo Engage che effettuano chiamate in uscita. Inserire nell&#39;elenco Consentiti Utilizzare gli elenchi riportati di seguito se si sta configurando un gruppo IP, un server, un firewall, un elenco di controllo di accesso, un gruppo di sicurezza o un servizio di terze parti per ricevere connessioni in uscita da Marketo Engage.
 
 <table>
  <tbody>

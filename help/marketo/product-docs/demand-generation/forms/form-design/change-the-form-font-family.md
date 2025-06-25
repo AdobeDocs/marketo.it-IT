@@ -4,10 +4,10 @@ description: Modificare la famiglia di caratteri del modulo - Documentazione di 
 title: Modificare la famiglia di caratteri del modulo
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -35,11 +35,11 @@ I Google Fonts sono fantastici, e li abbiamo inseriti direttamente nell&#39;edit
 
    >[!TIP]
    >
-   >È disponibile una serie di [caratteri Google](https://www.google.com/fonts).
+   >È disponibile una serie di [caratteri Google](https://fonts.google.com/){target="_blank"}.
 
    ![](assets/image2014-9-15-16-3a0-3a8.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **Fine**.
 
    ![](assets/image2014-9-15-16-3a0-3a15.png)
 
