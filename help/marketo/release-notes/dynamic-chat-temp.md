@@ -35,7 +35,7 @@ Abbiamo rinnovato la logica di indirizzamento della chat in tempo reale in Dynam
 
 * **Comportamento Specifico Della Regola Di Indirizzamento**
 
-_**Indirizzamento account**_
+_&#x200B;**Indirizzamento account**&#x200B;_
 
 Se il dominio e-mail di un visitatore è mappato su un account noto, l’agente mappato ha sempre la priorità.
 
@@ -53,7 +53,7 @@ Torna a un messaggio predefinito (caso peggiore).
 
 La regola di routing a livello di scheda (ad esempio Team, Personalizzato) viene considerata solo se l’Instradamento account non è idoneo (nessun dominio o agente corrispondente).
 
-_**Indirizzamento personalizzato/team**_
+_&#x200B;**Indirizzamento personalizzato/team**&#x200B;_
 
 Queste regole possono restituire più agenti idonei.
 
@@ -67,7 +67,7 @@ Il sistema visualizza il calendario del primo agente provato (se attivato) oppur
 
 Visualizza il messaggio di fallback predefinito.
 
-_**Routing Robin Round**_
+_&#x200B;**Routing Robin Round**&#x200B;_
 
 Quando viene utilizzato come regola di instradamento principale, il sistema:
 
