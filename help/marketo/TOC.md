@@ -3,10 +3,10 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
 workflow-type: tm+mt
-source-wordcount: '9279'
-ht-degree: 1%
+source-wordcount: '9283'
+ht-degree: 2%
 
 ---
 
@@ -848,7 +848,7 @@ ht-degree: 1%
             + [Anteprima di una pagina di destinazione con contenuto dinamico](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page-with-dynamic-content.md)
             + [Anteprima di una pagina di destinazione](product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md)
             + [Reindirizzare una pagina di destinazione Marketo a un’altra pagina](product-docs/demand-generation/landing-pages/landing-page-actions/redirect-a-marketo-landing-page-to-another-page.md)
-         + Modelli di pagina di destinazione {#landing-page-templates}
+         + Modelli pagina di destinazione {#landing-page-templates}
             + [Creare un modello di pagina di destinazione in formato libero](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-free-form-landing-page-template.md)
             + [Creare un modello di pagina di destinazione guidata](product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md)
             + [Modificare un modello di pagina di destinazione di Marketo](product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.md)
@@ -1782,7 +1782,7 @@ ht-degree: 1%
             + [Informazioni sull’area di analisi dell’appartenenza al programma](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-membership-analysis-area.md)
             + [Informazioni sull’area di analisi delle opportunità del programma](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md)
             + [Informazioni sull&#39;area di analisi della fase ricavi del programma](product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-revenue-stage-analysis-area.md)
-         + Modelli del ciclo dei ricavi {#revenue-cycle-models}
+         + Modelli ciclo di entrate {#revenue-cycle-models}
             + [Approvare/Annullare l&#39;approvazione di un modello di ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model.md)
             + [Modifica del modello approvato](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approve-unapprove-a-revenue-model/editing-your-approved-model.md)
             + [Approvazione di fasi e assegnazione di lead a un modello di ricavi](product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/approving-stages-and-assigning-leads-to-a-revenue-model.md)
@@ -1958,6 +1958,7 @@ ht-degree: 1%
    + [Pianificazione delle versioni](release-notes/release-schedule.md)
    + [Versione corrente](release-notes/current.md)
    + [Versione Dynamic Chat](release-notes/dynamic-chat.md)
+   + [TEMP versione Dynamic Chat](release-notes/dynamic-chat-temp.md)
    + Versioni precedenti {#previous-releases}
       + 2025 {#2025}
          + [Note sulla versione: gennaio 2025](release-notes/previous-releases/2025/release-notes-jan-25.md)
