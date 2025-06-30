@@ -36,7 +36,7 @@ Abbiamo rinnovato la logica di indirizzamento della chat in tempo reale in Dynam
 
 * **Comportamento Specifico Della Regola Di Indirizzamento**
 
-_**Indirizzamento account**_
+_&#x200B;**Indirizzamento account**&#x200B;_
 
 Se il dominio e-mail di un visitatore è mappato su un account noto, l’agente mappato ha sempre la priorità.
 
@@ -54,7 +54,7 @@ Se l&#39;agente non è disponibile, il sistema:
 
 La regola di routing a livello di scheda (ad esempio Team, Personalizzato) viene considerata solo se l’Instradamento account non è idoneo (nessun dominio o agente corrispondente).
 
-_**Indirizzamento personalizzato/team**_
+_&#x200B;**Indirizzamento personalizzato/team**&#x200B;_
 
 Queste regole possono restituire più agenti idonei.
 
@@ -68,7 +68,7 @@ Se nessuno dei due agenti si impegna:
 -oppure-
 * Visualizza il messaggio di fallback predefinito.
 
-_**Routing Robin Round**_
+_&#x200B;**Routing Robin Round**&#x200B;_
 
 Quando viene utilizzato come regola di instradamento principale, il sistema:
 
@@ -78,7 +78,7 @@ Quando viene utilizzato come regola di instradamento principale, il sistema:
 
 Se Round Robin viene utilizzato come fallback, si attiva solo se non vengono risolti agenti dalla regola primaria.
 
-_**Flusso esperienza visitatore**_
+_&#x200B;**Flusso esperienza visitatore**&#x200B;_
 
 Il sistema controlla se è applicabile l&#39;Instradamento conto.
 
@@ -102,7 +102,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 ##### Casi d’uso {#use-cases}
 
-_**Indirizzamento account**_
+_&#x200B;**Indirizzamento account**&#x200B;_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _**Indirizzamento account**_
   </tr>
 </tbody></table>
 
-_**Routing personalizzato**_
+_&#x200B;**Routing personalizzato**&#x200B;_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _**Routing personalizzato**_
   </tr>
 </tbody></table>
 
-_**Indirizzamento team**_
+_&#x200B;**Indirizzamento team**&#x200B;_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _**Indirizzamento team**_
   </tr>
 </tbody></table>
 
-_**Routing Robin Round**_
+_&#x200B;**Routing Robin Round**&#x200B;_
 
 <table><thead>
   <tr>

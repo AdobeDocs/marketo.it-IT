@@ -104,7 +104,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 <p>
 
-_**Indirizzamento account**_
+_&#x200B;**Indirizzamento account**&#x200B;_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _**Indirizzamento account**_
   </tr>
 </tbody></table>
 
-_**Routing personalizzato**_
+_&#x200B;**Routing personalizzato**&#x200B;_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _**Routing personalizzato**_
   </tr>
 </tbody></table>
 
-_**Indirizzamento team**_
+_&#x200B;**Indirizzamento team**&#x200B;_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _**Indirizzamento team**_
   </tr>
 </tbody></table>
 
-_**Routing Robin Round**_
+_&#x200B;**Routing Robin Round**&#x200B;_
 
 <table><thead>
   <tr>
