@@ -5,7 +5,7 @@ feature: Release Information, Dynamic Chat
 hide: true
 hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: d646dbb2eeeb7ec6e1dbeb30d1fa02aa380a794c
+source-git-commit: 5dbc3add8acaae02f25c1f9b9ae39ecfc1aaf259
 workflow-type: tm+mt
 source-wordcount: '900'
 ht-degree: 3%
@@ -36,7 +36,7 @@ Abbiamo rinnovato la logica di indirizzamento della chat in tempo reale in Dynam
 
 * **Comportamento Specifico Della Regola Di Indirizzamento**
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 Se il dominio e-mail di un visitatore è mappato su un account noto, l’agente mappato ha sempre la priorità.
 
@@ -54,7 +54,7 @@ Se l&#39;agente non è disponibile, il sistema:
 
 La regola di routing a livello di scheda (ad esempio Team, Personalizzato) viene considerata solo se l’Instradamento account non è idoneo (nessun dominio o agente corrispondente).
 
-_&#x200B;**Indirizzamento personalizzato/team**&#x200B;_
+_**Indirizzamento personalizzato/team**_
 
 Queste regole possono restituire più agenti idonei.
 
@@ -68,7 +68,7 @@ Se nessuno dei due agenti si impegna:
 -oppure-
 * Visualizza il messaggio di fallback predefinito.
 
-_&#x200B;**Routing Robin Round**&#x200B;_
+_**Routing Robin Round**_
 
 Quando viene utilizzato come regola di instradamento principale, il sistema:
 
@@ -78,7 +78,7 @@ Quando viene utilizzato come regola di instradamento principale, il sistema:
 
 Se Round Robin viene utilizzato come fallback, si attiva solo se non vengono risolti agenti dalla regola primaria.
 
-_&#x200B;**Flusso esperienza visitatore**&#x200B;_
+_**Flusso esperienza visitatore**_
 
 Il sistema controlla se è applicabile l&#39;Instradamento conto.
 
@@ -102,7 +102,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 ##### Casi d’uso {#use-cases}
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 <table><thead>
   <tr>
@@ -128,7 +128,7 @@ _&#x200B;**Indirizzamento account**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Routing personalizzato**&#x200B;_
+_**Routing personalizzato**_
 
 <table><thead>
   <tr>
@@ -154,7 +154,7 @@ _&#x200B;**Routing personalizzato**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento team**&#x200B;_
+_**Indirizzamento team**_
 
 <table><thead>
   <tr>
@@ -180,7 +180,7 @@ _&#x200B;**Indirizzamento team**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Routing Robin Round**&#x200B;_
+_**Routing Robin Round**_
 
 <table><thead>
   <tr>
