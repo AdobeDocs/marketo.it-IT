@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: ce7142e471271dfb33b265e226b67bcc3b35594b
+source-git-commit: 67b1c61d9051043cb9fb6e4252ffd94c77ff6f22
 workflow-type: tm+mt
-source-wordcount: '9283'
+source-wordcount: '9286'
 ht-degree: 2%
 
 ---
@@ -1957,6 +1957,7 @@ ht-degree: 2%
 + Note sulla versione {#release-notes}
    + [Pianificazione delle versioni](release-notes/release-schedule.md)
    + [Versione corrente](release-notes/current.md)
+   + [TEMP versione corrente](release-notes/current-temp.md)
    + [Versione Dynamic Chat](release-notes/dynamic-chat.md)
    + [TEMP versione Dynamic Chat](release-notes/dynamic-chat-temp.md)
    + Versioni precedenti {#previous-releases}
