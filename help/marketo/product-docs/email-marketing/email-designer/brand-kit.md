@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
 workflow-type: tm+mt
-source-wordcount: '1176'
+source-wordcount: '1178'
 ht-degree: 9%
 
 ---
@@ -246,7 +246,7 @@ La sezione **[!UICONTROL Writing style]** illustra gli standard per la scrittura
 
 Per personalizzare **[!UICONTROL Writing Style]**:
 
-1. Dalla scheda **[!UICONTROL Writing Style]**, fare clic su ![](assets/do-not-localize/Smock_Add_18_N.svg) per aggiungere una linea guida, un&#39;eccezione o un&#39;esclusione.
+1. Dalla scheda **[!UICONTROL Writing Style]**, fare clic su QUESTA ICONA per aggiungere una linea guida, un&#39;eccezione o un&#39;esclusione.
 
 1. Immettere la linea guida, l&#39;eccezione o l&#39;esclusione e fare clic su **[!UICONTROL Add]**.
 
