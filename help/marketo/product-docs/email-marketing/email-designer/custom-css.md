@@ -7,9 +7,9 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: 55c0e4f011944eb30f5f48bf99ba9558185ca46d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '634'
 ht-degree: 2%
 
 ---
@@ -22,7 +22,7 @@ Durante la progettazione delle e-mail, puoi aggiungere CSS personalizzati dirett
 
 Per aggiungere CSS personalizzati al contenuto delle e-mail, segui i passaggi indicati di seguito.
 
-1. Assicurati che nel Designer e-mail siano definiti alcuni contenuti aggiungendo almeno un [componente](content-components.md).
+1. Assicurati che nel Designer e-mail sia definito del contenuto aggiungendo almeno un componente. COLLEGAMENTO - CONSERVARE?
 
 1. Selezionare **[!UICONTROL Body]** da **[!UICONTROL Navigation tree]** a sinistra o nella parte superiore del riquadro di destra. La sezione **[!UICONTROL CSS styles]** viene visualizzata a destra.
 
