@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 1bb3bfdef8a74c0f990c5e274391348c9c111f28
+source-git-commit: 25a218896c84a7145f05079fe8adcf3d657adcad
 workflow-type: tm+mt
 source-wordcount: '1178'
 ht-degree: 9%
@@ -107,7 +107,7 @@ SCHERMATA
 
 Puoi designare un marchio predefinito da applicare automaticamente durante la generazione del contenuto e il calcolo dei punteggi di allineamento durante la creazione della campagna.
 
-Per impostare un marchio predefinito, vai al tuo dashboard **[!UICONTROL Brands]**. Aprire il menu avanzato facendo clic sull&#39;icona ![](assets/do-not-localize/Smock_More_18_N.svg) e selezionare **[!UICONTROL Mark as default brand]**.
+Per impostare un marchio predefinito, vai al tuo dashboard **[!UICONTROL Brands]**. Aprire il menu avanzato facendo clic sull&#39;ICONA E selezionare **[!UICONTROL Mark as default brand]**.
 
 SCHERMATA
 
