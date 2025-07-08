@@ -1,10 +1,12 @@
 ---
 unique-page-id: 10096583
-description: "Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] - Documenti Marketo - Documentazione del prodotto"
-title: "Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] "
+description: Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] - Documenti Marketo - Documentazione del prodotto
+title: 'Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] '
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+hide: true
+hidefromtoc: true
+source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,7 +47,7 @@ Se utilizzi già questo filtro in un elenco avanzato (ad esempio, in una campagn
 >
 >**Trigger**: pagina Web Visite, pagina Web è pagina determinazione prezzi\
 >**Flusso**: modifica punteggio +10 e momento di interesse
->**Web**: pagina determinazione prezzi visualizzata
+>>**Web**: pagina determinazione prezzi visualizzata
 >
 >Con [!DNL Munchkin] V2, se una persona anonima visita la pagina dei prezzi, non entra immediatamente nella campagna. Nel momento in cui la persona anonima si farà conoscere, faremo una campagna su di lei. Lei:
 >
