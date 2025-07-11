@@ -4,10 +4,10 @@ description: Creare un campo personalizzato in Marketo - Documentazione di Marke
 title: Creare un campo personalizzato in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: dcc2af51726db6f503486fb0553fb32fc65495ce
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare/acquisire dati, ecco come crearne uno.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-field-in-marketo-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/create-a-custom-field-in-marketo-2.png)
 
@@ -27,28 +27,36 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare
    >
    >Se desideri che i campi siano sincronizzati con il CRM, creali nel CRM e verranno creati automaticamente in Marketo.
 
-1. Fare clic su **[!UICONTROL Nuovo campo personalizzato]**.
+1. Fai clic su **[!UICONTROL New Custom Field]**.
 
    ![](assets/create-a-custom-field-in-marketo-3.png)
 
-1. Scegliere il tipo di campo. Questo cambierà il modo in cui viene riprodotto negli elenchi avanzati e nei moduli in Marketo.
-
-   >[!TIP]
-   >
-   >Consulta il [Glossario dei tipi di campo personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
+1. Scegliere _[!UICONTROL Object]_.
 
    ![](assets/create-a-custom-field-in-marketo-4.png)
 
-1. Immetti il [!UICONTROL Nome] come desideri che venga visualizzato in Marketo. Il nome [!UICONTROL API] viene generato automaticamente. Puoi modificarlo, ma non può essere rinominato una volta impostato. Al termine, fai clic su **[!UICONTROL Crea]**.
+   >[!NOTE]
+   >
+   >Anche se non sei in grado di selezionare l&#39;oggetto _Company_ da solo, puoi richiederlo contattando il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+
+1. Scegliere il campo _[!UICONTROL Type]_. Questo cambierà il modo in cui viene riprodotto negli elenchi avanzati e nei moduli in Marketo.
+
+   >[!TIP]
+   >
+   >Consulta il [Glossario dei tipi di campo personalizzati](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+
+   ![](assets/create-a-custom-field-in-marketo-5.png)
+
+1. Immettere _[!UICONTROL Name]_come si desidera che venga visualizzato in Marketo (_[!UICONTROL API Name]_ viene generato automaticamente). Scegli con attenzione, poiché non può essere rinominato dopo il salvataggio. Al termine, fai clic su **[!UICONTROL Create]**.
 
 >[!CAUTION]
 >
 >I nomi dei campi non possono iniziare con i seguenti caratteri: **. &amp; +[]**
 
-![](assets/create-a-custom-field-in-marketo-5.png)
+![](assets/create-a-custom-field-in-marketo-6.png)
 
 >[!NOTE]
 >
->Il nome API viene utilizzato dall’API dell’SOAP e da altri processi di back-end.
+>Il nome API viene utilizzato dall’API SOAP e da altri processi di back-end.
 
-Ora puoi utilizzare questo campo personalizzato in moduli, passaggi di flusso ed elenchi avanzati.
+Ora puoi utilizzare questo campo personalizzato in maschere, passaggi di flusso ed elenchi avanzati.
