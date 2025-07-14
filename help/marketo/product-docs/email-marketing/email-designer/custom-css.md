@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITOLO
+title: Aggiungere un CSS personalizzato al contenuto dell’e-mail
 description: Scopri come aggiungere CSS personalizzati al contenuto delle e-mail direttamente nel Designer e-mail in Marketo Engage.
 level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
 workflow-type: tm+mt
 source-wordcount: '587'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Aggiungere un CSS personalizzato al contenuto dell’e-mail {#email-metadata}
+# Aggiungere un CSS personalizzato al contenuto dell’e-mail {#custom-css}
 
 Aggiungi un CSS personalizzato direttamente in Marketo Engage Email Designer per uno stile avanzato e specifico.
 
@@ -25,7 +25,7 @@ Aggiungi un CSS personalizzato direttamente in Marketo Engage Email Designer per
 
 1. Selezionare **[!UICONTROL Body]** da **[!UICONTROL Navigation tree]** a sinistra o nel riquadro di destra. **[!UICONTROL CSS styles]** viene visualizzato a destra.
 
-   SCHERMATA
+   ![](assets/custom-css-1.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -37,17 +37,17 @@ Aggiungi un CSS personalizzato direttamente in Marketo Engage Email Designer per
    >
    >Il pulsante **[!UICONTROL Add custom CSS]** è disponibile solo quando è selezionato **[!UICONTROL Body]**. Tuttavia, puoi applicare stili CSS personalizzati a tutti i componenti all’interno del contenuto.
 
-1. Inserisci il codice CSS nell’area di testo dedicata visualizzata. Assicurati che il CSS personalizzato sia valido e che segua la sintassi corretta. [Ulteriori informazioni](#use-valid-css)
+1. Inserisci il codice CSS nell’area di testo dedicata visualizzata. Verificare che il file CSS personalizzato [ sia valido e che segua la sintassi corretta](#use-valid-css). Al termine, fai clic su **Salva**.
 
-   SCHERMATA
+   ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
    >Non puoi aggiungere CSS personalizzati al contenuto quando utilizzi un modello [ con contenuto bloccato](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). L&#39;etichetta del pulsante diventa **[!UICONTROL View custom CSS]** ed eventuali CSS personalizzati visualizzati sono di sola lettura.
 
-1. Salva il CSS personalizzato e assicurati che sia applicabile al contenuto. In caso contrario, controllare la sezione [Risoluzione dei problemi](#troubleshooting).
+1. Assicurati che il CSS sia applicabile al contenuto. In caso contrario, controllare la sezione [Risoluzione dei problemi](#troubleshooting).
 
-   SCHERMATA
+   ![](assets/custom-css-3.png)
 
    >[!NOTE]
    >
