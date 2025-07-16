@@ -5,10 +5,8 @@ title: Aggiungere un CSS personalizzato al contenuto dell’e-mail
 description: Scopri come aggiungere CSS personalizzati al contenuto delle e-mail direttamente nel Designer e-mail in Marketo Engage.
 level: Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 37938db9eafbe7860448d438e2fa03adccd043ec
+source-git-commit: de3999dd6ede77c8fc591e24a69f062954b8c870
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 3%
