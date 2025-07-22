@@ -1,18 +1,18 @@
 ---
 unique-page-id: 14352490
-description: Non ho effettuato l’accesso a Salesforce - Documentazione di Marketo - Documentazione del prodotto
-title: Non ho effettuato l’accesso a Salesforce
+description: Non ho effettuato l’accesso a Salesforce - Documentazione Marketo - Documentazione del prodotto
+title: Accesso a Salesforce non eseguito
 exl-id: 99b7d023-257d-4421-80a5-ae54bced2658
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Non ho effettuato l’accesso a Salesforce {#didnt-log-to-salesforce}
+# Accesso a [!DNL Salesforce] non eseguito {#didnt-log-to-salesforce}
 
-Se non vedi il registro chiamate a Salesforce, è possibile che non sia possibile individuare un lead o un contatto in Salesforce.
+Se il registro chiamate a [!DNL Salesforce] non è visualizzato, è possibile che non sia possibile individuare un lead o un contatto in [!DNL Salesforce].
 
-Affinché le chiamate possano accedere al lead/contatto corretto, Sales Connect deve disporre dell&#39;ID Salesforce. Il modo migliore per aggiungere l&#39;ID Salesforce a Sales Connect consiste nell&#39;utilizzare la funzionalità [Push to Sales Connect](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Quando utilizzi Push to Sales Connect includiamo l’ID Salesforce nella migrazione dei contatti.
+Affinché le chiamate possano accedere al lead/contatto corretto, [!DNL Sales Connect] deve avere l&#39;ID [!DNL Salesforce]. Il modo migliore per aggiungere l&#39;ID [!DNL Salesforce] a [!DNL Sales Connect] consiste nell&#39;utilizzare la funzionalità [Invia a [!DNL Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/push-to-sales-connect.md). Quando utilizzi l&#39;opzione Push to [!DNL Sales Connect], l&#39;ID [!DNL Salesforce] viene incluso nella migrazione dei contatti.

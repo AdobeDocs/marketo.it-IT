@@ -4,9 +4,9 @@ description: Champion/Challenger - Oggetto - Documentazione Marketo - Documentaz
 title: Champion/Challenger - Oggetto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 >
 >[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Nell&#39;editor di test e-mail, seleziona **Oggetto** nel menu a discesa **Tipo di test**.
+1. Nell&#39;editor dei test e-mail, selezionare **[!UICONTROL Subject Line]** nel menu a discesa **[!UICONTROL Test Type]**.
 
    ![](assets/image2014-9-15-12-3a37-3a50.png)
 
    >[!NOTE]
    >
-   >In un test dell&#39;oggetto, la prima riga dell&#39;oggetto immessa è designata come **Champion**. Le righe dell&#39;oggetto successive sono denominate **Challengers**.
+   >In un test dell&#39;oggetto, la prima riga dell&#39;oggetto immessa è designata come **[!UICONTROL Champion]**. Le righe oggetto successive sono denominate **[!UICONTROL Challengers]**.
 
-1. Inserisci le righe dell&#39;oggetto per **Challengers**.
+1. Immettere le righe dell&#39;oggetto per **[!UICONTROL Challengers]**.
 
    ![](assets/image2014-9-15-12-3a38-3a4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
    Per ottenere affidabilità statistica, assicurati che la percentuale scelta includa un numero sufficiente di persone, in modo che il test sia valido. Non fatevi ingannare da risultati inconcludenti.
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a40-3a42.png)
 

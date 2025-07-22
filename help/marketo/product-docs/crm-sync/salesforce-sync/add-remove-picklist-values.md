@@ -4,16 +4,16 @@ description: Aggiungere/rimuovere valori dall’elenco di selezione - Documentaz
 title: Aggiungi/Rimuovi valori elenco a discesa
 exl-id: f1230c43-10cb-47ff-89d7-9f835b034db0
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # Aggiungi/Rimuovi valori elenco a discesa {#add-remove-picklist-values}
 
-Di seguito sono riportati alcuni aspetti da considerare sull’aggiunta e la rimozione di valori di elenchi a discesa in Salesforce.
+Di seguito sono riportati alcuni aspetti relativi all&#39;aggiunta e alla rimozione dei valori degli elenchi di selezione in [!DNL Salesforce].
 
 ## Aggiunta di valori di elenco a discesa {#adding-picklist-values}
 
@@ -25,15 +25,15 @@ Di seguito sono riportati alcuni aspetti da considerare sull’aggiunta e la rim
 
 ## Rimuovi valori elenco a discesa {#remove-picklist-values}
 
-Quando un valore dell’elenco a discesa viene rimosso da un campo in Salesforce, è necessario rimuoverlo manualmente da tutti i moduli che ospitano questo campo.
+Quando un valore dell&#39;elenco a discesa viene rimosso da un campo in [!DNL Salesforce], sarà necessario rimuovere manualmente questo valore da tutti i moduli che ospitano questo campo.
 
 >[!NOTE]
 >
->Se un campo lead e un campo contatto in Salesforce hanno valori diversi, i valori in comune saranno disponibili per l’uso in Marketo Engage.
+>Se un campo lead e un campo contatto in Salesforce hanno valori diversi, i valori in comune saranno disponibili per l’utilizzo in Marketo Engage.
 
-Se un campo lead e un campo contatto in Salesforce hanno valori diversi:
+Se un campo lead e un campo contatto in [!DNL Salesforce] hanno valori diversi:
 
-1. L&#39;aggiunta di un valore aggiuntivo in SFDC a un elenco di selezione genera una notifica.
+1. L’aggiunta di un valore aggiuntivo in SFDC a un elenco a discesa genera una notifica.
 1. La notifica ti indicherà dove viene utilizzata. È ora possibile aggiungere questo nuovo valore come opzione nel modulo, se necessario.
 
 Se un elenco di selezione di un lead SFDC ha valori diversi rispetto a un elenco di selezione di un contatto SFDC, i valori comuni verranno utilizzati come opzioni di valore predefinite nel modulo.

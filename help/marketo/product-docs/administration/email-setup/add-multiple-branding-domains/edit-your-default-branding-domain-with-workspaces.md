@@ -4,38 +4,38 @@ description: Modificare il dominio di branding predefinito con le aree di lavoro
 title: Modificare il dominio di branding predefinito con le aree di lavoro
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '145'
 ht-degree: 1%
 
 ---
 
 # Modificare il dominio di branding predefinito con le aree di lavoro {#edit-your-default-branding-domain-with-workspaces}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 
-1. Fai clic su **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-2.png)
 
-1. Nella tabella Domini di branding, seleziona il dominio generico corrente e fai clic su Modifica per modificarlo nel dominio con marchio della tua azienda.
+1. Nella tabella [!UICONTROL Branding Domains], seleziona il dominio generico corrente e fai clic su **[!UICONTROL Edit]** per modificarlo nel dominio con marchio della tua azienda.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-3.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Aggiungi]** non funziona finché non hai modificato il dominio generico. **[!UICONTROL Elimina]** non funziona finché non aggiungi un secondo dominio.
+   >**[!UICONTROL Add]** non funziona finché non hai modificato il dominio generico. **[!UICONTROL Delete]** non funziona finché non aggiungi un secondo dominio.
    >
    >Non puoi aggiungere un dominio aggiuntivo finché non modifichi prima il dominio generico.
 
-1. Immetti il nome del dominio predefinito e fai clic su **[!UICONTROL Avanti]**.
+1. Immettere il nome del dominio predefinito e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-4.png)
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-5.png)
 

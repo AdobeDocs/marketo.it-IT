@@ -4,9 +4,9 @@ description: Creare una gerarchia - Documentazione di Marketo - Documentazione d
 title: Creare una gerarchia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Le gerarchie devono essere create in CRM. Tuttavia, se non disponi di un CRM, segui questi passaggi per creare manualmente una gerarchia.
 
-1. In Conti denominati fare clic sulla casella di controllo **Raggruppa per gerarchia**.
+1. In [!UICONTROL Named Accounts], fare clic sulla casella di controllo **[!UICONTROL Group by Hierarchy]**.
 
    ![](assets/create-a-hierarchy-1.png)
 
@@ -27,15 +27,15 @@ Le gerarchie devono essere create in CRM. Tuttavia, se non disponi di un CRM, se
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Fai clic sul menu a discesa **Azioni account denominato** e seleziona **Collega a account denominato**.
+1. Fare clic sul menu a discesa **[!UICONTROL Named Account Actions]** e selezionare **[!UICONTROL Link to Named Account]**.
 
    ![](assets/create-a-hierarchy-3.png)
 
    >[!NOTE]
    >
-   >Se vuoi scollegare gli account, segui i passaggi indicati sopra ma scegli **Scollega da account denominato**.
+   >Per scollegare gli account, seguire la procedura descritta sopra, ma scegliere **[!UICONTROL Unlink From Named Account]**.
 
-1. Selezionare un account con nome padre dal menu a discesa e fare clic su **Collegamento**.
+1. Selezionare un account con nome padre dal menu a discesa e fare clic su **[!UICONTROL Link]**.
 
    ![](assets/create-a-hierarchy-4.png)
 

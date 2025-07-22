@@ -4,9 +4,9 @@ description: Ridimensionamento dell’etichetta/larghezza del campo in un modulo
 title: Ridimensionamento dell’etichetta o della larghezza del campo in un modulo
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Esistono due modi per ridimensionare sia la larghezza dell’etichetta del campo
 
    ![](assets/image2014-9-15-15-3a24-3a28.png)
 
-1. Immettete un valore in pixel per Larghezza etichetta (Label Width) e/o Larghezza campo (Field Width).
+1. Immettere un valore in pixel per [!UICONTROL Label Width] e/o [!UICONTROL Field Width].
 
    ![](assets/image2014-9-15-15-3a24-3a36.png)
 

@@ -3,9 +3,9 @@ description: Assegnazione di attività ai membri del team - Documentazione di Ma
 title: Assegnazione di attività ai membri del team
 exl-id: 8f35afb8-d1c2-4f09-8653-3309f08c991d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 >
 >È possibile assegnare solo attività per i contatti condivisi.
 
-1. Nell&#39;applicazione Web fare clic su **Centro comandi**.
+1. Nell&#39;applicazione Web fare clic su **[!UICONTROL Command Center]**.
 
    ![](assets/assigning-tasks-to-team-members-1.png)
 
-1. Fai clic su **Aggiungi attività**.
+1. Fai clic su **[!UICONTROL Add Task]**.
 
    ![](assets/assigning-tasks-to-team-members-2.png)
 
@@ -50,6 +50,6 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 
    ![](assets/assigning-tasks-to-team-members-8.png)
 
-1. Aggiungi tutti i dettagli importanti rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
+1. Aggiungi tutti i dettagli importanti rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/assigning-tasks-to-team-members-9.png)

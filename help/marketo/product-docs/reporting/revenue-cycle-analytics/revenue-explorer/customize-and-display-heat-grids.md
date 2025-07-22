@@ -4,9 +4,9 @@ description: Personalizzare e visualizzare le griglie di calore - Documentazione
 title: Personalizzare e visualizzare le griglie di calore
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 Una griglia di calore rappresenta visivamente i dati in una griglia colorata in modo da poter identificare i pattern buoni e cattivi in modo più semplice e rapido.
 
-1. Nel report fare clic sull&#39;icona del grafico e quindi **Griglia di calore**.
+1. Nel report fare clic sull&#39;icona del grafico e quindi **[!UICONTROL Heat Grid]**.
 
    ![](assets/image2015-5-4-15-3a2-3a17.png)
 
-1. Per apportare modifiche alla **Griglia di calore**, passare all&#39;area **Proprietà**.
+1. Per apportare modifiche a **[!UICONTROL Heat Grid]**, vai all&#39;area **[!UICONTROL Properties]**.
 
    ![](assets/image2015-5-4-16-3a7-3a9.png)
 
-   Fantastico! Hai ora la tua **Griglia di calore**!
+   Fantastico! Ora hai il tuo **[!UICONTROL Heat Grid]**.

@@ -4,10 +4,10 @@ description: Riordinare le colonne dei rapporti - Documentazione di Marketo - Do
 title: Riordina colonne report
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puoi modificare l’ordine delle colonne in un rapporto.
 
-1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-10-3a50-3a27.png)
 
-1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Report**.
+1. Selezionare il report dalla struttura di spostamento e fare clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-16-10-3a50-3a31.png)
 
@@ -27,7 +27,7 @@ Puoi modificare l’ordine delle colonne in un rapporto.
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. Tutto qui! Le colonne vengono ora visualizzate nel nuovo ordine.
+1. Tutto qui. Le colonne vengono ora visualizzate nel nuovo ordine.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

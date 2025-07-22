@@ -4,9 +4,9 @@ description: Aggiungere un pulsante Social a una pagina di destinazione in forma
 title: Aggiungere un pulsante Social a una pagina di destinazione in formato libero
 exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
 >
 >Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Passa alla pagina di destinazione in formato libero e fai clic su **Modifica bozza**.
+1. Passare alla pagina di destinazione in formato libero e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/scoring.jpg)
 
-1. Trascina **Pulsante social** dagli elementi a destra.
+1. Trascina su **[!UICONTROL Social Button]** dagli elementi a destra.
 
    ![](assets/image2015-5-21-15-3a47-3a46.png)
 
-1. Seleziona **Pulsanti social (con Analytics)**.
+1. Seleziona **[!UICONTROL Social Buttons (with Analytics)]**.
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
    Quando la pagina di destinazione è attiva, visualizza l&#39;attività generata dal _pulsante social (con Analytics) nel dashboard social_.
 
-   Se invece aggiungi un pulsante Mi piace/Consiglia (Lite), consulta il numero di condivisioni nel [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
+   Se invece aggiungi [!UICONTROL Like/Recommend Button (Lite)], vedi il numero di condivisioni nel [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
-1. Selezionare **Crea nuovo** dal menu a discesa.
+1. Selezionare **[!UICONTROL Create New]** dal menu a discesa.
 
    >[!NOTE]
    >
-   >Puoi anche creare un pulsante per social network all&#39;interno di un programma selezionando **Nuovo** > **Nuova risorsa locale**.
+   >È inoltre possibile creare un pulsante social all&#39;interno di un programma selezionando **[!UICONTROL New]** > **[!UICONTROL New Local Asset]**.
 
-1. Assegna un nome al pulsante del social network, seleziona **Nessuno** da **Clona da** e fai clic su **Inserisci**.
+1. Assegna un nome al pulsante social, seleziona **[!UICONTROL None]** da **[!UICONTROL Clone From]** e fai clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-17-10-3a35-3a26.png)
 
    >[!TIP]
    >
-   >Per risparmiare tempo, puoi utilizzare l&#39;opzione **Clona da** per copiare tutte le impostazioni da un pulsante social esistente.
+   >Per risparmiare tempo, puoi utilizzare l&#39;opzione **[!UICONTROL Clone From]** per copiare tutte le impostazioni da un pulsante social esistente.
 
    [pubblica la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _inserisci il pulsante social nel tuo sito Web_
 

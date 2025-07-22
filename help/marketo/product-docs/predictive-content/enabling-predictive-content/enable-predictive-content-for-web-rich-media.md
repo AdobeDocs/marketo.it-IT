@@ -4,9 +4,9 @@ description: Abilitare i contenuti predittivi per contenuti web - Documenti Mark
 title: Abilitare il contenuto predittivo per i contenuti rich media web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -33,21 +33,21 @@ I contenuti predittivi coinvolgono i visitatori web con i contenuti più rilevan
 
 Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per Rich Media, puoi abilitare singole parti o più parti di contenuto.
 
-1. Per abilitare un singolo titolo, fai clic su un titolo per aprire l’editor. Fai clic su Rich Media, quindi seleziona la casella **Abilitato per Predictive Content in Rich Media** e fai clic su **Salva**.
+1. Per abilitare un singolo titolo, fai clic su un titolo per aprire l’editor. Fare clic su **[!UICONTROL Rich Media]**, quindi selezionare la casella **[!UICONTROL Enabled for Predictive Content in Rich Media]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-3-9-3a50-3a29.png)
 
-1. Per più parti di contenuto, nella pagina **Contenuto predittivo**, seleziona le caselle accanto ai titoli.
+1. Per più parti di contenuto, nella pagina **[!UICONTROL Predictive Content]**, seleziona le caselle accanto ai titoli.
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Abilita per contenuti multimediali avanzati Web**.
+1. Fare clic sul menu a discesa **[!UICONTROL Content Actions]** e selezionare **[!UICONTROL Enable for Web Rich Media]**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
 Incolla il codice JavaScript nel tuo sito web nel percorso in cui desideri visualizzare il modello.
 

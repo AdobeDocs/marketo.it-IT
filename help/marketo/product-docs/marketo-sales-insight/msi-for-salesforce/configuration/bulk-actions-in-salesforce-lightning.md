@@ -4,42 +4,42 @@ description: Azioni in blocco in Salesforce Lightning - Documenti Marketo - Docu
 title: Azioni in blocco in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 2%
 
 ---
 
-# Azioni in blocco in Salesforce Lightning {#bulk-actions-in-salesforce-lightning}
+# Azioni in blocco in [!DNL Salesforce Lightning] {#bulk-actions-in-salesforce-lightning}
 
-Ecco come impostare azioni in blocco in Salesforce Lightning.
+Ecco come impostare azioni in blocco in [!DNL Salesforce Lightning].
 
-1. In Salesforce, fai clic sull&#39;icona Setup e seleziona **Setup**.
+1. In [!DNL Salesforce], fare clic sull&#39;icona Configurazione e selezionare **[!UICONTROL Setup]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Fare clic sulla scheda **Gestione oggetti**.
+1. Fare clic sulla scheda **[!UICONTROL Object Manager]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 
-1. Trova e seleziona l&#39;etichetta **Lead**.
+1. Trovare e selezionare l&#39;etichetta **[!UICONTROL Lead]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-3.png)
 
-1. Fare clic su **Cerca layout per Salesforce Classic**.
+1. Fai clic su **[!UICONTROL Search Layouts for Salesforce Classic]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-4.png)
 
-   Trovare il layout Vista a elenco. Fai clic sull&#39;elenco a discesa a destra e seleziona **Modifica**.
+   Trovare il layout Vista a elenco. Fare clic sull&#39;elenco a discesa a destra e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-5.png)
 
-1. In Pulsanti personalizzati, trovare e selezionare **Aggiungi a Marketo Campaign (fulmine)** e **Invia e-mail Marketo (fulmine)**. Fai clic sul pulsante **Aggiungi**.
+1. In Pulsanti personalizzati trovare e selezionare **[!UICONTROL Add to Marketo Campaign (lightning)]** e **[!UICONTROL Send Marketo Email (lightning)]**. Fare clic sul pulsante **[!UICONTROL Add]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-6.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-7.png)
 

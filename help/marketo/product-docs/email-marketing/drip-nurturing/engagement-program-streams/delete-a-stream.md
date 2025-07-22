@@ -4,9 +4,9 @@ description: Eliminare un flusso - Documentazione Marketo - Documentazione del p
 title: Eliminare un flusso
 exl-id: f813c2ce-c819-4a38-bf3e-ff79c2a28c6e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se hai bisogno di eliminare un flusso dal programma di coinvolgimento, segui questi passaggi rapidi e semplici.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il programma di coinvolgimento e passa a **Streams**.
+1. Selezionare il programma di coinvolgimento e passare a **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-2.jpg)
 
@@ -27,11 +27,11 @@ Se hai bisogno di eliminare un flusso dal programma di coinvolgimento, segui que
    >
    >L’eliminazione di un flusso determinerà la perdita di dati storici per il contenuto in quel flusso.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Elimina**.
+1. Fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-17-3a47-3a27.png)
 
-1. Confermare l&#39;eliminazione facendo clic su **Elimina**.
+1. Confermare l&#39;eliminazione facendo clic su **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-17-3a47-3a31.png)
 

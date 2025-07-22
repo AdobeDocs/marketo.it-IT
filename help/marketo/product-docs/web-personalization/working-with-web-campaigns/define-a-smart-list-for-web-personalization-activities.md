@@ -4,20 +4,20 @@ description: Definire un elenco avanzato per le attività di Web Personalization
 title: Definire un elenco avanzato per le attività di Web Personalization
 exl-id: 9987f922-f50c-47b3-aef6-230326b094fc
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '287'
 ht-degree: 0%
 
 ---
 
-# Definire un elenco avanzato per le attività di Web Personalization {#define-a-smart-list-for-web-personalization-activities}
+# Definisci un elenco avanzato per [!DNL Web Personalization] attività {#define-a-smart-list-for-web-personalization-activities}
 
-Puoi utilizzare le attività di Web Personalization nei filtri e nei trigger quando definisci un elenco avanzato in una campagna avanzata. In questo caso, vuoi acquisire chiunque abbia fatto clic su un invito all’azione (campagna) di Web Personalization.
+Puoi utilizzare le attività [!DNL Web Personalization] nei filtri e nei trigger quando definisci un elenco avanzato in una campagna avanzata. In questo caso, si desidera acquisire chiunque abbia fatto clic su un call to action [!DNL Web Personalization] (campagna).
 
-Utilizza un trigger per inviare un’e-mail o un avviso, oppure per modificare un valore o un punteggio in base ai visitatori che hanno fatto clic e sono coinvolti in un invito all’azione di Web Personalization. Puoi anche filtrare e visualizzare i lead su cui è stato fatto clic su un invito all’azione di Web Personalization.
+Utilizza un trigger per inviare un&#39;e-mail o un avviso, oppure per modificare un valore o un punteggio in base ai visitatori che hanno fatto clic e sono coinvolti in un call to action [!DNL Web Personalization]. È inoltre possibile filtrare e visualizzare i lead che hanno fatto clic su un call to action [!DNL Web Personalization].
 
-1. Nella tua campagna avanzata, fai clic sulla scheda **Elenco avanzato**.
+1. Nella tua smart campaign, fai clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/image2016-2-9-10-3a49-3a18.png)
 

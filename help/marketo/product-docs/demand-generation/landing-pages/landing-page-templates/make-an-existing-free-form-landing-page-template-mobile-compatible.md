@@ -4,40 +4,40 @@ description: Rendere compatibile per dispositivi mobili un modello di pagina di 
 title: Rendi compatibile con dispositivi mobili un modello di pagina di destinazione in formato libero esistente
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
-# Rendi compatibile con dispositivi mobili un modello di pagina di destinazione in formato libero esistente {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Crea un modello di pagina di destinazione in formato libero esistente [!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Questa operazione può essere eseguita in due posizioni, Editor modelli e Editor pagina di destinazione.
 
 ## Eseguire l’aggiornamento dall’Editor modelli {#upgrade-from-the-template-editor}
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Seleziona **Modelli**.
+1. Seleziona **[!UICONTROL Templates]**.
 
    ![](assets/image2015-1-22-20-3a20-3a2.png)
 
-1. Seleziona un modello in cui **Compatibile con dispositivi mobili** è **No**.
+1. Selezionare un modello in cui **[!UICONTROL Mobile Compatible]** è **[!UICONTROL No]**.
 
    ![](assets/image2015-1-22-20-3a22-3a24.png)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-20-3a25-3a36.png)
 
-1. Fare clic su **Rendi compatibile Mobile**.
+1. Fai clic su **[!UICONTROL Make Mobile Compatible]**.
 
    ![](assets/image2015-1-22-20-3a30-3a33.png)
 
-1. Fai clic su **Aggiorna**.
+1. Fai clic su **[!UICONTROL Upgrade]**.
 
    ![](assets/image2015-1-22-20-3a32-3a45.png)
 
@@ -49,7 +49,7 @@ Questa operazione può essere eseguita in due posizioni, Editor modelli e Editor
 
    ![](assets/image2015-1-22-20-3a36-3a43.png)
 
-## Cosa rende un modello compatibile per dispositivi mobili? {#what-makes-a-template-mobile-compatible}
+## Cosa crea un modello [!UICONTROL Mobile Compatible]? {#what-makes-a-template-mobile-compatible}
 
 Grandi domande! Il modello deve avere i seguenti tag:
 
@@ -63,17 +63,17 @@ Se si verifica un errore, viene visualizzato un messaggio di errore, fare clic s
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Se apporti modifiche al modello, fai clic su Azioni modello e seleziona Convalida compatibilità mobile.
+Se si apportano modifiche al modello, fare clic su [!UICONTROL Template Actions] e selezionare [!UICONTROL Validate Mobile Compatibility].
 
 ## Aggiornamento di un modello dall’Editor pagina di destinazione in formato libero {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
 Quando modifichi una pagina di destinazione e fai clic sulla scheda mobile, a volte noterai che il modello non è stato aggiornato. Non abbiate paura! Puoi aggiornarla proprio qui.
 
-1. Fare clic sulla scheda **Mobile**.
+1. Fare clic sulla scheda **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 
-1. Selezionare la casella di controllo e fare clic su **Attiva**.
+1. Selezionare la casella di controllo e fare clic su **[!UICONTROL Activate]**.
 
    ![](assets/image2015-1-22-20-3a49-3a34.png)
 

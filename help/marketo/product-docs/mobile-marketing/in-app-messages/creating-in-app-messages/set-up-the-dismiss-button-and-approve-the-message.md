@@ -4,9 +4,9 @@ description: Configurare il pulsante Ignora e approvare il messaggio - Documenta
 title: Impostare il pulsante Ignora e approvare il messaggio
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Il pulsante Ignora dispone di molte opzioni che consentono di configurarlo nel m
 
 Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state salvate automaticamente. Ora sei pronto a finire il lavoro.
 
-1. Per visualizzare l&#39;anteprima del messaggio in-app, fai clic sul menu a discesa **Azioni messaggio** e seleziona **Anteprima**.
+1. Per visualizzare l&#39;anteprima del messaggio in-app, fai clic sul menu a discesa **[!UICONTROL Message Actions]** e seleziona **[!UICONTROL Preview]**.
 
    ![](assets/image2016-5-9-10-3a58-3a38.png)
 
@@ -57,13 +57,13 @@ Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state sa
 
    ![](assets/image2016-5-9-11-3a2-3a13.png)
 
-1. Se sei soddisfatto del messaggio in-app, fai clic su **Approva e chiudi**.
+1. Se si è soddisfatti del messaggio in-app, fare clic su **[!UICONTROL Approve & Close]**.
 
    ![](assets/image2016-5-9-11-3a8-3a52.png)
 
    >[!NOTE]
    >
-   >Puoi anche selezionare **Approva e chiudi** direttamente dal menu a discesa Azioni messaggio (vedi passaggio 1), ma perché non visualizzare prima l&#39;anteprima del messaggio, solo per sicurezza?
+   >Puoi anche selezionare **[!UICONTROL Approve & Close]** direttamente dal menu a discesa [!UICONTROL Message Actions] (vedi passaggio 1), ma perché non visualizzare prima l&#39;anteprima del messaggio solo per sicurezza?
 
 1. Per chiudere l’editor senza approvazione, è sufficiente chiudere la scheda. Viene salvato automaticamente, quindi puoi restituirlo e approvarlo in un secondo momento.
 

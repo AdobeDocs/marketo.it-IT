@@ -4,9 +4,9 @@ description: Note sulla versione - Primavera del 1916 - Documentazione di Market
 title: Note sulla versione - Primavera 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: c20ea4d17f6bf2d6f14a8fe71527dd9fa0c446a2
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -57,17 +57,17 @@ Sono finiti i giorni in cui devi riapprovare tutto ogni volta che uno snippet vi
 
 Le API REST di Marketo ora supportano il controllo sulle pagine di destinazione, i modelli di pagina di destinazione e i moduli di Marketo. Gli utenti possono ora creare, aggiornare il contenuto, approvare ed eliminare queste risorse direttamente tramite l’API REST di Marketo.
 
-## [inserire nell&#39;elenco Consentiti IP in attesa dell&#39;accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## inserire nell&#39;elenco Consentiti [IP in attesa dell&#39;accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
-Analogamente alla funzione di inserire nell&#39;elenco Consentiti dell’IP per gli accessi degli utenti Marketo, ora gli amministratori di Marketo possono impostare un elenco Consentiti di indirizzi IP in grado di accedere alle API SOAP e REST di Marketo, bloccando in tal modo l’accesso da indirizzi IP non autorizzati. Questo offre un ulteriore livello di sicurezza all’istanza Marketo e garantisce che l’accesso API sia possibile solo dall’interno della rete dell’organizzazione. I dettagli sulla configurazione sono disponibili nel [sito della documentazione di Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
+Analogamente alla funzione di inserire nell&#39;elenco Consentiti dell’IP per gli accessi degli utenti Marketo, ora gli amministratori di Marketo possono impostare un elenco Consentiti di indirizzi IP in grado di accedere alle API Marketo SOAP e REST, bloccando in tal modo l’accesso da indirizzi IP non autorizzati. Questo offre un ulteriore livello di sicurezza all’istanza Marketo e garantisce che l’accesso API sia possibile solo dall’interno della rete dell’organizzazione. I dettagli sulla configurazione sono disponibili nel [sito della documentazione di Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
-## [Nuovo Connettore Microsoft Dynamics Sync Ad Alta Velocità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
+## [Nuovo Connettore Di Sincronizzazione Microsoft Dynamics Ad Alta Velocità](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/sync-status.md) {#new-high-speed-microsoft-dynamics-sync-connector}
 
 Il nuovo connettore Dynamics ad alta velocità offre velocità fino a 20 volte superiori per la sincronizzazione iniziale e fino a 5 volte superiori per la sincronizzazione incrementale. Tutti i nuovi clienti effettueranno l’onboarding a questo connettore alla data di rilascio e lo distribuiremo gradualmente ai clienti esistenti nel periodo di rilascio estivo.
 
-**Aggiorna dati per nuovi campi**: ora è possibile abilitare nuovi campi di sincronizzazione in qualsiasi momento e tutti i valori dei dati per tale campo verranno aggiornati da Dynamics CRM in Marketo. Nessun ulteriore problema sulla necessità di selezionare tutti i campi durante la configurazione iniziale. Se si disattiva un campo di sincronizzazione esistente e lo si riattiva in un secondo momento, tutti i valori dei dati per tale campo verranno aggiornati da Dynamics CRM in Marketo.
+**Aggiorna dati per nuovi campi**: ora è possibile abilitare nuovi campi di sincronizzazione in qualsiasi momento e tutti i valori dei dati per tale campo verranno aggiornati da [!DNL Dynamics] CRM in Marketo. Nessun ulteriore problema sulla necessità di selezionare tutti i campi durante la configurazione iniziale. Se si disattiva un campo di sincronizzazione esistente e lo si riattiva in seguito, tutti i valori dei dati per tale campo verranno aggiornati da [!DNL Dynamics] CRM in Marketo.
 
-**Sincronizza lead come contatto**: l&#39;azione di flusso Sincronizza lead con Microsoft dispone di una nuova opzione per la sincronizzazione come lead o contatto.
+**Sincronizza lead come contatto**: l&#39;azione di flusso [!UICONTROL Sync Lead to Microsoft] dispone di una nuova opzione per la sincronizzazione come lead o contatto.
 
 ![](assets/image2016-5-19-8-3a59-3a9.png)
 
@@ -75,7 +75,7 @@ Il nuovo connettore Dynamics ad alta velocità offre velocità fino a 20 volte s
 
 ![](assets/sync-errors.png)
 
-**Microsoft Dynamics 2016**: il connettore è completamente certificato per le versioni online e on-premise di Dynamics 2016.
+**[!DNL Microsoft Dynamics]2016**: il connettore è completamente certificato per [!DNL Dynamics] 2016 [!DNL Online] e [!DNL On-premise] versioni.
 
 **Gli aggiornamenti dei plug-in sono ora documentati:** Consulta l&#39;articolo della documentazione sugli aggiornamenti dei [plug-in](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/marketo-plugin-releases-for-microsoft-dynamics.md).
 

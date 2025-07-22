@@ -4,16 +4,16 @@ description: Opzioni di invio in blocco - Documenti Marketo - Documentazione del
 title: Opzioni di invio in blocco
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
 
 # Opzioni di invio in blocco {#bulk-sending-options}
 
-L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. Sales Connect offre due modi per inviare e-mail in blocco: **Raggruppa e-mail** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
+L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. [!DNL Sales Connect] offre due modi per inviare e-mail in blocco: **Raggruppa e-mail** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
 
 **E-mail di gruppo e selezione e invio**
 

@@ -1,28 +1,28 @@
 ---
 unique-page-id: 14352473
 description: Come installare i pulsanti Sales Connect in Salesforce - Documentazione Marketo - Documentazione del prodotto
-title: Come installare i pulsanti Sales Connect in Salesforce
+title: Installazione dei pulsanti Sales Connect in Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 1%
+source-wordcount: '104'
+ht-degree: 4%
 
 ---
 
-# Come installare i pulsanti Sales Connect in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
+# Installazione dei pulsanti Sales Connect in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 
-Facile installazione Chiamata con Marketo Sales Connect, Invia e-mail Marketo Sales e Aggiungi a Campaign. Per installare questi campi, devi disporre dei privilegi di amministratore in Salesforce.
+Facile installazione Chiamata con Marketo Sales Connect, Invia e-mail Marketo Sales e Aggiungi a Campaign. Per installare questi campi, è necessario disporre dei privilegi di amministratore in [!DNL Salesforce].
 
 1. Accedi a [Salesforce.com.](https://salesforce.com)
-1. Fai clic su **Personalizza**.
-1. Fai clic su **Lead**.
-1. Fare clic su **Layout di pagina**.
-1. Fai clic su **Modifica** accanto al Layout lead a cui desideri aggiungere i pulsanti.
-1. Fai clic su **Pulsanti**.
-1. Trascinare i pulsanti Sales Connect nella sezione Lead Details (Dettagli lead).
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Customize]**.
+1. Fai clic su **[!UICONTROL Leads]**.
+1. Fai clic su **[!UICONTROL Page Layouts]**.
+1. Fare clic su **[!UICONTROL Edit]** accanto a [!UICONTROL Lead Layout] a cui si desidera aggiungere i pulsanti.
+1. Fai clic su **[!UICONTROL Buttons]**.
+1. Trascinare i pulsanti [!UICONTROL Sales Connect] nella sezione [!UICONTROL Lead Details].
+1. Fai clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >

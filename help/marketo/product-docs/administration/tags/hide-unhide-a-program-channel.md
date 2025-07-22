@@ -4,10 +4,10 @@ description: Nascondere/mostrare un canale di programma - Documentazione di Mark
 title: Nascondere/mostrare un canale programma
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
@@ -21,19 +21,19 @@ ht-degree: 0%
 
 ## Nascondere un canale programma {#hide-a-program-channel}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 
-1. Fai clic su **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tags]**.
 
    ![](assets/hide-unhide-a-program-channel-2.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Canale]** e seleziona il **[!UICONTROL Canale]** da nascondere.
+1. Fare clic sul menu a discesa **[!UICONTROL Channel]** e selezionare **[!UICONTROL Channel]** da nascondere.
 
    ![](assets/hide-unhide-a-program-channel-3.png)
 
-1. In **[!UICONTROL Azioni tag]**, fai clic su **[!UICONTROL Nascondi]**.
+1. In **[!UICONTROL Tag Actions]**, fare clic su **[!UICONTROL Hide]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
 
@@ -41,6 +41,6 @@ Vieni, vai!
 
 ## Scoprire un canale del programma {#unhide-a-program-channel}
 
-1. Per scoprire un canale del programma, seleziona la casella di controllo Mostra nascosto.
+1. Rivelare un canale del programma selezionando la casella di controllo **[!UICONTROL Show Hidden]**.
 
    ![](assets/hide-unhide-a-program-channel-5.png)

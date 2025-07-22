@@ -1,40 +1,40 @@
 ---
-description: Passaggio 1 di 3 - Aggiungere campi Marketo a Veeva CRM - Documentazione Marketo - Documentazione del prodotto
-title: Passaggio 1 di 3 - Aggiungere campi Marketo a Veeva CRM
+description: Passaggio 1 di 3 - Aggiungere campi Marketo a  [!DNL Veeva] CRM - Documenti Marketo - Documentazione del prodotto
+title: Passaggio 1 di 3 - Aggiungere campi Marketo a  [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '527'
-ht-degree: 6%
+source-wordcount: '485'
+ht-degree: 8%
 
 ---
 
-# Passaggio 1 di 3: aggiungere campi Marketo a Veeva CRM {#step-1-of-3-add-marketo-fields-to-veeva-crm}
+# Passaggio 1 di 3: aggiunta di campi Marketo al CRM [!DNL Veeva] {#step-1-of-3-add-marketo-fields-to-veeva-crm}
 
 >[!PREREQUISITES]
 >
->L’istanza di CRM Veeva deve avere accesso alle API Salesforce per sincronizzare i dati tra Marketo Engage e CRM Veeva.
+>L&#39;istanza di CRM [!DNL Veeva] deve avere accesso alle API di Salesforce per sincronizzare i dati tra Marketo Engage e il CRM [!DNL Veeva].
 
-Il Marketo Engage utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in Veeva CRM, segui le istruzioni di seguito.
+Marketo Engage utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in [!DNL Veeva] CRM, segui le istruzioni riportate di seguito.
 
-`1.` Crea un campo personalizzato in Veeva CRM sugli oggetti contatto: Punteggio
+`1.` Crea un campo personalizzato nel CRM [!DNL Veeva] sugli oggetti contatto: Punteggio
 
 `2.` Se necessario, puoi creare campi aggiuntivi (vedi la tabella seguente).
 
-Tutti questi campi personalizzati sono facoltativi e non sono necessari per sincronizzare Marketo Engage e Veeva CRM.
+Tutti questi campi personalizzati sono facoltativi e non sono necessari per sincronizzare Marketo Engage e [!DNL Veeva] CRM.
 
-## Aggiungere campi Marketo a Veeva CRM {#add-marketo-fields-to-veeva-crm}
+## Aggiungi campi Marketo a [!DNL Veeva] CRM {#add-marketo-fields-to-veeva-crm}
 
-Aggiungi un campo personalizzato sugli oggetti lead e contatto in Veeva CRM elencati sopra. Per aggiungerne altri, vedere la tabella dei campi disponibili alla fine di questa sezione.
+Aggiungere un campo personalizzato agli oggetti lead e contatto nel CRM [!DNL Veeva] elencati sopra. Per aggiungerne altri, vedere la tabella dei campi disponibili alla fine di questa sezione.
 
 Per aggiungerlo, effettua le seguenti operazioni per il campo Punteggio.
 
-1. Accedi a Veeva CRM e fai clic su **[!UICONTROL Configurazione]**.
+1. Accedere al CRM [!DNL Veeva] e fare clic su **[!UICONTROL Setup]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-1.png)
 
-1. Fare clic su **[!UICONTROL Oggetti e campi]** e selezionare **[!UICONTROL Gestione oggetti]**.
+1. Fare clic su **[!UICONTROL Objects and Fields]** e selezionare **[!UICONTROL Object Manager]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-2.png)
 
@@ -44,9 +44,9 @@ Per aggiungerlo, effettua le seguenti operazioni per il campo Punteggio.
 
 1. Fare clic sull&#39;oggetto **[!UICONTROL Contact]**.
 
-1. Selezionare **[!UICONTROL Campi e relazioni]**.
+1. Seleziona **[!UICONTROL Fields and Relationships]**.
 
-1. Fare clic su **[!UICONTROL Nuovo]**.
+1. Fai clic su **[!UICONTROL New]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-4.png)
 
@@ -54,11 +54,11 @@ Per aggiungerlo, effettua le seguenti operazioni per il campo Punteggio.
 
    ![](assets/step-1-of-3-add-marketo-fields-5.png)
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-6.png)
 
-1. Immetti **[!UICONTROL Etichetta campo]**, **[!UICONTROL Lunghezza]** e **[!UICONTROL Nome campo]** per il campo, come illustrato nella tabella seguente.
+1. Immettere **[!UICONTROL Field Label]**, **[!UICONTROL Length]** e **[!UICONTROL Field Name]** per il campo, come illustrato nella tabella seguente.
 
 <table>
  <tbody>
@@ -80,7 +80,7 @@ Cifre decimali 0</td>
 
 >[!NOTE]
 >
->Veeva CRM aggiunge __c ai nomi dei campi quando li utilizza per creare i nomi API.
+>[!DNL Veeva] CRM aggiunge __c ai nomi di campo quando li utilizza per creare i nomi API.
 
 ![](assets/step-1-of-3-add-marketo-fields-7.png)
 
@@ -88,26 +88,26 @@ Cifre decimali 0</td>
 >
 >I campi di testo e numerici richiedono una lunghezza, ma i campi di data e ora non la richiedono. Una descrizione è facoltativa.
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/step-1-of-3-add-marketo-fields-8.png)
 
-1. Specificare le impostazioni di accesso e fare clic su **[!UICONTROL Avanti]**.
+1. Specificare le impostazioni di accesso e fare clic su **[!UICONTROL Next]**.
 
-1. Imposta tutti i ruoli su Visibile e Sola lettura.
+1. Imposta tutti i ruoli su **[!UICONTROL Visible]** e **[!UICONTROL Read-Only]**.
 
-1. Deselezionare la casella di controllo Sola lettura per il profilo dell&#39;utente di sincronizzazione:
+1. Deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo dell&#39;utente di sincronizzazione:
 
-* Se come utente di sincronizzazione è presente un utente con il profilo Amministratore di sistema, deselezionare la casella di controllo Sola lettura per il profilo Amministratore di sistema (come illustrato di seguito).
-* Se è stato creato un profilo personalizzato per l&#39;utente di sincronizzazione, deselezionare la casella di controllo Sola lettura per il profilo personalizzato.
+* Se si dispone di un utente con il profilo di Amministratore di sistema come utente di sincronizzazione, deselezionare la casella di controllo [!UICONTROL Read-Only] per il profilo Amministratore di sistema (come illustrato di seguito).
+* Se è stato creato un profilo personalizzato per l&#39;utente di sincronizzazione, deselezionare la casella di controllo [!UICONTROL Read-Only] per il profilo personalizzato.
 
   ![](assets/step-1-of-3-add-marketo-fields-9.png)
 
 1. Scegliere i layout di pagina da visualizzare nel campo.
 
-1. Fai clic su **[!UICONTROL Salva e nuovo]** per tornare indietro e creare ciascuno degli altri due campi personalizzati.
+1. Fare clic su **[!UICONTROL Save & New]** per tornare indietro e creare ciascuno degli altri due campi personalizzati.
 
-1. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]** quando hai finito con tutti e tre.
 
    ![](assets/step-1-of-3-add-marketo-fields-10.png)
 
@@ -172,4 +172,4 @@ FACOLTATIVO: utilizzare la procedura descritta sopra per i campi personalizzati 
 
 >[!NOTE]
 >
->I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in Veeva CRM al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con Veeva CRM al prossimo aggiornamento del record su entrambi i sistemi (ovvero, un aggiornamento a qualsiasi campo sincronizzato tra Marketo e Veeva CRM).
+>I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in [!DNL Veeva] CRM al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con il CRM [!DNL Veeva] al prossimo aggiornamento del record in uno dei due sistemi (ovvero un aggiornamento di uno qualsiasi dei campi sincronizzati tra Marketo e il CRM [!DNL Veeva]).

@@ -1,26 +1,26 @@
 ---
 unique-page-id: 42762322
-description: Scheda Configurazione di Marketo Sales Insight in Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scheda Configurazione di Marketo Sales Insight in Salesforce - Documentazione di Marketo - Documentazione del prodotto
 title: Scheda Configurazione di Marketo Sales Insight in Salesforce
 exl-id: 4e2abd48-b0a5-4b71-939b-e66c7e39bb6c
 feature: Marketo Sales Insights
-source-git-commit: 4848676d423ff96c2e880819bc760b2f8dbbd094
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
 
-# Scheda Configurazione di Marketo Sales Insight in Salesforce {#marketo-sales-insight-configuration-tab-in-salesforce}
+# Scheda Configurazione [!DNL Marketo Sales Insight] in [!DNL Salesforce] {#marketo-sales-insight-configuration-tab-in-salesforce}
 
 ## Impostazioni operative {#operational-settings}
 
-Dovrai configurarlo per iniziare a utilizzare Sales Insight in SFDC.
+Per iniziare a utilizzare [!DNL Sales Insight] in SFDC è necessario configurarlo.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-1.png)
 
 * MSI utilizza sia Soap che Rest API
-* La pagina Sales Insight nell’account Marketo avrà due pannelli corrispondenti con le credenziali API Soap e Rest che puoi copiare e incollare qui
+* La pagina Insight di vendita del tuo account Marketo avrà due pannelli corrispondenti con credenziali API Soap e Rest che puoi copiare e incollare qui
 * Le API Soap e Rest hanno timeout separati che puoi impostare in base alle esigenze della tua organizzazione. Il tempo massimo consentito è di 120 secondi
 * Disabilitazione della dashboard di Insights: puoi rimuovere le credenziali API REST e utilizzare solo l’API Soap. Così facendo, disabiliterai la scheda Dashboard approfondimenti in tutti i pannelli MSI visualforce
 
@@ -36,13 +36,13 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 * Prossimi eventi: possibilità di mostrare gli eventi invitati, tutti gli eventi agli utenti o nascondere completamente questa scheda
 * Prossime campagne: possibilità di mostrare tutte le campagne e-mail o nascondere completamente questa scheda
 * Caricare campagne ed eventi futuri: possibilità di ridurre il numero di chiamate API REST effettuate dagli utenti posizionando la scheda eventi e campagne dietro un pulsante &quot;Carica prossimi elementi&quot; on-demand
-* Impostazioni scheda: per impostazione predefinita, tutte e cinque le schede sono disponibili. Potete scegliere l&#39;ordine delle schede nel pannello Sales Insight. Lo stesso ordine sarà applicabile a tutti i layout (lead, contatto, account, opportunità)
+* Impostazioni scheda: per impostazione predefinita, tutte e cinque le schede sono disponibili. Potete scegliere l&#39;ordine delle schede nel pannello Insight vendite. Lo stesso ordine sarà applicabile a tutti i layout (lead, contatto, account, opportunità)
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-2.png)
 
 **Scheda globale Marketo**
 
-* Feed RSS abilitato: se abilitato, gli utenti MSI possono visualizzare il proprio feed di lead in un feed RSS (oltre al feed di lead in Salesforce). Il feed RSS può funzionare solo se la funzione &quot;Scadenza token&quot; è disabilitata. Questa impostazione è controllata nella pagina di amministrazione di Marketo Sales Insight.
+* Feed RSS abilitato: se attivato, gli utenti MSI possono visualizzare il proprio feed lead in un feed RSS (oltre al feed lead in Salesforce). Il feed RSS può funzionare solo se la funzione &quot;Scadenza token&quot; è disabilitata. Questa impostazione è controllata nella pagina di amministrazione di Marketo Sales Insight.
 * Modalità di debug elementi di maggiore rilevanza
 * Nascondi predefinito: l’opzione scelta qui corrisponde al numero di giorni in cui la puntata migliore verrà nascosta nella scheda Elementi di maggiore rilevanza in Marketo, quando si fa clic sull’icona &quot;Nascondi&quot;
 * Campo stato contatto: l&#39;opzione scelta in questo campo sarà il valore inserito nella colonna Intestazione stato della scheda Elementi di maggiore rilevanza di Marketo
@@ -58,20 +58,20 @@ Le configurazioni sono applicabili a tutti gli utenti MSI e non sono specifiche 
 
 **Impostazioni azione**
 
-* Invia e-mail Marketo: abilitando questa opzione, tutti gli utenti di Sales Insight potranno accedere per inviare e-mail dai pannelli Lead, Contatto, Account, Opportunità e dalla scheda Elementi di maggiore rilevanza (azioni in blocco e coinvolgimento in linea)
-* Aggiungi a Marketo Campaign: questa opzione consente a tutti gli utenti di Sales Insight di accedere alle campagne da parte dei pannelli Lead, Contatto, Account, Opportunità e della scheda Elementi di maggiore rilevanza (azioni in blocco e coinvolgimento in linea)
+* Invia e-mail Marketo: questa opzione consente a tutti gli utenti di Sales Insight di accedere per inviare e-mail dai pannelli Lead, Contatto, Account, Opportunità e dalla scheda Elementi di maggiore rilevanza (azioni in blocco e coinvolgimento in linea)
+* Aggiungi a Marketo Campaign: questa opzione consente a tutti gli utenti di Sales Insight di accedere alle campagne da lead, contatti, account, pannelli opportunità e scheda elementi di maggiore rilevanza (azioni in blocco e coinvolgimento in linea)
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-4.png)
 
 ## Impostazioni di supporto {#support-settings}
 
-Selezionando questa casella di controllo verrà abilitata la registrazione di debug nell’istanza Salesforce. Può essere utile per risolvere eventuali problemi.
+Selezionando questa casella di controllo verrà abilitata la registrazione di debug nell’istanza di Salesforce. Può essere utile per risolvere eventuali problemi.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-5.png)
 
-## Reimposta approfondimenti vendite Marketo {#reset-marketo-sales-insight}
+## Reimposta Insight di vendita Marketo {#reset-marketo-sales-insight}
 
-La scelta di eseguire questa operazione cancellerà tutte le configurazioni in SFDC e non potranno essere ripristinate. Dovrai riconfigurare tutto.
+Scegliendo questa opzione, tutte le configurazioni in SFDC verranno cancellate e non potranno essere ripristinate. Dovrai riconfigurare tutto.
 
 ![](assets/marketo-sales-insight-configuration-tab-in-salesforce-6.png)
 
@@ -81,4 +81,4 @@ La scelta di eseguire questa operazione cancellerà tutte le configurazioni in S
 
 >[!MORELIKETHIS]
 >
->[Aggiungi accesso a Sales Insight ai profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}
+>[Aggiungere l&#39;accesso di Insight alle vendite ai profili](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md){target="_blank"}

@@ -4,16 +4,16 @@ description: Domande frequenti su Performance Insights - Documentazione di Marke
 title: Domande frequenti su Performance Insights
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1346'
+source-wordcount: '1343'
 ht-degree: 0%
 
 ---
 
-# Domande frequenti su Performance Insights {#performance-insights-faq}
+# Domande frequenti su [!UICONTROL Performance Insights] {#performance-insights-faq}
 
-## Qual è la definizione di &quot;successo&quot; nella scheda Coinvolgimento? {#what-is-the-definition-of-success-in-the-engagement-tab}
+## Qual è la definizione di &quot;operazione completata&quot; nella scheda [!UICONTROL Engagement]? {#what-is-the-definition-of-success-in-the-engagement-tab}
 
 Il successo è una misura dell’interazione significativa in Marketo. Lo scopo di un programma è quello di creare un’interazione significativa con la persona o il potenziale cliente. Il successo è contrassegnato quando una persona raggiunge lo stato che raggiunge tale obiettivo. Può essere la partecipazione a un webinar, il clic su un link in un messaggio e-mail o la compilazione di un modulo web. Il successo dipende dal canale del programma.
 
@@ -23,7 +23,7 @@ Il successo è una misura dell’interazione significativa in Marketo. Lo scopo 
 
 ## MPI funzionerà con qualsiasi CRM? {#will-mpi-work-with-any-crm}
 
-Sì. Tecnicamente, MPI non interagisce direttamente con il sistema CRM per la sincronizzazione dei dati. MPI utilizza i dati memorizzati nella Data Warehouse di Marketo Analytics. Poiché la sincronizzazione CRM si verifica nell&#39;applicazione Gestione lead, qualsiasi CRM supportato da Marketo integrato nell&#39;applicazione Gestione lead visualizzerà correttamente i dati. Tuttavia, i campi dell’opportunità di gestione delle relazioni con i clienti devono essere mappati correttamente ai campi dell’opportunità di Marketo.
+Sì.  Tecnicamente, MPI non interagisce direttamente con il sistema CRM per la sincronizzazione dei dati. MPI utilizza i dati memorizzati nel Data Warehouse di Marketo Analytics. Poiché la sincronizzazione CRM si verifica nell&#39;applicazione Gestione lead, qualsiasi CRM supportato da Marketo integrato nell&#39;applicazione Gestione lead visualizzerà correttamente i dati. Tuttavia, i campi dell’opportunità di gestione delle relazioni con i clienti devono essere mappati correttamente ai campi dell’opportunità di Marketo.
 
 ## Non ho altri prodotti di analisi di marketing (ARB, RCE, RCA, analisi del programma). L&#39;MPI funzionerà per me? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -80,9 +80,9 @@ Potresti anche perdere delle opportunità a causa del costo del programma mancan
 
 I campi personalizzati, il tipo di opportunità e i filtri ABM sono tutti attributi correlati a un’opportunità. Il dashboard Coinvolgimento consente di misurare il coinvolgimento e l’acquisizione del lead, indipendentemente dal fatto che siano associati o meno a un’opportunità. Poiché il dashboard Coinvolgimento non prende in considerazione l’opportunità, i campi personalizzati, il tipo di opportunità e i filtri ABM non sono applicabili.
 
-## Desidero utilizzare un campo personalizzato Opportunità Salesforce per la generazione di rapporti sui ricavi anziché il campo standard Importo opportunità Salesforce. L&#39;MPI mi permette di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
+## Desidero utilizzare un campo opportunità Salesforce personalizzato per la generazione di rapporti sui ricavi anziché il campo importo opportunità Salesforce standard. L&#39;MPI mi permette di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sì. [Il supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) è in grado di mappare il campo Importo opportunità di Marketo a un campo personalizzato dell&#39;opportunità Salesforce, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo personalizzato Salesforce ricampionato.
+Sì.  [Il supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) è in grado di rimappare il campo Importo opportunità di Marketo in un campo opportunità Salesforce personalizzato, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo Salesforce personalizzato ricampionato.
 
 >[!NOTE]
 >
@@ -100,7 +100,7 @@ MPI è progettato per consentire di misurare le prestazioni del programma dall�
 
 ## Posso misurare il successo delle strategie basate su account in MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sì. MPI si integra con [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) per richiamare gli elenchi di account ABM in MPI senza problemi. È possibile utilizzare il filtro Elenco account ABM per scegliere l&#39;elenco ABM desiderato in base al quale filtrare i dati.
+Sì.  MPI si integra con [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) per richiamare gli elenchi di account ABM in MPI senza problemi. È possibile utilizzare il filtro Elenco account ABM per scegliere l&#39;elenco ABM desiderato in base al quale filtrare i dati.
 
 ## L’attribuzione è immediatamente disponibile quando acquisto MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 
@@ -131,9 +131,9 @@ Le funzionalità di attribuzione Marketo sono disponibili per i nostri clienti q
 
 L’analizzatore di programmi consente di confrontare i programmi di fino a quattro misure. MPI consente di analizzare il contributo del canale e del programma verso una metrica selezionata, ad esempio successo, nuove opportunità create e così via. Consente inoltre di visualizzare la tendenza del canale a 12 mesi in base a una metrica specifica scelta.
 
-## Qual è la differenza tra MPI e il Report Builder avanzato? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
+## Qual è la differenza tra MPI e Advanced Report Builder? {#whats-the-difference-between-mpi-and-the-advanced-report-builder}
 
-Il Report Builder avanzato (talvolta indicato come RCE) è progettato per la generazione di rapporti self-service (o ad hoc), in genere eseguiti dalle operazioni di marketing. MPI è progettato per fornire ai leader di marketing e agli esperti di marketing l’accesso con un solo clic all’analisi delle prestazioni. È richiesta una configurazione minima.
+Advanced Report Builder (talvolta indicato come RCE) è progettato per la generazione di rapporti self-service (o ad hoc), in genere eseguiti da operazioni di marketing. MPI è progettato per fornire ai leader di marketing e agli esperti di marketing l’accesso con un solo clic all’analisi delle prestazioni. È richiesta una configurazione minima.
 
 ## Cos’è successo all’opzione &quot;Anno precedente&quot; nel filtro data del contributo? {#what-happened-to-the-previous-year-option-in-contributions-date-filter}
 

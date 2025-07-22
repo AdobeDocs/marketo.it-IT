@@ -4,9 +4,9 @@ description: Creare un evento con Adobe Connect - Documentazione di Marketo - Do
 title: Creare un evento con Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -32,23 +32,23 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
 >
 >Al momento Adobe Connect On-Site non è supportato.
 
-1. Nella home di un nuovo evento, selezionare **Azioni evento**, quindi **Impostazioni evento**.
+1. Nella home di un nuovo evento, selezionare **[!UICONTROL Event Actions]**, quindi **[!UICONTROL Event Settings]**.
 
    ![](assets/image2015-1-30-15-3a34-3a28.png)
 
    >[!NOTE]
    >
-   >Se nel menu a discesa non trovi **Impostazioni evento**, assicurati che nel canale dell&#39;evento sia selezionato **Evento con webinar** in &quot;Si applica a&quot;.
+   >Se non vedi **[!UICONTROL Event Settings]** nel menu a discesa, assicurati che nel canale dell&#39;evento sia selezionato **[!UICONTROL Event with Webinar]** in &quot;[!UICONTROL Applies to]&quot;.
 
-1. In **Partner evento**, seleziona **Adobe Connect**.
+1. In **[!UICONTROL Event Partner]**, selezionare **[!UICONTROL Adobe Connect]**.
 
    ![](assets/event-settings-adobe-connect.png)
 
-1. Seleziona il tuo ID **Accesso** e il **Evento**.
+1. Seleziona il tuo ID **[!UICONTROL Login]** e il tuo **[!UICONTROL Event]**.
 
    ![](assets/event-settings-select-event-adobe-connect.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/event-settings-overview.png)
 
@@ -64,7 +64,7 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
    >
    >Imposta l&#39;e-mail di conferma su **Operativo** per garantire che le persone che si registrano e potrebbero annullare l&#39;iscrizione ricevano comunque le informazioni di conferma.
 
-   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio del flusso di stato del programma di modifica quando il nuovo stato è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Inoltre, assicurati di #1 il passaggio di flusso Stato programma di modifica e il passaggio di flusso Invia e-mail #2.
+   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso [!UICONTROL Change Program Status] quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurarsi inoltre di #1 [!UICONTROL Change Program Status] passaggio di flusso e #2. [!UICONTROL Send Email] passaggio di flusso
 
    ![](assets/adobe.png)
 
@@ -74,9 +74,9 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
 
    >[!TIP]
    >
-   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver atteso così a lungo non trovi ancora nulla, seleziona **Aggiorna dal provider webinar** dal menu Azioni evento nella scheda Riepilogo dell&#39;evento.
+   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver atteso così a lungo non trovi ancora nulla, seleziona **[!UICONTROL Refresh from Webinar Provider]** dal menu Azioni evento nella scheda Riepilogo dell&#39;evento.
 
    >[!MORELIKETHIS]
    >
-   >* [Aggiungi Adobe Connect as a LaunchPoint Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
+   >* [Aggiungi Adobe Connect as a [!DNL LaunchPoint] Service](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
    >* [Modifica un canale eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/edit-an-event-channel.md)

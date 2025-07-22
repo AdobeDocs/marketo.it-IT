@@ -4,22 +4,22 @@ description: Informazioni sulle conversioni offline di Facebook - Documentazione
 title: Informazioni sulle conversioni offline di Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulle conversioni offline di Facebook {#understanding-facebook-offline-conversions}
+# Informazioni su [!DNL Facebook] conversioni offline {#understanding-facebook-offline-conversions}
 
-Le campagne facebook Lead Ads generano lead e li inviano a Marketo per l’utilizzo in campagne di marketing. Tuttavia, senza visibilità sulle conversioni offline, l’inserzionista Facebook non può sapere quali annunci sono più efficaci. Ecco un esempio.
+Le campagne Facebook Lead Ads generano lead e li inviano a Marketo per l’utilizzo in campagne di marketing. Tuttavia, senza visibilità sulle conversioni offline, l&#39;inserzionista [!DNL Facebook] non può sapere quali annunci sono più efficaci. Ecco un esempio.
 
 >[!NOTE]
 >
 >**Esempio**
 >
->Facebook Lead Ads esegue tre annunci.
+>[!UICONTROL Facebook Lead Ads] esegue tre annunci.
 >
 >* L’annuncio 1 genera 20 lead
 >* L’annuncio 2 genera 30 lead
@@ -36,12 +36,12 @@ Le campagne facebook Lead Ads generano lead e li inviano a Marketo per l’utili
 >
 >Senza conversioni offline, l&#39;inserzionista probabilmente investirebbe più soldi in Ad 3. Con i dati di conversione offline, l’inserzionista investirà più probabilmente in Ad 1.
 
-Puoi [configurare Facebook Offline Conversions](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a Facebook.
+Puoi [configurare le conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md) per inviare le prestazioni degli annunci offline a [!DNL Facebook].
 
-1. Assicurati che l&#39;[integrazione di Facebook LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
-1. Mappa le fasi nel modello del ciclo dei ricavi su quelle di conversione offline in Facebook.
-1. Quando un lead Facebook viene generato da un annuncio lead Facebook e raggiunge una fase mappata, Marketo invia nuovamente i dati di conversione offline a Facebook diverse volte al giorno tramite un’API sicura e automatizzata. I dati vengono visualizzati nel rapporto di Facebook Ads Manager.
+1. Assicurarsi che l&#39;integrazione [[!DNL Facebook] [!UICONTROL LaunchPoint]](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md) sia aggiornata.
+1. Mappare le fasi nel modello del ciclo dei ricavi alle fasi di conversione offline in [!DNL Facebook].
+1. Quando un lead [!DNL Facebook] viene generato da un annuncio lead [!DNL Facebook] e raggiunge una fase mappata, Marketo invia i dati di conversione offline a [!DNL Facebook] diverse volte al giorno tramite un&#39;API protetta e automatizzata. I dati vengono visualizzati nel report di [!DNL Facebook] Ads Manager.
 
 >[!MORELIKETHIS]
 >
->[Configura conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)
+>[Configura [!DNL Facebook] Conversioni offline](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions.md)

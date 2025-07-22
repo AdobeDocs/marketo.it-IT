@@ -4,9 +4,9 @@ description: Configurare il pulsante Messaggio in-app - Documentazione Marketo -
 title: Configurare il pulsante Messaggio in-app
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricare un’immagine personalizzata del pulsante.
 
-1. Fare clic sul pulsante per aprire la scheda Stile per la modifica.
+1. Fare clic sul pulsante per aprire la scheda [!UICONTROL Style] per la modifica.
 
    ![](assets/image2016-5-6-15-3a6-3a55.png)
 
-1. Per cambiare il colore del pulsante standard, fare clic sul pulsante **Colore**.
+1. Per modificare il colore del pulsante standard, fare clic sul pulsante **[!UICONTROL Color]**.
 
    ![](assets/image2016-5-6-15-3a10-3a38.png)
 
@@ -31,11 +31,11 @@ Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricar
 
    ![](assets/image2016-5-6-15-3a16-3a26.png)
 
-1. Se si desidera utilizzare un&#39;immagine personalizzata per un pulsante, fare clic sul pulsante Immagine e quindi su **Seleziona immagine**.
+1. Se si desidera utilizzare un&#39;immagine personalizzata per un pulsante, fare clic sul pulsante **[!UICONTROL Image]** e quindi su **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-15-3a18-3a18.png)
 
-1. Scegli l&#39;immagine e fai clic su **Seleziona**.
+1. Scegliere l&#39;immagine e fare clic su **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-6-16-3a36-3a0.png)
 
@@ -69,11 +69,11 @@ Puoi utilizzare la progettazione predefinita del pulsante, modificarla o caricar
 
    >[!NOTE]
    >
-   >Il pulsante ha sempre un&#39;azione di tocco, pertanto la casella di controllo Azione tocco viene selezionata automaticamente con il messaggio predefinito &quot;Ignora messaggio&quot;.
+   >Il pulsante ha sempre un&#39;azione di tocco, pertanto la casella di controllo Azione tocco viene selezionata automaticamente con il messaggio predefinito &quot;[!UICONTROL Dismiss Message]&quot;.
 
 Ci siamo quasi. L&#39;ultimo passaggio consiste nel [configurare lo sfondo del messaggio in-app e il pulsante di chiusura](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-in-app-message-background.md).
 
 >[!MORELIKETHIS]
 >
 >* [Informazioni sui messaggi in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/understanding-in-app-messages.md)
->* [Scegli un layout per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)
+>* [Scegli un layout per [!UICONTROL In-App Message]](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/choose-a-layout-for-your-in-app-message.md)

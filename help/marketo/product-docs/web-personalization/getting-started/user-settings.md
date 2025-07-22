@@ -4,38 +4,38 @@ description: Impostazioni utente - Documentazione di Marketo - Documentazione de
 title: Impostazioni utente
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Impostazioni utente {#user-settings}
+# [!UICONTROL User Settings] {#user-settings}
 
 Modifica impostazioni quali fuso orario o report e-mail Web Personalization.
 
 ## Profilo utente/Password/Fusi orari {#user-profile-passwords-time-zones}
 
-1. Fai clic sul tuo nome e seleziona **Impostazioni utente**.
+1. Fai clic sul tuo nome e seleziona **[!UICONTROL User Settings]**.
 
    ![](assets/one.png)
 
-1. Viene visualizzata la pagina Impostazioni utente.
+1. Viene visualizzata la pagina [!UICONTROL User Settings].
 
    ![](assets/two.png)
 
-   Nella pagina Impostazioni utente puoi effettuare le seguenti operazioni:
+   Nella pagina [!UICONTROL User Settings] è possibile:
 
    * Cambia il tuo indirizzo email
    * Aggiungi i dati personali (nome e cognome, numero di cellulare e fuso orario)
    * Seleziona il numero di righe da esportare durante l’esportazione di tabelle nella piattaforma. Vedi il campo: &quot;Numero massimo di righe nell’esportazione Excel (limitato a 10.000)&quot;
-   * Seleziona le notifiche per dispositivi mobili per una nuova persona o un elenco di controllo relativo all’app mobile
-   * Modificare le impostazioni dell&#39;area personale facendo clic su **Modifica aree**.
+   * Seleziona [!UICONTROL Mobile Notification] per una nuova persona o un elenco di controllo relativo all&#39;app mobile
+   * Modificare le impostazioni dell&#39;area personale facendo clic su **[!UICONTROL Edit Regions]**.
    * Cambia la password
    * Seleziona le impostazioni di notifica dei rapporti e-mail per i rapporti e-mail su organizzazioni, persone, prestazioni di campagne e risorse
 
-   Fai clic su **Salva** dopo aver apportato eventuali modifiche.
+   Fai clic su **[!UICONTROL Save]** dopo aver apportato eventuali modifiche.
 
    >[!NOTE]
    >
@@ -43,13 +43,13 @@ Modifica impostazioni quali fuso orario o report e-mail Web Personalization.
 
 ## Seleziona i report e-mail {#select-email-reports}
 
-Seleziona il [report e-mail](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) da associare all&#39;utente e la frequenza (giornaliera, settimanale o trimestrale) di invio del report.
+Seleziona [[!UICONTROL Email Report]](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) da associare all&#39;utente e la frequenza ([!UICONTROL Daily], [!UICONTROL Weekly] o [!UICONTROL Quarterly]) quando verrà inviato il report.
 
 ![](assets/three.png)
 
 >[!NOTE]
 >
->Se fai clic su **Salva** non potrai uscire da Impostazioni utente. Per uscire, fai clic sul logo Marketo in alto a sinistra e seleziona la destinazione.
+>Se fai clic su **[!UICONTROL Save]** non potrai uscire da Impostazioni utente. Per uscire, fai clic sul logo Marketo in alto a sinistra e seleziona la destinazione.
 
 >[!MORELIKETHIS]
 >

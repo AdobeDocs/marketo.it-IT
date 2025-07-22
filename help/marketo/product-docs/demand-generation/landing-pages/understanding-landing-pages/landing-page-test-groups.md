@@ -4,10 +4,10 @@ description: Gruppi di test delle pagine di destinazione - Documentazione di Mar
 title: Gruppi di test della pagina di destinazione
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '173'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 >
 >[Creare due o più pagine di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferibilmente con un modulo.
 
-1. In Design Studio, fare clic su **Nuovo**. Nel menu a discesa, seleziona **Nuovo gruppo di test**.
+1. In Design Studio, fare clic su **[!UICONTROL New]**. Nel menu a discesa, seleziona **[!UICONTROL New Test Group]**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -27,10 +27,10 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
    >
    >Gli altri modi per creare un gruppo di test sono:
    >
-   >* Fare clic con il pulsante destro del mouse su una pagina di destinazione nella struttura e selezionare **Converti in gruppo di test**
-   >* Creare un gruppo di test della pagina di destinazione in un programma scegliendo **Gruppo di test AB** nel menu **Nuova risorsa locale**
+   >* Fare clic con il pulsante destro del mouse su una pagina di destinazione nella struttura e selezionare **[!UICONTROL Convert to Test Group]**
+   >* Creare un gruppo di test della pagina di destinazione in un programma scegliendo **[!UICONTROL AB Test Group]** nel menu **[!UICONTROL New Local Asset]**
 
-1. Immettere un nome e una descrizione facoltativa. Seleziona le pagine di destinazione da testare e fai clic su **Crea**.
+1. Immettere un nome e una descrizione facoltativa. Selezionare le pagine di destinazione che si desidera verificare e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-8-5-13-3a39-3a10.png)
 
@@ -38,18 +38,18 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
    >
    >Solo le pagine di destinazione non approvate saranno disponibili per la scelta.
 
-1. Fai clic con il pulsante destro del mouse su ogni pagina di destinazione e seleziona **Approva**.
+1. Fare clic con il pulsante destro del mouse su ogni pagina di destinazione e selezionare **[!UICONTROL Approve]**.
 
    ![](assets/three-1.png)
 
-1. Fai clic sul menu a discesa **Opzioni gruppo di test** e seleziona **Approva gruppo di test**.
+1. Fare clic sul menu a discesa **[!UICONTROL Test Group Actions]** e selezionare **[!UICONTROL Approve Test Group]**.
 
    ![](assets/four-1.png)
 
-   Tutto qui! Ora potrai confrontare le statistiche delle pagine di destinazione selezionate.
+   Tutto qui. Ora potrai confrontare le statistiche delle pagine di destinazione selezionate.
 
    ![](assets/five.png)
 
    >[!TIP]
    >
-   >Per eliminare il gruppo di test, fare clic su **Azioni gruppo di test** e selezionare **Elimina gruppo di test**.
+   >Per eliminare il gruppo di test, fare clic su **[!UICONTROL Test Group Actions]** e selezionare **[!UICONTROL Delete test group]**.

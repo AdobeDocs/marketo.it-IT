@@ -4,10 +4,10 @@ description: Aggiungere un’immagine a una pagina di destinazione in formato li
 title: Aggiungere un’immagine a una pagina di destinazione in formato libero
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 2%
+source-wordcount: '69'
+ht-degree: 4%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 2%
 >
 >[Aggiungi immagini e file a Marketo](/help/marketo/product-docs/demand-generation/images-and-files/add-images-and-files-to-marketo.md)
 
-1. Seleziona la pagina di destinazione in formato libero e fai clic su **Modifica** **Bozza**.
+1. Selezionare la pagina di destinazione in formato libero e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-1. Nell&#39;editor, trascina sull&#39;elemento **Image**.
+1. Nell&#39;editor, trascinare sull&#39;elemento **[!UICONTROL Image]**.
 
    ![](assets/image2015-5-21-15-3a38-3a58.png)
 
@@ -29,7 +29,7 @@ ht-degree: 2%
 
    ![](assets/image2014-9-16-14-3a35-3a59.png)
 
-1. Fare clic su **Inserisci**.
+1. Fai clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-15-3a3-3a48.png)
 

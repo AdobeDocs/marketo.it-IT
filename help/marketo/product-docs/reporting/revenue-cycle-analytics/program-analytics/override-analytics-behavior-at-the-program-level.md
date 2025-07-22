@@ -4,10 +4,10 @@ description: Sostituire il comportamento di Analytics a livello di programma - D
 title: Sostituire il comportamento di Analytics a livello di programma
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '184'
+ht-degree: 0%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 È possibile impostare il comportamento di [analisi a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma è anche possibile ignorarlo a livello di programma. Ecco come:
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 
@@ -23,11 +23,11 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Nella scheda **Configurazione**, trascina Comportamento di Analytics nell&#39;area di lavoro.
+1. Nella scheda **[!UICONTROL Setup]**, trascina [!UICONTROL Analytics Behavior] nell&#39;area di lavoro.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
-1. Seleziona il comportamento di Analytics desiderato.
+1. Selezionare [!UICONTROL Analytics Behavior] desiderato.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a42-3a0.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

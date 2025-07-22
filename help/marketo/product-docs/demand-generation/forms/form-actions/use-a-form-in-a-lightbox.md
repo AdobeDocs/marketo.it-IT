@@ -4,9 +4,9 @@ description: Utilizzare un modulo in un Lightbox - Documentazione di Marketo - D
 title: Utilizzare un modulo in un Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si desidera visualizzarlo. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-8.png)
 
@@ -23,7 +23,7 @@ Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si de
 
    ![](assets/image2014-9-15-14-3a32-3a15.png)
 
-1. In **Azioni modulo**, fai clic su **Codice di incorporamento**.
+1. In **[!UICONTROL Form Actions]**, fare clic su **[!UICONTROL Embed Code]**.
 
    >[!NOTE]
    >
@@ -31,11 +31,11 @@ Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si de
 
    ![](assets/image2014-9-15-14-3a32-3a24.png)
 
-1. Imposta **Tipo di codice** su **Lightbox**.
+1. Imposta **[!UICONTROL Code Type]** su **[!UICONTROL Lightbox]**.
 
    ![](assets/image2014-9-15-14-3a32-3a31.png)
 
-1. Seleziona/copia il codice e fai clic su **Chiudi**.
+1. Selezionare/copiare il codice e fare clic su **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 

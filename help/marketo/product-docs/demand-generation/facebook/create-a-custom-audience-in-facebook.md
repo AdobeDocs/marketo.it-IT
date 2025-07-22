@@ -4,37 +4,37 @@ description: Creare un pubblico personalizzato in Facebook - Documentazione di M
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
 
-# Creare un pubblico personalizzato in Facebook {#create-a-custom-audience-in-facebook}
+# Crea un pubblico personalizzato in [!DNL Facebook] {#create-a-custom-audience-in-facebook}
 
 >[!PREREQUISITES]
 >
->* [Aggiungi i tipi di pubblico personalizzati di Facebook come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} nella sezione Amministratore.
->* [Accetta i termini di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account Facebook.
+>* [Aggiungi [!DNL Facebook] Tipi di pubblico personalizzati come servizio LaunchPoint](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-facebook-custom-audiences-as-a-launchpoint-service.md){target="_blank"} nella sezione Amministratore.
+>* [Accetta i termini dei tipi di pubblico personalizzati di  [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account [!DNL Facebook].
 
 >[!TIP]
 >
->Ulteriori informazioni su [tipi di pubblico personalizzati in Facebook](https://www.facebook.com/help/341425252616329){target="_blank"}.
+>Ulteriori informazioni su [tipi di pubblico personalizzati in [!DNL Facebook]](https://www.facebook.com/help/341425252616329){target="_blank"}.
 
 1. Trova e seleziona l’elenco smart o statico contenente i lead da cui desideri creare il pubblico.
 
    ![](assets/create-a-custom-audience-in-facebook-1.png)
 
-1. Seleziona la scheda **Lead**, quindi fai clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
+1. Seleziona la scheda **[!UICONTROL Leads]**, quindi fai clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Seleziona **Facebook** e fai clic su **Avanti**.
+1. Selezionare **[!UICONTROL Facebook]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Fai clic sul menu a discesa **Pubblico** e seleziona **+ Nuovo pubblico**.
+1. Fare clic sul menu a discesa **[!UICONTROL Audience]** e selezionare **[!UICONTROL + New Audience]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 
@@ -42,17 +42,17 @@ ht-degree: 0%
    >
    >L’API di Facebook consente fino a 500 tipi di pubblico personalizzati per account pubblicitario di Facebook.
 
-1. Digita un **Nome pubblico**. Fai clic su **Aggiorna**.
+1. Digitare un **[!UICONTROL Audience Name]**. Fai clic su **[!UICONTROL Update]**.
 
    ![](assets/create-a-custom-audience-in-facebook-5.png)
 
    >[!NOTE]
    >
-   >Se disponi di più account Facebook Ad, visualizzerai un elenco a discesa aggiuntivo che ti consente di scegliere in quale account annuncio viene creato il pubblico.
+   >Se disponi di più account annuncio [!DNL Facebook], visualizzerai un elenco a discesa aggiuntivo che consente di scegliere in quale account annuncio viene creato il pubblico.
 
    >[!TIP]
    >
-   >Vuoi scambiare un nuovo pubblico con uno esistente attualmente associato a un set di annunci o a un gruppo? Selezionare la casella di controllo **Sostituisci un pubblico esistente**. In questo modo **non** verrà eliminato il pubblico da sostituire.
+   >Vuoi scambiare un nuovo pubblico con uno esistente attualmente associato a un set di annunci o a un gruppo? Selezionare la casella di controllo **[!UICONTROL Replace an existing audience]**. In questo modo **non** verrà eliminato il pubblico da sostituire.
 
 1. Al termine, la finestra di dialogo di stato viene aggiornata.
 
@@ -64,8 +64,8 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Tutti gli elenchi inviati a Facebook diventano statici. Gli elenchi avanzati in Marketo non aggiorneranno automaticamente l’elenco del pubblico in Facebook in modo da riflettere le modifiche apportate dopo il trasferimento.
+   >Tutti gli elenchi inviati a [!DNL Facebook] diventano statici. Gli elenchi avanzati in Marketo non aggiorneranno automaticamente l&#39;elenco dei tipi di pubblico in [!DNL Facebook] per riflettere eventuali modifiche apportate dopo il trasferimento.
 
    >[!MORELIKETHIS]
    >
-   >[Aggiungi lead a un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)
+   >[Aggiungi lead a un pubblico personalizzato in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/add-leads-to-a-custom-audience-in-facebook.md)

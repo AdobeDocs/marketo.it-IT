@@ -4,9 +4,9 @@ description: Domande frequenti su contenuto e file allegati - Documentazione di 
 title: Domande frequenti su contenuto e file allegato
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 
 Un **file allegato** è simile a un file allegato che useresti nel tuo normale client di posta elettronica.
 
-**Contenuto** è ciò che usiamo per descrivere qualsiasi file (PPT, PDF, Word doc, ecc.) che si desidera essere monitorati da Sales Connect.
+**Contenuto** è ciò che viene utilizzato per descrivere qualsiasi file (PPT, PDF, documento di Word, ecc.) che si desidera venga tracciato da [!DNL Sales Connect].
 
 Dopo aver fatto clic su questo pulsante, puoi scegliere un file già caricato o caricare un nuovo file da tracciare. Quindi inseriamo un collegamento nell’e-mail o nel modello in uso.
 
-Al termine della ricezione, il destinatario fa clic sul collegamento e il contenuto verrà popolato nel browser. Questo consente di tenere traccia di ogni visualizzazione di pagina e di segnalarla all&#39;utente Sales Connect nel feed live.
+Al termine della ricezione, il destinatario fa clic sul collegamento e il contenuto verrà popolato nel browser. Questo consente di tenere traccia di ogni visualizzazione di pagina e di segnalarla all&#39;utente [!DNL Sales Connect] nel feed live.
 
-Le opzioni di file e contenuto sono disponibili in: e-mail una tantum, modelli, campagne, Outlook (sia Windows che Mac), Gmail e OWA.
+Le opzioni di file e contenuto sono disponibili in: e-mail, modelli, campagne, [!DNL Outlook] (sia [!DNL Windows] che Mac), Gmail e OWA.
 
 ## Chi gestisce i contenuti e dove vengono archiviati? {#who-manages-the-content-and-where-is-it-stored}
 
-I contenuti possono essere caricati nel repository di Sales Connect da qualsiasi utente con la possibilità di creare modelli. Gli utenti potranno quindi caricare i contenuti di loro scelta.
+Il contenuto può essere caricato nell&#39;archivio [!DNL Sales Connect] da qualsiasi utente con la possibilità di creare modelli. Gli utenti potranno quindi caricare i contenuti di loro scelta.
 
 ## I team possono creare/organizzare contenuti, playbook, modelli e così via? {#can-content-playbooks-templates-etc-be-created-organized-by-teams}
 

@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 06b2c214-1afb-443f-ae01-0c00fed77dce
 feature: Integrations
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
 >[!IMPORTANT]
 >
->* Questa integrazione funziona solo con le implementazioni on-premise dell’AEM e non è supportata per le implementazioni AEM Cloud Service.
+>* Questa integrazione funziona solo con le implementazioni on-premise di AEM e non è supportata per le implementazioni di AEM Cloud Service.
 >
 >* Attualmente, questa funzione è completamente supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome, a seconda delle impostazioni del cookie SameSite.
 
@@ -35,11 +35,11 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
    ![](assets/two.png)
 
-1. In **[!UICONTROL Strumenti]**, fare clic su **[!UICONTROL Operazioni]** e selezionare **[!UICONTROL Console Web]**.
+1. In **[!UICONTROL Tools]**, fare clic su **[!UICONTROL Operations]** e selezionare **[!UICONTROL Web Console]**.
 
    ![](assets/2a.png)
 
-1. Nel browser, cerca (Ctrl+F su Windows, Comando+F su Mac) per &quot;Adobe di criteri di condivisione risorse tra le origini di Granite&quot;.
+1. Nel browser, cerca (Ctrl+F su Windows, Comando+F su Mac) per &quot;[!UICONTROL Adobe Granite Cross-Origin Resource Sharing Policy]&quot;.
 
    ![](assets/three.png)
 
@@ -47,15 +47,15 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
    ![](assets/four.png)
 
-1. Nella casella di testo **[!UICONTROL Origini consentite (Regexp)]** digitare `https://.*\.marketo\.com` e fare clic su **[!UICONTROL Salva]**.
+1. Nella casella di testo **[!UICONTROL Allowed Origins (Regexp)]** digitare `https://.*\.marketo\.com` e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/five-psd.png)
 
-1. Nell&#39;intestazione nella parte superiore della pagina fare clic su **[!UICONTROL Console Web]** e selezionare **[!UICONTROL Informazioni di sistema]**.
+1. Nell&#39;intestazione nella parte superiore della pagina, fare clic su **[!UICONTROL Web Console]** e selezionare **[!UICONTROL System Information]**.
 
    ![](assets/six.png)
 
-1. In Informazioni server fare clic sul pulsante **[!UICONTROL Riavvia]**.
+1. In Informazioni server fare clic sul pulsante **[!UICONTROL Restart]**.
 
    ![](assets/seven.png)
 
@@ -63,7 +63,7 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
    ![](assets/eight.png)
 
-1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
+1. In Marketo Engage, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/nine.png)
 
@@ -71,10 +71,10 @@ Configura Adobe Experience Manager (AEM) in modo da poter accedere, selezionare 
 
    ![](assets/ten.png)
 
-1. Fai clic su **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/eleven.png)
 
-1. Immetti l&#39;URL dell&#39;AEM e fai clic su **[!UICONTROL OK]**.
+1. Immetti l&#39;URL di AEM e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/twelve.png)

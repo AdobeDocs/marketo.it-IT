@@ -4,32 +4,32 @@ description: Implementazione di RTP su Wordpress - Documentazione di Marketo - D
 title: Implementazione di RTP su Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Implementazione di RTP su Wordpress {#implementing-rtp-on-wordpress}
+# Implementazione di RTP su [!DNL Wordpress] {#implementing-rtp-on-wordpress}
 
-Per implementare il tag RTP, seguire le istruzioni di installazione riportate di seguito:
+Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione riportate di seguito:
 
-1. Apri il file **header.php** del tema **WordPress**.
+1. Apri il file **header.php** del tema **[!DNL WordPress]**.
 
-   Potete utilizzare un client FTP per accedere al server o modificare i file dei temi direttamente dal dashboard di WordPress. L&#39;editor di file si trova nella scheda **Aspetto** nel menu della barra laterale.
+   È possibile utilizzare un client FTP per accedere al server o modificare i file dei temi direttamente dal dashboard [!DNL WordPress]. L&#39;editor di file si trova nella scheda **[!UICONTROL Appearance]** nel menu della barra laterale.
 
    ![](assets/image2014-11-30-15-3a35-3a30.png)
 
 1. Nell&#39;elenco dei file modello a destra dell&#39;editor di testo, trovare **header.php** e aprirlo.
 
-1. Vai a **Impostazioni account**.
+1. Vai a **[!UICONTROL Account Settings]**.
 
    a. Se hai già ricevuto il tag JavaScript dal Supporto tecnico - continua con il passaggio 5.
 
    ![](assets/image2014-11-30-15-3a19-3a21-1.png)
 
-1. In Dominio individuare il dominio pertinente e fare clic su **Genera tag**.
+1. In [!UICONTROL Domain], individuare il dominio pertinente e fare clic su **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-1.png)
 
@@ -39,8 +39,8 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
    ![](assets/image2014-11-30-15-3a36-3a31.png)
 
-1. Fare clic su **Aggiorna file** per il file header.php.
+1. Fare clic su **[!UICONTROL Update File]** per il file header.php.
 
 1. Verifica che venga visualizzato in tutte le pagine, incluse le pagine di destinazione e i sottodomini.
 
-   a. Per farlo, fai clic con il pulsante destro del mouse sulla pagina del sito web. Vai a **Visualizza Source pagine.** Cerca **RTP** per individuare il tag.
+   a. Per farlo, fai clic con il pulsante destro del mouse sulla pagina del sito web. Vai a **[!UICONTROL View Page Source].** Cerca **RTP** per individuare il tag.

@@ -4,9 +4,9 @@ description: Creazione di un nuovo elenco account - Documentazione di Marketo - 
 title: Crea un nuovo elenco account
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -21,15 +21,15 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 
 ## Crea un nuovo elenco account {#create-a-new-account-list-1}
 
-1. Vai a **Elenchi account**.
+1. Vai a **[!UICONTROL Account Lists]**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
-1. Selezionare **Crea nuovo**.
+1. Seleziona **[!UICONTROL Create New]**.
 
    ![](assets/create-new-account-list-hand.jpg)
 
-1. Seleziona **Sfoglia** e carica il file CSV (assicurati che il file CSV soddisfi i criteri). Aggiungi un **Nome** e una **Descrizione**. Fai clic su **Salva**.
+1. Seleziona **[!UICONTROL Browse]** e carica il tuo file CSV (assicurati che il file CSV soddisfi i criteri). Aggiungi **[!UICONTROL List Name]** e **[!UICONTROL Description]**. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/create-account-list-hands.jpg)
 
@@ -68,7 +68,7 @@ Nella pagina **Elenchi account**, fare clic sull&#39;icona **Modifica** nell&#39
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Seleziona **Sfoglia** e carica il nuovo file CSV. Questo file sostituirà il file originale. Fai clic su **Salva**. Il nuovo file caricato rimarrà in sospeso fino all&#39;approvazione da parte del supporto tecnico Marketo, mentre il file originale rimarrà attivo in sospeso.
+Seleziona **[!UICONTROL Browse...]** e carica il tuo nuovo file CSV. Questo file sostituirà il file originale. Fare clic su **[!UICONTROL Save]**. Il nuovo file caricato rimarrà in sospeso fino all&#39;approvazione da parte del supporto tecnico Marketo, mentre il file originale rimarrà attivo in sospeso.
 
 ![](assets/set-account-list-edit-hands.jpg)
 
@@ -76,11 +76,11 @@ Il file CSV sostituirà il file esistente. L&#39;elenco esistente rimarrà attiv
 
 ## Eliminare un elenco di account denominati {#delete-a-named-account-list}
 
-1. Nella pagina **Elenchi account** fare clic sull&#39;icona Elimina dell&#39;elenco che si desidera eliminare.
+1. Nella pagina **[!UICONTROL Account Lists]** fare clic sull&#39;icona Elimina dell&#39;elenco che si desidera eliminare.
 
    ![](assets/create-new-account-list-delete.jpg)
 
-1. Viene visualizzato un messaggio per confermare se si desidera eliminare l&#39;elenco. Fare clic su **OK**.
+1. Viene visualizzato un messaggio per confermare se si desidera eliminare l&#39;elenco. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/delete-notification-hand.jpg)
 

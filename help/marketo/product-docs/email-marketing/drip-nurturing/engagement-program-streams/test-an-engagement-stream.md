@@ -4,9 +4,9 @@ description: Test di un flusso di coinvolgimento - Documentazione di Marketo - D
 title: Testare un flusso di coinvolgimento
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla volta.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    ![](assets/two.png)
 
-1. Fai clic su **Azioni programma** e seleziona **Test flusso**.
+1. Fare clic su **[!UICONTROL Program Actions]** e selezionare **[!UICONTROL Test Stream]**.
 
    ![](assets/three.png)
 
-1. Seleziona la tua persona dal menu a discesa **Persona di prova**. Ricordate, il contenuto verrà effettivamente distribuito, quindi tenetelo presente quando scegliete.
+1. Selezionare la persona desiderata dal menu a discesa **[!UICONTROL Test Person]**. Ricordate, il contenuto verrà effettivamente distribuito, quindi tenetelo presente quando scegliete.
 
    ![](assets/four-rubix.png)
 
@@ -37,9 +37,9 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    >[!TIP]
    >
-   >Se la persona di prova che stai cercando non esiste, utilizza l&#39;opzione **Crea persona** per crearne una al volo.
+   >Se la persona di prova che stai cercando non esiste, utilizza l&#39;opzione **[!UICONTROL Create Person]** per crearne una al volo.
 
-   Fare clic su Flusso iniziale, selezionare il flusso da testare e fare clic su Esegui cast.
+   Fare clic su **[!UICONTROL Initial Stream]**, selezionare il flusso che si desidera verificare e fare clic su **[!UICONTROL Run Cast]**.
    ![](assets/five-rubiks.png)
 
 1. Dopo aver eseguito le [regole di transizione](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/transition-people-between-engagement-streams.md) precedentemente impostate, fare clic sull&#39;icona Aggiorna.
@@ -54,4 +54,4 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    >[!NOTE]
    >
-   >Nessun altro contenuto verrà inviato a meno che non si faccia clic su **Esegui nuovamente cast**.
+   >Nessun altro contenuto verrà inviato a meno che non si faccia clic su **[!UICONTROL Run Cast again]**.

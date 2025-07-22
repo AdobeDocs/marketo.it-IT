@@ -4,9 +4,9 @@ description: Creazione di un programma di coinvolgimento - Documentazione di Mar
 title: Creare un programma di coinvolgimento
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puoi utilizzare i programmi di coinvolgimento in Marketo per sviluppare e-mail con facilità.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona la cartella in cui desideri creare il programma di coinvolgimento, quindi fai clic su **Nuovo** e **Nuovo programma**.
+1. Selezionare la cartella in cui si desidera creare il programma di coinvolgimento, quindi fare clic su **[!UICONTROL New]** e **[!UICONTROL New Program]**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Immetti un **Nome**, seleziona **Coinvolgimento** per **Tipo di programma** e fai clic su **Crea**.
+1. Immettere un **[!UICONTROL Name]**, selezionare **[!UICONTROL Engagement]** per **[!UICONTROL Program Type]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 

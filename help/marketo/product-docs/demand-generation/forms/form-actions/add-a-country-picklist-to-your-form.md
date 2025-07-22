@@ -4,10 +4,10 @@ description: Aggiungere al modulo una lista di selezione per paese - Documentazi
 title: Aggiungere una lista di selezione del paese al modulo
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 1%
+source-wordcount: '171'
+ht-degree: 2%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con un elenco di tutti i paesi.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-9.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
@@ -27,19 +27,19 @@ Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con
 
    ![](assets/image2014-9-15-15-3a33-3a7.png)
 
-1. Trova e seleziona **Paese**.
+1. Trova e seleziona **[!UICONTROL Country]**.
 
    ![](assets/image2014-9-15-15-3a33-3a15.png)
 
-1. Con il campo **Paese** selezionato, cambia il **Tipo di campo** in **Seleziona**.
+1. Con il campo **[!UICONTROL Country]** selezionato, cambia **[!UICONTROL Field Type]** in **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-15-3a33-3a21.png)
 
-1. **Modifica** i **Valori** per aggiungere l&#39;elenco dei paesi tra cui gli utenti possono scegliere.
+1. **[!UICONTROL Edit]** **[!UICONTROL Values]** per aggiungere l&#39;elenco di paesi tra cui gli utenti possono scegliere.
 
    ![](assets/image2014-9-15-15-3a33-3a40.png)
 
-1. Fare clic su **Avanzate** **Editor**.
+1. Fai clic su **[!UICONTROL Advanced Editor]**.
 
    ![](assets/image2014-9-15-15-3a34-3a1.png)
 
@@ -57,15 +57,15 @@ Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con
    >
    >Puoi modificare l’elenco o utilizzarne un altro.
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a35-3a3.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-15-3a35-3a20.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 

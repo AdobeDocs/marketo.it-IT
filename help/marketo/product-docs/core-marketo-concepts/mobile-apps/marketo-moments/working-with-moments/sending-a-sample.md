@@ -4,10 +4,10 @@ description: Invio di un esempio - Documentazione di Marketo - Documentazione de
 title: Invio di un campione
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 0%
+source-wordcount: '125'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Il modo regolare {#the-regular-way}
 
@@ -25,16 +25,16 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocca **[!UICONTROL Invia campione]**.
+1. Toccare **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Immetti un indirizzo e-mail e fai clic su **[!UICONTROL Invia campione]**.
+1. Immettere un indirizzo di posta elettronica e fare clic su **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
 ## Il modo rapido {#the-quick-way}
 
-1. Per inviare un campione direttamente dall’anteprima, tocca l’icona dell’aeroplano di carta nella schermata Anteprima e-mail.
+1. Toccare l&#39;icona dell&#39;aeroplano di carta nella schermata [!UICONTROL Email Preview] per inviare un campione direttamente dall&#39;anteprima.
 
    ![](assets/image2015-9-25-10-3a28-3a47.png)

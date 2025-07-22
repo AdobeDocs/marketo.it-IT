@@ -4,9 +4,9 @@ description: Creazione di un analizzatore di percorsi di successo - Documentazio
 title: Creare un analizzatore del percorso di successo
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -19,35 +19,35 @@ Ottieni una rappresentazione visiva della velocità e del flusso attraverso il m
 >
 >[Crea un nuovo modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md)
 
-1. Fai clic sul riquadro **Analytics**.
+1. Fare clic sul riquadro **[!UICONTROL Analytics]**.
 
    ![](assets/one.png)
 
-1. Fai clic sull&#39;icona **Analisi del percorso di successo**.
+1. Fare clic sull&#39;icona **[!UICONTROL Success Path Analyzer]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Se ricevi un avviso che informa che non sono stati trovati dati nell&#39;intervallo di tempo specificato, fai clic su **Chiudi** per modificare l&#39;intervallo di tempo. Se non ti viene richiesto, ma desideri modificare l&#39;intervallo di tempo, passa a **Configurazione** e fai doppio clic su **Intervallo di tempo**.
+   >Se ricevi un avviso che informa che non sono stati trovati dati nell&#39;intervallo di tempo specificato, fai clic su **[!UICONTROL Close]** per modificare l&#39;intervallo di tempo. Se non viene richiesto, ma si desidera modificare l&#39;intervallo di tempo, passare a **[!UICONTROL Setup]** e fare doppio clic su **[!UICONTROL Time Frame]**.
 
-1. Se non disponevi di dati o stai modificando l’intervallo di tempo, selezionane uno dall’elenco a discesa e fai clic su Salva.
+1. Se non si dispone di dati o si sta modificando l&#39;intervallo di tempo, selezionarne uno dall&#39;elenco a discesa e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/timeframe.png)
 
    >[!TIP]
    >
-   >Per selezionare un intervallo specifico, selezionare **Personalizzato** e utilizzare i campi **Da** e **A**.
+   >Per selezionare un intervallo specifico, selezionare **[!UICONTROL Custom]** e utilizzare i campi **[!UICONTROL From]** e **[!UICONTROL To]**.
 
-1. Se si dispone di più modelli del ciclo dei ricavi, selezionare quello desiderato nella scheda **Configurazione**.
+1. Se si dispone di più modelli del ciclo dei ricavi, selezionare quello desiderato dalla scheda **[!UICONTROL Setup]**.
 
    ![](assets/four.png)
 
-1. Selezionare il modello appropriato e fare clic su **Applica**.
+1. Selezionare il modello appropriato e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/five.png)
 
-1. Fare clic sulla scheda **Analisi del percorso di successo**.
+1. Fare clic sulla scheda **[!UICONTROL Success Path Analyzer]**.
 
    ![](assets/success-tab.png)
 
@@ -55,7 +55,7 @@ Ora puoi esplorare il movimento da ogni fase a quella successiva!
 
 >[!TIP]
 >
->Vuoi salvare il tuo rapporto? Fai clic sul menu a discesa **Azioni di Analyzer** e seleziona **Salva con nome**.
+>Vuoi salvare il tuo rapporto? Fare clic sul menu a discesa **[!UICONTROL Analyzer Actions]** e selezionare **[!UICONTROL Save As]**.
 
 >[!MORELIKETHIS]
 >

@@ -4,10 +4,10 @@ description: Salvare la campagna come modello - Documentazione Marketo - Documen
 title: Salvare la campagna come modello
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hai mai trascorso del tempo a creare la campagna web perfetta? Ora è possibile salvarlo come modello per riutilizzarlo facilmente in futuro.
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 
@@ -27,10 +27,10 @@ Hai mai trascorso del tempo a creare la campagna web perfetta? Ora è possibile 
 
    ![](assets/my-campaign-edit.jpg)
 
-1. Selezionare Usa come modello e fare clic su **Salva**.
+1. Selezionare **[!UICONTROL Use as template]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-2-25-19-3a56-3a58.png)   ![](assets/image2015-2-25-19-3a56-3a37.png)
 
-1. Tutto qui! La prossima volta che crei una campagna e selezioni un modello, seleziona Modelli personali nella pagina Imposta campagne per visualizzare i modelli salvati.
+1. Tutto qui. La prossima volta che crei una campagna e selezioni un modello, seleziona [!UICONTROL My Templates] nella pagina Imposta campagne per visualizzare i modelli salvati.
 
    ![](assets/image2014-9-17-20-3a55-3a31.png)

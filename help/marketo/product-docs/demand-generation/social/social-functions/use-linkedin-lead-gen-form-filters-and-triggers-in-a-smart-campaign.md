@@ -4,9 +4,9 @@ description: Utilizzare i filtri e i trigger di modulo LinkedIn Lead Gen in una 
 title: Utilizzare i filtri e i trigger di modulo LinkedIn Lead Gen in una campagna avanzata
 exl-id: 386c25e7-b0fb-4271-bd39-98e36306de6b
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Dopo aver abilitato LinkedIn Lead Gen Forms, puoi utilizzarli come filtri e atti
 >
 >Quando le persone inviano le proprie informazioni in un modulo LinkedIn Lead Gen, queste vengono inviate immediatamente a Marketo, rendendo il modulo disponibile nel menu a discesa Lead Gen Form Name. I nomi dei moduli non saranno visibili fino a quando almeno una persona non avrà inviato il modulo.
 
-1. Utilizza il trigger **Riempi modulo generazione lead LinkedIn** per intervenire immediatamente oppure il filtro **Modulo generazione lead LinkedIn compilato** per le campagne batch pianificate o il filtro degli elenchi smart standard.
+1. Utilizza il trigger **[!UICONTROL Fills Out LinkedIn Lead Gen Form]** per intervenire immediatamente o il filtro **[!UICONTROL Filled Out LinkedIn Lead Gen Form]** per le campagne batch pianificate o il filtro elenchi smart standard.
 
    ![](assets/use-linkedin-lead-gen-form-filters-and-triggers-1.png)
 

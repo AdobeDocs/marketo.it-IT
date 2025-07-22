@@ -3,9 +3,9 @@ description: Chiamate internazionali - Documentazione Marketo - Documentazione d
 title: Chiamate internazionali
 exl-id: a6ef6f28-865b-42e7-94e5-32874eb9ecb4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '392'
 ht-degree: 5%
 
 ---
@@ -143,7 +143,7 @@ Sales Dialer facilita la comunicazione internazionale. Per i clienti che chiaman
 
 ## Domande frequenti sulle chiamate internazionali {#international-calling-faq}
 
-**Perché le azioni Sales Insight non supportano le chiamate internazionali per tutti i paesi?**
+**Perché [!DNL Sales Insight Actions] non supporta le chiamate internazionali per tutti i paesi?**
 
 Oggi offriamo chiamate internazionali con Sales Dialer senza costi aggiuntivi. Vogliamo semplificarvi la comunicazione con i vostri potenziali clienti e clienti, per questo abbiamo lanciato il supporto per le chiamate internazionali a tariffa standard. Forniamo copertura a 34 paesi al di fuori degli Stati Uniti e del Canada per regioni in Europa, Asia e altre destinazioni chiave. Continueremo ad espanderci in base al feedback ricevuto dai clienti.
 
@@ -153,7 +153,7 @@ Di seguito è riportato l&#39;elenco dei paesi per i quali attualmente non suppo
 
 **Esistono tipi specifici di numeri che non è possibile chiamare con la Connessione vendite?**
 
-Sì. Non sono supportate le chiamate ai numeri di telefono dei servizi a tariffa maggiorata (ad esempio i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non è supportata la chiamata di numeri telefonici a costo condiviso e di un numero limitato di altre rotte premium.
+Sì.  Non sono supportate le chiamate ai numeri di telefono dei servizi a tariffa maggiorata (ad esempio i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non è supportata la chiamata di numeri telefonici a costo condiviso e di un numero limitato di altre rotte premium.
 
 **Posso usare la presenza locale quando richiamo internazionale?**
 

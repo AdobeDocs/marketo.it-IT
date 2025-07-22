@@ -4,9 +4,9 @@ description: Distribuire il JavaScript RTP - Documentazione Marketo - Documentaz
 title: Distribuire il JavaScript RTP
 exl-id: ef96a7f4-3942-4325-bb0f-7647ff2b33b6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 0%
 
 Per generare e configurare il tag RTP, seguire le istruzioni di installazione riportate di seguito
 
-## Genera tag {#generate-tag}
+## [!UICONTROL Generate Tag] {#generate-tag}
 
-1. Accedi al tuo account RTP. Vai a **Impostazioni account**.
+1. Accedi al tuo account RTP. Vai a **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 
-1. In **Dominio** e **Configurazione dominio**, individuare il dominio pertinente e fare clic su **Genera tag**.
+1. In **[!UICONTROL Domain]** e **[!UICONTROL Domain Configuration]**, individuare il dominio pertinente e fare clic su **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2014-12-1-23-3a5-3a35.png)
 
@@ -35,9 +35,9 @@ Per generare e configurare il tag RTP, seguire le istruzioni di installazione ri
 
    Assicurati che il tag venga visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini. Per verificarlo, fai clic con il pulsante destro del mouse sulla pagina del tuo sito web. Vai a Visualizza Source pagina in un browser web. Ricerca: &quot;RTP&quot;.
 
-1. Tag impostato su **ON**.
+1. [!UICONTROL Tag] impostato su **[!UICONTROL ON]**.
 
-   Verificare che l&#39;opzione Tag sia impostata su ON. Dovresti iniziare a visualizzare il flusso di dati nella scheda dell’organizzazione.
+   Verificare che l&#39;interruttore [!UICONTROL Tag] sia impostato su [!UICONTROL ON]. Dovresti iniziare a visualizzare il flusso di dati nella scheda dell’organizzazione.
 
    Ora hai impostato con il tag RTP e sei pronto per iniziare a [creare segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) e campagne in tempo reale.
 

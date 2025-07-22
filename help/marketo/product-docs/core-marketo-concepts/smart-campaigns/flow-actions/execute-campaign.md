@@ -3,9 +3,9 @@ description: Eseguire una campagna - Documentazione di Marketo - Documentazione 
 title: Esegui campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '706'
+source-wordcount: '692'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ Esegui campagna è un miglioramento rispetto a [Richiedi campagna](/help/marketo
 
 ## Come creare una campagna eseguibile {#how-to-create-an-executable-campaign}
 
-1. Fai clic con il pulsante destro del mouse sul programma desiderato e seleziona **[!UICONTROL Nuova campagna avanzata]**.
+1. Fare clic con il pulsante destro del mouse sul programma desiderato e selezionare **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/execute-campaign-1.png)
 
-1. Assegnare un nome, selezionare la casella di controllo **[!UICONTROL Eseguibile]** e fare clic su **[!UICONTROL Crea]**.
+1. Assegnare un nome, selezionare la casella di controllo **[!UICONTROL Executable]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/execute-campaign-2.png)
 
 1. Definisci l’elenco avanzato e il flusso, come per qualsiasi altra campagna avanzata.
 
-Puoi anche clonare una campagna avanzata esistente. Se si clona una campagna eseguibile esistente, sarà comunque necessario selezionare la casella di controllo **[!UICONTROL Eseguibile]** dopo averla denominata.
+Puoi anche clonare una campagna avanzata esistente. Se si clona una campagna eseguibile esistente, sarà comunque necessario selezionare la casella di controllo **[!UICONTROL Executable]** dopo averla denominata.
 
 >[!NOTE]
 >
@@ -60,7 +60,7 @@ Se è impostato su true, i seguenti contesti di token vengono inviati nella camp
 
 **Interazione API**
 
-Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
+Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 
@@ -77,7 +77,7 @@ Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienc
 
 ## Esempio di ereditarietà del token {#token-inheritance-example}
 
-Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: una con contesto token impostato su **[!UICONTROL True]**, l&#39;altra su **[!UICONTROL False]**.
+Di seguito è riportato un esempio visivo di Ereditarietà token in una campagna eseguibile e due campagne principali: una con il contesto del token impostato su **[!UICONTROL True]** e l&#39;altra su **[!UICONTROL False]**.
 
 Campagna figlio con un punteggio di modifica tokenizzato.
 
@@ -89,7 +89,7 @@ La campagna per bambini è My Tokens (I miei token).
 
 ### Esempio 1 - True {#example-one-true}
 
-Nel passaggio del flusso Esegui campagna della prima campagna principale, &quot;Usa contesto token campagna principale&quot; è impostato su **True**.
+Nel passaggio di flusso Esegui campagna della prima campagna principale, &quot;[!UICONTROL Use Parent Campaign Token Context]&quot; è impostato su **[!UICONTROL True]**.
 
 ![](assets/execute-campaign-5.png)
 

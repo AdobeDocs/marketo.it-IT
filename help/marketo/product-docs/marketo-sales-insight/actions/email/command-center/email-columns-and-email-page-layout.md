@@ -3,10 +3,10 @@ description: Colonne e-mail e layout della pagina e-mail - Documenti Marketo - D
 title: Colonne e-mail e layout della pagina e-mail
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 2%
+source-wordcount: '468'
+ht-degree: 0%
 
 ---
 
@@ -27,87 +27,87 @@ ht-degree: 2%
    <th>Descrizione</th> 
   </tr> 
   <tr> 
-   <td><strong>Persona</td> 
-   <td>Nome e indirizzo e-mail della persona in Sales Connect. Facendo clic su questo campo si aprirà la scheda Informazioni nella visualizzazione Dettagli persona.</td> 
+   <td><strong>[!UICONTROL Person]</td> 
+   <td>Nome e indirizzo di posta elettronica della persona in [!UICONTROL Sales Connect]. Facendo clic su questo campo si aprirà la scheda Informazioni nella visualizzazione Dettagli persona.</td> 
   </tr> 
   <tr> 
-   <td><strong>Nome</td> 
-   <td>Nome della persona in Sales Connect.</td> 
+   <td><strong>[!UICONTROL Name]</td> 
+   <td>Nome della persona in [!UICONTROL Sales Connect].</td> 
   </tr> 
   <tr> 
-   <td><strong>Indirizzo</td> 
-   <td>Indirizzo e-mail principale della persona in Sales Connect.</td> 
+   <td><strong>[!UICONTROL Address]</td> 
+   <td>Indirizzo e-mail principale della persona in [!UICONTROL Sales Connect].</td> 
   </tr> 
   <tr> 
-   <td><strong>Campaign</td> 
+   <td><strong>[!UICONTROL Campaign]</td> 
    <td>Se l’e-mail è stata inviata come parte di una campagna, verrà visualizzato il nome della campagna. Facendo clic su questo campo si aprirà la pagina di configurazione della campagna.</td> 
   </tr> 
   <tr> 
-   <td><strong>Modello</td> 
+   <td><strong>[!UICONTROL Template]</td> 
    <td>Mostra il nome del modello (se l’e-mail è stata inviata con uno).</td> 
   </tr> 
   <tr> 
-   <td><strong>Oggetto</td> 
+   <td><strong>[!UICONTROL Subject]</td> 
    <td>Oggetto dell’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Gruppi</td> 
+   <td><strong>[!UICONTROL Groups]</td> 
    <td>Mostra i gruppi a cui appartiene il destinatario e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Qualifica</td> 
+   <td><strong>[!UICONTROL Job Title]</td> 
    <td>Titolo del destinatario e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Azienda</td> 
+   <td><strong>[!UICONTROL Company]</td> 
    <td>Società del destinatario dell’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Stato e-mail</td> 
+   <td><strong>[!UICONTROL Email Status]</td> 
    <td>Stato in cui si trova l’e-mail. Gli stati includono: Bozza, Pianificato, In corso, Spam, Rifiutato, Non riuscito, Inviato. Le e-mail inviate mostreranno un flusso di attività che mostra il numero di visualizzazioni, clic e risposte effettuate su quell’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Data di creazione</td> 
+   <td><strong>[!UICONTROL Date Created]</td> 
    <td>Data di creazione dell’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Ultimo aggiornamento</td> 
+   <td><strong>[!UICONTROL Last Updated]</td> 
    <td>Data dell’ultimo aggiornamento dell’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Canale di consegna</td> 
+   <td><strong>[!UICONTROL Delivery Channel]</td> 
    <td>Il nome del canale di consegna utilizzato per inviare l’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Ultima attività</td> 
+   <td><strong>[!UICONTROL Latest Activity]</td> 
    <td>L’ultimo impegno del destinatario dell’e-mail (ad esempio, visualizza, fai clic o rispondi).</td> 
   </tr> 
   <tr> 
-   <td><strong>Data di invio</td> 
+   <td><strong>[!UICONTROL Date Sent]</td> 
    <td>La data in cui l’e-mail è stata inviata.</td> 
   </tr> 
   <tr> 
-   <td><strong>Azioni di follow up</td> 
+   <td><strong>[!UICONTROL Follow Up Actions]</td> 
    <td>Pulsanti di azione rapida che possono essere utilizzati per il completamento tramite e-mail, telefono, inMail o attività.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-mail gruppo</td> 
+   <td><strong>[!UICONTROL Group Email]</td> 
    <td>Visualizza un segno di spunta se l’e-mail è stata inviata come parte di un’e-mail di gruppo.</td> 
   </tr> 
   <tr> 
-   <td><strong>Data scadenza attività</td> 
+   <td><strong>[!UICONTROL Task Due Date]</td> 
    <td>Mostra la scadenza delle attività correlate all’e-mail. Le attività possono essere correlate a un’e-mail creando dai pulsanti di azione rapida nell’elenco e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Azione e-mail</td> 
+   <td><strong>[!UICONTROL Email Action]</td> 
    <td>Pulsanti di azione rapida che possono essere utilizzati per intervenire sull’e-mail. A seconda dello stato dell’e-mail, possono essere disponibili le seguenti azioni: Archivia, Riuscito, Elimina, Riprova a inviare, Annulla archiviazione.</td> 
   </tr> 
   <tr> 
-   <td><strong>Tipo di attività</td> 
+   <td><strong>[!UICONTROL Task Type]</td> 
    <td>Mostra il tipo di attività di un'attività correlata all'e-mail. Le attività possono essere correlate a un’e-mail creando dai pulsanti di azione rapida nell’elenco e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Data non riuscita</td> 
+   <td><strong>[!UICONTROL Date Failed]</td> 
    <td>Mostra la data in cui l’e-mail non è riuscita se non è stata consegnata.</td> 
   </tr> 
  </tbody> 
@@ -117,11 +117,11 @@ ht-degree: 2%
 
 Per configurare il layout, segui la procedura riportata di seguito.
 
-1. Nell&#39;applicazione Web fare clic su **Centro comandi**.
+1. Nell&#39;applicazione Web fare clic su **[!UICONTROL Command Center]**.
 
    ![](assets/email-columns-and-email-page-layout-1.png)
 
-1. Seleziona la sezione **E-mail**.
+1. Selezionare la sezione **[!UICONTROL Emails]**.
 
    ![](assets/email-columns-and-email-page-layout-2.png)
 

@@ -5,41 +5,41 @@ hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Registrazione delle risposte {#reply-logging}
 
-Sales Insight Actions ti offre la possibilità di registrare automaticamente le risposte dei tuoi potenziali clienti a Salesforce. La struttura che ti consente di farlo si basa sul tracciamento delle risposte e-mail. Se possiamo tenere traccia della risposta di un potenziale cliente, possiamo registrare tale risposta a Salesforce.
+Sales Insight Actions consente di registrare automaticamente le risposte dei potenziali clienti in [!DNL Salesforce]. La struttura che ti consente di farlo si basa sul tracciamento delle risposte e-mail. Se possiamo tenere traccia della risposta di un potenziale cliente, possiamo registrare tale risposta in [!DNL Salesforce].
 
 ## Requisiti {#requirements}
 
 * Deve registrare le e-mail tramite registrazione API
 * Deve essere in grado di [tenere traccia di una risposta](/help/marketo/product-docs/marketo-sales-insight/actions/send-a-sales-email/email-tracking-overview.md#how-reply-tracking-works)
-* Deve essere collegato a Salesforce
-* Deve avere [chiamate API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) Salesforce disponibili
+* Deve essere connesso con [!DNL Salesforce]
+* Deve avere [!DNL Salesforce] [chiamate API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_api.htm) disponibili
 
 ## Abilita registrazione risposte {#enable-reply-logging}
 
-1. Per abilitare la registrazione delle risposte puoi passare alla pagina delle impostazioni Salesforce. Una volta disattivata la registrazione API, verrà visualizzata l&#39;opzione per controllare _Registra risposte_.
+1. Per abilitare la registrazione delle risposte, passare alla pagina delle impostazioni di [!DNL Salesforce]. Una volta disattivata la registrazione API, verrà visualizzata l&#39;opzione per controllare _Registra risposte_.
 
    >[!NOTE]
    >
    >La registrazione delle risposte segue le stesse regole in vigore per le e-mail di registrazione inviate. Ciò include il modo in cui vengono registrate le e-mail; a lead e contatti; quando esiste un record duplicato; se non vengono trovati record corrispondenti.
 
-## Impostazione del tipo di risposta in Salesforce {#setting-type-to-reply-in-salesforce}
+## Impostazione del tipo di risposta in [!DNL Salesforce] {#setting-type-to-reply-in-salesforce}
 
-È importante ottenere dati significativi dai rapporti Salesforce. La possibilità di compilare il campo Tipo come &quot;Risposta&quot; consente di ottenere tali dati tramite i rapporti. Collabora con `Salesforce admin` per completare la configurazione.
+Ottenere dati significativi dai report [!DNL Salesforce] è importante. La possibilità di compilare il campo Tipo come &quot;Risposta&quot; consente di ottenere tali dati tramite i rapporti. Collabora con `[!DNL Salesforce] admin` per completare la configurazione.
 
-1. Vai a **Configurazione** > **Personalizza** > **Attività** > **Campi attività**.
-1. Fare clic su **Tipo**.
-1. In Valori elenco a discesa Tipo di attività fare clic su **Nuovo**.
-1. Digita &quot;Reply&quot; (&quot;Risposta&quot;) nella casella vuota. Assicurati di scrivere la lettera &quot;R&quot; maiuscola e fai clic su **Salva**.
+1. Vai a **[!UICONTROL Setup]** > **[!UICONTROL Customize]** > **[!UICONTROL Activities]** > **[!UICONTROL Task Fields]**.
+1. Fai clic su **[!UICONTROL Type]**.
+1. In [!UICONTROL Task Type Picklist Values], fare clic su **[!UICONTROL New]**.
+1. Digita &quot;Reply&quot; (&quot;Risposta&quot;) nella casella vuota. Assicurarsi di immettere la lettera &#39;R&#39; maiuscola e fare clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >Non è necessario selezionare un valore predefinito nell&#39;elenco a discesa Tipo. Le azioni di approfondimento sulle vendite vedranno che questo tipo di attività è disponibile nell’istanza Salesforce e compileranno di conseguenza il campo delle attività sulle attività in arrivo.
+   >Non è necessario selezionare un valore predefinito nell&#39;elenco a discesa Tipo. [!DNL Sales Insight Actions] vedrà che questo tipo di attività è disponibile nella tua istanza di [!DNL Salesforce] e compilerà di conseguenza il campo dell&#39;attività sulle attività in arrivo.

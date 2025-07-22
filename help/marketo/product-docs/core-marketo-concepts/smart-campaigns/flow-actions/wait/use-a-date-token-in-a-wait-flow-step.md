@@ -4,9 +4,9 @@ description: Utilizzare un token di data in un passaggio del flusso di attesa - 
 title: Utilizzare un token di data in un passaggio del flusso di attesa
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percor
 >
 >Questo si applica solo alle campagne Trigger. Non è possibile utilizzare questa funzione nelle campagne batch.
 
-1. Nella scheda **[!UICONTROL Flusso]** della campagna avanzata, trascina il passaggio del flusso **[!UICONTROL Attendi]**.
+1. Nella scheda **[!UICONTROL Flow]** di Smart Campaign, trascina sul passaggio di flusso **[!UICONTROL Wait]**.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-1.png)
 
@@ -27,11 +27,11 @@ Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percor
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-2.png)
 
-1. Dal menu a discesa **[!UICONTROL Tipo]**, seleziona **[!UICONTROL Token data]**.
+1. Dall&#39;elenco a discesa **[!UICONTROL Type]**, selezionare **[!UICONTROL Date Token]**.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-3.png)
 
-1. Scegli un token di data per specificare quando deve terminare il passaggio Attendi:
+1. Scegli un [!UICONTROL Date token] per specificare quando deve terminare il passaggio Attendi:
 
    * `{{my._____}}`
    * `{{lead.______}}`
@@ -56,7 +56,7 @@ Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percor
    >
    >È inoltre possibile specificare il numero di giorni utilizzando un token `{{lead.` o `{{company.` che rappresenta un campo intero o un token `{{my.` di tipo numero.
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/use-a-date-token-in-a-wait-flow-step-7.png)
 

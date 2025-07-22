@@ -4,9 +4,9 @@ description: Rendere disponibile un programma senza costo di periodo in Revenue 
 title: Rendere disponibile un programma senza costo periodo in Gestione ricavi e analizzatori
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Alcuni programmi possono dover essere inclusi anche se non hanno un costo di per
 >
 >L’analizzatore di programmi classifica il successo del programma in base al costo del periodo. Se non è disponibile alcun costo di periodo, il completamento del programma non verrà visualizzato, indipendentemente dal comportamento di analisi del programma. Se il comportamento di analisi è configurato, i dati verranno visualizzati per le metriche delle opportunità (opportunità pipeline, ricavi ottenuti, ecc.).
 
-1. Nella sezione Amministratore fare clic su **Tag**.
+1. Nella sezione [!UICONTROL Admin] fare clic su **[!UICONTROL Tags]**.
 
    ![](assets/image2014-9-17-12-3a35-3a32.png)
 
@@ -37,7 +37,7 @@ Alcuni programmi possono dover essere inclusi anche se non hanno un costo di per
 
    ![](assets/image2014-9-17-12-3a36-3a7.png)
 
-1. Modifica il comportamento di Analytics in Inclusivo e fai clic su **Salva**.
+1. Cambia [!UICONTROL Analytics Behavior] in **Inclusive** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-12-3a36-3a13.png)
 

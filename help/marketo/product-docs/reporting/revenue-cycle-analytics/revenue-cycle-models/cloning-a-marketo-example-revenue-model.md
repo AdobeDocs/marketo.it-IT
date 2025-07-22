@@ -4,9 +4,9 @@ description: Duplicazione di un esempio di modello di ricavo di Marketo - Docume
 title: Clonazione di un modello di ricavi di esempio di Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Marketo dispone di esempi di modellatori di ricavi per aiutarti a ispirarti. Clonate questi modellatori e rendeteli personalizzati. Ecco come:
 
-1. Vai all&#39;area **Analytics**.
+1. Passare all&#39;area **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 
-1. Selezionare la cartella **Modeler** del ciclo delle entrate e fare clic su **Esempi Marketo**.
+1. Selezionare la cartella **[!UICONTROL Revenue Cycle Modeler]** e fare clic su **[!UICONTROL Marketo Examples]**.
 
    ![](assets/image2015-4-27-17-3a11-3a39.png)
 
@@ -27,11 +27,11 @@ Marketo dispone di esempi di modellatori di ricavi per aiutarti a ispirarti. Clo
 
    ![](assets/image2015-4-27-17-3a33-3a11.png)
 
-1. In Azioni modello, selezionare **Clona modello**.
+1. Da [!UICONTROL Model Actions], selezionare **[!UICONTROL Clone Model]**.
 
    ![](assets/image2015-4-27-17-3a18-3a29.png)
 
-1. Immetti un **Nome** e fai clic su **Clone**.
+1. Immettere **[!UICONTROL Name]** e fare clic su **[!UICONTROL Clone]**.
 
    ![](assets/image2015-4-27-17-3a20-3a22.png)
 

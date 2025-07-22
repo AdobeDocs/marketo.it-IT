@@ -4,9 +4,9 @@ description: Aggiungere un nuovo modulo a una pagina di destinazione in formato 
 title: Aggiungere un nuovo modulo a una pagina di destinazione in formato libero
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -20,15 +20,15 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 >* [Crea modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Crea una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Trova la pagina di destinazione e fai clic su **Modifica bozza**.
+1. Trova la tua pagina di destinazione e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a44-3a15.png)
 
-1. Trascina e rilascia l&#39;elemento **Form** nella pagina.
+1. Trascinare l&#39;elemento **[!UICONTROL Form]** nella pagina.
 
    ![](assets/image2015-5-21-15-3a43-3a30.png)
 
@@ -38,9 +38,9 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 
 1. Nella scelta della pagina di follow-up sono disponibili tre opzioni:
 
-   * **Pagina di destinazione** - per scegliere una pagina di destinazione Marketo
-   * **URL esterno** - per scegliere l&#39;URL desiderato
-   * **Definito modulo** - per utilizzare le impostazioni definite a livello di modulo
+   * **[!UICONTROL Landing Page]** - per scegliere una pagina di destinazione di Marketo
+   * **[!UICONTROL External URL]** - per scegliere un URL qualsiasi
+   * **[!UICONTROL Form Defined]** - per utilizzare le impostazioni definite a livello di modulo
 
    >[!NOTE]
    >
@@ -48,7 +48,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
    >
    >La pagina di follow-up è la pagina che le persone vedranno dopo aver inviato il modulo.
 
-1. Fare clic su **Inserisci**.
+1. Fai clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-14-3a44-3a38.png)
 

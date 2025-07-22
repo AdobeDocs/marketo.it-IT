@@ -4,9 +4,9 @@ description: Impostazioni obiettivo algoritmo - Documentazione Marketo - Documen
 title: Impostazioni obiettivo algoritmo
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Impostazioni obiettivo algoritmo consente di impostare l’obiettivo finale dell’algoritmo di Predictive Content (intelligenza artificiale) in modo che sia allineato agli obiettivi aziendali.
 
-1. In Contenuto predittivo, fai clic sul nome di accesso e seleziona **Impostazioni contenuto**.
+1. In Predictive Content, fare clic sul nome di accesso e selezionare **[!UICONTROL Content Settings]**.
 
    ![](assets/1.png)
 
-1. In Impostazioni contenuto selezionare **Algoritmo**.
+1. In Impostazioni contenuto selezionare **[!UICONTROL Algorithm]**.
 
    ![](assets/two-1.png)
 
@@ -27,10 +27,10 @@ Impostazioni obiettivo algoritmo consente di impostare l’obiettivo finale dell
 
    ![](assets/three-new.png)
 
-   | **Clic** | Visualizzare il contenuto che molto probabilmente farà fare clic su di esso l’utente che lo visualizza |
+   | **[!UICONTROL Clicks]** | Visualizzare il contenuto che molto probabilmente farà fare clic su di esso l’utente che lo visualizza |
    |---|---|
-   | **Conversioni** | Visualizza il contenuto che probabilmente farà inviare un modulo all’utente che lo visualizza |
+   | **[!UICONTROL Conversions]** | Visualizza il contenuto che probabilmente farà inviare un modulo all’utente che lo visualizza |
 
-1. Al termine, fai clic su **Salva**.
+1. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/four.png)

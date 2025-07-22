@@ -3,10 +3,10 @@ description: Impostazioni delle campagne di vendita - Documentazione di Marketo 
 title: Impostazioni campagna di vendita
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 0%
+source-wordcount: '208'
+ht-degree: 1%
 
 ---
 
@@ -20,9 +20,9 @@ Abilita Ignora fine settimana in modo che tutti i passaggi che sarebbero caduti 
 
 >[!NOTE]
 >
->Con Salta fine settimana abilitato, le e-mail verranno pianificate in base a una settimana di 5 giorni. Ciò significa che, quando un passaggio è pianificato, i fine settimana verranno ignorati come giorni.
+>Se [!UICONTROL Skip Weekends] è abilitato, le e-mail verranno pianificate in base a una settimana di 5 giorni. Ciò significa che, quando un passaggio è pianificato, i fine settimana verranno ignorati come giorni.
 
-1. Fai clic su **Campagne**.
+1. Fai clic su **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-1.png)
 
@@ -30,11 +30,11 @@ Abilita Ignora fine settimana in modo che tutti i passaggi che sarebbero caduti 
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Fare clic sulla scheda **Impostazioni**.
+1. Fare clic sulla scheda **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-3.png)
 
-1. Selezionare la casella di controllo **Ignora fine settimana**.
+1. Selezionare la casella di controllo **[!UICONTROL Skip Weekends]**.
 
    ![](assets/sales-campaign-settings-4.png)
 
@@ -42,7 +42,7 @@ Abilita Ignora fine settimana in modo che tutti i passaggi che sarebbero caduti 
 
 Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati in base al messaggio non recapitato inviato alla casella in entrata degli utenti. Inoltre, possiamo rimuovere le persone dalle campagne di vendita quando viene rilevato un mancato recapito.
 
-1. Fai clic su **Campagne**.
+1. Fai clic su **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-5.png)
 
@@ -50,19 +50,19 @@ Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati i
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Fare clic sulla scheda **Impostazioni**.
+1. Fare clic sulla scheda **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-7.png)
 
-1. Selezionare la casella di controllo **Rimuovi in caso di mancato recapito**.
+1. Selezionare la casella di controllo **[!UICONTROL Remove on Bounce]**.
 
    ![](assets/sales-campaign-settings-8.png)
 
 ## Se si verifica una risposta {#if-a-reply-occurs}
 
-Se hai abilitato il tracciamento delle risposte per Gmail o Exchange, possiamo terminare automaticamente la tua campagna di vendita se un destinatario risponde alla tua e-mail.
+Se il monitoraggio delle risposte è abilitato per Gmail o [!DNL Exchange], possiamo terminare automaticamente la campagna di vendita se un destinatario risponde all&#39;e-mail.
 
-1. Fai clic su **Campagne**.
+1. Fai clic su **[!UICONTROL Campaigns]**.
 
    ![](assets/sales-campaign-settings-9.png)
 
@@ -70,11 +70,11 @@ Se hai abilitato il tracciamento delle risposte per Gmail o Exchange, possiamo t
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Fare clic sulla scheda **Impostazioni**.
+1. Fare clic sulla scheda **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-11.png)
 
-1. In **Se si verifica una risposta**, effettuare le selezioni desiderate.
+1. In **[!UICONTROL If a Reply Occurs]**, effettuare le selezioni desiderate.
 
    ![](assets/sales-campaign-settings-12.png)
 

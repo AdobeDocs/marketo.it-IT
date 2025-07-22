@@ -4,9 +4,9 @@ description: Grafici rapidi di Email Insights - Documenti Marketo - Documentazio
 title: Grafici rapidi di Email Insights
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ I grafici rapidi sono miniature personalizzate e salvate, che consentono di visu
 
 In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 2016, negli stati della California e della Florida.
 
-1. Fai clic sul filtro della data a destra della schermata Analytics.
+1. Fare clic sul filtro data a destra della schermata [!UICONTROL Analytics].
 
    ![](assets/one-1.png)
 
@@ -27,7 +27,7 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
    ![](assets/two-2.png)
 
-1. Quando il tuo intervallo di date è selezionato, fai clic su **Applica**.
+1. Quando l&#39;intervallo di date è selezionato, fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/three-2.png)
 
@@ -39,11 +39,11 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
    ![](assets/5.png)
 
-1. Sul lato destro del grafico fare clic sull&#39;icona di esportazione e selezionare **Salva come grafico rapido**.
+1. Sul lato destro del grafico fare clic sull&#39;icona di esportazione e selezionare **[!UICONTROL Save as Quick Chart]**.
 
    ![](assets/six.png)
 
-1. Assegna un nome al grafico rapido e fai clic su **Salva**.
+1. Assegnare un nome al grafico rapido e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/seven.png)
 
@@ -65,7 +65,7 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
 Eliminare uno dei grafici rapidi? È facile!
 
-1. Fai clic sull&#39;icona **Grafici rapidi**.
+1. Fare clic sull&#39;icona **[!UICONTROL Quick Charts]**.
 
    ![](assets/nine.png)
 
@@ -73,7 +73,7 @@ Eliminare uno dei grafici rapidi? È facile!
 
    ![](assets/ten.png)
 
-1. Fare clic su **Ok**.
+1. Fai clic su **[!UICONTROL Ok]**.
 
    ![](assets/eleven.png)
 

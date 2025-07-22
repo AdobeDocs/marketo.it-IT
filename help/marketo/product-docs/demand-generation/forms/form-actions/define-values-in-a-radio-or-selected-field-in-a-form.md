@@ -4,10 +4,10 @@ description: Definire i valori in una radio o in un campo selezionato in un modu
 title: Definire i valori in un campo radio o selezionato in un modulo
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 1%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Dopo aver [impostato un tipo di campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o tipo di selezione, è necessario definire i valori tra cui l&#39;utente può scegliere. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a28-3a56.png)
 
-1. Selezionare il campo e fare clic su **Modifica**.
+1. Selezionare il campo e fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-15-16-3a29-3a6.png)
 
    >[!NOTE]
    >
-   >Il primo valore predefinito è sempre &quot;Seleziona...&quot; Puoi modificarlo. Se si modifica il pulsante di opzione predefinito in un&#39;altra riga, &quot;Seleziona...&quot; non verrà visualizzato come scelta nel modulo.
+   >Il primo valore predefinito è sempre &quot;[!UICONTROL Select...]&quot;. Puoi modificarlo. Se si modifica il pulsante di scelta predefinito in un&#39;altra riga, &quot;[!UICONTROL Select...]&quot; non verrà visualizzato come scelta nel modulo.
 
 1. Fai clic su per aggiungere il valore.
 
@@ -39,27 +39,27 @@ Dopo aver [impostato un tipo di campo](/help/marketo/product-docs/administration
    >
    >**Definizione**
    >
-   >**Valore visualizzato:** ciò che viene mostrato al visitatore.
+   >**[!UICONTROL Display Value]:** che cosa viene mostrato al visitatore.
    >
-   >**Valore memorizzato:** ciò che è stato registrato in Marketo.
+   >**[!UICONTROL Stored Value]:** Elementi registrati in Marketo.
 
-1. Aggiungi tutti i valori necessari, quindi fai clic su **Salva**.
+1. Aggiungi tutti i valori necessari, quindi fai clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >Se non si immette un valore memorizzato, Marketo utilizzerà il valore visualizzato e lo memorizzerà.
+   >Se non immetti [!UICONTROL Stored Value], Marketo utilizzerà [!UICONTROL Display Value] e lo memorizzerà.
 
    ![](assets/image2014-9-15-16-3a29-3a30.png)
 
    >[!TIP]
    >
-   >Fai clic su **Editor avanzato** per copiare/incollare un elenco di valori, se lo desideri. Può risparmiare tempo reale.
+   >Fare clic su **[!UICONTROL Advanced Editor]** per copiare/incollare un elenco di valori, se si desidera. Può risparmiare tempo reale.
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a29-3a43.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
 

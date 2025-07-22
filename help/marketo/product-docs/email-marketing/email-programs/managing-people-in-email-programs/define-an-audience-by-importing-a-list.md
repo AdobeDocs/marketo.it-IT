@@ -4,9 +4,9 @@ description: Definire un pubblico importando un elenco - Documentazione di Marke
 title: Definire un pubblico importando un elenco
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >Tutti i campi data/ora importati vengono trattati come ora centrale. Se sono presenti campi data/ora in un fuso orario diverso, è possibile utilizzare una formula di Excel per trasformarla in Ora centrale (America/Chicago).
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il programma e-mail e fai clic su Importa elenco sotto il riquadro Pubblico.
+1. Selezionare il programma di posta elettronica e quindi fare clic su **[!UICONTROL Import List]** sotto il riquadro **[!UICONTROL Audience]**.
 
    ![](assets/importlist.png)
 
-1. Viene visualizzata la finestra di importazione dell&#39;elenco. Fare clic su **Sfoglia** e selezionare il file che si desidera importare. Dopo aver selezionato l&#39;elenco di persone, fare clic su **Avanti**.
+1. Viene visualizzata la finestra di importazione dell&#39;elenco, fare clic su **[!UICONTROL Browse]** e selezionare il file da importare. Dopo aver selezionato l&#39;elenco di persone, fare clic su **[!UICONTROL Next]**.
 
    ![](assets/importlist1.png)
 
@@ -41,7 +41,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
    >
    >Assicurati che l’elenco sia codificato in UTF-8, UTF-16, Shift-JIS o EUC-JP e che non superi i 50 MB di dimensione del file.
 
-1. Verifica che i campi nel file siano mappati correttamente e fai clic su **Avanti**.
+1. Verificare che i campi del file siano mappati correttamente e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-12-11-3a10-3a7.png)
 
@@ -49,7 +49,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
    >
    >Marketo ricorderà le mappature per le importazioni future.
 
-1. Immetti un **Nome** per l&#39;elenco e fai clic su **Importa**.
+1. Immetti **[!UICONTROL Name]** per l&#39;elenco e fai clic su **[!UICONTROL Import]**.
 
    ![](assets/image2014-9-12-11-3a10-3a13.png)
 
@@ -71,7 +71,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >Fare clic sul numero per visualizzare un elenco dettagliato delle persone bloccate dalla posta.
 >
->Utilizza il pulsante ![—](assets/image2014-10-23-16-3a32-3a36-1.png) nella sezione **Pubblico** per vedere quante persone sono qualificate per ricevere l&#39;e-mail in base ai criteri dell&#39;elenco avanzato. Sottrarre il numero Bloccato dal numero Persone per ottenere il numero totale di persone che riceveranno l&#39;e-mail.
+>Utilizza il pulsante ![—](assets/image2014-10-23-16-3a32-3a36-1.png) nella sezione **[!UICONTROL Audience]** per vedere quante persone sono qualificate per ricevere l&#39;e-mail in base ai criteri dell&#39;elenco smart. Sottrarre il numero Bloccato dal numero Persone per ottenere il numero totale di persone che riceveranno l&#39;e-mail.
 
 >[!TIP]
 >

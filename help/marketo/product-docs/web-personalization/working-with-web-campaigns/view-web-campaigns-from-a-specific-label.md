@@ -4,9 +4,9 @@ description: Visualizzare campagne web da un’etichetta specifica - Documenti M
 title: Visualizzare campagne Web da un'etichetta specifica
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Desideri visualizzare e filtrare le campagne in base a un’etichetta specifica?
 
 ## Filtra per etichette esistenti {#filter-by-existing-labels}
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 
@@ -31,6 +31,6 @@ Desideri visualizzare e filtrare le campagne in base a un’etichetta specifica?
 
 >[!MORELIKETHIS]
 >
->* [Etichettare Le Campagne Web](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
+>* [Etichetta [!UICONTROL Web Campaigns]](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/label-your-web-campaigns.md)
 >* [Visualizza segmenti da un&#39;etichetta specifica](/help/marketo/product-docs/web-personalization/using-web-segments/view-segments-from-a-specific-label.md)
 >* [Etichettare i segmenti](/help/marketo/product-docs/web-personalization/using-web-segments/label-your-segment.md)

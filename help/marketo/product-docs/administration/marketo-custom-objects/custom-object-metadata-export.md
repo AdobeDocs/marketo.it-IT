@@ -3,26 +3,26 @@ description: Esportazione di metadati di oggetti personalizzati - Documentazione
 title: Esportazione metadati oggetti personalizzati
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 1%
 
 ---
 
 # Esportazione metadati oggetti personalizzati {#custom-object-metadata-export}
 
-Se utilizzi l’API SOAP o l’API Munchkin, puoi esportare lo schema metadati di oggetti personalizzati. Ecco come ottenerlo.
+Se utilizzi l&#39;API SOAP o l&#39;API [!DNL Munchkin], puoi esportare lo schema metadati oggetto personalizzato. Ecco come ottenerlo.
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/custom-object-metadata-export-1.png)
 
-1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/custom-object-metadata-export-2.png)
 
@@ -30,7 +30,7 @@ Se utilizzi l’API SOAP o l’API Munchkin, puoi esportare lo schema metadati d
 
    ![](assets/custom-object-metadata-export-3.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Esporta oggetto]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Custom Object Actions]** e selezionare **[!UICONTROL Export Object]**.
 
    ![](assets/custom-object-metadata-export-4.png)
 

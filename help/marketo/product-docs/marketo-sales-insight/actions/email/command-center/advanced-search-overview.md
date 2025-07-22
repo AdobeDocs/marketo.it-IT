@@ -3,10 +3,10 @@ description: Panoramica sulla ricerca avanzata - Documenti Marketo - Documentazi
 title: Panoramica sulla ricerca avanzata
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 1%
+source-wordcount: '380'
+ht-degree: 2%
 
 ---
 
@@ -16,11 +16,11 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
 ## Come accedere alla ricerca avanzata {#how-to-access-advanced-search}
 
-1. Nell&#39;applicazione Web fare clic su **Centro comandi**.
+1. Nell&#39;applicazione Web fare clic su **[!UICONTROL Command Center]**.
 
    ![](assets/advanced-search-overview-1.png)
 
-1. Fai clic su **E-mail**.
+1. Fai clic su **[!UICONTROL Emails]**.
 
    ![](assets/advanced-search-overview-2.png)
 
@@ -28,7 +28,7 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
    ![](assets/advanced-search-overview-3.png)
 
-1. Fare clic su Ricerca avanzata.
+1. Fai clic su [!UICONTROL Advanced Search].
 
    ![](assets/advanced-search-overview-4.png)
 
@@ -36,13 +36,13 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
 **Data**
 
-Scegli l’intervallo di date per la ricerca. Le date predefinite vengono aggiornate in base allo stato dell’e-mail scelto (Inviato, Non consegnato, In sospeso).
+Scegli l’intervallo di date per la ricerca. Le date predefinite vengono aggiornate in base allo stato dell&#39;e-mail scelto ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending]).
 
 ![](assets/advanced-search-overview-5.png)
 
 **Chi**
 
-Filtra per destinatario/mittente e-mail nella sezione Chi.
+Filtra per destinatario/mittente e-mail nella sezione [!UICONTROL Who].
 
 ![](assets/advanced-search-overview-6.png)
 
@@ -52,22 +52,22 @@ Filtra per destinatario/mittente e-mail nella sezione Chi.
   <td><strong>Descrizione</strong></td>
  </tr>
  <tr>
-  <td><strong>Visualizza come</strong></td>
+  <td><strong>[!UICONTROL View As]</strong></td>
   <td>Consente di filtrare in base a un mittente specifico nell'istanza Sales Connect (questa opzione è disponibile solo per gli amministratori).</td>
  </tr>
  <tr>
-  <td><strong>Per gruppo</strong></td>
+  <td><strong>[!UICONTROL By Group]</strong></td>
   <td>Filtra le e-mail per un gruppo specifico di destinatari.</td>
  </tr>
  <tr>
-  <td><strong>Per persona</strong></td>
+  <td><strong>[!UICONTROL By Person]</strong></td>
   <td>Filtra in base a un destinatario specifico.</td>
  </tr>
 </table>
 
 **Quando**
 
-Scegliere in base alla data di creazione, alla data di consegna, alla data non riuscita o alla data pianificata. Le opzioni disponibili variano a seconda dello stato dell’e-mail scelto (Inviato, Non consegnato, In sospeso).
+Scegliere in base alla data di creazione, alla data di consegna, alla data non riuscita o alla data pianificata. Le opzioni disponibili variano a seconda dello stato dell&#39;e-mail scelto ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending]).
 
 ![](assets/advanced-search-overview-7.png)
 
@@ -83,13 +83,13 @@ Sono disponibili tre stati e-mail tra cui scegliere. Le opzioni di tipo/attivit�
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Stato: inviato**&#x200B;_
+_**Stato: inviato**_
 
 ![](assets/advanced-search-overview-10.png)
 
-Filtri per attività e-mail inviata. Puoi scegliere viste/nessuna visualizzazione, clic/nessun clic e/o risposte/nessuna risposta.
+Filtri per attività e-mail inviata. È possibile scegliere [!UICONTROL views]/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks] e/o [!UICONTROL replies]/[!UICONTROL no replies].
 
-_&#x200B;**Stato: in sospeso**&#x200B;_
+_**Stato: in sospeso**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -101,20 +101,20 @@ Filtra per tutte le e-mail in sospeso.
   <td><strong>Descrizione</strong></td>
  </tr>
  <tr>
-  <td><strong>Pianificato</strong></td>
+  <td><strong>[!UICONTROL Scheduled]</strong></td>
   <td>E-mail pianificate dalla finestra di composizione (Salesforce o Web App), da plug-in e-mail o da una campagna.</td>
  </tr>
  <tr>
-  <td><strong>Bozze</strong></td>
+  <td><strong>[!UICONTROL Drafts]</strong></td>
   <td>E-mail attualmente in stato di bozza. Le e-mail richiedono una riga dell’oggetto e un destinatario per essere salvate come bozza.</td>
  </tr>
  <tr>
-  <td><strong>In corso</strong></td>
+  <td><strong>[!UICONTROL In Progress]</strong></td>
   <td>E-mail in fase di invio. Le e-mail non devono rimanere in questo stato per più di qualche secondo.</td>
  </tr>
 </table>
 
-_&#x200B;**Stato: non consegnato**&#x200B;_
+_**Stato: non consegnato**_
 
 ![](assets/advanced-search-overview-12.png)
 
@@ -126,15 +126,15 @@ Filtri per e-mail che non sono mai state consegnate.
   <td><strong>Descrizione</strong></td>
  </tr>
  <tr>
-  <td><strong>Operazione non riuscita</strong></td>
+  <td><strong>[!UICONTROL Failed]</strong></td>
   <td>Quando un’e-mail non viene inviata da Sales Connect (i motivi comuni includono: e-mail inviate a contatti annullati/bloccati o se si è verificato un problema durante il popolamento dei campi dinamici).</td>
  </tr>
  <tr>
-  <td><strong>Rifiutato</strong></td>
+  <td><strong>[!UICONTROL Bounced]</strong></td>
   <td>Un’e-mail viene contrassegnata come non recapitata quando viene rifiutata dal server del destinatario. Qui verranno visualizzate solo le e-mail inviate tramite server Sales Connect.</td>
  </tr>
  <tr>
-  <td><strong>Spam</strong></td>
+  <td><strong>[!UICONTROL Spam]</strong></td>
   <td>Quando l’e-mail è stata contrassegnata come spam (termine comune per e-mail non richieste) dal destinatario. Qui verranno visualizzate solo le e-mail inviate tramite server Sales Connect.</td>
  </tr>
 </table>
@@ -143,11 +143,11 @@ Filtri per e-mail che non sono mai state consegnate.
 
 Ecco come creare una ricerca salvata.
 
-1. Dopo aver impostato tutti i filtri, fare clic su **Salva filtri con nome**.
+1. Dopo aver impostato tutti i filtri, fare clic su **[!UICONTROL Save Filters As]**.
 
    ![](assets/advanced-search-overview-13.png)
 
-1. Assegna un nome alla ricerca e fai clic su **Salva**.
+1. Assegna un nome alla ricerca e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/advanced-search-overview-14.png)
 

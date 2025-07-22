@@ -4,9 +4,9 @@ description: Creazione ed eliminazione di contatti - Documentazione di Marketo -
 title: Creazione ed eliminazione di contatti
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Creazione di contatti {#creating-contacts}
 
-1. Nella pagina Persone fare clic sul pulsante **Azioni gruppo** e selezionare **Crea contatto**.
+1. Nella pagina [!UICONTROL People], fare clic sul pulsante **[!UICONTROL Group Actions]** e selezionare **[!UICONTROL Create Contact]**.
 
    ![](assets/one-2.png)
 
-1. Immetti nome/cognome e indirizzo e-mail, insieme a eventuali altre informazioni desiderate. Al termine, fai clic su **Crea** oppure su **Crea e aggiungi nuovo** per aggiungere altri contatti.
+1. Immetti nome/cognome e indirizzo e-mail, insieme a eventuali altre informazioni desiderate. Al termine, fai clic su **[!UICONTROL Create]** oppure su **[!UICONTROL Create and Add New]** per aggiungere altri contatti.
 
    ![](assets/two-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## Eliminazione dei contatti {#deleting-contacts}
 
-1. Nella pagina Persone, seleziona la casella del contatto da eliminare.
+1. Nella pagina [!UICONTROL People], seleziona la casella del contatto da eliminare.
 
    ![](assets/three-2.png)
 
@@ -37,10 +37,10 @@ ht-degree: 0%
    >
    >Per eliminare più contatti, è sufficiente selezionare più persone. I passaggi rimanenti sarebbero gli stessi.
 
-1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Delete]**.
 
    ![](assets/four-2.png)
 
-1. Fai clic su **Elimina contatto** per confermare.
+1. Fai clic su **[!UICONTROL Delete Contact]** per confermare.
 
    ![](assets/five-2.png)

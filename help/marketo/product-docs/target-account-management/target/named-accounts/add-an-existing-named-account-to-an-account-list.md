@@ -4,14 +4,14 @@ description: Aggiungere un account con nome esistente a un elenco di account - D
 title: Aggiungere un account denominato esistente a un elenco di account
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Aggiungere un account denominato esistente a un elenco di account {#add-an-existing-named-account-to-an-account-list}
+# Aggiungi un [!UICONTROL Named Account] esistente a un elenco account {#add-an-existing-named-account-to-an-account-list}
 
 L’aggiunta di un account denominato a un elenco di account è semplice.
 
@@ -23,11 +23,11 @@ L’aggiunta di un account denominato a un elenco di account è semplice.
 
    ![](assets/four-1.png)
 
-1. Fai clic sul menu a discesa **Azioni account denominate** e seleziona **Aggiungi all&#39;elenco account**.
+1. Fare clic sul menu a discesa **[!UICONTROL Named Account Actions]** e selezionare **[!UICONTROL Add to Account List]**.
 
    ![](assets/five-1.png)
 
-1. Fare clic sull&#39;elenco a discesa **Elenco account**, selezionare l&#39;elenco account desiderato e fare clic su **Aggiungi**.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Account List]**, selezionare l&#39;elenco di account desiderato e fare clic su **[!UICONTROL Add]**.
 
    ![](assets/six-1.png)
 
@@ -35,4 +35,4 @@ L’aggiunta di un account denominato a un elenco di account è semplice.
 
 >[!MORELIKETHIS]
 >
->[Crea un account denominato](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)
+>[Crea un [!UICONTROL Named Account]](/help/marketo/product-docs/target-account-management/target/named-accounts/create-a-named-account.md)

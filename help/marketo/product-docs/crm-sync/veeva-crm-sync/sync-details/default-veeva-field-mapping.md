@@ -1,18 +1,18 @@
 ---
-description: Mappatura campo Veeva predefinita - Documentazione Marketo - Documentazione del prodotto
-title: Mappatura campo Veeva predefinita
+description: Mappatura campi  [!DNL Veeva]  predefinita - Documenti Marketo - Documentazione del prodotto
+title: Mappatura campi  [!DNL Veeva]  predefinita
 exl-id: 3bf36d50-daea-431f-9537-b3007ad75945
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '263'
-ht-degree: 34%
+source-wordcount: '253'
+ht-degree: 36%
 
 ---
 
-# Mappatura campo Veeva predefinita {#default-veeva-field-mapping}
+# Mappatura campo [!DNL Veeva] predefinita {#default-veeva-field-mapping}
 
-Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo crea automaticamente queste associazioni tra i campi incorporati di Veeva e Marketo. Marketo sincronizzerà inoltre i campi personalizzati sugli account e sui contatti.
+Quando inizialmente sincronizzi l&#39;account Marketo Engage con [!DNL Veeva], Marketo crea automaticamente queste associazioni tra i campi predefiniti di [!DNL Veeva] e Marketo. Marketo sincronizzerà inoltre i campi personalizzati sugli account e sui contatti.
 
 ## Campi contatto {#contact-fields}
 
@@ -82,7 +82,7 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo
     </tr>
     <tr>
       <td>CodicePostaleMailing</td>
-      <td>Codice postale</td>
+      <td>Codice di avviamento postale</td>
     </tr>
     <tr>
       <td>MailingState</td>
@@ -126,8 +126,8 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo
   </thead>
   <tbody>
     <tr>
-      <td>Entrata annuale</td>
-      <td>Entrata annuale</td>
+      <td>Ricavi annuali</td>
+      <td>Ricavi annuali</td>
     </tr>
     <tr>
       <td>Città di fatturazione</td>
@@ -192,7 +192,7 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Veeva, Marketo
   </tbody>
 </table>
 
-## Campi di sistema correlati a Veeva in Marketo (sola lettura) {#veeva-related-system-fields-in-marketo}
+## Campi di sistema correlati a [!DNL Veeva] in Marketo (sola lettura) {#veeva-related-system-fields-in-marketo}
 
 Questi campi vengono creati in Marketo ma non possono essere regolati dai clienti.
 
@@ -209,19 +209,19 @@ Questi campi vengono creati in Marketo ma non possono essere regolati dai client
   </thead>
   <tbody>
     <tr>
-      <td>ID Veeva</td>
-      <td>ID Salesforce di 18 caratteri</td>
+      <td>[!DNL Veeva] ID</td>
+      <td>ID [!DNL Salesforce] di 18 caratteri</td>
     </tr>
     <tr>
-      <td>Tipo Veeva</td>
+      <td>[!DNL Veeva] Tipo</td>
       <td>Contatto. Se vuoto, il lead esiste solo come persona in Marketo</td>
     </tr>
     <tr>
-      <td>Data creazione Veeva</td>
+      <td>[!DNL Veeva] Data di creazione</td>
       <td>Data di creazione in SFDC (può essere diversa da Creato in Marketo)</td>
     </tr>
     <tr>
-      <td>Veeva è eliminato</td>
+      <td>[!DNL Veeva] è eliminato</td>
       <td>La persona era in SFDC ma è stata eliminata e ora risiede solo in Marketo</td>
     </tr>
   </tbody>

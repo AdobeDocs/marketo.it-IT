@@ -1,27 +1,27 @@
 ---
-description: Installazione di Marketo per Microsoft Dynamics 2016/Dynamics 365 on-premises Passaggio 3 di 3 - Documentazione di Marketo - Documentazione del prodotto
-title: Installazione di Marketo per Microsoft Dynamics 2016/Dynamics 365 on-premises Passaggio 3 di 3
+description: Installa Marketo per  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 on-premise Passaggio 3 di 3 - Documentazione Marketo - Documentazione del prodotto
+title: Installa Marketo per  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 on-premise Passaggio 3 di 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: 2d3264ab75d2327f9226373aad383e7a51508589
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '379'
 ht-degree: 1%
 
 ---
 
-# Passaggio 3 di 3: Connettere Marketo Dynamics (2016 On Prem/Dynamics 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
+# Passaggio 3 di 3: Connessione a Marketo [!DNL Dynamics] (2016 On Prem/[!DNL Dynamics] 365 On-Premises) {#step-of-connect-marketo-dynamics-on-premises-2016}
 
 >[!PREREQUISITES]
 >
->* [Installa Marketo per Microsoft Dynamics 2016/Dynamics 365 On-Premises Passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md){target="_blank"}
->* [Installa Marketo per Microsoft Dynamics 2016/Dynamics 365 on-premise passaggio 2 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md){target="_blank"}
+>* [Installa Marketo per [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 locali Passaggio 1 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
+>* [Installa Marketo per [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 locali Passaggio 2 di 3](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-## Immetti le informazioni utente di Dynamics Sync {#enter-dynamics-sync-user-information}
+## Immetti le informazioni utente di sincronizzazione di [!DNL Dynamics] {#enter-dynamics-sync-user-information}
 
 1. Accedere a Marketo e fare clic su **[!UICONTROL Admin]**.
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-50-6.png)
 
-1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Enter Credentials]**.
+1. Fare clic su **[!UICONTROL Edit]** in **Passaggio 1: immettere le credenziali**.
 
    ![](assets/image2015-3-16-9-48-43.png)
 
@@ -43,7 +43,7 @@ ht-degree: 1%
    >
    >Assicurati che le credenziali siano corrette in quanto non è possibile ripristinare le modifiche allo schema successive dopo l’invio. Se vengono salvate credenziali non corrette, dovrai ottenere una nuova sottoscrizione Marketo.
 
-1. Immetti **[!UICONTROL Username]**, **[!UICONTROL Password]** un Microsoft Dynamics **[!UICONTROL URL]** e un **ID/segreto client**. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Immetti **Nome utente**, **Password**, [!DNL Microsoft Dynamics] **URL** e **ID/segreto client**. Al termine, fai clic su **Salva**.
 
    ![](assets/step-3-of-3-5.png)
 
@@ -55,11 +55,11 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Non conosci l’URL? Qui verrà illustrato come trovare l&#39;[URL del servizio Dynamics Organization](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
+   >Non conosci l’URL? Qui verrà illustrato come trovare l&#39;[[!DNL Dynamics] URL del servizio organizzazione](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/view-the-organization-service-url.md).
 
 ## Seleziona campi da sincronizzare {#select-fields-to-sync}
 
-1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Select Fields to Sync]**.
+1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Step 2: Select Fields to Sync]**.
 
    ![](assets/image2015-3-16-9-51-28.png)
 
@@ -69,7 +69,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Marketo memorizza un riferimento ai campi da sincronizzare. Se elimini un campo in Dynamics, è consigliabile eliminare [sync disabilitato](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md){target="_blank"}. Quindi aggiorna lo schema in Marketo modificando e salvando [Seleziona campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md){target="_blank"}.
+>Marketo memorizza un riferimento ai campi da sincronizzare. Se elimini un campo in [!DNL Dynamics], è consigliabile eliminare [sync disabilitato](/help/marketo/product-docs/crm-sync/salesforce-sync/enable-disable-the-salesforce-sync.md). Quindi aggiorna lo schema in Marketo modificando e salvando [Seleziona campi da sincronizzare](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/microsoft-dynamics-sync-field-sync/editing-fields-to-sync-before-deleting-them-in-dynamics.md).
 
 ## Sincronizza campi per un filtro personalizzato {#sync-fields-for-a-custom-filter}
 
@@ -89,13 +89,13 @@ Se hai creato un filtro personalizzato, accertati di entrare e selezionare i nuo
 
 ## Abilita sincronizzazione {#enable-sync}
 
-1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Enable Sync]**.
+1. Fare clic su **[!UICONTROL Edit]** in **[!UICONTROL Step 3: Enable Sync]**.
 
    ![](assets/image2015-3-16-9-52-2.png)
 
    >[!CAUTION]
    >
-   >Marketo non esegue automaticamente la deduplicazione su una sincronizzazione Microsoft Dynamics o quando si immettono manualmente persone.
+   >Marketo non eseguirà la deduplicazione automatica in base a una sincronizzazione [!DNL Microsoft Dynamics] o quando si immettono manualmente persone.
 
 1. Leggi tutto il contenuto del popup, immetti il tuo indirizzo e-mail e fai clic su **[!UICONTROL Start Sync]**.
 

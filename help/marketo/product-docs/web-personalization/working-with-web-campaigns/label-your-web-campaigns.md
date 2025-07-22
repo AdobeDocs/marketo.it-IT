@@ -4,9 +4,9 @@ description: Etichettare Le Campagne Web - Documentazione Di Marketo - Documenta
 title: Etichettare le campagne web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hai così tante campagne che lo scorrimento sta diventando complicato? Utilizza 
 
 ## Aggiungere un’etichetta a una campagna web {#add-a-label-to-a-web-campaign}
 
-1. Accedi a Web Personalization e vai all’area Campagne web.
+1. Accedere a [!DNL Web Personalization] e passare all&#39;area [!UICONTROL Web Campaigns].
 
    ![](assets/web-campaigns-hand.jpg)
 

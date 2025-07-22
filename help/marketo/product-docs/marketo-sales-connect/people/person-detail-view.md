@@ -4,9 +4,9 @@ description: Visualizzazione dettagli persona - Documentazione Marketo - Documen
 title: Visualizzazione dettagli persona
 exl-id: 3f5ee34d-a21b-4862-80cc-cad921ca479e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La vista Dettagli persona fornisce un profilo dettagliato di ogni persona nel tu
 
 ## Come accedere {#how-to-access}
 
-1. Per accedere alla visualizzazione dettagli persona, fare clic sulla scheda **Persone**.
+1. Per accedere alla visualizzazione dettagli persona, fare clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/person-detail-view-1.png)
 
@@ -45,8 +45,8 @@ Include tutte le informazioni di contatto della persona.
 
 **Informazioni account**
 
-* Può aggiungere una persona a Salesforce
-* Richiama informazioni su account e lead/contatti da Salesforce
+* Può aggiungere una persona a [!DNL Salesforce]
+* Recupera informazioni su account e lead/contatti da [!DNL Salesforce]
 
 **Campi personalizzati**
 
@@ -76,19 +76,19 @@ Mostra la cronologia della tua attività. Include e-mail, campagne e chiamate.
 
 ![](assets/person-detail-view-5.png)
 
-**Campagne di vendita**
+**[!UICONTROL Sales Campaigns]**
 
 * Visualizza tutte le campagne attive o completate a cui appartiene questa persona
 
-**Campagne di marketing**
+**[!UICONTROL Marketing Campaigns]**
 
 * Visualizza tutte le campagne di marketing di cui questa persona è membro
 
-**E-Mail Vendite**
+**[!UICONTROL Sales Emails]**
 
 * Visualizza tutte le e-mail che hai inviato a questa persona e le metriche di coinvolgimento
 
-**Chiamate per la vendita**
+**[!UICONTROL Sales Calls]**
 
 * Visualizza le chiamate effettuate a questa persona
 

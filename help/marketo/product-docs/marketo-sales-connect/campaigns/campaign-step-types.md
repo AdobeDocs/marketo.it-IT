@@ -4,10 +4,10 @@ description: Tipi di passaggi della campagna - Documentazione di Marketo - Docum
 title: Tipi di passaggi della campagna
 exl-id: fb6aff01-c38b-4b26-81bb-c6b1d79db992
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 1%
 
 ---
 
@@ -33,7 +33,7 @@ Componi una nuova e-mail o utilizza un modello preesistente.
 >
 >Scopri i dettagli sulle [opzioni di invio](/help/marketo/product-docs/marketo-sales-connect/campaigns/understanding-send-options.md).
 
-## Chiamata {#call}
+## Invito {#call}
 
 Imposta un promemoria per il follow-up con un contatto telefonico. È inoltre possibile salvare le note da utilizzare come traccia di conversazione durante la chiamata.
 
@@ -41,7 +41,7 @@ Imposta un promemoria per il follow-up con un contatto telefonico. È inoltre po
 
 ## InMail {#inmail}
 
-Il follow-up su più canali è un ottimo modo per connettersi con i lead. Con le attività InMail, puoi impostare un promemoria da inviare tramite LinkedIn.
+Il follow-up su più canali è un ottimo modo per connettersi con i lead. Con le attività InMail, puoi impostare un promemoria per contattare tramite [!DNL LinkedIn].
 
 ![](assets/inmail.png)
 

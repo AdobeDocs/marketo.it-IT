@@ -1,30 +1,30 @@
 ---
 description: Aggiungere pulsanti di azione in blocco a Salesforce Classic - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi pulsanti di azione in blocco a Salesforce Classic
+title: Aggiungere pulsanti di azione in blocco a Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Aggiungi pulsanti di azione in blocco a Salesforce Classic{#add-bulk-action-buttons-to-salesforce-classic}
+# Aggiungi pulsanti di azione in blocco a [!DNL Salesforce] Classic{#add-bulk-action-buttons-to-salesforce-classic}
 
-Puoi aggiungere pulsanti Marketo ai layout Salesforce. Ecco un esempio:
+È possibile aggiungere pulsanti Marketo ai layout [!DNL Salesforce]. Ecco un esempio:
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Fare clic su **Configurazione**. Cerca &quot;layout di ricerca&quot; e fai clic su **Layout di ricerca** in **Lead**.
+1. Fare clic su **[!UICONTROL Setup]**. Cercare &quot;[!UICONTROL search layout]&quot; e fare clic su **[!UICONTROL Search Layouts]** in **[!UICONTROL Leads]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 
-1. Fai clic su **Modifica** nella riga **Visualizzazione elenco lead**.
+1. Fare clic su **[!UICONTROL Edit]** nella riga **[!UICONTROL Leads List View]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-3.png)
 
-1. Aggiungi **Aggiungi a Marketo Campaign**, **Invia e-mail Marketo** e **Aggiungi all&#39;elenco di controllo** ai **pulsanti selezionati** e **Salva**.
+1. Aggiungere i pulsanti **[!UICONTROL Add to Marketo Campaign]**, **[!UICONTROL Send Marketo Email]** e **[!UICONTROL Add to Watch List]** a **[!UICONTROL Selected Buttons]** e **[!UICONTROL Save]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-4.png)
 

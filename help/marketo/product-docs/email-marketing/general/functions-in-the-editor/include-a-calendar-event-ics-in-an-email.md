@@ -4,10 +4,10 @@ description: Includere un evento calendario (con estensione ics) in un messaggio
 title: Includere un evento calendario (.ics) in un messaggio e-mail
 exl-id: 077181ec-73e7-4b58-a473-46b0764d6b32
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 2%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ Un token File calendario consente di aggiungere un collegamento di evento calend
 >
 >[Crea un file evento calendario (.ics)](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md)
 
-1. Durante la modifica dell’e-mail del programma, fai clic nel punto in cui desideri spostare il token, quindi fai clic sul pulsante Inserisci token.
+1. Durante la modifica dell&#39;e-mail del programma, fai clic nel punto in cui desideri spostare il token, quindi fai clic sul pulsante **Inserisci token**.
 
 ![](assets/one-6.png)
 
-1. Selezionare il token del file del calendario e fare clic su **Inserisci**.
+1. Selezionare il token del file di calendario e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-11-16-3a53-3a30.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/three-5.png)
 

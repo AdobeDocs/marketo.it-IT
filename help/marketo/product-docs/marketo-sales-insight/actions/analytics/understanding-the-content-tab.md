@@ -3,16 +3,16 @@ description: Informazioni sulla scheda Contenuto - Documentazione di Marketo - D
 title: Informazioni sulla scheda Contenuto
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulla scheda Contenuto {#understanding-the-content-tab}
+# Informazioni sulla scheda [!UICONTROL Content] {#understanding-the-content-tab}
 
-La scheda Contenuto riguarda il coinvolgimento e-mail del team quando si utilizza un modello. Facciamo emergere automaticamente tre metriche che riteniamo importanti.
+La scheda [!UICONTROL Content] riguarda l&#39;impegno e-mail del tuo team quando utilizzi un modello. Facciamo emergere automaticamente tre metriche che riteniamo importanti.
 
 ## Arma segreta {#secret-weapon}
 

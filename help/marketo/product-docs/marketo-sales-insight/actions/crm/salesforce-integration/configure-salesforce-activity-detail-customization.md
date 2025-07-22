@@ -1,28 +1,28 @@
 ---
-description: Configurare la personalizzazione dei dettagli delle attività di Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Configura personalizzazione dettagli attività Salesforce
+description: Configurare la personalizzazione dei dettagli delle attività di Salesforce - Documentazione di Marketo - Documentazione del prodotto
+title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '699'
+source-wordcount: '671'
 ht-degree: 1%
 
 ---
 
-# Configura personalizzazione dettagli attività Salesforce {#configure-salesforce-activity-detail-customization}
+# Configura personalizzazione dettagli attività [!DNL Salesforce] {#configure-salesforce-activity-detail-customization}
 
 >[!PREREQUISITES]
 >
 >* Le azioni Salesforce e Sales Insight [ devono essere connesse](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
 >* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
-La personalizzazione dei dettagli dell’attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell’attività Salesforce quando un’attività di approfondimento sulle vendite o un promemoria viene sincronizzato con Salesforce.
+Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività [!DNL Salesforce] quando un&#39;attività di attività/promemoria [!DNL Sales Insight Actions] viene sincronizzata in [!DNL Salesforce].
 
 >[!NOTE]
 >
->* Se si utilizza il campo dinamico `{{activity_subject}}` nella Personalizzazione dettagli attività, gli aggiornamenti apportati al campo dell&#39;oggetto in Azioni approfondimento vendite di un&#39;attività promemoria verranno riflessi nel campo dell&#39;oggetto corrispondente dell&#39;attività Salesforce.
->* Le interruzioni di riga non sono supportate quando si registrano informazioni nel campo dell’oggetto Salesforce. Eventuali interruzioni di riga nell&#39;editor personalizzazione dettagli attività verranno rimosse quando si aggiorna un oggetto attività di vendita.
+>* Gli aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Sales Insight Actions] di un&#39;attività promemoria verranno rispecchiati nel campo dell&#39;oggetto dell&#39;attività [!DNL Salesforce] corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nella personalizzazione dei dettagli attività.
+>* Le interruzioni di riga non sono supportate quando si registrano informazioni nel campo dell&#39;oggetto [!DNL Salesforce]. Eventuali interruzioni di riga nell&#39;editor personalizzazione dettagli attività verranno rimosse quando si aggiorna un oggetto attività di vendita.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
 
@@ -45,22 +45,22 @@ La personalizzazione dei dettagli dell’attività consente agli amministratori 
 
 La funzione può essere utilizzata per usufruire dei seguenti vantaggi:
 
-* Personalizzando le informazioni visibili sul campo dell’oggetto, i dettagli dell’attività possono essere facilmente analizzati per le vendite in Salesforce.
-* Gli amministratori possono assegnare un tag al campo dell’oggetto con un identificatore univoco, ad esempio &quot;Mkto_sales&quot;, in modo che le attività derivanti dalle azioni di approfondimento sulle vendite possano essere facilmente identificate e differenziate da altre attività e-mail, attività di chiamata e attività.
-* Riduci la necessità di campi di attività personalizzati. Salesforce impone limiti al numero di campi di attività personalizzati, che possono limitare i dati disponibili per l’utilizzo nei rapporti. Utilizzando i campi dinamici dell’attività per aggiungere dati chiave alla riga dell’oggetto, puoi ridurre il numero di campi attività personalizzati da creare nell’istanza Salesforce.
-* Il campo dell’oggetto delle attività e delle attività seguirà un pattern coerente definito dall’amministratore delle azioni di approfondimento delle vendite.
+* Personalizzando le informazioni visibili nel campo dell’oggetto, i dettagli dell’attività possono essere facilmente analizzati per le vendite in Salesforce.
+* Gli amministratori possono assegnare un tag al campo dell’oggetto con un identificatore univoco, ad esempio &quot;Mkto_sales&quot;, in modo che le attività delle azioni di Insight per le vendite possano essere facilmente identificate e differenziate dalle altre attività e-mail, attività di chiamata e attività.
+* Riduci la necessità di campi di attività personalizzati. Salesforce impone limiti al numero di campi di attività personalizzati, che possono limitare i dati disponibili per l’utilizzo nei rapporti. Utilizzando i campi dinamici dell’attività per aggiungere dati chiave alla riga dell’oggetto, puoi ridurre il numero di campi attività personalizzati da creare nell’istanza di Salesforce.
+* Il campo dell&#39;oggetto delle attività e delle attività seguirà un modello coerente definito dall&#39;amministratore delle azioni di Sales Insight.
 
 >[!NOTE]
 >
->Se registri le risposte e-mail come attività in Salesforce, non utilizzeranno le impostazioni di Personalizzazione dei dettagli delle attività di Salesforce. Invece, registrerà come &quot;Reply: Email Subject&quot; (Risposta: Oggetto dell’e-mail).
+>Se si registrano le risposte e-mail come attività in [!DNL Salesforce], non verranno utilizzate le impostazioni di personalizzazione dei dettagli attività di [!DNL Salesforce]. Invece, registrerà come &quot;Reply: Email Subject&quot; (Risposta: Oggetto dell’e-mail).
 
 ## Campi dinamici attività supportati {#activity-dynamic-fields-supported}
 
-I campi dinamici delle attività contengono informazioni di riferimento sulle attività di vendita per compilare i dati. Oggi possono essere utilizzati con la Personalizzazione dei dettagli delle attività di Salesforce.
+I campi dinamici delle attività contengono informazioni di riferimento sulle attività di vendita per compilare i dati. Oggi possono essere utilizzati con la personalizzazione dei dettagli di attività [!DNL Salesforce].
 
 >[!NOTE]
 >
->Se non è presente alcun valore per compilare il campo dinamico per un&#39;attività/attività specifica, quando il campo Attività - Oggetto Salesforce viene aggiornato non verranno inseriti dati per tale campo dinamico.
+>Se non è disponibile alcun valore per compilare il campo dinamico per un&#39;attività o un&#39;attività specifica, quando il campo Attività - Oggetto di Salesforce viene aggiornato non verranno inseriti dati per tale campo dinamico.
 
 <table>
  <tr>
@@ -99,35 +99,35 @@ I campi dinamici delle attività contengono informazioni di riferimento sulle at
  </tr>
 </table>
 
-## Configurazione della personalizzazione dei dettagli dell’attività Salesforce {#configuring-salesforce-activity-detail-customization}
+## Configurazione della personalizzazione dei dettagli dell&#39;attività [!DNL Salesforce] {#configuring-salesforce-activity-detail-customization}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste.**
 
-Quando configuri i dettagli dell’attività, considera quali dati sarebbero più rilevanti per le vendite quando esamini la cronologia delle attività in Salesforce.
+Quando configuri i dettagli dell&#39;attività, considera quali dati sarebbero più rilevanti per le vendite quando esamini la cronologia delle attività in [!DNL Salesforce].
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-3.png)
 
-1. Fare clic su **Salesforce**.
+1. Fai clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-4.png)
 
-1. Fare clic su **Impostazioni sincronizzazione**.
+1. Fai clic su **[!UICONTROL Sync Settings]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-5.png)
 
-1. Nell’editor di personalizzazione dei dettagli dell’attività aggiungi eventuale testo libero. Il testo aggiunto non è dinamico e rimarrà invariato per il campo dell&#39;oggetto di tutte le attività sincronizzate con Salesforce.
+1. Nell’editor di personalizzazione dei dettagli dell’attività aggiungi eventuale testo libero. Il testo aggiunto non è dinamico e rimarrà invariato per il campo dell&#39;oggetto di tutte le attività sincronizzate con [!DNL Salesforce].
 
    ![](assets/configure-salesforce-activity-detail-customization-6.png)
 
    >[!TIP]
    >
-   >Anche se non obbligatorio, racchiudere il testo aggiunto tra parentesi quadre può facilitare la distinzione tra i dati quando vengono inseriti in un campo dell’oggetto in Salesforce. Esempio: `[Sales Insight Actions] - {{Activity_type}}`
+   >Anche se non obbligatorio, la disposizione del testo aggiunto tra parentesi quadre può facilitare la distinzione tra i dati quando vengono inseriti in un campo dell&#39;oggetto in [!DNL Salesforce]. Esempio: `[Sales Insight Actions] - {{Activity_type}}`
 
-1. Aggiungere altri campi dinamici facendo clic sul pulsante **Aggiungi campo dinamico**.
+1. Per aggiungere altri campi dinamici, fare clic sul pulsante **[!UICONTROL Add Dynamic Field]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-7.png)
 
@@ -135,13 +135,13 @@ Quando configuri i dettagli dell’attività, considera quali dati sarebbero pi�
 
    ![](assets/configure-salesforce-activity-detail-customization-8.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/configure-salesforce-activity-detail-customization-9.png)
 
 >[!NOTE]
 >
->Salesforce applica un limite di 255 caratteri. Se i dettagli dell’attività superano questo limite, verranno troncati per garantire che le informazioni vengano memorizzate nel campo dell’oggetto Salesforce.
+>[!DNL Salesforce] applica un limite di 255 caratteri. Se i dettagli dell&#39;attività superano questo limite, verranno troncati per garantire che le informazioni vengano memorizzate nel campo dell&#39;oggetto [!DNL Salesforce].
 
 >[!MORELIKETHIS]
 >

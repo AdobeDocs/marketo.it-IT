@@ -4,9 +4,9 @@ description: Come inviare un’e-mail da Gmail - Documentazione di Marketo - Doc
 title: Come inviare un’e-mail da Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->L’utilizzo della funzionalità &quot;Annulla invio&quot; in Gmail impedirà l’invio dell’e-mail quando si utilizza l’estensione Gmail, ma è possibile che venga ancora visualizzata un’attività nell’applicazione web e in Salesforce se si registrano attività in Salesforce.
+>L’utilizzo della funzionalità &quot;Annulla invio&quot; in Gmail impedirà l’invio dell’e-mail quando si utilizza l’estensione Gmail, ma è possibile che venga ancora visualizzata un’attività nell’applicazione web e in Salesforce, se si registrano attività in Salesforce.
 
 1. In Gmail, fai clic su **Componi**.
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 1. Seleziona un modello di e-mail o scrivi un nuovo messaggio.
 
-1. Quando l&#39;e-mail è pronta per l&#39;invio, fai clic sul pulsante **Invia e connetti**. Facendo clic su quel pulsante invece del normale pulsante di invio, l’e-mail verrà inviata con il tracciamento applicato. Sales Connect tiene traccia di quando l&#39;e-mail viene aperta e quando qualcuno fa clic su qualsiasi collegamento.
+1. Quando l&#39;e-mail è pronta per l&#39;invio, fare clic sul pulsante **[!UICONTROL Send & Connect]**. Facendo clic su quel pulsante invece del normale pulsante di invio, l’e-mail verrà inviata con il tracciamento applicato. Sales Connect tiene traccia di quando l&#39;e-mail viene aperta e quando qualcuno fa clic su qualsiasi collegamento.

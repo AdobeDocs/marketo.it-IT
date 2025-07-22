@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2360301
-description: Imposta i campi punteggio da utilizzare per stelle e fiamme in Sales Insight - Documentazione di Marketo - Documentazione del prodotto
+description: Imposta i campi punteggio da utilizzare per stelle e fiamme nella documentazione di vendita Insight - Marketo Docs - Documentazione del prodotto
 title: Imposta i campi punteggio da utilizzare per stelle e fiamme in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 1%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
-# Imposta i campi punteggio da utilizzare per stelle e fiamme in Sales Insight {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
+# Imposta i campi punteggio da utilizzare per [!UICONTROL Stars] e [!UICONTROL Flames] in [!DNL Sales Insight] {#set-score-fields-to-be-used-for-stars-and-flames-in-sales-insight}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Per impostazione predefinita, Marketo Sales Insight utilizza il campo **Punteggio lead** per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
+Per impostazione predefinita, [!DNL Marketo Sales Insight] utilizza il campo **[!UICONTROL Lead Score]** per calcolare stelle e fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
 >[!TIP]
 >
@@ -27,33 +27,33 @@ Per impostazione predefinita, Marketo Sales Insight utilizza il campo **Punteggi
 >
 >**Definizione**
 >
->* **Stelle**: le stelle rappresentano il punteggio lead totale rispetto ad altri lead.
->* **Fiamme**: le fiamme rappresentano l&#39;urgenza - quanto il punteggio di un lead è cambiato di recente.
+>* **[!UICONTROL Stars]**: le stelle rappresentano il punteggio di lead totale rispetto ad altri lead.
+>* **[!UICONTROL Flames]**: le fiamme rappresentano l&#39;urgenza - quanto il punteggio di un lead è cambiato di recente.
 >
 
-1. In **Amministratore**, fai clic su **Insight vendite**.
+1. In **[!UICONTROL Admin]**, fare clic su **[!UICONTROL Sales Insight]**.
 
    ![](assets/image2014-9-16-13-3a27-3a19.png)
 
-1. In **Impostazioni punteggio lead**, fare clic su **Modifica**.
+1. In **[!UICONTROL Lead Scoring Settings]**, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-16-13-3a27-3a33.png)
 
-1. Selezionare il campo da utilizzare per **Stelle**.
+1. Selezionare il campo da utilizzare per **[!UICONTROL Stars]**.
 
    ![](assets/image2014-9-16-13-3a27-3a45.png)
 
-1. Selezionare il campo da utilizzare per **Fiamme**.
+1. Selezionare il campo da utilizzare per **[!UICONTROL Flames]**.
 
    ![](assets/image2014-9-16-13-3a28-3a1.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-13-3a28-3a18.png)
 
    >[!NOTE]
    >
-   >Il ricalcolo degli approfondimenti sulle vendite richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
+   >Il ricalcolo di [!DNL Sales insight] richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
 
    >[!MORELIKETHIS]
    >

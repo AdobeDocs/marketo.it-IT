@@ -4,9 +4,9 @@ description: Aggiungere uno snippet a una pagina di destinazione - Documentazion
 title: Aggiungere uno snippet a una pagina di destinazione
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ I frammenti sono piccoli frammenti di HTML che possono seguire le regole e conte
 >
 >[Crea snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md)
 
-1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
+1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-15-3a4-3a28.png)
 
-1. Nell&#39;editor pagina di destinazione, trascina sull&#39;elemento **Snippet**.
+1. Nell&#39;editor pagina di destinazione, trascinare sull&#39;elemento **[!UICONTROL Snippet]**.
 
    ![](assets/image2015-5-21-12-3a46-3a34.png)
 
-1. Trova il tuo frammento, selezionalo e fai clic su **Salva**.
+1. Trovare il frammento, selezionarlo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-15-3a4-3a14.png)
 

@@ -4,9 +4,9 @@ description: Approvare/Annullare l’approvazione di un programma e-mail - Docum
 title: Approvare/Annullare l’approvazione di un programma e-mail
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 Ora che il programma è pronto, il passaggio finale è quello di approvarlo. Ecco come:
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -37,7 +37,7 @@ Ora che il programma è pronto, il passaggio finale è quello di approvarlo. Ecc
    >
    >Se non approvi il tuo programma e-mail, l’e-mail non verrà inviata.
 
-1. Sotto il riquadro **Approvazione** procedere e fare clic su **Approva programma**.
+1. Sotto il riquadro **[!UICONTROL Approval]** procedere e fare clic su **[!UICONTROL Approve Program]**.
 
    ![](assets/image2014-9-12-13-3a43-3a36.png)
 
@@ -53,7 +53,7 @@ Ora che il programma è pronto, il passaggio finale è quello di approvarlo. Ecc
 
 Se cambi idea e decidi di non volerla uscire, puoi annullare l’approvazione del programma e-mail.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -61,7 +61,7 @@ Se cambi idea e decidi di non volerla uscire, puoi annullare l’approvazione de
 
    ![](assets/selectemailprogram-2.jpg)
 
-1. Nel riquadro **Approvazione**, fai clic su **Annulla approvazione programma**.
+1. Nel riquadro **[!UICONTROL Approval]**, fare clic su **[!UICONTROL Unapprove Program]**.
 
    ![](assets/image2014-9-12-13-3a44-3a28.png)
 

@@ -4,9 +4,9 @@ description: Campi personalizzati dei membri del programma - Documentazione di M
 title: Campi personalizzati del membro del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '403'
 ht-degree: 1%
 
 ---
@@ -17,33 +17,33 @@ I campi personalizzati dei membri del programma consentono di raccogliere dati s
 
 ## Crea un campo personalizzato membro del programma {#create-a-program-member-custom-field}
 
-1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
+1. In Marketo, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/two.png)
 
-1. Fare clic su **[!UICONTROL Nuovo campo personalizzato]**.
+1. Fai clic su **[!UICONTROL New Custom Field]**.
 
    ![](assets/three.png)
 
-1. Fare clic sull&#39;elenco a discesa Oggetto e selezionare l&#39;oggetto desiderato.
+1. Fare clic sul menu a discesa **[!UICONTROL Object]** e selezionare l&#39;oggetto desiderato.
 
    ![](assets/four.png)
 
    >[!NOTE]
    >
-   >I campi personalizzati della persona e del membro del programma non possono condividere lo stesso nome.
+   >I campi personalizzati [!UICONTROL Person] e [!UICONTROL Program Member] non possono condividere lo stesso nome.
 
-1. Compila i campi rimanenti e fai clic su **[!UICONTROL Crea]**.
+1. Compila i campi rimanenti e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >I tipi supportati per i campi personalizzati dei membri del programma sono: booleano, data, datetime, float, integer, string, URL. [Ulteriori informazioni sui tipi di campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
+   >I tipi supportati per i campi personalizzati [!UICONTROL Program Member] sono: booleano, data, datetime, float, integer, string, URL. [Ulteriori informazioni sui tipi di campo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md){target="_blank"}.
 
 ## Descrizioni degli oggetti {#object-descriptions}
 

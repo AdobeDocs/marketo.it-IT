@@ -4,9 +4,9 @@ description: Fare riferimento a un elenco o a un elenco avanzato in più aree di
 title: Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Gli elenchi e gli elenchi avanzati possono essere condivisi e utilizzati come ri
 
 ## Condividere un elenco o un elenco avanzato {#share-a-list-or-smart-list}
 
-1. Vai al **[!UICONTROL database]**.
+1. Passare a **[!UICONTROL Database]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-1.png)
 
-1. Fai clic con il pulsante destro del mouse su una cartella della campagna. Seleziona **Nuova cartella**.
+1. Fai clic con il pulsante destro del mouse su una cartella della campagna. Seleziona **[!UICONTROL New Folder]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-2.png)
 
@@ -33,7 +33,7 @@ Gli elenchi e gli elenchi avanzati possono essere condivisi e utilizzati come ri
    >
    >Assets può essere condiviso tra aree di lavoro solo se sono nidificate in una cartella.
 
-1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-3.png)
 
@@ -41,11 +41,11 @@ Gli elenchi e gli elenchi avanzati possono essere condivisi e utilizzati come ri
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-4.png)
 
-1. Fai clic con il pulsante destro del mouse sulla nuova cartella e seleziona **[!UICONTROL Condividi cartella]**.
+1. Fare clic con il pulsante destro del mouse sulla nuova cartella e selezionare **[!UICONTROL Share folder]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-5.png)
 
-1. Scegli un **[!UICONTROL Workspace]** con cui condividere e fai clic su **[!UICONTROL Salva]**.
+1. Scegli un **[!UICONTROL Workspace]** da condividere con e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/reference-a-list-or-smart-list-across-workspaces-6.png)
 

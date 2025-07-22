@@ -1,45 +1,45 @@
 ---
 unique-page-id: 10099102
-description: Rilasci di plug-in per Microsoft Dynamics MSI - Documentazione di Marketo - Documentazione del prodotto
-title: Versioni dei plug-in per Microsoft Dynamics MSI
+description: Rilasci di plug-in per  [!DNL Microsoft Dynamics] MSI - Documentazione di Marketo - Documentazione del prodotto
+title: Versioni plug-in per  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6dcda9b86555c17b3492a02f3985db7d2acd8a32
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 0%
+source-wordcount: '394'
+ht-degree: 1%
 
 ---
 
-# Versioni dei plug-in per Microsoft Dynamics MSI {#plug-in-releases-for-microsoft-dynamics-msi}
+# Versioni plug-in per [!DNL Microsoft Dynamics] MSI {#plug-in-releases-for-microsoft-dynamics-msi}
 
-La prima volta che esegui la sincronizzazione con Microsoft Dynamics, scarichi e installi la versione più recente dei plug-in per Marketo Sales Insight (MSI). Periodicamente, il Marketo Engage aggiorna questi plug-in, in modo da poter tornare nella stessa posizione per scaricare la nuova versione.
+La prima volta che esegui la sincronizzazione con [!DNL Microsoft Dynamics], scarichi e installi la versione più recente dei plug-in per Marketo Sales Insight (MSI). Periodicamente, Marketo aggiorna questi plug-in, in modo da poter tornare nella stessa posizione per scaricare la nuova versione.
 
-Se utilizzi la soluzione di sincronizzazione CRM nativa di Marketo per Dynamics, [scarica l&#39;ultimo plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corrispondente alla versione di Dynamics. Per coloro che hanno una sincronizzazione personalizzata e hanno acquistato Marketo Sales Insight, il pacchetto [è qui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
+Se utilizzi la soluzione di sincronizzazione CRM nativa di Marketo per [!DNL Dynamics], [scarica l&#39;ultimo plug-in](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md){target="_blank"} corrispondente alla versione [!DNL Dynamics]. Per chi dispone di una sincronizzazione personalizzata e ha acquistato Marketo Sales Insight, il pacchetto [è qui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
 >[!NOTE]
 >
->Queste versioni funzionano sia per le versioni on-premise che per quelle online di Dynamics.
+>Queste versioni funzionano sia per la versione on-premise che per la versione online di [!DNL Dynamics].
 
 ## Aggiornamento della soluzione MSI {#upgrading-your-msi-solution}
 
-1. Importa la versione più recente della soluzione _sulla versione esistente_ di Dynamics CRM premendo il pulsante **[!UICONTROL Importa]** in Dynamics.
+1. Importare la versione più recente della soluzione _sulla versione esistente_ del CRM [!DNL Dynamics] premendo il pulsante **[!UICONTROL Import]** in [!DNL Dynamics].
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-1.png)
 
 >[!NOTE]
 >
->Esempio: se la versione di Dynamics CRM è 2.0.0.20 e la versione più recente è 2.0.0.21, puoi importare _over_ versione 2.0.0.20.
+>Esempio: se il CRM [!DNL Dynamics] ha la versione 2.0.0.20 e la versione più recente è 2.0.0.21, puoi importare _over_ versione 2.0.0.20.
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-2.png)
 
-1. Seleziona **[!UICONTROL Fase per l&#39;aggiornamento]** e **[!UICONTROL Gestisci personalizzazioni]**, quindi fai clic su **[!UICONTROL Importa]**.
+1. Selezionare **[!UICONTROL Stage for Upgrade]** e **[!UICONTROL Maintain customizations]**, quindi fare clic su **[!UICONTROL Import]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-3.png)
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/plug-in-releases-for-microsoft-dynamics-msi-4.png)
 
@@ -103,7 +103,7 @@ Ed è tutto! Dopo l’aggiornamento verrà visualizzata una sola soluzione MSI.
   <tr> 
    <td>10/01/20</td> 
    <td>2.0.0.21</td> 
-   <td>Correzione bug: assegnazione dell’accesso ai campi di configurazione dell’API MSI per gli utenti con il ruolo Sales Insight.</td> 
+   <td>Correzione bug: assegnazione dell’accesso ai campi di configurazione API MSI per gli utenti con ruolo Sales Insight.</td> 
   </tr> 
   <tr> 
    <td>07/20/20</td> 
@@ -113,7 +113,7 @@ Ed è tutto! Dopo l’aggiornamento verrà visualizzata una sola soluzione MSI.
   <tr> 
    <td>06/12/20</td> 
    <td>2.0.0.19</td> 
-   <td>Correzione bug: per nascondere la password segreta MSI nella configurazione API MSD.</td> 
+   <td>Correzione bug: per nascondere la password segreta MSI nella configurazione API di MSD.</td> 
   </tr> 
   <tr> 
    <td>05/26/20</td> 
@@ -128,7 +128,7 @@ Ed è tutto! Dopo l’aggiornamento verrà visualizzata una sola soluzione MSI.
   <tr> 
    <td>04/28/20</td> 
    <td>2.0.0.16</td> 
-   <td>Correzione bug: rimozione della dipendenza del collegamento per l'impostazione della mappa del sito di CRM MSD.</td> 
+   <td>Correzione bug: rimozione della dipendenza del collegamento per l'impostazione della mappa del sito di MSD CRM.</td> 
   </tr> 
  </tbody> 
 </table>

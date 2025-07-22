@@ -4,18 +4,18 @@ description: Utilizzare i filtri di segmento in un elenco avanzato - Documentazi
 title: Utilizzare i filtri di segmento in un elenco avanzato
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
 
-# Utilizzare i filtri di segmento in un elenco avanzato {#use-segment-filters-in-a-smart-list}
+# Utilizzare i filtri di segmento in un [!UICONTROL Smart List] {#use-segment-filters-in-a-smart-list}
 
 >[!PREREQUISITES]
 >
->* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
+>* [Crea un [!UICONTROL Smart List]](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 >* [Crea una segmentazione](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md)
 
 Ottimizza le prestazioni degli elenchi avanzati utilizzando i filtri di segmento.

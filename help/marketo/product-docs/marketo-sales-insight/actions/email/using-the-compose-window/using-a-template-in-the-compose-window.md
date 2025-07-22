@@ -3,9 +3,9 @@ description: Utilizzo di un modello nella finestra Componi - Documentazione di M
 title: Utilizzo di un modello nella finestra Componi
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ## Ricerca e utilizzo dei modelli {#finding-and-using-templates}
 
-1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
+1. Crea la bozza dell&#39;e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **[!UICONTROL Compose]** nell&#39;intestazione).
 
    ![](assets/using-a-template-in-the-compose-window-1.png)
 
-1. Compilare il campo A.
+1. Compilare il campo [!UICONTROL To].
 
    ![](assets/using-a-template-in-the-compose-window-2.png)
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    ![](assets/using-a-template-in-the-compose-window-3.png)
 
-1. Selezionare una categoria in cui eseguire la ricerca oppure selezionare Tutte per eseguire la ricerca in tutte le categorie.
+1. Selezionare una categoria in cui eseguire la ricerca oppure selezionare [!UICONTROL All] per eseguire la ricerca in tutte le categorie.
 
    ![](assets/using-a-template-in-the-compose-window-4.png)
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 **fino a cinque** categorie di modelli specifiche preferite per accedere rapidamente ai modelli più utilizzati.
 
-1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
+1. Crea la bozza dell&#39;e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **[!UICONTROL Compose]** nell&#39;intestazione).
 
    ![](assets/using-a-template-in-the-compose-window-6.png)
 
-1. Fare clic sull&#39;icona **+** accanto a Preferiti.
+1. Fai clic sull&#39;icona **+** accanto a [!UICONTROL Favorites].
 
    ![](assets/using-a-template-in-the-compose-window-7.png)
 
-1. Fai clic sul menu a discesa **Aggiungi una categoria** e seleziona la categoria desiderata.
+1. Fare clic sul menu a discesa **[!UICONTROL Pin a Category]** e selezionare la categoria desiderata.
 
    ![](assets/using-a-template-in-the-compose-window-8.png)
 
@@ -70,6 +70,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Preferiti** per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
+   >**[!UICONTROL Favorites]** per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
 
    La categoria selezionata è bloccata.

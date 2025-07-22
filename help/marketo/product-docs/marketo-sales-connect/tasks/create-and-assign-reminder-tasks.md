@@ -3,10 +3,10 @@ description: Creazione e assegnazione di attività promemoria - Documentazione d
 title: Crea e assegna attività promemoria
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 1%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Le attività di promemoria sono un ottimo modo per rimanere al passo con il coinvolgimento di clienti e potenziali clienti. Per creare un&#39;attività, eseguire la procedura seguente.
 
-1. Fare clic su **Centro comandi**.
+1. Fai clic su **[!UICONTROL Command Center]**.
 
    ![](assets/create-and-assign-reminder-tasks-1.png)
 
-1. Le attività vengono aperte per impostazione predefinita. Fai clic su **Aggiungi attività**.
+1. Le attività vengono aperte per impostazione predefinita. Fai clic su **[!UICONTROL Add Task]**.
 
    ![](assets/create-and-assign-reminder-tasks-2.png)
 
-1. Seleziona il tipo di attività da E-mail, Chiamata, Posta in arrivo o Attività personalizzata.
+1. Selezionare il tipo di attività tra [!UICONTROL Email], [!UICONTROL Call], [!UICONTROL InMail] o [!UICONTROL Custom].
 
    ![](assets/create-and-assign-reminder-tasks-3.png)
 
@@ -46,6 +46,6 @@ Le attività di promemoria sono un ottimo modo per rimanere al passo con il coin
 
    ![](assets/create-and-assign-reminder-tasks-8.png)
 
-1. Aggiungere tutti i dettagli sull&#39;attività che si desidera rendere disponibili quando si completa l&#39;attività, ad esempio le note di conversazione telefonica, un modello di messaggio InMail o anche le note sulla persona. Al termine, fai clic su **Crea**.
+1. Aggiungere tutti i dettagli sull&#39;attività che si desidera rendere disponibili quando si completa l&#39;attività, ad esempio le note di conversazione telefonica, un modello di messaggio InMail o anche le note sulla persona. Al termine, fai clic su **[!UICONTROL Create]**.
 
    ![](assets/create-and-assign-reminder-tasks-9.png)

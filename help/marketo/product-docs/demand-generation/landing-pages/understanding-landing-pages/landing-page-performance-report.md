@@ -4,9 +4,9 @@ description: Rapporto sulle prestazioni della pagina di destinazione - Documenti
 title: Rapporto sulle prestazioni della pagina di destinazione
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,8 @@ Scopri quante persone hanno compilato i moduli nelle pagine di destinazione e qu
 >
 >Se noti una discrepanza nei numeri tra il rapporto Prestazioni elenchi avanzati e pagine di destinazione, è probabile che tali elenchi filtrino i dati solo in base alle persone, mentre i rapporti Prestazioni pagine di destinazione includono dati social (Facebook, Google Ads, ecc.) e attività anonime, oltre ai dati relativi alle persone.
 
-1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il tipo di report [Prestazioni pagina di destinazione](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda Report.
+1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il [!UICONTROL Landing Page Performance] [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda [!UICONTROL Report].
 1. Tutto qui. Esplora il rapporto per valutare il funzionamento delle pagine di destinazione.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)

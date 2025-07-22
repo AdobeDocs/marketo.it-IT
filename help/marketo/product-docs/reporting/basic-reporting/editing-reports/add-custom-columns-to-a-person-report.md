@@ -4,9 +4,9 @@ description: Aggiungere colonne personalizzate a un rapporto sulle persone - Doc
 title: Aggiungere colonne personalizzate a un rapporto Persona
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Puoi filtrare ulteriormente le metriche nei report sulle persone utilizzando i tuoi [elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/understanding-smart-lists.md) come colonne personalizzate.
 
-1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/ma-1.png)
 
-1. Selezionare il report e fare clic sulla scheda **Configurazione**.
+1. Selezionare il report e fare clic sulla scheda **[!UICONTROL Setup]**.
 
    ![](assets/two-1.png)
 
-1. Trascina su **Colonne personalizzate**.
+1. Trascinare su **[!UICONTROL Custom Columns]**.
 
    ![](assets/three-1.png)
 
@@ -31,7 +31,7 @@ Puoi filtrare ulteriormente le metriche nei report sulle persone utilizzando i t
 
    ![](assets/image2014-9-16-16-3a39-3a34.png)
 
-1. Ce l&#39;hai fatta! Fai clic sulla scheda **Report** per visualizzare il report con le nuove colonne.
+1. Ce l&#39;hai fatta! Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare il report con le nuove colonne.
 
    ![](assets/five-1.png)
 

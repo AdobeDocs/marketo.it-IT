@@ -4,16 +4,16 @@ description: Aggiunta dell’annullamento automatico dell’abbonamento a un mod
 title: Aggiungere annullamenti automatici dell’abbonamento a un modello
 exl-id: 82319fb8-75d5-4f24-87dc-d14814a06224
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Aggiungere annullamenti automatici dell’abbonamento a un modello {#add-auto-unsubscribes-to-a-template}
 
-1. Seleziona il modello e fai clic su **Modifica** nella sezione Annulla iscrizione.
+1. Selezionare il modello e fare clic su **[!UICONTROL Edit]** nella sezione [!UICONTROL Unsubscribe].
 
 1. Seleziona se desideri aggiungere l’annullamento automatico dell’abbonamento, l’annullamento automatico del blocco dell’abbonamento o entrambi.
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->È inoltre possibile modificare la modalità di visualizzazione di questi messaggi di annullamento dell&#39;iscrizione dalla scheda **Fuso orario e annullamento dell&#39;iscrizione** in **Impostazioni**.
+>È inoltre possibile modificare l&#39;aspetto di questi messaggi di annullamento dell&#39;abbonamento dalla scheda **[!UICONTROL Timezone & Unsubscribes]** in **[!UICONTROL Settings]**.

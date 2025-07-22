@@ -4,30 +4,30 @@ description: Abilitazione della sincronizzazione dei campi personalizzati per lâ
 title: Abilitazione della sincronizzazione dei campi personalizzati per Revenue Cycle Analytics
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '80'
+ht-degree: 1%
 
 ---
 
-# Abilitazione della sincronizzazione dei campi personalizzati per Revenue Cycle Analytics {#enabling-custom-field-sync-for-revenue-cycle-analytics}
+# Abilitazione sincronizzazione campi personalizzati per [!UICONTROL Revenue Cycle Analytics] {#enabling-custom-field-sync-for-revenue-cycle-analytics}
 
 I passaggi seguenti ti consentono di utilizzare campi personalizzati nei rapporti RCA.
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Analisi del ciclo dei ricavi**, quindi su **Sincronizzazione campi personalizzati**.
+1. Fare clic su **[!UICONTROL Revenue Cycle Analytics]**, quindi su **[!UICONTROL Custom Field Sync]**.
 
    ![](assets/two.png)
 
-1. Seleziona il **Nome campo**, quindi fai clic su **Modifica opzione di sincronizzazione**.
+1. Seleziona **[!UICONTROL Field Name]**, quindi fai clic su **[!UICONTROL Edit Sync Option]**.
 
    ![](assets/three.png)
 
-1. In Stato sincronizzazione selezionare **Abilitato**, quindi fare clic su **Salva**.
+1. In **[!UICONTROL Sync Status]**, selezionare **[!UICONTROL Enabled]**, quindi fare clic su **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -39,4 +39,4 @@ I passaggi seguenti ti consentono di utilizzare campi personalizzati nei rapport
 
    >[!NOTE]
    >
-   >Dopo lâ€™abilitazione del campo, i dati saranno disponibili in Revenue Cycle Analytics il giorno successivo.
+   >Dopo l&#39;attivazione del campo, i dati saranno disponibili in [!UICONTROL Revenue Cycle Analytics] il giorno successivo.

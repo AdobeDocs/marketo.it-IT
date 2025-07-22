@@ -4,10 +4,10 @@ description: Anteprima e test di una campagna web - Documenti Marketo - Document
 title: Anteprima e test di una campagna web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 0%
+source-wordcount: '369'
+ht-degree: 1%
 
 ---
 
@@ -21,43 +21,43 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 ## Visualizzare l’anteprima di una campagna web nella pagina di creazione {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
-1. Fai clic su **Crea nuova campagna web** o sull&#39;icona per modificare una campagna esistente.
+1. Fare clic su **[!UICONTROL Create New Web Campaign]** o sull&#39;icona per modificare una campagna esistente.
 
    ![](assets/create-new-or-edit-web-campaign.png)
 
-1. In Anteprima sul sito aggiungere l&#39;URL della pagina e fare clic su **Anteprima**. Viene visualizzata una nuova finestra/scheda con l’anteprima della campagna.
+1. In Anteprima sul sito aggiungere l&#39;URL della pagina e fare clic su **[!UICONTROL Preview]**. Viene visualizzata una nuova finestra/scheda con l’anteprima della campagna.
 
    ![](assets/three-1.png)
 
    >[!TIP]
    >
-   >Fai clic su **Condividi** per aprire un&#39;e-mail con un URL fisso dell&#39;anteprima della campagna.
+   >Fare clic su **[!UICONTROL Share]** per aprire un&#39;e-mail con un URL fisso dell&#39;anteprima della campagna.
 
    >[!NOTE]
    >
-   >Puoi anche installare un plug-in del browser ([Chrome](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [Firefox](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) per una migliore esperienza nella visualizzazione dell&#39;anteprima della campagna. Consulta la sezione seguente.
+   >È inoltre possibile installare un plug-in del browser ([[!DNL Chrome]](https://chrome.google.com/webstore/detail/marketo-web-personalizati/ldiddonjplchallbngbccbfdfeldohkj) o [[!DNL Firefox]](https://rtp-static.marketo.com/rtp/libs/mwp-0.0.0.8.xpi)) per una migliore esperienza di visualizzazione della campagna. Consulta la sezione seguente.
 
 ## Visualizzare l’anteprima di una campagna web nella pagina di creazione utilizzando il plug-in del browser {#preview-a-web-campaign-on-the-creation-page-using-the-browser-plug-in}
 
 1. Seguire i punti 1 e 2 della sezione precedente.
 
-1. Fai clic sul collegamento al plug-in del browser (in questo caso si utilizza Chrome).
+1. Fare clic sul collegamento al plug-in del browser (in questo caso si sta utilizzando [!DNL Chrome]).
 
    ![](assets/4-1.png)
 
-1. Viene visualizzata una nuova finestra o scheda. Fai clic su **Aggiungi a Chrome**.
+1. Viene visualizzata una nuova finestra o scheda. Fai clic su **[!UICONTROL Add to Chrome]**.
 
    ![](assets/five.png)
 
-1. Fare clic su **Aggiungi estensione**.
+1. Fai clic su **[!UICONTROL Add Extension]**.
 
    ![](assets/six.png)
 
-1. Torna a Marketo. Aggiungi l&#39;URL della pagina e fai clic su **Anteprima**.
+1. Torna a Marketo. Aggiungere l&#39;URL della pagina e fare clic su **[!UICONTROL Preview]**.
 
    ![](assets/seven.png)
 
@@ -67,7 +67,7 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 ## Visualizzare l’anteprima di una campagna web nella pagina Campagne web {#preview-a-web-campaign-on-the-web-campaigns-page}
 
-1. Per visualizzare l&#39;elenco delle campagne Web, è sufficiente scegliere una campagna e fare clic sull&#39;icona **Anteprima**.
+1. Per visualizzare l&#39;elenco delle campagne Web, è sufficiente scegliere una campagna e fare clic sull&#39;icona **[!UICONTROL Preview]**.
 
    ![](assets/web-campaigns-1-preview-hand.png)
 
@@ -77,17 +77,17 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 Crea un segmento sandbox e una campagna.
 
-1. Vai a **Segmenti**.
+1. Vai a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
-1. Fare clic su **Crea nuovo**.
+1. Fai clic su **[!UICONTROL Create New]**.
 
    ![](assets/image2015-9-10-10-3a42-3a39.png)
 
 1. Denomina il segmento.
 
-1. In Comportamento trascinare Includi pagine nell&#39;area di lavoro. Aggiungi il valore &#42;sandbox=1&#42;. Fai clic su **Salva e definisci campagna**.
+1. In [!UICONTROL Behavioral] trascinare [!UICONTROL Include Pages] nell&#39;area di lavoro. Aggiungi il valore &#42;sandbox=1&#42;. Fai clic su **[!UICONTROL Save & Define Campaign]**.
 
    ![](assets/segment.png)
 
@@ -95,7 +95,7 @@ Crea un segmento sandbox e una campagna.
 
    ![](assets/set-web-campaign-target-segment.jpg)
 
-1. Completa la creatività della campagna e fai clic su **Avvia**.
+1. Completare la creatività della campagna e fare clic su **[!UICONTROL Launch]**.
 
    ![](assets/click-launch.jpg)
 

@@ -4,9 +4,9 @@ description: Iscrizione a un elenco avanzato - Documentazione di Marketo - Docum
 title: Iscrizione a un elenco avanzato
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ L’iscrizione a elenchi avanzati è un ottimo modo per tenere traccia delle per
 
 Puoi creare una sottoscrizione a un elenco avanzato in due posizioni separate:
 
-* Attività di marketing
-* Database
+* [!UICONTROL Marketing Activities]
+* [!UICONTROL Database]
 
 Gli abbonamenti utilizzano l’elenco completo delle persone al momento in cui vengono eseguiti.
 
-Gli abbonamenti vivono dove si trova il tuo elenco avanzato, in Attività di marketing o Database.
+Gli abbonamenti vivono dove si trova il tuo elenco avanzato, in [!UICONTROL Marketing Activities] o [!UICONTROL Database].
 
 È possibile creare più sottoscrizioni dallo stesso elenco avanzato.
 
@@ -36,39 +36,39 @@ Le sottoscrizioni sono specifiche dell’area di lavoro. Ad esempio, questo elen
 
 ## Creare una sottoscrizione a un elenco avanzato {#create-a-smart-list-subscription}
 
-1. Vai a **Database** o **Attività di marketing**.
+1. Passare a **[!UICONTROL Database]** o **[!UICONTROL Marketing Activities]**.
 
    ![](assets/db.png)
 
-1. Seleziona l’elenco avanzato per il quale desideri creare una sottoscrizione. Fai clic su **Azioni elenco** e seleziona **Nuova sottoscrizione elenco avanzato**.
+1. Seleziona l’elenco avanzato per il quale desideri creare una sottoscrizione. Fare clic su **[!UICONTROL List Actions]** e selezionare **[!UICONTROL New Smart List Subscription]**.
 
    ![](assets/three.png)
 
-1. Assegna un **Nome** al tuo abbonamento, quindi seleziona o immetti gli indirizzi e-mail dei **Destinatari**.
+1. Assegna un **[!UICONTROL Name]** al tuo abbonamento, quindi seleziona o immetti gli indirizzi e-mail di **[!UICONTROL Recipients]**.
 
    ![](assets/image2015-9-14-13-3a18-3a38.png)
 
-1. Fare clic sull&#39;elenco **Frequenza** e selezionare una frequenza.
+1. Fare clic sull&#39;elenco **[!UICONTROL Frequency]** e selezionare una frequenza.
 
    ![](assets/image2015-9-14-13-3a21-3a21.png)
 
-1. Imposta la data di **fine consegna**. Puoi selezionare **Mai** o una data del calendario.
+1. Imposta la data **[!UICONTROL End Delivery]**. È possibile selezionare **[!UICONTROL Never]** o una data calendario.
 
    ![](assets/image2015-9-14-13-3a23-3a37.png)
 
-1. Fai clic su **Formato** e scegli dall&#39;elenco.
+1. Fare clic su **[!UICONTROL Format]** e scegliere dall&#39;elenco.
 
    ![](assets/image2015-9-14-13-3a25-3a25.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-9-11-15-3a58-3a4.png)
 
-1. Il nuovo abbonamento all’elenco avanzato viene visualizzato nella parte superiore dell’elenco nella scheda Abbonamenti. Fai clic su **Invia** se desideri inviare ora e non attendere la consegna dell&#39;e-mail pianificata.
+1. Il nuovo abbonamento all’elenco avanzato viene visualizzato nella parte superiore dell’elenco nella scheda Abbonamenti. Fare clic su **[!UICONTROL Send]** se si desidera inviare ora e non attendere la consegna dell&#39;e-mail pianificata.
 
    ![](assets/eight.png)
 
-1. È consigliabile deselezionare la casella di controllo Attivo per disattivare un abbonamento a un elenco avanzato se nessuno vi è abbonato.
+1. È consigliabile deselezionare la casella di controllo **[!UICONTROL Active]** per disattivare una sottoscrizione a un elenco avanzato se non vi è alcuna sottoscrizione.
 
    ![](assets/nine.png)
 
@@ -80,7 +80,7 @@ I destinatari riceveranno un’e-mail con l’opzione di download del rapporto e
 
 >[!NOTE]
 >
->Se l&#39;impostazione [Amministratore sottoscrizione sicura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostata su **Sì**, solo gli utenti con accesso all&#39;istanza di Marketo saranno in grado di scaricare il report.
+>Se l&#39;impostazione [Amministratore sottoscrizione sicura](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/secure-the-subscription-admin-setting.md) è impostata su **[!UICONTROL Yes]**, solo gli utenti con accesso all&#39;istanza di Marketo saranno in grado di scaricare il report.
 
 ![](assets/image2015-4-17-15-3a46-3a47.png)
 
@@ -96,7 +96,7 @@ L’e-mail fornisce anche informazioni aggiuntive sui filtri utilizzati per crea
 
 ## Eliminare una sottoscrizione {#delete-a-subscription}
 
-Per eliminare una sottoscrizione, selezionarla nella scheda sottoscrizioni e fare clic su Elimina sottoscrizione.
+Per eliminare una sottoscrizione, selezionarla nella scheda Sottoscrizioni e fare clic su **[!UICONTROL Delete Subscription]**.
 
 ![](assets/twelve.png)
 

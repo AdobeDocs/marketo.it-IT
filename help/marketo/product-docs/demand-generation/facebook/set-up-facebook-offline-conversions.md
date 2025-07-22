@@ -4,69 +4,69 @@ description: Configurare le conversioni offline di Facebook - Documentazione di 
 title: Configurare le conversioni offline di Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
 
-# Configurare le conversioni offline di Facebook {#set-up-facebook-offline-conversions}
+# Configura [!DNL Facebook] conversioni offline {#set-up-facebook-offline-conversions}
 
-Inviando di nuovo i dati di conversione offline a Facebook per le persone create tramite Annunci lead, il team pubblicitario può ottimizzare la spesa pubblicitaria in modo migliore che mai. Ecco come configurarlo.
+Inviando di nuovo i dati di conversione offline a [!DNL Facebook] per le persone create tramite annunci lead, il tuo team pubblicitario può ottimizzare la spesa pubblicitaria meglio che mai. Ecco come configurarlo.
 
 >[!PREREQUISITES]
 >
->* Devi [configurare Facebook Lead Ads](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
+>* Devi [configurare i lead Ads di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 >* È necessario disporre di un modello approvato in [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 
 ## Configurazione amministratore {#admin-configuration}
 
-1. Vai a Marketo **Amministratore**.
+1. Passare a Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-13-3a8-3a45.png)
 
-1. Vai a **LaunchPoint** e fai doppio clic sul servizio Facebook Lead Ads creato in precedenza.
+1. Vai a **[!UICONTROL LaunchPoint]** e fai doppio clic sul servizio Annunci lead di Facebook creato in precedenza.
 
    >[!NOTE]
    >
-   >Se non lo hai ancora fatto, [Configura gli annunci lead di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), quindi torna qui.
+   >Se non l&#39;hai ancora fatto, [Configura [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md), quindi torna qui.
 
    ![](assets/image2016-11-29-13-3a10-3a43.png)
 
-1. Se lo desideri, modifica **Nome visualizzato** per includere le conversioni offline. Fai clic su **Avanti**.
+1. Se lo desideri, modifica **[!UICONTROL Display Name]** per includere le conversioni offline. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2016-11-29-13-3a12-3a19.png)
 
-1. Seleziona **Abilita conversioni offline** e fai clic su **Avanti**.
+1. Selezionare **[!UICONTROL Enable Offline Conversions]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/image2016-11-29-13-3a13-3a32.png)
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2016-11-29-13-3a14-3a17.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Dolce! Hai terminato a metà l’abilitazione delle conversioni offline di Facebook. Passiamo al Modeler del ciclo dei ricavi per mappare le fasi.
+   Dolce! Hai terminato a metà l&#39;abilitazione di [!DNL Facebook] Conversioni offline. Passiamo al Modeler del ciclo dei ricavi per mappare le fasi.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
 ## Configurazione Modeler del ciclo dei ricavi {#revenue-cycle-modeler-configuration}
 
-1. Vai a **Analytics**.
+1. Vai a **[!UICONTROL Analytics]**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 
-1. Seleziona il modello e fai clic su **Modifica bozza**.
+1. Selezionare il modello e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2016-11-29-13-3a31-3a6.png)
 
    >[!NOTE]
    >
-   >Attualmente, sono presenti 10 eventi Facebook su cui è possibile mappare le fasi del ciclo dei ricavi per:
+   >Attualmente, sono presenti 10 [!DNL Facebook] eventi a cui è possibile mappare le fasi del ciclo dei ricavi:
    >
    >* Aggiunte di informazioni di pagamento
    >* Aggiunte al carrello
@@ -79,7 +79,7 @@ Inviando di nuovo i dati di conversione offline a Facebook per le persone create
    >* Ricerche
    >* Visualizzazioni contenuto
 
-1. Seleziona la fase da mappare, quindi dal menu a discesa **Conversione Facebook**, seleziona l&#39;evento Facebook a cui vuoi mappare. Ripetere questo passaggio per mappare tutte le fasi di RCM in fasi di conversione offline in Facebook.
+1. Selezionare la fase da mappare, quindi dal menu a discesa **[!UICONTROL Facebook Conversion]** selezionare l&#39;evento [!DNL Facebook] a cui si desidera mappare l&#39;evento. Ripetere questo passaggio per mappare tutte le fasi di RCM alle fasi di conversione offline in [!DNL Facebook].
 
    ![](assets/1-1.png)
 
@@ -91,16 +91,16 @@ Inviando di nuovo i dati di conversione offline a Facebook per le persone create
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 
-   Ora, quando i lead lead ad raggiungono le fasi mappate, le conversioni vengono inviate a Facebook per il reporting.
+   Ora, quando i lead ad raggiungono le fasi mappate, le conversioni vengono inviate a [!DNL Facebook] per il reporting.
 
    >[!CAUTION]
    >
-   >Controlla il tuo account Facebook e assicurati che tutti gli [annunci siano associati](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&amp;cmsid&amp;creative=link&amp;creative_detail=advertiser-help-center&amp;create_type&amp;destination_cms_id&amp;orig_http_referrer) al set di eventi per conversioni offline di Marketo. In caso contrario, l’attribuzione potrebbe non funzionare.
+   >Controlla il tuo account [!DNL Facebook] e assicurati che tutti gli [annunci siano associati](https://www.facebook.com/business/url/?href=%2Fbusiness%2Fhelp%2Fwww%2F1776828022605281&cmsid&creative=link&creative_detail=advertiser-help-center&create_type&destination_cms_id&orig_http_referrer) al set di eventi per conversioni offline di Marketo. In caso contrario, l’attribuzione potrebbe non funzionare.
 
    >[!NOTE]
    >
-   >I dati di conversione offline vengono inviati da Marketo a Facebook diverse volte al giorno.
+   >I dati di conversione offline vengono inviati da Marketo a [!DNL Facebook] diverse volte al giorno.
 
 >[!MORELIKETHIS]
 >
->[Informazioni sulle conversioni offline di Facebook](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
+>[Informazioni [!DNL Facebook] Sulle Conversioni Offline](/help/marketo/product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)

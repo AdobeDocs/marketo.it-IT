@@ -4,16 +4,16 @@ description: Verifica annullamento iscrizione Marketo - Documentazione Marketo -
 title: Verifica annullamento iscrizione Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
 
 # Verifica annullamento iscrizione Marketo {#marketo-unsubscribe-check}
 
-Il controllo per annullare l’abbonamento a Marketo utilizza la connessione del tuo team a Marketo per impedire che le e-mail arrivino a persone non abbonate nel sistema di gestione dei lead di Marketo. Quando un utente di vendita invia un’e-mail con Sales Connect, viene effettuata una chiamata API a Marketo per verificare se l’ID e-mail non è abbonato. In caso affermativo, l’e-mail non verrà inviata.
+[!UICONTROL Marketo Unsubscribe Check] utilizza la connessione del tuo team a Marketo per impedire che le e-mail arrivino a persone non iscritte al sistema di gestione dei lead di Marketo. Quando un utente di vendita invia un&#39;e-mail con [!DNL Sales Connect], verrà effettuata una chiamata API a Marketo per verificare se l&#39;ID e-mail non è abbonato. In caso affermativo, l’e-mail non verrà inviata.
 
 >[!NOTE]
 >
@@ -21,19 +21,19 @@ Il controllo per annullare l’abbonamento a Marketo utilizza la connessione del
 
 ## Attivazione {#turning-it-on}
 
-1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
+1. Nell&#39;applicazione Web fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
-1. In Impostazioni amministrazione fare clic su **Annulla sottoscrizione**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL Unsubscribes]**.
 
    ![](assets/two-3.png)
 
-1. Fai clic su **Integrazioni**.
+1. Fai clic su **[!UICONTROL Integrations]**.
 
    ![](assets/three-3.png)
 
-1. Nella sezione Marketo Unsubscribe Check, fai clic sul cursore per attivare il controllo.
+1. Nella sezione [!UICONTROL Marketo Unsubscribe Check], fare clic sul dispositivo di scorrimento per attivare il controllo.
 
    ![](assets/four-2.png)
 

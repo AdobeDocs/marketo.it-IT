@@ -4,9 +4,9 @@ description: Panoramica del selettore dei modelli e-mail - Documenti Marketo - D
 title: Panoramica del selettore del modello e-mail
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 1c40ab5912772c2a26dccde111a468daff16c3bc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ Quando [crei un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/c
 
 ![](assets/email-template-picker-overview-1.png)
 
-**Nome** sarà il nome dell&#39;e-mail creata in base al modello, non il modello stesso. **Descrizione** si applica anche all&#39;e-mail ed è facoltativo.
+**[!UICONTROL Name]** sarà il nome dell&#39;e-mail creata in base al modello, non il modello stesso. **[!UICONTROL Description]** si applica anche all&#39;e-mail ed è facoltativo.
 
 ![](assets/two-2.png)
 
-Se il tuo indirizzo e-mail è critico e vuoi che aggiri i limiti di comunicazione, [rendilo operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) selezionando la casella. **Apri nell&#39;editor** è selezionato per impostazione predefinita e indica semplicemente che desideri iniziare a modificare il nuovo messaggio immediatamente. **Crea** significa, crea!
+Se il tuo indirizzo e-mail è critico e vuoi che aggiri i limiti di comunicazione, [rendilo operativo](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md) selezionando la casella. **[!UICONTROL Open in editor]** è selezionato per impostazione predefinita e indica semplicemente che desideri iniziare a modificare immediatamente la nuova e-mail. **[!UICONTROL Create]** significa, crea!
 
 ![](assets/three-2.png)
 
-**Modelli Starter** include una raccolta di modelli e-mail dinamici pronti all&#39;uso. Puoi utilizzarli così come sono o personalizzarli a tuo piacimento.
+**[!UICONTROL Starter Templates]** include una raccolta di modelli di e-mail reattive pronti all&#39;uso. Puoi utilizzarli così come sono o personalizzarli a tuo piacimento.
 
 ![](assets/email-template-picker-overview-4.png)
 
-**Modelli personali** è costituito da tutti i modelli creati. Potresti anche avere delle cartelle.
+**[!UICONTROL My Templates]** è costituito da tutti i modelli creati. Potresti anche avere delle cartelle.
 
 ![](assets/five-2.png)
 
-Tutte le cartelle visualizzate in E-mail > Modelli nella struttura di Design Studio saranno disponibili in **Modelli personali**.
+Tutte le cartelle visualizzate in **[!UICONTROL Emails]** > **[!UICONTROL Templates]** nella struttura [!UICONTROL Design Studio] saranno disponibili in **[!UICONTROL My Templates]**.
 
 ![](assets/six-1.png)
 
-Per visualizzare l&#39;anteprima di un modello, posizionare il puntatore sull&#39;anteprima e fare clic su **Anteprima**. È inoltre possibile fare doppio clic su di esso.
+Per visualizzare l&#39;anteprima di un modello, posizionare il puntatore sull&#39;anteprima e fare clic su **[!UICONTROL Preview]**. È inoltre possibile fare doppio clic su di esso.
 
 ![](assets/seven-1.png)
 
@@ -49,7 +49,7 @@ L&#39;anteprima mostra come verrà eseguito il rendering del modello su un compu
 
 ![](assets/nine-1.png)
 
-Se ti piace questo modello, scegli facendo clic su **Seleziona** in basso a destra. Vuoi continuare a cercare? Fai clic su **X** in alto a destra. Utilizza le frecce sinistra e destra per scorrere tra i modelli.
+Se ti piace questo modello, scegli facendo clic su **[!UICONTROL Select]** in basso a destra. Vuoi continuare a cercare? Fai clic su **X** in alto a destra. Utilizza le frecce sinistra e destra per scorrere tra i modelli.
 
 ![](assets/ten-1.png)
 

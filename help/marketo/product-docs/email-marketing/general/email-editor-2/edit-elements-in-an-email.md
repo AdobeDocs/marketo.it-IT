@@ -4,9 +4,9 @@ description: Modificare elementi in un messaggio e-mail - Documentazione di Mark
 title: Modificare elementi in un messaggio e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '473'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
 ## Come modificare l’elemento Rich Text {#how-to-edit-the-rich-text-element}
 
-1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-edited.png)
 
-1. Si aprirà l’editor e-mail. Seleziona Rich Text, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Modifica**.
+1. Si aprirà l’editor e-mail. Selezionare Rich Text, fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/three.png)
 
-1. Aggiungi/modifica il testo e premi **Salva**.
+1. Aggiungere/modificare il testo e premere **[!UICONTROL Save]**.
 
    ![](assets/four.png)
 
@@ -39,7 +39,7 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    >[!CAUTION]
    >
-   >Evitare di copiare e incollare testo da un&#39;origine RTF, ad esempio un sito Web o un documento di Word. Piuttosto, incolla prima il testo RTF in un editor di testo normale, ad esempio Blocco note (Windows) o TextEdit (Mac). Una volta che è &quot;pulito&quot;, puoi copiarlo dall’editor di testo normale e incollarlo nell’e-mail.
+   >Evitare di copiare e incollare testo da un&#39;origine RTF, ad esempio un sito Web o un documento di Word. Piuttosto, incolla prima il testo RTF in un editor di testo normale, ad esempio [!DNL Notepad] (Windows) o [!DNL TextEdit] (Mac). Una volta che è &quot;pulito&quot;, puoi copiarlo dall’editor di testo normale e incollarlo nell’e-mail.
 
 ## Come modificare l’elemento immagine {#how-to-edit-the-image-element}
 
@@ -47,7 +47,7 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/five.png)
 
-1. Fai clic sull&#39;elemento Immagine che desideri modificare, quindi fai clic sull&#39;icona a forma di ingranaggio e seleziona **Modifica**.
+1. Fare clic sull&#39;elemento Immagine che si desidera modificare, quindi fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/six.png)
 
@@ -67,13 +67,13 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
    >
    >Se desideri utilizzare un token Marketo, utilizza questa opzione. Tieni presente che quando utilizzi un token, l’immagine apparirà danneggiata nell’editor, ma verrà riprodotta in modalità Anteprima e nell’e-mail Invia campione.
 
-   Per utilizzare un URL esterno, incolla prima l’URL dell’immagine. Modifica le dimensioni in base alle tue esigenze e aggiungi del testo alternativo (facoltativo). Quindi premere **Scambia**.
+   Per utilizzare un URL esterno, incolla prima l’URL dell’immagine. Modifica le dimensioni in base alle tue esigenze e aggiungi alcuni [!UICONTROL Alt Text] (facoltativo). Quindi premere **[!UICONTROL Swap]**.
 
    ![](assets/eight.png)
 
    **Risorse del computer**
 
-   Per caricare un&#39;immagine dal computer, fare clic su **Sfoglia**.
+   Per caricare un&#39;immagine dal computer, fare clic su **[!UICONTROL Browse]**.
 
    ![](assets/nine.png)
 
@@ -81,21 +81,21 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/ten.png)
 
-   Modifica le dimensioni in base alle tue esigenze, cambia il testo alternativo (facoltativo), quindi premi **Scambia**.
+   Modifica le dimensioni in base alle tue esigenze, modifica [!UICONTROL Alt Text] (facoltativo), quindi premi **[!UICONTROL Swap]**.
 
    ![](assets/eleven.png)
 
    >[!NOTE]
    >
-   >Se stai sostituendo un&#39;immagine, dovrai selezionare la casella **Sovrascrivi immagine esistente** che viene visualizzata sotto l&#39;URL/nome dell&#39;immagine.
+   >Se stai sostituendo un&#39;immagine, devi selezionare la casella **[!UICONTROL Overwrite existing image]** che viene visualizzata sotto l&#39;URL/nome dell&#39;immagine.
 
    **Studio Progettazione**
 
-   Per inserire un&#39;immagine da Design Studio, è sufficiente individuarla...
+   Per inserire un&#39;immagine da [!UICONTROL Design Studio], individuarla...
 
    ![](assets/twelve.png)
 
-   ...e inseriscilo. Modifica le dimensioni in base alle tue esigenze, cambia il testo alternativo (facoltativo), quindi premi **Scambia**.
+   ...e inseriscilo. Modifica le dimensioni in base alle tue esigenze, modifica [!UICONTROL Alt Text] (facoltativo), quindi premi **[!UICONTROL Swap]**.
 
    ![](assets/thirteen.png)
 
@@ -105,11 +105,11 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/fourteen.png)
 
-1. Fai clic sull&#39;elemento Snippet, quindi sull&#39;icona ingranaggio e seleziona **Modifica**.
+1. Fare clic sull&#39;elemento Snippet, quindi sull&#39;icona ingranaggio e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/fifteen.png)
 
-1. Trova il tuo frammento, selezionalo e fai clic su **Salva**.
+1. Trovare il frammento, selezionarlo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/sixteen.png)
 
@@ -123,11 +123,11 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    ![](assets/nineteen.png)
 
-1. Fai clic sull&#39;elemento Video, quindi sull&#39;icona ingranaggio e seleziona **Modifica**.
+1. Fai clic sull&#39;elemento Video, quindi sull&#39;icona a forma di ingranaggio e seleziona **[!UICONTROL Edit]**.
 
    ![](assets/twenty.png)
 
-1. Incolla l’URL del video da Vimeo o YouTube. Quindi fai clic su nella casella URL per caricare l’anteprima. Modificare le dimensioni in base alle proprie esigenze, aggiungere Testo alternativo (facoltativo), quindi premere **Inserisci**.
+1. Incolla l&#39;URL del video da [!DNL Vimeo] o YouTube. Quindi fai clic su nella casella URL per caricare l’anteprima. Modifica le dimensioni in base alle tue esigenze, aggiungi [!UICONTROL Alt Text] (facoltativo), quindi premi **[!UICONTROL Insert]**.
 
    ![](assets/twentyone.png)
 

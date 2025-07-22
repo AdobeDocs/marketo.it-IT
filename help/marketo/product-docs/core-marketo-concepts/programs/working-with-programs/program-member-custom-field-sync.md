@@ -3,9 +3,9 @@ description: Sincronizzazione campi personalizzati membro del programma - Docume
 title: Sincronizzazione campo personalizzato membro programma
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '331'
 ht-degree: 6%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 6%
 >[!PREREQUISITES]
 >
 >* Creazione di [campi personalizzati membri del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md){target="_blank"}
->* [Sincronizzare una campagna Salesforce con un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
+>* [Sincronizza una  [!DNL Salesforce] campagna con un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
 
 >[!NOTE]
 >
 >L&#39;oggetto Membro del programma può contenere fino a 20 campi personalizzati. Questi campi sono disponibili per qualsiasi programma.
 
-## Mappa i campi Salesforce ai campi personalizzati dei membri del programma {#map-salesforce-fields-to-program-member-custom-fields}
+## Mappa campi Salesforce ai campi personalizzati dei membri del programma {#map-salesforce-fields-to-program-member-custom-fields}
 
-1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
+1. In Marketo, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-1.png)
 
-1. Fai clic su **[!DNL Salesforce]**, quindi su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro del programma.
+1. Fare clic su **[!DNL Salesforce]**, quindi fare clic su **[!UICONTROL Edit]** accanto a Sincronizzazione campi personalizzati membro del programma.
 
    ![](assets/program-member-custom-field-sync-2.png)
 
-1. Utilizza la casella di ricerca per individuare i campi Salesforce che desideri mappare. In questo esempio, utilizziamo Do Not Call.
+1. Utilizzare la casella di ricerca per individuare i campi [!DNL Salesforce] da mappare. In questo esempio, utilizziamo Do Not Call.
 
    ![](assets/program-member-custom-field-sync-3.png)
 
@@ -39,37 +39,37 @@ ht-degree: 6%
 
    ![](assets/program-member-custom-field-sync-4.png)
 
-1. Scegliere il campo personalizzato del membro del programma Marketo desiderato da mappare.
+1. Scegliere il Marketo [!UICONTROL Program Member Custom Field] desiderato da mappare.
 
    ![](assets/program-member-custom-field-sync-5.png)
 
    >[!NOTE]
    >
-   >Nell&#39;elenco a discesa vengono visualizzati solo i campi personalizzati dei membri del programma che corrispondono al tipo di dati del campo Salesforce.
+   >Nell&#39;elenco a discesa verranno visualizzati solo [!UICONTROL Program Member Custom Fields] che corrispondono al tipo di dati del campo [!DNL Salesforce].
 
 1. Per ulteriori mappature dei campi, deseleziona la casella di ricerca e ripeti i passaggi da 3 a 5.
 
-1. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-sync-6.png)
 
    >[!IMPORTANT]
    >
-   >In futuro, le modifiche ai dati dei membri del programma nei campi mappati verranno sincronizzate tra Marketo e Salesforce.
+   >Le modifiche ai dati dei membri del programma nei campi mappati verranno sincronizzate tra Marketo e [!DNL Salesforce] in futuro.
 
    >[!NOTE]
    >
-   >Se si rinomina o si modifica il tipo di dati di un campo in Salesforce, verrà rimossa qualsiasi mappatura di tale campo con il campo personalizzato Membro del programma. Ma puoi rimappare con il nuovo campo dopo la revisione.
+   >Se si rinomina o si modifica il tipo di dati di un campo in [!DNL Salesforce], verrà rimossa qualsiasi mappatura di tale campo con [!UICONTROL Program Member Custom Field]. Ma puoi rimappare con il nuovo campo dopo la revisione.
 
-## Annulla mappatura campi Salesforce da campi personalizzati membri del programma {#unmap-salesforce-fields-from-program-member-custom-fields}
+## Annulla mappatura campi Salesforce dai campi personalizzati dei membri del programma {#unmap-salesforce-fields-from-program-member-custom-fields}
 
 Se desideri liberare un campo per sostituirlo o semplicemente apportare una modifica generale, devi prima eseguire una rimozione dalla mappatura. Ecco come.
 
-1. In Marketo, fai clic su **[!UICONTROL Amministratore]**.
+1. In Marketo, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/program-member-custom-field-sync-7.png)
 
-1. Fai clic su **[!DNL Salesforce]**, quindi su **[!UICONTROL Modifica]** accanto a Sincronizzazione campi personalizzati membro del programma.
+1. Fare clic su **[!DNL Salesforce]**, quindi fare clic su **[!UICONTROL Edit]** accanto a Sincronizzazione campi personalizzati membro del programma.
 
    ![](assets/program-member-custom-field-sync-8.png)
 
@@ -85,7 +85,7 @@ Se desideri liberare un campo per sostituirlo o semplicemente apportare una modi
 
    ![](assets/program-member-custom-field-sync-10.png)
 
-1. La mappatura viene rimossa. Fai clic su **[!UICONTROL Salva]**.
+1. La mappatura viene rimossa. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/program-member-custom-field-sync-11.png)
 
@@ -160,4 +160,4 @@ Se desideri liberare un campo per sostituirlo o semplicemente apportare una modi
 >
 >* [Modifica dati membro programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}
 >* [Visualizza dati sulla griglia dei membri del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/manage-and-view-members.md){target="_blank"}
->* [Sincronizzazione SFDC - Sincronizzazione campagna](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+>* [Sincronizzazione SFDC - Sincronizzazione Campagna](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}

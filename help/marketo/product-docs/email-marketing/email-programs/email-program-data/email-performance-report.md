@@ -4,10 +4,10 @@ description: Rapporto sulle prestazioni delle e-mail - Documenti Marketo - Docum
 title: Rapporto prestazioni e-mail
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 6133a04124d9d4b829d092943753c7bb530dd374
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 0%
+source-wordcount: '489'
+ht-degree: 1%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte, su cui è stato fatto clic, ecc., crea un rapporto sulle prestazioni delle e-mail.
 
-1. [Crea un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona **Prestazioni e-mail** [Tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Modifica l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic sulla scheda **Report**.
+1. [Crea un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Email Performance]** [Tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Modificare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **[!UICONTROL Report]**.
 1. Ci sei! Ora esplora il rapporto per vedere come si sono svolti i messaggi e-mail.
 
    >[!NOTE]
@@ -31,7 +31,7 @@ Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte,
 
    >[!NOTE]
    >
-   >Un rapporto sulle prestazioni dell’e-mail include attività per tutte le persone, incluse quelle che sono state eliminate dopo l’invio dell’e-mail. A volte ti può capitare di voler vedere le attività solo per le persone attive. In tal caso, è necessario filtrare le persone eliminate dal rapporto. Utilizzare la scheda **Elenco avanzato** per [creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il report. Se non si applica alcun filtro a un campo specifico, impostare il filtro Indirizzo e-mail su: **non è vuoto**.
+   >Un rapporto sulle prestazioni dell’e-mail include attività per tutte le persone, incluse quelle che sono state eliminate dopo l’invio dell’e-mail. A volte ti può capitare di voler vedere le attività solo per le persone attive. In tal caso, è necessario filtrare le persone eliminate dal rapporto. Utilizzare la scheda **[!UICONTROL Smart List]** per [creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il report. Se non si applica alcun filtro a un campo specifico, impostare il filtro Indirizzo di posta elettronica su: **[!UICONTROL is not empty]**.
 
    [Selezionare le colonne del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report delle prestazioni delle e-mail:
 
@@ -75,11 +75,11 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 
 * **Regola 1**: ogni record di attività e-mail è impostato su uno dei seguenti valori: _Consegnato_, _Rimbalzato_, _Rimbalzato temporaneamente_ o _In sospeso_.
 
-* **Regola 2**: se il record e-mail mostra *Aperto*, viene conteggiato come *Consegnato*.
+* **Regola 2**: se il record e-mail mostra *[!UICONTROL Opened]*, viene conteggiato come *Consegnato*.
 
-* **Regola 3**: se il record e-mail mostra _E-mail selezionata_ o _Non iscritto_, viene conteggiato come _Consegnato_ e _Aperto_.
+* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
 
-* **Regola 4**: se l&#39;e-mail è _Aperta_, le mancate consegne vengono ignorate. Se l&#39;e-mail non è stata aperta, _Non recapitato_ ha la precedenza su _Non recapitato_ e _Non recapitato_.
+* **Regola 4**: se l&#39;e-mail è _[!UICONTROL Opened]_, i messaggi non recapitati vengono ignorati. Se l&#39;e-mail non è stata aperta,_ Non recapitato _ha la precedenza su_ Non recapitato _e_ Non recapitato _.
 
 * **Regola 5**: se non viene ricevuta alcuna attività e-mail tre giorni dopo l&#39;invio, verrà considerata _Interrotta_.
 

@@ -4,9 +4,9 @@ description: Condividere le registrazioni delle chiamate con il team - Documenta
 title: Condividi le registrazioni delle chiamate con il tuo team
 exl-id: fabd5fba-14a4-4885-93ba-9a3857e2a298
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -21,17 +21,17 @@ Sales Phone consente di registrare e salvare le registrazioni delle chiamate. Se
 
 1. Apri i dettagli della persona.
 
-1. Trova l’attività Call (Chiamata) nell’elenco delle attività.
+1. Trova [!UICONTROL Call Activity] nell&#39;elenco attività.
 
 1. Fai clic con il pulsante destro del mouse sulla registrazione della chiamata e copia l’URL del collegamento.
 
-## Copia collegamento di registrazione dall&#39;attività Salesforce {#copy-recording-link-from-the-salesforce-task}
+## Copia collegamento di registrazione dall&#39;attività [!DNL Salesforce] {#copy-recording-link-from-the-salesforce-task}
 
 >[!NOTE]
 >
->Per ottenere questo collegamento dovrai effettuare l’accesso alle chiamate a Salesforce.
+>Per ottenere questo collegamento, è necessario che le chiamate effettuino l&#39;accesso a [!DNL Salesforce].
 
-1. Passa all’attività creata in Salesforce per la chiamata.
+1. Passare all&#39;attività creata in [!DNL Salesforce] per la chiamata.
 
 1. Copiare il collegamento elencato nel campo Registrazione chiamata di vendita.
 

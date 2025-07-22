@@ -4,16 +4,16 @@ description: Sincronizzazione SFDC - Sincronizzazione oggetti personalizzati - D
 title: Sincronizzazione SFDC - Sincronizzazione oggetto personalizzato
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 79ae0d56dd4bb8bf563c6546cba54b89b5841425
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
 # Sincronizzazione SFDC: Sincronizzazione oggetto personalizzata {#sfdc-sync-custom-object-sync}
 
-Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far parte del Marketo Engage. Ecco come configurarlo.
+Anche gli oggetti personalizzati creati nell&#39;istanza [!DNL Salesforce] possono far parte di Marketo.  Ecco come configurarlo.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 >[!PREREQUISITES]
 >
->Per utilizzare un oggetto personalizzato, è necessario associarlo a un oggetto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md){target="_blank"}, [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md){target="_blank"} o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"} in Salesforce.
+>Per utilizzare un oggetto personalizzato, è necessario associarlo a un oggetto [lead](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-field-sync.md), [contact](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-contact-sync.md) o [account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md) in [!DNL Salesforce].
 
 >[!IMPORTANT]
 >
@@ -29,21 +29,21 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
 ## Abilita oggetto personalizzato  {#enable-custom-object}
 
-1. Fai clic su **[!UICONTROL Amministratore]** e sul collegamento **[!UICONTROL Sincronizzazione oggetti Salesforce]**.
+1. Fare clic su **[!UICONTROL Admin]** e sul collegamento **[!UICONTROL Salesforce Objects Sync]**.
 
    ![](assets/image2015-11-19-10-3a28-3a5.png).
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sincronizza schema]**.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sync Schema]**.
 
    ![](assets/rtaimage-2.png)
 
-1. Fare clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Fai clic su **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/image2015-4-22-10-3a45-3a0.png)
 
    >[!NOTE]
    >
-   >La sincronizzazione iniziale dello schema di oggetti personalizzato di Salesforce potrebbe richiedere alcuni minuti.
+   >La sincronizzazione iniziale dello schema di oggetti personalizzato [!DNL Salesforce] potrebbe richiedere alcuni minuti.
 
    ![](assets/image2015-4-22-10-3a45-3a18.png)
 
@@ -55,11 +55,11 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >Gli oggetti personalizzati devono avere nomi univoci. Marketo non supporta due oggetti personalizzati diversi con lo stesso nome.
 
-1. Fare clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Fai clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a45-3a50.png)
 
-1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare di nuovo clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a46-3a10.png)
 
@@ -67,15 +67,15 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
    >
    >Non dimenticare di riattivare la sincronizzazione globale.
 
-1. Torna alla scheda **Salesforce**.
+1. Torna alla scheda **[!UICONTROL Salesforce]**.
 
    ![](assets/image2015-4-22-10-3a46-3a25.png)
 
-1. Fare clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Fai clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2015-4-22-10-3a50-3a26.png)
 
-1. Per visualizzare tutti gli oggetti personalizzati di Salesforce, fai clic su **[!UICONTROL Amministratore]** e sul collegamento **[!UICONTROL Sincronizzazione oggetti di Salesforce]** (come nel passaggio 1 precedente).
+1. Per visualizzare tutti gli oggetti personalizzati di [!DNL Salesforce], fare clic su **[!UICONTROL Admin]** e sul collegamento **[!UICONTROL Salesforce Objects Sync]** (come nel passaggio 1 precedente).
 
    ![](assets/image2016-6-23-9-3a28-3a23.png)
 

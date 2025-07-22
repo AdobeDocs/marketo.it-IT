@@ -4,9 +4,9 @@ description: Visualizzare le informazioni sulla persona e sull'account e le atti
 title: Visualizzare le informazioni sulla persona e sull'account e le attività in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Nella scheda Attività persona vengono visualizzate informazioni rilevanti sulla
 
 ![](assets/1.png)
 
-Nella scheda Attività account vengono visualizzate le informazioni relative all&#39;account, ad esempio il nome della società, l&#39;URL del sito Web e la posizione. Nella scheda vengono visualizzate anche le attività account più recenti. L’account è identificato dal dominio della persona. Le attività vengono visualizzate nell’elenco se un utente Sales Insight dell’abbonamento ha già effettuato una corrispondenza con esse.
+Nella scheda Attività account vengono visualizzate le informazioni relative all&#39;account, ad esempio il nome della società, l&#39;URL del sito Web e la posizione. Nella scheda vengono visualizzate anche le attività account più recenti. L’account è identificato dal dominio della persona. Le attività vengono visualizzate nell’elenco se un utente di Sales Insight del tuo abbonamento ha già avuto una corrispondenza con esse.
 
 ![](assets/2.png)
 
@@ -39,9 +39,9 @@ Fai clic sull’icona Marketo per espandere il riquadro.
 
 ![](assets/image2015-10-6-15-3a43-3a22.png)
 
-## Visualizzare le attività in Google Chrome {#view-activities-in-google-chrome}
+## Visualizza attività in [!DNL Google Chrome] {#view-activities-in-google-chrome}
 
-Puoi inoltre utilizzare il Riquadro attività globale in Google Chrome per visualizzare un elenco completo delle attività più recenti che si sono verificate per tutte le persone con cui hai recentemente avuto una corrispondenza. Si tratta di un feed aggiornato in tempo reale che visualizza continuamente il numero di attività non lette sull’icona.
+È inoltre possibile utilizzare il riquadro attività globale in [!DNL Google Chrome] per visualizzare un elenco completo delle attività più recenti che si sono verificate per tutte le persone con cui si è recentemente stabilita una corrispondenza. Si tratta di un feed aggiornato in tempo reale che visualizza continuamente il numero di attività non lette sull’icona.
 
 Fai clic sull’icona Marketo per aprire il riquadro.
 
@@ -49,4 +49,4 @@ Fai clic sull’icona Marketo per aprire il riquadro.
 
 >[!MORELIKETHIS]
 >
->[Utilizzo di Marketo Insights per Google Chrome](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)
+>[Utilizzo di Marketo Insights per [!DNL Google Chrome]](/help/marketo/product-docs/marketo-sales-insight/msi-chrome-plugin/using-marketo-insights-for-google-chrome.md)

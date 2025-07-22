@@ -3,24 +3,24 @@ description: Concessione dell’accesso agli utenti - Documentazione di Marketo 
 title: Concessione dell’accesso agli utenti
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Concessione dell’accesso agli utenti {#granting-access-to-users}
 
-Seguire i passaggi descritti in questo articolo per consentire agli utenti di Sales Connect di accedere alla connessione Marketo. In questo modo verranno sbloccate funzioni quali Momenti di interesse nel feed live e l’accesso alle campagne di marketing.
+Segui i passaggi descritti in questo articolo per concedere agli utenti [!DNL Sales Connect] l&#39;accesso alla connessione Marketo. In questo modo verranno sbloccate funzioni quali Momenti di interesse nel feed live e l’accesso alle campagne di marketing.
 
-È necessario invitare gli utenti a Sales Connect [qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), prima che siano visibili nella pagina Marketo > Team Access (in Sales Connect), in cui è consentito l&#39;accesso alla connessione Marketo.
+È necessario invitare gli utenti a [!DNL Sales Connect] [qui](/help/marketo/product-docs/marketo-sales-connect/admin/invite-users.md), prima che siano visibili nella pagina Marketo > [!UICONTROL Team Access] (in [!DNL Sales Connect]), in cui è consentito l&#39;accesso alla connessione Marketo.
 
 >[!CAUTION]
 >
->Attendere dieci minuti dopo aver collegato Sales Connect a Marketo prima di eseguire questi passaggi.
+>Attendi dieci minuti dopo aver connesso [!DNL Sales Connect] a Marketo prima di eseguire questi passaggi.
 
-1. Seleziona uno o più utenti, quindi fai clic su **Connetti**.
+1. Selezionare uno o più utenti, quindi fare clic su **[!UICONTROL Connect]**.
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ Seguire i passaggi descritti in questo articolo per consentire agli utenti di Sa
 
    ![](assets/granting-access-to-users-2.jpg)
 
-1. Fai clic sul menu a discesa Workspace, seleziona le aree di lavoro desiderate e fai clic su **Connetti**.
+1. Fare clic sul menu a discesa Workspace, selezionare le aree di lavoro desiderate e fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/granting-access-to-users-3.png)
 

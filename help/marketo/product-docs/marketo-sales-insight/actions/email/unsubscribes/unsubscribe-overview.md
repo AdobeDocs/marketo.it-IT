@@ -3,9 +3,9 @@ description: Panoramica sull’annullamento dell’abbonamento - Documentazione 
 title: Panoramica sull’annullamento dell’abbonamento
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '328'
 ht-degree: 0%
 
 ---
@@ -14,10 +14,10 @@ ht-degree: 0%
 
 Sta diventando sempre più importante per le organizzazioni rispettare le leggi sulla privacy delle e-mail. Per aiutarci con questo, abbiamo apportato alcuni miglioramenti alla nostra esperienza di annullamento dell’iscrizione.
 
-* I collegamenti per annullare l’abbonamento vengono inseriti in tutte le e-mail inviate da Marketo Sales e Salesforce (questo non si applica alle e-mail personalizzate inviate da Outlook o Gmail)
+* I collegamenti per l&#39;annullamento dell&#39;abbonamento vengono inseriti in tutte le e-mail inviate da [!DNL Marketo Sales] e [!DNL Salesforce] (questo non si applica alle e-mail personalizzate inviate da [!DNL Outlook] o Gmail)
 * Gli amministratori possono modificare i messaggi di annullamento dell’iscrizione per l’intero team
 * Le informazioni di annullamento dell&#39;abbonamento vengono memorizzate in PDV
-* Gli annullamenti dell’iscrizione possono essere effettuati manualmente: collegamento selezionato, sincronizzazione Salesforce e mancato recapito
+* Gli annullamenti dell&#39;iscrizione possono essere eseguiti manualmente: collegamento selezionato, sincronizzazione di [!DNL Salesforce] e mancato recapito
 * Nuova pagina di destinazione con collegamento per annullare l’abbonamento
 
 ## Pagina di destinazione collegamento per annullare l’iscrizione {#unsubscribe-link-landing-page}
@@ -38,17 +38,17 @@ Utilizza la barra di ricerca per cercare le persone non iscritte.
 
 ![](assets/unsubscribe-overview-3.png)
 
-Se sei un amministratore, puoi passare al gruppo di annullamento dell’abbonamento per filtrare in base agli annullamenti dell’abbonamento all’account e visualizzare tutti gli annullamenti dell’abbonamento raccolti nel database delle persone.
+Se sei un amministratore, puoi passare al gruppo di annullamento dell&#39;iscrizione per filtrare in base a [!UICONTROL Account Unsubscribes] e visualizzare tutti gli annullamenti dell&#39;iscrizione raccolti nel database delle persone.
 
 ![](assets/unsubscribe-overview-4.png)
 
 ## Scheda Cronologia per annullare l’iscrizione {#unsubscribe-history-card}
 
-La scheda Cronologia Annulla iscrizione consente agli amministratori e agli utenti di ottenere informazioni contestuali sulla cronologia degli annullamenti dell’abbonamento dei loro contatti. Passare alla scheda Persone e selezionare una persona. Si trova nella parte inferiore della scheda Informazioni nella visualizzazione Dettagli persona.
+La scheda [!UICONTROL Unsubscribe History] consente agli amministratori e agli utenti di ottenere informazioni contestuali sulla cronologia degli annullamenti dell&#39;abbonamento dei loro contatti. Passare alla scheda [!UICONTROL People] e selezionare una persona. Si trova nella parte inferiore della scheda [!UICONTROL About] nella visualizzazione Dettagli persona.
 
 >[!NOTE]
 >
->La scheda Cronologia annullamento abbonamento verrà visualizzata solo se l&#39;utente ha _effettuato nuovamente l&#39;abbonamento_.
+>Ci sarà una carta [!UICONTROL Unsubscribe History] solo se la persona ha _rinnovato l&#39;abbonamento_ ad un certo punto.
 
 ![](assets/unsubscribe-overview-5.png)
 
@@ -59,16 +59,16 @@ La scheda Cronologia Annulla iscrizione consente agli amministratori e agli uten
  </colgroup> 
  <tbody> 
   <tr> 
-   <td><strong>Data</strong></td> 
+   <td><strong>[!UICONTROL Date]</strong></td> 
    <td><p>Mostra la data in cui si è verificato l’annullamento/il reabbonamento.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Dettagli</strong></td> 
-   <td><p>Risottosci: un amministratore di Sales Connect ha rimosso manualmente l'annullamento dell'abbonamento dal record del contatto. Potrebbero inoltre essere visualizzati alcuni dettagli relativi al motivo per cui il contatto ha annullato l’abbonamento.</p><p>Annulla iscrizione: il contatto ha annullato l’iscrizione.</p></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
+   <td><p>Risottoscrivi: un amministratore [!DNL Sales Connect] ha rimosso manualmente l'annullamento dell'iscrizione dal record del contatto. Potrebbero inoltre essere visualizzati alcuni dettagli relativi al motivo per cui il contatto ha annullato l’abbonamento.</p><p>Annulla iscrizione: il contatto ha annullato l’iscrizione.</p></td> 
   </tr> 
   <tr> 
-   <td><strong>Origine</strong></td> 
-   <td><p>Salesforce Sync: l’annullamento dell’abbonamento è stato acquisito da una sincronizzazione di Salesforce.</p><p>Manuale: l’utente ha fatto clic sul pulsante per annullare l’abbonamento e rinunciare.</p><p>Collegamento selezionato: il destinatario di un’e-mail ha fatto clic sul collegamento per annullare l’abbonamento.</p><p>"Admin Name" (Nome amministratore): il nome di un amministratore viene visualizzato quando l’azione consisteva nel riabbonare i contatti. In questo modo gli utenti possono sapere chi ha rimosso l’annullamento dell’abbonamento.</p></td> 
+   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td><p>[!DNL Salesforce] Sincronizzazione: l'annullamento dell'abbonamento è stato acquisito da una sincronizzazione da [!DNL Salesforce].</p><p>Manuale: l’utente ha fatto clic sul pulsante per annullare l’abbonamento e rinunciare.</p><p>Collegamento selezionato: il destinatario di un’e-mail ha fatto clic sul collegamento per annullare l’abbonamento.</p><p>"Admin Name" (Nome amministratore): il nome di un amministratore viene visualizzato quando l’azione consisteva nel riabbonare i contatti. In questo modo gli utenti possono sapere chi ha rimosso l’annullamento dell’abbonamento.</p></td> 
   </tr> 
  </tbody> 
 </table>

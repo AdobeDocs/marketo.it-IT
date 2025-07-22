@@ -4,9 +4,9 @@ description: Panoramica di Predictive Content Analytics - Documentazione di Mark
 title: Panoramica di Predictive Content Analytics
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Utilizza l’analisi dei contenuti per acquisire ulteriori informazioni sui cont
 
 >[!NOTE]
 >
->La scheda Analytics e le funzioni di analisi dei contenuti sono disponibili esclusivamente con Marketo Predictive Content.
+>La scheda [!UICONTROL Analytics] e le funzioni di analisi dei contenuti sono disponibili esclusivamente con Marketo Predictive Content.
 
 ## Panoramica {#overview}
 
-Nella pagina Riepilogo fare clic su **Analytics**.
+Nella pagina Riepilogo fare clic su **[!UICONTROL Analytics]**.
 
 ![](assets/one.png)
 
-Analytics comprende diverse sezioni: Contenuto principale per visualizzazioni, Contenuto principale per tasso di conversione, Contenuto di tendenza, Contenuto suggerito e Contenuto.
+[!UICONTROL Analytics] comprende diverse sezioni: [!UICONTROL Top Content by Views], [!UICONTROL Top Content by Conversion Rate], [!UICONTROL Trending Content], [!UICONTROL Suggested Content] e [!UICONTROL Content].
 
 ![](assets/new-2.png)
 
@@ -37,7 +37,7 @@ Fai clic sul pulsante Esporta per esportare i risultati di quella sezione tramit
 
 ![](assets/new-3point5.png)
 
-Puoi filtrare i risultati per vari attributi/proprietà (ad esempio, Elenco account ABM, Paese, ecc.).
+È possibile filtrare i risultati in base a vari attributi/proprietà (ad esempio [!UICONTROL ABM Account List], [!UICONTROL Country], ecc.).
 
 ![](assets/pca.png)
 
@@ -45,13 +45,13 @@ Fai clic sull’icona del calendario per modificare le date dei dati riflessi. S
 
 ![](assets/dates.png)
 
-## Contenuto principale per visualizzazioni {#top-content-by-views}
+## [!UICONTROL Top Content by Views] {#top-content-by-views}
 
 Visualizza i contenuti principali in base al numero di visualizzazioni per intervallo di date selezionato.
 
 ![](assets/new-6.png)
 
-## Contenuto principale per tasso di conversione {#top-content-by-conversion-rate}
+## [!UICONTROL Top Content by Conversion Rate] {#top-content-by-conversion-rate}
 
 Visualizza il contenuto di conversione superiore in base al tasso di conversione per l’intervallo di date selezionato.
 
@@ -63,13 +63,13 @@ Visualizza il contenuto di conversione superiore in base al tasso di conversione
 >
 >**Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per i clic.
 
-## Contenuto di tendenza {#trending-content}
+## [!UICONTROL Trending Content] {#trending-content}
 
 Mostra l’aumento di popolarità di un contenuto osservando l’aumento di visualizzazioni delle ultime due settimane rispetto allo stesso periodo precedente.
 
 ![](assets/new-8.png)
 
-## Contenuto consigliato {#suggested-content}
+## [!UICONTROL Suggested Content] {#suggested-content}
 
 Visualizza il contenuto che ti consigliamo di promuovere nelle attività di marketing in base al filtro definito.
 
@@ -81,9 +81,9 @@ Passa il puntatore del mouse su un’immagine in Contenuto consigliato per visua
 
 >[!NOTE]
 >
->Vedi quelle icone in basso? Da sinistra a destra sono: Visualizza contenuto, Esporta in CSV, Approva contenuto.
+>Vedi quelle icone in basso? Da sinistra a destra: [!UICONTROL View Content], [!UICONTROL Export to CSV], [!UICONTROL Approve Content].
 
-## Contenuto {#content}
+## [!UICONTROL Content] {#content}
 
 ![](assets/image2017-10-3-10-3a22-3a24.png)
 

@@ -4,18 +4,18 @@ description: Utilizzo dell’editor Rich Text di Web Personalization - Documenta
 title: Utilizzo dell’editor Rich Text di Web Personalization
 exl-id: a07d8f2b-0ec6-4799-a430-0a5f7cf5f583
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
 
-# Utilizzo dell’editor Rich Text di Web Personalization {#using-the-web-personalization-rich-text-editor}
+# Utilizzo dell&#39;editor Rich Text di [!DNL Web Personalization] {#using-the-web-personalization-rich-text-editor}
 
 ![](assets/one.png)
 
-L’editor Rich Text di Web Personalization disponibile nella pagina Imposta campagne consente la formattazione del testo, il collegamento e l’inserimento di immagini. Include opzioni di formattazione simili agli elaboratori di testi standard.
+L&#39;editor Rich Text di [!DNL Web Personalization] trovato nella pagina [!UICONTROL Set Campaigns] consente la formattazione del testo, il collegamento e l&#39;inserimento di immagini. Include opzioni di formattazione simili agli elaboratori di testi standard.
 
 Le icone importanti nell’editor Rich Text includono:
 
@@ -51,7 +51,7 @@ Le icone importanti nell’editor Rich Text includono:
 
 >[!NOTE]
 >
->I token Web utilizzano i dati di [persone](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) del database di Marketo gestito in Web Personalization in Impostazioni account > Database. Se il token web è un nuovo campo del database non ancora presente in Impostazioni account > Database, verrà aggiunto automaticamente e l’attivazione può richiedere fino a 24 ore.
+>I token Web utilizzano [dati persone](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md) di [!DNL Marketo Database] gestiti in [!DNL Web Personalization] in [!UICONTROL Account Settings] > [!UICONTROL Database]. Se il token Web è un nuovo campo del database non ancora in [!UICONTROL Account Settings] > [!UICONTROL Database], verrà aggiunto automaticamente e l&#39;attivazione può richiedere fino a 24 ore.
 
 >[!MORELIKETHIS]
 >

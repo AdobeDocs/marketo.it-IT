@@ -4,9 +4,9 @@ description: Configurare lo sfondo dei messaggi in-app - Documentazione Marketo 
 title: Configurare lo sfondo dei messaggi in-app
 exl-id: 0cb10432-5611-4efe-a605-9a5a57f1bc7c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
 
    ![](assets/image2016-5-9-8-3a38-3a1.png)
 
-1. Per impostare un colore, fare clic su **Colore**, quindi sul quadrato di selezione del colore. Selezionare il colore facendo clic su di esso o immettendo i codici esadecimali o RGB nel selettore colore.
+1. Per impostare un colore, fare clic su **[!UICONTROL Color]**, quindi sul quadrato di selezione del colore. Selezionare il colore facendo clic su di esso o immettendo i codici esadecimali o RGB nel selettore colore.
 
    ![](assets/image2016-5-9-8-3a46-3a59.png)
 
@@ -31,11 +31,11 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
    >
    >Il bianco normale, l&#39;impostazione predefinita, è in genere un vincitore.
 
-1. Per utilizzare uno sfondo, fare clic su **Immagine** e quindi sul collegamento **Seleziona immagine**.
+1. Per utilizzare uno sfondo, fare clic su **[!UICONTROL Image]** e quindi sul collegamento **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-9-8-3a52-3a43.png)
 
-1. Scegliere tra i file caricati in Design Studio. Fai clic su **Seleziona**.
+1. Scegliere tra i file caricati in Design Studio. Fai clic su **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-9-9-3a0-3a2.png)
 
@@ -47,7 +47,7 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
 
    ![](assets/image2016-5-9-9-3a2-3a33.png)
 
-1. Applica un bordo immagine facoltativo. L&#39;impostazione predefinita è **Disattivato**. Innanzitutto, selezionare il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
+1. Applica un bordo immagine facoltativo. Impostazione predefinita: **[!UICONTROL Off]**. Innanzitutto, selezionare il colore facendo clic su di esso o immettendo i numeri esadecimali o RGB nel selettore colore.
 
    ![](assets/image2016-5-9-9-3a54-3a8.png)
 
@@ -65,7 +65,7 @@ La selezione dello sfondo di un messaggio è un passaggio importante per complet
 
    >[!NOTE]
    >
-   >Per le azioni di tocco per gli sfondi, puoi impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita o selezionare **Nessuno**.
+   >Per le azioni di tocco per gli sfondi, puoi impostare diverse azioni per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita o selezionare **[!UICONTROL None]**.
 
    Per completare il processo, l&#39;ultimo passaggio è [configurare il pulsante Ignora](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/set-up-the-dismiss-button-and-approve-the-message.md).
 

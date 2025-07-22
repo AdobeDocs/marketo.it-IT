@@ -4,24 +4,24 @@ description: Dashboard principale TAM - Documentazione Marketo - Documentazione 
 title: Dashboard principale TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
 
 # Dashboard principale TAM {#tam-main-dashboard}
 
-La dashboard principale fornisce un riepilogo delle attività di Gestione account di Target. Puoi visualizzare gli account target o gli elenchi di account che mostrano il successo e quelli che richiedono maggiore attenzione.
+Il dashboard principale fornisce un riepilogo delle attività di [!UICONTROL Target Account Management]. Puoi visualizzare gli account target o gli elenchi di account che mostrano il successo e quelli che richiedono maggiore attenzione.
 
 ![](assets/one.png)
 
-Per filtrare in base all’elenco degli account, fai clic sul menu a discesa Visualizza...
+Per filtrare per elenco account, fare clic sull&#39;elenco a discesa **[!UICONTROL View]**...
 
 ![](assets/two.png)
 
-...e fai una selezione. In questo esempio, scegliamo il nostro elenco di account &quot;High Tech&quot;.
+...e fai una selezione. In questo esempio stiamo scegliendo l&#39;elenco account &quot;**[!UICONTROL High Tech]**&quot;.
 
 ![](assets/three.png)
 
@@ -33,7 +33,7 @@ Per visualizzare il [dashboard elenco account](/help/marketo/product-docs/target
 
 ![](assets/five.png)
 
-Se invece di visualizzare la dashboard dell&#39;elenco account si desidera espandere un account denominato, fare clic su **Ulteriori dettagli** sotto il nome...
+Se invece di visualizzare il dashboard Elenco account si desidera espandere un account denominato, fare clic su **[!UICONTROL More Details]** sotto il relativo nome...
 
 ![](assets/six.png)
 

@@ -4,9 +4,9 @@ description: Integrare RTP con Google Analytics - Documentazione Marketo - Docum
 title: Integrare RTP con Google Analytics
 exl-id: a2bc0c17-dc23-435e-9480-857e97e6fd50
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -62,34 +62,34 @@ Misura le campagne RTP e le correla alla media complessiva del sito. Scopri in c
 
 ![](assets/image2014-11-28-16-3a47-3a0.png)
 
-## Impostazione di RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
+## Configurazione di RTP con Google Analytics {#setting-up-rtp-with-google-analytics}
 
 1. Aggiungi l’e-mail rtp.ga2@gmail.com come utente Read &amp; Analyze al tuo account GA. Per ulteriori dettagli, consulta [qui](https://support.google.com/analytics/answer/2884495?hl=en).
 
-1. Nel tuo account RTP. Vai a **Impostazioni account**.
+1. Nel tuo account RTP. Vai a **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-11-28-16-3a54-3a40.png)
 
-1. In **Impostazioni account**, **Dominio** e **Analytics**.
+1. In **[!UICONTROL Account Settings]**, **[!UICONTROL Domain]** e **[!UICONTROL Analytics]**.
 
 1. Fai clic su **Google Analytics**.
 
-1. Attiva le **Variabili personalizzate** e **Eventi** pertinenti per aggiungere questi dati da RTP alle Google Analytics.
+1. Attiva le **Variabili personalizzate** e **Eventi** pertinenti per aggiungere questi dati da RTP a Google Analytics.
 
 1. Immetti il numero **Slot** per inviare dati di variabile personalizzati (il valore predefinito è 1,2).
 
 ![](assets/image2014-11-28-17-3a0-3a17.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
 >[!NOTE]
 >
->Per inviare i dati del segmento a GA, nella [pagina Modifica segmento](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) della piattaforma RTP, seleziona la casella di controllo **Invia evento alle Google Analytics in corrispondenza del segmento**.
+>Per inviare i dati del segmento a GA, nella pagina [[!UICONTROL Edit Segment]](/help/marketo/product-docs/web-personalization/using-web-segments/create-a-basic-web-segment.md) della piattaforma RTP selezionare la casella di controllo **[!UICONTROL Send Event to Google Analytics on Segment Match]**.
 
-## Impostazione dei rapporti Google Analytics con i dati RTP {#setting-up-google-analytics-reports-with-rtp-data}
+## Configurazione dei rapporti Google Analytics con i dati RTP {#setting-up-google-analytics-reports-with-rtp-data}
 
-Nelle Google Analytics puoi utilizzare le dashboard, la segmentazione GA e il reporting per visualizzare i dati RTP:
+In Google Analytics puoi utilizzare dashboard, segmentazione GA e reporting per visualizzare i dati RTP:
 
 * [I dashboard](https://support.google.com/analytics/answer/1068216?hl=en) forniscono una panoramica delle prestazioni del sito Web.
 * Un segmento GA ha lo scopo di filtrare i visitatori nell’interfaccia GA e visualizzare il traffico per segmento. Scopri come creare un segmento [qui](https://support.google.com/analytics/answer/3124493?hl=en).
-* Creazione di [report personalizzati](https://support.google.com/analytics/answer/1033013?hl=en) per visualizzare e/o configurare le e-mail pianificate. Consulta in Personalizzazione > Nuovo rapporto personalizzato.
+* Creazione di [report personalizzati](https://support.google.com/analytics/answer/1033013?hl=en) per visualizzare e/o configurare le e-mail pianificate. Vedere in **[!UICONTROL Customization]** > **[!UICONTROL New Custom Report]**.

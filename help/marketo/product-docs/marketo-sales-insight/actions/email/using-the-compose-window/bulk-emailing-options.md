@@ -3,16 +3,16 @@ description: Opzioni per l’invio di e-mail in blocco - Documenti Marketo - Doc
 title: Opzioni di invio e-mail in blocco
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---
 
 # Opzioni di invio e-mail in blocco {#bulk-emailing-options}
 
-L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. Marketo Sales offre due modi per inviare e-mail in blocco: **E-mail di gruppo** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
+L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento dei potenziali clienti. [!DNL Marketo Sales] offre due modi per inviare e-mail in blocco: **Raggruppa e-mail** e **Seleziona e invia**. Le e-mail di gruppo sono un ottimo modo per inviare rapidamente centinaia di e-mail a un gruppo mirato. L’utilizzo di Seleziona e invia riduce i limiti e-mail, ma offre più opportunità di personalizzazione all’utente.
 
 **E-mail di gruppo e selezione e invio**
 
@@ -37,7 +37,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
   <tr> 
    <td>E-mail gruppo</td> 
    <td>1.000</td> 
-   <td>Selezionare un gruppo e fare clic sul pulsante "Azioni gruppo" oppure digitare il nome del gruppo nel campo A.</td> 
+   <td>Selezionare un gruppo e fare clic sul pulsante "[!UICONTROL Group Actions]" oppure digitare il nome del gruppo nel campo A.</td> 
    <td>Sì</td> 
    <td>No</td> 
    <td>Sì</td> 
@@ -45,7 +45,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
   <tr> 
    <td>Seleziona e invia</td> 
    <td>200</td> 
-   <td>Seleziona le persone nella griglia e fai clic sul pulsante "E-mail selezionata" nella barra delle azioni, oppure digita i destinatari nella barra laterale dell’e-mail in blocco.</td> 
+   <td>Selezionare le persone nella griglia e fare clic sul pulsante "[!UICONTROL Email Selected]" nella barra delle azioni oppure digitare i destinatari nella barra laterale dell'e-mail in blocco.</td> 
    <td>Sì</td> 
    <td>Sì</td> 
    <td>Sì</td> 

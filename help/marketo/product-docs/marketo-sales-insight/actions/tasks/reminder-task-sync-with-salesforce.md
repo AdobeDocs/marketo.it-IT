@@ -1,84 +1,84 @@
 ---
-description: Sincronizzazione attività promemoria con Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Sincronizzazione attività promemoria con Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Sincronizzazione attività promemoria con Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
 
-# Sincronizzazione attività promemoria con Salesforce {#reminder-task-sync-with-salesforce}
+# Sincronizzazione attività promemoria con [!DNL Salesforce] {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]
 >
->Per informazioni su come abilitare l&#39;opzione Sincronizzazione attività, estrarre [Sincronizza attività/promemoria delle informazioni sulle vendite per le attività Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
+>Per informazioni su come abilitare l&#39;opzione Sincronizzazione attività, estrarre [Sincronizza attività/promemoria azioni di Insight Sales alle attività di Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md#sync-sales-insight-actions-tasks-reminders-to-salesforce-tasks).
 
-Una volta abilitate le impostazioni di sincronizzazione delle attività, gli utenti vedranno le loro attività promemoria sincronizzate bidirezionalmente con Salesforce. Ciò significa che gli utenti possono gestire le attività dalle azioni Salesforce o Sales Insight e avere la certezza che i sistemi rimarranno allineati.
+Una volta abilitate le impostazioni di sincronizzazione delle attività, gli utenti visualizzeranno le attività promemoria sincronizzate bidirezionalmente con [!DNL Salesforce]. Ciò significa che gli utenti possono gestire le attività da [!DNL Salesforce] o [!DNL Sales Insight Actions] e che i sistemi rimarranno allineati.
 
 ## Sincronizzazione campi attività promemoria {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-Di seguito è riportato un elenco dei campi delle attività promemoria nelle azioni di approfondimento sulle vendite e dei corrispondenti campi Salesforce supportati tramite la sincronizzazione bidirezionale delle attività.
+Di seguito è riportato un elenco dei campi dell&#39;attività promemoria in [!DNL Sales Insight Actions] e dei campi corrispondenti di [!DNL Salesforce] supportati tramite la sincronizzazione bidirezionale delle attività.
 
 <table>
  <tr>
-  <th>Campo attività Azioni approfondimento vendite</th>
-  <th>Campo attività Salesforce</th>
-  <th>Attività Salesforce</th>
+  <th>[!DNL Sales Insight Actions] Campo attività</th>
+  <th>[!DNL Salesforce] Campo attività</th>
+  <th>[!DNL Salesforce] Attività</th>
  </tr>
  <tr>
-  <td>Nome attività</td>
-  <td>Campo oggetto</td>
+  <td>[!UICONTROL Task Name]</td>
+  <td>[!UICONTROL Subject Field]</td>
   <td>Un breve campo di riepilogo destinato a mostrare il titolo dell’attività.</td>
  </tr>
  <tr>
-  <td>Stato</td>
-  <td>Stato attività</td>
-  <td><p>Mostra lo stato dell'attività. Le attività Azioni approfondimento vendite hanno due stati che corrispondono a due dei valori nella lista di selezione dello stato delle attività di Salesforce.</p>
-  <p>Aperto in Azioni approfondimento vendite = Non avviato in Salesforce.</p>
-  <p>Completa in Azioni approfondimento vendite = Completato in Salesforce.</p>
-  <p>Gli altri valori di stato in Salesforce non verranno sincronizzati con le azioni di approfondimento sulle vendite.</p></td>
+  <td>[!UICONTROL Status]</td>
+  <td>[!UICONTROL Task Status]</td>
+  <td><p>Mostra lo stato dell'attività. [!DNL Sales Insight Actions] attività hanno due stati mappati a due dei valori nella lista di selezione dello stato dell'attività [!DNL Salesforce].</p>
+  <p>Apertura tra [!DNL Sales Insight Actions] = Non avviato tra [!DNL Salesforce].</p>
+  <p>Completato in [!DNL Sales Insight Actions] = Completato in [!DNL Salesforce].</p>
+  <p>Gli altri valori di stato in [!DNL Salesforce] non verranno sincronizzati con [!DNL Sales Insight Actions].</p></td>
  </tr>
  <tr>
-  <td>Priorità</td>
-  <td>Priorità</td>
-  <td><p>La priorità delle azioni Sales Insight può essere Normal (Normale) o High (Alta), che corrisponde ai valori di priorità Normal (Normale) e High (Alta) in Salesforce.</p>
-  <p>Il valore a bassa priorità in Salesforce non verrà sincronizzato con le azioni di approfondimento sulle vendite.</p></td>
+  <td>[!UICONTROL Priority]</td>
+  <td>[!UICONTROL Priority]</td>
+  <td><p>[!DNL Sales Insight Actions] La priorità può essere Normale o Alta, che corrisponde ai valori di priorità Normale e Alta in [!DNL Salesforce].</p>
+  <p>Il valore con priorità bassa in [!DNL Salesforce] non verrà sincronizzato con [!DNL Sales Insight Actions].</p></td>
  </tr>
  <tr>
-  <td>Data di scadenza</td>
-  <td>Data di scadenza</td>
+  <td>[!UICONTROL Due Date]</td>
+  <td>[!UICONTROL Due Date]</td>
   <td>Data di scadenza dell'attività.</td>
  </tr>
  <tr>
-  <td>Dettagli</td>
-  <td>Commenti</td>
+  <td>[!UICONTROL Details]</td>
+  <td>[!UICONTROL Comments]</td>
   <td>Mostra informazioni più dettagliate su ciò che doveva essere completato con l'attività promemoria.</td>
  </tr>
 </table>
 
-## Sincronizzazione delle attività di Sales Insight con Salesforce per la prima volta {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
+## È in corso la prima sincronizzazione di [!DNL Sales Insight Actions] attività con [!DNL Salesforce] {#syncing-sales-insight-actions-tasks-with-salesforce-for-the-first-time}
 
-Quando attivi per la prima volta la sincronizzazione tra le azioni di approfondimento sulle vendite e le attività di Salesforce, importiamo le attività di Salesforce. **non** invieremo a Salesforce le attività in corso nelle azioni Sales Insight. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate dalle azioni di Sales Insight in Salesforce sono le attività create *dopo* la sincronizzazione delle azioni di Sales Insight con SFDC.
+Quando si attiva la sincronizzazione tra [!DNL Sales Insight Actions] e [!DNL Salesforce] attività, le attività [!DNL Salesforce] vengono importate. **non** eseguirà il push delle attività correnti in [!DNL Sales Insight Actions] a [!DNL Salesforce]. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate da [!DNL Sales Insight Actions] in [!DNL Salesforce] sono le attività create *dopo* la sincronizzazione di [!DNL Sales Insight Actions] con SFDC.
 
-Ecco cosa accade quando si sincronizzano le azioni Sales Insight e le attività SFDC:
+Ecco cosa accade quando si sincronizzano [!DNL Sales Insight Actions] e le attività di SFDC:
 
 * Non appena si fa clic su Salva durante la sincronizzazione delle attività, queste vengono sincronizzate. Inizialmente questo richiederà del tempo.
 
-* Tutti i promemoria aggiornati o creati nelle ultime 24 ore verranno inseriti da SFDC in Sales Insight Actions. La sincronizzazione è basata sulla data di scadenza e tutte queste attività verranno sincronizzate nel back-end, ma in Centro comandi verranno visualizzate solo le attività in scadenza oggi e domani.
+* Tutti i promemoria aggiornati o creati nelle ultime 24 ore verranno inseriti da SFDC a [!DNL Sales Insight Actions]. La sincronizzazione è basata sulla data di scadenza e tutte queste attività verranno sincronizzate nel back-end, ma in Centro comandi verranno visualizzate solo le attività in scadenza oggi e domani.
 
 * Se la sincronizzazione è stata attivata in precedenza ed è stata eliminata qualsiasi attività in SFDC, qualsiasi elemento eliminato negli ultimi 15 giorni verrà eliminato da Centro comandi.
 
-* Sincronizzeremo costantemente le attività tra Sales Insight Actions e SFDC, purché la sincronizzazione sia abilitata.
+* Le attività verranno sincronizzate costantemente tra [!DNL Sales Insight Actions] e SFDC, purché la sincronizzazione sia abilitata.
 
-Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Azioni approfondimenti vendite verranno sincronizzate con l’elenco delle attività in Salesforce. E qualsiasi cosa creata, modificata, completata o eliminata in Salesforce aggiornerà l’elenco delle attività in Azioni approfondimento vendite.
+Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in [!DNL Sales Insight Actions] verranno sincronizzate con l&#39;elenco delle attività in [!DNL Salesforce]. E qualsiasi elemento creato, modificato, completato o eliminato in [!DNL Salesforce] aggiornerà l&#39;elenco delle attività in [!DNL Sales Insight Actions].
 
 Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nella [pagina Impostazioni](https://toutapp.com/login) dell&#39;applicazione Web.
 
 >[!NOTE]
 >
->Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in Azioni approfondimento vendite e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto Salesforce per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in Salesforce _non_ verranno sincronizzati con il campo dell&#39;oggetto dell&#39;attività promemoria delle azioni Sales Insight.
+>Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in [!DNL Sales Insight Actions] e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto [!DNL Salesforce] per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Salesforce] _non_ verranno sincronizzati con il campo dell&#39;oggetto attività promemoria [!DNL Sales Insight Actions].

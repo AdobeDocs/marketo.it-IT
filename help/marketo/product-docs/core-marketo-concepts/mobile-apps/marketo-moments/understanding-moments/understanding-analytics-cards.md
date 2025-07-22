@@ -4,20 +4,20 @@ description: Informazioni sulle schede di Analytics - Documentazione di Marketo 
 title: Informazioni sulle schede di Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Informazioni sulle schede di Analytics {#understanding-analytics-cards}
 
-All’inizio di ogni mese, Marketo Moments fornisce tre diverse schede di rapporti: lead acquisiti, nuovi lead e annullamenti degli abbonamenti. Ciascuno mostra le prestazioni mensili e la tendenza su un periodo di sei mesi.
+All&#39;inizio di ogni mese, Marketo Moments fornisce tre diverse schede di rapporti: [!UICONTROL Acquired Leads], [!UICONTROL New Leads] e [!UICONTROL Unsubscribes]. Ciascuno mostra le prestazioni mensili e la tendenza su un periodo di sei mesi.
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Schede di Analytics {#analytics-cards}
 
@@ -33,15 +33,15 @@ Tocca una scheda Analytics per visualizzare:
 * Un confronto mese dopo mese
 * Un grafico a barre del massimo o dei primi tre (a seconda della scheda)
 
-Ad esempio, diamo un’occhiata ai dettagli della scheda Acquired Leads Analytics:
+Vediamo ad esempio i dettagli della scheda Analytics [!UICONTROL Acquired Leads]:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
 In questo esempio, il rosso indica che il valore è diminuito nell’intervallo di date selezionato (oh!). Il verde indica che il valore è aumentato (yay!).
 
-## Lead acquisiti {#acquired-leads}
+## [!UICONTROL Acquired Leads] {#acquired-leads}
 
-La scheda **Lead acquisiti** mostra un report del numero di nuovi lead con tendenze su base mensile.
+La scheda **[!UICONTROL Acquired Leads]** mostra un report del numero di nuovi lead con tendenze mese-su-mese.
 
 >[!NOTE]
 >
@@ -49,15 +49,15 @@ La scheda **Lead acquisiti** mostra un report del numero di nuovi lead con tende
 
 ![](assets/image2015-6-30-14-3a31-3a40.png)
 
-## Nuovi lead {#new-leads}
+## [!UICONTROL New Leads] {#new-leads}
 
-La scheda **[!UICONTROL Nuovi lead]** mostra un rapporto sul numero totale di nuovi lead nella tua istanza nel corso degli ultimi sei mesi, mese dopo mese.
+La scheda **[!UICONTROL New Leads]** mostra un report del numero totale di nuovi lead nella tua istanza negli ultimi sei mesi, mese dopo mese.
 
 ![](assets/image2015-6-30-14-3a33-3a23.png)
 
-## Annulla iscrizione {#unsubscribes}
+## [!UICONTROL Unsubscribes] {#unsubscribes}
 
-La scheda **[!UICONTROL Annullamenti abbonamenti]** mostra un report sull&#39;andamento mese per mese del tasso di annullamento degli abbonamenti negli ultimi sei mesi.
+La scheda **[!UICONTROL Unsubscribes]** mostra un report sull&#39;andamento mese-su-mese del tasso di annullamento degli abbonamenti negli ultimi sei mesi.
 
 ![](assets/image2015-6-30-14-3a29-3a3.png)
 

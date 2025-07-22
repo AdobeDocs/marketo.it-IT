@@ -4,10 +4,10 @@ description: Aggiungere istruzioni di descrizione a un campo modulo - Documentaz
 title: Aggiungere istruzioni di descrizione a un campo modulo
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '114'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ ht-degree: 0%
 >
 >Le **istruzioni** per il modulo sono descrizioni comandi che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
-1. Seleziona il **modulo** e fai clic su **Modifica modulo**.
+1. Seleziona il **modulo** e fai clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-14-3a15-3a42.png)
 
-1. Seleziona il campo e immetti **istruzioni**.
+1. Seleziona il campo e immetti **[!UICONTROL Instructions]**.
 
    ![](assets/image2014-9-15-14-3a15-3a49.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-14-3a15-3a57.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-14-3a16-3a3.png)
 

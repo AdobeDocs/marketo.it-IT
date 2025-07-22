@@ -4,10 +4,10 @@ description: Attivatori e filtri per campagne intelligenti mobile - Documentazio
 title: Attivatori e filtri per campagne intelligenti mobile
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '820'
-ht-degree: 0%
+source-wordcount: '814'
+ht-degree: 1%
 
 ---
 
@@ -39,7 +39,7 @@ Utilizza i vincoli con trigger e filtri per ordinare ulteriormente i dati.
 
 Tutti i trigger e i filtri, ad eccezione della notifica push inviata, contengono i due vincoli standard seguenti:
 
-* Tipo di dispositivo: iPod, iPhone, iPhone 6 Plus, iPad mini, iPad, smartphone Android, tablet Android, Sconosciuto (elenco di predefiniti)
+* Tipo di dispositivo - [!DNL iPod], iPhone, [!DNL iPhone 6 Plus], [!DNL iPad mini], iPad, smartphone Android, tablet Android, Sconosciuto (elenco di predefiniti)
 
 * Piattaforma: iPhone o Android
 
@@ -103,7 +103,7 @@ L&#39;App Mobile È/È Stata Aperta
 
 Ha/Ha Avuto Attività Di App Mobile
 
-Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento [per Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Ha un&#39;attività in app mobile - trigger
 
@@ -146,7 +146,7 @@ Ecco come si presenta il filtro in Marketo:
 >
 >Puoi avere più azioni sotto lo stesso tipo di azione. Infatti, la tua normale esperienza di acquisto può coinvolgere diverse colonne in Shopping! Che ne dite di un po&#39; di calze?
 >
->| Tipo di azione | Acquisti | Acquisti |
+>| Tipo di azione | Shopping | Shopping |
 >|---|---|---|
 >| Azione | Camicia acquistata | Pantaloni acquistati |
 >| Dettagli azione | Colore | Colore |

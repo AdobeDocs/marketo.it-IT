@@ -4,10 +4,10 @@ description: Limita l’accesso degli utenti solo all’SSO - Documentazione di 
 title: Limita l'accesso degli utenti solo all'SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: a12e4e420c01623305a0fa34b1e3973162e24d68
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 0%
+source-wordcount: '228'
+ht-degree: 1%
 
 ---
 
@@ -23,33 +23,33 @@ Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrati
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 
-1. Fare clic su **[!UICONTROL Impostazione accesso]s**.
+1. Fai clic su **[!UICONTROL Login Settings]**.
 
    ![](assets/restrict-user-login-to-sso-only-2.png)
 
-1. Fare clic su **[!UICONTROL Modifica impostazioni di protezione]**.
+1. Fai clic su **[!UICONTROL Edit Security Settings]**.
 
    ![](assets/restrict-user-login-to-sso-only-3.png)
 
-1. Espandi le impostazioni **[!UICONTROL Avanzate]**, seleziona **[!UICONTROL Richiedi SSO]** e fai clic su **[!UICONTROL Salva]**.
+1. Espandere le impostazioni di **[!UICONTROL Advanced]**, selezionare **[!UICONTROL Require SSO]** e fare clic su **[!UICONTROL Save]**.
 
 ![](assets/restrict-user-login-to-sso-only-4.png)
 
 >[!NOTE]
 >
->Si consiglia di invitare e accettare l’invito gli utenti. _Dopo_ l&#39;invito è accettato, gli amministratori devono quindi impostarli su &quot;[!UICONTROL Richiedi SSO].&quot;
+>Si consiglia di invitare e accettare l’invito gli utenti. _Dopo_ l&#39;invito è accettato, gli amministratori devono quindi impostarli su &quot;[!UICONTROL Require SSO]&quot;.
 
 >[!TIP]
 >
->Se si seleziona **[!UICONTROL Richiedi SSO]**, è possibile escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **[!UICONTROL Ignora Single Sign-On]** durante la configurazione del ruolo. In questo modo gli utenti potranno accedere normalmente. Ad esempio, gli utenti Admin potrebbero dover ancora accedere a Marketo tramite la schermata di accesso. Se sono abilitati sia SSO che Universal ID, è necessario disporre dell&#39;autorizzazione &quot;Bypass Single Signed On&quot; (Ignora Single Sign On) per attivare o disattivare le sottoscrizioni.
+>Se si seleziona **[!UICONTROL Require SSO]**, è possibile escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **[!UICONTROL Bypass Single Sign-On]** durante la configurazione del ruolo. In questo modo gli utenti potranno accedere normalmente. Ad esempio, gli utenti Admin potrebbero dover ancora accedere a Marketo tramite la schermata di accesso. Se sono abilitati sia SSO che Universal ID, è necessario disporre dell&#39;autorizzazione &quot;Bypass Single Signed On&quot; (Ignora Single Sign On) per attivare o disattivare le sottoscrizioni.
 
 >[!CAUTION]
 >
->Quando nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se è selezionato **[!UICONTROL Richiedi SSO]**, questi messaggi non verranno ricevuti a meno che non siano assegnati a un ruolo impostato su **[!UICONTROL Ignora Single Sign-On]**.
+>Quando nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se **[!UICONTROL Require SSO]** è selezionato, non riceverà queste e-mail, a meno che non sia assegnato a un ruolo impostato su **[!UICONTROL Bypass Single Sign-On]**.
 
 Tutto qui. Ora tutti gli utenti (ad eccezione di quelli che dispongono dell&#39;autorizzazione per ignorare il Single Sign-On) saranno limitati a utilizzare solo l&#39;accesso SSO.
 

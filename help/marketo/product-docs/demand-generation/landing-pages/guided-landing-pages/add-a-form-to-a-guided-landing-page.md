@@ -4,9 +4,9 @@ description: Aggiungere un modulo a una pagina di destinazione guidata - Documen
 title: Aggiungere un modulo a una pagina di destinazione guidata
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 >
 >[Crea una pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Trova e seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
+1. Trovare e selezionare la pagina di destinazione e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/two.png)
 
@@ -41,15 +41,15 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 
 1. Nella scelta della pagina di follow-up sono disponibili tre opzioni:
 
-   * Pagina di destinazione: scegli una pagina di destinazione Marketo
-   * External URL - scegli un URL qualsiasi
-   * Definizione modulo: utilizza le impostazioni definite a livello di modulo
+   * **[!UICONTROL Landing Page]** - scegli una pagina di destinazione di Marketo
+   * **[!UICONTROL External URL]** - scegli un URL qualsiasi
+   * **[!UICONTROL Form Defined]** - utilizza le impostazioni definite a livello di modulo
 
    >[!NOTE]
    >
    >La pagina di follow-up è la pagina che le persone vedranno dopo aver inviato il modulo.
 
-1. In questo esempio utilizzeremo Definito da modulo. Fare clic su **Inserisci**.
+1. In questo esempio utilizzeremo [!UICONTROL Form Defined]. Fai clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 

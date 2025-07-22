@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900554
-description: Modificare il HTML di un’e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Modifica HTML di un’e-mail - Documenti Marketo - Documentazione del prodotto
 title: Modificare il HTML di un’e-mail
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '330'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ A volte può essere necessario modificare il HTML sottostante di un’e-mail. A 
 
 ## Modifica HTML {#edit-html}
 
-1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/teamspidey.jpg)
 
-1. Fare clic su **Modifica codice**.
+1. Fai clic su **[!UICONTROL Edit Code]**.
 
    ![](assets/two-4.png)
 
-1. Apporta le modifiche necessarie. Al termine, fai clic su **Salva**.
+1. Apporta le modifiche necessarie. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/three-3.png)
 
@@ -33,7 +33,7 @@ A volte può essere necessario modificare il HTML sottostante di un’e-mail. A 
    >
    >Cambia quello che vuoi. È possibile sostituire l&#39;intero HTML o apportare modifiche minori.
 
-1. Fai clic sul menu a discesa **Azioni codice** per scaricare il codice come file .html, allineare il file CSS o convalidare il HTML.
+1. Fai clic sul menu a discesa **[!UICONTROL Code Actions]** per scaricare il codice come file .html, allineare il file CSS o convalidare il HTML.
 
    ![](assets/four-2.png)
 
@@ -50,7 +50,7 @@ Queste modifiche al codice **non** interrompono un&#39;e-mail dal relativo model
 * Eliminazione di un modulo dal contenitore
 
 * Modifica degli attributi specifici di mkto (ad esempio, &quot;mktoName&quot; o &quot;mktoImgUrl&quot;) di qualsiasi elemento al di fuori di un modulo
-* Modifica del contenuto di qualsiasi elemento (testo formattato, immagine, video, ecc.) all&#39;esterno di un modulo
+* Modifica del contenuto di qualsiasi elemento (testo formattato, immagine, video ecc.) all’esterno di un modulo
 
 Le operazioni che è possibile eseguire nell&#39;editor di codice **interromperanno** l&#39;e-mail dal relativo modello:
 
@@ -60,17 +60,17 @@ Le operazioni che è possibile eseguire nell&#39;editor di codice **interrompera
 
 ## Cerca codice {#search-code}
 
-Utilizza la funzionalità Search Code per trovare e sostituire in modo efficiente il contenuto all’interno del codice HTML dell’e-mail.
+Utilizza la funzionalità Codice di ricerca per trovare e sostituire in modo efficiente il contenuto nel codice HTML dell’e-mail.
 
-1. Nel codice dell&#39;e-mail, fai clic su **Cerca codice**.
+1. Nel codice dell&#39;e-mail, fai clic su **[!UICONTROL Search Code]**.
 
    ![](assets/five-2.png)
 
-1. Immetti ciò che desideri trovare e fai clic su **Trova successivo** per cercare in avanti o su **Trova precedente** per cercare all&#39;indietro. Hai anche la possibilità di **Sostituire** e **Sostituire Tutto**.
+1. Immettere l&#39;elemento che si desidera trovare e fare clic su **[!UICONTROL Find Next]** per eseguire la ricerca in avanti o su **[!UICONTROL Find Previous]** per eseguire la ricerca all&#39;indietro. È inoltre possibile scegliere di **[!UICONTROL Replace]** e **[!UICONTROL Replace All]**.
 
    ![](assets/six-1.png)
 
-1. Al termine, fai clic su **Chiudi**.
+1. Al termine, fai clic su **[!UICONTROL Close]**.
 
    ![](assets/seven.png)
 

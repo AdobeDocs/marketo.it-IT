@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 7e0708db6abbdf5c151fe05647da7a7b0b3cbd13
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
@@ -16,25 +16,25 @@ ht-degree: 0%
 
 ## Creare una categoria {#create-a-category}
 
-1. Fare clic sulla scheda **Modelli**.
+1. Fare clic sulla scheda **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-1.png)
 
-1. Fai clic sull&#39;icona **+** accanto a **Categorie**.
+1. Fai clic sull&#39;icona **+** accanto a **[!UICONTROL Categories]**.
 
    ![](assets/manage-template-categories-2.png)
 
-1. Immetti un nome per la nuova categoria, quindi fai clic su **Crea**.
+1. Immettere un nome per la nuova categoria, quindi fare clic su **[!UICONTROL Create]**.
 
    ![](assets/manage-template-categories-3.png)
 
 ## Rinominare una categoria di modelli {#rename-a-template-category}
 
-1. Fare clic sulla scheda **Modelli**.
+1. Fare clic sulla scheda **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-4.png)
 
-1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Selezionare **Rinomina**.
+1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Seleziona **[!UICONTROL Rename]**.
 
    ![](assets/manage-template-categories-5.png)
 
@@ -44,15 +44,15 @@ ht-degree: 0%
 
 ## Eliminare una categoria di modelli {#delete-a-template-category}
 
-1. Fare clic sulla scheda **Modelli**.
+1. Fare clic sulla scheda **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-7.png)
 
-1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Selezionare **Elimina**.
+1. Passa il puntatore del mouse sul modello da rinominare e fai clic sul punto (tre punti). Seleziona **[!UICONTROL Delete]**.
 
    ![](assets/manage-template-categories-8.png)
 
-1. Fai clic su **Elimina** per confermare.
+1. Fai clic su **[!UICONTROL Delete]** per confermare.
 
    ![](assets/manage-template-categories-9.png)
 

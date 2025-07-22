@@ -1,31 +1,31 @@
 ---
-description: Riconfigura metodo di autenticazione Dynamics - Documentazione di Marketo - Documentazione del prodotto
-title: Riconfigura metodo di autenticazione Dynamics
+description: Riconfigura [!DNL Dynamics] Metodo di autenticazione - Documentazione di Marketo - Documentazione del prodotto
+title: Riconfigura [!DNL Dynamics] Metodo di autenticazione
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Riconfigura metodo di autenticazione Dynamics {#reconfigure-dynamics-authentication-method}
 
-Per aggiornare il metodo di autenticazione Dynamics, segui la procedura riportata di seguito.
+Per aggiornare il metodo di autenticazione [!DNL Dynamics], attenersi alla procedura riportata di seguito.
 
 >[!PREREQUISITES]
 >
->Configurare l&#39;applicazione in Microsoft Dynamics e Active Directory (Azure AD/ADFS) utilizzando il metodo di autenticazione desiderato da uno degli articoli seguenti:
+>Configurare l&#39;applicazione in [!DNL Microsoft Dynamics] e Active Directory (Azure AD/ADFS) utilizzando il metodo di autenticazione desiderato da uno degli articoli seguenti:
 >
 >* [Passaggio 2 di 3: configurare una soluzione Marketo con connessione server-server](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md){target="_blank"}
 >* [Passaggio 2 di 4: configurare la soluzione Marketo con la connessione di controllo password del proprietario della risorsa](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md){target="_blank"}
 
-1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
+1. In Marketo fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-1.png)
 
-1. Fare clic su **[!DNL Microsoft Dynamics]**, quindi su **[!UICONTROL Disattiva sincronizzazione]**.
+1. Fai clic su **Microsoft Dynamics**, quindi su **[!UICONTROL Disable Sync]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-2.png)
 
@@ -33,7 +33,7 @@ Per aggiornare il metodo di autenticazione Dynamics, segui la procedura riportat
    >
    >Per aggiornare il metodo di autenticazione, è necessario disattivare temporaneamente la sincronizzazione globale.
 
-1. Fare clic sulla scheda **[!UICONTROL Riconfigura nuovo metodo di autenticazione]**.
+1. Fare clic sulla scheda **[!UICONTROL Reconfigure New Auth Method]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
@@ -41,7 +41,7 @@ Per aggiornare il metodo di autenticazione Dynamics, segui la procedura riportat
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
-1. Immettere le credenziali richieste per il nuovo metodo di autenticazione e fare clic su **[!UICONTROL Convalida]**.
+1. Immettere le credenziali richieste per il nuovo metodo di autenticazione e fare clic su **[!UICONTROL Validate]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-5.png)
 
@@ -50,23 +50,23 @@ Per aggiornare il metodo di autenticazione Dynamics, segui la procedura riportat
    >* I campi specifici variano a seconda del metodo di autenticazione scelto e il modulo viene aggiornato automaticamente a seconda del metodo di autenticazione precedente.
    >* Se hai eseguito la sincronizzazione in precedenza, i dati nel modulo di cui sopra potrebbero essere precompilati. Immetti nuovamente tutte le credenziali per garantire i valori corretti.
 
-1. Se tutto funziona correttamente, la sincronizzazione di convalida genererà tutti i segni di spunta verdi ![](assets/green-check.png). Rivedi il messaggio e fai clic su **[!UICONTROL Switch]** per aggiornare il metodo di autenticazione.
+1. Se tutto funziona correttamente, la sincronizzazione di convalida genererà tutti i segni di spunta verdi ![](assets/green-check.png). Rivedere il messaggio e fare clic su **[!UICONTROL Switch]** per aggiornare il metodo di autenticazione.
 
    ![](assets/reconfigure-dynamics-authentication-method-6.png)
 
    >[!NOTE]
    >
-   >Se viene visualizzato un ![](assets/red-x.png), il passaggio presenta un problema. Consulta [Correzione dei problemi di sincronizzazione della convalida Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md){target="_blank"} per identificare e risolvere i problemi. Quindi esegui nuovamente i passaggi di convalida della sincronizzazione fino a quando il risultato non si presenta come nell’immagine precedente.
+   >Se viene visualizzato un ![](assets/red-x.png), il passaggio presenta un problema. Consulta [Correzione [!DNL Dynamics] Problemi di sincronizzazione della convalida](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync/fix-dynamics-validation-sync-issues.md) per identificare e risolvere i problemi. Quindi esegui nuovamente i passaggi di convalida della sincronizzazione fino a quando il risultato non si presenta come nell’immagine precedente.
 
-1. Fai clic su **[!UICONTROL Conferma]** per continuare.
+1. Fare clic su **[!UICONTROL Confirm]** per continuare.
 
    ![](assets/reconfigure-dynamics-authentication-method-7.png)
 
-1. Fai di nuovo clic su **[!UICONTROL Conferma]**.
+1. Fare di nuovo clic su **[!UICONTROL Confirm]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-8.png)
 
-1. Fare clic su **[!UICONTROL OK]**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    >[!IMPORTANT]
    >

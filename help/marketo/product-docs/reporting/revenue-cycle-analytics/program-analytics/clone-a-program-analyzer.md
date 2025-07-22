@@ -4,9 +4,9 @@ description: Clonare un analizzatore di programmi - Documentazione di Marketo - 
 title: Clonare un analizzatore di programmi
 exl-id: 90a335b3-dd55-47e7-b4f7-b45c49671d11
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -15,23 +15,23 @@ ht-degree: 0%
 
 Dopo aver salvato un analizzatore, è facile clonarlo per crearne uno nuovo. Quindi, vai e modifica il nuovo se ha bisogno di modifiche.
 
-1. Fai clic sul riquadro **Analytics**.
+1. Fare clic sul riquadro **[!UICONTROL Analytics]**.
 
    ![](assets/2017-05-01-08-20-37.png)
 
-1. Fare clic sul riquadro **Analisi programmi**.
+1. Fare clic sul riquadro **[!UICONTROL Program Analyzer]**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
-1. Mentre il tuo analizzatore salvato è aperto, apri il menu a discesa Azioni di Analyzer e seleziona **Clone Analyzer**.
+1. Mentre l&#39;analizzatore salvato è aperto, aprire il menu a discesa Azioni di analizzatore e selezionare **[!UICONTROL Clone Analyzer]**.
 
    ![](assets/image2016-10-31-16-3a12-3a6.png)
 
-1. Selezionare il percorso per l&#39;analizzatore clonato dai menu a discesa **Clona in** e **Cartella**.
+1. Selezionare il percorso per l&#39;analizzatore clonato dai menu a discesa **[!UICONTROL Clone To]** e **[!UICONTROL Folder]**.
 
    ![](assets/image2016-10-31-16-3a13-3a42.png)
 
-1. Denomina l&#39;analizzatore clonato e fai clic su **Clone**.
+1. Denomina l&#39;analizzatore clonato e fai clic su **[!UICONTROL Clone]**.
 
    ![](assets/image2016-10-31-16-3a15-3a15.png)
 
@@ -41,4 +41,4 @@ Dopo aver salvato un analizzatore, è facile clonarlo per crearne uno nuovo. Qui
 
    >[!MORELIKETHIS]
    >
-   >[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+   >[Crea un [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)

@@ -4,10 +4,10 @@ description: Approvare un frammento - Documentazione di Marketo - Documentazione
 title: Approva snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Uno snippet deve essere approvato prima dell&#39;uso.
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-8-3a55-3a15.png)
 
-1. Fai clic sul **frammento**. In **Azioni snippet**, fai clic su **Approva**.
+1. Fai clic sul **frammento**. In **[!UICONTROL Snippet Actions]**, fare clic su **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-Tutto qui! Lo stato del frammento cambia da Bozza ad Approvato.
+Tutto qui. Lo stato del frammento cambia da Bozza ad Approvato.
 
 >[!MORELIKETHIS]
 >

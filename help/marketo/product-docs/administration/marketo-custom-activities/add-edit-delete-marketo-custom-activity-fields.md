@@ -4,10 +4,10 @@ description: Aggiungere/Modificare/Eliminare i campi di attività personalizzati
 title: Aggiungi/Modifica/Elimina campi attività personalizzati di Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '262'
+ht-degree: 3%
 
 ---
 
@@ -17,15 +17,15 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
 ## Aggiungere un campo attività personalizzato {#add-a-custom-activity-field}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
-1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-2.png)
 
-1. Fare clic su **[!UICONTROL Campi]**.
+1. Fai clic su **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-3.png)
 
@@ -33,11 +33,11 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-4.png)
 
-1. Fare clic su **[!UICONTROL Nuovo campo]**.
+1. Fai clic su **[!UICONTROL New Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-5.png)
 
-1. Scegli il tipo di dati [!UICONTROL del campo].
+1. Scegli il campo [!UICONTROL data type].
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-6.png)
 
@@ -45,23 +45,23 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
    >
    >Non sei sicuro di cosa selezionare? Ti copriamo! Tutti i tipi di dati disponibili sono definiti in [questo articolo](/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md).
 
-1. Denomina il campo. Il nome API si compila automaticamente. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Denomina il campo. Il nome API si compila automaticamente. Al termine, fare clic su **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-7.png)
 
-   Tutto qui! Il nuovo campo è stato aggiunto.
+   Tutto qui. Il nuovo campo è stato aggiunto.
 
 ## Modificare un campo attività personalizzato {#edit-a-custom-activity-field}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
-1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-9.png)
 
-1. Fare clic su **[!UICONTROL Campi]**.
+1. Fai clic su **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-10.png)
 
@@ -69,21 +69,21 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-11.png)
 
-1. Seleziona il campo da modificare, fai clic sul menu a discesa **[!UICONTROL Azioni campo]** e seleziona **[!UICONTROL Modifica campo]**.
+1. Selezionare il campo da modificare, fare clic sull&#39;elenco a discesa **[!UICONTROL Field Actions]** e selezionare **[!UICONTROL Edit Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-12.png)
 
-   Viene visualizzata la finestra a comparsa Modifica campo. In questo esempio modifichiamo il nome del campo.
+   Viene visualizzata la finestra a comparsa **[!UICONTROL Edit Field]**. In questo esempio modifichiamo il nome del campo.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-13.png)
 
-1. Immetti il nuovo nome e il nome API, quindi fai clic su **[!UICONTROL Salva]**.
+1. Immettere il nuovo nome e il nome API, quindi fare clic su **[!UICONTROL Save]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-14.png)
 
    >[!NOTE]
    >
-   >Il Nome API non viene compilato automaticamente durante la modifica di un campo. Anche se non è necessario che il Nome campo e il Nome API corrispondano, consigliamo di farlo.
+   >[!UICONTROL Api Name] non verrà compilato automaticamente durante la modifica di un campo. Sebbene non sia necessario che il campo [!UICONTROL Name] e il campo [!UICONTROL Api Name] corrispondano, è consigliabile che lo facciano.
 
    >[!CAUTION]
    >
@@ -97,15 +97,15 @@ Il campo è stato modificato.
 
 ## Eliminare un campo attività personalizzato {#delete-a-custom-activity-field}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 
-1. Fai clic su **[!UICONTROL Attività personalizzate Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Activities]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-16.png)
 
-1. Fare clic su **[!UICONTROL Campi]**.
+1. Fai clic su **[!UICONTROL Fields]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-17.png)
 
@@ -113,6 +113,6 @@ Il campo è stato modificato.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-18.png)
 
-1. Selezionare il campo che si desidera eliminare, fare clic sul menu a discesa **[!UICONTROL Azioni campo]** e selezionare **[!UICONTROL Elimina campo]**.
+1. Selezionare il campo da eliminare, fare clic sull&#39;elenco a discesa **[!UICONTROL Field Actions]** e selezionare **[!UICONTROL Delete Field]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-19.png)

@@ -4,10 +4,10 @@ description: Aggiungere token a un collegamento e-mail - Documentazione di Marke
 title: Aggiungere token a un collegamento e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 2%
+source-wordcount: '79'
+ht-degree: 1%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, puoi utilizzare i token. Ecco come.
 
-1. Seleziona l&#39;e-mail e fai clic sulla scheda **Modifica bozza**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic sulla scheda **[!UICONTROL Edit Draft]**.
 
    ![](assets/one.png)
 
@@ -23,15 +23,15 @@ Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, pu
 
    ![](assets/two.png)
 
-1. Individua o scrive il testo del collegamento. Evidenziarlo e fare clic sull&#39;icona **Inserisci/Modifica collegamento**.
+1. Individua o scrive il testo del collegamento. Evidenziarlo e fare clic sull&#39;icona **[!UICONTROL Insert/Edit Link]**.
 
    ![](assets/three.png)
 
-1. Digitare i token desiderati in **URL** e fare clic su **Inserisci**.
+1. Digitare i token desiderati in **[!UICONTROL URL]** e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/four.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/five.png)
 

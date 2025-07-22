@@ -4,26 +4,26 @@ description: 'Utilizzo degli URL nei token: documenti Marketo: documentazione de
 title: Utilizzo degli URL nei miei token
 exl-id: 6830c621-4d94-4f31-a608-2f7b2aced88c
 feature: Tokens
-source-git-commit: 165dca2573f340ede147866c3a30707bbfb6857c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
 # Utilizzo degli URL nei miei token {#using-urls-in-my-tokens}
 
-Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-mail.
+Segui i passaggi seguenti per utilizzare [!UICONTROL My Tokens] per inserire gli URL nelle e-mail.
 
-1. Seleziona il programma e fai clic su **I miei token**.
+1. Selezionare il programma e fare clic su **[!UICONTROL My Tokens]**.
 
    ![](assets/one-4.png)
 
-1. Seleziona il **Testo** Il mio token, trascinalo sull&#39;area di lavoro.
+1. Seleziona il token **[!UICONTROL Text]**, trascinalo sull&#39;area di lavoro.
 
    ![](assets/two-4.png)
 
-1. Assegna al token un nome univoco, immetti un URL (senza https://) e fai clic su **Salva**.
+1. Assegna al token un nome univoco, immetti un URL (senza https://) e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/three-4.png)
 
@@ -39,7 +39,7 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
 
    ![](assets/four-3.png)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/five-3.png)
 
@@ -55,7 +55,7 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
    >
    >Naturalmente puoi anche immettere `http://` se il tuo sito non utilizza https.
 
-1. Individua il token personale, selezionalo e fai clic su **Inserisci**.
+1. Individua il token personale, selezionalo e fai clic su **[!UICONTROL Insert]**.
 
    ![](assets/eight.png)
 
@@ -63,15 +63,15 @@ Segui i passaggi seguenti per utilizzare I miei token per inserire URL nelle e-m
 
    ![](assets/nine.png)
 
-1. Evidenziare il testo che si desidera visualizzare nel collegamento e fare clic sull&#39;icona Inserisci/Modifica collegamento.
+1. Evidenziare il testo da visualizzare nel collegamento e fare clic sull&#39;icona [!UICONTROL Insert/Edit Link].
 
    ![](assets/ten.png)
 
-1. Premere Ctrl/Comando+V per incollare il contenuto nella casella **URL** e fare clic su **Inserisci**.
+1. Premere Ctrl/Comando+V per incollare il contenuto nella casella **[!UICONTROL URL]** e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/eleven.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/twelve.png)
 

@@ -4,9 +4,9 @@ description: Composizione di e-mail in blocco con Select e Send - Documenti Mark
 title: Composizione di e-mail in blocco con Seleziona e invia
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
 
 ## Invio di e-mail {#sending-emails}
 
-1. Passare alla pagina Persone.
+1. Passare alla pagina **[!UICONTROL People]**.
 
    ![](assets/one-2.png)
 
@@ -29,7 +29,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
    >
    >È possibile selezionare fino a 200 persone con le opzioni Seleziona e Invia.
 
-1. Fai clic sul pulsante **E-mail selezionata**.
+1. Fare clic sul pulsante **[!UICONTROL Email Selected]**.
 
    ![](assets/three-2.png)
 
@@ -39,7 +39,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
 
    >[!NOTE]
    >
-   >Se è stato selezionato un modello e si desidera verificare che tutti i campi dinamici siano compilati correttamente prima dell&#39;invio, fare clic su **Anteprima campi dinamici**. Assicurati che tutti i destinatari nella barra laterale in massa siano selezionati per l’anteprima di tutte le e-mail. Se si seleziona un&#39;e-mail e si fa clic su **Anteprima campi dinamici**, verrà visualizzata solo l&#39;anteprima dell&#39;e-mail.
+   >Se è stato selezionato un modello e si desidera verificare che tutti i campi dinamici siano compilati correttamente prima dell&#39;invio, fare clic su **[!UICONTROL Preview Dynamic Fields]**. Assicurati che tutti i destinatari nella barra laterale in massa siano selezionati per l’anteprima di tutte le e-mail. Se si seleziona un&#39;e-mail e si fa clic su **[!UICONTROL Preview Dynamic Fields]**, verrà visualizzata solo l&#39;anteprima dell&#39;e-mail.
 
 ## Modifica delle e-mail {#editing-emails}
 
@@ -59,7 +59,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
    >
    >Puoi fare clic su un destinatario e-mail specifico per visualizzare le modifiche propagate a tale e-mail.
 
-1. Fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
+1. Fai clic su **[!UICONTROL Send]** (o [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
 
    ![](assets/bulk-four.png)
 
@@ -89,7 +89,7 @@ Completa gli Aggiornamenti in blocco prima di personalizzare ogni e-mail, poich�
    >
    >Puoi fare clic su altri destinatari per verificare che le modifiche apportate al destinatario selezionato in precedenza non siano visualizzate.
 
-1. Fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
+1. Fai clic su **[!UICONTROL Send]** (o [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
 
    ![](assets/each-four.png)
 

@@ -4,9 +4,9 @@ description: Creare un testo per i messaggi in-app - Documentazione di Marketo -
 title: Crea testo messaggio in-app
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: ea9bf2a002415936cdfb5bfb723ce80723003da5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    ![](assets/image2016-5-6-9-3a56-3a56.png)
 
-1. Scegliere il colore del testo facendo clic su di esso o immettendo i numeri di esadecimale o RGB nel selettore colore.
+1. Scegliere il colore del testo facendo clic su di esso o immettendo i numeri Esadecimali o RGB nel selettore colore.
 
    ![](assets/image2016-5-6-9-3a59-3a1.png)
 
@@ -47,7 +47,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
    >
    >Il font del testo renderizzato nell’annuncio è quello standard per ogni piattaforma: Helvetica per Apple e Roboto per Android
 
-1. Seleziona la casella per selezionare Azione di tocco Testo.
+1. Selezionare la casella per selezionare **[!UICONTROL Text Tap action]**.
 
    ![](assets/image2016-5-6-10-3a20-3a41.png)
 
@@ -57,7 +57,7 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    >[!NOTE]
    >
-   >Per le azioni di tocco, puoi impostare azioni diverse per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all’altra, puoi lasciare l’altra nell’impostazione predefinita o selezionare Nessuna.
+   >Per le azioni di tocco, puoi impostare azioni diverse per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, è possibile lasciare l&#39;altra nell&#39;impostazione predefinita o selezionare [!UICONTROL None].
 
 1. Fare clic sul testo di supporto per modificarlo in linea. Funziona allo stesso modo della modifica del testo principale, ma la dimensione predefinita del testo è inferiore.
 
@@ -67,13 +67,13 @@ Fare clic sull&#39;area di testo per lavorare sullo stile e sul contenuto del te
 
    ![](assets/image2016-5-6-10-3a29-3a2.png)
 
-1. Selezionare un token personale dal menu a discesa, aggiungere un valore predefinito e fare clic su **Inserisci**.
+1. Selezionare un token personale dal menu a discesa, aggiungere un valore predefinito e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/mytoken.png)
 
    >[!NOTE]
    >
-   >Solo I miei token sono disponibili come opzioni. Se nel programma non è stato impostato alcun token, l’elenco a discesa Token sarà vuoto.
+   >Solo I miei token sono disponibili come opzioni. Se nel programma non è stato impostato alcun token, l&#39;elenco a discesa [!UICONTROL Token] sarà vuoto.
 
    >[!TIP]
    >

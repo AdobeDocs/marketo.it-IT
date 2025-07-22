@@ -4,9 +4,9 @@ description: Filtrare Assets in un rapporto e-mail - Documenti Marketo - Documen
 title: Filtrare Assets in un rapporto e-mail
 exl-id: c242e566-94d0-4e20-ba81-13a8f8f0b8a9
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ Concentrare il report [Prestazioni e-mail](/help/marketo/product-docs/email-mark
 
    ![](assets/image2014-9-16-15-3a53-3a29.png)
 
-1. Fai clic sulla scheda **Configurazione** e trascina un filtro.
+1. Fai clic sulla scheda **[!UICONTROL Setup]** e trascina un filtro.
 
    ![](assets/image2014-9-16-15-3a53-3a32.png)
 
-   * **E-mail di Design Studio**: risorse globali, gestite in Design Studio.
-   * **E-mail attività di marketing**: risorse locali nei programmi nella scheda Attività di marketing.
+   * **[!UICONTROL Design Studio Emails]**: risorse globali, gestite in Design Studio.
+   * **[!UICONTROL Marketing Activities Emails]**: risorse locali nei programmi nella scheda Attività di marketing.
    * **E-mail archiviate**: e-mail inattive, ritirate.
 
 1. Scegli le cartelle e le e-mail specifiche da includere nel rapporto.
@@ -43,7 +43,7 @@ Concentrare il report [Prestazioni e-mail](/help/marketo/product-docs/email-mark
    >
    >Se selezioni una cartella, il rapporto includerà tutto ciò che la cartella contiene al momento dell’esecuzione del rapporto.
 
-1. Hai finito! Fai clic sulla scheda **Report** per visualizzare il report filtrato.
+1. Hai finito! Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare il report filtrato.
 
    ![](assets/image2014-9-16-15-3a53-3a59.png)
 

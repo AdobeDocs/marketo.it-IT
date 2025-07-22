@@ -4,9 +4,9 @@ description: Dashboard di coinvolgimento - Documentazione di Marketo - Documenta
 title: Dashboard di coinvolgimento
 exl-id: ba72cadf-416c-4faa-9f0c-aa75fec3c3cf
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ La dashboard di coinvolgimento è il modo più semplice per visualizzare le pres
 
 ## Visualizza dashboard di coinvolgimento {#view-the-engagement-dashboard}
 
-Seleziona il programma di coinvolgimento e fai clic su **Visualizza** > **Dashboard**.
+Seleziona il programma di coinvolgimento e fai clic su **Visualizza** > **[!UICONTROL Dashboard]**.
 
 ![](assets/image2014-9-15-16-3a42-3a41.png)
 
@@ -37,7 +37,7 @@ Questo widget consente di prevedere quando i lead avranno esaurito tutti i conte
 
 >[!NOTE]
 >
->Devi passare alla scheda Configurazione e assicurarti che le notifiche del contenuto esaurito siano **Il** per visualizzare il grafico qui sopra. Se sono disattivati, il grafico sarà diverso.
+>Devi passare alla scheda [!UICONTROL Setup] e assicurarti che [!UICONTROL Exhausted Content Notifications] siano **[!UICONTROL On]** per visualizzare il grafico qui sopra. Se sono disattivati, il grafico sarà diverso.
 
 >[!CAUTION]
 >
@@ -49,7 +49,7 @@ Mostra il punteggio medio di coinvolgimento nel tempo e l’impatto delle modifi
 
 >[!AVAILABILITY]
 >
->Questa funzione è disponibile come componente aggiuntivo per i clienti che utilizzano Marketo Revenue Cycle Explorer. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Questa funzione è disponibile come componente aggiuntivo per i clienti che utilizzano Marketo Revenue Cycle Explorer. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 ![](assets/image2014-9-15-16-3a45-3a50.png)
 

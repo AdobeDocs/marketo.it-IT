@@ -4,10 +4,10 @@ description: Abilitare URL personalizzati per l’account - Documentazione di Ma
 title: Abilitare gli URL personalizzati per il tuo account
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 1%
+source-wordcount: '93'
+ht-degree: 4%
 
 ---
 
@@ -19,15 +19,15 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai alla sezione **Amministratore** e fai clic su **Pagine di destinazione**.
+1. Andare alla sezione **[!UICONTROL Admin]** e fare clic su **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-18-13-3a29-3a49.png)
 
-1. Fai clic su **Modifica**.
+1. Fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-18-13-3a29-3a58.png)
 
-1. Seleziona la casella **Abilita URL personalizzati** e fai clic su **Salva**.
+1. Selezionare la casella **[!UICONTROL Enable Personalized URLs]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 

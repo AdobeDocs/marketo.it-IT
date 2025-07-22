@@ -4,9 +4,9 @@ description: Aggiungere un token di sistema come collegamento in un messaggio e-
 title: Aggiungere un token di sistema come collegamento in un messaggio e-mail
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ I seguenti token possono essere utilizzati come collegamenti in un modello e-mai
 
 Ecco come aggiungerli a un’e-mail:
 
-1. Trova e seleziona il tuo indirizzo e-mail, quindi fai clic su **Modifica bozza**.
+1. Trovare e selezionare l&#39;indirizzo di posta elettronica, quindi fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-1.png)
 
@@ -35,11 +35,11 @@ Ecco come aggiungerli a un’e-mail:
 
    ![](assets/two-1.png)
 
-1. Evidenziare il testo da convertire in un collegamento che avrà il token e fare clic sul pulsante **Inserisci/Modifica collegamento**.
+1. Evidenziare il testo che si desidera convertire in un collegamento che avrà il token e fare clic sul pulsante **[!UICONTROL Insert/Edit Link]**.
 
    ![](assets/three-1.png)
 
-1. Immettere il token nell&#39;URL del collegamento e fare clic su **Inserisci**.
+1. Immettere il token nell&#39;URL del collegamento e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/four-1.png)
 
@@ -47,7 +47,7 @@ Ecco come aggiungerli a un’e-mail:
    >
    >Copiare/incollare il token desiderato: **`{{system.forwardToFriendLink}}`** o **`{{system.unsubscribeLink}}`** o **`{{system.viewAsWebpageLink}}`**
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a12-3a17.png)
 

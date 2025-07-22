@@ -4,24 +4,24 @@ description: I miei report e i report dei gruppi - Documentazione di Marketo - D
 title: I miei report e i report dei gruppi
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
 # I miei report e i report dei gruppi {#understanding-my-reports-and-group-reports}
 
-Puoi creare **I miei report** e **I report del gruppo** dalla [Home di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
+Puoi creare **[!UICONTROL My Reports]** e **[!UICONTROL Group Reports]** dalla [Home di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 
-**I miei report** sono visibili solo a te.
+**[!UICONTROL My Reports]** sono visibili solo a te.
 
-**I report dei gruppi** sono visibili a tutti gli utenti di quell&#39;area di lavoro.
+**[!UICONTROL Group Reports]** sono visibili a tutti gli utenti di quell&#39;area di lavoro.
 
 >[!NOTE]
 >
->Ogni area di lavoro ha un set di **Report personali** e **Report di gruppo**.
+>Ogni area di lavoro ha un set di **[!UICONTROL My Reports]** e **[!UICONTROL Group Reports]**.
 
 ![](assets/image2015-4-21-14-3a41-3a22.png)
 

@@ -4,9 +4,9 @@ description: Creazione di un programma e-mail - Documentazione di Marketo - Docu
 title: Creare un programma e-mail
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Utilizza i programmi e-mail per inviare in modo rapido e semplice un messaggio e-mail a un gruppo di persone.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Selezionare la cartella in cui si desidera creare il programma, fare clic sul menu a discesa **Nuovo** e selezionare **Nuovo programma**.
+1. Selezionare la cartella in cui si desidera creare il programma, fare clic sull&#39;elenco a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Program]**.
 
    ![](assets/two.png)
 
-1. Immetti un nome, seleziona **E-mail** come Tipo di programma, quindi fai clic su **Crea**.
+1. Immettere un nome, selezionare **[!UICONTROL Email]** come [!UICONTROL Program Type] e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Quando si seleziona **E-mail** come tipo di programma, il canale verrà impostato automaticamente su **Invia e-mail**. Puoi cambiarla se vuoi.
+   >Quando si seleziona **[!UICONTROL Email]** come tipo di programma, il canale verrà automaticamente impostato su **[!UICONTROL Email Send]**. Puoi cambiarla se vuoi.
 
    ![](assets/four.png)
 

@@ -3,10 +3,10 @@ description: Aggiungere identità - Documentazione Marketo - Documentazione del 
 title: Aggiungi identità
 exl-id: a85937c3-aa15-4900-a42b-950ab2ae1776
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 1%
 
 ---
 
@@ -22,19 +22,19 @@ Aggiungi un’identità quando disponi di più indirizzi e-mail da inviare.
 
    ![](assets/add-identity-1.png)
 
-1. Fare clic su **Impostazioni e-mail**.
+1. Fai clic su **[!UICONTROL Email Settings]**.
 
    ![](assets/add-identity-2.png)
 
-1. Fare clic su **Aggiungi identità**.
+1. Fai clic su **[!UICONTROL Add Identity]**.
 
    ![](assets/add-identity-3.png)
 
-1. Immetti le informazioni (i campi obbligatori e-mail e nome) e fai clic su **Crea**.
+1. Immettere le informazioni (i campi e-mail e nome sono obbligatori) e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/add-identity-4.png)
 
-1. Riceverai un’e-mail con la dicitura &quot;Verifica l’indirizzo e-mail&quot;. Per verificare, fare clic su **Verifica indirizzo e-mail**.
+1. Riceverai un’e-mail con la dicitura &quot;Verifica l’indirizzo e-mail&quot;. Per verificare, fare clic su **[!UICONTROL Verify Email Address]**.
 
    ![](assets/add-identity-5.png)
 

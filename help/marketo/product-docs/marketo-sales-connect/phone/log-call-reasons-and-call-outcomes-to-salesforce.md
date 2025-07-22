@@ -1,29 +1,29 @@
 ---
-description: Registra i motivi delle chiamate e gli esiti delle chiamate a Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Registra i motivi delle chiamate e gli esiti delle chiamate a Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Registra i motivi e gli esiti delle chiamate a Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 0%
+source-wordcount: '415'
+ht-degree: 2%
 
 ---
 
-# Registra i motivi e gli esiti delle chiamate a Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# Registra i motivi e gli esiti delle chiamate a [!DNL Salesforce] {#log-call-reasons-and-call-outcomes-to-salesforce}
 
-Se desideri registrare i risultati delle chiamate e i motivi delle chiamate a Salesforce a scopo di reporting o visibilità, puoi creare un campo attività personalizzato per ciascuno di essi. Ogni campo deve utilizzare un nome API specifico (noto come &quot;Nome campo&quot; in Salesforce).
+Se desideri registrare i risultati delle chiamate e i motivi delle chiamate a [!DNL Salesforce] a scopo di reporting o visibilità, puoi creare un campo attività personalizzato per ciascuno di essi. Ogni campo deve utilizzare un nome API specifico (noto come &quot;Nome campo&quot; in [!DNL Salesforce]).
 
 * Nome campo risultati chiamata: mktosales_call_result
 * Nome campo motivi chiamata: mktosales_call_reason
 
 Per utilizzare questi campi, devi innanzitutto crearli come campo attività personalizzato. Per renderlo visibile agli utenti, è necessario aggiungerlo al layout della pagina dell&#39;oggetto attività.
 
-## Salesforce Classic {#salesforce-classic}
+## [!DNL Salesforce] Classic {#salesforce-classic}
 
-### Creare un campo attività personalizzato in Salesforce Classic  {#create-custom-activity-field-in-salesforce-classic}
+### Crea campo attività personalizzato in [!DNL Salesforce] Classic  {#create-custom-activity-field-in-salesforce-classic}
 
-1. In Salesforce, fare clic su **Configurazione**.
+1. In [!DNL Salesforce], fare clic su **[!UICONTROL Setup]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-1.png)
 
@@ -31,15 +31,15 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-2.png)
 
-1. Fare clic su **Campi personalizzati attività**.
+1. Fai clic su **[!UICONTROL Activity Custom Fields]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. Fare clic su **Nuovo**.
+1. Fai clic su **[!UICONTROL New]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
-1. Selezionare il tipo di dati &quot;Testo&quot; e fare clic su **Avanti**.
+1. Selezionare il tipo di dati &quot;[!UICONTROL Text]&quot; e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-5.png)
 
@@ -47,29 +47,29 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-6.png)
 
-1. Le altre impostazioni sono facoltative. Dopo aver completato la configurazione, fai clic su **Avanti**.
+1. Le altre impostazioni sono facoltative. Dopo aver completato la configurazione, fare clic su **[!UICONTROL Next]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-7.png)
 
-1. Selezionare le impostazioni di protezione a livello di campo desiderate per il campo e fare clic su **Avanti** (l&#39;immagine seguente è solo un esempio).
+1. Selezionare le impostazioni di protezione a livello di campo desiderate per il campo e fare clic su **[!UICONTROL Next]** (l&#39;immagine seguente è solo un esempio).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-8.png)
 
    >[!NOTE]
    >
-   >Accertarsi che il campo personalizzato sia visibile al profilo utilizzato dagli utenti Sales Connect, insieme a qualsiasi altro punto che si desidera rendere visibile.
+   >Assicurati che il campo personalizzato sia visibile al profilo utilizzato dagli utenti di [!DNL Sales Connect], insieme a qualsiasi altro elemento che desideri rendere visibile.
 
-1. Seleziona i layout di pagina a cui vuoi aggiungere il campo e fai clic su **Salva** (facoltativamente, puoi fare clic su **Salva e nuovo** e ripetere la procedura per il campo Motivo chiamata).
+1. Selezionare i layout di pagina a cui si desidera aggiungere il campo e fare clic su **[!UICONTROL Save]** (facoltativamente, è possibile fare clic su **[!UICONTROL Save & New]** e ripetere la procedura per il campo Motivo chiamata).
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-9.png)
 
-### Aggiungere un campo attività personalizzato al layout della pagina attività in Salesforce Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
+### Aggiungi Campo Attività Personalizzato Al Layout Della Pagina Attività In [!DNL Salesforce] Classic {#add-custom-activity-field-to-task-page-layout-in-salesforce-classic}
 
 >[!NOTE]
 >
 >Segui questi passaggi solo se non hai selezionato il layout di pagina desiderato nel passaggio 9 precedente.
 
-1. In Salesforce, fare clic su **Configurazione**.
+1. In [!DNL Salesforce], fare clic su **[!UICONTROL Setup]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-10.png)
 
@@ -77,11 +77,11 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-11.png)
 
-1. Fare clic su **Layout pagina attività**.
+1. Fai clic su **[!UICONTROL Task Page Layouts]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-12.png)
 
-1. Fai clic su **Modifica** accanto al layout della pagina dell&#39;attività a cui desideri aggiungere questo campo.
+1. Fare clic su **[!UICONTROL Edit]** accanto al layout della pagina attività a cui si desidera aggiungere il campo.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-13.png)
 
@@ -89,57 +89,57 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-14.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-15.png)
 
-## Salesforce Lightning {#salesforce-lightning}
+## [!DNL Salesforce] fulmine {#salesforce-lightning}
 
-### Creare un campo attività personalizzato in Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
+### Crea campo attività personalizzato in [!DNL Salesforce] Fulmine {#create-custom-activity-field-in-salesforce-lightning}
 
-1. In Salesforce, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Configurazione**.
+1. In [!DNL Salesforce], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Setup]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
-1. Fare clic su **Gestione oggetti**.
+1. Fai clic su **[!UICONTROL Object Manager]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-17.png)
 
-1. Digitare &quot;Activity&quot; nella casella Ricerca rapida.
+1. Digitare &quot;[!UICONTROL Activity]&quot; nella casella Ricerca rapida.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-18.png)
 
-1. Fai clic sull&#39;etichetta **Attività**.
+1. Fare clic sull&#39;etichetta **[!UICONTROL Activity]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-19.png)
 
-1. Fare clic su **Campi e relazioni**.
+1. Fai clic su **[!UICONTROL Fields & Relationships]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. Fare clic su **Nuovo**.
+1. Fai clic su **[!UICONTROL New]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
-### Aggiungere un campo attività personalizzato al layout della pagina attività in Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
+### Aggiungi campo attività personalizzato al layout della pagina attività in [!DNL Salesforce] Fulmine {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. In Salesforce, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Configurazione**.
+1. In [!DNL Salesforce], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Setup]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 
-1. Fare clic su **Gestione oggetti**.
+1. Fai clic su **[!UICONTROL Object Manager]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-23.png)
 
-1. Digitare &quot;Task&quot; nella casella Ricerca rapida.
+1. Digitare &quot;[!UICONTROL Task]&quot; nella casella Ricerca rapida.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-24.png)
 
-1. Fai clic sull&#39;etichetta **Attività**.
+1. Fare clic sull&#39;etichetta **[!UICONTROL Task]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-25.png)
 
-1. Fare clic su **Layout di pagina**.
+1. Fai clic su **[!UICONTROL Page Layouts]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-26.png)
 
@@ -151,7 +151,7 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-28.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-29.png)
 

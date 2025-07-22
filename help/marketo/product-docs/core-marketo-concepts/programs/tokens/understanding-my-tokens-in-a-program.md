@@ -4,9 +4,9 @@ description: Informazioni sui token in un programma - Documentazione di Marketo 
 title: Informazioni sui token in un programma
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '414'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ Esempi:
   </tr> 
   <tr> 
    <td>Script e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td> 
+   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td> 
   </tr> 
   <tr> 
    <td>Numero <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -73,7 +73,7 @@ Esempi:
 
 >[!CAUTION]
 >
->I miei token non vengono risolti quando invii un’e-mail da Sales Insight su Microsoft Dynamics o Salesforce; verranno compilati solo i token standard (lead, società, ecc.). I valori predefiniti per i token _funzioneranno_.
+>I miei token non verranno risolti durante l&#39;invio di un&#39;e-mail da Sales Insight su [!DNL Microsoft Dynamics] o [!DNL Salesforce]; verranno compilati solo i token standard (lead, società, ecc.). I valori predefiniti per i token _funzioneranno_.
 
 ## Nidificazione dei token {#nesting-tokens}
 

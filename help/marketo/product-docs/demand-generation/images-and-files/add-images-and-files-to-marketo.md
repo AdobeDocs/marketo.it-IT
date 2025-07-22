@@ -4,26 +4,26 @@ description: Aggiungere immagini e file a Marketo - Documentazione di Marketo - 
 title: Aggiungere immagini e file a Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 52dec416ab853c729e1b119845085ffb06193203
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # Aggiungere immagini e file a Marketo {#add-images-and-files-to-marketo}
 
-Scopri come aggiungere nuove immagini o file all’istanza di Marketo Engage.
+Scopri come aggiungere nuove immagini o file all’istanza Marketo Engage.
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Seleziona **[!UICONTROL immagini e file]**
+1. Seleziona **[!UICONTROL Images and Files]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Carica immagine o file]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Upload image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -41,7 +41,7 @@ Scopri come aggiungere nuove immagini o file all’istanza di Marketo Engage.
 
    >[!NOTE]
    >
-   >Marketo accetta tutti i tipi di file per il caricamento, ma solo i tipi di immagine principali (JPG, PNG, GIF, ecc.) funzionerà nel nostro editor e-mail.
+   >Anche se Marketo accetta tutti i tipi di file per il caricamento, nel nostro editor e-mail funzioneranno solo i tipi di immagini principali (JPG, PNG, GIF, ecc.).
 
    >[!MORELIKETHIS]
    >

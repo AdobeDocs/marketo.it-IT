@@ -4,9 +4,9 @@ description: Aggiunta di un rettangolo a una pagina di destinazione in formato l
 title: Aggiunta di un rettangolo a una pagina di destinazione in formato libero
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 I rettangoli nelle pagine di destinazione sono ideali per evidenziare un’area del testo.
 
-1. Seleziona una pagina di destinazione in formato libero e fai clic su **Modifica bozza**.
+1. Selezionare una pagina di destinazione in formato libero e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a50-3a51.png)
 
@@ -23,11 +23,11 @@ I rettangoli nelle pagine di destinazione sono ideali per evidenziare un’area 
    >
    >Il designer di pagine di destinazione in formato libero si apre in una nuova finestra.
 
-1. Trascinare sull&#39;elemento **Rectangle**.
+1. Trascinare sull&#39;elemento **[!UICONTROL Rectangle]**.
 
    ![](assets/image2015-5-21-14-3a48-3a45.png)
 
-1. Selezionare il rettangolo e utilizzare **Foglio delle proprietà** per apportare le modifiche necessarie.
+1. Selezionare il rettangolo e utilizzare **[!UICONTROL Property Sheet]** per apportare le modifiche necessarie.
 
    >[!TIP]
    >

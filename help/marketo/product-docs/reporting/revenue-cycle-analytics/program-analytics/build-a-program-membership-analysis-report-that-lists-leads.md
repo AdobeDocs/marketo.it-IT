@@ -4,9 +4,9 @@ description: Creare un rapporto di analisi sull’iscrizione al programma che el
 title: Creare un rapporto di analisi dell’iscrizione al programma che elenca i lead
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -17,29 +17,29 @@ Per creare un report di analisi dell&#39;appartenenza al programma che mostri tu
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Avvia Gestione ricavi.
+1. Avvia **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Crea nuovo** e quindi su **Report**.
+1. Fare clic su **[!UICONTROL Create New]** e quindi su **[!UICONTROL Report]**.
 
    ![](assets/two.png)
 
-1. Seleziona **Analisi appartenenza programma** e fai clic su **OK**.
+1. Selezionare **[!UICONTROL Program Membership Analysis]** e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/three.png)
 
-1. Individuare e fare doppio clic sul punto giallo Nome programma.
+1. Individuare e fare doppio clic sul punto giallo **[!UICONTROL Program Name]**.
 
    ![](assets/four.png)
 
-1. Individuare e fare doppio clic sul punto blu Membri.
+1. Individuare e fare doppio clic sul punto blu **[!UICONTROL Members]**.
 
    ![](assets/five.png)
 
-1. Trova e fai doppio clic sul punto blu Successo (totale).
+1. Individuare e fare doppio clic sul punto blu **[!UICONTROL Success (Total)]**.
 
    ![](assets/six.png)
 
@@ -47,13 +47,13 @@ Vedi quanto è stato facile?
 
 ![](assets/seven.png)
 
-Puoi aggiungere rapidamente un attributo del lead, ad esempio _Nome completo_, per vedere chi sono i membri.
+È possibile aggiungere rapidamente un attributo del lead come _[!UICONTROL Full Name]_per visualizzare i membri.
 
 >[!TIP]
 >
 >Sono disponibili numerosi attributi lead/società tra cui scegliere. Controllateli!
 
-1. Trova e fai doppio clic sul punto giallo **Nome completo**.
+1. Individuare e fare doppio clic sul punto giallo **[!UICONTROL Full Name]**.
 
    ![](assets/eight.png)
 

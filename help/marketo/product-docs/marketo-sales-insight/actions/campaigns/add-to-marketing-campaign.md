@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 282c2772ce5ba1be381e91cec7e4041315a7f8c9
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 1%
 
 ---
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Per aggiungere una persona a una campagna Marketo da Sales Connect, Sales Connect deve disporre dell&#39;ID lead Marketo della persona.
+>Per aggiungere una persona a una campagna Marketo da [!DNL Sales Connect], [!DNL Sales Connect] deve avere l&#39;ID lead Marketo della persona.
 
-1. Fare clic sulla scheda **Persone**.
+1. Fare clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/add-to-marketing-campaign-1.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-2.png)
 
-1. Fai clic sulla casella di controllo per selezionare i contatti e fai clic su **Aggiungi selezionati alla campagna**.
+1. Fare clic sulla casella di controllo per selezionare i contatti e fare clic su **[!UICONTROL Add Selected to Campaign]**.
 
    ![](assets/add-to-marketing-campaign-3.png)
 
@@ -40,11 +40,11 @@ ht-degree: 0%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su Singoli utenti e digitarli. Al termine, fai clic su **Avanti**.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su [!UICONTROL Individuals] e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
-1. Fai clic su **Campagna di marketing**.
+1. Fai clic su **[!UICONTROL Marketing Campaign]**.
 
 PICC
 
@@ -54,41 +54,41 @@ PICC
 
 >[!NOTE]
 >
->Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo Team Access.
+>Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo [!UICONTROL Team Access].
 
-1. Seleziona la campagna desiderata e fai clic su **Avanti**.
+1. Selezionare la campagna desiderata e fare clic su **[!UICONTROL Next]**.
 
 PICC
 
-1. Vengono visualizzati i contatti idonei. Fai clic su **Inizio** per aggiungerli.
+1. Vengono visualizzati i contatti idonei. Fai clic su **[!UICONTROL Start]** per aggiungerli.
 
 PICC
 
 ## Aggiungere un gruppo a una campagna {#add-a-group-to-a-campaign}
 
-1. Fare clic sulla scheda **Persone**.
+1. Fare clic sulla scheda **[!UICONTROL People]**.
 
 PICC
 
-1. In I miei gruppi, seleziona il gruppo da aggiungere a una campagna.
+1. In [!UICONTROL My Groups] selezionare il gruppo che si desidera aggiungere a una campagna.
 
 PICC
 
-1. Fai clic su **Aggiungi gruppo a campagna**.
+1. Fai clic su **[!UICONTROL Add Group to Campaign]**.
 
 PICC
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su Singoli utenti e digitarli. Al termine, fai clic su **Avanti**.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su [!UICONTROL Individuals] e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
 
 PICC
 
-1. Seleziona **Campagna di marketing**.
+1. Seleziona **[!UICONTROL Marketing Campaign]**.
 
 PICC
 
 >[!NOTE]
 >
->Per aggiungere una persona a una campagna Marketo da Sales Connect, Sales Connect deve disporre dell&#39;ID lead Marketo della persona.
+>Per aggiungere una persona a una campagna Marketo da [!DNL Sales Connect], [!DNL Sales Connect] deve avere l&#39;ID lead Marketo della persona.
 
 1. Fai clic sull’elenco a discesa Aree di lavoro e scegli l’area di lavoro contenente la campagna a cui desideri aggiungere il gruppo.
 
@@ -98,10 +98,10 @@ PICC
 >
 >Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo Team Access.
 
-1. Seleziona la campagna desiderata e fai clic su **Avanti**.
+1. Selezionare la campagna desiderata e fare clic su **[!UICONTROL Next]**.
 
 PICC
 
-1. Vengono visualizzati i contatti idonei. Fai clic su **Inizio** per aggiungerli.
+1. Vengono visualizzati i contatti idonei. Fai clic su **[!UICONTROL Start]** per aggiungerli.
 
 PICC

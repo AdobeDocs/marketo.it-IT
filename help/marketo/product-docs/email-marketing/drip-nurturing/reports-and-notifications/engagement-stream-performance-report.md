@@ -4,10 +4,10 @@ description: Rapporto sulle prestazioni del flusso di coinvolgimento - Documenti
 title: Rapporto sulle prestazioni del flusso di coinvolgimento
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 1%
+source-wordcount: '144'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
 
 ## Creare il rapporto {#create-the-report}
 
-1. Trova e seleziona il tuo programma di coinvolgimento, quindi in **Nuovo** fai clic su **Nuova risorsa locale**.
+1. Trovare e selezionare il programma di coinvolgimento, quindi in **[!UICONTROL New]** fare clic su **[!UICONTROL New Local Asset]**.
 
    ![](assets/localassetnutring.jpg)
 
-1. Seleziona **Report**.
+1. Seleziona **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a23-3a59.png)
 
@@ -29,10 +29,10 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
    >
    >La creazione di un report in base al programma lo limiterà automaticamente al contenuto del programma.
 
-   Selezionare Prestazioni flusso di coinvolgimento come tipo di report.
+   Selezionare **[!UICONTROL Engagement Stream Performance]** come report **[!UICONTROL Type]**.
    ![](assets/engagementreportchoose.png)
 
-1. Assegna un nome al report e fai clic su **Crea**.
+1. Assegna un nome al report e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
@@ -44,17 +44,17 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
 
    ![](assets/engagementperformancereport.jpg)
 
-1. Nella scheda **Configurazione** fare doppio clic sul filtro **E-mail programma di coinvolgimento**.
+1. Nella scheda **[!UICONTROL Setup]** fare doppio clic sul filtro **[!UICONTROL Engagement Program Emails]**.
 
    ![](assets/image2014-9-15-18-3a25-3a4.png)
 
-1. Seleziona le e-mail per le quali vuoi creare un rapporto e fai clic su **Applica**.
+1. Selezionare le e-mail per le quali si desidera creare il report e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/engagementfilter.jpg)
 
 ## Esegui rapporto {#run-report}
 
-1. Per eseguire il report, fare clic sulla scheda **Report**.
+1. Per eseguire il report, fare clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a25-3a15.png)
 

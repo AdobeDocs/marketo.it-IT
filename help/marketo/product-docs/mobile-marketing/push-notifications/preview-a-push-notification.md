@@ -4,9 +4,9 @@ description: Anteprima di una notifica push - Documenti Marketo - Documentazione
 title: Anteprima di una notifica push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È facile visualizzare in anteprima come si presenterà la notifica push, per Android o iOS. Ci sono quattro modi per farlo.
 
-Nella struttura di spostamento fare clic con il pulsante destro del mouse sul file della notifica che si desidera visualizzare in anteprima e scegliere **Anteprima**.
+Nella struttura di spostamento fare clic con il pulsante destro del mouse sul file della notifica che si desidera visualizzare in anteprima e quindi scegliere **[!UICONTROL Preview]**.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Nella struttura di spostamento fare clic con il pulsante destro del mouse sul fi
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 
-In alternativa, nella pagina di visualizzazione delle notifiche push, fare clic su **Azioni notifiche push** e quindi su **Anteprima**. Oppure fai clic su **Anteprima** all&#39;estrema destra.
+In alternativa, nella pagina di visualizzazione delle notifiche push, fare clic su **[!UICONTROL Push Notifications Actions]** e quindi su **[!UICONTROL Preview]**. Oppure fai clic su **[!UICONTROL Preview]** all&#39;estrema destra.
 
 ![](assets/image2015-9-4-10-3a53-3a28.png)
 
-Infine, nell&#39;editor, puoi fare clic sulla scheda **Anteprima bozza** in alto a destra mentre stai lavorando sulla notifica.
+Infine, nell&#39;editor, è possibile fare clic sulla scheda **[!UICONTROL Preview Draft]** in alto a destra mentre si sta lavorando sulla notifica.
 
 ![](assets/image2015-9-14-15-3a55-3a26.png)
 

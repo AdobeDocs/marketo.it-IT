@@ -4,10 +4,10 @@ description: Utilizzo di azioni rapide per velocizzare il flusso di lavoro - Doc
 title: Utilizzo di azioni rapide per velocizzare il flusso di lavoro
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
-ht-degree: 3%
+source-wordcount: '315'
+ht-degree: 1%
 
 ---
 
@@ -23,8 +23,8 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
 
 | Stato | Descrizione |
 |---|---|
-| Archivia | Aggiunge l’e-mail alla cartella archiviata e interrompe tutte le attività di visualizzazione disabilitata e il tracciamento dei clic per tale e-mail. |
-| Operazione riuscita | Contrassegna l’e-mail come completata da segnalare nell’analisi dei modelli. |
+| [!UICONTROL Archive] | Aggiunge l’e-mail alla cartella archiviata e interrompe tutte le attività di visualizzazione disabilitata e il tracciamento dei clic per tale e-mail. |
+| [!UICONTROL Success] | Contrassegna l’e-mail come completata da segnalare nell’analisi dei modelli. |
 
 **Archiviato**
 
@@ -35,11 +35,11 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Annulla archiviazione</td> 
+   <td>[!UICONTROL Unarchive]</td> 
    <td>L’e-mail verrà spostata nuovamente nella cartella di destinazione e verrà riattivato il tracciamento di visualizzazioni/clic.</td> 
   </tr> 
   <tr> 
-   <td>Elimina</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
@@ -54,11 +54,11 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Modifica</td> 
+   <td>[!UICONTROL Edit]</td> 
    <td>Apre l’e-mail nella finestra di composizione da modificare.</td> 
   </tr> 
   <tr> 
-   <td>Elimina</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 
@@ -73,11 +73,11 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Riprova invio</td> 
+   <td>[!UICONTROL Retry Send]</td> 
    <td>Tenterà immediatamente di inviare di nuovo l’e-mail.</td> 
   </tr> 
   <tr> 
-   <td>Elimina</td> 
+   <td>[!UICONTROL Delete]</td> 
    <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
   </tr> 
  </tbody> 

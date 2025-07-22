@@ -4,9 +4,9 @@ description: Filtrare i rapporti e-mail di Assets in una campagna - Documentazio
 title: Filtrare i rapporti e-mail di Assets in una campagna
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: e396542eb13e54306b0b7620d0092716a5be182f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,12 @@ Concentrare il report [Prestazioni e-mail campagna](/help/marketo/product-docs/r
 
    ![](assets/image2014-9-16-15-3a57-3a31.png)
 
-1. Fai clic sulla scheda **Configurazione** e trascina un filtro.
+1. Fai clic sulla scheda **[!UICONTROL Setup]** e trascina un filtro.
 
    ![](assets/image2014-9-16-15-3a57-3a35.png)
 
-   * **Campagne**: campagne intelligenti attive nel tuo account Marketo.
-   * **Campagne archiviate**: campagne intelligenti inattive e ritirate.
+   * **[!UICONTROL Campaigns]**: campagne intelligenti attive nel tuo account Marketo.
+   * **[!UICONTROL Archived Campaigns]**: campagne intelligenti inattive, ritirate.
 
 1. Scegli le cartelle e le campagne intelligenti specifiche da includere nel rapporto.
 
@@ -42,7 +42,7 @@ Concentrare il report [Prestazioni e-mail campagna](/help/marketo/product-docs/r
    >
    >Se selezioni una cartella, il rapporto includerà tutto ciò che la cartella contiene al momento dell’esecuzione del rapporto.
 
-1. Hai finito! Fai clic sulla scheda **Report** per visualizzare il report filtrato.
+1. Hai finito! Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare il report filtrato.
 
    ![](assets/image2014-9-16-15-3a58-3a10.png)
 

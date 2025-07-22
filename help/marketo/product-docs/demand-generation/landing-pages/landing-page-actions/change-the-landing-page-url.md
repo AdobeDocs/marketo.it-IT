@@ -4,9 +4,9 @@ description: Modificare l’URL della pagina di destinazione - Documentazione di
 title: Modificare l’URL della pagina di destinazione
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 2c8c5bbbfef63f146111e31032fc70b7650239a4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Puoi modificare l’URL di una pagina di destinazione. Questo può aiutare a ren
 
    ![](assets/change-the-landing-page-url-2.png)
 
-1. Immetti il **nuovo URL**, scegli di eliminare o reindirizzare il vecchio URL e fai clic su **Salva**.
+1. Immettere **[!UICONTROL New URL]**, scegliere di eliminare o reindirizzare il vecchio URL e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/change-the-landing-page-url-3.png)
 

@@ -4,25 +4,25 @@ description: Informazioni su attività e persone anonime - Documentazione di Mar
 title: Informazioni su attività e persone anonime
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
 
 # Informazioni su attività e persone anonime {#understanding-anonymous-activity-and-people}
 
-La prima volta che un utente visita una pagina di destinazione di Marketo (o una pagina del sito Web contenente il [Codice di monitoraggio Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo crea una *attività anonima* e utilizza un cookie del browser per tenerne traccia. Una volta identificato, diventa una persona e la cronologia associata al cookie del browser viene unita in.
+La prima volta che un utente visita una pagina di destinazione di Marketo (o una pagina del sito Web che contiene il [Codice di monitoraggio di Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}), Marketo crea una *attività anonima* e utilizza un cookie del browser per tenerne traccia. Una volta identificato, diventa una persona e la cronologia associata al cookie del browser viene unita in.
 
 >[!IMPORTANT]
 >
->L&#39;attivazione della funzionalità di Beta **Attività di riproduzione anonima Munchkin V2 in Note** garantisce che le campagne attivate dalla promozione anonima dei lead vengano sempre riprodotte dopo che il lead anonimo è stato unito correttamente al record noto. Di conseguenza, i campi personalizzati modificati dai passaggi Modifica valore dati nelle campagne ripetute verranno mantenuti nel record noto.
+>L&#39;attivazione della funzionalità Beta **[!DNL Munchkin]V2 Attività di ripetizione anonima su Note** garantisce che le campagne attivate dalla promozione anonima dei lead vengano sempre rieseguite dopo che il lead anonimo è stato unito correttamente al record noto. Di conseguenza, i campi personalizzati modificati dai passaggi Modifica valore dati nelle campagne ripetute verranno mantenuti nel record noto.
 
 **Un&#39;attività anonima** viene creata quando un utente:
 
 * Visita la pagina di destinazione di Marketo la prima volta.
-* Visita una pagina del sito con [monitoraggio Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+* Visita una pagina del sito con [tracciamento Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 * Fai clic sul collegamento [Visualizza come pagina Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md){target="_blank"} in un messaggio e-mail di Marketo.
 
 >[!NOTE]

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099077
-description: Scopri come importare un elenco di seed nell’istanza di Marketo Engage.
+description: Scopri come importare un elenco di seed nell’istanza Marketo Engage.
 title: Email Deliverability Power Pack - Come importare un elenco di seed
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 136707304350be59918716233f5d6e2a6438be4e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -21,25 +21,25 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
 
 ## Importare un elenco di seed {#import-a-seed-list}
 
-1. In Il mio Marketo, seleziona **Strumenti di recapito messaggi**.
+1. In Il mio Marketo, seleziona **[!UICONTROL Deliverability Tools]**.
 
    ![](assets/email-deliverability-power-pack-1.png)
 
-1. Si aprirà l&#39;applicazione Everest. Nella barra di navigazione a sinistra, fai clic su **In-Flight** e seleziona **Posta in arrivo**.
+1. Verrà aperta l&#39;applicazione [!DNL Everest]. Nella barra di spostamento a sinistra, fare clic su **[!UICONTROL In-Flight]** e selezionare **[!UICONTROL Inbox Placement]**.
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Fare clic sulla scheda **Gestisci elenco seed**.
+1. Fare clic sulla scheda **[!UICONTROL Manage Seed List]**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Fare clic sull&#39;elenco a discesa Azioni e selezionare **Scarica uno per riga**.
+1. Fare clic sul menu a discesa **[!UICONTROL Actions]** e selezionare **[!UICONTROL Download: One Per Line]**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 
    >[!NOTE]
    >
-   >Utilizza il Seed List Optimizer (Ottimizzatore elenco seed), nella parte superiore della pagina, se desideri che Everest ottimizzi la tua lista.
+   >Utilizza l&#39;Ottimizzatore elenco seed (nella parte superiore della pagina) se desideri che [!DNL Everest] ottimizzi il tuo elenco.
 
 1. Dopo l&#39;esportazione, l&#39;elenco verrà visualizzato come file .txt nella cartella dei download del browser. Recuperalo e [importalo](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md) nella tua istanza di Marketo come elenco statico.
 
@@ -51,7 +51,7 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
 
    >[!CAUTION]
    >
-   >Ricevi una quantità limitata di queste campagne di posizionamento casella in entrata al mese. Per vedere quanti ne ottieni, consulta la sezione Abbonamenti in Impostazioni account > Abbonamenti in Everest. Per ulteriori informazioni, contattare il rappresentante commerciale Marketo.
+   >Ricevi una quantità limitata di queste campagne di posizionamento casella in entrata al mese. Per vedere quanti ne ricevi, controlla la sezione [!UICONTROL Subscription] in [!UICONTROL Account Settings] > [!UICONTROL Subscription] in [!DNL Everest]. Per ulteriori informazioni, contattare il rappresentante commerciale Marketo.
 
 ## Acquisizione di nuovi elenchi di seed {#acquiring-new-seedlists}
 

@@ -4,16 +4,16 @@ description: Informazioni sulle date provvisorie/confermate - Documentazione Mar
 title: Informazioni sulle date provvisorie/confermate
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '206'
 ht-degree: 0%
 
 ---
 
 # Informazioni sulle date provvisorie/confermate {#understanding-tentative-confirmed-dates}
 
-Le campagne e i programmi e-mail avanzati dispongono di una potente funzionalità per essere contrassegnati come **[!UICONTROL Provvisori]** o **[!UICONTROL Confermati]**. Ecco come funzionano.
+Le campagne e i programmi e-mail avanzati dispongono di una potente funzionalità per essere contrassegnati come **[!UICONTROL Tentative]** o **[!UICONTROL Confirmed]**. Ecco come funzionano.
 
 ## Provvisorio {#tentative}
 
@@ -27,7 +27,7 @@ Le date provvisorie indicano l&#39;intento. Considera questo elemento come _inse
 
 ## Conferma delle voci {#confirming-entries}
 
-È come approvare una risorsa, quindi le voci devono essere completamente impostate prima di poterle confermare. Una volta che tutte le anatre sono in fila, puoi confermare le voci facendo scorrere la scheda provvisoria a destra.
+È come approvare una risorsa, quindi le voci devono essere completamente impostate prima di poterle confermare. Una volta che tutti i tuoi anatre sono in fila, puoi confermare le voci facendo scorrere la scheda [!UICONTROL Tentative] a destra.
 
 ![](assets/image2014-9-23-15-3a23-3a2.png)
 
@@ -45,9 +45,9 @@ Le voci confermate verranno sicuramente eseguite. Hanno regole, risorse approvat
 
 ![](assets/image2014-9-23-15-3a23-3a30.png)
 
-## Completato  {#finished}
+## Terminato  {#finished}
 
-Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita ed è **[!UICONTROL Completata]**, non puoi spostarla o renderla provvisoria. (Nessuna realtà mutevole e interruzione del flusso temporale).
+Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita ed è **[!UICONTROL Finished]**, non è possibile spostarla o renderla provvisoria. (Nessuna realtà mutevole e interruzione del flusso temporale).
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 

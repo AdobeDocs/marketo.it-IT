@@ -3,32 +3,32 @@ description: Collegare l'account Sales Insight Actions a Salesforce - Documenti 
 title: Collegare l'account Sales Insight Actions a Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '109'
+ht-degree: 1%
 
 ---
 
-# Collegare l&#39;account Sales Insight Actions a Salesforce {#connect-your-sales-insight-actions-account-to-salesforce}
+# Connetti il tuo account [!DNL Sales Insight Actions] a [!DNL Salesforce] {#connect-your-sales-insight-actions-account-to-salesforce}
 
-Segui questi semplici passaggi per collegare l’account Sales Insight Actions a Salesforce.
+Segui questi semplici passaggi per connettere l&#39;account [!DNL Sales Insight Actions] a [!DNL Salesforce].
 
 ## Come connettersi come amministratore {#how-to-connect-as-an-admin}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Salesforce**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-2.png)
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Salesforce** e quindi su **Connect**.
+1. Nella scheda [!UICONTROL Connections & Customizations], fare clic su **[!UICONTROL Salesforce]** e quindi su **[!UICONTROL Connect]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-3.png)
 
-1. Fare clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-4.png)
 
@@ -36,17 +36,17 @@ Segui questi semplici passaggi per collegare l’account Sales Insight Actions a
 
 ## Come connettersi come non amministratore {#how-to-connect-as-a-non-admin}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-5.png)
 
-1. In Il mio account, seleziona **Salesforce**.
+1. In [!UICONTROL My Account], selezionare **[!UICONTROL Salesforce]**.
 
-1. Nella scheda Connessioni e personalizzazioni, fai clic su **Salesforce** e quindi su **Connect**.
+1. In [!UICONTROL Connections & Customizations tab], fare clic su **[!UICONTROL Salesforce]** e quindi su **[!UICONTROL Connect]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-7.png)
 
-1. Fare clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/connect-your-marketo-sales-account-to-salesforce-8.png)
 

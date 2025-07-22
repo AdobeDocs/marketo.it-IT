@@ -4,32 +4,32 @@ description: Configurazione di Performance Insights - Documentazione di Marketo 
 title: Impostazione di Performance Insights
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 
-# Impostazione di Performance Insights {#setting-up-performance-insights}
+# Configurazione di [!UICONTROL Performance Insights] {#setting-up-performance-insights}
 
 Segui i passaggi seguenti per impostare MPI.
 
 ## Configurazione dell’opportunità {#opportunity-setup}
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Fare clic su **Analisi ciclo ricavi**.
+1. Fai clic su **[!UICONTROL Revenue Cycle Analytics]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Se non disponi di RCA, dovrai selezionare **Analisi del programma** per il passaggio 2.
+   >Se non si dispone di RCA, è necessario selezionare **[!UICONTROL Program Analysis]** per il passaggio 2.
 
-1. In Attribuzione fare clic su **Modifica**.
+1. In Attribution, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/three-1.png)
 
@@ -45,18 +45,18 @@ Segui i passaggi seguenti per impostare MPI.
    >
    >Assicurati che tutte le opportunità siano compilate nei campi appropriati:
    >
-   >* Importo dell’opportunità
-   >* È chiuso
-   >* E&#39; Vinto
-   >* Data di creazione (potrebbe non essere impostata nel tuo caso)
-   >* Data di chiusura (non impostata nel tuo caso)
-   >* Tipo di opportunità
+   >* [!UICONTROL Opportunity Amount]
+   >* [!UICONTROL Is Closed]
+   >* [!UICONTROL Is Won]
+   >* [!UICONTROL Creation Date] (potrebbe non essere impostato nel tuo caso)
+   >* [!UICONTROL Closed Date] (potrebbe non essere impostato nel tuo caso)
+   >* [!UICONTROL Opportunity Type]
 
 ## Configurazione del programma {#program-setup}
 
 Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o utilizzando l’API del programma. In questo esempio lo facciamo manualmente.
 
-1. Fai clic su **Attività di marketing**.
+1. Fai clic su **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -64,29 +64,29 @@ Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o ut
 
    ![](assets/select-program.png)
 
-1. Fare clic sulla scheda **Configurazione**.
+1. Fare clic sulla scheda **[!UICONTROL Setup]**.
 
    ![](assets/setup-tab.png)
 
-1. Trascina **Costo periodo** nell&#39;area di lavoro.
+1. Trascina **[!UICONTROL Period Cost]** nell&#39;area di lavoro.
 
    ![](assets/period-cost.png)
 
-1. Imposta il mese del programma per almeno 12 mesi fa e fai clic su **Ok**.
+1. Impostare il mese del programma per almeno 12 mesi fa e fare clic su **[!UICONTROL Ok]**.
 
    ![](assets/set-period.png)
 
-1. Imposta il costo del periodo e fai clic su **Salva**.
+1. Impostare il costo del periodo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/set-cost.png)
 
 Quindi, rivedi il comportamento di analisi per indicare se un particolare canale deve essere incluso nell’analisi. Imposta il comportamento di Analytics (Normale, Inclusivo, Operativo).
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Fai clic su **Tag**.
+1. Fai clic su **[!UICONTROL Tags]**.
 
    ![](assets/tags.png)
 
@@ -98,7 +98,7 @@ Quindi, rivedi il comportamento di analisi per indicare se un particolare canale
 
    ![](assets/channel-click.png)
 
-1. Fare clic sull&#39;elenco a discesa **Comportamento di Analytics** e selezionare il comportamento desiderato.
+1. Fare clic sul menu a discesa **[!UICONTROL Analytics Behavior]** e selezionare il comportamento desiderato.
 
    ![](assets/edit-channel.png)
 
@@ -106,7 +106,7 @@ Quindi, rivedi il comportamento di analisi per indicare se un particolare canale
 
    ![](assets/success.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/save.png)
 

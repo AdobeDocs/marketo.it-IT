@@ -4,10 +4,10 @@ description: Rapporto sulle prestazioni delle e-mail per la campagna - Documenti
 title: Rapporto sulle prestazioni e-mail della campagna
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 1%
 
 Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail di Campaign.
 
-1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **Prestazioni e-mail campagna** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Campaign Email Performance]** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
-1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **Report**.
+1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **[!UICONTROL Report]**.
 
 1. Ora esplora il rapporto per visualizzare le prestazioni di ogni e-mail nelle campagne.
 
@@ -27,15 +27,15 @@ Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [
    >
    >Fai clic sul nome di un’e-mail per aprirla in Anteprima e-mail.
 
-   [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md)per un report sulle prestazioni e-mail di una campagna includono:
+   [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report sulle prestazioni e-mail della campagna includono:
 
    | Colonna | Descrizione |
    |---|---|
-   | Rifiuto rigido | L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente. |
-   | Rimbalzo morbido | L&#39;e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa. |
-   | In sospeso | L’e-mail è ancora in fase di consegna. |
-   | Collegamento selezionato | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
-   | Annulla l&#39;iscrizione | Numero di destinatari e-mail che hanno fatto clic sul collegamento **Annulla iscrizione** nell&#39;e-mail e hanno compilato il modulo. |
+   | [!UICONTROL Hard Bounced] | L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente. |
+   | [!UICONTROL Soft Bounced] | L&#39;e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa. |
+   | [!UICONTROL Pending] | L’e-mail è ancora in fase di consegna. |
+   | [!UICONTROL Clicked Link] | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
+   | [!UICONTROL Unsubscribed] | Numero di destinatari e-mail che hanno fatto clic sul collegamento **[!UICONTROL Unsubscribe]** nell&#39;e-mail e hanno compilato il modulo. |
 
    >[!NOTE]
    >

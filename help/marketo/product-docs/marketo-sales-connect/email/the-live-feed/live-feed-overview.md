@@ -4,9 +4,9 @@ description: Panoramica dei feed live - Documenti Marketo - Documentazione del p
 title: Panoramica dei feed live
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '389'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Filtra per oggi, domani, oggi *e* domani o i prossimi 7 giorni.
 >
 >Non è possibile utilizzare il filtro data personalizzato nel feed live, ma è possibile utilizzarlo nell’applicazione web.
 
-Utilizza i pulsanti di azione rapida per effettuare rapidamente una chiamata, inviare un’e-mail o navigare al profilo LinkedIn di una persona.
+Utilizza i pulsanti di azione rapida per effettuare rapidamente una chiamata, inviare un messaggio e-mail o passare al profilo [!DNL Linkedin] di una persona.
 
 ## Scheda Target {#target-tab}
 
@@ -58,7 +58,7 @@ Visualizza le persone migliori (ordinate dal livello più alto a quello più bas
 
 * I lead verranno generati quando il punteggio della loro persona aumenta in Marketo.
 * Mostriamo i primi 50 lead.
-* Potrai vedere solo le persone che ti sono state assegnate in Salesforce.
+* Potrai vedere solo le persone che ti sono state assegnate in [!DNL Salesforce].
 
 ## Icona Glossario {#icon-glossary}
 

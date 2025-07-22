@@ -3,9 +3,9 @@ description: Attivatori e filtri attività di vendita - Documentazione Marketo -
 title: Attivatori e filtri attività di vendita
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Segui i passaggi seguenti per scoprire come utilizzare i filtri e i trigger dell
 
    ![](assets/sales-activity-triggers-and-filters-1.png)
 
-1. Nella scheda **Elenco avanzato**, cerca &quot;App di vendita&quot;.
+1. Nella scheda **[!UICONTROL Smart List]**, cerca &quot;[!UICONTROL Sales Apps]&quot;.
 
    ![](assets/sales-activity-triggers-and-filters-2.png)
 
@@ -34,4 +34,4 @@ Segui i passaggi seguenti per scoprire come utilizzare i filtri e i trigger dell
 
 >[!NOTE]
 >
->Per un elenco completo delle attività, dei vincoli e delle definizioni, consultare il [Glossario delle attività di Sales Insight Actions](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).
+>Per un elenco completo delle attività, dei vincoli e delle definizioni, consulta il [[!DNL Sales Insight Actions] Glossario delle attività](/help/marketo/product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md).

@@ -4,18 +4,18 @@ description: Sincronizzazione SFDC - Sincronizzazione lead/proprietario account 
 title: Sincronizzazione SFDC - Sincronizzazione lead/proprietario account
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # Sincronizzazione SFDC: sincronizzazione lead/proprietario account {#sfdc-sync-lead-account-owner-sync}
 
-Tecnicamente, queste stanno sincronizzando la tabella &quot;utente&quot; in Salesforce, ma questa viene definita come campi Proprietario lead/account.
+Tecnicamente, la tabella &quot;utente&quot; verrà sincronizzata in [!DNL Salesforce], ma verrà indicata come campo Proprietario lead/account.
 
-## Quali campi verranno sincronizzati con il Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
+## Quali campi verranno sincronizzati con Marketo Engage? {#which-fields-will-sync-to-marketo-engage}
 
 Per ogni persona sincronizzata con Marketo, vengono sincronizzati anche i seguenti campi del proprietario:
 
@@ -46,6 +46,6 @@ Esistono molti motivi per utilizzare questi dati, ad esempio
 * Invia un’e-mail personalizzata con la firma del proprietario dell’attività di vendita
 * Possibilità di filtrare in base a rappresentanti di vendita specifici per scopi di marketing o per analisi dell&#39;efficacia
 * Regole di assegnazione (e riassegnazione) in Marketo
-* Utilizzali nelle [azioni di flusso Cambia proprietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizza persona in SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} e [Crea attività](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
+* Utilizzali nelle azioni di flusso [Cambia proprietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizza persona in SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} e [Crea attività](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-Marketo ha sicuramente una fantastica sincronizzazione Salesforce. Nessun altro lo fa così bene!
+Marketo ha sicuramente una fantastica sincronizzazione di [!DNL Salesforce]. Nessun altro lo fa così bene!

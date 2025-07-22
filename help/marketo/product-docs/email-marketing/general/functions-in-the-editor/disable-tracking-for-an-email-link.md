@@ -4,9 +4,9 @@ description: Disabilita tracciamento per un collegamento e-mail - Documentazione
 title: Disattiva tracciamento per un collegamento e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: ac2f8bf38b32344dd9414cf3611b69747e3587d4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ A volte non è necessario abilitare **URL di tracciamento Marketo** su un colleg
 
 Inoltre, se un&#39;e-mail è stata inviata più di 365 giorni fa **e** nessuno ha fatto clic su uno dei collegamenti negli ultimi 180 giorni, Marketo Engage elimina la route all&#39;URL dal nostro database, causando l&#39;interruzione del collegamento. Pertanto, se hai bisogno che il collegamento sia permanente, devi disabilitare il tracciamento.
 
-1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-7.png)
 
@@ -29,11 +29,11 @@ Inoltre, se un&#39;e-mail è stata inviata più di 365 giorni fa **e** nessuno h
 
    ![](assets/three-6.png)
 
-1. Nella finestra a comparsa Modifica collegamento, deselezionare la casella di controllo **Traccia collegamento**.
+1. Nella finestra a comparsa Modifica collegamento, deselezionare la casella di controllo **[!UICONTROL Track Link]**.
 
    ![](assets/four-4.png)
 
-1. Noterai che la casella **Includi mkt_tok** scompare. Fare clic su **Applica**.
+1. Noterai che la casella **[!UICONTROL Include mkt_tok]** scompare. Fai clic su **[!UICONTROL Apply]**.
 
    ![](assets/five-3.png)
 
@@ -41,7 +41,7 @@ Inoltre, se un&#39;e-mail è stata inviata più di 365 giorni fa **e** nessuno h
    >
    >Deselezionando solo **Includi mkt_tok** sarà comunque possibile tenere traccia del collegamento, ma dopo il reindirizzamento l&#39;URL di destinazione non includerà il parametro della stringa di query mkt_tok. Questo parametro viene utilizzato dalle pagine di destinazione di Marketo e da Munchkin per garantire il corretto tracciamento delle attività della persona (come quando una persona annulla l’iscrizione a un’e-mail). È consigliabile evitare di utilizzare questa funzione a meno che non si verifichi un comportamento strano sul sito web a causa della presenza del parametro.
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a25-3a20.png)
 

@@ -4,9 +4,9 @@ description: Riepilogo dei contenuti predittivi - Documentazione di Marketo - Do
 title: Riepilogo del contenuto predittivo
 exl-id: 74663e07-39c6-40e5-bb49-e222c3c16034
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Qui puoi vedere i tuoi 10 contenuti principali scoperti, tra cui visualizzazioni
 
 ![](assets/image2017-10-3-10-3a4-3a40.png)
 
-## Coinvolgimento predittivo {#predictive-engagement}
+## [!UICONTROL Predictive Engagement] {#predictive-engagement}
 
 Visualizza il tasso di conversione confrontando i clic totali e i lead diretti e confronta le prestazioni delle diverse origini.
 
 ![](assets/predictive-engagement-actual.png)
 
-## Tendenza contenuto per visualizzazioni  {#content-trend-by-views}
+## [!UICONTROL Content Trend by Views]  {#content-trend-by-views}
 
 Confronta la corrispondenza tra le visualizzazioni di tutti i contenuti e i contenuti predittivi.
 
 ![](assets/4.png)
 
-## Categorie principali per coinvolgimento {#top-categories-by-engagement}
+## [!UICONTROL Top Categories by Engagement] {#top-categories-by-engagement}
 
 Quali categorie di contenuti sono più interessanti? Visualizzatelo in questo grafico.
 
@@ -47,4 +47,4 @@ Quali categorie di contenuti sono più interessanti? Visualizzatelo in questo gr
 
 >[!NOTE]
 >
->Se fai clic su un collegamento di categoria (esempi nell’immagine precedente: lead, e-mail, ecc.) apre la pagina Tutto il contenuto con la categoria su cui hai fatto clic aggiunta al filtro, visualizzando l’analisi del contenuto in tale categoria.
+>Se fai clic su un collegamento di categoria (esempi nell’immagine precedente: lead, e-mail, ecc.), viene aperta la pagina Tutto il contenuto con la categoria su cui hai fatto clic aggiunta al filtro, in cui viene visualizzata l’analisi del contenuto in quella categoria.

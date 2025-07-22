@@ -4,9 +4,9 @@ description: Come inserire campi dinamici - Documentazione di Marketo - Document
 title: Come inserire campi dinamici
 exl-id: e4989350-872d-47a1-84b0-210e631ae23a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -17,19 +17,19 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno visualizzati sia in Sales Connect che in Salesforce. Ciò significa che se un contatto non esiste nell&#39;[applicazione Web](https://toutapp.com/login), verrà eseguita una ricerca in Salesforce per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Connect] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 
-1. In **Modelli e campagne**, individua il modello da modificare e fai clic su **Modifica modello**.
+1. In **[!UICONTROL Templates & Campaigns]**, trovare il modello da modificare e fare clic su **[!UICONTROL Edit Template]**.
 
-1. Fare clic su **Tout campi dinamici**.
+1. Fai clic su **[!UICONTROL Tout Dynamic Fields]**.
 
    >[!NOTE]
    >
-   >Quando si inviano messaggi di posta elettronica a contatti esistenti in Sales Connect, è possibile utilizzare i campi dinamici di base. Questi richiameranno direttamente dal contatto.
+   >Quando si inviano messaggi di posta elettronica a contatti esistenti in [!DNL Sales Connect], è possibile utilizzare i campi dinamici di base. Questi richiameranno direttamente dal contatto.
 
-Se invii messaggi di posta elettronica a contatti esistenti in Salesforce, puoi sfruttare i campi dinamici di Salesforce. Questi iniziano tutti con &quot;sfdc&quot;. Se disponi di una connessione a Salesforce, questi campi richiameranno direttamente il lead/contatto in Salesforce per compilare le informazioni nel modello.
+Se invii messaggi di posta elettronica a contatti esistenti in [!DNL Salesforce], puoi sfruttare i campi dinamici [!DNL Salesforce]. Questi iniziano tutti con &quot;sfdc&quot;. Se si dispone di una connessione a [!DNL Salesforce], questi campi chiameranno direttamente il lead/contatto in [!DNL Salesforce] per compilare le informazioni nel modello.
 
 ## Inserire campi dinamici in un oggetto {#insert-dynamic-fields-in-a-subject-line}
 

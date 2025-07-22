@@ -4,14 +4,14 @@ description: Impostazioni di Performance Insights - Documentazione di Marketo - 
 title: Impostazioni di Performance Insights
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# Impostazioni di Performance Insights {#performance-insights-settings}
+# Impostazioni [!UICONTROL Performance Insights] {#performance-insights-settings}
 
 Scopri le diverse opzioni di Impostazioni in MPI.
 
@@ -23,7 +23,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 ## Visualizza il successo del programma per {#view-program-success-by}
 
-**Dashboard di coinvolgimento - Contributi e tendenze**
+Dashboard **[!UICONTROL Engagement]- Contributo e tendenza**
 
 <table> 
  <tbody> 
@@ -40,7 +40,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 ## Configurazione periodo precedente {#previous-period-configuration}
 
-**Coinvolgimento, pipeline, dashboard ricavi - solo contributo**
+Dashboard **[!UICONTROL Engagement], [!UICONTROL Pipeline], [!UICONTROL Revenue] - Solo contributo**
 
 <table> 
  <tbody> 
@@ -57,7 +57,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 ## Opportunità Influenzate Dal Marketing {#marketing-influenced-opportunities}
 
-**Dashboard pipeline - Contributo e tendenza**
+Dashboard **[!UICONTROL Pipeline]- Contributo e tendenza**
 
 <table> 
  <tbody> 
@@ -72,7 +72,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
  </tbody> 
 </table>
 
-**Dashboard ricavi - Contributi e tendenze**
+Dashboard **[!UICONTROL Revenue]- Contributo e tendenza**
 
 <table> 
  <tbody> 
@@ -89,7 +89,7 @@ Scopri le diverse opzioni di Impostazioni in MPI.
 
 ## Calcolo dei costi {#cost-calculation}
 
-**Dashboard delle pipeline e dei ricavi - Contributi e tendenze**
+Dashboard **[!UICONTROL Pipeline]e [!UICONTROL Revenue] - Contributo e tendenza**
 
 <table> 
  <tbody> 

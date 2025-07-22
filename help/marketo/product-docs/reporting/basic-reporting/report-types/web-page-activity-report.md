@@ -4,9 +4,9 @@ description: Rapporto sull’attività delle pagine web - Documenti Marketo - Do
 title: Rapporto attività pagina web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: f0ad739b85174976f2adbe30cf4d755c1da93f05
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -32,7 +32,7 @@ Puoi scegliere di visualizzare nello stesso rapporto persone conosciute o anonim
 
    >[!NOTE]
    >
-   >La visualizzazione dei dati in un report attività pagina Web può richiedere fino a 24 ore.
+   >La visualizzazione dei dati in un report [!UICONTROL Web Page Activity] può richiedere fino a 24 ore.
 
    >[!TIP]
    >

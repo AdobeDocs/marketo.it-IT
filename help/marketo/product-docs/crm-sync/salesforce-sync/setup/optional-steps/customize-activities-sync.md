@@ -4,10 +4,10 @@ description: Personalizzare la sincronizzazione delle attività - Documentazione
 title: Personalizza sincronizzazione attività
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 2%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
@@ -48,51 +48,51 @@ Se non si utilizza Marketo Sales Insight, Marketo Engage può creare record dell
  </thead> 
  <tbody> 
   <tr> 
-   <td>Modulo compilato</td> 
+   <td>[!UICONTROL Filled out form]</td> 
    <td>Compilato qualsiasi modulo Marketo</td> 
   </tr> 
   <tr> 
-   <td>Aggiunto all'elenco</td> 
+   <td>[!UICONTROL Added to list]</td> 
    <td><p>Passaggio di flusso: aggiunto a un elenco statico</p></td> 
   </tr> 
   <tr> 
-   <td>E-mail inviata</td> 
+   <td>[!UICONTROL Email sent]</td> 
    <td>Passaggio di flusso: è stata inviata un’e-mail</td> 
   </tr> 
   <tr> 
-   <td>E-mail consegnata</td> 
+   <td>[!UICONTROL Email delivered]</td> 
    <td>Ricevuto un messaggio e-mail (non inviato)</td> 
   </tr> 
   <tr> 
-   <td>E-mail aperta</td> 
+   <td>[!UICONTROL Email opened]</td> 
    <td>Aperta un’e-mail (senza bloccare le immagini)</td> 
   </tr> 
   <tr> 
-   <td>Collegamento selezionato nell’e-mail</td> 
+   <td>[!UICONTROL Clicked link in email]</td> 
    <td>Clic su un collegamento in un messaggio e-mail inviato da Marketo</td> 
   </tr> 
   <tr> 
-   <td>Rimosso dall’elenco</td> 
+   <td>[!UICONTROL Removed from list]</td> 
    <td>Passaggio di flusso: rimosso da un elenco statico</td> 
   </tr> 
   <tr> 
-   <td>Rimuovi dal flusso</td> 
+   <td>[!UICONTROL Remove from flow]</td> 
    <td>Passaggio di flusso: Rimuovi dal flusso</td> 
   </tr> 
   <tr> 
-   <td>E-mail di vendita inviata</td> 
+   <td>[!UICONTROL Sales email sent]</td> 
    <td>È stato inviato un messaggio e-mail tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>E-mail di vendita aperta</td> 
+   <td>[!UICONTROL Sales email opened]</td> 
    <td>Apertura di un'e-mail inviata tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>Fai clic sul collegamento nell’e-mail di vendita</td> 
+   <td>[!UICONTROL Click link in sales email]</td> 
    <td>Clic su un collegamento in un’e-mail inviata tramite Marketo Sales Insight</td> 
   </tr> 
   <tr> 
-   <td>E-mail di vendita ricevuta</td> 
+   <td>[!UICONTROL Sales email received]</td> 
    <td>Un messaggio e-mail è stato ricevuto e registrato dal rappresentante commerciale nel plug-in di Outlook MSI</td> 
   </tr> 
  </tbody> 

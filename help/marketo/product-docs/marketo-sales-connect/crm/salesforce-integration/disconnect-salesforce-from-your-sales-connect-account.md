@@ -1,44 +1,44 @@
 ---
 unique-page-id: 15368214
-description: Disconnetti Salesforce Dal Tuo Account Sales Connect - Documenti Marketo - Documentazione Del Prodotto
+description: Disconnetti Salesforce Dal Tuo Account Sales Connect - Documentazione Marketo - Documentazione Del Prodotto
 title: Disconnetti Salesforce Dall'Account Sales Connect
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
 # Disconnetti Salesforce Dall&#39;Account Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
 
-A volte potrebbe essere necessario disconnettere l&#39;account Salesforce dall&#39;account Sales Connect. Ecco come.
+A volte potrebbe essere necessario disconnettere l&#39;account [!DNL  Salesforce] dall&#39;account [!DNL Sales Connect]. Ecco come.
 
 ## Come disconnettersi da Salesforce come amministratore {#how-to-disconnect-from-salesforce-as-an-admin}
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In [!DNL Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Salesforce**.
+1. In [!UICONTROL  Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/six-1.png)
 
-1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
+1. Nella scheda [!UICONTROL Connections & Customizations], fare clic su **[!UICONTROL Disconnect]**.
 
    ![](assets/seven-1.png)
 
-## Come disconnettersi da Salesforce come non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
+## Come disconnettersi da Salesforce come utente non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In [!DNL  Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
-1. In Il mio account, seleziona **Salesforce**.
+1. In [!UICONTROL My Account], selezionare **[!UICONTROL Salesforce]**.
 
    ![](assets/two-1.png)
 
-1. Nella scheda Connessioni e personalizzazioni fare clic su **Disconnetti**.
+1. Nella scheda [!UICONTROL Connections & Customizations], fare clic su **[!UICONTROL Disconnect]**.
 
    ![](assets/3333.png)

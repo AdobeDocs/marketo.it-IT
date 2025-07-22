@@ -4,18 +4,18 @@ description: Modifica titolo e metadati della pagina di destinazione - Documenta
 title: Modifica titolo e metadati della pagina di destinazione
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
+source-wordcount: '116'
+ht-degree: 0%
 
 ---
 
 # Modifica titolo e metadati della pagina di destinazione {#edit-landing-page-title-and-metadata}
 
-Marketo ti consente di modificare i [metatag della pagina di destinazione a scopo SEO](https://www.w3schools.com/tags/tag_meta.asp) e di personalizzare la parte `<head>` del HTML.
+Marketo ti consente di modificare i [metatag della pagina di destinazione a scopo SEO](https://www.w3schools.com/tags/tag_meta.asp) e di personalizzare la sezione `<head>` di HTML.
 
-1. Seleziona una pagina di destinazione e fai clic su **Modifica bozza**.
+1. Selezionare una pagina di destinazione e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-11-3a39-3a21.png)
 
@@ -23,11 +23,11 @@ Marketo ti consente di modificare i [metatag della pagina di destinazione a scop
    >
    >Il designer della pagina di destinazione si aprirà in una nuova finestra.
 
-1. In **Azioni pagina di destinazione**, fai clic su **Modifica metadati pagina**.
+1. In **[!UICONTROL Landing Page Actions]**, fare clic su **[!UICONTROL Edit Page Meta Tags]**.
 
    ![](assets/image2014-9-17-11-3a39-3a32.png)
 
-1. Immetti **Titolo**, **Parole chiave** e **Descrizione** per la pagina. Selezionare l&#39;opzione **Robot** desiderata e immettere il contenuto personalizzato desiderato per la sezione HTML `<head>`. Fai clic su **Salva**.
+1. Immettere **[!UICONTROL Title]**, **[!UICONTROL Keywords]** e **[!UICONTROL Description]** per la pagina. Selezionare l&#39;opzione **[!UICONTROL Robots]** desiderata e immettere il contenuto personalizzato desiderato per la sezione HTML `<head>`. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-11-3a39-3a50.png)
 

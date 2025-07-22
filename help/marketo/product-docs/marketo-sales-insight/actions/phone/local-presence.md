@@ -3,9 +3,9 @@ description: Presenza locale - Documentazione Marketo - Documentazione del prodo
 title: Presenza locale
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Presenza locale consente di impostare la chiamata in modo che sembri provenire d
 
    ![](assets/local-presence-1.png)
 
-1. Selezionare la casella di controllo **Usa presenza locale**.
+1. Selezionare la casella di controllo **[!UICONTROL Use Local Presence]**.
 
    ![](assets/local-presence-2.png)
 

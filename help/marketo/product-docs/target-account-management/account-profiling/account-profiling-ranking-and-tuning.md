@@ -4,16 +4,16 @@ description: Classificazione e ottimizzazione della profilatura dell’account -
 title: Classificazione e tuning profilo account
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '380'
 ht-degree: 1%
 
 ---
 
 # Classificazione e tuning profilo account {#account-profiling-ranking-and-tuning}
 
-La profilazione account identifica il profilo cliente ideale (ICP), classifica le aziende nel database in base all&#39;ICP e aggiunge i dati dell&#39;indicatore ICP agli account promossi come Account denominati.
+Il profilo account identifica il profilo cliente ideale (ICP), classifica le aziende nel database in base all&#39;ICP e aggiunge i dati degli indicatori ICP agli account promossi come [!UICONTROL Named Accounts].
 
 >[!IMPORTANT]
 >
@@ -30,28 +30,28 @@ Anche se facoltativo, è consigliabile selezionare la casella di controllo Promu
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Classifica</strong></td> 
+   <td><strong><span class="uicontrol">Classifica</span></strong></td> 
    <td> 
     <div>
       Classificazione dell’account in base al profilo cliente ideale. A è la misura migliore, D è la misura minore. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Propensione</strong></td> 
+   <td><strong><span class="uicontrol">Propensione</span></strong></td> 
    <td> 
     <div>
       Aumento stimato del tasso di conversione rispetto a una selezione di conti non basata su ICP. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Account (%)</strong></td> 
+   <td><strong><span class="uicontrol">Account (%)</span></strong></td> 
    <td> 
     <div>
       Percentuale di conti in input modello con questa classificazione. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>% della base del modello</strong></td> 
+   <td><strong><span class="uicontrol">% della base del modello</span></strong></td> 
    <td> 
     <div>
       Percentuale di conti in base a modello che hanno questa classificazione. 
@@ -62,7 +62,7 @@ Anche se facoltativo, è consigliabile selezionare la casella di controllo Promu
 
 ## Regolazione modello {#model-tuning}
 
-Nella scheda Modello (Model), fate clic sul pulsante Ottimizza modello (Tune Model).
+Nella scheda Modello fare clic sul pulsante **[!UICONTROL Tune Model]**.
 
 ![](assets/two.png)
 
@@ -75,77 +75,77 @@ Sono disponibili diverse schede tra cui scegliere, che consentono una personaliz
 <table> 
  <tbody> 
   <tr> 
-   <td><strong>Conformità</strong></td> 
+   <td><strong><span class="uicontrol">Conformità</span></strong></td> 
    <td> 
     <div>
       Certificazioni, posizioni relative alla conformità/assunzione. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Operazioni</strong></td> 
+   <td><strong><span class="uicontrol">Operazioni</span></strong></td> 
    <td> 
     <div>
       Posizioni/assunzioni legate alle operazioni. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>ORE</strong></td> 
+   <td><strong><span class="uicontrol">ORE</span></strong></td> 
    <td> 
     <div>
       Software HR o Payroll, posizioni/assunzioni relative alle risorse umane.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Progettazione</strong></td> 
+   <td><strong><span class="uicontrol">Progettazione</span></strong></td> 
    <td> 
     <div>
       Tecnologie, quadri di riferimento, posizioni/assunzioni correlate all'ingegneria. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Vendite</strong></td> 
+   <td><strong><span class="uicontrol">Vendite</span></strong></td> 
    <td> 
     <div>
       Soluzioni e software per la vendita, posizioni di vendita/noleggio. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Intento</strong></td> 
+   <td><strong><span class="uicontrol">Intento</span></strong></td> 
    <td> 
     <div>
       Indicatori di intento. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>IT</strong></td> 
+   <td><strong><span class="uicontrol">IT</span></strong></td> 
    <td> 
     <div>
       Soluzioni hardware e software, tecnologie, posizioni/assunzioni relative all'IT.
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Finanza</strong></td> 
+   <td><strong><span class="uicontrol">Finanza</span></strong></td> 
    <td> 
     <div>
       Software finanziario, posizioni finanziarie/assunzioni. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Marketing</strong></td> 
+   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
    <td> 
     <div>
       Tecnologie e software di marketing, posizioni di marketing/noleggio. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Business</strong></td> 
+   <td><strong><span class="uicontrol">Business</span></strong></td> 
    <td> 
     <div>
       Inserzioni o partnership commerciali con Forbes o Inc. 
     </div></td> 
   </tr> 
   <tr> 
-   <td><strong>Esperienza cliente e relazioni</strong></td> 
+   <td><strong><span class="uicontrol">Esperienza cliente e relazioni</span></strong></td> 
    <td> 
     <div>
       Posizioni/assunzioni relative a relazioni con i clienti e successo del cliente.
@@ -158,26 +158,26 @@ Passa il cursore del mouse sulle descrizioni per visualizzare una descrizione di
 
 ![](assets/tool-tip.png)
 
-Fai clic sul menu a discesa Aggiungi indicatore ICP per inserire indicatori aggiuntivi nel modello.
+Fare clic sul menu a discesa [!UICONTROL Add ICP Indicator] per inserire indicatori aggiuntivi nel modello.
 
 ![](assets/add-icp.png)
 
-La selezione della casella Esporta consente di visualizzare l&#39;indicatore ICP nella pagina Dettagli account denominati e di utilizzare l&#39;indicatore ICP selezionato come vincoli nei [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
+La selezione della casella [!UICONTROL Export] consente di visualizzare l&#39;indicatore ICP nella pagina dei dettagli [!UICONTROL Named Account] e di utilizzare l&#39;indicatore ICP selezionato come vincoli nei [filtri account denominati](/help/marketo/product-docs/target-account-management/engage/account-filters.md).
 
 ![](assets/export.png)
 
 >[!NOTE]
 >
->Gli indicatori ICP sono inclusi come vincoli in **Membro di filtri e trigger dell&#39;account denominato**.
+>Gli indicatori ICP sono inclusi come vincoli nei filtri e trigger **[!UICONTROL Member of Named Account]**.
 
-Ponderazione indicatore è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
+[!UICONTROL Indicator Weightage] è ciò che controlla il livello di importanza che ogni indicatore riceve nel modello.
 
 ![](assets/weightage.png)
 
-Fate clic su Aggiorna modello (Refresh Model) per rendere effettive le modifiche.
+Fare clic su **[!UICONTROL Refresh Model]** per rendere effettive le modifiche.
 
 ![](assets/refresh-button.png)
 
-Al termine dell&#39;ottimizzazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **Salva e applica classificazione**.
+Al termine dell&#39;ottimizzazione del modello (dopo averlo aggiornato), tornare alla scheda Risultati modello e fare clic su **[!UICONTROL Save & Apply Ranks]**.
 
 ![](assets/ranks.png)

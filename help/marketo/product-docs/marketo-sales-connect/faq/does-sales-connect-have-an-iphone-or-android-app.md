@@ -4,13 +4,13 @@ description: Sales Connect dispone di un'app iPhone o Android? - Documentazione 
 title: Sales Connect dispone di un'app iPhone o Android?
 exl-id: 94f1106a-69fe-44ea-bb57-beba51cee576
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# Sales Connect dispone di un&#39;app iPhone o Android? {#does-sales-connect-have-an-iphone-or-android-app}
+# [!DNL Sales Connect] ha un&#39;app iPhone o Android? {#does-sales-connect-have-an-iphone-or-android-app}
 
-Sales Connect non dispone al momento di un&#39;app iPhone o Android. È qualcosa che speriamo di aggiungere in futuro.
+[!DNL Sales Connect] non ha un&#39;app iPhone o Android in questo momento. È qualcosa che speriamo di aggiungere in futuro.

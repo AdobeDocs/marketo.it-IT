@@ -4,10 +4,10 @@ description: Aggiungere testo con collegamento ipertestuale - Documentazione di 
 title: Aggiungi testo con collegamento ipertestuale
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 0%
+source-wordcount: '46'
+ht-degree: 2%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 1. Immetti l’URL a cui desideri che sia collegato (esempio: &quot;https://www.mywebsite.com&quot;).
 
-1. Fare clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.

@@ -4,10 +4,10 @@ description: Gestire gli abbonamenti ai rapporti - Documentazione di Marketo - D
 title: Gestire le sottoscrizioni ai report
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 0%
+source-wordcount: '204'
+ht-degree: 1%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Configurare ed eliminare sottoscrizioni ai rapporti.
 
-1. Vai all&#39;area **Analytics**.
+1. Passare all&#39;area **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 
-1. Fare clic sulla scheda **Sottoscrizioni**.
+1. Fare clic sulla scheda **[!UICONTROL Subscriptions]**.
 
    ![](assets/image2014-9-16-10-3a35-3a32.png)
 
@@ -27,13 +27,13 @@ Configurare ed eliminare sottoscrizioni ai rapporti.
 
    >[!TIP]
    >
-   >Puoi anche gestire gli abbonamenti a un singolo rapporto in **Attività di marketing**. Selezionare il report e fare clic sulla scheda **Sottoscrizioni**.
+   >È inoltre possibile gestire gli abbonamenti a un singolo report in **[!UICONTROL Marketing Activities]**. Selezionare il report e fare clic sulla scheda **[!UICONTROL Subscriptions]**.
 
    Per modificare la frequenza dell’e-mail di un rapporto, fai clic sul campo Frequenza e seleziona una nuova opzione dal menu a discesa.
 
    ![](assets/image2014-9-16-10-3a36-3a4.png)
 
-1. Per modificare gli indirizzi e-mail di un abbonamento, fai clic sul campo **Destinatari e-mail** e modifica gli indirizzi e-mail.
+1. Per modificare gli indirizzi di posta elettronica di un abbonamento, fare clic sul campo **[!UICONTROL Email Recipients]** e modificare gli indirizzi di posta elettronica.
 
    ![](assets/image2014-9-16-10-3a36-3a11.png)
 
@@ -44,13 +44,13 @@ Configurare ed eliminare sottoscrizioni ai rapporti.
 
    È inoltre possibile:
 
-   * Fare clic sul pulsante **Visualizza** per aprire un report.
-   * Deselezionare la casella di controllo **Attivo** per disattivare la sottoscrizione.
-   * Fai clic e modifica il campo **Riepilogo** per modificare il numero di righe di anteprima visualizzate nell&#39;e-mail.
-   * Deselezionare la casella di controllo **Excel** per inviare i riepiloghi dei report senza l&#39;allegato del foglio di calcolo.
-   * Fai clic sul pulsante **Invia** per inviare immediatamente l&#39;e-mail del report.
+   * Fare clic sul pulsante **[!UICONTROL View]** per aprire un report.
+   * Deselezionare la casella di controllo **[!UICONTROL Active]** per disattivare la sottoscrizione.
+   * Fare clic e modificare il campo **[!UICONTROL Summary]** per modificare il numero di righe di anteprima visualizzate nell&#39;e-mail.
+   * Deselezionare la casella di controllo **[!UICONTROL Excel]** per inviare i riepiloghi dei report senza l&#39;allegato del foglio di calcolo.
+   * Fare clic sul pulsante **[!UICONTROL Send]** per inviare immediatamente l&#39;e-mail del report.
 
-1. Per eliminare completamente una sottoscrizione, selezionare la riga e fare clic su **Elimina sottoscrizione**.
+1. Per eliminare completamente una sottoscrizione, selezionare la riga e fare clic su **[!UICONTROL Delete Subscription]**.
 
    ![](assets/image2014-9-16-10-3a36-3a38.png)
 

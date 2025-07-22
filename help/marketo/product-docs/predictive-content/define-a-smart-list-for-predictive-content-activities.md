@@ -4,9 +4,9 @@ description: Definire un elenco avanzato per le attività di contenuti predittiv
 title: Definire un elenco avanzato per le attività di contenuti predittivi
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri quando definisci un elenco avanzato in una campagna avanzata. Puoi attivare un&#39;azione per chiunque faccia clic su contenuti predittivi tramite il [modello Rich Media](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-for-web-rich-media.md), la [Barra dei contenuti consigliati](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-the-content-recommendation-bar.md) o un [messaggio e-mail](/help/marketo/product-docs/predictive-content/enabling-predictive-content/enable-predictive-content-in-emails.md).
 
-1. Nella tua campagna avanzata, passa alla scheda **Elenco avanzato**.
+1. Nella tua campagna avanzata, passa alla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/smart-list-1.png)
 
@@ -31,7 +31,7 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
    >
    >Una campagna avanzata con trigger viene eseguita in modalità Trigger. Viene eseguito su una persona alla volta in base agli eventi attivati e ai filtri aggiunti.
 
-1. Fai clic sul menu a discesa **Nome** e seleziona un operatore.
+1. Fare clic sul menu a discesa **[!UICONTROL Name]** e selezionare un operatore.
 
    ![](assets/smart-list-dropdown-hands.png)
 
@@ -39,7 +39,7 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
 
    ![](assets/smart-lislt-select-content-hands.png)
 
-1. Aggiungi il vincolo **Type**.
+1. Aggiungere il vincolo **[!UICONTROL Type]**.
 
    ![](assets/clicks-predictive-content-add-constraint-hands.png)
 
@@ -47,7 +47,7 @@ Puoi utilizzare le attività di contenuto predittivo nei trigger e nei filtri qu
 
    ![](assets/pc-add-constraint.png)
 
-1. Se utilizzi l&#39;origine e-mail per il contenuto predittivo, aggiungi il trigger **Clic sul collegamento e-mail**. Seleziona l&#39;e-mail e aggiungi il vincolo **Is Predictive**, definito come **true**.
+1. Se utilizzi l&#39;origine e-mail per il contenuto predittivo, aggiungi il trigger **[!UICONTROL Clicks Link in Email]**. Selezionare l&#39;e-mail e aggiungere il vincolo **[!UICONTROL Is Predictive]**, definito come **[!UICONTROL true]**.
 
    ![](assets/clicks-link-in-email-trigger-hands.png)
 

@@ -1,30 +1,30 @@
 ---
-description: Aggiungi set di autorizzazioni Sales Insight - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungi set di autorizzazioni di Sales Insight
+description: Aggiungi set di autorizzazioni Insight per le vendite - Documentazione Marketo - Documentazione del prodotto
+title: Aggiungi set di autorizzazioni Insight vendite
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 0%
+source-wordcount: '335'
+ht-degree: 1%
 
 ---
 
-# Aggiungi set di autorizzazioni di Sales Insight {#add-sales-insight-permission-set}
+# Aggiungi set di autorizzazioni [!DNL Sales Insight] {#add-sales-insight-permission-set}
 
-Segui questi passaggi per aggiungere l’accesso alle funzioni di approfondimento sulle vendite in Salesforce. Applicabile a Salesforce Classic e Illuminazione
+Utilizzare la procedura seguente per aggiungere l&#39;accesso alle funzionalità di [!DNL Sales Insight] in [!DNL Salesforce]. Applicabile a [!DNL Salesforce] Classic e Lightening
 
 >[!PREREQUISITES]
 >
->[Aggiorna il pacchetto Sales Insight Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} alla versione 1.8000 o successiva per utilizzare questa funzione.
+>[Aggiorna il pacchetto [!DNL Sales Insight] [!DNL Salesforce]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} alla versione 1.8000 o successiva per utilizzare questa funzionalità.
 
 >[!IMPORTANT]
 >
->Se in precedenza hai concesso a Sales Insight l&#39;accesso a tutti i profili e/o hai implementato Sales Insight per tutti gli utenti, devi [rimuovere l&#39;accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
+>Se in precedenza hai concesso a [!DNL Sales Insight] l&#39;accesso a tutti i profili e/o implementato [!DNL Sales Insight] per tutti gli utenti, devi [rimuovere l&#39;accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
 
 ## Panoramica {#overview}
 
-L’autorizzazione &quot;App Marketo&quot; fa parte del pacchetto Sales Insight Salesforce. Include l’accesso agli oggetti menzionati di seguito, alle classi apex e alle pagine visualforce. Questi sono necessari per accedere a tutte le funzioni di Sales Insight.
+L&#39;autorizzazione &quot;App Marketo&quot; fa parte del pacchetto [!DNL Sales Insight] [!DNL Salesforce]. Include l’accesso agli oggetti menzionati di seguito, alle classi apex e alle pagine visualforce. Questi sono necessari per accedere a tutte le funzionalità di [!DNL Sales Insight].
 
 **Impostazioni oggetto**
 
@@ -59,7 +59,7 @@ L’autorizzazione &quot;App Marketo&quot; fa parte del pacchetto Sales Insight 
    <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
   </tr> 
   <tr> 
-   <td>Configurazione approfondimento vendite Marketo</td> 
+   <td>Configurazione Marketo [!DNL Sales Insight]</td> 
    <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
   </tr> 
   <tr> 
@@ -83,25 +83,25 @@ L’autorizzazione &quot;App Marketo&quot; fa parte del pacchetto Sales Insight 
 
 ## Aggiunta del set di autorizzazioni dell’app Marketo agli utenti {#adding-marketo-app-permission-set-to-users}
 
-1. Accedi al tuo account Salesforce.
+1. Accedi al tuo account [!DNL Salesforce].
 
-1. Fare clic su **Configurazione**.
+1. Fai clic su **[!UICONTROL Setup]**.
 
    ![](assets/add-sales-insight-permission-set-1.png)
 
-1. In Amministratore, fai clic su per eseguire l&#39;unfurl di **Gestisci utenti**, quindi **Utenti**.
+1. In Amministratore, fare clic per eseguire l&#39;unfurl di **[!UICONTROL Manage Users]**, quindi di **[!UICONTROL Users]**.
 
    ![](assets/add-sales-insight-permission-set-2.png)
 
-1. In Tutti gli utenti selezionare l&#39;utente a cui si desidera fornire l&#39;accesso, quindi fare clic su **Assegnazioni set di autorizzazioni**.
+1. In Tutti gli utenti selezionare l&#39;utente a cui si desidera fornire l&#39;accesso, quindi fare clic su **[!UICONTROL Permission Set Assignments]**.
 
    ![](assets/add-sales-insight-permission-set-3.png)
 
-1. Fare clic su **Modifica assegnazioni**.
+1. Fai clic su **[!UICONTROL Edit Assignments]**.
 
    ![](assets/add-sales-insight-permission-set-4.png)
 
-1. Seleziona **Accesso app Marketo** dai set di autorizzazioni disponibili, quindi **Aggiungi**. Fai clic su **Salva**.
+1. Selezionare **[!UICONTROL Marketo App Access]** dai set di autorizzazioni disponibili, quindi **[!UICONTROL Add]**. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-sales-insight-permission-set-5.png)
 
@@ -111,6 +111,6 @@ L’autorizzazione &quot;App Marketo&quot; fa parte del pacchetto Sales Insight 
 
 >[!NOTE]
 >
->Gli utenti che non hanno accesso a Sales Insight visualizzeranno questo messaggio: &quot;Non hai privilegi sufficienti per accedere a questa scheda.&quot;
+>Gli utenti che non hanno accesso a [!DNL Sales Insight] visualizzeranno questo messaggio: &quot;Non hai privilegi sufficienti per accedere a questa scheda.&quot;
 
-Tutto qui! Hai aggiunto correttamente l&#39;accesso a Sales Insight. Ripeti gli stessi passaggi per qualsiasi altro profilo per il quale desideri aggiungere l’accesso.
+Tutto qui. Hai aggiunto l&#39;accesso [!DNL Sales Insight]. Ripeti gli stessi passaggi per qualsiasi altro profilo per il quale desideri aggiungere l’accesso.

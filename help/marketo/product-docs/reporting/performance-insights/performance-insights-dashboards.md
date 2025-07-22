@@ -4,28 +4,28 @@ description: Dashboard di Performance Insights - Documentazione di Marketo - Doc
 title: Dashboard di Performance Insights
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '493'
 ht-degree: 0%
 
 ---
 
-# Dashboard di Performance Insights {#performance-insights-dashboards}
+# [!UICONTROL Performance Insights] dashboard {#performance-insights-dashboards}
 
 Ulteriori informazioni sulle dashboard disponibili in MPI.
 
 ![](assets/1-4.png)
 
-## Coinvolgimento {#engagement}
+## [!UICONTROL Engagement] {#engagement}
 
-La dashboard Coinvolgimento consente di misurare l’efficacia dei programmi di acquisizione dei nomi e della loro crescita.
+Il dashboard [!UICONTROL Engagement] consente di misurare l&#39;efficacia dei programmi di acquisizione dei nomi e dei nuovi programmi di acquisizione dei nomi.
 
 ![](assets/two-3.png)
 
 Misurazione del coinvolgimento del pubblico
 
-Scegli la metrica **Success** per misurare il coinvolgimento del pubblico nei tuoi programmi di sviluppo. Il successo è una misura dell’interazione significativa in Marketo.
+Scegli la metrica **[!UICONTROL Successes]** per misurare il coinvolgimento del pubblico nei tuoi programmi di sviluppo. Il successo è una misura dell’interazione significativa in Marketo.
 
 ![](assets/3-4.png)
 
@@ -37,7 +37,7 @@ Lo scopo di un programma è quello di creare un’interazione significativa con 
 
 Misurazione dell’acquisizione di un nuovo nome
 
-Scegli la metrica **Nuovi nomi** per misurare l&#39;efficacia dei nuovi programmi di acquisizione dei nomi.
+Scegliere la metrica **[!UICONTROL New Names]** per misurare l&#39;efficacia dei nuovi programmi di acquisizione dei nomi.
 
 ![](assets/4-3.png)
 
@@ -45,63 +45,63 @@ Scegli la metrica **Nuovi nomi** per misurare l&#39;efficacia dei nuovi programm
 >
 >Affinché questo dashboard possa fornire i risultati migliori, è necessario impostare il programma di acquisizione e la data di acquisizione dei lead in tutti i programmi.
 
-## Pipeline {#pipeline}
+## [!UICONTROL Pipeline] {#pipeline}
 
-La dashboard delle pipeline mostra le prestazioni del canale in base alle metriche di primo contatto e multi-contatto.
+La dashboard [!UICONTROL Pipeline] mostra le prestazioni del canale in base alle metriche di primo contatto e multi-contatto.
 
 ![](assets/five-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Nuove opportunità</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Nuove opportunità</span></strong></p></td> 
    <td><p>La parte di credito ricevuta dal programma per aver influenzato la creazione di nuove opportunità. Può essere una frazione se sono coinvolti più lead.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline creata</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Pipeline creata</span></strong></p></td> 
    <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità. Può essere una frazione del totale se sono coinvolti più lead.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline aperta</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Pipeline aperta</span></strong></p></td> 
    <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità ancora aperte. Può essere una frazione del totale se sono coinvolti più lead.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Ricavi previsti</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Ricavi previsti</span></strong></p></td> 
    <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità. Ricavi previsti è la probabilità di opportunità moltiplicata per il valore dell’opportunità. Può essere una frazione se sono coinvolti più lead.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Costo per opportunità creata</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Costo per opportunità creata</span></strong></p></td> 
    <td><p>La parte del costo del programma che ha influenzato le nuove opportunità divisa per il numero totale di nuove opportunità create.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Pipeline creata in rapporto di costo</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Pipeline creata in rapporto di costo</span></strong></p></td> 
    <td><p>La parte di credito ricevuta da un programma per influenzare la creazione di nuove opportunità divisa per la parte di costo del programma che ha influenzato la creazione di opportunità.</p></td> 
   </tr> 
  </tbody> 
 </table>
 
-## Ricavi {#revenue}
+## [!UICONTROL Revenue] {#revenue}
 
-La dashboard Ricavi mostra le prestazioni del canale in base alle metriche di primo contatto e multi-contatto.
+La dashboard [!UICONTROL Revenue] mostra le prestazioni del canale in base alle metriche di primo contatto e multi-contatto.
 
 ![](assets/six-1.png)
 
 <table> 
  <tbody> 
   <tr> 
-   <td><p><strong>Opportunità vinte</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Opportunità vinte</span></strong></p></td> 
    <td><p>La parte di credito ricevuta da un programma per aver influenzato un’opportunità acquisita.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Ricavi ottenuti</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Ricavi ottenuti</span></strong></p></td> 
    <td><p>La porzione di credito (in valore monetario) ricevuta per influenzare un'opportunità acquisita.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Costo per opportunità acquisita</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Costo per opportunità acquisita</span></strong></p></td> 
    <td><p>La parte del costo del programma che ha influenzato le nuove opportunità divisa per il numero totale di nuove opportunità create.</p></td> 
   </tr> 
   <tr> 
-   <td><p><strong>Rapporto ricavi ottenuti/costi</strong></p></td> 
+   <td><p><strong><span class="uicontrol">Rapporto ricavi ottenuti/costi</span></strong></p></td> 
    <td><p>La parte di credito (in valore monetario) ricevuta per aver influenzato un'opportunità acquisita divisa per la parte del costo del programma che ha influenzato le nuove opportunità.</p></td> 
   </tr> 
  </tbody> 

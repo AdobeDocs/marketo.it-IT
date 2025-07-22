@@ -4,43 +4,43 @@ description: Approvare un titolo per contenuti predittivi - Documenti Marketo - 
 title: Approvare un titolo per il contenuto predittivo
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
 
 # Approvare un titolo per il contenuto predittivo {#approve-a-title-for-predictive-content}
 
-È possibile aggiungere qualsiasi titolo nella pagina Tutti i contenuti al contenuto predittivo approvandolo nella pagina Tutti i contenuti o nel pop-up Modifica contenuto.
+È possibile aggiungere qualsiasi titolo nella pagina [!UICONTROL All Content] al contenuto predittivo approvandolo nella pagina [!UICONTROL All Content] o nel popup [!UICONTROL Edit Content].
 
-## Pagina Tutti i contenuti {#all-content-page}
+## [!UICONTROL All Content] pagina {#all-content-page}
 
 1. Seleziona la casella accanto all’elemento di contenuto.
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Approva per contenuto predittivo**.
+1. Fare clic sul menu a discesa **[!UICONTROL Content Actions]** e selezionare **[!UICONTROL Approve for Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 
-## Finestra a comparsa Modifica contenuto {#edit-content-pop-up}
+## Popup [!UICONTROL Edit Content] {#edit-content-pop-up}
 
-Puoi anche approvare i titoli per i contenuti predittivi direttamente nella finestra a comparsa Modifica contenuto.
+È inoltre possibile approvare titoli per contenuti predittivi direttamente nel popup [!UICONTROL Edit Content].
 
 1. Passa il puntatore del mouse su un contenuto e fai clic sull’icona di modifica alla fine della riga.
 
    ![](assets/image2017-10-3-9-3a14-3a55.png)
 
-1. Selezionare la casella **Approva per contenuto predittivo** nel popup Modifica contenuto e fare clic su **Salva**.
+1. Selezionare la casella **[!UICONTROL Approve for Predictive Content]** nel popup [!UICONTROL Edit Content] e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-3-9-3a15-3a35.png)
 
-Indipendentemente dal modo in cui utilizzi, l’icona Approva per contenuto predittivo viene ora visualizzata nella riga.
+Indipendentemente dal modo in cui utilizzi, l&#39;icona [!UICONTROL Approve for Predictive Content] viene ora visualizzata nella riga.
 
 ![](assets/five.png)
 
-Ora puoi vedere il titolo visualizzato nella pagina Predictive Content (Contenuto predittivo).
+E ora puoi vedere il titolo visualizzato nella pagina [!UICONTROL Predictive Content].
 
 ![](assets/image2017-10-3-9-3a16-3a45.png)

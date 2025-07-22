@@ -4,9 +4,9 @@ description: Modificare l’intestazione e-mail - Documentazione di Marketo - Do
 title: Modifica intestazione e-mail
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -15,10 +15,10 @@ ht-degree: 0%
 
 L’intestazione e-mail in Marketo è completamente personalizzabile. Si compone di quattro campi:
 
-* **Da** - Nome del mittente che si desidera venga visualizzato
-* **Indirizzo mittente** - L&#39;indirizzo e-mail del mittente che si desidera venga visualizzato
-* **Rispondi a** - L&#39;indirizzo di posta elettronica a cui si desidera inviare la risposta di una persona (può essere diverso dall&#39;indirizzo mittente)
-* **Oggetto** - Oggetto dell&#39;e-mail
+* **[!UICONTROL From]** - Nome del mittente che si desidera venga visualizzato
+* **[!UICONTROL From Address]** - Indirizzo e-mail del mittente che si desidera venga visualizzato
+* **[!UICONTROL Reply-to]** - L&#39;indirizzo di posta elettronica a cui si desidera inviare la risposta di una persona (può essere diverso da [!UICONTROL From Address])
+* **[!UICONTROL Subject]** - Oggetto dell&#39;e-mail
 
 Per modificare questi valori, fare clic in ogni campo e immettere le informazioni desiderate.
 
@@ -36,11 +36,11 @@ Puoi anche rendere dinamico il campo utilizzando i segmenti.
 
 ![](assets/three-2.png)
 
-L&#39;icona a forma di chiave all&#39;estrema destra nel campo Indirizzo - Da consente di sapere se si sta utilizzando una firma DKIM personalizzata.
+L&#39;icona chiave all&#39;estrema destra nel campo [!UICONTROL From Address] consente di sapere se si sta utilizzando una firma DKIM personalizzata.
 
 ![](assets/four-2.png)
 
-Il contatore all&#39;estrema destra nel campo Oggetto consente di mantenere l&#39;oggetto al di sotto del limite di 50 caratteri consigliato.
+Il contatore all&#39;estrema destra nel campo [!UICONTROL Subject] consente di mantenere l&#39;oggetto al di sotto del limite di 50 caratteri consigliato.
 
 ![](assets/five-1.png)
 

@@ -4,9 +4,9 @@ description: Modifica contenuti predittivi per rich media - Documentazione Marke
 title: Modifica contenuto predittivo per contenuti rich media
 exl-id: 6c1161dd-cefe-4b0f-8942-396d4b7db701
 feature: Predictive Content
-source-git-commit: 8958bbd03c3c6b1c6ac4769c229ad28590191fb3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '208'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 
 >[!PREREQUISITES]
 >
->Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
+>Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina [!UICONTROL All Content].
 
-1. Nella pagina **Contenuto predittivo** fare clic su un titolo per aprire l&#39;editor.
+1. Nella pagina **[!UICONTROL Predictive Content]**, fare clic su un titolo per aprire l&#39;editor.
 
    ![](assets/image2017-10-3-9-3a40-3a38.png)
 
-1. Fai clic su **Rich Media**.
+1. Fai clic su **[!UICONTROL Rich Media]**.
 
    ![](assets/image2017-10-3-9-3a41-3a33.png)
 
@@ -39,7 +39,7 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 
    ![](assets/image2017-10-3-9-3a43-3a43.png)
 
-1. Fai clic sulla casella **Categorie** per selezionare/aggiungere [categorie già impostate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facoltativo).
+1. Fare clic sulla casella **[!UICONTROL Categories]** per selezionare/aggiungere [categorie già configurate](/help/marketo/product-docs/predictive-content/getting-started/set-up-categories.md) (facoltativo).
 
    ![](assets/image2017-10-3-9-3a55-3a57.png)
 
@@ -55,6 +55,6 @@ Ecco come impostare i contenuti predittivi per Rich Media.
 
    ![](assets/six-1.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/save.png)

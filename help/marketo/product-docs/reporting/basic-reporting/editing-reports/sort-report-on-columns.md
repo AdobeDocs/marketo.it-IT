@@ -4,9 +4,9 @@ description: Ordinare il rapporto in base alle colonne - Documentazione di Marke
 title: Ordinare il rapporto in base alle colonne
 exl-id: a31383b5-bb18-400b-945a-abecd2b19340
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Utilizza le colonne per ordinare i dati nel rapporto e individuare facilmente le figure più importanti.
 
-1. Vai a **Analytics** (o **Attività di marketing**).
+1. Vai a **[!UICONTROL Analytics]** (o **[!UICONTROL Marketing Activities]**).
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Report**.
+1. Selezionare il report dalla struttura di spostamento e fare clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/reports2.jpg)
 

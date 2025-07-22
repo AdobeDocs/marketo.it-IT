@@ -4,9 +4,9 @@ description: Modifica proprietario - Documentazione di Marketo - Documentazione 
 title: Cambia proprietario
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ Se esistono persone già assegnate a un proprietario, è possibile utilizzare qu
 
    >[!CAUTION]
    >
-   >Salesforce non consente l&#39;assegnazione dei contatti alle code dei lead. Per un record che è un contatto SFDC:
+   >[!DNL Salesforce] non consente l&#39;assegnazione di contatti alle code lead. Per un record corrispondente a un contatto SFDC:
    >
-   >* Marketo creerà un lead duplicato **only** quando il contatto verrà sincronizzato con Salesforce. In altre parole, se si utilizza il passaggio di flusso **[Sincronizza persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketo creerà un lead duplicato in Salesforce e lo assegnerà alla coda lead.
+   >* Marketo creerà un lead duplicato **only** quando il contatto verrà sincronizzato con Salesforce. In altre parole, se si utilizza il passaggio di flusso **[Sincronizza persona con SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md)** con `AssignTo=<a lead queue>`, Marketo creerà un lead duplicato in Salesforce e lo assegnerà alla coda dei lead.
    >
-   >* Se si utilizza il passaggio di flusso **[!UICONTROL Modifica proprietario]** su un contatto, Marketo crea un lead duplicato in Salesforce. Per evitare questo problema, utilizza un filtro nel campo &quot;Tipo SFDC&quot; che limita l’azione ai soli lead.
+   >* Se si utilizza il passaggio di flusso **[!UICONTROL Change Owner]** su un contatto, Marketo crea un lead duplicato in Salesforce. Per evitare questo problema, utilizza un filtro nel campo &quot;Tipo SFDC&quot; che limita l’azione ai soli lead.
 
    >[!NOTE]
    >
-   >Se il record non esiste ancora nell’account Salesforce, lo sincronizzeremo e lo assegneremo all’utente selezionato.
+   >Se il record non esiste ancora nell&#39;account [!DNL Salesforce], verrà sincronizzato e assegnato all&#39;utente selezionato.

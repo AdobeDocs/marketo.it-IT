@@ -4,9 +4,9 @@ description: Rinominare un campo - Documentazione Marketo - Documentazione del p
 title: Rinominare un campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/rename-a-field-2.png)
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
    >[!TIP]
    >
-   >Fai clic sul collegamento **[!UICONTROL Utilizzato da]** per trovare le risorse che fanno riferimento a questo campo.
+   >Fai clic sul collegamento **[!UICONTROL Used By]** per trovare le risorse che fanno riferimento a questo campo.
 
-1. Rinomina il campo e fai clic su **[!UICONTROL Salva]**.
+1. Rinominare il campo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/rename-a-field-4.png)
 
@@ -45,4 +45,4 @@ Bel lavoro! Ora sai come rinominare i campi in Marketo.
 
 >[!CAUTION]
 >
->Se rinomini il nome API in Salesforce, Marketo creerà un campo nuovo di zecca e lascerà indietro quello vecchio!
+>Se si rinomina il nome API in [!DNL Salesforce], Marketo creerà un nuovo campo e lascerà quello precedente.

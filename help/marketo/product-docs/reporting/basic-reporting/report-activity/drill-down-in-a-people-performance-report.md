@@ -4,10 +4,10 @@ description: Espansione di un rapporto sulle prestazioni delle persone - Documen
 title: Espandere un rapporto sulle prestazioni delle persone
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 1%
+source-wordcount: '127'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori informazioni sulla persona.
 
-1. Fai clic sulla scheda **Report** per visualizzare eventuali report esistenti.
+1. Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare eventuali report esistenti.
 
    ![](assets/one.png)
 
@@ -23,11 +23,11 @@ Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori
 
    ![](assets/two.png)
 
-1. Fare clic su **Drill-down**.
+1. Fai clic su **[!UICONTROL Drill-Down]**.
 
    ![](assets/three.png)
 
-1. Nel pop-up **Drill-down**, selezionare l&#39;attributo che si desidera espandere. Quindi fare clic su **Espandi**.
+1. Nel pop-up **[!UICONTROL Drill-Down]**, selezionare l&#39;attributo che si desidera espandere. Quindi fai clic su **[!UICONTROL Drill-Down]**.
 
    ![](assets/four.png)
 
@@ -39,6 +39,6 @@ Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori
 
    ![](assets/five.png)
 
-1. Per salvare i risultati (facoltativo), fai clic sull&#39;icona **Esporta** in basso a sinistra.
+1. Per salvare i risultati (facoltativo), fare clic sull&#39;icona **[!UICONTROL Export]** in basso a sinistra.
 
    ![](assets/six.png)

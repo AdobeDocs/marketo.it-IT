@@ -4,9 +4,9 @@ description: Anteprima di un modulo - Documenti Marketo - Documentazione del pro
 title: Anteprima di un modulo
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di moduli rapido e semplice.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 
@@ -23,19 +23,19 @@ Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di mod
 
    ![](assets/image2014-9-15-17-3a45-3a51.png)
 
-1. In **Azioni modulo**, fare clic su **Anteprima**.
+1. In **[!UICONTROL Form Actions]**, fare clic su **[!UICONTROL Preview]**.
 
    ![](assets/image2014-9-15-17-3a46-3a9.png)
 
-1. L&#39;editor moduli verrà aperto in modalità **anteprima**.
+1. L&#39;editor dei moduli verrà aperto in modalità **[!UICONTROL preview]**.
 
    ![](assets/image2014-9-15-17-3a46-3a17.png)
 
-1. Fai clic su **Modifica bozza** per tornare alla modalità **modifica**.
+1. Fare clic su **[!UICONTROL Edit Draft]** per tornare alla modalità **[!UICONTROL edit]**.
 
    ![](assets/image2014-9-15-17-3a46-3a37.png)
 
-1. Tornare indietro facilmente facendo clic su **Anteprima bozza**.
+1. Tornare indietro facilmente facendo clic su **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2014-9-15-17-3a46-3a45.png)
 

@@ -4,20 +4,20 @@ description: Utilizzo dei momenti di interesse - Documentazione di Marketo - Doc
 title: Utilizzo di momenti interessanti
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
 # Utilizzo di momenti interessanti {#using-interesting-moments}
 
-I momenti interessanti sono la chiave per comunicare con il tuo team di vendita tramite l’app Marketo Sales Insight.
+I momenti interessanti sono la chiave per comunicare con il tuo team di vendita tramite l&#39;app [!DNL Marketo Sales Insight].
 
 >[!AVAILABILITY]
 >
->Sono disponibili solo per i clienti Marketo Sales Insight e [Marketo Sales Connect](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
+>Sono disponibili solo per [!DNL Marketo Sales Insight] e [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) clienti.
 
 ## Qual è un momento interessante? {#what-is-an-interesting-moment}
 
@@ -33,15 +33,15 @@ Sta a te decidere! Decidi quali informazioni sono rilevanti per il tuo team di v
 
    ![](assets/using-interesting-moments-1.png)
 
-1. Trascina sul passaggio del flusso **Momenti di interesse**.
+1. Trascinare sul passaggio del flusso **[!UICONTROL Interesting Moments]**.
 
    ![](assets/using-interesting-moments-2.png)
 
-1. Seleziona un **tipo** (e-mail, milestone o Web).
+1. Selezionare un tipo **type** ([!UICONTROL Email], [!UICONTROL Milestone] o [!UICONTROL Web]).
 
    ![](assets/using-interesting-moments-3.png)
 
-1. Scrivi un messaggio al tuo team vendite nel campo **Descrizione** che spiega perché questa azione è importante.
+1. Scrivi un messaggio al tuo team vendite nel campo **[!UICONTROL Description]** che spiega perché questa azione è importante.
 
    ![](assets/using-interesting-moments-4.png)
 
@@ -63,29 +63,29 @@ I momenti interessanti verranno visualizzati nel registro attività di un [lead]
 
 ![](assets/using-interesting-moments-5.png)
 
-## Che aspetto ha un momento interessante in Salesforce?  {#what-does-an-interesting-moment-look-like-in-salesforce}
+## Come si presenta un momento di interesse in [!DNL Salesforce]?  {#what-does-an-interesting-moment-look-like-in-salesforce}
 
-Dopo aver [installato l&#39;app Marketo Sales Insight App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), i momenti interessanti verranno visualizzati nelle pagine lead, contatto, account o opportunità. Vengono inoltre visualizzate nel dashboard approfondimenti vendite nell’elenco Feed lead, Elementi di maggiore rilevanza e Osserva.
+Dopo aver [installato l&#39;app [!DNL Marketo Sales Insight] App](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md), i momenti interessanti verranno visualizzati nelle pagine lead, contatto, account o opportunità. Vengono inoltre visualizzati nel dashboard [!DNL Sales Insight] nei feed lead, [!DNL Best Bets] e nell&#39;elenco di controllo.
 
 ![](assets/using-interesting-moments-6.png)
 
-## Come si presenta un momento interessante in Salesforce1? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
+## Come si presenta un momento di interesse in [!DNL Salesforce1]? {#what-does-an-interesting-moment-look-like-in-salesforce-1}
 
-Dopo aver installato o aggiornato Marketo Sales Insight per Salesforce1, i momenti interessanti verranno visualizzati nei collegamenti correlati del lead.
+Dopo aver installato o aggiornato [!DNL Marketo Sales Insight] per [!DNL Salesforce1], i momenti interessanti verranno visualizzati nei collegamenti correlati del lead.
 
 ![](assets/using-interesting-moments-7.png)
 
 ## Iscriviti ai momenti di interesse {#subscribe-to-interesting-moments}
 
-Per iscriverti a un momento di interesse, fai clic sul pulsante Abbonati nella scheda Momento di interesse o nel Feed lead. I passaggi seguenti sono gli stessi per entrambi.
+È possibile sottoscrivere un momento di interesse facendo clic sul pulsante [!UICONTROL Subscribe] nella scheda Momento di interesse o nel feed lead. I passaggi seguenti sono gli stessi per entrambi.
 
 1. Fai clic sull’icona Sottoscrivi. Passerai quindi alla scheda Iscrizione e-mail.
 
-1. Puoi scegliere il tipo di avviso e-mail da ricevere in base a Nome, Account, Tipo o Descrizione.
+1. È possibile scegliere il tipo di avviso e-mail da ricevere in base a [!UICONTROL Name], [!UICONTROL Account], [!UICONTROL Type] o [!UICONTROL Description].
 
 1. Scegli gli indirizzi e-mail a cui inviare gli avvisi (te stesso/i membri del gruppo)
 
-1. Fare clic su **Sottoscrivi**.
+1. Fai clic su **[!UICONTROL Subscribe]**.
 
 >[!NOTE]
 >

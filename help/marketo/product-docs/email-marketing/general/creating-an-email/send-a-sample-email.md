@@ -4,9 +4,9 @@ description: Inviare un messaggio e-mail di esempio - Documentazione di Marketo 
 title: Invia e-mail di esempio
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 ## Invia e-mail di esempio {#send-a-sample-email-1}
 
-1. Trova e seleziona l’e-mail. Fai clic sul menu a discesa **Azioni e-mail** e seleziona **Invia esempio**.\
+1. Trova e seleziona l’e-mail. Fare clic sul menu a discesa **[!UICONTROL Email Actions]** e selezionare **[!UICONTROL Send Sample]**.\
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
    >
    >I miei token vengono risolti nel valore appropriato per il programma dell’e-mail.
 
-1. Inserisci uno o più indirizzi e-mail per la consegna. Per più indirizzi e-mail, utilizza le virgole per separarli. Al termine, fai clic su **Invia**.
+1. Inserisci uno o più indirizzi e-mail per la consegna. Per più indirizzi e-mail, utilizza le virgole per separarli. Al termine, fai clic su **[!UICONTROL Send]**.
 
    ![](assets/two.png)
 
@@ -42,21 +42,21 @@ ht-degree: 0%
 
 ## Invia un&#39;e-mail di esempio durante la modifica {#send-a-sample-email-while-editing}
 
-1. Trova il tuo indirizzo e-mail, selezionalo e fai clic sulla scheda **Modifica bozza**.
+1. Trovare l&#39;e-mail, selezionarla e fare clic sulla scheda **[!UICONTROL Edit Draft]**.
 
    ![](assets/three-281-29.jpg)
 
-1. Fai clic su **Azioni e-mail**, seleziona **Invia esempio**.
+1. Fare clic su **[!UICONTROL Email Actions]**, selezionare **[!UICONTROL Send Sample]**.
 
    ![](assets/four.png)
 
-1. Immetti un indirizzo e-mail per la consegna e fai clic su **Invia**.
+1. Immettere un indirizzo di posta elettronica per la consegna e fare clic su **[!UICONTROL Send]**.
 
    ![](assets/two.png)
 
    >[!NOTE]
    >
-   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting).
+   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Inviare un messaggio e-mail di esempio basato su un segmento {#send-a-sample-email-based-on-a-segment}
 
@@ -64,15 +64,15 @@ ht-degree: 0%
 >
 >[Applica segmentazione all&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/using-dynamic-content-in-an-email.md).
 
-1. Trova il tuo indirizzo e-mail, selezionalo e fai clic sulla scheda **Modifica bozza**.
+1. Trovare l&#39;e-mail, selezionarla e fare clic sulla scheda **[!UICONTROL Edit Draft]**.
 
    ![](assets/three-281-29.jpg)
 
-1. Fare clic su **Anteprima**.
+1. Fai clic su **[!UICONTROL Preview]**.
 
    ![](assets/1.png)
 
-1. Fai clic sul menu a discesa **Visualizza per** e seleziona **Segmentazione**.
+1. Fare clic sul menu a discesa **[!UICONTROL View By]** e selezionare **[!UICONTROL Segmentation]**.
 
    ![](assets/2.png)
 
@@ -84,12 +84,12 @@ ht-degree: 0%
 
    ![](assets/4.png)
 
-1. Fai clic su **Invia campione** per ricevere un&#39;e-mail di prova del segmento in azione.
+1. Fai clic su **[!UICONTROL Send Sample]** per ricevere un&#39;e-mail di prova del segmento in azione.
 
    ![](assets/5.png)
 
    >[!TIP]
    >
-   >Puoi anche inviare un’e-mail di esempio basata su un segmento nella modalità di modifica dell’e-mail. Fai clic sul menu a discesa **Azioni e-mail**, seleziona **Invia campione**, quindi scegli il tuo segmento.
+   >Puoi anche inviare un’e-mail di esempio basata su un segmento nella modalità di modifica dell’e-mail. Fai clic sull&#39;elenco a discesa **[!UICONTROL Email Actions]**, seleziona **[!UICONTROL Send Sample]**, quindi scegli il tuo segmento.
 
 Campionare i contenuti prima di lanciare una campagna è molto importante. Misura due volte, taglia una volta!

@@ -4,23 +4,23 @@ description: Abilitare l’individuazione dei contenuti - Documentazione di Mark
 title: Abilita individuazione contenuto
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
 
 # Abilita individuazione contenuto {#enable-content-discovery}
 
-La funzione di individuazione dei contenuti individua e assegna tag automaticamente ai contenuti già esistenti (inclusi casi di studio, post di blog, video, comunicati stampa e così via). dal tuo sito web e tiene traccia del numero di visualizzazioni su questi materiali.  Il contenuto predittivo utilizza il contenuto scoperto, impiegando analisi predittive per determinare quale sia il contenuto con le prestazioni migliori e consiglia il contenuto migliore alla persona giusta.
+La funzione Content Discovery rileva e assegna automaticamente i tag ai contenuti già esistenti (inclusi casi di studio, post di blog, video, comunicati stampa, ecc.) dal sito Web e tiene traccia del numero di visualizzazioni su tali materiali.  Il contenuto predittivo utilizza il contenuto scoperto, impiegando analisi predittive per determinare quale sia il contenuto con le prestazioni migliori e consiglia il contenuto migliore alla persona giusta.
 
-1. Vai a **Impostazioni contenuto**.
+1. Vai a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Attiva l&#39;individuazione del contenuto **Attivato**.
+1. Imposta [!UICONTROL Content Discovery] su **[!UICONTROL On]**.
 
    ![](assets/content-discovery-on-hand.png)
 
-Se si imposta l&#39;individuazione del contenuto su Attivato, verrà automaticamente rilevato un contenuto PDF o video quando un visitatore Web fa clic sul file o guarda il video. Questa parte di contenuto (URL, nome del contenuto e URL dell’immagine) viene aggiunta e quindi tracciata nella pagina Tutto il contenuto. Durante la ricerca automatica di un video, viene rilevato un video quando un visitatore web fa clic su e guarda un video incorporato da YouTube, Vimeo o Wistia. Per individuare automaticamente altri contenuti, è necessario [creare modelli di contenuto](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).
+Se si imposta [!UICONTROL Content Discovery] su [!UICONTROL On], verrà automaticamente rilevato un contenuto PDF o video quando un visitatore Web fa clic sul file o guarda il video. Questa parte di contenuto (URL, nome del contenuto e URL dell’immagine) viene aggiunta e quindi tracciata nella pagina Tutto il contenuto. Durante l&#39;individuazione automatica di un video, viene rilevato un video quando un visitatore Web fa clic su un video incorporato da YouTube, [!DNL Vimeo] o [!DNL Wistia] e lo guarda. Per individuare automaticamente altri contenuti, è necessario [creare modelli di contenuto](/help/marketo/product-docs/predictive-content/getting-started/create-content-patterns.md).

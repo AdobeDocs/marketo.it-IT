@@ -4,20 +4,20 @@ description: Panoramica delle funzioni della dashboard approfondimenti - Documen
 title: Panoramica delle funzioni del dashboard approfondimenti
 exl-id: a32f8694-faf2-4183-a485-82fd859b77d2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1525'
+source-wordcount: '1473'
 ht-degree: 0%
 
 ---
 
 # Panoramica delle funzioni del dashboard approfondimenti {#insights-dashboard-feature-overview}
 
-Ulteriori informazioni sulle funzioni disponibili nella dashboard Informazioni di vendita.
+Ulteriori informazioni sulle funzionalità disponibili nel dashboard di [!DNL Sales Insights].
 
 >[!PREREQUISITES]
 >
->Devi disporre del pacchetto SFDC MSI più recente e della [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
+>È necessario disporre del pacchetto SFDC MSI più recente e della [configurazione](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configuration-for-existing-customers.md).
 
 ![](assets/insights-dashboard-feature-overview-1.png)
 
@@ -26,7 +26,7 @@ Ulteriori informazioni sulle funzioni disponibili nella dashboard Informazioni d
 **Griglia Velocità Di Coinvolgimento**
 
 * Questa griglia intelligente include i momenti di interesse, e-mail e attività Web negli ultimi 90 giorni
-* L’utente può scegliere di &quot;mostrare l’attività account&quot;, in modo da disporre a livello di account tutti i momenti di interesse, e-mail e attività web nella visualizzazione del contatto
+* L&#39;utente può scegliere di &quot;[!UICONTROL Show Account]&quot; l&#39;attività, in questo modo verrà impostato il livello Tutti i momenti di interesse dell&#39;account, l&#39;attività Web e di posta elettronica nella visualizzazione Contatto
 * L’utente può evidenziare una settimana specifica per visualizzare le attività entro tale settimana
 * Visualizzazione predefinita: è selezionata la settimana corrente
 
@@ -47,7 +47,7 @@ Scheda Campagne e-mail:
 * Non specifico per il contatto/lead (ad esempio, l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza di Marketo). L’elenco delle campagne in tutti i pannelli lead, contatto, account e opportunità sarà lo stesso
 * Se la ricorrenza della campagna è tale che viene eseguita più di tre volte nei successivi 90 giorni, verranno mostrate solo le tre esecuzioni successive in un dato momento (in modo simile al comportamento in Marketo)
 * La scheda dei dettagli dell’attività in questa sezione avrà un’opzione di anteprima. Se il flusso include più passaggi dell’e-mail di invio, tutte le e-mail saranno disponibili per l’anteprima. Nel passaggio Invia flusso e-mail, se sono presenti più &quot;scelte e-mail&quot;, l’opzione predefinita sarà disponibile per l’anteprima
-* I filtri includono &quot;Ricerca&quot; e &quot;Intervallo date&quot;
+* I filtri includono &quot;[!UICONTROL Search]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-2.png)
 
@@ -58,7 +58,7 @@ Scheda Evento:
 * Selezionando gli eventi invitati verranno visualizzati gli eventi a cui è stato invitato il contatto specifico, insieme allo stato del membro
 * Selezionando tutti gli eventi verrà visualizzato l’elenco degli eventi pianificati nei successivi 90 giorni
 * La scheda Dettagli attività in questa sezione presenta l’opzione di anteprima
-* Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
+* Il filtro include &quot;[!UICONTROL Search]&quot;, &quot;[!UICONTROL Show only invited events]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-3.png)
 
@@ -69,7 +69,7 @@ Scheda Evento:
 * Questa griglia intelligente include i momenti di interesse, e-mail e attività Web negli ultimi 90 giorni
 * L’utente può evidenziare una settimana specifica per visualizzare le attività entro tale settimana
 * Visualizzazione predefinita: è selezionata la settimana corrente
-* La funzione &quot;Mostra attività account&quot; non è disponibile per i lead perché non fa parte di alcun account in Salesforce finché non viene convertito in un contatto
+* La funzionalità &quot;[!UICONTROL Show Account Activity]&quot; non è disponibile per i lead perché non fa parte di alcun account in [!DNL Salesforce] finché non viene convertita in un contatto
 
 **Espansione e riepilogo del coinvolgimento**
 
@@ -88,7 +88,7 @@ Scheda Campagne e-mail:
 * Non specifico per il contatto/lead (ad esempio, l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza di Marketo). L’elenco delle campagne in tutti i pannelli lead, contatto, account e opportunità sarà lo stesso
 * Se la ricorrenza della campagna è tale che viene eseguita più di tre volte nei successivi 90 giorni, verranno mostrate solo le tre esecuzioni successive in un dato momento (in modo simile al comportamento in Marketo)
 * La scheda dei dettagli dell’attività in questa sezione avrà un’opzione di anteprima. Se il flusso include più passaggi dell’e-mail di invio, tutte le e-mail saranno disponibili per l’anteprima. Nel passaggio Invia flusso e-mail, se sono presenti più &quot;scelte e-mail&quot;, l’opzione predefinita sarà disponibile per l’anteprima
-* I filtri includono &quot;Ricerca&quot; e &quot;Intervallo date&quot;
+* I filtri includono &quot;[!UICONTROL Search]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-4.png)
 
@@ -99,7 +99,7 @@ Scheda Evento:
 * Selezionando gli eventi invitati verranno visualizzati gli eventi a cui è stato invitato il contatto specifico, insieme allo stato del membro
 * Selezionando tutti gli eventi verrà visualizzato l’elenco degli eventi pianificati nei successivi 90 giorni
 * La scheda Dettagli attività in questa sezione presenta l’opzione di anteprima
-* Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
+* Il filtro include &quot;[!UICONTROL Search]&quot;, &quot;[!UICONTROL Show only invited events]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 ![](assets/insights-dashboard-feature-overview-5.png)
 
@@ -128,7 +128,7 @@ Scheda Campagne e-mail:
 * Non specifico per il contatto/lead (ad esempio, l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza di Marketo). L’elenco delle campagne in tutti i pannelli lead, contatto, account e opportunità sarà lo stesso
 * Se la ricorrenza della campagna è tale che viene eseguita più di tre volte nei successivi 90 giorni, verranno mostrate solo le tre esecuzioni successive in un dato momento (in modo simile al comportamento in Marketo)
 * La scheda dei dettagli dell’attività in questa sezione avrà un’opzione di anteprima. Se il flusso include più passaggi dell’e-mail di invio, tutte le e-mail saranno disponibili per l’anteprima. Nel passaggio Invia flusso e-mail, se sono presenti più &quot;scelte e-mail&quot;, l’opzione predefinita sarà disponibile per l’anteprima
-* I filtri includono &quot;Ricerca&quot; e &quot;Intervallo date&quot;
+* I filtri includono &quot;[!UICONTROL Search]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 Scheda Evento:
 
@@ -137,7 +137,7 @@ Scheda Evento:
 * Selezionando gli eventi invitati verranno visualizzati gli eventi a cui è stato invitato il contatto specifico, insieme allo stato del membro
 * Selezionando tutti gli eventi verrà visualizzato l’elenco degli eventi pianificati nei successivi 90 giorni
 * La scheda Dettagli attività in questa sezione presenta l’opzione di anteprima
-* Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
+* Il filtro include &quot;[!UICONTROL Search]&quot;, &quot;[!UICONTROL Show only invited events]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 ## Layout opportunità {#opportunity-layout}
 
@@ -162,7 +162,7 @@ Scheda Evento:
 * Non specifico per il contatto/lead (ad esempio, l’elenco delle campagne è un elenco generico di tutte le campagne e-mail pianificate nell’istanza di Marketo). L’elenco delle campagne in tutti i pannelli lead, contatto, account e opportunità sarà lo stesso
 * Se la ricorrenza della campagna è tale che viene eseguita più di tre volte nei successivi 90 giorni, verranno mostrate solo le tre esecuzioni successive in un dato momento (in modo simile al comportamento in Marketo)
 * La scheda dei dettagli dell’attività in questa sezione avrà un’opzione di anteprima. Se il flusso include più passaggi dell’e-mail di invio, tutte le e-mail saranno disponibili per l’anteprima. Nel passaggio Invia flusso e-mail, se sono presenti più &quot;scelte e-mail&quot;, l’opzione predefinita sarà disponibile per l’anteprima
-* I filtri includono &quot;Ricerca&quot; e &quot;Intervallo date&quot;
+* I filtri includono &quot;[!UICONTROL Search]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 Scheda Evento:
 
@@ -171,8 +171,8 @@ Scheda Evento:
 * Selezionando gli eventi invitati verranno visualizzati gli eventi a cui è stato invitato il contatto specifico, insieme allo stato del membro
 * Selezionando tutti gli eventi verrà visualizzato l’elenco degli eventi pianificati nei successivi 90 giorni
 * La scheda Dettagli attività in questa sezione presenta l’opzione di anteprima
-* Il filtro include &quot;Ricerca&quot;, &quot;Mostra solo eventi invitati&quot; e &quot;Intervallo date&quot;
+* Il filtro include &quot;[!UICONTROL Search]&quot;, &quot;[!UICONTROL Show only invited events]&quot; e &quot;[!UICONTROL Date Range]&quot;
 
 >[!NOTE]
 >
->Se l’account o l’opportunità dispone di più di 800 contatti, la dashboard non visualizzerà alcun dato. Tuttavia, puoi andare dai singoli contatti per visualizzarne approfondimenti e coinvolgimento. Se il tuo account ha più di 800 contatti, &quot;Mostra attività a livello di account&quot; verrà disabilitato.
+>Se l’account o l’opportunità dispone di più di 800 contatti, la dashboard non visualizzerà alcun dato. Tuttavia, puoi andare dai singoli contatti per visualizzarne approfondimenti e coinvolgimento. Se il tuo account ha più di 800 contatti, &quot;[!UICONTROL Show Account Level Activity]&quot; verrà disabilitato.

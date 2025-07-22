@@ -4,9 +4,9 @@ description: Creare un token di script e-mail - Documentazione di Marketo - Docu
 title: Creare un token di script e-mail
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per gli sviluppatori avanzati, puoi utilizzare [gli script Velocity](https://velocity.apache.org/engine/1.7/user-guide.html) nelle e-mail. Ecco come farlo.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -23,15 +23,15 @@ Per gli sviluppatori avanzati, puoi utilizzare [gli script Velocity](https://vel
 
    ![](assets/image2014-9-17-22-3a21-3a24.png)
 
-1. Nella scheda **I miei token**, trascina un token **Script e-mail**.
+1. Nella scheda **[!UICONTROL My Tokens]** trascinare un token **[!UICONTROL Email Script]**.
 
    ![](assets/image2014-9-17-22-3a21-3a29.png)
 
-1. Assegna un nome al token dello script e-mail e **fai clic per modificarne** il contenuto.
+1. Denomina il token dello script e-mail e **[!UICONTROL Click to Edit]** il relativo contenuto.
 
    ![](assets/image2014-9-17-22-3a21-3a46.png)
 
-1. Utilizza la struttura a destra per trascinare **token di tipo Persona, Opportunità** o **Oggetto personalizzato**.
+1. Utilizza la struttura a destra per trascinare **[!UICONTROL Person]**, **[!UICONTROL Opportunity]** o **[!UICONTROL Custom Object]** token.
 
    ![](assets/five-2.png)
 
@@ -49,16 +49,16 @@ Per gli sviluppatori avanzati, puoi utilizzare [gli script Velocity](https://vel
 
 1. Scrivi il tuo script in Velocity. Di seguito sono riportate alcune risorse utili:
 
-   * [Documentazione Scripting E-Mail Per Sviluppatori Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)
+   * [Documentazione Scripting E-Mail Per Sviluppatori Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Guida utente Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guida di riferimento Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Strumenti Velocity Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
-1. Una volta completato lo script, fai clic su **Salva**.
+1. Una volta completato lo script, fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-22-3a23-3a1.png)
 
-1. Fai clic su **Salva** un&#39;altra volta.
+1. Fai clic su **[!UICONTROL Save]** un&#39;altra volta.
 
    ![](assets/image2014-9-17-22-3a23-3a13.png)
 

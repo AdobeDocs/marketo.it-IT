@@ -4,16 +4,16 @@ description: Rimuovere un membro da un programma di coinvolgimento - Documentazi
 title: Rimuovere un membro da un programma di coinvolgimento
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
 # Rimuovere un membro da un programma di coinvolgimento {#remove-a-member-from-an-engagement-program}
 
-Ops! Come hanno fatto quelle persone a entrare? È possibile rimuovere membri da un programma di coinvolgimento con il passaggio di flusso **Modifica stato programma**.
+Ops! Come hanno fatto quelle persone a entrare? È possibile rimuovere membri da un programma di coinvolgimento con il passaggio di flusso **[!UICONTROL Change Program Status]**.
 
 >[!TIP]
 >
@@ -21,11 +21,11 @@ Ops! Come hanno fatto quelle persone a entrare? È possibile rimuovere membri da
 
 ## Passaggio di flusso {#flow-step}
 
-1. Trascina nel passaggio del flusso **Modifica stato programma**.
+1. Trascinare nel passaggio di flusso **[!UICONTROL Change Program Status]**.
 
    ![](assets/image2014-9-15-18-3a15-3a57.png)
 
-   Scegli lo stato, **Non nel programma**.
+   Scegliere lo stato, **[!UICONTROL Not in Program]**.
 
    ![](assets/image2014-9-15-18-3a16-3a2.png)
 
@@ -33,7 +33,7 @@ Ops! Come hanno fatto quelle persone a entrare? È possibile rimuovere membri da
 
 ## Sospendi persone  {#pause-people}
 
-A volte ti basta mettere in pausa le persone in un programma di coinvolgimento e non rimuoverle. Operazione completata con la **cadenza del programma di modifica del coinvolgimento**.
+A volte ti basta mettere in pausa le persone in un programma di coinvolgimento e non rimuoverle. Operazione completata con **[!UICONTROL Change Engagement Program Cadence]**.
 
 >[!MORELIKETHIS]
 >

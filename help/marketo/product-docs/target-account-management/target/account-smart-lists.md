@@ -4,9 +4,9 @@ description: Elenchi avanzati account - Documentazione Marketo - Documentazione 
 title: Elenchi avanzati account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '428'
 ht-degree: 0%
 
 ---
@@ -17,11 +17,11 @@ Ecco come identificare in modo rapido e accurato i tuoi account di alto valore.
 
 >[!NOTE]
 >
->Questa funzione è disponibile solo per coloro che dispongono sia del componente aggiuntivo Gestione account di Target che di una licenza TAM rilasciata.
+>Questa funzionalità è disponibile solo per coloro che dispongono sia del componente aggiuntivo [!UICONTROL Target Account Management] che di una licenza TAM rilasciata.
 
-## Creare un elenco avanzato dell’account {#create-an-account-smart-list}
+## Crea un [!UICONTROL Account Smart List] {#create-an-account-smart-list}
 
-1. In Marketo, vai a **Attività di marketing**.
+1. In Marketo, vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/account-smart-lists-1.png)
 
@@ -29,29 +29,29 @@ Ecco come identificare in modo rapido e accurato i tuoi account di alto valore.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Fai clic sul menu a discesa **Nuovo** e seleziona **Nuova risorsa locale**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/account-smart-lists-3.png)
 
-1. Fare clic su **Elenco smart account**.
+1. Fai clic su **[!UICONTROL Account Smart List]**.
 
    ![](assets/account-smart-lists-4.png)
 
-1. Immetti un nome e fai clic su **Crea** (la descrizione e le etichette sono facoltative).
+1. Immettere un nome e fare clic su **[!UICONTROL Create]** (Descrizione ed etichette sono facoltativi).
 
    ![](assets/account-smart-lists-5.png)
 
-L&#39;elenco avanzato account è stato creato. Consulta di seguito per i passaggi per definirne le regole.
+[!UICONTROL Account Smart List] è stato creato Consulta di seguito per i passaggi per definirne le regole.
 
-## Regole per elenchi avanzati account {#account-smart-list-rules}
+## [!UICONTROL Account Smart List] regole {#account-smart-list-rules}
 
-Gli elenchi avanzati account funzionano in modo simile agli elenchi avanzati standard, con una notevole eccezione: i contenitori.
+[!UICONTROL Account Smart Lists] funziona in modo simile agli elenchi avanzati standard, con un&#39;eccezione degna di nota: i contenitori.
 
-1. Per definire l&#39;elenco avanzato account, fare clic sulla scheda **Regole elenco avanzato account**.
+1. Per definire [!UICONTROL Account Smart List], fare clic sulla scheda **[!UICONTROL Account Smart List Rules]**.
 
    ![](assets/account-smart-lists-6.png)
 
-1. Scegli i filtri account desiderati. In questo esempio stiamo scegliendo _L&#39;industria è sanitaria_.
+1. Scegli i filtri account desiderati. In questo esempio _[!UICONTROL Industry]è[!UICONTROL Healthcare]_.
 
    ![](assets/account-smart-lists-7.png)
 
@@ -77,32 +77,32 @@ Ecco come apparirà il contenitore.
 >
 >La creazione di un contenitore di filtri crea una regola &quot;e&quot;, che restituisce solo tutti i risultati combinati. In questo esempio, gli account con un settore sanitario, oltre a trovarsi in California _e_ con qualcuno elencato come CFO. Se non desideri utilizzare i contenitori, rilascia semplicemente il filtro al di sotto/al di sopra di quello esistente.
 
-Ed è tutto! Consulta la sezione seguente per scoprire come sfruttare il tuo elenco avanzato degli account.
+Ed è tutto! Consulta la sezione seguente per scoprire come utilizzare [!UICONTROL Account Smart List].
 
 >[!TIP]
 >
->Proprio come con gli elenchi avanzati standard, puoi utilizzare la logica avanzata per perfezionare ulteriormente i risultati. A tale scopo, sono necessari almeno tre filtri e, negli elenchi avanzati account, un contenitore (indipendentemente dal numero di filtri contenuti) equivale a un filtro.
+>Proprio come con gli elenchi avanzati standard, puoi utilizzare la logica avanzata per perfezionare ulteriormente i risultati. Sono necessari almeno tre filtri e in [!UICONTROL Account Smart Lists] un contenitore (indipendentemente dal numero di filtri contenuti) è uguale a un filtro.
 
-## Azioni per elenchi avanzati account {#account-smart-list-actions}
+## [!UICONTROL Account Smart List] azioni {#account-smart-list-actions}
 
-Nella scheda Panoramica dell’elenco avanzato account, noterai alcune opzioni di azione.
+Nella scheda Panoramica di [!UICONTROL Account Smart List], noterai alcune opzioni di azione.
 
-**Esporta**: esporta i risultati dell&#39;elenco avanzato account come file CSV.
+**[!UICONTROL Export]**: esporta i risultati di [!UICONTROL Account Smart List] come CSV.
 
-**Clone**: crea una copia dell&#39;elenco avanzato account.
+**[!UICONTROL Clone]**: crea una copia di [!UICONTROL Account Smart List].
 
-**Invia ad Ad Network**: invia l&#39;elenco a LinkedIn come nuovo pubblico corrispondente.
+**[!UICONTROL Send to Ad Network]**: invia l&#39;elenco a [!DNL LinkedIn] come nuovo pubblico corrispondente.
 
-È inoltre possibile fare riferimento all&#39;elenco smart dell&#39;account in un elenco/campagna smart standard utilizzando il filtro _Persone membro dell&#39;elenco smart dell&#39;account_.
+È inoltre possibile fare riferimento a [!UICONTROL Account Smart List] in un elenco/campagna Smart standard utilizzando il filtro _[!UICONTROL People Member of Account Smart List]_.
 
 ![](assets/account-smart-lists-12.png)
 
 >[!NOTE]
 >
->I risultati dell’elenco avanzato Persone membro dell’account mostreranno tutte le persone negli account identificati, non solo le persone che si trovano tramite i filtri Persona corrispondente nell’elenco avanzato degli account.
+>I risultati di [!UICONTROL People Member of Account Smart List] mostreranno tutte le persone negli account identificati, non solo le persone trovate tramite i filtri Persona corrispondente nell&#39;elenco avanzato degli account.
 
 >[!NOTE]
 >
 >**Definizione**
 >
->**Elenco avanzato utenti dell&#39;account**: in questo caso la parola &quot;membro&quot; fa riferimento all&#39;account stesso, quindi &quot;membro utenti&quot; indica le persone effettive (record Marketo) in tali account.
+>**[!UICONTROL People Member of Account Smart List]**: in questo caso la parola &quot;membro&quot; fa riferimento all&#39;account stesso, quindi &quot;membro persone&quot; significa le persone effettive (record Marketo) in tali account.

@@ -4,9 +4,9 @@ description: Consulta Membri di un programma di coinvolgimento - Documentazione 
 title: Vedere Membri di un programma di coinvolgimento
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 
-1. Nel programma di coinvolgimento, fare clic con il pulsante destro del mouse e selezionare **Visualizza membri**.
+1. Dal programma di coinvolgimento, fare clic con il pulsante destro del mouse e selezionare **[!UICONTROL View Members]**.
 
    ![](assets/membersofengagement.jpg)
 

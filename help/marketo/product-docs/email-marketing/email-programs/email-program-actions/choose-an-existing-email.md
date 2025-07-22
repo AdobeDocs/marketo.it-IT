@@ -4,9 +4,9 @@ description: Scegli un messaggio e-mail esistente - Documentazione di Marketo - 
 title: Scegli un messaggio e-mail esistente
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definito il pubblico, deciderai quale e-mail inviare. Puoi [creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da zero o sceglierne una già esistente. Ecco come sceglierne uno che esiste già.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -32,7 +32,7 @@ Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/
 
    ![](assets/selectemailprogram.jpg)
 
-1. Nella sezione **E-mail**, seleziona quella che desideri inviare.
+1. Nella sezione **[!UICONTROL Email]**, seleziona quella che desideri inviare.
 
    ![](assets/image2014-9-12-11-3a28-3a10.png)
 

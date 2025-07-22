@@ -4,9 +4,9 @@ description: Abilitare il contenuto predittivo nelle e-mail - Documenti Marketo 
 title: Abilitare il contenuto predittivo nelle e-mail
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '375'
 ht-degree: 0%
 
 ---
@@ -33,19 +33,19 @@ Rendi predittive una o più immagini nell’e-mail, personalizzando l’esperien
 
 ## Aggiunta di contenuto predittivo tramite l’editor di e-mail 2.0 {#adding-predictive-content-using-the-email-editor}
 
-1. Fai clic su **Attività di marketing**.
+1. Fai clic su **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/two.png)
 
-1. Fai clic sull’immagine da rendere predittiva. Quando viene visualizzata l&#39;icona a forma di ingranaggio, fai clic su di essa e seleziona **Abilita ContentAI** (ContentAI è il nome precedente per Predictive Content).
+1. Fai clic sull’immagine da rendere predittiva. Quando viene visualizzata l&#39;icona a forma di ingranaggio, fare clic su di essa e selezionare **[!UICONTROL Enable ContentAI]** (ContentAI è il nome precedente di Predictive Content).
 
    ![](assets/three.png)
 
-1. Per selezionare una o più categorie, fai clic sull&#39;elenco a discesa **Categorie**, effettua le selezioni e fai clic su **Applica**.
+1. Per selezionare una o più categorie, fare clic sull&#39;elenco a discesa **[!UICONTROL Categories]**, effettuare le selezioni desiderate e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/four.png)
 
@@ -57,11 +57,11 @@ Rendi predittive una o più immagini nell’e-mail, personalizzando l’esperien
 
    ![](assets/five.png)
 
-1. Per visualizzare l&#39;anteprima del messaggio e-mail, fai clic su **Anteprima** nell&#39;angolo superiore destro.
+1. Per visualizzare l&#39;anteprima del tuo indirizzo e-mail, fai clic su **[!UICONTROL Preview]** in alto a destra.
 
    ![](assets/six.png)
 
-1. Per visualizzare diverse immagini possibili, fare clic su **Aggiorna**.
+1. Per visualizzare diverse immagini possibili, fare clic su **[!UICONTROL Refresh]**.
 
    ![](assets/seven.png)
 
@@ -69,7 +69,7 @@ Rendi predittive una o più immagini nell’e-mail, personalizzando l’esperien
    >
    >L&#39;immagine non è selezionata **_finché il destinatario non apre l&#39;e-mail_**. Quindi quello che vedi nell&#39;anteprima è solo un esempio, e non sarà necessariamente l&#39;immagine che vede il destinatario.
 
-1. Dopo aver visualizzato l&#39;anteprima del messaggio e-mail, fai clic sul menu a discesa **Azioni anteprima** e seleziona **Approva e chiudi**. Oppure, se hai ancora delle modifiche da fare, fai clic su **Modifica bozza** a destra.
+1. Dopo aver visualizzato l&#39;anteprima del messaggio di posta elettronica, fare clic sul menu a discesa **[!UICONTROL Preview Actions]** e selezionare **[!UICONTROL Approve and Close]**. Oppure, se hai ancora delle modifiche da fare, fai clic su **[!UICONTROL Edit Draft]** a destra.
 
    ![](assets/eight.png)
 

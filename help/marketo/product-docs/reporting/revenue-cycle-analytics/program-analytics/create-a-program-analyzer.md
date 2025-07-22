@@ -4,14 +4,14 @@ description: Creazione di un analizzatore di programmi - Documentazione di Marke
 title: Creare un analizzatore di programmi
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Creare un analizzatore di programmi {#create-a-program-analyzer}
+# Crea un [!UICONTROL Program Analyzer] {#create-a-program-analyzer}
 
 Scopri quali programmi e canali ti danno il colpo più grande per il tuo budget di marketing. Utilizzare l&#39;analizzatore di programmi per analizzare e confrontare ogni costo e rendimento in dettaglio, per programma o per canale.
 
@@ -23,11 +23,11 @@ Scopri quali programmi e canali ti danno il colpo più grande per il tuo budget 
 >
 >Per visualizzare i programmi senza costi nell&#39;analizzatore di programmi, [impostare il costo del periodo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/define-period-costs.md) su $0.
 
-1. Fai clic sul riquadro **Analytics**.
+1. Fare clic sul riquadro **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-17-13-3a7-3a1.png)
 
-1. Fare clic sul riquadro **Analisi programmi**.
+1. Fare clic sul riquadro **[!UICONTROL Program Analyzer]**.
 
    ![](assets/program-analyzer-icon-hand.png)
 
@@ -35,27 +35,27 @@ Scopri quali programmi e canali ti danno il colpo più grande per il tuo budget 
 
    ![](assets/image2016-10-31-15-3a3-3a9.png)
 
-1. Fare clic sulla scheda **Configurazione** per aggiungere e personalizzare i filtri.
+1. Fare clic sulla scheda **[!UICONTROL Setup]** per aggiungere e personalizzare i filtri.
 
    ![](assets/image2016-10-31-15-3a25-3a57.png)
 
-1. Ad esempio, per personalizzare il filtro Costo periodo, fare doppio clic su di esso.
+1. Ad esempio, per personalizzare il filtro [!UICONTROL Period Cost], fare doppio clic su di esso.
 
    ![](assets/image2016-10-31-15-3a33-3a2.png)
 
-1. Selezionare il periodo di tempo da analizzare e fare clic su **Applica**.
+1. Selezionare il periodo di tempo da analizzare e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/image2016-10-31-15-3a30-3a32.png)
 
    >[!TIP]
    >
-   >Per selezionare un intervallo specifico, selezionare **Personalizzato** e utilizzare i campi **Da** e **A**.
+   >Per selezionare un intervallo specifico, selezionare **[!UICONTROL Custom]** e utilizzare i campi **[!UICONTROL From]** e **[!UICONTROL To]**.
 
-1. Se desideri salvare il nuovo analizzatore personalizzato, seleziona **Salva con nome** nel menu a discesa Azioni analizzatore.
+1. Se desideri salvare il nuovo analizzatore personalizzato, nel menu a discesa **[!UICONTROL Analyzer Actions]**, seleziona **[!UICONTROL Save As]**.
 
    ![](assets/image2016-10-31-15-3a5-3a8.png)
 
-1. Seleziona il percorso in cui desideri salvare l’analizzatore personalizzato, utilizzando i menu a discesa Salva in e Cartella. Assegna un nome al nuovo analizzatore personalizzato. Una descrizione è facoltativa. Fai clic su **Salva**.
+1. Selezionare il percorso in cui si desidera salvare l&#39;analizzatore personalizzato, utilizzando i menu a discesa [!UICONTROL Save To] e [!UICONTROL Folder]. Assegna un nome al nuovo analizzatore personalizzato. Una descrizione è facoltativa. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-10-31-15-3a7-3a19.png)
 
@@ -69,7 +69,7 @@ Scopri quali programmi e canali ti danno il colpo più grande per il tuo budget 
 
 >[!MORELIKETHIS]
 >
->* [Confrontare l&#39;efficacia del canale con l&#39;analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
->* [Confronta l&#39;efficacia del programma con l&#39;analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
->* [Esplora i dettagli del programma e del canale con l&#39;analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
->* [Clona un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)
+>* [Confronta l&#39;efficacia del canale con [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-channel-effectiveness-with-the-program-analyzer.md)
+>* [Confronta l&#39;efficacia del programma con [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/compare-program-effectiveness-with-the-program-analyzer.md)
+>* [Esplora i dettagli del programma e del canale con [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/explore-program-and-channel-details-with-the-program-analyzer.md)
+>* [Clona un [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/clone-a-program-analyzer.md)

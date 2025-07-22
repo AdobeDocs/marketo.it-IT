@@ -4,10 +4,10 @@ description: Aggiungere una visualizzazione mobile alla pagina di destinazione i
 title: Aggiungere una visualizzazione mobile alla pagina di destinazione in formato libero
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 1%
+source-wordcount: '126'
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 >
 >La visualizzazione mobile funziona su schermi larghi 480 px (o meno). In altre parole, gli smartphone. Ecco altre [informazioni sulle risoluzioni dei dispositivi](https://www.mydevice.io/).
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,15 +27,15 @@ ht-degree: 1%
 
    ![](assets/choose-landing-page.jpg)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Fare clic sulla scheda **Mobile**.
+1. Fare clic sulla scheda **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 
-1. Fare clic su **Attiva**.
+1. Fai clic su **[!UICONTROL Activate]**.
 
    ![](assets/image2015-1-22-15-3a48-3a47.png)
 
@@ -43,7 +43,7 @@ ht-degree: 1%
    >
    >Potrebbe essere necessario aggiornare il modello di modulo libero. Se ricevi questo messaggio, leggi rapidamente come [rendere compatibile con dispositivi mobili un modello di pagina di destinazione in formato libero esistente](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/make-an-existing-free-form-landing-page-template-mobile-compatible.md).
 
-1. Fantastico! Ora hai attivato la versione mobile della pagina di destinazione. Fai clic su **Chiudi**.
+1. Fantastico! Ora hai attivato la versione mobile della pagina di destinazione. Fai clic su **[!UICONTROL Close]**.
 
    ![](assets/image2015-1-22-16-3a44-3a37.png)
 

@@ -4,17 +4,17 @@ description: Quali sono i termini di servizio di Sales Connect? - Documentazione
 title: Quali sono i termini di servizio di Sales Connect?
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
-# Quali sono i termini di servizio di Sales Connect? {#what-are-the-sales-connect-terms-of-service}
+# Quali sono i termini di servizio di [!DNL Sales Connect]? {#what-are-the-sales-connect-terms-of-service}
 
-Le Condizioni per l&#39;utilizzo di Sales Connect sono disponibili [qui](https://documents.marketo.com/toutapp/terms).
+I termini di servizio di [!DNL Sales Connect] si trovano [qui](https://documents.marketo.com/toutapp/terms).
 
 >[!NOTE]
 >
->&quot;ToutApp&quot; è il nome precedente di Marketo Sales Connect.
+>&quot;ToutApp&quot; è il nome precedente di [!DNL Marketo Sales Connect].

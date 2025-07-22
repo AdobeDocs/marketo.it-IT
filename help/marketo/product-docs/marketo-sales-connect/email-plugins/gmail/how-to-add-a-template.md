@@ -4,16 +4,16 @@ description: Come aggiungere un modello - Documentazione di Marketo - Documentaz
 title: Aggiungere un modello
 exl-id: b88cbca8-117c-4100-819d-90666b26b275
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '53'
 ht-degree: 0%
 
 ---
 
 # Aggiungere un modello {#how-to-add-a-template}
 
-1. In un nuovo messaggio, fai clic su **Modelli**.
+1. In un nuovo messaggio, fare clic su **[!UICONTROL Templates]**.
 
 1. Per impostazione predefinita, vengono visualizzati i modelli utilizzati di recente.
 

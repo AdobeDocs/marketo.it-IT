@@ -4,9 +4,9 @@ description: Creare un modello di pagina di destinazione in formato libero - Doc
 title: Creare un modello di pagina di destinazione in formato libero
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche delle relative controparti guidate. Per creare un modello per le pagine di destinazione future, segui i passaggi indicati di seguito.
 
-1. Vai a **Design Studio**.
+1. Vai a **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Nuovo**, quindi seleziona **Nuovo modello pagina di destinazione**.
+1. Fai clic su **[!UICONTROL New]**, quindi seleziona **[!UICONTROL New Landing Page Template]**.
 
    ![](assets/two.png)
 
-1. Scegli la cartella, quindi assegna un nome al modello. Il formato libero è la modalità di modifica predefinita. Dopo aver denominato il modello, fai clic su **Crea**.
+1. Scegli la cartella, quindi assegna un nome al modello. Il formato libero è la modalità di modifica predefinita. Dopo aver denominato il modello, fare clic su **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 
@@ -33,9 +33,9 @@ Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche 
 
    >[!NOTE]
    >
-   >Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di custom HTML. Per assistenza HTML, consulta uno sviluppatore web.
+   >Il supporto Marketo non è configurato per assistere nella risoluzione dei problemi di HTML personalizzato. Per assistenza su HTML, consulta uno sviluppatore web.
 
-1. Al termine delle modifiche, fai clic su **Azioni modello**, quindi seleziona **Approva e chiudi**.
+1. Al termine delle modifiche, fare clic su **[!UICONTROL Template Actions]**, quindi selezionare **[!UICONTROL Approve and Close]**.
 
    ![](assets/five.png)
 
@@ -43,8 +43,8 @@ Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche 
 
    >[!NOTE]
    >
-   >Selezionare **Disattiva tracciamento Munchkin** se si desidera impedire la precompilazione dei moduli o semplicemente non si desidera tenere traccia del comportamento Web in una pagina specifica.\
-   >Seleziona **Convalida compatibilità mobile** per verificare che il codice sia compatibile con i dispositivi mobili.
+   >Selezionare **[!UICONTROL Disable Munchkin Tracking]** se si desidera evitare che i moduli vengano precompilati oppure non si desidera tenere traccia del comportamento Web in una pagina specifica.\
+   >Selezionare **[!UICONTROL Validate Mobile Compatibility]** per verificare che il codice sia compatibile con i dispositivi mobili.
 
    >[!MORELIKETHIS]
    >

@@ -3,9 +3,9 @@ description: Personalizzare il messaggio di collegamento per l’annullamento de
 title: Personalizza messaggio di collegamento per annullare l’abbonamento
 exl-id: 62dc1f64-dd81-4f39-a9c3-5f986faaa634
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
 
 >[!NOTE]
 >
->Non puoi utilizzare un collegamento di terze parti per annullare l’abbonamento con Marketo Sales in quanto queste informazioni non verranno acquisite nuovamente nel nostro database.
+>Non è possibile utilizzare un collegamento di terze parti per l&#39;annullamento dell&#39;abbonamento con [!DNL Marketo Sales] in quanto queste informazioni non verranno acquisite nel nostro database.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/customize-unsubscribe-link-message-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Annulla sottoscrizione**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL Unsubscribes]**.
 
    ![](assets/customize-unsubscribe-link-message-2.png)
 
@@ -38,10 +38,10 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
    >
    >Non importa quale URL si immette. Quando l’e-mail viene inviata, il primo (o unico) collegamento ipertestuale si collega automaticamente alla pagina predefinita di annullamento dell’iscrizione.
 
-1. Immettere un URL, determinare se si desidera aprire il collegamento nella finestra corrente o in una nuova finestra e fare clic su **Salva**.
+1. Immettere un URL, determinare se si desidera aprire il collegamento nella finestra corrente o in una nuova finestra e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/customize-unsubscribe-link-message-5.png)
 
-1. Fai clic su **Salva** in basso per salvare le modifiche.
+1. Fai clic su **[!UICONTROL Save]** in basso per salvare le modifiche.
 
    ![](assets/customize-unsubscribe-link-message-6.png)

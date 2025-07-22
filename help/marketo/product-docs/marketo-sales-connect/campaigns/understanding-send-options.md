@@ -4,16 +4,16 @@ description: Informazioni sulle opzioni di invio - Documentazione di Marketo - D
 title: Informazioni sulle opzioni di invio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
 # Informazioni sulle opzioni di invio {#understanding-send-options}
 
-Durante la creazione di una campagna, puoi scegliere tra diverse opzioni per la creazione dei passaggi e-mail in Sales Connect. Inoltre, a seconda di dove si trova l’e-mail nella campagna, anche le opzioni sono diverse.
+Durante la creazione di una campagna sono disponibili diverse opzioni per la creazione dei passaggi e-mail in [!DNL Sales Connect]. Inoltre, a seconda di dove si trova l’e-mail nella campagna, anche le opzioni sono diverse.
 
 Se si tratta del primo passaggio e del primo giorno della campagna, avrai a disposizione le seguenti opzioni:
 
@@ -30,11 +30,11 @@ Se si tratta del primo passaggio e del primo giorno della campagna, avrai a disp
 
 **Crea un&#39;attività. Invierò io stesso questa e-mail**
 
-* Questa opzione consente di creare un’attività e-mail (e di sincronizzarla con Salesforce) che puoi inviare quando preferisci.
+* Questa opzione creerà un [!UICONTROL Email Task] (e lo sincronizzerà con [!DNL Salesforce]) che potrai inviare secondo le tue esigenze.
 * Dopo aver effettuato questa selezione, quando avvierai la campagna, queste attività verranno messe in coda per te nel centro comandi e nel feed live. Puoi quindi personalizzare e inviare (o pianificare) ogni e-mail prima che esca.
 
    * Se apri questa attività nella nostra applicazione web, verrà aperta una finestra di composizione con l’indirizzo e-mail del tuo contatto, la riga dell’oggetto dell’e-mail e il modello scelto.
-   * Se si apre l&#39;attività in Gmail o Outlook, verrà aperta una finestra di composizione nativa e l&#39;indirizzo di posta elettronica del contatto, l&#39;oggetto dell&#39;e-mail e il modello scelto verranno inseriti in modo dinamico.
+   * Se apri questa attività in [!DNL Gmail] o [!DNL Outlook], verrà aperta una finestra di composizione nativa e verrà popolato in modo dinamico l&#39;indirizzo e-mail del contatto, la riga dell&#39;oggetto dell&#39;e-mail e il modello scelto.
 
 Per qualsiasi giorno/passaggio successivo nella campagna, avrai a disposizione le seguenti opzioni:
 
@@ -54,11 +54,11 @@ Per qualsiasi giorno/passaggio successivo nella campagna, avrai a disposizione l
 
 **Crea un&#39;attività. Invierò io stesso questa e-mail**
 
-* Questa opzione consente di creare un’attività e-mail (e di sincronizzarla con Salesforce) che puoi inviare quando preferisci.
+* Questa opzione creerà un [!UICONTROL Email Task] (e lo sincronizzerà con [!DNL Salesforce]) che potrai inviare secondo le tue esigenze.
 * Dopo aver effettuato questa selezione, quando avvii la campagna, Tout metterà in coda queste attività al centro comandi e nel feed live. Puoi quindi personalizzare e inviare (o pianificare) ogni e-mail prima che esca.
 
    * Se apri questa attività nella nostra applicazione web, verrà aperta una finestra di composizione con l’indirizzo e-mail del tuo contatto, la riga dell’oggetto dell’e-mail e il modello scelto.
-   * Se si apre l&#39;attività in Gmail o Outlook, verrà aperta una finestra di composizione nativa e l&#39;indirizzo di posta elettronica del contatto, l&#39;oggetto dell&#39;e-mail e il modello scelto verranno inseriti in modo dinamico.
+   * Se apri questa attività in [!DNL Gmail] o [!DNL Outlook], verrà aperta una finestra di composizione nativa e verrà popolato in modo dinamico l&#39;indirizzo e-mail del contatto, la riga dell&#39;oggetto dell&#39;e-mail e il modello scelto.
 
 **Invia questa e-mail all&#39;e-mail precedente**
 

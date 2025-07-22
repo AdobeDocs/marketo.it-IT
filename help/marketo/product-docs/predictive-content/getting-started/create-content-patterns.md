@@ -4,22 +4,22 @@ description: Creare modelli di contenuto - Documenti Marketo - Documentazione de
 title: Creare modelli di contenuto
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # Creare modelli di contenuto {#create-content-patterns}
 
-Quando imposti i pattern di contenuto, il contenuto viene individuato automaticamente quando un visitatore web fa clic sulla pagina web di HTML pertinente al pattern di contenuto. Viene utilizzato per aggiungere pagine HTML (post di blog, comunicati stampa, articoli di notizie) come parti di contenuto alla pagina Tutti i contenuti. Quando l’individuazione automatica si basa sui pattern di contenuto, rileva e tiene traccia delle pagine HTML correlate al pattern URL definito quando un visitatore web visualizza o fa clic su un collegamento alla pagina. Questo elemento di contenuto (l’URL, il nome della pagina e i metadati, inclusi l’URL e la descrizione dell’immagine) viene aggiunto alla pagina Tutto il contenuto per preparare contenuti predittivi. Per l&#39;individuazione automatica di altri contenuti, ad esempio PDF e video incorporati, è necessario [abilitare l&#39;individuazione dei contenuti](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
+Quando imposti i pattern di contenuto, il contenuto viene individuato automaticamente quando un visitatore web fa clic sulla pagina web HTML pertinente al pattern di contenuto. Viene utilizzato per aggiungere pagine HTML (post di blog, comunicati stampa, articoli di notizie) come parti di contenuto alla pagina Tutti i contenuti. Quando l’individuazione automatica si basa sui pattern di contenuto, rileva e tiene traccia delle pagine HTML correlate al pattern URL definito quando un visitatore web visualizza o fa clic su un collegamento alla pagina. Questo elemento di contenuto (l’URL, il nome della pagina e i metadati, inclusi l’URL e la descrizione dell’immagine) viene aggiunto alla pagina Tutto il contenuto per preparare contenuti predittivi. Per l&#39;individuazione automatica di altri contenuti, ad esempio PDF e video incorporati, è necessario [abilitare l&#39;individuazione dei contenuti](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Vai a **Impostazioni contenuto**.
+1. Vai a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
-1. Fare clic su **Modelli URL**.
+1. Fai clic su **[!UICONTROL URL Patterns]**.
 
    ![](assets/click-url-patterns-hand.png)
 
@@ -27,7 +27,7 @@ Quando imposti i pattern di contenuto, il contenuto viene individuato automatica
 
    ![](assets/content-settings-create-patterns-hand.png)
 
-1. Aggiungi l’estensione URL del dominio in cui esiste la pagina web. Seleziona la categoria (ad esempio Blog, Articolo, Foglio dati, Comunicato stampa).
+1. Aggiungi l’estensione URL del dominio in cui esiste la pagina web. Selezionare la categoria, ad esempio [!UICONTROL Blog], [!UICONTROL Article], [!UICONTROL Data Sheet], [!UICONTROL Press Release].
 
    ![](assets/content-settings-create-content-patterns-dm-hands.png)
 
@@ -39,7 +39,7 @@ Quando imposti i pattern di contenuto, il contenuto viene individuato automatica
 
    ![](assets/url-patterns-add2.png)
 
-1. Aggiungi l&#39;estensione e la categoria per il percorso aggiuntivo e fai clic su **Salva**.
+1. Aggiungere l&#39;estensione e la categoria per il percorso aggiuntivo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/url-patterns-save.png)
 

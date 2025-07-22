@@ -4,9 +4,9 @@ description: Annullare un’esecuzione pianificata di una campagna batch ricorre
 title: Annullare un'esecuzione pianificata di una campagna batch ricorrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-1.png)
 
-1. Fai clic su **Pianifica ricorrenza**.
+1. Fai clic su **[!UICONTROL Schedule Recurrence]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-2.png)
 
@@ -27,7 +27,7 @@ Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le
    >
    >Puoi annullare una singola esecuzione facendo clic sulla ![x](assets/cancel-a-scheduled-recurring-batch-campaign-run-3.png) rossa accanto ad essa. Scopri come [annullare l&#39;esecuzione di una campagna batch pianificata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/cancel-a-scheduled-batch-campaign-run.md){target="_blank"}.
 
-1. Imposta Schedule su **[!UICONTROL None]** e fai clic su **[!UICONTROL Save]**.
+1. Impostare Schedule su **[!UICONTROL None]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/cancel-a-scheduled-recurring-batch-campaign-run-4.png)
 

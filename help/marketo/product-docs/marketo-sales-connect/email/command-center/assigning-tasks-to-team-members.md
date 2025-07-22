@@ -4,10 +4,10 @@ description: Assegnazione di attività ai membri del team - Documentazione di Ma
 title: Assegnazione di attività ai membri del team
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 >
 >È possibile assegnare solo attività per i contatti condivisi.
 
-1. Fare clic su **Centro comandi**.
+1. Fare clic su **[!UICONTROL Command Center]**.
 
    ![](assets/one-1.png)
 
-1. Fai clic su **Aggiungi attività**.
+1. Fai clic su **[!UICONTROL Add Task]**.
 
    ![](assets/two-1.png)
 
@@ -35,7 +35,7 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 
    ![](assets/four-1.png)
 
-1. Nel campo Assegna attività selezionare la persona del team a cui si desidera assegnare l&#39;attività.
+1. Selezionare la persona nel team a cui assegnare l&#39;attività nel campo **[!UICONTROL Assign Task]**.
 
    ![](assets/five.png)
 
@@ -43,14 +43,14 @@ Se desideri collaborare con altri membri del team, l’assegnazione di attività
 
    ![](assets/six.png)
 
-1. Selezionare la data di scadenza.
+1. Seleziona **[!UICONTROL Due Date]**.
 
    ![](assets/seven.png)
 
-1. Imposta la Priorità.
+1. Imposta **[!UICONTROL Priority]**.
 
    ![](assets/eight.png)
 
-1. Aggiungi tutti i dettagli importanti rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **Crea**.
+1. Aggiungi tutti i dettagli importanti rilevanti per il tuo compagno di squadra (facoltativo) e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/nine.png)

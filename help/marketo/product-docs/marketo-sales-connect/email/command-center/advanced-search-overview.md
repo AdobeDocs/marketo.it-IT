@@ -4,10 +4,10 @@ description: Panoramica sulla ricerca avanzata - Documenti Marketo - Documentazi
 title: Panoramica sulla ricerca avanzata
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '414'
-ht-degree: 1%
+source-wordcount: '376'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
 ## Come accedere alla ricerca avanzata {#how-to-access-advanced-search}
 
-1. Fare clic su **Centro comandi**.
+1. Fai clic su **[!UICONTROL Command Center]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **E-mail**.
+1. Fai clic su **[!UICONTROL Emails]**.
 
    ![](assets/two.png)
 
@@ -29,7 +29,7 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
    ![](assets/three.png)
 
-1. Fare clic su **Ricerca avanzata**.
+1. Fai clic su **[!UICONTROL Advanced Search]**.
 
    ![](assets/four.png)
 
@@ -37,25 +37,25 @@ Utilizzando la ricerca avanzata per eseguire il targeting dei potenziali clienti
 
 **Data**
 
-Scegli l’intervallo di date per la ricerca. Le date predefinite vengono aggiornate in base allo stato dell’e-mail scelto (Inviato, Non consegnato, In sospeso).
+Scegli l’intervallo di date per la ricerca. Le date predefinite vengono aggiornate in base allo stato dell&#39;e-mail scelto ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending]).
 
 ![](assets/date.png)
 
 **Chi**
 
-Filtra per destinatario/mittente e-mail nella sezione Chi.
+Filtra per destinatario/mittente e-mail nella sezione [!UICONTROL Who].
 
 ![](assets/who.png)
 
 | Elenchi a discesa | Descrizione |
 |---|---|
-| **Visualizza Come** | Consente di filtrare in base a un mittente specifico nell&#39;istanza Sales Connect (questa opzione è disponibile solo per gli amministratori). |
-| **Per gruppo** | Filtra le e-mail per un gruppo specifico di destinatari. |
-| **Per persona** | Filtra in base a un destinatario specifico. |
+| **[!UICONTROL View As]** | Filtra in base a un mittente specifico nell&#39;istanza [!DNL Sales Connect] (questa opzione è disponibile solo per gli amministratori). |
+| **[!UICONTROL By Group]** | Filtra le e-mail per un gruppo specifico di destinatari. |
+| **[!UICONTROL By Person]** | Filtra in base a un destinatario specifico. |
 
 **Quando**
 
-Scegliere in base alla data di creazione, alla data di consegna, alla data non riuscita o alla data pianificata. Le opzioni disponibili variano a seconda dello stato dell’e-mail scelto (Inviato, Non consegnato, In sospeso).
+Scegliere in base alla data di creazione, alla data di consegna, alla data non riuscita o alla data pianificata. Le opzioni disponibili variano a seconda dello stato dell&#39;e-mail scelto ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending]).
 
 ![](assets/when.png)
 
@@ -85,9 +85,9 @@ Filtra per tutte le e-mail in sospeso.
 
 | Stato | Descrizione |
 |---|---|
-| **Pianificato** | E-mail pianificate dalla finestra di composizione (Salesforce o Web App), da plug-in e-mail o da una campagna. |
-| **Bozze** | E-mail attualmente in stato di bozza. Le e-mail richiedono una riga dell’oggetto e un destinatario per essere salvate come bozza. |
-| **In corso** | E-mail in fase di invio. Le e-mail non devono rimanere in questo stato per più di qualche secondo. |
+| **[!UICONTROL Scheduled]** | E-mail pianificate dalla finestra di composizione ([!DNL Salesforce] o dall&#39;app Web), plug-in e-mail o una campagna. |
+| **[!UICONTROL Drafts]** | E-mail attualmente in stato di bozza. Le e-mail richiedono una riga dell’oggetto e un destinatario per essere salvate come bozza. |
+| **[!UICONTROL In Progress]** | E-mail in fase di invio. Le e-mail non devono rimanere in questo stato per più di qualche secondo. |
 
 ***Stato: non consegnato***
 
@@ -97,19 +97,19 @@ Filtri per e-mail che non sono mai state consegnate.
 
 | Stato | Descrizione |
 |---|---|
-| **Non riuscito** | Quando un’e-mail non viene inviata da Sales Connect (i motivi comuni includono: e-mail inviate a contatti annullati/bloccati o se si è verificato un problema durante il popolamento dei campi dinamici). |
-| **Non recapitato** | Un’e-mail viene contrassegnata come non recapitata quando viene rifiutata dal server del destinatario. Qui verranno visualizzate solo le e-mail inviate tramite server Sales Connect. |
-| **Spam** | Quando l’e-mail è stata contrassegnata come spam (termine comune per e-mail non richieste) dal destinatario. Qui verranno visualizzate solo le e-mail inviate tramite server Sales Connect. |
+| **[!UICONTROL Failed]** | Quando un&#39;e-mail non viene inviata da [!DNL Sales Connect] (motivi comuni includono: e-mail inviate a contatti annullati/bloccati o se si è verificato un problema durante il popolamento dei campi dinamici). |
+| **[!UICONTROL Bounced]** | Un’e-mail viene contrassegnata come non recapitata quando viene rifiutata dal server del destinatario. Solo le e-mail inviate tramite server [!DNL Sales Connect] verranno visualizzate qui. |
+| **[!UICONTROL Spam]** | Quando l’e-mail è stata contrassegnata come spam (termine comune per e-mail non richieste) dal destinatario. Solo le e-mail inviate tramite server [!DNL Sales Connect] verranno visualizzate qui. |
 
 ## Ricerche salvate {#saved-searches}
 
 Ecco come creare una ricerca salvata.
 
-1. Dopo aver impostato tutti i filtri, fare clic su **Salva filtri con nome**.
+1. Dopo aver impostato tutti i filtri, fare clic su **[!UICONTROL Save Filters As]**.
 
    ![](assets/save-search-1.png)
 
-1. Assegna un nome alla ricerca e fai clic su **Salva**.
+1. Assegna un nome alla ricerca e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/save-search-2.png)
 

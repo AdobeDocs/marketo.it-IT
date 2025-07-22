@@ -4,9 +4,9 @@ description: Abilitare/Disabilitare la sincronizzazione oggetti personalizzati -
 title: Abilita/Disabilita sincronizzazione oggetti personalizzati
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 6293a11b9d48a20da4cb2448c8374c469679abdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    >[!NOTE]
    >
-   >La sincronizzazione dello schema di oggetti personalizzato di Salesforce potrebbe richiedere alcuni minuti.
+   >La sincronizzazione dello schema di oggetti personalizzato [!DNL Salesforce] potrebbe richiedere alcuni minuti.
 
 1. Fai clic su **[!UICONTROL Refresh Schema]**.
 
@@ -49,7 +49,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    >[!TIP]
    >
-   >Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Lead, Contact o Account in Salesforce.
+   >Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Lead, Contact o Account in [!DNL Salesforce].
 
    ![](assets/image2014-12-10-10-3a15-3a30.png)
 

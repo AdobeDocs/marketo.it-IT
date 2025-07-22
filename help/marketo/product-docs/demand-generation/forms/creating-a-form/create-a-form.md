@@ -4,9 +4,9 @@ description: Creazione di un modulo - Documentazione di Marketo - Documentazione
 title: Creare un modulo
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Crea e utilizza un modulo in una pagina di destinazione per generare nuovi nomi.
 >
 >Scopri cosa sta facendo Marketo per [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -27,15 +27,15 @@ Crea e utilizza un modulo in una pagina di destinazione per generare nuovi nomi.
 
    ![](assets/programseelct.png)
 
-1. In **Nuovo**, fai clic su **Nuovo** **Locale** **Risorsa**.
+1. In **[!UICONTROL New]**, fare clic su **[!UICONTROL New Local Asset]**.
 
    ![](assets/newlocalasset.png)
 
-1. Seleziona **Modulo**.
+1. Seleziona **[!UICONTROL Form]**.
 
    ![](assets/image2014-9-15-17-3a1-3a20.png)
 
-1. Immetti un modulo **Name** e fai clic su **Create**.
+1. Immettere un modulo **[!UICONTROL Name]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/newformwithhands.png)
 

@@ -4,9 +4,9 @@ description: Utilizzare il test A/B "E-mail intera" - Documentazione di Marketo 
 title: Utilizza test A/B "E-mail intera"
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 >
 >[Aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md)
 
-1. Nel riquadro E-mail, con l&#39;e-mail selezionata, fai clic su **Aggiungi test A/B**.
+1. Nel riquadro E-mail, con l&#39;e-mail selezionata, fai clic su **[!UICONTROL Add A/B Test]**.
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. Viene visualizzata una nuova finestra. Fai clic sul menu a discesa **Tipo di test** e seleziona **E-mail intere**.
+1. Viene visualizzata una nuova finestra. Fare clic sul menu a discesa **[!UICONTROL Test Type]** e selezionare **[!UICONTROL Whole Emails]**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
-1. Se si dispone di informazioni di test precedenti, ad esempio un test dell&#39;oggetto, è possibile fare clic su **Reimposta test**.
+1. Se si dispone di informazioni di test precedenti, ad esempio un test dell&#39;oggetto, è possibile fare clic su **[!UICONTROL Reset Test]**.
 
    ![](assets/image2014-9-12-15-3a22-3a40.png)
 
@@ -35,7 +35,7 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 
    ![](assets/image2014-9-12-15-3a22-3a52.png)
 
-1. Fai clic su **Aggiungi** per applicare l&#39;e-mail.
+1. Fare clic su **[!UICONTROL Add]** per applicare l&#39;e-mail.
 
    ![](assets/image2014-9-12-15-3a23-3a20.png)
 
@@ -45,11 +45,11 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 
 1. Seleziona la seconda e-mail.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
-1. Fai clic su **Aggiungi** per applicare la seconda e-mail. Trascina il cursore per scegliere la percentuale del pubblico che desideri ricevere il test A/B e fai clic su **Avanti**.
+1. Fare clic su **[!UICONTROL Add]** per applicare la seconda e-mail. Trascina il cursore per scegliere la percentuale del pubblico che desideri ricevere il test A/B e fai clic su **[!UICONTROL Next]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

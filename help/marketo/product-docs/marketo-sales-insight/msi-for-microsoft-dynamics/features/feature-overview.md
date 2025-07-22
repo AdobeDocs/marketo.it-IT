@@ -4,10 +4,10 @@ description: Panoramica delle funzioni - Documentazione di Marketo - Documentazi
 title: Panoramica delle funzioni
 exl-id: 3e6f21bf-3383-4e2d-952f-9b4e67896a58
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 5%
+source-wordcount: '168'
+ht-degree: 11%
 
 ---
 
@@ -15,60 +15,60 @@ ht-degree: 5%
 
 Nella nuova soluzione MSI MSD sono disponibili le seguenti funzioni.
 
-## Pannello approfondimenti vendite Marketo nel layout Lead  {#marketo-sales-insight-panel-in-lead-layout}
+## Pannello [!DNL Marketo Sales Insight] nel layout Lead  {#marketo-sales-insight-panel-in-lead-layout}
 
 * Stelle e fiamme
-* Momento di interesse
+* Momento interessante
 * Attività web
 * Punteggio
 * E-mail (apri e fai clic)
 
-## Campi personalizzati di Marketo Sales Insight nel layout del lead  {#marketo-sales-insight-custom-fields-in-lead-layout}
+## [!DNL Marketo Sales Insight] campi personalizzati nel layout lead  {#marketo-sales-insight-custom-fields-in-lead-layout}
 
 * Punteggio Lead
 * Punteggio relativo
 * Priorità
 * Urgenza
 
-## Pulsante di invito all’azione di Marketo Sales Insight nel layout del lead  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
+## Pulsante call to action [!DNL Marketo Sales Insight] nel layout Lead  {#marketo-sales-insight-call-to-action-button-in-lead-layout}
 
 * Aggiungi a Marketo Campaign
 * Invia e-mail Marketo
 
-## Pulsante di azione in blocco di Marketo Sales Insight nella vista Elenco lead  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
+## Pulsante di azione collettiva [!DNL Marketo Sales Insight] nella visualizzazione elenco lead  {#marketo-sales-insight-bulk-action-button-in-lead-list-view}
 
 * Aggiungi a Marketo Campaign
 * Invia e-mail Marketo
 
-## Pannello Marketo Sales Insight nel layout dei contatti  {#marketo-sales-insight-panel-in-contact-layout}
+## Pannello [!DNL Marketo Sales Insight] nel layout Contatto  {#marketo-sales-insight-panel-in-contact-layout}
 
 * Stelle e fiamme
-* Momento di interesse
+* Momento interessante
 * Attività web
 * Punteggio
 * E-mail (apri e fai clic)
 
-## Campi personalizzati di Marketo Sales Insight nel layout del contatto  {#marketo-sales-insight-custom-fields-in-contact-layout}
+## [!DNL Marketo Sales Insight] campi personalizzati nel layout Contatto  {#marketo-sales-insight-custom-fields-in-contact-layout}
 
 * Punteggio Lead
 * Punteggio relativo
 * Priorità
 * Urgenza
 
-## Pulsante di invito all’azione di Marketo Sales Insight nel layout del contatto  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
+## Pulsante call to action [!DNL Marketo Sales Insight] nel layout Contatto  {#marketo-sales-insight-call-to-action-button-in-contact-layout}
 
 * Aggiungi a Marketo Campaign
 * Invia e-mail Marketo
 
-## Pulsante di azione in blocco di Marketo Sales Insight nella vista Elenco contatti  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
+## Pulsante di azione collettiva [!DNL Marketo Sales Insight] nella visualizzazione elenco contatti  {#marketo-sales-insight-bulk-action-button-in-contact-list-view}
 
 * Aggiungi a Marketo Campaign
 * Invia e-mail Marketo
 
-## Pannello Marketo Sales Insight nel layout dell’account {#marketo-sales-insight-panel-in-account-layout}
+## Pannello [!DNL Marketo Sales Insight] in layout account {#marketo-sales-insight-panel-in-account-layout}
 
 * Stelle e fiamme
-* Momento di interesse
+* Momento interessante
 * Attività web
 * Punteggio
 * E-mail (apri e fai clic)
@@ -78,6 +78,6 @@ Nella nuova soluzione MSI MSD sono disponibili le seguenti funzioni.
 * Priorità (stelle e fiamme)
 * Nome (collegamento ipertestuale alla pagina Lead/Contatto)
 * Account
-* Momento di interesse
+* Momento interessante
 * Stato
 * Feed lead: include la possibilità di abbonarsi a messaggi istantanei

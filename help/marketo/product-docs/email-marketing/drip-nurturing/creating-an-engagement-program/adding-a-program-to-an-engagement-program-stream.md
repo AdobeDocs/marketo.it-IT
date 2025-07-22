@@ -4,9 +4,9 @@ description: Aggiunta di un programma a un flusso di programma di coinvolgimento
 title: Aggiunta di un programma a un flusso di programma di coinvolgimento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Può ottenere e-mail e programmi di mixaggio complicati in un programma di coinv
 
 >[!TIP]
 >
->Assicurati di utilizzare un filtro **Membro del programma di coinvolgimento** nell&#39;elenco avanzato.
+>Assicurarsi di utilizzare un filtro **[!UICONTROL Member of Engagement Program]** nell&#39;elenco avanzato.
 
 ## Cosa succede alle persone che non soddisfano i criteri della lista intelligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
@@ -47,9 +47,9 @@ Nel caso in cui qualcuno venga escluso dall’elenco avanzato della campagna int
 
 Un programma nidificato ben progettato contiene e-mail, rapporti e campagne intelligenti. Ha senso tenerle insieme.
 
-L’e-mail che utilizzi può essere inserita nel programma, in un altro programma o persino in Design Studio. Il luogo in cui vive dipenderà da come lo si desidera utilizzare.
+L&#39;e-mail utilizzata può essere inserita nel programma, in un altro programma o persino in [!UICONTROL Design Studio]. Il luogo in cui vive dipenderà da come lo si desidera utilizzare.
 
-La generazione di rapporti sulle modifiche con la posizione dell’e-mail. Ad esempio, se l’e-mail si trova in Design Studio, nel Rapporto sulle prestazioni delle e-mail tutte le metriche vengono visualizzate in una riga, ovvero i diversi cast vengono combinati. Tuttavia, nel Rapporto sulle prestazioni del flusso di coinvolgimento, i diversi invii vengono visualizzati separatamente.
+La generazione di rapporti sulle modifiche con la posizione dell’e-mail. Quindi, ad esempio, se l&#39;e-mail si trova in [!UICONTROL Design Studio], nel Rapporto sulle prestazioni dell&#39;e-mail tutte le metriche sono visualizzate in una riga: i diversi cast vengono combinati. Tuttavia, nel Rapporto sulle prestazioni del flusso di coinvolgimento, i diversi invii vengono visualizzati separatamente.
 
 >[!CAUTION]
 >

@@ -4,9 +4,9 @@ description: Anteprima di uno snippet - Documenti Marketo - Documentazione del p
 title: Anteprima di uno snippet
 exl-id: 757e14ef-af7b-44d8-9c73-89b281df3d42
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 I frammenti sono blocchi di contenuto dinamico che cambiano in base alle regole di segmentazione.
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-3.png)
 
-1. Fai clic sul frammento e quindi **Anteprima frammento**.
+1. Fai clic sul frammento e quindi **[!UICONTROL Preview Snippet]**.
 
    ![](assets/image2014-9-16-9-3a48-3a32.png)
 

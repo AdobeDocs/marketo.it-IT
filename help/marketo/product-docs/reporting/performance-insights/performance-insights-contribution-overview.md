@@ -4,26 +4,26 @@ description: Panoramica del contributo di Performance Insights - Documenti Marke
 title: Panoramica del contributo di Performance Insights
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Panoramica del contributo di Performance Insights {#performance-insights-contribution-overview}
+# Panoramica del contributo [!UICONTROL Performance Insights] {#performance-insights-contribution-overview}
 
-In Approfondimenti prestazioni Marketo, per impostazione predefinita viene visualizzata la vista Contributo.
+In Marketo [!UICONTROL Performance Insights], la visualizzazione Contributo viene visualizzata per impostazione predefinita.
 
 ![](assets/one-1.png)
 
-Seleziona la metrica in base alla quale visualizzare le prestazioni. In questo esempio esamineremo le opportunità realizzate tramite Multi-Touch nel dashboard Ricavi.
+Seleziona la metrica in base alla quale visualizzare le prestazioni. In questo esempio verranno esaminate le opportunità realizzate tramite **[!UICONTROL Multi-Touch]** nel dashboard _[!UICONTROL Revenue]_.
 
 ![](assets/2.png)
 
 >[!NOTE]
 >
->Informazioni su [Primo contatto e multi-contatto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+>Informazioni su [[!UICONTROL First-Touch] e [!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
 
 Scegli il periodo per il quale visualizzare le metriche. In questo esempio viene illustrato l’anno corrente (progressivo anno).
 
@@ -31,7 +31,7 @@ Scegli il periodo per il quale visualizzare le metriche. In questo esempio viene
 
 >[!NOTE]
 >
->La selezione &quot;Anno precedente&quot; è stata temporaneamente rimossa. Puoi comunque visualizzare tutti i dati sulle prestazioni dell’anno precedente utilizzando la selezione Intervallo personalizzato.
+>La selezione &quot;Anno precedente&quot; è stata temporaneamente rimossa. È ancora possibile visualizzare tutti i dati sulle prestazioni dell&#39;anno precedente utilizzando la selezione **[!UICONTROL Custom Range]**.
 
 Le metriche sono presentate tramite due grafici: ciambella e barra.
 
@@ -47,7 +47,7 @@ Il grafico a barre mostra le prestazioni del programma su tutti i canali (dieci 
 
 >[!TIP]
 >
->Se si desidera che le barre del grafico aumentino durante lo scorrimento dei gruppi, selezionare la casella di controllo **Adatta asse Y**.
+>Se si desidera che le barre del grafico aumentino durante lo scorrimento dei gruppi, selezionare la casella di controllo **[!UICONTROL Scale Y axis to fit]**.
 
 Passa il puntatore del mouse su una barra per visualizzare ulteriori dettagli.
 
@@ -57,16 +57,16 @@ Selezionare uno o più canali nel grafico ad anello e tutti i programmi associat
 
 ![](assets/eight.png)
 
-La griglia dati seguente funziona come un foglio di calcolo e mostra tutte le metriche disponibili nel modello di attribuzione scelto (First-Touch/Multi-Touch). Viene evidenziata la colonna contenente la metrica scelta.
+La griglia dati seguente funziona come un foglio di calcolo, mostrando tutte le metriche disponibili nel modello di attribuzione scelto ([!UICONTROL First-Touch]/[!UICONTROL Multi-Touch]). Viene evidenziata la colonna contenente la metrica scelta.
 
 ![](assets/9.png)
 
-| **Opportunità acquisite** | La parte di credito (in valore numerico) ricevuta dal programma per influenzare l’opportunità acquisita |
+| **[!UICONTROL Opportunities Won]** | La parte di credito (in valore numerico) ricevuta dal programma per influenzare l’opportunità acquisita |
 |---|---|
-| **Ricavi ottenuti** | La parte di credito (in valore monetario) ricevuta dal programma per influenzare l’opportunità acquisita |
-| **Costo** | Costo totale del programma |
-| **Costo per opportunità vinto** | Il rapporto tra il costo del programma e la parte di credito (in valore numerico) ricevuta dal programma per influenzare la creazione di nuove opportunità |
-| **Percentuale ricavi ottenuti su costi** | Il rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità realizzate e il costo del programma |
+| **[!UICONTROL Revenue Won]** | La parte di credito (in valore monetario) ricevuta dal programma per influenzare l’opportunità acquisita |
+| **[!UICONTROL Cost]** | Costo totale del programma |
+| **[!UICONTROL Cost Per Opportunity Won]** | Il rapporto tra il costo del programma e la parte di credito (in valore numerico) ricevuta dal programma per influenzare la creazione di nuove opportunità |
+| **[!UICONTROL Revenue Won To Cost Ratio]** | Il rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità realizzate e il costo del programma |
 
 Espandere un canale per visualizzare i suoi dieci programmi principali, con i programmi rimanenti combinati.
 

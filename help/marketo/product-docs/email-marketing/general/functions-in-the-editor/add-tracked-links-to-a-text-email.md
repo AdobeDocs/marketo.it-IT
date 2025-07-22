@@ -4,9 +4,9 @@ description: Aggiungere collegamenti tracciati a un’e-mail di testo - Document
 title: Aggiungere collegamenti tracciati a un messaggio e-mail di testo
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: b3bc6a7ec14a513e4b294852d066f9e3d0f74ef8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,9 @@ I collegamenti e-mail di testo possono essere tracciati in Marketo. Vediamo come
 
 1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
 
-![](assets/one-9.png)
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
+
+   ![](assets/one-9.png)
 
 1. Fare doppio clic sull&#39;area modificabile a cui si desidera aggiungere il collegamento.
 

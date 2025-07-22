@@ -4,9 +4,9 @@ description: Disattivare una campagna - Documentazione di Marketo - Documentazio
 title: Disattivare una campagna
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -17,16 +17,16 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Questa opzione è disponibile solo per i clienti che sono integrati con Gmail o Exchange e per i quali è abilitato il tracciamento delle risposte.
+>Questa opzione è disponibile solo per i clienti che sono integrati con [!DNL Gmail] o [!DNL Exchange] e per i quali è abilitato il tracciamento delle risposte.
 
 ## Disattivare una campagna per una persona {#turn-off-a-campaign-for-one-person}
 
-Dopo aver creato la campagna, passa alla scheda **Impostazioni** e scegli come vorresti che la campagna si comportasse se qualcuno ti rispondesse.
+Dopo aver creato la campagna, è sufficiente passare alla scheda **[!UICONTROL Settings]** e scegliere il comportamento desiderato per la campagna in caso di risposta.
 
 Entrambe le opzioni termineranno la campagna e il destinatario non riceverà più e-mail da te.
 
 ## Disattivare una campagna per più persone {#turn-off-a-campaign-for-multiple-people}
 
-Nella cartella inviata, seleziona i contatti da rimuovere dalla campagna con il filtro impostato su &quot;Tutti&quot; per acquisire tutti coloro che hanno ricevuto una campagna.
+Nella cartella inviata, seleziona i contatti da rimuovere dalla campagna con il filtro impostato su &quot;[!UICONTROL All]&quot; per acquisire chiunque abbia ricevuto una campagna.
 
 In alternativa, puoi passare direttamente alla campagna in cui si trovano e rimuoverle in blocco.

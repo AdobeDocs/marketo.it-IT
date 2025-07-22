@@ -4,9 +4,9 @@ description: Corrispondenza lead-account - Documentazione Marketo - Documentazio
 title: Lead per corrispondenza account
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '451'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ La corrispondenza a destra porta ad account denominati a destra utilizzando la c
 
 >[!NOTE]
 >
->**Corrispondenza lead-account** è una funzionalità integrata di Gestione account di Marketo Target. Utilizza una logica fuzzy per far corrispondere automaticamente i lead agli account denominati giusti in tempo reale. Questi account denominati possono essere account CRM o società Marketo.
+>**Corrispondenza lead-account** è una funzionalità integrata di Marketo [!UICONTROL Target Account Management]. Utilizza una logica fuzzy per far corrispondere automaticamente i lead agli account denominati giusti in tempo reale. Questi account denominati possono essere account CRM o società Marketo.
 
 ## Panoramica {#overview}
 
@@ -37,7 +37,7 @@ Marketo Lead-to-Account Matching segue un processo in 4 fasi:
 
 **Passaggio 4 -** Presentiamo un elenco di società proposte con corrispondenze forti e deboli. Quando un account con nome viene creato in base a una delle società proposte, vengono create regole di corrispondenza per associare automaticamente nuovi lead (ad esempio, lead compilato un modulo) agli account con nome corretto. In questo modo potrai preoccuparti meno di trovare i lead corrispondenti e più di ottenere profitti.
 
-Poiché la corrispondenza lead-account di Marketo è una funzione incorporata di Gestione account di Marketo Target, la corrispondenza porta ad account si verifica quasi in tempo reale (ad esempio, nel momento in cui un lead compila un modulo di Marketo, detto lead viene associato all’account con il nome corretto). Questo evento può essere utilizzato per attivare avvisi e avvisare i proprietari dei nuovi lead che arrivano dai loro account denominati.
+Poiché la corrispondenza lead-account Marketo è una funzionalità incorporata di Marketo [!UICONTROL Target Account Management], la corrispondenza porta ad account si verifica quasi in tempo reale (ad esempio, nel momento in cui un lead compila un modulo Marketo, detto lead viene associato all&#39;account con il nome corretto). Questo evento può essere utilizzato per attivare avvisi e avvisare i proprietari dei nuovi lead che arrivano dai loro account denominati.
 
 >[!NOTE]
 >
@@ -47,25 +47,25 @@ Poiché la corrispondenza lead-account di Marketo è una funzione incorporata di
 
 Dopo che il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) ha abilitato LeanData per il tuo account, segui i passaggi seguenti per configurarlo.
 
-1. In Salesforce, fai clic su **Imposta Home** nella barra di navigazione a sinistra.
+1. In Salesforce, fai clic su **[!UICONTROL Setup Home]** nella barra di navigazione a sinistra.
 
-1. Sempre nella barra di navigazione a sinistra, in Amministrazione, fai clic su **Utenti** e quindi su **Profili**.
+1. Sempre nella barra di navigazione a sinistra, in Amministrazione, fai clic su **[!UICONTROL Users]** e quindi su **[!UICONTROL Profiles]**.
 
 1. Individua e seleziona il profilo **Marketo Sync**.
 
-1. Scorri verso il basso fino alla sezione Sicurezza a livello di campo e individua l’oggetto Lead. Seleziona **Visualizza**.
+1. Scorri verso il basso fino alla sezione Sicurezza a livello di campo e individua l’oggetto Lead. Seleziona **[!UICONTROL View]**.
 
-1. Per il nome del campo &quot;Reporting Matched Account&quot; (Segnalazione account corrispondente), accertati che la casella di controllo nella colonna **Read Access** (Accesso in lettura) sia selezionata.
+1. Per il nome del campo &quot;Reporting Matched Account&quot; (Segnalazione account corrispondente), assicurarsi che la casella di controllo nella colonna **[!UICONTROL Read Access]** sia selezionata.
 
-1. In Marketo, vai alla sezione **Amministratore**.
+1. In Marketo, vai alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/lead-to-account-matching-1.png)
 
-1. Selezionare **Gestione campi**.
+1. Seleziona **[!UICONTROL Field Management]**.
 
    ![](assets/lead-to-account-matching-2.png)
 
-1. Conferma che il campo sia presente ricercando &quot;Reporting Matched Account&quot; (Segnalazione account corrispondente).
+1. Verificare che il campo sia presente eseguendo una ricerca in &quot;[!UICONTROL Reporting Matched Account]&quot;.
 
    ![](assets/lead-to-account-matching-3.png)
 

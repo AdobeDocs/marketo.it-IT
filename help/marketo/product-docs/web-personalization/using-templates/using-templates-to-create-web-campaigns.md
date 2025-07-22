@@ -4,10 +4,10 @@ description: Utilizzo di modelli per la creazione di campagne web - Documentazio
 title: Utilizzo dei modelli per creare campagne web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 1%
+source-wordcount: '132'
+ht-degree: 2%
 
 ---
 
@@ -19,11 +19,11 @@ Accelera e semplifica il processo di creazione della campagna web utilizzando i 
 >
 >I modelli sono ottimizzati per tutti i dispositivi e le esperienze di navigazione sia per desktop che per dispositivi mobili.
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand.jpg)
 
-1. Fare clic su **Crea nuova campagna Web**.
+1. Fai clic su **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-create-hand.jpg)
 
@@ -31,11 +31,11 @@ Accelera e semplifica il processo di creazione della campagna web utilizzando i 
 
    ![](assets/set-web-campaign-my-campaign-hand.jpg)
 
-1. Seleziona un segmento di destinazione.
+1. Seleziona [!UICONTROL Target Segment].
 
    ![](assets/set-web-campaign-education.jpg)
 
-1. Fare clic su **Modelli**.
+1. Fai clic su **[!UICONTROL Templates]**.
 
    ![](assets/templates.png)
 
@@ -55,7 +55,7 @@ Accelera e semplifica il processo di creazione della campagna web utilizzando i 
 
    ![](assets/customize-template.jpg)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/click-save-hand.jpg)
 

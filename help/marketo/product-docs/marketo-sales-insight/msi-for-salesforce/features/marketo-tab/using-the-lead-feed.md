@@ -4,16 +4,16 @@ description: Utilizzo del feed di lead - Documentazione di Marketo - Documentazi
 title: Utilizzo del feed di lead
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 0%
+source-wordcount: '328'
+ht-degree: 1%
 
 ---
 
 # Utilizzo del feed di lead {#using-the-lead-feed}
 
-Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. Si troverà sul lato destro quando si fa clic sulla scheda Marketo. È come un RSS o un feed di Twitter: gli aggiornamenti più recenti sono in cima all’elenco. Usa questo per saltare sui lead mentre sei ancora fresco nella loro mente.
+Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. Si troverà sul lato destro quando si fa clic sulla scheda Marketo. È come un feed RSS o [!DNL Twitter]: gli aggiornamenti più recenti sono in cima all&#39;elenco. Usa questo per saltare sui lead mentre sei ancora fresco nella loro mente.
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. 
 
 Ogni elemento nel feed del lead è un momento interessante, un’attività o un evento degno di nota nella cronologia di marketing di questo lead.
 
-Quando viene visualizzato in Salesforce, ogni elemento presenta:
+Quando viene visualizzato in [!DNL Salesforce], ogni elemento ha:
 
 ![](assets/using-the-lead-feed-2.png)
 
@@ -72,7 +72,7 @@ Quando viene visualizzato in Salesforce, ogni elemento presenta:
 
 ## Recupero aggiornamenti RSS {#getting-rss-updates}
 
-È inoltre possibile ricevere aggiornamenti dei feed lead dal feed RSS.  Un feed RSS ti consente di ricevere aggiornamenti sui lead anche se non sei connesso a Salesforce. Il feed contiene le stesse informazioni del feed di lead di Salesforce e le seguenti informazioni (se disponibili):
+È inoltre possibile ricevere aggiornamenti dei feed lead dal feed RSS.  Un feed RSS consente di ricevere aggiornamenti sui lead anche se non si è connessi a [!DNL Salesforce]. Il feed contiene le stesse informazioni del feed lead in [!DNL Salesforce] e le seguenti (se disponibili):
 
 * indirizzo e-mail
 * numero di telefono

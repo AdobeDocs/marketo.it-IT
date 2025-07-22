@@ -3,9 +3,9 @@ description: Tipi di passaggi della campagna di vendita e attività di promemori
 title: Tipi di fasi della campagna di vendita e task promemoria
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '312'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Componi una nuova e-mail o utilizza un modello preesistente.
 
 ![](assets/sales-campaign-step-types-and-reminder-tasks-2.png)
 
-| **Usa un modello** | Seleziona uno dei modelli preesistenti |
+| **[!UICONTROL Use a Template]** | Seleziona uno dei modelli preesistenti |
 |---|---|
-| **Salva come modello** | Salva l’e-mail appena composta come nuovo modello |
+| **[!UICONTROL Save as Template]** | Salva l’e-mail appena composta come nuovo modello |
 | **Aggiungi contenuto** | Carica un file sul nostro server e ricevi un URL (che punta al contenuto) che può essere tracciato nella tua e-mail |
 | **Allega file** | Allega un file dal computer all’e-mail (limite di 23 MB) |
 
@@ -34,7 +34,7 @@ Componi una nuova e-mail o utilizza un modello preesistente.
 >
 >Scopri i dettagli sulle [opzioni di invio](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/understanding-sales-campaign-send-options-for-email-steps.md){target="_blank"}.
 
-### Chiamata {#call}
+### Invito {#call}
 
 Imposta un promemoria per il follow-up con un contatto telefonico. È inoltre possibile salvare le note da utilizzare come traccia di conversazione durante la chiamata.
 
@@ -58,7 +58,7 @@ Le attività sono uno strumento potente quando si invia una campagna di vendita 
 
 Le attività per l&#39;invio di un&#39;e-mail e le attività per la chiamata di un contatto sono gli utilizzi più comuni per le attività nelle campagne di vendita.
 
-Puoi anche impostare un &quot;Attività in Inmail&quot; come contatto in LinkedIn, se questo fa parte del flusso di lavoro. Puoi anche creare un&#39;attività personalizzata per ricordarti di invitarli ad un happy hour, chiedere informazioni sul loro evento di beneficenza, o check-in dopo il gioco 5, ecc.
+Puoi anche impostare un &quot;Attività in Posta in arrivo&quot; come contatto su LinkedIn, se questo fa parte del flusso di lavoro. Puoi anche creare un&#39;attività personalizzata per ricordarti di invitarli ad un happy hour, chiedere informazioni sul loro evento di beneficenza, o check-in dopo il gioco 5, ecc.
 
 >[!NOTE]
 >

@@ -4,20 +4,20 @@ description: Pagine web visualizzate, rapporto sull’attività delle pagine web
 title: Pagine Web visualizzate, Rapporto attività pagina Web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 9bb15816314b3803969334306a62302543a04ae1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 # Pagine Web visualizzate, Rapporto attività pagina Web {#web-pages-viewed-web-page-activity-report}
 
-Da un [report attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md) è possibile visualizzare le pagine specifiche visualizzate dalle persone nel report.
+Da un report [[!UICONTROL Web Page Activity]](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), puoi visualizzare le pagine specifiche visualizzate dalle persone nel report.
 
 >[!PREREQUISITES]
 >
->Per acquisire l&#39;attività dal sito Web in Marketo, devi innanzitutto [configurare Munchkin sul sito](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
+>Per acquisire l&#39;attività dal sito Web in Marketo, devi prima [configurare [!DNL Munchkin] sul sito](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md).
 
 1. Nel [report attività pagina Web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md), fare clic sul nome della persona.
 

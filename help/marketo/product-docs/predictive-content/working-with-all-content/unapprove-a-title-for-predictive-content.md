@@ -4,28 +4,28 @@ description: Annullare l’approvazione di un titolo per Contenuto predittivo - 
 title: Annullare l’approvazione di un titolo per contenuto predittivo
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Annullare l’approvazione di un titolo per contenuto predittivo {#unapprove-a-title-for-predictive-content}
+# Annulla approvazione titolo per [!UICONTROL Predictive Content] {#unapprove-a-title-for-predictive-content}
 
-Puoi annullare l’approvazione di qualsiasi titolo per contenuto predittivo nella pagina Tutti i contenuti o nel pop-up Modifica contenuto.
+È possibile annullare l&#39;approvazione di qualsiasi titolo per contenuto predittivo nella pagina [!UICONTROL All Content] o nel popup [!UICONTROL Edit Content].
 
-## Pagina Tutti i contenuti {#all-content-page}
+## [!UICONTROL All Content] pagina {#all-content-page}
 
-1. Nella pagina Tutto il contenuto, seleziona la casella accanto alla parte di contenuto per selezionarla.
+1. Nella pagina [!UICONTROL All Content], seleziona la casella accanto al contenuto per selezionarlo.
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Fai clic sul menu a discesa **Azioni contenuto** e seleziona **Annulla approvazione per contenuto predittivo**.
+1. Fare clic sul menu a discesa **[!UICONTROL Content Actions]** e selezionare **[!UICONTROL Unapprove for Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 
-## Finestra a comparsa Modifica contenuto {#edit-content-pop-up}
+## Popup [!UICONTROL Edit Content] {#edit-content-pop-up}
 
 È possibile annullare l&#39;approvazione di un titolo mentre lo si modifica.
 
@@ -33,10 +33,10 @@ Puoi annullare l’approvazione di qualsiasi titolo per contenuto predittivo nel
 
    ![](assets/click-icon-hand.png)
 
-1. Deseleziona la casella **Approva per contenuto predittivo** e fai clic su **Salva**.
+1. Deselezionare la casella **[!UICONTROL Approve for Predictive Content]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2017-10-3-9-3a20-3a17.png)
 
-Indipendentemente dal metodo utilizzato, l’icona di approvazione viene spostata nella pagina Tutto il contenuto e il titolo scompare dalla pagina Contenuto predittivo.
+Indipendentemente dal metodo utilizzato, l&#39;icona di approvazione non è più disponibile nella pagina [!UICONTROL All Content] e il titolo scompare dalla pagina [!UICONTROL Predictive Content].
 
 ![](assets/unapprove-content-no-icon.png)

@@ -1,72 +1,72 @@
 ---
 unique-page-id: 4720257
-description: Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint
+description: Aggiungi [!DNL Facebook] Tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] - Documentazione Marketo - Documentazione del prodotto
+title: 'Aggiungi [!DNL Facebook] tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] '
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 1%
 
 ---
 
-# Aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint {#add-facebook-custom-audiences-as-a-launchpoint-service}
+# Aggiungi [!DNL Facebook] tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] {#add-facebook-custom-audiences-as-a-launchpoint-service}
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Con questa integrazione è possibile inviare dati di pubblico da elenchi statici e avanzati di Marketo Engage a Facebook per utilizzarli come tipi di pubblico personalizzati nelle campagne Facebook Ad. Ecco come configurarlo.
+Con questa integrazione è possibile inviare dati di pubblico da elenchi statici e avanzati di Marketo a [!DNL Facebook] per utilizzarli come tipi di pubblico personalizzati nelle campagne pubblicitarie [!DNL Facebook]. Ecco come configurarlo.
 
-1. Vai a Marketo **[!UICONTROL Amministratore]**.
+1. Passare a Marketo **[!UICONTROL Admin]**.
 
    ![](assets/image2016-11-29-10-3a50-3a29.png)
 
-1. Vai a **[!UICONTROL LaunchPoint]**, fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo servizio]**.
+1. Vai a **[!UICONTROL LaunchPoint]**, fai clic su **[!UICONTROL New]** e seleziona **[!UICONTROL New Service]**.
 
    ![](assets/image2016-11-29-10-3a51-3a11.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]** per il servizio e seleziona il servizio **[!UICONTROL Tipi di pubblico personalizzati di Facebook]** dal menu a discesa **[!UICONTROL Servizio]**.
+1. Immetti **[!UICONTROL Display Name]** per il servizio e seleziona il servizio **[!UICONTROL Facebook Custom Audiences]** dal menu a discesa **[!UICONTROL Service]**.
 
    ![](assets/image2016-11-29-12-3a51-3a8.png)
 
-1. Apri una nuova scheda nello stesso browser e passa a [facebook.com](https://www.facebook.com/){target="_blank"}. Accedi a Facebook utilizzando l’account che desideri utilizzare per l’integrazione.
+1. Apri una nuova scheda nello stesso browser e passa a [facebook.com](https://www.facebook.com/). Accedere a [!DNL Facebook] utilizzando l&#39;account che si desidera utilizzare per l&#39;integrazione.
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare tipi di pubblico su più account di Ad Manager, l&#39;utente Facebook che autorizzi nei passaggi seguenti deve avere accesso a *tutti* di questi account.
+   >Affinché Marketo possa inviare tipi di pubblico su più account di Ad Manager, l&#39;utente [!DNL Facebook] autorizzato nei passaggi seguenti deve avere accesso a *tutti* gli account.
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Dopo aver effettuato l’accesso a Facebook, torna a Marketo. Fare clic su **[!UICONTROL Autorizza]**.
+1. Dopo aver effettuato l&#39;accesso a [!DNL Facebook], torna a Marketo. Fai clic su **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
    >[!NOTE]
    >
-   >_devi_ utilizzare un account Facebook Business Manager per il corretto funzionamento dell&#39;integrazione dei tipi di pubblico personalizzati. Per informazioni su come configurare un account di Business Manager, consultare la [Guida di Facebook](https://www.facebook.com/business/help/1710077379203657){target="_blank"}.
+   >_devi_ utilizzare un account di [!DNL Facebook] Business Manager per il corretto funzionamento dell&#39;integrazione dei tipi di pubblico personalizzati. Per informazioni sulla configurazione di un account di Business Manager, consultare la [[!DNL Facebook] Guida](https://www.facebook.com/business/help/1710077379203657).
 
-1. Se richiesto, fare clic su **[!UICONTROL OK]** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
+1. Se richiesto, fare clic su **[!UICONTROL OK]** per accettare l&#39;installazione dell&#39;app Marketo in [!DNL Facebook].
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Ora sei autorizzato! Selezionare una modalità corrispondente e fare clic su **[!UICONTROL Crea]**.
+1. Ora sei autorizzato! Selezionare una modalità corrispondente e fare clic su **[!UICONTROL Create]**.
 
    >[!NOTE]
    >
-   >**Corrispondenza di base** utilizza solo indirizzi di posta elettronica. **Corrispondenza avanzata** utilizza sette campi aggiuntivi, che aumentano il tasso di corrispondenza, per una maggiore conversione. Tuttavia, se l’informativa sulla privacy della tua azienda non consente la condivisione di campi aggiuntivi o se i tuoi dati non li includono, seleziona Corrispondenza di base.
+   >**[!UICONTROL Basic Matching]** utilizza solo indirizzi e-mail. **[!UICONTROL Advanced Matching]** utilizza sette campi aggiuntivi, che aumentano il tasso di corrispondenza, per una maggiore conversione. Tuttavia, se l&#39;informativa sulla privacy della tua azienda non consente la condivisione di campi aggiuntivi o se i tuoi dati non li includono, seleziona [!UICONTROL Basic Matching].
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Ottimo lavoro! Ora puoi passare a qualsiasi elenco statico o avanzato in Marketo e inviare i dati sul pubblico a Facebook.
+   Ottimo lavoro! Ora puoi passare a qualsiasi elenco statico o avanzato in Marketo e inviare i dati sul pubblico a [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Oh, prima di andare, assicurati di [accettare i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php){target="_blank"} nel tuo account Facebook. In caso contrario, gli aggiornamenti del pubblico non riusciranno.
+   >Oh, prima di andare, assicurati di [accettare i termini dei tipi di pubblico personalizzati di [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account [!DNL Facebook]. In caso contrario, gli aggiornamenti del pubblico non riusciranno.
 
 >[!MORELIKETHIS]
 >
->* [Creazione di un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md){target="_blank"}
+>* [Crea un pubblico personalizzato in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
 >
->* [Configurazione annunci lead Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md){target="_blank"}
+>* [Configura [!DNL Facebook] Annunci lead](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

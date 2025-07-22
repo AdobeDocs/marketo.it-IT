@@ -4,9 +4,9 @@ description: Pianificazione di una campagna - Documentazione di Marketo - Docume
 title: Pianificare una campagna
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,10 @@ Puoi pianificare ogni singolo passaggio e-mail della campagna in modo che esca a
 
 Tutto ciò che devi fare è scegliere quando desideri che le e-mail vengano inviate al momento della creazione della campagna.
 
-Se non hai pianificato il primo passaggio o hai bisogno di scegliere un’ora di invio, ti verrà chiesto di scegliere quando inviare la campagna ogni volta che aggiungi una persona o un gruppo.
+Se non hai pianificato il primo passaggio o hai bisogno di scegliere un orario &quot;[!UICONTROL Send at]&quot;, ti verrà chiesto di scegliere quando inviare la campagna ogni volta che aggiungi una persona o un gruppo.
 
-Apri il modale Aggiungi a Campaign aggiungendo singoli utenti, un gruppo o persone selezionate e fai clic su **Avanti**.
+Apri il modale [!UICONTROL Add to Campaign] aggiungendo singoli utenti, un gruppo o persone selezionate e fai clic su **[!UICONTROL Next]**.
 
-Dopo aver fatto clic su **Avanti**, puoi visualizzare in anteprima la prima e-mail.
+Dopo aver fatto clic su **[!UICONTROL Next]**, puoi visualizzare in anteprima la prima e-mail.
 
-Dopo aver fatto nuovamente clic su **Avanti**, riceverai un&#39;opzione per specificare quando desideri che la campagna esca. Puoi far iniziare subito la campagna o pianificarne un’altra in un secondo momento.
+Dopo aver fatto di nuovo clic su **[!UICONTROL Next]**, riceverai un&#39;opzione per il momento in cui desideri far uscire la campagna. Puoi far iniziare subito la campagna o pianificarne un’altra in un secondo momento.

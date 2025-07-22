@@ -4,16 +4,16 @@ description: Abilitare la sincronizzazione per un’entità personalizzata - Doc
 title: Abilitare la sincronizzazione per un'entità personalizzata
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2a5ee44a7126d789b0fc819a26a2cf19084b34ee
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
 
 # Abilitare la sincronizzazione per un&#39;entità personalizzata {#enable-sync-for-a-custom-entity}
 
-Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibili in Marketo Engage, ecco come abilitare la sincronizzazione per esso. **Sono richieste le autorizzazioni di amministratore**.
+Se sono necessari dati di entità personalizzati da [!DNL Dynamics] per essere disponibili in Marketo, di seguito viene illustrato come abilitare la sincronizzazione per tale entità.
 
 >[!PREREQUISITES]
 >
@@ -28,11 +28,11 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
 >
 >L&#39;utente di Marketo Sync ha bisogno dell&#39;accesso in lettura all&#39;oggetto personalizzato per elencarlo ed eseguire una sincronizzazione.
 
-1. Vai alla sezione **[!UICONTROL Amministratore]**.
+1. Passare alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/enable-sync-for-a-custom-entity-1.png)
 
-1. Seleziona **[!UICONTROL Microsoft Dynamics]** e fai clic su **[!UICONTROL Disattiva sincronizzazione]**.
+1. Selezionare **[!UICONTROL Microsoft Dynamics]** e fare clic su **[!UICONTROL Disable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-2.png)
 
@@ -40,25 +40,25 @@ Se hai bisogno che i dati di entità personalizzati di Dynamics siano disponibil
    >
    >È necessario disattivare temporaneamente la sincronizzazione globale per abilitare o disabilitare un&#39;entità personalizzata.
 
-1. In Gestione database fare clic su **[!UICONTROL Sincronizzazione entità Dynamics]**.
+1. In [!UICONTROL Database Management], fare clic sul collegamento **[!UICONTROL Dynamics Entities Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-3.png)
 
-1. Fare clic su **[!UICONTROL Sincronizza schema]**.
+1. Fare clic sul collegamento **[!UICONTROL Sync schema]**.
 
    ![](assets/enable-sync-for-a-custom-entity-4.png)
 
-1. Selezionare l&#39;entità da sincronizzare e fare clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Selezionare l&#39;entità da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-5.png)
 
-1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md){target="_blank"} e/o trigger (per i record aggiunti, _non_ aggiornati) negli elenchi smart. Al termine, fare clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Selezionare i campi da sincronizzare o utilizzare come [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) e/o trigger negli elenchi smart. Al termine, fare clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-sync-for-a-custom-entity-6.png)
 
    >[!NOTE]
    >
-   >Durante il processo di sincronizzazione, potresti notare che l&#39;elemento &quot;[!UICONTROL Sincronizzazione entità dinamiche]&quot; scompare dalla struttura di navigazione. Si tratta di un comportamento previsto che verrà visualizzato nuovamente al termine della sincronizzazione.
+   >Durante il processo di sincronizzazione, è possibile che l&#39;elemento &quot;[!UICONTROL Dynamic Entities Sync]&quot; scompaia dalla struttura di navigazione. Si tratta di un comportamento previsto che verrà visualizzato nuovamente al termine della sincronizzazione.
 
 1. L’entità ora dispone di un segno di spunta verde.
 

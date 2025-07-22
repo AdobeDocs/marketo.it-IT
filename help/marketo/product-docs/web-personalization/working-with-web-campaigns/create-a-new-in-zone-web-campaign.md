@@ -4,9 +4,9 @@ description: Creazione di una nuova campagna web nell’area - Documentazione di
 title: Crea una nuova campagna web nell’area
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '693'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 ## Creare una campagna web in area {#create-an-in-zone-web-campaign}
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 
-1. Seleziona **Crea nuova campagna Web.**
+1. Seleziona **[!UICONTROL Create New Web Campaign].**
 
    ![](assets/create-new-web-campaign-hand.png)
 
-1. Selezionare il tipo di campagna **Nella zona**. Personalizza e aggiungi un ID zona **.** Imposta la campagna su **Sticky** e aggiungi il tuo contenuto creativo nell&#39;editor. Aggiungi l&#39;URL della pagina da visualizzare in anteprima e fai clic su **Anteprima** per vedere come reagirà la campagna sul tuo sito.
+1. Selezionare il tipo di campagna **[!UICONTROL In Zone]**. Personalizzare e aggiungere **[!UICONTROL Zone id].** Imposta la campagna su **[!UICONTROL Sticky]** e aggiungi il tuo contenuto creativo nell&#39;editor. Aggiungi l&#39;URL della pagina da visualizzare in anteprima e fai clic su **[!UICONTROL Preview]** per vedere come reagirà la campagna sul tuo sito.
 
    ![](assets/new-3-1.png)
 
@@ -33,7 +33,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
    >
    >**Che cos&#39;è un ID zona?**
    >
-   >Un ID zona è il luogo in cui desideri che la campagna web &quot;In Zone&quot; si trovi sul sito. Per trovare un &quot;ID zona&quot;, vai al tuo sito web e seleziona l’area che desideri sostituire con una campagna web e fai clic con il pulsante destro del mouse. In Chrome, l’opzione è &quot;Elemento Inspect&quot;; in altri browser può variare.
+   >Per ID zona si intende la posizione della campagna Web &quot;[!UICONTROL In Zone]&quot; all&#39;interno del sito. Per trovare un &quot;[!UICONTROL Zone ID]&quot;, è sufficiente accedere al sito Web e selezionare l&#39;area che si desidera sostituire con una campagna Web e fare clic con il pulsante destro del mouse. In Chrome, l’opzione è &quot;Ispeziona elemento&quot;, in altri browser potrebbe variare.
    >
    >Quindi, vuoi trovare il &quot;id&quot; associato a questa sezione del sito web, che viene evidenziato perché stai esaminando quell’elemento. Ad esempio, se una volta fatto clic con il pulsante destro del mouse in Chrome, il testo evidenziato riporta `<div id="featured-slider">`, sarà sufficiente digitare &quot;feature-slider&quot; nella sezione &quot;zone id&quot;. In genere viene utilizzato &quot;div id&quot;, ma può essere utilizzato anche qualsiasi ID, ad esempio h1 id, p id e così via.
 
@@ -98,7 +98,7 @@ Dalla pagina **Campagne Web**, fai clic su **Modifica** nella campagna.
 
 ## Visualizzare l’anteprima di una campagna web {#preview-a-web-campaign}
 
-1. Dalla pagina Campagne Web, fare clic su **Anteprima** nella campagna Web che si desidera visualizzare.
+1. Dalla pagina [!UICONTROL Web Campaigns], fare clic su **[!UICONTROL Preview]** nella campagna Web che si desidera visualizzare.
 
    ![](assets/in-zone-web-campaign-preview.png)
 
@@ -108,7 +108,7 @@ Vedere [Clona una campagna Web](/help/marketo/product-docs/web-personalization/w
 
 ## Eliminare una campagna web {#delete-a-web-campaign}
 
-1. Dalla pagina Campagne Web, fare clic su **Elimina** nella campagna che si desidera eliminare.
+1. Dalla pagina Campagne Web, fare clic su **[!UICONTROL Delete]** nella campagna che si desidera eliminare.
 
    ![](assets/in-zone-web-campaign-delete.png)
 

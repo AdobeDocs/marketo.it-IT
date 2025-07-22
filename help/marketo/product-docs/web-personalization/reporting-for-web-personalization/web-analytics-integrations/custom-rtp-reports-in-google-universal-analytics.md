@@ -4,10 +4,10 @@ description: Rapporti RTP personalizzati in Google Universal Analytics - Documen
 title: Rapporti RTP personalizzati in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 2%
+source-wordcount: '362'
+ht-degree: 3%
 
 ---
 
@@ -22,13 +22,13 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 * RTP B2B
 * Coinvolgimento RTP
 
-## Impostazione di un rapporto personalizzato {#setting-up-a-custom-report}
+## Configurazione di [!UICONTROL Custom Report] {#setting-up-a-custom-report}
 
-1. Accedi alle Google Analytics.
+1. Accedi a Google Analytics.
 
-1. Fai clic su **Personalizzazione** nel menu principale.
+1. Fai clic su **[!UICONTROL Customization]** nel menu principale.
 
-1. Fare clic su **+Nuovo report personalizzato**.
+1. Fai clic su **[!UICONTROL New Custom Report]**.
 
 ![](assets/image2015-3-22-16-3a10-3a48.png)
 
@@ -36,17 +36,17 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
 1. Denomina il rapporto **Rapporto B2B RTP**.
 
-1. Denomina la prima scheda **Settore**.
+1. Denomina la prima scheda **[!UICONTROL Industry]**.
 
 >[!NOTE]
 >
 >**Duplicare questa scheda** e crearne altre simili - passaggio 5)
 
-1. Selezionare il tipo di report **Explorer**.
+1. Selezionare il tipo di report **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a15-3a25.png)
 
-1. Nella sezione **Gruppi di metriche**, seleziona le metriche rilevanti per la tua azienda.
+1. Nella sezione **[!UICONTROL Metric Groups]**, seleziona le metriche rilevanti per la tua azienda.
 
    a. Si raccomanda quanto segue:
 
@@ -62,7 +62,7 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
    ![](assets/image2015-3-22-16-3a17-3a41.png)
 
-1. Nella sezione **Drill down dei Dimension**, imposta le dimensioni rilevanti per ogni scheda come indicato di seguito.
+1. Nella sezione **Drill down di Dimension** impostare le dimensioni rilevanti per ogni scheda come indicato di seguito.
 
 <table> 
  <thead> 
@@ -73,7 +73,7 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
     </div></th> 
    <th> 
     <div>
-      Espansioni Dimension
+      Drill-down di Dimension
     </div></th> 
   </tr> 
  </thead> 
@@ -95,15 +95,15 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
    <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
   <tr> 
-   <td>Organismi</td> 
+   <td>Organizzazioni</td> 
    <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
   </tr> 
  </tbody> 
 </table>
 
-1. Non impostare alcun filtro e impostare questo report come disponibile per **Tutti i dati del sito Web** (o modificarlo in base all&#39;account Analytics specifico).
+1. Non impostare alcun filtro e imposta il report affinché sia disponibile per **[!UICONTROL All Web Site Data]** (o modificalo se rilevante per un account Analytics specifico).
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-3-22-16-3a21-3a23.png)
 
@@ -111,17 +111,17 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
 1. Denomina il report **Report di coinvolgimento RTP**.
 
-1. Impostare il nome della prima scheda su **Tutto il coinvolgimento**.
+1. Impostare il nome della prima scheda su **[!UICONTROL All Engagement]**.
 
 >[!NOTE]
 >
 >Questa scheda verrà duplicata e ne verranno create altre simili (passaggio 5)
 
-1. Selezionare il tipo di report **Explorer**.
+1. Selezionare il tipo di report **[!UICONTROL Explorer]**.
 
    ![](assets/image2015-3-22-16-3a23-3a36.png)
 
-1. Nella sezione Gruppi di metriche, seleziona le metriche rilevanti per la tua azienda. Ecco un consiglio:
+1. Nella sezione [!UICONTROL Metric Groups], seleziona le metriche rilevanti per la tua azienda. Ecco un consiglio:
 
    ![](assets/image2015-3-22-16-3a24-3a57.png)
 
@@ -135,7 +135,7 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
    ![](assets/image2015-3-22-16-3a26-3a21.png)
 
-1. Nella sezione **Drill down dei Dimension**, imposta le dimensioni rilevanti per ogni scheda come segue:
+1. Nella sezione **Drill down di Dimension**, imposta le dimensioni rilevanti per ogni scheda come segue:
 
 <table> 
  <thead> 
@@ -146,7 +146,7 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
     </div></th> 
    <th> 
     <div>
-      Espansioni Dimension 
+      Drill-down di Dimension 
     </div></th> 
   </tr> 
  </thead> 
@@ -204,14 +204,14 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
  <tbody> 
   <tr> 
    <td><p>Includi</p></td> 
-   <td><p>Categoria evento</p></td> 
+   <td><p><span class="uicontrol">Categoria evento</span></p></td> 
    <td>Regex</td> 
-   <td>RTP-Campaigns|RTP-Recommendations|Segmenti RTP</td> 
+   <td>Campagne RTP|Consigli RTP|Segmenti RTP</td> 
    <td colspan="1">Filtra tutti gli altri eventi personalizzati non correlati a RTP</td> 
   </tr> 
   <tr> 
    <td>Escludi</td> 
-   <td>Etichetta evento</td> 
+   <td><span class="uicontrol">Etichetta evento</span></td> 
    <td>Regex</td> 
    <td>N.</td> 
    <td colspan="1">Consente di filtrare dalla campagna di rapporti utilizzando # nel nome della campagna</td> 
@@ -219,11 +219,11 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
  </tbody> 
 </table>
 
-1. Impostare questo report affinché sia disponibile per **Tutti i dati del sito Web** (o modificarlo se necessario).
+1. Impostare il report affinché sia disponibile per **[!UICONTROL All Web Site Data]** (o modificarlo se necessario).
 
    ![](assets/image2015-3-22-16-3a29-3a5.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
 ![](assets/image2015-3-22-16-3a30-3a0.png)
 

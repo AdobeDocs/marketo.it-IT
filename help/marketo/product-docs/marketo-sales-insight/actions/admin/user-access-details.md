@@ -3,9 +3,9 @@ description: Dettagli di accesso utente - Documentazione di Marketo - Documentaz
 title: Dettagli di accesso utente
 exl-id: 20e19848-fc46-4f12-af8a-3fa2b88e1af4
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Gli amministratori possono visualizzare tutte le persone in una campagna in esec
 
 ![](assets/user-access-details-4.png)
 
-Gli amministratori possono visualizzare le campagne degli utenti e le categorie delle campagne con il menu a discesa Visualizza come.
+Gli amministratori possono visualizzare le campagne degli utenti e le categorie delle campagne con il menu a discesa [!UICONTROL View As].
 
 ![](assets/user-access-details-5.png)
 
@@ -46,18 +46,18 @@ Gli amministratori possono interrompere le campagne per conto degli utenti.
    * Gli utenti possono analizzare solo i team a cui appartengono
    * Gli utenti possono esaminare le proprie analisi
 
-* Pagina Persone:
+* [!UICONTROL People] pagina:
 
    * Gli utenti possono condividere i gruppi con tutti
    * Gli utenti possono condividere i gruppi solo con i team a cui appartengono
    * Gli utenti avranno la visibilità di tutte le persone nel database Azioni
    * Quando un utente viene eliminato, i suoi contatti condivisi trasferiscono la proprietà all’amministratore principale che lo ha eliminato
 
-* Pagina Gestione team:
+* Pagina di gestione [!UICONTROL Team]:
 
    * Impossibile visualizzare
 
-* Pagina Modelli:
+* [!UICONTROL Templates] pagina:
 
    * Gli utenti possono condividere i modelli con tutti
    * Gli utenti possono condividere i modelli nelle categorie consentite agli amministratori

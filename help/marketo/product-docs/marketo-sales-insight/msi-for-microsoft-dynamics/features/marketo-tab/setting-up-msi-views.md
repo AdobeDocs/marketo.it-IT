@@ -3,24 +3,24 @@ description: Configurazione delle visualizzazioni MSI - Documentazione di Market
 title: Configurazione delle visualizzazioni MSI
 exl-id: 8a45c006-73d4-4af8-ad62-b084056d1f7d
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
 # Configurazione delle visualizzazioni MSI {#setting-up-msi-views}
 
-L’installazione del plug-in Sales Insight in Dynamics aggiunge automaticamente gli elementi di maggiore rilevanza e le dashboard correlate nella mappa del sito. Se per qualche motivo le dashboard non vengono aggiunte, ecco come aggiungerle manualmente.
+Installando il plug-in [!DNL Sales Insight] in Dynamics, vengono aggiunti automaticamente [!DNL Best Bets] e i dashboard correlati nella mappa del sito. Se per qualche motivo le dashboard non vengono aggiunte, ecco come aggiungerle manualmente.
 
-1. In Dynamics, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni avanzate** dal menu a discesa.
+1. In Dynamics, fai clic sull&#39;icona a forma di ingranaggio e seleziona **[!UICONTROL Advanced Settings]** dal menu a discesa.
 
-1. In alto a sinistra nella schermata, fai clic su **Impostazioni**. In Personalizzazione scegliere **Personalizzazioni**.
+1. Nella parte superiore sinistra della schermata, fare clic su **[!UICONTROL Settings]**. In Personalizzazione scegliere **[!UICONTROL Customizations]**.
 
-1. Fare clic su **Personalizza il sistema**.
+1. Fai clic su **[!UICONTROL Customize the System]**.
 
-1. Nella struttura a sinistra, fare clic su **Estensioni client** e fare doppio clic su **Mappa sito**.
+1. Nell&#39;albero a sinistra fare clic su **[!UICONTROL Client Extensions]** e fare doppio clic su **[!UICONTROL Site Map]**.
 
 1. Fare clic sulla freccia destra per passare alla pagina successiva. Alla voce Vendite, dovresti trovare Marketo. In caso contrario, assicurati di aver importato correttamente il pacchetto.
 
@@ -54,4 +54,4 @@ Icona: /WebResources/mkt_/_MainView/_imgs/icons/anonymous_web_activity.svg</br>
 ID: marketo_anonymous_webactivity</br>
 Titolo: Attività Web anonima
 
-1. Al termine, fai clic su **Salva**.
+1. Al termine, fai clic su **[!UICONTROL Save]**.

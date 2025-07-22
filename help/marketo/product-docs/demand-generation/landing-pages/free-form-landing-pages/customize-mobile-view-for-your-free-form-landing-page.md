@@ -4,9 +4,9 @@ description: Personalizzare la visualizzazione mobile della pagina di destinazio
 title: Personalizza la visualizzazione mobile della pagina di destinazione in formato libero
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '355'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ La visualizzazione mobile della pagina di destinazione in formato libero è per 
 
    ![](assets/selectlandingapge.jpg)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Fare clic sulla scheda **Mobile**.
+1. Fare clic sulla scheda **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -83,15 +83,15 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
 >[!TIP]
 >
->La visualizzazione per dispositivi mobili può anche avere una diversa disposizione degli elementi di pagina. Spostare gli elementi nella pagina di destinazione in formato libero o riordinare gli oggetti elencati in **Elementi pagina** tramite trascinamento della selezione.
+>La visualizzazione per dispositivi mobili può anche avere una diversa disposizione degli elementi di pagina. Spostare gli elementi nella pagina di destinazione in formato libero o riordinare gli oggetti elencati in **[!UICONTROL Page Elements]** tramite trascinamento.
 
 ## Anteprima visualizzazione mobile {#preview-mobile-view}
 
-1. Fare clic su **Anteprima bozza**.
+1. Fai clic su **[!UICONTROL Preview Draft]**.
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Vuoi vedere qualcosa di figo? Seleziona **Affiancato**.
+1. Vuoi vedere qualcosa di figo? Seleziona **[!UICONTROL Side By Side]**.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -99,7 +99,7 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Se ti piace, fai clic su **Approva e chiudi**.
+1. Se ti piace, fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 

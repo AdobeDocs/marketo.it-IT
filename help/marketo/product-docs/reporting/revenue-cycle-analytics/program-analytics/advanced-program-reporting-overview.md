@@ -4,9 +4,9 @@ description: Panoramica sul reporting avanzato dei programmi - Documentazione di
 title: Panoramica sui report avanzati sui programmi
 exl-id: 3b77fd34-a94f-4c6a-9b96-d326b46e731c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Ci sono molte cose buone qui dentro. Vediamo di cosa si tratta!
 
 ## Cos&#39;è un&#39;area di analisi? {#whats-an-analysis-area}
 
-Ogni area di analisi contiene set di dati e metriche diversi in Revenue Explorer. Ogni area si riferisce al soggetto di reporting che hai scelto di visualizzare.
+Ciascuna area di analisi contiene set di dati e metriche diversi in [!UICONTROL Revenue Explorer]. Ogni area si riferisce al soggetto di reporting che hai scelto di visualizzare.
 
 ## Aree di analisi programma {#program-analysis-areas}
 
@@ -41,7 +41,7 @@ Ogni area di analisi contiene set di dati e metriche diversi in Revenue Explorer
 
 * **Opportunity Influence Analyzer** - Prova il contributo del marketing misurando l&#39;impatto dei programmi e degli impegni chiave che hanno generato opportunità.
 
-## Opzioni report {#report-options}
+## [!UICONTROL Report Options] {#report-options}
 
 In ogni rapporto sono disponibili diverse opzioni per aiutarti a personalizzare l’esperienza.
 
@@ -55,4 +55,4 @@ In ogni rapporto sono disponibili diverse opzioni per aiutarti a personalizzare 
 >
 >I dati in Revenue Cycle Explorer vengono aggiornati ogni notte dall’istanza di Marketo. Pertanto, eventuali modifiche all’attività della persona e dell’account all’interno di Marketo verranno riportate il giorno lavorativo successivo in Revenue Cycle Explorer.
 
-Acquisire familiarità con l’analisi dei ricavi ti fornirà informazioni complete sui tuoi programmi e sul loro impatto.
+Acquisire familiarità con l’analisi dei ricavi ti darà pieno insight nei tuoi programmi e nel loro impatto.

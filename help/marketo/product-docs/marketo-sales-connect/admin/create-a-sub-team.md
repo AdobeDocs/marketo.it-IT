@@ -4,10 +4,10 @@ description: Creazione di un team secondario - Documenti Marketo - Documentazion
 title: Creare un team secondario
 exl-id: 47baa5ac-4598-4277-b656-e99cd6a3e17f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 1%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ## Creare un team secondario {#create-a-sub-team-1}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 
-1. In Impostazioni amministratore selezionare **Gestione team**.
+1. In [!UICONTROL Admin Settings], selezionare **[!UICONTROL Team Management]**.
 
    ![](assets/two-1.png)
 
-1. Accanto a Tutti i team, fare clic su **+**.
+1. Accanto a [!UICONTROL All Teams], fare clic su **+**.
 
    ![](assets/three-1.png)
 
-1. Immettere il nome di un team (con descrizione facoltativa) e fare clic su **Crea**.
+1. Immettere il nome di un team (con descrizione facoltativa) e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/four-1.png)
 
@@ -37,7 +37,7 @@ ht-degree: 0%
 
 ## Aggiungi persone al tuo team secondario {#add-people-to-your-sub-team}
 
-1. Sempre in Gestione team, seleziona il gruppo **Tutti**.
+1. Sempre in [!UICONTROL Team Management], selezionare il gruppo **[!UICONTROL Everyone]**.
 
    ![](assets/five-1.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
    ![](assets/six.png)
 
-1. Fai clic su **Aggiungi selezionati ai team**.
+1. Fai clic su **[!UICONTROL Add Selected to Teams]**.
 
    ![](assets/seven.png)
 
@@ -53,6 +53,6 @@ ht-degree: 0%
 
    ![](assets/eight.png)
 
-1. Al termine, fai clic su **Aggiungi ai team**.
+1. Al termine, fai clic su **[!UICONTROL Add To Teams]**.
 
    ![](assets/nine.png)

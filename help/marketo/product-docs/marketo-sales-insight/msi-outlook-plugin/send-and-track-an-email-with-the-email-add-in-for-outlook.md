@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949716
-description: Inviare e tenere traccia di un’e-mail con il componente aggiuntivo e-mail per Outlook - Documentazione di Marketo - Documentazione del prodotto
-title: Inviare e tenere traccia di un messaggio e-mail con il componente aggiuntivo e-mail per Outlook
+description: Inviare e tenere traccia di un'e-mail con il componente aggiuntivo e-mail per  [!DNL Outlook] - Documentazione di Marketo - Documentazione del prodotto
+title: Invia e tieni traccia di un'e-mail con il componente aggiuntivo e-mail per  [!DNL Outlook]
 exl-id: 81c2ce86-1528-48ad-8848-ee5a828f9ff7
 feature: Marketo Sales Insights
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
-# Inviare e tenere traccia di un messaggio e-mail con il componente aggiuntivo e-mail per Outlook {#send-and-track-an-email-with-the-email-add-in-for-outlook}
+# Invia e tieni traccia di un&#39;e-mail con il componente aggiuntivo e-mail per [!DNL Outlook] {#send-and-track-an-email-with-the-email-add-in-for-outlook}
 
-Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
+Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da [!DNL Outlook].
 
 >[!PREREQUISITES]
 >
->Se non lo hai ancora fatto, installa il componente aggiuntivo e-mail di [Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
+>Se non lo hai ancora fatto, installa il componente aggiuntivo e-mail di [Marketo per [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md).
 
 >[!NOTE]
 >
->Le funzionalità delle azioni di approfondimento delle vendite, tra cui Invia e-mail alle vendite, Aggiungi a campagna di vendita e Attività, non sono disponibili nei plug-in e-mail di approfondimento delle vendite per Gmail e Outlook. Al momento, gli utenti possono inviare un’e-mail tracciabile solo con o senza un modello e-mail di Marketo dal proprio client e-mail quando utilizzano i plug-in e-mail di Sales Insight.
+>Le funzionalità delle azioni di Sales Insight, tra cui Invia e-mail per le vendite, Aggiungi a campagna vendite e Attività, non sono disponibili nei plug-in e-mail di Sales Insight per Gmail e Outlook. Al momento, gli utenti possono inviare un’e-mail tracciabile solo con o senza un modello e-mail di Marketo dal proprio client e-mail quando utilizzano i plug-in e-mail di Sales Insight.
 
 1. Apri Microsoft Outlook e crea un nuovo messaggio e-mail.
 
@@ -31,7 +31,7 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
    >
    >Se includi più destinatari nell’e-mail, tutte le attività verranno tracciate sotto il primo destinatario.
 
-1. Componi l&#39;e-mail come di consueto, quindi fai clic su **Invia e tieni traccia**.
+1. Comporre l&#39;e-mail come si farebbe normalmente, quindi fare clic su **[!UICONTROL Send and Track]**.
 
    ![](assets/image2014-9-23-16-3a7-3a1.png)
 
@@ -41,9 +41,9 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
 
    >[!TIP]
    >
-   >Se si desidera utilizzare un modello di Marketo, vedere [Inviare e tenere traccia di Outlook utilizzando un modello](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
+   >Se desideri utilizzare un modello di Marketo, vedi [Invia e tieni traccia di [!DNL Outlook] Utilizzo di un modello](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md).
 
-1. Guarda l&#39;anteprima e fai clic su **Invia**.
+1. Visualizzare l&#39;anteprima e fare clic su **[!UICONTROL Send]**.
 
    ![](assets/image2014-9-23-16-3a7-3a13.png)
 
@@ -51,11 +51,11 @@ Puoi inviare e tenere traccia delle e-mail con Marketo direttamente da Outlook.
    >
    >La tecnologia anti-spam spesso rifiuta le aperture e i clic che si verificano entro 20 secondi dall’invio dell’e-mail, quindi attendi almeno tale tempo per aprire/fare clic durante il test.
 
-   Per vedere chi ha ricevuto le e-mail inviate tramite Outlook, crea un elenco avanzato utilizzando il filtro &quot;E-mail di vendita inviata&quot;.
+   Per vedere chi ha ricevuto le e-mail inviate tramite [!DNL Outlook], crea un elenco avanzato utilizzando il filtro &quot;[!UICONTROL Was Sent Sales Email]&quot;.
 
    ![](assets/was-sent-sales-email.png)
 
-È così facile! Anche se questa e-mail è stata inviata da Outlook di un venditore, verrà tracciata in Marketo.
+È così facile! Anche se questa e-mail è stata inviata da [!DNL Outlook] di un venditore, verrà registrata in Marketo.
 
 >[!MORELIKETHIS]
 >

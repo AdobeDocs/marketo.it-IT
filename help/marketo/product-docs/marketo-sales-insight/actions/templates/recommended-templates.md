@@ -3,18 +3,18 @@ description: Modelli consigliati - Documentazione di Marketo - Documentazione de
 title: Modelli consigliati
 exl-id: 079068c3-65e5-45c7-aa8e-63fadd1c5d02
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '280'
 ht-degree: 0%
 
 ---
 
 # Modelli consigliati {#recommended-templates}
 
-I modelli consigliati dell’azione Sales Insight consentono di ricevere i messaggi giusti e di risparmiare tempo. Questo offre un flusso maggiore durante l’invio di e-mail e riduce l’incertezza quando si tenta di trovare l’e-mail giusta per la persona giusta.
+I modelli consigliati di [!DNL Sales Insight Action] ti aiutano a ricevere i messaggi giusti risparmiando tempo. Questo offre un flusso maggiore durante l’invio di e-mail e riduce l’incertezza quando si tenta di trovare l’e-mail giusta per la persona giusta.
 
-1. Passa alla scheda Modelli.
+1. Passa alla scheda **[!UICONTROL Templates]**.
 
    ![](assets/recommended-templates-1.png)
 
@@ -22,11 +22,11 @@ I modelli consigliati dell’azione Sales Insight consentono di ricevere i messa
 
    ![](assets/recommended-templates-2.png)
 
-1. Nella scheda Modello consigliato, fai clic su **Modifica**.
+1. Nella scheda [!UICONTROL Recommended Template], fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/recommended-templates-3.png)
 
-1. Selezionare la casella di controllo **Crea modello consigliato** e fare clic su **Salva**.
+1. Selezionare la casella di controllo **[!UICONTROL Make a Recommended Template]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/recommended-templates-4.png)
 
@@ -36,7 +36,7 @@ I modelli consigliati dell’azione Sales Insight consentono di ricevere i messa
 
 ## Tutti e Qualsiasi {#all-vs-any}
 
-Seleziona **Tutti** se desideri che il tuo modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **Qualsiasi** se desideri che il tuo modello sia consigliato quando uno qualsiasi dei criteri è soddisfatto.
+Seleziona **[!UICONTROL All]** se desideri che il tuo modello sia consigliato quando tutti i criteri sono soddisfatti. Seleziona **[!UICONTROL Any]** se desideri che il tuo modello sia consigliato quando viene soddisfatto uno qualsiasi dei criteri.
 
 ## Impostazione dei criteri {#setting-criteria}
 
@@ -46,13 +46,13 @@ I criteri imposteranno le condizioni per le quali verranno consigliati i modelli
 
 Ora, seleziona la condizione. Quando vengono soddisfatte le condizioni per il campo dinamico, viene consigliato il modello. Scegli tra 4 diverse condizioni.
 
-**È uguale a**: il valore deve corrispondere esattamente (ad esempio, Marketo è uguale a Marketo)
+**[!UICONTROL Equals]**: il valore deve corrispondere esattamente (ad esempio, Marketo è uguale a Marketo)
 
-**Non è uguale a**: il valore deve essere qualsiasi cosa tranne una corrispondenza esatta (ad esempio, Marketing Nation non è uguale a Marketing)
+**[!UICONTROL Does not Equal]**: il valore deve essere qualsiasi cosa tranne una corrispondenza esatta (ad esempio, Marketing Nation non è uguale a Marketing)
 
-**Contiene**: solo deve contenere il valore (ad esempio, Marketo Rocks! contiene Marketo)
+**[!UICONTROL Contains]**: solo deve contenere il valore (ad esempio, Marketo Rocks! contiene Marketo)
 
-**Non contiene**: il valore non deve essere nel campo dinamico (ad esempio, Marketo Rocks! non contiene Awesome)
+**[!UICONTROL Does Not Contain]**: il valore non deve essere nel campo dinamico (ad esempio, Marketo Rocks! non contiene Awesome)
 
 ## Descrizione Di Un Modello Consigliato {#what-a-recommended-template-looks-like}
 

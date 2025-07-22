@@ -4,10 +4,10 @@ description: Visualizzare l’elenco dei modelli come altro utente - Documentazi
 title: Visualizza elenco modelli come altro utente
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -19,11 +19,11 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Fare clic su **Modelli**.
+1. Fai clic su **[!UICONTROL Templates]**.
 
    ![](assets/one.png)
 
-1. Fare clic sul menu a discesa **Visualizza come** e selezionare l&#39;utente desiderato.
+1. Fare clic sul menu a discesa **[!UICONTROL View As]** e selezionare l&#39;utente desiderato.
 
    ![](assets/two.png)
 
@@ -33,4 +33,4 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
 
    >[!NOTE]
    >
-   >È inoltre possibile utilizzare i filtri o la funzione di ricerca insieme a Visualizza come per visualizzare ciò che è più rilevante per te.
+   >Puoi anche utilizzare i filtri o la funzione di ricerca insieme a [!UICONTROL View As] per visualizzare ciò che ti interessa di più.

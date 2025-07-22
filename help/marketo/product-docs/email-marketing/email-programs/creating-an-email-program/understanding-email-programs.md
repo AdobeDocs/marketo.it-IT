@@ -4,9 +4,9 @@ description: Informazioni sui programmi e-mail - Documentazione di Marketo - Doc
 title: Informazioni sui programmi e-mail
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Invia e-mail, crea test A/B e tieni traccia dei risultati in un’unica posizione.
 
-## Pannello di controllo Campaign {#control-panel}
+## Pannello di controllo {#control-panel}
 
-Quattro scatole ti tengono concentrato. **Il pubblico** definisce il &quot;chi&quot;, **L&#39;e-mail** fornisce il &quot;cosa&quot;, **La pianificazione** definisce &quot;quando&quot; e **L&#39;approvazione** lo rende pronto.
+Quattro scatole ti tengono concentrato. **[!UICONTROL Audience]** definisce il &quot;chi&quot;, **[!UICONTROL Email]** fornisce il &quot;cosa&quot;, **[!UICONTROL Schedule]** definisce &quot;quando&quot; e **[!UICONTROL Approval]** lo rende pronto.
 
 ![](assets/emailprogram.png)
 

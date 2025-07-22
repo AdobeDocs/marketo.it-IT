@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571797
-description: Passaggio 2 di 3 -Creazione di un utente Salesforce per Marketo (Professional) - Documentazione Marketo - Documentazione del prodotto
-title: 'Passaggio 2 di 3: creare un utente Salesforce per Marketo (Professional)'
+description: Passaggio 2 di 3 -Creare un utente Salesforce per Marketo (Professional) - Documentazione Marketo - Documentazione del prodotto
+title: 'Passaggio 2 di 3: creazione di un utente Salesforce per Marketo (Professional)'
 exl-id: 7eb4bf89-b6e4-45e0-adee-e2976cb01dd3
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '433'
-ht-degree: 8%
+source-wordcount: '344'
+ht-degree: 0%
 
 ---
 
-# Passaggio 2 di 3: creare un utente Salesforce per Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
+# Passaggio 2 di 3: creazione di un utente [!DNL Salesforce] per Marketo (Professional) {#step-of-create-a-salesforce-user-for-marketo-professional}
 
 >[!NOTE]
 >
@@ -21,50 +21,50 @@ ht-degree: 8%
 >
 >[Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-1-of-3-add-marketo-fields-to-salesforce-professional.md){target="_blank"}
 
-In questo articolo personalizzerai le autorizzazioni per i campi con un layout di pagina Salesforce e creerai un utente di sincronizzazione Marketo-Salesforce.
+In questo articolo personalizzerai le autorizzazioni del campo con un layout di pagina [!DNL Salesforce] e creerai un utente di sincronizzazione Marketo-[!DNL Salesforce].
 
 ## Imposta layout di pagina {#set-page-layouts}
 
-Salesforce Professional imposta l&#39;accessibilità a livello di campo con Layout di pagina, anziché con i Profili di Salesforce Enterprise/Unlimited. La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i campi personalizzati.
+[!DNL Salesforce] Professional imposta l&#39;accessibilità a livello di campo con Layout di pagina, anziché con i profili di [!DNL Salesforce] Enterprise/Unlimited. La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i campi personalizzati.
 
-1. Digita &quot;[!UICONTROL layout di pagina]&quot; nella barra di ricerca di navigazione senza premere **[!UICONTROL Invio]**, quindi fai clic su **[!UICONTROL Layout di pagina]** in **[!UICONTROL Lead]**.
+1. Digitare &quot;[!UICONTROL page layouts]&quot; nella barra di ricerca di spostamento senza premere **[!UICONTROL Enter]** e fare clic su **[!UICONTROL Page Layout]** in **[!UICONTROL Leads]**.
 
    ![](assets/image2016-2-26-12-3a58-3a32.png)
 
-1. Fai clic su **[!UICONTROL Modifica]** accanto a Layout lead.
+1. Fare clic su **[!UICONTROL Edit]** accanto a Layout lead.
 
    ![](assets/image2016-2-26-13-3a2-3a46.png)
 
-1. Fai clic su e trascina una nuova **[!UICONTROL sezione]** nel layout della pagina.
+1. Fare clic e trascinare un nuovo **[!UICONTROL Section]** nel layout di pagina.
 
    ![](assets/image2014-12-9-12-3a56-3a40.png)
 
-1. Immettere &quot;Marketo&quot; per **[!UICONTROL Nome sezione]** e fare clic su **[!UICONTROL OK]**.
+1. Immettere &quot;Marketo&quot; per **[!UICONTROL Section Name]** e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-9-12-3a56-3a52.png)
 
-1. Fai clic e trascina il campo **[!UICONTROL Data acquisizione]** nella sezione **Marketo**.
+1. Fare clic e trascinare il campo **[!UICONTROL Acquisition Date]** nella sezione **Marketo**.
 
    ![](assets/image2014-12-9-12-3a57-3a0.png)
 
 1. Ripeti il passaggio precedente per i campi seguenti:
 
-   * Programma di acquisizione
-   * ID programma di acquisizione
-   * Rinuncia e-mail
-   * Città dedotta
-   * Azienda in oggetto
-   * Paese in oggetto
-   * Area metropolitana dedotta
-   * Prefisso telefonico dedotto
-   * Codice postale dedotto
-   * Area geografica dello stato dedotta
-   * Punteggio Lead
-   * Destinatario che inoltra originale
-   * Motore di ricerca originale
-   * Frase di ricerca originale
-   * Informazioni sorgente originali
-   * Tipo di sorgente originale
+   * [!UICONTROL Acquisition Program]
+   * [!UICONTROL Acquisition Program Id]
+   * [!UICONTROL Email Opt Out]
+   * [!UICONTROL Inferred City]
+   * [!UICONTROL Inferred Company]
+   * [!UICONTROL Inferred Country]
+   * [!UICONTROL Inferred Metropolitan Area]
+   * [!UICONTROL Inferred Phone Area Code]
+   * [!UICONTROL Inferred Postal Code]
+   * [!UICONTROL Inferred State Region]
+   * [!UICONTROL Lead Score]
+   * [!UICONTROL Original Referrer]
+   * [!UICONTROL Original Search Engine]
+   * [!UICONTROL Original Search Phrase]
+   * [!UICONTROL Original Source Info]
+   * [!UICONTROL Original Source Type]
 
    >[!NOTE]
    >
@@ -74,39 +74,39 @@ Salesforce Professional imposta l&#39;accessibilità a livello di campo con Layo
    >
    >Per creare due colonne per i campi, trascinare verso il basso il lato destro della pagina. È possibile spostare i campi da un lato all&#39;altro per bilanciare la lunghezza delle colonne.
 
-1. Fai clic su **[!UICONTROL Salva]** al termine dell&#39;aggiunta dei campi.
+1. Fare clic su **[!UICONTROL Save]** al termine dell&#39;aggiunta dei campi.
 
    ![](assets/image2014-12-9-12-3a57-3a10.png)
 
-1. Ripeti tutti i passaggi precedenti per Salesforce **[!UICONTROL Layout pagina contatti]**.
+1. Ripetere tutti i passaggi precedenti per Salesforce **[!UICONTROL Contact Page Layout]**.
 
    ![](assets/image2016-2-26-13-3a10-3a1.png)
 
-1. Ricordati di fare clic su **[!UICONTROL Salva]** al termine del **[!UICONTROL Layout pagina contatti]**.
+1. Ricordarsi di fare clic su **[!UICONTROL Save]** al termine dell&#39;operazione con **[!UICONTROL Contact Page Layout]**.
 
    ![](assets/image2014-12-9-12-3a57-3a30.png)
 
    >[!NOTE]
    >
-   >Assicurarsi che il campo **[!UICONTROL Evento giornata intera]** sia stato aggiunto al **[!UICONTROL Layout pagina evento]**.
+   >Verificare che il campo **[!UICONTROL All-Day Event]** sia stato aggiunto a **[!UICONTROL Event Page Layout]**.
 
 ## Crea utente di sincronizzazione {#create-sync-user}
 
-Marketo richiede le credenziali per accedere a Salesforce. Questa operazione può essere eseguita con un utente dedicato creato con i passaggi seguenti.
+Marketo richiede le credenziali per accedere a [!DNL Salesforce]. Questa operazione può essere eseguita con un utente dedicato creato con i passaggi seguenti.
 
 >[!NOTE]
 >
 >Se la tua organizzazione non dispone di licenze Salesforce aggiuntive, puoi utilizzare un utente Marketing esistente con il profilo Amministratore di sistema.
 
-1. Immetti &quot;users&quot; (Utenti) nella barra di ricerca di navigazione e fai clic su **[!UICONTROL Users]** in **[!UICONTROL Manage Users]**.
+1. Immettere &quot;utenti&quot; nella barra di ricerca di navigazione e fare clic su **[!UICONTROL Users]** in **[!UICONTROL Manage Users]**.
 
    ![](assets/image2014-12-9-12-3a57-3a42.png)
 
-1. Fare clic su **[!UICONTROL Nuovo utente]**.
+1. Fai clic su **[!UICONTROL New User]**.
 
    ![](assets/image2014-12-9-12-3a58-3a1.png)
 
-1. Compila i campi obbligatori, seleziona la **[!UICONTROL licenza utente: Salesforce]**, imposta il **[!UICONTROL profilo: amministratore di sistema]**, seleziona **[!UICONTROL utente marketing]** e fai clic su **[!UICONTROL Salva]**.
+1. Compila i campi obbligatori, seleziona **[!UICONTROL User License: Salesforce]**, imposta **[!UICONTROL Profile: System Administrator]**, seleziona **[!UICONTROL Marketing User]** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-12-3a58-3a11.png)
 
@@ -114,8 +114,8 @@ Marketo richiede le credenziali per accedere a Salesforce. Questa operazione pu�
    >
    >Verifica che l’indirizzo e-mail inserito sia valido. Per reimpostare la password è necessario accedere come utente di sincronizzazione.
 
-Eccellente! Ora disponi di un account che Marketo può utilizzare per connettersi a Salesforce. Facciamolo.
+Eccellente! Ora disponi di un account che Marketo può utilizzare per connettersi a [!DNL Salesforce]. Facciamolo.
 
 >[!MORELIKETHIS]
 >
->[Passaggio 3 di 3: connettere Marketo e Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}
+>[Passaggio 3 di 3: connessione di Marketo e Salesforce (Professional)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-3-of-3-connect-marketo-and-salesforce-professional.md){target="_blank"}

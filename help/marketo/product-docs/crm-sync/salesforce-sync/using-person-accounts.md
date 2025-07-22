@@ -4,24 +4,24 @@ description: Utilizzo degli account persona - Documentazione di Marketo - Docume
 title: Utilizzo degli account persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 4045f262889d06304111288d30da893529396e81
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
 
 # Utilizzo degli account persona {#using-person-accounts}
 
-Gli account della persona possono essere impostati in Salesforce in base alle esigenze della tua organizzazione. Ecco come il Marketo Engage tratta gli account personali.
+Gli account personali possono essere impostati in Salesforce in base alle esigenze della tua organizzazione. Ecco come Marketo Engage tratta gli account personali.
 
 >[!NOTE]
 >
->Gli account Salesforce predefiniti sono account aziendali. L’amministratore Salesforce deve impostare separatamente gli account personali.
+>Gli account [!DNL Salesforce] predefiniti sono account aziendali. L&#39;amministratore di [!DNL Salesforce] deve impostare gli account personali separatamente.
 
 ## Che cos&#39;è un account persona? {#what-is-a-person-account}
 
-Un account persona è molto simile all’oggetto account in Salesforce. Tuttavia, un account persona ha accesso sia ai campi account che ai campi contatto.
+Un account persona è molto simile all&#39;oggetto account in [!DNL Salesforce]. Tuttavia, un account persona ha accesso sia ai campi account che ai campi contatto.
 
 ## Cosa succede quando un account persona viene sincronizzato con Marketo? {#what-happens-when-a-person-account-is-synced-to-marketo}
 
@@ -41,7 +41,7 @@ Le attività relative agli account persona vengono visualizzate nel pannello **[
 
 >[!NOTE]
 >
->Le opzioni **[!UICONTROL Aggiungi a Marketo Campaign]** e **[!UICONTROL Invia e-mail]** di Marketo Sales Insight non sono attualmente disponibili per gli account personali.
+>Le opzioni **[!UICONTROL Add to Marketo Campaign]** e **[!UICONTROL Send Email]** di Marketo Sales Insight non sono attualmente disponibili per gli account personali.
 
 ## Come si associano le opportunità a un account personale? {#how-do-i-associate-opportunities-to-a-person-account}
 
@@ -49,4 +49,4 @@ Marketo dipende dal ruolo di contatto dell’opportunità per determinare a qual
 
 ## Quale campo e-mail utilizzare per gli account persona? {#which-email-field-should-i-use-for-person-accounts}
 
-Per un account persona sono disponibili due campi e-mail. Utilizza il campo **Indirizzo e-mail** nei moduli (non **Indirizzo e-mail persona**) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre elaborazioni e-mail.
+Per un account persona sono disponibili due campi e-mail. Utilizza il campo **[!UICONTROL Email Address]** nei moduli (non **[!UICONTROL Person Email Address]**) per garantire il corretto funzionamento della deduplicazione di Marketo e di altre elaborazioni e-mail.

@@ -3,10 +3,10 @@ description: Motivi delle chiamate - Documentazione Marketo - Documentazione del
 title: Motivi della chiamata
 exl-id: 79e87daf-3af6-4e62-bc76-a920867e2dd2
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
@@ -20,15 +20,15 @@ Consenti ai team di vendita di selezionare i motivi della chiamata quando si eff
 
 ## Abilita motivi di chiamata {#enable-call-reasons}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/call-reasons-1.png)
 
-1. In Impostazioni amministratore selezionare **Connessione**.
+1. In [!UICONTROL Admin Settings] selezionare **[!UICONTROL Dialer]**.
 
    ![](assets/call-reasons-2.png)
 
-1. Selezionare **Abilita motivi chiamata**.
+1. Seleziona **[!UICONTROL Enable call reasons]**.
 
    ![](assets/call-reasons-3.png)
 
@@ -42,19 +42,19 @@ Consenti ai team di vendita di selezionare i motivi della chiamata quando si eff
 >
 >Puoi creare un massimo di 15 motivi di chiamata.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/call-reasons-5.png)
 
-1. In Impostazioni amministratore selezionare **Connessione**.
+1. In [!UICONTROL Admin Settings] selezionare **[!UICONTROL Dialer]**.
 
    ![](assets/call-reasons-6.png)
 
-1. Fai clic su **Gestisci motivi chiamata**.
+1. Fai clic su **[!UICONTROL Manage call reasons]**.
 
    ![](assets/call-reasons-7.png)
 
-1. Immetti il nome del motivo di chiamata desiderato nel campo di testo e fai clic su **Aggiungi**.
+1. Immettere il nome del motivo di chiamata desiderato nel campo di testo e fare clic su **[!UICONTROL Add]**.
 
    ![](assets/call-reasons-8.png)
 
@@ -66,7 +66,7 @@ Una volta abilitati i motivi della chiamata. Gli utenti possono selezionarne uno
 
    ![](assets/call-reasons-9.png)
 
-1. Immetti le informazioni sulla chiamata nella composizione e fai clic su **Chiama**.
+1. Immettere le informazioni sulla chiamata nella composizione e fare clic su **[!UICONTROL Call]**.
 
    ![](assets/call-reasons-10.png)
 

@@ -4,9 +4,9 @@ description: Modifica contenuto predittivo per la barra dei consigli - Documenti
 title: Modifica contenuto predittivo per la barra dei consigli
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '72'
 ht-degree: 2%
 
 ---
@@ -19,11 +19,11 @@ Per impostare il contenuto predittivo per la barra dei consigli, procedere come 
 >
 >Il contenuto deve essere [approvato per il contenuto predittivo](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md) nella pagina Tutti i contenuti.
 
-1. Nella pagina **Contenuto predittivo** fare clic su un titolo per aprire l&#39;editor.
+1. Nella pagina **[!UICONTROL Predictive Content]**, fare clic su un titolo per aprire l&#39;editor.
 
    ![](assets/image2017-10-3-9-3a45-3a13.png)
 
-1. Fare clic su **Barra**.
+1. Fai clic su **[!UICONTROL Bar]**.
 
    ![](assets/image2017-10-3-9-3a45-3a48.png)
 
@@ -31,6 +31,6 @@ Per impostare il contenuto predittivo per la barra dei consigli, procedere come 
 
    ![](assets/image2017-10-3-9-3a46-3a18.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/save.png)

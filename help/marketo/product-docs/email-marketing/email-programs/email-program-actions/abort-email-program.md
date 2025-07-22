@@ -4,9 +4,9 @@ description: Interrompi programma e-mail - Documentazione Marketo - Documentazio
 title: Interrompi programma e-mail
 exl-id: 6fd7bd9d-5b1f-4278-ba65-1b38dbbcc2cd
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Ops! Premi il freno! Questo programma e-mail non deve uscire.
 >
 >Questo articolo ha lo scopo di aiutarti a impedire che le e-mail escano prima che vengano inviate. Non è possibile richiamare le e-mail inviate.
 
-1. In un programma di posta elettronica, fare clic su **Interrompi programma**.
+1. In un programma di posta elettronica, fare clic su **[!UICONTROL Abort Program]**.
 
    ![](assets/dashboardleads.jpg)
 
-1. Fai clic su **Interrompi** per una conferma completa.
+1. Fare clic su **[!UICONTROL Abort]** per una conferma completa.
 
    ![](assets/image2015-5-20-15-3a24-3a35.png)
 

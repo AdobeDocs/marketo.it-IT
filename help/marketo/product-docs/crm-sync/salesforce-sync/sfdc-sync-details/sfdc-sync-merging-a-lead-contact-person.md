@@ -4,9 +4,9 @@ description: Sincronizzazione SFDC - Unione di lead/contatti/persone - Documenti
 title: Sincronizzazione SFDC - Unione di lead/contatti/persone
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
-source-git-commit: 0087a5e88b8bd9601875f68a2e7cadeebdb5d682
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 A volte è meglio elencare semplicemente le regole. Eccoci qui:
 
-* Quando si uniscono due lead in **Salesforce**, la sincronizzazione normale comunica al Marketo Engage e i lead vengono uniti automaticamente come persone in Marketo.
-* L&#39;unione di due persone in **Marketo** richiama lo stesso processo utilizzato per unirle come lead in Salesforce. Funziona comunque automaticamente.
+* Quando si uniscono due lead in **[!DNL Salesforce]**, la sincronizzazione normale comunica a Marketo e i lead vengono uniti automaticamente come persone in Marketo.
+* L&#39;unione di due persone in **Marketo** richiama lo stesso processo utilizzato per unirle come lead in [!DNL Salesforce]. Funziona comunque automaticamente.
 * L&#39;unione di un **lead (persona) in un contatto** funziona allo stesso modo. Si finisce con un unico contatto su entrambi i lati.
 * Durante l’unione, viene sommato il punteggio predefinito.
 

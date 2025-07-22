@@ -4,9 +4,9 @@ description: Abilitare/disabilitare i limiti di comunicazione in un programma e-
 title: Abilitare/disabilitare i limiti di comunicazione in un programma e-mail
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Quando esegui un programma e-mail, puoi scegliere di ignorare o rispettare i [li
 >
 >I limiti di comunicazione sono [impostati nella sezione Amministratore](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ti aiutano a evitare di inviare troppe e-mail a una persona.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -27,12 +27,12 @@ Quando esegui un programma e-mail, puoi scegliere di ignorare o rispettare i [li
 
    ![](assets/selectemailprogram-3.jpg)
 
-1. Nella scheda **Configurazione** fare doppio clic sulla riga del limite di comunicazione.
+1. Nella scheda **[!UICONTROL Setup]** fare doppio clic sulla riga del limite di comunicazione.
 
    ![](assets/blockoperational.png)
 
-1. Per impostazione predefinita, le e-mail non operative vengono bloccate se vengono raggiunti i limiti di comunicazione, ma se desideri ignorarle, deseleziona la casella di controllo e fai clic su **Salva**.
+1. Per impostazione predefinita, le e-mail non operative vengono bloccate se vengono raggiunti i limiti di comunicazione, ma se desideri ignorarle, deseleziona la casella di controllo e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/ifaperson.jpg)
 
-   Se si lascia selezionata l&#39;opzione **Blocca e-mail non operative**, non sarà possibile inviare l&#39;e-mail a chiunque abbia ricevuto più e-mail di quelle consentite dalle impostazioni di amministrazione.
+   Lasciando selezionato **[!UICONTROL Block non-operational emails]**, si impedirà l&#39;invio dell&#39;e-mail a chiunque abbia ricevuto più e-mail di quelle consentite dalle impostazioni di amministrazione.

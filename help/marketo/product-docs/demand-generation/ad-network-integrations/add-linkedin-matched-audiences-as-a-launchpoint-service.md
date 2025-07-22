@@ -1,68 +1,68 @@
 ---
 unique-page-id: 7504163
-description: Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint
+description: Aggiungi [!DNL LinkedIn] tipi di pubblico corrispondenti come servizio  [!DNL LaunchPoint] - Documentazione Marketo - Documentazione del prodotto
+title: 'Aggiungi [!DNL LinkedIn] tipi di pubblico corrispondenti come servizio [!DNL LaunchPoint] '
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 94ca714d038863ad801551960c66086ea47e6b10
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 1%
 
 ---
 
-# Aggiungere tipi di pubblico LinkedIn corrispondenti come servizio LaunchPoint {#add-linkedin-matched-audiences-as-a-launchpoint-service}
+# Aggiungi [!DNL LinkedIn] tipi di pubblico corrispondenti come servizio [!DNL LaunchPoint] {#add-linkedin-matched-audiences-as-a-launchpoint-service}
 
 >[!IMPORTANT]
 >
->LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni Marketo Engage LinkedIn. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024. Per ulteriori informazioni, vedere le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni LinkedIn di Marketo Engage. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024. Per ulteriori informazioni, consulta le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-Connetti l’account di Marketo Engage con LinkedIn Matched Audiences per utilizzare un elenco statico di Marketo o un elenco avanzato come segmento di pubblico di LinkedIn.
+Connetti il tuo account Marketo con [!DNL LinkedIn] tipi di pubblico corrispondenti per utilizzare un elenco statico o un elenco avanzato di Marketo come segmento di pubblico [!DNL LinkedIn].
 
-1. Vai alla sezione **[!UICONTROL Amministratore]**.
+1. Passare alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Selezionare **[!UICONTROL LaunchPoint]**.
+1. Seleziona **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionare **[!UICONTROL Nuovo]** e **[!UICONTROL Nuovo servizio]**.
+1. Selezionare **[!UICONTROL New]** e **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]** e scegli **[!UICONTROL Tipi di pubblico corrispondenti a LinkedIn]**. Fai clic su **[!UICONTROL Crea]**.
+1. Immettere **[!UICONTROL Display Name]** e scegliere **[!UICONTROL LinkedIn Matched Audiences]**. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a25-3a39.png)
 
-1. Per connettere un account LinkedIn, fare clic su **[!UICONTROL Autorizza]**.
+1. Per connettere un account [!DNL LinkedIn], fare clic su **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount.png)
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare tipi di pubblico su più account LinkedIn Ad, l&#39;utente LinkedIn che autorizzi nei passaggi seguenti deve avere accesso a *tutti* di questi account Ad nel proprio Campaign Manager.
+   >Affinché Marketo possa inviare tipi di pubblico su più account di annunci [!DNL LinkedIn], l&#39;utente [!DNL LinkedIn] autorizzato nei passaggi seguenti deve avere accesso a *tutti* di questi account di annunci nel proprio manager di Campaign.
 
-1. LinkedIn si apre in una nuova scheda. Da qui, accedi al tuo account LinkedIn.
+1. [!DNL LinkedIn] si apre in una nuova scheda. Da qui, accedi al tuo account [!DNL LinkedIn].
 
    ![](assets/image2018-2-23-14-3a32-3a20.png)
 
-1. Rivedi le autorizzazioni richieste, quindi fai clic su **[!UICONTROL Consenti]**.
+1. Rivedere le autorizzazioni richieste, quindi fare clic su **[!UICONTROL Allow]**.
 
    ![](assets/li-permissions.png)
 
-1. Il tuo account LinkedIn è ora connesso a Marketo. Fai clic su **[!UICONTROL Crea]**.
+1. L&#39;account [!DNL LinkedIn] è ora connesso a Marketo. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Fantastico! Ora i tipi di pubblico corrispondenti a LinkedIn sono elencati come servizio LaunchPoint nella scheda Servizi installati.
+   Fantastico! Ora nella scheda Servizi installati vengono visualizzati [!DNL LinkedIn] tipi di pubblico corrispondenti elencati come servizio [!DNL LaunchPoint].
 
    ![](assets/bartholomew2.png)
 
 >[!MORELIKETHIS]
 >
->[Utilizzare un elenco Marketo o un elenco avanzato come segmento di pubblico LinkedIn](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md){target="_blank"}
+>[Utilizza un elenco Marketo o un elenco avanzato come  [!DNL LinkedIn] segmento di pubblico](/help/marketo/product-docs/demand-generation/social/social-functions/use-a-marketo-list-or-smart-list-as-a-linkedin-audience-segment.md)

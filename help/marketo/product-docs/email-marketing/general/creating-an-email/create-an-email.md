@@ -4,9 +4,9 @@ description: Creazione di un messaggio e-mail - Documenti Marketo - Documentazio
 title: Creare un messaggio e-mail
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
@@ -17,31 +17,31 @@ Esistono due modi principali per creare un’e-mail in Marketo. Guardiamo entram
 
 ## Creare un messaggio e-mail in Design Studio {#create-an-email-in-the-design-studio}
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/create-an-email-1.png)
 
-1. Fai clic sul menu a discesa **Nuovo** e seleziona **Nuovo messaggio e-mail**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Email]**.
 
    ![](assets/create-an-email-2.png)
 
    >[!NOTE]
    >
-   >Quando si crea un&#39;e-mail in Design Studio, è possibile trovarla nella struttura in &quot;E-mail&quot;.
+   >Quando crei un&#39;e-mail in [!UICONTROL Design Studio], si trova nella struttura in &quot;[!UICONTROL Emails]&quot;.
 
 Semplice! Ora per il contrario...
 
 ## Creare un messaggio e-mail nelle attività di marketing {#create-an-email-in-marketing-activities}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-an-email-3.png)
 
-1. Seleziona il programma a cui desideri aggiungere l&#39;e-mail, fai clic sul menu a discesa **Nuovo** e seleziona **Nuova risorsa locale**.
+1. Selezionare il programma a cui si desidera aggiungere l&#39;e-mail, fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/create-an-email-4.png)
 
-1. Fai clic su **E-mail**.
+1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/create-an-email-5.png)
 
@@ -49,13 +49,13 @@ Semplice! Ora per il contrario...
 
 Il metodo scelto consente di passare al selettore di modelli.
 
-1. Assegna un nome alla tua e-mail, fai clic sul modello da utilizzare, quindi fai clic su **Crea**.
+1. Assegna un nome alla tua e-mail, fai clic sul modello che desideri utilizzare, quindi fai clic su **[!UICONTROL Create]**.
 
    ![](assets/create-an-email-6.png)
 
    >[!NOTE]
    >
-   >Puoi scegliere tra una raccolta di modelli di e-mail reattive pronti all&#39;uso o un modello salvato selezionando prima **Modelli personali** e seguendo gli stessi passaggi.
+   >È possibile scegliere tra una raccolta di modelli di e-mail dinamici pronti all&#39;uso o un modello salvato selezionando prima **[!UICONTROL My Templates]** e seguendo gli stessi passaggi.
 
 1. Immettere un oggetto. Il limite di caratteri consigliato è 50.
 

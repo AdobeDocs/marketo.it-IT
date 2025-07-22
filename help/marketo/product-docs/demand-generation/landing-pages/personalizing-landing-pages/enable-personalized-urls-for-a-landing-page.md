@@ -4,9 +4,9 @@ description: Abilitare URL personalizzati per una pagina di destinazione - Docum
 title: Abilitare URL personalizzati per una pagina di destinazione
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 >
 >[Abilita URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 
-1. Selezionare una pagina di destinazione e fare clic sulle impostazioni per **URL personalizzato**.
+1. Selezionare una pagina di destinazione e fare clic sulle impostazioni per **[!UICONTROL Personalized URL]**.
 
    ![](assets/image2014-9-18-13-3a24-3a3.png)
 
-1. Ora puoi selezionare **Abilita URL personalizzati** e fare clic su **Salva**.
+1. Ora puoi controllare **[!UICONTROL Enable Personalized URL]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a23-3a53.png)
 

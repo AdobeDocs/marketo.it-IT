@@ -4,30 +4,30 @@ description: Aggiungere un collegamento Visualizza come pagina web a un messaggi
 title: Aggiungere a un messaggio e-mail un collegamento Visualizza come pagina web
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
 # Aggiungere a un messaggio e-mail un collegamento Visualizza come pagina web {#add-a-view-as-web-page-link-to-an-email}
 
-Le e-mail hanno funzionalità limitate (CSS limitate e nessun JavaScript o modulo). Utilizza Visualizza come pagina web per fornire un collegamento che consenta di visualizzare l’e-mail in un browser. In questo modo il destinatario verrà cookie utilizzando Munchkin.
+Le e-mail hanno funzionalità limitate (CSS limitate e nessun JavaScript o modulo). Utilizza Visualizza come pagina web per fornire un collegamento che consenta di visualizzare l’e-mail in un browser. Il destinatario verrà cookie utilizzando [!DNL Munchkin].
 
 >[!NOTE]
 >
 >Durante la creazione di una nuova e-mail, l’opzione Visualizza come pagina web non è abilitata. Se lo abiliti e cloni l’e-mail, questa impostazione verrà copiata.
 
-1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-5.png)
 
-1. Nell&#39;editor di posta elettronica fare clic su **Impostazioni posta elettronica**.
+1. Nell&#39;editor di posta elettronica fare clic su **[!UICONTROL Email Settings]**.
 
    ![](assets/two-5.png)
 
-1. Selezionare la casella **Includi visualizzazione come pagina Web** e fare clic su **Salva**.
+1. Selezionare la casella **[!UICONTROL Include View as Web Page Link]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/three-4.png)
 

@@ -1,26 +1,26 @@
 ---
-description: Aggiunta della scheda Marketo a Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Aggiungere la scheda Marketo a Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Aggiungi scheda Marketo a Salesforce
 exl-id: dbe01de0-a01a-4a6e-ae89-5dc5cfa8d0b1
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# Aggiungi scheda Marketo a Salesforce {#add-marketo-tab-to-salesforce}
+# Aggiungi scheda Marketo a [!DNL Salesforce] {#add-marketo-tab-to-salesforce}
 
-1. In Salesforce, fai clic su **+** e fai clic su **Personalizza schede**.
+1. In [!DNL Salesforce], fare clic su **+** e quindi su **[!UICONTROL Customize My Tabs]**.
 
    ![](assets/add-marketo-tab-to-salesforce-1.png)
 
-1. Seleziona Marketo nell’elenco a sinistra. Quindi fai clic su **Aggiungi** per aggiungerlo alle **Schede selezionate**.
+1. Seleziona Marketo nell’elenco a sinistra. Quindi fare clic su **[!UICONTROL Add]** per aggiungerlo alle **[!UICONTROL Selected]schede**.
 
    >[!TIP]
    >
-   >Utilizza la freccia **Su** e **Giù** per riordinare le schede.
+   >Utilizza le frecce **[!UICONTROL Up]** e **[!UICONTROL Down]** per riordinare le schede.
 
    ![](assets/add-marketo-tab-to-salesforce-2.png)
 

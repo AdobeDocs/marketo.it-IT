@@ -4,10 +4,10 @@ description: Disabilita precompilazione per un campo modulo - Documenti Marketo 
 title: Disabilita precompilazione per un campo modulo
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 1%
 
 ---
 
@@ -23,11 +23,11 @@ Quando un visitatore web è noto (cookie), i moduli Marketo precompilano i campi
 
 ## Come disattivare la precompilazione {#how-to-disable-pre-fill}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-7.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-14-3a26-3a46.png)
 
@@ -35,7 +35,7 @@ Quando un visitatore web è noto (cookie), i moduli Marketo precompilano i campi
    >
    >La precompilazione del modulo non funziona quando si incorpora un modulo sulle proprie pagine. Funziona solo sulle pagine di destinazione di Marketo.
 
-1. Selezionare uno dei campi e impostare **Precompilazione modulo** su **Disabilitato**.
+1. Selezionare uno dei campi e impostare **[!UICONTROL Form Pre-fill]** su **[!UICONTROL Disabled]**.
 
    ![](assets/image2014-9-15-14-3a26-3a54.png)
 
@@ -43,11 +43,11 @@ Quando un visitatore web è noto (cookie), i moduli Marketo precompilano i campi
    >
    >Puoi anche disattivare la precompilazione dei moduli a livello di pagina di destinazione o di amministratore.
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-14-3a27-3a1.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-14-3a27-3a6.png)
 

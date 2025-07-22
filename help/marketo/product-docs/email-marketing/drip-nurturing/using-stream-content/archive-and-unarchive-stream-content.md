@@ -4,10 +4,10 @@ description: Archiviare e annullare l’archiviazione dei contenuti in streaming
 title: Archiviazione e annullamento dell'archiviazione dei contenuti in streaming
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 1%
 
 ---
 
@@ -21,27 +21,27 @@ Se non desideri più utilizzare una parte di contenuto in un flusso, puoi [rimuo
 
 ## Archivia contenuto flusso {#archive-stream-content}
 
-1. Seleziona il programma di coinvolgimento e passa alla scheda **Streams**.
+1. Selezionare il programma di coinvolgimento e passare alla scheda **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-4.jpg)
 
-1. Passa il puntatore del mouse sull&#39;e-mail che desideri archiviare, quindi fai clic su **Archivia** sotto l&#39;icona a forma di ingranaggio.
+1. Passa il puntatore del mouse sull&#39;e-mail che desideri archiviare, quindi fai clic su **[!UICONTROL Archive]** sotto l&#39;icona a forma di ingranaggio.
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Tutto qui! Ricorda, archivia se desideri preservare la cronologia.
+   Tutto qui. Ricorda, archivia se desideri preservare la cronologia.
 
 ## Annulla archiviazione contenuto flusso {#unarchive-stream-content}
 
-1. Seleziona il programma di coinvolgimento e passa alla scheda **Streams**.
+1. Selezionare il programma di coinvolgimento e passare alla scheda **[!UICONTROL Streams]**.
 
    ![](assets/image2014-9-15-17-3a42-3a11.png)
 
-1. Fai clic sull&#39;icona a forma di ingranaggio del flusso, quindi fai clic su **Mostra contenuto archiviato**.
+1. Fai clic sull&#39;icona a forma di ingranaggio del flusso, quindi fai clic su **[!UICONTROL Show archived content]**.
 
    ![](assets/image2014-9-15-17-3a42-3a15.png)
 
-1. Ora che puoi visualizzare il contenuto archiviato, fai clic sull&#39;icona a forma di ingranaggio del contenuto di cui vuoi annullare l&#39;archiviazione, quindi fai clic su **Annulla archiviazione**.
+1. Ora che puoi visualizzare il contenuto archiviato, fai clic sull&#39;icona a forma di ingranaggio del contenuto di cui vuoi annullare l&#39;archiviazione, quindi fai clic su **[!UICONTROL Unarchive]**.
 
    ![](assets/image2014-9-15-17-3a42-3a24.png)
 

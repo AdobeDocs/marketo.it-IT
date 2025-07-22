@@ -4,9 +4,9 @@ description: Attivare e disattivare un programma di coinvolgimento - Documentazi
 title: Attivare e disattivare un programma di coinvolgimento
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 È possibile disattivare un programma di coinvolgimento con la pressione di un interruttore. Questo impedirà l’invio di qualsiasi contenuto. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare il programma di coinvolgimento e fare clic su **Configurazione**.
+1. Selezionare il programma di coinvolgimento e fare clic su **[!UICONTROL Setup]**.
 
    >[!NOTE]
    >
@@ -27,11 +27,11 @@ ht-degree: 0%
 
    ![](assets/image2014-9-15-17-3a14-3a56.png)
 
-1. Fare doppio clic su **Stato programma**.
+1. Fare doppio clic su **[!UICONTROL Program Status]**.
 
    ![](assets/image2014-9-15-17-3a14-3a59.png)
 
-1. Seleziona **Disattivato** e fai clic su **Salva**.
+1. Selezionare **[!UICONTROL Off]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a15-3a2.png)
 

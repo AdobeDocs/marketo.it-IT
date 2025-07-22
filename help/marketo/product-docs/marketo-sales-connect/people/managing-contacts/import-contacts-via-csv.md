@@ -4,26 +4,26 @@ description: Importare contatti tramite CSV - Documentazione di Marketo - Docume
 title: Importa contatti tramite CSV
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 1%
 
 ---
 
 # Importa contatti tramite CSV {#import-contacts-via-csv}
 
-La presenza di contatti nella pagina Persone è importante perché è da lì che estraiamo le informazioni personalizzate per compilarle automaticamente nei campi dinamici dei modelli. Assicurati di disporre di almeno un nome e un indirizzo e-mail per ciascun contatto nel file CSV e di eseguire la mappatura su tali campi.
+La presenza di contatti nella pagina [!UICONTROL People] è importante perché è da lì che estraiamo le informazioni personalizzate per il riempimento automatico nei campi dinamici dei modelli. Assicurati di disporre di almeno un nome e un indirizzo e-mail per ciascun contatto nel file CSV e di eseguire la mappatura su tali campi.
 
-1. Seleziona il gruppo (o creane uno nuovo) nella scheda Persone.
+1. Selezionare il gruppo o crearne uno nuovo nella scheda [!UICONTROL People].
 
    ![](assets/one.png)
 
-1. Fai clic su **Azioni gruppo** e seleziona **Importa CSV**.
+1. Fare clic su **[!UICONTROL Group Actions]** e selezionare **[!UICONTROL Import from CSV]**.
 
    ![](assets/two.png)
 
-1. Fare clic su **Sfoglia**.
+1. Fai clic su **[!UICONTROL Browse]**.
 
    ![](assets/three.png)
 
@@ -33,10 +33,10 @@ La presenza di contatti nella pagina Persone è importante perché è da lì che
    >
    >I gruppi sono limitati a 1000 contatti.
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/four.png)
 
-1. Mappa le colonne nel file CSV ai rispettivi campi in Sales Connect. Al termine, fai clic su **Avanti**.
+1. Mappa le colonne nel file CSV ai rispettivi campi in [!DNL Sales Connect]. Al termine, fai clic su **[!UICONTROL Next]**.
 
    ![](assets/five.png)

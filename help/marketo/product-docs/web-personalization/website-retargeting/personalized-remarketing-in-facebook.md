@@ -1,62 +1,62 @@
 ---
 unique-page-id: 4720917
-description: Remarketing personalizzato in Facebook - Documentazione Marketo - Documentazione del prodotto
+description: Remarketing personalizzato in Facebook - Documentazione di Marketo - Documentazione del prodotto
 title: Remarketing personalizzato in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 1%
+source-wordcount: '254'
+ht-degree: 6%
 
 ---
 
-# Remarketing personalizzato in Facebook {#personalized-remarketing-in-facebook}
+# Remarketing personalizzato in [!DNL Facebook] {#personalized-remarketing-in-facebook}
 
-Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti utilizzando i dati RTP e la potenza del remarketing Facebook.
+Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti utilizzando i dati RTP e la potenza del remarketing su Facebook.
 
 >[!PREREQUISITES]
 >
 >* Completare l&#39;installazione di [Retargeting con dati Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Rivedi la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentazione di Facebook su tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e remarketing.
+>* Rivedi la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentazione di Facebook su tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e remarketing.
 
-## Creazione di un pubblico in Facebook {#creating-an-audience-in-facebook}
+## Creazione di un pubblico in [!DNL Facebook] {#creating-an-audience-in-facebook}
 
-1. In Facebook, vai alla [scheda Pubblico](https://www.facebook.com/ads/audience_manager) in Ads Manager.
+1. In [!DNL Facebook], vai alla [scheda Pubblico](https://www.facebook.com/ads/audience_manager) in Ads Manager.
 
-1. Fai clic su **Strumenti** e seleziona **Tipi di pubblico**.
+1. Fare clic su **[!UICONTROL Tools]** e selezionare **[!UICONTROL Audiences]**.
 
    ![](assets/one-1.png)
 
-1. Fai clic su **Crea un pubblico personalizzato**.
+1. Fai clic su **[!UICONTROL Create a Custom Audience]**.
 
    ![](assets/two-1.png)
 
-1. Seleziona **Traffico sito Web**.
+1. Seleziona **[!UICONTROL Website Traffic]**.
 
    ![](assets/image2015-1-19-16-3a32-3a2.png)
 
-1. Nell&#39;elenco Traffico sito Web selezionare **Combinazione personalizzata**.
+1. Nell&#39;elenco [!UICONTROL Website traffic], selezionare **[!UICONTROL Custom Combination]**.
 
    ![](assets/image2015-1-19-16-3a33-3a21.png)
 
-1. Nell&#39;elenco Includi selezionare **Evento**.
+1. Nell&#39;elenco Includi selezionare **[!UICONTROL Event]**.
 
    ![](assets/image2015-1-19-16-3a34-3a9.png)
 
-1. Nell&#39;elenco Evento, selezionare **Remarketing RTP** e selezionare un parametro.
+1. Nell&#39;elenco [!UICONTROL Event], selezionare **[!UICONTROL RTP Remarketing]** e selezionare un parametro.
 
    ![](assets/image2015-1-19-16-3a52-3a29.png)
 
-1. Per questo esempio, seleziona Settore per contenere **Istruzione**. Immetti **Istruzione** e modifica **Negli ultimi** in modo che siano 180 giorni. Immetti Nome Pubblico: **Settore Dell&#39;Istruzione**. Fai clic su **Crea pubblico**.
+1. Per questo esempio, selezionare [!UICONTROL Industry] per contenere **[!UICONTROL Education]**. Immettere **[!UICONTROL Education]** e modificare **[!UICONTROL In the Last]** in 180 giorni. Immetti Nome Pubblico: **Settore Dell&#39;Istruzione**. Fai clic su **[!UICONTROL Create Audience]**.
 
    ![](assets/image2015-1-19-16-3a56-3a15.png)
 
-1. Ora hai creato un nuovo pubblico personalizzato utilizzando i dati RTP in Facebook.
+1. È stato creato un nuovo pubblico personalizzato utilizzando i dati RTP in [!DNL Facebook].
 
    ![](assets/image2015-1-19-16-3a59-3a2.png)
 
-## Punti dati RTP in Facebook {#rtp-data-points-in-facebook}
+## Punti dati RTP in [!DNL Facebook] {#rtp-data-points-in-facebook}
 
 <table> 
  <tbody> 
@@ -105,11 +105,11 @@ Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti util
 
 Per ulteriori dettagli, consulta la [documentazione di Facebook](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#target-your-audience).
 
-1. Vai ad Ads Manager, fai clic su **Crea annuncio**.
+1. Vai ad Ads Manager, fai clic su **[!UICONTROL Create Ad]**.
 
    ![](assets/image2015-1-19-17-3a10-3a19.png)
 
-1. Seleziona **Invia persone al tuo sito Web** come obiettivo della campagna.
+1. Seleziona **[!UICONTROL Send people to your website]** come obiettivo della campagna.
 
    ![](assets/image2015-1-19-17-3a11-3a20.png)
 
@@ -125,7 +125,7 @@ Per ulteriori dettagli, consulta la [documentazione di Facebook](https://develop
 
    ![](assets/image2015-1-19-17-3a19-3a25.png)
 
-1. Ora è tutto pronto per una campagna di remarketing personalizzata in Facebook.
+1. Ora è stata impostata una campagna di remarketing personalizzata in [!DNL Facebook].
 
 >[!MORELIKETHIS]
 >

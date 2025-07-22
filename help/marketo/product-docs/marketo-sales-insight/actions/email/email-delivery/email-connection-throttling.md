@@ -3,16 +3,16 @@ description: Limitazione della connessione e-mail - Documentazione di Marketo - 
 title: Limitazione della connessione e-mail
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 19f60f58ae4de26536b304eb8ae9677ecc221993
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
 
 # Limitazione della connessione e-mail {#email-connection-throttling}
 
-L&#39;integrazione dell&#39;account Sales Connect da inviare tramite i provider di posta elettronica Exchange o Gmail offre una configurazione semplificata e ottimizza la consegna delle e-mail per comunicazioni di vendita 1:1. Tuttavia, per mantenere i sistemi sani e gli account sicuri, Gmail ed Exchange impongono limiti di invio delle e-mail. Tali limiti possono essere aumentati o diminuiti a discrezione dei fornitori.
+L&#39;integrazione dell&#39;account [!DNL Sales Connect] per l&#39;invio tramite i provider di posta elettronica [!DNL Exchange] o Gmail semplifica la configurazione e ottimizza il recapito dei messaggi di posta elettronica per le comunicazioni di vendita 1:1. Tuttavia, per mantenere i sistemi sani e gli account sicuri, Gmail e [!DNL Exchange] impongono limiti di invio delle e-mail. Tali limiti possono essere aumentati o diminuiti a discrezione dei fornitori.
 
 ## Limitazione della connessione e-mail (Beta) {#email-connection-throttling-beta}
 
@@ -22,22 +22,22 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
 **Note/Elementi di rilievo**
 
-* Attivazione automatica dopo la connessione di un utente a Gmail o Exchange
+* Attivato automaticamente dopo che un utente si connette a Gmail o [!DNL Exchange]
 * Può essere personalizzato se desideri aumentare o diminuire le impostazioni da consigli per soddisfare le tue esigenze
-* Limita le e-mail inviate tramite Gmail o Exchange, non limita il canale di consegna personalizzato
+* Limita solo le e-mail inviate tramite Gmail o [!DNL Exchange], non limita per il canale di consegna personalizzato
 * La limitazione della connessione e-mail mette in coda ogni singolo utente e-mail separatamente, in quanto ogni utente dispone di una propria connessione con il proprio provider e-mail
 
 **Configurazione delle impostazioni di limitazione della connessione e-mail**
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/email-connection-throttling-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Generale**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL General]**.
 
    ![](assets/email-connection-throttling-2.png)
 
-1. Nella scheda Limitazione connessione e-mail a destra, fai clic sul cursore **Abilita limitazione e-mail**.
+1. Nella scheda Limitazione connessione e-mail a destra, fare clic sul dispositivo di scorrimento **[!UICONTROL Enable Email Throttling]**.
 
    ![](assets/email-connection-throttling-3.png)
 
@@ -49,15 +49,15 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
    ![](assets/email-connection-throttling-5.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/email-connection-throttling-6.png)
 
-Con le modifiche salvate, tutti gli utenti riceveranno le e-mail inviate in batch al proprio account Gmail o Exchange connesso per la consegna.
+Con le modifiche salvate, tutti gli utenti riceveranno le e-mail inviate in batch all&#39;account Gmail o [!DNL Exchange] connesso per la consegna.
 
 ## Limiti provider e-mail {#email-provider-limits}
 
-**Outlook 365**
+**[!DNL Outlook 365]**
 
 Aziende/Aziende
 
@@ -75,7 +75,7 @@ Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/o
 
 Ulteriori informazioni [sono disponibili qui](https://support.google.com/a/answer/166852?hl=en).
 
-**Microsoft Exchange Server (2010, 2013)**
+**[!DNL Microsoft Exchange Server (2010, 2013)]**
 
 I limiti sono impostati dal reparto IT dell’organizzazione in quanto il server è ospitato dall’organizzazione. Per ulteriori informazioni, contattare l&#39;amministratore di rete o di sistema.
 

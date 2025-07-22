@@ -4,42 +4,42 @@ description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterpris
 title: 'Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Enterprise/Unlimited)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '766'
-ht-degree: 7%
+source-wordcount: '719'
+ht-degree: 8%
 
 ---
 
-# Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
+# Passaggio 1 di 3: aggiunta di campi Marketo a [!DNL Salesforce] (Enterprise/Unlimited) {#step-of-add-marketo-fields-to-salesforce-enterprise-unlimited}
 
 >[!PREREQUISITES]
 >
->Per eseguire la sincronizzazione tra il Marketo Engage e Salesforce, è necessario avere accesso alle API di Salesforce.
+>Per eseguire la sincronizzazione tra Marketo e [!DNL Salesforce], è necessario avere accesso alle API [!DNL Salesforce].
 
-Marketo utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in Salesforce, segui le istruzioni riportate di seguito.
+Marketo utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in [!DNL Salesforce], segui le istruzioni riportate di seguito.
 
-1. Crea tre campi personalizzati in Salesforce sugli oggetti lead e contatto: Punteggio, Programma di acquisizione e Data di acquisizione.
-1. Mappa questi campi personalizzati tra lead e contatti in modo che, al momento della conversione in Salesforce, i valori vengano riportati.
+1. Creare tre campi personalizzati in [!DNL Salesforce] sugli oggetti lead e contatto: Punteggio, Programma di acquisizione e Data di acquisizione.
+1. Mappare questi campi personalizzati tra lead e contatti in modo che alla conversione in [!DNL Salesforce] i valori vengano riportati.
 1. Se necessario, puoi creare altri campi aggiuntivi (vedi la tabella seguente).
 
-Tutti questi campi personalizzati sono facoltativi e non sono necessari per sincronizzare Marketo e Salesforce. Come best practice, consigliamo di creare campi per Punteggio, Programma di acquisizione e Data di acquisizione.
+Tutti questi campi personalizzati sono facoltativi e non sono necessari per sincronizzare Marketo e [!DNL Salesforce]. Come best practice, consigliamo di creare campi per Punteggio, Programma di acquisizione e Data di acquisizione.
 
-## Aggiungere campi Marketo a Salesforce {#add-marketo-fields-to-salesforce}
+## Aggiungi campi Marketo a [!DNL Salesforce] {#add-marketo-fields-to-salesforce}
 
-Aggiungi tre campi personalizzati agli oggetti lead e contatto in Salesforce elencati sopra. Per aggiungerne altri, vedere la tabella dei campi disponibili alla fine di questa sezione.
+Aggiungere tre campi personalizzati sugli oggetti lead e contatto in [!DNL Salesforce] elencati sopra. Per aggiungerne altri, vedere la tabella dei campi disponibili alla fine di questa sezione.
 
 Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi personalizzati. Inizia con Punteggio.
 
-1. Accedi a Salesforce e fai clic su **[!UICONTROL Configurazione]**.
+1. Accedere a [!DNL Salesforce] e fare clic su **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-23-13-3a15-3a21.png)
 
-1. Nel menu [!UICONTROL Genera] a sinistra, fai clic su **[!UICONTROL Personalizza]** e seleziona **[!UICONTROL Lead]**. Fare clic su **[!UICONTROL Campi]**.
+1. Nel menu Build a sinistra, fare clic su **[!UICONTROL Customize]** e selezionare **[!UICONTROL Leads]**. Fai clic su **[!UICONTROL Fields]**.
 
    ![](assets/image2016-5-23-13-3a20-3a5.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** nella sezione Campi personalizzati e relazioni nella parte inferiore della pagina.
+1. Fare clic su **[!UICONTROL New]** nella sezione Campi personalizzati e relazioni nella parte inferiore della pagina.
 
    ![](assets/image2016-5-26-14-3a41-3a40.png)
 
@@ -47,11 +47,11 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    ![](assets/choose-field-type-2-hand.png)
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-26-14-3a51-3a14.png)
 
-1. Immetti [!UICONTROL Etichetta campo], [!UICONTROL Lunghezza] e [!UICONTROL Nome campo] per il campo, come illustrato nella tabella seguente.
+1. Immettere [!UICONTROL Field Label], [!UICONTROL Length] e [!UICONTROL Field Name] per il campo, come illustrato nella tabella seguente.
 
 <table> 
  <thead> 
@@ -98,7 +98,7 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
 >[!NOTE]
 >
->Salesforce aggiunge __c ai nomi dei campi quando li utilizza per creare i nomi API.
+>[!DNL Salesforce] aggiunge __c ai nomi di campo quando li utilizza per creare i nomi API.
 
 ![](assets/image2016-5-26-14-3a55-3a33.png)
 
@@ -106,18 +106,18 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 >
 >I campi di testo e numerici richiedono una lunghezza, ma i campi di data e ora non la richiedono. Una descrizione è facoltativa.
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2016-5-23-14-3a50-3a5.png)
 
-1. Specificare le impostazioni di accesso e fare clic su **[!UICONTROL Avanti]**:
+1. Specificare le impostazioni di accesso e fare clic su **[!UICONTROL Next]**:
 
-   * Imposta tutti i ruoli su **[!UICONTROL Visibile]** e **[!UICONTROL Sola lettura]**
+   * Imposta tutti i ruoli su **[!UICONTROL Visible]** e **[!UICONTROL Read-Only]**
 
-   * Deselezionare la casella di controllo **[!UICONTROL Sola lettura]** per il profilo dell&#39;utente di sincronizzazione:
+   * Deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Sola lettura]** per il profilo Amministratore di sistema (come illustrato di seguito)
-      * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Sola lettura]** per tale profilo personalizzato
+      * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo Amministratore di sistema (come illustrato di seguito)
+      * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Read-Only]** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 
@@ -125,11 +125,11 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Fai clic su **[!UICONTROL Salva e nuovo]** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su **[!UICONTROL Salva]** e avrai terminato tutte e tre le operazioni.
+1. Fare clic su **[!UICONTROL Save & New]** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su **[!UICONTROL Save]** e termina con tutti e tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
-1. Nel menu Genera a sinistra, fare clic su **[!UICONTROL Personalizza]** e selezionare Contatti. Fare clic su Campi.
+1. Nel menu Genera a sinistra, fare clic su **[!UICONTROL Customize]** e selezionare Contatti. Fai clic su [!UICONTROL Fields].
 1. Eseguire i passaggi da 3 a 10 per i campi Punteggio, Data acquisizione e Programma di acquisizione sull&#39;oggetto contatto, come è stato fatto per l&#39;oggetto lead.
 1. Facoltativamente, utilizza la procedura precedente per tutti i campi personalizzati aggiuntivi di questa tabella.
 
@@ -238,21 +238,21 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
 >[!NOTE]
 >
->I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in Salesforce al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con Salesforce al prossimo aggiornamento del record di uno dei due sistemi (ovvero, un aggiornamento di uno qualsiasi dei campi sincronizzati tra Marketo e Salesforce).
+>I valori nei campi assegnati automaticamente da Marketo non saranno immediatamente disponibili in [!DNL Salesforce] al momento della creazione del nuovo campo. Marketo sincronizzerà i dati con [!DNL Salesforce] al prossimo aggiornamento del record in uno dei due sistemi (ovvero, un aggiornamento di uno qualsiasi dei campi sincronizzati tra Marketo e [!DNL Salesforce]).
 
 ## Mappa campi personalizzati per conversioni {#map-custom-fields-for-conversions}
 
-Un campo personalizzato sull’oggetto lead in Salesforce deve essere mappato su un campo contatto nell’oggetto contatto in modo che i dati vengano trasferiti quando si verifica una conversione.
+È necessario mappare un campo personalizzato sull&#39;oggetto lead in [!DNL Salesforce] a un campo contatto nell&#39;oggetto contatto in modo che i dati vengano trasferiti quando si verifica una conversione.
 
-1. Nell&#39;angolo superiore destro fare clic su **[!UICONTROL Configurazione]**.
+1. Nell&#39;angolo superiore destro fare clic su **[!UICONTROL Setup]**.
 
    ![](assets/image2016-5-26-16-3a34-3a0.png)
 
-1. Digitare &quot;Fields&quot; nella ricerca di navigazione senza premere Invio. I campi vengono visualizzati in oggetti diversi. Fare clic su **[!UICONTROL Campi]** in Lead.
+1. Digitare &quot;Fields&quot; nella ricerca di navigazione senza premere Invio. I campi vengono visualizzati in oggetti diversi. Fare clic su **[!UICONTROL Fields]** in [!UICONTROL Leads].
 
    ![](assets/image2016-5-26-16-3a36-3a32.png)
 
-1. Vai alla sezione Campi e relazioni personalizzati lead e fai clic su **[!UICONTROL Mappa campi lead]**.
+1. Andare alla sezione [!UICONTROL Lead Custom Fields & Relationships] e fare clic su **[!UICONTROL Map Lead Fields]**.
 
    ![](assets/image2016-5-26-16-3a39-3a29.png)
 
@@ -266,8 +266,10 @@ Un campo personalizzato sull’oggetto lead in Salesforce deve essere mappato su
 
 1. Ripeti i passaggi precedenti per tutti gli altri campi creati.
 
-1. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Al termine, fai clic su **[!UICONTROL Save]**.
+
+   Abbastanza facile, vero?
 
 >[!MORELIKETHIS]
 >
->[Passaggio 2 di 3: creazione di un utente Salesforce per Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"}
+>[Passaggio 2 di 3: creazione di un  [!DNL Salesforce] utente per Marketo (Enterprise/Unlimited)](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)

@@ -4,24 +4,24 @@ description: Panoramica di Performance Insights - Documenti Marketo - Documentaz
 title: Panoramica di Performance Insights
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '220'
+ht-degree: 1%
 
 ---
 
-# Panoramica di Performance Insights {#performance-insights-overview}
+# [!UICONTROL Performance Insights] Panoramica {#performance-insights-overview}
 
-Marketo Performance Insights consente di ottimizzare il mix di canali per la massima efficacia e di individuare tendenze a lungo termine per individuare strategie vincenti coerenti.
+Marketo [!UICONTROL Performance Insights] ti consente di ottimizzare il mix di canali per la massima efficacia e di individuare tendenze a lungo termine per individuare strategie vincenti coerenti.
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-Performance Insights carica i dati (fino a) nei 24 mesi precedenti. Sono inclusi i dati correnti dell&#39;anno corrente e dell&#39;anno precedente. Ad esempio, il 31 gennaio 2019 , MPI caricherà i dati di quel mese e ogni mese a partire dal 2018. Il 31 dicembre 2019, MPI caricherà i dati da ogni mese del 2019 e del 2018.
+[!UICONTROL Performance Insights] carica i dati dai (fino a) 24 mesi precedenti. Sono inclusi i dati correnti dell&#39;anno corrente e dell&#39;anno precedente. Ad esempio, il 31 gennaio 2019 , MPI caricherà i dati di quel mese e ogni mese a partire dal 2018. Il 31 dicembre 2019, MPI caricherà i dati da ogni mese del 2019 e del 2018.
 
-Per accedere a Performance Insights, fai clic sulla relativa icona nella schermata iniziale di Analytics.
+Per accedere a [!UICONTROL Performance Insights], fare clic sulla relativa icona nella schermata iniziale di Analytics.
 
 ![](assets/one.png)
 
@@ -31,7 +31,7 @@ Valuta il [contributo del marketing ai ricavi](/help/marketo/product-docs/report
 
 ![](assets/two.png)
 
-Per impostazione predefinita, i dati visualizzati riflettono le prestazioni per coinvolgimento. Puoi passare alle prestazioni per pipeline o ricavo semplicemente cliccando su uno di essi.
+Per impostazione predefinita, i dati visualizzati riflettono le prestazioni di [!UICONTROL Engagement]. È possibile passare alle prestazioni di **[!UICONTROL Pipeline]** o **[!UICONTROL Revenue]** semplicemente facendo clic su uno di essi.
 
 ![](assets/3.png)
 
@@ -43,16 +43,16 @@ Individua [tendenze a lungo termine](/help/marketo/product-docs/reporting/perfor
 
 ## Impostazioni {#settings}
 
-Nei dashboard Ricavi e Pipeline, fai clic sull&#39;icona [Impostazioni](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) per impostare parametri aggiuntivi.
+Nei dashboard [!UICONTROL Revenue] e [!UICONTROL Pipeline], fai clic sull&#39;icona [[!UICONTROL Settings]](/help/marketo/product-docs/reporting/performance-insights/performance-insights-settings.md) per impostare parametri aggiuntivi.
 
 ![](assets/5.png)
 
 ## Esporta dati {#export-data}
 
-È possibile esportare i dati e i grafici in PowerPoint o Excel. Puoi anche salvarli come [Grafico rapido](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
+È possibile esportare dati e grafici in [!DNL PowerPoint] o [!DNL Excel]. Puoi anche salvarli come [Grafico rapido](/help/marketo/product-docs/reporting/performance-insights/performance-insights-quick-charts.md).
 
 ![](assets/6.png)
 
 >[!NOTE]
 >
->Esporta i dati in Excel per visualizzare i dati disponibili per tutti i canali (non solo per i primi dieci). L’esportazione PPT sarà WYSIWYG (l’output imiterà quanto visualizzato sullo schermo).
+>Esporta dati in [!DNL Excel] per visualizzare i dati disponibili per tutti i canali (non solo per i primi dieci). L’esportazione PPT sarà WYSIWYG (l’output imiterà ciò che viene visualizzato sullo schermo).

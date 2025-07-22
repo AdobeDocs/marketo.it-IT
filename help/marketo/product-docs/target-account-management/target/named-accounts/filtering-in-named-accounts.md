@@ -4,14 +4,14 @@ description: Filtraggio in Account denominati - Documentazione Marketo - Documen
 title: Filtraggio in account denominati
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Filtraggio in account denominati {#filtering-in-named-accounts}
+# Filtro in [!UICONTROL Named Accounts] {#filtering-in-named-accounts}
 
 Il filtro è un ottimo modo per limitare i dati rapidamente.
 
@@ -25,17 +25,17 @@ Il filtro è un ottimo modo per limitare i dati rapidamente.
 
    >[!NOTE]
    >
-   >Sono disponibili diverse combinazioni di parametri di ricerca. In questo esempio vengono individuati: _Settore = Banca, Paese = Stati Uniti, Numero massimo dipendenti = 10000_.
+   >Sono disponibili diverse combinazioni di parametri di ricerca. In questo esempio viene individuato: _[!UICONTROL Industry]= banca, [!UICONTROL Country] = Stati Uniti, Max [!UICONTROL Employees] = 10000_.
 
-1. Fai clic sul menu a discesa **Settore** e seleziona **Settore bancario**.
+1. Fare clic sul menu a discesa **[!UICONTROL Industry]** e selezionare **[!UICONTROL Banking]**.
 
    ![](assets/filter-2.png)
 
-1. Fai clic sul menu a discesa **Paese** e seleziona **Stati Uniti**.
+1. Fare clic sul menu a discesa **[!UICONTROL Country]** e selezionare **[!UICONTROL United States]**.
 
    ![](assets/filter-3.png)
 
-1. In **Dipendenti**, digitare &quot;0&quot; nel campo **Min**, &quot;10000&quot; nel campo **Max**, quindi fare clic su **Applica**.
+1. In **[!UICONTROL Employees]**, digitare &quot;0&quot; nel campo **Min**, &quot;10000&quot; nel campo **Max**, quindi fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/four-2.png)
 
@@ -43,4 +43,4 @@ Il filtro è un ottimo modo per limitare i dati rapidamente.
 
    >[!NOTE]
    >
-   >Per aggiungere altri filtri tra cui scegliere, fai clic su **Aggiungi filtro** in basso a sinistra nel modulo.
+   >Per aggiungere altri filtri tra cui scegliere, fai clic su **[!UICONTROL Add Filter]** in basso a sinistra nel modulo.

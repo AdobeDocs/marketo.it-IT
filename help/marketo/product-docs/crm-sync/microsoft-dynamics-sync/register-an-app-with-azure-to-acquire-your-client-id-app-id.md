@@ -4,16 +4,16 @@ description: Registrare un'app con Azure per acquisire l'ID client/ID app - Docu
 title: Registra un’app con Azure per acquisire l’ID client/ID app
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 821d69736b1cbeac0c80718c58a7a3c471387545
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
 
 # Registra un’app con Azure per acquisire l’ID client/ID app {#register-an-app-with-azure-to-acquire-your-client-id-app-id}
 
-Azure Active Directory estende le directory locali nel cloud, fornendo supporto per MS Dynamics 365 CRM con autenticazione ADFS on-premise.
+Azure Active Directory estende le directory locali nel cloud, fornendo il supporto per il CRM [!DNL MS Dynamics 365] con l&#39;autenticazione ADFS locale.
 
 ## Registrazione di una nuova app {#registering-a-new-app}
 
@@ -21,54 +21,54 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
 
    >[!CAUTION]
    >
-   >Devi utilizzare un account nello stesso abbonamento a Office 365 con cui intendi registrare l’app.
+   >È necessario utilizzare un account nello stesso abbonamento [!DNL Office 365] di quello con cui si intende registrare l&#39;app.
 
    >[!NOTE]
    >
-   >Se non disponi di un account Azure, puoi [iscriverti](https://azure.microsoft.com/en-us/free/){target="_blank"} per un account. Per ulteriori informazioni, consulta la documentazione di Microsoft o rivolgiti al tuo rappresentante Microsoft. Dopo aver creato un account di Azure, è possibile registrare una o più app utilizzando la procedura descritta di seguito.
+   >Se non disponi di un account di Azure, puoi [iscriverti](https://azure.microsoft.com/en-us/free/){target="_blank"} per un account. Per ulteriori informazioni, consulta la documentazione di Microsoft o rivolgiti al tuo rappresentante Microsoft. Dopo aver creato un account di Azure, è possibile registrare una o più app utilizzando la procedura descritta di seguito.
    >
    >
-   >Se disponi di un account di Azure ma la sottoscrizione di Office 365 con Microsoft Dynamics 365 non è disponibile nella sottoscrizione di Azure, segui [queste istruzioni](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} per associare i due account.
+   >Se disponi di un account di Azure ma la sottoscrizione di [!DNL Office 365] con [!DNL Microsoft Dynamics 365] non è disponibile nella sottoscrizione di Azure, segui [queste istruzioni](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} per associare i due account.
 
-1. Individuare e fare clic su **[!UICONTROL Azure Active Directory]** nel riquadro di spostamento a sinistra.
+1. Trovare e fare clic su **[!UICONTROL Azure Active Directory]** nel riquadro di spostamento a sinistra.
 
    ![](assets/two.png)
 
-1. In Gestisci fare clic su **[!UICONTROL Registrazioni app]**.
+1. In [!UICONTROL Manage], fare clic su **[!UICONTROL App registrations]**.
 
    ![](assets/three.png)
 
-1. Fai clic su **[!UICONTROL Nuova registrazione]** nella parte superiore della pagina.
+1. Fai clic su **[!UICONTROL New registration]** nella parte superiore della pagina.
 
    ![](assets/four.png)
 
-1. Immetti un nome per l&#39;app, scegli il tipo di account applicabile e immetti un URL di reindirizzamento. Fai clic su **[!UICONTROL Registra]** nella parte inferiore della pagina.
+1. Immetti un nome per l&#39;app, scegli il tipo di account applicabile e immetti un URL di reindirizzamento. Quindi fare clic su **[!UICONTROL Register]** nella parte inferiore della pagina.
 
    ![](assets/five.png)
 
-1. Ora dovresti visualizzare l&#39;app nella scheda **[!UICONTROL Registrazioni app]**.
+1. Ora dovresti visualizzare l&#39;app nella scheda **[!UICONTROL App registrations]**.
 
    ![](assets/six.png)
 
 ## Configurazione delle autorizzazioni dell’app {#configuring-app-permissions}
 
-1. Nella scheda **[!UICONTROL Registrazioni app]** in Active Directory, fare clic sull&#39;app per la quale si desidera configurare le autorizzazioni.
+1. Nella scheda **[!UICONTROL App registrations]** di Active Directory fare clic sull&#39;app per la quale si desidera configurare le autorizzazioni.
 
    ![](assets/seven.png)
 
-1. In Gestisci fare clic su **[!UICONTROL Autorizzazioni API]**.
+1. In [!UICONTROL Manage], fare clic su **[!UICONTROL API permissions]**.
 
    ![](assets/eight.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Aggiungi un&#39;autorizzazione]**.
+1. Fare clic sul pulsante **[!UICONTROL Add a permission]**.
 
    ![](assets/nine.png)
 
-1. Scegliere **[!UICONTROL Dynamics CRM]**.
+1. Scegli **[!UICONTROL Dynamics CRM]**.
 
    ![](assets/ten.png)
 
-1. Seleziona la casella **[!UICONTROL Accedi a Common Data Service come utenti dell&#39;organizzazione]**, quindi fai clic su **[!UICONTROL Aggiungi autorizzazioni]**.
+1. Selezionare la casella **[!UICONTROL Access Common Data Service as organization users]**, quindi fare clic su **[!UICONTROL Add permissions].**
 
    ![](assets/eleven.png)
 
@@ -76,11 +76,11 @@ Azure Active Directory estende le directory locali nel cloud, fornendo supporto 
 
    ![](assets/twelve.png)
 
-1. Fai clic sul pulsante **[!UICONTROL Concedi il consenso amministratore]**.
+1. Fare clic sul pulsante **[!UICONTROL Grant admin consent]**.
 
    ![](assets/thirteen.png)
 
-1. Fai clic su **[!UICONTROL Sì]** per confermare.
+1. Fai clic su **[!UICONTROL Yes]** per confermare.
 
    ![](assets/fourteen.png)
 

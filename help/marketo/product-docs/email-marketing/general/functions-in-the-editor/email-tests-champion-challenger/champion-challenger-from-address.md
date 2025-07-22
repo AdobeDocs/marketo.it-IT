@@ -4,9 +4,9 @@ description: Champion/Challenger - Indirizzo mittente - Documenti Marketo - Docu
 title: Champion/Challenger - Indirizzo mittente
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: c17bd1a623c46786f14c21c8fad718cdfeeec3cd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -19,13 +19,13 @@ Vuoi provare un indirizzo diverso da senza complicazioni? Ecco come.
 >
 >[Aggiungi un campione e-mail/Challenger](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.md)
 
-1. Nell&#39;editor di test e-mail, selezionare **Dall&#39;indirizzo** nell&#39;elenco a discesa **Tipo di test**.
+1. Nell&#39;editor dei test e-mail, selezionare **[!UICONTROL From Address]** nel menu a discesa **[!UICONTROL Test Type]**.
 
    ![](assets/image2014-9-15-12-3a52-3a33.png)
 
    >[!NOTE]
    >
-   >Il primo indirizzo mittente è designato come **Champion**. Gli indirizzi successivi sono denominati **Challengers**.
+   >Il primo indirizzo mittente è designato come **[!UICONTROL Champion]**. Gli indirizzi successivi sono denominati **[!UICONTROL Challengers]**.
 
 1. Immettere **Nome mittente** (a sinistra) e **Indirizzo mittente** (a destra) per gli sfidanti.
 
@@ -47,7 +47,7 @@ Vuoi provare un indirizzo diverso da senza complicazioni? Ecco come.
 
    Per ottenere l’affidabilità statistica, assicurati di scegliere una percentuale che includa un numero sufficiente di persone per la validità del test. Non fatevi ingannare da risultati inconcludenti.
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2014-9-15-12-3a53-3a15.png)
 

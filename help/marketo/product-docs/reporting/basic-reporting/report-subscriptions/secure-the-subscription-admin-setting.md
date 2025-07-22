@@ -4,9 +4,9 @@ description: Proteggere le impostazioni di amministrazione dell’abbonamento - 
 title: Proteggere le impostazioni di amministrazione della sottoscrizione
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Un amministratore può scegliere di richiedere l’accesso per visualizzare un rapporto.
 
-1. Fare clic su **Amministratore**, quindi su **Impostazioni accesso**.
+1. Fare clic su **[!UICONTROL Admin]** e quindi su **[!UICONTROL Login Settings]**.
 
    ![](assets/image2015-4-29-12-3a46-3a14.png)
 
-1. Fare clic su **Modifica** per le impostazioni report elenchi smart.
+1. Fare clic su **[!UICONTROL Edit]** per Impostazioni report elenchi smart.
 
    ![](assets/image2015-4-29-12-3a50-3a50.png)
 
-1. Selezionare **Sì** per richiedere l&#39;accesso per scaricare i report.
+1. Selezionare **[!UICONTROL Yes]** per richiedere l&#39;accesso per scaricare i report.
 
    ![](assets/image2015-4-29-12-3a53-3a7.png)
 

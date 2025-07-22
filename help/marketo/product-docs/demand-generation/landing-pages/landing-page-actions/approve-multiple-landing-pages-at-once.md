@@ -4,20 +4,20 @@ description: Approvare più pagine di destinazione alla volta - Documentazione d
 title: Approvare più pagine di destinazione alla volta
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 0%
+source-wordcount: '81'
+ht-degree: 1%
 
 ---
 
 # Approvare più pagine di destinazione alla volta {#approve-multiple-landing-pages-at-once}
 
-1. Vai a **Design Studio**.
+1. Vai a **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 
-1. Fai clic su **Pagine di destinazione**.
+1. Fai clic su **[!UICONTROL Landing Pages]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-2.png)
 

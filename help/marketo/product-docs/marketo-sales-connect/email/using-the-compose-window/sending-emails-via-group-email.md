@@ -4,9 +4,9 @@ description: Invio di e-mail tramite e-mail di gruppo - Documenti Marketo - Docu
 title: Invio di e-mail tramite e-mail gruppo
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Ecco come inviare/modificare le e-mail utilizzando l’opzione Raggruppa e-mail.
 
 ## Invio di un’e-mail di gruppo {#sending-a-group-email}
 
-1. Fare clic sulla scheda **Persone**.
+1. Fare clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/one-3.png)
 
@@ -25,7 +25,7 @@ Ecco come inviare/modificare le e-mail utilizzando l’opzione Raggruppa e-mail.
 
    ![](assets/two-3.png)
 
-1. Fai clic sul pulsante Azioni gruppo e seleziona **Gruppo e-mail**.
+1. Fare clic sul pulsante [!UICONTROL Group Actions] e selezionare **[!UICONTROL Email Group]**.
 
    ![](assets/three-3.png)
 
@@ -49,7 +49,7 @@ Ecco come inviare/modificare le e-mail utilizzando l’opzione Raggruppa e-mail.
 
    ![](assets/edit-four.png)
 
-1. Fare clic su **Anteprima campi dinamici** e visualizzare l&#39;anteprima a destra.
+1. Fare clic su **[!UICONTROL Preview Dynamic Fields]** e visualizzare l&#39;anteprima a destra.
 
    ![](assets/edit-five.png)
 

@@ -4,16 +4,16 @@ description: Elenco modelli pagina di destinazione guidata - Documentazione di M
 title: Elenco modelli pagina di destinazione guidata
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 58a2839804b69a783992a42b51d206d2544f356b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
 
 # Elenco modelli pagina di destinazione guidata {#guided-landing-page-template-list}
 
-Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con [Editor pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è pienamente reattivo e basato sul framework Bootstrap.
+Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con [Editor pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework Bootstrap.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Per importare un modello in Marketo:
 
 1. Fare clic sul nome del modello per ingrandire la visualizzazione.
 1. Scarica il modello scelto.
-1. In Marketo, passare a **Design Studio.**
-1. Fai clic su **Pagine di destinazione** nella struttura a sinistra, quindi seleziona **Modelli.**
+1. In Marketo, passare a **[!UICONTROL Design Studio].**
+1. Fare clic su **[!UICONTROL Landing Pages]** nell&#39;albero a sinistra, quindi selezionare **[!UICONTROL Templates].**
 
-1. Nella barra dei menu fare clic su **Importa modello.**
-1. Scegli il file scaricato, immetti un nome di modello, quindi fai clic su **Importa** (assicurati di scegliere un nome descrittivo e indicare che la modalità di modifica è **Guidata**).
+1. Nella barra dei menu fare clic su **[!UICONTROL Import Template].**
+1. Scegliere il file scaricato, immettere un nome di modello, quindi fare clic su **[!UICONTROL Import]** (assicurarsi di scegliere un nome descrittivo e indicare che la modalità di modifica è **[!UICONTROL Guided]**).
 
 <table>
 <tr>

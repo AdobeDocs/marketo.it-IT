@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949711
-description: Installare Marketo Email Add-in per Outlook con un codice di registrazione - Documentazione di Marketo - Documentazione del prodotto
-title: Installare Marketo Email Add-in per Outlook con un codice di registrazione
+description: Installa il componente aggiuntivo Marketo Email per  [!DNL Outlook]  con un codice di registrazione - Documentazione di Marketo - Documentazione del prodotto
+title: Installa Marketo Email Add-in per  [!DNL Outlook]  con un codice di registrazione
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: ac6c84a82b9bcb535d5f50897d1a068a5a746287
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 3%
+source-wordcount: '522'
+ht-degree: 4%
 
 ---
 
-# Installare Marketo Email Add-in per Outlook con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
+# Installare il componente aggiuntivo e-mail di Marketo per [!DNL Outlook] con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se gli utenti possono accedere alle impostazioni di amministrazione sui propri laptop, puoi inviare loro direttamente un codice di registrazione.
 
@@ -39,7 +39,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
 
    >[!NOTE]
    >
-   >Al momento, i collegamenti riportati di seguito funzionano solo in Microsoft Edge o facendo clic con il pulsante destro del mouse in Chrome. Ci scusiamo per l&#39;inconveniente.
+   >Al momento, i collegamenti seguenti funzionano solo in [!DNL Microsoft Edge] o facendo clic con il pulsante destro del mouse in [!DNL Chrome]. Ci scusiamo per l&#39;inconveniente.
 
 <table><thead>
   <tr>
@@ -100,7 +100,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
   </tr>
 </tbody></table>
 
-*Versione Office 365: solo client Windows (su Windows 10, Enterprise o Pro).
+*[!DNL Office] versione 365: solo client [!DNL Windows] (su [!DNL Windows] 10, [!DNL Enterprise] o [!DNL Pro]).
 
 >[!IMPORTANT]
 >
@@ -112,7 +112,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
 
    ![](assets/image2016-7-22-10-3a45-3a10.png)
 
-1. Chiudere Microsoft Outlook.
+1. Chiudi [!DNL Microsoft Outlook].
 
    ![](assets/ent-key-close-outlook-hand.png)
 
@@ -126,11 +126,11 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
    >
    >Se ricevi un avviso di sicurezza, non preoccuparti! Fai clic su **Esegui**.
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/welcome-to-the-setup-wizard-hand.png)
 
-1. Compila **Nome**, **Cognome**, **Indirizzo e-mail**, quindi copia e incolla il **Codice di registrazione** dall&#39;e-mail nel modulo e fai clic su **Avanti**.
+1. Compila **[!UICONTROL First Name]**, **[!UICONTROL Last Name]**, **[!UICONTROL Email Address]**, quindi copia e incolla **[!UICONTROL Registration code]** dall&#39;e-mail nel modulo e fai clic su **[!UICONTROL Next]**.
 
    ![](assets/enter-your-information-hands.png)
 
@@ -138,23 +138,23 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
    >
    >Se l&#39;installazione non riesce, rivolgiti al reparto IT per verificare che il traffico HTTPS non sia bloccato. Il programma di installazione richiede l&#39;apertura del traffico HTTPS.
 
-1. Fai clic su **Avanti** per eseguire l&#39;installazione nel percorso predefinito.
+1. Fare clic su **[!UICONTROL Next]** per installare nel percorso predefinito.
 
    ![](assets/select-installation-folder-hand.png)
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/confirm-installation-hand.png)
 
    >[!NOTE]
    >
-   >Se ricevi una richiesta di sicurezza su un editore sconosciuto, fai clic su **Sì**.
+   >Se viene visualizzato un messaggio di sicurezza relativo a un autore sconosciuto, fare clic su **[!UICONTROL Yes]**.
 
-1. Installazione completata. Fare clic su **Chiudi**.
+1. Installazione completata. Fare clic su **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-23-15-3a52-3a11.png)
 
-1. Aprire Microsoft Outlook e visualizzare i pulsanti di Marketo.
+1. Aprire [!DNL Microsoft Outlook] e visualizzare i pulsanti di Marketo.
 
    ![](assets/image2016-8-24-15-3a47-3a38.png)
 

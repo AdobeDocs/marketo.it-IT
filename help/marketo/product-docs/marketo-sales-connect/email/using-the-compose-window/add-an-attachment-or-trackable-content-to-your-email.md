@@ -4,16 +4,16 @@ description: Aggiungere un allegato o un contenuto tracciabile al messaggio e-ma
 title: Aggiungere un allegato o un contenuto tracciabile all’e-mail
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
 
 # Aggiungere un allegato o un contenuto tracciabile all’e-mail {#add-an-attachment-or-trackable-content-to-your-email}
 
-Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un file come allegato o rendere un file scaricabile (e tracciabile).
+Quando si invia un&#39;e-mail tramite [!DNL Sales Connect], è possibile aggiungere un file come allegato o rendere un file un collegamento scaricabile (e tracciabile).
 
 >[!NOTE]
 >
@@ -21,11 +21,11 @@ Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un 
 
 ## Aggiungi un allegato {#add-an-attachment}
 
-1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
+1. Crea la bozza dell&#39;e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **[!UICONTROL Compose]** nell&#39;intestazione).
 
    ![](assets/one-4.png)
 
-1. Compilare il campo A e immettere un oggetto.
+1. Compilare il campo [!UICONTROL To] e immettere [!UICONTROL Subject].
 
    ![](assets/attach-two.png)
 
@@ -33,7 +33,7 @@ Quando si invia un&#39;e-mail tramite Sales Connect, è possibile aggiungere un 
 
    ![](assets/attach-three.png)
 
-1. Selezionare il file da allegare e fare clic su **Inserisci**.
+1. Selezionare il file da allegare e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/attach-four.png)
 
@@ -47,11 +47,11 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
 ## Aggiungi contenuto tracciabile {#add-trackable-content}
 
-1. Crea la bozza dell’e-mail (esistono diversi modi per farlo; in questo esempio stiamo scegliendo la finestra Componi).
+1. Crea la bozza dell&#39;e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo la finestra [!UICONTROL Compose]).
 
    ![](assets/one-4.png)
 
-1. Compilare il campo A e immettere un oggetto.
+1. Compilare il campo [!UICONTROL To] e immettere [!UICONTROL Subject].
 
    ![](assets/two-4.png)
 
@@ -59,7 +59,7 @@ L’allegato viene visualizzato nella parte inferiore dell’e-mail.
 
    ![](assets/three-4.png)
 
-1. Seleziona il contenuto da aggiungere, fai clic sul cursore **Il contenuto è tracciato** e fai clic su **Inserisci**.
+1. Selezionare il contenuto da aggiungere, fare clic sul dispositivo di scorrimento **[!UICONTROL Content is tracked]** e quindi su **[!UICONTROL Insert]**.
 
    ![](assets/four-4.png)
 

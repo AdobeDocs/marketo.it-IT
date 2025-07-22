@@ -4,20 +4,20 @@ description: Configurare le notifiche push per dispositivi mobili - Documenti Ma
 title: Configurare le notifiche push per dispositivi mobili
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 7007c9f61bac2d5b860e166f285c87f565683933
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
 
 # Configurare le notifiche push per dispositivi mobili {#configure-mobile-push-notification}
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
-1. Seleziona la risorsa push e fai clic su **Modifica bozza**.
+1. Seleziona la risorsa push e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/configure-mobile-push-notification-2.png)
 
@@ -29,7 +29,7 @@ ht-degree: 0%
    >
    >Se il messaggio push si applica a una sola piattaforma (ad esempio, iOS), puoi escludere l&#39;altra piattaforma facendo scorrere manualmente il selettore su **Disabilitato**.
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -43,13 +43,13 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Esistono tre tipi di azioni di tocco:
+   >Esistono tre tipi di [!UICONTROL Tap Actions]:
    >
    >**Avvia app** - **Questa app** apre la home page dell&#39;app quando viene toccata la notifica. **Personalizzato** utilizza un collegamento profondo per aprire altre aree dell&#39;app o qualsiasi altra app a cui hai il collegamento (vedi [URI di collegamento profondo](#deep-link-uris) di seguito per i dettagli).
    >
-   >**Pagina di destinazione** - consente di accedere a una pagina di destinazione di Marketo specificata.
+   >**[!UICONTROL Landing Page]** - consente di accedere a una pagina di destinazione di Marketo specificata.
    >
-   >**External URL** - consente di accedere a una pagina di destinazione non Marketo.
+   >**[!UICONTROL External URL]** - consente di accedere a una pagina di destinazione non Marketo.
 
 1. Per inserire un collegamento profondo per un&#39;azione di tocco personalizzata, seleziona **Personalizzato** e immetti l&#39;[URI collegamento profondo](#deep-link-uris) nel campo.
 
@@ -63,11 +63,11 @@ ht-degree: 0%
 
    ![](assets/configure-mobile-push-notification-7.png)
 
-1. Visualizzare l&#39;anteprima dell&#39;altra piattaforma e fare clic su **Fine**.
+1. Visualizzare l&#39;anteprima dell&#39;altra piattaforma e fare clic su **[!UICONTROL Finish]**.
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 
@@ -81,7 +81,7 @@ Un URI di collegamento profondo è costituito da tre parti: nome dello schema, p
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Il tuo sviluppatore dispone di molte opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push saranno posizionati correttamente. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Il tuo sviluppatore dispone di molte opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push saranno posizionati correttamente. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

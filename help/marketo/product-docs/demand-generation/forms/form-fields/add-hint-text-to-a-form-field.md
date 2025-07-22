@@ -4,10 +4,10 @@ description: Aggiungere testo di suggerimento a un campo modulo - Documenti Mark
 title: Aggiungere testo suggerimento a un campo modulo
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 1%
 
 ---
 
@@ -23,23 +23,23 @@ Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/f
 >
 >Le **istruzioni** per il modulo sono piccole descrizioni che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-13-3a54-3a6.png)
 
-1. Seleziona il campo e immetti **Testo suggerimento**.
+1. Seleziona il campo e immetti **[!UICONTROL Hint Text]**.
 
    ![](assets/image2014-9-15-13-3a53-3a58.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-13-3a53-3a36.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-13-3a53-3a29.png)
 

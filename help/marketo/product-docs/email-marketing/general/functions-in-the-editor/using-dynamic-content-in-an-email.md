@@ -4,9 +4,9 @@ description: Utilizzo di contenuti dinamici in un’e-mail - Documentazione di M
 title: Utilizzo di contenuti dinamici in un messaggio e-mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -25,15 +25,15 @@ Utilizza il contenuto dinamico nelle e-mail per inviare informazioni di destinaz
 
 ## Aggiungi segmentazione {#add-segmentation}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona l&#39;e-mail e fai clic su **Modifica bozza**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/1.2.png)
 
-1. In questo esempio stiamo rendendo dinamica la riga oggetto. Fare clic nel campo Oggetto, quindi fare clic sul pulsante **Rendi dinamico**.
+1. In questo esempio stiamo rendendo dinamica la riga oggetto. Fare clic nel campo [!UICONTROL Subject], quindi fare clic sul pulsante **Rendi dinamico**.
 
    ![](assets/1.3.png)
 
@@ -41,11 +41,11 @@ Utilizza il contenuto dinamico nelle e-mail per inviare informazioni di destinaz
    >
    >Puoi anche rendere dinamico un elemento all’interno dell’e-mail. A tale scopo, selezionare l&#39;area, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Rendi dinamico** (o [Sostituisci con snippet](/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md), a seconda delle operazioni eseguite).
 
-1. Inserisci il nome della segmentazione, selezionalo e fai clic su **Salva**.
+1. Immettere il nome della segmentazione, selezionarlo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/1.4.png)
 
-   La segmentazione e i relativi segmenti vengono visualizzati nella scheda Dinamica a destra.
+   La segmentazione e i relativi segmenti vengono visualizzati nella scheda [!UICONTROL Dynamic] a destra.
 
    ![](assets/1.5.png)
 

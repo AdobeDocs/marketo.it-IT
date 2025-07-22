@@ -4,9 +4,9 @@ description: Etichettare Il Segmento - Documentazione Di Marketo - Documentazion
 title: Etichettare il segmento
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Hai così tanti segmenti che scorrere diventa complicato? Utilizza le etichette 
 
 ## Assegnare tag a un segmento {#tag-a-segment}
 
-1. Accedi a Web Personalization e passa a **Segmenti**.
+1. Accedere a [!DNL Web Personalization] e passare a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 
@@ -25,11 +25,11 @@ Hai così tanti segmenti che scorrere diventa complicato? Utilizza le etichette 
 
    ![](assets/image2015-10-14-15-3a26-3a28.png)
 
-1. Per utilizzare un&#39;etichetta esistente, fare clic su **Imposta etichetta**, selezionare una casella e fare clic su **Applica**.
+1. Per utilizzare un&#39;etichetta esistente, fare clic su **[!UICONTROL Set Label]**, selezionare una casella e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/image2015-10-14-15-3a34-3a42.png)
 
-1. In alternativa, per creare una nuova etichetta, fare clic su **Imposta etichetta**, immettere il nome della nuova etichetta e fare clic su **Crea nuova**.
+1. In alternativa, per creare una nuova etichetta, fare clic su **[!UICONTROL Set Label]**, immettere il nome della nuova etichetta e fare clic su **Crea nuova**.
 
    ![](assets/image2015-10-14-15-3a38-3a30.png)
 

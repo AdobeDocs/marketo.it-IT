@@ -4,22 +4,22 @@ description: Impostare un prefisso di campo personalizzato predefinito - Documen
 title: Imposta un prefisso di campo personalizzato predefinito
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 0%
+source-wordcount: '88'
+ht-degree: 3%
 
 ---
 
 # Imposta un prefisso di campo personalizzato predefinito {#set-a-default-custom-field-prefix}
 
-Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve essere _new_ per consentire la corretta sincronizzazione dei campi proprietari di Marketo. Per modificare il prefisso predefinito, procedere come segue.
+Il prefisso [!DNL Microsoft Dynamics] predefinito per i campi personalizzati deve essere **new** per consentire la corretta sincronizzazione dei campi proprietari di Marketo. Per modificare il prefisso predefinito, procedere come segue.
 
-1. Vai a Impostazioni e seleziona **Personalizzazioni**.
+1. Vai a [!UICONTROL Settings] e seleziona **[!UICONTROL Customizations].**
 
    ![](assets/image2015-10-9-11-3a18-3a8.png)
 
-1. Fai clic su **Editori**.
+1. Fai clic su **[!UICONTROL Publishers]**.
 
    ![](assets/image2015-10-9-11-3a19-3a39.png)
 
@@ -27,15 +27,15 @@ Il prefisso predefinito di Microsoft Dynamics per i campi personalizzati deve es
 
    ![](assets/image2015-10-9-11-3a2-3a45.png)
 
-1. Cambia il prefisso in **nuovo**. Fare clic su **Salva e chiudi**.
+1. Cambia il prefisso in **nuovo**. Fai clic su **[!UICONTROL Save and Close]**.
 
    ![](assets/image2015-10-9-11-3a9-3a17.png)
 
-1. Vai a Impostazioni > Soluzioni per pubblicare le personalizzazioni.
+1. Vai a [!UICONTROL Settings] > [!UICONTROL Solutions] per pubblicare le personalizzazioni.
 
    ![](assets/image2015-10-9-11-3a12-3a43.png)
 
-1. Fare clic su **Publish tutte le personalizzazioni**.
+1. Fai clic su **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-10-9-11-3a14-3a42.png)
 

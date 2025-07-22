@@ -4,9 +4,9 @@ description: Come registrare le e-mail in altri CRM - Documentazione di Marketo 
 title: Come registrare le e-mail in altri CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -19,18 +19,18 @@ Se il CRM ti fornisce un indirizzo Ccn, puoi utilizzare la sezione &quot;Altro&q
 
 **Quasi ogni CRM**:
 
-* La funzione di Ccn automatico funziona con quasi tutte le e-mail di record del CRM che hai inviato con Sales Connect ai tuoi lead. Assicurati solo che il tuo CRM di scelta ti fornisca un indirizzo in Ccn per sfruttarlo.
+* La funzione di Ccn automatico funziona con quasi tutte le e-mail di record del CRM inviate con [!DNL Sales Connect] ai lead. Assicurati solo che il tuo CRM di scelta ti fornisca un indirizzo in Ccn per sfruttarlo.
 
-**Salesforce**:
+**[!DNL Salesforce]**:
 
 * Facciamo tutte le cose di cui sopra e di più!
 
 ## Come connettersi ad altri CRM {#how-to-connect-to-other-crms}
 
-1. Fare clic su **Impostazioni**.
+1. Fai clic su **[!UICONTROL Settings]**.
 1. Fare clic su **CRM**.
-1. Fai clic su **Connetti** in Altri CRM.
-1. Fai clic su **Configura**, quindi incolla il tuo indirizzo Ccn qui sotto e-mail in Ccn.
-1. Fai clic su **Salva** per salvare l&#39;indirizzo Ccn in Sales Connect.
+1. Fare clic su **[!UICONTROL Connect]** in Altri CRM.
+1. Fai clic su **[!UICONTROL Configure]**, quindi incolla il tuo indirizzo Ccn qui sotto e-mail in Ccn.
+1. Fare clic su **[!UICONTROL Save]** e l&#39;indirizzo Ccn verrà salvato in [!DNL Sales Connect].
 
    Le e-mail verranno ora registrate nel CRM tramite Ccn.

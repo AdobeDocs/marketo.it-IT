@@ -4,10 +4,10 @@ description: Set Stream Cadence - Documentazione di Marketo - Documentazione del
 title: Imposta cadenza flusso
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 0%
+source-wordcount: '361'
+ht-degree: 1%
 
 ---
 
@@ -17,25 +17,25 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
 
 ## Imposta cadenza {#set-cadence}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Trova e seleziona il tuo programma di coinvolgimento, fai clic sulla scheda **Streams**, quindi fai clic su **Imposta cadenza flusso**.
+1. Trovare e selezionare il programma di coinvolgimento, fare clic sulla scheda **[!UICONTROL Streams]**, quindi su **[!UICONTROL Set Stream Cadence]**.
 
    ![](assets/selectstreamcadence.jpg)
 
-1. Selezionare la frequenza con cui si desidera che la cadenza ricorra. Puoi scegliere **Settimanale** o **Mensile**.
+1. Selezionare la frequenza con cui si desidera che la cadenza ricorra. È possibile scegliere **[!UICONTROL Weekly]** o **[!UICONTROL Monthly]**.
 
 ## Settimanale {#weekly}
 
-1. Seleziona **Settimanale**.
+1. Seleziona **[!UICONTROL Weekly]**.
 
    ![](assets/image2017-12-5-14-3a9-3a43.png)
 
    >[!NOTE]
    >
-   >Se selezioni **Nessuno**, il flusso verrà interrotto.
+   >Selezionando **[!UICONTROL None]** il flusso verrà interrotto.
 
 1. Scegliete la data del primo cast.
 
@@ -51,9 +51,9 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
 
    >[!TIP]
    >
-   >Puoi impostare la cadenza in modo che venga eseguita ogni giorno scegliendo **Ripetizioni: settimanali** / **Ogni: 1 settimana** / **Il**: tutti i giorni.
+   >È possibile impostare la cadenza in modo che venga eseguita ogni giorno scegliendo **[!UICONTROL Repeats]:[!UICONTROL Weekly]** / **[!UICONTROL Every]: 1[!UICONTROL Week]** / **[!UICONTROL On]**: tutti i giorni.
 
-   Ora scegli l’Ora. Seleziona la casella se desideri utilizzare il [Fuso orario del destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ovvero, recapitare in base ai fusi orari locali), quindi fai clic su **Salva**.
+   Ora scegli l’Ora. Selezionare la casella se si desidera utilizzare il [fuso orario del destinatario](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence/schedule-engagement-programs-with-recipient-time-zone.md)(ovvero, recapitare in base ai fusi orari locali), quindi fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2017-12-5-14-3a20-3a11.png)
 
@@ -69,11 +69,11 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
    >
    >In questo esempio, un’e-mail verrà inviata giovedì. Quindi saltiamo una settimana e inviamo di nuovo martedì, mercoledì e giovedì della settimana successiva. E poi ripetiamo il ciclo.
 
-Tutto qui! Continua a leggere se vuoi impostare una cadenza mensile.
+Tutto qui. Continua a leggere se vuoi impostare una cadenza mensile.
 
 ## Mensile {#monthly}
 
-1. Seleziona **Mensile** per la frequenza con cui si ripete.
+1. Selezionare **[!UICONTROL Monthly]** per la frequenza di ripetizione.
 
    ![](assets/image2014-9-15-16-3a30-3a15.png)
 
@@ -93,7 +93,7 @@ Tutto qui! Continua a leggere se vuoi impostare una cadenza mensile.
    >
    >In alternativa, è possibile scegliere il giorno della settimana.
 
-1. Scegli un **Tempo** e fai clic su **Salva**.
+1. Selezionare **[!UICONTROL Time]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 

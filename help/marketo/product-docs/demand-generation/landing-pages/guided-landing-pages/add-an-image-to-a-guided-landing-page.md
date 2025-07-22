@@ -4,9 +4,9 @@ description: Aggiungere un’immagine a una pagina di destinazione guidata - Doc
 title: Aggiungere un’immagine a una pagina di destinazione guidata
 exl-id: 9cf9eec9-f8b5-4ca3-a6b3-f2d7f3e742ca
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 A differenza delle pagine di destinazione in formato libero, le pagine di destinazione guidate dispongono di spazi predefiniti e bloccati in cui aggiungere immagini.
 
-1. Seleziona una pagina di destinazione guidata. Fare clic su **Modifica bozza**.
+1. Seleziona una pagina di destinazione guidata. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-19-14-3a1-3a26.png)
 
@@ -23,7 +23,7 @@ A differenza delle pagine di destinazione in formato libero, le pagine di destin
 
    ![](assets/image2015-5-19-14-3a4-3a29.png)
 
-1. Selezionare l&#39;immagine desiderata e fare clic su **Inserisci**.
+1. Selezionare l&#39;immagine desiderata e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-10-3a37-3a33.png)
 

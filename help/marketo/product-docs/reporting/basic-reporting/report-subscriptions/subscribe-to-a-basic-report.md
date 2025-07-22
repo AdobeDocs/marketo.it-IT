@@ -4,10 +4,10 @@ description: Iscriviti a un rapporto di base - Documentazione di Marketo - Docum
 title: Iscriviti a un rapporto di base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 2%
 
 ---
 
@@ -19,19 +19,19 @@ Per ricevere aggiornamenti automatici di un report di base o per condividerli, �
 >
 >Per le sottoscrizioni ai report di Revenue Cycle Explorer, vedere [Abbonarsi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 
-1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Abbonamenti**.
+1. Selezionare il report dalla struttura di navigazione e fare clic sulla scheda **[!UICONTROL Subscriptions]**.
 
    ![](assets/image2014-9-16-10-3a32-3a1.png)
 
    >[!NOTE]
    >
-   >È inoltre possibile sottoscrivere report dalla scheda **Analytics**.
+   >È inoltre possibile sottoscrivere i report dalla scheda **[!UICONTROL Analytics]**.
 
-1. Fare clic su **Nuova sottoscrizione report**.
+1. Fai clic su **[!UICONTROL New Report Subscription]**.
 
    ![](assets/image2014-9-16-10-3a32-3a24.png)
 
@@ -43,7 +43,7 @@ Per ricevere aggiornamenti automatici di un report di base o per condividerli, �
    >
    >Chiunque può annullare l’abbonamento al report nell’e-mail che riceve.
 
-   Tutto qui! Controlla la tua casella in entrata!
+   Tutto qui. Controlla la tua casella in entrata!
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 

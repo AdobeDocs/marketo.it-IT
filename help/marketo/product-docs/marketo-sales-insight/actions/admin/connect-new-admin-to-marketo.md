@@ -3,9 +3,9 @@ description: Collegare il nuovo amministratore a Marketo - Documentazione di Mar
 title: Connetti nuovo amministratore a Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Se l’altro amministratore è già connesso a Marketo, deve eseguire solo il pa
 
 Se il secondo amministratore non è connesso a Marketo come amministratore...
 
-1. L’amministratore principale deve disconnettere il secondo amministratore da Marketo da Impostazioni > Marketo > Accesso utente.
+1. L&#39;amministratore principale deve disconnettere il secondo amministratore da Marketo da [!UICONTROL Settings] > Marketo > [!UICONTROL User Access].
 
-1. L&#39;amministratore secondario accede al proprio account MSC, passa a Impostazioni > Marketo e fa clic su **Connetti**.
+1. L&#39;amministratore secondario accede al proprio account MSC, passa a [!UICONTROL Settings] > Marketo e fa clic su **[!UICONTROL Connect]**.
 
 1. Ora l’utente secondario è connesso a Marketo come amministratore.
 
@@ -32,7 +32,7 @@ Se il secondo amministratore non è connesso a Marketo come amministratore...
 
 Se decidi di rimuovere l’Amministratore che ha configurato l’integrazione di Marketo, consulta questo articolo per scoprire come.
 
-L’integrazione Marketo sarà associata a un utente amministratore di Sales Connect/Actions. In genere, si tratta dell’amministratore che ha fatto clic per primo sul pulsante &quot;Connetti&quot; nella pagina di connessione di Marketo e ha stabilito la connessione.
+L&#39;integrazione di Marketo verrà associata a un utente amministratore [!DNL Sales Connect]/Actions. In genere si tratta dell&#39;amministratore che ha fatto clic per la prima volta sul pulsante **[!UICONTROL Connect]** nella pagina di connessione di Marketo e ha stabilito la connessione.
 
 Per rimuovere l’amministratore che ha stabilito la connessione a Marketo, è necessario prima stabilire una nuova connessione da un altro utente amministratore. Abbiamo elencato le attività seguenti che dovranno essere completate per farlo.
 
@@ -52,11 +52,11 @@ Per semplificare le istruzioni, consulta l’Amministratore attualmente connesso
 
 L’Amministratore A (originariamente responsabile della connessione) deve seguire la procedura riportata di seguito.
 
-1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
+1. Nell&#39;applicazione Web fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
 1. Fare clic su **Marketo**.
 
-1. Fare clic su **Accesso utente**.
+1. Fai clic su **[!UICONTROL User Access]**.
 
 1. Cerca l’Amministratore per il quale vuoi stabilire la nuova connessione Marketo.
 
@@ -66,20 +66,20 @@ L’Amministratore A (originariamente responsabile della connessione) deve segui
 
 Questi passaggi devono essere seguiti da Amministratore B (nuovo Amministratore)
 
-1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
+1. Nell&#39;applicazione Web fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
 1. Fare clic su **Marketo**.
 
-1. Fare clic su **Disconnetti**.
+1. Fai clic su **[!UICONTROL Disconnect]**.
 
 **Disconnetti l&#39;integrazione di Marketo per l&#39;amministratore A**
 
 Questi passaggi devono essere seguiti dall’Amministratore A (Amministratore originariamente connesso).
 
-1. Nell&#39;applicazione Web, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
+1. Nell&#39;applicazione Web fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
 1. Fare clic su **Marketo**.
 
-1. Fare clic su **Disconnetti**.
+1. Fai clic su **[!UICONTROL Disconnect]**.
 
-Ora che un nuovo amministratore ha stabilito una connessione a Marketo e l’amministratore originale è stato disconnesso, l’amministratore originariamente connesso può essere rimosso in modo sicuro dall’istanza Sales Connect/Actions.
+Ora che un nuovo amministratore ha stabilito una connessione a Marketo e l&#39;amministratore originale è stato disconnesso, l&#39;amministratore originariamente connesso può essere rimosso in modo sicuro dall&#39;istanza [!DNL Sales Connect]/Actions.

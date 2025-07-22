@@ -4,9 +4,9 @@ description: Pianificare il test A/B - Documentazione di Marketo - Documentazion
 title: Pianificare il test A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
 >
 >Per i test di data e ora, è necessario impostare solo quando si riceve il riepilogo dei risultati del test.
 
-1. Seleziona la data **Invia test**.
+1. Seleziona la data **[!UICONTROL Send Test]**.
 
 ![](assets/image2014-9-12-15-3a59-3a54.png)
 
-1. Seleziona l&#39;ora **Invia test**.
+1. Selezionare l&#39;ora **[!UICONTROL Send Test]**.
 
    ![](assets/image2014-9-12-16-3a0-3a2.png)
 
@@ -35,7 +35,7 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
    >
    >Invia vincitore test e Invia vincitore devono essere a distanza di almeno 4 ore. Tuttavia, per invii più grandi potresti voler aspettare 24 ore per avere il tempo necessario per ottenere buoni risultati.
 
-1. Fai la stessa cosa per **Invia vincitore**. Immettere i destinatari della notifica (facoltativo) e fare clic su **Avanti**.
+1. Eseguire la stessa operazione per **[!UICONTROL Send Winner]**. Immettere i destinatari della notifica (facoltativo) e fare clic su **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
@@ -47,11 +47,11 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
    >
    >Se hai scelto di dichiarare manualmente un vincitore, definirai **Data/ora invio report** invece di **Data/ora fine invio**.
 
-   Super! Al termine, esaminare il riepilogo e fare clic su Chiudi.
+   Super! Al termine, esaminare il riepilogo e fare clic su **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-12-16-3a1-3a23.png)
 
-   Noterai che la sezione **Pianificazione** è ora aggiornata.
+   Noterai che la sezione **[!UICONTROL Schedule]** è ora aggiornata.
 
    ![](assets/image2014-9-12-16-3a1-3a33.png)
 

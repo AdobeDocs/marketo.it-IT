@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
-description: Elenchi account - Documentazione di Marketo - Documentazione del prodotto
-title: Elenchi account
+description: '[!UICONTROL Account Lists] - Documentazione di Marketo - Documentazione del prodotto'
+title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
-# Elenchi account {#account-lists}
+# [!UICONTROL Account Lists] {#account-lists}
 
 Un elenco di account è un insieme di account denominati che possono essere oggetto di targeting. Gli elenchi di account consentono di eseguire il targeting degli account denominati per settore, posizione o dimensione dell’azienda.
 
@@ -21,15 +21,15 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 
 >[!NOTE]
 >
->Gli elenchi account creati in Gestione account di Marketo Target sono automaticamente disponibili quando si creano elenchi avanzati e campagne Web in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
+>Gli elenchi account creati in Marketo [!UICONTROL Target Account Management] sono automaticamente disponibili durante la creazione di elenchi avanzati e campagne Web in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
 ## Crea un nuovo elenco account {#create-a-new-account-list}
 
-1. Fai clic sul menu a discesa **Nuovo** e seleziona **Crea nuovo elenco account**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL Create New Account List]**.
 
    ![](assets/1a.png)
 
-1. Assegna un nome all&#39;elenco e fai clic su **Crea**.
+1. Assegna un nome all&#39;elenco e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/three-0.png)
 
@@ -41,7 +41,7 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 
 ## Creare un nuovo elenco account dinamico {#create-a-new-dynamic-account-list}
 
-1. Fai clic sul menu a discesa **Nuovo** e seleziona **Crea nuovo elenco dinamico**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL Create New Dynamic List]**.
 
    ![](assets/1.png)
 
@@ -49,13 +49,13 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 
    ![](assets/image2017-7-18-9-48-23.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/step4.jpg)
 
    >[!NOTE]
    >
-   >In Salesforce, assicurati di fornire all’utente di sincronizzazione le autorizzazioni per gli oggetti Vista a elenco.
+   >In Salesforce, assicurati di fornire all’utente di sincronizzazione le autorizzazioni per l’oggetto Visualizzazione elenco.
 
 ## Rinominare un elenco di account {#rename-an-account-list}
 
@@ -63,11 +63,11 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 >
 >Questi passaggi si applicano solo agli elenchi di account. Gli elenchi di account _Dynamic_ utilizzano il nome delle visualizzazioni account CRM associate.
 
-1. Selezionare l&#39;account che si desidera rinominare, fare clic sull&#39;elenco a discesa **Azioni elenco account** e selezionare **Rinomina elenco account**.
+1. Selezionare l&#39;account che si desidera rinominare, fare clic sull&#39;elenco a discesa **[!UICONTROL Account List Actions]** e selezionare **[!UICONTROL Rename Account List]**.
 
    ![](assets/three.png)
 
-1. Immettere il nuovo nome e fare clic su **Rinomina**.
+1. Immettere il nuovo nome e fare clic su **[!UICONTROL Rename]**.
 
    ![](assets/four.png)
 
@@ -81,15 +81,15 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 >
 >Questi passaggi sono gli stessi sia per gli elenchi account che per gli elenchi account dinamici.
 
-1. Selezionare l&#39;account da eliminare, fare clic sull&#39;elenco a discesa **Azioni elenco account** e selezionare **Elimina elenco account**.
+1. Selezionare l&#39;account che si desidera eliminare, fare clic sull&#39;elenco a discesa **[!UICONTROL Account List Actions]** e selezionare **[!UICONTROL Delete Account List]**.
 
    ![](assets/five.png)
 
-1. Fare clic su **Elimina**.
+1. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/six.png)
 
 >[!MORELIKETHIS]
 >
->* [Aggiungere un account denominato esistente a un elenco di account](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
+>* [Aggiungere un [!UICONTROL Named Account] esistente a un elenco account](/help/marketo/product-docs/target-account-management/target/named-accounts/add-an-existing-named-account-to-an-account-list.md)
 >* [Informazioni elenco account](/help/marketo/product-docs/target-account-management/measure/account-list-insights.md)

@@ -4,32 +4,32 @@ description: Implementazione di RTP su Wordpress Enterprise - Documentazione di 
 title: Implementazione di RTP su Wordpress Enterprise
 exl-id: 61cfd3f8-0811-4352-9752-0081ce19257b
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 # Implementazione di RTP su Wordpress Enterprise {#implementing-rtp-on-wordpress-enterprise}
 
-Per implementare il tag RTP, seguire le istruzioni di installazione riportate di seguito:
+Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione riportate di seguito:
 
-1. Vai a **Impostazioni account**.
+1. Vai a **[!UICONTROL Account Settings]**.
 
    a. Se hai già ricevuto il tag JavaScript dal Supporto tecnico - continua con il passaggio 3.
 
    ![](assets/image2014-11-30-15-3a19-3a21-3.png)
 
-1. In Dominio individuare il dominio pertinente e fare clic su **Genera tag**.
+1. In [!UICONTROL Domain], individuare il dominio pertinente e fare clic su **[!UICONTROL Generate Tag]**.
 
    ![](assets/image2014-11-30-15-3a20-3a17-3.png)
 
 1. Copia il tag JavaScript RTP.
 
-1. Accedi al tuo account WordPress come utente amministratore
+1. Accedi al tuo account [!DNL WordPress] come utente amministratore
 
-   a. In **Aspetto**, vai a **JavaScript personalizzato**.
+   a. Sotto **[!UICONTROL Appearance]**, vai a **[!UICONTROL Custom JavaScript]**.
 b. Incolla il tag JavaScript RTP subito dopo il codice esistente.
 
    ![](assets/image2014-12-3-17-3a51-3a46.png)
@@ -45,4 +45,4 @@ b. Incolla il tag JavaScript RTP subito dopo il codice esistente.
    >
    >Inserire SOLO lo script stesso.
 
-1. Fai clic su **Aggiorna**.
+1. Fai clic su **[!UICONTROL Update]**.

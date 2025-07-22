@@ -4,9 +4,9 @@ description: Aggiungere contenuto a un flusso - Documentazione Marketo - Documen
 title: Aggiungere contenuto a un flusso
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '160'
 ht-degree: 1%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto ai flussi. Puoi aggiungere e-mail o programmi a un flusso.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/add-content-to-a-stream-1.png)
 
-1. Seleziona il programma di coinvolgimento e passa alla scheda **Streams**.
+1. Selezionare il programma di coinvolgimento e passare alla scheda **[!UICONTROL Streams]**.
 
    ![](assets/add-content-to-a-stream-2.png)
 
@@ -27,11 +27,11 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto ai
 
 **Pulsante Aggiungi contenuto**
 
-1. Fare clic sul pulsante **Aggiungi contenuto**.
+1. Fare clic sul pulsante **[!UICONTROL Add Content]**.
 
    ![](assets/add-content-to-a-stream-3.png)
 
-1. Scegli **E-mail** _o_ **Programma**, quindi seleziona l&#39;e-mail o il programma/campagna avanzata che desideri aggiungere.
+1. Scegli **[!UICONTROL Email]** _o_ **[!UICONTROL Program]**, quindi seleziona l&#39;e-mail o il programma/smart campaign che desideri aggiungere.
 
    ![](assets/add-content-to-a-stream-4.png)
 
@@ -41,13 +41,13 @@ Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto ai
 
 Icona **+**
 
-1. Fai clic sull&#39;icona **+**, scegli **E-mail** _o_ **Programma**, quindi seleziona l&#39;e-mail o il programma/smart campaign che desideri aggiungere.
+1. Fai clic sull&#39;icona **+**, scegli **[!UICONTROL Email]** _or_ **[!UICONTROL Program]**, quindi seleziona l&#39;e-mail o il programma/smart campaign che desideri aggiungere.
 
    ![](assets/add-content-to-a-stream-5.png)
 
    >[!NOTE]
    >
-   >Una campagna avanzata deve contenere il filtro **Membro del programma di coinvolgimento** affinché funzioni correttamente.
+   >Una campagna avanzata deve contenere il filtro **[!UICONTROL Member of Engagement Program]** per funzionare correttamente.
 
 Ottimo lavoro! Ora sai come aggiungere contenuti ai flussi del programma. Aggiungete tutto il necessario per la vostra coltura. Per ulteriori informazioni, consulta l’articolo correlato riportato di seguito.
 

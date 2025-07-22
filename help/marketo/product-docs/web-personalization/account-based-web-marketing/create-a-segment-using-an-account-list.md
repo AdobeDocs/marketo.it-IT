@@ -4,10 +4,10 @@ description: Creare un segmento utilizzando un elenco di account - Documentazion
 title: Creare un segmento utilizzando un elenco di conti
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ Ecco come creare un segmento utilizzando un Elenco account.
 >
 >[Crea un nuovo elenco account](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Vai a **Segmenti**.
+1. Vai a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 
-1. Fare clic su **Crea nuovo**.
+1. Fai clic su **[!UICONTROL Create New]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
-1. Immetti un nome per il segmento. Trascina **Elenchi account** dalla sezione **Firmographics**.
+1. Immetti un nome per il segmento. Trascinare **[!UICONTROL Account Lists]** dalla sezione **[!UICONTROL Firmographics]**.
 
    ![](assets/set-segment-hands.jpg)
 
@@ -39,7 +39,7 @@ Ecco come creare un segmento utilizzando un Elenco account.
    >
    >Gli elenchi account vengono sincronizzati da ABM a Web Personalization per l’utilizzo in Segmentazione. Selezionali dal menu a discesa. La sincronizzazione può richiedere fino a cinque minuti. Verrà sincronizzato solo se nell&#39;elenco account sono presenti uno o più account denominati.
 
-1. Fai clic su **Salva** oppure su **Salva e definisci campagna** per passare alla pagina Campagne.
+1. Fare clic su **[!UICONTROL Save]** oppure su **[!UICONTROL Save & Define Campaign]** per passare alla pagina Campagne.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

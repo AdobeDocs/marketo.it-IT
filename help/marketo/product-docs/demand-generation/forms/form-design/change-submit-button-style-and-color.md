@@ -4,10 +4,10 @@ description: Modificare lo stile e il colore del pulsante di invio - Documentazi
 title: Cambia stile e colore del pulsante Invia
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 2%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di più sofisticato, puoi scegliere tra un&#39;ampia gamma di stili di pulsante pronti all&#39;uso.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a54-3a36.png)
 
-1. Seleziona il pulsante **Invia** e fai clic su **Modifica** accanto a Stile pulsante.
+1. Selezionare il pulsante **[!UICONTROL Submit]** e fare clic su **[!UICONTROL Edit]** accanto a Stile pulsante.
 
    ![](assets/image2014-9-15-16-3a54-3a56.png)
 
@@ -43,15 +43,15 @@ Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di 
    >
    >È inoltre possibile immettere manualmente il codice colore.
 
-1. Fai clic su **Seleziona**.
+1. Fai clic su **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

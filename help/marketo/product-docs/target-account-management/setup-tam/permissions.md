@@ -4,10 +4,10 @@ description: Autorizzazioni - Documentazione di Marketo - Documentazione del pro
 title: Autorizzazioni
 exl-id: 18206046-15b9-47bc-bea7-88f207dd4021
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 1%
+source-wordcount: '116'
+ht-degree: 3%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Per poter utilizzare TAM, devi configurare le autorizzazioni per gli utenti. Ecco come.
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/one-2.png)
 
-1. Fai clic su **Utenti e ruoli**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/two-2.png)
 
@@ -27,15 +27,15 @@ Per poter utilizzare TAM, devi configurare le autorizzazioni per gli utenti. Ecc
    >
    >Puoi aggiungere le autorizzazioni TAM per un ruolo esistente o crearne uno nuovo. Questo esempio utilizza un nuovo ruolo.
 
-1. Fai clic su **Ruoli**, quindi su **Nuovo ruolo**.
+1. Fare clic su **[!UICONTROL Roles]**, quindi su **[!UICONTROL New Role]**.
 
    ![](assets/three-2.png)
 
-1. Immettere un nome di ruolo e fare clic sull&#39;icona **+** accanto alla casella di controllo Gestione account di destinazione di accesso.
+1. Immettere [!UICONTROL Role Name] e fare clic sull&#39;icona **+** accanto alla casella di controllo **[!UICONTROL Access Target Account Management]**.
 
    ![](assets/permissions-4.png)
 
-1. Per selezionare _tutte_ le autorizzazioni, seleziona semplicemente la casella di controllo **Gestione account di destinazione di accesso**.
+1. Per selezionare _tutte_ le autorizzazioni, selezionare la casella di controllo **[!UICONTROL Access Target Account Management]**.
 
    ![](assets/permissions-5.png)
 
@@ -43,7 +43,7 @@ Per poter utilizzare TAM, devi configurare le autorizzazioni per gli utenti. Ecc
    >
    >È inoltre possibile selezionare solo alcune delle opzioni. Per farlo, seleziona ogni casella di controllo singolarmente.
 
-1. Fare clic su **+** per aprire il menu Amministrazione accesso. Selezionare la casella di controllo **Accedi ad ABM Admin** (ABM è il nome precedente per TAM) e fare clic su **Crea**.
+1. Fare clic su **+** per aprire il menu **[!UICONTROL Access Admin]**. Selezionare la casella di controllo **[!UICONTROL Access ABM Admin]** (ABM è il nome precedente per TAM) e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/permissions-6.png)
 

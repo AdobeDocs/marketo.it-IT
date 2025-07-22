@@ -1,10 +1,10 @@
 ---
 unique-page-id: 11377945
-description: Panoramica di Audit Trail - Documentazione di Marketo - Documentazione del prodotto
+description: Audit Trail] Panoramica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Audit Trail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Marketo controllerà le azioni [crea, modifica ed elimina](/help/marketo/product
 
 >[!NOTE]
 >
->Marketo _non_ sta effettuando il controllo delle modifiche in Web Personalization, Predictive Content o Sales Insight in questo momento.
+>Marketo _non_ è in corso il controllo delle modifiche apportate in Web Personalization, Predictive Content o Sales Insight.
 
 ## Componenti Audit Trail {#audit-trail-components}
 

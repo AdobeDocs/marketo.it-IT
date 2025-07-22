@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 exl-id: 8d9d0c78-1f01-48ad-93ac-5c353173c4f3
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
 # Composizione di e-mail in blocco con Seleziona e invia {#composing-bulk-emails-with-select-and-send}
 
-Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
+Ecco come inviare/modificare le e-mail utilizzando le opzioni [!UICONTROL Select] e [!UICONTROL Send].
 
 ## Invio di e-mail {#sending-emails}
 
-1. Passare alla pagina Persone.
+1. Passare a **[!UICONTROL People page]**.
 
    ![](assets/composing-bulk-emails-with-select-and-send-1.png)
 
@@ -30,7 +30,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
    >
    >È possibile selezionare fino a 200 persone con le opzioni Seleziona e Invia.
 
-1. Fai clic sul pulsante **E-mail selezionata**.
+1. Fare clic sul pulsante **[!UICONTROL Email Selected]**.
 
    ![](assets/composing-bulk-emails-with-select-and-send-3.png)
 
@@ -40,7 +40,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
 
    >[!NOTE]
    >
-   >Se è stato selezionato un modello e si desidera verificare che tutti i campi dinamici siano compilati correttamente prima dell&#39;invio, fare clic su **Anteprima campi dinamici**. Assicurati che tutti i destinatari nella barra laterale in massa siano selezionati per l’anteprima di tutte le e-mail. Se si seleziona un&#39;e-mail e si fa clic su **Anteprima campi dinamici**, verrà visualizzata solo l&#39;anteprima dell&#39;e-mail.
+   >Se è stato selezionato un modello e si desidera verificare che tutti i campi dinamici siano compilati correttamente prima dell&#39;invio, fare clic su **[!UICONTROL Preview Dynamic Fields]**. Assicurati che tutti i destinatari nella barra laterale in massa siano selezionati per l’anteprima di tutte le e-mail. Se si seleziona un&#39;e-mail e si fa clic su **[!UICONTROL Preview Dynamic Fields]**, verrà visualizzata solo l&#39;anteprima dell&#39;e-mail.
 
 ## Modifica delle e-mail {#editing-emails}
 
@@ -50,7 +50,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se si fa clic su un singolo utente e si desidera riselezionare tutti gli utenti, fare clic su **Tutti i destinatari**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
+   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se si fa clic su un singolo utente e si desidera riselezionare tutti gli utenti, fare clic su **[!UICONTROL All Recipients]**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
 
 1. Apporta le modifiche nell’editor. Puoi creare una nuova e-mail o modificare un modello (in questo esempio stiamo creando una nuova e-mail).
 
@@ -60,7 +60,7 @@ Ecco come inviare/modificare le e-mail utilizzando le opzioni Seleziona e Invia.
    >
    >Puoi fare clic su un destinatario e-mail specifico per visualizzare le modifiche propagate a tale e-mail.
 
-1. Fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
+1. Fai clic su **[!UICONTROL Send]** (o [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
 
    ![](assets/composing-bulk-emails-with-select-and-send-6.png)
 
@@ -72,7 +72,7 @@ Completa gli Aggiornamenti in blocco prima di personalizzare ogni e-mail, poich�
 
    >[!NOTE]
    >
-   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se si fa clic su un singolo utente e si desidera riselezionare tutti gli utenti, fare clic su **Tutti i destinatari**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
+   >Per impostazione predefinita, verranno selezionati tutti i destinatari. Se si fa clic su un singolo utente e si desidera riselezionare tutti gli utenti, fare clic su **[!UICONTROL All Recipients]**. Come promemoria, per apportare modifiche in blocco è necessario selezionare tutti i destinatari.
 
 1. Seleziona un singolo destinatario.
 
@@ -90,7 +90,7 @@ Completa gli Aggiornamenti in blocco prima di personalizzare ogni e-mail, poich�
    >
    >Puoi fare clic su altri destinatari per verificare che le modifiche apportate al destinatario selezionato in precedenza non siano visualizzate.
 
-1. Fai clic su **Invia** (o [Pianifica](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
+1. Fai clic su **[!UICONTROL Send]** (o [[!UICONTROL Schedule]](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)) per inviare a tutti i destinatari gli aggiornamenti e-mail in blocco che hai effettuato.
 
    ![](assets/composing-bulk-emails-with-select-and-send-9.png)
 

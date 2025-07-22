@@ -4,16 +4,16 @@ description: Informazioni sui tag - Documentazione di Marketo - Documentazione d
 title: Informazioni sui tag
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 2%
 
 ---
 
 # Informazioni sui tag {#understanding-tags}
 
-Probabilmente già sapete che i programmi sono come elementi di base in Marketo Engage. L’utilizzo di tag e canali ti aiuterà a filtrare i dati a scopo di reporting.
+Probabilmente ormai sai che i programmi sono come elementi di base in Marketo Engage. L’utilizzo di tag e canali ti aiuterà a filtrare i dati a scopo di reporting.
 
 I tag vengono utilizzati per descrivere i programmi. Puoi crearne quanti ne hai bisogno, ciascuno con valori univoci. I canali identificano il meccanismo di consegna in un programma, ad esempio webinar, sponsorizzazione o annunci online.
 
@@ -29,7 +29,7 @@ I tipi di tag identificano il tipo di informazioni in base alle quali si desider
 >
 >**Esempio**
 >
->* Tipo di tag = Proprietario del programma
+>* [!UICONTROL Tag Type] = Proprietario del programma
 
 ![](assets/image2014-9-17-15-3a12-3a46.png)
 
@@ -45,7 +45,7 @@ Ogni tipo di tag avrà dei valori tra cui scegliere.
 
 ![](assets/image2014-9-17-15-3a16-3a8.png)
 
-## Canale {#channel}
+## Channel {#channel}
 
 I canali vengono utilizzati per creare rapporti sullo spostamento dei [membri](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"} nel programma. Ogni canale ha un set di stati di progressione e uno stato impostato su un successo uguale.
 

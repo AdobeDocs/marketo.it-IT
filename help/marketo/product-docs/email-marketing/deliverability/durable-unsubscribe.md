@@ -4,9 +4,9 @@ description: Annullamento duraturo dell’abbonamento - Documentazione di Market
 title: Annulla iscrizione durevole
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 777413b4256ab5342b933fa04c34d8a8d1201c0e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ Quando viene creata una nuova persona, Marketo la confronta con la tabella dello
 
 ## Modifica di un indirizzo e-mail {#changing-an-email-address}
 
-Se modifichi l’indirizzo e-mail di una persona impostandolo su un indirizzo e-mail a cui non è stata effettuata l’iscrizione, la persona verrà annullata. Questa modifica può verificarsi in Marketo o Salesforce.
+Se modifichi l’indirizzo e-mail di una persona impostandolo su un indirizzo e-mail a cui non è stata effettuata l’iscrizione, la persona verrà annullata. Questa modifica può verificarsi in Marketo o [!DNL Salesforce].
 
 ## Ri-iscrizione {#re-subscribing}
 

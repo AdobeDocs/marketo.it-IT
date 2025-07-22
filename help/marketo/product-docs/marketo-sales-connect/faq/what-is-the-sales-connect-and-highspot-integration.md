@@ -4,47 +4,47 @@ description: Cos'è l'integrazione Sales Connect e Highspot? - Documentazione di
 title: Cos'è l'integrazione Sales Connect e Highspot?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
-# Cos&#39;è l&#39;integrazione Sales Connect e Highspot? {#what-is-the-sales-connect-and-highspot-integration}
+# Cos&#39;è l&#39;integrazione di [!DNL Sales Connect] e [!DNL Highspot]? {#what-is-the-sales-connect-and-highspot-integration}
 
-Sales Connect supporta l&#39;integrazione con [Highspot](https://www.highspot.com/), un sistema di gestione dei contenuti. I clienti Sales Connect che sono anche clienti Highspot possono accedere ai contenuti Highspot direttamente dall&#39;applicazione web.
+[!DNL Sales Connect] supporta l&#39;integrazione con [Highspot](https://www.highspot.com/), un sistema di gestione dei contenuti. [!DNL Sales Connect] clienti che sono anche [!DNL Highspot] clienti possono accedere ai loro contenuti di [!DNL Highspot] dall&#39;interno dell&#39;applicazione Web.
 
 ## Requisiti {#requirements}
 
-Per utilizzare l’integrazione Sales Connect con Highspot, sono necessari i seguenti elementi:
+Per utilizzare l&#39;integrazione di [!DNL Sales Connect] con [!DNL Highspot] è necessario disporre dei seguenti elementi:
 
-* **Browser - Versioni più recenti di Chrome e Safari, Edge, IE o Firefox**
+* **Browser - Versioni più recenti di [!DNL Chrome] e [!DNL Safari], [!DNL Edge], IE o Firefox**
 
-Oltre a lavorare in Sales Connect in un browser, l&#39;integrazione Highspot è disponibile nel nostro client di posta elettronica Outlook .Net. I requisiti sono i seguenti:
+Oltre a lavorare in [!DNL Sales Connect] in un browser, l&#39;integrazione di [!DNL Highspot] è disponibile nel nostro client di posta elettronica [!DNL Outlook .Net]. I requisiti sono i seguenti:
 
-* **Outlook .Net ed Exchange** - Versione supportata da Sales Connect di Outlook .Net, Exchange Online, Exchange 2016
+* **[!DNL Outlook .Net]e[!DNL Exchange]** - [!DNL Sales Connect] versione supportata di [!DNL Outlook .Net], [!DNL Exchange Online], [!DNL Exchange 2016]
 
 >[!NOTE]
 >
->L&#39;estensione Sales Connect Gmail attualmente non supporta l&#39;integrazione Highspot
+>L&#39;estensione Gmail [!DNL Sales Connect] non supporta attualmente l&#39;integrazione con [!DNL Highspot]
 
-## Abilitazione dell&#39;integrazione Sales Connect e Highspot {#enabling-the-sales-connect-and-highspot-integration}
+## Abilitazione dell&#39;integrazione di [!DNL Sales Connect] e [!DNL Highspot] {#enabling-the-sales-connect-and-highspot-integration}
 
-Se ti interessa abilitare l&#39;integrazione Highspot per il tuo team, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#).
+Se ti interessa abilitare l&#39;integrazione [!DNL Highspot] per il tuo team, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support#).
 
 ## Come utilizzare l’integrazione {#how-to-use-the-integration}
 
-Una volta abilitati, ecco come accedere ai contenuti Highspot in Sales Connect.
+Una volta abilitato, ecco come accedere al contenuto di [!DNL Highspot] in [!DNL Sales Connect].
 
-1. Durante la composizione di un&#39;e-mail in Sales Connect o Outlook, scegliere **Aggiungi contenuto**.
+1. Durante la composizione di un&#39;e-mail in [!DNL Sales Connect] o [!DNL Outlook], scegli **[!UICONTROL Add Content]**.
 
-1. Seleziona **Highspot**.
+1. Seleziona **[!UICONTROL Highspot]**.
 
-1. Immetti l&#39;indirizzo e-mail del tuo account Highspot e fai clic su **Continua**.
+1. Immetti l&#39;e-mail del tuo account [!DNL Highspot] e fai clic su **[!UICONTROL Continue]**.
 
-1. Immetti la password dell&#39;account Highspot e fai clic su **Accedi**.
+1. Immettere la password dell&#39;account [!DNL Highspot] e fare clic su **[!UICONTROL Sign In]**.
 
-1. Seleziona il contenuto da Highspot da inserire nell&#39;e-mail o nel modello e fai clic su **Aggiungi contenuto**.
+1. Selezionare il contenuto da [!DNL Highspot] da inserire nell&#39;e-mail o nel modello e fare clic su **[!UICONTROL Add Content]**.
 
 1. Il contenuto viene inserito nell’e-mail o nel modello.

@@ -3,26 +3,26 @@ description: Accesso automatico da Salesforce - Documentazione Marketo - Documen
 title: Accesso automatico da Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
 
-# Accesso automatico da Salesforce {#auto-login-from-salesforce}
+# Accesso automatico da [!DNL Salesforce] {#auto-login-from-salesforce}
 
-L’accesso automatico consente agli utenti delle azioni di approfondimento sulle vendite di autenticarsi automaticamente in tali azioni quando lavorano da Salesforce.
+L&#39;accesso automatico consente a [!DNL Sales Insight Actions] utenti di autenticarsi automaticamente in [!DNL Sales Insight Actions] quando si lavora da [!DNL Salesforce].
 
 Per utilizzare l’accesso automatico:
 
-* [Le impostazioni di Gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) devono essere impostate su &quot;Solo Salesforce&quot;
+* [Le impostazioni di Gestione accesso](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md) devono essere impostate su &quot;[!UICONTROL Salesforce Only]&quot;
 
-* L&#39;utente deve essere stato invitato a utilizzare le azioni di approfondimento sulle vendite
+* L&#39;utente deve essere stato invitato a utilizzare [!DNL Sales Insight Actions]
 
-* L’utente deve aver attivato l’account collegando il proprio account Salesforce alla propria istanza delle azioni di Sales Insight
+* L&#39;utente deve aver attivato l&#39;account connettendo il proprio account [!DNL Salesforce] alla propria istanza [!DNL Sales Insight Actions]
 
-* Il nome utente delle azioni Sales Insight deve corrispondere al nome utente Salesforce dell’utente (oppure il nome utente e l’e-mail Salesforce corrispondono)
+* Il nome utente [!DNL Sales Insight Actions] dell&#39;utente deve corrispondere al nome utente [!DNL Salesforce] (oppure il nome utente e l&#39;e-mail [!DNL Salesforce] corrispondono)
 
 >[!MORELIKETHIS]
 >

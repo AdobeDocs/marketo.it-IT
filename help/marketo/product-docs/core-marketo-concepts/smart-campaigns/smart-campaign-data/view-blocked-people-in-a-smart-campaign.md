@@ -4,18 +4,18 @@ description: Visualizzare le persone bloccate in una campagna avanzata - Documen
 title: Visualizzare le persone bloccate in una campagna avanzata
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # Visualizzare le persone bloccate in una campagna avanzata {#view-blocked-people-in-a-smart-campaign}
 
-Le persone bloccate nel database del Marketo Engage sono contrassegnate come appartenenti a gruppi di lavoro inseriti nell&#39;elenco Bloccati, non iscritti, con marketing sospeso e/o con un messaggio e-mail vuoto o non valido.
+Le persone bloccate nel database di Marketo Engage inserire nell&#39;elenco Bloccati sono contrassegnate come appartenenti a un’e-mail non valida o vuota oppure sono contrassegnate come appartenenti a un gruppo di persone che ha effettuato l’iscrizione o che ha annullato l’iscrizione, che hanno sospeso l’attività di marketing e/o un messaggio e-mail non valido o vuoto.
 
-1. In Smart Campaign, fai clic su **[!UICONTROL Pianifica]**. In **[!UICONTROL Stato elenco avanzato]** fare clic sul secondo collegamento.
+1. Nella tua Smart Campaign, fai clic su **[!UICONTROL Schedule]**. In **[!UICONTROL Smart List Status]** fare clic sul secondo collegamento.
 
    ![](assets/view-blocked-people-in-a-smart-campaign-1.png)
 
@@ -23,7 +23,7 @@ Le persone bloccate nel database del Marketo Engage sono contrassegnate come app
    >
    >Anche le persone che hanno raggiunto il limite di comunicazione possono essere bloccate dalla ricezione di e-mail. Scopri come [modificare i limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"} nella sezione Amministratore.
 
-   La scheda Persone bloccate mostra le persone che potrebbero non ricevere le comunicazioni.
+   La scheda **[!UICONTROL Blocked Leads]** mostra gli utenti che potrebbero non ricevere messaggi.
 
    ![](assets/view-blocked-people-in-a-smart-campaign-2.png)
 

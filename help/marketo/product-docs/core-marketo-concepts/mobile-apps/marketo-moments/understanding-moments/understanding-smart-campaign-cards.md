@@ -4,9 +4,9 @@ description: Informazioni sulle schede per campagne intelligenti - Documentazion
 title: Informazioni sulle schede per campagne avanzate
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 61b5500c6acbe6448a70e28f4b0cafe3c005a02a
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '549'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne Smart d
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Marketo Moments non mostra ancora alcuna statistica della campagna. Verranno visualizzati in una versione futura.
 
@@ -29,9 +29,9 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-21-11-3a7-3a52.png)
 
-1. La scheda dei dettagli consente di accedere alle informazioni sui filtri Elenco avanzato, Flusso e Riepilogo e-mail.
+1. La scheda dei dettagli consente di accedere alle informazioni sui filtri [!UICONTROL Smart List], [!UICONTROL Flow] e [!UICONTROL Email Summary].
 
-1. Tocca **Elenco avanzato**.
+1. Toccare **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-9-21-13-3a31-3a49.png)
 
@@ -39,7 +39,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-21-13-3a35-3a29.png)
 
-1. Tocca **Flusso**.
+1. Toccare **[!UICONTROL Flow]**.
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
@@ -47,7 +47,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
-1. Fai clic su **Riepilogo e-mail**.
+1. Fai clic su **[!UICONTROL Email Summary]**.
 
    ![](assets/image2015-9-21-13-3a51-3a7.png)
 
@@ -71,7 +71,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-22-14-3a54-3a12.png)
 
-1. Tocca [Invia campione](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [Anteprima e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fai clic su questi collegamenti per i dettagli).
+1. Tocca [[!UICONTROL Send Sample]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md) o [[!UICONTROL Preview Email]](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/previewing-an-email.md) (fai clic su questi collegamenti per i dettagli).
 
    ![](assets/image2015-9-22-14-3a52-3a11.png)
 
@@ -83,11 +83,11 @@ Le schede per le campagne Smart Campaign non confermate sono grigie fino a quand
 
    ![](assets/image2015-9-23-10-3a43-3a23.png)
 
-1. Tocca **Conferma**.
+1. Toccare **[!UICONTROL Confirm]**.
 
    ![](assets/image2015-9-23-10-3a45-3a51.png)
 
-1. Tocca **Conferma** per terminare il processo, oppure **Non importa** se hai dei ripensamenti.
+1. Tocca **[!UICONTROL Confirm]** per terminare il processo, oppure **[!UICONTROL Never Mind]** per eventuali ripensamenti.
 
    ![](assets/image2015-9-23-10-3a47-3a28.png)
 
@@ -103,7 +103,7 @@ Puoi annullare un’esecuzione confermata e pianificata di Smart Campaign.
 
    ![](assets/image2015-9-22-14-3a34-3a14.png)
 
-1. Tocca **Annulla esecuzione**.
+1. Toccare **[!UICONTROL Cancel Run]**.
 
    ![](assets/image2015-9-22-14-3a35-3a33.png)
 
@@ -119,11 +119,11 @@ Puoi ripianificare una campagna avanzata confermata che non è ancora stata eseg
 
    ![](assets/image2015-9-22-14-3a11-3a25.png)
 
-1. Tocca **Riprogramma**.
+1. Toccare **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a13-3a25.png)
 
-1. Seleziona una data nel calendario e tocca **Riprogramma**.
+1. Seleziona una data nel calendario e tocca **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
 
@@ -141,7 +141,7 @@ Come per altre schede Marketo Moments, puoi toccare i tre punti su qualsiasi sch
 
 >[!NOTE]
 >
->Tocca anche l&#39;icona **Condividi** su una scheda di Smart Campaign da condividere e le icone **Fine** e **Preferiti** sulla scheda dei dettagli.
+>È inoltre possibile toccare l&#39;icona **[!UICONTROL Share]** su una scheda Smart Campaign da condividere e le icone **[!UICONTROL Done]** e **[!UICONTROL Favorite]** sulla scheda dei dettagli.
 
 ## Eliminare rapidamente una smart card di una campagna {#quickly-delete-a-smart-campaign-card}
 

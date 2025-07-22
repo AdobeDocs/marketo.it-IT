@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377640
-description: Autorizzare il plug-in di Marketo Outlook - Documentazione di Marketo - Documentazione del prodotto
-title: Autorizzare il plug-in di Marketo Outlook
+description: Autorizza il plug-in Marketo [!DNL Outlook] - Documentazione Marketo - Documentazione del prodotto
+title: 'Autorizza il plug-in di Marketo [!DNL Outlook] '
 exl-id: 4eeed6db-2d28-4ec9-8aa0-1c599f68b2bf
 feature: Marketo Sales Insights
-source-git-commit: 40fe81d465d04be97ae5e216250b7e06e6d3791e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# Autorizzare il plug-in di Marketo Outlook {#authorize-the-marketo-outlook-plugin}
+# Autorizza il plug-in di Marketo [!DNL Outlook] {#authorize-the-marketo-outlook-plugin}
 
-Per utilizzare il plug-in MSI di Marketo in Outlook, è necessario autorizzarlo.
+Per utilizzare il plug-in MSI di Marketo in [!DNL Outlook], è necessario autorizzarlo.
 
 >[!PREREQUISITES]
 >
@@ -27,15 +27,15 @@ Per utilizzare il plug-in MSI di Marketo in Outlook, è necessario autorizzarlo.
 
    ![](assets/image2016-8-24-16-3a4-3a28.png)
 
-1. Quando viene visualizzata la finestra di dialogo Autorizza plug-in di Marketo, fare clic su **Codice richiesta**.
+1. Quando viene visualizzata la finestra di dialogo [!UICONTROL Authorize Marketo Plugin], fare clic su **[!UICONTROL Request Code]**.
 
    ![](assets/image2016-8-24-16-3a6-3a51.png)
 
-1. Il codice viene inviato all&#39;indirizzo di posta elettronica predefinito dell&#39;account di Outlook.
+1. Il codice viene inviato all&#39;indirizzo di posta elettronica predefinito dell&#39;account [!DNL Outlook].
 
    ![](assets/image2016-8-24-16-3a8-3a36.png)
 
-1. Se l&#39;indirizzo di posta elettronica predefinito dell&#39;account di Outlook viene estratto, verrà visualizzata una chiave di registrazione. Immettilo nel pop-up e fai clic su **Invia**.
+1. Se l&#39;indirizzo di posta elettronica predefinito dell&#39;account [!DNL Outlook] viene estratto, verrà visualizzata una chiave di registrazione. Immetterlo nel popup e fare clic su **[!UICONTROL Submit]**.
 
    ![](assets/image2016-8-24-16-3a12-3a48.png)
 

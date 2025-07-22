@@ -4,9 +4,9 @@ description: Informazioni sull’elenco degli account - Documentazione di Market
 title: Informazioni sull’elenco degli account
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,11 @@ Per visualizzare la dashboard di un elenco account, fai clic sul nome...
 <table> 
  <tbody> 
   <tr> 
-   <td colspan="1"><strong>Pipeline</strong></td> 
+   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td> 
    <td colspan="1">Guarda la pipeline nel tempo. Per determinare la pipeline nel tempo per settimana, la pipeline viene utilizzata l’ultimo giorno.</td> 
   </tr> 
   <tr> 
-   <td><strong>Ricavi</strong></td> 
+   <td><strong><span class="uicontrol">Entrate</span></strong></td> 
    <td><p>Visualizzare i ricavi nel tempo. Per determinare i ricavi nel tempo per settimana, prendiamo la somma di tutti i ricavi ottenuti in quella settimana.</p></td> 
   </tr> 
  </tbody> 
@@ -44,16 +44,16 @@ Per visualizzare la dashboard di un elenco account, fai clic sul nome...
 
 ## Scheda Account denominati {#named-accounts-tab}
 
-Fare clic sulla scheda **Account denominati** per vedere quali account denominati appartengono all&#39;elenco di account.
+Fare clic sulla scheda **[!UICONTROL Named Accounts]** per vedere quali account denominati appartengono a tale elenco di account.
 
 ![](assets/three-1.png)
 
 >[!NOTE]
 >
->È possibile rimuovere un account denominato in questa scheda selezionandolo e facendo clic su **Rimuovi account denominati**.
+>È possibile rimuovere un account denominato in questa scheda selezionandolo e facendo clic su **[!UICONTROL Remove Named Accounts]**.
 
-## Utilizzato dalla scheda {#used-by-tab}
+## Scheda [!UICONTROL Used By] {#used-by-tab}
 
-Fai clic sulla scheda **Usato da** per vedere quali risorse fanno riferimento a tale elenco di account.
+Fai clic sulla scheda **[!UICONTROL Used By]** per vedere quali risorse fanno riferimento a tale elenco di account.
 
 ![](assets/four-2.png)

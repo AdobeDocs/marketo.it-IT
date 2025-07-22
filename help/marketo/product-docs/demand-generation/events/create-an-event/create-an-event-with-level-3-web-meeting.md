@@ -1,25 +1,25 @@
 ---
 unique-page-id: 7512328
-description: Creazione di un evento con una riunione Web di livello 3 - Documenti Marketo - Documentazione del prodotto
-title: Creare un evento con una riunione Web di livello 3
+description: Creazione di un evento con  [!DNL Level 3 Web Meeting] - Documentazione di Marketo - Documentazione del prodotto
+title: Crea un evento con  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 1%
+source-wordcount: '153'
+ht-degree: 0%
 
 ---
 
-# Creare un evento con una riunione Web di livello 3 {#create-an-event-with-level-web-meeting}
+# Crea un evento con [!DNL Level 3 Web Meeting] {#create-an-event-with-level-web-meeting}
 
 >[!PREREQUISITES]
 >
->* [Aggiungi riunione Web di livello 3 come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
+>* [Aggiungi [!DNL Level 3 Web Meeting] come  [!DNL LaunchPoint] Servizio](/help/marketo/product-docs/administration/additional-integrations/add-level-3-web-meeting-as-a-launchpoint-service.md)
 >* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Imposta le [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriate per tenere traccia del coinvolgimento
 
-Crea il webinar nel livello 3. Se hai bisogno di aiuto, consulta la [Libreria risorse di livello 3](https://www.level3.com/en/resource-library/). Troverete che è molto simile a BrightTalk.  Marketo utilizza un piccolo sottoinsieme di campi di livello 3:
+Crea il tuo webinar in [!DNL Level 3]. Se hai bisogno di aiuto, vedi la [[!DNL Level 3] Libreria risorse](https://www.level3.com/en/resource-library/). Si noterà che è molto simile a [!DNL BrightTalk].  Marketo utilizza un piccolo sottoinsieme di [!DNL Level 3] campi:
 
 * **Nome** - Nome del webcast.
 * **Data inizio** - La data di inizio del webcast.
@@ -27,27 +27,27 @@ Crea il webinar nel livello 3. Se hai bisogno di aiuto, consulta la [Libreria ri
 * **Fuso orario** - Fuso orario impostato per il webcast.
 * **Descrizione** - Descrizione del webcast.
 
-1. Seleziona il nuovo evento. Fai clic su **Azioni evento,** quindi su **Impostazioni evento.**
+1. Seleziona il nuovo evento. Fai clic su **[!UICONTROL Event Actions],** e quindi su **[!UICONTROL Event Settings].**
 
    ![](assets/image2016-3-24-15-3a40-3a39.png)
 
-1. In Partner evento selezionare **Riunione Web di livello 3**.
+1. In [!UICONTROL Event Partner], selezionare **[!UICONTROL Level 3 Web Meeting]**.
 
    ![](assets/image2016-3-24-15-3a42-3a10.png)
 
-1. In Login, seleziona il livello 3 di accesso.
+1. In [!UICONTROL Login], seleziona l&#39;accesso a [!DNL Level 3].
 
    ![](assets/image2016-3-24-15-3a43-3a43.png)
 
-1. In Evento scegliere l&#39;evento di livello 3 che si desidera utilizzare.
+1. In [!UICONTROL Event] scegliere l&#39;evento [!DNL Level 3] che si desidera utilizzare.
 
    ![](assets/image2016-3-24-15-3a44-3a41.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   Ottimo! Hai collegato il tuo evento al livello 3.
+   Ottimo! Hai connesso l&#39;evento a [!DNL Level 3].
 
 ## Visualizzazione dello Schedule  {#viewing-the-schedule}
 

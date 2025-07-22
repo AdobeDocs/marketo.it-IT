@@ -4,9 +4,9 @@ description: Creazione di una nuova campagna web Widget - Documentazione Marketo
 title: Crea una nuova campagna web widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '610'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 ## Creare una campagna web widget {#create-a-widget-web-campaign}
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Selezionare **Crea nuova campagna Web**.
+1. Seleziona **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
-1. Seleziona il tipo di campagna **Widget**.
+1. Selezionare il tipo di campagna **[!UICONTROL Widget]**.
 
    ![](assets/3.png)
 
@@ -33,7 +33,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
    ![](assets/4.png)
 
-1. Fai clic su **Anteprima** per vedere come reagirà la campagna Web sul tuo sito.
+1. Fai clic su **[!UICONTROL Preview]** per vedere come reagirà la campagna web sul tuo sito.
 
    ![](assets/preview.png)
 
@@ -95,11 +95,11 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 >[!NOTE]
 >
->**Vuoi testare le tue campagne Web tramite A/B?** È possibile testare una o più campagne Web [A/B per ottenere risultati ottimali](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la funzione di ottimizzazione automatica, la piattaforma riconosce automaticamente le campagne con prestazioni migliori, continua con le campagne di conversione più elevate e mette in pausa le altre.
+>**Vuoi testare le tue campagne Web tramite A/B?** È possibile testare una o più campagne Web [A/B per ottenere risultati ottimali](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/ab-test-your-web-campaign.md). Con la funzione [!UICONTROL Auto Tune], la piattaforma riconosce automaticamente le campagne con prestazioni migliori, continua con le campagne di conversione più elevate e mette in pausa le altre.
 
 ## Modificare una campagna web {#edit-a-web-campaign}
 
-Dalla pagina Campagne Web, fai clic su **Modifica** nella campagna.
+Dalla pagina [!UICONTROL Web Campaigns], fai clic su **[!UICONTROL Edit]** nella campagna.
 
 ![](assets/image2016-11-4-13-3a2-3a20.png)
 
@@ -113,13 +113,13 @@ Vedere [Clona una campagna Web](/help/marketo/product-docs/web-personalization/w
 
 ## Visualizzare l’anteprima di una campagna web {#preview-a-web-campaign}
 
-Dalla pagina Campagne Web, fai clic su **Anteprima** nella campagna Web che desideri visualizzare in anteprima
+Dalla pagina [!UICONTROL Web Campaigns], fai clic su **[!UICONTROL Preview]** nella campagna Web che desideri visualizzare in anteprima
 
 ![](assets/widget-campaign-preview-hand.png)
 
 ## Eliminare una campagna web {#delete-a-web-campaign}
 
-1. Dalla pagina Campagne Web, fare clic su **Elimina** nella campagna Web che si desidera eliminare.
+1. Dalla pagina [!UICONTROL Web Campaigns], fare clic su **[!UICONTROL Delete]** nella campagna Web che si desidera eliminare.
 
    ![](assets/widget-campaign-delete-hand.png)
 

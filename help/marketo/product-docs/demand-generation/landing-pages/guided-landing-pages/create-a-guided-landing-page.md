@@ -4,10 +4,10 @@ description: Creazione di una pagina di destinazione guidata - Documentazione di
 title: Creare una pagina di destinazione guidata
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 ## Creare una pagina di destinazione guidata in un programma {#create-a-guided-landing-page-in-a-program}
 
-Le pagine di destinazione guidate possono essere create come risorse locali di un programma o in Design Studio per essere utilizzate a livello globale.
+Le pagine di destinazione guidate possono essere create come risorse locali di un programma o in [!UICONTROL Design Studio] per essere utilizzate a livello globale.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
@@ -33,15 +33,15 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/image2015-5-26-9-3a24-3a2.png)
 
-1. Fai clic sul menu a discesa **Nuovo**. Seleziona **Nuova risorsa locale**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]**. Seleziona **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-26-9-3a25-3a36.png)
 
-1. Seleziona **Pagina di destinazione**.
+1. Seleziona **[!UICONTROL Landing Page]**.
 
    ![](assets/four.png)
 
-1. Assegna un nome alla pagina di destinazione. Fai clic sul menu a discesa **Modello** e seleziona **Modello guidato**.
+1. Assegna un nome alla pagina di destinazione. Fare clic sul menu a discesa **[!UICONTROL Template]** e selezionare **[!UICONTROL Guided Template]**.
 
    >[!NOTE]
    >
@@ -51,24 +51,24 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
 ## Creare una pagina di destinazione in Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Vai a **Design Studio**.
+1. Vai a **[!UICONTROL Design Studio]**.
 
    ![](assets/six.png)
 
-1. Fai clic sul menu a discesa **Nuovo**. Seleziona **Nuova pagina di destinazione**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]**. Seleziona **[!UICONTROL New Landing Page]**.
 
    ![](assets/seven.png)
 
-1. Assegna un nome alla pagina di destinazione. Fai clic sul menu a discesa **Modello** e seleziona **Modello guidato**.
+1. Assegna un nome alla pagina di destinazione. Fare clic sul menu a discesa **[!UICONTROL Template]** e selezionare **[!UICONTROL Guided Template]**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-5-26-9-3a28-3a8.png)
 
 >[!TIP]
 >
->L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **URL pagina**.
+>L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **[!UICONTROL Page URL]**.
 >
->Deselezionare la casella di controllo **Apri nell&#39;editor** se non si desidera che l&#39;editor venga aperto immediatamente dopo aver fatto clic su **Crea**.
+>Deselezionare la casella di controllo **[!UICONTROL Open in editor]** se non si desidera che l&#39;editor venga aperto subito dopo aver fatto clic su **[!UICONTROL Create]**.

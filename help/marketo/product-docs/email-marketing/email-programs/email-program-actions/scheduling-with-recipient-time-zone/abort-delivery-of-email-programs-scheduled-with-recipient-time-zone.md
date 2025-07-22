@@ -4,9 +4,9 @@ description: Interrompere la consegna dei programmi e-mail pianificati con il fu
 title: Interrompi la consegna dei programmi e-mail pianificati con il fuso orario del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ In casi di emergenza, puoi interrompere la consegna di un programma e-mail già 
 
 Poiché i programmi e-mail pianificati con il fuso orario del destinatario possono essere eseguiti per un massimo di 24 ore, l’interruzione della consegna del programma annullerà tutti gli invii successivi dopo tale momento.
 
-1. Seleziona il programma e-mail da annullare, quindi fai clic su **Interrompi consegna** nella sezione Approvazione nel pannello di controllo.
+1. Selezionare il programma di posta elettronica che si desidera annullare, quindi fare clic su **[!UICONTROL Abort Delivery]** nella sezione [!UICONTROL Approval] del pannello di controllo.
 
    ![](assets/ptz-abortdelivery.png)
 
-1. Confermare l&#39;annullamento della consegna facendo clic su **Interrompi**.
+1. Confermare l&#39;annullamento della consegna facendo clic su **[!UICONTROL Abort]**.
 
    ![](assets/image2018-2-23-11-3a20-3a27.png)
 
-1. Dopo l&#39;annullamento, la griglia **Risultati** del programma di posta elettronica avrà un aspetto simile a quella riportata di seguito. Tutti gli invii successivi vengono annullati e verranno visualizzati come &quot;E-mail non recapitate&quot; nella colonna **Tipo di attività**.
+1. Dopo l&#39;annullamento, la griglia **[!UICONTROL Results]** del programma di posta elettronica sarà simile a quella riportata di seguito. Tutti gli invii successivi vengono annullati e verranno visualizzati come &quot;E-mail non recapitate&quot; nella colonna **[!UICONTROL Activity Type]**.
 
    ![](assets/image2018-2-23-11-3a22-3a11.png)
 

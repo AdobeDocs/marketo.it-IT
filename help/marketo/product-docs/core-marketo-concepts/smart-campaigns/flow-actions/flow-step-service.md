@@ -3,16 +3,16 @@ description: Servizio Flusso - Documentazione Marketo - Documentazione del prodo
 title: Servizio passaggio di flusso
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: e511d2fda60eabd406bee5ee7441652a546fb35e
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1224'
 ht-degree: 0%
 
 ---
 
 # Servizio passaggio di flusso {#flow-step-service}
 
-Passaggi di flusso self-service è un framework e un set di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne Adobe Marketo Engage Smart. Questa guida è destinata agli utenti finali del Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del proprio servizio, fare riferimento all&#39;archivio [GitHub per l&#39;interfaccia Service Provider](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. È possibile trovare un&#39;implementazione della tabella di ricerca di prova [qui](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
+Passaggi di flusso self-service è un framework e un set di funzioni per l’authoring, la pubblicazione e l’integrazione di servizi web nelle campagne Adobe Marketo Engage Smart. Questa guida è destinata agli utenti finali di Marketo Engage che desiderano installare e utilizzare servizi già creati e pubblicati. Per informazioni sull&#39;authoring e la pubblicazione del proprio servizio, fare riferimento all&#39;archivio [[!DNL GitHub] per l&#39;interfaccia del provider di servizi](https://github.com/adobe/Marketo-SSFS-Service-Provider-Interface){target="_blank"}. Un&#39;implementazione della tabella di ricerca Proof-of-Concept si trova [qui](https://github.com/adobe/mkto-flow-lookup){target="_blank"}.
 
 ## Servizi di onboarding e gestione {#onboarding-and-managing-services}
 
@@ -20,9 +20,9 @@ L’installazione di un passaggio di flusso personalizzato richiede le autorizza
 
 ## URL di installazione {#installation-url}
 
-Per iniziare l’installazione, devi prima ottenere l’URL del documento OpenAPI che definisce il servizio. Il provider di servizi dovrebbe essere in grado di fornire questa informazione e in genere avrà un URL che termina in `/openapi.json`. Gli URL completi saranno simili a `https://www.example.com/OpenAPI.json`. Una volta ottenuto questo URL, vai al menu Service Providers (Fornitori di servizi) nella sezione Admin (Amministratore).
+Per iniziare l’installazione, devi prima ottenere l’URL del documento OpenAPI che definisce il servizio. Il provider di servizi dovrebbe essere in grado di fornire questa informazione e in genere avrà un URL che termina in `/openapi.json`. Gli URL completi saranno simili a `https://www.example.com/OpenAPI.json`. Una volta ottenuto questo URL, vai al menu [!UICONTROL Service Providers] nella sezione [!UICONTROL Admin].
 
-Fai clic su **[!UICONTROL Avanti]** per passare alla sezione Immettere le credenziali del servizio.
+Fare clic su **[!UICONTROL Next]** per passare alla sezione Immettere le credenziali del servizio.
 
 ![](assets/flow-step-service-1.png)
 
@@ -90,7 +90,7 @@ Le fasi di flusso installate possono essere utilizzate in gran parte allo stesso
 
 ## Aggiornamento degli elenchi di scelta {#refreshing-picklists}
 
-Marketo aggiornerà ogni notte le scelte degli elenchi di selezione per i servizi, ma ci sono momenti in cui dovrai avere nuove scelte disponibili, ad esempio la creazione di campagne. Puoi aggiornarli facilmente da qualsiasi istanza del passaggio del flusso utilizzando il pulsante di aggiornamento oppure andando al menu Admin > Service Providers (Amministratore > Fornitori di servizi) e facendo clic su Refresh Picklist (Aggiorna elenco di selezione) dopo aver selezionato il servizio.
+Marketo aggiornerà ogni notte le scelte degli elenchi di selezione per i servizi, ma ci sono momenti in cui dovrai avere nuove scelte disponibili, ad esempio la creazione di campagne. Puoi aggiornarli facilmente da qualsiasi istanza del passaggio del flusso utilizzando il pulsante di aggiornamento oppure accedendo al menu [!UICONTROL Admin] > [!UICONTROL Service Providers] e facendo clic su [!UICONTROL Refresh Picklist] dopo aver selezionato il servizio.
 
 ## Controllo dei campi in ingresso {#checking-incoming-fields}
 

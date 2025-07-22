@@ -4,10 +4,10 @@ description: Aggiungere testo e token a una pagina di destinazione - Documentazi
 title: Aggiungere testo e token a una pagina di destinazione
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 1%
+source-wordcount: '182'
+ht-degree: 0%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 1%
 
 ## Aggiungere testo formattato alla pagina di destinazione {#add-rich-text-to-your-landing-page}
 
-1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
+1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a30-3a29.png)
 
@@ -27,11 +27,11 @@ ht-degree: 1%
    >
    >Il designer della pagina di destinazione si apre in una nuova finestra.
 
-1. Trascinare sull&#39;elemento **Rich Text**.
+1. Trascinare sull&#39;elemento **[!UICONTROL Rich Text]**.
 
    ![](assets/image2015-5-21-12-3a28-3a49.png)
 
-1. Immettere il testo desiderato e fare clic su **Salva**.
+1. Immettere il testo desiderato e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
@@ -45,7 +45,7 @@ I token sono parti di testo dinamiche che possono personalizzare la pagina di de
 >
 >Cose come First Name provengono dal record della persona. Altri token provengono dalla scheda I miei token del programma.
 
-1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
+1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-14-3a30-3a54.png)
 
@@ -65,11 +65,11 @@ I token sono parti di testo dinamiche che possono personalizzare la pagina di de
 
    ![](assets/image2014-9-16-14-3a31-3a20.png)
 
-1. Immetti un **valore predefinito** e fai clic su **Inserisci**.
+1. Immettere **[!UICONTROL Default Value]** e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-16-14-3a31-3a29.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 

@@ -4,9 +4,9 @@ description: Anteprima di un’e-mail con contenuti dinamici - Documenti Marketo
 title: Anteprima di un’e-mail con contenuto dinamico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Visualizza l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto dinamico per verificarlo.
 
-1. Seleziona l&#39;e-mail e fai clic su **Anteprima e-mail**.
+1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Preview Email]**.
 
    ![](assets/one-3.png)
 
-1. Fai clic sul menu a discesa Visualizza per e seleziona il tipo di contenuto dinamico da visualizzare in anteprima.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL View By]** e selezionare il tipo di contenuto dinamico che si desidera visualizzare in anteprima.
 
    ![](assets/two-3.png)
 
@@ -33,7 +33,7 @@ Visualizza l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto din
 
 Puoi anche visualizzare in anteprima il contenuto dinamico direttamente nell’editor e-mail.
 
-1. In **Contenuto**, fare clic sulla scheda **Dinamico**.
+1. In **[!UICONTROL Content]**, fare clic sulla scheda **[!UICONTROL Dynamic]**.
 
    ![](assets/five-1.png)
 

@@ -4,10 +4,10 @@ description: Creare gruppi di campi personalizzati utilizzando la Libreria campi
 title: Creare gruppi di campi personalizzati utilizzando l’Organizer campi
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1000'
-ht-degree: 2%
+source-wordcount: '951'
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Quando si seleziona un campo standard o personalizzato dall&#39;elenco a discesa
 | Intero | Intero |
 | Testo | Stringa |
 | URL | Stringa |
-| Riferimento | Non supportato |
+| Riferimenti | Non supportato |
 | Valuta | Intero |
 | Data e ora | Data |
 | Booleano | Non supportato |
@@ -36,19 +36,19 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
 ## Crea gruppo di campi personalizzato - Editor di stringhe {#create-custom-field-group-string-editor}
 
-1. Fare clic su **Database lead**.
+1. Fai clic su **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Nuovo** e seleziona **Nuovo organizzatore campi**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Fai clic su **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedi tabella nella sezione precedente). Il paese è utilizzato qui.
+1. Fare clic su **[!UICONTROL Field]** e selezionare un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). [!UICONTROL Country] è utilizzato qui.
 
    ![](assets/three.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/four.png)
 
@@ -60,7 +60,7 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    ![](assets/five.png)
 
-1. Per impostazione predefinita, tutti i valori dei dati sono inseriti nel sottogruppo &quot;Altro&quot;. Per categorizzare i valori dei dati, fare clic su **Aggiungi gruppo** per creare un sottogruppo e assegnare un nome.
+1. Per impostazione predefinita, tutti i valori dei dati vengono inseriti nel sottogruppo &quot;[!UICONTROL Other]&quot;. Per categorizzare i valori dei dati, fare clic su **[!UICONTROL Add Group]** per creare un sottogruppo e assegnare un nome.
 
    >[!NOTE]
    >
@@ -72,7 +72,7 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    >[!NOTE]
    >
-   >Per eliminare un sottogruppo, fai clic sulla X rossa accanto al nome del sottogruppo. Se nel gruppo sono presenti valori di dati, questi verranno spostati nel gruppo predefinito Altro.
+   >Per eliminare un sottogruppo, fai clic sulla X rossa accanto al nome del sottogruppo. Se nel gruppo sono presenti valori di dati, questi verranno spostati nel gruppo predefinito di [!UICONTROL Other].
 
 1. Evidenzia uno o più valori di dati nell’area di lavoro e trascina i valori di dati nel sottogruppo appropriato.
 
@@ -92,19 +92,19 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
 ## Crea gruppo di campi personalizzato - Editor numeri interi {#create-custom-field-group-integer-editor}
 
-1. Fare clic su **Database lead**.
+1. Fai clic su **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Nuovo** e seleziona **Nuovo organizzatore campi**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Fai clic su **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedi tabella nella sezione precedente). Il reddito annuale è utilizzato qui.
+1. Fare clic su **[!UICONTROL Field]** e selezionare un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). [!UICONTROL Annual Revenue] è utilizzato qui.
 
    ![](assets/nine.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/9.5.png)
 
@@ -112,13 +112,13 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    ![](assets/9.6.png)
 
-1. Fare clic sul nome del gruppo personalizzato predefinito sopra l&#39;editor di numeri interi per personalizzare il nome. Ad esempio, è possibile rinominare &quot;Gruppo di ricavi annuale&quot; in &quot;Ricavo annuale per dimensione&quot;. Fai clic su **Salva**.
+1. Fare clic sul nome del gruppo personalizzato predefinito sopra l&#39;editor di numeri interi per personalizzare il nome. Ad esempio, è possibile rinominare &quot;Gruppo di ricavi annuale&quot; in &quot;Ricavo annuale per dimensione&quot;. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/eleven.png)
 
    L’editor di numeri interi consente di creare più sottogruppi per definire ciascun sottogruppo in base alla dimensione. In questo esempio verranno creati tre gruppi per le piccole imprese, Medium e Enterprise.
 
-1. Per aggiungere il primo gruppo, immetti un nome nel campo **Nome gruppo** (esempio: Piccolo) e un valore massimo nel campo **Intervallo gruppo** (esempio: 200000). Fare clic su **Aggiungi gruppo**.
+1. Per aggiungere il primo gruppo, immettere un nome nel campo **[!UICONTROL Group Name]** (esempio: Small) e un valore massimo nel campo **[!UICONTROL Group Range]** (esempio: 200000). Fai clic su **[!UICONTROL Add Group]**.
 
    ![](assets/twelve.png)
 
@@ -146,19 +146,19 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
 ## Crea gruppo di campi personalizzato - Editor date {#create-custom-field-group-date-editor}
 
-1. Fare clic su **Database lead**.
+1. Fai clic su **[!UICONTROL Lead Database]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Nuovo** e seleziona **Nuovo organizzatore campi**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Field Organizer]**.
 
    ![](assets/two.png)
 
-1. Fai clic su **Campo** e seleziona un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedi tabella nella sezione precedente). Qui viene utilizzata la data di acquisizione.
+1. Fare clic su **[!UICONTROL Field]** e selezionare un campo standard o personalizzato con un tipo di dati mappato all&#39;editor di stringhe (vedere la tabella nella sezione precedente). [!UICONTROL Acquisition Date] è utilizzato qui.
 
    ![](assets/fourteen.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/14.5.png)
 
@@ -166,19 +166,19 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
 
    ![](assets/14.6.png)
 
-1. Fai clic sul nome del gruppo personalizzato predefinito sopra l’editor di date per personalizzarlo. Ad esempio, puoi rinominare &quot;Gruppo di date di acquisizione&quot; in &quot;Categorie di date di acquisizione&quot;. Fai clic su **Salva**.
+1. Fai clic sul nome del gruppo personalizzato predefinito sopra l’editor di date per personalizzarlo. Ad esempio, puoi rinominare &quot;Gruppo di date di acquisizione&quot; in &quot;Categorie di date di acquisizione&quot;. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/fifteen.png)
 
    L’editor di date consente di creare più sottogruppi e definire ciascun sottogruppo per data. In questo esempio verranno creati tre gruppi: Lead Q1-15, Lead Q2-15 e Lead Q3-15.
 
-1. Per aggiungere il primo gruppo, immettere un nome nel campo **Nome gruppo** (ad esempio: Lead T1-15) e una data nel campo data che rappresenta la data di acquisizione del lead prima o al momento indicato (ad esempio: 3/31/2015 per l&#39;ultimo giorno del primo trimestre 15). Fare clic su **Aggiungi gruppo**.
+1. Per aggiungere il primo gruppo, immettere un nome nel campo **[!UICONTROL Group Name]** (ad esempio: Lead Q1-15) e una data nel campo data che rappresenti la data in cui il lead è stato acquisito o prima (ad esempio: 3/31/2015 per l&#39;ultimo giorno del primo trimestre-15). Fai clic su **[!UICONTROL Add Group]**.
 
    ![](assets/sixteen.png)
 
    >[!NOTE]
    >
-   >Puoi aggiungere fino a dieci sottogruppi per categorizzare i valori dei dati. Ogni voce di Intervallo gruppi si basa sulla voce precedente. Se si lascia vuota l&#39;ultima voce Intervallo gruppi per l&#39;ultimo sottogruppo personalizzato creato, non viene impostato alcun valore per la data di fine.
+   >Puoi aggiungere fino a dieci sottogruppi per categorizzare i valori dei dati. Ogni voce [!UICONTROL Group Range] si basa sulla voce precedente. Se si lascia vuota l&#39;ultima voce [!UICONTROL Group Range] per l&#39;ultimo sottogruppo personalizzato creato, non viene impostato alcun valore per la data di fine.
 
    L’esempio seguente mostra una voce per i lead del primo trimestre 2015 che passano al terzo trimestre.
 

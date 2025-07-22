@@ -4,9 +4,9 @@ description: Gestire e visualizzare i membri - Documentazione di Marketo - Docum
 title: Gestire e visualizzare i membri
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Nella parte inferiore della sezione Membri utilizzare il campo di ricerca per cercare i membri del programma in base al nome, all&#39;indirizzo di posta elettronica, alla qualifica o all&#39;azienda.
 
-1. Fai clic sulla scheda **[!UICONTROL Membri]** del programma.
+1. Fare clic sulla scheda **[!UICONTROL Members]** del programma.
 
    ![](assets/image2014-10-1-16-3a0-3a29.png)
 
@@ -33,7 +33,7 @@ Nella parte inferiore della sezione Membri utilizzare il campo di ricerca per ce
 
 ## Esporta griglia membri {#export-the-members-grid}
 
-È possibile esportare l&#39;elenco dei membri facendo clic sull&#39;icona di Excel accanto al campo di ricerca.
+È possibile esportare l&#39;elenco dei membri facendo clic sull&#39;icona [!DNL Excel] accanto al campo di ricerca.
 
 ![](assets/image2014-10-1-16-3a9-3a55.png)
 
@@ -49,21 +49,21 @@ Fare clic con il pulsante destro del mouse sull&#39;intestazione di colonna per 
 
 ## Scegli le colonne visibili nella griglia {#choose-which-columns-are-visible-in-the-grid}
 
-1. Fai clic sul menu a discesa **[!UICONTROL Visualizza]** e seleziona **[!UICONTROL Crea visualizzazione]**.
+1. Fare clic sul menu a discesa **[!UICONTROL View]** e selezionare **[!UICONTROL Create View]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 
-1. Denomina la visualizzazione personalizzata. Selezionare i titoli delle colonne. Fai clic su **[!UICONTROL Aggiungi]** e **[!UICONTROL Rimuovi]** per spostare le colonne e creare una visualizzazione.
+1. Denomina la visualizzazione personalizzata. Selezionare i titoli delle colonne. Fare clic su **[!UICONTROL Add]** e **[!UICONTROL Remove]** per spostare le colonne e creare una visualizzazione.
 
    ![](assets/image2014-10-1-16-3a36-3a52.png)
 
-1. Fai clic su **[!UICONTROL Crea]**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-10-1-16-3a38-3a7.png)
 
 ## Filtrare la griglia membri  {#filter-the-members-grid}
 
-1. Fai clic sull&#39;elenco a discesa **[!UICONTROL Filtro]** e seleziona un passaggio di progressione in base al quale eseguire l&#39;ordinamento.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Filter]** e selezionare un passaggio di progressione in base al quale eseguire l&#39;ordinamento.
 
    ![](assets/image2014-10-1-16-3a42-3a4.png)
 
@@ -71,11 +71,11 @@ Fare clic con il pulsante destro del mouse sull&#39;intestazione di colonna per 
 
 È possibile modificare lo stato delle persone all&#39;interno della griglia dei membri.
 
-1. Tenere premuto **[!UICONTROL Ctrl/Comando]** e selezionare le persone.
+1. Tenere premuto **[!UICONTROL Ctrl/Cmd]** e selezionare le persone.
 
    ![](assets/image2014-10-1-16-3a44-3a27.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Modifica stato]** e seleziona uno stato.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Change Status]** e selezionare uno stato.
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 

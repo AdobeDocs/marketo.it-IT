@@ -4,10 +4,10 @@ description: Aggiungere un’app mobile - Documentazione di Marketo - Documentaz
 title: Aggiungere un’app mobile
 exl-id: 79edf8cb-4d8b-440a-aa8a-6ead1a93b95a
 feature: Mobile Marketing
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 1%
+source-wordcount: '185'
+ht-degree: 2%
 
 ---
 
@@ -20,27 +20,27 @@ Le app solitamente iniziano in un ambiente sandbox, in cui vengono eseguiti lo s
 >[!AVAILABILITY]
 >
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/image2015-4-22-16-3a12-3a32.png)
 
-1. Fai clic su **App e dispositivi mobili**.
+1. Fai clic su **[!UICONTROL Mobile Apps & Devices]**.
 
    ![](assets/image2016-1-12-15-3a42-3a30.png)
 
-1. Fai clic su **Nuova app mobile**.
+1. Fai clic su **[!UICONTROL New Mobile App]**.
 
    ![](assets/image2015-4-22-16-3a17-3a15.png)
 
-1. Immetti un nome. Nel menu a discesa **Tipo**, seleziona il tipo di ambiente in uso: Sandbox o Produzione. Fai clic su **Salva**.
+1. Immetti un nome. Nell&#39;elenco a discesa **[!UICONTROL Type]** selezionare il tipo di ambiente in uso: [!UICONTROL Sandbox] o [!UICONTROL Production]. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-11-18-15-3a52-3a15.png)
 
    >[!NOTE]
    >
-   >È consigliabile utilizzare un certificato di notifica di produzione in un ambiente di produzione. Un certificato Sandbox verrà installato in un ambiente di produzione senza problemi, ma non riceverai notifiche. In caso di domande sull’ambiente o sul certificato di notifica, contatta l’amministratore di Marketo o lo sviluppatore di app mobili.
+   >È consigliabile utilizzare un certificato di notifica [!UICONTROL Production] in un ambiente [!UICONTROL Production]. Un certificato [!UICONTROL Sandbox] verrà installato in un ambiente [!UICONTROL Production] senza problemi, ma non si riceveranno notifiche. In caso di domande sull’ambiente o sul certificato di notifica, contatta l’amministratore di Marketo o lo sviluppatore di app mobili.
 
    Bello! Ora configuriamo l’app in modo che funzioni con i dispositivi Android e iOS.
 

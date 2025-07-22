@@ -3,16 +3,16 @@ description: Gestire i gruppi - Documentazione di Marketo - Documentazione del p
 title: Gestisci gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f3824f67a2b72ad164bf5ecc0bfcf9748db3ff
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
 
 # Gestisci gruppi {#manage-groups}
 
-Scopri come gestire i gruppi in Azioni approfondimenti vendite.
+Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 
 ## Tipi di gruppo {#group-types}
 
@@ -27,19 +27,19 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
    <th>Descrizione</th> 
   </tr> 
   <tr> 
-   <td>Tutte le persone</td> 
+   <td>[!UICONTROL All People]</td> 
    <td>Tutti i contatti di tutti gli utenti visibili.</td> 
   </tr> 
   <tr> 
-   <td>Gruppi dinamici</td> 
+   <td>[!UICONTROL Dynamic Groups]</td> 
    <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td> 
   </tr> 
   <tr> 
-   <td>I miei gruppi</td> 
+   <td>[!UICONTROL My Groups]</td> 
    <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td> 
   </tr> 
   <tr> 
-   <td>Gruppi di team</td> 
+   <td>[!UICONTROL Team Groups]</td> 
    <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td> 
   </tr> 
  </tbody> 
@@ -47,11 +47,11 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
 ## Creare un gruppo {#create-a-group}
 
-1. Nella pagina Persone, fai clic su **+** accanto a Gruppi.
+1. Nella pagina [!UICONTROL People], fai clic su **+** accanto a [!UICONTROL Groups].
 
    ![](assets/manage-groups-1.png)
 
-1. Assegna un nome al gruppo e fai clic su **Crea**.
+1. Assegna un nome al gruppo e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/manage-groups-2.png)
 
@@ -59,11 +59,11 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
 ## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
 
    ![](assets/manage-groups-3.png)
 
-1. Fai clic su **Azioni gruppo**, quindi seleziona **Crea contatto e aggiungi al gruppo**.
+1. Fare clic su **[!UICONTROL Group Actions]** e selezionare **[!UICONTROL Create Contact and add to Group]**.
 
    ![](assets/manage-groups-4.png)
 
@@ -79,15 +79,15 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
 ## Condividere un gruppo {#share-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo che si desidera condividere.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera condividere.
 
    ![](assets/manage-groups-6.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Condividi**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Share]**.
 
    ![](assets/manage-groups-7.png)
 
-1. Fai clic sull&#39;elenco a discesa, scegli il team con cui vuoi condividere il gruppo e fai clic su **Condividi**.
+1. Fare clic sull&#39;elenco a discesa, scegliere il team con cui si desidera condividere il gruppo e fare clic su **[!UICONTROL Share]**.
 
    ![](assets/manage-groups-8.png)
 
@@ -95,11 +95,11 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
 ## Annullare la condivisione di un gruppo {#unshare-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo che si desidera annullare la condivisione.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera annullare la condivisione.
 
    ![](assets/manage-groups-9.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Condividi**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Share]**.
 
    ![](assets/manage-groups-10.png)
 
@@ -111,15 +111,15 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
 ## Rinominare un gruppo {#rename-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo da rinominare.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera rinominare.
 
    ![](assets/manage-groups-12.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Modifica**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/manage-groups-13.png)
 
-1. Digitare il nuovo nome e fare clic su **Salva**.
+1. Digitare il nuovo nome e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/manage-groups-14.png)
 
@@ -129,10 +129,10 @@ Scopri come gestire i gruppi in Azioni approfondimenti vendite.
 
    ![](assets/manage-groups-15.png)
 
-1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Delete]**.
 
    ![](assets/manage-groups-16.png)
 
-1. Fai clic su **Elimina** per confermare.
+1. Fai clic su **[!UICONTROL Delete]** per confermare.
 
    ![](assets/manage-groups-17.png)

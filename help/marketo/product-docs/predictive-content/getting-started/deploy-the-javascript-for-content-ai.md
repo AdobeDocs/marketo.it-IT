@@ -4,9 +4,9 @@ description: Distribuire JavaScript per IA per la gestione dei contenuti - Docum
 title: Distribuire JavaScript per IA per la gestione dei contenuti
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Per utilizzare Contenuto predittivo, è necessario generare e impostare il tag R
 
 ## Genera tag {#generate-tag}
 
-1. Accedi al tuo account Predictive Content. Vai a **Impostazioni account**.
+1. Accedi al tuo account Predictive Content. Vai a **[!UICONTROL Account Settings]**.
 
    ![](assets/settings-dropdown-account-hands.png)
 
-1. In **Configurazione dominio**, individuare il dominio pertinente e fare clic su **Genera tag**.
+1. In **[!UICONTROL Domain Configuration]**, individuare il dominio pertinente e fare clic su **[!UICONTROL Generate Tag]**.
 
    ![](assets/generate-tag.png)
 
-1. Copiare e incollare il tag Personalization Web nelle HTML del sito Web.
+1. Copiare e incollare il tag Personalization Web nel HTML del sito Web.
 
    ![](assets/web-personalization-tag.png)
 
@@ -33,6 +33,6 @@ Per utilizzare Contenuto predittivo, è necessario generare e impostare il tag R
    >
    >Copiare il tag Web Personalization JavaScript e incollarlo come primo script nell&#39;intestazione delle pagine, tra i tag `<head> </head>`. Consulta [istruzioni di implementazione dettagliate qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
-1. Verifica che il tag venga visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini. Per verificarlo, fai clic con il pulsante destro del mouse sulla pagina del tuo sito web. Vai a **Visualizza pagina Source** in un browser Web. Ricerca: &quot;RTP&quot;.
+1. Verifica che il tag venga visualizzato su tutte le pagine, incluse le pagine di destinazione e i sottodomini. Per verificarlo, fai clic con il pulsante destro del mouse sulla pagina del tuo sito web. Vai a **[!UICONTROL View Page Source]** in un browser Web. Ricerca: &quot;RTP&quot;.
 
-1. Verificare che il tag sia impostato su **ON**.
+1. Verificare che il tag sia impostato su **[!UICONTROL ON]**.

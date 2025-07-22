@@ -4,9 +4,9 @@ description: Approvare, annullare l’approvazione o eliminare una pagina di des
 title: Approvare, annullare l’approvazione o eliminare una pagina di destinazione
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 ## Approvare una pagina di destinazione {#approve-a-landing-page}
 
-1. Seleziona una pagina di destinazione, vai a **Azioni pagina di destinazione** e fai clic su **Approva**.
+1. Selezionare una pagina di destinazione, passare a **[!UICONTROL Landing Page Actions]** e fare clic su **[!UICONTROL Approve]**.
 
    >[!TIP]
    >
@@ -25,7 +25,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
    ![](assets/image2014-9-16-15-3a28-3a22.png)
 
-1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **Approva**.
+1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-16-15-3a30-3a4.png)
 
@@ -35,11 +35,11 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 ## Annullare l’approvazione di una pagina di destinazione {#unapprove-a-landing-page}
 
-1. Seleziona una pagina di destinazione, passa a **Azioni pagina di destinazione** e fai clic su **Annulla approvazione**.
+1. Selezionare una pagina di destinazione, passare a **[!UICONTROL Landing Page Actions]** e fare clic su **[!UICONTROL Unapprove]**.
 
    ![](assets/image2014-9-16-15-3a31-3a8.png)
 
-1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **Annulla approvazione**.
+1. È inoltre possibile fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **[!UICONTROL Unapprove]**.
 
    ![](assets/image2014-9-16-15-3a31-3a34.png)
 
@@ -49,7 +49,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 ## Eliminare una pagina di destinazione {#delete-a-landing-page}
 
-1. Seleziona una pagina di destinazione, passa a **Azioni pagina di destinazione** e fai clic su **Elimina**.
+1. Selezionare una pagina di destinazione, passare a **[!UICONTROL Landing Page Actions]** e fare clic su **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-15-3a49-3a59.png)
 
@@ -57,7 +57,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
    >
    >Non puoi eliminare una pagina di destinazione approvata. Per prima cosa, annulla l’approvazione.
 
-1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **Elimina**.
+1. Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazione e scegliere **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-16-15-3a50-3a40.png)
 
@@ -65,7 +65,7 @@ Le pagine di destinazione sono in modalità bozza finché non vengono approvate.
 
 Eliminare più pagine di destinazione alla volta? Ecco come.
 
-1. In Design Studio, fai clic su **Pagine di destinazione**.
+1. In [!UICONTROL Design Studio], fare clic su **[!UICONTROL Landing Pages]**.
 
    ![](assets/one.png)
 
@@ -77,11 +77,11 @@ Eliminare più pagine di destinazione alla volta? Ecco come.
    >
    >Puoi anche utilizzare i tasti Ctrl + clic per eliminare più pagine di destinazione non sequenziali.
 
-1. Fai clic sul menu a discesa **Azioni pagina di destinazione** e seleziona **Elimina**.
+1. Fare clic sul menu a discesa **[!UICONTROL Landing Page Actions]** e selezionare **[!UICONTROL Delete]**.
 
    ![](assets/three.png)
 
-1. Fare clic su **Elimina**.
+1. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/four.png)
 

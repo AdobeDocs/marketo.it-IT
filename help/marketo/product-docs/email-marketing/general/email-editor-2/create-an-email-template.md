@@ -4,9 +4,9 @@ description: Creazione di un modello di e-mail - Documentazione di Marketo - Doc
 title: Creare un modello e-mail
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Per creare un nuovo modello di e-mail, segui la procedura riportata di seguito.
 
 >[!NOTE]
 >
->Il supporto Marketo non è configurato per fornire assistenza nella risoluzione dei problemi di custom HTML. Per assistenza HTML, consulta uno sviluppatore web.
+>Il supporto Marketo non è configurato per assistere nella risoluzione dei problemi di HTML personalizzato. Per assistenza su HTML, consulta uno sviluppatore web.
 
 >[!CAUTION]
 >
@@ -25,19 +25,19 @@ Per creare un nuovo modello di e-mail, segui la procedura riportata di seguito.
 
 ## Crea un nuovo modello e-mail {#create-a-new-email-template}
 
-1. Fare clic su **Design Studio**.
+1. Fai clic su **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Fai clic su **Nuovo**, quindi seleziona **Nuovo modello di e-mail**.
+1. Fai clic su **[!UICONTROL New]**, quindi seleziona **[!UICONTROL New Email Template]**.
 
    ![](assets/ds-two.png)
 
-1. Assegna un nome al nuovo modello e fai clic su **Crea**.
+1. Assegna un nome al nuovo modello e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/three-1.png)
 
-1. Per iniziare a modificare il nuovo modello, fai clic su **Modifica bozza**.
+1. Per iniziare a modificare il nuovo modello, fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/4.png)
 
@@ -49,19 +49,19 @@ Per creare un nuovo modello di e-mail, segui la procedura riportata di seguito.
 
 Se hai creato un’e-mail da salvare come modello da utilizzare in futuro, segui questi semplici passaggi.
 
-1. Fai clic su **Attività di marketing**.
+1. Fai clic su **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
-1. Trova e seleziona il tuo indirizzo e-mail, quindi fai clic su **Modifica bozza**.
+1. Trovare e selezionare l&#39;indirizzo di posta elettronica, quindi fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-1.png)
 
-1. Fai clic sul menu a discesa **Azioni e-mail** e seleziona **Salva come modello**.
+1. Fare clic sul menu a discesa **[!UICONTROL Email Actions]** e selezionare **[!UICONTROL Save as Template]**.
 
    ![](assets/four-1.png)
 
-1. Fai clic sull&#39;elenco a discesa **Cartella**, seleziona la posizione in cui desideri inserire il modello e fai clic su **Salva**.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Folder]**, selezionare la posizione in cui si desidera inserire il modello e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
 

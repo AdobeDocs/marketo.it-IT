@@ -4,9 +4,9 @@ description: Approvare una segmentazione - Documenti Marketo - Documentazione de
 title: Approvare una segmentazione
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '222'
 ht-degree: 0%
 
 ---
@@ -24,30 +24,30 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
 >
 >È possibile approvare un massimo di 20 segmentazioni alla volta.
 
-1. Vai al **database**.
+1. Passare a **[!UICONTROL Database]**.
 
    ![](assets/image2017-3-28-14-3a25-3a49.png)
 
-1. Nella segmentazione, fai clic su **Azioni di segmentazione**, quindi su **Approva**.
+1. Nella segmentazione fare clic su **[!UICONTROL Segmentation Actions]** e quindi su **[!UICONTROL Approve]**.
 
    ![](assets/image2017-3-28-14-3a46-3a22.png)
 
    >[!NOTE]
    >
-   >Lo stato cambia in Approvazione con una ruota girevole ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mentre l&#39;approvazione è in corso.
+   >Lo stato cambia in [!UICONTROL Approving] con una ruota girevole ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mentre è in corso l&#39;approvazione.
 
    >[!CAUTION]
    >
    >Il completamento dell&#39;approvazione può richiedere da alcuni minuti a più di un giorno, a seconda delle dimensioni del database.
 
-   Una volta approvato, lo stato cambia da Approvato a Approvato.
+   Una volta approvato, [!UICONTROL Status] cambia da [!UICONTROL Approving] a [!UICONTROL Approved].
    ![](assets/image2017-3-28-14-3a46-3a44.png)
 
    >[!TIP]
    >
    >Il numero di persone in ciascun segmento viene visualizzato tra parentesi accanto al nome del segmento.
 
-1. Nella scheda **Persone** del **Segmento** è ora visualizzato l&#39;elenco finale delle persone per il segmento.
+1. La scheda **[!UICONTROL People]** in **[!UICONTROL Segment]** ora mostra l&#39;elenco finale delle persone per il segmento.
 
    ![](assets/image2017-3-28-14-3a47-3a10.png)
 

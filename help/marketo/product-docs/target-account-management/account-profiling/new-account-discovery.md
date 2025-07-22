@@ -4,10 +4,10 @@ description: Individuazione nuovo account - Documentazione Marketo - Documentazi
 title: Individuazione nuovo account
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 1%
+source-wordcount: '284'
+ht-degree: 0%
 
 ---
 
@@ -27,27 +27,27 @@ L’individuazione di nuovi account può aiutarti a trovare nuovi account di des
 >
 >Si consiglia di premere il pulsante **Aggiorna account esistenti** prima di eseguire una nuova ricerca account per assicurarsi di visualizzare i dati più recenti. Questo aggiornamento può richiedere fino a 24 ore.
 
-1. In Il mio Marketo, fai clic su **Gestione account di destinazione**.
+1. In Il mio Marketo, fai clic su **[!UICONTROL Target Account Management]**.
 
    ![](assets/new-account-discovery-1.png)
 
-1. Fare clic sulla scheda **Profilo account**.
+1. Fare clic sulla scheda **[!UICONTROL Account Profiling]**.
 
    ![](assets/two-2.png)
 
-1. Fare clic sulla scheda **Nuovi account**.
+1. Fare clic sulla scheda **[!UICONTROL New Accounts]**.
 
    ![](assets/three-1.png)
 
    >[!NOTE]
    >
-   >Nuovi account mostra un elenco di account non ancora disponibili in TAM. Si tratta di account che possono essere nuovi per te in base ai filtri selezionati.
+   >[!UICONTROL New Accounts] mostra un elenco di account che non sono ancora tuoi in TAM. Si tratta di account che possono essere nuovi per te in base ai filtri selezionati.
 
 1. Seleziona tutti i filtri applicabili (questa parte è altamente personalizzabile, il seguente è solo un esempio per dimostrare il filtraggio).
 
    ![](assets/four-1.png)
 
-1. Fai clic su **Salva tutto e crea elenco** in basso a destra della pagina.
+1. Fai clic su **[!UICONTROL Save All & Create List]** in basso a destra della pagina.
 
    ![](assets/five-1.png)
 
@@ -61,9 +61,9 @@ L’individuazione di nuovi account può aiutarti a trovare nuovi account di des
 
    >[!NOTE]
    >
-   >Per salvarlo in un elenco account esistente, selezionare tale opzione, fare clic sull&#39;elenco a discesa e selezionare l&#39;elenco account desiderato, quindi fare clic su **Avanti**.
+   >Per salvarlo in un elenco account esistente, selezionare tale opzione, fare clic sull&#39;elenco a discesa e selezionare l&#39;elenco account desiderato, quindi fare clic su **[!UICONTROL Next]**.
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/seven-1.png)
 
@@ -71,10 +71,10 @@ L’individuazione di nuovi account può aiutarti a trovare nuovi account di des
    >
    >È possibile salvare solo fino a 5.000 account alla volta. Se la ricerca restituisce 10.000 risultati, dovrai salvare le prime 5.000 (in alto), quindi reimpostare i filtri e salvare le successive 5.000. Il limite di account **total** è di un milione.
 
-1. Fai clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >Dopo il salvataggio degli account, puoi utilizzare un pubblico [corrispondente in LinkedIn](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) per eseguirne il targeting.
+   >Dopo il salvataggio degli account, puoi utilizzare un pubblico [corrispondente in [!DNL LinkedIn]](/help/marketo/product-docs/target-account-management/target/create-an-account-matched-audience-on-linkedin.md) per eseguirne il targeting.

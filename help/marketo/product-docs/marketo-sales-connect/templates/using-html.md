@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352594
-description: Utilizzo di HTML - Documentazione di Marketo - Documentazione del prodotto
+description: Utilizzo dei documenti di HTML - Marketo - Documentazione del prodotto
 title: Utilizzo di HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 2%
+source-wordcount: '82'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 
 1. Incolla qui il codice sorgente.
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
 >[!NOTE]
 >

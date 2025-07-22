@@ -4,43 +4,43 @@ description: Predictive Content - Documentazione di Marketo - Documentazione del
 title: Informazioni sul contenuto predittivo
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
 # Informazioni sul contenuto predittivo {#understanding-predictive-content}
 
-Dopo aver [approvato un titolo per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavori qui. Nella pagina Contenuto predittivo vengono visualizzati tutti i titoli approvati per il contenuto predittivo.
+Dopo aver [approvato un titolo per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavori qui. Nella pagina [!UICONTROL Predictive Content] vengono visualizzati tutti i titoli approvati per il contenuto predittivo.
 
 ![](assets/image2017-10-3-9-3a21-3a38.png)
 
 I campi della pagina includono:
 
-* **Immagine e titolo**: nome dell&#39;elemento di contenuto e dell&#39;immagine selezionata
-* **Abilitato da Source**: mostra se il titolo è approvato per contenuti multimediali avanzati, e-mail o barra dei consigli.
-* **Categorie**: create da te e utilizzate per raggruppare i tuoi risultati predittivi per il web o l&#39;e-mail
-* **Clic**: numero totale di clic sul contenuto consigliato (incluse tutte le origini)
-* **Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per i clic. Passa il puntatore del mouse per visualizzare i dati aggiuntivi (vedi sotto)
-* **Conversione assistita**: visitatori che hanno fatto clic sul contenuto consigliato in una visita precedente e hanno completato un modulo in un secondo momento
+* **[!UICONTROL Image and Name]**: nome del contenuto e dell&#39;immagine selezionata
+* **[!UICONTROL Enabled by Source]**: mostra se il titolo è approvato per Rich Media, e-mail o Barra dei consigli.
+* **[!UICONTROL Categories]**: creato da te e utilizzato per raggruppare i risultati predittivi per web o e-mail
+* **[!UICONTROL Clicks]**: numero totale di clic sul contenuto consigliato (incluse tutte le origini)
+* **[!UICONTROL Conversion Rate]**: percentuale calcolata dividendo le conversioni dirette per i clic. Passa il puntatore del mouse per visualizzare i dati aggiuntivi (vedi sotto)
+* **[!UICONTROL Assisted Conversion]**: visitatori che hanno fatto clic sul contenuto consigliato in una visita precedente e hanno completato un modulo in un secondo momento
 
 ## Filtraggio del contenuto {#filtering-content}
 
-**Categoria**
+**[!UICONTROL Category]**
 
-Puoi filtrare il contenuto per categorie create. Fai clic sull&#39;icona del filtro e in **Categoria** seleziona una o più categorie di contenuto.
+Puoi filtrare il contenuto per categorie create. Fare clic sull&#39;icona del filtro e in **[!UICONTROL Category]** selezionare una o più categorie di contenuto.
 
 ![](assets/image2017-10-3-9-3a24-3a38.png)
 
-**Source abilitato**
+**[!UICONTROL Enabled Source]**
 
-Puoi filtrare per ciascun tipo di contenuto abilitato: e-mail, contenuti multimediali avanzati, barra dei consigli.
+Filtra per ogni tipo di contenuto abilitato: [!UICONTROL Email], [!UICONTROL Rich Media], [!UICONTROL Recommendation Bar].
 
 ![](assets/image2017-10-3-9-3a25-3a9.png)
 
-**Analytics di Source**
+**[!UICONTROL Analytics by Source]**
 
 L’analisi dei contenuti abilitata per filtrare consente di visualizzare le prestazioni di ogni origine.
 
@@ -48,7 +48,7 @@ L’analisi dei contenuti abilitata per filtrare consente di visualizzare le pre
 
 ## Visualizza analisi per data {#display-analytics-by-date}
 
-1. selezionare le date di inizio e di fine a destra (come illustrato). Fare clic su **Applica**.
+1. selezionare le date di inizio e di fine a destra (come illustrato). Fai clic su **[!UICONTROL Apply]**.
 
    ![](assets/predictive-content-filter-by-date-hands.png)
 
@@ -58,7 +58,7 @@ Nella tabella puoi visualizzare quali origini sono abilitate per il contenuto pr
 
 ![](assets/image2017-10-3-9-3a26-3a25.png)
 
-Passa il puntatore del mouse sulla barra nella colonna Tasso di conversione per visualizzare il tasso di conversione, la conversione diretta e i dati su cui hai fatto clic.
+Passa il puntatore del mouse sulla barra nella colonna [!UICONTROL Conversion Rate] per visualizzare il tasso di conversione, la conversione diretta e i dati su cui hai fatto clic.
 
 ![](assets/predictive-content-conversion-rate-popup-hand.png)
 
@@ -66,8 +66,8 @@ Passa il puntatore del mouse sulla barra nella colonna Tasso di conversione per 
 >
 >**Definizioni**
 >
->**Tasso di conversione**: percentuale calcolata dividendo le conversioni dirette per i clic
+>**[!UICONTROL Conversion Rate]**: percentuale calcolata dividendo le conversioni dirette per clic
 >
->**Conversione diretta**: visitatori che hanno fatto clic sul contenuto consigliato e hanno completato un modulo nella stessa visita
+>**[!UICONTROL Direct Conversion]**: visitatori che hanno fatto clic sul contenuto consigliato e completato un modulo nella stessa visita
 >
->**Clic**: numero totale di clic sul contenuto consigliato (incluse tutte e tre le origini)
+>**[!UICONTROL Clicked]**: numero totale di clic sul contenuto consigliato (incluse tutte e tre le origini)

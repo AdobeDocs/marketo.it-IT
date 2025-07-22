@@ -4,9 +4,9 @@ description: Creazione di campagne secondarie e Assets locale - Documentazione d
 title: Creazione di campagne secondarie e Assets locale
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '665'
+source-wordcount: '650'
 ht-degree: 1%
 
 ---
@@ -73,25 +73,25 @@ Esempi di campagne per bambini sono le campagne di invito, di registrazione e di
 
 >[!NOTE]
 >
->Se utilizzi un modulo Marketo in una pagina di destinazione non Marketo, il trigger sarà **Compila modulo** con il nome del modulo.
+>Se si utilizza un modulo Marketo in una pagina di destinazione non Marketo, il trigger sarà **[!UICONTROL Fills out Form]** con [!UICONTROL Form Name].
 
 ![](assets/image2015-12-22-15-3a20-3a51.png)
 
 **Flusso**
 
-* **Modifica stato programma** - Imposta su Webinar -> Registrato.
+* **[!UICONTROL Change Program Status]** - Imposta su Webinar -> Registrato.
 
 Questo passaggio di flusso è necessario come PRIMO PASSAGGIO DI FLUSSO durante la configurazione della campagna figlio. Quando lo stato di un programma cambia in Registrato, Marketo invia le informazioni di registrazione a ON24. Nessun altro stato spingerà la persona oltre.
 
-* **Invia e-mail** - Messaggio di conferma. Imposta questa e-mail su **Operativo** in modo che le persone non abbonate che si sono registrate possano ancora riceverla.
+* **[!UICONTROL Send Email]** - E-mail di conferma. Imposta questa e-mail su **Operativo** in modo che le persone non abbonate che si sono registrate possano ancora riceverla.
 
-Il passaggio del flusso **Invia e-mail** DEVE essere il secondo passaggio. L&#39;e-mail di conferma contiene `{{member.webinar url}}`, che viene compilato con le informazioni inviate nuovamente a Marketo da ON24.
+Il passaggio del flusso **[!UICONTROL Send Email]** DEVE essere il secondo passaggio. L&#39;e-mail di conferma contiene `{{member.webinar url}}`, che viene compilato con le informazioni inviate nuovamente a Marketo da ON24.
 
 ![](assets/image2015-12-22-15-3a29-3a50.png)
 
 >[!NOTE]
 >
->L’ordine di questi passaggi di flusso è importante a causa dell’ordine in cui vengono eseguite le azioni in Marketo. Il passaggio **Modifica stato programma** invia la persona a ON24 per la registrazione e viene generato un URL univoco. In seguito, potrai inviare l&#39;e-mail di conferma che include questo URL univoco utilizzando il token `{{member.webinar URL}}`.
+>L’ordine di questi passaggi di flusso è importante a causa dell’ordine in cui vengono eseguite le azioni in Marketo. Il passaggio **[!UICONTROL Change Program Status]** invia la persona a ON24 per la registrazione e viene generato un URL univoco. In seguito, potrai inviare l&#39;e-mail di conferma che include questo URL univoco utilizzando il token `{{member.webinar URL}}`.
 >
 >Se la persona viene restituita con un errore di registrazione, non riceverà l’e-mail di conferma.
 

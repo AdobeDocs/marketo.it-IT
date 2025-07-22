@@ -1,27 +1,27 @@
 ---
 unique-page-id: 17728023
-description: Creare un evento con zoom - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un evento con zoom
+description: Creazione di un evento con  [!DNL Zoom] - Documentazione di Marketo - Documentazione del prodotto
+title: Crea un evento con  [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: c10ecc0ccad28f2e480343acefe10f5eca2ae578
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '531'
 ht-degree: 0%
 
 ---
 
-# Creare un evento con zoom {#create-an-event-with-zoom}
+# Crea un evento con [!DNL Zoom] {#create-an-event-with-zoom}
 
 >[!PREREQUISITES]
 >
->* [Aggiungi zoom come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
+>* [Aggiungi [!DNL Zoom] come  [!DNL LaunchPoint] Servizio](/help/marketo/product-docs/administration/additional-integrations/add-zoom-as-a-launchpoint-service.md)
 >* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Imposta le [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriate per tenere traccia del coinvolgimento
 
-Crea il webinar in Zoom. Alcune impostazioni per la creazione dello zoom vengono utilizzate da Marketo, mentre altre vengono utilizzate solo da Zoom.
+Crea il tuo webinar in [!DNL Zoom]. Alcune impostazioni nella creazione di [!DNL Zoom] sono utilizzate da Marketo, altre solo da [!DNL Zoom].
 
-Dopo aver creato un evento Marketo e aver associato a esso un webinar Zoom, i sistemi saranno in grado di condividere le informazioni sulla registrazione e sulla partecipazione. Per informazioni sulla creazione di un webinar, vedere [Guida introduttiva ai webinar Zoom](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
+Dopo la creazione di un evento Marketo e l&#39;associazione di un webinar [!DNL Zoom], i sistemi potranno condividere le informazioni sulla registrazione e sulla partecipazione. Per informazioni sulla creazione di un webinar, vedere [Guida introduttiva di [!DNL Zoom] webinar](https://support.zoom.us/hc/en-us/articles/200917029-Getting-Started-With-Webinar).
 
 Immetti le seguenti informazioni per il webinar, che verranno inserite in Marketo tramite l’adattatore. Se apporti modifiche a queste informazioni, fai clic sul collegamento &quot;Aggiorna dal provider di webinar&quot; in Azioni evento per consentire a Marketo di visualizzare le modifiche.
 
@@ -43,21 +43,21 @@ Immetti le seguenti informazioni per il webinar, che verranno inserite in Market
 
 * **Webinar ricorrente**- Non selezionare.
 
-* **Registrazione** - Selezionare questa casella per rendere obbligatoria la registrazione. Utilizzerai un modulo/pagina di destinazione Marketo per acquisire le informazioni di registrazione che verranno inviate a Zoom.
+* **Registrazione** - Selezionare questa casella per rendere obbligatoria la registrazione. Verrà utilizzato un modulo/pagina di destinazione di Marketo per acquisire le informazioni di registrazione che verranno inviate a [!DNL Zoom].
 
 >[!NOTE]
 >
->Al momento Marketo non supporta i webinar ricorrenti. Devi impostare una singola sessione tra ogni webinar Marketo Event e Zoom.
+>Al momento Marketo non supporta i webinar ricorrenti. È necessario impostare una singola sessione tra ogni evento Marketo e [!DNL Zoom] webinar.
 
 ![](assets/overview2.png)
 
 >[!TIP]
 >
->Sono presenti campi aggiuntivi che verranno configurati in Zoom che NON influiranno sull’integrazione. Per ulteriori informazioni su questi campi, consultare il [Centro assistenza per webinar Zoom](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar).
+>Sono presenti campi aggiuntivi che verranno configurati in [!DNL Zoom] che NON influiranno sull&#39;integrazione. Fare riferimento al [[!DNL Zoom] Centro assistenza webinar](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) per ulteriori informazioni su questi campi.
 
 Ora, saltiamo su Marketo!
 
-1. Seleziona un evento. Fai clic su **Azioni evento** e scegli **Impostazioni evento**.
+1. Seleziona un evento. Fare clic su **[!UICONTROL Event Actions]** e scegliere **[!UICONTROL Event Settings]**.
 
    ![](assets/image2015-5-14-14-3a53-3a10-1.png)
 
@@ -65,11 +65,11 @@ Ora, saltiamo su Marketo!
    >
    >Il tipo di canale dell&#39;evento selezionato deve essere **webinar**.
 
-1. Scegli **Zoom** dall&#39;elenco **Evento** **Partner**.
+1. Scegliere **[!UICONTROL Zoom]** dall&#39;elenco **[!UICONTROL Event Partner]**.
 
    ![](assets/eventsettings1.png)
 
-1. Scegli l’account Zoom a cui associare l’evento.
+1. Scegliere l&#39;account [!DNL Zoom] a cui associare l&#39;evento.
 
    ![](assets/selectaccount.png)
 
@@ -77,11 +77,11 @@ Ora, saltiamo su Marketo!
 
    ![](assets/selectevent.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/eventsettingssave.png)
 
-   Eccellente! Ora l’evento viene sincronizzato e pianificato da Zoom.
+   Eccellente! Ora l&#39;evento è sincronizzato e pianificato da [!DNL Zoom].
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Ora, saltiamo su Marketo!
    >
    >Imposta l&#39;e-mail di conferma su **Operativo** per garantire che le persone che si registrano e potrebbero annullare l&#39;iscrizione ricevano comunque le informazioni di conferma.
 
-   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso **Modifica stato programma** quando il nuovo stato è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurati inoltre di #1 #2. il passaggio di flusso **Modifica stato programma** e il passaggio di flusso **Invia e-mail**
+   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso **[!UICONTROL Change Program Status]** quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurarsi inoltre di #1 **[!UICONTROL Change Program Status]** passaggio di flusso e #2. **[!UICONTROL Send Email]** passaggio di flusso
 
    ![](assets/goto-webinar-1.png)
 

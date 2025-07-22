@@ -3,9 +3,9 @@ description: Accesso alla nuova istanza Sales Connect - Documentazione Marketo -
 title: Accesso alla nuova istanza di Sales Connect
 exl-id: 0add0841-8909-4cb2-9db7-08a5e79b0ed8
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ ht-degree: 0%
 
 Una volta acquistata Sales Connect, nell’istanza Marketo verrà visualizzata una nuova pagina di integrazione. Utilizzare questa pagina per invitare il primo utente ed eseguire il provisioning della relativa istanza di Sales Connect.
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-1.png)
 
-1. Fai clic su **Sales Connect**.
+1. Fai clic su **[!UICONTROL Sales Connect]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-2.png)
 
-1. Selezionare da un elenco di amministratori di Marketo da invitare e fare clic su **Invia invito**.
+1. Selezionare da un elenco di amministratori di Marketo da invitare e fare clic su **[!UICONTROL Send Invite]**.
 
    ![](assets/accessing-your-new-sales-connect-instance-3.png)
 

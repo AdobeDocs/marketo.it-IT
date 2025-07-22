@@ -4,24 +4,24 @@ description: Gerarchie TAM - Documentazione Marketo - Documentazione del prodott
 title: Gerarchie TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
 
 # Gerarchie TAM {#tam-hierarchies}
 
-Le gerarchie consentono agli utenti TAM di ereditare le relazioni padre/figlio tra gli account denominati nel CRM.
+Le gerarchie consentono agli utenti TAM di ereditare le relazioni padre/figlio tra [!UICONTROL Named Accounts] nel CRM.
 
 ## Cosa sono le gerarchie TAM? {#what-are-tam-hierarchies}
 
-Le aziende possono avere più divisioni e filiali. Tali società spesso si organizzano attraverso relazioni padre-figlio denominate gerarchie. TAM può ereditare queste gerarchie dall&#39;integrazione SFDC o MSD e consentire di lavorare con le diverse divisioni come un&#39;unica famiglia.
+Le aziende possono avere più divisioni e filiali. Tali società spesso si organizzano attraverso relazioni padre-figlio denominate gerarchie. TAM può ereditare queste gerarchie dall’integrazione SFDC o MSD e consentire di lavorare con le diverse divisioni come un’unica famiglia.
 
 ## Utilizzo delle gerarchie TAM {#working-with-tam-hierarchies}
 
-Con le gerarchie TAM è possibile ottenere rapidamente informazioni su un&#39;intera gerarchia o su singoli account nel dashboard Conti denominati.
+Con le gerarchie TAM è possibile ottenere rapidamente informazioni su un&#39;intera gerarchia o su singoli account nel dashboard [!UICONTROL Named Account].
 
 **Gerarchia non in uso**
 

@@ -1,18 +1,18 @@
 ---
-description: Momenti di interesse nelle azioni di approfondimento sulle vendite - Documenti Marketo - Documentazione del prodotto
-title: Momenti di interesse nelle azioni di approfondimento sulle vendite
+description: Momenti di interesse nelle azioni Insight per le vendite - Documentazione Marketo - Documentazione del prodotto
+title: Momenti di interesse nelle azioni Insight per le vendite
 exl-id: b2423fbb-9ce0-4ce9-bc26-93aa69aa9e12
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# Momenti di interesse nelle azioni di approfondimento sulle vendite {#interesting-moments-in-sales-insight-actions}
+# Momenti di interesse in [!DNL Sales Insight Actions] {#interesting-moments-in-sales-insight-actions}
 
-I momenti più interessanti sono la chiave per comunicare con il tuo team di vendita attraverso le azioni Marketo Sales Insight.
+Momenti interessanti sono la chiave per comunicare con il tuo team di vendita tramite [!DNL Marketo Sales Insight Actions].
 
 ## Qual è un momento interessante? {#what-is-an-interesting-moment}
 
@@ -28,7 +28,7 @@ Sta a te decidere! Decidi quali informazioni sono rilevanti per il tuo team di v
 
    ![](assets/interesting-moments-in-sales-insight-actions-1.png)
 
-1. Trascina sul passaggio del flusso **Momenti di interesse**.
+1. Trascinare sul passaggio del flusso **[!UICONTROL Interesting Moments]**.
 
    ![](assets/interesting-moments-in-sales-insight-actions-2.png)
 
@@ -36,7 +36,7 @@ Sta a te decidere! Decidi quali informazioni sono rilevanti per il tuo team di v
 
    ![](assets/interesting-moments-in-sales-insight-actions-3.png)
 
-1. Scrivi un messaggio al tuo team vendite nel campo **Descrizione** che spiega perché questa azione è importante.
+1. Scrivi un messaggio al tuo team vendite nel campo **[!UICONTROL Description]** che spiega perché questa azione è importante.
 
    ![](assets/interesting-moments-in-sales-insight-actions-4.png)
 
@@ -50,8 +50,8 @@ I momenti interessanti verranno visualizzati nel registro attività di un [lead]
 
 ![](assets/interesting-moments-in-sales-insight-actions-5.png)
 
-## Come appare un momento interessante nelle azioni Sales Insight? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
+## Come si presenta un momento di interesse in [!DNL Sales Insight Actions]? {#what-does-an-interesting-moment-look-like-in-sales-insight-actions}
 
-I Momenti di interesse vengono visualizzati in tempo reale nel feed live di un utente. Utilizziamo l’ID proprietario del lead in Salesforce per mostrare agli utenti i momenti interessanti in cui sono proprietari dei lead rilevanti. Gli utenti possono seguire rapidamente i lead tramite e-mail/telefono/campagna di vendita facendo clic sull’elenco a discesa accanto al nome del lead.
+I Momenti di interesse vengono visualizzati in tempo reale nel feed live di un utente. Utilizziamo l&#39;ID proprietario del lead in [!DNL Salesforce] per mostrare ai nostri utenti i momenti interessanti dei lead rilevanti di cui sono proprietari. Gli utenti possono seguire rapidamente i lead tramite e-mail/telefono/campagna di vendita facendo clic sull’elenco a discesa accanto al nome del lead.
 
 ![](assets/interesting-moments-in-sales-insight-actions-6.png)

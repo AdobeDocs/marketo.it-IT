@@ -4,9 +4,9 @@ description: Definire un pubblico con un elenco avanzato - Documentazione di Mar
 title: Definire un pubblico con un elenco avanzato
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '256'
 ht-degree: 1%
 
 ---
@@ -23,17 +23,17 @@ Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/
 >
 >La definizione del pubblico funziona solo quando il programma e-mail non viene approvato.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il tuo programma di posta elettronica e fai clic su **Modifica elenco avanzato** nella sezione **Pubblico**.
+1. Selezionare il programma di posta elettronica e quindi fare clic su **[!UICONTROL Edit Smart List]** sotto il riquadro **[!UICONTROL Audience]**.
 
    ![](assets/2017-05-22-09-46-37.png)
 
    >[!TIP]
    >
-   >Verificare che la visualizzazione sia impostata su **Pannello di controllo Campaign** per trovare questa impostazione.
+   >Assicurarsi che la visualizzazione sia impostata su **[!UICONTROL Control Panel]** per trovare questa impostazione.
 
 1. Individua i filtri che desideri utilizzare e trascinali nell’area di lavoro.
 
@@ -63,7 +63,7 @@ Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/
 >
 >Fare clic sul numero per visualizzare un elenco dettagliato delle persone bloccate dalla posta. **Nota:** le e-mail operative verranno comunque inviate alle persone contrassegnate come non sottoscritte e il marketing verrà sospeso.
 >
->Utilizza il pulsante ![—](assets/image2014-10-23-16-3a32-3a36.png) nella sezione Pubblico per vedere quante persone riceveranno l&#39;e-mail.
+>Utilizza il pulsante ![—](assets/image2014-10-23-16-3a32-3a36.png) nella sezione **[!UICONTROL Audience]** per vedere quante persone riceveranno l&#39;e-mail.
 
 >[!MORELIKETHIS]
 >

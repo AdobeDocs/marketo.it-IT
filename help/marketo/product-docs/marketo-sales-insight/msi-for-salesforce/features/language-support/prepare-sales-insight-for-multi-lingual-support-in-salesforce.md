@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516460
-description: Preparare approfondimenti sulle vendite per il supporto multilingue in Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Prepara approfondimenti sulle vendite per il supporto multilingue in Salesforce
+description: Preparare il team di vendita Insight per il supporto multilingue in Salesforce - Documentazione Marketo - Documentazione del prodotto
+title: Preparare l'Insight di vendita per il supporto multilingue in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 1%
+source-wordcount: '202'
+ht-degree: 2%
 
 ---
 
-# Prepara approfondimenti sulle vendite per il supporto multilingue in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
+# Preparare l&#39;Insight di vendita per il supporto multilingue in Salesforce {#prepare-sales-insight-for-multi-lingual-support-in-salesforce}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Marketo Sales Insight è memorizzato per lingua. Pertanto, se si desidera che fu
 
 >[!NOTE]
 >
->Sales Insight attualmente supporta:
+>[!DNL Sales Insight] attualmente supporta:
 >
 >* Inglese
 >* Francese
@@ -29,62 +29,62 @@ Marketo Sales Insight è memorizzato per lingua. Pertanto, se si desidera che fu
 >
 >Per impostazione predefinita, qualsiasi altra lingua utilizza l’inglese.
 
-## Aggiunta di una nuova lingua per Marketo Sales Insight {#adding-a-new-language-for-marketo-sales-insight}
+## Aggiunta di una nuova lingua per [!DNL Marketo Sales Insight] {#adding-a-new-language-for-marketo-sales-insight}
 
-1. Accedi a Salesforce. Nell&#39;elenco a discesa sotto il tuo nome nell&#39;angolo in alto a destra, fai clic su **Configurazione**.
+1. Accedi a [!DNL Salesforce]. Nell&#39;elenco a discesa sotto il tuo nome nell&#39;angolo in alto a destra, fai clic su **[!UICONTROL Setup]**.
 
    ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. In **Informazioni personali**, fare clic su **Informazioni personali**.
+1. In **[!UICONTROL My Personal Information]**, fare clic su **[!UICONTROL Personal Information]**.
 
    ![](assets/image2015-7-6-16-3a5-3a25.png)
 
-1. Fai clic su **Modifica**.
+1. Fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2015-7-6-16-3a5-3a38.png)
 
-1. Selezionare una lingua e fare clic su **Salva**.
+1. Selezionare una lingua e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-6-16-3a5-3a47.png)
 
-1. L&#39;interfaccia Salesforce è ora nella lingua selezionata. È possibile fare clic sull&#39;icona **+** per visualizzare tutte le schede disponibili.
+1. L&#39;interfaccia di [!DNL Salesforce] è ora nella lingua selezionata. È possibile fare clic sull&#39;icona **+** per visualizzare tutte le schede disponibili.
 
    ![](assets/image2015-7-6-16-3a6-3a10.png)
 
-1. Fare clic su **Configura Marketo Sales Insight** (nella lingua selezionata).
+1. Fare clic su **[!UICONTROL Configure Marketo Sales Insight]** (nella lingua selezionata).
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Passa a Marketo. Individua la [configurazione API di Marketo Sales Insight **&#x200B;**&#x200B;dettagli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Passa a Marketo. Individua i tuoi [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**dettagli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 
-1. Immetti i dettagli API da Marketo e fai clic su **Salva**.
+1. Immettere i dettagli API da Marketo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-6-16-3a7-3a43.png)
 
-## Modifica Salesforce ripristinando l’inglese {#change-salesforce-back-to-english}
+## Cambia [!DNL Salesforce] di nuovo in inglese {#change-salesforce-back-to-english}
 
-Una volta completata la personalizzazione dell’organizzazione Salesforce, ecco come ripristinare la configurazione personale in inglese.
+Dopo aver completato la personalizzazione dell&#39;organizzazione [!DNL Salesforce], ecco come ripristinare la configurazione personale in inglese.
 
 >[!NOTE]
 >
 >Le seguenti schermate sono in francese con istruzioni in inglese.  Verranno visualizzate le stesse schermate con il testo nella lingua selezionata nel passaggio precedente.
 
-1. Sotto il tuo nome, fai clic su **Configurazione**.
+1. Sotto il tuo nome, fai clic su **[!UICONTROL Setup]**.
 
 ![](assets/image2015-7-6-16-3a5-3a6.png)
 
-1. Fai clic su **Informazioni personali** in **Informazioni personali**.
+1. Fare clic su **[!UICONTROL Personal Information]** in **[!UICONTROL My Personal Information]**.
 
    ![](assets/image2015-7-6-16-3a8-3a3.png)
 
-1. Fai clic su **Modifica**.
+1. Fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2015-7-6-16-3a8-3a19.png)
 
-1. Seleziona **Inglese** dal menu a discesa Lingua e fai clic su **Salva**.
+1. Selezionare **[!UICONTROL English]** dal menu a discesa Lingua e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-7-6-16-3a8-3a31.png)
 
-   Ora la tua Salesforce è tornata in inglese!
+   Ora il tuo [!DNL Salesforce] è tornato in inglese.

@@ -4,9 +4,9 @@ description: Utilizzo di Personas - Documentazione di Marketo - Documentazione d
 title: Utilizzo di utenti tipo
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Gli utenti tipo sono un ottimo modo per segmentare il pubblico e il mercato ABM 
 
 ## Aggiungi una persona {#add-a-persona}
 
-1. In Il mio Marketo, fai clic su **Amministratore**.
+1. In Il mio Marketo, fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
-1. Nella struttura selezionare **Gestione account di destinazione**.
+1. Nella struttura, selezionare **[!UICONTROL Target Account Management]**.
 
    ![](assets/using-personas-2.png)
 
-1. Fai clic su **Modifica**.
+1. Fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/three.png)
 
@@ -33,27 +33,27 @@ Gli utenti tipo sono un ottimo modo per segmentare il pubblico e il mercato ABM 
    >
    >La persona Qualifica è inclusa per impostazione predefinita. Non può essere modificata o eliminata.
 
-1. Per aggiungere altri utenti tipo, fare clic su **+Aggiungi**.
+1. Per aggiungere altri utenti tipo, fare clic su **[!UICONTROL +Add]**.
 
    ![](assets/four.png)
 
-1. Assegna un nome all’utente tipo e seleziona il campo corrispondente nel menu a discesa. Puoi aggiungere fino a due utenti tipo aggiuntivi. Al termine, fai clic su **Salva**.
+1. Assegna un nome all’utente tipo e seleziona il campo corrispondente nel menu a discesa. Puoi aggiungere fino a due utenti tipo aggiuntivi. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/five.png)
 
    >[!NOTE]
    >
-   >Solo i campi personalizzati Salesforce di tipo &quot;elenco a discesa&quot; che sono stati sincronizzati nell’istanza Marketo sono disponibili nel menu a discesa del campo dell’utente tipo durante la creazione di un utente tipo.
+   >Solo i campi personalizzati Salesforce di tipo &quot;elenco a discesa&quot; che sono stati sincronizzati con l’istanza Marketo sono disponibili nel menu a discesa del campo persona durante la creazione di un utente tipo.
 
 ## Visualizza i tuoi utenti tipo {#view-your-personas}
 
-Visualizza i tuoi utenti tipo visitando un account con nome specifico.
+Visualizza i tuoi utenti tipo visitando un [!UICONTROL Named Account] specifico.
 
-1. Seleziona l’account denominato desiderato.
+1. Selezionare il [!UICONTROL Named Account] desiderato.
 
    ![](assets/one-a.png)
 
-1. Fai clic sulla scheda **Persone**.
+1. Fare clic sulla scheda **[!UICONTROL Personas]**.
 
    ![](assets/two-a.png)
 
@@ -63,7 +63,7 @@ Visualizza i tuoi utenti tipo visitando un account con nome specifico.
 
    >[!NOTE]
    >
-   >La X nel titolo Persona funge da carattere jolly. Ad esempio, &quot;CXO&quot; includerà CEO, CFO, ecc.
+   >La X in [!UICONTROL Title Persona] funge da carattere jolly. Ad esempio, &quot;CXO&quot; includerà CEO, CFO, ecc.
 
 ## Filtri persona {#persona-filters}
 

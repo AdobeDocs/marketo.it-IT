@@ -3,16 +3,16 @@ description: Sincronizzazione dei messaggi chiave di chiamata e chiamata - Docum
 title: Sincronizzazione dei messaggi chiave di chiamata e chiamata
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '478'
-ht-degree: 2%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
 # Sincronizzazione dei messaggi chiave di chiamata e chiamata {#syncing-call-and-call-key-messages}
 
-Gli oggetti messaggio chiave di chiamata e chiamata in Veeva CRM vengono sincronizzati per impostazione predefinita nel Marketo Engage. Marketo sincronizza i dati che risalgono a un massimo di 6 mesi fa, in base alla data di creazione della chiamata.
+Gli oggetti messaggio chiave di chiamata e chiamata in [!DNL Veeva] CRM sono sincronizzati per impostazione predefinita in Marketo Engage. Marketo sincronizza i dati che risalgono a un massimo di 6 mesi fa, in base alla data di creazione della chiamata.
 
 >[!NOTE]
 >
@@ -65,49 +65,49 @@ I seguenti campi nei messaggi Chiave chiamata e Chiave chiamata sono sincronizza
   </thead>
   <tbody>
     <tr>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>Contabile</td>
       <td>Ricercare l’account a cui è associata la chiamata.</td>
       <td>Account_vod__c</td>
       <td>Ricerca (account)</td>
     </tr>
     <tr>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>Tipo di chiamata</td>
       <td>Tipo di chiamata gestito dal sistema in base al tipo e al contenuto della chiamata. Questo campo viene utilizzato a scopo di reporting. I valori validi sono: Solo dettaglio, Dettaglio con campione, Dettaglio gruppo, Dettaglio gruppo con campione, Solo campione. Questi valori non devono essere modificati, ma le traduzioni per questi elenchi a discesa possono essere modificate. I partecipanti hanno lo stesso tipo di chiamata della chiamata di intestazione. Per una chiamata di gruppo con 3 professionisti, tutti e 4 i record hanno il tipo di chiamata "Dettagli gruppo"</td>
       <td>Tipo_chiamata_vod__c</td>
       <td>Elenco a discesa</td>
     </tr>
     <tr>
-     <td>Chiamata</td>
+     <td>Invito</td>
       <td>Contatto</td>
       <td>Ricercare il contatto (se presente) a cui è associata la chiamata.</td>
       <td>Contact_vod__c</td>
       <td>Lookup(Contact)</td>
     </tr>
     <tr>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>Data</td>
       <td>Data della chiamata in cui è stata salvata o inviata per la prima volta. Questo campo viene impostato tramite un trigger alla data corrente se non viene fornito né il campo data né il campo data e ora.</td>
       <td>Data_chiamata__c</td>
       <td>Data</td>
     </tr>
     <tr>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>È Una Chiamata Genitore?</td>
       <td>Campo formula per determinare se il record Chiamata è il record Chiamata padre o Chiamata partecipante. 1 indica che il record è la chiamata padre. 0 indica che si tratta di una chiamata Partecipante.</td>
       <td>Is_Parent_Call_vod__c</td>
       <td>Formula (numero)</td>
     </tr>
     <tr>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>Stato</td>
       <td>Stato della chiamata: Pianificato, Salvato o Inviato. Utilizza il workbench di traduzione per modificare i valori di visualizzazione. I trigger durante la chiamata esaminano questo campo per verificare se la chiamata è bloccata (inviata). Questo valore viene impostato per l’utente quando viene premuto il pulsante Salva o Invia.</td>
       <td>Status_vod__c</td>
       <td>Elenco a discesa</td>
     </tr>
     <tr>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>Tipo di record</td>
       <td> </td>
       <td>RecordTypeId</td>
@@ -115,7 +115,7 @@ I seguenti campi nei messaggi Chiave chiamata e Chiave chiamata sono sincronizza
     </tr>
     <tr>
       <td>Chiama messaggio chiave</td>
-      <td>Chiamata</td>
+      <td>Invito</td>
       <td>Ricerca nella chiamata. Ogni messaggio chiave è associato a una chiamata.</td>
       <td>Chiama2_vod__c</td>
       <td>Master-Detail(Call)</td>

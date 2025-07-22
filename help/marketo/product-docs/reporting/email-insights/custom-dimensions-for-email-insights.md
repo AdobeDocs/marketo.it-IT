@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11375276
-description: Dimension personalizzati per approfondimenti e-mail - Documenti Marketo - Documentazione del prodotto
-title: Dimension personalizzati per approfondimenti e-mail
+description: Dimensioni personalizzate per approfondimenti e-mail - Documentazione di Marketo - Documentazione del prodotto
+title: Dimensioni personalizzate per approfondimenti e-mail
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 1%
 
 ---
 
-# Dimension personalizzati per approfondimenti e-mail {#custom-dimensions-for-email-insights}
+# Dimensioni personalizzate per approfondimenti e-mail {#custom-dimensions-for-email-insights}
 
 Sono incluse tutte le dimensioni Marketo standard, ma puoi aggiungere fino a 10 dimensioni personalizzate. Le dimensioni personalizzate sono costituite da segmentazioni e tag di programma. Ecco come aggiungerli.
 
@@ -23,15 +23,15 @@ Sono incluse tutte le dimensioni Marketo standard, ma puoi aggiungere fino a 10 
 >
 >Le dimensioni personalizzate **non possono** essere eliminate o sostituite, quindi scegli attentamente le tue 10.
 
-1. In Email Insights, fai clic sull’icona a forma di ingranaggio in alto a destra della pagina.
+1. In [!UICONTROL Email Insights] fare clic sull&#39;icona a forma di ingranaggio in alto a destra della pagina.
 
    ![](assets/cd1.png)
 
-1. Fare clic su **Sistema**.
+1. Fai clic su **[!UICONTROL System]**.
 
    ![](assets/cd2.png)
 
-1. Fai clic su **+** accanto a **Aggiungi dimensione**.
+1. Fai clic su **+** accanto a **[!UICONTROL Add dimension]**.
 
    ![](assets/cd3.png)
 
@@ -41,6 +41,6 @@ Sono incluse tutte le dimensioni Marketo standard, ma puoi aggiungere fino a 10 
 
    >[!NOTE]
    >
-   >**Per pubblico**: visualizza tutte le segmentazioni approvate (dal database)
+   >**[!UICONTROL By Audience]**: visualizza tutte le segmentazioni approvate (dal database)
    >
-   >**Per contenuto**: visualizza tutti i tag del programma
+   >**[!UICONTROL By Content]**: visualizza tutti i tag del programma

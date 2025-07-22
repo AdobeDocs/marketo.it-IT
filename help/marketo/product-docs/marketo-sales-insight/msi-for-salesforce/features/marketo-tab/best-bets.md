@@ -3,16 +3,16 @@ description: Elementi di maggiore rilevanza - Documentazione di Marketo - Docume
 title: Elementi di maggiore rilevanza
 exl-id: 39dc8442-0773-43ec-b788-72a43d68dcf3
 feature: Marketo Sales Insights
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
 
-# Elementi di maggiore rilevanza {#best-bets}
+# [!DNL Best Bets] {#best-bets}
 
-La scheda Elementi di maggiore rilevanza include un elenco di tutti gli hot lead in base alla loro priorità, calcolata utilizzando l’urgenza e il punteggio relativo.
+La scheda [!DNL Best Bets] include un elenco di tutti gli hot lead in base alla loro priorità, calcolata utilizzando l&#39;urgenza e il punteggio relativo.
 
 >[!CAUTION]
 >
@@ -20,12 +20,12 @@ La scheda Elementi di maggiore rilevanza include un elenco di tutti gli hot lead
 
 **Opzioni filtro**
 
-È possibile fare clic su ciascuno dei seguenti pulsanti per visualizzare gli elementi di maggiore rilevanza:
+È possibile fare clic su ciascuno dei pulsanti seguenti per visualizzare [!DNL Best Bets]:
 
-* Lead: puoi visualizzare gli elementi di maggiore rilevanza per tutti i lead a te assegnati nel CRM
-* Contatti: puoi visualizzare gli elementi di maggiore rilevanza per tutti i contatti assegnati a te nel CRM
-* Contatti account: puoi visualizzare gli elementi di maggiore rilevanza per tutti i contatti che appartengono agli account assegnati a te nel CRM, anche se il contatto stesso non è assegnato a te
-* Contatti opportunità: è possibile visualizzare gli elementi di maggiore rilevanza per tutti i contatti che appartengono alle opportunità assegnate nel CRM, anche se il contatto stesso non è assegnato a te
+* Lead: puoi visualizzare [!DNL Best Bets] per tutti i lead assegnati a te nel CRM
+* Contatti: puoi visualizzare [!DNL Best Bets] per tutti i contatti assegnati all&#39;utente nel CRM
+* Contatti account: è possibile visualizzare [!DNL Best Bets] per tutti i contatti che appartengono agli account assegnati all&#39;utente nel CRM, anche se il contatto stesso non è assegnato all&#39;utente
+* Contatti opportunità: è possibile visualizzare [!DNL Best Bets] per tutti i contatti che appartengono alle opportunità assegnate nel CRM, anche se il contatto non è assegnato all&#39;utente
 
 **Aspetti da considerare**
 
@@ -35,22 +35,22 @@ Non è possibile &quot;nascondere&quot; un lead o un contatto di cui non si è p
 
 **Coinvolgimento in linea**
 
-Facendo clic sul menu punto nella colonna Azioni, è possibile raggiungere un lead o un contatto specifico utilizzando le seguenti opzioni di coinvolgimento:
+Facendo clic sul menu con punti nella colonna [!UICONTROL Actions], è possibile contattare un lead o un contatto specifico utilizzando le seguenti opzioni di coinvolgimento:
 
-* Invia e-mail Marketo
-* Aggiungi a Marketo Campaign
-* Visualizza in Marketo
-* Aggiungi alla watchlist
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL View in Marketo]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-1.png)
 
 **Azioni in blocco**
 
-Puoi selezionare uno o più lead o contatti dalla pagina Elementi di maggiore rilevanza utilizzando la casella di controllo e contattarli come gruppo utilizzando le seguenti opzioni di coinvolgimento:
+È possibile selezionare uno o più lead o contatti dalla pagina [!DNL Best Bets] utilizzando la casella di controllo e contattarli come gruppo utilizzando le seguenti opzioni di coinvolgimento:
 
-* Invia e-mail Marketo
-* Aggiungi a Marketo Campaign
-* Aggiungi alla watchlist
+* [!UICONTROL Send Marketo Email]
+* [!UICONTROL Add to Marketo Campaign]
+* [!UICONTROL Add to Watchlist]
 
 ![](assets/best-bets-2.png)
 

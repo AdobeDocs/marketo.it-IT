@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10093159
-description: Informazioni su Content Analytics - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sull’analisi dei contenuti
+description: Informazioni su Content Analytics - Documentazione Marketo - Documentazione del prodotto
+title: Informazioni su Content Analytics
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 89995b2cd6fdc2f2e4ea43906304bdf16d367de1
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '374'
-ht-degree: 1%
+source-wordcount: '357'
+ht-degree: 0%
 
 ---
 
-# Informazioni sull’analisi dei contenuti {#understanding-content-analytics}
+# Informazioni su Content Analytics {#understanding-content-analytics}
 
-La pagina di analisi dei contenuti mostra il contenuto esistente individuato (casi di studio, post di blog, video, comunicati stampa e così via) dal sito web. Mostra inoltre le prestazioni dei contenuti e le persone generate quando i visitatori interagiscono con loro.
+La pagina Content Analytics mostra il contenuto esistente individuato (casi di studio, post di blog, video, comunicati stampa e così via) dal sito Web. Mostra inoltre le prestazioni dei contenuti e le persone generate quando i visitatori interagiscono con loro.
 
-## Visualizza analisi dei contenuti {#view-content-analytics}
+## Visualizza Content Analytics {#view-content-analytics}
 
-Vai a **Analisi dei contenuti**.
+Vai a **[!UICONTROL Content Analytics]**.
 
 ![](assets/one.png)
 
-Nella pagina Analisi dei contenuti puoi effettuare le seguenti operazioni:
+Nella pagina [!UICONTROL Content Analytics] è possibile:
 
 * Filtra per ambito temporale (giorno, settimana e mese)
 * Ricerca per titolo contenuto e URL contenuto
@@ -44,19 +44,19 @@ La tabella Analytics fornisce i seguenti dettagli:
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Titolo</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Title]</strong></td> 
    <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Fai clic su <strong>Titolo</strong> per aprire l'URL del contenuto in una nuova scheda.</td> 
   </tr> 
   <tr> 
    <td colspan="1"><p><strong>Consiglio </strong><strong>Icona</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td> 
-   <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Content Recommendations</a>.</td> 
+   <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Consigli sui contenuti</a>.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Viste</strong></p></td> 
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Views]</strong></p></td> 
    <td colspan="1" rowspan="1"><p>Il numero di visualizzazioni dalla risorsa contenuto da parte dei visitatori web. Il numero di volte in cui è stato visualizzato, aperto, guardato o scaricato. Fai clic sul numero di nella colonna Visualizzazioni per espandere e vedere chi ha visualizzato il contenuto</p></td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1"><strong>Conversioni dirette</strong></td> 
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Direct Conversions]</strong></td> 
    <td colspan="1" rowspan="1">Visitatori web che hanno visualizzato il contenuto e compilato un modulo nel corso della stessa visita</td> 
   </tr> 
   <tr> 
@@ -70,13 +70,13 @@ La tabella Analytics fornisce i seguenti dettagli:
  </tbody> 
 </table>
 
-## Visualizza analisi contenuto aggiuntiva {#view-additional-content-analytics}
+## Visualizza Content Analytics aggiuntivo {#view-additional-content-analytics}
 
 Fai clic sull’icona Analytics di un contenuto.
 
 ![](assets/four.png)
 
-Viene visualizzata una finestra di dialogo con analisi del contenuto aggiuntive per quel contenuto specifico.
+Viene visualizzata una finestra di dialogo con Content Analytics aggiuntivo per la parte di contenuto specifica.
 
 ![](assets/five.png)
 
@@ -84,19 +84,19 @@ L’analisi aggiuntiva dei contenuti include:
 
 **Analytics**
 
-* **Visualizzazioni**: visualizzazioni di quel contenuto per l&#39;ambito temporale selezionato
-* **Conversioni dirette**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
-* **Tasso di conversione**&#x200B;**:** Tasso di conversione percentuale calcolato per le conversioni dirette diviso per i clic
+* **[!UICONTROL Views]**: visualizzazioni del contenuto per l&#39;ambito temporale selezionato
+* **[!UICONTROL Direct Conversions]**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
+* **[!UICONTROL Conversion Rate]****:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
 
-**Tendenze**
+**[!UICONTROL Trends]**
 
-* Un grafico **Tendenze** che mostra gli ultimi 30 giorni di visualizzazioni del contenuto specifico. Passa il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni di contenuto da un giorno specifico
+* Un grafico **[!UICONTROL Trends]** che mostra gli ultimi 30 giorni di visualizzazioni del contenuto specifico. Passa il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni di contenuto da un giorno specifico
 
 ## Elimina contenuto {#delete-content}
 
 ![](assets/six.png)
 
-Dalla pagina Analisi del contenuto, fai clic sull’icona Elimina del contenuto che desideri eliminare. Viene visualizzato un messaggio per confermare l’eliminazione del contenuto.
+Dalla pagina [!UICONTROL Content Analytics], fare clic sull&#39;icona Elimina del contenuto che si desidera eliminare. Viene visualizzato un messaggio per confermare l’eliminazione del contenuto.
 
 >[!MORELIKETHIS]
 >

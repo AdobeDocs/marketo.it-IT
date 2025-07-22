@@ -4,26 +4,26 @@ description: Modificare la versione testuale di un’e-mail - Documentazione di 
 title: Modificare la versione testuale di un messaggio e-mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 94b458ee7138f90bd243d2d2a8b761dabff23a66
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
 # Modificare la versione testuale di un messaggio e-mail {#edit-the-text-version-of-an-email}
 
-Quando crei un’e-mail, potresti desiderare che la versione del testo sia formulata in modo diverso rispetto alla versione HTML. Per impostazione predefinita, Marketo copia automaticamente il contenuto testuale di qualsiasi elemento in formato Rich Text presente nell’e-mail nella versione in formato testo. Ecco come modificarlo.
+Quando crei un’e-mail, potresti desiderare che la versione del testo sia formulata in modo diverso rispetto alla versione di HTML. Per impostazione predefinita, Marketo copia automaticamente il contenuto testuale di qualsiasi elemento in formato Rich Text presente nell’e-mail nella versione in formato testo. Ecco come modificarlo.
 
 >[!NOTE]
 >
 >Questo non è un articolo sulla creazione di un messaggio e-mail di solo testo. Per ulteriori informazioni, vedere [Creare un&#39;e-mail di solo testo](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-a-text-only-email.md).
 
-1. Nell&#39;editor e-mail, fai clic sulla scheda **Testo** nella parte inferiore dell&#39;e-mail.
+1. Nell&#39;editor di posta elettronica fare clic sulla scheda **[!UICONTROL Text]** nella parte inferiore dell&#39;e-mail.
 
    ![](assets/one-5.png)
 
-1. Deseleziona **Copia automaticamente da HTML** per apportare modifiche.
+1. Deseleziona **[!UICONTROL Automatically copy from HTML]** per apportare modifiche.
 
    ![](assets/two-5.png)
 
@@ -31,7 +31,7 @@ Quando crei un’e-mail, potresti desiderare che la versione del testo sia formu
 
    ![](assets/three-4.png)
 
-1. Apporta le modifiche necessarie. Al termine, chiudi semplicemente l’editor o torna alla versione HTML. Le modifiche verranno salvate automaticamente.
+1. Apporta le modifiche necessarie. Al termine, chiudi semplicemente l’editor o torna alla versione di HTML. Le modifiche verranno salvate automaticamente.
 
    ![](assets/four-4.png)
 
@@ -41,4 +41,4 @@ Quando crei un’e-mail, potresti desiderare che la versione del testo sia formu
 
 >[!CAUTION]
 >
->Selezionando **Copia da HTML** o riselezionando **Copia automaticamente da HTML** nelle e-mail che contengono contenuto dinamico, il flag Rivisto verrà impostato su _true_ per tutti i segmenti (generando il segno di spunta verde che indica che è stato rivisto) sia nella versione HTML che in quella Testo dell&#39;e-mail. Se esegui una delle azioni di cui sopra, assicurati di controllare nuovamente il contenuto prima dell’invio.
+>Selezionando **Copia da HTML** o riselezionando **Copia automaticamente da HTML** nelle e-mail che contengono contenuto dinamico, il flag Rivisto verrà impostato su _true_ per tutti i segmenti (generando il segno di spunta verde che indica che è stato rivisto) nelle versioni HTML e Text dell&#39;e-mail. Se esegui una delle azioni di cui sopra, assicurati di controllare nuovamente il contenuto prima dell’invio.

@@ -4,16 +4,16 @@ description: Creazione di una pagina di destinazione in formato libero - Documen
 title: Creare una pagina di destinazione in formato libero
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '152'
+ht-degree: 1%
 
 ---
 
 # Creare una pagina di destinazione in formato libero {#create-a-free-form-landing-page}
 
-Le pagine di destinazione in formato libero possono essere create come risorse locali di un programma o in Design Studio per essere utilizzate a livello globale.
+Le pagine di destinazione in formato libero possono essere create come risorse locali di un programma o in [!UICONTROL Design Studio] da utilizzare a livello globale.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
 ## Creare una pagina di destinazione in formato libero in un programma {#create-a-free-form-landing-page-in-a-program}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,11 +29,11 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Fare clic su **Nuovo**. Seleziona **Nuova risorsa locale**.
+1. Fare clic su **[!UICONTROL New]**. Seleziona **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 
-1. Fai clic su **Pagina di destinazione**.
+1. Fai clic su **[!UICONTROL Landing Page]**.
 
    ![](assets/image2014-9-16-12-3a58-3a49.png)
 
@@ -45,21 +45,21 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
    ![](assets/image2015-5-19-12-3a51-3a13.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-5-19-12-3a52-3a8.png)
 
 >[!TIP]
 >
->L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **URL pagina**.
+>L’URL viene creato automaticamente dai nomi del programma e della pagina di destinazione. Per modificare l&#39;URL, modificare il campo **[!UICONTROL Page URL]**.
 
 ## Creare una pagina di destinazione in formato libero in Design Studio {#create-a-free-form-landing-page-in-design-studio}
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Fai clic su **Nuovo**, quindi su **Nuova pagina di destinazione**.
+1. Fare clic su **[!UICONTROL New]**, quindi su **[!UICONTROL New Landing Page]**.
 
    ![](assets/image2014-9-16-13-3a0-3a43.png)
 
@@ -67,10 +67,10 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
    ![](assets/image2015-5-19-13-3a30-3a25.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-5-19-13-3a33-3a43.png)
 
 >[!TIP]
 >
->Deselezionare &quot;Apri editor pagina di destinazione per nuova pagina&quot; se non si desidera aprire l&#39;editor subito dopo aver fatto clic su **Crea**.
+>Deselezionare &quot;[!UICONTROL Open landing page editor for new page]&quot; se non si desidera che l&#39;editor venga aperto subito dopo aver fatto clic su **[!UICONTROL Create]**.

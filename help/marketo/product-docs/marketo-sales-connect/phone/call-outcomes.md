@@ -3,10 +3,10 @@ description: Risultati delle chiamate - Documentazione Marketo - Documentazione 
 title: Risultati della chiamata
 exl-id: 55ac4d04-8853-46e7-9027-26f0c4897a2a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 0%
+source-wordcount: '163'
+ht-degree: 2%
 
 ---
 
@@ -20,15 +20,15 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate quando si 
 
 ## Abilita risultati chiamata {#enable-call-outcomes}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/call-outcomes-1.png)
 
-1. In Impostazioni amministratore selezionare **Connessione**.
+1. In [!UICONTROL Admin Settings] selezionare **[!UICONTROL Dialer]**.
 
    ![](assets/call-outcomes-2.png)
 
-1. Selezionare **Abilita risultati chiamata**.
+1. Seleziona **[!UICONTROL Enable call outcomes]**.
 
    ![](assets/call-outcomes-3.png)
 
@@ -42,15 +42,15 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate quando si 
 >
 >Puoi creare un massimo di 15 risultati di chiamata.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/call-outcomes-5.png)
 
-1. In Impostazioni amministratore selezionare **Connessione**.
+1. In [!UICONTROL Admin Settings] selezionare **[!UICONTROL Dialer]**.
 
    ![](assets/call-outcomes-6.png)
 
-1. Fai clic su **Gestisci risultati chiamata**.
+1. Fai clic su **[!UICONTROL Manage call outcomes]**.
 
    ![](assets/call-outcomes-7.png)
 
@@ -58,7 +58,7 @@ Consenti ai team di vendita di selezionare i risultati delle chiamate quando si 
 
    ![](assets/call-outcomes-8.png)
 
-1. Fare clic sull&#39;elenco a discesa Risposte e scegliere il tipo di risultato (in questo esempio si sta scegliendo Risposte). Quindi fare clic su **Aggiungi**.
+1. Fare clic sull&#39;elenco a discesa [!UICONTROL Answered] e scegliere il tipo di risultato (in questo esempio si sta scegliendo Risposte). Quindi fai clic su **[!UICONTROL Add]**.
 
    ![](assets/call-outcomes-9.png)
 
@@ -70,7 +70,7 @@ Una volta abilitati i risultati della chiamata. Gli utenti possono selezionarne 
 
    ![](assets/call-outcomes-10.png)
 
-1. Immetti le informazioni sulla chiamata nella composizione e fai clic su **Chiama**.
+1. Immettere le informazioni sulla chiamata nella composizione e fare clic su **[!UICONTROL Call]**.
 
    ![](assets/call-outcomes-11.png)
 

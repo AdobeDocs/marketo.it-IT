@@ -4,10 +4,10 @@ description: Configurazione della profilatura dell’account - Documentazione di
 title: Impostazione della profilazione dell’account
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 2f978d814f4cf2d4d2ca9ead0c1a3e5c15430520
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 2%
+source-wordcount: '157'
+ht-degree: 3%
 
 ---
 
@@ -30,19 +30,19 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 >
 >Scopri come [scoprire un campo qui](/help/marketo/product-docs/administration/field-management/hide-and-unhide-a-field.md#unhide-a-field).
 
-1. In Il mio Marketo, apri **Gestione account di destinazione**.
+1. In Il mio Marketo, apri **[!UICONTROL Target Account Management]**.
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Fare clic sulla scheda **Profilo account**.
+1. Fare clic sulla scheda **[!UICONTROL Account Profiling]**.
 
    ![](assets/two-1.png)
 
-1. Per impostazione predefinita, viene aperta la scheda Modello (Model). Fai clic su **Inizia**.
+1. Per impostazione predefinita, viene aperta la scheda Modello (Model). Fai clic su **[!UICONTROL Get Started]**.
 
    ![](assets/three.png)
 
-1. Assegna un nome al modello e scegli il tipo di elenco o l’elenco di persone che fungeranno da base per il profilo cliente ideale (ICP). Al termine, fai clic su **Crea modello**.
+1. Assegna un nome al modello e scegli il tipo di elenco o l’elenco di persone che fungeranno da base per il profilo cliente ideale (ICP). Al termine, fai clic su **[!UICONTROL Create Model]**.
 
    ![](assets/setting-up-account-profiling-4.png)
 
@@ -50,7 +50,7 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 
    ![](assets/five.png)
 
-1. Per visualizzare i risultati del modello, fare clic su **Visualizza risultato modello**.
+1. Per visualizzare i risultati del modello, fare clic su **[!UICONTROL See Model Result]**.
 
    ![](assets/six.png)
 

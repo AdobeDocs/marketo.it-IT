@@ -4,9 +4,9 @@ description: Configurare la profilatura progressiva dei moduli - Documentazione 
 title: Configurare la profilatura progressiva dei moduli
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -19,23 +19,23 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 >
 >Affinché questa funzione funzioni correttamente, assicurati che la precompilazione del modulo sia abilitata per i campi visibili e [disabilitata](/help/marketo/product-docs/demand-generation/forms/form-fields/disable-pre-fill-for-a-form-field.md) per i campi nascosti.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma-1.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-12-3a31-3a20.png)
 
-1. In **Impostazioni modulo**, fare clic su **Impostazioni**.
+1. In **[!UICONTROL Form Settings]**, fare clic su **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-12-3a31-3a29.png)
 
-1. Imposta **Progressive Profiling** su **Enabled**.
+1. Imposta **[!UICONTROL Progressive Profiling]** su **[!UICONTROL Enabled]**.
 
    ![](assets/image2014-9-15-12-3a31-3a47.png)
 
-1. Ok, ora configuriamolo. Vai a **Dettagli campo**.
+1. Ok, ora configuriamolo. Vai a **[!UICONTROL Field Details]**.
 
    ![](assets/image2014-9-15-12-3a31-3a55.png)
 
@@ -49,15 +49,15 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 
    >[!NOTE]
    >
-   >I campi al di fuori della casella **Profiling progressivo** verranno sempre visualizzati nel modulo, anche se sono compilati.
+   >I campi al di fuori della casella **[!UICONTROL Progressive Profiling]** verranno sempre visualizzati nel modulo, anche se sono compilati.
 
-1. Selezionare la casella **Progressive Profiling**.
+1. Selezionare la casella **[!UICONTROL Progressive Profiling]**.
 
    ![](assets/image2014-9-15-12-3a32-3a19.png)
 
    >[!CAUTION]
    >
-   >Presta attenzione quando utilizzi i campi obbligatori nella profilatura progressiva. Questi campi potrebbero essere lasciati vuoti se il visitatore immette un nuovo indirizzo e-mail (che creerebbe una nuova persona) dopo aver precedentemente inviato i dati per gli altri campi, in quanto verrebbero soppressi nell’ultimo modulo.
+   >Prestare attenzione quando si utilizzano i campi obbligatori in [!UICONTROL Progressive Profiling]. Questi campi potrebbero essere lasciati vuoti se il visitatore immette un nuovo indirizzo e-mail (che creerebbe una nuova persona) dopo aver precedentemente inviato i dati per gli altri campi, in quanto verrebbero soppressi nell’ultimo modulo.
 
 1. Ora scegli quanti campi vuoti si desidera visualizzare dalla casella **Profilatura progressiva** in un dato momento.
 
@@ -65,7 +65,7 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 
    >[!NOTE]
    >
-   >Se scegli **Numero** **di** **Vuoto** **Campi** come 1, il visitatore vedrà quanto segue la prima volta che vede questo modulo:
+   >Se scegli **[!UICONTROL Number of Blank Fields]** come 1, il visitatore vedrà quanto segue la prima volta che vede questo modulo:
    >
    >* Nome (vuoto)
    >* Cognome (vuoto)
@@ -86,11 +86,11 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
    >* Indirizzo e-mail (precompilato)
    >* Paese (vuoto)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a33-3a35.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 

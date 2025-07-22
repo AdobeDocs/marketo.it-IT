@@ -4,9 +4,9 @@ description: Informazioni sugli elenchi avanzati - Documentazione di Marketo - D
 title: Informazioni sugli elenchi avanzati
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Qui vengono visualizzati i risultati, ovvero tutte le persone qualificate per i 
 
 ## Scheda Elenco avanzato {#smart-list-tab}
 
-È possibile aggiungere e definire i filtri per visualizzare un gruppo specifico di persone nella scheda Persone.
+Aggiungere e definire i filtri per visualizzare un gruppo specifico di persone nella scheda [!UICONTROL People].
 
 ![](assets/understanding-smart-lists-3.png)
 

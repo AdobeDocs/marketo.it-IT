@@ -4,9 +4,9 @@ description: Modificare un modulo - Documentazione di Marketo - Documentazione d
 title: Modificare un modulo
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '43'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Se si desidera apportare modifiche a un modulo esistente, vedere la procedura per iniziare.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/editform.png)
 

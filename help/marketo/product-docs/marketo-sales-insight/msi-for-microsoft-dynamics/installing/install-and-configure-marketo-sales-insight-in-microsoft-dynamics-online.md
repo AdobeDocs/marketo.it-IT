@@ -1,41 +1,41 @@
 ---
 unique-page-id: 37355602
-description: Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online - Documentazione di Marketo - Documentazione del prodotto
+description: Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online - Documentazione Marketo - Documentazione del prodotto
 title: Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 0%
+source-wordcount: '405'
+ht-degree: 2%
 
 ---
 
-# Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
+# Installa e configura [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics Online] {#install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online}
 
-Marketo Sales Insight è uno strumento fantastico per dare al vostro team di vendita una &quot;finestra&quot; sulla ricchezza di dati che il team di marketing ha. Di seguito viene illustrato come installarlo e configurarlo in Microsoft Dynamics Online.
+[!DNL Marketo Sales Insight] è uno strumento fantastico per offrire al tuo team di vendita una &quot;finestra&quot; sulla ricchezza di dati di cui dispone il team Marketing. Ecco come installarlo e configurarlo in [!DNL Microsoft Dynamics Online].
 
 >[!PREREQUISITES]
 >
 >Completa l&#39;integrazione Marketo-Microsoft.
 >
->[Scarica la soluzione corretta](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) per la versione di Microsoft Dynamics CRM in uso.
+>[Scarica la soluzione corretta](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/download-the-marketo-sales-insight-solution-for-microsoft-dynamics.md) per la tua versione di [!DNL Microsoft Dynamics CRM].
 
 ## Importa soluzione {#import-solution}
 
 >[!NOTE]
 >
->Se utilizzi l&#39;interfaccia unificata, prima del passaggio 1 di seguito, fai clic sull&#39;icona Impostazioni in alto a destra e seleziona **Impostazioni avanzate**.
+>Se utilizzi l&#39;interfaccia unificata, prima del passaggio 1 di seguito, fai clic sull&#39;icona Impostazioni in alto a destra e seleziona **[!UICONTROL Advanced Settings]**.
 
-1. In Microsoft Dynamics CRM fare clic su **Impostazioni**.
+1. In Microsoft Dynamics CRM fare clic su **[!UICONTROL Settings]**.
 
    ![](assets/image2014-12-12-9-3a4-3a56-1.png)
 
-1. In Impostazioni fare clic su **Personalizzazioni**.
+1. In Impostazioni fare clic su **[!UICONTROL Customizations]**.
 
    ![](assets/image2015-4-29-14-3a22-3a1-1.png)
 
-1. Fai clic su **Soluzioni**.
+1. Fai clic su **[!UICONTROL Solutions]**.
 
    ![](assets/image2014-12-12-9-3a5-3a17-1.png)
 
@@ -43,29 +43,29 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
    >
    >Prima di procedere, dovreste aver già installato e configurato la soluzione Marketo.
 
-1. Fai clic su **Importa**.
+1. Fai clic su **[!UICONTROL Import]**.
 
    ![](assets/image2014-12-12-9-3a5-3a27-1.png)
 
-1. Nella nuova finestra, fai clic su **Sfoglia**.
+1. Nella nuova finestra, fare clic su **[!UICONTROL Browse]**.
 
    ![](assets/image2014-12-12-9-3a5-3a36-1.png)
 
 1. Nel computer, individuare e installare la soluzione appena scaricata.
 
-1. Fai clic su **Avanti**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/seven.png)
 
-1. La soluzione verrà caricata. Puoi visualizzare il contenuto del pacchetto, se lo desideri. Fai clic su **Avanti**.
+1. La soluzione verrà caricata. Puoi visualizzare il contenuto del pacchetto, se lo desideri. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2014-12-12-9-3a6-3a10-1.png)
 
-1. Assicurati di lasciare selezionata la casella e fai clic su **Importa**.
+1. Assicurarsi di lasciare selezionata la casella e fare clic su **[!UICONTROL Import]**.
 
    ![](assets/image2014-12-12-9-3a6-3a19-1.png)
 
-1. Scarica il file di registro e fai clic su **Chiudi**.
+1. Scaricare il file di registro, quindi fare clic su **[!UICONTROL Close]**.
 
    ![](assets/image2014-12-12-9-3a6-3a29-1.png)
 
@@ -73,29 +73,29 @@ Marketo Sales Insight è uno strumento fantastico per dare al vostro team di ven
 
    ![](assets/eleven.png)
 
-1. Fare clic su **Personalizzazione Publish**.
+1. Fai clic su **[!UICONTROL Publish Customization]**.
 
    >[!NOTE]
    >
-   >Assicurati di abilitare la sincronizzazione globale di MS Dynamics.
+   >Assicurarsi di abilitare la sincronizzazione globale di [!DNL MS Dynamics].
 
-## Connettere Marketo e Sales Insight {#connect-marketo-and-sales-insight}
+## Connetti Marketo e [!DNL Sales Insight] {#connect-marketo-and-sales-insight}
 
-Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Ecco come:
+Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. Ecco come:
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Accedi a Marketo e passa alla sezione **Amministratore**.
+1. Accedi a Marketo e passa alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/image2014-12-12-9-3a6-3a50-1.png)
 
-1. Nella sezione Sales Insight fare clic su **Modifica configurazione API**.
+1. Nella sezione [!UICONTROL Sales Insight] fare clic su **[!UICONTROL Edit API Configuration]**.
 
    ![](assets/image2014-12-12-9-3a7-3a0-1.png)
 
-1. Copiare l&#39;**host Marketo**, l&#39;**URL API** e l&#39;**ID utente API** da utilizzare in un passaggio successivo. Immetti una chiave segreta API a tua scelta e fai clic su **Salva**.
+1. Copiare **[!UICONTROL Marketo Host]**, **[!UICONTROL API URL]** e **[!UICONTROL API User Id]** per utilizzarli in un passaggio successivo. Immettere una chiave segreta API e fare clic su **[!UICONTROL Save]**.
 
    >[!CAUTION]
    >
@@ -105,7 +105,7 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Ecco come:
 
    >[!NOTE]
    >
-   >I campi seguenti devono essere sincronizzati con Marketo affinché _lead e contatto_ possano funzionare:
+   >I campi seguenti devono essere sincronizzati con Marketo affinché _sia lead che contatto_ per [!DNL Sales Insight] funzionino:
    >
    >* Priorità
    >* Urgenza
@@ -113,69 +113,69 @@ Colleghiamo la tua istanza di Marketo a Sales Insight in Dynamics. Ecco come:
    >
    >Se manca uno di questi campi, in Marketo verrà visualizzato un messaggio di errore con il nome dei campi mancanti. Per risolvere il problema, eseguire [questa procedura](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/required-fields-for-syncing-marketo-with-dynamics.md).
 
-1. Tornando a Microsoft Dynamics, vai a **Impostazioni**.
+1. Torna tra [!DNL Microsoft Dynamics], passa a **[!UICONTROL Settings]**.
 
    ![](assets/image2014-12-12-9-3a7-3a25-1.png)
 
-1. In **Impostazioni**, fare clic su **Configurazione API Marketo**.
+1. In **[!UICONTROL Settings]**, fare clic su **[!UICONTROL Marketo API Config]**.
 
    ![](assets/image2014-12-12-9-3a7-3a34-1.png)
 
-1. Fare clic su **Nuovo**.
+1. Fai clic su **[!UICONTROL New]**.
 
    ![](assets/image2014-12-12-9-3a8-3a8-1.png)
 
-1. Immetti le informazioni ottenute da Marketo in precedenza e fai clic su **Salva**.
+1. Immettere le informazioni ottenute da Marketo in precedenza e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-12-9-3a8-3a17-1.png)
 
 ## Abilita sincronizzazione {#enable-sync}
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/enable-one.png)
 
-1. In Integrazione, selezionare **Microsoft Dynamics**.
+1. In Integrazione, selezionare **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/enable-two.png)
 
-1. Fare clic su **Abilita sincronizzazione**.
+1. Fai clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-three.png)
 
-1. Fai clic su **Modifica** accanto a Dettagli sincronizzazione campi.
+1. Fai clic su **[!UICONTROL Edit]** accanto a [!UICONTROL Field Sync Details].
 
    ![](assets/enable-four.png)
 
-1. _automaticamente_ verranno selezionati i campi MSI precedentemente disabilitati (Urgenza, Punteggio relativo e Priorità). Fai clic su **Salva** per avviare la sincronizzazione dei dati.
+1. _seleziona automaticamente_ i campi MSI precedentemente disabilitati ([!UICONTROL Urgency], [!UICONTROL Relative Score] e [!UICONTROL Priority]). Fai clic su **[!UICONTROL Save]** per avviare la sincronizzazione dei dati.
 
    ![](assets/enable-five.png)
 
 ## Imposta accesso utente {#set-user-access}
 
-Infine, devi fornire a utenti specifici l’accesso per utilizzare Marketo Sales Insight.
+Infine, devi fornire a utenti specifici l&#39;accesso per utilizzare [!DNL Marketo Sales Insight].
 
-1. Vai a **Impostazioni**.
+1. Vai a **[!UICONTROL Settings]**.
 
    ![](assets/image2014-12-12-9-3a8-3a34-1.png)
 
-1. Vai a **Sicurezza**.
+1. Vai a **[!UICONTROL Security]**.
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 
-1. Fare clic su **Utenti**.
+1. Fai clic su **[!UICONTROL Users]**.
 
    ![](assets/image2015-4-29-14-3a57-3a46-1.png)
 
-1. Selezionare gli utenti a cui si desidera concedere l&#39;accesso a Sales Insight e fare clic su **Gestisci ruoli**.
+1. Selezionare gli utenti a cui si desidera concedere l&#39;accesso a [!DNL Sales Insight] e fare clic su **[!UICONTROL Manage Roles]**.
 
    ![](assets/image2015-4-29-14-3a59-3a31-1.png)
 
-1. Selezionare il ruolo Marketo Sales Insight e fare clic su **OK**.
+1. Selezionare la mansione [!DNL Marketo Sales Insight] e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/image2014-12-12-9-3a9-3a22-1.png)
 
-   E dovreste aver finito! Infine, per eseguire il test, accedi a Dynamics come utente che ha accesso a Marketo Sales Insight e controlla un lead o un contatto.
+   E dovreste aver finito! Infine, per eseguire il test, accedere a [!DNL Dynamics] come utente che ha accesso a [!DNL Marketo Sales Insight] e controllare un lead o un contatto.
 
    ![](assets/image2015-4-29-15-3a2-3a27-1.png)
 

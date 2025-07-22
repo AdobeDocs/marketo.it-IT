@@ -4,9 +4,9 @@ description: Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web - 
 title: Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '633'
 ht-degree: 1%
 
 ---
@@ -59,7 +59,7 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL
 
    >[!TIP]
    >
-   >Per i siti che registrano un elevato volume di traffico (ad esempio centinaia di migliaia di visite al mese), ti consigliamo di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Per i siti che registrano un elevato volume di traffico (ad esempio centinaia di migliaia di visite al mese), ti consigliamo di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Aggiungi Codice Di Tracciamento Quando Si Utilizzano Più Aree Di Lavoro {#add-tracking-code-when-using-multiple-workspaces}
 
@@ -141,4 +141,4 @@ Per verificare che il codice [!DNL Munchkin] funzioni dopo averlo aggiunto:
 
    >[!NOTE]
    >
-   >Se non trovi dati, attendi alcuni minuti, quindi fai clic sull’icona di aggiornamento in basso.
+   >Se non trovi dati, attendi alcuni minuti e fai clic sull&#39;icona [!UICONTROL refresh] in basso.

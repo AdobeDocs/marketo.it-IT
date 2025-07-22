@@ -4,22 +4,22 @@ description: Rapidi grafici di Performance Insights - Documentazione di Marketo 
 title: Grafici rapidi di Performance Insights
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Grafici rapidi di Performance Insights {#performance-insights-quick-charts}
+# [!UICONTROL Performance Insights] [!UICONTROL Quick Charts] {#performance-insights-quick-charts}
 
-I grafici rapidi sono miniature personalizzate e salvate, che consentono di visualizzare rapidamente i grafici più utilizzati.
+[!UICONTROL Quick Charts] sono miniature personalizzate e salvate, che consentono di visualizzare rapidamente i grafici più utilizzati.
 
 ## Crea un nuovo grafico rapido {#create-a-new-quick-chart}
 
-I grafici rapidi derivano dai dati specificati. In questo esempio sceglieremo: **nuove opportunità (primo contatto), tipo di opportunità = nuova attività, anno corrente**.
+[!UICONTROL Quick Charts] derivano dai dati specificati. In questo esempio sceglieremo: **nuove opportunità (primo contatto), tipo di opportunità = nuova attività, anno corrente**.
 
-1. Fare clic sul filtro data e scegliere **Anno corrente (YTD)**.
+1. Fare clic sul filtro data e scegliere **[!UICONTROL Current Year (YTD)]**.
 
    ![](assets/1-2.png)
 
@@ -31,11 +31,11 @@ I grafici rapidi derivano dai dati specificati. In questo esempio sceglieremo: *
 
    ![](assets/3-3.png)
 
-1. Fare clic sull&#39;icona Esporta e selezionare **Salva come grafico rapido**.
+1. Fare clic sull&#39;icona Esporta e selezionare **[!UICONTROL Save as Quick Chart]**.
 
    ![](assets/4-2.png)
 
-1. Assegna un nome al grafico rapido e fai clic su **Salva**.
+1. Assegnare un nome al grafico rapido e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/5-3.png)
 
@@ -49,7 +49,7 @@ Il grafico rapido è ora associato agli altri.
 
 ## Visualizza i grafici rapidi esistenti {#view-existing-quick-charts}
 
-1. Per visualizzare i grafici rapidi esistenti, fai clic sull&#39;icona **grafici rapidi**.
+1. Per visualizzare i grafici rapidi esistenti, fare clic sull&#39;icona **[!UICONTROL Quick Charts]**.
 
    ![](assets/7-1.png)
 
@@ -57,7 +57,7 @@ Il grafico rapido è ora associato agli altri.
 
 Per eliminare un grafico rapido, eseguire la procedura seguente.
 
-1. Fai clic sull&#39;icona **Grafici rapidi**.
+1. Fare clic sull&#39;icona **[!UICONTROL Quick Charts]**.
 
    ![](assets/8-1.png)
 
@@ -65,6 +65,6 @@ Per eliminare un grafico rapido, eseguire la procedura seguente.
 
    ![](assets/9-2.png)
 
-1. Fare clic su **Elimina**.
+1. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/10-1.png)

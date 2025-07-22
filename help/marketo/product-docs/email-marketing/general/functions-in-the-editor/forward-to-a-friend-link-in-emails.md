@@ -4,9 +4,9 @@ description: Inoltrare a un amico Link nelle e-mail - Documentazione di Marketo 
 title: Inoltra a un collegamento amico nelle e-mail
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Ad esempio, supponiamo che Keith utilizzi il collegamento &#39;Inoltra all&#39;a
 
 ## Aggiungere il collegamento a un modello e-mail {#add-the-link-to-an-email-template}
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/one-8.png)
 
-1. Trova e seleziona il modello e-mail a cui desideri aggiungere il collegamento. Fare clic su **Modifica bozza**.
+1. Trova e seleziona il modello e-mail a cui desideri aggiungere il collegamento. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/two-7.png)
 
-1. Incolla il seguente codice HTML nel punto in cui vuoi che appaia il collegamento &#39;Inoltra all&#39;amico&#39; (se hai bisogno di aiuto con questa parte, contatta il tuo sviluppatore web):
+1. Incolla il seguente codice HTML dove vuoi che appaia il collegamento &#39;Inoltra all&#39;amico&#39; (se hai bisogno di aiuto con questa parte, contatta il tuo sviluppatore web):
 
    `<a href="{{system.forwardToFriendLink}}">Forward to Friend</a>`
 
@@ -44,7 +44,7 @@ Ad esempio, supponiamo che Keith utilizzi il collegamento &#39;Inoltra all&#39;a
    >
    >Non è consigliabile utilizzare lo stile **position:relative** nel modello di messaggio di posta elettronica. Potrebbe causare problemi nella posizione e visualizzazione della casella &#39;Inoltra a amico&#39;.
 
-1. Fare clic su **Anteprima bozza** per verificare che l&#39;aspetto del modello sia quello desiderato.
+1. Fare clic su **[!UICONTROL Preview Draft]** per verificare che l&#39;aspetto del modello sia quello desiderato.
 
    ![](assets/four-5.png)
 
@@ -84,7 +84,7 @@ Puoi anche aggiungere il collegamento &quot;Inoltra all’amico&quot; direttamen
 
    ![](assets/eight-1.png)
 
-1. Incollare il token **`{{system.forwardToFriendLink}}`** nella casella **URL** utilizzando Ctrl/Comando+V, quindi fare clic su **Inserisci**.
+1. Incollare il token **`{{system.forwardToFriendLink}}`** nella casella **URL** utilizzando Ctrl/Comando+V, quindi fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/nine.png)
 
@@ -100,7 +100,7 @@ Puoi anche aggiungere il collegamento &quot;Inoltra all’amico&quot; direttamen
 
 Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della persona.
 
-1. Passare a **`Database`**.
+1. Passare a **[!UICONTROL Database]**.
 
    ![](assets/db.png)
 
@@ -108,7 +108,7 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della p
 
    ![](assets/fourteen.png)
 
-1. Passa alla scheda **Registro attività**. Fai doppio clic su **Ricevuto e-mail per amici** o su **Inoltro a e-mail per amici** per visualizzare i dettagli.
+1. Passa alla scheda **[!UICONTROL Activity Log]**. Fare doppio clic su **[!UICONTROL Received Forward to Friend Email]** o **[!UICONTROL Sent Forward to Friend Email]** per visualizzare i dettagli.
 
    ![](assets/fifteen.png)
 
@@ -128,7 +128,7 @@ Puoi vedere chi ha inoltrato e ricevuto le e-mail nel registro attività della p
 
    >[!NOTE]
    >
-   >In una patch successiva, renderemo **cliccabile l&#39;ID persona** e lo collegheremo direttamente alla persona.
+   >In una patch successiva, sarà possibile fare clic su **[!UICONTROL Person ID]** e collegarsi direttamente alla persona.
 
    ![](assets/seventeen.png)
 

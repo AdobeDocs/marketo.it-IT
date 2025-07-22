@@ -4,10 +4,10 @@ description: Modificare un modello di pagina di destinazione di Marketo - Docume
 title: Modificare un modello di pagina di destinazione di Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 In Marketo puoi modificare qualsiasi modello di pagina di destinazione.
 
-1. Vai a **Design Studio**.
+1. Vai a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Espandi **Pagine di destinazione** per visualizzare i modelli.
+1. Espandere **[!UICONTROL Landing Pages]** per visualizzare i modelli.
 
    ![](assets/image2015-5-21-12-3a40-3a3.png)
 
-1. Seleziona il **Modello** da modificare. Fare clic su **Modifica bozza**.
+1. Selezionare **[!UICONTROL Template]** da modificare. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-21-12-3a37-3a54.png)
 

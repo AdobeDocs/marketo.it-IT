@@ -4,9 +4,9 @@ title: Utilizzare i messaggi Vibes SMS in Smart List Triggers and Filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: fee2d692acd8d54f2e308e2d5edc9876d13d5a4d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver [creato un messaggio SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-a-vibes-sms-message.md){target="_blank"}, è necessario utilizzare i trigger e i filtri dell&#39;elenco smart all&#39;interno di una campagna avanzata per ottenere i vantaggi. Ecco come.
 
-1. In Il mio Marketo, fai clic su **Attività di marketing**.
+1. In Il mio Marketo, fai clic su **[!UICONTROL Marketing Activities]**.
 
    ![](assets/use-vibes-sms-messages-in-smart-list-triggers-and-filters-1.png)
 
@@ -46,17 +46,17 @@ Il trigger **Messaggi SMS non recapitati** avvia un flusso, ad esempio l&#39;inv
 
 ![](assets/sms-message-bounces-real.jpg)
 
-Il trigger **Subscribes to Vibes List** avvia un flusso quando una persona si abbona.
+Il trigger **[!UICONTROL Subscribes to Vibes List]** avvia un flusso quando una persona si abbona.
 
 ![](assets/subscribes-to-vibes-list-real.jpg)
 
-Il trigger **Click Link in SMS Message** avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
+Il trigger **[!UICONTROL Clicks Link in SMS Message]** avvia un flusso quando una persona fa clic su un collegamento nel messaggio SMS.
 
 ![](assets/clicks-link-in-sms-message.jpg)
 
 ## Filtri SMS {#sms-filters}
 
-Puoi anche utilizzare i filtri Vibes negli elenchi avanzati. Il filtro **Abbonato all&#39;elenco Vibes** trova chiunque abbia *mai* abbonato a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
+Puoi anche utilizzare i filtri Vibes negli elenchi avanzati. Il filtro **[!UICONTROL Subscribed to Vibes List]** trova chiunque abbia *mai* abbonato a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
@@ -66,7 +66,7 @@ Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova _chiunque_ è att
 
 >[!NOTE]
 >
->Per impostazione predefinita, tutti i filtri SMS includono il vincolo **Data attività**.
+>Per impostazione predefinita, tutti i filtri SMS includono il vincolo **[!UICONTROL Date of Activity]**.
 
 Dopo aver impostato i trigger e i filtri Vibes nell&#39;elenco avanzato, puoi [definire il flusso](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/add-a-flow-step-for-sms.md).
 

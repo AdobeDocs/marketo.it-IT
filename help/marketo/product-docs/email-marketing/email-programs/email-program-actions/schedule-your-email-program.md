@@ -4,9 +4,9 @@ description: Pianificazione del programma e-mail - Documentazione di Marketo - D
 title: Pianificazione del programma e-mail
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Dopo aver creato il programma di posta elettronica, definito il pubblico e selezionato l&#39;indirizzo di posta elettronica, è possibile comunicare al programma *quando* inviare l&#39;indirizzo di posta elettronica. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -30,7 +30,7 @@ Dopo aver creato il programma di posta elettronica, definito il pubblico e selez
 
    ![](assets/selectemailprogram-1.jpg)
 
-1. Nella sezione **Pianificazione**, imposta la data.
+1. Nella sezione **[!UICONTROL Schedule]**, imposta la data.
 
    ![](assets/image2017-12-5-14-3a4-3a28.png)
 
@@ -38,7 +38,7 @@ Dopo aver creato il programma di posta elettronica, definito il pubblico e selez
 
    ![](assets/image2017-12-5-14-3a3-3a58.png)
 
-1. Puoi anche scegliere di utilizzare le funzionalità [Fuso orario destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/o [Inizio intestazione](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
+1. È inoltre possibile scegliere di utilizzare le funzionalità [[!UICONTROL Recipient Time Zone]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/schedule-email-programs-with-recipient-time-zone.md) e/o [[!UICONTROL Head Start]](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/head-start-for-email-programs.md).
 
    ![](assets/image2017-12-5-14-3a3-3a12.png)
 

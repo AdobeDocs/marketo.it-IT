@@ -4,10 +4,10 @@ description: Utilizzare i token nei passaggi del flusso - Documentazione di Mark
 title: Utilizzare i token nei passaggi del flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 0%
+source-wordcount: '193'
+ht-degree: 2%
 
 ---
 
@@ -21,8 +21,8 @@ Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destin
 
 * Modifica valore dati
 * Modifica dati membro programma
-* Momento di interesse
-* Passaggi della campagna Salesforce (aggiungere, rimuovere, modificare lo stato)
+* Momento interessante
+* [!DNL Salesforce] passaggi della campagna (aggiungere, rimuovere, modificare lo stato)
 * Crea attività
 * Invia avviso (solo in Campagne con trigger)
 

@@ -4,9 +4,9 @@ description: Modifica del nome di una fase - Documentazione di Marketo - Documen
 title: Modifica del nome di una fase
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '69'
 ht-degree: 2%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 2%
 
 Cambiare idea? Non è un problema. Ridenominare una fase nel modellatore del ciclo dei ricavi è facile.
 
-1. Vai all&#39;area **Analytics**.
+1. Passare all&#39;area **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 
-1. Seleziona un modellatore del ciclo dei ricavi da aggiornare. Fare clic su **Modifica bozza**.
+1. Seleziona un modellatore del ciclo dei ricavi da aggiornare. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-17-3a36-3a33.png)
 
-1. Seleziona la fase da aggiornare e immetti un nuovo **Nome**.
+1. Selezionare la fase da aggiornare e immettere un nuovo **[!UICONTROL Name]**.
 
    ![](assets/image2015-4-27-17-3a40-3a46.png)
 
-1. Fai clic su **Chiudi**.
+1. Fai clic su **[!UICONTROL Close]**.
 
    ![](assets/image2015-4-27-17-3a41-3a51.png)
 

@@ -4,9 +4,9 @@ description: Seleziona colonne rapporto - Documentazione Marketo - Documentazion
 title: Seleziona colonne rapporto
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi scegliere quali colonne includere e non includere nel rapporto.
 
-1. Vai all&#39;area **Analytics** (o **Attività di marketing**).
+1. Passare all&#39;area **[!UICONTROL Analytics]** (o **[!UICONTROL Marketing Activities]**).
 
    ![](assets/image2014-9-16-10-3a43-3a0.png)
 
@@ -23,7 +23,7 @@ Puoi scegliere quali colonne includere e non includere nel rapporto.
 
    ![](assets/image2014-9-16-10-3a43-3a5.png)
 
-1. Fai clic sulla scheda **Report**, quindi fai clic su un&#39;intestazione di colonna e seleziona **Colonne**, quindi scegli le colonne da includere.
+1. Fare clic sulla scheda **[!UICONTROL Report]**, quindi su un&#39;intestazione di colonna qualsiasi e selezionare **[!UICONTROL Columns]**, quindi scegliere le colonne da includere.
 
    ![](assets/image2014-9-16-10-3a43-3a9.png)
 

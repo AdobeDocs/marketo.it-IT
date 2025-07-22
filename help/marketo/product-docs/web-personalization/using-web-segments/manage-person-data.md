@@ -4,22 +4,22 @@ description: Gestire i dati della persona - Documentazione di Marketo - Document
 title: Gestisci dati persona
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '192'
 ht-degree: 7%
 
 ---
 
 # Gestisci dati persona {#manage-person-data}
 
-Sfrutta i dati personali per Web Personalization selezionando i campi persona da utilizzare nella segmentazione.
+Sfrutta i dati della persona per [!DNL Web Personalization] selezionando i campi della persona da utilizzare nella segmentazione.
 
-1. Vai a **Impostazioni account**.
+1. Vai a **[!UICONTROL Account Settings]**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Vai a **Database**.
+1. Vai a **[!UICONTROL Database]**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 
@@ -35,7 +35,7 @@ Sfrutta i dati personali per Web Personalization selezionando i campi persona da
 
 ## Eliminazione di un campo persona {#deleting-a-person-field}
 
-1. Fare clic sull&#39;icona Elimina ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) per rimuovere un campo dall&#39;elenco. Fare clic su **Sì** per confermare l&#39;eliminazione del campo.
+1. Fare clic sull&#39;icona Elimina ( ![—](assets/image2015-3-24-13-3a45-3a56.png)) per rimuovere un campo dall&#39;elenco. Fare clic su **[!UICONTROL Yes]** per confermare l&#39;eliminazione del campo.
 
    ![](assets/web-engagement-settings-delete.jpg)
 
@@ -99,7 +99,7 @@ Sfrutta i dati personali per Web Personalization selezionando i campi persona da
  </tbody> 
 </table>
 
-Per i nuovi account Web Personalization vengono forniti i seguenti campi di lead:
+Per i nuovi account di [!DNL Web Personalization] sono disponibili i seguenti campi di lead:
 
 >[!MORELIKETHIS]
 >

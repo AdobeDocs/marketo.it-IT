@@ -3,9 +3,9 @@ description: Creazione di un team - Documenti Marketo - Documentazione del prodo
 title: Creazione di un team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ La creazione di un team consente di assemblare un gruppo di utenti con cui è po
 
 ## Creare un team {#create-a-team}
 
-1. Nell&#39;[applicazione Web](https://toutapp.com/login), fare clic sull&#39;icona ingranaggio e selezionare **Impostazioni**.
+1. Nell&#39;[applicazione Web](https://toutapp.com/login), fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/creating-a-team-1.png)
 
-1. In Impostazioni amministratore selezionare **Gestione team**.
+1. In [!UICONTROL Admin Settings], selezionare **[!UICONTROL Team Management]**.
 
    ![](assets/creating-a-team-2.png)
 
-1. Accanto a Team, fai clic sull&#39;icona **+**.
+1. Accanto a [!UICONTROL Teams], fare clic sull&#39;icona **+**.
 
    ![](assets/creating-a-team-3.png)
 
-1. Immettere un nome di team e fare clic su **Crea**.
+1. Immettere un nome di team e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/creating-a-team-4.png)
 
@@ -38,7 +38,7 @@ La creazione di un team consente di assemblare un gruppo di utenti con cui è po
 
 ## Aggiungere persone a un team {#add-people-to-a-team}
 
-1. Sempre in Gestione team, selezionare **Tutti i membri**.
+1. Sempre in [!UICONTROL Team Management], selezionare **[!UICONTROL All Members]**.
 
    ![](assets/creating-a-team-5.png)
 
@@ -46,7 +46,7 @@ La creazione di un team consente di assemblare un gruppo di utenti con cui è po
 
    ![](assets/creating-a-team-6.png)
 
-1. Fai clic su **Aggiungi ai team**.
+1. Fai clic su **[!UICONTROL Add to Teams]**.
 
    ![](assets/creating-a-team-7.png)
 
@@ -54,6 +54,6 @@ La creazione di un team consente di assemblare un gruppo di utenti con cui è po
 
    ![](assets/creating-a-team-8.png)
 
-1. Al termine, fai clic su **Aggiungi**.
+1. Al termine, fai clic su **[!UICONTROL Add]**.
 
    ![](assets/creating-a-team-9.png)

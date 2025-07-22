@@ -4,10 +4,10 @@ description: Champion/Challenger - Definizione dei criteri dei campioni - Docume
 title: Campione/Sfidante - Definizione dei criteri del campione
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: ab8cb63d7a63728f86b38272a74913de99d0d0b3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
 ## Criteri campione standard {#standard-champion-criteria}
 
-1. Scegli uno dei **Criteri campione** disponibili.
+1. Selezionare uno dei **[!UICONTROL Champion Criteria]** disponibili.
 
    ![](assets/image2014-9-15-13-3a1-3a15.png)
 
@@ -33,7 +33,7 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
 ## Criterio Campione Personalizzato {#custom-champion-criteria}
 
-1. Se vuoi aggiungere un tocco di fantasia, puoi personalizzare selezionando **Conversione personalizzata** e facendo clic su **Modifica**.
+1. Se vuoi aggiungere un valore, puoi personalizzare selezionando **[!UICONTROL Custom Conversion Ratio]** e facendo clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-15-13-3a2-3a52.png)
 
@@ -49,9 +49,9 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
    ![](assets/image2014-9-15-13-3a3-3a54.png)
 
-   Marketo consente trigger solo per le persone a cui è stato inviato il messaggio e-mail da questo programma e-mail. Non è necessario aggiungere un filtro &quot;E-mail inviata&quot;.
+   Marketo consente trigger solo per le persone a cui è stato inviato il messaggio e-mail da questo programma e-mail. Non è necessario aggiungere un filtro &quot;[!UICONTROL Was Sent Email]&quot;
 
-1. Fai clic su **Chiudi**.
+1. Fai clic su **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 

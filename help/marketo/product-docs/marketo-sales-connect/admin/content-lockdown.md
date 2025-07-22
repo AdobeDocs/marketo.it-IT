@@ -4,9 +4,9 @@ description: Blocco dei contenuti - Documentazione di Marketo - Documentazione d
 title: Blocco dei contenuti
 exl-id: 9f47a6e9-5dad-4934-ba9b-70235c958a31
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '95'
 ht-degree: 0%
 
 ---
@@ -19,14 +19,14 @@ Attivando il blocco del contenuto, impedisci agli utenti non amministratori di m
 >
 >Gli utenti **potranno ancora** modificare il contenuto di un&#39;e-mail al momento dell&#39;invio o dell&#39;avvio di una campagna.
 
-1. In Sales Connect fare clic sull&#39;icona delle impostazioni e selezionare **Impostazioni**.
+1. In [!UICONTROL Sales Connect], fare clic sull&#39;icona delle impostazioni e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-4.png)
 
-1. In Impostazioni amministrazione fare clic su **Generale**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL General]**.
 
    ![](assets/two-4.png)
 
-1. Scorri verso il basso fino a Blocco contenuto. L&#39;attivazione di uno dei cursori _disabilita_ la possibilità per i membri del team di creare/modificare modelli e/o campagne.
+1. Scorri verso il basso fino a [!UICONTROL Content Lockdown]. L&#39;attivazione di uno dei cursori _disabilita_ la possibilità per i membri del team di creare/modificare modelli e/o campagne.
 
    ![](assets/three-4.png)

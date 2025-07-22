@@ -4,20 +4,20 @@ description: Configurare le categorie - Documentazione di Marketo - Documentazio
 title: Impostare le categorie
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
 # Impostare le categorie {#set-up-categories}
 
-Crea categorie in Contenuto predittivo per raggruppare i risultati predittivi sul web o e-mail. Ad esempio, puoi lavorare solo con i blog o con contenuti in una particolare lingua. Consente inoltre di cercare e filtrare la visualizzazione della pagina.  Le categorie vengono visualizzate nelle pagine Tutti i contenuti e Contenuto predittivo come riferimento semplice.
+Crea categorie in Contenuto predittivo per raggruppare i risultati predittivi sul web o e-mail. Ad esempio, puoi lavorare solo con i blog o con contenuti in una particolare lingua. Consente inoltre di cercare e filtrare la visualizzazione della pagina.  Le categorie vengono visualizzate nelle pagine [!UICONTROL All Content] e [!UICONTROL Predictive Content] per riferimento semplice.
 
 ![](assets/image2017-10-3-9-3a3-3a44.png)
 
-Quando modifichi il contenuto individuato, aggiungi delle categorie nella schermata di modifica. Fai clic sul campo **Categorie** e selezionale dal menu a discesa.
+Quando modifichi il contenuto individuato, aggiungi delle categorie nella schermata di modifica. Fai clic sul campo **[!UICONTROL Categories]** e selezionali dal menu a discesa.
 
 ![](assets/two.png)
 
@@ -29,15 +29,15 @@ Quando aggiungi contenuto, puoi assegnare a esso i tag con le categorie selezion
 
 Ecco come creare i tag delle categorie.
 
-1. Vai a **Impostazioni contenuto**.
+1. Vai a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand-1.png)
 
-1. Fai clic su **Categorie**.
+1. Fai clic su **[!UICONTROL Categories]**.
 
    ![](assets/content-discovery-categories-hand.png)
 
-1. Vengono visualizzati i tag di categoria esistenti. Immettere un nuovo tag categoria e fare clic su **Crea nuovo**.
+1. Vengono visualizzati i tag di categoria esistenti. Immettere un nuovo tag categoria e fare clic su **[!UICONTROL Create New]**.
 
    ![](assets/content-settings-create-cat-tags-hand.png)
 
@@ -45,7 +45,7 @@ Ecco come creare i tag delle categorie.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Al termine, fai clic su **Salva**.
+1. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/save-new.png)
 

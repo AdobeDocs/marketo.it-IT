@@ -3,26 +3,26 @@ description: Gestire il profilo - Documentazione di Marketo - Documentazione del
 title: Gestione del profilo
 exl-id: 5f5c7f66-2220-49d9-89c9-ba3cb6979b85
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
 
 # Gestione del profilo {#manage-your-profile}
 
-Nella pagina Il mio profilo puoi aggiornare il tuo nome, la lingua/lingua/fuso orario del tuo account e cambiare la tua password.
+Nella pagina [!UICONTROL My Profile] è possibile aggiornare il proprio nome, la lingua/lingua/fuso orario dell&#39;account e modificare la password.
 
 ## Dettagli account {#account-details}
 
 Qui puoi aggiornare il tuo nome e/o la tua password.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/manage-your-profile-1.png)
 
-1. Per impostazione predefinita, viene aperta la pagina Il mio profilo. Per aggiornare il tuo nome, digita le modifiche e fai clic su **Salva**.
+1. Per impostazione predefinita, viene aperta la pagina Il mio profilo. Per aggiornare il nome, digitare le modifiche e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/manage-your-profile-2.png)
 
@@ -34,7 +34,7 @@ Qui puoi aggiornare il tuo nome e/o la tua password.
 
 ## Integrazioni {#your-integrations}
 
-Sul lato destro della pagina, la sezione Integrazioni fornisce lo stato di tutte le connessioni dell’account.
+Nella parte destra della pagina, la sezione [!UICONTROL Your Integrations] fornisce lo stato di tutte le connessioni dell&#39;account.
 
 ![](assets/manage-your-profile-3.png)
 
@@ -50,23 +50,23 @@ Ecco come modificare la lingua, la lingua e/o il fuso orario dell’account.
 >
 >Lingue supportate: inglese, francese, tedesco, giapponese, portoghese, spagnolo.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/manage-your-profile-4.png)
 
-1. Per cambiare lingua, fai clic sull&#39;elenco a discesa **Lingua** ed effettua la tua scelta.
+1. Per cambiare lingua, fare clic sul menu a discesa **[!UICONTROL Language]** e scegliere.
 
    ![](assets/manage-your-profile-5.png)
 
-1. La lingua si riferisce alla regione in cui si parla quella lingua. Fai clic sul menu a discesa **Impostazioni internazionali** e seleziona un&#39;opzione.
+1. La lingua si riferisce alla regione in cui si parla quella lingua. Fare clic sul menu a discesa **[!UICONTROL Locale]** e scegliere.
 
    ![](assets/manage-your-profile-6.png)
 
-1. Fai clic sul menu a discesa **Fuso orario** e compila la tua scelta.
+1. Fare clic sul menu a discesa **[!UICONTROL Your Timezone]** e scegliere.
 
    ![](assets/manage-your-profile-7.png)
 
-1. Al termine, fai clic su **Salva**.
+1. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/manage-your-profile-8.png)
 

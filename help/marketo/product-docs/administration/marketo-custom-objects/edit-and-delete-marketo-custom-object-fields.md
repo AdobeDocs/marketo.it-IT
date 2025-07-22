@@ -4,9 +4,9 @@ description: Modificare ed eliminare i campi degli oggetti personalizzati di Mar
 title: Modificare ed eliminare i campi oggetto personalizzati di Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ A volte è necessario modificare un campo non ancora approvato.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-1.png)
 
-1. Nella scheda [!UICONTROL Campi], fai clic su **[!UICONTROL Azioni campo]** e **[!UICONTROL Modifica campo]**.
+1. Nella scheda [!UICONTROL Fields], fare clic su **[!UICONTROL Field Actions]** e **[!UICONTROL Edit Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-2.png)
 
-1. Apporta le modifiche e fai clic su **[!UICONTROL Salva]**.
+1. Apportare le modifiche e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-3.png)
 
@@ -33,7 +33,7 @@ A volte è necessario modificare un campo non ancora approvato.
    >
    >Non puoi modificare il Nome API.
 
-1. Le modifiche vengono visualizzate nell&#39;elenco Campi.
+1. Le modifiche vengono visualizzate nell&#39;elenco **[!UICONTROL Fields]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-4.png)
 
@@ -41,11 +41,11 @@ A volte è necessario modificare un campo non ancora approvato.
 
 Quando non è più necessario un campo in un oggetto personalizzato, è possibile eliminarlo.
 
-1. Nella scheda Campi fare clic su **[!UICONTROL Azioni campo]** e **[!UICONTROL Elimina campo]**.
+1. Nella scheda Campi fare clic su **[!UICONTROL Field Actions]** e **[!UICONTROL Delete Field]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-5.png)
 
-1. Assicurati di voler eliminare il campo prima di premere il trigger. Fare clic su **[!UICONTROL Elimina]**.
+1. Assicurati di voler eliminare il campo prima di premere il trigger. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-marketo-custom-object-fields-6.png)
 

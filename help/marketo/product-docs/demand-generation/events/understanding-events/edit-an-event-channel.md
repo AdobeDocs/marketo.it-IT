@@ -4,10 +4,10 @@ description: Modifica di un canale eventi - Documentazione Marketo - Documentazi
 title: Modificare un canale eventi
 exl-id: 250cc42b-5d83-4741-8b2b-56134171f3a9
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 2%
+source-wordcount: '175'
+ht-degree: 1%
 
 ---
 
@@ -25,43 +25,43 @@ Puoi modificare il tipo di canale dalla scheda **Riepilogo** dell&#39;evento o d
 
 ## Dalla scheda Riepilogo {#from-the-summary-tab}
 
-1. Da **Attività di marketing**, seleziona l&#39;evento dalla struttura.
+1. Da **[!UICONTROL Marketing Activities]**, seleziona l&#39;evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Passare alla visualizzazione **Riepilogo**.
+1. Passare alla visualizzazione **[!UICONTROL Summary]**.
 
    ![](assets/eventprogramsummary.png)
 
-1. Nella categoria **Impostazioni**, seleziona il **Canale** corrente visualizzato come collegamento ipertestuale.
+1. Nella categoria **[!UICONTROL Settings]** selezionare l&#39;elemento **[!UICONTROL Channel]** corrente visualizzato come collegamento ipertestuale.
 
    ![](assets/channeltypeevent.png)
 
-1. Dall’elenco a discesa, seleziona un nuovo canale.
+1. Selezionare un nuovo **[!UICONTROL Channel]** dall&#39;elenco a discesa.
 
    ![](assets/tradeshowchange.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 
 ## Dalla scheda Configurazione {#from-the-setup-tab}
 
-È possibile assegnare un nuovo tipo di canale anche dalla scheda **Configurazione** dell&#39;evento.
+È inoltre possibile assegnare un nuovo tipo di canale dalla scheda **[!UICONTROL Setup]** dell&#39;evento.
 
 1. Seleziona l’evento dalla struttura.
 
    ![](assets/eventprogramseelct.png)
 
-1. Passare alla scheda **Configurazione**. Fare doppio clic sul **canale** corrente.
+1. Passare alla scheda **[!UICONTROL Setup]**. Fare doppio clic sul **canale** corrente.
 
    ![](assets/setuptabchangechannel.png)
 
-1. Seleziona un nuovo **canale**.
+1. Selezionare un nuovo **[!UICONTROL Channel]**.
 
    ![](assets/tradeshowchange.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/2017-06-13-09-35-53.png)
 

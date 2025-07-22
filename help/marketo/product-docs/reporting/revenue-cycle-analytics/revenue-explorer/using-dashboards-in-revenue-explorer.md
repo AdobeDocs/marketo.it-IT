@@ -4,24 +4,24 @@ description: Utilizzo dei dashboard in Revenue Explorer - Documentazione di Mark
 title: Utilizzo dei dashboard in Revenue Explorer
 exl-id: ff81d48f-524e-4425-acb4-b62428f7a375
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
-ht-degree: 0%
+source-wordcount: '212'
+ht-degree: 1%
 
 ---
 
-# Utilizzo dei dashboard in Revenue Explorer {#using-dashboards-in-revenue-explorer}
+# Utilizzo dei dashboard in [!UICONTROL Revenue Explorer] {#using-dashboards-in-revenue-explorer}
 
-Una dashboard è una combinazione di rapporti di Revenue Explorer che consentono di ottenere una rapida panoramica di lead, campagne, opportunità e/o modelli.
+Una dashboard è una combinazione di [!UICONTROL Revenue Explorer] report per ottenere una rapida panoramica di lead, campagne, opportunità e/o modelli.
 
 ## Creazione di un nuovo dashboard {#creating-a-new-dashboard}
 
-1. Fare clic su **Gestione ricavi**.
+1. Fai clic su **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Fai clic su **Crea nuovo**, quindi su **Dashboard**.
+1. Fare clic su **[!UICONTROL Create New]**, quindi su **[!UICONTROL Dashboard]**.
 
    ![](assets/two.png)
 
@@ -31,17 +31,17 @@ Una dashboard è una combinazione di rapporti di Revenue Explorer che consentono
 
    >[!NOTE]
    >
-   >Puoi personalizzare ulteriormente l&#39;aspetto del dashboard facendo clic su **Temi** e scegliendo il tuo preferito.
+   >È possibile personalizzare ulteriormente l&#39;aspetto del dashboard facendo clic su **[!UICONTROL Themes]** e scegliendo il proprio preferito.
 
-1. Nella prima sezione del dashboard, fai clic sull&#39;icona **Inserisci** e seleziona **File**.
+1. Nella prima sezione del dashboard, fai clic sull&#39;icona **Inserisci** e seleziona **[!UICONTROL File]**.
 
    ![](assets/four.png)
 
-1. Fare doppio clic su **Gestione ricavi**.
+1. Fare doppio clic su **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/five.png)
 
-1. Fare doppio clic su **Tutti i report e dashboard**.
+1. Fare doppio clic su **[!UICONTROL All Reports and Dashboards]**.
 
    ![](assets/six.png)
 
@@ -49,7 +49,7 @@ Una dashboard è una combinazione di rapporti di Revenue Explorer che consentono
 
    ![](assets/seven.png)
 
-1. Scegli il tuo report e fai clic su **Seleziona**.
+1. Scegli il tuo report e fai clic su **[!UICONTROL Select]**.
 
    ![](assets/eight.png)
 
@@ -57,38 +57,38 @@ Una dashboard è una combinazione di rapporti di Revenue Explorer che consentono
 
    ![](assets/nine.png)
 
-1. Per rinominare una sezione, fare clic su di essa per selezionarla, digitare il nome desiderato in Titolo e fare clic su **Applica**. Ripeti per ogni sezione.
+1. Per rinominare una sezione, fare clic su di essa per selezionarla, digitare il nome desiderato in **[!UICONTROL Title]** e fare clic su **[!UICONTROL Apply]**. Ripeti per ogni sezione.
 
    ![](assets/ten.png)
 
-1. Per salvare, fai clic sull&#39;icona Salva, immetti un nome di file, fai doppio clic sulla cartella Revenue Explorer fino a raggiungere la cartella desiderata per il dashboard e fai clic su **Salva**.
+1. Per salvare, fare clic sull&#39;icona [!UICONTROL Save], immettere un [!UICONTROL Filename], fare doppio clic sulla cartella [!UICONTROL Revenue Explorer] fino a raggiungere la cartella desiderata per il dashboard e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/eleven.png)
 
 ## Modifica di un dashboard {#editing-a-dashboard}
 
-1. Fare clic su **Gestione ricavi**.
+1. Fai clic su **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Fare doppio clic sulla cartella **Gestione ricavi**. Passa alla posizione in cui si trova il dashboard.
+1. Fare doppio clic sulla cartella **[!UICONTROL Revenue Explorer]**. Passa alla posizione in cui si trova il dashboard.
 
    ![](assets/thirteen.png)
 
-1. Seleziona la dashboard da modificare, quindi fai clic su **Modifica**.
+1. Selezionare il dashboard da modificare, quindi fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/fourteen.png)
 
 ## Eliminazione di un dashboard {#deleting-a-dashboard}
 
-1. Fare clic su **Gestione ricavi**.
+1. Fai clic su **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/one.png)
 
-1. Fare doppio clic sulla cartella **Gestione ricavi**. Passa alla posizione in cui si trova il dashboard.
+1. Fare doppio clic sulla cartella **[!UICONTROL Revenue Explorer]**. Passa alla posizione in cui si trova il dashboard.
 
    ![](assets/thirteen.png)
 
-1. Selezionare il dashboard da eliminare, quindi fare clic su **Sposta nel cestino**.
+1. Selezionare il dashboard da eliminare, quindi fare clic su **[!UICONTROL Move to Trash]**.
 
    ![](assets/fifteen.png)

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Limita il numero di persone che possono registrarsi all’evento con un limite d
 
 >[!NOTE]
 >
->Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 >[!IMPORTANT]
 >Prima di poter impostare un limite di evento, è necessario che nel programma siano presenti almeno due pagine di destinazione approvate, ovvero una pagina di registrazione e una pagina di registrazione completa.
@@ -31,22 +31,22 @@ Limita il numero di persone che possono registrarsi all’evento con un limite d
 
    ![](assets/setting-an-event-cap-1.png)
 
-1. In Panoramica, individua [!UICONTROL Cap evento] e fai clic su **[!UICONTROL Non impostato]**.
+1. In Panoramica, trovare [!UICONTROL Event Cap] e fare clic su **[!UICONTROL Not Set]**.
 
    ![](assets/setting-an-event-cap-2.png)
 
-1. Immetti il numero massimo di persone che desideri registrare per l&#39;evento e fai clic su **[!UICONTROL Avanti]**.
+1. Immettere il numero massimo di persone che si desidera siano in grado di registrare per l&#39;evento e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/setting-an-event-cap-3.png)
 
-1. Fai clic sul menu a discesa [!UICONTROL Pagina di registrazione] e seleziona la pagina di destinazione che fungerà da pagina di registrazione.
+1. Fai clic sul menu a discesa [!UICONTROL Registration Page(s)] e seleziona la pagina di destinazione che fungerà da pagina di registrazione.
 
    ![](assets/setting-an-event-cap-4.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Pagina intera di registrazione]** e seleziona la pagina di destinazione che fungerà da pagina completa di registrazione. Al termine, fai clic su **[!UICONTROL Imposta e abilita]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Registration Full Page]** e seleziona la pagina di destinazione che fungerà da pagina di registrazione completa. Al termine, fai clic su **[!UICONTROL Set and Enable]**.
 
    ![](assets/setting-an-event-cap-5.png)
 
-   È tutto pronto. Se si decide di modificare i dettagli del limite dell&#39;evento, fare clic sul testo blu accanto a [!UICONTROL Cap evento].
+   È tutto pronto. Se si decide di modificare i dettagli del limite dell&#39;evento, fare clic sul testo blu accanto a [!UICONTROL Event Cap].
 
    ![](assets/setting-an-event-cap-6.png)

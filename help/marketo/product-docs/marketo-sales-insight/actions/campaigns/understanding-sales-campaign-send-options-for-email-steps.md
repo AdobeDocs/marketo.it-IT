@@ -3,16 +3,16 @@ description: Informazioni sulle opzioni di invio della campagna di vendita per i
 title: Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 832635c9e029754ce094e4137724bcc956dbcd35
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '740'
 ht-degree: 0%
 
 ---
 
 # Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail {#understanding-sales-campaign-send-options-for-email-steps}
 
-Durante la creazione di una campagna di vendita, puoi scegliere tra diverse opzioni per la creazione dei passaggi e-mail in Azioni approfondimento vendite. Inoltre, a seconda di dove si trova l’e-mail nella campagna di vendita, anche le opzioni sono diverse.
+Durante la creazione di una campagna di vendita sono disponibili diverse opzioni per la creazione dei passaggi e-mail in [!DNL Sales Insight Actions]. Inoltre, a seconda di dove si trova l’e-mail nella campagna di vendita, anche le opzioni sono diverse.
 
 ## Opzioni di invio primo passaggio {#first-step-send-options}
 
@@ -31,11 +31,11 @@ Se si tratta del primo passo e del primo giorno della campagna di vendita, avrai
 
 ### Crea un&#39;attività. Invierò io stesso questa e-mail {#first-step-create-a-task}
 
-* Questa opzione consente di creare un’attività e-mail (e di sincronizzarla con Salesforce) che puoi inviare quando preferisci.
+* Questa opzione consente di creare un&#39;attività di posta elettronica (e di sincronizzarla con [!DNL Salesforce]) che è possibile inviare quando necessario.
 * Dopo aver effettuato questa selezione, quando avvierai la tua campagna di vendita, queste attività verranno messe in coda per te nel centro comandi e nel feed live. Puoi quindi personalizzare e inviare (o pianificare) ogni e-mail prima che esca.
 
    * Se apri questa attività nella nostra applicazione web, verrà aperta una finestra di composizione con l’indirizzo e-mail del tuo contatto, la riga dell’oggetto dell’e-mail e il modello scelto.
-   * Se si apre l&#39;attività in Gmail o Outlook, verrà aperta una finestra di composizione nativa e l&#39;indirizzo di posta elettronica del contatto, l&#39;oggetto dell&#39;e-mail e il modello scelto verranno inseriti in modo dinamico.
+   * Se apri questa attività in Gmail o [!DNL Outlook], verrà aperta una finestra di composizione nativa e verrà popolato in modo dinamico l&#39;indirizzo e-mail del contatto, la riga dell&#39;oggetto dell&#39;e-mail e il modello scelto.
 
 ## Opzioni di invio passaggio successivo {#subsequent-step-send-options}
 
@@ -57,11 +57,11 @@ Per i giorni/passaggi successivi della campagna di vendita, avrai a disposizione
 
 ### Crea un&#39;attività. Invierò io stesso questa e-mail {#subsequent-create-a-task}
 
-* Questa opzione consente di creare un’attività e-mail (e di sincronizzarla con Salesforce) che puoi inviare quando preferisci.
-* Dopo aver effettuato questa selezione, quando avvii la tua campagna di vendita, le azioni di approfondimento sulle vendite metteranno in coda queste attività nel centro comandi e nel feed live. Puoi quindi personalizzare e inviare (o pianificare) ogni e-mail prima che esca.
+* Questa opzione consente di creare un&#39;attività di posta elettronica (e di sincronizzarla con [!DNL Salesforce]) che è possibile inviare quando necessario.
+* Dopo aver effettuato questa selezione, quando avvierai la tua campagna di vendita, [!DNL Sales Insight Actions] metterà in coda queste attività nel centro comandi e nel feed live. Puoi quindi personalizzare e inviare (o pianificare) ogni e-mail prima che esca.
 
    * Se apri questa attività nella nostra applicazione web, verrà aperta una finestra di composizione con l’indirizzo e-mail del tuo contatto, la riga dell’oggetto dell’e-mail e il modello scelto.
-   * Se si apre l&#39;attività in Gmail o Outlook, verrà aperta una finestra di composizione nativa e l&#39;indirizzo di posta elettronica del contatto, l&#39;oggetto dell&#39;e-mail e il modello scelto verranno inseriti in modo dinamico.
+   * Se apri questa attività in Gmail o [!DNL Outlook], verrà aperta una finestra di composizione nativa e verrà popolato in modo dinamico l&#39;indirizzo e-mail del contatto, la riga dell&#39;oggetto dell&#39;e-mail e il modello scelto.
 
 ### Crea questa e-mail come follow-up dell’e-mail precedente in questa campagna {#subsequent-create-this-email}
 
@@ -75,6 +75,6 @@ Per i giorni/passaggi successivi della campagna di vendita, avrai a disposizione
 >[!MORELIKETHIS]
 >
 >[Crea una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->[Tipi di fasi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->[Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[Tipi di fasi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
 

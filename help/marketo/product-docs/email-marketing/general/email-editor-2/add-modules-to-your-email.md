@@ -4,16 +4,16 @@ description: Aggiungere moduli all’e-mail - Documentazione di Marketo - Docume
 title: Aggiungere moduli all’e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
 
 # Aggiungere moduli all’e-mail {#add-modules-to-your-email}
 
-Nell’Editor e-mail 2.0, un modulo è una sezione dell’e-mail definita nel modello. I moduli possono contenere qualsiasi combinazione di elementi, variabili e altro contenuto HTML. Aggiungerle all’e-mail è facile.
+In [!DNL Email Editor 2.0], un modulo è una sezione dell&#39;e-mail definita nel modello. I moduli possono contenere qualsiasi combinazione di elementi, variabili e altro contenuto HTML. Aggiungerle all’e-mail è facile.
 
 1. Creare un messaggio e-mail. Assicurati di scegliere (o creare) un modello che contiene moduli.
 
@@ -21,9 +21,9 @@ Nell’Editor e-mail 2.0, un modulo è una sezione dell’e-mail definita nel mo
 
    >[!NOTE]
    >
-   >La maggior parte dei modelli di Marketo Starter contiene moduli. Puoi anche [creare ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
-1. All&#39;estrema destra dell&#39;e-mail, fai clic su **Moduli**.
+1. All&#39;estrema destra dell&#39;e-mail, fare clic su **[!UICONTROL Modules]**.
 
    ![](assets/two-3.png)
 
@@ -59,7 +59,7 @@ Esistono due modi per spostare un modulo.
 
    ![](assets/nine-2.png)
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Sposta su** o **Sposta giù**, a seconda di dove desideri spostare il modulo.
+1. Fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Move Up]** o **[!UICONTROL Move Down]**, a seconda della posizione in cui si desidera spostare il modulo.
 
    ![](assets/ten-2.png)
 

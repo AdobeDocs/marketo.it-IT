@@ -4,9 +4,9 @@ description: Panoramica dei token - Documentazione di Marketo - Documentazione d
 title: Panoramica dei token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 
 >[!CAUTION]
 >
->I token non funzionano nella preintestazione quando si utilizza l’editor e-mail di Marketo. Per utilizzare un token nella preintestazione, devi usare il tuo HTML in un modello e-mail.
+>I token non funzionano nella preintestazione quando si utilizza l’editor e-mail di Marketo. Per utilizzare un token nella preintestazione, devi usare un HTML in un modello e-mail.
 
 >[!NOTE]
 >
@@ -157,9 +157,9 @@ In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Salu
 * `{{program.Description}}`
 * `{{program.id}}`
 
-## I miei token {#my-tokens}
+## [!UICONTROL My Tokens] {#my-tokens}
 
-I miei token sono definiti in un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
+[!UICONTROL My Tokens] sono definiti in un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
 ## Token membro {#member-token}
 

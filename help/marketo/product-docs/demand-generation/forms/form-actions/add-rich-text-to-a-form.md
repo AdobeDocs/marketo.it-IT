@@ -4,10 +4,10 @@ description: Aggiungere testo formattato a un modulo - Documentazione di Marketo
 title: Aggiungere testo formattato a un modulo
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 1%
+source-wordcount: '92'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 1%
 
 Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informazioni tra i campi. Guarda un po&#39;.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a46-3a7.png)
 
@@ -27,7 +27,7 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 
    ![](assets/image2014-9-15-16-3a46-3a43.png)
 
-1. Seleziona **Testo formattato**.
+1. Seleziona **[!UICONTROL Rich Text]**.
 
    ![](assets/image2014-9-15-16-3a47-3a9.png)
 
@@ -39,15 +39,15 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
    >
    >Se nel modulo è necessario un separatore di linea, utilizzare il pulsante Linea orizzontale.
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-16-3a48-3a18.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a48-3a36.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
 

@@ -4,9 +4,9 @@ description: Personalizzare gli URL della pagina di destinazione con un CNAME - 
 title: Personalizzare gli URL della pagina di destinazione con un CNAME
 exl-id: 2cd87785-61e5-46cd-b1e0-6fbc145014d4
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Scegli una parola all’inizio dell’URL per le pagine di destinazione. È solo
 
 L’unica parola (più YourCompany.com) è denominata CNAME. Ne avrai bisogno più tardi, quindi prendi nota.
 
-## Ricerca dell&#39;ID Munchkin {#find-your-munchkin-id}
+## Trova il tuo Munchkin ID {#find-your-munchkin-id}
 
 1. Vai all&#39;area **Amministratore**.
 
@@ -45,15 +45,15 @@ L’unica parola (più YourCompany.com) è denominata CNAME. Ne avrai bisogno pi
    >
    >**Autorizzazioni amministratore richieste**
 
-1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo ID Munchkin.
+1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo Munchkin ID.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-3.png)
 
 ## Invia richiesta al reparto IT {#send-request-to-it}
 
-Chiedi al tuo personale IT di configurare il seguente CNAME: (sostituisci la parola [CNAME] e [ID Munchkin] con il testo del passaggio precedente).
+Chiedi al tuo personale IT di configurare il seguente CNAME: (sostituisci la parola [CNAME] e [Munchkin ID] con il testo del passaggio precedente).
 
-[CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
+[CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Completare l’impostazione di CNAME {#complete-cname-setup}
 
@@ -69,7 +69,7 @@ Chiedi al tuo personale IT di configurare il seguente CNAME: (sostituisci la par
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-6.png)
 
-1. Immetti il CNAME in **Nome dominio per le pagine di destinazione**, immetti la **Pagina di fallback**, immetti la **Home page** e fai clic su **Salva**.
+1. Immetti il tuo CNAME in **[!UICONTROL Domain name for Landing Pages]**, immetti il tuo **[!UICONTROL Fallback page]**, immetti il tuo **[!UICONTROL Homepage]** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/customize-your-landing-page-urls-with-a-cname-7.png)
 

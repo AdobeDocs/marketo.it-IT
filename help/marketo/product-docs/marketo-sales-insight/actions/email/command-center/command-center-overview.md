@@ -3,20 +3,20 @@ description: Panoramica del centro comandi - Documentazione di Marketo - Documen
 title: Panoramica del centro comandi
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '472'
+ht-degree: 0%
 
 ---
 
 # Panoramica del centro comandi {#command-center-overview}
 
-Il Command Center è una vista unica e unificata che consente di definire il passo successivo, assicurandosi che non vi siano problemi di funzionamento.
+[!UICONTROL Command Center] è un&#39;unica visualizzazione unificata che consente di individuare il passaggio successivo, assicurandosi che non vi siano problemi.
 
 ## Gestire le e-mail {#manage-emails}
 
-Nella sezione e-mail del centro comandi è possibile gestire tutte le attività e-mail. Consideralo come la tua casella di posta in uscita per esaminare le e-mail inviate da Sales Connect. Gestisci le e-mail pianificate, consulta chi si è occupato delle e-mail, controlla se si sono verificati problemi con la consegna delle e-mail e altro ancora.
+Nella sezione e-mail di [!UICONTROL Command Center] puoi gestire tutte le attività e-mail. Consideralo come la tua casella di posta in uscita per rivedere le e-mail inviate da [!DNL Sales Connect]. Gestisci le e-mail pianificate, consulta chi si è occupato delle e-mail, controlla se si sono verificati problemi con la consegna delle e-mail e altro ancora.
 
 ![](assets/command-center-overview-1.png)
 
@@ -29,41 +29,41 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   <th>Descrizione</th>
  </tr>
  <tr>
-  <th rowspan="2">Inviato</th>
-  <td>Consegnati</td>
+  <th rowspan="2">[!UICONTROL Sent]</th>
+  <td>[!UICONTROL Delivered]</td>
   <td>E-mail che sono state consegnate al destinatario.</td>
  </tr>
  <tr>
-  <td>Archiviato</td>
+  <td>[!UICONTROL Archived]</td>
   <td>E-mail che sono state archiviate dall’utente per disabilitare il tracciamento sulle e-mail.</td>
  </tr>
  <tr>
-  <th rowspan="3">In sospeso</th>
-  <td>Pianificato</td>
+  <th rowspan="3">[!UICONTROL Pending]</th>
+  <td>[!UICONTROL Scheduled]</td>
   <td>Messaggi e-mail attualmente pianificati per l’uscita. Una volta inviata, l’e-mail viene spostata nella cartella consegnata.</td>
  </tr>
  <tr>
-  <td>Bozza</td>
+  <td>[!UICONTROL Draft]</td>
   <td>E-mail che sono state salvate come bozza.<br/>
   <strong>Nota</strong>: è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</td>
  </tr>
  <tr>
-  <td>In corso</td>
+  <td>[!UICONTROL In] Avanzamento</td>
   <td>Si tratta di uno stato intermedio in cui le e-mail vengono inviate quando sono nel movimento di invio. Le e-mail dovrebbero essere in corso solo per qualche istante.</td>
  </tr>
  <tr>
-  <th rowspan="3">Non consegnato</th>
-  <td>Operazione non riuscita</td>
+  <th rowspan="3">[!UICONTROL Undelivered]</th>
+  <td>[!UICONTROL Failed]</td>
   <td>E-mail che non sono state consegnate.
 </td>
  </tr>
  <tr>
-  <td>Rifiutato</td>
+  <td>[!UICONTROL Bounced]</td>
   <td>E-mail rifiutate dal server e-mail dei destinatari.<br/>
   <strong>Nota</strong>: questo viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</td>
  </tr>
  <tr>
-  <td>Spam</td>
+  <td>[!UICONTROL Spam]</td>
   <td>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br/>
   <strong>Nota</strong>: questo viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</td>
  </tr>

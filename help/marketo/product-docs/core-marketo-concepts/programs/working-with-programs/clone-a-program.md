@@ -4,9 +4,9 @@ description: Clonare un programma - Documentazione di Marketo - Documentazione d
 title: Clona un programma
 exl-id: 5597007c-8f58-4306-ab78-3e65d6369fbf
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Clonare in modo rapido e semplice un intero programma e tutte le relative risorse anziché ricostruire manualmente tutto.
 
-1. Individuare e selezionare il programma da clonare. Nel menu a discesa **[!UICONTROL Azioni programma]**, fai clic su **[!UICONTROL Clona]**.
+1. Individuare e selezionare il programma da clonare. Nel menu a discesa **[!UICONTROL Program Actions]**, fare clic su **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-5-14-3a31-3a49.png)
 
@@ -23,15 +23,15 @@ Clonare in modo rapido e semplice un intero programma e tutte le relative risors
 
    >[!NOTE]
    >
-   >I programmi possono essere clonati in [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicurati di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l&#39;area di lavoro di destinazione prima della clonazione.
+   >I programmi possono essere clonati in [campaign](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) [cartelle](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md) o [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md). Assicurati di condividere tutte le risorse dipendenti sottostanti (e-mail, snippet, modelli di pagina di destinazione, ecc.) con l’area di lavoro di destinazione prima di clonare.
 
    ![](assets/cloneto.png)
 
    >[!NOTE]
    >
-   >Vedi quella NOTA nella schermata precedente? Significa che se cloni un programma con 1000 o più persone in un elenco, l’elenco stesso verrà clonato, ma sarà vuoto. Se si clona un programma con un elenco che contiene al massimo 999 persone, tale elenco, insieme a tutti i relativi membri, verrà visualizzato nel programma clonato.
+   >Vedi [!UICONTROL NOTE] nella schermata precedente? Significa che se cloni un programma con 1000 o più persone in un elenco, l’elenco stesso verrà clonato, ma sarà vuoto. Se si clona un programma con un elenco che contiene al massimo 999 persone, tale elenco, insieme a tutti i relativi membri, verrà visualizzato nel programma clonato.
 
-1. Immetti un [!UICONTROL Nome].
+1. Immetti **[!UICONTROL Name]**.
 
    ![](assets/cloneprogramname.png)
 
@@ -39,7 +39,7 @@ Clonare in modo rapido e semplice un intero programma e tutte le relative risors
 
    ![](assets/choosefolderclone.png)
 
-1. Aggiungi una descrizione facoltativa, quindi fai clic su **[!UICONTROL Crea]**. Scopri quanto rapidamente sei riuscito a creare un nuovo programma con tutte le risorse pronte per l’uso!
+1. Aggiungere una descrizione facoltativa, quindi fare clic su **[!UICONTROL Create]**. Scopri quanto rapidamente sei riuscito a creare un nuovo programma con tutte le risorse pronte per l’uso!
 
    ![](assets/createclone.png)
 

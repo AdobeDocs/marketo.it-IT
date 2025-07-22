@@ -1,38 +1,38 @@
 ---
 unique-page-id: 10095389
-description: Creazione di un contatto in Microsoft Dynamics - Documentazione di Marketo - Documentazione del prodotto
+description: Creazione di un contatto in Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
 title: Creazione di un contatto in Microsoft Dynamics
 exl-id: 66cb26c0-f383-4d1e-be22-e7f8c6b266fb
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 1%
 
 ---
 
-# Creazione di un contatto in Microsoft Dynamics {#create-a-contact-in-microsoft-dynamics}
+# Crea un contatto in [!DNL Microsoft Dynamics] {#create-a-contact-in-microsoft-dynamics}
 
-1. Seleziona la persona solo per Marketo Engage (il tipo di Microsoft è vuoto) che desideri creare come contatto in Dynamics.
+1. Seleziona la persona solo Marketo Engage (il tipo di Microsoft è vuoto) che desideri creare come contatto in Dynamics.
 
    ![](assets/one.png)
 
-1. Fai clic su **[!UICONTROL Azioni persona]** e **[!DNL Microsoft]**, quindi seleziona **[!UICONTROL Sincronizza persona con Microsoft]**.
+1. Fare clic su **[!UICONTROL Person Actions]** e **[!DNL Microsoft]** e selezionare **[!UICONTROL Sync Person to Microsoft]**.
 
    ![](assets/two.png)
 
-1. Fai clic su **[!UICONTROL Sincronizza come]** e seleziona **[!UICONTROL Contatto]**. Fare clic su **[!UICONTROL Esegui ora]**.
+1. Fare clic su **[!UICONTROL Sync As]** e selezionare **[!UICONTROL Contact]**. Fai clic su **[!UICONTROL Run Now]**.
 
    ![](assets/three.png)
 
    >[!NOTE]
    >
-   >Quando si utilizza l&#39;azione di flusso &quot;[!UICONTROL Sincronizza persona con Microsoft]&quot; (solo in una campagna di attivazione), il lead/contatto verrà creato in tempo reale in Dynamics.
+   >Quando si utilizza l&#39;azione di flusso &quot;[!UICONTROL Sync Person to Microsoft]&quot; (solo in una campagna Trigger), il lead/contatto verrà creato in tempo reale in Dynamics.
 
-1. Marketo qualifica il record Lead in Dynamics come un contatto non associato ad alcun account in Dynamics.
+1. Marketo qualifica il record Lead in [!DNL Dynamics] come contatto non associato ad alcun account in [!DNL Dynamics].
 
    ![](assets/image2015-10-23-9-3a43-3a33.png)
 
-1. È ora possibile selezionare **[!UICONTROL Contatto]** quando si utilizza il vincolo Sincronizza con nome in un filtro Smart Campaign.
+1. È ora possibile selezionare **[!UICONTROL Contact]** quando si utilizza il vincolo Sincronizza con nome in un filtro Smart Campaign.
 
    ![](assets/five.png)

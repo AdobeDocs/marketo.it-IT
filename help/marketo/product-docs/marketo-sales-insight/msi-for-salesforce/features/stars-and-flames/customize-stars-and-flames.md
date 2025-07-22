@@ -4,46 +4,46 @@ description: Personalizzare stelle e fiamme - Documentazione di Marketo - Docume
 title: Personalizza stelle e fiamme
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '162'
 ht-degree: 0%
 
 ---
 
 # Personalizza stelle e fiamme {#customize-stars-and-flames}
 
-Marketo Sales Insight utilizza stelle e fiamma per dare la priorità ai lead. Marketo decide automaticamente chi ottiene 1-2-3 stelle/fiamme. È tuttavia possibile modificare la formula. Ecco come:
+[!DNL Marketo Sales Insight] utilizza stelle e fiamme per assegnare priorità ai lead. Marketo decide automaticamente chi ottiene 1-2-3 stelle/fiamme. È tuttavia possibile modificare la formula. Ecco come:
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Amministratore fare clic su **Informazioni sulle vendite**.
+1. In [!UICONTROL Admin], fare clic su **[!UICONTROL Sales Insight]**.
 
 ![](assets/image2014-9-16-13-3a38-3a6.png)
 
-1. Nella sezione **Impostazioni punteggio lead**, fai clic su **Modifica**.
+1. Nella sezione **[!UICONTROL Lead Scoring Settings]** fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-16-13-3a38-3a17.png)
 
-1. Selezionare il **metodo di assegnazione del punteggio** desiderato.
+1. Seleziona **[!UICONTROL Scoring Method]** a tua scelta.
 
    >[!NOTE]
    >
    >**Definizione**
    >
-   >**Dinamico** - Valore percentuale derivato da [dati relativi](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Cose fantastiche. Si consiglia questo metodo.
+   >**[!UICONTROL Dynamic]** - Valore percentuale derivato da [dati relativi](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md). Cose fantastiche. Si consiglia questo metodo.
    >
-   >**Statico** - Ti consente di definire numeri di punteggio esatti - non più percentuali, non più salse segrete.
+   >**[!UICONTROL Static]** - Consente di definire i numeri esatti dei punteggi, senza più percentuali né salse segrete.
 
    ![](assets/image2014-9-16-13-3a38-3a31.png)
 
-1. Modifica le parentesi percentuali a tuo piacimento e **Salva**.
+1. Modifica le parentesi percentuali a tuo piacimento e **[!UICONTROL Save]**.
 
    >[!TIP]
    >

@@ -4,16 +4,16 @@ description: Filtrare un rapporto sull’attività di una campagna - Documentazi
 title: Filtrare un rapporto di attività campagna
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: b8abf0d697ff2df4a6b7234fbe33a40ca801187d
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 # Filtrare un rapporto di attività campagna {#filter-a-campaign-activity-report}
 
-Concentrare il [rapporto attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md)su [campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) specifiche.
+Concentrare il [Rapporto attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) su [campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) specifiche.
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Concentrare il [rapporto attività campagna](/help/marketo/product-docs/reportin
 
    ![](assets/filter-a-campaign-activity-report-1.png)
 
-1. Fare clic sulla scheda **Configurazione** e fare doppio clic su **Campagne**.
+1. Fare clic sulla scheda **[!UICONTROL Setup]** e fare doppio clic su **[!UICONTROL Campaigns]**.
 
    ![](assets/filter-a-campaign-activity-report-2.png)
 
-1. Scegli le cartelle e le campagne intelligenti specifiche da includere nel rapporto. Fare clic su **Applica**.
+1. Scegli le cartelle e le campagne intelligenti specifiche da includere nel rapporto. Fai clic su **[!UICONTROL Apply]**.
 
    ![](assets/filter-a-campaign-activity-report-3.png)
 
@@ -35,7 +35,7 @@ Concentrare il [rapporto attività campagna](/help/marketo/product-docs/reportin
    >
    >Se selezioni una cartella, il rapporto includerà tutto ciò che la cartella contiene al momento dell’esecuzione del rapporto.
 
-1. Hai finito! Fai clic sulla scheda **Report** per visualizzare _just_ le campagne avanzate selezionate nel tuo report.
+1. Hai finito! Fai clic sulla scheda **[!UICONTROL Report]** per visualizzare _solo_ le campagne avanzate selezionate nel rapporto.
 
    ![](assets/filter-a-campaign-activity-report-4.png)
 

@@ -4,9 +4,9 @@ description: Segmenti web - Documentazione di Marketo - Documentazione del prodo
 title: Segmenti web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '2051'
+source-wordcount: '1980'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Nella scheda Segmenti vengono visualizzati tutti i segmenti personalizzati definiti in base a vari attributi.  **Un segmento è una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina &quot;Imposta un segmento&quot;.** Un segmento può essere costituito da visitatori provenienti da un settore, una posizione o un&#39;attività in loco del visitatore.
 
-In Web Personalization, un visitatore può corrispondere a più di un segmento. Ad esempio, se è presente un segmento per i visitatori negli Stati Uniti e un segmento per le società di servizi finanziari, un visitatore Web di Bank of America troverà **entrambi** il segmento per il visitatore negli Stati Uniti e il segmento per le società di servizi finanziari.
+In [!DNL Web Personalizatio] un visitatore può corrispondere a più segmenti. Ad esempio, se è presente un segmento per i visitatori negli Stati Uniti e un segmento per le società di servizi finanziari, un visitatore Web di Bank of America troverà **entrambi** il segmento per il visitatore negli Stati Uniti e il segmento per le società di servizi finanziari.
 
 **GRAFICO:** La pagina Segmenti visualizza un grafico a barre dei segmenti selezionati in base al numero di visitatori dal segmento (asse y) e al nome del segmento (asse x).
 
@@ -41,10 +41,10 @@ In Web Personalization, un visitatore può corrispondere a più di un segmento. 
   </tr> 
   <tr> 
    <td colspan="1" rowspan="1"><strong>Imposta campagna</strong></td> 
-   <td colspan="1" rowspan="1">Consente di impostare un CTA campagna associato al termine di ricerca selezionato</td> 
+   <td colspan="1" rowspan="1">Consente di impostare una campagna CTA associata al termine di ricerca selezionato</td> 
   </tr> 
   <tr> 
-   <td colspan="1"><strong>Visitor</strong></td> 
+   <td colspan="1"><strong>Visitatori</strong></td> 
    <td colspan="1">Anteprima della tabella dei visitatori associata al termine di ricerca selezionato</td> 
   </tr> 
   <tr> 
@@ -66,7 +66,7 @@ Tali dettagli includono:
 
 * Nome del segmento
 * Data di creazione del segmento
-* Le campagne associate che mostrano le campagne che operano con il segmento. Facendo clic sul numero di reazioni si accede alla pagina delle campagne in cui viene visualizzato il CTA (invito all’azione) della campagna per il segmento
+* Le campagne associate che mostrano le campagne che operano con il segmento. Facendo clic sul numero di reazioni si accede alla pagina delle campagne in cui è visualizzato il CTA della campagna (Call to action) per il segmento
 * Il numero di corrispondenze (numero di visitatori che hanno soddisfatto i criteri del segmento) per il segmento e il numero di visitatori distinti (univoci) che hanno soddisfatto il segmento. Facendo clic sul collegamento visitatore univoco si accede alla pagina del visitatore che mostra i risultati del segmento
 * Proprietario/creatore utente del segmento
 * I siti di dominio associati al segmento
@@ -76,15 +76,15 @@ Tali dettagli includono:
 
 ![](assets/image2014-11-12-10-3a48-3a9.png)
 
-Per abilitare o disabilitare un segmento, seleziona la casella di controllo di quel segmento nella tabella e nella casella a discesa &quot;Scegli azione&quot; nella parte inferiore della tabella seleziona l’azione &quot;Abilita&quot; o &quot;Disabilita&quot;. Quando un segmento è disattivato, nella colonna Stato viene visualizzata la parola &quot;disable&quot; (Disattiva).
+Per abilitare o disabilitare un segmento, selezionare la casella di controllo di tale segmento nella tabella e nella casella a discesa &quot;[!UICONTROL Choose Action]&quot; nella parte inferiore della tabella selezionare l&#39;azione &quot;[!UICONTROL Enable]&quot; o &quot;[!UICONTROL Disable]&quot;. Quando un segmento è disabilitato, la parola &quot;disable&quot; viene visualizzata nella colonna [!UICONTROL State].
 
 ## Creare segmenti {#create-segments}
 
-Il segmento creato soddisfa i criteri specifici definiti nella pagina **Imposta segmento**. Puoi personalizzare i segmenti anche in base a una combinazione di criteri, con targeting per un pubblico specifico nella campagna.
+Il segmento creato soddisfa i criteri specifici definiti nella pagina **[!UICONTROL Set Segment]**. Puoi personalizzare i segmenti anche in base a una combinazione di criteri, con targeting per un pubblico specifico nella campagna.
 
 Per creare un nuovo segmento
 
-Dalla pagina **Segmenti**, fai clic su **Crea nuovo** sotto il grafico. Viene visualizzata la seguente schermata.
+Dalla pagina **[!UICONTROL Segments]**, fai clic su **[!UICONTROL Create New]** sotto il grafico. Viene visualizzata la seguente schermata.
 
 ![](assets/four.png)
 
@@ -134,33 +134,33 @@ Trascina e rilascia gli attributi del segmento dalla colonna di destra all’edi
 
 **Posizione**
 
-Trascina e rilascia **Posizione** nell&#39;editor segmenti.
+Trascina **[!UICONTROL Location]** nell&#39;editor segmenti.
 
 * Seleziona uno dei seguenti parametri:
 
-   * **Includi** - Seleziona se includere o escludere una posizione nella campagna.
-   * **Seleziona il paese da aggiungere**. Dalla casella a discesa, seleziona il paese da includere nel segmento. Il nome del paese appare a destra. Puoi scegliere più paesi.
+   * **[!UICONTROL Include]** - Specificare se si desidera che la campagna includa o escluda una posizione.
+   * **[!UICONTROL Select country to add]** - Selezionare il paese da includere nel segmento dalla casella a discesa. Il nome del paese appare a destra. Puoi scegliere più paesi.
 
 Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il codice postale del segmento.
 
-* **Selezionare lo stato o la provincia da aggiungere**. Nella casella a discesa selezionare lo stato degli Stati Uniti o la provincia canadese da includere. Puoi effettuare più selezioni.
-* **Codice postale** - Immetti il codice postale da includere nel segmento.
-* **Città** - Immettere la città o le città da includere. Utilizzare un punto e virgola tra le città.
+* **[!UICONTROL Select State or Province to add]** - Dalla casella a discesa, selezionare lo stato degli Stati Uniti o la provincia canadese che si desidera includere. Puoi effettuare più selezioni.
+* **[!UICONTROL Zip Code]** - Immetti il codice postale da includere nel segmento.
+* **[!UICONTROL Cities]** - Immettere la città o le città da includere. Utilizzare un punto e virgola tra le città.
 
 >[!TIP]
 >
 >**Quali sono le condizioni del segmento scelte? &#39;AND&#39; o &#39;OR&#39;?** OR funziona come opzione aggiuntiva all&#39;interno di ogni campo. I potenziali clienti devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo per qualificarsi per il segmento. (Ad esempio, i potenziali clienti possono provenire dagli Stati Uniti *o* dall&#39;industria della difesa). AND funge da parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della Difesa). All’interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot; a seconda della Condizione del segmento selezionata.
 
-**Settori** Nella sezione **Segmentazione profilo**, seleziona la casella accanto a **Settore**.
+**Settori** Nella sezione **[!UICONTROL Profile Segmentation]**, seleziona la casella accanto a **[!UICONTROL Industry]**.
 
 * Seleziona uno dei seguenti parametri:
 
-   * **Inclusioni** - Seleziona se includere o escludere un settore nel segmento.
-   * **Seleziona settori da aggiungere** - Seleziona il settore da includere nel segmento. Il settore viene visualizzato sotto la casella a discesa. Puoi scegliere tra più settori.
+   * **[!UICONTROL Includes]** - Selezionare se si desidera che il segmento includa o escluda un settore.
+   * **[!UICONTROL Select Industries to add]** - Selezionare il settore da includere nel segmento. Il settore viene visualizzato sotto la casella a discesa. Puoi scegliere tra più settori.
 
 **Gruppo organizzazione**
 
-Nella sezione **Segmentazione profilo**, seleziona la casella accanto a **Gruppo organizzazione.**
+Nella sezione **[!UICONTROL Profile Segmentation]**, seleziona la casella accanto a **[!UICONTROL Organization Group].**
 
 * Dalla casella di riepilogo a discesa, seleziona una delle seguenti opzioni:
 
@@ -187,7 +187,7 @@ Seleziona da un [elenco account denominati](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Escludi ISP**
 
@@ -195,9 +195,9 @@ Esclude i provider di servizi Internet (ISP) dal segmento.
 
 ### Persone note {#known-people}
 
-**Database**
+**[!UICONTROL Database]**
 
-Web Personalization si integra con il tuo database Marketo, consentendoti di segmentare e personalizzare le campagne in base agli attributi e ai dati della persona nota.
+[!DNL Web Personalization] si integra con il tuo database Marketo, consentendoti di segmentare e personalizzare le campagne in base agli attributi e ai dati della persona nota.
 
 Selezionare Database, quindi selezionare un campo dati persona dall&#39;elenco a discesa. Seleziona **+** per aggiungere campi dal menu a discesa.
 
@@ -211,22 +211,22 @@ Selezionare Database, quindi selezionare un campo dati persona dall&#39;elenco a
 >
 >Esempio: &quot;Il titolo del lavoro è uguale a CMO&quot; e &quot;il punteggio è minore o uguale a 50&quot;
 
-**Campagna e-mail Marketo** Segmenta e personalizza le campagne tramite riferimento e-mail da un visitatore che fa clic su un&#39;e-mail di Marketo e arriva sul sito. Segmentazione in base al nome del programma Marketo o al nome della campagna e continuazione della conversazione dall&#39;e-mail al Web. Seleziona il + per aggiungere campi dal menu a discesa.
+**[!UICONTROL Marketo Email Campaign]** Segmenta e personalizza le campagne tramite riferimento e-mail da parte di un visitatore che fa clic su un&#39;e-mail di Marketo e arriva sul sito. Segmentazione in base al nome del programma Marketo o al nome della campagna e continuazione della conversazione dall&#39;e-mail al Web. Seleziona il + per aggiungere campi dal menu a discesa.
 
 ![](assets/image2015-5-27-17-3a20-3a34.png)
 
-**Stato**
+**[!UICONTROL Status]**
 
 Definisci il segmento in base allo stato di un potenziale cliente: noto o anonimo.
 
-* Nota: seleziona questa opzione dall’elenco a discesa per i visitatori noti. Un visitatore è noto quando invia un modulo sul sito Web e viene visualizzato nella pagina Web Personalization People.
+* Nota: seleziona questa opzione dall’elenco a discesa per i visitatori noti. Un visitatore è noto quando invia un modulo sul sito Web e viene visualizzato nella pagina [!DNL Web Personalization] [!UICONTROL People].
 * Anonimo: seleziona questa opzione dall’elenco a discesa per i visitatori anonimi.
 
 ![](assets/image2015-5-27-17-3a23-3a2.png)
 
 ### Comportamento {#behavioral}
 
-**Visite -** Definisci il segmento in base al comportamento o all&#39;identificazione del visitatore.
+**[!UICONTROL Visits]-** Definisci il segmento in base al comportamento o all&#39;identificazione del visitatore.
 
 * Numero di visite: seleziona questa opzione dalla casella a discesa per specificare il numero di visite per i potenziali clienti sul sito web.
 
@@ -234,21 +234,21 @@ Definisci il segmento in base allo stato di un potenziale cliente: noto o anonim
 
 * Visite specifiche: seleziona questa opzione dalla casella a discesa per specificare un visitatore specifico.
 
-   * Nella casella di testo a destra, immetti il numero del visitatore che desideri monitorare. Il numero di identificazione univoco del visitatore di Web Personalization si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e si imposta Campaign sul pannello laterale destro. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
+   * Nella casella di testo a destra, immetti il numero del visitatore che desideri monitorare. Il numero di identificazione univoco del visitatore [!DNL Web Personalization] si trova quando si fa clic su un visitatore (nella pagina dei visitatori) e si imposta Campaign sul pannello laterale destro. L’ID visitatore si trova nella sezione Impostazioni avanzate. L’ID visitatore si trova anche nell’URL (ad esempio VISITOR=JZZJIFJNUI60PZ8Y97BHTY9BL8PKWS).
 
 **Termini di ricerca** - Definisci un segmento in base ai termini di ricerca di un potenziale cliente.
 
 * Il visitatore ha cercato: dall’elenco a discesa, seleziona i termini di cui vuoi tenere traccia dalla ricerca dei visitatori, oppure aggiungi i tuoi termini di ricerca. Non è necessario inserire il carattere jolly &#42; nei termini di ricerca perché è impostato come predefinito per includere frasi che contengono il termine di ricerca.
 
-**Riferimenti** - Aggiungi gli URL di riferimento al visitatore.
+**[!UICONTROL Referrals]** - Aggiungi gli URL a cui il visitatore faceva riferimento.
 
 * Seleziona i riferimenti da aggiungere: dall’elenco a discesa, seleziona i siti di riferimento di cui desideri tenere traccia o aggiungi un riferimento personalizzato. Una volta selezionati, i riferimenti verranno visualizzati nella casella sottostante. (L&#39;utilizzo di &#42; come carattere jolly è consentito)
 
-**Includi pagine** - Tieni traccia delle pagine specifiche potenziali visitate sul tuo sito Web.
+**[!UICONTROL Include Pages]** - Tieni traccia di pagine specifiche potenziali visitate sul tuo sito Web.
 
 * Corrispondenze URL: aggiungi l’URL di specifiche pagine web di cui desideri tenere traccia. È possibile aggiungere più URL separandoli con un punto e virgola. L&#39;utilizzo di &#42; come carattere jolly è consentito.
 
-**Escludi pagine** - Escludi pagine specifiche a cui non desideri far corrispondere nel segmento. L&#39;utilizzo di &#42; come carattere jolly è consentito.
+**[!UICONTROL Exclude Pages]** - Escludi le pagine specifiche alle quali non desideri trovare corrispondenza nel segmento. L&#39;utilizzo di &#42; come carattere jolly è consentito.
 
 * URL non corrispondente - Aggiungi l’URL di specifiche pagine web da escludere dal tracciamento. È possibile aggiungere più URL separandoli con un punto e virgola
 
@@ -256,20 +256,20 @@ Definisci il segmento in base allo stato di un potenziale cliente: noto o anonim
 
 ### Dispositivo/Browser {#device-browser}
 
-**Sistema operativo mobile**
+**[!UICONTROL Mobile OS]**
 
-Trascina e rilascia il sistema operativo Mobile nell’editor segmenti
+Trascina e rilascia [!UICONTROL Mobile OS] nell&#39;editor segmenti
 
 ![](assets/image2015-5-27-17-3a45-3a3.png)
 
 * **Tipo visitatore**<br />
-  **Sistema operativo mobile**: dall&#39;elenco a discesa, selezionare uno o più sistemi operativi mobili elencati. Il sistema operativo mobile selezionato viene visualizzato di seguito.
+  **[!UICONTROL Mobile OS]** - Dalla casella a discesa, selezionare uno o più sistemi operativi mobili elencati. Il sistema operativo mobile selezionato viene visualizzato di seguito.
 
    * Il visitatore sta utilizzando un dispositivo mobile
    * Il visitatore sta utilizzando questo dispositivo/sistema operativo specifico
    * Il visitatore non utilizza alcun dispositivo mobile
 
-* **Dispositivo** - Dall&#39;elenco a discesa, selezionare uno o più dispositivi (Apple, Samsung, LG, HTC, Nexus, Blackberry, ecc.). I dispositivi selezionati vengono visualizzati di seguito.
+* **[!UICONTROL Device]** - Dall&#39;elenco a discesa, selezionare uno o più dispositivi (Apple, Samsung, LG, HTC, Nexus, Blackberry, ecc.). I dispositivi selezionati vengono visualizzati di seguito.
 
 **Browser**
 
@@ -286,29 +286,29 @@ Aggiungi il valore Evento di destinazione. Ad esempio da fonti di dati di terze 
 
 **API contesto utente**
 
-Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >
 >**Utilizzo di caratteri jolly -** Quando si desidera includere qualsiasi termine di ricerca o URL che contiene un elemento, ad esempio &quot;[google.com](https://google.com)&quot; o &quot;prodotto del termine di ricerca&quot;, questo è un carattere jolly e deve essere inserito con un asterisco, questo piccolo tizio&#42;, su ogni estremità. Quindi tutto ciò che proviene da [google.com](https://google.com) deve essere immesso come &#42; [google.com](https://google.com)&#42;
 
-## Modifica segmenti {#edit-segments}
+## Modifica [!UICONTROL Segments] {#edit-segments}
 
 Puoi modificare un segmento che è stato creato.
 
-1. Per modificare un segmento, passa a **Segmenti**.
+1. Per modificare un segmento, passa a **[!UICONTROL Segments]**.
 
    ![](assets/image2014-11-12-11-3a38-3a22.png)
 
-1. Nella tabella **Segmenti**, fai clic sull&#39;icona di modifica (![](assets/segment-edit.png)) del segmento che desideri modificare. Viene visualizzata la pagina **Imposta segmento** con il segmento selezionato.
+1. Nella tabella **[!UICONTROL Segments]**, fare clic sull&#39;icona di modifica ( ![](assets/segment-edit.png)) del segmento che si desidera modificare. Viene aperta la pagina **[!UICONTROL Set Segment]** con il segmento selezionato.
 1. Applica al segmento le modifiche che desideri apportare.
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
 ## Eliminare segmenti {#delete-segments}
 
 Puoi eliminare i segmenti creati.
 
-1. Dalla pagina **Segmenti** in alto, seleziona un segmento.
+1. Dalla pagina **[!UICONTROL Segments]** in alto, seleziona un segmento.
 1. Fare clic sull&#39;icona Elimina ( ![](assets/segment-delete.png) ) del segmento che si desidera eliminare.
 1. Viene visualizzato un messaggio di conferma che conferma l&#39;eliminazione del **segmento**.
 

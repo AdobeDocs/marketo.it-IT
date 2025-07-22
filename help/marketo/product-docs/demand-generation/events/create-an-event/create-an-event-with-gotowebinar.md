@@ -1,65 +1,65 @@
 ---
 unique-page-id: 2949874
-description: Creare un evento con il webinar Goto - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un evento con il webinar Goto
+description: Creazione di un evento con  [!DNL GotoWebinar] - Documentazione di Marketo - Documentazione del prodotto
+title: Crea un evento con  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
 
-# Creare un evento con il webinar Goto {#create-an-event-with-gotowebinar}
+# Crea un evento con [!DNL GotoWebinar] {#create-an-event-with-gotowebinar}
 
 >[!PREREQUISITES]
 >
->* [Aggiungi GoToWebinar come servizio LaunchPoint](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
+>* [Aggiungi [!DNL GoToWebinar] come  [!DNL LaunchPoint] servizio](/help/marketo/product-docs/administration/additional-integrations/add-gotowebinar-as-a-launchpoint-service.md)
 >* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
->* Imposta le [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriate per tenere traccia del coinvolgimento
+>* Imposta le [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md) appropriate per tenere traccia del coinvolgimento
 
-Crea il webinar in GoToWebinar. Alcune impostazioni nella creazione del webinar GoToVengono utilizzate da Marketo, mentre altre vengono utilizzate solo da GoToWebinar.
+Crea il tuo webinar in [!DNL GoToWebinar]. Alcune impostazioni nella creazione di [!DNL GoToWebinar] sono utilizzate da Marketo e altre solo da [!DNL GoToWebinar].
 
-Dopo aver creato un evento Marketo e aver associato ad esso il webinar GoTo, i sistemi saranno in grado di condividere le informazioni sulla registrazione e sulla partecipazione.
+Dopo aver creato un evento Marketo e aver associato [!DNL GoToWebinar] a esso, i sistemi potranno condividere le informazioni di registrazione e partecipazione.
 
 Di seguito è riportato un elenco delle impostazioni utilizzate da Marketo.
 
 ## Titolo e descrizione {#title-and-description}
 
-**Nome webinar** - immettere il nome del webinar. Questo nome sarà visualizzabile in Marketo.
+**[!UICONTROL Title]** - immettere il nome del webinar. Questo nome sarà visualizzabile in Marketo.
 
-**Descrizione** (facoltativo): immettere la descrizione del webinar. La descrizione sarà visibile in Marketo.
+**[!UICONTROL Description]** (facoltativo) - immettere la descrizione del webinar. La descrizione sarà visibile in Marketo.
 
 ![](assets/image2015-5-28-15-3a1-3a36.png)
 
 ## Data e ora {#date-time}
 
-Immetti le seguenti informazioni per il webinar, che verranno inserite in Marketo tramite l’adattatore. Se si apportano modifiche a queste informazioni, è necessario fare clic sul collegamento &quot;**Aggiorna dal provider webinar**&quot; in **Azioni evento** per consentire a Marketo di visualizzare le modifiche.
+Immetti le seguenti informazioni per il webinar, che verranno inserite in Marketo tramite l’adattatore. Se si apportano modifiche a queste informazioni, è necessario fare clic sul collegamento &quot;**[!UICONTROL Refresh from Webinar Provider]**&quot; in **[!UICONTROL Event Actions]** per consentire a Marketo di visualizzare le modifiche.
 
-**Data inizio** - inserisci la data di inizio. Questo sarà visibile in Marketo.
+**[!UICONTROL Start Date]** - immetti la data di inizio. Questo sarà visibile in Marketo.
 
-**Ora di inizio** - immettere l&#39;ora di inizio. Questo sarà visibile in Marketo.
+**[!UICONTROL Start Time]** - immetti l&#39;ora di inizio. Questo sarà visibile in Marketo.
 
-**Ora di fine** - immetti l&#39;ora di fine. Questo sarà visibile in Marketo.
+**[!UICONTROL End Time]** - immetti l&#39;ora di fine. Questo sarà visibile in Marketo.
 
-**Fuso orario** - seleziona il fuso orario applicabile. Sarà visualizzabile in Marketo.
+**[!UICONTROL Webinar Time Zone]** - selezionare il fuso orario applicabile. Sarà visualizzabile in Marketo.
 
-**Tipo -** impostato su **Una sessione**.
+**[!UICONTROL Type]** - impostato su **[!UICONTROL One Session]**.
 
 ![](assets/image2015-5-28-15-3a7-3a1.png)
 
 >[!NOTE]
 >
->Al momento Marketo non supporta i webinar ricorrenti. Devi impostare una singola sessione tra ogni evento Marketo e webinar GoToWebinar.
+>Al momento Marketo non supporta i webinar ricorrenti. È necessario impostare una singola sessione tra ogni evento Marketo e [!DNL GoToWebinar] webinar.
 
 >[!TIP]
 >
->Se hai bisogno di ulteriore aiuto per il webinar GoTo, visita il loro [sito di aiuto](https://support.logmeininc.com/gotowebinar).
+>Se hai bisogno di ulteriore assistenza su [!DNL GoToWebinar], visita il [sito della Guida](https://support.logmeininc.com/gotowebinar).
 
 Ora, saltiamo su Marketo!
 
-1. Seleziona un evento. Fai clic su **Azioni evento** e scegli **Impostazioni evento**.
+1. Seleziona un evento. Fare clic su **[!UICONTROL Event Actions]** e scegliere **[!UICONTROL Event Settings]**.
 
    ![](assets/image2015-5-14-14-3a53-3a10.png)
 
@@ -67,7 +67,7 @@ Ora, saltiamo su Marketo!
    >
    >Il tipo di canale dell&#39;evento selezionato deve essere **webinar**.
 
-1. Scegli **VaiAlWebinar** dall&#39;elenco **Partner evento**.
+1. Scegliere **[!UICONTROL GoToWebinar]** dall&#39;elenco **[!UICONTROL Event Partner]**.
 
    ![](assets/image2015-5-14-14-3a55-3a20.png)
 
@@ -79,11 +79,11 @@ Ora, saltiamo su Marketo!
 
    ![](assets/image2015-5-14-14-3a57-3a31.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Eccellente! Ora l&#39;evento è sincronizzato e pianificato da **GoToWebinar**.
+1. Eccellente! Ora l&#39;evento è sincronizzato e pianificato da **[!DNL GoToWebinar]**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -105,9 +105,9 @@ Ora, saltiamo su Marketo!
 
    >[!TIP]
    >
-   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver atteso così a lungo non trovi ancora nulla, seleziona **Aggiorna dal provider webinar** dal menu Azioni evento nella scheda **Riepilogo** dell&#39;evento.
+   >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver atteso così a lungo non trovi ancora nulla, seleziona **[!UICONTROL Refresh from Webinar Provider]** dal menu [!UICONTROL Event Actions] nella scheda **[!UICONTROL Summary]** dell&#39;evento.
 
-Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio del flusso di stato del programma di modifica quando il nuovo stato è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Inoltre, assicurati di #1 il passaggio di flusso Stato programma di modifica e il passaggio di flusso Invia e-mail #2.
+Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso [!UICONTROL Change Program Status] quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurarsi inoltre di #1 [!UICONTROL Change Program Status] passaggio di flusso e #2. [!UICONTROL Send Email] passaggio di flusso
 
 ## Visualizzazione dello Schedule  {#viewing-the-schedule}
 
@@ -115,6 +115,6 @@ Nella visualizzazione della pianificazione del programma fare clic sulla voce de
 
 >[!NOTE]
 >
->Per modificare la pianificazione degli eventi, devi modificare il webinar su GoToWebinar.
+>Per cambiare la pianificazione dell&#39;evento, devi modificare il webinar il [!DNL GoToWebinar].
 
 ![](assets/image2015-5-14-15-3a3-3a13.png)

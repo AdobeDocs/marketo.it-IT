@@ -4,9 +4,9 @@ description: Aggiungere campi di collegamento oggetti personalizzati di Marketo 
 title: Aggiungi campi collegamento oggetto personalizzato Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 1dbe820e126f92ce5820e38414925605372a4b09
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -20,17 +20,17 @@ Quando si creano oggetti personalizzati, è necessario fornire campi di collegam
 
 >[!IMPORTANT]
 >
->Il Marketo Engage supporta un solo oggetto edge per ogni oggetto bridge nella relazione Many to Many (Da molti a molti). Nell’esempio fornito di seguito, ogni iscrizione può essere collegata solo a un singolo corso. Tuttavia, possono esserci molti oggetti ponte per ogni oggetto perimetrale, così come ci sono molte iscrizioni degli studenti a ogni corso (relazione molti-a-uno). Se i dati oggetto personalizzati sono strutturati in modo che per ogni record oggetto di Bridge siano presenti più record oggetto di Edge (uno-a-molti o molti-a-molti), è possibile creare più record oggetto di Bridge, ciascuno dei quali fa riferimento a un singolo record oggetto di Edge per rappresentare tali dati in Marketo.
+>Marketo Engage supporta solo un singolo oggetto edge per ogni oggetto bridge nella relazione Many to Many (Da molti a molti). Nell’esempio fornito di seguito, ogni iscrizione può essere collegata solo a un singolo corso. Tuttavia, possono esserci molti oggetti ponte per ogni oggetto perimetrale, così come ci sono molte iscrizioni degli studenti a ogni corso (relazione molti-a-uno). Se i dati oggetto personalizzati sono strutturati in modo che per ogni record oggetto di Bridge siano presenti più record oggetto di Edge (uno-a-molti o molti-a-molti), è possibile creare più record oggetto di Bridge, ciascuno dei quali fa riferimento a un singolo record oggetto di Edge per rappresentare tali dati in Marketo.
 
 ## Creare un campo collegamento per una struttura uno-a-molti {#create-a-link-field-for-a-one-to-many-structure}
 
 Di seguito viene illustrato come creare un campo collegamento in un oggetto personalizzato per una struttura uno-a-molti.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
-1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-2.png)
 
@@ -38,19 +38,19 @@ Di seguito viene illustrato come creare un campo collegamento in un oggetto pers
 
    ![](assets/add-marketo-custom-object-link-fields-3.png)
 
-1. Nella scheda **[!UICONTROL Campi]** fare clic su **[!UICONTROL Nuovo campo]**.
+1. Nella scheda **[!UICONTROL Fields]**, fare clic su **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Assegna un nome al campo del collegamento e aggiungi una [!UICONTROL Descrizione] facoltativa. Assicurarsi di selezionare il tipo di dati [!UICONTROL Collegamento].
+1. Assegna un nome al campo del collegamento e aggiungi un [!UICONTROL Description] facoltativo. Assicurarsi di selezionare il tipo di dati [!UICONTROL Link].
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Non potrai tornare indietro e creare, modificare o eliminare un [!UICONTROL collegamento] o un [!UICONTROL campo di deduplicazione] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
+   >Non sarà possibile tornare indietro e creare, modificare o eliminare [!UICONTROL Link] o [!UICONTROL Dedupe Field] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
 
-1. Seleziona se l&#39;[!UICONTROL oggetto collegamento] è per un [!UICONTROL lead] (persona) o una [!UICONTROL società].
+1. Seleziona se [!UICONTROL Link Object] è per un [!UICONTROL lead] (persona) o un [!UICONTROL company].
 
    ![](assets/add-marketo-custom-object-link-fields-6.png)
 
@@ -58,17 +58,17 @@ Di seguito viene illustrato come creare un campo collegamento in un oggetto pers
    >
    >Se scegli [!UICONTROL lead], nell&#39;elenco verranno visualizzati ID, indirizzo e-mail ed eventuali campi personalizzati.
    >
-   >Se scegli [!UICONTROL azienda], nell&#39;elenco verranno visualizzati l&#39;ID ed eventuali campi personalizzati.
+   >Se scegli [!UICONTROL company], nell&#39;elenco verranno visualizzati l&#39;ID ed eventuali campi personalizzati.
 
-1. Selezionare il [!UICONTROL campo collegamento] a cui connettersi come padre del nuovo campo.
+1. Selezionare [!UICONTROL Link Field] a cui connettersi come elemento padre del nuovo campo.
 
    ![](assets/add-marketo-custom-object-link-fields-7.png)
 
    >[!NOTE]
    >
-   >Nel campo collegamento sono supportati solo i tipi di campo stringa.
+   >Solo i tipi di campo stringa sono supportati in [!UICONTROL Link Field].
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-8.png)
 
@@ -80,11 +80,11 @@ Di seguito viene illustrato come creare un campo di collegamento in un oggetto i
 >
 >È necessario avere già creato l&#39;oggetto intermedio e tutti gli oggetti personalizzati a cui si desidera collegarlo.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 
-1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/add-marketo-custom-object-link-fields-10.png)
 
@@ -92,35 +92,35 @@ Di seguito viene illustrato come creare un campo di collegamento in un oggetto i
 
    ![](assets/add-marketo-custom-object-link-fields-11.png)
 
-1. Nella scheda **[!UICONTROL Campi]** fare clic su **[!UICONTROL Nuovo campo]**.
+1. Nella scheda **[!UICONTROL Fields]**, fare clic su **[!UICONTROL New Field]**.
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Devi creare due campi di collegamento. Creale una alla volta. Innanzitutto, assegna un nome al campo per i membri dell’elenco del database (ad esempio, leadID). Aggiungi una [!UICONTROL Descrizione] facoltativa. Assicurarsi di selezionare il [!UICONTROL collegamento] [!UICONTROL Tipo di dati].
+1. Devi creare due campi di collegamento. Creale una alla volta. Innanzitutto, assegna un nome al campo per i membri dell’elenco del database (ad esempio, leadID). Aggiungi un elemento [!UICONTROL Description] facoltativo. Assicurarsi di selezionare [!UICONTROL link] [!UICONTROL Data Type].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Non potrai tornare indietro e creare, modificare o eliminare un [!UICONTROL collegamento] o un [!UICONTROL campo di deduplicazione] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
+   >Non sarà possibile tornare indietro e creare, modificare o eliminare [!UICONTROL Link] o [!UICONTROL Dedupe Field] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
 
-1. Seleziona l&#39;[!UICONTROL oggetto collegamento] dal database; in questo caso, [!UICONTROL Lead].
+1. Selezionare [!UICONTROL Link Object] dal database; in questo caso, [!UICONTROL Lead].
 
    ![](assets/add-marketo-custom-object-link-fields-14.png)
 
-1. Selezionare il [!UICONTROL campo collegamento] a cui connettersi, in questo caso [!UICONTROL Id].
+1. Selezionare [!UICONTROL Link Field] a cui connettersi, in questo caso [!UICONTROL Id].
 
    ![](assets/add-marketo-custom-object-link-fields-15.png)
 
    >[!NOTE]
    >
-   >Nel [!UICONTROL campo collegamento] sono supportati solo i tipi di campo stringa.
+   >Solo i tipi di campo stringa sono supportati in [!UICONTROL Link Field].
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-marketo-custom-object-link-fields-16.png)
 
-1. Ripeti questa procedura per il secondo collegamento all’oggetto personalizzato, in questo esempio, courseID. Il nome dell&#39;[!UICONTROL oggetto collegamento] sarà course e il [!UICONTROL campo collegamento] sarà courseID. Poiché hai già creato e approvato l’oggetto personalizzato del corso, queste selezioni sono disponibili nei menu a discesa.
+1. Ripeti questa procedura per il secondo collegamento all’oggetto personalizzato, in questo esempio, courseID. Il nome [!UICONTROL Link Object] sarà corso e [!UICONTROL Link Field] sarà courseID. Poiché hai già creato e approvato l’oggetto personalizzato del corso, queste selezioni sono disponibili nei menu a discesa.
 
    ![](assets/add-marketo-custom-object-link-fields-17.png)
 

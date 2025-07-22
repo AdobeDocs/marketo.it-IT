@@ -4,16 +4,16 @@ description: Priorità, urgenza, punteggio relativo e elementi di maggiore rilev
 title: Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza
 exl-id: 391aae00-e4f5-4fb1-8728-f5224276dfc2
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
 
-# Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza {#priority-urgency-relative-score-and-best-bets}
+# Priorità, urgenza, punteggio relativo e [!DNL Best Bets] {#priority-urgency-relative-score-and-best-bets}
 
-Marketo Sales Insight seleziona i contatti e i lead migliori in base alla loro priorità. La priorità di un lead o di un contatto ha due componenti: urgenza e punteggio relativo.
+[!DNL Marketo Sales Insight] seleziona i lead e i contatti migliori in base alla loro priorità. La priorità di un lead o di un contatto ha due componenti: urgenza e punteggio relativo.
 
 ![](assets/priority-urgency-relative-score-and-best-bets-1.png)
 
@@ -37,9 +37,9 @@ Le stelle rappresentano il punteggio relativo: una misura di come il punteggio d
 
 Se due lead hanno la stessa urgenza, puoi utilizzare il punteggio relativo per indicare a quale lead si merita prima una telefonata. Quello con il punteggio relativo più alto potrebbe reagire più favorevolmente alla tua offerta rispetto a quella più bassa.
 
-## Elementi di maggiore rilevanza {#best-bets}
+## [!DNL Best Bets] {#best-bets}
 
-Gli elementi di maggiore rilevanza sono i lead e i contatti con il punteggio relativo e di urgenza più elevato. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
+[!DNL Best Bets] sono i tuoi lead e contatti con il punteggio più alto per urgenza e relativo. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Aggiungere immagini dei messaggi in-app - Documentazione di Marketo
 title: Aggiungi immagini messaggi in-app
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
-1. Selezionare il messaggio in-app e fare clic su **Modifica bozza**.
+1. Selezionare il messaggio in-app e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2016-5-4-10-3a20-3a14.png)
 
@@ -27,15 +27,15 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    ![](assets/image2016-5-4-10-3a21-3a33.png)
 
-1. Fai clic sulla scheda **Stile** e fai clic sull&#39;area immagine del modello.
+1. Fare clic sulla scheda **[!UICONTROL Style]** e quindi sull&#39;area immagine del modello.
 
    ![](assets/image2016-5-3-16-3a53-3a23.png)
 
-1. Fare clic su **Seleziona immagine**.
+1. Fai clic su **[!UICONTROL Select Image]**.
 
    ![](assets/image2016-5-6-8-3a53-3a55.png)
 
-1. Seleziona l&#39;immagine da Design Studio e fai clic su **Seleziona**.
+1. Selezionare l&#39;immagine da Design Studio e fare clic su **[!UICONTROL Select]**.
 
    ![](assets/image2016-5-6-8-3a58-3a40.png)
 
@@ -47,11 +47,11 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    ![](assets/image2016-5-6-9-3a0-3a16.png)
 
-1. Fare clic su **Rimuovi**. Ora puoi sceglierne un altro.
+1. Fare clic su **[!UICONTROL Remove]**. Ora puoi sceglierne un altro.
 
    ![](assets/image2016-5-6-9-3a1-3a3.png)
 
-1. Con l’immagine desiderata nella sezione Proprietà immagine, seleziona un pulsante per adattarla a altezza, larghezza o entrambe.
+1. Con l&#39;immagine desiderata in [!UICONTROL Image Properties], selezionare un pulsante per adattarla all&#39;immagine in base all&#39;altezza, alla larghezza o a entrambi.
 
    ![](assets/image2016-5-6-9-3a4-3a47.png)
 
@@ -85,7 +85,7 @@ Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 
    >[!NOTE]
    >
-   >Per le azioni di tocco relative a immagini, pulsanti o sfondi, puoi impostare azioni diverse per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita o selezionare **Nessuno**.
+   >Per le azioni di tocco relative a immagini, pulsanti o sfondi, puoi impostare azioni diverse per le piattaforme Apple e Android. Ad esempio, i collegamenti profondi vengono gestiti in modo diverso per Apple e Android. Se il messaggio viene inviato solo a una piattaforma o all&#39;altra, lasciare l&#39;altra nell&#39;impostazione predefinita o selezionare **[!UICONTROL None]**.
 
 Ottimo lavoro! È ora di [creare il testo per il messaggio in-app](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/create-in-app-message-text.md).
 

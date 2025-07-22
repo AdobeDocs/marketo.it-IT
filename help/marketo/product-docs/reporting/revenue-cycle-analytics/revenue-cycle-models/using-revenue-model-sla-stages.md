@@ -1,68 +1,68 @@
 ---
 unique-page-id: 4718668
-description: Utilizzo degli stadi SLA del modello di ricavo - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo degli stadi SLA del modello ricavi
+description: Utilizzo degli stadi di SLA del modello di ricavo - Documenti Marketo - Documentazione del prodotto
+title: Utilizzo degli stadi di SLA del modello di ricavo
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
 
-# Utilizzo degli stadi SLA del modello ricavi {#using-revenue-model-sla-stages}
+# Utilizzo degli stadi di SLA del modello di ricavo {#using-revenue-model-sla-stages}
 
-SLA sta per &quot;service level agreement&quot; (accordo sul livello di servizio). Questi stadi vengono utilizzati quando esiste un tempo massimo definito in cui un lead deve essere valutato o elaborato prima di procedere o uscire dal processo.
+SLA sta per service level agreement. Questi stadi vengono utilizzati quando esiste un tempo massimo definito in cui un lead deve essere valutato o elaborato prima di procedere o uscire dal processo.
 
 >[!TIP]
 >
 >È consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo con i colleghi.
 
-## Aggiungi una fase SLA {#add-an-sla-stage}
+## Aggiungere Una Fase Di SLA {#add-an-sla-stage}
 
-1. Per aggiungere una nuova fase del contratto di servizio del modello del ciclo dei ricavi, fare clic sul pulsante **Analytics** nella schermata Home di My Marketo.
+1. Per aggiungere una nuova fase di SLA Revenue Cycle Model, fare clic sul pulsante **[!UICONTROL Analytics]** nella schermata iniziale di [!UICONTROL My Marketo].
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Nella sezione Analytics, seleziona il modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Nella sezione [!UICONTROL Analytics], seleziona il modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-15-3a6-3a30.png)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Per aggiungere una nuova fase del contratto di servizio, fai clic sul pulsante **SLA**, quindi trascina e rilascia in qualsiasi punto all&#39;interno dell&#39;area di lavoro.
+1. Per aggiungere una nuova fase di SLA, fare clic sul pulsante **[!UICONTROL SLA]**, quindi trascinare e rilasciare in qualsiasi punto all&#39;interno dell&#39;area di lavoro.
 
    ![](assets/image2015-4-27-15-3a32-3a10.png)
 
-1. È possibile modificare il **Nome**, aggiungere una **Descrizione** e regolare il **Tipo** dopo l&#39;aggiunta di una fase. Al momento puoi anche selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
+1. È possibile modificare **[!UICONTROL Name]**, aggiungere **[!UICONTROL Description]** e regolare **[!UICONTROL Type]** dopo aver aggiunto una fase. Al momento puoi anche selezionare **[[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
 
    ![](assets/image2015-4-27-17-3a0-3a39.png)
 
-## Modificare una fase del contratto di servizio {#edit-an-sla-stage}
+## Modificare una fase di SLA {#edit-an-sla-stage}
 
-Quando si seleziona un&#39;icona di fase SLA è possibile modificare il Nome, aggiungere una Descrizione e regolare il Tipo. Puoi anche selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Quando selezioni un&#39;icona di SLA stage puoi modificare **[!UICONTROL Name]**, aggiungere un **[!UICONTROL Description]** e regolare **[!UICONTROL Type]**. È inoltre possibile selezionare [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Fare clic sull&#39;icona di una fase SLA.
+1. Fare clic su un&#39;icona di SLA stage.
 
    ![](assets/image2015-4-27-15-3a45-3a25.png)
 
-1. Fai clic sui campi **Nome** e **Descrizione** per modificarne il contenuto.
+1. Fare clic nei campi **[!UICONTROL Name]** e **[!UICONTROL Description]** per modificarne il contenuto.
 
    ![](assets/image2015-4-27-15-3a48-3a37.png)
 
-1. Selezionare il menu a discesa **Tipo** da modificare.
+1. Selezionare il menu a discesa **[!UICONTROL Type]** da modificare.
 
    ![](assets/image2015-4-27-15-3a51-3a27.png)
 
-## Eliminare Una Fase SLA {#delete-an-sla-stage}
+## Eliminare Una Fase Di SLA {#delete-an-sla-stage}
 
-1. È possibile eliminare una fase SLA facendo clic con il pulsante destro del mouse o facendo clic tenendo premuto il tasto Ctrl sull&#39;icona di una fase SLA.
+1. È possibile eliminare una fase di SLA facendo clic con il pulsante destro del mouse o facendo clic tenendo premuto il tasto Ctrl sull&#39;icona di una fase di SLA.
 
    ![](assets/image2015-4-27-16-3a2-3a47.png)
 
-1. È inoltre possibile eliminare una fase facendo clic su di essa, quindi nel menu a discesa Azioni fase selezionare Elimina.
+1. È inoltre possibile eliminare una fase facendo clic su di essa, quindi nel menu a discesa **[!UICONTROL Stage Actions]** selezionare **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-27-17-3a20-3a41.png)

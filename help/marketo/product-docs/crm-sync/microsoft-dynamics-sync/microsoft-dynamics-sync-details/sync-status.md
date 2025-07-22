@@ -4,24 +4,24 @@ description: Stato di sincronizzazione - Documentazione di Marketo - Documentazi
 title: Stato sincronizzazione
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
 # Stato sincronizzazione {#sync-status}
 
-Nelle schede Stato sincronizzazione ed Errori di sincronizzazione è possibile mantenere le schede della velocità effettiva corrente e del backlog del processo di sincronizzazione.
+Nelle schede [!UICONTROL Sync Status] e [!UICONTROL Sync Errors] è possibile mantenere le schede della velocità effettiva corrente e del backlog del processo di sincronizzazione.
 
-## Scheda Stato sincronizzazione {#sync-status-tab}
+## Scheda [!UICONTROL Sync Status] {#sync-status-tab}
 
-1. Fai clic su **[!UICONTROL Amministratore]**, quindi su **[!UICONTROL Microsoft Dynamics]**.
+1. Fare clic su **[!UICONTROL Admin]** e **[!UICONTROL Microsoft Dynamics]**.
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Stato sincronizzazione]**.
+1. Fare clic sulla scheda **[!UICONTROL Sync Status]**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 
@@ -35,7 +35,7 @@ Nelle schede Stato sincronizzazione ed Errori di sincronizzazione è possibile m
 
    ![](assets/image2016-1-22-10-3a51-3a10.png)
 
-1. Fai clic sull&#39;elenco a discesa **[!UICONTROL Visualizza]** e seleziona **[!UICONTROL Ultima ora]** per visualizzare le informazioni sulla velocità effettiva.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL View]** e selezionare **[!UICONTROL Last Hour]** per visualizzare le informazioni sulla velocità effettiva.
 
    ![](assets/image2016-5-19-10-3a20-3a7.png)
 
@@ -45,9 +45,9 @@ Nelle schede Stato sincronizzazione ed Errori di sincronizzazione è possibile m
 
    >[!NOTE]
    >
-   >Nella vista Ultima ora, le colonne Inserti e aggiornamenti mostrano N/D. Questo è il comportamento previsto.
+   >Quando si visualizza la visualizzazione [!UICONTROL Last Hour], le colonne [!UICONTROL Inserts] e [!UICONTROL Updates] mostrano N/D. Questo è il comportamento previsto.
 
-## Scheda Errori di sincronizzazione {#sync-errors-tab}
+## Scheda [!UICONTROL Sync Errors] {#sync-errors-tab}
 
 Sfogliare, cercare o esportare i lead (e altri oggetti) che non sono stati sincronizzati con dettagli quali operazione, direzione, codice di errore e messaggio di errore.
 

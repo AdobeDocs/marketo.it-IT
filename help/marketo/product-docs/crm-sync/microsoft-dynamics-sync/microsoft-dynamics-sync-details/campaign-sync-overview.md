@@ -3,42 +3,42 @@ description: Panoramica sulla sincronizzazione di Campaign - Documentazione di M
 title: Panoramica sulla sincronizzazione di Campaign
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
 # Panoramica sulla sincronizzazione di Campaign {#campaign-sync-overview}
 
-Come parte di Campaign Sync, gli utenti possono impostare l’automazione per funzionare in caso di appartenenza a una campagna Dynamics. I lead qualificati per comportamenti o dati demografici specifici possono far parte delle campagne Microsoft.
+Come parte di Campaign Sync, gli utenti possono impostare l&#39;automazione per funzionare sull&#39;iscrizione a una campagna [!DNL Dynamics]. I lead qualificati per comportamenti o dati demografici specifici possono far parte delle campagne Microsoft.
 
 >[!PREREQUISITES]
 >
->Aggiornamento alla versione più recente del plug-in Dynamics per Marketo Engage.
+>Aggiornamento alla versione più recente del plug-in [!DNL Dynamics] per Marketo.
 
 Sono disponibili le seguenti azioni di flusso:
 
-* [!UICONTROL Aggiungi a Microsoft Campaign]
-* [!UICONTROL Rimuovi da Microsoft Campaign]
+* [!UICONTROL Add to Microsoft Campaign]
+* [!UICONTROL Remove from Microsoft Campaign]
 
 >[!NOTE]
 >
->**[!UICONTROL Rimuovi da Microsoft Campaign]** rimuoverà solo le persone aggiunte tramite azioni di flusso in Marketo.
+>**[!UICONTROL Remove from Microsoft Campaign]** rimuoverà solo le persone aggiunte mediante azioni di flusso in Marketo.
 
 Sono inoltre disponibili due trigger:
 
-* [!UICONTROL Aggiunto a Microsoft Campaign]
-* [!UICONTROL Rimosso da Microsoft Campaign]
+* [!UICONTROL Added to Microsoft Campaign]
+* [!UICONTROL Removed from Microsoft Campaign]
 
-I trigger verranno eseguiti in base alle azioni dell&#39;azione di flusso di Marketo &quot;[!UICONTROL Aggiungi a campagna Microsoft]&quot; e &quot;[!UICONTROL Rimosso da campagna Microsoft]&quot;.
+I trigger verranno eseguiti in base alle azioni dell&#39;azione di flusso di Marketo &quot;[!UICONTROL Add to Microsoft Campaign]&quot; e &quot;[!UICONTROL Removed from Microsoft Campaign]&quot;.&quot;
 
 >[!NOTE]
 >
->Assicurati che la sincronizzazione di Campaign sia funzionante e che la campagna non sia inattiva in Microsoft Dynamics.
+>Verificare che la sincronizzazione della campagna sia funzionante e che la campagna non sia inattiva in Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >
->* [Abilita sincronizzazione campagne](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md){target="_blank"}
->* [Aggiungi o rimuovi persone dalla tua campagna Dynamics](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md){target="_blank"}
+>* [Abilita sincronizzazione campagne](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/microsoft-dynamics-sync-details/enable-campaign-sync.md)
+>* [Aggiungi o rimuovi persone dalla tua [!DNL Dynamics] campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/add-or-remove-people-from-your-dynamics-campaign.md)

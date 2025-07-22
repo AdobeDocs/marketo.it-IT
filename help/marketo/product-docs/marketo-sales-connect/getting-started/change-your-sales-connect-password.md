@@ -3,9 +3,9 @@ description: Modifica della password di connessione alle vendite - Documentazion
 title: Modifica password di connessione vendite
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -16,15 +16,15 @@ Vuoi cambiare la password? Ecco come.
 
 ## Modifica La Password Durante L&#39;Accesso {#change-your-password-while-signed-in}
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/change-your-sales-connect-password-1.png)
 
-1. Per impostazione predefinita, viene aperta la pagina Il mio profilo. In Dettagli account selezionare la casella di controllo **Cambia password**.
+1. Per impostazione predefinita, viene aperta la pagina [!UICONTROL My Profile]. In [!UICONTROL Account Details] selezionare la casella di controllo **[!UICONTROL Change password]**.
 
    ![](assets/change-your-sales-connect-password-2.png)
 
-1. Immettere la password corrente. Quindi inserisci il nuovo e digitalo di nuovo assicurandoti che corrisponda. Al termine, fai clic su **Salva**.
+1. Immettere la password corrente. Quindi inserisci il nuovo e digitalo di nuovo assicurandoti che corrisponda. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/change-your-sales-connect-password-3.png)
 
@@ -39,15 +39,15 @@ Vuoi cambiare la password? Ecco come.
 
 ## Modifica della password dopo la disconnessione {#change-your-password-while-signed-out}
 
-1. Passare alla pagina di accesso [Sales Connect](https://toutapp.com/login) e fare clic su **Password dimenticata**.
+1. Passare alla pagina di accesso [Sales Connect](https://toutapp.com/login) e fare clic su **[!UICONTROL Forgot password?]**.
 
    ![](assets/change-your-sales-connect-password-4.png)
 
-1. Immettere l&#39;indirizzo di posta elettronica associato all&#39;account e fare clic su **Invia reimpostazione e-mail**.
+1. Immettere l&#39;indirizzo di posta elettronica associato all&#39;account e fare clic su **[!UICONTROL Send Reset Email]**.
 
    ![](assets/change-your-sales-connect-password-5.png)
 
-1. Invieremo un’e-mail per verificare che il proprietario dell’account desideri modificare la password. Fare clic su **Reimposta password**.
+1. Invieremo un’e-mail per verificare che il proprietario dell’account desideri modificare la password. Fai clic su **[!UICONTROL Reset Password]**.
 
    ![](assets/change-your-sales-connect-password-6.png)
 
@@ -55,6 +55,6 @@ Vuoi cambiare la password? Ecco come.
    >
    >Assicurati di controllare anche la cartella Spam, in quanto a volte questa e-mail può finire lì.
 
-1. Immettere e confermare la nuova password. Al termine, fai clic su **Imposta password**.
+1. Immettere e confermare la nuova password. Al termine, fai clic su **[!UICONTROL Set Password]**.
 
    ![](assets/change-your-sales-connect-password-7.png)

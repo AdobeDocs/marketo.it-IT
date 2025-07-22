@@ -4,9 +4,9 @@ description: Eliminare un modulo - Documentazione di Marketo - Documentazione de
 title: Eliminare un modulo
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se si dispone di un modulo non necessario e non utilizzato, è possibile eliminarlo. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -23,7 +23,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
 
    ![](assets/image2014-9-15-12-3a1-3a18.png)
 
-1. In **Azioni modulo**, fare clic su **Elimina modulo**.
+1. In **[!UICONTROL Form Actions]**, fare clic su **[!UICONTROL Delete Form]**.
 
    ![](assets/image2014-9-15-12-3a1-3a27.png)
 
@@ -31,7 +31,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
    >
    >Ricordati di rimuovere il modulo da una o più pagine di destinazione che lo utilizzano. Inoltre, verifica che il modulo non venga utilizzato su un sito Web pubblico.
 
-1. Confermare facendo clic su **Elimina**.
+1. Confermare facendo clic su **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-15-12-3a1-3a37.png)
 

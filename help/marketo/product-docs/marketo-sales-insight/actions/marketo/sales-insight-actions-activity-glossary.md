@@ -1,20 +1,20 @@
 ---
-description: Glossario delle attività di approfondimento sulle vendite - Documenti Marketo - Documentazione del prodotto
-title: Glossario delle attività Analisi vendite
+description: Glossario delle attività di vendita Insight Actions - Documentazione di Marketo - Documentazione del prodotto
+title: Glossario attività azioni Insight vendite
 exl-id: fd0f632c-6f0d-49f9-a805-0730595c81fd
 feature: Sales Insight Actions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '307'
 ht-degree: 5%
 
 ---
 
-# Glossario delle attività Analisi vendite {#sales-insight-actions-activity-glossary}
+# Glossario attività [!DNL Sales Insight Actions] {#sales-insight-actions-activity-glossary}
 
-In Azioni approfondimento vendite, quando un venditore: aggiunge un lead a una campagna di vendita, invia un’e-mail di vendita o effettua una chiamata di vendita in uscita, verrà registrato nella cronologia delle attività di Marketo per quel lead. Inoltre, quando il lead si impegna con e-mail, si apre, fa clic e risponde, viene registrato anche.
+In [!DNL Sales Insight Actions], quando un venditore: aggiunge un lead a una campagna di vendita, invia un&#39;e-mail di vendita o effettua una chiamata di vendita in uscita, verrà registrato nella cronologia delle attività di Marketo per tale lead. Inoltre, quando il lead si impegna con e-mail, si apre, fa clic e risponde, viene registrato anche.
 
-Le attività seguenti verranno registrate in Marketo da Sales Insight Actions.
+Le attività seguenti verranno registrate in Marketo da [!DNL Sales Insight Actions].
 
 >[!NOTE]
 >
@@ -28,173 +28,173 @@ Le attività seguenti verranno registrate in Marketo da Sales Insight Actions.
   <th>Attributo</th>
  </tr>
  <tr>
-  <th rowspan="9">Invia e-mail vendite</th>
-  <td>Inviato da</td>
+  <th rowspan="9">[!UICONTROL Send Sales Email]</th>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID modello</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL modello vendite</td>
+  <td>[!UICONTROL Sales Template URL]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Nome modello di vendita</td>
+  <td>[!UICONTROL Sales Template Name]</td>
  </tr>
  <tr>
-  <td>Oggetto e-mail</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="9">Apri e-mail vendite</th>
-  <td>Inviato da</td>
- </tr>
- <tr>
-  <td>Origine</td>
- </tr>
- <tr>
-  <td>ID modello</td>
- </tr>
- <tr>
-  <td>URL modello vendite</td>
- </tr>
- <tr>
-  <td>URL campagna di vendita</td>
- </tr>
- <tr>
-  <td>Nome modello di vendita</td>
- </tr>
- <tr>
-  <td>Oggetto e-mail</td>
- </tr>
- <tr>
-  <td>Nome campagna di vendita</td>
- </tr>
- <tr>
-  <td>ID persona di vendita Marketo</td>
- </tr>
- <tr>
-  <th rowspan="10">E-mail vendita selezionata</th>
-  <td>Collegamento</td>
- </tr>
- <tr>
-  <td>Inviato da</td>
+  <th rowspan="9">[!UICONTROL Open Sales Email]</th>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID modello</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL modello vendite</td>
+  <td>[!UICONTROL Sales Template URL]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Nome modello di vendita</td>
+  <td>[!UICONTROL Sales Template Name]</td>
  </tr>
  <tr>
-  <td>Oggetto e-mail</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="10">[!UICONTROL Clicked Sales Email]</th>
+  <td>[!UICONTROL Link]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sent By]</td>
+ </tr>
+ <tr>
+  <td>Origine</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Template ID]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Template URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Template Name]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Email Subject]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign Name]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
 <tr>
-  <th rowspan="3">Risposta all'e-mail di vendita</th>
-  <td>Ricevuto da</td>
+  <th rowspan="3">[!UICONTROL Replied to Sales Email]</th>
+  <td>[!UICONTROL Received By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="11">Chiamata di vendita ricevuta</th>
-  <td>Chiamata di vendita effettuata da</td>
+  <th rowspan="11">[!UICONTROL Received Sales Call]</th>
+  <td>[!UICONTROL Sales Call Made By]</td>
  </tr>
  <tr>
-  <td>Stato della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>Oggetto della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Numero di telefono vendita chiamato</td>
+  <td>[!UICONTROL Sales Phone Number Called]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>Durata della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Duration]</td>
  </tr>
  <tr>
-  <td>URL registrazione chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Recording URL]</td>
  </tr>
   <tr>
-  <td>Chiamata di vendita ricevuta da</td>
+  <td>[!UICONTROL Sales Call Answered By]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="6">Aggiungi a campagna di vendita</th>
-  <td>Nome campagna di vendita</td>
+  <th rowspan="6">[!UICONTROL Add to Sales Campaign]</th>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Stato della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Inviato da</td>
- </tr>
- <tr>
-  <td>Origine</td>
- </tr>
- <tr>
-  <td>ID campagna di vendita</td>
- </tr>
- <tr>
-  <th rowspan="6">Rimuovi da campagna di vendita</th>
-  <td>Nome campagna di vendita</td>
- </tr>
- <tr>
-  <td>Stato della chiamata di vendita</td>
- </tr>
- <tr>
-  <td>URL campagna di vendita</td>
- </tr>
- <tr>
-  <td>Inviato da</td>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign ID]</td>
+ </tr>
+ <tr>
+  <th rowspan="6">[!UICONTROL Remove from Sales Campaign]</th>
+  <td>[!UICONTROL Sales Campaign Name]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Call Status]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign URL]</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sent By]</td>
+ </tr>
+ <tr>
+  <td>Origine</td>
+ </tr>
+ <tr>
+  <td>[!UICONTROL Sales Campaign ID]</td>
  </tr>
  <tr>
   <th rowspan="5">E-mail di vendita non recapitate</th>
@@ -214,7 +214,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Insight Actions.
  </tr>
 </table>
 
-## Descrizione {#descriptions}
+## Descrizioni {#descriptions}
 
 <table> 
  <tr>
@@ -223,88 +223,88 @@ Le attività seguenti verranno registrate in Marketo da Sales Insight Actions.
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>Dettagli</strong></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
    <td>Dettagli del messaggio di errore di mancato recapito.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-mail</strong></td> 
+   <td><strong>[!UICONTROL Email]</strong></td> 
    <td>Indirizzo e-mail non recapitato.</td> 
   </tr> 
   <tr> 
-   <td><strong>Collegamento</strong></td> 
+   <td><strong>[!UICONTROL Link]</strong></td> 
    <td>URL su cui è stato fatto clic.</td> 
   </tr> 
   <tr> 
-   <td><strong>ID persona di vendita Marketo</strong></td> 
-   <td>ID univoco per il record della persona nelle azioni di approfondimento sulle vendite.</td> 
+   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td> 
+   <td>ID univoco del record persona in [!DNL Sales Insight Actions].</td> 
   </tr> 
   <tr> 
-   <td><strong>Ricevuto da</strong></td> 
+   <td><strong>[!UICONTROL Received By]</strong></td> 
    <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
   </tr>
   <tr> 
-   <td><strong>Chiamata di vendita ricevuta da</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td> 
    <td>Nome della persona che ha risposto alla chiamata.</td> 
   </tr>
   <tr> 
-   <td><strong>Durata della chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Duration]</strong></td> 
    <td>Durata della chiamata in secondi.</td> 
   </tr>
   <tr> 
-   <td><strong>Chiamata di vendita effettuata da</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
    <td>Indirizzo e-mail del venditore che ha effettuato la chiamata.</td> 
   </tr>
   <tr> 
-   <td><strong>URL registrazione chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td> 
    <td>URL della registrazione delle chiamate.</td> 
   </tr>
   <tr> 
-   <td><strong>Stato della chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Status]</strong></td> 
    <td>Salva lo stato finale della chiamata, che include: completato, nessuna risposta, annullato, non riuscito.</td> 
   </tr>
   <tr> 
-   <td><strong>Oggetto della chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Subject]</strong></td> 
    <td>Risultato della chiamata selezionato da un utente di vendita nella composizione.</td> 
   </tr>
   <tr> 
-   <td><strong>ID campagna di vendita</strong></td> 
-   <td>ID univoco della risorsa della campagna di vendita nelle azioni di approfondimento sulle vendite.</td> 
+   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td> 
+   <td>ID univoco della risorsa della campagna di vendita in [!DNL Sales Insight Actions].</td> 
   </tr>
   <tr> 
-   <td><strong>Nome campagna di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td> 
    <td>Nome della campagna di vendita.</td> 
   </tr>
   <tr> 
-   <td><strong>URL campagna di vendita</strong></td> 
-   <td>URL azioni approfondimento vendite per campagna di vendita.</td> 
+   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td> 
+   <td>[!DNL Sales Insight Actions] URL per campagna di vendita.</td> 
   </tr>
   <tr> 
-   <td><strong>Oggetto e-mail vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Email Subject]</strong></td> 
    <td>Riga dell'oggetto dell'e-mail seguita da un ID univoco (ad es., Oggetto (SIA-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>Numero di telefono vendita chiamato</strong></td> 
+   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td> 
    <td>Numero di telefono chiamato dalle vendite.</td> 
   </tr>
   <tr> 
-   <td><strong>Nome modello di vendita</strong></td> 
-   <td>Nome del modello e-mail in Azioni approfondimento vendite.</td> 
+   <td><strong>[!UICONTROL Sales Template Name]</strong></td> 
+   <td>Nome del modello e-mail in [!DNL Sales Insight Actions].</td> 
   </tr>
   <tr> 
-   <td><strong>URL modello vendite</strong></td> 
-   <td>URL azioni approfondimento vendite per modello e-mail.</td> 
+   <td><strong>[!UICONTROL Sales Template URL]</strong></td> 
+   <td>[!DNL Sales Insight Actions] URL per modello e-mail.</td> 
   </tr>
   <tr> 
-   <td><strong>Inviato da</strong></td>
+   <td><strong>[!UICONTROL Sent By]</strong></td>
    <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
   </tr> 
   <tr> 
    <td><strong>Origine</strong></td> 
-   <td>Source dell’attività. Verrà impostato come "Tout" per le attività di approfondimento sulle vendite precedenti alla versione di ottobre 2021. Sarà "App di vendita" per le attività di approfondimento sulle vendite dopo la versione di ottobre 2021.</td>
+   <td>Source dell’attività. Verrà impostato come "Tout" per le attività [!DNL Sales Insight Actions] precedenti alla versione di ottobre 2021. Sarà "App di vendita" per le attività [!DNL Sales Insight Actions] dopo la versione di ottobre 2021.</td>
   </tr> 
   <tr> 
-   <td><strong>ID modello</strong></td> 
-   <td>Quando l’origine è Tout, l’ID modello sarà l’ID modello Marketo Sales Insight Actions. Usare questa opzione per eseguire il targeting di un modello specifico invece della riga dell'oggetto, che potrebbe esistere in più modelli.
+   <td><strong>[!UICONTROL Template ID]</strong></td> 
+   <td>Quando l'origine è Tout, l'ID modello sarà l'ID modello [!DNL Marketo Sales Insight Actions]. Usare questa opzione per eseguire il targeting di un modello specifico invece della riga dell'oggetto, che potrebbe esistere in più modelli.
 </td> 
   </tr> 
  </tbody> 

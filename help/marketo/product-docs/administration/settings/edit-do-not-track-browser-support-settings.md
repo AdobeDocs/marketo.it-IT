@@ -4,10 +4,10 @@ description: Modificare le impostazioni di supporto del browser "Do Not Track" (
 title: Modifica impostazioni di supporto browser "Do Not Track" (Non tenere traccia)
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 0%
+source-wordcount: '120'
+ht-degree: 1%
 
 ---
 
@@ -21,21 +21,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->&quot;Do Not Track&quot; (Non tracciare) sarà impostato su Ignore (Ignora) per impostazione predefinita, quindi se questo è ciò che desideri, non dovrai adottare alcuna misura.
+>&quot;Do Not Track&quot; sarà impostato su **[!UICONTROL Ignore]** per impostazione predefinita, quindi se è questo il tuo scopo, non dovrai eseguire alcuna operazione.
 
-1. Fai clic su **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-1.png)
 
-1. Fare clic su **[!UICONTROL Munchkin]**.
+1. Fai clic su **[!UICONTROL Munchkin]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-2.png)
 
-1. In **[!UICONTROL Individuazione persona]**, fare clic su **[!UICONTROL Modifica]**.
+1. In **[!UICONTROL Person Tracking]**, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Seleziona **[!UICONTROL Supporto]** e fai clic su **[!UICONTROL Salva]**.
+1. Selezionare **[!UICONTROL Support]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

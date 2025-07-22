@@ -4,9 +4,9 @@ description: Abilita sincronizzazione oggetti personalizzati non in inglese - Do
 title: Abilita sincronizzazione oggetti personalizzati non inglese
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '138'
 ht-degree: 1%
 
 ---
@@ -25,31 +25,31 @@ Se l&#39;utente di Marketo Sync è impostato su una lingua diversa dall&#39;ingl
 
    ![](assets/image2014-12-10-13-3a18-3a1.png)
 
-1. Sotto il nome utente, vai a **[!UICONTROL Configurazione]**.
+1. Sotto il nome utente, vai a **[!UICONTROL Setup]**.
 
    ![](assets/image2014-12-10-13-3a18-3a11.png)
 
-1. In **[!UICONTROL Informazioni personali]**, fare clic su **[!UICONTROL Informazioni personali]**.
+1. In **[!UICONTROL Personal Information]**, fare clic su **[!UICONTROL My Personal Information]**.
 
    ![](assets/image2014-12-10-13-3a18-3a22.png)
 
-1. Fai clic su **[!UICONTROL Modifica]**.
+1. Fai clic su **[!UICONTROL Edit]**.
 
    ![](assets/image2014-12-10-13-3a18-3a32.png)
 
-1. Cambia la **[!UICONTROL lingua]** in **[!UICONTROL inglese]**.
+1. Cambia **[!UICONTROL Language]** in **[!UICONTROL English]**.
 
    ![](assets/image2014-12-10-13-3a18-3a45.png)
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-10-13-3a18-3a55.png)
 
-1. In Marketo, in **[!UICONTROL Amministratore]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Oggetti]**, fai clic su **[!UICONTROL Aggiorna schema]**.
+1. In Marketo, in **[!UICONTROL Admin]** > **[!UICONTROL Salesforce]** > **[!UICONTROL Objects]**, fare clic su **[!UICONTROL Refresh Schema]**.
 
    ![](assets/image2014-12-10-13-3a19-3a6.png)
 
-1. L&#39;elenco degli oggetti verrà richiamato in inglese. Selezionare l&#39;oggetto desiderato e fare clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. L&#39;elenco degli oggetti verrà richiamato in inglese. Selezionare l&#39;oggetto desiderato e fare clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/image2014-12-10-13-3a19-3a16.png)
 
@@ -57,7 +57,7 @@ Se l&#39;utente di Marketo Sync è impostato su una lingua diversa dall&#39;ingl
 
    ![](assets/image2014-12-10-13-3a19-3a26.png)
 
-1. Ora torna a Salesforce e utilizza i passaggi precedenti per ripristinare la lingua preferita dell’utente di sincronizzazione.
+1. Ora torna a [!DNL Salesforce] e utilizza i passaggi precedenti per ripristinare la lingua preferita dell&#39;utente di sincronizzazione.
 
 >[!NOTE]
 >

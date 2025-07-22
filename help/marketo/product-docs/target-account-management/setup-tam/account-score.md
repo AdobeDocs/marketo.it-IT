@@ -4,16 +4,16 @@ description: Punteggio account - Documentazione di Marketo - Documentazione del 
 title: Punteggio account
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '334'
 ht-degree: 0%
 
 ---
 
-# Punteggio account {#account-score}
+# [!UICONTROL Account Score] {#account-score}
 
-Il punteggio dell’account è una parte vitale della gestione dell’account Target. Consente di determinare il livello di coinvolgimento degli account.
+Il punteggio dell&#39;account è una parte vitale di [!UICONTROL Target Account Management]. Consente di determinare il livello di coinvolgimento degli account.
 
 ## Cos’è il punteggio dell’account? {#what-is-account-scoring}
 
@@ -57,30 +57,30 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 Dopo aver configurato il punteggio del lead, procedi seguendo i passaggi seguenti.
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/account-score-1.png)
 
-1. Fare clic su **Gestione account di destinazione**.
+1. Fai clic su **[!UICONTROL Target Account Management]**.
 
    ![](assets/account-score-2.png)
 
-1. In Campi punteggio fare clic su **Modifica**.
+1. In [!UICONTROL Scoring Fields], fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/account-score-3.png)
 
    >[!NOTE]
    >
-   >Puoi scegliere fino a **cinque** campi per calcolare il punteggio dell&#39;account.
+   >Puoi scegliere fino a **cinque** campi per calcolare [!UICONTROL Account Score].
 
-1. Immettere il nome del punteggio dell&#39;account, fare clic sull&#39;elenco a discesa **Seleziona punteggio persona** e selezionare il punteggio corrispondente.
+1. Immettere il nome di [!UICONTROL Account Score], fare clic sull&#39;elenco a discesa **[!UICONTROL Select Person Score]** e selezionare il punteggio corrispondente.
 
    ![](assets/account-score-4.png)
 
-1. Fai clic su **+Aggiungi** per aggiungere altri punteggi.
+1. Fare clic su **[!UICONTROL +Add]** per aggiungere altri punteggi.
 
    ![](assets/account-score-5.png)
 
-1. Aggiungi tutti i punteggi desiderati. Al termine, fai clic su **Salva**.
+1. Aggiungi tutti i punteggi desiderati. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/account-score-6.png)

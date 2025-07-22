@@ -4,9 +4,9 @@ description: Trovare tutti i lead in un modello di ciclo dei ricavi - Documenti 
 title: Trovare tutti i lead in un modello di ciclo dei ricavi
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -19,29 +19,29 @@ Utilizzando gli elenchi avanzati, puoi trovare facilmente tutti i membri del mod
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Con la smart list selezionata, fai clic sulla scheda **Smart List**.
+1. Dopo aver selezionato la smart list, fare clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/image2015-4-29-14-3a6-3a36.png)
 
-1. Trova il filtro **Membro del modello ricavi** e trascinalo nell&#39;area di lavoro.
+1. Trovare il filtro **[!UICONTROL Member of Revenue Model]** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/image2015-4-29-14-3a12-3a33.png)
 
-1. Seleziona un **modello**.
+1. Seleziona **[!UICONTROL Model]**.
 
    ![](assets/image2015-5-13-18-3a2-3a23.png)
 
    Questo ti darebbe tutti i contatti in quel modello, indipendentemente dallo stadio. In genere è necessario un passaggio specifico. Utilizza invece il seguente filtro.
 
-1. Trova il filtro **Fase ricavi** e trascinalo nell&#39;area di lavoro.
+1. Trovare il filtro **[!UICONTROL Revenue Stage]** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/image2015-5-13-17-3a27-3a0.png)
 
-1. Seleziona una **Fase**.
+1. Seleziona **[!UICONTROL Stage]**.
 
    ![](assets/image2015-5-13-17-3a31-3a9.png)
 
-1. Passa alla scheda **Lead** per visualizzare i risultati.
+1. Passa alla scheda **[!UICONTROL Leads]** per visualizzare i risultati.
 
    ![](assets/2.png)
 

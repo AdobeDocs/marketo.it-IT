@@ -1,61 +1,61 @@
 ---
 unique-page-id: 12980661
-description: Aggiunta di Google Customer Match as a LaunchPoint Service - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungere Google Customer Match come servizio LaunchPoint
+description: Aggiungi Google Customer Match as a [!DNL LaunchPoint] Service - Documentazione Marketo - Documentazione del prodotto
+title: 'Aggiungi Google Customer Match come servizio  [!DNL LaunchPoint] '
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 583e08fdc2e7d3fa743faf35e96c6d10f38a6ea0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '166'
+ht-degree: 1%
 
 ---
 
-# Aggiungere Google Customer Match come servizio LaunchPoint {#add-google-customer-match-as-a-launchpoint-service}
+# Aggiungi Customer Match Google come servizio [!DNL LaunchPoint] {#add-google-customer-match-as-a-launchpoint-service}
 
-Con questa integrazione, puoi inviare un pubblico di Marketo Engage a Google per il targeting utilizzando Google AdWords, nonché per il re-targeting dei tipi di pubblico in YouTube, Search e Gmail.
+Con questa integrazione, puoi inviare un pubblico Marketo a Google per il targeting utilizzando [!DNL Google AdWords], nonché rieseguire il targeting dei tipi di pubblico in YouTube, Search e [!DNL Gmail].
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Amministratore]**.
+1. Vai a **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Fare clic su **[!UICONTROL LaunchPoint]**.
+1. Fai clic su **[!UICONTROL LaunchPoint]**.
 
    ![](assets/image2014-12-5-14-3a35-3a27.png)
 
-1. Selezionare **[!UICONTROL Nuovo]** e quindi **[!UICONTROL Nuovo servizio]**.
+1. Selezionare **[!UICONTROL New]** e quindi **[!UICONTROL New Service]**.
 
    ![](assets/image2014-12-5-14-3a37-3a33.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]** e seleziona **[!UICONTROL Google Customer Match]** dal menu a discesa **[!UICONTROL Service]**. Fai clic su **[!UICONTROL Crea]**.
+1. Immettere **[!UICONTROL Display Name]** e selezionare **[!UICONTROL Google Customer Match]** dal menu a discesa **[!UICONTROL Service]**. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/chooseservice.png)
 
-1. Per connettere un account Google AdWords, fare clic su **[!UICONTROL Autorizza]**.
+1. Per connettere un account [!DNL Google AdWords], fare clic su **[!UICONTROL Authorize]**.
 
    ![](assets/authorizeaccount-1.png)
 
-1. Google si apre in una nuova scheda. Da qui, accedi al tuo account Google AdWords.
+1. Google si apre in una nuova scheda. Da qui, accedi al tuo account [!DNL Google AdWords].
 
    >[!CAUTION]
    >
-   >Affinché Marketo possa inviare tipi di pubblico su più account AdWords, l&#39;utente di Google autorizzato nei passaggi seguenti deve avere accesso a _tutti_ di questi account.
+   >Affinché Marketo possa inviare tipi di pubblico su più account [!DNL AdWords], l&#39;utente di Google autorizzato nei passaggi seguenti deve avere accesso a _tutti_ di questi account.
 
    ![](assets/chooseaccount.png)
 
-1. Rivedi le autorizzazioni richieste, quindi fai clic su **[!UICONTROL Consenti]**.
+1. Rivedere le autorizzazioni richieste, quindi fare clic su **[!UICONTROL Allow]**.
 
    ![](assets/reviewpermissions.png)
 
-1. Il tuo account Google AdWords è ora connesso a Marketo. Fai clic su **[!UICONTROL Crea]**.
+1. L&#39;account [!DNL Google AdWords] è ora connesso a Marketo. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/authorizesuccess.png)
 
-   Fantastico! Ora i tipi di pubblico corrispondenti a Google sono elencati come servizio LaunchPoint nella scheda Servizi installati.
+   Fantastico! Ora nella scheda Servizi installati sono elencati i tipi di pubblico corrispondenti a Google come servizio [!DNL LaunchPoint].
 
 >[!NOTE]
 >

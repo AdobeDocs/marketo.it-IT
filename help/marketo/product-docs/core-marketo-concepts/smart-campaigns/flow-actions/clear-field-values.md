@@ -4,9 +4,9 @@ description: Cancella valori campo - Documentazione Marketo - Documentazione del
 title: Cancella valori campo
 exl-id: cddc7697-4e8f-4a62-865c-efd451abea0c
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 [Cambia valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md) è ottimo, ma come _rimuovi_ completamente il valore? Buona domanda!
 
-1. Nel passaggio del flusso, scegli il campo da cancellare e digita in **NULL** (tutte maiuscole) come **Nuovo valore**.
+1. Nel passaggio del flusso, scegli il campo da cancellare e digita **[!UICONTROL NULL]** (tutte maiuscole) come **[!UICONTROL New Value]**.
 
    ![](assets/clear-field-values-1.png)
 

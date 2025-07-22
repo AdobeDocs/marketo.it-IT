@@ -1,19 +1,19 @@
 ---
 unique-page-id: 14352414
-description: Informazioni sulla scheda Team - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sulla scheda Team
+description: Informazioni sulla scheda [!UICONTROL Team] - Documentazione di Marketo - Documentazione del prodotto
+title: Informazioni sulla scheda [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Informazioni sulla scheda Team {#understanding-the-team-tab}
+# Informazioni sulla scheda [!UICONTROL Team] {#understanding-the-team-tab}
 
-Nella scheda Team sono evidenziate tre metriche importanti.
+Nella scheda [!UICONTROL Team] sono evidenziate tre metriche importanti.
 
 ## E-mail inviate con il modello {#emails-sent-with-template}
 

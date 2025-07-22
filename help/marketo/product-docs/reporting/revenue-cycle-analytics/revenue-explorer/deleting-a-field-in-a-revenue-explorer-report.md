@@ -4,14 +4,14 @@ description: Eliminazione di un campo in un rapporto di Revenue Explorer - Docum
 title: Eliminazione di un campo in un report di Gestione entrate
 exl-id: 4eeedd8e-da00-4bcf-9f7a-25b3683ad0a1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
 
-# Eliminazione di un campo in un report di Gestione entrate {#deleting-a-field-in-a-revenue-explorer-report}
+# Eliminazione di un campo in un report [!UICONTROL Revenue Explorer] {#deleting-a-field-in-a-revenue-explorer-report}
 
 A volte è possibile trascinare un campo errato nel report. Ecco come rimuoverlo:
 
@@ -25,4 +25,4 @@ A volte è possibile trascinare un campo errato nel report. Ecco come rimuoverlo
 
 >[!MORELIKETHIS]
 >
->[Salvataggio di un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)
+>[Salvataggio di un report [!UICONTROL Revenue Explorer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/saving-a-revenue-explorer-report.md)

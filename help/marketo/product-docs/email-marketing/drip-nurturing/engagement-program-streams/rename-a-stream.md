@@ -4,9 +4,9 @@ description: Rinominare un flusso - Documentazione Marketo - Documentazione del 
 title: Rinominare un flusso
 exl-id: 38e8af11-78a7-4c52-b0d4-301f97d50999
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Se desideri rimanere organizzato, puoi rinominare i flussi. Ecco come farlo.
 
-1. Trova e seleziona il tuo programma di coinvolgimento, quindi fai clic su **Streams**.
+1. Trovare e selezionare il programma di coinvolgimento, quindi fare clic su **[!UICONTROL Streams]**.
 
    ![](assets/cloneasteam-1.jpg)
 
@@ -23,7 +23,7 @@ Se desideri rimanere organizzato, puoi rinominare i flussi. Ecco come farlo.
 
    ![](assets/image2014-9-15-17-3a4-3a10.png)
 
-1. Immetti il nuovo flusso **Name** e fai clic su **Save**.
+1. Immettere il nuovo flusso **[!UICONTROL Name]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
 

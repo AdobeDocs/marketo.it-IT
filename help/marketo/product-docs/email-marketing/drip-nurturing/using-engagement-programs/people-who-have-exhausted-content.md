@@ -4,9 +4,9 @@ description: Persone con contenuti esauriti - Documentazione Marketo - Documenta
 title: Persone Con Contenuti Esauriti
 exl-id: d32dfbc0-cac9-4df9-a8f6-45ebdd4a9f79
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
 ## Filtro Membro del programma di coinvolgimento {#member-of-engagement-program-filter}
 
-1. Crea un nuovo elenco avanzato, quindi individua e trascina il filtro **Membro del programma di coinvolgimento**.
+1. Creare un nuovo elenco avanzato, quindi individuare e trascinare il filtro **[!UICONTROL Member of Engagement Program]**.
 
    ![](assets/image2014-9-15-18-20-0.png)
 
@@ -25,11 +25,11 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
    ![](assets/image2014-9-15-18-3a20-3a11.png)
 
-1. In **Aggiungi vincolo**, selezionare **Contenuto esaurito**.
+1. In **[!UICONTROL Add Constraint]**, selezionare **[!UICONTROL Exhausted Content]**.
 
    ![](assets/image2014-9-15-18-3a20-3a17.png)
 
-1. Imposta **Contenuto esaurito** su **true**.
+1. Imposta **[!UICONTROL Exhausted Content]** su **[!UICONTROL true]**.
 
    ![](assets/image2014-9-15-18-3a20-3a21.png)
 
@@ -37,15 +37,15 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
 ## Scheda Membri {#members-tab}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Seleziona il programma di coinvolgimento e passa alla scheda **Membri**.
+1. Selezionare il programma di coinvolgimento e passare alla scheda **[!UICONTROL Members]**.
 
    ![](assets/memberstab.jpg)
 
-1. Nota la colonna denominata **Contenuto esaurito**.
+1. Si noti la colonna denominata **[!UICONTROL Exhausted Content]**.
 
    ![](assets/image2014-9-15-18-3a21-3a7.png)
 
@@ -53,7 +53,7 @@ Quando una persona ha ricevuto ogni elemento di contenuto in un flusso, ha esaur
 
 ## Flusso {#stream}
 
-1. Puoi anche vedere il totale delle persone che hanno esaurito i contenuti nella scheda Streams sul flusso stesso.
+1. È inoltre possibile visualizzare il numero totale di persone che hanno esaurito il contenuto nella scheda [!UICONTROL Streams] del flusso stesso.
 
    ![](assets/image2014-9-15-18-3a21-3a38.png)
 

@@ -4,9 +4,9 @@ description: Aggiunta di misure personalizzate a un rapporto di Revenue Explorer
 title: Aggiunta di misure personalizzate a un report di Gestione ricavi
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti 
 
 1. Recupera i campi necessari per il report. Per ulteriori informazioni, vedere [Aggiunta di campi a un report di Gestione entrate](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/adding-fields-to-a-revenue-explorer-report.md).
 
-1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu), scegliere **Misura definita dall&#39;utente** e selezionare **Misura calcolata**.
+1. Fare clic con il pulsante destro del mouse su una metrica esistente (cella blu), scegliere **[!UICONTROL User Defined Measure]** e selezionare **[!UICONTROL Calculated Measure]**.
 
    ![](assets/image2016-1-26-11-3a7-3a49.png)
 
@@ -39,7 +39,7 @@ Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti 
    >
    >Potete digitare i simboli matematici personalmente o utilizzare la casella di selezione.
 
-1. Al termine, fare clic su **OK**.
+1. Al termine, fare clic su **[!UICONTROL OK]**.
 
    ![](assets/image2016-1-26-11-3a37-3a27.png)
 

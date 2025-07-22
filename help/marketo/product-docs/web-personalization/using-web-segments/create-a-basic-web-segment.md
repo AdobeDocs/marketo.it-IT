@@ -4,9 +4,9 @@ description: Creazione di un segmento web di base - Documentazione di Marketo - 
 title: Creare un segmento web di base
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Creiamo un segmento di base destinato a tutti i visitatori web dagli Stati Uniti e dal settore dei servizi finanziari.
 
-1. Vai a **Segmenti**.
+1. Vai a **[!UICONTROL Segments]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 
-1. Fare clic su **Crea nuovo**.
+1. Fai clic su **[!UICONTROL Create New]**.
 
    ![](assets/image2014-11-19-19-3a33-3a47.png)
 
@@ -27,7 +27,7 @@ Creiamo un segmento di base destinato a tutti i visitatori web dagli Stati Uniti
 
    ![](assets/segment-name.png)
 
-1. Trascina **Posizione** dal menu di destra e rilascialo nell&#39;editor segmenti.
+1. Trascina **[!UICONTROL Location]** dal menu di destra e rilascialo nell&#39;editor segmenti.
 
    ![](assets/location-drag-hand.jpg)
 
@@ -39,17 +39,17 @@ Creiamo un segmento di base destinato a tutti i visitatori web dagli Stati Uniti
    >
    >Il numero di città è limitato a 300 per segmento.
 
-1. Trascina **Settori** dal menu di destra e rilascialo nell&#39;editor segmenti.
+1. Trascina **[!UICONTROL Industries]** dal menu di destra e rilascialo nell&#39;editor segmenti.
 
    ![](assets/industries-hand.jpg)
 
-1. Seleziona Settori da aggiungere dal menu a discesa. Selezionare il **Settore dei servizi finanziari**.
+1. Selezionare [!UICONTROL Industries] da aggiungere dal menu a discesa. Selezionare il settore **[!UICONTROL Financial Services]**.
 
    ![](assets/segment-industries.png)
 
    Ora hai impostato un segmento di base per tutti i potenziali clienti che visitano il tuo sito web dagli Stati Uniti e dal settore finanziario.
 
-1. Fai clic su **Salva** per salvare il segmento o su **Salva e definisci campagna** per passare alla pagina Campagne.
+1. Fai clic su **[!UICONTROL Save]** per salvare il segmento o su **[!UICONTROL Save & Define Campaign]** per passare alla pagina Campagne.
 
    ![](assets/image2014-11-19-19-3a48-3a20.png)
 

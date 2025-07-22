@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15368205
-description: Come collegare le vendite Connettiti alla tua Sandbox Salesforce - Documentazione di Marketo - Documentazione del prodotto
+description: Come collegare le vendite Connettiti alla tua sandbox Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Come collegare le vendite Connettetevi alla vostra sandbox Salesforce
 exl-id: d6421da9-de89-40ac-8af9-512b5303ace5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -15,32 +15,32 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->L&#39;account Sales Connect non può essere già connesso a Salesforce quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurati di disconnetterti](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
+>Impossibile connettere l&#39;account [!DNL  Sales Connect] a [!DNL Salesforce] quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurati di disconnetterti](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In [!DNL Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-2.png)
 
-1. In Integrazioni fare clic su **CRM**.
+1. In [!UICONTROL Integrations], fare clic su **[!UICONTROL CRM]**.
 
    ![](assets/two-2.png)
 
-1. Nella scheda Salesforce, fai clic su **Ulteriori informazioni**.
+1. Nella scheda [!DNL Salesforce], fai clic su **[!UICONTROL More Info]**.
 
    ![](assets/three-2.png)
 
-1. Nella parte inferiore della pagina, fai clic su **Connetti alla sandbox**.
+1. Nella parte inferiore della pagina fare clic su **[!UICONTROL Connect to Sandbox]**.
 
    ![](assets/four-2.png)
 
    >[!NOTE]
    >
-   >Se hai già effettuato l’accesso al tuo account Sandbox Salesforce, verrai indirizzato a una pagina di autorizzazione in cui dovrai consentire l’accesso. Se non hai già effettuato l’accesso, procedi al passaggio 5.
+   >Se hai già effettuato l&#39;accesso al tuo account [!DNL Salesforce Sandbox], verrà visualizzata una pagina di autorizzazione in cui dovrai consentire l&#39;accesso. Se non hai già effettuato l’accesso, procedi al passaggio 5.
 
-1. Inserisci il nome utente e la password dell’account Sandbox Salesforce.
+1. Immettere il nome utente e la password dell&#39;account [!DNL Salesforce Sandbox].
 
    ![](assets/five-2.png)
 
 >[!MORELIKETHIS]
 >
->[Come installare le personalizzazioni nella Sandbox Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)
+>[Come installare le personalizzazioni nella sandbox di Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-customization/how-to-install-customizations-in-your-salesforce-sandbox.md)

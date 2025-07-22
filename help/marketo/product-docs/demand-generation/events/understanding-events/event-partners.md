@@ -4,9 +4,9 @@ description: Partner per eventi - Documentazione Marketo - Documentazione del pr
 title: Partner evento
 exl-id: 3d6c523f-a1ee-4b0c-8e3c-1724f3b7800e
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Connetti Marketo a un partner eventi per automatizzare gli eventi online. Quando
 
 Consulta le istruzioni sull’integrazione degli eventi Marketo online con il partner dell’evento:
 
-* [Webex](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
+* [[!DNL Webex]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-webex.md)
 * [Adobe Connect](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-adobe-connect.md)
 * [ON24](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-the-marketo-on24-adapter/create-your-webinar-event-in-on24.md)
-* [Webinar GoTo](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)
+* [[!DNL GoToWebinar]](/help/marketo/product-docs/demand-generation/events/create-an-event/create-an-event-with-gotowebinar.md)

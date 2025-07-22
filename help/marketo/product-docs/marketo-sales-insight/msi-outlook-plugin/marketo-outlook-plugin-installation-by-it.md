@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11382815
-description: Installazione del plug-in di Marketo Outlook da parte dell’IT - Documentazione di Marketo - Documentazione del prodotto
-title: Installazione del plug-in di Marketo Outlook da parte dell'IT
+description: Installazione del plug-in Marketo [!DNL Outlook] da parte dell'IT - Documentazione Marketo - Documentazione del prodotto
+title: Installazione del plug-in Marketo [!DNL Outlook] da parte dell'IT
 exl-id: c1ae1fb8-d1ad-4c1b-899b-29629fcb166b
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 1%
 
 ---
 
-# Installazione del plug-in di Marketo Outlook da parte dell&#39;IT {#marketo-outlook-plugin-installation-by-it}
+# Installazione del plug-in Marketo [!DNL Outlook] da parte dell&#39;IT {#marketo-outlook-plugin-installation-by-it}
 
 A volte le politiche aziendali richiedono che il team IT installi tutto il software sui computer dei dipendenti. In questi casi, spesso l&#39;IT esegue questa operazione in remoto utilizzando il proprio software di distribuzione. Questo documento fornisce le righe di comando da utilizzare come input durante il processo di distribuzione per installare il plug-in di Outlook in modalità remota.
 
@@ -57,4 +57,4 @@ Fare riferimento a [Elenco completo di opzioni di Microsoft](https://support.mic
 
 >[!MORELIKETHIS]
 >
->[Disinstallazione del plug-in di Marketo Outlook da parte dell&#39;IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)
+>[Marketo [!DNL Outlook] Disinstallazione del plug-in da parte dell&#39;IT](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/marketo-outlook-plugin-uninstall-by-it.md)

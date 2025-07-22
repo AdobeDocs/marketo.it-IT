@@ -4,19 +4,19 @@ description: Creare una nuova categoria - Documentazione di Marketo - Documentaz
 title: Crea una nuova categoria
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
 # Crea una nuova categoria {#create-a-new-category}
 
-Sales Connect viene fornito con due categorie predefinite per facilitare l’organizzazione dei modelli.
+[!DNL Sales Connect] viene fornito con due categorie predefinite per organizzare i modelli.
 
-1. Fai clic sull&#39;icona **+** accanto a **Categorie**.
+1. Fai clic sull&#39;icona **+** accanto a **[!UICONTROL Categories]**.
 
-1. Immetti un nome per la nuova categoria, quindi fai clic su **Crea**.
+1. Immettere un nome per la nuova categoria, quindi fare clic su **[!UICONTROL Create]**.
 
 La nuova categoria viene ora visualizzata nel menu di navigazione.

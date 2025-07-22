@@ -4,18 +4,18 @@ description: Modelli di archivio - Documentazione di Marketo - Documentazione de
 title: Archivia modelli
 exl-id: 7cbb9230-e454-4e31-a987-83ce349db1da
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # Archivia modelli {#archive-templates}
 
-Archivia i contenuti per pulire il tuo account dei contenuti di vendita senza perdere i dati dei modelli.
+Archivia il contenuto per pulire l&#39;account [!DNL Sales Content] senza perdere i dati del modello.
 
-Selezionare la casella accanto a un modello e fare clic su **Archivia**.
+Selezionare la casella accanto a un modello e fare clic su **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >

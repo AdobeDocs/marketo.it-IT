@@ -4,9 +4,9 @@ description: Reindirizzare una pagina di destinazione Marketo a un’altra pagin
 title: Reindirizzare una pagina di destinazione Marketo a un’altra pagina
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -19,15 +19,15 @@ Se mai aggiorni l’URL di una pagina e vuoi che il vecchio URL funzioni ancora,
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In **Amministratore**, fai clic su **Pagine di destinazione**.
+1. In **[!UICONTROL Admin]**, fare clic su **[!UICONTROL Landing Pages]**.
 
    ![](assets/image2014-9-25-15-3a43-3a39.png)
 
-1. Nella scheda **Regole**, fai clic su **Nuovo** e quindi su **Nuova regola di reindirizzamento**.
+1. Nella scheda **[!UICONTROL Rules]** fare clic su **[!UICONTROL New]** e quindi su **[!UICONTROL New Redirect Rule]**.
 
    ![](assets/two-1.png)
 
-1. Fai clic sul primo elenco a discesa **URL originale** e seleziona il tuo Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
+1. Fai clic sul primo elenco a discesa **[!UICONTROL Original URL]** e seleziona il tuo Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
    ![](assets/image2014-9-25-15-3a46-3a20.png)
 
@@ -35,7 +35,7 @@ Se mai aggiorni l’URL di una pagina e vuoi che il vecchio URL funzioni ancora,
    >
    >Ricorda che puoi reindirizzare solo gli URL che iniziano con il tuo Marketo [CNAME](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/customize-your-landing-page-urls-with-a-cname.md).
 
-1. Scegli la pagina di destinazione da reindirizzare nel secondo campo **URL originale**.
+1. Scegliere la pagina di destinazione da reindirizzare nel secondo campo **[!UICONTROL Original URL]**.
 
    ![](assets/image2014-9-25-15-3a47-3a20.png)
 
@@ -43,17 +43,17 @@ Se mai aggiorni l’URL di una pagina e vuoi che il vecchio URL funzioni ancora,
    >
    >Puoi immettere qualsiasi percorso URL, anche se la pagina o la directory non esiste.
 
-1. Fai clic sul menu a discesa **URL di reindirizzamento** e seleziona la pagina a cui desideri reindirizzare i visitatori.
+1. Fai clic sul menu a discesa **[!UICONTROL Redirect URL]** e seleziona la pagina a cui desideri reindirizzare i visitatori.
 
    ![](assets/image2014-9-25-15-3a47-3a53.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-25-15-3a48-3a5.png)
 
    >[!TIP]
    >
-   >Per reindirizzare a una pagina Web esterna a Marketo, fare clic su **Usa pagina di destinazione non Marketo**.
+   >Per reindirizzare a una pagina Web esterna a Marketo, fare clic su **[!UICONTROL Use non-Marketo Landing Page]**.
 
    >[!MORELIKETHIS]
    >

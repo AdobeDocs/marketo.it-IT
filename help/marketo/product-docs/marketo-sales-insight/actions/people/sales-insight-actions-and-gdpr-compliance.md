@@ -1,16 +1,16 @@
 ---
-description: Azioni di approfondimento sulle vendite e conformità ai requisiti RGPD - Documentazione di Marketo - Documentazione del prodotto
-title: Azioni di approfondimento sulle vendite e conformità ai requisiti RGPD
+description: Azioni di vendita Insight e conformità ai requisiti RGPD - Documenti Marketo - Documentazione del prodotto
+title: Azioni di vendita Insight e conformità ai requisiti RGPD
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '1395'
-ht-degree: 1%
+source-wordcount: '1307'
+ht-degree: 0%
 
 ---
 
-# Azioni di approfondimento sulle vendite e conformità ai requisiti RGPD {#sales-insight-actions-and-gdpr-compliance}
+# Azioni di vendita Insight e conformità ai requisiti RGPD {#sales-insight-actions-and-gdpr-compliance}
 
 Il Regolamento generale sulla protezione dei dati (RGPD) è la normativa dell’Unione Europea entrata in vigore il 25 maggio 2018.
 
@@ -41,19 +41,19 @@ Il modo in cui gli esperti di marketing rispondono a queste aspettative più ele
 
 Esistono due aspetti chiave del RGPD in cui gli esperti di marketing devono rivedere le pratiche passate, correnti e future. Il primo è il consenso dell’interessato al trattamento dei suoi dati personali, e il secondo è la responsabilità, ossia la capacità di dimostrare come vengono seguiti i principi del RGPD.
 
-Nel nostro e-book, [GDPR e l&#39;addetto al marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/), forniamo informazioni complete sul consenso e la responsabilità all&#39;interno della piattaforma Marketo. Tuttavia, in questo articolo ci concentreremo specificamente sulle nuove funzioni delle azioni di approfondimento sulle vendite, che aiuteranno la tua organizzazione ad aderire alle regole RGPD.
+Nel nostro e-book, [GDPR e l&#39;addetto al marketing](https://www.marketo.com/ebooks/the-gdpr-and-the-marketer/), forniamo informazioni complete sul consenso e la responsabilità all&#39;interno della piattaforma Marketo. In questo articolo, tuttavia, ci concentreremo specificatamente sulle nuove funzionalità di [!DNL Sales Insight Actions] che aiuteranno la tua organizzazione a rispettare le regole RGPD.
 
-## Conformità al RGPD nelle azioni di approfondimento sulle vendite {#gdpr-compliance-in-marketo-sales-connect}
+## Conformità RGPD in [!DNL Sales Insight Actions] {#gdpr-compliance-in-marketo-sales-connect}
 
-Sales Insight Actions è un&#39;applicazione potente, parte di Marketo Engagement Platform, che fornisce un unico flusso di lavoro e una visualizzazione per le attività di vendita e marketing per accelerare collettivamente la pipeline attraverso il coinvolgimento collaborativo. Nuove funzionalità nelle azioni di approfondimento sulle vendite sono state create appositamente per garantire la conformità ai requisiti RGPD. Illustreremo tutte e tre le funzioni e spiegheremo in che modo, se utilizzate correttamente, aiuteranno l’organizzazione a rispettare il RGPD.
+[!DNL Sales Insight Actions] è un&#39;applicazione potente, parte di Marketo Engagement Platform, che fornisce un unico flusso di lavoro e una visualizzazione per le attività di vendita e marketing, consentendo di gestire collettivamente più rapidamente la pipeline attraverso il coinvolgimento collaborativo. La nuova funzionalità in [!DNL Sales Insight Actions] è stata creata specificatamente per la conformità ai requisiti RGPD. Illustreremo tutte e tre le funzioni e spiegheremo in che modo, se utilizzate correttamente, aiuteranno l’organizzazione a rispettare il RGPD.
 
 ## Scheda di conformità {#compliance-card}
 
-Sales Insight Actions include una scheda di conformità nella vista dettagli persona per fornire informazioni chiave sul tipo di autorizzazione di un contatto, oltre al tipo di Source corrispondente. Questo consente agli utenti di aggiungere e tenere traccia facilmente delle informazioni critiche per la privacy dei dati e li aiuta a prendere decisioni più informate sulla strategia di campagna/sensibilizzazione.
+[!DNL Sales Insight Actions] include una scheda di conformità nella visualizzazione dettagli persona per fornire informazioni chiave sul tipo di autorizzazione di un contatto e sul tipo di Source corrispondente. Questo consente agli utenti di aggiungere e tenere traccia facilmente delle informazioni critiche per la privacy dei dati e li aiuta a prendere decisioni più informate sulla strategia di campagna/sensibilizzazione.
 
 **Tipo di autorizzazione contatto**
 
-All’interno della Scheda di conformità, gli utenti possono tracciare la base giuridica per il trattamento dei dati personali di un contatto tramite il menu a discesa Autorizzazione. Comprendere il tipo di autorizzazione di un contatto aiuta gli utenti di Sales Insight Actions a prendere decisioni più informate sulle pratiche di sensibilizzazione, garantendo che ogni campagna o coinvolgimento sia legale e appropriato.
+All’interno della Scheda di conformità, gli utenti possono tracciare la base giuridica per il trattamento dei dati personali di un contatto tramite il menu a discesa Autorizzazione. Comprendere il tipo di autorizzazione di un contatto aiuta [!DNL Sales Insight Actions] utenti a prendere decisioni più informate sulle pratiche di sensibilizzazione, garantendo che ogni campagna o coinvolgimento sia legale e appropriato.
 
 Gli utenti possono scegliere tra numerose opzioni, tra cui:
 
@@ -67,39 +67,39 @@ Gli utenti possono scegliere tra numerose opzioni, tra cui:
 
 **Contatta Tipo Source**
 
-Nella nuova scheda di conformità, gli utenti possono tenere traccia dell&#39;origine di un contatto. Il tipo di Source definisce da dove provengono le informazioni di un contatto caricato inizialmente in Azioni approfondimento vendite. Comprendere il tipo di origine di un contatto aiuta anche nelle decisioni relative alle pratiche di sensibilizzazione, nonché a determinare quali altri sistemi o posizioni memorizzare i dati personali, garantendo che ogni impegno sia in linea con la legislazione RGPD.
+Nella nuova scheda di conformità, gli utenti possono tenere traccia dell&#39;origine di un contatto. Il tipo di Source definisce da dove provengono le informazioni di un contatto caricato inizialmente in [!DNL Sales Insight Actions]. Comprendere il tipo di origine di un contatto aiuta anche nelle decisioni relative alle pratiche di sensibilizzazione, nonché a determinare quali altri sistemi o posizioni memorizzare i dati personali, garantendo che ogni impegno sia in linea con la legislazione RGPD.
 
 Anche in questo caso, gli utenti possono scegliere tra numerose opzioni a discesa, tra cui:
 
-* Sincronizzazione CRM
-* Importa
-* Caricamento manuale
-* Estensione Chrome
-* Altro
+* [!UICONTROL CRM Sync]
+* [!UICONTROL Import]
+* [!UICONTROL Manual Upload]
+* [!UICONTROL Chrome Extension]
+* [!UICONTROL Other]
 
 **Modifica della scheda di conformità**
 
-Quando la Visualizzazione dettagli persona è aperta, fare clic su **Modifica** nella scheda di conformità.
+Quando la Visualizzazione dettagli persona è aperta, fare clic su **[!UICONTROL Edit]** nella scheda di conformità.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-1.png)
 
-Sono disponibili due elenchi a discesa: Tipo di autorizzazione e Tipo di Source.
+Verranno visualizzati due menu a discesa: [!UICONTROL Authorization Type] e [!UICONTROL Source Type].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-2.png)
 
-Se scegli &quot;Consenso&quot; come Tipo di autorizzazione, verranno visualizzati due campi obbligatori: &quot;Data del consenso&quot; e &quot;Scopo dell’elaborazione&quot;. Questi due campi non sono applicabili ad altre opzioni.
+Se si sceglie &quot;Consenso&quot; come [!UICONTROL Authorization Type], verranno visualizzati due campi obbligatori: &quot;[!UICONTROL Date of Consent]&quot; e &quot;[!UICONTROL Purpose of Processing]&quot;. Questi due campi non sono applicabili ad altre opzioni.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-3.png)
 
-Se per Tipo di autorizzazione o Tipo Source viene selezionato &quot;Altro&quot;, è possibile immettere un testo che descriva il Tipo Source.
+Se &quot;[!UICONTROL Other]&quot; viene scelto per [!UICONTROL Authorization Type] o [!UICONTROL Source Type], è possibile immettere il testo per descrivere [!UICONTROL Source Type].
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-4.png)
 
 **Azioni in blocco**
 
-Le azioni di approfondimento sulle vendite consentono inoltre di aggiornare in blocco i tipi di autorizzazione di un contatto e Source, risparmiando tempo prezioso nel processo di conformità.
+[!DNL Sales Insight Actions] consente inoltre di aggiornare in blocco i tipi di autorizzazione di un contatto e Source, risparmiando tempo prezioso nel processo di conformità.
 
-Quando si selezionano uno o più contatti dalla pagina Persone, a destra viene visualizzato un punto (menu a tre punti). Fai clic su di esso e vedrai Autorizzazione e Source sono opzioni. È possibile impostare l&#39;autorizzazione o il Source di più contatti contemporaneamente.
+Quando si selezionano uno o più contatti dalla pagina [!UICONTROL People], a destra viene visualizzato un punto (menu a tre punti). Fai clic su di esso e vedrai Autorizzazione e Source sono opzioni. È possibile impostare l&#39;autorizzazione o il Source di più contatti contemporaneamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-5.png)
 
@@ -107,7 +107,7 @@ Quando fai clic sulla finestra modale Autorizzazione, viene visualizzato un pop-
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-6.png)
 
-Dopo aver aggiornato il tipo di autorizzazione, riceverai una finestra a comparsa di conferma e potrai visualizzare i dettagli aggiornati nella scheda di conformità nella visualizzazione Dettagli persona.
+Una volta aggiornato il tipo [!UICONTROL Authorization], riceverai una finestra a comparsa di conferma e potrai visualizzare i dettagli aggiornati nella scheda di conformità nella visualizzazione Dettagli persona.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-7.png)
 
@@ -119,7 +119,7 @@ Dopo aver selezionato il tipo di Source corretto per i contatti selezionati, vie
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-9.png)
 
-## Esportazione dei dati di contatto dalle azioni di approfondimento sulle vendite {#exporting-contact-data-from-marketo-sales-connect}
+## Esportazione dei dati di contatto da [!DNL Sales Insight Actions] {#exporting-contact-data-from-marketo-sales-connect}
 
 È possibile esportare le informazioni di contatto dalla visualizzazione Dettagli persona. L’esportazione scaricherà un file .CSV con le seguenti colonne:
 
@@ -131,33 +131,33 @@ Dopo aver selezionato il tipo di Source corretto per i contatti selezionati, vie
  </colgroup> 
  <tbody> 
   <tr> 
-   <td>Nome</td> 
-   <td>Sito web</td> 
-   <td>Facebook</td> 
+   <td>[!UICONTROL First Name]</td> 
+   <td>[!UICONTROL Website]</td> 
+   <td>[!DNL Facebook]</td> 
   </tr> 
   <tr> 
-   <td>Cognome</td> 
-   <td>Altro</td> 
-   <td>Twitter</td> 
+   <td>[!UICONTROL Last Name]</td> 
+   <td>[!UICONTROL Other]</td> 
+   <td>[!DNL Twitter]</td> 
   </tr> 
   <tr> 
-   <td>Azienda</td> 
-   <td>Data di aggiornamento</td> 
-   <td>LinkedIn</td> 
+   <td>[!UICONTROL Company]</td> 
+   <td>[!UICONTROL Updated At]</td> 
+   <td>[!DNL LinkedIn]</td> 
   </tr> 
   <tr> 
-   <td>Titolo</td> 
-   <td>Data creazione</td> 
-   <td>Esportato il</td> 
+   <td>[!UICONTROL Title]</td> 
+   <td>[!UICONTROL Created At]</td> 
+   <td>[!UICONTROL Exported At]</td> 
   </tr> 
   <tr> 
-   <td>ID e-mail</td> 
-   <td>ID Salesforce</td> 
+   <td>[!UICONTROL Email ID]</td> 
+   <td>[!DNL Salesforce] ID</td> 
    <td><br></td> 
   </tr> 
   <tr> 
-   <td>Numero di telefono</td> 
-   <td>ID persona</td> 
+   <td>[!UICONTROL Phone Number]</td> 
+   <td>[!UICONTROL Person ID]</td> 
    <td><br></td> 
   </tr> 
  </tbody> 
@@ -167,20 +167,20 @@ Dopo aver selezionato il tipo di Source corretto per i contatti selezionati, vie
 >
 >Questa operazione può essere eseguita da un solo contatto alla volta. Al momento non è disponibile alcuna funzionalità che consente esportazioni in blocco di contatti.
 
-Per esportare le informazioni di contatto, fare clic sui tre punti verticali nell&#39;intestazione della visualizzazione dettagli persona e selezionare **Esporta**. Il file .CSV verrà scaricato automaticamente.
+Per esportare le informazioni sul contatto, fare clic sui tre punti verticali nell&#39;intestazione della visualizzazione dettagli persona e selezionare **[!UICONTROL Export]**. Il file .CSV verrà scaricato automaticamente.
 
 ![](assets/sales-insight-actions-and-gdpr-compliance-10.png)
 
 >[!NOTE]
 >
->Il RGPD richiede anche la possibilità di eliminare i contatti dall’interfaccia utente, ma Sales Insight Actions dispone già di questa funzionalità.
+>Il RGPD richiede anche la possibilità di eliminare i contatti dall&#39;interfaccia utente, ma [!DNL Sales Insight Actions] dispone già di questa funzionalità.
 
 ## Annulla iscrizione {#unsubscribes}
 
-Un’area comunemente fraintesa del RGPD riguarda i contatti che annullano l’abbonamento al database dell’organizzazione. Al fine di rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l’abbonamento, nelle azioni di approfondimento sulle vendite è stata inclusa la seguente funzionalità:
+Un’area comunemente fraintesa del RGPD riguarda i contatti che annullano l’abbonamento al database dell’organizzazione. Per rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l&#39;abbonamento, in [!DNL Sales Insight Actions] è stata inclusa la seguente funzionalità:
 
 **Collegamenti per l&#39;annullamento dell&#39;abbonamento:** I collegamenti per l&#39;annullamento dell&#39;abbonamento verranno aggiunti automaticamente a tutte le e-mail inviate dall&#39;applicazione Web Sales Connect per garantire che ai contatti sia assegnato un modo accessibile per la rinuncia.\
-**Sincronizzazione annullamento abbonamento:** Gli utenti possono sincronizzare gli annullamenti degli abbonamenti a e dal proprio CRM (Salesforce) per garantire che gli annullamenti degli abbonamenti siano aggiornati.\
+**Sincronizzazione annullamento abbonamento:** Gli utenti possono sincronizzare gli annullamenti degli abbonamenti a e dal proprio sistema di gestione delle relazioni con i clienti (Salesforce) per garantire che le rinunce siano aggiornate.\
 **Cronologia annullamenti abbonamento:** gli utenti possono visualizzare informazioni cronologiche su rinunce e rinunce nella visualizzazione Dettagli persona.\
 **Rimozione annullamento abbonamento:** Per annullare l&#39;abbonamento di un contatto, è necessario che l&#39;utente disponga dei privilegi di amministratore e che dimostri che il contatto ha dato il nuovo consenso per contattarlo.
 

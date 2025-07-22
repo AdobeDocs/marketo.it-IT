@@ -4,26 +4,26 @@ description: Registrare i messaggi in entrata dai lead in Marketo - Documentazio
 title: Registra i messaggi in entrata dai lead in Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
 # Registra i messaggi in entrata dai lead in Marketo {#log-inbound-mail-from-your-leads-in-marketo}
 
-È possibile registrare le risposte dai lead direttamente in Outlook con il componente aggiuntivo e-mail di Marketo.
+È possibile registrare le risposte dei lead direttamente in [!DNL Outlook] con il componente aggiuntivo e-mail di Marketo.
 
-## Dall&#39;applicazione principale di Outlook {#from-the-main-outlook-application}
+## Dall&#39;applicazione [!DNL Outlook] principale {#from-the-main-outlook-application}
 
-1. Seleziona l’e-mail da registrare e fai clic su Registra con Marketo.
+1. Selezionare l&#39;e-mail che si desidera registrare e fare clic su **[!UICONTROL Log with Marketo]**.
 
 ![](assets/image2014-9-23-17-3a12-3a44.png)
 
 >[!TIP]
 >
->È inoltre possibile fare clic con il pulsante destro del mouse su un messaggio e scegliere **Accedi a Marketo**.
+>È inoltre possibile fare clic con il pulsante destro del mouse su un messaggio e scegliere **[!UICONTROL Log With Marketo]**.
 
 Dovresti vedere una conferma.
 
@@ -31,7 +31,7 @@ Dovresti vedere una conferma.
 
 ## Dall’e-mail stessa {#from-the-email-itself}
 
-Se hai aperto l’e-mail, puoi semplicemente fare clic sul pulsante Log with Marketo da lì.
+Se hai aperto l&#39;e-mail, puoi semplicemente fare clic sul pulsante **[!UICONTROL Log with Marketo]** da lì.
 
 ![](assets/image2014-9-23-17-3a14-3a14.png)
 
@@ -43,5 +43,5 @@ Registra le risposte del lead per aggiungerle alla cronologia in Marketo.
 
 >[!MORELIKETHIS]
 >
->* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail di Marketo per Outlook](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
->* [Invia e tieni traccia di Outlook utilizzando un modello di Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
+>* [Inviare e tenere traccia di un&#39;e-mail con il componente aggiuntivo e-mail di Marketo per [!DNL Outlook]](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-an-email-with-the-email-add-in-for-outlook.md)
+>* [Invia e tieni traccia di [!DNL Outlook] Utilizzo di un modello Marketo](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)

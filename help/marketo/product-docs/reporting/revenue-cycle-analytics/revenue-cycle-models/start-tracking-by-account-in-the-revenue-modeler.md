@@ -4,42 +4,42 @@ description: Avviare il tracciamento per account nella Modeler dei ricavi - Docu
 title: Avvia tracciamento per account nella Modeler dei ricavi
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Avvia tracciamento per account nella Modeler dei ricavi {#start-tracking-by-account-in-the-revenue-modeler}
 
-Con il Modeler della fase del ricavo e il Revenue Explorer, puoi ottenere informazioni sulle prestazioni dei lead e degli account durante l’avanzamento del modello.
+Con Modeler e [!UICONTROL Revenue Explorer] per la fase dei ricavi, puoi ottenere da insight le prestazioni dei lead e degli account durante l&#39;avanzamento del modello.
 
 >[!NOTE]
 >
 >Assicurati che il tuo modello approvato abbia fasi nel percorso di successo con **Avvia tracciamento per account** selezionato
 
-1. Trascorso il tempo necessario per raccogliere dati utili, selezionare **Gestione ricavi** nella **Home page Marketo**.
+1. Trascorso il tempo necessario per raccogliere dati utili, selezionare **[!UICONTROL Revenue Explorer]** nella **Home di My Marketo**.
 
    ![](assets/image2015-4-29-16-3a36-3a2.png)
 
-1. Per creare un nuovo report, fare clic su **File** e selezionare **Nuovo**, quindi **Report**.
+1. Per creare un nuovo report, fare clic su **[!UICONTROL File]** e selezionare **[!UICONTROL New]**, quindi **[!UICONTROL Report]**.
 
    ![](assets/image2015-4-29-16-3a38-3a44.png)
 
-1. Selezionare **Analisi prestazioni modello (società)** come area di analisi e fare clic su **OK**.
+1. Selezionare **[!UICONTROL Model Performance Analysis (Companies)]** come area di analisi e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/image2015-4-29-16-3a41-3a47.png)
 
-1. È consigliabile trascinare i campi **Fase**, **Mese** e **Saldo finale** per visualizzare la progressione delle aziende nel modello per mese. Utilizzare i filtri per selezionare i mesi desiderati.
+1. È consigliabile trascinare i campi **[!UICONTROL Stage]**, **[!UICONTROL Month]** e **[!UICONTROL Ending Balance]** per visualizzare la progressione delle aziende nel modello per mese. Utilizzare i filtri per selezionare i mesi desiderati.
 
    ![](assets/image2015-4-29-17-3a16-3a1.png)
 
-1. Al termine della configurazione del report, fai clic con il pulsante destro del mouse su **Is Track Company** e seleziona **Filter**. Questo verrà utilizzato per limitare il report solo alle fasi in cui è selezionato **Tracciamento per account**.
+1. Al termine della configurazione del report, fare clic con il pulsante destro del mouse su **[!UICONTROL Is Track Company]** e selezionare **[!UICONTROL Filter]**. Questo verrà utilizzato per limitare il report solo alle fasi in cui è selezionato **Tracciamento per account**.
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Nella finestra di dialogo visualizzata, seleziona Sì e fai clic sulla freccia rivolta a destra al centro. Questo filtra solo le fasi con &quot;Tracciamento per account&quot; abilitato. Al termine, fai clic su **OK**.
+1. Nella finestra di dialogo visualizzata, selezionare **[!UICONTROL Yes]** e fare clic sulla freccia rivolta a destra al centro. Questo filtra solo le fasi con &quot;Tracciamento per account&quot; abilitato. Al termine, fai clic su **[!UICONTROL OK]**.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 

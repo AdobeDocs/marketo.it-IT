@@ -4,9 +4,9 @@ description: Aggiungere ulteriori CNAME per la pagina di destinazione - Document
 title: Aggiungi altri CNAME per pagina di destinazione
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
@@ -37,15 +37,15 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 
    ![](assets/add-additional-landing-page-cnames-2.png)
 
-1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo ID Munchkin.
+1. Scorri verso il basso fino a &quot;Informazioni di supporto&quot; e copia il tuo Munchkin ID.
 
    ![](assets/add-additional-landing-page-cnames-3.png)
 
 ## Invia richiesta al reparto IT {#send-request-to-it}
 
-1. Chiedi al tuo reparto IT di configurare il seguente CNAME: (sostituisci la parola [CNAME] con il CNAME desiderato e l&#39;ID [Munchkin] con il testo del passaggio precedente).
+1. Chiedi al tuo reparto IT di configurare il seguente CNAME: (sostituisci la parola [CNAME] con il CNAME desiderato e [Munchkin ID] con il testo del passaggio precedente).
 
-   [CNAME].YourCompany.com > [ID Munchkin].mktoweb.com
+   [CNAME].YourCompany.com > [Munchkin ID].mktoweb.com
 
 ## Aggiungi un nuovo CNAME {#add-a-new-cname}
 
@@ -57,19 +57,19 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 
    ![](assets/add-additional-landing-page-cnames-5.png)
 
-1. Fai clic su **Nuovo**, quindi seleziona **Nuovo alias di dominio**.
+1. Fai clic su **[!UICONTROL New]**, quindi seleziona **[!UICONTROL New Domain Alias]**.
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Immetti l&#39;alias di dominio **.** Se il visitatore non inserisce un URL, viene visualizzata la **pagina predefinita**. In tal caso, specifica il percorso da seguire.
+1. Immetti **[!UICONTROL Domain Alias].** **[!UICONTROL Default Page]** viene visualizzato se il visitatore non inserisce un URL. In tal caso, specifica il percorso da seguire.
 
    >[!NOTE]
    >
-   >Per Pagina predefinita, puoi selezionare una pagina di destinazione o un URL esterno, ad esempio il sito web pubblico.
+   >Per [!UICONTROL Default Page], è possibile selezionare una pagina di destinazione o un URL esterno, ad esempio il sito Web pubblico.
 
    ![](assets/add-additional-landing-page-cnames-7.png)
 
-1. Immetti la **pagina predefinita** e fai clic su **Crea**.
+1. Immetti **[!UICONTROL Default Page]** e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 

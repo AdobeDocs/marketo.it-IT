@@ -4,9 +4,9 @@ description: Configurare i lead Ads di Facebook - Documentazione di Marketo - Do
 title: Configurare gli annunci lead di Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 5b31abc52e9bba690e908d9ee6018cecad0080e7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Utilizza [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    ![](assets/set-up-facebook-lead-ads-2.png)
 
-1. Immetti un **Nome visualizzato** per il servizio, seleziona il servizio **Annunci lead di Facebook** dall&#39;elenco a discesa, quindi fai clic su **Crea**.
+1. Immetti **[!UICONTROL Display Name]** per il servizio, seleziona il servizio **[!UICONTROL Facebook Lead Ads]** dal menu a discesa e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/set-up-facebook-lead-ads-3.png)
 
@@ -39,31 +39,31 @@ Utilizza [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    >[!NOTE]
    >
-   >L’account Facebook dovrà accedere a tutte le pagine aziendali Facebook da cui desideri richiamare annunci lead.
+   >L&#39;account [!DNL Facebook] dovrà accedere a tutte le pagine aziendali [!DNL Facebook] da cui desideri richiamare annunci lead.
 
    ![](assets/set-up-facebook-lead-ads-4.png)
 
-1. Dopo aver effettuato l&#39;accesso a Facebook, torna a Marketo e fai clic su **Autorizza**.
+1. Dopo aver effettuato l&#39;accesso a [!DNL Facebook], tornare a Marketo e fare clic su **[!UICONTROL Authorize]**.
 
    ![](assets/set-up-facebook-lead-ads-5.png)
 
-1. Se richiesto, fare clic su **OK** per accettare l&#39;installazione dell&#39;app Marketo in Facebook.
+1. Se richiesto, fare clic su **[!UICONTROL OK]** per accettare l&#39;installazione dell&#39;app Marketo in [!DNL Facebook].
 
    ![](assets/set-up-facebook-lead-ads-6.png)
 
-1. Noterai che ora sei autorizzato. Fai clic su **Avanti**.
+1. Noterai che ora sei autorizzato. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/set-up-facebook-lead-ads-7.png)
 
-1. Seleziona le pagine da cui vuoi richiamare i lead Ads di Marketo e fai clic su **Avanti**.
+1. Selezionare le pagine da cui Marketo dovrà richiamare [!UICONTROL Facebook Lead Ads] e fare clic su **[!UICONTROL Next]**.
 
    >[!TIP]
    >
-   >Se non trovi una pagina adatta, accertati che l’account Facebook utilizzato per l’autenticazione sia aggiunto alla pagina su Facebook e riprova.
+   >Se non trovi una pagina prevista, accertati che l&#39;account [!DNL Facebook] utilizzato per l&#39;autenticazione sia aggiunto alla pagina in [!DNL Facebook] e riprova.
 
    ![](assets/set-up-facebook-lead-ads-8.png)
 
-1. Per accettare le mappature predefinite dei campi da Facebook a Marketo, fai clic su **Crea**.
+1. Per accettare le mappature predefinite dei campi da [!DNL Facebook] a Marketo, fare clic su **[!UICONTROL Create]**.
 
    >[!TIP]
    >
@@ -71,11 +71,11 @@ Utilizza [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
    >[!CAUTION]
    >
-   >Marketo non supporta la mappatura di due campi Facebook in un singolo campo Marketo, solo da 1 a 1. Se si esegue il mapping da 2 a 1, i lead potrebbero non essere in grado di accedere al sistema Marketo.
+   >Marketo non supporta la mappatura di due campi [!DNL Facebook] in un singolo campo Marketo, solo da 1 a 1. Se si esegue il mapping da 2 a 1, i lead potrebbero non essere in grado di accedere al sistema Marketo.
 
    ![](assets/set-up-facebook-lead-ads-9.png)
 
-   Ben fatto! I lead inizieranno a fluire in Marketo man mano che eseguirai campagne pubblicitarie per lead su Facebook di successo.
+   Ben fatto! I lead inizieranno a fluire in Marketo quando si eseguono con successo [!DNL Facebook] campagne di annunci lead.
 
    ![](assets/set-up-facebook-lead-ads-10.png)
 

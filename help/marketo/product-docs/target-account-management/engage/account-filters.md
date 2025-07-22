@@ -4,24 +4,24 @@ description: Filtri account - Documentazione Marketo - Documentazione del prodot
 title: Filtri account
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Filtri account {#account-filters}
+# [!UICONTROL Account Filters] {#account-filters}
 
 Identifica e coinvolgi gli account denominati e gli utenti tipo al loro interno utilizzando nuovi filtri incentrati sull’account.
 
 ## Filtri TAM {#tam-filters}
 
-1. Seleziona la tua campagna avanzata e fai clic su **Elenco avanzato**.
+1. Seleziona la tua smart campaign e fai clic su **[!UICONTROL Smart List]**.
 
    ![](assets/one.png)
 
-1. Fare clic su **+** per espandere la cartella **Filtri account**.
+1. Fare clic su **+** per espandere la cartella **[!UICONTROL Account Filters]**.
 
    ![](assets/two.png)
 
@@ -29,9 +29,9 @@ Identifica e coinvolgi gli account denominati e gli utenti tipo al loro interno 
 
    ![](assets/three.png)
 
-## Membro dell’elenco account {#member-of-account-list}
+## [!UICONTROL Member of Account List] {#member-of-account-list}
 
-Per utilizzare questo filtro, fai clic sull’elenco a discesa degli account...
+Per utilizzare questo filtro, fare clic sull&#39;elenco a discesa **[!UICONTROL Account List]**...
 
 ![](assets/four.png)
 
@@ -41,11 +41,11 @@ Per utilizzare questo filtro, fai clic sull’elenco a discesa degli account...
 
 >[!NOTE]
 >
->Per il filtro Elenco membri dell’account, esiste un solo qualificatore: &quot;is&quot; - Qualificatori aggiuntivi (come &quot;is not&quot; e &quot;is any&quot;) non sono disponibili.
+>Per il filtro [!UICONTROL Member of Account List] esiste un solo qualificatore: &quot;[!UICONTROL is]&quot; - Qualificatori aggiuntivi (ad esempio &quot;non è&quot; e &quot;è qualsiasi&quot;) non sono disponibili.
 
-## Membro di account denominato {#member-of-named-account}
+## [!UICONTROL Member of Named Account] {#member-of-named-account}
 
-Scegliere innanzitutto un qualificatore. **È** per uno o più account denominati specifici oppure **è qualsiasi** per qualsiasi account denominato.
+Scegliere innanzitutto un qualificatore. **[!UICONTROL is]** per uno o più account denominati specifici oppure **[!UICONTROL is any]** per qualsiasi account denominato.
 
 ![](assets/six.png)
 
@@ -57,11 +57,11 @@ Fai clic sull’elenco a discesa dell’account denominato...
 
 ![](assets/eight.png)
 
-Se utilizzi il qualificatore &quot;è qualsiasi&quot;, puoi utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) per limitare i risultati della ricerca. Aggiungetene quanti ne volete!
+Se si utilizza il qualificatore &quot;[!UICONTROL is any]&quot;, è possibile utilizzare [vincoli](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/add-a-constraint-to-a-smart-list-filter.md) per limitare i risultati della ricerca. Aggiungetene quanti ne volete!
 
 ![](assets/nine.png)
 
-Impostare &quot;Includi elementi figlio&quot; su false se si desidera che i membri vengano inclusi solo dall&#39;account singolo di livello superiore. Selezionare true se si desidera che i membri vengano inclusi in tutti gli account figlio.
+Imposta &quot;[!UICONTROL Include Children]&quot; su **[!UICONTROL false]** se desideri solo membri dall&#39;account singolo di primo livello. Selezionare **[!UICONTROL true]** se si desidera avere membri da tutti gli account figlio.
 
 ![](assets/ten.png)
 

@@ -4,16 +4,16 @@ description: Trovare e unire persone duplicate - Documentazione di Marketo - Doc
 title: Trova e unisci persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
 # Trova e unisci persone duplicate {#find-and-merge-duplicate-people}
 
-Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe inizialmente aver inviato più duplicati. Ecco come unirle.
+Marketo Engage esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe inizialmente aver inviato più duplicati. Ecco come unirle.
 
 >[!CAUTION]
 >
@@ -25,7 +25,7 @@ Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone 
 
 >[!NOTE]
 >
->Marketo non esegue automaticamente la deduplicazione su una sincronizzazione Salesforce o Microsoft Dynamics né quando si immettono manualmente persone.
+>Marketo non eseguirà la deduplicazione automatica in base a una sincronizzazione [!DNL Salesforce] o [!DNL Microsoft Dynamics] o quando si immettono manualmente persone.
 
 ## Trova duplicati {#find-duplicates}
 
@@ -35,9 +35,9 @@ Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone 
 
    >[!CAUTION]
    >
-   >L’unione di persone in Marketo potrebbe non funzionare se utilizzi un account Salesforce Person. Unisci i record in Salesforce se possibile.
+   >L&#39;unione di persone in Marketo potrebbe non funzionare se si utilizza un account persona [!DNL Salesforce]. Unisci i record in [!DNL Salesforce] se possibile.
 
-1. Seleziona l&#39;elenco avanzato di sistema **[!UICONTROL Possibili duplicati]** e fai clic sulla scheda **[!UICONTROL Persone]**.
+1. Selezionare l&#39;elenco avanzato di sistema **[!UICONTROL Possible Duplicates]** e fare clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/find-and-merge-duplicate-people-2.png)
 
@@ -51,7 +51,7 @@ Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone 
 >
 >Durante l&#39;unione delle persone, se la persona perdente ha un oggetto personalizzato Marketo, _non_ verrà nuovamente associata alla persona vincente. Prima di eseguire l&#39;unione, rieseguire l&#39;oggetto personalizzato.
 
-1. Selezionare i duplicati tenendo premuto Ctrl/Comando e facendo clic su, quindi fare clic su **[!UICONTROL Unisci persone]**.
+1. Selezionare i duplicati tenendo premuto Ctrl/Comando e facendo clic su, quindi fare clic su **[!UICONTROL Merge People]**.
 
    ![](assets/find-and-merge-duplicate-people-3.png)
 
@@ -59,7 +59,7 @@ Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone 
    >
    >Potresti avere due o più duplicati per la stessa persona: selezionali tutti contemporaneamente.
 
-1. Vedrai i valori tra i record che _non_ corrispondono. Selezionare il valore da mantenere per ogni campo. Al termine, fai clic su **[!UICONTROL Unisci]**. Se non desideri entrambi i valori, puoi selezionare **[!UICONTROL Personalizzato]** e immettere un valore a tua scelta.
+1. Vedrai i valori tra i record che _non_ corrispondono. Selezionare il valore da mantenere per ogni campo. Al termine, fai clic su **[!UICONTROL Merge]**. Se non si desidera utilizzare nessuno dei due valori, è possibile selezionare **[!UICONTROL Custom]** e immettere un valore desiderato.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
@@ -75,14 +75,14 @@ Il Marketo Engage esegue automaticamente la deduplicazione quando nuove persone 
 
 Se hai integrato Salesforce, ci sono alcune note sull’effetto dell’unione di lead in Salesforce.
 
-* Quando si uniscono solo lead o solo contatti, si uniscono in base alle normali regole Salesforce.
-* Quando si uniscono lead e contatti, tutti i lead vengono convertiti in contatti prima dell’unione in base alle normali regole di Salesforce.
+* Quando si uniscono solo lead o solo contatti, vengono uniti in base alle normali regole [!DNL Salesforce].
+* Quando si uniscono lead e contatti, tutti i lead vengono convertiti in contatti prima dell&#39;unione in base alle normali regole [!DNL Salesforce].
 
-Per informazioni specifiche sul comportamento di Salesforce durante l’unione di lead o contatti, consulta i seguenti documenti di Salesforce:
+Per informazioni specifiche sul comportamento di Salesforce durante l&#39;unione di lead o contatti, controllare i seguenti [!DNL Salesforce] documenti:
 
-* [Unione di lead duplicati](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&amp;language=en_US){target="_blank"}
-* [Unione di contatti duplicati](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&amp;language=en_US){target="_blank"}
+* [Unione di lead duplicati](https://help.salesforce.com/HTViewHelpDoc?id=leads_merge.htm&language=en_US){target="_blank"}
+* [Unione di contatti duplicati](https://help.salesforce.com/HTViewHelpDoc?id=contacts_merge.htm&language=en_US){target="_blank"}
 
 ## Unione in blocco {#bulk-merging}
 
-Se hai troppi duplicati da unire manualmente, contatta l’Adobe Account Team (il tuo Account Manager) per discutere le tue opzioni.
+Se hai troppi duplicati da unire manualmente, contatta il team dell’account di Adobe (il tuo Account Manager) per discutere le tue opzioni.

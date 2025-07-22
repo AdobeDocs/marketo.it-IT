@@ -4,9 +4,9 @@ description: Creazione di un rapporto in un programma - Documentazione di Market
 title: Creare un rapporto in un programma
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinazione, le e-mail e le risorse social.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -25,17 +25,17 @@ Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinaz
 
    >[!NOTE]
    >
-   >È inoltre possibile creare report dalla scheda **Analytics**.
+   >È inoltre possibile creare report dalla scheda **[!UICONTROL Analytics]**.
 
-1. Fare clic con il pulsante destro del mouse sul programma e selezionare **Nuova risorsa locale**.
+1. Fare clic con il pulsante destro del mouse sul programma e selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/programrightclick-asset.png)
 
-1. Fai clic su **Report**.
+1. Fai clic su **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-15-18-3a36-3a46.png)
 
-1. Selezionare il report **Tipo**.
+1. Selezionare il report **[!UICONTROL Type]**.
 
    ![](assets/choosereport.png)
 
@@ -53,7 +53,7 @@ Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinaz
 
 1. Imposta l’intervallo di tempo del rapporto. Per ulteriori dettagli, consulta [Modificare un intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md).
 
-1. Fai clic sulla scheda **Report** per visualizzare le statistiche.
+1. Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare le statistiche.
 
    ![](assets/image2014-9-15-18-3a38-3a5.png)
 

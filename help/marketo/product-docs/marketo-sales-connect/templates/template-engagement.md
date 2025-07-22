@@ -4,9 +4,9 @@ description: Coinvolgimento con i modelli - Documentazione di Marketo - Document
 title: Coinvolgimento modello
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Segui i passaggi seguenti per visualizzare il tuo coinvolgimento con i modelli.
 
-1. Passare alla pagina **Analytics**.
+1. Passare alla pagina **[!UICONTROL Analytics]**.
 
-1. Fai clic sul pulsante **Contenuto** e filtra in base all&#39;intervallo di date desiderato.
+1. Fare clic sul pulsante **[!UICONTROL Content]** e filtrare in base all&#39;intervallo di date desiderato.
 
 1. In base all’intervallo di date selezionato, nella parte superiore della pagina puoi visualizzare il numero totale di e-mail e modelli utilizzati nel team.
 

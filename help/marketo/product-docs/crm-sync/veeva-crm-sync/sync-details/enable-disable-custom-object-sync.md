@@ -3,16 +3,16 @@ description: Abilitare/Disabilitare la sincronizzazione oggetti personalizzati -
 title: Abilita/Disabilita sincronizzazione oggetti personalizzati
 exl-id: 01417fb6-70f5-449b-ad56-42e1c0b2ff68
 feature: Veeva CRM
-source-git-commit: bebf61037f37a06b40b4d9c1df872f1cf62a1403
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
 # Abilita/Disabilita sincronizzazione oggetti personalizzati {#enable-disable-custom-object-sync}
 
-Anche gli oggetti personalizzati creati nell’istanza di CRM Veeva possono far parte del Marketo Engage. Ecco come configurarlo.
+Anche gli oggetti personalizzati creati nell&#39;istanza di CRM [!DNL Veeva] possono far parte di Marketo Engage. Ecco come configurarlo.
 
 ## Attivare o disattivare la sincronizzazione oggetti personalizzati {#enable-or-disable-the-custom-object-sync}
 
@@ -20,39 +20,39 @@ Anche gli oggetti personalizzati creati nell’istanza di CRM Veeva possono far 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. In Marketo, fai clic su **[!UICONTROL Amministratore]**, quindi su **[!UICONTROL Sincronizzazione oggetti Veeva]**.
+1. In Marketo, fai clic su **[!UICONTROL Admin]**, quindi su **[!UICONTROL Veeva Objects Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-1.png)
 
-1. Se si tratta del primo oggetto personalizzato, fare clic su Sincronizza schema. In caso contrario, fare clic su **[!UICONTROL Aggiorna schema]** per verificare di disporre dell&#39;ultima versione.
+1. Se si tratta del primo oggetto personalizzato, fare clic su **[!UICONTROL Sync Schema]**. In caso contrario, fare clic su **[!UICONTROL Refresh Schema]** per verificare di disporre dell&#39;ultima versione.
 
    ![](assets/enable-disable-custom-object-sync-2.png)
 
-1. Se la sincronizzazione globale è in esecuzione, disabilitarla facendo clic su **[!UICONTROL Disattiva sincronizzazione globale]**.
+1. Se la sincronizzazione globale è in esecuzione, disabilitarla facendo clic su **[!UICONTROL Disable Global Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-3.png)
 
    >[!NOTE]
    >
-   >La sincronizzazione dello schema di oggetti personalizzato Veeva potrebbe richiedere alcuni minuti.
+   >La sincronizzazione dello schema di oggetti personalizzato [!DNL Veeva] potrebbe richiedere alcuni minuti.
 
-1. Fare clic su **[!UICONTROL Aggiorna schema]**.
+1. Fai clic su **[!UICONTROL Refresh Schema]**.
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Selezionare l&#39;oggetto da sincronizzare e fare clic su Abilita sincronizzazione.
+Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
 
 ![](assets/enable-disable-custom-object-sync-5.png)
 
 >[!TIP]
 >
->Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Contatto o Account in Veeva CRM.
+>Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Contatto o Account in [!DNL Veeva] CRM.
 
-1. Fai di nuovo clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Fare di nuovo clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-6.png)
 
-1. Torna alla scheda Veeva e fai clic su **[!UICONTROL Abilita sincronizzazione]**.
+1. Tornare alla scheda [!UICONTROL Veeva] e fare clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-7.png)
 
@@ -62,7 +62,7 @@ Selezionare l&#39;oggetto da sincronizzare e fare clic su Abilita sincronizzazio
 >
 >Non è possibile utilizzare oggetti personalizzati nelle campagne intelligenti con trigger.
 
-1. Nell&#39;elenco avanzato, trascina il filtro &quot;Ha opportunità&quot; e imposta su **[!UICONTROL True]**.
+1. In [!UICONTROL Smart List], trascina il filtro &quot;**[!UICONTROL Has Opportunity]**&quot; e imposta su **[!UICONTROL True]**.
 
    ![](assets/enable-disable-custom-object-sync-8.png)
 
@@ -70,7 +70,7 @@ Selezionare l&#39;oggetto da sincronizzare e fare clic su Abilita sincronizzazio
 
    ![](assets/enable-disable-custom-object-sync-9.png)
 
-Eccellente! È ora possibile utilizzare i dati di questo oggetto personalizzato nelle campagne avanzate e negli elenchi avanzati.
+Eccellente! È ora possibile utilizzare i dati di questo oggetto personalizzato in [!UICONTROL Smart Campaigns] e [!UICONTROL Smart Lists].
 
 >[!MORELIKETHIS]
 >

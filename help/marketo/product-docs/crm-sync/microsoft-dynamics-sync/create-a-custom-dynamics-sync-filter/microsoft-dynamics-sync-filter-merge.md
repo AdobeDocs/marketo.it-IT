@@ -1,27 +1,27 @@
 ---
 unique-page-id: 10092969
-description: Filtro di sincronizzazione Microsoft Dynamics - Unione - Documenti Marketo - Documentazione del prodotto
-title: Filtro sincronizzazione Microsoft Dynamics - Unione
+description: Filtro di sincronizzazione Microsoft Dynamics -Merge - Documentazione Marketo - Documentazione del prodotto
+title: Filtro di sincronizzazione Microsoft Dynamics - Unione
 exl-id: f8da9c3c-0f04-4f61-be03-7e7953d25afe
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 4%
+source-wordcount: '159'
+ht-degree: 0%
 
 ---
 
-# Filtro sincronizzazione Microsoft Dynamics: Unisci {#microsoft-dynamics-sync-filter-merge}
+# [!DNL Microsoft] filtro di sincronizzazione Dynamics: unione {#microsoft-dynamics-sync-filter-merge}
 
-L’unione di lead in Microsoft Dynamics utilizza il tipo Due opzioni: filtro di sincronizzazione = Sì (TRUE) e filtro di sincronizzazione = No (FALSE). Quando si uniscono due record, il risultato varia a seconda del record True e del False.
+L&#39;unione dei lead in [!DNL Microsoft Dynamics] utilizza il tipo Due opzioni: filtro di sincronizzazione = Sì (TRUE) e filtro di sincronizzazione = No (FALSE). Quando si uniscono due record, il risultato varia a seconda del record True e del False.
 
-I record dei lead diventano true o false in base alle regole del flusso di lavoro definite dall&#39;amministratore per determinare il vincitore. Il filtro di sincronizzazione per il record vincente è ciò che determina in ultima analisi se il record MS Dynamics si sincronizza con Marketo.
+I record dei lead diventano true o false in base alle regole del flusso di lavoro definite dall&#39;amministratore per determinare il vincitore. Il filtro di sincronizzazione per il record vincente è ciò che determina in ultima analisi se il record [!DNL MS Dynamics] si sincronizza con Marketo.
 
 È quando un record è vero e uno è falso che diventa difficile.
 
 | Se il filtro di sincronizzazione per il record perdente è: | e il filtro di sincronizzazione per il record vincente è: | Questo è il risultato in Marketo |
 |---|---|---|
-| Vero | Vero | Il record vincente continua la sincronizzazione con Marketo |
-| Falso | Falso | Il record vincente continua con la sincronizzazione di _not_ con Marketo |
-| Falso | Vero | Il record vincente verrà sincronizzato con Marketo |
-| Vero | Falso | Il record vincente non verrà sincronizzato con Marketo |
+| [!UICONTROL True] | [!UICONTROL True] | Il record vincente continua la sincronizzazione con Marketo |
+| [!UICONTROL False] | [!UICONTROL False] | Il record vincente continua con la sincronizzazione di **not** con Marketo |
+| [!UICONTROL False] | [!UICONTROL True] | Il record vincente verrà sincronizzato con Marketo |
+| [!UICONTROL True] | [!UICONTROL False] | Il record vincente non verrà sincronizzato con Marketo |

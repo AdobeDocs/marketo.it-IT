@@ -3,32 +3,32 @@ description: Creazione di un messaggio in-app - Documentazione di Marketo - Docu
 title: Creare un messaggio in-app
 exl-id: 4efcdfe6-c1c3-4082-8eab-3e83c5cefa00
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
 
-# Creare un messaggio in-app {#create-an-in-app-message}
+# Crea un [!UICONTROL In-App Message] {#create-an-in-app-message}
 
 Puoi creare il messaggio in-app perfetto in diversi modi. Inizia qui e segui i passaggi in ordine in questi articoli.
 
 Dopo aver creato il messaggio in-app, vai [qui](/help/marketo/product-docs/mobile-marketing/in-app-messages/sending-your-in-app-message/send-your-in-app-message.md) per vedere come inviarlo.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![Immagine Uno](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-1.png)
 
-1. Fare clic con il pulsante destro del mouse su un programma e selezionare **Nuova risorsa locale**.
+1. Fare clic con il pulsante destro del mouse su un programma e selezionare **[!UICONTROL New Local Asset]**.
 
    ![Immagine due](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-2.png)
 
-1. Selezionare **Messaggio In-App**.
+1. Seleziona **[!UICONTROL In-App Message]**.
 
    ![Immagine tre](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-3.png)
 
-1. Immettere un nome per il messaggio in-app, fornire una descrizione facoltativa e fare clic su **Crea**.
+1. Immettere un nome per il messaggio in-app, fornire una descrizione facoltativa e fare clic su **[!UICONTROL Create]**.
 
    ![Immagine quattro](/help/marketo/product-docs/mobile-marketing/in-app-messages/creating-in-app-messages/assets/create-an-in-app-message-4.png)
 

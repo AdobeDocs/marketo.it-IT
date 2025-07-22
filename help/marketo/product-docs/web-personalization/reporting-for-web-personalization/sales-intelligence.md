@@ -4,9 +4,9 @@ description: Informazioni sulle vendite - Documentazione Marketo - Documentazion
 title: Informazioni sulle vendite
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Per accedervi, accedi alla piattaforma Marketo Web Personalization, inserisci un
 
 ## Definire l’area geografica dell’utente {#define-the-users-region}
 
-Per definire i dati relativi all&#39;organizzazione e al visitatore visualizzati in Marketo Web Personalization in base all&#39;area geografica, al paese o allo stato, passare a [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selezionare i paesi o gli stati.
+Per definire i dati relativi all&#39;organizzazione e al visitatore visualizzati in Marketo Web Personalization in base all&#39;area geografica, al paese o allo stato, passare a [[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) e selezionare i paesi o gli stati.
 
 ## Impostare i report e-mail giornalieri o settimanali {#set-up-daily-or-weekly-email-reports}
 
-In [Impostazioni utente](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md), puoi impostare la ricezione di report e-mail giornalieri o settimanali, inviati la mattina presto. I rapporti principali di interesse per un responsabile delle vendite includono i rapporti Organizzazioni e Lead, che visualizzano le organizzazioni visitate più importanti e i lead inviati, compresi i comportamenti, dall’area specifica dell’utente.
+In [[!UICONTROL User Settings]](/help/marketo/product-docs/web-personalization/getting-started/user-settings.md) è possibile impostare la ricezione di report di posta elettronica giornalieri o settimanali, inviati al mattino presto. I rapporti principali di interesse per un responsabile delle vendite includono i rapporti Organizzazioni e Lead, che visualizzano le organizzazioni visitate più importanti e i lead inviati, compresi i comportamenti, dall’area specifica dell’utente.
 
 >[!NOTE]
 >

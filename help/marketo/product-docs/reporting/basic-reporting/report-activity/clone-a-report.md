@@ -4,9 +4,9 @@ description: Clonare un rapporto - Documentazione di Marketo - Documentazione de
 title: Clonare un rapporto
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Crea un duplicato del rapporto per personalizzarlo ulteriormente senza modificare l’originale.
 
-1. Vai all&#39;area **Attività di marketing** (o **Analytics**).
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/image2014-9-16-14-3a23-3a46.png)
 
-1. Seleziona il rapporto. Seleziona **Azioni report** > **Clona un report**.
+1. Seleziona il rapporto. Selezionare **[!UICONTROL Report Actions]** > **[!UICONTROL Clone a Report]**.
 
    ![](assets/image2014-9-16-14-3a23-3a53.png)
 

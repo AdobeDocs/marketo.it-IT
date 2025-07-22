@@ -4,9 +4,9 @@ description: Modifica di snippet con contenuti dinamici - Documenti Marketo - Do
 title: Modifica snippet con contenuto dinamico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,19 @@ Utilizza la segmentazione in snippet per gestire facilmente il contenuto dinamic
 
 ## Aggiungi segmentazione {#add-segmentation}
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-1.png)
 
-1. Fai clic sul **frammento** e quindi **Modifica bozza**.
+1. Fai clic sul **frammento** e quindi su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-16-8-3a59-3a14.png)
 
-1. Fai clic su **Segmento di**.
+1. Fai clic su **[!UICONTROL Segment By]**.
 
    ![](assets/image2014-9-16-8-3a59-3a27.png)
 
-1. Immetti **Segmentation** e fai clic su **Salva**.
+1. Immetti **[!UICONTROL Segmentation]** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-8-3a59-3a42.png)
 

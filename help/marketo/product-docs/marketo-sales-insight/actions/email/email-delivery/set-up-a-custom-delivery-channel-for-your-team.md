@@ -3,9 +3,9 @@ description: Configurare un canale di consegna personalizzato per il team - Docu
 title: Configurare un canale di consegna personalizzato per il team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,21 @@ ht-degree: 0%
 >
 >* Oltre a configurare il server SMTP, è necessario verificare l&#39;[identità e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/getting-started/email-settings/verify-your-email.md) prima di poter inviare le e-mail.
 >* È consigliabile rivolgersi al team IT o al fornitore del server SMTP per ottenere le credenziali corrette per il server SMTP.
->* Non è possibile connettere il server Gmail ed Exchange utilizzando le credenziali del server SMTP. Utilizza il nostro servizio di connessione e-mail per eseguire l’integrazione con questi provider.
+>* Impossibile connettere il server Gmail e [!DNL Exchange] utilizzando le credenziali del server SMTP. Utilizza il nostro servizio di connessione e-mail per eseguire l’integrazione con questi provider.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e scegli **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e scegliere **[!UICONTROL Settings]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Generale**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL General]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Fare clic sulla scheda **Canale di consegna team**.
+1. Fare clic sulla scheda **[!UICONTROL Team Delivery Channel]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 
-1. Immetti le credenziali del server SMTP e fai clic su **Connetti**.
+1. Immettere le credenziali del server SMTP e fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-4.png)
 
@@ -45,4 +45,4 @@ ht-degree: 0%
    >[!MORELIKETHIS]
    >
    >* [Connessione e-mail per utenti Gmail](/help/marketo/product-docs/marketo-sales-connect/email-plugins/gmail/email-connection-for-gmail-users.md)
-   >* [Connessione e-mail per gli utenti di Outlook](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)
+   >* [Connessione e-mail per [!DNL Outlook] Utenti](/help/marketo/product-docs/marketo-sales-connect/email-plugins/msc-for-outlook/email-connection-for-outlook-users.md)

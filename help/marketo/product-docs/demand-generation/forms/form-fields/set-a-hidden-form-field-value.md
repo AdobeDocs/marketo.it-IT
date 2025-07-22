@@ -4,10 +4,10 @@ description: Impostare un valore per il campo Modulo nascosto - Documentazione d
 title: Impostare un valore per il campo modulo nascosto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 1%
 
 ---
 
@@ -21,72 +21,72 @@ I campi nascosti vengono in genere compilati in modo dinamico. Non vengono mostr
 
 ## Seleziona il campo {#select-the-field}
 
-1. Nel modulo, seleziona il campo nascosto e fai clic su **Modifica** per **riempimento automatico**.
+1. Nel modulo, selezionare il campo nascosto e fare clic su **[!UICONTROL Edit]** per **[!UICONTROL Autofill]**.
 
    ![](assets/autofill.png)
 
 ## Usa valore predefinito {#use-default-value}
 
-Selezionando Usa valore predefinito è possibile codificare un valore specifico da utilizzare sempre durante l&#39;invio del modulo. Immettete il valore predefinito e fate clic su Salva (Save).
+Selezionando Usa **[!UICONTROL Default Value]** è possibile codificare un valore specifico da utilizzare sempre durante l&#39;invio del modulo. Immettere **[!UICONTROL Default Value]** e fare clic su **[!UICONTROL Save]**.
 
 ![](assets/image2014-9-15-13-3a5-3a27.png)
 
-## Parametro URL {#url-parameter}
+## URL Parameter {#url-parameter}
 
-Se desideri acquisire i parametri URL (stringhe di query) dalla pagina in cui si trova la persona durante la compilazione del modulo, puoi utilizzare **Parametri URL** per compilare il campo nascosto.
+Se desideri acquisire i parametri URL (stringhe di query) dalla pagina in cui si trova la persona durante la compilazione del modulo, puoi utilizzare **[!UICONTROL URL Parameters]** per popolare il campo nascosto.
 
 >[!NOTE]
 >
 >I parametri sono piuttosto tecnologici, vero? Una volta ottenuti, però, sono potenti. Questa [pagina Wikipedia sulle stringhe di query](https://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
 
-1. Seleziona **Parametro URL** per **Ottieni tipo valore**.
+1. Selezionare **[!UICONTROL URL Parameter]** per **[!UICONTROL Get Value Type]**.
 
    ![](assets/image2014-9-15-13-3a6-3a48.png)
 
-1. Immetti il **Nome parametro** e fai clic su **Salva**.
+1. Immettere **[!UICONTROL Parameter Name]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a7-3a35.png)
 
 >[!TIP]
 >
->Se il parametro URL non viene trovato, puoi immettere un valore predefinito.
+>È possibile immettere **[!UICONTROL Default Value]** nel caso in cui il parametro URL non venga trovato.
 
 ## Valore cookie {#cookie-value}
 
-Se memorizzi i dati nei cookie, puoi utilizzare **Valore cookie** per raccogliere i dati al momento dell&#39;invio del modulo.
+Se si memorizzano i dati nei cookie, è possibile utilizzare **[!UICONTROL Cookie Value]** per raccogliere i dati al momento dell&#39;invio del modulo.
 
-1. Seleziona **Valore cookie** per **Ottieni valore da**.
+1. Selezionare **[!UICONTROL Cookie Value]** per **[!UICONTROL Get Value From]**.
 
    ![](assets/image2014-9-15-13-3a8-3a21.png)
 
-1. Immettere il nome del parametro del cookie desiderato e fare clic su **Salva**.
+1. Immettere il cookie **[!UICONTROL Parameter Name]** desiderato e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a8-3a43.png)
 
    >[!TIP]
    >
-   >Se il parametro o il cookie non viene trovato, puoi immettere un valore predefinito.
+   >È possibile immettere **[!UICONTROL Default Value]** nel caso in cui il parametro/cookie non sia stato trovato.
 
 ## Parametro referrer {#referrer-parameter}
 
-Se desideri acquisire i dati dalla pagina da cui proviene il visitatore prima di compilare il modulo, puoi utilizzare **Parametro referrer**.
+Se desideri acquisire i dati dalla pagina da cui proviene il visitatore prima di compilare il modulo, puoi utilizzare **[!UICONTROL Referrer Parameter]**.
 
-1. Imposta **Ottieni valore da** a **Parametro referrer**.
+1. Imposta **[!UICONTROL Get Value From]** su **[!UICONTROL Referrer Parameter]**.
 
    ![](assets/image2014-9-15-13-3a9-3a31.png)
 
-1. Immetti il **Nome parametro** che desideri acquisire dall&#39;URL del referente e fai clic su **Salva**.
+1. Immettere **[!UICONTROL Parameter Name]** che si desidera acquisire dall&#39;URL del referente e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-13-3a9-3a56.png)
 
    >[!TIP]
    >
-   >È possibile immettere un **valore predefinito** nel caso in cui il parametro referrer non sia stato trovato.
+   >È possibile immettere **[!UICONTROL Default Value]** nel caso in cui il parametro referrer non sia stato trovato.
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-13-3a10-3a26.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-13-3a10-3a43.png)

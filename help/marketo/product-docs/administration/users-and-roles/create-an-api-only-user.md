@@ -4,20 +4,20 @@ description: Creazione di un utente solo API - Documentazione di Marketo - Docum
 title: Creare un utente solo API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 0%
+source-wordcount: '172'
+ht-degree: 2%
 
 ---
 
 # Creare un utente solo API {#create-an-api-only-user}
 
-Se desideri eseguire l&#39;integrazione con Marketo tramite l&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, devi creare un utente solo API. Ecco come.
+Se desideri eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, devi creare un utente solo API. Ecco come.
 
 >[!IMPORTANT]
 >
->Se stai creando solo utenti API in una sottoscrizione a cui è stato effettuato l&#39;onboarding in Adobe Identity, i passaggi sono diversi e [si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
+>Se stai creando solo utenti API in una sottoscrizione a cui è stato effettuato l&#39;onboarding in Adobe Identity, i tuoi passaggi sono diversi e [si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}.
 
 >[!PREREQUISITES]
 >
@@ -27,31 +27,31 @@ Se desideri eseguire l&#39;integrazione con Marketo tramite l&#39;[API REST](htt
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-1.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-an-api-only-user-2.png)
 
-1. Fare clic su **[!UICONTROL Invita nuovo utente]**.
+1. Fai clic su **[!UICONTROL Invite New User]**.
 
    ![](assets/create-an-api-only-user-3.png)
 
-1. Immetti e-mail, nome e cognome per l’utente API. Fai clic su **[!UICONTROL Avanti]**.
+1. Immetti e-mail, nome e cognome per l’utente API. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/create-an-api-only-user-4.png)
 
    >[!TIP]
    >
-   >Aggiungi un motivo facoltativo o una data di scadenza dell’accesso. Le date di scadenza dell’accesso sono utili per i dipendenti a breve termine.
+   >Aggiungere una data [!UICONTROL Reason] o [!UICONTROL Access Expiration] facoltativa. Le date di scadenza dell’accesso sono utili per i dipendenti a breve termine.
 
-1. Selezionare il ruolo **[!UICONTROL Solo API]** e selezionare la casella di controllo **[!UICONTROL Solo API]**. Fai clic su **[!UICONTROL Avanti]**.
+1. Selezionare il ruolo **[!UICONTROL API Only]** e selezionare la casella di controllo **[!UICONTROL API Only]**. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/create-an-api-only-user-5.png)
 
-1. Fai clic su **[!UICONTROL Invia]**.
+1. Fai clic su **[!UICONTROL Send]**.
 
    ![](assets/create-an-api-only-user-6.png)
 

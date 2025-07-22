@@ -4,42 +4,42 @@ description: Campo Tipo di attività sulle attività (SFDC) - Documentazione di 
 title: Campo Tipo di attività sulle attività (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 0%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
 # Campo Tipo di attività sulle attività (SFDC) {#activity-type-field-on-tasks-sfdc}
 
-Con l’aiuto di Sales Connect puoi registrare le tue e-mail e chiamate come attività in Salesforce. Una parte fondamentale per avere dati importanti in Salesforce è far sì che il campo Tipo compili il valore corretto.
+Con l&#39;aiuto di [!DNL Sales Connect] puoi registrare le tue e-mail e chiamate come attività in [!DNL Salesforce]. Una parte fondamentale per avere dati importanti in [!DNL Salesforce] è che il campo [!UICONTROL Type] popola il valore corretto.
 
 >[!NOTE]
 >
->La registrazione delle e-mail tramite Ccn non viene eseguita nell’elenco a discesa Tipo di attività, ma viene automaticamente compilata come &quot;e-mail&quot; nel campo Tipo, poiché le e-mail vengono inviate a Salesforce tramite il tuo indirizzo Ccn.
+>La registrazione delle e-mail tramite Ccn non verrà visualizzata nell&#39;elenco a discesa Tipo di attività e al suo posto verrà automaticamente compilato il campo del tipo come &quot;e-mail&quot;, poiché vengono recapitate a [!DNL Salesforce] tramite il tuo indirizzo Ccn.
 
 ## Requisiti {#requirements}
 
-* Connessione con Salesforce
+* Connessione con [!DNL Salesforce]
 * Nessun valore Tipo predefinito selezionato nell&#39;elenco a discesa Tipo di task
 * Chiamata, Risposta ed E-mail devono essere presenti nell&#39;elenco a discesa Tipo di task (le maiuscole sono importanti)
 * Nessun flusso di lavoro o trigger che interviene sul valore del campo Tipo
 
 ## Configurazione {#setup}
 
-Verifica innanzitutto di disporre dei valori corretti per l’elenco a discesa. Per apportare qualsiasi modifica alla tua lista di selezione dovrai chiedere aiuto all’amministratore Salesforce.
+Verifica innanzitutto di disporre dei valori corretti per l’elenco a discesa. Per apportare modifiche all&#39;elenco di selezione, è necessario l&#39;aiuto dell&#39;amministratore [!DNL Salesforce].
 
 1. Passa a [Salesforce.com](https://salesforce.com) e fai clic su Configurazione nell&#39;angolo in alto a destra.
-1. Fai clic su Personalizza.
-1. Fai clic su Attività.
-1. Fare clic su Campi attività.
-1. Fare clic su Tipo.
+1. Fai clic su **[!UICONTROL Customize]**.
+1. Fai clic su **[!UICONTROL Activities]**.
+1. Fai clic su **[!UICONTROL Task Fields]**.
+1. Fai clic su **[!UICONTROL Type]**.
 1. Ora ti trovi nell’elenco a discesa Tipo di attività. Assicurati che non sia selezionato &quot;Predefinito&quot;.
-1. Assicurati che sia elencato un valore Tipo per E-mail, Chiamata e Risposta.
+1. Verificare che sia presente un valore [!UICONTROL Type] elencato per [!UICONTROL Email], [!UICONTROL Call] e [!UICONTROL Reply].
 
 Ora che questa è attiva, inizierai a vedere che il campo Tipo popola il valore corrispondente per e-mail, chiamate e risposte registrate. Questi valori _non_ verranno inseriti nelle attività promemoria di Sales Connect.
 
 >[!NOTE]
 >
->Se il valore &quot;Reply&quot; (Risposta) non è visualizzato, aggiungerlo facendo clic su **New**. &quot;Reply&quot; (&quot;Risposta&quot;) non è un valore standard in Salesforce.
+>Se il valore &quot;Reply&quot; non è visualizzato, aggiungerlo facendo clic su **[!UICONTROL New]**. &#39;Reply&#39; non è un valore standard in [!DNL Salesforce].

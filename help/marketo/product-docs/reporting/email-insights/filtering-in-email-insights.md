@@ -4,18 +4,18 @@ description: Filtraggio in Email Insights - Documentazione di Marketo - Document
 title: Filtraggio in Informazioni e-mail
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Filtraggio in Informazioni e-mail {#filtering-in-email-insights}
+# Filtro in [!UICONTROL Email Insights] {#filtering-in-email-insights}
 
-In Email Insights (Approfondimenti e-mail) sono disponibili diversi modi per filtrare i dati.
+In [!UICONTROL Email Insights] esistono diversi modi per filtrare i dati.
 
-## Email Insights {#email-insights}
+## [!UICONTROL Email Insights] {#email-insights}
 
 Fai clic sul pulsante + per iniziare ad aggiungere filtri. Aggiungetene quanti ne volete.
 
@@ -59,10 +59,10 @@ Scegli tra intervalli di date predefiniti comuni, seleziona date specifiche e ut
 
 >[!NOTE]
 >
->Gli intervalli di date si applicano sia alla pagina Analytics che alla pagina Invii. L&#39;opzione **Confronta** è tuttavia applicabile solo alla pagina Analytics.
+>Gli intervalli di date si applicano sia alla pagina [!UICONTROL Analytics] che alla pagina [!UICONTROL Sends]. L&#39;opzione **Confronta** è tuttavia applicabile solo alla pagina [!UICONTROL Analytics].
 
 ## Marketing basato sull&#39;account {#account-based-marketing}
 
-Se utilizzi [Gestione account di Target](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), sono disponibili filtri specifici.
+Se utilizzi [[!UICONTROL Target Account Management]](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview), sono presenti filtri specifici per te.
 
 ![](assets/abm.png)

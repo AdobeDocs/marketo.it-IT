@@ -4,26 +4,26 @@ description: Esplora i dettagli del programma e del canale con il tool Program A
 title: Esplora i dettagli del programma e del canale con l’analizzatore di programmi
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
-# Esplora i dettagli del programma e del canale con l’analizzatore di programmi {#explore-program-channel-details-with-the-program-analyzer}
+# Esplora i dettagli del programma e del canale con [!UICONTROL Program Analyzer] {#explore-program-channel-details-with-the-program-analyzer}
 
-Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Program Analyzer (Analizzatore di programmi). È inoltre possibile aprirli in Esplora cicli di ricavi.
+Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in [!UICONTROL Program Analyzer]. È inoltre possibile aprirli in Esplora cicli di ricavi.
 
 >[!PREREQUISITES]
 >
->[Creare un analizzatore di programmi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
+>[Crea un [!UICONTROL Program Analyzer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/create-a-program-analyzer.md)
 
 >[!AVAILABILITY]
 >
 >Non tutte le edizioni di Marketo includono questa funzionalità. Per ulteriori informazioni, contatta il tuo account manager.
 
-1. Fare clic su **Analytics**.
+1. Fai clic su **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-12-3a54-3a47.png)
 
@@ -31,7 +31,7 @@ Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Progr
 
    ![](assets/image2015-4-28-12-3a56-3a46.png)
 
-1. Per visualizzare le statistiche specifiche di un canale o programma (a seconda della **visualizzazione** selezionata), fare clic sulla bolla corrispondente.
+1. Per visualizzare le statistiche specifiche di un canale o programma (a seconda del **[!UICONTROL View]** selezionato), fare clic sulla bolla corrispondente.
 
    ![](assets/image2015-4-28-12-3a57-3a14.png)
 
@@ -49,7 +49,7 @@ Puoi visualizzare le statistiche dettagliate dei programmi e dei canali in Progr
 
    >[!NOTE]
    >
-   >Facendo clic su un singolo canale si passa alla visualizzazione Per programma, filtrata solo per quel canale. Per tornare a tutti i canali, selezionare **Visualizza** > **Per canale**.
+   >Facendo clic su un singolo canale si passa alla visualizzazione Per programma, filtrata solo per quel canale. Per tornare a tutti i canali, selezionare **[!UICONTROL View]** > **[!UICONTROL By Channel]**.
 
 1. Per aprire Gestione ciclo ricavi e approfondire ulteriormente una statistica, fare clic su tale numero nella finestra di dialogo a comparsa.
 

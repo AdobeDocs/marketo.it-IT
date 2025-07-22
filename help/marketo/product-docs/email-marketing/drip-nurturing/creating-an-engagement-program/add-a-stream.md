@@ -4,10 +4,10 @@ description: Aggiungere un flusso - Documentazione Marketo - Documentazione del 
 title: Aggiungi un flusso
 exl-id: 3b46b9e3-aecd-4b21-b6f6-d682d0d517cf
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 1%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 I programmi di coinvolgimento possono contenere più flussi. Ecco come aggiungerne uno nuovo.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleziona il programma di coinvolgimento e fai clic sulla scheda **Streams**.
+1. Selezionare il programma di coinvolgimento e fare clic sulla scheda **[!UICONTROL Streams]**.
 
    ![](assets/streamstablifecycle.jpg)
 
-1. Fare clic su **Aggiungi flusso**.
+1. Fai clic su **[!UICONTROL Add Stream]**.
 
    ![](assets/image2014-9-15-16-3a56-3a23.png)
 

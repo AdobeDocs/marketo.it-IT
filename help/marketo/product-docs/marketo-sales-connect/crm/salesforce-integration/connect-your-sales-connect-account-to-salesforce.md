@@ -4,32 +4,32 @@ description: Collegare l'account Sales Connect a Salesforce - Documentazione Mar
 title: Collegare l'account Sales Connect a Salesforce
 exl-id: de1ab4f8-8ca5-4fd1-9a9f-61471645d90b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 1%
 
 ---
 
 # Collegare l&#39;account Sales Connect a Salesforce {#connect-your-sales-connect-account-to-salesforce}
 
-Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
+Segui questi semplici passaggi per connettere [!DNL Sales Connect] a [!DNL Salesforce].
 
 ## Come connettersi come amministratore {#how-to-connect-as-an-admin}
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In [!DNL Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. In Impostazioni amministrazione fare clic su **Salesforce**.
+1. In [!UICONTROL  Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/six.png)
 
-1. Nella scheda Connessioni e personalizzazioni fare clic su **Connetti**.
+1. Nella scheda [!UICONTROL Connections & Customizations], fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/seven.png)
 
-1. Fare clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/four.png)
 
@@ -37,19 +37,19 @@ Segui questi semplici passaggi per collegare Sales Connect a Salesforce.
 
 ## Come connettersi come non amministratore {#how-to-connect-as-a-non-admin}
 
-1. In Sales Connect, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
+1. In [!DNL Sales Connect], fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. In Il mio account, seleziona **Salesforce**.
+1. In [!UICONTROL My Account], selezionare **[!UICONTROL Salesforce]**.
 
    ![](assets/two.png)
 
-1. Nella scheda Connessioni e personalizzazioni fare clic su **Connetti**.
+1. Nella scheda [!UICONTROL Connections & Customizations], fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/three.png)
 
-1. Fare clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/four.png)
 

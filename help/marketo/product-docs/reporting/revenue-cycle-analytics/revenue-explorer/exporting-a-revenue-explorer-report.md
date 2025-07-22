@@ -4,18 +4,18 @@ description: Esportazione di un rapporto di Revenue Explorer (documenti Marketo)
 title: Esportazione di un rapporto di Gestione ricavi
 exl-id: 61fd33f9-6cc8-4787-8357-68fc2fafc51a
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 1%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
-# Esportazione di un rapporto di Gestione ricavi {#exporting-a-revenue-explorer-report}
+# Esportazione di un report [!UICONTROL Revenue Explorer] {#exporting-a-revenue-explorer-report}
 
 Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio, seleziona **Esporta** e seleziona un formato di file.
+1. Fare clic sull&#39;icona a forma di ingranaggio, selezionare **[!UICONTROL Export]** e selezionare un formato di file.
 
    ![](assets/image2015-3-26-14-3a2-3a19.png)
 
@@ -24,10 +24,10 @@ Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque
    >È possibile esportare un rapporto nei tre formati seguenti:
    >
    >* PDF
-   >* Excel
+   >* [!DNL Excel]
    >* CSV
 
-1. Seleziona il **Formato pagina** e l&#39;**Orientamento** desiderati, quindi fai clic su **Esporta**.
+1. Selezionare **[!UICONTROL Page Format]** e **[!UICONTROL Orientation]** desiderati e fare clic su **[!UICONTROL Export]**.
 
    ![](assets/image2015-3-27-16-3a18-3a34.png)
 
@@ -35,4 +35,4 @@ Puoi esportare qualsiasi rapporto di Gestione ricavi e condividerlo con chiunque
 
 >[!MORELIKETHIS]
 >
->[Abbonati a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+>[Abbonati a un report [!UICONTROL Revenue Explorer]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)

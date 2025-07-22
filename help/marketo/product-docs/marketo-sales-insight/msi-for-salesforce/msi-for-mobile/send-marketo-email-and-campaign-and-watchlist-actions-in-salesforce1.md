@@ -4,20 +4,20 @@ description: Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1
 title: Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
 
-# Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1 {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
+# Invia azioni e-mail e campagna Marketo e watchlist in [!DNL Salesforce1] {#send-marketo-email-and-campaign-and-watchlist-actions-in-salesforce}
 
-1. Vai all&#39;area Dettagli lead in Salesforce1 e fai clic sulla scheda **Correlati**.
+1. Passare all&#39;area Dettagli lead in [!DNL Salesforce1] e fare clic sulla scheda **[!UICONTROL Related]**.
 
    ![](assets/one-1.png)
 
-1. Fai clic sul punto (tre puntini). In basso puoi scegliere tra: &quot;Aggiungi a Marketo Campaign&quot;, &quot;Invia e-mail Marketo&quot;, &quot;Visualizza in Marketo&quot;, &quot;Aggiungi/Rimuovi dalla watchlist&quot;.
+1. Fai clic sul punto (tre puntini). In basso puoi scegliere tra: &quot;[!UICONTROL Add to Marketo Campaign]&quot;, &quot;[!UICONTROL Send Marketo Email],&quot; &quot;[!UICONTROL View in Marketo],&quot; &quot;[!UICONTROL Add from Watchlist],&quot; &quot;[!UICONTROL Remove from Watchlist].&quot;
 
    ![](assets/two-1.png)
 

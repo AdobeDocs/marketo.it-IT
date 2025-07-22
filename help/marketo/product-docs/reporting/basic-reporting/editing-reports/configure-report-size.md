@@ -4,9 +4,9 @@ description: Configurare le dimensioni del rapporto - Documentazione di Marketo 
 title: Configurare le dimensioni del rapporto
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Per impostazione predefinita, i rapporti di Marketo sono limitati a un massimo di 5.000 righe, ma puoi modificare tale limite.
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 
-1. Selezionare il report dalla struttura di navigazione e fare clic sulla scheda **Configurazione**.
+1. Selezionare il report dalla struttura di navigazione e fare clic sulla scheda **[!UICONTROL Setup]**.
 
    ![](assets/image2014-9-16-10-3a54-3a1.png)
 
-1. Fare doppio clic su **Esporta righe disponibili**.
+1. Fare doppio clic su **[!UICONTROL Export Rows Available]**.
 
    ![](assets/image2014-9-16-10-3a54-3a5.png)
 
@@ -33,9 +33,9 @@ Per impostazione predefinita, i rapporti di Marketo sono limitati a un massimo d
 
    >[!TIP]
    >
-   >La modifica del limite cambia la dimensione del rapporto stesso, non solo il file Excel esportato, quindi se la generazione del rapporto richiede troppo tempo, riduci il limite!
+   >La modifica del limite cambia la dimensione del report stesso, non solo il file [!DNL Excel] esportato, quindi se la generazione del report richiede troppo tempo, riduci il limite!
 
-1. Fai clic su **Salva** per confermare il nuovo limite.
+1. Fare clic su **[!UICONTROL Save]** per confermare il nuovo limite.
 
    ![](assets/image2016-3-2-9-3a13-3a59.png)
 

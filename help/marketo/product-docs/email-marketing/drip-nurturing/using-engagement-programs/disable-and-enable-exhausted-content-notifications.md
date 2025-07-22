@@ -4,9 +4,9 @@ description: Disattivare e abilitare le notifiche di contenuti esauriti - Docume
 title: Disabilita e abilita notifiche di contenuti esauriti
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Quando le persone esauriscono tutti i contenuti di un flusso, Marketo può inviarti una notifica. Puoi disabilitare/abilitare le notifiche in base alle tue esigenze. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Selezionare un programma di coinvolgimento e fare clic sulla scheda **Configurazione**.
+1. Selezionare un programma di coinvolgimento e fare clic sulla scheda **[!UICONTROL Setup]**.
 
    ![](assets/setuptab.jpg)
 
-1. Fare doppio clic su **Notifiche contenuto esaurito**.
+1. Fare doppio clic su **[!UICONTROL Exhausted Content Notifications]**.
 
    ![](assets/image2014-9-15-17-3a28-3a11.png)
 
-1. Seleziona **Off** (o **On**) e fai clic su **Save**.
+1. Selezionare **[!UICONTROL Off]** (o **[!UICONTROL On]**) e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 

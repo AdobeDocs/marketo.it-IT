@@ -4,9 +4,9 @@ description: Visualizza la dashboard del programma e-mail - Documentazione di Ma
 title: Visualizza la dashboard del programma e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Scopri le prestazioni del tuo programma e-mail (con o senza un test A/B) con que
 
 ## Seleziona il programma e-mail {#select-your-email-program}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

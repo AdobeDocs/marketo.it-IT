@@ -4,43 +4,43 @@ description: Aggiungere lead a un pubblico personalizzato in Facebook - Document
 title: Aggiungere lead a un pubblico personalizzato in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# Aggiungere lead a un pubblico personalizzato in Facebook {#add-leads-to-a-custom-audience-in-facebook}
+# Aggiungi lead a un pubblico personalizzato in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Hai già un pubblico personalizzato in Facebook e desideri aggiungervi altri lead? Ecco come.
+Hai già un pubblico personalizzato in [!DNL Facebook] e vuoi aggiungervi altri lead? Ecco come.
 
 >[!PREREQUISITES]
 >
->* [Creazione di un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
->* [Accetta i termini dei tipi di pubblico personalizzati di Facebook](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account Facebook.
+>* [Crea un pubblico personalizzato in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+>* [Accetta i termini dei tipi di pubblico personalizzati di  [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account [!DNL Facebook].
 >
 
 1. Trova e seleziona l’elenco smart o statico contenente i lead da aggiungere.
 
    ![](assets/one.png)
 
-1. Seleziona la scheda **Lead**, quindi fai clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
+1. Seleziona la scheda **[!UICONTROL Leads]**, quindi fai clic sull&#39;icona **Invia tramite Ad Bridge** in basso.
 
    ![](assets/two-1.png)
 
-1. Seleziona **Facebook** e fai clic su **Avanti**.
+1. Selezionare **[!UICONTROL Facebook]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/three.png)
 
-1. Fai clic sul menu a discesa **Pubblico**, seleziona il pubblico a cui desideri aggiungere i lead, quindi fai clic su **Aggiorna**.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Audience]**, selezionare il pubblico a cui si desidera aggiungere i lead, quindi fare clic su **[!UICONTROL Update]**.
 
    ![](assets/4.png)
 
    >[!NOTE]
    >
-   >**Aggiungi lead al pubblico**: saranno disponibili solo i tipi di pubblico di Facebook con un sottotipo personalizzato.\
-   >**Rimuovi lead dal pubblico**: rimuove i lead dall&#39;elenco statico o avanzato da un pubblico di Facebook.
+   >**[!UICONTROL Add leads to audience]**: saranno disponibili solo [!DNL Facebook] tipi di pubblico con un sottotipo personalizzato.\
+   >**[!UICONTROL Remove leads from audience]**: rimuove i lead nell&#39;elenco statico o smart da un pubblico [!DNL Facebook].
 
 1. Al termine, lo stato viene aggiornato.
 
@@ -50,4 +50,4 @@ Hai già un pubblico personalizzato in Facebook e desideri aggiungervi altri lea
 
    >[!NOTE]
    >
-   >[Creazione di un pubblico personalizzato in Facebook](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)
+   >[Crea un pubblico personalizzato in [!DNL Facebook]](/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md)

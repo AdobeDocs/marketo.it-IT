@@ -4,14 +4,14 @@ description: Rendere visibile una campagna agli utenti Sales Connect - Documenti
 title: Rendi una campagna visibile agli utenti Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: b037057cb37c830760a5d5bc24591f85ad306ae8
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '96'
+ht-degree: 2%
 
 ---
 
-# Rendi una campagna visibile agli utenti Sales Connect {#make-a-campaign-visible-to-sales-connect-users}
+# Rendi una campagna visibile a [!DNL Sales Connect] utenti {#make-a-campaign-visible-to-sales-connect-users}
 
 Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo.
 
@@ -19,34 +19,34 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. Fare clic sulla scheda **Elenco avanzato**.
+1. Fare clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
-1. Aggiungere la campagna come trigger richiesto.
+1. Aggiungi il trigger [!UICONTROL Campaign is Requested].
 
    ![](assets/make-a-marketing-campaign-visible-msc-3.png)
 
-1. Per l&#39;origine, scegliere &quot;is&quot; **API servizio Web**.
+1. Per l&#39;origine, scegliere &quot;[!UICONTROL is]&quot; **[!UICONTROL Web Service API]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. Fare clic sulla scheda **Flusso**.
+1. Fare clic sulla scheda **[!UICONTROL Flow]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 
-1. Aggiungi l’azione di flusso Momento di interesse.
+1. Aggiungi l&#39;azione di flusso [!UICONTROL Interesting Moment].
 
    ![](assets/make-a-marketing-campaign-visible-msc-6.png)
 
-1. Per Tipo, selezionare **Web**.
+1. Per [!UICONTROL Type], seleziona **[!UICONTROL Web]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-7.png)
 
-1. Nella casella Descrizione scrivere un messaggio al team vendite. In questo esempio utilizziamo i token per specificare il modulo compilato.
+1. Nella casella [!UICONTROL Description], scrivi un messaggio al team vendite. In questo esempio utilizziamo i token per specificare il modulo compilato.
 
    ![](assets/make-a-marketing-campaign-visible-msc-8.png)
 
-1. Fai clic sulla scheda **Pianifica** e **Attiva** la campagna.
+1. Fare clic sulla scheda **[!UICONTROL Schedule]** e **[!UICONTROL Activate]** la campagna.
 
    ![](assets/make-a-marketing-campaign-visible-msc-9.png)

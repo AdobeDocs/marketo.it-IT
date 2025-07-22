@@ -4,9 +4,9 @@ description: Creare un frammento - Documentazione di Marketo - Documentazione de
 title: Creare uno snippet
 exl-id: 8483ed35-3763-42b6-bfd9-55e0a69a66cc
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 I frammenti possono essere utilizzati come blocchi di contenuto dinamici nelle **e-mail** e nelle **pagine di destinazione**.
 
-1. Vai a **Design Studio.**
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 
-1. Fare clic su **Nuovo** e quindi su **Nuovo snippet**.
+1. Fare clic su **[!UICONTROL New]** e quindi su **[!UICONTROL New Snippet]**.
 
    ![](assets/image2014-9-16-8-50-4.png)
 
-1. Immetti i dettagli richiesti e fai clic su **Crea**.
+1. Immettere i dettagli richiesti e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-16-8-3a50-3a14.png)
 

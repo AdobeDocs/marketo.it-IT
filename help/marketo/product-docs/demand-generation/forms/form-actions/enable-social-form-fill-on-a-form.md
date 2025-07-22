@@ -6,9 +6,9 @@ exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
@@ -21,15 +21,15 @@ Consenti ai visitatori di compilare il modulo utilizzando il proprio social netw
 >
 >Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a35-3a54.png)
 
-1. In **Modulo** **Impostazioni** fare clic su **Impostazioni**.
+1. In **[!UICONTROL Form Settings]** fare clic su **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a36-3a4.png)
 
@@ -41,11 +41,11 @@ Consenti ai visitatori di compilare il modulo utilizzando il proprio social netw
    >
    >Dai un&#39;occhiata ai dati che _Marketo acquisirà_ se gli utenti utilizzano i pulsanti social.
 
-1. Fai clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a36-3a26.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
 

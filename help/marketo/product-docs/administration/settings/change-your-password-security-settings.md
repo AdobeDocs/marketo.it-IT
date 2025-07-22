@@ -4,9 +4,9 @@ description: Modificare le impostazioni di sicurezza della password - Documentaz
 title: Modifica le impostazioni di protezione tramite password
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -19,38 +19,38 @@ Controlla i criteri password della tua iscrizione. Ecco come.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/change-your-password-security-settings-1.png)
 
-1. Fare clic su **[!UICONTROL Impostazioni accesso]**.
+1. Fai clic su **[!UICONTROL Login Settings]**.
 
    ![](assets/change-your-password-security-settings-2.png)
 
-1. In **[!UICONTROL Impostazioni protezione]**, fare clic su **[!UICONTROL Modifica]**.
+1. In **[!UICONTROL Security Settings]**, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/change-your-password-security-settings-3.png)
 
-1. Seleziona un **[!UICONTROL modello]**. Per opzioni avanzate, fare clic sul menu a discesa **[!UICONTROL Avanzate]**.
+1. Seleziona **[!UICONTROL Template]**. Per opzioni avanzate, fare clic sul menu a discesa **[!UICONTROL Advanced]**.
 
    ![](assets/change-your-password-security-settings-4.png)
 
    >[!NOTE]
    >
-   >Un modello è solo una configurazione predefinita. Lo standard è buono. L&#39;alta sicurezza è la più forte. Personalizzato consente di creare il proprio.
+   >Un modello è solo una configurazione predefinita. **[!UICONTROL Standard Security]** è buono. **[!UICONTROL High Security]** è il più forte. **[!UICONTROL Custom]** ti consente di creare il tuo.
 
    >[!TIP]
    >
-   >In **[!UICONTROL Personalizzato]**, selezionare le caselle per indicare le caratteristiche che si desidera includere quando si creano le password.
+   >In **[!UICONTROL Custom]** selezionare le caselle per indicare le caratteristiche che si desidera includere quando si creano le password.
 
-1. Imposta **[!UICONTROL Scadenza]**. Questa funzione richiede automaticamente agli utenti di reimpostare le password dopo un certo periodo di tempo. Questo include anche l’utente amministratore.
+1. Imposta **[!UICONTROL Expiration]**. Questa funzione richiede automaticamente agli utenti di reimpostare le password dopo un certo periodo di tempo. Questo include anche l’utente amministratore.
 
    ![](assets/change-your-password-security-settings-5.png)
 
    >[!CAUTION]
    >
-   >Gli utenti esistenti non verranno informati delle modifiche. Imposta **[!UICONTROL Scadenza]** su 30 giorni per assicurarti che tutti abbiano eseguito l&#39;aggiornamento alle nuove impostazioni, quindi ripristina la cadenza originale.
+   >Gli utenti esistenti non verranno informati delle modifiche. Imposta **[!UICONTROL Expiration]** su 30 giorni per assicurarti che tutti abbiano eseguito l&#39;aggiornamento alle nuove impostazioni, quindi ripristina la cadenza originale.
 
-1. Imposta il **[!UICONTROL timeout sessione inattiva]**. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover accedere nuovamente a Marketo.
+1. Imposta **[!UICONTROL Inactive Session Timeout]**. Questo determina per quanto tempo un utente può rimanere inattivo prima di dover accedere nuovamente a Marketo.
 
    ![](assets/change-your-password-security-settings-6.png)

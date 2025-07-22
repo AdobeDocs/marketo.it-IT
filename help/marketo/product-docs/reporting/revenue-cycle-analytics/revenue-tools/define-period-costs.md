@@ -4,9 +4,9 @@ description: Definire i costi del periodo - Documentazione di Marketo - Document
 title: Definisci costi periodo
 exl-id: e6cbefca-c7a4-4600-b276-7a5d247609ed
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -23,37 +23,37 @@ Tenere traccia e associare i costi di sviluppo dei lead e di acquisizione dei le
 
 >[!NOTE]
 >
->All&#39;inizio di un programma, inserire i costi previsti. Al termine del periodo nel programma, è possibile modificare il Costo periodo e inserire il costo effettivo. Questo ti fornirà risultati di reporting precisi.
+>All&#39;inizio di un programma, inserire i costi previsti. Al termine del periodo nel programma, è possibile modificare [!UICONTROL Period Cost] e immettere il costo effettivo. Questo ti fornirà risultati di reporting precisi.
 
-## Definisci un costo periodo {#define-a-period-cost}
+## Definisci [!UICONTROL Period Cost] {#define-a-period-cost}
 
-1. Accedi alla scheda **Configurazione** del programma o dell&#39;evento.
+1. Accedi alla scheda **[!UICONTROL Setup]** del programma o dell&#39;evento.
 
    ![](assets/image2015-4-24-11-3a13-3a27.png)
 
-1. Trascina e rilascia **Costo periodo** nell&#39;area di lavoro e viene visualizzata la finestra di dialogo **Nuovo costo**.
+1. Trascina **[!UICONTROL Period Cost]** nell&#39;area di lavoro per visualizzare la finestra di dialogo **[!UICONTROL New Cost]**.
 
    ![](assets/image2015-4-24-16-3a31-3a15.png)
 
-1. Immettere il **mese programma** che si desidera associare al costo definito.
+1. Immettere **[!UICONTROL Program Month]** da associare al costo definito.
 
    ![](assets/image2015-4-24-16-3a11-3a30.png)
 
-1. Immetti un **Costo periodo** come numero intero senza decimali o virgole (limite massimo: 99999999)
+1. Inserisci **[!UICONTROL Period Cost]** come numero intero senza decimali o virgole (limite massimo: 99999999)
 
    ![](assets/image2015-4-24-16-3a10-3a24.png)
 
    >[!NOTE]
    >
-   >La valuta (ad esempio USD, EUR, ecc.) è un’impostazione globale gestita da un amministratore di Marketo
+   >La valuta (ad esempio USD, EUR, ecc.) è un’impostazione globale gestita da un amministratore Marketo
 
-1. Immetti un **Nota** descrittivo (facoltativo) e fai clic su **Salva**.
+1. Immettere un **[!UICONTROL Note]** descrittivo (facoltativo) e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-4-24-16-3a21-3a16.png)
 
-## Modifica costo periodo {#edit-a-period-cost}
+## Modifica un [!UICONTROL Period Cost] {#edit-a-period-cost}
 
-1. Fare clic con il pulsante destro del mouse sul Costo periodo e selezionare **Modifica** dal menu a comparsa per aprire la finestra di dialogo **Modifica costo**.
+1. Fare clic con il pulsante destro del mouse su [!UICONTROL Period Cost] e selezionare **[!UICONTROL Edit]** dal menu popup per aprire la finestra di dialogo **[!UICONTROL Edit Cost]**.
 
    ![](assets/image2015-4-24-16-3a26-3a29.png)
 
@@ -61,12 +61,12 @@ Tenere traccia e associare i costi di sviluppo dei lead e di acquisizione dei le
 
    ![](assets/image2015-4-24-16-3a27-3a38.png)
 
-## Eliminare un costo periodo {#delete-a-period-cost}
+## Elimina [!UICONTROL Period Cost] {#delete-a-period-cost}
 
-1. Fare clic con il pulsante destro del mouse sul Costo periodo che si desidera eliminare e selezionare **Elimina** dal menu popup per visualizzare la richiesta **Elimina costo**.
+1. Fare clic con il pulsante destro del mouse su [!UICONTROL Period Cost] che si desidera eliminare e selezionare **[!UICONTROL Delete]** dal menu popup per visualizzare il prompt **[!UICONTROL Delete Cost]**.
 
    ![](assets/image2015-4-24-16-3a33-3a32.png)
 
-1. Fai clic su **Elimina** per eliminare definitivamente il costo del periodo oppure su **Annulla** per tornare indietro.
+1. Fare clic su **[!UICONTROL Delete]** per eliminare definitivamente il costo del periodo o su **[!UICONTROL Cancel]** per tornare indietro.
 
    ![](assets/image2015-4-24-16-3a34-3a38.png)

@@ -4,9 +4,9 @@ description: Aggiunta di HTML personalizzati a una pagina di destinazione in for
 title: Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Puoi aggiungere script personalizzati, CSS o altri HTML alle pagine di destinazi
 >
 >Il supporto Marketo Engage non è configurato per assistere nella risoluzione dei problemi di HTML personalizzato. Per assistenza su HTML, consulta uno sviluppatore web.
 
-1. Seleziona la pagina di destinazione e fai clic su **Modifica bozza**.
+1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2014-9-17-12-3a2-3a15.png)
 
@@ -27,7 +27,7 @@ Puoi aggiungere script personalizzati, CSS o altri HTML alle pagine di destinazi
 
    ![](assets/image2015-5-21-15-3a52-3a42.png)
 
-1. Immetti il codice HTML personalizzato e fai clic su **Salva**.
+1. Immettere il codice HTML personalizzato e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-17-12-3a3-3a39.png)
 

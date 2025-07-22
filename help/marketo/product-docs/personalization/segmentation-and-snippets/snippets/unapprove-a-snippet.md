@@ -4,10 +4,10 @@ description: Annullare l’approvazione di un frammento - Documentazione di Mark
 title: Annullare l'approvazione di uno snippet
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 Uno snippet non approvato non può essere utilizzato nelle e-mail o nelle pagine di destinazione.
 
-1. Passare a **Design Studio**.
+1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/image2014-9-16-10-3a41-3a18.png)
 
-1. Vai allo snippet e assicurati che non sia **Utilizzato da** risorse.
+1. Vai al frammento e assicurati che non siano **[!UICONTROL Used by]** risorse.
 
    ![](assets/image2014-9-16-10-3a41-3a27.png)
 
    Se il frammento è utilizzato da altre risorse, rimuovi tali associazioni prima di procedere.
 
-1. In **Azioni snippet**, fai clic su **Annulla approvazione**.
+1. In **[!UICONTROL Snippet Actions]**, fare clic su **[!UICONTROL Unapprove]**.
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-Tutto qui! Lo stato del frammento è Bozza e consente di apportare modifiche o eliminarlo.
+Tutto qui. Lo stato del frammento è Bozza e consente di apportare modifiche o eliminarlo.

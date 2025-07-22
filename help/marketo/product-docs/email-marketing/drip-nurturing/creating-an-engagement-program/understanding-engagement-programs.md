@@ -4,10 +4,10 @@ description: Informazioni sui programmi di coinvolgimento - Documentazione di Ma
 title: Informazioni sui programmi di coinvolgimento
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 0%
+source-wordcount: '278'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ I programmi di coinvolgimento sono progettati per essere commercializzati per nu
 >
 >È previsto un limite di 100 **programmi di coinvolgimento attivi** per abbonamento.
 
-## Programma di coinvolgimento {#engagement-program}
+## Programma coinvolgimento {#engagement-program}
 
 Un **programma di coinvolgimento** è un tipo di programma che può eseguire con facilità operazioni di sviluppo complesse.
 
@@ -74,7 +74,7 @@ Puoi decidere quando si verifica un cast impostando **cadenza flusso**. In quest
 
 ## Cadenza persona {#person-cadence}
 
-Una **cadenza persona** è uno stato che definisce la sua capacità di ricevere contenuti da un programma di coinvolgimento. È possibile utilizzare il passaggio di flusso **Modifica cadenza programma di coinvolgimento** per impostare l&#39;elemento come In pausa o Normale.
+Una **cadenza persona** è uno stato che definisce la sua capacità di ricevere contenuti da un programma di coinvolgimento. È possibile utilizzare il passaggio del flusso **[!UICONTROL Change Engagement Program Cadence]** per modificarlo in [!UICONTROL Paused] o [!UICONTROL Normal].
 
 ![](assets/image2014-9-15-15-3a25-3a55.png)
 

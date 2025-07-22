@@ -4,9 +4,9 @@ description: Importare un elenco di caratteri non latini - Documenti Marketo - D
 title: Importa un elenco di caratteri non latini
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,11 @@ Ma quando lo importi in Marketo, potresti notare che i caratteri non inglesi non
 
 Questo perché il file non viene salvato correttamente affinché Marketo possa riconoscere tutti i caratteri non latini. La buona notizia è che ci sono alcuni semplici passaggi che puoi seguire per risolvere il problema.
 
-1. Selezionare **Salva con nome...** dal menu **File** in Excel.
+1. Selezionare **[!UICONTROL Save As]...** dal menu **[!UICONTROL File]** in Excel.
 
    ![](assets/image2015-2-10-9-3a46-3a44.png)
 
-1. Scegliere **UTF-16 Testo Unicode (.txt)** come opzione **Formato**. In questo modo il file verrà codificato nel modo in cui Marketo può visualizzarlo.
+1. Scegliere **[!UICONTROL UTF-16 Unicode Text (.txt)]** come opzione **[!UICONTROL Format]**. In questo modo il file verrà codificato nel modo in cui Marketo può visualizzarlo.
 
    ![](assets/image2015-2-10-9-3a48-3a7.png)
 
@@ -39,7 +39,7 @@ Questo perché il file non viene salvato correttamente affinché Marketo possa r
 
    >[!TIP]
    >
-   >Puoi aprire il file di testo utilizzando **Blocco note** se utilizzi Windows o **TextEdit** se utilizzi Mac.
+   >È possibile aprire il file di testo utilizzando **[!DNL Notepad]** se si utilizza Windows o **[!DNL TextEdit]** se si utilizza Mac.
 
    ![](assets/image2015-2-10-9-3a51-3a41.png)
 
@@ -47,15 +47,15 @@ Questo perché il file non viene salvato correttamente affinché Marketo possa r
 
    ![](assets/image2015-2-10-9-3a55-3a53.png)
 
-1. Selezionare **Trova e sostituisci...** dal menu **Modifica**.
+1. Selezionare **[!UICONTROL Find and Replace]...** dal menu **[!UICONTROL Edit]**.
 
    ![](assets/image2015-2-10-9-3a59-3a8.png)
 
    >[!TIP]
    >
-   >L&#39;azione equivalente per gli utenti di Windows è: **Modifica > Sostituisci...**
+   >Azione equivalente per gli utenti Windows: **[!UICONTROL Edit]> [!UICONTROL Replace]...**
 
-1. Incollare la scheda copiata al punto 4 nella prima casella (da sostituire) e digitare una virgola nella seconda casella (sostituisci con). E fai clic su **Tutto**.
+1. Incollare la scheda copiata al punto 4 nella prima casella (da sostituire) e digitare una virgola nella seconda casella (sostituisci con). E fare clic su **[!UICONTROL All]**.
 
    ![](assets/image2015-2-10-10-3a8-3a53.png)
 

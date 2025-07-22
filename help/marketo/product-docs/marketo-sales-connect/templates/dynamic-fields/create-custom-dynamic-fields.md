@@ -4,9 +4,9 @@ description: Creare campi dinamici personalizzati - Documentazione di Marketo - 
 title: Creare campi dinamici personalizzati
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Esistono due modi per creare campi dinamici personalizzati.
 
 ## Salvataggio dei campi personalizzati per uno o più contatti {#saving-custom-fields-for-one-or-a-few-contacts}
 
-1. Fare clic sul nome di un contatto nella pagina Persone.
+1. Fare clic sul nome di un contatto nella pagina [!UICONTROL People].
 
-1. Scegli il menu a discesa accanto a Annulla iscrizione e seleziona **Modifica**.
+1. Scegliere il menu a discesa accanto a [!UICONTROL Unsubscribe] e selezionare **[!UICONTROL Edit]**.
 
 1. Scorri verso il basso fino alla parte inferiore della pagina di modifica. Puoi quindi creare un nome e un valore per il campo.
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
 ## Salvataggio di campi personalizzati per molti contatti {#saving-custom-fields-for-many-contacts}
 
@@ -31,9 +31,9 @@ Esistono due modi per creare campi dinamici personalizzati.
 
 1. Segui il [normale processo di caricamento CSV](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md), interrompendo la schermata di mappatura campi.
 
-1. Invece di uno dei campi predefiniti, scegli **Aggiungi un nuovo campo personalizzato** dal menu a discesa.
+1. Invece di uno dei campi predefiniti, scegli **[!UICONTROL Add a new Custom Field]** dal menu a discesa.
 
-1. Immettere il nome del campo desiderato e fare clic su **OK**.
+1. Immettere il nome del campo desiderato e fare clic su **[!UICONTROL OK]**.
 
 1. Completa il caricamento del file CSV. I contatti verranno forniti con il campo personalizzato aggiunto.
 
@@ -45,8 +45,8 @@ Esistono due modi per creare campi dinamici personalizzati.
 
 Una volta archiviati i campi personalizzati con i metodi di cui sopra, potrai fare riferimento a essi nei modelli.
 
-1. [Crea un modello](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) e fai clic sul pulsante **Campi dinamici** come faresti normalmente.
+1. [Crea un modello](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md) e fai clic sul pulsante **[!UICONTROL Dynamic Fields]** come faresti normalmente.
 
-1. Seleziona **Campi personalizzati** dal menu a discesa visualizzato.
+1. Selezionare **[!UICONTROL Custom Fields]** dal menu a discesa visualizzato.
 
 1. Potrai visualizzare i campi personalizzati pre-memorizzati e selezionarne uno da compilare nel modello.

@@ -4,9 +4,9 @@ description: Aggiunta di membri a un programma di eventi - Documentazione di Mar
 title: Aggiunta di membri a un programma eventi
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 
 1. [Crea una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md).
 
-1. Nell&#39;elenco avanzato della campagna avanzata creata nel passaggio due, trovare e aggiungere il filtro **Membro dell&#39;elenco**.
+1. Nell&#39;elenco avanzato della campagna avanzata creata nel passaggio due, trovare e aggiungere il filtro **[!UICONTROL Member of List]**.
 
    ![](assets/three.png)
 
@@ -31,7 +31,7 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 
    ![](assets/four.png)
 
-1. Nel flusso, individua e aggiungi il passaggio di flusso **Modifica stato programma**.
+1. Nel flusso, trovare e aggiungere il passaggio di flusso **[!UICONTROL Change Program Status]**.
 
    ![](assets/five.png)
 
@@ -43,11 +43,11 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 
    ![](assets/seven.png)
 
-1. Nella scheda Pianificazione, fare clic su **Esegui una volta**.
+1. Nella scheda [!UICONTROL Schedule], fare clic su **[!UICONTROL Run Once]**.
 
    ![](assets/eight.png)
 
-1. Seleziona **Esegui ora** e fai clic su **Esegui**.
+1. Selezionare **[!UICONTROL Run Now]** e fare clic su **[!UICONTROL Run]**.
 
    ![](assets/nine.png)
 

@@ -4,10 +4,10 @@ description: Panoramica del centro comandi - Documentazione di Marketo - Documen
 title: Panoramica del centro comandi
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 1%
+source-wordcount: '556'
+ht-degree: 0%
 
 ---
 
@@ -17,7 +17,7 @@ Il Centro commenti è una vista unica e unificata che consente di individuare il
 
 ## Gestire le e-mail {#manage-emails}
 
-Nella sezione e-mail del centro comandi è possibile gestire tutte le attività e-mail. Consideralo come la tua casella di posta in uscita per esaminare le e-mail inviate da Sales Connect. Gestisci le e-mail pianificate, vedi chi si è occupato delle e-mail, controlla se si sono verificati problemi con la consegna delle e-mail e altro ancora.
+Nella sezione e-mail di [!UICONTROL Command Center] puoi gestire tutte le attività e-mail. Consideralo come la tua casella di posta in uscita per rivedere le e-mail inviate da [!DNL Sales Connect]. Gestisci le e-mail pianificate, vedi chi si è occupato delle e-mail, controlla se si sono verificati problemi con la consegna delle e-mail e altro ancora.
 
 ![](assets/command-center-overview-1.png)
 
@@ -37,42 +37,42 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><strong title="">Inviato</strong></td> 
-   <td title="Colore di sfondo : Blu">Consegnati</td> 
+   <td title="Colore di sfondo : Blu">[!UICONTROL Delivered]</td> 
    <td title="Colore di sfondo : Blu">E-mail che sono state consegnate al destinatario.</td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><br></td> 
-   <td title="Colore di sfondo : Blu">Archiviato</td> 
+   <td title="Colore di sfondo : Blu">[!UICONTROL Archived]</td> 
    <td title="Colore di sfondo : Blu">E-mail che sono state archiviate dall’utente per disabilitare il tracciamento sulle e-mail.</td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Grigio"><strong title="">In sospeso</strong></td> 
-   <td title="Colore di sfondo : Grigio">Pianificato</td> 
+   <td title="Colore di sfondo : Grigio">[!UICONTROL Scheduled]</td> 
    <td title="Colore di sfondo : Grigio">Messaggi e-mail attualmente pianificati per l’uscita. Una volta inviata, l’e-mail viene spostata nella cartella consegnata.</td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Grigio"><br></td> 
-   <td title="Colore di sfondo : Grigio">Bozza</td> 
+   <td title="Colore di sfondo : Grigio">[!UICONTROL Draft]</td> 
    <td title="Colore di sfondo : Grigio"><p>E-mail che sono state salvate come bozza.<br><strong>Nota:</strong> è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Grigio"><br></td> 
-   <td title="Colore di sfondo : Grigio">In corso</td> 
+   <td title="Colore di sfondo : Grigio">[!UICONTROL In Progress]</td> 
    <td title="Colore di sfondo : Grigio">Si tratta di uno stato intermedio in cui le e-mail vengono inviate quando sono nel movimento di invio. Le e-mail dovrebbero essere in corso solo per qualche istante.</td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><strong title="">Non consegnato</strong></td> 
-   <td title="Colore di sfondo : Blu">Operazione non riuscita</td> 
+   <td title="Colore di sfondo : Blu">[!UICONTROL Failed]</td> 
    <td title="Colore di sfondo : Blu">E-mail che non sono state consegnate.</td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><br></td> 
-   <td title="Colore di sfondo : Blu">Rifiutato</td> 
+   <td title="Colore di sfondo : Blu">[!UICONTROL Bounced]</td> 
    <td title="Colore di sfondo : Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
   </tr> 
   <tr> 
    <td title="Colore di sfondo : Blu"><br></td> 
-   <td title="Colore di sfondo : Blu">Spam</td> 
+   <td title="Colore di sfondo : Blu">[!UICONTROL Spam]</td> 
    <td title="Colore di sfondo : Blu"><p>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
   </tr> 
  </tbody> 
@@ -88,7 +88,7 @@ La sezione delle attività è un punto di riferimento per la gestione e il compl
 
 Dopo aver iniziato a coinvolgere i potenziali clienti tramite la finestra di composizione o le campagne, puoi iniziare a eseguire nuovamente il targeting dei potenziali clienti più coinvolti utilizzando la funzionalità di ricerca avanzata.
 
-Ad esempio, se aggiungi 100 persone a una campagna in MSC, potresti voler eseguire nuovamente il targeting delle persone che hanno visualizzato e fatto clic sulla tua e-mail, ma non vi hanno risposto. A tal fine, puoi utilizzare il filtro Campaign insieme ai filtri di attività Visualizza e Fai clic sullo stato per identificare un elenco di persone da riassegnare.
+Ad esempio, se aggiungi 100 persone a una campagna in MSC, potresti voler eseguire nuovamente il targeting delle persone che hanno visualizzato e fatto clic sulla tua e-mail, ma non vi hanno risposto. A questo scopo, puoi utilizzare il filtro Campaign insieme ai filtri di stato Visualizza e Clic [!UICONTROL Activity] per identificare un elenco di persone per il ritargeting.
 
 Bonus: se salvi la ricerca avanzata, questa funzionerà come un elenco dinamico e aggiungerà le e-mail che soddisfano i criteri di coinvolgimento una volta che il destinatario avrà visualizzato o fatto clic sull’e-mail.
 

@@ -4,9 +4,9 @@ description: Informazioni sul punteggio di coinvolgimento - Documentazione di Ma
 title: Informazioni sul punteggio di coinvolgimento
 exl-id: 9ba7d6d1-839b-429a-a082-1d87676c394e
 feature: Engagement Programs, Reporting
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Il punteggio di coinvolgimento consente di vedere facilmente l’efficacia dei c
 
 ![](assets/highestengagementwidget.jpg)
 
-Il punteggio è basato su un algoritmo proprietario che tiene conto del comportamento interessato (Apertura, Clic, Successo del programma) e del comportamento disattivato (Annullamento dell’iscrizione). È valutato rispetto alle e-mail in stile goccia a goccia e cultura per dare una media di 50. Per dare alle persone la possibilità di interagire con i tuoi contenuti, il punteggio di coinvolgimento viene calcolato 72 ore dopo ogni cast. Inoltre, il punteggio copre solo i dati degli ultimi **tre** cast.
+Il punteggio è basato su un algoritmo proprietario che tiene conto del comportamento interessato ([!UICONTROL Open], [!UICONTROL Click], [!UICONTROL Program Success]) e del comportamento disattivato ([!UICONTROL Unsubscribe]). È valutato rispetto alle e-mail in stile goccia a goccia e cultura per dare una media di 50. Per dare alle persone la possibilità di interagire con i tuoi contenuti, il punteggio di coinvolgimento viene calcolato 72 ore dopo ogni cast. Inoltre, il punteggio copre solo i dati degli ultimi **tre** cast.
 
 >[!NOTE]
 >

@@ -4,16 +4,16 @@ description: Configurare una firma DKIM personalizzata - Documentazione Marketo 
 title: Impostare una firma DKIM personalizzata
 exl-id: a7c6429e-14ee-439e-9f47-1b25b98d41e7
 feature: Deliverability
-source-git-commit: b72c69b0e96fa3e504242425abd3954f5a49bebd
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
 
 # Impostare una firma DKIM personalizzata {#set-up-a-custom-dkim-signature}
 
-Per garantire un recapito messaggi di prima qualità, firmiamo automaticamente tutti i messaggi in uscita con una firma DKIM di Marketo condivisa.
+Per garantire un recapito messaggi di prima qualità, firmiamo automaticamente tutti i messaggi in uscita con una firma Marketo DKIM condivisa.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Per garantire un recapito messaggi di prima qualità, firmiamo automaticamente t
 
 Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come.
 
-1. Vai alla sezione **Amministratore**.
+1. Passare alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/set-up-a-custom-dkim-signature-1.png)
 
@@ -33,7 +33,7 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
 
    ![](assets/set-up-a-custom-dkim-signature-2.png)
 
-1. Fai clic sulla scheda **SPF/DKIM**, quindi **Aggiungi dominio**.
+1. Fare clic sulla scheda **SPF/DKIM**, quindi **Aggiungi dominio**.
 
    ![](assets/set-up-a-custom-dkim-signature-3.png)
 
@@ -64,13 +64,13 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
    >
    >Se è necessario aggiornare il selettore DKIM o la dimensione di crittografia DKIM per il dominio, è necessario eliminare il record esistente e ripubblicare il record appena generato con i nuovi valori.
    >
-   >Tieni presente che, in questo caso, DKIM non verrà firmato per il dominio fino a quando il nuovo record non verrà pubblicato e convalidato dal sistema. Pianifica la modifica di conseguenza, in quanto possono essere necessarie da 24 a 48 ore prima che il nuovo record DKIM venga completamente propagato su Internet.
+   >Si prega di notare che quando si esegue questa operazione, DKIM non verrà firmato per il dominio fino a quando il nuovo record non verrà pubblicato e convalidato dal sistema. Pianifica le modifiche di conseguenza, poiché potrebbero essere necessarie da 24 a 48 ore prima che il nuovo record DKIM venga completamente propagato su Internet.
 
-1. Invia il **record host** e il **valore TXT** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
+1. Invia **[!UICONTROL Host Record]** e **[!UICONTROL TXT Value]** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
-1. Dopo aver confermato di aver creato il record, tornare a Marketo, selezionare il dominio e fare clic su **Controlla DNS**.
+1. Dopo aver confermato la creazione del record, tornare a Marketo, selezionare il dominio e fare clic su **[!UICONTROL Check DNS]**.
 
    ![](assets/set-up-a-custom-dkim-signature-6.png)
 

@@ -4,9 +4,9 @@ description: Head Start per i programmi e-mail - Documentazione Marketo - Docume
 title: Head Start per i programmi e-mail
 exl-id: f7c8b082-4d83-4e3b-8aa4-7b252e3dacd3
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Quando scegli una data/ora per un programma e-mail, questo determina quando iniz
 
 ## Inizio testina standard {#standard-head-start}
 
-1. Fai clic su **Attività di marketing**.
+1. Fai clic su **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
@@ -33,30 +33,30 @@ Quando scegli una data/ora per un programma e-mail, questo determina quando iniz
    >
    >Head Start non può essere utilizzato con test A/B.
 
-1. Nel riquadro Pianificazione, pianifica l&#39;e-mail, quindi seleziona la casella **Inizio intestazione**.
+1. Nel riquadro [!UICONTROL Schedule], pianifica l&#39;e-mail, quindi seleziona la casella **[!UICONTROL Head Start]**.
 
    ![](assets/three-1.png)
 
-   Selezionando Head Start, l&#39;elaborazione del programma inizierà circa 12 ore prima dell&#39;orario previsto. Una volta avviata l’elaborazione, il programma viene bloccato.
+   Con [!UICONTROL Head Start] selezionato, l&#39;elaborazione del programma inizierà circa 12 ore prima dell&#39;ora pianificata. Una volta avviata l’elaborazione, il programma viene bloccato.
 
    >[!CAUTION]
    >
    >L’e-mail verrà comunque inviata a tutti gli utenti del pubblico che annullano l’abbonamento dopo il blocco del programma. È consigliabile modificare la notifica di annullamento dell’abbonamento per riflettere il fatto che l’elaborazione degli annullamenti dell’abbonamento potrebbe richiedere 1-2 giorni lavorativi.
 
-1. Fare clic su **Approva programma**.
+1. Fai clic su **[!UICONTROL Approve Program]**.
 
    ![](assets/four-1.png)
 
    Dopo l’approvazione del programma, puoi visualizzare quattro stati diversi nel riquadro Approvazione.
 
-   * **In attesa di esecuzione:** dopo l&#39;approvazione del programma.
-   * **Elaborazione avviata, in attesa di esecuzione:** Elaborazione in corso.
-   * **Elaborazione terminata, in attesa di esecuzione:** Elaborazione completata, e-mail in attesa dell&#39;ora pianificata per l&#39;avvio.
-   * **Completato:** programma completato.
+   * **[!UICONTROL Waiting to run]:** dopo l&#39;approvazione del programma.
+   * **[!UICONTROL Processing started, waiting to run]:** elaborazione in corso.
+   * **[!UICONTROL Processing finished, waiting to run]:** Elaborazione completata. Indirizzo e-mail in attesa dell&#39;avvio pianificato.
+   * **[!UICONTROL Finished]:** programma completato.
 
    >[!TIP]
    >
-   >Vuoi annullare l’operazione dopo il blocco del programma ma prima dell’invio dell’e-mail? Nessun problema! Fai clic su **Interrompi programma** nella parte inferiore destra del riquadro Approvazione.
+   >Vuoi annullare l’operazione dopo il blocco del programma ma prima dell’invio dell’e-mail? Nessun problema! Fai clic su **[!UICONTROL Abort Program]** in basso a destra nel riquadro Approvazione.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Quando scegli una data/ora per un programma e-mail, questo determina quando iniz
 
 ## Inizio intestazione con fuso orario destinatario {#head-start-with-recipient-time-zone}
 
-La funzione Head Start richiede un programma con almeno 12 ore di anticipo. Che cosa significa per il fuso orario del destinatario? Ricorda che quando il fuso orario del destinatario è attivo, iniziamo a eseguire il programma e-mail a mezzanotte nel fuso orario più vicino (UTC +14:00). Pertanto, per abilitare **sia** Inizio intestazione che Fuso orario destinatario, i programmi devono essere pianificati **con almeno 12 ore di anticipo rispetto al fuso orario più vicino (UTC +14:00**).
+La funzione Head Start richiede un programma con almeno 12 ore di anticipo. Che cosa significa per il fuso orario del destinatario? Ricorda che quando il fuso orario del destinatario è attivo, l’esecuzione del programma e-mail inizia a mezzanotte nel fuso orario più vicino (UTC +14:00). Pertanto, per abilitare **sia** Inizio intestazione che Fuso orario destinatario, i programmi devono essere pianificati **con almeno 12 ore di anticipo rispetto al fuso orario più vicino (UTC +14:00**).
 
 Ciò significa che se ti trovi in America/Los Angeles e desideri abilitare sia Head Start che Recipient Time Zone, devi pianificare il programma con **34 ore** di anticipo. Come siamo arrivati a questo numero?
 

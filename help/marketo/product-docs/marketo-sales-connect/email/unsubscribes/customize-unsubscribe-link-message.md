@@ -4,9 +4,9 @@ description: Personalizzare il messaggio di collegamento per l’annullamento de
 title: Personalizza messaggio di collegamento per annullare l’abbonamento
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -17,15 +17,15 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
 
 >[!NOTE]
 >
->Non puoi usare un collegamento di terze parti per annullare l’abbonamento con Sales Connect in quanto queste informazioni non verranno acquisite nuovamente nel nostro database.
+>Non è possibile utilizzare un collegamento di terze parti per l&#39;annullamento dell&#39;abbonamento con [!DNL Sales Connect] in quanto queste informazioni non verranno acquisite nel nostro database.
 
 ## Personalizzare la messaggistica {#customize-messaging-for-yourself}
 
-1. Accedi all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Accedi all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **[!UICONTROL Settings]**.
 
    ![](assets/one.png)
 
-1. In Il mio account, seleziona **Annulla iscrizione**.
+1. In [!UICONTROL My Account], selezionare **[!UICONTROL Unsubscribes]**.
 
    ![](assets/two-1.png)
 
@@ -41,24 +41,24 @@ Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento p
    >
    >Non importa quale sia l’URL da collegare. Quando l’e-mail viene inviata, il collegamento ipertestuale verrà convertito nel collegamento per annullare l’abbonamento.
 
-1. Fare clic su **OK**.
+1. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/five.png)
 
 ## Impostare i messaggi di annullamento dell&#39;iscrizione per il team {#set-unsubscribe-messaging-for-your-team}
 
-1. Accedi all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **Impostazioni**.
+1. Accedi all&#39;[applicazione Web](https://toutapp.com/login), fai clic sull&#39;icona a forma di ingranaggio in alto a destra e scegli **[!UICONTROL Settings]**.
 
    ![](assets/six.png)
 
-1. In Impostazioni amministrazione selezionare **Annulla sottoscrizione**.
+1. In [!UICONTROL Admin Settings], selezionare **[!UICONTROL Unsubscribes]**.
 
    ![](assets/eight.png)
 
-1. Personalizza i messaggi e al termine fai clic su **Salva**.
+1. Personalizza i tuoi messaggi e al termine fai clic su **[!UICONTROL Save]**.
 
    ![](assets/seven.png)
 
-1. Seleziona **Sto impostando la messaggistica predefinita per il mio team** affinché venga applicata a tutti gli utenti.
+1. Selezionare **[!UICONTROL I am setting the default messaging for my team]** per applicare i messaggi a tutti gli utenti.
 
    ![](assets/eleven.png)

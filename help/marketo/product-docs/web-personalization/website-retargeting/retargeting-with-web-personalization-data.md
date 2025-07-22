@@ -4,18 +4,18 @@ description: Retargeting con dati di Web Personalization - Documentazione di Mar
 title: Retargeting con dati di Web Personalization
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '381'
 ht-degree: 1%
 
 ---
 
-# Retargeting con dati di Web Personalization {#retargeting-with-web-personalization-data}
+# Retargeting con dati [!DNL Web Personalization] {#retargeting-with-web-personalization-data}
 
 >[!AVAILABILITY]
 >
->Il retargeting dei siti web ora rientra nel riquadro Web Personalization. Se hai acquistato solo il retargeting, visualizzerai questa sezione e accederai al prodotto Web Personalization con **solo** funzionalità di retargeting abilitate. In questo modo puoi accedere alle impostazioni dell’account, alla pagina Retargeting, ai segmenti e alle pagine di tracciamento aggiuntive.
+>Il retargeting dei siti web ora rientra nel riquadro Web Personalization. Se hai acquistato solo il retargeting, visualizzerai questa sezione e accederai al prodotto [!DNL Web Personalization] con **solo** funzionalità di retargeting abilitate. In questo modo puoi accedere alle impostazioni dell’account, alla pagina Retargeting, ai segmenti e alle pagine di tracciamento aggiuntive.
 
 Il remarketing è destinato ai potenziali clienti che hanno visitato il tuo sito in passato con display advertising in base a chi sono e a cosa hanno fatto. Il retargeting personalizzato è destinato a tipi di pubblico specifici con annunci pertinenti basati su dati di settore, account denominati e persone note.
 
@@ -24,12 +24,12 @@ Web Personalization attualmente aggiunge dati alle seguenti piattaforme di remar
 * [Google](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.md)
 * [Facebook](/help/marketo/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-facebook.md)
 
-Web Personalization invia i seguenti dati alle piattaforme di remarketing per creare tipi di pubblico ed eseguire campagne pubblicitarie di remarketing:
+[!DNL Web Personalization] invia i seguenti dati alle piattaforme di remarketing per creare tipi di pubblico ed eseguire campagne pubblicitarie di remarketing:
 
 <table> 
  <tbody> 
   <tr> 
-   <th colspan="1">Dati Personalization Web</th> 
+   <th colspan="1">[!DNL Web Personalization] Dati</th> 
   </tr> 
   <tr> 
    <th><p>Settore</p></th> 
@@ -54,7 +54,7 @@ Web Personalization invia i seguenti dati alle piattaforme di remarketing per cr
 
 ## Configurazione remarketing {#remarketing-configuration}
 
-1. Vai a **Retargeting**.
+1. Vai a **[!UICONTROL Retargeting]**.
 
    ![](assets/one.png)
 
@@ -62,7 +62,7 @@ Web Personalization invia i seguenti dati alle piattaforme di remarketing per cr
    >
    >La configurazione del retargeting è per dominio o sottodominio. Attiva gli altri domini se desideri inviare dati da tali domini alla piattaforma di retargeting.
 
-1. Attiva le impostazioni per Google Analytics o Google Universal Analytics per dominio.
+1. Attiva le impostazioni per Google Analytics o [!DNL Google Universal Analytics] per dominio.
 
    >[!NOTE]
    >
@@ -72,11 +72,11 @@ Web Personalization invia i seguenti dati alle piattaforme di remarketing per cr
 
    ![](assets/two.png)
 
-1. Attiva la configurazione per Facebook. Fai clic sul pannello a soffietto di Facebook ed espandilo, quindi fai clic su **Il** per inviare i rispettivi eventi e dati all&#39;Audience Manager di Facebook. Fai clic su **Salva**.
+1. Attiva la configurazione per Facebook. Fai clic sul pannello a soffietto [!DNL Facebook] ed espandilo, quindi fai clic su **[!UICONTROL On]** per inviare i rispettivi dati ed eventi a Facebook Audience Manager. Fai clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
-   >Affinché questa funzione funzioni, devi avere [Facebook Custom Audience Pixel](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel)installato il tuo sito Web.
+   >Affinché questa funzione funzioni, devi avere [[!DNL Facebook] Pixel pubblico personalizzato](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) installato nel tuo sito Web.
 
    ![](assets/three.png)
 
@@ -88,7 +88,7 @@ Un pubblico segmentato consente di selezionare un segmento esistente come pubbli
 >
 >Non è necessario creare un pubblico segmentato per il settore o altri dati già inviati tramite nella configurazione del dominio. È meglio utilizzare i tipi di pubblico segmentati per segmenti basati su dati di persone note.
 
-1. Fai clic su **Crea pubblico segmentato**.
+1. Fai clic su **[!UICONTROL Create Segmented Audience]**.
 
    ![](assets/image2015-1-15-16-3a36-3a38.png)
 
@@ -96,6 +96,6 @@ Un pubblico segmentato consente di selezionare un segmento esistente come pubbli
 
    ![](assets/image2015-1-15-16-3a40-3a17.png)
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
-   Hai completato la configurazione del retargeting in Web Personalization, accedi alle piattaforme di retargeting, crea i tipi di pubblico in base a questi dati e configura le campagne pubblicitarie di retargeting.
+   Hai completato la configurazione del retargeting in [!DNL Web Personalization], accedi alle tue piattaforme di retargeting, crea i tuoi tipi di pubblico in base a questi dati e configura le tue campagne pubblicitarie di retargeting.

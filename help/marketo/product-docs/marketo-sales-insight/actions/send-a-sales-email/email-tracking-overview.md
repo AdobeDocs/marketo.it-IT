@@ -3,9 +3,9 @@ description: Panoramica sul tracciamento e-mail - Documentazione di Marketo - Do
 title: Panoramica del tracciamento e-mail
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Il tracciamento delle risposte viene eseguito osservando un ID messaggio present
 
 >[!PREREQUISITES]
 >
->Connessione al server e-mail: Sales Connect deve essere collegato alla tua casella in entrata in modo da sapere quando è arrivata una nuova risposta. È necessario che l&#39;account Sales Connect sia connesso a Gmail. Se utilizzi Outlook, dovremo eseguire l’integrazione con il server di Exchange.
+>Connessione al server e-mail: [!DNL Sales Connect] deve essere connesso alla tua casella in entrata in modo da sapere quando è arrivata una nuova risposta. Devi avere il tuo account [!DNL Sales Connect] connesso a Gmail. Se utilizzi Outlook, dovremo eseguire l’integrazione con il server di Exchange.
 
-Se Sales Connect non riesce a tenere traccia della risposta del potenziale cliente all’e-mail, non potrà interrompere una campagna basata sul rilevamento delle risposte o registrare la risposta a Salesforce. Cosa significa che un indirizzo e-mail può rispondere?
+Se [!DNL Sales Connect] non riesce a tenere traccia della risposta del potenziale cliente all&#39;e-mail, non potrà interrompere una campagna basata sul rilevamento delle risposte o registrare la risposta a Salesforce. Cosa significa che un indirizzo e-mail può rispondere?
 
 Ciò significa che se invii un’e-mail a flynn@flynnsarcade.com e lui risponde con kevinf@flynnsarcade.com, saremo in grado di tenere traccia della risposta. Inoltre, se invii un’e-mail a flynn@flynnsarcade.com e CC alan@encom.com e Alan ti risponde, la risposta verrà rilevata e la campagna verrà terminata.
 
 ## Come tenere traccia degli allegati e-mail {#how-to-track-your-email-attachments}
 
-Sales Connect offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consentirti di vedere quando sono stati aperti/scaricati e vedere quali pagine sta cercando il destinatario. Ti consentiremo di utilizzare la funzionalità degli allegati tracciabili sia dall&#39;[applicazione Web](https://toutapp.com/login) che da Gmail (o dalle app Google).
+[!DNL Sales Connect] offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consentirti di vedere quando sono stati aperti/scaricati e vedere quali pagine sta cercando il destinatario. Ti consentiremo di utilizzare la funzionalità degli allegati tracciabili sia dall&#39;[applicazione Web](https://toutapp.com/login) che da Gmail (o dalle app Google).
 
 >[!NOTE]
 >
@@ -34,13 +34,13 @@ Sales Connect offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consen
 
 **Inviare il primo allegato tracciabile**
 
-1. Componi un messaggio e-mail o modifichi un modello, quindi fai clic sul pulsante **Contenuto**.
+1. Comporre un&#39;e-mail o modificare un modello, quindi fare clic sul pulsante **[!UICONTROL Content]**.
 
-1. Carica l’allegato e invialo. Supportiamo PDF, documenti Word e presentazioni Powerpoint.
+1. Carica l’allegato e invialo. Supportiamo PDF, [!DNL Word] documenti e [!DNL Powerpoint] presentazioni.
 
-1. Seleziona **Aggiungi a e-mail**.
+1. Seleziona **[!UICONTROL Add to Email]**.
 
-1. Fai clic su **Invia** e attiva il tuo feed live. Potrai visualizzare i destinatari all’apertura e scorrere la pagina tra gli allegati.
+1. Fai clic su **[!UICONTROL Send]** e attiva il tuo feed live. Potrai visualizzare i destinatari all’apertura e scorrere la pagina tra gli allegati.
 
 >[!TIP]
 >
@@ -50,15 +50,15 @@ Sales Connect offre il tracciamento degli allegati (.doc, .ppt, .pdf) per consen
 
 Tieni traccia delle aperture delle e-mail inserendo un’immagine invisibile all’interno delle e-mail inviate.
 
-Se qualcuno risponde alla tua e-mail ma Sales Connect dice che non è stata visualizzata, è probabile che il destinatario non abbia abilitato le immagini all’interno del proprio client e-mail (ad esempio, fai clic sul messaggio &quot;fai clic qui per scaricare le immagini&quot; nell’e-mail).
+Se qualcuno risponde all&#39;e-mail ma [!DNL Sales Connect] dice che non è stata visualizzata, è probabile che il destinatario non abbia abilitato le immagini nel client e-mail (ad esempio, fai clic sul messaggio &quot;fai clic qui per scaricare le immagini&quot; nell&#39;e-mail).
 
 Alcuni suggerimenti per ottenere statistiche di tracciamento migliori sulle e-mail:
 
 * Includi un’immagine nelle e-mail (come un logo) in modo che il destinatario sia invitato a consentire alle immagini di visualizzare il messaggio.
-* Includi un collegamento come invito all’azione nell’e-mail.
+* Includi un collegamento come call to action nell’e-mail.
 
 ## E-mail di prova non visualizzata {#test-email-not-showed-as-viewed}
 
-Anche se hai inviato il messaggio a un altro indirizzo e-mail, non ti registreremo visualizzando le e-mail che ti sei inviato nel feed live. Il tracciamento è basato su dispositivi; finché utilizzi un computer con cui hai effettuato l’accesso a Sales Connect, questa attività verrà filtrata.
+Anche se hai inviato il messaggio a un altro indirizzo e-mail, non ti registreremo visualizzando le e-mail che ti sei inviato nel feed live. Il monitoraggio è basato su dispositivi; finché utilizzi un computer con cui hai effettuato l&#39;accesso a [!DNL Sales Connect], questa attività verrà filtrata.
 
-Il motivo? Sales Connect è intelligente, e i nostri utenti attivi non ci perdonerebbero mai se le loro informazioni comparissero nell&#39;attività Live Feed ogni volta che guardavano un&#39;e-mail inviata.
+Il motivo? [!DNL Sales Connect] è intelligente e i nostri utenti attivi non ci perdonerebbero mai se le loro informazioni comparissero nell&#39;attività Live Feed ogni volta che visualizzavano un&#39;e-mail inviata.

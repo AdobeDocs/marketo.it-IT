@@ -4,9 +4,9 @@ description: Creare un segmento utilizzando dati di persona noti - Documentazion
 title: Creare un segmento utilizzando i dati della persona nota
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 >
 >[Gestisci dati persona](/help/marketo/product-docs/web-personalization/using-web-segments/manage-person-data.md)
 
-1. Vai a **Segmenti**.
+1. Vai a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-2.jpg)
 
-1. Fare clic su **Crea nuovo**.
+1. Fai clic su **[!UICONTROL Create New]**.
 
    ![](assets/image2015-8-28-13-3a19-3a59.png)
 
@@ -31,7 +31,7 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 
    ![](assets/image2015-8-28-13-3a2-3a59.png)
 
-1. In Segmentazione profilo trascinare **Database** nell&#39;area di lavoro.
+1. In Segmentazione profilo, trascina **[!UICONTROL Database]** sull&#39;area di lavoro.
 
    ![](assets/four-1.png)
 
@@ -53,11 +53,11 @@ Di seguito viene descritto come creare un segmento utilizzando i valori dei dati
 
    ![](assets/eight.png)
 
-1. Seleziona l’operatore AND/OR. Seleziona il campo da aggiungere. Seleziona un campo dati persona. Immetti il valore dei dati della persona.
+1. Selezionare l&#39;operatore [!UICONTROL AND]/[!UICONTROL OR]. Seleziona il campo da aggiungere. Seleziona un campo dati persona. Immetti il valore dei dati della persona.
 
    ![](assets/nine.png)
 
-1. Fai clic su **Salva** per salvare il segmento o su **Salva e definisci campagna** per salvare e passare alla pagina Campagne.
+1. Fare clic su **[!UICONTROL Save]** per salvare il segmento o su **[!UICONTROL Save & Define Campaign]** per salvare e passare alla pagina [!UICONTROL Campaigns].
 
    ![](assets/image2014-11-19-19-3a48-3a20-1.png)
 

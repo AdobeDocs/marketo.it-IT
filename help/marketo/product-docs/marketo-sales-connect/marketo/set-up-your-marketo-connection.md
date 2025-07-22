@@ -3,9 +3,9 @@ description: Configurare la connessione Marketo - Documentazione Marketo - Docum
 title: Configurare la connessione Marketo
 exl-id: 5b499c73-1319-4a58-ac49-61ae5558c05f
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Quando esegui il provisioning di MSC, Marketo invierà automaticamente le tue credenziali a Sales Connect e collegherà la tua istanza a Marketo. Questo passaggio è necessario **solo se non visualizzi la connessione stabilita** dopo il provisioning dell&#39;istanza Sales Connect. Se la connessione viene stabilita, le credenziali immesse verranno visualizzate nella pagina Impostazioni amministrazione di Marketo.
+>Quando si esegue il provisioning di MSC, Marketo invia automaticamente le credenziali a [!DNL Sales Connect] e connette l&#39;istanza a Marketo. Questo passaggio è necessario **solo se non visualizzi la connessione stabilita** dopo il provisioning dell&#39;istanza [!DNL Sales Connect]. Se la connessione viene stabilita, le credenziali immesse verranno visualizzate nella pagina Impostazioni amministrazione di Marketo.
 
-## Acquisizione delle credenziali prima della connessione delle vendite Connetti con Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
+## Acquisizione delle credenziali prima della connessione di [!DNL Sales Connect] a Marketo {#acquiring-credentials-prior-to-connecting-sales-connect-with-marketo}
 
-È necessario ottenere un set di credenziali da Marketo. Queste credenziali verranno utilizzate successivamente dall&#39;amministratore di Sales Connect per collegare Marketo a Sales Connect.
+È necessario ottenere un set di credenziali da Marketo. Queste credenziali verranno utilizzate successivamente dall&#39;amministratore [!DNL Sales Connect] per connettere Marketo a [!DNL Sales Connect].
 
-1. In Marketo, fai clic su **Amministratore**.
+1. In Marketo, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/manually-set-up-your-marketo-connection-1.png)
 
-1. Nella struttura fare clic su **Sales Connect**.
+1. Nella struttura fare clic su **[!UICONTROL Sales Engage]**.
 
    ![](assets/manually-set-up-your-marketo-connection-2.png)
 
-1. Seleziona e invia le seguenti credenziali Marketo all&#39;amministratore di Sales Connect: ID Munchkin, ID client, segreto client.
+1. Seleziona e invia le seguenti credenziali Marketo all&#39;amministratore [!DNL Sales Connect]: [!UICONTROL Munchkin Account ID], [!UICONTROL Client ID], [!UICONTROL Client Secret].
 
    ![](assets/manually-set-up-your-marketo-connection-3.jpg)
 
@@ -36,16 +36,16 @@ ht-degree: 0%
    >
    >Quando copi e incolla le informazioni di cui sopra, assicurati che non vengano aggiunti spazi.
 
-## Connetti vendite Connetti a Marketo {#connect-sales-connect-to-marketo}
+## Connetti [!DNL Sales Connect] a Marketo {#connect-sales-connect-to-marketo}
 
-1. In Sales Connect, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Impostazioni**.
+1. In [!DNL Sales Connect], fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/manually-set-up-your-marketo-connection-4.png)
 
-1. In Impostazioni amministrazione selezionare **Marketo**.
+1. In [!UICONTROL Admin Settings], selezionare **[!UICONTROL Marketo]**.
 
    ![](assets/manually-set-up-your-marketo-connection-5.png)
 
-1. Immettere le credenziali Marketo fornite dall&#39;amministratore di Marketo e fare clic su **Connetti**.
+1. Immettere le credenziali Marketo fornite dall&#39;amministratore di Marketo e fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/manually-set-up-your-marketo-connection-6.png)

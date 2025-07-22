@@ -4,16 +4,16 @@ description: Panoramica di Analytics su Email Insights - Documentazione di Marke
 title: Panoramica di Analytics su Email Insights
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
 
 # Panoramica di Analytics su Email Insights {#email-insights-analytics-overview}
 
-In Analytics, esplora i dati aggregati per la consegna e il coinvolgimento delle e-mail. Utilizza il grafico a sinistra per esplorare i dati, mentre le informazioni a destra per un’esperienza più guidata.
+In [!UICONTROL Analytics], esplora i dati aggregati per la consegna e il coinvolgimento delle e-mail. Utilizza il grafico a sinistra per esplorare i dati, mentre le informazioni a destra per un’esperienza più guidata.
 
 ![](assets/emailanalytics-1.jpg)
 
@@ -55,7 +55,7 @@ Sul lato destro della pagina, le metriche guidate consentono di individuare i dr
 
 >[!NOTE]
 >
->Vedi l&#39;aggiornamento in alto a destra? Quando lo visualizzi, dovrai fare clic manualmente su di esso per aggiornare il modulo Insights. Questo viene visualizzato solo se hai apportato una modifica ai filtri che invaliderebbe i valori correnti.
+>Vedi [!UICONTROL Refresh] in alto a destra? Quando lo visualizzi, dovrai fare clic manualmente su di esso per aggiornare il modulo Insights. Questo viene visualizzato solo se hai apportato una modifica ai filtri che invaliderebbe i valori correnti.
 
 Puoi anche specificare cosa visualizzare (da sinistra a destra): Tutto, Pubblico, Contenuto e Piattaforma.
 

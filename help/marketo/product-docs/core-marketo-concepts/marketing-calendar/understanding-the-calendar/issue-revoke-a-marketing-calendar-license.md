@@ -4,10 +4,10 @@ description: Rilasciare/revocare una licenza di Marketing Calendar (Calendario d
 title: Rilasciare/revocare una licenza di Marketing Calendar
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 Per utilizzare le postazioni del [Calendario marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md){target="_blank"}, è necessario rilasciare le licenze agli utenti che necessitano di accedervi. Ecco come.
 
-1. Vai alla sezione **[!UICONTROL Amministratore]**.
+1. Passare alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/adminhand.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/2.png)
 
-1. Selezionare gli utenti e fare clic su **[!UICONTROL Licenza Issue]**.
+1. Selezionare gli utenti e fare clic su **[!UICONTROL Issue License]**.
 
    >[!TIP]
    >
@@ -35,7 +35,7 @@ Per utilizzare le postazioni del [Calendario marketing](/help/marketo/product-do
 
    ![](assets/3.png)
 
-1. Controlla **[!UICONTROL Abilita licenza]** e fai clic su **[!UICONTROL Salva]**.
+1. Selezionare **[!UICONTROL Enable License]** e fare clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -43,6 +43,6 @@ Per utilizzare le postazioni del [Calendario marketing](/help/marketo/product-do
 
    ![](assets/4.png)
 
-   Ben fatto! Vedi il segno di spunta verde in &quot;Calendario?&quot;
+   Ben fatto! Vedere il segno di spunta verde in &#39;[!UICONTROL Calendar]?&#39;
 
    ![](assets/5.png)

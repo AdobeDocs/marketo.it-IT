@@ -3,9 +3,9 @@ description: Passaggio 2 di 4 - Configurare la soluzione Marketo con la connessi
 title: Passaggio 2 di 4 - Configurare la soluzione Marketo con la connessione di controllo della password del proprietario della risorsa
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '397'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ Iniziamo creando un account utente.
 
 ## Crea un nuovo utente {#create-a-new-user}
 
-1. Accedi a Dynamics. Fare clic sull&#39;icona Impostazioni e selezionare **[!UICONTROL Advanced Settings]**.
+1. Accedere a [!DNL Dynamics]. Fare clic sull&#39;icona [!UICONTROL Settings] e selezionare **[!UICONTROL Advanced Settings]**.
 
    ![](assets/one.png)
 
@@ -70,13 +70,13 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!NOTE]
 >
->Applicabile a Marketo versione 4.0.0.14 e successive. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare Marketo, vedere [Aggiorna soluzione Marketo per Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md){target="_blank"}.
+>Applicabile a Marketo versione 4.0.0.14 e successive. Per le versioni precedenti, tutti gli utenti devono avere il ruolo utente di sincronizzazione. Per aggiornare Marketo, vedere [Aggiorna soluzione Marketo per [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.md).
 
 >[!IMPORTANT]
 >
 >L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
-1. Torna alla scheda **[!UICONTROL Enabled Users]** e aggiorna l&#39;elenco degli utenti.
+1. Torna alla scheda [!UICONTROL Enabled Users] e aggiorna l&#39;elenco degli utenti.
 
    ![](assets/ten.png)
 
@@ -100,13 +100,13 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 Ci siamo quasi! Tutto ciò che ci rimane è informare Marketo Solution sul nuovo utente creato.
 
-1. Tornare alla sezione Impostazioni avanzate e fare clic sull&#39;icona ![](assets/image2015-5-13-15-3a49-3a19.png) accanto a Impostazioni, quindi selezionare **[!UICONTROL Marketo Config]**.
+1. Torna alla sezione [!UICONTROL Advanced Settings] e fai clic sull&#39;icona ![](assets/image2015-5-13-15-3a49-3a19.png) accanto a [!UICONTROL Settings], quindi seleziona **[!UICONTROL Marketo Config]**.
 
    ![](assets/fourteen.png)
 
    >[!NOTE]
    >
-   >Se **[!UICONTROL Marketo Config]** non è visualizzato nel menu Impostazioni, aggiornare la pagina. Se non funziona, prova a [pubblicare di nuovo la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md){target="_blank"} oppure esci e accedi di nuovo.
+   >Se **[!UICONTROL Marketo Config]** non è visualizzato nel menu [!UICONTROL Settings], aggiorna la pagina. Se non funziona, prova a [pubblicare di nuovo la soluzione Marketo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md) oppure esci e accedi di nuovo.
 
 1. Fai clic su **[!UICONTROL Default]**.
 
@@ -124,7 +124,7 @@ Ci siamo quasi! Tutto ciò che ci rimane è informare Marketo Solution sul nuovo
 
    ![](assets/seventeen.png)
 
-1. Fare clic sull&#39;icona ![](assets/image2015-5-13-15-3a49-3a19-1.png) accanto a Impostazioni e selezionare **[!UICONTROL Solutions]**.
+1. Fare clic sull&#39;icona ![](assets/image2015-5-13-15-3a49-3a19-1.png) accanto a [!UICONTROL Settings] e selezionare **[!UICONTROL Solutions]**.
 
    ![](assets/eighteen.png)
 

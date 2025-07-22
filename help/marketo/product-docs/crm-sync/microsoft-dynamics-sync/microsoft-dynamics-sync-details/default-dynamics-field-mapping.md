@@ -3,16 +3,16 @@ description: Mappatura campo Dynamics predefinita - Documenti Marketo - Document
 title: Mappatura campo Dynamics predefinita
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 2403ae0f1fdca3b8238f3f59e2a3b94129deb301
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '823'
-ht-degree: 18%
+source-wordcount: '332'
+ht-degree: 2%
 
 ---
 
 # Mappatura campo Dynamics predefinita {#default-dynamics-field-mapping}
 
-Quando sincronizzi inizialmente l’account di Marketo Engage con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
+Quando sincronizzi inizialmente l’account Marketo Engage con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
 
 ## Campi lead {#lead-fields}
 
@@ -29,203 +29,203 @@ Quando sincronizzi inizialmente l’account di Marketo Engage con Microsoft, Mar
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Data di creazione Microsoft</td>
-      <td>Creato il</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>creato il</td>
     </tr>
     <tr>
-      <td>Formula di saluto</td>
-      <td>Formula di saluto</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>saluto</td>
     </tr>
     <tr>
-      <td>Primo</td>
-      <td>Nome</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>nome</td>
     </tr>
     <tr>
-      <td>In mezzo</td>
-      <td>Secondo nome</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Ultimo</td>
-      <td>Cognome</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>cognome</td>
     </tr>
     <tr>
-      <td>E-mail</td>
-      <td>E-mail</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>Qualifica</td>
-      <td>Qualifica</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job title]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>Telefono</td>
-      <td>Telefono (uff.)</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>telefono1</td>
     </tr>
     <tr>
-      <td>Mobile</td>
-      <td>Telefono cellulare</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>telefono cellulare</td>
     </tr>
     <tr>
-      <td>Fax</td>
-      <td>Fax</td>
+      <td>[!UICONTROL Fax]</td>
+      <td>[!UICONTROL Fax]</td>
       <td>fax</td>
     </tr>
     <tr>
-      <td>Indirizzo</td>
-      <td>Strada 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Città</td>
-      <td>Città</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Stato</td>
-      <td>Stato/Provincia</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL State/Province]</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
-      <td>Paese</td>
-      <td>Paese</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Codice postale</td>
-      <td>CAP</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Source della persona</td>
-      <td>Fonte Lead</td>
+      <td>[!UICONTROL Person Source]</td>
+      <td>[!UICONTROL Lead Source]</td>
       <td>lead sourcecode</td>
     </tr>
     <tr>
-      <td>Stato della persona</td>
-      <td>Stato</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Motivo dello stato</td>
-      <td>Motivo dello stato</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>Note della persona</td>
-      <td>Descrizione</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>descrizione</td>
     </tr>
     <tr>
-      <td>Non effettuare la chiamata</td>
-      <td>Non consentire telefonate</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Annulla l'iscrizione</td>
-      <td>Non inviare e-mail in blocco</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Valutazione della persona</td>
-      <td>Valutazione</td>
+      <td>[!UICONTROL Person Rating]</td>
+      <td>[!UICONTROL Rating]</td>
       <td>lead qualitycode</td>
     </tr>
     <tr>
-      <td>Indirizzo Microsoft 2</td>
-      <td>Strada 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Indirizzo Microsoft 3</td>
-      <td>Strada 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft Do Not Email</td>
-      <td>Non Consentire Le E-Mail</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Microsoft Do Not Fax</td>
-      <td>Non consentire fax</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Do Not Allow Faxes]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Microsoft - Non inviare materiale di marketing</td>
-      <td>Materiale di marketing</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Telefono Microsoft (ab.)</td>
-      <td>Telefono abitazione</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>telefono2</td>
     </tr>
     <tr>
-      <td>Metodo Di Contatto Preferito Da Microsoft</td>
-      <td>Metodo di contatto preferito</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method of Contact]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
-      <td>Argomento Microsoft</td>
-      <td>Argomento</td>
+      <td>[!UICONTROL Microsoft Topic]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>oggetto</td>
     </tr>
     <tr>
-      <td>Data ultimo momento di interesse</td>
-      <td>Data ultimo momento di interesse</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastengmomentdate</td>
     </tr>
     <tr>
-      <td>Ultimo momento di interesse desc</td>
-      <td>Ultimo momento di interesse desc</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinteressanti momentdesc</td>
     </tr>
     <tr>
-      <td>Sorgente ultimo momento di interesse</td>
-      <td>Sorgente ultimo momento di interesse</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadingInteressomomentsource</td>
     </tr>
     <tr>
-      <td>Ultimo tipo di momento di interesse</td>
-      <td>Ultimo tipo di momento di interesse</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastinteressante momenttype</td>
     </tr>
     <tr>
-      <td>Azienda</td>
-      <td>Nome della società</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Company Name]</td>
       <td>nome società</td>
     </tr>
     <tr>
-      <td>Punteggio relativo</td>
-      <td>Punteggio relativo</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Priorità</td>
-      <td>Priorità</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Urgenza relativa</td>
-      <td>urgenza</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Oggetto</td>
-      <td>Argomento</td>
+      <td>[!UICONTROL Subject]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>oggetto</td>
     </tr>
     <tr>
-      <td>Entrata annuale</td>
-      <td>Entrata annuale</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
       <td>ricavi</td>
     </tr>
   </tbody>
@@ -244,11 +244,11 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>creato il</td>
+      <td>[!UICONTROL Created On]</td>
       <td>creato il</td>
     </tr>
   </tbody>
@@ -269,179 +269,179 @@ I campi Lead riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Data di creazione Microsoft</td>
-      <td>Creato il</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>[!UICONTROL Created On]</td>
       <td>creato il</td>
     </tr>
     <tr>
-      <td>Formula di saluto</td>
-      <td>Formula di saluto</td>
+      <td>[!UICONTROL Salutation]</td>
+      <td>[!UICONTROL Salutation]</td>
       <td>saluto</td>
     </tr>
     <tr>
-      <td>Primo</td>
-      <td>Nome</td>
+      <td>[!UICONTROL First]</td>
+      <td>[!UICONTROL First Name]</td>
       <td>nome</td>
     </tr>
     <tr>
-      <td>In mezzo</td>
-      <td>Secondo nome</td>
+      <td>[!UICONTROL Middle]</td>
+      <td>[!UICONTROL Middle Name]</td>
       <td>middlename</td>
     </tr>
     <tr>
-      <td>Ultimo</td>
-      <td>Cognome</td>
+      <td>[!UICONTROL Last]</td>
+      <td>[!UICONTROL Last Name]</td>
       <td>cognome</td>
     </tr>
     <tr>
-      <td>E-mail</td>
-      <td>E-mail</td>
+      <td>[!UICONTROL Email]</td>
+      <td>[!UICONTROL Email]</td>
       <td>emailaddress1</td>
     </tr>
     <tr>
-      <td>Qualifica</td>
-      <td>Qualifica</td>
+      <td>[!UICONTROL Job Title]</td>
+      <td>[!UICONTROL Job Title]</td>
       <td>jobtitle</td>
     </tr>
     <tr>
-      <td>Telefono</td>
-      <td>Telefono (uff.)</td>
+      <td>[!UICONTROL Phone]</td>
+      <td>[!UICONTROL Business Phone]</td>
       <td>telefono1</td>
     </tr>
     <tr>
-      <td>Mobile</td>
-      <td>Telefono cellulare</td>
+      <td>[!UICONTROL Mobile]</td>
+      <td>[!UICONTROL Mobile Phone]</td>
       <td>telefono cellulare</td>
     </tr>
     <tr>
-      <td>Indirizzo</td>
-      <td>Indirizzo 1: via 1</td>
+      <td>[!UICONTROL Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Città</td>
-      <td>Indirizzo 1: città</td>
+      <td>[!UICONTROL City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Stato</td>
-      <td>Indirizzo 1: Stato/Provincia</td>
+      <td>[!UICONTROL State]</td>
+      <td>[!UICONTROL Address 1: State/Province]</td>
       <td>address1_stateorprovince</td>
     </tr>
     <tr>
-      <td>Paese</td>
-      <td>Indirizzo 1: Paese</td>
+      <td>[!UICONTROL Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Codice postale</td>
-      <td>Indirizzo 1: CAP</td>
+      <td>[!UICONTROL Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Stato della persona</td>
-      <td>Stato</td>
+      <td>[!UICONTROL Person Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Motivo dello stato</td>
-      <td>Motivo dello stato</td>
+      <td>[!UICONTROL Status Reason]</td>
+      <td>[!UICONTROL Status Reason]</td>
       <td>statuscode</td>
     </tr>
     <tr>
-      <td>Non effettuare la chiamata</td>
-      <td>Non consentire telefonate</td>
+      <td>[!UICONTROL Do Not Call]</td>
+      <td>[!UICONTROL Do Not Allow Phone Calls]</td>
       <td>donotphone</td>
     </tr>
     <tr>
-      <td>Annulla l'iscrizione</td>
-      <td>Non inviare e-mail in blocco</td>
+      <td>[!UICONTROL Unsubscribed]</td>
+      <td>[!UICONTROL Do not bulk email]</td>
       <td>donotbulkemail</td>
     </tr>
     <tr>
-      <td>Indirizzo Microsoft 2</td>
-      <td>Indirizzo 1: via 2</td>
+      <td>[!UICONTROL Microsoft Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Indirizzo Microsoft 3</td>
-      <td>Indirizzo 1: via 3</td>
+      <td>[!UICONTROL Microsoft Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Microsoft Do Not Email</td>
-      <td>Non Consentire Le E-Mail</td>
+      <td>[!UICONTROL Microsoft Do Not Email]</td>
+      <td>[!UICONTROL Do Not Allow Emails]</td>
       <td>donotemail</td>
     </tr>
     <tr>
-      <td>Telefono Microsoft (ab.)</td>
-      <td>Telefono abitazione</td>
+      <td>[!UICONTROL Microsoft Home Phone]</td>
+      <td>[!UICONTROL Home Phone]</td>
       <td>telefono2</td>
     </tr>
     <tr>
-      <td>Metodo Di Contatto Preferito Da Microsoft</td>
-      <td>Metodo Di Contatto Preferito</td>
+      <td>[!UICONTROL Microsoft Preferred Method Of Contact]</td>
+      <td>[!UICONTROL Preferred Method Of Contact]</td>
       <td>preferredcontactmethod code</td>
     </tr>
     <tr>
-      <td>Data ultimo momento di interesse</td>
-      <td>Data ultimo momento di interesse</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
+      <td>[!UICONTROL Last interesting moment date]</td>
       <td>mkt_lastengmomentdate</td>
     </tr>
     <tr>
-      <td>Ultimo tipo di momento di interesse</td>
-      <td>Ultimo tipo di momento di interesse</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
+      <td>[!UICONTROL Last interesting moment type]</td>
       <td>mkt_lastinteressante momenttype</td>
     </tr>
     <tr>
-      <td>Sorgente ultimo momento di interesse</td>
-      <td>Sorgente ultimo momento di interesse</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
+      <td>[!UICONTROL Last Interesting moment source]</td>
       <td>mkt_leadingInteressomomentsource</td>
     </tr>
     <tr>
-      <td>Ultimo momento di interesse desc</td>
-      <td>Ultimo momento di interesse desc</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
+      <td>[!UICONTROL Last Interesting moment desc]</td>
       <td>mkt_lastinteressanti momentdesc</td>
     </tr>
     <tr>
-      <td>Microsoft - Non inviare materiale di marketing</td>
-      <td>Materiale di marketing</td>
+      <td>[!UICONTROL Microsoft Do Not Send Marketing Material]</td>
+      <td>[!UICONTROL Marketing Material]</td>
       <td>donotsendmm</td>
     </tr>
     <tr>
-      <td>Microsoft Do Not Fax</td>
-      <td>Microsoft Do Not Fax</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
+      <td>[!UICONTROL Microsoft Do Not Fax]</td>
       <td>donotfax</td>
     </tr>
     <tr>
-      <td>Priorità</td>
-      <td>Priorità</td>
+      <td>[!UICONTROL Priority]</td>
+      <td>[!UICONTROL Priority]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Urgenza relativa</td>
-      <td>urgenza</td>
+      <td>[!UICONTROL Relative Urgency]</td>
+      <td>[!UICONTROL Urgency]</td>
       <td>mkt_priority</td>
     </tr>
     <tr>
-      <td>Punteggio relativo</td>
-      <td>Punteggio relativo</td>
+      <td>[!UICONTROL Relative Score]</td>
+      <td>[!UICONTROL Relative Score]</td>
       <td>mkt_relativescore</td>
     </tr>
     <tr>
-      <td>Note della persona</td>
-      <td>Descrizione</td>
-      <td>descrizione</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>descrizione </td>
     </tr>
     <tr>
-      <td>Punteggio della persona</td>
-      <td>Punteggio Lead</td>
+      <td>[!UICONTROL Person Score]</td>
+      <td>[!UICONTROL Lead Score]</td>
       <td>mkt_leadingScore</td>
     </tr>
     <tr>
-      <td>Note della persona</td>
-      <td>Descrizione</td>
-      <td>descrizione</td>
+      <td>[!UICONTROL Person Notes]</td>
+      <td>[!UICONTROL Description]</td>
+      <td>descrizione </td>
     </tr>
   </tbody>
 </table>
@@ -459,16 +459,16 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>creato il</td>
+      <td>[!UICONTROL Created On]</td>
       <td>creato il</td>
     </tr>
     <tr>
+      <td>[!UICONTROL Company Name]</td>
       <td>parentcustomerid</td>
-      <td>Nome della società</td>
     </tr>
   </tbody>
 </table>
@@ -488,103 +488,103 @@ I campi Contatto riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Conto (a)</td>
-      <td>Account</td>
+      <td>[!UICONTROL Account (a)]</td>
+      <td>[!UICONTROL Account]</td>
       <td>accounttid</td>
     </tr>
     <tr>
-      <td>Indirizzo di fatturazione</td>
-      <td>Indirizzo 1: via 1</td>
+      <td>[!UICONTROL Billing Address]</td>
+      <td>[!UICONTROL Address 1: Street 1]</td>
       <td>address1_line1</td>
     </tr>
     <tr>
-      <td>Città di fatturazione</td>
-      <td>Indirizzo 1: città</td>
+      <td>[!UICONTROL Billing City]</td>
+      <td>[!UICONTROL Address 1: City]</td>
       <td>address1_city</td>
     </tr>
     <tr>
-      <td>Paese di fatturazione</td>
-      <td>Indirizzo 1: Paese</td>
+      <td>[!UICONTROL Billing Country]</td>
+      <td>[!UICONTROL Address 1: Country/Region]</td>
       <td>address1_country</td>
     </tr>
     <tr>
-      <td>Codice postale di fatturazione</td>
-      <td>Indirizzo 1: CAP</td>
+      <td>[!UICONTROL Billing Postal Code]</td>
+      <td>[!UICONTROL Address 1: Zip/Postal Code]</td>
       <td>address1_postalcode</td>
     </tr>
     <tr>
-      <td>Indirizzo di fatturazione Microsoft 2</td>
-      <td>Indirizzo 1: via 2</td>
+      <td>[!UICONTROL Microsoft Billing Address 2]</td>
+      <td>[!UICONTROL Address 1: Street 2]</td>
       <td>address1_line2</td>
     </tr>
     <tr>
-      <td>Indirizzo di fatturazione Microsoft 3</td>
-      <td>Indirizzo 1: via 3</td>
+      <td>[!UICONTROL Microsoft Billing Address 3]</td>
+      <td>[!UICONTROL Address 1: Street 3]</td>
       <td>address1_line3</td>
     </tr>
     <tr>
-      <td>Numero di telefono</td>
-      <td>Numero di telefono</td>
+      <td>[!UICONTROL Main Phone]</td>
+      <td>[!UICONTROL Main Phone]</td>
       <td>telefono1</td>
     </tr>
     <tr>
-      <td>Tipo di azienda</td>
-      <td>Tipo di azienda</td>
+      <td>[!UICONTROL Business Type]</td>
+      <td>[!UICONTROL Business Type]</td>
       <td>businesstypecode</td>
     </tr>
     <tr>
-      <td>Numero account Microsoft</td>
-      <td>Numero account</td>
+      <td>[!UICONTROL Microsoft Account Number]</td>
+      <td>[!UICONTROL Account Number]</td>
       <td>numero account</td>
     </tr>
     <tr>
-      <td>Stato società Microsoft</td>
-      <td>Stato</td>
+      <td>[!UICONTROL Microsoft Company Status]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Entrata annuale</td>
-      <td>Entrata annuale</td>
+      <td>[!UICONTROL Annual Revenue]</td>
+      <td>[!UICONTROL Annual Revenue]</td>
       <td>ricavi</td>
     </tr>
     <tr>
-      <td>Note società</td>
-      <td>Descrizione</td>
+      <td>[!UICONTROL Company Notes]</td>
+      <td>[!UICONTROL Description]</td>
       <td>descrizione</td>
     </tr>
     <tr>
-      <td>Settore</td>
-      <td>Settore</td>
+      <td>[!UICONTROL Industry]</td>
+      <td>[!UICONTROL Industry]</td>
       <td>industrycode</td>
     </tr>
     <tr>
-      <td>Codice SIC (Standard Industrial Classification)</td>
-      <td>Codice SIC (Standard Industrial Classification)</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>Sito web</td>
-      <td>Sito web</td>
+      <td>[!UICONTROL Website]</td>
+      <td>[!UICONTROL Website]</td>
       <td>sito web</td>
     </tr>
     <tr>
-      <td>Numero dipendenti</td>
-      <td>Numero di dipendenti</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>numero di dipendenti</td>
     </tr>
     <tr>
-      <td>Codice SIC (Standard Industrial Classification)</td>
-      <td>Codice SIC (Standard Industrial Classification)</td>
+      <td>[!UICONTROL SIC Code]</td>
+      <td>[!UICONTROL SIC Code]</td>
       <td>sic</td>
     </tr>
     <tr>
-      <td>Azienda</td>
-      <td>Nome account</td>
+      <td>[!UICONTROL Company]</td>
+      <td>[!UICONTROL Account Name]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>Numero dipendenti</td>
-      <td>Numero di dipendenti</td>
+      <td>[!UICONTROL Num Employees]</td>
+      <td>[!UICONTROL Number of Employees]</td>
       <td>numero di dipendenti</td>
     </tr>
   </tbody>
@@ -603,11 +603,11 @@ I campi Account riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>creato il</td>
+      <td>[!UICONTROL Created On]</td>
       <td>creato il</td>
     </tr>
   </tbody>
@@ -628,33 +628,33 @@ I campi Account riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Probabilità di chiusura</td>
-      <td>Probabilità</td>
+      <td>[!UICONTROL Close Probability]</td>
+      <td>[!UICONTROL Probabliity]</td>
       <td>closeprobability</td>
     </tr>
     <tr>
-      <td>Fase</td>
-      <td>stato</td>
+      <td>[!UICONTROL Stage]</td>
+      <td>[!UICONTROL Status]</td>
       <td>statecode</td>
     </tr>
     <tr>
-      <td>Data di chiusura effettiva</td>
-      <td>Data di chiusura effettiva</td>
+      <td>[!UICONTROL Actual Close Date]</td>
+      <td>[!UICONTROL Actual Close Date]</td>
       <td>actualclosedate</td>
     </tr>
     <tr>
-      <td>Nome</td>
-      <td>Argomento</td>
+      <td>[!UICONTROL Name]</td>
+      <td>[!UICONTROL Topic]</td>
       <td>name</td>
     </tr>
     <tr>
-      <td>Valore stimato</td>
-      <td>Stim. Ricavi</td>
+      <td>[!UICONTROL Estimated Value]</td>
+      <td>[!UICONTROL Est. Revenue]</td>
       <td>estimatedValue</td>
     </tr>
     <tr>
-      <td>Descrizione</td>
-      <td>Descrizione</td>
+      <td>[!UICONTROL Description]</td>
+      <td>[!UICONTROL Description]</td>
       <td>descrizione</td>
     </tr>
   </tbody>
@@ -673,15 +673,15 @@ I campi Account riportati di seguito sono sincronizzati per uso interno.
       <th>Nome API MS Dynamics</th>
     </tr>
     <tr>
-      <td>Proprietario</td>
+      <td>[!UICONTROL Owner] </td>
       <td>ownerid</td>
     </tr>
     <tr>
-      <td>Opportunità</td>
+      <td>[!UICONTROL Opportunity]</td>
       <td>optionId</td>
     </tr>
     <tr>
-      <td>Cliente potenziale</td>
+      <td>[!UICONTROL Potential Customer]</td>
       <td>customerId</td>
     </tr>
   </tbody>
@@ -702,15 +702,15 @@ I campi seguenti vengono creati in Marketo ma non possono essere regolati dagli 
       <th>Descrizione</th>
     </tr>
     <tr>
-      <td>Tipo Microsoft</td>
+      <td>[!UICONTROL Microsoft Type]</td>
       <td>Lead o contatto. Se vuoto, il lead esiste solo come persona in Marketo</td>
     </tr>
     <tr>
-      <td>Data di creazione Microsoft</td>
-      <td>Data di creazione in MS Dynamics (può essere diversa da Creato in Marketo)</td>
+      <td>[!UICONTROL Microsoft Created Date]</td>
+      <td>Data di creazione in [!DNL MS Dynamics] (può essere diversa da Creato in Marketo)</td>
     </tr>
     <tr>
-      <td>Microsoft eliminato</td>
+      <td>[!UICONTROL Microsoft is Deleted]</td>
       <td>La persona era in Microsoft ma è stata eliminata e ora risiede solo in Marketo</td>
     </tr>
   </tbody>

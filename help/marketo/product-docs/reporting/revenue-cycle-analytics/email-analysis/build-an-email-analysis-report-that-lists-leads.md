@@ -4,9 +4,9 @@ description: Creare un rapporto di analisi e-mail con l’elenco dei lead - Docu
 title: Creare un rapporto di analisi e-mail con l’elenco dei lead
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,33 @@ Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà 
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 >[!NOTE]
 >
 >Il motore di dati che supporta E-mail Analysis RCA ignora più di 12 clic a persona se provengono dalla stessa e-mail e campagna. Tieni presente questo aspetto durante il confronto tra i rapporti di Email Analysis e quelli standard di Marketo Analytics.
 
-1. Avvia **Gestione ricavi**.
+1. Avvia **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/report-that-lists-leads-1.png)
 
-1. Fai clic su **Crea nuovo** e quindi su **Report**.
+1. Fare clic su **[!UICONTROL Create New]** e quindi su **[!UICONTROL Report]**.
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Selezionare Email Analysis e fare clic su **OK**.
+1. Selezionare **[!UICONTROL Email Analysis]** e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-3.png)
 
-1. Trovare il punto giallo del Nome e-mail, fare clic con il pulsante destro del mouse e selezionare **Filtro**.
+1. Trovare il punto giallo **[!UICONTROL Email Name]**, fare clic con il pulsante destro del mouse su di esso e selezionare **[!UICONTROL Filter...]**.
 
    ![](assets/report-that-lists-leads-4.png)
 
-1. Fare doppio clic sull&#39;indirizzo di posta elettronica desiderato nell&#39;elenco e fare clic su **OK**.
+1. Fare doppio clic sull&#39;e-mail scelta nell&#39;elenco e fare clic su **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-5.png)
 
-1. Trascina il punto giallo **Nome e-mail** in **Colonne**.
+1. Trascinare il punto giallo **[!UICONTROL Email Name]** su **[!UICONTROL Columns]**.
 
    ![](assets/report-that-lists-leads-6.png)
 
@@ -51,11 +51,11 @@ Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà 
    >
    >È possibile aggiungere come colonne molti attributi lead/società ed estrarli.
 
-1. Trova il punto giallo **Nome completo** e trascinalo su **Righe**.
+1. Trovare il punto giallo **[!UICONTROL Full Name]** e trascinarlo su **[!UICONTROL Rows]**.
 
    ![](assets/report-that-lists-leads-7.png)
 
-1. Aggiungere ora le **Misure** desiderate facendo doppio clic su di esse.
+1. Aggiungere ora **[!UICONTROL Measures]** a cui si è interessati facendo doppio clic su di essi.
 
    ![](assets/report-that-lists-leads-8.png)
 

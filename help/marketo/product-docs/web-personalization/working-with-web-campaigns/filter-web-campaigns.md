@@ -4,32 +4,32 @@ description: Filtrare campagne web - Documentazione di Marketo - Documentazione 
 title: Filtrare campagne web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '87'
+ht-degree: 1%
 
 ---
 
 # Filtrare campagne web {#filter-web-campaigns}
 
-Dopo aver creato centinaia di campagne Web Personalization, è molto utile poter utilizzare i filtri per visualizzare solo quelle a cui sei interessato.
+Dopo aver creato centinaia di [!DNL Web Personalization] campagne, è molto utile poter utilizzare i filtri per visualizzare solo quelle che ti interessano.
 
-1. Vai a **Campagne Web**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 
-1. Nella pagina Campagne Web fare clic su **Filtro**.
+1. Nella pagina [!UICONTROL Web Campaigns], fare clic su **[!UICONTROL Filter]**.
 
    ![](assets/web-campaigns-page-filter-hand.jpg)
 
-1. Seleziona la casella di controllo per lo stato e/o il tipo di campagna per cui vuoi filtrare, ad esempio **In pausa** o **Finestra di dialogo**. Fare clic su **Applica**.
+1. Selezionare la casella di controllo relativa allo stato e/o al tipo di campagna per cui si desidera filtrare, ad esempio **[!UICONTROL Paused]** o **[!UICONTROL Dialog]**. Fai clic su **[!UICONTROL Apply]**.
 
    ![](assets/web-campaigns-filters-hands.jpg)
 
    >[!TIP]
    >
-   >Utilizza la casella di controllo **Seleziona tutto** per scegliere tutte le caselle di controllo oppure il collegamento **Cancella** per deselezionarle.
+   >Utilizza la casella di controllo **[!UICONTROL Select All]** per scegliere tutte le caselle di controllo o il collegamento **[!UICONTROL Clear]** per deselezionarle.
 
 1. Ora vengono visualizzate solo le campagne che corrispondono al filtro.
 

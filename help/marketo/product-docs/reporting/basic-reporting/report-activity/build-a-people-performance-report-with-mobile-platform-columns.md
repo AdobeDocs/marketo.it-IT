@@ -4,10 +4,10 @@ description: Creare un rapporto sulle prestazioni delle persone con colonne dell
 title: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
 ## Creare elenchi avanzati per dispositivi mobili {#create-mobile-smart-lists}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
@@ -25,35 +25,35 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
    ![](assets/two-1.png)
 
-1. In **Nuovo**, seleziona **Nuova risorsa locale**.
+1. In **[!UICONTROL New]**, selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/three-1.png)
 
-1. Fare clic su **Elenco avanzato**.
+1. Fai clic su **[!UICONTROL Smart List]**.
 
    ![](assets/four-1.png)
 
-1. Digitare un nome e fare clic su **Crea**.
+1. Digitare un nome e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/five-1.png)
 
-1. Trova e trascina il filtro E-mail aperta nell’area di lavoro.
+1. Trovare e trascinare il filtro [!UICONTROL Opened Email] nell&#39;area di lavoro.
 
    ![](assets/six-1.png)
 
-1. Imposta e-mail su **è qualsiasi**.
+1. Impostare Email su **[!UICONTROL is any]**.
 
    ![](assets/seven.png)
 
-1. Fai clic su **Aggiungi vincolo** e seleziona **Piattaforma**.
+1. Fare clic su **[!UICONTROL Add Constraint]** e selezionare **[!UICONTROL Platform]**.
 
    ![](assets/eight.png)
 
    >[!TIP]
    >
-   >In questo esempio è stato utilizzato il filtro E-mail aperta. Puoi anche utilizzare il filtro E-mail selezionata poiché presenta il vincolo Platform.
+   >È stato utilizzato il filtro [!UICONTROL Opened Email] in questo esempio. È inoltre possibile utilizzare il filtro [!UICONTROL Clicked Email] in quanto presenta il vincolo Platform.
 
-1. Imposta Platform su **iOS**.
+1. Imposta [!UICONTROL Platform] su **[!UICONTROL iOS]**.
 
    ![](assets/nine.png)
 
@@ -65,23 +65,23 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
 ## Creare un rapporto sulle prestazioni delle persone {#create-a-people-performance-report}
 
-1. In Attività di marketing, seleziona il programma che ospita gli elenchi avanzati **iOS** e **Android**.
+1. In Attività di marketing selezionare il programma che contiene gli elenchi avanzati **[!UICONTROL iOS]** e **[!UICONTROL Android]**.
 
    ![](assets/ten.png)
 
-1. In **Nuovo**, seleziona **Nuova risorsa locale**.
+1. In **[!UICONTROL New]**, selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/eleven.png)
 
-1. Fai clic su **Report**.
+1. Fai clic su **[!UICONTROL Report]**.
 
    ![](assets/twelve.png)
 
-1. Imposta tipo su **Prestazioni persone**.
+1. Imposta tipo su **[!UICONTROL People Performance]**.
 
    ![](assets/thirteen.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/fourteen.png)
 
@@ -89,7 +89,7 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
 ## Aggiungi elenchi avanzati mobili come colonne {#add-mobile-smart-lists-as-columns}
 
-1. Nel report appena creato, fai clic su **Configurazione**, quindi trascina **Colonne personalizzate** nell&#39;area di lavoro.
+1. Nel report appena creato, fare clic su **[!UICONTROL Setup]**, quindi trascinare **[!UICONTROL Custom Columns]** nell&#39;area di lavoro.
 
    ![](assets/fifteen.png)
 
@@ -97,11 +97,11 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
    >
    >Per impostazione predefinita, il rapporto Prestazioni persone esamina gli ultimi 7 giorni. Per modificare l’intervallo temporale, fai doppio clic su di esso.
 
-1. Trova e seleziona gli elenchi avanzati creati in precedenza e fai clic su **Applica**.
+1. Trovare e selezionare gli elenchi avanzati creati in precedenza e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/sixteen.png)
 
-1. Fai clic su **Report** per eseguire il report e visualizzare i dati.
+1. Fare clic su **[!UICONTROL Report]** per eseguire il report e visualizzare i dati.
 
    ![](assets/seventeen.png)
 

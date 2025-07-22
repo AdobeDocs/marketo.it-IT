@@ -4,9 +4,9 @@ description: Approvare un’e-mail - Documenti Marketo - Documentazione del prod
 title: Approvare un’e-mail
 exl-id: dec8ce3e-e11c-4edc-8c81-82a95fc8ed13
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '92'
 ht-degree: 0%
 
 ---
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Le e-mail iniziano in stato di bozza. In genere non sono disponibili nel sistema fino a quando non vengono approvati. Esistono alcuni modi per approvare un’e-mail.
 
-## Approva tramite il menu Azioni e-mail {#approve-it-using-the-email-actions-menu}
+## Approva tramite il menu [!UICONTROL Email Actions] {#approve-it-using-the-email-actions-menu}
 
-1. Trova e seleziona l&#39;e-mail, fai clic sul menu a discesa **Azioni e-mail** e seleziona **Approva**.
+1. Trovare e selezionare l&#39;e-mail, fare clic sul menu a discesa **[!UICONTROL Email Actions]** e selezionare **[!UICONTROL Approve]**.
 
    ![](assets/one.png)
 
 ## Approva direttamente nella struttura {#approve-it-directly-in-the-tree}
 
-1. Individua e seleziona l&#39;e-mail, fai clic con il pulsante destro del mouse su di essa e seleziona **Approva**.
+1. Trovare e selezionare l&#39;e-mail, fare clic con il pulsante destro del mouse su di essa e selezionare **[!UICONTROL Approve]**.
 
    ![](assets/approveemail.png)
 
 ## Approvare l’e-mail nell’editor e-mail {#approve-your-email-in-the-email-editor}
 
-1. Nell&#39;e-mail, fai clic sul menu a discesa **Azioni e-mail** e seleziona **Approva e chiudi**.
+1. Nell&#39;e-mail, fai clic sul menu a discesa **[!UICONTROL Email Actions]** e seleziona **[!UICONTROL Approve and Close]**.
 
    ![](assets/three.png)
 

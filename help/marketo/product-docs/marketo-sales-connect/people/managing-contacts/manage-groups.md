@@ -4,24 +4,24 @@ description: Gestire i gruppi - Documentazione di Marketo - Documentazione del p
 title: Gestisci gruppi
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '253'
 ht-degree: 0%
 
 ---
 
 # Gestisci gruppi {#manage-groups}
 
-Scopri come gestire i gruppi in Sales Connect.
+Scopri come gestire i gruppi in [!DNL Sales Connect].
 
 ## Creare un gruppo {#create-a-group}
 
-1. Nella pagina Persone, fai clic su **+** accanto a Gruppi.
+1. Nella pagina [!UICONTROL People], fai clic su **+** accanto a [!UICONTROL Groups].
 
    ![](assets/one-4.png)
 
-1. Assegna un nome al gruppo e fai clic su **Crea**.
+1. Assegna un nome al gruppo e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/two-3.png)
 
@@ -29,11 +29,11 @@ Scopri come gestire i gruppi in Sales Connect.
 
 ## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
 
    ![](assets/three-3.png)
 
-1. Fai clic su **Azioni gruppo** e seleziona **Crea contatto**.
+1. Fare clic su **[!UICONTROL Group Actions]** e selezionare **[!UICONTROL Create Contact]**.
 
    ![](assets/four-3.png)
 
@@ -41,7 +41,7 @@ Scopri come gestire i gruppi in Sales Connect.
    >
    >Verrà aggiunto un contatto alla volta. Per aggiungere più contatti contemporaneamente, segui [questi passaggi](/help/marketo/product-docs/marketo-sales-connect/people/managing-contacts/import-contacts-via-csv.md).
 
-1. Compila le informazioni del contatto e fai clic su **Crea** (o **Crea e aggiungi nuovo** per aggiungerne un altro).
+1. Compila le informazioni del contatto e fai clic su **[!UICONTROL Create]** (o **[!UICONTROL Create and Add New]** per aggiungerne un altro).
 
    ![](assets/five-3.png)
 
@@ -53,11 +53,11 @@ Scopri come gestire i gruppi in Sales Connect.
 
 ## Condividere un gruppo {#share-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo che si desidera condividere.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera condividere.
 
    ![](assets/six.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Condividi**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Share]**.
 
    ![](assets/seven.png)
 
@@ -65,19 +65,19 @@ Scopri come gestire i gruppi in Sales Connect.
 
    ![](assets/eight.png)
 
-1. Fai clic su **Condividi**.
+1. Fai clic su **[!UICONTROL Share]**.
 
    ![](assets/nine.png)
 
-   Il gruppo è ancora di tua proprietà, ma ora verrà visualizzato in Gruppi di team.
+   Il gruppo è ancora di tua proprietà, ma verrà visualizzato in [!UICONTROL Team Groups].
 
 ## Annullare la condivisione di un gruppo {#unshare-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo che si desidera annullare la condivisione.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera annullare la condivisione.
 
    ![](assets/ten.png)
 
-1. Fai clic sul punto (tre punti verticali) e seleziona **Condividi**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Share]**.
 
    ![](assets/eleven.png)
 
@@ -89,11 +89,11 @@ Scopri come gestire i gruppi in Sales Connect.
 
 ## Rinominare un gruppo {#rename-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo da rinominare.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera rinominare.
 
    ![](assets/six.png)
 
-1. Fare clic sul punto (tre punti verticali) e selezionare **Rinomina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Rename]**.
 
    ![](assets/thirteen.png)
 
@@ -103,14 +103,14 @@ Scopri come gestire i gruppi in Sales Connect.
 
 ## Eliminare un gruppo {#delete-a-group}
 
-1. Nella pagina Persone individuare e selezionare il gruppo che si desidera eliminare.
+1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera eliminare.
 
    ![](assets/fifteen.png)
 
-1. Fare clic sul punto (tre punti verticali) e selezionare **Elimina**.
+1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Delete]**.
 
    ![](assets/sixteen.png)
 
-1. Fai clic su **Elimina** per confermare.
+1. Fai clic su **[!UICONTROL Delete]** per confermare.
 
    ![](assets/seventeen.png)

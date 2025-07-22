@@ -1,27 +1,27 @@
 ---
 unique-page-id: 11381917
-description: Gestione degli account di Target - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione account di destinazione
+description: '[!UICONTROL Target Account Management] - Documentazione di Marketo - Documentazione del prodotto'
+title: '[!UICONTROL Target Account Management]'
 exl-id: ff0c37ac-7206-4346-bfb8-15c734b2a272
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Gestione account di destinazione {#target-account-management-overview}
+# [!UICONTROL Target Account Management] {#target-account-management-overview}
 
-Addetto marketing, incontra la direzione dell’account Target. Gestione account di Target, incontra l’addetto marketing.
+Addetto marketing, incontra [!UICONTROL Target Account Management]. [!UICONTROL Target Account Management], incontra l&#39;addetto marketing.
 
 ![](assets/photo-collage.png)
 
-Che cos&#39;è la gestione degli account di Marketo Target?
+Cos&#39;è Marketo [!UICONTROL Target Account Management]?
 
-Marketo Target Account Management riunisce i team di vendita e marketing per eseguire il targeting e coinvolgere i principali account in modo altamente coordinato, colmando il divario tra strategia, esecuzione e successo incentrata sull’account - il tutto all’interno di un’unica piattaforma.
+Marketo [!UICONTROL Target Account Management] riunisce i team di vendita e marketing per eseguire il targeting e coinvolgere gli account chiave in modo altamente coordinato, colmando il divario tra strategia, esecuzione e successo incentrati sull&#39;account, il tutto all&#39;interno di un&#39;unica piattaforma.
 
-Perché utilizzare Gestione account di Marketo Target?
+Perché utilizzare Marketo [!UICONTROL Target Account Management]?
 
 Marketo unisce la gestione dei lead e dei TAM in un’unica soluzione, semplificando agli addetti al marketing l’esecuzione di campagne personalizzate per account e lead in un’unica mozione. Puoi anche trarre vantaggio dal raggiungere i decision maker chiave e gli influencer dell&#39;offerta.
 

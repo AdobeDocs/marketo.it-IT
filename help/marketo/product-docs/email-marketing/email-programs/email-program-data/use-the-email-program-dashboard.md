@@ -4,9 +4,9 @@ description: Utilizzare la dashboard del programma e-mail - Documentazione di Ma
 title: Utilizzare il dashboard Programma e-mail
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: b2ceefb068005d916027fb71be0dc4e25849ae23
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '393'
 ht-degree: 0%
 
 ---
@@ -69,9 +69,9 @@ Per il resto dei dati verranno visualizzati i comandi Opens (Aperture), Clicks (
 >
 >**Definizione**
 >
->**Le aperture** vengono conteggiate quando il destinatario dell&#39;e-mail scarica le immagini dell&#39;e-mail, che includono un pixel di tracciamento inserito in Marketo. Se il destinatario visualizza l’e-mail ma sceglie di non scaricare le immagini, non verrà conteggiato come un messaggio aperto. Se le immagini vengono caricate nel riquadro di anteprima del destinatario, in genere vengono conteggiate come aperte, ma variano in base al client e-mail.
+>**[!UICONTROL Opens]** vengono conteggiati quando il destinatario dell&#39;e-mail scarica le immagini dell&#39;e-mail, che include un pixel di tracciamento inserito in Marketo. Se il destinatario visualizza l’e-mail ma sceglie di non scaricare le immagini, non verrà conteggiato come un messaggio aperto. Se le immagini vengono caricate nel riquadro di anteprima del destinatario, in genere vengono conteggiate come aperte, ma variano in base al client e-mail.
 >
->**Fare clic per aprire** misura la percentuale di messaggi di posta elettronica aperti e su cui è stato fatto clic su un collegamento nell&#39;e-mail. Il numero di clic univoci viene diviso per il numero di aperture univoche, quindi moltiplicato per 100 per visualizzarlo come percentuale.
+>**[!UICONTROL Click to Open]** misura la percentuale di messaggi di posta elettronica aperti e su cui è stato fatto clic su un collegamento nell&#39;e-mail. Il numero di clic univoci viene diviso per il numero di aperture univoche, quindi moltiplicato per 100 per visualizzarlo come percentuale.
 
 ## Aggiorna Cruscotto {#refresh-dashboard}
 

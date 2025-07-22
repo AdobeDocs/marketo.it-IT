@@ -4,9 +4,9 @@ description: Pianificazione del messaggio in-app - Documentazione di Marketo - D
 title: Pianificazione del messaggio in-app
 exl-id: 2ff785b4-a0c9-4c04-869b-86fba7b997d7
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Invia subito il messaggio o pianificalo per dopo.
 
-1. Per pianificare un messaggio in-app, seleziona **Imposta data futura** e scegli una data di inizio dal calendario a discesa.
+1. Per pianificare un messaggio in-app, seleziona **[!UICONTROL Set future date]** e scegli una data di inizio dal calendario a discesa.
 
    ![](assets/schedule-your-in-app-message-1.png)
 
@@ -27,7 +27,7 @@ Invia subito il messaggio o pianificalo per dopo.
 
    ![](assets/schedule-your-in-app-message-3.png)
 
-1. In alternativa, per eseguire il programma in questo momento, selezionare **Esegui immediatamente**. I campi Data inizio scompaiono.
+1. In alternativa, per eseguire il programma in questo momento, selezionare **[!UICONTROL Run Immediately]**. I campi Data inizio scompaiono.
 
    ![](assets/schedule-your-in-app-message-4.png)
 

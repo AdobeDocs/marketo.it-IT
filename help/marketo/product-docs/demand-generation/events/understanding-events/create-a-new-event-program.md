@@ -4,9 +4,9 @@ description: Creazione di un nuovo programma per eventi - Documentazione di Mark
 title: Creare un nuovo programma evento
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '165'
 ht-degree: 0%
 
 ---
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Eventi consente di automatizzare gli eventi online e offline. Acquisisci lo stato delle tue persone mentre avanzano attraverso diverse fasi e ottieni misurazioni accurate del ROI per le tue iniziative di marketing.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 
-1. Selezionare la cartella per il nuovo programma. Seleziona **Nuovo** e fai clic su **Nuovo programma**.
+1. Selezionare la cartella per il nuovo programma. Selezionare **[!UICONTROL New]** e fare clic su **[!UICONTROL New Program]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 
-1. Scegli un nome per l’evento. In **Tipo di programma**, seleziona **Evento**.
+1. Scegli un nome per l’evento. Quindi, in **[!UICONTROL Program Type]**, selezionare **[!UICONTROL Event]**.
 
    ![](assets/image2015-2-26-14-3a26-3a6.png)
 
-1. Seleziona un **canale**.
+1. Seleziona **[!UICONTROL Channel]**.
 
    >[!NOTE]
    >
@@ -35,7 +35,7 @@ Eventi consente di automatizzare gli eventi online e offline. Acquisisci lo stat
 
    ![](assets/image2015-2-26-14-3a29-3a3.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
@@ -43,11 +43,11 @@ Eventi consente di automatizzare gli eventi online e offline. Acquisisci lo stat
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 
-1. Per pianificare l&#39;evento, selezionare **Visualizzazione pianificazione** e fare clic su di essa nel calendario per aprire il popup. Inserire date e ore.
+1. Per pianificare l&#39;evento, selezionare **[!UICONTROL Schedule View]** e fare clic su di esso nel calendario per aprire il popup. Inserire date e ore.
 
    ![](assets/image2016-3-25-14-3a17-3a33.png)
 
-1. Fai scorrere la barra fino a **Confermato** al termine.
+1. Fare scorrere la barra fino a **[!UICONTROL Confirmed]** al termine dell&#39;operazione.
 
    ![](assets/image2016-3-25-14-3a18-3a13.png)
 

@@ -4,9 +4,9 @@ description: Utilizzo delle guide per la progettazione di pagine di destinazione
 title: Utilizzare le guide per la progettazione di pagine di destinazione in formato libero
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,13 @@ Durante la progettazione di una pagina di destinazione in formato libero, è pos
 
 >[!NOTE]
 >
->Le guide sono disponibili solo nell&#39;editor di pagine di destinazione **formato libero**.
+>Le guide sono disponibili solo nell&#39;editor pagina di destinazione **[!UICONTROL Free-form]**.
 
-1. Seleziona una **pagina di destinazione** e fai clic su **Modifica bozza**.
+1. Selezionare **[!UICONTROL Landing Page]** e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-5-20-14-3a10-3a9.png)
 
-1. Fai clic su **Azioni pagina di destinazione** e seleziona **Mostra guide**.
+1. Fare clic su **[!UICONTROL Landing Page Actions]** e selezionare **[!UICONTROL Show Guides]**.
 
    ![](assets/image2015-5-20-14-3a12-3a15.png)
 

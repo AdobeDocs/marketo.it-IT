@@ -4,9 +4,9 @@ description: Aggiungere uno snippet a un messaggio e-mail - Documentazione di Ma
 title: Aggiungere uno snippet a un messaggio e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---
@@ -23,15 +23,15 @@ I snippet sono blocchi di testo RTF e di grafica riutilizzabili che è possibile
 >
 >Impossibile incorporare [sintassi e-mail di Marketo](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)nei frammenti. **non** funzionerà in un messaggio e-mail. I frammenti devono essere solo contenuto del corpo (HTML + TESTO).
 
-1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/one-2.png)
 
-1. Selezionare l&#39;area modificabile da convertire in uno snippet, fare clic sull&#39;icona a forma di ingranaggio e selezionare **Sostituisci con snippet**.
+1. Selezionare l&#39;area modificabile da convertire in uno snippet, fare clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Replace with Snippet]**.
 
    ![](assets/two-2.png)
 
-1. Seleziona lo snippet desiderato e fai clic su **Salva**.
+1. Selezionare il frammento desiderato e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/three-1.png)
 

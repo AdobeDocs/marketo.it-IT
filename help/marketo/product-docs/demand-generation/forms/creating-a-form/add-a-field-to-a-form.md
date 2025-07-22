@@ -4,9 +4,9 @@ description: Aggiungere un campo a un modulo - Documentazione di Marketo - Docum
 title: Aggiungere un campo a un modulo
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) e [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md), è possibile aggiungere altri campi da compilare. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
@@ -29,17 +29,17 @@ Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/
 
    >[!NOTE]
    >
-   >Quando si crea un nuovo modulo, vengono aggiunti automaticamente nome, cognome e indirizzo e-mail.
+   >Quando si crea un nuovo modulo, [!UICONTROL First Name], [!UICONTROL Last Name] e [!UICONTROL Email Address] vengono aggiunti automaticamente.
 
 1. Individuare e selezionare il campo che si desidera aggiungere al modulo.
 
    ![](assets/image2014-9-15-17-3a18-3a26.png)
 
-1. Aggiungi tutti i campi necessari e fai clic su **Fine**.
+1. Aggiungere tutti i campi necessari e fare clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-17-3a18-3a35.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Ora fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a18-3a43.png)
 

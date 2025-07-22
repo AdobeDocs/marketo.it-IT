@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360020
-description: Esportare un rapporto in Excel - Documentazione di Marketo - Documentazione del prodotto
-title: Esportare un rapporto in Excel
+description: Esportare un report in  [!DNL Excel] - Documentazione Marketo - Documentazione del prodotto
+title: Esporta un report in [!DNL Excel]
 exl-id: 249b5b57-6c62-46a6-bbe2-d8e0c647be29
 feature: Reporting
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
 
-# Esportare un rapporto in Excel {#export-a-report-to-excel}
+# Esporta un report in [!DNL Excel] {#export-a-report-to-excel}
 
-È possibile esportare qualsiasi rapporto in un file Excel per lavorare con i dati in un altro software.
+È possibile esportare qualsiasi report in un file [!DNL Excel] per utilizzare i dati in altro software.
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-16-13-3a11-3a14.png)
 
-1. Seleziona il tuo report dalla struttura di navigazione e fai clic sulla scheda **Report**.
+1. Selezionare il report dalla struttura di navigazione e fare clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/image2014-9-16-13-3a11-3a18.png)
 
-1. Fai clic sul pulsante **Esporta**.
+1. Fare clic sul pulsante **[!UICONTROL Export]**.
 
    ![](assets/image2014-9-16-13-3a11-3a21.png)
 
-   Tutto qui! Il browser richiede di salvare il file Excel nel sistema.
+   Tutto qui! Il browser richiede di salvare il file [!DNL Excel] nel sistema.
 
    >[!MORELIKETHIS]
    >

@@ -4,10 +4,10 @@ description: Rapporto sulle prestazioni dei collegamenti e-mail - Documenti Mark
 title: Rapporto prestazioni collegamento e-mail
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 3%
+source-wordcount: '217'
+ht-degree: 1%
 
 ---
 
@@ -15,23 +15,23 @@ ht-degree: 3%
 
 Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare le prestazioni dei collegamenti nelle e-mail.
 
-1. [Crea un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona **Prestazioni collegamento e-mail** come tipo di report.
+1. [Creare un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e selezionare **[!UICONTROL Email Link Performance]** come tipo di report.
 
    ![](assets/image2017-3-29-9-3a10-3a41.png)
 
-1. Fare clic su **Configurazione**.
+1. Fai clic su **[!UICONTROL Setup]**.
 
    ![](assets/image2015-5-20-11-3a18-3a0.png)
 
-1. Fai doppio clic su **Data attività** in **Impostazioni**.
+1. Fare doppio clic su **[!UICONTROL Date of Activity]** in **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-20-11-3a18-3a59.png)
 
-1. Imposta un intervallo di tempo appropriato per il rapporto. Fai clic su **Salva**.
+1. Imposta un intervallo di tempo appropriato per il rapporto. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-5-20-11-3a20-3a52.png)
 
-1. Fai clic su **Report**.
+1. Fai clic su **[!UICONTROL Report]**.
 
    ![](assets/image2015-5-20-11-3a22-3a24.png)
 
@@ -44,29 +44,29 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare le pre
 <table> 
  <thead> 
   <tr> 
-   <th colspan="1" rowspan="1">Colonna</th> 
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
    <th colspan="1" rowspan="1">Descrizione</th> 
   </tr> 
  </thead> 
  <tbody> 
   <tr> 
-   <td colspan="1" rowspan="1">Collegamento</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
    <td colspan="1" rowspan="1">Raggruppato per nome e-mail.<br>Fare clic sul segno più (+) per visualizzare tutti i collegamenti inclusi nell'e-mail.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Clic</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">Il numero di volte in cui è stato fatto clic sul collegamento.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% clic</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
    <td colspan="1" rowspan="1">Percentuale del totale dei clic su tutti i collegamenti nell’e-mail in questione sul collegamento.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">Persone</td> 
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">Il numero di persone univoche che hanno fatto clic sul collegamento.</td> 
   </tr> 
   <tr> 
-   <td colspan="1" rowspan="1">% persone</td> 
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
    <td colspan="1" rowspan="1">Percentuale del totale di persone univoche che hanno fatto clic sui collegamenti in quell’e-mail su questo collegamento.</td> 
   </tr> 
  </tbody> 
@@ -74,7 +74,7 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare le pre
 
 >[!NOTE]
 >
->Questo report mostra il &quot;collegamento non valido&quot; quando si aggiungono collegamenti non validi o vuoti a un’e-mail. Se viene visualizzato questo messaggio, [verifica la presenza di collegamenti o token vuoti nell&#39;origine HTML](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) nell&#39;editor e-mail che non popolano un collegamento completo.
+>Questo report mostra il &quot;collegamento non valido&quot; quando si aggiungono collegamenti non validi o vuoti a un’e-mail. Se viene visualizzato questo messaggio, [controlla l&#39;origine di HTML](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.md) nell&#39;editor e-mail per trovare collegamenti o token vuoti che non popolino un collegamento completo.
 
 >[!TIP]
 >

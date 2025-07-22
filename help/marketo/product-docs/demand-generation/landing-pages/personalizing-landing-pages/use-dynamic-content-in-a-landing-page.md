@@ -4,9 +4,9 @@ description: Utilizzare il contenuto dinamico in una pagina di destinazione - Do
 title: Utilizzare il contenuto dinamico in una pagina di destinazione
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -23,43 +23,43 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le per
 
 ## Aggiungi segmentazione {#add-segmentation}
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-   Fai clic sulla pagina di destinazione e quindi su Modifica bozza.
+   Fai clic su **[!UICONTROL Landing Page]** e quindi su **[!UICONTROL Edit Draft]**.
 
    ![](assets/landingpageeditdraft.jpg)
 
-   Fai clic su Segmenta per.
+   Fai clic su **[!UICONTROL Segment By]**.
 
    ![](assets/image2015-5-21-12-3a31-3a20.png)
 
-   Inserisci il nome della segmentazione e fai clic su Salva.
+   Immettere il nome **[!UICONTROL Segmentation]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-16-14-3a50-3a5.png)
 
-   La segmentazione e i relativi segmenti vengono visualizzati in Dinamico a destra.
+   La segmentazione e i relativi segmenti vengono visualizzati in **[!UICONTROL Dynamic]** a destra.
 
    ![](assets/image2015-5-21-12-3a36-3a40.png)
 
    >[!NOTE]
    >
-   >Tutti gli elementi della pagina di destinazione sono statici per impostazione predefinita.
+   >Tutti gli elementi della pagina di destinazione sono **[!UICONTROL Static]** per impostazione predefinita.
 
 ## Rendi elemento dinamico {#make-element-dynamic}
 
-1. Trascina gli elementi da Static a **Dynamic**.
+1. Trascinare gli elementi da **[!UICONTROL Static]** a **[!UICONTROL Dynamic]**.
 
    ![](assets/image2014-9-16-14-3a50-3a27.png)
 
-1. È inoltre possibile rendere gli elementi statici o dinamici dall&#39;elemento **Impostazioni**.
+1. È inoltre possibile creare elementi [!UICONTROL Static] o [!UICONTROL Dynamic] dall&#39;elemento **[!UICONTROL Settings]**.
 
    ![](assets/image2015-5-21-12-3a39-3a41.png)
 
 ## Applicare contenuti dinamici {#apply-dynamic-content}
 
-1. Selezionare un elemento in un segmento, quindi fare clic su **Modifica**. Ripeti per ogni segmento.
+1. Selezionare un elemento sotto un segmento, quindi fare clic su **[!UICONTROL Edit]**. Ripeti per ogni segmento.
 
    ![](assets/image2015-5-21-12-3a42-3a11.png)
 

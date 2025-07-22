@@ -4,41 +4,41 @@ description: Pagina Sales Insight per gli amministratori di Marketo - Documenti 
 title: Pagina Sales Insight per gli amministratori di Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
 
-# Pagina Sales Insight per gli amministratori di Marketo {#sales-insight-page-for-marketo-admins}
+# [!DNL Sales Insight] pagina per amministratori di Marketo {#sales-insight-page-for-marketo-admins}
 
-Gli amministratori di Marketo dispongono di determinati privilegi in Sales Insight. Scopri di più.
+Gli amministratori di Marketo dispongono di alcuni privilegi in [!DNL Sales Insight]. Scopri di più.
 
 ## Configurazione API Soap {#soap-api-configuration}
 
-Queste credenziali vengono utilizzate per collegare l’account Salesforce all’istanza Marketo e utilizzare quindi MSI in Salesforce.
+Queste credenziali vengono utilizzate per connettere l&#39;account [!DNL Salesforce] all&#39;istanza Marketo per utilizzare MSI in [!DNL Salesforce].
 
 ![](assets/one-1.png)
 
 ## Configurazione API REST {#rest-api-configuration}
 
-Queste credenziali vengono utilizzate per collegare l’account Salesforce all’istanza di Marketo e utilizzare la dashboard di approfondimenti MSI in Salesforce.
+Queste credenziali vengono utilizzate per connettere l&#39;account [!DNL Salesforce] all&#39;istanza di Marketo per utilizzare il dashboard di approfondimenti MSI in [!DNL Salesforce].
 
 ![](assets/two-1.png)
 
 ## Impostazioni punteggio persona {#person-score-settings}
 
-* **Stelle**: le stelle rappresentano il punteggio lead totale rispetto ad altri lead.
-* **Fiamme**: le fiamme rappresentano l&#39;urgenza - quanto è cambiato di recente il punteggio di un lead.
+* **[!UICONTROL Stars]**: le stelle rappresentano il punteggio totale del lead rispetto ad altri lead.
+* **[!UICONTROL Flames]**: le fiamme rappresentano l&#39;urgenza - quanto il punteggio di un lead è cambiato di recente.
 
-Per impostazione predefinita, Marketo Sales Insight utilizza il campo Punteggio lead per calcolare le stelle e le fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
+Per impostazione predefinita, [!DNL Marketo Sales Insight] utilizza il campo Punteggio lead per calcolare le stelle e le fiamme. Ma se vuoi scegliere un campo diverso, ecco come:
 
-1. Nell&#39;area **Admin** di Marketo, fare clic su **Sales Insight**.
+1. Nell&#39;area **[!UICONTROL Admin]** di Marketo, fare clic su **[!UICONTROL Sales Insight]**.
 
    ![](assets/four.png)
 
-1. In Impostazioni punteggio lead fare clic su **Modifica**.
+1. In [!UICONTROL Lead Scoring Settings], fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/five.png)
 
@@ -50,7 +50,7 @@ Per impostazione predefinita, Marketo Sales Insight utilizza il campo Punteggio 
 
    ![](assets/seven.png)
 
-1. Fai clic su **Salva**. Il ricalcolo degli approfondimenti sulle vendite richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
+1. Fare clic su **[!UICONTROL Save]**. Il ricalcolo di Sales insight richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
 
    ![](assets/eight.png)
 
@@ -68,20 +68,20 @@ Per impostazione predefinita, Marketo Sales Insight utilizza il campo Punteggio 
 
 **Impostazioni annullamento sottoscrizione:**
 
-Puoi scegliere una delle seguenti impostazioni per annullare l’iscrizione a Nessun modello, e-mail standard e e e-mail operative
+Puoi scegliere una delle seguenti impostazioni per annullare l&#39;iscrizione a [!UICONTROL No Template], [!UICONTROL Standard Emails] e [!UICONTROL Operational emails]
 
-* Rispetta impostazione annullamento iscrizione
-* Rispetta le impostazioni per l’annullamento dell’iscrizione quando più di un destinatario
-* Rispetta le impostazioni per l’annullamento dell’iscrizione quando più di 5 destinatari
-* Ignora impostazioni annullamento iscrizione
+* [!UICONTROL Respect Unsubscribe Setting]
+* [!UICONTROL Respect Unsubscribe Settings when more than 1 recipient]
+* [!UICONTROL Respect Unsubscribe Settings when more than 5 recipients]
+* [!UICONTROL Ignore Unsubscribe Settings]
 
 **Possibilità di bloccare i modelli:**
 
-Se questa opzione è abilitata, gli utenti MSI non potranno modificare i modelli durante l’invio di e-mail da Salesforce
+Se abilitata, gli utenti MSI non potranno modificare i modelli durante l&#39;invio di e-mail da [!DNL Salesforce]
 
 **Abilita feed RSS:**
 
-Quando questa opzione è abilitata, gli utenti MSI possono visualizzare il proprio feed lead in un feed RSS (oltre al feed lead in Salesforce). Il feed RSS può funzionare solo se la funzione &quot;Scadenza token&quot; è disabilitata.
+Se abilitata, gli utenti MSI possono visualizzare il proprio feed lead in un feed RSS (oltre al feed lead in [!DNL Salesforce]). Il feed RSS può funzionare solo se la funzionalità &quot;[!UICONTROL Token Expiration]&quot; è disabilitata.
 
 **Scadenza token:**
 

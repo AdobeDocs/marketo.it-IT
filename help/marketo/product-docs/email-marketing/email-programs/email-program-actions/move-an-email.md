@@ -4,10 +4,10 @@ description: Spostare un’e-mail - Documentazione di Marketo - Documentazione d
 title: Spostare un’e-mail
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Spostare un messaggio e-mail da un programma a un altro? Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-an-email-1.png)
 
-1. Individua l&#39;e-mail che desideri spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **Sposta**.
+1. Individuare l&#39;e-mail che si desidera spostare, fare clic con il pulsante destro del mouse su di essa e selezionare **[!UICONTROL Move]**.
 
    ![](assets/move-an-email-2.png)
 
-1. Selezionare **Destinazione**, **Programma** e **Cartella** facoltativi. Seleziona **Sposta**.
+1. Selezionare **[!UICONTROL Destination]**, **[!UICONTROL Program]** e **[!UICONTROL Folder]** facoltativi. Seleziona **[!UICONTROL Move]**.
 
    ![](assets/move-an-email-3.png)
 
    >[!NOTE]
    >
-   >In questo esempio si sta spostando un messaggio e-mail in un altro programma, ma è anche possibile spostare un messaggio e-mail in una cartella in Design Studio.
+   >In questo esempio si sta spostando un messaggio e-mail in un altro programma, ma è anche possibile spostare un messaggio e-mail in una cartella in [!UICONTROL Design Studio].
 
    Ora vedrai che l’e-mail risiede nell’altro programma.
 

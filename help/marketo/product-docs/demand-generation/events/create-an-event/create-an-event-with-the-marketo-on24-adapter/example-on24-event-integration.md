@@ -4,9 +4,9 @@ description: Esempio di integrazione di eventi ON24 - Documentazione di Marketo 
 title: Esempio di integrazione di eventi ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -17,27 +17,27 @@ Ecco un evento di esempio, comprese le campagne, per un webinar su ON24. Quando 
 
 ## Creare un nuovo evento nelle attività di marketing {#create-a-new-event-in-marketing-activities}
 
-1. Selezionare **Nuovo** > **Nuovo programma**.
+1. Selezionare **[!UICONTROL New]** > **[!UICONTROL New Program]**.
 
    ![](assets/image2015-12-22-15-3a35-3a15.png)
 
-1. Seleziona una **cartella della campagna** in cui si terrà l&#39;evento.
+1. Seleziona un **[!UICONTROL Campaign Folder]** in cui vivrà l&#39;evento.
 
    ![](assets/image2015-12-22-15-3a39-3a51.png)
 
-1. Immetti un **Nome** per l&#39;evento.
+1. Immetti **[!UICONTROL Name]** per l&#39;evento.
 
    ![](assets/image2015-12-22-15-3a43-3a4.png)
 
-1. Seleziona **Evento** come **Tipo di programma**.
+1. Seleziona **[!UICONTROL Event]** come **[!UICONTROL Program Type]**.
 
    ![](assets/image2015-12-22-15-3a44-3a41.png)
 
-1. Seleziona **Webinar** come **Canale** per l&#39;evento.
+1. Selezionare **[!UICONTROL Webinar]** come **[!UICONTROL Channel]** per l&#39;evento.
 
    ![](assets/image2015-12-22-15-3a46-3a34.png)
 
-1. Fai clic su **Crea**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2015-12-22-15-3a48-3a20.png)
 
@@ -55,11 +55,11 @@ Ecco un evento di esempio, comprese le campagne, per un webinar su ON24. Quando 
 
 * **Elenco avanzato**
 
-   * Attiva la campagna in base a **Compila modulo**. Accertati di includere la pagina di destinazione in cui si trova il modulo utilizzando **Aggiungi vincolo**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
+   * Attiva la campagna in base a **[!UICONTROL Fills Out Form]**. Assicurarsi di includere la pagina di destinazione in cui si trova il modulo utilizzando **[!UICONTROL Add Constraint]**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
 
 >[!CAUTION]
 >
->È necessario utilizzare un modulo Marketo per registrare le persone per l’evento oppure un modulo non Marketo con l’integrazione API appropriata per inviare i dati di registrazione a Marketo. Ciò è fondamentale per il successo dell’integrazione con Event Partner. **NOTA**: se utilizzi un modulo Marketo in una pagina di destinazione non Marketo, il trigger sarà **Compila modulo** con il nome del modulo.
+>È necessario utilizzare un modulo Marketo per registrare le persone per l’evento oppure un modulo non Marketo con l’integrazione API appropriata per inviare i dati di registrazione a Marketo. Questo è fondamentale per il successo dell&#39;integrazione di [!UICONTROL Event Partner]. **NOTA**: se si utilizza un modulo Marketo in una pagina di destinazione non Marketo, il trigger sarà **[!UICONTROL Fills Out Form]** con [!UICONTROL Form Name].
 
 ![](assets/image2015-12-22-15-3a50-3a22.png)
 

@@ -4,9 +4,9 @@ description: Riprogrammazione di un intero programma dalla vista Pianificazione 
 title: Riprogrammazione di un intero programma dalla vista Pianificazione
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -19,19 +19,19 @@ Quando si clona un programma o un evento con date, è probabile che si desideri 
 
    ![](assets/image2014-9-23-15-3a15-3a18.png)
 
-1. Seleziona il menu a discesa Azione evento. Scegliere **[!UICONTROL Riprogramma voci]**.
+1. Seleziona il menu a discesa Azione evento. Scegli **[!UICONTROL Reschedule Entries]**.
 
    ![](assets/image2014-9-23-15-3a15-3a53.png)
 
-1. Selezionate una voce di ancoraggio. In base a questo spostamento, tutte le altre voci si sposteranno insieme a esso.
+1. Selezionare un [!UICONTROL Anchor Entry]. In base a questo spostamento, tutte le altre voci si sposteranno insieme a esso.
 
    ![](assets/image2014-9-23-15-3a18-3a23.png)
 
-1. Scegli la nuova data di inizio.
+1. Scegli la data [!UICONTROL New Start].
 
    ![](assets/image2014-9-23-15-3a18-3a37.png)
 
-1. Fare clic su **[!UICONTROL Riprogramma]**.
+1. Fai clic su **[!UICONTROL Reschedule]**.
 
    ![](assets/image2014-9-23-15-3a18-3a54.png)
 

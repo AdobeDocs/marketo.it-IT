@@ -4,9 +4,9 @@ description: Inviare e-mail dal proprietario del lead - Documentazione Marketo -
 title: Invia e-mail dal proprietario del lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Cosa succede se desideri inviare un’e-mail a un lead per conto del proprietario del lead?  Ecco come.
 
-1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **Modifica bozza**.
+1. Trova il tuo indirizzo e-mail, selezionalo e fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/one.png)
 
-1. Fai clic nel campo **Da** (elimina eventuali nomi esistenti) e fai clic sul pulsante **Inserisci token**.
+1. Fai clic nel campo **[!UICONTROL From]** (elimina eventuali nomi esistenti), quindi fai clic sul pulsante **Inserisci token**.
 
    ![](assets/two.png)
 
@@ -27,7 +27,7 @@ Cosa succede se desideri inviare un’e-mail a un lead per conto del proprietari
 
    ![](assets/image2014-9-11-13-3a7-3a43.png)
 
-1. Immettere un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario lead e fare clic su **Inserisci**.
+1. Immettere un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario lead e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-11-13-3a7-3a58.png)
 
@@ -39,7 +39,7 @@ Cosa succede se desideri inviare un’e-mail a un lead per conto del proprietari
 
    ![](assets/image2014-9-11-13-3a8-3a24.png)
 
-1. Immettere un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario lead e fare clic su **Inserisci**.
+1. Immettere un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario lead e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-11-13-3a8-3a39.png)
 
@@ -47,7 +47,7 @@ Cosa succede se desideri inviare un’e-mail a un lead per conto del proprietari
    >
    >Assicurati di aver aggiunto uno spazio tra i token di nome e cognome.
 
-1. Fai clic nel campo Da e-mail (elimina eventuali indirizzi e-mail esistenti), quindi fai clic sul pulsante Inserisci token.
+1. Fai clic nel campo **[!UICONTROL From Address]** (elimina eventuali indirizzi e-mail esistenti), quindi fai clic sul pulsante **Inserisci token**.
 
    ![](assets/eight.png)
 
@@ -55,10 +55,10 @@ Cosa succede se desideri inviare un’e-mail a un lead per conto del proprietari
 
    ![](assets/image2014-9-11-13-3a9-3a33.png)
 
-1. Immettere un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario lead e fare clic su **Inserisci**.
+1. Immettere un valore predefinito nel caso in cui il lead non disponga ancora di un proprietario lead e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/ten.png)
 
-1. Completati con i campi **Rispondi a** e **Oggetto**.
+1. Assicurati che i campi **[!UICONTROL Reply-to]** e **[!UICONTROL Subject]** siano compilati ed è tutto pronto.
 
    ![](assets/eleven.png)

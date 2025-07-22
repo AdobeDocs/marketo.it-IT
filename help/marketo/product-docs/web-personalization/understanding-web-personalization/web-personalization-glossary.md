@@ -4,16 +4,16 @@ description: Glossario di Web Personalization - Documentazione di Marketo - Docu
 title: Glossario di Web Personalization
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '260'
-ht-degree: 0%
+source-wordcount: '253'
+ht-degree: 1%
 
 ---
 
-# Glossario di Web Personalization {#web-personalization-glossary}
+# Glossario di [!DNL Web Personalization] {#web-personalization-glossary}
 
-Informazioni sul mondo e la lingua di Marketo Web Personalization.
+Informazioni sul mondo e sulla lingua di [!DNL Marketo Web Personalization].
 
 | Termine | Definizione |
 |---|---|
@@ -29,7 +29,7 @@ Informazioni sul mondo e la lingua di Marketo Web Personalization.
 
 ## Esempi di caratteri jolly {#wildcard-examples}
 
-In Web Personalization è possibile utilizzare un carattere jolly in tre modi.
+Di seguito sono riportati tre modi per utilizzare un carattere jolly in [!DNL Web Personalization].
 
 Abbina tutti i visitatori negli URL della pagina che terminano con il prezzo (ad esempio, `www.marketo.com/pricing`
 

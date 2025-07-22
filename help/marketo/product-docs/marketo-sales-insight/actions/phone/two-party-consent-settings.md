@@ -3,9 +3,9 @@ description: Impostazioni di consenso di due parti - Documentazione di Marketo -
 title: Impostazioni di consenso di due parti
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ Al fine di garantire la conformità con le leggi sul consenso di due parti degli
 >
 >Prima di eseguire la procedura seguente, devi prima [abilitare la registrazione delle chiamate](/help/marketo/product-docs/marketo-sales-insight/actions/phone/enable-call-recording.md).
 
-1. Fare clic sull&#39;icona Impostazioni e selezionare **Impostazioni**.
+1. Fare clic sull&#39;icona Impostazioni e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/two-party-consent-settings-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Generale**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL General]**.
 
    ![](assets/two-party-consent-settings-2.png)
 
-1. Nella scheda Registrazione chiamate fare clic su **Gestisci avviso di registrazione**.
+1. Nella scheda [!UICONTROL Call Recording], fai clic su **[!UICONTROL Manage recording notice]**.
 
    ![](assets/two-party-consent-settings-3.png)
 
-1. Fare clic su **Importa registrazione**.
+1. Fai clic su **[!UICONTROL Import Recording]**.
 
    ![](assets/two-party-consent-settings-4.png)
 
@@ -42,7 +42,7 @@ Al fine di garantire la conformità con le leggi sul consenso di due parti degli
 
    ![](assets/two-party-consent-settings-5.png)
 
-1. Una volta completato il caricamento, seleziona i tre punti nel file manager e fai clic su **Seleziona come avviso di consenso**. Al termine, fai clic su **OK**.
+1. Una volta completato il caricamento, selezionare il punto (tre punti) nel file manager e fare clic su **[!UICONTROL Select as Consent Notice]**. Al termine, fai clic su **[!UICONTROL OK]**.
 
    ![](assets/two-party-consent-settings-6.png)
 

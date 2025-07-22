@@ -3,32 +3,32 @@ description: Concedere l’accesso a Marketo agli utenti - Documentazione di Mar
 title: Concedere l’accesso a Marketo agli utenti
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
 # Concedere l’accesso a Marketo agli utenti {#grant-marketo-access-to-users}
 
-Segui i passaggi descritti in questo articolo per consentire agli utenti delle azioni di approfondimento sulle vendite di accedere alla connessione Marketo. In questo modo verranno sbloccate funzioni quali Momenti di interesse nel feed live e l’accesso alle campagne di marketing.
+Segui i passaggi descritti in questo articolo per concedere agli utenti [!DNL Sales Insight Actions] l&#39;accesso alla connessione Marketo. In questo modo verranno sbloccate funzioni quali Momenti di interesse nel feed live e l’accesso alle campagne di marketing.
 
-È necessario invitare gli utenti a [Azioni approfondimento vendite](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) prima che siano visibili nella pagina Marketo > Accesso team (in Azioni approfondimento vendite), in cui è consentito l&#39;accesso alla connessione Marketo.
+È necessario invitare gli utenti a [[!DNL Sales Insight Actions]](/help/marketo/product-docs/marketo-sales-insight/actions/admin/invite-users-and-admins.md#invite-users) prima che siano visibili nella pagina Marketo > [!UICONTROL Team Access] (in [!DNL Sales Insight Actions]), in cui è consentito l&#39;accesso alla connessione Marketo.
 
 >[!CAUTION]
 >
->Attendi dieci minuti dopo aver collegato Sales Insight Actions con Marketo prima di eseguire questi passaggi.
+>Attendi dieci minuti dopo aver connesso [!DNL Sales Insight Actions] a Marketo prima di eseguire questi passaggi.
 
-1. Fai clic sull&#39;icona a forma di ingranaggio e seleziona **Impostazioni**.
+1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/grant-marketo-access-to-users-1.png)
 
-1. In Impostazioni amministrazione fare clic su **Marketo**.
+1. In [!UICONTROL Admin Settings], fare clic su **Marketo**.
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Fare clic sulla scheda **Accesso utente**. Seleziona uno o più utenti, quindi fai clic su **Connetti**.
+1. Fare clic sulla scheda **[!UICONTROL User Access]**. Selezionare uno o più utenti, quindi fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 
@@ -44,8 +44,8 @@ Segui i passaggi descritti in questo articolo per consentire agli utenti delle a
 
    ![](assets/grant-marketo-access-to-users-5.png)
 
-1. Fai clic su **Connetti**.
+1. Fai clic su **[!UICONTROL Connect]**.
 
    ![](assets/grant-marketo-access-to-users-6.png)
 
-Puoi aggiungere altri utenti dalla pagina Gestione team e seguire i passaggi precedenti per connetterli.
+È possibile aggiungere altri utenti dalla pagina [!UICONTROL Team Management] e seguire i passaggi indicati sopra per connetterli.

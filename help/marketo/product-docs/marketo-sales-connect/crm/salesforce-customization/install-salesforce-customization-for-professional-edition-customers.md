@@ -1,58 +1,58 @@
 ---
 unique-page-id: 27656223
-description: Installare i clienti Salesforce Customization for Professional Edition - Documentazione Marketo - Documentazione del prodotto
-title: Installazione della personalizzazione Salesforce per i clienti Professional Edition
+description: Installa [!DNL Salesforce] Personalizzazione per clienti Professional Edition - Documentazione di Marketo - Documentazione del prodotto
+title: Installa [!DNL Salesforce] Personalizzazione per i clienti Professional Edition
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
-# Installazione della personalizzazione Salesforce per i clienti Professional Edition {#install-salesforce-customization-for-professional-edition-customers}
+# Installa la personalizzazione [!DNL Salesforce] per i clienti Professional Edition {#install-salesforce-customization-for-professional-edition-customers}
 
-I clienti con Salesforce Professional Edition dovranno seguire questi passaggi per installare la personalizzazione.
+I clienti con [!DNL Salesforce] Professional Edition dovranno seguire questi passaggi per installare la personalizzazione.
 
 >[!PREREQUISITES]
 >
->* L&#39;amministratore di Sales Connect deve collegare i propri account Salesforce e Sales Connect.
->* L’istanza Salesforce utilizzata deve disporre di spazio per installare tredici campi attività personalizzati.
+>* L&#39;amministratore [!DNL Sales Connect] deve connettere i propri account [!DNL Salesforce] e [!DNL Sales Connect].
+>* L&#39;istanza [!DNL Salesforce] utilizzata deve disporre di spazio per installare tredici campi attività personalizzati.
 
 ## Installazione {#installation}
 
-1. In Sales Connect, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Impostazioni**.
+1. In [!DNL Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-4.png)
 
-1. In Impostazioni amministrazione fare clic su **Salesforce**.
+1. In [!UICONTROL Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/two-4.png)
 
-1. Verifica di essere connesso al tuo account Salesforce.
+1. Verificare di essere connessi all&#39;account [!DNL Salesforce].
 
    >[!CAUTION]
    >
-   >Se si è connessi, verrà visualizzato un pulsante verde &quot;Installa&quot;. **DO NOT** fare clic su questo pulsante, passare al passaggio 4.
+   >Se si è connessi, verrà visualizzato un pulsante verde &quot;[!UICONTROL Install]&quot;. **DO NOT** fare clic su questo pulsante, passare al passaggio 4.
 
-1. Accedi all&#39;account Salesforce a cui sei connesso, quindi fai clic su [questo collegamento](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
-1. Verrà visualizzata la pagina Installazione di Sales Connect.
+1. Accedi all&#39;account [!DNL Salesforce] a cui sei connesso e quindi fai clic su [questo collegamento](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t0b000001oWEZ).
+1. Verrà visualizzata la pagina di installazione di [!DNL Sales Connect].
 
    ![](assets/install-package.png)
 
 1. Scegli gli utenti per i quali desideri installare le personalizzazioni: solo amministratore, tutti gli utenti o profili specifici.
-1. Fai clic sul pulsante **Installa** per installare la personalizzazione.
-1. Per confermare la corretta installazione, accedi al tuo account Salesforce.
-1. Fare clic su **Configurazione**, cercare &quot;Pacchetti installati&quot; nella barra di ricerca, quindi fare clic su **Pacchetti installati**.
+1. Fare clic sul pulsante **[!UICONTROL Install]** per installare la personalizzazione.
+1. Per confermare l&#39;installazione, accedere al proprio account [!DNL Salesforce].
+1. Fare clic su **[!UICONTROL Setup]**, cercare &quot;Pacchetti installati&quot; nella barra di ricerca e fare clic su **[!UICONTROL Installed Packages]**.
 
    Qui verranno visualizzate le personalizzazioni di Marketo Sales Connect.
 
-   Per configurare Sales Connect nell&#39;istanza Salesforce, seguire i passaggi che iniziano dalla sezione &quot;CONFIGURAZIONE DEL PACCHETTO SALESFORCE SALES ENGAGE&quot; a pagina 7 della Guida all&#39;installazione.
+   Per configurare [!DNL Sales Connect] nell&#39;istanza di [!DNL Salesforce], seguire i passaggi a partire dalla sezione &quot;CONFIGURAZIONE DEL PACCHETTO SALES ENGAGE SALESFORCE&quot; a pagina 7 della Guida all&#39;installazione.
 
    >[!NOTE]
    >
-   >Sales Engage è il nome precedente per Sales Connect.
+   >[!DNL Sales Engage] è il nome precedente per [!DNL Sales Connect].
 
 ## Guide {#guides}
 

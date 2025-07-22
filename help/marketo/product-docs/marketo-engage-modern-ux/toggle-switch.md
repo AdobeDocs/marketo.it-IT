@@ -3,9 +3,9 @@ description: Switch di attivazione/disattivazione - Documentazione Marketo - Doc
 title: Attiva/Disattiva
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ L&#39;interruttore di attivazione consente di passare dall&#39;interfaccia class
 
 Attiva l’interruttore di attivazione per i singoli ruoli o per tutti i ruoli. Ecco come.
 
-1. In Marketo Engage fare clic su **Amministratore**.
+1. In Marketo Engage, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/toggle-switch-1.png)
 
-1. Fai clic su **Nuova esperienza**.
+1. Fai clic su **[!UICONTROL New Experience]**.
 
    ![](assets/toggle-switch-2.png)
 
@@ -36,7 +36,7 @@ Attiva l’interruttore di attivazione per i singoli ruoli o per tutti i ruoli. 
 
 ## Attiva per funzioni {#enable-for-features}
 
-È possibile abilitare manualmente l&#39;interfaccia utente moderna del Marketo Engage per singole funzioni o tutte le funzioni disponibili (correnti e future).
+Puoi abilitare manualmente l’interfaccia utente di Marketo Engage Modern per le singole funzioni o tutte le funzioni disponibili (correnti e future).
 
 In un’area che al momento dispone dell’interruttore di attivazione (in questo esempio ci troviamo nella visualizzazione Elenco e-mail), fai clic sull’opzione in basso a destra della pagina.
 
@@ -50,7 +50,7 @@ Per abilitarla per _tutte_ le funzionalità, fai clic sull&#39;icona a forma di 
 
 ![](assets/toggle-switch-6.png)
 
-Selezionare **Attiva per tutte le funzionalità disponibili** e fare clic su **OK**.
+Selezionare **[!UICONTROL Enable for all available features]** e fare clic su **[!UICONTROL OK]**.
 
 ![](assets/toggle-switch-7.png)
 

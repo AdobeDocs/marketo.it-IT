@@ -4,9 +4,9 @@ description: Panoramica del componente aggiuntivo .NET - Documentazione di Marke
 title: Panoramica del componente aggiuntivo .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '201'
 ht-degree: 0%
 
 ---
@@ -19,22 +19,22 @@ ht-degree: 0%
 
 ## Come allegare un contenuto {#attaching-a-piece-of-content}
 
-Aggiungi contenuto tracciabile facendo clic sul pulsante **Contenuto** e caricando un file.
+Aggiungere contenuto tracciabile facendo clic sul pulsante **[!UICONTROL Content]** e caricando un file.
 
 Tutti i contenuti caricati in precedenza vengono visualizzati nella finestra a comparsa e selezionati senza dover essere caricati nuovamente.
 
 ## Funzionalità calendario {#calendar-functionality}
 
-Comunica ai destinatari quando sei disponibile premendo il pulsante **Calendario**.
+Comunicare ai destinatari quando si è disponibili premendo il pulsante **[!UICONTROL Calendar]**.
 
-In questo modo, puoi inserire il calendario di Outlook e aggiungere date e ore specifiche per il periodo in cui sei libero, nonché aggiungere le informazioni all’e-mail.
+Questo richiama il tuo calendario [!DNL Outlook] e ti consente di aggiungere date e ore specifiche in cui sei libero, nonché di aggiungere le informazioni all&#39;e-mail.
 
 ## Estrazione di un modello {#pulling-in-a-template}
 
-Richiamare al messaggio di Outlook un modello predefinito premendo il pulsante **Modelli**.
+Estrarre un modello predefinito per il messaggio [!DNL Outlook] premendo il pulsante **[!UICONTROL Templates]**.
 
 Ci sincronizziamo con tutti i tuoi modelli personali ed eventuali modelli condivisi tra il team. Per un facile accesso, estraiamo automaticamente anche l’ultimo modello utilizzato e quello più utilizzato.
 
-## Pulsante Tout It {#the-tout-it-button}
+## Pulsante [!UICONTROL Tout It] {#the-tout-it-button}
 
-Una volta che l&#39;e-mail personalizzata sarà stata compilata e sarà pronta per essere spedita, assicurati di premere sempre il pulsante **Tout It** per ottenere il tracciamento. Apparirà una casella con scritto &quot;aspetta, stiamo aggiungendo la magia del tracciamento.&quot;
+Una volta che l&#39;e-mail personalizzata è stata compilata e pronta, assicurati di premere sempre il pulsante **[!UICONTROL Tout It]** per ottenere il tracciamento. Apparirà una casella con scritto &quot;aspetta, stiamo aggiungendo la magia del tracciamento.&quot;

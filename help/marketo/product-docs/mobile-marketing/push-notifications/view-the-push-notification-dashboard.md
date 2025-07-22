@@ -4,9 +4,9 @@ description: Visualizzare la dashboard delle notifiche push - Documentazione di 
 title: Visualizzare il dashboard delle notifiche push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 È facile vedere come funzionano le notifiche push.
 
-1. Vai all&#39;area **Attività di marketing**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 
@@ -23,11 +23,11 @@ ht-degree: 0%
 
    ![](assets/image2015-12-11-13-3a1-3a56.png)
 
-1. Fai clic su **Visualizza: Riepilogo** e seleziona **Dashboard**.
+1. Fare clic su **[!UICONTROL View: Summary]** e selezionare **[!UICONTROL Dashboard]**.
 
    ![](assets/image2015-12-11-13-3a4-3a23.png)
 
-1. Puoi visualizzare il totale inviato e il totale dei tocchi per iOS e Android in grafici a cerchi. Scorri verso il basso per visualizzare Tocca Decadimento nei grafici a barre.
+1. È possibile visualizzare [!UICONTROL Total Sent] e [!UICONTROL Total Taps] per iOS e Android in grafici circolari. Scorri verso il basso per visualizzare [!UICONTROL Tap Decay] nei grafici a barre.
 
    ![](assets/image2015-12-15-15-3a23-3a47.png)
 

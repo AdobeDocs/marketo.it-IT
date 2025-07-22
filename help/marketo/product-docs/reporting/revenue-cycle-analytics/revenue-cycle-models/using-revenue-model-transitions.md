@@ -4,9 +4,9 @@ description: Utilizzo delle transizioni del modello di ricavo - Documentazione d
 title: Utilizzo delle transizioni del modello di ricavo
 exl-id: c658b631-b849-438a-b412-63ffd41e4c85
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
@@ -21,19 +21,19 @@ Quando crei il modello e selezioni e organizzi le fasi di inventario, è il mome
 
 ![](assets/one-2.png)
 
-1. Fare clic con il pulsante destro del mouse (è anche possibile fare doppio clic) su una delle frecce per iniziare e selezionare **Modifica transizione**.
+1. Fare clic con il pulsante destro del mouse (è anche possibile fare doppio clic) su una delle frecce per iniziare e selezionare **[!UICONTROL Edit Transition]**.
 
    ![](assets/two-2.png)
 
    >[!NOTE]
    >
-   >Impossibile modificare le regole di transizione &quot;Anonimo ⇒ noto&quot;.
+   >Impossibile modificare le regole di transizione &#39;[!UICONTROL Anonymous] ⇒ [!UICONTROL Known]&#39;.
 
 1. Viene visualizzata una nuova scheda per la transizione selezionata.
 
    ![](assets/three-1.png)
 
-1. Le transizioni controllano il modo in cui i lead si spostano tra gli stadi. Trascina il trigger (o filtro) desiderato da destra e rilascialo ovunque nell’area di lavoro. In questo esempio, selezioneremo il trigger Modulo di compilazione.
+1. Le transizioni controllano il modo in cui i lead si spostano tra gli stadi. Trascina il trigger (o filtro) desiderato da destra e rilascialo ovunque nell’area di lavoro. In questo esempio verrà selezionato il trigger **[!UICONTROL Fills Out Form]**.
 
    >[!TIP]
    >
@@ -45,7 +45,7 @@ Quando crei il modello e selezioni e organizzi le fasi di inventario, è il mome
 
    ![](assets/five-2.png)
 
-1. Per tornare al tuo modello, fai clic su **Modeler**.
+1. Per tornare al modello, fare clic su **[!UICONTROL Modeler]**.
 
    ![](assets/six.png)
 
@@ -53,7 +53,7 @@ Quando crei il modello e selezioni e organizzi le fasi di inventario, è il mome
 
    ![](assets/seven.png)
 
-1. Dopo aver configurato le regole per tutte le transizioni, fai clic su **Convalida** per verificare.
+1. Dopo aver configurato le regole per tutte le transizioni, fai clic su **[!UICONTROL Validate]** per verificare.
 
    ![](assets/eight.png)
 

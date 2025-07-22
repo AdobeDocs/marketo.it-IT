@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953373
-description: Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight - Documentazione di Marketo - Documentazione del prodotto
+description: Configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight - Documenti Marketo - Documentazione del prodotto
 title: Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
 
-# Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight {#configure-unsubscribe-footers-in-marketo-sales-insight}
+# Configura piè di pagina per annullamento iscrizione in [!DNL Marketo Sales Insight] {#configure-unsubscribe-footers-in-marketo-sales-insight}
 
 Nelle e-mail di vendita, il piè di pagina per l’annullamento dell’iscrizione viene inserito automaticamente nella parte inferiore. Tuttavia, è possibile regolare le impostazioni in base alle proprie esigenze.
 
@@ -23,13 +23,13 @@ Nelle e-mail di vendita, il piè di pagina per l’annullamento dell’iscrizion
 >
 >**Definizione**
 >
->**Le e-mail di vendita** sono quelle inviate da Sales Insight (non includono quelle inviate dal plug-in di Marketo Outlook).
+>**Le e-mail di vendita** sono quelle inviate da [!DNL Sales Insight] (non sono incluse quelle inviate dal plug-in di Marketo Outlook).
 
-1. Vai all&#39;area **Amministratore**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/one-1.png)
 
-1. Fai clic su **Insight vendite**, quindi su **Modifica impostazioni**.
+1. Fare clic su **[!UICONTROL Sales Insight]**, quindi su **[!UICONTROL Edit Settings]**.
 
    ![](assets/two-1.png)
 
@@ -37,19 +37,19 @@ Nelle e-mail di vendita, il piè di pagina per l’annullamento dell’iscrizion
 
    ![](assets/three-1.png)
 
-   * **Nessun modello** - Composto manualmente dall&#39;utente di vendita.
-   * **E-mail standard** - E-mail basate su un modello.
-   * **E-mail operativa** - E-mail che ignorano l&#39;annullamento dell&#39;iscrizione, la sospensione del marketing e i limiti di comunicazione (vengono inviate indipendentemente dall&#39;operazione).
+   * **[!UICONTROL No Template]** - Composto manualmente dall&#39;utente di vendita.
+   * **[!UICONTROL Standard Email]** - E-mail basate su un modello.
+   * **[!UICONTROL Operational Email]** - E-mail che ignorano gli annullamenti dell&#39;abbonamento, la sospensione del marketing e i limiti di comunicazione (vengono inviate a prescindere da cosa).
 
    È possibile impostare un comportamento diverso per ogni tipo.
 
    >[!CAUTION]
    >
-   >**Rispetta impostazioni annullamento sottoscrizione**: i lead non sottoscritti NON riceveranno l&#39;e-mail anche se l&#39;e-mail pubblicata è &quot;operativa&quot;
+   >**[!UICONTROL Respect Unsubscribe Settings]**: i lead non abbonati NON riceveranno l&#39;e-mail anche se l&#39;e-mail pubblicata è &quot;operativa&quot;
    >
-   >**Ignora impostazioni annullamento sottoscrizione**: i lead non sottoscritti riceveranno l&#39;e-mail
+   >**[!UICONTROL Ignore Unsubscribe Settings]**: i lead non iscritti riceveranno l&#39;e-mail
 
-1. Apporta le modifiche desiderate, quindi fai clic su **Salva**.
+1. Apportare le modifiche desiderate, quindi fare clic su **[!UICONTROL Save]**.
 
    >[!TIP]
    >

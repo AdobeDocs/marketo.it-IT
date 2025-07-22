@@ -4,10 +4,10 @@ description: Utilizzo degli stadi dell’inventario del modello di ricavo - Docu
 title: Utilizzo delle fasi di magazzino del modello di ricavo
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 0%
+source-wordcount: '239'
+ht-degree: 1%
 
 ---
 
@@ -21,39 +21,39 @@ Tutti i lead e gli account noti risiedono inizialmente nella fase di inventario.
 
 ## Aggiungi Una Fase Di Inventario {#add-an-inventory-stage}
 
-1. Per aggiungere una nuova fase dell&#39;inventario del modello del ciclo dei ricavi, fare clic sul pulsante **Analytics** nella schermata iniziale di **My Marketo**.
+1. Per aggiungere una nuova fase dell&#39;inventario del modello del ciclo dei ricavi, fare clic sul pulsante **[!UICONTROL Analytics]** nella schermata iniziale di **[!UICONTROL My Marketo]**.
 
    ![](assets/image2015-4-27-11-3a54-3a41.png)
 
-1. Nella sezione **Analytics**, seleziona il modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
+1. Nella sezione **[!UICONTROL Analytics]**, seleziona il modello esistente o [creane uno nuovo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model.md).
 
    ![](assets/image2015-4-27-14-3a31-3a53.png)
 
-1. Fare clic su **Modifica bozza**.
+1. Fai clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/image2015-4-27-12-3a10-3a49.png)
 
-1. Per aggiungere una nuova fase di inventario, fai clic sul pulsante **Inventario**, quindi trascina e rilascia in qualsiasi punto all&#39;interno dell&#39;area di lavoro.
+1. Per aggiungere una nuova fase di inventario, fare clic sul pulsante **[!UICONTROL Inventory]**, quindi trascinare e rilasciare in qualsiasi punto all&#39;interno dell&#39;area di lavoro.
 
    ![](assets/image2015-4-28-13-3a9-3a37.png)
 
-1. È possibile modificare il Nome, aggiungere una Descrizione e regolare il Tipo dopo l&#39;aggiunta di una fase. Al momento puoi anche selezionare **[Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
+1. È possibile modificare **[!UICONTROL Name]**, aggiungere **[!UICONTROL Description]** e regolare **[!UICONTROL Type]** dopo aver aggiunto una fase. Al momento puoi anche selezionare **[[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md)**.
 
    ![](assets/image2015-4-27-13-3a29-3a2.png)
 
 ## Modificare una fase di inventario {#edit-an-inventory-stage}
 
-Quando selezioni un&#39;icona Inventario puoi modificare il **Nome**, aggiungere una **Descrizione** o regolare il **Tipo**. Puoi anche selezionare [Avvia tracciamento per account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
+Quando selezioni un&#39;icona Inventario puoi modificare **[!UICONTROL Name]**, aggiungere un **[!UICONTROL Description]** o regolare **[!UICONTROL Type]**. È inoltre possibile selezionare [[!UICONTROL Start Tracking by Account]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/start-tracking-by-account-in-the-revenue-modeler.md).
 
-1. Fai clic sull’icona di un magazzino.
+1. Fare clic su un&#39;icona di **[!UICONTROL Inventory]**.
 
    ![](assets/image2015-4-27-15-3a55-3a10.png)
 
-1. Fai clic sui campi **Nome** e **Descrizione** per modificarne il contenuto.
+1. Fare clic nei campi **[!UICONTROL Name]** e **[!UICONTROL Description]** per modificarne il contenuto.
 
    ![](assets/image2015-4-27-13-3a34-3a58.png)
 
-1. Selezionare il menu a discesa **Tipo** da modificare.
+1. Selezionare il menu a discesa **[!UICONTROL Type]** da modificare.
 
    ![](assets/image2015-4-27-13-3a36-3a52.png)
 
@@ -63,11 +63,11 @@ Quando selezioni un&#39;icona Inventario puoi modificare il **Nome**, aggiungere
 
    ![](assets/image2015-4-28-13-3a0-3a20.png)
 
-1. Puoi anche eliminare una fase facendo clic su di essa, quindi nel menu a discesa **Azioni fase**, seleziona **Elimina**.
+1. È inoltre possibile eliminare una fase facendo clic su di essa, quindi nel menu a discesa **[!UICONTROL Stage Actions]** selezionare **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-13-3a1-3a17.png)
 
-1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fare clic su **Elimina**.
+1. Entrambi i metodi di eliminazione richiedono di confermare la scelta. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/image2015-4-28-13-3a5-3a26.png)
 

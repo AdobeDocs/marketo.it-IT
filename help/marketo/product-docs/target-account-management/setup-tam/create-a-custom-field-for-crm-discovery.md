@@ -4,9 +4,9 @@ description: Creazione di un campo personalizzato per l’individuazione CRM - D
 title: Creare un campo personalizzato per l'individuazione CRM
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
@@ -15,31 +15,31 @@ ht-degree: 0%
 
 Aggiungi campi personalizzati agli account, mappali sul tuo CRM e utilizzali per l’individuazione degli account CRM in Marketo.
 
-1. Fai clic su **Amministratore**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 
-1. Fai clic su **Gestione campi**, quindi su **Nuovo campo personalizzato**.
+1. Fare clic su **[!UICONTROL Field Management]**, quindi su **[!UICONTROL New Custom Field]**.
 
    ![](assets/two-4.png)
 
-1. Fai clic sul menu a discesa **Oggetto** e seleziona **Account denominato**.
+1. Fare clic sul menu a discesa **[!UICONTROL Object]** e selezionare **[!UICONTROL Named Account]**.
 
    ![](assets/three-3.png)
 
-1. Fare clic sull&#39;elenco a discesa **Tipo** e selezionare un tipo.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Type]** e selezionare un tipo.
 
    ![](assets/four-3.png)
 
-1. Immetti un **Nome** (il nome API verrà popolato automaticamente) e fai clic su **Crea**.
+1. Immettere un **[!UICONTROL Name]** (il nome API verrà popolato automaticamente) e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/five-3.png)
 
-1. Dopo aver creato il campo, selezionalo dalla struttura a destra. Fai clic sul menu a discesa **Azioni campo** e seleziona **Mappa sul campo CRM**.
+1. Dopo aver creato il campo, selezionalo dalla struttura a destra. Fare clic sul menu a discesa **[!UICONTROL Field Actions]** e selezionare **[!UICONTROL Map to CRM Field]**.
 
    ![](assets/six-2.png)
 
-1. Selezionare il campo dell&#39;account CRM a cui si desidera eseguire il mapping e fare clic su **Salva**.
+1. Selezionare il campo dell&#39;account CRM a cui si desidera eseguire il mapping e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/seven-1.png)
 

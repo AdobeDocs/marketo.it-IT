@@ -3,9 +3,9 @@ unique-page-id: 2953243
 description: Tipi di notifica - Documentazione di Marketo - Documentazione del prodotto
 title: Tipi di notifica
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '235'
 ht-degree: 1%
 
 ---
@@ -24,13 +24,13 @@ Le notifiche di sincronizzazione CRM segnalano problemi critici rilevati durante
 
 **[!DNL Microsoft Dynamics]**
 
-Le notifiche Dynamics vengono inviate una volta ogni 24 ore e contengono lead che non sono stati sincronizzati in tale periodo di tempo. I motivi tipici dell’errore sono lead duplicati (come sopra) o errori di mancata corrispondenza della lunghezza del campo.
+[!DNL Dynamics] notifiche vengono inviate una volta ogni 24 ore e contengono lead non sincronizzati in tale periodo di tempo. I motivi tipici dell’errore sono lead duplicati (come sopra) o errori di mancata corrispondenza della lunghezza del campo.
 
 ![](assets/image2016-1-20-11-3a19-3a58.png)
 
 **[!DNL Salesforce]**
 
-Se utilizzi Salesforce, le notifiche di errore di sincronizzazione avranno un aspetto simile a quello riportato di seguito. Gli errori tipici includono credenziali scadute e il superamento dei limiti API.
+Se si utilizza [!DNL Salesforce], le notifiche di errore di sincronizzazione avranno un aspetto simile a quello riportato di seguito. Gli errori tipici includono credenziali scadute e il superamento dei limiti API.
 
 ![](assets/salesforcesyncerror.png)
 
@@ -42,7 +42,7 @@ Quando le persone si esauriscono in un flusso, inviamo una notifica. La notifica
 
 ## Facebook {#facebook}
 
-Se tenti di inviare persone a Facebook senza accettare i termini di servizio o se tenti di inviare persone a Facebook dopo aver rimosso l’app Marketo.
+Se tenti di inviare persone a Facebook senza accettare i termini di servizio, o se tenti di inviare persone a Facebook dopo aver rimosso l’app Marketo.
 
 ## Pulizia campagna attivazione inattività {#idle-trigger-campaign-cleanup}
 
@@ -50,7 +50,7 @@ Disattiva le campagne intelligenti attivate che non ricevono più alcuna attivit
 
 ## LinkedIn {#linkedin}
 
-Quando Marketo non è in grado di creare un nuovo pubblico, accedi o invia e-mail a LinkedIn dopo tre tentativi.
+Quando Marketo non è in grado di creare un nuovo pubblico, effettua l’accesso o invia e-mail a LinkedIn dopo tre tentativi.
 
 ![](assets/linkedin.png)
 
@@ -60,4 +60,4 @@ Riceverai una notifica quando raggiungerai la tua quota giornaliera. La quota vi
 
 >[!NOTE]
 >
->Alcuni dei codici di errore che potresti ricevere sono descritti nella [Documentazione per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/error-codes).
+>Alcuni dei codici di errore che potresti ricevere sono descritti nella [Documentazione per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

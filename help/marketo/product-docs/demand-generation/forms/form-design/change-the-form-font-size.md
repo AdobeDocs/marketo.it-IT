@@ -4,10 +4,10 @@ description: Modificare le dimensioni del carattere del modulo - Documentazione 
 title: Modificare le dimensioni del carattere del modulo
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
@@ -19,27 +19,27 @@ Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibil
 >
 >Questa impostazione ha effetto sull&#39;etichetta del modulo, sul testo di input e sul testo del pulsante Invia.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/image2014-9-15-16-3a9-3a41.png)
 
-1. In **Impostazioni Modulo**, Seleziona **Impostazioni**.
+1. In **[!UICONTROL Form Settings]**, Selezionare **[!UICONTROL Settings]**.
 
    ![](assets/image2014-9-15-16-3a9-3a56.png)
 
-1. Selezionare la **dimensione carattere** desiderata.
+1. Selezionare **[!UICONTROL Font Size]** desiderato.
 
    ![](assets/image2014-9-15-16-3a10-3a8.png)
 
-1. Fare clic su **Fine**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a10-3a50.png)
 
-1. Fare clic su **Approva e chiudi**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

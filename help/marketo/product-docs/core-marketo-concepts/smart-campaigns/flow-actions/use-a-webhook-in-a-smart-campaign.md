@@ -4,20 +4,20 @@ description: Utilizzare un webhook in una campagna avanzata - Documentazione di 
 title: Utilizzare un webhook in una campagna avanzata
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 0%
+source-wordcount: '102'
+ht-degree: 1%
 
 ---
 
 # Utilizzare un webhook in una campagna avanzata {#use-a-webhook-in-a-smart-campaign}
 
-Per utilizzare un [webhook](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, aggiungilo a [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} come azione di flusso.
+Per utilizzare un [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, aggiungilo a una [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} come azione di flusso.
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 1. [Crea una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}.
 
@@ -25,11 +25,11 @@ Per utilizzare un [webhook](https://experienceleague.adobe.com/it/docs/marketo-d
    >
    >I webhook possono essere utilizzati solo nelle campagne Trigger.
 
-1. Vai alla scheda **[!UICONTROL Flusso]** e trascina l&#39;azione di flusso **[!UICONTROL Chiama webhook]**.
+1. Vai alla scheda **[!UICONTROL Flow]** e trascina l&#39;azione di flusso **[!UICONTROL Call Webhook]**.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-1.png)
 
-1. Seleziona il webhook.
+1. Seleziona **[!UICONTROL Webhook]**.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-2.png)
 
@@ -37,6 +37,6 @@ Per utilizzare un [webhook](https://experienceleague.adobe.com/it/docs/marketo-d
 
    ![](assets/use-a-webhook-in-a-smart-campaign-3.png)
 
-1. Infine, puoi utilizzare i webhook in **[!UICONTROL Aggiungi scelta]** in un passaggio di flusso.
+1. È infine possibile utilizzare i webhook in **[!UICONTROL Add Choice]** in un passaggio di flusso.
 
    ![](assets/use-a-webhook-in-a-smart-campaign-4.png)

@@ -4,16 +4,16 @@ description: Abilitare la barra dei consigli per i contenuti - Documentazione di
 title: Abilitare la barra dei consigli dei contenuti
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
 # Abilitare la barra dei consigli dei contenuti {#enable-the-content-recommendation-bar}
 
-Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi predittiva e di apprendimento automatico per fornire contenuti rilevanti a ogni visitatore web. Il motore di consigli prevede quale contenuto avrebbe le migliori prestazioni per visitatore. Il contenuto del motore viene monitorato e controllato nella pagina Recommendations, consentendoti di ottimizzare il ROI dei contenuti.
+Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi predittiva e di apprendimento automatico per fornire contenuti rilevanti a ogni visitatore web. Il motore di consigli prevede quale contenuto avrebbe le migliori prestazioni per visitatore. Il contenuto del motore viene monitorato e controllato nella pagina Consigli, per aiutarti a ottimizzare il ROI dei contenuti.
 
 >[!PREREQUISITES]
 >
@@ -29,19 +29,19 @@ Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi preditt
 
 ## Abilitare e personalizzare la barra dei consigli dei contenuti {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vai a **Impostazioni contenuto**.
+1. Vai a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand.png)
 
-1. Fare clic su **Barra**.
+1. Fai clic su **[!UICONTROL Bar]**.
 
    ![](assets/content-settings-bar-hand.png)
 
-1. Per abilitare la barra dei consigli per un URL, fai clic su **Il** e quindi su **Salva**.
+1. Per abilitare la barra dei consigli per un URL, fare clic su **[!UICONTROL On]** e quindi su **[!UICONTROL Save]**.
 
    ![](assets/bar-enable.png)
 
-1. Per personalizzare un URL, seleziona colori, stile, formato, frecce per la barra dei consigli e pagine per includerla o escluderla. Personalizza per adattarti al tuo marchio del sito web. Fai clic su **Salva**.
+1. Per personalizzare un URL, seleziona colori, stile, formato, frecce per la barra dei consigli e pagine per includerla o escluderla. Personalizza per adattarti al tuo marchio del sito web. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/bar-customize-details-hands.png)
 
@@ -58,7 +58,7 @@ Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi preditt
 
 ## Considerazioni sulla barra dei consigli {#recommendation-bar-considerations}
 
-* È necessario almeno un contenuto per il funzionamento della barra dei consigli impostata su **Il** nella pagina Recommendations. Se non è abilitato alcun contenuto e la barra è impostata su **Il**, l&#39;effetto Freccia verrà visualizzato in basso a destra della pagina Web, ma non verrà visualizzato alcun contenuto consigliato.
+* È necessario almeno un contenuto per il funzionamento della barra dei consigli impostata su **[!UICONTROL On]** nella pagina Consigli per il motore dei consigli. Se non è attivato alcun contenuto e la barra è impostata su **[!UICONTROL On]**, l&#39;effetto Freccia verrà visualizzato in basso a destra della pagina Web, ma non verrà visualizzato alcun contenuto consigliato.
 
 * Maggiore è il numero di contenuti in esecuzione nel motore di consigli, migliore sarà la possibilità per l’algoritmo di testare e scoprire quale contenuto funziona meglio. È consigliabile iniziare con 10-20 contenuti in esecuzione e attivi e continuare ad aggiungerne di nuovi.
 * La parte di contenuto abilitata per i consigli deve includere il tag JavaScript RTP. In questo modo l’algoritmo può tenere traccia e ottimizzare il contenuto consigliato.

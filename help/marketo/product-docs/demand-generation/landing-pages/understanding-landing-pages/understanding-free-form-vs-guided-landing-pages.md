@@ -4,9 +4,9 @@ description: Informazioni sulle pagine di destinazione in formato libero e guida
 title: Informazioni sulle pagine di destinazione in formato libero e guidato
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Il modello scelto determina la modalità di modifica della pagina di destinazion
 ## Pagine in formato libero {#free-form-pages}
 
 * Trascina i contenuti desiderati ovunque li desideri.
-* Il modello è simile a un elemento SlideMaster di PowerPoint, semplicemente uno sfondo.
+* Il modello è come un [!DNL SlideMaster] in [!DNL PowerPoint], solo uno sfondo.
 * Crea una semplice versione mobile della pagina con un clic su un pulsante.
 * Da utilizzare quando non si dispone di molto tempo o risorse tecniche.
 

@@ -3,10 +3,10 @@ description: Glossario delle attività di vendita - Documentazione di Marketo - 
 title: Glossario attività di vendita
 exl-id: c7805642-07b6-4697-9efe-5c673ae9ca53
 feature: Marketo Sales Connect
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 5%
+source-wordcount: '327'
+ht-degree: 6%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 5%
 
 In Sales Connect, quando un venditore: aggiunge un lead a una cadenza di vendita, invia un’e-mail o effettua una chiamata a un’attività, verrà registrato nella cronologia delle attività di Marketo. Inoltre, quando il lead si relaziona con le e-mail, vengono registrati anche le aperture, i clic e le risposte.
 
-Le attività seguenti verranno registrate in Marketo da Sales Connect.
+Le attività seguenti verranno registrate in Marketo da [!DNL Sales Connect].
 
 >[!NOTE]
 >
@@ -29,172 +29,172 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
  </tr>
  <tr>
   <th rowspan="9">Invia e-mail vendite</th>
-  <td>Inviato da</td>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID modello</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL modello vendite</td>
+  <td>[!UICONTROL Sales Template] URL</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign] URL</td>
  </tr>
  <tr>
-  <td>Nome modello di vendita</td>
+  <td>[!UICONTROL Sales Template] Nome</td>
  </tr>
  <tr>
-  <td>Oggetto e-mail</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
-  <th rowspan="9">Apri e-mail vendite</th>
-  <td>Inviato da</td>
+  <th rowspan="9"> Apri e-mail vendite</th>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID modello</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL modello vendite</td>
+  <td>[!UICONTROL Sales Template URL]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Nome modello di vendita</td>
+  <td>[!UICONTROL Sales Template Name]</td>
  </tr>
  <tr>
-  <td>Oggetto e-mail</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
   <th rowspan="10">E-mail vendita selezionata</th>
-  <td>Collegamento</td>
+  <td>[!UICONTROL Link]</td>
  </tr>
  <tr>
-  <td>Inviato da</td>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID modello</td>
+  <td>[!UICONTROL Template ID]</td>
  </tr>
  <tr>
-  <td>URL modello vendite</td>
+  <td>[!UICONTROL Sales Template URL]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Nome modello di vendita</td>
+  <td>[!UICONTROL Sales Template Name]</td>
  </tr>
  <tr>
-  <td>Oggetto e-mail</td>
+  <td>[!UICONTROL Email Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
 <tr>
   <th rowspan="3">Risposta all'e-mail di vendita</th>
-  <td>Ricevuto da</td>
+  <td>[!UICONTROL Received By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
   <th rowspan="11">Chiamata di vendita ricevuta</th>
-  <td>Chiamata di vendita effettuata da</td>
+  <td>[!UICONTROL Sales Call Made By]</td>
  </tr>
  <tr>
-  <td>Stato della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>Oggetto della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Subject]</td>
  </tr>
  <tr>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Numero di telefono vendita chiamato</td>
+  <td>[!UICONTROL Sales Phone Number Called]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>Durata della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Duration]</td>
  </tr>
  <tr>
-  <td>URL registrazione chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Recording URL]</td>
  </tr>
   <tr>
-  <td>Chiamata di vendita ricevuta da</td>
+  <td>[!UICONTROL Sales Call Answered By]</td>
  </tr>
  <tr>
-  <td>ID persona di vendita Marketo</td>
+  <td>[!UICONTROL Marketo Sales Person ID]</td>
  </tr>
  <tr>
   <th rowspan="6">Aggiungi a campagna di vendita</th>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Stato della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Inviato da</td>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign ID]</td>
  </tr>
  <tr>
   <th rowspan="6">Rimuovi da campagna di vendita</th>
-  <td>Nome campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign Name]</td>
  </tr>
  <tr>
-  <td>Stato della chiamata di vendita</td>
+  <td>[!UICONTROL Sales Call Status]</td>
  </tr>
  <tr>
-  <td>URL campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign URL]</td>
  </tr>
  <tr>
-  <td>Inviato da</td>
+  <td>[!UICONTROL Sent By]</td>
  </tr>
  <tr>
   <td>Origine</td>
  </tr>
  <tr>
-  <td>ID campagna di vendita</td>
+  <td>[!UICONTROL Sales Campaign ID]</td>
  </tr>
  <tr>
   <th rowspan="5">E-mail di vendita non recapitate</th>
@@ -214,7 +214,7 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
  </tr>
 </table>
 
-## Descrizione {#descriptions}
+## Descrizioni {#descriptions}
 
 <table> 
  <tr>
@@ -223,88 +223,88 @@ Le attività seguenti verranno registrate in Marketo da Sales Connect.
  </tr>
  <tbody> 
  <tr> 
-   <td><strong>Dettagli</strong></td> 
+   <td><strong>[!UICONTROL Details]</strong></td> 
    <td>Dettagli del messaggio di errore di mancato recapito.</td> 
   </tr> 
   <tr> 
-   <td><strong>E-mail</strong></td> 
+   <td><strong>[!UICONTROL Email]</strong></td> 
    <td>Indirizzo e-mail non recapitato.</td> 
   </tr> 
   <tr> 
-   <td><strong>Collegamento</strong></td> 
+   <td><strong>[!UICONTROL Link]</strong></td> 
    <td>URL su cui è stato fatto clic.</td> 
   </tr> 
   <tr> 
-   <td><strong>ID persona di vendita Marketo</strong></td> 
-   <td>ID univoco del record persona in Sales Connect.</td> 
+   <td><strong>[!UICONTROL Marketo Sales Person ID]</strong></td> 
+   <td>ID univoco del record persona in [!DNL Sales Connect].</td> 
   </tr> 
   <tr> 
-   <td><strong>Ricevuto da</strong></td> 
+   <td><strong>[!UICONTROL Received By]</strong></td> 
    <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
   </tr>
   <tr> 
-   <td><strong>Chiamata di vendita ricevuta da</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Answered By]</strong></td> 
    <td>Nome della persona che ha risposto alla chiamata.</td> 
   </tr>
   <tr> 
-   <td><strong>Durata della chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Duration]</strong></td> 
    <td>Durata della chiamata in secondi.</td> 
   </tr>
   <tr> 
-   <td><strong>Chiamata di vendita effettuata da</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Made By]</strong></td> 
    <td>Indirizzo e-mail del venditore che ha effettuato la chiamata.</td> 
   </tr>
   <tr> 
-   <td><strong>URL registrazione chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Recording URL]</strong></td> 
    <td>URL della registrazione delle chiamate.</td> 
   </tr>
   <tr> 
-   <td><strong>Stato della chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Status]</strong></td> 
    <td>Salva lo stato finale della chiamata, che include: completato, nessuna risposta, annullato, non riuscito.</td> 
   </tr>
   <tr> 
-   <td><strong>Oggetto della chiamata di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Call Subject]</strong></td> 
    <td>Risultato della chiamata selezionato da un utente di vendita nella composizione.</td> 
   </tr>
   <tr> 
-   <td><strong>ID campagna di vendita</strong></td> 
-   <td>ID univoco della risorsa della campagna di vendita in Sales Connect.</td> 
+   <td><strong>[!UICONTROL Sales Campaign ID]</strong></td> 
+   <td>ID univoco della risorsa della campagna di vendita in [!DNL Sales Connect].</td> 
   </tr>
   <tr> 
-   <td><strong>Nome campagna di vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Campaign Name]</strong></td> 
    <td>Nome della campagna di vendita.</td> 
   </tr>
   <tr> 
-   <td><strong>URL campagna di vendita</strong></td> 
-   <td>URL di Sales Connect per la campagna di vendita.</td> 
+   <td><strong>[!UICONTROL Sales Campaign URL]</strong></td> 
+   <td>[!DNL Sales Connect] URL per campagna di vendita.</td> 
   </tr>
   <tr> 
-   <td><strong>Oggetto e-mail vendita</strong></td> 
+   <td><strong>[!UICONTROL Sales Email Subject]</strong></td> 
    <td>Riga dell’oggetto dell’e-mail seguita da un ID univoco (ad esempio, Oggetto (MSC-12345678)</td> 
   </tr>
   <tr> 
-   <td><strong>Numero di telefono vendita chiamato</strong></td> 
+   <td><strong>[!UICONTROL Sales Phone Number Called]</strong></td> 
    <td>Numero di telefono chiamato dalle vendite.</td> 
   </tr>
   <tr> 
-   <td><strong>Nome modello di vendita</strong></td> 
-   <td>Nome del modello e-mail in Sales Connect.</td> 
+   <td><strong>[!UICONTROL Sales Template Name]</strong></td> 
+   <td>Nome del modello e-mail in [!DNL Sales Connect].</td> 
   </tr>
   <tr> 
-   <td><strong>URL modello vendite</strong></td> 
-   <td>URL Sales Connect per modello e-mail.</td> 
+   <td><strong>[!UICONTROL Sales Template URL]</strong></td> 
+   <td>[!DNL Sales Connect] URL per modello e-mail.</td> 
   </tr>
   <tr> 
-   <td><strong>Inviato da</strong></td>
+   <td><strong>[!UICONTROL Sent By]</strong></td>
    <td>Indirizzo e-mail della persona che ha inviato l’e-mail.</td> 
   </tr> 
   <tr> 
-   <td><strong>Origine</strong></td> 
-   <td>Source dell’attività. Verrà impostato come "Tout" per le attività Sales Connect precedenti alla versione di ottobre 2021. Sarà "App di vendita" per le attività Sales Connect dopo la versione di ottobre 2021.</td>
+   <td><strong>[!UICONTROL Source]</strong></td> 
+   <td>Source dell’attività. Verrà impostato come "Tout" per le attività [!DNL Sales Connect] precedenti alla versione di ottobre 2021. Sarà "App di vendita" per le attività [!DNL Sales Connect] dopo la versione di ottobre 2021.</td>
   </tr> 
   <tr> 
-   <td><strong>ID modello</strong></td> 
-   <td>Quando l'origine è Tout, l'ID modello sarà l'ID modello Marketo Sales Connect. Usare questa opzione per eseguire il targeting di un modello specifico invece della riga dell'oggetto, che potrebbe esistere in più modelli.
+   <td><strong>[!UICONTROL Template ID]</strong></td> 
+   <td>Quando l'origine è Tout, l'ID modello sarà l'ID modello [!DNL Marketo Sales Connect]. Usare questa opzione per eseguire il targeting di un modello specifico invece della riga dell'oggetto, che potrebbe esistere in più modelli.
 </td> 
   </tr> 
  </tbody> 

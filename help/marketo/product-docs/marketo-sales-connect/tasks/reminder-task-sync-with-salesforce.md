@@ -1,84 +1,84 @@
 ---
-description: Sincronizzazione attività promemoria con Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Sincronizzazione attività promemoria con Salesforce - Documentazione Marketo - Documentazione del prodotto
 title: Sincronizzazione attività promemoria con Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
 
-# Sincronizzazione attività promemoria con Salesforce {#reminder-task-sync-with-salesforce}
+# Sincronizzazione attività promemoria con [!DNL Salesforce] {#reminder-task-sync-with-salesforce}
 
 >[!NOTE]
 >
->Per informazioni su come abilitare l&#39;attività Sincronizza, estrarre [Sincronizza attività/promemoria Sales Connect per le attività Salesforce](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks).
+>Per informazioni su come abilitare l&#39;estrazione di [Sincronizza [!DNL Sales Connect] attività/promemoria in [!DNL Salesforce] Attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md#sync-sales-connect-tasks-reminders-to-salesforce-tasks) tramite Sincronizzazione attività.
 
-Una volta abilitate le impostazioni di sincronizzazione delle attività, gli utenti vedranno le loro attività promemoria sincronizzate bidirezionalmente con Salesforce. In questo modo gli utenti possono gestire le attività da Salesforce o Sales Connect e avere la certezza che i sistemi rimarranno allineati.
+Una volta abilitate le impostazioni di sincronizzazione delle attività, gli utenti visualizzeranno le attività promemoria sincronizzate bidirezionalmente con [!DNL Salesforce]. Ciò significa che gli utenti possono gestire le attività da [!DNL Salesforce] o [!DNL Sales Connect] e che i sistemi rimarranno allineati.
 
 ## Sincronizzazione campi attività promemoria {#reminder-task-field-sync}
 
 ![](assets/reminder-task-sync-with-salesforce-1.png)
 
-Di seguito è riportato un elenco dei campi delle attività promemoria in Sales Connect e dei corrispondenti campi Salesforce supportati tramite la sincronizzazione bidirezionale delle attività.
+Di seguito è riportato un elenco dei campi dell&#39;attività promemoria in [!DNL Sales Connect] e dei campi corrispondenti di [!DNL Salesforce] supportati tramite la sincronizzazione bidirezionale delle attività.
 
 <table>
  <tr>
-  <th>Campo attività Sales Connect</th>
-  <th>Campo attività Salesforce</th>
-  <th>Attività Salesforce</th>
+  <th>[!DNL Sales Connect] Campo attività</th>
+  <th>[!DNL Salesforce] Campo attività</th>
+  <th>[!DNL Salesforce] Attività</th>
  </tr>
  <tr>
-  <td>Nome attività</td>
-  <td>Campo oggetto</td>
+  <td>[!UICONTROL Task Name]</td>
+  <td>[!UICONTROL Subject Field]</td>
   <td>Un breve campo di riepilogo destinato a mostrare il titolo dell’attività.</td>
  </tr>
  <tr>
-  <td>Stato</td>
-  <td>Stato attività</td>
-  <td><p>Mostra lo stato dell'attività. Le attività Sales Connect hanno due stati che corrispondono a due dei valori nella lista di selezione dello stato delle attività Salesforce.</p>
-  <p>Apri in connessione vendite = Non avviato in Salesforce.</p>
-  <p>Completato in Sales Connect = Completato in Salesforce.</p>
-  <p>Gli altri valori di stato in Salesforce non verranno sincronizzati con Sales Connect.</p></td>
+  <td>[!UICONTROL Status]</td>
+  <td>[!UICONTROL Task Status]</td>
+  <td><p>Mostra lo stato dell'attività. [!DNL Sales Connect] attività hanno due stati mappati a due dei valori nella lista di selezione dello stato dell'attività [!DNL Salesforce].</p>
+  <p>Apertura tra [!DNL Sales Connect] = Non avviato tra [!DNL Salesforce].</p>
+  <p>Completato in [!DNL Sales Connect] = Completato in [!DNL Salesforce].</p>
+  <p>Gli altri valori di stato in [!DNL Salesforce] non verranno sincronizzati con [!DNL Sales Connect].</p></td>
  </tr>
  <tr>
-  <td>Priorità</td>
-  <td>Priorità</td>
-  <td><p>La priorità Sales Connect può essere Normal (Normale) o High (Alta), che corrisponde ai valori di priorità Normal (Normale) e High (Alta) in Salesforce.</p>
-  <p>Il valore di priorità bassa in Salesforce non verrà sincronizzato con Sales Connect.</p></td>
+  <td>[!UICONTROL Priority]</td>
+  <td>[!UICONTROL Priority]</td>
+  <td><p>[!DNL Sales Connect] La priorità può essere Normale o Alta, che corrisponde ai valori di priorità Normale e Alta in [!DNL Salesforce].</p>
+  <p>Il valore con priorità bassa in [!DNL Salesforce] non verrà sincronizzato con [!DNL Sales Connect].</p></td>
  </tr>
  <tr>
-  <td>Data di scadenza</td>
-  <td>Data di scadenza</td>
+  <td>[!UICONTROL Due Date]</td>
+  <td>[!UICONTROL Due Date]</td>
   <td>Data di scadenza dell'attività.</td>
  </tr>
  <tr>
-  <td>Dettagli</td>
-  <td>Commenti</td>
+  <td>[!UICONTROL Details]</td>
+  <td>[!UICONTROL Comments]</td>
   <td>Mostra informazioni più dettagliate su ciò che doveva essere completato con l'attività promemoria.</td>
  </tr>
 </table>
 
-## Sincronizzazione per la prima volta delle attività Sales Connect con Salesforce {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
+## È in corso la prima sincronizzazione di [!DNL Sales Connect] attività con [!DNL Salesforce] {#syncing-sales-connect-tasks-with-salesforce-for-the-first-time}
 
-Quando attivi per la prima volta la sincronizzazione tra le attività Sales Connect e Salesforce, le attività Salesforce vengono importate. **non** eseguiremo il push delle attività in corso in Sales Connect a Salesforce. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate da Sales Connect a Salesforce sono le attività create *dopo* la sincronizzazione di Sales Connect con SFDC.
+Quando si attiva la sincronizzazione tra [!DNL Sales Connect] e [!DNL Salesforce] attività, le attività [!DNL Salesforce] vengono importate. **non** eseguirà il push delle attività correnti in [!DNL Sales Connect] a [!DNL Salesforce]. Per ridurre l&#39;ingombro e i duplicati, le uniche attività sincronizzate da [!DNL Sales Connect] in [!DNL Salesforce] sono le attività create *dopo* la sincronizzazione di [!DNL Sales Connect] con SFDC.
 
-Ecco cosa accade quando si sincronizzano le attività Sales Connect e SFDC:
+Ecco cosa accade quando si sincronizzano [!DNL Sales Connect] e le attività di SFDC:
 
 * Non appena si fa clic su Salva durante la sincronizzazione delle attività, queste vengono sincronizzate. Inizialmente questo richiederà del tempo.
 
-* Tutti i promemoria aggiornati o creati nelle ultime 24 ore verranno inseriti da SFDC a Sales Connect. La sincronizzazione è basata sulla data di scadenza e tutte queste attività verranno sincronizzate nel back-end, ma in Centro comandi verranno visualizzate solo le attività in scadenza oggi e domani.
+* Tutti i promemoria aggiornati o creati nelle ultime 24 ore verranno inseriti da SFDC a [!DNL Sales Connect]. La sincronizzazione è basata sulla data di scadenza e tutte queste attività verranno sincronizzate nel back-end, ma in Centro comandi verranno visualizzate solo le attività in scadenza oggi e domani.
 
 * Se la sincronizzazione è stata attivata in precedenza ed è stata eliminata qualsiasi attività in SFDC, qualsiasi elemento eliminato negli ultimi 15 giorni verrà eliminato da Centro comandi.
 
-* Sincronizzeremo costantemente le attività tra Sales Connect e SFDC, purché la sincronizzazione sia abilitata.
+* Le attività verranno sincronizzate costantemente tra [!DNL Sales Connect] e SFDC, purché la sincronizzazione sia abilitata.
 
-Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in Sales Connect verranno sincronizzate con l&#39;elenco delle attività in Salesforce. E tutto ciò che viene creato, modificato, completato o eliminato in Salesforce aggiorna l&#39;elenco delle attività in Sales Connect.
+Dopo la sincronizzazione iniziale, tutte le attività create, modificate, completate o eliminate in [!DNL Sales Connect] verranno sincronizzate con l&#39;elenco delle attività in [!DNL Salesforce]. E qualsiasi elemento creato, modificato, completato o eliminato in [!DNL Salesforce] aggiornerà l&#39;elenco delle attività in [!DNL Sales Connect].
 
 Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione nella [pagina Impostazioni](https://toutapp.com/login) dell&#39;applicazione Web.
 
 >[!NOTE]
 >
->Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in Sales Connect e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto Salesforce per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in Salesforce _non_ verranno sincronizzati con il campo dell&#39;oggetto dell&#39;attività promemoria Sales Connect.
+>Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in [!DNL Sales Connect] e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto [!DNL Salesforce] per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Salesforce] _non_ verranno sincronizzati con il campo dell&#39;oggetto attività promemoria [!DNL Sales Connect].

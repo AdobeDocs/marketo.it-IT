@@ -4,9 +4,9 @@ description: Utilizzo di un modello nella finestra Componi - Documentazione di M
 title: Utilizzo di un modello nella finestra Componi
 exl-id: 585254fc-54f6-4902-a3aa-6e415195c96d
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '224'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ## Ricerca e utilizzo dei modelli {#finding-and-using-templates}
 
-1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
+1. Crea la bozza dell&#39;e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **[!UICONTROL Compose]** nell&#39;intestazione).
 
    ![](assets/one-6.png)
 
-1. Compilare il campo A.
+1. Compilare il campo [!UICONTROL To].
 
    ![](assets/searching-two.png)
 
@@ -43,19 +43,19 @@ ht-degree: 0%
 
 **fino a cinque** categorie di modelli specifiche preferite per accedere rapidamente ai modelli più utilizzati.
 
-1. Crea la bozza di e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **Componi** nell&#39;intestazione).
+1. Crea la bozza dell&#39;e-mail (esistono diversi modi per farlo, in questo esempio stiamo scegliendo **[!UICONTROL Compose]** nell&#39;intestazione).
 
    ![](assets/one-6.png)
 
-1. Fare clic sull&#39;icona **+** accanto a Preferiti.
+1. Fai clic sull&#39;icona **+** accanto a [!UICONTROL Favorites].
 
    ![](assets/pinning-two.png)
 
-1. Fai clic sul menu a discesa **Aggiungi una categoria** e seleziona la categoria desiderata.
+1. Fare clic sul menu a discesa **[!UICONTROL Pin a Category]** e selezionare la categoria desiderata.
 
    ![](assets/pinning-three.png)
 
-1. Al termine, fai clic su **Salva modifiche** (facoltativo: ripeti il passaggio 3 per aggiungerne altre).
+1. Al termine, fai clic su **[!UICONTROL Save Changes]** (facoltativo: ripeti il passaggio 3 per aggiungerne altri).
 
    ![](assets/pinning-four.png)
 
@@ -67,6 +67,6 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >**Preferiti** per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
+   >**[!UICONTROL Favorites]** per impostazione predefinita. Contiene i modelli e-mail preferiti, non le categorie.
 
    La categoria selezionata è bloccata.

@@ -4,9 +4,9 @@ description: Esportare il dashboard del programma e-mail in Excel - Documenti Ma
 title: Esporta dashboard programma e-mail in Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Dopo aver eseguito un programma e-mail e aver inserito alcuni dati nel dashboard, puoi esportarli in excel per ulteriori analisi. Ecco come.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

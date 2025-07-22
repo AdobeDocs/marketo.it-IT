@@ -4,29 +4,29 @@ description: Disattiva le notifiche e-mail al proprietario del lead - Documentaz
 title: Disattiva le notifiche e-mail al proprietario del lead
 exl-id: e079ed85-5fdd-49c9-a89c-aaf854a5db63
 feature: Salesforce Integration
-source-git-commit: 756a38ba87dd5af9ee783e9709056d444d4f415b
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 2%
+source-wordcount: '53'
+ht-degree: 3%
 
 ---
 
 # Disattiva le notifiche e-mail al proprietario del lead {#turn-off-email-notifications-to-lead-owner}
 
-Puoi disattivare le notifiche e-mail automatiche inviate ai Proprietari lead in Salesforce al momento dell’assegnazione del lead. Ecco come.
+È possibile disattivare le notifiche e-mail automatiche inviate ai Proprietari lead in [!DNL Salesforce] al momento dell&#39;assegnazione del lead. Ecco come.
 
-1. Vai a **[!UICONTROL Amministratore]**.
+1. Vai a **[!UICONTROL Admin]**.
 
    ![](assets/admin-1.png)
 
-1. Fare clic su **[!DNL Salesforce]**.
+1. Fai clic su **[!DNL Salesforce]**.
 
    ![](assets/adminsalesforce.png)
 
-1. In **[!UICONTROL Opzioni di sincronizzazione]**, fare clic su **[!UICONTROL Modifica]**.
+1. In **[!UICONTROL Sync Options]**, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/salesforcesummary2.jpg)
 
-1. Deseleziona la casella **[!UICONTROL Invia notifica e-mail al proprietario in Salesforce all&#39;assegnazione del lead]**. Fai clic su **[!UICONTROL Salva]**.
+1. Deselezionare la casella **[!UICONTROL Send email notification to owner in Salesforce upon lead assignment]**. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/new-screen.png)

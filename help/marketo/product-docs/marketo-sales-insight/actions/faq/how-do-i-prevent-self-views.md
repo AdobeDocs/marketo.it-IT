@@ -3,20 +3,20 @@ description: Come posso impedire le visualizzazioni automatiche - Documentazione
 title: Come posso impedire le visualizzazioni automatiche?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
 # Come posso impedire le visualizzazioni automatiche? {#how-do-i-prevent-self-views}
 
-Ottenere falsi positivi per il tracciamento delle visualizzazioni può causare incongruenze nei rapporti. Ciò si verifica spesso quando gli utenti di Marketo Sales richiamano accidentalmente il pixel di tracciamento dal proprio client e-mail (questa funzione viene chiamata self-view). Di seguito sono riportati alcuni suggerimenti su come ridurre ed eliminare in modo significativo le visualizzazioni personali.
+Ottenere falsi positivi per il tracciamento delle visualizzazioni può causare incongruenze nei rapporti. Ciò si verifica spesso quando gli utenti di [!DNL Marketo Sales] richiamano accidentalmente il pixel di tracciamento dal proprio client di posta elettronica (questa funzione viene chiamata visualizzazione automatica). Di seguito sono riportati alcuni suggerimenti su come ridurre ed eliminare in modo significativo le visualizzazioni personali.
 
-## Web (Outlook Web App e Gmail) {#web-outlook-web-app-and-gmail}
+## Web ([!DNL Outlook] Web App e Gmail) {#web-outlook-web-app-and-gmail}
 
-Marketo Sales memorizzerà un cookie nel browser per impedire il tracciamento delle visualizzazioni all&#39;apertura delle e-mail da Outlook Web App e Gmail. Se ricevi ancora visualizzazioni personali, ti consigliamo di effettuare le seguenti operazioni:
+[!DNL Marketo Sales] memorizzerà un cookie nel browser per impedire il rilevamento delle visualizzazioni all&#39;apertura delle e-mail da [!DNL Outlook] Web App e Gmail. Se ricevi ancora visualizzazioni personali, ti consigliamo di effettuare le seguenti operazioni:
 
 * Verificare che nel computer siano abilitati i cookie.
 
@@ -24,48 +24,48 @@ Marketo Sales memorizzerà un cookie nel browser per impedire il tracciamento de
 
 ## Desktop (Windows) {#desktop-windows}
 
-Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine invisibile nel client e-mail. È possibile ridurre in modo significativo la quantità di visualizzazioni automatiche in Outlook disabilitando il download automatico delle immagini. Di seguito sono riportati i passaggi come.
+Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine invisibile nel client e-mail. È possibile ridurre in modo significativo la quantità di visualizzazioni automatiche in [!DNL Outlook] disabilitando il download automatico delle immagini. Di seguito sono riportati i passaggi come.
 
-1. In Outlook, fare clic su **File** nella barra dei menu.
+1. In Outlook, fare clic su **[!UICONTROL File]** nella barra dei menu.
 
    ![](assets/how-do-i-prevent-self-views-1.png)
 
-1. Fare clic su **Opzioni**.
+1. Fai clic su **[!UICONTROL Options]**.
 
    ![](assets/how-do-i-prevent-self-views-2.png)
 
-1. Nella finestra di dialogo Opzioni di Outlook fare clic su **Centro protezione**.
+1. Nella finestra di dialogo Opzioni [!DNL Outlook] fare clic su **[!UICONTROL Trust Center]**.
 
    ![](assets/how-do-i-prevent-self-views-3.png)
 
-1. In Centro protezione di Microsoft Outlook fare clic su **Impostazioni Centro protezione**.
+1. In Centro protezione [!DNL Outlook] di Microsoft fare clic su **[!UICONTROL Trust Center Settings]**.
 
    ![](assets/how-do-i-prevent-self-views-4.png)
 
-1. Fare clic su Download automatico nel menu a sinistra e selezionare la casella di controllo **Non scaricare automaticamente le immagini nell&#39;e-mail HTML o negli elementi RSS**.
+1. Fare clic su [!UICONTROL Automatic Download] nel menu a sinistra e selezionare la casella di controllo **[!UICONTROL Don't download pictures automatically in HTML email or RSS items]**.
 
    ![](assets/how-do-i-prevent-self-views-5.png)
 
-1. Fare clic su **OK** nella finestra di dialogo Centro protezione.
+1. Fare clic su **[!UICONTROL OK]** nella finestra di dialogo [!UICONTROL Trust Center].
 
    ![](assets/how-do-i-prevent-self-views-6.png)
 
-1. Fare clic su **OK** nella finestra di dialogo Opzioni di Outlook.
+1. Fare clic su **[!UICONTROL OK]** nella finestra di dialogo Opzioni [!DNL Outlook].
 
    ![](assets/how-do-i-prevent-self-views-7.png)
 
 ## Desktop (Mac) {#desktop-mac}
 
-Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine invisibile nel client e-mail. È possibile ridurre in modo significativo la quantità di visualizzazioni automatiche in Outlook disabilitando il download automatico delle immagini. Di seguito sono riportati i passaggi come.
+Le visualizzazioni vengono tracciate scaricando un piccolo pixel di immagine invisibile nel client e-mail. È possibile ridurre in modo significativo la quantità di visualizzazioni automatiche in [!DNL Outlook] disabilitando il download automatico delle immagini. Di seguito sono riportati i passaggi come.
 
-1. In Outlook, fare clic su **Outlook** nella barra dei menu e selezionare **Preferenze**.
+1. In [!DNL Outlook], fare clic su **[!UICONTROL Outlook]** nella barra dei menu e selezionare **[!UICONTROL Preferences]**.
 
    ![](assets/how-do-i-prevent-self-views-8.png)
 
-1. In E-mail, scegli **Lettura**.
+1. In [!UICONTROL Email] scegliere **[!UICONTROL Reading]**.
 
    ![](assets/how-do-i-prevent-self-views-9.png)
 
-1. In Protezione fare clic sul pulsante di opzione **Mai**.
+1. In [!UICONTROL Security] fare clic sul pulsante di opzione **[!UICONTROL Never]**.
 
    ![](assets/how-do-i-prevent-self-views-10.png)

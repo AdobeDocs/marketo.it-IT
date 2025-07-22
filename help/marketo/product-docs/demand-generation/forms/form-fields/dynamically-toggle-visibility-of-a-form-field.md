@@ -4,10 +4,10 @@ description: Attivazione/disattivazione dinamica della visibilità di un campo m
 title: Attivazione/disattivazione dinamica della visibilità di un campo modulo
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 0%
+source-wordcount: '233'
+ht-degree: 2%
 
 ---
 
@@ -25,15 +25,15 @@ Una caratteristica molto interessante di Marketo Forms è la possibilità di nas
 >
 >In questo esempio, nascondiamo il campo **Stato** a meno che **Paese** non sia selezionato come &quot;Stati Uniti&quot;.
 
-1. Vai a **Attività di marketing**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-8.png)
 
-1. Seleziona il modulo e fai clic su **Modifica modulo**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
 
    ![](assets/editform-1.png)
 
-1. Selezionare il campo che si desidera nascondere/visualizzare dinamicamente e fare clic sul collegamento per **Regole di visibilità**.
+1. Selezionare il campo che si desidera nascondere/visualizzare dinamicamente e fare clic sul collegamento per **[!UICONTROL Visibility Rules]**.
 
    ![](assets/image2014-9-15-15-3a16-3a0.png)
 
@@ -41,11 +41,11 @@ Una caratteristica molto interessante di Marketo Forms è la possibilità di nas
 
    ![](assets/image2014-9-15-15-3a16-3a12.png)
 
-1. Seleziona l’operatore.
+1. Seleziona l&#39;operatore.
 
    >[!TIP]
    >
-   >Questo è bello perché puoi scegliere corrispondenze sfocate come &quot;inizia con&quot;.
+   >Non è male perché puoi scegliere corrispondenze sfocate come &quot;[!UICONTROL starts with]&quot;.
 
    ![](assets/image2014-9-15-15-3a16-3a50.png)
 
@@ -61,7 +61,7 @@ Una caratteristica molto interessante di Marketo Forms è la possibilità di nas
    >
    >In precedenza il campo Paese era stato convertito in un tipo di campo elenco di selezione e [tutti i paesi sono stati aggiunti come valori](/help/marketo/product-docs/demand-generation/forms/form-actions/add-a-country-picklist-to-your-form.md).
 
-1. Fai clic su **Salva**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
@@ -69,6 +69,6 @@ Ed è tutto! Ora, quando gli utenti compilano questo modulo e selezionano Stati 
 
 >[!IMPORTANT]
 >
->Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >I campi condizionali potrebbero non funzionare come previsto se i valori dei campi vengono modificati da script esterni diversi dall’API JavaScript di Forms 2.0.
