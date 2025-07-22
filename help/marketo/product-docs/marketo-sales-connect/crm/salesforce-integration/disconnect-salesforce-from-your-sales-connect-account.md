@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Disconnetti Salesforce Dall&#39;Account Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
 
-A volte potrebbe essere necessario disconnettere l&#39;account [!DNL  Salesforce] dall&#39;account [!DNL Sales Connect]. Ecco come.
+A volte potrebbe essere necessario disconnettere l&#39;account [!DNL &#x200B; Salesforce] dall&#39;account [!DNL Sales Connect]. Ecco come.
 
 ## Come disconnettersi da Salesforce come amministratore {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -21,7 +21,7 @@ A volte potrebbe essere necessario disconnettere l&#39;account [!DNL  Salesforce
 
    ![](assets/one-1.png)
 
-1. In [!UICONTROL  Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
+1. In [!UICONTROL &#x200B; Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/six-1.png)
 
@@ -31,7 +31,7 @@ A volte potrebbe essere necessario disconnettere l&#39;account [!DNL  Salesforce
 
 ## Come disconnettersi da Salesforce come utente non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. In [!DNL  Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
+1. In [!DNL &#x200B; Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 

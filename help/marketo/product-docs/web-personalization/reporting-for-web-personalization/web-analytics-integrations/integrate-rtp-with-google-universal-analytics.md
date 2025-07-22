@@ -43,6 +43,7 @@ Questo post spiega come configurare e integrare la piattaforma [!DNL Marketo Rea
    1. Seleziona **[!UICONTROL Account].**
    1. Seleziona **[!UICONTROL Property].**
    1. Selezionare **[!UICONTROL Custom Definitions]** e **[!UICONTROL Custom Dimensions]**.
+
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Aggiungi una nuova dimensione personalizzata. Fai clic su **[!UICONTROL +New Custom Dimension]**.

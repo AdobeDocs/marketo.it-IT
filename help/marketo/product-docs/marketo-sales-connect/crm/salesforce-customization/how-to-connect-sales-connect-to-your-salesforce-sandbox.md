@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->Impossibile connettere l&#39;account [!DNL  Sales Connect] a [!DNL Salesforce] quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurati di disconnetterti](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
+>Impossibile connettere l&#39;account [!DNL &#x200B; Sales Connect] a [!DNL Salesforce] quando si stabilisce una connessione alla sandbox. In caso affermativo, [assicurati di disconnetterti](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/disconnect-salesforce-from-your-sales-connect-account.md) prima di seguire i passaggi descritti in questo articolo.
 
 1. In [!DNL Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 

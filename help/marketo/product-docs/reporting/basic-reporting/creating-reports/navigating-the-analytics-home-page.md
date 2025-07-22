@@ -17,7 +17,7 @@ ht-degree: 0%
 
    ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Selezionare un tipo di report [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selezionare un tipo di report [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-27-8-3a38-3a22.png)
 

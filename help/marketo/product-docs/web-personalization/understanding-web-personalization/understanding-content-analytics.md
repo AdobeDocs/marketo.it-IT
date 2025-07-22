@@ -86,7 +86,7 @@ L’analisi aggiuntiva dei contenuti include:
 
 * **[!UICONTROL Views]**: visualizzazioni del contenuto per l&#39;ambito temporale selezionato
 * **[!UICONTROL Direct Conversions]**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
-* **[!UICONTROL Conversion Rate]****:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
+* **[!UICONTROL Conversion Rate]**&#x200B;**:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
 
 **[!UICONTROL Trends]**
 
