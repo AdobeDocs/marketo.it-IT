@@ -63,7 +63,7 @@ Questo esempio mostra un oggetto personalizzato Car, da utilizzare in una strutt
 
    >[!NOTE]
    >
-   >Puoi popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o l&#39;[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Puoi popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o l&#39;[API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 ## Creare un oggetto personalizzato per una struttura Many-to-Many (Da molti-a-molti) {#create-a-custom-object-for-a-many-to-many-structure}
 
@@ -103,7 +103,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
 
    >[!NOTE]
    >
-   >Puoi popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o l&#39;[API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api).
+   >Puoi popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o l&#39;[API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 Il passaggio successivo è la creazione dell’oggetto intermedio (vedi di seguito). Ma prima di questo, devi creare un campo a cui collegarti.
 

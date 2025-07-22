@@ -69,6 +69,6 @@ Ed è tutto! Ora, quando gli utenti compilano questo modulo e selezionano Stati 
 
 >[!IMPORTANT]
 >
->Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >I campi condizionali potrebbero non funzionare come previsto se i valori dei campi vengono modificati da script esterni diversi dall’API JavaScript di Forms 2.0.

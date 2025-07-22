@@ -47,7 +47,7 @@ Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per R
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
 Incolla il codice JavaScript nel tuo sito web nel percorso in cui desideri visualizzare il modello.
 
