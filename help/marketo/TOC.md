@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: e0e739054c6389e0a3ab638097491e6c24f5e30c
+source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
 workflow-type: tm+mt
-source-wordcount: '9296'
+source-wordcount: '9294'
 ht-degree: 2%
 
 ---
@@ -1029,8 +1029,8 @@ ht-degree: 2%
          + [Caratteristiche a confronto](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Authoring di e-mail](product-docs/email-marketing/email-designer/email-authoring.md)
          + [Authoring dei modelli e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
-         + [Documento CSS personalizzato](product-docs/email-marketing/email-designer/custom-css.md)
-         + [Documentazione sul kit del marchio](product-docs/email-marketing/email-designer/brand-kit.md)
+         + [CSS personalizzato](product-docs/email-marketing/email-designer/custom-css.md)
+         + [Kit del marchio](product-docs/email-marketing/email-designer/brand-kit.md)
          + [Test del rendering di e-mail con Litmus](product-docs/email-marketing/email-designer/test-email-rendering.md)
          + [Token Personalization](product-docs/email-marketing/email-designer/personalization-tokens.md)
          + [Utilizzare AEM Assets](product-docs/email-marketing/email-designer/aem-assets.md)
@@ -1355,11 +1355,11 @@ ht-degree: 2%
             + [Fai riferimento a te stesso in un campo dinamico](product-docs/marketo-sales-connect/templates/dynamic-fields/reference-yourself-in-a-dynamic-field.md)
    + Marketo Sales Insight {#marketo-sales-insight}
       + Azioni {#actions}
-         + [Panoramica sulla funzione Azioni approfondimenti vendite](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
+         + [Panoramica sulla funzione Azioni di Insight per le vendite](product-docs/marketo-sales-insight/actions/sales-insight-actions-feature-overview.md)
          + Guida introduttuva {#getting-started}
-            + [Guida all’onboarding degli utenti per le azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
-            + [Elenco di controllo per l’onboarding degli utenti per le azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
-            + [Guida alla configurazione dell&#39;amministratore delle azioni di Sales Insight](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
+            + [Guida all’onboarding degli utenti per le azioni di Insight per le vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.md)
+            + [Elenco di controllo per l’onboarding degli utenti nelle azioni di Insight per le vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.md)
+            + [Guida alla configurazione dell&#39;amministratore delle azioni di Insight per le vendite](product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-admin-setup-guide.md)
             + [Modifica password di vendita Marketo](product-docs/marketo-sales-insight/actions/getting-started/change-your-marketo-sales-password.md)
             + [Limiti di utilizzo prodotto](product-docs/marketo-sales-insight/actions/getting-started/product-usage-limits.md)
             + Impostazioni e-mail {#email-settings}
@@ -1398,13 +1398,13 @@ ht-degree: 2%
             + Integrazione Salesforce {#salesforce-integration}
                + [Configurare la personalizzazione dei dettagli delle attività di Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md)
                + [Collegare l&#39;account Sales Insight Actions a Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
-               + [Disconnetti Salesforce da azioni di approfondimento vendite](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
+               + [Disconnetti Salesforce Da Azioni Insight Di Vendita](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/disconnect-salesforce-from-sales-insight-actions.md)
                + [Registrazione delle risposte](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/reply-logging.md)
                + [Diagnostica Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/salesforce-diagnostics.md)
-               + [Impostare una sandbox per le azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
+               + [Impostare una sandbox per le azioni di Insight per le vendite](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md)
                + [Sincronizza attività di vendita con Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
             + Configurazione pacchetto Salesforce {#salesforce-package-configuration}
-               + [Configurazione delle azioni Sales Insight in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
+               + [Configurazione delle azioni di Sales Insight in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/sales-insight-actions-configuration-in-salesforce.md)
                + [Registrazione degli attributi dell&#39;attività di vendita in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md)
                + [Aggiungi pulsanti di azione alla vista a elenco Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md)
                + [Aggiorna il campo Tipo di attività durante la registrazione delle attività in Salesforce](product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/update-activity-type-field-when-logging-activities-to-salesforce.md)
@@ -1445,20 +1445,20 @@ ht-degree: 2%
             + [Posso tenere traccia di più destinatari con CC/BCC?](product-docs/marketo-sales-insight/actions/faq/can-i-track-multiple-recipients-with-cc-bcc.md)
             + [Domande frequenti su contenuto e file allegato](product-docs/marketo-sales-insight/actions/faq/content-and-file-attachment-faq.md)
             + [Vengono tracciate le visualizzazioni, i clic e le risposte dei destinatari elencati nelle sezioni CC e Ccn dell’e-mail?](product-docs/marketo-sales-insight/actions/faq/do-views-clicks-and-replies-from-cc-and-bcc-get-tracked.md)
-            + [Le azioni Sales Insight hanno un’app iPhone o Android?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
-            + [Come posso Inserire nell&#39;elenco Consentiti azioni di approfondimento sulle vendite sul mio server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
+            + [Le azioni di Insight per le vendite hanno un’app iPhone o Android?](product-docs/marketo-sales-insight/actions/faq/does-sales-insight-actions-have-an-iphone-or-android-app.md)
+            + [Come posso Inserire nell&#39;elenco Consentiti azioni di Insight vendite sul mio server?](product-docs/marketo-sales-insight/actions/faq/how-can-i-allowlist-sales-insight-actions-on-my-server.md)
             + [Come posso risolvere il problema relativo all’impossibilità di autenticare la richiesta durante la connessione a Salesforce?](product-docs/marketo-sales-insight/actions/faq/how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce.md)
             + [Come posso impedire le visualizzazioni automatiche?](product-docs/marketo-sales-insight/actions/faq/how-do-i-prevent-self-views.md)
             + [Come funziona il tracciamento della posizione?](product-docs/marketo-sales-insight/actions/faq/how-does-location-tracking-work.md)
             + [Sono Stato Bloccato Dal Mio Account. Che cosa devo fare?](product-docs/marketo-sales-insight/actions/faq/i-got-locked-out-of-my-account-what-do-i-do.md)
-            + [Sales Insight Actions è compatibile con Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
+            + [Le azioni Sales Insight sono compatibili con Salesforce Lightning?](product-docs/marketo-sales-insight/actions/faq/is-sales-insight-actions-compatible-with-salesforce-lightning.md)
             + [Quali Browser Sono Supportati Dalle Azioni Di Sales Insight?](product-docs/marketo-sales-insight/actions/faq/which-browsers-does-sales-insight-actions-support.md)
-            + [Quali sono i termini di servizio delle azioni Sales Insight?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
-            + [Perché nessuno dei miei contatti viene inviato alle azioni di approfondimento sulle vendite?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
+            + [Quali sono i termini di servizio delle azioni di Insight per le vendite?](product-docs/marketo-sales-insight/actions/faq/what-are-the-sales-insight-actions-terms-of-service.md)
+            + [Perché nessuno dei miei contatti viene inviato alle azioni di Sales Insight?](product-docs/marketo-sales-insight/actions/faq/why-arent-any-of-my-contacts-getting-pushed-to-sales-insight-actions.md)
             + [Perché i campi dinamici non vengono compilati?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-dynamic-fields-filling-out.md)
             + [Perché le attività di vendita e i campi attività non vengono sincronizzati con Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-arent-my-sales-activities-and-activity-fields-syncing-to-salesforce.md)
             + [Perché non è possibile eliminare un contatto?](product-docs/marketo-sales-insight/actions/faq/why-cant-i-delete-a-contact.md)
-            + [Perché non tutti i miei contatti sono stati inviati ad azioni di approfondimento sulle vendite?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
+            + [Perché non tutti i miei contatti sono stati inviati alle azioni Insight vendite?](product-docs/marketo-sales-insight/actions/faq/why-didnt-all-of-my-contacts-get-pushed-to-sales-insight-actions.md)
             + [Perché le mie e-mail vengono contrassegnate come spam?](product-docs/marketo-sales-insight/actions/faq/why-do-my-emails-get-marked-as-spam.md)
             + [Perché La Mia Campagna È Terminata?](product-docs/marketo-sales-insight/actions/faq/why-has-my-campaign-ended.md)
             + [Perché l’attività di tracciamento non viene visualizzata nell’attività di Salesforce?](product-docs/marketo-sales-insight/actions/faq/why-is-tracking-activity-not-showing-in-salesforce-activity.md)
@@ -1466,14 +1466,14 @@ ht-degree: 2%
             + [Integrazione Highspot](product-docs/marketo-sales-insight/actions/integrations/highspot-integration.md)
          + Marketo {#marketo}
             + [Concedere l’accesso a Marketo agli utenti](product-docs/marketo-sales-insight/actions/marketo/grant-marketo-access-to-users.md)
-            + [Momenti di interesse nelle azioni di approfondimento sulle vendite](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
+            + [Momenti di interesse nelle azioni Insight per le vendite](product-docs/marketo-sales-insight/actions/marketo/interesting-moments-in-sales-insight-actions.md)
             + [Rendi una campagna visibile agli utenti Sales Connect](product-docs/marketo-sales-insight/actions/marketo/make-a-marketing-campaign-visible-in-sales-insight-actions.md)
             + [Attivatori e filtri attività di vendita](product-docs/marketo-sales-insight/actions/marketo/sales-activity-triggers-and-filters.md)
-            + [Glossario delle attività Analisi vendite](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
+            + [Glossario attività azioni Insight vendite](product-docs/marketo-sales-insight/actions/marketo/sales-insight-actions-activity-glossary.md)
             + [Configurare la connessione Marketo](product-docs/marketo-sales-insight/actions/marketo/set-up-your-marketo-connection.md)
          + People {#people}
             + [Visualizzazione dettagli persona](product-docs/marketo-sales-insight/actions/people/person-detail-view.md)
-            + [Azioni di approfondimento sulle vendite e conformità ai requisiti RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
+            + [Azioni di vendita Insight e conformità ai requisiti RGPD](product-docs/marketo-sales-insight/actions/people/sales-insight-actions-and-gdpr-compliance.md)
             + Gestione dei contatti {#managing-contacts}
                + [Azioni in blocco sulle persone](product-docs/marketo-sales-insight/actions/people/managing-contacts/bulk-actions-on-people.md)
                + [Gestisci gruppi](product-docs/marketo-sales-insight/actions/people/managing-contacts/manage-groups.md)
@@ -1518,7 +1518,7 @@ ht-degree: 2%
             + [Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2011](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2011.md)
             + [Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2013](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2013.md)
             + [Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2015](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-2015.md)
-            + [Installazione e configurazione di Marketo Sales Insight in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
+            + [Installare e configurare Marketo Sales Insight in Microsoft Dynamics 365](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-365.md)
             + [Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md)
          + Configurazione e utilizzo {#setting-up-and-using}
             + [Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics](product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/setting-up-and-using/add-a-lead-contact-to-a-marketo-campaign-from-microsoft-dynamics.md)
@@ -1540,9 +1540,9 @@ ht-degree: 2%
             + [Scheda Configurazione di Marketo Sales Insight in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/marketo-sales-insight-configuration-tab-in-salesforce.md)
             + [Aggiungi scheda Marketo a Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-marketo-tab-to-salesforce.md)
             + [Pagina Sales Insight per gli amministratori di Marketo](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/sales-insight-page-for-marketo-admins.md)
-            + [Aggiungi set di autorizzazioni di Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
+            + [Aggiungi set di autorizzazioni Insight vendite](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-permission-set.md)
             + [Rimuovi l&#39;accesso a Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md)
-            + [Aggiungere l’accesso a Sales Insight ai profili](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
+            + [Aggiungere l’accesso di Sales Insight ai profili](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-sales-insight-access-to-profiles.md)
             + [Aggiungere pulsanti di azione in blocco a Salesforce Classic](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/add-bulk-action-buttons-to-salesforce-classic.md)
             + [Azioni in blocco in Salesforce Lightning](product-docs/marketo-sales-insight/msi-for-salesforce/configuration/bulk-actions-in-salesforce-lightning.md)
          + Funzioni {#features}
@@ -1554,17 +1554,17 @@ ht-degree: 2%
                + [Scegli un&#39;azione in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/choose-an-action-in-sales-insight.md)
                + [Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/configure-unsubscribe-footers-in-marketo-sales-insight.md)
                + [Blocca modello vendite](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/lock-sales-template.md)
-               + [Pubblicare un messaggio e-mail in Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
+               + [Pubblicare un messaggio e-mail su Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/publish-an-email-to-sales-insight.md)
                + [Inviare un messaggio e-mail di prova](product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)
             + Supporto lingua {#language-support}
-               + [Preparare approfondimenti sulle vendite per il supporto multilingue in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
+               + [Preparare l&#39;Insight di vendita per il supporto multilingue in Salesforce](product-docs/marketo-sales-insight/msi-for-salesforce/features/language-support/prepare-sales-insight-for-multi-lingual-support-in-salesforce.md)
             + Scheda Marketo {#marketo-tab}
                + [Elementi di maggiore rilevanza](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)
                + [Utilizzo del feed di lead](product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/using-the-lead-feed.md)
             + Scheda Configurazione MSI {#msi-configuration-tab}
-               + [Abilita RSS per approfondimenti vendite](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
+               + [Abilita RSS per Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-configuration-tab/enable-rss-for-sales-insight.md)
             + Rapporti sulle prestazioni {#performance-reports}
-               + [Rapporto sulle prestazioni delle e-mail di Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
+               + [Rapporto sulle prestazioni e-mail di Sales Insight](product-docs/marketo-sales-insight/msi-for-salesforce/features/performance-reports/sales-insight-email-performance-report.md)
             + Stelle e fiamme {#stars-and-flames}
                + [Personalizza stelle e fiamme](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/customize-stars-and-flames.md)
                + [Priorità, urgenza, punteggio relativo e elementi di maggiore rilevanza](product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md)
@@ -1594,8 +1594,8 @@ ht-degree: 2%
          + [Inviare e tenere traccia di Outlook utilizzando un modello di Marketo](product-docs/marketo-sales-insight/msi-outlook-plugin/send-and-track-from-outlook-using-a-marketo-template.md)
          + [Specificare gli amministratori del plug-in di Marketo Sales Insight](product-docs/marketo-sales-insight/msi-outlook-plugin/specify-marketo-sales-insight-plugin-admins.md)
          + [Aggiornamento del componente aggiuntivo e-mail per Marketo per Outlook](product-docs/marketo-sales-insight/msi-outlook-plugin/upgrade-your-marketo-email-add-in-for-outlook.md)
-      + [Approfondimenti sulle vendite per le integrazioni MS Dynamics non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
-      + [Informazioni sulle vendite per le integrazioni Salesforce non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
+      + [Insight di vendita per le integrazioni MS Dynamics non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-ms-dynamics-integrations.md)
+      + [Insight di vendita per integrazioni Salesforce non native](product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)
    + Marketo Sky {#marketo-sky}
       + [Comportamento previsto](product-docs/marketo-sky/expected-behavior.md)
    + Mobile Marketing {#mobile-marketing}
@@ -1846,9 +1846,9 @@ ht-degree: 2%
          + [Punteggio account](product-docs/target-account-management/setup-tam/account-score.md)
          + [Configurazione team account](product-docs/target-account-management/setup-tam/account-team-setup.md)
          + [Creare un campo personalizzato per l&#39;individuazione CRM](product-docs/target-account-management/setup-tam/create-a-custom-field-for-crm-discovery.md)
-         + [Configurare l’approfondimento dell’account](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
-         + [Panoramica del plug-in Account Insight](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
-         + [Invita gli utenti ad accedere agli approfondimenti sull’account](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
+         + [Configurare l’account Insight](product-docs/target-account-management/setup-tam/set-up-account-insight.md)
+         + [Panoramica del plug-in Insight dell’account](product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md)
+         + [Invita gli utenti ad accedere all’account Insight](product-docs/target-account-management/setup-tam/invite-users-to-access-account-insight.md)
       + Target {#target}
          + Account denominati {#named-accounts}
             + [Panoramica dell’account denominato](product-docs/target-account-management/target/named-accounts/named-account-overview.md)
@@ -1914,7 +1914,7 @@ ht-degree: 2%
             + [Integrare RTP con Google Universal Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-rtp-with-google-universal-analytics.md)
             + [Integrare con Adobe Analytics](product-docs/web-personalization/reporting-for-web-personalization/web-analytics-integrations/integrate-with-adobe-analytics.md)
       + Informazioni su Web Personalization {#understanding-web-personalization}
-         + [Informazioni sull’analisi dei contenuti](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
+         + [Informazioni su Content Analytics](product-docs/web-personalization/understanding-web-personalization/understanding-content-analytics.md)
          + [Glossario di Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-glossary.md)
          + [Panoramica di Web Personalization](product-docs/web-personalization/understanding-web-personalization/web-personalization-overview.md)
       + Utilizzo dei modelli {#using-templates}
