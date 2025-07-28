@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: fd34d8ff9e57a2c04ece1201a7b0ebaf1b2bd9c7
+source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ E-mail designer è l’innovazione più recente di Marketo Engage che offre un�
 
 +++Scopri come accedere a e-mail designer
 
-Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Aggiungi utenti {#add-users}
 
@@ -114,4 +114,4 @@ Se accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecl
 
 **Quali browser è possibile utilizzare con il nuovo Designer di posta elettronica?**
 
-Si consiglia di utilizzare Google Chrome, Apple Safari o Microsoft Edge. Il supporto completo per Mozilla Firefox sarà disponibile a breve.
+Si consiglia di utilizzare Google Chrome, Apple Safari, Microsoft Edge o Mozilla Firefox in questo momento.
