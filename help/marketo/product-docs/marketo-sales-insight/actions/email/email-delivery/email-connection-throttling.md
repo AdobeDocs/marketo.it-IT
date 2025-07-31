@@ -3,9 +3,9 @@ description: Limitazione della connessione e-mail - Documentazione di Marketo - 
 title: Limitazione della connessione e-mail
 exl-id: 02450a1e-5b30-4057-b204-19fab1a7d6c9
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: b4e5d17aa882a89b01f77f875312b0d71aa754f3
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 L&#39;integrazione dell&#39;account [!DNL Sales Connect] per l&#39;invio tramite i provider di posta elettronica [!DNL Exchange] o Gmail semplifica la configurazione e ottimizza il recapito dei messaggi di posta elettronica per le comunicazioni di vendita 1:1. Tuttavia, per mantenere i sistemi sani e gli account sicuri, Gmail e [!DNL Exchange] impongono limiti di invio delle e-mail. Tali limiti possono essere aumentati o diminuiti a discrezione dei fornitori.
 
-## Limitazione della connessione e-mail (Beta) {#email-connection-throttling-beta}
+## Panoramica {#overview}
 
 La limitazione della connessione e-mail consente agli amministratori di Sales Connect di configurare la frequenza di invio delle e-mail quando si utilizza Gmail o Exchange come canale di consegna, in modo che la frequenza con cui le e-mail vengono consegnate al provider del canale di consegna non superi i limiti imposti.
 
 Quando i limiti vengono costantemente superati, a volte questo può essere visto come un comportamento sospetto da parte del provider del canale di consegna, che causa il mancato funzionamento delle e-mail e a volte anche la disabilitazione di un account.
 
-**Note/Elementi di rilievo**
+## Aspetti da considerare {#things-to-note}
 
-* Attivato automaticamente dopo che un utente si connette a Gmail o [!DNL Exchange]
+* Attivato automaticamente quando un utente si connette a Gmail o [!DNL Exchange]
 * Può essere personalizzato se desideri aumentare o diminuire le impostazioni da consigli per soddisfare le tue esigenze
 * Limita solo le e-mail inviate tramite Gmail o [!DNL Exchange], non limita per il canale di consegna personalizzato
 * La limitazione della connessione e-mail mette in coda ogni singolo utente e-mail separatamente, in quanto ogni utente dispone di una propria connessione con il proprio provider e-mail
 
-**Configurazione delle impostazioni di limitazione della connessione e-mail**
+## Configurazione delle impostazioni di limitazione della connessione e-mail {#configuring}
 
 1. Fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Settings]**.
 
@@ -57,7 +57,7 @@ Con le modifiche salvate, tutti gli utenti riceveranno le e-mail inviate in batc
 
 ## Limiti provider e-mail {#email-provider-limits}
 
-**[!DNL Outlook 365]**
+### [!DNL Outlook 365] {#outlook}
 
 Aziende/Aziende
 
@@ -67,7 +67,7 @@ Aziende/Aziende
 
 Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#RecipientLimits).
 
-**Gmail**
+### Gmail {#gmail}
 
 * 2000 al giorno (500 per gli account di prova e contrassegnati)
 * 2 e-mail al secondo (limite API)
@@ -75,7 +75,7 @@ Ulteriori informazioni [sono disponibili qui](https://docs.microsoft.com/en-us/o
 
 Ulteriori informazioni [sono disponibili qui](https://support.google.com/a/answer/166852?hl=en).
 
-**[!DNL Microsoft Exchange Server (2010, 2013)]**
+### [!DNL Microsoft Exchange Server (2010, 2013)] {#microsoft-exchange}
 
 I limiti sono impostati dal reparto IT dell’organizzazione in quanto il server è ospitato dall’organizzazione. Per ulteriori informazioni, contattare l&#39;amministratore di rete o di sistema.
 
