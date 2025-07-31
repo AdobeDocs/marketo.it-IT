@@ -3,9 +3,9 @@ description: Libreria di risposte - Documentazione di Marketo - Documentazione d
 title: Libreria risposte
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 8114c0bc094be0555e47165b31626baceaba9ef9
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '346'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,23 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 ## Aggiungi manualmente una domanda {#manually-add-a-question}
 
-1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Assisted responses]**.
 
    ![](assets/response-library-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Libreria risposte]**.
+1. Fare clic sulla scheda **[!UICONTROL Response library]**.
 
    ![](assets/response-library-2.png)
 
-1. Fai clic su **[!UICONTROL Aggiungi domanda]**.
+1. Fai clic su **[!UICONTROL Add question]**.
 
    ![](assets/response-library-3.png)
 
-1. Inserisci la domanda e la risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Inserisci la domanda e la risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/response-library-4.png)
 
-1. Fai clic su Aggiorna e la nuova domanda viene visualizzata in alto con lo stato di &quot;[!UICONTROL Elaborazione]&quot;.
+1. Fai clic su Aggiorna e la nuova domanda viene visualizzata nella parte superiore con lo stato di &quot;[!UICONTROL Processing]&quot;.
 
    ![](assets/response-library-5.png)
 
@@ -44,19 +44,19 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
 >[!NOTE]
 >
->Per impostazione predefinita, a tutte le domande e risposte generate viene assegnato lo stato &quot;[!UICONTROL revisione necessaria]&quot;. Solo le domande e le risposte &quot;[!UICONTROL approvate]&quot; sono rese disponibili ai visitatori della chat.
+>Per impostazione predefinita, a tutte le domande e risposte generate viene assegnato lo stato &quot;[!UICONTROL need review]&quot;. Solo &quot;[!UICONTROL approved]&quot; domande e risposte sono rese disponibili ai visitatori di chat.
 
-1. Nella **[!UICONTROL libreria di risposte]**, fare clic sulla domanda desiderata.
+1. In **[!UICONTROL Response library]**, fare clic sulla domanda desiderata.
 
    ![](assets/response-library-7.png)
 
-1. Apporta le modifiche e fai clic su **[!UICONTROL Salva]**.
+1. Apportare le modifiche desiderate e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/response-library-8.png)
 
 ## Modifica e caricamento in blocco di domande/risposte {#bulk-edit-and-upload-questions-responses}
 
-Di seguito sono riportate le istruzioni su come apportare modifiche in blocco nel file Excel scaricato. Possono essere visualizzate anche nella scheda Dettagli attività del file.
+Di seguito sono riportate le istruzioni su come apportare modifiche in blocco nel [file di Excel scaricato](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/question-generation.md#download-questions-and-responses){target="_blank"}. Possono essere visualizzate anche nella scheda Dettagli attività del file.
 
 <table>
 <thead>
@@ -85,11 +85,11 @@ Di seguito sono riportate le istruzioni su come apportare modifiche in blocco ne
 </tbody>
 </table>
 
-1. Dopo aver apportato le modifiche nel file, torna alla scheda **[!UICONTROL Libreria risposte]** e fai clic su **[!UICONTROL Carica risposte]**.
+1. Dopo aver apportato le modifiche nel file, torna alla scheda **[!UICONTROL Response library]** e fai clic su **[!UICONTROL Upload responses]**.
 
    ![](assets/response-library-9.png)
 
-1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Immettere il nome dell&#39;attività applicabile. Trascina e rilascia il file o cercalo sul dispositivo e selezionalo. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/response-library-10.png)
 
