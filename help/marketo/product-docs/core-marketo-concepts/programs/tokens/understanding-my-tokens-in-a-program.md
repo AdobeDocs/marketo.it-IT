@@ -4,9 +4,9 @@ description: Informazioni sui token in un programma - Documentazione di Marketo 
 title: Informazioni sui token in un programma
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0200af9b8ce180e15c6a45c5438b8f6f1c4af588
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '422'
 ht-degree: 1%
 
 ---
@@ -41,12 +41,12 @@ Esempi:
    <td>Usa questo token per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">aggiungere un file evento calendario (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> alle e-mail e alle pagine di destinazione.</td> 
   </tr> 
   <tr> 
-   <td><p>Data <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
+   <td><p>Date <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td> 
    <td>Questo token contiene un valore di data. La data viene visualizzata come anno-mese-giorno (ad esempio, 2016-05-23).</td> 
   </tr> 
   <tr> 
    <td>Script e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td> 
-   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td> 
+   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td> 
   </tr> 
   <tr> 
    <td>Numero <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td> 
@@ -86,6 +86,10 @@ Quando crei un nuovo token, altri oggetti nella struttura possono farvi riferime
 Puoi creare variabili globali e quindi sostituirle ai livelli più bassi nella struttura.
 
 Lo spostamento di programmi e cartelle influisce anche sui token. Verificare sempre che i riferimenti non siano interrotti durante lo spostamento.
+
+>[!IMPORTANT]
+>
+>I token nidificati non sono supportati nelle [campagne batch](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md#batch-campaign){target="_blank"}.
 
 >[!NOTE]
 >
