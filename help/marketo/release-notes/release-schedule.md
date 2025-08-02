@@ -4,7 +4,7 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 4a575c96100921c69c09996c649db979ac22cd4d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 10%
@@ -26,48 +26,48 @@ ht-degree: 10%
 _Le date/funzionalità di rilascio sono soggette a modifiche_
 
 <table>
- <tbody> 
-  <tr> 
+ <tbody>
+  <tr>
    <th width="250px">del prossimo maggio (?)</th>
    <th width="250px">Data di rilascio</th>
    <th width="250px">Stato</th>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Gennaio '25</a></td>
    <td>17 gennaio 2025</td>
    <td>Spedito</td>
   </tr>
-   <tr> 
+   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Marzo 2025</a></td>
    <td>sabato 28 marzo 2025</td>
    <td>Spedito</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Aprile '25</a></td>
    <td>Aprile '25</td>
    <td>Spedito</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maggio '25</a></td>
    <td>23 maggio 2025</td>
    <td>Spedito</td>
   </tr>
-  <tr> 
+  <tr>
    <td><a href="/help/marketo/release-notes/current.md">Luglio '25</a></td>
    <td>sabato 11 luglio 2025</td>
    <td>In corso</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Agosto '25</td>
    <td>22 agosto 2025</td>
    <td>Su pianificazione</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Settembre '25</td>
    <td>19 settembre 2025</td>
    <td>Su pianificazione</td>
   </tr>
-  <tr> 
+  <tr>
    <td>Ottobre '25</td>
    <td>17 ottobre 2025</td>
    <td>Su pianificazione</td>

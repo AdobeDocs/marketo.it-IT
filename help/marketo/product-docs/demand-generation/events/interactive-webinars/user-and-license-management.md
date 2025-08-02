@@ -3,7 +3,7 @@ description: Gestione di utenti e licenze - Documentazione di Marketo - Document
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 0ab3b8075923f58a9546acff8039d67126f22bf3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -66,34 +66,34 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
 
    ![](assets/user-and-license-management-11.png)
 
-<table> 
+<table>
   <tr>
-   <td width="20%"><b>Data inizio</b></td>
+   <td width="20%"><b>Data di inizio</b></td>
    <td width="80%">Data di inizio della licenza.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Data di scadenza</b></td>
    <td width="80%">Data di scadenza della licenza.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Tipo</b></td>
    <td width="80%">Tipo di licenza acquistata. Sono disponibili tre tipi di licenza: Shared Events License, Shared Rooms License, Additional Storage License.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Capacità evento</b></td>
    <td width="80%">Il numero massimo di partecipanti che possono essere ospitati in un evento.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Eventi totali</b></td>
    <td width="80%">Numero totale di eventi per i quali è stato eseguito il provisioning con questa licenza.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Eventi utilizzati</b></td>
    <td width="80%">Numero totale di eventi completati.</td>
   </tr>
-  <tr> 
+  <tr>
    <td width="20%"><b>Capacità di archiviazione</b></td>
-   <td width="80%">Quantità di storage disponibile per l'archiviazione di registrazioni, materiale collaterale, heri images, documentazione e altre risorse.</td>
+   <td width="80%">Quantità di storage disponibile per l'archiviazione di registrazioni, materiale collaterale, immagini protagonista, documentazione e altre risorse.</td>
   </tr>
   </tbody>
 </table>
@@ -110,7 +110,7 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
 
 ## Accesso utente {#user-access}
 
-I webinar interattivi hanno la funzionalità di regolare l’utilizzo, consentendo agli utenti del Marketo Engage di creare e distribuire webinar interattivi. Tuttavia, un utente di un webinar interattivo (o non utente) potrebbe ancora avere accesso in lettura/modifica ai programmi di eventi di un webinar interattivo creati da altri utenti.
+I webinar interattivi hanno la funzionalità di regolare l’utilizzo, consentendo agli utenti di Marketo Engage di creare e distribuire webinar interattivi. Tuttavia, un utente di un webinar interattivo (o non utente) potrebbe ancora avere accesso in lettura/modifica ai programmi di eventi di un webinar interattivo creati da altri utenti.
 
 Gli utenti di Marketo che dispongono delle autorizzazioni per i webinar interattivi e sono proprietari di un particolare programma di eventi per webinar interattivi saranno in grado di eseguire tutte le funzioni del webinar interattivo relative a tale programma. Ciò include: creazione, accesso, modifica, clonazione, spostamento ed eliminazione del programma. Tuttavia, una volta che tale utente non è più un utente del webinar interattivo, il proprietario del programma sarebbe in grado di accedere al programma e spostarlo, ma non di eseguire altre funzioni.
 

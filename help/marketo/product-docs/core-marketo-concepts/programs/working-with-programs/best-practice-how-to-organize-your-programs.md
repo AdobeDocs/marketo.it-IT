@@ -4,10 +4,10 @@ description: 'Best practice: come organizzare i programmi - Documentazione di Ma
 title: 'Best practice: come organizzare i programmi'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '847'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -42,11 +42,11 @@ In Attività di marketing è necessario utilizzare le cartelle per organizzare i
 >   * Ciclo di vita
 >   * Punteggio
 >   * Gestione dati
->* Insight sulle vendite
+>* Insight di vendita
 >   * Momenti di interesse
 >   * E-mail vendite
 >   * Campagne con richiesta di vendita
->* **Archivio**
+>* **Archivia**
 >   * Archivia eventi
 >      * Archivio 2012
 >      * Archivio 2013
@@ -121,4 +121,4 @@ Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle
 
 ## Riepilogo {#summary}
 
-Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma prendi in considerazione ulteriori servizi di [esperti di Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarti per il successo.
+Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma prendi in considerazione ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarti per il successo.

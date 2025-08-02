@@ -3,10 +3,10 @@ description: NL-YYYY-MM-Newsletter - Documentazione Marketo - Documentazione del
 title: Newsletter NL-YYYY-MM
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
@@ -14,104 +14,104 @@ ht-degree: 4%
 
 In questo esempio viene inviata un’e-mail alla newsletter utilizzando un programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canale</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Stato iscrizione</th>
    <th>Comportamento di Analytics</th>
    <th>Tipo di programma</th>
-  </tr> 
-  <tr> 
-   <td>Newsletter</td> 
-   <td>01 membro 
+  </tr>
+  <tr>
+   <td>Newsletter</td>
+   <td>01 membro
 <br/>02-Coinvolto-Riuscito</td>
    <td>Inclusivo</td>
    <td>E-mail</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome modello</th>
    <th>Nome risorsa</th>
-  </tr> 
-  <tr> 
-   <td>E-mail</td> 
+  </tr>
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01 - E-mail</td>
   </tr>
-  <tr> 
-   <td>Rapporto locale</td> 
+  <tr>
+   <td>Rapporto locale</td>
    <td> </td>
    <td>Prestazioni e-mail</td>
   </tr>
-  <tr> 
-   <td>Rapporto locale</td> 
+  <tr>
+   <td>Rapporto locale</td>
    <td> </td>
    <td>Prestazioni collegamento e-mail</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>01 - Coinvolto (successo del programma)</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
-   <td>Assets - Raccoglie tutte le risorse creative 
+   <td>Assets - Raccoglie tutte le risorse creative
 <br/>(sottocartelle per e-mail)  </td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Campagne: ospita tutte le campagne intelligenti</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Rapporti</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nl-yyyy-mm-newsletter-1.png)
 
 ## I miei token inclusi {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo di token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo di token</th>
    <th>Nome token</th>
    <th>Valore</th>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regole di conflitto {#conflict-rules}

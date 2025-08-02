@@ -4,7 +4,7 @@ description: Utilizzo di azioni in blocco in  [!DNL Salesforce] Classic - Docume
 title: Utilizzo di azioni in blocco in  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '311'
 ht-degree: 0%
@@ -35,11 +35,11 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
-   a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;[!UICONTROL All Recipients]&quot; - corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead\
-   b. L&#39;elenco è visibile nel pannello sinistro denominato &quot;[!UICONTROL Bulk Compose]&quot;. Qui è possibile aggiungere/rimuovere i destinatari\
-   c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato\
-   d. Puoi visualizzare in anteprima i campi dinamici che verranno compilati nel messaggio e-mail\
-   e. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
+   a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;[!UICONTROL All Recipients]&quot; - corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
+b. L&#39;elenco è visibile nel pannello sinistro denominato &quot;[!UICONTROL Bulk Compose]&quot;. Qui è possibile aggiungere/rimuovere i destinatari
+c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
+d. Puoi visualizzare in anteprima i campi dinamici che verranno compilati nel messaggio e-mail
+e. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento
 
    ![](assets/three-4.png)
 

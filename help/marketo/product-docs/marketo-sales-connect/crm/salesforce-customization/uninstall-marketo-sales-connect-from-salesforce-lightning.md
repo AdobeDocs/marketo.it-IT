@@ -2,20 +2,20 @@
 description: Disinstallare Marketo Sales Connect da Salesforce Lightning - Documentazione Marketo - Documentazione del prodotto
 title: Disinstalla Marketo Sales Connect da Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 067525fec8a761f111433dca61278bed0b58cc2c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1192'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
 # Disinstalla Marketo Sales Connect da Salesforce Lightning {#uninstall-marketo-sales-connect-from-salesforce-lightning}
 
-Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connect dall&#39;account Salesforce dopo aver iniziato a utilizzare le azioni Sales Insight.
+Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connect dall&#39;account Salesforce una volta che si inizia a utilizzare Sales Insight Actions.
 
 ## Rimuovi campi Sales Connect dal layout della pagina {#remove-sales-connect-fields-from-page-layout}
 
-1. In Salesforce Lightning, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Configurazione**.
+1. In Salesforce Lightning, fare clic sull&#39;icona ingranaggio e selezionare **Configurazione**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-1.png)
 
@@ -37,7 +37,7 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
    >[!NOTE]
    >
-   >La vista di layout Modifica pagina non è ancora stata aggiornata in Salesforce Lightning.
+   >La vista di layout Modifica pagina non è stata ancora aggiornata in Salesforce Lightning.
 
 1. Nella console selezionare **Campi**. In Ricerca rapida, cercare &quot;MSC&quot;. Tutti i campi disattivati sono stati aggiunti al layout della pagina. Dovrai eliminarli.
 
@@ -93,7 +93,7 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
 
 ## Rimuovi pulsanti di azione in blocco Sales Connect dalla vista Elenco lead {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 
-1. In Salesforce Lightning, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Configurazione**.
+1. In Salesforce Lightning, fare clic sull&#39;icona ingranaggio e selezionare **Configurazione**.
 
    ![](assets/uninstall-salesforce-lightning-customization-package-14.png)
 
@@ -121,7 +121,7 @@ I pulsanti non dovrebbero più essere visualizzati nella vista elenco lead.
 
 ## Rimuovi configurazione MSC per contatti {#remove-msc-configuration-for-contacts}
 
-1. In Salesforce Lightning, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Configurazione**.
+1. In Salesforce Lightning, fare clic sull&#39;icona ingranaggio e selezionare **Configurazione**.
 
 1. Fare clic su **Gestione oggetti**.
 
@@ -135,7 +135,7 @@ I pulsanti non dovrebbero più essere visualizzati nella vista elenco lead.
 
 ## Rimuovi configurazione MSC per opportunità {#remove-msc-configuration-for-opportunity}
 
-1. In Salesforce Lightning, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Configurazione**.
+1. In Salesforce Lightning, fare clic sull&#39;icona ingranaggio e selezionare **Configurazione**.
 
 1. Fare clic su **Gestione oggetti**.
 
@@ -151,7 +151,7 @@ La visualizzazione dell’opportunità dispone di un solo pulsante: &quot;Invia 
 
 ## Rimuovi configurazione MSC per l&#39;account {#remove-msc-configuration-for-account}
 
-1. In Salesforce Lightning, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Configurazione**.
+1. In Salesforce Lightning, fare clic sull&#39;icona ingranaggio e selezionare **Configurazione**.
 
 1. Fare clic su **Gestione oggetti**.
 
@@ -177,7 +177,7 @@ La visualizzazione Account include un solo pulsante: &quot;Invia e-mail MSE&quot
 
 Dopo aver rimosso tutti gli oggetti dal tuo account Salesforce, segui i passaggi indicati di seguito.
 
-1. In Salesforce Lightning, fai clic sull&#39;icona a forma di ingranaggio e seleziona **Configurazione**.
+1. In Salesforce Lightning, fare clic sull&#39;icona ingranaggio e selezionare **Configurazione**.
 
 1. Nella casella Ricerca rapida immettere &quot;Classi apex&quot;.
 
@@ -297,9 +297,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Data ultimo accordo di marketing</td>
   <td>Timestamp del coinvolgimento da Marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -307,9 +307,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Descrizione ultimo coinvolgimento marketing</td>
   <td>Descrizione del progetto</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -317,9 +317,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultimo Source di coinvolgimento marketing</td>
   <td>Source del coinvolgimento nel marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -327,9 +327,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultimo tipo di coinvolgimento marketing</td>
   <td>Tipo di coinvolgimento (ad esempio, attività Web)</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -337,9 +337,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultima attività per vendite</td>
   <td>Ultima attività in uscita eseguita dal team vendite</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -347,9 +347,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultima risposta</td>
   <td>Ultima risposta e-mail all’e-mail di vendita</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -357,9 +357,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Campagna di vendita corrente</td>
   <td>Nome del registro della campagna MSC su cui si trova il contatto/lead</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -377,9 +377,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Rinuncia</td>
   <td>Campo di rinuncia</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Casella di controllo</td>
  </tr>
@@ -395,9 +395,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>Invia e-mail MSC</td>
   <td>Invia e-mail di vendita da Salesforce</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
  </tr>
  <tr>

@@ -4,9 +4,9 @@ description: Condividere segmentazioni tra aree di lavoro e partizioni - Documen
 title: Condividere segmentazioni tra aree di lavoro e partizioni
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '466'
 ht-degree: 0%
 
 ---
@@ -56,15 +56,15 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
 ## Condividere una segmentazione {#share-a-segmentation}
 
-1. Vai al **[!UICONTROL database]**.
+1. Passare a **[!UICONTROL Database]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-3.png)
 
-1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Segmentazioni]** e selezionare **[!UICONTROL Nuova cartella]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Segmentations]** e selezionare **[!UICONTROL New Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-4.png)
 
-1. Assegna un nome alla cartella da condividere tra aree di lavoro (ad esempio: Condividi segmentazioni) e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella da condividere tra aree di lavoro (ad esempio: Condividi segmentazioni) e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-5.png)
 
@@ -72,11 +72,11 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Condividi cartella]**.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Share Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 
-1. Seleziona i workspace con cui vuoi condividere la cartella. Fai clic su **[!UICONTROL Salva]**.
+1. Seleziona i workspace con cui vuoi condividere la cartella. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-8.png)
 

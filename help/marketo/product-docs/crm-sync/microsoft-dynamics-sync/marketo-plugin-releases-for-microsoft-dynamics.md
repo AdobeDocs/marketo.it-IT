@@ -4,7 +4,7 @@ description: Rilasci del plug-in di Marketo per  [!DNL Microsoft Dynamics] - Doc
 title: Versioni del plug-in di Marketo per  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 0%
@@ -33,104 +33,104 @@ La prima volta che esegui la sincronizzazione con [!DNL Microsoft Dynamics], sca
 >
 >Queste versioni funzionano sia per la versione on-premise che per la versione online di [!DNL Dynamics].
 
-<table> 
- <tbody> 
-  <tr> 
-   <th style="width:15%">Versione</th> 
-   <th style="width:20%">Data di rilascio</th> 
-   <th style="width:65%">Note</th> 
+<table>
+ <tbody>
+  <tr>
+   <th style="width:15%">Versione</th>
+   <th style="width:20%">Data di rilascio</th>
+   <th style="width:65%">Note</th>
   </tr>
-  <tr> 
-   <td>5.0.2.1.</td> 
-   <td>1/19/24</td> 
-   <td>Correzione bug: sono stati corretti alcuni bug relativi alla sincronizzazione di entità personalizzate.</td> 
-  </tr> 
-  <tr> 
-   <td>5.0.2.0</td> 
-   <td>03/24/23</td> 
-   <td>Correzione bug: sono stati corretti alcuni bug che impedivano l’unione dei contatti in MS Dynamics.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">4.2.0.0</td> 
-   <td colspan="1">10/16/20</td> 
-   <td colspan="1">Aggiunto supporto per la sincronizzazione di Campaign con MS [!DNL Dynamics].</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">4.0.0.24</td> 
-   <td colspan="1">8/22/18</td> 
-   <td colspan="1">È stato aggiunto il supporto per il lead idoneo predefinito per il processo di contatto per [!DNL Microsoft Dynamics] versione 9.x.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">4.0.0.23</td> 
-   <td colspan="1">6/27/18</td> 
-   <td colspan="1">Correzione bug: errore del processo aziendale durante il tentativo di installare le soluzioni Marketo per [!DNL Dynamics] 2013.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.24</td> 
-   <td>8/22/18</td> 
-   <td>È stato aggiunto il supporto per il processo di contatto del lead idoneo preconfigurato per Microsoft Dynamics versione 9.x.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>4.0.0.21</p></td> 
-   <td colspan="1">11/9/16</td> 
-   <td colspan="1">Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per [!DNL Dynamics] CRM On Premise 2011. </td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.22</td> 
-   <td>9/29/17</td> 
-   <td>Correzione bug: revisione interna.</td> 
-  </tr> 
-  <tr> 
-   <td><p>4.0.0.21</p></td> 
-   <td>11/9/16</td> 
-   <td>Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per Dynamics CRM On Premise 2011.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.20</td> 
-   <td>7/22/16</td> 
-   <td>Correzione bug: gli aggiornamenti del ruolo di contatto dell’opportunità non venivano acquisiti completamente.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.19</td> 
-   <td>6/28/16</td> 
-   <td>Correzione bug: al momento della creazione dell’opportunità è stata notata una transazione di aggiornamento non necessaria sul ruolo customeropportunityrole nel registro marketo.<p>Correzione bug: è stata registrata una transazione di eliminazione aggiuntiva durante l’eliminazione dell’entità customeropportunityrole.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.18</td> 
-   <td>5/31/16</td> 
-   <td>Correzione bug: l’aggiornamento e l’eliminazione degli oggetti personalizzati sono stati resi asincroni.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.17</td> 
-   <td>4/8/16</td> 
-   <td>Correzione bug: quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non avevano un filtro di sincronizzazione, il registro di creazione non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.16</td> 
-   <td>3/29/16</td> 
-   <td>Correzione bug: è stato registrato un evento Assign quando il filtro di sincronizzazione è stato disattivato.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.15</td> 
-   <td>3/3/16</td> 
-   <td>Correzione bug: il cliente non ha potuto creare un lead in CRM perché l'utente di accesso non disponeva dell'autorizzazione Configurazione Marketo.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">4.0.0.14</td> 
-   <td colspan="1">1/18/16</td> 
-   <td colspan="1">Correzione bug: sono stati creati limiti di accesso per i normali [!DNL Dynamics] utenti per risolvere i problemi di sicurezza.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1">4.0.0.13</td> 
-   <td colspan="1">12/30/15</td> 
-   <td>Correzione bug: gli aggiornamenti in [!DNL Dynamics] non venivano sincronizzati in Marketo per passaggi e immagini.</td> 
-  </tr> 
-  <tr> 
-   <td>4.0.0.12</td> 
-   <td>11/12/15</td> 
-   <td>Correzione bug: i record lead venivano sincronizzati in Marketo quando il filtro di sincronizzazione era impostato su false.</td> 
-  </tr> 
- </tbody> 
+  <tr>
+   <td>5.0.2.1.</td>
+   <td>1/19/24</td>
+   <td>Correzione bug: sono stati corretti alcuni bug relativi alla sincronizzazione di entità personalizzate.</td>
+  </tr>
+  <tr>
+   <td>5.0.2.0</td>
+   <td>03/24/23</td>
+   <td>Correzione bug: sono stati corretti alcuni bug che impedivano l’unione dei contatti in MS Dynamics.</td>
+  </tr>
+  <tr>
+   <td colspan="1">4.2.0.0</td>
+   <td colspan="1">10/16/20</td>
+   <td colspan="1">Aggiunto supporto per la sincronizzazione di Campaign con MS [!DNL Dynamics].</td>
+  </tr>
+  <tr>
+   <td colspan="1">4.0.0.24</td>
+   <td colspan="1">8/22/18</td>
+   <td colspan="1">È stato aggiunto il supporto per il lead idoneo predefinito per il processo di contatto per [!DNL Microsoft Dynamics] versione 9.x.</td>
+  </tr>
+  <tr>
+   <td colspan="1">4.0.0.23</td>
+   <td colspan="1">6/27/18</td>
+   <td colspan="1">Correzione bug: errore del processo aziendale durante il tentativo di installare le soluzioni Marketo per [!DNL Dynamics] 2013.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.24</td>
+   <td>8/22/18</td>
+   <td>È stato aggiunto il supporto per il processo di contatto del lead idoneo preconfigurato per Microsoft Dynamics versione 9.x.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>4.0.0.21</p></td>
+   <td colspan="1">11/9/16</td>
+   <td colspan="1">Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per [!DNL Dynamics] CRM On Premise 2011. </td>
+  </tr>
+  <tr>
+   <td>4.0.0.22</td>
+   <td>9/29/17</td>
+   <td>Correzione bug: revisione interna.</td>
+  </tr>
+  <tr>
+   <td><p>4.0.0.21</p></td>
+   <td>11/9/16</td>
+   <td>Correzione bug: il plug-in non ha sottoscritto eventi che acquisiscono la modifica dello stato dell’oggetto personalizzato. Questa correzione è specifica per Dynamics CRM On Premise 2011.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.20</td>
+   <td>7/22/16</td>
+   <td>Correzione bug: gli aggiornamenti del ruolo di contatto dell’opportunità non venivano acquisiti completamente.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.19</td>
+   <td>6/28/16</td>
+   <td>Correzione bug: al momento della creazione dell’opportunità è stata notata una transazione di aggiornamento non necessaria sul ruolo customeropportunityrole nel registro marketo.<p>Correzione bug: è stata registrata una transazione di eliminazione aggiuntiva durante l’eliminazione dell’entità customeropportunityrole.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.18</td>
+   <td>5/31/16</td>
+   <td>Correzione bug: l’aggiornamento e l’eliminazione degli oggetti personalizzati sono stati resi asincroni.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.17</td>
+   <td>4/8/16</td>
+   <td>Correzione bug: quando il lead aveva un filtro di sincronizzazione impostato su NO e l’opportunità e il contatto non avevano un filtro di sincronizzazione, il registro di creazione non veniva generato per il contatto e l’opportunità quando il lead era qualificato.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.16</td>
+   <td>3/29/16</td>
+   <td>Correzione bug: è stato registrato un evento Assign quando il filtro di sincronizzazione è stato disattivato.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.15</td>
+   <td>3/3/16</td>
+   <td>Correzione bug: il cliente non ha potuto creare un lead in CRM perché l'utente di accesso non disponeva dell'autorizzazione Configurazione Marketo.</td>
+  </tr>
+  <tr>
+   <td colspan="1">4.0.0.14</td>
+   <td colspan="1">1/18/16</td>
+   <td colspan="1">Correzione bug: sono stati creati limiti di accesso per i normali [!DNL Dynamics] utenti per risolvere i problemi di sicurezza.</td>
+  </tr>
+  <tr>
+   <td colspan="1">4.0.0.13</td>
+   <td colspan="1">12/30/15</td>
+   <td>Correzione bug: gli aggiornamenti in [!DNL Dynamics] non venivano sincronizzati in Marketo per passaggi e immagini.</td>
+  </tr>
+  <tr>
+   <td>4.0.0.12</td>
+   <td>11/12/15</td>
+   <td>Correzione bug: i record lead venivano sincronizzati in Marketo quando il filtro di sincronizzazione era impostato su false.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

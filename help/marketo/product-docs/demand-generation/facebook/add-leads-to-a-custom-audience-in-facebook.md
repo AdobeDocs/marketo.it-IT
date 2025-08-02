@@ -4,7 +4,7 @@ description: Aggiungere lead a un pubblico personalizzato in Facebook - Document
 title: Aggiungere lead a un pubblico personalizzato in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Hai già un pubblico personalizzato in [!DNL Facebook] e vuoi aggiungervi altri 
 
    >[!NOTE]
    >
-   >**[!UICONTROL Add leads to audience]**: saranno disponibili solo [!DNL Facebook] tipi di pubblico con un sottotipo personalizzato.\
+   >**[!UICONTROL Add leads to audience]**: saranno disponibili solo [!DNL Facebook] tipi di pubblico con un sottotipo personalizzato.
    >**[!UICONTROL Remove leads from audience]**: rimuove i lead nell&#39;elenco statico o smart da un pubblico [!DNL Facebook].
 
 1. Al termine, lo stato viene aggiornato.

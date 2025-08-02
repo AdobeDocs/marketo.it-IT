@@ -4,9 +4,9 @@ description: Modificare il messaggio "Visualizza come pagina web" - Documentazio
 title: Modifica il messaggio "Visualizza come pagina web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -21,11 +21,11 @@ Se devi modificare il testo &quot;[Visualizza come pagina Web](/help/marketo/pro
 
 ## Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message-1}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Fai clic su **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 
@@ -37,7 +37,7 @@ Se devi modificare il testo &quot;[Visualizza come pagina Web](/help/marketo/pro
    >
    >La seconda parte `##MKT_TOK##` è il cookie [!UICONTROL munchkin] di quella persona. Si assicura che vengano cookie in modo appropriato quando fanno clic sul collegamento.
 
-1. Modifica le versioni **[!UICONTROL Visualizza come HTML di pagine Web]** e **[!UICONTROL Visualizza come testo di pagine Web]** e fai clic su **[!UICONTROL Salva modifiche]**.
+1. Modifica le versioni **[!UICONTROL View as Web Page HTML]** e **[!UICONTROL View as Web Page Text]** e fai clic su **[!UICONTROL Save Changes]**.
 
    ![](assets/edit-the-view-as-web-page-message-3.png)
 
@@ -52,13 +52,13 @@ Eccola qui. Invia e-mail di test per garantire la formattazione.
 
 ## Testo predefinito &quot;Visualizza come pagina Web&quot; {#default-view-as-web-page-text}
 
-Se hai bisogno di ripristinare il sistema predefinito &quot;[!UICONTROL Visualizza come pagina Web]&quot;, copia/incolla quanto segue:
+Se è necessario ripristinare il sistema predefinito &quot;[!UICONTROL View as Web Page]&quot;, copiare/incollare quanto segue:
 
-**[!UICONTROL Visualizza come Web Page HTML]**:
+**[!UICONTROL View as Web Page HTML]**:
 
 `<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 
-**[!UICONTROL Visualizza come testo pagina Web]**:
+&quot;**[!UICONTROL View as Web Page Text]**&quot;
 
 Per visualizzare questa e-mail come pagina Web, vai al seguente indirizzo:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`

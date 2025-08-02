@@ -4,7 +4,7 @@ description: Abilitare i gruppi di campi personalizzati per l’analisi delle pr
 title: Abilita gruppi di campi personalizzati per l'analisi delle prestazioni del modello (lead)
 exl-id: 417fd74f-d8f5-477b-b633-0fdfdd68b22b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -17,27 +17,27 @@ ht-degree: 0%
 >
 >Suddividere i campi standard o personalizzati in gruppi per la generazione di rapporti tramite l&#39;Organizer campi in Marketo. Per informazioni dettagliate, vedere [Creare gruppi di campi personalizzati tramite l&#39;Organizer campi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/field-organizers/create-custom-field-groups-using-the-field-organizer.md).
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="3" rowspan="1"><p align="center"><strong>In che modo l’abilitazione di un gruppo di campi personalizzato influisce su più aree di analisi in Revenue Cycle Explorer?</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Cosa succede quando...?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Effetti sull'area <span class="uicontrol">Analisi prestazioni modello (lead)</span></strong></p></td> 
-   <td colspan="1" rowspan="1"><p><strong>Effetti sulle aree Analisi lead, Analisi campagna e Analisi opportunità</strong></p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Cosa succede quando si abilita un gruppo di campi personalizzato associato a un campo cliente potenziale o aziendale standard?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Il gruppo di campi personalizzato è abilitato per la generazione di rapporti nell'area <span class="uicontrol">Analisi prestazioni modello (lead)</span></p></td> 
-   <td colspan="1" rowspan="1"><p>Nessun impatto</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Cosa succede quando si abilita un gruppo di campi personalizzato associato a un campo personalizzato della persona o dell’azienda?</strong></p></td> 
-   <td colspan="1" rowspan="1"><p>Il gruppo di campi personalizzato è abilitato per la generazione di rapporti nell'area <span class="uicontrol">Analisi prestazioni modello (lead)</span></p></td> 
-   <td colspan="1" rowspan="1"><p>Il campo personalizzato è abilitato per la generazione di rapporti nelle aree Analisi lead, Analisi campagna e Analisi opportunità.</p><p><strong>NOTA:</strong> i gruppi di campi personalizzati NON sono supportati in queste aree di analisi, pertanto le associazioni dei gruppi non vengono visualizzate in Gestione cicli di ricavo.<em>solo</em> il campo personalizzato.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="3" rowspan="1"><p align="center"><strong>In che modo l’abilitazione di un gruppo di campi personalizzato influisce su più aree di analisi in Revenue Cycle Explorer?</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Cosa succede quando...?</strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Effetti sull'area <span class="uicontrol">Analisi prestazioni modello (lead)</span></strong></p></td>
+   <td colspan="1" rowspan="1"><p><strong>Effetti sulle aree Analisi lead, Analisi campagna e Analisi opportunità</strong></p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Cosa succede quando si abilita un gruppo di campi personalizzato associato a un campo cliente potenziale o aziendale standard?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>Il gruppo di campi personalizzato è abilitato per la generazione di rapporti nell'area <span class="uicontrol">Analisi prestazioni modello (lead)</span></p></td>
+   <td colspan="1" rowspan="1"><p>Nessun impatto</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Cosa succede quando si abilita un gruppo di campi personalizzato associato a un campo personalizzato della persona o dell’azienda?</strong></p></td>
+   <td colspan="1" rowspan="1"><p>Il gruppo di campi personalizzato è abilitato per la generazione di rapporti nell'area <span class="uicontrol">Analisi prestazioni modello (lead)</span></p></td>
+   <td colspan="1" rowspan="1"><p>Il campo personalizzato è abilitato per la generazione di rapporti nelle aree Analisi lead, Analisi campagna e Analisi opportunità.</p><p><strong>NOTA:</strong> i gruppi di campi personalizzati NON sono supportati in queste aree di analisi, pertanto le associazioni dei gruppi non vengono visualizzate in Gestione cicli di ricavo.<em>solo</em> il campo personalizzato.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Per abilitare un gruppo di campi personalizzato per il reporting nell&#39;area [!UICONTROL Model Performance Analysis (Leads)], eseguire la procedura seguente.

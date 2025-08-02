@@ -5,20 +5,20 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 7a847ece020ea0c0001241abf8e49b9eadf8edce
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '592'
+source-wordcount: '590'
 ht-degree: 0%
 
 ---
 
 # Community Adobe Marketo Engage {#marketo-engage-community}
 
-La [community di Adobe Marketo Engage](https://nation.marketo.com/) (nota anche come nazione marketing) è il luogo in cui si possono trovare ulteriori informazioni sull&#39;istanza di Marketo Engage da altri utenti e da dipendenti Marketo. Prima di iniziare, soffermati a conoscere le [linee guida per la community](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
+La [community di Adobe Marketo Engage](https://nation.marketo.com/) (nota anche come nazione di marketing) è il luogo in cui si possono trovare ulteriori informazioni sull&#39;istanza di Marketo Engage da altri utenti e dai dipendenti di Marketo. Prima di iniziare, soffermati a conoscere le [linee guida per la community](https://nation.marketo.com/t5/community-guidelines/ct-p/community-guidelines).
 
 ## Registra il tuo nome utente {#register-your-username}
 
-1. Accedi all’istanza del Marketo Engage.
+1. Accedi all’istanza di Marketo Engage.
 
 1. In Il mio Marketo, fai clic sul riquadro Community.
 
@@ -34,7 +34,7 @@ SCHERMATA
 
 ## Configurare il profilo {#set-up-your-profile}
 
-Dopo aver effettuato l&#39;accesso a Marketing Nation, fai clic sull&#39;icona dell&#39;avatar predefinito e seleziona **[!UICONTROL Impostazioni personali]** per aggiornare le preferenze, modificare la foto dell&#39;avatar, i tag di controllo e altro ancora.
+Dopo aver effettuato l&#39;accesso a Marketing Nation, fai clic sull&#39;icona avatar predefinita e seleziona **[!UICONTROL My settings]** per aggiornare le tue preferenze, modificare la foto dell&#39;avatar, i tag di controllo e altro ancora.
 
 SCHERMATA
 
@@ -46,7 +46,7 @@ SCHERMATA
 
 >[!TIP]
 >
->Per risultati più ampi, utilizza una ricerca mirata per parole chiave invece che per code lunghe (ad esempio, cerca &quot;Dynamic Chat&quot; invece di &quot;Come posso aggiungere un agente nel Dynamic Chat&quot;)
+>Per risultati più ampi, utilizza una ricerca mirata per parole chiave invece che per code lunghe (ad esempio, cerca &quot;Dynamic Chat&quot; invece di &quot;Come posso aggiungere un agente in Dynamic Chat&quot;)
 
 ## Invia una domanda {#submit-a-question}
 
@@ -56,13 +56,13 @@ SCHERMATA
 
 ## Leggi post di blog {#read-blog-posts}
 
-Questa sezione contiene tutte le informazioni utili fornite sia dagli utenti del Marketo Engage (inclusi diversi campioni) che dai dipendenti Marketo. Per ulteriori informazioni, lasciare i commenti in basso.
+Questa sezione contiene tutte le informazioni utili fornite dagli utenti di Marketo Engage (inclusi diversi campioni) e dai dipendenti di Marketo. Per ulteriori informazioni, lasciare i commenti in basso.
 
 SCHERMATA
 
 ## Invia un’idea {#submit-an-idea}
 
-Se ti viene un&#39;idea che pensi possa migliorare il Marketo Engage, inviala in questa sezione. Puoi anche votare sulle idee esistenti.
+Se ti viene in mente un&#39;idea che potrebbe migliorare Marketo Engage, inviala in questa sezione. Puoi anche votare sulle idee esistenti.
 
 SCHERMATA
 
@@ -78,11 +78,11 @@ Testo
 
 SCHERMATA
 
-## Unione di sottoscrizioni di Marketo Engage {#merging-marketo-engage-subscriptions}
+## Unione di sottoscrizioni Marketo Engage {#merging-marketo-engage-subscriptions}
 
 >[!NOTE]
 >
->Questo è applicabile solo a coloro che hanno più abbonamenti al Marketo Engage e creato inavvertitamente più profili al momento dell’accesso alla community di Marketing Nation.
+>Questo è applicabile solo a coloro che hanno più abbonamenti Marketo Engage e creato inavvertitamente più profili al momento dell’accesso alla community della nazione di marketing.
 
 Segui i passaggi seguenti per unire la cronologia tra più profili della community. Si consiglia di sovrascrivere il profilo community con meno attività community, in quanto i dati di profilo sovrascritti non possono essere recuperati.
 
@@ -91,11 +91,11 @@ Invia un&#39;e-mail a `ccare@marketo.com` per richiedere che i dati dei diversi 
 Nella richiesta specificare i seguenti dettagli:
 
 * Indirizzo e-mail aziendale
-* L&#39;URL del profilo community principale associato all&#39;abbonamento di produzione del Marketo Engage
+* L&#39;URL principale del profilo community associato all&#39;abbonamento alla produzione Marketo Engage
 * L’URL del profilo community da sovrascrivere e unire.
 
 Il nostro team community unirà i profili della community in 4-6 giorni lavorativi. Una volta completato, visualizzerai la cronologia del coinvolgimento nel profilo principale della community al momento dell’accesso. In caso contrario, esci dal tuo account e accedi di nuovo per confermare.
 
 <br>
 
-Benvenuto nel Marketo Engage, e divertiti a esplorare la nazione del marketing!
+Benvenuti in Marketo Engage e divertiti ad esplorare la nazione del marketing!

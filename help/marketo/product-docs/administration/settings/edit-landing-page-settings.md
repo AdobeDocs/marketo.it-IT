@@ -4,10 +4,10 @@ description: Modifica impostazioni pagina di destinazione - Documentazione di Ma
 title: Modifica impostazioni pagina di destinazione
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 43565104a7f6512d2f99eae6bc47e1ae048b2231
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 1%
+source-wordcount: '203'
+ht-degree: 2%
 
 ---
 
@@ -19,15 +19,15 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 
-1. Fai clic su **[!UICONTROL Pagine di destinazione]**.
+1. Fai clic su **[!UICONTROL Landing Pages]**.
 
    ![](assets/edit-landing-page-settings-2.png)
 
-1. Nella sezione **[!UICONTROL Pagine di destinazione]**, fai clic su **[!UICONTROL Modifica]**.
+1. Nella sezione **[!UICONTROL Landing Pages]**, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/edit-landing-page-settings-3.png)
 
@@ -37,21 +37,21 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 
    | Termine | Definizione |
    |---|---|
-   | [!UICONTROL Nome di dominio per le pagine di destinazione] | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che viene assegnato alle persone per le pagine di destinazione. In `https://go.yourCompany.com`, ad esempio, la parola &quot;go&quot; è il CNAME. Si possono avere più, ma la maggior parte delle persone usa solo quello. |
-   | [!UICONTROL Pagina di fallback] | Questo è il percorso da seguire se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
-   | [!UICONTROL Home page] | Immetti l’URL del sito aziendale. |
+   | [!UICONTROL Domain name for landing pages] | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che viene assegnato alle persone per le pagine di destinazione. In `https://go.yourCompany.com`, ad esempio, la parola &quot;go&quot; è il CNAME. Si possono avere più, ma la maggior parte delle persone usa solo quello. |
+   | [!UICONTROL Fallback page] | Questo è il percorso da seguire se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Homepage] | Immetti l’URL del sito aziendale. |
 
-1. Selezionare la casella di controllo **[!UICONTROL Precompilazione modulo]** per consentire ai moduli di precompilare le informazioni per le persone note (ricette). Deseleziona per bloccare.
+1. Selezionare la casella di controllo **[!UICONTROL Form Prefill]** per consentire ai moduli di precompilare le informazioni per le persone note (con cookie). Deseleziona per bloccare.
 
    ![](assets/edit-landing-page-settings-5.png)
 
    >[!NOTE]
    >
-   >Se si desidera che il tag di precompilazione `<script>` venga visualizzato alla fine del tag `<head>` nel codice, selezionare la casella **[!UICONTROL Inserisci script di precompilazione alla fine dell&#39;intestazione]**. Lascia deselezionata questa opzione per visualizzarla all’inizio.
+   >Se si desidera che il tag di precompilazione `<script>` venga visualizzato alla fine del tag `<head>` nel codice, selezionare la casella **[!UICONTROL Inject Prefill Script at End of Head]**. Lascia deselezionata questa opzione per visualizzarla all’inizio.
    >
-   >Selezionare **[!UICONTROL Rimuovi collegamenti favicon predefiniti]** per impedire a Marketo di inserire collegamenti favicon nel codice.
+   >Selezionare **[!UICONTROL Remove default favicon links]** per impedire a Marketo di inserire collegamenti favicon nel codice.
 
-1. Dopo aver effettuato le selezioni, fai clic su **[!UICONTROL Salva]**.
+1. Dopo aver effettuato le selezioni, fare clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-landing-page-settings-6.png)
 

@@ -4,7 +4,7 @@ description: Modificare un intervallo di tempo per la generazione del rapporto -
 title: Modificare un intervallo di tempo del rapporto
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Modifica il periodo di tempo coperto dal rapporto, per concentrarti su un orario
    >
    >Per impostare date specifiche, selezionare **[!UICONTROL Custom]** dal menu a discesa e immettere le date nei campi **[!UICONTROL From]** e **[!UICONTROL To]** del calendario.
 
-   Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare il report per l&#39;intervallo di tempo selezionato.\
+   Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare il report per l&#39;intervallo di tempo selezionato.
    ![](assets/image2017-3-27-9-3a59-3a1.png)
 
    >[!MORELIKETHIS]

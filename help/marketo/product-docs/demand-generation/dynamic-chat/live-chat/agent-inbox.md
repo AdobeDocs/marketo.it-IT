@@ -3,7 +3,7 @@ description: Casella in entrata agente - Documentazione Marketo - Documentazione
 title: Casella in entrata agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Gli agenti possono terminare manualmente una sessione semplicemente facendo clic
 
 >[!NOTE]
 >
->Questa funzione fa parte dell’intelligenza artificiale generativa, disponibile tramite l’abbonamento Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Questa funzione fa parte dell’intelligenza artificiale generativa, disponibile tramite l’abbonamento a Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 Le scelte rapide, basate sulla [libreria di risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di IA generativa, sono un ottimo modo per ottenere aiuto in tempo reale durante le chat con un visitatore. Digitare una barra (`/`) nella casella di testo e scegliere `ask` o `search`.
 
@@ -120,7 +120,7 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 
 >[!NOTE]
 >
->Questa funzione fa parte dell’intelligenza artificiale generativa, disponibile tramite l’abbonamento Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Questa funzione fa parte dell’intelligenza artificiale generativa, disponibile tramite l’abbonamento a Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 Riepilogo conversazione genera un riepilogo rapido in tempo reale, inclusi gli argomenti in cui il visitatore ha espresso interesse. È disponibile in basso a destra in ogni schermata di chat.
 
@@ -128,4 +128,4 @@ Riepilogo conversazione genera un riepilogo rapido in tempo reale, inclusi gli a
 
 >[!NOTE]
 >
->Un riepilogo conversazioni completato si trova anche nel registro attività del record persona del visitatore nel database del Marketo Engage.
+>Un riepilogo conversazioni completato è disponibile anche nel registro attività del record persona del visitatore nel database di Marketo Engage.

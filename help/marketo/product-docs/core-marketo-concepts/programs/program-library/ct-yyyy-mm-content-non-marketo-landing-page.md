@@ -3,139 +3,139 @@ description: Pagina di destinazione CT-YYY-MM-Content Non-Marketo - Documentazio
 title: Pagina di destinazione CT-YYY-MM-Content non-Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
 # Pagina di destinazione CT-YYY-MM-Content non-Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
 
-Questo è un esempio di un programma per contenuti con un modulo Marketo Engage per scaricare contenuti su una pagina di destinazione non appartenente al Marketo Engage utilizzando un programma predefinito del Marketo Engage. Questo programma è concepito per funzionare con un modulo di Marketo Engage incorporato nel sito Web. Il collegamento all’offerta o al contenuto può essere inviato tramite e-mail di ringraziamento.
+Questo è un esempio di un programma per contenuti con un modulo Marketo Engage per scaricare contenuti su una pagina di destinazione non Marketo Engage utilizzando un programma predefinito di Marketo Engage. Questo programma è destinato a funzionare con un modulo Marketo Engage incorporato nel sito Web. Il collegamento all’offerta o al contenuto può essere inviato tramite e-mail di ringraziamento.
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canale</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Stato iscrizione</th>
    <th>Comportamento di Analytics</th>
    <th>Tipo di programma</th>
-  </tr> 
-  <tr> 
-   <td>Contenuto web</td> 
-   <td>01 membro 
+  </tr>
+  <tr>
+   <td>Contenuto web</td>
+   <td>01 membro
 <br/>02-Coinvolto-Riuscito</td>
    <td>Inclusivo</td>
    <td>Predefinito</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome modello</th>
    <th>Nome risorsa</th>
-  </tr> 
-  <tr> 
-   <td>E-mail</td> 
+  </tr>
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
-  <tr> 
-   <td>Modulo</td> 
+  <tr>
+   <td>Modulo</td>
    <td> </td>
    <td>Modulo di registrazione contenuto FM (risorsa globale in Design Studio)</td>
   </tr>
-  <tr> 
-   <td>Rapporto locale</td> 
+  <tr>
+   <td>Rapporto locale</td>
    <td> </td>
    <td>Prestazioni e-mail</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>00-Acquisizione programma</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>Modulo compilato da 01</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>02-Coinvolto (programma di successo)</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
-   <td>Assets - ospita tutte le risorse creative 
+   <td>Assets - ospita tutte le risorse creative
 <br/>(sottocartelle per e-mail e pagine di destinazione)  </td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Campagne: ospita tutte le campagne Smart</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Rapporti</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/ct-yyyy-mm-content-non-marketo-landing-page-1.png)
 
 ## I miei token inclusi {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo di token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo di token</th>
    <th>Nome token</th>
    <th>Valore</th>
-  </tr> 
-  <tr> 
-   <td>Testo</td> 
+  </tr>
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Content-Title}}</code></td>
    <td><code><--My Content Title Here--></code></td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Content-Type}}</code></td>
    <td><code><--My Content Type Here--></code></td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Content-URL}}</code></td>
    <td>my.ContentURL?without=http://</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regole di conflitto {#conflict-rules}

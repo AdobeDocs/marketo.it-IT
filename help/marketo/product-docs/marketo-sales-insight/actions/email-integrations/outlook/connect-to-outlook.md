@@ -2,7 +2,7 @@
 description: Connettersi a Outlook - Documentazione di Marketo - Documentazione del prodotto
 title: Connetti a Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '485'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Connetti a Outlook {#connect-to-outlook}
 
-Scopri come collegare l’account Sales Insight Actions con Outlook.
+Scopri come collegare l’account Sales Insight Actions a Outlook.
 
 >[!NOTE]
 >
@@ -45,15 +45,15 @@ La connessione a Outlook ti consente di ricevere il tracciamento delle risposte,
 
    ![](assets/connect-to-outlook-6.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Anche noto come Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Anche noto come Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Include Exchange 2013 e 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td>
+      <td>Include Exchange 2013 e 2016</td>
      </tr>
     </tbody>
    </table>
@@ -62,7 +62,7 @@ La connessione a Outlook ti consente di ricevere il tracciamento delle risposte,
    >
    >Al momento, Marketo non supporta gli account ibridi di Exchange.
 
-1. Fare clic su **OK**.
+1. Fai clic su **OK**.
 
    ![](assets/connect-to-outlook-7.png)
 
@@ -108,15 +108,15 @@ La connessione a Exchange On-Premise ti consente di ricevere il tracciamento del
 
    ![](assets/connect-to-outlook-15.png)
 
-   <table> 
+   <table>
     <tbody>
      <tr>
-      <td><strong>Outlook Online</strong></td> 
-      <td>Anche noto come Exchange Online</td> 
+      <td><strong>Outlook Online</strong></td>
+      <td>Anche noto come Exchange Online</td>
      </tr>
      <tr>
-      <td><strong>Exchange On-Premise</strong></td> 
-      <td>Include Exchange 2013 e 2016</td> 
+      <td><strong>Exchange On-Premise</strong></td>
+      <td>Include Exchange 2013 e 2016</td>
      </tr>
     </tbody>
    </table>
@@ -146,7 +146,7 @@ La connessione a Exchange On-Premise ti consente di ricevere il tracciamento del
 A seconda delle preferenze del team IT e della configurazione corrente, è consigliabile consultare il team IT per informazioni su come concedere l&#39;accesso. Di seguito sono riportati alcuni articoli che possono contribuire a guidare la conversazione.
 
 * Consenso globale: [App integrate e Azure AD per amministratori di Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/integrated-apps-and-azure-ads?view=o365-worldwide){target="_blank"}
-* Consenso utente: [Configura il consenso degli utenti alle applicazioni](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&amp;pivots=portal){target="_blank"}
-* Consenso amministratore: [Configura il flusso di lavoro del consenso amministratore](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
-* Attivazione o disattivazione del consenso utente: [Gestione del consenso degli utenti alle app in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&amp;view=o365-worldwide){target="_blank"}
+* Consenso utente: [Configura il consenso degli utenti alle applicazioni](https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal&pivots=portal){target="_blank"}
+* Consenso amministratore: [Configura il flusso di lavoro del consenso amministratore](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
+* Attivazione o disattivazione del consenso utente: [Gestione del consenso degli utenti alle app in Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/user-consent?source=recommendations&view=o365-worldwide){target="_blank"}
 * Gestione con Microsoft Defender: [Gestione app OAuth](https://learn.microsoft.com/en-us/defender-cloud-apps/manage-app-permissions){target="_blank"}

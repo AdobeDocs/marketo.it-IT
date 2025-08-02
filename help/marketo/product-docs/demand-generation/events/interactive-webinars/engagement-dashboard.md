@@ -3,9 +3,9 @@ description: Dashboard di coinvolgimento - Documentazione di Marketo - Documenta
 title: Dashboard di coinvolgimento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1743'
+source-wordcount: '1700'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Visualizza il coinvolgimento per i seguenti tipi di sessioni in un webinar inter
 
 ## Visualizzare il dashboard {#view-the-dashboard}
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -33,7 +33,7 @@ Visualizza il coinvolgimento per i seguenti tipi di sessioni in un webinar inter
 
    ![](assets/engagement-dashboard-2.png)
 
-1. In Panoramica, fare clic su **[!UICONTROL Visualizza dashboard di coinvolgimento]**.
+1. In Panoramica, fare clic su **[!UICONTROL View Engagement Dashboard]**.
 
    ![](assets/engagement-dashboard-3.png)
 
@@ -103,7 +103,7 @@ Questa interfaccia fornisce una vista consolidata delle prestazioni dell’event
 
 Offre una panoramica delle prestazioni di un evento durante una sessione live. La panoramica include metriche chiave, coinvolgimento nel tempo e interazioni dei partecipanti. Aiuta gli organizzatori a valutare il successo dell’evento e a identificare aree di miglioramento.
 
-Dal pannello a sinistra, seleziona **[!UICONTROL Coinvolgimento]** per visualizzare le prestazioni della sessione live. **[!UICONTROL Fai clic su Riepilogo coinvolgimento (PDF)]** per scaricare il riepilogo delle prestazioni della sessione live. La panoramica fornisce dati in diverse sezioni.
+Dal pannello a sinistra, seleziona **[!UICONTROL Engagement]** per visualizzare le prestazioni della sessione live. **[!UICONTROL Click Engagement summary (PDF)]** per scaricare il riepilogo delle prestazioni della sessione live. La panoramica fornisce dati in diverse sezioni.
 
 ![](assets/engagement-dashboard-5.png)
 
@@ -150,7 +150,7 @@ Passando il puntatore del mouse sul grafico, puoi visualizzare le seguenti infor
 * Punteggio medio di coinvolgimento in quel momento.
 * Numero di partecipanti impegnati in quel momento.
 * Layout del coinvolgimento in quel momento.
-* Selezionare **[!UICONTROL Visualizza l&#39;istante in registrazione]** per visualizzare l&#39;istante in cui il coinvolgimento è stato alto o basso.
+* Selezionare **[!UICONTROL View instant in recording]** per visualizzare l&#39;istante nella registrazione in cui il coinvolgimento è stato alto o basso.
 * Punteggio medio di coinvolgimento (%) nel tempo nella sessione
 * Partecipazione nel tempo durante la sessione
 * La partecipazione a diversi layout di webinar viene mostrata quando diversi layout sono stati utilizzati all’interno della stanza durante l’evento. Aiuta a correlare l&#39;aumento e la diminuzione del coinvolgimento in diversi layout.
@@ -161,28 +161,28 @@ Passando il puntatore del mouse sul grafico, puoi visualizzare le seguenti infor
 
 ![](assets/engagement-dashboard-8.png)
 
-Seleziona **[!UICONTROL Vai alle interazioni]** per visualizzare le risposte dai sondaggi, dalle metriche di Controllo qualità e dalle reazioni dei partecipanti durante la sessione. Scopri in che modo i partecipanti vengono coinvolti nei diversi pod dei rapporti sulle interazioni e scarica i rapporti sulle interazioni dalla sezione seguente.
+Selezionare **[!UICONTROL Go to interactions]** per visualizzare le risposte dai sondaggi, dalle metriche di Controllo qualità e dalle reazioni dei partecipanti durante la sessione. Scopri in che modo i partecipanti vengono coinvolti nei diversi pod dei rapporti sulle interazioni e scarica i rapporti sulle interazioni dalla sezione seguente.
 
 ### Interazioni {#interactions}
 
 Visualizzare il modo in cui i partecipanti interagiscono e interagiscono nella sessione da Interactions. Monitora risposte a sondaggi, metriche di controllo qualità, reazioni dei partecipanti e collegamenti e file rilasciati dai rispettivi pod. Gli host possono anche scaricare i rapporti di interazione di questi pod per una migliore analisi. Analizzando queste interazioni, puoi identificare le tendenze e adattare le loro strategie per incoraggiare un ambiente più interattivo e coinvolgente.
 
-Dal pannello a sinistra, seleziona **[!UICONTROL Interazioni]** per visualizzare il modo in cui i partecipanti vengono coinvolti tra i pod.
+Dal pannello a sinistra, selezionare **[!UICONTROL Interactions]** per visualizzare il modo in cui i partecipanti vengono coinvolti tra i pod.
 
 ![](assets/engagement-dashboard-9.png)
 
-Seleziona la scheda **[!UICONTROL Sondaggi]** dalla barra dei menu per visualizzare le domande e le risposte aggiunte al sondaggio. Questa scheda mostra le seguenti informazioni:
+Selezionare la scheda **[!UICONTROL Polls]** dalla barra dei menu per visualizzare le domande e le risposte aggiunte al sondaggio. Questa scheda mostra le seguenti informazioni:
 
-* Seleziona **[!UICONTROL Rapporto sondaggio (CSV)]** per scaricare il rapporto per le interazioni nel pod di sondaggio.
+* Selezionare **[!UICONTROL Poll report (CSV)]** per scaricare il report per le interazioni nel pod di polling.
 * Domanda di sondaggio e relativo tipo.
 * Numero di risposte e periodo durante il quale il sondaggio è stato aperto e attivato.
 * Seleziona **Visualizza tutte le `<number>` risposte** per visualizzarle in una finestra di dialogo.
 
-Seleziona la scheda **[!UICONTROL Altre interazioni]** dalla barra dei menu per visualizzare il coinvolgimento in altri pod e scaricare i relativi rapporti.
+Selezionare la scheda **[!UICONTROL Other interactions]** dalla barra dei menu per visualizzare il coinvolgimento in altri pod e scaricare i relativi report.
 
 ![](assets/engagement-dashboard-10.png)
 
-Seleziona **[!UICONTROL Scarica rapporti interazione]** dal menu a discesa per scaricare rapporti di diversi pod. Scarica il rapporto Controllo di qualità, il rapporto Collegamenti e file e il rapporto Reazioni da qui per un migliore tracciamento.
+Selezionare **[!UICONTROL Download interaction reports]** dal menu a discesa per scaricare i report di pod diversi. Scarica il rapporto Controllo di qualità, il rapporto Collegamenti e file e il rapporto Reazioni da qui per un migliore tracciamento.
 
 Le informazioni sul coinvolgimento tra i pod sono disponibili in diverse sezioni.
 
@@ -239,13 +239,13 @@ Dal grafico, visualizza i seguenti dettagli:
 
 ### Attività on-demand {#on-demand-activity}
 
-Dal pannello a sinistra, seleziona **[!UICONTROL Attività on-demand]** per visualizzare il riepilogo delle registrazioni. Puoi anche scaricare un rapporto per le attività on-demand.
+Nel pannello a sinistra, selezionare **[!UICONTROL On-demand activity]** per visualizzare il riepilogo delle registrazioni. Puoi anche scaricare un rapporto per le attività on-demand.
 
 ![](assets/engagement-dashboard-15.png)
 
 Nell’attività on-demand, visualizza le metriche seguenti:
 
-* Fai clic su **[!UICONTROL Rapporto su richiesta (CSV)]** per scaricare le metriche su richiesta.
+* Fare clic su **[!UICONTROL On-demand report (CSV)]** per scaricare le metriche on-demand.
 * Numero di visualizzatori univoci fino all’ultimo aggiornamento del dashboard.
 * Numero di utenti che hanno visualizzato la registrazione ma non hanno potuto partecipare al webinar.
 * Numero di spettatori che hanno partecipato al webinar e hanno visualizzato la registrazione. È probabile che siano i migliori potenziali clienti.
@@ -254,7 +254,7 @@ Nell’attività on-demand, visualizza le metriche seguenti:
 
 ### Attività partecipante {#participant-activity}
 
-Dal pannello a sinistra, seleziona **[!UICONTROL Attività partecipante]** per visualizzare informazioni consolidate sul livello di coinvolgimento di ciascun partecipante. Visualizza come questo impegno viene classificato nei livelli dal livello di coinvolgimento Partecipante. Fai clic su **[!UICONTROL Rapporto attività utente (CSV)]** per scaricare il rapporto e migliorarne il tracciamento.
+Dal pannello a sinistra, selezionare **[!UICONTROL Participant activity]** per visualizzare informazioni consolidate sul livello di coinvolgimento di ciascun partecipante. Visualizza come questo impegno viene classificato nei livelli dal livello di coinvolgimento Partecipante. Fare clic su **[!UICONTROL User activity report (CSV)]** per scaricare il report per un migliore tracciamento.
 
 ![](assets/engagement-dashboard-16.png)
 
@@ -271,9 +271,9 @@ Visualizza i dettagli seguenti dalla tabella:
 
 Scarica i rapporti per diverse attività e pod da un hub centralizzato come host.
 
-1. Dal pannello a sinistra, seleziona **[!UICONTROL Scarica rapporti]**.
+1. Dal pannello a sinistra, seleziona **[!UICONTROL Download reports]**.
 
-1. Seleziona **[!UICONTROL Scarica tutto (.zip)]** per scaricare i report per tutte le attività e i pod contemporaneamente.
+1. Selezionare **[!UICONTROL Download all (.zip)]** per scaricare i report per tutte le attività e i pod contemporaneamente.
 
    ![](assets/engagement-dashboard-17.png)
 

@@ -4,7 +4,7 @@ description: Tipi di gruppi - Documentazione di Marketo - Documentazione del pro
 title: Tipi di gruppo
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 2%
@@ -17,31 +17,31 @@ Informazioni sui diversi tipi di gruppo in [!UICONTROL Sales Connect].
 
 ![](assets/one-7.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Gruppo</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td><p>[!UICONTROL All People]</p></td> 
-   <td>Tutti i contatti di tutti gli utenti visibili.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>[!UICONTROL Dynamic Groups]</p></td> 
-   <td colspan="1">Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td> 
-  </tr> 
-  <tr> 
-   <td><p>[!UICONTROL My Groups]</p></td> 
-   <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td> 
-  </tr> 
-  <tr> 
-   <td><p>[!UICONTROL Team Groups]</p></td> 
-   <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Gruppo</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td><p>[!UICONTROL All People]</p></td>
+   <td>Tutti i contatti di tutti gli utenti visibili.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>[!UICONTROL Dynamic Groups]</p></td>
+   <td colspan="1">Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td>
+  </tr>
+  <tr>
+   <td><p>[!UICONTROL My Groups]</p></td>
+   <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td>
+  </tr>
+  <tr>
+   <td><p>[!UICONTROL Team Groups]</p></td>
+   <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td>
+  </tr>
+ </tbody>
 </table>

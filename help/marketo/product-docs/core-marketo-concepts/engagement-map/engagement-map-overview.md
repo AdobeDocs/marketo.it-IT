@@ -2,7 +2,7 @@
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Engagement Map
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Panoramica di Engagement Map {#engagement-map-overview}
 
-La Mappa di coinvolgimento consente di visualizzare in modo intuitivo le campagne intelligenti. Offre piena compatibilità con le versioni precedenti di tutte le campagne Smart di Marketo Engage esistenti, senza la perdita di funzioni correnti.
+La Mappa di coinvolgimento consente di visualizzare in modo intuitivo le campagne intelligenti. Offre piena compatibilità con le versioni precedenti di tutte le campagne Marketo Engage Smart esistenti, senza la perdita di funzioni correnti.
 
 >[!NOTE]
 >
@@ -75,13 +75,13 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 No. Engagement Map è completamente compatibile con le versioni precedenti. Facendo clic su un pulsante, potrai visualizzare tutte le campagne esistenti nell’interfaccia di Visual Engagement Map.
 
-**Se si dispone di Engagement Map nel Marketo Engage, non sarà più possibile accedere alla struttura delle cartelle e sarà necessario imparare a creare una Smart Campaign?**
+**La presenza di Engagement Map in Marketo Engage comporta la perdita dell&#39;accesso alla struttura delle cartelle e la necessità di riapprendere come creare una campagna avanzata?**
 
-No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Tutti gli utenti potranno ancora usufruire del potente set di funzioni del Marketo Engage, ora integrato da immagini chiare.
+No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Tutti gli utenti potranno ancora usufruire del potente set di funzioni di Marketo Engage, ora integrato da immagini chiare.
 
 **Engagement Map è un componente aggiuntivo a pagamento?**
 
-No. Tutti gli utenti del Marketo Engage nuovi ed esistenti in tutti gli abbonamenti avranno accesso a questa funzione gratuita.
+No. Tutti gli utenti esistenti e nuovi di Marketo Engage inclusi in tutti gli abbonamenti avranno accesso a questa funzione gratuita.
 
 **In qualità di amministratore di Marketo Engage, sono responsabile dell&#39;attivazione/disattivazione di Engagement Map?**
 
@@ -95,7 +95,7 @@ Sono tre gli elementi chiave che distinguono Engagement Map:
 
 * Funzionalità: tutti gli elementi visivi sono pronti all’uso, per un utilizzo più semplice; la struttura nidificata consente di immergerti e ottenere l’intera immagine.
 
-* Potenza: mantieni tutta la sofisticazione del Marketo Engage, ora in un formato visivo.
+* Potenza: è possibile mantenere tutta la sofisticazione esistente di Marketo Engage, ora in un formato visivo.
 
 >[!MORELIKETHIS]
 >

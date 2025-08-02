@@ -4,7 +4,7 @@ description: Creare un modello di pagina di destinazione in formato libero - Doc
 title: Creare un modello di pagina di destinazione in formato libero
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche 
 
    >[!NOTE]
    >
-   >Selezionare **[!UICONTROL Disable Munchkin Tracking]** se si desidera evitare che i moduli vengano precompilati oppure non si desidera tenere traccia del comportamento Web in una pagina specifica.\
+   >Selezionare **[!UICONTROL Disable Munchkin Tracking]** se si desidera evitare che i moduli vengano precompilati oppure non si desidera tenere traccia del comportamento Web in una pagina specifica.
    >Selezionare **[!UICONTROL Validate Mobile Compatibility]** per verificare che il codice sia compatibile con i dispositivi mobili.
 
    >[!MORELIKETHIS]

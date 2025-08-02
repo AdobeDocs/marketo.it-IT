@@ -4,7 +4,7 @@ description: Rapporti RTP personalizzati in Google Universal Analytics - Documen
 title: Rapporti RTP personalizzati in Google Universal Analytics
 exl-id: c8b1e653-03b8-48bc-b80d-3e6cdf3485c3
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '362'
 ht-degree: 3%
@@ -64,41 +64,41 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
 1. Nella sezione **Drill down di Dimension** impostare le dimensioni rilevanti per ogni scheda come indicato di seguito.
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Nome scheda 
-    </div></th> 
-   <th> 
+      Nome scheda
+    </div></th>
+   <th>
     <div>
       Drill-down di Dimension
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Settore</td> 
-   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Gruppo</td> 
-   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Categoria</td> 
-   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>ABM</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Organizzazioni</td> 
-   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Settore</td>
+   <td><img src="assets/1.png" data-linked-resource-id="7514675" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Gruppo</td>
+   <td><img src="assets/2.png" data-linked-resource-id="7514674" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Categoria</td>
+   <td><img src="assets/3.png" data-linked-resource-id="7514673" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>ABM</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Organizzazioni</td>
+   <td><img src="assets/5.png" data-linked-resource-id="7514677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Non impostare alcun filtro e imposta il report affinché sia disponibile per **[!UICONTROL All Web Site Data]** (o modificalo se rilevante per un account Analytics specifico).
@@ -137,86 +137,86 @@ Questo articolo spiega come impostare rapporti personalizzati RTP per Google Uni
 
 1. Nella sezione **Drill down di Dimension**, imposta le dimensioni rilevanti per ogni scheda come segue:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Nome scheda 
-    </div></th> 
-   <th> 
+      Nome scheda
+    </div></th>
+   <th>
     <div>
-      Drill-down di Dimension 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Tutto il coinvolgimento</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Coinvolgimento da parte di ABM</td> 
-   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Coinvolgimento per categoria</td> 
-   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Coinvolgimento per gruppo</td> 
-   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
-  <tr> 
-   <td>Coinvolgimento per settore</td> 
-   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td> 
-  </tr> 
- </tbody> 
+      Drill-down di Dimension
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Tutto il coinvolgimento</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Coinvolgimento da parte di ABM</td>
+   <td><img width="277" src="assets/4.png" data-linked-resource-id="7514678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Coinvolgimento per categoria</td>
+   <td><img src="assets/a.png" data-linked-resource-id="7514683" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Coinvolgimento per gruppo</td>
+   <td><img src="assets/c.png" data-linked-resource-id="7514681" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+  <tr>
+   <td>Coinvolgimento per settore</td>
+   <td><img src="assets/b.png" data-linked-resource-id="7514682" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504218"></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Imposta i seguenti filtri:
 
-<table> 
- <thead> 
-  <tr> 
-   <th> 
+<table>
+ <thead>
+  <tr>
+   <th>
     <div>
-      Inc/Exc 
-    </div></th> 
-   <th> 
+      Inc/Exc
+    </div></th>
+   <th>
     <div>
-      Campo 
-    </div></th> 
-   <th> 
+      Campo
+    </div></th>
+   <th>
     <div>
-      Tipo di corrispondenza 
-    </div></th> 
-   <th> 
+      Tipo di corrispondenza
+    </div></th>
+   <th>
     <div>
-      Valori 
-    </div></th> 
-   <th colspan="1"> 
+      Valori
+    </div></th>
+   <th colspan="1">
     <div>
-      Commenti 
-    </div></th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td><p>Includi</p></td> 
-   <td><p><span class="uicontrol">Categoria evento</span></p></td> 
-   <td>Regex</td> 
-   <td>Campagne RTP|Consigli RTP|Segmenti RTP</td> 
-   <td colspan="1">Filtra tutti gli altri eventi personalizzati non correlati a RTP</td> 
-  </tr> 
-  <tr> 
-   <td>Escludi</td> 
-   <td><span class="uicontrol">Etichetta evento</span></td> 
-   <td>Regex</td> 
-   <td>N.</td> 
-   <td colspan="1">Consente di filtrare dalla campagna di rapporti utilizzando # nel nome della campagna</td> 
-  </tr> 
- </tbody> 
+      Commenti
+    </div></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td><p>Includi</p></td>
+   <td><p><span class="uicontrol">Categoria evento</span></p></td>
+   <td>Regex</td>
+   <td>Campagne RTP|Consigli RTP|Segmenti RTP</td>
+   <td colspan="1">Filtra tutti gli altri eventi personalizzati non correlati a RTP</td>
+  </tr>
+  <tr>
+   <td>Escludi</td>
+   <td><span class="uicontrol">Etichetta evento</span></td>
+   <td>Regex</td>
+   <td>N.</td>
+   <td colspan="1">Consente di filtrare dalla campagna di rapporti utilizzando # nel nome della campagna</td>
+  </tr>
+ </tbody>
 </table>
 
 1. Impostare il report affinché sia disponibile per **[!UICONTROL All Web Site Data]** (o modificarlo se necessario).

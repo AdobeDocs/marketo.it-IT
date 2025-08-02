@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 7837499e74558e6e48bf7b1e681f936f63d2843f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1714'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-
 
 >[!IMPORTANT]
 >
->Questo articolo è solo per i membri del nuovo Marketo Engage E-mail Designer beta. Non divulgare.
+>Questo articolo è valido solo per i membri della nuova versione beta di Marketo Engage Email Designer. Non divulgare.
 
 >[!PREREQUISITES]
 >
->Per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo account non è ancora stato aggiornato e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-
 
 ## Creare un modello e-mail {#create-an-email-template}
 
-1. Accedi al Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
+1. Accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
 1. In Il mio Marketo, seleziona **Design Studio**.
 
@@ -50,7 +50,7 @@ Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-
 
 ## Progettare il modello {#design-your-template}
 
-Nella pagina _Progetta modello_ puoi scegliere tra alcune opzioni. [Progetta da zero](#design-from-scratch), [importa il tuo HTML personale](#import-html) o [seleziona un modello esistente](#choose-a-template) (uno dei nostri esempi o uno già salvato).
+Nella pagina _Progetta modello_ puoi scegliere tra alcune opzioni. [Progetta da zero](#design-from-scratch), [importa il tuo HTML](#import-html) o [seleziona un modello esistente](#choose-a-template) (uno dei nostri esempi o uno già salvato).
 
 ![](assets/design-your-template-1.png)
 
@@ -62,7 +62,7 @@ Definisci il contenuto aggiungendo e spostando elementi strutturali con semplici
 
 1. Aggiungi [struttura e contenuto](#add-structure-and-content).
 
-### Importa il tuo HTML {#import-your-html}
+### Importa il HTML {#import-your-html}
 
 Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il contenuto può essere:
 
@@ -82,9 +82,9 @@ Puoi importare contenuti HTML esistenti per progettare i modelli e-mail. Il cont
 
    >[!NOTE]
    >
-   >Quando il contenuto di HTML viene caricato, il contenuto sarà in modalità di compatibilità. In questa modalità, puoi solo personalizzare il testo, aggiungere collegamenti o aggiungere risorse al contenuto.
+   >Quando il contenuto HTML viene caricato, il contenuto sarà in modalità di compatibilità. In questa modalità, puoi solo personalizzare il testo, aggiungere collegamenti o aggiungere risorse al contenuto.
 
-1. Per poter sfruttare i componenti di contenuto di E-mail Designer, fai clic sulla scheda **Convertitore HTML** e fai clic su **Converti**.
+1. Per utilizzare i componenti di contenuto di E-mail Designer, fare clic sulla scheda **HTML converter** e quindi su **Converti**.
 
    >[!CAUTION]
    >
@@ -96,7 +96,7 @@ Ora puoi personalizzare il file importato in base alle esigenze con l’editor e
 
 È possibile scegliere tra due tipi di modelli.
 
-* **Modelli di esempio**: il Marketo Engage offre quattro modelli di e-mail predefiniti.
+* **Modelli di esempio**: Marketo Engage offre quattro modelli e-mail predefiniti.
 
 * **Modelli salvati**: si tratta di modelli creati da zero utilizzando il menu Modelli o di un messaggio di posta elettronica creato e scelto di salvare come modello.
 
@@ -138,7 +138,7 @@ Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-ma
 
    >[!TIP]
    >
-   >Seleziona il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
+   >Selezionare il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
 
    ![](assets/add-structure-and-content-1.png)
 
@@ -182,24 +182,24 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Seleziona una colonna]_ e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Impostazioni]_ e _[!UICONTROL Stili]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fai clic sulla scheda _[!UICONTROL Stili]_ a destra e modificale in base alle tue esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
-   * Per **[!UICONTROL Sfondo]**, modifica il colore di sfondo in base alle esigenze.
+   * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 
-     Deselezionare la casella di controllo relativa a uno sfondo trasparente. Abilita l&#39;impostazione **[!UICONTROL Immagine di sfondo]** per utilizzare un&#39;immagine come sfondo invece di un colore a tinta unita.
+     Deselezionare la casella di controllo relativa a uno sfondo trasparente. Abilitare l&#39;impostazione **[!UICONTROL Background image]** per utilizzare un&#39;immagine come sfondo invece di un colore a tinta unita.
 
-   * Per **[!UICONTROL Allineamento]**, seleziona l&#39;icona _Superiore_, _Centro_ o _Inferiore_.
-   * Per **[!UICONTROL Spaziatura interna]**, definire la spaziatura per tutti i lati.
+   * Per **[!UICONTROL Alignment]**, seleziona l&#39;icona _Top_, _Middle_ o _Bottom_.
+   * Per **[!UICONTROL Padding]**, definire la spaziatura per tutti i lati.
 
-     Selezionare **[!UICONTROL Spaziatura interna diversa per ogni lato]** se si desidera modificarla. Fai clic sull&#39;icona _Blocca_ per interrompere la sincronizzazione.
+     Selezionare **[!UICONTROL Different padding for each side]** se si desidera regolare la spaziatura. Fai clic sull&#39;icona _Blocca_ per interrompere la sincronizzazione.
 
-   * Espandi la sezione **[!UICONTROL Avanzate]** per definire gli stili in linea per la colonna.
+   * Espandere la sezione **[!UICONTROL Advanced]** per definire gli stili in linea per la colonna.
 
    ![](assets/layers-settings-styles-3.png)
 
@@ -207,7 +207,7 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Salva le modifiche.
 
-### Personalizzare il contenuto {#personalize-content}
+### Personalizzazione dei contenuti {#personalize-content}
 
 I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecchio, ma l’icona ha un aspetto diverso. L’esempio seguente illustra l’aggiunta di un token di nome con testo di fallback.
 
@@ -289,7 +289,7 @@ Dalle opzioni **Altro** nell&#39;editor dei contenuti, puoi eseguire le azioni s
 
 * **Modifica la progettazione**: torna alla pagina _Progetta modello_. Da qui puoi intraprendere qualsiasi azione come descritto nella sezione [Progettare il modello](#design-your-template).
 
-* **Esporta HTML**: scarica il contenuto nell&#39;area di lavoro visiva nel sistema locale in formato HTML compresso come file zip.
+* **Esporta HTML**: scarica il contenuto nell&#39;area di lavoro visiva nel sistema locale in formato HTML racchiuso in un file zip.
 
 ## Visualizza dettagli modello {#view-template-details}
 
@@ -309,7 +309,7 @@ Se sono presenti avvisi attivi (errori/avvisi per il modello e-mail), fai clic s
 
 ## Visualizza modello e-mail utilizzato da riferimenti {#email-template-used-by-references}
 
-Nel riepilogo del modello e-mail, fai clic sulla scheda **Usato da** per visualizzare i dettagli di dove è stato utilizzato questo modello e-mail nel Marketo Engage.
+Nel riepilogo del modello e-mail, fai clic sulla scheda **Usato da** per visualizzare i dettagli di dove è stato utilizzato questo modello e-mail in Marketo Engage.
 
 ![](assets/email-template-used-by-references-1.png)
 

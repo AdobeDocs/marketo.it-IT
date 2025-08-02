@@ -3,10 +3,10 @@ description: Gestione della consegna dei messaggi - Documentazione di Marketo - 
 title: Gestione recapito messaggi OP
 feature: Programs
 exl-id: 7b9bc9ee-65f4-4938-8598-6f8543042159
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 4%
+ht-degree: 8%
 
 ---
 
@@ -18,84 +18,84 @@ Questo è un esempio di flussi di lavoro basati sulle best practice per la gesti
 >
 >Richiede il campo stringa personalizzato &quot;Motivo di sospensione del marketing&quot; per importare. [Ulteriori informazioni](https://nation.marketo.com/community/product_and_support/support_solutions/blog/2016/04/18/how-to-monitor-deliverability-using-marketo){target="_blank"}.
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canale</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Stato iscrizione</th>
    <th>Comportamento di Analytics</th>
    <th>Tipo di programma</th>
-  </tr> 
-  <tr> 
-   <td>Operativo</td> 
+  </tr>
+  <tr>
+   <td>Operativo</td>
    <td>01 membro</td>
    <td>Operativo</td>
    <td>Predefinito</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Campi prerequisiti {#prerequisite-fields}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome intuitivo</th>
    <th>Nome API</th>
   </tr>
-  <tr> 
-   <td>Stringa</td> 
+  <tr>
+   <td>Stringa</td>
    <td>Motivo della sospensione del marketing</td>
    <td>MarketingSuspendedReason</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome modello</th>
    <th>Nome risorsa</th>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>Non-responder cronici alla sospensione del marketing</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>E-Mail Con Mancato Recapito Cronico Da Parte Del Marketing</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>Ripristina "E-mail non valida" dopo l’aggiornamento e-mail</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>Ripristina "Marketing sospeso" dopo l’aggiornamento dell’e-mail</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Gestisci</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
-   <td>Controlla</td>
+   <td>Rivedi</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-deliverability-management-1.png)

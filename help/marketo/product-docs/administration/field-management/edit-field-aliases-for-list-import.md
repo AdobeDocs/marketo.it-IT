@@ -4,9 +4,9 @@ description: Modificare gli alias dei campi per l’importazione degli elenchi -
 title: Modifica alias campo per importazione elenco
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-field-aliases-for-list-import-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/edit-field-aliases-for-list-import-2.png)
 
@@ -31,17 +31,17 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 
    ![](assets/edit-field-aliases-for-list-import-3.png)
 
-1. Nel menu a discesa **[!UICONTROL Azioni campo]**, fare clic su **[!UICONTROL Modifica alias importazione]**.
+1. Nel menu a discesa **[!UICONTROL Field Actions]**, fare clic su **[!UICONTROL Edit Import Aliases]**.
 
    ![](assets/edit-field-aliases-for-list-import-4.png)
 
-1. Immetti un alias e fai clic su **[!UICONTROL Salva]**.
+1. Immettere un alias e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-field-aliases-for-list-import-5.png)
 
 >[!TIP]
 >
->Fai clic su **[!UICONTROL Aggiungi altro]** e immetti altri alias, se necessario.
+>Fare clic su **[!UICONTROL Add Another]** e immettere altri alias, se necessari.
 
 Guardate quello! Ora, se si importa un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
 

@@ -4,7 +4,7 @@ description: Informazioni sui campi gestiti dal sistema - Documentazione di Mark
 title: Informazioni sui campi gestiti dal sistema
 exl-id: 4a58d41f-c2f5-4bcc-93ef-10a31e5475fd
 feature: Field Management
-source-git-commit: fc25a088005ee1d552f6e61e2fa7b953e2fde862
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '523'
 ht-degree: 8%
@@ -97,7 +97,7 @@ Di seguito sono riportati alcuni valori possibili e il loro significato.
 <tbody>
   <tr>
     <td>Salesforce.com</td>
-    <td>Persona scoperta dalla sincronizzazione Salesforce</td>
+    <td>La persona è stata rilevata dalla sincronizzazione Salesforce</td>
   </tr>
   <tr>
     <td>Visite alle pagine web</td>
@@ -121,7 +121,7 @@ Di seguito sono riportati alcuni valori possibili e il loro significato.
   </tr>
   <tr>
     <td>E-mail vendita</td>
-    <td>Alla persona è stata inviata un’e-mail tramite il componente aggiuntivo e-mail di Sales Insight</td>
+    <td>Alla persona è stata inviata un'e-mail tramite il componente aggiuntivo e-mail di Sales Insight</td>
   </tr>
   <tr>
     <td>Persona</td>
@@ -132,8 +132,8 @@ Di seguito sono riportati alcuni valori possibili e il loro significato.
     <td>La persona è stata sincronizzata dal webhook come contatto</td>
   </tr>
   <tr>
-    <td>API Munchkin</td>
-    <td>Persona scoperta dal Marketo Engage API Munchkin</td>
+    <td>API MUNCHKIN</td>
+    <td>La persona è stata scoperta dall’API Munchkin di Marketo Engage</td>
   </tr>
   <tr>
     <td>App social</td>
@@ -165,7 +165,7 @@ Di seguito sono riportati alcuni valori possibili e il loro significato.
   </tr>
   <tr>
     <td>Salesforce.com</td>
-    <td>Diventare una persona tramite Salesforce sync</td>
+    <td>Diventare una persona tramite Salesforce Sync</td>
   </tr>
   <tr>
     <td>Compilazione modulo web</td>
@@ -173,7 +173,7 @@ Di seguito sono riportati alcuni valori possibili e il loro significato.
   </tr>
   <tr>
     <td>E-mail vendita</td>
-    <td>Alla persona è stata inviata un’e-mail tramite il componente aggiuntivo e-mail di Sales Insight</td>
+    <td>Alla persona è stata inviata un'e-mail tramite il componente aggiuntivo e-mail di Sales Insight</td>
   </tr>
   <tr>
     <td>API servizio Web</td>
@@ -184,8 +184,8 @@ Di seguito sono riportati alcuni valori possibili e il loro significato.
     <td>La persona è stata inserita manualmente nel database</td>
   </tr>
   <tr>
-    <td>API Munchkin</td>
-    <td>Diventare una persona tramite l’API Munchkin di Marketo</td>
+    <td>API MUNCHKIN</td>
+    <td>Diventare una persona tramite API Munchkin di Marketo</td>
   </tr>
   <tr>
     <td>App social</td>

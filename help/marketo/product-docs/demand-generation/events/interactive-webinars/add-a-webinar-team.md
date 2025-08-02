@@ -3,7 +3,7 @@ description: Aggiungere un team al webinar - Documentazione di Marketo - Documen
 title: Aggiungi un team di webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Un team di webinar nei webinar interattivi è costituito da tutti i ruoli che co
 
 >[!NOTE]
 >
->I relatori e i co-host nel Marketo Engage si associano esattamente ai ruoli di presentatore e host durante il webinar in Adobe Connect. I co-host possono modificare i layout e i pod, mentre i relatori non possono.
+>I relatori e i co-host in Marketo Engage corrispondono esattamente ai ruoli di presentatore e host durante la consegna del webinar in Adobe Connect. I co-host possono modificare i layout e i pod, mentre i relatori non possono.
 
 Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’esperienza del webinar, mentre i co-host possono fungere da presentatore e gestire gli aspetti amministrativi della distribuzione del webinar. I co-host possono essere sia interni che esterni. I co-host esterni non avranno accesso ai programmi di eventi di webinar interattivi in Marketo, ma disporranno delle autorizzazioni host durante la consegna in Adobe Connect. I co-host interni avranno accesso sia al programma Interactive Webinar Event in Marketo sia alle autorizzazioni host durante la consegna. Questo aiuta a garantire che i co-host interni possano prendere le redini del programma di eventi del webinar interattivo quando il creatore originale del programma del webinar interattivo non fa più parte del set di utenti del webinar interattivo o non fa nemmeno parte di un utente Marketo.
 
@@ -42,7 +42,7 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
    >[!NOTE]
    >
-   >Se selezioni **Utente interno del webinar interattivo**, dovrai semplicemente fare clic sul menu a discesa **Host disponibili** e scegliere dall&#39;elenco di persone che sono state aggiunte come utenti del webinar interattivo nel Marketo Engage. Gli host esistenti non verranno visualizzati in questo elenco a discesa, in quanto sono già host.
+   >Se selezioni **Utente interno del webinar interattivo**, dovrai semplicemente fare clic sul menu a discesa **Host disponibili** e scegliere dall&#39;elenco di persone che sono state aggiunte come utenti del webinar interattivo in Marketo Engage. Gli host esistenti non verranno visualizzati in questo elenco a discesa, in quanto sono già host.
 
 1. Immetti il nome, il cognome e l&#39;indirizzo e-mail del co-host desiderato. Fai clic su **Aggiungi**.
 

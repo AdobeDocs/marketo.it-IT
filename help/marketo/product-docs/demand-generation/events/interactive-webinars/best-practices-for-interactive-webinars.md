@@ -3,7 +3,7 @@ description: Best practice per i webinar interattivi - Documentazione di Marketo
 title: Best practice per i webinar interattivi
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -71,7 +71,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 * Se si desidera registrare la sessione, attivare il promemoria di registrazione in Preferenze stanza. Se la registrazione non è stata avviata, il promemoria verrà visualizzato 5 minuti dopo l&#39;inizio della riunione.
 
 * Abilita l’area Host e Presenter e configurala con i relativi pod. Quest&#39;area è visibile solo agli host e ai relatori e può essere utilizzata per collaborare nel backstage. Alcuni baccelli da includere qui sarebbero:
-   * Dashboard di coinvolgimento per monitorare il coinvolgimento dei partecipanti in tempo reale. [Fai clic qui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} per guardare un breve video sull&#39;utilizzo del dashboard di coinvolgimento.
+   * Dashboard di coinvolgimento per monitorare il coinvolgimento dei partecipanti in tempo reale. [Fai clic qui](https://www.youtube.com/watch?v=gf5fu0JK9Hk){target="_blank"} per guardare un breve video sull&#39;utilizzo del dashboard Coinvolgimento.
    * Chat pod per consentire conversazioni private tra i membri del team della presentazione.
    * Nota Pod per inviare messaggi di promemoria, domande per il relatore o risposte alle domande standard che è possibile copiare e incollare per risposte rapide alle domande comuni.
 
@@ -85,7 +85,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 * **Pod domande e risposte**: è possibile nascondere sia il nome del partecipante che ha inviato la domanda sia il nome dell&#39;host/relatore che ha risposto. Per farlo, deseleziona le opzioni relative alla privacy nella sezione &quot;Q&amp;A Pod&quot; in Preferenze della stanza.
 
-* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
+* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
 
 * **Chat privata**: disattiva la chat privata per impedire ai partecipanti di eseguire il ping di un altro partecipante. A tale scopo, deselezionare &quot;Consenti ai partecipanti di chattare in privato&quot; nella sezione &quot;Chat&quot; in Preferenze della stanza.
 
@@ -113,7 +113,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 ## Post-consegna {#post-delivery}
 
-* Una volta consegnato il webinar, i dati di coinvolgimento insieme alla registrazione saranno resi disponibili in Marketo Engage generalmente entro 1-2 ore. Convalida la registrazione e conferma se l’output video completo del webinar è stato acquisito in modo appropriato, in modo che lo stesso possa essere utilizzato per condividere con il pubblico e tenere traccia dei dati del webinar on-demand.
+* Una volta consegnato il webinar, i dati sul coinvolgimento e la registrazione saranno resi disponibili in Marketo Engage generalmente entro 1-2 ore. Convalida la registrazione e conferma se l’output video completo del webinar è stato acquisito in modo appropriato, in modo che lo stesso possa essere utilizzato per condividere con il pubblico e tenere traccia dei dati del webinar on-demand.
 
 * Crea campagne di sviluppo per qualificare ulteriormente i lead dei partecipanti in base al loro coinvolgimento utilizzando filtri/trigger dei webinar interattivi e fai in modo che le campagne di ringraziamento/Mancato contatto forniscano ulteriori informazioni dall’evento, dal collegamento di registrazione, dalle statistiche dell’evento e dagli eventi futuri per invitare i No-Show a riconnettersi all’organizzazione. Le attività per i No-Show che visitano la registrazione possono essere tracciate come parte dei webinar On-Demand e ulteriori campagne Nurture possono essere create per i No-Show attraverso i filtri/trigger dei Webinar On-Demand.
 

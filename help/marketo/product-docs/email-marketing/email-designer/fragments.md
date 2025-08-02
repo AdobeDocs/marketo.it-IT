@@ -6,9 +6,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1850'
+source-wordcount: '1851'
 ht-degree: 1%
 
 ---
@@ -81,7 +81,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
   </tr>
   <tr>
     <td style="width:25%"><b>Pubblicato con bozza</b></td>
-    <td style="width:75%">Quando crei una bozza da un frammento pubblicato, la versione pubblicata rimane disponibile per l’utilizzo in un modello e-mail o e-mail e il contenuto della bozza può essere modificato nella finestra di progettazione visiva. Se si pubblica la bozza della versione, questa sostituirà la versione pubblicata corrente e il contenuto verrà aggiornato in <i>tutti</i> i modelli e-mail e le e-mail in cui è in uso. 
+    <td style="width:75%">Quando crei una bozza da un frammento pubblicato, la versione pubblicata rimane disponibile per l’utilizzo in un modello e-mail o e-mail e il contenuto della bozza può essere modificato nella finestra di progettazione visiva. Se si pubblica la bozza della versione, questa sostituirà la versione pubblicata corrente e il contenuto verrà aggiornato in <i>tutti</i> i modelli e-mail e le e-mail in cui è in uso.
     <p>Azioni disponibili:
     <li>Modifica descrizione</li>
     <li>Aggiungi a un messaggio e-mail o a un modello</li>
@@ -287,7 +287,7 @@ Il contenuto del frammento viene aggiornato dinamicamente all’interno della st
 
 >[!TIP]
 >
->Se desideri che il frammento occupi l&#39;intero layout orizzontale all&#39;interno del messaggio e-mail, aggiungi una struttura [!UICONTROL 1:1 column] e quindi trascina e rilascia il frammento al suo interno.
+>Se si desidera che il frammento occupi l&#39;intero layout orizzontale all&#39;interno del messaggio e-mail, aggiungere una struttura di [!UICONTROL 1:1 colonna] e quindi trascinare e rilasciare il frammento al suo interno.
 
 Una volta salvato, il modello e-mail/e-mail viene visualizzato nella pagina dei dettagli del frammento quando viene selezionata la scheda _[!UICONTROL Used By]_. I frammenti aggiunti non sono modificabili nell’e-mail o nel modello, il frammento di origine pubblicato definisce il contenuto.
 

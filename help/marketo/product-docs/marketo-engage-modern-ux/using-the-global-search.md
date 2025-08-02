@@ -3,7 +3,7 @@ description: Utilizzo di Global Search - Documentazione di Marketo - Documentazi
 title: Utilizzo della ricerca globale
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 3%
@@ -40,27 +40,27 @@ Viene visualizzata direttamente l’e-mail desiderata.
 
 ![](assets/using-the-global-search-6.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Nome dell’articolo/destinazione</td> 
+   <td>1</td>
+   <td>Nome dell’articolo/destinazione</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Percorso (breadcrumb) del rispettivo elemento/destinazione</td> 
+   <td>2</td>
+   <td>Percorso (breadcrumb) del rispettivo elemento/destinazione</td>
   </tr>
   <tr>
-   <td>3</td> 
-   <td>Data e ora dell'ultima modifica dell'articolo/destinazione</td> 
+   <td>3</td>
+   <td>Data e ora dell'ultima modifica dell'articolo/destinazione</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Data e ora di creazione dell'articolo/destinazione</td> 
+   <td>4</td>
+   <td>Data e ora di creazione dell'articolo/destinazione</td>
   </tr>
   <tr>
-   <td>5</td> 
-   <td>Implementare filtri mirati per limitare i risultati di ricerca</td> 
+   <td>5</td>
+   <td>Implementare filtri mirati per limitare i risultati di ricerca</td>
   </tr>
  </tbody>
 </table>

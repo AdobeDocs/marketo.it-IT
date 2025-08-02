@@ -3,10 +3,10 @@ description: Note sulla versione - Marzo 2023 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: d4bd94b22b4f9da993150a94d2757014cbf87d80
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 5%
+ht-degree: 9%
 
 ---
 
@@ -16,7 +16,7 @@ Di seguito sono riportate tutte le funzioni incluse nella versione di marzo 2023
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
@@ -28,12 +28,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Utilizzo avanzato del componente per i dettagli del modello della pagina di destinazione e del modulo**: la nuova scheda Utilizzo da parte dell&#39;interfaccia utente fornisce informazioni aggiuntive in Dettagli modello pagina di destinazione e Dettagli modulo, inclusi ulteriori dettagli relativi alle risorse che hanno utilizzato una risorsa selezionata. Esegui analisi su lunghi elenchi di risorse tramite le funzionalità di ricerca, ordinamento e filtro.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -42,12 +42,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Rimuovi interruttore ed esperienza classica dalle pagine di destinazione**: la rimozione dell&#39;interruttore e dell&#39;esperienza classica per le pagine di destinazione ti aiuterà ad adottare completamente la nuova esperienza. La nuova esperienza consente di utilizzare completamente le funzionalità fornite con queste risorse senza dover fare affidamento sulla vecchia esperienza o dover passare continuamente da un’esperienza all’altra.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -56,12 +56,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Miglioramenti delle prestazioni dei nodi della struttura**: gli utenti con un numero elevato di nodi della struttura vedranno un miglioramento significativo delle prestazioni.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -72,14 +72,14 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 </br>
 
-* **Aggiorna l&#39;integrazione di Marketo Facebook per utilizzare Facebook Graph API Update**: con il recente aggiornamento di Facebook all&#39;API di Facebook Graph v15, è ora possibile creare un limite di 500 tipi di pubblico personalizzati per un particolare account annuncio.
+* **Aggiornamento dell&#39;integrazione di Marketo Facebook per l&#39;utilizzo dell&#39;aggiornamento dell&#39;API di Facebook Graph**: con il recente aggiornamento di Facebook all&#39;API di Facebook Graph v15, è ora possibile creare un limite di 500 tipi di pubblico personalizzati per un particolare account pubblicitario.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -94,84 +94,84 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 </br>
 
-* **Rapporto di coinvolgimento del dialogo per il Dynamic Chat**: fornisce una visualizzazione del coinvolgimento del dialogo nel tempo, inclusa la possibilità di filtrare per tipo di visitatore e tipo di coinvolgimento per fornire una migliore visibilità agli utenti.
+* **Report di coinvolgimento del dialogo per Dynamic Chat**: fornisce una visualizzazione del coinvolgimento del dialogo nel tempo, inclusa la possibilità di filtrare per tipo di visitatore e tipo di coinvolgimento per fornire una migliore visibilità agli utenti.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Ruoli e autorizzazioni per il Dynamic Chat**: introduce ruoli e autorizzazioni per il Dynamic Chat, consentendo agli amministratori di limitare la visibilità e l&#39;utilizzo di diverse aree dell&#39;app ai tipi di utenti selezionati.
+* **Ruoli e autorizzazioni per Dynamic Chat**: introduce ruoli e autorizzazioni in Dynamic Chat, consentendo agli amministratori di limitare la visibilità e l&#39;utilizzo di diverse aree dell&#39;app a tipi di utenti selezionati.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Chat come canale del programma per il Dynamic Chat**: crea un nuovo canale del programma &quot;Chat&quot; per tenere traccia della progressione del programma per le persone acquisite dal Dynamic Chat. Ad esempio, un addetto marketing ha un programma associato a una finestra di dialogo di Dynamic Chat per acquisire nuovi lead. Ora possono assegnare quel programma al canale Chat in modo da poter monitorare quando i lead sono membri del programma e quando hanno raggiunto il successo.
+* **Chat come canale del programma per Dynamic Chat**: crea un nuovo canale del programma &quot;Chat&quot; per tenere traccia della progressione del programma per le persone acquisite da Dynamic Chat. Ad esempio, un addetto marketing dispone di un programma associato a una finestra di dialogo di Dynamic Chat per acquisire nuovi lead. Ora possono assegnare quel programma al canale Chat in modo da poter monitorare quando i lead sono membri del programma e quando hanno raggiunto il successo.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Attributi dedotti per il Dynamic Chat**: assicura che i dati IP dedotti (città, stato, paese, ecc.) viene scritto nel record persona per le nuove persone acquisite dal Dynamic Chat.
+* **Attributi dedotti per Dynamic Chat**: assicura che i dati IP dedotti (città, stato, paese, ecc.) vengano scritti nel record persona per le nuove persone acquisite da Dynamic Chat.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Supporto linguistico aggiuntivo per il Dynamic Chat**: è ora possibile scegliere tra nove lingue supportate per visualizzare il contenuto statico del Dynamic Chat in.
+* **Supporto linguistico aggiuntivo per Dynamic Chat**: è ora possibile scegliere tra nove lingue supportate per visualizzare contenuto Dynamic Chat statico in.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Passa al nodo nell&#39;anteprima Stream Designer per il Dynamic Chat**: passa direttamente a un nodo nel Stream Designer dal pannello di anteprima.
+* **Passa al nodo nell&#39;anteprima di Stream Designer per Dynamic Chat**: dal pannello di anteprima passa direttamente a un nodo nel Stream Designer.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -180,4 +180,4 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 ## Annunci {#announcements}
 
-* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione del Marketo Engage di marzo e maggio 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione di Marketo Engage di marzo e maggio 2023](https://engage.marketo.com/2023_March_May_Release_Webinar_OnDemandPage.html){target="_blank"}

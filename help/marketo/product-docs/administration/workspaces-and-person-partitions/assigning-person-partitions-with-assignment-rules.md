@@ -4,9 +4,9 @@ description: Assegnazione di partizioni persona con regole di assegnazione - Doc
 title: Assegnazione di partizioni persona con regole di assegnazione
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---
@@ -25,21 +25,21 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
 
 >[!NOTE]
 >
->Solo alle persone create in Marketo dal CRM e tramite l’API SOAP verranno applicate le regole di assegnazione.
+>Solo le persone create in Marketo dal CRM e tramite l’API SOAP avranno regole di assegnazione applicate.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 
-1. Fare clic su **[!UICONTROL Aree di lavoro e partizioni]**.
+1. Fai clic su **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-2.png)
 
-1. Nella scheda **[!UICONTROL Partizioni persona]**, fai clic su **[!UICONTROL Regole di assegnazione]**.
+1. Nella scheda **[!UICONTROL Person Partitions]**, fare clic su **[!UICONTROL Assignment Rules]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-3.png)
 
-1. Fai clic su **[!UICONTROL Aggiungi scelta]** per aggiungere le condizioni per instradare le persone nelle partizioni personali.
+1. Fare clic su **[!UICONTROL Add Choice]** per aggiungere le condizioni per il routing delle persone nelle partizioni personali.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-4.png)
 
@@ -59,7 +59,7 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
    >
    >Puoi aggiungere tutte le scelte che ti piacciono.
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 

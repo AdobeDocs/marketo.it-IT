@@ -3,7 +3,7 @@ description: Modello e-mail per guida rapida - Documentazione di Marketo - Docum
 title: Modello e-mail di avvio rapido
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '565'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Modello e-mail di avvio rapido {#quick-start-email-template}
 
-Alcuni dei programmi iniziali nella Libreria di riferimento dei Marketi Engage contengono un modello e-mail semplice, facile da usare e personalizzabile che consente di creare rapidamente le e-mail in diversi casi di utilizzo di marketing.
+Alcuni dei programmi iniziali nella Libreria di riferimento di Marketo Engage contengono un modello e-mail semplice, facile da usare e personalizzabile che consente di creare rapidamente le e-mail in diversi casi di utilizzo di marketing.
 
 L’editor e-mail di Marketo Engage è dotato di funzioni che consentono di modificare il layout e il contenuto delle e-mail.
 
@@ -24,7 +24,7 @@ L’editor e-mail di Marketo Engage è dotato di funzioni che consentono di modi
 
 * **Variabili**: quando è selezionato un modulo, le variabili vengono visualizzate sul lato destro dell&#39;editor. Questi possono essere utilizzati per regolare gli attributi del modulo che non sono facilmente modificabili tramite elementi di immagine o testo.
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo moduli {#modules-summary}
 
@@ -90,7 +90,7 @@ Per ulteriore assistenza strategica o per personalizzare un programma, contattar
    * Spaziatura inferiore del modulo
    * Colore di sfondo del modulo
    * Colore testo CTA
-   * Colore sfondo CTA
+   * Colore di sfondo CTA
    * Colore bordo CTA
    * Raggio bordo CTA (per arrotondare i pulsanti - **Nota**: questa funzionalità non funziona nei client di posta elettronica di Microsoft Outlook)
    * URL CTA

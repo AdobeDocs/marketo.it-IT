@@ -6,7 +6,7 @@ exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: ea07c5c83c51fef4eb454562f041db685cf13775
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%
@@ -45,9 +45,9 @@ Se utilizzi già questo filtro in un elenco avanzato (ad esempio, in una campagn
 
 >[!NOTE]
 >
->**Trigger**: pagina Web Visite, pagina Web è pagina determinazione prezzi\
->**Flusso**: modifica punteggio +10 e momento di interesse
->&#x200B;>**Web**: pagina determinazione prezzi visualizzata
+>**Trigger**: pagina Web Visite, pagina Web è pagina determinazione prezzi
+>>**Flusso**: modifica punteggio +10 e momento di interesse
+>>**Web**: pagina determinazione prezzi visualizzata
 >
 >Con [!DNL Munchkin] V2, se una persona anonima visita la pagina dei prezzi, non entra immediatamente nella campagna. Nel momento in cui la persona anonima si farà conoscere, faremo una campagna su di lei. Lei:
 >

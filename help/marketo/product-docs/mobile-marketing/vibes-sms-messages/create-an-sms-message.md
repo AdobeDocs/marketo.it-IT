@@ -3,9 +3,9 @@ description: Creazione di un messaggio SMS - Documentazione di Marketo - Documen
 title: Creare un messaggio SMS
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -16,17 +16,17 @@ Ecco come creare un messaggio SMS.
 
 >[!AVAILABILITY]
 >
->Questa funzione è disponibile come componente aggiuntivo per il tuo account Adobe Marketo Engage. Per essere fornito correttamente, deve essere acquistato tramite Adobe. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager). L’integrazione nativa di Marketo Vibes SMS è disponibile negli Stati Uniti e in Canada. Per altri paesi, è possibile utilizzare una connessione tramite i webhook di Marketo contattando [direttamente Vibes](https://www.vibes.com/talk-to-sales).
+>Questa funzione è disponibile come componente aggiuntivo per il tuo account Adobe Marketo Engage. Per poter essere fornito correttamente, deve essere acquistato tramite Adobe. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager). L’integrazione nativa di Marketo Vibes SMS è disponibile negli Stati Uniti e in Canada. Per altri paesi, è possibile utilizzare una connessione tramite i webhook di Marketo contattando [direttamente Vibes](https://www.vibes.com/talk-to-sales).
 
 >[!PREREQUISITES]
 >
 >[Aggiungi Vibes come servizio LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-an-sms-message-1.png)
 
-1. Fare clic con il pulsante destro del mouse sul programma desiderato e selezionare **[!UICONTROL Nuova risorsa locale]**.
+1. Fare clic con il pulsante destro del mouse sul programma desiderato e selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/create-an-sms-message-2.png)
 

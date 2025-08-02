@@ -4,7 +4,7 @@ description: Aggiungere immagini e file a Marketo - Documentazione di Marketo - 
 title: Aggiungere immagini e file a Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

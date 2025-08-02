@@ -4,10 +4,10 @@ short-description: Hai appena iniziato a usare Adobe Marketo Engage? Scopri qual
 title: Passaggi di configurazione
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 7b64e6e9bbd282b1e27f4c9c862df07642e9a35b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 1%
+source-wordcount: '1664'
+ht-degree: 2%
 
 ---
 
@@ -20,7 +20,7 @@ Prima di immergerti, devi completare alcuni passaggi.
 Questi passaggi includono:
 
 * Personalizzare gli URL della pagina di destinazione e i collegamenti e-mail per migliorare l’affidabilità e il recapito messaggi
-* Configurazione dei protocolli per il Marketo Engage
+* Configurazione dei protocolli per Marketo Engage
 * Sincronizzazione del CRM in corso
 * Aggiunta di codice di tracciamento al sito Web aziendale
 
@@ -58,17 +58,17 @@ La prima parte è il CNAME di tracciamento e-mail, `[EmailTrackingCNAME]`. Sarà
 >
 >I CNAME per e-mail e pagina di destinazione devono essere diversi. Inoltre, evita CNAME come &quot;track&quot; o &quot;link&quot;. Viene spesso segnalato come spam
 
-Per trovare il collegamento di tracciamento di Marketo, vai all&#39;area **[!UICONTROL Amministratore]**.
+Per trovare il collegamento di tracciamento di Marketo, vai all&#39;area **[!UICONTROL Admin]**.
 
 ![](assets/setup-steps-1.png)
 
-Fai clic su **[!UICONTROL E-mail]**.
+Fai clic su **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-2.png)
 
-Copia il [!UICONTROL collegamento di tracciamento] dalle impostazioni e-mail.
+Copia [!UICONTROL Tracking Link] dalle impostazioni e-mail.
 
-Il [!UICONTROL collegamento di tracciamento] è nel formato: `mkto-[a-z][4 digits].com`.
+[!UICONTROL Tracking Link] è nel formato: `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-3.png)
 
@@ -102,7 +102,7 @@ Scegli un CNAME per le pagine di destinazione. Alcuni esempi:
 
 La prima parte in grassetto è `[LandingPageCNAME]`. Ne avrai bisogno al punto 5.
 
-Per recuperare l&#39;ID Munchkin che sostituirai con il CNAME della pagina di destinazione, vai all&#39;area **Amministratore**.
+Per recuperare l&#39;ID Munchkin che sostituirai con il CNAME della pagina di destinazione, passa all&#39;area **Amministratore**.
 
 ![](assets/setup-steps-4.png)
 
@@ -110,7 +110,7 @@ Fai clic su **Il mio account**.
 
 ![](assets/setup-steps-5.png)
 
-Copia la [!UICONTROL stringa account] dalle impostazioni della pagina di destinazione.
+Copia [!UICONTROL Account String] dalle impostazioni della pagina di destinazione.
 
 ![](assets/setup-steps-6.png)
 
@@ -146,8 +146,7 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 
 `3)` Inserire nell&#39;elenco Consentiti Marketo.
 
-    * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli indirizzi IP elencati di seguito:
-
+    * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli IP elencati di seguito:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -184,7 +183,7 @@ Se disponiamo già di un record SPF nella voce DNS, è sufficiente aggiungervi q
 
 include:mktomail.com
 
-`[`Sostituisci **Dal dominio** con il tuo indirizzo e-mail Dal dominio (ad esempio: company.com) e **CorpIP** con l&#39;indirizzo IP del tuo server e-mail aziendale (ad esempio: 255.255.255.255).  Se intendi inviare e-mail da più domini tramite Marketo, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).`]`
+`[`Sostituisci **Dal dominio** con il tuo indirizzo e-mail Dal dominio (es: company.com) e **CorpIP** con l&#39;indirizzo IP del tuo server e-mail aziendale (es: 255.255.255.255).  Se intendi inviare e-mail da più domini tramite Marketo, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).`]`
 
 `b.` Per DKIM, creare record di risorse DNS per ogni dominio che si desidera impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
 
@@ -206,41 +205,41 @@ Cordiali saluti
 
 `----------------------------------------------`
 
-Invia l&#39;e-mail al reparto IT. Sappiamo che il completamento di queste attività può richiedere del tempo all&#39;IT. È possibile continuare con il passaggio successivo, ma è necessario tornare a questo passaggio per completare la configurazione del Marketo Engage.
+Invia l&#39;e-mail al reparto IT. Sappiamo che il completamento di queste attività può richiedere del tempo all&#39;IT. Puoi continuare con il passaggio successivo, ma ricorda che devi tornare a questo passaggio per completare la configurazione di Marketo Engage.
 
 ## Completare l&#39;installazione di Marketo al termine dell&#39;IT {#complete-your-marketo-setup-after-it-finishes}
 
 Una volta completate le attività, segui questi passaggi per aggiungere la pagina di destinazione e i CNAME e-mail e per attivare la firma DKIM.
 
-Vai all&#39;area **[!UICONTROL Amministratore]** per aggiungere il tuo CNAME pagina di destinazione
+Vai all&#39;area **[!UICONTROL Admin]** per aggiungere il tuo CNAME pagina di destinazione
 
 ![](assets/setup-steps-7.png)
 
-Seleziona le pagine di destinazione e fai clic su **[!UICONTROL Modifica]** nell&#39;area [!UICONTROL Impostazioni].
+Selezionare le pagine di destinazione e fare clic su **[!UICONTROL Edit]** nell&#39;area [!UICONTROL Settings].
 
 ![](assets/setup-steps-8.png)
 
-Immetti il nuovo nome di dominio nel campo **[!UICONTROL Nome dominio per pagine di destinazione]**. Il modulo dovrebbe essere:
+Immettere il nuovo nome di dominio nel campo **[!UICONTROL Domain Name for Landing Pages]**. Il modulo dovrebbe essere:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-9.png)
 
-Nel campo pagina **[!UICONTROL Fallback]**, immettere l&#39;URL a cui si desidera che gli utenti accedano se una pagina di destinazione non è disponibile. Se non disponi di una pagina di fallback, puoi utilizzare la home page dell’azienda. Nel campo **[!UICONTROL Home page]**, immetti il sito Web della tua azienda.
+Nel campo pagina **[!UICONTROL Fallback]**, immettere l&#39;URL a cui si desidera che le persone accedano se una pagina di destinazione non è disponibile. Se non disponi di una pagina di fallback, puoi utilizzare la home page dell’azienda. Nel campo **[!UICONTROL Homepage]**, immetti il sito Web della tua azienda.
 
 ![](assets/setup-steps-10.png)
 
-Nell&#39;area [!UICONTROL Amministratore], seleziona **[!UICONTROL E-mail]** per aggiungere il tuo CNAME e-mail
+Nell&#39;area [!UICONTROL Admin], seleziona **[!UICONTROL Email]** per aggiungere il tuo CNAME e-mail
 
 ![](assets/setup-steps-11.png)
 
-Scorri verso il basso fino a [!UICONTROL Domini marchio]. Seleziona il dominio e fai clic su **[!UICONTROL Modifica]**.
+Scorri verso il basso fino a [!UICONTROL Branding Domains]. Selezionare il dominio e fare clic su **[!UICONTROL Edit]**.
 
 ![](assets/setup-steps-12.png)
 
 Nel campo Dominio, immetti il dominio di tracciamento e-mail. Il modulo dovrebbe essere:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Salva]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Save]**.
 
 ![](assets/setup-steps-13.png)
 
@@ -263,7 +262,7 @@ Scegli una delle seguenti opzioni, a seconda del sistema di gestione delle relaz
 >
 >Sei un cliente di [!DNL Launch Pack]? Puoi saltare questo passaggio. Il tuo consulente ti fornirà le istruzioni del codice [!DNL Munchkin] nel documento di istruzioni per la configurazione IT.
 
-Il Marketo Engage dispone di un JavaScript di tracciamento personalizzato (denominato [!DNL Munchkin]) che è possibile utilizzare per tenere traccia delle attività personali su qualsiasi pagina Web. [!DNL Munchkin] è richiesto per integrare il sito Web in Marketo. Segui questi passaggi per [Aggiungere [!DNL Munchkin] codice di tracciamento al tuo sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo Engage dispone di un JavaScript di tracciamento personalizzato (denominato [!DNL Munchkin]) che è possibile utilizzare per tenere traccia delle attività personali su qualsiasi pagina Web. [!DNL Munchkin] è richiesto per integrare il sito Web in Marketo. Segui questi passaggi per [Aggiungere [!DNL Munchkin] codice di tracciamento al tuo sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -271,10 +270,10 @@ Il Marketo Engage dispone di un JavaScript di tracciamento personalizzato (denom
 
 ## Aspettative di prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto del Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >
->* [Configura protocolli per il Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
+>* [Configura protocolli per Marketo Engage](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md)
 >
 >* [Configurazione utente](/help/marketo/getting-started/initial-setup/user-setup.md)

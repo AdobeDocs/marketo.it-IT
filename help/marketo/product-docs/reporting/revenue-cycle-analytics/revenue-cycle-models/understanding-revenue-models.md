@@ -4,7 +4,7 @@ description: Informazioni sui modelli di ricavo - Documentazione di Marketo - Do
 title: Informazioni sui modelli di ricavo
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -57,15 +57,15 @@ Ogni azienda è diversa. Puoi aggiungere elementi al modello trascinandoli dalla
 
 Questa sembra una scatola ed è la più semplice delle fasi. Analytics terrà traccia di afflusso, deflusso e saldo di questa fase.
 
-## Fase SLA {#sla-stage}
+## SLA Stage {#sla-stage}
 
-Breve durata per la fase **Contratto di servizio**. L’obiettivo è quello di applicare un limite di tempo in alcune fasi.
+Abbreviazione di **Service level agreement** stage. L’obiettivo è quello di applicare un limite di tempo in alcune fasi.
 
 >[!NOTE]
 >
 >**Esempio**
 >
->Quando un lead compila un modulo &quot;Contact Me&quot; (Contattami) e invii un avviso a un rappresentante di vendita, potresti desiderare uno SLA di 72 ore. Sarai in grado di tenere traccia delle infrazioni e rimproverare la rappresentante per aver lasciato un buon lead incommunicado.
+>Quando un lead compila un modulo &quot;Contact Me&quot; e invii un avviso a un rappresentante di vendita, potresti voler ricevere un SLA di 72 ore. Sarai in grado di tenere traccia delle infrazioni e rimproverare la rappresentante per aver lasciato un buon lead incommunicado.
 
 ## Gate Stage {#gate-stage}
 
@@ -101,7 +101,7 @@ Lost è un buon esempio da aggiungere, ma notate che non si trova sul percorso v
 >
 >* [Utilizzo degli stadi del gate del modello dei ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-gate-stages.md)
 >
->* [Utilizzo degli stadi SLA del modello di ricavo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
+>* [Utilizzo degli stadi di SLA del modello dei ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/using-revenue-model-sla-stages.md)
 >
 >* [Rapporto sul modello di reddito](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/report-on-your-revenue-model.md)
 >

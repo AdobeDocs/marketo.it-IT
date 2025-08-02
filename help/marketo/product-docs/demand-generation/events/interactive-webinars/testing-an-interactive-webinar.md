@@ -3,7 +3,7 @@ description: Test di un webinar interattivo - Documentazione di Marketo - Docume
 title: Verifica di un webinar interattivo
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: f73c052954b182255f53496bd2baadad7482ed1e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%
@@ -30,4 +30,4 @@ Dopo aver creato e progettato il webinar, l’host, il co-host e/o i relatori po
 
 ## Funzioni non disponibili durante il test {#features-not-available-when-testing}
 
-Poiché questo è un webinar di prova, ci sono alcuni elementi che non sono disponibili che normalmente sarebbero dopo un webinar live. Ciò include: la registrazione del webinar, l’ottenimento delle informazioni sul coinvolgimento sotto forma di Engagement Dashboard o del dashboard aggregato nella scheda Dashboard. Nemmeno il tracciamento dei webinar on demand per i webinar interattivi, disponibile per i webinar registrati, sarà disponibile. Poiché non vengono tracciati dati di coinvolgimento durante il webinar di test, non verranno ricevuti dati da Adobe Connect al Marketo Engage, pertanto non è possibile eseguire l’apprendimento post-webinar.
+Poiché questo è un webinar di prova, ci sono alcuni elementi che non sono disponibili che normalmente sarebbero dopo un webinar live. Ciò include: la registrazione del webinar, l’ottenimento delle informazioni sul coinvolgimento sotto forma di Engagement Dashboard o del dashboard aggregato nella scheda Dashboard. Nemmeno il tracciamento dei webinar on demand per i webinar interattivi, disponibile per i webinar registrati, sarà disponibile. Poiché non vengono tracciati dati di coinvolgimento durante il webinar di test, non verranno ricevuti dati da Adobe Connect a Marketo Engage, pertanto non è possibile eseguire l’apprendimento post-webinar.

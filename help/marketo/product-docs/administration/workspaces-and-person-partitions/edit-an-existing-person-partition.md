@@ -4,10 +4,10 @@ description: Modificare una partizione persona esistente - Documentazione Market
 title: Modificare una partizione di persona esistente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 1%
 
 ---
 
@@ -23,19 +23,19 @@ Una partizione di persona è simile a un secondo (o terzo) database. È possibil
 >
 >[Creare una partizione di persona](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-person-partition.md){target="_blank"}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-an-existing-person-partition-1.png)
 
-1. Fare clic su **[!UICONTROL Aree di lavoro e partizioni]**.
+1. Fai clic su **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/edit-an-existing-person-partition-2.png)
 
-1. Nella scheda **[!UICONTROL Partizioni persona]**, seleziona la partizione persona da modificare e fai clic su **[!UICONTROL Modifica partizione persona]**.
+1. Nella scheda **[!UICONTROL Person Partitions]** selezionare la partizione persona che si desidera modificare e fare clic su **[!UICONTROL Edit Person Partition]**.
 
    ![](assets/edit-an-existing-person-partition-3.png)
 
-1. Immetti la partizione persona **[!UICONTROL Name]**, le **[!UICONTROL aree di lavoro]** a cui appartengono e fai clic su **[!UICONTROL Salva]**.
+1. Immettere la partizione persona **[!UICONTROL Name]**, il **[!UICONTROL Workspaces]** a cui appartengono e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-an-existing-person-partition-4.png)
 

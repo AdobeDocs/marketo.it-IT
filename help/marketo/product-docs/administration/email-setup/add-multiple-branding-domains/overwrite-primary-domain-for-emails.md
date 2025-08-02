@@ -4,9 +4,9 @@ description: Sovrascrivi dominio primario per e-mail - Documentazione Marketo - 
 title: Sovrascrivi dominio primario per e-mail
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambierà il modo in cui i collegamenti vengono contrassegnati al momento dell’invio dell’e-mail.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 
-1. Seleziona un&#39;e-mail e fai clic su **[!UICONTROL Modifica bozza]**.
+1. Selezionare un&#39;e-mail e fare clic su **[!UICONTROL Edit Draft]**.
 
    ![](assets/overwrite-primary-domain-for-emails-2.png)
 
@@ -29,4 +29,4 @@ Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambi
 
    >[!NOTE]
    >
-   >Non tutti gli utenti dispongono delle autorizzazioni necessarie per impostare il dominio con marchio per e-mail. Contatta l&#39;amministratore se non trovi il menu a discesa [!UICONTROL Domini con marchio].
+   >Non tutti gli utenti dispongono delle autorizzazioni necessarie per impostare il dominio con marchio per e-mail. Contatta l&#39;amministratore se non trovi il menu a discesa [!UICONTROL Branded Domains].

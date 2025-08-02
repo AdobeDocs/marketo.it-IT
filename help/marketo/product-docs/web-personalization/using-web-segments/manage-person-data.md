@@ -4,7 +4,7 @@ description: Gestire i dati della persona - Documentazione di Marketo - Document
 title: Gestisci dati persona
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 7%
@@ -49,54 +49,54 @@ Sfrutta i dati della persona per [!DNL Web Personalization] selezionando i campi
    >* La lunghezza massima dei tipi di stringa è di 255 caratteri
    >* I campi nascosti verranno rimossi automaticamente
 
-<table> 
- <tbody> 
-  <tr> 
-   <th><p>Nome API REST</p></th> 
-   <th><p>Nome API SOAP</p></th> 
-   <th><p>Nome intuitivo</p></th> 
-  </tr> 
-  <tr> 
-   <td><p>reparto</p></td> 
-   <td><p>Reparto</p></td> 
-   <td><p>Reparto</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>titolo</p></td> 
-   <td><p>Titolo</p></td> 
-   <td><p>Qualifica</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>valutazione</p></td> 
-   <td><p>Valutazione</p></td> 
-   <td><p>Valutazione</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadScore</p></td> 
-   <td><p>PunteggioLead</p></td> 
-   <td><p>Punteggio</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadStatus</p></td> 
-   <td><p>StatoLead</p></td> 
-   <td><p>Stato</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>priorità</p></td> 
-   <td><p>Priorità</p></td> 
-   <td><p>Priorità</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>leadRole</p></td> 
-   <td><p>LeadRole</p></td> 
-   <td><p>Ruolo</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>annullato abbonamento</p></td> 
-   <td><p>Annulla l'iscrizione</p></td> 
-   <td><p>Annulla l'iscrizione</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th><p>Nome API REST</p></th>
+   <th><p>Nome API SOAP</p></th>
+   <th><p>Nome intuitivo</p></th>
+  </tr>
+  <tr>
+   <td><p>reparto</p></td>
+   <td><p>Reparto</p></td>
+   <td><p>Reparto</p></td>
+  </tr>
+  <tr>
+   <td><p>titolo</p></td>
+   <td><p>Titolo</p></td>
+   <td><p>Qualifica</p></td>
+  </tr>
+  <tr>
+   <td><p>valutazione</p></td>
+   <td><p>Valutazione</p></td>
+   <td><p>Valutazione</p></td>
+  </tr>
+  <tr>
+   <td><p>leadScore</p></td>
+   <td><p>PunteggioLead</p></td>
+   <td><p>Punteggio</p></td>
+  </tr>
+  <tr>
+   <td><p>leadStatus</p></td>
+   <td><p>StatoLead</p></td>
+   <td><p>Stato</p></td>
+  </tr>
+  <tr>
+   <td><p>priorità</p></td>
+   <td><p>Priorità</p></td>
+   <td><p>Priorità</p></td>
+  </tr>
+  <tr>
+   <td><p>leadRole</p></td>
+   <td><p>LeadRole</p></td>
+   <td><p>Ruolo</p></td>
+  </tr>
+  <tr>
+   <td><p>annullato abbonamento</p></td>
+   <td><p>Annulla l'iscrizione</p></td>
+   <td><p>Annulla l'iscrizione</p></td>
+  </tr>
+ </tbody>
 </table>
 
 Per i nuovi account di [!DNL Web Personalization] sono disponibili i seguenti campi di lead:

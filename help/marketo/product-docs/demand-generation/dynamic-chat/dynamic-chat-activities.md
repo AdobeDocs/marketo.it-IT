@@ -2,7 +2,7 @@
 description: '[!DNL Dynamic Chat] attività - Documentazione di Marketo - Documentazione del prodotto'
 title: '[!DNL Dynamic Chat] attività'
 exl-id: ef3bb1a3-6758-4798-92eb-fef28a5ff9c7
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
   </tr>
   <tr>
     <td style="width:25%"><b>Coinvolto con un flusso/finestra di dialogo per conversazione</b></td>
-    <td>Un coinvolgimento si verifica la prima volta che un visitatore web fa clic su un prompt in una finestra di dialogo o in un flusso conversazionale (facendo clic su un’opzione a scelta multipla, inviando informazioni, prenotando una riunione, aprendo un documento, ecc). Se un visitatore apre una finestra di dialogo o un flusso conversazionale, ma non fa clic su un prompt, viene registrato un coinvolgimento <b>non</b>. 
+    <td>Un coinvolgimento si verifica la prima volta che un visitatore web fa clic su un prompt in una finestra di dialogo o in un flusso conversazionale (facendo clic su un’opzione a scelta multipla, inviando informazioni, prenotando una riunione, aprendo un documento, ecc). Se un visitatore apre una finestra di dialogo o un flusso conversazionale, ma non fa clic su un prompt, viene registrato un coinvolgimento <b>non</b>.
     <br>Un evento di coinvolgimento per visitatore, per sessione.</td>
   </tr>
    <tr>

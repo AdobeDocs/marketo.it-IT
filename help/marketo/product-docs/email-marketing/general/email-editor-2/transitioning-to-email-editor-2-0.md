@@ -6,7 +6,7 @@ exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '618'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Per impostazione predefinita, tutte le e-mail e i modelli e-mail esistenti saran
 
 Se la sottoscrizione contiene e-mail v1.0 prima del passaggio a [!DNL Email Editor 2.0], si verificherà il seguente comportamento in base allo stato corrente della risorsa:
 
-**Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 dell&#39;e-mail approvata. Se poi approvi la bozza v2.0, lo stato approvato dell’e-mail diventa v2.0 e non è possibile tornare alla v1.0.\
+**Approvato** - Facendo clic su &quot;Modifica bozza&quot; verrà creata una bozza v2.0 dell&#39;e-mail approvata. Se poi approvi la bozza v2.0, lo stato approvato dell’e-mail diventa v2.0 e non è possibile tornare alla v1.0.
 **Bozza** - Facendo clic su &quot;Modifica bozza&quot;, la bozza verrà contrassegnata automaticamente come v2.0. A questo punto, non sarà possibile eliminare e ripristinare la versione 1.0 perché non esiste una versione approvata della risorsa.
 **Approvato con bozza** - Facendo clic su &quot;Modifica bozza&quot;, la bozza verrà automaticamente contrassegnata come v2.0. Per questo motivo, non è possibile ripristinare la bozza alla versione 1.0.
 
@@ -40,14 +40,14 @@ Se il tuo abbonamento dispone di modelli e-mail v1.0 prima del passaggio a [!DNL
 
 Se approvi un modello e-mail che in precedenza era v1.0 (in uno qualsiasi degli stati di cui sopra), visualizzerai il seguente comportamento:
 
-Per le e-mail v1.0 esistenti che utilizzavano il modello (in precedenza v1.0):\
-**E-mail v1.0 approvata** - Per questa e-mail verrà creata una bozza v2.0, che utilizza ancora il modello v2.0 appena approvato. Riceverà anche eventuali modifiche al modello.\
-**E-mail bozza v1.0** - La bozza rimarrà v1.0 fino a quando non farai clic su &quot;Modifica bozza&quot;. Successivamente, verrà automaticamente contrassegnata come v2.0 e riceverà eventuali modifiche al modello.\
+Per le e-mail v1.0 esistenti che utilizzavano il modello (in precedenza v1.0):
+**E-mail v1.0 approvata** - Per questa e-mail verrà creata una bozza v2.0, che utilizza ancora il modello v2.0 appena approvato. Riceverà anche eventuali modifiche al modello.
+**E-mail bozza v1.0** - La bozza rimarrà v1.0 fino a quando non farai clic su &quot;Modifica bozza&quot;. Successivamente, verrà automaticamente contrassegnata come v2.0 e riceverà eventuali modifiche al modello.
 **Approvato con bozza e-mail v1.0** - La bozza rimarrà v1.0 fino a quando non si fa clic su &quot;Modifica bozza&quot;. Successivamente, verrà automaticamente contrassegnata come v2.0 e riceverà eventuali modifiche al modello.
 
-Per le e-mail v2.0 esistenti che utilizzavano il modello (in precedenza v1.0):\
-**E-mail v2.0 approvata** - Per questa e-mail verrà creata una bozza v2.0, che &quot;utilizza&quot; ancora il modello appena approvato, e riceverà eventuali modifiche al modello.\
-**E-mail bozza v2.0** - La bozza rimarrà invariata (v2.0) e riceverà eventuali modifiche al modello.\
+Per le e-mail v2.0 esistenti che utilizzavano il modello (in precedenza v1.0):
+**E-mail v2.0 approvata** - Per questa e-mail verrà creata una bozza v2.0, che &quot;utilizza&quot; ancora il modello appena approvato, e riceverà eventuali modifiche al modello.
+**E-mail bozza v2.0** - La bozza rimarrà invariata (v2.0) e riceverà eventuali modifiche al modello.
 **Approvato con bozza e-mail v2.0** - La bozza rimarrà invariata (v2.0) e riceverà eventuali modifiche al modello.
 
 >[!CAUTION]

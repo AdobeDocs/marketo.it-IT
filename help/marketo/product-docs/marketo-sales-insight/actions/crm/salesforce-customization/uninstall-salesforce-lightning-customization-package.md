@@ -3,7 +3,7 @@ description: Disinstallare il pacchetto di personalizzazione di Salesforce Light
 title: Disinstallare il pacchetto di personalizzazione di Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '993'
 ht-degree: 11%
@@ -298,9 +298,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Data ultimo accordo di marketing</td>
   <td>Timestamp del coinvolgimento da Marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -308,9 +308,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Descrizione ultimo coinvolgimento marketing</td>
   <td>Descrizione del progetto</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -318,9 +318,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Ultimo Source di coinvolgimento marketing</td>
   <td>Source del coinvolgimento nel marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -328,9 +328,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Ultimo tipo di coinvolgimento marketing</td>
   <td>Tipo di coinvolgimento (ad esempio, attività Web)</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -338,9 +338,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Ultima attività per vendite</td>
   <td>Ultima attività in uscita eseguita dal team vendite</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -348,9 +348,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Ultima risposta</td>
   <td>Ultima risposta e-mail all’e-mail di vendita</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -358,9 +358,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Campagna di vendita corrente</td>
   <td>Nome del registro della campagna MSC su cui si trova il contatto/lead</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -378,9 +378,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>MSC - Rinuncia</td>
   <td>Campo di rinuncia</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Casella di controllo</td>
  </tr>
@@ -396,9 +396,9 @@ Elenco di tutti gli oggetti che devono essere rimossi dall&#39;istanza [!DNL Sal
   <td>[!UICONTROL Send MSC Email]</td>
   <td>Invia e-mail di vendita da [!DNL Salesforce]</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
  </tr>
  <tr>

@@ -4,7 +4,7 @@ description: Aggiunta di campi a un rapporto di Revenue Explorer (documenti Mark
 title: Aggiunta di campi a un rapporto di Gestione entrate
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 Personalizza i rapporti di Esplora entrate trascinando i campi delle dimensioni e delle metriche nell’area di lavoro.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Tipo di campo</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td>Campo o Dimension giallo</td> 
-   <td><p>I campi gialli sono le dimensioni (righe e colonne) del rapporto.</p><p>Ad esempio, puoi impostare un rapporto che mostri in colonne lo stato del lead o la data di creazione.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Campo o misura blu</td> 
-   <td><p>I campi blu sono metriche analizzate nei dati.</p><p>Ad esempio, potrebbe trattarsi del punteggio medio di un lead o del numero di giorni in cui un lead ha avuto un’opportunità.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Tipo di campo</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td>Campo giallo o Dimension</td>
+   <td><p>I campi gialli sono le dimensioni (righe e colonne) del rapporto.</p><p>Ad esempio, puoi impostare un rapporto che mostri in colonne lo stato del lead o la data di creazione.</p></td>
+  </tr>
+  <tr>
+   <td>Campo o misura blu</td>
+   <td><p>I campi blu sono metriche analizzate nei dati.</p><p>Ad esempio, potrebbe trattarsi del punteggio medio di un lead o del numero di giorni in cui un lead ha avuto un’opportunità.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 1. Individuare i campi gialli che si desidera utilizzare e trascinarli nelle righe.

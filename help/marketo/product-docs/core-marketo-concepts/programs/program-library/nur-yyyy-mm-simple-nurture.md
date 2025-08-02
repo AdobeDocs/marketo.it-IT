@@ -3,140 +3,140 @@ description: NUR-YYYY-MM-Simple Nurture - Documentazione di Marketo - Documentaz
 title: NUR-YYYY-MM-Statura semplice
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
 # NUR-YYYY-MM-Statura semplice {#nur-yyyy-mm-simple-nurture}
 
-Questo è un esempio di semplici programmi di sviluppo, che utilizzano il programma di coinvolgimento del Marketo Engage, con contenuto cadenziato da versare nel tempo nel database utilizzando i flussi per guidare i record attraverso i percorsi in base al comportamento.
+Si tratta di un esempio di semplici programmi di sviluppo, che utilizzano il programma Marketo Engage Engagement, con contenuto cadenziato da distribuire nel tempo nel database utilizzando flussi di dati per guidare i record attraverso percorsi basati sul comportamento.
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canale</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Stato iscrizione</th>
    <th>Comportamento di Analytics</th>
    <th>Tipo di programma</th>
-  </tr> 
-  <tr> 
-   <td>Attività di nurturing</td> 
-   <td>01 - Membro 
+  </tr>
+  <tr>
+   <td>Attività di nurturing</td>
+   <td>01 - Membro
 <br/>02 - Coinvolto - Completato</td>
    <td>Inclusivo</td>
    <td>Coinvolgimento</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome modello</th>
    <th>Nome risorsa</th>
-  </tr> 
-  <tr> 
-   <td>E-mail</td> 
+  </tr>
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01 - E-mail</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
+   <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>02 - E-mail</td>
   </tr>
-   <tr> 
-   <td>E-mail</td> 
+   <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>03 - E-mail</td>
   </tr>
-  <tr> 
-   <td>Rapporto locale</td> 
+  <tr>
+   <td>Rapporto locale</td>
    <td> </td>
    <td>Prestazioni e-mail</td>
   </tr>
-  <tr> 
-   <td>Rapporto locale</td> 
+  <tr>
+   <td>Rapporto locale</td>
    <td> </td>
    <td>Prestazioni del flusso di coinvolgimento</td>
   </tr>
   <tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>01 - Aggiungere allo sviluppo</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>02 - Pausa sviluppo</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>03 - Riprendere l’allattamento</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>04 - Coinvolto (successo del programma)</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Assets - Raccoglie tutte le risorse creative
    <br/>(sottocartelle per e-mail)</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Campagne: ospita tutte le campagne intelligenti</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Rapporti</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/nur-yyyy-mm-simple-nurture-1.png)
 
 ## I miei token inclusi {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo di token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo di token</th>
    <th>Nome token</th>
    <th>Valore</th>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Email-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regole di conflitto {#conflict-rules}

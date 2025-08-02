@@ -4,7 +4,7 @@ description: Classificazione e ottimizzazione della profilatura dell’account -
 title: Classificazione e tuning profilo account
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 1%
@@ -27,37 +27,37 @@ I risultati mostrano tutti i tuoi account noti suddivisi per livello. A è il gr
 
 Anche se facoltativo, è consigliabile selezionare la casella di controllo Promuovi automaticamente in quanto consente di risparmiare molto tempo. Tuttavia, se desideri esaminare ogni account e [aggiungerlo manualmente](/help/marketo/product-docs/target-account-management/target/named-accounts/discover-accounts.md#discover-crm-accounts), lascia la casella deselezionata.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Classifica</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Classifica</span></strong></td>
+   <td>
     <div>
-      Classificazione dell’account in base al profilo cliente ideale. A è la misura migliore, D è la misura minore. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Propensione</span></strong></td> 
-   <td> 
+      Classificazione dell’account in base al profilo cliente ideale. A è la misura migliore, D è la misura minore.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Propensione</span></strong></td>
+   <td>
     <div>
-      Aumento stimato del tasso di conversione rispetto a una selezione di conti non basata su ICP. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Account (%)</span></strong></td> 
-   <td> 
+      Aumento stimato del tasso di conversione rispetto a una selezione di conti non basata su ICP.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Account (%)</span></strong></td>
+   <td>
     <div>
-      Percentuale di conti in input modello con questa classificazione. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">% della base del modello</span></strong></td> 
-   <td> 
+      Percentuale di conti in input modello con questa classificazione.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">% della base del modello</span></strong></td>
+   <td>
     <div>
-      Percentuale di conti in base a modello che hanno questa classificazione. 
-    </div></td> 
-  </tr> 
- </tbody> 
+      Percentuale di conti in base a modello che hanno questa classificazione.
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Regolazione modello {#model-tuning}
@@ -72,86 +72,86 @@ Sono disponibili diverse schede tra cui scegliere, che consentono una personaliz
 
 **Categorie indicatore**
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Conformità</span></strong></td> 
-   <td> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Conformità</span></strong></td>
+   <td>
     <div>
-      Certificazioni, posizioni relative alla conformità/assunzione. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Operazioni</span></strong></td> 
-   <td> 
+      Certificazioni, posizioni relative alla conformità/assunzione.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Operazioni</span></strong></td>
+   <td>
     <div>
-      Posizioni/assunzioni legate alle operazioni. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">ORE</span></strong></td> 
-   <td> 
+      Posizioni/assunzioni legate alle operazioni.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">ORE</span></strong></td>
+   <td>
     <div>
       Software HR o Payroll, posizioni/assunzioni relative alle risorse umane.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Progettazione</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Progettazione</span></strong></td>
+   <td>
     <div>
-      Tecnologie, quadri di riferimento, posizioni/assunzioni correlate all'ingegneria. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Vendite</span></strong></td> 
-   <td> 
+      Tecnologie, quadri di riferimento, posizioni/assunzioni correlate all'ingegneria.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Vendite</span></strong></td>
+   <td>
     <div>
-      Soluzioni e software per la vendita, posizioni di vendita/noleggio. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Intento</span></strong></td> 
-   <td> 
+      Soluzioni e software per la vendita, posizioni di vendita/noleggio.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Intento</span></strong></td>
+   <td>
     <div>
-      Indicatori di intento. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">IT</span></strong></td> 
-   <td> 
+      Indicatori di intento.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">IT</span></strong></td>
+   <td>
     <div>
       Soluzioni hardware e software, tecnologie, posizioni/assunzioni relative all'IT.
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Finanza</span></strong></td> 
-   <td> 
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Finanza</span></strong></td>
+   <td>
     <div>
-      Software finanziario, posizioni finanziarie/assunzioni. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Marketing</span></strong></td> 
-   <td> 
+      Software finanziario, posizioni finanziarie/assunzioni.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Marketing</span></strong></td>
+   <td>
     <div>
-      Tecnologie e software di marketing, posizioni di marketing/noleggio. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Business</span></strong></td> 
-   <td> 
+      Tecnologie e software di marketing, posizioni di marketing/noleggio.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Business</span></strong></td>
+   <td>
     <div>
-      Inserzioni o partnership commerciali con Forbes o Inc. 
-    </div></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Esperienza cliente e relazioni</span></strong></td> 
-   <td> 
+      Inserzioni o partnership commerciali con Forbes o Inc.
+    </div></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Esperienza cliente e relazioni</span></strong></td>
+   <td>
     <div>
       Posizioni/assunzioni relative a relazioni con i clienti e successo del cliente.
-    </div></td> 
-  </tr> 
- </tbody> 
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Passa il cursore del mouse sulle descrizioni per visualizzare una descrizione di ciascuna colonna.

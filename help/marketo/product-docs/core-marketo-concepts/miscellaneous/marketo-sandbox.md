@@ -3,7 +3,7 @@ unique-page-id: 11386358
 description: Sandbox Marketo - Documentazione Marketo - Documentazione del prodotto
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: e6a5b6c84ce12c0bb4d1df013bcd4471d71ce2c2
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Una sandbox di Marketo Engage è un’ulteriore istanza utilizzata a scopo di te
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 Non è possibile sincronizzare una sandbox di Marketo con il CRM regolare se è già sincronizzata con l’istanza di produzione. Utilizza la sandbox del tuo CRM per la sincronizzazione e segui tutti gli stessi passaggi della sincronizzazione originale.
 
@@ -29,7 +29,7 @@ Non è possibile sincronizzare una sandbox di Marketo con il CRM regolare se è 
 
 >[!CAUTION]
 >
->Al momento non è supportato l’aggiornamento della sandbox per Marketo Dynamics Sync. Se devi aggiornare la sandbox di Dynamics CRM, sarà necessaria una nuova sandbox di Marketo. Per ulteriori informazioni, contatta il team dell’account Adobe (il tuo Account Manager).
+>Al momento non è supportato l’aggiornamento della sandbox per Marketo Dynamics Sync. Se devi aggiornare la sandbox di Dynamics CRM, sarà necessaria una nuova sandbox di Marketo. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 ## Copia istanza {#instance-copy}
 

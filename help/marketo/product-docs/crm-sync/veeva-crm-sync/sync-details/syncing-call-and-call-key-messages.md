@@ -3,7 +3,7 @@ description: Sincronizzazione dei messaggi chiave di chiamata e chiamata - Docum
 title: Sincronizzazione dei messaggi chiave di chiamata e chiamata
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '477'
 ht-degree: 3%
@@ -87,10 +87,10 @@ I seguenti campi nei messaggi Chiave chiamata e Chiave chiamata sono sincronizza
     </tr>
     <tr>
       <td>Invito</td>
-      <td>Data</td>
+      <td>Date</td>
       <td>Data della chiamata in cui è stata salvata o inviata per la prima volta. Questo campo viene impostato tramite un trigger alla data corrente se non viene fornito né il campo data né il campo data e ora.</td>
       <td>Data_chiamata__c</td>
-      <td>Data</td>
+      <td>Date</td>
     </tr>
     <tr>
       <td>Invito</td>

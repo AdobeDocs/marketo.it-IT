@@ -4,9 +4,9 @@ description: Applicare limiti di comunicazione a Smart Campaign - Documentazione
 title: Applicare limiti di comunicazione a Smart Campaign
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 0%
 >
 >[Abilita limiti di comunicazione](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md){target="_blank"}
 
-Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe volte in una settimana, giusto? Fortunatamente, il Marketo Engage ha dei limiti di comunicazione per aiutare.
+Non è una buona idea mandare email a qualcuno più volte al giorno, o troppe volte in una settimana, giusto? Fortunatamente, Marketo Engage ha dei limiti di comunicazione per aiutarti.
 
 >[!NOTE]
 >
 >Quando una persona supera i limiti di comunicazione impostati, Marketo blocca le e-mail non operative (le e-mail operative vengono sempre inviate).
 
-1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Pianifica]** e quindi su **[!UICONTROL Modifica impostazioni]**.
+1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Schedule]** e quindi su **[!UICONTROL Edit Settings]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-1.png)
 
-1. Selezionare la casella di controllo **[!UICONTROL Blocca e-mail non operative]** e quindi fare clic su **[!UICONTROL Salva]**.
+1. Selezionare la casella di controllo **[!UICONTROL Block non-operational emails]** e quindi fare clic su **[!UICONTROL Save]**.
 
    ![](assets/apply-communication-limits-to-smart-campaign-2.png)
 

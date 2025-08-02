@@ -4,7 +4,7 @@ description: Panoramica del centro comandi - Documentazione di Marketo - Documen
 title: Panoramica del centro comandi
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -23,59 +23,59 @@ Nella sezione e-mail di [!UICONTROL Command Center] puoi gestire tutte le attivi
 
 La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’organizzazione con schede principali e secondarie che fungono da cartelle in cui le e-mail vengono memorizzate automaticamente in base al loro stato.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td title="Colore di sfondo : Grigio"><p title=""><strong><span>Principale</span> </strong></p></td> 
-   <td title="Colore di sfondo : Grigio"><p title=""><strong><span>Secondario</span> </strong></p></td> 
-   <td title="Colore di sfondo : Grigio"><p title=""><strong><span>Descrizione</span> </strong></p></td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Blu"><strong title="">Inviato</strong></td> 
-   <td title="Colore di sfondo : Blu">[!UICONTROL Delivered]</td> 
-   <td title="Colore di sfondo : Blu">E-mail che sono state consegnate al destinatario.</td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Blu"><br></td> 
-   <td title="Colore di sfondo : Blu">[!UICONTROL Archived]</td> 
-   <td title="Colore di sfondo : Blu">E-mail che sono state archiviate dall’utente per disabilitare il tracciamento sulle e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Grigio"><strong title="">In sospeso</strong></td> 
-   <td title="Colore di sfondo : Grigio">[!UICONTROL Scheduled]</td> 
-   <td title="Colore di sfondo : Grigio">Messaggi e-mail attualmente pianificati per l’uscita. Una volta inviata, l’e-mail viene spostata nella cartella consegnata.</td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Grigio"><br></td> 
-   <td title="Colore di sfondo : Grigio">[!UICONTROL Draft]</td> 
-   <td title="Colore di sfondo : Grigio"><p>E-mail che sono state salvate come bozza.<br><strong>Nota:</strong> è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Grigio"><br></td> 
-   <td title="Colore di sfondo : Grigio">[!UICONTROL In Progress]</td> 
-   <td title="Colore di sfondo : Grigio">Si tratta di uno stato intermedio in cui le e-mail vengono inviate quando sono nel movimento di invio. Le e-mail dovrebbero essere in corso solo per qualche istante.</td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Blu"><strong title="">Non consegnato</strong></td> 
-   <td title="Colore di sfondo : Blu">[!UICONTROL Failed]</td> 
-   <td title="Colore di sfondo : Blu">E-mail che non sono state consegnate.</td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Blu"><br></td> 
-   <td title="Colore di sfondo : Blu">[!UICONTROL Bounced]</td> 
-   <td title="Colore di sfondo : Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
-  </tr> 
-  <tr> 
-   <td title="Colore di sfondo : Blu"><br></td> 
-   <td title="Colore di sfondo : Blu">[!UICONTROL Spam]</td> 
-   <td title="Colore di sfondo : Blu"><p>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td title="Colore di sfondo : Grigio"><p title=""><strong><span>Principale</span> </strong></p></td>
+   <td title="Colore di sfondo : Grigio"><p title=""><strong><span>Secondario</span> </strong></p></td>
+   <td title="Colore di sfondo : Grigio"><p title=""><strong><span>Descrizione</span> </strong></p></td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Blu"><strong title="">Inviato</strong></td>
+   <td title="Colore di sfondo : Blu">[!UICONTROL Delivered]</td>
+   <td title="Colore di sfondo : Blu">E-mail che sono state consegnate al destinatario.</td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Blu"><br></td>
+   <td title="Colore di sfondo : Blu">[!UICONTROL Archived]</td>
+   <td title="Colore di sfondo : Blu">E-mail che sono state archiviate dall’utente per disabilitare il tracciamento sulle e-mail.</td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Grigio"><strong title="">In sospeso</strong></td>
+   <td title="Colore di sfondo : Grigio">[!UICONTROL Scheduled]</td>
+   <td title="Colore di sfondo : Grigio">Messaggi e-mail attualmente pianificati per l’uscita. Una volta inviata, l’e-mail viene spostata nella cartella consegnata.</td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Grigio"><br></td>
+   <td title="Colore di sfondo : Grigio">[!UICONTROL Draft]</td>
+   <td title="Colore di sfondo : Grigio"><p>E-mail che sono state salvate come bozza.<br><strong>Nota:</strong> è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Grigio"><br></td>
+   <td title="Colore di sfondo : Grigio">[!UICONTROL In Progress]</td>
+   <td title="Colore di sfondo : Grigio">Si tratta di uno stato intermedio in cui le e-mail vengono inviate quando sono nel movimento di invio. Le e-mail dovrebbero essere in corso solo per qualche istante.</td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Blu"><strong title="">Non consegnato</strong></td>
+   <td title="Colore di sfondo : Blu">[!UICONTROL Failed]</td>
+   <td title="Colore di sfondo : Blu">E-mail che non sono state consegnate.</td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Blu"><br></td>
+   <td title="Colore di sfondo : Blu">[!UICONTROL Bounced]</td>
+   <td title="Colore di sfondo : Blu"><p>E-mail rifiutate dal server e-mail dei destinatari. <br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td>
+  </tr>
+  <tr>
+   <td title="Colore di sfondo : Blu"><br></td>
+   <td title="Colore di sfondo : Blu">[!UICONTROL Spam]</td>
+   <td title="Colore di sfondo : Blu"><p>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Gestisci le Attività {#manage-tasks}

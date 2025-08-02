@@ -1,17 +1,17 @@
 ---
 description: Utilizzo dell’invio in blocco di e-mail per le vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo dell’e-mail per vendite in blocco in Salesforce
+title: Utilizzo dell’e-mail per le vendite in blocco in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '596'
 ht-degree: 0%
 
 ---
 
-# Utilizzo dell’e-mail per vendite in blocco in Salesforce {#using-bulk-send-sales-email-in-salesforce}
+# Utilizzo dell’e-mail per le vendite in blocco in Salesforce {#using-bulk-send-sales-email-in-salesforce}
 
-Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare le comunicazioni in uscita utilizzando le azioni di vendita.
+Scopri come inviare e-mail in blocco in Salesforce per ridimensionare le comunicazioni in uscita utilizzando le azioni di vendita.
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ Scopri come inviare e-mail in blocco in Salesforce per aiutarti a ridimensionare
 
 >[!PREREQUISITES]
 >
->Assicurati di aver installato il [pacchetto Sales Insight più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} nell&#39;istanza Salesforce e di aver configurato i [pulsanti di azione](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nelle visualizzazioni Contatto e Elenco lead in Salesforce.
+>Assicurati di aver installato il [pacchetto Sales Insight più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} nella tua istanza Salesforce e di aver configurato i [pulsanti di azione](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nelle visualizzazioni dei contatti e dell&#39;elenco di lead in Salesforce.
 
 ## Invio di e-mail in blocco in Salesforce Lightning {#sending-bulk-email-in-salesforce-lightning}
 
-1. In Salesforce, passare alla home page Lead/Contatti facendo clic sulla scheda **Lead/Contatti**.
+1. In Salesforce, passare alla home page di lead/contatti facendo clic sulla scheda **lead/contatti**.
 
    ![](assets/using-bulk-send-sales-email-in-salesforce-1.png)
 

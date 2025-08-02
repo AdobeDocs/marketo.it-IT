@@ -4,10 +4,10 @@ description: Aggiungere Vibes as a LaunchPoint Service - Documentazione di Marke
 title: Aggiungere Vibes come servizio LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: c0e2c460559860a22a649e67624db0ad717ae327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '155'
+ht-degree: 1%
 
 ---
 
@@ -21,29 +21,29 @@ Puoi inviare messaggi SMS alle persone che hanno acconsentito alle campagne Vibe
 
 >[!AVAILABILITY]
 >
->Devi disporre di un account Vibes attivo e di una licenza di Adobe per Vibes SMS. L’integrazione nativa di Marketo Vibes SMS è disponibile negli Stati Uniti e in Canada. Per altri paesi, una connessione tramite i webhook di Marketo può essere utilizzata da [contattando direttamente Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
+>Devi disporre di un account Vibes attivo e di una licenza Adobe per Vibes SMS. L’integrazione nativa di Marketo Vibes SMS è disponibile negli Stati Uniti e in Canada. Per altri paesi, è possibile utilizzare una connessione tramite i webhook di Marketo contattando [direttamente Vibes](https://www.vibes.com/talk-to-sales){target="_blank"}.
 
-1. In Il mio Marketo, vai all&#39;area **[!UICONTROL Amministratore]**.
+1. In Il mio Marketo, vai all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-1.png)
 
-1. Fare clic su **[!UICONTROL LaunchPoint]**.
+1. Fai clic su **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-2.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]**, quindi su **[!UICONTROL Nuovo servizio]**.
+1. Fare clic su **[!UICONTROL New]**, quindi su **[!UICONTROL New Service]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-3.png)
 
-1. Immetti un nome da visualizzare e seleziona **[!UICONTROL Vibes]** nel menu a discesa.
+1. Immettere un nome visualizzato e nel menu a discesa selezionare **[!UICONTROL Vibes]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-4.png)
 
-1. In Impostazioni, immetti Vibes [!UICONTROL Nome utente], [!UICONTROL Password] e [!UICONTROL Chiave società] (tutti disponibili nel tuo account Vibes). Fai clic su **[!UICONTROL Crea]**.
+1. In Impostazioni, immetti Vibes [!UICONTROL Username], [!UICONTROL Password] e [!UICONTROL Company Key] (tutti disponibili nel tuo account Vibes). Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-vibes-as-a-launchpoint-service-5.png)
 
-   Il nuovo servizio SMS viene ora visualizzato nell&#39;elenco [!UICONTROL Servizi installati].
+   Il nuovo servizio SMS viene ora visualizzato nell&#39;elenco [!UICONTROL Installed Services].
 
    ![](assets/add-vibes-as-a-launchpoint-service-6.png)
 

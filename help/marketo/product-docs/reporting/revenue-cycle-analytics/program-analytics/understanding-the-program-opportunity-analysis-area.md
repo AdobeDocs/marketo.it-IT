@@ -4,7 +4,7 @@ description: Informazioni sull’area di analisi delle opportunità del programm
 title: Informazioni sull’area di analisi delle opportunità del programma
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -37,7 +37,7 @@ Quali opportunità ha influenzato un determinato programma?
 
 ## Misure di attribuzione analisi opportunità programma (punti blu) {#program-opportunity-analysis-attribution-measures-blue-dots}
 
-Le misure disponibili per l&#39;analisi sono in genere numeri e sono rappresentate da punti blu. I Dimension sono attributi che forniscono viste diverse delle misure e sono rappresentati da punti gialli.
+Le misure disponibili per l&#39;analisi sono in genere numeri e sono rappresentate da punti blu. Le dimensioni sono attributi che forniscono viste diverse delle misure e sono rappresentate da punti gialli.
 
 Tutte le misure (punti blu) si riferiscono all’attribuzione: il &quot;merito&quot; per l’acquisizione di lead o per il successo di vendita associato a un lead.
 
@@ -59,45 +59,45 @@ Le misure di successo attribuiscono un merito a tutti i programmi che contribuis
 
 Come per l’acquisizione, il valore del contributo alle vendite effettuate a un lead cambia nel tempo ed è pari a zero finché il lead non effettua un acquisto.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Misura di attribuzione - Correlata all’opportunità (FT o MT)*</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td>Costo dell’opportunità</td> 
-   <td>La parte del costo del programma che ha influenzato l’opportunità. Il costo può essere suddiviso se sono coinvolti più lead.</td> 
-  </tr> 
-  <tr> 
-   <td>Opportunità create</td> 
-   <td>La porzione di credito ricevuta dal programma per aver influenzato la creazione dell’opportunità. Può essere una frazione se sono coinvolti più lead.</td> 
-  </tr> 
-  <tr> 
-   <td>Opportunità vinte</td> 
-   <td>La porzione di credito ricevuta dal programma per aver influenzato l’opportunità acquisita. Può essere una frazione se sono coinvolti più lead.</td> 
-  </tr> 
-  <tr> 
-   <td>Pipeline creata</td> 
-   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell’opportunità. Può essere una frazione se sono coinvolti più lead.</td> 
-  </tr> 
-  <tr> 
-   <td>Pipeline creata - Ancora aperta</td> 
-   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell’opportunità attualmente aperta. Può essere una frazione se sono coinvolti più lead.</td> 
-  </tr> 
-  <tr> 
-   <td>Ricavi previsti</td> 
-   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell’opportunità. Ricavi previsti è la probabilità di opportunità moltiplicata per il valore di opportunità. Può essere una frazione se sono coinvolti più lead.</td> 
-  </tr> 
-  <tr> 
-   <td>Ricavi - Investimento</td> 
-   <td>Si tratta del rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità realizzate e il costo del programma.</td> 
-  </tr> 
-  <tr> 
-   <td>Ricavi ottenuti</td> 
-   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare l’opportunità acquisita. Può essere una frazione se sono coinvolti più lead.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Misura di attribuzione - Correlata all’opportunità (FT o MT)*</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td>Costo dell’opportunità</td>
+   <td>La parte del costo del programma che ha influenzato l’opportunità. Il costo può essere suddiviso se sono coinvolti più lead.</td>
+  </tr>
+  <tr>
+   <td>Opportunità create</td>
+   <td>La porzione di credito ricevuta dal programma per aver influenzato la creazione dell’opportunità. Può essere una frazione se sono coinvolti più lead.</td>
+  </tr>
+  <tr>
+   <td>Opportunità vinte</td>
+   <td>La porzione di credito ricevuta dal programma per aver influenzato l’opportunità acquisita. Può essere una frazione se sono coinvolti più lead.</td>
+  </tr>
+  <tr>
+   <td>Pipeline creata</td>
+   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell’opportunità. Può essere una frazione se sono coinvolti più lead.</td>
+  </tr>
+  <tr>
+   <td>Pipeline creata - Ancora aperta</td>
+   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell’opportunità attualmente aperta. Può essere una frazione se sono coinvolti più lead.</td>
+  </tr>
+  <tr>
+   <td>Ricavi previsti</td>
+   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione dell’opportunità. Ricavi previsti è la probabilità di opportunità moltiplicata per il valore di opportunità. Può essere una frazione se sono coinvolti più lead.</td>
+  </tr>
+  <tr>
+   <td>Ricavi - Investimento</td>
+   <td>Si tratta del rapporto tra la parte di credito (in valore monetario) ricevuta dal programma per influenzare le opportunità realizzate e il costo del programma.</td>
+  </tr>
+  <tr>
+   <td>Ricavi ottenuti</td>
+   <td>La parte di credito (in valore monetario) ricevuta dal programma per influenzare l’opportunità acquisita. Può essere una frazione se sono coinvolti più lead.</td>
+  </tr>
+ </tbody>
 </table>
 
 _&#42;(FT) = Attribuzione primo contatto, utilizzato per le misure di acquisizione del lead; (MT) = Attribuzione multi-contatto, utilizzato per le misure di successo del lead_
@@ -124,66 +124,66 @@ Marketo attribuisce il merito in modo appropriato senza il doppio conteggio dell
 
 Le altre misure disponibili riflettono i risultati complessivi del programma.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Misura di attribuzione: correlata al programma</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td>N. di opportunità associate al programma</td> 
-   <td><p>Il numero totale di opportunità che hanno assegnato qualsiasi tipo di credito di attribuzione a un programma. Le opportunità possono essere influenzate da uno o più lead e da uno o più programmi.</p></td> 
-  </tr> 
-  <tr> 
-   <td>Numero medio di successi per opportunità chiusa</td> 
-   <td>Numero medio di successi del programma prima della chiusura dell’opportunità. <br></td> 
-  </tr> 
-  <tr> 
-   <td>Numero medio di successi per opportunità creata</td> 
-   <td>Numero medio di programmi riusciti prima della creazione dell’opportunità.</td> 
-  </tr> 
-  <tr> 
-   <td>Nuovi nomi</td> 
-   <td>Numero totale di nuovi nomi, ovvero nuovi lead, acquisiti dal programma.</td> 
-  </tr> 
-  <tr> 
-   <td>Costo programma</td> 
-   <td>Costo totale del programma.</td> 
-  </tr> 
-  <tr> 
-   <td>Completato (totale)</td> 
-   <td>Numero totale di membri del programma che hanno raggiunto il successo.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Misura di attribuzione: correlata al programma</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td>N. di opportunità associate al programma</td>
+   <td><p>Il numero totale di opportunità che hanno assegnato qualsiasi tipo di credito di attribuzione a un programma. Le opportunità possono essere influenzate da uno o più lead e da uno o più programmi.</p></td>
+  </tr>
+  <tr>
+   <td>Numero medio di successi per opportunità chiusa</td>
+   <td>Numero medio di successi del programma prima della chiusura dell’opportunità. <br></td>
+  </tr>
+  <tr>
+   <td>Numero medio di successi per opportunità creata</td>
+   <td>Numero medio di programmi riusciti prima della creazione dell’opportunità.</td>
+  </tr>
+  <tr>
+   <td>Nuovi nomi</td>
+   <td>Numero totale di nuovi nomi, ovvero nuovi lead, acquisiti dal programma.</td>
+  </tr>
+  <tr>
+   <td>Costo programma</td>
+   <td>Costo totale del programma.</td>
+  </tr>
+  <tr>
+   <td>Completato (totale)</td>
+   <td>Numero totale di membri del programma che hanno raggiunto il successo.</td>
+  </tr>
+ </tbody>
 </table>
 
-## Dimension di analisi delle opportunità del programma (punti gialli) {#program-opportunity-analysis-dimensions-yellow-dots}
+## Dimensioni analisi opportunità programma (punti gialli) {#program-opportunity-analysis-dimensions-yellow-dots}
 
 Mentre le misure (punti blu) vengono calcolate e richiedono un certo pensiero e una spiegazione da utilizzare, le dimensioni (punti gialli) sono descrittive. Di seguito sono riportate le dimensioni disponibili.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Categoria</th> 
-   <th>Etichetta visualizzazione</th> 
-  </tr> 
-  <tr> 
-   <td>Attributi di opportunità</td> 
-   <td>Opportunità chiusa<br>Nome opportunità*<br>Nome proprietario opportunità<br>Fase opportunità<br>Tipo opportunità</td> 
-  </tr> 
-  <tr> 
-   <td>Intervallo temporale dell’opportunità</td> 
-   <td>Opportunità chiusa anno/trimestre/mese<br>Opportunità creata anno/trimestre/mese</td> 
-  </tr> 
-  <tr> 
-   <td>Attributi del programma</td> 
-   <td>Canale programma<br>Nome programma</td> 
-  </tr> 
-  <tr> 
-   <td>Intervallo temporale costi programma</td> 
-   <td>Costo anno/trimestre/mese</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Categoria</th>
+   <th>Etichetta visualizzazione</th>
+  </tr>
+  <tr>
+   <td>Attributi di opportunità</td>
+   <td>Opportunità chiusa<br>Nome opportunità*<br>Nome proprietario opportunità<br>Fase opportunità<br>Tipo opportunità</td>
+  </tr>
+  <tr>
+   <td>Intervallo temporale dell’opportunità</td>
+   <td>Opportunità chiusa anno/trimestre/mese<br>Opportunità creata anno/trimestre/mese</td>
+  </tr>
+  <tr>
+   <td>Attributi del programma</td>
+   <td>Canale programma<br>Nome programma</td>
+  </tr>
+  <tr>
+   <td>Intervallo temporale costi programma</td>
+   <td>Costo anno/trimestre/mese</td>
+  </tr>
+ </tbody>
 </table>
 
 *&#42;Tutte le opportunità che hanno assegnato qualsiasi tipo di credito di attribuzione a un programma. Le opportunità possono essere influenzate da uno o più lead e da uno o più programmi.*

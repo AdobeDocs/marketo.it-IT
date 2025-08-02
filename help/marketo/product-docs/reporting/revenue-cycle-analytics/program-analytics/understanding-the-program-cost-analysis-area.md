@@ -4,10 +4,10 @@ description: Informazioni sull’area di analisi dei costi del programma - Docum
 title: Informazioni sull'area di analisi dei costi del programma
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
@@ -33,7 +33,7 @@ Quanto ho speso per programma al mese?
 
 ![](assets/image2015-5-6-14-3a36-3a34.png)
 
-## Dimension e misure di analisi dei costi del programma {#program-cost-analysis-dimensions-and-measures}
+## Dimensioni e misure analisi costi programma {#program-cost-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -51,25 +51,25 @@ Quanto ho speso per programma al mese?
 
 ## Iscrizione {#membership}
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Misurare</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td>% nuovi nomi</td> 
-   <td>Percentuale di lead acquisiti da un programma</td> 
-  </tr> 
-  <tr> 
-   <td>Membri</td> 
-   <td>Totale lead in un programma</td> 
-  </tr> 
-  <tr> 
-   <td>Nuovi nomi</td> 
-   <td>Totale nuovi nomi acquisiti da un programma</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Misurare</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td>% nuovi nomi</td>
+   <td>Percentuale di lead acquisiti da un programma</td>
+  </tr>
+  <tr>
+   <td>Membri</td>
+   <td>Totale lead in un programma</td>
+  </tr>
+  <tr>
+   <td>Nuovi nomi</td>
+   <td>Totale nuovi nomi acquisiti da un programma</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Attributi del programma {#program-attributes}
@@ -83,9 +83,9 @@ Quanto ho speso per programma al mese?
 
 | Dimensione | Descrizione |
 |---|---|
-| Anno | Periodo di tempo del costo del programma |
+| Year | Periodo di tempo del costo del programma |
 | Trimestre | Intervallo temporale costo programma |
-| Mese | Periodo di tempo del costo del programma |
+| Month | Periodo di tempo del costo del programma |
 
 ## Tag del programma {#program-tags}
 
@@ -96,7 +96,7 @@ Quanto ho speso per programma al mese?
 | Proprietario del programma | Tag del programma |
 | Area geografica | Tag del programma |
 
-## Operazione riuscita {#success}
+## Completato {#success}
 
 | Misurare | Descrizione |
 |---|---|

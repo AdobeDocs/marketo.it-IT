@@ -3,7 +3,7 @@ description: Panoramica del flusso conversazionale - Documentazione di Marketo -
 title: Panoramica del flusso conversazionale
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 14ccfe39059b9c900a5e5e00b082146bb500d79d
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Panoramica del flusso conversazionale {#conversational-flow-overview}
 
-Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a un’azione specifica (ad esempio, clic su un pulsante di invito all’azione, al caricamento della pagina, tempo trascorso sulla pagina, ecc.).
+Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a un’azione specifica (ad esempio, clic su un pulsante call-to-action, al caricamento della pagina, tempo trascorso sulla pagina e così via).
 
 ![](assets/conversational-flow-overview-1.png)
 
@@ -20,30 +20,30 @@ Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a
 
 Le finestre di dialogo e i flussi conversazionali hanno diverse somiglianze, ma sono due funzioni separate.
 
-<table> 
- <tbody> 
-  <tr> 
-   <th style="width:50%">Dialogo</th> 
+<table>
+ <tbody>
+  <tr>
+   <th style="width:50%">Dialogo</th>
    <th style="width:50%">Flussi conversazionali</th>
-  </tr> 
-  <tr> 
-   <td>Le finestre di dialogo sono mirate: puoi progettare una conversazione per una pagina e un pubblico specifici in base ai parametri implementati.</td> 
+  </tr>
+  <tr>
+   <td>Le finestre di dialogo sono mirate: puoi progettare una conversazione per una pagina e un pubblico specifici in base ai parametri implementati.</td>
    <td>Vengono attivati i flussi di conversazione: si progetta una conversazione che può essere attivata in base all'azione di un visitatore, ad esempio la compilazione di un modulo, la selezione di un collegamento e così via.</td>
   </tr>
-   <tr> 
-   <td>Supportato solo nell’interfaccia Chatbot.</td> 
+   <tr>
+   <td>Supportato solo nell’interfaccia Chatbot.</td>
    <td>Attualmente supportato in un'interfaccia a comparsa, con più interfacce pianificate.</td>
   </tr>
   </tr>
-   <tr> 
-   <td>È possibile creare più finestre di dialogo per lo stesso segmento di lead, con un ordine di priorità in modo che ogni visitatore visualizzi la finestra di dialogo in sequenza in base alla priorità mentre continua a interagire.</td> 
-   <td>I flussi conversazionali non hanno ordine di priorità e possono essere attivati un numero qualsiasi di volte dallo stesso lead in base all’invito all’azione determinato.</td>
+   <tr>
+   <td>È possibile creare più finestre di dialogo per lo stesso segmento di lead, con un ordine di priorità in modo che ogni visitatore visualizzi la finestra di dialogo in sequenza in base alla priorità mentre continua a interagire.</td>
+   <td>I flussi conversazionali non hanno ordine di priorità e possono essere attivati un numero qualsiasi di volte dallo stesso lead in base al call-to-action determinato.</td>
   </tr>
   <tr>
    <td>Le conversazioni chatbot sono alimentate da Finestre di dialogo.</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">I Forms per conversazioni</a> nel Marketo Engage sono basati su flussi per conversazioni.</td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Forms</a> per conversazioni in Marketo Engage è basato su flussi per conversazioni.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Scheda Streaming Designer {#stream-designer-tab}
@@ -76,13 +76,13 @@ Nella parte superiore della scheda Impostazioni, è possibile aggiornare il nome
 
 ### SDK conversazioni {#conversations-sdk}
 
-Nella metà inferiore della scheda Impostazioni, personalizza il trigger Conversazione, noto anche come SDK Conversazioni. Puoi decidere se la conversazione viene attivata sul tuo sito web quando un visitatore fa clic su un collegamento o al caricamento della pagina.
+Nella parte inferiore della scheda Impostazioni, personalizzare il trigger Conversazione, noto anche come SDK Conversazioni. Puoi decidere se la conversazione viene attivata sul tuo sito web quando un visitatore fa clic su un collegamento o al caricamento della pagina.
 
 ![](assets/conversational-flow-overview-7.png)
 
 >[!TIP]
 >
->Vedi [SDK conversazioni](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=it){target="_blank"} in azione!
+>Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione.
 
 >[!MORELIKETHIS]
 >

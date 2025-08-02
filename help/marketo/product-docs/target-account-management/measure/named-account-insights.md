@@ -4,7 +4,7 @@ description: Informazioni sull’account denominato - Documentazione di Marketo 
 title: Informazioni sull’account denominato
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -33,21 +33,21 @@ La dashboard aggrega informazioni chiave a livello di account da tutte le person
 
 ![](assets/three-new.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong><span class="uicontrol">Punteggio account</span></strong></td> 
-   <td><p>Vedi il coinvolgimento settimana per settimana in base a tutti i punteggi dell'account creati in <span class="uicontrol">Amministratore</span>. Puoi confrontare questi punteggi di account uno accanto all’altro. Per determinare il coinvolgimento settimanale, prendiamo il massimo coinvolgimento da qualsiasi giorno della settimana.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td>Guarda la pipeline nel tempo. Per determinare la pipeline nel tempo per settimana, la pipeline viene utilizzata l’ultimo giorno.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Entrate</span></strong></td> 
-   <td>Visualizzare i ricavi nel tempo. Per determinare i ricavi nel tempo per settimana, prendiamo la somma di tutti i ricavi ottenuti in quella settimana.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong><span class="uicontrol">Punteggio account</span></strong></td>
+   <td><p>Vedi il coinvolgimento settimana per settimana in base a tutti i punteggi dell'account creati in <span class="uicontrol">Amministratore</span>. Puoi confrontare questi punteggi di account uno accanto all’altro. Per determinare il coinvolgimento settimanale, prendiamo il massimo coinvolgimento da qualsiasi giorno della settimana.</p></td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td>Guarda la pipeline nel tempo. Per determinare la pipeline nel tempo per settimana, la pipeline viene utilizzata l’ultimo giorno.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Entrate</span></strong></td>
+   <td>Visualizzare i ricavi nel tempo. Per determinare i ricavi nel tempo per settimana, prendiamo la somma di tutti i ricavi ottenuti in quella settimana.</td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Interesting Moments]**

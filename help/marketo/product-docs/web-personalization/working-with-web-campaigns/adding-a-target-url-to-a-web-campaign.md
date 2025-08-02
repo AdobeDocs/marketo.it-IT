@@ -4,7 +4,7 @@ description: Aggiunta di un URL target a una campagna web - Documentazione di Ma
 title: Aggiunta di un URL di destinazione a una campagna web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 1%
@@ -29,23 +29,23 @@ Un URL di Target si trova nella pagina Imposta campagna e definisce l’URL o gl
 
    ![](assets/set-web-campaign-hands.jpg)
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrizione</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td> 
-   <td colspan="1" rowspan="1"><p>Consenti la visualizzazione della campagna su qualsiasi pagina.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td> 
-   <td colspan="1" rowspan="1">Aggiungi il parametro URL per far corrispondere e mostrare la campagna sugli URL che includono questo parametro. Esempio: campaign=cpc</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrizione</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Any Page]</strong></td>
+   <td colspan="1" rowspan="1"><p>Consenti la visualizzazione della campagna su qualsiasi pagina.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Include URL parameter when matching]</strong></p></td>
+   <td colspan="1" rowspan="1">Aggiungi il parametro URL per far corrispondere e mostrare la campagna sugli URL che includono questo parametro. Esempio: campaign=cpc</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Aggiunta di più URL all’URL di destinazione {#adding-multiple-urls-to-target-url}

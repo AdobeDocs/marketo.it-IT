@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 5cf6231b8da65d81d89b52cb2ef2cbe7422a4842
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '246'
 ht-degree: 2%
 
 ---
@@ -22,11 +22,11 @@ Sono disponibili più opzioni per aggiungere nuovi file/immagini all&#39;archivi
 
    ![](assets/add-images-and-files-to-marketo-1.png)
 
-1. Seleziona **[!UICONTROL immagini e file]**
+1. Seleziona **[!UICONTROL Images and Files]**
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Carica immagine o file]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Upload image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -48,11 +48,11 @@ Testo
 
 1. Segui i passaggi 1 e 2 [dall&#39;alto](#upload-image-or-file).
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Importa immagine o file]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
-1. Seleziona l&#39;opzione **[!UICONTROL Web]** e fai clic su **[!UICONTROL Avanti]**.
+1. Selezionare l&#39;opzione **[!UICONTROL Web]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-7.png)
 
@@ -70,11 +70,11 @@ Testo
 
 1. Segui i passaggi 1 e 2 [dall&#39;alto](#upload-image-or-file).
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Importa immagine o file]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
-1. Seleziona l&#39;opzione **[!UICONTROL Casella]** e fai clic su **[!UICONTROL Avanti]**.
+1. Selezionare l&#39;opzione **[!UICONTROL Box]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-11.png)
 
@@ -82,15 +82,15 @@ Testo
    >
    >Se non lo hai già fatto, ti verrà chiesto di accedere al tuo account Box per concedere l’accesso.
 
-1. Selezionare la cartella Box desiderata e fare clic su **[!UICONTROL Avanti]**.
+1. Selezionare la cartella Box desiderata e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-12.png)
 
-1. Selezionare le immagini desiderate e fare clic su **[!UICONTROL Avanti]**.
+1. Selezionare le immagini desiderate e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-13.png)
 
-1. Selezionare la cartella di Marketo Engage in cui salvare l&#39;immagine. In questo esempio lo lasceremo come Immagini e file (impostazione predefinita). Fai clic su **Importa**.
+1. Seleziona la cartella Marketo Engage in cui desideri salvare l’immagine. In questo esempio lo lasceremo come Immagini e file (impostazione predefinita). Fai clic su **Importa**.
 
    ![](assets/add-images-and-files-to-marketo-14.png)
 
@@ -100,11 +100,11 @@ Testo
 
 1. Segui i passaggi 1 e 2 [dall&#39;alto](#upload-image-or-file).
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Importa immagine o file]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 
-1. Seleziona l&#39;opzione **[!UICONTROL Adobe Experience Manager]** e fai clic su **[!UICONTROL Avanti]**.
+1. Selezionare l&#39;opzione **[!UICONTROL Adobe Experience Manager]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/add-images-and-files-to-marketo-16.png)
 

@@ -3,10 +3,10 @@ description: Generazione di domande - Documentazione di Marketo - Documentazione
 title: Generazione di domande
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: a711da0fe04e967bfc525be4f3df59d978021592
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 0%
+source-wordcount: '292'
+ht-degree: 2%
 
 ---
 
@@ -16,27 +16,27 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
 ## Genera domande {#generate-questions}
 
-1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Assisted responses]**.
 
    ![](assets/question-generation-1.png)
 
-1. Fai clic su **[!UICONTROL Genera domande]**.
+1. Fai clic su **[!UICONTROL Generate questions]**.
 
    ![](assets/question-generation-2.png)
 
-1. Assegna un nome all’attività e inserisci un URL di origine (fino a 10) dal quale verrà estratto tutto il contenuto. Immettere gli argomenti/parole chiave desiderati e premere Invio sulla tastiera. Al termine, fare clic su **[!UICONTROL Genera]**.
+1. Assegna un nome all’attività e inserisci un URL di origine (fino a 10) dal quale verrà estratto tutto il contenuto. Immettere gli argomenti/parole chiave desiderati e premere Invio sulla tastiera. Al termine, fare clic su **[!UICONTROL Generate]**.
 
    ![](assets/question-generation-3.png)
 
    >[!IMPORTANT]
    >
-   >Per garantire che il Marketo Engage possa raschiare il contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. [Per ulteriori dettagli, vedere di seguito](#ip-addresses-to-allowlist).
+   >Per garantire che Marketo Engage possa eseguire il raschiamento del contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. [Per ulteriori dettagli, vedere di seguito](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
    >I siti e le pagine devono essere pubblici (ovvero non nascosti dietro un accesso) affinché le loro informazioni possano essere raschiate.
 
-1. In base al contenuto, la generazione di domande e risposte può richiedere fino a 30 minuti. Fare clic su **[!UICONTROL OK]**.
+1. In base al contenuto, la generazione di domande e risposte può richiedere fino a 30 minuti. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/question-generation-4.png)
 
@@ -79,7 +79,7 @@ Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione 
 <table width="450">
 <thead>
   <tr>
-    <th>Nord America</th>
+    <th>America del Nord</th>
     <th>Europa</th>
     <th>APAC</th>
   </tr>

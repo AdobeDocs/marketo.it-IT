@@ -3,7 +3,7 @@ description: Webinar on-demand - Documentazione di Marketo - Documentazione del 
 title: Webinar on demand
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 7de0aed6be29a304276f2b3f96dd60974b4c4eb6
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Webinar on demand {#on-demand-webinars}
 
-I webinar on-demand acquisiscono e perfezionano i lead che si sono registrati per l’evento e che non hanno partecipato, ma desiderano ottenere informazioni relative all’evento guardando la registrazione. Informazioni quali Nome, ID e-mail e Data/durata di controllo possono essere acquisite nel Marketo Engage e utilizzate per individuare questi lead non visibili.
+I webinar on-demand acquisiscono e perfezionano i lead che si sono registrati per l’evento e che non hanno partecipato, ma desiderano ottenere informazioni relative all’evento guardando la registrazione. Informazioni quali Nome, ID e-mail e Data/durata di controllo possono essere acquisite in Marketo Engage e utilizzate per individuare questi lead non visibili.
 
 L’URL di unione del webinar condiviso con gli utenti registrati prima dell’evento può essere utilizzato per guardare la registrazione on-demand. Quando un utente registrato che non ha partecipato all’evento live (ad esempio, un lead con lo stato di programma &quot;No-Show&quot;) fa clic sull’URL di iscrizione al webinar, lo stato di tale lead cambia da &quot;No-Show&quot; a &quot;Partecipated On-Demand&quot;. Lo stato del programma dei lead che hanno guardato l’evento in diretta e che hanno lo stato &quot;Partecipato&quot; non subisce modifiche se decidono di visitare l’URL di unione e guardare la registrazione on-demand.
 
-Adobe Connect, la tecnologia che gestisce i webinar interattivi, tiene traccia della visita e della durata di osservazione dei lead che guardano la registrazione e segnala le informazioni al Marketo Engage su base giornaliera. Il tracciamento per i webinar on-demand si interrompe 30 giorni dopo l’evento. Impossibile modificare la durata.
+Adobe Connect, la tecnologia che alimenta i webinar interattivi, tiene traccia della visita e della durata dell’orologio relativi ai lead che guardano la registrazione e segnala le informazioni a Marketo Engage su base giornaliera. Il tracciamento per i webinar on-demand si interrompe 30 giorni dopo l’evento. Impossibile modificare la durata.
 
-Marketo Engage fornisce le statistiche di controllo per i webinar on demand sulla scheda Dashboard con l’aiuto dei seguenti widget:
+Marketo Engage fornisce le statistiche di controllo per i webinar on-demand sulla scheda Dashboard con l’aiuto dei seguenti widget:
 
 * Riepilogo on-demand: fornisce un riepilogo del numero di visitatori (no-show) che guardano la registrazione dopo l’evento in un dato giorno/i
 

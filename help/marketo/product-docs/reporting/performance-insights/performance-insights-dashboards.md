@@ -4,7 +4,7 @@ description: Dashboard di Performance Insights - Documentazione di Marketo - Doc
 title: Dashboard di Performance Insights
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -51,33 +51,33 @@ La dashboard [!UICONTROL Pipeline] mostra le prestazioni del canale in base alle
 
 ![](assets/five-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Nuove opportunità</span></strong></p></td> 
-   <td><p>La parte di credito ricevuta dal programma per aver influenzato la creazione di nuove opportunità. Può essere una frazione se sono coinvolti più lead.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline creata</span></strong></p></td> 
-   <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità. Può essere una frazione del totale se sono coinvolti più lead.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline aperta</span></strong></p></td> 
-   <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità ancora aperte. Può essere una frazione del totale se sono coinvolti più lead.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Ricavi previsti</span></strong></p></td> 
-   <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità. Ricavi previsti è la probabilità di opportunità moltiplicata per il valore dell’opportunità. Può essere una frazione se sono coinvolti più lead.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Costo per opportunità creata</span></strong></p></td> 
-   <td><p>La parte del costo del programma che ha influenzato le nuove opportunità divisa per il numero totale di nuove opportunità create.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Pipeline creata in rapporto di costo</span></strong></p></td> 
-   <td><p>La parte di credito ricevuta da un programma per influenzare la creazione di nuove opportunità divisa per la parte di costo del programma che ha influenzato la creazione di opportunità.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Nuove opportunità</span></strong></p></td>
+   <td><p>La parte di credito ricevuta dal programma per aver influenzato la creazione di nuove opportunità. Può essere una frazione se sono coinvolti più lead.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline creata</span></strong></p></td>
+   <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità. Può essere una frazione del totale se sono coinvolti più lead.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline aperta</span></strong></p></td>
+   <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità ancora aperte. Può essere una frazione del totale se sono coinvolti più lead.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Ricavi previsti</span></strong></p></td>
+   <td><p>La parte di credito (in valore monetario) ricevuta dal programma per influenzare la creazione di opportunità. Ricavi previsti è la probabilità di opportunità moltiplicata per il valore dell’opportunità. Può essere una frazione se sono coinvolti più lead.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Costo per opportunità creata</span></strong></p></td>
+   <td><p>La parte del costo del programma che ha influenzato le nuove opportunità divisa per il numero totale di nuove opportunità create.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Pipeline creata in rapporto di costo</span></strong></p></td>
+   <td><p>La parte di credito ricevuta da un programma per influenzare la creazione di nuove opportunità divisa per la parte di costo del programma che ha influenzato la creazione di opportunità.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## [!UICONTROL Revenue] {#revenue}
@@ -86,23 +86,23 @@ La dashboard [!UICONTROL Revenue] mostra le prestazioni del canale in base alle 
 
 ![](assets/six-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Opportunità vinte</span></strong></p></td> 
-   <td><p>La parte di credito ricevuta da un programma per aver influenzato un’opportunità acquisita.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Ricavi ottenuti</span></strong></p></td> 
-   <td><p>La porzione di credito (in valore monetario) ricevuta per influenzare un'opportunità acquisita.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Costo per opportunità acquisita</span></strong></p></td> 
-   <td><p>La parte del costo del programma che ha influenzato le nuove opportunità divisa per il numero totale di nuove opportunità create.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p><strong><span class="uicontrol">Rapporto ricavi ottenuti/costi</span></strong></p></td> 
-   <td><p>La parte di credito (in valore monetario) ricevuta per aver influenzato un'opportunità acquisita divisa per la parte del costo del programma che ha influenzato le nuove opportunità.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong><span class="uicontrol">Opportunità vinte</span></strong></p></td>
+   <td><p>La parte di credito ricevuta da un programma per aver influenzato un’opportunità acquisita.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Ricavi ottenuti</span></strong></p></td>
+   <td><p>La porzione di credito (in valore monetario) ricevuta per influenzare un'opportunità acquisita.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Costo per opportunità acquisita</span></strong></p></td>
+   <td><p>La parte del costo del programma che ha influenzato le nuove opportunità divisa per il numero totale di nuove opportunità create.</p></td>
+  </tr>
+  <tr>
+   <td><p><strong><span class="uicontrol">Rapporto ricavi ottenuti/costi</span></strong></p></td>
+   <td><p>La parte di credito (in valore monetario) ricevuta per aver influenzato un'opportunità acquisita divisa per la parte del costo del programma che ha influenzato le nuove opportunità.</p></td>
+  </tr>
+ </tbody>
 </table>

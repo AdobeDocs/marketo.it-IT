@@ -3,7 +3,7 @@ description: Note sulla versione - Ottobre 2024 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 701155a5beccf3725fe26d2bc75c541c989d4af4
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 2%
@@ -24,67 +24,67 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [ si trovano qui](/help
 
 Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **4 ottobre 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th style="width:65%">Funzione</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th style="width:65%">Funzione</th>
    <th style="width:10%">Stato</th>
    <th style="width:25%">Documentazione</th>
   </tr>
-    <tr> 
-   <td><strong>Tokenizzazione per i webinar interattivi</strong>: ora puoi utilizzare i token per promuovere i webinar interattivi nelle e-mail e nelle pagine di destinazione senza dover aggiungere manualmente i dettagli del webinar.</td> 
+    <tr>
+   <td><strong>Tokenizzazione per i webinar interattivi</strong>: ora puoi utilizzare i token per promuovere i webinar interattivi nelle e-mail e nelle pagine di destinazione senza dover aggiungere manualmente i dettagli del webinar.</td>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promozione di un webinar interattivo</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Conteggio "Influenza" elenco smart</strong>: verifica il numero di persone interessate dalla modifica delle regole di qualifica di una campagna smart.</td> 
+   <tr>
+   <td><strong>Conteggio "Influenza" elenco smart</strong>: verifica il numero di persone interessate dalla modifica delle regole di qualifica di una campagna smart.</td>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
   </tr>
-   <tr> 
-   <td><strong>Pulsante Account personale nella barra di navigazione</strong>: per coloro che hanno eseguito la migrazione ad Adobe Identity Management System, un nuovo pulsante "Account personale" nella barra di navigazione a sinistra consente di configurare il fuso orario e di accedere ai dettagli dell'abbonamento.</td> 
+   <tr>
+   <td><strong>Pulsante Account personale nella barra di navigazione</strong>: per coloro che hanno eseguito la migrazione ad Adobe Identity Management System, un nuovo pulsante "Account personale" nella barra di navigazione a sinistra consente di configurare il fuso orario e di accedere ai dettagli dell'abbonamento.</td>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>Miglioramenti al report delle prestazioni delle e-mail</strong>: sono stati apportati diversi miglioramenti alle metriche di reporting e al tracciamento delle attività e-mail, offrendo ulteriori informazioni e migliorando la precisione.
    <ul>
    <li>Filtrare le persone eliminate e unite dalle metriche delle prestazioni delle e-mail</li>
    <li>Le e-mail sono ora classificate come <i>interrotte</i> dopo tre giorni di attesa per l'attività di risposta</li>
    <li>Le aperture delle e-mail contano come aperture univoche separatamente per ogni Smart Campaign</li>
-   </td> 
+   </td>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapporto prestazioni e-mail</a></td>
   </tr>
-  <tr> 
-   <td> </td> 
+  <tr>
+   <td> </td>
    <td> </td>
    <td> </td>
   </tr>
-   <tr> 
+   <tr>
    <td><strong>Metriche backlog sincronizzazione Salesforce</strong>: monitorare le tendenze della velocità effettiva e del backlog di sincronizzazione per pianificare e pianificare gli aggiornamenti CRM per un'esperienza di sincronizzazione ottimale.
-   </td> 
+   </td>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Metriche backlog di sincronizzazione Salesforce</a></td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 <br/>
 
@@ -92,7 +92,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Aggiornamento API per estrazione in blocco**: è stato risolto un problema nell&#39;API per estrazione in blocco che interessava l&#39;opzione columnHeaderNames, che consente di specificare nomi di intestazione di colonna personalizzati nel file esportato. In precedenza, i nomi delle intestazioni di colonna contenenti caratteri non ASCII potevano danneggiarsi.
 
-* **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 
 * **Deprecazione del codice QR**: il 4 ottobre 2024 la funzione del codice QR utilizzata nelle notifiche push e nelle risorse di messaggistica in-app diventerà obsoleta. Ciò include l&#39;utilizzo di codici QR per un nuovo dispositivo di test e la creazione di nuove risorse con codici QR. Le funzioni obsolete con un utilizzo inferiore ci consentono di riallocare le loro risorse alla manutenzione complessiva di Marketo Engage.

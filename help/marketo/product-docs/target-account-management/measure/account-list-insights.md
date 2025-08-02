@@ -4,7 +4,7 @@ description: Informazioni sull’elenco degli account - Documentazione di Market
 title: Informazioni sull’elenco degli account
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -29,17 +29,17 @@ Per visualizzare la dashboard di un elenco account, fai clic sul nome...
 
 ![](assets/two-new-1.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td> 
-   <td colspan="1">Guarda la pipeline nel tempo. Per determinare la pipeline nel tempo per settimana, la pipeline viene utilizzata l’ultimo giorno.</td> 
-  </tr> 
-  <tr> 
-   <td><strong><span class="uicontrol">Entrate</span></strong></td> 
-   <td><p>Visualizzare i ricavi nel tempo. Per determinare i ricavi nel tempo per settimana, prendiamo la somma di tutti i ricavi ottenuti in quella settimana.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td colspan="1"><strong><span class="uicontrol">Pipeline</span></strong></td>
+   <td colspan="1">Guarda la pipeline nel tempo. Per determinare la pipeline nel tempo per settimana, la pipeline viene utilizzata l’ultimo giorno.</td>
+  </tr>
+  <tr>
+   <td><strong><span class="uicontrol">Entrate</span></strong></td>
+   <td><p>Visualizzare i ricavi nel tempo. Per determinare i ricavi nel tempo per settimana, prendiamo la somma di tutti i ricavi ottenuti in quella settimana.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Scheda Account denominati {#named-accounts-tab}

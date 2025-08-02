@@ -4,7 +4,7 @@ description: Informazioni su elementi e variabili nei modelli guidati - Document
 title: Informazioni su elementi e variabili nei modelli guidati
 exl-id: c25c8b2b-d596-46f7-a570-b4a5cb5957a6
 feature: Landing Pages
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 2%
@@ -41,21 +41,21 @@ Le variabili sono attributi simili a token che possono essere personalizzati dal
 
 Esistono tre tipi di variabili: variabili stringa, variabili colore e variabili booleane.
 
-<table> 
- <tbody> 
-  <tr> 
-   <td>Stringa</td> 
-   <td><p>Testo modificabile</p><p>Esempio: titoli, date, etichette dei pulsanti</p></td> 
-  </tr> 
-  <tr> 
-   <td>Colore</td> 
-   <td><p>Codice esadecimale modificabile per il colore</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempio: colore di sfondo, colore del carattere, colore del bordo</p></td> 
-  </tr> 
-  <tr> 
-   <td>Booleano</td> 
-   <td><p>Leva che controlla gli stati di attivazione/disattivazione per gli oggetti o i formati nella pagina di destinazione</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempi: Mostra piè di pagina (Sì/No), Numero colonne (1/2), Incorpora Google Analytics (Vero/Falso)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td>Stringa</td>
+   <td><p>Testo modificabile</p><p>Esempio: titoli, date, etichette dei pulsanti</p></td>
+  </tr>
+  <tr>
+   <td>Colore</td>
+   <td><p>Codice esadecimale modificabile per il colore</p><p><img alt="—" src="assets/image2015-5-20-13-3a14-3a57.png" data-linked-resource-id="7515092" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempio: colore di sfondo, colore del carattere, colore del bordo</p></td>
+  </tr>
+  <tr>
+   <td>Booleano</td>
+   <td><p>Leva che controlla gli stati di attivazione/disattivazione per gli oggetti o i formati nella pagina di destinazione</p><p><img alt="--" src="assets/image2015-5-20-13-3a14-3a25.png" data-linked-resource-id="7515091" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7515069" title="--"></p><p>Esempi: Mostra piè di pagina (Sì/No), Numero colonne (1/2), Incorpora Google Analytics (True/False)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

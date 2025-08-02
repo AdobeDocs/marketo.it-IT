@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: bf686092e8d574c9b8fd3e9e98d0e6d567354788
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '9294'
 ht-degree: 2%
@@ -258,7 +258,7 @@ ht-degree: 2%
       + [Impostare Adobe Organization Mapping](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizzare un pubblico da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
       + [Importazione di Assets con Adobe Experience Manager](product-docs/adobe-experience-cloud-integrations/importing-assets-with-adobe-experience-manager.md)
-      + [Panoramica dell&#39;interfaccia Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
+      + [Panoramica dell’interfaccia di Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Concetti di base su Marketo {#core-marketo-concepts}
       + Campagne avanzate {#smart-campaigns}
          + [Informazioni sulle campagne avanzate](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
@@ -287,7 +287,7 @@ ht-degree: 2%
             + [Pianificare una campagna batch intelligente da eseguire in un secondo momento](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-batch-smart-campaign-to-run-later.md)
             + [Pianificare una campagna batch ricorrente](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/schedule-a-recurring-batch-campaign.md)
             + [Impostazione di una campagna avanzata di attivazione per le vendite tramite &quot;È richiesta la campagna&quot;](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md)
-            + [Utilizzo della logica standard per la regola di elenco avanzato](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
+            + [Utilizzo della logica standard per le regole di elenchi avanzati](product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/using-standard-smart-list-rule-logic.md)
          + Azioni di flusso {#flow-actions}
             + [Aggiungere un passaggio di flusso a una campagna avanzata](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)
             + [Riordinare i passaggi del flusso in una campagna avanzata](product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-the-flow-steps-in-a-smart-campaign.md)

@@ -3,7 +3,7 @@ description: Panoramica della chat in diretta - Documentazione di Marketo - Docu
 title: Panoramica chat in diretta
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 19f7a38a6a87bc66084e7e45f5bf49cd0d29c3cd
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -49,25 +49,25 @@ Facendo clic sulla scheda della chat dal vivo nel flusso, puoi scegliere come in
 
 ![](assets/live-chat-overview-2.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Round robin</b></td>
    <td>Le chat vengono assegnate agli agenti in ordine sequenziale.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Agente</b></td>
    <td>Scegli un agente specifico per ricevere la chat.</td>
   </tr>
-    <tr> 
+    <tr>
    <td><b>Regole personalizzate</b></td>
    <td>Tutte le regole personalizzate vengono esaminate ogni volta che si considera dove indirizzare il visitatore. Se il visitatore non è idoneo per nessuna regola personalizzata, riceve il <a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback" target="_blank">messaggio di fallback della chat in tempo reale</a>.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Team</b></td>
    <td>Scegli un team specifico per ricevere la chat. Se questa opzione è selezionata, verrà assegnato round robin all'interno del team.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Notifiche chat in diretta {#live-chat-notifications}
@@ -102,7 +102,7 @@ Quando una chat in diretta viene indirizzata a un agente, questi visualizzerà u
 >
 >Puoi anche impostare le notifiche del browser, che ti invieranno un avviso nel caso in cui non sia stato effettuato l’accesso a Dynamic Chat.
 >
->* Abilita notifiche browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&amp;co=GENIE.Platform%3DDesktop){target="_blank"}
+>* Abilita notifiche browser in [Google Chrome](https://support.google.com/chrome/answer/3220216?hl=en&co=GENIE.Platform%3DDesktop){target="_blank"}
 >* Abilita notifiche browser in [Mozilla Firefox](https://support.mozilla.org/en-US/kb/push-notifications-firefox){target="_blank"}
 
 ### Notifiche azioni non riuscite {#failed-action-notifications}

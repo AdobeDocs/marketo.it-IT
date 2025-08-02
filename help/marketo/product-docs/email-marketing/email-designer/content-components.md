@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: ca8644c43cfbdbaf7be9f21c5e440949b796cfdb
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1154'
 ht-degree: 0%
@@ -147,7 +147,7 @@ Utilizza il componente **[!UICONTROL Image]** per inserire un file immagine dal 
 
 1. Dalla scheda **[!UICONTROL Settings]**, fai clic su **[!UICONTROL Browse]** per scegliere un file di immagine dalle risorse oppure su **[!UICONTROL Import media]** per caricare una risorsa in Adobe Experience Manager Assets.
 
-   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=it){target="_blank"}.
+   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -209,4 +209,3 @@ Scopri come aggiungere offerte personalizzate in un messaggio e-mail in `[this s
 >[!IMPORTANT]
 >
 >Se vengono apportate modifiche a una decisione di offerta utilizzata in un messaggio di un percorso, devi annullare la pubblicazione del percorso e ripubblicarlo.  In questo modo le modifiche verranno incorporate nel messaggio del percorso e il messaggio sarà coerente con gli ultimi aggiornamenti.
-

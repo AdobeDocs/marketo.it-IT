@@ -4,7 +4,7 @@ description: Rapporto sulle prestazioni dei collegamenti e-mail - Documenti Mark
 title: Rapporto prestazioni collegamento e-mail
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 1%
@@ -41,35 +41,35 @@ Crea un rapporto sulle prestazioni dei collegamenti e-mail per verificare le pre
 
 [Le colonne disponibili](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report delle prestazioni di un collegamento e-mail includono:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">[!UICONTROL Column]</th> 
-   <th colspan="1" rowspan="1">Descrizione</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Link]</td> 
-   <td colspan="1" rowspan="1">Raggruppato per nome e-mail.<br>Fare clic sul segno più (+) per visualizzare tutti i collegamenti inclusi nell'e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Il numero di volte in cui è stato fatto clic sul collegamento.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td> 
-   <td colspan="1" rowspan="1">Percentuale del totale dei clic su tutti i collegamenti nell’e-mail in questione sul collegamento.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">[!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">Il numero di persone univoche che hanno fatto clic sul collegamento.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1">% [!UICONTROL People]</td> 
-   <td colspan="1" rowspan="1">Percentuale del totale di persone univoche che hanno fatto clic sui collegamenti in quell’e-mail su questo collegamento.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">[!UICONTROL Column]</th>
+   <th colspan="1" rowspan="1">Descrizione</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Link]</td>
+   <td colspan="1" rowspan="1">Raggruppato per nome e-mail.<br>Fare clic sul segno più (+) per visualizzare tutti i collegamenti inclusi nell'e-mail.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Il numero di volte in cui è stato fatto clic sul collegamento.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL Clicks]</td>
+   <td colspan="1" rowspan="1">Percentuale del totale dei clic su tutti i collegamenti nell’e-mail in questione sul collegamento.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">[!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">Il numero di persone univoche che hanno fatto clic sul collegamento.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1">% [!UICONTROL People]</td>
+   <td colspan="1" rowspan="1">Percentuale del totale di persone univoche che hanno fatto clic sui collegamenti in quell’e-mail su questo collegamento.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

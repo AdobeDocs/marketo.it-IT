@@ -4,9 +4,9 @@ description: Avvisa il rappresentante di vendita - Documentazione Marketo - Docu
 title: Avvisa il rappresentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -23,23 +23,23 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
 ## Passaggio 1: creare un messaggio e-mail di avviso {#step-create-an-alert-email}
 
-1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/alert-the-sales-rep-1.png)
 
-1. Seleziona **Il mio programma** che hai creato nella [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vinto rapidamente, quindi in **[!UICONTROL Nuovo]** fai clic su **[!UICONTROL Nuova risorsa locale]**.
+1. Seleziona **Il mio programma** che hai creato nella [Pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vinto rapidamente, quindi in **[!UICONTROL New]** fai clic su **[!UICONTROL New Local Asset]**.
 
    ![](assets/alert-the-sales-rep-2.png)
 
-1. Fai clic su **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/alert-the-sales-rep-3.png)
 
-1. **Denomina** l&#39;e-mail &quot;Avviso e-mail&quot;, seleziona un modello e fai clic su **[!UICONTROL Crea]**.
+1. **Denomina** l&#39;e-mail &quot;Avviso e-mail&quot;, seleziona un modello e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/alert-the-sales-rep-4.png)
 
-1. Immetti **Da nome**, **Da e-mail**, **[!UICONTROL Rispondi a]** e **[!UICONTROL Oggetto]** che desideri che il tuo team vendite veda.
+1. Immetti **Da nome**, **Da e-mail**, **[!UICONTROL Reply-to]** e **[!UICONTROL Subject]** che desideri che il team vendite veda.
 
    ![](assets/alert-the-sales-rep-5.png)
 
@@ -55,7 +55,7 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
    ![](assets/alert-the-sales-rep-8.png)
 
-1. Trova e seleziona il `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** e fai clic su **[!UICONTROL Inserisci]**.
+1. Trovare e selezionare `{{SP_Send_Alert_Info}}` **[!UICONTROL Token]** e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/alert-the-sales-rep-9.png)
 
@@ -63,25 +63,25 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
    >
    >{{SP_Send_Alert_Info}} è un token speciale per le e-mail di avviso. Per ulteriori informazioni, consulta [Utilizzare il token di informazioni per l&#39;invio degli avvisi](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}.
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni e-mail]** e seleziona **[!UICONTROL Approva e chiudi]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Email Actions]** e selezionare **[!UICONTROL Approve and Close]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
 ## Passaggio 2: creare una campagna di attivazione degli avvisi {#step-create-an-alert-trigger-campaign}
 
-1. Seleziona **Il mio programma** creato in precedenza, quindi in **[!UICONTROL Nuovo]** fai clic su **[!UICONTROL Nuova campagna avanzata]**.
+1. Seleziona **Il mio programma** creato in precedenza, quindi in **[!UICONTROL New]** fai clic su **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/alert-the-sales-rep-12.png)
 
-1. **Denomina** la campagna &quot;La mia campagna di avvisi&quot; e fai clic su **[!UICONTROL Crea]**.
+1. **Denomina** la campagna &quot;La mia campagna di avvisi&quot; e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/alert-the-sales-rep-13.png)
 
-1. Nella scheda **[!UICONTROL Elenco avanzato]**, individua e trascina il trigger **[!UICONTROL Compila modulo]** nell&#39;area di lavoro.
+1. Nella scheda **[!UICONTROL Smart List]**, individua e trascina il trigger **[!UICONTROL Fills Out Form]** nell&#39;area di lavoro.
 
    ![](assets/alert-the-sales-rep-14.png)
 
@@ -89,33 +89,33 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
    ![](assets/alert-the-sales-rep-15.png)
 
-1. Nella scheda **[!UICONTROL Flusso]**, individua e trascina l&#39;azione di flusso **[!UICONTROL Invia avviso]** nell&#39;area di lavoro.
+1. Nella scheda **[!UICONTROL Flow]**, individua e trascina l&#39;azione di flusso **[!UICONTROL Send Alert]** nell&#39;area di lavoro.
 
    ![](assets/alert-the-sales-rep-16.png)
 
-1. Seleziona **[!UICONTROL Il mio avviso e-mail]** creato in precedenza e lascia **[!UICONTROL Invia a]** come **[!UICONTROL Proprietario vendite]**.
+1. Selezionare **[!UICONTROL My Alert Email]** creato in precedenza e lasciare **[!UICONTROL Send To]** come **[!UICONTROL Sales Owner]**.
 
    ![](assets/alert-the-sales-rep-17.png)
 
-1. Digita il tuo indirizzo e-mail nel campo **[!UICONTROL Altre e-mail]**.
+1. Digitare l&#39;indirizzo di posta elettronica nel campo **[!UICONTROL To Other Emails]**.
 
    ![](assets/alert-the-sales-rep-18.png)
 
-1. Vai alla scheda **[!UICONTROL Pianifica]** e fai clic sul pulsante **[!UICONTROL Attiva]**.
+1. Passare alla scheda **[!UICONTROL Schedule]** e fare clic sul pulsante **[!UICONTROL Activate]**.
 
    ![](assets/alert-the-sales-rep-19.png)
 
    >[!TIP]
    >
-   >Imposta le **[!UICONTROL regole per la qualifica]** su **[!UICONTROL ogni volta]** (modificando Smart Campaign) per consentire alla stessa persona di attivare gli avvisi più volte.
+   >Imposta **[!UICONTROL Qualification Rules]** su **[!UICONTROL every time]** (modificando Smart Campaign) per consentire alla stessa persona di attivare gli avvisi più volte.
 
-1. Fai clic su **[!UICONTROL Attiva]** nella schermata di conferma.
+1. Fare clic su **[!UICONTROL Activate]** nella schermata di conferma.
 
    ![](assets/alert-the-sales-rep-20.png)
 
 ## Passaggio 3: Testarlo! {#step-test-it-out}
 
-1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL Visualizza pagina approvata]**.
+1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL View Approved Page]**.
 
    ![](assets/alert-the-sales-21.png)
 
@@ -123,7 +123,7 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
    >
    >Non dimenticare di approvare le pagine di destinazione, che verranno pubblicate solo dopo l’approvazione.
 
-1. Compila il modulo e fai clic su **[!UICONTROL Invia]**.
+1. Compila il modulo e fai clic su **[!UICONTROL Submit]**.
 
    ![](assets/alert-the-sales-22.png)
 
@@ -131,12 +131,12 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
    >[!NOTE]
    >
-   >Fare clic sulla scheda **[!UICONTROL Informazioni persona]** in Marketo per visualizzare le informazioni di contatto.
+   >Fare clic sulla scheda **[!UICONTROL Person Info]** in Marketo per visualizzare le informazioni di contatto.
 
 ## Missione completata! {#mission-complete}
 
 <br> 
 
-[◄ Mission 7: Personalizzare un’e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
+[◄ Missione 7: personalizzare un messaggio e-mail](/help/marketo/getting-started/quick-wins/personalize-an-email.md)
 
-[Missione 9: aggiornare i dati ► persona](/help/marketo/getting-started/quick-wins/update-person-data.md)
+[Missione 9: aggiornare i dati della persona ►](/help/marketo/getting-started/quick-wins/update-person-data.md)

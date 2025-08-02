@@ -4,7 +4,7 @@ description: Integrare con Adobe Analytics - Documentazione Marketo - Documentaz
 title: Integrare con Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -64,8 +64,8 @@ Per impostare queste variabili in AA, completa i passaggi seguenti:
 
 1. Vai a **[!UICONTROL Admin Tools]** nel tuo account AA.
 1. Selezionare **[!UICONTROL Report Suite]** da utilizzare con l&#39;integrazione.
-1. In **[!UICONTROL Edit Settings]**, vai a **[!UICONTROL Conversion]** e seleziona **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.\
-   Seleziona il numero della [variabile di conversione](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (ti consigliamo):
+1. In **[!UICONTROL Edit Settings]**, vai a **[!UICONTROL Conversion]** e seleziona **[[!UICONTROL Conversion Variables]](https://microsite.omniture.com/t2/help/en_US/reference/#Edit_conversion_variables)**.
+Seleziona il numero della [variabile di conversione](https://microsite.omniture.com/t2/help/en_US/reference/#Conversion_Variables_eVar) (ti consigliamo):
 
    1. Evar n. 20 per conversioni personalizzate del settore
    1. Evar n. 21 per conversioni personalizzate organizzazione
@@ -220,7 +220,7 @@ I reportlet verranno visualizzati nella dashboard.
 
    ![](assets/sitecatalyst1-1.png)
 
-1. Cerca le impression per visualizzare i nomi dei segmenti e delle campagne che rappresentano il numero di impression per la campagna.\
+1. Cerca le impression per visualizzare i nomi dei segmenti e delle campagne che rappresentano il numero di impression per la campagna.
    ![](assets/sitecatalyst1.png)
 
 1. Cerca Conversione per visualizzare i nomi dei segmenti e delle campagne che rappresentano il numero di clic per la campagna.

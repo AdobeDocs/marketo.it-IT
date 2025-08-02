@@ -4,7 +4,7 @@ description: Creazione di una nuova campagna web nell’area - Documentazione di
 title: Crea una nuova campagna web nell’area
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
@@ -37,45 +37,45 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
    >
    >Quindi, vuoi trovare il &quot;id&quot; associato a questa sezione del sito web, che viene evidenziato perché stai esaminando quell’elemento. Ad esempio, se una volta fatto clic con il pulsante destro del mouse in Chrome, il testo evidenziato riporta `<div id="featured-slider">`, sarà sufficiente digitare &quot;feature-slider&quot; nella sezione &quot;zone id&quot;. In genere viene utilizzato &quot;div id&quot;, ma può essere utilizzato anche qualsiasi ID, ad esempio h1 id, p id e così via.
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrizione</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong> ID zona </strong></td> 
-   <td colspan="1" rowspan="1"><p>Immetti il nome dell'ID trovato nel codice HTML dell'elemento del sito web che la campagna sostituisce.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> Sticky </strong></p></td> 
-   <td colspan="1" rowspan="1">La casella di controllo Sticky è selezionata per impostazione predefinita per la campagna In Zone e mantiene la campagna In Zone nella sua posizione ID zona per tutta la sessione del visitatore sul sito web. Si consiglia di impostare sempre la zona di entrata su Sticky.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong> dissolvenza</strong> </p></td> 
-   <td colspan="1" rowspan="1">Selezionando la casella di controllo Usa effetto e l'opzione Scolorimento si ottiene un effetto di dissolvenza sull'area ID zona del sito Web. Se la zona In è un banner grafico, la pagina viene prima caricata e quindi la campagna si attiva con un effetto di dissolvenza.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Scorrimento</strong></td> 
-   <td colspan="1">Selezionando la casella di controllo Usa effetto e l'opzione Scorrimento, viene attivata una scorrevole per l'area ID zona del sito Web. Se la zona In è un banner grafico, la pagina viene prima caricata e quindi la campagna si attiva con un effetto scorrevole da sinistra a destra.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Editor Rich Text  </strong></td> 
-   <td colspan="1">L’editor Rich Text consente la formattazione del testo, il collegamento e l’inserimento di immagini. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Ulteriori informazioni</a> .</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong> Anteprima sul sito   </strong></td> 
-   <td colspan="1">Visualizza l’anteprima delle campagne prima che vengano avviate. <br> 
-    <ul> 
-     <li> URL: immetti un URL di esempio in cui eseguire la campagna per visualizzare un esempio di anteprima dell’aspetto della campagna dal vivo.</li> 
-     <li>Dispositivo: visualizza in anteprima come verrà visualizzata la campagna per dispositivo: Desktop, Verticale mobile, Orizzontale mobile, Verticale tablet, Orizzontale verticale.</li> 
-     <li> Anteprima - Fai clic su <strong>Anteprima</strong> per aprire una nuova finestra dell'URL di esempio e vedere come reagisce la campagna.</li> 
-     <li> Condividi: utilizza il pulsante Condividi per inviare un’e-mail a un collega con un collegamento per visualizzare la campagna proxy.</li> 
-    </ul></td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrizione</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong> ID zona </strong></td>
+   <td colspan="1" rowspan="1"><p>Immetti il nome dell'ID trovato nel codice HTML dell'elemento del sito web che la campagna sostituisce.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> Sticky </strong></p></td>
+   <td colspan="1" rowspan="1">La casella di controllo Sticky è selezionata per impostazione predefinita per la campagna In Zone e mantiene la campagna In Zone nella sua posizione ID zona per tutta la sessione del visitatore sul sito web. Si consiglia di impostare sempre la zona di entrata su Sticky.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong> dissolvenza</strong> </p></td>
+   <td colspan="1" rowspan="1">Selezionando la casella di controllo Usa effetto e l'opzione Scolorimento si ottiene un effetto di dissolvenza sull'area ID zona del sito Web. Se la zona In è un banner grafico, la pagina viene prima caricata e quindi la campagna si attiva con un effetto di dissolvenza.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Scorrimento</strong></td>
+   <td colspan="1">Selezionando la casella di controllo Usa effetto e l'opzione Scorrimento, viene attivata una scorrevole per l'area ID zona del sito Web. Se la zona In è un banner grafico, la pagina viene prima caricata e quindi la campagna si attiva con un effetto scorrevole da sinistra a destra.</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Editor Rich Text  </strong></td>
+   <td colspan="1">L’editor Rich Text consente la formattazione del testo, il collegamento e l’inserimento di immagini. <a href="/help/marketo/product-docs/web-personalization/working-with-web-campaigns/using-the-web-personalization-rich-text-editor.md">Ulteriori informazioni</a> .</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong> Anteprima sul sito   </strong></td>
+   <td colspan="1">Visualizza l’anteprima delle campagne prima che vengano avviate. <br>
+    <ul>
+     <li> URL: immetti un URL di esempio in cui eseguire la campagna per visualizzare un esempio di anteprima dell’aspetto della campagna dal vivo.</li>
+     <li>Dispositivo: visualizza in anteprima come verrà visualizzata la campagna per dispositivo: Desktop, Verticale mobile, Orizzontale mobile, Verticale tablet, Orizzontale verticale.</li>
+     <li> Anteprima - Fai clic su <strong>Anteprima</strong> per aprire una nuova finestra dell'URL di esempio e vedere come reagisce la campagna.</li>
+     <li> Condividi: utilizza il pulsante Condividi per inviare un’e-mail a un collega con un collegamento per visualizzare la campagna proxy.</li>
+    </ul></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

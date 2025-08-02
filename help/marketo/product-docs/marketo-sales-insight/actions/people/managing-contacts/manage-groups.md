@@ -3,7 +3,7 @@ description: Gestire i gruppi - Documentazione di Marketo - Documentazione del p
 title: Gestisci gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 0%
@@ -16,33 +16,33 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 
 ## Tipi di gruppo {#group-types}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th>Gruppo</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL All People]</td> 
-   <td>Tutti i contatti di tutti gli utenti visibili.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Dynamic Groups]</td> 
-   <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL My Groups]</td> 
-   <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Team Groups]</td> 
-   <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th>Gruppo</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td>[!UICONTROL All People]</td>
+   <td>Tutti i contatti di tutti gli utenti visibili.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Dynamic Groups]</td>
+   <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL My Groups]</td>
+   <td>Gruppi creati. Possono contenere i tuoi contatti o i contatti condivisi con te.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Team Groups]</td>
+   <td>Gruppi che sono stati condivisi con e/o da te. Possono contenere i contatti di proprietà dei tuoi colleghi o quelli che hai condiviso con loro.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Creare un gruppo {#create-a-group}

@@ -4,7 +4,7 @@ description: Utilizzo dell’Editor Rich Text - Documentazione di Marketo - Docu
 title: Utilizzo dell’Editor Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '659'
 ht-degree: 1%
@@ -41,19 +41,19 @@ L’impostazione dell’elemento del blocco principale definisce i tag che racch
 
    Se hai `<div class=“mktEditable”></div>` in un Modello e-mail, visualizzerai il seguente comportamento di HTML Source quando apri la sezione e digiti &quot;Text Goes Here&quot; nell&#39;editor:
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>&lt;p&gt;</th> 
-   <th>&lt;div&gt;</th> 
-   <th>Nessuna</th> 
-  </tr> 
-  <tr> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;Il testo va qui&lt;/p&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;Il testo va qui&lt;/div&gt;<br>&lt;/div&gt;</p></td> 
-   <td><p>&lt;div class="mktEditable"&gt;<br>Testo da inserire<br>&lt;/div&gt;</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>&lt;p&gt;</th>
+   <th>&lt;div&gt;</th>
+   <th>Nessuna</th>
+  </tr>
+  <tr>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;Il testo va qui&lt;/p&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;Il testo va qui&lt;/div&gt;<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>Testo da inserire<br>&lt;/div&gt;</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!TIP]

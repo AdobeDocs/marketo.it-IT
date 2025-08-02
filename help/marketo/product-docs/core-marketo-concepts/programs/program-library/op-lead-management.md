@@ -3,77 +3,77 @@ description: Gestione dei lead operativi - Documentazione di Marketo - Documenta
 title: Gestione OP-Lead
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
 # Gestione OP-Lead {#op-lead-management}
 
-Questo è un esempio di flussi di lavoro basati sulle best practice per la gestione dei lead, che utilizzano un programma predefinito di Marketo Engage, per aiutarti a gestire i record all’interno del database di Marketo Engage al tuo CRM.
+Questo è un esempio di flussi di lavoro basati sulle best practice per la gestione dei lead, che utilizzano un programma predefinito di Marketo Engage, per aiutarti a gestire i record all’interno del database Marketo Engage al tuo CRM.
 
 >[!NOTE]
 >
->In Marketo Engage, i record del database sono denominati persone/persone. La gestione dei lead in questo esempio fa riferimento ai record nel CRM.
+>In Marketo Engage, i record del database sono denominati persone. La gestione dei lead in questo esempio fa riferimento ai record nel CRM.
 
 Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Riepilogo canale {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canale</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Stato iscrizione</th>
    <th>Comportamento di Analytics</th>
    <th>Tipo di programma</th>
-  </tr> 
-  <tr> 
-   <td>Operativo</td> 
+  </tr>
+  <tr>
+   <td>Operativo</td>
    <td>01 membro</td>
    <td>Operativo</td>
    <td>Predefinito</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome modello</th>
    <th>Nome risorsa</th>
-  </tr> 
-  <tr> 
-   <td>Campagna avanzata</td> 
+  </tr>
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>01 - Sincronizza nuove persone con CRM</td>
   </tr>
-  <tr> 
-   <td>Campagna avanzata</td> 
+  <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>02 - Qualificati per il marketing</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>01 - E-mail - AVVISO - MQL</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Campagne</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Avviso e-mail</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/op-lead-management-1.png)

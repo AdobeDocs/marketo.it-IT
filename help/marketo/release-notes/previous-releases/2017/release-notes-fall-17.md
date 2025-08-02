@@ -4,7 +4,7 @@ description: Note sulla versione -Autunno '17 - Documentazione Marketo - Documen
 title: Note sulla versione - Autunno '17
 exl-id: 329022e6-f388-4ff9-9724-62aeed76c0b9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '583'
 ht-degree: 0%
@@ -86,10 +86,10 @@ Risparmia tempo riutilizzando le risorse creative e le immagini su più canali i
 
 ## Integrazione  {#integration}
 
-**[API anteprima e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)**
+**[API anteprima e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Ora è possibile visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semplificando il processo di localizzazione dei contenuti e-mail e riducendo gli errori.
 
-**[Sostituisci API HTML](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)**
+**[Sostituisci API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
 
 Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.

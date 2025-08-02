@@ -4,7 +4,7 @@ description: Importa [!UICONTROL Named Accounts] - Documentazione Marketo - Docu
 title: Importa [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -65,40 +65,40 @@ Hai già un file CSV pieno di potenziali account di destinazione? Importateli di
 
 Scenari durante la deduplicazione di [!UICONTROL by Account Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importazione del record con il nome <span class="uicontrol">Account denominato</span> esistente</strong></td> 
-   <td><p>Il record esistente verrà aggiornato</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importazione del record con il nuovo nome <span class="uicontrol">Account denominato</span></strong></td> 
-   <td>Verrà creato un nuovo record</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importazione del record con il nome <span class="uicontrol">Account denominato</span> esistente</strong></td>
+   <td><p>Il record esistente verrà aggiornato</p></td>
+  </tr>
+  <tr>
+   <td><strong>Importazione del record con il nuovo nome <span class="uicontrol">Account denominato</span></strong></td>
+   <td>Verrà creato un nuovo record</td>
+  </tr>
+ </tbody>
 </table>
 
 Scenari durante la deduplicazione di [!UICONTROL by Domain Name]:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>Importazione di record con un nuovo nome account e un nuovo nome dominio</strong></td> 
-   <td>Verrà creato un nuovo <span class="uicontrol">account denominato</span> con le informazioni fornite</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importazione del record con un nome account e un nome dominio esistenti</strong></td> 
-   <td>Verrà aggiornato l'account denominato <span class="uicontrol">esistente</span></td> 
-  </tr> 
-   <tr> 
-   <td><strong>Importazione del record con un nuovo nome account e un nome dominio esistente</strong></td> 
-   <td>Il nuovo nome account verrà aggiunto al <span class="uicontrol">Account denominato</span> esistente che corrisponde al nome di dominio e aggiornerà altre informazioni (ad esempio, Industria, Stato, ecc.)</td> 
-  </tr> 
-  <tr> 
-   <td><strong>Importazione record con nome <span class="uicontrol">Account denominato</span> esistente e nuovo nome dominio</strong></td> 
-   <td>Il nuovo nome di dominio verrà aggiunto all'<span class="uicontrol">account denominato</span> esistente che corrisponde al nome dell'account e aggiornerà altre informazioni (ad esempio, settore, stato e così via)</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>Importazione di record con un nuovo nome account e un nuovo nome dominio</strong></td>
+   <td>Verrà creato un nuovo <span class="uicontrol">account denominato</span> con le informazioni fornite</td>
+  </tr>
+  <tr>
+   <td><strong>Importazione del record con un nome account e un nome dominio esistenti</strong></td>
+   <td>Verrà aggiornato l'account denominato <span class="uicontrol">esistente</span></td>
+  </tr>
+   <tr>
+   <td><strong>Importazione del record con un nuovo nome account e un nome dominio esistente</strong></td>
+   <td>Il nuovo nome account verrà aggiunto al <span class="uicontrol">Account denominato</span> esistente che corrisponde al nome di dominio e aggiornerà altre informazioni (ad esempio, Industria, Stato, ecc.)</td>
+  </tr>
+  <tr>
+   <td><strong>Importazione record con nome <span class="uicontrol">Account denominato</span> esistente e nuovo nome dominio</strong></td>
+   <td>Il nuovo nome di dominio verrà aggiunto all'<span class="uicontrol">account denominato</span> esistente che corrisponde al nome dell'account e aggiornerà altre informazioni (ad esempio, settore, stato e così via)</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

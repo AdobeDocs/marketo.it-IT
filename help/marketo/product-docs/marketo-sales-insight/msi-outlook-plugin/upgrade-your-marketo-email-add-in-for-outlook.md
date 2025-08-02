@@ -4,7 +4,7 @@ description: Aggiorna il componente aggiuntivo Marketo Email per  [!DNL Outlook]
 title: Aggiorna il componente aggiuntivo Marketo Email per  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 11%
@@ -23,98 +23,98 @@ Quando è disponibile una nuova versione di Marketo Email Add-in per [!DNL Outlo
 
 Scaricare il programma di installazione appropriato per la versione di Microsoft [!DNL Outlook] in uso.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <th><br></th> 
-   <th colspan="2">Installazione invito utente singolo</th> 
-   <th colspan="2">Installazione chiave Enterprise</th> 
-  </tr> 
-  <tr> 
-   <td><strong>Versione <span class="dnl">Outlook</span></strong></td> 
-   <td><strong>32 bit</strong></td> 
-   <td><strong>64 bit</strong></td> 
-   <td><strong>32 bit</strong></td> 
-   <td><strong>64 bit</strong></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2000</td> 
-   <td>Non supportato</td> 
-   <td>N/D</td> 
-   <td>Non supportato</td> 
-   <td>N/D</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook 2003</span></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td>N/D</td> 
-   <td>Non supportato</td> 
-   <td>N/D</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2007</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td>N/D</td> 
-   <td>Non supportato</td> 
-   <td>N/D</td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2010</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2013</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> 2016</td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> 2019</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-  </tr> 
-  <tr> 
-   <td><span class="dnl">Outlook</span> per Mac</td> 
-   <td>Non supportato</td> 
-   <td>Non supportato</td> 
-   <td>Non supportato</td> 
-   <td>Non supportato</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Outlook</span> Web App</td> 
-   <td colspan="1">Non supportato</td> 
-   <td colspan="1">Non supportato</td> 
-   <td colspan="1">Non supportato</td> 
-   <td colspan="1">Non supportato</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><span class="dnl">Ufficio</span> 365*</td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td> 
-   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <th><br></th>
+   <th colspan="2">Installazione invito utente singolo</th>
+   <th colspan="2">Installazione chiave Enterprise</th>
+  </tr>
+  <tr>
+   <td><strong>Versione <span class="dnl">Outlook</span></strong></td>
+   <td><strong>32 bit</strong></td>
+   <td><strong>64 bit</strong></td>
+   <td><strong>32 bit</strong></td>
+   <td><strong>64 bit</strong></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2000</td>
+   <td>Non supportato</td>
+   <td>N/D</td>
+   <td>Non supportato</td>
+   <td>N/D</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook 2003</span></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td>N/D</td>
+   <td>Non supportato</td>
+   <td>N/D</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2007</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td>N/D</td>
+   <td>Non supportato</td>
+   <td>N/D</td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2010</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2013</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> 2016</td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> 2019</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+  </tr>
+  <tr>
+   <td><span class="dnl">Outlook</span> per Mac</td>
+   <td>Non supportato</td>
+   <td>Non supportato</td>
+   <td>Non supportato</td>
+   <td>Non supportato</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Outlook</span> Web App</td>
+   <td colspan="1">Non supportato</td>
+   <td colspan="1">Non supportato</td>
+   <td colspan="1">Non supportato</td>
+   <td colspan="1">Non supportato</td>
+  </tr>
+  <tr>
+   <td colspan="1"><span class="dnl">Ufficio</span> 365*</td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup32.msi" rel="nofollow">Scarica</a></td>
+   <td colspan="1"><a href="https://munchkin.marketo.net/MarketoAddInSetup64.msi" rel="nofollow">Scarica</a></td>
+  </tr>
+ </tbody>
 </table>
 
 &#42;Versione di Office 365: solo client Windows (su Windows 10, Windows 11, Enterprise o Pro).

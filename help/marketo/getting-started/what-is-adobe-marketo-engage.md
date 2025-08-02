@@ -4,7 +4,7 @@ description: Cos’è Adobe Marketo Engage? - Documentazione di Marketo - Docume
 title: Cos’è Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: f0885ae2fcc1fe51768edc34bc4e814c19b9c315
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '286'
 ht-degree: 1%
@@ -17,7 +17,7 @@ Adobe Marketo Engage è un software di automazione del marketing. L’automazion
 
 ## Cosa posso fare in Marketo Engage? {#what-can-i-do-in-marketo-engage}
 
-Il Marketo Engage dispone di un sacco di grandi funzioni per aiutarti a raggiungere i tuoi obiettivi di marketing. Cose come...
+Marketo Engage offre numerose funzioni avanzate per aiutarti a raggiungere i tuoi obiettivi di marketing. Cose come...
 
 * Editor di moduli
 * Editor pagina di destinazione
@@ -43,7 +43,7 @@ Il Marketo Engage dispone di un sacco di grandi funzioni per aiutarti a raggiung
 
 ## Devo imparare tutto questo? {#do-i-need-to-learn-all-of-that}
 
-Non è così. È facile iniziare in Marketo Engage, e si evolverà con voi. Puoi imparare tutto, se lo desideri, o semplicemente utilizzare i pezzi che si adattano alle tue esigenze.
+Non è così. È facile iniziare a utilizzare Marketo Engage, e si evolverà insieme a te. Puoi imparare tutto, se lo desideri, o semplicemente utilizzare i pezzi che si adattano alle tue esigenze.
 
 ## È necessario eseguire una configurazione? {#do-i-need-to-do-any-setup}
 
@@ -55,12 +55,12 @@ No! Abbiamo creato una serie di semplici tutorial. [Inizia qui](/help/marketo/ge
 
 ## Esiste un elenco di elementi che copre i limiti, ad esempio il numero totale di e-mail che è possibile inviare in una settimana? {#list-of-limits}
 
-C&#39;è. I limiti statici (e altri parametri) sono descritti [in questo articolo](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+C&#39;è. I limiti statici (e altri parametri) sono descritti [in questo articolo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Per quanto tempo Marketo conserva i miei dati? {#data-retention-policy}
 
-Rivedi [questo post del blog della nazione di marketing](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} per i dettagli.
+Rivedi [questo post di blog della nazione di marketing](https://nation.marketo.com/t5/knowledgebase/marketo-activities-data-retention-policy-overview-amp-faq/ta-p/250750){target="_blank"} per i dettagli.
 
 <br>
 
-Benvenuto nel Marketo Engage!
+Benvenuto in Marketo Engage.

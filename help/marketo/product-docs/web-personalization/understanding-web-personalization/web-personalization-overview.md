@@ -4,7 +4,7 @@ description: Panoramica di Web Personalization - Documentazione di Marketo - Doc
 title: Panoramica di Web Personalization
 exl-id: 31445a69-9a3a-4350-a3eb-1af718e823b4
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 1%
@@ -66,13 +66,13 @@ Nella scheda Organizzazioni vengono visualizzati tutti i dettagli (nome, posizio
 
 Il pannello di destra della pagina Organizations (Organizzazioni) offre le seguenti funzioni e informazioni:
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><p><strong>Icona foglio di calcolo</strong>: situata nella parte superiore destra del pannello, l'icona scarica la tabella Organizations (Organizzazioni) in formato CSV per l'utilizzo offline</p><p><strong>[!UICONTROL Set Email Alert]</strong>: invia un messaggio e-mail all'utente connesso ogni volta che l'organizzazione selezionata visita il sito Web</p><p><strong>[!UICONTROL Leads]</strong>: apre la tabella dei lead per l’organizzazione selezionata</p><p><strong>[!UICONTROL Share]</strong>: apre una finestra pop-up per inviare e-mail e condividere i dettagli dell’organizzazione che ha visitato la pagina web</p><p><strong>Icona località</strong>: visualizza il paese e la città dell'organizzazione selezionata</p><p><strong>Collegamenti</strong>: Jigsaw, Whois, Linkedin, Google, Twitter apre una nuova finestra con informazioni aggiuntive dalla rispettiva pagina Web per offrire ulteriori insight nell'organizzazione selezionata</p><p><strong>[!UICONTROL Search]</strong>: visualizza la parola chiave utilizzata se il visitatore è arrivato tramite un motore di ricerca</p><p><strong>[!UICONTROL Referrers]</strong>: mostra il collegamento URL della pagina che ha indirizzato il traffico al sito</p><p><strong>[!UICONTROL Visitors]</strong>: visualizza il numero di visite, il numero di pagine visualizzate dall’organizzazione selezionata e il relativo indirizzo e-mail (se ha completato un modulo di invio), nonché l’ora e la data dell’ultima visita</p><p><strong>[!UICONTROL Clickstream]</strong>: visualizza una tabella dell’attività utente e del percorso URL sul sito, indicando per quanto tempo ha visitato ogni pagina.</p></td> 
-   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><p><strong>Icona foglio di calcolo</strong>: situata nella parte superiore destra del pannello, l'icona scarica la tabella Organizations (Organizzazioni) in formato CSV per l'utilizzo offline</p><p><strong>[!UICONTROL Set Email Alert]</strong>: invia un messaggio e-mail all'utente connesso ogni volta che l'organizzazione selezionata visita il sito Web</p><p><strong>[!UICONTROL Leads]</strong>: apre la tabella dei lead per l’organizzazione selezionata</p><p><strong>[!UICONTROL Share]</strong>: apre una finestra pop-up per inviare e-mail e condividere i dettagli dell’organizzazione che ha visitato la pagina web</p><p><strong>Icona località</strong>: visualizza il paese e la città dell'organizzazione selezionata</p><p><strong>Collegamenti</strong>: Jigsaw, Whois, Linkedin, Google, Twitter apre una nuova finestra con informazioni aggiuntive dalla rispettiva pagina Web per offrire ulteriori insight nell'organizzazione selezionata</p><p><strong>[!UICONTROL Search]</strong>: visualizza la parola chiave utilizzata se il visitatore è arrivato tramite un motore di ricerca</p><p><strong>[!UICONTROL Referrers]</strong>: mostra il collegamento URL della pagina che ha indirizzato il traffico al sito</p><p><strong>[!UICONTROL Visitors]</strong>: visualizza il numero di visite, il numero di pagine visualizzate dall’organizzazione selezionata e il relativo indirizzo e-mail (se ha completato un modulo di invio), nonché l’ora e la data dell’ultima visita</p><p><strong>[!UICONTROL Clickstream]</strong>: visualizza una tabella dell’attività utente e del percorso URL sul sito, indicando per quanto tempo ha visitato ogni pagina.</p></td>
+   <td><img src="assets/image2014-11-10-19-3a22-3a47.png" data-linked-resource-id="5046291" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="3571900"></td>
+  </tr>
+ </tbody>
 </table>
 
 **Condividi organizzazioni**
@@ -93,35 +93,35 @@ Nella pagina Visitatori vengono visualizzati tutti i dettagli e il comportamento
 
 Il pannello di destra della pagina [!UICONTROL Visitors] fornisce le seguenti informazioni:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrizione</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Icona Foglio di calcolo</strong></td> 
-   <td colspan="1" rowspan="1">Situata in alto a destra nel pannello, l’icona scarica la tabella Visitatori in formato CSV per l’utilizzo offline</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>Nome organizzazione</strong></p></td> 
-   <td colspan="1" rowspan="1"> </td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Imposta campagna</strong></td> 
-   <td colspan="1" rowspan="1">Consente di impostare una campagna CTA associata al visitatore selezionato</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>Posizione</strong></td> 
-   <td colspan="1">Visualizza il paese, lo stato e la città del visitatore.</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td> 
-   <td colspan="1" rowspan="1">Visualizza una tabella dell’attività e del percorso URL del visitatore sul sito, con indicazione di quanto tempo ha visitato ciascuna pagina.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrizione</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Icona Foglio di calcolo</strong></td>
+   <td colspan="1" rowspan="1">Situata in alto a destra nel pannello, l’icona scarica la tabella Visitatori in formato CSV per l’utilizzo offline</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>Nome organizzazione</strong></p></td>
+   <td colspan="1" rowspan="1"> </td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Imposta campagna</strong></td>
+   <td colspan="1" rowspan="1">Consente di impostare una campagna CTA associata al visitatore selezionato</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>Posizione</strong></td>
+   <td colspan="1">Visualizza il paese, lo stato e la città del visitatore.</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>Clickstream</strong></td>
+   <td colspan="1" rowspan="1">Visualizza una tabella dell’attività e del percorso URL del visitatore sul sito, con indicazione di quanto tempo ha visitato ciascuna pagina.</td>
+  </tr>
+ </tbody>
 </table>
 
 ## Tempo reale {#real-time}
@@ -134,37 +134,37 @@ La pagina in tempo reale mostra i visitatori sul sito web in tempo reale, misura
 
 La pagina in tempo reale è suddivisa in 6 tabelle informative con i dettagli dei visitatori nel sito:
 
-<table> 
- <thead> 
-  <tr> 
-   <th colspan="1" rowspan="1">Nome</th> 
-   <th colspan="1" rowspan="1">Descrizione</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td> 
-   <td colspan="1" rowspan="1"> Rappresenta il numero di visitatori attualmente presenti nel sito Web</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td> 
-   <td colspan="1" rowspan="1"> Un grafico a linee live che mostra il numero di clic sul sito al minuto</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td> 
-   <td colspan="1" rowspan="1">Versione breve della tabella Organizzazioni</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td> 
-   <td colspan="1">Il numero di visitatori attualmente nel sito che corrispondono ai segmenti designati</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td> 
-   <td colspan="1">URL delle pagine attualmente visualizzate dai visitatori nel sito</td> 
-  </tr> 
-  <tr> 
-   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td> 
-   <td colspan="1" rowspan="1">URL di riferimento che ha portato il visitatore al sito</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th colspan="1" rowspan="1">Nome</th>
+   <th colspan="1" rowspan="1">Descrizione</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Visitors]</strong></td>
+   <td colspan="1" rowspan="1"> Rappresenta il numero di visitatori attualmente presenti nel sito Web</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><p><strong>[!UICONTROL Clicks per minute]</strong></p></td>
+   <td colspan="1" rowspan="1"> Un grafico a linee live che mostra il numero di clic sul sito al minuto</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Organizations]</strong></td>
+   <td colspan="1" rowspan="1">Versione breve della tabella Organizzazioni</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Real-Time Segment]</strong></td>
+   <td colspan="1">Il numero di visitatori attualmente nel sito che corrispondono ai segmenti designati</td>
+  </tr>
+  <tr>
+   <td colspan="1"><strong>[!UICONTROL Currently Browsing]</strong></td>
+   <td colspan="1">URL delle pagine attualmente visualizzate dai visitatori nel sito</td>
+  </tr>
+  <tr>
+   <td colspan="1" rowspan="1"><strong>[!UICONTROL Top Referrals]</strong></td>
+   <td colspan="1" rowspan="1">URL di riferimento che ha portato il visitatore al sito</td>
+  </tr>
+ </tbody>
 </table>

@@ -3,7 +3,7 @@ description: Impostazioni agente - Documentazione di Marketo - Documentazione de
 title: Impostazioni agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 8cc63658ddd0e5b6343dc690d4009d4466250998
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '605'
 ht-degree: 1%
@@ -63,17 +63,17 @@ Impostare il fuso orario e l&#39;ora/giorno della settimana per ricevere le pren
 
 ![](assets/agent-settings-4.png)
 
-<table> 
- <tbody> 
-  <tr> 
+<table>
+ <tbody>
+  <tr>
    <td><b>Durata riunione</b></td>
    <td>Determina il periodo di tempo che i visitatori visualizzeranno negli spazi riunioni disponibili.</td>
-  </tr> 
-  <tr> 
+  </tr>
+  <tr>
    <td><b>Tempo di buffer tra riunioni</b></td>
    <td>Quantità di tempo impostata come buffer per dopo la riunione. Se si imposta la durata di 30 minuti, nessuno potrà prenotare una riunione con l'utente fino a 30 minuti dopo la fine pianificata di una riunione nel calendario.</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 >[!TIP]

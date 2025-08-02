@@ -4,7 +4,7 @@ description: Punteggio account - Documentazione di Marketo - Documentazione del 
 title: Punteggio account
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '334'
 ht-degree: 0%
@@ -23,19 +23,19 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 
 ## Esempi comuni {#common-examples}
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td><strong>Punteggio di coinvolgimento dell’account</strong></td> 
+   <td><strong>Punteggio di coinvolgimento dell’account</strong></td>
    <td>Profondità di coinvolgimento basata sulle attività comportamentali tracciate tra vari canali (ad esempio e-mail, web, annunci) da persone in account di destinazione specifici.</td>
   </tr>
   <tr>
    <td><strong>Punteggio interesse prodotto account</strong></td>
-   <td>Persone da account target che mostrano interesse per il contenuto da un prodotto specifico (ad esempio, il download di un white paper).</td> 
+   <td>Persone da account target che mostrano interesse per il contenuto da un prodotto specifico (ad esempio, il download di un white paper).</td>
   </tr>
   <tr>
    <td><strong>Punteggio di coinvolgimento web dell’account</strong></td>
-   <td>Persone dagli account di destinazione che visitano il canale web. È possibile creare lo stesso punteggio per misurare il coinvolgimento dei canali da e-mail, annunci pubblicitari o altri canali.</td> 
+   <td>Persone dagli account di destinazione che visitano il canale web. È possibile creare lo stesso punteggio per misurare il coinvolgimento dei canali da e-mail, annunci pubblicitari o altri canali.</td>
   </tr>
  </tbody>
 </table>
@@ -46,10 +46,10 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 >
 >Per calcolare i punteggi dei conti, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead per i punteggi degli account. Ad esempio, verranno utilizzati due degli esempi precedenti (_Punteggio interesse prodotto account_ e _Punteggio coinvolgimento Web account_).
 >
->Innanzitutto, crea dei campi di valutazione del lead che acquisiscono dettagli rilevanti da ciascun lead di un account target.\
->Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:\
->Punteggio interesse prodotto conto = SOMMA (Punteggio interesse prodotto lead)\
->Punteggio coinvolgimento Web account = SUM (punteggio coinvolgimento Web lead)
+>Innanzitutto, crea dei campi di valutazione del lead che acquisiscono dettagli rilevanti da ciascun lead di un account target.
+>>Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:
+>>Punteggio interesse prodotto conto = SOMMA (Punteggio interesse prodotto lead)
+>>Punteggio coinvolgimento Web account = SUM (punteggio coinvolgimento Web lead)
 
 >[!NOTE]
 >

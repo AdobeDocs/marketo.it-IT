@@ -4,10 +4,10 @@ description: Aggiunta di una persona al Inserisco nell'elenco Bloccati di - Docu
 title: Aggiungi persona al Inserisco nell'elenco Bloccati di
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: de8eb7dd1b7f1da5d219ec8c182a02eb998a2a22
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 1%
 
 ---
 
@@ -17,15 +17,15 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
 1. Creare un nuovo [programma predefinito](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md){target="_blank"} e denominarlo &quot;Aggiungi al Inserisco nell&#39;elenco Bloccati di&quot;.
 
-1. Fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Local Asset]**.
 
    ![](assets/add-person-to-blocklist-1.png)
 
-1. Seleziona **[!UICONTROL Elenco avanzato]**.
+1. Seleziona **[!UICONTROL Smart List]**.
 
    ![](assets/add-person-to-blocklist-2.png)
 
-1. Assegna un nome all&#39;elenco e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome all&#39;elenco e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-person-to-blocklist-3.png)
 
@@ -41,15 +41,15 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-5.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova campagna avanzata]**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/add-person-to-blocklist-6.png)
 
-1. Assegna un nome alla nuova Smart Campaign. Fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla nuova Smart Campaign. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-person-to-blocklist-7.png)
 
-1. Trascina e rilascia **[!UICONTROL Membro di Smart List]**.
+1. Trascina **[!UICONTROL Member of Smart List]**.
 
    ![](assets/add-person-to-blocklist-8.png)
 
@@ -57,23 +57,23 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Flusso]**. Trascina e rilascia l&#39;azione **[!UICONTROL Modifica valore dati]**.
+1. Fare clic sulla scheda **[!UICONTROL Flow]**. Trascina e rilascia l&#39;azione di flusso **[!UICONTROL Change Data Value]**.
 
    ![](assets/add-person-to-blocklist-10.png)
 
-1. Nel menu a discesa **[!UICONTROL Attributo]**, seleziona **[!UICONTROL Blocca elencato]** e imposta **[!UICONTROL Nuovo valore]** su **[!UICONTROL true]**.
+1. Nell&#39;elenco a discesa **[!UICONTROL Attribute]** selezionare **[!UICONTROL Block Listed]** e impostare **[!UICONTROL New Value]** su **[!UICONTROL true]**.
 
    ![](assets/add-person-to-blocklist-11.png)
 
-1. Fai clic sulla scheda **[!UICONTROL Pianifica]** e seleziona **[!UICONTROL Esegui una volta]**.
+1. Fare clic sulla scheda **[!UICONTROL Schedule]** e selezionare **[!UICONTROL Run Once]**.
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Seleziona **[!UICONTROL Esegui ora]** e fai clic su **[!UICONTROL Esegui]**.
+1. Selezionare **[!UICONTROL Run Now]** e fare clic su **[!UICONTROL Run]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 
-1. Fai di nuovo clic su **[!UICONTROL Esegui]**.
+1. Fare di nuovo clic su **[!UICONTROL Run]**.
 
    ![](assets/add-person-to-blocklist-14.png)
 

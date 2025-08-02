@@ -4,7 +4,7 @@ description: Aggiornamenti alla terminologia di Marketo - Documenti Marketo - Do
 hide: true
 hidefromtoc: true
 title: Aggiornamenti alla terminologia di Marketo
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -23,52 +23,52 @@ Allora, cosa è cambiato?
 
 Il cambiamento più importante è la ridenominazione di lead/lead in persona/persone.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Vecchio</strong></td> 
-   <td><strong>Nuovo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Vecchio</strong></td>
+   <td><strong>Nuova</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img width="295" src="assets/leads.png" data-linked-resource-id="11387678" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img width="295" src="assets/people.png" data-linked-resource-id="11387679" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 In alcuni casi, la parola &quot;lead&quot; viene semplicemente rimossa.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Vecchio</strong></td> 
-   <td><strong>Nuovo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Vecchio</strong></td>
+   <td><strong>Nuova</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-database.png" data-linked-resource-id="11387676" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <p><img src="assets/database.png" data-linked-resource-id="11387677" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"></p>
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Lead e persona **sono la stessa cosa**.
@@ -85,27 +85,27 @@ I token con la parola lead in essi **non cambiano**. Ci scusiamo per qualsiasi c
 
 I campi contenenti il termine Lead sono stati sostituiti con Person oppure la parola Lead è stata eliminata. Tuttavia, un’eccezione degna di nota è il campo &quot;Proprietario lead&quot;. Ora è noto come &quot;Proprietario vendite&quot;.
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Vecchio</strong></td> 
-   <td><strong>Nuovo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Vecchio</strong></td>
+   <td><strong>Nuova</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/lead-owner.png" data-linked-resource-id="11387757" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/sales-owner.png" data-linked-resource-id="11387758" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -114,27 +114,27 @@ I campi contenenti il termine Lead sono stati sostituiti con Person oppure la pa
 
 ## Real-Time Personalization (RTP) è ora Web Personalization {#real-time-personalization-rtp-is-now-web-personalization}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>Vecchio</strong></td> 
-   <td><strong>Nuovo</strong></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-   <td> 
-    <div> 
-     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674"> 
-    </div></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>Vecchio</strong></td>
+   <td><strong>Nuova</strong></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <img src="assets/rtp.png" data-linked-resource-id="11387692" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+   <td>
+    <div>
+     <img src="assets/web.png" data-linked-resource-id="11387693" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11387674">
+    </div></td>
+  </tr>
+ </tbody>
 </table>
 
 Oltre alla modifica del nome, ora è costituito da quattro app separate:

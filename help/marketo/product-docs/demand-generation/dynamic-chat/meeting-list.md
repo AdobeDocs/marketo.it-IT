@@ -3,7 +3,7 @@ description: Elenco riunioni - Documentazione Marketo - Documentazione del prodo
 title: Elenco riunioni
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: d8c6ff5b54b9cee26456ec7539168a5ee0c8190f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Qui vengono visualizzati tutti gli appuntamenti pianificati dai visitatori del s
 
 >[!NOTE]
 >
->Quando una riunione viene prenotata sul calendario di un agente, l’agente riceverà una notifica e-mail relativa alla prenotazione, incluse informazioni dettagliate sul coinvolgimento di Dynamic Chat del visitatore.
+>Quando una riunione viene prenotata sul calendario di un agente, l’agente riceverà una notifica e-mail relativa alla prenotazione, incluse informazioni dettagliate sul coinvolgimento Dynamic Chat del visitatore.
 
 ## Notifiche azioni non riuscite {#failed-action-notifications}
 

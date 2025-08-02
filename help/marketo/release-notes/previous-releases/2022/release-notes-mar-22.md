@@ -3,9 +3,9 @@ description: Note sulla versione - Marzo 2022 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2022
 exl-id: 91826d56-a38e-44af-b798-17bfc016c311
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: '747'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 ## Orchestrazione cross-channel {#cross-channel-orchestration}
 
-* **[!DNL Dynamic Chat]**: massimizza ogni opportunità sul tuo sito web eseguendo il targeting di lead e account con conversazioni proattive, coinvolgenti e personalizzate in un rapporto di 1:1. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} consente agli utenti di Marketo Engage di iniziare a sfruttare le chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le caratteristiche includono: la possibilità di prenotare le riunioni direttamente all&#39;interno della chat, l&#39;indirizzamento dei lead, modelli di avvio, creazione di conversazioni con trascinamento e molto altro. Dynamic Chat è incluso in tutti i pacchetti Marketo Engage e verrà introdotto quest’anno per tutti gli utenti di Marketo Engage.
+* **[!DNL Dynamic Chat]**: massimizza ogni opportunità sul tuo sito web eseguendo il targeting sia dei lead che degli account con conversazioni proattive, coinvolgenti e 1:1 personalizzate. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} consente agli utenti di Marketo Engage di iniziare a sfruttare le chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le caratteristiche includono: la possibilità di prenotare le riunioni direttamente all&#39;interno della chat, l&#39;indirizzamento dei lead, modelli di avvio, creazione di conversazioni con trascinamento e molto altro. Dynamic Chat è incluso in tutti i pacchetti Marketo Engage e verrà introdotto quest’anno per tutti gli utenti di Marketo Engage.
 
 * **Miglioramento del filtro dell&#39;attività bot e-mail**: come miglioramento della funzione [Filtro dell&#39;attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} rilasciata in precedenza, ora puoi dare il consenso per la registrazione delle attività identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
 

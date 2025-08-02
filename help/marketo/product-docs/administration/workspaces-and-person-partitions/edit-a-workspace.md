@@ -4,10 +4,10 @@ description: Modifica di un documento Workspace - Marketo - Documentazione del p
 title: Modificare un Workspace
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 1%
+source-wordcount: '136'
+ht-degree: 2%
 
 ---
 
@@ -23,15 +23,15 @@ A volte è necessario apportare modifiche in un Workspace. È facile.
 >
 >Approfondisci le aree di lavoro con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-workspace-1.png)
 
-1. Fare clic su **[!UICONTROL Aree di lavoro e partizioni]**.
+1. Fai clic su **[!UICONTROL Workspaces & Partitions]**.
 
    ![](assets/edit-a-workspace-2.png)
 
-1. Selezionare l&#39;area di lavoro da modificare e fare clic su **[!UICONTROL Modifica Workspace]**.
+1. Selezionare l&#39;area di lavoro da modificare e fare clic su **[!UICONTROL Edit Workspace]**.
 
    ![](assets/edit-a-workspace-3.png)
 
@@ -45,13 +45,13 @@ A volte è necessario apportare modifiche in un Workspace. È facile.
 
    >[!NOTE]
    >
-   >La casella di controllo **[!UICONTROL Tutte le partizioni persona]** indica che questa area di lavoro può utilizzare tutte le partizioni lead nel sistema.
+   >La casella di controllo **[!UICONTROL All Person Partitions]** indica che l&#39;area di lavoro può utilizzare tutte le partizioni lead nel sistema.
 
    >[!NOTE]
    >
-   >La **[!UICONTROL partizione della persona primaria]** funge da predefinita ed è la posizione in cui verranno assegnate tutte le persone.
+   >**[!UICONTROL Primary Person Partition]** funge da impostazione predefinita ed è il luogo a cui verranno assegnate tutte le persone.
 
-   Se hai abilitato più domini con marchio, puoi passare a un dominio con marchio principale diverso. Fai clic su **[!UICONTROL Salva]**.
+   Se hai abilitato più domini con marchio, puoi passare a un dominio con marchio principale diverso. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-a-workspace-5.png)
 

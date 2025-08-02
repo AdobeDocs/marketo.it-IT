@@ -4,9 +4,9 @@ description: Creazione di una scheda personalizzata per la pagina dei dettagli d
 title: Creazione di una scheda personalizzata per la pagina Dettagli persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi creare un layout personalizzato per semplificare la ricerca.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Layout personalizzato Designer]**.
+1. Fare clic sulla scheda **[!UICONTROL Custom Layout Designer]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 
@@ -39,7 +39,7 @@ Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi 
    >
    >Hai due colonne con cui lavorare.
 
-   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo da rimuovere e scegliere **[!UICONTROL Elimina]**.
+   Se si decide di rimuovere un campo, fare clic con il pulsante destro del mouse sul campo che si desidera rimuovere e scegliere **[!UICONTROL Delete]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 

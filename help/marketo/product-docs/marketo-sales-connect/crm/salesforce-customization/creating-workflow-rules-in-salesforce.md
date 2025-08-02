@@ -4,7 +4,7 @@ description: Creazione di regole per i flussi di lavoro in Salesforce - Document
 title: Creazione di regole del flusso di lavoro in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 1%
@@ -25,29 +25,29 @@ La soluzione alternativa include la creazione di nuove regole del flusso di lavo
 
 Di seguito sono riportati i nomi consigliati delle regole del flusso di lavoro e le relative descrizioni. Questi sono applicabili all&#39;oggetto [!UICONTROL Contact] e [!UICONTROL Lead]:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>Aggiorna campo descrizione momento di interesse</td> 
-   <td><p>Copia da: Ultima descrizione Marketo Engagement<br>Copia in: Ultima descrizione momento di interesse</p></td> 
-  </tr> 
-  <tr> 
-   <td>Aggiorna il campo del tipo di momento di interesse</td> 
-   <td><p>Copia da: Ultimo tipo di coinvolgimento Marketo<br>Copia in: Ultimo tipo di momento di interesse</p></td> 
-  </tr> 
-  <tr> 
-   <td>Aggiorna il campo Source del momento di interesse</td> 
-   <td><p>Copia da: Ultimo Marketo Engagement Source<br>Copia in: Ultimo momento di interesse Source</p></td> 
-  </tr> 
-  <tr> 
-   <td>Aggiorna il campo Data momento di interesse</td> 
-   <td><p>Copia da: Data ultimo coinvolgimento Marketo<br>Copia in: Data ultimo momento di interesse</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>Aggiorna campo descrizione momento di interesse</td>
+   <td><p>Copia da: Ultima descrizione Marketo Engagement<br>Copia in: Ultima descrizione momento di interesse</p></td>
+  </tr>
+  <tr>
+   <td>Aggiorna il campo del tipo di momento di interesse</td>
+   <td><p>Copia da: Ultimo tipo di coinvolgimento Marketo<br>Copia in: Ultimo tipo di momento di interesse</p></td>
+  </tr>
+  <tr>
+   <td>Aggiorna il campo Source del momento di interesse</td>
+   <td><p>Copia da: Ultimo Marketo Engagement Source<br>Copia in: Ultimo momento di interesse Source</p></td>
+  </tr>
+  <tr>
+   <td>Aggiorna il campo Data momento di interesse</td>
+   <td><p>Copia da: Data ultimo coinvolgimento Marketo<br>Copia in: Data ultimo momento di interesse</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Istruzioni {#instructions}

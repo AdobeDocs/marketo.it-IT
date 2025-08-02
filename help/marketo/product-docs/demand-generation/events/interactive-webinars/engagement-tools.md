@@ -4,7 +4,7 @@ title: Strumenti di coinvolgimento nei webinar interattivi
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: c1dab337193c23d5c51acad6bd39a96af1b4d3ef
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1271'
 ht-degree: 0%
@@ -21,25 +21,25 @@ SCHERMATA
 
 ### Condividi {#share}
 
-Un pod di condivisione viene utilizzato per condividere il contenuto nella room. Può essere utilizzato per condividere schermate, documenti e lavagne interattive. I tipi di file supportati che possono essere condivisi e presentati in un pod di condivisione sono presentazione (PPT, PPTX), documenti (PDF), audio (MP3), video (MP4), immagini (JPG, PNG), pod personalizzato (POD, ZIP). Tutti i contenuti caricati persisteranno nella room e saranno prontamente disponibili. Per ulteriori informazioni su Share pod, consulta questo Adobe della guida e questo video.
+Un pod di condivisione viene utilizzato per condividere il contenuto nella room. Può essere utilizzato per condividere schermate, documenti e lavagne interattive. I tipi di file supportati che possono essere condivisi e presentati in un pod di condivisione sono presentazione (PPT, PPTX), documenti (PDF), audio (MP3), video (MP4), immagini (JPG, PNG), pod personalizzato (POD, ZIP). Tutti i contenuti caricati persisteranno nella room e saranno prontamente disponibili. Per ulteriori informazioni su Share pod, consulta questo articolo della guida di Adobe e questo video.
 
 SCHERMATA
 
 Note
 
-Il pod di Notes viene utilizzato dall&#39;host e dai relatori per condividere informazioni e prendere appunti nella room. Supporta la formattazione RTF e le note possono anche essere esportate (tramite host) dal menu del pod. Per ulteriori informazioni sul pod di Notes, consulta questo Adobe di aiuto e questo video.
+Il pod di Notes viene utilizzato dall&#39;host e dai relatori per condividere informazioni e prendere appunti nella room. Supporta la formattazione RTF e le note possono anche essere esportate (tramite host) dal menu del pod. Per ulteriori informazioni sul pod di Notes, consulta questo articolo della guida di Adobe e questo video.
 
 SCHERMATA
 
 Partecipanti
 
-Il pod Partecipanti viene utilizzato per gestire i partecipanti, le loro attività e le autorizzazioni durante l&#39;evento. Gli host e i relatori possono monitorare i nomi, i ruoli e gli stati dei partecipanti (ad esempio Mano alzata o Accetto). Il pod viene utilizzato anche per gestire le sessioni di breakout. Per ulteriori informazioni sul pod Partecipanti, vedere questo Adobe della Guida e questo video.
+Il pod Partecipanti viene utilizzato per gestire i partecipanti, le loro attività e le autorizzazioni durante l&#39;evento. Gli host e i relatori possono monitorare i nomi, i ruoli e gli stati dei partecipanti (ad esempio Mano alzata o Accetto). Il pod viene utilizzato anche per gestire le sessioni di breakout. Per ulteriori informazioni sul pod Partecipanti, consulta questo articolo della guida di Adobe e questo video.
 
 SCHERMATA
 
 Video
 
-Il video pod viene utilizzato per condividere i feed della webcam. Le webcam possono essere disposte in una griglia, in una striscia cinematografica o nella visualizzazione con un solo altoparlante. Per ulteriori informazioni sul pod video, consulta questo Adobe della guida.
+Il video pod viene utilizzato per condividere i feed della webcam. Le webcam possono essere disposte in una griglia, in una striscia cinematografica o nella visualizzazione con un solo altoparlante. Per ulteriori informazioni sul pod video, consulta questo articolo della guida di Adobe.
 
 SCHERMATA
 
@@ -47,9 +47,9 @@ Chat
 
 Il pod di chat viene utilizzato per comunicare con altri partecipanti all&#39;interno della room. Le chat all’interno del pod della chat persistono finché non vengono eliminate. Le chat possono essere inviate tramite e-mail all’host per conservarle. I partecipanti possono regolare la dimensione del font delle chat nel loro chatpod.
 
-Un pod di chat aggiunto nell’area Host e Presenter può essere utilizzato per comunicare privatamente con il team di presentazione. Per ulteriori informazioni sul pod di chat, consulta questo Adobe di aiuto e questo video.
+Un pod di chat aggiunto nell’area Host e Presenter può essere utilizzato per comunicare privatamente con il team di presentazione. Per ulteriori informazioni sul pod di chat, consulta questo articolo della guida di Adobe e questo video.
 
-NOTA: viene sempre registrato un pod di chat. Utilizza un pannello Chat se non desideri che le chat facciano parte della registrazione. Per ulteriori informazioni sul pod di chat, consulta questo Adobe della guida. [Collega questo elemento alle chat nella sezione Registrazione della nuova pagina del webinar interattivo per la consegna].
+NOTA: viene sempre registrato un pod di chat. Utilizza un pannello Chat se non desideri che le chat facciano parte della registrazione. Per ulteriori informazioni sul pod di chat, consulta questo articolo della guida di Adobe. [Collega questo elemento alle chat nella sezione Registrazione della nuova pagina del webinar interattivo per la consegna].
 
 SCHERMATA
 
@@ -65,13 +65,13 @@ La visualizzazione del pod di domande e risposte da parte del presentatore può 
 
 SCHERMATA
 
-Per ulteriori informazioni sul pod domande e risposte, consulta questo Adobe della guida e questo video.
+Per ulteriori informazioni sul pod domande e risposte, consulta questo articolo della guida di Adobe e questo video.
 
 SCHERMATA
 
 Sondaggio
 
-Il sondino viene utilizzato per porre domande ai partecipanti durante la sessione. Il poll pod supporta domande a scelta multipla, risposte multiple e risposte brevi. Gli host possono scegliere di trasmettere i risultati ai partecipanti. Per ulteriori informazioni sul sondaggio, consulta questo Adobe di aiuto e questo video.
+Il sondino viene utilizzato per porre domande ai partecipanti durante la sessione. Il poll pod supporta domande a scelta multipla, risposte multiple e risposte brevi. Gli host possono scegliere di trasmettere i risultati ai partecipanti. Per ulteriori informazioni sul sondaggio, consulta questo articolo della guida di Adobe e questo video.
 
 SCHERMATA
 

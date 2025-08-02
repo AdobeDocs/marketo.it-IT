@@ -4,9 +4,9 @@ description: Eliminare un passaggio di flusso - Documentazione di Marketo - Docu
 title: Eliminare un passaggio di flusso
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Per prima cosa, analizziamo le nozioni di base. Ecco come rimuovere un passaggio di flusso indesiderato da una campagna avanzata.
 
-1. In Smart Campaign **[!UICONTROL Flusso]**, fai clic sull&#39;icona **X** per eliminare qualsiasi passaggio di flusso.
+1. In Smart Campaign **[!UICONTROL Flow]**, fai clic sull&#39;icona **X** per eliminare qualsiasi passaggio di flusso.
 
    ![](assets/delete-a-flow-step-1.png)
 
-1. Fare clic su **[!UICONTROL Elimina]**.
+1. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-flow-step-2.png)
 
@@ -42,8 +42,8 @@ Per prima cosa, analizziamo le nozioni di base. Ecco come rimuovere un passaggio
    1. **Sono già stati eseguiti i passaggi SENZA attendere**.L&#39;operazione non verrà eseguita perché la campagna è inattiva dopo l&#39;esecuzione.
    1. **È in esecuzione**. Le modifiche possono causare un comportamento imprevisto a seconda della tempistica e dei dettagli dell’eliminazione. È consigliabile NON modificare una campagna batch in esecuzione. Per i casi di emergenza, scopri come [interrompere una campagna avanzata in esecuzione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Già eseguito con passaggi di attesa.** Diversi dettagli su questo.\
-      Quando una persona entra in un passaggio di attesa, la persona riduce la durata e il PASSAGGIO NUMERO a cui tornare. Vedi l’esempio seguente.
+   1. **Già eseguito con passaggi di attesa.** Diversi dettagli su questo.
+Quando una persona entra in un passaggio di attesa, la persona riduce la durata e il PASSAGGIO NUMERO a cui tornare. Vedi l’esempio seguente.
 
    **Attiva campagne intelligenti**
 

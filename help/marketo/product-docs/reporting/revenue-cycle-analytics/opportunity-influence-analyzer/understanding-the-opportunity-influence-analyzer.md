@@ -4,7 +4,7 @@ description: Analisi dell’influenza dell’opportunità - Documentazione di Ma
 title: Informazioni su Opportunity Influence Analyzer
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Ogni opportunità è una storia. Dove hai incontrato il lead? Quali opportunità di marketing hanno avuto un impatto su di loro durante il processo di marketing/vendita?
 
-Opportunity Influence Analyzer (Analisi di influenza dell’opportunità) consente di visualizzare l’intera storia. È disponibile anche in Sales Insight!
+Opportunity Influence Analyzer (Analisi di influenza dell’opportunità) consente di visualizzare l’intera storia. È disponibile anche in Sales Insight.
 
 ![](assets/image2015-6-23-14-3a43-3a35-1.png)
 

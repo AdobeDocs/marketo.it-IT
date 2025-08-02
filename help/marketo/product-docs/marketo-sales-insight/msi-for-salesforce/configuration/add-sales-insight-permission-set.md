@@ -3,7 +3,7 @@ description: Aggiungi set di autorizzazioni Insight per le vendite - Documentazi
 title: Aggiungi set di autorizzazioni Insight vendite
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 1%
@@ -28,53 +28,53 @@ L&#39;autorizzazione &quot;App Marketo&quot; fa parte del pacchetto [!DNL Sales 
 
 **Impostazioni oggetto**
 
-<table> 
- <tbody> 
- <tr> 
-   <td>BestBetsCache</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>Elementi di maggiore rilevanza Visualizza dettagli</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>Visualizzazioni elementi di maggiore rilevanza</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>EmailActivityCache</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>GetMethodArgus</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>GroupedWebActivityCache</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>InterestingMomentsCache</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>Configurazione Marketo [!DNL Sales Insight]</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>ScoringCache</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>Valori</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
-  <tr> 
-   <td>WebActivityCache</td> 
-   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+ <tr>
+   <td>BestBetsCache</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>Elementi di maggiore rilevanza Visualizza dettagli</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>Visualizzazioni elementi di maggiore rilevanza</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>EmailActivityCache</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>GetMethodArgus</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>GroupedWebActivityCache</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>InterestingMomentsCache</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>Configurazione Marketo [!DNL Sales Insight]</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>ScoringCache</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>Valori</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+  <tr>
+   <td>WebActivityCache</td>
+   <td>Leggi, Crea, Modifica, Elimina, Visualizza tutto, Modifica tutto</td>
+  </tr>
+ </tbody>
 </table>
 
 * Accesso alle classi Apex: 159 classi Apex che iniziano con &quot;mkto_si&quot;

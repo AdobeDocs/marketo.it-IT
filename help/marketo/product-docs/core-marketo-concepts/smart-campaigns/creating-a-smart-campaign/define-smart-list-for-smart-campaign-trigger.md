@@ -4,9 +4,9 @@ description: Definire un elenco avanzato per Smart Campaign | Trigger - Document
 title: Definire un elenco avanzato per Smart Campaign | Trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: c3aa1a29b084cb1c1add9d22cdbfc23bdcf7512b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '251'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Fai in modo che una campagna avanzata venga eseguita su una persona alla volta i
 >
 >Apportare modifiche a un elenco avanzato o a una fase del flusso in una campagna attiva può potenzialmente comprometterne la funzionalità. Se scegli di farlo, procedi con cautela.
 
-1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Elenco avanzato]**.
+1. In Smart Campaign, fare clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/define-smart-list-for-smart-campaign-trigger-1.png)
 

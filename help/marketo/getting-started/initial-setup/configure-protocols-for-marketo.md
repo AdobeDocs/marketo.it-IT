@@ -4,7 +4,7 @@ description: Configurare i protocolli per Marketo Engage - Documentazione Market
 title: Configurazione dei protocolli per Marketo Engage
 exl-id: cf2fd4ac-9229-4e52-bb68-5732b44920ef
 feature: Getting Started
-source-git-commit: 8ff62b372b4d0f98ab88c569bdc3608eb63b70c7
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2131'
 ht-degree: 8%
@@ -39,8 +39,8 @@ Aggiungi il CNAME della pagina di destinazione che ti hanno inviato al tuo recor
 
 `2` **Aggiungi CNAME per i collegamenti di tracciamento e-mail**
 
-Aggiungi l&#39;e-mail inviata dal marketing CNAME, in modo che `[YourEmailCNAME]` punti a [MktoTrackingLink], il collegamento di tracciamento predefinito assegnato da Marketo Engage, nel formato:\
-`[YourEmailCNAME].[YourDomain].com` IN CNAME `[MktoTrackingLink]`
+Aggiungi l&#39;e-mail inviata dal marketing CNAME, in modo che `[YourEmailCNAME]` punti a [MktoTrackingLink], il collegamento di tracciamento predefinito assegnato da Marketo Engage, nel formato:
+`[YourEmailCNAME].[YourDomain].com` NEL CNAME `[MktoTrackingLink]`
 
 Ad esempio:
 
@@ -92,11 +92,11 @@ Il team marketing avrebbe dovuto inviarti anche informazioni su DKIM (Domain Key
 
 1. Per impostare SPF, aggiungi la seguente riga alle voci DNS:
 
-   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`\
-   include: mktomail.com ~tutti
+   `[CompanyDomain]` IN TXT v=spf1 mx ip4:`[CorpIP]`
+include: mktomail.com ~tutti
 
-   Se disponiamo già di un record SPF nella voce DNS, è sufficiente aggiungervi quanto segue:\
-   include: mktomail.com
+   Se disponiamo già di un record SPF nella voce DNS, è sufficiente aggiungervi quanto segue:
+include: mktomail.com
 
    Sostituire CompanyDomain con il dominio principale del sito Web (ad esempio: &quot;`(company.com/)`&quot;) e CorpIP con l&#39;indirizzo IP del server di posta elettronica aziendale (ad esempio &quot;255.255.255.255&quot;) Se intendi inviare e-mail da più domini tramite Marketo Engage, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).
 
@@ -192,9 +192,9 @@ I record DMARC dispongono di più componenti denominati tag DMARC. Ogni tag ha u
     <td>fo</td>
     <td>Facoltativo</td>
     <td>Consente al proprietario del dominio di specificare le opzioni di reporting.</td>
-    <td>0: genera il rapporto se tutto non riesce 
-    <br>1: genera report in caso di errori 
-    <br>d: genera report in caso di errore di DKIM 
+    <td>0: genera il rapporto se tutto non riesce
+    <br>1: genera report in caso di errori
+    <br>d: genera report in caso di errore di DKIM
     <br>s: genera report se SPF non riesce</td>
     <td>1 (consigliato per i rapporti di DMARC)</td>
   </tr>

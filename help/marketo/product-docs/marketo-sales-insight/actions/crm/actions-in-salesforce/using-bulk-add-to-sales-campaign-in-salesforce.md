@@ -2,7 +2,7 @@
 description: Utilizzo dell’aggiunta in blocco alla campagna di vendita in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo di Bulk Add to Sales Campaign in Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Utilizzo di Bulk Add to Sales Campaign in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
-Scopri come aggiungere elementi in blocco a una campagna di vendita in Salesforce per ridimensionare le comunicazioni in uscita utilizzando le azioni di vendita.
+Scopri come aggiungere in blocco campagne di vendita in Salesforce per ridimensionare le comunicazioni in uscita utilizzando le azioni di vendita.
 
 >[!NOTE]
 >
@@ -19,11 +19,11 @@ Scopri come aggiungere elementi in blocco a una campagna di vendita in Salesforc
 
 >[!PREREQUISITES]
 >
->Assicurati di aver installato il [pacchetto Sales Insight più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} nell&#39;istanza Salesforce e di aver configurato i [pulsanti di azione](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nelle visualizzazioni Contatto e Elenco lead in Salesforce.
+>Assicurati di aver installato il [pacchetto Sales Insight più recente](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md){target="_blank"} nella tua istanza Salesforce e di aver configurato i [pulsanti di azione](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/add-action-buttons-to-salesforce-list-view.md){target="_blank"} nelle visualizzazioni dei contatti e dell&#39;elenco di lead in Salesforce.
 
 ## Aggiunta in blocco alla campagna di vendita in Salesforce Lightning {#bulk-add-to-sales-campaign-in-salesforce-lightning}
 
-1. In Salesforce, passare alla home page Lead/Contatti facendo clic sulla scheda **Lead/Contatti**.
+1. In Salesforce, passare alla home page di lead/contatti facendo clic sulla scheda **lead/contatti**.
 
    ![](assets/using-bulk-add-to-sales-campaign-in-salesforce-1.png)
 

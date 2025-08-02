@@ -3,10 +3,10 @@ description: Note sulla versione - Gennaio 2023 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 206952c2aaa9b568a9312def6d36b15f699791b3
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
@@ -16,7 +16,7 @@ Di seguito sono elencate tutte le funzioni incluse nella versione di gennaio 202
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante del Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
@@ -31,12 +31,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    * Vista elenco snippet
    * Elenco modelli pagina di destinazione
 
-  <table> 
-  <tr> 
+  <table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Attiva/Disattiva</a></td>
   </tr>
@@ -45,12 +45,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Utilizzo avanzato del componente per i dettagli del modello e-mail e dei frammenti di codice**: la nuova scheda Utilizzo da parte dell&#39;interfaccia utente fornisce informazioni aggiuntive su ciascuna delle risorse Utilizzo da, ad esempio quando è stata modificata l&#39;ultima volta e da chi. Puoi eseguire facilmente l’analisi tramite le funzionalità di ricerca, ordinamento e filtro. Questo nuovo componente dell’interfaccia utente verrà incorporato a partire dalle risorse Modello e-mail e Snippet.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -63,12 +63,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Modali riprogettati per Report Assets**: nuova progettazione per i moduli di configurazione dei report nell&#39;interfaccia utente moderna, che offre un aspetto aggiornato e una migliore accessibilità.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
@@ -79,16 +79,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 </br>
 
-* **Marketo Measure Ultimate**: consente l&#39;attribuzione B2B completa per le aziende con più istanze di gestione delle relazioni con i clienti e/o di Marketo Engage e diverse esigenze di dati di origine. Fornisce anche una soluzione di attribuzione B2B per RT-CDP Adobe tramite dati AEP condivisi.
+* **Marketo Measure Ultimate**: abilita l&#39;attribuzione B2B completa per le aziende con più istanze di gestione delle relazioni con i clienti e/o Marketo Engage e diverse esigenze di dati di origine. Fornisce inoltre una soluzione di attribuzione B2B per Adobe RT-CDP tramite dati AEP condivisi.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=it">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -99,12 +99,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Scheda Servizi Web migliorati aggiungendo informazioni API esportazione in blocco**: è ora possibile visualizzare l&#39;allocazione della capacità giornaliera per le sottoscrizioni e la quantità di allocazione della capacità giornaliera utilizzata negli ultimi 7 giorni.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informazioni API per esportazione in blocco</a></td>
   </tr>
@@ -119,28 +119,28 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 </br>
 
-* **Definisci elenco di selezione nella scheda di acquisizione informazioni per il Dynamic Chat**: per garantire la pulizia dei dati, puoi definire elenchi di selezione per le schede di acquisizione informazioni in modo che i visitatori possano selezionare solo da un elenco predefinito di opzioni.
+* **Definisci elenco di selezione nella scheda di acquisizione informazioni per Dynamic Chat**: per garantire la pulizia dei dati, puoi definire elenchi di selezione per le schede di acquisizione informazioni in modo che i visitatori possano selezionare solo da un elenco predefinito di opzioni.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Conferma di Personalization in riunione per il Dynamic Chat**: gli agenti possono personalizzare le conferme e-mail di prenotazione della riunione utilizzando i campi Persona del Marketo Engage e Azienda per interagire meglio con i visitatori (ad esempio, salutare i visitatori in base al nome nell&#39;e-mail di notifica di prenotazione riunione automatica).
+* **Conferma riunione Personalization in corso per Dynamic Chat**: gli agenti possono personalizzare le conferme e-mail di prenotazione riunione utilizzando i campi della persona e dell&#39;azienda di Marketo Engage per interagire meglio con i visitatori (ad esempio, salutare i visitatori in base al nome nell&#39;e-mail di notifica prenotazione riunione automatica).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendario</a></td>
   </tr>
@@ -149,40 +149,40 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 * **Cerca nel flusso Designer**: cerca facilmente il contenuto nel flusso Designer per trovare rapidamente il contenuto in tutte le schede/nodi di un flusso (ad esempio, cerca &quot;SEO&quot; ed evidenzia tutti i nodi che contengono tale stringa).
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Selettore data/ora chatbot per il Dynamic Chat**: i visitatori Web possono utilizzare il selettore calendario per scegliere una data e un&#39;ora invece di immettere la data manualmente.
+* **Selettore data/ora chatbot per Dynamic Chat**: i visitatori Web possono utilizzare il selettore calendario per scegliere una data e un&#39;ora anziché immettere la data manualmente.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
   </tbody>
 </table>
 
-* **Notifiche e-mail riunione pianificata per il Dynamic Chat**: quando una riunione viene prenotata nel calendario di un agente, l&#39;agente riceverà una notifica e-mail relativa alla prenotazione, incluse informazioni dettagliate sul coinvolgimento del Dynamic Chat del visitatore.
+* **Notifiche e-mail riunione pianificata per Dynamic Chat**: quando una riunione viene prenotata nel calendario di un agente, l&#39;agente riceverà una notifica e-mail relativa alla prenotazione, incluse informazioni dettagliate sul coinvolgimento Dynamic Chat del visitatore.
 
-<table> 
-  <tr> 
+<table>
+  <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti alla documentazione</b></td>
+   <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
-  <tr> 
+  <tr>
    <td>Spedito</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Riunioni</a></td>
   </tr>
@@ -193,4 +193,4 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 
 * **Modifica API REST di Marketo**: con la versione di ottobre 2022, è stata introdotta una modifica minore al messaggio di risposta API REST di Marketo. Per ulteriori dettagli, consulta [Marketo Nation post](https://nation.marketo.com/t5/product-documents/upcoming-change-to-marketo-rest-api/ta-p/331698){target="_blank"}.
 
-* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione del Marketo Engage di ottobre 2022 e di gennaio 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}
+* **_Webinar sulla versione del prodotto_**: [Webinar sulla versione di Marketo Engage di ottobre 2022 e gennaio 2023](https://engage.marketo.com/2023_January_Release_Webinar_OnDemandPage.html){target="_blank"}

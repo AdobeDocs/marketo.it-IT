@@ -2,7 +2,7 @@
 description: Disinstallare Marketo Sales Connect da Salesforce Classic - Documentazione Marketo - Documentazione del prodotto
 title: Disinstalla Marketo Sales Connect da Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1025'
 ht-degree: 9%
@@ -255,9 +255,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultimo impegno di marketing</td>
   <td>Ultimo coinvolgimento in arrivo dal marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -265,9 +265,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Data ultimo accordo di marketing</td>
   <td>Timestamp del coinvolgimento da Marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -275,9 +275,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Descrizione ultimo coinvolgimento marketing</td>
   <td>Descrizione del progetto</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -285,9 +285,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultimo Source di coinvolgimento marketing</td>
   <td>Source del coinvolgimento nel marketing</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -295,9 +295,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultimo tipo di coinvolgimento marketing</td>
   <td>Tipo di coinvolgimento (ad esempio, attività Web)</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -305,9 +305,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultima attività per vendite</td>
   <td>Ultima attività in uscita eseguita dal team vendite</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -315,9 +315,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultima risposta</td>
   <td>Ultima risposta e-mail all’e-mail di vendita</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -325,9 +325,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Campagna di vendita corrente</td>
   <td>Nome del registro della campagna MSC su cui si trova il contatto/lead</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Testo</td>
  </tr>
@@ -335,9 +335,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Ultimo accordo di vendita</td>
   <td>Ultimo impegno in entrata dalle vendite</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Dati e ora</td>
  </tr>
@@ -345,9 +345,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>MSC - Rinuncia</td>
   <td>Campo di rinuncia</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
   <td>Casella di controllo</td>
  </tr>
@@ -363,9 +363,9 @@ Di seguito è riportato un elenco di tutti gli oggetti che devono essere rimossi
   <td>[!UICONTROL Send MSC Email]</td>
   <td>Invia e-mail di vendita da [!DNL Salesforce]</td>
   <td>
-  <p>Account 
-  <p>Contatto 
-  <p>Lead 
+  <p>Account
+  <p>Contatto
+  <p>Lead
   <p>Opportunità</td>
  </tr>
  <tr>

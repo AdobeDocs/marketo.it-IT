@@ -4,7 +4,7 @@ description: Sales Connect e conformità ai requisiti RGPD - Documentazione di M
 title: Sales Connect e conformità ai requisiti RGPD
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '1299'
 ht-degree: 0%
@@ -124,44 +124,44 @@ Dopo aver selezionato il tipo di Source corretto per i contatti selezionati, vie
 
 È possibile esportare le informazioni di contatto dalla visualizzazione Dettagli persona. L’esportazione scaricherà un file .CSV con le seguenti colonne:
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL First Name]</td> 
-   <td>[!UICONTROL Website]</td> 
-   <td>[!DNL Facebook]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Last Name]</td> 
-   <td>[!UICONTROL Other]</td> 
-   <td>[!DNL Twitter]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Company]</td> 
-   <td>[!UICONTROL Updated At]</td> 
-   <td>[!DNL LinkedIn]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Title]</td> 
-   <td>[!UICONTROL Created At]</td> 
-   <td>[!UICONTROL Exported At]</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Email ID]</td> 
-   <td>[!UICONTROL Salesforce ID]</td> 
-   <td><br></td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Phone Number]</td> 
-   <td>[!UICONTROL Person ID]</td> 
-   <td><br></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL First Name]</td>
+   <td>[!UICONTROL Website]</td>
+   <td>[!DNL Facebook]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Last Name]</td>
+   <td>[!UICONTROL Other]</td>
+   <td>[!DNL Twitter]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Company]</td>
+   <td>[!UICONTROL Updated At]</td>
+   <td>[!DNL LinkedIn]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Title]</td>
+   <td>[!UICONTROL Created At]</td>
+   <td>[!UICONTROL Exported At]</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Email ID]</td>
+   <td>[!UICONTROL Salesforce ID]</td>
+   <td><br></td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Phone Number]</td>
+   <td>[!UICONTROL Person ID]</td>
+   <td><br></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]
@@ -180,9 +180,9 @@ Per esportare le informazioni sul contatto, fare clic sui tre punti verticali ne
 
 Un’area comunemente fraintesa del RGPD riguarda i contatti che annullano l’abbonamento al database dell’organizzazione. Per rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l&#39;abbonamento, in [!DNL Marketo Sales Connect] è stata inclusa la seguente funzionalità:
 
-**Collegamenti per l&#39;annullamento dell&#39;abbonamento:** I collegamenti per l&#39;annullamento dell&#39;abbonamento verranno aggiunti automaticamente a tutte le e-mail inviate dall&#39;applicazione Web [!DNL Sales Connect] per garantire che ai contatti sia assegnato un modo accessibile per la rinuncia.\
-**Sincronizzazione annullamento abbonamento:** Gli utenti possono sincronizzare gli annullamenti degli abbonamenti a e dal proprio CRM ([!DNL Salesforce]) per garantire che gli annullamenti degli abbonamenti siano aggiornati.\
-**Cronologia annullamenti abbonamento:** gli utenti possono visualizzare informazioni cronologiche su rinunce e rinunce nella visualizzazione Dettagli persona.\
+**Collegamenti per l&#39;annullamento dell&#39;abbonamento:** I collegamenti per l&#39;annullamento dell&#39;abbonamento verranno aggiunti automaticamente a tutte le e-mail inviate dall&#39;applicazione Web [!DNL Sales Connect] per garantire che ai contatti sia assegnato un modo accessibile per la rinuncia.
+**Sincronizzazione annullamento abbonamento:** Gli utenti possono sincronizzare gli annullamenti degli abbonamenti a e dal proprio CRM ([!DNL Salesforce]) per garantire che gli annullamenti degli abbonamenti siano aggiornati.
+**Cronologia annullamenti abbonamento:** gli utenti possono visualizzare informazioni cronologiche su rinunce e rinunce nella visualizzazione Dettagli persona.
 **Rimozione annullamento abbonamento:** Per annullare l&#39;abbonamento di un contatto, è necessario che l&#39;utente disponga dei privilegi di amministratore e che dimostri che il contatto ha dato il nuovo consenso per contattarlo.
 
 ## Aggiornamenti futuri {#future-updates}

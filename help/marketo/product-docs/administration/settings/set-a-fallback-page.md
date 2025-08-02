@@ -4,10 +4,10 @@ description: Impostare una pagina di fallback - Documentazione di Marketo - Docu
 title: Impostare una pagina di fallback
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
@@ -19,19 +19,18 @@ Le pagine di fallback rappresentano l’ultima linea di difesa se la pagina di d
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/set-a-fallback-page-1.png)
 
-1. Fai clic su **[!UICONTROL Pagine di destinazione]**.
+1. Fai clic su **[!UICONTROL Landing Pages]**.
 
    ![](assets/set-a-fallback-page-2.png)
 
-1. Nella scheda **[!UICONTROL Pagine di destinazione]**, fai clic su **[!UICONTROL Modifica]**.
+1. Nella scheda **[!UICONTROL Landing Pages]**, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/set-a-fallback-page-3.png)
 
-1. Immetti una **[!UICONTROL pagina di fallback]** nella finestra di dialogo e fai clic su **[!UICONTROL Salva]**.
+1. Immettere un **[!UICONTROL Fallback page]** nella finestra di dialogo e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/set-a-fallback-page-4.png)
-

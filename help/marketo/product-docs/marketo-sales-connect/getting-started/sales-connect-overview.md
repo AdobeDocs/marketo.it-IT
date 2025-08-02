@@ -4,10 +4,10 @@ description: Panoramica di Sales Connect - Documentazione di Marketo - Documenta
 title: Panoramica di Sales Connect
 exl-id: b14c950f-653f-4909-b33a-7e099c6ae4bf
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Marketo Sales Connect è una soluzione di supporto alle vendite con svariate fun
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 ## Feed live {#the-live-feed}
 
@@ -37,45 +37,45 @@ Scopri in che modo i tuoi clienti potenziali sono coinvolti nelle tue attività 
 
 ![](assets/2018-05-11-at-3.30-pm.jpg)
 
-<table> 
- <tbody> 
-  <tr> 
-   <th>Tipo di attività</th> 
-   <th>Descrizione</th> 
-  </tr> 
-  <tr> 
-   <td><p>Invia e-mail vendite</p></td> 
-   <td><p>L'utente ha inviato un'e-mail di vendita da Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Apri e-mail vendite</p></td> 
-   <td><p>Il lead ha aperto un'e-mail di vendita inviata da Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>Fai clic su E-mail vendita</p></td> 
-   <td><p>Lead ha fatto clic su un collegamento in un messaggio e-mail di vendita inviato da Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Ricevi e-mail vendite</p></td> 
-   <td colspan="1"><p>Il lead ha ricevuto un'e-mail inviata da Sales Connect.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Ricevi chiamata di vendita</p></td> 
-   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore che utilizza il <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">telefono di vendita</a>.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Aggiungi a campagna di vendita</p></td> 
-   <td colspan="1"><p>Il lead è stato aggiunto a una campagna di vendita creata in Connessione vendite (nella pagina Campagne ).</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Rimosso Dalla Campagna Di Vendita</p></td> 
-   <td colspan="1"><p>Il lead è stato rimosso da una campagna di vendita.</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"><p>Momento interessante</p></td> 
-   <td colspan="1"><p>Il lead ha avuto un momento interessante generato in Marketo.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <th>Tipo di attività</th>
+   <th>Descrizione</th>
+  </tr>
+  <tr>
+   <td><p>Invia e-mail vendite</p></td>
+   <td><p>L'utente ha inviato un'e-mail di vendita da Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Apri e-mail vendite</p></td>
+   <td><p>Il lead ha aperto un'e-mail di vendita inviata da Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td><p>Fai clic sull’e-mail vendite</p></td>
+   <td><p>Lead ha fatto clic su un collegamento in un messaggio e-mail di vendita inviato da Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Ricevi e-mail vendite</p></td>
+   <td colspan="1"><p>Il lead ha ricevuto un'e-mail inviata da Sales Connect.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Ricevi chiamata di vendita</p></td>
+   <td colspan="1"><p>Il lead ha ricevuto una chiamata da un venditore che utilizza il <a href="/help/marketo/product-docs/marketo-sales-connect/phone/sales-phone-overview.md" rel="nofollow">telefono di vendita</a>.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Aggiungi a campagna di vendita</p></td>
+   <td colspan="1"><p>Il lead è stato aggiunto a una campagna di vendita creata in Connessione vendite (nella pagina Campagne ).</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Rimosso Dalla Campagna Di Vendita</p></td>
+   <td colspan="1"><p>Il lead è stato rimosso da una campagna di vendita.</p></td>
+  </tr>
+  <tr>
+   <td colspan="1"><p>Momento interessante</p></td>
+   <td colspan="1"><p>Il lead ha avuto un momento interessante generato in Marketo.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Condivisione di campagne di marketing {#share-marketing-campaigns}

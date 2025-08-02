@@ -4,7 +4,7 @@ description: Rapporto sull’attività web dell’azienda - Documenti Marketo - 
 title: Report attività Web società
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '248'
 ht-degree: 2%
@@ -33,43 +33,43 @@ Crea un [report attività pagina Web](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_&#x200B;e scegli **[!UICONTROL Sort Descending]**.
+   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_e scegli **[!UICONTROL Sort Descending]**.
 
    [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report Attività Web della società includono:
 
-<table> 
- <thead> 
-  <tr> 
-   <th>Colonna/e</th> 
-   <th>Descrizione</th> 
-  </tr> 
- </thead> 
- <tbody> 
-  <tr> 
-   <td>Azienda</td> 
-   <td>L’azienda dei visitatori.<br> <strong>I nomi in grassetto</strong> sono confermati come nome della società da almeno una persona.</td> 
-  </tr> 
-  <tr> 
-   <td>Società o ISP dedotto</td> 
-   <td>L’azienda, come dedotto dall’indirizzo IP dei visitatori. <br> <strong>I nomi in grassetto</strong> indicano che si tratta dell'azienda e non dell'ISP. </td> 
-  </tr> 
-  <tr> 
-   <td>Page Views</td> 
-   <td>Numero di pagine caricate dai visitatori.</td> 
-  </tr> 
-  <tr> 
-   <td>People</td> 
-   <td>Numero di persone di questa azienda che hanno visitato il tuo sito.</td> 
-  </tr> 
-  <tr> 
-   <td>Paese, stato/regione e città</td> 
-   <td>Ubicazione geografica della società.</td> 
-  </tr> 
-  <tr> 
-   <td>Prima/Ultima visita (fuso orario)</td> 
-   <td>Data e ora della prima/ultima visita da parte di un utente di questa azienda.</td> 
-  </tr> 
- </tbody> 
+<table>
+ <thead>
+  <tr>
+   <th>Colonna/e</th>
+   <th>Descrizione</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Azienda</td>
+   <td>L’azienda dei visitatori.<br> <strong>I nomi in grassetto</strong> sono confermati come nome della società da almeno una persona.</td>
+  </tr>
+  <tr>
+   <td>Società o ISP dedotto</td>
+   <td>L’azienda, come dedotto dall’indirizzo IP dei visitatori. <br> <strong>I nomi in grassetto</strong> indicano che si tratta dell'azienda e non dell'ISP. </td>
+  </tr>
+  <tr>
+   <td>Page Views</td>
+   <td>Numero di pagine caricate dai visitatori.</td>
+  </tr>
+  <tr>
+   <td>People</td>
+   <td>Numero di persone di questa azienda che hanno visitato il tuo sito.</td>
+  </tr>
+  <tr>
+   <td>Paese, stato/regione e città</td>
+   <td>Ubicazione geografica della società.</td>
+  </tr>
+  <tr>
+   <td>Prima/Ultima visita (fuso orario)</td>
+   <td>Data e ora della prima/ultima visita da parte di un utente di questa azienda.</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

@@ -4,9 +4,9 @@ description: Configurare e aggiungere una persona - Documentazione di Marketo - 
 title: Configurazione e aggiunta di una persona
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 6733bca40fbe09fd1c5b6166aef7a74759d7808e
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Ci sono alcune cose da fare prima di iniziare le missioni.
 
-## Passaggio 1: Accedere al Marketo Engage {#step-log-in-to-marketo}
+## Passaggio 1: accedere a Marketo Engage {#step-log-in-to-marketo}
 
-1. [Accedi al Marketo Engage](https://app.marketo.com){target="_blank"} utilizzando le credenziali ricevute tramite e-mail.
+1. [Accedi a Marketo Engage](https://app.marketo.com){target="_blank"} utilizzando le credenziali ricevute tramite e-mail.
 
    ![](assets/get-set-up-and-add-a-person-1.png)
 
@@ -25,15 +25,15 @@ Ci sono alcune cose da fare prima di iniziare le missioni.
 
 Creiamo una cartella in cui inserire tutto ciò che farai nelle missioni.
 
-1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/get-set-up-and-add-a-person-2.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova cartella campagne]**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/get-set-up-and-add-a-person-3.png)
 
-1. Denomina la cartella &quot;Apprendimento&quot; e fai clic su **[!UICONTROL Crea]**.
+1. Assegnare alla cartella il nome &quot;Learning&quot; e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/get-set-up-and-add-a-person-4.png)
 
@@ -49,11 +49,11 @@ Aggiungi te stesso/a come persona in Marketo in modo da poter inviare e-mail di 
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo utente]**.
+1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Person]**.
 
    ![](assets/get-set-up-and-add-a-person-7.png)
 
-1. Digita nome e cognome, indirizzo e-mail e nome della società, quindi fai clic su **[!UICONTROL Crea]** per aggiungerti come persona.
+1. Digita il tuo nome e cognome, l&#39;indirizzo e-mail e il nome della società, quindi fai clic su **[!UICONTROL Create]** per aggiungerti come persona.
 
    ![](assets/get-set-up-and-add-a-person-8.png)
 
@@ -63,11 +63,11 @@ Aggiungi te stesso/a come persona in Marketo in modo da poter inviare e-mail di 
    >
    >* Marketo **non** supporta gli indirizzi e-mail che contengono emoticon.
 
-1. Per visualizzare i tuoi contatti, apri i [!UICONTROL Elenchi avanzati di sistema] nel menu a sinistra, quindi fai clic su **[!UICONTROL Tutti gli utenti]**.
+1. Per visualizzare le tue persone, apri [!UICONTROL System Smart Lists] nel menu a sinistra, quindi fai clic su **[!UICONTROL All People]**.
 
    ![](assets/get-set-up-and-add-a-person-9.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Persone]**. Dovresti trovarti nel database.
+1. Fare clic sulla scheda **[!UICONTROL People]**. Dovresti trovarti nel database.
 
    ![](assets/get-set-up-and-add-a-person-10.png)
 
@@ -77,4 +77,4 @@ Sei pronto per iniziare la tua prima missione!
 
 <br> 
 
-[Missione 1: inviare un messaggio e-mail ►](/help/marketo/getting-started/quick-wins/send-an-email.md)
+[Missione 1: inviare un&#39;esplosione e-mail ►](/help/marketo/getting-started/quick-wins/send-an-email.md)

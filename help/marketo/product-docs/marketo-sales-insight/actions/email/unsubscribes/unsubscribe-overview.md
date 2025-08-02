@@ -3,7 +3,7 @@ description: Panoramica sull’annullamento dell’abbonamento - Documentazione 
 title: Panoramica sull’annullamento dell’abbonamento
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -52,25 +52,25 @@ La scheda [!UICONTROL Unsubscribe History] consente agli amministratori e agli u
 
 ![](assets/unsubscribe-overview-5.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Date]</strong></td> 
-   <td><p>Mostra la data in cui si è verificato l’annullamento/il reabbonamento.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Details]</strong></td> 
-   <td><p>Risottoscrivi: un amministratore [!DNL Sales Connect] ha rimosso manualmente l'annullamento dell'iscrizione dal record del contatto. Potrebbero inoltre essere visualizzati alcuni dettagli relativi al motivo per cui il contatto ha annullato l’abbonamento.</p><p>Annulla iscrizione: il contatto ha annullato l’iscrizione.</p></td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Source]</strong></td> 
-   <td><p>[!DNL Salesforce] Sincronizzazione: l'annullamento dell'abbonamento è stato acquisito da una sincronizzazione da [!DNL Salesforce].</p><p>Manuale: l’utente ha fatto clic sul pulsante per annullare l’abbonamento e rinunciare.</p><p>Collegamento selezionato: il destinatario di un’e-mail ha fatto clic sul collegamento per annullare l’abbonamento.</p><p>"Admin Name" (Nome amministratore): il nome di un amministratore viene visualizzato quando l’azione consisteva nel riabbonare i contatti. In questo modo gli utenti possono sapere chi ha rimosso l’annullamento dell’abbonamento.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Date]</strong></td>
+   <td><p>Mostra la data in cui si è verificato l’annullamento/il reabbonamento.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Details]</strong></td>
+   <td><p>Risottoscrivi: un amministratore [!DNL Sales Connect] ha rimosso manualmente l'annullamento dell'iscrizione dal record del contatto. Potrebbero inoltre essere visualizzati alcuni dettagli relativi al motivo per cui il contatto ha annullato l’abbonamento.</p><p>Annulla iscrizione: il contatto ha annullato l’iscrizione.</p></td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Source]</strong></td>
+   <td><p>[!DNL Salesforce] Sincronizzazione: l'annullamento dell'abbonamento è stato acquisito da una sincronizzazione da [!DNL Salesforce].</p><p>Manuale: l’utente ha fatto clic sul pulsante per annullare l’abbonamento e rinunciare.</p><p>Collegamento selezionato: il destinatario di un’e-mail ha fatto clic sul collegamento per annullare l’abbonamento.</p><p>"Admin Name" (Nome amministratore): il nome di un amministratore viene visualizzato quando l’azione consisteva nel riabbonare i contatti. In questo modo gli utenti possono sapere chi ha rimosso l’annullamento dell’abbonamento.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 >[!MORELIKETHIS]

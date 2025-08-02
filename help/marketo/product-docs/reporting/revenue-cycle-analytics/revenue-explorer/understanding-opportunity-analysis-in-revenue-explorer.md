@@ -4,7 +4,7 @@ description: Analisi delle opportunità in Revenue Explorer - Documentazione di 
 title: Analisi delle opportunità in Gestione ricavi
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '899'
 ht-degree: 5%
@@ -55,7 +55,7 @@ Di seguito sono riportati alcuni rapporti che è possibile creare nell’area An
 
    ![](assets/image2015-7-21-10-3a35-3a45.png)
 
-## Dimension e misure di analisi delle opportunità {#opportunity-analysis-dimensions-and-measures}
+## Dimensioni e misure dell’analisi dell’opportunità {#opportunity-analysis-dimensions-and-measures}
 
 L’analisi delle opportunità consente di accedere a tutte le dimensioni relative a lead, società e opportunità e alle misure correlate. Utilizza queste dimensioni e misure di analisi delle opportunità per rispondere a domande specifiche nel rapporto.
 
@@ -63,13 +63,13 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
 
    | Dimensione | Descrizione |
    |---|---|
-   | Entrata annuale | Entrate annuali dell&#39;azienda |
+   | Ricavi annuali | Entrate annuali dell&#39;azienda |
    | Città | La città in cui si trova l’azienda |
    | Paese | La provincia in cui si trova la società |
    | Settore | Settore di attività dell&#39;azienda |
    | Nome della società | Nome della società |
    | Numero di dipendenti | Numero di dipendenti nella società |
-   | Codice postale | Codice postale della società |
+   | Codice di avviamento postale | Codice postale della società |
    | Codice SIC (Standard Industrial Classification) | Codice SIC della società |
    | Stato | Stato in cui si trova la società |
 

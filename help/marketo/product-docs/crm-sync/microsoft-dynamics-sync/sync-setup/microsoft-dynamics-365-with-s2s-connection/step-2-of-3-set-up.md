@@ -4,7 +4,7 @@ description: Passaggio 2 di 3 - Configurare la soluzione Marketo con connessione
 title: 'Passaggio 2 di 3: configurare la soluzione Marketo con connessione server-server'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%

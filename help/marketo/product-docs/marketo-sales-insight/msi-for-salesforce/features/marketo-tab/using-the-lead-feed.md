@@ -4,7 +4,7 @@ description: Utilizzo del feed di lead - Documentazione di Marketo - Documentazi
 title: Utilizzo del feed di lead
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 1%
@@ -29,45 +29,45 @@ Quando viene visualizzato in [!DNL Salesforce], ogni elemento ha:
 
 ![](assets/using-the-lead-feed-2.png)
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td><p>Elemento</p></td> 
-   <td><p>Descrizione</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>A. Lead/Contatto</p></td> 
-   <td><p>Persona che ha avuto questo momento interessante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>B. Tipo di evento</p></td> 
-   <td><p>Categoria del momento: Web, e-mail o milestone</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>C. Nome del conto</p></td> 
-   <td><p>Nome società</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>D. Ora</p></td> 
-   <td><p>Quando si è verificato questo momento interessante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>E. Descrizione evento</p></td> 
-   <td><p>Motivo di questo momento interessante</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>F. Iscrizione</p></td> 
-   <td><p>Ricevi notifiche e-mail per eventi come questo</p></td> 
-  </tr> 
-  <tr> 
-   <td><p>G. Star</p></td> 
-   <td><p>Questa persona è la migliore scommessa (priorità alta)</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td><p>Elemento</p></td>
+   <td><p>Descrizione</p></td>
+  </tr>
+  <tr>
+   <td><p>A. Lead/Contatto</p></td>
+   <td><p>Persona che ha avuto questo momento interessante</p></td>
+  </tr>
+  <tr>
+   <td><p>B. Tipo di evento</p></td>
+   <td><p>Categoria del momento: Web, e-mail o milestone</p></td>
+  </tr>
+  <tr>
+   <td><p>C. Nome del conto</p></td>
+   <td><p>Nome società</p></td>
+  </tr>
+  <tr>
+   <td><p>D. Ora</p></td>
+   <td><p>Quando si è verificato questo momento interessante</p></td>
+  </tr>
+  <tr>
+   <td><p>E. Descrizione evento</p></td>
+   <td><p>Motivo di questo momento interessante</p></td>
+  </tr>
+  <tr>
+   <td><p>F. Iscrizione</p></td>
+   <td><p>Ricevi notifiche e-mail per eventi come questo</p></td>
+  </tr>
+  <tr>
+   <td><p>G. Star</p></td>
+   <td><p>Questa persona è la migliore scommessa (priorità alta)</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Recupero aggiornamenti RSS {#getting-rss-updates}

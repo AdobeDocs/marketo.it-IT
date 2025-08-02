@@ -4,7 +4,7 @@ description: Impostare La Modalità Di Visualizzazione Della Campagna Web - Docu
 title: Impostare la modalità di visualizzazione della campagna web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -43,21 +43,21 @@ Specifica un ritardo (in secondi totali) per la reazione delle campagne web sul 
 
    ![](assets/s2.png)
 
-<table> 
- <tbody> 
-  <tr> 
-   <td><strong>[!UICONTROL Below fold]</strong></td> 
-   <td>Visualizza la campagna quando il visitatore scorre sotto la piega. La campagna scompare quando il visitatore scorre indietro sopra la piega.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Percent]</strong></td> 
-   <td>Visualizza la campagna quando il visitatore scorre fino alla percentuale predeterminata della pagina.</td> 
-  </tr> 
-  <tr> 
-   <td><strong>[!UICONTROL Pixel]</strong></td> 
-   <td><p>Visualizza la campagna quando il visitatore scorre fino al pixel superiore predefinito sulla pagina.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <tbody>
+  <tr>
+   <td><strong>[!UICONTROL Below fold]</strong></td>
+   <td>Visualizza la campagna quando il visitatore scorre sotto la piega. La campagna scompare quando il visitatore scorre indietro sopra la piega.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Percent]</strong></td>
+   <td>Visualizza la campagna quando il visitatore scorre fino alla percentuale predeterminata della pagina.</td>
+  </tr>
+  <tr>
+   <td><strong>[!UICONTROL Pixel]</strong></td>
+   <td><p>Visualizza la campagna quando il visitatore scorre fino al pixel superiore predefinito sulla pagina.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 ## Intento di uscita {#exit-intent}

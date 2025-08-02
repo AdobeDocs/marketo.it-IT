@@ -3,7 +3,7 @@ description: Modello per pagina di destinazione rapida - Documentazione di Marke
 title: Modello per pagina di destinazione rapida
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # Modello per pagina di destinazione rapida {#quick-start-landing-page-template}
 
-Alcuni dei programmi iniziali nella Libreria di riferimento del Marketo Engage contengono un modello di pagina di destinazione semplice, facile da usare e personalizzabile che consente la creazione rapida di pagine di destinazione in una serie di casi di utilizzo di marketing.
+Alcuni dei programmi iniziali nella Libreria di riferimento di Marketo Engage contengono un modello di pagina di destinazione semplice, facile da usare e personalizzabile che consente la creazione rapida di pagine di destinazione in una serie di casi di utilizzo di marketing.
 
 >[!TIP]
 >
 >Ulteriori informazioni su [Modelli di pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo sezioni {#sections-summary}
 

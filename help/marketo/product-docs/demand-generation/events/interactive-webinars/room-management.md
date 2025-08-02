@@ -3,9 +3,9 @@ description: Gestione delle sale - Documentazione di Marketo - Documentazione de
 title: Gestione della stanza
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '772'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Le sale dei webinar interattivi basati su Adobe Connect sono progettate per faci
 
    ![](assets/room-management-1.png)
 
-1. Seleziona **[!UICONTROL Webinar interattivi]**, quindi **[!UICONTROL Gestisci room]**.
+1. Selezionare **[!UICONTROL Interactive Webinars]**, quindi **[!UICONTROL Manage Rooms]**.
 
    ![](assets/room-management-2.png)
 
@@ -32,7 +32,7 @@ Le sale dei webinar interattivi basati su Adobe Connect sono progettate per faci
 
 Una sala webinar interattiva è uno spazio virtuale progettato per ospitare eventi online live e coinvolgenti in cui i partecipanti possono interagire con il presentatore e altri partecipanti. In queste sale, puoi trovare i contenuti caricati e le registrazioni dei webinar.
 
-Per visualizzare l&#39;elenco di tutte le camere, seleziona **[!UICONTROL Camere]** nella barra dei menu superiore. Puoi trovare tutte le stanze che hai creato insieme al contenuto caricato e alle registrazioni in queste stanze. È inoltre possibile visualizzare il numero di registrazioni, la dimensione del file nella stanza e la data dell&#39;ultimo accesso per le rispettive stanze.
+Per visualizzare l&#39;elenco di tutte le tue room, seleziona **[!UICONTROL Rooms]** dalla barra dei menu superiore. Puoi trovare tutte le stanze che hai creato insieme al contenuto caricato e alle registrazioni in queste stanze. È inoltre possibile visualizzare il numero di registrazioni, la dimensione del file nella stanza e la data dell&#39;ultimo accesso per le rispettive stanze.
 
 <table><tbody>
   <tr>
@@ -114,9 +114,9 @@ Da questo hub centralizzato è possibile eseguire le azioni seguenti:
 
 Le registrazioni sono risorse preziose che catturano l&#39;essenza delle discussioni in tempo reale, delle presentazioni e delle sessioni di domande e risposte. Consentono ai partecipanti di rivedere informazioni chiave, dettagli saltati o concetti complessi al proprio ritmo.
 
-Fai clic sulla scheda **[!UICONTROL Registrazioni]** per visualizzare un elenco di tutte le registrazioni caricate.
+Fare clic sulla scheda **[!UICONTROL Recordings]** per visualizzare un elenco di tutte le registrazioni caricate.
 
-In **[!UICONTROL Registrazioni personali]** è possibile trovare tutte le registrazioni disponibili nella room creata. È inoltre possibile visualizzarne le dimensioni, la data e l&#39;ora e la durata.
+In **[!UICONTROL My recordings]** è possibile trovare tutte le registrazioni disponibili nella room creata. È inoltre possibile visualizzarne le dimensioni, la data e l&#39;ora e la durata.
 
 ![](assets/room-management-6.png)
 

@@ -4,9 +4,9 @@ description: SEO - Aggiungi parole chiave - Documentazione di Marketo - Document
 title: SEO - Aggiungi parole chiave
 exl-id: 95e7907a-62f7-40c7-85a9-97728fbe40eb
 feature: SEO
-source-git-commit: d9ea30742b6ef3b6299284a1f446a69f15105379
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,11 @@ Le parole chiave sono frasi digitate dagli utenti nei motori di ricerca. Aggiung
 >
 >Se sono presenti molte parole chiave, puoi [importarle con un file CSV](/help/marketo/product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md).
 
-1. Vai alla sezione **[!UICONTROL Parole chiave]**.
+1. Passare alla sezione **[!UICONTROL Keywords]**.
 
    ![](assets/image2014-9-18-11-3a28-3a39.png)
 
-1. Immettere le parole chiave di destinazione e fare clic su **[!UICONTROL Salva]**.
+1. Immettere le parole chiave di destinazione e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-11-3a28-3a51.png)
 

@@ -3,7 +3,7 @@ description: Azioni rapide nel centro comandi - Documentazione di Marketo - Docu
 title: Azioni rapide nel centro comandi
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 1%
@@ -27,59 +27,59 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
 
 **[!UICONTROL Archived]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Unarchive]</td> 
-   <td>L’e-mail verrà spostata nuovamente nella cartella di destinazione e verrà riattivato il tracciamento di visualizzazioni/clic.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Unarchive]</td>
+   <td>L’e-mail verrà spostata nuovamente nella cartella di destinazione e verrà riattivato il tracciamento di visualizzazioni/clic.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Draft]e[!UICONTROL Scheduled]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Edit]</td> 
-   <td>Apre l’e-mail nella finestra di composizione da modificare.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Edit]</td>
+   <td>Apre l’e-mail nella finestra di composizione da modificare.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Failed], [!UICONTROL Bounced] e[!UICONTROL Spam]**
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td>[!UICONTROL Retry Send]</td> 
-   <td>Tenterà immediatamente di inviare di nuovo l’e-mail.</td> 
-  </tr> 
-  <tr> 
-   <td>[!UICONTROL Delete]</td> 
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>[!UICONTROL Retry Send]</td>
+   <td>Tenterà immediatamente di inviare di nuovo l’e-mail.</td>
+  </tr>
+  <tr>
+   <td>[!UICONTROL Delete]</td>
+   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+  </tr>
+ </tbody>
 </table>
 
 **[!UICONTROL Follow-up Actions]**

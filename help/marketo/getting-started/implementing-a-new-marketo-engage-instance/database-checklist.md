@@ -1,9 +1,9 @@
 ---
-description: Impostare la sezione Database per la nuova istanza di Marketo Engage.
+description: Imposta la sezione Database per la nuova istanza di Marketo Engage.
 title: Best practice per le nuove istanze - Elenco di controllo del database
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: df8087dbaf2b621d0d877eba1c16f160ee9bf460
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 2%
@@ -28,27 +28,27 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
 <tbody>
   <tr>
     <td>Tutte le persone</td>
-    <td><li>Determina come implementare una sincronizzazione 1:1 con il tuo sistema CRM o come applicare i filtri per limitare chi si sposta da un sistema all’altro e quando.</li> 
-    <li>Esaminare il numero totale di persone e persone commerciabili nel database di <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=it" target="_blank">Marketo Engage</a>.</li></td>
+    <td><li>Determina come implementare una sincronizzazione 1:1 con il tuo sistema CRM o come applicare i filtri per limitare chi si sposta da un sistema all’altro e quando.</li>
+    <li>Esaminare il numero totale di persone e persone commerciabili nel <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html" target="_blank">database Marketo Engage</a>.</li></td>
   </tr>
   <tr>
     <td>INSERISCO NELL'ELENCO BLOCCATI DI</td>
-    <td><li>Definisci i criteri di inserisce nell'elenco Bloccati dei. Prendi in considerazione l'aggiunta dei domini della concorrenza al tuo <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=it" target="_blank">inserisco nell'elenco Bloccati di</a> per impedire loro di ricevere le tue e-mail.</li></td>
+    <td><li>Definisci i criteri di inserisce nell'elenco Bloccati dei. Prendi in considerazione l'aggiunta dei domini della concorrenza al tuo <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html" target="_blank">inserisco nell'elenco Bloccati di</a> per impedire loro di ricevere le tue e-mail.</li></td>
   </tr>
   <tr>
     <td>Marketing sospeso</td>
-    <td><li>Definisci i criteri di <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing sospeso</a>.</li></td>
+    <td><li>Definisci i criteri di <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing sospeso</a>.</li></td>
   </tr>
   <tr>
     <td>Indirizzi e-mail non recapitati </td>
     <td><li>Definisci i criteri per gli indirizzi e-mail non recapitati.</li>
-    <li>Rivedi le persone nella categoria "E-mail non valida" e determina se le e-mail devono essere <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=it" target="_blank">reimpostate manualmente</a>.</li></td>
+    <li>Rivedi le persone nella categoria "E-mail non valida" e determina se le e-mail devono essere <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html" target="_blank">reimpostate manualmente</a>.</li></td>
   </tr>
   <tr>
     <td>Possibili duplicati</td>
-    <td><li>Rivedi Persone nell’elenco Possibili duplicati.</li> 
-    <li>Definisci la strategia di gestione dei duplicati per determinare se <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html?lang=it" target="_blank">unire manualmente le persone</a>.</li>  
-    <li>Se hai un'integrazione CRM, definisci un processo e un account per <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">l'effetto dell'unione di lead nel CRM</a>.</li></td>
+    <td><li>Rivedi Persone nell’elenco Possibili duplicati.</li>
+    <li>Definisci la strategia di gestione dei duplicati per determinare se <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.html" target="_blank">unire manualmente le persone</a>.</li>
+    <li>Se hai un'integrazione CRM, definisci un processo e un account per <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people#effect-in-salesforce" target="_blank">l'effetto dell'unione di lead nel CRM</a>.</li></td>
   </tr>
   <tr>
     <td>Nessun programma di acquisizione</td>
@@ -56,7 +56,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
   </tr>
   <tr>
     <td>Persone non abbonate</td>
-    <td><li>Rivedi i criteri per <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=it" target="_blank">Utenti non iscritti</a>.</li></td>
+    <td><li>Rivedi i criteri per <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html" target="_blank">Utenti non iscritti</a>.</li></td>
   </tr>
 </tbody>
 </table>
@@ -91,7 +91,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
 <tbody>
   <tr>
     <td>Segmentazione</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html?lang=it" target="_blank">Crea segmentazioni</a> in base alle tue esigenze aziendali. Ogni abbonamento è limitato a 20 segmentazioni e 100 segmenti all’interno di ogni segmentazione.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.html" target="_blank">Crea segmentazioni</a> in base alle tue esigenze aziendali. Ogni abbonamento è limitato a 20 segmentazioni e 100 segmenti all’interno di ogni segmentazione.</li></td>
   </tr>
 </tbody>
 </table>

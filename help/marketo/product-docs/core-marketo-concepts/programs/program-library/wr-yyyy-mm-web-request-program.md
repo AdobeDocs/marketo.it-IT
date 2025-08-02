@@ -3,10 +3,10 @@ description: WR-YYYY-MM-Web Request Program - Documentazione di Marketo - Docume
 title: Programma di richiesta Web WR-YYY-MM
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
@@ -14,127 +14,127 @@ ht-degree: 3%
 
 Questo è un programma di esempio ideale per i moduli di richiesta di contatto, richiesta di preventivo, richiesta demo o richiesta di prova che utilizzano un programma predefinito di Marketo Engage. Può essere utilizzato con le pagine di destinazione di Marketo o come modulo incorporato in pagine di destinazione non Marketo. All’invio del modulo, viene inviato un messaggio e-mail di avviso a una persona specificata.
 
-Per ulteriore assistenza strategica o per personalizzare un programma, contattare il team dell&#39;account Adobe o visitare la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Canale</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Channel</th>
    <th>Stato iscrizione</th>
    <th>Comportamento di Analytics</th>
    <th>Tipo di programma</th>
-  </tr> 
-  <tr> 
-   <td>Richiesta Web</td> 
+  </tr>
+  <tr>
+   <td>Richiesta Web</td>
    <td>01 - Coinvolto - Completato</td>
    <td>Inclusivo</td>
    <td>Predefinito</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Il programma contiene i seguenti Assets {#program-contains-the-following-assets}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo</th>
    <th>Nome modello</th>
    <th>Nome risorsa</th>
   </tr>
-  <tr> 
-   <td>Modulo</td> 
+  <tr>
+   <td>Modulo</td>
    <td> </td>
    <td>FM-WebRequestForm</td>
   </tr>
-  <tr> 
-   <td>E-mail</td> 
+  <tr>
+   <td>E-mail</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
    <td>Alert-WebRequest</td>
   </tr>
-  <tr> 
-   <td>Pagina di destinazione</td> 
+  <tr>
+   <td>Pagina di destinazione</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>01 - LP - Richiesta</td>
   </tr>
-  <tr> 
-   <td>Pagina di destinazione</td> 
+  <tr>
+   <td>Pagina di destinazione</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-landing-page-template.md" target="_blank">Modello di programma di apprendimento rapido</a></td>
    <td>02 - LP - Grazie</td>
   </tr>
-  <tr> 
-   <td>Rapporto locale</td> 
+  <tr>
+   <td>Rapporto locale</td>
    <td> </td>
    <td>Prestazioni della pagina di destinazione</td>
   </tr>
-   <tr> 
-   <td>Campagna avanzata</td> 
+   <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>Nuova persona da richiesta web</td>
   </tr>
-   <tr> 
-   <td>Campagna avanzata</td> 
+   <tr>
+   <td>Campagna avanzata</td>
    <td> </td>
    <td>Nuova persona dal webinar</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
-   <td>Assets - Raccoglie tutte le risorse creative 
+   <td>Assets - Raccoglie tutte le risorse creative
 <br/>(sottocartelle per avvisi e pagine di destinazione)</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Campagne: ospita tutte le campagne intelligenti</td>
   </tr>
-  <tr> 
-   <td>Cartella</td> 
+  <tr>
+   <td>Cartella</td>
    <td> </td>
    <td>Rapporti</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ![](assets/wr-yyyy-mm-web-request-program-1.png)
 
 ## I miei token inclusi {#my-tokens-included}
 
-<table style="table-layout:auto"> 
- <tbody> 
-  <tr> 
-   <th>Tipo di token</th> 
+<table style="table-layout:auto">
+ <tbody>
+  <tr>
+   <th>Tipo di token</th>
    <th>Nome token</th>
    <th>Valore</th>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.Request-Type}}</code></td>
    <td>Contattaci</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.ALERT-FromAddress}}</code></td>
    <td>PlaceholderFrom.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.ALERT-FromName}}</code></td>
    <td><code><--My From Name Here--></code></td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.ALERT-ReplyToAddress}}</code></td>
    <td>reply-to.email@mydomain.com</td>
   </tr>
-  <tr> 
-   <td>Testo</td> 
+  <tr>
+   <td>Testo</td>
    <td><code>{{my.PageURL-ThankYou}}</code></td>
    <td>My.ThankYouPageURL?senza http://</td>
   </tr>
- </tbody> 
+ </tbody>
 </table>
 
 ## Regole di conflitto {#conflict-rules}

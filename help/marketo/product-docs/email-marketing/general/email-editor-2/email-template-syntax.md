@@ -4,16 +4,16 @@ description: Sintassi del modello e-mail - Documentazione di Marketo - Documenta
 title: Sintassi del modello e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: a9f880bd32d533613020d0472c0e1bee07ab388c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '2449'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Sintassi del modello e-mail {#email-template-syntax}
 
-Nella nuova esperienza E-mail 2.0 di Marketo, i modelli e-mail sono composti da qualsiasi combinazione di elementi, variabili, moduli o contenitori. Ciascuno viene definito aggiungendo una sintassi specifica di Marketo al HTML. I precedenti modelli di e-mail (v1.0) sono supportati in Editor e-mail 2.0; tuttavia, non includeranno tutte le funzioni del nuovo editor.
+Nella nuova esperienza E-mail 2.0 di Marketo, i modelli e-mail sono composti da qualsiasi combinazione di elementi, variabili, moduli o contenitori. Ciascuno viene definito aggiungendo la sintassi specifica di Marketo al HTML. I precedenti modelli di e-mail (v1.0) sono supportati in Editor e-mail 2.0; tuttavia, non includeranno tutte le funzioni del nuovo editor.
 
 La sintassi delle e-mail di Marketo funziona solo nei modelli e nelle singole e-mail; **non** funziona se incorporata in snippet o token Rich Text.
 
@@ -40,7 +40,7 @@ Se si definisce un&#39;area come Rich Text, gli utenti potranno modificarne il c
 
 ### Opzione 1 - Modificabile {#option-mkteditable}
 
-Poiché Email Editor 2.0 è compatibile con le versioni precedenti, alcuni vecchi modelli di e-mail possono specificare elementi in formato Rich Text aggiungendo class=&quot;mktEditable&quot; a qualsiasi elemento HTML. Questo è ancora supportato e l’ID dell’elemento sarà utilizzato come nome visualizzato all’interno dell’editor e-mail.
+Poiché Email Editor 2.0 è compatibile con le versioni precedenti, alcuni vecchi modelli e-mail possono specificare elementi in formato Rich Text aggiungendo class=&quot;mktEditable&quot; a qualsiasi elemento di HTML. Questo è ancora supportato e l’ID dell’elemento sarà utilizzato come nome visualizzato all’interno dell’editor e-mail.
 
 Attributi richiesti
 
@@ -175,7 +175,7 @@ Attributi richiesti
 
 Attributi facoltativi
 
-* **allowHTML:** Boolean. Controlla se il valore della variabile è con escape per HTML. Se omesso, il valore predefinito è False.
+* **allowHTML:** Boolean. Controlla se il valore della variabile è con escape HTML. Se omesso, il valore predefinito è False.
 * **default**: valore predefinito per la stringa. Vuoto se omesso.
 * **mktoModuleScope**: valore booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Se omesso, il valore predefinito è False.
 
@@ -286,7 +286,7 @@ Esempio di utilizzo:
 
 ## Blocco HTML {#html-block}
 
-Se specifichi una variabile come HTML Block (Blocco di HTML), l’utente finale potrà inserire testo letterale nell’editor e-mail. È stata specificata una variabile HTML Block utilizzando `<meta>` con class=&quot;mktoHTML&quot;
+Se specifichi una variabile come blocco HTML, l’utente finale potrà inserire il testo letterale di HTML dall’editor e-mail. È stata specificata una variabile di blocco HTML utilizzando `<meta>` con class=&quot;mktoHTML&quot;
 
 Attributi richiesti
 
@@ -295,7 +295,7 @@ Attributi richiesti
 
 Attributi facoltativi
 
-* **valore predefinito:** valore con codifica HTML da utilizzare come contenuto predefinito del blocco.
+* **valore predefinito:** valore codificato HTML da utilizzare come contenuto predefinito del blocco.
 * **mktoModuleScope**: valore booleano. Controlla se la variabile è locale (true) o globale (false) quando viene utilizzata in un modulo. Se omesso, il valore predefinito è False.
 
 Esempio di dichiarazione:

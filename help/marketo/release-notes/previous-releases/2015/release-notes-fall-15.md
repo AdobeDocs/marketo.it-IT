@@ -4,9 +4,9 @@ description: Note sulla versione - Autunno 2015 - Documentazione di Marketo - Do
 title: Note sulla versione - Autunno 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '966'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ L’esportazione può essere programmata su base giornaliera, settimanale o mens
 
 [Oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
-Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazione. Al momento è supportata la possibilità di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a un’azienda.
+Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazione. Attualmente è supportata la possibilità di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a un&#39;azienda.
 
 >[!NOTE]
 >
@@ -138,7 +138,7 @@ Stiamo apportando diversi miglioramenti all’editor Rich Text. Dopo aver rilasc
 
 ```
 <myCustomElement myCustomAttribute="foo">Hello World!</myCustomElement>
-<td background="someImage.png"> 
+<td background="someImage.png">
 ```
 
 ## [!DNL Microsoft Dynamics] - Convalida sincronizzazione {#microsoft-dynamics-validate-sync}

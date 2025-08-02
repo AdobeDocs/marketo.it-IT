@@ -3,7 +3,7 @@ description: Panoramica di Marketo Engage Modern UX - Documentazione di Marketo 
 title: Panoramica di Marketo Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
-source-git-commit: ee6944a02a4535f9d763453fa16c95623eed6378
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 1%
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Panoramica di Marketo Engage Modern UX {#overview}
 
-Benvenuti in Adobe Marketo Engage Modern UX (user experience), un’interfaccia aggiornata che offre una migliore usabilità e un nuovo aspetto sulla piattaforma del Marketo Engage.
+Benvenuti in Adobe Marketo Engage Modern UX (user experience), un’interfaccia aggiornata che offre una migliore usabilità e un nuovo aspetto sulla piattaforma Marketo Engage.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ La nuova interfaccia presenta un&#39;iconografia migliorata ed estesa.
 
 **Navigazione globale**
 
-Arrivederci superball. Ora puoi accedere rapidamente a tutte le sezioni principali del Marketo Engage.
+Arrivederci superball. Ora puoi accedere rapidamente a tutte le sezioni principali di Marketo Engage.
 
 ![](assets/overview-5.png)
 
@@ -52,114 +52,114 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
 >
 >Quando si esegue una ricerca nella struttura, vengono visualizzati solo i primi 250 risultati. Se dopo una ricerca non riesci a individuare la risorsa, utilizza la funzione [Ricerca globale](/help/marketo/product-docs/marketo-engage-modern-ux/using-the-global-search.md).
 
-**Marketo Classic rispetto al nuovo Marketo**
+**Confronto tra Marketo Classic e il nuovo Marketo**
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <th>Funzione</th> 
-   <th>Classic</th> 
-   <th>Di nuova generazione</th> 
+   <th>Funzione</th>
+   <th>Classic</th>
+   <th>Di nuova generazione</th>
   </tr>
   <tr>
-   <td>Applicare più filtri contemporaneamente</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Applicare più filtri contemporaneamente</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Nodo combinato struttura bozza e approvazione</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Nodo combinato struttura bozza e approvazione</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Creare risorse locali nelle cartelle dei programmi</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Creare risorse locali nelle cartelle dei programmi</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Fare doppio clic per espandere/comprimere i nodi della struttura</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Fare doppio clic per espandere/comprimere i nodi della struttura</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Trascinamento della selezione dalla struttura al flusso di coinvolgimento</td> 
-   <td><strong>X</strong></td> 
-   <td></td> 
+   <td>Trascinamento della selezione dalla struttura al flusso di coinvolgimento</td>
+   <td><strong>X</strong></td>
+   <td></td>
   </tr>
   <tr>
-   <td>Trascinare all'interno della struttura</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Trascinare all'interno della struttura</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filtra per tipo di risorsa e stati</td> 
-   <td><i>parziale</i></td> 
-   <td><strong>X</strong></td>  
+   <td>Filtra per tipo di risorsa e stati</td>
+   <td><i>parziale</i></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Evidenzia sfondo per mostrare la gerarchia nello stato attivo</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Evidenzia sfondo per mostrare la gerarchia nello stato attivo</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Evidenziazione delle parole chiave durante la ricerca</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Evidenziazione delle parole chiave durante la ricerca</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Scorrimento orizzontale</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td>  
+   <td>Scorrimento orizzontale</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Stato al passaggio del mouse dei nodi della struttura</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Stato al passaggio del mouse dei nodi della struttura</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Comprimi rapidamente l'intera struttura</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Comprimi rapidamente l'intera struttura</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Comprimi rapidamente nel nodo principale</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Comprimi rapidamente nel nodo principale</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Aggiornamento in tempo reale</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Aggiornamento in tempo reale</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Struttura ridimensionabile</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Struttura ridimensionabile</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Cerca nelle cartelle archiviate</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Cerca nelle cartelle archiviate</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Stringa di ricerca salvata durante l'immissione della ricerca globale dalla ricerca ad albero</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Stringa di ricerca salvata durante l'immissione della ricerca globale dalla ricerca ad albero</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Mostra tutte le aree di lavoro in un unico albero</td> 
-   <td><strong>X</strong></td> 
-   <td><strong>X</strong></td> 
+   <td>Mostra tutte le aree di lavoro in un unico albero</td>
+   <td><strong>X</strong></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Badge di stato e descrizioni</td> 
-   <td></td> 
-   <td><strong>X</strong></td>  
+   <td>Badge di stato e descrizioni</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Logica di ricerca 'Word starts with'</td> 
-   <td></td> 
-   <td><strong>X</strong></td> 
+   <td>Logica di ricerca 'Word starts with'</td>
+   <td></td>
+   <td><strong>X</strong></td>
   </tr>
  </tbody>
 </table>
@@ -170,24 +170,24 @@ Dai un&#39;occhiata al nuovo Global Nav.
 
 ![](assets/overview-7.png)
 
-<table> 
+<table>
  <tbody>
   <tr>
-   <td>1</td> 
-   <td>Nessun altro menu a discesa superball</td> 
+   <td>1</td>
+   <td>Nessun altro menu a discesa superball</td>
   </tr>
   <tr>
-   <td>2</td> 
-   <td>Tutti gli elementi superball precedenti elencati</td> 
+   <td>2</td>
+   <td>Tutti gli elementi superball precedenti elencati</td>
   </tr>
   <tr>
   <tr>
-   <td>3</td> 
-   <td>Se hai più abbonamenti, fai clic sul tuo nome secondario per passare facilmente a un altro</td> 
+   <td>3</td>
+   <td>Se hai più abbonamenti, fai clic sul tuo nome secondario per passare facilmente a un altro</td>
   </tr>
   <tr>
-   <td>4</td> 
-   <td>Ricerca globale: da qui è ora possibile eseguire una ricerca nell’intera istanza</td> 
+   <td>4</td>
+   <td>Ricerca globale: da qui è ora possibile eseguire una ricerca nell’intera istanza</td>
   </tr>
  </tbody>
 </table>
@@ -200,4 +200,4 @@ Dai un&#39;occhiata al nuovo Global Nav.
 >
 >L’utilizzo della ricerca nella struttura produrrà risultati solo dalla sezione in cui ti trovi (ad esempio, Attività di marketing). Se desideri cercare nell’intera istanza, utilizza la ricerca globale.
 
-Godetevi la nuova esperienza di Marketo Engage!
+Godetevi la nuova esperienza Marketo Engage!

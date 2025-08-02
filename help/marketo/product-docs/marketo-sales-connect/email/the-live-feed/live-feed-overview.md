@@ -4,7 +4,7 @@ description: Panoramica dei feed live - Documenti Marketo - Documentazione del p
 title: Panoramica dei feed live
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -62,41 +62,41 @@ Visualizza le persone migliori (ordinate dal livello più alto a quello più bas
 
 ## Icona Glossario {#icon-glossary}
 
-<table> 
- <colgroup> 
-  <col> 
-  <col> 
- </colgroup> 
- <tbody> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Qualcuno ha visualizzato il tuo indirizzo e-mail</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Qualcuno ha fatto clic su un collegamento nell’e-mail</p></td> 
-  </tr> 
-  <tr> 
-   <td> 
-    <div> 
-     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td><p>Qualcuno ha risposto alla tua e-mail</p></td> 
-  </tr> 
-  <tr> 
-   <td colspan="1"> 
-    <div> 
-     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p> 
-    </div></td> 
-   <td colspan="1">Qualsiasi notifica elencata in Momenti di interesse, inclusi e-mail, web e milestone</td> 
-  </tr> 
- </tbody> 
+<table>
+ <colgroup>
+  <col>
+  <col>
+ </colgroup>
+ <tbody>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="—" height="22" src="assets/viewed-icon.png" data-linked-resource-id="45417223" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Qualcuno ha visualizzato il tuo indirizzo e-mail</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" src="assets/clicked-icon.png" data-linked-resource-id="45417224" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Qualcuno ha fatto clic su un collegamento nell’e-mail</p></td>
+  </tr>
+  <tr>
+   <td>
+    <div>
+     <p><img alt="--" width="23" src="assets/replied-icon.png" data-linked-resource-id="45417226" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td><p>Qualcuno ha risposto alla tua e-mail</p></td>
+  </tr>
+  <tr>
+   <td colspan="1">
+    <div>
+     <p><img alt="--" width="20" src="assets/im-icon.png" data-linked-resource-id="45417225" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="13796471" title="--"></p>
+    </div></td>
+   <td colspan="1">Qualsiasi notifica elencata in Momenti di interesse, inclusi e-mail, web e milestone</td>
+  </tr>
+ </tbody>
 </table>
 
 >[!NOTE]

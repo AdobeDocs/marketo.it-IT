@@ -3,9 +3,9 @@ description: Personalizzazione dei webinar interattivi - Documentazione di Marke
 title: Personalizzazione dei webinar interattivi
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 1839ccb646e775b67efa8de7d2d2bf3dbbbefa72
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Puoi personalizzare le seguenti opzioni:
 
 Prima che qualsiasi utente dell’organizzazione possa personalizzare i webinar interattivi, un amministratore di Marketo Engage deve innanzitutto aggiungere l’accesso ai ruoli desiderati.
 
-1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
+1. In Marketo Engage, fare clic su **[!UICONTROL Admin]**.
 
    ![](assets/interactive-webinars-customization-1.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**, quindi sulla scheda **[!UICONTROL Ruoli]**.
+1. Fare clic su **[!UICONTROL Users & Roles]**, quindi sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/interactive-webinars-customization-2.png)
 
@@ -43,7 +43,7 @@ Prima che qualsiasi utente dell’organizzazione possa personalizzare i webinar 
 
    ![](assets/interactive-webinars-customization-4.png)
 
-1. Selezionare la casella di controllo **[!UICONTROL Accedi alla personalizzazione dei webinar interattivi]**.
+1. Selezionare la casella di controllo **[!UICONTROL Access Interactive Webinars Customization]**.
 
    ![](assets/interactive-webinars-customization-5.png)
 
@@ -81,11 +81,11 @@ Per personalizzare l&#39;aspetto di una room, selezionare la scheda Interfaccia 
 
    È inoltre possibile immettere il codice colore HEX utilizzando l&#39;opzione HEX.
 
-   Selezionare **[!UICONTROL Visualizza modelli]** per modificare il tema della room.
+   Selezionare **[!UICONTROL View templates]** per modificare il tema della room.
 
    Dopo aver apportato le modifiche, è possibile controllare il logo e i colori in Anteprima.
 
-1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
+1. Selezionare **[!UICONTROL Apply]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, scegliere **[!UICONTROL Reset to default]**.
 
    ![](assets/interactive-webinars-customization-10.png)
 
@@ -103,7 +103,7 @@ Per personalizzare l&#39;aspetto di una stanza, selezionare la scheda Schermi in
    >
    >L’immagine caricata viene applicata nelle schermate Entrata, Uscita e In attesa.
 
-1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
+1. Selezionare **[!UICONTROL Apply]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, scegliere **[!UICONTROL Reset to default]**.
 
 ### Personalizzare gli sfondi di video virtuali {#Customize-virtual-video-backgrounds}
 
@@ -123,7 +123,7 @@ Dopo aver apportato le modifiche, visualizzare lo sfondo in Anteprima.
 
 È possibile utilizzare il dispositivo di scorrimento nella schermata Anteprima per ingrandire o ridurre e verificare l&#39;aspetto dello sfondo virtuale se l&#39;utente si trova vicino o lontano dalla fotocamera. Se sullo sfondo è presente del testo, questo contribuirà a garantirne la visibilità.
 
-1. Seleziona **[!UICONTROL Applica]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, fare clic su **[!UICONTROL Ripristina impostazioni predefinite]**.
+1. Selezionare **[!UICONTROL Apply]** per salvare le modifiche. Per ripristinare le impostazioni predefinite, scegliere **[!UICONTROL Reset to default]**.
 
 **Sfondi Adobe Connect**
 

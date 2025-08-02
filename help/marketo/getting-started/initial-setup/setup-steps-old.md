@@ -1,15 +1,15 @@
 ---
 unique-page-id: 2949469
-description: Passaggi di configurazione - Documentazione di Marketo - Documentazione del prodotto
+description: Passaggi della configurazione - Documenti Marketo - Documentazione del prodotto
 title: Passaggi di configurazione
 hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: d41a43d7579775c0c866e867f778962ff61ff044
+source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
 workflow-type: tm+mt
-source-wordcount: '2104'
-ht-degree: 0%
+source-wordcount: '2052'
+ht-degree: 1%
 
 ---
 
@@ -48,11 +48,11 @@ Accedi a Marketo [qui](https://app.marketo.com/){target="_blank"} utilizzando le
 
 Congratulazioni! Ora sei in Marketo e puoi iniziare a esplorare. Potresti voler invitare i tuoi colleghi del team marketing a unirti a te. Per farlo, aggiungi nuovi utenti.
 
-Vai all&#39;area **[!UICONTROL Amministratore]**.
+Passare all&#39;area **[!UICONTROL Admin]**.
 
 >[!TIP]
 >
->Mentre sei qui, puoi fare clic su **[!UICONTROL Il mio account]** per modificare le impostazioni dell&#39;account e del percorso e impostare un nuovo nome di abbonamento.
+>Mentre sei qui, puoi fare clic su **[!UICONTROL My Account]** per modificare le impostazioni dell&#39;account e del percorso e impostare un nuovo nome di abbonamento.
 
 ![](assets/setup-steps-2.png)
 
@@ -60,15 +60,15 @@ Vai all&#39;area **[!UICONTROL Amministratore]**.
 >
 >**Autorizzazioni amministratore richieste**
 
-Fai clic su **[!UICONTROL Utenti e ruoli]**.
+Fai clic su **[!UICONTROL Users & Roles]**.
 
 ![](assets/setup-steps-3.png)
 
-Fare clic su **[!UICONTROL Invita nuovo utente]**.
+Fai clic su **[!UICONTROL Invite New User]**.
 
 ![](assets/setup-steps-4.png)
 
-Compila l’indirizzo e-mail, il nome e il cognome del tuo collega. _L&#39;impostazione di una data di scadenza dell&#39;accesso è facoltativa_. Fai clic su **[!UICONTROL Avanti]**.
+Compila l’indirizzo e-mail, il nome e il cognome del tuo collega. _L&#39;impostazione di una data di scadenza dell&#39;accesso è facoltativa_. Fai clic su **[!UICONTROL Next]**.
 
 ![](assets/setup-steps-5.png)
 
@@ -80,7 +80,7 @@ Compila l’indirizzo e-mail, il nome e il cognome del tuo collega. _L&#39;impos
 >
 >Quando arriva la data di scadenza, l’utente riceve una notifica di scadenza e l’account viene bloccato.
 
-Selezionare un ruolo e fare clic su **[!UICONTROL Avanti]**. Gli utenti standard hanno accesso a tutte le aree eccetto Admin.
+Selezionare un ruolo e fare clic su **[!UICONTROL Next]**. Gli utenti standard hanno accesso a tutte le aree eccetto Admin.
 
 ![](assets/setup-steps-6.png)
 
@@ -92,19 +92,19 @@ Selezionare un ruolo e fare clic su **[!UICONTROL Avanti]**. Gli utenti standard
 
 ![](assets/setup-steps-7.png)
 
-Il nuovo utente è ora elencato nella scheda **[!UICONTROL Utenti]** e dovrebbe ricevere un&#39;e-mail con un collegamento per creare una password e un login. Passaggio successivo
+Il nuovo utente è ora elencato nella scheda **[!UICONTROL Users]** e dovrebbe ricevere un&#39;e-mail con un collegamento per creare una password e un login. Passaggio successivo
 
 ![](assets/setup-steps-8.png)
 
 ## Impostare I Contatti Autorizzati Per Il Supporto {#set-up-your-authorized-support-contacts}
 
-È possibile che tu abbia ricevuto un&#39;e-mail da Marketo Support in cui si dichiara di essere l&#39;Amministratore dell&#39;Assistenza clienti Marketo per la tua azienda. In tal caso, puoi impostare **contatti per il supporto autorizzato** per il tuo team. Solo i contatti del supporto autorizzato possono contattare l&#39;Assistenza clienti Marketo direttamente tramite il [portale di supporto Marketo](https://support.marketo.com){target="_blank"}.
+È possibile che tu abbia ricevuto un&#39;e-mail da Marketo Support in cui si dichiara di essere l&#39;Amministratore dell&#39;Assistenza clienti Marketo per la tua azienda. In tal caso, puoi impostare **contatti per il supporto autorizzato** per il tuo team. Solo i contatti del supporto autorizzato possono contattare l&#39;Assistenza clienti Marketo direttamente tramite il [portale di assistenza Marketo](https://support.marketo.com){target="_blank"}.
 
 >[!NOTE]
 >
 >Il numero di contatti di supporto che è possibile creare è determinato dal pacchetto acquistato. Questo limite è specificato nell’e-mail inviata dal supporto Marketo.
 
-I documenti di contatto per il supporto autorizzato sono stati spostati nella community di Marketo. Vedi [questo articolo](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
+I documenti di contatto per il supporto autorizzato sono stati spostati nella community di Marketo. Consulta [questo articolo](https://nation.marketo.com/t5/Knowledgebase/Managing-Authorized-Support-Contacts/ta-p/254341){target="_blank"}.
 
 >[!NOTE]
 >
@@ -132,7 +132,7 @@ Scegli un CNAME per le pagine di destinazione. Alcuni esempi:
 
 La prima parte in grassetto è `[LandingPageCNAME]`. Ne avrai bisogno al punto 5.
 
-Per recuperare l’ID Munchkin che sostituirai con il CNAME della pagina di destinazione, passa all’area Amministratore.
+Per recuperare il Munchkin ID che sostituirai con il CNAME della pagina di destinazione, passa all’area Amministratore.
 
 ![](assets/setup-steps-9.png)
 
@@ -140,7 +140,7 @@ Fai clic su **Il mio account**.
 
 ![](assets/setup-steps-10.png)
 
-Copia la [!UICONTROL stringa account] dalle impostazioni della pagina di destinazione.
+Copia [!UICONTROL Account String] dalle impostazioni della pagina di destinazione.
 
 ![](assets/setup-steps-11.png)
 
@@ -176,17 +176,17 @@ La prima parte è il CNAME di tracciamento e-mail, `[EmailTrackingCNAME]`. Sarà
 >
 >I CNAME per e-mail e pagina di destinazione devono essere diversi. Inoltre, evita CNAME come &quot;track&quot; o &quot;link&quot;. Viene spesso segnalato come spam
 
-Per trovare il collegamento di tracciamento di Marketo, vai all&#39;area **[!UICONTROL Amministratore]**.
+Per trovare il collegamento di tracciamento di Marketo, vai all&#39;area **[!UICONTROL Admin]**.
 
 ![](assets/setup-steps-12.png)
 
-Fai clic su **[!UICONTROL E-mail]**.
+Fai clic su **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
-Copia il [!UICONTROL collegamento di tracciamento] dalle impostazioni e-mail.
+Copia [!UICONTROL Tracking Link] dalle impostazioni e-mail.
 
-Il [!UICONTROL collegamento di tracciamento] è nel formato: `mkto-[a-z][4 digits].com`.
+[!UICONTROL Tracking Link] è nel formato: `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
@@ -226,8 +226,7 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 
 `3)` Inserire nell&#39;elenco Consentiti Marketo.
 
-    * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli indirizzi IP elencati di seguito:
-
+    * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli IP elencati di seguito:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -264,7 +263,7 @@ Se disponiamo già di un record SPF nella voce DNS, è sufficiente aggiungervi q
 
 include:mktomail.com
 
-`[`Sostituisci **Dal dominio** con il tuo indirizzo e-mail Dal dominio (ad esempio: company.com) e **CorpIP** con l&#39;indirizzo IP del tuo server e-mail aziendale (ad esempio: 255.255.255.255).  Se intendi inviare e-mail da più domini tramite Marketo, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).`]`
+`[`Sostituisci **Dal dominio** con il tuo indirizzo e-mail Dal dominio (es: company.com) e **CorpIP** con l&#39;indirizzo IP del tuo server e-mail aziendale (es: 255.255.255.255).  Se intendi inviare e-mail da più domini tramite Marketo, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).`]`
 
 `b.` Per DKIM, creare record di risorse DNS per ogni dominio che si desidera impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
 
@@ -278,7 +277,7 @@ include:mktomail.com
 
 Fatemi sapere quando avete completato questi passaggi, in modo che io possa completare il processo di configurazione con Marketo.
 
-Grazie! Sei il migliore!
+Grazie. Sei il migliore!
 
 Amore,
 
@@ -292,35 +291,35 @@ Invia l&#39;e-mail al reparto IT. Sappiamo che il completamento di queste attivi
 
 Una volta completate le attività, segui questi passaggi per aggiungere la pagina di destinazione e i CNAME e-mail e per attivare la firma DKIM.
 
-Vai all&#39;area **[!UICONTROL Amministratore]** per aggiungere il tuo CNAME pagina di destinazione
+Vai all&#39;area **[!UICONTROL Admin]** per aggiungere il tuo CNAME pagina di destinazione
 
 ![](assets/setup-steps-15.png)
 
-Seleziona le pagine di destinazione e fai clic su **[!UICONTROL Modifica]** nell&#39;area [!UICONTROL Impostazioni].
+Selezionare le pagine di destinazione e fare clic su **[!UICONTROL Edit]** nell&#39;area [!UICONTROL Settings].
 
 ![](assets/setup-steps-16.png)
 
-Immetti il nuovo nome di dominio nel campo **[!UICONTROL Nome dominio per pagine di destinazione]**. Il modulo dovrebbe essere:
+Immettere il nuovo nome di dominio nel campo **[!UICONTROL Domain Name for Landing Pages]**. Il modulo dovrebbe essere:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-Nel campo pagina **[!UICONTROL Fallback]**, immettere l&#39;URL a cui si desidera che gli utenti accedano se una pagina di destinazione non è disponibile. Se non disponi di una pagina di fallback, puoi utilizzare la home page dell’azienda. Nel campo **[!UICONTROL Home page]**, immetti il sito Web della tua azienda.
+Nel campo pagina **[!UICONTROL Fallback]**, immettere l&#39;URL a cui si desidera che le persone accedano se una pagina di destinazione non è disponibile. Se non disponi di una pagina di fallback, puoi utilizzare la home page dell’azienda. Nel campo **[!UICONTROL Homepage]**, immetti il sito Web della tua azienda.
 
 ![](assets/setup-steps-18.png)
 
-Nell&#39;area [!UICONTROL Amministratore], seleziona **[!UICONTROL E-mail]** per aggiungere il tuo CNAME e-mail
+Nell&#39;area [!UICONTROL Admin], seleziona **[!UICONTROL Email]** per aggiungere il tuo CNAME e-mail
 
 ![](assets/setup-steps-19.png)
 
-Scorri verso il basso fino a [!UICONTROL Domini marchio]. Seleziona il dominio e fai clic su **[!UICONTROL Modifica]**.
+Scorri verso il basso fino a [!UICONTROL Branding Domains]. Selezionare il dominio e fare clic su **[!UICONTROL Edit]**.
 
 ![](assets/setup-steps-20.png)
 
 Nel campo Dominio, immetti il dominio di tracciamento e-mail. Il modulo dovrebbe essere:
 
-`[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Salva]**.
+`[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Save]**.
 
 ![](assets/setup-steps-21.png)
 
@@ -351,6 +350,6 @@ Marketo dispone di un JavaScript di tracciamento personalizzato (denominato [!DN
 
 ## Aspettative di prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Ma puoi aspettarti livelli di prestazioni pari a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto del Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Tutti i passaggi di configurazione sono terminati. L&#39;unica cosa che rimane è tuffarsi e usare Marketo!
