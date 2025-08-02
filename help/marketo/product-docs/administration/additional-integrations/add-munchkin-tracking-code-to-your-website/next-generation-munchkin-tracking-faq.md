@@ -46,8 +46,8 @@ Se utilizzi già questo filtro in un elenco avanzato (ad esempio, in una campagn
 >[!NOTE]
 >
 >**Trigger**: pagina Web Visite, pagina Web è pagina determinazione prezzi
->>**Flusso**: modifica punteggio +10 e momento di interesse
->>**Web**: pagina determinazione prezzi visualizzata
+>&#x200B;>**Flusso**: modifica punteggio +10 e momento di interesse
+>&#x200B;>**Web**: pagina determinazione prezzi visualizzata
 >
 >Con [!DNL Munchkin] V2, se una persona anonima visita la pagina dei prezzi, non entra immediatamente nella campagna. Nel momento in cui la persona anonima si farà conoscere, faremo una campagna su di lei. Lei:
 >

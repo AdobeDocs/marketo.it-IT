@@ -67,7 +67,7 @@ Configurare Marketo Sales Insight nelle edizioni Enterprise/Unlimited di Salesfo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8.png)
 
-1. Immettere il nome del sito remoto (può essere simile a `MarketoSoapAPI`). Immettere l&#39;URL del sito remoto, ovvero l&#39;URL dell&#39;host Marketo dal pannello _[!UICONTROL Soap API Configuration]_in Marketo Engage. Fare clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API Soap.
+1. Immettere il nome del sito remoto (può essere simile a `MarketoSoapAPI`). Immettere l&#39;URL del sito remoto, ovvero l&#39;URL dell&#39;host Marketo dal pannello _[!UICONTROL Soap API Configuration]_&#x200B;in Marketo Engage. Fare clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API Soap.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9.png)
 
@@ -75,7 +75,7 @@ Configurare Marketo Sales Insight nelle edizioni Enterprise/Unlimited di Salesfo
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10.png)
 
-1. Immettere il nome del sito remoto (può essere simile a `MarketoAPI`). Immettere l&#39;URL del sito remoto, che corrisponde all&#39;URL API del pannello _[!UICONTROL Rest API Configuration]_in Marketo Engage. Fare clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
+1. Immettere il nome del sito remoto (può essere simile a `MarketoAPI`). Immettere l&#39;URL del sito remoto, che corrisponde all&#39;URL API del pannello _[!UICONTROL Rest API Configuration]_&#x200B;in Marketo Engage. Fare clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
 
    >[!NOTE]
    >
@@ -91,7 +91,7 @@ A causa dei miglioramenti apportati alla sicurezza di Salesforce, i pacchetti Ap
 
 1. Fai clic su **[!UICONTROL Edit]** accanto al profilo utilizzato dagli utenti di Salesforce.
 
-1. Nella sezione _[!UICONTROL Standard Object Permission]_, abilitare l&#39;accesso **[!UICONTROL Read]**per i seguenti oggetti: [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account] e [!UICONTROL Opportunity].
+1. Nella sezione _[!UICONTROL Standard Object Permission]_, abilitare l&#39;accesso **[!UICONTROL Read]**&#x200B;per i seguenti oggetti: [!UICONTROL Lead], [!UICONTROL Contact], [!UICONTROL Account] e [!UICONTROL Opportunity].
 
 1. Fai clic su **[!UICONTROL Save]**.
 

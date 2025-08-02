@@ -12,4 +12,4 @@ ht-degree: 0%
 
 # App mobili {#mobile-apps}
 
-** ![Archiviazione eventi](assets/mobile-checkin-icon.png)Archiviazione eventi** [Archiviazione eventi per archiviare gli eventi da un tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     ** ![Momenti Marketo](assets/moments-icon.png)Momenti Marketo** [Momenti Marketo Vedi cosa è importante, quando è importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)
+**&#x200B; ![Archiviazione eventi](assets/mobile-checkin-icon.png)Archiviazione eventi** [Archiviazione eventi per archiviare gli eventi da un tablet.](https://docs.marketo.com/display/DOCS/Event+Check-in)     **&#x200B; ![Momenti Marketo](assets/moments-icon.png)Momenti Marketo** [Momenti Marketo Vedi cosa è importante, quando è importante.](https://docs.marketo.com/display/DOCS/Marketo+Moments)

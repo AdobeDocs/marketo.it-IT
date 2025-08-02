@@ -47,7 +47,7 @@ Prima di poter utilizzare questa funzionalità, devi collegare i servizi cloud d
    >
    >* Marketo Engage supporta solo archivi dal livello di consegna. Se utilizzi il livello di authoring e desideri convertirlo, contatta il [supporto Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
-1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
+1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [&#128279;](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
 
    ![Aggiungi un certificato](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
@@ -75,7 +75,7 @@ Se l’ambiente dispone di una o più connessioni all’archivio delle risorse, 
 
 ![Seleziona AEM Assets come origine immagine nella finestra di dialogo per la creazione](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* Quando apri una risorsa di contenuto esistente, scegli `AEM Assets` nella sezione _[!UICONTROL Body]_a destra.
+* Quando apri una risorsa di contenuto esistente, scegli `AEM Assets` nella sezione _[!UICONTROL Body]_&#x200B;a destra.
 
 ![Seleziona AEM Assets come origine immagine nelle proprietà](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
