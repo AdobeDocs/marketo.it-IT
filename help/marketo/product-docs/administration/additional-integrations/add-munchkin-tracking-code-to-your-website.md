@@ -59,7 +59,7 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL
 
    >[!TIP]
    >
-   >Per i siti che registrano un elevato volume di traffico (ad esempio centinaia di migliaia di visite al mese), ti consigliamo di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Per i siti che registrano un elevato volume di traffico (ad esempio centinaia di migliaia di visite al mese), ti consigliamo di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
 ## Aggiungi Codice Di Tracciamento Quando Si Utilizzano Più Aree Di Lavoro {#add-tracking-code-when-using-multiple-workspaces}
 

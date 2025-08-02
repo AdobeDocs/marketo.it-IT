@@ -19,7 +19,7 @@ Se l&#39;account Adobe Marketo Engage è connesso a MS [!DNL Dynamics] tramite u
 >* La funzione &quot;MSI non nativo&quot; è stata abilitata per l’istanza Marketo prima di avviare la configurazione di MSI. In caso contrario, e la funzionalità è già stata acquistata, contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Se non hai ancora acquistato questa funzione, contatta il team dell’account di Adobe (il tuo Account Manager).
 >* Scarica [pacchetto MSI per sincronizzazione personalizzata](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 >* Una sottoscrizione a MS Dynamics con installazione MSI (al momento sono supportati solo [Dynamics Online](/help/marketo/product-docs/marketo-sales-insight/msi-for-microsoft-dynamics/installing/install-and-configure-marketo-sales-insight-in-microsoft-dynamics-online.md){target="_blank"}).
->* Configurazione dell&#39;API REST di Marketo [completata](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Le API CRUD esposte costituiranno la base per l’esecuzione della sincronizzazione non nativa.
+>* Configurazione dell&#39;API REST di Marketo [completata](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}. Le API CRUD esposte costituiranno la base per l’esecuzione della sincronizzazione non nativa.
 >* Leggi [questo post di blog](https://developers.marketo.com/blog/create-and-associate-leads-companies-and-opportunities-with-the-marketo-rest-api/){target="_blank"} per comprendere l&#39;oggetto e le relazioni.
 
 ## Una corretta sincronizzazione non nativa per MSI richiede quanto segue {#successful-non-native-sync-for-msi-requires-the-following}
@@ -48,7 +48,7 @@ Se l&#39;account Adobe Marketo Engage è connesso a MS [!DNL Dynamics] tramite u
     </tbody>
    </table>
 
-   * [Documentazione API per il venditore](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
+   * [Documentazione API per il venditore](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/sales-persons){target="_blank"}
    * [Documentazione API per la sincronizzazione del venditore](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Sincronizza gli account di MS [!DNL Dynamics] con Marketo.
@@ -80,7 +80,7 @@ Se l&#39;account Adobe Marketo Engage è connesso a MS [!DNL Dynamics] tramite u
     </tbody>
    </table>
 
-   * Documentazione API per le società: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
+   * Documentazione API per le società: [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/companies](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/companies){target="_blank"}
    * Documentazione API per la sincronizzazione delle società: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Sales-Persons/operation/syncSalesPersonsUsingPOST){target="_blank"}
 
 1. Sincronizza i lead/contatti di MS [!DNL Dynamics] con Marketo.
@@ -117,7 +117,7 @@ Se l&#39;account Adobe Marketo Engage è connesso a MS [!DNL Dynamics] tramite u
     </tbody>
    </table>
 
-   * Documentazione API per lead: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
+   * Documentazione API per lead: [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/lead-database](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/lead-database){target="_blank"}
    * Documentazione API per la sincronizzazione dei lead: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"}
 
 1. Sincronizza le opportunità di MS [!DNL Dynamics] con Marketo.
@@ -154,7 +154,7 @@ Se l&#39;account Adobe Marketo Engage è connesso a MS [!DNL Dynamics] tramite u
     </tbody>
    </table>
 
-   * Documentazione API per l&#39;opportunità: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentazione API per l&#39;opportunità: [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentazione API per la sincronizzazione delle opportunità: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Sincronizza i ruoli dei contatti di MS [!DNL Dynamics] con Marketo.
@@ -191,7 +191,7 @@ Se l&#39;account Adobe Marketo Engage è connesso a MS [!DNL Dynamics] tramite u
     </tbody>
    </table>
 
-   * Documentazione API per l&#39;opportunità: [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
+   * Documentazione API per l&#39;opportunità: [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/opportunities](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/opportunities){target="_blank"}
    * Documentazione API per la sincronizzazione delle opportunità: [https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Opportunities/operation/syncOpportunitiesUsingPOST){target="_blank"}
 
 1. Sincronizza i campi Ultimo momento di interesse/Punteggio MSI con MS [!DNL Dynamics].
