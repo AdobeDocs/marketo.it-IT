@@ -3,9 +3,9 @@ description: Progettazione di webinar interattivi - Documentazione di Marketo - 
 title: Progettazione di webinar interattivi
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 86314f93535df1fe0568ba1f609ecf35799383fb
+source-git-commit: 75d0be47bdf5b547444b74defc3e2740a86d6c11
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '496'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
    >[!TIP]
    >
-   >Il webinar verrà impostato sulla lingua predefinita nell’istanza del Marketo Engage, ma puoi scegliere di cambiare lingua per ogni webinar utilizzando il menu a discesa sopra l’anteprima.
+   >Il webinar verrà impostato sulla lingua predefinita nell’istanza di Marketo Engage, ma puoi scegliere di cambiare lingua per ogni webinar utilizzando il menu a discesa sopra l’anteprima.
 
 1. È possibile selezionare layout diversi per l&#39;anteprima. Per continuare, fare clic su **Usa modello**.
 
@@ -62,7 +62,7 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Per informazioni dettagliate sulle room e sui modelli, consultare la sezione &quot;Modelli e layout della sala riunioni&quot; del [presente Adobe della Guida](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Per informazioni dettagliate sulle room e sui modelli, consultare la sezione &quot;Modelli e layout della sala riunioni&quot; del [presente articolo della Guida di Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Al termine della progettazione del webinar, fare clic su **Esci dalla chat**.
 
@@ -75,3 +75,7 @@ Scopri come progettare il webinar in base alle tue esigenze.
 **Layout**: fa riferimento ai vari modi in cui i diversi componenti necessari per garantire il successo del webinar sono disposti in un particolare modello. Un singolo modello può avere più layout tra cui scegliere. I componenti essenziali del webinar rimarrebbero gli stessi in tutti i modelli. La disposizione selezionata è più adatta allo stile o alle esigenze dell&#39;utente o del relatore che ha consegnato il webinar.
 
 **Pod**: componente all&#39;interno di un modello che esegue una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un sondaggio. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire in modo casuale con loro può essere un&#39;attività distribuita tramite il chat pod. Sono disponibili diversi altri pod, ad esempio Condivisione, Appunti, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e Domande e risposte.
+
+>[!MORELIKETHIS]
+>
+>[Scopri come aggiungere relatori e/o co-host](/help/marketo/product-docs/demand-generation/events/interactive-webinars/add-a-webinar-team.md){target="_blank"}
