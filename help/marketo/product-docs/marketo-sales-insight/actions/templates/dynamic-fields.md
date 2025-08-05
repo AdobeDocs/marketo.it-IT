@@ -3,9 +3,9 @@ description: Campi dinamici - Documentazione di Marketo - Documentazione del pro
 title: Campi dinamici
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '527'
+source-wordcount: '525'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Insight Actions] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [&#128279;](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Insight Actions] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 
@@ -61,9 +61,9 @@ Questo strumento viene utilizzato per `auto-personalize your email` e consente d
 | `{{friendly_unsubscribe}}` | Stanco di tutte le email? Per favore, fammelo sapere qui |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn, Senior Technical Writer di Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Scrittore tecnico senior |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **Aspetti da considerare**:
 

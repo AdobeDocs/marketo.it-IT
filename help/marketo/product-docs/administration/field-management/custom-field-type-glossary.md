@@ -4,9 +4,9 @@ description: Glossario dei tipi di campo personalizzati - Documentazione di Mark
 title: Glossario dei tipi di campo personalizzati
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '595'
+source-wordcount: '594'
 ht-degree: 2%
 
 ---
@@ -63,7 +63,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 **Nome esempio:** e-mail alternativa - Mantieni un indirizzo e-mail alternativo per le tue persone (non può effettivamente inviare e-mail a questo campo come il campo indirizzo e-mail predefinito, che è speciale)
 
-**Valori di esempio:** name@company.com
+**Valori di esempio:** <name@company.com>
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto
 
@@ -133,6 +133,6 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 **Nome esempio:** Blog - crea un campo per memorizzare gli URL del blog della persona
 
-**Valore di esempio:** www.myblog.com
+**Valore di esempio:** &lt;www.myblog.com>
 
 **Operatori**: è, non è, inizia con, non inizia con, contiene, non contiene, è vuoto, non è vuoto

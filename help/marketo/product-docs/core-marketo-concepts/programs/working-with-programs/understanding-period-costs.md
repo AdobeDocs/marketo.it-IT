@@ -4,7 +4,7 @@ description: Informazioni sui costi dei periodi - Documentazione di Marketo - Do
 title: Informazioni sui costi del periodo
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Immaginate un evento, come un webinar, che si verifica a marzo. Le nuove persone
 
    ![](assets/graph1.png)
 
-   ...i contatti aggiunti nei mesi precedenti e successivi contano *solo* per marzo.
+   ...i contatti aggiunti nei mesi precedenti e successivi contano _solo_ per marzo.
 
    ![](assets/graph2.png)
 

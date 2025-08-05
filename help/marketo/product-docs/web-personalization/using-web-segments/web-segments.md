@@ -4,7 +4,7 @@ description: Segmenti web - Documentazione di Marketo - Documentazione del prodo
 title: Segmenti web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -177,7 +177,7 @@ Account denominati **-**
 * **Appartiene a queste società (nomi specifici)**
 
    * Seleziona la società di destinazione dal menu a discesa &quot;Seleziona la società da aggiungere&quot;.
-   * Puoi digitare il nome esatto dell’organizzazione di destinazione. *Si consiglia _sempre_ di utilizzare gli Elenchi di account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedi sotto).
+   * Puoi digitare il nome esatto dell’organizzazione di destinazione. *Si consiglia *sempre* di utilizzare gli Elenchi di account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedi sotto).
 
 **Elenco account denominati**
 
@@ -187,7 +187,7 @@ Seleziona da un [elenco account denominati](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Escludi ISP**
 
@@ -286,7 +286,7 @@ Aggiungi il valore Evento di destinazione. Ad esempio da fonti di dati di terze 
 
 **API contesto utente**
 
-Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

@@ -4,9 +4,9 @@ description: Funzionamento del tracciamento delle risposte - Documentazione di M
 title: Funzionamento del tracciamento delle risposte
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Il tracciamento delle risposte viene eseguito osservando un ID messaggio present
 
 Se [!DNL Sales Connect] non riesce a tenere traccia della risposta del potenziale cliente all&#39;e-mail, non potrà interrompere una campagna basata sul rilevamento delle risposte o registrare la risposta a [!DNL Salesforce].  Cosa significa che un indirizzo e-mail può rispondere?
 
-Ciò significa che se invii un’e-mail a flynn@flynnsarcade.com e lui risponde con kevinf@flynnsarcade.com, saremo in grado di tenere traccia della risposta. Inoltre, se invii un’e-mail a flynn@flynnsarcade.com e CC alan@encom.com e Alan ti risponde, la risposta verrà rilevata e la campagna verrà terminata.
+Ciò significa che se invii un&#39;e-mail a <flynn@flynnsarcade.com> e lui risponde con <kevinf@flynnsarcade.com>, saremo in grado di tenere traccia della risposta. Inoltre, se invii un&#39;e-mail a <flynn@flynnsarcade.com> e CC <alan@encom.com> e Alan ti risponde, la risposta verrà rilevata e la campagna verrà terminata.

@@ -4,7 +4,7 @@ description: Modello 2D - Documentazione Marketo - Documentazione del prodotto
 title: Modello 2D
 exl-id: 365cc108-ed50-4229-b267-9688ed31056e
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 2D {#template-2d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=it)
+[Modello 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)

@@ -4,7 +4,7 @@ description: Modello 1B - Documentazione di Marketo - Documentazione del prodott
 title: Modello 1B
 exl-id: b6085e44-b40c-4f09-a301-057179f5fe0b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 1B {#template-1b}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 1B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html?lang=it)
+[Modello 1B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)

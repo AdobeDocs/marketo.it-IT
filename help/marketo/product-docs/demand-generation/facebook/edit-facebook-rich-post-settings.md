@@ -6,9 +6,9 @@ exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Le _app social_ di Marketo consentono ai lead di condividere le pagine di destin
 
 Puoi specificare i tipi di informazioni sulla pagina da utilizzare nei [!DNL Facebook] post avanzati generati da condivisioni dalla pagina di destinazione.
 
-1. Seleziona **[!UICONTROL Facebook Message]** nell&#39;editor per il tuo **[!DNL YouTube*]* video o pulsante social.
+1. Seleziona **[!UICONTROL Facebook Message]** nell&#39;editor per il tuo video __[!DNL YouTube_]_o pulsante social.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

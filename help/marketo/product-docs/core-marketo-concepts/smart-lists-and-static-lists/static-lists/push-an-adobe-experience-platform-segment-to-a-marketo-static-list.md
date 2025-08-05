@@ -3,7 +3,7 @@ description: Invio di un segmento Adobe Experience Platform a un elenco statico 
 title: Invio di un segmento Adobe Experience Platform a un elenco statico Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -44,7 +44,6 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 1. Fai clic su **[!UICONTROL Configure New Destination]**.
 
    ![](assets/push-an-adobe-experience-platform-segment-6.png)
-
 
 1. In Tipo di account, selezionare il pulsante di opzione Account esistente o nuovo (in questo esempio, si sta scegliendo **[!UICONTROL Existing Account]**). Fai clic sull’icona Seleziona account.
 
@@ -100,7 +99,7 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
    >[!NOTE]
    >
-   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
+   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
 
 1. Mappare il cognome e il nome della società facendo nuovamente clic su **[!UICONTROL Add New Mapping]** e ripetendo due volte il passaggio 15, scegliendo **[!UICONTROL lastName]** e quindi **[!UICONTROL companyName]**.
 

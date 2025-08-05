@@ -4,7 +4,7 @@ description: Visualizza la dashboard del programma e-mail - Documentazione di Ma
 title: Visualizza la dashboard del programma e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Se hai aggiunto un test A/B al programma e-mail e il test è attualmente in esec
 
 ## Visualizzazione programma e-mail {#email-program-view}
 
-In alternativa, se non hai aggiunto un test A/B *o* se il test è terminato, dovresti visualizzare quanto segue:
+In alternativa, se non hai aggiunto un test A/B _o_ se il test è terminato, dovresti visualizzare quanto segue:
 
 ![](assets/image2014-9-12-14-3a3-3a3.png)
 

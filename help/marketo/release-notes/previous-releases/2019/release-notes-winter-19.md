@@ -3,7 +3,7 @@ unique-page-id: 17727823
 description: Note sulla versione -Inverno '19 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -53,8 +53,8 @@ Includi fino a cinque indirizzi CC per destinatario nelle e-mail inviate tramite
 * **Servizio e-mail**: migliore recapito messaggi, migliore tracciamento delle risposte, funzionalità e-mail pianificate e funzionalità e-mail in blocco tramite la connessione a [!DNL Microsoft Outlook] (tramite Office365 o On-Prem tramite la scheda Connessione e-mail).
 * **Nuove impostazioni amministratore**: sono state aggiunte due pagine amministratore per ottimizzare l&#39;istanza Sales Engage
 
-   * _Gestione team_ supporta un processo di configurazione dell&#39;account semplice consentendo agli amministratori di modificare abbonamenti e team.
-   * _Impostazioni amministratore Salesforce_ consente ai team di configurare la sincronizzazione SFDC in modo più rapido e semplice che mai.
+   * *Gestione team* supporta un processo di configurazione dell&#39;account semplice consentendo agli amministratori di modificare abbonamenti e team.
+   * *Impostazioni amministratore Salesforce* consente ai team di configurare la sincronizzazione SFDC in modo più rapido e semplice che mai.
 
 * **Plug-in OWA per[!DNL Windows]**: con un solo componente aggiuntivo, tutti i client [!DNL Windows Office365] saranno supportati in Sales Engage, consentendo l&#39;utilizzo di feed dinamici in Outlook. Il nuovo plug-in sarà disponibile in Microsoft Store.
 * **Spintore attività**: sincronizza il coinvolgimento delle vendite con la piattaforma principale di Marketo per sfruttare le informazioni di marketing in tempo reale.

@@ -4,10 +4,10 @@ description: Glossario dei campi dinamici - Documentazione di Marketo - Document
 title: Glossario dei campi dinamici
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 1%
+source-wordcount: '240'
+ht-degree: 0%
 
 ---
 
@@ -26,9 +26,9 @@ Questo strumento viene utilizzato per `auto-personalize your email` e consente d
 | `{{friendly_unsubscribe}}` | Stanco di tutte le email? Per favore, fammelo sapere qui |
 | `{{my_name}}` | Keith Flynn |
 | `{{my_signature}}` | Keith Flynn, Senior Technical Writer di Adobe |
-| `{{personal_email}}` | keith@pickyouremail.com |
+| `{{personal_email}}` | <keith@pickyouremail.com> |
 | `{{title}}` | Scrittore tecnico senior |
-| `{{work_website}}` | https://www.adobe.com |
+| `{{work_website}}` | <https://www.adobe.com> |
 
 **Aspetti da considerare**:
 

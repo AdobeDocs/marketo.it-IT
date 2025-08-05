@@ -4,9 +4,9 @@ description: Passaggio 2 di 3 -Creare un utente Salesforce per Marketo (Enterpri
 title: 'Passaggio 2 di 3: creazione di un utente Salesforce per Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '351'
 ht-degree: 2%
 
 ---
@@ -148,7 +148,7 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
 >[!TIP]
 >
->Creare un account [!DNL Salesforce] dedicato (ad esempio, marketo@yourcompany.com) per distinguere le modifiche apportate da Marketo rispetto ad altri utenti [!DNL Salesforce].
+>Creare un account [!DNL Salesforce] dedicato (ad esempio, <marketo@yourcompany.com>) per distinguere le modifiche apportate da Marketo rispetto ad altri utenti [!DNL Salesforce].
 
 1. Digitare &quot;Gestisci utenti&quot; nella barra di ricerca di navigazione, quindi fare clic su **[!UICONTROL Users]**. Fai clic su **[!UICONTROL New User]**.
 

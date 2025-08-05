@@ -4,7 +4,7 @@ description: Attivatori e filtri per campagne intelligenti mobile - Documentazio
 title: Attivatori e filtri per campagne intelligenti mobile
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 1%
@@ -103,7 +103,7 @@ L&#39;App Mobile È/È Stata Aperta
 
 Ha/Ha Avuto Attività Di App Mobile
 
-Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Ha un&#39;attività in app mobile - trigger
 
@@ -129,7 +129,7 @@ I vincoli di azione ti consentono di utilizzare il trigger e i filtri per monito
 >
 >**Esempio**
 >
->Nel tipo di azione *Acquisti*, è presente un&#39;azione molto specifica, con gli altri vincoli che la definiscono:
+>Nel tipo di azione _Acquisti_, è presente un&#39;azione molto specifica, con gli altri vincoli che la definiscono:
 >
 >* Ha comprato una camicia
 >   * Era rosso

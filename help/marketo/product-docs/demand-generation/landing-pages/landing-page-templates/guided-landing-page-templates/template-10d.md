@@ -4,7 +4,7 @@ description: Modello 10D - Documentazione Marketo - Documentazione del prodotto
 title: Modello 10D
 exl-id: cd6a2879-032b-4722-ab6a-561bbccdff31
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 10D {#template-10d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 10D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)
 
 ![](assets/image2015-7-27-11-3a3-3a12.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html?lang=it)
+[Modello 10D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10d.html)

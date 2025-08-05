@@ -4,7 +4,7 @@ description: Pianificazione dei programmi e-mail con fuso orario del destinatari
 title: Pianificazione dei programmi e-mail con fuso orario del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '794'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Questo offre due opzioni:
 >
 >* **[!UICONTROL Deliver the following day in recipient’s time zone]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail il *mercoledì* alle 9:00am.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail _in base alle impostazioni del fuso orario dell&#39;abbonamento_. Pertanto, se le [impostazioni del fuso orario dell&#39;abbonamento](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00am PDT (qualsiasi ora si trovi nel proprio fuso orario).
+>* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le [impostazioni del fuso orario dell&#39;abbonamento](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00am PDT (qualsiasi ora si trovi nel proprio fuso orario).
 
 >[!NOTE]
 >
@@ -63,7 +63,7 @@ Una volta approvato il programma, quest’ultimo inizia a essere eseguito entro 
 
 >[!NOTE]
 >
->Anche se il programma avvierà il _processo_ di invio di e-mail in 15 minuti, le e-mail non verranno _consegnate_ in quel momento. I destinatari riceveranno comunque le e-mail in base al **[!UICONTROL Time Zone Settings]** scelto.
+>Anche se il programma avvierà il *processo* di invio di e-mail in 15 minuti, le e-mail non verranno *consegnate* in quel momento. I destinatari riceveranno comunque le e-mail in base al **[!UICONTROL Time Zone Settings]** scelto.
 
 ## Scenario 2: più di 25 ore {#scenario-more-than-hours}
 
@@ -81,8 +81,8 @@ Ciò significa che se ti trovi in America/Los Angeles e desideri abilitare sia H
 
 In breve, i programmi e-mail pianificati con il fuso orario del destinatario devono iniziare a essere eseguiti all’ora pianificata nel fuso orario più vicino (ovvero, quando raggiunge prima la mezzanotte) per adattarsi a ogni fuso orario. Quindi, se pianifichi un programma e-mail...
 
-* **con un tempo di consegna _entro_ 25 ore**, il programma inizia a funzionare entro 15 minuti. I destinatari che hanno già superato l’orario pianificato riceveranno l’e-mail in base alle impostazioni del fuso orario scelte.
-* **con un tempo di consegna _superiore a_ 25 ore nel futuro**, il programma inizia a essere eseguito all&#39;ora pianificata nel fuso orario più vicino (UTC +14:00).
+* **con un tempo di consegna *entro* 25 ore**, il programma inizia a funzionare entro 15 minuti. I destinatari che hanno già superato l’orario pianificato riceveranno l’e-mail in base alle impostazioni del fuso orario scelte.
+* **con un tempo di consegna *superiore a* 25 ore nel futuro**, il programma inizia a essere eseguito all&#39;ora pianificata nel fuso orario più vicino (UTC +14:00).
 * **con Inizio principale**, il programma inizia l&#39;elaborazione 12 ore prima dell&#39;ora pianificata nel fuso orario meno recente (UTC +14:00).
 
 >[!CAUTION]

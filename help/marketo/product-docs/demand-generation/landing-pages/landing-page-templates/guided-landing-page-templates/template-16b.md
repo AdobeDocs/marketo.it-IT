@@ -4,7 +4,7 @@ description: Modello 16B - Documentazione Marketo - Documentazione del prodotto
 title: Modello 16B
 exl-id: 99bdd484-e2c2-412d-b309-1681d27025e1
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 16B {#template-16b}
 
-Fai clic con il pulsante destro del mouse per [scaricare il modello 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=it)
+Fai clic con il pulsante destro del mouse per [scaricare il modello 16B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)
 
 ![](assets/image2015-8-14-11-3a2-3a51.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html?lang=it)
+[Modello 16B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16b.html)

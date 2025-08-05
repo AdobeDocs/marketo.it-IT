@@ -4,7 +4,7 @@ description: Modello 12C - Documentazione Marketo - Documentazione del prodotto
 title: Modello 12C
 exl-id: 23229f5a-6d79-4501-bd3b-56fccc2fa4cd
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 12C {#template-12c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=it)
+[Modello 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)

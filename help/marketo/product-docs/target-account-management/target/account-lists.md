@@ -4,7 +4,7 @@ description: '[!UICONTROL Account Lists] - Documentazione di Marketo - Documenta
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -61,7 +61,7 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 
 >[!NOTE]
 >
->Questi passaggi si applicano solo agli elenchi di account. Gli elenchi di account _Dynamic_ utilizzano il nome delle visualizzazioni account CRM associate.
+>Questi passaggi si applicano solo agli elenchi di account. Gli elenchi di account *Dynamic* utilizzano il nome delle visualizzazioni account CRM associate.
 
 1. Selezionare l&#39;account che si desidera rinominare, fare clic sull&#39;elenco a discesa **[!UICONTROL Account List Actions]** e selezionare **[!UICONTROL Rename Account List]**.
 

@@ -3,7 +3,7 @@ description: Scopri le best practice per l’implementazione di una nuova istanz
 title: Da dove iniziare
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -51,4 +51,3 @@ Introduzione alla community:
 1. Fai clic su **Continua con Adobe ID** e seleziona la sottoscrizione principale nella pagina di accesso.
 1. Al momento dell&#39;accesso, completa il profilo community.
 1. Dopo aver inviato le informazioni, si atterra sulla homepage della community e si è pronti a partire!
-

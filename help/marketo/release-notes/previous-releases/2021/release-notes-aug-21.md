@@ -2,7 +2,7 @@
 description: Note sulla versione - Agosto 2021 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - agosto 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '903'
 ht-degree: 0%
@@ -63,8 +63,8 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ![](assets/yellow-star.png)
 
-* Integrazione di Forms **[!DNL Bizible][!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione di [!DNL LinkedIn] Ads con [!DNL Bizible]. 
- 
+* Integrazione di Forms **[!DNL Bizible][!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione di [!DNL LinkedIn] Ads con [!DNL Bizible].
+
 * **Dashboard Velocity migliorato**: è stata aggiunta una nuova metrica di velocità e un nuovo filtro del dashboard per ottenere informazioni più approfondite. Questa dashboard viene utilizzata dagli esperti di marketing per comprendere la velocità di lead e opportunità di ogni fase e l’efficienza di diverse forme di coinvolgimento di marketing e vendita.
 
 * **Nuovo dashboard del Percorso cascata per coorte**: consente agli addetti al marketing di visualizzare la progressione di una coorte selezionata attraverso un classico insieme di fasi &quot;cascata della domanda&quot;, fornendo una rapida comprensione dei tassi di conversione e della causalità della conversione implicita per ogni fase.

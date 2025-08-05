@@ -4,9 +4,9 @@ description: Diagnostica Salesforce - Documentazione Marketo - Documentazione de
 title: Diagnostica Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '1324'
+source-wordcount: '1322'
 ht-degree: 0%
 
 ---
@@ -192,8 +192,8 @@ inserire nell&#39;elenco Consentiti **Passaggi per la risoluzione dei problemi:*
 **Errore:** TXN_SECURITY_NO_ACCESS
 **Categoria:** Accesso/Convalida
 **Messaggio:** L&#39;operazione richiesta non è consentita a causa di un criterio di sicurezza nell&#39;organizzazione. Contatta l’amministratore.<br/>
-**In corso:** È stato impostato un tipo di restrizione di sicurezza. Vedere https://developer.salesforce.com/forums/?id=&quot;ID record&quot;
-**Passaggi per la risoluzione dei problemi:** Rivolgiti all&#39;amministratore [!DNL Salesforce] e scopri quale potrebbe essere la restrizione specifica.
+**In corso:** È stato impostato un tipo di restrizione di sicurezza. Vedere l&#39;ID <https://developer.salesforce.com/forums/?id="record>&quot;
+**Passaggi per la risoluzione dei problemi:** Rivolgiti al tuo amministratore [!DNL Salesforce] e scopri quale potrebbe essere la restrizione specifica.
 
 **Errore:** IMPOSSIBILE_BLOCCARE_RIGA
 **Categoria:** intermittente

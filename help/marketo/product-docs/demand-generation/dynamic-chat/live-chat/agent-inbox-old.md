@@ -4,7 +4,7 @@ title: Casella in entrata agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '301'
 ht-degree: 1%
@@ -82,4 +82,3 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 1. Il visitatore della chat sarà in grado di prenotare una riunione.
 
    ![](assets/agent-inbox-10.png)
-

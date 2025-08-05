@@ -4,7 +4,7 @@ description: Modello 13D - Documentazione Marketo - Documentazione del prodotto
 title: Modello 13D
 exl-id: 5f889a36-31d1-4a98-a91c-7c1b21b148d6
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 13D {#template-13d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 13D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)
 
 ![](assets/image2015-8-11-14-3a17-3a5.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html?lang=it)
+[Modello 13D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13d.html)

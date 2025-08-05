@@ -4,7 +4,7 @@ description: Rapporto sulle prestazioni delle e-mail - Documenti Marketo - Docum
 title: Rapporto prestazioni e-mail
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -36,6 +36,7 @@ Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte,
    [Selezionare le colonne del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report delle prestazioni delle e-mail:
 
    <table><thead>
+
 <tr>
     <th>Colonna</th>
     <th>Descrizione</th>
@@ -75,9 +76,9 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 
 * **Regola 1**: ogni record di attività e-mail è impostato su uno dei seguenti valori: _Consegnato_, _Rimbalzato_, _Rimbalzato temporaneamente_ o _In sospeso_.
 
-* **Regola 2**: se il record e-mail mostra *[!UICONTROL Opened]*, viene conteggiato come *Consegnato*.
+* **Regola 2**: se il record e-mail mostra _[!UICONTROL Opened]_, viene conteggiato come_ Consegnato _.
 
-* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_&#x200B;o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
+* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
 
 * **Regola 4**: se l&#39;e-mail è _[!UICONTROL Opened]_, i messaggi non recapitati vengono ignorati. Se l&#39;e-mail non è stata aperta,_ Non recapitato _ha la precedenza su_ Non recapitato _e_ Non recapitato _.
 

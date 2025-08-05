@@ -3,7 +3,7 @@ description: Sincronizzazione attività promemoria con Salesforce - Documentazio
 title: Sincronizzazione attività promemoria con Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -81,4 +81,4 @@ Per attivare questa sincronizzazione, seleziona la casella di sincronizzazione n
 
 >[!NOTE]
 >
->Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in [!DNL Sales Connect] e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto [!DNL Salesforce] per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Salesforce] _non_ verranno sincronizzati con il campo dell&#39;oggetto attività promemoria [!DNL Sales Connect].
+>Il campo dell&#39;oggetto di un&#39;attività può essere aggiornato in [!DNL Sales Connect] e tale aggiornamento verrà sincronizzato nel campo dell&#39;oggetto [!DNL Salesforce] per l&#39;attività sincronizzata corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nelle impostazioni [Personalizzazione dettagli attività](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/configure-salesforce-activity-detail-customization.md). Al contrario, eventuali aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Salesforce] *non* verranno sincronizzati con il campo dell&#39;oggetto attività promemoria [!DNL Sales Connect].

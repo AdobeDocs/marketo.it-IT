@@ -3,7 +3,7 @@ description: Utilizzo delle opzioni SMS in una campagna avanzata - Documentazion
 title: Utilizzo delle opzioni SMS in una campagna avanzata
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Il trigger **Click Link in SMS Message** avvia un flusso quando una persona fa c
 
 Il filtro **Abbonato all&#39;elenco Vibes** trova chiunque abbia *mai* abbonato a Vibes. Sono incluse sia le persone cancellate che quelle cancellate, anche se le persone cancellate vengono omesse dal flusso. Questo filtro è più adatto per il reporting.
 
-Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova _chiunque_ è attualmente abbonato a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi Smart.
+Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova *chiunque* è attualmente abbonato a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi Smart.
 
 >[!NOTE]
 >

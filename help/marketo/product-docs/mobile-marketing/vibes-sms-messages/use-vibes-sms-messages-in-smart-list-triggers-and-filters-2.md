@@ -4,7 +4,7 @@ title: Utilizzare i messaggi Vibes SMS in Smart List Triggers and Filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Puoi anche utilizzare i filtri Vibes negli elenchi avanzati. Il filtro **[!UICON
 
 ![](assets/subscribed-to-vibes-list-filter-real.jpg)
 
-Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova _chiunque_ è attualmente abbonato a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi Smart.
+Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova *chiunque* è attualmente abbonato a Vibes ed è più adatto per l&#39;utilizzo in campagne o elenchi Smart.
 
 ![](assets/image001.png)
 

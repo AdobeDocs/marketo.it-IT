@@ -4,9 +4,9 @@ description: Note sulla versione - Luglio 2015 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2015
 exl-id: d7658718-27fd-4699-8fac-c30a59802dfd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Hai configurato diverse campagne RTP personalizzate e hai notato che alcune di e
 
 **Accesso agli oggetti aziendali tramite API REST**: l&#39;API REST ora fornisce accesso all&#39;oggetto società Marketo (alias account). Ciò significa che puoi leggere, aggiornare ed eliminare gli oggetti aziendali creati in Marketo e associare i lead a tali aziende utilizzando l&#39;API [!DNL Lead] aggiornata.
 
-Ulteriori informazioni [ulteriori]https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies) nella nostra guida di riferimento per l&#39;API aziendale.
+Ulteriori informazioni [ulteriori]<https://developer.adobe.com/marketo-apis/api/mapi/#tag/Companies>) nella nostra guida di riferimento per l&#39;API aziendale.
 
 ## Accesso al recapito messaggi e-mail {#access-email-deliverability}
 

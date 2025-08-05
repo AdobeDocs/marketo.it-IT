@@ -4,7 +4,7 @@ description: Visualizzare la dashboard delle notifiche push - Documentazione di 
 title: Visualizzare il dashboard delle notifiche push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >La metrica _Inviato_ può riflettere più invii del numero esatto di persone a cui è stata inviata la notifica push. Questo perché viene calcolato in base al *numero di dispositivi* idonei a ricevere il messaggio push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
+   >La metrica _Inviato_ può riflettere più invii del numero esatto di persone a cui è stata inviata la notifica push. Questo perché viene calcolato in base al _numero di dispositivi_ idonei a ricevere il messaggio push. Ad esempio, se una singola persona dispone di tre dispositivi, il dashboard registra tre invii, non uno.
 
    >[!MORELIKETHIS]
    >

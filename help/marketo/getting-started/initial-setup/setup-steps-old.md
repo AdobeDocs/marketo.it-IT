@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
-source-wordcount: '2052'
+source-wordcount: '2051'
 ht-degree: 1%
 
 ---
@@ -162,7 +162,7 @@ Puoi adottare diverse misure per garantire che le e-mail raggiungano il maggior 
 * **Imposta un record MX per il dominio.** Un record MX ti consente di ricevere e-mail al dominio da cui stai inviando l&#39;e-mail per elaborare le risposte e i risponditori automatici. Se invii dal dominio aziendale, probabilmente lo hai già configurato. In caso contrario, puoi in genere impostare la mappatura sul record MX del dominio aziendale.
 * **Impostazioni consigliate per l&#39;indirizzo Da.** In tutte le campagne e-mail devi utilizzare un dominio e-mail valido, esistente e funzionante nell&#39;Indirizzo mittente. Può essere utile configurare un sottodominio del dominio aziendale piuttosto che inviare dati dal dominio aziendale. In questo modo i problemi del flusso di posta aziendale non influiranno sul flusso di posta Marketo e viceversa. Inoltre, l&#39;invio di posta da `something@nonexistentdomain.com` causerà il filtraggio o il blocco delle e-mail. Qualsiasi dominio utilizzato nell&#39;indirizzo mittente deve avere un account postmaster@ valido e funzionante e un account abusivo@.
 
-Se utilizzi le app Google per l’hosting dell’e-mail aziendale, non potrai creare e-mail di abuso@ o postmaster@ nel tuo dominio. Per ovviare a questo problema, è necessario creare gruppi denominati &quot;abuso&quot; e &quot;postmaster&quot;. Gli utenti che sono membri di questi gruppi riceveranno e-mail inviate a tali indirizzi (ad esempio, postmaster@domain.com). Le istruzioni dettagliate per la creazione dei gruppi sono disponibili [qui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Se utilizzi le app Google per l’hosting dell’e-mail aziendale, non potrai creare e-mail di abuso@ o postmaster@ nel tuo dominio. Per ovviare a questo problema, è necessario creare gruppi denominati &quot;abuso&quot; e &quot;postmaster&quot;. Gli utenti membri di questi gruppi riceveranno le e-mail inviate a tali indirizzi (ad esempio, <postmaster@domain.com>). Le istruzioni dettagliate per la creazione dei gruppi sono disponibili [qui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
 Scegli un CNAME per i collegamenti di tracciamento e-mail (scegli un CNAME _diverso_ dalla pagina di destinazione selezionata al passaggio 3). Alcuni esempi:
 
@@ -227,7 +227,6 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 `3)` Inserire nell&#39;elenco Consentiti Marketo.
 
     * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli IP elencati di seguito:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -351,6 +350,6 @@ Marketo dispone di un JavaScript di tracciamento personalizzato (denominato [!DN
 
 ## Aspettative di prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Tutti i passaggi di configurazione sono terminati. L&#39;unica cosa che rimane è tuffarsi e usare Marketo!

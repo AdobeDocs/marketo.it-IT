@@ -3,7 +3,7 @@ description: Note sulla versione - Gennaio 2023 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '626'
 ht-degree: 8%
@@ -41,6 +41,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Attiva/Disattiva</a></td>
   </tr>
   </tbody>
+
 </table>
 
 * **Utilizzo avanzato del componente per i dettagli del modello e-mail e dei frammenti di codice**: la nuova scheda Utilizzo da parte dell&#39;interfaccia utente fornisce informazioni aggiuntive su ciascuna delle risorse Utilizzo da, ad esempio quando è stata modificata l&#39;ultima volta e da chi. Puoi eseguire facilmente l’analisi tramite le funzionalità di ricerca, ordinamento e filtro. Questo nuovo componente dell’interfaccia utente verrà incorporato a partire dalle risorse Modello e-mail e Snippet.
@@ -88,7 +89,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=it">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>

@@ -4,7 +4,7 @@ description: Modello 5C - Documentazione Marketo - Documentazione del prodotto
 title: Modello 5C
 exl-id: b0e6d27e-676a-4162-a34f-65ace83f27c9
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 5C {#template-5c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 5C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)
 
 ![](assets/image2015-7-29-14-3a59-3a31.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html?lang=it)
+[Modello 5C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5c.html)

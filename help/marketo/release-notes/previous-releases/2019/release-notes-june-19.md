@@ -4,7 +4,7 @@ description: Note sulla versione -19 giugno - Documentazione Marketo - Documenta
 title: Note sulla versione - Giugno '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 
 ## Account-Based Marketing {#account-based-marketing}
 
-* Corrispondenza account **[!DNL LinkedIn] (BETA)**: è ora disponibile una nuova funzionalità ABM in versione beta che consente di inviare elenchi di account noti e con spazi vuoti direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti ABM di Marketo.
+* Corrispondenza account **[!DNL LinkedIn](BETA)**: è ora disponibile una nuova funzionalità ABM in versione beta che consente di inviare elenchi di account noti e con spazi vuoti direttamente da Marketo a LinkedIn. Questa funzionalità è inclusa automaticamente per tutti i clienti ABM di Marketo.
 
 <br> 
 
@@ -68,4 +68,4 @@ Le seguenti funzionalità dovrebbero essere rilasciate nel corso del secondo tri
 * **Integrazione Drift**: scopri in che modo le conversazioni Drift influiscono sul percorso del cliente. [!DNL Bizible] richiamerà inoltre gli indirizzi e-mail dalle conversazioni per creare un nuovo lead o collegare il punto di contatto a un lead esistente.
 * **Localizzazione**: [!DNL Bizible] è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 
-***Webinar sulla versione del prodotto*** Guarda la registrazione del nostro webinar sulle innovazioni della versione di giugno &#39;19 [qui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).
+_**Webinar sulla versione del prodotto**_ Guarda la registrazione del nostro webinar sulle innovazioni della versione di giugno &#39;19 [qui](https://engage.marketo.com/Marketo-June-Product-Release-2019-On-Demand.html).

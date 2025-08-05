@@ -4,7 +4,7 @@ description: 'Best practice: come organizzare i programmi - Documentazione di Ma
 title: 'Best practice: come organizzare i programmi'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '847'
 ht-degree: 2%
@@ -30,9 +30,9 @@ In Attività di marketing è necessario utilizzare le cartelle per organizzare i
 >* Programmi di marketing attivi
 >   * E-mail
 >   * Eventi
->      * Eventi live/Roadshow
->      * Fiere
->      * Webinar
+>     * Eventi live/Roadshow
+>     * Fiere
+>     * Webinar
 >   * Newsletter
 >   * Attività di nurturing
 >   * Contenuto web
@@ -48,8 +48,8 @@ In Attività di marketing è necessario utilizzare le cartelle per organizzare i
 >   * Campagne con richiesta di vendita
 >* **Archivia**
 >   * Archivia eventi
->      * Archivio 2012
->      * Archivio 2013
+>     * Archivio 2012
+>     * Archivio 2013
 
 Ognuno di questi elementi menzionati nell’esempio è una cartella. Osserva come tutti hanno un nome univoco. È possibile avere nomi duplicati (più semplici) di cartelle all&#39;interno di programmi, ma non nella directory principale della struttura.
 

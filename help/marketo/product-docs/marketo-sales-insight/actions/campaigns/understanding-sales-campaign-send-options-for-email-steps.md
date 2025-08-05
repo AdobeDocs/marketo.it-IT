@@ -3,7 +3,7 @@ description: Informazioni sulle opzioni di invio della campagna di vendita per i
 title: Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 0%
@@ -75,6 +75,5 @@ Per i giorni/passaggi successivi della campagna di vendita, avrai a disposizione
 >[!MORELIKETHIS]
 >
 >[Crea una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Tipi di fasi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
-
+>>[Tipi di fasi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

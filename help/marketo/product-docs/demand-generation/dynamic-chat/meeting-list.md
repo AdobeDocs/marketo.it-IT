@@ -3,7 +3,7 @@ description: Elenco riunioni - Documentazione Marketo - Documentazione del prodo
 title: Elenco riunioni
 feature: Dynamic Chat
 exl-id: d26aac7f-b22a-4bc8-b279-2a8522624106
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -25,4 +25,3 @@ Qui vengono visualizzati tutti gli appuntamenti pianificati dai visitatori del s
 Quando un’azione, come la prenotazione di una riunione o una chat in tempo reale, non riesce, gli utenti ricevono una notifica tramite e-mail.
 
 ![](assets/meeting-list-2.png)
-
