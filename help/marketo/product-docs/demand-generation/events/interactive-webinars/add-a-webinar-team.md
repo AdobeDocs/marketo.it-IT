@@ -3,9 +3,9 @@ description: Aggiungere un team al webinar - Documentazione di Marketo - Documen
 title: Aggiungi un team di webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cd4b32fe1a1a72da7115eb2b1acada9be1b70fe8
 workflow-type: tm+mt
-source-wordcount: '411'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Aggiungi un team di webinar {#add-a-webinar-team}
 
 Un team di webinar nei webinar interattivi è costituito da tutti i ruoli che contribuiscono alla corretta distribuzione del webinar in Adobe Connect. Ciò include sia i relatori che i co-host.
-
->[!IMPORTANT]
->
->Ti consigliamo vivamente di [progettare il webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _prima_ di aggiungere relatori o co-host.
 
 >[!NOTE]
 >
@@ -52,6 +48,10 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
    ![](assets/add-a-webinar-team-4.png)
 
+>[!NOTE]
+>
+> L&#39;icona ![copia URL co-host](assets/icon-copy-join-url.png) copia l&#39;URL di join co-host e l&#39;icona ![invia al co-host un&#39;e-mail di invito](assets/icon-send-invitation-email.png) invia al co-host un&#39;e-mail di invito.
+
 ## Aggiungi un presentatore {#add-a-presenter}
 
 1. Nella pagina Panoramica del webinar interattivo, fai clic su **Aggiungi relatori**.
@@ -70,9 +70,9 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
    ![](assets/add-a-webinar-team-7.png)
 
->[!TIP]
+>[!NOTE]
 >
->Dopo aver aggiunto un team di webinar, puoi fare clic sull’icona Copia accanto a ciascun utente per copiare (e condividere) gli URL di unione.
+> L&#39;icona ![copia URL relatore](assets/icon-copy-join-url.png) copia l&#39;URL di partecipazione del relatore e l&#39;icona ![invia al relatore un&#39;e-mail di invito](assets/icon-send-invitation-email.png) invia al relatore un&#39;e-mail di invito.
 
 >[!MORELIKETHIS]
 >
