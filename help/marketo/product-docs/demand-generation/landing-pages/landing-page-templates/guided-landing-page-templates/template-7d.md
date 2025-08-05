@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 7D {#template-7d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 7D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=it)
 
 ![](assets/image2015-7-29-15-3a5-3a39.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html)
+[Modello 7D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7d.html?lang=it)

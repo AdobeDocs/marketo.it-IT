@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 9A {#template-9a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 9A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=it)
 
 ![](assets/image2015-7-28-15-3a9-3a26.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html)
+[Modello 9A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-9a.html?lang=it)

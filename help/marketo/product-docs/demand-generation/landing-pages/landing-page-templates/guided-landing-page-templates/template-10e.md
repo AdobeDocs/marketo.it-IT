@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Modello 10E {#template-10e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 10E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=it)
 
 ![](assets/image2015-7-27-11-3a6-3a25.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html)
+[Modello 10E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-10e.html?lang=it)
