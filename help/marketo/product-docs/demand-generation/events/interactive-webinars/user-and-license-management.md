@@ -3,9 +3,9 @@ description: Gestione di utenti e licenze - Documentazione di Marketo - Document
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: fe167b4a70a23f129d56ed20ac6c1ed1130049ef
 workflow-type: tm+mt
-source-wordcount: '703'
+source-wordcount: '717'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
   </tr>
   <tr>
    <td width="20%"><b>Eventi utilizzati</b></td>
-   <td width="80%">Numero totale di eventi completati.</td>
+   <td width="80%">Tutti gli eventi completati e attualmente pianificati. <a href="#things-to-note">Ulteriori informazioni</a></td>
   </tr>
   <tr>
    <td width="20%"><b>Capacità di archiviazione</b></td>
@@ -98,13 +98,13 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
   </tbody>
 </table>
 
-**Aspetti da considerare**
+### Aspetti da considerare {#things-to-note}
+
+* Ogni volta che viene creato un evento, esso viene conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una licenza per sala condivisa). La preferenza viene data a &quot;Shared Event License&quot; se sono presenti sia &quot;Shared Event License&quot; che &quot;Shared Room License&quot; della stessa capacità. Se l&#39;evento non è stato consegnato e il programma eventi viene eliminato prima dell&#39;ora pianificata, il conteggio degli eventi viene rifornito. Se l&#39;evento non viene consegnato e il programma eventi non viene eliminato prima dell&#39;ora pianificata, l&#39;evento non viene rifornito.
 
 * Il tipo &quot;Licenza di archiviazione aggiuntiva&quot; fornisce solo l&#39;archiviazione, pertanto il valore in ogni campo _oltre_ Capacità di archiviazione verrà elencato semplicemente come &quot;-&quot;.
 
 * Il tipo &quot;Shared Room License&quot; ha eventi illimitati e &quot;Additional Storage License&quot; fornisce solo storage, pertanto il campo Total Events (Eventi totali) per queste licenze verrà elencato semplicemente come &quot;-&quot;.
-
-* Ogni volta che un evento viene creato, verrà conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una licenza per sala condivisa). La preferenza verrà data a &quot;Shared Event License&quot; se sono presenti sia &quot;Shared Event License&quot; che &quot;Shared Room License&quot; della stessa capacità. Se l&#39;evento non è stato consegnato e il programma eventi viene eliminato prima dell&#39;ora pianificata, il conteggio degli eventi viene rifornito sottraendo un evento dagli eventi consumati.
 
 * Una volta esaurita la licenza, il riquadro rimane nella schermata Webinar interattivi della sezione Amministratore con &quot;Eventi totali&quot; e &quot;Eventi consumati&quot; che hanno lo stesso valore. La licenza verrà rimossa dalla schermata solo alla scadenza.
 
