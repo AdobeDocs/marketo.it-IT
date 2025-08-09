@@ -18,9 +18,9 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 >[!PREREQUISITES]
 >
 >Eseguire l&#39;aggiornamento alla versione più recente del pacchetto [!DNL Sales Connect] e installare i pulsanti di azione collettiva nella visualizzazione lead/contatti.
->* [Istruzioni in inglese](assets/SF+Guide+for+Lightning-EN)
->* [Istruzioni in giapponese, coreano, cinese](assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [Istruzioni in spagnolo, francese, tedesco, italiano, svedese](assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [Istruzioni in inglese] (assets/SF+Guide+for+Lightning-EN)
+>* [Istruzioni in giapponese, coreano, cinese] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
+>* [Istruzioni in spagnolo, francese, tedesco, italiano, svedese] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
 
 >[!NOTE]
 >
