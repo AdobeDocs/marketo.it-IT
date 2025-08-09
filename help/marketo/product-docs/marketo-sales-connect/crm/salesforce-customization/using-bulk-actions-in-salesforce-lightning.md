@@ -4,9 +4,9 @@ description: 'Utilizzo di azioni in blocco in Salesforce Lightning: documenti Ma
 title: Utilizzo di azioni in blocco in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: fad80e8dccbad19b76570ee49fd8e7def0103fb1
+source-git-commit: 8364c0ebe19bce0d837a96283bea31d593ef4171
 workflow-type: tm+mt
-source-wordcount: '375'
+source-wordcount: '366'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,8 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 >[!PREREQUISITES]
 >
 >Eseguire l&#39;aggiornamento alla versione più recente del pacchetto [!DNL Sales Connect] e installare i pulsanti di azione collettiva nella visualizzazione lead/contatti.
->* [Istruzioni in inglese] (assets/SF+Guide+for+Lightning-EN)
->* [Istruzioni in giapponese, coreano, cinese] (assets/SF+Guide+for+Lightning-JA-KO-ZH)
->* [Istruzioni in spagnolo, francese, tedesco, italiano, svedese] (assets/SF+Guide+for+Lightning-ES-FR-DE-IT-SV)
+>* [Istruzioni in inglese](assets/SF+Guide+for+Lightning-EN)
+>* [Istruzioni in giapponese](assets/SF+Guide+for+Lightning-JA)
 
 >[!NOTE]
 >
