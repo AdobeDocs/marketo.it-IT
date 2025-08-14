@@ -3,9 +3,9 @@ description: Modelli e informazioni - Documentazione di Marketo - Documentazione
 title: Modelli e informazioni
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 785f7ce976e96deaef37e197f6ba772b477aa81c
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 
 Ecco come valutare lo stato del modello.
 
-Passa alla sezione **[!UICONTROL Modelli e integrità dei dati]** in **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** del Marketo Engage. Qui vedrai tutti i tuoi modelli e i loro stati.
+Passare alla sezione **[!UICONTROL Models and Data Health]** in **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** di Marketo Engage. Qui vedrai tutti i tuoi modelli e i loro stati.
 
 ![Immagine Uno](assets/models-and-insights-1.png)
 
@@ -29,3 +29,5 @@ Passa alla sezione **[!UICONTROL Modelli e integrità dei dati]** in **[!UICONTR
 * **Prestazioni**: categorizzazione dell&#39;integrità del modello in base alla completezza dei dati e alla qualità dei dati (vedere di seguito).
 * **Completezza dati**: percentuale di attributi di dati presenti/completi.
 * **Qualità dei dati**: percentuale di attributi che contengono dati validi e utilizzabili.
+
+* **Ultimo addestramento**: la data del modello che è il migliore tra la valutazione del modello corrente e quella del nuovo modello che viene addestrato ogni due settimane.
