@@ -1,21 +1,21 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Utilizzare l’Assistente AI
+title: Utilizzo dell’Assistente IA
 description: Sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e/o immagini utili alle e-mail.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '734'
-ht-degree: 0%
+source-wordcount: '726'
+ht-degree: 1%
 
 ---
 
-# Utilizzare l’Assistente AI {#use-the-ai-assistant}
+# Utilizzo dell’Assistente IA {#use-ai-assistant}
 
-L’Assistente per l’intelligenza artificiale in Marketo Engage Email Designer consente di creare e-mail contemporanee, performanti e intuitive. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme a Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase di percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
+L’Assistente AI in Marketo Engage Email Designer consente di creare e-mail contemporanee, performanti e intuitive. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme a Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase di percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
 
 >[!PREREQUISITES]
 >
@@ -93,7 +93,7 @@ Dopo aver creato l’e-mail, puoi modificare alcune sezioni, immagini o testo.
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In questo esempio, utilizziamo un modello di assistenza sanitaria. Se l’immagine esistente dell’esperto sanitario non soddisfa le tue esigenze, puoi istruire l’assistente di intelligenza artificiale a creare la propria immagine di un esperto sanitario. Seleziona semplicemente il contenuto dell’immagine e fai clic sull’assistente AI.
+In questo esempio, utilizziamo un modello di assistenza sanitaria. Se l’immagine esistente dell’esperto sanitario non soddisfa le tue esigenze, puoi istruire l’assistente di intelligenza artificiale a creare la propria immagine di un esperto sanitario. Seleziona semplicemente il contenuto dell’immagine e fai clic su Assistente AI.
 
 ![](assets/use-the-ai-assistant-8.png)
 

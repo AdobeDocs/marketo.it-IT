@@ -5,9 +5,9 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 71c4f64bc7b39241a5d899ffcbd4d2cdf59c64d9
+source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ E-mail Designer è l’innovazione più recente di Marketo Engage, progettata pe
 
 ## Come accedere {#how-to-access}
 
-+++Scopri come accedere a E-mail Designer
++++Scopri come accedere a Email Designer
 
-Per accedere al nuovo Designer di posta elettronica, è necessario eseguire la migrazione della sottoscrizione Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Per accedere al nuovo Designer di posta elettronica, è necessario eseguire la migrazione della sottoscrizione Marketo Engage a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ### Aggiungi utenti {#add-users}
 
@@ -58,7 +58,7 @@ Per accedere al nuovo Designer di posta elettronica, è necessario eseguire la m
 
 * [Modifica immagini con Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: scopri come modificare le immagini nell&#39;Editor e-mail di Adobe Marketo Engage utilizzando Adobe Express.
 
-* [Utilizza l&#39;Assistente AI](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e/o immagini utili alle e-mail.
+* [Utilizza IA Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e/o immagini utili alle e-mail.
 
 * [Blocca il contenuto nei modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: scopri come bloccare il contenuto nei modelli e-mail, per evitare modifiche o eliminazioni non intenzionali.
 
