@@ -4,9 +4,9 @@ description: Anteprima di un modulo - Documenti Marketo - Documentazione del pro
 title: Anteprima di un modulo
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -17,26 +17,24 @@ Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di mod
 
 1. Vai a **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-6.png)
+   ![](assets/preview-a-form-1.png)
 
-1. Individuare e selezionare il modulo.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Preview]**.
 
-   ![](assets/image2014-9-15-17-3a45-3a51.png)
+   ![](assets/preview-a-form-2.png)
 
-1. In **[!UICONTROL Form Actions]**, fare clic su **[!UICONTROL Preview]**.
+   >[!NOTE]
+   >
+   >Se il modulo non è approvato, fare clic su **Anteprima bozza**.
 
-   ![](assets/image2014-9-15-17-3a46-3a9.png)
+1. L&#39;editor moduli verrà aperto in modalità _anteprima_.
 
-1. L&#39;editor dei moduli verrà aperto in modalità **[!UICONTROL preview]**.
+   ![](assets/preview-a-form-3.png)
 
-   ![](assets/image2014-9-15-17-3a46-3a17.png)
+1. Fare clic su **[!UICONTROL Edit Draft]** per tornare alla modalità _modifica_.
 
-1. Fare clic su **[!UICONTROL Edit Draft]** per tornare alla modalità **[!UICONTROL edit]**.
-
-   ![](assets/image2014-9-15-17-3a46-3a37.png)
+   ![](assets/preview-a-form-4.png)
 
 1. Tornare indietro facilmente facendo clic su **[!UICONTROL Preview Draft]**.
 
-   ![](assets/image2014-9-15-17-3a46-3a45.png)
-
-Non è stato facile? È ora possibile visualizzare in anteprima il modulo mentre si apportano modifiche.
+   ![](assets/preview-a-form-5.png)
