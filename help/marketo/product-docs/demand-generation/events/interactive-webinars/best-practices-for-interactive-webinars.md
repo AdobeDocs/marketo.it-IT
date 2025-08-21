@@ -3,7 +3,7 @@ description: Best practice per i webinar interattivi - Documentazione di Marketo
 title: Best practice per i webinar interattivi
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: cf840cee3be4ee6bb9effca6e85dfa2200153e62
 workflow-type: tm+mt
 source-wordcount: '1704'
 ht-degree: 0%
@@ -85,7 +85,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 * **Pod domande e risposte**: è possibile nascondere sia il nome del partecipante che ha inviato la domanda sia il nome dell&#39;host/relatore che ha risposto. Per farlo, deseleziona le opzioni relative alla privacy nella sezione &quot;Q&amp;A Pod&quot; in Preferenze della stanza.
 
-* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
+* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
 
 * **Chat privata**: disattiva la chat privata per impedire ai partecipanti di eseguire il ping di un altro partecipante. A tale scopo, deselezionare &quot;Consenti ai partecipanti di chattare in privato&quot; nella sezione &quot;Chat&quot; in Preferenze della stanza.
 
