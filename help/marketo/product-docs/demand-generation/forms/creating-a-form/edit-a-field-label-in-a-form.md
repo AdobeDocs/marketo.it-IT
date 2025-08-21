@@ -4,9 +4,9 @@ description: Modificare un’etichetta di campo in un modulo - Documentazione di
 title: Modificare un’etichetta di campo in un modulo
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: e691c4cf62b0bc7843763512f0c2e56c656ad3e2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '111'
 ht-degree: 1%
 
 ---
@@ -17,30 +17,32 @@ L&#39;etichetta di un modulo può essere modificata in qualsiasi elemento, ad es
 
 1. Vai a **[!UICONTROL Marketing Activities]**.
 
-   ![](assets/login-marketing-activities-3.png)
+   ![](assets/edit-a-field-label-in-a-form-1.png)
 
-1. Selezionare il modulo e fare clic su **[!UICONTROL Edit Form]**.
+1. Selezionare il modulo e fare clic su **[!UICONTROL Create draft]**.
 
-   ![](assets/image2014-9-15-17-3a26-3a27.png)
+   ![](assets/edit-a-field-label-in-a-form-2.png)
+
+   >[!NOTE]
+   >
+   >Se il modulo non è ancora stato approvato, fare clic su **Modifica bozza**.
 
 1. Selezionare il campo e quindi modificare **[!UICONTROL Label]**. I campi in Impostazioni modulo rifletteranno le etichette immesse.
 
-   ![](assets/image2014-9-15-17-3a26-3a42.png)
+   ![](assets/edit-a-field-label-in-a-form-3.png)
 
    >[!TIP]
    >
-   >Se desideri ottenere fantasia, puoi fare clic sulla ![matita](assets/image2014-9-15-17-3a27-3a7.png). Verrà aperto un editor Rich Text che consentirà di visitare la città con immagini, collegamenti e altro ancora.
+   >Fai clic sull&#39;icona ![matita](assets/icon-pencil.png) per accedere all&#39;editor Rich Text.
 
 1. Fai clic su **[!UICONTROL Finish]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a26.png)
+   ![](assets/edit-a-field-label-in-a-form-4.png)
 
 1. Fai clic su **[!UICONTROL Approve and Close]**.
 
-   ![](assets/image2014-9-15-17-3a27-3a44.png)
+   ![](assets/edit-a-field-label-in-a-form-5.png)
 
 >[!NOTE]
 >
->Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
-
-Eccolo! A poco a poco stai diventando un campione di design.
+>Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} creata dalle modifiche del modulo.
