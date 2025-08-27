@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
 workflow-type: tm+mt
-source-wordcount: '913'
-ht-degree: 9%
+source-wordcount: '892'
+ht-degree: 10%
 
 ---
 
@@ -177,6 +177,17 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md" target="_blank">integrare con Litmus</a> per vedere come verranno riprodotti i messaggi e-mail nei diversi client e-mail.</td>
     <td>Non disponibile</td>
     <td>Disponibile</td>
+    <tr>
+    <td>Integrazione con GenStudio</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">integrare con GenStudio</a>.</td>
+    <td>Non disponibile</td>
+    <td>Disponibile</td>
+  </tr>
+  <tr>
+    <td>Integrazione di Spam Assassin</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/spam-report.md">rilevare la possibilità che le e-mail vengano contrassegnate come spam</a> prima della consegna.</td>
+    <td>Non disponibile</td>
+    <td>Disponibile</td>
   </tr>
   <tr>
     <td>Editor Personalization</td>
@@ -227,12 +238,6 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile a breve</td>
   </tr>
   <tr>
-    <td>Integrazione con Gen Studio</td>
-    <td>Possibilità di integrazione con Gen Studio.</td>
-    <td>Non disponibile</td>
-    <td>Disponibile a breve</td>
-  </tr>
-  <tr>
     <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
     <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
     <td>Disponibile</td>
@@ -254,23 +259,11 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Script Velocity</td>
     <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
     <td>Disponibile</td>
-    <td>Non necessario</td>
-  </tr>
-   <tr>
-    <td>Script Handlebar</td>
-    <td>Possibilità di utilizzare gli script Handlebar nelle e-mail.</td>
-    <td>Non disponibile</td>
-    <td>Pianificato per il terzo trimestre '25</td>
+    <td>Disponibile a breve</td>
   </tr>
   <tr>
     <td>Kit del marchio</td>
     <td>Possibilità di migliorare le e-mail in linea con le linee guida del brand.</td>
-    <td>Non disponibile</td>
-    <td>Pianificato per il terzo trimestre '25</td>
-  </tr>
-  <tr>
-    <td>Integrazione di Spam Assassin</td>
-    <td>Possibilità di rilevare la possibilità che le e-mail vengano contrassegnate come spam prima della consegna.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il terzo trimestre '25</td>
   </tr>
