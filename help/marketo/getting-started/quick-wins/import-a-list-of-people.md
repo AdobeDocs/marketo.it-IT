@@ -4,9 +4,9 @@ description: Importare un elenco di persone - Documentazione di Marketo - Docume
 title: Importa un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 292626741d3b2334da104a515c3e968fb340706a
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '581'
+source-wordcount: '541'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >
 >[Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-Questa esercitazione illustra come importare le persone da un file del foglio di calcolo in Marketo.
+In questa esercitazione imparerai a importare le persone da un file di foglio di calcolo in Marketo.
 
 ## Passaggio 1: Scaricare e modificare un foglio di calcolo {#step-download-and-edit-a-spreadsheet}
 
@@ -49,19 +49,19 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
 ## Passaggio 2: creare un programma {#step-create-a-program}
 
-1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
-1. Seleziona la cartella **Apprendimento**, quindi in **[!UICONTROL Nuovo]** fai clic su **[!UICONTROL Nuovo programma]**.
+1. Seleziona la cartella **Learning**, quindi in **[!UICONTROL New]** fai clic su **[!UICONTROL New Program]**.
 
    ![](assets/import-a-list-of-people-4.png)
 
-1. **Denomina** il programma &quot;Il mio programma di fiere&quot; e seleziona &quot;Evento&quot; per il **[!UICONTROL tipo di programma]**.
+1. **Assegnare un nome** al programma &quot;Il mio programma di fiere&quot; e selezionare &quot;Evento&quot; per **[!UICONTROL Program Type]**.
 
    ![](assets/import-a-list-of-people-5.png)
 
-1. Seleziona **[!UICONTROL Presentazione]** per il **[!UICONTROL Canale]** e fai clic su **[!UICONTROL Crea]**.
+1. Selezionare **[!UICONTROL Tradeshow]** per **[!UICONTROL Channel]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-6.png)
 
@@ -71,19 +71,19 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
 ## Passaggio 3: importare il foglio di calcolo in Marketo {#step-import-your-spreadsheet-into-marketo}
 
-1. In **Programma di fiere**, fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuova risorsa locale]**.
+1. In **Il mio programma di fiere**, fai clic su **[!UICONTROL New]** e seleziona **[!UICONTROL New Local Asset]**.
 
    ![](assets/import-a-list-of-people-7.png)
 
-1. Seleziona **[!UICONTROL Elenco]**.
+1. Seleziona **[!UICONTROL List]**.
 
    ![](assets/import-a-list-of-people-8.png)
 
-1. **Denomina** l&#39;elenco &quot;Partecipanti alla fiera&quot; e fai clic su **[!UICONTROL Crea]**.
+1. **Denomina** l&#39;elenco &quot;Partecipanti alla fiera&quot; e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/import-a-list-of-people-9.png)
 
-1. Nell&#39;elenco **[!UICONTROL Partecipanti a fiere]** fare clic su **[!UICONTROL Azioni elenco]** e selezionare **[!UICONTROL Importa elenco]**.
+1. Nell&#39;elenco **[!UICONTROL Tradeshow Attendees]**, fare clic su **[!UICONTROL List Actions]** e selezionare **[!UICONTROL Import List]**.
 
    ![](assets/import-a-list-of-people-10.png)
 
@@ -95,19 +95,19 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    >
    >Il limite di dimensione per i file CSV è di 100 MB.
 
-1. **[!UICONTROL Individua]** il file del foglio di calcolo **tradeshow-attendees.csv** nel computer e fai clic su **[!UICONTROL Avanti]**.
+1. **[!UICONTROL Browse]** nel file del foglio di calcolo **tradeshow-attendees.csv** sul computer e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-11.png)
 
    >[!NOTE]
    >
-   >In modalità di importazione elenchi, se si sceglie **[!UICONTROL Ignora nuove persone e aggiornamenti]**, non verranno registrati record persona esistenti né attività. Utilizza questa modalità se desideri un elenco statico rapido e prefiltrato di persone esistenti da utilizzare nelle attività di marketing. Selezionando questa modalità:
+   >In modalità di importazione elenco, la scelta di **[!UICONTROL Skip new people and updates]** indica che non verrà influenzato alcun record persona esistente o non verranno registrate attività. Utilizza questa modalità se desideri un elenco statico rapido e prefiltrato di persone esistenti da utilizzare nelle attività di marketing. Selezionando questa modalità:
    >
    > * Ignora creazione nuova persona
    > * Ignora aggiornamenti campo persona
    > * Ignora registrazione attività
 
-1. Mappa i campi [!UICONTROL Colonna elenco] ai rispettivi campi Marketo e fai clic su **[!UICONTROL Avanti]**.
+1. Mappa i campi [!UICONTROL List Column] ai rispettivi campi Marketo e fai clic su **[!UICONTROL Next]**.
 
    ![](assets/import-a-list-of-people-12.png)
 
@@ -119,7 +119,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
    >
    >Se sono presenti campi che non si desidera importare, selezionare **Ignora** nel menu a discesa Campo Marketo.
 
-1. Seleziona **Il mio programma di fiere** per il **[!UICONTROL programma di acquisizione]**, quindi fai clic su **[!UICONTROL Importa]**.
+1. Seleziona **Il mio programma di fiere** per **[!UICONTROL Acquisition Program]**, quindi fai clic su **[!UICONTROL Import]**.
 
    ![](assets/import-a-list-of-people-13.png)
 
@@ -127,7 +127,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Tornando al **Programma di fiere**, fare clic sulla scheda **[!UICONTROL Membri]**. Vedrai tutte le persone appena importate.
+1. Tornando al **Programma di fiere**, fare clic sulla scheda **[!UICONTROL Members]**. Puoi vedere tutte le persone che hai appena importato.
 
    ![](assets/import-a-list-of-people-15.png)
 
@@ -141,6 +141,6 @@ I partecipanti alle fiere sono ora membri del programma Marketo.
 
 <br> 
 
-[◄ Mission 4: risposta automatica e-mail](/help/marketo/getting-started/quick-wins/email-auto-response.md)
+[◄ Missione 4: risposta automatica e-mail](/help/marketo/getting-started/quick-wins/email-auto-response.md)
 
-[Missione 6: gocciolamento, gocciolamento, ► di sviluppo](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)
+[Missione 6: goccia, goccia, allevamento ►](/help/marketo/getting-started/quick-wins/drip-drip-nurture.md)

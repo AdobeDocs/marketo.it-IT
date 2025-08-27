@@ -4,9 +4,9 @@ description: Informazioni su  [!DNL Microsoft Dynamics] Sync - Marketo Docs - Do
 title: Informazioni su Microsoft Dynamics Sync
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '209'
 ht-degree: 1%
 
 ---
@@ -14,10 +14,6 @@ ht-degree: 1%
 # Informazioni sulla sincronizzazione di [!DNL Microsoft Dynamics] {#understanding-the-microsoft-dynamics-sync}
 
 Marketo e [!DNL Microsoft Dynamics] vanno insieme. Manteniamo sincronizzati i dati di vendita e marketing.
-
->[!NOTE]
->
->Al momento, Marketo supporta solo i certificati SSL compatibili con Java 7.
 
 >[!CAUTION]
 >

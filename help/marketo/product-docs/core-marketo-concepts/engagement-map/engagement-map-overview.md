@@ -2,9 +2,9 @@
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
 title: Panoramica di Engagement Map
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -25,17 +25,17 @@ Passare a una campagna esistente e fare clic sul pulsante **Mappa di coinvolgime
 
 ![](assets/engagement-map-overview-2.png)
 
-Una volta in Engagement Map, verranno visualizzate due schede: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} e [Impostazioni](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
+In Engagement Map sono disponibili due schede: [Engagement Map](/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-tab.md){target="_blank"} e [Impostazioni](/help/marketo/product-docs/core-marketo-concepts/engagement-map/settings-tab.md){target="_blank"}.
 
 ![](assets/engagement-map-overview-3.png)
 
 ## Descrizioni scheda {#card-descriptions}
 
-**Triggers**: nelle campagne che includono trigger, la mappa avrà una scheda &quot;Panoramica trigger&quot;. Facendo clic su questo pulsante vengono visualizzate una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
+**Triggers**: nelle campagne che includono trigger, la mappa ha una scheda &quot;Panoramica trigger&quot;. Facendo clic su questo pulsante vengono visualizzate una scheda per ogni attivatore e un pannello a tendina con ulteriori informazioni.
 
-**Filtri**: nelle campagne che includono filtri, la mappa conterrà una scheda Panoramica filtri. Facendo clic su di esso verrà visualizzato un pannello a tendina con informazioni aggiuntive su ciascun filtro.
+**Filtri**: nelle campagne che includono filtri, la mappa contiene una scheda Panoramica filtri. Facendo clic su di esso viene visualizzato un pannello a tendina con informazioni aggiuntive su ciascun filtro.
 
-**Passaggi del flusso**: ogni campagna includerà una scheda per ogni passaggio del flusso. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
+**Passaggi del flusso**: ogni campagna include una scheda per ogni passaggio del flusso. Facendo clic su di essi verrà visualizzato un pannello a tendina con ulteriori informazioni.
 
 **Scelte**: se un passaggio di flusso include una o più scelte, facendo clic sulla scheda di flusso verrà visualizzata una scheda per ogni scelta e un pannello a tendina con ulteriori informazioni.
 
@@ -43,7 +43,7 @@ Una volta in Engagement Map, verranno visualizzate due schede: [Engagement Map](
 
 * Se una campagna include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda di flusso vengono visualizzati i dettagli della campagna chiamata, nonché un pannello a tendina con ulteriori informazioni.
 
-* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con opzioni, facendo clic sulla scheda di flusso vengono visualizzate una scheda per ciascuna opzione e un pannello a tendina con ulteriori informazioni sulle opzioni disponibili. Facendo clic su ciascuna scheda di scelta verranno visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
+* Se una campagna include un passaggio di flusso Richiedi o Esegui campagna con opzioni, facendo clic sulla scheda di flusso vengono visualizzate una scheda per ciascuna opzione e un pannello a tendina con ulteriori informazioni sulle opzioni disponibili. Facendo clic su ciascuna scheda di scelta vengono visualizzati i dettagli della campagna chiamata e un pannello a tendina con ulteriori informazioni.
 
 * Inoltre, se una delle campagne nidificate include un passaggio di flusso Richiedi o Esegui campagna, facendo clic sulla scheda del flusso verranno visualizzati i dettagli della campagna. Lo stesso vale quando il passaggio di flusso include delle scelte.
 
@@ -61,7 +61,7 @@ Il menu di navigazione superiore include le seguenti funzioni:
 
 * Modifica flusso: per passare all’interfaccia Flusso in una nuova scheda, puoi aggiungere o modificare i passaggi del flusso
 
-* Esportazione: consente di scaricare un’immagine della visualizzazione della campagna. La versione scaricata rifletterà tutti i rami espansi
+* Esportazione: consente di scaricare un’immagine della visualizzazione della campagna. La versione scaricata riflette tutti i rami espansi
 
 * Visualizza membri campagna: si apre una nuova scheda con i dettagli dei membri della campagna.
 

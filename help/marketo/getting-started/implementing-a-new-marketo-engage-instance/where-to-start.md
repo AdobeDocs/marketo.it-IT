@@ -3,9 +3,9 @@ description: Scopri le best practice per l’implementazione di una nuova istanz
 title: Da dove iniziare
 feature: Getting Started
 exl-id: 91b751ab-88c5-4575-96f8-166f62f007e2
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -48,6 +48,6 @@ Visita la [community di Adobe Marketo Engage](https://nation.marketo.com/){targe
 
 Introduzione alla community:
 
-1. Fai clic su **Continua con Adobe ID** e seleziona la sottoscrizione principale nella pagina di accesso.
+1. Fare clic su **[!UICONTROL Continue with AdobeID]** e selezionare l&#39;abbonamento principale nella pagina di accesso.
 1. Al momento dell&#39;accesso, completa il profilo community.
 1. Dopo aver inviato le informazioni, si atterra sulla homepage della community e si è pronti a partire!

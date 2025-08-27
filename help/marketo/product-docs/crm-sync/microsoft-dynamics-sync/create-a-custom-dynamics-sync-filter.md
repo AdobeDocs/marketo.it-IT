@@ -4,22 +4,22 @@ description: Creazione di un filtro di sincronizzazione personalizzato [!DNL Dyn
 title: Crea un filtro di sincronizzazione  [!DNL Dynamics] personalizzato
 exl-id: 6b0d878a-9c55-4e73-9923-11140e83bb37
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '746'
 ht-degree: 1%
 
 ---
 
 # Crea un filtro di sincronizzazione [!DNL Dynamics] personalizzato {#create-a-custom-dynamics-sync-filter}
 
-Non sincronizzare tutto il contenuto di Dynamics CRM in Marketo Engage? Non si preoccupi! Marketo consente di impostare un filtro di sincronizzazione e di sincronizzare solo una parte dei record.
+Marketo consente di impostare un filtro di sincronizzazione e di sincronizzare solo una parte dei record.
 
 ## Panoramica {#overview}
 
 Per impostare un filtro di sincronizzazione [!DNL Dynamics]:
 
-1. Crea un campo personalizzato con due opzioni (booleano) denominato new_synctomkto in Dynamics CRM per qualsiasi oggetto (lead, contatto, account, opportunità e altre entità personalizzate).
+1. Crea un campo personalizzato con due opzioni (booleano) denominato `new_synctomkto` in Dynamics CRM per qualsiasi oggetto (lead, contatto, account, opportunità e altre entità personalizzate).
 1. Assegnare un valore Sì/No a questo campo.
 
 È necessario apportare queste modifiche in Dynamics CRM, non nel database o in Marketo.
@@ -140,10 +140,6 @@ Di seguito sono riportati alcuni dettagli di implementazione che pensavamo doves
 * Avvia un&#39;operazione di sincronizzazione
 
   Quando il valore **SyncToMkto** cambia da **No** a **Sì**, [!DNL Dynamics] notifica immediatamente a Marketo l&#39;avvio della sincronizzazione del record. Se il record esiste già, Marketo lo aggiorna. In caso contrario, Marketo crea il record.
-
-  >[!TIP]
-  >
-  >Quando ciò accade, viene aggiunta un&#39;operazione `Create [StartSync]` al registro di Marketo.
 
 * Interrompere un&#39;operazione di sincronizzazione
 

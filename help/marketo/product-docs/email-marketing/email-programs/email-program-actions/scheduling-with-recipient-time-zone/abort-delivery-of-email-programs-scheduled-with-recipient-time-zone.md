@@ -4,9 +4,9 @@ description: Interrompere la consegna dei programmi e-mail pianificati con il fu
 title: Interrompi la consegna dei programmi e-mail pianificati con il fuso orario del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Poiché i programmi e-mail pianificati con il fuso orario del destinatario posso
    >
    >Le e-mail annullate **non** verranno visualizzate come mancati recapiti non permanenti *fino a* l&#39;ora originariamente pianificata per la consegna nei rispettivi fusi orari. Fino a quel momento, visualizzeranno comunque il messaggio &quot;Send Email&quot; (Invia e-mail).
 
-1. Dalla griglia, puoi fare clic su qualsiasi e-mail per visualizzare i dettagli dell’attività. Per un invio annullato, la finestra a comparsa dei dettagli sarà simile alla seguente:
+1. Dalla griglia, puoi fare clic su qualsiasi e-mail per visualizzare i dettagli dell’attività. Per un invio annullato, la finestra a comparsa dei dettagli si presenta così:
 
    ![](assets/image2018-2-23-11-3a30-3a46.png)
 

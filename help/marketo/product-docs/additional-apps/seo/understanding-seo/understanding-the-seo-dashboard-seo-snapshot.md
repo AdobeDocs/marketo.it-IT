@@ -4,9 +4,9 @@ description: 'Dashboard SEO: istantanea SEO, documenti Marketo, documentazione d
 title: Informazioni sulla dashboard SEO - Snapshot SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Il grafico [!UICONTROL Keyword Rank Trends] estrae le parole chiave con i cinque
 
 ![](assets/image2014-9-17-21-3a37-3a1.png)
 
-Esaminiamo ora la sezione [!UICONTROL Recommendations] di questo dashboard.
+Consulta la sezione [!UICONTROL Recommendations] di questo dashboard.
 
 >[!MORELIKETHIS]
 >

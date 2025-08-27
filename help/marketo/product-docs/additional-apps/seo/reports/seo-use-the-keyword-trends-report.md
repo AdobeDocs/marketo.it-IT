@@ -4,10 +4,10 @@ description: 'SEO: utilizzare il rapporto sulle tendenze delle parole chiave - D
 title: 'SEO: utilizzare il rapporto sulle tendenze delle parole chiave'
 exl-id: 6c3e3c8e-f7ed-47d6-9de7-1680d23e5dd3
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 1%
+source-wordcount: '154'
+ht-degree: 2%
 
 ---
 
@@ -17,11 +17,11 @@ In questo rapporto puoi vedere come sei classificato in base alle parole chiave 
 
 ## Carica report {#load-report}
 
-1. Vai a **[!UICONTROL Report]**.
+1. Vai a **[!UICONTROL Reports]**.
 
    ![](assets/image2014-9-18-14-3a12-3a18.png)
 
-1. Fai clic su **[!UICONTROL Tendenze classificazione parole chiave]**.
+1. Fai clic su **[!UICONTROL Keyword Rank Trends]**.
 
    ![](assets/image2014-9-18-14-3a13-3a14.png)
 
@@ -33,10 +33,10 @@ In questo rapporto puoi vedere come sei classificato in base alle parole chiave 
 
    | Elemento | Descrizione |
    |---|---|
-   | [!UICONTROL Parole chiave] | Il numero di parole chiave che si stanno tracciando. |
-   | [!UICONTROL URL di classificazione] | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
-   | [!UICONTROL Media rango] | Classificazione media delle parole chiave nell&#39;intervallo impostato. |
-   | [!UICONTROL Media ricerche] | Numero medio di ricerche eseguite durante l&#39;intervallo impostato (negli ultimi 30 giorni) su Google US search. |
+   | [!UICONTROL Keywords] | Il numero di parole chiave che si stanno tracciando. |
+   | [!UICONTROL Ranking URLs] | Il numero di URL nella classificazione del sito nell’intervallo impostato. |
+   | [!UICONTROL Avg. rank] | Classificazione media delle parole chiave nell&#39;intervallo impostato. |
+   | [!UICONTROL Avg. searches] | Numero medio di ricerche eseguite durante l&#39;intervallo impostato (negli ultimi 30 giorni) su Google US search. |
 
 ## Filtraggio dei dati {#filtering-data}
 
@@ -50,16 +50,12 @@ In questo rapporto puoi vedere come sei classificato in base alle parole chiave 
 
 ## Esportazione dei dati {#exporting-data}
 
->[!TIP]
->
->Puoi esportare questo rapporto sul desktop.
-
-1. Fai clic su **[!UICONTROL Esporta CSV]** o **[!UICONTROL Export PDF]**.
+1. Fai clic su **[!UICONTROL Export CSV]** o **[!UICONTROL Export PDF]**.
 
    ![](assets/image2014-9-18-14-3a14-3a46.png)
 
-   Ottimo lavoro! Puoi anche vedere come si confronta con i tuoi concorrenti nella classificazione delle parole chiave.
+Puoi anche vedere come si confronta con i tuoi concorrenti nella classificazione delle parole chiave.
 
-   >[!NOTE]
-   >
-   >[Utilizzo del rapporto sulle tendenze della classificazione KW competitiva](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
+>[!NOTE]
+>
+>[Utilizzo del rapporto sulle tendenze della classificazione KW competitiva](/help/marketo/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)

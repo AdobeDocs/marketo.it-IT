@@ -4,16 +4,16 @@ description: Informazioni sull’ottimizzazione dei motori di ricerca - Document
 title: Informazioni sull’ottimizzazione dei motori di ricerca
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
 
 # Informazioni sull’ottimizzazione dei motori di ricerca {#understanding-search-engine-optimization}
 
-SEO (Search Engine Optimization) è una raccolta di best practice che consentono di portare le pagine davanti agli utenti che utilizzano i motori di ricerca. L’app SEO di Marketo ti aiuterà a migliorare.
+SEO (Search Engine Optimization) è una raccolta di best practice che consentono di portare le pagine davanti agli utenti che utilizzano i motori di ricerca. L’app SEO di Marketo ti aiuta a migliorare.
 
 In primo luogo, è necessario apprendere le nozioni di base con questo utile glossario.
 
@@ -25,9 +25,9 @@ In primo luogo, è necessario apprendere le nozioni di base con questo utile glo
 
 **Collegamenti in entrata**: collegamenti in altri siti che indirizzano il traffico al sito. Maggiore è la reputazione del sito di collegamento, maggiore è il valore di questo collegamento in entrata.
 
-**Classificazione SERP**: sta per pagina risultati motore di ricerca. I motori di ricerca restituiscono più pagine di risultati. La classificazione SERP è la pagina visualizzata dal collegamento. In genere sono presenti 10 risultati per pagina.
+**Classificazione SERP**: sta per pagina risultati motore di ricerca. I motori di ricerca restituiscono più pagine di risultati. La classificazione SERP è la pagina in cui viene visualizzato il collegamento. In genere sono presenti 10 risultati per pagina.
 
-**Visualizzazione Motore di ricerca**: il modo in cui un computer motore di ricerca percepisce il sito rispetto a un essere umano.
+**Visualizzazione Motore di ricerca**: il modo in cui un computer con motore di ricerca percepisce il sito rispetto a un essere umano.
 
 **Termini di ricerca Testa grassa**: parole chiave generiche che generano una rete molto grande. Rappresentano circa il 19% di tutti i termini di ricerca utilizzati.
 
@@ -39,7 +39,7 @@ In primo luogo, è necessario apprendere le nozioni di base con questo utile glo
 
 **Termini di ricerca a lunga coda**: parole chiave super specifiche. Questi vengono utilizzati circa il 70% del tempo.
 
-(Esempio: Donne minimaliste che corrono scarpe misura 9)
+(Esempio: Scarpe da corsa da donna minimalista misura 9)
 
 **Punteggio di ottimizzazione**: il punteggio di ottimizzazione è un punteggio Marketo proprietario che misura tutte le pagine del sito su una scala da 1 a 100. Si basa su una raccolta di decine di best practice. Un punteggio di 70 o superiore indica un sito ottimizzato in modo soddisfacente.
 

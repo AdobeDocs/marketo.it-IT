@@ -2,9 +2,9 @@
 description: Scheda Mappa di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
 title: Scheda Mappa di coinvolgimento
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '949'
+source-wordcount: '935'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Engagement Map è rappresentato tramite una serie di schede di trigger, filtri e flusso. Facendo clic su ogni scheda vengono visualizzate ulteriori informazioni.
 
-Panoramica trigger: questa scheda mostra il numero di trigger nella campagna. Facendo clic su di esso verrà visualizzata una scheda per ogni trigger, nonché un pannello a tendina con le seguenti informazioni:
+Panoramica trigger: questa scheda mostra il numero di trigger nella campagna. Facendo clic su di esso viene visualizzata una scheda per ogni attivatore e un pannello a tendina con le seguenti informazioni:
 
 * Campagna a cui appartiene il trigger
 * Elenco dei nomi dei trigger
@@ -21,7 +21,7 @@ Panoramica trigger: questa scheda mostra il numero di trigger nella campagna. Fa
 
   ![](assets/engagement-map-tab-1.png)
 
-Dettagli trigger: questa scheda mostra il nome del trigger. Facendo clic su di esso verrà visualizzato un pannello a tendina con le seguenti informazioni:
+Dettagli trigger: questa scheda mostra il nome del trigger. Facendo clic su di esso viene visualizzato un pannello a tendina con le seguenti informazioni:
 
 * Campagna a cui appartiene il trigger
 * Elenco dei vincoli associati al trigger
@@ -36,13 +36,13 @@ Filtro: facendo clic su questa scheda viene visualizzato un pannello a tendina c
 
   ![](assets/engagement-map-tab-3.png)
 
-Passaggi di flusso: se un passo di flusso include delle scelte, questa scheda mostra il nome del passo di flusso. Facendo clic su di esso verrà visualizzato un pannello a tendina con le seguenti informazioni:
+Passaggi di flusso: se un passo di flusso include delle scelte, questa scheda mostra il nome del passo di flusso. Facendo clic su di esso viene visualizzato un pannello a tendina con le seguenti informazioni:
 
 * Campagna a cui appartiene il passaggio di flusso
-* Elenco delle condizioni di scelta associate alla fase del flusso
+* Elenco delle condizioni di scelta associate al passaggio del flusso
 * Passaggio Modifica flusso
 
-Passaggi del flusso: se un passaggio del flusso _non_ include scelte, questa scheda mostrerà gli attributi associati al passaggio del flusso. Facendo clic su di esso verrà visualizzato un pannello a tendina con le seguenti informazioni:
+Passaggi di flusso: se un passaggio di flusso _non_ include scelte, questa scheda mostra gli attributi associati al passaggio di flusso. Facendo clic su di esso viene visualizzato un pannello a tendina con le seguenti informazioni:
 
 * Campagna a cui appartiene il passaggio di flusso
 * Elenco di attributi associati al passaggio del flusso
@@ -52,7 +52,7 @@ Passaggi del flusso: se un passaggio del flusso _non_ include scelte, questa sch
 
 ## Passaggio di flusso per le campagne Esegui e Richiedi {#flow-step-for-execute-and-request-campaigns}
 
-* Se il Passaggio di flusso Esegui o Richiedi campagna non include opzioni, nella scheda viene visualizzato il nome della campagna. Facendo clic sulla scheda viene visualizzato un pannello a tendina con le seguenti informazioni:
+* Se il passaggio di flusso Esegui o Richiedi campagna non include alcuna scelta, la scheda mostra il nome della campagna. Facendo clic sulla scheda viene visualizzato un pannello a tendina con le seguenti informazioni:
 
    * Campagna a cui appartiene il passaggio di flusso
    * Passaggio Modifica flusso
@@ -66,14 +66,14 @@ Passaggi del flusso: se un passaggio del flusso _non_ include scelte, questa sch
 * Se il Passaggio di flusso Esegui o Richiedi campagna include delle scelte, facendo clic sulla scheda viene visualizzato un pannello a tendina con le seguenti informazioni:
 
    * Campagna a cui appartiene il passaggio di flusso
-   * Elenco delle condizioni di scelta associate alla fase del flusso
+   * Elenco delle condizioni di scelta associate al passaggio del flusso
    * Passaggio Modifica flusso
 
-* Se una campagna Execute (Esegui) o Request (Richiedi) include delle scelte, facendo clic sulla scheda del flusso si espande per mostrare tutte le scelte nelle singole schede. Facendo clic sulla scheda _scelta_, verrà espansa la campagna associata alla scelta specifica e verrà visualizzato un pannello a tendina con le seguenti informazioni:
+* Se una campagna Execute (Esegui) o Request (Richiedi) include delle scelte, facendo clic sulla scheda del flusso si espande per mostrare tutte le scelte nelle singole schede. Facendo clic sulla scheda _scelta_, si espande la campagna associata alla scelta specifica e si visualizza un pannello a tendina con le seguenti informazioni:
 
    * Campagna a cui appartiene la scelta
    * Modifica scelta
-   * Elenco delle condizioni di scelta associate alla fase del flusso
+   * Elenco delle condizioni di scelta associate al passaggio del flusso
    * Visualizza elenco, che apre un elenco di campagne che utilizzano la specifica campagna di richiesta/esecuzione
 
   ![](assets/engagement-map-tab-10.png)
@@ -86,10 +86,10 @@ Di seguito è riportato un esempio di campagna avanzata, &quot;Campaign A&quot;,
 
 ![](assets/engagement-map-tab-11.png)
 
-1. Facendo clic sulla scheda del flusso di esecuzione della campagna, si espande per visualizzare i dettagli della &quot;Campagna B&quot;.
+1. Facendo clic sulla scheda Esegui flusso campagna, vengono visualizzati i dettagli della &quot;Campagna B&quot;.
 1. &quot;Campagna B&quot; include un filtro che divide il pubblico in due gruppi: qualificato e non qualificato.
-1. Il pubblico qualificato attraversa i passaggi di flusso associati alla &quot;Campagna B&quot;.
-1. Tutti i tipi di pubblico (qualificati e non qualificati) tornano alla &quot;Campagna A&quot; e passano al passaggio di flusso successivo.
+1. Un pubblico qualificato attraversa i passaggi di flusso associati alla &quot;Campagna B&quot;.
+1. Tutti i tipi di pubblico (qualificati e non qualificati) tornano alla &quot;Campagna A&quot; e passano alla fase di flusso successiva.
 
    ![](assets/engagement-map-tab-12.png)
 
@@ -105,7 +105,7 @@ Di seguito è riportato un esempio di campagna avanzata, &quot;Campaign A&quot;,
 
 ![](assets/engagement-map-tab-14.png)
 
-1. Facendo clic sulla scheda del flusso della campagna di richiesta si espanderà per visualizzare i dettagli della &quot;Campagna B&quot;
+1. Facendo clic sulla scheda del flusso della campagna di richiesta si espande per visualizzare i dettagli della &quot;Campagna B&quot;
 1. &quot;Campagna B&quot; include un filtro che divide il pubblico in due gruppi: qualificato e non qualificato.
 1. Il pubblico qualificato attraversa i passaggi di flusso associati alla &quot;Campagna B&quot;.
 1. Allo stesso tempo, tutti i tipi di pubblico passano ai passaggi di flusso successivi nella &quot;Campagna A&quot;.
@@ -122,9 +122,9 @@ Di seguito è riportato un esempio di campagna di richiesta con scelte.
 
 ## Gestione degli errori {#error-handling}
 
-Gli errori negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona rossa nella scheda. Inoltre, un messaggio di errore corrispondente verrà visualizzato nel pannello a tendina.
+Gli errori negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona rossa nella scheda. Inoltre, nel pannello a tendina viene visualizzato un messaggio di errore corrispondente.
 
-Gli avvisi presenti negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona arancione nella scheda. Inoltre, nel pannello a tendina viene visualizzato un messaggio di avvertenza corrispondente.
+Gli avvisi negli elenchi avanzati e nei passaggi del flusso vengono evidenziati da un’icona arancione nella scheda. Inoltre, nel pannello a tendina viene visualizzato un messaggio di avvertenza corrispondente.
 
 Di seguito è riportato un esempio di avviso in una scheda Scelta che viene visualizzata nella scheda del passaggio Esegui campagna, nel pannello a tendina e nella scheda Scelta predefinita.
 
@@ -136,7 +136,7 @@ Di seguito è riportato un esempio di avviso in una scheda Scelta che viene visu
 
 **Gli errori nelle schede dei filtri possono includere:**
 
-* Errore nell’elenco avanzato che impedirà la visualizzazione del pubblico qualificato
+* Errore nell’elenco avanzato che impedirà la visualizzazione di un pubblico qualificato
 
 * Errore nella logica del filtro
 

@@ -4,16 +4,16 @@ description: SEO - Informazioni sui collegamenti in entrata - Documentazione Mar
 title: SEO - Informazioni sui collegamenti in entrata
 exl-id: 2f70cff9-1873-4083-927d-a65cae98af54
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 1%
 
 ---
 
-# SEO - Informazioni su [!UICONTROL collegamenti in entrata] {#seo-understanding-inbound-links}
+# SEO - Informazioni su [!UICONTROL Inbound Links] {#seo-understanding-inbound-links}
 
-[!UICONTROL Collegamenti in entrata] indicano ai motori di ricerca che vale la pena fare riferimento al tuo sito. Bene!
+[!UICONTROL Inbound links] indica ai motori di ricerca che vale la pena fare riferimento al tuo sito.
 
 ![](assets/image2014-9-18-13-3a18-3a10.png)
 
@@ -21,14 +21,14 @@ ht-degree: 0%
 
 | Titolo colonna | Descrizione |
 |---|---|
-| [!UICONTROL URL del collegamento in entrata] | La pagina web in questione. |
-| [!UICONTROL Priorità] | Quanto è preziosa questa opportunità per la tua classificazione delle pagine. |
-| [!UICONTROL Collegamenti alla concorrenza] | Indica se un concorrente è collegato a in tale URL. |
-| [!UICONTROL Collegamenti al sito] | Indica se il sito è collegato a in tale URL. |
-| [!UICONTROL Collegamenti dal sito] | Indica se il sito è collegato a tale URL. |
+| [!UICONTROL URL of Inbound Link] | La pagina web in questione. |
+| [!UICONTROL Priority] | Quanto è preziosa questa opportunità per la tua classificazione delle pagine. |
+| [!UICONTROL Links to competitor] | Indica se un concorrente è collegato a in tale URL. |
+| [!UICONTROL Links to my site] | Indica se il sito è collegato a in tale URL. |
+| [!UICONTROL Links from my site] | Indica se il sito è collegato a tale URL. |
 | [!UICONTROL PageRank] | Identifica la classificazione della pagina degli URL nella ricerca (1-10) |
 
-Dolce! Ora che conosci i collegamenti in entrata, possiamo suggerire più opportunità di collegamento in entrata per il tuo sito.
+Ora che conosci i collegamenti in entrata, possiamo suggerire più opportunità di collegamento in entrata per il tuo sito.
 
 >[!MORELIKETHIS]
 >
