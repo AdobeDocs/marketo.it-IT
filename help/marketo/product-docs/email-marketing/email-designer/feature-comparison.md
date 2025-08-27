@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 0954e315b215de49edbb96c08dd9ff27be64e423
+source-git-commit: 8ebb9c0b60da364a9112d4c807b9c31b8f1b501f
 workflow-type: tm+mt
-source-wordcount: '892'
-ht-degree: 10%
+source-wordcount: '907'
+ht-degree: 9%
 
 ---
 
@@ -259,11 +259,11 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Script Velocity</td>
     <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
     <td>Disponibile</td>
-    <td>Disponibile a breve</td>
+    <td>Non necessario</td>
   </tr>
   <tr>
-    <td>Kit del marchio</td>
-    <td>Possibilità di migliorare le e-mail in linea con le linee guida del brand.</td>
+    <td>Script Handlebar</td>
+    <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il terzo trimestre '25</td>
   </tr>
@@ -272,6 +272,12 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Possibilità di introdurre flussi di lavoro di approvazione per le e-mail in Marketo Engage.</td>
     <td>Non disponibile</td>
     <td>Pianificato per il quarto trimestre del '25</td>
+  </tr>
+  <tr>
+    <td>Kit del marchio</td>
+    <td>Possibilità di migliorare le e-mail in linea con le linee guida del brand.</td>
+    <td>Non disponibile</td>
+    <td>Pianificato per il primo trimestre 2026</td>
   </tr>
   <tr>
     <td>Sperimentazione (Test A/B)</td>
