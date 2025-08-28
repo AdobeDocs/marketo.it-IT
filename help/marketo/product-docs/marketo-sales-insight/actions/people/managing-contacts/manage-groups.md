@@ -3,9 +3,9 @@ description: Gestire i gruppi - Documentazione di Marketo - Documentazione del p
 title: Gestisci gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 28956176a51e0c632c58c9d92822122df507f0f1
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '362'
 ht-degree: 0%
 
 ---
@@ -57,11 +57,11 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 
    Tutto qui!
 
-## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
+## Aggiungere contatti a una {#add-contacts-to-a-}
 
 1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo a cui si desidera aggiungere le persone.
 
-   ![](assets/manage-groups-3.png)
+
 
 1. Fare clic su **[!UICONTROL Group Actions]** e selezionare **[!UICONTROL Create Contact and add to Group]**.
 
@@ -77,19 +77,42 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
    >
    >Per visualizzare i nuovi contatti aggiunti, potrebbe essere necessario premere Aggiorna.
 
+## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
+
+1. In _Gruppi_, seleziona **Tutte le persone**.
+
+   ![](assets/manage-groups-3.png)
+
+1. Cerca la persona o le persone che desideri aggiungere.
+
+   ![](assets/manage-groups-4.png)
+
+1. Per selezionarli, fai clic sulla casella di controllo accanto al nome.
+
+   ![](assets/manage-groups-5.png)
+
+1. Fare clic sull&#39;icona Altre azioni (![](assets/icon-more-actions.png)) e selezionare **Aggiungi persone al gruppo**.
+
+   ![](assets/manage-groups-6.png)
+
+1. Selezionare il gruppo a cui si desidera aggiungerli e fare clic su **Aggiungi**.
+
+   ![](assets/manage-groups-7.png)
+
+
 ## Condividere un gruppo {#share-a-group}
 
 1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera condividere.
 
-   ![](assets/manage-groups-6.png)
+   ![](assets/manage-groups-8.png)
 
 1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-7.png)
+   ![](assets/manage-groups-9.png)
 
 1. Fare clic sull&#39;elenco a discesa, scegliere il team con cui si desidera condividere il gruppo e fare clic su **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-8.png)
+   ![](assets/manage-groups-10.png)
 
    Il gruppo è ancora di tua proprietà, ma ora verrà visualizzato in _Gruppi team_.
 
@@ -97,15 +120,15 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 
 1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera annullare la condivisione.
 
-   ![](assets/manage-groups-9.png)
+   ![](assets/manage-groups-11.png)
 
 1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Share]**.
 
-   ![](assets/manage-groups-10.png)
+   ![](assets/manage-groups-12.png)
 
 1. Fai clic su **X** accanto al team con cui hai condiviso il gruppo, quindi fai clic su fuori dal modale.
 
-   ![](assets/manage-groups-11.png)
+   ![](assets/manage-groups-13.png)
 
    Il gruppo non è più condiviso.
 
@@ -113,26 +136,26 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 
 1. Nella pagina [!UICONTROL People], individuare e selezionare il gruppo che si desidera rinominare.
 
-   ![](assets/manage-groups-12.png)
+   ![](assets/manage-groups-14.png)
 
 1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Edit]**.
 
-   ![](assets/manage-groups-13.png)
+   ![](assets/manage-groups-15.png)
 
 1. Digitare il nuovo nome e fare clic su **[!UICONTROL Save]**.
 
-   ![](assets/manage-groups-14.png)
+   ![](assets/manage-groups-16.png)
 
 ## Eliminare un gruppo {#delete-a-group}
 
 1. Nella pagina Persone individuare e selezionare il gruppo che si desidera eliminare.
 
-   ![](assets/manage-groups-15.png)
+   ![](assets/manage-groups-17.png)
 
 1. Fare clic sul punto (tre punti verticali) e selezionare **[!UICONTROL Delete]**.
 
-   ![](assets/manage-groups-16.png)
+   ![](assets/manage-groups-18.png)
 
 1. Fai clic su **[!UICONTROL Delete]** per confermare.
 
-   ![](assets/manage-groups-17.png)
+   ![](assets/manage-groups-19.png)
