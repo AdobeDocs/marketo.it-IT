@@ -125,7 +125,7 @@ Scopri come esportare sezioni specifiche del rapporto.
 
 Guarda il video seguente per vedere un esempio di esperienza di report drill-through con più pagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451690/?quality=12&learn=on&captions=ita){transcript=true}
 
 ## Rapporti standard in Advanced BI Analytics {#standard-reports}
 
