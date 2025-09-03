@@ -4,9 +4,9 @@ description: Aggiungere SSL alle pagine di destinazione - Documentazione di Mark
 title: Aggiungere SSL alle pagine di destinazione
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
 workflow-type: tm+mt
-source-wordcount: '714'
+source-wordcount: '778'
 ht-degree: 0%
 
 ---
@@ -73,31 +73,35 @@ Di seguito sono riportati i messaggi di errore che potresti ricevere insieme all
     <th>Dettagli</th>
   </tr></thead>
 <tbody>
-  <tr>
-    <td><i>Errore imprevisto durante la creazione di un dominio. Contatta il supporto per assistenza.</i></td>
-    <td>Si è verificato un errore imprevisto. Raccogliere i registri e i dettagli degli errori e inoltrare il problema al <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Supporto Marketo</a>.</td>
-  </tr>
-  <tr>
-    <td><i>Dominio predefinito non trovato. Contatta il supporto per assistenza.</i></td>
-    <td>Si è verificato un problema durante il tentativo di individuare il dominio predefinito. Rivolgiti al Supporto tecnico per consentire loro di svolgere indagini approfondite.</td>
-  </tr>
-  <tr>
-    <td><i>Il certificato SSL è già stato rilasciato.</i></td>
-    <td>Esiste già un certificato SSL per questo dominio personalizzato. Non sono necessarie ulteriori azioni a meno che il certificato non sia scaduto o debba essere nuovamente rilasciato.</td>
+<tr>
+    <td><i>Il dominio esiste già.</i></td>
+    <td>Esiste già un dominio con lo stesso nome.</td>
   </tr>
   <tr>
     <td><i>Il dominio non è mappato al dominio predefinito.</i></td>
     <td>Il dominio personalizzato non è mappato correttamente al dominio predefinito. Verificare le impostazioni di mappatura del dominio e assicurarsi che la configurazione DNS punti al dominio predefinito corretto.</td>
   </tr>
   <tr>
-    <td><i>Il dominio esiste già.</i></td>
-    <td>Esiste già un dominio con lo stesso nome.</td>
+    <td><i>Impossibile rilasciare i certificati SSL a causa di record CAA non supportati. Richiedi al tuo reparto IT di aggiornare i tuoi record CAA.</i></td>
+    <td>Record CAA non aggiornati. Per coloro che utilizzano certificati SSL gestiti da Marketo Engage, i record CAA devono essere aggiornati ai certificati consigliati dal nostro fornitore. Contatta il reparto IT per aggiornare i record CAA. Vedi <a href="https://nation.marketo.com/t5/product-blogs/changes-to-marketo-engage-secured-domains-platform/ba-p/329305#M2246">questa pagina</a> per ulteriori dettagli.</td>
+  </tr>
+  <tr>
+    <td><i>Il certificato SSL è già stato rilasciato.</i></td>
+    <td>Esiste già un certificato SSL per questo dominio personalizzato. Non sono necessarie ulteriori azioni a meno che il certificato non sia scaduto o debba essere nuovamente rilasciato.</td>
+  </tr>
+  <tr>
+    <td><i>Dominio predefinito non trovato. Contatta il supporto per assistenza.</i></td>
+    <td>Si è verificato un problema durante il tentativo di individuare il dominio predefinito. Rivolgiti al Supporto tecnico per consentire loro di svolgere indagini approfondite.</td>
+  </tr>
+  <tr>
+    <td><i>Errore imprevisto durante la creazione di un dominio. Contatta il supporto per assistenza.</i></td>
+    <td>Si è verificato un errore imprevisto. Raccogliere i registri e i dettagli degli errori e inoltrare il problema al <a href="https://nation.marketo.com/t5/support/ct-p/Support" target="_blank">Supporto Marketo</a>.</td>
   </tr>
 </tbody></table>
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 
