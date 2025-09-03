@@ -3,9 +3,9 @@ description: Panoramica di Advanced BI Analytics - Documentazione di Marketo - D
 title: Panoramica di Advanced BI Analytics
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7c9a3a39dd78923a5243cea7de4fc9925b6f0a4d
 workflow-type: tm+mt
-source-wordcount: '1222'
+source-wordcount: '1038'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ Scopri come esportare sezioni specifiche del rapporto.
 
 Guarda il video seguente per vedere un esempio di esperienza di report drill-through con più pagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451690/?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapporti standard in Advanced BI Analytics {#standard-reports}
 
@@ -236,23 +236,13 @@ I seguenti rapporti standard sono inclusi come esempi per i rapporti personalizz
 
 ## Aspetti da considerare {#note}
 
-* La classica esperienza &quot;Revenue Explorer&quot; diventerà definitivamente obsoleta il 10 giugno 2025. Nel frattempo, puoi accedere ai rapporti di entrambe le esperienze, crearli, aggiornarli ed eliminarli.
+* I rapporti personalizzati sono stati replicati dall&#39;esperienza classica alla nuova esperienza con le modifiche di comportamento rilevanti menzionate nella sezione [Apprendere la nuova esperienza](#learning-the-new-experience) di seguito.
 
-* I report personalizzati verranno replicati dall&#39;esperienza classica alla nuova esperienza con le modifiche di comportamento rilevanti menzionate nella sezione [Apprendimento della nuova esperienza](#learning-the-new-experience) di seguito.
+* Le dashboard nell’esperienza classica non erano trasferibili e richiedevano la ricreazione nella nuova esperienza. Possono essere ricreati come rapporti nella nuova esperienza e i filtri nella nuova esperienza estraggono automaticamente i valori possibili.
 
-  >[!IMPORTANT]
+  >[!NOTE]
   >
-  >La replica dei rapporti personalizzati verrà eseguita in gruppi. Una volta replicati i rapporti personalizzati nella nuova esperienza, per garantire la coerenza tra le due esperienze, eventuali modifiche apportate nell’esperienza classica dovranno essere applicate manualmente anche ai rapporti corrispondenti nella nuova esperienza. Una nota informativa su quanto sopra si accenderà nell’esperienza classica al momento della replica dei rapporti dei clienti.
-
-   * Le dashboard nell’esperienza classica non sono trasferibili e richiederanno la ricreazione nella nuova esperienza. Dovrebbero essere ricreati come rapporti nella nuova esperienza e i filtri nella nuova esperienza richiamano automaticamente i valori possibili invece di richiedere di immettere manualmente tutti i valori possibili singolarmente nell’esperienza classica.
-
-     >[!NOTE]
-     >
-     >La dashboard nella nuova esperienza è semplicemente una raccolta di rapporti su una singola pagina. Il valore principale della dashboard nella nuova esperienza consiste nel consentire la presentazione di informazioni analitiche tra diverse aree di reporting.
-
-* Gli abbonamenti e-mail nell’esperienza classica verranno replicati nella nuova esperienza. Gli abbonamenti e-mail nell’esperienza classica continueranno a funzionare fino a quando, il 10 giugno 2025, l’esperienza classica non verrà dichiarata obsoleta.
-
-* Gli utenti di Revenue Explorer esistenti hanno automaticamente accesso alla nuova esperienza di Advanced BI Analytics.
+  >La dashboard nella nuova esperienza è semplicemente una raccolta di rapporti su una singola pagina. Il valore principale della dashboard nella nuova esperienza consiste nel consentire la presentazione di informazioni analitiche tra diverse aree di reporting.
 
 * È possibile creare **fino a 700 report** in Advanced BI Analytics.
 
@@ -282,13 +272,9 @@ Di seguito sono riportate le modifiche apportate alla nuova esperienza (Advanced
 
 * I filtri di tipo stringa ora distinguono tra maiuscole e minuscole.
 
-* Il campo della formula di runtime nell’esperienza classica non è più supportato.
-
-* L’abbonamento e-mail include l’esportazione PDF anziché il HTML del rapporto. La nuova sottoscrizione e-mail non includerà la definizione del rapporto.
+* L’abbonamento e-mail include l’esportazione PDF anziché il HTML del rapporto. La nuova sottoscrizione e-mail non include la definizione del rapporto.
 
 * Il collegamento profondo del rapporto non è al momento supportato.
-
-* L’esportazione di PDF è sincrona nella nuova esperienza, rispetto all’esperienza classica.
 
 >[!NOTE]
 >
