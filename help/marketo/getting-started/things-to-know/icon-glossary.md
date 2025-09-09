@@ -1,16 +1,16 @@
 ---
-description: Icona Glossario - Documentazione di Marketo Engage - Documentazione del prodotto
+description: Glossario delle icone - Documentazione di Marketo Engage - Documentazione del prodotto
 title: Icona Glossario
 feature: Getting Started
 exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '242'
-ht-degree: 33%
+ht-degree: 100%
 
 ---
 
-# Glossario icone Marketo Engage {#icon-glossary}
+# Glossario delle icone di Marketo Engage {#icon-glossary}
 
 Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marketo Engage. Se devi fare riferimento alle icone di Marketo Classic, puoi trovarle [qui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
 
@@ -136,7 +136,7 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td>
    <td><img src="assets/landing-page-template.png"></td>
-   <td>Modello per pagina di destinazione</td>
+   <td>Modello pagina di destinazione</td>
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td>
@@ -248,7 +248,7 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>È In Esecuzione, Nessun Prossimo</td>
+   <td>Eseguito, nessuno in arrivo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -263,12 +263,12 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/running-in-wait-step.png"></td>
-   <td>In esecuzione, nel passaggio Attesa</td>
+   <td>In esecuzione, in attesa</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
    <td><img src="assets/scheduled-to-run.png"></td>
-   <td>Pianificato per l'esecuzione</td>
+   <td>Esecuzione pianificata</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
@@ -278,7 +278,7 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>Utilizzato dall’allevamento</td>
+   <td>Utilizzato tramite nurturing</td>
   </tr>
  </tbody>
 </table>
@@ -337,7 +337,7 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>
    <td><img src="assets/not-approved.png"></td>
-   <td>Non Approvato</td>
+   <td>Non approvato</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
@@ -445,12 +445,12 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>Approvato - In fase di calcolo</td>
+   <td>Approvato - in fase di calcolo</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>Approvato - in ricalcolo</td>
+   <td>Approvato - in fase di ricalcolo</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>

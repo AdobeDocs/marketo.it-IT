@@ -1,35 +1,35 @@
 ---
 unique-page-id: 1147226
 description: Guida introduttiva - Documentazione di Marketo - Documentazione del prodotto
-title: Guida introduttiva
+title: Guida introduttuva
 hide: true
 hidefromtoc: true
 exl-id: 11c883eb-2a22-4706-ba0a-09ca11648054
 feature: Getting Started
 source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '133'
-ht-degree: 11%
+ht-degree: 100%
 
 ---
 
-# Guida introduttiva {#getting-started}
+# Guida introduttuva {#getting-started}
 
 ## Cos’è Adobe Marketo Engage {#what-is-marketo-engage}
 
-Che cos&#39;è il Marketo Engage? Ottima domanda!
+Che cos&#39;è Marketo Engage? Ottima domanda!
 
-[Marketo Engage di apprendimento](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
+[Scopri  Marketo Engage](/help/marketo/getting-started/what-is-adobe-marketo-engage.md){target="_blank"}
 
-## Configurazione {#get-set-up}
+## Preparati {#get-set-up}
 
-Con un piccolo aiuto dal tuo team IT, potrai completarlo in breve tempo.
+Con un piccolo aiuto dal tuo team IT, potrai completarla in breve tempo.
 
-[Avvia installazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
+[Iniziare la configurazione](/help/marketo/getting-started/initial-setup/setup-steps.md){target="_blank"}
 
 ## Ottieni alcuni risultati in breve {#get-some-quick-wins}
 
-Completate queste missioni per apprendere le caratteristiche principali del Marketo Engage.
+Completa queste missioni per scoprire le funzionalità principali di Marketo Engage.
 
 <table style="table-layout:fixed">
 <tr>
@@ -92,7 +92,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <img alt="Connetti" src="getting-started/assets/getting-started-7.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Alimentazione A Goccia</a>
+    <a href="getting-started/quick-wins/drip-drip-nurture.md">7. Drip, Drip, Nurturing</a>
     </div>
     <br>
   </td>
@@ -100,7 +100,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <a href="getting-started/quick-wins/personalize-an-email.md">
        <img alt="Importa" src="getting-started/assets/getting-started-8.png" />
        </a>
-    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizzazione di un'e-mail</a>
+    <div><a href="getting-started/quick-wins/personalize-an-email.md">8. Personalizza un'e-mail</a>
     </div>
     <br>
   </td>
@@ -109,7 +109,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <img alt="E-mail" src="getting-started/assets/getting-started-9.png" />
     </a>
     <div>
-    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisa il rappresentante commerciale </a>
+    <a href="getting-started/quick-wins/alert-the-sales-rep.md">9. Avvisa il rappresentante commerciale</a>
     </div>
     <br>
   </td>
@@ -118,7 +118,7 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
       <img alt="Connetti" src="getting-started/assets/getting-started-10.png"/>
     </a>
     <div>
-    <a href="getting-started/quick-wins/update-person-data.md">10. Aggiorna dati persona</a>
+    <a href="getting-started/quick-wins/update-person-data.md">10. Aggiorna i dati della persona</a>
     </div>
     <br>
   </td>
@@ -127,4 +127,4 @@ Completate queste missioni per apprendere le caratteristiche principali del Mark
 
 ## FASE 4 Congratulazioni! Sei pronto per la nazione  {#congrats-youre-ready-for-the-nation}
 
-Controlla la [nazione marketing](https://nation.marketo.com){target="_blank"}!
+Controlla il [Marketing Nation](https://nation.marketo.com){target="_blank"}!

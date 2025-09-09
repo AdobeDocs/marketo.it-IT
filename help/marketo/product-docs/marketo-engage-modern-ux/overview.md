@@ -1,22 +1,22 @@
 ---
-description: Panoramica di Marketo Engage Modern UX - Documentazione di Marketo - Documentazione del prodotto
+description: Panoramica di Marketo Engage Modern UX - Documenti di Marketo - Documentazione del prodotto
 title: Panoramica di Marketo Engage Modern UX
 exl-id: 50ab55b2-f40d-4dbd-ac3b-aa52e37ff426
 feature: Modern UX
 source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # Panoramica di Marketo Engage Modern UX {#overview}
 
-Benvenuti in Adobe Marketo Engage Modern UX (user experience), un’interfaccia aggiornata che offre una migliore usabilità e un nuovo aspetto sulla piattaforma Marketo Engage.
+Diamo il benvenuto in Adobe Marketo Engage Modern UX (esperienza utente), un’interfaccia aggiornata che offre una migliore usabilità e un nuovo look and feel sulla piattaforma Marketo Engage.
 
 >[!PREREQUISITES]
 >
->Se il tuo team IT limita l’accesso web utilizzando un inserisco nell&#39;elenco Consentiti di, chiedi loro di aggiungere i seguenti domini (incluso l’asterisco) per consentire tutte le risorse e i websockets di Marketo:
+>Se il tuo team IT limita l’accesso web utilizzando un elenco Consentiti, chiedi loro di aggiungere i seguenti domini (incluso l’asterisco) per consentire tutte le risorse e i websockets di Marketo:
 >
 >* *.marketo.com
 >* *.marketodesigner.com
@@ -28,7 +28,7 @@ Nell’esperienza utente moderna sono presenti molte nuove funzionalità, proget
 
 **Icone**
 
-La nuova interfaccia presenta un&#39;iconografia migliorata ed estesa.
+La nuova interfaccia presenta un’iconografia migliorata ed estesa.
 
 ![](assets/overview-2.png)
 
@@ -40,13 +40,13 @@ Arrivederci superball. Ora puoi accedere rapidamente a tutte le sezioni principa
 
 **URL istanza**
 
-Inoltre, puoi accedere rapidamente al tuo ID munchkin, che ora si riflette nell’URL dell’istanza (ancora più utile per chi ha più abbonamenti).
+Inoltre, puoi accedere rapidamente al tuo ID Munchkin, che ora si riflette nell’URL dell’istanza (ancora più utile per chi ha più abbonamenti).
 
 ![](assets/overview-6.png)
 
-## Nuove opzioni albero {#new-tree-options}
+## Nuove opzioni struttura {#new-tree-options}
 
-Sono disponibili numerose nuove funzionalità dell&#39;albero.
+Sono disponibili numerose nuove funzioni della struttura.
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Nodo combinato struttura bozza e approvazione</td>
+   <td>Nodo combinato di struttura bozza e approvazione</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -87,17 +87,17 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
    <td></td>
   </tr>
   <tr>
-   <td>Trascinare all'interno della struttura</td>
+   <td>Trascinare all’interno della struttura</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Filtra per tipo di risorsa e stati</td>
+   <td>Filtrare per tipo di risorsa e stati</td>
    <td><i>parziale</i></td>
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Evidenzia sfondo per mostrare la gerarchia nello stato attivo</td>
+   <td>Evidenziare sfondo per mostrare la gerarchia nello stato attivo</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -137,7 +137,7 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Cerca nelle cartelle archiviate</td>
+   <td>Ricerca nelle cartelle archiviate</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -147,7 +147,7 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Mostra tutte le aree di lavoro in un unico albero</td>
+   <td>Mostra tutte le aree di lavoro in una singola struttura</td>
    <td><strong>X</strong></td>
    <td><strong>X</strong></td>
   </tr>
@@ -157,7 +157,7 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
    <td><strong>X</strong></td>
   </tr>
   <tr>
-   <td>Logica di ricerca 'Word starts with'</td>
+   <td>Logica di ricerca "Word starts with"</td>
    <td></td>
    <td><strong>X</strong></td>
   </tr>
@@ -166,7 +166,7 @@ Sono disponibili numerose nuove funzionalità dell&#39;albero.
 
 ## Navigazione globale {#global-nav}
 
-Dai un&#39;occhiata al nuovo Global Nav.
+Dai un&#39;occhiata alla nuova Navigazione globale.
 
 ![](assets/overview-7.png)
 
@@ -187,17 +187,17 @@ Dai un&#39;occhiata al nuovo Global Nav.
   </tr>
   <tr>
    <td>4</td>
-   <td>Ricerca globale: da qui è ora possibile eseguire una ricerca nell’intera istanza</td>
+   <td>Ricerca globale: da qui è ora possibile eseguire una ricerca nell'intera istanza</td>
   </tr>
  </tbody>
 </table>
 
 >[!NOTE]
 >
->Tutto ciò che una volta viveva nel menu a discesa superball è ancora disponibile come sezione nel tuo My Marketo.
+>Tutto ciò che una volta era presente nel menu a discesa superball è ancora disponibile come sezione nel Marketo personale.
 
 >[!TIP]
 >
->L’utilizzo della ricerca nella struttura produrrà risultati solo dalla sezione in cui ti trovi (ad esempio, Attività di marketing). Se desideri cercare nell’intera istanza, utilizza la ricerca globale.
+>L&#39;utilizzo della ricerca nella struttura produrrà risultati solo dalla sezione in cui ti trovi (ad esempio, Attività di marketing). Se desideri ricercare nell&#39;intera istanza, utilizza la ricerca globale.
 
-Godetevi la nuova esperienza Marketo Engage!
+Goditi la nuova esperienza Marketo Engage!
