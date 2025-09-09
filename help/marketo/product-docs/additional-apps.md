@@ -1,11 +1,11 @@
 ---
 unique-page-id: 557086
-description: App aggiuntive - Documentazione Marketo - Documentazione del prodotto
+description: App aggiuntive - Documentazione di Marketo - Documentazione del prodotto
 title: App aggiuntive
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 30%
 
 ---
 

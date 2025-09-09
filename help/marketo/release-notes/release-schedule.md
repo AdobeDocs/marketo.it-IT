@@ -7,19 +7,19 @@ feature: Release Information
 source-git-commit: 015ece7d2ad38f6e0c957298bce432316e8d9efa
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 # Pianificazione delle versioni {#release-schedule}
 
-**Versione**: il mese/anno di ciascuna versione. Una volta disponibili, le note sulla versione saranno collegate nella tabella seguente.
+**Rilascio**: il mese/anno di ciascuna versione. Una volta disponibili, le note sulla versione saranno collegate nella tabella seguente.
 
-**Data di rilascio**: in genere il rollout inizia il martedì della settimana di rilascio, con l&#39;aggiornamento che si verifica venerdì sera. La data indicata corrisponde all’aggiornamento del venerdì.
+**Data di rilascio**: in genere il rollout inizia il martedì della settimana di rilascio, con l&#39;aggiornamento che si verifica venerdì sera. La data indicata corrisponde all&#39;aggiornamento del venerdì.
 
 **Stato**:
 
-* Pianificazione: prevediamo di rilasciare le funzioni e i miglioramenti alla data indicata
+* Informazioni sulla pianificazione: è previsto il rilascio delle funzioni e i miglioramenti alla data indicata
 * In corso: stiamo implementando le funzioni della versione
 * Spedito: rilascio completato
 
@@ -33,7 +33,7 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <th width="250px">Stato</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Gennaio '25</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Gennaio 2025</a></td>
    <td>17 gennaio 2025</td>
    <td>Spedito</td>
   </tr>
@@ -43,34 +43,34 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <td>Spedito</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Aprile '25</a></td>
-   <td>Aprile '25</td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Aprile 2025</a></td>
+   <td>Aprile 2025</td>
    <td>Spedito</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maggio '25</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maggio 2025</a></td>
    <td>23 maggio 2025</td>
    <td>Spedito</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Luglio '25</a></td>
+   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Luglio 2025</a></td>
    <td>sabato 11 luglio 2025</td>
    <td>Spedito</td>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/current.md">Agosto '25</a></td>
+   <td><a href="/help/marketo/release-notes/current.md">Agosto 2025</a></td>
    <td>22 agosto 2025</td>
    <td>In corso</td>
   </tr>
   <tr>
-   <td>Settembre '25</td>
+   <td>Settembre 2025</td>
    <td>19 settembre 2025</td>
-   <td>Su pianificazione</td>
+   <td>Informazioni sulla pianificazione</td>
   </tr>
   <tr>
-   <td>Ottobre '25</td>
+   <td>Ottobre 2025</td>
    <td>17 ottobre 2025</td>
-   <td>Su pianificazione</td>
+   <td>Informazioni sulla pianificazione</td>
   </tr>
  </tbody>
 </table>
