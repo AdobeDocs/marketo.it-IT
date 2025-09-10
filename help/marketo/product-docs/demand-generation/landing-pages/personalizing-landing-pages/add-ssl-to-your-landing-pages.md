@@ -4,10 +4,10 @@ description: Aggiungere SSL alle pagine di destinazione - Documentazione di Mark
 title: Aggiungere SSL alle pagine di destinazione
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: df3a495cc8859c0473b82c5e1bdb36d133e8f48d
+source-git-commit: 2bbfe8f1d000f182aba3a1d3e0c58c1be47b76a7
 workflow-type: tm+mt
-source-wordcount: '778'
-ht-degree: 0%
+source-wordcount: '702'
+ht-degree: 2%
 
 ---
 
@@ -59,9 +59,7 @@ Per abilitare SSL per il dominio predefinito, segui la procedura riportata di se
 
 >[!NOTE]
 >
->* La colonna Certificato SSL nell’elenco mostra lo stato del certificato per tutti gli alias di dominio creati dopo il rilascio di questa funzione (25 aprile 2025). Se SSL era abilitato per un dominio tramite il supporto Marketo, il certificato continuerà a esistere ma non verrà visualizzato nella tabella. Questa tabella riflette solo i certificati SSL per i domini aggiunti utilizzando i passaggi descritti in questo articolo.
->
->* Possono essere necessari fino a tre minuti perché SSL sia nello stato READY. È necessario aggiornare la pagina per visualizzare le modifiche.
+>Possono essere necessari fino a tre minuti perché SSL sia nello stato READY. È necessario aggiornare la pagina per visualizzare le modifiche.
 
 ## Messaggi di errore {#error-messages}
 
@@ -101,12 +99,10 @@ Di seguito sono riportati i messaggi di errore che potresti ricevere insieme all
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 
 * **SSL preesistenti**: durante l&#39;aggiunta di un dominio, il sistema verifica la presenza di SSL preesistenti, che potrebbero essere stati creati manualmente in precedenza. Se si verifica questa convalida, crea il dominio senza selezionare la creazione SSL, che verrà connessa automaticamente. [Contatta il supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per ulteriori dettagli/opzioni.
 
-* **Aggiunta di certificati a domini esistenti**: l&#39;aggiunta di certificati a domini esistenti non è al momento supportata. Per i domini preesistenti o per i casi in cui non è stato possibile selezionare la casella del certificato SSL, è necessario contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per ottenere l&#39;aggiunta del certificato.
-
-* **Eliminazione di domini**: l&#39;eliminazione di un dominio comporta l&#39;eliminazione automatica del certificato SSL.
+* **Eliminazione di domini**: l&#39;eliminazione automatica di un dominio **non** comporta l&#39;eliminazione del certificato SSL. Questo guardrail evita errori degli utenti che determinano la mancanza di certificati SSL in un sito Web. Se desideri rimuovere i certificati SSL, [contatta il supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
