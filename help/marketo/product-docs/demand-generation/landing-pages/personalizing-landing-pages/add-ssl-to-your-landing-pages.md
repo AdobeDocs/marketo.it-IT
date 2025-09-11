@@ -65,7 +65,7 @@ Per abilitare SSL per il dominio predefinito, segui la procedura riportata di se
 
 Per abilitare SSL per gli alias di dominio esistenti, segui la procedura riportata di seguito.
 
-1. Dall&#39;area _[!UICONTROL Admin]_, espandere **[!UICONTROL Integration]**nel menu di navigazione a sinistra e selezionare **[!UICONTROL Landing Pages]**.
+1. Dall&#39;area _[!UICONTROL Admin]_, espandere **[!UICONTROL Integration]**&#x200B;nel menu di navigazione a sinistra e selezionare **[!UICONTROL Landing Pages]**.
 
 1. Nella pagina, seleziona la scheda **[!UICONTROL Rules]** in alto.
 
