@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515401
 description: Creare un modello di pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un modello di pagina di destinazione guidata
+title: Creare un modello di pagina di destinazione in formato guidato
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
 workflow-type: tm+mt
-source-wordcount: '1263'
-ht-degree: 1%
+source-wordcount: '1122'
+ht-degree: 2%
 
 ---
 
-# Creare un modello di pagina di destinazione guidata {#create-a-guided-landing-page-template}
+# Creare un modello di pagina di destinazione in formato guidato {#create-a-guided-landing-page-template}
 
 I modelli di pagina di destinazione guidata hanno una sintassi speciale. Utilizza questa sintassi per specificare cosa è personalizzabile e dove il contenuto finirà su ogni pagina di destinazione creata dal modello. Solo le aree geografiche o le variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor di pagine di destinazione &quot;Guidate&quot;.
 
@@ -90,7 +90,7 @@ Attributi :Required di esempio:
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
 
-## Frammento {#snippet}
+## Snippet {#snippet}
 
 Attributi richiesti:
 **class**: &quot;mktoSnippet&quot;
@@ -126,39 +126,6 @@ Attributi richiesti:
 Esempio:
 
 `<div class="mktoVideo" id="exampleVideo" mktoName="Example Video"></div>`
-
-## Sondaggio {#poll}
-
-Attributi richiesti:
-**classe**: &quot;mktoPoll&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
-**mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
-
-Esempio:
-
-`<div class="mktoPoll" id="examplePoll" mktoName="Example Poll"></div>`
-
-## Referral {#referral}
-
-Attributi richiesti:
-**class**: &quot;mktoReferral&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
-**mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
-
-Esempio:
-
-`<div class="mktoReferral" id="exampleReferral" mktoName="Example Referral"></div>`
-
-## Lotterie {#sweepstakes}
-
-Attributi richiesti:
-**classe**: &quot;mktoSweepstakes&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
-**mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
-
-Esempio:
-
-`<div class="mktoSweepstakes" id="exampleSweepstakes" mktoName="Example Sweepstakes"></div>`
 
 ## Variabili Modificabili {#editable-variables}
 
