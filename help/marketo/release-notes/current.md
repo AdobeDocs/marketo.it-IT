@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 9189d45829a23a3b9eb75fc4125db92c3508773d
 workflow-type: tm+mt
-source-wordcount: '494'
-ht-degree: 51%
+source-wordcount: '653'
+ht-degree: 41%
 
 ---
 
@@ -33,6 +33,46 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Conservazione attività webinar on demand</strong>: gli utenti di webinar interattivi ora dispongono di dati del dashboard webinar on demand disponibili per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Invia e-mail a Designer - Flusso di lavoro di Collaboration dei contenuti</strong>: ora puoi commentare e collaborare con gli altri utenti di Marketo all'interno di una risorsa e-mail. Assegna tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa) e riceveranno un’e-mail o una notifica immediata.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Autorizzazioni di E-mail Designer - Assistente AI</strong>: gli amministratori di Marketo possono fornire a utenti specifici l'accesso alle funzioni GenAI.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Modalità scura</strong>: ora puoi utilizzare la modalità scura, che consente ai client e-mail e alle app di supporto di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell'interfaccia utente.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Correzioni reindirizzamento</strong>: alcuni utenti hanno riscontrato problemi di reindirizzamento con gli URL per le e-mail create utilizzando il nuovo Designer (ad esempio, non sempre è stato possibile incollare direttamente gli URL o inserire nei segnalibri le risorse e-mail). Questo problema è stato risolto. Inoltre, i collegamenti alle risorse e-mail da <b>Modelli e-mail</b> &gt; <b>Dettagli</b> &gt; <b>Utilizzati da</b> reindirizzeranno alla risorsa e-mail corrispondente.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
