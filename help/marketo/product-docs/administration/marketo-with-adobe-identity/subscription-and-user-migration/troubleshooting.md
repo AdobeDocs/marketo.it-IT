@@ -62,7 +62,7 @@ _Se l&#39;utente **non**&#x200B;deve essere migrato_ - l&#39;amministratore di M
 
 **Risoluzione**:
 
-_Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione del dominio è abilitata nell&#39;organizzazione di migrazione) - L&#39;indirizzo e-mail deve essere aggiornato in Marketo Engage per essere conforme al criterio di imposizione del dominio (DE). In alternativa, l&#39;amministratore di sistema può [spostare il dominio](https://helpx.adobe.com/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} in un&#39;altra directory disabilitata di Domain Enforcement (DE) o [creare una nuova directory](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"} che non sia inclusa nei criteri DE. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
+_Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione del dominio è abilitata nell&#39;organizzazione di migrazione) - L&#39;indirizzo e-mail deve essere aggiornato in Marketo Engage per essere conforme al criterio di imposizione del dominio (DE). In alternativa, l&#39;amministratore di sistema può [spostare il dominio](https://helpx.adobe.com/it/enterprise/using/manage-domains-directories.html#move-domains-across-directories){target="_blank"} in un&#39;altra directory disabilitata di Domain Enforcement (DE) o [creare una nuova directory](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"} che non sia inclusa nei criteri DE. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
 _Se è necessario eseguire la migrazione dell&#39;utente_ (e l&#39;imposizione del dominio è abilitata in un&#39;altra organizzazione), un amministratore di sistema dell&#39;organizzazione in cui il dominio è stato richiesto deve aggiungere l&#39;indirizzo e-mail dell&#39;utente all&#39;elenco di eccezioni. L’amministratore di Marketo Engage dovrà quindi eseguire nuovamente la migrazione degli utenti per questo utente dalla console di migrazione.
 
@@ -79,8 +79,8 @@ _Se l&#39;utente **non**&#x200B;deve essere migrato_ - l&#39;amministratore di M
 1. L’account di sola adesione viene creato (se applicabile) e collegato all’account Federated come account di autenticazione.
 
 **Ulteriori informazioni**
-* [Imposta identità senza Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
-* [Imposta identità con Single Sign-On](https://helpx.adobe.com/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
+* [Imposta identità senza Single Sign-On](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20without%20Single%20Sign%2DOn)
+* [Imposta identità con Single Sign-On](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html#:~:text=Set%20up%20identity%20with%20Single%20Sign%2DOn)
 
 ### Migrazione Pendo non riuscita {#pendo-migration-failed}
 
