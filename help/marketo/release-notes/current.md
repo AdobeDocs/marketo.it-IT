@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6d09e0f684844d7d2ced6205d7becde90ffcd7c7
+source-git-commit: c83145ca5e723f19e5bc89279ccd40cf4cf68ee3
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '654'
 ht-degree: 60%
 
 ---
@@ -42,7 +42,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Invia e-mail a Designer - Flusso di lavoro di Collaboration dei contenuti</strong>: ora puoi commentare e collaborare con gli altri utenti di Marketo all'interno di una risorsa e-mail. Assegna tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa) e riceveranno un’e-mail o una notifica immediata.</td>
+   <td><strong>Invia e-mail a Designer - Flusso di lavoro Collaboration dei contenuti</strong>: ora puoi aggiungere commenti e collaborare con altri utenti Marketo all'interno di una risorsa e-mail. Assegna tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa) e riceveranno un’e-mail o una notifica immediata.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
