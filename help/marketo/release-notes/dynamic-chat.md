@@ -4,9 +4,9 @@ title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3414'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -44,7 +44,7 @@ Se l’agente è disponibile, la chat gli viene indirizzata direttamente.
 
 Se l’agente non è disponibile, il sistema:
 
-* Non tenta un altro agente, anche se Round Robin è abilitato come fallback.
+* Non fa un tentativo con un altro agente, anche se Round Robin è abilitato come fallback.
 
 * Invece:
 
@@ -104,7 +104,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 <p>
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 <table><thead>
   <tr>
@@ -130,7 +130,7 @@ _&#x200B;**Indirizzamento account**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento personalizzato**&#x200B;_
+_**Indirizzamento personalizzato**_
 
 <table><thead>
   <tr>
@@ -156,7 +156,7 @@ _&#x200B;**Indirizzamento personalizzato**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Instradamento team**&#x200B;_
+_**Instradamento team**_
 
 <table><thead>
   <tr>
@@ -182,7 +182,7 @@ _&#x200B;**Instradamento team**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 <table><thead>
   <tr>
@@ -193,7 +193,7 @@ _&#x200B;**Indirizzamento Round Robin**&#x200B;_
 <tbody>
   <tr>
     <td>Ideale</td>
-    <td>Round Robin pool ha più agenti; il secondo agente accetta chat dopo primo non lo fa.</td>
+    <td>Il pool Round Robin ha più agenti; il secondo agente accetta la chat dopo che il primo non lo ha fatto.</td>
     <td>La chat si connette al secondo agente.</td>
   </tr>
   <tr>
@@ -344,7 +344,7 @@ Pertanto, quando un visitatore con cookie abc arriva a una pagina e fornisce un 
     <td>Persona nota</td>
     <td>xyz</td>
     <td>Diverso da persona esistente</td>
-    <td>questo scenario non è possibile se si tratta di un nuovo cookie di   predefinito considerato come nuovo profilo anonimo</td>
+    <td>questo scenario non è possibile se si tratta di un nuovo cookie considerato per impostazione predefinita come nuovo profilo anonimo</td>
   </tr>
 </tbody></table>
 

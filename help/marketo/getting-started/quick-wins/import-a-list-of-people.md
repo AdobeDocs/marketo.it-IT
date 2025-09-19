@@ -5,9 +5,9 @@ title: Importare un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
 source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '541'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 92%
 >
 >[Configurare e aggiungere una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 
-In questa esercitazione imparerai a importare le persone da un file di foglio di calcolo in Marketo.
+Questa esercitazione illustra come importare le persone da un file del foglio di calcolo in Marketo.
 
 ## Passaggio 1: scaricare e modificare un foglio di calcolo {#step-download-and-edit-a-spreadsheet}
 
@@ -113,7 +113,7 @@ In questa esercitazione imparerai a importare le persone da un file di foglio di
 
    >[!TIP]
    >
-   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (distinzione maiuscole/minuscole). Se stai utilizzando campi personalizzati e non li vedi nel menu a discesa, torna indietro e [creali](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} in modo che possano diventare opzioni.
+   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione maiuscole/minuscole). Se stai utilizzando campi personalizzati e non li vedi nel menu a discesa, torna indietro e [creali](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} in modo che possano diventare opzioni.
 
    >[!NOTE]
    >
@@ -127,7 +127,7 @@ In questa esercitazione imparerai a importare le persone da un file di foglio di
 
    ![](assets/import-a-list-of-people-14.png)
 
-1. Torna al **Il mio programma fiera**, fai clic sulla scheda **[!UICONTROL Members]**. Puoi vedere tutte le persone che hai appena importato.
+1. Torna al **Il mio programma fiera**, fai clic sulla scheda **[!UICONTROL Members]**. Vedrai tutte le persone appena importate.
 
    ![](assets/import-a-list-of-people-15.png)
 

@@ -3,9 +3,9 @@ unique-page-id: 557082
 description: Generazione rapporti - Documenti Marketo - Documentazione del prodotto
 title: Generazione dei rapporti
 source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 40%
+ht-degree: 100%
 
 ---
 
@@ -13,4 +13,4 @@ ht-degree: 40%
 # Generazione dei rapporti {#reporting}
 
 Approfondimenti su cui si può inervenire Questo è ciò che si ottiene con la generazione rapporti di Marketo. Puoi anche riceverli direttamente nella tua casella in entrata.
-**![Generazione rapporti di base](assets/documents-bookmarks-17.png)Generazione rapporti di base** [Introduzione ai rapporti di base. E-mail, web e rapporti sulla persona.](https://docs.marketo.com/display/DOCS/Basic+Reporting)     **![Analisi del ciclo dei ricavi](assets/seo-08.png)Analisi del ciclo dei ricavi** [Analisi del ciclo dei ricavi Vai all&#39;hardware con analisi dei dati della serie temporale.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     **![Performance Insights](assets/mpi-for-docs-2x.png)Performance Insights** [Performance Insights Visualizza tutti i KPI relativi alle prestazioni della campagna in un&#39;unica posizione.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     **![Insight e-mail](assets/email-insights.png)Insight e-mail** [Insight e-mail Esplora approfondimenti efficaci utilizzando i dati storici.](https://docs.marketo.com/display/DOCS/Email+Insights)
+**![Reporting di base](assets/documents-bookmarks-17.png)Reporting di base** [Introduzione al reporting di base. E-mail, web e rapporti sulla persona.](https://docs.marketo.com/display/DOCS/Basic+Reporting)     **![Analisi ciclo di entrate](assets/seo-08.png)Analisi ciclo di entrate** [Analisi ciclo di entrate Vai sul sicuro con l’analisi dei dati delle serie temporali.](https://docs.marketo.com/display/DOCS/Revenue+Cycle+Analytics)     **![Approfondimenti prestazioni](assets/mpi-for-docs-2x.png)Approfondimenti prestazioni** [Approfondimenti prestazioni Visualizza tutti i KPI relativi alle prestazioni della campagna in un’unica posizione.](https://docs.marketo.com/display/DOCS/Marketing+Performance+Insights)     **![Approfondimenti e-mail](assets/email-insights.png)Approfondimenti e-mail** [Approfondimenti e-mail Esplora approfondimenti efficaci utilizzando i dati storici.](https://docs.marketo.com/display/DOCS/Email+Insights)
