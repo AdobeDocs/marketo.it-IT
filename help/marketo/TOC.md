@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 95dda7d6e09f0e64fbce8e5bd39613f10ebde382
+source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
 workflow-type: tm+mt
-source-wordcount: '9304'
+source-wordcount: '9306'
 ht-degree: 99%
 
 ---
@@ -1040,6 +1040,7 @@ ht-degree: 99%
          + [Frammenti personalizzabili](product-docs/email-marketing/email-designer/customizable-fragments.md)
          + [Integrazione di GenStudio per Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
          + [Blocco dei contenuti](product-docs/email-marketing/email-designer/content-locking.md)
+         + [E-mail Collaboration](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistente IA](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Rapporto spam e-mail con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + Programmi e-mail {#email-programs}
