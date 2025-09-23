@@ -44,7 +44,7 @@ La migrazione del supporto verrà eseguita al termine della migrazione degli ute
 
 * Ulteriori informazioni su come accedere a Marketo Engage con un Adobe ID [ sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Ulteriori informazioni su [Adobe Experience League](https://experienceleague.adobe.com/?lang=it){target="_blank"}.
+* Ulteriori informazioni su [Adobe Experience League](https://experienceleague.adobe.com/it?lang=it){target="_blank"}.
 
 ## Hai ancora delle domande? {#still-have-questions}
 

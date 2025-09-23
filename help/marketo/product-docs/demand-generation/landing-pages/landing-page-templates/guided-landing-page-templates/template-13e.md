@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 13E {#template-13e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 13E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=it)
 
 ![](assets/image2015-8-11-14-3a33-3a18.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html)
+[Modello 13E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13e.html?lang=it)

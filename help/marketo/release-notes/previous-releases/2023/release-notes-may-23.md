@@ -74,7 +74,7 @@ I webinar interattivi verranno introdotti gradualmente. Per richiedere l&#39;acc
   </tr>
   <tr>
    <td>Rollout avviato</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Panoramica dei webinar interattivi</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=it">Panoramica dei webinar interattivi</a></td>
   </tr>
   </tbody>
 </table>

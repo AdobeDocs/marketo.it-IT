@@ -13,7 +13,7 @@ ht-degree: 7%
 
 # Modello 3B {#template-3b}
 
-Fai clic con il pulsante destro del mouse per [scaricare il modello 3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+Fai clic con il pulsante destro del mouse per [scaricare il modello 3B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=it)
 
 ![](assets/image2015-6-15-11-3a11-3a30.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html)
+[Modello 3B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-3b.html?lang=it)

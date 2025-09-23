@@ -57,7 +57,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
+* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=it#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 

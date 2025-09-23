@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 13A {#template-13a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 13A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=it)
 
 ![](assets/image2015-8-11-10-3a15-3a39.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html)
+[Modello 13A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-13a.html?lang=it)

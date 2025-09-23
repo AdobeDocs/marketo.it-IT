@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 6C {#template-6c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 6C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html?lang=it)
 
 ![](assets/image2015-7-29-11-3a52-3a22.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html)
+[Modello 6C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-6c.html?lang=it)

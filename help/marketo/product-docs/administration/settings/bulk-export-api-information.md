@@ -12,7 +12,7 @@ ht-degree: 13%
 
 # Informazioni API dell’esportazione in blocco {#bulk-export-api-information}
 
-Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
+Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
 
 >[!NOTE]
 >

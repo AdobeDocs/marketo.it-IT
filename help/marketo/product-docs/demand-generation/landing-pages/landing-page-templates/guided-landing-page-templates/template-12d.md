@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 12D {#template-12d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 12D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=it)
 
 ![](assets/image2015-8-4-14-3a42-3a2.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html)
+[Modello 12D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12d.html?lang=it)

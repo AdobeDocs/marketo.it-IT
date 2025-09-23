@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 1B {#template-1b}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 1B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html?lang=it)
 
 ![](assets/image2015-5-28-13-3a6-3a5.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 1B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html)
+[Modello 1B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1b.html?lang=it)

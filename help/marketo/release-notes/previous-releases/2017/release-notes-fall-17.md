@@ -86,10 +86,10 @@ Risparmia tempo riutilizzando le risorse creative e le immagini su più canali i
 
 ## Integrazione  {#integration}
 
-**[API anteprima e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[API anteprima e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)**
 
 Ora è possibile visualizzare in anteprima e-mail in remoto al di fuori di Marketo, semplificando il processo di localizzazione dei contenuti e-mail e riducendo gli errori.
 
-**[Sostituisci API HTML](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)**
+**[Sostituisci API HTML](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)**
 
 Gli sviluppatori possono aggiornare il contenuto HTML delle risorse e-mail in remoto, consentendo loro di lavorare all’interno di un singolo sistema per mantenere le risorse.

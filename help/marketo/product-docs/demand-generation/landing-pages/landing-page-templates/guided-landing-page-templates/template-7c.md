@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 7C {#template-7c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 7C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html?lang=it)
 
 ![](assets/image2015-7-29-14-3a37-3a3.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html)
+[Modello 7C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7c.html?lang=it)

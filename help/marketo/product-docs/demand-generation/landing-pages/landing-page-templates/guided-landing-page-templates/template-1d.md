@@ -13,7 +13,7 @@ ht-degree: 8%
 
 # Modello 1D {#template-1d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 1D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=it)
 
 ![](assets/image2015-5-28-13-3a36-3a44.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html)
+[Modello1 1D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1d.html?lang=it)
