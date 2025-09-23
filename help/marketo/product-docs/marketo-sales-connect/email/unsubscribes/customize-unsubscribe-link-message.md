@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746186
 description: Personalizzare il messaggio di collegamento per l’annullamento dell’iscrizione - Documentazione di Marketo - Documentazione del prodotto
-title: Personalizza messaggio di collegamento per annullare l’abbonamento
+title: Personalizzare il messaggio di collegamento per annullare l’iscrizione
 exl-id: 565754ce-644c-4ba7-bb67-cd0b4dc0f7e1
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Personalizza messaggio di collegamento per annullare l’abbonamento {#customize-unsubscribe-link-message}
+# Personalizzare il messaggio di collegamento per annullare l’iscrizione {#customize-unsubscribe-link-message}
 
 Abbiamo sempre consentito ai team di personalizzare i messaggi di collegamento per l’annullamento dell’iscrizione, ma ora gli amministratori possono impostare i messaggi di collegamento per l’annullamento dell’iscrizione per l’intero team per garantire una messaggistica coerente.
 

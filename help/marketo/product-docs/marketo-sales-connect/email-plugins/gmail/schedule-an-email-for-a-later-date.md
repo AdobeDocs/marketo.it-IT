@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352441
 description: Pianificazione di un’e-mail per una data successiva - Documentazione di Marketo - Documentazione del prodotto
-title: Pianificare un'e-mail per una data successiva
+title: Programmare un’e-mail per una data successiva
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Pianificare un&#39;e-mail per una data successiva {#schedule-an-email-for-a-later-date}
+# Programmare un’e-mail per una data successiva {#schedule-an-email-for-a-later-date}
 
 Per pianificare un’e-mail da Gmail, segui questi passaggi.
 

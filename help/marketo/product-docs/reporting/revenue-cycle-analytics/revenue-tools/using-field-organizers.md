@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571892
 description: Utilizzo di organizzatori di campi - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo di Organizer campi
+title: Utilizzo di organizzatore di campi
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Utilizzo di Organizer campi {#using-field-organizers}
+# Utilizzo di organizzatore di campi {#using-field-organizers}
 
 Gli organizzatori di campi consentono di specificare determinati campi tra tutti i valori possibili. Ad esempio, è possibile creare raggruppamenti significativi, ad esempio West Coast e East Coast, per il campo Territorio. In questo modo i rapporti possono essere eseguiti più rapidamente.
 

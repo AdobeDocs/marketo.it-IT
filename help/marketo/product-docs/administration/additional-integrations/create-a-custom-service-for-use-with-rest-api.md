@@ -4,10 +4,10 @@ description: Creare un servizio personalizzato da utilizzare con API ReST - Docu
 title: Creare un servizio personalizzato da utilizzare con API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
@@ -27,11 +27,11 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 >[!TIP]
 >
->Consulta la documentazione per gli sviluppatori per informazioni dettagliate sull&#39;[API REST](https://developer.adobe.com/marketo-apis/). Abbiamo anche l&#39;[API SOAP](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/soap/soap-api), se questo è ciò che ti serve.
+>Consulta la documentazione per gli sviluppatori per informazioni dettagliate sull&#39;[API REST](https://developer.adobe.com/marketo-apis/). Abbiamo anche l&#39;[API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api), se questo è ciò che ti serve.
 
 ## Crea servizio personalizzato {#create-custom-service}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-1.png)
 
@@ -59,7 +59,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 ## Credenziali per l’accesso API {#credentials-for-api-access}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-6.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718668
 description: Utilizzo degli stadi di SLA del modello di ricavo - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo degli stadi di SLA del modello di ricavo
+title: Utilizzo delle fasi di SLA del modello di ricavi
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilizzo degli stadi di SLA del modello di ricavo {#using-revenue-model-sla-stages}
+# Utilizzo delle fasi di SLA del modello di ricavi {#using-revenue-model-sla-stages}
 
 SLA sta per service level agreement. Questi stadi vengono utilizzati quando esiste un tempo massimo definito in cui un lead deve essere valutato o elaborato prima di procedere o uscire dal processo.
 

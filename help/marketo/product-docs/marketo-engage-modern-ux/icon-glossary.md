@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 exl-id: 443dc653-4ecb-4daa-9a6d-e124a6be0329
 feature: Modern UX
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 34%
+ht-degree: 92%
 
 ---
 
@@ -138,7 +138,7 @@ Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage
   <tr>
    <td><img src="assets/classic-landing-page-template.png"></td>
    <td><img src="assets/landing-page-template.png"></td>
-   <td>Modello per pagina di destinazione</td>
+   <td>Modello pagina di destinazione</td>
   </tr>
   <tr>
    <td><img src="assets/classic-revenue-cycle-model-unapproved.png"></td>
@@ -250,7 +250,7 @@ Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/has-run-no-upcoming.png"></td>
-   <td>È In Esecuzione, Nessun Prossimo</td>
+   <td>Eseguito, nessuno in arrivo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
@@ -265,12 +265,12 @@ Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage
   <tr>
    <td><img src="assets/classic-smart-campaign-executed.png"></td>
    <td><img src="assets/running-in-wait-step.png"></td>
-   <td>In esecuzione, nel passaggio Attesa</td>
+   <td>In esecuzione, in attesa</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled.png"></td>
    <td><img src="assets/scheduled-to-run.png"></td>
-   <td>Pianificato per l'esecuzione</td>
+   <td>Esecuzione pianificata</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-scheduled-again.png"></td>
@@ -280,7 +280,7 @@ Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage
   <tr>
    <td><img src="assets/classic-used-by-nurture.png"></td>
    <td><img src="assets/used-by-nurture.png"></td>
-   <td>Utilizzato dall’allevamento</td>
+   <td>Utilizzato tramite nurturing</td>
   </tr>
  </tbody>
 </table>
@@ -339,7 +339,7 @@ Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage
   <tr>
    <td><img src="assets/classic-email-program-not-approved.png"></td>
    <td><img src="assets/not-approved.png"></td>
-   <td>Non Approvato</td>
+   <td>Non approvato</td>
   </tr>
   <tr>
    <td><img src="assets/classic-email-program-scheduled.png"></td>
@@ -447,12 +447,12 @@ Di seguito sono riportate le icone per la nuova interfaccia Adobe Marketo Engage
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/approved-under-calculation.png"></td>
-   <td>Approvato - In fase di calcolo</td>
+   <td>Approvato - in fase di calcolo</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/approved-under-recalculation.png"></td>
-   <td>Approvato - in ricalcolo</td>
+   <td>Approvato - in fase di ricalcolo</td>
   </tr>
   <tr>
    <td><strong>n/d</strong></td>

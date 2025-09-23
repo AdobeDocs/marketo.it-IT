@@ -4,10 +4,10 @@ description: Esempio di attribuzione 2 - Documentazione di Marketo - Documentazi
 title: Esempio di attribuzione 2
 exl-id: 8f00abb5-85f8-4f05-874e-57aa6442548c
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 

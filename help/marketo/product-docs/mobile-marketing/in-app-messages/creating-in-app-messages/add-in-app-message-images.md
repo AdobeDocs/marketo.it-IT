@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100636
 description: Aggiungere immagini dei messaggi in-app - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi immagini messaggi in-app
+title: Aggiungere immagini a messaggio in-app
 exl-id: b4617338-04bc-4235-bff1-7ec89a9b2c6a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aggiungi immagini messaggi in-app {#add-in-app-message-images}
+# Aggiungere immagini a messaggio in-app {#add-in-app-message-images}
 
 Qui puoi scegliere e personalizzare le immagini dei messaggi in-app.
 

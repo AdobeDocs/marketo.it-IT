@@ -4,14 +4,14 @@ description: Note sulla versione -Gen/Feb 2012 - Documentazione di Marketo - Doc
 title: Note sulla versione - Gen/Feb 2012
 exl-id: 4d1ca9b6-e269-4982-9c0c-cf12363feafb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '432'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: gennaio/febbraio 2012 {#release-notes-jan-feb}
+# Note sulla versione - Gennaio/febbraio 2012 {#release-notes-jan-feb}
 
 Le seguenti funzioni sono incluse nella versione di gennaio/febbraio. Verifica la disponibilità delle funzioni nella tua edizione di Marketo. Torna indietro dopo il rilascio per collegamenti alla documentazione dettagliata delle funzioni.
 

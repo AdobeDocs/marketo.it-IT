@@ -1,36 +1,36 @@
 ---
 unique-page-id: 2953207
 description: Creare una nuova cartella di campagne - Documentazione di Marketo - Documentazione del prodotto
-title: Crea nuova cartella campagna
+title: Creare una nuova cartella campagna
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 9%
 
 ---
 
-# Crea nuova cartella campagna {#create-new-campaign-folder}
+# Creare una nuova cartella campagna {#create-new-campaign-folder}
 
 Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Segui questi semplici passaggi e stai andando verso la magia dell’automazione.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona **[!UICONTROL Nuovo]**.
+1. Seleziona **[!UICONTROL New]**.
 
    ![](assets/image2015-2-25-7-3a57-3a18.png)
 
-1. Seleziona **[!UICONTROL Nuova cartella campagne]**.
+1. Seleziona **[!UICONTROL New Campaign Folder]**.
 
    ![](assets/image2015-2-25-7-3a58-3a15.png)
 
-1. Immetti un **[!UICONTROL Nome]** per la cartella della campagna.
+1. Immetti **[!UICONTROL Name]** per la cartella della campagna.
 
    ![](assets/image2015-2-25-8-3a0-3a20.png)
 
-1. Facoltativo: immettere una **[!UICONTROL Descrizione]** e fare clic su **[!UICONTROL Crea]**.
+1. Facoltativo: immettere **[!UICONTROL Description]** e fare clic su **[!UICONTROL Create]**.
 
    >[!TIP]
    >

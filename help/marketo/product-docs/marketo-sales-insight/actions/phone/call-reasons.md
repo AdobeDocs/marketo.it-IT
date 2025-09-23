@@ -3,10 +3,10 @@ description: Motivi delle chiamate - Documentazione Marketo - Documentazione del
 title: Motivi della chiamata
 exl-id: 82533d6b-a373-49c7-9cee-271e36916111
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

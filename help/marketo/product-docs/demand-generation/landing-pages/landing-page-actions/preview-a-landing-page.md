@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359716
 description: Anteprima di una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
-title: Anteprima di una pagina di destinazione
+title: Visualizzaare in anteprima una pagina di destinazione
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Anteprima di una pagina di destinazione {#preview-a-landing-page}
+# Visualizzaare in anteprima una pagina di destinazione {#preview-a-landing-page}
 
 Probabilmente vorrai vedere come si presenta la pagina di destinazione prima di pubblicarla.
 
-## Anteprima di una pagina di destinazione {#preview-a-landing-page-1}
+## Visualizzaare in anteprima una pagina di destinazione {#preview-a-landing-page-1}
 
 1. Selezionare una pagina di destinazione e fare clic su **[!UICONTROL Preview Page]**.
 

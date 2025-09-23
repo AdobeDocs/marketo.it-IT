@@ -4,16 +4,16 @@ description: Valore dei dati di modifica - Documentazione di Marketo - Documenta
 title: Modifica valore dati
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 5%
 
 ---
 
 # Modifica valore dati {#change-data-value}
 
-Puoi utilizzare Marketo per aggiornare il valore di un campo. A tale scopo, verrà utilizzata l&#39;azione di flusso **[!UICONTROL Modifica valore dati]**.
+Puoi utilizzare Marketo per aggiornare il valore di un campo. Per questo, utilizzerai l&#39;azione di flusso **[!UICONTROL Change Data Value]**.
 
 ![](assets/change-data-value-1.png)
 
@@ -31,11 +31,11 @@ Puoi utilizzare Marketo per aggiornare il valore di un campo. A tale scopo, verr
 
    >[!NOTE]
    >
-   >È inoltre possibile utilizzare i token in **[!UICONTROL Nuovo valore]**.
+   >È inoltre possibile utilizzare i token in **[!UICONTROL New Value]**.
 
    >[!TIP]
    >
-   >È possibile immettere &#39;NULL&#39; (nessuna virgoletta, tutte maiuscole) in **[!UICONTROL Nuovo valore]** per cancellare il campo. Per ulteriori dettagli, vedere [Cancella valori campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}.
+   >È possibile immettere &#39;NULL&#39; (nessuna virgoletta, tutte maiuscole) in **[!UICONTROL New Value]** per cancellare il campo. Per ulteriori dettagli, vedere [Cancella valori campo](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/clear-field-values.md){target="_blank"}.
 
    >[!NOTE]
    >

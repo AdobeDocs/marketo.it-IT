@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12978647
 description: Creazione di un campo personalizzato per l’individuazione CRM - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un campo personalizzato per l'individuazione CRM
+title: Creare un campo personalizzato per l’individuazione CRM
 exl-id: 16e03f6f-e3c2-443c-803e-bf35a346693a
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '115'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
-# Creare un campo personalizzato per l&#39;individuazione CRM {#create-a-custom-field-for-crm-discovery}
+# Creare un campo personalizzato per l’individuazione CRM {#create-a-custom-field-for-crm-discovery}
 
 Aggiungi campi personalizzati agli account, mappali sul tuo CRM e utilizzali per l’individuazione degli account CRM in Marketo.
 
@@ -23,7 +23,7 @@ Aggiungi campi personalizzati agli account, mappali sul tuo CRM e utilizzali per
 
    ![](assets/two-4.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Object]** e selezionare **[!UICONTROL Named Account]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Object]** e seleziona **[!UICONTROL Named Account]**.
 
    ![](assets/three-3.png)
 
@@ -35,7 +35,7 @@ Aggiungi campi personalizzati agli account, mappali sul tuo CRM e utilizzali per
 
    ![](assets/five-3.png)
 
-1. Dopo aver creato il campo, selezionalo dalla struttura a destra. Fare clic sul menu a discesa **[!UICONTROL Field Actions]** e selezionare **[!UICONTROL Map to CRM Field]**.
+1. Dopo aver creato il campo, selezionalo dalla struttura a destra. Fai clic sul menu a discesa **[!UICONTROL Field Actions]** e seleziona **[!UICONTROL Map to CRM Field]**.
 
    ![](assets/six-2.png)
 

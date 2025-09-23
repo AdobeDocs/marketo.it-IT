@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147249
 description: Utilizzo di una sovrapposizione globale - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo di una sovrapposizione globale
+title: Utilizzare una sovrapposizione globale
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 0%
+source-wordcount: '145'
+ht-degree: 5%
 
 ---
 
-# Utilizzo di una sovrapposizione globale {#using-a-global-overlay}
+# Utilizzare una sovrapposizione globale {#using-a-global-overlay}
 
 La sovrapposizione globale nella vista programmazione programma consente di visualizzare il programma in relazione ad altre risorse pianificate.
 
@@ -25,7 +25,7 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
    ![](assets/image2014-9-24-10-16-4.png)
 
-1. Seleziona **[!UICONTROL Sovrapposizione]** nell&#39;angolo inferiore destro.
+1. Seleziona **[!UICONTROL Overlay]** nell&#39;angolo in basso a destra.
 
    ![](assets/image2014-9-24-10-3a16-3a9.png)
 
@@ -41,7 +41,7 @@ La sovrapposizione globale nella vista programmazione programma consente di visu
 
 Se hai [salvato un filtro nel calendario di marketing](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/saving-a-filter-definition-in-the-marketing-calendar.md){target="_blank"}, puoi utilizzarlo come sovrapposizione nella visualizzazione della pianificazione del programma.
 
-1. Fai clic sull&#39;elenco a discesa **[!UICONTROL Sovrapposizione]** e seleziona la definizione del filtro.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Overlay]** e selezionare la definizione del filtro.
 
    ![](assets/image2014-9-24-10-3a16-3a26.png)
 

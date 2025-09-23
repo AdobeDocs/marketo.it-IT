@@ -1,16 +1,16 @@
 ---
 description: Panoramica sull’annullamento dell’abbonamento - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica sull’annullamento dell’abbonamento
+title: Panoramica sull’annullamento dell’iscrizione
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Panoramica sull’annullamento dell’abbonamento {#unsubscribe-overview}
+# Panoramica sull’annullamento dell’iscrizione {#unsubscribe-overview}
 
 Sta diventando sempre più importante per le organizzazioni rispettare le leggi sulla privacy delle e-mail. Per aiutarci con questo, abbiamo apportato alcuni miglioramenti alla nostra esperienza di annullamento dell’iscrizione.
 
@@ -20,7 +20,7 @@ Sta diventando sempre più importante per le organizzazioni rispettare le leggi 
 * Gli annullamenti dell&#39;iscrizione possono essere eseguiti manualmente: collegamento selezionato, sincronizzazione di [!DNL Salesforce] e mancato recapito
 * Nuova pagina di destinazione con collegamento per annullare l’abbonamento
 
-## Pagina di destinazione collegamento per annullare l’iscrizione {#unsubscribe-link-landing-page}
+## Pagina di destinazione del collegamento per annullare l’iscrizione {#unsubscribe-link-landing-page}
 
 Quando una persona fa clic sul collegamento per annullare l’abbonamento, viene indirizzata a una pagina di destinazione per annullare l’abbonamento, in cui può selezionare l’utente dal quale desidera annullare l’abbonamento e il motivo per cui farlo.
 
@@ -28,7 +28,7 @@ Quando una persona fa clic sul collegamento per annullare l’abbonamento, viene
 
 Queste informazioni verranno salvate nella vista dei dettagli della persona per essere visualizzate in un secondo momento.
 
-## Annulla sottoscrizione gruppo {#unsubscribe-group}
+## Annullare la sottoscrizione del gruppo {#unsubscribe-group}
 
 Visualizza e gestisci tutte le persone non iscritte in un&#39;unica posizione.
 
@@ -42,7 +42,7 @@ Se sei un amministratore, puoi passare al gruppo di annullamento dell&#39;iscriz
 
 ![](assets/unsubscribe-overview-4.png)
 
-## Scheda Cronologia per annullare l’iscrizione {#unsubscribe-history-card}
+## Scheda Cronologia dell’annullamento dell’iscrizione {#unsubscribe-history-card}
 
 La scheda [!UICONTROL Unsubscribe History] consente agli amministratori e agli utenti di ottenere informazioni contestuali sulla cronologia degli annullamenti dell&#39;abbonamento dei loro contatti. Passare alla scheda [!UICONTROL People] e selezionare una persona. Si trova nella parte inferiore della scheda [!UICONTROL About] nella visualizzazione Dettagli persona.
 

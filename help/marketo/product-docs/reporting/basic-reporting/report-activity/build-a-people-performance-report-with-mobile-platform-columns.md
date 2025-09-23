@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951220
 description: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile
+title: Creare un rapporto prestazioni persone con colonne della piattaforma mobile
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile {#build-a-people-performance-report-with-mobile-platform-columns}
+# Creare un rapporto prestazioni persone con colonne della piattaforma mobile {#build-a-people-performance-report-with-mobile-platform-columns}
 
 Per creare un rapporto sulle prestazioni delle persone con colonne di piattaforma mobile (iOS/Android), segui la procedura riportata di seguito.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982909
 description: Programmi di pianificazione del coinvolgimento con fuso orario del destinatario - Documentazione di Marketo - Documentazione del prodotto
-title: Programmi di pianificazione del coinvolgimento con fuso orario del destinatario
+title: Pianificare programmi di coinvolgimento con fuso orario del destinatario
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '190'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Programmi di pianificazione del coinvolgimento con fuso orario del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
+# Pianificare programmi di coinvolgimento con fuso orario del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
 Quando pianifichi un flusso di programma di coinvolgimento e il fuso orario del destinatario è attivo, il cast del programma inizierà a essere eseguito a mezzanotte nel primo fuso orario (UTC +14:00). Ti chiediamo di pianificare il primo cast **almeno 25 ore** in futuro, perché ci potrebbero essere persone che si qualificano per il cast in ogni fuso orario del mondo. L’avvio dell’elaborazione in questo momento in base al primo fuso orario garantisce la consegna dell’e-mail alla data e all’ora pianificate per ogni destinatario.
 

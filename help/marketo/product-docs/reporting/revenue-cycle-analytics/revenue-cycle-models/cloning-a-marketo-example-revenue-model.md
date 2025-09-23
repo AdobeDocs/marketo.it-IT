@@ -4,10 +4,10 @@ description: Duplicazione di un esempio di modello di ricavo di Marketo - Docume
 title: Clonazione di un modello di ricavi di esempio di Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Marketo dispone di esempi di modellatori di ricavi per aiutarti a ispirarti. Clonate questi modellatori e rendeteli personalizzati. Ecco come:
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-17-3a37-3a30.png)
 

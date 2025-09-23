@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352469
 description: Importazione di un Salesforce ID in Sales Connect - Documentazione di Marketo - Documentazione del prodotto
-title: Importare un Salesforce ID in Sales Connect
+title: Importare un ID Salesforce in Sales Connect
 exl-id: 9025a815-0740-461e-b4c9-3cbb3c98570f
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Importare un Salesforce ID in Sales Connect {#import-a-salesforce-id-into-sales-connect}
+# Importare un ID Salesforce in Sales Connect {#import-a-salesforce-id-into-sales-connect}
 
 [!DNL Sales Connect] utilizza l&#39;ID contatto o lead (noto anche come ID [!DNL Salesforce]) per registrare correttamente le informazioni in [!DNL Salesforce]. Esistono alcuni modi per allegare il tuo ID [!DNL Salesforce] ai tuoi contatti in [!DNL Sales Connect].
 

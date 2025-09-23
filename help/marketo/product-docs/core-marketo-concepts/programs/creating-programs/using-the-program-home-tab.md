@@ -1,23 +1,23 @@
 ---
 unique-page-id: 1147126
 description: Utilizzo della scheda Home del programma - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo della scheda Home del programma
+title: Utilizzare la scheda Home del programma
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 0%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 
-# Utilizzo della scheda Home del programma {#using-the-program-home-tab}
+# Utilizzare la scheda Home del programma {#using-the-program-home-tab}
 
 La scheda Home del programma offre una panoramica generale di ciò che accade nel programma.
 
 ## Visualizzazione Riepilogo {#summary-view}
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -33,17 +33,17 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
    ![](assets/image2014-9-18-17-3a2-3a53.png)
 
-1. Fai clic su **[!UICONTROL Esporta]** nella parte inferiore del rapporto Riepilogo per scaricarlo.
+1. Fare clic su **[!UICONTROL Export]** nella parte inferiore del report Riepilogo per scaricare il report.
 
    ![](assets/image2014-9-18-17-3a3-3a47.png)
 
 ## Utilizzato dalla vista {#used-by-view}
 
-1. In **[!UICONTROL Attività di marketing]**, seleziona un programma.
+1. In **[!UICONTROL Marketing Activities]**, selezionare un programma.
 
    ![](assets/image2014-9-18-17-3a4-3a24.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Visualizza]**. Seleziona **[!UICONTROL Utilizzato da]**.
+1. Fare clic sul menu a discesa **[!UICONTROL View]**. Seleziona **[!UICONTROL Used By]**.
 
    ![](assets/image2014-9-18-17-3a5-3a2.png)
 
@@ -53,11 +53,11 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
 ## Visualizzazione appartenenza {#membership-view}
 
-1. In **[!UICONTROL Attività di marketing]**, seleziona un programma.
+1. In **[!UICONTROL Marketing Activities]**, selezionare un programma.
 
    ![](assets/image2014-9-18-17-3a7-3a25.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Visualizza]**. Seleziona **[!UICONTROL Appartenenza]**.
+1. Fare clic sul menu a discesa **[!UICONTROL View]**. Seleziona **[!UICONTROL Membership]**.
 
    ![](assets/image2014-9-18-17-3a7-3a49.png)
 
@@ -67,7 +67,7 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
    >[!NOTE]
    >
-   >**[!UICONTROL Storico]** indica chiunque abbia mai eseguito il programma, mentre **[!UICONTROL Corrente]** include solo le persone attualmente nel programma.
+   >**[!UICONTROL Historical]** indica chiunque abbia mai eseguito il programma, mentre **[!UICONTROL Current]** include solo le persone attualmente nel programma.
 
    >[!MORELIKETHIS]
    >

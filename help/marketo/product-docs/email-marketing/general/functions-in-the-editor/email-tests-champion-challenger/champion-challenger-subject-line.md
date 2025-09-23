@@ -4,14 +4,14 @@ description: Champion/Challenger - Oggetto - Documentazione Marketo - Documentaz
 title: Champion/Challenger - Oggetto
 exl-id: c1c75979-d1a9-459d-a0da-b4bb769372d5
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Champion/Challenger: Oggetto {#champion-challenger-subject-line}
+# Campione/sfidante: oggetto {#champion-challenger-subject-line}
 
 È possibile verificare facilmente più righe dell&#39;oggetto. Al termine del test, invia e-mail con quella più efficace. Ecco come farlo.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356584
 description: Invio di e-mail tramite e-mail di gruppo - Documenti Marketo - Documentazione del prodotto
-title: Invio di e-mail tramite e-mail gruppo
+title: Invio di e-mail tramite e-mail di gruppo
 exl-id: dbb4415f-9817-4a09-9049-9e8f328f7ea4
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Invio di e-mail tramite e-mail gruppo {#sending-emails-via-group-email}
+# Invio di e-mail tramite e-mail di gruppo {#sending-emails-via-group-email}
 
 Ecco come inviare/modificare le e-mail utilizzando l’opzione Raggruppa e-mail.
 

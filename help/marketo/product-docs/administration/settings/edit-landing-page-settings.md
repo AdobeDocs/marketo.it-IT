@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359918
 description: Modifica impostazioni pagina di destinazione - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica impostazioni pagina di destinazione
+title: Modificare le impostazioni della pagina di destinazione
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Modifica impostazioni pagina di destinazione {#edit-landing-page-settings}
+# Modificare le impostazioni della pagina di destinazione {#edit-landing-page-settings}
 
 Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabilitare la precompilazione dei moduli, evitare l’uso improprio della pagina di destinazione e altro ancora. Ecco come.
 
@@ -19,7 +19,7 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/edit-landing-page-settings-1.png)
 

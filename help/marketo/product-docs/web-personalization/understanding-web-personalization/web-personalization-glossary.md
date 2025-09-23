@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571927
 description: Glossario di Web Personalization - Documentazione di Marketo - Documentazione del prodotto
-title: Glossario di Web Personalization
+title: Glossario personalizzazione web
 exl-id: 82f7aa62-0b5a-4d34-865c-aa77c1b0b0e7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 24%
 
 ---
 
@@ -24,7 +24,7 @@ Informazioni sul mondo e sulla lingua di [!DNL Marketo Web Personalization].
 | **Visitatore noto** | Un visitatore Web che ha completato un modulo e ha lasciato i propri dettagli (indirizzo e-mail) sul sito Web o ha fatto clic su un collegamento in un messaggio e-mail di Marketo. |
 | **Elenco account** | Elenco di nomi di account/organizzazione chiave. Noto anche come elenco Account-Based Marketing (ABM). |
 | **Segmenti** | Una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina [&quot;Imposta un segmento&quot;](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md). |
-| **Test suddivisi** | Un esperimento di test con due o più varianti per misurare la differenza nei risultati. L’obiettivo è quello di identificare le modifiche alle pagine web che aumentano o massimizzano un risultato di interesse. |
+| **Test suddivisi** | Un test sperimentale con due o più varianti per misurare la differenza nei risultati. L’obiettivo è identificare le modifiche alle pagine web che aumentano o massimizzano un risultato interessante. |
 | **Carattere jolly** | Carattere jolly (&#42;) utilizzato prima o dopo una stringa per sostituire qualsiasi altro carattere o altri caratteri in una stringa. Vedi gli esempi di seguito. |
 
 ## Esempi di caratteri jolly {#wildcard-examples}

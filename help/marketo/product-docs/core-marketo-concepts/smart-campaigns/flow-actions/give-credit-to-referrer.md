@@ -1,19 +1,19 @@
 ---
 unique-page-id: 1147040
 description: Attribuisci credito al referente - Documentazione Marketo - Documentazione del prodotto
-title: Attribuisci credito al referente
+title: Attribuisci credito al destinatario che inoltra
 exl-id: d8cd9a54-53fd-4edd-8262-c63ec45a89a9
 hide: true
 hidefromtoc: true
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Attribuisci credito al referente {#give-credit-to-referrer}
+# Attribuisci credito al destinatario che inoltra {#give-credit-to-referrer}
 
 Quando si esegue un&#39;offerta di riferimento __ o un _sweepstakes_, è possibile attribuire il merito al referente utilizzando metodi diversi:
 

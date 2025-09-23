@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: Token di campo personalizzati per i membri del programma - Documentazione di Marketo - Documentazione del prodotto
-title: Token campo personalizzato membro programma
+title: Token campo personalizzato del membro del programma
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Token campo personalizzato membro programma {#program-member-custom-field-tokens}
+# Token campo personalizzato del membro del programma {#program-member-custom-field-tokens}
 
 ## Supporto token per i campi personalizzati dei membri del programma {#token-support-for-program-member-custom-fields}
 
@@ -131,8 +131,8 @@ Puoi inserire token dei campi personalizzati dei membri del programma in e-mail,
 
 I token di campo personalizzati dei membri del programma possono essere utilizzati in:
 
-* Crea attività
-* Crea attività in Microsoft
+* Creare attività
+* Creare attività in Microsoft
 * Momenti di interesse
 * Azioni di flusso per cambiare il valore dei dati
 * Webhook

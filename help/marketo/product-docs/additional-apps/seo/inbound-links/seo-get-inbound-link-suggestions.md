@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949228
 description: SEO (Search Engine Optimization) - Suggerimenti per ottenere collegamenti in entrata - Documentazione di Marketo - Documentazione del prodotto
-title: SEO - Suggerimenti per ottenere collegamenti in entrata
+title: 'SEO: ottenere suggerimenti per collegamenti in entrata'
 exl-id: 6de60d4b-1e34-4394-97aa-4294b9787025
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 4%
+ht-degree: 18%
 
 ---
 
-# SEO - Suggerimenti per ottenere collegamenti in entrata {#seo-get-inbound-link-suggestions}
+# SEO: ottenere suggerimenti per collegamenti in entrata {#seo-get-inbound-link-suggestions}
 
 Marketo può suggerire quali collegamenti in entrata sono utili per [l&#39;ottimizzazione fuori pagina](/help/marketo/product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md).
 

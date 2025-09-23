@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359910
 description: Modifica disponibilità di contenuti in streaming - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica disponibilità del contenuto di flusso
+title: Modificare la disponibilità del contenuto del flusso
 exl-id: 72d9848c-607c-4cdb-bcd4-a5d41d820c54
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Modifica disponibilità del contenuto di flusso {#edit-availability-of-stream-content}
+# Modificare la disponibilità del contenuto del flusso {#edit-availability-of-stream-content}
 
 Puoi impostare un intervallo di tempo per il contenuto affinché sia attivo nel flusso. Ecco come.
 

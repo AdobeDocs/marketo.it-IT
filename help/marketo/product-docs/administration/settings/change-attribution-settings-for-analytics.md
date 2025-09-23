@@ -4,10 +4,10 @@ description: Modificare le impostazioni di attribuzione per Analytics - Document
 title: Modificare le impostazioni di attribuzione per Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Puoi modificare il modo in cui Marketo collega i contatti alle opportunità di a
 
 Queste impostazioni avranno un impatto su [!UICONTROL Revenue Explorer] report nelle aree [Analisi opportunità programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/understanding-the-program-opportunity-analysis-area.md), [Analisi opportunità](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/understanding-opportunity-analysis-in-revenue-explorer.md) e Analisi lead. Questo influirà anche sul report [!UICONTROL Program Analyzer].
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/change-attribution-settings-for-analytics-1.png)
 

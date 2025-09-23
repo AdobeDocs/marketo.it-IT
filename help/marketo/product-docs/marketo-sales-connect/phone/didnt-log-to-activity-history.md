@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352489
 description: Non ho effettuato l’accesso alla cronologia delle attività - Documentazione di Marketo - Documentazione del prodotto
-title: Non ho effettuato l'accesso alla cronologia attività
+title: Accesso alla cronologia attività non eseguito
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Non ho effettuato l&#39;accesso alla cronologia attività {#didnt-log-to-activity-history}
+# Accesso alla cronologia attività non eseguito {#didnt-log-to-activity-history}
 
 Se non vedi il registro chiamate a [!DNL Salesforce], è possibile che non sia possibile individuare un lead o un contatto in [!DNL Salesforce].
 

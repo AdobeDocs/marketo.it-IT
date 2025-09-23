@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15695924
 description: Classificazione e ottimizzazione della profilatura dell’account - Documentazione di Marketo - Documentazione del prodotto
-title: Classificazione e tuning profilo account
+title: Classificazione della profilazione dell'account e regolazione
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Classificazione e tuning profilo account {#account-profiling-ranking-and-tuning}
+# Classificazione della profilazione dell&#39;account e regolazione {#account-profiling-ranking-and-tuning}
 
 Il profilo account identifica il profilo cliente ideale (ICP), classifica le aziende nel database in base all&#39;ICP e aggiunge i dati degli indicatori ICP agli account promossi come [!UICONTROL Named Accounts].
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2949232
 description: SEO - Gestione degli elenchi - Documentazione di Marketo - Documentazione del prodotto
-title: SEO - Gestione degli elenchi
+title: 'SEO: gestire gli elenchi'
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 2%
+source-wordcount: '96'
+ht-degree: 8%
 
 ---
 
-# SEO - Gestione degli elenchi {#seo-managing-lists}
+# SEO: gestire gli elenchi {#seo-managing-lists}
 
 È possibile aggiungere elementi agli elenchi quando si aggiungono parole chiave, pagine, problemi di pagina o collegamenti in entrata. Gli elenchi consentono di rimanere organizzati e filtrare i rapporti in modo da visualizzare solo i dati dell’elenco. Ecco come farle.
 
-1. Fai clic su **[!UICONTROL Aggiungi parole chiave]**.
+1. Fai clic su **[!UICONTROL Add Keywords]**.
 
    >[!NOTE]
    >
@@ -31,6 +31,6 @@ ht-degree: 2%
    >
    >Puoi creare un nuovo elenco nel menu a discesa. Inserisci un titolo e premi il tasto Invio.
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-13-3a25-3a36.png)

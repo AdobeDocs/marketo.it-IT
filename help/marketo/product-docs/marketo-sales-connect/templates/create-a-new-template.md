@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352639
 description: Creare un nuovo modello - Documentazione di Marketo - Documentazione del prodotto
-title: Crea un nuovo modello
+title: Creare un nuovo modello
 exl-id: 9f597aa6-587d-4b23-a6ab-958f17caeecb
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Crea un nuovo modello {#create-a-new-template}
+# Creare un nuovo modello {#create-a-new-template}
 
 1. Passare alla scheda **[!UICONTROL Templates]** e fare clic su **[!UICONTROL Create Template]**.
 

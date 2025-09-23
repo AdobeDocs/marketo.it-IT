@@ -3,24 +3,24 @@ description: Note sulla versione - Gennaio 2023 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 8%
+ht-degree: 23%
 
 ---
 
-# Note sulla versione: gennaio 2023 {#release-notes-jan-23}
+# Note sulla versione - Gennaio 2023 {#release-notes-jan-23}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione di gennaio 2023. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Di seguito sono elencate tutte le funzioni incluse nella versione di gennaio 2023. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **20 gennaio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 20 gennaio 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
@@ -89,7 +89,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=it">Marketo Measure Ultimate</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -107,7 +107,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informazioni API per esportazione in blocco</a></td>
+   <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informazioni API dell’esportazione in blocco</a></td>
   </tr>
   </tbody>
 </table>

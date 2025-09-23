@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147237
 description: Filtrare un rapporto sul programma in base al costo del periodo - Documentazione Marketo - Documentazione del prodotto
-title: Filtrare un rapporto Programma per costo periodo
+title: Filtrare un rapporto del programma per costo del periodo
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
-# Filtrare un rapporto Programma per costo periodo {#filter-a-program-report-by-period-cost}
+# Filtrare un rapporto del programma per costo del periodo {#filter-a-program-report-by-period-cost}
 
 Concentrare il [report sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"} su un periodo di tempo di costo specifico.
 
-1. Vai a **[!UICONTROL Attività di marketing]** (o **[!UICONTROL Analytics]**).
+1. Vai a **[!UICONTROL Marketing Activities]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -23,15 +23,15 @@ Concentrare il [report sulle prestazioni del programma](/help/marketo/product-do
 
    ![](assets/image2014-9-23-16-3a22-3a52.png)
 
-1. Fai clic sulla scheda **[!UICONTROL Configurazione]** e trascina su **[!UICONTROL Costo periodo]**.
+1. Fai clic sulla scheda **[!UICONTROL Setup]** e trascina su **[!UICONTROL Period Cost]**.
 
    ![](assets/lm-86194-1.png)
 
-1. Immetti le date **[!UICONTROL Da]** e **[!UICONTROL A]** per i costi sostenuti e fai clic su **[!UICONTROL Applica]**.
+1. Immettere le date **[!UICONTROL From]** e **[!UICONTROL To]** per i costi sostenuti e fare clic su **[!UICONTROL Apply]**.
 
    ![](assets/lm-86194-2a-hands.png)
 
-1. Hai finito! Fai clic sulla scheda **[!UICONTROL Report]** per visualizzare solo i programmi che rientrano nell&#39;intervallo di tempo del costo di periodo specificato.
+1. Hai finito! Fare clic sulla scheda **[!UICONTROL Report]** per visualizzare solo i programmi che rientrano nell&#39;intervallo di tempo di costo specificato.
 
    ![](assets/lm-86194-report-tab.png)
 

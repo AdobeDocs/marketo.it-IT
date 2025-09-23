@@ -4,10 +4,10 @@ description: Creazione di regole per i flussi di lavoro in Salesforce - Document
 title: Creazione di regole del flusso di lavoro in Salesforce
 exl-id: 0cfce178-453b-4949-96aa-c327278a267d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '393'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

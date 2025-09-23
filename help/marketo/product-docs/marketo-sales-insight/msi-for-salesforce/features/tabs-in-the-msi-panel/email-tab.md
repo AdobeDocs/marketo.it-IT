@@ -1,21 +1,21 @@
 ---
 description: Scheda E-Mail - Documentazione Di Marketo - Documentazione Del Prodotto
-title: Scheda E-mail
+title: Scheda e-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Scheda E-mail {#email-tab}
+# Scheda e-mail {#email-tab}
 
 La scheda e-mail mostra un elenco di tutte le e-mail inviate a un contatto o a un lead. Include le seguenti colonne:
 
 * Oggetto
-* Date
+* Data
 * Aperto
 * Clic effettuato
 

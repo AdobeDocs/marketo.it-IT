@@ -4,10 +4,10 @@ description: Impostare una pagina di fallback - Documentazione di Marketo - Docu
 title: Impostare una pagina di fallback
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 1%
+ht-degree: 22%
 
 ---
 
@@ -19,7 +19,7 @@ Le pagine di fallback rappresentano l’ultima linea di difesa se la pagina di d
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/set-a-fallback-page-1.png)
 

@@ -1,16 +1,16 @@
 ---
 description: OP-Scoring-Demographic - Documentazione Marketo - Documentazione del prodotto
-title: OP-Scoring-Demografico
+title: OP-Punteggio demografico
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 24%
+ht-degree: 25%
 
 ---
 
-# OP-Scoring-Demografico {#op-scoring-demographic}
+# OP-Punteggio demografico {#op-scoring-demographic}
 
 Questo è un esempio di programma operativo avanzato (tokenizzato) che utilizza un programma predefinito di Marketo Engage per il punteggio demografico. Visualizza e modifica i valori di punteggio nella scheda &quot;I miei token&quot; del programma. Richiede un campo di punteggio personalizzato denominato &quot;Punteggio demografico&quot;.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359873
 description: Eliminare un’immagine o un file caricato - Documentazione di Marketo - Documentazione del prodotto
-title: Eliminare un'immagine o un file caricato
+title: Eliminare un’immagine o un file caricato
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Eliminare un&#39;immagine o un file caricato {#delete-an-uploaded-image-or-file}
+# Eliminare un’immagine o un file caricato {#delete-an-uploaded-image-or-file}
 
 Eliminare immagini o file è facile e veloce.
 
@@ -27,7 +27,7 @@ Eliminare immagini o file è facile e veloce.
 
    ![](assets/delete-an-uploaded-image-or-file-2.png)
 
-1. Individuare e selezionare l&#39;immagine o il file desiderato. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Delete]**.
+1. Individuare e selezionare l&#39;immagine o il file desiderato. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Delete]**.
 
    ![](assets/delete-an-uploaded-image-or-file-3.png)
 

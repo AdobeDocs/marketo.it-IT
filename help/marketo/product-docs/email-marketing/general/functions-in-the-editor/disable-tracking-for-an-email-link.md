@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900579
 description: Disabilita tracciamento per un collegamento e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Disattiva tracciamento per un collegamento e-mail
+title: Disattivare tracciamento per un collegamento e-mail
 exl-id: 841ef605-1664-4457-bc83-50bbe5d44853
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '280'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Disattiva tracciamento per un collegamento e-mail {#disable-tracking-for-an-email-link}
+# Disattivare tracciamento per un collegamento e-mail {#disable-tracking-for-an-email-link}
 
 A volte non è necessario abilitare **URL di tracciamento Marketo** su un collegamento in un messaggio e-mail. Questa funzione è utile quando la pagina di destinazione non supporta i parametri URL e può causare il mancato funzionamento del collegamento.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37355758
 description: Aggiunta di membri a un programma di eventi - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiunta di membri a un programma eventi
+title: Aggiunta di membri a un programma evento
 exl-id: 05bd4807-3ab8-452d-a389-b22477cf7445
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Aggiunta di membri a un programma eventi {#adding-members-to-an-event-program}
+# Aggiunta di membri a un programma evento {#adding-members-to-an-event-program}
 
 Questo articolo si applica solo agli utenti che utilizzano il limite degli eventi o gli obiettivi degli eventi.
 
@@ -47,7 +47,7 @@ Questo articolo si applica solo agli utenti che utilizzano il limite degli event
 
    ![](assets/eight.png)
 
-1. Selezionare **[!UICONTROL Run Now]** e fare clic su **[!UICONTROL Run]**.
+1. Seleziona **[!UICONTROL Run Now]** e fai clic su **[!UICONTROL Run]**.
 
    ![](assets/nine.png)
 

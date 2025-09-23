@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359994
 description: Seleziona colonne rapporto - Documentazione Marketo - Documentazione del prodotto
-title: Seleziona colonne rapporto
+title: Selezionare colonne del rapporto
 exl-id: 11357993-7b29-41cb-a376-06de387d1e92
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Seleziona colonne rapporto {#select-report-columns}
+# Selezionare colonne del rapporto {#select-report-columns}
 
 Puoi scegliere quali colonne includere e non includere nel rapporto.
 

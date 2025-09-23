@@ -1,18 +1,18 @@
 ---
 description: Dashboard di utilizzo del prodotto - Documentazione di Marketo - Documentazione del prodotto
-title: Dashboard utilizzo prodotto
+title: Dashboard di utilizzo del prodotto
 hide: true
 hidefromtoc: true
 feature: Administration
 exl-id: a0fa5cd0-a61d-4383-88c0-9f2a4b2c717a
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '610'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Dashboard utilizzo prodotto {#product-usage-dashboards}
+# Dashboard di utilizzo del prodotto {#product-usage-dashboards}
 
 I dashboard di utilizzo dei prodotti Marketo Engage consentono di visualizzare l’utilizzo di prodotti e piattaforme in relazione a determinati limiti o backlog di dati, flussi di dati, utilizzo rispetto alle quote giornaliere e metriche chiave nell’abbonamento. L&#39;infrastruttura viene allocata per fornire i limiti di prestazioni definiti per i livelli di prodotto per attributi specifici. Alcuni di questi limiti, come l’utilizzo dell’API, sono limiti contrattuali acquistati come parte del pacchetto o del livello di prodotto.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360303
 description: Personalizzare stelle e fiamme - Documentazione di Marketo - Documentazione del prodotto
-title: Personalizza stelle e fiamme
+title: Personalizzare stelle e fiamme
 exl-id: f8936ee9-a976-45f7-84cc-c95e93bdddc8
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Personalizza stelle e fiamme {#customize-stars-and-flames}
+# Personalizzare stelle e fiamme {#customize-stars-and-flames}
 
 [!DNL Marketo Sales Insight] utilizza stelle e fiamme per assegnare priorità ai lead. Marketo decide automaticamente chi ottiene 1-2-3 stelle/fiamme. È tuttavia possibile modificare la formula. Ecco come:
 

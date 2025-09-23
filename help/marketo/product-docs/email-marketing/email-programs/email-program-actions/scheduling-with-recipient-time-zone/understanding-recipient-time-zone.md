@@ -4,10 +4,10 @@ description: Fuso orario del destinatario - Documentazione di Marketo - Document
 title: Informazioni sul fuso orario del destinatario
 exl-id: 8895241e-94c9-43a2-9158-11c1994df09b
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '381'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

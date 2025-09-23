@@ -4,10 +4,10 @@ description: E-mail contrassegnata come spam - Documentazione di Marketo - Docum
 title: E-mail contrassegnata come spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 2c9816c35187e333d9631ddfe76fea298db09da5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -18,7 +18,7 @@ In qualità di azienda, ci impegniamo a fondo per garantire che i nostri tassi d
 **Verifica le impostazioni**
 
 * Custom Domain Tracking: ti consente di visualizzare tutti i collegamenti di tracciamento in movimento.&quot;yourdomain&quot; invece di go.toutapp. Alcuni servizi di sicurezza e-mail noteranno che l’e-mail proviene dal &quot;tuo dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le e-mail avranno un aspetto legittimo e una probabilità maggiore di raggiungere la casella in entrata del destinatario.
-* Canale di consegna e-mail: per impostazione predefinita, le e-mail vengono inviate tramite server ToutApp. Configurando il proprio Gmail o SMTP personalizzato, è possibile fornire alle e-mail la migliore opportunità per arrivare nella casella in entrata di un destinatario. [Fai clic qui](https://nation.marketo.com/docs/DOC-5080){target="_blank"} per ulteriori informazioni sulla selezione del canale di consegna corretto per le tue esigenze.
+* Canale di consegna e-mail: per impostazione predefinita, le e-mail vengono inviate tramite server ToutApp. Configurando il proprio Gmail o SMTP personalizzato, è possibile fornire alle e-mail la migliore opportunità per arrivare nella casella in entrata di un destinatario. [Fai clic qui](https://nation.marketo.com/docs/DOC-5080){target="_blank"} per ulteriori informazioni sulla selezione del canale di consegna più adatto alle tue esigenze.
 
 **Verifica il comportamento delle e-mail**
 

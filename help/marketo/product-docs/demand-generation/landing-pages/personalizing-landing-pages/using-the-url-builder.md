@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359801
 description: Utilizzo di URL Builder - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo del Generatore di URL
+title: Utilizzo del generatore di URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Utilizzo del Generatore di URL {#using-the-url-builder}
+# Utilizzo del generatore di URL {#using-the-url-builder}
 
 Il Generatore di URL consente di creare URL che possono popolare i campi dei moduli nascosti di Marketo.
 

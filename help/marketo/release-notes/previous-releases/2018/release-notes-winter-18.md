@@ -3,14 +3,14 @@ unique-page-id: 13795395
 description: Note sulla versione -Inverno '18 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '18
 exl-id: f08bdc91-86d3-4ea2-a74a-1398ed525bbb
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: inverno 2018 {#release-notes-winter}
+# Note sulla versione - Inverno 2018 {#release-notes-winter}
 
 Le seguenti funzioni sono incluse nella versione invernale del 18. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -46,7 +46,7 @@ Scopri in che modo le campagne e i canali influiscono sui risultati aziendali co
 
 Per i clienti ABM con [!DNL Salesforce] o [!DNL Microsoft Dynamics], ABM erediterà automaticamente (e visualizzerà) le relazioni padre-figlio stabilite nel CRM. Potrai utilizzare queste relazioni sia nel reporting aggregato che nell’esecuzione della campagna.
 
-## E-mail marketing {#email-marketing}
+## Marketing via e-mail {#email-marketing}
 
 **[Script e-mail dinamico](/help/marketo/product-docs/email-marketing/general/using-tokens/create-an-email-script-token.md)**
 
@@ -58,7 +58,7 @@ Lo script Velocity è ora supportato nelle e-mail che utilizzano il contenuto di
 
 * **[Interrompi consegna](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/abort-delivery-of-email-programs-scheduled-with-recipient-time-zone.md)**: ora puoi interrompere tutti gli invii rimanenti a metà dell&#39;esecuzione.
 
-## Integrazioni di reti pubblicitarie {#ad-network-integrations}
+## Integrazioni di ad network {#ad-network-integrations}
 
 **[Integrazione Customer Match Google](/help/marketo/product-docs/demand-generation/ad-network-integrations/add-google-customer-match-as-a-launchpoint-service.md)**
 
@@ -68,7 +68,7 @@ Con questa integrazione, puoi inviare un pubblico Marketo a Google per il target
 
 La nuova API [!DNL LinkedIn] consente ora di eseguire il targeting delle persone nel database di Marketo tra più account di [!DNL LinkedIn] Campaign Manager.
 
-## Web Personalization {#web-personalization}
+## Personalizzazione web {#web-personalization}
 
 **Source dati giapponese per Web Personalization**
 

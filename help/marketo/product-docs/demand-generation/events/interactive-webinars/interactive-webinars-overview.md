@@ -3,24 +3,24 @@ description: Panoramica dei webinar interattivi - Documentazione di Marketo - Do
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 7f90ff09fbab7bc1559ce75b213cb86bd3cd25f4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 # Panoramica dei webinar interattivi {#interactive-webinars-overview}
 
-La funzione dei webinar interattivi è la nostra piattaforma integrata all’interno del Marketo Engage. Non sono necessari strumenti o integrazioni aggiuntivi.
+La funzione Webinar interattivi è la nostra piattaforma webinar incorporata all’interno di Marketo Engage. Non sono necessari strumenti o integrazioni aggiuntivi.
 
 >[!IMPORTANT]
 >
->I webinar interattivi basati su Adobe Connect sono una funzione con integrazione incorporata in Adobe Connect. L’utilizzo dei webinar interattivi sarà soggetto a termini e condizioni aggiuntivi. Rivedi il contratto o [contatta l&#39;Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per informazioni sui termini e le condizioni aggiuntive.
+>I webinar interattivi basati su Adobe Connect sono una funzione con integrazione incorporata in Adobe Connect. L’utilizzo dei webinar interattivi sarà soggetto a termini e condizioni aggiuntivi. Rivedi il tuo contratto o [contatta Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per informazioni sui termini e le condizioni aggiuntive.
 
 ## Cos’è un webinar interattivo? {#what-is-interactive-webinars}
 
-I webinar interattivi migliorano l’esperienza degli eventi e dei webinar esistenti fornendo un’esperienza nativa e fluida che consente di creare, gestire e distribuire eventi all’interno del Marketo Engage. Quando si [crea un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, è possibile scegliere tra più modelli di riunione predefiniti, tutti personalizzabili (è inoltre possibile creare e utilizzare modelli personalizzati). I partecipanti possono condividere schermate/file del computer, chattare tra loro, trasmettere audio e video e partecipare ad attività interattive online.
+I webinar interattivi migliorano l’esperienza degli eventi e dei webinar esistenti fornendo un’esperienza nativa e fluida che consente di creare, gestire e distribuire eventi in Marketo Engage. Quando si [crea un webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md){target="_blank"}, è possibile scegliere tra più modelli di riunione predefiniti, tutti personalizzabili (è inoltre possibile creare e utilizzare modelli personalizzati). I partecipanti possono condividere schermate/file del computer, chattare tra loro, trasmettere audio e video e partecipare ad attività interattive online.
 
 I webinar interattivi offrono [tre licenze diverse](/help/marketo/product-docs/demand-generation/events/interactive-webinars/user-and-license-management.md){target="_blank"}, ciascuna con varie funzioni e capacità.
 
@@ -30,7 +30,7 @@ Dopo il webinar, accedi a [event performance analytics](/help/marketo/product-do
 
 **È necessaria una sottoscrizione separata per utilizzare i webinar interattivi?**
 
-No. Per utilizzare i webinar interattivi è necessaria solo una sottoscrizione di Marketo Engage attiva.
+No. Per utilizzare i webinar interattivi è necessaria solo una sottoscrizione Marketo Engage attiva.
 
 **Quali lingue sono disponibili per i webinar interattivi?**
 
@@ -38,7 +38,7 @@ I webinar interattivi sono disponibili in tutte e sei le lingue supportate da Ma
 
 **Ho esaurito il numero di webinar interattivi inclusi. Come è possibile ottenere più sessioni o più capacità?**
 
-Contatta l’Adobe Account Team (il tuo Account Manager) per assistenza.
+Contatta l’Account Team di Adobe (il tuo Account Manager) per assistenza.
 
 **In qualità di amministratore di Marketo, posso controllare quali dei miei utenti di Marketo possono creare webinar interattivi?**
 

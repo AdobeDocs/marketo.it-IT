@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Advanced Nurture - Documentazione Marketo - Documentazione del prodotto
-title: NUR-YYYY-MM-Sviluppo avanzato
+title: Nurturing avanzato NUR-MM-AAAA
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '490'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
-# NUR-YYYY-MM-Sviluppo avanzato {#nur-yyyy-mm-advanced-nurture}
+# Nurturing avanzato NUR-MM-AAAA {#nur-yyyy-mm-advanced-nurture}
 
 Questo è un esempio di programmi di sviluppo avanzati che utilizzano il programma Marketo Engage Engagement. I programmi e-mail nidificati impediscono agli utenti di ricevere contenuti già utilizzati o controllano il tipo di contenuto da utilizzare in ciascun flusso. È possibile eseguire rapporti di attribuzione per ogni singolo programma e-mail nidificato. Canali: &quot;Nurture&quot; e un canale dedicato &quot;Nurture Email&quot; per i Programmi e-mail nidificati invia un’e-mail alla newsletter utilizzando un Programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
@@ -70,17 +70,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01 - E-mail (dal vivo nei programmi nidificati)</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>02 - E-mail (dal vivo nei programmi nidificati)</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>03 - E-mail (dal vivo nei programmi nidificati)</td>
   </tr>
   <tr>

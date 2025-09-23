@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981145
 description: Configurazione di Performance Insights - Documentazione di Marketo - Documentazione del prodotto
-title: Impostazione di Performance Insights
+title: Impostazione di approfondimenti prestazioni
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359987
 description: Iscriviti a un rapporto di base - Documentazione di Marketo - Documentazione del prodotto
-title: Iscriviti a un rapporto di base
+title: Abbonati a un rapporto di base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Iscriviti a un rapporto di base {#subscribe-to-a-basic-report}
+# Abbonati a un rapporto di base {#subscribe-to-a-basic-report}
 
 Per ricevere aggiornamenti automatici di un report di base o per condividerli, Ã¨ possibile sottoscrivere qualsiasi indirizzo e-mail a un report esistente.
 
@@ -19,7 +19,7 @@ Per ricevere aggiornamenti automatici di un report di base o per condividerli, Ã
 >
 >Per le sottoscrizioni ai report di Revenue Cycle Explorer, vedere [Abbonarsi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-16-10-3a31-3a54.png)
 

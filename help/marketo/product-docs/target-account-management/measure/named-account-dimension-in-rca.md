@@ -1,23 +1,23 @@
 ---
 unique-page-id: 11380789
-description: Dimension di account denominato in RCA - Documentazione Marketo - Documentazione del prodotto
-title: Dimension di account denominato in RCA
+description: Account Dimension denominato in RCA - Documentazione Marketo - Documentazione del prodotto
+title: Dimensione dell’account denominato in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Dimension di account denominato in RCA {#named-account-dimension-in-rca}
+# Dimensione dell’account denominato in RCA {#named-account-dimension-in-rca}
 
 Crea rapporti basati sui ricavi utilizzando la dimensione Conto denominato specifica per TAM in Revenue Cycle Analytics.
 
 >[!NOTE]
 >
->**Dimension** - attributi (rappresentati da punti gialli) che forniscono visualizzazioni diverse delle misure.
+>**Dimensioni** - attributi (rappresentati da punti gialli) che forniscono viste diverse delle misure.
 
 ![](assets/one-2.png)
 

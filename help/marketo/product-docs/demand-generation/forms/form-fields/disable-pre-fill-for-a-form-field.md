@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359675
 description: Disabilita precompilazione per un campo modulo - Documenti Marketo - Documentazione del prodotto
-title: Disabilita precompilazione per un campo modulo
+title: Disabilitare la precompilazione per un campo modulo
 exl-id: c600e0ce-1b94-4f7b-b75d-f550a2904799
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Disabilita precompilazione per un campo modulo {#disable-pre-fill-for-a-form-field}
+# Disabilitare la precompilazione per un campo modulo {#disable-pre-fill-for-a-form-field}
 
 Quando un visitatore web è noto (cookie), i moduli Marketo precompilano i campi con le relative informazioni per impostazione predefinita. Se vuoi spegnerlo, ecco come farlo.
 

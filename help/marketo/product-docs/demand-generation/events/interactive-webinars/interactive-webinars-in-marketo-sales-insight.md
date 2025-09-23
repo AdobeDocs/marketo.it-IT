@@ -1,16 +1,16 @@
 ---
-description: Webinar interattivi su Marketo Sales Insight - Documentazione Marketo - Documentazione del prodotto
-title: Webinar interattivi su Marketo Sales Insight
+description: Webinar interattivi su Marketo Sales Insight - Documenti Marketo - Documentazione del prodotto
+title: Webinar interattivi in Marketo Sales Insight
 feature: Interactive Webinars
 exl-id: 49185c9d-6b77-4360-929f-bfaf54a3f5ca
-source-git-commit: 19ccac27255d4dd9803400894bd025926b4331b2
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Webinar interattivi su Marketo Sales Insight {#interactive-webinars-in-marketo-sales-insight}
+# Webinar interattivi in Marketo Sales Insight {#interactive-webinars-in-marketo-sales-insight}
 
 I webinar interattivi in Marketo Sales Insight rendono le attività dei webinar disponibili nel plug-in Marketo Sales Insight (MSI) in Salesforce.
 

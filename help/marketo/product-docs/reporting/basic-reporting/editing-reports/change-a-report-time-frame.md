@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359968
 description: Modificare un intervallo di tempo per la generazione del rapporto - Documenti Marketo - Documentazione del prodotto
-title: Modificare un intervallo di tempo del rapporto
+title: Modificare un arco temporale del rapporto
 exl-id: 096e78c5-1a63-4a53-bed0-7cf2e40c4aee
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Modificare un intervallo di tempo del rapporto {#change-a-report-time-frame}
+# Modificare un arco temporale del rapporto {#change-a-report-time-frame}
 
 Modifica il periodo di tempo coperto dal rapporto, per concentrarti su un orario di attività specifico.
 

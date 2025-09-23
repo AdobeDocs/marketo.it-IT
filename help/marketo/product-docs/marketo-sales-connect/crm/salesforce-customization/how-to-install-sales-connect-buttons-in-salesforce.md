@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352473
 description: Come installare i pulsanti Sales Connect in Salesforce - Documentazione Marketo - Documentazione del prodotto
-title: Installazione dei pulsanti Sales Connect in Salesforce
+title: Come installare i pulsanti Sales Connect in Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '104'
-ht-degree: 4%
+ht-degree: 20%
 
 ---
 
-# Installazione dei pulsanti Sales Connect in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
+# Come installare i pulsanti Sales Connect in Salesforce {#how-to-install-sales-connect-buttons-in-salesforce}
 
 Facile installazione Chiamata con Marketo Sales Connect, Invia e-mail Marketo Sales e Aggiungi a Campaign. Per installare questi campi, è necessario disporre dei privilegi di amministratore in [!DNL Salesforce].
 

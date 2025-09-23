@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
 description: Creazione di un rapporto di Revenue Explorer - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un rapporto di Gestione ricavi
+title: Creare un rapporto Revenue Explorer
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -23,7 +23,7 @@ Il rapporto [!UICONTROL Revenue Explorer] ti consente di tenere traccia del ROI 
 >
 >La cartella Cestino in Esplora cicli di ricavi è stata temporaneamente nascosta a causa di un problema tecnico. Stiamo lavorando a una correzione e i tuoi file sono sicuri. Contatta il [Supporto Adobe](https://nation.marketo.com/t5/support/ct-p/Support) se sono presenti file da ripristinare.
 
-1. Passare all&#39;area **[!UICONTROL Revenue Explorer]**.
+1. Passa alla schermata **[!UICONTROL Revenue Explorer]**.
 
    ![](assets/image2015-3-24-13-3a24-3a56.png)
 

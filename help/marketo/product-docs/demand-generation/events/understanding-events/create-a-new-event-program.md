@@ -4,10 +4,10 @@ description: Creazione di un nuovo programma per eventi - Documentazione di Mark
 title: Creare un nuovo programma evento
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -19,7 +19,7 @@ Eventi consente di automatizzare gli eventi online e offline. Acquisisci lo stat
 
    ![](assets/ma.png)
 
-1. Selezionare la cartella per il nuovo programma. Selezionare **[!UICONTROL New]** e fare clic su **[!UICONTROL New Program]**.
+1. Selezionare la cartella per il nuovo programma. Seleziona **[!UICONTROL New]** e fai clic su **[!UICONTROL New Program]**.
 
    ![](assets/image2015-2-26-14-3a24-3a30.png)
 

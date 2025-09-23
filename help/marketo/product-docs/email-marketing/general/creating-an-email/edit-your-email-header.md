@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359453
 description: Modificare l’intestazione e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica intestazione e-mail
+title: Modificare l’intestazione dell’e-mail
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '187'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Modifica intestazione e-mail {#edit-your-email-header}
+# Modificare l’intestazione dell’e-mail {#edit-your-email-header}
 
 L’intestazione e-mail in Marketo è completamente personalizzabile. Si compone di quattro campi:
 

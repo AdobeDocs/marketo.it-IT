@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719291
 description: Impostare il cognome e il nome società della persona predefinita - Documenti Marketo - Documentazione del prodotto
-title: Imposta cognome persona e nome società predefiniti
+title: Impostare cognome persona e nome azienda predefiniti
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Imposta cognome persona e nome società predefiniti {#set-default-person-last-name-and-company-name}
+# Impostare cognome persona e nome azienda predefiniti {#set-default-person-last-name-and-company-name}
 
 [!DNL Salesforce] richiede (minimo) il cognome e il nome della società per i lead e i contatti. I record incompleti non verranno sincronizzati con [!DNL Salesforce]. Se si desidera sincronizzare i record parziali, è necessario impostare i valori predefiniti per Marketo da utilizzare con [!DNL Salesforce].
 

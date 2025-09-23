@@ -3,14 +3,14 @@ unique-page-id: 11384018
 description: Note sulla versione -Autunno '16 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Autunno '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Autunno &#39;16 {#release-notes-fall}
+# Note sulla versione - Autunno 2016 {#release-notes-fall}
 
 Le seguenti funzioni sono incluse nella versione di autunno del 1916. Verifica la disponibilità delle funzioni nella tua edizione di Marketo. Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 

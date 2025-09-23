@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720461
-description: Token di codifica HTML nelle e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Token di codifica HTML nelle e-mail
+description: Codifica token HTML nelle e-mail - Documentazione Marketo - Documentazione del prodotto
+title: Codificare token HTML nelle e-mail
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 16%
 
 ---
 
-# Token di codifica HTML nelle e-mail {#html-encode-tokens-in-emails}
+# Codificare token HTML nelle e-mail {#html-encode-tokens-in-emails}
 
 Abilita/disabilita i token persona e azienda utilizzati nelle e-mail.
 
@@ -21,13 +21,13 @@ Abilita/disabilita i token persona e azienda utilizzati nelle e-mail.
 
 >[!NOTE]
 >
->La codifica converte i caratteri nelle versioni dei codici HTML per evitare confusione durante la trasmissione (ad esempio, &quot;&amp;&quot; viene modificato in `&amp;`). Per ulteriori informazioni, consulta il tuo sviluppatore web.
+>La codifica converte i caratteri nelle rispettive versioni del codice HTML per evitare confusione durante la trasmissione (ad esempio, &quot;&amp;&quot; viene modificato in `&amp;`). Per ulteriori informazioni, consulta il tuo sviluppatore web.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/html-encode-tokens-in-emails-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/html-encode-tokens-in-emails-2.png)
 
@@ -35,7 +35,7 @@ Abilita/disabilita i token persona e azienda utilizzati nelle e-mail.
 
    ![](assets/html-encode-tokens-in-emails-3.png)
 
-1. Seleziona la casella **[!UICONTROL Token di codifica HTML nelle e-mail]** per attivarla, deseleziona per disattivarla.
+1. Selezionare la casella **[!UICONTROL HTML Encode Tokens in Emails]** per attivare, deselezionare per disattivare.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 

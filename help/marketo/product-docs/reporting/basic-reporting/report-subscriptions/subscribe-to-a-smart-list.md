@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7505310
 description: Iscrizione a un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
-title: Iscrizione a un elenco avanzato
+title: Abbonati a un elenco avanzato
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Iscrizione a un elenco avanzato {#subscribe-to-a-smart-list}
+# Abbonati a un elenco avanzato {#subscribe-to-a-smart-list}
 
 L’iscrizione a elenchi avanzati è un ottimo modo per tenere traccia delle persone, con i rapporti inviati direttamente nella tua casella in entrata.
 

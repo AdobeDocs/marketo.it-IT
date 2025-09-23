@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360315
 description: Creazione di una partizione persona - Documentazione Marketo - Documentazione del prodotto
-title: Creare una partizione persona
+title: Creare una partizione persone
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
-# Creare una partizione persona {#create-a-person-partition}
+# Creare una partizione persone {#create-a-person-partition}
 
 Creare una nuova partizione persona seguendo la procedura riportata di seguito.
 
@@ -23,7 +23,7 @@ Creare una nuova partizione persona seguendo la procedura riportata di seguito.
 >
 >Comprendere prima con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-a-person-partition-1.png)
 

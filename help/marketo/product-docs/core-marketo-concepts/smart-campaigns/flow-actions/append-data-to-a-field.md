@@ -4,10 +4,10 @@ description: Aggiungere dati a un campo - Documentazione Marketo - Documentazion
 title: Aggiungere dati a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 7dd2e21969b71a50bfd4643ab15459150ca07c92
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 >
 >I passaggi seguenti si applicano anche a [Modifica dati membro programma](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-member-data.md){target="_blank"}.
 
-1. Nella scheda **[!UICONTROL Flusso]**, trascina il passaggio del flusso **[!UICONTROL Modifica valore dati]**.
+1. Nella scheda **[!UICONTROL Flow]**, trascina il passaggio di flusso **[!UICONTROL Change Data Value]**.
 
    ![](assets/append-data-to-a-field-1.png)
 
@@ -39,4 +39,4 @@ ht-degree: 0%
 
    ![](assets/append-data-to-a-field-4.png)
 
-Tutto qui! Puoi diventare creativo e aggiungere più token.
+Tutto qui. Puoi diventare creativo e aggiungere più token.

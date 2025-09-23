@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718685
 description: Unione di due fasi nel Modeler dei ricavi - Documenti Marketo - Documentazione del prodotto
-title: Unione di due fasi nella Modeler dei ricavi
+title: Unione di due fasi nel modeler dei ricavi
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# Unione di due fasi nella Modeler dei ricavi {#merging-two-stages-in-the-revenue-modeler}
+# Unione di due fasi nel modeler dei ricavi {#merging-two-stages-in-the-revenue-modeler}
 
 Dopo aver approvato il modello, non potete eliminare le fasi durante la modifica di una bozza. Invece, puoi unire quella fase con un’altra.
 

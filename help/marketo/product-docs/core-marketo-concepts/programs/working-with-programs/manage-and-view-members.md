@@ -4,10 +4,10 @@ description: Gestire e visualizzare i membri - Documentazione di Marketo - Docum
 title: Gestire e visualizzare i membri
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '238'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -49,7 +49,7 @@ Fare clic con il pulsante destro del mouse sull&#39;intestazione di colonna per 
 
 ## Scegli le colonne visibili nella griglia {#choose-which-columns-are-visible-in-the-grid}
 
-1. Fare clic sul menu a discesa **[!UICONTROL View]** e selezionare **[!UICONTROL Create View]**.
+1. Fai clic sul menu a discesa **[!UICONTROL View]** e seleziona **[!UICONTROL Create View]**.
 
    ![](assets/image2014-10-1-16-3a32-3a43.png)
 

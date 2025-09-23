@@ -1,16 +1,16 @@
 ---
 description: Sincronizzazione campi personalizzati membro del programma - Documentazione Marketo - Documentazione del prodotto
-title: Sincronizzazione campo personalizzato membro programma
+title: Sincronizzazione campo personalizzato del membro del programma
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Sincronizzazione campo personalizzato membro programma {#program-member-custom-field-sync}
+# Sincronizzazione campo personalizzato del membro del programma {#program-member-custom-field-sync}
 
 >[!PREREQUISITES]
 >
@@ -138,8 +138,8 @@ Se desideri liberare un campo per sostituirlo o semplicemente apportare una modi
       <td>URL</td>
     </tr>
     <tr>
-      <td>Date</td>
-      <td>Date</td>
+      <td>Data</td>
+      <td>Data</td>
     </tr>
     <tr>
       <td>Data e ora</td>

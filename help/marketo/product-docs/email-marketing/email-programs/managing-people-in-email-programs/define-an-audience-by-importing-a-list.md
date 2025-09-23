@@ -4,10 +4,10 @@ description: Definire un pubblico importando un elenco - Documentazione di Marke
 title: Definire un pubblico importando un elenco
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '363'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >La definizione del pubblico funziona solo quando il programma e-mail non viene approvato.
 >
->Tutti i campi data/ora importati vengono trattati come ora centrale. Se sono presenti campi data/ora in un fuso orario diverso, è possibile utilizzare una formula di Excel per trasformarla in Ora centrale (America/Chicago).
+>Tutti i campi data/ora importati vengono trattati come ora centrale. Se sono presenti campi data/ora in un fuso orario diverso, puoi utilizzare una formula di Excel per trasformarla in Ora centrale (America/Chicago).
 
 1. Vai a **[!UICONTROL Marketing Activities]**.
 
@@ -65,7 +65,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >* Annulla l&#39;iscrizione
 >* Marketing sospeso
->* Inserire nell&#39;elenco Bloccati
+>* Inseriti nell’elenco bloccati
 >* E-mail non valida
 >* E-mail vuota
 >

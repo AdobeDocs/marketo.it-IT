@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099413
 description: Panoramica sugli invii di e-mail Insights - Documenti Marketo - Documentazione del prodotto
-title: Panoramica sugli invii di e-mail Insights
+title: Panoramica sugli invii degli approfondimenti e-mail
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Panoramica sugli invii di e-mail Insights {#email-insights-sends-overview}
+# Panoramica sugli invii degli approfondimenti e-mail {#email-insights-sends-overview}
 
 Nella pagina [!UICONTROL Sends], esaminare le caratteristiche delle comunicazioni e-mail recenti.
 

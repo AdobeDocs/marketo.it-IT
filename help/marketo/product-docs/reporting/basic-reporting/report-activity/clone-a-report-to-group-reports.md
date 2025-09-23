@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512105
 description: Clonare un rapporto in rapporti di gruppo - Documentazione di Marketo - Documentazione del prodotto
-title: Clonare un rapporto in rapporti di gruppo
+title: Clonare un rapporto in rapporti dei gruppi
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '94'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Clonare un rapporto in rapporti di gruppo {#clone-a-report-to-group-reports}
+# Clonare un rapporto in rapporti dei gruppi {#clone-a-report-to-group-reports}
 
 Qualsiasi report in **[!UICONTROL My Reports]** è visibile solo a te. Cosa succede se vuoi rendere il rapporto accessibile a tutti gli altri? Ecco come farlo:
 

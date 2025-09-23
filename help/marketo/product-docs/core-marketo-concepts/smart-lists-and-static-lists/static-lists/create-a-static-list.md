@@ -4,10 +4,10 @@ description: Creare un elenco statico - Documentazione di Marketo - Documentazio
 title: Creare un elenco statico
 exl-id: 93560d2a-6b36-4660-99b3-dd6209032fb0
 feature: Static Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 13%
 
 ---
 
@@ -19,11 +19,11 @@ Gli elenchi statici sono un gruppo di persone già presenti nel database. Ecco c
 
    ![](assets/db.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo elenco]**.
+1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL New List]**.
 
    ![](assets/two.png)
 
-1. Scegli una cartella di destinazione, assegna un nome al nuovo elenco, quindi fai clic su **[!UICONTROL Crea]**.
+1. Scegliere una cartella di destinazione, assegnare un nome al nuovo elenco, quindi fare clic su **[!UICONTROL Create]**.
 
    ![](assets/three.png)
 

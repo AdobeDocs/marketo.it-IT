@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360327
 description: Assegnazione di partizioni persona con regole di assegnazione - Documenti Marketo - Documentazione del prodotto
-title: Assegnazione di partizioni persona con regole di assegnazione
+title: Assegnare partizioni persone con regole di assegnazione
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 
-# Assegnazione di partizioni persona con regole di assegnazione {#assigning-person-partitions-with-assignment-rules}
+# Assegnare partizioni persone con regole di assegnazione {#assigning-person-partitions-with-assignment-rules}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
 >
 >Solo le persone create in Marketo dal CRM e tramite l’API SOAP avranno regole di assegnazione applicate.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/assigning-person-partitions-with-assignment-rules-1.png)
 

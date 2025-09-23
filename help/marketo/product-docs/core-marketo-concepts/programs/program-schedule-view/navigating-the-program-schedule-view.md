@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1147100
 description: Navigazione nella vista Pianificazione programma - Documentazione Marketo - Documentazione del prodotto
-title: Navigazione nella vista Programmazione programma
+title: Navigazione nella vista Pianificazione del programma
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 0%
+source-wordcount: '177'
+ht-degree: 6%
 
 ---
 
-# Navigazione nella vista Programmazione programma {#navigating-the-program-schedule-view}
+# Navigazione nella vista Pianificazione del programma {#navigating-the-program-schedule-view}
 
 Di seguito sono riportate le nozioni di base per la navigazione nella visualizzazione della pianificazione del programma.
 
 ## Trovare la vista Schedule {#find-the-schedule-view}
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Seleziona il programma. Fai clic sul menu a discesa **[!UICONTROL Visualizza]**. Seleziona **[!UICONTROL Pianificazione]**.
+1. Seleziona il programma. Fare clic sul menu a discesa **[!UICONTROL View]**. Seleziona **[!UICONTROL Schedule]**.
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
@@ -51,7 +51,7 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 
 ## Passaggio da una modalità all&#39;altra {#changing-between-modes}
 
-1. Se fai clic su **[!UICONTROL 3 settimane]** o **[!UICONTROL mese]**, le date visibili sul display cambieranno.
+1. Facendo clic su **[!UICONTROL 3 Weeks]** o **[!UICONTROL Month]** verranno modificate le date visibili sul display.
 
    ![](assets/image2014-9-17-11-3a40-3a19.png)
 

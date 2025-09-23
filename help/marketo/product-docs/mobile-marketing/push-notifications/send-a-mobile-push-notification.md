@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512457
 description: Inviare una notifica push per dispositivi mobili - Documenti Marketo - Documentazione del prodotto
-title: Inviare una notifica push per dispositivi mobili
+title: Inviare una notifica push con dispositivo mobile
 exl-id: b462857e-c63d-419d-9e28-aafc778e217e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '89'
-ht-degree: 3%
+ht-degree: 19%
 
 ---
 
-# Inviare una notifica push per dispositivi mobili {#send-a-mobile-push-notification}
+# Inviare una notifica push con dispositivo mobile {#send-a-mobile-push-notification}
 
 Invia una notifica push alle persone che utilizzano la tua app mobile.
 
@@ -20,7 +20,7 @@ Invia una notifica push alle persone che utilizzano la tua app mobile.
 >* [Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
 >* [Creare una notifica push](/help/marketo/product-docs/mobile-marketing/push-notifications/create-a-push-notification.md)
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2015-4-22-18-3a31-3a54.png)
 

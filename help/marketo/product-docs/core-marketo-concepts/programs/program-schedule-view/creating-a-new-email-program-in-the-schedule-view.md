@@ -4,10 +4,10 @@ description: Creazione di un nuovo programma e-mail nella vista Pianificazione -
 title: Creazione di un nuovo programma e-mail nella vista Pianificazione
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 18%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco come.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -27,7 +27,7 @@ Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco c
 
    ![](assets/image2014-9-23-15-3a35-3a16.png)
 
-1. Immetti un nome. Seleziona **[!UICONTROL Programma e-mail]**.
+1. Immetti un nome. Seleziona **[!UICONTROL Email Program]**.
 
    ![](assets/image2014-9-23-15-3a35-3a32.png)
 
@@ -35,7 +35,7 @@ Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco c
 
    ![](assets/image2014-9-23-15-3a35-3a42.png)
 
-1. [Configura il tuo programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} e fai clic su **[!UICONTROL Approva programma]**.
+1. [Configura il tuo programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md){target="_blank"} e fai clic su **[!UICONTROL Approve Program]**.
 
    ![](assets/learnaboutthespeaker.png)
 

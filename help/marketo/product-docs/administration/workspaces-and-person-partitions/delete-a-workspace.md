@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360313
 description: Eliminare un Workspace - Documentazione Marketo - Documentazione del prodotto
-title: Eliminare un Workspace
+title: Eliminare un’area di lavoro
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '57'
-ht-degree: 1%
+ht-degree: 19%
 
 ---
 
-# Eliminare un Workspace {#delete-a-workspace}
+# Eliminare un’area di lavoro {#delete-a-workspace}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 >
 >Impossibile eliminare l&#39;area di lavoro predefinita in Marketo.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-workspace-1.png)
 

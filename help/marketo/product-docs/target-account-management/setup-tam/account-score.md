@@ -4,10 +4,10 @@ description: Punteggio account - Documentazione di Marketo - Documentazione del 
 title: Punteggio account
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -47,9 +47,9 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 >Per calcolare i punteggi dei conti, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead per i punteggi degli account. Ad esempio, verranno utilizzati due degli esempi precedenti (_Punteggio interesse prodotto account_ e _Punteggio coinvolgimento Web account_).
 >
 >Innanzitutto, crea dei campi di valutazione del lead che acquisiscono dettagli rilevanti da ciascun lead di un account target.
->&#x200B;>Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:
->&#x200B;>Punteggio interesse prodotto conto = SOMMA (Punteggio interesse prodotto lead)
->&#x200B;>Punteggio coinvolgimento Web account = SUM (punteggio coinvolgimento Web lead)
+>>Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:
+>>Punteggio interesse prodotto conto = SOMMA (Punteggio interesse prodotto lead)
+>>Punteggio coinvolgimento Web account = SUM (punteggio coinvolgimento Web lead)
 
 >[!NOTE]
 >

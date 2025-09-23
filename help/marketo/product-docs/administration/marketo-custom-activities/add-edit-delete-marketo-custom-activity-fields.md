@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10100275
 description: Aggiungere/Modificare/Eliminare i campi di attività personalizzati di Marketo - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi/Modifica/Elimina campi attività personalizzati di Marketo
+title: Aggiungere/Modificare/Eliminare campi attività personalizzati di Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '262'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# Aggiungi/Modifica/Elimina campi attività personalizzati di Marketo {#add-edit-delete-marketo-custom-activity-fields}
+# Aggiungere/Modificare/Eliminare campi attività personalizzati di Marketo {#add-edit-delete-marketo-custom-activity-fields}
 
 Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo attività personalizzato. Ecco come.
 
 ## Aggiungere un campo attività personalizzato {#add-a-custom-activity-field}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-1.png)
 
@@ -53,7 +53,7 @@ Potrebbe essere necessario aggiungere, modificare o anche eliminare un campo att
 
 ## Modificare un campo attività personalizzato {#edit-a-custom-activity-field}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-8.png)
 
@@ -97,7 +97,7 @@ Il campo è stato modificato.
 
 ## Eliminare un campo attività personalizzato {#delete-a-custom-activity-field}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-edit-delete-marketo-custom-activity-fields-15.png)
 

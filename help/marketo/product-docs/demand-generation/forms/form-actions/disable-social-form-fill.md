@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10098242
 description: Disabilita compilazione modulo social network - Documentazione Marketo - Documentazione del prodotto
-title: Disattiva compilazione modulo social network
+title: Disabilitare la compilazione di un modulo di contatto
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Disattiva compilazione modulo social network {#disable-social-form-fill}
+# Disabilitare la compilazione di un modulo di contatto {#disable-social-form-fill}
 
 A volte è meglio non inviare più i moduli tramite un profilo social. Ecco come disattivarlo.
 

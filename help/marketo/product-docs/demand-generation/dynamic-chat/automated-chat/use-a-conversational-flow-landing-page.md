@@ -4,10 +4,10 @@ title: Utilizzare una pagina di destinazione del flusso per conversazioni
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '226'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -19,7 +19,7 @@ L’incorporazione di un flusso conversazionale di Dynamic Chat direttamente in 
 >
 >Crea un [flusso conversazionale](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-conversational-flow.md) semplice che contiene solo una **prenotazione riunioni**.
 
-## Pagine di destinazione guidate {#guided-landing-pages}
+## Pagine di destinazione in formato guidato {#guided-landing-pages}
 
 Incorporare il codice seguente nel modello di pagina di destinazione guidata: `<div class="mktoConversation" id="exampleConversation" mktoName= "Example Conversation"></div>`.
 
@@ -27,7 +27,7 @@ Apri il modello Pagina di destinazione guidata nell’editor e seleziona il segn
 
 Fare clic sull&#39;elenco a discesa Flusso conversazionale e selezionare il CF creato nel passo 1.
 
-Mantieni sempre il tipo di consegna come **In linea**. Fare clic su **Inserisci**.
+Mantieni sempre il tipo di consegna come **In linea**. Fai clic su **Inserisci**.
 
 Il flusso conversazionale appena immesso verrà visualizzato come elemento a destra.
 

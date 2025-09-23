@@ -4,10 +4,10 @@ description: Connessione e-mail per gli utenti di Outlook - Documentazione di Ma
 title: Connessione e-mail per gli utenti di Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ La connessione a [!DNL Outlook] comporta la ricezione del tracciamento delle ris
 
    ![](assets/four.png)
 
-1. Selezionare **[!UICONTROL I use Outlook to send emails]** e fare clic su **[!UICONTROL Next]**.
+1. Seleziona **[!UICONTROL I use Outlook to send emails]** e fai clic su **[!UICONTROL Next]**.
 
    ![](assets/five-a.png)
 
@@ -102,7 +102,7 @@ La connessione a [!DNL Exchange On-Premise] comporta la ricezione del tracciamen
 
    ![](assets/four.png)
 
-1. Selezionare **[!UICONTROL I use Outlook to send emails]** e fare clic su **[!UICONTROL Next]**.
+1. Seleziona **[!UICONTROL I use Outlook to send emails]** e fai clic su **[!UICONTROL Next]**.
 
    ![](assets/five-a.png)
 

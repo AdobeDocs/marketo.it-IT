@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7511725
 description: I miei report e i report dei gruppi - Documentazione di Marketo - Documentazione del prodotto
-title: I miei report e i report dei gruppi
+title: Informazioni sui miei rapporti e i rapporti dei gruppi
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 20%
 
 ---
 
-# I miei report e i report dei gruppi {#understanding-my-reports-and-group-reports}
+# Informazioni sui miei rapporti e i rapporti dei gruppi {#understanding-my-reports-and-group-reports}
 
 Puoi creare **[!UICONTROL My Reports]** e **[!UICONTROL Group Reports]** dalla [Home di Analytics](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/navigating-the-analytics-home-page.md).
 

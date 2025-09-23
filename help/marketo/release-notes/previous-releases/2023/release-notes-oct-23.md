@@ -3,24 +3,24 @@ description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - 
 title: Note sulla versione - Settembre 2023
 feature: Release Information
 exl-id: c1197141-3822-404d-b9d4-3e37fc5330b6
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '337'
-ht-degree: 2%
+ht-degree: 28%
 
 ---
 
-# Note sulla versione: ottobre 2023 {#release-notes-oct-23}
+# Note sulla versione - Ottobre 2023 {#release-notes-oct-23}
 
-Qui sotto troverai tutte le funzioni incluse nella versione di ottobre 2023. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Qui sotto troverai tutte le funzioni incluse nella versione di ottobre 2023. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **6 ottobre 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 6 ottobre 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>

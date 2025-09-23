@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720710
 description: Configurare SPF e DKIM per il recapito messaggi e-mail - Documentazione Marketo - Documentazione del prodotto
-title: Configurare SPF e DKIM per il recapito messaggi e-mail
+title: Configurare SPF e DKIM per la recapitabilità via e-mail
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Configurare SPF e DKIM per il recapito messaggi e-mail {#set-up-spf-and-dkim-for-your-email-deliverability}
+# Configurare SPF e DKIM per la recapitabilità via e-mail {#set-up-spf-and-dkim-for-your-email-deliverability}
 
 Un metodo rapido per migliorare le percentuali di consegna delle e-mail consiste nell&#39;incorporare **SPF** (Sender Policy Framework) e **DKIM** (Domain Keys Identified Mail) nelle impostazioni DNS. Con questa aggiunta alle voci DNS, stai dicendo ai destinatari che hai autorizzato Marketo a inviare e-mail per tuo conto. Senza questa modifica, l’e-mail ha una maggiore probabilità di essere contrassegnata come spam poiché è stata indirizzata dal dominio, ma inviata da un indirizzo IP con un dominio Marketo.
 

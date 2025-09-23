@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11379928
 description: Dettagli delle modifiche in Audit Trail - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica dettagli in Audit Trail
+title: Modificare i dettagli in Audit trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1902'
-ht-degree: 11%
+ht-degree: 12%
 
 ---
 
-# Modifica dettagli in Audit Trail {#change-details-in-audit-trail}
+# Modificare i dettagli in Audit trail {#change-details-in-audit-trail}
 
 Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a Marketo. Ecco i dettagli.
 
@@ -539,7 +539,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>N/D</td>
   </tr>
   <tr>
-   <td rowspan="8">Modello per pagina di destinazione</td>
+   <td rowspan="8">Modello pagina di destinazione</td>
    <td>Creare</td>
    <td><p>Vuoto<br>o<br>Clonato da "nome risorsa"</p></td>
   </tr>
@@ -671,7 +671,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>Mostra lo snapshot dello stato corrente, inclusi nomi e valori di filtri e trigger </td>
   </tr>
   <tr>
-   <td rowspan="11">Frammento</td>
+   <td rowspan="11">Snippet</td>
    <td>Creare</td>
    <td><p>Vuoto<br>o<br>Clonato da "nome frammento"</p></td>
   </tr>

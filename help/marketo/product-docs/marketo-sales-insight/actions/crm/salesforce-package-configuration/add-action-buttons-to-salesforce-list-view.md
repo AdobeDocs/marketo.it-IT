@@ -1,19 +1,19 @@
 ---
-description: Aggiungi pulsanti di azione alla visualizzazione elenco Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Aggiungi pulsanti di azione alla vista a elenco Salesforce
+description: Pulsanti di azione aggiunti alla visualizzazione elenco Salesforce - Documentazione Marketo - Documentazione del prodotto
+title: Aggiungere pulsanti di azione alla vista a elenco Salesforce
 exl-id: 6265437c-341d-485c-8c84-b9cb5c7298fc
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '290'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Aggiungi pulsanti di azione alla vista a elenco Salesforce {#add-action-buttons-to-salesforce-list-view}
+# Aggiungere pulsanti di azione alla vista a elenco Salesforce {#add-action-buttons-to-salesforce-list-view}
 
 >[!NOTE]
 >
->**Autorizzazioni di amministrazione Salesforce richieste.**
+>**Autorizzazioni di amministrazione di Salesforce richieste.**
 
 >[!NOTE]
 >
@@ -50,4 +50,4 @@ I pulsanti di azione da installare includono:
 >
 >* [Utilizzo dell&#39;e-mail per le vendite in blocco in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-send-sales-email-in-salesforce.md){target="_blank"}
 >* [Utilizzo dell&#39;aggiunta in blocco alla campagna vendite in Salesforce](/help/marketo/product-docs/marketo-sales-insight/actions/crm/actions-in-salesforce/using-bulk-add-to-sales-campaign-in-salesforce.md){target="_blank"}
->* [Installa il pacchetto Marketo Sales Insight nell&#39;AppExchange Salesforce](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}
+>* [Installa il pacchetto Marketo Sales Insight in Salesforce AppExchange](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359726
 description: Modifica titolo e metadati della pagina di destinazione - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica titolo e metadati della pagina di destinazione
+title: Modificare titolo e metadati della pagina di destinazione
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Modifica titolo e metadati della pagina di destinazione {#edit-landing-page-title-and-metadata}
+# Modificare titolo e metadati della pagina di destinazione {#edit-landing-page-title-and-metadata}
 
 Marketo ti consente di modificare i [metatag della pagina di destinazione a scopo SEO](https://www.w3schools.com/tags/tag_meta.asp) e di personalizzare la sezione `<head>` di HTML.
 

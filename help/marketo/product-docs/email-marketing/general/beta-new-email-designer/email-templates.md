@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: 9e1d81fb-28f5-47d4-b813-950462fee81d
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1714'
 ht-degree: 1%
@@ -182,13 +182,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356429
 description: Crea attività in Microsoft - Documentazione Marketo - Documentazione del prodotto
-title: Crea attività in Microsoft
+title: Creare attività in Microsoft
 exl-id: b9ae425b-edf1-4aae-92f4-e7c6cf647cdc
 feature: Smart Campaigns, Microsoft Dynamics
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 0%
+source-wordcount: '164'
+ht-degree: 4%
 
 ---
 
-# Crea attività in Microsoft {#create-task-in-microsoft}
+# Creare attività in Microsoft {#create-task-in-microsoft}
 
 In qualità di addetto al marketing, hai a disposizione informazioni che possono essere di aiuto alle vendite per concludere un affare. Puoi creare attività per comunicare loro cosa dovrebbero fare e quando dovrebbero farlo.
 
@@ -27,7 +27,7 @@ Per impostazione predefinita, il passaggio del flusso si presenta così:
 
 >[!NOTE]
 >
->Quando l&#39;utente di Marketo Sync crea attività, **[!UICONTROL Scadenza]** è un campo obbligatorio per la creazione dell&#39;attività in [!DNL Microsoft]. Marketo inserirà cinque giorni per impostazione predefinita se non viene immesso alcun valore.
+>Quando l&#39;utente di Marketo Sync crea attività, **[!UICONTROL Due In]** è un campo obbligatorio per la creazione dell&#39;attività in [!DNL Microsoft]. Marketo inserirà cinque giorni per impostazione predefinita se non viene immesso alcun valore.
 
 Personalizzare tutti i campi per creare l&#39;attività nel modo desiderato.
 

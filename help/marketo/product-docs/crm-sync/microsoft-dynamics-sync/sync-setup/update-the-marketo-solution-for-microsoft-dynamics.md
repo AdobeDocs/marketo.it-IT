@@ -4,10 +4,10 @@ description: Aggiornamento della soluzione Marketo per  [!DNL Microsoft Dynamics
 title: Aggiorna la soluzione Marketo per  [!DNL Microsoft Dynamics]
 exl-id: 76bd722a-f2bf-46df-84e2-827fbbee4ab2
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Quando viene rilasciata una nuova soluzione [!DNL Microsoft Dynamics], è possib
 >
 >È fondamentale scaricare la soluzione Marketo più recente _prima_ di eseguire qualsiasi aggiornamento.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 

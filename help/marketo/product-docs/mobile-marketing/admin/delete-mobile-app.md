@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512442
 description: Elimina app mobile - Documentazione Marketo - Documentazione del prodotto
-title: Elimina app mobile
+title: Eliminare un’app mobile
 exl-id: 048b7d05-87c2-4667-a663-27d782ab2ef1
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 21%
 
 ---
 
-# Elimina app mobile {#delete-mobile-app}
+# Eliminare un’app mobile {#delete-mobile-app}
 
 1. Fai clic su **[!UICONTROL Admin]**.
 

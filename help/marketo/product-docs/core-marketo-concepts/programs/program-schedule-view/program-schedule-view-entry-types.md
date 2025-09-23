@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147243
 description: Tipi di voci nella visualizzazione della pianificazione del programma - Documenti Marketo - Documentazione del prodotto
-title: Tipi di voci di visualizzazione della programmazione
+title: Tipi di voci della vista Pianificazione del programma
 exl-id: 0b53d6d3-b813-45c6-9101-191c777610bb
 feature: Programs
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 3%
+ht-degree: 10%
 
 ---
 
-# Tipi di voci di visualizzazione della programmazione {#program-schedule-view-entry-types}
+# Tipi di voci della vista Pianificazione del programma {#program-schedule-view-entry-types}
 
 Sono disponibili otto diversi tipi di voce incorporati che saranno visibili e disponibili per l&#39;utilizzo nella visualizzazione di programmazione. Puoi anche [creare tipi di voce personalizzati](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/create-custom-entry-types.md) nella sezione Amministratore.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360356
 description: Aggiunta del Single Sign-On a un portale - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungere il Single Sign-On a un portale
+title: Aggiungere il single sign-on a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '571'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Aggiungere il Single Sign-On a un portale {#add-single-sign-on-to-a-portal}
+# Aggiungere il single sign-on a un portale {#add-single-sign-on-to-a-portal}
 
 Se si dispone di un servizio directory che autentica gli utenti, è possibile consentire l&#39;accesso Single Sign-On (SSO) in Marketo. Questa funzionalità è supportata con [!DNL Security Assertion Markup Language] (SAML) versione 2.0 e successive.
 
@@ -59,7 +59,7 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configurarlo, segui la procedura riportata di seguito.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-single-sign-on-to-a-portal-1.png)
 

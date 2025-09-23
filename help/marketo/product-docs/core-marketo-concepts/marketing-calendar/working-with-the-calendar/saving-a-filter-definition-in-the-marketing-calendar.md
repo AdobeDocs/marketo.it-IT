@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147296
 description: Salvataggio di una definizione di filtro nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
-title: Salvataggio di una definizione di filtro nel calendario di marketing
+title: Salvare una definizione di filtro nel calendario marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 2%
+source-wordcount: '84'
+ht-degree: 20%
 
 ---
 
-# Salvataggio di una definizione di filtro nel calendario di marketing {#saving-a-filter-definition-in-the-marketing-calendar}
+# Salvare una definizione di filtro nel calendario marketing {#saving-a-filter-definition-in-the-marketing-calendar}
 
 Il salvataggio di un filtro consente di passare da una definizione di filtro all’altra.
 
@@ -27,7 +27,7 @@ Il salvataggio di un filtro consente di passare da una definizione di filtro all
 
    ![](assets/image2014-9-24-10-3a50-3a57.png)
 
-1. Denomina il filtro. Fai clic su **[!UICONTROL Salva]**.
+1. Denomina il filtro. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-10-3a51-3a3.png)
 

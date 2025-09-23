@@ -4,14 +4,14 @@ description: Note sulla versione -Gennaio 2013 - Documentazione Marketo - Docume
 title: Note sulla versione - Gennaio 2013
 exl-id: 1bdc15f4-eb86-4e29-948a-0823a583ee86
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: gennaio 2013 {#release-notes-january}
+# Note sulla versione - Gennaio 2013 {#release-notes-january}
 
 La versione di gennaio amplia l&#39;offerta social con **offerte di riferimento**. Inoltre, [!DNL Marketo Lead Management] utenti possono impostare il proprio fuso orario, la propria lingua e le proprie preferenze locali. Le funzionalità contrassegnate con &#42; sono disponibili solo in Select Edition.
 

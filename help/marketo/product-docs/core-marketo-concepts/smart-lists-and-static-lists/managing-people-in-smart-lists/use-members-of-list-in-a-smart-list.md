@@ -4,10 +4,10 @@ description: Utilizzare i membri dell’elenco in un elenco avanzato - Documenta
 title: Utilizzare i membri dell’elenco in un elenco avanzato
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 13%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Con questo filtro, puoi estrarre i membri da un altro elenco facendo riferimento a esso nelle regole dell’elenco avanzato. Ecco come.
 
-1. Selezionare un elenco avanzato e fare clic sulla scheda **[!UICONTROL Elenco avanzato]**.
+1. Selezionare un elenco avanzato e fare clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/smartlist-sltab.png)
 
-1. Nel pannello dei filtri sul lato destro, cerca e trascina il filtro **[!UICONTROL Membro dell&#39;elenco]** nell&#39;area di lavoro.
+1. Nel pannello dei filtri sul lato destro, cercare e trascinare il filtro **[!UICONTROL Member of List]** nell&#39;area di lavoro.
 
    ![](assets/use-members-of-list-in-a-smart-list-2nd.png)
 

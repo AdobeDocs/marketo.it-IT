@@ -4,26 +4,26 @@ description: Creazione di una nuova campagna avanzata - Documentazione di Market
 title: Creare una nuova campagna avanzata
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
 # Creare una nuova campagna avanzata {#create-a-new-smart-campaign}
 
-Le campagne intelligenti sono lo strumento più importante nel Marketo Engage. Possono essere attivati da una sola persona ed eseguire azioni, oppure aggregare milioni di persone ed eseguire una serie di passaggi di flusso.
+Le campagne intelligenti sono lo strumento più importante di Marketo Engage. Possono essere attivati da una sola persona ed eseguire azioni, oppure aggregare milioni di persone ed eseguire una serie di passaggi di flusso.
 
 >[!TIP]
 >
 >Ulteriori informazioni su [Campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 
-1. Fare clic con il pulsante destro del mouse sul programma desiderato e selezionare **[!UICONTROL Nuova campagna avanzata]**.
+1. Fare clic con il pulsante destro del mouse sul programma desiderato e selezionare **[!UICONTROL New Smart Campaign]**.
 
    ![](assets/create-a-new-smart-campaign-2.png)
 
@@ -31,7 +31,7 @@ Le campagne intelligenti sono lo strumento più importante nel Marketo Engage. P
    >
    >Puoi creare campagne avanzate come risorse locali di qualsiasi programma.
 
-1. Immetti il nome della campagna avanzata e fai clic su **[!UICONTROL Crea]**.
+1. Immettere il nome della campagna avanzata e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-smart-campaign-3.png)
 

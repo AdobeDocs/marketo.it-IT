@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557312
 description: Glossario degli operatori di filtri per elenchi avanzati - Documentazione di Marketo - Documentazione del prodotto
-title: Glossario degli operatori di filtro elenchi avanzati
+title: Glossario operatori di filtro dell’elenco avanzato
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '616'
-ht-degree: 11%
+source-wordcount: '603'
+ht-degree: 15%
 
 ---
 
-# Glossario degli operatori di filtro elenchi avanzati {#smart-list-filter-operators-glossary}
+# Glossario operatori di filtro dell’elenco avanzato {#smart-list-filter-operators-glossary}
 
 Un operatore fa parte dell’elenco avanzato, che consente di ottenere specifiche. Ti consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ogni tipo di campo.
 
@@ -92,12 +92,12 @@ Quando scegli un operatore, il lato destro cambia in modo dinamico.
   </tr>
   <tr>
     <td>è vuoto</td>
-    <td>Nessuno</td>
+    <td>Nessuna</td>
     <td>Tutti i record senza data</td>
   </tr>
   <tr>
     <td>non è vuoto</td>
-    <td>Nessuno</td>
+    <td>Nessuna</td>
     <td>Tutti i record con qualsiasi data</td>
   </tr>
 </tbody></table>
@@ -118,7 +118,7 @@ Basta digitare il numero e l&#39;unità e funzionerà!
 
 >[!CAUTION]
 >
->Quando crei un elenco avanzato utilizzando un filtro per il campo data (ad esempio, Data di nascita, Data di creazione SFDC) e utilizzi i vincoli **[!UICONTROL prima]**, **[!UICONTROL prima o prima]** o **[!UICONTROL prima del]**, l&#39;elenco avanzato includerà anche le persone che non hanno alcun valore in tale campo data.
+>Quando si crea un elenco avanzato utilizzando un filtro campo data (ad esempio Data di nascita, Data di creazione SFDC) e si utilizzano i vincoli **[!UICONTROL before]**, **[!UICONTROL on or before]** o **[!UICONTROL in past before]**, l&#39;elenco avanzato includerà anche le persone che non hanno alcun valore in tale campo data.
 
 Utilizza il diagramma seguente per comprendere la differenza tra gli operatori di data.
 
@@ -130,11 +130,11 @@ Utilizza il diagramma seguente per comprendere la differenza tra gli operatori d
 >
 >I campi data possono diventare complessi quando si lavora con eventi passati e futuri. Ecco un paio di esempi.
 >
->**[!UICONTROL In passato]**
+>**[!UICONTROL In past before]**
 >
 >Per la tua nuova promozione, utilizza questo operatore per inviare e-mail solo a persone che non si sono abbonate o hanno rinnovato il servizio entro un anno o non sono mai state abbonate.
 >
->**[!UICONTROL In futuro dopo]**
+>**[!UICONTROL In future after]**
 >
 >Se vuoi vedere clienti che sono pronti per il rinnovo entro 90 giorni, Puoi utilizzare due filtri separati. Prima utilizzare &quot;In futuro dopo 90 giorni&quot; e seconda, &quot;In futuro 91 giorni&quot;. In questo modo chiunque abbia una data compresa tra 90 giorni.
 

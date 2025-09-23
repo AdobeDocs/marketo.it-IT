@@ -4,10 +4,10 @@ short-description: Hai appena iniziato a usare Adobe Marketo Engage? Scopri qual
 title: Passaggi di configurazione
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1663'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -147,7 +147,6 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
 `3)` Inserire nell&#39;elenco Consentiti Marketo.
 
     * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli IP elencati di seguito:
-
     199.15.212.0/22
     
     192.28.144.0/20
@@ -271,7 +270,7 @@ Marketo Engage dispone di un JavaScript di tracciamento personalizzato (denomina
 
 ## Aspettative di prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -4,14 +4,14 @@ description: Passaggio 2 di 3 - Configurare l’utente Sync per Marketo (on-prem
 title: 'Passaggio 2 di 3: configurare l''utente Sync per Marketo (on-premises 2013)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Passaggio 2 di 3: configurare l&#39;utente Sync per Marketo (on-premises 2013) {#step-of-configure-sync-user-for-marketo-on-premises}
+# Passaggio 2 di 3: configurare l’utente di Marketo Sync (On-premise 2013) {#step-of-configure-sync-user-for-marketo-on-premises}
 
 Ottimo lavoro per completare i passaggi precedenti, continuiamo a muoverci attraverso questo.
 

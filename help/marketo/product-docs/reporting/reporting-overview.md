@@ -1,28 +1,28 @@
 ---
 description: Panoramica sul reporting - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica sul reporting
+title: Panoramica sui rapporti
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Panoramica sul reporting {#reporting-overview}
+# Panoramica sui rapporti {#reporting-overview}
 
 Marketo offre una varietà di moduli di reporting per diverse esigenze.
 
-## Reporting di base {#basic-reporting}
+## Generazione di rapporti di base {#basic-reporting}
 
 Puoi impostare [report di base](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"} all&#39;interno di programmi o nell&#39;area Analytics. I report di base sono costituiti da diversi tipi di report preconfigurati con la flessibilità di filtrare, ordinare e regolare i periodi di tempo.
 
-## Email Insights {#email-insights}
+## Approfondimenti e-mail {#email-insights}
 
 Utilizza Analytics e Sends per ottenere [informazioni importanti](/help/marketo/product-docs/reporting/email-insights/email-insights-overview.md){target="_blank"} sulle e-mail dai dati storici.
 
-## Informazioni sulle prestazioni {#performance-insights}
+## Approfondimenti prestazioni {#performance-insights}
 
 [Performance Insights](/help/marketo/product-docs/reporting/performance-insights/performance-insights-overview.md){target="_blank"} tratta le prestazioni del canale e del programma per coinvolgimento, pipeline e generazione di ricavi.
 

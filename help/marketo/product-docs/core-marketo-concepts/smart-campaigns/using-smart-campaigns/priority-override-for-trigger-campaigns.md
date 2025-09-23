@@ -1,16 +1,16 @@
 ---
 description: Sovrascrittura delle priorità per le campagne Trigger - Documenti Marketo - Documentazione del prodotto
-title: Sovrascrittura priorità per campagne trigger
+title: Sovrascrive priorità per campagne trigger
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Sovrascrittura priorità per campagne trigger {#priority-override-for-trigger-campaigns}
+# Sovrascrive priorità per campagne trigger {#priority-override-for-trigger-campaigns}
 
 Gli amministratori possono ignorare la priorità determinata da Marketo Engage per Attivare le campagne per impostare priorità che si allineano meglio agli obiettivi aziendali.
 

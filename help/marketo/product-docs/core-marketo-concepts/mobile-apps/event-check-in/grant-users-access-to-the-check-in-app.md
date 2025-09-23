@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516639
 description: Consentire agli utenti di accedere all’app di archiviazione - Documentazione di Marketo - Documentazione del prodotto
-title: Concedere agli utenti l’accesso all’app di archiviazione
+title: Concedere agli utenti l’accesso all’app di registrazione
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Concedere agli utenti l’accesso all’app di archiviazione {#grant-users-access-to-the-check-in-app}
+# Concedere agli utenti l’accesso all’app di registrazione {#grant-users-access-to-the-check-in-app}
 
 Marketo Engage ha un ruolo utente speciale per l’app di archiviazione degli eventi. Ecco come creare un nuovo ruolo con l’autorizzazione per utilizzare l’app.
 

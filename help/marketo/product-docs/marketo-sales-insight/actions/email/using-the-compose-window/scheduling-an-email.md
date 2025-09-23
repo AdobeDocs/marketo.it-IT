@@ -1,14 +1,14 @@
 ---
 description: Pianificazione di un’e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Pianificazione di un’e-mail
-source-git-commit: d9b8b92ac5f051178b8eb9b450c4949b56d50b99
+title: Programmazione di un’e-mail
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Pianificazione di un’e-mail {#scheduling-an-email}
+# Programmazione di un’e-mail {#scheduling-an-email}
 
 Segui questi semplici passaggi per pianificare un’e-mail.
 

@@ -3,10 +3,10 @@ description: Impostazioni di sincronizzazione Salesforce - Documentazione Market
 title: Impostazioni sincronizzazione Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '574'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -36,7 +36,7 @@ Questa funzionalità richiede l&#39;iscrizione all&#39;edizione Enterprise/Unlim
 
    ![](assets/salesforce-sync-settings-4.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Salesforce API]**. In questa scheda è possibile impostare le preferenze per la registrazione delle informazioni su [!DNL Salesforce]. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Fai clic sulla scheda **[!UICONTROL Salesforce API]**. In questa scheda è possibile impostare le preferenze per la registrazione delle informazioni su [!DNL Salesforce]. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/salesforce-sync-settings-5.png)
 

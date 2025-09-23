@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147029
 description: Modifica stato in SFDC Campaign - Documentazione Marketo - Documentazione del prodotto
-title: Modifica stato in SFDC Campaign
+title: Modificare lo stato nella campagna SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Modifica stato in SFDC Campaign {#change-status-in-sfdc-campaign}
+# Modificare lo stato nella campagna SFDC {#change-status-in-sfdc-campaign}
 
 Questo passaggio di flusso consente di modificare lo stato dei membri della campagna Salesforce dei lead.
 

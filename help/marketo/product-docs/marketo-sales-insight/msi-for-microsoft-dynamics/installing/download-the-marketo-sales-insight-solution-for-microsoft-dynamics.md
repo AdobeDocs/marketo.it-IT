@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849070
 description: Scarica la soluzione Marketo Sales Insight per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
-title: Scarica la soluzione Marketo Sales Insight per Microsoft Dynamics
+title: Scaricare la soluzione Marketo Sales Insight per Microsoft Dynamics
 exl-id: 6de8c605-d5e9-458d-aca8-2ed708d12402
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 1%
 >
 >Il plug-in in questa pagina è per coloro che eseguono la sincronizzazione con Marketo Engage utilizzando la soluzione di sincronizzazione CRM nativa di Marketo per [!DNL Dynamics 365]. Per gli utenti che hanno: una sincronizzazione personalizzata, [!DNL MS Dynamics 365 Online] (9.x e versioni successive) e hanno acquistato [!DNL Marketo Sales Insight], il [pacchetto si trova qui](https://mktg-cdn.marketo.com/community/MarketoSalesInsight_NonNative.zip){target="_blank"}.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/mainnavhand.png)
 

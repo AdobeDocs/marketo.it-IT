@@ -4,10 +4,10 @@ description: Azioni Salesforce implicite - Documentazione Marketo - Documentazio
 title: Azioni Salesforce implicite
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
@@ -26,24 +26,24 @@ Queste regole verranno applicate quando la persona non si trova attualmente in [
  </thead>
  <tbody>
   <tr>
-   <td>Aggiungi a SFDC Campaign</td>
-   <td>Sincronizza persona con SFDC</td>
+   <td>Aggiungere a campagna SFDC</td>
+   <td>Sincronizzare persona con SFDC</td>
   </tr>
   <tr>
-   <td>Modifica stato in SFDC Campaign</td>
+   <td>Modificare lo stato nella campagna SFDC</td>
    <td>Sincronizza persona con SFDC<br>Aggiungi a SFDC Campaign</td>
   </tr>
   <tr>
-   <td>Cambia proprietario</td>
-   <td><p>Sincronizza persona con SFDC</p></td>
+   <td>Modificare proprietario</td>
+   <td><p>Sincronizzare persona con SFDC</p></td>
   </tr>
   <tr>
-   <td>Converti persona</td>
-   <td><p>Sincronizza persona con SFDC</p></td>
+   <td>Convertire persona</td>
+   <td><p>Sincronizzare persona con SFDC</p></td>
   </tr>
   <tr>
-   <td>Crea attività</td>
-   <td>Sincronizza persona con SFDC</td>
+   <td>Creare attività</td>
+   <td>Sincronizzare persona con SFDC</td>
   </tr>
  </tbody>
 </table>

@@ -4,10 +4,10 @@ description: Rinominare un campo - Documentazione Marketo - Documentazione del p
 title: Rinominare un campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/rename-a-field-1.png)
 

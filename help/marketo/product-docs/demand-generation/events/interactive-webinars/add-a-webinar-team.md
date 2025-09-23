@@ -1,16 +1,16 @@
 ---
 description: Aggiungere un team al webinar - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi un team di webinar
+title: Aggiungere un team per il webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '425'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Aggiungi un team di webinar {#add-a-webinar-team}
+# Aggiungere un team per il webinar {#add-a-webinar-team}
 
 Un team di webinar nei webinar interattivi è costituito da tutti i ruoli che contribuiscono alla corretta distribuzione del webinar in Adobe Connect. Ciò include sia i relatori che i co-host.
 

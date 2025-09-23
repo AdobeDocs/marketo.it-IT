@@ -1,16 +1,16 @@
 ---
 description: NUR-YYYY-MM-Simple Nurture - Documentazione di Marketo - Documentazione del prodotto
-title: NUR-YYYY-MM-Statura semplice
+title: Nurturing semplice NUR-MM-AAAA
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-# NUR-YYYY-MM-Statura semplice {#nur-yyyy-mm-simple-nurture}
+# Nurturing semplice NUR-MM-AAAA {#nur-yyyy-mm-simple-nurture}
 
 Si tratta di un esempio di semplici programmi di sviluppo, che utilizzano il programma Marketo Engage Engagement, con contenuto cadenziato da distribuire nel tempo nel database utilizzando flussi di dati per guidare i record attraverso percorsi basati sul comportamento.
 
@@ -47,17 +47,17 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01 - E-mail</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>02 - E-mail</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>03 - E-mail</td>
   </tr>
   <tr>

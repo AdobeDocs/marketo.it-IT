@@ -4,10 +4,10 @@ description: Utilizzare il filtro Data Value Changed in uno Smart List - Marketo
 title: Utilizzare il filtro Valore dati modificato in un elenco avanzato
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 0%
+source-wordcount: '138'
+ht-degree: 18%
 
 ---
 
@@ -19,19 +19,19 @@ I valori cambiano e vengono aggiornati costantemente nel database di Marketo. A 
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vai all&#39;area **[!UICONTROL Attività di marketing]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-1.png)
 
-1. Selezionare l&#39;elenco avanzato e fare clic sulla scheda **[!UICONTROL Elenco avanzato]**.
+1. Selezionare l&#39;elenco avanzato e fare clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-2.png)
 
-1. Trovare il filtro **[!UICONTROL Valore dati modificato]** e trascinarlo nell&#39;area di lavoro.
+1. Trovare il filtro **[!UICONTROL Data Value Changed]** e trascinarlo nell&#39;area di lavoro.
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-3.png)
 
-1. Imposta **[!UICONTROL Attributo]** sul campo in cui desideri cercare le modifiche al valore dei dati.
+1. Impostare **[!UICONTROL Attribute]** sul campo in cui si desidera cercare le modifiche al valore dei dati.
 
    ![](assets/use-the-data-value-changed-filter-in-a-smart-list-4.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514956
 description: Abilitare i contenuti predittivi per contenuti web - Documenti Marketo - Documentazione del prodotto
-title: Abilitare il contenuto predittivo per i contenuti rich media web
+title: Abilitare i contenuti predittivi per i rich media per il web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Abilitare il contenuto predittivo per i contenuti rich media web {#enable-predictive-content-for-web-rich-media}
+# Abilitare i contenuti predittivi per i rich media per il web {#enable-predictive-content-for-web-rich-media}
 
 I contenuti predittivi coinvolgono i visitatori web con i contenuti più rilevanti, grazie all’apprendimento automatico e alle analisi predittive. Con Web Rich Media, puoi migliorare i contenuti con descrizioni di testo e immagini e incorporare più consigli sui contenuti predittivi nel sito web.
 
@@ -41,13 +41,13 @@ Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per R
 
    ![](assets/image2017-10-3-10-3a0-3a42.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Content Actions]** e selezionare **[!UICONTROL Enable for Web Rich Media]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Content Actions]** e seleziona **[!UICONTROL Enable for Web Rich Media]**.
 
    ![](assets/image2017-10-3-10-3a2-3a6.png)|
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
 Incolla il codice JavaScript nel tuo sito web nel percorso in cui desideri visualizzare il modello.
 

@@ -4,10 +4,10 @@ description: Configurazione per clienti esistenti - Documentazione di Marketo - 
 title: Configurazione per clienti esistenti
 exl-id: e365f6b5-a3ec-492e-9348-2d3226e6c7eb
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
@@ -23,7 +23,7 @@ Imposta la seguente configurazione per iniziare a utilizzare la nuova dashboard 
 
 1. Apri una nuova scheda nel browser per ottenere le credenziali di [!DNL Marketo Sales Insights] dal tuo account Marketo.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/configuration-for-existing-customers-1.png)
 

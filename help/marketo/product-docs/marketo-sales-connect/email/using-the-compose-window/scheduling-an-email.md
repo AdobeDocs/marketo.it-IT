@@ -1,17 +1,17 @@
 ---
 unique-page-id: 37356568
 description: Pianificazione di un’e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Pianificazione di un’e-mail
+title: Programmazione di un’e-mail
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Pianificazione di un’e-mail {#scheduling-an-email}
+# Programmazione di un’e-mail {#scheduling-an-email}
 
 Segui questi semplici passaggi per pianificare un’e-mail.
 

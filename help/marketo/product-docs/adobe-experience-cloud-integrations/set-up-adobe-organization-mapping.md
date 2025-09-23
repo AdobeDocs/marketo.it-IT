@@ -1,17 +1,17 @@
 ---
 unique-page-id: 42762511
 description: Configurare Adobe Organization Mapping - Documentazione Marketo - Documentazione del prodotto
-title: Impostare Adobe Organization Mapping
+title: Configurare la mappatura dell’organizzazione Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '222'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Impostare Adobe Organization Mapping {#set-up-adobe-organization-mapping}
+# Configurare la mappatura dell’organizzazione Adobe {#set-up-adobe-organization-mapping}
 
 Per eseguire la sincronizzazione con le applicazioni Adobe, come Audience Manager, il connettore Marketo di CDP B2B, [!DNL Dynamic Chat] e così via, è necessario innanzitutto immettere le credenziali dell’organizzazione Adobe IMS in Marketo Engage.
 
@@ -36,7 +36,7 @@ Per eseguire la sincronizzazione con le applicazioni Adobe, come Audience Manage
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Immetti l&#39;ID organizzazione Adobe IMS (scopri come trovare [qui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=it){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
+1. Immetti l&#39;ID organizzazione Adobe IMS (scopri come trovare [qui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 

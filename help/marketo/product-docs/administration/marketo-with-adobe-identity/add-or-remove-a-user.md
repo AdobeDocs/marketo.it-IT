@@ -3,10 +3,10 @@ description: Aggiungere o rimuovere un utente - Documentazione di Marketo - Docu
 title: Aggiungere o rimuovere un utente
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: 471a777041361cfebdc8b7139b618ff4dc03e8a8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 2%
+source-wordcount: '232'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-1.png)
 
-1. Fai clic su **Marketo Engage**.
+1. Fare clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-2.png)
 
@@ -26,11 +26,11 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-user-3.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Utenti]**.
+1. Fare clic sulla scheda **[!UICONTROL Users]**.
 
    ![](assets/add-or-remove-a-user-4.png)
 
-1. Fare clic sul pulsante **[!UICONTROL Aggiungi utente]**.
+1. Fare clic sul pulsante **[!UICONTROL Add User]**.
 
    ![](assets/add-or-remove-a-user-5.png)
 
@@ -44,17 +44,17 @@ ht-degree: 2%
 
    >[!IMPORTANT]
    >
-   >Per accedere al Marketo Engage, è necessario aggiungere un utente _1&rbrace; a un profilo di prodotto._
+   >Per accedere a Marketo Engage, è necessario aggiungere un utente _1} a un profilo di prodotto._
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-user-8.png)
 
-L’utente riceverà quindi un’e-mail per accedere al Marketo Engage.
+L’utente riceverà un’e-mail per accedere a Marketo Engage.
 
 >[!NOTE]
 >
->Quando l’utente viene aggiunto al Marketo Engage tramite Adobe Admin Console, gli viene concesso il ruolo &quot;Utente standard&quot; nell’area di lavoro predefinita dell’abbonamento. Se è necessario regolare il ruolo dell&#39;utente all&#39;interno dell&#39;area di lavoro, l&#39;operazione viene eseguita in Marketo Engage, [come descritto qui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
+>Quando l’utente viene aggiunto a Marketo Engage tramite Adobe Admin Console, gli viene concesso il ruolo &quot;Utente standard&quot; nell’area di lavoro predefinita dell’abbonamento. Se è necessario regolare il ruolo dell&#39;utente all&#39;interno dell&#39;area di lavoro, l&#39;operazione viene eseguita in Marketo Engage, [come descritto qui](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
 
 ## Rimuovi un utente {#remove-a-user}
 
@@ -66,7 +66,7 @@ L’utente riceverà quindi un’e-mail per accedere al Marketo Engage.
 
    ![](assets/add-or-remove-a-user-9.png)
 
-1. Fai clic su **Marketo Engage**.
+1. Fare clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-user-10.png)
 
@@ -74,21 +74,21 @@ L’utente riceverà quindi un’e-mail per accedere al Marketo Engage.
 
    ![](assets/add-or-remove-a-user-11.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Utenti]**.
+1. Fare clic sulla scheda **[!UICONTROL Users]**.
 
    ![](assets/add-or-remove-a-user-12.png)
 
-1. Selezionare l&#39;utente da rimuovere e fare clic sul pulsante **[!UICONTROL Rimuovi]**.
+1. Selezionare l&#39;utente da rimuovere e fare clic sul pulsante **[!UICONTROL Remove]**.
 
    ![](assets/add-or-remove-a-user-13.png)
 
-1. Fai clic su **[!UICONTROL Rimuovi utente]** per confermare.
+1. Fai clic su **[!UICONTROL Remove User]** per confermare.
 
    ![](assets/add-or-remove-a-user-14.png)
 
-L’utente riceverà quindi un’e-mail di notifica per informare che non ha più accesso al Marketo Engage.
+L’utente riceverà un’e-mail di notifica che non ha più accesso a Marketo Engage.
 
 >[!MORELIKETHIS]
 >
 >* [Utenti Adobe Admin Console](https://helpx.adobe.com/it/enterprise/using/users.html){target="_blank"}
->* [Gestisci Singolarmente Gli Utenti](https://helpx.adobe.com/it/enterprise/using/manage-users-individually.html){target="_blank"}
+>* [Gestione Singola Utenti](https://helpx.adobe.com/it/enterprise/using/manage-users-individually.html){target="_blank"}

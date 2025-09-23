@@ -4,10 +4,10 @@ description: Imposta [!DNL Google AdWords] conversioni nel modello di ricavi - D
 title: Imposta [!DNL Google AdWords] conversioni nel modello di ricavi
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '409'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Ulteriori informazioni sulla funzione di importazione della conversione offline 
 
 ## Usa conversione [!DNL AdWords] {#use-adwords-conversion}
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-2-23-18-3a9-3a34.png)
 

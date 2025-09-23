@@ -4,10 +4,10 @@ description: Eliminare un programma - Documentazione di Marketo - Documentazione
 title: Eliminare un programma
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 0%
+source-wordcount: '170'
+ht-degree: 7%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 ![](assets/image2014-9-23-15-3a40-3a57.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni programma]** e seleziona **[!UICONTROL Elimina]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Program Actions]** e seleziona **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selezionare il pulsante di opzione Elimina tutto... Rivedi gli effetti dell&#39;eliminazione del programma, quindi fai clic su **[!UICONTROL Elimina]** per confermare.
+1. Selezionare il pulsante di opzione Elimina tutto... Verificare gli effetti dell&#39;eliminazione del programma, quindi fare clic su **[!UICONTROL Delete]** per confermare.
 
 >[!TIP]
 >
->L&#39;archiviazione dei programmi consente di conservare i dati del programma, ma ne impedisce l&#39;utilizzo. Seleziona questa opzione, quindi fai clic su **[!UICONTROL Avanti]** per visualizzare ulteriori dettagli sull&#39;archiviazione.
+>L&#39;archiviazione dei programmi consente di conservare i dati del programma, ma ne impedisce l&#39;utilizzo. Selezionare questa opzione, quindi fare clic su **[!UICONTROL Next]** per visualizzare ulteriori dettagli sull&#39;archiviazione.
 
 ![](assets/2017-05-05-15-04-15.png)
 
@@ -43,7 +43,7 @@ Per risolvere il problema, potrebbe essere necessario eseguire un drill-down e a
 
    ![](assets/image2014-9-23-15-3a42-3a10.png)
 
-1. Fai clic su **[!UICONTROL Utilizzato da]** per vedere dove viene utilizzata la risorsa.
+1. Fai clic su **[!UICONTROL Used By]** per vedere dove viene utilizzata la risorsa.
 
    ![](assets/image2014-9-23-15-3a42-3a57.png)
 

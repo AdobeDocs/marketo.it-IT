@@ -4,7 +4,7 @@ description: Creazione di una campagna - Documentazione di Marketo - Documentazi
 title: Creare una campagna
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 2%
@@ -36,7 +36,7 @@ Quindi, come si imposta una campagna?
    >
    >Creare una nuova categoria facendo clic su **+** accanto a **[!UICONTROL Categories]**.
 
-1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL &#x200B; Continue]**.
+1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL  Continue]**.
 
    ![](assets/three-1.png)
 

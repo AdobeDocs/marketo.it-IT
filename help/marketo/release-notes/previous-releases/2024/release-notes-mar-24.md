@@ -3,24 +3,24 @@ description: Note sulla versione - Marzo 2024 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 3%
+ht-degree: 30%
 
 ---
 
-# Note sulla versione: marzo 2024 {#release-notes-mar-24}
+# Note sulla versione - Marzo 2024 {#release-notes-mar-24}
 
-Qui sotto troverai tutte le funzioni incluse nella versione di marzo 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Qui sotto troverai tutte le funzioni incluse nella versione di marzo 2024. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **8 marzo 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 8 marzo 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Logica di flusso conversazionale avanzata</strong>: aggiungere ulteriori campi per la valutazione in un'unica scelta per il follow-up del flusso conversazionale.</td>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni del flusso conversazionale per Marketo Engage Forms</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni del flusso conversazionale per moduli Marketo Engage</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -43,7 +43,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
     <tr>
    <td><strong>Riordina logica di flusso conversazionale</strong>: in Marketo Engage Forms è ora possibile riordinare le scelte di flusso conversazionale, invece di dover eliminare e aggiungere di nuovo.</td>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni del flusso conversazionale per Marketo Engage Forms</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni del flusso conversazionale per moduli Marketo Engage</a></td>
    </tr>
   <tr>
    <td> </td>

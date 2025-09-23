@@ -4,14 +4,14 @@ description: Note sulla versione - Maggio 2015 - Documenti Marketo - Documentazi
 title: Note sulla versione - Maggio 2015
 exl-id: 29f42b17-58e3-4e45-a871-79d91a47fb9f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Note sulla versione: maggio 2015 {#release-notes-may}
+# Note sulla versione - Maggio 2015 {#release-notes-may}
 
 Le seguenti funzioni sono incluse nella versione di maggio 2015. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
@@ -23,9 +23,9 @@ Stiamo rilasciando una nuova modalità di modifica della pagina di destinazione 
 
 ![](assets/image2015-5-15-13-3a33-3a11.png)
 
-## Interrompi programma e-mail
+## Annullare il programma e-mail
 
-[Interrompi programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
+[Annullare il programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/abort-email-program.md)
 
 Hai premuto Invia prima che un programma e-mail fosse pronto per essere inviato? Tirare i freni con il nuovo pulsante del programma e-mail di interruzione. In questo modo i programmi e-mail in-flight si interromperanno immediatamente.
 

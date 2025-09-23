@@ -1,16 +1,16 @@
 ---
 description: Modello per pagina di destinazione rapida - Documentazione di Marketo - Documentazione del prodotto
-title: Modello per pagina di destinazione rapida
+title: Modello di pagina di destinazione per avvio rapido
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Modello per pagina di destinazione rapida {#quick-start-landing-page-template}
+# Modello di pagina di destinazione per avvio rapido {#quick-start-landing-page-template}
 
 Alcuni dei programmi iniziali nella Libreria di riferimento di Marketo Engage contengono un modello di pagina di destinazione semplice, facile da usare e personalizzabile che consente la creazione rapida di pagine di destinazione in una serie di casi di utilizzo di marketing.
 

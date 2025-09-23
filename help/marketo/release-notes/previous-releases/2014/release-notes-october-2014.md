@@ -4,14 +4,14 @@ description: Note sulla versione -Ottobre 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Ottobre 2014
 exl-id: 698b4efd-ee14-459e-83a9-d06652099040
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: ottobre 2014 {#release-notes-october}
+# Note sulla versione - Ottobre 2014 {#release-notes-october}
 
 Verifica la disponibilità delle funzioni nella tua edizione di Marketo. La documentazione verrà fornita al momento del rilascio.
 
@@ -30,7 +30,7 @@ Utilizza l’API per richiamare nuove attività o modifiche ai lead:
 * Ottieni tipi di attività
 * Ottieni token di paging
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Invia e-mail Marketo per [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -70,4 +70,4 @@ Utilizza una nuova chiamata che tiene traccia della cronologia delle visite prec
 * Prodotti interessati a
 * Quali campagne RTP hanno visto
 
-Visita [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.
+Visita [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7516607
 description: Revisione delle competenze principali - Documentazione di Marketo - Documentazione del prodotto
-title: Revisione delle abilità principali
+title: Rivedere le competenze principali
 exl-id: 37dfb6e7-b850-45fe-bbf4-15eb58a7bc1d
 feature: Getting Started
-source-git-commit: 092b66fe4170d571d373291f84971e2beda6d7d7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Revisione delle abilità principali {#reviewing-core-skills}
+# Rivedere le competenze principali {#reviewing-core-skills}
 
 Devi colmare alcune lacune nel tuo know-how di automazione marketing?
 

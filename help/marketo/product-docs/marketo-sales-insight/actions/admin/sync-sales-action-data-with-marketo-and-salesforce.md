@@ -2,10 +2,10 @@
 description: Sincronizzare i dati relativi alle azioni di vendita con Marketo e Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Sincronizzare i dati relativi alle azioni di vendita con Marketo e Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1068'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

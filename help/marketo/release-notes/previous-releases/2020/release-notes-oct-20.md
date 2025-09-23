@@ -4,14 +4,14 @@ description: Note sulla versione - 20 ottobre - Documentazione di Marketo - Docu
 title: Note sulla versione - Ottobre 20
 exl-id: da6a3de5-5ef0-4ce3-8ee1-6ca3dd482fdc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '936'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: 20 ottobre {#release-notes-oct}
+# Note sulla versione - Ottobre 2020 {#release-notes-oct}
 
 Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -21,13 +21,13 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 **_Versioni trimestrali_** Le seguenti funzionalità verranno rilasciate il **16 ottobre 2020**.
 
-## Gestione account di destinazione {#target-account-management}
+## Gestione account di Target {#target-account-management}
 
 ![(stella)](assets/yellow-star.png)
 
 * **Elenco avanzato account (Beta)**: sovrascrivi la tua strategia ABM con la nuova funzionalità Elenco avanzato account. Identifica dinamicamente gli account con gli attributi di account e persona desiderati per eseguire campagne cross-channel e inviare avvisi tempestivi alle vendite per chiudere le offerte più rapidamente. Nota: questo è disponibile solo per i clienti di Target Account Management che sono stati inseriti nell&#39;esperienza utente di [nuova generazione](https://nation.marketo.com/t5/Employee-Blogs/The-Next-Generation-Marketo-Engage-Experience/ba-p/304205).
 
-## E-mail marketing {#email-marketing}
+## Marketing via e-mail {#email-marketing}
 
 * **Incremento e-mail in batch** ![(stella)](assets/yellow-star.png): invia più e-mail con una velocità effettiva maggiore, fino a 5 milioni di e-mail in batch all&#39;ora. Le opzioni di recapito e-mail estese eliminano la necessità di attendere tra i batch di e-mail: invia tutte le e-mail in tempo e secondo la pianificazione.
 

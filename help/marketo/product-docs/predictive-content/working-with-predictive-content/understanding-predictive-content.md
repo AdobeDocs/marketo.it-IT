@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11384665
 description: Predictive Content - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sul contenuto predittivo
+title: Informazioni sui contenuti predittivi
 exl-id: 3a8dd077-dc21-4d17-bc85-bb32e009dd94
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '271'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Informazioni sul contenuto predittivo {#understanding-predictive-content}
+# Informazioni sui contenuti predittivi {#understanding-predictive-content}
 
 Dopo aver [approvato un titolo per contenuti predittivi](/help/marketo/product-docs/predictive-content/working-with-all-content/approve-a-title-for-predictive-content.md), lavori qui. Nella pagina [!UICONTROL Predictive Content] vengono visualizzati tutti i titoli approvati per il contenuto predittivo.
 

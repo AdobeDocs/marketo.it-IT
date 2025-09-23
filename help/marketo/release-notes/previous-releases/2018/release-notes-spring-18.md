@@ -3,14 +3,14 @@ unique-page-id: 14745959
 description: Note sulla versione - Primavera del 18 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera 2018
 exl-id: 59bab3a9-12b3-4c87-b035-a7cde63ada1e
-source-git-commit: 2b72932606a93d061eb2f57c0ff3256b94a0c20c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: Primavera del &#39;18 {#release-notes-spring}
+# Note sulla versione - Primavera 2018 {#release-notes-spring}
 
 Le seguenti funzioni sono incluse nella versione di primavera del 18. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 

@@ -3,10 +3,10 @@ description: Glossario delle icone classiche - Documentazione di Marketo - Docum
 title: Glossario icona classica
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '563'
-ht-degree: 9%
+ht-degree: 14%
 
 ---
 
@@ -210,7 +210,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-9-9-3a39-3a28.png">
     </td>
-   <td>Analisi del ciclo dei ricavi</td>
+   <td>Analisi ciclo di entrate</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-8-19-3a20-3a47.png">
@@ -220,7 +220,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Amministrazione</td>
+   <td>Amministratore</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -261,7 +261,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2014-12-23-11-3a38-3a16.png">
     </td>
-   <td>Aggiungi al programma di coinvolgimento</td>
+   <td>Aggiungere al programma di coinvolgimento</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
@@ -507,7 +507,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-5-12-3a31-3a47.png">
     </td>
-   <td>Pagina di destinazione. Azioni pagina di destinazione</td>
+   <td>Pagina di destinazione. Azioni della pagina di destinazione</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-12-10-3a55-3a52.png">
@@ -617,7 +617,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a40.png">
     </td>
-   <td>Nuova</td>
+   <td>Nuovo</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a8-3a47.png">
@@ -871,7 +871,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a33.png">
     </td>
-   <td>Nuova</td>
+   <td>Nuovo</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-14-13-3a9-3a39.png">

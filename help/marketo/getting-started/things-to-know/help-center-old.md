@@ -1,23 +1,23 @@
 ---
-description: Centro assistenza - Documentazione del Marketo Engage - Documentazione del prodotto
-title: Centro assistenza
+description: Help Center - Documentazione di Marketo Engage - Documentazione del prodotto
+title: Help Center
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 78497d45949d40486ee87bd888477ba6a85d76ba
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 5%
+ht-degree: 84%
 
 ---
 
-# Centro assistenza {#help-center}
+# Help Center {#help-center}
 
-L&#39;Help Center di Adobe Marketo Engage funge da sede centralizzata per l&#39;assistenza. Oltre a effettuare il collegamento a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [informazioni sulla versione](/help/marketo/release-notes/current.md){target="_blank"}, [Community delle nazioni di marketing](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate in base al livello di esperienza.
+Help Center di Adobe Marketo Engage funge da sede centralizzata per ricevere assistenza. Oltre a effettuare il collegamento a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [informazioni sulla versione](/help/marketo/release-notes/current.md){target="_blank"}, la [community di Marketing Nation](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate per livello di esperienza.
 
 ## Come accedere {#how-to-access}
 
-Dopo aver effettuato l&#39;accesso al Marketo Engage, fare clic sull&#39;icona Aiuto.
+Dopo aver effettuato l’accesso a Marketo Engage, fai clic sull’icona Aiuto.
 
 ![](assets/help-center-1.png)
 
@@ -31,25 +31,25 @@ Le guide fungono da procedure dettagliate rapide per le funzioni più comuni.
 
    ![](assets/help-center-3.png)
 
-1. Fai clic su **Inizia**.
+1. Fai clic su **Introduzione**.
 
    ![](assets/help-center-4.png)
 
-1. Fai clic su **Avanti** per continuare.
+1. Seleziona **Avanti** per continuare.
 
    ![](assets/help-center-5.png)
 
-1. Fare clic su **Fine** per uscire dalla procedura dettagliata.
+1. Fai clic su **Fine** per uscire dalla procedura dettagliata.
 
    ![](assets/help-center-6.png)
 
    >[!TIP]
    >
-   >Uscire dalla guida in qualsiasi momento facendo clic su **Ignora**.
+   >Esci dalla guida in qualsiasi momento facendo clic su **Ignora**.
 
 ### Novità {#whats-new}
 
-La scheda Novità contiene tutti i dettagli dell’ultima versione del Marketo Engage.
+La scheda Novità contiene tutti i dettagli dell’ultima versione di Marketo Engage.
 
 ![](assets/help-center-7.png)
 
@@ -59,6 +59,6 @@ La scheda Novità contiene tutti i dettagli dell’ultima versione del Marketo E
 
 ### Risorse {#resources}
 
-La scheda Risorse consente di accedere in modo rapido e diretto a vari modi per ottenere ulteriore assistenza sull’istanza di Marketo Engage.
+La scheda Risorse consente di accedere in modo rapido e diretto a vari modi per ottenere ulteriore guida all’istanza di Marketo Engage.
 
 ![](assets/help-center-8.png)

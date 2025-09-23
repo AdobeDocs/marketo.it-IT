@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746176
 description: Pagina di destinazione collegamento per annullare l’abbonamento - Documentazione di Marketo - Documentazione del prodotto
-title: Pagina di destinazione collegamento per annullare l’iscrizione
+title: Pagina di destinazione del collegamento per annullare l’iscrizione
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Pagina di destinazione collegamento per annullare l’iscrizione {#unsubscribe-link-landing-page}
+# Pagina di destinazione del collegamento per annullare l’iscrizione {#unsubscribe-link-landing-page}
 
 Quando una persona fa clic sul collegamento per annullare l’abbonamento, viene indirizzata a una pagina di destinazione per annullare l’abbonamento, in cui può selezionare l’utente dal quale desidera annullare l’abbonamento e il motivo per cui farlo.
 

@@ -4,14 +4,14 @@ description: Note sulla versione -Marzo 2014 - Documentazione Marketo - Document
 title: Note sulla versione - Marzo 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '400'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: marzo 2014 {#release-notes-march}
+# Note sulla versione - Marzo 2014 {#release-notes-march}
 
 Le seguenti funzioni sono incluse nella versione di marzo 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per i collegamenti agli articoli della knowledge base per ogni funzione.
 

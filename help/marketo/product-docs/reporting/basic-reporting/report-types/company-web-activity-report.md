@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360005
 description: Rapporto sull’attività web dell’azienda - Documenti Marketo - Documentazione del prodotto
-title: Report attività Web società
+title: Rapporto su attività web della società
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '248'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Report attività Web società {#company-web-activity-report}
+# Rapporto su attività web della società {#company-web-activity-report}
 
 Scopri quali aziende visitano il tuo sito web. Puoi scegliere di visualizzare i visitatori noti o anonimi, ma non entrambi nello stesso rapporto.
 
@@ -33,7 +33,7 @@ Crea un [report attività pagina Web](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_&#x200B;e scegli **[!UICONTROL Sort Descending]**.
+   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_e scegli **[!UICONTROL Sort Descending]**.
 
    [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report Attività Web della società includono:
 

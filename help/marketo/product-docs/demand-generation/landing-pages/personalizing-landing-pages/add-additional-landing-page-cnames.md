@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359798
 description: Aggiungere ulteriori CNAME per la pagina di destinazione - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungi altri CNAME per pagina di destinazione
+title: Aggiungere altri CNAME alla pagina di destinazione
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Aggiungi altri CNAME per pagina di destinazione {#add-additional-landing-page-cnames}
+# Aggiungere altri CNAME alla pagina di destinazione {#add-additional-landing-page-cnames}
 
 Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL diversi di puntare alle pagine di destinazione di Marketo. Segui i passaggi seguenti per gestire più domini.
 

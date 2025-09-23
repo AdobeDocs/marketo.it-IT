@@ -4,10 +4,10 @@ description: Creare un token di script e-mail - Documentazione di Marketo - Docu
 title: Creare un token di script e-mail
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -49,7 +49,7 @@ Per gli sviluppatori avanzati, puoi utilizzare [gli script Velocity](https://vel
 
 1. Scrivi il tuo script in Velocity. Di seguito sono riportate alcune risorse utili:
 
-   * [Documentazione Scripting E-Mail Per Sviluppatori Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)
+   * [Documentazione Scripting E-Mail Per Sviluppatori Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting)
    * [Guida utente Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
    * [Guida di riferimento Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Strumenti Velocity Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)

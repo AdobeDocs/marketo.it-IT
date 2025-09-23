@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095636
 description: Abilitare No-Draft for Snippets - Documentazione di Marketo - Documentazione del prodotto
-title: Abilita bozza senza testo per snippet
+title: Abilitare Nessuna bozza per snippet
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
-# Abilita bozza senza testo per snippet {#enable-no-draft-for-snippets}
+# Abilitare Nessuna bozza per snippet {#enable-no-draft-for-snippets}
 
 La funzione Nessuna bozza per snippet consente di distribuire le modifiche apportate ai frammenti senza dover creare le risorse approvate. Tutte le risorse che utilizzano lo snippet modificato ricevono gli aggiornamenti e mantengono i rispettivi stati:
 
@@ -25,15 +25,15 @@ No-Draft viene abilitato automaticamente per tutti i ruoli di amministratore. Un
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/enable-no-draft-for-snippets-1.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/enable-no-draft-for-snippets-2.png)
 
-1. Vai alla scheda **[!UICONTROL Ruoli]**, seleziona un ruolo, quindi fai clic su **[!UICONTROL Modifica ruolo]**.
+1. Vai alla scheda **[!UICONTROL Roles]**, seleziona un ruolo, quindi fai clic su **[!UICONTROL Edit Role]**.
 
    ![](assets/enable-no-draft-for-snippets-3.png)
 
@@ -41,17 +41,17 @@ No-Draft viene abilitato automaticamente per tutti i ruoli di amministratore. Un
 
    ![](assets/enable-no-draft-for-snippets-4.png)
 
-1. Espandere l&#39;opzione **[!UICONTROL Frammento di accesso]**.
+1. Espandere l&#39;opzione **[!UICONTROL Access Snippet]**.
 
    ![](assets/enable-no-draft-for-snippets-5.png)
 
-1. Espandi l&#39;autorizzazione **[!UICONTROL Approve Snippet]** e seleziona la casella **[!UICONTROL No-Draft]**. Quindi fai clic su **[!UICONTROL Salva]**.
+1. Espandere l&#39;autorizzazione **[!UICONTROL Approve Snippet]** e selezionare la casella **[!UICONTROL No-Draft]**. Quindi fai clic su **[!UICONTROL Save]**.
 
    ![](assets/enable-no-draft-for-snippets-6.png)
 
 >[!TIP]
 >
->Per disattivare No-Draft, eseguire i passaggi da 1 a 4 precedenti, deselezionare la casella di controllo No-Draft e fare clic su **[!UICONTROL Salva]**.
+>Per disabilitare No-Draft, eseguire i passaggi 1-4 precedenti, deselezionare la casella di controllo No-Draft e fare clic su **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >

@@ -3,10 +3,10 @@ unique-page-id: 1147318
 description: Glossario delle scelte rapide da tastiera - Documentazione di Marketo - Documentazione del prodotto
 title: Glossario delle scelte rapide da tastiera
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '114'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
@@ -18,7 +18,7 @@ Sei una persona che lavora con le scelte rapide da tastiera? Ti copriamo!
 
 | Scelta rapida da tastiera | Area |
 |---|---|
-| Alt/Opt + A | Analytics |
+| Alt/Opt + A | Analisi |
 | Alt/Opt + C | Calendario |
 | Alt/Opt + D | Design Studio |
 | Alt/Opt + F | Ricerca globale |

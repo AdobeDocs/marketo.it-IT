@@ -4,10 +4,10 @@ description: Wait - Marketo Docs - Documentazione del prodotto
 title: Attendere
 exl-id: 58f43c4b-6f20-4740-9a25-e09c7ea31dcf
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '188'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -29,6 +29,6 @@ Osserva come si può digitare in un linguaggio naturale come &quot;4 ore&quot;. 
 
 Esistono tre modi principali per utilizzare un passaggio del flusso di attesa:
 
-1. [Utilizzare una durata in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
-1. [Utilizzare una data specifica in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
-1. [Utilizzare un token di data in un passaggio del flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)
+1. [Utilizzare una durata in un passaggio di flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-duration-in-a-wait-flow-step.md)
+1. [Utilizzare una data specifica in un passaggio di flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-specific-date-in-a-wait-flow-step.md)
+1. [Utilizzare un token data in un passaggio di flusso di attesa](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/use-a-date-token-in-a-wait-flow-step.md)

@@ -3,9 +3,9 @@ description: Filtri predittivi - Documentazione Marketo - Documentazione del pro
 title: Filtri predittivi
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 9c9046d6ac889bef4ec8ab7add82fda8e72d73b4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '408'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Questo filtra il pubblico in base alla probabilità che annulli l’abbonamento 
 
 Questi due filtri consentono di espandere il pubblico corrente eseguendo il targeting di lead aggiuntivi simili ai membri di un altro programma o elenco avanzato. I filtri lookalike prendono in considerazione oltre 50 fattori, tra cui attributi di lead, attività e-mail, attività web e coinvolgimento.
 
-Fai clic su **[!UICONTROL Aggiungi vincolo]** per scegliere i criteri di successo per i membri dei programmi selezionati.
+Fare clic su **[!UICONTROL Add Constraint]** per scegliere i criteri di successo per i membri dei programmi selezionati.
 
 Fai clic sull&#39;icona **+** per aggiungere facilmente più programmi/elenchi avanzati a un filtro.
 
@@ -58,6 +58,6 @@ Fai clic sull&#39;icona **+** per aggiungere facilmente più programmi/elenchi a
 * I filtri predittivi non sono disponibili per le campagne Trigger.
 * La clonazione o lo spostamento di campagne che contengono filtri predittivi non è supportato.
 * In un elenco avanzato è possibile utilizzare fino a 5 filtri predittivi.
-* Se il Marketo Engage rileva un errore nella valutazione dei filtri predittivi, l’esecuzione della campagna si interrompe automaticamente e riceverai una notifica nel centro notifiche di Marketo.
+* Se Marketo Engage rileva un errore nella valutazione dei filtri predittivi, l’esecuzione della campagna si interrompe automaticamente e ricevi una notifica nel centro notifiche di Marketo.
 * I filtri predittivi hanno attualmente un limite di input di 1 milione di persone qualificate.
 * È possibile avere fino a 50 programmi attivi con filtri predittivi.

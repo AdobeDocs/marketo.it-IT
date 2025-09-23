@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360389
 description: Rendere disponibile un programma senza costo di periodo in Revenue Explorer e Analyzer - Documentazione di Marketo - Documentazione del prodotto
-title: Rendere disponibile un programma senza costo periodo in Gestione ricavi e analizzatori
+title: Rendere disponibile un programma senza costo periodo in esploratore ricavi e analizzatori
 exl-id: 45a24b9f-d92f-4f48-a7d1-0be14cd128b1
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Rendere disponibile un programma senza costo periodo in Gestione ricavi e analizzatori {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
+# Rendere disponibile un programma senza costo periodo in esploratore ricavi e analizzatori {#make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers}
 
 I costi del periodo del programma consentono di definire &quot;Quanto denaro&quot; e &quot;Quando&quot; per un programma. Questo viene visualizzato in Revenue Cycle Explorer e in [analizzatori](/help/marketo/product-docs/reporting/revenue-cycle-analytics/opportunity-influence-analyzer/tell-the-marketing-story-with-an-opportunity-influence-analyzer.md).
 

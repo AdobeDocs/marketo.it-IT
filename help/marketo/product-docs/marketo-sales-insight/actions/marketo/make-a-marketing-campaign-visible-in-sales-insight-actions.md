@@ -1,20 +1,20 @@
 ---
-description: Rendere visibile una campagna di marketing nelle azioni di approfondimento sulle vendite - Documenti Marketo - Documentazione del prodotto
-title: Rendere visibile una campagna di marketing nelle azioni di approfondimento sulle vendite
+description: Rendere visibile una campagna di marketing nelle azioni di Insight per le vendite - Documenti Marketo - Documentazione del prodotto
+title: Rendere visibile una campagna di marketing nelle azioni di Sales Insight
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: c6132bf5b393df38700ad9dd6f0c6414860e8bb6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
 
 ---
 
-# Rendere visibile una campagna di marketing nelle azioni di approfondimento sulle vendite {#make-a-marketing-campaign-visible-in-sales-insight-actions}
+# Rendere visibile una campagna di marketing nelle azioni di Sales Insight {#make-a-marketing-campaign-visible-in-sales-insight-actions}
 
 Le campagne possono essere condivise solo se sono rese visibili.
 
-Con le azioni di approfondimento sulle vendite, gli utenti avranno accesso a una nuova app di vendita denominata toutapp.com. Questa app offre loro una nuova serie di funzionalità di azione, ma eredita anche la funzionalità _Aggiungi a campagna di marketing_ disponibile nella versione di base di Sales Insights. È importante tenerlo presente, perché a seconda della posizione in cui desideri che gli utenti accedano alla funzione Aggiungi a campagna di marketing (toutapp.com o l’esperienza del pacchetto MSI SFDC), le campagne Marketo dovranno essere configurate in modo diverso. Per ulteriori informazioni, consulta la nota nel passaggio 4.
+Con Sales Insight Actions, gli utenti avranno accesso a una nuova app di vendita denominata toutapp.com. Questa app offre loro una nuova serie di funzionalità di azione, ma eredita anche la funzionalità _Aggiungi a campagna di marketing_ disponibile nella versione di base di Sales Insights. È importante tenerlo presente, perché a seconda della posizione in cui desideri che gli utenti accedano alla funzione Aggiungi a campagna di marketing (toutapp.com o l’esperienza del pacchetto MSI SFDC), le campagne Marketo dovranno essere configurate in modo diverso. Per ulteriori informazioni, consulta la nota nel passaggio 4.
 
 1. Seleziona (o crea) la campagna da condividere.
 
@@ -34,7 +34,7 @@ Con le azioni di approfondimento sulle vendite, gli utenti avranno accesso a una
 
    >[!NOTE]
    >
-   >Se desideri mostrare la campagna di marketing agli utenti che utilizzano _Aggiungi alla campagna di marketing_ dall&#39;app Web toutapp.com (anche se l&#39;app Web è incorporata nel sistema CRM tramite l&#39;oggetto Marketo Sales Outbox), imposta l&#39;origine richiesta di Campaign su &quot;Web Service API&quot;. Se desideri che la campagna di marketing venga visualizzata quando un utente utilizza le azioni nel pannello MSI di Salesforce sul lead, il contatto, la pagina dell’account o i pulsanti di azione collettiva nelle visualizzazioni elenco lead e contatti, aggiorna l’origine richiesta della campagna in &quot;Informazioni sulle vendite&quot;
+   >Se desideri mostrare la campagna di marketing agli utenti che utilizzano _Aggiungi alla campagna di marketing_ dall&#39;app Web toutapp.com (anche se l&#39;app Web è incorporata nel sistema CRM tramite l&#39;oggetto Marketo Sales Outbox), imposta l&#39;origine richiesta di Campaign su &quot;Web Service API&quot;. Se desideri che la campagna di marketing venga visualizzata quando un utente utilizza le azioni nel pannello MSI di Salesforce sul lead, il contatto, la pagina dell’account o i pulsanti di azione collettiva nelle visualizzazioni elenco lead e contatti, aggiorna l’origine richiesta della campagna in &quot;Sales Insight&quot;
 
 1. Fare clic sulla scheda **Flusso**.
 

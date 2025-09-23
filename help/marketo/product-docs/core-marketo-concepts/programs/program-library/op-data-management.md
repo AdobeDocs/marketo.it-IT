@@ -1,16 +1,16 @@
 ---
 description: Gestione dei dati operativi - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione dei dati operativi
+title: OP-Gestione dati
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '319'
-ht-degree: 14%
+ht-degree: 15%
 
 ---
 
-# Gestione dei dati operativi {#op-data-management}
+# OP-Gestione dati {#op-data-management}
 
 Questo è un esempio di semplici flussi di lavoro basati sulle best practice per la gestione dei dati operativi che utilizzano un programma predefinito, per aiutarti a gestire la coerenza dei dati per i record all’interno del database Marketo Engage.
 
@@ -162,7 +162,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr>
    <td>Cartella</td>
    <td> </td>
-   <td>INSERISCO NELL'ELENCO BLOCCATI DI</td>
+   <td>Elenco Bloccati</td>
   </tr>
  </tbody>
 </table>

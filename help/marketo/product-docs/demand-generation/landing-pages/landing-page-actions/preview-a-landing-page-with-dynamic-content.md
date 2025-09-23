@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359734
 description: Anteprima di una pagina di destinazione con contenuti dinamici - Documenti Marketo - Documentazione del prodotto
-title: Anteprima di una pagina di destinazione con contenuto dinamico
+title: Visualizzaare in anteprima una pagina di destinazione con contenuto dinamico
 exl-id: 638db767-bb20-4eef-8edd-8a7be4178d28
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Anteprima di una pagina di destinazione con contenuto dinamico {#preview-a-landing-page-with-dynamic-content}
+# Visualizzaare in anteprima una pagina di destinazione con contenuto dinamico {#preview-a-landing-page-with-dynamic-content}
 
 Visualizza l’anteprima della pagina di destinazione dopo l’aggiunta di contenuto dinamico, per assicurarti che tutto si presenti nel modo corretto.
 

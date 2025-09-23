@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720125
 description: Integrare RTP con Google Universal Analytics - Documentazione Marketo - Documentazione del prodotto
-title: Integrare RTP con Google Universal Analytics
+title: Integrare RTP con Universal Analytics di Google
 exl-id: e8fc8730-c91d-44ad-8843-aa5b38f1ebd1
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '368'
-ht-degree: 3%
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,6 @@ Questo post spiega come configurare e integrare la piattaforma [!DNL Marketo Rea
    1. Seleziona **[!UICONTROL Account].**
    1. Seleziona **[!UICONTROL Property].**
    1. Selezionare **[!UICONTROL Custom Definitions]** e **[!UICONTROL Custom Dimensions]**.
-
       ![](assets/image2014-11-29-11-3a2-3a32.png)
 
 1. Aggiungi una nuova dimensione personalizzata. Fai clic su **[!UICONTROL +New Custom Dimension]**.

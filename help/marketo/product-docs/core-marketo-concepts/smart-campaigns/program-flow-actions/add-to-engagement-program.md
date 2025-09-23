@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147011
 description: Aggiungi al programma di coinvolgimento - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungi al programma di coinvolgimento
+title: Aggiungere al programma di coinvolgimento
 exl-id: 67b8ddaa-2f00-4702-a10d-0b7c896877a1
 feature: Smart Campaigns
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '67'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Aggiungi al programma di coinvolgimento {#add-to-engagement-program}
+# Aggiungere al programma di coinvolgimento {#add-to-engagement-program}
 
 La Smart Campaign che crei con questo passaggio di flusso sarà il gateway per il programma di coinvolgimento.
 

@@ -1,16 +1,16 @@
 ---
 description: Inviare Il Messaggio In-App - Documentazione Di Marketo - Documentazione Del Prodotto
-title: Inviare il messaggio in-app
+title: Inviare il messaggio in-app.
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Inviare il messaggio in-app {#send-your-in-app-message}
+# Inviare il messaggio in-app. {#send-your-in-app-message}
 
 Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riportati i passaggi:
 

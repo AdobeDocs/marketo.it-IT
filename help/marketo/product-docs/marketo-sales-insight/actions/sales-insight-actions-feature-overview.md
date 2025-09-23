@@ -1,16 +1,16 @@
 ---
 description: Panoramica delle funzioni Azioni di vendita di Insight - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica sulla funzione Azioni di Insight per le vendite
+title: Panoramica sulla funzione delle azioni di Sales Insight
 exl-id: 059de248-d1a2-42cd-a7ec-f10b15d0b526
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1305'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Panoramica sulla funzione Azioni di Insight per le vendite {#msi-actions-feature-overview}
+# Panoramica sulla funzione delle azioni di Sales Insight {#msi-actions-feature-overview}
 
 Accelera le attività di ricerca di potenziali clienti con strumenti di marketing e coinvolgimento riuniti in un unico flusso di lavoro utilizzando le azioni di vendita Insight.
 
@@ -18,7 +18,7 @@ Accelera le attività di ricerca di potenziali clienti con strumenti di marketin
 >
 >Marketo Sales Insight Actions è un&#39;applicazione basata su Web che si integra esclusivamente con Salesforce CRM tramite il [pacchetto Marketo Sales Insight](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange.md){target="_blank"}. A volte viene chiamato &quot;Vendite Marketo&quot; o semplicemente &quot;Azioni&quot;.
 
-Per una panoramica video delle azioni di Sales Insight, [fai clic qui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html?lang=it){target="_blank"}.
+Per una panoramica video delle azioni di Sales Insight, [fai clic qui](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/sales-insight-actions/overview.html){target="_blank"}.
 
 ![](assets/sales-insight-actions-feature-overview-1.png)
 
@@ -64,7 +64,7 @@ I seguenti dati sono disponibili nelle schede all’interno del pannello MSI:
    * Prossime campagne di vendita: quando un lead fa parte di una campagna in corso, queste informazioni saranno disponibili nella scheda Prossime campagne di vendita
    * Attività future: quando è prevista un’attività relativa a un lead, queste informazioni saranno disponibili nella scheda Attività successive
 
-* Scheda E-mail
+* Scheda e-mail
    * Tutte le e-mail di vendita inviate verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
    * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente, Data
    * Include la scheda di presentazione con dettagli aggiuntivi come Mittente, Modello, Campagna di vendita e Anteprima e-mail
@@ -101,7 +101,7 @@ Nelle schede sono disponibili i seguenti dati:
    * Prossime campagne di vendita: quando un contatto dell’account/opportunità fa parte di una campagna in corso, queste informazioni saranno disponibili nella scheda Prossime campagne di vendita
    * Attività future: quando un’attività futura riguarda un contatto dell’account/opportunità, queste informazioni saranno disponibili nella scheda Attività successive
 
-* Scheda E-mail
+* Scheda e-mail
    * Tutte le e-mail di vendita inviate ai contatti dall’account/opportunità verranno registrate qui. Le attività verranno anche registrate nel record persona di Marketo
    * Le colonne includono Oggetto, Apri, Clic, Risposta (disponibile solo per e-mail di vendita con canale di consegna impostato), Mittente e Data
    * Include la scheda di presentazione con dettagli aggiuntivi come Mittente, Modello, Campagna di vendita e Anteprima e-mail

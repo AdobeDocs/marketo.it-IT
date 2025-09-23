@@ -4,14 +4,14 @@ description: Sincronizzazione SFDC - Sincronizzazione lead/proprietario account 
 title: Sincronizzazione SFDC - Sincronizzazione lead/proprietario account
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Sincronizzazione SFDC: sincronizzazione lead/proprietario account {#sfdc-sync-lead-account-owner-sync}
+# Sincronizzazione SFDC: sincronizzazione proprietario account/lead {#sfdc-sync-lead-account-owner-sync}
 
 Tecnicamente, la tabella &quot;utente&quot; verrà sincronizzata in [!DNL Salesforce], ma verrà indicata come campo Proprietario lead/account.
 

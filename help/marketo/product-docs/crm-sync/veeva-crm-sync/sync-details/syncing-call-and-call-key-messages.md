@@ -1,16 +1,16 @@
 ---
 description: Sincronizzazione dei messaggi chiave di chiamata e chiamata - Documenti Marketo - Documentazione del prodotto
-title: Sincronizzazione dei messaggi chiave di chiamata e chiamata
+title: Sincronizzare i messaggi di chiave chiamata e chiamata
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '477'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Sincronizzazione dei messaggi chiave di chiamata e chiamata {#syncing-call-and-call-key-messages}
+# Sincronizzare i messaggi di chiave chiamata e chiamata {#syncing-call-and-call-key-messages}
 
 Gli oggetti messaggio chiave di chiamata e chiamata in [!DNL Veeva] CRM sono sincronizzati per impostazione predefinita in Marketo Engage. Marketo sincronizza i dati che risalgono a un massimo di 6 mesi fa, in base alla data di creazione della chiamata.
 
@@ -87,10 +87,10 @@ I seguenti campi nei messaggi Chiave chiamata e Chiave chiamata sono sincronizza
     </tr>
     <tr>
       <td>Invito</td>
-      <td>Date</td>
+      <td>Data</td>
       <td>Data della chiamata in cui è stata salvata o inviata per la prima volta. Questo campo viene impostato tramite un trigger alla data corrente se non viene fornito né il campo data né il campo data e ora.</td>
       <td>Data_chiamata__c</td>
-      <td>Date</td>
+      <td>Data</td>
     </tr>
     <tr>
       <td>Invito</td>

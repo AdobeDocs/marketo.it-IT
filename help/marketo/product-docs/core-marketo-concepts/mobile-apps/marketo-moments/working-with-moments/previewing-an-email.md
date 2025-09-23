@@ -4,10 +4,10 @@ description: Anteprima di un’e-mail - Documenti Marketo - Documentazione del p
 title: Anteprima di un’e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 0%
+source-wordcount: '124'
+ht-degree: 6%
 
 ---
 
@@ -17,13 +17,13 @@ Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 1. In una scheda e-mail, tocca il menu Azioni con tre punti.
 
    ![](assets/image2015-9-25-11-3a30-3a52.png)
 
-1. Tocca **[!UICONTROL Anteprima e-mail]**.
+1. Toccare **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

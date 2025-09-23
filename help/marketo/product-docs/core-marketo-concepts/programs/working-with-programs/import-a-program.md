@@ -4,16 +4,16 @@ description: Importare un programma - Documentazione di Marketo - Documentazione
 title: Importare un programma
 exl-id: 15e23e38-a24b-45b3-89a9-ffec85649f4a
 feature: Programs
-source-git-commit: 0adb780ea1622d12b8daafc502fd6a9151757ad3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 0%
+source-wordcount: '536'
+ht-degree: 2%
 
 ---
 
 # Importare un programma {#import-a-program}
 
-Un programma può essere importato da un abbonamento di Marketo Engage a un altro. Ad esempio, puoi creare un programma in una sandbox e quindi importarlo nel tuo abbonamento live. È inoltre possibile importare un programma predefinito dalla [Libreria programmi di Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
+Un programma può essere importato da un abbonamento Marketo Engage a un altro. Ad esempio, puoi creare un programma in una sandbox e quindi importarlo nel tuo abbonamento live. È inoltre possibile importare un programma predefinito dalla [Libreria programmi di Marketo](/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md){target="_blank"}.
 
 >[!CAUTION]
 >
@@ -21,11 +21,11 @@ Un programma può essere importato da un abbonamento di Marketo Engage a un altr
 
 ## Importazione di un programma {#importing-a-program}
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/import-a-program-1.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Importa programma]**.
+1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL Import Program]**.
 
    ![](assets/import-a-program-2.png)
 
@@ -33,21 +33,21 @@ Un programma può essere importato da un abbonamento di Marketo Engage a un altr
    >
    >* Importazione programmi è disponibile solo per gli utenti che dispongono di ruoli con l&#39;autorizzazione Importazione programmi abilitata. Ulteriori informazioni sulla gestione di [ruoli utente e autorizzazioni](/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md){target="_blank"}.
    >
-   >* Per connettere un account sandbox alla tua sottoscrizione live, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >* Per collegare un account sandbox al tuo abbonamento live, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
 
-1. Selezionare una **[!UICONTROL sottoscrizione]** di Marketo e un programma da importare. Fai clic su **[!UICONTROL Avanti]**.
+1. Selezionare un Marketo **[!UICONTROL Subscription]** e un programma da importare. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-3.png)
 
-1. Specificare una **[!UICONTROL cartella campagne]** per il programma importato. Fai clic su **[!UICONTROL Avanti]**.
+1. Specificare **[!UICONTROL Campaign Folder]** per il programma importato. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-4.png)
 
    >[!NOTE]
    >
-   >Assicurarsi che **[!UICONTROL Usa regole di conflitto predefinite]** sia selezionato. Le regole di conflitto sono necessarie quando si importano programmi in un&#39;istanza con risorse con lo stesso nome.
+   >Assicurarsi che siano selezionate **[!UICONTROL Use default conflict]** regole. Le regole di conflitto sono necessarie quando si importano programmi in un&#39;istanza con risorse con lo stesso nome.
 
-1. Scegli i dettagli sul conflitto desiderati e fai clic su **[!UICONTROL Avanti]**.
+1. Scegliere i dettagli sul conflitto desiderati e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/import-a-program-5.png)
 
@@ -55,7 +55,7 @@ Un programma può essere importato da un abbonamento di Marketo Engage a un altr
    >
    >Quando si importa un programma che utilizza i passaggi di flusso personalizzati o le regole di elenchi avanzati derivate da un servizio di passaggi di flusso in un&#39;istanza di destinazione in cui è presente più di un provider di servizi compatibile, all&#39;utente di importazione viene richiesto di assegnare i passaggi o le regole al provider di servizi corretto nell&#39;istanza di destinazione.
 
-1. Anteprima dettagli e **[!UICONTROL Importa]** il programma.
+1. Visualizza l&#39;anteprima dei dettagli e **[!UICONTROL Import]** il programma.
 
    ![](assets/import-a-program-6.png)
 

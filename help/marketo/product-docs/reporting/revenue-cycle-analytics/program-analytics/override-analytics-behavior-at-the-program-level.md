@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2360421
 description: Sostituire il comportamento di Analytics a livello di programma - Documentazione di Marketo - Documentazione del prodotto
-title: Sostituire il comportamento di Analytics a livello di programma
+title: Sostituire il comportamento di analisi a livello di programma
 exl-id: 2fd86279-99ae-494d-a6f8-2572b7dcd892
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Sostituire il comportamento di Analytics a livello di programma {#override-analytics-behavior-at-the-program-level}
+# Sostituire il comportamento di analisi a livello di programma {#override-analytics-behavior-at-the-program-level}
 
 È possibile impostare il comportamento di [analisi a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md), ma è anche possibile ignorarlo a livello di programma. Ecco come:
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-24-11-3a40-3a46.png)
 

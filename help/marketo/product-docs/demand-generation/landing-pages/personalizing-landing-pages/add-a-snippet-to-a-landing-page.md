@@ -4,10 +4,10 @@ description: Aggiungere uno snippet a una pagina di destinazione - Documentazion
 title: Aggiungere uno snippet a una pagina di destinazione
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 

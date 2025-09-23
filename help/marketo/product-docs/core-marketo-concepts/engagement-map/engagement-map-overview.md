@@ -1,15 +1,15 @@
 ---
 description: Panoramica di Engagement Map - Documenti Marketo - Documentazione del prodotto
-title: Panoramica di Engagement Map
+title: Panoramica sulla mappa di coinvolgimento
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '742'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Panoramica di Engagement Map {#engagement-map-overview}
+# Panoramica sulla mappa di coinvolgimento {#engagement-map-overview}
 
 La Mappa di coinvolgimento consente di visualizzare in modo intuitivo le campagne intelligenti. Offre piena compatibilità con le versioni precedenti di tutte le campagne Marketo Engage Smart esistenti, senza la perdita di funzioni correnti.
 

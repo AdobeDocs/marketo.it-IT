@@ -4,10 +4,10 @@ description: Creazione di un messaggio e-mail di solo testo - Documenti Marketo 
 title: Creare un messaggio e-mail di solo testo
 exl-id: ac0b43cb-4cef-4079-ad97-4ec6b92a2139
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
@@ -19,11 +19,11 @@ Se desideri inviare solo messaggi di posta elettronica, ecco come creare un mess
 >
 >Poiché le aperture vengono tracciate dal destinatario che scarica le immagini dell&#39;e-mail (che include un pixel di tracciamento invisibile), le aperture sono **non** tracciabili per le e-mail di solo testo.
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
-1. Selezionare il programma, fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Local Asset]**.
+1. Seleziona il programma, fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL New Local Asset]**.
 
    ![](assets/two-1.png)
 

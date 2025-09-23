@@ -4,10 +4,10 @@ description: Informazioni su programmi - Documentazione di Marketo - Documentazi
 title: Informazioni sui programmi
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -33,7 +33,7 @@ L&#39;**[esplosione di posta classica](/help/marketo/product-docs/email-marketin
 
 Un programma predefinito è qualsiasi cosa che non sia un programma evento, coinvolgimento o e-mail. Diventa creativo.
 
-Iniziamo!
+Cominciamo.
 
 >[!MORELIKETHIS]
 >

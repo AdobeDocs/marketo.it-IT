@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720224
 description: Modifica aree geografiche - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica aree geografiche
+title: Modificare le aree geografiche
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '55'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

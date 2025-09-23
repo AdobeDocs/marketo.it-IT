@@ -4,7 +4,7 @@ description: Aggiungere SSL alle pagine di destinazione - Documentazione di Mark
 title: Aggiungere SSL alle pagine di destinazione
 exl-id: 8271d9fe-0575-430c-97c7-407e4b78cf1d
 feature: Landing Pages
-source-git-commit: de2f73f932fd38211dba96d8697ef4bb4fd0f0da
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '793'
 ht-degree: 2%
@@ -65,7 +65,7 @@ Per abilitare SSL per il dominio predefinito, segui la procedura riportata di se
 
 Per abilitare SSL per gli alias di dominio esistenti, segui la procedura riportata di seguito.
 
-1. Dall&#39;area _[!UICONTROL Admin]_, espandere **[!UICONTROL Integration]**&#x200B;nel menu di navigazione a sinistra e selezionare **[!UICONTROL Landing Pages]**.
+1. Dall&#39;area _[!UICONTROL Admin]_, espandere **[!UICONTROL Integration]**nel menu di navigazione a sinistra e selezionare **[!UICONTROL Landing Pages]**.
 
 1. Nella pagina, seleziona la scheda **[!UICONTROL Rules]** in alto.
 
@@ -119,7 +119,7 @@ Di seguito sono riportati i messaggi di errore che potresti ricevere insieme all
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 

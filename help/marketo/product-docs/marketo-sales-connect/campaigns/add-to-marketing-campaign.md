@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14745611
 description: Aggiungi a campagna di marketing - Documenti Marketo - Documentazione del prodotto
-title: Aggiungi a campagna di marketing
+title: Aggiungere alla campagna di marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Aggiungi a campagna di marketing {#add-to-marketing-campaign}
+# Aggiungere alla campagna di marketing {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
 >

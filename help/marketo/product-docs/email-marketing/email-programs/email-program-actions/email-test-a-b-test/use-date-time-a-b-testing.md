@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359520
 description: Utilizzare il test A/B "Date/Time" (Data/Ora) - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizza test A/B "Data/ora"
+title: Utilizzare il test A/B “Data/ora”
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilizza test A/B &quot;Data/ora&quot; {#use-date-time-a-b-testing}
+# Utilizzare il test A/B “Data/ora” {#use-date-time-a-b-testing}
 
 Puoi testare facilmente le e-mail tramite test A/B. Un test è il test **[!UICONTROL Date/Time]**. Questo verifica a quale ora del giorno o della settimana è meglio inviare le e-mail. Ecco come configurarlo.
 

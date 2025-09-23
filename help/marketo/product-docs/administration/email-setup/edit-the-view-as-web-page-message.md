@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360253
 description: Modificare il messaggio "Visualizza come pagina web" - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica il messaggio "Visualizza come pagina web"
+title: Modificare il messaggio “Visualizza come pagina web”
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '155'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message}
+# Modificare il messaggio “Visualizza come pagina web” {#edit-the-view-as-web-page-message}
 
 Se devi modificare il testo &quot;[Visualizza come pagina Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;, ecco come.
 
@@ -19,9 +19,9 @@ Se devi modificare il testo &quot;[Visualizza come pagina Web](/help/marketo/pro
 >
 >**Autorizzazioni amministratore richieste**
 
-## Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message-1}
+## Modificare il messaggio “Visualizza come pagina web” {#edit-the-view-as-web-page-message-1}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
@@ -58,7 +58,7 @@ Se è necessario ripristinare il sistema predefinito &quot;[!UICONTROL View as W
 
 `<div style="text-align: center"><font face="Verdana" size="1">To view this email as a web page, <a href="%mkt_webview_url%?mkt_tok=##MKT_TOK##">click here</a></font></div>`
 
-&quot;**[!UICONTROL View as Web Page Text]**&quot;
+**[!UICONTROL View as Web Page Text]**:
 
 Per visualizzare questa e-mail come pagina Web, vai al seguente indirizzo:
 `%mkt_webview_url%?mkt_tok=##MKT_TOK##`

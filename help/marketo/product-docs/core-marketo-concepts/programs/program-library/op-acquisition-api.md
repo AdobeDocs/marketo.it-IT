@@ -1,16 +1,16 @@
 ---
 description: OP-Acquisition-API - Documentazione di Marketo - Documentazione del prodotto
-title: OP-Acquisition-API
+title: OP-Acquisizione da API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '171'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# OP-Acquisition-API {#op-acquisition-api}
+# OP-Acquisizione da API {#op-acquisition-api}
 
 Questo programma di esempio è destinato ai processi operativi per monitorare l’acquisizione di record da origini API che utilizzano un programma predefinito di Marketo Engage.
 

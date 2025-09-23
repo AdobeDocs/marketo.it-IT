@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378812
 description: Esplorare gli account - Documentazione di Marketo - Documentazione del prodotto
-title: Individua account
+title: Individuare account
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '491'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Individua account {#discover-accounts}
+# Individuare account {#discover-accounts}
 
 Utilizza l’opzione Discover per identificare potenziali account di destinazione.
 

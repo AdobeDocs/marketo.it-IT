@@ -1,14 +1,14 @@
 ---
 description: Disconnettere Salesforce Dalle Azioni Insight Di Vendita - Documenti Marketo - Documentazione Del Prodotto
-title: Disconnetti Salesforce Da Azioni Insight Di Vendita
+title: Disconnettere Salesforce dalle azioni di Sales Insight
 hide: true
 hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 

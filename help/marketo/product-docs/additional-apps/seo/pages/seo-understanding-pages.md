@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949184
 description: SEO - Informazioni sulle pagine - Documentazione di Marketo - Documentazione del prodotto
-title: SEO - Informazioni sulle pagine
+title: 'SEO: informazioni sulle pagine'
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '267'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# SEO - Informazioni sulle pagine {#seo-understanding-pages}
+# SEO: informazioni sulle pagine {#seo-understanding-pages}
 
 ## Punteggio ottimizzazione pagina/Widget attività {#page-optimization-score-to-do-widget}
 

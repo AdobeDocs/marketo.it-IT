@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720232
 description: Creazione di un nuovo elenco account - Documentazione di Marketo - Documentazione del prodotto
-title: Crea un nuovo elenco account
+title: Creare un nuovo elenco di account
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '392'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Crea un nuovo elenco account {#create-a-new-account-list}
+# Creare un nuovo elenco di account {#create-a-new-account-list}
 
 Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targeting di questi account chiave con campagne personalizzate.
 
@@ -19,7 +19,7 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 >
 >Questo articolo si applica solo ai clienti ABM Web legacy. Se hai acquisito Web ABM dopo settembre 2016, segui i passaggi descritti in [questo articolo](https://docs.marketo.com/display/DOCS/Account+Lists#AccountLists-CreateaNewAccountList).
 
-## Crea un nuovo elenco account {#create-a-new-account-list-1}
+## Creare un nuovo elenco di account {#create-a-new-account-list-1}
 
 1. Vai a **[!UICONTROL Account Lists]**.
 

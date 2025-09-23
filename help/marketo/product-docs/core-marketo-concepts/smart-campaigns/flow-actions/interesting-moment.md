@@ -1,27 +1,27 @@
 ---
 unique-page-id: 1146956
 description: Momento di interesse - Documentazione di Marketo - Documentazione del prodotto
-title: Momento di interesse
+title: Momento interessante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 4%
 
 ---
 
-# Momento di interesse {#interesting-moment}
+# Momento interessante {#interesting-moment}
 
-Se disponi di Marketo Sales Insight, puoi utilizzare il passaggio di flusso **Momento di interesse** per dare visibilità al team di vendita sulle cose interessanti che i tuoi dipendenti stanno facendo.
+Se hai Marketo Sales Insight, puoi utilizzare il passaggio di flusso **Momento di interesse** per dare visibilità al team di vendita alle cose interessanti che i tuoi dipendenti stanno facendo.
 
 ![](assets/interesting-moment-1.png)
 
-1. Seleziona il momento di interesse **[!UICONTROL tipo]** che desideri utilizzare.
+1. Selezionare il momento di interesse **[!UICONTROL type]** che si desidera utilizzare.
 
    ![](assets/interesting-moment-2.png)
 
-1. Crea una **[!UICONTROL descrizione]** che spieghi il momento interessante al tuo team vendite.
+1. Crea un **[!UICONTROL description]** che spieghi il momento interessante al tuo team vendite.
 
    ![](assets/interesting-moment-3.png)
 

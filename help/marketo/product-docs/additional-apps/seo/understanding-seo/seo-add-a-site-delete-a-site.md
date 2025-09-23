@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2949194
 description: SEO - Aggiungere un sito/Eliminare un sito - Documentazione di Marketo - Documentazione del prodotto
-title: 'SEO: aggiungere un sito/eliminare un sito'
+title: 'SEO: aggiungere/eliminare un sito'
 exl-id: 1005f5a8-8744-4fb3-9a07-83bc72810820
 feature: SEO
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 8%
 
 ---
 
-# SEO: aggiungere un sito/eliminare un sito {#seo-add-a-site-delete-a-site}
+# SEO: aggiungere/eliminare un sito {#seo-add-a-site-delete-a-site}
 
 Affinché Marketo possa richiamare dati (collegamenti in entrata e consigli) relativi alle pagine del sito, devi definire qui l’URL del sito.
 
 >[!AVAILABILITY]
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-## [!UICONTROL Aggiungi sito] {#add-a-site}
+## [!UICONTROL Add a Site] {#add-a-site}
 
-1. Fai clic sul menu a discesa Amministratore e seleziona **[!UICONTROL Amministratore]**.
+1. Fare clic sul menu a discesa Amministratore e selezionare **[!UICONTROL Admin]**.
 
    >[!NOTE]
    >
@@ -29,15 +29,15 @@ Affinché Marketo possa richiamare dati (collegamenti in entrata e consigli) rel
 
    ![](assets/one.png)
 
-1. Fare clic su **[!UICONTROL Aggiungi sito]**.
+1. Fai clic su **[!UICONTROL Add Site]**.
 
    ![](assets/two.png)
 
-1. Immetti **[!UICONTROL Nome], [!UICONTROL URL sito Web]** e fai clic su **[!UICONTROL Salva]**.
+1. Immettere **[!UICONTROL Name],[!UICONTROL Website URL]** e fare clic su **[!UICONTROL Save]**.
 
    >[!TIP]
    >
-   >Puoi anche aggiungere un **[!UICONTROL URL blog]**, se ne hai uno.
+   >Puoi anche aggiungere **[!UICONTROL Blog URL]**, se ne hai uno.
 
    ![](assets/image2014-9-17-21-3a19-3a51.png)
 
@@ -49,7 +49,7 @@ Affinché Marketo possa richiamare dati (collegamenti in entrata e consigli) rel
 
 Se tieni traccia di più siti, puoi anche eliminare un sito che non ti interessa più ottimizzare.
 
-1. Fai clic sul menu a discesa Amministratore e seleziona **[!UICONTROL Amministratore]**.
+1. Fare clic sul menu a discesa Amministratore e selezionare **[!UICONTROL Admin]**.
 
    ![](assets/one.png)
 
@@ -57,14 +57,14 @@ Se tieni traccia di più siti, puoi anche eliminare un sito che non ti interessa
 
    ![](assets/six.png)
 
-1. Fare clic su **[!UICONTROL Elimina]**.
+1. Fai clic su **[!UICONTROL Delete]**.
 
    ![](assets/seven.png)
 
-1. Conferma di voler **[!UICONTROL eliminare]**.
+1. Confermare che si desidera **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-17-21-3a21-3a22.png)
 
    >[!NOTE]
    >
-   >È possibile eliminare un sito solo se ne sono presenti più di uno. Se ne hai uno solo, puoi eseguire una reimpostazione selezionando il sito e facendo clic su **[!UICONTROL Reimposta]**. La reimpostazione di un sito _eliminerà tutti i dati del sito_ e ricreerà il sito.
+   >È possibile eliminare un sito solo se ne sono presenti più di uno. Se ne hai uno solo, puoi eseguire una reimpostazione selezionando il sito e facendo clic su **[!UICONTROL Reset]**. La reimpostazione di un sito _eliminerà tutti i dati del sito_ e ricreerà il sito.

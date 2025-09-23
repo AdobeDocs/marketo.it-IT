@@ -1,16 +1,16 @@
 ---
 description: Modifica della password di vendita di Marketo - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica password di vendita Marketo
+title: Modificare password di Marketo Sales
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '159'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Modifica password di vendita Marketo {#change-your-marketo-sales-password}
+# Modificare password di Marketo Sales {#change-your-marketo-sales-password}
 
 Vuoi cambiare la password? Ecco come.
 

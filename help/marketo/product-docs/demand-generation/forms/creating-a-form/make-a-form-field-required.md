@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359569
 description: Rendere obbligatorio un campo modulo - Documentazione di Marketo - Documentazione del prodotto
-title: Rendi obbligatorio un campo modulo
+title: Rendere obbligatorio un campo in un modulo
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 2c753680f5c0087bf47d53e44106a4f20fdcefc9
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Rendi obbligatorio un campo modulo {#make-a-form-field-required}
+# Rendere obbligatorio un campo in un modulo {#make-a-form-field-required}
 
 Quando [aggiungi campi a un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, potresti voler renderne alcuni obbligatori alla persona che li compila. Ecco come.
 

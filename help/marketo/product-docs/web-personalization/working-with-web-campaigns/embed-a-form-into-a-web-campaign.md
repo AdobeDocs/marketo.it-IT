@@ -4,10 +4,10 @@ description: Incorporare un modulo in una campagna web - Documentazione di Marke
 title: Incorporare un modulo in una campagna web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '313'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
@@ -51,7 +51,7 @@ Scopri come incorporare un modulo di Marketo in una campagna web (finestra di di
 
 Per aggiungere un&#39;immagine di sfondo al modulo è possibile:
 
-* Modificare il CSS di un tema modulo
+* Modificare il CSS del tema di un modulo
 * Modificare i colori della finestra di dialogo o del widget in Imposta campagna
 * Aggiungi codice CSS allo script
 
@@ -85,4 +85,4 @@ Per aggiungere codice CSS allo script:
 >
 >* [Modifica il CSS di un tema modulo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostra messaggio di ringraziamento senza una pagina di destinazione di completamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

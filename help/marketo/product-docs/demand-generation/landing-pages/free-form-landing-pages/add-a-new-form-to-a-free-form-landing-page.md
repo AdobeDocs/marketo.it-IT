@@ -4,10 +4,10 @@ description: Aggiungere un nuovo modulo a una pagina di destinazione in formato 
 title: Aggiungere un nuovo modulo a una pagina di destinazione in formato libero
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360203
 description: Creazione di un ruolo utente solo API - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un ruolo utente solo API
+title: Creare un ruolo utente solo per API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 15%
 
 ---
 
-# Creare un ruolo utente solo API {#create-an-api-only-user-role}
+# Creare un ruolo utente solo per API {#create-an-api-only-user-role}
 
 Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api), è consigliabile [assegnare a un utente il ruolo Solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e quindi [creare un servizio personalizzato da utilizzare con REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
 
@@ -19,19 +19,19 @@ Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https:
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-role-1.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/create-an-api-only-user-role-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Ruoli]** e quindi su **[!UICONTROL Nuovo ruolo]**.
+1. Fare clic sulla scheda **[!UICONTROL Roles]** e quindi su **[!UICONTROL New Role]**.
 
    ![](assets/create-an-api-only-user-role-3.png)
 
-1. Immetti un nome per il ruolo, seleziona le autorizzazioni di accesso API che desideri concedere e fai clic su **[!UICONTROL Crea]**.
+1. Immettere un nome di ruolo, selezionare le autorizzazioni di accesso API che si desidera assegnare e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/create-an-api-only-user-role-4.png)
 

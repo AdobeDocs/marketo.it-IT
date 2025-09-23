@@ -1,16 +1,16 @@
 ---
 description: Modifica dati membro del programma - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica dati membro programma
+title: Modificare i dati membro del programma
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 6%
 
 ---
 
-# Modifica dati membro programma {#change-program-member-data}
+# Modificare i dati membro del programma {#change-program-member-data}
 
 È possibile utilizzare Marketo per aggiornare il valore di un campo utilizzando l&#39;azione di flusso Modifica valore dati.
 
@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >Puoi anche impedire l’aggiornamento di un campo. Per ulteriori informazioni, consulta Bloccare aggiornamenti a un campo.
 
-1. Nella scheda Flusso di Smart Campaign, richiama il passaggio di flusso **[!UICONTROL Modifica dati membro del programma]** e scegli il programma desiderato.
+1. Nella scheda Flusso di Smart Campaign, richiama il passaggio di flusso **[!UICONTROL Change Program Member Data]** e scegli il programma desiderato.
 
    ![](assets/change-program-member-data-1.png)
 
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->È inoltre possibile utilizzare i token in [!UICONTROL Nuovo valore].
+>È inoltre possibile utilizzare i token in [!UICONTROL New Value].
 
 Ora esegui Smart Campaign ed è tutto pronto!
 
 >[!TIP]
 >
->Se si desidera cancellare i campi invece di aggiornarli, è possibile immettere &quot;NULL&quot; (nessuna virgoletta, tutte maiuscole) come [!UICONTROL Nuovo valore].
+>Se si desidera cancellare i campi invece di aggiornarli, è possibile immettere &quot;NULL&quot; (nessuna virgoletta, tutte maiuscole) come [!UICONTROL New Value].
 
 >[!MORELIKETHIS]
 >

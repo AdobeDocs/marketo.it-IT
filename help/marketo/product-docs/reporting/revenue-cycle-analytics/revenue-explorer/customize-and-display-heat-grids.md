@@ -4,10 +4,10 @@ description: Personalizzare e visualizzare le griglie di calore - Documentazione
 title: Personalizzare e visualizzare le griglie di calore
 exl-id: c3354b08-3850-4862-becf-f9222b75e1eb
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 

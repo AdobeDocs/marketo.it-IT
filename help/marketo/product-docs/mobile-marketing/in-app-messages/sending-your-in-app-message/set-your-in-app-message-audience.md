@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10617431
 description: Impostare Il Pubblico Dei Messaggi In-App - Documentazione Di Marketo - Documentazione Del Prodotto
-title: Impostare Il Pubblico Dei Messaggi In-App
+title: Configurare il pubblico del messaggio in-app
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Impostare Il Pubblico Dei Messaggi In-App {#set-your-in-app-message-audience}
+# Configurare il pubblico del messaggio in-app {#set-your-in-app-message-audience}
 
 Il primo passaggio consiste nel decidere chi deve ricevere il messaggio in-app. Devi impostare l’elenco avanzato.
 

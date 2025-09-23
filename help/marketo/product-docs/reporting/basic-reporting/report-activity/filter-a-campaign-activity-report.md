@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360184
 description: Filtrare un rapporto sull’attività di una campagna - Documentazione di Marketo - Documentazione del prodotto
-title: Filtrare un rapporto di attività campagna
+title: Filtrare un rapporto di attività di una campagna
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '121'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Filtrare un rapporto di attività campagna {#filter-a-campaign-activity-report}
+# Filtrare un rapporto di attività di una campagna {#filter-a-campaign-activity-report}
 
 Concentrare il [Rapporto attività campagna](/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-activity-report.md) su [campagne intelligenti](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md) specifiche.
 

@@ -1,21 +1,21 @@
 ---
 unique-page-id: 11384651
 description: Aggiungere nuovi contenuti - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi nuovo contenuto
+title: Aggiungere contenuti nuovi
 exl-id: b2965b07-f43b-46fc-90cc-f5b0f1adba51
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# Aggiungi nuovo contenuto {#add-new-content}
+# Aggiungere contenuti nuovi {#add-new-content}
 
 È possibile aggiungere facilmente il contenuto manualmente alla pagina [!UICONTROL All Content].
 
-1. Fare clic sul menu a discesa **[!UICONTROL Add Content]** e selezionare **[!UICONTROL Add Content]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Add Content]** e seleziona **[!UICONTROL Add Content]**.
 
    ![](assets/image2017-10-3-8-3a54-3a9.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515107
 description: Aggiungere un modulo a una pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungere un modulo a una pagina di destinazione guidata
+title: Aggiungere un modulo a una pagina di destinazione in formato guidato
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Aggiungere un modulo a una pagina di destinazione guidata {#add-a-form-to-a-guided-landing-page}
+# Aggiungere un modulo a una pagina di destinazione in formato guidato {#add-a-form-to-a-guided-landing-page}
 
 Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di incontro.
 
@@ -19,7 +19,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 >
 >[Crea una pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md)
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 

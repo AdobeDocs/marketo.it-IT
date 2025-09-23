@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9438139
 description: Aggiunta di una persona al Inserisco nell'elenco Bloccati di - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi persona al Inserisco nell'elenco Bloccati di
+title: Aggiungere persone all’elenco Bloccati
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '150'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Aggiungi persona al Inserisco nell&#39;elenco Bloccati di {#add-person-to-blocklist}
+# Aggiungere persone all’elenco Bloccati {#add-person-to-blocklist}
 
 L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la tua corrispondenza.
 
@@ -57,7 +57,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-9.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Flow]**. Trascina e rilascia l&#39;azione di flusso **[!UICONTROL Change Data Value]**.
+1. Fai clic sulla scheda **[!UICONTROL Flow]**. Trascina e rilascia l&#39;azione di flusso **[!UICONTROL Change Data Value]**.
 
    ![](assets/add-person-to-blocklist-10.png)
 
@@ -69,7 +69,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-12.png)
 
-1. Selezionare **[!UICONTROL Run Now]** e fare clic su **[!UICONTROL Run]**.
+1. Seleziona **[!UICONTROL Run Now]** e fai clic su **[!UICONTROL Run]**.
 
    ![](assets/add-person-to-blocklist-13.png)
 

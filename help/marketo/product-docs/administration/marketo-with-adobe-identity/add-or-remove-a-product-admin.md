@@ -3,10 +3,10 @@ description: Aggiungere o rimuovere un amministratore di prodotto - Documentazio
 title: Aggiungere o rimuovere un amministratore di prodotto
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '275'
+ht-degree: 6%
 
 ---
 
@@ -14,19 +14,19 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->**Gli amministratori di sistema** vengono creati solo a livello di organizzazione di Adobe. Se pensi di averne bisogno più di uno, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>**Gli amministratori di sistema** vengono creati solo a livello di organizzazione Adobe. Se pensi di averne bisogno più di uno, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Aggiungi un amministratore prodotto {#add-a-product-admin}
 
 >[!IMPORTANT]
 >
->Per accedere al Marketo Engage è necessario aggiungere un amministratore a un profilo di prodotto.
+>Per accedere a Marketo Engage, è necessario aggiungere un amministratore a un profilo di prodotto.
 
 1. Accedi a [Adobe Admin Console](https://adminconsole.adobe.com/){target="_blank"}.
 
    ![](assets/add-or-remove-a-product-admin-1.png)
 
-1. Fai clic su **Marketo Engage**.
+1. Fare clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-2.png)
 
@@ -34,15 +34,15 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Amministratori]**.
+1. Fare clic sulla scheda **[!UICONTROL Admins]**.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
-1. Fare clic sul pulsante **[!UICONTROL Aggiungi amministratore]**.
+1. Fare clic sul pulsante **[!UICONTROL Add Admin]**.
 
    ![](assets/add-or-remove-a-product-admin-5.png)
 
-1. Inserisci l’indirizzo e-mail o il nome utente dell’amministratore che desideri aggiungere. Nome e cognome sono facoltativi. Fai clic su **[!UICONTROL Salva]**.
+1. Inserisci l’indirizzo e-mail o il nome utente dell’amministratore che desideri aggiungere. Nome e cognome sono facoltativi. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-6.png)
 
@@ -50,23 +50,23 @@ ht-degree: 2%
 
    ![](assets/add-or-remove-a-product-admin-7.png)
 
-1. In Prodotti, fare clic sul menu a tre punti e selezionare **[!UICONTROL Modifica]**.
+1. In Prodotti, fare clic sul menu a tre punti e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/add-or-remove-a-product-admin-8.png)
 
-1. Fai clic sul segno **+**. Fai clic sulla freccia accanto all’abbonamento di Marketo Engage desiderato (se ve ne sono più di uno) e seleziona il profilo di prodotto desiderato.
+1. Fai clic sul segno **+**. Fai clic sulla freccia accanto all’abbonamento Marketo Engage desiderato (se ve ne sono più di uno) e seleziona il profilo di prodotto desiderato.
 
    ![](assets/add-or-remove-a-product-admin-9.png)
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-a-product-admin-10.png)
 
-L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono stati concessi i diritti di amministratore di prodotto per il Marketo Engage. La seconda e-mail li invita ad accedere al Marketo Engage.
+L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono stati concessi i diritti di amministratore di prodotto per Marketo Engage. La seconda e-mail li invita ad accedere a Marketo Engage.
 
 >[!NOTE]
 >
->Quando l’utente amministratore di prodotto viene aggiunto al Marketo Engage tramite Adobe Admin Console, all’utente viene concesso il ruolo amministratore di prodotto Adobe all’interno dell’abbonamento.
+>Quando l’utente amministratore del prodotto viene aggiunto a Marketo Engage tramite Adobe Admin Console, all’utente viene concesso il ruolo di amministratore del prodotto Adobe all’interno dell’abbonamento.
 
 ## Rimuovere un amministratore {#remove-a-user}
 
@@ -74,7 +74,7 @@ L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono st
 
    ![](assets/add-or-remove-a-product-admin-11.png)
 
-1. Fai clic su **Marketo Engage**.
+1. Fare clic su **Marketo Engage**.
 
    ![](assets/add-or-remove-a-product-admin-12.png)
 
@@ -82,16 +82,16 @@ L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono st
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Amministratori]**.
+1. Fare clic sulla scheda **[!UICONTROL Admins]**.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 
-1. Selezionare l&#39;amministratore da rimuovere e fare clic sul pulsante **[!UICONTROL Rimuovi amministratore]**.
+1. Selezionare l&#39;amministratore da rimuovere e fare clic sul pulsante **[!UICONTROL Remove Admin]**.
 
    ![](assets/add-or-remove-a-product-admin-15.png)
 
-1. Fai clic su **[!UICONTROL Rimuovi amministratore]** per confermare.
+1. Fai clic su **[!UICONTROL Remove Admin]** per confermare.
 
    ![](assets/add-or-remove-a-product-admin-16.png)
 
-L’utente riceverà quindi un’e-mail di notifica che non ha più accesso al Marketo Engage come amministratore di prodotto.
+L’utente riceverà quindi un’e-mail di notifica indicante che non dispone più dell’accesso di amministratore di prodotto a Marketo Engage.

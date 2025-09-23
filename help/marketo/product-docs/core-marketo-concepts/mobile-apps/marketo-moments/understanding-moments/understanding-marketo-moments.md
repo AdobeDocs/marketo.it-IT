@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8781845
 description: Informazioni su Marketo Moments - Documentazione Marketo - Documentazione del prodotto
-title: Informazioni su Marketo Moments
+title: Informazioni sui momenti Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '604'
-ht-degree: 0%
+source-wordcount: '586'
+ht-degree: 1%
 
 ---
 
-# Informazioni su Marketo Moments {#understanding-marketo-moments}
+# Informazioni sui momenti Marketo {#understanding-marketo-moments}
 
 Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizza l’anteprima e riprogramma le e-mail direttamente dal telefono o da iPad.
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 >[!NOTE]
 >
@@ -33,10 +33,10 @@ Ecco i diversi flussi in Moments (Momenti).
 >
 >**Definizione**
 >
->* [!UICONTROL Momenti]: qui viene visualizzato tutto ciò che è appena stato eseguito o sta per essere eseguito.
->* [!UICONTROL Preferiti]: qui viene inserito tutto ciò che si crea come preferito.
->* [!UICONTROL Più tardi]: qui viene inserito qualsiasi evento che si verifica più tardi di questo momento.
->* [!UICONTROL Fine]: qui viene visualizzato tutto ciò che è stato completato o che è stato contrassegnato come completato.
+>* [!UICONTROL Moments]: Qui vengono visualizzati tutti gli elementi che sono appena stati eseguiti o che stanno per essere eseguiti.
+>* [!UICONTROL Favorites]: qualsiasi cosa che fai come preferita viene inserita qui.
+>* [!UICONTROL Later]: qualsiasi cosa accada più tardi di questo momento viene inserita qui.
+>* [!UICONTROL Done]: qualsiasi elemento che ha completato l&#39;esecuzione o che è stato contrassegnato come completato viene visualizzato qui.
 
 Ok, ora che ce l&#39;abbiamo fatta, diamo un&#39;occhiata a Marketo Moments al telefono!
 
@@ -48,17 +48,17 @@ Marketo Moments offre tre diverse schede per seguire l’avanzamento della tua e
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Battito cardiaco]** - Ciao - questa e-mail è in fase di recapito! Ed ecco anche le statistiche. Vai avanti e condividilo.
+**[!UICONTROL Heart-beat]** - Ciao - questa e-mail è in fase di recapito! Ed ecco anche le statistiche. Vai avanti e condividilo.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Risultati]** - Ecco come è andata l&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati vengono visualizzati il punteggio di coinvolgimento e altre statistiche.
+**[!UICONTROL Results]** - Ecco come è andata l&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati vengono visualizzati il punteggio di coinvolgimento e altre statistiche.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
 ## Flusso Moments {#moments-stream}
 
-La prima volta che apri l&#39;app o tocca **[!UICONTROL Momenti]** nel menu, vengono visualizzate le relative schede. Ciascuna contiene informazioni su quella specifica iniziativa di marketing e sulle sue prestazioni complessive.
+La prima volta che apri l&#39;app o tocchi **[!UICONTROL Moments]** nel menu, vengono visualizzate le relative schede. Ciascuna contiene informazioni su quella specifica iniziativa di marketing e sulle sue prestazioni complessive.
 
 ![](assets/image2015-7-15-10-3a46-3a19.png)
 
@@ -82,11 +82,11 @@ Fantastico! Ora puoi fare qualcosa toccando:
 >
 >**Definizione**
 >
->* [!UICONTROL Preferito]: è facile prestare attenzione alle cose più tempestive e importanti se le si rende preferite.
->* [!UICONTROL Operazione completata]: l&#39;operazione completata viene rimossa dalla visualizzazione Momenti Marketo, ma rimane in Marketo, sicura e valida.
->* [!UICONTROL Condividi]: invia un&#39;immagine per motivare o congratularsi con il team.
->* [!UICONTROL Invia campione] (solo e-mail): utilizza questa opzione per consentire ad altri utenti di controllare l&#39;aspetto delle e-mail prima che vengano inviate.
->* [!UICONTROL Anteprima e-mail] (solo e-mail): è sempre consigliabile controllare le e-mail in anticipo.
+>* [!UICONTROL Favorite]: è facile prestare attenzione alle cose più tempestive e importanti se le si rende preferite.
+>* [!UICONTROL Done]: Fine ottiene dalla visualizzazione Momenti Marketo (ma lascia in Marketo, sicuro e sonoro).
+>* [!UICONTROL Share]: invia un&#39;immagine per motivare o congratularsi con il tuo team.
+>* [!UICONTROL Send Sample] (solo e-mail): usa questa opzione per consentire ad altri di controllare l&#39;aspetto delle e-mail prima che vengano inviate.
+>* [!UICONTROL Preview Email] (solo e-mail): è sempre consigliabile controllare le e-mail in anticipo.
 
 ## Momenti successivi {#later-moments}
 
@@ -96,7 +96,7 @@ La sezione Più tardi mostra le attività imminenti.
 
    ![](assets/image2015-7-15-10-3a52-3a5.png)
 
-1. Tocca **[!UICONTROL Più Tardi]**.
+1. Toccare **[!UICONTROL Later]**.
 
    ![](assets/image2015-7-15-10-3a54-3a47.png)
 
@@ -122,7 +122,7 @@ Le schede Momento di Analytics mostrano le prestazioni mensili delle e-mail e de
 
 1. Lead acquisiti
 1. Nuovi lead
-1. Annulla iscrizione
+1. Iscrizioni annullate
 
 ![](assets/image2015-7-6-13-3a26-3a33.png)
 
@@ -134,7 +134,7 @@ Le smart campaign card rappresentano una singola esecuzione di una campagna. A o
 
 ## Conferma o Annulla un&#39;azione {#confirm-or-cancel-an-action}
 
-In ogni passaggio della procedura, puoi confermare o annullare un’azione. Se cambi idea, tocca **[!UICONTROL Non importa]**.
+In ogni passaggio della procedura, puoi confermare o annullare un’azione. Se cambi idea, tocca **[!UICONTROL Never Mind]**.
 
 ![](assets/image2015-7-14-17-3a11-3a29.png)
 

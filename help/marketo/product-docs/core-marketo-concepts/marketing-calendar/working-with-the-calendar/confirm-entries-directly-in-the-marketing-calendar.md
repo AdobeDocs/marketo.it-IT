@@ -1,25 +1,25 @@
 ---
 unique-page-id: 2953362
 description: Conferma le voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
-title: Conferma le voci direttamente nel calendario di marketing
+title: Confermare le voci direttamente nel calendario marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 19%
 
 ---
 
-# Conferma le voci direttamente nel calendario di marketing {#confirm-entries-directly-in-the-marketing-calendar}
+# Confermare le voci direttamente nel calendario marketing {#confirm-entries-directly-in-the-marketing-calendar}
 
 Campagne intelligenti e programmi e-mail possono essere creati come voci provvisorie e devono essere confermati affinché tutto accada effettivamente. Ecco come.
 
-1. Vai al **[!UICONTROL Calendario]**.
+1. Passare a **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-5.png)
 
-1. Selezionare la voce che si desidera confermare e fare clic su **[!UICONTROL Mostra programma attivo]**.
+1. Selezionare la voce da confermare e fare clic su **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 

@@ -1,16 +1,16 @@
 ---
 description: Abilitare la sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
-title: Abilita sincronizzazione campagne
+title: Abilitare la sincronizzazione della campagna
 exl-id: b33af554-b4c0-465c-a5a4-3ee3450af5e5
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Abilita sincronizzazione campagne {#enable-campaign-sync}
+# Abilitare la sincronizzazione della campagna {#enable-campaign-sync}
 
 Questa opzione consente a Marketo di aggiungere e rimuovere membri dalla campagna [!DNL MS Dynamics].
 

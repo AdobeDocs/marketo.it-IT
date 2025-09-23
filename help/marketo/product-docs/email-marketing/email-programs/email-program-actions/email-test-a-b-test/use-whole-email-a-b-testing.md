@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359502
 description: Utilizzare il test A/B "E-mail intera" - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizza test A/B "E-mail intera"
+title: Utilizzare il test A/B “E-mail intera”
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Utilizza test A/B &quot;E-mail intera&quot; {#use-whole-email-a-b-testing}
+# Utilizzare il test A/B “E-mail intera” {#use-whole-email-a-b-testing}
 
 Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **E-mail intera**. Ecco come configurarlo.
 
@@ -23,7 +23,7 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 
 ![](assets/image2014-9-12-15-3a22-3a12.png)
 
-1. Viene visualizzata una nuova finestra. Fare clic sul menu a discesa **[!UICONTROL Test Type]** e selezionare **[!UICONTROL Whole Emails]**.
+1. Viene visualizzata una nuova finestra. Fai clic sul menu a discesa **[!UICONTROL Test Type]** e seleziona **[!UICONTROL Whole Emails]**.
 
    ![](assets/image2014-9-12-15-3a22-3a27.png)
 
@@ -45,11 +45,11 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 
 1. Seleziona la seconda e-mail.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Fare clic su **[!UICONTROL Add]** per applicare la seconda e-mail. Trascina il cursore per scegliere la percentuale del pubblico che desideri ricevere il test A/B e fai clic su **[!UICONTROL Next]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

@@ -3,7 +3,7 @@ description: Panoramica di Advanced BI Analytics - Documentazione di Marketo - D
 title: Panoramica di Analisi BI avanzata
 feature: Reporting
 exl-id: 120663ef-abcd-4cfe-aac1-64b57ff47258
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1038'
 ht-degree: 1%
@@ -98,7 +98,7 @@ Scopri come esportare sezioni specifiche del rapporto.
 
    ![](assets/export-a-visualization-2.png){width="600" zoomable="yes"}
 
-1. Fare clic sull&#39;icona Altro (**...**)
+1. Fare clic sull&#39;icona Altro (**`...`**)
 
    ![](assets/export-a-visualization-3.png)
 
@@ -125,7 +125,7 @@ Scopri come esportare sezioni specifiche del rapporto.
 
 Guarda il video seguente per vedere un esempio di esperienza di report drill-through con più pagine.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451690/?quality=12&learn=on&captions=ita){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451681/?quality=12&learn=on){transcript=true}
 
 ## Rapporti standard in Advanced BI Analytics {#standard-reports}
 
@@ -237,7 +237,6 @@ I seguenti rapporti standard sono inclusi come esempi per i rapporti personalizz
 ## Aspetti da considerare {#note}
 
 * I rapporti personalizzati sono stati replicati dall&#39;esperienza classica alla nuova esperienza con le modifiche di comportamento rilevanti menzionate nella sezione [Apprendere la nuova esperienza](#learning-the-new-experience) di seguito.
-
 * Le dashboard nell’esperienza classica non erano trasferibili e richiedevano la ricreazione nella nuova esperienza. Possono essere ricreati come rapporti nella nuova esperienza e i filtri nella nuova esperienza estraggono automaticamente i valori possibili.
 
   >[!NOTE]
@@ -251,9 +250,7 @@ I seguenti rapporti standard sono inclusi come esempi per i rapporti personalizz
   >Se in Esplora entrate erano presenti più di 700 rapporti, alcuni sono stati combinati con altri e consolidati tramite pagine all’interno del rapporto.
   >
   >* Se un rapporto aveva un abbonamento e-mail, non veniva combinato.
-  >
   >* Gli altri report nella _stessa cartella_ sono stati combinati in uno o più report per area di reporting. Se per l&#39;area segnalante erano presenti più di cinque segnalazioni, queste sono state consolidate in più segnalazioni combinate.
-  >
   >* Ogni rapporto combinato non ha più di cinque pagine.
 
 * Per ogni visualizzazione è previsto un limite di 1 milione di righe per query. Se la query supera questo limite, verrà visualizzato il seguente errore: `The resultset of a query to external data source has exceeded the maximum allowed size of '1000000' rows`. Per risolvere questo problema, riduci l’intervallo di date e/o regola i filtri nel rapporto per ridurre il numero di righe nei risultati della query.

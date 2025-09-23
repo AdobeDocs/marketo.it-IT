@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746184
 description: Scheda Cronologica per annullare l’abbonamento - Documentazione di Marketo - Documentazione del prodotto
-title: Scheda Cronologia per annullare l’iscrizione
+title: Scheda Cronologia dell’annullamento dell’iscrizione
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Scheda Cronologia per annullare l’iscrizione {#unsubscribe-history-card}
+# Scheda Cronologia dell’annullamento dell’iscrizione {#unsubscribe-history-card}
 
 La scheda [!UICONTROL Unsubscribe History] consente agli amministratori e agli utenti di ottenere informazioni contestuali sulla cronologia degli annullamenti dell&#39;abbonamento dei loro contatti.
 

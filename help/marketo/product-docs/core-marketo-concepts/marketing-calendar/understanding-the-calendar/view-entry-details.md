@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953325
 description: Visualizza dettagli di ingresso - Documentazione Marketo - Documentazione del prodotto
-title: Visualizza dettagli immissione
+title: Visualizzare i dettagli delle voci
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Visualizza dettagli immissione {#view-entry-details}
+# Visualizzare i dettagli delle voci {#view-entry-details}
 
 Quando visualizzi i dettagli di una voce nel calendario di marketing, puoi trovare tutte le informazioni interessanti su di essa.
 

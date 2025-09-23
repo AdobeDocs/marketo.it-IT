@@ -4,10 +4,10 @@ description: Definire un pubblico con un elenco avanzato - Documentazione di Mar
 title: Definire un pubblico con un elenco avanzato
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '256'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
@@ -57,7 +57,7 @@ Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/
 >
 >* Annulla l&#39;iscrizione
 >* Marketing sospeso
->* Inserire nell&#39;elenco Bloccati
+>* Inseriti nell’elenco bloccati
 >* E-mail non valida
 >* E-mail vuota
 >

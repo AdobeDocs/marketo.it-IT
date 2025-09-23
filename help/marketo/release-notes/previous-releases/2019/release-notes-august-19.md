@@ -4,14 +4,14 @@ description: Note sulla versione -19 agosto - Documentazione Marketo - Documenta
 title: Note sulla versione di Marketing Cloud
 exl-id: 992af312-863c-419c-b6d4-cf5dd3b3e46c
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 0%
+source-wordcount: '325'
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: agosto &#39;19 {#release-notes-august}
+# Note sulla versione - Agosto 2019 {#release-notes-august}
 
 Le seguenti funzioni sono incluse nella versione di agosto 19. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -50,4 +50,4 @@ Le seguenti funzionalità sono presentate in un ciclo non trimestrale e saranno 
 >
 >**Per mantenere l&#39;accesso a Marketo Engage, verificare che tutti i sistemi client siano conformi a TLS 1.2 prima del 13 dicembre 2019**. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 
-**_Webinar sulla versione del prodotto_** [Unisciti a noi](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 13:00 PT / 16:00 ET per un webinar live ospitato dal nostro team di prodotto e ulteriori informazioni sulle funzioni incluse in questa versione.
+**_Webinar sulla versione del prodotto_** [Unisciti a noi](https://engage.marketo.com/August_19_Release_Webinar.html) il 28 agosto alle 1:00PM PT / 4:00PM ET per un webinar live ospitato dal nostro team di prodotto e scopri di più sulle funzioni incluse in questa versione.

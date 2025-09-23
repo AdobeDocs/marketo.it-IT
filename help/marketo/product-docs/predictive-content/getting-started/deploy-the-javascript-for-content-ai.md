@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11385053
 description: Distribuire JavaScript per IA per la gestione dei contenuti - Documentazione Marketo - Documentazione del prodotto
-title: Distribuire JavaScript per IA per la gestione dei contenuti
+title: Distribuire JavaScript per i contenuti basati sull’IA
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Distribuire JavaScript per IA per la gestione dei contenuti {#deploy-the-javascript-for-content-ai}
+# Distribuire JavaScript per i contenuti basati sull’IA {#deploy-the-javascript-for-content-ai}
 
 Per utilizzare Contenuto predittivo, è necessario generare e impostare il tag RTP (Web Personalization).
 

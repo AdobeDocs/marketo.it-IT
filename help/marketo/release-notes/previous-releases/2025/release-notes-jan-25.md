@@ -3,7 +3,7 @@ description: Note sulla versione - Gennaio 2025 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2025
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '551'
 ht-degree: 35%
@@ -73,7 +73,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 Da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social in Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le risorse social cesseranno di funzionare. Le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Aggiornamento API Get Program Members**: è stata migliorata l&#39;API [Get Program Members](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} per supportare la possibilità di recuperare l&#39;identificatore dei membri del programma. A questo scopo, aggiungi l’ID all’elenco di campi specificati nel parametro fields della richiesta API.
+* **Aggiornamento API Get Program Members**: è stata migliorata l&#39;API [Get Program Members](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} per supportare la possibilità di recuperare l&#39;identificatore dei membri del programma. A questo scopo, aggiungi l’ID all’elenco di campi specificati nel parametro fields della richiesta API.
 
 * **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 

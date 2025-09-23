@@ -4,14 +4,14 @@ description: Note sulla versione -Estate del 17 - Documentazione di Marketo - Do
 title: Note sulla versione - Estate 2017
 exl-id: 81b18ecb-5870-4d16-8b7c-24ce362be62f
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: estate 2017 {#release-notes-summer}
+# Note sulla versione - Estate 2017 {#release-notes-summer}
 
 Le seguenti funzioni sono incluse nella versione dell’estate del 17. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -59,7 +59,7 @@ Sono ora disponibili nuove opzioni per le campagne Widget, tra cui:
 
 Aumenta il ritorno sul marketing dei contenuti con analisi più approfondite e suggerimenti di contenuti basati sull’intelligenza artificiale per aumentare il coinvolgimento. Le analisi avanzate mostrano le prestazioni dei contenuti consigliati, incluse le visualizzazioni popolari, di tendenza e basate sul pubblico. Vedrai anche i suggerimenti per contenuti aggiuntivi da includere.
 
-## Analytics {#analytics}
+## Analisi {#analytics}
 
 **[!UICONTROL Email Insights]miglioramenti**
 

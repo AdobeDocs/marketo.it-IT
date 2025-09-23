@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146968
 description: Visualizzazione dei risultati di una campagna intelligente - Documentazione di Marketo - Documentazione del prodotto
-title: Visualizzare i risultati di una campagna intelligente
+title: Visualizzare i risultati di una campagna avanzata
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 8%
 
 ---
 
-# Visualizzare i risultati di una campagna intelligente {#view-smart-campaign-results}
+# Visualizzare i risultati di una campagna avanzata {#view-smart-campaign-results}
 
 Desideri visualizzare un raggruppamento di tutto ciò che è successo in una Smart Campaign? Ecco come.
 
@@ -19,7 +19,7 @@ Desideri visualizzare un raggruppamento di tutto ciò che è successo in una Sma
 >
 >Per visualizzare l&#39;elenco delle persone elaborate da Smart Campaign, fare clic su [Visualizza membri della campagna](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/view-smart-campaign-members.md){target="_blank"}.
 
-1. In Smart Campaign, fai clic su **[!UICONTROL Risultati]**.
+1. Nella tua Smart Campaign, fai clic su **[!UICONTROL Results]**.
 
    ![](assets/view-smart-campaign-results-1.png)
 
@@ -27,7 +27,7 @@ Desideri visualizzare un raggruppamento di tutto ciò che è successo in una Sma
    >
    >Puoi anche filtrare i risultati in base al tipo di attività. Scopri come [filtrare i risultati della campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/filter-smart-campaign-results.md){target="_blank"}.
 
-1. Fai clic su un **[!UICONTROL ID]** per visualizzare ulteriori dettagli su quella particolare attività.
+1. Fare clic su un **[!UICONTROL ID]** per visualizzare ulteriori dettagli su quella particolare attività.
 
    ![](assets/view-smart-campaign-results-2.png)
 

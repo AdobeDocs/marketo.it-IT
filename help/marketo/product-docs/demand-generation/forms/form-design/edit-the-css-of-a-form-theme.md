@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359679
 description: Modificare il CSS di un tema modulo - Documentazione Marketo - Documentazione del prodotto
-title: Modificare il CSS di un tema modulo
+title: Modificare il CSS del tema di un modulo
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '166'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Modificare il CSS di un tema modulo {#edit-the-css-of-a-form-theme}
+# Modificare il CSS del tema di un modulo {#edit-the-css-of-a-form-theme}
 
 Hai alcuni [temi predefiniti tra cui puoi scegliere](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md). Ma se ti piace modificare i CSS, puoi apportare le modifiche desiderate. Ecco come.
 

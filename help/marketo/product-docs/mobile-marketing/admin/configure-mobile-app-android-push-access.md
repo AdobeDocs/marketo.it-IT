@@ -4,10 +4,10 @@ description: Configurare l’accesso push Android per app mobili - Documentazion
 title: Configurare l’accesso push di Android per app mobili
 exl-id: 1204f36a-d960-4af6-a5d0-ee6b6720026a
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 3%
+ht-degree: 24%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 3%
 
    ![](assets/image2015-4-22-16-3a33-3a19.png)
 
-1. In **[!UICONTROL Push Access Type]**, selezionare **[!UICONTROL Android]** e fare clic su **[!UICONTROL Configure]**.
+1. In **[!UICONTROL Push Access Type]**, seleziona **[!UICONTROL Android]** e fai clic su **[!UICONTROL Configure]**.
 
    ![](assets/image2016-6-15-15-3a16-3a22.png)
 

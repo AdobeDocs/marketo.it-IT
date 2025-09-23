@@ -1,19 +1,19 @@
 ---
 unique-page-id: 12255457
 description: 'Guida introduttiva a TAM: documentazione Marketo - Documentazione del prodotto'
-title: Guida introduttiva a TAM
+title: Guida introduttiva di TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: f8b48bca528946095edbe0a1f724fcc0763aa4dd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Guida introduttiva a TAM {#getting-started-with-tam}
+# Guida introduttiva di TAM {#getting-started-with-tam}
 
-Aggiungere il TAM di Marketo Engage alla tua istanza? Fantastico! Diamo un&#39;occhiata a cosa devi fare dopo.
+Aggiungere Marketo Engage TAM alla tua istanza? Fantastico! Diamo un&#39;occhiata a cosa devi fare dopo.
 
 **Passaggio uno: [Rilascia una licenza](/help/marketo/product-docs/target-account-management/setup-tam/issue-a-license.md){target="_blank"}** - Decidi chi del tuo team utilizzerà il TAM.
 

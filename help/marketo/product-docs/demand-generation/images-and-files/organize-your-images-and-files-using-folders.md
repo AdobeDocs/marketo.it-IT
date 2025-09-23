@@ -4,10 +4,10 @@ description: Organizzazione di immagini e file tramite cartelle - Documentazione
 title: Organizzazione di immagini e file mediante le cartelle
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: fbfbc22477b5e1596a2491cb34cf2bd63601bc63
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 21%
 
 ---
 
@@ -19,15 +19,15 @@ La creazione di cartelle consente di spostare immagini e file, visualizzare solo
 
    ![](assets/organize-your-images-and-files-using-folders-1.png)
 
-1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Immagini e file]** e selezionare **[!UICONTROL Nuova cartella]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Images and Files]** e selezionare **[!UICONTROL New folder]**.
 
    ![](assets/organize-your-images-and-files-using-folders-2.png)
 
-1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/organize-your-images-and-files-using-folders-3.png)
 
-1. Torna a **[!UICONTROL Immagini e file]** e seleziona la risorsa da spostare. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Sposta]**.
+1. Torna a **[!UICONTROL Images and Files]** e seleziona la risorsa da spostare. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Move]**.
 
    ![](assets/organize-your-images-and-files-using-folders-4.png)
 

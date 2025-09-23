@@ -4,10 +4,10 @@ description: Aggiungere colonne personalizzate a un rapporto sulle persone - Doc
 title: Aggiungere colonne personalizzate a un rapporto Persona
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 

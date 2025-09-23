@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951884
 description: Analisi delle opportunità in Revenue Explorer - Documentazione di Marketo - Documentazione del prodotto
-title: Analisi delle opportunità in Gestione ricavi
+title: Informazioni su analisi delle opportunità in Revenue Explorer
 exl-id: 2ef45d3e-7640-4c47-86ae-d7ae45ed1dd4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '899'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Analisi delle opportunità in Gestione ricavi {#understanding-opportunity-analysis-in-revenue-explorer}
+# Informazioni su analisi delle opportunità in Revenue Explorer {#understanding-opportunity-analysis-in-revenue-explorer}
 
 L’analisi delle opportunità in Esplora ricavi consente di esaminare le opportunità a un livello più approfondito. Puoi suddividere i dati in base agli attributi del lead/azienda, ad esempio origine del lead, settore o area geografica. Analizza la creazione e la chiusura delle opportunità in base al nome, allo stadio o alla probabilità. Scopri i contributi di marketing alla pipeline.
 
@@ -77,7 +77,7 @@ L’analisi delle opportunità consente di accedere a tutte le dimensioni relati
 
    | Dimensione | Descrizione |
    |---|---|
-   | Inserire nell&#39;elenco Bloccati | Inserire nell&#39;elenco Bloccati Il lead è |
+   | Inseriti nell’elenco bloccati | Inserire nell&#39;elenco Bloccati Il lead è |
    | Convertito in opportunità | Il lead viene convertito in un’opportunità |
    | E-mail non valida | Se il lead ha un indirizzo e-mail valido |
    | Marketing sospeso | Il lead è sospeso dalle e-mail di marketing |

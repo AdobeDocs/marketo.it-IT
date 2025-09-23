@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718656
 description: Creazione di un nuovo modello di ricavi - Documentazione di Marketo - Documentazione del prodotto
-title: Crea un nuovo modello di ricavi
+title: Creare un nuovo modello di ricavi
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Crea un nuovo modello di ricavi {#create-a-new-revenue-model}
+# Creare un nuovo modello di ricavi {#create-a-new-revenue-model}
 
 1. Per creare un nuovo modello del ciclo dei ricavi, fare clic sul pulsante **[!UICONTROL Analytics]** nella schermata iniziale di [!UICONTROL My Marketo].
 

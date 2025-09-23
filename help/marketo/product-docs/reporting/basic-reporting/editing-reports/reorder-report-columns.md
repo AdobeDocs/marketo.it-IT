@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359999
 description: Riordinare le colonne dei rapporti - Documentazione di Marketo - Documentazione del prodotto
-title: Riordina colonne report
+title: Riordinare le colonne in un rapporto
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Riordina colonne report {#reorder-report-columns}
+# Riordinare le colonne in un rapporto {#reorder-report-columns}
 
 Puoi modificare l’ordine delle colonne in un rapporto.
 

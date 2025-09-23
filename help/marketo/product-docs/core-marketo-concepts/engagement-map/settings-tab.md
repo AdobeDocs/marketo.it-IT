@@ -2,10 +2,10 @@
 description: Scheda Impostazioni - Documentazione di Marketo - Documentazione del prodotto
 title: Scheda Impostazioni
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

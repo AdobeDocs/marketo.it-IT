@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718687
 description: Approvare/Annullare l'approvazione di un modello di ricavo - Documenti Marketo - Documentazione del prodotto
-title: Approvare/Annullare l'approvazione di un modello di ricavi
+title: Approvare/Annullare l’approvazione di un modello di ricavi
 exl-id: 2b0818c7-8a4e-4f92-bb95-1f6f77be1a90
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 2%
+ht-degree: 14%
 
 ---
 
-# Approvare/Annullare l&#39;approvazione di un modello di ricavi {#approve-unapprove-a-revenue-model}
+# Approvare/Annullare l’approvazione di un modello di ricavi {#approve-unapprove-a-revenue-model}
 
 Puoi avere un solo modello approvato alla volta.
 
@@ -21,7 +21,7 @@ Puoi avere un solo modello approvato alla volta.
 
 ## Approvazione {#approve}
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a16.png)
 
@@ -45,7 +45,7 @@ Il tuo modello è ora live!
 >
 >Se annulli l’approvazione del modello, tutte le persone vengono rimosse dal modello e la cronologia viene eliminata.
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-28-8-3a9-3a30.png)
 

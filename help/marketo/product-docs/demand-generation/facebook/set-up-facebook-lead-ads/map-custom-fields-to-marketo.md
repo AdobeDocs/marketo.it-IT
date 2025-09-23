@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12983101
 description: Mappatura di campi personalizzati su Marketo - Documentazione Marketo - Documentazione del prodotto
-title: Mappa campi personalizzati su Marketo
+title: Mappare campi personalizzati su Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Mappa campi personalizzati su Marketo {#map-custom-fields-to-marketo}
+# Mappare campi personalizzati su Marketo {#map-custom-fields-to-marketo}
 
 Per impostazione predefinita, è possibile che si desideri raccogliere più informazioni rispetto a quelle standard archiviate in [!DNL Facebook], ad esempio la frequenza con cui un utente utilizza il servizio di consegna online. Puoi eseguire questa operazione [creando domande personalizzate](https://www.facebook.com/business/help/774623835981457?helpref=uf_permalink) nei tuoi [!DNL Facebook] annunci lead.
 

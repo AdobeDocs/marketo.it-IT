@@ -1,28 +1,28 @@
 ---
 description: Informazioni API per esportazione in blocco - Documenti Marketo - Documentazione del prodotto
-title: Informazioni API per esportazione in blocco
+title: Informazioni API dell’esportazione in blocco
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '94'
+ht-degree: 13%
 
 ---
 
-# Informazioni API per esportazione in blocco {#bulk-export-api-information}
+# Informazioni API dell’esportazione in blocco {#bulk-export-api-information}
 
-Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
+Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
 
 >[!NOTE]
 >
 >Se hai bisogno di ulteriore capacità, contatta il tuo Account Representative.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/bulk-export-api-information-1.png)
 
-1. Fare clic su **[!UICONTROL Servizi Web]**.
+1. Fai clic su **[!UICONTROL Web Services]**.
 
    ![](assets/bulk-export-api-information-2.png)
 
@@ -34,4 +34,4 @@ Scopri come controllare la capacità di [estrazione in blocco delle API](https:/
 
 >[!NOTE]
 >
->L’allocazione per l’istanza di Marketo Engage viene ripristinata ogni giorno alle 00:00 CST.
+>L&#39;allocazione per l&#39;istanza di Marketo Engage viene ripristinata ogni giorno alle 12:00 CST.

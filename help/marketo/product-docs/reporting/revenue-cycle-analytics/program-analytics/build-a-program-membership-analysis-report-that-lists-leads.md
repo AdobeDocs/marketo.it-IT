@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360405
 description: Creare un rapporto di analisi sull’iscrizione al programma che elenca i lead - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un rapporto di analisi dell’iscrizione al programma che elenca i lead
+title: Creare rapporto di analisi dell’iscrizione al programma che elenca i lead
 exl-id: 52fa9808-a3d6-48b9-9a6a-93d262591c2b
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '135'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Creare un rapporto di analisi dell’iscrizione al programma che elenca i lead {#build-a-program-membership-analysis-report-that-lists-leads}
+# Creare rapporto di analisi dell’iscrizione al programma che elenca i lead {#build-a-program-membership-analysis-report-that-lists-leads}
 
 Per creare un report di analisi dell&#39;appartenenza al programma che mostri tutti i nomi dei membri del programma, eseguire la procedura seguente.
 
@@ -27,7 +27,7 @@ Per creare un report di analisi dell&#39;appartenenza al programma che mostri tu
 
    ![](assets/two.png)
 
-1. Selezionare **[!UICONTROL Program Membership Analysis]** e fare clic su **[!UICONTROL OK]**.
+1. Seleziona **[!UICONTROL Program Membership Analysis]** e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/three.png)
 
@@ -47,7 +47,7 @@ Vedi quanto è stato facile?
 
 ![](assets/seven.png)
 
-È possibile aggiungere rapidamente un attributo del lead come _[!UICONTROL Full Name]_&#x200B;per visualizzare i membri.
+È possibile aggiungere rapidamente un attributo del lead come _[!UICONTROL Full Name]_per visualizzare i membri.
 
 >[!TIP]
 >

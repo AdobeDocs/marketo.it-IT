@@ -4,16 +4,16 @@ description: Modello 4A - Documentazione Marketo - Documentazione del prodotto
 title: Modello 4A
 exl-id: a20817e4-dbdd-4f08-9b4e-602da6b75d70
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Modello 4A {#template-4a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 4A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)
 
 ![](assets/image2015-6-29-16-3a2-3a6.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html?lang=it)
+[Modello 4A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-4a.html)

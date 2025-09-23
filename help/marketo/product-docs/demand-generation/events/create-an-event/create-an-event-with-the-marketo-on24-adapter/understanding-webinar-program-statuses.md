@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096681
 description: Informazioni sugli stati dei programmi del webinar - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sugli stati dei programmi di webinar
+title: Informazioni sullo stato dei programmi per webinar
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '414'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Informazioni sugli stati dei programmi di webinar {#understanding-webinar-program-statuses}
+# Informazioni sullo stato dei programmi per webinar {#understanding-webinar-program-statuses}
 
 Gli stati del programma rappresentano i diversi stati dell’evento che una persona sviluppa come membro dell’evento. Sono associati a un tipo di canale. Marketo ha un tipo di canale integrato denominato **Webinar**. Gli stati possono essere utilizzati sia nelle campagne batch che in quelle attivate.
 

@@ -1,16 +1,16 @@
 ---
 description: Modelli e informazioni - Documentazione di Marketo - Documentazione del prodotto
-title: Modelli e informazioni
+title: Modelli e approfondimenti
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 8101d9c73571948847d00dfc21f21c39bcd1d975
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '212'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Modelli e informazioni {#models-and-insights}
+# Modelli e approfondimenti {#models-and-insights}
 
 Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati di input. Visualizza il fattore di influenza principale per ciascuno dei modelli di IA per la probabilità. Inoltre, scopri i principali fattori che determinano una registrazione più o meno elevata di un evento, la partecipazione a un evento o l’annullamento degli abbonamenti.
 

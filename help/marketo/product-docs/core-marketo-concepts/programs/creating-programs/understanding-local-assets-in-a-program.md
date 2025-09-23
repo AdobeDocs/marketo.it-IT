@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147093
 description: Informazioni su Local Assets in a Program - Documentazione Marketo - Documentazione del prodotto
-title: Informazioni sull’Assets locale in un programma
+title: Informazioni sulle risorse locali in un programma
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 5%
+ht-degree: 17%
 
 ---
 
-# Informazioni sull’Assets locale in un programma {#understanding-local-assets-in-a-program}
+# Informazioni sulle risorse locali in un programma {#understanding-local-assets-in-a-program}
 
 Le risorse locali sono i contenuti che compongono il programma. Assets è personalizzabile e consente di creare iniziative di marketing automatizzate. Ecco una panoramica della maggior parte delle risorse locali che puoi creare in un programma:
 

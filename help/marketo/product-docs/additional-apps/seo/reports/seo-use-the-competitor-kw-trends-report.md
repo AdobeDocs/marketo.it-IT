@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949270
 description: 'SEO: utilizzare il rapporto sulle tendenze del KW della concorrenza - Documentazione di Marketo - Documentazione del prodotto'
-title: 'SEO: utilizzare il rapporto sulle tendenze del KW della concorrenza'
+title: 'SEO: utilizzare il rapporto sulle tendenze delle KW del concorrente'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 3%
+ht-degree: 12%
 
 ---
 
-# SEO: utilizzare il rapporto sulle tendenze del KW della concorrenza {#seo-use-the-competitor-kw-trends-report}
+# SEO: utilizzare il rapporto sulle tendenze delle KW del concorrente {#seo-use-the-competitor-kw-trends-report}
 
 In questo rapporto, puoi vedere come tu e i tuoi concorrenti siete classificati in base alle parole chiave nel tempo.
 

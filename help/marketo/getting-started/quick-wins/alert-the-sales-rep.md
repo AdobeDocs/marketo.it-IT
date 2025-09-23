@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359424
 description: Avvisa il rappresentante di vendita - Documentazione Marketo - Documentazione del prodotto
-title: Avvisa il rappresentante commerciale
+title: Avvisare il rappresentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '348'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Avvisa il rappresentante commerciale {#alert-the-sales-rep}
+# Avvisare il rappresentante commerciale {#alert-the-sales-rep}
 
 ## Missione: avvisa il rappresentante commerciale quando una persona compila un modulo sul sito web {#mission-alert-the-sales-rep-when-a-person-fills-out-a-form-on-your-web-site}
 
@@ -23,7 +23,7 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
 ## Passaggio 1: creare un messaggio e-mail di avviso {#step-create-an-alert-email}
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/alert-the-sales-rep-1.png)
 
@@ -67,7 +67,7 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
    ![](assets/alert-the-sales-rep-10.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Email Actions]** e selezionare **[!UICONTROL Approve and Close]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Email Actions]** e seleziona **[!UICONTROL Approve and Close]**.
 
    ![](assets/alert-the-sales-rep-11.png)
 
@@ -109,7 +109,7 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
    >
    >Imposta **[!UICONTROL Qualification Rules]** su **[!UICONTROL every time]** (modificando Smart Campaign) per consentire alla stessa persona di attivare gli avvisi più volte.
 
-1. Fare clic su **[!UICONTROL Activate]** nella schermata di conferma.
+1. Fai clic su **[!UICONTROL Activate]** nella schermata di conferma.
 
    ![](assets/alert-the-sales-rep-20.png)
 

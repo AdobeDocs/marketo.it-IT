@@ -4,14 +4,14 @@ description: Note sulla versione - Febbraio 2013 - Documentazione Marketo - Docu
 title: Note sulla versione - Febbraio 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: febbraio 2013 {#release-notes-february}
+# Note sulla versione - Febbraio 2013 {#release-notes-february}
 
 La versione di febbraio include una funzionalità altamente richiesta, il supporto per [!DNL Apple Safari] e altri piccoli miglioramenti.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359614
 description: Definire i valori in una radio o in un campo selezionato in un modulo - Documenti Marketo - Documentazione del prodotto
-title: Definire i valori in un campo radio o selezionato in un modulo
+title: Definire i valori in un pulsante di scelta o campo selezionato in un modulo
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# Definire i valori in un campo radio o selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
+# Definire i valori in un pulsante di scelta o campo selezionato in un modulo {#define-values-in-a-radio-or-selected-field-in-a-form}
 
 Dopo aver [impostato un tipo di campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o tipo di selezione, è necessario definire i valori tra cui l&#39;utente può scegliere. Ecco come.
 

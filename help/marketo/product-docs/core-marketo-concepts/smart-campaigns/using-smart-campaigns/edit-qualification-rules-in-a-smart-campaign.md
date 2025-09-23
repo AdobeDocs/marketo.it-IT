@@ -4,10 +4,10 @@ description: Modificare le regole di qualificazione in una campagna intelligente
 title: Modificare le regole di qualificazione in una campagna avanzata
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 6%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna avanzata. Per impostazione predefinita, anche se un utente attiva più volte una campagna avanzata, il messaggio viene inviato tramite il flusso solo una volta. Per modificare queste impostazioni, procedere come segue.
 
-1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Pianifica]** e quindi su **[!UICONTROL Modifica impostazioni]**.
+1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Schedule]** e quindi su **[!UICONTROL Edit Settings]**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-1.png)
 
    >[!TIP]
    >
-   >Puoi anche fare clic su **[!UICONTROL Modifica]** a destra di &quot;Impostazioni Smart Campaign&quot;.
+   >Puoi anche fare clic su **[!UICONTROL Edit]** a destra di &quot;Impostazioni Smart Campaign&quot;.
 
-1. Scegli la frequenza con cui eseguire le persone tramite il flusso di Smart Campaign: **[!UICONTROL una sola volta]**, **[!UICONTROL ogni volta]** o **una volta ogni # giorni**/**settimane**/**mesi**.
+1. Scegli la frequenza con cui eseguire le persone tramite il flusso di Smart Campaign: **[!UICONTROL only once]**, **[!UICONTROL every time]** o **una volta ogni # giorni**/**settimane**/**mesi**.
 
    ![](assets/edit-qualification-rules-in-a-smart-campaign-2.png)
 

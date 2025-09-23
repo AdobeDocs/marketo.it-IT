@@ -4,10 +4,10 @@ description: Approvare, annullare l’approvazione o eliminare una pagina di des
 title: Approvare, annullare l’approvazione o eliminare una pagina di destinazione
 exl-id: ecd964e2-8363-495f-aaf0-e5ba452cb280
 feature: Landing Pages
-source-git-commit: 40f7cc71d816505149ee56b8dca34b5e17ae75b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -49,7 +49,7 @@ Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazio
 
 ## Eliminare una pagina di destinazione {#delete-a-landing-page}
 
-1. Seleziona la pagina di destinazione desiderata. Fare clic sul menu a discesa **[!UICONTROL Landing Page Actions]** e selezionare **[!UICONTROL Delete]**.
+1. Seleziona la pagina di destinazione desiderata. Fai clic sul menu a discesa **[!UICONTROL Landing Page Actions]** e seleziona **[!UICONTROL Delete]**.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-5.png)
 
@@ -67,7 +67,7 @@ Puoi anche fare clic con il pulsante destro del mouse sulla pagina di destinazio
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-7.png)
 
-1. Seleziona le pagine di destinazione desiderate. Fare clic sul menu a discesa **[!UICONTROL Landing Page Actions]** e selezionare **[!UICONTROL Delete]**.
+1. Seleziona le pagine di destinazione desiderate. Fai clic sul menu a discesa **[!UICONTROL Landing Page Actions]** e seleziona **[!UICONTROL Delete]**.
 
    ![](assets/approve-unapprove-or-delete-a-landing-page-8.png)
 

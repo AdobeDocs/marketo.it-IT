@@ -6,9 +6,9 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 14583b7fa148aa2b03c8cf6316b9a106c11717b7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Benvenuto in Marketo. Puoi utilizzare il seguente elenco di controllo come elenc
 1. Seleziona un CNAME e-mail per i collegamenti di tracciamento con brand
 1. Chiedi al reparto IT di impostare un record DNS per il CNAME e-mail
 1. Inserire nell&#39;elenco Consentiti Chiedi al reparto IT di Marketo
-1. Configura DKIM e SPF nell&#39;area [!UICONTROL Amministratore]
+1. Configurare DKIM e SPF nell&#39;area [!UICONTROL Admin]
 1. Configura MX per `[FromDomain1]`
 1. Una volta che l’E-mail CNAME è stata completata, imposta il tuo CNAME e-mail in Marketo
 

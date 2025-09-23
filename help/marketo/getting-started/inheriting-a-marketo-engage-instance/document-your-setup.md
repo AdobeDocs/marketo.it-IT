@@ -3,14 +3,14 @@ description: Documento istanza ereditato La tua configurazione - Documentazione 
 title: Documento istanza ereditata Configurazione
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '299'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Istanza ereditata: documenta la configurazione {#inherited-instance-document-your-setup}
+# Istanza ereditata: documenta la tua configurazione {#inherited-instance-document-your-setup}
 
 Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita un’istanza stabilita, il passaggio successivo consiste nel creare o aggiornare la documentazione sulla configurazione dell’istanza e sullo stack tecnologico. Sia che la crei tramite foglio di calcolo o un’applicazione di gestione dei progetti, la documentazione sarà un’ottima risorsa per monitorare lo stato di avanzamento e registrare i dettagli, nonché per mantenere strutturata e sostenibile l’istanza.
 

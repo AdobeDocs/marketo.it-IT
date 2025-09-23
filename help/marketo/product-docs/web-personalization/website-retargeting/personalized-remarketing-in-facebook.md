@@ -4,10 +4,10 @@ description: Remarketing personalizzato in Facebook - Documentazione di Marketo 
 title: Remarketing personalizzato in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '254'
-ht-degree: 6%
+ht-degree: 7%
 
 ---
 
@@ -18,7 +18,7 @@ Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti util
 >[!PREREQUISITES]
 >
 >* Completare l&#39;installazione di [Retargeting con dati Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Rivedi la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentazione di Facebook su tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e remarketing.
+>* Rivedi la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentazione di Facebook su tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e remarketing.
 
 ## Creazione di un pubblico in [!DNL Facebook] {#creating-an-audience-in-facebook}
 

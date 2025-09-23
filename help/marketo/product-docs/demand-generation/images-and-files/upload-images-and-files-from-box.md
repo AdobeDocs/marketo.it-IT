@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359868
 description: Caricare immagini e file dalla confezione - Documentazione Marketo - Documentazione del prodotto
-title: Carica immagini e file da Box
+title: Caricare immagini e file da Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
-# Carica immagini e file da Box {#upload-images-and-files-from-box}
+# Caricare immagini e file da Box {#upload-images-and-files-from-box}
 
 Puoi caricare file da Box per utilizzarli nelle pagine di destinazione e nelle e-mail.
 

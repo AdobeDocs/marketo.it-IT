@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360403
 description: Confrontare l’efficacia del programma con Program Analyzer (Analizzatore di programmi) - Documentazione di Marketo - Documentazione del prodotto
-title: Confrontare l’efficacia del programma con l’Analizzatore di programmi
+title: Confrontare l’efficacia del programma con l’analizzatore di programmi
 exl-id: 6e54d0a4-3cff-46cf-be0d-1992a39d8c03
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '418'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

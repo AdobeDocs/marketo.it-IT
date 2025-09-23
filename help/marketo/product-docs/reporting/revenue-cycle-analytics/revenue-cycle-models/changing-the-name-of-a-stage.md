@@ -1,21 +1,21 @@
 ---
 unique-page-id: 4718675
 description: Modifica del nome di una fase - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica del nome di una fase
+title: Modificare il nome di una fase
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 2%
+ht-degree: 26%
 
 ---
 
-# Modifica del nome di una fase {#changing-the-name-of-a-stage}
+# Modificare il nome di una fase {#changing-the-name-of-a-stage}
 
 Cambiare idea? Non è un problema. Ridenominare una fase nel modellatore del ciclo dei ricavi è facile.
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-23-3a18-3a34.png)
 

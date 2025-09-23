@@ -4,14 +4,14 @@ description: Note sulla versione - Agosto 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Agosto 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '399'
-ht-degree: 0%
+source-wordcount: '398'
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: agosto 2014 {#release-notes-august}
+# Note sulla versione - Agosto 2014 {#release-notes-august}
 
 Le seguenti funzioni sono incluse nella versione di agosto 2014. Verifica la disponibilità delle funzioni nella tua edizione di Marketo. Torna indietro dopo il rilascio per collegamenti alla documentazione dettagliata delle funzioni.
 
@@ -69,7 +69,7 @@ Hai chiesto alla community e abbiamo consegnato il progetto! Ora puoi includere,
 
 ![](assets/image2014-9-16-12-3a23-3a43.png)
 
-## Segmentazione e targeting 1:1 migliorati {#enhanced-segmentation-and-targeting}
+## Segmentazione e targeting migliorati per 1:1 {#enhanced-segmentation-and-targeting}
 
 Ora puoi utilizzare operatori di filtro avanzati per il targeting di visitatori noti.
 

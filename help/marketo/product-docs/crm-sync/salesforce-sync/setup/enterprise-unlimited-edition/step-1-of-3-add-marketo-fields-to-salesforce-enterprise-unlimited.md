@@ -4,10 +4,10 @@ description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterpris
 title: 'Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Enterprise/Unlimited)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '719'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 

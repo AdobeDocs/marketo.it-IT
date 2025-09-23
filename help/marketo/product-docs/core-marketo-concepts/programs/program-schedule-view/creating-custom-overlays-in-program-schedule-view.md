@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147251
 description: Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma - Documenti Marketo - Documentazione del prodotto
-title: Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma
+title: Creazione di sovrapposizioni personalizzate nella vista Pianificazione del programma
 exl-id: 066e7b4d-ff2c-4968-be1e-6d95d680a59a
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 1%
+ht-degree: 21%
 
 ---
 
-# Creazione di sovrapposizioni personalizzate nella vista Pianificazione programma {#creating-custom-overlays-in-program-schedule-view}
+# Creazione di sovrapposizioni personalizzate nella vista Pianificazione del programma {#creating-custom-overlays-in-program-schedule-view}
 
 Puoi creare sovrapposizioni personalizzate per visualizzare le voci pertinenti alle tue esigenze.
 

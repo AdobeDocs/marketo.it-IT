@@ -1,16 +1,16 @@
 ---
 description: Aggiungere o rimuovere utenti chat - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi o rimuovi utenti chat
+title: Aggiungere o rimuovere utenti dalla chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# Aggiungi o rimuovi utenti chat {#add-or-remove-chat-users}
+# Aggiungere o rimuovere utenti dalla chat {#add-or-remove-chat-users}
 
 Per aggiungere o rimuovere utenti chat, segui la procedura riportata di seguito.
 
@@ -72,7 +72,7 @@ Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone già del
 
    ![](assets/add-or-remove-chat-users-10.png)
 
-1. Selezionare **[!UICONTROL Access Dynamic Chat]** e fare clic su **[!UICONTROL Save]**.
+1. Seleziona **[!UICONTROL Access Dynamic Chat]** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/add-or-remove-chat-users-11.png)
 

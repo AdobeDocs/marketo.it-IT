@@ -4,10 +4,10 @@ description: Aggiungere un’immagine a una pagina di destinazione in formato li
 title: Aggiungere un’immagine a una pagina di destinazione in formato libero
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 4%
+ht-degree: 27%
 
 ---
 

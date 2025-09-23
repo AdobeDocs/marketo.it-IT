@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949216
 description: SEO - Aggiungi pagine - Documentazione Marketo - Documentazione del prodotto
-title: SEO - Aggiungi pagine
+title: 'SEO: aggiungere pagine'
 exl-id: dfb51308-7ee7-43b6-9e56-e820080a6b42
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 7%
 
 ---
 
-# SEO - Aggiungi pagine {#seo-add-pages}
+# SEO: aggiungere pagine {#seo-add-pages}
 
 Hai delle pagine! Marketo SEO eseguirà automaticamente la ricerca per indicizzazione del sito e il tracciamento. Nel caso in cui ne abbiamo saltati alcuni, inseriscili nell’app SEO come questa:
 
-1. Vai alla sezione **[!UICONTROL Pagine]**.
+1. Passare alla sezione **[!UICONTROL Pages]**.
 
    ![](assets/image2014-9-18-12-3a55-3a19.png)
 
-1. Fai clic su **[!UICONTROL Aggiungi pagine]**.
+1. Fai clic su **[!UICONTROL Add Pages]**.
 
    ![](assets/image2014-9-18-12-3a55-3a53.png)
 
-1. Digita gli URL da aggiungere. Fare clic su **[!UICONTROL Aggiungi]**.
+1. Digita gli URL da aggiungere. Fai clic su **[!UICONTROL Add]**.
 
    ![](assets/image2014-9-18-12-3a56-3a15.png)
 

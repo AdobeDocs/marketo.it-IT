@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504343
 description: Creare un segmento utilizzando dati di persona noti - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un segmento utilizzando i dati della persona nota
+title: Creare un segmento utilizzando i dati noti della persona
 exl-id: 429d8678-2e62-4b1e-bda1-675ff3a1aae2
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Creare un segmento utilizzando i dati della persona nota {#create-a-segment-using-known-person-data}
+# Creare un segmento utilizzando i dati noti della persona {#create-a-segment-using-known-person-data}
 
 Di seguito viene descritto come creare un segmento utilizzando i valori dei dati di persona noti.
 

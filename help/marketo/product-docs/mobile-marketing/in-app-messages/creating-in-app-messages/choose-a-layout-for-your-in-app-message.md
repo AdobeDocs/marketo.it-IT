@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10100434
 description: Scegliere un layout per il messaggio in-app - Documentazione Marketo - Documentazione del prodotto
-title: Scegli un layout per il messaggio in-app
+title: Scegliere un layout per il messaggio in-app
 exl-id: e36507d1-df04-43ac-9da0-14116db3add6
 feature: Mobile Marketing
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '479'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Scegli un layout per il messaggio in-app {#choose-a-layout-for-your-in-app-message}
+# Scegliere un layout per il messaggio in-app {#choose-a-layout-for-your-in-app-message}
 
 Marketo fornisce sei layout per la creazione di messaggi in-app.
 

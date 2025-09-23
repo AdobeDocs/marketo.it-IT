@@ -2,10 +2,10 @@
 description: Utilizzo dell’invio in blocco di e-mail per le vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
 title: Utilizzo dell’e-mail per le vendite in blocco in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '596'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

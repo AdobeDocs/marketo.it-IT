@@ -3,9 +3,9 @@ description: Note sulla versione - Gennaio 2021 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1234'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Le seguenti funzionalità saranno rilasciate il **15 gennaio 2021**.
 * **API modulo**: richiama le informazioni sul lead o attiva le campagne di acquisizione durante l&#39;estrazione dei dati da moduli non Marketo. I moduli non Marketo possono essere integrati con Marketo Engage tramite API REST. La nuova API consente di simulare l’invio di moduli Marketo Engage con tutte le funzionalità associate.
 * **API per le pagine di destinazione**: semplifica i flussi di lavoro di modifica e traduzione nelle applicazioni integrate con la nuova API di anteprima della pagina di destinazione. I fornitori di terze parti possono ora eseguire il rendering delle anteprime completamente personalizzate delle pagine di destinazione senza effettuare l’accesso a Marketo Engage.  L’API di anteprima pagina di destinazione consente di modificare e localizzare i flussi di lavoro in applicazioni integrate di terze parti.
 
-## E-mail marketing {#email-marketing}
+## Marketing via e-mail {#email-marketing}
 
 * **[Limiti di recupero oggetti personalizzati aumentati](/help/marketo/product-docs/administration/email-setup/change-custom-object-retrieval-limits-in-velocity-scripting.md)**: gli sviluppatori di script di velocità e-mail possono aumentare rapidamente il numero di oggetti personalizzati a 100 tramite sostituzione self-service. Gli addetti al marketing possono aumentare l’efficacia delle campagne intelligenti accedendo a un numero maggiore di oggetti personalizzati di primo e secondo livello.
 
@@ -69,7 +69,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ![(stella)](assets/yellow-star.png)
 
-* **Limitazione della connessione e-mail (BETA)**: migliora il recapito messaggi e-mail e ridimensiona le comunicazioni di vendita 1:1 con Limitazione della connessione e-mail per [!DNL Sales Connect]. La nostra nuova tecnologia di limitazione gestisce automaticamente la tempistica di invio delle e-mail per creare esperienze ottimizzate per [!DNL Exchange] e gli utenti Gmail. Riduzione o eliminazione dell&#39;utilizzo di applicazioni di invio di posta elettronica in blocco di terze parti.
+* **Limitazione connessione e-mail (BETA)**: migliora il recapito messaggi e-mail e ridimensiona le comunicazioni di vendita 1:1 con limitazione connessione e-mail per [!DNL Sales Connect]. La nostra nuova tecnologia di limitazione gestisce automaticamente la tempistica di invio delle e-mail per creare esperienze ottimizzate per [!DNL Exchange] e gli utenti Gmail. Riduzione o eliminazione dell&#39;utilizzo di applicazioni di invio di posta elettronica in blocco di terze parti.
 * **Tracciamento mancato recapito connessione e-mail**: ottieni da insight la qualità del lead e le prestazioni del modello e-mail con il nuovo rapporto e-mail non recapitate. [!DNL Exchange] e gli utenti Gmail possono scegliere di ricevere le notifiche di mancato recapito che verranno riportate in Live Feed, Cartelle e-mail, Template Analytics e Campaign Analytics.
 * **Configurazione pagina profilo**: gestisci facilmente le preferenze utente nella nuova pagina profilo. Modifica la password, modifica le impostazioni di geolocalizzazione e lingua e rivedi gli stati delle integrazioni da un’unica posizione.
 * **Gestione modelli**: organizza i modelli e-mail per le vendite in categorie con una nuova funzione di trascinamento per garantire un accesso rapido ai modelli rilevanti e ridurre i tempi di ricerca.
@@ -83,4 +83,4 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 **_Webinar sulla versione del prodotto_**
 
-Vuoi saperne di più su queste funzioni e miglioramenti? [registratevi ora](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) per partecipare a un webinar live con il nostro team di prodotto il 21 gennaio alle 13:00 PT / 16:00 ET e approfondire ulteriormente queste innovazioni.
+Vuoi saperne di più su queste funzioni e miglioramenti? [registrati ora](https://engage.marketo.com/January_21_Release_Webinar_Registration.html) per unirti a noi il 21 gennaio alle 13:00 PT / 4:00 PM ET e partecipare a un webinar live con il nostro team di prodotto per approfondire queste innovazioni.:00

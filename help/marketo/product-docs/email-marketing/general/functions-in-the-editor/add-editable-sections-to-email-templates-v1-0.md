@@ -4,14 +4,14 @@ description: Aggiungere sezioni modificabili ai modelli e-mail v1.0 - Documentaz
 title: Aggiungere sezioni modificabili ai modelli e-mail v1.0
 exl-id: f397aa8e-0d0b-4007-91e1-9b9158bd6432
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '100'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Aggiungi sezioni modificabili ai modelli di e-mail v1.0 {#add-editable-sections-to-email-templates-v1.0}
+# Aggiungere sezioni modificabili ai modelli e-mail v1.0 {#add-editable-sections-to-email-templates-v1.0}
 
 Se stai creando un modello nell&#39;Editor modelli e-mail v1.0, puoi rendere modificabile qualsiasi sezione racchiudendola con uno speciale `<div>`.
 

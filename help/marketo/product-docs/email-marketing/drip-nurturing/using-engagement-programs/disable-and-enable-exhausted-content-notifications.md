@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359877
 description: Disattivare e abilitare le notifiche di contenuti esauriti - Documenti Marketo - Documentazione del prodotto
-title: Disabilita e abilita notifiche di contenuti esauriti
+title: Disabilitare e abilitare notifiche di contenuto esaurite
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Disabilita e abilita notifiche di contenuti esauriti {#disable-and-enable-exhausted-content-notifications}
+# Disabilitare e abilitare notifiche di contenuto esaurite {#disable-and-enable-exhausted-content-notifications}
 
 Quando le persone esauriscono tutti i contenuti di un flusso, Marketo può inviarti una notifica. Puoi disabilitare/abilitare le notifiche in base alle tue esigenze. Ecco come.
 

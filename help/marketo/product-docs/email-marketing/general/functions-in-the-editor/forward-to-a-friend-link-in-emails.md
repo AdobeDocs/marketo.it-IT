@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900581
 description: Inoltrare a un amico Link nelle e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Inoltra a un collegamento amico nelle e-mail
+title: Inoltrare un collegamento a un amico via e-mail
 exl-id: 7addac65-4207-419f-845c-d6b2d08d299c
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '681'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Inoltra a un collegamento amico nelle e-mail {#forward-to-a-friend-link-in-emails}
+# Inoltrare un collegamento a un amico via e-mail {#forward-to-a-friend-link-in-emails}
 
 L’aggiunta del collegamento &quot;Inoltra all’amico&quot; alle e-mail consente di tenere traccia delle persone che hanno ricevuto un’e-mail inoltrata tramite questo collegamento e di aggiungerle automaticamente come nuova persona se non sono già presenti nel database.
 

@@ -1,29 +1,29 @@
 ---
 unique-page-id: 1147294
 description: Filtrare il calendario di marketing - Documentazione di Marketo - Documentazione del prodotto
-title: Filtrare il calendario di marketing
+title: Filtrare il calendario marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 
-# Filtrare il calendario di marketing {#filtering-the-marketing-calendar}
+# Filtrare il calendario marketing {#filtering-the-marketing-calendar}
 
 Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le informazioni visualizzate nel calendario.
 
-1. Fare clic sul riquadro **[!UICONTROL Calendario]**.
+1. Fare clic sul riquadro **[!UICONTROL Calendar]**.
 
 ![](assets/2017-05-10-15-30-47.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Tipo di voce]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Entry Type]**.
 
    >[!NOTE]
    >
-   >I tipi di voce predefiniti saranno **[!UICONTROL E-mail]** **[!UICONTROL Programmi]** e **[!UICONTROL Campagne avanzate con e-mail]**.
+   >I tipi di voce predefiniti saranno **[!UICONTROL Email]** **[!UICONTROL Programs]** e **[!UICONTROL Smart Campaigns with Email]**.
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 

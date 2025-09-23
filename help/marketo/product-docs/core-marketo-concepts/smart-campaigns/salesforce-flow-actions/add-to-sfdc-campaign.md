@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147034
 description: Aggiungi a SFDC Campaign - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungi a SFDC Campaign
+title: Aggiungere a campagna SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Aggiungi a SFDC Campaign {#add-to-sfdc-campaign}
+# Aggiungere a campagna SFDC {#add-to-sfdc-campaign}
 
 Questo passaggio di flusso può essere utilizzato nelle campagne Marketo Engage o come singolo passaggio di flusso per aggiungere persone come lead in una campagna Salesforce. Se il lead non esiste ancora in Salesforce, verrà automaticamente sincronizzato e aggiunto alla campagna con lo stato specificato.
 

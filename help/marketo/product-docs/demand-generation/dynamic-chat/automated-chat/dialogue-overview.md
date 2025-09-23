@@ -1,16 +1,16 @@
 ---
 description: Panoramica della finestra di dialogo - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica della finestra di dialogo
+title: Panoramica sul dialogo
 feature: Dynamic Chat
 exl-id: c5e5650f-5f34-4c04-b287-62556bc35593
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Panoramica della finestra di dialogo {#dialogue-overview}
+# Panoramica sul dialogo {#dialogue-overview}
 
 Le finestre di dialogo sono conversazioni chat individuali. In ogni finestra di dialogo, decidi dove verrà visualizzata la conversazione chat specifica, a chi verrà mostrata e quale sarà il contenuto della conversazione. Ogni finestra di dialogo dispone anche di una pagina di rapporto in cui puoi monitorare l’efficacia.
 

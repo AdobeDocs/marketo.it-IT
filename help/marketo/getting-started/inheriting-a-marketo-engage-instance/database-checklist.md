@@ -3,10 +3,10 @@ description: Elenco di controllo del database delle istanze ereditate - Document
 title: Elenco di controllo del database delle istanze ereditate
 feature: Getting Started
 exl-id: 278a6a2f-7b68-4003-8727-129e0dc96c12
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
@@ -42,7 +42,7 @@ Comprendi il numero totale di persone, persone commerciabili e principali sorgen
 <p>Esempio di caso d’uso Marketing Suspended: record di persone attivamente coinvolte nelle vendite in opportunità in fase avanzata per le quali desideri eliminare le comunicazioni di marketing.</td>
   </tr>
    <tr>
-   <td>INSERISCO NELL'ELENCO BLOCCATI DI</td>
+   <td>Elenco Bloccati</td>
    <td><li>Quali sono i criteri per <a href="/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md" target="_blank">inserire nell'elenco Bloccati i record</a>? Inserire nell'elenco Bloccati Ci sono troppe persone che sono?</li></td>
   </tr>
   <tr>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951877
 description: Informazioni sull’area di analisi delle opportunità del programma - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sull’area di analisi delle opportunità del programma
+title: Informazioni su area di analisi delle opportunità del programma
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '907'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Informazioni sull’area di analisi delle opportunità del programma {#understanding-the-program-opportunity-analysis-area}
+# Informazioni su area di analisi delle opportunità del programma {#understanding-the-program-opportunity-analysis-area}
 
 ## Panoramica {#overview}
 

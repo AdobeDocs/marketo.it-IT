@@ -1,33 +1,33 @@
 ---
 unique-page-id: 2360247
 description: Modificare l’etichetta predefinita Da e-mail e Da - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica l'etichetta Predefinita Da e-mail e Da
+title: Modificare il predefinito da e-mail e da etichetta
 exl-id: ad0fa157-28f9-4008-a46c-84749c1987a9
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 17%
 
 ---
 
-# Modifica l&#39;etichetta Predefinita Da e-mail e Da {#change-the-default-from-email-and-from-label}
+# Modificare il predefinito da e-mail e da etichetta {#change-the-default-from-email-and-from-label}
 
-Ogni utente amministratore ha la possibilità di modificare i valori predefiniti per **[!UICONTROL Da e-mail]** e **[!UICONTROL Da etichetta]** in modo che, quando crea nuove e-mail, vengano utilizzate le impostazioni predefinite.
+Ogni utente amministratore ha la possibilità di modificare i valori predefiniti per **[!UICONTROL From Email]** e **[!UICONTROL From Label]** in modo che quando crea nuove e-mail vengano utilizzate le impostazioni predefinite.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai alla sezione **[!UICONTROL Amministratore]**.
+1. Passare alla sezione **[!UICONTROL Admin]**.
 
    ![](assets/change-the-default-from-email-and-from-label-1.png)
 
-1. Fai clic su **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/change-the-default-from-email-and-from-label-2.png)
 
-1. Immettere i valori predefiniti desiderati per **[!UICONTROL Da e-mail]** e **[!UICONTROL Da etichetta]**, quindi fare clic su **[!UICONTROL Salva modifiche]**.
+1. Immettere i valori predefiniti desiderati per **[!UICONTROL From Email]** e **[!UICONTROL From Label]**, quindi fare clic su **[!UICONTROL Save Changes]**.
 
    ![](assets/change-the-default-from-email-and-from-label-3.png)
 

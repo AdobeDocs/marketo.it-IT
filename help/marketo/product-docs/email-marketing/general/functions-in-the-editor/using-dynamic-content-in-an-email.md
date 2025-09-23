@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2950617
 description: Utilizzo di contenuti dinamici in un’e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo di contenuti dinamici in un messaggio e-mail
+title: Utilizzo di contenuto dinamico in un’e-mail
 exl-id: a1178f76-6760-4a4a-9510-f129ee6a9032
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilizzo di contenuti dinamici in un messaggio e-mail {#using-dynamic-content-in-an-email}
+# Utilizzo di contenuto dinamico in un’e-mail {#using-dynamic-content-in-an-email}
 
 >[!PREREQUISITES]
 >

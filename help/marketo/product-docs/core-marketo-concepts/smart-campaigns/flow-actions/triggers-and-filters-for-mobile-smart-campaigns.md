@@ -1,17 +1,17 @@
 ---
 unique-page-id: 9437991
 description: Attivatori e filtri per campagne intelligenti mobile - Documentazione di Marketo - Documentazione del prodotto
-title: Attivatori e filtri per campagne intelligenti mobile
+title: Attivatori e filtri per campagne avanzate per dispositivi mobili
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Attivatori e filtri per campagne intelligenti mobile {#triggers-and-filters-for-mobile-smart-campaigns}
+# Attivatori e filtri per campagne avanzate per dispositivi mobili {#triggers-and-filters-for-mobile-smart-campaigns}
 
 Puoi impostare trigger e filtri per una campagna avanzata dell’app mobile.
 
@@ -103,7 +103,7 @@ L&#39;App Mobile È/È Stata Aperta
 
 Ha/Ha Avuto Attività Di App Mobile
 
-Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Ha un&#39;attività in app mobile - trigger
 

@@ -3,16 +3,16 @@ description: Glossario SMS - Documentazione Marketo - Documentazione del prodott
 title: Glossario SMS
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '734'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 # Glossario SMS {#sms-glossary}
 
-Di seguito sono riportati alcuni termini comuni che incontrerai quando utilizzi i messaggi SMS Vibes con il Marketo Engage.
+Di seguito sono riportati alcuni termini comuni che potresti incontrare durante l’utilizzo dei messaggi SMS Vibes con Marketo Engage.
 
 <table>
 <thead>
@@ -32,10 +32,10 @@ Di seguito sono riportati alcuni termini comuni che incontrerai quando utilizzi 
   </tr>
   <tr>
     <td>Chiave società</td>
-    <td>Company_key è un identificatore alfanumerico univoco per il tuo account di piattaforma. Se disponi di più account aziendali nella piattaforma Vibes (ad esempio account figlio), potresti disporre di più company_keys. Ogni istanza del Marketo Engage può essere mappata a una sola Vibes company_key.</td>
+    <td>Company_key è un identificatore alfanumerico univoco per il tuo account di piattaforma. Se disponi di più account aziendali nella piattaforma Vibes (ad esempio account figlio), potresti disporre di più company_keys. Ogni istanza di Marketo Engage può essere mappata a una sola Vibes company_key.</td>
   </tr>
   <tr>
-    <td>CTA (invito all’azione)</td>
+    <td>CTA (call to action)</td>
     <td>Segnaletica digitale o fisica o script verbale per acquisire gli abbonati in un programma di messaggi di testo ricorrente o in un elenco di abbonamenti. Possono essere inserite online, sui social media, nelle e-mail, nella stampa, ecc.</td>
   </tr>
   <tr>
@@ -58,7 +58,7 @@ Di seguito sono riportati alcuni termini comuni che incontrerai quando utilizzi 
   </tr>
   <tr>
     <td>Evento</td>
-    <td>Un evento è un’occorrenza definita che può essere inviata alla piattaforma Vibes e utilizzata per attivare azioni attivate dall’API, inclusi gli invii di messaggi. Ogni evento contiene dati specifici dell’evento, tra cui un event_type, utilizzato per determinare con quale campagna di messaggi attivata da API corrisponde. L’API Evento può essere attivata tramite Webhook nel Marketo Engage. Ulteriori informazioni con il riferimento <a href="https://developer-platform.vibes.com/reference/event-api">API evento</a>.</td>
+    <td>Un evento è un’occorrenza definita che può essere inviata alla piattaforma Vibes e utilizzata per attivare azioni attivate dall’API, inclusi gli invii di messaggi. Ogni evento contiene dati specifici dell’evento, tra cui un event_type, utilizzato per determinare con quale campagna di messaggi attivata da API corrisponde. L’API Evento può essere attivata tramite Webhook in Marketo Engage. Ulteriori informazioni con il riferimento <a href="https://developer-platform.vibes.com/reference/event-api">API evento</a>.</td>
   </tr>
   <tr>
     <td>Parola chiave</td>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360207
 description: Creazione di un utente solo API - Documentazione di Marketo - Documentazione del prodotto
-title: Creare un utente solo API
+title: Creare un utente solo per API
 exl-id: 23c92255-07a8-41c2-b7b8-8e495d135671
 feature: Users and Roles
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 
-# Creare un utente solo API {#create-an-api-only-user}
+# Creare un utente solo per API {#create-an-api-only-user}
 
 Se desideri eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}, devi creare un utente solo API. Ecco come.
 
@@ -27,7 +27,7 @@ Se desideri eseguire l&#39;integrazione con Marketo tramite [REST API](https://e
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-an-api-only-user-1.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359930
 description: Archiviare e annullare l’archiviazione dei contenuti in streaming - Documentazione di Marketo - Documentazione del prodotto
-title: Archiviazione e annullamento dell'archiviazione dei contenuti in streaming
+title: Archiviazione e annullamento dell’archiviazione del contenuto del flusso
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Archiviazione e annullamento dell&#39;archiviazione dei contenuti in streaming {#archive-and-unarchive-stream-content}
+# Archiviazione e annullamento dell’archiviazione del contenuto del flusso {#archive-and-unarchive-stream-content}
 
 Se non desideri più utilizzare una parte di contenuto in un flusso, puoi [rimuoverla](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md) o archiviarla. Ecco come archiviare i contenuti.
 

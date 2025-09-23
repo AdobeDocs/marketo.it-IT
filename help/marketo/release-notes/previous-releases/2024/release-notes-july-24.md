@@ -3,26 +3,26 @@ description: Note sulla versione - Luglio 2024 - Documenti Marketo - Documentazi
 title: Note sulla versione - Luglio 2024
 feature: Release Information
 exl-id: ff63af41-2d33-40f8-abca-3fd9493e7916
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '521'
-ht-degree: 3%
+ht-degree: 23%
 
 ---
 
 # Note sulla versione: luglio 2024 {#release-notes-july-24}
 
-Di seguito trovi tutte le funzioni incluse nella versione di luglio 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Di seguito trovi tutte le funzioni incluse nella versione di luglio 2024. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
-Le note sulla versione specifiche per Adobe Dynamic Chat [ si trovano qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **26 luglio 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 26 luglio 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>

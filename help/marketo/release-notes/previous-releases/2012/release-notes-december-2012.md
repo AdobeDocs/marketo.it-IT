@@ -4,14 +4,14 @@ description: Note sulla versione - Dicembre 2012 - Documentazione di Marketo - D
 title: Note sulla versione - Dicembre 2012
 exl-id: d9d09c4b-6764-4638-9cb1-2882fb0947cc
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '367'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: dicembre 2012 {#release-notes-december}
+# Note sulla versione - Dicembre 2012 {#release-notes-december}
 
 La versione di dicembre include la funzionalità **Inoltra ad amico** molto prevista, oltre a diverse altre utilità. Le funzionalità contrassegnate con un asterisco (&#42;) sono disponibili solo in Select Edition e in RCA (Revenue Cycle Analytics).
 
@@ -66,7 +66,7 @@ Aggiungere campi opportunità personalizzati per arricchire i rapporti Analisi o
 
 ![](assets/image2014-9-23-10-3a52-3a23.png)
 
-## Ispettore campagna {#campaign-inspector}
+## Ispezionare campagna {#campaign-inspector}
 
 Ti sei mai chiesto quali campagne utilizzano un&#39;azione di flusso specifica, ad esempio [!UICONTROL Change Score] o [!UICONTROL Request Campaign]? O dove viene utilizzato un determinato filtro? Il nuovo [!UICONTROL Campaign Inspector] (disponibile dal Treasure Chest) consente di identificare queste campagne, nonché le campagne attive e le campagne con errori.
 

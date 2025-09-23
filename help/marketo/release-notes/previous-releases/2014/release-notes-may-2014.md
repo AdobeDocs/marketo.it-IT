@@ -4,14 +4,14 @@ description: Note sulla versione - Maggio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Maggio 2014
 exl-id: c7b5b2c1-ea3d-483b-8a65-c4d6313bfe31
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '453'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: maggio 2014 {#release-notes-may}
+# Note sulla versione - Maggio 2014 {#release-notes-may}
 
 Le seguenti funzioni sono incluse nella versione di maggio 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna a trovare i collegamenti agli articoli della Knowledge Base dettagliati per ogni funzione.
 

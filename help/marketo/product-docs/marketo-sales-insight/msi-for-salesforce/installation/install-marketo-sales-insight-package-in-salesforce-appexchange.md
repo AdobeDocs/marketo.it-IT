@@ -4,10 +4,10 @@ description: Installare il pacchetto Marketo Sales Insight in Salesforce AppExch
 title: Installare il pacchetto Marketo Sales Insight in Salesforce AppExchange
 exl-id: d0c54d6a-e9d5-4ddb-8679-873b61375a82
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360016
 description: Filtrare le persone in un rapporto con un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
-title: Filtrare le persone in un report con un elenco avanzato
+title: Filtrare le persone in un rapporto con un elenco avanzato
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Filtrare le persone in un report con un elenco avanzato {#filter-people-in-a-report-with-a-smart-list}
+# Filtrare le persone in un rapporto con un elenco avanzato {#filter-people-in-a-report-with-a-smart-list}
 
 Utilizza gli elenchi avanzati per filtrare i rapporti in base a attributi persona specifici.
 
@@ -27,7 +27,7 @@ Utilizza gli elenchi avanzati per filtrare i rapporti in base a attributi person
 * [Attività Web della società](/help/marketo/product-docs/reporting/basic-reporting/report-types/company-web-activity-report.md)
 * [Attività pagina web](/help/marketo/product-docs/reporting/basic-reporting/report-types/web-page-activity-report.md)
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2017-3-27-11-3a31-3a2.png)
 

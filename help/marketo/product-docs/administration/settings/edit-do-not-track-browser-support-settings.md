@@ -1,17 +1,17 @@
 ---
 unique-page-id: 6095047
 description: Modificare le impostazioni di supporto del browser "Do Not Track" (Non tenere traccia) - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica impostazioni di supporto browser "Do Not Track" (Non tenere traccia)
+title: Modificare le impostazioni di supporto al browser “Non tenere traccia”
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# Modifica impostazioni di supporto browser &quot;Do Not Track&quot; (Non tenere traccia) {#edit-do-not-track-browser-support-settings}
+# Modificare le impostazioni di supporto al browser “Non tenere traccia” {#edit-do-not-track-browser-support-settings}
 
 &quot;Do Not Track&quot; è una richiesta del browser per non essere tracciato in sistemi come Marketo. Puoi soddisfare questa richiesta con i seguenti passaggi.
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
    ![](assets/edit-do-not-track-browser-support-settings-3.png)
 
-1. Selezionare **[!UICONTROL Support]** e fare clic su **[!UICONTROL Save]**.
+1. Seleziona **[!UICONTROL Support]** e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/edit-do-not-track-browser-support-settings-4.png)
 

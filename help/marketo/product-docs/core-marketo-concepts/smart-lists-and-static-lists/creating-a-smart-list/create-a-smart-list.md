@@ -4,10 +4,10 @@ description: Creare un elenco avanzato - Documentazione di Marketo - Documentazi
 title: Creare un elenco avanzato
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 4bf27f7eb534ec76983a898d020f0b8c336a36dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzando filtri semplici. Ecco come crearne una.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-a-smart-list-1.png)
 
@@ -23,15 +23,15 @@ Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzan
 
    ![](assets/create-a-smart-list-2.png)
 
-1. In **[!UICONTROL Nuovo]**, fai clic su **[!UICONTROL Nuova risorsa locale]**.
+1. In **[!UICONTROL New]**, fare clic su **[!UICONTROL New Local Asset]**.
 
    ![](assets/create-a-smart-list-3.png)
 
-1. Seleziona **[!UICONTROL Elenco avanzato]**.
+1. Seleziona **[!UICONTROL Smart List]**.
 
    ![](assets/create-a-smart-list-4.png)
 
-1. Immetti un **[!UICONTROL Nome]** e fai clic su **[!UICONTROL Crea]**.
+1. Immettere **[!UICONTROL Name]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/create-a-smart-list-5.png)
 

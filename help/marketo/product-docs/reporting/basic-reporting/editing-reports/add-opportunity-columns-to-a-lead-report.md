@@ -4,10 +4,10 @@ description: Aggiungere colonne di opportunità a un rapporto sui lead - Documen
 title: Aggiungere colonne di opportunità a un rapporto sui lead
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per visualizzare le statistiche sulle opportunità nei rapporti sulle persone, puoi aggiungere colonne di opportunità.
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

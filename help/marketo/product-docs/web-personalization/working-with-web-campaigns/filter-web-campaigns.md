@@ -4,10 +4,10 @@ description: Filtrare campagne web - Documentazione di Marketo - Documentazione 
 title: Filtrare campagne web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 

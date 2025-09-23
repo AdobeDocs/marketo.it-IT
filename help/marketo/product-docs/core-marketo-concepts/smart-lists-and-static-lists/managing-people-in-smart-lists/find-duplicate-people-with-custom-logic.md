@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952636
 description: Trova persone duplicate con logica personalizzata - Documentazione Marketo - Documentazione del prodotto
-title: Trova persone duplicate con logica personalizzata
+title: Trovare persone duplicate con logica personalizzata
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '124'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
-# Trova persone duplicate con logica personalizzata {#find-duplicate-people-with-custom-logic}
+# Trovare persone duplicate con logica personalizzata {#find-duplicate-people-with-custom-logic}
 
 Marketo Engage dispone di un elenco avanzato del sistema che trova le persone duplicate in base ai loro indirizzi e-mail. Se desideri utilizzare un altro campo per trovare duplicati con, ecco come.
 
@@ -19,7 +19,7 @@ Marketo Engage dispone di un elenco avanzato del sistema che trova le persone du
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
 ![](assets/ma-2.png)
 
@@ -27,7 +27,7 @@ Marketo Engage dispone di un elenco avanzato del sistema che trova le persone du
 
    ![](assets/two-4.png)
 
-1. Trovare e trascinare il filtro **[!UICONTROL Duplicate Fields]** nell&#39;area di lavoro.
+1. Trova e trascina il filtro **[!UICONTROL Duplicate Fields]** nell&#39;area di lavoro.
 
    ![](assets/three-4.png)
 

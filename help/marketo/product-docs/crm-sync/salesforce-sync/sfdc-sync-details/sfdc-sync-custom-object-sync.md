@@ -4,14 +4,14 @@ description: Sincronizzazione SFDC - Sincronizzazione oggetti personalizzati - D
 title: Sincronizzazione SFDC - Sincronizzazione oggetto personalizzato
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Sincronizzazione SFDC: Sincronizzazione oggetto personalizzata {#sfdc-sync-custom-object-sync}
+# Sincronizzazione SFDC: sincronizzazione oggetto personalizzato {#sfdc-sync-custom-object-sync}
 
 Anche gli oggetti personalizzati creati nell&#39;istanza [!DNL Salesforce] possono far parte di Marketo.  Ecco come configurarlo.
 

@@ -4,10 +4,10 @@ description: Clonare un elenco o un elenco avanzato - Documentazione di Marketo 
 title: Clonare un elenco o un elenco avanzato
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Invece di creare un elenco avanzato da zero, risparmia tempo duplicandone uno simile e apportando modifiche. Ecco come.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/clone-a-list-or-smart-list-1.png)
 
-1. Selezionare l&#39;elenco avanzato che si desidera clonare. In **[!UICONTROL Azioni elenco]**, fare clic su **[!UICONTROL Clona elenco avanzato]**.
+1. Selezionare l&#39;elenco avanzato che si desidera clonare. In **[!UICONTROL List Actions]**, fare clic su **[!UICONTROL Clone Smart List]**.
 
    ![](assets/clone-a-list-or-smart-list-2.png)
 
-1. Immetti un **[!UICONTROL Nome]** e fai clic su **[!UICONTROL Clone]**.
+1. Immettere **[!UICONTROL Name]** e fare clic su **[!UICONTROL Clone]**.
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 

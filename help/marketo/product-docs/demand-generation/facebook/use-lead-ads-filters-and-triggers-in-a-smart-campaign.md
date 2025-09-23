@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095239
 description: Utilizzare filtri e attivatori per annunci in una campagna intelligente - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzare filtri e attivatori per annunci lead in una campagna avanzata
+title: Utilizzare filtri e attivatori per annunci sponsorizzati in una campagna avanzata
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 26%
 
 ---
 
-# Utilizzare filtri e attivatori per annunci lead in una campagna avanzata {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
+# Utilizzare filtri e attivatori per annunci sponsorizzati in una campagna avanzata {#use-lead-ads-filters-and-triggers-in-a-smart-campaign}
 
 Dopo aver abilitato [!UICONTROL Facebook Lead Ads], puoi utilizzarli nelle campagne intelligenti per verificare il successo del programma. Quando le persone inviano le proprie informazioni in un&#39;unità annuncio lead di [!DNL Facebook], queste vengono inviate immediatamente a Marketo.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8783141
 description: Inviare un esempio di notifica push - Documenti Marketo - Documentazione del prodotto
-title: Invia un esempio di notifica push
+title: Inviare un esempio di notifica push
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Invia un esempio di notifica push {#send-a-push-notification-sample}
+# Inviare un esempio di notifica push {#send-a-push-notification-sample}
 
 Puoi inviare un esempio per verificare che la notifica push funzioni correttamente.
 

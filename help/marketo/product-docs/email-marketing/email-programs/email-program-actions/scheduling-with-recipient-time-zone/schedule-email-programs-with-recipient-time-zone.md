@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12982903
 description: Pianificazione dei programmi e-mail con fuso orario del destinatario - Documentazione di Marketo - Documentazione del prodotto
-title: Pianificazione dei programmi e-mail con fuso orario del destinatario
+title: Pianificare i programmi e-mail con fuso orario del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '792'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Pianificazione dei programmi e-mail con fuso orario del destinatario {#schedule-email-programs-with-recipient-time-zone}
+# Pianificare i programmi e-mail con fuso orario del destinatario {#schedule-email-programs-with-recipient-time-zone}
 
 Esistono due possibili scenari quando si pianifica un programma e-mail mentre il fuso orario del destinatario è abilitato:
 

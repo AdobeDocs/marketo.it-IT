@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718666
 description: Utilizzo degli stadi dell’inventario del modello di ricavo - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo delle fasi di magazzino del modello di ricavo
+title: Utilizzo delle fasi di magazzino del modello di ricavi
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '239'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Utilizzo delle fasi di magazzino del modello di ricavo {#using-revenue-model-inventory-stages}
+# Utilizzo delle fasi di magazzino del modello di ricavi {#using-revenue-model-inventory-stages}
 
 Tutti i lead e gli account noti risiedono inizialmente nella fase di inventario. In questo pool di potenziali clienti i lead vengono coltivati fino a quando non sono pronti per la vendita. Non esiste alcun limite di tempo per una fase di inventario.
 

@@ -4,10 +4,10 @@ description: Note sulla versione - Gennaio 2020 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '794'
-ht-degree: 0%
+source-wordcount: '792'
+ht-degree: 1%
 
 ---
 
@@ -57,7 +57,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=it#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
+* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -74,6 +74,6 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 >
 >* **Deprecazione di TLS 1.0 e 1.1**: in un continuo sforzo di integrazione con la struttura delle versioni di Adobe, la rimozione di TLS 1.0 e TLS 1.1 verrà spostata al 13 gennaio 2020. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 >
->* **Aggiornamento** di ITP 2.1+ [!DNL Munchkin]: a causa delle modifiche ai criteri dei cookie per [!DNL Safari], la possibilità di [!DNL Munchkin] di tenere traccia degli utenti tra sessioni sullo stesso dominio sarà limitata da ITP a 1 o 7 giorni in base al browser e alla versione del browser utilizzati dal visitatore. Per questo, stiamo implementando un nuovo servizio web per consentire l’impostazione dei cookie di Munchkin con un’intestazione Set-Cookie tramite risposta HTTP. Ulteriori informazioni sull&#39;implementazione di questo nuovo servizio sono disponibili [qui](https://nation.marketo.com/docs/DOC-7351).
+>* **Aggiornamento [!DNL Munchkin] di ITP 2.1+**: a causa delle modifiche ai criteri dei cookie per [!DNL Safari], la possibilità di [!DNL Munchkin] di tenere traccia degli utenti tra sessioni sullo stesso dominio sarà limitata da ITP a 1 o 7 giorni in base al browser e alla versione del browser utilizzati dal visitatore. Per questo, stiamo implementando un nuovo servizio web per consentire l’impostazione dei cookie di Munchkin con un’intestazione Set-Cookie tramite risposta HTTP. Ulteriori informazioni sull&#39;implementazione di questo nuovo servizio sono disponibili [qui](https://nation.marketo.com/docs/DOC-7351).
 
 **_Webinar sulla versione del prodotto_** [Unisciti a noi](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) il 3 marzo alle 11:00AM PT / 2:00PM ET per un webinar live ospitato dal nostro team di prodotto e ulteriori informazioni sulle funzioni incluse in questa versione.

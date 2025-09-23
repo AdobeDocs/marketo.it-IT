@@ -4,14 +4,14 @@ description: Note sulla versione - Luglio 2013 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2013
 exl-id: efff413f-99fe-4db6-839b-1a922f8581d9
 feature: Release Information
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: luglio 2013 {#release-notes-july}
+# Note sulla versione - Luglio 2013 {#release-notes-july}
 
 Le seguenti funzioni sono incluse nella versione di luglio, pianificata per il rollout di venerdì 26 luglio.
 
@@ -39,6 +39,6 @@ Visualizzare e ordinare la griglia membri in base alla data di aggiunta del lead
 
 ![](assets/image2014-9-22-16-3a32-3a1.png)
 
-## Modifiche al controllo ortografico nell&#39;editor WYSIWYG {#changes-to-spell-check-in-wysiwyg-editor}
+## Modifiche al controllo ortografico in WYSIWYG Editor {#changes-to-spell-check-in-wysiwyg-editor}
 
-Il servizio utilizzato dall&#39;editor WYSIWYG per il controllo ortografico è stato interrotto. Il pulsante Controllo ortografia è stato rimosso dall’editor fino a quando non è stata trovata una sostituzione.
+Il servizio utilizzato dall’editor di WYSIWYG per il controllo ortografico è stato interrotto. Il pulsante Controllo ortografia è stato rimosso dall’editor fino a quando non è stata trovata una sostituzione.

@@ -4,10 +4,10 @@ title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1128'
-ht-degree: 1%
+source-wordcount: '1103'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ Sono possibili _molte_ combinazioni di flusso. Questo articolo contiene un esemp
 
 >[!PREREQUISITES]
 >
->Prima di poter utilizzare la scheda Documento, devi prima [configurarla](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} nel tuo account di Adobe.
+>Prima di poter utilizzare la scheda Documento, devi [configurarla](/help/marketo/product-docs/demand-generation/dynamic-chat/integrations/adobe-pdf-embed-api.md){target="_blank"} nel tuo account Adobe.
 
 ## Trasmetti schede Designer {#stream-designer-cards}
 
@@ -43,7 +43,7 @@ Il Designer Stream contiene più schede che è possibile aggiungere per modellar
  </tr>
  <tr>
   <td style="width:25%"><strong>Prenotazione riunione</strong></td>
-  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, un agente specifico o utilizzando regole personalizzate. Fai clic su <b>Aggiungi attributo</b> se desideri acquisire il nome o l'indirizzo e-mail dell'agente e assegnarlo al record della persona del visitatore della chat per eseguire query future (suggerimento: crea un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizzato</a> per mappare le informazioni dell'agente su in modo che non sovrascriva un campo di Marketo Engage standard).</td>
+  <td>Fornisce al visitatore un calendario delle date disponibili per pianificare una riunione. Scegli la disponibilità del calendario tramite round robin, un agente specifico o utilizzando regole personalizzate. Fai clic su <b>Aggiungi attributo</b> se desideri acquisire il nome o l'indirizzo e-mail dell'agente e assegnarlo al record della persona del visitatore della chat per eseguire query future (suggerimento: crea un <a href="/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md" target="_blank">campo personalizzato</a> per mappare le informazioni dell'agente su in modo da non sovrascrivere un campo Marketo Engage standard).</td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Obiettivo</strong></td>
@@ -52,7 +52,7 @@ Il Designer Stream contiene più schede che è possibile aggiungere per modellar
  <tr>
   <td style="width:25%"><strong>Azione*</strong></td>
   <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell'azienda (con tipo di dati <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string</a>) con valori impliciti che si desidera acquisire in base a un record del lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.
-  <p><i>* La scheda Azione richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).</i></td>
+  <p><i>* La scheda Azione richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Chat live</strong></td>
@@ -97,11 +97,11 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-6.png)
 
-1. Trascina la scheda [!UICONTROL Domanda].
+1. Trascinare la scheda [!UICONTROL Question].
 
    ![](assets/stream-designer-7.png)
 
-1. In [!UICONTROL Risposta chatbot], invia una parola con la tua domanda.
+1. In [!UICONTROL Chatbot Response], invia la tua domanda come desideri.
 
    ![](assets/stream-designer-8.png)
 
@@ -113,51 +113,51 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
    >
    >Poke è impostato su on per impostazione predefinita, il che mostra la domanda di apertura accanto all’icona della chat senza che il visitatore debba fare clic su di essa per visualizzarla. Poke è disponibile solo sulla prima scheda della conversazione.
 
-1. Immetti le risposte utente e fai clic su **[!UICONTROL Salva]**.
+1. Immettere le risposte utente e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-9.png)
 
    >[!NOTE]
    >
-   >**[!UICONTROL Modifica valori memorizzati]** è un passaggio facoltativo per coloro che desiderano memorizzare nel database un valore diverso da quello visualizzato ai visitatori nel chatbot per gli attributi mappati nella scheda Domanda (ad esempio: il visitatore vede &quot;Ottimizzazione motore di ricerca&quot;, il valore viene memorizzato come &quot;SEO&quot;).
+   >**[!UICONTROL Edit Stored Values]** è un passaggio facoltativo per coloro che desiderano memorizzare nel database un valore diverso da quello visualizzato ai visitatori nel chatbot per gli attributi mappati nella scheda Domanda (ad esempio, il visitatore vede &quot;Ottimizzazione del motore di ricerca&quot;, il valore viene memorizzato come &quot;SEO&quot;).
 
 1. Se si seleziona &quot;Sì&quot; si desidera pianificare un appuntamento, quindi trascinare l&#39;opzione nella scheda Programmazione appuntamenti.
 
    ![](assets/stream-designer-10.png)
 
-1. Nella colonna di destra fare clic su **[!UICONTROL Salva]**.
+1. Nella colonna di destra fare clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-11.png)
 
-1. Poiché si tratta di un obiettivo, trascina la scheda [!UICONTROL Obiettivo] sotto l&#39;Utilità di pianificazione appuntamenti.
+1. Poiché è un obiettivo, trascinare la scheda [!UICONTROL Goal] sotto l&#39;Utilità di pianificazione appuntamenti.
 
    ![](assets/stream-designer-12.png)
 
-1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Salva]**.
+1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-13.png)
 
-1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi di seguito quell&#39;opzione trascina su un&#39;altra scheda [!UICONTROL Domanda].
+1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi sotto quell&#39;opzione trascina un&#39;altra scheda [!UICONTROL Question].
 
    ![](assets/stream-designer-14.png)
 
-1. Inserisci la risposta e aggiungi le scelte di risposta per il visitatore. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Inserisci la risposta e aggiungi le scelte di risposta per il visitatore. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-15.png)
 
    >[!NOTE]
    >
-   >Puoi aggiungere altre risposte facendo clic su **[!UICONTROL Aggiungi risposta]**.
+   >È possibile aggiungere altre risposte facendo clic su **[!UICONTROL Add Response]**.
 
 1. Sotto la risposta &quot;Sì&quot;, trascina sulla scheda Info Capture per raccogliere l’e-mail del visitatore.
 
    ![](assets/stream-designer-16.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Tipo]** e seleziona **[!UICONTROL E-mail]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Type]** e seleziona **[!UICONTROL Email]**.
 
    ![](assets/stream-designer-17.png)
 
-1. Inserisci un messaggio chatbot e un segnaposto. Assicurarsi che l&#39;attributo sia mappato al campo appropriato nel Marketo Engage e fare clic su **[!UICONTROL Salva]**.
+1. Inserisci un messaggio chatbot e un segnaposto. Verificare che l&#39;attributo sia mappato al campo appropriato in Marketo Engage e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-18.png)
 
@@ -176,27 +176,27 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
     </tr>
     <tr>
      <td style="width:30%"><strong>Mappa risposta su attributo</strong></td>
-     <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento di Marketo Engage.</td>
+     <td>Consente di sincronizzare la risposta del visitatore al campo corrispondente nel record Persona nell’abbonamento Marketo Engage.</td>
     </tr>
    </table>
 
-1. Poiché la raccolta dell&#39;e-mail è un obiettivo, trascina la scheda [!UICONTROL Obiettivo] sotto Info Capture (Acquisizione informazioni).
+1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda [!UICONTROL Goal] sotto Info Capture.
 
    ![](assets/stream-designer-19.png)
 
-1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Salva]**.
+1. Assegna un nome all&#39;obiettivo (o scegliine uno esistente) e fai clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-20.png)
 
-1. Ricordati di aggiungere una risposta se dicono &quot;No&quot;. Un&#39;opzione consiste nel trascinare una scheda Messaggio qui sotto e dire &quot;grazie comunque&quot;. In questo esempio, forniremo loro invece un documento di PDF gratuito.
+1. Ricordati di aggiungere una risposta se dicono &quot;No&quot;. Un&#39;opzione consiste nel trascinare una scheda Messaggio qui sotto e dire &quot;grazie comunque&quot;. In questo esempio, forniremo loro invece un documento PDF gratuito.
 
    ![](assets/stream-designer-21.png)
 
-1. In questo esempio verrà creato un nuovo documento. Assegnagli un nome, immetti l&#39;URL del PDF che hai già ospitato e fai clic su **[!UICONTROL Salva]**.
+1. In questo esempio verrà creato un nuovo documento. Assegnare un nome, immettere l&#39;URL del PDF già ospitato e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
-1. Seleziona l&#39;interruttore **[!UICONTROL Anteprima]** per visualizzare l&#39;anteprima della finestra di dialogo.
+1. Seleziona l&#39;interruttore **[!UICONTROL Preview]** per visualizzare l&#39;anteprima della finestra di dialogo.
 
    ![](assets/stream-designer-23.png)
 
@@ -206,7 +206,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
 >[!NOTE]
 >
->Prima di fare clic su [!UICONTROL Publish], ricordati di assicurarti di avere [immesso gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Prima di fare clic su [!UICONTROL Publish], assicurati di aver [inserito gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

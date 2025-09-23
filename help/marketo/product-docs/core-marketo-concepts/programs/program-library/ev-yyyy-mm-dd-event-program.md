@@ -1,16 +1,16 @@
 ---
 description: Programma Evento EV-YYY-MM-DD - Documentazione Marketo - Documentazione del prodotto
-title: Programma Evento EV-YYY-MM-DD
+title: Programma evento EV-GG-MM-AAAA
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 10%
+ht-degree: 16%
 
 ---
 
-# Programma Evento EV-YYY-MM-DD {#ev-yyyy-mm-dd-event-program}
+# Programma evento EV-GG-MM-AAAA {#ev-yyyy-mm-dd-event-program}
 
 Questo è un esempio di programma per eventi con una pagina di registrazione, tre e-mail di invito e messaggi e-mail di follow-up che utilizzano un programma per eventi di Marketo Engage. Adatto per tutti gli eventi per i quali è necessaria la registrazione, inclusi eventi itineranti, pranzi, cene o presentazioni durante le fiere.
 
@@ -50,37 +50,37 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
    <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>02a- E-mail - invito</td>
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>02b - E-mail - Promemoria invito</td>
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>02c- E-mail - Promemoria invito Ultima possibilità</td>
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>03 - E-mail - Promemoria per la partecipazione</td>
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>04a - E-mail - Seguito - Partecipazione avvenuta</td>
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>04b - E-mail - Follow-up - NoShow</td>
   </tr>
   <tr>

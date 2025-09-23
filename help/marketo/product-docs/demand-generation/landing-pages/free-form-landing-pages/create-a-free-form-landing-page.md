@@ -4,10 +4,10 @@ description: Creazione di una pagina di destinazione in formato libero - Documen
 title: Creare una pagina di destinazione in formato libero
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '152'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 

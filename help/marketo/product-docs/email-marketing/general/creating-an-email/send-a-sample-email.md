@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147352
 description: Inviare un messaggio e-mail di esempio - Documentazione di Marketo - Documentazione del prodotto
-title: Invia e-mail di esempio
+title: Inviare e-mail di esempio
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '297'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Invia e-mail di esempio {#send-a-sample-email}
+# Inviare e-mail di esempio {#send-a-sample-email}
 
 È facile e veloce inviare campioni di un’e-mail. Per inviare un&#39;e-mail di contenuto dinamico, vedere [Anteprima di un&#39;e-mail con contenuto dinamico](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md).
 
@@ -19,9 +19,9 @@ ht-degree: 0%
 >
 >Per inviare e-mail di esempio è necessario disporre dell&#39;autorizzazione **Database di Access - Esegui azioni a flusso singolo**.
 
-## Invia e-mail di esempio {#send-a-sample-email-1}
+## Inviare e-mail di esempio {#send-a-sample-email-1}
 
-1. Trova e seleziona l’e-mail. Fare clic sul menu a discesa **[!UICONTROL Email Actions]** e selezionare **[!UICONTROL Send Sample]**.
+1. Trova e seleziona l’e-mail. Fai clic sul menu a discesa **[!UICONTROL Email Actions]** e seleziona **[!UICONTROL Send Sample]**.
    ![](assets/one-281-29.jpg)
 
    >[!NOTE]
@@ -56,7 +56,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting).
+   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Inviare un messaggio e-mail di esempio basato su un segmento {#send-a-sample-email-based-on-a-segment}
 
@@ -72,7 +72,7 @@ ht-degree: 0%
 
    ![](assets/1.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL View By]** e selezionare **[!UICONTROL Segmentation]**.
+1. Fai clic sul menu a discesa **[!UICONTROL View By]** e seleziona **[!UICONTROL Segmentation]**.
 
    ![](assets/2.png)
 

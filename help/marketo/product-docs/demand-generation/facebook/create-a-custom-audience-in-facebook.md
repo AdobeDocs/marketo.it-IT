@@ -4,10 +4,10 @@ description: Creare un pubblico personalizzato in Facebook - Documentazione di M
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -30,11 +30,11 @@ ht-degree: 0%
 
    ![](assets/create-a-custom-audience-in-facebook-2.png)
 
-1. Selezionare **[!UICONTROL Facebook]** e fare clic su **[!UICONTROL Next]**.
+1. Seleziona **[!UICONTROL Facebook]** e fai clic su **[!UICONTROL Next]**.
 
    ![](assets/create-a-custom-audience-in-facebook-3.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Audience]** e selezionare **[!UICONTROL + New Audience]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Audience]** e seleziona **[!UICONTROL + New Audience]**.
 
    ![](assets/create-a-custom-audience-in-facebook-4.png)
 

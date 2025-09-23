@@ -1,15 +1,15 @@
 ---
 description: Richieste di accesso a dati personali - Documentazione di Marketo - Documentazione del prodotto
-title: Richieste di accesso a dati personali
+title: Richieste sulla privacy
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: b95458ffab422901ef5e674756ae5e413ec542fd
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '335'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
-# Richieste di accesso a dati personali {#privacy-requests}
+# Richieste sulla privacy {#privacy-requests}
 
 Questo documento fornisce una panoramica sulla gestione delle singole richieste di privacy dei dati che puoi inviare a Marketo Engage tramite l’interfaccia utente di Privacy Service e l’API di Privacy Service.
 

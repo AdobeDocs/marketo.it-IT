@@ -1,18 +1,18 @@
 ---
 description: Integrazione Highspot - Documentazione Marketo - Documentazione del prodotto
-title: Integrazione Highspot
+title: Integrazione di Highspot
 exl-id: d864fa56-5cab-409f-9256-9819204f8853
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '334'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Integrazione Highspot {#highspot-integration}
+# Integrazione di Highspot {#highspot-integration}
 
-Le vendite possono accedere alle funzionalità Highspot da Sales Insight Actions e ottenere maggiore visibilità, efficienza e prestazioni durante l&#39;intero ciclo di vendita. Gli utenti di Sales Insight Action possono selezionare i contenuti di vendita memorizzati sulla piattaforma di supporto alle vendite di Highspot e inserirli direttamente nelle e-mail, nei modelli e nelle campagne di vendita, acquisendo al contempo il tracciamento e l’analisi dei contenuti nelle azioni Highspot e Sales Insight.
+Le vendite possono accedere alle funzionalità Highspot da Sales Insight Actions e ottenere maggiore visibilità, efficienza e prestazioni durante l&#39;intero ciclo di vendita. Gli utenti di Sales Insight Action possono selezionare i contenuti di vendita memorizzati sulla piattaforma di supporto alle vendite di Highspot e inserirli direttamente nelle e-mail, nei modelli e nelle campagne di vendita, il tutto acquisendo il tracciamento e l’analisi dei contenuti nelle azioni Highspot e Sales Insight.
 
 ## Abilitazione dell’integrazione Highspot {#enabling-highspot-integration}
 
@@ -38,7 +38,7 @@ Ora gli utenti visualizzano un’opzione per selezionare Highspot quando si sele
 
 ## Accesso ai contenuti Highspot e condivisione dei contenuti via e-mail {#accessing-highspot-content}
 
-Accedi a Highspot e aggiungi contenuto alle e-mail dalla finestra di composizione Azioni approfondimenti vendite, dall’editor di modelli e dall’editor e-mail della campagna di vendita. Di seguito sono riportati i passaggi per accedere al contenuto dalla finestra di composizione.
+Accedi a Highspot e aggiungi contenuto alle e-mail dalla finestra di composizione Azioni di Sales Insight, dall’editor di modelli e dall’editor e-mail della campagna di vendita. Di seguito sono riportati i passaggi per accedere al contenuto dalla finestra di composizione.
 
 1. Crea la bozza di e-mail (esistono diversi modi per farlo; in questo esempio stiamo selezionando **Componi** nell&#39;intestazione).
 

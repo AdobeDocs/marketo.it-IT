@@ -1,17 +1,17 @@
 ---
 unique-page-id: 12976798
 description: Configurare LinkedIn Lead Gen Forms - Documentazione Marketo - Documentazione del prodotto
-title: Configurare LinkedIn Lead Gen Forms
+title: Configurare moduli di generazione di lead LinkedIn
 exl-id: 554a546c-adeb-4132-830d-ff15ba5cf9a1
 feature: Social
-source-git-commit: 7a8f5146126d6e8a4902be9337eef4d51e108cf0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '496'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configurare LinkedIn Lead Gen Forms {#set-up-linkedin-lead-gen-forms}
+# Configurare moduli di generazione di lead LinkedIn {#set-up-linkedin-lead-gen-forms}
 
 Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn e generare lead per Marketo.
 
@@ -27,7 +27,7 @@ Utilizza LinkedIn Lead Gen Forms per eseguire campagne pubblicitarie in LinkedIn
 >
 >Un lead LinkedIn non entra in Marketo Engage se corrisponde a un record persona esistente in Marketo associato a un record società creato utilizzando le API società e la sottoscrizione Marketo non è connessa a un CRM.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/set-up-linkedin-lead-gen-forms-1.png)
 

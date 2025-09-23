@@ -3,24 +3,24 @@ description: Note sulla versione - Marzo 2023 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2023
 exl-id: f07abfef-5740-4380-9ca9-069a323486eb
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '582'
-ht-degree: 9%
+ht-degree: 24%
 
 ---
 
-# Note sulla versione: marzo 2023 {#release-notes-mar-23}
+# Note sulla versione - Marzo 2023 {#release-notes-mar-23}
 
-Di seguito sono riportate tutte le funzioni incluse nella versione di marzo 2023. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Di seguito sono riportate tutte le funzioni incluse nella versione di marzo 2023. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **31 marzo 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 31 marzo 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Marketo Engage Modern UX {#modern-ux}
 

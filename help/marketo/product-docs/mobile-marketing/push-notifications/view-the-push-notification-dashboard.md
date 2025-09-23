@@ -1,21 +1,21 @@
 ---
 unique-page-id: 10096523
 description: Visualizzare la dashboard delle notifiche push - Documentazione di Marketo - Documentazione del prodotto
-title: Visualizzare il dashboard delle notifiche push
+title: Visualizzare la dashboard delle notifiche push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Visualizzare il dashboard delle notifiche push {#view-the-push-notification-dashboard}
+# Visualizzare la dashboard delle notifiche push {#view-the-push-notification-dashboard}
 
 È facile vedere come funzionano le notifiche push.
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 

@@ -4,14 +4,14 @@ description: Note sulla versione - Ottobre 2013 - Documentazione Marketo - Docum
 title: Note sulla versione - Ottobre 2013
 exl-id: f392521e-a5bd-47cd-af5c-d801718ca4e0
 feature: Release Information
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 3%
+ht-degree: 6%
 
 ---
 
-# Note sulla versione: ottobre 2013 {#release-notes-october}
+# Note sulla versione - Ottobre 2013 {#release-notes-october}
 
 Le seguenti funzioni sono incluse nella versione di ottobre 2013.
 

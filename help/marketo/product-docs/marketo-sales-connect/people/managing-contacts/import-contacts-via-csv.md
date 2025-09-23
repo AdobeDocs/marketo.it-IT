@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352468
 description: Importare contatti tramite CSV - Documentazione di Marketo - Documentazione del prodotto
-title: Importa contatti tramite CSV
+title: Importare contatti tramite CSV
 exl-id: e1a15e9f-7978-4112-b38d-ab78a4300a5a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
-# Importa contatti tramite CSV {#import-contacts-via-csv}
+# Importare contatti tramite CSV {#import-contacts-via-csv}
 
 La presenza di contatti nella pagina [!UICONTROL People] è importante perché è da lì che estraiamo le informazioni personalizzate per il riempimento automatico nei campi dinamici dei modelli. Assicurati di disporre di almeno un nome e un indirizzo e-mail per ciascun contatto nel file CSV e di eseguire la mappatura su tali campi.
 

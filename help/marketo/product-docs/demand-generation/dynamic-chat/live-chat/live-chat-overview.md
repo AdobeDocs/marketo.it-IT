@@ -1,16 +1,16 @@
 ---
 description: Panoramica della chat in diretta - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica chat in diretta
+title: Panoramica sulla chat live
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '842'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Panoramica chat in diretta {#live-chat-overview}
+# Panoramica sulla chat live {#live-chat-overview}
 
 La chat in tempo reale consente ai visitatori del sito web di intrattenere conversazioni in chat in tempo reale con i tuoi agenti di vendita.
 

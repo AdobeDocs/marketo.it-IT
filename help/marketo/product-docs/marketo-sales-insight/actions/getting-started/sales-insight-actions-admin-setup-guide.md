@@ -1,16 +1,16 @@
 ---
 description: Guida alla configurazione dell’amministratore delle azioni di Insight per le vendite - Documentazione di Marketo - Documentazione del prodotto
-title: Guida alla configurazione dell'amministratore delle azioni di Insight per le vendite
+title: Guida alla configurazione dell’amministratore delle azioni di Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '604'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Guida alla configurazione dell&#39;amministratore delle azioni di Insight per le vendite {#sales-insight-actions-admin-setup-guide}
+# Guida alla configurazione dell’amministratore delle azioni di Sales Insight {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 <table>
  <tr>
-  <th>Persona</th>
+  <th>Utente tipo</th>
   <th>Passaggio</th>
  </tr>
  <tr>
@@ -47,11 +47,11 @@ ht-degree: 0%
   <td>Invita utenti alle azioni MSI</td>
  </tr>
  <tr>
-  <td>[!DNL Salesforce] Amministrazione</td>
+  <td>[!DNL Salesforce] Amministratore</td>
   <td>Installare/aggiornare il pacchetto MSI in [!DNL Salesforce]</td>
  </tr>
  <tr>
-  <td>[!DNL Salesforce] Amministrazione</td>
+  <td>[!DNL Salesforce] Amministratore</td>
   <td>Configurare le azioni MSI in [!DNL Salesforce]</td>
  </tr>
 </table>
@@ -130,7 +130,7 @@ La sincronizzazione dei campi di unificazione dei dati per le azioni di Sales In
 
    ![](assets/msi-actions-admin-guide-11.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Actions Config]**. Nella scheda Action Field Sync, fare clic su **[!UICONTROL Sync]**.
+1. Fai clic sulla scheda **[!UICONTROL Actions Config]**. Nella scheda Action Field Sync, fare clic su **[!UICONTROL Sync]**.
 
    ![](assets/msi-actions-admin-guide-12.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504051
 description: Gestire i dati della persona - Documentazione di Marketo - Documentazione del prodotto
-title: Gestisci dati persona
+title: Gestione dati della persona
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 7%
+ht-degree: 10%
 
 ---
 
-# Gestisci dati persona {#manage-person-data}
+# Gestione dati della persona {#manage-person-data}
 
 Sfrutta i dati della persona per [!DNL Web Personalization] selezionando i campi della persona da utilizzare nella segmentazione.
 

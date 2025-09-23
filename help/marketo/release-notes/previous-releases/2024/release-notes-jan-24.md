@@ -3,24 +3,24 @@ description: Note sulla versione - Gennaio 2024 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '782'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
-# Note sulla versione: gennaio 2024 {#release-notes-jan-24}
+# Note sulla versione - Gennaio 2024 {#release-notes-jan-24}
 
-Qui sotto troverai tutte le funzioni incluse nella versione di gennaio 2024. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Qui sotto troverai tutte le funzioni incluse nella versione di gennaio 2024. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **12 gennaio 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 12 gennaio 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -41,8 +41,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr>
    <td><strong>Pagine di destinazione conversazionali</strong>: incorpora un flusso conversazionale di Dynamic Chat direttamente in una pagina di destinazione di Marketo Engage in modo che i visitatori possano pianificare una riunione tramite Dynamic Chat senza dover compilare un modulo o interagire con un chatbot.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,7 +52,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
     <tr>
    <td><strong>Filtro attività bot e-mail</strong>: migliora l'acquisizione dell'attività bot per il coinvolgimento e-mail consentendo di scegliere il livello di aggressività desiderato per il filtro di identificazione dell'attività bot.</td>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtraggio dell’attività bot e-mail</a></td>
+   <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrare l’attività bot dell’e-mail</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -106,8 +106,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
   </tr>
     <tr>
    <td><strong>Finestra di composizione espandibile</strong>: la finestra di posta elettronica di composizione comprimerà automaticamente lo spazio inutilizzato, consentendo una maggiore quantità di spazio nell'editor. Inoltre, la finestra può aprirsi ed espandersi ulteriormente, offrendo agli utenti tutto lo spazio necessario per apportare modifiche alle e-mail.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
  </tbody>
 </table>
@@ -127,8 +127,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
   </tr>
     <tr>
    <td><strong>Interfaccia chatbot per Forms conversazionale</strong>: i visitatori del sito Web possono ora richiedere una chat in tempo reale in un flusso conversazionale.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
    <tr>
    <td> </td>
@@ -138,8 +138,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
    </tr>
     <tr>
    <td><strong>Opzioni colore carattere chatbot</strong>: personalizza i colori dei caratteri in una configurazione chatbot.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -149,8 +149,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
    </tr>
     <tr>
    <td><strong>Opzione per ripetere la finestra di dialogo</strong>: è ora possibile riavviare la finestra di dialogo all'inizio dopo che un visitatore ha raggiunto la fine.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -171,8 +171,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
     </tr>
     <tr>
    <td><strong>Attività Marketo Engage recenti nella casella in entrata dell'agente</strong>: le attività Marketo Engage recenti, ad esempio E-mail aperta e modulo compilato, verranno visualizzate per i lead nella casella in entrata dell'agente.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -181,8 +181,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
   </tr>
     <tr>
    <td><strong>Diramazione condizionale</strong>: ora puoi mostrare ai visitatori contenuti di conversazione diversi in base a condizioni predefinite, ad esempio la posizione del visitatore o la disponibilità dell'agente live.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
  </tbody>
 </table>

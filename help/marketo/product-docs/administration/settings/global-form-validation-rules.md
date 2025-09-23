@@ -1,16 +1,16 @@
 ---
 description: Regole di convalida modulo globale - Documentazione di Marketo - Documentazione del prodotto
-title: Regole di convalida modulo globale
+title: Regole di convalida del modulo globale
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Regole di convalida modulo globale {#global-form-validation-rules}
+# Regole di convalida del modulo globale {#global-form-validation-rules}
 
 Questa funzione consente di bloccare l&#39;invio a Marketo Engage Form di domini specifici.
 

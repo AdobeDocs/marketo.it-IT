@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095453
 description: Modificare ed eliminare i campi degli oggetti personalizzati di Marketo - Documentazione di Marketo - Documentazione del prodotto
-title: Modificare ed eliminare i campi oggetto personalizzati di Marketo
+title: Modificare ed eliminare i campi oggetto personalizzato di Marketo
 exl-id: 42fb7a24-0669-440b-a15e-3b8f0f4c5105
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Modificare ed eliminare i campi oggetto personalizzati di Marketo {#edit-and-delete-marketo-custom-object-fields}
+# Modificare ed eliminare i campi oggetto personalizzato di Marketo {#edit-and-delete-marketo-custom-object-fields}
 
 ## Modificare un campo {#edit-a-field}
 

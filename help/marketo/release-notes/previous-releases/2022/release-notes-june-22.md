@@ -3,20 +3,20 @@ description: Note sulla versione - Giugno 2022 - Documenti Marketo - Documentazi
 title: Note sulla versione - Giugno 2022
 exl-id: f4438ea8-1657-4955-9f9f-640b3ecf5caa
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '600'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Note sulla versione: giugno 2022 {#release-notes-june-22}
+# Note sulla versione - Giugno 2022 {#release-notes-june-22}
 
-Qui sotto troverai tutte le funzioni incluse nella versione di giugno 2022. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Qui sotto troverai tutte le funzioni incluse nella versione di giugno 2022. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 Le seguenti funzionalità inizieranno a essere rilasciate il **24 giugno 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive (salvo diversa indicazione).
 

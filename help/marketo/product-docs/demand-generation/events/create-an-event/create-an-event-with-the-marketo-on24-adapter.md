@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10096656
 description: Creazione di un evento con l'adattatore Marketo ON24 - Documentazione Marketo - Documentazione del prodotto
-title: Creazione di un evento con la scheda Marketo ON24
+title: Creare evento con l’adattatore ON24 Marketo
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '284'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Creazione di un evento con la scheda Marketo ON24 {#create-an-event-with-the-marketo-on-adapter}
+# Creare evento con l’adattatore ON24 Marketo {#create-an-event-with-the-marketo-on-adapter}
 
 Devi acquisire familiarità con i blocchi predefiniti e la sequenza consigliata per la creazione di eventi in Marketo. Dovresti anche avere una conoscenza operativa dei seguenti concetti di Marketo:
 
@@ -22,7 +22,7 @@ Devi acquisire familiarità con i blocchi predefiniti e la sequenza consigliata 
 
 >[!NOTE]
 >
->Per ulteriori informazioni sulle API di Marketo, consulta la [documentazione delle API di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+>Per ulteriori informazioni sulle API di Marketo, consulta la [documentazione API di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 ## Prerequisiti {#prerequisites}
 

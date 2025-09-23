@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900563
 description: Creazione di un file di evento calendario (con estensione ics) - Documentazione di Marketo - Documentazione del prodotto
-title: Creazione di un file evento calendario (con estensione ics)
+title: Creare un file evento calendario (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
-# Creazione di un file evento calendario (con estensione ics) {#create-a-calendar-event-ics-file}
+# Creare un file evento calendario (.ics) {#create-a-calendar-event-ics-file}
 
 Un token File calendario consente di aggiungere un collegamento di evento calendario (con estensione ics) alle e-mail e alle pagine di destinazione di Marketo.
 

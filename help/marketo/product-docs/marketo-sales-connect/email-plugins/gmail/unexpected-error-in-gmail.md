@@ -4,10 +4,10 @@ description: Errore imprevisto in Gmail - Documentazione di Marketo - Documentaz
 title: Errore imprevisto in Gmail
 exl-id: fdf87562-b127-4f7e-b11e-8452b428ed16
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 

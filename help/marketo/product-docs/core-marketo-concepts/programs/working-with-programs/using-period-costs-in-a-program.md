@@ -4,10 +4,10 @@ description: Utilizzo dei costi del periodo in un programma - Documentazione di 
 title: Utilizzo dei costi del periodo in un programma
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 1%
+source-wordcount: '194'
+ht-degree: 8%
 
 ---
 
@@ -17,19 +17,19 @@ Un [costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/wor
 
 ## Aggiungi un costo periodo  {#add-a-period-cost}
 
-1. Vai alla scheda **[!UICONTROL Configurazione]** del programma.
+1. Passa alla scheda **[!UICONTROL Setup]** del programma.
 
    ![](assets/image2014-9-18-12-3a9-3a46.png)
 
-1. Trascina e rilascia **[!UICONTROL Costo periodo]** nell&#39;area di lavoro.
+1. Trascina **[!UICONTROL Period Cost]** nell&#39;area di lavoro.
 
    ![](assets/image2014-9-18-12-3a9-3a57.png)
 
-1. Fai clic sull’icona del calendario. Seleziona un mese. Fare clic su **[!UICONTROL OK]**.
+1. Fai clic sull’icona del calendario. Seleziona un mese. Fai clic su **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-18-12-3a10-3a13.png)
 
-1. Immetti un **[!UICONTROL Costo periodo]** (senza decimali o virgole). Fai clic su **[!UICONTROL Salva]**.
+1. Immetti **[!UICONTROL Period Cost]** (senza decimali o virgole). Fai clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -49,29 +49,29 @@ Un [costo periodo](/help/marketo/product-docs/core-marketo-concepts/programs/wor
 
 1. Se si spendono più o meno soldi di quanto originariamente previsto, è possibile modificare il costo del periodo.
 
-1. Vai alla scheda **[!UICONTROL Configurazione]** del programma.
+1. Passa alla scheda **[!UICONTROL Setup]** del programma.
 
    ![](assets/image2014-9-18-14-3a3-3a6.png)
 
-1. Fai clic con il pulsante destro del mouse su **[!UICONTROL Costo periodo]**. Seleziona **[!UICONTROL Modifica]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Period Cost]**. Seleziona **[!UICONTROL Edit]**.
 
    ![](assets/image2014-9-18-14-3a3-3a23.png)
 
-1. Apporta le modifiche necessarie. Fai clic su **[!UICONTROL Salva]**.
+1. Apporta le modifiche necessarie. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-14-3a3-3a41.png)
 
 ## Eliminare un costo periodo {#delete-a-period-cost}
 
-1. Vai alla scheda **[!UICONTROL Configurazione]** del programma.
+1. Passa alla scheda **[!UICONTROL Setup]** del programma.
 
    ![](assets/image2014-9-18-14-3a4-3a11.png)
 
-1. Fai clic con il pulsante destro del mouse su **[!UICONTROL Costo periodo]**. Selezionare **[!UICONTROL Elimina]**.
+1. Fare clic con il pulsante destro del mouse su **[!UICONTROL Period Cost]**. Seleziona **[!UICONTROL Delete]**.
 
    ![](assets/image2014-9-18-14-3a4-3a22.png)
 
-1. Fai clic su **[!UICONTROL Elimina]** per confermare.
+1. Fai clic su **[!UICONTROL Delete]** per confermare.
 
    ![](assets/image2014-9-18-14-3a4-3a35.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514898
 description: Configurazione di una campagna avanzata di attivazione per le vendite utilizzando "È richiesta una campagna" - Documentazione di Marketo - Documentazione del prodotto
-title: Impostazione di una campagna avanzata di attivazione per le vendite tramite "È richiesta la campagna"
+title: Impostare una campagna avanzata trigger per le vendite tramite “È richiesta la campagna”
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 47bc93665a7efa0d64cd4d5f34b868895d407527
+source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 0%
+source-wordcount: '283'
+ht-degree: 11%
 
 ---
 
-# Impostazione di una campagna avanzata di attivazione per le vendite tramite &quot;È richiesta la campagna&quot; {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
+# Impostare una campagna avanzata trigger per le vendite tramite “È richiesta la campagna” {#setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested}
 
 Una delle caratteristiche più interessanti di Marketo è la possibilità di coinvolgere il personale di vendita nelle attività di marketing. Sono in prima linea, interagiscono con le persone. Gli agenti di vendita devono essere in grado di indirizzare il marketing nella giusta direzione.
 
@@ -32,13 +32,13 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurati di scegliere **[!UICONTROL Informazioni sulle vendite]**.
+1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurarsi di scegliere **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
-   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegliere **[!UICONTROL Is Any]** nella prima casella se si desidera consentire le richieste provenienti da tutte le origini.
+   >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegliere **[!UICONTROL Is Any]** nella prima casella se si desidera consentire le richieste da tutte le origini.
    >
-   >_Ricorda_, scegliendo Insight vendite, verrà magicamente visualizzato nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
+   >_Ricorda_, scegliendo Vendite Insight, verrà magicamente visualizzato nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 
 >[!TIP]
 >
->Non dimenticare di dare un nome chiaro alle campagne avanzate. In Sales Insight verranno mostrati esattamente come li si chiama.
+>Non dimenticare di dare un nome chiaro alle campagne avanzate. In Sales Insight verranno visualizzati esattamente come li si chiama.

@@ -4,10 +4,10 @@ title: Passaggio 2 di 3 - Creazione di un utente Salesforce per Marketo (Enterpr
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 989804463f44afbf35ab11c0f23c37b0d328e652
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '422'
-ht-degree: 1%
+source-wordcount: '421'
+ht-degree: 4%
 
 ---
 
@@ -25,7 +25,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 
 ## Creare un profilo {#create-a-profile}
 
-1. Fare clic su **[!UICONTROL Configurazione]**.
+1. Fai clic su **[!UICONTROL Setup]**.
 
    SCHERMATA
 
@@ -50,7 +50,7 @@ In questo articolo, configurerai le autorizzazioni utente nel profilo Salesforce
 1. Nella sezione Autorizzazioni amministrative verificare che siano selezionate le caselle seguenti:
 
    * API abilitata
-   * Modifica modelli di HTML
+   * Modifica modelli HTML
    * Gestisci documenti pubblici
    * Gestisci modelli pubblici
 

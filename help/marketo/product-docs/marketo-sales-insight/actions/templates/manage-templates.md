@@ -1,16 +1,16 @@
 ---
 description: Gestire i modelli - Documentazione di Marketo - Documentazione del prodotto
-title: Gestisci modelli
+title: Gestire i modelli
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '498'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Gestisci modelli {#manage-templates}
+# Gestire i modelli {#manage-templates}
 
 ## Creare un modello {#create-a-new-template}
 
@@ -46,7 +46,7 @@ L&#39;area Dettagli modello contiene più schede.
   <td>Rivedi e apporta modifiche, imposta i criteri per rendere il modello un modello consigliato, aggiungi note</td>
  </tr>
  <tr>
-  <td><strong>Analytics</strong></td>
+  <td><strong>Analisi</strong></td>
   <td>Rivedi l’analisi del coinvolgimento per il modello. Eseguire una ricerca filtrata.</td>
  </tr>
  <tr>
@@ -87,7 +87,7 @@ Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per
 
    ![](assets/manage-templates-9.png)
 
-## Preferito per un modello {#favorite-a-template}
+## Aggiungere un modello ai preferiti {#favorite-a-template}
 
 È possibile aggiungere modelli di qualsiasi categoria all&#39;elenco Preferiti. In questo modo viene automaticamente generata una nuova categoria nella parte superiore dell’elenco, per poter accedere rapidamente ai modelli più utilizzati.
 
@@ -103,7 +103,7 @@ Se utilizzi uno dei nostri account team, tutti i modelli sono ancora privati per
 
    ![](assets/manage-templates-12.png)
 
-## Personalizza visualizzazione modello {#customize-template-view}
+## Personalizzare la visualizzazione del modello {#customize-template-view}
 
 Dall&#39;elenco a discesa **[!UICONTROL View]** è possibile scegliere di visualizzare: tutti i modelli, i modelli preferiti, i modelli condivisi, i modelli non condivisi o i modelli non utilizzati (modelli che non sono stati utilizzati negli ultimi 90 giorni).
 

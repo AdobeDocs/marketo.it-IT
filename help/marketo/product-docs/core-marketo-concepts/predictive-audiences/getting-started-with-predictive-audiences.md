@@ -1,16 +1,16 @@
 ---
 description: Guida introduttiva di Predictive Audiences - Documentazione di Marketo - Documentazione del prodotto
-title: Guida introduttiva di Predictive Audiences
+title: Guida introduttiva ai tipi di pubblico predittivi
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 0%
+source-wordcount: '218'
+ht-degree: 5%
 
 ---
 
-# Guida introduttiva di Predictive Audiences {#getting-started-with-predictive-audiences}
+# Guida introduttiva ai tipi di pubblico predittivi {#getting-started-with-predictive-audiences}
 
 Predictive Audiences (PA) utilizza l’intelligenza artificiale e l’apprendimento automatico per consentire di indirizzare i tipi di pubblico in modo più efficace e adottare misure proattive per raggiungere gli obiettivi di marketing.
 
@@ -30,8 +30,8 @@ Le prestazioni dei modelli AI/ML si basano sui dati presenti nell’abbonamento.
 
 ## Disponibilità
 
-Predictive Audiences viene incluso e attivato automaticamente per le istanze che utilizzano i bundle di prezzo Prime o Ultimate. Per ulteriori informazioni su come accedere a questa funzione, contatta il team dell’account Adobe (il tuo Account Manager).
+Predictive Audiences viene incluso e attivato automaticamente per le istanze che utilizzano bundle di prezzo Prime o Ultimate. Per ulteriori informazioni su come accedere a questa funzione, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Una volta aggiunta la funzionalità all&#39;istanza, passa alla pagina **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** di Marketo.
+1. Una volta aggiunta la funzionalità all&#39;istanza, passare alla pagina **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** di Marketo.
 
-1. Seleziona **[!UICONTROL Abilita audience predittive]** per attivare la funzione. La configurazione di tutti i processi potrebbe richiedere fino a 24 ore.
+1. Selezionare **[!UICONTROL Enable Predictive Audiences]** per attivare la funzionalità. La configurazione di tutti i processi potrebbe richiedere fino a 24 ore.

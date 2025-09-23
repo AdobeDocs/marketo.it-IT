@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718648
 description: Analisi dell’influenza dell’opportunità - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni su Opportunity Influence Analyzer
+title: Informazioni su analizzatore influenza opportunità
 exl-id: 87f85fed-1fb5-4906-bfdb-a9fda7ddd295
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '255'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Informazioni su Opportunity Influence Analyzer {#understanding-the-opportunity-influence-analyzer}
+# Informazioni su analizzatore influenza opportunità {#understanding-the-opportunity-influence-analyzer}
 
 Ogni opportunità è una storia. Dove hai incontrato il lead? Quali opportunità di marketing hanno avuto un impatto su di loro durante il processo di marketing/vendita?
 

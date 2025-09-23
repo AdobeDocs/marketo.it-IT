@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951640
 description: Utilizzo dei momenti di interesse - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo di momenti interessanti
+title: Utilizzo di momenti di interesse
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '416'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Utilizzo di momenti interessanti {#using-interesting-moments}
+# Utilizzo di momenti di interesse {#using-interesting-moments}
 
 I momenti interessanti sono la chiave per comunicare con il tuo team di vendita tramite l&#39;app [!DNL Marketo Sales Insight].
 

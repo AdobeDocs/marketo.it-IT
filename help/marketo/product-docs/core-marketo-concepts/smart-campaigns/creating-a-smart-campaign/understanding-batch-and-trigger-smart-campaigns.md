@@ -4,10 +4,10 @@ description: Informazioni sulle campagne intelligenti batch e trigger - Document
 title: Informazioni sulle campagne avanzate batch e trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '266'
-ht-degree: 0%
+source-wordcount: '264'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ Le campagne batch avranno solo filtri all’interno della sezione dell’elenco 
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-1.png)
 
-Facendo clic sulla scheda **[!UICONTROL Pianifica]** verrà confermato che Smart Campaign è impostata su &quot;Batch&quot;.
+Facendo clic sulla scheda **[!UICONTROL Schedule]** verrà confermato che Smart Campaign è impostata su &quot;Batch&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-2.png)
 
@@ -38,7 +38,7 @@ Facendo clic sulla scheda **[!UICONTROL Pianifica]** verrà confermato che Smart
 
 <br> 
 
-## Attiva campagna {#trigger-campaign}
+## Campagna trigger {#trigger-campaign}
 
 >[!NOTE]
 >
@@ -50,7 +50,7 @@ Se una campagna avanzata utilizza almeno un trigger nella sezione Elenco avanzat
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-3.png)
 
-Facendo clic sulla scheda **[!UICONTROL Pianificazione]**, verrà confermato che Smart Campaign è impostata su &quot;Attivato&quot;.
+Facendo clic sulla scheda **[!UICONTROL Schedule]**, si conferma che Smart Campaign è impostato su &quot;Triggered&quot;.
 
 ![](assets/understanding-batch-and-trigger-smart-campaigns-4.png)
 

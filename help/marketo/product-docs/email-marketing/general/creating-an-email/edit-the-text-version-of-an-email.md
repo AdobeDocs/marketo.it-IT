@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11372054
 description: Modificare la versione testuale di un’e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Modificare la versione testuale di un messaggio e-mail
+title: Modificare la versione testuale di un’e-mail
 exl-id: 6973ccdd-6ae1-4051-ab7e-ff7da40baf97
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Modificare la versione testuale di un messaggio e-mail {#edit-the-text-version-of-an-email}
+# Modificare la versione testuale di un’e-mail {#edit-the-text-version-of-an-email}
 
 Quando crei un’e-mail, potresti desiderare che la versione del testo sia formulata in modo diverso rispetto alla versione di HTML. Per impostazione predefinita, Marketo copia automaticamente il contenuto testuale di qualsiasi elemento in formato Rich Text presente nell’e-mail nella versione in formato testo. Ecco come modificarlo.
 

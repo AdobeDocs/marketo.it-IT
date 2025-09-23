@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718681
 description: Avviare il tracciamento per account nella Modeler dei ricavi - Documentazione Marketo - Documentazione del prodotto
-title: Avvia tracciamento per account nella Modeler dei ricavi
+title: Avviare tracciamento per account nel modeler dei ricavi
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '227'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Avvia tracciamento per account nella Modeler dei ricavi {#start-tracking-by-account-in-the-revenue-modeler}
+# Avviare tracciamento per account nel modeler dei ricavi {#start-tracking-by-account-in-the-revenue-modeler}
 
 Con Modeler e [!UICONTROL Revenue Explorer] per la fase dei ricavi, puoi ottenere da insight le prestazioni dei lead e degli account durante l&#39;avanzamento del modello.
 

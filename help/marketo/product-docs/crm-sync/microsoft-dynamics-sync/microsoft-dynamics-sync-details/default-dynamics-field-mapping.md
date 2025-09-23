@@ -1,16 +1,16 @@
 ---
 description: Mappatura campo Dynamics predefinita - Documenti Marketo - Documentazione del prodotto
-title: Mappatura campo Dynamics predefinita
+title: Mappatura del campo Dynamics predefinito
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
-# Mappatura campo Dynamics predefinita {#default-dynamics-field-mapping}
+# Mappatura del campo Dynamics predefinito {#default-dynamics-field-mapping}
 
 Quando sincronizzi inizialmente l’account Marketo Engage con Microsoft, Marketo crea automaticamente queste associazioni tra i campi Dynamics e Marketo incorporati.  Marketo sincronizzerà inoltre i campi personalizzati sui lead, gli account, le opportunità e i contatti.
 

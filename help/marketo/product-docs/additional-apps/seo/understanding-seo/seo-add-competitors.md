@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949192
 description: SEO - Aggiungere concorrenti - Documentazione Marketo - Documentazione del prodotto
-title: SEO - Aggiungi concorrenti
+title: 'SEO: aggiungere concorrenti'
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 16%
 
 ---
 
-# SEO - Aggiungi concorrenti {#seo-add-competitors}
+# SEO: aggiungere concorrenti {#seo-add-competitors}
 
 L’aggiunta di concorrenti consente di tenere traccia delle loro prestazioni per le stesse parole chiave e gli stessi collegamenti in entrata che scegli di monitorare.
 
@@ -19,19 +19,19 @@ L’aggiunta di concorrenti consente di tenere traccia delle loro prestazioni pe
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/image2014-9-17-21-3a12-3a15.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Concorrenti]**.
+1. Fare clic sulla scheda **[!UICONTROL Competitors]**.
 
    ![](assets/image2014-9-17-21-3a12-3a31.png)
 
-1. Fare clic su **[!UICONTROL Aggiungi concorrente]**.
+1. Fai clic su **[!UICONTROL Add Competitor]**.
 
    ![](assets/image2014-9-17-21-3a12-3a38.png)
 
-1. Digita il **[!UICONTROL Nome]** e l&#39;**[!UICONTROL URL]** del tuo concorrente.
+1. Digitare **[!UICONTROL Name]** e **[!UICONTROL URL]** del concorrente.
 
    ![](assets/image2014-9-17-21-3a13-3a5.png)
 

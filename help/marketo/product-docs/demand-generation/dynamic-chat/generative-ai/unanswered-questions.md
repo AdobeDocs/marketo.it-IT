@@ -3,10 +3,10 @@ description: Domande senza risposta - Documentazione di Marketo - Documentazione
 title: Domande senza risposta
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 3788898496c50ebc3a5a8bf6adbd79a270024be7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 3%
 
 ---
 
@@ -18,11 +18,11 @@ Vedi tutte le domande a cui il chatbot non ha risposto e/o quelle a cui i visita
 >
 >L&#39;elenco delle domande senza risposta viene aggiornato automaticamente ogni 24 ore, a mezzanotte PST.
 
-1. In IA generativa fare clic su **[!UICONTROL Risposte assistite]**.
+1. In IA generativa fare clic su **[!UICONTROL Assisted responses]**.
 
    ![](assets/unanswered-questions-1.png)
 
-1. Fai clic sulla scheda **[!UICONTROL Domande senza risposta]**.
+1. Fare clic sulla scheda **[!UICONTROL Unanswered questions]**.
 
    ![](assets/unanswered-questions-2.png)
 
@@ -30,7 +30,7 @@ Vedi tutte le domande a cui il chatbot non ha risposto e/o quelle a cui i visita
 
    ![](assets/unanswered-questions-3.png)
 
-1. Inserisci la tua risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Inserisci la tua risposta. Assegna un argomento e aggiungi un URL facoltativo che gli utenti possono condividere con i visitatori. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/unanswered-questions-4.png)
 

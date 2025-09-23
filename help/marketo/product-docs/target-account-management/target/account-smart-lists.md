@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378814
 description: Elenchi avanzati account - Documentazione Marketo - Documentazione del prodotto
-title: Elenchi avanzati account
+title: Elenchi avanzati di account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Elenchi avanzati account {#account-smart-lists}
+# Elenchi avanzati di account {#account-smart-lists}
 
 Ecco come identificare in modo rapido e accurato i tuoi account di alto valore.
 
@@ -29,7 +29,7 @@ Ecco come identificare in modo rapido e accurato i tuoi account di alto valore.
 
    ![](assets/account-smart-lists-2.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL New Local Asset]**.
+1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL New Local Asset]**.
 
    ![](assets/account-smart-lists-3.png)
 

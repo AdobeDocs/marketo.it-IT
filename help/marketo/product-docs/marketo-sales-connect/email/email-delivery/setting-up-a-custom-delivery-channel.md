@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746470
 description: Configurazione di un canale di consegna personalizzato - Documentazione di Marketo - Documentazione del prodotto
-title: Configurazione di un canale di consegna personalizzato
+title: Configurare un canale di consegna personalizzato
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '353'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Configurazione di un canale di consegna personalizzato {#setting-up-a-custom-delivery-channel}
+# Configurare un canale di consegna personalizzato {#setting-up-a-custom-delivery-channel}
 
 [!DNL Marketo Sales Connect] consente l&#39;integrazione con un server SMTP personalizzato per la consegna delle e-mail. Si tratta di un&#39;ottima opzione per coloro che non desiderano inviare e-mail in blocco dal proprio canale di consegna Gmail o [!DNL Exchange].
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953415
 description: Utilizzo della pagina dei dettagli della persona - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo della pagina Dettagli persona
+title: Utilizzare la pagina Dettagli persona
 exl-id: 8476ed02-6d94-4aa5-91f6-55c81a87f745
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '525'
-ht-degree: 23%
+ht-degree: 26%
 
 ---
 
-# Utilizzo della pagina Dettagli persona {#using-the-person-detail-page}
+# Utilizzare la pagina Dettagli persona {#using-the-person-detail-page}
 
 La pagina dei dettagli della persona contiene tutte le informazioni che Marketo conosce su una persona. Puoi modificare i dati direttamente da questa pagina.
 
@@ -45,7 +45,7 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 | Informazioni sull’opportunità | Informazioni sull’opportunità sincronizzate da Salesforce. |
 | Campo lead SFDC | Campi Salesforce incorporati. |
 | Campo personalizzato SFDC | Campi Salesforce personalizzati. |
-| Registro attività | Tutte le attività relative alla persona. |
+| Registro delle attività | Tutte le attività relative alla persona. |
 
 ## Organizzazione pagina - Microsoft Dynamics {#page-organization-microsoft-dynamics}
 
@@ -56,11 +56,11 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 | Informazioni sull’opportunità | Informazioni sull’opportunità sincronizzate da Microsoft. |
 | Campi personalizzati Microsoft | Campi Microsoft personalizzati. |
 | Campo lead Microsoft | Campi Microsoft incorporati. |
-| Registro attività | Tutte le attività relative alla persona. |
+| Registro delle attività | Tutte le attività relative alla persona. |
 
 >[!NOTE]
 >
->È inoltre possibile visualizzare le informazioni sull&#39;opportunità [inserite tramite API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
+>È inoltre possibile visualizzare le informazioni sull&#39;opportunità [inserite tramite API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
 
 ## Modifica di un campo {#editing-a-field}
 
@@ -95,7 +95,7 @@ Molti campi sono modificabili. Per aggiornare le informazioni di una persona, di
 >
 >Alcuni campi sono _non_ modificabili:
 >
->* Registro attività
+>* Registro delle attività
 >* Informazioni sull&#39;azienda
 >* Opportunità per i contatti SFDC
 >* Alcuni campi specifici di Marketo, come Data di creazione e Tipo di Source originale.

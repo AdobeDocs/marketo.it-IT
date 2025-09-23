@@ -4,10 +4,10 @@ description: Clonazione di un gruppo di test di una pagina di destinazione - Doc
 title: Clonazione di un gruppo di test di una pagina di destinazione
 exl-id: d94fde6b-b377-42fc-a91a-e8ee4bf7c8bb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '156'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

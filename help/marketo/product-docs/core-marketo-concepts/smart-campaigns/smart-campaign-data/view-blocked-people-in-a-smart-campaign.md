@@ -4,10 +4,10 @@ description: Visualizzare le persone bloccate in una campagna avanzata - Documen
 title: Visualizzare le persone bloccate in una campagna avanzata
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 

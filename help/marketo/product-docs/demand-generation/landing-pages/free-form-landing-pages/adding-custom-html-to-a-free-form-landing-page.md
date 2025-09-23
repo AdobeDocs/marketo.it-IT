@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359730
 description: Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
-title: Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero
+title: Aggiunta di HTML personalizzato a una pagina di destinazione in formato libero
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '149'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
-# Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero {#adding-custom-html-to-a-free-form-landing-page}
+# Aggiunta di HTML personalizzato a una pagina di destinazione in formato libero {#adding-custom-html-to-a-free-form-landing-page}
 
 Puoi aggiungere script personalizzati, CSS o altri HTML alle pagine di destinazione.
 

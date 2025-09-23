@@ -1,16 +1,16 @@
 ---
 description: Panoramica sul tracciamento e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica del tracciamento e-mail
+title: Panoramica tracciamento di e-mail
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '482'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Panoramica del tracciamento e-mail {#email-tracking-overview}
+# Panoramica tracciamento di e-mail {#email-tracking-overview}
 
 ## Funzionamento del tracciamento delle risposte {#how-reply-tracking-works}
 
@@ -57,7 +57,7 @@ Alcuni suggerimenti per ottenere statistiche di tracciamento migliori sulle e-ma
 * Includi un’immagine nelle e-mail (come un logo) in modo che il destinatario sia invitato a consentire alle immagini di visualizzare il messaggio.
 * Includi un collegamento come call to action nell’e-mail.
 
-## E-mail di prova non visualizzata {#test-email-not-showed-as-viewed}
+## E-mail di test non visualizzata nel modo in cui viene vista {#test-email-not-showed-as-viewed}
 
 Anche se hai inviato il messaggio a un altro indirizzo e-mail, non ti registreremo visualizzando le e-mail che ti sei inviato nel feed live. Il monitoraggio è basato su dispositivi; finché utilizzi un computer con cui hai effettuato l&#39;accesso a [!DNL Sales Connect], questa attività verrà filtrata.
 

@@ -1,22 +1,22 @@
 ---
 unique-page-id: 37355768
 description: Importazione di Assets con Adobe Experience Manager - Documentazione di Marketo - Documentazione del prodotto
-title: Importazione di Assets con Adobe Experience Manager
+title: Importare risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 0%
+source-wordcount: '224'
+ht-degree: 5%
 
 ---
 
-# Importazione di Assets con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
+# Importare risorse con Adobe Experience Manager {#importing-assets-with-adobe-experience-manager}
 
 Asset Selector consente ai clienti di Marketo di accedere, selezionare e importare risorse AEM in Marketo Design Studio. **Sono richieste le autorizzazioni di amministratore**.
 
 >[!AVAILABILITY]
 >
->Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti hanno acquistato questa funzione. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 >[!PREREQUISITES]
 >
@@ -26,11 +26,11 @@ Asset Selector consente ai clienti di Marketo di accedere, selezionare e importa
 >
 >Attualmente, questa funzione è completamente supportata solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome, a seconda delle impostazioni del cookie SameSite.
 
-1. Fare clic su **[!UICONTROL Design Studio]**.
+1. Fai clic su **[!UICONTROL Design Studio]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-1.png)
 
-1. Fare clic sull&#39;elenco a discesa Nuovo e selezionare **[!UICONTROL Importa da Adobe Experience Manager]**.
+1. Fare clic sul menu a discesa Nuovo e selezionare **[!UICONTROL Import from Adobe Experience Manager]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-2.png)
 
@@ -42,7 +42,7 @@ Asset Selector consente ai clienti di Marketo di accedere, selezionare e importa
 
    ![](assets/importing-assets-with-adobe-experience-manager-4.png)
 
-1. Scegli la cartella. Quindi, seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Al termine, fai clic su **[!UICONTROL Seleziona]**.
+1. Scegli la cartella. Quindi, seleziona le immagini desiderate facendo clic sulla miniatura (puoi scegliere fino a 10). Al termine, fai clic su **[!UICONTROL Select]**.
 
    ![](assets/importing-assets-with-adobe-experience-manager-5.png)
 
@@ -50,11 +50,11 @@ Asset Selector consente ai clienti di Marketo di accedere, selezionare e importa
    >
    >Le immagini non possono superare i 100 MB.
 
-1. Fai clic su **[!UICONTROL Importa]** per completare il processo.
+1. Fare clic su **[!UICONTROL Import]** per completare il processo.
 
    ![](assets/importing-assets-with-adobe-experience-manager-6.png)
 
-   Ed è tutto! Fai clic su **[!UICONTROL Chiudi]** per tornare a Design Studio.
+   Ed è tutto! Fare clic su **[!UICONTROL Close]** per tornare a Design Studio.
 
    ![](assets/importing-assets-with-adobe-experience-manager-7.png)
 

@@ -4,10 +4,10 @@ description: Configurazione del team dell’account - Documentazione di Marketo 
 title: Configurazione team account
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '169'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 

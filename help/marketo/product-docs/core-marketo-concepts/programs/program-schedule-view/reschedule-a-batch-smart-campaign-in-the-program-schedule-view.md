@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7514985
 description: Riprogrammare una campagna batch intelligente nella visualizzazione Pianificazione del programma - Documenti Marketo - Documentazione del prodotto
-title: Riprogrammare una campagna batch intelligente nella visualizzazione Pianificazione del programma
+title: Ripianificare una campagna avanzata batch nella vista Pianificazione del programma
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 19%
 
 ---
 
-# Riprogrammare una campagna batch intelligente nella visualizzazione Pianificazione del programma {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
+# Ripianificare una campagna avanzata batch nella vista Pianificazione del programma {#reschedule-a-batch-smart-campaign-in-the-program-schedule-view}
 
 Ripianificare l’esecuzione di una campagna batch? Trascinali e rilasciali nel futuro nella visualizzazione Pianificazione del programma.
 
@@ -23,7 +23,7 @@ Ripianificare l’esecuzione di una campagna batch? Trascinali e rilasciali nel 
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Fantastico! La campagna avanzata è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **[!UICONTROL Data]** nei dettagli della voce.
+1. Fantastico! La campagna avanzata è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **[!UICONTROL Date]** nei dettagli di immissione.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

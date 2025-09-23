@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557339
 description: Trovare e unire persone duplicate - Documentazione di Marketo - Documentazione del prodotto
-title: Trova e unisci persone duplicate
+title: Trovare e unire persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Trova e unisci persone duplicate {#find-and-merge-duplicate-people}
+# Trovare e unire persone duplicate {#find-and-merge-duplicate-people}
 
 Marketo Engage esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe inizialmente aver inviato più duplicati. Ecco come unirle.
 
@@ -29,7 +29,7 @@ Marketo Engage esegue automaticamente la deduplicazione quando nuove persone ent
 
 ## Trova duplicati {#find-duplicates}
 
-1. Passare all&#39;area **[!UICONTROL Database]**.
+1. Passa alla schermata **[!UICONTROL Database]**.
 
    ![](assets/find-and-merge-duplicate-people-1.png)
 

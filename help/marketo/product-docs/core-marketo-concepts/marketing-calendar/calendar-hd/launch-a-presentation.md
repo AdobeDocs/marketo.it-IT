@@ -4,10 +4,10 @@ description: Avviare una presentazione - Documentazione di Marketo - Documentazi
 title: Avviare una presentazione
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 2671f81f62658447e4b2a3dc2e02a4e0927443e8
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 0%
+source-wordcount: '104'
+ht-degree: 6%
 
 ---
 
@@ -18,7 +18,7 @@ Dopo aver impostato le visualizzazioni e la frequenza di rotazione per la presen
 >[!AVAILABILITY]
 >
 >
->Non tutti gli utenti del Marketo Engage hanno acquistato questa funzionalità. Per ulteriori informazioni, contatta l’Adobe Account Team (il tuo Account Manager).
+>Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 >[!PREREQUISITES]
 >
@@ -29,14 +29,14 @@ Dopo aver impostato le visualizzazioni e la frequenza di rotazione per la presen
 >
 >Assicurati di _visualizzare in anteprima una presentazione_ prima di avviare.
 
-1. Fare clic su **[!UICONTROL Avvia]**.
+1. Fai clic su **[!UICONTROL Launch]**.
 
    ![](assets/image2015-3-20-14-3a4-3a18.png)
 
-1. Fai clic ancora una volta su **[!UICONTROL Avvia]**. In questo modo si esce da Marketo per poter visualizzare la presentazione in modo sicuro.
+1. Fai clic su **[!UICONTROL Launch]** un&#39;altra volta. In questo modo si esce da Marketo per poter visualizzare la presentazione in modo sicuro.
 
    ![](assets/image2015-3-20-14-3a5-3a34.png)
 
    >[!TIP]
    >
-   >La presentazione verrà avviata in una nuova scheda. Se necessario, spostare la scheda su un monitor esterno per la visualizzazione e fare clic su **[!UICONTROL Schermo intero]**.
+   >La presentazione verrà avviata in una nuova scheda. Se necessario, spostare la scheda su un monitor esterno per la visualizzazione e fare clic su **[!UICONTROL Fullscreen]**.

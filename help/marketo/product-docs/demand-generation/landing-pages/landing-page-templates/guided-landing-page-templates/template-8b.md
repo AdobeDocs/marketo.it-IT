@@ -4,16 +4,16 @@ description: Modello 8B - Documentazione Marketo - Documentazione del prodotto
 title: Modello 8B
 exl-id: fd194747-2465-4685-a0de-bea7a294726d
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Modello 8B {#template-8b}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 8B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)
 
 ![](assets/image2015-7-29-13-3a56-3a13.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html?lang=it)
+[Modello 8B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8b.html)

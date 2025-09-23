@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900567
 description: Annullare nell’editor e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Annulla nell’editor e-mail
+title: Annullare nell’editor e-mail
 exl-id: 5542defb-84cd-49a7-b2d0-5cd7e4df95d7
 feature: Email Editor
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '71'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Annulla nell’editor e-mail {#undo-in-the-email-editor}
+# Annullare nell’editor e-mail {#undo-in-the-email-editor}
 
 1. Per annullare una modifica, fare clic sulla freccia a sinistra.
 

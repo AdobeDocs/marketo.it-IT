@@ -1,16 +1,16 @@
 ---
 description: Invio di un segmento Adobe Experience Platform a un elenco statico Marketo - Documenti Marketo - Documentazione del prodotto
-title: Invio di un segmento Adobe Experience Platform a un elenco statico Marketo
+title: Inviare un segmento Adobe Experience Platform a un elenco statico Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '601'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Invio di un segmento Adobe Experience Platform a un elenco statico Marketo {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
+# Inviare un segmento Adobe Experience Platform a un elenco statico Marketo {#push-an-adobe-experience-platform-segment-to-a-marketo-static-list}
 
 Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Adobe Experience Platform sotto forma di elenco statico.
 
@@ -99,7 +99,7 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
    >[!NOTE]
    >
-   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
+   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
 
 1. Mappare il cognome e il nome della società facendo nuovamente clic su **[!UICONTROL Add New Mapping]** e ripetendo due volte il passaggio 15, scegliendo **[!UICONTROL lastName]** e quindi **[!UICONTROL companyName]**.
 

@@ -4,10 +4,10 @@ description: Assegnazione di attività ai membri del team - Documentazione di Ma
 title: Assegnazione di attività ai membri del team
 exl-id: 9f7126eb-076e-47b8-ade0-979e46675d5c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 2%
+ht-degree: 12%
 
 ---
 

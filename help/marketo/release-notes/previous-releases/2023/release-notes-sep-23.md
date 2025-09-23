@@ -3,24 +3,24 @@ description: Note sulla versione - Settembre 2023 - Documentazione di Marketo - 
 title: Note sulla versione - Settembre 2023
 feature: Release Information
 exl-id: 5a3a5b9f-73d8-4227-9e75-62852833619b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '922'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
 
-# Note sulla versione: settembre 2023 {#release-notes-sep-23}
+# Note sulla versione - Settembre 2023 {#release-notes-sep-23}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione di settembre 2023. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Di seguito sono elencate tutte le funzioni incluse nella versione di settembre 2023. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **8 settembre 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 8 settembre 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Libreria di riferimento Marketo</strong>: la Libreria di riferimento ai programmi di Marketo Engage consente agli utenti di importare programmi di esempio e altre risorse che rappresentano le best practice consigliate da Adobe. Il nostro team di gestione dei prodotti ha completamente aggiornato la libreria, fornendo strumenti più preziosi per coloro che desiderano avviare rapidamente il proprio programma.</td>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Panoramica della libreria di importazione del programma</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Panoramica sulla libreria di importazione del programma</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -91,7 +91,7 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
   <tr>
    <td><strong>Integrazione Marketo + Workfront</strong>: per gli utenti di Marketo e Workfront, ora puoi utilizzare i modelli Workfront Fusion per integrare i due prodotti e sbloccare nuovi flussi di lavoro di automazione per semplificare l'esecuzione della campagna.</td>
    <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html?lang=it" target="_blank">Revisione e approvazione del blueprint</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/blueprints-learn/architecture/b2b-activation/marketo-engage-and-workfront-integration-blueprint/review-and-approve-blueprint.html" target="_blank">Revisione e approvazione del blueprint</a></td>
   </tr>
  </tbody>
 </table>
@@ -169,7 +169,7 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
    <tr>
    <td><strong>Chat in tempo reale</strong>: i visitatori Web possono chattare con gli agenti di vendita in tempo reale per ottenere risposte alle loro domande.</td>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Panoramica chat in diretta</a></td>
+   <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md" target="_blank">Panoramica sulla chat live</a></td>
   </tr>
    <tr>
    <td> </td>
@@ -258,8 +258,8 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
   </tr>
     <tr>
    <td><strong>Notifiche azioni di Insight per le vendite</strong>: gli agenti con azioni di Insight per le vendite riceveranno notifiche di richiesta di chat in tempo reale nel pannello Azioni di Insight per le vendite.</td>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
  </tbody>
 </table>

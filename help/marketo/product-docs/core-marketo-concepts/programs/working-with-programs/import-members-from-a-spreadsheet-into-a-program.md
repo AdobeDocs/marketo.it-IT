@@ -4,10 +4,10 @@ description: Importare membri da un foglio di calcolo in un programma - Document
 title: Importare membri da un foglio di calcolo in un programma
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 1%
+ht-degree: 11%
 
 ---
 

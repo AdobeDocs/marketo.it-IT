@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359400
 description: Selezionare un tema modulo - Documentazione Marketo - Documentazione del prodotto
-title: Seleziona un tema modulo
+title: Selezionare un tema per il modulo
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Seleziona un tema modulo {#select-a-form-theme}
+# Selezionare un tema per il modulo {#select-a-form-theme}
 
 Abbiamo creato una serie di bei temi per le vostre forme. Quale ti piace di più?
 

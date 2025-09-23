@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360297
 description: Limitare gli accessi Marketo basati su IP - Documentazione Marketo - Documentazione del prodotto
-title: Limita gli accessi a Marketo in base all’IP
+title: Limitare gli accessi a Marketo in base all’IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: b4bd06d3e5ee205744478e0f5556f490f9f5abe4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 11%
 
 ---
 
-# Limita gli accessi a Marketo in base all’IP {#restrict-marketo-logins-based-on-ip}
+# Limitare gli accessi a Marketo in base all’IP {#restrict-marketo-logins-based-on-ip}
 
 Puoi limitare o consentire agli utenti di accedere a Marketo in base ai loro indirizzi IP. Ecco come.
 
@@ -23,27 +23,27 @@ Puoi limitare o consentire agli utenti di accedere a Marketo in base ai loro ind
 >
 >Le informazioni contenute in questo articolo sono destinate agli utenti che accedono direttamente a login.marketo.com e non sono applicabili a coloro che effettuano l’autenticazione con Adobe ID. Al momento non è possibile applicare restrizioni IP agli accessi Single Sign-On (SSO).
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-1.png)
 
-1. Fare clic su **[!UICONTROL Impostazioni accesso]**.
+1. Fai clic su **[!UICONTROL Login Settings]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-2.png)
 
-1. Fare clic su **[!UICONTROL Modifica restrizioni IP]**.
+1. Fai clic su **[!UICONTROL Edit IP Restrictions]**.
 
    ![](assets/restrict-marketo-logins-based-on-ip-3.png)
 
-1. Scegli se desideri **Consentire** o **Bloccare** indirizzi specifici, immetti gli indirizzi, quindi fai clic su **[!UICONTROL Salva]**.
+1. Scegli se desideri **Consentire** o **Bloccare** indirizzi specifici, immetti gli indirizzi, quindi fai clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
    >**Definizione**
    >
-   >* **[!UICONTROL Indirizzi IP consentiti]**: l&#39;aggiunta di indirizzi IP consentiti è inclusiva. Includerà tutti gli indirizzi IP specificati ed escluderà tutto il resto.
-   >* **[!UICONTROL Blocca indirizzi IP]**: impedisce a IP specifici di accedere a Marketo.
-   >* **[!UICONTROL Disabilita restrizioni IP]**: se si seleziona questa opzione, tutte le regole di restrizione non funzioneranno più. Utilizzalo a scopo di test.
+   >* **[!UICONTROL Allowed IP addresses]**: l&#39;aggiunta di indirizzi IP consentiti è inclusiva. Includerà tutti gli indirizzi IP specificati ed escluderà tutto il resto.
+   >* **[!UICONTROL Block IP addresses]**: impedisce a IP specifici di accedere a Marketo.
+   >* **[!UICONTROL Disable IP Restrictions]**: la selezione di questa opzione interromperà il funzionamento di tutte le regole di restrizione. Utilizzalo a scopo di test.
 
    >[!NOTE]
    >

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7512454
 description: Configurare le notifiche push per dispositivi mobili - Documenti Marketo - Documentazione del prodotto
-title: Configurare le notifiche push per dispositivi mobili
+title: Configurare notifica push su dispositivo mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '430'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configurare le notifiche push per dispositivi mobili {#configure-mobile-push-notification}
+# Configurare notifica push su dispositivo mobile {#configure-mobile-push-notification}
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
@@ -81,7 +81,7 @@ Un URI di collegamento profondo è costituito da tre parti: nome dello schema, p
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Il tuo sviluppatore dispone di molte opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push saranno posizionati correttamente. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Il tuo sviluppatore dispone di molte opzioni per definire gli URI dei collegamenti profondi, pertanto chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push saranno posizionati correttamente. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

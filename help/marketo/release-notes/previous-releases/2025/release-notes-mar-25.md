@@ -3,7 +3,7 @@ description: Note sulla versione - Marzo 2025 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 29c1b59c9d2598626f546554a8bdc1b26b9e1590
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 39%
@@ -44,7 +44,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Funzionalità GenAI nei webinar interattivi</strong>: è ora possibile generare capitoli e un riepilogo per i webinar on demand. Modificare ed esportare un file HTML dei dati.</td>
    <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funzioni GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funzioni GenAI</a></td>
   </tr>
   <tr>
    <td> </td>

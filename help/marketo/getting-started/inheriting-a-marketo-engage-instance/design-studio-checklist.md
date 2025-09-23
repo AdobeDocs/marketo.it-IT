@@ -3,10 +3,10 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
@@ -25,7 +25,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr>
    <td>Pagine di destinazione globali</td>
    <td><li>Quante <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">pagine di destinazione</a> globali sono presenti? Vengono utilizzati dai programmi?</li>
-   <li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=it" target="_blank">centro sottoscrizioni</a>?
+   <li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro sottoscrizioni</a>?
    <br/>     In caso contrario, puoi crearne una.</li></td>
   </tr>
   <tr>

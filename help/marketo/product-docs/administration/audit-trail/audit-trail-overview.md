@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11377945
-description: Audit Trail&rbrack; Panoramica - Documenti Marketo - Documentazione del prodotto
-title: Panoramica di Audit Trail
+description: Audit Trail] Panoramica - Documenti Marketo - Documentazione del prodotto
+title: Panoramica su Audit trail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Panoramica di Audit Trail {#audit-trail-overview}
+# Panoramica su Audit trail {#audit-trail-overview}
 
 Audit Trail consente di ottenere una cronologia completa (sei mesi) delle modifiche apportate all’interno dell’istanza Marketo.
 

@@ -4,10 +4,10 @@ description: Clonare una risorsa in un programma - Documentazione Marketo - Docu
 title: Clonare una risorsa in un programma
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 0%
+source-wordcount: '113'
+ht-degree: 13%
 
 ---
 
@@ -21,7 +21,7 @@ Clonazione di un programma clona _tutto_. A volte ti basta clonare una risorsa. 
 
 ## Clonare una risorsa locale {#clone-a-local-asset}
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Clonazione di un programma clona _tutto_. A volte ti basta clonare una risorsa. 
 
    ![](assets/image2014-9-23-15-3a56-3a12.png)
 
-1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fare clic su **[!UICONTROL Clona]**.
+1. Fai clic con il pulsante destro del mouse sulla risorsa locale da clonare. Fai clic su **[!UICONTROL Clone]**.
 
    ![](assets/image2014-9-23-15-3a56-3a25.png)
 
@@ -39,7 +39,7 @@ Clonazione di un programma clona _tutto_. A volte ti basta clonare una risorsa. 
 
    >[!TIP]
    >
-   >Puoi anche clonare una risorsa in un altro programma. Utilizza il menu a discesa **[!UICONTROL Programma]** per effettuare la selezione.
+   >Puoi anche clonare una risorsa in un altro programma. Utilizza il menu a discesa **[!UICONTROL Program]** per effettuare la selezione.
 
 1. Fantastico! Ora dovresti visualizzare la nuova risorsa clonata.
 

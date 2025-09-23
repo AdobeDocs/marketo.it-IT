@@ -4,10 +4,10 @@ description: Configurare le dimensioni del rapporto - Documentazione di Marketo 
 title: Configurare le dimensioni del rapporto
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Per impostazione predefinita, i rapporti di Marketo sono limitati a un massimo di 5.000 righe, ma puoi modificare tale limite.
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2014-9-16-10-3a53-3a57.png)
 

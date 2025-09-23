@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2952678
 description: Utilizza il token di informazioni sull'invio degli avvisi {{SP_Send_Alert_Info}} - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizza il token di informazioni sull’invio dell’avviso
+title: Utilizzare il token di informazioni sull’invio dell’avviso
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Utilizza il token di informazioni sull’invio dell’avviso {#use-the-send-alert-info-token-sp-send-alert-info}
+# Utilizzare il token di informazioni sull’invio dell’avviso {#use-the-send-alert-info-token-sp-send-alert-info}
 
 Il token `{{SP_Send_Alert_Info}}` è un token speciale da utilizzare per la creazione di e-mail di avviso per il team vendite.
 

@@ -4,10 +4,10 @@ description: Aggiungere immagini e file a Marketo - Documentazione di Marketo - 
 title: Aggiungere immagini e file a Marketo
 exl-id: 31462189-55fd-458e-8b28-85e525dad5b5
 feature: Image Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ Scopri come aggiungere nuove immagini o file all’istanza Marketo Engage.
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Upload image or file]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Upload image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 

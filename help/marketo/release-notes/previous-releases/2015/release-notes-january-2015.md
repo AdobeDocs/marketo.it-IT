@@ -4,14 +4,14 @@ description: Note sulla versione -Gennaio 2015 - Documentazione Marketo - Docume
 title: Note sulla versione - Gennaio 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '354'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: gennaio 2015 {#release-notes-january}
+# Note sulla versione - Gennaio 2015 {#release-notes-january}
 
 Le seguenti funzioni sono incluse nella versione di gennaio 2015. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
@@ -31,7 +31,7 @@ Tre nuove chiamate per l’API REST per lead e attività:
 * Ottieni lead per ID programma
 * Ottieni lead eliminati
 
-Inoltre, è disponibile una nuova opzione per Lead di sincronizzazione, che consente di scrivere la modifica del lead in modo asincrono per una chiamata API più veloce. I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
+Inoltre, è disponibile una nuova opzione per Lead di sincronizzazione, che consente di scrivere la modifica del lead in modo asincrono per una chiamata API più veloce. I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
 
 **Supporto Oggetto Personalizzato Script E-Mail**
 
@@ -62,6 +62,6 @@ Le opzioni dei tag RTP in Impostazioni account sono state aggiornate per include
 1. Tag asincrono senza CDN
 1. Tag sincrono senza CDN
 
-Per ottenere prestazioni ottimali, si consiglia di posizionare il tag nella parte superiore dell&#39;intestazione della pagina Web dopo `<head>`. Tutti i tag consentono l&#39;utilizzo dell&#39;[API RTP](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Per informazioni su come distribuire il tag RTP, vedi [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
+Per ottenere prestazioni ottimali, si consiglia di posizionare il tag nella parte superiore dell&#39;intestazione della pagina Web dopo `<head>`. Tutti i tag consentono l&#39;utilizzo dell&#39;[API RTP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation). Per informazioni su come distribuire il tag RTP, vedi [qui](/help/marketo/product-docs/web-personalization/rtp-tag-implementation/deploy-the-rtp-javascript.md).
 
 ![](assets/image2015-1-15-13-3a30-3a45.png)

@@ -3,10 +3,10 @@ description: Panoramica sulla ricerca avanzata - Documenti Marketo - Documentazi
 title: Panoramica sulla ricerca avanzata
 exl-id: a7cf5078-1d24-4fc0-a82d-02f46f93893d
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -83,13 +83,13 @@ Sono disponibili tre stati e-mail tra cui scegliere. Le opzioni di tipo/attivit�
 
 ![](assets/advanced-search-overview-9.png)
 
-_&#x200B;**Stato: inviato**&#x200B;_
+_**Stato: inviato**_
 
 ![](assets/advanced-search-overview-10.png)
 
 Filtri per attività e-mail inviata. È possibile scegliere [!UICONTROL views]/[!UICONTROL no views], [!UICONTROL clicks]/[!UICONTROL no clicks] e/o [!UICONTROL replies]/[!UICONTROL no replies].
 
-_&#x200B;**Stato: in sospeso**&#x200B;_
+_**Stato: in sospeso**_
 
 ![](assets/advanced-search-overview-11.png)
 
@@ -114,7 +114,7 @@ Filtra per tutte le e-mail in sospeso.
  </tr>
 </table>
 
-_&#x200B;**Stato: non consegnato**&#x200B;_
+_**Stato: non consegnato**_
 
 ![](assets/advanced-search-overview-12.png)
 

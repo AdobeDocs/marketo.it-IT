@@ -4,10 +4,10 @@ description: Impostare La Modalità Di Visualizzazione Della Campagna Web - Docu
 title: Impostare la modalità di visualizzazione della campagna web
 exl-id: fa0f2421-9536-4a3a-a28b-4f5b1b58ed56
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -25,7 +25,7 @@ Selezionata per impostazione predefinita, questa opzione visualizza semplicement
 
 Specifica un ritardo (in secondi totali) per la reazione delle campagne web sul tuo sito web.
 
-1. Fare clic sul menu a discesa **[!UICONTROL Display On]** e selezionare **[!UICONTROL Delay]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Display On]** e seleziona **[!UICONTROL Delay]**.
 
    ![](assets/d1.png)
 
@@ -35,7 +35,7 @@ Specifica un ritardo (in secondi totali) per la reazione delle campagne web sul 
 
 ## Scorri {#scroll}
 
-1. Fare clic sul menu a discesa **[!UICONTROL Display On]** e selezionare **[!UICONTROL Scroll]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Display On]** e seleziona **[!UICONTROL Scroll]**.
 
    ![](assets/s1.png)
 
@@ -64,7 +64,7 @@ Specifica un ritardo (in secondi totali) per la reazione delle campagne web sul 
 
 L’intento di uscita visualizza la campagna web all’uscita del cursore del mouse dal browser.
 
-1. Fare clic sul menu a discesa **[!UICONTROL Display On]** e selezionare **[!UICONTROL Exit Intent]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Display On]** e seleziona **[!UICONTROL Exit Intent]**.
 
    ![](assets/ei1.png)
 

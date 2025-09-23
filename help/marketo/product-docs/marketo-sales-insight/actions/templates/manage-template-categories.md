@@ -1,18 +1,18 @@
 ---
 description: Gestire le categorie dei modelli - Documentazione di Marketo - Documentazione del prodotto
-title: Gestisci categorie modello
+title: Gestire le categorie di modelli
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '113'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Gestisci categorie modello {#manage-template-categories}
+# Gestire le categorie di modelli {#manage-template-categories}
 
 ## Creare una categoria {#create-a-category}
 
@@ -42,7 +42,7 @@ ht-degree: 1%
 
    ![](assets/manage-template-categories-6.png)
 
-## Eliminare una categoria di modelli {#delete-a-template-category}
+## Eliminare una categoria di modello {#delete-a-template-category}
 
 1. Fare clic sulla scheda **[!UICONTROL Templates]**.
 

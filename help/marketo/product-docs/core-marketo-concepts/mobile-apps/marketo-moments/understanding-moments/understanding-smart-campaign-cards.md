@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093348
 description: Informazioni sulle schede per campagne intelligenti - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sulle schede per campagne avanzate
+title: Informazioni sulle schede delle campagne avanzate
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '549'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Informazioni sulle schede per campagne avanzate {#understanding-smart-campaign-cards}
+# Informazioni sulle schede delle campagne avanzate {#understanding-smart-campaign-cards}
 
 Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne Smart dal tuo smartphone o iPad. La scheda Smart Campaign di Marketo Moments rappresenta una singola esecuzione di una campagna; viene visualizzata una nuova scheda ogni volta che la campagna Smart viene eseguita. Le schede Smart Campaign sono contrassegnate da una lampadina in alto a sinistra.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359575
 description: Anteprima di un modulo - Documenti Marketo - Documentazione del prodotto
-title: Anteprima di un modulo
+title: Visualizzare in anteprima un modulo
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 2f7533b53665c137ef8edfc3630120869de3ec6f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Anteprima di un modulo {#preview-a-form}
+# Visualizzare in anteprima un modulo {#preview-a-form}
 
 Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di moduli rapido e semplice.
 

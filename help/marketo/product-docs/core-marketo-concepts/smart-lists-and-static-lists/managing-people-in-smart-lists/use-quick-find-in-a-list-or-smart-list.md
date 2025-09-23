@@ -4,10 +4,10 @@ description: Utilizzare la Ricerca rapida in un elenco o in un elenco avanzato -
 title: Utilizzare la ricerca rapida in un elenco o in un elenco avanzato
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 13%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 0%
 
 Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando la ricerca rapida.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare l&#39;elenco avanzato che si desidera cercare, quindi fare clic sulla scheda **[!UICONTROL Persone]**.
+1. Selezionare l&#39;elenco smart che si desidera cercare e quindi fare clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/smartlistpeople.png)
 
 ## Trova persone utilizzando le informazioni personali {#find-people-using-personal-info}
 
-1. Nella casella **[!UICONTROL Ricerca rapida]** nella parte inferiore della schermata, digitare una parola chiave (**nome personale**, **indirizzo e-mail** o **titolo processo**).
+1. Nella casella **[!UICONTROL Quick Find]** nella parte inferiore della schermata, digitare una parola chiave (**nome personale**, **indirizzo e-mail** o **titolo processo**).
 
    ![](assets/searchpeople.png)
 

@@ -4,10 +4,10 @@ description: Panoramica del componente aggiuntivo .NET - Documentazione di Marke
 title: Panoramica del componente aggiuntivo .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 0%
 >
 >Questo è il nostro vecchio componente aggiuntivo. Se è già installato, continuerà a funzionare fino al 2020. Se si è un nuovo utente, installare il nuovo componente aggiuntivo [Office 365](https://s3.amazonaws.com/tout-user-store/outlook-mac/assets/install_tout_add-in_outlook_mac.pdf).
 
-## Come allegare un contenuto {#attaching-a-piece-of-content}
+## Allegare un contenuto {#attaching-a-piece-of-content}
 
 Aggiungere contenuto tracciabile facendo clic sul pulsante **[!UICONTROL Content]** e caricando un file.
 

@@ -2,24 +2,24 @@
 description: Note sulla versione - Maggio 2023 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2023
 exl-id: beefd8ad-b0d2-4a6f-9f2e-74f03fc3abe7
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '345'
-ht-degree: 4%
+ht-degree: 27%
 
 ---
 
-# Note sulla versione: maggio 2023 {#release-notes-may-23}
+# Note sulla versione - Maggio 2023 {#release-notes-may-23}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione di maggio 2023. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Di seguito sono elencate tutte le funzioni incluse nella versione di maggio 2023. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **12 maggio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 12 maggio 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
@@ -48,7 +48,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Centro assistenza</a></td>
+   <td><a href="/help/marketo/getting-started/things-to-know/help-center.md">Help Center</a></td>
   </tr>
   </tbody>
 </table>
@@ -74,7 +74,7 @@ I webinar interattivi verranno introdotti gradualmente. Per richiedere l&#39;acc
   </tr>
   <tr>
    <td>Rollout avviato</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html?lang=it">Panoramica dei webinar interattivi</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview.html">Panoramica dei webinar interattivi</a></td>
   </tr>
   </tbody>
 </table>

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359909
 description: Gestione di ruoli e autorizzazioni utente - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione di ruoli utente e autorizzazioni
+title: Gestire i ruoli utente e le autorizzazioni
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Gestione di ruoli utente e autorizzazioni {#managing-user-roles-and-permissions}
+# Gestire i ruoli utente e le autorizzazioni {#managing-user-roles-and-permissions}
 
 Imposta, crea e modifica i ruoli utente e assegnali agli utenti. Questo consente di controllare le aree e le funzionalità a cui ogni utente di Marketo ha accesso.
 
@@ -31,7 +31,7 @@ Marketo fornisce diversi ruoli incorporati, con diversi livelli di accesso:
 
 Non puoi modificare i ruoli Amministratore e Utente standard, ma puoi modificare gli altri. Puoi anche creare nuovi ruoli personalizzati che corrispondano alle specifiche strutture organizzative della tua azienda.
 
-## Marketo con Adobe Identity {#marketo-with-adobe-identity}
+## Marketo con Identity Service {#marketo-with-adobe-identity}
 
 Se utilizzi Marketo con Adobe Identity, l&#39;elenco delle descrizioni del profilo [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
 
@@ -39,7 +39,7 @@ Se utilizzi Marketo con Adobe Identity, l&#39;elenco delle descrizioni del profi
 
 Puoi assegnare ruoli a un utente quando [crei utenti per la prima volta](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o [modificando un utente esistente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-1.png)
 
@@ -63,7 +63,7 @@ Puoi assegnare ruoli a un utente quando [crei utenti per la prima volta](/help/m
 
 Talvolta all’interno dell’organizzazione sono presenti dipendenti con ruoli molto specifici che richiedono una combinazione personalizzata di autorizzazioni.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-5.png)
 
@@ -87,7 +87,7 @@ Talvolta all’interno dell’organizzazione sono presenti dipendenti con ruoli 
 
 Se è necessario modificare le autorizzazioni associate a un ruolo esistente, è possibile modificare il ruolo.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-10.png)
 
@@ -115,7 +115,7 @@ Se è necessario modificare le autorizzazioni associate a un ruolo esistente, è
 
 Se un ruolo non è più necessario, è possibile eliminarlo.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-user-roles-and-permissions-15.png)
 

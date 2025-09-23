@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10095429
 description: Correzione dei problemi di sincronizzazione della convalida Dynamics - Documentazione di Marketo - Documentazione del prodotto
-title: Correggi i problemi di sincronizzazione della convalida Dynamics
+title: Correggere i problemi di sincronizzazione della convalida Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '487'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Correggi i problemi di sincronizzazione della convalida Dynamics {#fix-dynamics-validation-sync-issues}
+# Correggere i problemi di sincronizzazione della convalida Dynamics {#fix-dynamics-validation-sync-issues}
 
 ## Convalida risultati strumento di sincronizzazione {#validate-sync-tool-results}
 
@@ -41,13 +41,13 @@ Se hai un ![x](assets/delete.png) qui, verifica che l&#39;URL sia valido. Puoi t
 
 ## Nome utente e password validi {#username-and-password-are-valid}
 
-Se disponi di ![x](assets/delete.png), verifica che le credenziali di Microsoft Dynamics siano valide. Per l&#39;autenticazione Web API S2S, il nome utente in Marketo deve corrispondere al [indirizzo e-mail](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) dell&#39;utente dell&#39;applicazione nel CRM. Per gli altri tipi, deve corrispondere al nome utente dell&#39;utente di sincronizzazione.
+Se hai ![x](assets/delete.png) qui, verifica che le tue credenziali Microsoft Dynamics siano valide. Per l&#39;autenticazione Web API S2S, il nome utente in Marketo deve corrispondere al [indirizzo e-mail](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) dell&#39;utente dell&#39;applicazione nel CRM. Per gli altri tipi, deve corrispondere al nome utente dell&#39;utente di sincronizzazione.
 
 ## L&#39;utente Sync è assegnato al ruolo Utente Sync di Marketo {#sync-user-is-assigned-to-the-marketo-sync-user-role}
 
 Se hai un ![x](assets/delete.png) qui, potrebbe trattarsi di uno dei tre problemi seguenti.
 
-**Opzione Uno - Verificare Che Il Ruolo Utente Di Marketo Sync Sia Registrato In Microsoft Dynamics**:
+**Opzione Uno - Verificare Che Il Ruolo Utente Di Marketo Sync Sia Archiviato In Microsoft Dynamics**:
 
 1. In Dynamics, fai clic sull&#39;icona Impostazioni e seleziona **Impostazioni avanzate**.
 
@@ -83,7 +83,7 @@ Se hai un ![x](assets/delete.png) qui, potrebbe trattarsi di uno dei tre problem
 
 ## La soluzione Marketo è installata correttamente {#marketo-solution-is-properly-installed}
 
-Se disponi di un ![x](assets/delete.png) qui, vai a Microsoft Dynamics per verificare che l&#39;installazione di Marketo sia presente. Consulta il passaggio 1 della documentazione di configurazione di Microsoft Dynamics.
+Se hai ![x](assets/delete.png) qui, vai a Microsoft Dynamics per verificare che l&#39;installazione di Marketo sia presente. Consulta il Passaggio 1 della documentazione di configurazione di Microsoft Dynamics.
 
 1. In Dynamics, fai clic sull&#39;icona Impostazioni e seleziona **Impostazioni avanzate**.
 
@@ -103,7 +103,7 @@ Se disponi di ![x](assets/delete.png) qui, verifica che nessuno dei passaggi pre
 
 ## L&#39;utente di sincronizzazione è assegnato alla soluzione Marketo {#sync-user-is-assigned-to-the-marketo-solution}
 
-Se hai ![x](assets/delete.png) qui, assicurati che l&#39;utente Sync sia assegnato alla pagina Predefinita di Marketo in Microsoft Dynamics.
+Se hai ![x](assets/delete.png) qui, assicurati che l&#39;utente Sync sia assegnato alla pagina Marketo Default in Microsoft Dynamics.
 
 1. In Dynamics, fai clic sull&#39;icona Impostazioni e seleziona **Impostazioni avanzate**.
 
@@ -119,8 +119,8 @@ Se hai ![x](assets/delete.png) qui, assicurati che l&#39;utente Sync sia assegna
 
 ## L&#39;utente di sincronizzazione corrisponde al nome utente e alla password {#sync-user-matches-username-and-password}
 
-Se disponi di un ![x](assets/delete.png), assicurati di assegnare l&#39;utente di sincronizzazione corretto nel campo Utente di Marketo nel passaggio di installazione predefinita di Marketo Config in Microsoft Dynamics.
+Se disponi di un ![x](assets/delete.png), assicurati di assegnare l&#39;utente di sincronizzazione corretto nel campo Utente Marketo nel passaggio di configurazione predefinita di Marketo in Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >
->[Convalida Microsoft Dynamics Sync](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)
+>[Convalida sincronizzazione Microsoft Dynamics](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/validate-microsoft-dynamics-sync.md)

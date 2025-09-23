@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359951
 description: Rimuovere un membro da un programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
-title: Rimuovere un membro da un programma di coinvolgimento
+title: Rimuovere un iscritto da un programma di coinvolgimento
 exl-id: c97f15cc-b01a-4148-a150-84901ee2567e
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# Rimuovere un membro da un programma di coinvolgimento {#remove-a-member-from-an-engagement-program}
+# Rimuovere un iscritto da un programma di coinvolgimento {#remove-a-member-from-an-engagement-program}
 
 Ops! Come hanno fatto quelle persone a entrare? È possibile rimuovere membri da un programma di coinvolgimento con il passaggio di flusso **[!UICONTROL Change Program Status]**.
 

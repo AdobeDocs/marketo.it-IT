@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352438
 description: Panoramica telefono vendite - Documentazione Marketo - Documentazione del prodotto
-title: Panoramica telefono vendita
+title: Panoramica telefono di vendita
 exl-id: 297d8d87-94dc-47c7-9781-ae7187e5ddf9
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Panoramica telefono vendita {#sales-phone-overview}
+# Panoramica telefono di vendita {#sales-phone-overview}
 
 ## Perché scegliere il telefono per la vendita? {#why-sales-phone}
 

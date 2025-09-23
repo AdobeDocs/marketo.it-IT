@@ -4,14 +4,14 @@ description: Note sulla versione - Ottobre 2012 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2012
 exl-id: 60ad7d45-ddf6-4f0c-a0c6-5f5a9bdc2998
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: ottobre 2012 {#release-notes-october}
+# Note sulla versione - Ottobre 2012 {#release-notes-october}
 
 La versione di ottobre include nuove funzionalità più interessanti! Le funzioni social network sono disponibili come componente aggiuntivo o come parte di bundle selezionati.
 

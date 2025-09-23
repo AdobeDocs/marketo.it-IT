@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146997
 description: Utilizzare un token di data in un passaggio del flusso di attesa - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzare un token di data in un passaggio del flusso di attesa
+title: Utilizzare un token data in un passaggio di flusso di attesa
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Utilizzare un token di data in un passaggio del flusso di attesa {#use-a-date-token-in-a-wait-flow-step}
+# Utilizzare un token data in un passaggio di flusso di attesa {#use-a-date-token-in-a-wait-flow-step}
 
 Puoi utilizzare il passaggio del flusso di attesa per mettere in pausa il percorso di una persona tramite una campagna avanzata fino a una data particolare che utilizza un token di data. Puoi anche modificare la data di fine di un certo numero di giorni.
 

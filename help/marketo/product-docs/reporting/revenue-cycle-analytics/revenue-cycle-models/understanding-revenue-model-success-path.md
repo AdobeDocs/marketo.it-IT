@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718664
 description: Informazioni sul percorso di successo del modello di ricavo - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sul percorso di successo del modello dei ricavi
+title: Informazioni sul percorso di successo del modello di ricavi
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '224'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Informazioni sul percorso di successo del modello dei ricavi {#understanding-revenue-model-success-path}
+# Informazioni sul percorso di successo del modello di ricavi {#understanding-revenue-model-success-path}
 
 ## Percorso di successo {#success-path}
 

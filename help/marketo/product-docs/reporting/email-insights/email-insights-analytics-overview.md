@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099411
 description: Panoramica di Analytics su Email Insights - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica di Analytics su Email Insights
+title: Panoramica analisi su approfondimenti e-mail
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Panoramica di Analytics su Email Insights {#email-insights-analytics-overview}
+# Panoramica analisi su approfondimenti e-mail {#email-insights-analytics-overview}
 
 In [!UICONTROL Analytics], esplora i dati aggregati per la consegna e il coinvolgimento delle e-mail. Utilizza il grafico a sinistra per esplorare i dati, mentre le informazioni a destra per un’esperienza più guidata.
 

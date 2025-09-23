@@ -4,14 +4,14 @@ description: Note sulla versione -Settembre 2012 - Documentazione Marketo - Docu
 title: Note sulla versione di Marketing Cloud
 exl-id: c81da5ef-11ec-4015-a820-691fa314f369
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: settembre 2012 {#release-notes-september}
+# Note sulla versione - Settembre 2012 {#release-notes-september}
 
 Questa versione include funzioni social integrate e molto attese, oltre a utili funzioni di gestione dei lead. Nota: le funzioni social network sono disponibili come componente aggiuntivo o come parte di bundle selezionati.
 

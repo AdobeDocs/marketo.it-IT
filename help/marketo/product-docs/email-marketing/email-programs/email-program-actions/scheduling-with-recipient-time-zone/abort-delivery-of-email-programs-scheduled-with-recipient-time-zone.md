@@ -1,17 +1,17 @@
 ---
 unique-page-id: 13795727
 description: Interrompere la consegna dei programmi e-mail pianificati con il fuso orario del destinatario - Documentazione di Marketo - Documentazione del prodotto
-title: Interrompi la consegna dei programmi e-mail pianificati con il fuso orario del destinatario
+title: Annullare la consegna dei programmi e-mail pianificati con il fuso orario del destinatario
 exl-id: e69afa4a-32fb-4791-a9b6-683d64d610d6
 feature: Email Programs
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '214'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Interrompi la consegna dei programmi e-mail pianificati con il fuso orario del destinatario {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
+# Annullare la consegna dei programmi e-mail pianificati con il fuso orario del destinatario {#abort-delivery-of-email-programs-scheduled-with-recipient-time-zone}
 
 In casi di emergenza, puoi interrompere la consegna di un programma e-mail già avviato con il Fuso orario del destinatario abilitato.
 

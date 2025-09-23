@@ -1,15 +1,15 @@
 ---
-description: Disinstallare il pacchetto di personalizzazione Salesforce - Documentazione di Marketo - Documentazione del prodotto
-title: Disinstalla il pacchetto di personalizzazione Salesforce
+description: Disinstallare il pacchetto di personalizzazione di Salesforce - Documentazione di Marketo - Documentazione del prodotto
+title: Disinstallare il pacchetto di personalizzazione di Salesforce
 hide: true
 hidefromtoc: true
-source-git-commit: 56db82ef98d774f8ac56c1401ef7ef275862d1dc
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '18'
 ht-degree: 0%
 
 ---
 
-# Disinstalla il pacchetto di personalizzazione Salesforce {#uninstall-salesforce-classic-customization-package}
+# Disinstallare il pacchetto di personalizzazione di Salesforce {#uninstall-salesforce-classic-customization-package}
 
 In arrivo.

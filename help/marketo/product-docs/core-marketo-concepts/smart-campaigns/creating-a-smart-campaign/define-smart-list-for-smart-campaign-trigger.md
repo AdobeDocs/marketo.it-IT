@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146942
 description: Definire un elenco avanzato per Smart Campaign | Trigger - Documentazione di Marketo - Documentazione del prodotto
-title: Definire un elenco avanzato per Smart Campaign | Trigger
+title: Definire un elenco avanzato per campagna avanzata | trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '251'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Definire un elenco avanzato per Smart Campaign | Trigger {#define-smart-list-for-smart-campaign-trigger}
+# Definire un elenco avanzato per campagna avanzata | trigger {#define-smart-list-for-smart-campaign-trigger}
 
 Fai in modo che una campagna avanzata venga eseguita su una persona alla volta in base agli eventi live aggiungendo trigger.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720314
 description: Rapporto sulle prestazioni delle e-mail di Insight per le vendite - Documenti Marketo - Documentazione del prodotto
-title: Rapporto sulle prestazioni e-mail di Sales Insight
+title: Rapporto sulle prestazioni delle e-mail di Sales Insight
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
-# Rapporto sulle prestazioni e-mail di Sales Insight {#sales-insight-email-performance-report}
+# Rapporto sulle prestazioni delle e-mail di Sales Insight {#sales-insight-email-performance-report}
 
 Visualizza le prestazioni delle e-mail inviate tramite [!DNL Salesforce], [!DNL Microsoft Dynamics] o un plug-in Gmail o [!DNL Outlook].
 

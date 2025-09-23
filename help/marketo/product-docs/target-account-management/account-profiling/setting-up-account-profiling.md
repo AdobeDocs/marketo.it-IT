@@ -1,17 +1,17 @@
 ---
 unique-page-id: 17432598
 description: Configurazione della profilatura dell’account - Documentazione di Marketo - Documentazione del prodotto
-title: Impostazione della profilazione dell’account
+title: Configurazione della profilazione dell'account
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '157'
-ht-degree: 3%
+ht-degree: 8%
 
 ---
 
-# Impostazione della profilazione dell’account {#setting-up-account-profiling}
+# Configurazione della profilazione dell&#39;account {#setting-up-account-profiling}
 
 Per iniziare a utilizzare la profilazione account, segui la procedura riportata di seguito.
 

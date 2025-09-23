@@ -4,10 +4,10 @@ description: Utilizzare Aggiungi scelta in un passaggio di flusso - Documentazio
 title: Utilizzare Aggiungi scelta in un passaggio di flusso
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 0%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 &quot;Aggiungi scelta&quot; consente di utilizzare un passaggio di flusso e di dire &quot;dipende&quot; quando si scelgono i dettagli.
 
-1. Nella scheda **[!UICONTROL Flusso]** di Smart Campaign, aggiungi un passaggio di flusso e fai clic su **[!UICONTROL Aggiungi scelta]**.
+1. Nella scheda **[!UICONTROL Flow]** di Smart Campaign, aggiungi un passaggio di flusso e fai clic su **[!UICONTROL Add Choice]**.
 
    ![](assets/use-add-choice-in-a-flow-step-1.png)
 

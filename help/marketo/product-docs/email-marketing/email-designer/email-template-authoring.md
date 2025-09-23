@@ -4,7 +4,7 @@ title: Modelli e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1819'
 ht-degree: 1%
@@ -161,7 +161,7 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 >
 >Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne da 1:1, quindi trascina e rilascia il frammento all’interno di esso.
 
-Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_&#x200B;della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
+Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
 ### Aggiungere risorse {#add-assets}
 
@@ -193,13 +193,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 

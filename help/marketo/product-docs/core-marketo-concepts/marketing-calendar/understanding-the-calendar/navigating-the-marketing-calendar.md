@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147257
 description: Navigazione nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
-title: Navigazione nel calendario di marketing
+title: Navigazione nel calendario marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: afdf59729f16d27a548fa60a8156c941be54a8a7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 0%
+source-wordcount: '168'
+ht-degree: 6%
 
 ---
 
-# Navigazione nel calendario di marketing {#navigating-the-marketing-calendar}
+# Navigazione nel calendario marketing {#navigating-the-marketing-calendar}
 
 Navigare nel calendario di marketing è facile. Ecco come.
 
@@ -33,7 +33,7 @@ Navigare nel calendario di marketing è facile. Ecco come.
 
 ## Cambia tra modalità {#change-between-modes}
 
-1. Fai clic sulle schede **[!UICONTROL 3 settimane]** o **[!UICONTROL Mese]** per passare da una modalità all&#39;altra.
+1. Fare clic sulle schede **[!UICONTROL 3 weeks]** o **[!UICONTROL Month]** per passare da una modalità all&#39;altra.
 
    ![](assets/image2014-9-15-16-3a46-3a16.png)
 
@@ -41,11 +41,11 @@ Navigare nel calendario di marketing è facile. Ecco come.
 
 Nella vista Agenda tutte le voci vengono visualizzate come elenco.
 
-1. Fai clic sul menu a discesa **[!UICONTROL Filtro]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Filter]**.
 
    ![](assets/image2014-9-26-10-3a29-3a6.png)
 
-1. Seleziona la visualizzazione **[!UICONTROL Agenda]**.
+1. Selezionare la visualizzazione **[!UICONTROL Agenda]**.
 
    ![](assets/image2014-9-26-10-3a29-3a36.png)
 

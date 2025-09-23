@@ -2,14 +2,15 @@
 description: Filtrare i record uniti/eliminati in un rapporto e-mail - Documenti Marketo - Documentazione del prodotto
 title: Filtrare i record uniti/eliminati in un report e-mail
 feature: Reporting
-source-git-commit: 26c97890c945978a37d98ca7e3f04e28ca41ea19
+exl-id: f62047cf-35a4-4b63-9328-3d5f7b778711
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Filtrare i record eliminati/uniti in un report delle prestazioni delle e-mail {#filter-deleted-merged-records-in-an-email-performance-report}
+# Filtrare i record eliminati/uniti in un rapporto prestazioni e-mail {#filter-deleted-merged-records-in-an-email-performance-report}
 
 Concentrare il rapporto sulle prestazioni delle e-mail sui messaggi e-mail nei programmi (&quot;risorse locali&quot;), su quelli in Design Studio (&quot;risorse globali&quot;) o su quelli archiviati.
 

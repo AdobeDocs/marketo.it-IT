@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949190
 description: SEO - Selezionare l’area geografica o il paese per il motore di ricerca - Documentazione di Marketo - Documentazione del prodotto
-title: 'SEO: seleziona l’area geografica o il paese per il motore di ricerca'
+title: 'SEO: selezionare l’area geografica o il paese per il motore di ricerca'
 exl-id: dc53415c-eb11-41f9-b992-172a32359cef
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# SEO: seleziona l’area geografica o il paese per il motore di ricerca {#seo-pick-region-country-for-your-search-engine}
+# SEO: selezionare l’area geografica o il paese per il motore di ricerca {#seo-pick-region-country-for-your-search-engine}
 
 Gli amministratori SEO (Search Engine Optimization) potranno scegliere l’area geografica del motore di ricerca per la quale si desidera ottenere le informazioni sulla classificazione delle parole chiave.
 

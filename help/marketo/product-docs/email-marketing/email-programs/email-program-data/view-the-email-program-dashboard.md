@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359469
 description: Visualizza la dashboard del programma e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Visualizza la dashboard del programma e-mail
+title: Visualizzare la dashboard del programma e-mail
 exl-id: dd05d7f6-8979-4ef1-a7d2-adaf086dd903
 feature: Email Programs
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Visualizza la dashboard del programma e-mail {#view-the-email-program-dashboard}
+# Visualizzare la dashboard del programma e-mail {#view-the-email-program-dashboard}
 
 Scopri le prestazioni del tuo programma e-mail (con o senza un test A/B) con questa dashboard.
 

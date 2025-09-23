@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097747
 description: Aggiunta di misure personalizzate a un rapporto di Revenue Explorer - Documenti Marketo - Documentazione del prodotto
-title: Aggiunta di misure personalizzate a un report di Gestione ricavi
+title: Aggiunta di misure personalizzate a un rapporto Revenue Explorer
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Aggiunta di misure personalizzate a un report di Gestione ricavi {#adding-custom-measures-to-a-revenue-explorer-report}
+# Aggiunta di misure personalizzate a un rapporto Revenue Explorer {#adding-custom-measures-to-a-revenue-explorer-report}
 
 Talvolta, può essere necessario inserire una misura personalizzata in un rapporto. È facile crearne uno tuo.
 

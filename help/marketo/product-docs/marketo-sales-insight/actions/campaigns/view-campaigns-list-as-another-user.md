@@ -1,16 +1,16 @@
 ---
 description: Visualizzare l’elenco delle campagne come altro utente - Documentazione di Marketo - Documentazione del prodotto
-title: Visualizza elenco campagne come altro utente
+title: Visualizzare un elenco di campagne come altro utente
 exl-id: 6a196618-fe34-4770-b405-289f886eb389
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Visualizza elenco campagne come altro utente {#view-campaigns-list-as-another-user}
+# Visualizzare un elenco di campagne come altro utente {#view-campaigns-list-as-another-user}
 
 In qualità di Amministratore, puoi visualizzare le campagne come qualsiasi utente.
 

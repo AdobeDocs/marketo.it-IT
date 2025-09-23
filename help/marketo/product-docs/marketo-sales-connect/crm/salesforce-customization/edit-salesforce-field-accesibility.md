@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352472
 description: Modifica accessibilità dei campi di Salesforce - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica accessibilità campo Salesforce
+title: Modificare l’accessibilità del campo Salesforce
 exl-id: e4ef29c8-f6ab-4dca-b56e-907c7d2e5263
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Modifica accessibilità campo Salesforce {#edit-salesforce-field-accesibility}
+# Modificare l’accessibilità del campo Salesforce {#edit-salesforce-field-accesibility}
 
 Se non visualizzi il registro attività e-mail in [!DNL Salesforce], ciò potrebbe essere dovuto a restrizioni all&#39;accessibilità dei campi del tuo team.
 

@@ -3,10 +3,10 @@ unique-page-id: 2953243
 description: Tipi di notifica - Documentazione di Marketo - Documentazione del prodotto
 title: Tipi di notifica
 exl-id: 384cea0a-6252-4600-9211-aa5d6a7e875c
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '235'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
@@ -60,4 +60,4 @@ Riceverai una notifica quando raggiungerai la tua quota giornaliera. La quota vi
 
 >[!NOTE]
 >
->Alcuni dei codici di errore che potresti ricevere sono descritti nella [Documentazione per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/error-codes).
+>Alcuni dei codici di errore che potresti ricevere sono descritti nella [Documentazione per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/error-codes).

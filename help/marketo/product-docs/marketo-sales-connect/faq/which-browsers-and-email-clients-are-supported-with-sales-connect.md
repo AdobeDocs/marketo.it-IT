@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352422
-description: Quali browser e client di posta elettronica sono supportati con Sales Connect? - Documentazione di Marketo - Documentazione del prodotto
+description: Quali browser e client di posta elettronica sono supportati con Sales Connect? - Documenti Marketo - Documentazione del prodotto
 title: Quali browser e client di posta elettronica sono supportati con Sales Connect?
 exl-id: 00f3537e-358d-4540-b569-085674c360a4
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 8%
+ht-degree: 32%
 
 ---
 

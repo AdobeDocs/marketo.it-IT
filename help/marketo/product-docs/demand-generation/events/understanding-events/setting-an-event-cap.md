@@ -1,18 +1,18 @@
 ---
 description: Impostazione di un limite per gli eventi - Documentazione di Marketo - Documentazione del prodotto
-title: Impostazione di un limite per gli eventi
+title: Impostazione di un limite evento
 hide: true
 hidefromtoc: true
 exl-id: 5273f7f4-a636-4976-aee6-fc0d5c27bdfc
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Impostazione di un limite per gli eventi {#setting-an-event-cap}
+# Impostazione di un limite evento {#setting-an-event-cap}
 
 Limita il numero di persone che possono registrarsi all’evento con un limite di eventi.
 

@@ -4,24 +4,24 @@ description: Eliminare un dominio di branding - Documenti Marketo - Documentazio
 title: Eliminare un dominio di branding
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 0%
+source-wordcount: '56'
+ht-degree: 23%
 
 ---
 
 # Eliminare un dominio di branding {#delete-a-branding-domain}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-branding-domain-1.png)
 
-1. Fai clic su **[!UICONTROL E-mail]**.
+1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/delete-a-branding-domain-2.png)
 
-1. Nella tabella Domini di branding selezionare il dominio da rimuovere e fare clic su **[!UICONTROL Elimina]**.
+1. Nella tabella Domini di branding selezionare il dominio da rimuovere e fare clic su **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-branding-domain-3.png)
 

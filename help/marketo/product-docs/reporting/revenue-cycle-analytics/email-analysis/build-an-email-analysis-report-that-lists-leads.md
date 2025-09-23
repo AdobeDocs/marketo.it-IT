@@ -4,10 +4,10 @@ description: Creare un rapporto di analisi e-mail con l’elenco dei lead - Docu
 title: Creare un rapporto di analisi e-mail con l’elenco dei lead
 exl-id: f431610c-6570-4df0-9d64-d37d21010604
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -31,7 +31,7 @@ Segui questi passaggi per creare un rapporto di analisi e-mail che ti mostrerà 
 
    ![](assets/report-that-lists-leads-2.png)
 
-1. Selezionare **[!UICONTROL Email Analysis]** e fare clic su **[!UICONTROL OK]**.
+1. Seleziona **[!UICONTROL Email Analysis]** e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/report-that-lists-leads-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745825
 description: Sales Connect e conformità ai requisiti RGPD - Documentazione di Marketo - Documentazione del prodotto
-title: Sales Connect e conformità ai requisiti RGPD
+title: Sales Connect e la conformità ai requisiti GDPR
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1299'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -176,7 +176,7 @@ Per esportare le informazioni sul contatto, fare clic sui tre punti verticali ne
 >
 >Il RGPD richiede anche la possibilità di eliminare i contatti dall&#39;interfaccia utente, ma [!DNL Marketo Sales Connect] dispone già di questa funzionalità.
 
-## Annulla iscrizione {#unsubscribes}
+## Iscrizioni annullate {#unsubscribes}
 
 Un’area comunemente fraintesa del RGPD riguarda i contatti che annullano l’abbonamento al database dell’organizzazione. Per rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l&#39;abbonamento, in [!DNL Marketo Sales Connect] è stata inclusa la seguente funzionalità:
 

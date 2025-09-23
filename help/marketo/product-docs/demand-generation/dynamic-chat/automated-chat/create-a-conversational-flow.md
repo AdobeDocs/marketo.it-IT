@@ -3,10 +3,10 @@ description: Creare un flusso conversazionale - Documentazione di Marketo - Docu
 title: Creare un flusso conversazionale
 feature: Dynamic Chat
 exl-id: 2a4a87e4-13d8-4546-a9c0-75f36f5d83c9
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 10%
 
 ---
 
@@ -14,15 +14,15 @@ ht-degree: 0%
 
 Ecco come creare un nuovo flusso conversazionale.
 
-1. In [!UICONTROL Chat automatizzata], fai clic su **[!UICONTROL Flussi conversazionali]**.
+1. In [!UICONTROL Automated Chat], fare clic su **[!UICONTROL Conversational Flows]**.
 
    ![](assets/create-a-conversational-flow-1.png)
 
-1. Fare clic su **[!UICONTROL Crea flusso conversazionale]**.
+1. Fai clic su **[!UICONTROL Create Conversational Flow]**.
 
    ![](assets/create-a-conversational-flow-2.png)
 
-1. Scegli un flusso conversazionale vuoto o uno dei modelli precompilati. Immettere un nome (la descrizione è facoltativa), cambiare la lingua (facoltativo) e fare clic su **[!UICONTROL Crea]**.
+1. Scegli un flusso conversazionale vuoto o uno dei modelli precompilati. Immettere un nome (la descrizione è facoltativa), cambiare la lingua (facoltativo) e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/create-a-conversational-flow-3.png)
 

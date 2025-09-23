@@ -1,16 +1,16 @@
 ---
 description: Libreria di risposte - Documentazione di Marketo - Documentazione del prodotto
-title: Libreria risposte
+title: Libreria di risposta
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '346'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Libreria risposte {#response-library}
+# Libreria di risposta {#response-library}
 
 In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di approvazione e i nomi/argomenti delle attività assegnati.
 

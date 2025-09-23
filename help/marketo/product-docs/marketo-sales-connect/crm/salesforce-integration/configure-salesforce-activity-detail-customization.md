@@ -3,10 +3,10 @@ description: Configurare la personalizzazione dei dettagli delle attività di Sa
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '667'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 

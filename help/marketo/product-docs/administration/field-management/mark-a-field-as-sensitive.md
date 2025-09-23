@@ -3,10 +3,10 @@ description: Contrassegnare un campo come sensibile - Documentazione Marketo - D
 title: Contrassegnare un campo come sensibile
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 13%
 
 ---
 
@@ -18,11 +18,11 @@ In qualità di amministratore di Marketo, puoi contrassegnare un campo specifico
 >
 >Questa funzione verrà abilitata per tutte le istanze Marketo la sera di martedì 11 maggio.
 
-1. Fai clic su **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/mark-a-field-as-sensitive-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
@@ -30,7 +30,7 @@ In qualità di amministratore di Marketo, puoi contrassegnare un campo specifico
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Selezionare la casella di controllo **[!UICONTROL Contrassegna campo come sensibile]**.
+1. Selezionare la casella di controllo **[!UICONTROL Mark Field as Sensitive]**.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
 

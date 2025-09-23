@@ -4,10 +4,10 @@ description: Creazione di un canale di programma - Documentazione di Marketo - D
 title: Creare un canale del programma
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '387'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -23,7 +23,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 >
 >Ulteriori informazioni su [programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md), l&#39;elemento più importante di Marketo.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-a-program-channel-1.png)
 

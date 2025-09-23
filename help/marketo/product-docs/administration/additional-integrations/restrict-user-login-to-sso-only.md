@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360358
 description: Limita l’accesso degli utenti solo all’SSO - Documentazione di Marketo - Documentazione del prodotto
-title: Limita l'accesso degli utenti solo all'SSO
+title: Limitare l’accesso utente solo al SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
-# Limita l&#39;accesso degli utenti solo all&#39;SSO {#restrict-user-login-to-sso-only}
+# Limitare l’accesso utente solo al SSO {#restrict-user-login-to-sso-only}
 
 Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal.md) e vuoi essere certo che gli utenti non possano ignorare la sicurezza SSO, segui queste istruzioni.
 
@@ -23,7 +23,7 @@ Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrati
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/restrict-user-login-to-sso-only-1.png)
 

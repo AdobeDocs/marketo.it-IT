@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147114
 description: Informazioni sui token in un programma - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sui token in un programma
+title: Informazioni su I miei token in un programma
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '422'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Informazioni sui token in un programma {#understanding-my-tokens-in-a-program}
+# Informazioni su I miei token in un programma {#understanding-my-tokens-in-a-program}
 
 Un token è una variabile che puoi utilizzare nelle e-mail, nelle pagine di destinazione e nelle campagne avanzate per semplificare la tua vita.
 
@@ -41,12 +41,12 @@ Esempi:
    <td>Usa questo token per <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">aggiungere un file evento calendario (.i</a><a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/create-a-calendar-event-ics-file.md">cs)</a> alle e-mail e alle pagine di destinazione.</td>
   </tr>
   <tr>
-   <td><p>Date <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
+   <td><p>Data <img alt="--" src="assets/image2014-9-25-16-3a44-3a47.png" data-linked-resource-id="3083231" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></p></td>
    <td>Questo token contiene un valore di data. La data viene visualizzata come anno-mese-giorno (ad esempio, 2016-05-23).</td>
   </tr>
   <tr>
    <td>Script e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td>
+   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td>
   </tr>
   <tr>
    <td>Numero <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>

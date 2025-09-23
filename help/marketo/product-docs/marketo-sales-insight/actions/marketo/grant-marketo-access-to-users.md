@@ -3,10 +3,10 @@ description: Concedere l’accesso a Marketo agli utenti - Documentazione di Mar
 title: Concedere l’accesso a Marketo agli utenti
 exl-id: 0efb3e85-cc75-4810-bc67-05127f44e012
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -28,7 +28,7 @@ Segui i passaggi descritti in questo articolo per concedere agli utenti [!DNL Sa
 
    ![](assets/grant-marketo-access-to-users-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL User Access]**. Selezionare uno o più utenti, quindi fare clic su **[!UICONTROL Connect]**.
+1. Fai clic sulla scheda **[!UICONTROL User Access]**. Selezionare uno o più utenti, quindi fare clic su **[!UICONTROL Connect]**.
 
    ![](assets/grant-marketo-access-to-users-3.png)
 

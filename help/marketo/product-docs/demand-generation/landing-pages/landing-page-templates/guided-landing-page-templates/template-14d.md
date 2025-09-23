@@ -4,16 +4,16 @@ description: Modello 14D - Documentazione Marketo - Documentazione del prodotto
 title: Modello 14D
 exl-id: e8ef7eb9-c3a5-4c19-9022-d93bb4d07e89
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '50'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
 # Modello 14D {#template-14d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 14D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)
 
 ![](assets/image2015-8-13-10-3a36-3a45.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html?lang=it)
+[Modello 14D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-14d.html)

@@ -4,10 +4,10 @@ description: Informazioni sull’annullamento dell’iscrizione - Documentazione
 title: Informazioni sull’annullamento dell’iscrizione
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 4bae0126d6b36720e170bea7b6b973508c855633
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -33,7 +33,7 @@ Questo stato blocca la spedizione di una persona per 24 ore dopo che si è verif
 >
 >Le e-mail sospese rimarranno controllate anche dopo il periodo di 24 ore, quindi puoi fare riferimento a persone che sono state storicamente contrassegnate come tali. Per vedere se la persona è inviabile, calcola semplicemente 24 ore dopo il momento della sospensione dell’e-mail.
 
-## Inserire nell&#39;elenco Bloccati {#blocklisted}
+## Inseriti nell’elenco bloccati {#blocklisted}
 
 [Utilizzalo per persone come i concorrenti](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Chiunque desideri ricevere **no** e-mail: operativo, di marketing, ecc. Non ricevono nulla!
 

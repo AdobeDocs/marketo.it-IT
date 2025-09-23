@@ -4,7 +4,7 @@ description: Passaggio 3 di 3 - Connessione di Marketo e Dynamics (on-premise 20
 title: 'Passaggio 3 di 3: connessione di Marketo e Dynamics (on-premise 2013)'
 exl-id: e28f1cc3-ee15-4981-a537-6c4a1682c4c1
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%

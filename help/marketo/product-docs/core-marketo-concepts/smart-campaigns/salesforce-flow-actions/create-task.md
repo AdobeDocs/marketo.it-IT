@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147017
 description: Crea attività - Documenti Marketo - Documentazione del prodotto
-title: Crea attività
+title: Creare attività
 exl-id: c484d913-1fd8-4716-8caa-0bf318218ca1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 934bb5f197f801e48cf8e7554335eb2d07289037
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 0%
+source-wordcount: '109'
+ht-degree: 3%
 
 ---
 
-# Crea attività {#create-task}
+# Creare attività {#create-task}
 
 In qualità di addetto al marketing, hai a disposizione informazioni che possono essere di aiuto alle vendite per concludere un affare. Puoi creare attività per comunicare loro cosa dovrebbero fare e quando dovrebbero farlo.
 
@@ -19,7 +19,7 @@ In qualità di addetto al marketing, hai a disposizione informazioni che possono
 
 >[!NOTE]
 >
->Quando l&#39;utente di Marketo Sync crea delle attività, **[!UICONTROL Scadenza]** è un campo obbligatorio per la creazione dell&#39;attività in Salesforce. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
+>Quando l&#39;utente di Marketo Sync crea attività, **[!UICONTROL Due In]** è un campo obbligatorio per la creazione dell&#39;attività in Salesforce. Marketo inserirà cinque giorni per impostazione predefinita se non è presente alcun valore.
 
 Per impostazione predefinita, il passaggio del flusso si presenta così:
 

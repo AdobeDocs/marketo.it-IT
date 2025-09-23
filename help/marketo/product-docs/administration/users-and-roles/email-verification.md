@@ -1,22 +1,22 @@
 ---
 description: Verifica e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Verifica e-mail
+title: Verifica dell’e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 1df21d49f7ab29338ffe48f0d06302cc0fc792a1
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 0%
+source-wordcount: '462'
+ht-degree: 1%
 
 ---
 
-# Verifica e-mail {#email-verification}
+# Verifica dell’e-mail {#email-verification}
 
 Gli abbonamenti Adobe Marketo Engage richiedono a tutti gli utenti non API, inclusi gli amministratori di Marketo Engage, di verificare il proprio indirizzo e-mail.
 
 ## Perché è stata introdotta questa funzione {#why-this-feature-was-introduced}
 
-Il Marketo Engage sta continuando il rollout di Verifica e-mail in preparazione alla migrazione dei clienti alla piattaforma aziendale Adobe, inclusa la migrazione degli utenti agli ID Adobe. Questa funzione migliora la sicurezza degli account utente di Marketo Engage esistenti. Per garantire che un utente del Marketo Engage sia associato all’Adobe ID corretto, gli utenti del Marketo Engage esistenti devono verificare il proprio indirizzo e-mail. Per eseguire la migrazione a un’Adobe ID, l’utente del Marketo Engage deve disporre di un indirizzo e-mail verificato. Se un utente del Marketo Engage non verifica il proprio indirizzo e-mail, non può effettuare la migrazione a un Adobe ID e perderà l’accesso a un abbonamento Marketo al termine della migrazione utente per l’abbonamento.
+Marketo Engage sta continuando il rollout di Verifica e-mail in preparazione alla migrazione dei clienti alla piattaforma aziendale Adobe, inclusa la migrazione degli utenti agli Adobe ID. Questa funzione migliora la sicurezza degli account utente di Marketo Engage esistenti. Per garantire che un utente Marketo Engage sia associato all’Adobe ID corretto, gli utenti Marketo Engage esistenti devono verificare il proprio indirizzo e-mail. Per eseguire la migrazione a un’Adobe ID, l’utente di Marketo Engage deve disporre di un indirizzo e-mail verificato. Se un utente di Marketo Engage non verifica il proprio indirizzo e-mail, non può effettuare la migrazione a un Adobe ID e perderà l’accesso a un abbonamento a Marketo al termine della migrazione utente per l’abbonamento.
 
 ## Invito utente {#user-invite}
 
@@ -38,11 +38,11 @@ Per il completamento della verifica e-mail è necessaria una sessione utente att
 
 >[!TIP]
 >
->Per inviare di nuovo un&#39;e-mail di verifica a un utente non verificato, selezionarne il record e fare clic sul pulsante **[!UICONTROL Verifica e-mail]**.
+>Per inviare di nuovo un&#39;e-mail di verifica a un utente non verificato, selezionarne il record e fare clic sul pulsante **[!UICONTROL Verify Email]**.
 
 ## Modifica di un indirizzo e-mail {#changing-an-email-address}
 
-Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare di nuovo manualmente l&#39;e-mail facendo clic su **[!UICONTROL Invia di nuovo verifica]**.
+Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato. Verrà inviata loro un’e-mail che consentirà di eseguire nuovamente la verifica. Gli utenti possono inviare manualmente l&#39;e-mail facendo clic su **[!UICONTROL Resend Verification]**.
 
 ![](assets/email-verification-3.png)
 
@@ -50,13 +50,13 @@ Quando l’indirizzo e-mail di un utente viene modificato, non viene verificato.
 
 ## Utenti e ruoli {#users-and-roles}
 
-In **[!UICONTROL Amministratore]** > **[!UICONTROL Utenti e ruoli]**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
+In **[!UICONTROL Admin]** > **[!UICONTROL Users & Roles]**, la colonna Stato e-mail mostra lo stato di verifica di ogni utente.
 
 ![](assets/email-verification-5.png)
 
 ## ID di accesso per più utenti {#multiple-user-login-ids}
 
-A un singolo indirizzo e-mail può essere associato un solo account utente. Se a un singolo indirizzo e-mail sono associati più account utente, il Marketo Engage richiederà la risoluzione del conflitto e la visualizzazione di tutti gli accessi utente associati all&#39;indirizzo e-mail, oltre a tre opzioni di risoluzione:
+A un singolo indirizzo e-mail può essere associato un solo account utente. Se a un singolo indirizzo e-mail sono associati più account utente, Marketo Engage richiederà la risoluzione del conflitto e la visualizzazione di tutti gli accessi utente associati all’indirizzo e-mail, nonché di tre opzioni di risoluzione:
 
 * Utilizza l&#39;e-mail corrente per l&#39;ID accesso utente corrente
 * Utilizza una nuova e-mail per l&#39;ID di accesso utente corrente

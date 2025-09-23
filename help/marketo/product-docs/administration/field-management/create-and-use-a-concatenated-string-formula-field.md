@@ -1,41 +1,41 @@
 ---
 unique-page-id: 2360337
 description: Creare e utilizzare un campo Stringa concatenata (formula) - Documenti Marketo - Documentazione del prodotto
-title: Creare e utilizzare un campo Stringa concatenata (formula)
+title: Creare e utilizzare un campo (formula) Stringa concatenata
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 9181a599ae715e9ffcfd84d8316dfa1c094329a6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 0%
+source-wordcount: '158'
+ht-degree: 13%
 
 ---
 
-# Creare e utilizzare un campo Stringa concatenata (formula) {#create-and-use-a-concatenated-string-formula-field}
+# Creare e utilizzare un campo (formula) Stringa concatenata {#create-and-use-a-concatenated-string-formula-field}
 
 È possibile combinare valori provenienti da più campi o creare un valore condizionale utilizzando un campo formula di Marketo Engage.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-2.png)
 
-1. Fare clic su **[!UICONTROL Nuovo campo personalizzato]**.
+1. Fai clic su **[!UICONTROL New Custom Field]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-3.png)
 
-1. Selezionare **[!UICONTROL Formula]** per **[!UICONTROL Tipo]**.
+1. Selezionare **[!UICONTROL Formula]** per **[!UICONTROL Type]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-4.png)
 
-1. Immetti un **[!UICONTROL Nome]** per il campo, quindi fai clic su **[!UICONTROL Crea]**.
+1. Immetti **[!UICONTROL Name]** per il campo, quindi fai clic su **[!UICONTROL Create]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-5.png)
 
-1. Trova e seleziona il campo formula, quindi fai clic su **[!UICONTROL Modifica regole]**.
+1. Trovare e selezionare il campo formula, quindi fare clic su **[!UICONTROL Edit Rules]**.
 
    ![](assets/create-and-use-a-concatenated-string-formula-field-6.png)
 

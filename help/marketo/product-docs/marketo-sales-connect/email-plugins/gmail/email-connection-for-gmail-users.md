@@ -4,10 +4,10 @@ description: Connessione e-mail per utenti Gmail - Documentazione di Marketo - D
 title: Connessione e-mail per utenti Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
@@ -35,7 +35,7 @@ La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, a
 
    ![](assets/four.png)
 
-1. Selezionare **[!UICONTROL I use Gmail to send emails]** e fare clic su **[!UICONTROL Next]**.
+1. Seleziona **[!UICONTROL I use Gmail to send emails]** e fai clic su **[!UICONTROL Next]**.
 
    ![](assets/five.png)
 

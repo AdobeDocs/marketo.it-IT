@@ -4,10 +4,10 @@ description: Utilizzare il contenuto dinamico in una pagina di destinazione - Do
 title: Utilizzare il contenuto dinamico in una pagina di destinazione
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

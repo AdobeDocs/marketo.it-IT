@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2953352
 description: Modificare le voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
-title: Modificare le voci direttamente nel calendario di marketing
+title: Modificare le voci direttamente nel calendario marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 9%
 
 ---
 
-# Modificare le voci direttamente nel calendario di marketing {#edit-entries-directly-in-the-marketing-calendar}
+# Modificare le voci direttamente nel calendario marketing {#edit-entries-directly-in-the-marketing-calendar}
 
 Una volta attivata la modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario. Ecco come.
 
 ## Abilita attivazione programma {#enable-program-focus}
 
-1. Fare clic sul riquadro **[!UICONTROL Calendario]**.
+1. Fare clic sul riquadro **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-3.png)
 
-1. Selezionare una voce che appartiene al programma su cui si desidera concentrarsi e fare clic su **[!UICONTROL Mostra stato attivo]**.
+1. Selezionare una voce appartenente al programma su cui si desidera concentrarsi e fare clic su **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a16-3a7.png)
 
@@ -63,7 +63,7 @@ Puoi accedere rapidamente a diverse aree delle voci per la modifica.
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-Tutto qui! Come puoi vedere ci sono molte cose che puoi fare direttamente dal calendario di marketing.
+Tutto qui. Come puoi vedere ci sono molte cose che puoi fare direttamente dal calendario di marketing.
 
 >[!MORELIKETHIS]
 >

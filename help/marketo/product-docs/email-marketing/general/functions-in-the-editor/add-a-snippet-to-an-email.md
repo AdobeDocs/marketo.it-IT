@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147358
 description: Aggiungere uno snippet a un messaggio e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungere uno snippet a un messaggio e-mail
+title: Aggiungere uno snippet a un’e-mail
 exl-id: 609130a7-c309-4f9d-99bc-c752047ce0f4
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Aggiungere uno snippet a un messaggio e-mail {#add-a-snippet-to-an-email}
+# Aggiungere uno snippet a un’e-mail {#add-a-snippet-to-an-email}
 
 I snippet sono blocchi di testo RTF e di grafica riutilizzabili che è possibile utilizzare nelle e-mail e nelle pagine di destinazione.
 

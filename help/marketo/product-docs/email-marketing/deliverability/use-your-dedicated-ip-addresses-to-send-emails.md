@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900587
 description: Utilizzare gli indirizzi IP dedicati per inviare e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizza i tuoi indirizzi IP dedicati per inviare e-mail
+title: Utilizzare i tuoi indirizzi IP dedicati per inviare e-mail
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 1ba9524b4136f50e5b4fc17e87466d6452913df6
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Utilizza i tuoi indirizzi IP dedicati per inviare e-mail {#use-your-dedicated-ip-addresses-to-send-emails}
+# Utilizzare i tuoi indirizzi IP dedicati per inviare e-mail {#use-your-dedicated-ip-addresses-to-send-emails}
 
 L’invio da uno o più IP dedicati offre il controllo completo sulla reputazione dell’invio.
 

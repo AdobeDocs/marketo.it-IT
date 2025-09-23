@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900548
 description: Anteprima di un’e-mail con contenuti dinamici - Documenti Marketo - Documentazione del prodotto
-title: Anteprima di un’e-mail con contenuto dinamico
+title: Visualizzarae in anteprima un’e-mail con contenuto dinamico
 exl-id: 7d27f73c-d38b-4d95-a861-b27367f1f532
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Anteprima di un’e-mail con contenuto dinamico {#preview-an-email-with-dynamic-content}
+# Visualizzarae in anteprima un’e-mail con contenuto dinamico {#preview-an-email-with-dynamic-content}
 
 Visualizza l’anteprima del messaggio e-mail dopo l’aggiunta di contenuto dinamico per verificarlo.
 

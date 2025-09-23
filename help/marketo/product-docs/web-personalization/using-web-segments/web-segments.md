@@ -4,7 +4,7 @@ description: Segmenti web - Documentazione di Marketo - Documentazione del prodo
 title: Segmenti web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1980'
 ht-degree: 0%
@@ -187,7 +187,7 @@ Seleziona da un [elenco account denominati](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Escludi ISP**
 
@@ -286,7 +286,7 @@ Aggiungi il valore Evento di destinazione. Ad esempio da fonti di dati di terze 
 
 **API contesto utente**
 
-Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

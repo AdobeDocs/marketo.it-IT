@@ -4,10 +4,10 @@ description: Eliminare un campo in un modulo - Documentazione di Marketo - Docum
 title: Eliminare un campo in un modulo
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '69'
-ht-degree: 2%
+ht-degree: 23%
 
 ---
 

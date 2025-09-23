@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352436
 description: Presenza locale telefono vendite - Documentazione Marketo - Documentazione del prodotto
-title: Presenza locale telefono vendita
+title: Presenza telefonica locale di vendita
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '137'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Presenza locale telefono vendita {#sales-phone-local-presence}
+# Presenza telefonica locale di vendita {#sales-phone-local-presence}
 
 Se desideri chiamare dallo stesso indicativo località, seleziona la casella **[!UICONTROL Local Presence]** prima di effettuare la chiamata.
 

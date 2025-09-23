@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949281
 description: Rilasciare una licenza di Marketo Email Add-in - Documenti Marketo - Documentazione del prodotto
-title: Rilasciare una licenza di Marketo Email Add-in
+title: Rilasciare una licenza del componente aggiuntivo e-mail di Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '289'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Rilasciare una licenza di Marketo Email Add-in {#issue-a-marketo-email-add-in-license}
+# Rilasciare una licenza del componente aggiuntivo e-mail di Marketo {#issue-a-marketo-email-add-in-license}
 
 A tutti gli utenti che desiderano utilizzare il componente aggiuntivo [!DNL Outlook] per e-mail Marketo deve essere prima rilasciata una licenza. Esistono due modi per fornire la licenza.
 

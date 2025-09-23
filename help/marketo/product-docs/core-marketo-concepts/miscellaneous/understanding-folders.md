@@ -3,10 +3,10 @@ unique-page-id: 4720779
 description: Cartelle - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle cartelle
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '252'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Le cartelle all’interno di un programma possono essere utilizzate per organizz
 
 ## Creare una cartella {#create-a-folder}
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

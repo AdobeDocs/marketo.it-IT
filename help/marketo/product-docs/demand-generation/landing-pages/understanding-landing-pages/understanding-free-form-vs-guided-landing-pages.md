@@ -4,10 +4,10 @@ description: Informazioni sulle pagine di destinazione in formato libero e guida
 title: Informazioni sulle pagine di destinazione in formato libero e guidato
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 

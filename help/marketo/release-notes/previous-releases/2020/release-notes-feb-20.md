@@ -4,14 +4,14 @@ description: Note sulla versione -Feb '20 - Documentazione Marketo - Documentazi
 title: Note sulla versione - Febbraio 20
 exl-id: 6216b405-69c6-422b-a78c-7df0e8d271e9
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '639'
-ht-degree: 0%
+source-wordcount: '637'
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: febbraio 20 {#release-notes-feb}
+# Note sulla versione - Febbraio 2020 {#release-notes-feb}
 
 Le seguenti funzioni sono incluse nella versione di febbraio 2020. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -23,7 +23,7 @@ Le seguenti funzioni sono incluse nella versione di febbraio 2020. Verifica la d
 
 ## Marketo Engage core {#core-marketo-engage}
 
-* Azione di flusso **&quot;Change Owner in Microsoft&quot; di**&#x200B;[!DNL Microsoft Dynamics]: mantieni il controllo dei tuoi dati di gestione delle relazioni con i clienti [!DNL Microsoft Dynamics] con la possibilità di modificare un proprietario lead/contatto direttamente da Marketo Engage. Questo è un miglioramento della funzionalità di integrazione CRM nativa.
+* Azione di flusso **[!DNL Microsoft Dynamics]&quot;Change Owner in Microsoft&quot; di**: mantieni il controllo dei tuoi dati di gestione delle relazioni con i clienti [!DNL Microsoft Dynamics] con la possibilità di modificare un proprietario lead/contatto direttamente da Marketo Engage. Questo è un miglioramento della funzionalità di integrazione CRM nativa.
 * **API per la gestione degli utenti**: gestione automatizzata di utenti e ruoli tramite sistemi esterni di gestione delle identità e delle organizzazioni. Questo è un miglioramento della funzionalità Chiamate API.
 * **API per schemi di oggetti personalizzati**: gestisci ed esegui il provisioning automatico degli schemi di oggetti personalizzati tra le istanze in Marketo Engage per mantenere coerenza tra i modelli di dati degli strumenti di vendita e marketing. Con questa API, puoi definire e testare gli oggetti personalizzati in una sandbox o in un centro di eccellenza ed eseguire il provisioning di tutte le istanze necessarie. Questo è un miglioramento della funzionalità Chiamate API. Per informazioni su come ottenere l’accesso a questo miglioramento, contatta il rappresentante Marketo Engage.
 * **API per le regole di reindirizzamento delle pagine di destinazione**: gestione automatizzata delle regole di reindirizzamento delle pagine di destinazione. Questo è un miglioramento della funzionalità Chiamate API.

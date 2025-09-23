@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360317
 description: Assegnare partizioni persona alle aree di lavoro - Documentazione Marketo - Documentazione del prodotto
-title: Assegnare partizioni persona alle aree di lavoro
+title: Assegnare partizioni persone alle aree di lavoro
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
-# Assegnare partizioni persona alle aree di lavoro {#assign-person-partitions-to-workspaces}
+# Assegnare partizioni persone alle aree di lavoro {#assign-person-partitions-to-workspaces}
 
 Di seguito viene illustrato come modificare le assegnazioni della partizione persona/area di lavoro:
 
@@ -27,7 +27,7 @@ Di seguito viene illustrato come modificare le assegnazioni della partizione per
 >
 >Le aree di lavoro e le partizioni delle persone possono essere complesse. Contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"} per assistenza nella configurazione.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/assign-person-partitions-to-workspaces-1.png)
 

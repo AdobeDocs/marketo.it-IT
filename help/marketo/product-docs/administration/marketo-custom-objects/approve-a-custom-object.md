@@ -4,10 +4,10 @@ description: Approvare un oggetto personalizzato - Documentazione di Marketo - D
 title: Approvare un oggetto personalizzato
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 0%
+source-wordcount: '259'
+ht-degree: 8%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/approve-a-custom-object-1.png)
 
-1. Fare clic su **[!UICONTROL Oggetti personalizzati Marketo]**.
+1. Fai clic su **[!UICONTROL Marketo Custom Objects]**.
 
    ![](assets/approve-a-custom-object-2.png)
 
@@ -31,11 +31,11 @@ Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
    ![](assets/approve-a-custom-object-3.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Approva oggetto]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Custom Object Actions]** e seleziona **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-4.png)
 
-1. Lo stato diventa [!UICONTROL Approvato].
+1. Lo stato diventa [!UICONTROL Approved].
 
    ![](assets/approve-a-custom-object-5.png)
 
@@ -49,20 +49,20 @@ Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
    >
    >Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
-Tutto qui! Ora puoi selezionare l’oggetto personalizzato nei vincoli dei filtri e dei trigger da utilizzare nelle campagne.
+Tutto qui. Ora puoi selezionare l’oggetto personalizzato nei vincoli dei filtri e dei trigger da utilizzare nelle campagne.
 
 ## Approvare un oggetto personalizzato modificato {#approve-an-edited-custom-object}
 
 Dopo aver modificato un oggetto personalizzato approvato, è necessario approvare la bozza per ripristinare lo stato Approvato dell&#39;oggetto personalizzato.
 
-1. Quando modifichi un oggetto personalizzato già approvato, riceve lo stato [!UICONTROL Approvato con bozza].
+1. Quando si modifica un oggetto personalizzato già approvato, questo riceve lo stato [!UICONTROL Approved with Draft].
 
    ![](assets/approve-a-custom-object-6.png)
 
-1. Quando sei pronto ad approvare la bozza, fai clic sul menu a discesa **[!UICONTROL Azioni oggetto personalizzato]** e seleziona **[!UICONTROL Approva oggetto]**.
+1. Quando sei pronto ad approvare la bozza, fai clic sul menu a discesa **[!UICONTROL Custom Object Actions]** e seleziona **[!UICONTROL Approve Object]**.
 
    ![](assets/approve-a-custom-object-7.png)
 
-1. Un’anteprima mostra gli elementi modificati nella bozza. Fai clic su **[!UICONTROL Approva]**.
+1. Un’anteprima mostra gli elementi modificati nella bozza. Fai clic su **[!UICONTROL Approve]**.
 
    ![](assets/approve-a-custom-object-8.png)

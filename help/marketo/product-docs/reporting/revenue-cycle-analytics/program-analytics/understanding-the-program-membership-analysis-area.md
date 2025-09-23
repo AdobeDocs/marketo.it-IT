@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718640
 description: Informazioni sull’area di analisi dell’iscrizione al programma - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sull’area di analisi dell’appartenenza al programma
+title: Informazioni su area di analisi dell’appartenenza al programma
 exl-id: dab55802-9a6c-447c-99fc-bc4fece6d674
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '236'
-ht-degree: 5%
+ht-degree: 13%
 
 ---
 
-# Informazioni sull’area di analisi dell’appartenenza al programma {#understanding-the-program-membership-analysis-area}
+# Informazioni su area di analisi dell’appartenenza al programma {#understanding-the-program-membership-analysis-area}
 
 L’area Analisi sull’iscrizione al programma consente di analizzare l’efficacia dei singoli programmi o di visualizzare un riepilogo dei risultati per canale per un determinato periodo di tempo.
 
@@ -29,7 +29,7 @@ Quanti nuovi nomi sono stati generati al mese da ogni programma/canale?
 
 ![](assets/three-2.png)
 
-## Dimension e misure di analisi dell&#39;appartenenza al programma {#program-membership-analysis-dimensions-and-measures}
+## Dimensioni e misure per l’analisi dell’appartenenza al programma {#program-membership-analysis-dimensions-and-measures}
 
 >[!NOTE]
 >
@@ -54,13 +54,13 @@ Quanti nuovi nomi sono stati generati al mese da ogni programma/canale?
 
 | Dimensione | Descrizione |
 |---|---|
-| Anno | Periodo di iscrizione al programma |
+| Year | Periodo di iscrizione al programma |
 | Trimestre | Periodo di iscrizione al programma |
-| Mese | Periodo di iscrizione al programma |
+| Month | Periodo di iscrizione al programma |
 | Settimana | Periodo di iscrizione al programma |
 | Data | Periodo di iscrizione al programma |
 
-### Operazione riuscita {#success}
+### Completato {#success}
 
 | Misurare | Descrizione |
 |---|---|

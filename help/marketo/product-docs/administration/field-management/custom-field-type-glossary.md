@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2951259
 description: Glossario dei tipi di campo personalizzati - Documentazione di Marketo - Documentazione del prodotto
-title: Glossario dei tipi di campo personalizzati
+title: Glossario dei tipi di campo personalizzato
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '594'
-ht-degree: 2%
+ht-degree: 3%
 
 ---
 
-# Glossario dei tipi di campo personalizzati {#custom-field-type-glossary}
+# Glossario dei tipi di campo personalizzato {#custom-field-type-glossary}
 
 Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui scegliere.
 

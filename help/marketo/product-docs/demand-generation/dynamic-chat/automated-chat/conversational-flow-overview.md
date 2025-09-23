@@ -1,16 +1,16 @@
 ---
 description: Panoramica del flusso conversazionale - Documentazione di Marketo - Documentazione di prodotto
-title: Panoramica del flusso conversazionale
+title: Panoramica sul flusso conversazionale
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Panoramica del flusso conversazionale {#conversational-flow-overview}
+# Panoramica sul flusso conversazionale {#conversational-flow-overview}
 
 Progetta un flusso conversazionale e attivalo per qualsiasi visitatore in base a un’azione specifica (ad esempio, clic su un pulsante call-to-action, al caricamento della pagina, tempo trascorso sulla pagina e così via).
 
@@ -82,7 +82,7 @@ Nella parte inferiore della scheda Impostazioni, personalizzare il trigger Conve
 
 >[!TIP]
 >
->Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=it){target="_blank"} in azione.
+>Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione.
 
 >[!MORELIKETHIS]
 >

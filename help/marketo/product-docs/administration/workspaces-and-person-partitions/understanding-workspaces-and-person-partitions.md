@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360309
 description: Aree di lavoro e partizioni delle persone - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sulle aree di lavoro e sulle partizioni delle persone
+title: Informazioni sulle aree di lavoro e sulle partizioni persone
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: 91b6460bf0fa7fed85d48887ec38203f2ee7440f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 0%
+source-wordcount: '528'
+ht-degree: 4%
 
 ---
 
-# Informazioni sulle aree di lavoro e sulle partizioni delle persone {#understanding-workspaces-and-person-partitions}
+# Informazioni sulle aree di lavoro e sulle partizioni persone {#understanding-workspaces-and-person-partitions}
 
 ## Aree di lavoro {#workspaces}
 
@@ -44,15 +44,15 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 >
 >La cartella principale contenente le risorse è l’unica cartella che può essere condivisa, non le cartelle secondarie.
 
-1. Fare clic su **[!UICONTROL Database]**.
+1. Fai clic su **[!UICONTROL Database]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-1.png)
 
-1. Fare clic con il pulsante destro del mouse sulla cartella Segmentazione e scegliere **[!UICONTROL Nuova cartella]**.
+1. Fare clic con il pulsante destro del mouse sulla cartella Segmentazione e scegliere **[!UICONTROL New Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-2.png)
 
-1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Crea]**.
+1. Assegna un nome alla cartella e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-3.png)
 
@@ -60,11 +60,11 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 
    ![](assets/understanding-workspaces-and-person-partitions-4.png)
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Condividi cartella]**.
+1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Share Folder]**.
 
    ![](assets/understanding-workspaces-and-person-partitions-5.png)
 
-1. Seleziona le aree di lavoro con cui vuoi condividere la cartella e fai clic su **[!UICONTROL Salva]**. Nella finestra di dialogo Condividi cartella verranno visualizzate solo le aree di lavoro per le quali si dispone dell&#39;autorizzazione di visualizzazione.
+1. Selezionare le aree di lavoro con cui condividere la cartella e fare clic su **[!UICONTROL Save]**. Nella finestra di dialogo Condividi cartella verranno visualizzate solo le aree di lavoro per le quali si dispone dell&#39;autorizzazione di visualizzazione.
 
    ![](assets/understanding-workspaces-and-person-partitions-6.png)
 
@@ -75,7 +75,7 @@ Ecco come condividere le risorse tra le aree di lavoro. Funziona allo stesso mod
 È possibile condividere questi elementi tra aree di lavoro diverse.
 
 * Modelli e-mail
-* Modelli di pagina di destinazione
+* Modelli pagine di destinazione
 * Modelli
 * Campagne intelligenti
 * [Elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/reference-a-list-or-smart-list-across-workspaces.md)
@@ -114,7 +114,7 @@ Le partizioni delle persone si comportano come database separati. Ogni partizion
 È possibile assegnare le partizioni persona alle [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
 
 * partizione da un&#39;area di lavoro a una persona (1:1)
-* da un&#39;area di lavoro a più partizioni persona (1:x)
+* da un&#39;area di lavoro a molte partizioni persona (1:x)
 * molte aree di lavoro in una partizione persona (x:1)
 
 >[!NOTE]

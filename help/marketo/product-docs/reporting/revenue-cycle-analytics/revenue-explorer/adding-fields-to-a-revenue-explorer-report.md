@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7504383
 description: Aggiunta di campi a un rapporto di Revenue Explorer (documenti Marketo) - Documentazione del prodotto
-title: Aggiunta di campi a un rapporto di Gestione entrate
+title: Aggiunta di campi a un rapporto di Revenue Explorer
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Aggiunta di campi a un rapporto di Gestione entrate {#adding-fields-to-a-revenue-explorer-report}
+# Aggiunta di campi a un rapporto di Revenue Explorer {#adding-fields-to-a-revenue-explorer-report}
 
 Personalizza i rapporti di Esplora entrate trascinando i campi delle dimensioni e delle metriche nell’area di lavoro.
 

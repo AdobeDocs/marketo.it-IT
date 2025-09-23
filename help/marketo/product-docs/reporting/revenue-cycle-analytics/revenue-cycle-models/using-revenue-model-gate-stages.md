@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4718670
 description: Utilizzo degli stadi del gate del modello di ricavo - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo degli stadi del gate del modello di ricavo
+title: Utilizzo dei gate stages del modello di ricavi
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Utilizzo degli stadi del gate del modello di ricavo {#using-revenue-model-gate-stages}
+# Utilizzo dei gate stages del modello di ricavi {#using-revenue-model-gate-stages}
 
 Una fase del gate funge da controllo di qualificazione.
 
@@ -21,7 +21,7 @@ Una fase del gate funge da controllo di qualificazione.
 
 ## Aggiungi Un Gate Stage {#add-a-gate-stage}
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-27-23-3a27-3a43.png)
 

@@ -4,9 +4,9 @@ title: Authoring di e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: bfa1bc900c2adc263e634a81440b77bef2976d3b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '1723'
+source-wordcount: '1721'
 ht-degree: 1%
 
 ---
@@ -167,7 +167,7 @@ Scegli uno dei modelli predefiniti per iniziare subito a progettare modelli e-ma
 
    >[!TIP]
    >
-   >Seleziona il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
+   >Selezionare il componente colonna n:n per definire il numero di colonne desiderato (tra tre e 10). Puoi anche definire la larghezza di ciascuna colonna spostando le frecce sotto di essa.
 
    ![](assets/authoring-add-structure-and-content-1.png)
 
@@ -193,9 +193,9 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 
 >[!TIP]
 >
->Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne 1:1, quindi trascina e rilascia il frammento al suo interno.
+>Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne da 1:1, quindi trascina e rilascia il frammento all’interno di esso.
 
-Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_&#x200B;della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
+Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
 ### Aggiungi Assets {#add-assets}
 
@@ -227,13 +227,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 

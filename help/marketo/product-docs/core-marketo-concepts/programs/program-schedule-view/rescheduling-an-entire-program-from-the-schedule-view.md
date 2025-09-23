@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147138
 description: Riprogrammazione di un intero programma dalla vista Pianificazione - Documenti Marketo - Documentazione del prodotto
-title: Riprogrammazione di un intero programma dalla vista Pianificazione
+title: Ripianificazione di un programma intero dalla vista Pianificazione
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
-# Riprogrammazione di un intero programma dalla vista Pianificazione {#rescheduling-an-entire-program-from-the-schedule-view}
+# Ripianificazione di un programma intero dalla vista Pianificazione {#rescheduling-an-entire-program-from-the-schedule-view}
 
 Quando si clona un programma o un evento con date, è probabile che si desideri riprogrammare tutte le date contemporaneamente. Ecco come.
 

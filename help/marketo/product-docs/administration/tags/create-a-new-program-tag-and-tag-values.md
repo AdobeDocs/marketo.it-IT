@@ -4,10 +4,10 @@ description: Creazione di un nuovo codice di matricola e di un nuovo codice di m
 title: Creare un nuovo tag programma e valori di tag
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 0%
+source-wordcount: '150'
+ht-degree: 16%
 
 ---
 
@@ -27,19 +27,19 @@ Puoi creare [tag](/help/marketo/product-docs/core-marketo-concepts/programs/work
 >
 >Valore del tag del programma: PMI, azienda, mercato intermedio
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-1.png)
 
-1. Fai clic su **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tags]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-2.png)
 
-1. Fai clic su **[!UICONTROL Nuovo]** e seleziona **[!UICONTROL Nuovo tipo di tag]**.
+1. Fare clic su **[!UICONTROL New]** e selezionare **[!UICONTROL New Tag Type]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-3.png)
 
-1. Immetti il **[!UICONTROL Tipo di tag]** e un tag **[!UICONTROL Valore]**. Quindi fare clic su **[!UICONTROL Aggiungi altro]**.
+1. Immettere **[!UICONTROL Tag Type]** e un tag **[!UICONTROL Value]**. Quindi fai clic su **[!UICONTROL Add Another]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-4.png)
 
@@ -51,13 +51,13 @@ Puoi creare [tag](/help/marketo/product-docs/core-marketo-concepts/programs/work
    >
    >È possibile selezionare più tipi di programmi. Quando viene creato un nuovo programma, questo tipo di tag sarà disponibile.
 
-1. Seleziona **[!UICONTROL Obbligatorio]** e fai clic su **[!UICONTROL Crea]**.
+1. Selezionare **[!UICONTROL Required]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/create-a-new-program-tag-and-tag-values-6.png)
 
    >[!NOTE]
    >
-   >Se il tipo di tag è **[!UICONTROL Obbligatorio]**, gli utenti dovranno immettere un valore per il tag durante la creazione di un nuovo programma.
+   >Se il tipo di tag è **[!UICONTROL Required]**, gli utenti dovranno immettere un valore per il tag durante la creazione di un nuovo programma.
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 

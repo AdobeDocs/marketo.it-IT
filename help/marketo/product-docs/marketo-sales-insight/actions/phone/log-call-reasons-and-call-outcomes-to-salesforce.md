@@ -1,16 +1,16 @@
 ---
-description: Registra i motivi delle chiamate e gli esiti delle chiamate a Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Registra i motivi e gli esiti delle chiamate a Salesforce
+description: Registra i motivi delle chiamate e gli esiti delle chiamate a Salesforce - Documentazione Marketo - Documentazione del prodotto
+title: Registrare i motivi e gli esiti delle chiamate in Salesforce
 exl-id: cfe71388-282b-45e5-a817-45a951f613bc
 feature: Sales Insight Actions
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '461'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Registra i motivi e gli esiti delle chiamate a Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
+# Registrare i motivi e gli esiti delle chiamate in Salesforce {#log-call-reasons-and-call-outcomes-to-salesforce}
 
 Se desideri registrare i risultati delle chiamate e i motivi delle chiamate a Salesforce a scopo di reporting o visibilità, puoi creare un campo attività personalizzato per ciascuno di essi. Ogni campo deve utilizzare un nome API specifico (noto come &quot;Nome campo&quot; in Salesforce).
 
@@ -35,7 +35,7 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-3.png)
 
-1. Fare clic su **Nuovo**.
+1. Fai clic su **Nuovo**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-4.png)
 
@@ -57,7 +57,7 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    >[!NOTE]
    >
-   >Assicurati che il campo personalizzato sia visibile al profilo utilizzato dagli utenti delle azioni di approfondimento sulle vendite, insieme a qualsiasi altro punto in cui desideri che sia visibile.
+   >Assicurati che il campo personalizzato sia visibile al profilo utilizzato dagli utenti delle azioni di Sales Insight, insieme a qualsiasi altro punto in cui lo desideri.
 
 1. Seleziona i layout di pagina a cui vuoi aggiungere il campo e fai clic su **Salva** (facoltativamente, puoi fare clic su **Salva e nuovo** e ripetere la procedura per il campo Motivo chiamata).
 
@@ -97,7 +97,7 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
 ### Creare un campo attività personalizzato in Salesforce Lightning {#create-custom-activity-field-in-salesforce-lightning}
 
-1. In Salesforce, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Configurazione**.
+1. In Salesforce, fai clic sull&#39;icona ingranaggio in alto a destra e seleziona **Configurazione**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-16.png)
 
@@ -117,13 +117,13 @@ Per utilizzare questi campi, devi innanzitutto crearli come campo attività pers
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-20.png)
 
-1. Fare clic su **Nuovo**.
+1. Fai clic su **Nuovo**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-21.png)
 
 ### Aggiungere un campo attività personalizzato al layout della pagina attività in Salesforce Lightning {#add-custom-activity-field-to-task-page-layout-in-salesforce-lightning}
 
-1. In Salesforce, fai clic sull&#39;icona a forma di ingranaggio in alto a destra e seleziona **Configurazione**.
+1. In Salesforce, fai clic sull&#39;icona ingranaggio in alto a destra e seleziona **Configurazione**.
 
    ![](assets/log-call-reasons-and-call-outcomes-to-salesforce-22.png)
 

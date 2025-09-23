@@ -3,7 +3,7 @@ description: Flussi di lavoro per eventi - Documentazione di Marketo - Documenta
 title: Flussi di lavoro eventi
 exl-id: c9f44d9f-9210-4303-a9b5-22be1376efc4
 feature: Interactive Webinars
-source-git-commit: 8222d5d8d5600ffac72b3aac69137ba395169932
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Al termine del webinar, vai alla scheda Dashboard per visualizzare le prestazion
 
 ## Sincronizzazione manuale {#manual-sync}
 
-I webinar interattivi ti consentono di ottenere i dati sul coinvolgimento del webinar da Adobe Connect se non li hai ricevuti automaticamente entro due ore dal completamento del webinar. Nella pagina Overview (Panoramica) viene visualizzato il pulsante &quot;Sync Now&quot; (Sincronizza ora). Facendo clic su **Sincronizza ora** viene attivato un richiamo da Adobe Connect per popolare i dati nel Marketo Engage. Una volta eseguita la sincronizzazione, il pulsante scompare e la scheda Dashboard si popola.
+I webinar interattivi ti consentono di ottenere i dati sul coinvolgimento del webinar da Adobe Connect se non li hai ricevuti automaticamente entro due ore dal completamento del webinar. Nella pagina Overview (Panoramica) viene visualizzato il pulsante &quot;Sync Now&quot; (Sincronizza ora). Facendo clic su **Sincronizza ora** viene attivato un richiamo da Adobe Connect per popolare i dati in Marketo Engage. Una volta eseguita la sincronizzazione, il pulsante scompare e la scheda Dashboard si popola.
 
 ## Widget dashboard {#dashboard-widgets}
 

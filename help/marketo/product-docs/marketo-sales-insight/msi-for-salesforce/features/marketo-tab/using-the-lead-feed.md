@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7512979
 description: Utilizzo del feed di lead - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo del feed di lead
+title: Utilizzo dei feed di lead
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '328'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Utilizzo del feed di lead {#using-the-lead-feed}
+# Utilizzo dei feed di lead {#using-the-lead-feed}
 
 Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. Si troverà sul lato destro quando si fa clic sulla scheda Marketo. È come un feed RSS o [!DNL Twitter]: gli aggiornamenti più recenti sono in cima all&#39;elenco. Usa questo per saltare sui lead mentre sei ancora fresco nella loro mente.
 

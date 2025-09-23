@@ -3,16 +3,16 @@ description: Guida rapida - Documentazione di Marketo - Documentazione del prodo
 title: Guida rapida
 exl-id: eb854ec8-fabb-477d-977b-9dc7e7d9f24f
 feature: Marketo with Adobe Identity
-source-git-commit: 9e51ece12742152040dbbcb6a1584fba28e863ff
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
 # Guida rapida {#quick-guide}
 
-Gli articoli elencati di seguito ti aiuteranno a configurare e a scoprire il Marketo Engage con Adobe Identity Management.
+Gli articoli elencati di seguito ti aiuteranno a configurare e a scoprire Marketo Engage con Adobe Identity Management.
 
 ## Configurazione amministratore di sistema {#system-admin-setup}
 
@@ -31,15 +31,15 @@ Admin).
 
 [Rimuovi un utente](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md#remove-a-user){target="_blank"}
 
-## Utente solo API nel Marketo Engage {#api-only-user-in-marketo-engage}
+## Utente solo API in Marketo Engage {#api-only-user-in-marketo-engage}
 
-Solo gli utenti API di Marketo Engage devono essere creati e gestiti nel Marketo Engage.
+Solo gli utenti API di Marketo Engage devono essere creati e gestiti in Marketo Engage.
 
 [Aggiungi utente solo API per sottoscrizioni abilitate Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}
 
 ## Aggiungere utenti tramite CSV {#add-users-via-csv}
 
-[Importa CSV](https://helpx.adobe.com/it/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
+[Importa CSV](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html#add-users){target="_blank"}
 
 ## Accesso utente {#user-sign-in}
 

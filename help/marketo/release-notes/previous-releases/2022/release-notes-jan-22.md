@@ -2,20 +2,20 @@
 description: Note sulla versione - Gennaio 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '884'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Note sulla versione: gennaio 2022 {#release-notes-jan-22}
+# Note sulla versione - Gennaio 2022 {#release-notes-jan-22}
 
-Le seguenti funzioni sono incluse nella versione di gennaio 2022. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Le seguenti funzioni sono incluse nella versione di gennaio 2022. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 **_Versioni trimestrali_**
 

@@ -4,18 +4,18 @@ description: Note sulla versione - Luglio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '410'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: luglio 2014 {#release-notes-july}
+# Note sulla versione - Luglio 2014 {#release-notes-july}
 
 Le seguenti funzioni sono incluse nella versione di luglio 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Torna indietro dopo il rilascio per collegamenti alla documentazione dettagliata delle funzioni.
 
-## Calendario di marketing {#marketing-calendar}
+## Calendario marketing {#marketing-calendar}
 
 Visualizza tutti gli eventi, le e-mail e altro nei vari programmi. [Questo nuovo prodotto](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/navigating-the-marketing-calendar.md) sarà disponibile gratuitamente per i clienti con un massimo di 10 [!DNL Marketo Lead Management] o utenti Dialog.
 
@@ -37,7 +37,7 @@ La documentazione sul calendario di marketing sarà disponibile al momento del r
 
 ![](assets/image2014-9-22-14-3a24-3a39.png)
 
-## Vista Schedule {#program-schedule-view}
+## Vista Pianificazione del programma {#program-schedule-view}
 
 Oltre al calendario di marketing con cui gestisci gli eventi e i programmi predefiniti, sul programma viene visualizzata una nuova visualizzazione della pianificazione.
 
@@ -47,7 +47,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Elencare le operazioni nell’API REST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -78,7 +78,7 @@ La pagina Imposta campagna RTP ora [include modelli già pronti](/help/marketo/p
 
 ## RTP: miglioramenti API di JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1900558
 description: Modificare elementi in un messaggio e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Modificare elementi in un messaggio e-mail
+title: Modificare elementi in un’e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Modificare elementi in un messaggio e-mail {#edit-elements-in-an-email}
+# Modificare elementi in un’e-mail {#edit-elements-in-an-email}
 
 Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini, Snippet e Video. Ecco come modificarli.
 

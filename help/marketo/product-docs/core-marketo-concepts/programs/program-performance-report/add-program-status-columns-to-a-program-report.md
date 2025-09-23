@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1147239
 description: Aggiungere colonne di stato del programma a un rapporto sul programma - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiunta di colonne di stato del programma a un report del programma
+title: Aggiungere colonne di stato del programma a un rapporto del programma
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 86f9e9f13b24a82deb50ec4c398035d7d7479d20
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 0%
+source-wordcount: '127'
+ht-degree: 13%
 
 ---
 
-# Aggiunta di colonne di stato del programma a un report del programma {#add-program-status-columns-to-a-program-report}
+# Aggiungere colonne di stato del programma a un rapporto del programma {#add-program-status-columns-to-a-program-report}
 
 Aggiungi le statistiche sullo stato del programma al [report sulle prestazioni del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md){target="_blank"}.
 
-1. Vai a **[!UICONTROL Attività di marketing]** (o **[!UICONTROL Analytics]**).
+1. Vai a **[!UICONTROL Marketing Activities]** (o **[!UICONTROL Analytics]**).
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ Aggiungi le statistiche sullo stato del programma al [report sulle prestazioni d
 
    ![](assets/emailperformance.jpg)
 
-1. Fai clic sulla scheda **[!UICONTROL Configurazione]** e trascina sul tag **[!UICONTROL Canale]**.
+1. Fai clic sulla scheda **[!UICONTROL Setup]** e trascina sul tag **[!UICONTROL Channel]**.
 
    ![](assets/image2014-9-23-16-3a26-3a38.png)
 
@@ -35,11 +35,11 @@ Aggiungi le statistiche sullo stato del programma al [report sulle prestazioni d
    >
    >Per visualizzare le colonne di stato del programma, il report deve essere filtrato per _un solo canale_.
 
-1. Selezionare l&#39;opzione per visualizzare le colonne dello stato del programma. Fare clic su **[!UICONTROL Applica]**.
+1. Selezionare l&#39;opzione per visualizzare le colonne dello stato del programma. Fai clic su **[!UICONTROL Apply]**.
 
    ![](assets/image2014-9-23-16-3a26-3a53.png)
 
-1. Ce l&#39;hai fatta! Fai clic sulla scheda [!UICONTROL Report] per visualizzare il report con le colonne di stato del programma.
+1. Ce l&#39;hai fatta! Fare clic sulla scheda [!UICONTROL Report] per visualizzare il report con le colonne di stato del programma.
 
    ![](assets/programreport.jpg)
 

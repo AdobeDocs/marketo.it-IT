@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359876
 description: Sostituire un’immagine o un file caricato - Documentazione di Marketo - Documentazione del prodotto
-title: Sostituire un'immagine o un file caricato
+title: Sostituire un’immagine o un file caricato
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 74266763ab61379d50560f18fa65bbb35c37feb0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
-# Sostituire un&#39;immagine o un file caricato {#replace-an-uploaded-image-or-file}
+# Sostituire un’immagine o un file caricato {#replace-an-uploaded-image-or-file}
 
 1. Passare a **[!UICONTROL Design Studio]**.
 
    ![](assets/replace-an-uploaded-image-or-file-1.png)
 
-1. Fare clic su **[!UICONTROL Immagini e file]**.
+1. Fai clic su **[!UICONTROL Images and Files]**.
 
    ![](assets/replace-an-uploaded-image-or-file-2.png)
 
-1. Seleziona la risorsa da sostituire. Fai clic sul menu a discesa **[!UICONTROL Azioni immagine e file]** e seleziona **[!UICONTROL Sostituisci immagine o file]**.
+1. Seleziona la risorsa da sostituire. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Replace image or file]**.
 
    ![](assets/replace-an-uploaded-image-or-file-3.png)
 
@@ -33,7 +33,7 @@ ht-degree: 0%
    >
    >Il tipo di file sostitutivo deve essere lo stesso dell’originale (ad esempio, .jpg)
 
-1. Dopo aver selezionato l&#39;immagine o il file sostitutivo, fare clic su **[!UICONTROL Sostituisci]**.
+1. Dopo aver selezionato l&#39;immagine o il file sostitutivo, fare clic su **[!UICONTROL Replace]**.
 
    ![](assets/replace-an-uploaded-image-or-file-5.png)
 

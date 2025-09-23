@@ -3,24 +3,24 @@ description: Note sulla versione - Luglio 2023 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 6%
+ht-degree: 21%
 
 ---
 
 # Note sulla versione: luglio 2023 {#release-notes-july-23}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione del 23 luglio. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Di seguito sono elencate tutte le funzioni incluse nella versione del 23 luglio. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **21 luglio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 21 luglio 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 </br>
 
@@ -33,7 +33,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Panoramica di Engagement Map</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Panoramica sulla mappa di coinvolgimento</a></td>
   </tr>
   </tbody>
 </table>
@@ -101,7 +101,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Aggiungi automaticamente l’impostazione del messaggio di annullamento dell’iscrizione</a></td>
+   <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Aggiungere automaticamente l’impostazione del messaggio di annullamento dell’iscrizione</a></td>
   </tr>
   </tbody>
 </table>
@@ -142,8 +142,8 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
    <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
   <tr>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   </tbody>
 </table>
@@ -156,8 +156,8 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
    <td><b>Aggiornamenti della documentazione</b></td>
   </tr>
   <tr>
-   <td><i>In arrivo</i></td>
-   <td><i>In arrivo</i></td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   </tbody>
 </table>

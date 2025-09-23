@@ -1,14 +1,14 @@
 ---
 description: Gestire il profilo - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione del profilo
-source-git-commit: 66baa3063b2f6798f04f1b81d6ea52a484975174
+title: Gestire il tuo profilo
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Gestione del profilo {#manage-your-profile}
+# Gestire il tuo profilo {#manage-your-profile}
 
 Nella pagina Il mio profilo puoi aggiornare il tuo nome, la lingua/lingua/fuso orario del tuo account e cambiare la tua password.
 

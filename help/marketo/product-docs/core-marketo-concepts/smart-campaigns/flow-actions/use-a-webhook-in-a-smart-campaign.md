@@ -4,16 +4,16 @@ description: Utilizzare un webhook in una campagna avanzata - Documentazione di 
 title: Utilizzare un webhook in una campagna avanzata
 exl-id: 19dcc469-288d-4bfb-92e1-3e8db75588a6
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '102'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
 # Utilizzare un webhook in una campagna avanzata {#use-a-webhook-in-a-smart-campaign}
 
-Per utilizzare un [webhook](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, aggiungilo a una [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} come azione di flusso.
+Per utilizzare un [webhook](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}, aggiungilo a una [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md){target="_blank"} come azione di flusso.
 
 >[!AVAILABILITY]
 >

@@ -4,10 +4,10 @@ description: Reindirizzare una pagina di destinazione - Documentazione Marketo -
 title: Reindirizzare una pagina di destinazione
 exl-id: 5c9205aa-e970-4d72-a4e3-48593da4181c
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## Passaggio 1: avviare una nuova regola di reindirizzamento {#step-start-a-new-redirect-rule}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/redirect-a-landing-page-1.png)
 

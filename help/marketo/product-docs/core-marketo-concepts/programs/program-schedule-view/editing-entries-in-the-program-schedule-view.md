@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147136
 description: Modifica delle voci nella visualizzazione Pianificazione programma - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica delle voci nella vista Pianificazione programma
+title: Modifica delle voci nella vista Pianificazione del programma
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: b21f955bf98063e11f8ed3fdc6f164134ee4f5aa
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 1%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 
-# Modifica delle voci nella vista Pianificazione programma {#editing-entries-in-the-program-schedule-view}
+# Modifica delle voci nella vista Pianificazione del programma {#editing-entries-in-the-program-schedule-view}
 
 Puoi apportare modifiche ai diversi elementi del programma nella vista Pianificazione.
 
@@ -21,7 +21,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a1-3a36.png)
 
-1. Digitare un nuovo nome e premere **[!UICONTROL Invio/Ritorno]** sulla tastiera per confermare la modifica.
+1. Digitare un nuovo nome e premere **[!UICONTROL Enter/Return]** per confermare la modifica.
 
    ![](assets/image2014-9-18-18-3a1-3a53.png)
 
@@ -35,7 +35,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a3-3a7.png)
 
-1. Modifica la descrizione. Fai clic su **[!UICONTROL Salva]**.
+1. Modifica la descrizione. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 

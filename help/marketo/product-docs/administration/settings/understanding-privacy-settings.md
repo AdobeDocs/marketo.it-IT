@@ -4,10 +4,10 @@ description: Informazioni sulle impostazioni della privacy - Documentazione di M
 title: Informazioni sulle impostazioni della privacy
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '500'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -60,7 +60,7 @@ Per verificare che il cookie possa essere piantato, verifica di essere un lead c
 >
 >Attualmente funziona solo con [!DNL Munchkin] versioni 152 e successive.
 
-## Consenso {#opt-in}
+## Consenso accordato {#opt-in}
 
 Gli addetti al marketing possono consentire agli utenti di dare il consenso utilizzando le funzionalità di Marketo in e-mail, moduli, pagine di destinazione e altri metodi.
 

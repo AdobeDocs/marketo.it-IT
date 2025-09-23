@@ -1,16 +1,16 @@
 ---
 description: Gestire i gruppi - Documentazione di Marketo - Documentazione del prodotto
-title: Gestisci gruppi
+title: Gestire i gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: a88e7978a74d6aaaaad882a83cdfa3e80a4c50cb
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Gestisci gruppi {#manage-groups}
+# Gestire i gruppi {#manage-groups}
 
 Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 

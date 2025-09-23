@@ -4,14 +4,14 @@ description: Note sulla versione -Autunno '18 - Documentazione Marketo - Documen
 title: Note sulla versione - Autunno '18
 exl-id: a3cc4cc5-38a6-4648-91f2-092daa9b0113
 feature: Release Information
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Autunno &#39;18 {#release-notes-fall}
+# Note sulla versione - Autunno 2018 {#release-notes-fall}
 
 Le seguenti funzioni sono incluse nella versione di autunno del 1918. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -58,7 +58,7 @@ Per ulteriori dettagli e aggiornamenti, consulta le nostre [[!DNL Sky] note sull
 * **Programmi predefiniti ora disponibili in Marketo[!DNL Sky]**: Marketo [!DNL Sky] ora supporta i programmi predefiniti, lo stile di programma versatile che consente di creare qualsiasi campagna immaginabile.
 * **Programmi e-mail - Fase 1**: è ora possibile visualizzare i programmi e-mail in [!DNL Sky]. Dai un&#39;occhiata al nuovo design e [facci sapere cosa ne pensi](https://go.marketo.com/NextGenUX---USA---Apr-2018-fcp_Landing-Page-Feedback.html).
 
-## Analytics {#analytics}
+## Analisi {#analytics}
 
 **[!DNL Bizible]**
 

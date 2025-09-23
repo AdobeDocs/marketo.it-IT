@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6849099
 description: Aggiornamento della soluzione Marketo Sales Insight per Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
-title: Aggiornamento della soluzione Marketo Sales Insight per Microsoft Dynamics
+title: Aggiornare la soluzione Marketo Sales Insight per Microsoft Dynamics
 exl-id: ddc26dc6-7552-4fac-8102-657ecd8c9445
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 1%
+ht-degree: 12%
 
 ---
 
@@ -19,7 +19,7 @@ Quando viene rilasciata una nuova soluzione [!DNL Microsoft Dynamics] per [!DNL 
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/upgrade-the-marketo-sales-insight-solution-for-microsoft-dynamics-1.png)
 

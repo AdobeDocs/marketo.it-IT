@@ -4,10 +4,10 @@ description: Modifica La Password Di Marketo - Documentazione Di Marketo - Docum
 title: Modifica la password di Marketo
 exl-id: 06527ecf-b437-4d12-9254-ae0c95485d58
 feature: Administration
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 28%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Cambia la password di Marketo con questi semplici passaggi.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/change-your-marketo-password-1.png)
 
-1. Fai clic su **[!UICONTROL Il mio account]**.
+1. Fai clic su **[!UICONTROL My Account]**.
 
    ![](assets/change-your-marketo-password-2.png)
 
-1. Fare clic su **[!UICONTROL Cambia password]**.
+1. Fai clic su **[!UICONTROL Change Password]**.
 
    ![](assets/change-your-marketo-password-3.png)
 
-1. Immetti la vecchia password e la nuova password, quindi fai clic su **[!UICONTROL Salva]**.
+1. Immettere la vecchia password e la nuova password, quindi fare clic su **[!UICONTROL Save]**.
 
    ![](assets/change-your-marketo-password-4.png)
 

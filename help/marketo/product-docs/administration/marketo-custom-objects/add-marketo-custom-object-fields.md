@@ -1,23 +1,23 @@
 ---
 unique-page-id: 10093688
 description: Aggiungere campi oggetto personalizzati Marketo - Documentazione Marketo - Documentazione del prodotto
-title: Aggiungi campi oggetto personalizzati Marketo
+title: Aggiungere campi oggetto personalizzato di Marketo
 exl-id: 6d776d97-93e2-4708-9ce5-2172e02b71c3
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Aggiungi campi oggetto personalizzati Marketo {#add-marketo-custom-object-fields}
+# Aggiungere campi oggetto personalizzato di Marketo {#add-marketo-custom-object-fields}
 
 Dopo aver creato un oggetto personalizzato, devi aggiungervi dei campi per soddisfare le tue esigenze aziendali.
 
 I campi definiscono le informazioni specifiche utilizzate da un oggetto personalizzato. I campi di collegamento hanno un processo speciale per connettere oggetti personalizzati e sono trattati in un [articolo separato](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-fields-1.png)
 

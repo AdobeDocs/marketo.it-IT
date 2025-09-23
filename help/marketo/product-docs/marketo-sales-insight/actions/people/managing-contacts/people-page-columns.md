@@ -1,18 +1,18 @@
 ---
 description: Colonne della pagina Persone - Documentazione di Marketo - Documentazione del prodotto
-title: Colonne pagina persone
+title: Colonne della pagina delle persone
 hide: true
 hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
-# Colonne pagina persone {#people-page-columns}
+# Colonne della pagina delle persone {#people-page-columns}
 
 È possibile personalizzare le informazioni di contatto visualizzate scegliendo le colonne da visualizzare.
 

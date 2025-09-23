@@ -1,16 +1,16 @@
 ---
 description: NL-YYYY-MM-Newsletter - Documentazione Marketo - Documentazione del prodotto
-title: Newsletter NL-YYYY-MM
+title: Newsletter NL-MM-AAAA
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# Newsletter NL-YYYY-MM {#nl-yyyy-mm-newsletter}
+# Newsletter NL-MM-AAAA {#nl-yyyy-mm-newsletter}
 
 In questo esempio viene inviata un’e-mail alla newsletter utilizzando un programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
@@ -47,7 +47,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01 - E-mail</td>
   </tr>
   <tr>

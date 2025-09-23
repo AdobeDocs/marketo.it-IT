@@ -1,17 +1,17 @@
 ---
 unique-page-id: 557337
 description: Creazione e modifica di visualizzazioni per elenchi e elenchi avanzati - Documentazione di Marketo - Documentazione del prodotto
-title: Creare e modificare le visualizzazioni per elenchi e elenchi avanzati
+title: Creare e modificare le viste per elenchi ed elenchi avanzati
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '211'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
-# Creare e modificare le visualizzazioni per elenchi e elenchi avanzati {#create-and-change-views-for-lists-and-smart-list}
+# Creare e modificare le viste per elenchi ed elenchi avanzati {#create-and-change-views-for-lists-and-smart-list}
 
 In un elenco avanzato viene visualizzato un set predefinito di colonne. Sapevi che era possibile modificare quelle colonne nel contenuto del tuo cuore? Ecco come.
 

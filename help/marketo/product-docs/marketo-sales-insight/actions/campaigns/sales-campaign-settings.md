@@ -1,20 +1,20 @@
 ---
 description: Impostazioni delle campagne di vendita - Documentazione di Marketo - Documentazione del prodotto
-title: Impostazioni campagna di vendita
+title: Impostazioni campagna vendite
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '208'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
-# Impostazioni campagna di vendita {#sales-campaign-settings}
+# Impostazioni campagna vendite {#sales-campaign-settings}
 
 La sezione Impostazioni campagna di vendita consente di configurare una campagna di vendita specifica in modo che possa funzionare nel modo migliore per i casi d’uso del team per quella campagna di vendita.
 
-## Salta fine settimana {#skip-weekends}
+## Saltare i fine settimana {#skip-weekends}
 
 Abilita Ignora fine settimana in modo che tutti i passaggi che sarebbero caduti in un giorno del weekend (sabato o domenica) vengano spostati a lunedì.
 

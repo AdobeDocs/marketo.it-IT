@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360181
 description: Tracciamento attività e persone anonime - Documentazione di Marketo - Documentazione del prodotto
-title: Tracciamento di attività e persone anonime
+title: Tracciare attività e persone anonime
 exl-id: 95a39e57-4636-4bae-8ca8-00cb43cb566c
 feature: Reporting
-source-git-commit: e3f61755dccd9bea1378a429fc428b440fc3ecb4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Tracciamento di attività e persone anonime {#tracking-anonymous-activity-and-people}
+# Tracciare attività e persone anonime {#tracking-anonymous-activity-and-people}
 
 La prima volta che un utente visita una [pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md) di Marketo (o una pagina del sito Web che contiene il [codice di tracciamento di Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md)), Marketo crea una _attività anonima_ e utilizza un cookie del browser per tenerne traccia. Una volta identificato, il visitatore diventa una persona e la cronologia associata al cookie del browser viene unita in.
 
@@ -29,7 +29,7 @@ La prima volta che un utente visita una [pagina di destinazione](/help/marketo/p
 
    * Fa clic su un [collegamento in un&#39;e-mail di Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Compila un [modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Marketo.
-   * Utilizza l&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/leads) o l&#39;API [Munchkin](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) di Marketo (per sviluppatori) per associare un&#39;attività anonima a un record noto.
+   * Utilizza l&#39;[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) o l&#39;API [Munchkin](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) di Marketo (per sviluppatori) per associare un&#39;attività anonima a un record noto.
 
    Un nome nel database potrebbe essere associato a molti cookie perché le persone spesso utilizzano dispositivi e browser diversi per visitare il sito.
 

@@ -1,16 +1,16 @@
 ---
 description: Comportamento con punteggio operativo - Documentazione di Marketo - Documentazione del prodotto
-title: Comportamento con punteggio OP
+title: OP-Punteggio comportamento
 feature: Programs
 exl-id: c564a301-0054-431a-8f0f-0299cd91b59c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '347'
-ht-degree: 21%
+ht-degree: 22%
 
 ---
 
-# Comportamento con punteggio OP {#op-scoring-behavior}
+# OP-Punteggio comportamento {#op-scoring-behavior}
 
 Questo esempio è un programma operativo avanzato (tokenizzato) per il punteggio del comportamento che utilizza un programma predefinito di Marketo Engage. Visualizza e modifica i valori di punteggio nella scheda &quot;I miei token&quot; del programma. Richiede un campo di punteggio personalizzato denominato &quot;Punteggio comportamento&quot;.
 
@@ -46,7 +46,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>Punteggio</td>
-   <td>Punteggio comportamento</td>
+   <td>Punteggio di comportamento</td>
    <td>PunteggioComportamento</td>
   </tr>
  </tbody>

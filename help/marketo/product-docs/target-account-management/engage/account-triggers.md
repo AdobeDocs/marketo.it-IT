@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380734
 description: Trigger account - Documentazione di Marketo - Documentazione del prodotto
-title: Attivatori account
+title: Trigger account
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
-# Attivatori account {#account-triggers}
+# Trigger account {#account-triggers}
 
 Ascolta e agisci su importanti attività comportamentali a livello di account tra diversi canali (ad esempio e-mail, web, annunci) utilizzando i trigger a livello di account.
 

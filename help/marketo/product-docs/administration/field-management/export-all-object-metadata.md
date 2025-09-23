@@ -1,16 +1,16 @@
 ---
 description: Esportare tutti i metadati degli oggetti - Documentazione di Marketo - Documentazione del prodotto
-title: Esporta tutti i metadati dell'oggetto
+title: Esportare tutti i metadati dell’oggetto
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 2%
+source-wordcount: '69'
+ht-degree: 28%
 
 ---
 
-# Esporta tutti i metadati dell&#39;oggetto {#export-all-object-metadata}
+# Esportare tutti i metadati dell’oggetto {#export-all-object-metadata}
 
 Questa funzione consente di esportare tutti gli oggetti e i relativi metadati.
 
@@ -21,7 +21,7 @@ Questa funzione consente di esportare tutti gli oggetti e i relativi metadati.
 ## Oggetti {#objects}
 
 * Campi lead (persona/società)
-* Oggetti personalizzati Marketo
+* Oggetti personalizzati di Marketo
 * Attività standard
 * Attività personalizzate
 * Canali
@@ -29,15 +29,15 @@ Questa funzione consente di esportare tutti gli oggetti e i relativi metadati.
 
 ## Esporta metadati oggetto {#export-object-metadata}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/export-all-object-metadata-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/export-all-object-metadata-2.png)
 
-1. Fare clic su **[!UICONTROL Esporta tutti gli oggetti]**.
+1. Fai clic su **[!UICONTROL Export All Objects]**.
 
    ![](assets/export-all-object-metadata-3.png)
 

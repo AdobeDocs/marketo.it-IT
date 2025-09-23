@@ -4,10 +4,10 @@ description: Glossario dei token di sistema - Documentazione di Marketo - Docume
 title: Glossario dei token di sistema
 exl-id: 8a7694af-4edb-4b32-b408-19d2e7bd596e
 feature: Tokens
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 0%
+source-wordcount: '249'
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ Il token `{{system.date}}` riprodurrà la data corrente in fase di runtime come 
 
 ## system.time {#system-time}
 
-Il token `{{system.time}}` eseguirà il rendering dell&#39;ora corrente in fase di runtime nel modo seguente: **04:34 PM (GMT -0700)**
+Il token `{{system.time}}` eseguirà il rendering dell&#39;ora corrente in fase di runtime come segue: **04:34 PM (GMT -0700)**
 
 **Funziona in:**
 

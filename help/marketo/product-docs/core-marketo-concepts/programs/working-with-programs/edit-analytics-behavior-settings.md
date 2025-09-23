@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2953405
 description: Modificare le impostazioni del comportamento di Analytics - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica impostazioni comportamento di Analytics
+title: Modificare le impostazioni comportamento di Analytics
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: e49860ae611f2f77789bb491aeccbee46a911a2c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 1%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
-# Modifica impostazioni comportamento di Analytics {#edit-analytics-behavior-settings}
+# Modificare le impostazioni comportamento di Analytics {#edit-analytics-behavior-settings}
 
 È possibile impostare il comportamento di [Analytics a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, ma è anche possibile modificarlo a livello di programma. Ecco come.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -23,7 +23,7 @@ ht-degree: 1%
 
    ![](assets/image2014-9-24-11-3a40-3a57.png)
 
-1. Nella scheda **[!UICONTROL Configurazione]**, trascina [!UICONTROL Comportamento di Analytics] nell&#39;area di lavoro.
+1. Nella scheda **[!UICONTROL Setup]**, trascina [!UICONTROL Analytics Behavior] nell&#39;area di lavoro.
 
    ![](assets/image2014-9-24-11-3a41-3a2.png)
 
@@ -35,15 +35,15 @@ ht-degree: 1%
 >
 >**Definizione**
 >
->**[!UICONTROL Inclusivo]** - Questa opzione garantisce che il programma sia disponibile per la generazione di rapporti in Esplora ricavi e analizzatori, indipendentemente dal fatto che sia stato incluso o meno un costo di periodo.
+>**[!UICONTROL Inclusive]** - Questa opzione garantisce che il programma sia disponibile per la generazione di rapporti in Esplora ricavi e analizzatori indipendentemente dal fatto che sia stato incluso o meno un costo del periodo.
 >
->**[!UICONTROL Operativo]** - Con questa opzione il programma non viene visualizzato in Esplora ricavi o negli analizzatori.
+>**[!UICONTROL Operational]** - Con questa opzione il programma non viene visualizzato in Esplora ricavi o negli analizzatori.
 
 >[!NOTE]
 >
 >Il comportamento predefinito (se questa impostazione non viene applicata) è che il programma viene incluso in Analytics SOLO se è presente almeno un costo periodo, anche uno a cui sono assegnati zero dollari.
 
-1. Fai clic su **[!UICONTROL Salva]**.
+1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 

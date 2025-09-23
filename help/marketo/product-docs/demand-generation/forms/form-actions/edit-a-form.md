@@ -4,10 +4,10 @@ description: Modificare un modulo - Documentazione di Marketo - Documentazione d
 title: Modificare un modulo
 exl-id: fb0d0a35-c9ec-430a-8dee-ec8119cfc8f0
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 

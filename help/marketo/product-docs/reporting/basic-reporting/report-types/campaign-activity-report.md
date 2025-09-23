@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360057
 description: Rapporto sull’attività della campagna - Documentazione di Marketo - Documentazione del prodotto
-title: Rapporto sull’attività della campagna
+title: Rapporto di attività di una campagna
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 2%
+ht-degree: 5%
 
 ---
 
-# Rapporto sull’attività della campagna {#campaign-activity-report}
+# Rapporto di attività di una campagna {#campaign-activity-report}
 
 Scopri le prestazioni delle [campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md){target="_blank"}.
 

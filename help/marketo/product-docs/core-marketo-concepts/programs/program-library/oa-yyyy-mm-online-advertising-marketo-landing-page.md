@@ -1,16 +1,16 @@
 ---
 description: Pagina iniziale Advertising Marketo OA-YYY-MM-Online - Documentazione Marketo - Documentazione del prodotto
-title: Pagina di destinazione OA-YYY-MM-Online Advertising Marketo
+title: Pubblicità online OA-MM-AAAA pagina di destinazione di Marketo
 feature: Programs
 exl-id: f7f17792-cc16-4a99-8683-68796770e42c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '485'
-ht-degree: 5%
+ht-degree: 8%
 
 ---
 
-# Pagina di destinazione OA-YYY-MM-Online Advertising Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
+# Pubblicità online OA-MM-AAAA pagina di destinazione di Marketo {#oa-yyyy-mm-online-advertising-marketo-landing-page}
 
 Questo è un esempio di un programma di tracciamento della pubblicità online, che include una pagina di destinazione Marketo con modulo di registrazione e utilizza un programma predefinito Marketo. Il collegamento all’offerta può essere visualizzato nella pagina di ringraziamento, inviato tramite e-mail di ringraziamento o entrambi.
 
@@ -52,7 +52,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
   <tr>

@@ -4,10 +4,10 @@ description: Informazioni sulle attività personalizzate - Documentazione di Mar
 title: Informazioni sulle attività personalizzate
 exl-id: 0bb74d9d-3a9d-4ef7-8c8c-2de36cd6190b
 feature: Custom Activities
-source-git-commit: 2b610cc3486b745212b0b1f36018a83214d7ecd7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '259'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ Le attività personalizzate consentono di tenere traccia di un&#39;attività che
 
 **Campi** Puoi aggiungere [ulteriori campi](/help/marketo/product-docs/administration/marketo-custom-activities/add-edit-delete-marketo-custom-activity-fields.md) da associare all&#39;attività. Come il campo principale, possono essere utilizzati come criteri di filtro in un elenco avanzato.
 
-**Guida introduttiva**
+**Introduzione**
 
 Le attività personalizzate funzionano come le attività standard. La loro configurazione tuttavia è in due parti.
 

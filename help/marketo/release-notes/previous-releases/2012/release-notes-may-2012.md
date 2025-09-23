@@ -4,14 +4,14 @@ description: Note sulla versione - Maggio 2012 - Documentazione di Marketo - Doc
 title: Note sulla versione di Marketing Cloud
 exl-id: b951e986-359d-4da0-8654-4d9f1416cebb
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '638'
-ht-degree: 4%
+ht-degree: 5%
 
 ---
 
-# Note sulla versione: maggio 2012 {#release-notes-may}
+# Note sulla versione - Maggio 2022 {#release-notes-may}
 
 ## Riprogettazione report prestazioni e-mail {#email-performance-report-redesign}
 

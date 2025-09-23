@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10094576
 description: Annullamento duraturo dell’abbonamento - Documentazione di Marketo - Documentazione del prodotto
-title: Annulla iscrizione durevole
+title: Annullare l’iscrizione durevole
 exl-id: e03a5a01-7395-45b3-8351-7931ec413236
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Annulla iscrizione durevole {#durable-unsubscribe}
+# Annullare l’iscrizione durevole {#durable-unsubscribe}
 
 Marketo ha migliorato il comportamento della funzionalità di annullamento dell’abbonamento per renderla &quot;durevole&quot;. È stato aggiunto lo stato di un’e-mail principale, separato dal flag di annullamento dell’iscrizione visibile nel record dei dettagli della persona.
 

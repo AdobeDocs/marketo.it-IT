@@ -1,16 +1,16 @@
 ---
 description: Pagina di destinazione CT-YYY-MM-Content Non-Marketo - Documentazione Marketo - Documentazione del prodotto
-title: Pagina di destinazione CT-YYY-MM-Content non-Marketo
+title: Contenuto CT-MM-AAAA pagina di destinazione non di Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '395'
-ht-degree: 6%
+ht-degree: 9%
 
 ---
 
-# Pagina di destinazione CT-YYY-MM-Content non-Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
+# Contenuto CT-MM-AAAA pagina di destinazione non di Marketo {#ct-yyyy-mm-content-non-marketo-landing-page}
 
 Questo è un esempio di un programma per contenuti con un modulo Marketo Engage per scaricare contenuti su una pagina di destinazione non Marketo Engage utilizzando un programma predefinito di Marketo Engage. Questo programma è destinato a funzionare con un modulo Marketo Engage incorporato nel sito Web. Il collegamento all’offerta o al contenuto può essere inviato tramite e-mail di ringraziamento.
 
@@ -47,7 +47,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01-E-Mail-Grazie</td>
   </tr>
   <tr>

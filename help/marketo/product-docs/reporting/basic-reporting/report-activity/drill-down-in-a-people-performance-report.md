@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360035
 description: Espansione di un rapporto sulle prestazioni delle persone - Documenti Marketo - Documentazione del prodotto
-title: Espandere un rapporto sulle prestazioni delle persone
+title: Eseguire un drill-down in un rapporto prestazioni persone
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '127'
-ht-degree: 3%
+ht-degree: 14%
 
 ---
 
-# Espandere un rapporto sulle prestazioni delle persone {#drill-down-in-a-people-performance-report}
+# Eseguire un drill-down in un rapporto prestazioni persone {#drill-down-in-a-people-performance-report}
 
 Espandere un rapporto sulle prestazioni delle persone per visualizzare ulteriori informazioni sulla persona.
 

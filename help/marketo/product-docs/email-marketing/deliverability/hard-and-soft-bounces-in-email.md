@@ -4,16 +4,16 @@ description: Mancati recapiti permanenti e non permanenti nelle e-mail - Documen
 title: Mancati recapiti permanenti e non permanenti nelle e-mail
 exl-id: 53298562-76b6-473a-bf9f-2bec682f4d35
 feature: Deliverability
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
 # Mancati recapiti permanenti e non permanenti nelle e-mail {#hard-and-soft-bounces-in-email}
 
-Un messaggio non recapitato può rendere non valido l’indirizzo e-mail di una persona quando un server di posta comunica a Marketo che l’e-mail della persona non può essere consegnata. Un mancato recapito non permanente indica che si è verificato un errore durante la consegna dell’e-mail alla persona. L’errore si risolve automaticamente e a volte può richiedere alcuni giorni. I mancati recapiti permanenti e non permanenti sono costituiti da [più categorie](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
+Un mancato recapito permanente può rendere non valido l’indirizzo e-mail di una persona quando un server di posta comunica a Marketo che l’e-mail della persona non può essere consegnata. Un mancato recapito non permanente indica che si è verificato un errore durante la consegna dell’e-mail alla persona. L’errore si risolve automaticamente e a volte può richiedere alcuni giorni. I mancati recapiti permanenti e non permanenti sono costituiti da [più categorie](https://nation.marketo.com/t5/Knowledgebase/Maintaining-a-Directory-of-Leads-Bouncing-Emails/ta-p/300838).
 
 ## Classificazione per mancato recapito {#bounce-classification}
 

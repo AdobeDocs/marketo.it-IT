@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10097613
 description: Aggiungere campi di collegamento oggetti personalizzati di Marketo - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi campi collegamento oggetto personalizzato Marketo
+title: Aggiungere campi collegamento oggetto personalizzato di Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '652'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Aggiungi campi collegamento oggetto personalizzato Marketo {#add-marketo-custom-object-link-fields}
+# Aggiungere campi collegamento oggetto personalizzato di Marketo {#add-marketo-custom-object-link-fields}
 
 Quando si creano oggetti personalizzati, è necessario fornire campi di collegamento per collegare il record oggetto personalizzato al record padre corretto.
 
@@ -26,7 +26,7 @@ Quando si creano oggetti personalizzati, è necessario fornire campi di collegam
 
 Di seguito viene illustrato come creare un campo collegamento in un oggetto personalizzato per una struttura uno-a-molti.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-1.png)
 
@@ -80,7 +80,7 @@ Di seguito viene illustrato come creare un campo di collegamento in un oggetto i
 >
 >È necessario avere già creato l&#39;oggetto intermedio e tutti gli oggetti personalizzati a cui si desidera collegarlo.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-marketo-custom-object-link-fields-9.png)
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 30081250
 description: Gestire i gruppi - Documentazione di Marketo - Documentazione del prodotto
-title: Gestisci gruppi
+title: Gestire i gruppi
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '253'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Gestisci gruppi {#manage-groups}
+# Gestire i gruppi {#manage-groups}
 
 Scopri come gestire i gruppi in [!DNL Sales Connect].
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: Comprendere/abilitare il focus sul programma - Documentazione di Marketo - Documentazione del prodotto
-title: Comprendere/abilitare la messa a fuoco del programma
+title: Comprendere/abilitare l’oggetto del programma
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '148'
+ht-degree: 5%
 
 ---
 
-# Comprendere/abilitare la messa a fuoco del programma {#understand-enable-program-focus}
+# Comprendere/abilitare l’oggetto del programma {#understand-enable-program-focus}
 
 Il calendario di marketing offre una visione d’insieme delle cose, ma consente anche alcune interazioni. Puoi [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [eliminare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [confermare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} le voci. Per interagire con le voci, devi prima concentrarti su un programma.
 
@@ -19,7 +19,7 @@ Il calendario di marketing offre una visione d’insieme delle cose, ma consente
 
    ![](assets/2017-05-10-15-30-47-1.png)
 
-1. Selezionare una voce e fare clic su **[!UICONTROL Mostra attivazione programma]**.
+1. Selezionare una voce e fare clic su **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 

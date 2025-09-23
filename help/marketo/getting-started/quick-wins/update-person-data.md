@@ -1,23 +1,23 @@
 ---
 unique-page-id: 2359426
 description: Aggiornare i dati della persona - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiorna dati persona
+title: Aggiornare i dati persona
 exl-id: e4fe0df7-5744-41e6-821f-942d247123fc
 feature: Getting Started
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
-# Aggiorna dati persona {#update-person-data}
+# Aggiornare i dati persona {#update-person-data}
 
 ## Missione: aggiornare le informazioni di contatto di una persona o altri dati {#mission-update-a-persons-contact-info-or-other-data}
 
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurare e aggiungere una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Importa un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
 Immaginiamo che alla tua recente fiera, una persona ti abbia fornito alcune informazioni di contatto aggiuntive. Ecco come aggiornare i dati personali.

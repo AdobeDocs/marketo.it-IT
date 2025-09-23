@@ -4,14 +4,14 @@ description: Note sulla versione -Marzo 2015 - Documentazione Marketo - Document
 title: Note sulla versione - Marzo 2015
 exl-id: aa3c738a-2e5c-41c3-b1d7-95869dd10b02
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '287'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: marzo 2015 {#release-notes-march}
+# Note sulla versione - Marzo 2015 {#release-notes-march}
 
 Le seguenti funzioni sono incluse nella versione di marzo 2015. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
@@ -37,7 +37,7 @@ Collega il tuo account [[!DNL Google AdWords]  a Marketo](/help/marketo/product-
 
 ## Nuove API REST di Assets {#new-asset-rest-apis}
 
-[Nuove API REST per risorse](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/assets)
+[Nuove API REST per risorse](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
 
 È ora disponibile il supporto per la creazione e la modifica di e-mail, modelli, token, file e snippet [tramite l&#39;API](https://developer.adobe.com/marketo-apis/api/asset/).
 

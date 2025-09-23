@@ -4,10 +4,10 @@ description: Punteggio semplice - Documentazione di Marketo - Documentazione del
 title: Punteggio semplice
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '350'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 0%
 
 >[!PREREQUISITES]
 >
->* [Configurazione e aggiunta di una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
+>* [Configurare e aggiungere una persona](/help/marketo/getting-started/quick-wins/get-set-up-and-add-a-person.md){target="_blank"}
 >* [Pagina di destinazione con modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"}
 
 ## Passaggio 1: creare una campagna punteggio {#step-create-a-scoring-campaign}
 
-1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/simple-scoring-1.png)
 
@@ -82,13 +82,13 @@ ht-degree: 0%
 
    ![](assets/simple-scoring-12.png)
 
-1. Fare clic su **[!UICONTROL Activate]** nella schermata di conferma.
+1. Fai clic su **[!UICONTROL Activate]** nella schermata di conferma.
 
    ![](assets/simple-scoring-13.png)
 
 >[!NOTE]
 >
->Una volta attivata, questa campagna verrà eseguita ogni volta che una persona compila il modulo. La campagna continuerà a essere in esecuzione fino a quando non verrà disattivata.
+>Una volta attivata, questa campagna verrà eseguita ogni volta che una persona compila il modulo. La campagna continuerà a essere attiva fino a quando non verrà disattivata.
 
 ## Passaggio 2: compilare il modulo {#step-fill-out-the-form}
 
@@ -110,7 +110,7 @@ ht-degree: 0%
 
 ## Passaggio 3: visualizzare le informazioni sulla persona {#step-view-the-person-info}
 
-1. Passare all&#39;area **[!UICONTROL Database]**.
+1. Passa alla schermata **[!UICONTROL Database]**.
 
    ![](assets/simple-scoring-17.png)
 

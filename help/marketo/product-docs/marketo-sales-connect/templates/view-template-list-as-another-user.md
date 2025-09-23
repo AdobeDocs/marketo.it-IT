@@ -1,17 +1,17 @@
 ---
 unique-page-id: 18317369
 description: Visualizzare l’elenco dei modelli come altro utente - Documentazione di Marketo - Documentazione del prodotto
-title: Visualizza elenco modelli come altro utente
+title: Visualizzare l’elenco modelli come altro utente
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 1%
+ht-degree: 18%
 
 ---
 
-# Visualizza elenco modelli come altro utente {#view-template-list-as-another-user}
+# Visualizzare l’elenco modelli come altro utente {#view-template-list-as-another-user}
 
 In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente.
 

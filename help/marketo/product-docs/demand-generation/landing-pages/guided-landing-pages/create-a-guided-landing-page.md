@@ -1,17 +1,17 @@
 ---
 unique-page-id: 7515266
 description: Creazione di una pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
-title: Creare una pagina di destinazione guidata
+title: Creare una pagina di destinazione in formato guidato
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '172'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# Creare una pagina di destinazione guidata {#create-a-guided-landing-page}
+# Creare una pagina di destinazione in formato guidato {#create-a-guided-landing-page}
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/four.png)
 
-1. Assegna un nome alla pagina di destinazione. Fare clic sul menu a discesa **[!UICONTROL Template]** e selezionare **[!UICONTROL Guided Template]**.
+1. Assegna un nome alla pagina di destinazione. Fai clic sul menu a discesa **[!UICONTROL Template]** e seleziona **[!UICONTROL Guided Template]**.
 
    >[!NOTE]
    >
@@ -59,7 +59,7 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
    ![](assets/seven.png)
 
-1. Assegna un nome alla pagina di destinazione. Fare clic sul menu a discesa **[!UICONTROL Template]** e selezionare **[!UICONTROL Guided Template]**.
+1. Assegna un nome alla pagina di destinazione. Fai clic sul menu a discesa **[!UICONTROL Template]** e seleziona **[!UICONTROL Guided Template]**.
 
    ![](assets/image2015-5-26-9-3a27-3a34.png)
 

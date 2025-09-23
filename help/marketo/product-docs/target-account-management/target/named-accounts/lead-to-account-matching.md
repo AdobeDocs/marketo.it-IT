@@ -4,10 +4,10 @@ description: Corrispondenza lead-account - Documentazione Marketo - Documentazio
 title: Lead per corrispondenza account
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '451'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

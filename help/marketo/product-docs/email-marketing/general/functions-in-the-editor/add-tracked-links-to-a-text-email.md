@@ -4,10 +4,10 @@ description: Aggiungere collegamenti tracciati a un’e-mail di testo - Document
 title: Aggiungere collegamenti tracciati a un messaggio e-mail di testo
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

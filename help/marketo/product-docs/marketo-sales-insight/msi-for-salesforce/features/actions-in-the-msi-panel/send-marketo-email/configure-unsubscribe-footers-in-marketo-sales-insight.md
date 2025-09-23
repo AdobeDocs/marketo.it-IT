@@ -4,10 +4,10 @@ description: Configurare i piè di pagina per l’annullamento dell’abbonament
 title: Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '184'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Nelle e-mail di vendita, il piè di pagina per l’annullamento dell’iscrizion
 >
 >**Le e-mail di vendita** sono quelle inviate da [!DNL Sales Insight] (non sono incluse quelle inviate dal plug-in di Marketo Outlook).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/one-1.png)
 

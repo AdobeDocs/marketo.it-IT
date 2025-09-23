@@ -4,10 +4,10 @@ description: Panoramica del centro comandi - Documentazione di Marketo - Documen
 title: Panoramica del centro comandi
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '556'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

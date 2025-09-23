@@ -1,16 +1,16 @@
 ---
 description: Panoramica della libreria di importazione del programma - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica della libreria di importazione del programma
+title: Panoramica sulla libreria di importazione del programma
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Panoramica della libreria di importazione del programma {#program-import-library-overview}
+# Panoramica sulla libreria di importazione del programma {#program-import-library-overview}
 
 La Libreria di riferimento di Marketo Engage include diversi programmi iniziali che è possibile importare direttamente nell’istanza di Marketo per avviare la creazione di programmi utili per il supporto del team.
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360333
 description: Nascondere e scoprire un campo - Documentazione di Marketo - Documentazione del prodotto
-title: Nascondere e scoprire un campo
+title: Nascondere e mostrare un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
-# Nascondere e scoprire un campo {#hide-and-unhide-a-field}
+# Nascondere e mostrare un campo {#hide-and-unhide-a-field}
 
 Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
 
@@ -21,7 +21,7 @@ Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfa
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-1.png)
 
@@ -49,7 +49,7 @@ Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfa
 
 ## Scoprire un campo {#unhide-a-field}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/hide-and-unhide-a-field-6.png)
 

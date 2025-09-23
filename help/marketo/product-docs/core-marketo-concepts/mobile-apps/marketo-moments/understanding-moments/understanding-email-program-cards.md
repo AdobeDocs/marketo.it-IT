@@ -1,23 +1,23 @@
 ---
 unique-page-id: 8781911
 description: Informazioni sulle schede del programma e-mail - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sulle schede del programma e-mail
+title: Informazioni sulle schede del programma di e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 0%
+source-wordcount: '342'
+ht-degree: 4%
 
 ---
 
-# Informazioni sulle schede del programma e-mail {#understanding-email-program-cards}
+# Informazioni sulle schede del programma di e-mail {#understanding-email-program-cards}
 
 Utilizza Marketo Moments per visualizzare i programmi e-mail dal telefono o da iPad.
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 ## Schede programma e-mail {#email-program-cards}
 
@@ -41,11 +41,11 @@ Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tr
 
    ![](assets/image2015-7-16-17-3a6-3a16.png)
 
-1. Tocca **[!UICONTROL Conferma]**.
+1. Toccare **[!UICONTROL Confirm]**.
 
    ![](assets/image2015-7-16-17-3a8-3a34.png)
 
-1. Tocca **[!UICONTROL Conferma]** per terminare il processo, oppure **[!UICONTROL Non importa]** se hai avuto dei ripensamenti.
+1. Tocca **[!UICONTROL Confirm]** per terminare il processo, oppure **[!UICONTROL Never Mind]** se hai dei ripensamenti.
 
    ![](assets/image2015-7-16-17-3a12-3a18.png)
 
@@ -59,7 +59,7 @@ Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tr
 
    ![](assets/image2015-7-17-9-3a50-3a49.png)
 
-1. Tocca **[!UICONTROL Annulla invio]**.
+1. Toccare **[!UICONTROL Cancel Send]**.
 
    ![](assets/image2015-7-17-9-3a52-3a54.png)
 
@@ -75,17 +75,17 @@ Puoi riprogrammare le schede e-mail confermate o non confermate.
 
    ![](assets/image2015-7-17-9-3a58-3a44.png)
 
-1. Tocca **[!UICONTROL Riprogramma]**.
+1. Toccare **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-7-17-10-3a0-3a32.png)
 
-1. Seleziona una data nel calendario e tocca **[!UICONTROL Riprogramma]**.
+1. Seleziona una data nel calendario e tocca **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
    Se si dispone di un servizio wireless, è possibile riprogrammare da qualsiasi luogo.
 
-## Invio di un campione {#sending-a-sample}
+## Inviare un esempio {#sending-a-sample}
 
 Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcuno.
 
@@ -93,11 +93,11 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
    ![](assets/image2015-7-14-16-3a44-3a7.png)
 
-1. Tocca **[!UICONTROL Invia campione]**.
+1. Toccare **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-16-3a40-3a54.png)
 
-1. Immetti un indirizzo e-mail e fai clic su **[!UICONTROL Invia campione]**.
+1. Immettere un indirizzo di posta elettronica e fare clic su **[!UICONTROL Send Sample]**.
 
    ![](assets/image2015-7-14-17-3a2-3a32.png)
 
@@ -105,7 +105,7 @@ Puoi condividere un esempio di un momento dell’e-mail direttamente con qualcun
 
 Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l’anteprima.
 
-1. Tocca **[!UICONTROL Anteprima e-mail]**.
+1. Toccare **[!UICONTROL Preview Email]**.
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 

@@ -1,15 +1,15 @@
 ---
 description: Utilizzo dell’aggiunta in blocco alla campagna di vendita in Salesforce - Documenti Marketo - Documentazione del prodotto
-title: Utilizzo di Bulk Add to Sales Campaign in Salesforce
+title: Utilizzo di Aggiunta in blocco alla campagna di vendite in Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '580'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Utilizzo di Bulk Add to Sales Campaign in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
+# Utilizzo di Aggiunta in blocco alla campagna di vendite in Salesforce {#using-bulk-add-to-sales-campaign-in-salesforce}
 
 Scopri come aggiungere in blocco campagne di vendita in Salesforce per ridimensionare le comunicazioni in uscita utilizzando le azioni di vendita.
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359616
 description: Abilitare la compilazione di moduli social network in un modulo - Documentazione di Marketo - Documentazione di prodotto
-title: Abilita compilazione modulo social network in un modulo
+title: Abilitare la compilazione di un modulo di contatto in un modulo
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 1%
+ht-degree: 14%
 
 ---
 
-# Abilita compilazione modulo social network in un modulo {#enable-social-form-fill-on-a-form}
+# Abilitare la compilazione di un modulo di contatto in un modulo {#enable-social-form-fill-on-a-form}
 
 Consenti ai visitatori di compilare il modulo utilizzando il proprio social network. Riceverai automaticamente dati aggiuntivi e l’esperienza sarà più rapida.
 

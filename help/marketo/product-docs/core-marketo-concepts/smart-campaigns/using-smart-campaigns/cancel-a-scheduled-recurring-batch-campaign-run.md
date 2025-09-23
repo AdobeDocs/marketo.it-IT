@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147060
 description: Annullare un’esecuzione pianificata di una campagna batch ricorrente - Documenti Marketo - Documentazione del prodotto
-title: Annullare un'esecuzione pianificata di una campagna batch ricorrente
+title: Annullare un’esecuzione di campagna batch pianificata ricorrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
-# Annullare un&#39;esecuzione pianificata di una campagna batch ricorrente {#cancel-a-scheduled-recurring-batch-campaign-run}
+# Annullare un’esecuzione di campagna batch pianificata ricorrente {#cancel-a-scheduled-recurring-batch-campaign-run}
 
 Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le esecuzioni future. Ecco come.
 

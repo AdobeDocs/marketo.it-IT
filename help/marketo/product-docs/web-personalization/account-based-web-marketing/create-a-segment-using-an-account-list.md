@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720236
 description: Creare un segmento utilizzando un elenco di account - Documentazione di Marketo - Documentazione di prodotto
-title: Creare un segmento utilizzando un elenco di conti
+title: Creare un segmento utilizzando un elenco di account
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '148'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Creare un segmento utilizzando un elenco di conti {#create-a-segment-using-an-account-list}
+# Creare un segmento utilizzando un elenco di account {#create-a-segment-using-an-account-list}
 
 Ecco come creare un segmento utilizzando un Elenco account.
 

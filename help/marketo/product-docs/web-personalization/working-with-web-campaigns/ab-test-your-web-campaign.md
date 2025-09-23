@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719404
 description: AB Test Your Web Campaign - Documentazione Marketo - Documentazione del prodotto
-title: Test AB della campagna web
+title: Test A/B della campagna web
 exl-id: 65d61b96-d39b-4388-971d-260c9c0aff93
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '301'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Test AB della campagna web {#ab-test-your-web-campaign}
+# Test A/B della campagna web {#ab-test-your-web-campaign}
 
 I test sono un ottimo modo per ottimizzare le campagne web per un coinvolgimento migliore. Ecco come iniziare.
 

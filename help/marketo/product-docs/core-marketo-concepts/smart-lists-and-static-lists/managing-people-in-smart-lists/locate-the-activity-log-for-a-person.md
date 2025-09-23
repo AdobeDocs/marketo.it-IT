@@ -4,10 +4,10 @@ description: Individuare il registro attività per una persona - Documentazione 
 title: Individuare il registro attività di una persona
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 208ba59e3a5cb8e613e887b4c89e51cec4b3f897
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 0%
+source-wordcount: '122'
+ht-degree: 15%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Il registro attività è la fonte ultima di verità. Questa è la storia completa del percorso di una persona in Marketo Engage.
 
-1. Vai al **[!UICONTROL database]**.
+1. Passare a **[!UICONTROL Database]**.
 
    ![](assets/locate-the-activity-log-for-a-person-1.png)
 
-1. Seleziona **[!UICONTROL Tutti gli utenti]**.
+1. Seleziona **[!UICONTROL All People]**.
 
    ![](assets/locate-the-activity-log-for-a-person-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Persone]**. Seleziona un numero di persona **[!UICONTROL Id]**.
+1. Fai clic sulla scheda **[!UICONTROL People]**. Selezionare un numero di persona **[!UICONTROL Id]**.
 
    ![](assets/locate-the-activity-log-for-a-person-3.png)
 
-1. Fare clic su **[!UICONTROL Registro attività]**.
+1. Fai clic su **[!UICONTROL Activity Log]**.
 
    ![](assets/locate-the-activity-log-for-a-person-4.png)
 

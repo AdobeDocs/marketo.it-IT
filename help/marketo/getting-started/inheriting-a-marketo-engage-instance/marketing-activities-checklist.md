@@ -3,10 +3,10 @@ description: Elenco di controllo delle attività di marketing dell’istanza ere
 title: Elenco di controllo delle attività di marketing dell’istanza ereditata
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '809'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -121,7 +121,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
    <th style="width:70%">Rivedi focus</th>
   </tr>
   <tr>
-   <td>Punteggio della persona</td>
+   <td>Punteggio persona</td>
    <td><li>Hai un programma <a href="/help/marketo/getting-started/quick-wins/simple-scoring.md" target="_blank">valutazione persona</a> centralizzato attivo?</li>
 <li>Il punteggio della persona aumenta e diminuisce il punteggio?</li></td>
   </tr>
@@ -157,7 +157,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   </tr>
   <tr>
    <td>Centro sottoscrizioni/preferenze</td>
-   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=it" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
+   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
   </tr>
   <tr>
    <td>Momenti di interesse (se applicabile)</td>

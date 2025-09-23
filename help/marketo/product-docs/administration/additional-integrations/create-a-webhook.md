@@ -4,10 +4,10 @@ description: Creazione di un documento di Marketo  [!DNL Webhook]  - Documentazi
 title: Crea un  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: 23a7b8cb1cd07c0194c08d30218602a52d03df5b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 0%
+source-wordcount: '181'
+ht-degree: 3%
 
 ---
 
@@ -15,15 +15,15 @@ ht-degree: 0%
 
 Utilizza [!DNL Webhooks] per sfruttare i servizi Web di terze parti per inviare messaggi di testo, espandere i dati personali e altro ancora.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-a-webhook-1.png)
 
-1. Fai clic su **[!UICONTROL Webhook]**.
+1. Fai clic su **[!UICONTROL Webhooks]**.
 
    ![](assets/create-a-webhook-2.png)
 
-1. Fai clic su **[!UICONTROL Nuovo webhook]**.
+1. Fai clic su **[!UICONTROL New Webhook]**.
 
    ![](assets/create-a-webhook-3.png)
 
@@ -35,20 +35,20 @@ Utilizza [!DNL Webhooks] per sfruttare i servizi Web di terze parti per inviare 
    >
    >Questo spesso include l’immissione delle credenziali del servizio di terze parti come parametro URL o nel modello POST.
 
-   * **[!UICONTROL URL]**: immetti l&#39;URL utilizzato nella richiesta al servizio Web. Per inserire un token, ad esempio l&#39;indirizzo e-mail della persona (**`{{lead.Email Address}}`**), nella richiesta, fai clic su **[!UICONTROL Inserisci token]**.
+   * **[!UICONTROL URL]**: immettere l&#39;URL utilizzato nella richiesta al servizio Web. Per inserire nella richiesta un token, ad esempio l&#39;indirizzo di posta elettronica della persona (**`{{lead.Email Address}}`**), fare clic su **[!UICONTROL Insert Token]**.
 
-   * **[!UICONTROL Modello]**: se desideri trasmettere informazioni nel corpo della richiesta, immetti tramite il modello di payload. Modelli consentiti per i seguenti tipi di richiesta: POST, DELETE, PATCH o PUT. Puoi utilizzare formati di dati come JSON o XML. Per inserire un token nel modello, fai clic su **[!UICONTROL Inserisci token]**.
+   * **[!UICONTROL Template]**: se desideri trasmettere le informazioni nel corpo della richiesta, immetti tramite il modello di payload. Modelli consentiti per i seguenti tipi di richieste: POST, DELETE, PATCH o PUT. Puoi utilizzare formati di dati come JSON o XML. Per inserire un token nel modello, fare clic su **[!UICONTROL Insert Token]**.
 
-   * **[!UICONTROL Codifica token richiesta]**: se i valori del token includono caratteri speciali (ad esempio una e commerciale, &#39;&amp;&#39;), indicare il formato della richiesta (**JSON** o **Form/Url**).
+   * **[!UICONTROL Request Token Encoding]**: se i valori del token includono caratteri speciali (ad esempio una e commerciale, &#39;&amp;&#39;), indicare il formato della richiesta (**JSON** o **Form/Url**).
 
-   * **[!UICONTROL Tipo di risposta]**: selezionare il formato della risposta ricevuta dal servizio (**JSON** o **XML**).
+   * **[!UICONTROL Response type]**: selezionare il formato della risposta ricevuta dal servizio (**JSON** o **XML**).
 
-   * **[!UICONTROL Tipo di richiesta]**: selezionare il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
+   * **[!UICONTROL Request Type]**: selezionare il metodo HTTP da utilizzare (DELETE, GET, PATCH, POST, PUT).
 
-1. Fai clic su **[!UICONTROL Crea]**.
+1. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/create-a-webhook-5.png)
 
 >[!NOTE]
 >
->Ulteriori informazioni sono disponibili nella sessione di approfondimento [[!DNL Webhooks]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Ulteriori informazioni sono disponibili nella sessione di approfondimento [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

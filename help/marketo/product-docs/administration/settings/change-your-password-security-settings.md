@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360185
 description: Modificare le impostazioni di sicurezza della password - Documentazione di Marketo - Documentazione del prodotto
-title: Modifica le impostazioni di protezione tramite password
+title: Modificare le impostazioni di protezione della password
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '154'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Modifica le impostazioni di protezione tramite password {#change-your-password-security-settings}
+# Modificare le impostazioni di protezione della password {#change-your-password-security-settings}
 
 Controlla i criteri password della tua iscrizione. Ecco come.
 
@@ -19,7 +19,7 @@ Controlla i criteri password della tua iscrizione. Ecco come.
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/change-your-password-security-settings-1.png)
 

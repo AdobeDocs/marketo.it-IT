@@ -4,10 +4,10 @@ description: Eliminare lo stato di un programma da un canale - Documentazione Ma
 title: Eliminare lo stato di un programma da un canale del programma
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 18%
 
 ---
 
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 Gli stati dei programmi sono i punti di controllo attraverso un percorso dei programmi (canale). Se per errore crei uno stato o non ne hai più bisogno, puoi eliminarlo.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-1.png)
 
-1. Fai clic su **[!UICONTROL Tag]**.
+1. Fai clic su **[!UICONTROL Tags]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-2.png)
 
-1. Seleziona il canale da cui vuoi rimuovere uno stato, quindi in **[!UICONTROL Azioni tag]** fai clic su **[!UICONTROL Modifica]**.
+1. Selezionare il canale da cui si desidera rimuovere uno stato, quindi in **[!UICONTROL Tag Actions]** fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-3.png)
 
-1. Fai clic sul **X** rosso per rimuovere lo stato, quindi fai clic su **[!UICONTROL Salva]**.
+1. Fai clic sul **X** rosso per rimuovere lo stato, quindi fai clic su **[!UICONTROL Save]**.
 
    ![](assets/delete-a-program-status-from-a-program-channel-4.png)
 

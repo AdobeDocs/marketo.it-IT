@@ -1,16 +1,16 @@
 ---
 description: Funzioni di callback - Documentazione di Marketo - Documentazione del prodotto
-title: Funzioni callback
+title: Funzioni di callback
 feature: Dynamic Chat
 exl-id: 5ae7f6cb-5c57-4257-8a1a-992c9602cfaa
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 3%
 
 ---
 
-# Funzioni callback {#callback-functions}
+# Funzioni di callback {#callback-functions}
 
 Puoi utilizzare le funzioni di callback del widget Dynamic Chat per inviare eventi di conversazione a qualsiasi piattaforma di terze parti.
 

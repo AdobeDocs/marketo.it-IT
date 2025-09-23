@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746167
 description: Unsubscribe Group (Gruppo di annullamento iscrizione) - Documentazione Marketo - Documentazione del prodotto
-title: Annulla sottoscrizione gruppo
+title: Annullare la sottoscrizione del gruppo
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Annulla sottoscrizione gruppo {#unsubscribe-group}
+# Annullare la sottoscrizione del gruppo {#unsubscribe-group}
 
 Visualizza e gestisci tutte le persone non iscritte in un&#39;unica posizione.
 

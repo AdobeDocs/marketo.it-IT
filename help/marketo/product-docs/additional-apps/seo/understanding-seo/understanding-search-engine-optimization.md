@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949176
 description: Informazioni sull’ottimizzazione dei motori di ricerca - Documentazione di Marketo - Documentazione del prodotto
-title: Informazioni sull’ottimizzazione dei motori di ricerca
+title: Informazioni sull’ottimizzazione per i motori di ricerca
 exl-id: f5036487-e18e-495e-84ba-235f21e99fb2
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '402'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Informazioni sull’ottimizzazione dei motori di ricerca {#understanding-search-engine-optimization}
+# Informazioni sull’ottimizzazione per i motori di ricerca {#understanding-search-engine-optimization}
 
 SEO (Search Engine Optimization) è una raccolta di best practice che consentono di portare le pagine davanti agli utenti che utilizzano i motori di ricerca. L’app SEO di Marketo ti aiuta a migliorare.
 

@@ -1,16 +1,16 @@
 ---
 description: Aggiungi automaticamente l’impostazione dei messaggi di annullamento dell’abbonamento - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi automaticamente l’impostazione del messaggio di annullamento dell’iscrizione
+title: Aggiungere automaticamente l’impostazione del messaggio di annullamento dell’iscrizione
 feature: Sales Insight Actions
 exl-id: 17734f62-74e6-4168-a9c8-7835e3daf5ff
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Aggiungi automaticamente l’impostazione del messaggio di annullamento dell’iscrizione {#auto-append-unsubscribe-message-setting}
+# Aggiungere automaticamente l’impostazione del messaggio di annullamento dell’iscrizione {#auto-append-unsubscribe-message-setting}
 
 Assicurati che ogni e-mail Azioni di Sales Insight inviata includa un messaggio per annullare l’iscrizione in modo che i destinatari abbiano una facile opzione per rinunciare alla comunicazione. Quando è abilitato il messaggio di annullamento dell’iscrizione accodamento, tutte le comunicazioni inviate dal team da Marketo Sales includeranno un messaggio di annullamento dell’iscrizione, incluse le e-mail inviate dall’applicazione web e da Salesforce.
 

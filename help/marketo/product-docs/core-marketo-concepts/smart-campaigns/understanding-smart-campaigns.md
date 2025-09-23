@@ -4,10 +4,10 @@ description: Informazioni sulle campagne intelligenti - Documentazione di Market
 title: Informazioni sulle campagne avanzate
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '249'
-ht-degree: 14%
+ht-degree: 17%
 
 ---
 

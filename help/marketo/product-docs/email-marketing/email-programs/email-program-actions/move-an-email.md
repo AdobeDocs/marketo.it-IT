@@ -4,10 +4,10 @@ description: Spostare un’e-mail - Documentazione di Marketo - Documentazione d
 title: Spostare un’e-mail
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 

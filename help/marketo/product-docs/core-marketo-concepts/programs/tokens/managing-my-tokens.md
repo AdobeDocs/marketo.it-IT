@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147116
 description: Gestione dei token - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione dei token
+title: Gestire I miei token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: f21d9356f00f8ea50819b591d15ca06d61256d8b
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
-# Gestione dei token {#managing-my-tokens}
+# Gestire I miei token {#managing-my-tokens}
 
 L’utilizzo dei token può semplificare le attività in Marketo Engage. Puoi utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Ecco come farle.
 

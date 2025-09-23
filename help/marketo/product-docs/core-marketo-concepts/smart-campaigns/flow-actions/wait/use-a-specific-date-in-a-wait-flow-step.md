@@ -1,21 +1,21 @@
 ---
 unique-page-id: 1146976
 description: Utilizzare una data specifica in un passaggio del flusso di attesa - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzare una data specifica in un passaggio del flusso di attesa
+title: Utilizzare una data specifica in un passaggio di flusso di attesa
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 0%
+source-wordcount: '100'
+ht-degree: 18%
 
 ---
 
-# Utilizzare una data specifica in un passaggio del flusso di attesa {#use-a-specific-date-in-a-wait-flow-step}
+# Utilizzare una data specifica in un passaggio di flusso di attesa {#use-a-specific-date-in-a-wait-flow-step}
 
-Puoi utilizzare il passaggio di flusso &quot;[!UICONTROL Attendi]&quot; per mettere in pausa il percorso di una persona tramite una campagna avanzata fino a una data specifica.
+Puoi utilizzare il passaggio di flusso &quot;[!UICONTROL Wait]&quot; per mettere in pausa il percorso di una persona in una campagna avanzata fino a una data specifica.
 
-1. Nella scheda **[!UICONTROL Flusso]** della campagna avanzata, trascina il passaggio del flusso **[!UICONTROL Attendi]**.
+1. Nella scheda **[!UICONTROL Flow]** di Smart Campaign, trascina sul passaggio di flusso **[!UICONTROL Wait]**.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-1.png)
 
@@ -23,7 +23,7 @@ Puoi utilizzare il passaggio di flusso &quot;[!UICONTROL Attendi]&quot; per mett
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-2.png)
 
-1. Dal menu a discesa **[!UICONTROL Tipo]**, selezionare **[!UICONTROL Data]**.
+1. Dall&#39;elenco a discesa **[!UICONTROL Type]**, selezionare **[!UICONTROL Date]**.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-3.png)
 
@@ -31,7 +31,7 @@ Puoi utilizzare il passaggio di flusso &quot;[!UICONTROL Attendi]&quot; per mett
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-4.png)
 
-1. Specifica l&#39;ora (facoltativo) e fai clic su **[!UICONTROL Salva]**.
+1. Specificare l&#39;ora (facoltativo) e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/use-a-specific-date-in-a-wait-flow-step-5.png)
 

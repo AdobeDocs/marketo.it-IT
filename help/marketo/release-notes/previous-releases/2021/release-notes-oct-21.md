@@ -3,16 +3,16 @@ description: Note sulla versione - Ottobre 2021 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1084'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Note sulla versione: ottobre 2021 {#release-notes-oct-21}
+# Note sulla versione - Ottobre 2021 {#release-notes-oct-21}
 
-Le seguenti funzioni sono incluse nella versione di ottobre 2021. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Le seguenti funzioni sono incluse nella versione di ottobre 2021. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >

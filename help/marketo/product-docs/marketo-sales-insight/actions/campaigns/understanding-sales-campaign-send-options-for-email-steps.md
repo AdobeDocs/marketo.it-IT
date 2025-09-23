@@ -1,16 +1,16 @@
 ---
 description: Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail - Documenti Marketo - Documentazione del prodotto
-title: Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail
+title: Informazioni sulle opzioni di invio della campagna vendite per i passaggi dell’e-mail
 feature: Sales Insight Actions
 exl-id: 775c6401-efb2-4940-a81c-be5d2759c7bd
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '740'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Informazioni sulle opzioni di invio della campagna di vendita per i passaggi dell’e-mail {#understanding-sales-campaign-send-options-for-email-steps}
+# Informazioni sulle opzioni di invio della campagna vendite per i passaggi dell’e-mail {#understanding-sales-campaign-send-options-for-email-steps}
 
 Durante la creazione di una campagna di vendita sono disponibili diverse opzioni per la creazione dei passaggi e-mail in [!DNL Sales Insight Actions]. Inoltre, a seconda di dove si trova l’e-mail nella campagna di vendita, anche le opzioni sono diverse.
 
@@ -75,5 +75,5 @@ Per i giorni/passaggi successivi della campagna di vendita, avrai a disposizione
 >[!MORELIKETHIS]
 >
 >[Crea una campagna di vendita](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/create-a-sales-campaign.md){target="_blank"}
->&#x200B;>[Tipi di fasi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
->&#x200B;>[Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}
+>>[Tipi di fasi della campagna di vendita e attività promemoria](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-step-types-and-reminder-tasks.md){target="_blank"}
+>>[Impostazioni campagna vendite](/help/marketo/product-docs/marketo-sales-insight/actions/campaigns/sales-campaign-settings.md){target="_blank"}

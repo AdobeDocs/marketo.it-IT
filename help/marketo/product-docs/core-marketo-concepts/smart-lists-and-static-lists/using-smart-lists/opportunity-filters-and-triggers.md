@@ -1,17 +1,17 @@
 ---
 unique-page-id: 8159286
 description: Filtri e attivatori dell’opportunità - Documentazione di Marketo - Documentazione del prodotto
-title: Filtri e attivatori dell’opportunità
+title: Filtri e attivatori di opportunità
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '473'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Filtri e attivatori dell’opportunità {#opportunity-filters-and-triggers}
+# Filtri e attivatori di opportunità {#opportunity-filters-and-triggers}
 
 I filtri e i trigger di opportunità consentono di tenere traccia degli eventi di opportunità da [!DNL Salesforce]. Sono leggermente diversi rispetto ad altri filtri e attivatori.
 

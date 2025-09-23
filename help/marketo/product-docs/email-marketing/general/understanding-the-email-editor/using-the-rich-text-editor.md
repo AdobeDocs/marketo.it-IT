@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953419
 description: Utilizzo dell’Editor Rich Text - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzo dell’Editor Rich Text
+title: Utilizzo dell’editor Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '659'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 
-# Utilizzo dell’Editor Rich Text {#using-the-rich-text-editor}
+# Utilizzo dell’editor Rich Text {#using-the-rich-text-editor}
 
 L’editor Rich Text viene visualizzato in Marketo ed è disponibile ogni volta che desideri aggiungere o modificare contenuti. Ne vedrai una versione su pagine di destinazione, programmi, e-mail, moduli e snippet. Fai clic su **[!UICONTROL Edit Draft]** per visualizzarlo.
 

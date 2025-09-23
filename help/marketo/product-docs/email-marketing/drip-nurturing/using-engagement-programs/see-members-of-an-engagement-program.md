@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359861
 description: Consulta Membri di un programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
-title: Vedere Membri di un programma di coinvolgimento
+title: Vedere Iscritti a un programma di coinvolgimento
 exl-id: c30b3333-3ea8-44e7-a911-a0b6584da7cb
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 0%
+ht-degree: 23%
 
 ---
 
-# Vedere Membri di un programma di coinvolgimento {#see-members-of-an-engagement-program}
+# Vedere Iscritti a un programma di coinvolgimento {#see-members-of-an-engagement-program}
 
 Puoi vedere rapidamente i membri di un programma di coinvolgimento. Ecco come.
 

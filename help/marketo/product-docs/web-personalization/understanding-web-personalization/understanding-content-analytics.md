@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10093159
 description: Informazioni su Content Analytics - Documentazione Marketo - Documentazione del prodotto
-title: Informazioni su Content Analytics
+title: Informazioni su analisi dei contenuti
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '357'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Informazioni su Content Analytics {#understanding-content-analytics}
+# Informazioni su analisi dei contenuti {#understanding-content-analytics}
 
 La pagina Content Analytics mostra il contenuto esistente individuato (casi di studio, post di blog, video, comunicati stampa e così via) dal sito Web. Mostra inoltre le prestazioni dei contenuti e le persone generate quando i visitatori interagiscono con loro.
 
@@ -86,13 +86,13 @@ L’analisi aggiuntiva dei contenuti include:
 
 * **[!UICONTROL Views]**: visualizzazioni del contenuto per l&#39;ambito temporale selezionato
 * **[!UICONTROL Direct Conversions]**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
+* **[!UICONTROL Conversion Rate]****:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
 
 **[!UICONTROL Trends]**
 
 * Un grafico **[!UICONTROL Trends]** che mostra gli ultimi 30 giorni di visualizzazioni del contenuto specifico. Passa il puntatore del mouse sul grafico a linee per visualizzare il numero di visualizzazioni di contenuto da un giorno specifico
 
-## Elimina contenuto {#delete-content}
+## Eliminare contenuto {#delete-content}
 
 ![](assets/six.png)
 

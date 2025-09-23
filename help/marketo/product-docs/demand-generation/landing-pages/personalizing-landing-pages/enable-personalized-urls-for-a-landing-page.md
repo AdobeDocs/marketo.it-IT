@@ -4,10 +4,10 @@ description: Abilitare URL personalizzati per una pagina di destinazione - Docum
 title: Abilitare URL personalizzati per una pagina di destinazione
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 17%
 
 ---
 

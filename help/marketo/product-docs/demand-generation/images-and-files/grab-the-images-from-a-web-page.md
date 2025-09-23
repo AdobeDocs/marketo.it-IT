@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359866
 description: Acquisire immagini da una pagina web - Documentazione di Marketo - Documentazione del prodotto
-title: Acquisire immagini da una pagina Web
+title: Acquisire immagini da una pagina web
 exl-id: 5dd406da-082e-43cf-9d5e-3da2b960927d
 feature: Image Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
-# Acquisire immagini da una pagina Web {#grab-the-images-from-a-web-page}
+# Acquisire immagini da una pagina web {#grab-the-images-from-a-web-page}
 
 Per aggiungere immagini da una pagina web, copia l’indirizzo web (URL) della pagina contenente le immagini desiderate, quindi segui questi semplici passaggi.
 

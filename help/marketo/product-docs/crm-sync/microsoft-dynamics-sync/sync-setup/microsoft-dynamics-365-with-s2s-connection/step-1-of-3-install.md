@@ -3,10 +3,10 @@ description: 'Passaggio 1 di 3: installare la soluzione Marketo con connessione 
 title: 'Passaggio 1 di 3: installare la soluzione Marketo con connessione server-server'
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -82,7 +82,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics 365] e Marketo, è necessa
 
    ![](assets/image2015-3-19-8-3a40-3a38.png)
 
-1. Selezionare **[!UICONTROL Marketo Lead Management]** e fare clic su **[!UICONTROL Publish All Customizations]**.
+1. Seleziona **[!UICONTROL Marketo Lead Management]** e fai clic su **[!UICONTROL Publish All Customizations]**.
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 

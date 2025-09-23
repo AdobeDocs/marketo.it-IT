@@ -4,10 +4,10 @@ description: Azioni in blocco sulle persone - Documentazione di Marketo - Docume
 title: Azioni in blocco sulle persone
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '140'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -35,7 +35,7 @@ Assegniamo automaticamente un&#39;origine a ogni contatto che entra nel database
 >
 >Le origini non sono personalizzabili.
 
-## Autorizzazione {#authorization}
+## Authorization {#authorization}
 
 In conformità con [RGPD](https://eugdpr.org/), utilizza l&#39;autorizzazione per indicare in che modo hai ricevuto l&#39;autorizzazione per interagire con questi contatti.
 

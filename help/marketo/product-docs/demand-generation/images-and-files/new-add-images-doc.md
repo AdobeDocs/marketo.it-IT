@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Image Editor
 exl-id: 2080327c-fef0-48d8-b5c6-21741ae4f357
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 2%
+ht-degree: 13%
 
 ---
 
@@ -26,7 +26,7 @@ Sono disponibili più opzioni per aggiungere nuovi file/immagini all&#39;archivi
 
    ![](assets/add-images-and-files-to-marketo-2.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Upload image or file]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Upload image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-3.png)
 
@@ -48,7 +48,7 @@ Testo
 
 1. Segui i passaggi 1 e 2 [dall&#39;alto](#upload-image-or-file).
 
-1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Import image or file]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-6.png)
 
@@ -70,7 +70,7 @@ Testo
 
 1. Segui i passaggi 1 e 2 [dall&#39;alto](#upload-image-or-file).
 
-1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Import image or file]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-10.png)
 
@@ -100,7 +100,7 @@ Testo
 
 1. Segui i passaggi 1 e 2 [dall&#39;alto](#upload-image-or-file).
 
-1. Fare clic sul menu a discesa **[!UICONTROL Image and file actions]** e selezionare **[!UICONTROL Import image or file]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Image and file actions]** e seleziona **[!UICONTROL Import image or file]**.
 
    ![](assets/add-images-and-files-to-marketo-15.png)
 

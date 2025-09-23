@@ -4,14 +4,14 @@ description: Note sulla versione - Febbraio 2015 - Documentazione Marketo - Docu
 title: Note sulla versione - Febbraio 2015
 exl-id: a7ce88dc-a4d2-4ccb-9fe5-61130334d24d
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: febbraio 2015 {#release-notes-february}
+# Note sulla versione - Febbraio 2015 {#release-notes-february}
 
 Le seguenti funzioni sono incluse nella versione di febbraio 2015. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione. Rullo di tamburo...
 

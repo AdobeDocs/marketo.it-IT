@@ -4,16 +4,16 @@ description: Modello 8C - Documentazione Marketo - Documentazione del prodotto
 title: Modello 8C
 exl-id: 45f0defc-6554-459c-a862-731d18f9ed6b
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # Modello 8C {#template-8c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 8C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)
 
 ![](assets/image2015-7-29-14-3a12-3a24.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html?lang=it)
+[Modello 8C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-8c.html)

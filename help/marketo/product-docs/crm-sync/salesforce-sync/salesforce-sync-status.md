@@ -1,16 +1,16 @@
 ---
 description: Stato sincronizzazione Salesforce - Documentazione Marketo - Documentazione del prodotto
-title: Stato sincronizzazione Salesforce
+title: Stato della sincronizzazione Salesforce
 exl-id: 61197808-7812-4e0a-8ac6-4a60af0f7979
 feature: Salesforce Integration
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# Stato sincronizzazione Salesforce {#salesforce-sync-status}
+# Stato della sincronizzazione Salesforce {#salesforce-sync-status}
 
 Utilizza il dashboard Stato di sincronizzazione per visualizzare le statistiche di sincronizzazione come parte dei passaggi di sincronizzazione e il relativo stato di completamento.
 
@@ -92,7 +92,7 @@ Per impostazione predefinita, le statistiche vengono ordinate in base all’ulti
    <td colspan="1">Operazione riuscita, non riuscita, incompleta, in corso, pulita*</td>
   </tr>
   <tr>
-   <td colspan="1">Nuova</td>
+   <td colspan="1">Nuovo</td>
    <td colspan="1">Numero di nuovi record</td>
    <td colspan="1"></td>
   </tr>

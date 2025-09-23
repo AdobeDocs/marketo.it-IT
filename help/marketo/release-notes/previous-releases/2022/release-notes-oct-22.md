@@ -3,24 +3,24 @@ description: Note sulla versione - Ottobre 2022 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 6%
+ht-degree: 23%
 
 ---
 
-# Note sulla versione: ottobre 2022 {#release-notes-oct-22}
+# Note sulla versione - Ottobre 2022 {#release-notes-oct-22}
 
-Qui sotto trovi tutte le funzioni incluse nella versione di ottobre 2022. Verifica la disponibilità delle funzioni nella tua edizione di Adobe Marketo Engage.
+Qui sotto trovi tutte le funzioni incluse nella versione di ottobre 2022. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 >[!AVAILABILITY]
 >
->Le funzionalità contrassegnate da una stella (![stella](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
+>Le funzionalità contrassegnate da una stella (![star](assets/yellow-star.png)) sono componenti aggiuntivi a pagamento. Per ulteriori informazioni, contatta il rappresentante Marketo Engage.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 14 ottobre 2022** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Ambiente dati di marketing {#marketing-data-environment}
 
@@ -35,7 +35,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campo personalizzato membro programma</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campo personalizzato del membro del programma</a></td>
   </tr>
   </tbody>
 </table>
@@ -60,8 +60,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Screens aggiornato nell&#39;esperienza di nuova generazione**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
 
-   * Dettagli del modello della pagina di destinazione
-   * Lista dei Modelli di Email
+   * Dettagli modello pagina di destinazione
+   * Elenco modelli e-mail
 
 <table>
   <tr>

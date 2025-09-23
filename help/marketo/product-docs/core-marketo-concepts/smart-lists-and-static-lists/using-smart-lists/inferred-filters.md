@@ -4,10 +4,10 @@ description: Filtri dedotti - Documentazione Marketo - Documentazione del prodot
 title: Filtri dedotti
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: ac7d6b222ca561c88e0bf10aba7736c1b2eee3f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/ad
 >
 >Per garantire che i valori dei campi dedotti rimangano aggiornati, viene aggiornato periodicamente il database utilizzato per le ricerche degli indirizzi IP. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che potrebbe essere necessario aggiungere alle definizioni dei filtri di elenchi avanzati.
 >
->Gli aggiornamenti del database possono verificarsi durante una [versione del prodotto del Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando si verifica un aggiornamento, le [note sulla versione del Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterranno una spiegazione di eventuali modifiche ai valori dei campi dedotti.
+>Gli aggiornamenti del database possono verificarsi durante una [versione del prodotto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando si verifica un aggiornamento, le [note sulla versione di Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterranno una spiegazione di eventuali modifiche ai valori dei campi dedotti.
 
 ![](assets/inferred-filters-1.png)
 

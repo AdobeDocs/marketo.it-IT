@@ -4,10 +4,10 @@ description: Approvare un titolo per contenuti predittivi - Documenti Marketo - 
 title: Approvare un titolo per il contenuto predittivo
 exl-id: 158ab21d-f5d6-452d-976e-8b50b2670b1a
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a9-3a47.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Content Actions]** e selezionare **[!UICONTROL Approve for Predictive Content]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Content Actions]** e seleziona **[!UICONTROL Approve for Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a10-3a31.png)
 

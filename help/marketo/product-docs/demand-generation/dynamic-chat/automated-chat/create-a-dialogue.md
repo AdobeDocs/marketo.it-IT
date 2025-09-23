@@ -1,28 +1,28 @@
 ---
 description: Creare una finestra di dialogo - Documentazione di Marketo - Documentazione del prodotto
-title: Creare una finestra di dialogo
+title: Creare un dialogo
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: f5f93a993d5b13c1fda0b31172393eff0bc65fd4
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
-# Creare una finestra di dialogo {#create-a-dialogue}
+# Creare un dialogo {#create-a-dialogue}
 
 Ecco come creare una nuova finestra di dialogo.
 
-1. Fai clic su **[!UICONTROL Finestre di dialogo]**.
+1. Fai clic su **[!UICONTROL Dialogues]**.
 
    ![](assets/create-a-dialogue-1.png)
 
-1. Fare clic sul pulsante **[!UICONTROL Crea nuovo]**.
+1. Fare clic sul pulsante **[!UICONTROL Create New]**.
 
    ![](assets/create-a-dialogue-2.png)
 
-1. Scegli una finestra di dialogo vuota o uno dei modelli precompilati. Immettere un nome (la descrizione è facoltativa), modificare il livello di priorità (facoltativo) e fare clic su **[!UICONTROL Crea]**.
+1. Scegli una finestra di dialogo vuota o uno dei modelli precompilati. Immettere un nome (la descrizione è facoltativa), modificare il livello di priorità (facoltativo) e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/create-a-dialogue-3.png)
 

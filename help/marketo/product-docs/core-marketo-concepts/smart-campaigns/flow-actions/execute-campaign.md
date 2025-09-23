@@ -1,16 +1,16 @@
 ---
 description: Eseguire una campagna - Documentazione di Marketo - Documentazione del prodotto
-title: Esegui campagna
+title: Eseguire campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '692'
 ht-degree: 0%
 
 ---
 
-# Esegui campagna {#execute-campaign}
+# Eseguire campagna {#execute-campaign}
 
 Una campagna eseguibile, come altre campagne, contiene un elenco avanzato, un flusso e una pianificazione. A differenza di altre campagne, non puoi pianificarle o attivarle. Può essere richiamato solo da un’altra campagna tramite il passaggio di flusso Esegui campagna. I passaggi di flusso nella campagna eseguibile vengono eseguiti in serie con la campagna principale (a differenza di Campagna richieste, che viene eseguita in parallelo in una campagna con trigger separata).
 
@@ -60,7 +60,7 @@ Se è impostato su true, i seguenti contesti di token vengono inviati nella camp
 
 **Interazione API**
 
-Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
+Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 

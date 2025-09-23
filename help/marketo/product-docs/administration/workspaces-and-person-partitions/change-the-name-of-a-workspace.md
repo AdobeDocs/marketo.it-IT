@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360321
 description: Modificare il nome di un Workspace - Documentazione Marketo - Documentazione del prodotto
-title: Modificare il nome di un Workspace
+title: Modificare il nome di un’area di lavoro
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '73'
-ht-degree: 1%
+ht-degree: 23%
 
 ---
 
-# Modificare il nome di un Workspace {#change-the-name-of-a-workspace}
+# Modificare il nome di un’area di lavoro {#change-the-name-of-a-workspace}
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ Gli utenti possono modificare il nome di un’area di lavoro. È piuttosto sempl
 >
 >Comprendere prima con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/change-the-name-of-a-workspace-1.png)
 

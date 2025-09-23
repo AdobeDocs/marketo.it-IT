@@ -1,19 +1,19 @@
 ---
 unique-page-id: 15368214
 description: Disconnetti Salesforce Dal Tuo Account Sales Connect - Documentazione Marketo - Documentazione Del Prodotto
-title: Disconnetti Salesforce Dall'Account Sales Connect
+title: Disconnettere Salesforce dall’account Sales Connect
 exl-id: 7b40ba8f-b852-4de1-bc1d-1206259c2880
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 0%
+ht-degree: 18%
 
 ---
 
-# Disconnetti Salesforce Dall&#39;Account Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
+# Disconnettere Salesforce dall’account Sales Connect {#disconnect-salesforce-from-your-sales-connect-account}
 
-A volte potrebbe essere necessario disconnettere l&#39;account [!DNL &#x200B; Salesforce] dall&#39;account [!DNL Sales Connect]. Ecco come.
+A volte potrebbe essere necessario disconnettere l&#39;account [!DNL  Salesforce] dall&#39;account [!DNL Sales Connect]. Ecco come.
 
 ## Come disconnettersi da Salesforce come amministratore {#how-to-disconnect-from-salesforce-as-an-admin}
 
@@ -21,7 +21,7 @@ A volte potrebbe essere necessario disconnettere l&#39;account [!DNL &#x200B; Sa
 
    ![](assets/one-1.png)
 
-1. In [!UICONTROL &#x200B; Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
+1. In [!UICONTROL  Admin Settings], fare clic su **[!UICONTROL Salesforce]**.
 
    ![](assets/six-1.png)
 
@@ -31,7 +31,7 @@ A volte potrebbe essere necessario disconnettere l&#39;account [!DNL &#x200B; Sa
 
 ## Come disconnettersi da Salesforce come utente non amministratore {#how-to-disconnect-from-salesforce-as-a-non-admin}
 
-1. In [!DNL &#x200B; Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
+1. In [!DNL  Sales Connect], fare clic sull&#39;icona ingranaggio in alto a destra e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/one-1.png)
 

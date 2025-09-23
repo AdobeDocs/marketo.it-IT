@@ -1,12 +1,12 @@
 ---
 description: Registra i motivi delle chiamate e gli esiti delle chiamate a Salesforce - Documentazione Marketo - Documentazione del prodotto
-title: Registra i motivi e gli esiti delle chiamate a Salesforce
+title: Registrare i motivi e gli esiti delle chiamate in Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '415'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 

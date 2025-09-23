@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352485
-description: È possibile recuperare un contatto o un gruppo eliminato? - Documentazione di Marketo - Documentazione del prodotto
+description: È possibile recuperare un contatto o un gruppo eliminato? - Documenti Marketo - Documentazione del prodotto
 title: È possibile recuperare un contatto o un gruppo eliminato?
 exl-id: 2d12187b-c64a-431f-aefa-d8ed1c90909c
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 

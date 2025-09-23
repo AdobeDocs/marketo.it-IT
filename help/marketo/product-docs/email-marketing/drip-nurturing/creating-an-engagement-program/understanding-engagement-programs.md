@@ -4,10 +4,10 @@ description: Informazioni sui programmi di coinvolgimento - Documentazione di Ma
 title: Informazioni sui programmi di coinvolgimento
 exl-id: dd573749-5ae6-4794-a340-b5139c316cce
 feature: Engagement Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '278'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

@@ -4,10 +4,10 @@ description: Campi personalizzati dei membri del programma - Documentazione di M
 title: Campi personalizzati del membro del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '403'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Puoi sfruttare questi dati specifici del programma negli elenchi avanzati tramit
 
 ![](assets/six.png)
 
-## Aspetti da considerare {#things-to-know}
+## Aspetti da comprendere {#things-to-know}
 
 * I campi personalizzati dei membri del programma sono disponibili solo nelle risorse locali. Non sono supportati in Design Studio perché non è possibile collegarli a un programma specifico.
 * Non è possibile clonare o spostare in Design Studio un modulo (o una pagina di destinazione con un modulo) contenente campi personalizzati per Membri del programma.

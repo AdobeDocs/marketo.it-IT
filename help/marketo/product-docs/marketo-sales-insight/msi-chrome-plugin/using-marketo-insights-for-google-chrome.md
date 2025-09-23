@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512944
 description: Utilizzo di Marketo Insights per Google Chrome - Documentazione Marketo - Documentazione del prodotto
-title: Utilizzo di Marketo Insights per Google Chrome
+title: Utilizzare Marketo Insights per Google Chrome
 exl-id: 9171e85f-a286-469c-b3a3-b290619311c9
 feature: Marketo Sales Insights
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 

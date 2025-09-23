@@ -4,10 +4,10 @@ description: Creare una gerarchia - Documentazione di Marketo - Documentazione d
 title: Creare una gerarchia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ Le gerarchie devono essere create in CRM. Tuttavia, se non disponi di un CRM, se
 
    ![](assets/create-a-hierarchy-2.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Named Account Actions]** e selezionare **[!UICONTROL Link to Named Account]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Named Account Actions]** e seleziona **[!UICONTROL Link to Named Account]**.
 
    ![](assets/create-a-hierarchy-3.png)
 

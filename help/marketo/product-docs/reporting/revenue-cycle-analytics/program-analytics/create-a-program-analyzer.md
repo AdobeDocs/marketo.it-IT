@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360399
 description: Creazione di un analizzatore di programmi - Documentazione di Marketo - Documentazione di prodotto
-title: Creare un analizzatore di programmi
+title: Creare analizzatore di programmi
 exl-id: 18715682-2afe-42cc-93d2-a3537749f784
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '260'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 

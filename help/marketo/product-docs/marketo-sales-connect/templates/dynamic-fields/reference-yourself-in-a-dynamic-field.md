@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352601
 description: Creare un riferimento a se stessi in un campo dinamico - Documentazione di Marketo - Documentazione del prodotto
-title: Fai riferimento a te stesso in un campo dinamico
+title: Fare riferimento a sé in un campo dinamico
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Fai riferimento a te stesso in un campo dinamico {#reference-yourself-in-a-dynamic-field}
+# Fare riferimento a sé in un campo dinamico {#reference-yourself-in-a-dynamic-field}
 
 I campi dinamici sono la forma di stampa unione.
 

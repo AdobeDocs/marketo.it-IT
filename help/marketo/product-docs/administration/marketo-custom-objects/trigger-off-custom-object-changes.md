@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11378713
 description: Attivare Le Modifiche Agli Oggetti Personalizzati - Documentazione Di Marketo - Documentazione Del Prodotto
-title: Attivazione Di Modifiche All'Oggetto Personalizzato
+title: Disattivare le modifiche all’oggetto personalizzato
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: acaf2b421ed65f74bedf18b121ce54e30c19c721
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 6%
 
 ---
 
-# Attivazione Di Modifiche All&#39;Oggetto Personalizzato {#trigger-off-custom-object-changes}
+# Disattivare le modifiche all’oggetto personalizzato {#trigger-off-custom-object-changes}
 
 >[!NOTE]
 >
@@ -28,7 +28,7 @@ Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di fl
 >
 >Una voce del registro attività non viene creata quando viene modificato un record oggetto personalizzato.
 
-1. In Marketo Engage, vai a **[!UICONTROL Attività di marketing]**.
+1. In Marketo Engage, vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/trigger-off-custom-object-changes-1.png)
 
@@ -40,7 +40,7 @@ Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di fl
 
    ![](assets/trigger-off-custom-object-changes-3.png)
 
-1. Seleziona l&#39;[!UICONTROL attributo trigger].
+1. Seleziona [!UICONTROL trigger attribute].
 
    ![](assets/trigger-off-custom-object-changes-4.png)
 

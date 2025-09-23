@@ -1,25 +1,25 @@
 ---
 unique-page-id: 11378468
 description: Filtraggio in Audit Trail - Documentazione di Marketo - Documentazione del prodotto
-title: Filtraggio in Audit Trail
+title: Filtrare in Audit trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 0%
+source-wordcount: '129'
+ht-degree: 15%
 
 ---
 
-# Filtraggio in Audit Trail {#filtering-in-audit-trail}
+# Filtrare in Audit trail {#filtering-in-audit-trail}
 
 Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e altro ancora.
 
-1. Fai clic su **[!UICONTROL Amministratore]**.
+1. Fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/filtering-in-audit-trail-1.png)
 
-1. In **[!UICONTROL Sicurezza]**, selezionare **[!UICONTROL Audit Trail]**.
+1. In **[!UICONTROL Security]**, selezionare **[!UICONTROL Audit Trail]**.
 
    ![](assets/filtering-in-audit-trail-2.png)
 
@@ -31,19 +31,19 @@ Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e alt
    >
    >Sono disponibili numerose possibili combinazioni di parametri di ricerca. In questo esempio vengono individuate _tutte le e-mail, modificate da chiunque, nei sette giorni precedenti_.
 
-1. Fai clic sul menu a discesa **[!UICONTROL Periodo]** e seleziona **[!UICONTROL Ultimi 7 giorni]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Period]** e seleziona **[!UICONTROL Last 7 Days]**.
 
    ![](assets/filtering-in-audit-trail-4.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Tipo risorsa]** e seleziona **[!UICONTROL E-mail]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Asset Type]** e seleziona **[!UICONTROL Email]**.
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Fai clic sul menu a discesa **Actions** e seleziona **[!UICONTROL Modifica]**.
+1. Fai clic sul menu a discesa **Actions** e seleziona **[!UICONTROL Edit]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
-1. Fare clic su **[!UICONTROL Applica]**.
+1. Fai clic su **[!UICONTROL Apply]**.
 
    ![](assets/filtering-in-audit-trail-7.png)
 

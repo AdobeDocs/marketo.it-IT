@@ -1,22 +1,22 @@
 ---
 description: Azioni flusso singolo dalla pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
-title: Pagina Azioni flusso singolo da dettagli persona
+title: Azioni flusso singolo da pagina Dettagli persona
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 2eeb7ea7fd43ba75a3c802a91ce07c90dc8abd91
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 
-# Pagina Azioni flusso singolo da dettagli persona {#single-flow-actions-from-person-detail-page}
+# Azioni flusso singolo da pagina Dettagli persona {#single-flow-actions-from-person-detail-page}
 
 Oltre a eseguire azioni a flusso singolo da un elenco avanzato, è possibile eseguirle direttamente in una pagina Dettagli persona.
 
-1. Fare clic su **[!UICONTROL Database]**.
+1. Fai clic su **[!UICONTROL Database]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-1.png)
 
@@ -24,11 +24,11 @@ Oltre a eseguire azioni a flusso singolo da un elenco avanzato, è possibile ese
 
    ![](assets/single-flow-actions-from-person-detail-page-2.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni persona]** e seleziona il passaggio di flusso desiderato. In questo esempio utilizzeremo [Invia e-mail](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
+1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Person Actions]** e selezionare il passaggio di flusso desiderato. In questo esempio utilizzeremo [Invia e-mail](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-email.md){target="_blank"}.
 
    ![](assets/single-flow-actions-from-person-detail-page-3.png)
 
-1. Selezionare l&#39;indirizzo di posta elettronica desiderato e fare clic su **[!UICONTROL Esegui ora]**.
+1. Selezionare l&#39;e-mail desiderata e fare clic su **[!UICONTROL Run Now]**.
 
    ![](assets/single-flow-actions-from-person-detail-page-4.png)
 

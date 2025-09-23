@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359646
 description: Configurare la profilatura progressiva dei moduli - Documentazione di Marketo - Documentazione del prodotto
-title: Configurare la profilatura progressiva dei moduli
+title: Configurare la profilatura progressiva del modulo
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '307'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Configurare la profilatura progressiva dei moduli {#configure-form-progressive-profiling}
+# Configurare la profilatura progressiva del modulo {#configure-form-progressive-profiling}
 
 Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare nuovi campi e compilare progressivamente il profilo del visitatore. Ecco come.
 

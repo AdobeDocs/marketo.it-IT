@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360199
 description: Rapporti persona gruppo per attributo - Documentazione Marketo - Documentazione del prodotto
-title: Raggruppa rapporti persona per attributo
+title: Raggruppare rapporti persona per attributo
 exl-id: 853f6536-cbeb-4ef0-8f23-118c99a2b18e
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 1%
+ht-degree: 10%
 
 ---
 
-# Raggruppa rapporti persona per attributo {#group-person-reports-by-attribute}
+# Raggruppare rapporti persona per attributo {#group-person-reports-by-attribute}
 
 È possibile raggruppare i rapporti sulle persone in base a qualsiasi attributo di persona o società.
 
@@ -37,7 +37,7 @@ ht-degree: 1%
 
    >[!TIP]
    >
-   >Se scegli un attributo con un valore numerico, ad esempio _[!UICONTROL Created At]_&#x200B;o_[!UICONTROL Annual Revenue]_, seleziona le metriche dal menu a discesa **[!UICONTROL Units]** a destra.
+   >Se scegli un attributo con un valore numerico, ad esempio _[!UICONTROL Created At]_o_[!UICONTROL Annual Revenue]_, seleziona le metriche dal menu a discesa **[!UICONTROL Units]** a destra.
 
    Tutto qui. Fare clic sulla scheda **[!UICONTROL Report]** per raggruppare il report di conseguenza.
 

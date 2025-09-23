@@ -4,10 +4,10 @@ description: Aggiornare un elenco o un elenco avanzato - Documentazione di Marke
 title: Aggiornare un elenco o un elenco avanzato
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: e0106eddf3ed6ecd2d9d90147a56258f61958665
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 0%
+source-wordcount: '132'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Se hai eseguito un elenco avanzato e sono trascorsi alcuni minuti, ora i risulta
 
 ## Aggiorna risultati {#refresh-results}
 
-1. Per aggiornare i dati nella scheda **[!UICONTROL Persone]** di un elenco avanzato, fare clic sull&#39;icona di aggiornamento.
+1. Per aggiornare i dati nella scheda **[!UICONTROL People]** di un elenco avanzato, fare clic sull&#39;icona di aggiornamento.
 
    ![](assets/refresh-a-list-or-smart-list-1.png)
 

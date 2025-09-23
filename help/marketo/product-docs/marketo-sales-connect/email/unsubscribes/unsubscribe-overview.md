@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14746161
 description: Panoramica sull’annullamento dell’abbonamento - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica sull’annullamento dell’abbonamento
+title: Panoramica sull’annullamento dell’iscrizione
 exl-id: 3212d5be-07ea-47bd-874e-25d02513c23b
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Panoramica sull’annullamento dell’abbonamento {#unsubscribe-overview}
+# Panoramica sull’annullamento dell’iscrizione {#unsubscribe-overview}
 
 Sta diventando sempre più importante per le organizzazioni rispettare le leggi sulla privacy delle e-mail. Per aiutarci, abbiamo apportato alcuni miglioramenti alla nostra esperienza di annullamento dell’iscrizione.
 

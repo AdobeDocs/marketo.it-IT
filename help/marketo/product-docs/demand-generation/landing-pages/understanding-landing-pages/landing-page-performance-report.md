@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359713
 description: Rapporto sulle prestazioni della pagina di destinazione - Documenti Marketo - Documentazione del prodotto
-title: Rapporto sulle prestazioni della pagina di destinazione
+title: Rapporto delle prestazioni della pagina di destinazione
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '202'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Rapporto sulle prestazioni della pagina di destinazione {#landing-page-performance-report}
+# Rapporto delle prestazioni della pagina di destinazione {#landing-page-performance-report}
 
 Scopri quante persone hanno compilato i moduli nelle pagine di destinazione e quante erano nuove.
 

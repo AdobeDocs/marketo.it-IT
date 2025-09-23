@@ -4,10 +4,10 @@ description: Creazione di un analizzatore di percorsi di successo - Documentazio
 title: Creare un analizzatore del percorso di successo
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '161'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
@@ -55,7 +55,7 @@ Ora puoi esplorare il movimento da ogni fase a quella successiva!
 
 >[!TIP]
 >
->Vuoi salvare il tuo rapporto? Fare clic sul menu a discesa **[!UICONTROL Analyzer Actions]** e selezionare **[!UICONTROL Save As]**.
+>Vuoi salvare il tuo rapporto? Fai clic sul menu a discesa **[!UICONTROL Analyzer Actions]** e seleziona **[!UICONTROL Save As]**.
 
 >[!MORELIKETHIS]
 >

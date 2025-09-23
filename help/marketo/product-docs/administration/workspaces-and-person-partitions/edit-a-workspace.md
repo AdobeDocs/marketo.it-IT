@@ -1,17 +1,17 @@
 ---
 unique-page-id: 11380986
 description: Modifica di un documento Workspace - Marketo - Documentazione del prodotto
-title: Modificare un Workspace
+title: Modificare un’area di lavoro
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Modificare un Workspace {#edit-a-workspace}
+# Modificare un’area di lavoro {#edit-a-workspace}
 
 A volte è necessario apportare modifiche in un Workspace. È facile.
 
@@ -23,7 +23,7 @@ A volte è necessario apportare modifiche in un Workspace. È facile.
 >
 >Approfondisci le aree di lavoro con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/edit-a-workspace-1.png)
 

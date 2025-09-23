@@ -1,17 +1,17 @@
 ---
 unique-page-id: 3571886
 description: Utilizzo di Success Path Analyzer (Analisi del percorso di successo) - Documentazione di Marketo - Documentazione di prodotto
-title: Utilizzo di Success Path Analyzer
+title: Utilizzo dell'analizzatore del processo di successo
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '340'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Utilizzo di Success Path Analyzer {#using-the-success-path-analyzer}
+# Utilizzo dell&#39;analizzatore del processo di successo {#using-the-success-path-analyzer}
 
 Utilizzare un analizzatore del percorso di successo per esplorare i dettagli specifici che riflettono sia il flusso (quantità) che la velocità (velocità, in termini di giorni) delle persone attraverso le fasi del [modello di ciclo dei ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
 

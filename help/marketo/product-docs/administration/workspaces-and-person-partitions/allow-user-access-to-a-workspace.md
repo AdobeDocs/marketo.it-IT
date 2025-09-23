@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360325
 description: Consentire l’accesso degli utenti a una documentazione Workspace - Marketo - Documentazione del prodotto
-title: Consenti accesso utente a un Workspace
+title: Consentire l’accesso utente a un’area di lavoro
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 
-# Consenti accesso utente a un Workspace {#allow-user-access-to-a-workspace}
+# Consentire l’accesso utente a un’area di lavoro {#allow-user-access-to-a-workspace}
 
 Le aree di lavoro possono avere qualsiasi motivo (ad esempio, separazione geografica o di business unit). Separano le risorse (elenchi avanzati, programmi, ecc.) di ciascun team. Di seguito viene illustrato come concedere a un utente l’accesso a una o più aree di lavoro.
 
@@ -23,7 +23,7 @@ Le aree di lavoro possono avere qualsiasi motivo (ad esempio, separazione geogra
 >
 >Ulteriori informazioni sulle [aree di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/allow-user-access-to-a-workspace-1.png)
 

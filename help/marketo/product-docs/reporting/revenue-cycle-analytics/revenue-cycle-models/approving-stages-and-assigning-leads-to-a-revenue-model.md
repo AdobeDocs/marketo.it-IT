@@ -4,10 +4,10 @@ description: Approvazione degli stadi e assegnazione di lead a un modello di ric
 title: Approvazione di fasi e assegnazione di lead a un modello di ricavi
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '303'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ Rendi operativo il **modello di ricavi** aggiungendo lead esistenti e creando re
 
 Approviamo le fasi del modello prima di aggiungere qualsiasi lead.
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-28-17-3a8-3a8.png)
 

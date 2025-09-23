@@ -4,14 +4,14 @@ description: 'Dashboard SEO: istantanea SEO, documenti Marketo, documentazione d
 title: Informazioni sulla dashboard SEO - Snapshot SEO
 exl-id: 59ff940f-368c-4e71-9e1f-a6f959811841
 feature: SEO
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '237'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
-# Informazioni sulla dashboard SEO: istantanea SEO {#understanding-the-seo-dashboard-seo-snapshot}
+# Informazioni sulla dashboard SEO: SEO Snapshot {#understanding-the-seo-dashboard-seo-snapshot}
 
 Utilizza la dashboard per ottenere una visualizzazione di alto livello della tendenza del rango delle parole chiave e dell’ottimizzazione del sito per SEO (Search Engine Optimization).
 

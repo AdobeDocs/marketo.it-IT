@@ -4,10 +4,10 @@ description: Attivazione/disattivazione dinamica della visibilità di un campo m
 title: Attivazione/disattivazione dinamica della visibilità di un campo modulo
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '233'
-ht-degree: 2%
+ht-degree: 8%
 
 ---
 
@@ -69,6 +69,6 @@ Ed è tutto! Ora, quando gli utenti compilano questo modulo e selezionano Stati 
 
 >[!IMPORTANT]
 >
->Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >I campi condizionali potrebbero non funzionare come previsto se i valori dei campi vengono modificati da script esterni diversi dall’API JavaScript di Forms 2.0.

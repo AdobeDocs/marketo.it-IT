@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
 description: Rendere visibile una campagna agli utenti Sales Connect - Documenti Marketo - Documentazione del prodotto
-title: Rendi una campagna visibile agli utenti Sales Connect
+title: Rendere una campagna visibile agli utenti di Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '96'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 

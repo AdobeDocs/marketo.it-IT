@@ -4,7 +4,7 @@ description: Passaggio 3 di 3 - Connessione della soluzione Marketo con la conne
 title: Passaggio 3 di 3 - Connessione della soluzione Marketo con la connessione server-to-server
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 0%

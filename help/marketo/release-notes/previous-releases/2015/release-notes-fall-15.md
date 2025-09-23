@@ -4,10 +4,10 @@ description: Note sulla versione - Autunno 2015 - Documentazione di Marketo - Do
 title: Note sulla versione - Autunno 2015
 exl-id: b8a43086-a4d8-432d-89ac-14c75c6f0609
 feature: Release Information
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '966'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Le seguenti funzioni sono incluse nella versione di autunno del 1915. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition.
 
-## Iscrizione a un elenco avanzato {#subscribe-to-a-smart-list}
+## Abbonati a un elenco avanzato {#subscribe-to-a-smart-list}
 
-[Iscrizione a un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
+[Abbonati a un elenco avanzato](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-smart-list.md)
 
 Iscriviti a elenco avanzato consente agli addetti al marketing di esportare un elenco avanzato e inviarlo tramite e-mail alle parti interessate che non utilizzano Marketo, ad esempio i team di vendita o di telemarketing.
 
@@ -29,9 +29,9 @@ L’esportazione può essere programmata su base giornaliera, settimanale o mens
 
 ![](assets/image2015-10-1-17-3a11-3a50.png)
 
-## Oggetti personalizzati Marketo {#marketo-custom-objects}
+## Oggetti personalizzati di Marketo {#marketo-custom-objects}
 
-[Oggetti personalizzati Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
+[Oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md)
 
 Crea facilmente oggetti personalizzati dall’interfaccia utente di amministrazione. Attualmente è supportata la possibilità di creare un oggetto personalizzato 1:N in Marketo e di collegarlo a un lead o a un&#39;azienda.
 

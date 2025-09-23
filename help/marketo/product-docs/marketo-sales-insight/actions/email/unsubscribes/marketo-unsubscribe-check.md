@@ -1,12 +1,12 @@
 ---
 description: Verifica annullamento iscrizione Marketo - Documentazione Marketo - Documentazione del prodotto
-title: Verifica annullamento iscrizione Marketo
+title: Verificare l’annullamento dell’iscrizione Marketo
 exl-id: 3c242d04-cf6c-466b-9bcd-e77c6d97d308
 feature: Sales Insight Actions
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '128'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 
    ![](assets/marketo-unsubscribe-check-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Integrations]**. Nella sezione [!UICONTROL Marketo Unsubscribe Check], fare clic sul dispositivo di scorrimento per attivare il controllo.
+1. Fai clic sulla scheda **[!UICONTROL Integrations]**. Nella sezione [!UICONTROL Marketo Unsubscribe Check], fare clic sul dispositivo di scorrimento per attivare il controllo.
 
    ![](assets/marketo-unsubscribe-check-3.png)
 
-## Aspetti da considerare {#things-to-know}
+## Aspetti da comprendere {#things-to-know}
 
 Controllo per annullare l’abbonamento a Marketo...
 

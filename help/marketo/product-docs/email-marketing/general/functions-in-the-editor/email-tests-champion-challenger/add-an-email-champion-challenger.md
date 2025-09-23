@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359553
 description: Aggiungere un Email Champion/Challenger - Documentazione di Marketo - Documentazione del prodotto
-title: Aggiungi un Email Champion/Challenger
+title: Aggiungere un’e-mail campione/sfidante
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Aggiungi un Email Champion/Challenger {#add-an-email-champion-challenger}
+# Aggiungere un’e-mail campione/sfidante {#add-an-email-champion-challenger}
 
 È consigliabile verificare tutte le e-mail che utilizzi di frequente per assicurarti che funzionino. Un modo consiste nel confrontare l’efficacia di un’e-mail con altre versioni, o sfidanti. In un test campione/sfidante, puoi testare l’intera e-mail, l’oggetto o l’indirizzo del mittente.
 

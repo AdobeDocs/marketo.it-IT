@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359644
 description: Mostra HTML Form personalizzato per utenti noti - Documentazione di Marketo - Documentazione del prodotto
-title: Mostra HTML Form personalizzato per utenti noti
+title: Mostrare un modulo HTML personalizzato per utenti noti
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '234'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
-# Mostra HTML Form personalizzato per utenti noti {#show-custom-html-form-for-known-people}
+# Mostrare un modulo HTML personalizzato per utenti noti {#show-custom-html-form-for-known-people}
 
 Se in passato un visitatore ha fornito il suo nome completo e il suo indirizzo e-mail e non vuoi che riceva l’intero modulo, scopri come mostrare loro un HTML personalizzato (ad esempio, un pulsante per il download).
 

@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147021
 description: Modifica proprietario - Documentazione di Marketo - Documentazione del prodotto
-title: Cambia proprietario
+title: Modificare proprietario
 exl-id: b22c5cd8-1b53-4802-8b49-7f607c8a601b
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Cambia proprietario {#change-owner}
+# Modificare proprietario {#change-owner}
 
 Se esistono persone già assegnate a un proprietario, è possibile utilizzare questo passaggio di flusso per riassegnarle a un altro proprietario.
 

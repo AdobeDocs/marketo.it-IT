@@ -4,14 +4,14 @@ description: Note sulla versione -Dicembre 2014 - Documentazione Marketo - Docum
 title: Note sulla versione - Dicembre 2014
 exl-id: b4dd365d-a2a2-416e-a226-5515203a41f8
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '455'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: dicembre 2014 {#release-notes-december}
+# Note sulla versione - Dicembre 2014 {#release-notes-december}
 
 Le seguenti funzioni sono incluse nella versione di dicembre 2014. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
@@ -65,7 +65,7 @@ Tre nuove chiamate per l’API REST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] miglioramenti alla compatibilità {#munchkin-javascript-compatibility-enhancements}
 

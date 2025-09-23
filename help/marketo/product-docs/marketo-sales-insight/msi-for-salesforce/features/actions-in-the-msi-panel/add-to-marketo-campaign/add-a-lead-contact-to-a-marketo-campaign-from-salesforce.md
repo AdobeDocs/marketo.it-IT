@@ -1,18 +1,18 @@
 ---
 unique-page-id: 10099167
-description: Scegliere un'azione in Sales Insight - Documentazione di Marketo - Documentazione del prodotto
-title: Scegli un'azione in Sales Insight
+description: Scegliere un’azione nella documentazione di Insight per le vendite - Marketo
+title: Scegliere un’azione in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
-source-git-commit: 5812f447fbe22bee13060afae8408de7ca7384e5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Scegli un&#39;azione in Sales Insight {#choose-an-action-in-sales-insight}
+# Scegliere un’azione in Sales Insight {#choose-an-action-in-sales-insight}
 
-Le seguenti azioni sono disponibili dal menu a discesa Sales Insight in Salesforce Classic e Lightning:
+Le azioni seguenti sono disponibili dal menu a discesa Insight vendite in Salesforce Classic e Lightning:
 
 * Invia e-mail Marketo
 * Aggiungi a Marketo Campaign

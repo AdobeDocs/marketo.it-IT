@@ -4,10 +4,10 @@ description: Creazione di oggetti personalizzati Marketo - Documentazione di Mar
 title: Creare oggetti personalizzati di Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '616'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ Utilizza oggetti personalizzati in Marketo per tenere traccia delle metriche spe
 
 Questo esempio mostra un oggetto personalizzato Car, da utilizzare in una struttura uno-a-molti. In seguito, creerai un oggetto personalizzato del corso e un oggetto intermedio da utilizzare in una struttura molti-a-molti.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-1.png)
 
@@ -73,7 +73,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
 >
 >Per una relazione molti-a-molti, non è necessario creare un collegamento nell&#39;oggetto personalizzato. Al contrario, aggiungerai due collegamenti all’oggetto intermedio (vedi sotto).
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-7.png)
 
@@ -115,7 +115,7 @@ Utilizzare un oggetto intermediario per connettere un oggetto personalizzato a u
 >
 >Non è necessario creare un oggetto intermedio per una struttura oggetto personalizzata uno-a-molti.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/create-marketo-custom-objects-13.png)
 

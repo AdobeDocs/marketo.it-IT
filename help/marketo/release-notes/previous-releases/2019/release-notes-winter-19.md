@@ -3,14 +3,14 @@ unique-page-id: 17727823
 description: Note sulla versione -Inverno '19 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '19
 exl-id: 0cb3b3a1-472e-41d4-84f4-47f06e65017c
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: inverno 2019 {#release-notes-winter}
+# Note sulla versione - Inverno 2019 {#release-notes-winter}
 
 Le seguenti funzioni sono incluse nella versione di inverno 19. Verifica la disponibilità delle funzioni nella tua edizione di Marketo.
 
@@ -84,7 +84,7 @@ Includi fino a cinque indirizzi CC per destinatario nelle e-mail inviate tramite
 
 Personalizza le campagne ABM per utenti tipo specifici all’interno di account denominati. La funzione Persona ABM crea una qualifica professionale predefinita basata sulla segmentazione dei lead e consente di configurare segmentazioni utente aggiuntive.
 
-## Analytics {#analytics}
+## Analisi {#analytics}
 
 **[!DNL Bizible]**
 

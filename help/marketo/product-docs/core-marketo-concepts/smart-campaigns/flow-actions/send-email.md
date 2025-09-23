@@ -4,16 +4,16 @@ description: Inviare e-mail - Documentazione di Marketo - Documentazione del pro
 title: Invia e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 12f2399859c784095cc2c1df772c66c649106ba3
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '89'
+ht-degree: 4%
 
 ---
 
 # Invia e-mail {#send-email}
 
-Il passaggio di flusso &quot;[!UICONTROL Invia e-mail]&quot; può essere utilizzato come parte di campagne o come singolo passaggio di flusso per inviare e-mail alle persone.
+Il passaggio di flusso &quot;[!UICONTROL Send Email]&quot; può essere utilizzato come parte di campagne o come singolo passaggio di flusso per inviare e-mail alle tue persone.
 
 ![](assets/send-email-1.png)
 

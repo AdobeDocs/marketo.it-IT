@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719190
 description: Abilitare l’individuazione dei contenuti - Documentazione di Marketo - Documentazione del prodotto
-title: Abilita individuazione contenuto
+title: Abilitare individuazione dei contenuti
 exl-id: cb103a90-e4f8-4145-a477-e522d945df03
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '146'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Abilita individuazione contenuto {#enable-content-discovery}
+# Abilitare individuazione dei contenuti {#enable-content-discovery}
 
 La funzione Content Discovery rileva e assegna automaticamente i tag ai contenuti già esistenti (inclusi casi di studio, post di blog, video, comunicati stampa, ecc.) dal sito Web e tiene traccia del numero di visualizzazioni su tali materiali.  Il contenuto predittivo utilizza il contenuto scoperto, impiegando analisi predittive per determinare quale sia il contenuto con le prestazioni migliori e consiglia il contenuto migliore alla persona giusta.
 

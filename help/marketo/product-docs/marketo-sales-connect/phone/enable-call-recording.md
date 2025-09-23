@@ -1,17 +1,17 @@
 ---
 unique-page-id: 45416564
 description: Abilitare la registrazione delle chiamate - Documentazione Marketo - Documentazione del prodotto
-title: Abilita registrazione chiamate
+title: Abilitare la registrazione delle chiamate
 exl-id: 673eab47-7e5d-4a12-a4a1-8191b8de588a
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Abilita registrazione chiamate {#enable-call-recording}
+# Abilitare la registrazione delle chiamate {#enable-call-recording}
 
 In qualità di amministratore, puoi abilitare la registrazione delle chiamate per le chiamate [!DNL Sales Connect]. Registrare le chiamate del tuo team può essere un ottimo modo per istruire i rappresentanti commerciali sulle migliori pratiche di chiamata.
 

@@ -4,10 +4,10 @@ description: Annullare l’approvazione di un titolo per Contenuto predittivo - 
 title: Annullare l’approvazione di un titolo per contenuto predittivo
 exl-id: 63540339-fbed-436b-8cb3-abf2e181e010
 feature: Predictive Content
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
    ![](assets/image2017-10-3-9-3a18-3a38.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Content Actions]** e selezionare **[!UICONTROL Unapprove for Predictive Content]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Content Actions]** e seleziona **[!UICONTROL Unapprove for Predictive Content]**.
 
    ![](assets/image2017-10-3-9-3a19-3a20.png)
 

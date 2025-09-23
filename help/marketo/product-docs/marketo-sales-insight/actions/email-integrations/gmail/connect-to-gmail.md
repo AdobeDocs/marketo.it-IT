@@ -1,15 +1,15 @@
 ---
 description: Connettersi a Gmail - Documentazione di Marketo - Documentazione del prodotto
-title: Connetti a Gmail
+title: Connessione a Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: c16081143588ebc0793f5b6e2630b58348e27124
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# Connetti a Gmail {#connect-to-gmail}
+# Connessione a Gmail {#connect-to-gmail}
 
 La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, accedere al canale di consegna Gmail, pianificare le e-mail in Gmail e inviare i messaggi di conformità.
 
@@ -29,7 +29,7 @@ La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, a
 
    ![](assets/connect-to-gmail-3.png)
 
-1. Fai clic su **Inizia**.
+1. Fai clic su **Introduzione**.
 
    ![](assets/connect-to-gmail-4.png)
 
@@ -37,7 +37,7 @@ La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, a
 
    ![](assets/connect-to-gmail-5.png)
 
-1. Fare clic su **OK**.
+1. Fai clic su **OK**.
 
    ![](assets/connect-to-gmail-6.png)
 

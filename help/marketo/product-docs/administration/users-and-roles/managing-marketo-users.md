@@ -1,45 +1,45 @@
 ---
 unique-page-id: 2359906
 description: Gestione degli utenti di Marketo - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione degli utenti di Marketo
+title: Gestire gli utenti di Marketo
 exl-id: 40506d3c-a7cb-45fb-bc10-021bd0c70806
 feature: Users and Roles
-source-git-commit: ab4358ac1d3e1aa1d3733fa5191c5d59022bdf9f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 0%
+source-wordcount: '368'
+ht-degree: 7%
 
 ---
 
-# Gestione degli utenti di Marketo {#managing-marketo-users}
+# Gestire gli utenti di Marketo {#managing-marketo-users}
 
 >[!IMPORTANT]
 >
->Questo articolo è destinato solo a coloro che utilizzano _not_ [Marketo con identità di Adobe](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. In caso contrario, segui i passaggi descritti in [questo articolo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
+>Questo articolo è destinato solo a coloro che utilizzano _not_ [Marketo con Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}. In caso contrario, segui i passaggi descritti in [questo articolo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}.
 
 ## Crea utenti {#create-users}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-1.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-2.png)
 
-1. Fare clic su **[!UICONTROL Invita nuovo utente]**.
+1. Fai clic su **[!UICONTROL Invite New User]**.
 
    ![](assets/managing-marketo-users-3.png)
 
-1. Immetti **[!UICONTROL Email]**, **[!UICONTROL Nome]** e **[!UICONTROL Cognome]**.
+1. Immettere **[!UICONTROL Email]**, **[!UICONTROL First Name]** e **[!UICONTROL Last Name]**.
 
    ![](assets/managing-marketo-users-4.png)
 
-1. Se necessario, immettere un motivo per l&#39;invito e selezionare una data di scadenza nel campo **[!UICONTROL Scadenza accesso]** utilizzando il selettore data.
+1. Se necessario, immettere un motivo per l&#39;invito e selezionare una data di scadenza nel campo **[!UICONTROL Access Expires]** utilizzando il selettore data.
 
    ![](assets/managing-marketo-users-5.png)
 
-1. Fai clic su **[!UICONTROL Avanti]**.
+1. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-6.png)
 
@@ -51,7 +51,7 @@ ht-degree: 0%
    >
    >Quando arriva la data di scadenza, l’utente riceve una notifica di scadenza e il suo account è bloccato.
 
-1. Seleziona il **[!UICONTROL Ruolo]** desiderato e fai clic su **[!UICONTROL Successivo]**.
+1. Selezionare **[!UICONTROL Role]** e fare clic su **[!UICONTROL Next]**.
 
    ![](assets/managing-marketo-users-7.png)
 
@@ -75,17 +75,17 @@ Il nuovo utente è ora elencato nella scheda Utenti e riceverà un’e-mail con 
 
 >[!NOTE]
 >
->Se l&#39;utente che si desidera eliminare è anche un utente del Dynamic Chat, è necessario [rimuoverlo dal Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} nell&#39;Admin Console prima di eliminarlo nel Marketo Engage.
+>Se l&#39;utente che si desidera eliminare è anche un utente di Dynamic Chat, è necessario [rimuoverlo da Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/add-or-remove-chat-users.md#remove-a-chat-user){target="_blank"} in Admin Console prima di eliminarlo in Marketo Engage.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-10.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-11.png)
 
-1. Selezionare l&#39;utente da rimuovere e fare clic su **[!UICONTROL Elimina utente]**.
+1. Selezionare l&#39;utente da rimuovere e fare clic su **[!UICONTROL Delete User]**.
 
    ![](assets/managing-marketo-users-12.png)
 
@@ -95,19 +95,19 @@ Il nuovo utente è ora elencato nella scheda Utenti e riceverà un’e-mail con 
 
 ## Reimposta password utente {#reset-user-passwords}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-14.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-15.png)
 
-1. Selezionare un utente e fare clic su **[!UICONTROL Reimposta password]**.
+1. Selezionare un utente e fare clic su **[!UICONTROL Reset Password]**.
 
    ![](assets/managing-marketo-users-16.png)
 
-1. Fai clic su **[!UICONTROL Chiudi]** per chiudere la richiesta.
+1. Fare clic su **[!UICONTROL Close]** per ignorare il prompt.
 
    ![](assets/managing-marketo-users-17.png)
 
@@ -119,19 +119,19 @@ L’utente riceverà un’e-mail con le istruzioni per la reimpostazione della p
 
 ## Modificare le autorizzazioni e modificare le informazioni utente {#change-permissions-and-edit-user-information}
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/managing-marketo-users-18.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**.
+1. Fai clic su **[!UICONTROL Users & Roles]**.
 
    ![](assets/managing-marketo-users-19.png)
 
-1. Selezionare un utente e fare clic su **[!UICONTROL Modifica utente]**.
+1. Selezionare un utente e fare clic su **[!UICONTROL Edit User]**.
 
    ![](assets/managing-marketo-users-20.png)
 
-1. Puoi modificare le informazioni utente e il ruolo associato. Fai clic su **[!UICONTROL Salva]**.
+1. Puoi modificare le informazioni utente e il ruolo associato. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/managing-marketo-users-21.png)
 

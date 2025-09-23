@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2359488
 description: Raggruppare i rapporti e-mail per segmentazioni - Documenti Marketo - Documentazione del prodotto
-title: Raggruppa rapporti e-mail per segmentazioni
+title: Raggruppare rapporti e-mail per segmentazioni
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '103'
-ht-degree: 2%
+ht-degree: 15%
 
 ---
 
-# Raggruppa rapporti e-mail per segmentazioni {#group-email-reports-by-segmentations}
+# Raggruppare rapporti e-mail per segmentazioni {#group-email-reports-by-segmentations}
 
 Le segmentazioni non sono solo per il contenuto dinamico. Puoi anche raggruppare il rapporto sulle prestazioni delle e-mail per segmentazioni.
 
@@ -35,7 +35,7 @@ Le segmentazioni non sono solo per il contenuto dinamico. Puoi anche raggruppare
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Tutto qui. Fare clic sulla scheda **[!UICONTROL Report]**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
+1. Tutto qui. Fai clic sulla scheda **[!UICONTROL Report]**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

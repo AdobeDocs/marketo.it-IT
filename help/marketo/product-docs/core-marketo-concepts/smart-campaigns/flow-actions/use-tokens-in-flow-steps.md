@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1146995
 description: Utilizzare i token nei passaggi del flusso - Documentazione di Marketo - Documentazione del prodotto
-title: Utilizzare i token nei passaggi del flusso
+title: Utilizzare i token nei passaggi di flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '193'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
-# Utilizzare i token nei passaggi del flusso {#use-tokens-in-flow-steps}
+# Utilizzare i token nei passaggi di flusso {#use-tokens-in-flow-steps}
 
 >[!PREREQUISITES]
 >
@@ -20,10 +20,10 @@ ht-degree: 2%
 Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destinazione e nelle campagne intelligenti per semplificare il lavoro. Puoi utilizzare [I miei token](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md){target="_blank"} (token personalizzati) nei passaggi del flusso, nei webhook, nelle e-mail e nelle pagine di destinazione. Puoi utilizzare i token per includere il contenuto delle variabili nei seguenti passaggi del flusso:
 
 * Modifica valore dati
-* Modifica dati membro programma
+* Modificare i dati membro del programma
 * Momento interessante
 * [!DNL Salesforce] passaggi della campagna (aggiungere, rimuovere, modificare lo stato)
-* Crea attività
+* Creare attività
 * Invia avviso (solo in Campagne con trigger)
 
 1. Nel passaggio del flusso, inizia a digitare `{{` per ottenere le categorie di token.

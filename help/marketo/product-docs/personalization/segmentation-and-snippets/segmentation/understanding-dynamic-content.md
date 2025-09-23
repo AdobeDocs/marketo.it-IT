@@ -4,10 +4,10 @@ description: Informazioni su Dynamic Content - Documenti Marketo - Documentazion
 title: Informazioni sui contenuti dinamici
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '223'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
@@ -46,7 +46,7 @@ Dopo aver creato segmenti diversi, puoi aggiungere blocchi di contenuto dinamici
 >**Esempio**
 >
 >* È possibile utilizzare uno snippet come firma in un messaggio e-mail. Modifica dinamica del testo a seconda della posizione del destinatario.
->* Sulle pagine di destinazione, dispone di un’area di invito all’azione standard con collegamenti diversi per i clienti potenziali e potenziali. Aggiorna centinaia di LP a livello centrale.
+>* Sulle pagine di destinazione, utilizza un’area call-to-action standard con collegamenti diversi per i clienti attuali e potenziali. Aggiorna centinaia di LP a livello centrale.
 
 Provatelo e raccontateci la vostra storia di successo!
 

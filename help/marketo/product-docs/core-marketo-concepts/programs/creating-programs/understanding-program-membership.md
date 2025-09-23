@@ -4,10 +4,10 @@ description: Iscrizione al programma - Documentazione Marketo - Documentazione d
 title: Informazioni sull’iscrizione al programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 93d6e498ee69a1a9fdee7956ac351764cf18a87a
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '266'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 

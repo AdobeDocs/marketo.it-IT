@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949162
 description: Abilitare/Disabilitare gli abbonamenti ai rapporti - Documentazione di Marketo - Documentazione del prodotto
-title: Abilita/Disabilita sottoscrizioni report
+title: Abilitare/Disabilitare le sottoscrizioni report
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 4%
+ht-degree: 17%
 
 ---
 
-# Abilita/Disabilita sottoscrizioni report {#enable-disable-report-subscriptions}
+# Abilitare/Disabilitare le sottoscrizioni report {#enable-disable-report-subscriptions}
 
 [!UICONTROL Web Personalization] ha diversi report utili che vengono inviati tramite e-mail. Ecco come abbonarsi a loro.
 

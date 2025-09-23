@@ -1,16 +1,16 @@
 ---
 description: Azioni di vendita Insight e conformità ai requisiti RGPD - Documenti Marketo - Documentazione del prodotto
-title: Azioni di vendita Insight e conformità ai requisiti RGPD
+title: Azioni di Sales Insight e conformità al GDPR
 exl-id: 1ede23b5-97ff-465a-95b7-a3262cd25bb8
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '1307'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Azioni di vendita Insight e conformità ai requisiti RGPD {#sales-insight-actions-and-gdpr-compliance}
+# Azioni di Sales Insight e conformità al GDPR {#sales-insight-actions-and-gdpr-compliance}
 
 Il Regolamento generale sulla protezione dei dati (RGPD) è la normativa dell’Unione Europea entrata in vigore il 25 maggio 2018.
 
@@ -175,7 +175,7 @@ Per esportare le informazioni sul contatto, fare clic sui tre punti verticali ne
 >
 >Il RGPD richiede anche la possibilità di eliminare i contatti dall&#39;interfaccia utente, ma [!DNL Sales Insight Actions] dispone già di questa funzionalità.
 
-## Annulla iscrizione {#unsubscribes}
+## Iscrizioni annullate {#unsubscribes}
 
 Un’area comunemente fraintesa del RGPD riguarda i contatti che annullano l’abbonamento al database dell’organizzazione. Per rispettare le nuove regole sulla protezione dei dati di coloro che scelgono di annullare l&#39;abbonamento, in [!DNL Sales Insight Actions] è stata inclusa la seguente funzionalità:
 

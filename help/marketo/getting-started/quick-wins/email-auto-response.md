@@ -4,8 +4,8 @@ description: Risposta automatica e-mail - Documentazione di Marketo - Documentaz
 title: Risposta automatica e-mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
-workflow-type: ht
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+workflow-type: tm+mt
 source-wordcount: '340'
 ht-degree: 100%
 

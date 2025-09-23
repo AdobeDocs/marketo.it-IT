@@ -4,14 +4,14 @@ description: Note sulla versione - Primavera del 1916 - Documentazione di Market
 title: Note sulla versione - Primavera 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
 
 ---
 
-# Note sulla versione: Primavera del &#39;16 {#release-notes-spring}
+# Note sulla versione - Primavera 2016 {#release-notes-spring}
 
 Le seguenti funzioni sono incluse nella versione di primavera del 1916. Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione.
 
@@ -57,7 +57,7 @@ Sono finiti i giorni in cui devi riapprovare tutto ogni volta che uno snippet vi
 
 Le API REST di Marketo ora supportano il controllo sulle pagine di destinazione, i modelli di pagina di destinazione e i moduli di Marketo. Gli utenti possono ora creare, aggiornare il contenuto, approvare ed eliminare queste risorse direttamente tramite l’API REST di Marketo.
 
-## [inserire nell&#39;elenco Consentiti IP in attesa dell&#39;accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## inserire nell&#39;elenco Consentiti [IP in attesa dell&#39;accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
 Analogamente alla funzione di inserire nell&#39;elenco Consentiti dell’IP per gli accessi degli utenti Marketo, ora gli amministratori di Marketo possono impostare un elenco Consentiti di indirizzi IP in grado di accedere alle API Marketo SOAP e REST, bloccando in tal modo l’accesso da indirizzi IP non autorizzati. Questo offre un ulteriore livello di sicurezza all’istanza Marketo e garantisce che l’accesso API sia possibile solo dall’interno della rete dell’organizzazione. I dettagli sulla configurazione sono disponibili nel [sito della documentazione di Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 

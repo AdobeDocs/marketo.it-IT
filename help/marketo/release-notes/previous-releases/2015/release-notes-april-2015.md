@@ -4,14 +4,14 @@ description: Note sulla versione -Aprile 2015 - Documentazione Marketo - Documen
 title: Note sulla versione - Aprile 2015
 exl-id: 754e3abf-d5e7-447f-a032-6ed66723f837
 feature: Release Information
-source-git-commit: ecd225af3ecfd7cb9159faf5a9d384d47ee6312c
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '310'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
-# Note sulla versione: aprile 2015 {#release-notes-april}
+# Note sulla versione - Aprile 2015 {#release-notes-april}
 
 Le seguenti funzioni sono incluse nella versione di aprile 2015. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 

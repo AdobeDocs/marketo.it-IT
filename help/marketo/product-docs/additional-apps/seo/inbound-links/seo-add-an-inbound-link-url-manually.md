@@ -1,29 +1,29 @@
 ---
 unique-page-id: 2949247
 description: 'SEO: aggiungere manualmente un URL di collegamento in entrata - Documentazione di Marketo - Documentazione del prodotto'
-title: 'SEO: aggiunta manuale di un URL di collegamento in entrata'
+title: 'SEO: aggiungere un URL di collegamento in entrata manualmente'
 exl-id: 55a74540-4c18-429f-9c9b-76dbbcde0c35
 feature: SEO
-source-git-commit: 431bd258f9a68bbb9df7acf043085578d3d91b1f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 19%
 
 ---
 
-# SEO: aggiunta manuale di un URL di collegamento in entrata {#seo-add-an-inbound-link-url-manually}
+# SEO: aggiungere un URL di collegamento in entrata manualmente {#seo-add-an-inbound-link-url-manually}
 
 Puoi aggiungere manualmente i collegamenti in entrata. Ecco come:
 
-1. Vai alla sezione **[!UICONTROL Collegamenti in entrata]**.
+1. Passare alla sezione **[!UICONTROL Inbound Links]**.
 
    ![](assets/image2014-9-18-13-3a40-3a3.png)
 
-1. Fare clic su **[!UICONTROL Aggiungi URL]**.
+1. Fai clic su **[!UICONTROL Add URLs]**.
 
    ![](assets/image2014-9-18-13-3a40-3a8.png)
 
-1. Digita l’URL. Fare clic su **[!UICONTROL Aggiungi]**.
+1. Digita l’URL. Fai clic su **[!UICONTROL Add]**.
 
    ![](assets/image2014-9-18-13-3a40-3a32.png)
 

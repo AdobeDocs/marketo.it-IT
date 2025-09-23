@@ -1,17 +1,17 @@
 ---
 unique-page-id: 1147031
 description: Elimina persona da SFDC - Documentazione Marketo - Documentazione del prodotto
-title: Elimina persona da SFDC
+title: Eliminare persona da SFDC
 exl-id: 8245de35-f374-4241-946e-b4c4b87cc85e
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# Elimina persona da SFDC {#delete-person-from-sfdc}
+# Eliminare persona da SFDC {#delete-person-from-sfdc}
 
 Se è necessario rimuovere un set specifico di lead da Salesforce, ma lasciarli come persone in Marketo Engage, è possibile utilizzare l&#39;azione di flusso Elimina persona da SFDC.
 

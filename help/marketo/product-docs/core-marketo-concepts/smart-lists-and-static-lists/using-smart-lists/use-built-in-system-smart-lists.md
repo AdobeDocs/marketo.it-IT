@@ -1,29 +1,29 @@
 ---
 unique-page-id: 557275
 description: Utilizzare elenchi avanzati incorporati/di sistema - Documentazione di Marketo - Documentazione del prodotto
-title: Usa elenchi avanzati incorporati/di sistema
+title: Utilizzare elenchi avanzati di sistema/incorporati
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: d087b22e84c23fea5e38fe7bf20349dc7eec09f7
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 1%
+source-wordcount: '188'
+ht-degree: 7%
 
 ---
 
-# Usa elenchi avanzati incorporati/di sistema {#use-built-in-system-smart-lists}
+# Utilizzare elenchi avanzati di sistema/incorporati {#use-built-in-system-smart-lists}
 
-Il Marketo Engage dispone di alcuni elenchi avanzati incorporati molto utili. Vediamo di cosa si tratta!
+Marketo Engage dispone di alcuni elenchi avanzati incorporati molto utili. Vediamo di cosa si tratta!
 
-1. Vai al **[!UICONTROL database]**.
+1. Passare a **[!UICONTROL Database]**.
 
    ![](assets/use-built-in-system-smart-lists-1.png)
 
-1. Aprire la cartella **[!UICONTROL Elenchi smart di sistema]** per visualizzare la raccolta.
+1. Aprire la cartella **[!UICONTROL System Smart Lists]** per visualizzare la raccolta.
 
    ![](assets/use-built-in-system-smart-lists-2.png)
 
-1. Per visualizzare un esempio: Seleziona **[!UICONTROL Tutte le persone]**, quindi fai clic sulla scheda **[!UICONTROL Persone]**.
+1. Per visualizzare un esempio: selezionare **[!UICONTROL All People]**, quindi fare clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/use-built-in-system-smart-lists-3.png)
 
@@ -52,7 +52,7 @@ Di seguito è riportato un riepilogo delle operazioni eseguite dagli elenchi ava
     <td>A queste persone possono essere inviate solo e-mail operative, che in genere sono controllate da te, l’addetto al marketing.</td>
   </tr>
   <tr>
-    <td>INSERISCO NELL'ELENCO BLOCCATI DI</td>
+    <td>Elenco Bloccati</td>
     <td>Queste persone non riceveranno alcuna e-mail.</td>
   </tr>
   <tr>

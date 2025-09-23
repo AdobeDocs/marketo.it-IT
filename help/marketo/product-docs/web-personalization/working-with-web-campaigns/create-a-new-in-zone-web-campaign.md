@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4719400
 description: Creazione di una nuova campagna web nell’area - Documentazione di Marketo - Documentazione del prodotto
-title: Crea una nuova campagna web nell’area
+title: Creare una nuova campagna web in un’area
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '673'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# Crea una nuova campagna web nell’area {#create-a-new-in-zone-web-campaign}
+# Creare una nuova campagna web in un’area {#create-a-new-in-zone-web-campaign}
 
 Una campagna Web è una reazione personalizzata associata a un segmento specifico e può essere una [finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sul sito Web, una sostituzione di zona, una [funzione widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) o un avviso e-mail. Una campagna web In Zone sostituisce un elemento del sito web basato sull’ID zona con contenuti o banner grafici.
 

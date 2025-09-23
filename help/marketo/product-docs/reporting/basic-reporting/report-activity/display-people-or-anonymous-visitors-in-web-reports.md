@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360008
 description: Visualizzare persone o visitatori anonimi in rapporti web - Documenti Marketo - Documentazione del prodotto
-title: Visualizzare persone o visitatori anonimi nei report web
+title: Visualizzare persone o visitatori anonimi nei rapporti web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '142'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Visualizzare persone o visitatori anonimi nei report web {#display-people-or-anonymous-visitors-in-web-reports}
+# Visualizzare persone o visitatori anonimi nei rapporti web {#display-people-or-anonymous-visitors-in-web-reports}
 
 >[!PREREQUISITES]
 >

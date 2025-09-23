@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2360276
 description: Nascondere/mostrare un canale di programma - Documentazione di Marketo - Documentazione del prodotto
-title: Nascondere/mostrare un canale programma
+title: Nascondere/mostrare un canale del programma
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '95'
-ht-degree: 1%
+ht-degree: 15%
 
 ---
 
-# Nascondere/mostrare un canale programma {#hide-unhide-a-program-channel}
+# Nascondere/mostrare un canale del programma {#hide-unhide-a-program-channel}
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 ## Nascondere un canale programma {#hide-a-program-channel}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/hide-unhide-a-program-channel-1.png)
 

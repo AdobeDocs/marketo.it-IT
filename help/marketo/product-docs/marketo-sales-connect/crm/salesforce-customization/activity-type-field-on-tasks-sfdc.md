@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352476
 description: Campo Tipo di attività sulle attività (SFDC) - Documentazione di Marketo - Documentazione del prodotto
-title: Campo Tipo di attività sulle attività (SFDC)
+title: Campo Tipo di attività su Attività (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '245'
-ht-degree: 2%
+ht-degree: 7%
 
 ---
 
-# Campo Tipo di attività sulle attività (SFDC) {#activity-type-field-on-tasks-sfdc}
+# Campo Tipo di attività su Attività (SFDC) {#activity-type-field-on-tasks-sfdc}
 
 Con l&#39;aiuto di [!DNL Sales Connect] puoi registrare le tue e-mail e chiamate come attività in [!DNL Salesforce]. Una parte fondamentale per avere dati importanti in [!DNL Salesforce] è che il campo [!UICONTROL Type] popola il valore corretto.
 

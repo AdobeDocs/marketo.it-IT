@@ -4,10 +4,10 @@ description: Interrompere una campagna avanzata - Documentazione Marketo - Docum
 title: Interrompere una campagna avanzata
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
@@ -19,15 +19,15 @@ ht-degree: 0%
 
 A volte avvii una campagna avanzata e capisci subito che si è trattato di un errore. Ecco come tirare il freno di emergenza e fermare la campagna Smart a metà corsa.
 
-1. Scegli la campagna avanzata desiderata e fai clic sulla scheda **[!UICONTROL Pianifica]**.
+1. Scegliere la campagna avanzata desiderata e fare clic sulla scheda **[!UICONTROL Schedule]**.
 
    ![](assets/abort-a-smart-campaign-1.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Azioni campagna]**. Seleziona **[!UICONTROL Interrompi campagna]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Campaign Actions]**. Seleziona **[!UICONTROL Abort Campaign]**.
 
    ![](assets/abort-a-smart-campaign-2.png)
 
-1. Fai clic su **[!UICONTROL Interrompi]** per confermare.
+1. Fai clic su **[!UICONTROL Abort]** per confermare.
 
    ![](assets/abort-a-smart-campaign-3.png)
 
@@ -39,7 +39,7 @@ A volte avvii una campagna avanzata e capisci subito che si è trattato di un er
 
    >[!NOTE]
    >
-   >Dai un&#39;occhiata alla scheda **[!UICONTROL Risultati]** di Smart Campaign per vedere quali azioni sono state eseguite prima dell&#39;interruzione. Troverai anche una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} con ulteriori dettagli.
+   >Osserva la scheda **[!UICONTROL Results]** di Smart Campaign per vedere quali azioni sono state eseguite prima dell’interruzione. Troverai anche una [notifica](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md){target="_blank"} con ulteriori dettagli.
 
    >[!TIP]
    >

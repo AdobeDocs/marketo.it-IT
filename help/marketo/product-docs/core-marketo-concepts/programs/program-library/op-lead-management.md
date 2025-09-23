@@ -1,16 +1,16 @@
 ---
 description: Gestione dei lead operativi - Documentazione di Marketo - Documentazione del prodotto
-title: Gestione OP-Lead
+title: OP-Gestione lead
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '265'
-ht-degree: 4%
+ht-degree: 7%
 
 ---
 
-# Gestione OP-Lead {#op-lead-management}
+# OP-Gestione lead {#op-lead-management}
 
 Questo è un esempio di flussi di lavoro basati sulle best practice per la gestione dei lead, che utilizzano un programma predefinito di Marketo Engage, per aiutarti a gestire i record all’interno del database Marketo Engage al tuo CRM.
 
@@ -60,7 +60,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   </tr>
   <tr>
    <td>E-mail</td>
-   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello e-mail di avvio rapido</a></td>
+   <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/quick-start-email-template.md" target="_blank">Modello di e-mail per avvio rapido</a></td>
    <td>01 - E-mail - AVVISO - MQL</td>
   </tr>
   <tr>

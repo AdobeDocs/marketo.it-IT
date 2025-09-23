@@ -1,21 +1,21 @@
 ---
 unique-page-id: 2359991
 description: Gestire gli abbonamenti ai rapporti - Documentazione di Marketo - Documentazione del prodotto
-title: Gestire le sottoscrizioni ai report
+title: Gestire gli abbonamenti ai rapporti
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 1%
+ht-degree: 6%
 
 ---
 
-# Gestire le sottoscrizioni ai report {#manage-report-subscriptions}
+# Gestire gli abbonamenti ai rapporti {#manage-report-subscriptions}
 
 Configurare ed eliminare sottoscrizioni ai rapporti.
 
-1. Passare all&#39;area **[!UICONTROL Analytics]**.
+1. Passa alla schermata **[!UICONTROL Analytics]**.
 
    ![](assets/image2014-9-16-10-3a35-3a25.png)
 

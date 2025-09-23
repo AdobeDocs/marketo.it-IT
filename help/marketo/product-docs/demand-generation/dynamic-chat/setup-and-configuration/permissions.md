@@ -3,7 +3,7 @@ description: Autorizzazioni - Documentazione di Marketo - Documentazione del pro
 title: Autorizzazioni
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 38e1e2d8c2fef7163f77d7774837571008075b5f
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '712'
 ht-degree: 4%
@@ -12,7 +12,7 @@ ht-degree: 4%
 
 # Autorizzazioni {#permissions}
 
-Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che è possibile modificare in Dynamic Chat. Puoi anche creare un profilo personalizzato con un set personalizzato di autorizzazioni. Passiamo ad entrambi.
+In Dynamic Chat sono disponibili cinque profili predefiniti con autorizzazioni predefinite. Puoi anche creare un profilo personalizzato con un set personalizzato di autorizzazioni. Passiamo ad entrambi.
 
 ## Modifica autorizzazioni esistenti {#edit-existing-permissions}
 
@@ -44,7 +44,7 @@ Sono disponibili cinque profili predefiniti con autorizzazioni predefinite che �
 
    ![](assets/permissions-6.png)
 
-È ora possibile ripetere questa procedura per tutte le altre aree del Dynamic Chat.
+È ora possibile ripetere questa procedura per tutte le altre aree di Dynamic Chat.
 
 ![](assets/permissions-7.png)
 
@@ -84,10 +84,10 @@ Di seguito è riportato un elenco di tutte le autorizzazioni disponibili per ogn
     <td>Gestione conversazioni</td>
     <td><li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
-    <li>Finestre di dialogo Publish</li>
+    <li>Finestre di dialogo di pubblicazione</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
-    <li>Flussi conversazionali Publish</li></td>
+    <li>Pubblica flussi conversazionali</li></td>
   </tr>
   <tr>
     <td>Chat live</td>
@@ -99,7 +99,7 @@ Di seguito è riportato un elenco di tutte le autorizzazioni disponibili per ogn
     <td><li>Gestisci tutte le riunioni</li>
   </tr>
   <tr>
-    <td>Analytics</td>
+    <td>Analisi</td>
     <td><li>Visualizza i Report Prestazioni Globali</li>
     <li>Visualizzare i rapporti di chat in diretta</li>
     <li>Visualizza report riunioni</li>
@@ -150,10 +150,10 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <td><i>Gestione conversazioni</i>
     <li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
-    <li>Finestre di dialogo Publish</li>
+    <li>Finestre di dialogo di pubblicazione</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
-    <li>Flussi conversazionali Publish</li>
+    <li>Pubblica flussi conversazionali</li>
     <br>
     <i>Chat in tempo reale</i>
     <li>n/d</li>
@@ -238,10 +238,10 @@ Di seguito sono riportati i cinque profili predefiniti e le autorizzazioni abili
     <td><i>Gestione conversazioni</i>
     <li>Visualizza finestre di dialogo</li>
     <li>Gestisci finestre di dialogo (crea, elimina)</li>
-    <li>Finestre di dialogo Publish</li>
+    <li>Finestre di dialogo di pubblicazione</li>
     <li>Visualizza flussi conversazionali</li>
     <li>Gestisci flussi conversazionali (crea, elimina)</li>
-    <li>Flussi conversazionali Publish</li>
+    <li>Pubblica flussi conversazionali</li>
     <br>
     <i>Chat in tempo reale</i>
     <li>n/d</li>

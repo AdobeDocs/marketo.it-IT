@@ -3,10 +3,10 @@ description: Inviare un messaggio SMS - Documentazione di Marketo - Documentazio
 title: Inviare un messaggio SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: dae00c6877e638ae60305122f3f3e17b3c922e10
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '321'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -32,7 +32,7 @@ Hai [creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-
 
    ![](assets/send-an-sms-message-2.png)
 
-1. Fai clic sulla scheda **Elenco avanzato** e definisci il pubblico per l&#39;SMS. In questo esempio invieremo a tutti gli utenti del nostro Database la cui azienda è indicata come &quot;Adobe&quot;.
+1. Fai clic sulla scheda **Elenco avanzato** e definisci il pubblico per l&#39;SMS. In questo esempio, invieremo a tutti nel nostro database che hanno &quot;Adobe&quot; elencato come società.
 
    ![](assets/send-an-sms-message-3.png)
 

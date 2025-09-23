@@ -1,17 +1,17 @@
 ---
 unique-page-id: 15368208
 description: Come installare personalizzazioni nel Salesforce Sandbox - Documentazione di Marketo - Documentazione del prodotto
-title: Come installare personalizzazioni nella sandbox di Salesforce
+title: Come installare personalizzazioni nella sandbox Salesforce
 exl-id: a3996a86-2a95-456c-96c2-b91b08fb9bc8
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '68'
-ht-degree: 1%
+ht-degree: 25%
 
 ---
 
-# Come installare personalizzazioni nella sandbox di Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox}
+# Come installare personalizzazioni nella sandbox Salesforce {#how-to-install-customizations-in-your-salesforce-sandbox}
 
 >[!NOTE]
 >

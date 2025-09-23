@@ -4,10 +4,10 @@ description: Spostare una campagna avanzata - Documentazione Marketo - Documenta
 title: Spostare una campagna avanzata
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: fec5219c599c805328d77797d2636e549e489ca5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 6%
 
 ---
 
@@ -19,15 +19,15 @@ Spostare una campagna avanzata tra programmi o cartelle diversi utilizzando il t
 >
 >Poiché le regole non verranno modificate, se l&#39;elenco avanzato o i passaggi del flusso della campagna fanno riferimento al programma originale, è necessario aggiornare manualmente tali informazioni per riflettere il nuovo programma, in quanto _non_ verrà aggiornato automaticamente.
 
-1. Vai a **[!UICONTROL Attività di marketing]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-a-smart-campaign-1.png)
 
-1. Individua la campagna avanzata da spostare, fai clic con il pulsante destro del mouse su di essa e seleziona **[!UICONTROL Sposta]**.
+1. Individuare la campagna avanzata da spostare, fare clic con il pulsante destro del mouse su di essa e selezionare **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-2.png)
 
-1. Selezionare **[!UICONTROL A]** (destinazione), **[!UICONTROL Programma]** e **[!UICONTROL Cartella]** facoltativa. Seleziona **[!UICONTROL Sposta]**.
+1. Selezionare **[!UICONTROL To]** (destinazione), **[!UICONTROL Program]** e **[!UICONTROL Folder]** facoltativo. Seleziona **[!UICONTROL Move]**.
 
    ![](assets/move-a-smart-campaign-3.png)
 

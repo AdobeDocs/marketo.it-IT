@@ -4,10 +4,10 @@ description: Importa [!UICONTROL Named Accounts] - Documentazione Marketo - Docu
 title: Importa [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '440'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Hai già un file CSV pieno di potenziali account di destinazione? Importateli direttamente in TAM!
 
-1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL Import Named Accounts]**.
+1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL Import Named Accounts]**.
 
    ![](assets/inaone.png)
 
@@ -27,7 +27,7 @@ Hai già un file CSV pieno di potenziali account di destinazione? Importateli di
    >
    >Nel file, fornisci [quante più informazioni possibile](/help/marketo/product-docs/target-account-management/target/named-accounts/named-account-overview.md#named-account-attributes). È possibile aggiungere solo informazioni firmografiche; nulla viene calcolato da Marketo (ad esempio, pipeline). Per creare account denominati basati su account CRM, è sufficiente esportare il nome account e l’ID CRM dal CRM in un file CSV, utilizzare l’opzione Nome account e mappare l’ID CRM durante il processo di importazione. Per collegare correttamente un account CRM a un account denominato, è necessario fornire il nome esatto dell&#39;account CRM.
 
-1. È possibile scegliere tra due modalità di deduplicazione: Nome account o Nome dominio. In questo esempio sceglieremo Account. Fare clic sul menu a discesa **[!UICONTROL Modes]** e selezionare **[!UICONTROL By Account Name]**.
+1. È possibile scegliere tra due modalità di deduplicazione: Nome account o Nome dominio. In questo esempio sceglieremo Account. Fai clic sul menu a discesa **[!UICONTROL Modes]** e seleziona **[!UICONTROL By Account Name]**.
 
    ![](assets/inathree.png)
 

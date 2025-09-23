@@ -4,16 +4,16 @@ description: Modificare il dominio di branding predefinito con le aree di lavoro
 title: Modificare il dominio di branding predefinito con le aree di lavoro
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 1%
+ht-degree: 13%
 
 ---
 
 # Modificare il dominio di branding predefinito con le aree di lavoro {#edit-your-default-branding-domain-with-workspaces}
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/edit-your-default-branding-domain-with-workspaces-1.png)
 

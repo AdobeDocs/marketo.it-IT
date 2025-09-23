@@ -4,10 +4,10 @@ description: Utilizzare la sincronizzazione rapida con Microsoft Dynamics per un
 title: Utilizzare la sincronizzazione rapida con Microsoft Dynamics per un nuovo campo personalizzato
 exl-id: c98f1443-c0dd-40e1-919b-f8110088b38a
 feature: Microsoft Dynamics
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '336'
-ht-degree: 1%
+ht-degree: 5%
 
 ---
 

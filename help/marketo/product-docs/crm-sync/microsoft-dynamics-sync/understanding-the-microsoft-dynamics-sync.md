@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098625
 description: Informazioni su  [!DNL Microsoft Dynamics] Sync - Marketo Docs - Documentazione del prodotto
-title: Informazioni su Microsoft Dynamics Sync
+title: Informazioni sulla sincronizzazione con Microsoft Dynamics
 exl-id: bc87f744-7f1c-421b-8507-1a6e23d27fa2
 feature: Microsoft Dynamics
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 1%
+ht-degree: 3%
 
 ---
 

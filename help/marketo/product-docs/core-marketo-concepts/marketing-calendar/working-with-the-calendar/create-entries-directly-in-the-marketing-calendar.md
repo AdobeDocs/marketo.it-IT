@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953348
 description: Creare voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
-title: Creare voci direttamente nel calendario di marketing
+title: Creare le voci direttamente nel calendario marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '118'
+ht-degree: 15%
 
 ---
 
-# Creare voci direttamente nel calendario di marketing {#create-entries-directly-in-the-marketing-calendar}
+# Creare le voci direttamente nel calendario marketing {#create-entries-directly-in-the-marketing-calendar}
 
 Marketo consente di creare voci direttamente nel calendario di marketing utilizzando la modalità di attivazione del programma. È possibile creare i seguenti tipi di voce:
 
@@ -20,11 +20,11 @@ Marketo consente di creare voci direttamente nel calendario di marketing utilizz
 * Programmi e-mail
 * Campagne avanzate
 
-1. Fare clic sul riquadro **[!UICONTROL Calendario]**.
+1. Fare clic sul riquadro **[!UICONTROL Calendar]**.
 
    ![](assets/2017-05-10-15-30-47-2.png)
 
-1. Seleziona una voce precedente e fai clic su **[!UICONTROL Mostra attivazione programma]**.
+1. Selezionare una voce precedente e fare clic su **[!UICONTROL Show Program Focus]**.
 
    ![](assets/image2014-10-20-13-3a7-3a55.png)
 

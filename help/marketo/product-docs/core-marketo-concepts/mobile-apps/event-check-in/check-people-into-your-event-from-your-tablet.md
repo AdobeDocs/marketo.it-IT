@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2949839
 description: Visitare la pagina dedicata all'evento dal Tablet PC - Documentazione di Marketo - Documentazione del prodotto
-title: Controllare l'evento dal Tablet PC
+title: Controllare le persone del tuo evento dal tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '818'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Controllare l&#39;evento dal Tablet PC {#check-people-into-your-event-from-your-tablet}
+# Controllare le persone del tuo evento dal tablet {#check-people-into-your-event-from-your-tablet}
 
 Quando le persone si presentano al tuo evento, puoi trovare le loro informazioni nell’app. Dopo il check-in, vengono promossi allo stato Partecipazione durante la sincronizzazione con Marketo.
 

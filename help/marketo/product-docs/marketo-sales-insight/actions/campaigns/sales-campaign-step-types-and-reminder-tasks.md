@@ -1,16 +1,16 @@
 ---
 description: Tipi di passaggi della campagna di vendita e attività di promemoria - Documenti Marketo - Documentazione del prodotto
-title: Tipi di fasi della campagna di vendita e task promemoria
+title: Tipi di fasi della campagna vendite e attività di promemoria
 exl-id: 41b19452-ba1a-4ca7-bf22-29314072a346
 feature: Sales Insight Actions
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '312'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Tipi di fasi della campagna di vendita e task promemoria {#sales-campaign-step-types-and-reminder-tasks}
+# Tipi di fasi della campagna vendite e attività di promemoria {#sales-campaign-step-types-and-reminder-tasks}
 
 ## Tipi di fasi della campagna di vendita {#sales-campaign-step-types}
 

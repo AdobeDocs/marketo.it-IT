@@ -1,17 +1,17 @@
 ---
 unique-page-id: 4720856
 description: Aggiungere una visualizzazione mobile alla pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
-title: Aggiungere una visualizzazione mobile alla pagina di destinazione in formato libero
+title: Aggiungere una visualizzazione per dispositivi mobili alla pagina di destinazione in formato libero
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '126'
-ht-degree: 2%
+ht-degree: 16%
 
 ---
 
-# Aggiungere una visualizzazione mobile alla pagina di destinazione in formato libero {#add-a-mobile-view-for-your-free-form-landing-page}
+# Aggiungere una visualizzazione per dispositivi mobili alla pagina di destinazione in formato libero {#add-a-mobile-view-for-your-free-form-landing-page}
 
 È facile fare in modo che le pagine di destinazione in formato libero abbiano un aspetto fantastico su uno smartphone.
 
