@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Durante l’automazione di una campagna, probabilmente non vorrai che le e-mail vengano inviate di sabato o domenica. In caso contrario, puoi saltare i fine settimana.
 
-1. In [!DNL Sales Connect], fare clic sulla scheda **[!UICONTROL  Campaigns]**.
+1. In [!DNL Sales Connect], fare clic sulla scheda **[!UICONTROL &#x200B; Campaigns]**.
 
    ![](assets/one-2.png)
 

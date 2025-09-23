@@ -37,7 +37,7 @@ ht-degree: 10%
 
    >[!TIP]
    >
-   >Se scegli un attributo con un valore numerico, ad esempio _[!UICONTROL Created At]_o_[!UICONTROL Annual Revenue]_, seleziona le metriche dal menu a discesa **[!UICONTROL Units]** a destra.
+   >Se scegli un attributo con un valore numerico, ad esempio _[!UICONTROL Created At]_&#x200B;o_[!UICONTROL Annual Revenue]_, seleziona le metriche dal menu a discesa **[!UICONTROL Units]** a destra.
 
    Tutto qui. Fare clic sulla scheda **[!UICONTROL Report]** per raggruppare il report di conseguenza.
 

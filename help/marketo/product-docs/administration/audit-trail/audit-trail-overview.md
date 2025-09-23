@@ -1,6 +1,6 @@
 ---
 unique-page-id: 11377945
-description: Audit Trail] Panoramica - Documenti Marketo - Documentazione del prodotto
+description: Audit Trail&rbrack; Panoramica - Documenti Marketo - Documentazione del prodotto
 title: Panoramica su Audit trail
 exl-id: e8aff7b7-72ca-4d4e-9159-56ff65f6345c
 feature: Audit Trail

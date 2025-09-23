@@ -19,6 +19,6 @@ Facendo clic sul menu punto nella colonna Azioni, è possibile utilizzare le opz
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-È inoltre possibile selezionare più lead dalla scheda [!DNL Best Bets] e scegliere _[!UICONTROL Send Marketo Email]_o_[!UICONTROL Add to Marketo Campaign]_.
+È inoltre possibile selezionare più lead dalla scheda [!DNL Best Bets] e scegliere _[!UICONTROL Send Marketo Email]_&#x200B;o_[!UICONTROL Add to Marketo Campaign]_.
 
 ![](assets/best-bets-1.png)

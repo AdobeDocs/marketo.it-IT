@@ -44,7 +44,7 @@ ht-degree: 6%
 
    >[!IMPORTANT]
    >
-   >Per accedere a Marketo Engage, è necessario aggiungere un utente _1} a un profilo di prodotto._
+   >Per accedere a Marketo Engage, è necessario aggiungere un utente _1&rbrace; a un profilo di prodotto._
 
 1. Fai clic su **[!UICONTROL Save]**.
 

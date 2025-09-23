@@ -47,7 +47,7 @@ Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguit
 
 1. Dall&#39;area _[!UICONTROL Admin]_, selezionare **[!UICONTROL Email]**.
 
-1. Nella scheda _[!UICONTROL Domain]_selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
+1. Nella scheda _[!UICONTROL Domain]_&#x200B;selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
 
    ![Amministratore - E-mail - Dominio - Aggiungi SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 

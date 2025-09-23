@@ -34,4 +34,4 @@ In qualità di amministratore, puoi visualizzare i modelli come qualsiasi utente
 
    >[!NOTE]
    >
-   >Puoi anche utilizzare i filtri o la funzione di ricerca insieme a _[!UICONTROL View As]_per visualizzare ciò che ti interessa di più.
+   >Puoi anche utilizzare i filtri o la funzione di ricerca insieme a _[!UICONTROL View As]_&#x200B;per visualizzare ciò che ti interessa di più.
