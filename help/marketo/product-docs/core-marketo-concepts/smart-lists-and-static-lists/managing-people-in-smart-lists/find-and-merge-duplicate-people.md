@@ -4,9 +4,9 @@ description: Trovare e unire persone duplicate - Documentazione di Marketo - Doc
 title: Trovare e unire persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3456e4d0d9fdcd4590884d9a5b15ef206fcff875
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '411'
 ht-degree: 3%
 
 ---
@@ -21,7 +21,7 @@ Marketo Engage esegue automaticamente la deduplicazione quando nuove persone ent
 
 >[!PREREQUISITES]
 >
->Per trovare e unire i duplicati è necessario utilizzare [elenchi smart incorporati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
+>La ricerca e l&#39;unione di duplicati comporta l&#39;utilizzo di [elenchi smart incorporati/di sistema](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-built-in-system-smart-lists.md){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,13 +59,15 @@ Marketo Engage esegue automaticamente la deduplicazione quando nuove persone ent
    >
    >Potresti avere due o più duplicati per la stessa persona: selezionali tutti contemporaneamente.
 
-1. Vedrai i valori tra i record che _non_ corrispondono. Selezionare il valore da mantenere per ogni campo. Al termine, fai clic su **[!UICONTROL Merge]**. Se non si desidera utilizzare nessuno dei due valori, è possibile selezionare **[!UICONTROL Custom]** e immettere un valore desiderato.
+1. Vengono visualizzati i valori tra i record che non corrispondono. _Selezionare il valore da mantenere per ogni campo_. Al termine, fai clic su **[!UICONTROL Merge]**. Se non si desidera utilizzare nessuno dei due valori, è possibile selezionare **[!UICONTROL Custom]** e immettere un valore desiderato.
 
    ![](assets/find-and-merge-duplicate-people-4.png)
 
    >[!NOTE]
    >
-   >Quando si uniscono manualmente le persone, la prima persona selezionata sarà il &quot;vincitore&quot;. Quindi, nella scheda Persone, se stai unendo gli ID record 198 e 199 e fai clic su 199 prima, 199 sarà l’ID record delle persone unite. Ciò si applica anche se vengono uniti più di due record.
+   >* A differenza di Salesforce, quando si uniscono persone in Marketo, i loro punteggi sono _non_ sommati. Selezionare i valori che si desidera mantenere.
+   >
+   >* Quando si uniscono manualmente le persone, la prima persona selezionata sarà il &quot;vincitore&quot;. Quindi, nella scheda Persone, se stai unendo gli ID record 198 e 199 e fai clic su 199 prima, 199 sarà l’ID record delle persone unite. Ciò si applica anche se vengono uniti più di due record.
 
    >[!TIP]
    >
