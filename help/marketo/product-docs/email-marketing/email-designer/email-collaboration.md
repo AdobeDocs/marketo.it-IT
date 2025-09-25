@@ -5,10 +5,11 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7082c8d573411070b279b4157b91e73fba9b0f27
+exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
+source-git-commit: 3718ab4d6241c45b937929d253297d9d0cf1b3d4
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 0%
+source-wordcount: '299'
+ht-degree: 1%
 
 ---
 
@@ -16,43 +17,50 @@ ht-degree: 0%
 
 La collaborazione e il commento tramite e-mail consentono ai team di marketing di rivedere, discutere e finalizzare in modo semplice le risorse e-mail all’interno di Adobe Marketo Engage E-mail Designer. Invece di condividere le bozze su strumenti esterni (come chat, thread e-mail, fogli di calcolo, ecc.), puoi commentare, suggerire modifiche e risolvere i feedback in tempo reale. Questo semplifica il flusso di lavoro, riduce gli errori e garantisce che le parti interessate siano allineate prima dell’invio di una campagna e-mail.
 
+## Autorizzazioni {#permissions}
 
-## Abilita Collaboration {#enable-collaboration}
-
-1. Durante la creazione o la modifica di un’e-mail nel Designer e-mail, a destra viene visualizzata l’opzione &quot;Collaboration&quot;.
-
-   SCHERMATA
-
-1. Questo consente ai membri del gruppo di entrare in modalità di revisione collaborativa.
-
-   SCHERMATA
+Gli utenti che dispongono delle autorizzazioni di modifica per una risorsa e-mail potranno aggiungere commenti, assegnare tag e visualizzare commenti. Gli utenti con autorizzazioni di sola lettura per le risorse e-mail **non** potranno aggiungere o visualizzare commenti.
 
 ## Aggiungi commenti {#add-comments}
 
-1. Fai clic su una struttura, una colonna o un contenuto (testo, immagine, pulsante, ecc.) sopra una sezione modificabile nel Designer e-mail.
+1. Durante la creazione o la modifica di un’e-mail nel Designer e-mail, fai clic su una struttura, una colonna o un contenuto (testo, immagine, pulsante, ecc.) sopra una sezione modificabile.
 
-   SCHERMATA
+   ![](assets/email-collaboration-1.png)
 
-1. Fai clic sull’icona del commento ().
+1. Fai clic sull’icona del commento.
 
-   SCHERMATA
+   ![](assets/email-collaboration-2.png)
 
-1. Digita feedback, domande o suggerimenti.
+1. Inserisci feedback, domande o suggerimenti.
 
-   SCHERMATA
+   ![](assets/email-collaboration-3.png)
 
 >[!NOTE]
 >
 >Assegna tag ai compagni di squadra utilizzando @mentions (ad esempio, &quot;@John, aggiorna la newsletter invernale&quot;).
 
+## Visualizza tutti i commenti {#view-all-comments}
+
+1. Fai clic sull&#39;icona _Collaboration_ a destra.
+
+   ![](assets/email-collaboration-4.png)
+
+1. Rispondi rapidamente a un commento o aggiungi un Mi piace.
+
+   ![](assets/email-collaboration-5.png)
+
+1. Fare clic sull&#39;icona **...** per ulteriori azioni.
+
+   ![](assets/email-collaboration-6.png)
+
 ## Risolvi commenti {#resolve-comments}
 
 Ogni thread di commenti include:
 
-* Risposta: continuare la discussione.
-* Risoluzione: contrassegna il commento come indirizzato.
-* Non risolvere: se sono necessarie ulteriori modifiche.
-* Rimuovi: separa il commento dall’elemento di progettazione (selezionato al momento della creazione)
+* Risposta: continuare la discussione
+* Risolvi: contrassegna il commento come risolto
+* Non risolvere: se sono necessarie ulteriori modifiche
+* Rimuovi: rimuove il commento dal relativo elemento di progettazione
 * Elimina: elimina definitivamente il commento
 
 >[!NOTE]
@@ -68,10 +76,6 @@ Le notifiche vengono attivate per:
 * Nuovi commenti
 * Menzioni (@username)
 * Risoluzioni
-
-## Autorizzazioni {#permissions}
-
-Gli utenti che dispongono delle autorizzazioni di modifica per una risorsa e-mail potranno aggiungere commenti, assegnare tag e visualizzare commenti. Gli utenti con autorizzazioni di sola lettura per le risorse e-mail **non** potranno aggiungere o visualizzare commenti.
 
 ## Best practice {#best-practices}
 
