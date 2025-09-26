@@ -6,13 +6,13 @@ feature: Release Information
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
 workflow-type: tm+mt
 source-wordcount: '654'
-ht-degree: 60%
+ht-degree: 91%
 
 ---
 
 # Note sulla versione - Settembre 2025 {#release-notes-sep-25}
 
-Di seguito sono elencate tutte le funzioni incluse nella versione di settembre 2025. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
+Di seguito sono disponibili tutte le funzioni incluse nella versione di settembre 2025. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -22,7 +22,7 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 19 settembre 2025** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **19 settembre 2025** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -32,7 +32,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:25%">Documentazione</th>
   </tr>
   <tr>
-   <td><strong>Conservazione attività webinar on demand</strong>: gli utenti di webinar interattivi ora dispongono di dati del dashboard webinar on demand disponibili per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
+   <td><strong>Conservazione dell’attività webinar on-demand</strong>: gli utenti di webinar interattivi hanno ora a disposizione i dati della dashboard dei webinar on-demand per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -42,7 +42,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Invia e-mail a Designer - Flusso di lavoro Collaboration dei contenuti</strong>: ora puoi aggiungere commenti e collaborare con altri utenti Marketo all'interno di una risorsa e-mail. Assegna tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa) e riceveranno un’e-mail o una notifica immediata.</td>
+   <td><strong>Invia e-mail a Designer - Flusso di lavoro Collaboration dei contenuti</strong>: ora puoi aggiungere commenti e collaborare con altri utenti Marketo all'interno di una risorsa e-mail. Assegnando tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa), questi riceveranno un’e-mail o una notifica Pulse.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -52,7 +52,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Autorizzazioni di E-mail Designer - Assistente AI</strong>: gli amministratori di Marketo possono fornire a utenti specifici l'accesso alle funzioni GenAI.</td>
+   <td><strong>E-mail designer - Autorizzazioni Assistente IA</strong>: gli amministratori di Marketo possono fornire a utenti specifici l’accesso alle funzioni GenAI.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -72,7 +72,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-mail Designer - Correzioni reindirizzamento</strong>: alcuni utenti hanno riscontrato problemi di reindirizzamento con gli URL per le e-mail create utilizzando il nuovo Designer (ad esempio, non sempre è stato possibile incollare direttamente gli URL o inserire nei segnalibri le risorse e-mail). Questo problema è stato risolto. Inoltre, i collegamenti alle risorse e-mail da <b>Modelli e-mail</b> &gt; <b>Dettagli</b> &gt; <b>Utilizzati da</b> reindirizzeranno alla risorsa e-mail corrispondente.</td>
+   <td><strong>E-mail designer - Correzioni sul reindirizzamento</strong>: alcuni utenti riscontravano problemi di reindirizzamento con gli URL per le e-mail create tramite il nuovo Designer (ad esempio, incollare direttamente gli URL o aggiungere le risorse e-mail ai segnalibri non funzionava sempre come previsto). Questo problema è stato risolto. Inoltre, i collegamenti alle risorse e-mail da <b>Modelli e-mail</b> &gt; <b>Dettagli</b> &gt; <b>Utilizzati da</b> reindirizzeranno alla risorsa e-mail corrispondente.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -82,7 +82,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Ripristino dello script Velocity nel nuovo Designer e-mail**: Adobe Marketo Engage ha rilasciato una funzionalità denominata _Contenuto condizionale_ per il nuovo Designer e-mail lo scorso giugno. La funzione si basa su script Handlebar anziché Velocity, nel tentativo di fornire un po’ più di flessibilità nel contenuto dinamico. Ma quando abbiamo scoperto che causava la risoluzione errata di alcuni token, abbiamo deciso di disattivarlo temporaneamente. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
+* **Ripristino dello script Velocity nel nuovo E-mail designer**: lo scorso giugno, in Adobe Marketo Engage è stata rilasciata una funzione denominata _Contenuto condizionale_ per il nuovo E-mail designer. Tale funzione era basata su script Handlebar anziché Velocity, nel tentativo di offrire una maggiore flessibilità dei contenuti dinamici. Tuttavia, quando è stato rilevato che causava la risoluzione errata di alcuni token, è stato deciso di disabilitarla temporaneamente. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 
 * **Fine del ciclo di vita di Marketo Engage Identity**: ad agosto 2025, Adobe inizierà a eliminare gradualmente il supporto per Marketo Engage Identity (accesso tramite `login.marketo.com`). Per evitare l’interruzione dell’accesso a Marketo Engage, devi passare a [Adobe Identity](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"} entro il 30 settembre 2025.
 
@@ -92,6 +92,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Deprecazione della funzionalità _Inoltra a un amico_**: il 29 settembre 2025 la funzionalità _Inoltra a un amico_ nelle e-mail di Marketo Engage 2.0 (l’editor e-mail precedente) diventerà completamente obsoleta per tutti gli abbonamenti. Questo influisce sul token “Inoltra a un amico” e sui collegamenti “Inoltra a un amico” nelle e-mail che sono già state o saranno inviate utilizzando il token. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il 31 gennaio 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Deprecazione API SOAP**: il supporto per l&#39;API SOAP di Marketo terminerà il 31 ottobre 2025. I servizi che utilizzano le funzionalità API SOAP devono essere migrati all&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il 31 gennaio 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
