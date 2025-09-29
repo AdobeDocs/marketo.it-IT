@@ -3,7 +3,7 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fb620ef951ab6d6c24e5694a8d0b398855906644
+source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 91%
@@ -54,7 +54,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   <tr>
    <td><strong>E-mail designer - Autorizzazioni Assistente IA</strong>: gli amministratori di Marketo possono fornire a utenti specifici l’accesso alle funzioni GenAI.</td>
    <td>Spedito</td>
-   <td><a href="/help\marketo\product-docs\email-marketing\email-designer\ai-assistant.md#set-up-permissions">Impostare le autorizzazioni</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Impostare le autorizzazioni</a></td>
   </tr>
   <tr>
    <td> </td>
