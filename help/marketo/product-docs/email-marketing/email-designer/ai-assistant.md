@@ -6,9 +6,9 @@ description: Sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: a9be6eb2285d592bef2e350396d6e6858e53266c
+source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '814'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,33 @@ L’Assistente AI in Marketo Engage Email Designer consente di creare e-mail con
 
 >[!PREREQUISITES]
 >
->L&#39;Assistente AI non è attivato per impostazione predefinita. Devi innanzitutto accettare i termini di base Gen-AI e i termini supplementari per l’utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+>L&#39;Assistente AI non è attivato per impostazione predefinita. Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+
+## Impostare le autorizzazioni {#set-up-permissions}
+
+_Dopo_ che segue il prerequisito precedente, gli amministratori di Marketo devono applicare l&#39;accesso a utenti/ruoli specifici prima che gli utenti visualizzino i pulsanti GenAI.
+
+1. In Marketo Engage, fai clic su **Amministratore** e seleziona **Utenti e ruoli**.
+
+   ![](assets/use-the-ai-assistant-0a.png)
+
+1. Nella scheda **Ruoli** fare doppio clic sul ruolo desiderato.
+
+   ![](assets/use-the-ai-assistant-0b.png)
+
+1. In _Access Design Studio_, selezionare la casella di controllo **Access AI Assistant** e fare clic su **Salva**.
+
+   ![](assets/use-the-ai-assistant-0c.png)
+
+1. Fai clic sulla scheda Utenti e seleziona l’utente a cui desideri fornire l’accesso.
+
+   ![](assets/use-the-ai-assistant-0d.png)
+
+1. Seleziona il ruolo scelto nel passaggio 3 e l’area di lavoro desiderata (se applicabile). Fai clic su **Salva**.
+
+   ![](assets/use-the-ai-assistant-0e.png)
+
+## Casi d’uso {#use-cases}
 
 Esistono tre casi d’uso principali per l’Assistente IA:
 
