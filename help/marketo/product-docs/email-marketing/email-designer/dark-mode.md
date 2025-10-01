@@ -5,9 +5,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: e6aa9e921776ca635c4c234b950c173bc000a3f7
+source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
 workflow-type: tm+mt
-source-wordcount: '1253'
+source-wordcount: '1195'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,7 @@ In **[!UICONTROL Dark mode]** è possibile definire impostazioni personalizzate 
 
 ## Cos’è la modalità scura? {#what-is-dark-mode}
 
-La modalità scura consente ai client e-mail e alle app di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell’interfaccia utente. Aiuta a ridurre l&#39;affaticamento degli occhi, a risparmiare la durata della batteria e a migliorare la leggibilità in ambienti scarsamente illuminati, per un&#39;esperienza di visualizzazione più confortevole.
+La modalità scura consente ai client e-mail e alle app di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell’interfaccia utente. Consente di ridurre l&#39;affaticamento degli occhi, di risparmiare la durata della batteria e di migliorare la leggibilità in ambienti scarsamente illuminati, per un&#39;esperienza di visualizzazione più confortevole.
 
 ## Guardrail {#guardrails}
 
@@ -35,44 +35,44 @@ Alcuni client di posta elettronica non supportano affatto questa funzione, ad es
 * Yahoo!Posta
 * AOL
 
-Che tu definisca o meno le impostazioni personalizzate della modalità scura, questi client e-mail non visualizzano mai alcun rendering della modalità scura.
+Che tu definisca o meno le impostazioni personalizzate della modalità scura, questi client e-mail non visualizzano alcun rendering della modalità scura.
 
 ### Client che applicano la propria modalità scura {#default-support}
 
-Alcuni client e-mail applicano sistematicamente la propria modalità scura predefinita per tutte le e-mail ricevute. Colori, sfondi, immagini e così via vengono regolati automaticamente con le impostazioni della modalità scura specifiche per quel client e-mail. Non è possibile alcuna modifica esterna.
+Alcuni client e-mail applicano sistematicamente la propria modalità scura predefinita per tutte le e-mail ricevute. Colori, sfondi, immagini ecc. vengono regolati automaticamente con le impostazioni della modalità scura specifiche per quel client e-mail. Non è possibile alcuna modifica esterna.
 
-Questi client, ad esempio:
+Alcuni esempi sono:
 
 * Gmail (Posta sul desktop, iOS, Android, Posta sul web mobile)
-* Windows Outlook
+* Windows di Outlook
 * Outlook Windows Mail
 
 In questo caso, se definisci le impostazioni della modalità scura personalizzata in E-mail Designer, queste vengono ignorate dalle impostazioni del client e-mail.
 
 Pertanto, anche se questi client e-mail gestiscono la modalità scura, la progettazione specifica della modalità scura non verrà renderizzata.
 
-### Client che supportano la modalità scura personalizzata {#custom-support}
+### Client che supportano la modalità scura personalizzata {#custom-dark-mode}
 
-Altri client di posta elettronica offrono l&#39;opzione di eseguire il rendering della modalità scura personalizzata con la query `@media (prefers-color-scheme: dark)`, che è il metodo utilizzato dal Designer di posta elettronica [!DNL Marketo Engage].
+Alcuni client di posta elettronica offrono l&#39;opzione di eseguire il rendering della modalità scura personalizzata con la query `@media (prefers-color-scheme: dark)`, che è il metodo utilizzato dal Designer di posta elettronica [!DNL Marketo Engage].
 
-Elenco dei client principali che gestiscono questa opzione:
+I client principali che gestiscono questa opzione sono:
 
 * Apple Mail macOS
 * Apple Mail iOS
-* MacOS di Outlook
+* Outlook macOS
 * Outlook.com
 * IOS di Outlook
 * Android di Outlook
 
-In questo caso, devono essere visualizzate le impostazioni definite nel Designer e-mail.
+Dovrebbero essere visualizzate le impostazioni definite nel Designer e-mail.
 
 >[!NOTE]
 >
->Scopri come definire impostazioni personalizzate in modalità scura con E-mail Designer in [questa sezione](#define-custom-dark-mode).
+>Scopri come definire le [impostazioni personalizzate della modalità scura](#define-custom-dark-mode) in E-mail Designer.
 
-Tuttavia, possono essere applicate alcune restrizioni in base a ciascun client e-mail. Ad esempio, alcuni client come Apple Mail 16 (macOs 13) non genereranno la modalità scura se le immagini sono presenti.
+Alcune restrizioni possono essere applicate in base a ciascun client e-mail. Ad esempio, alcuni client (ad esempio, Apple Mail 16) non genereranno la modalità scura se sono presenti immagini.
 
-Per risultati ottimali, verifica il contenuto nei client e-mail di destinazione. Per visualizzare una simulazione che si avvicina il più possibile al risultato finale per ogni client, utilizzare la funzionalità [Rendering di e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) in E-mail Designer.
+Per risultati ottimali, verifica il contenuto nei client e-mail di destinazione. Per visualizzare una simulazione in ogni client, utilizzare la funzionalità [Rendering di e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) in E-mail Designer.
 
 ## Modalità scura in E-mail designer {#dark-mode-email-designer}
 
@@ -84,7 +84,7 @@ Quando si tratta della modalità scura in E-mail Designer, ci sono due aspetti d
 
 ### Anteprima modalità scura predefinita {#preview-dark-mode}
 
-Per accedere alla modalità scura in E-mail Designer e visualizzare un’anteprima delle impostazioni predefinite della modalità scura, segui la procedura riportata di seguito.
+Scopri come accedere alla modalità scura in E-mail Designer e ottenere un’anteprima delle impostazioni predefinite della modalità scura.
 
 1. Dalla home page di E-mail Designer, selezionare l&#39;opzione **[!UICONTROL Design from scratch]**.
 
@@ -92,61 +92,61 @@ Per accedere alla modalità scura in E-mail Designer e visualizzare un’antepri
 
 1. In alto a destra, abilita l&#39;interruttore **[!UICONTROL Dark mode]**.
 
-   SCHERMATA
+   ![](assets/dark-mode-1.png)
 
 1. Viene visualizzata l&#39;anteprima predefinita in modalità scura.
 
-   SCHERMATA
+   ![](assets/dark-mode-2.png)
 
 Per impostazione predefinita, l’anteprima in modalità scura di E-mail Designer applica la combinazione di colori &quot;inversione completa dei colori&quot; a tutti gli elementi eccetto immagini e icone.
 
-Significa che rileva aree con elementi chiari e scuri e le inverte, in modo che gli sfondi chiari diventino testo scuro e chiaro, mentre gli sfondi scuri diventino chiari e il testo chiaro diventi scuro.
+Ciò significa che rileva le aree con elementi chiari e scuri e li inverte, in modo che gli sfondi chiari diventino testo scuro e chiaro, mentre gli sfondi scuri diventino chiari e il testo chiaro diventi scuro.
 
 >[!CAUTION]
 >
->Il rendering finale può variare a seconda del client e-mail del destinatario. Per visualizzare una simulazione che si avvicina il più possibile al risultato finale per ogni client e-mail, utilizza l&#39;opzione [Rendering e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
+>Il rendering finale può variare a seconda del client e-mail del destinatario. Per visualizzare una simulazione per ogni client e-mail, utilizza la funzionalità [Rendering e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
 ### Definire la modalità scura personalizzata {#define-custom-dark-mode}
 
-Dopo il passaggio a **[!UICONTROL Dark mode]**, puoi scegliere di modificare elementi di stile specifici del contenuto che verranno visualizzati solo quando la modalità scura è abilitata nel client e-mail del destinatario, purché supporti tale funzione.
+Dopo il passaggio a **[!UICONTROL Dark mode]**, puoi scegliere di modificare elementi di stile specifici del contenuto che verranno visualizzati solo quando la modalità scura è abilitata nel client e-mail del destinatario (purché supporti tale funzione).
 
->[!WARNING]
+>[!IMPORTANT]
 >
 >Il rendering finale in modalità scura dipende da ciascun client e-mail, pertanto i risultati possono variare da un client all’altro. [Ulteriori informazioni](#guardrails)
 
-Per sfruttare lo stile personalizzato della modalità scura di E-mail Designer, Journey Optimizer utilizza la query CSS `@media (prefers-color-scheme: dark)` che rileva se il client e-mail dell&#39;utente è impostato sulla modalità scura e applica la progettazione a tema scuro definita nell&#39;e-mail.
+Per sfruttare lo stile personalizzato della modalità scura di E-mail Designer, Marketo Engage utilizza la query CSS `@media (prefers-color-scheme: dark)` che rileva se il client e-mail dell&#39;utente è impostato sulla modalità scura e applica la progettazione a tema scuro definita nell&#39;e-mail.
 
 Per definire le impostazioni personalizzate della modalità scura, effettua le seguenti operazioni.
 
-1. Assicurarsi di passare all&#39;anteprima di **[!UICONTROL Dark mode]** nel Designer e-mail. [Scopri come](#preview-dark-mode)
+1. Passa alla [anteprima in modalità scura](#preview-dark-mode) nel Designer e-mail.
 
-1. Modifica gli attributi dei colori di stile come testo, sfondi, pulsante e così via.
+1. Modificare gli attributi dei colori di stile come testo, sfondi, pulsanti e così via.
 
-1. Non è possibile modificare i colori delle immagini e delle icone, ma è possibile definire risorse specifiche solo per la modalità scura. A questo scopo, seleziona un’immagine. Passa a **[!UICONTROL Dark mode]** utilizzando l&#39;interruttore dedicato nel riquadro **[!UICONTROL Settings]** e seleziona un&#39;altra risorsa.
+1. Non puoi modificare i colori delle immagini e delle icone, ma puoi definire risorse specifiche solo per la modalità scura. A questo scopo, seleziona un’immagine. Passa a **[!UICONTROL Dark mode]** utilizzando l&#39;interruttore dedicato nel riquadro **[!UICONTROL Settings]** e seleziona un&#39;altra risorsa.
 
-   SCHERMATA
+   ![](assets/dark-mode-3.png)
 
-1. In qualsiasi momento è possibile **[!UICONTROL Switch to live view]** per verificare come il contenuto potrebbe essere riprodotto su dispositivi di varie dimensioni. Da questa vista, seleziona l’opzione Modalità scura nella parte superiore dello schermo per visualizzare in anteprima la versione in modalità scura del contenuto tra i diversi dispositivi.
+1. In qualsiasi momento puoi **[!UICONTROL Switch to live view]** per vedere come il contenuto potrebbe essere riprodotto su dispositivi di varie dimensioni. Da questa vista, seleziona l’opzione Modalità scura per visualizzare in anteprima la versione in modalità scura del contenuto tra diversi dispositivi.
 
-   SCHERMATA
+   ![](assets/dark-mode-4.png)
 
-   >[!CAUTION]
+   >[!NOTE]
    >
    >La visualizzazione live è un’anteprima generica progettata per confrontare l’aspetto del rendering tra le varie dimensioni dei dispositivi. Il rendering finale può variare a seconda del client e-mail del destinatario.
 
 1. Dopo aver apportato le modifiche desiderate per la modalità scura, fare clic su **[!UICONTROL Simulate Content]**.
 
-   SCHERMATA
+   ![](assets/dark-mode-5.png)
 
 1. Selezionare **[!UICONTROL Render email]** e connettersi all&#39;account Litmus. Puoi vedere il rendering finale in modalità scura per vari client e-mail. Ulteriori informazioni sul rendering di [e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md).
 
-   >[!WARNING]
+   >[!IMPORTANT]
    >
-   >Anche se la simulazione si avvicina molto al modo in cui le e-mail appariranno in modalità scura, il rendering effettivo potrebbe variare a causa delle variazioni nei provider di servizi e-mail o nelle impostazioni a livello di dispositivo.
+   >Anche se la simulazione si avvicina molto al modo in cui le e-mail appariranno in modalità scura, il rendering effettivo potrebbe variare a causa delle variazioni nei provider di servizi e-mail o nelle impostazioni dei dispositivi.
 
 ## Best practice {#best-practices}
 
-Poiché l&#39;adozione della modalità scura aumenta tra i principali client e-mail, è essenziale considerare il rendering delle e-mail in ambienti chiari e scuri, indipendentemente dal fatto che si utilizzi la [modalità scura personalizzata](#define-custom-dark-mode) o meno.
+Poiché l&#39;adozione della modalità scura aumenta tra i principali client e-mail, è essenziale considerare il modo in cui le e-mail vengono riprodotte sia in ambienti chiari che in quelli scuri, indipendentemente dal fatto che si utilizzi la [modalità scura personalizzata](#define-custom-dark-mode) o meno.
 
 La modalità scura può alterare i colori, gli sfondi e le immagini, a volte ignorando le scelte di progettazione. Per garantire coerenza visiva, accessibilità e integrità del brand, segui le best practice elencate di seguito.
 
@@ -182,4 +182,4 @@ La modalità scura può alterare i colori, gli sfondi e le immagini, a volte ign
 
 * Utilizza l&#39;[anteprima in modalità scura](#preview-dark-mode) di E-mail Designer che utilizza combinazioni di colori invertite per individuare in anticipo i problemi.
 
-* Utilizza l&#39;opzione [Rendering di e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) che sfrutta Litmus per simulare le progettazioni tra i principali client e-mail (Apple Mail, Gmail, Outlook) e vedere come si comportano i colori e le immagini in modalità scura.
+* Utilizza la funzione [Rendering di e-mail](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md) che sfrutta Litmus per simulare le progettazioni tra i principali client e-mail e vedere come si comportano i colori e le immagini in modalità scura.
