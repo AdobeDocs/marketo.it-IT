@@ -5,7 +5,7 @@ title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: f6b0e5c6409e173803a0ec4f8c912511bd90c41f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -69,8 +69,8 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
   </tr>
   <tr>
    <td>Ottobre 2025</td>
-   <td>sabato 31 ottobre 2025</td>
-   <td>Informazioni sulla pianificazione</td>
+   <td>31 ottobre 2025</td>
+   <td>In pianificazione</td>
   </tr>
  </tbody>
 </table>

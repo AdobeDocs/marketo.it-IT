@@ -3,7 +3,7 @@ unique-page-id: 1147279
 description: Documentazione del prodotto - Documentazione di Marketo - Documentazione del prodotto
 title: Documentazione del prodotto
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
 ht-degree: 100%
 

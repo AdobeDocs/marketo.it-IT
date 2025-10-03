@@ -3,7 +3,7 @@ unique-page-id: 557080
 description: Personalizzazione - Documenti Marketo - Documentazione del prodotto
 title: Personalizzazione
 source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
 ht-degree: 100%
 
