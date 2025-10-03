@@ -5,8 +5,8 @@ exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
 workflow-type: tm+mt
-source-wordcount: '654'
-ht-degree: 91%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -42,7 +42,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Invia e-mail a Designer - Flusso di lavoro Collaboration dei contenuti</strong>: ora puoi aggiungere commenti e collaborare con altri utenti Marketo all'interno di una risorsa e-mail. Assegnando tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa), questi riceveranno un’e-mail o una notifica Pulse.</td>
+   <td><strong>E-mail designer - Flusso di lavoro di collaborazione sui contenuti</strong>: ora è possibile commentare e collaborare con gli altri utenti di Marketo all’interno di una risorsa e-mail. Assegnando tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa), questi riceveranno un’e-mail o una notifica Pulse.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -62,7 +62,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-mail Designer - Modalità scura</strong>: ora puoi utilizzare la modalità scura, che consente ai client e-mail e alle app di supporto di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell'interfaccia utente.</td>
+   <td><strong>E-mail Designer - Modalità scura</strong>: ora è possibile utilizzare la modalità scura, che consente ai client e-mail e alle app di supporto di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell’interfaccia utente.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
