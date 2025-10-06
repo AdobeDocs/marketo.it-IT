@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fd36cb6835fa49c08b92f574707c4d10ed6e73b4
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '653'
+ht-degree: 99%
 
 ---
 
@@ -63,8 +63,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr>
    <td><strong>E-mail Designer - Modalità scura</strong>: ora è possibile utilizzare la modalità scura, che consente ai client e-mail e alle app di supporto di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell’interfaccia utente.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Spedito</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Modalità scura</a></td>
   </tr>
   <tr>
    <td> </td>

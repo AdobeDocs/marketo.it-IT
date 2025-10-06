@@ -3,9 +3,7 @@ description: Modalità scura - Documentazione di Marketo - Documentazione del pr
 title: Modalità scura
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 618514b786546bfc8eb91de04093791bdb41eeae
+source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
 workflow-type: tm+mt
 source-wordcount: '1195'
 ht-degree: 1%
