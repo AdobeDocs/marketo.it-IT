@@ -1,13 +1,13 @@
 ---
 title: Progettare contenuti accessibili
-description: Scopri come progettare contenuti accessibili per le e-mail in Marketo Engage.
+description: Scopri come progettare contenuti accessibili per le e-mail in Adobe Marketo Engage.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: e-mail, progettazione, accessibilità
-source-git-commit: 753455b40ead039a56c595fa61ab9a95b7936382
+source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
 workflow-type: tm+mt
-source-wordcount: '1358'
+source-wordcount: '1359'
 ht-degree: 0%
 
 ---
