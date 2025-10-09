@@ -53,8 +53,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr>
    <td><strong>E-mail designer - Autorizzazioni Assistente IA</strong>: gli amministratori di Marketo possono fornire a utenti specifici l’accesso alle funzioni GenAI.</td>
-   <td>Spedito</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Impostare le autorizzazioni</a></td>
+   <td>Implementato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md#set-up-permissions">Configurare le autorizzazioni</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -63,7 +63,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr>
    <td><strong>E-mail Designer - Modalità scura</strong>: ora è possibile utilizzare la modalità scura, che consente ai client e-mail e alle app di supporto di visualizzare e-mail con sfondi più scuri e colori più chiari per testo, pulsanti e altri elementi dell’interfaccia utente.</td>
-   <td>Spedito</td>
+   <td>Implementato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/dark-mode.md">Modalità scura</a></td>
   </tr>
   <tr>
