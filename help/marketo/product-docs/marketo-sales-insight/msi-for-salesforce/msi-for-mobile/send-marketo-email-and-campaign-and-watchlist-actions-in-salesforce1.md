@@ -23,7 +23,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >Quali campagne intelligenti vengono visualizzate? Quelli con trigger &quot;Campaign is Requested&quot; (È richiesta la campagna). Scopri come impostare una campagna attivata da [ utilizzando &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quali campagne intelligenti vengono visualizzate? Quelli con trigger &quot;Campaign is Requested&quot; (È richiesta la campagna). Scopri come impostare una campagna attivata da [&#x200B; utilizzando &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Fantastico, ora i tuoi venditori possono partecipare attivamente alle attività di marketing.
 

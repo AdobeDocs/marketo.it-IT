@@ -42,7 +42,7 @@ La migrazione del supporto verrà eseguita al termine della migrazione degli ute
 
 * Scopri come utilizzare [Adobe Admin Console per gestire i servizi Adobe autorizzati](https://helpx.adobe.com/it/enterprise/using/admin-roles.html){target="_blank"} per l&#39;intera organizzazione.
 
-* Ulteriori informazioni su come accedere a Marketo Engage con un Adobe ID [ sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
+* Ulteriori informazioni su come accedere a Marketo Engage con un Adobe ID [&#x200B; sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
 * Ulteriori informazioni su [Adobe Experience League](https://experienceleague.adobe.com/it?lang=it){target="_blank"}.
 

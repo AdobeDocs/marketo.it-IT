@@ -64,7 +64,7 @@ Ecco come configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Scegli un [!UICONTROL display name]. Fare clic sul menu a discesa **[!UICONTROL Service]** e selezionare **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [ nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
+1. Scegli un [!UICONTROL display name]. Fare clic sul menu a discesa **[!UICONTROL Service]** e selezionare **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [&#x200B; nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

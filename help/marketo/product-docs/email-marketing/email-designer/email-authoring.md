@@ -229,7 +229,7 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e&#x200B;_[!UICONTROL Styles]_ a destra.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 

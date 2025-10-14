@@ -17,7 +17,7 @@ Ecco come impostare Account Insight.
 
 >[!PREREQUISITES]
 >
->Il punteggio dell&#39;account TAM [ deve prima essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
+>Il punteggio dell&#39;account TAM [&#x200B; deve prima essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
 1. Fai clic su **[!UICONTROL Admin]**.
 
