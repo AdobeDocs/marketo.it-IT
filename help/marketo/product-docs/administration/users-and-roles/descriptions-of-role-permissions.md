@@ -4,9 +4,9 @@ description: Descrizioni delle autorizzazioni per il ruolo - Documentazione di M
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 78af5df3bd62754e6c3097f0497930948bc109d8
 workflow-type: tm+mt
-source-wordcount: '1447'
+source-wordcount: '1451'
 ht-degree: 1%
 
 ---
@@ -120,7 +120,7 @@ Consente agli utenti di accedere alla scheda Design Studio e alla visualizzazion
 
 * Accedi all’e-mail
    * Modifica e-mail: consente agli utenti di modificare, creare e clonare le e-mail
-      * Rendi operativa l’e-mail: consente agli utenti di rendere operativa un’e-mail. Vedere: [Rendere operativa un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
+      * Creare e modificare e-mail operative: consente agli utenti di creare e/o modificare e-mail operative. Vedere: [Rendere operativa un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
 
       * Approva e-mail: consente agli utenti di approvare le e-mail.
       * Elimina e-mail: consente agli utenti di eliminare le e-mail.
