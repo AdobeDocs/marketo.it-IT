@@ -18,7 +18,7 @@ Questo è un esempio di flussi di lavoro basati sulle best practice per la gesti
 >
 >In Marketo Engage, i record del database sono denominati persone. La gestione dei lead in questo esempio fa riferimento ai record nel CRM.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html).
 
 ## Riepilogo canale {#channel-summary}
 

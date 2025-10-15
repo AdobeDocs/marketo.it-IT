@@ -14,7 +14,7 @@ ht-degree: 6%
 
 La Libreria di riferimento di Marketo Engage include diversi programmi iniziali che è possibile importare direttamente nell’istanza di Marketo per avviare la creazione di programmi utili per il supporto del team.
 
-La libreria include programmi quali: e-mail, coinvolgimento, evento, punteggio, recapito messaggi e dati operativi. Tutti i programmi sono stati sviluppati dal team di prodotto Adobe e analizzati dal nostro team di [servizi professionali globali](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} nel tentativo di massimizzare la qualità e l&#39;efficacia.
+La libreria include programmi quali: e-mail, coinvolgimento, evento, punteggio, recapito messaggi e dati operativi. Tutti i programmi sono stati sviluppati dal team di prodotto Adobe e analizzati dal nostro team di [servizi professionali globali](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"} nel tentativo di massimizzare la qualità e l&#39;efficacia.
 
 ## Esempi di programmi disponibili {#available-program-examples}
 
