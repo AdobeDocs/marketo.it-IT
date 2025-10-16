@@ -63,7 +63,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ![](assets/yellow-star.png)
 
-* Integrazione di Forms **[!DNL Bizible][!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione di [!DNL LinkedIn] Ads con [!DNL Bizible].
+* Integrazione di Forms **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione di [!DNL LinkedIn] Ads con [!DNL Bizible].
 
 * **Dashboard Velocity migliorato**: è stata aggiunta una nuova metrica di velocità e un nuovo filtro del dashboard per ottenere informazioni più approfondite. Questa dashboard viene utilizzata dagli esperti di marketing per comprendere la velocità di lead e opportunità di ogni fase e l’efficienza di diverse forme di coinvolgimento di marketing e vendita.
 
