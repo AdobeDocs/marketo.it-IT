@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
-workflow-type: ht
-source-wordcount: '653'
-ht-degree: 100%
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+workflow-type: tm+mt
+source-wordcount: '704'
+ht-degree: 92%
 
 ---
 
@@ -81,6 +81,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 <br/>
 
 ## Annunci {#announcements}
+
+* **Doppia barra di deprecazione API REST**: il 16 settembre 2025 Adobe è passato a un&#39;infrastruttura di hosting più moderna per gli URL API REST che sfrutta la tecnologia più recente, aggiungendo sicurezza e scalabilità. Se il tuo abbonamento utilizza API con una doppia barra (//) nell&#39;URL, leggi [questo post nazione](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} per i passaggi successivi.
 
 * **Ripristino dello script Velocity nel nuovo E-mail designer**: lo scorso giugno, in Adobe Marketo Engage è stata rilasciata una funzione denominata _Contenuto condizionale_ per il nuovo E-mail designer. Tale funzione era basata su script Handlebar anziché Velocity, nel tentativo di offrire una maggiore flessibilità dei contenuti dinamici. Tuttavia, quando è stato rilevato che causava la risoluzione errata di alcuni token, è stato deciso di disabilitarla temporaneamente. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/update-on-email-scripting-in-the-new-email-designer/ba-p/358179){target="_blank"}
 

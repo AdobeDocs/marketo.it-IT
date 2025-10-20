@@ -3,9 +3,9 @@ description: Accedi con OAuth 2.0 - Documentazione Marketo - Documentazione del 
 title: Accedere utilizzando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: d51ea5140b7b4a67dbf4c18ab8a6409c08eafa7d
+source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
 workflow-type: tm+mt
-source-wordcount: '610'
+source-wordcount: '609'
 ht-degree: 2%
 
 ---
@@ -56,11 +56,11 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 
    ![](assets/log-in-using-oauth-8.png)
 
-1. Dopo aver creato la nuova app client esterna, fai clic sulla scheda **Impostazioni** ed espandi la sezione **Impostazioni OAuth**.
+1. Dopo aver creato la nuova app client esterna, seleziona la scheda **Impostazioni** ed espandi la sezione **Impostazioni OAuth**.
 
    ![](assets/log-in-using-oauth-9.png)
 
-1. Fai clic sul pulsante **Chiave consumer e Segreto consumer** per richiedere l&#39;apertura di una nuova scheda. Copiare e salvare entrambi i numeri (saranno necessari in seguito per l&#39;utilizzo in Marketo Engage).
+1. Fai clic sul pulsante **Chiave consumer e segreto** per richiedere l&#39;apertura di una nuova scheda. Copiare e salvare entrambi i numeri (saranno necessari in seguito per l&#39;utilizzo in Marketo Engage).
 
    ![](assets/log-in-using-oauth-10.png)
 
