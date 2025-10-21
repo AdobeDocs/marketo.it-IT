@@ -4,10 +4,10 @@ description: Creare un Inserisco nell'elenco Consentiti di accesso API basato su
 title: Creare un elenco Consentiti per l’accesso API basato su IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3595cdc76a0f92da10dc5ddaac64c4cf83056e88
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 12%
+source-wordcount: '152'
+ht-degree: 13%
 
 ---
 
@@ -21,9 +21,7 @@ A volte, è necessario concedere l’accesso API solo a un indirizzo IP specific
 
 >[!NOTE]
 >
->Questa funzione opera indipendentemente dalle restrizioni di accesso basate su IP di Marketo Engage (venendo sostituita dall&#39;elenco di accesso IP di Admin Console*) e continuerà a funzionare dopo la [migrazione Adobe IMS](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md).
->&#x200B;> 
->&#x200B;>&#42;La disponibilità generale dell’elenco di accesso IP è prevista per il quarto trimestre del 2025.
+>Questa funzione opera indipendentemente dalle [restrizioni di accesso basate su IP di Marketo Engage](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} che vengono sostituite dal [controllo di accesso basato su IP di Admin Console](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Continuerà a funzionare così com’è dopo la migrazione di Adobe IMS.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
