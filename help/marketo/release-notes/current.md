@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
-workflow-type: ht
-source-wordcount: '688'
-ht-degree: 100%
+source-git-commit: 517ac202934acb737aa7b1496693668871f38f71
+workflow-type: tm+mt
+source-wordcount: '690'
+ht-degree: 96%
 
 ---
 
@@ -32,7 +32,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <th style="width:25%">Documentazione</th>
   </tr>
   <tr>
-   <td><strong>Importazione modelli</strong>: importa i modelli e-mail dall’editor e-mail classico per creare modelli compatibili con il nuovo E-mail designer in Design Studio.</td>
+   <td><strong>E-mail Designer - Importazione modelli</strong>: importa modelli e-mail dall'editor e-mail classico per creare modelli compatibili con il nuovo Designer e-mail in Design Studio.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
