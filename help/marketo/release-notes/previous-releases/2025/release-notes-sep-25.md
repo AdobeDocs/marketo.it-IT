@@ -2,7 +2,7 @@
 description: Note sulla versione - Settembre 2025 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2025
 feature: Release Information
-source-git-commit: 49068be70579166eaf0e90a8b2769081a873edd9
+source-git-commit: 7f56808ec26ec28065cc974716a5eab66e1d38b3
 workflow-type: tm+mt
 source-wordcount: '706'
 ht-degree: 98%
@@ -32,8 +32,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr>
    <td><strong>Conservazione dell’attività webinar on-demand</strong>: gli utenti di webinar interattivi hanno ora a disposizione i dati della dashboard dei webinar on-demand per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Implementato</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
   </tr>
   <tr>
    <td> </td>
