@@ -4,10 +4,10 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 1c4fc86d7eed3babf697b139f11707ec94443c7c
+source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '126'
+ht-degree: 70%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 **Stato**:
 
-* Informazioni sulla pianificazione: è previsto il rilascio delle funzioni e i miglioramenti alla data indicata
-* In corso: stiamo implementando le funzioni della versione
-* Spedito: rilascio completato
+* **Pianificazione** - Il rilascio delle funzionalità e dei miglioramenti è pianificato per la data indicata
+* **In corso** - È in corso il rollout delle funzionalità della versione
+* **Spedito** - Rilascio completato
 
 _Le date/funzionalità di rilascio sono soggette a modifiche_
 
@@ -33,20 +33,6 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <th width="250px">Stato</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-jan-25.md">Gennaio 2025</a></td>
-   <td>17 gennaio 2025</td>
-   <td>Spedito</td>
-  </tr>
-   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-mar-25.md">Marzo 2025</a></td>
-   <td>sabato 28 marzo 2025</td>
-   <td>Spedito</td>
-  </tr>
-  <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-apr-25.md">Aprile 2025</a></td>
-   <td>Aprile 2025</td>
-   <td>Spedito</td>
-  </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maggio 2025</a></td>
    <td>23 maggio 2025</td>
@@ -71,6 +57,10 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <td><a href="/help/marketo/release-notes/current.md">Ottobre 2025</a></td>
    <td>31 ottobre 2025</td>
    <td>In corso</td>
+  </tr>
+  <td>Gennaio '26</td>
+   <td>sabato 30 gennaio 2026</td>
+   <td>Nei tempi previsti</td>
   </tr>
  </tbody>
 </table>
