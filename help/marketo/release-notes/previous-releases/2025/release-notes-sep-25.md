@@ -2,7 +2,7 @@
 description: Note sulla versione - Settembre 2025 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2025
 feature: Release Information
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: a0c6dd9413c8ecce0d1d674d7635d57dabd2ae12
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 98%
@@ -33,7 +33,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   <tr>
    <td><strong>Conservazione dell’attività webinar on-demand</strong>: gli utenti di webinar interattivi hanno ora a disposizione i dati della dashboard dei webinar on-demand per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
    <td>Implementato</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -63,7 +63,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   <tr>
    <td><strong>E-mail designer - Flusso di lavoro di collaborazione sui contenuti</strong>: ora è possibile commentare e collaborare con gli altri utenti di Marketo all’interno di una risorsa e-mail. Assegnando tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa), questi riceveranno un’e-mail o una notifica Pulse.</td>
    <td>Implementato</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration">Collaborazione e-mail</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Collaborazione e-mail</a></td>
   </tr>
   <tr>
    <td> </td>
