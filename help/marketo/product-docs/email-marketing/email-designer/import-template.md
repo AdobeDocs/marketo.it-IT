@@ -8,48 +8,50 @@ feature: Email Designer
 badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: 316d5b59c7ea573f9246613ab3df2de86bdf4706
+source-git-commit: 3923ddfdffc21b5afd196c413bcf0ea3e2b806f5
 workflow-type: tm+mt
-source-wordcount: '723'
+source-wordcount: '759'
 ht-degree: 1%
 
 ---
 
 # Importazione modello {#template-import}
 
-Importa facilmente i modelli e-mail esistenti dall’editor classico al nuovo Designer e-mail, mantenendo le progettazioni e accelerando la creazione dei modelli con strutture familiari e riutilizzabili. Rivedi [best practice](#best-practices) e scopri [limitazioni e rimedi](#limitations-and-remedies).
+Importa facilmente i modelli e-mail esistenti dall’editor classico nel nuovo Designer e-mail, mantenendo le progettazioni e accelerando la creazione dei modelli con strutture familiari e riutilizzabili. Rivedi [best practice](#best-practices) e scopri [limitazioni e rimedi](#limitations-and-remedies).
+
+>[!NOTE]
+>
+>I classici modelli e-mail sono stati sviluppati utilizzando il freestyle HTML, quindi questo importatore potrebbe non sempre importare perfettamente ogni componente. Controlla i modelli importati per assicurarti che tutte le sezioni siano modificabili e mappate correttamente. Se non è possibile selezionare un&#39;area, ricrearla per ottenere risultati ottimali.
+
+## Importare un modello {#import-a-template}
 
 1. Passare a **Design Studio**.
 
-   SCHERMATA
+   ![](assets/import-template-1.png)
 
 1. Fai clic su **Modelli e-mail** e seleziona **Modelli e-mail (nuovi)**.
 
-   SCHERMATA
+   ![](assets/import-template-2.png)
 
 1. Fare clic su **Crea modello**.
 
-   SCHERMATA
+   ![](assets/import-template-3.png)
 
 1. Immettere un _Nome_ e (facoltativo) _Descrizione_.
 
-   SCHERMATA
+   ![](assets/import-template-4.png)
 
-1. Fai clic su **Modelli Marketo** e scegli i modelli esistenti creati nell&#39;editor e-mail classico.
+1. Fai clic sulla scheda **Modelli Marketo** e scegli uno dei modelli esistenti creati nell&#39;editor e-mail classico.
 
-   SCHERMATA
+   ![](assets/import-template-5.png)
 
    >[!NOTE]
    >
    >È possibile importare solo i modelli approvati e i modelli condivisi con l&#39;area di lavoro corrente.
 
-1. Seleziona il modello desiderato.
+1. Fare clic su **Usa questo modello**.
 
-   SCHERMATA
-
-1. Fare clic su Usa questo modello.
-
-   SCHERMATA
+   ![](assets/import-template-6.png)
 
 1. Il modello importato viene aperto in E-mail Designer.
 
@@ -61,19 +63,19 @@ Importa facilmente i modelli e-mail esistenti dall’editor classico al nuovo De
 
 1. Fai clic sul pulsante **...More** in alto e seleziona **Salva come frammento**.
 
-   SCHERMATA
+   ![](assets/import-template-7.png)
 
 1. Selezionare un componente o una struttura e fare clic su **Crea**.
 
-   SCHERMATA
+   ![](assets/import-template-8.png)
 
 1. Immettere un nome (con descrizione facoltativa) e fare clic su **Salva**.
 
-   SCHERMATA
+   ![](assets/import-template-9.png)
 
 ## Best practice {#best-practices}
 
-* Poiché il HTML freestyle può variare in modo significativo, l&#39;importatore potrebbe non sempre interpretare perfettamente ogni componente. Esamina i modelli importati per assicurarti che tutte le sezioni siano modificabili e mappate correttamente. Se una parte non è selezionabile, è sufficiente ricrearla per ottenere risultati ottimali.
+* I classici modelli e-mail sono stati sviluppati utilizzando il freestyle HTML, quindi questo importatore potrebbe non sempre importare perfettamente ogni componente. Controlla i modelli importati per assicurarti che tutte le sezioni siano modificabili e mappate correttamente. Se non è possibile selezionare un&#39;area, ricrearla per ottenere risultati ottimali.
 
 * Dopo l’importazione, puoi salvare le sezioni riutilizzabili come frammenti e approvarle per l’utilizzo da parte degli autori di e-mail. Applica i temi del brand per mantenere coerenza e conformità.
 
@@ -113,7 +115,7 @@ Importa facilmente i modelli e-mail esistenti dall’editor classico al nuovo De
   <tr>
     <td>I punti elenco non sono supportati in modalità nativa.</td>
     <td>Al momento, E-mail Designer non offre punti elenco.</td>
-    <td>Prendere in considerazione la reimplementazione dei punti elenco utilizzando tecniche alternative.</td>
+    <td>È consigliabile ricreare i punti elenco utilizzando tecniche alternative.</td>
   </tr>
   <tr>
     <td>L’allineamento verticale viene distorto se il contenuto del contenitore non rispetta il valore dell’attributo valign.</td>
@@ -143,6 +145,6 @@ Importa facilmente i modelli e-mail esistenti dall’editor classico al nuovo De
   <tr>
     <td>I frammenti nel vecchio modello non funzioneranno in E-mail Designer.</td>
     <td>E-mail Designer non supporta snippet.</td>
-    <td>Implementa nuovamente i frammenti come frammenti associati a contenuto condizionale.</td>
+    <td>Ricrea i frammenti come frammenti associati a contenuto condizionale.</td>
   </tr>
 </tbody></table>
