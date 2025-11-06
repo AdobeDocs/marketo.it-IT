@@ -6,7 +6,7 @@ description: Scopri come modificare le immagini nell’Editor e-mail di Adobe Ma
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
 workflow-type: tm+mt
 source-wordcount: '807'
 ht-degree: 1%
@@ -109,7 +109,7 @@ Le funzioni sono accessibili sul lato sinistro della pagina immagine.
 
 1. Apporta le modifiche desiderate e al termine fai clic su **Applica**.
 
-![Ridimensiona l&#39;immagine con tutte le opzioni disponibili](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
+![Ridimensiona la finestra immagine con tutte le opzioni disponibili](assets/edit-images-with-adobe-express-5.png){width="800" zoomable="yes"}
 
 <table><tbody>
   <tr>
