@@ -4,9 +4,9 @@ description: Pianificare il test A/B - Documentazione di Marketo - Documentazion
 title: Pianificare il test A/B
 exl-id: f50a00a3-da03-468a-89f8-0d31b69314c0
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 5%
 
 ---
@@ -25,35 +25,35 @@ Dopo aver aggiunto un test A/B a un programma e-mail e aver definito i criteri d
 
 1. Seleziona la data **[!UICONTROL Send Test]**.
 
-![](assets/image2014-9-12-15-3a59-3a54.png)
+![](assets/schedule-the-a-b-test-1.png)
 
 1. Selezionare l&#39;ora **[!UICONTROL Send Test]**.
 
-   ![](assets/image2014-9-12-16-3a0-3a2.png)
+   ![](assets/schedule-the-a-b-test-2.png)
 
    >[!NOTE]
    >
    >Invia vincitore test e Invia vincitore devono essere a distanza di almeno 4 ore. Tuttavia, per invii più grandi potresti voler aspettare 24 ore per avere il tempo necessario per ottenere buoni risultati.
 
-1. Eseguire la stessa operazione per **[!UICONTROL Send Winner]**. Immettere i destinatari della notifica (facoltativo) e fare clic su **[!UICONTROL Next]**.
+1. Ripeti i passaggi 1 e 2 per _Invia vincitore_. Immettere i destinatari della notifica (facoltativo) e fare clic su **[!UICONTROL Next]**.
 
    >[!NOTE]
    >
    >Solo il gruppo di test riceverà le varianti di test.
 
-   ![](assets/image2014-9-12-16-3a0-3a12.png)
+   ![](assets/schedule-the-a-b-test-3.png)
 
    >[!NOTE]
    >
    >Se hai scelto di dichiarare manualmente un vincitore, definirai **Data/ora invio report** invece di **Data/ora fine invio**.
 
-   Super! Al termine, esaminare il riepilogo e fare clic su **[!UICONTROL Close]**.
+1. Rivedere il riepilogo e fare clic su **[!UICONTROL Close]**.
 
-   ![](assets/image2014-9-12-16-3a1-3a23.png)
+   ![](assets/schedule-the-a-b-test-4.png)
 
    Noterai che la sezione **[!UICONTROL Schedule]** è ora aggiornata.
 
-   ![](assets/image2014-9-12-16-3a1-3a33.png)
+   ![](assets/schedule-the-a-b-test-5.png)
 
    >[!NOTE]
    >

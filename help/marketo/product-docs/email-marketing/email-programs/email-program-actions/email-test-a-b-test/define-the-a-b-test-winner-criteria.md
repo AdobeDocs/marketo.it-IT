@@ -4,9 +4,9 @@ description: Definire i criteri per i vincitori dei test A/B - Documentazione di
 title: Definire i criteri vincitori del test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: c80d25aeafe2314fcff1d99359ff146c88acad06
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '413'
 ht-degree: 21%
 
 ---
@@ -23,7 +23,7 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
 
 1. Le opzioni **[!UICONTROL Winner Criteria]** predefinite sono elencate per prime.
 
-   ![](assets/image2014-9-12-15-3a51-3a3.png)
+   ![](assets/define-the-a-b-test-winner-criteria-1.png)
 
    <table>
    <tr>
@@ -40,7 +40,7 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=it" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
+   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
    </tr>
    </table>
 
@@ -50,7 +50,7 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
 
 1. È inoltre possibile personalizzare i criteri selezionando **[!UICONTROL Custom Conversion]** e facendo clic su **[!UICONTROL Edit]**.
 
-   ![](assets/image2014-9-12-15-3a51-3a53.png)
+   ![](assets/define-the-a-b-test-winner-criteria-2.png)
 
    >[!NOTE]
    >
@@ -58,27 +58,25 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
 
 1. Viene visualizzata una finestra. Trova il trigger desiderato e trascinalo nell’area di lavoro.
 
-   ![](assets/image2014-9-12-15-3a52-3a18.png)
+   ![](assets/define-the-a-b-test-winner-criteria-3.png)
 
 1. Definisci il trigger.
 
-   ![](assets/image2014-9-12-15-3a53-3a11.png)
+   ![](assets/define-the-a-b-test-winner-criteria-4.png)
 
    >[!IMPORTANT]
    >
    >Marketo consente trigger/filtri solo per le persone a cui è stata inviata l’e-mail da questo programma e-mail, quindi non è necessario aggiungere un filtro &quot;E-mail inviata&quot;. Inoltre, quando utilizzi un trigger/filtro relativo alle e-mail, assicurati di utilizzare &quot;è qualsiasi&quot; come operatore.
 
-1. Fai clic su **[!UICONTROL Close]**.
+1. Chiudere la nuova finestra (o scheda) aperta. L’elenco avanzato viene salvato automaticamente.
 
-   ![](assets/image2014-9-12-15-3a53-3a36.png)
-
-   Fantastico! Ora è il momento di decidere come viene determinato il vincitore.
+Ora è il momento di decidere come viene determinato il vincitore.
 
 ## Dichiara vincitore {#declare-winner}
 
 1. Scegliete una delle due opzioni disponibili.
 
-   ![](assets/image2014-9-12-15-3a53-3a44.png)
+   ![](assets/define-the-a-b-test-winner-criteria-5.png)
 
    >[!NOTE]
    >
@@ -88,10 +86,10 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
 
 1. Automatico è fantastico ed è l&#39;opzione predefinita. Fai clic su **[!UICONTROL Next]**.
 
-   ![](assets/image2014-9-12-15-3a54-3a35.png)
+   ![](assets/define-the-a-b-test-winner-criteria-6.png)
 
    >[!TIP]
    >
    >Scegliendo **[!UICONTROL Manual]** verrà inviato il test e si attenderà la dichiarazione di un vincitore. Riceverai un rapporto sui risultati.
 
-Perfetto! Ora [pianifica il test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
+Ora [pianifica il test A/B](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/schedule-the-a-b-test.md){target="_blank"}.
