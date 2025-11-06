@@ -4,9 +4,9 @@ description: Approvare una segmentazione - Documenti Marketo - Documentazione de
 title: Approvare una segmentazione
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 2%
 
 ---
@@ -26,22 +26,23 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
 
 1. Passare a **[!UICONTROL Database]**.
 
-   ![](assets/image2017-3-28-14-3a25-3a49.png)
+   ![](assets/approve-a-segmentation-1.png)
 
 1. Nella segmentazione fare clic su **[!UICONTROL Segmentation Actions]** e quindi su **[!UICONTROL Approve]**.
 
-   ![](assets/image2017-3-28-14-3a46-3a22.png)
+   ![](assets/approve-a-segmentation-2.png)
 
    >[!NOTE]
    >
-   >Lo stato cambia in [!UICONTROL Approving] con una ruota girevole ( ![](assets/image2014-9-15-15-3a31-3a43.png)) mentre è in corso l&#39;approvazione.
+   >Lo stato cambia in _Approvazione_ mentre è in corso l&#39;approvazione.
 
    >[!CAUTION]
    >
-   >Il completamento dell&#39;approvazione può richiedere da alcuni minuti a più di un giorno, a seconda delle dimensioni del database.
+   >Il completamento dell&#39;approvazione può richiedere da alcuni minuti a uno o due giorni, a seconda delle dimensioni del database.
 
-   Una volta approvato, [!UICONTROL Status] cambia da [!UICONTROL Approving] a [!UICONTROL Approved].
-   ![](assets/image2017-3-28-14-3a46-3a44.png)
+1. Una volta approvato, [!UICONTROL Status] cambia da [!UICONTROL Approving] a [!UICONTROL Approved].
+
+   ![](assets/approve-a-segmentation-3.png)
 
    >[!TIP]
    >
@@ -49,7 +50,7 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
 
 1. La scheda **[!UICONTROL People]** in **[!UICONTROL Segment]** ora mostra l&#39;elenco finale delle persone per il segmento.
 
-   ![](assets/image2017-3-28-14-3a47-3a10.png)
+   ![](assets/approve-a-segmentation-4.png)
 
 >[!CAUTION]
 >

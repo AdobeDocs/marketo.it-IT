@@ -4,9 +4,9 @@ description: Creare una segmentazione - Documentazione di Marketo - Documentazio
 title: Creare una segmentazione
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
@@ -17,11 +17,11 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
 1. Vai a **[!UICONTROL Database]**.
 
-   ![](assets/image2017-3-28-13-3a44-3a54.png)
+   ![](assets/create-a-segmentation-1.png)
 
 1. Fare clic su **[!UICONTROL New]** e quindi su **[!UICONTROL New Segmentation]**.
 
-   ![](assets/image2017-3-28-13-3a56-3a57.png)
+   ![](assets/create-a-segmentation-2.png)
 
    >[!TIP]
    >
@@ -29,7 +29,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
 1. Immettere **[!UICONTROL Name]**, fare clic su **[!UICONTROL Add Segment]** e denominarlo.
 
-   ![](assets/image2014-9-15-10-3a1-3a1.png)
+   ![](assets/create-a-segmentation-3.png)
 
    >[!NOTE]
    >
@@ -37,7 +37,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
 1. Aggiungi tutti i segmenti che desideri (fino a 100).
 
-   ![](assets/image2014-9-15-10-3a1-3a16.png)
+   ![](assets/create-a-segmentation-4.png)
 
    >[!CAUTION]
    >
@@ -47,7 +47,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
 
 1. Trascina e rilascia i segmenti per modificarne l’ordine. Al termine, fai clic su **[!UICONTROL Create]**.
 
-   ![](assets/image2014-9-15-10-3a1-3a30.png)
+   ![](assets/create-a-segmentation-5.png)
 
    >[!NOTE]
    >
