@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 6f1b4b6478e95d6d8aa332622daf2f29dd794bfe
+source-git-commit: 4667062002f24cd4f09aed3f747d82cd003351f6
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1272'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Sfruttando la tecnologia di intelligenza artificiale generativa, il convertitore
 >[!PREREQUISITES]
 >
 >* Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
->* È necessario avere _Nome accesso_ e le autorizzazioni _Modello posta elettronica di accesso_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Conversione di un’immagine {#convert-an-image}
 
@@ -46,14 +46,6 @@ Per convertire un’immagine in un modello e-mail di HTML completamente personal
 1. Immettere un _nome modello_ e una descrizione facoltativa. Inoltre, è possibile scegliere lo stile del brand. Carica o trascina l’immagine desiderata.
 
    ![](assets/image-to-html-3.png)
-
-   DEEPTHI POSSO DELETE QUESTO TAG DI AVVERTENZA...
-
-   >[!CAUTION]
-   >
-   >Quando carichi un&#39;immagine per la conversione, **tutto il contenuto attualmente aggiunto nell&#39;e-mail verrà eliminato e sostituito** con il modello generato. Se nell’e-mail è presente del contenuto, assicurati di salvarlo prima di procedere con la conversione dell’immagine.
-
-   DEEPTHI POSSO USARE QUESTO TAG DI AVVERTENZA PER DELETE^^^
 
 1. Scorrere verso il basso e selezionare la casella di controllo _Il file di caricamento non contiene..._. Fare clic su **Converti**.
 
