@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
 workflow-type: tm+mt
 source-wordcount: '730'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <th style="width:25%">Documentazione</th>
   </tr>
   <tr>
-   <td><strong>E-mail Designer - Importazione modelli (Beta)</strong>: importa modelli e-mail dall'editor e-mail classico per creare modelli compatibili con il nuovo Designer e-mail in Design Studio.</td>
+   <td><strong>E-mail designer - Importazione modelli (Beta)</strong>: importa i modelli e-mail dall’editor e-mail classico per creare modelli compatibili con il nuovo E-mail designer in Design Studio.</td>
    <td>Implementato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importazione modello</a></td>
   </tr>
@@ -95,7 +95,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 ## Annunci {#announcements}
 
-* **Aggiornamento integrazione CRM Salesforce**: una nuova versione dell&#39;integrazione CRM nativa verrà distribuita alle sandbox attive in cui è abilitato il connettore nativo nel corso di sette giorni, a partire dal 13 novembre 2025. Ottieni dettagli completi in [questo post nazione](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
+* **Aggiornamento dell’integrazione CRM Salesforce**: una nuova versione dell’integrazione CRM nativa verrà implementata nelle sandbox attive in cui è abilitato il connettore nativo. L’implementazione avverrà a partire dal 13 novembre 2025, e sarà completata entro sette giorni. Per tutti i dettagli, consulta [questo post di Nation](https://nation.marketo.com/t5/product-blogs/salesforce-crm-integration-upgrade/ba-p/358702){target="_blank"}
 
 * **Deprecazione della doppia barra nell’API REST**: il 16 settembre 2025 Adobe è passato a un’infrastruttura di hosting più moderna per gli URL delle API REST che sfrutta la tecnologia più recente, aggiungendo sicurezza e scalabilità. Se il tuo abbonamento utilizza API con una doppia barra (//) nell’URL, consulta [questo post di Nation](https://nation.marketo.com/t5/product-blogs/rest-api-double-slash-deprecation/ba-p/358616){target="_blank"} per i passaggi successivi.
 
