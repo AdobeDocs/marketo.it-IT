@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: a53178021f3abdbfc5e1cdff76bc1f0483c4b887
+source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 99%
 
 ---
@@ -43,8 +43,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail designer - Contenuto condizionale</strong>: funzione di parità per il nuovo E-mail designer, che estende la personalizzazione delle e-mail oltre l’utilizzo dei token.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Implementato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenuto condizionale</a></td>
   </tr>
   <tr>
   <tr>
