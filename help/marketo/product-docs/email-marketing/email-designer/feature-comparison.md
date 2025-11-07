@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '883'
 ht-degree: 11%
 
 ---
@@ -226,12 +226,6 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Trascina e rilascia frammento</td>
   </tr>
   <tr>
-    <td>Temi globali</td>
-    <td>Possibilità di applicare temi approvati all’interno dell’organizzazione per garantire la coerenza di elementi come stile, colore, dimensione del font e così via.</td>
-    <td>Non disponibile</td>
-    <td>Disponibile a breve</td>
-  </tr>
-  <tr>
     <td>Contenuto dinamico/Contenuto condizionale</td>
     <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">creare varianti</a> nelle e-mail in base al pubblico di destinazione.</td>
     <td>Disponibile</td>
@@ -239,9 +233,9 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   </tr>
   <tr>
     <td>Immagine per HTML</td>
-    <td>Possibilità di convertire un’immagine in HTML da utilizzare per la creazione di e-mail.</td>
+    <td>Possibilità di <a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">convertire un'immagine in HTML</a> da utilizzare per la creazione di e-mail.</td>
     <td>Non disponibile</td>
-    <td>Disponibile a breve</td>
+    <td>Disponibile</td>
   </tr>
   <tr>
     <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
@@ -264,6 +258,12 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
   <tr>
     <td>Kit del marchio</td>
     <td>Possibilità di migliorare le e-mail in linea con le linee guida del brand.</td>
+    <td>Non disponibile</td>
+    <td>Disponibile a breve</td>
+  </tr>
+  <tr>
+    <td>Temi globali</td>
+    <td>Possibilità di applicare temi approvati all’interno dell’organizzazione per garantire la coerenza di elementi come stile, colore, dimensione del font e così via.</td>
     <td>Non disponibile</td>
     <td>Disponibile a breve</td>
   </tr>

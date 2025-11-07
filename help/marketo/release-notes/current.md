@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: fdd1cc80d215fc7dee484a9e7b9fa640a47c4519
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '730'
 ht-degree: 99%
 
 ---
@@ -47,6 +47,25 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenuto condizionale</a></td>
   </tr>
   <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+ <tr>
+   <td><strong>E-mail designer - Convertitore da immagine a HTML</strong>: carica un file immagine PNG/JPEG conforme di un’e-mail che verrà automaticamente convertito in HTML da utilizzare nel nuovo E-mail designer.</td>
+   <td>Implementato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Conversione di immagini in modelli HTML</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail designer - Azione Clona e-mail</strong>: ora puoi clonare un’e-mail in un’altra cartella di programmi nelle attività di marketing e riutilizzare rapidamente le e-mail esistenti.</td>
+   <td>Spedito</td>
+   <td>n/d</td>
+  </tr>
   <tr>
    <td> </td>
    <td> </td>
@@ -58,7 +77,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td><i>Disponibile a breve</i></td>
   </tr>
   <tr>
-  <tr>
    <td> </td>
    <td> </td>
    <td> </td>
@@ -67,27 +85,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td><strong>E-mail designer - Temi brand</strong>: ora puoi definire i temi del brand in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
- <tr>
-   <td><strong>E-mail designer - Convertitore da immagine a HTML</strong>: carica un file immagine PNG/JPEG conforme di un’e-mail che verrà automaticamente convertito in HTML da utilizzare nel nuovo E-mail designer.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-mail designer - Azione Clona e-mail</strong>: ora puoi clonare un’e-mail in un’altra cartella di programmi nelle attività di marketing e riutilizzare rapidamente le e-mail esistenti.</td>
-   <td>Spedito</td>
-   <td>n/d</td>
   </tr>
   </tbody>
 </table>

@@ -5,9 +5,7 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-hidefromtoc: true
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
 workflow-type: tm+mt
 source-wordcount: '1277'
 ht-degree: 1%
@@ -25,7 +23,7 @@ Sfruttando la tecnologia di intelligenza artificiale generativa, il convertitore
 >[!PREREQUISITES]
 >
 >* Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
->* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Conversione di un’immagine {#convert-an-image}
 
