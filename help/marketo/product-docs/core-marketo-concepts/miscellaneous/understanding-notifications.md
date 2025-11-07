@@ -3,7 +3,7 @@ unique-page-id: 2952292
 description: Notifiche - Documentazione di Marketo - Documentazione del prodotto
 title: Informazioni sulle notifiche
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 759d79fd932924b68ae2727b36cd1b9fb3b7a278
+source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 2%
@@ -28,7 +28,7 @@ Le notifiche ti mantengono aggiornato sugli eventi di sistema che si verificano 
 
 Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
-1. Nella schermata _Notifiche_ fare clic su **[!UICONTROL Subscribe]**.
+1. Nella schermata _Notifiche_, fare clic su **[!UICONTROL Subscribe]**.
 
    ![](assets/understanding-notifications-3.png)
 
@@ -38,7 +38,7 @@ Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
 >[!NOTE]
 >
->La casella **[!UICONTROL Send to]** consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
+>La casella _[!UICONTROL Send to]_consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
 
 In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo Engage conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, riceverai un errore 404.
 
