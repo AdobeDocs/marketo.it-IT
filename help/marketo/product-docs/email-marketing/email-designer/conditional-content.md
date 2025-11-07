@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 6f2d3256f3422f1c5054dfd87db3e31c862724a5
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 3%
@@ -26,15 +26,15 @@ Il contenuto condizionale consente di controllare dinamicamente il contenuto vis
 
 1. Apri l&#39;e-mail desiderata e fai clic su **Modifica contenuto e-mail**.
 
-   ![](assets/conditional-content-1.png){width="800" zoomable="yes"}
+   ![](assets/conditional-content-1.png)
 
 1. Seleziona il contenuto da rendere condizionale (in questo esempio, stiamo scegliendo l’immagine dell’intestazione). Fare clic sull&#39;icona _Abilita contenuto condizionale_.
 
    ![](assets/conditional-content-2.png)
 
-1. La scatola diventa arancione. A sinistra, fai clic sull&#39;icona _Seleziona condizione_ () per definire la variante.
+1. La scatola diventa arancione. A sinistra, fai clic sull&#39;icona _Seleziona condizione_ per definire la variante.
 
-   ![](assets/conditional-content-3.png)
+   ![](assets/conditional-content-3.png){width="700" zoomable="yes"}
 
 1. Scegli il segmento desiderato e fai clic su **Seleziona**.
 
@@ -46,11 +46,11 @@ Il contenuto condizionale consente di controllare dinamicamente il contenuto vis
 
 1. Scegli l&#39;immagine applicabile e fai clic su **Seleziona**.
 
-   ![](assets/conditional-content-6.png)
+   ![](assets/conditional-content-6.png){width="600" zoomable="yes"}
 
 1. Viene visualizzata la nuova immagine. È consigliabile rinominare la variante per facilitarne l’identificazione.
 
-   ![](assets/conditional-content-7.png)
+   ![](assets/conditional-content-7.png){width="600" zoomable="yes"}
 
 1. Per aggiungere altre varianti (facoltativo), fai clic su **Aggiungi variante** e segui gli stessi passaggi.
 
