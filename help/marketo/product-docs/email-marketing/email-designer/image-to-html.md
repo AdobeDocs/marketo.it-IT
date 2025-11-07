@@ -5,9 +5,9 @@ solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
 workflow-type: tm+mt
-source-wordcount: '1277'
+source-wordcount: '1281'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Sfruttando la tecnologia di intelligenza artificiale generativa, il convertitore
 >[!PREREQUISITES]
 >
 >* Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
->* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Conversione di un’immagine {#convert-an-image}
 
@@ -53,7 +53,7 @@ Per convertire un’immagine in un modello e-mail di HTML completamente personal
    >
    >Il processo di generazione può richiedere fino a cinque minuti a seconda della complessità e delle dimensioni del progetto dell&#39;immagine. L’elaborazione basata su IA avviene in background, per consentirti di allontanarti da questa schermata e lavorare su altre attività mentre la conversione è in corso. Potrebbe essere necessario aggiornare la schermata della libreria del _modello e-mail_ per visualizzare il cambiamento di stato.
 
-1. Una volta completata la conversione, il modello viene salvato automaticamente come bozza. Selezionala..
+1. Una volta completata la conversione, il modello viene salvato automaticamente come bozza. Fai clic sul nome per visualizzarlo o modificarlo.
 
    ![](assets/image-to-html-5.png)
 
