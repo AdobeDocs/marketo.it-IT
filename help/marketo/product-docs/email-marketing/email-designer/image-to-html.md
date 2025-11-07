@@ -23,7 +23,7 @@ Sfruttando la tecnologia di intelligenza artificiale generativa, il convertitore
 >[!PREREQUISITES]
 >
 >* Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
->* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Conversione di un’immagine {#convert-an-image}
 
