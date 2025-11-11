@@ -33,8 +33,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail designer - Importazione modelli (Beta)</strong>: importa i modelli e-mail dall’editor e-mail classico per creare modelli compatibili con il nuovo E-mail designer in Design Studio.</td>
-   <td>Implementato</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importazione modello</a></td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importazione di modelli</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -43,7 +43,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail designer - Contenuto condizionale</strong>: funzione di parità per il nuovo E-mail designer, che estende la personalizzazione delle e-mail oltre l’utilizzo dei token.</td>
-   <td>Implementato</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md" target="_blank">Contenuto condizionale</a></td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
  <tr>
    <td><strong>E-mail designer - Convertitore da immagine a HTML</strong>: carica un file immagine PNG/JPEG conforme di un’e-mail che verrà automaticamente convertito in HTML da utilizzare nel nuovo E-mail designer.</td>
-   <td>Implementato</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Conversione di immagini in modelli HTML</a></td>
   </tr>
   <tr>
