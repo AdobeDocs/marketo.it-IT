@@ -5,9 +5,9 @@ title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
 source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '126'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -19,9 +19,9 @@ ht-degree: 70%
 
 **Stato**:
 
-* **Pianificazione** - Il rilascio delle funzionalità e dei miglioramenti è pianificato per la data indicata
-* **In corso** - È in corso il rollout delle funzionalità della versione
-* **Spedito** - Rilascio completato
+* **Secondo pianificazione**: il rilascio delle funzioni e dei miglioramenti è previsto per la data indicata
+* **In corso**: stiamo implementando le funzioni della versione
+* **Rilasciato**: rilascio completato
 
 _Le date/funzionalità di rilascio sono soggette a modifiche_
 
@@ -36,31 +36,31 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Maggio 2025</a></td>
    <td>23 maggio 2025</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Luglio 2025</a></td>
    <td>sabato 11 luglio 2025</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">Agosto 2025</a></td>
    <td>22 agosto 2025</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">Settembre 2025</a></td>
    <td>19 settembre 2025</td>
-   <td>Implementato</td>
+   <td>Rilasciato</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Ottobre 2025</a></td>
    <td>31 ottobre 2025</td>
    <td>In corso</td>
   </tr>
-  <td>Gennaio '26</td>
-   <td>sabato 30 gennaio 2026</td>
-   <td>Nei tempi previsti</td>
+  <td>Gennaio 2026</td>
+   <td>30 gennaio 2026</td>
+   <td>Secondo pianificazione</td>
   </tr>
  </tbody>
 </table>
