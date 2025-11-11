@@ -1,16 +1,16 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITOLO
-description: DESCRIZIONE.
+title: Temi del brand
+description: Scopri come creare e gestire le linee guida per il brand.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
+source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
 workflow-type: tm+mt
-source-wordcount: '1226'
+source-wordcount: '1201'
 ht-degree: 0%
 
 ---
@@ -81,17 +81,13 @@ Al termine della modifica, fai clic sulla freccia indietro (![icona freccia indi
 
 Per modificare una variante, fai clic sulla relativa icona a forma di matita.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-9.png)
 
 >[!NOTE]
 >
 >Puoi creare fino a sei varianti.
 
-Sono disponibili più elementi da personalizzare.
-
-![](assets/brand-themes-.png)
-
-Le impostazioni delle varianti sono raggruppate nelle seguenti categorie:
+Sono disponibili più elementi da personalizzare. Le impostazioni delle varianti sono raggruppate nelle seguenti categorie:
 
 * Generale
 * Intestazioni
@@ -102,55 +98,49 @@ Le impostazioni delle varianti sono raggruppate nelle seguenti categorie:
 
 Queste impostazioni consentono di impostare i colori per il corpo, le strutture, gli sfondi, i contenitori, le immagini e altro ancora.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-10.png)
 
 **Intestazione**
 
 Impostare i colori del testo e del bordo di ciascun tipo di intestazione, da Titolo 1 a Titolo 6.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-11.png)
 
 **Paragrafo**
 
 Consente di impostare i colori del testo e dei bordi fino a un massimo di tre tipi di paragrafo.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-12.png)
 
 **Pulsanti**
 
 Impostare il colore di riempimento, bordo e testo per tre diversi tipi di pulsanti: Primario, Secondario e Terziario.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-13.png)
 
 ### Impostazioni testo {#text-settings}
 
 Impostare tipi e dimensioni di carattere per i paragrafi, le intestazioni e i caratteri globali.
 
-![](assets/brand-themes-.png)
+![](assets/brand-themes-14.png)
 
 **Globale**
 
-In Impostazioni globali testo scegliere Libreria moduli tra le librerie dei caratteri Standard e Google.
+Scegli tra le librerie di font Standard o Google e le rispettive famiglie di font.
 
-![](assets/brand-themes-.png)
-
-In Standard scegliere una famiglia di caratteri diversa.
-
-![](assets/brand-themes-.png)
-
-Analogamente, in Google Fonts vengono visualizzate le opzioni per scegliere tra i font supportati rispettivamente.
+![](assets/brand-themes-15.png)
 
 **Intestazioni**
 
-Qui puoi impostare la libreria font, la famiglia, le dimensioni, lo stile del testo e gli allineamenti del testo per i diversi tipi di intestazione.
+Consente di impostare la libreria dei tipi di carattere, la famiglia, le dimensioni, lo stile e gli allineamenti del testo per i diversi tipi di intestazione.
 
-SCHERMATA
+![](assets/brand-themes-16.png)
 
 **Paragrafi**
 
-Qui puoi impostare la libreria font, la famiglia, le dimensioni, lo stile del testo e gli allineamenti del testo per i diversi predefiniti di paragrafo.
+Impostate la libreria font, la famiglia, le dimensioni, lo stile e gli allineamenti di testo per i diversi predefiniti di paragrafo.
 
-SCHERMATA
+![](assets/brand-themes-17.png)
 
 ### Spaziatura e bordo {#spacing-and-border}
 
