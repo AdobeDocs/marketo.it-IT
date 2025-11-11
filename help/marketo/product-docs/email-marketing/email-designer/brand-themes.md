@@ -8,9 +8,9 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 6ff95c8c3b59239586982b10996e18e942509f8d
 workflow-type: tm+mt
-source-wordcount: '1365'
+source-wordcount: '1226'
 ht-degree: 0%
 
 ---
@@ -25,132 +25,134 @@ Questa funzione consente agli addetti al marketing di sfruttare le e-mail visiva
 
 * Quando crei un’e-mail da zero, puoi scegliere di iniziare a creare i contenuti utilizzando un tema per applicare rapidamente uno stile specifico che si adatta al tuo marchio e design. Se scegli la modalità classica, non potrai applicare alcun tema a meno che non reimposti l’e-mail.
 
-* I frammenti non sono compatibili tra le modalità Tema e Classico. Per poter utilizzare un frammento in un contenuto in cui viene applicato un tema, è necessario creare il frammento in modalità Tema.
+* I frammenti non sono compatibili tra le modalità Tema e Classico. Per poter utilizzare un frammento in un contenuto in cui viene applicato un tema, è necessario crearlo in modalità Tema.
 
-* L’aggiornamento dei temi non si estenderà automaticamente a cascata a tutte le risorse che li utilizzano. Gli utenti devono modificare i singoli oggetti per aggiornare il tema.
+* L’aggiornamento di un tema non si propaga automaticamente a catena a tutte le risorse che lo utilizzano. Per aggiornare il tema, è necessario modificare singoli oggetti.
 
-* Quando i temi vengono eliminati, non influisce sulle risorse che li utilizzano.
+* L’eliminazione dei temi non influisce sulle risorse che li utilizzano.
 
-## Creazione di temi del brand
+## Creare un tema del marchio {#create-a-brand-theme}
 
-La creazione di temi del brand è disponibile nel pannello di selezione dei modelli all’interno dell’editor. Puoi accedere a questo pannello durante la creazione di un nuovo modello o in Modifica progettazione dall’interno dell’editor.
+1. Segui i passaggi per [creare un modello di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-SCHERMATA
+1. Nella schermata _Progetta modello_, seleziona **Crea o modifica temi**.
 
-Fai clic su Cambia progettazione.
+   ![](assets/brand-themes-1.png)
 
-SCHERMATA
+1. Seleziona il tema predefinito come base da creare e fai clic su **Crea**.
 
-Fai clic su Crea o modifica temi
+   ![](assets/brand-themes-2.png)
 
-SCHERMATA
+1. L’area di lavoro consente di modificare diverse parti del tema.
 
-Seleziona il tema predefinito come base da creare e fai clic su Crea. Il tema conterrà elementi di tutti i tipi di testo, pulsanti e contenitori, in modo che le modifiche vengano visualizzate durante l&#39;impostazione del tema.
+   ![](assets/brand-themes-3.png)
 
-Nota: è possibile modificare i temi esistenti utilizzando il pulsante di opzione Temi personalizzati.
+## Impostazioni
 
-SCHERMATA
+Tutte le opzioni di impostazione sono accessibili tramite le icone sulla destra. Esaminiamone ognuna.
 
-L’area di lavoro consente di modificare diverse parti del tema.
-
-SCHERMATA
+![](assets/brand-themes-4.png)
 
 ### Impostazioni generali {#general-settings}
 
 Denomina il tema e regola la dimensione del riquadro di visualizzazione.
 
-SCHERMATA
+![](assets/brand-themes-5.png)
 
-### Impostazioni colore {#color-settings}
+### Colori {#colors}
 
-Quindi, regola la palette di colori sulla barra a destra.
+Quando apportate modifiche ai colori, osservate le modifiche che hanno effetto sul pannello principale.
 
-Nota: quando apportate modifiche, osservate che le modifiche hanno effetto sul pannello principale.
+![](assets/brand-themes-6.png)
 
-SCHERMATA
+>[!NOTE]
+>
+>È già configurato un set di campioni in base al tema predefinito.
 
-Modifica la palette di colori.
+Fai clic su **Modifica**.
 
-Tieni presente che è già stato configurato un set di campioni in base al tema predefinito.
+![](assets/brand-themes-7.png)
 
 Potete scegliere tra un predefinito o configurare singolarmente ogni colore del set. La scelta della tavolozza rende questi colori accessibili nelle diverse impostazioni dei colori in un secondo momento.
 
-SCHERMATA
+![](assets/brand-themes-8.png)
 
-Dopo aver configurato i predefiniti, fate clic sul simbolo posteriore.
+Al termine della modifica, fai clic sulla freccia indietro (![icona freccia indietro](assets/icon-back-arrow.png)) per tornare indietro.
 
-Modifica la variante successiva utilizzando il simbolo a forma di matita accanto a Variante 1.
+Per modificare una variante, fai clic sulla relativa icona a forma di matita.
 
-Nota: puoi creare fino a 6 varianti.
+![](assets/brand-themes-.png)
 
-SCHERMATA
+>[!NOTE]
+>
+>Puoi creare fino a sei varianti.
 
-Nel pannello di modifica è possibile impostare i colori per elementi diversi.
+Sono disponibili più elementi da personalizzare.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
-Le impostazioni sono raggruppate nelle seguenti intestazioni generali.
+Le impostazioni delle varianti sono raggruppate nelle seguenti categorie:
 
-Generale
-Intestazioni
-Paragrafi
-Pulsanti
+* Generale
+* Intestazioni
+* Paragrafi
+* Pulsanti
 
-### Impostazioni generali di NAME {#general-name-settings}
+**Generale**
 
-Queste impostazioni consentono di impostare i colori per il corpo, le strutture, gli sfondi, i contenitori, le griglie, le immagini e simili.
+Queste impostazioni consentono di impostare i colori per il corpo, le strutture, gli sfondi, i contenitori, le immagini e altro ancora.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
-### Intestazione {#heading}
+**Intestazione**
 
-Questa sezione è riservata al testo di tipo Titolo, in cui è possibile impostare i colori del testo e del bordo di ciascun tipo Titolo.  È possibile impostare intestazioni di 6 dimensioni di carattere.
+Impostare i colori del testo e del bordo di ciascun tipo di intestazione, da Titolo 1 a Titolo 6.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
-### Paragrafo {#paragraph}
+**Paragrafo**
 
-Questa sezione è riservata al testo di tipo Paragrafo, in cui è possibile impostare i colori del testo e del bordo di ogni tipo di paragrafo.  È possibile impostare 3 predefiniti per le impostazioni di paragrafo.
+Consente di impostare i colori del testo e dei bordi fino a un massimo di tre tipi di paragrafo.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
-### Pulsanti {#buttons}
+**Pulsanti**
 
-Questa sezione è dedicata esclusivamente ai pulsanti per il colore Riempimento, il colore Bordo e il colore Testo.  È possibile impostare 3 predefiniti di impostazioni dei pulsanti: Primario, Secondario e Terziario.
+Impostare il colore di riempimento, bordo e testo per tre diversi tipi di pulsanti: Primario, Secondario e Terziario.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
 ### Impostazioni testo {#text-settings}
 
-In questa sezione è possibile impostare i tipi di carattere e le dimensioni per Globale, Intestazioni e Paragrafi.
+Impostare tipi e dimensioni di carattere per i paragrafi, le intestazioni e i caratteri globali.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
-### Impostazioni globali del testo {#global-text-settings}
+**Globale**
 
 In Impostazioni globali testo scegliere Libreria moduli tra le librerie dei caratteri Standard e Google.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
 In Standard scegliere una famiglia di caratteri diversa.
 
-SCHERMATA
+![](assets/brand-themes-.png)
 
 Analogamente, in Google Fonts vengono visualizzate le opzioni per scegliere tra i font supportati rispettivamente.
 
-### Impostazioni del testo delle intestazioni {#heading-text-settings}
+**Intestazioni**
 
 Qui puoi impostare la libreria font, la famiglia, le dimensioni, lo stile del testo e gli allineamenti del testo per i diversi tipi di intestazione.
 
 SCHERMATA
 
-### Impostazioni testo paragrafo {#paragraph-text-settings}
+**Paragrafi**
 
 Qui puoi impostare la libreria font, la famiglia, le dimensioni, lo stile del testo e gli allineamenti del testo per i diversi predefiniti di paragrafo.
 
 SCHERMATA
 
-### Impostazioni spaziatura {#spacing-settings}
+### Spaziatura e bordo {#spacing-and-border}
 
 In questo caso, è possibile impostare la spaziatura e il margine per diversi tipi di struttura o pulsante.  Scegliere il tipo nel primo elenco a discesa, quindi continuare a impostare la spaziatura e/o il margine per l&#39;elemento. Ripetere l&#39;operazione una per una, a seconda delle necessità.
 
