@@ -8,10 +8,10 @@ feature: Email Designer
 hide: true
 hidefromtoc: true
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 2f0ac66406a0e9d077ce784f8b2492cdbe21fe30
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1201'
-ht-degree: 0%
+source-wordcount: '1097'
+ht-degree: 1%
 
 ---
 
@@ -21,17 +21,7 @@ Con i temi del brand, crea facilmente contenuti riutilizzabili che si adattano a
 
 Questa funzione consente agli addetti al marketing di sfruttare le e-mail visivamente accattivanti e coerenti con il brand in modo più rapido e con meno sforzo, fornendo al contempo opzioni di personalizzazione avanzate per esigenze di progettazione univoche.
 
-## Aspetti da considerare {#things-to-note}
-
-* Quando crei un’e-mail da zero, puoi scegliere di iniziare a creare i contenuti utilizzando un tema per applicare rapidamente uno stile specifico che si adatta al tuo marchio e design. Se scegli la modalità classica, non potrai applicare alcun tema a meno che non reimposti l’e-mail.
-
-* I frammenti non sono compatibili tra le modalità Tema e Classico. Per poter utilizzare un frammento in un contenuto in cui viene applicato un tema, è necessario crearlo in modalità Tema.
-
-* L’aggiornamento di un tema non si propaga automaticamente a catena a tutte le risorse che lo utilizzano. Per aggiornare il tema, è necessario modificare singoli oggetti.
-
-* L’eliminazione dei temi non influisce sulle risorse che li utilizzano.
-
-## Creare un tema del marchio {#create-a-brand-theme}
+## Creare un tema {#create-a-theme}
 
 1. Segui i passaggi per [creare un modello di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
@@ -47,7 +37,7 @@ Questa funzione consente agli addetti al marketing di sfruttare le e-mail visiva
 
    ![](assets/brand-themes-3.png)
 
-## Impostazioni
+## Impostazioni {#settings}
 
 Tutte le opzioni di impostazione sono accessibili tramite le icone sulla destra. Esaminiamone ognuna.
 
@@ -144,214 +134,263 @@ Impostate la libreria font, la famiglia, le dimensioni, lo stile e gli allineame
 
 ### Spaziatura e bordo {#spacing-and-border}
 
-In questo caso, è possibile impostare la spaziatura e il margine per diversi tipi di struttura o pulsante.  Scegliere il tipo nel primo elenco a discesa, quindi continuare a impostare la spaziatura e/o il margine per l&#39;elemento. Ripetere l&#39;operazione una per una, a seconda delle necessità.
+È possibile scegliere tra più strutture diverse e personalizzarne il margine, la spaziatura o il bordo.
 
-SCHERMATA
+![](assets/brand-themes-18.png)
 
-I tipi di strutture sono i seguenti:
+Nell’esempio seguente, stiamo personalizzando un Contenitore.
 
-SCHERMATA
+**Margini**
 
-Le impostazioni di un elemento di esempio, ad esempio Contenitore.
+![](assets/brand-themes-19.png)
 
-Margini
+**Spaziatura interna**
 
-SCHERMATA
+![](assets/brand-themes-20.png)
 
-Riempimento
+**Angoli**
 
-SCHERMATA
+![](assets/brand-themes-21.png)
 
-Angoli
-
-SCHERMATA
-
-Bordi
+**Bordi**
 
 Attiva il bordo per visualizzare le opzioni di impostazione di dimensioni, stile e posizione.
 
-SCHERMATA
+![](assets/brand-themes-22.png)
 
-Opzioni per gli stili
+Di seguito sono riportati alcuni esempi visivi di modifica dello stile del bordo.
 
-SCHERMATA
+<table><thead>
+  <tr>
+    <th>Tipo</th>
+    <th>Impostazione di dimensioni e stile</th>
+    <th>Effetto</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Tratteggiato</td>
+    <td><img src="assets/brand-themes-23a.png"></td>
+    <td><img src="assets/brand-themes-23b.png"></td>
+  </tr>
+  <tr>
+    <td>Punteggiato</td>
+    <td><img src="assets/brand-themes-24a.png"></td>
+    <td><img src="assets/brand-themes-24b.png"></td>
+  </tr>
+  <tr>
+    <td>Solido</td>
+    <td><img src="assets/brand-themes-25a.png"></td>
+    <td><img src="assets/brand-themes-25b.png"></td>
+  </tr>
+</tbody></table>
 
-Alcuni esempi per l&#39;effetto degli stili sulla casella
+Regola i lati del bordo da mostrare o nascondere. Nell&#39;esempio seguente, il bordo superiore è nascosto.
 
-```
-TABLE
-
-Type
-
-Size and Style setting
-
-Effect
-
-Dashed
-
-Dotted
-
-Solid
-```
-
-Regola se il bordo viene visualizzato o nascosto utilizzando la posizione del bordo
-
-Esempio: Top è nascosto nell’esempio seguente.
-
-```
-TABLE
-
-Position setting
-
-Effect
-```
-
-Ripetere le impostazioni per l&#39;impostazione dei tipi di margini, riquadri, angoli e bordi per i diversi tipi di strutture.
+<table><thead>
+  <tr>
+    <th>Impostazione della posizione</th>
+    <th>Effetto</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td><img src="assets/brand-themes-26a.png"></td>
+    <td><img src="assets/brand-themes-26b.png"></td>
+  </tr>
+</tbody></table>
 
 ### Impostazioni dei pulsanti {#button-settings}
 
-In questa sezione è possibile impostare elementi diversi per i pulsanti (diversi dal colore), ad esempio la forma, il raggio, il testo e le dimensioni. È possibile impostarli per 3 predefiniti: Principale, Secondario e Terziario.
+Impostare elementi non di colore per i pulsanti, ad esempio forma, raggio, testo e dimensione. I tre predefiniti sono: Primario, Secondario e Terziario.
 
-SCHERMATA
+![](assets/brand-themes-27.png)
 
-```
-TABLE
+<table><thead>
+  <tr>
+    <th>Impostazione</th>
+    <th>Descrizione</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Bordo &gt; Raggio bordo</td>
+    <td>Curvatura angolo bordo pulsante</td>
+  </tr>
+  <tr>
+    <td>Bordo &gt; Dimensione bordo </td>
+    <td>Spessore bordo pulsante</td>
+  </tr>
+  <tr>
+    <td>Bordo &gt; Stile bordo</td>
+    <td>Stile bordo pulsante (tratteggiato, solido, punteggiato, ecc.)</td>
+  </tr>
+  <tr>
+    <td>Principale/Secondaria/Terziaria</td>
+    <td>Consente impostazioni per tre predefiniti di configurazioni di pulsanti</td>
+  </tr>
+  <tr>
+    <td>SIZE &gt; Height</td>
+    <td>Impostazione dell'altezza del pulsante</td>
+  </tr>
+  <tr>
+    <td>SIZE &gt; Width</td>
+    <td>Impostazione della larghezza del pulsante</td>
+  </tr>
+  <tr>
+    <td>Testo &gt; Famiglia font</td>
+    <td>Scelta della famiglia di caratteri per il testo del pulsante</td>
+  </tr>
+  <tr>
+    <td>Testo &gt; Libreria caratteri</td>
+    <td>Selezione della libreria di caratteri per il testo del pulsante</td>
+  </tr>
+  <tr>
+    <td>Testo &gt; Dimensione carattere</td>
+    <td>Dimensione font per il testo del pulsante</td>
+  </tr>
+  <tr>
+    <td>Testo &gt; Allineamento testo</td>
+    <td>Allineamento per il testo del pulsante</td>
+  </tr>
+  <tr>
+    <td>Testo &gt; Stili di testo</td>
+    <td>Stile testo (grassetto, corsivo, sottolineato, barrato) per il testo del pulsante</td>
+  </tr>
+</tbody></table>
 
-Primary/Secondary/Tertiary    Allows settings for 3 presets of button configurations
-Text > Font Library    Font library choice for button text
-Text > Font family    Font family choice for button text
-Text > Font size    Font size for button text
-Text > Text styles    Text style (bold, italicized, underlined, strikethrough) for button text
-Text > Text alignment    Alignment for button text
-Border> Border size     Button border thickness
-Border> Border style    Button border style (dashed, solid, dotted, etc.)
-Border> Border radius    Button border corner curvature
-SIZE > Height    Height setting for the button
-SIZE > Width    Width setting for the button
-```
+### Divisore {#divider}
 
-### Impostazioni divisore {#divider-settings}
+Impostare il tipo di linea e le impostazioni del contenitore per il divisore.
 
-In questo caso, è possibile impostare il tipo di linea e le impostazioni del contenitore per il divisore.
-
-SCHERMATA
+![](assets/brand-themes-28.png)
 
 ### Impostazioni griglia {#grid-settings}
 
-Utilizzare lo spazio vuoto Colonne per controllare la spaziatura nelle griglie.
+Utilizza _Spazio colonne_ per controllare la spaziatura nelle griglie.
 
-```
-TABLE
-```
+![](assets/brand-themes-29.png)
 
-Al termine, fai clic su Salva.
+<table><tbody>
+  <tr>
+    <td><img src="assets/brand-themes-30a.png"></td>
+    <td><img src="assets/brand-themes-30b.png"></td>
+  </tr>
+ <tr>
+    <td><img src="assets/brand-themes-31a.png"></td>
+    <td><img src="assets/brand-themes-31b.png"></td>
+  </tr>
+</tbody></table>
 
-SCHERMATA
+Al termine, fai clic su **Salva**.
 
-## Modifica dei temi dei marchi {#editing-brand-themes}
+![](assets/brand-themes-32.png)
 
-La creazione di temi del brand è disponibile nel pannello di selezione dei modelli all’interno dell’editor. Puoi accedere a questo pannello durante la creazione di un nuovo modello o in Modifica progettazione dall’interno dell’editor.
+## Modifica un tema esistente {#edit-a-brand-theme}
 
-SCHERMATA
+1. Segui i passaggi per [creare un modello di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template).
 
-Fai clic su Cambia progettazione.
+1. Nella schermata _Progetta modello_, seleziona **Crea o modifica temi**.
 
-SCHERMATA
+   ![](assets/brand-themes-33.png)
 
-Fai clic su Crea o modifica temi
+1. Fai clic sulla scheda **I miei temi**.
 
-SCHERMATA
+   ![](assets/brand-themes-34.png)
 
-Selezionare Temi personalizzati per visualizzare l&#39;elenco dei temi personalizzati creati nell&#39;organizzazione. Scegli un tema e fai clic su Modifica.
+1. Seleziona il tema desiderato. Il pulsante _Crea_ diventa un pulsante _Modifica_. Fai clic su **Modifica**.
 
-SCHERMATA
+   ![](assets/brand-themes-35.png)
 
-Ora l’area di lavoro è aperta per la modifica.
+1. L’area di lavoro si apre per la modifica. Apporta le modifiche desiderate nelle opzioni disponibili in **[Impostazioni](#settings)**.
 
-SCHERMATA
-
-Modificare le impostazioni nelle sezioni del riquadro di destra.
-
-SCHERMATA
-
-Al termine, fai clic su Salva.
-
-SCHERMATA
+>[!TIP]
+>
+>Ricorda di salvare il tuo lavoro!
 
 ## Utilizzo dei temi del marchio {#using-brand-themes}
 
-I temi del brand creati/modificati sono pronti per essere utilizzati nelle risorse e-mail, modelli e frammenti di e-mail.
+Sfrutta i temi per e-mail, modelli e frammenti di e-mail.
 
-Adobe Marketo Engage: i temi del brand creati/modificati sono pronti per essere utilizzati nelle risorse e-mail, modelli e frammenti di e-mail create utilizzando il nuovo editor e-mail.
-
-Puoi creare strutture e componenti nell’editor e applicare qualsiasi tema del brand e qualsiasi sua variante.
+Puoi creare strutture e componenti nell’editor e applicare qualsiasi tema del brand e le relative varianti.
 
 ### Nelle e-mail {#in-your-emails}
 
-Crea e-mail/modelli e-mail da zero
+1. Segui i passaggi per [creare un&#39;e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#create-an-email).
 
-* Inizia con &quot;Crea e-mail&quot;/ &quot;Crea modello e-mail&quot;, seleziona l’opzione &quot;Progetta da zero&quot;
+1. Dopo la creazione, fai clic su **Modifica contenuto e-mail**.
 
-* Nel modale visualizzato, seleziona &#39;Usa temi&#39;
+   ![](assets/brand-themes-36.png)
 
-SCHERMATA
+1. Seleziona **Progettazione da zero**.
 
-Nota: solo l’e-mail creata da questa opzione potrà sfruttare i temi del brand definiti nella sezione precedente
+   ![](assets/brand-themes-37.png)
 
-* Questa nuova opzione viene visualizzata sulla barra laterale destra, che consente di utilizzare i temi del brand nell’e-mail
+1. Seleziona **Usa temi** (dovrebbe essere selezionato per impostazione predefinita) e fai clic su **Conferma**.
 
-SCHERMATA
+   ![](assets/brand-themes-38.png)
 
-* Puoi scegliere tra temi Adobe o temi personalizzati creati per i tuoi marchi
+>[!NOTE]
+>
+>Solo le e-mail create con questa opzione potranno sfruttare i temi del brand definiti.
 
-SCHERMATA
+1. Fai clic sull&#39;icona _Temi_ nella barra laterale destra.
 
-* Progetta il contenuto delle e-mail nell’area di lavoro e seleziona un tema da applicare al contenuto
+   ![](assets/brand-themes-39.png)
 
-* Un messaggio e-mail può contenere un solo tema del marchio
+1. Seleziona uno dei temi o dei temi Adobe già creati.
 
-* Per qualsiasi componente creato in questa risorsa, puoi applicare una qualsiasi delle opzioni di stile disponibili nel tema dalla scheda Stili nel riquadro a destra
+   ![](assets/brand-themes-40.png)
 
-* ad esempio, un CTA può essere configurato come primario/secondario/terziario
+   >[!NOTE]
+   >
+   >* Progetta il contenuto delle e-mail nell’area di lavoro e seleziona un tema da applicare al contenuto.
+   >* Un’e-mail può contenere un solo tema del brand.
+   >* Per qualsiasi componente creato in questa risorsa, puoi applicare una qualsiasi delle opzioni di stile disponibili nel tema dalla scheda Stili nel riquadro a destra (ad esempio, un call-to-action può essere configurato come primario/secondario/terziario).
 
-SCHERMATA
+1. Implementa le progettazioni desiderate. Ad esempio, è possibile selezionare un componente testo per applicare uno stile di intestazione/paragrafo come definito nel tema.
 
-* Ad esempio, è possibile selezionare un componente testo per applicare uno stile titolo/paragrafo come definito nel tema
+   ![](assets/brand-themes-41.png)
 
-SCHERMATA
+   >[!NOTE]
+   >
+   >La scheda Stile si presenta diversamente da un messaggio e-mail di stile manuale tradizionale, in cui è disponibile una maggiore libertà creativa per assegnare uno stile a un componente.
 
-* Ora la scheda &quot;Stile&quot; ha un aspetto diverso da un messaggio e-mail tradizionale con stile manuale, in cui è disponibile una maggiore libertà creativa per assegnare uno stile a un componente
+### Rendere un modello compatibile con i temi {#make-a-template-compatible}
 
-### Creare e-mail/modelli e-mail da un modello
+1. Trova e seleziona il modello desiderato.
 
-* Puoi sfruttare i temi quando crei un modello e-mail o e-mail da un modello e-mail preesistente, creato anche utilizzando i temi
+1. Fai clic su **Modifica modello e-mail**.
 
-* Inizia con &quot;Crea e-mail&quot;/&quot;Crea modello e-mail&quot;, seleziona uno dei modelli e-mail creati utilizzando i temi, dalla sezione &quot;Modelli salvati&quot;
+   ![](assets/brand-themes-42.png)
 
-* Ora il tema utilizzato nel modello e-mail salvato viene applicato automaticamente
+1. Fai clic sull&#39;icona _Temi_ e fai clic su **Genera tema dal contenuto**.
 
-SCHERMATA
+   ![](assets/brand-themes-43.png)
 
-* Puoi anche modificare il tema in questo modello e-mail/e-mail tramite l’opzione &quot;Temi&quot; nella barra laterale a destra
+1. Viene visualizzata la finestra _Crea tema_. Marketo Engage rileva automaticamente gli elementi di stile e li consolida in un nuovo tema.
 
-SCHERMATA
+   ![](assets/brand-themes-44.png)
 
-* Puoi anche applicare al contenuto qualsiasi variante di un tema
+1. Denomina il tema.
 
-SCHERMATA
+1. Apporta le modifiche desiderate (come si fa quando si crea un tema da zero). Al termine, fai clic su **Salva**.
 
-SCHERMATA
+   ![](assets/brand-themes-45.png)
 
 ### Nei frammenti {#in-your-fragments}
 
-Inizia con &quot;Crea nuovo frammento&quot;
+1. Segui i passaggi per [creare un frammento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md#create-a-fragment).
 
-Dall’opzione &quot;Temi&quot; nella barra laterale destra, seleziona il tema desiderato e applica lo stesso
+1. Progetta il tema del contenuto utilizzando le opzioni disponibili in **[Impostazioni](#settings)**.
 
-SCHERMATA
+Tutto il contenuto del frammento creato successivamente nell’area di lavoro adotterà il tema selezionato. Puoi anche applicare al contenuto qualsiasi variante di un tema.
 
-Tutto il contenuto del frammento creato successivamente nell’area di lavoro adotterà il tema selezionato
+Dopo la pubblicazione, il frammento può essere utilizzato in qualsiasi modello e-mail/e-mail creato utilizzando i temi.
 
-Puoi anche applicare al contenuto qualsiasi variante di un tema
+## Aspetti da considerare {#things-to-note}
 
-Dopo la pubblicazione del frammento, questo può essere utilizzato in qualsiasi modello e-mail/e-mail creato utilizzando i temi
+* Quando crei un’e-mail da zero, puoi scegliere di iniziare a creare i contenuti utilizzando un tema per applicare rapidamente uno stile specifico che si adatta al tuo marchio e design. Se scegli la modalità classica, non potrai applicare alcun tema a meno che non reimposti l’e-mail.
+
+* I frammenti non sono compatibili tra le modalità Tema e Classico. Per poter utilizzare un frammento in un contenuto in cui viene applicato un tema, è necessario crearlo in modalità Tema.
+
+* L’aggiornamento di un tema non si propaga automaticamente a catena a tutte le risorse che lo utilizzano. Per aggiornare il tema, è necessario modificare singoli oggetti.
+
+* L’eliminazione dei temi non influisce sulle risorse che li utilizzano.

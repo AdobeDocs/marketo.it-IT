@@ -6,9 +6,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
 workflow-type: tm+mt
-source-wordcount: '1851'
+source-wordcount: '1881'
 ht-degree: 1%
 
 ---
@@ -94,7 +94,7 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
 </tbody>
 </table>
 
-## Creare i frammenti {#create-fragments}
+## Creare un frammento {#create-a-fragment}
 
 1. Per creare un nuovo frammento visivo, fare clic su **[!UICONTROL Create fragment]** in alto a destra nella pagina dell&#39;elenco dei frammenti.
 
@@ -119,9 +119,21 @@ Lo stato del frammento determina la sua disponibilità per l’utilizzo in un’
    >
    >Impossibile modificare il tipo **Type** di un frammento in questo momento.
 
-   La finestra di progettazione visiva viene aperta con un&#39;area di lavoro vuota.
+1. Viene visualizzata la finestra modale _Crea e-mail_. Scegliere _Usa temi_ o _Stile manuale_. In questa opzione, stiamo scegliendo **Usa temi**. Al termine, fai clic su **Conferma**.
 
-1. Utilizza gli [strumenti di progettazione del contenuto](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} per creare il contenuto del frammento visivo.
+   ![](assets/create-fragments-4.png)
+
+   >[!NOTE]
+   >
+   >Se si sceglie Stile manuale, utilizzare gli [strumenti di progettazione del contenuto](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#add-structure-and-content){target="_blank"} per creare il contenuto del frammento visivo.
+
+1. Fai clic sull&#39;icona _Temi_.
+
+   ![](assets/create-fragments-5.png)
+
+   >[!INFO]
+   >
+   >Ulteriori informazioni sulle [impostazioni tema](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md#settings){target="_blank"}.
 
 1. Fai clic su **[!UICONTROL Save]** in qualsiasi momento per salvare la bozza del frammento.
 
