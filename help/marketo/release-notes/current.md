@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 6b9f6d4b276115e1f3f3dac73eb64e5358a76516
+source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '729'
 ht-degree: 99%
 
 ---
@@ -35,6 +35,16 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td><strong>E-mail designer - Importazione modelli (Beta)</strong>: importa i modelli e-mail dall’editor e-mail classico per creare modelli compatibili con il nuovo E-mail designer in Design Studio.</td>
    <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/import-template.md" target="_blank">Importazione di modelli</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail designer - Temi brand</strong>: ora puoi definire i temi del brand in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.</td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Temi del brand</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -73,16 +83,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail designer - Test A/B</strong>: funzione di parità per il nuovo E-mail designer, che consente di eseguire test A/B per individuare i tipi di contenuto da cui è possibile ottenere risultati di risposta migliori.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-mail designer - Temi brand</strong>: ora puoi definire i temi del brand in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
