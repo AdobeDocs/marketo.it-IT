@@ -5,10 +5,10 @@ description: Benvenuto nel nuovo Designer e-mail Adobe Marketo Engage.
 title: Panoramica
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 6389e9549ec8caf9d96e6524e46b61e801fc7806
+source-git-commit: 4c0c880202ea4785b157366d8d8712c830921d69
 workflow-type: tm+mt
-source-wordcount: '871'
-ht-degree: 1%
+source-wordcount: '680'
+ht-degree: 4%
 
 ---
 
@@ -44,7 +44,9 @@ Per accedere al nuovo Designer di posta elettronica, è necessario eseguire la m
 
 +++
 
-## Articoli disponibili {#available-articles}
+## Articoli più richiesti {#popular-articles}
+
+### Introduzione {#getting-started}
 
 * [Authoring di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: scopri come creare, progettare e fare riferimento a un’e-mail nel nuovo editor.
 
@@ -52,21 +54,15 @@ Per accedere al nuovo Designer di posta elettronica, è necessario eseguire la m
 
 * [Frammenti](/help/marketo/product-docs/email-marketing/email-designer/fragments.md){target="_blank"}: scopri come creare e utilizzare frammenti di contenuto visivo come componenti riutilizzabili per e-mail e modelli e-mail.
 
-* [Frammenti personalizzabili](/help/marketo/product-docs/email-marketing/email-designer/customizable-fragments.md){target="_blank"}: scopri come personalizzare i frammenti rendendo modificabili alcuni dei loro campi.
+### Nuove funzioni {#new-features}
 
-* [Utilizzare risorse AEM](/help/marketo/product-docs/email-marketing/email-designer/aem-assets.md){target="_blank"}: scopri come accedere facilmente alle risorse digitali AEM per l&#39;utilizzo in Marketo Engage.
+* [Image to HTML converter](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: carica un file di immagine PNG/JPEG conforme di un&#39;e-mail che verrà automaticamente convertito in HTML per l&#39;utilizzo nel nuovo Designer e-mail.
 
-* [Modifica immagini con Adobe Express](/help/marketo/product-docs/email-marketing/email-designer/edit-images-adobe-express.md){target="_blank"}: scopri come modificare le immagini nell&#39;Editor e-mail di Adobe Marketo Engage utilizzando Adobe Express.
+* [Temi del marchio](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: definisci i temi del marchio in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.
 
-* [Utilizza IA Assistant](/help/marketo/product-docs/email-marketing/email-designer/ai-assistant.md){target="_blank"}: sfrutta la tecnologia AI generativa di Adobe per aggiungere testo e/o immagini utili alle e-mail.
+* [Importazione modelli](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: importare modelli di posta elettronica dall&#39;editor di posta elettronica classico per creare modelli compatibili con il nuovo Designer di posta elettronica in Design Studio.
 
-* [Blocca il contenuto nei modelli e-mail](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md){target="_blank"}: scopri come bloccare il contenuto nei modelli e-mail, per evitare modifiche o eliminazioni non intenzionali.
-
-* [Test del rendering di e-mail con Litmus](/help/marketo/product-docs/email-marketing/email-designer/test-email-rendering.md){target="_blank"}: sfrutta il tuo account Litmus in Marketo Engage per vedere immediatamente come viene eseguito il rendering delle e-mail nei client e-mail più diffusi.
-
-* [Rilevamento spam con SpamAssassin](/help/marketo/product-docs/email-marketing/email-designer/spam-report.md){target="_blank"}: utilizzando SpamAssassin in Marketo Engage, puoi testare il contenuto delle e-mail e vedere la probabilità che ISP/provider di cassette postali le contrassegni come spam.
-
-* [Confronto delle funzionalità](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: confronta la disponibilità delle funzionalità nell&#39;editor e-mail precedente (Editor e-mail 2.0) e nel nuovo Designer e-mail.
+* [Contenuto condizionale](/help/marketo/product-docs/email-marketing/email-designer/conditional-content.md){target="_blank"}: funzionalità di parità per il nuovo Designer e-mail, che consente di ottenere la personalizzazione delle e-mail oltre i token.
 
 ## Domande frequenti {#faq}
 
@@ -78,9 +74,9 @@ Sì, il vecchio (classico) editor e-mail coesisterà con il nuovo E-mail Designe
 
 Le nuove e-mail di Designer sono accessibili in tutti i programmi (con l’unica eccezione dei programmi di webinar interattivi). È disponibile anche la clonazione.
 
-**I nostri modelli e-mail esistenti funzioneranno nella nuova finestra di progettazione? In caso contrario, è necessario creare modelli utilizzando la nuova finestra di progettazione in modo che tutte le sezioni/moduli corrispondano all&#39;aspetto desiderato per il contenuto?**
+**I nostri modelli e-mail esistenti funzioneranno nella nuova finestra di progettazione?**
 
-Non è possibile fare riferimento ai modelli e-mail dall’editor classico nella nuova finestra di progettazione. Dovrai creare nuovi modelli nel nuovo designer. Tuttavia, _puoi_ importare il modello HTML nella nuova finestra di progettazione, quindi apportare le modifiche necessarie. **Nota**: la compatibilità del modello dell&#39;editor classico con la nuova finestra di progettazione sarà presto disponibile.
+Sì, ma [devono essere importati](/help/marketo/product-docs/email-marketing/email-designer/import-template.md).
 
 **È possibile spostare facilmente le nuove risorse della finestra di progettazione in un altro programma?**
 
@@ -92,7 +88,7 @@ Al momento, Assets in fase di modifica tramite API non è supportato nel nuovo D
 
 **Esiste un modo per applicare il branding (caratteri, loghi e colori)?**
 
-Il blocco delle sezioni di contenuto fa parte della nuova finestra di progettazione e il blocco di stile, colori e così via sarà presto disponibile.
+Sì! Crea e gestisci le linee guida del tuo marchio con [temi del marchio](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
 
 **I moduli per i modelli saranno più personalizzabili e scalabili?**
 
@@ -100,15 +96,11 @@ Sì, assolutamente, più personalizzabile con il nostro editor WYSIWYG (what-you
 
 **Come funziona il processo di creazione del modello di posta elettronica nel nuovo designer? È WYSIWYG o richiede la conoscenza di HTML?**
 
-È WYSIWYG; la conoscenza di HTML non è necessaria. Puoi creare facilmente modelli nella finestra di progettazione, riducendo la necessità per gli sviluppatori web esterni. Tuttavia, puoi comunque aggiornare i CSS e modificare le singole sezioni tramite HTML. Stiamo inoltre lavorando a un modo per migrare facilmente i modelli dall’editor classico al nuovo designer.
+È WYSIWYG; la conoscenza di HTML non è necessaria. Puoi creare facilmente modelli nella finestra di progettazione, riducendo la necessità per gli sviluppatori web esterni. Tuttavia, puoi comunque aggiornare i CSS e modificare le singole sezioni tramite HTML.
 
 **Il nuovo Email Designer supporta la lingua AMP?**
 
 Al momento non dispone del supporto per AMP.
-
-**Il contenuto dinamico per attributo è ottimo, ma il contenuto dinamico per segmento continua a funzionare?**
-
-Attualmente, il nuovo designer supporta solo gli attributi, ma stiamo lavorando per ottenere l’aggiunta di segmenti in una versione futura.
 
 **Come posso sapere se la nostra sottoscrizione a Marketo Engage è stata migrata a IMS (Adobe Admin Console)?**
 
