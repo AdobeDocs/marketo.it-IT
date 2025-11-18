@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
+source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
 workflow-type: tm+mt
-source-wordcount: '868'
-ht-degree: 11%
+source-wordcount: '865'
+ht-degree: 10%
 
 ---
 
@@ -244,22 +244,22 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile</td>
   </tr>
   <tr>
+    <td>Script Velocity</td>
+    <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
+    <td>Disponibile</td>
+    <td>Disponibile</td>
+  </tr>
+  <tr>
     <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
     <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
     <td>Disponibile</td>
-    <td>Disponibile a breve</td>
+    <td>Disponibile</td>
   </tr>
   <tr>
     <td>Ruoli e autorizzazioni</td>
     <td>Possibilità di aggiungere ruoli e autorizzazioni per e-mail, modelli e frammenti di posta elettronica.</td>
     <td>Disponibile</td>
-    <td>Disponibile a breve</td>
-  </tr>
-  <tr>
-    <td>Script Velocity</td>
-    <td>Possibilità di utilizzare gli script Velocity nelle e-mail.</td>
     <td>Disponibile</td>
-    <td>Disponibile a breve</td>
   </tr>
   <tr>
     <td>Sperimentazione (Test A/B)</td>
