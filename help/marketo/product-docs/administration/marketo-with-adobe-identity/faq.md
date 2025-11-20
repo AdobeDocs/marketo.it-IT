@@ -3,10 +3,10 @@ description: Domande frequenti su Adobe Identity Management - Documentazione su 
 title: Domande frequenti su Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 95ed91736b7276dd7a5b9e09958c1f09832ae719
 workflow-type: tm+mt
-source-wordcount: '1645'
-ht-degree: 0%
+source-wordcount: '1579'
+ht-degree: 1%
 
 ---
 
@@ -40,7 +40,7 @@ Anche se non pianificato, il lavoro di sviluppo futuro può interrompere questa 
 
 **Funziona con SSO?**
 
-Sì.  L’integrazione con Adobe IMS supporta gli utenti Universal ID e SSO. L’SSO è ora gestito da Adobe IMS ed è configurato a livello di organizzazione in Adobe Admin Console. Tuttavia, esistono differenze nel supporto avviato da Marketo Engage IdP rispetto al supporto avviato da Adobe SP ([ulteriori informazioni qui](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}). Se hai bisogno di assistenza per le differenze SSO dopo la migrazione ad Admin Console, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/it/contact.html){target="_blank"}.
+Sì.  L’integrazione con Adobe IMS supporta gli utenti Universal ID e SSO. L’SSO è ora gestito da Adobe IMS ed è configurato a livello di organizzazione in Adobe Admin Console. Tuttavia, esistono differenze nel supporto avviato da Marketo Engage IdP rispetto al supporto avviato da Adobe SP ([ulteriori informazioni qui](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}). Se hai bisogno di assistenza per le differenze SSO dopo la migrazione ad Admin Console, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **Qual è la differenza tra un amministratore di prodotto Adobe e un amministratore di Marketo Engage?**
 
@@ -75,7 +75,7 @@ No. La gestione dei ruoli utente (all’interno delle aree di lavoro) viene comp
 
 **Sono un amministratore di Marketo in una sottoscrizione integrata IMS e non ho accesso ad Admin Console. Come posso ottenere l&#39;accesso?**
 
-Qualsiasi amministratore di prodotto o di sistema di Adobe che ha accesso all’Admin Console della tua organizzazione può concederti l’accesso. Se non sai chi dispone dei privilegi di amministratore nella console all&#39;interno della tua organizzazione, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/it/contact.html){target="_blank"}.
+Qualsiasi amministratore di prodotto o di sistema di Adobe che ha accesso all’Admin Console della tua organizzazione può concederti l’accesso. Se non sai chi dispone dei privilegi di amministratore nella console all&#39;interno della tua organizzazione, contatta l&#39;[Assistenza clienti Adobe](https://helpx.adobe.com/contact.html){target="_blank"}.
 
 **In che modo un amministratore aggiungerebbe utenti a Marketo [!DNL Sales Connect]?**
 
@@ -83,7 +83,7 @@ Anche se in Admin Console sarà disponibile una scheda prodotto per [!DNL Sales 
 
 **Dove posso trovare ulteriori informazioni su Adobe Admin Console?**
 
-[https://helpx.adobe.com/it/enterprise/admin-guide.html](https://helpx.adobe.com/it/enterprise/admin-guide.html){target="_blank"}.
+[https://helpx.adobe.com/enterprise/admin-guide.html](https://helpx.adobe.com/it/enterprise/admin-guide.html){target="_blank"}.
 
 **Vado comunque alla sezione Amministratore in Marketo per apportare modifiche all&#39;account utente per il mio account?**
 
@@ -123,11 +123,9 @@ Gli attuali utenti di Marketo Engage con accessi diversi dal proprio indirizzo e
 
 **Cosa succede dopo la migrazione di Adobe Identity se la sottoscrizione utilizza le impostazioni di restrizione IP?**
 
-Quando si effettua l’onboarding degli abbonamenti in Adobe Identity, non viene effettuata la migrazione delle impostazioni di restrizione IP a Adobe Admin Console. Le impostazioni di restrizione IP di Marketo includono l’autorizzazione all’accesso solo da indirizzi IP specifici e il blocco dell’accesso da parte di indirizzi IP specifici. Al momento, Adobe Identity Management System non supporta le funzioni di restrizione IP.
+Le restrizioni IP correnti rimarranno attive fino al primo trimestre del 2026 (questo vale per gli abbonamenti che li avevano abilitati prima della migrazione). Queste restrizioni verranno applicate anche agli utenti di Adobe ID, in modo che i controlli di accesso continuino a funzionare come previsto.
 
-A metà del 2025, Adobe Identity Management System rilascerà una funzione che consentirà solo indirizzi IP specifici, supportando una transizione per gli utenti di Marketo che attualmente utilizzano questa funzione. Gli utenti che attualmente utilizzano questa funzione non verranno sottoposti a migrazione fino al rilascio della funzione. Una volta distribuita la funzione, gli utenti riceveranno una notifica della pianificazione della migrazione. Se disponibili, verranno fornite ulteriori informazioni sulla funzione.
-
-Gli utenti che attualmente utilizzano la restrizione IP, che blocca l’accesso a indirizzi specifici, non potranno più utilizzare questa funzione dopo la migrazione ad Adobe Identity, in quanto non supportata da Adobe Identity Management System.
+A partire dal primo trimestre del 2026, le restrizioni IP legacy verranno ritirate. Da quel momento in poi, l&#39;accesso basato su IP sarà gestito esclusivamente nel Adobe Admin Console (AAC). Per mantenere un accesso sicuro, devi configurare le restrizioni IP in AAC. Per ulteriori informazioni, consulta questo [post di blog della nazione di marketing](https://nation.marketo.com/t5/product-blogs/updated-important-update-ip-restrictions-feature-transition/ba-p/358420){target="_blank"}.
 
 **Cosa succede dopo la migrazione di Adobe Identity se dispongo di utenti con un ruolo con l&#39;opzione &#39;Ignora Single Sign-On&#39;?**
 
@@ -143,7 +141,7 @@ No, non vi sono impatti su queste configurazioni.
 
 **Come posso evitare il timeout delle sessioni?**
 
-In [Impostazioni avanzate](https://helpx.adobe.com/it/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, è possibile personalizzare la durata massima della sessione desiderata (sono necessarie le autorizzazioni di amministratore di sistema). Si consiglia di stabilire questa impostazione dopo la migrazione del prodotto, ma prima della migrazione degli utenti.
+In [Impostazioni avanzate](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}, è possibile personalizzare la durata massima della sessione desiderata (sono necessarie le autorizzazioni di amministratore di sistema). Si consiglia di stabilire questa impostazione dopo la migrazione del prodotto, ma prima della migrazione degli utenti.
 
 **Ora devo passare ad Experience Cloud per accedere a Marketo Engage. Esiste un modo per semplificare questo flusso?**
 
