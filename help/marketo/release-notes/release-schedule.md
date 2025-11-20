@@ -4,10 +4,10 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 7921c7dcc8cad17285cbd464b558afc39d5ff661
-workflow-type: ht
-source-wordcount: '126'
-ht-degree: 100%
+source-git-commit: 8148440f2893fa27922b91ea641fc591cab57680
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 97%
 
 ---
 
@@ -58,8 +58,14 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <td>31 ottobre 2025</td>
    <td>In corso</td>
   </tr>
+  <tr>
   <td>Gennaio 2026</td>
    <td>30 gennaio 2026</td>
+   <td>Secondo pianificazione</td>
+  </tr>
+  <tr>
+  <td>Febbraio '26</td>
+   <td>20 febbraio 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
  </tbody>
