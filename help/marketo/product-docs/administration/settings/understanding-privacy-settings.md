@@ -4,9 +4,9 @@ description: Informazioni sulle impostazioni della privacy - Documentazione di M
 title: Informazioni sulle impostazioni della privacy
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
 workflow-type: tm+mt
-source-wordcount: '500'
+source-wordcount: '479'
 ht-degree: 1%
 
 ---
@@ -68,11 +68,7 @@ Gli addetti al marketing possono consentire agli utenti di dare il consenso util
 
 Gli addetti al marketing possono preservare la privacy monitorando gli utenti con un indirizzo IP anonimo. Per eseguire questa operazione, aggiungere il codice all&#39;RTP o al JavaScript [!DNL Munchkin] incorporato nel sito Web.
 
-* Per [!DNL Munchkin], aggiungi {&quot;anonymizeIP&quot;,true} alla funzione init.
-
-  >[!NOTE]
-  >
-  >L&#39;utilizzo di questo parametro richiede che [!DNL Munchkin] V2 sia abilitato. Per abilitarlo per l&#39;abbonamento, contatta il [supporto Marketo](https://nation.marketo.com/community/support_solutions).
+* Per [!DNL Munchkin], aggiungi `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Per Web Personalization (RTP), aggiungi questo al codice JavaScript:
 
