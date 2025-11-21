@@ -6,7 +6,7 @@ feature: Release Information
 source-git-commit: 6c362502c975676a635b1425393bf43e1cf0be12
 workflow-type: tm+mt
 source-wordcount: '729'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -64,7 +64,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
  <tr>
    <td><strong>E-mail designer - Convertitore da immagine a HTML</strong>: carica un file immagine PNG/JPEG conforme di un’e-mail che verrà automaticamente convertito in HTML da utilizzare nel nuovo E-mail designer.</td>
    <td>Rilasciato</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Conversione di immagini in modelli HTML</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/image-to-html.md" target="_blank">Convertire immagini in modelli HTML</a></td>
   </tr>
   <tr>
    <td> </td>
