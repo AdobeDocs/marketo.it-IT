@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 9b41a880ad3b4eefe4a5078265a773aadc270a0a
+source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
 workflow-type: tm+mt
-source-wordcount: '865'
+source-wordcount: '866'
 ht-degree: 10%
 
 ---
@@ -253,7 +253,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
     <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
     <td>Disponibile</td>
-    <td>Disponibile</td>
+    <td>Non disponibile</td>
   </tr>
   <tr>
     <td>Ruoli e autorizzazioni</td>
