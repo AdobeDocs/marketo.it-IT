@@ -7,7 +7,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 278e21eb8c121cb30e55214913733bd02674e5c1
+source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
 workflow-type: tm+mt
 source-wordcount: '866'
 ht-degree: 10%
@@ -250,12 +250,6 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Disponibile</td>
   </tr>
   <tr>
-    <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
-    <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
-    <td>Disponibile</td>
-    <td>Non disponibile</td>
-  </tr>
-  <tr>
     <td>Ruoli e autorizzazioni</td>
     <td>Possibilità di aggiungere ruoli e autorizzazioni per e-mail, modelli e frammenti di posta elettronica.</td>
     <td>Disponibile</td>
@@ -284,6 +278,12 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Possibilità di modificare il contenuto HTML di e-mail, modelli e frammenti di e-mail.</td>
     <td>Disponibile</td>
     <td>Da definire</td>
+  </tr>
+  <tr>
+    <td>Supporto per lo spostamento, l’eliminazione e l’importazione di programmi con risorse e-mail</td>
+    <td>Possibilità di spostare, eliminare e importare programmi e-mail e risorse e-mail.</td>
+    <td>Disponibile</td>
+    <td>Non disponibile</td>
   </tr>
   <tr>
     <td>Contenuto predittivo</td>
