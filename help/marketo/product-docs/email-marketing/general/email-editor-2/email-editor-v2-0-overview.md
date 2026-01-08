@@ -4,16 +4,20 @@ description: Panoramica di Email Editor v2.0 - Documentazione di Marketo - Docum
 title: Panoramica dell’editor e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: bbb72b79d4d8b19a3aa986737651a3efa65449e2
 workflow-type: tm+mt
-source-wordcount: '390'
-ht-degree: 2%
+source-wordcount: '436'
+ht-degree: 1%
 
 ---
 
 # Panoramica dell’editor e-mail v2.0 {#email-editor-v2-overview}
 
-Quando decidi di attivare [!DNL Email Editor v2.0], noterai diverse nuove funzionalità.
+Panoramica dell’editor e-mail classico.
+
+>[!IMPORTANT]
+>
+>Anche se non è stata impostata una data esatta, l’editor e-mail classico diventerà probabilmente obsoleto nel 2026 (verrà annunciata una data esatta in cui sarà disponibile). Si consiglia vivamente di iniziare ad adottare l&#39;avanzato [E-mail Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, in quanto dispone di molte funzionalità non disponibili nell&#39;editor classico.
 
 **Selettore modelli e-mail**
 
