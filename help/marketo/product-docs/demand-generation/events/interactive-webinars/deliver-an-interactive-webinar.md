@@ -92,7 +92,7 @@ Broadcast Control aggiunge una sala verde virtuale alla sessione dei webinar int
 
 I controlli di trasmissione possono essere impostati in modo da iniziare automaticamente la registrazione dopo l&#39;uscita dalla sala verde. In questo modo gli host non devono ricordarsi di avviare e arrestare manualmente la registrazione. Anche la messa in pausa o l&#39;arresto della trasmissione causerà la sospensione o l&#39;arresto della registrazione. Tutto è automatico.
 
-Ulteriori informazioni sui controlli di trasmissione [ in questo video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
+Ulteriori informazioni sui controlli di trasmissione [&#x200B; in questo video](https://www.youtube.com/watch?v=TcoCeEJoyjg){target="_blank"}.
 
 ### Chat nelle registrazioni {#chats-in-recordings}
 
