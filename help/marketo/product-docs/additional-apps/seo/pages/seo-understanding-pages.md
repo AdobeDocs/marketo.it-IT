@@ -4,10 +4,10 @@ description: SEO - Informazioni sulle pagine - Documentazione di Marketo - Docum
 title: 'SEO: informazioni sulle pagine'
 exl-id: c0fa5408-4b4f-4981-b4ba-20f40c475244
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 2%
+source-wordcount: '286'
+ht-degree: 3%
 
 ---
 
@@ -15,17 +15,20 @@ ht-degree: 2%
 
 ## Punteggio ottimizzazione pagina/Widget attività {#page-optimization-score-to-do-widget}
 
-![](assets/image2014-9-17-21-3a52-3a3.png)
-
 La pagina [!UICONTROL Optimization Score] è una classificazione generale dell&#39;ottimizzazione della pagina per la ricerca, su una scala da 1 a 100. Si basa su decine di best practice nell’ambito dell’ottimizzazione SEO.
 
 * 0 - 35 = Non ottimizzato
 * 35 - 70 = sulla strada giusta
 * 70 - 100 = Ottimo!
 
->[!TIP]
+>[!IMPORTANT]
 >
->Fare clic sul collegamento [!UICONTROL High Impact] nella casella [!UICONTROL To Do] per reindirizzarti a [!UICONTROL Issues tab] e visualizzare i problemi ad alta priorità da risolvere.
+>Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Scheda [!UICONTROL Pages] {#pages-tab}
 

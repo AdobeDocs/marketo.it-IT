@@ -4,16 +4,24 @@ description: SEO - Esportazione dei risultati delle parole chiave - Documentazio
 title: 'SEO: esportare risultati delle parole chiave'
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 20%
+source-wordcount: '83'
+ht-degree: 13%
 
 ---
 
 # SEO: esportare risultati delle parole chiave {#seo-exporting-keyword-results}
 
 Puoi esportare i risultati delle parole chiave da condividere con il team o per creare un rapporto.
+>[!IMPORTANT]
+>
+>Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Passare alla sezione **[!UICONTROL Keywords]**.
 

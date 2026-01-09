@@ -4,16 +4,25 @@ description: SEO - Informazioni sulle parole chiave - Documentazione di Marketo 
 title: 'SEO: informazioni sulle parole chiave'
 exl-id: 33a350c9-7b57-4031-b916-58d2b12c1927
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 1%
+source-wordcount: '250'
+ht-degree: 2%
 
 ---
 
 # SEO - Informazioni su [!UICONTROL Keywords] {#seo-understanding-keywords}
 
 [!UICONTROL Keywords] sono la spina dorsale della tua strategia SEO. Il tuo obiettivo è di essere sulla prima pagina, il più vicino #1 possibile per parole chiave rilevanti per la tua azienda.
+
+>[!IMPORTANT]
+>
+>Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 La sezione [!UICONTROL Keywords] ti mostrerà quanto il tuo sito sia riuscito a raggiungere questo obiettivo e come si accumula fino a [la tua concorrenza](/help/marketo/product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md).
 

@@ -4,10 +4,10 @@ description: SEO - Aggiungere concorrenti - Documentazione Marketo - Documentazi
 title: 'SEO: aggiungere concorrenti'
 exl-id: 62ef754d-840e-4094-9b98-d2a472523f03
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 16%
+source-wordcount: '105'
+ht-degree: 12%
 
 ---
 
@@ -15,9 +15,14 @@ ht-degree: 16%
 
 L’aggiunta di concorrenti consente di tenere traccia delle loro prestazioni per le stesse parole chiave e gli stessi collegamenti in entrata che scegli di monitorare.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->**Autorizzazioni amministratore richieste**
+>Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

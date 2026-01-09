@@ -4,9 +4,9 @@ description: 'Dashboard SEO: consigli SEO (Search Engine Optimization), document
 title: 'Dashboard SEO: consigli SEO (Search Engine Optimization)'
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '175'
 ht-degree: 4%
 
 ---
@@ -14,6 +14,15 @@ ht-degree: 4%
 # Informazioni sulla dashboard SEO: consigli SEO {#understanding-the-seo-dashboard-seo-recommendations}
 
 Utilizza la dashboard per ottenere una visualizzazione di alto livello della tendenza dei livelli di parole chiave e dell’ottimizzazione del sito per SEO (Search Engine Optimization).
+
+>[!IMPORTANT]
+>
+>Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 È inoltre possibile scoprire come migliorare utilizzando la sezione [!UICONTROL Recommendations]. Andiamo a tuffarci!
 
