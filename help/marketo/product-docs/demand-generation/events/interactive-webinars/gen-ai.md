@@ -3,9 +3,9 @@ description: Funzioni GenAI - Documentazione Marketo - Documentazione del prodot
 title: Funzioni GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '658'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 * **Generazione automatica dei capitoli**: la tecnologia basata sull&#39;intelligenza artificiale crea capitoli per il contenuto del webinar.
 
 * **Riepilogo generato da IA**: ottieni un riepilogo testuale automatico del tuo webinar.
+
+* **Generazione di blog basata sull&#39;intelligenza artificiale**: consente di generare automaticamente contenuti di blog nel brand dai webinar.
 
 * **Contenuto modificabile**: se necessario, modifica i capitoli e i riepiloghi generati utilizzando le funzionalità di modifica manuali e basate su IA.
 
@@ -109,6 +111,8 @@ Il &quot;collegamento&quot; è il nome del capitolo e la &quot;pagina web&quot; 
 * L’eliminazione o l’unione di capitoli influisce solo sullo stack dei capitoli, non sul contenuto video stesso. Queste azioni sono permanenti.
 
 * Le funzioni GenAI sono flessibili e possono essere utilizzate con vari editor di pagine web, non solo con quelli di Marketo Engage.
+
+* Solo le sessioni che si tengono nelle sale dei seminari saranno disponibili per una generazione di blog. Le sale dei seminari sono disponibili solo su account con una licenza Modulo eventi o Seminario (Sala condivisa/Eventi).
 
 * Visualizza sempre in anteprima le modifiche per garantire la funzionalità e l&#39;aspetto desiderati.
 

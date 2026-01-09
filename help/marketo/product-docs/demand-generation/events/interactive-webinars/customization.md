@@ -3,9 +3,9 @@ description: Personalizzazione dei webinar interattivi - Documentazione di Marke
 title: Personalizzazione dei webinar interattivi
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Prima che qualsiasi utente dell’organizzazione possa personalizzare i webinar 
 
    ![](assets/interactive-webinars-customization-8.png)
 
-### Personalizzare l&#39;interfaccia della room {#customize-the-room-interface}
+## Personalizzare l&#39;interfaccia della room {#customize-the-room-interface}
 
 È possibile personalizzare l&#39;aspetto della sala riunioni modificando il logo, il collegamento di reindirizzamento selezionabile e i colori. Le modifiche verranno applicate a tutti gli eventi e a tutte le room dell&#39;organizzazione.
 
@@ -134,3 +134,11 @@ Utilizza l’interruttore di attivazione per controllare la disponibilità di qu
 ![](assets/interactive-webinars-customization-13.png)
 
 Seleziona **Applica** per salvare le modifiche o **Ripristina impostazioni predefinite** per ripristinare le impostazioni predefinite.
+
+### Creare temi personalizzabili {#create-customizable-themes}
+
+* Gli amministratori possono creare/gestire i temi con loghi personalizzati, colori e sfondi video.
+
+* Gli host possono scegliere i temi durante la creazione della room o aggiornarli in un secondo momento dalla pagina delle informazioni sulla room (**Barra superiore della room** > **Altro menu** > **Visualizza informazioni sulla room**).
+
+Ulteriori informazioni su [Temi](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
