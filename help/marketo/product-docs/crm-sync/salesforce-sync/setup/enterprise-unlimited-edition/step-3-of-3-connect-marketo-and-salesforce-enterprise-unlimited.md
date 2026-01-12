@@ -4,9 +4,9 @@ description: Passaggio 3 di 3 - Connessione di Marketo e Salesforce (Enterprise/
 title: 'Passaggio 3 di 3: connessione di Marketo e Salesforce (Enterprise/Unlimited)'
 exl-id: ef74bc53-9dc9-43c7-a9aa-565463fdd2e5
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f27e0d42161161347cc4c774853fb04e7ccecb5c
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '422'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ In questo articolo configurerai Marketo per la sincronizzazione con l&#39;istanz
 
    >[!CAUTION]
    >
-   >Se viene visualizzato un pulsante &quot;Accedi a [!DNL Salesforce]&quot; invece dei campi Nome utente/Password/Token, la sottoscrizione Marketo è abilitata per OAuth. [fai riferimento a questo articolo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Non appena la sincronizzazione inizia a utilizzare un set di credenziali, **non si passa da [!DNL Salesforce] credenziali a un abbonamento o viceversa**. Se desideri utilizzare l’autenticazione di base, rivolgiti al tuo Customer Success Manager.
+   >Se viene visualizzato un pulsante &quot;Accedi a [!DNL Salesforce]&quot; invece dei campi Nome utente/Password/Token, la sottoscrizione Marketo è abilitata per OAuth. [fai riferimento a questo articolo](/help/marketo/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.md). Non appena la sincronizzazione inizia a utilizzare un set di credenziali, **non si passa da [!DNL Salesforce] credenziali a un abbonamento o viceversa**. Se desideri utilizzare l’autenticazione di base, rivolgiti al tuo Account Manager.
 
 1. Leggere l&#39;avviso, quindi fare clic su **[!UICONTROL Confirm Credentials]**.
 
