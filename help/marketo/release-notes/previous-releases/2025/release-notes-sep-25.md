@@ -33,7 +33,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   <tr>
    <td><strong>Conservazione dell’attività webinar on-demand</strong>: gli utenti di webinar interattivi hanno ora a disposizione i dati della dashboard dei webinar on-demand per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
    <td>Rilasciato</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
   </tr>
   <tr>
    <td> </td>

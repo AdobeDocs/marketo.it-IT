@@ -44,7 +44,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   <tr>
    <td><strong>Funzionalità GenAI nei webinar interattivi</strong>: è ora possibile generare capitoli e un riepilogo per i webinar on demand. Modificare ed esportare un file HTML dei dati.</td>
    <td>Rilasciato</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funzioni GenAI</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funzioni GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
