@@ -2,9 +2,10 @@
 description: Note sulla versione - Agosto 2025 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Agosto 2025
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+exl-id: f4f71a77-d0c0-41c3-9362-afbfb467cc7a
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
-source-wordcount: '598'
+source-wordcount: '573'
 ht-degree: 98%
 
 ---
@@ -75,16 +76,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td>Spedito</td>
    <td>n/d</td>
   </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Autorizzazione a modificare i limiti della campagna avanzata</strong>: gli amministratori possono ora limitare la possibilità di modificare i limiti della campagna avanzata solo agli utenti con autorizzazioni.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
   </tbody>
 </table>
 <br/>
@@ -99,6 +90,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Deprecazione della funzionalità _Inoltra a un amico_**: il 29 settembre 2025 la funzionalità _Inoltra a un amico_ nelle e-mail di Marketo Engage 2.0 (l’editor e-mail precedente) diventerà completamente obsoleta per tutti gli abbonamenti. Questo influisce sul token “Inoltra a un amico” e sui collegamenti “Inoltra a un amico” nelle e-mail che sono già state o saranno inviate utilizzando il token. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Deprecazione API SOAP**: il supporto per l&#39;API SOAP di Marketo terminerà il 31 ottobre 2025. I servizi che utilizzano le funzionalità API SOAP devono essere migrati all&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il mercoledì 31 marzo 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

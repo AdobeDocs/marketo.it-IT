@@ -3,7 +3,7 @@ description: Note sulla versione - Luglio 2025 - Documenti Marketo - Documentazi
 title: Note sulla versione - Luglio 2025
 feature: Release Information
 exl-id: 86776722-c640-4e55-9551-38ff34de566b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '714'
 ht-degree: 98%
@@ -33,7 +33,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>E-mail Designer - Integrazione con GenStudio</strong>: integra GenStudio for performance marketing dalle e-mail per migliorare l’efficienza del marketing e mantenere la coerenza del marchio.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/genstudio.md">Integrazione di GenStudio per Marketo Engage</a></td>
   </tr>
   <tr>
@@ -168,6 +168,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
    * _Deprecazione Single Sign-On (SSO)_: il supporto per [Marketo Identity SSO](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/additional-integrations/add-single-sign-on-to-a-portal){target="_blank"} terminerà il 30 luglio 2025. La funzione rimarrà operativa fino al completamento della transizione ad Adobe Identity. Il Single Sign-On per Adobe Identity in Adobe Admin Console deve essere configurato separatamente. Per i passaggi di configurazione, vedi [Configurare identità e Single Sign-On](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Deprecazione API SOAP**: il supporto per l&#39;API SOAP di Marketo terminerà il 31 ottobre 2025. I servizi che utilizzano le funzionalità API SOAP devono essere migrati all&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il mercoledì 31 marzo 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

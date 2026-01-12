@@ -3,7 +3,7 @@ description: Note sulla versione - Maggio 2025 - Documentazione di Marketo - Doc
 title: Note sulla versione - Maggio 2025
 feature: Release Information
 exl-id: 99cd1d54-0a80-40fa-9d0c-1cb437be90f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '435'
 ht-degree: 40%
@@ -22,7 +22,7 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 23 maggio 2025** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 23 maggio 2025**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Controllo degli accessi basato sul ruolo per e-mail Designer Assets</strong>: un nuovo miglioramento al sistema di controllo degli accessi basato sul ruolo (RBAC) fornisce autorizzazioni più granulari e una migliore gestione degli utenti per le risorse basate sul nuovo Designer e-mail.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="https://nation.marketo.com/t5/latest-product-innovations/product-updates-granular-permissions-to-new-email-designer/ba-p/357057">Autorizzazioni granulari per New Email Designer (post di blog)</a></td>
   </tr>
   <tr>
@@ -62,12 +62,12 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Aggiornamento dell&#39;integrazione della conversione offline di Facebook**: il 29 maggio 2025 verrà effettuata la migrazione dell&#39;integrazione della [conversione offline di Facebook](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} per Marketo Engage alla nuova Meta [API delle conversioni](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"}, a causa della rimozione da parte di Meta della [API delle conversioni offline](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in linea con il controllo delle versioni dell&#39;API grafica. Per ulteriori informazioni, vedere la guida di Meta per [l&#39;invio di eventi offline tramite Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI per offline).
+* **Aggiornamento dell&#39;integrazione della conversione offline di Facebook**: il 29 maggio 2025, l&#39;integrazione [Conversione offline di Facebook](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/facebook/set-up-facebook-offline-conversions){target="_blank"} per Marketo Engage verrà migrata alla nuova API [Conversioni](https://developers.facebook.com/docs/marketing-api/conversions-api){target="_blank"} di Meta, a causa della deprecazione di Meta dell&#39;API [Conversioni offline](https://developers.facebook.com/docs/marketing-api/offline-conversions/){target="_blank"} in linea con il controllo delle versioni dell&#39;API Graph. Per ulteriori informazioni, vedere la guida di Meta per [l&#39;invio di eventi offline tramite Conversions API](https://developers.facebook.com/docs/marketing-api/conversions-api/offline-events/){target="_blank"} (CAPI per offline).
 
 * **Nuova funzionalità di Analytics - Beta pubblico**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (precedentemente nota come Revenue Explorer e Advanced Report Builder) ha iniziato a essere implementato per tutti gli utenti attuali di Revenue Cycle Explorer a metà aprile. Questo nuovo strumento offre un’interfaccia flessibile per la generazione di rapporti e visualizzazioni sui dati di Marketo Engage, che fornisce dettagli granulari su progressione, prestazioni e altro ancora. Offre maggiore interattività e visualizzazione, prestazioni più veloci e un&#39;esperienza utente più fluida e intuitiva.
 
 Per accedere a questa funzione, è necessario aver acquistato il componente aggiuntivo Advanced BI Analytics. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Deprecazione API SOAP**: il supporto per l&#39;API SOAP di Marketo terminerà il 31 ottobre 2025. I servizi che utilizzano le funzionalità API SOAP devono essere migrati all&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il mercoledì 31 marzo 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

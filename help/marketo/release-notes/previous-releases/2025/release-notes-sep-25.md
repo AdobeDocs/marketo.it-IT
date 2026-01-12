@@ -2,7 +2,7 @@
 description: Note sulla versione - Settembre 2025 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Settembre 2025
 feature: Release Information
-source-git-commit: a0c6dd9413c8ecce0d1d674d7635d57dabd2ae12
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '704'
 ht-degree: 98%
@@ -32,8 +32,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr>
    <td><strong>Conservazione dell’attività webinar on-demand</strong>: gli utenti di webinar interattivi hanno ora a disposizione i dati della dashboard dei webinar on-demand per più di 30 giorni (in precedenza era solo fino a 30 giorni dal giorno del webinar).</td>
-   <td>Implementato</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
+   <td>Rilasciato</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/event-workflows#manual-sync">Sincronizzazione manuale</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -62,7 +62,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
   </tr>
   <tr>
    <td><strong>E-mail designer - Flusso di lavoro di collaborazione sui contenuti</strong>: ora è possibile commentare e collaborare con gli altri utenti di Marketo all’interno di una risorsa e-mail. Assegnando tag ai membri del gruppo (utenti Marketo che dispongono delle autorizzazioni appropriate per la risorsa), questi riceveranno un’e-mail o una notifica Pulse.</td>
-   <td>Implementato</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-collaboration.md">Collaborazione e-mail</a></td>
   </tr>
   <tr>
@@ -93,6 +93,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard e inizieranno a es
 
 * **Deprecazione della funzionalità _Inoltra a un amico_**: il 29 settembre 2025 la funzionalità _Inoltra a un amico_ nelle e-mail di Marketo Engage 2.0 (l’editor e-mail precedente) diventerà completamente obsoleta per tutti gli abbonamenti. Questo influisce sul token “Inoltra a un amico” e sui collegamenti “Inoltra a un amico” nelle e-mail che sono già state o saranno inviate utilizzando il token. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/deprecation-of-forward-to-a-friend/ba-p/358045#M2889){target="_blank"}
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il 31 gennaio 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il 31 gennaio 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il mercoledì 31 marzo 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

@@ -3,7 +3,7 @@ description: Note sulla versione - Marzo 2025 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2025
 feature: Release Information
 exl-id: a0e45d8e-6b74-4ab0-a1ba-4dae3754bc8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 39%
@@ -22,7 +22,7 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 28 marzo 2025** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 28 marzo 2025**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -43,8 +43,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Funzionalità GenAI nei webinar interattivi</strong>: è ora possibile generare capitoli e un riepilogo per i webinar on demand. Modificare ed esportare un file HTML dei dati.</td>
-   <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funzioni GenAI</a></td>
+   <td>Rilasciato</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/gen-ai">Funzioni GenAI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,7 +53,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Token globali e token Workspace</strong>: configura i token sia a livello di area di lavoro che a livello globale per consentire una maggiore produttività e il controllo sul materiale promozionale per brand e marketing nelle aree di lavoro di Marketo Engage e anche in intere istanze.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens.md#create-a-my-token">Crea un token personale globale</a></td>
   </tr>
   </tbody>
@@ -72,9 +72,9 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 Da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social in Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le attività social hanno cessato di funzionare. Tutte le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 ottobre 2025. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
-* **Deprecazione API SOAP**: il supporto per l&#39;API SOAP di Marketo terminerà il 31 ottobre 2025. I servizi che utilizzano le funzionalità API SOAP devono essere migrati all&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+* **Deprecazione API SOAP**: il supporto per l’API SOAP di Marketo terminerà il mercoledì 31 marzo 2026. I servizi che utilizzano le funzionalità API SOAP devono effettuare la migrazione all’[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
 
 * **Nuova funzionalità di Analytics - Beta pubblico**: [Advanced BI Analytics](/help/marketo/product-docs/reporting/advanced-bi-analytics/overview.md){target="_blank"} (precedentemente nota come Revenue Explorer e Advanced Report Builder) inizia il rollout per tutti gli utenti correnti di Revenue Cycle Explorer a metà aprile. Questo nuovo strumento offre un’interfaccia flessibile per la generazione di rapporti e visualizzazioni sui dati di Marketo Engage, che fornisce dettagli granulari su progressione, prestazioni e altro ancora. Offre maggiore interattività e visualizzazione, prestazioni più veloci e un&#39;esperienza utente più fluida e intuitiva.
 

@@ -3,7 +3,7 @@ description: Note sulla versione - Ottobre 2024 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 21%
@@ -22,7 +22,7 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 4 ottobre 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 4 ottobre 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr>
    <td><strong>Tokenizzazione per i webinar interattivi</strong>: ora puoi utilizzare i token per promuovere i webinar interattivi nelle e-mail e nelle pagine di destinazione senza dover aggiungere manualmente i dettagli del webinar.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md#interactive-webinars-tokens" target="_blank">Promozione di un webinar interattivo</a></td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <li>Le e-mail sono ora classificate come <i>interrotte</i> dopo tre giorni di attesa per l'attività di risposta</li>
    <li>Le aperture delle e-mail contano come aperture univoche separatamente per ogni Smart Campaign</li>
    </td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">Rapporto prestazioni e-mail</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <tr>
    <td><strong>Metriche backlog sincronizzazione Salesforce</strong>: monitorare le tendenze della velocità effettiva e del backlog di sincronizzazione per pianificare e pianificare gli aggiornamenti CRM per un'esperienza di sincronizzazione ottimale.
    </td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/crm-sync/salesforce-sync/salesforce-sync-backlog-metrics.md" target="_blank">Metriche backlog della sincronizzazione Salesforce</a></td>
   </tr>
  </tbody>
@@ -92,7 +92,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Aggiornamento API per estrazione in blocco**: è stato risolto un problema nell&#39;API per estrazione in blocco che interessava l&#39;opzione columnHeaderNames, che consente di specificare nomi di intestazione di colonna personalizzati nel file esportato. In precedenza, i nomi delle intestazioni di colonna contenenti caratteri non ASCII potevano danneggiarsi.
 
-* **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 gennaio 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Deprecazione del codice QR**: il 4 ottobre 2024 la funzione del codice QR utilizzata nelle notifiche push e nelle risorse di messaggistica in-app diventerà obsoleta. Ciò include l&#39;utilizzo di codici QR per un nuovo dispositivo di test e la creazione di nuove risorse con codici QR. Le funzioni obsolete con un utilizzo inferiore ci consentono di riallocare le loro risorse alla manutenzione complessiva di Marketo Engage.
 
