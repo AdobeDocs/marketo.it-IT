@@ -104,7 +104,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 ## Funzioni di Adobe Connect {#adobe-connect-features}
 
-Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar interattivi](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} di Marketo Engage sono basati su Adobe Connect. Di conseguenza, le funzioni riportate di seguito sono applicabili solo agli utenti dei webinar interattivi.
+Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} di Marketo Engage sono basati su Adobe Connect. Di conseguenza, le funzioni riportate di seguito sono applicabili solo agli utenti dei webinar interattivi.
 
 * **Pod sondaggio**: Adobe Connect 12.11 introduce un nuovo Pod sondaggio che consente agli host di progettare e consegnare moduli di feedback strutturati direttamente all&#39;interno di una sessione live.
 
@@ -112,7 +112,7 @@ Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar in
 
 * **Esperienza avanzata dell&#39;interfaccia della stanza**: Adobe Connect 12.11 introduce un&#39;interfaccia della stanza aggiornata e più moderna, basata sull&#39;ultimo framework di progettazione Spectrum 2 di Adobe, in linea con il linguaggio visivo utilizzato in altri prodotti Adobe come Creative Cloud e Experience Cloud.
 
-Per informazioni dettagliate, consulta le [Note sulla versione di Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Per informazioni dettagliate, consulta le [Note sulla versione di Adobe Connect 12.11](https://helpx.adobe.com/it/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Annunci {#announcements}
 
