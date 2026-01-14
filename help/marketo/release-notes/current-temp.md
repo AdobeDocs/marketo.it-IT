@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: c6b8dd17c4337b32c6bb4f0a1b9ce22c1e3b8715
+source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
 workflow-type: tm+mt
-source-wordcount: '452'
-ht-degree: 62%
+source-wordcount: '484'
+ht-degree: 61%
 
 ---
 
@@ -58,13 +58,53 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
   </tbody>
 </table>
 <br/>
 
 ## Funzioni di Adobe Connect {#adobe-connect-features}
 
-Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} di Marketo Engage sono basati su Adobe Connect. Di conseguenza, le funzioni riportate di seguito sono applicabili solo agli utenti dei webinar interattivi.
+Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar interattivi](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} di Marketo Engage sono basati su Adobe Connect. Di conseguenza, le funzioni riportate di seguito sono applicabili solo agli utenti dei webinar interattivi.
 
 * **Pod sondaggio**: Adobe Connect 12.11 introduce un nuovo Pod sondaggio che consente agli host di progettare e consegnare moduli di feedback strutturati direttamente all&#39;interno di una sessione live.
 
@@ -72,7 +112,7 @@ Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar in
 
 * **Esperienza avanzata dell&#39;interfaccia della stanza**: Adobe Connect 12.11 introduce un&#39;interfaccia della stanza aggiornata e più moderna, basata sull&#39;ultimo framework di progettazione Spectrum 2 di Adobe, in linea con il linguaggio visivo utilizzato in altri prodotti Adobe come Creative Cloud e Experience Cloud.
 
-Per informazioni dettagliate, consulta le [Note sulla versione di Adobe Connect 12.11](https://helpx.adobe.com/it/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Per informazioni dettagliate, consulta le [Note sulla versione di Adobe Connect 12.11](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
 
 ## Annunci {#announcements}
 
