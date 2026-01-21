@@ -3,9 +3,9 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: f806c0984cf221bd88fdf50013a8f1d2911b5d86
+source-git-commit: 733b85495632eaa31ce7fc08a82fb4948aadf29f
 workflow-type: tm+mt
-source-wordcount: '729'
+source-wordcount: '728'
 ht-degree: 100%
 
 ---
@@ -83,8 +83,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail designer - Test A/B</strong>: funzione di parità per il nuovo E-mail designer, che consente di eseguire test A/B per individuare i tipi di contenuto da cui è possibile ottenere risultati di risposta migliori.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Spedito</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
