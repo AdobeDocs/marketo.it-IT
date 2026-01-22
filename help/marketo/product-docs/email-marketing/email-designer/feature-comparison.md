@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 feature: Email Designer
 role: User
 exl-id: 37b42418-1733-447f-bab0-e1d461ef8110
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 6bb4455f1962164f6192ee050078fc65472f7ada
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '865'
 ht-degree: 10%
 
 ---
@@ -259,7 +259,7 @@ Consultate questa pagina (così come le [note sulla versione corrente](/help/mar
     <td>Sperimentazione (Test A/B)</td>
     <td>Possibilità di verificare le e-mail prima di inviarle al pubblico.</td>
     <td>Disponibile</td>
-    <td>Disponibile a breve</td>
+    <td>Disponibile</td>
   </tr>
   <tr>
     <td>Flussi di lavoro di approvazione dei contenuti</td>
