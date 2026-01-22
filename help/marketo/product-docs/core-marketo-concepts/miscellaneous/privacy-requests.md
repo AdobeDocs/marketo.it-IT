@@ -2,7 +2,7 @@
 description: Richieste di accesso a dati personali - Documentazione di Marketo - Documentazione del prodotto
 title: Richieste sulla privacy
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0105c6480f75f8daf3db61cd400a4956698839d9
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 16%
@@ -56,7 +56,7 @@ b. Indirizzo e-mail della persona su cui desideri agire
 
 * &quot;action&quot;: **accesso** (access) o **eliminazione** (delete)
 * &quot;userIDs&quot;:
-   * &quot;namespace&quot;: **email**
+   * &quot;namespace&quot;: **E-mail**
    * &quot;type&quot;: **standard**
    * &quot;value&quot;: `<Data Subject's Email Address>`
 
@@ -87,7 +87,7 @@ Richiesta JSON
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -117,7 +117,7 @@ Risposta JSON
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
@@ -150,7 +150,7 @@ Richiesta JSON
       ],
       "userIDs": [
         {
-          "namespace": "email",
+          "namespace": "Email",
           "type": "standard",
           "value": "john.doe@adobe.com"
         }
@@ -180,7 +180,7 @@ Risposta JSON
           ],
           "userIDs": [
             {
-              "namespace": "email",
+              "namespace": "Email",
               "value": "john.doe@adobe.com",
               "type": "standard",
               "namespaceId": 6,
