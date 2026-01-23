@@ -4,9 +4,9 @@ title: Authoring di e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
-source-git-commit: 38a35f2c6b2abfca6c200fa6d8e53452dcfaeff6
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '1721'
+source-wordcount: '1749'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuo
 >
 >Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
-## Creare un messaggio e-mail {#create-an-email}
+## Creare un’e-mail {#create-an-email}
 
 Le e-mail inviate da e-mail designer possono essere create solo in Design Studio e a cui si fa riferimento in Smart Campaigns/Lists, oppure create/utilizzate direttamente in Email Programs (Programmi e-mail) in questo momento.
 
@@ -33,7 +33,7 @@ Le e-mail inviate da e-mail designer possono essere create solo in Design Studio
 
    ![](assets/create-an-email-1.png)
 
-1. Nella struttura, seleziona **E-mail (nuovo editor)**.
+1. Nella struttura, seleziona **E-mail (nuova)**.
 
    ![](assets/create-an-email-2.png)
 
@@ -71,7 +71,7 @@ Tutto qui. Ora è il momento di progettare la tua e-mail.
 
 ## Scegli il tipo di contenuto {#choose-your-content-type}
 
-1. Nell&#39;e-mail appena creata, fai clic su **Aggiungi contenuto e-mail**.
+1. Nell&#39;e-mail appena creata, fai clic su **Modifica contenuto e-mail**.
 
    ![](assets/choose-your-content-type-1.png)
 
@@ -88,6 +88,12 @@ Tutto qui. Ora è il momento di progettare la tua e-mail.
 Quando inizi da zero, utilizza le opzioni seguenti per definire il contenuto.
 
 1. Nella pagina _Crea messaggio e-mail_, seleziona **Progetta da zero**.
+
+1. Scegli se iniziare con un tema (consigliato) o creare da zero con uno stile manuale.
+
+   >[!NOTE]
+   >
+   >Le e-mail create con stile manuale non potranno utilizzare frammenti creati con temi
 
 1. Aggiungi [struttura e contenuto](#add-structure-and-content) alla tua e-mail.
 
@@ -195,7 +201,7 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 >
 >Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne da 1:1, quindi trascina e rilascia il frammento all’interno di esso.
 
-Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_&#x200B;della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
+Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
 ### Aggiungi Assets {#add-assets}
 
@@ -227,13 +233,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e&#x200B;_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 

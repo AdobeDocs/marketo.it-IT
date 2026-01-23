@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e067b5f5e8a989d2fc98d54a5a5720cc93c644c
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '9325'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -261,7 +261,7 @@ ht-degree: 99%
       + [Panoramica sull’interfaccia di Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/experience-cloud-interface-overview.md)
    + Concetti di base su Marketo {#core-marketo-concepts}
       + Campagne avanzate {#smart-campaigns}
-         + [Informazioni sulle campagne avanzate](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
+         + [Informazioni sulle campagne smart](product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md)
          + Creare una campagna avanzata {#creating-a-smart-campaign}
             + [Informazioni sulle campagne avanzate batch e trigger](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md)
             + [Creare una nuova campagna avanzata](product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
@@ -755,7 +755,7 @@ ht-degree: 99%
          + [Testare gli annunci sponsorizzati di Facebook per l’integrazione per dispositivi mobili con Marketo](product-docs/demand-generation/facebook/test-facebook-lead-ads-for-mobile-integration-with-marketo.md)
          + [Informazioni sulle conversioni offline di Facebook](product-docs/demand-generation/facebook/understanding-facebook-offline-conversions.md)
          + [Utilizzare filtri e attivatori per annunci sponsorizzati in una campagna avanzata](product-docs/demand-generation/facebook/use-lead-ads-filters-and-triggers-in-a-smart-campaign.md)
-      + Forms {#forms}
+      + Moduli {#forms}
          + Creazione di un modulo {#creating-a-form}
             + [Creare un modulo](product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
             + [Aggiungere un campo a un modulo](product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md)
@@ -1351,7 +1351,7 @@ ht-degree: 99%
          + [Unire e deduplicare le categorie](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Modelli consigliati](product-docs/marketo-sales-connect/templates/recommended-templates.md)
          + [Modelli condivisi](product-docs/marketo-sales-connect/templates/shared-templates.md)
-         + [Inserimento di un modello](product-docs/marketo-sales-connect/templates/template-engagement.md)
+         + [Livello di coinvolgimento per un modello](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Utilizzo di HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Visualizzare l’elenco modelli come altro utente](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
          + Campi dinamici {#dynamic-fields}
@@ -1390,7 +1390,7 @@ ht-degree: 99%
             + [Informazioni sulla scheda Contenuto](product-docs/marketo-sales-insight/actions/analytics/understanding-the-content-tab.md)
             + [Informazioni sulla scheda personale](product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md)
             + [Informazioni sulla scheda Team](product-docs/marketo-sales-insight/actions/analytics/understanding-the-team-tab.md)
-            + [Inserimento di un modello](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
+            + [Livello di coinvolgimento per un modello](product-docs/marketo-sales-insight/actions/analytics/template-engagement.md)
          + Campagne {#campaigns}
             + [Aggiungere alla campagna di marketing](product-docs/marketo-sales-insight/actions/campaigns/add-to-marketing-campaign.md)
             + [La campagna è terminata](product-docs/marketo-sales-insight/actions/campaigns/campaign-has-ended.md)
@@ -1978,6 +1978,7 @@ ht-degree: 99%
          + [Note sulla versione - Luglio 2025](release-notes/previous-releases/2025/release-notes-july-25.md)
          + [Note sulla versione - Agosto 2025](release-notes/previous-releases/2025/release-notes-aug-25.md)
          + [Note sulla versione: settembre 2025](release-notes/previous-releases/2025/release-notes-sep-25.md)
+         + [Note sulla versione: ottobre 2025](release-notes/previous-releases/2025/release-notes-oct-25.md)
       + 2024 {#2024}
          + [Note sulla versione - Gennaio 2024](release-notes/previous-releases/2024/release-notes-jan-24.md)
          + [Note sulla versione - Marzo 2024](release-notes/previous-releases/2024/release-notes-mar-24.md)

@@ -5,10 +5,10 @@ hide: true
 hidefromtoc: true
 feature: Release Information
 exl-id: 0ca5e844-c30b-4c86-a23d-d8f2c1bdddf5
-source-git-commit: 96050d108aae64bbdab377cf5e31392df177b363
+source-git-commit: c353425db0dc8b08620feb68092b25c664111a03
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 61%
+source-wordcount: '599'
+ht-degree: 49%
 
 ---
 
@@ -34,7 +34,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <th style="width:25%">Documentazione</th>
   </tr>
   <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><strong>E-mail Designer - Gestisci marchi (beta)</strong>: genera contenuti e-mail in base alle linee guida specifiche per la scrittura in copia della tua organizzazione o del tuo marchio.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -44,7 +44,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><strong>Designer tramite e-mail - Miglioramento dell'Assistente per l'intelligenza artificiale</strong>: ora puoi aggiungere direttamente le risorse del brand nel prompt e chiedere al modello di fare riferimento a tale origine per la generazione del contenuto, anziché aggiungere manualmente una risorsa del brand come file.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -54,7 +54,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><strong>E-mail Designer - Anteprime visive per frammenti</strong>: tutti i frammenti pubblicati vengono ora visualizzati come miniature, rendendo molto più veloce l'identificazione di quello necessario.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -64,7 +64,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><strong>E-mail Designer - Punti elenco</strong>: ora puoi creare punti elenco a più livelli durante l'authoring di un'e-mail in E-mail Designer.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -74,7 +74,12 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><strong>Designer e-mail - Miglioramenti del contenuto condizionale</strong>: parità con la funzionalità <i>Contenuto dinamico</i> nel vecchio editor e-mail.
+   <ul>
+   <li>Il contenuto condizionale è ora applicabile alla segmentazione nelle cartelle condivise.</li>
+   <li>Le segmentazioni ora sono ordinate in ordine alfabetico.</li>
+   </ul>
+   </td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -84,17 +89,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td> </td>
   </tr>
   <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>TITOLO FUNZIONE</strong>: descrizione funzione.</td>
+   <td><strong>Designer e-mail - Cartelle</strong>: ora puoi organizzare le risorse create utilizzando il Designer e-mail (e-mail, modelli e-mail, frammenti) con le cartelle.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
@@ -102,19 +97,23 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 </table>
 <br/>
 
-## Funzioni di Adobe Connect {#adobe-connect-features}
+## Funzioni del ciclo di rilascio non standard {#non-standard-release-cycle-features}
 
-Queste funzioni sono già state rilasciate dal team Adobe Connect. I [webinar interattivi](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/events/interactive-webinars/interactive-webinars-overview){target="_blank"} di Marketo Engage sono basati su Adobe Connect. Di conseguenza, le funzioni riportate di seguito sono applicabili solo agli utenti dei webinar interattivi.
+Le seguenti funzioni sono state rilasciate al di fuori del ciclo di rilascio standard di Marketo Engage.
 
-* **Pod sondaggio**: Adobe Connect 12.11 introduce un nuovo Pod sondaggio che consente agli host di progettare e consegnare moduli di feedback strutturati direttamente all&#39;interno di una sessione live.
+### Webinar interattivi {#interactive-webinars}
+
+* **Pod per sondaggi**: un nuovo pod per sondaggi consente agli host di progettare e inviare moduli di feedback strutturati direttamente all&#39;interno di una sessione in tempo reale.
 
 * **Pod risorse**: il nuovo pod risorse sostituisce i pod precedenti File e Collegamenti Web, fornendo un unico modo unificato per condividere le risorse durante le sessioni live.
 
-* **Esperienza avanzata dell&#39;interfaccia della stanza**: Adobe Connect 12.11 introduce un&#39;interfaccia della stanza aggiornata e più moderna, basata sull&#39;ultimo framework di progettazione Spectrum 2 di Adobe, in linea con il linguaggio visivo utilizzato in altri prodotti Adobe come Creative Cloud e Experience Cloud.
+* **Esperienza avanzata dell&#39;interfaccia della stanza**: un&#39;interfaccia della stanza aggiornata e più moderna, basata sull&#39;ultimo framework di progettazione di Adobe Spectrum 2, in linea con il linguaggio visivo utilizzato in altri prodotti Adobe come Creative Cloud e Experience Cloud.
 
-Per informazioni dettagliate, consulta le [Note sulla versione di Adobe Connect 12.11](https://helpx.adobe.com/it/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"}.
+Visita [questa pagina](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} per i dettagli completi.
 
 ## Annunci {#announcements}
+
+* **Migrazione della community Marketo completata**: la nuova community Adobe Experience League è ora live. [Sono stati apportati diversi miglioramenti](https://experienceleaguecommunities.adobe.com/community-pulse-blog-34/community-update-streamlined-ways-to-engage-and-a-redesigned-homepage-247673){target="_blank"} per migliorare ulteriormente l&#39;esperienza della community Marketo. [Estrai](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}.
 
 * **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione &#39;Authorization&#39;, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
