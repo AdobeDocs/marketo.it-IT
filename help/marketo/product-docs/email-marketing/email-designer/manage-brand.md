@@ -7,7 +7,7 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 67b991264f4b31b01a2ec2ff411e71d4d5658336
+source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
 workflow-type: tm+mt
 source-wordcount: '1326'
 ht-degree: 8%
@@ -23,7 +23,6 @@ In [!DNL Marketo Engage], ora puoi inserire e organizzare manualmente i dettagli
 >[!AVAILABILITY]
 >
 >Prima di poter utilizzare l&#39;Assistente di intelligenza artificiale in Adobe Marketo Engage, devi accettare il [contratto utente](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html){target="_blank"}. Per ulteriori informazioni, contatta il tuo rappresentante Adobe.
-
 
 ## Accedere ai brand {#generative-access}
 
