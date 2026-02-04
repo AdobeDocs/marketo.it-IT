@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
-source-git-commit: 2f3cea36349de368e706da59f944a92708d976d2
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
-source-wordcount: '1326'
+source-wordcount: '1319'
 ht-degree: 8%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 8%
 
 Le linee guida per il marchio sono un set dettagliato di regole e standard che stabiliscono l’identità visiva e verbale di un marchio. Essi fungono da riferimento per mantenere una rappresentazione coerente del marchio su tutte le piattaforme di marketing e comunicazione.
 
-In [!DNL Marketo Engage], ora puoi inserire e organizzare manualmente i dettagli del tuo marchio o caricare documenti di linee guida per l&#39;estrazione automatica delle informazioni.
+Inserisci e organizza manualmente i dettagli del brand o carica i documenti di brand guideline per l’estrazione automatica delle informazioni.
 
 >[!AVAILABILITY]
 >

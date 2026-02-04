@@ -6,16 +6,16 @@ hide: true
 hidefromtoc: true
 exl-id: ef6b7311-55ca-4384-a24c-714eae89a57d
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
 workflow-type: tm+mt
 source-wordcount: '2051'
-ht-degree: 1%
+ht-degree: 69%
 
 ---
 
 # Passaggi di configurazione {#setup-steps}
 
-**Benvenuto in Adobe Marketo Engage!**
+**Ti diamo il benvenuto in Marketo Engage.**
 
 Prima di iniziare a utilizzare Marketo, devi completare alcuni passaggi.
 
@@ -23,14 +23,14 @@ Questi passaggi includono:
 
 * Configurazione account di base
 * Personalizzare gli URL della pagina di destinazione e i collegamenti e-mail per migliorare l’affidabilità e il recapito messaggi
-* Sincronizzazione del CRM in corso
-* Aggiunta di codice di tracciamento al sito Web aziendale
+* Sincronizzare il CRM
+* Aggiungere il codice di tracciamento al sito web aziendale
 
 >[!NOTE]
 >
->Devi eseguire questi passaggi solo se la tua azienda è **nuova in Marketo**. In caso contrario, la configurazione potrebbe essere già stata eseguita.
+>Devi eseguire questi passaggi solo se la tua azienda **usa Marketo per la prima volta**. In caso contrario, la configurazione potrebbe essere già stata eseguita.
 
-Alcuni passaggi richiedono l’aiuto del team IT.
+Alcuni passaggi richiedono il supporto del team IT.
 
 >[!TIP]
 >
@@ -114,7 +114,7 @@ I documenti di contatto per il supporto autorizzato sono stati spostati nella co
 
 >[!NOTE]
 >
->Sei cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà un documento con le istruzioni per la configurazione IT durante la tua chiamata di avvio.
+>Sei cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà un documento con le istruzioni per la configurazione IT durante la chiamata iniziale.
 
 >[!NOTE]
 >
@@ -122,15 +122,15 @@ I documenti di contatto per il supporto autorizzato sono stati spostati nella co
 
 Scegli un CNAME per le pagine di destinazione. Alcuni esempi:
 
-    * **vai**.[DominioSocietà].com
-    * **www2**.[DominioSocietà].com
-    * **lp**.[DominioSocietà].com
+    * **go**.[DominioAzienda].com
+    * **www2**.[DominioAzienda].com
+    * **lp**.[DominioAzienda].com
 
 >[!TIP]
 >
->Sii breve! Gli URL più brevi sono più facili da ricordare. Consigliamo di usare &quot;go&quot; come dominio.
+>Scegline uno breve. Gli URL più brevi sono più facili da ricordare. Consigliamo di usare “go” come dominio.
 
-La prima parte in grassetto è `[LandingPageCNAME]`. Ne avrai bisogno al punto 5.
+La prima parte (in grassetto) è il `[LandingPageCNAME]`. Ne avrai bisogno al Passaggio 5.
 
 Per recuperare il Munchkin ID che sostituirai con il CNAME della pagina di destinazione, passa all’area Amministratore.
 
@@ -140,43 +140,43 @@ Fai clic su **Il mio account**.
 
 ![](assets/setup-steps-10.png)
 
-Copia [!UICONTROL Account String] dalle impostazioni della pagina di destinazione.
+Copia la [!UICONTROL Account String] dalle impostazioni delle pagine di destinazione.
 
 ![](assets/setup-steps-11.png)
 
-Questo è `[Munchkin ID]`. Salvatela. Sarà necessario consegnarlo al reparto IT nel passaggio 5.
+Questo è il `[Munchkin ID]`. Salvalo. Dovrai fornirlo al reparto IT nel Passaggio 5.
 
-Configura le impostazioni del dominio in modo che le pagine di destinazione utilizzino il dominio della tua azienda invece di quello di Marketo (dove sono ospitate).
+Configura le impostazioni del dominio in modo che le pagine di destinazione utilizzino quello della tua azienda anziché quello di Marketo (dove sono ospitate).
 
-## Garantire il recapito dei messaggi e-mail {#ensure-email-deliverability}
+## Assicurare la recapitabilità delle e-mail {#ensure-email-deliverability}
 
 >[!NOTE]
 >
->Sei cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà un documento con le istruzioni per la configurazione IT durante la tua chiamata di avvio.
+>Sei cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà un documento con le istruzioni per la configurazione IT durante la chiamata iniziale.
 
-Puoi adottare diverse misure per garantire che le e-mail raggiungano il maggior numero possibile di persone.
+Puoi adottare diverse misure per assicurarti che le e-mail raggiungano il maggior numero possibile di persone.
 
-* **Personalizza i collegamenti di tracciamento**. Puoi scegliere un CNAME per utilizzare il tuo dominio (anziché quello di Marketo) nei collegamenti che includi nelle e-mail da Marketo. Questo rafforza il branding del dominio e aumenta la fiducia e il recapito messaggi con i destinatari.
-* **Aggiungi Marketo al tuo inserisco nell&#39;elenco Consentiti di e-mail aziendale per il tuo indirizzo e-mail di.** È consigliabile inviare e-mail di prova agli account di prova prima di inviarle alle persone. di inserire nell&#39;elenco Consentiti Marketo, puoi evitare che le e-mail di test vengano bloccate o contrassegnate come spam.
-* **Configurare SPF e DKIM.** Queste tecnologie assicurano ai destinatari che le e-mail Marketo non siano spam. Per evitare che i filtri anti-spam dei destinatari rifiutino le e-mail di Marketo, segui la procedura riportata di seguito per [Configurare un SPF e un DKIM per il recapito e-mail](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
-* **Imposta un record MX per il dominio.** Un record MX ti consente di ricevere e-mail al dominio da cui stai inviando l&#39;e-mail per elaborare le risposte e i risponditori automatici. Se invii dal dominio aziendale, probabilmente lo hai già configurato. In caso contrario, puoi in genere impostare la mappatura sul record MX del dominio aziendale.
-* **Impostazioni consigliate per l&#39;indirizzo Da.** In tutte le campagne e-mail devi utilizzare un dominio e-mail valido, esistente e funzionante nell&#39;Indirizzo mittente. Può essere utile configurare un sottodominio del dominio aziendale piuttosto che inviare dati dal dominio aziendale. In questo modo i problemi del flusso di posta aziendale non influiranno sul flusso di posta Marketo e viceversa. Inoltre, l&#39;invio di posta da `something@nonexistentdomain.com` causerà il filtraggio o il blocco delle e-mail. Qualsiasi dominio utilizzato nell&#39;indirizzo mittente deve avere un account postmaster@ valido e funzionante e un account abusivo@.
+* **Personalizza i collegamenti di tracciamento con il tuo brand**. Puoi scegliere un CNAME per utilizzare il tuo dominio (anziché quello di Marketo) nei collegamenti che includi nelle e-mail inviate da Marketo. Questo rafforza il branding del dominio e aumenta l’affidabilità e la recapitabilità ai destinatari.
+* **Aggiungi Marketo al tuo inserisco nell&#39;elenco Consentiti di e-mail aziendale per il tuo indirizzo e-mail di.** È consigliabile inviare e-mail di prova agli account di prova prima di inviarle alle persone. Inserendo Marketo nell’elenco Consentiti, puoi evitare che le e-mail di test vengano bloccate o contrassegnate come spam.
+* **Configurare SPF e DKIM.** Queste tecnologie assicurano ai destinatari che le e-mail Marketo non siano spam. Per evitare che i filtri anti-spam dei destinatari rifiutino le e-mail di Marketo, segui questi passaggi per [Configurare un SPF e un DKIM per la recapitabilità delle tue e-mail](/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md).
+* **Configura un record MX per il tuo dominio.** Un record MX ti consente di ricevere e-mail al dominio da cui le stai inviando, per elaborare le risposte e i risponditori automatici. Se invii dal dominio aziendale, probabilmente lo hai già configurato. In caso contrario, in genere puoi configurarlo con la mappatura sul record MX del dominio aziendale.
+* **Impostazioni consigliate per l’indirizzo Da.** In tutte le campagne e-mail devi utilizzare un dominio e-mail valido, esistente e funzionante nell’indirizzo Da. Può essere utile configurare un sottodominio del dominio aziendale invece di inviare da quest’ultimo. In questo modo eventuali problemi nel flusso di e-mail aziendale non influiranno su quello di Marketo e viceversa. Inoltre, se le e-mail vengono inviate da `something@nonexistentdomain.com`, verranno filtrate o bloccate. Il dominio utilizzato nell’indirizzo Da deve avere un account postmaster@ e un account abuse@ validi e funzionanti.
 
-Se utilizzi le app Google per l’hosting dell’e-mail aziendale, non potrai creare e-mail di abuso@ o postmaster@ nel tuo dominio. Per ovviare a questo problema, è necessario creare gruppi denominati &quot;abuso&quot; e &quot;postmaster&quot;. Gli utenti membri di questi gruppi riceveranno le e-mail inviate a tali indirizzi (ad esempio, <postmaster@domain.com>). Le istruzioni dettagliate per la creazione dei gruppi sono disponibili [qui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
+Se utilizzi le app Google per l’hosting dell’e-mail aziendale, non potrai creare e-mail abuse@ o postmaster@ nel tuo dominio. Per ovviare a questo problema, devi creare gruppi denominati “abuse” e “postmaster”. Gli utenti membri di questi gruppi riceveranno le e-mail inviate a tali indirizzi (ad esempio, <postmaster@domain.com>). Le istruzioni dettagliate per la creazione dei gruppi sono disponibili [qui](https://support.google.com/a/answer/33343#adminconsole){target="_blank"}.
 
-Scegli un CNAME per i collegamenti di tracciamento e-mail (scegli un CNAME _diverso_ dalla pagina di destinazione selezionata al passaggio 3). Alcuni esempi:
+Scegli un CNAME per i collegamenti di tracciamento e-mail (uno _diverso_ da quello della pagina di destinazione selezionata al Passaggio 3). Alcuni esempi:
 
-* vai2.[DominioSocietà].com
-* em.[DominioSocietà].com
-* wow![DominioSocietà].com
+* go2.[DominioAzienda].com
+* em.[DominioAzienda].com
+* wow.[DominioAzienda].com
 
 La prima parte è il CNAME di tracciamento e-mail, `[EmailTrackingCNAME]`. Sarà necessario somministrarlo al reparto IT nel passaggio 5.
 
 >[!CAUTION]
 >
->I CNAME per e-mail e pagina di destinazione devono essere diversi. Inoltre, evita CNAME come &quot;track&quot; o &quot;link&quot;. Viene spesso segnalato come spam
+>I CNAME di e-mail e pagina di destinazione devono essere diversi. Inoltre, evita CNAME come “track” o “link”. Vengono spesso segnalati come spam
 
-Per trovare il collegamento di tracciamento di Marketo, vai all&#39;area **[!UICONTROL Admin]**.
+Per trovare il collegamento di tracciamento di Marketo, passa all’area **[!UICONTROL Admin]**.
 
 ![](assets/setup-steps-12.png)
 
@@ -184,27 +184,27 @@ Fai clic su **[!UICONTROL Email]**.
 
 ![](assets/setup-steps-13.png)
 
-Copia [!UICONTROL Tracking Link] dalle impostazioni e-mail.
+Copia il [!UICONTROL Tracking Link] dalle impostazioni e-mail.
 
-[!UICONTROL Tracking Link] è nel formato: `mkto-[a-z][4 digits].com`.
+Il [!UICONTROL Tracking Link] è nel formato: `mkto-[a-z][4 digits].com`.
 
 ![](assets/setup-steps-14.png)
 
-`[MktoTrackingLink]`. Salvatela. Sarà necessario consegnarlo al reparto IT nel passaggio 5.
+Questo è il tuo `[MktoTrackingLink]`. Salvalo. Dovrai fornirlo al reparto IT nel Passaggio 5.
 
-Raccogli i domini &quot;Da&quot;. Creare un elenco di tutti i domini &quot;Da&quot; (come in `[Sender]@[FromDomain].com`) che si intende utilizzare per l&#39;invio di e-mail da Marketo. Per la maggior parte, ce n&#39;è solo uno.
+Raccogli i domini “Da”. Crea un elenco di tutti i domini “Da” (come in `[Sender]@[FromDomain].com`) che intendi utilizzare per l’invio di e-mail da Marketo. In genere, ce n’è solo uno.
 
-Ad esempio, &#39;marketo.com&#39; &#39;info.marketo.com&#39;. Si tratta di `[FromDomain1]`,`[FromDomain2]`, ecc. Salvateli. Dovrai assegnarli al reparto IT nel passaggio 5.
+Ad esempio, “marketo.com” “info.marketo.com”. Si tratta di `[FromDomain1]`,`[FromDomain2]`, ecc. Salvali. Dovrai fornirli al reparto IT nel Passaggio 5.
 
-Ora disponi di tutte le informazioni necessarie per inviare la richiesta al reparto IT.
+Ora hai tutte le informazioni necessarie per inviare la richiesta al reparto IT.
 
-## Chiedi all&#39;IT di configurare i protocolli {#ask-it-to-configure-protocols}
+## Chiedere al reparto IT di configurare i protocolli {#ask-it-to-configure-protocols}
 
 >[!NOTE]
 >
->Sei cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà un documento con le istruzioni per la configurazione IT durante la tua chiamata di avvio.
+>Sei cliente di Launch Pack? Puoi saltare questo passaggio. Il tuo consulente ti fornirà un documento con le istruzioni per la configurazione IT durante la chiamata iniziale.
 
-Una volta raccolte tutte le informazioni necessarie, puoi inviare una richiesta al reparto IT. È possibile utilizzare il testo seguente come modello, sostituendo il testo in grassetto con le proprie informazioni.
+Una volta raccolti tutti i dati necessari, puoi inviare una richiesta al reparto IT. Puoi utilizzare il testo seguente come modello, sostituendo quello in grassetto con i tuoi dati.
 
 [Includi un collegamento a questo articolo](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md).
 
@@ -212,21 +212,21 @@ Incolla questo testo nell’e-mail e sostituisci i segnaposto in grassetto:
 
 >[!NOTE]
 >
->Vedere i passaggi 3 e 4 per determinare il testo da sostituire ai segnaposto. Ricorda che `[LandingPageCNAME]` e `[EmailTrackingCNAME]` devono essere diversi.
+>Vedi i Passaggi 3 e 4 per determinare il testo da sostituire ai segnaposto. Ricorda che `[LandingPageCNAME]` e `[EmailTrackingCNAME]` devono essere diversi.
 
 `----------------------------------------------`
 
 Gentile Amministratore IT,
 
-Il team Marketing utilizza la piattaforma Marketo per comunicare con il personale. Per garantire un recapito messaggi e-mail ottimale, è necessario apportare le seguenti modifiche:
+il team Marketing ora utilizza la piattaforma Marketo per comunicare con il personale. Per garantire la migliore recapitabilità dei messaggi e-mail, è necessario apportare le seguenti modifiche:
 
-`1)` Per le nostre pagine di destinazione, aggiungi una voce DNS (CNAME) per **[LandingPageCNAME]**.**[DominioSocietà]**.com, che punta a **[ID Munchkin]**.mktoweb.com.
+`1)` Per le nostre pagine di destinazione, occorre aggiungere una voce DNS (CNAME) per **[CNAMEpaginaDestinazione]**.**[DominioAzienda]**.com, che punta a **[ID Munchkin]**.mktoweb.com.
 
-`2)` Per i collegamenti di tracciamento nelle e-mail, aggiungi una voce DNS (CNAME) per **[EmailTrackingCNAME]**.**[DominioSocietà]**.com, che punta a **[MktoTrackingLink]**.
+`2)` Per i collegamenti di tracciamento nelle e-mail, aggiungi una voce DNS (CNAME) per **[CNAMEtracciamentoEmail]**.**[DominioAzienda]**.com, che punta a **[LinkTracciamentoMkto]**.
 
-`3)` Inserire nell&#39;elenco Consentiti Marketo.
+`3)` Inserisci gli inrdirizzi IP di Marketo nell’elenco Consentiti.
 
-    * Se si utilizzano gli indirizzi IP nel Inserisco nell&#39;elenco Consentiti di delle e-mail, aggiungere gli IP elencati di seguito:
+    * Se utilizziamo gli indirizzi IP nel nostro elenco di indirizzi consentiti per l’e-mail, aggiungi gli IP elencati di seguito:
     199.15.212.0/22
     
     192.28.144.0/20
@@ -239,45 +239,43 @@ Il team Marketing utilizza la piattaforma Marketo per comunicare con il personal
     
     130.248.173.0/24
     
-    103.237.104.0/22
-    
     94.236.119.0/26
 
 >[!NOTE]
 >
->Contatta il Supporto Marketo se desideri un elenco abbreviato di IP da al inserisco nell&#39;elenco Consentiti specifico per il tuo ambiente.
+>Se ti serve un elenco abbreviato di indirizzi IP da inserire nell’elenco Consentiti specifico per il tuo ambiente, contatta l’assistenza di Marketo.
 
-    * Se il sistema antispam utilizza i domini From, aggiungi questi:
+    * Se il nostro sistema antispam utilizza i domini Da, aggiungi questi:
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**
 
 `4)` È necessario configurare SPF e DKIM in modo che Marketo sia autorizzato a inviare e-mail firmate per nostro conto.
 
-`a.` Per configurare SPF, aggiungere la seguente riga alle voci DNS:
+`a.` Per configurare SPF, aggiungi la riga seguente alle voci DNS:
 
-IN TXT **[Da dominio]**: v=spf1 mx ip4:**[IP aziendali]**
-<br/>include: mktomail.com ~tutti
+IN TXT **[Dominio Da]**: v=spf1 mx ip4:**[IP aziendali]**
+<br/>include: mktomail.com ~all
 
-Se disponiamo già di un record SPF nella voce DNS, è sufficiente aggiungervi quanto segue:
+Se abbiamo già un record SPF nella voce DNS, aggiungi semplicemente quanto segue:
 
 include:mktomail.com
 
-`[`Sostituisci **Dal dominio** con il tuo indirizzo e-mail Dal dominio (es: company.com) e **CorpIP** con l&#39;indirizzo IP del tuo server e-mail aziendale (es: 255.255.255.255).  Se intendi inviare e-mail da più domini tramite Marketo, il tuo staff IT dovrebbe aggiungere questa riga per ciascun dominio (su una riga).`]`
+`[`Sostituisci **Dominio Da** con il tuo dominio e-mail Da (es.: azienda.com) e **IP aziendali** con l’indirizzo IP del tuo server e-mail aziendale (es.: 255.255.255.255).  Se intendi inviare e-mail da più domini tramite Marketo, chiedi al personale IT di aggiungere questa riga per ciascun dominio (su una riga).`]`
 
-`b.` Per DKIM, creare record di risorse DNS per ogni dominio che si desidera impostare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per cui firmeremo:
+`b.` Per DKIM, crea record di risorse DNS per ogni dominio da configurare. Di seguito sono riportati i record host e i valori TXT per ogni dominio per il quale firmeremo:
 
 **`[DKIMDomain1]`**: il record host è **`[HostRecord1]`** e il valore TXT è **[TXTValue1]**.
 
 **`[DKIMDomain2]`**: il record host è **`[HostRecord2]`** e il valore TXT è **`[TXTValue2]`**.
 
-`[`Copiare **HostRecord** e **TXTValue** per ogni **DKIMDomain** configurato dopo aver seguito le [istruzioni](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Non dimenticare di verificare ogni dominio in **Amministratore > E-mail > DKIM** dopo che il personale IT ha completato questo passaggio.`]`
+`[`Copia **HostRecord** e **TXTValue** per ogni **DKIMDomain** configurato dopo aver seguito le [istruzioni qui](/help/marketo/product-docs/email-marketing/deliverability/set-up-a-custom-dkim-signature.md). Non dimenticare di verificare ogni dominio in **Amministrazione > E-mail > DKIM** dopo che il personale IT avrà completato questo passaggio.`]`
 
-`5)` È necessario verificare che sia presente un record MX valido per i domini FROM **[FromDomain1]**, **[FromDomain2]**, ecc. Può confermare? In caso contrario, configuralo per eseguire il mapping al record MX del dominio aziendale. In questo modo sarà possibile elaborare le risposte e i risponditori automatici alle nostre comunicazioni Marketo.
+`5)` È necessario verificare che sia presente un record MX valido per i domini FROM **[FromDomain1]**, **[FromDomain2]**, ecc. Puoi confermarlo? In caso contrario, ti prego di configuralo in modo che sia mappato sul record MX del nostro dominio aziendale. In questo modo sarà possibile elaborare le risposte e i risponditori automatici per i nostri mailing eseguiti con Marketo.
 
-Fatemi sapere quando avete completato questi passaggi, in modo che io possa completare il processo di configurazione con Marketo.
+Avvisami quando hai completato questi passaggi, in modo che io possa completare il processo di configurazione di Marketo.
 
-Grazie. Sei il migliore!
+Grazie. Apprezzo molto il tuo aiuto!
 
 Amore,
 
@@ -285,39 +283,39 @@ Amore,
 
 `----------------------------------------------`
 
-Invia l&#39;e-mail al reparto IT. Sappiamo che il completamento di queste attività può richiedere del tempo all&#39;IT. È possibile continuare con il passaggio 7, ma è necessario tornare al passaggio 6 per completare la configurazione di Marketo.
+Invia l’e-mail al reparto IT. Sappiamo che il completamento di queste attività può richiedere del tempo all’IT. È possibile continuare con il passaggio 7, ma è necessario tornare al passaggio 6 per completare la configurazione di Marketo.
 
-## Completare l&#39;installazione di Marketo al termine dell&#39;IT {#complete-your-marketo-setup-after-it-finishes}
+## Completare la configurazione di Marketo dopo il contributo del reparto IT {#complete-your-marketo-setup-after-it-finishes}
 
-Una volta completate le attività, segui questi passaggi per aggiungere la pagina di destinazione e i CNAME e-mail e per attivare la firma DKIM.
+Una volta che il reparto IT avrà completato le attività richieste, segui questi passaggi per aggiungere i CNAME delle pagine di destinazione e e-mail e per attivare la firma DKIM.
 
-Vai all&#39;area **[!UICONTROL Admin]** per aggiungere il tuo CNAME pagina di destinazione
+Passa all’area **[!UICONTROL Admin]** per aggiungere il CNAME delle pagine di destinazione
 
 ![](assets/setup-steps-15.png)
 
-Selezionare le pagine di destinazione e fare clic su **[!UICONTROL Edit]** nell&#39;area [!UICONTROL Settings].
+Seleziona le pagine di destinazione e fai clic **[!UICONTROL Edit]** nell’area [!UICONTROL Settings].
 
 ![](assets/setup-steps-16.png)
 
-Immettere il nuovo nome di dominio nel campo **[!UICONTROL Domain Name for Landing Pages]**. Il modulo dovrebbe essere:
+Immetti il nuovo nome di dominio nel campo **[!UICONTROL Domain Name for Landing Pages]**. Dovrebbe essere nel seguente formato:
 
 `[LandingPageCNAME].[CompanyDomain].com`
 
 ![](assets/setup-steps-17.png)
 
-Nel campo pagina **[!UICONTROL Fallback]**, immettere l&#39;URL a cui si desidera che le persone accedano se una pagina di destinazione non è disponibile. Se non disponi di una pagina di fallback, puoi utilizzare la home page dell’azienda. Nel campo **[!UICONTROL Homepage]**, immetti il sito Web della tua azienda.
+Nel campo della pagina **[!UICONTROL Fallback]**, immetti l’URL a cui desideri che le persone passino se una pagina di destinazione non è disponibile. Se non hai una pagina di fallback, puoi utilizzare la pagina Home della tua azienda. Nel campo **[!UICONTROL Homepage]**, immetti il sito web della tua azienda.
 
 ![](assets/setup-steps-18.png)
 
-Nell&#39;area [!UICONTROL Admin], seleziona **[!UICONTROL Email]** per aggiungere il tuo CNAME e-mail
+Nell’area [!UICONTROL Admin], seleziona **[!UICONTROL Email]** per aggiungere il tuo CNAME e-mail
 
 ![](assets/setup-steps-19.png)
 
-Scorri verso il basso fino a [!UICONTROL Branding Domains]. Selezionare il dominio e fare clic su **[!UICONTROL Edit]**.
+Scorri verso il basso fino a [!UICONTROL Branding Domains]. Seleziona il dominio e fai clic su **[!UICONTROL Edit]**.
 
 ![](assets/setup-steps-20.png)
 
-Nel campo Dominio, immetti il dominio di tracciamento e-mail. Il modulo dovrebbe essere:
+Nel campo Dominio, immetti il dominio di tracciamento e-mail. Dovrebbe essere nel seguente formato:
 
 `[EmailTrackingCNAME].[CompanyDomain].com`. Fai clic su **[!UICONTROL Save]**.
 
@@ -327,29 +325,29 @@ Nel campo Dominio, immetti il dominio di tracciamento e-mail. Il modulo dovrebbe
 
 Questo è probabilmente il passaggio più emozionante della tua configurazione: è ora di riempire Marketo con tutti quei lead e contatti che hai memorizzato nel tuo CRM!
 
-Scegli una delle seguenti opzioni, a seconda del sistema di gestione delle relazioni con i clienti utilizzato dalla tua azienda.
+Scegli una delle seguenti opzioni, a seconda del CRM utilizzato dalla tua azienda.
 
     * [Integrare Marketo con [!DNL Salesforce.com]](/help/marketo/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.md)
     * [Integrare Marketo con [!DNL Microsoft Dynamics]](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/understanding-the-microsoft-dynamics-sync.md)
 
 >[!NOTE]
 >
->Per completare questi passaggi, è necessario l’assistenza dell’amministratore del sistema di gestione delle relazioni con i clienti della tua azienda.
+>Per completare questi passaggi, è necessaria l’assistenza dell’amministratore del sistema CRM della tua azienda.
 
-## Aggiungi codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
+## Aggiungere il codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
 >Sei un cliente di [!DNL Launch Pack]? Puoi saltare questo passaggio. Il tuo consulente ti fornirà le istruzioni del codice [!DNL Munchkin] nel documento di istruzioni per la configurazione IT.
 
-Marketo dispone di un JavaScript di tracciamento personalizzato (denominato [!DNL Munchkin]) che è possibile utilizzare per tenere traccia delle attività personali su qualsiasi pagina Web. [!DNL Munchkin] è richiesto per integrare il sito Web in Marketo. Segui questi passaggi per [Aggiungere [!DNL Munchkin] codice di tracciamento al tuo sito Web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
+Marketo dispone di un JavaScript di tracciamento personalizzato (denominato [!DNL Munchkin]) che è possibile utilizzare per tenere traccia delle attività personali su qualsiasi pagina Web. [!DNL Munchkin] è richiesto per integrare il sito web in Marketo. Segui questi passaggi per [aggiungere il codice di tracciamento [!DNL Munchkin] al tuo sito web](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"}.
 
 >[!NOTE]
 >
 >Per aggiungere il codice di tracciamento è necessaria un’esperienza con HTML.
 
-## Aspettative di prestazioni {#performance-expectations}
+## Aspettative in merito alle prestazioni {#performance-expectations}
 
-Quali sono le aspettative in termini di prestazioni di Marketo? Può variare a seconda delle dimensioni e della complessità delle campagne di marketing. Tuttavia, è possibile aspettarsi livelli di prestazioni equivalenti a quelli descritti nella colonna &quot;Standard&quot; in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne &quot;Prestazioni&quot; e &quot;Performance Plus&quot; fanno riferimento a pacchetti del livello prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
+Quali sono le tue aspettative in termini di prestazioni di Marketo? Possono variare a seconda della dimensione e della complessità delle campagne di marketing. Tuttavia, puoi contare su livelli di prestazioni equivalenti a quelli descritti nella colonna “Standard” in diverse tabelle presenti nella [descrizione del prodotto Marketo Engage](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html){target="_blank"}. Le colonne “Performance” e “Performance Plus” fanno riferimento a pacchetti per livello di prestazioni che forniscono [livelli di prestazioni superiori](https://nation.marketo.com/t5/product-documents/marketo-engage-performance-tiers/ta-p/328835){target="_blank"}.
 
 Tutti i passaggi di configurazione sono terminati. L&#39;unica cosa che rimane è tuffarsi e usare Marketo!
