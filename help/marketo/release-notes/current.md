@@ -103,7 +103,7 @@ Le seguenti funzioni sono state rilasciate al di fuori del ciclo di rilascio sta
 
 * **Esperienza avanzata dell&#39;interfaccia della stanza**: un&#39;interfaccia della stanza aggiornata e più moderna, basata sull&#39;ultimo framework di progettazione di Adobe Spectrum 2, in linea con il linguaggio visivo utilizzato in altri prodotti Adobe come Creative Cloud e Experience Cloud.
 
-Visita [questa pagina](https://helpx.adobe.com/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} per i dettagli completi.
+Visita [questa pagina](https://helpx.adobe.com/it/adobe-connect/release-note/adobe-connect-12-11-release-notes.html){target="_blank"} per i dettagli completi.
 
 ## Annunci {#announcements}
 
