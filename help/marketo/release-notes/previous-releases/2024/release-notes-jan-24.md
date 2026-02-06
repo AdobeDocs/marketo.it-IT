@@ -3,7 +3,7 @@ description: Note sulla versione - Gennaio 2024 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2024
 feature: Release Information
 exl-id: 64e85f6c-b746-46b6-ab51-5ad1817396b2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '782'
 ht-degree: 18%
@@ -20,7 +20,7 @@ Qui sotto troverai tutte le funzioni incluse nella versione di gennaio 2024. Ver
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 12 gennaio 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 12 gennaio 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr>
    <td><strong>Webinar on demand per webinar interattivi</strong>: i webinar on demand consentono di pubblicare la registrazione del webinar e di tenere traccia delle visite/degli orologi. Questo ti aiuterà a ottenere più lead attraverso gli utenti che non hanno partecipato al webinar (no-show) ma sono ancora interessati a scoprire ulteriori dettagli e visualizzare la registrazione.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/on-demand-webinars.md" target="_blank">Webinar on demand</a></td>
   </tr>
    <tr>
@@ -51,7 +51,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr>
    <td><strong>Filtro attività bot e-mail</strong>: migliora l'acquisizione dell'attività bot per il coinvolgimento e-mail consentendo di scegliere il livello di aggressività desiderato per il filtro di identificazione dell'attività bot.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md" target="_blank">Filtrare l’attività bot dell’e-mail</a></td>
   </tr>
   <tr>
@@ -61,7 +61,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    </tr>
     <tr>
    <td><strong>Aggiornamento API Importazione lead in blocco</strong>: è stata apportata una modifica minore al comportamento dell'API Importazione lead in blocco quando <b>id</b> è specificato come <b>lookupField</b> durante la creazione del processo. Se un record persona collegato al <b>id</b> specificato non viene trovato nel database di Marketo Engage, non verrà eseguito alcun aggiornamento del record, poiché non è possibile individuare il record. Il comportamento aggiornato ora include l'incremento del conteggio nella proprietà <b>numOfRowsFailed</b> all'interno della risposta, segnalando che l'operazione non è riuscita in questi casi.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    </tr>
   <tr>
    <td><strong>Co-host per webinar interattivi</strong>: i co-host nella sezione Team webinar dei webinar interattivi consentono al creatore dell'evento di aggiungere utenti interni o esterni al programma Webinar interattivi per condividere responsabilità amministrative e di consegna.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md#adding-a-webinar-team" target="_blank">Aggiunta di un team di webinar</a></td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
     <tr>
    <td><strong>Rimozione di un utente nei webinar interattivi</strong>: un amministratore di Marketo Engage può ora rimuovere uno o più utenti specifici nei webinar interattivi.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
  </tbody>
@@ -92,7 +92,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in varie date prima o dopo la data di rilascio standard. Verifica lo stato di ciascuna funzionalità.
 
-### Azioni Insight vendite {#sales-insight-actions}
+### Azioni Sales Insight {#sales-insight-actions}
 
 ![(stella)](assets/yellow-star.png)
 
@@ -160,7 +160,7 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
     </tr>
     <tr>
    <td><strong>Terminazione manuale chat in diretta</strong>: sia i visitatori che gli agenti possono ora terminare manualmente una sessione di chat in diretta.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#end-a-session" target="_blank">Casella in entrata agente</a></td>
   </tr>
   <tr>
@@ -194,7 +194,7 @@ Tutte le funzioni seguenti seguono un formato Agile e vengono rilasciate in vari
 
 * **Aggiornamento API lead sincronizzazione**: il comportamento dell&#39;API lead [Sincronizza](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Leads/operation/syncLeadUsingPOST){target="_blank"} è stato leggermente modificato per quanto riguarda gli aggiornamenti al campo `unsubscribed`. Ora, quando si passa `null` come valore, equivale a passare un valore di `false`.
 
-* **Marketo Engage Forms jQuery 1.x**: nella versione di gennaio 2024, aggiorneremo jQuery per Marketo Engage Forms a jQuery 3.x. Questo può influire sull’implementazione di moduli personalizzati basati su versioni precedenti di jQuery. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
+* **Marketo Engage Forms jQuery 1.x**: nella versione di gennaio 2024, aggiorneremo jQuery per Marketo Engage Forms a jQuery 3.x. Questo può influire sull’implementazione di moduli personalizzati basati su versioni precedenti di jQuery. Per ulteriori informazioni, [consulta questo articolo](https://nation.marketo.com/t5/product-blogs/marketo-engage-forms-amp-forms2-js-jquery-update/ba-p/341705){target="_blank"}.
 
 * **Verifica e-mail per solo utenti SSO**: solo gli utenti SSO venivano verificati automaticamente, consentendo loro di utilizzare un account e-mail inaccessibile. A partire dalla metà di gennaio, tutti gli utenti SSO Only esistenti non saranno più verificati e verrà richiesto di ricontrollare la posta elettronica tramite un collegamento inviato all&#39;account di posta elettronica. Tutti i nuovi utenti Solo SSO dovranno verificare i propri indirizzi e-mail in futuro.
 

@@ -3,10 +3,10 @@ description: Note sulla versione - Gennaio 2023 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2023
 exl-id: 584f74e5-ed0a-4f2f-9a1e-93cb8804dec8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 23%
+ht-degree: 22%
 
 ---
 
@@ -20,7 +20,7 @@ Di seguito sono elencate tutte le funzioni incluse nella versione di gennaio 202
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 20 gennaio 2023** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 20 gennaio 2023**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Marketo Engage Modern UX {#modern-ux}
 
@@ -34,10 +34,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Attiva/Disattiva</a></td>
   </tr>
   </tbody>
@@ -49,10 +49,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -67,10 +67,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -85,11 +85,11 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
-   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html?lang=it">Marketo Measure Ultimate</a></td>
+   <td>Rilasciato</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/adobe/marketo-measure-ultimate.html">Marketo Measure Ultimate</a></td>
   </tr>
   </tbody>
 </table>
@@ -103,10 +103,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/administration/settings/bulk-export-api-information.md">Informazioni API dell’esportazione in blocco</a></td>
   </tr>
   </tbody>
@@ -125,10 +125,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -139,10 +139,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendario</a></td>
   </tr>
   </tbody>
@@ -153,10 +153,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -167,10 +167,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -181,10 +181,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/meeting-list.md">Riunioni</a></td>
   </tr>
   </tbody>

@@ -3,7 +3,7 @@ description: Note sulla versione - Aprile 2024 - Documenti Marketo - Documentazi
 title: Note sulla versione - Aprile 2024
 feature: Release Information
 exl-id: d87474f8-fc47-407b-bc97-e343b56c1f8f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 27%
@@ -22,7 +22,7 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 26 aprile 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 26 aprile 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
      <tr>
    <td><strong>Miglioramenti ai webinar interattivi</strong>: è ora possibile consentire a host e relatori di aggiungere un titolo al webinar, rinominare una room e sincronizzare manualmente i dati di coinvolgimento dopo la consegna dell'evento.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/create-an-interactive-webinar.md">Creare un webinar interattivo</a></li>
    <li><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/event-workflows.md#manual-sync">Sincronizzazione manuale</a></li></td>
   </tr>
@@ -66,7 +66,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <li>Crea elenco</li>
    <li>Esporta attività campagna</li>
    </td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md">Descrizioni delle autorizzazioni per il ruolo</a></td>
   </tr>
  </tbody>

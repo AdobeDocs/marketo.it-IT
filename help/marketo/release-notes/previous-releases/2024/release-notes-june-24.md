@@ -3,10 +3,10 @@ description: Note sulla versione - Giugno 2024 - Documenti Marketo - Documentazi
 title: Note sulla versione - Giugno 2024
 feature: Release Information
 exl-id: 66e34e3f-86f3-4d68-a637-98e342e0d26c
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '279'
-ht-degree: 37%
+ht-degree: 36%
 
 ---
 
@@ -22,7 +22,7 @@ Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 7 giugno 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 7 giugno 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -33,7 +33,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
      <tr>
    <td><strong>Modelli per webinar interattivi</strong>: gli addetti al marketing possono ora creare modelli personalizzati per i layout delle room nei webinar interattivi.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/events/interactive-webinars/templates.md">Modelli</a></td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
      <tr>
    <td><strong>Campi dedotti in Forms</strong>: l'origine dati utilizzata per compilare i campi dedotti quando una persona viene creata tramite compilazione modulo senza alcuna attività Web precedente è stata aggiornata per utilizzare la stessa origine dati di altri metodi di raccolta di persone. I dati del campo dedotti sono ora coerenti tra tutti i punti di raccolta.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
  </tbody>

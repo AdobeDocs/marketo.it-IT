@@ -3,10 +3,10 @@ description: Note sulla versione - Ottobre 2022 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2022
 exl-id: 1494b8b9-049c-4969-ab95-a4be41d886b0
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '603'
-ht-degree: 23%
+ht-degree: 21%
 
 ---
 
@@ -20,7 +20,7 @@ Qui sotto trovi tutte le funzioni incluse nella versione di ottobre 2022. Verifi
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 14 ottobre 2022** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 14 ottobre 2022**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Di seguito è riportato lo stato di ciascuna funzionalità.
 
 ### Ambiente dati di marketing {#marketing-data-environment}
 
@@ -31,10 +31,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-field-sync.md">Sincronizzazione campo personalizzato del membro del programma</a></td>
   </tr>
   </tbody>
@@ -45,10 +45,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md">Adobe Identity Management</a></td>
   </tr>
   </tbody>
@@ -66,10 +66,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Attiva/Disattiva</a></td>
   </tr>
   </tbody>
@@ -80,10 +80,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -94,10 +94,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -112,10 +112,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="https://developer.adobe.com/marketo-apis/api/mapi/#tag/Bulk-Import-Leads">Importazione lead in blocco</a></td>
   </tr>
   </tbody>
@@ -132,10 +132,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/dynamic-chat-integration.md">Integrazione Dynamic Chat</a></td>
   </tr>
   </tbody>
@@ -150,10 +150,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-icons">Icone Streaming Designer</a></td>
   </tr>
   </tbody>
@@ -164,10 +164,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-settings.md">Calendario</a></td>
   </tr>
   </tbody>
@@ -178,10 +178,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>

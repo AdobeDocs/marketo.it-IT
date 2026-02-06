@@ -4,10 +4,10 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 5c9b5d656b685d5afd8d1118268957fc7be068ee
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 94%
+source-wordcount: '144'
+ht-degree: 91%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 94%
 
 * **Secondo pianificazione**: il rilascio delle funzioni e dei miglioramenti è previsto per la data indicata
 * **In corso**: stiamo implementando le funzioni della versione
-* **Rilasciato**: rilascio completato
+* **Completo** - Rilascio completato
 
 _Le date/funzionalità di rilascio sono soggette a modifiche_
 
@@ -33,43 +33,48 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <th width="250px">Stato</th>
   </tr>
   <tr>
-   <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-may-25.md">Luglio 2025</a></td>
-   <td>sabato 11 luglio 2025</td>
-   <td>Rilasciato</td>
-  </tr>
-  <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-aug-25.md">Agosto 2025</a></td>
    <td>22 agosto 2025</td>
-   <td>Rilasciato</td>
+   <td>Completa</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/previous-releases/2025/release-notes-sep-25.md">Settembre 2025</a></td>
    <td>19 settembre 2025</td>
-   <td>Rilasciato</td>
+   <td>Completa</td>
   </tr>
   <tr>
    <td><a href="/help/marketo/release-notes/current.md">Ottobre 2025</a></td>
    <td>31 ottobre 2025</td>
+   <td>Completa</td>
+  </tr>
+  <tr>
+  <td><a href="/help/marketo/release-notes/current.md">Gennaio 2026</a></td>
+   <td>30 gennaio 2026</td>
    <td>In corso</td>
   </tr>
   <tr>
-  <td>Gennaio 2026</td>
-   <td>30 gennaio 2026</td>
-   <td>Secondo pianificazione</td>
-  </tr>
-  <tr>
-  <td>Febbraio '26</td>
+  <td>Febbraio 2026</td>
    <td>20 febbraio 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
   <td>Marzo 2026</td>
-   <td>sabato 27 marzo 2026</td>
+   <td>27 marzo 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
-  <td>Maggio '26</td>
-   <td>sabato 1 maggio 2026</td>
+  <td>Maggio 2026</td>
+   <td>1 maggio 2026</td>
+   <td>Secondo pianificazione</td>
+  </tr>
+  <tr>
+  <td>Maggio '26 (seconda versione)</td>
+   <td>sabato 22 maggio 2026</td>
+   <td>Secondo pianificazione</td>
+  </tr>
+  <tr>
+  <td>Giugno 2026</td>
+   <td>26 giugno 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
  </tbody>

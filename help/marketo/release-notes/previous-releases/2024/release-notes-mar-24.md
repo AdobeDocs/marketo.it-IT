@@ -3,7 +3,7 @@ description: Note sulla versione - Marzo 2024 - Documentazione di Marketo - Docu
 title: Note sulla versione - Marzo 2024
 feature: Release Information
 exl-id: d8bc7f88-a77b-4b49-aed5-aceab9e639f0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 30%
@@ -20,7 +20,7 @@ Qui sotto troverai tutte le funzioni incluse nella versione di marzo 2024. Verif
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il giorno **sabato 8 marzo 2024** con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a essere rilasciate il **sabato 8 marzo 2024**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -31,7 +31,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Logica di flusso conversazionale avanzata</strong>: aggiungere ulteriori campi per la valutazione in un'unica scelta per il follow-up del flusso conversazionale.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni del flusso conversazionale per moduli Marketo Engage</a></td>
   </tr>
    <tr>
@@ -42,7 +42,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    </tr>
     <tr>
    <td><strong>Riordina logica di flusso conversazionale</strong>: in Marketo Engage Forms è ora possibile riordinare le scelte di flusso conversazionale, invece di dover eliminare e aggiungere di nuovo.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-settings-for-marketo-engage-forms.md" target="_blank">Impostazioni del flusso conversazionale per moduli Marketo Engage</a></td>
    </tr>
   <tr>
@@ -53,7 +53,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
     <tr>
    <td><strong>Metadati attività API</strong>:
    I metadati come Agente utente, Platform e Device sono ora inclusi nelle attività web ed e-mail, consentendo di ottenere informazioni coerenti su queste attività tramite l’API REST di Marketo.</td>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
  </tbody>
@@ -64,4 +64,4 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Correzione API Get Program Member**: di recente è stata apportata una modifica per correggere il comportamento dell&#39;endpoint [Get Program Members](https://developer.adobe.com/marketo-apis/api/mapi/#tag/Program-Members/operation/getProgramMembersUsingGET){target="_blank"}. In precedenza, quando si utilizzava il tipo di filtro `updatedAt` per specificare un intervallo di date, era possibile che i record di appartenenza al programma aggiornati all&#39;interno di tale intervallo non venissero inclusi nella risposta. Inoltre, è possibile che i record di iscrizione al programma aggiornati al di fuori dell’intervallo di date specificato non vengano inclusi correttamente nella risposta. Entrambi i problemi sono stati risolti.
 
-* **Deprecazione plug-in del browser Insight per account**: Adobe rimuoverà il plug-in del browser Insight per la gestione degli account di Target [dal Web store di Chrome l&#39;8 aprile 2024. &#x200B;](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} Utenti esistenti: puoi continuare a utilizzare il plug-in fino a quando non esegui la migrazione dell’istanza Marketo Engage ad Adobe Identity e Admin Console. Questa modifica **non influirà** su altre funzionalità/dati TAM all&#39;interno di Marketo Engage o dei plug-in e-mail di Chrome e Outlook che funzionano con Sales Insight. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.
+* **Deprecazione plug-in del browser Insight per account**: Adobe rimuoverà il plug-in del browser Insight per la gestione degli account di Target [dal Web store di Chrome l&#39;8 aprile 2024. ](/help/marketo/product-docs/target-account-management/setup-tam/account-insight-plug-in-overview.md){target="_blank"} Utenti esistenti: puoi continuare a utilizzare il plug-in fino a quando non esegui la migrazione dell’istanza Marketo Engage ad Adobe Identity e Admin Console. Questa modifica **non influirà** su altre funzionalità/dati TAM all&#39;interno di Marketo Engage o dei plug-in e-mail di Chrome e Outlook che funzionano con Sales Insight. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-account-insights-browser-plug-in-end-of-life/ba-p/344834){target="_blank"}.

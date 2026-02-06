@@ -3,10 +3,10 @@ description: Note sulla versione - Luglio 2023 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
 workflow-type: tm+mt
 source-wordcount: '655'
-ht-degree: 21%
+ht-degree: 20%
 
 ---
 
@@ -29,10 +29,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/core-marketo-concepts/engagement-map/engagement-map-overview.md" target="_blank">Panoramica sulla mappa di coinvolgimento</a></td>
   </tr>
   </tbody>
@@ -43,10 +43,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -65,10 +65,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -79,10 +79,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
   </tbody>
@@ -97,10 +97,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/email/unsubscribes/auto-append-unsubscribe-message-setting.md" target="_blank">Aggiungere automaticamente l’impostazione del messaggio di annullamento dell’iscrizione</a></td>
   </tr>
   </tbody>
@@ -111,10 +111,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/field-prompts.md" target="_blank">Prompt dei campi</a></td>
   </tr>
   </tbody>
@@ -125,10 +125,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/actions/templates/dynamic-fields.md" target="_blank">Campi dinamici</a></td>
   </tr>
   </tbody>
@@ -139,7 +139,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
    <td><i>Disponibile a breve</i></td>
@@ -153,7 +153,7 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
    <td><i>Disponibile a breve</i></td>
@@ -167,10 +167,10 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 <table>
   <tr>
    <td><b>Stato</b></td>
-   <td><b>Aggiornamenti della documentazione</b></td>
+   <td><b>Aggiornamenti alla documentazione</b></td>
   </tr>
   <tr>
-   <td>Spedito</td>
+   <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md" target="_blank">Token di attivazione Dynamic Chat</a></td>
   </tr>
   </tbody>
