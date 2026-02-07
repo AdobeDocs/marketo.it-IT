@@ -141,7 +141,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   <tr>
    <td>Privacy e conformità</td>
    <td><li>Hai programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata?
-   <br/>     Considera <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, ecc.</li>
+   <br/>     Considera <a href="https://business.adobe.com/it/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, ecc.</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
   <tr>

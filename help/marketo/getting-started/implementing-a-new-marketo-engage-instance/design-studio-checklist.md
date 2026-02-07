@@ -58,7 +58,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
   </tr>
   <tr>
     <td>Privacy e conformità</td>
-    <td><li>Mantieni i moduli conformi al <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>.</li></td>
+    <td><li>Mantieni i moduli conformi al <a href="https://business.adobe.com/it/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">Regolamento generale sulla protezione dei dati (RGPD)</a>.</li></td>
   </tr>
   <tr>
     <td>Standardizzazione dati</td>

@@ -139,7 +139,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
   </tr>
   <tr>
     <td>Privacy e conformità</td>
-    <td><li>Crea programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata, ad esempio <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA e così via</a></li>
+    <td><li>Crea programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata, ad esempio <a href="https://business.adobe.com/it/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">GDPR, CASL, CAN-SPAM, CCPA e così via</a></li>
     <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: ricorda sempre di consultare il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
   <tr>

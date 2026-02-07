@@ -95,7 +95,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr>
    <td>Privacy e conformità</td>
    <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in?
-   <br/>     Prendi in considerazione <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">il Regolamento generale sulla protezione dei dati (RGPD)</a>, la legge canadese anti-spam (CASL), il Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
+   <br/>     Prendi in considerazione <a href="https://business.adobe.com/it/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">il Regolamento generale sulla protezione dei dati (RGPD)</a>, la legge canadese anti-spam (CASL), il Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody>
