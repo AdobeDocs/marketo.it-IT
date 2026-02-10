@@ -4,10 +4,10 @@ description: Aggiungere un collegamento Visualizza come pagina web a un messaggi
 title: Aggiungere un collegamento Visualizza come pagina web a un’e-mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 13%
+source-wordcount: '159'
+ht-degree: 12%
 
 ---
 
@@ -17,7 +17,9 @@ Le e-mail hanno funzionalità limitate (CSS limitate e nessun JavaScript o modul
 
 >[!NOTE]
 >
->Durante la creazione di una nuova e-mail, l’opzione Visualizza come pagina web non è abilitata. Se lo abiliti e cloni l’e-mail, questa impostazione verrà copiata.
+>* Durante la creazione di una nuova e-mail, l’opzione Visualizza come pagina web non è abilitata. Se lo abiliti e cloni l’e-mail, questa impostazione verrà copiata.
+>
+>* I collegamenti &quot;Visualizza come pagina web&quot; scadono dopo sei mesi.
 
 1. Selezionare l&#39;indirizzo di posta elettronica e fare clic su **[!UICONTROL Edit Draft]**.
 
