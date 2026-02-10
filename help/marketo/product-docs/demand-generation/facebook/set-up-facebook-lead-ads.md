@@ -4,10 +4,10 @@ description: Configurare i lead Ads di Facebook - Documentazione di Marketo - Do
 title: Configurare i lead sponsorizzati su Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 3%
+source-wordcount: '324'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,9 @@ Utilizza [Facebook Lead Ads](https://www.facebook.com/business/ads/ad-objectives
 
 >[!NOTE]
 >
->**Autorizzazioni amministratore richieste**
+>* **Autorizzazioni amministratore richieste**
+>
+>* Quando crei i moduli di annunci lead per Facebook, accertati che il nome del modulo non contenga solo caratteri numerici. Il nome del modulo deve essere alfabetico o alfanumerico.
 
 >[!AVAILABILITY]
 >
