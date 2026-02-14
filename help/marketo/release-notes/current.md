@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: ce6a748acfb25ebc90c31dbfb16cf0230ca20b73
+source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 58%
+source-wordcount: '286'
+ht-degree: 60%
 
 ---
 
@@ -64,16 +64,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail Designer - API</strong>: ora puoi utilizzare le chiamate API per E-mail Designer.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Gestione elenchi di controllo</strong>: specificare i valori che possono essere utilizzati nei campi all'interno dell'interfaccia Marketo.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
