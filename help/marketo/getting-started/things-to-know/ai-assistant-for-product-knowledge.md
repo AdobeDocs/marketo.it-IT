@@ -4,9 +4,10 @@ title: Assistente AI per la conoscenza del prodotto
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: 18923353978a8f3e635ee7b34073d041d92a3759
+exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
+source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -36,3 +37,7 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
    >[!TIP]
    >
    >Utilizza questa icona (icona immagine qui) per espandere la schermata e questa icona (icona immagine qui) per visualizzare la cronologia dei prompt. &lt;— QUANTO INDIETRO? ESISTE UN&#39;IMPOSTAZIONE?
+
+## Guida introduttiva: panoramica video di 60 secondi {#video}
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
