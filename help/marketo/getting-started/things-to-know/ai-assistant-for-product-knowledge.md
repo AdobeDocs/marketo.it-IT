@@ -40,4 +40,4 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
 
 ## Guida introduttiva: panoramica video di 60 secondi {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480123?captions=ita&learn=on){transcript=true}
