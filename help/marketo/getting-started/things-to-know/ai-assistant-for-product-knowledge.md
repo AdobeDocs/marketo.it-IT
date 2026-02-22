@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: a9aebd242033df4e45c3bf5cb3b5a91d80d94d0e
+source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
 
 1. Accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experience.adobe.com/).
 
-1. Seleziona l’icona dell’assistente AI nell’intestazione.
+1. Seleziona l’icona dell’assistente AI sul lato destro dell’intestazione.
 
    SCHERMATA
 
-1. Immettere il prompt desiderato nella finestra del prompt utilizzando il linguaggio naturale.
+1. Immetti il prompt desiderato utilizzando il linguaggio naturale.
 
    SCHERMATA
 
@@ -36,7 +36,7 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
 
    >[!TIP]
    >
-   >Utilizza questa icona (icona immagine qui) per espandere la schermata e questa icona (icona immagine qui) per visualizzare la cronologia dei prompt. &lt;— QUANTO INDIETRO? ESISTE UN&#39;IMPOSTAZIONE?
+   >Utilizza questa icona (immagine icona qui) per espandere la schermata e questa icona (immagine icona qui) per visualizzare la cronologia o avviare una nuova conversazione.
 
 ## Guida introduttiva: panoramica video di 60 secondi {#video}
 
