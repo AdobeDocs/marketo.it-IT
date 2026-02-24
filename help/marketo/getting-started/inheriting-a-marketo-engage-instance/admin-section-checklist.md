@@ -3,10 +3,10 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
 workflow-type: tm+mt
-source-wordcount: '1858'
-ht-degree: 2%
+source-wordcount: '1850'
+ht-degree: 3%
 
 ---
 
@@ -33,7 +33,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   <tr>
    <td>Iscrizione e amministrazione prodotto Marketo Engage</td>
    <td><li>La sottoscrizione a Marketo Engage è già stata migrata a <a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md" target="_blank">Adobe IMS</a>?
-<br/>     In caso affermativo, l'amministratore di sistema di Adobe Admin Console ti ha assegnato il ruolo di "Amministratore di prodotto Adobe Admin Console"? Se non sai chi dispone dei privilegi di amministratore nella console all'interno della tua organizzazione, contatta l'<a href="https://helpx.adobe.com/it/contact.html" target="_blank">Assistenza clienti Adobe</a>.</li>
+<br/>     In caso affermativo, l'amministratore di sistema di Adobe Admin Console ti ha assegnato il ruolo di "Amministratore di prodotto Adobe Admin Console"? Se non sai chi dispone dei privilegi di amministratore nella console all’interno della tua organizzazione, contatta l’<a href="https://helpx.adobe.com/it/contact.html" target="_blank">Assistenza clienti Adobe</a>.</li>
 <li>Hai accettato l’invito "Amministratore di prodotto Marketo Engage"? L’e-mail viene inviata quando il ruolo viene assegnato nel Adobe Admin Console.
 <br/>     In caso contrario, cerca l'<a href="/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md#initial-setup" target="_blank">e-mail di benvenuto</a> nella tua casella in entrata e accetta l'invito ad attivare il tuo Adobe ID.</li></td>
   </tr>
@@ -69,7 +69,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
 <li>La tua azienda applica delle policy sull’eliminazione degli utenti?</li>
 <li>Quanti utenti dispongono di <a href="/help/marketo/product-docs/administration/users-and-roles/descriptions-of-role-permissions.md" target="_blank">autorizzazioni amministratore</a>?</li>
 <li>Uno di questi utenti deve essere modificato in <a href="/help/marketo/product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md" target="_blank">altri ruoli?</a></li>
-<li>Chi sono gli <a href="/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md" target="_blank">utenti API</a> in questa istanza?</li></td>
+</td>
   </tr>
   <tr>
    <td>Ruoli</td>
@@ -293,7 +293,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (se applicabile)</td>
-<td>Seguendo i passaggi seguenti sarà necessario accedere a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Se non hai ancora configurato un Adobe ID, <a href="https://helpx.adobe.com/it/manage-account/using/create-update-adobe-id.html" target="_blank">scopri come farlo qui</a>.
+<td>Seguendo i passaggi seguenti sarà necessario accedere a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Se non hai ancora configurato un Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">scopri come farlo qui</a>.
 <br/>
 <li>Hai accettato l'<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">invito dell'amministratore di prodotto Dynamic Chat</a>? L’e-mail viene inviata quando Dynamic Chat è abilitato nella tua istanza di Marketo Engage e sei designato come Amministratore di sistema.
 <br/>     In caso contrario, cerca l’e-mail di benvenuto nella tua casella in entrata e accetta l’invito a configurare il tuo Adobe ID.</li>
