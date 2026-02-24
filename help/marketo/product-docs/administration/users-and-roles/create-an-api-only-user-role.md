@@ -4,16 +4,16 @@ description: Creazione di un ruolo utente solo API - Documentazione di Marketo -
 title: Creare un ruolo utente solo per API
 exl-id: 731e3e85-8f3d-4c76-91be-1506697211a1
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 15%
+ht-degree: 18%
 
 ---
 
 # Creare un ruolo utente solo per API {#create-an-api-only-user-role}
 
-Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api), è consigliabile [assegnare a un utente il ruolo Solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md) e quindi [creare un servizio personalizzato da utilizzare con REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
+Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api), è consigliabile [assegnare a un utente il ruolo Solo API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md) e quindi [creare un servizio personalizzato da utilizzare con REST API](/help/marketo/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.md). Di seguito viene descritto come creare il ruolo utente Solo API.
 
 >[!NOTE]
 >
@@ -41,4 +41,4 @@ Se si desidera eseguire l&#39;integrazione con Marketo tramite [REST API](https:
 
 >[!MORELIKETHIS]
 >
->Ok, ben fatto! Ora [creiamo un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+>Ok, ben fatto! Ora [creiamo un utente solo API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).

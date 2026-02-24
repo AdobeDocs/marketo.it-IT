@@ -4,10 +4,10 @@ description: Creare un servizio personalizzato da utilizzare con API ReST - Docu
 title: Creare un servizio personalizzato da utilizzare con API ReST
 exl-id: d94f723b-2e98-4350-a9e5-bd57aff2303b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 18%
+ht-degree: 19%
 
 ---
 
@@ -18,7 +18,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 >[!PREREQUISITES]
 >
 >* [Crea un ruolo utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
->* [Crea un utente solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md)
+>* [Crea un utente solo API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
 >
 
 >[!NOTE]
@@ -27,7 +27,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
 >[!TIP]
 >
->Consulta la documentazione per gli sviluppatori per informazioni dettagliate sull&#39;[API REST](https://developer.adobe.com/marketo-apis/). Abbiamo anche l&#39;[API SOAP](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/soap/soap-api), se questo è ciò che ti serve.
+>Consulta la documentazione per gli sviluppatori per informazioni dettagliate sull&#39;[API REST](https://developer.adobe.com/marketo-apis/). Abbiamo anche l&#39;[API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api), se questo è ciò che ti serve.
 
 ## Crea servizio personalizzato {#create-custom-service}
 
@@ -43,7 +43,7 @@ Se desideri effettuare l’integrazione con Marketo tramite l’API ReST, dovrai
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-3.png)
 
-1. Immettere **[!UICONTROL Display Name]** per il servizio. Seleziona **[!UICONTROL API Only User]** [creato in precedenza](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user.md).
+1. Immettere **[!UICONTROL Display Name]** per il servizio. Seleziona **[!UICONTROL API Only User]** [creato in precedenza](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md).
 
    ![](assets/create-a-custom-service-for-use-with-rest-api-4.png)
 
