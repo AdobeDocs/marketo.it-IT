@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 223e20c6c29a8392ee582c3bb69a384edfba6427
+source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 60%
+source-wordcount: '306'
+ht-degree: 58%
 
 ---
 
@@ -43,6 +43,26 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
    <td> </td>
   </tr>
   <tr>
+   <td><strong>E-mail Designer - API</strong>: ora puoi utilizzare le chiamate API per E-mail Designer.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Gestisci marchi (beta)</strong>: genera contenuti e-mail in base alle linee guida specifiche per la scrittura in copia della tua organizzazione o del tuo marchio.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>E-mail Designer - Controllo qualità marchio</strong>: valuta la qualità generale dei contenuti per identificare potenziali problemi di leggibilità, coerenza ed efficacia dei contenuti, indipendentemente dalle linee guida del tuo marchio.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
@@ -54,16 +74,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>Designer e-mail - Generazione immagini Assistente AI</strong>: ora, oltre a Firefly, puoi utilizzare modelli Nano Banana per generare immagini con l'Assistente AI per contenuti e-mail.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-mail Designer - API</strong>: ora puoi utilizzare le chiamate API per E-mail Designer.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
