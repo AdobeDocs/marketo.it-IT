@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: b6680c404075f13b1713ce28299e60a4d26f4a06
+source-git-commit: bf420edcc79aa551e286302fa002df9162371873
 workflow-type: tm+mt
-source-wordcount: '9336'
+source-wordcount: '9329'
 ht-degree: 99%
 
 ---
@@ -1113,7 +1113,6 @@ ht-degree: 99%
             + [Sintassi del modello e-mail](product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
             + [Transizione all’editor e-mail 2.0](product-docs/email-marketing/general/email-editor-2/transitioning-to-email-editor-2-0.md)
          + Funzioni nell’editor {#functions-in-the-editor}
-            + [Inoltrare un collegamento a un amico via e-mail](product-docs/email-marketing/general/functions-in-the-editor/forward-to-a-friend-link-in-emails.md)
             + [Includere un evento calendario (.ics) in un’e-mail](product-docs/email-marketing/general/functions-in-the-editor/include-a-calendar-event-ics-in-an-email.md)
             + [Rendere operativa un’e-mail](product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.md)
             + [Visualizzarae in anteprima un’e-mail con contenuto dinamico](product-docs/email-marketing/general/functions-in-the-editor/preview-an-email-with-dynamic-content.md)
