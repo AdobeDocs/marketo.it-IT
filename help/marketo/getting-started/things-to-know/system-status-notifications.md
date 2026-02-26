@@ -4,7 +4,8 @@ title: Iscriviti alle notifiche di stato del sistema
 feature: Getting Started
 hide: true
 hidefromtoc: true
-source-git-commit: cf60167b9e9ee2ea2a2861a3cd3c661781dbf0b0
+exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
+source-git-commit: 2a598119d59ed409a5a7367bae51b547908a1303
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 1%
@@ -35,7 +36,7 @@ Nel campo _Data center_, le lettere sono il data center e i numeri sono il pod. 
 
 Nel passaggio 7 di [creazione di una sottoscrizione](#create-a-subscription), questo utente selezionerà il percorso regionale **Marketo Ashburn** e il pod **ab49**.
 
-<table style="width:225px;">
+<table style="width:300px;">
   <tr>
     <th colspan="2">Abbreviazioni data center</th>
   </tr>
@@ -85,7 +86,7 @@ Dopo [aver identificato il centro dati e il pod/server](#identify), eseguire la 
 
 1. Fai clic sull&#39;icona ![segno più](assets/icon-plus-sign.png) accanto a _Experience Cloud_ per espandere il menu. Eseguire la stessa operazione per _Adobe Marketo Engage_.
 
-   ![](assets/subscribe-to-system-status-notifications-6.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-6.png){width="800"}
 
 1. Selezionare le offerte di prodotti e i servizi desiderati per i quali si desidera ricevere notifiche e fare clic su **Continua**.
 
@@ -93,7 +94,7 @@ Dopo [aver identificato il centro dati e il pod/server](#identify), eseguire la 
    >
    >Seleziona _Adobe Marketo Engage_ per selezionare tutti.
 
-   ![](assets/subscribe-to-system-status-notifications-7.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-7.png){width="800"}
 
 1. Seleziona i tipi di evento desiderati.
 
@@ -101,26 +102,26 @@ Dopo [aver identificato il centro dati e il pod/server](#identify), eseguire la 
 
    <table style="width:600px;">
    <tr>
-   <td style="width:30%;"><b>Problema del servizio grave</b></td>
+   <td style="width:40%;"><b>Problema del servizio grave</b></td>
    <td>Indisponibilità del servizio o grave deterioramento delle prestazioni per più utenti sui sistemi di produzione.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Problema del servizio non grave</b></td>
+   <td style="width:40%;"><b>Problema del servizio non grave</b></td>
    <td>Indisponibilità parziale del servizio o moderato peggioramento delle prestazioni per più utenti sui sistemi di produzione.</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Manutenzione del servizio</b></td>
+   <td style="width:40%;"><b>Manutenzione del servizio</b></td>
    <td>Testo</td>
    </tr>
    <tr>
-   <td style="width:30%;"><b>Annunci</b></td>
+   <td style="width:40%;"><b>Annunci</b></td>
    <td>Annunci relativi a...</td>
    </tr>
    </table>
 
 1. Seleziona la località geografica e l’ambiente desiderati. Fai clic su **Continua**.
 
-   ![](assets/subscribe-to-system-status-notifications-9.png){width="800" zoomable="yes"}
+   ![](assets/subscribe-to-system-status-notifications-9.png){width="900"}
 
 1. Scegli la tua preferenza di abbonamento, **E-mail** o **Slack**, quindi fai clic su **Continua**.
 
