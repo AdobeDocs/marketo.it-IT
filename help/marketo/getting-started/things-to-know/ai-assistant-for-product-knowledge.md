@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,8 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
    >
    >Utilizzare questa icona ![](assets/icon-arrows.png) per espandere la schermata e questa icona ![](assets/icon-conversation-history.png) per visualizzare la cronologia o avviare una nuova conversazione.
 
-## Guida introduttiva: panoramica video di 60 secondi {#video}
+## Guida introduttiva: panoramica video {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480123?captions=ita&learn=on){transcript=true}
+Scopri come funziona l’Assistente all’intelligenza artificiale per la conoscenza del prodotto, tra circa un minuto.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}

@@ -2,12 +2,10 @@
 description: Iscriviti alle notifiche di stato del sistema - Documentazione di Marketo Engage - Documentazione del prodotto
 title: Iscriviti alle notifiche di stato del sistema
 feature: Getting Started
-hide: true
-hidefromtoc: true
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: 700e1c62e00ce8d8f510637233de42636e5b90cb
+source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '357'
 ht-degree: 1%
 
 ---
@@ -22,8 +20,6 @@ Scopri come abbonarti a diverse notifiche di stato per rimanere aggiornato sui p
 
 ## Identificazione del centro dati {#identify}
 
-+++Identificazione del centro dati e del pod/server
-
 1. Nella sezione **Amministratore** di Marketo Engage, fai clic su **Il mio account**.
 
    ![](assets/subscribe-to-system-status-notifications-1.png)
@@ -34,39 +30,19 @@ Scopri come abbonarti a diverse notifiche di stato per rimanere aggiornato sui p
 
 Nel campo _Data center_, le lettere sono il data center e i numeri sono il pod. Nell’esempio precedente, l’utente si trova nel nostro data center Ashburn sul pod 49.
 
-Nel passaggio 7 di [creazione di una sottoscrizione](#create-a-subscription), questo utente selezionerà il percorso regionale **Marketo Ashburn** e il pod **ab49**.
+Nel passaggio 7 della [sezione seguente](#create-a-subscription), questo utente selezionerà il percorso regionale **Marketo Ashburn** e il pod **ab49**.
 
-<table style="width:300px;">
-  <tr>
-    <th colspan="2">Abbreviazioni data center</th>
-  </tr>
-  <tr>
-    <td style="width:25%;">ab</td>
-    <td>Ashburn</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sj</td>
-    <td>San Jose</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">sn</td>
-    <td>Sydney</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">lon</td>
-    <td>Londra</td>
-  </tr>
-  <tr>
-    <td style="width:25%;">nld</td>
-    <td>Amsterdam</td>
-  </tr>
-</table>
+**Abbreviazioni data center**
+
+ab: Ashburn
+sj: San Jose
+sn: Sydney
+lon: Londra
+nld: Amsterdam
 
 >[!TIP]
 >
 >Questo metodo può essere utilizzato anche per identificare il pod/server Real Time Personalization (RTP) in cui si trova l’abbonamento.
-
-+++
 
 ## Creare una sottoscrizione {#create-a-subscription}
 
