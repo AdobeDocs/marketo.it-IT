@@ -42,4 +42,4 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
 
 Scopri come funziona l’Assistente all’intelligenza artificiale per la conoscenza del prodotto, tra circa un minuto.
 
->[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480123?captions=ita&learn=on){transcript=true}
