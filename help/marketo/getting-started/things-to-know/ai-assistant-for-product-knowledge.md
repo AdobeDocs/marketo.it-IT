@@ -5,9 +5,9 @@ feature: Getting Started
 hide: true
 hidefromtoc: true
 exl-id: 7e5d14fc-3131-4d83-b502-bd177931506c
-source-git-commit: b39db1dae33fee1a7436013845a216fa8995105e
+source-git-commit: 3d6d689bf3983ab132dc059111aa826e7e69b2f1
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '154'
 ht-degree: 0%
 
 ---
@@ -24,20 +24,20 @@ Con l’Assistente di IA per la conoscenza del prodotto, i team si spostano più
 
 1. Seleziona l’icona dell’assistente AI sul lato destro dell’intestazione.
 
-   SCHERMATA
+   ![](assets/ai-assistant-pk-1.png)
 
 1. Immetti il prompt desiderato utilizzando il linguaggio naturale.
 
-   SCHERMATA
+   ![](assets/ai-assistant-pk-2.png)
 
 1. Fare clic sulla freccia blu per inviare la richiesta.
 
-   SCHERMATA
+   ![](assets/ai-assistant-pk-3.png)
 
    >[!TIP]
    >
-   >Utilizza questa icona (immagine icona qui) per espandere la schermata e questa icona (immagine icona qui) per visualizzare la cronologia o avviare una nuova conversazione.
+   >Utilizzare questa icona ![](assets/icon-arrows.png) per espandere la schermata e questa icona ![](assets/icon-conversation-history.png) per visualizzare la cronologia o avviare una nuova conversazione.
 
 ## Guida introduttiva: panoramica video di 60 secondi {#video}
 
->[!VIDEO](https://video.tv.adobe.com/v/3480123?captions=ita&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3480115?learn=on){transcript=true}
