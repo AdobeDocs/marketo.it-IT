@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 466f4b43124a2cb0894c4b8ce605521be1c4b4cd
+source-git-commit: de55f86fdad952d7be1e134d67d865c377a8c1e4
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 58%
+source-wordcount: '350'
+ht-degree: 51%
 
 ---
 
@@ -82,6 +82,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 <br/>
 
 ## Annunci {#announcements}
+
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Parametro “access_token” API Rest obsoleto**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è ora obsoleto e non sarà più disponibile dopo il 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
