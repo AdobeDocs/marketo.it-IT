@@ -3,7 +3,7 @@ description: Iscriviti alle notifiche di stato del sistema - Documentazione di M
 title: Iscriviti alle notifiche di stato del sistema
 feature: Getting Started
 exl-id: f4404a26-3b86-4dc7-8ecb-52a24fdb09b4
-source-git-commit: b17727645a56dd4417e91ee2d94f680d4dec2ca8
+source-git-commit: b056173fbae44ec710ae17172b4a3fc162935dda
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 1%
@@ -30,15 +30,15 @@ Scopri come abbonarti a diverse notifiche di stato per rimanere aggiornato sui p
 
 Nel campo _Data center_, le lettere sono il data center e i numeri sono il pod. Nell’esempio precedente, l’utente si trova nel nostro data center Ashburn sul pod 49.
 
-Nel passaggio 7 della [sezione seguente](#create-a-subscription), questo utente selezionerà il percorso regionale **Marketo Ashburn** e il pod **ab49**.
+Nel passaggio 7 della [sezione seguente](#create-a-subscription), l&#39;utente selezionerà il percorso regionale **Marketo Ashburn** e il pod **ab49**.
 
 **Abbreviazioni data center**
 
-ab: Ashburn
-sj: San Jose
-sn: Sydney
-lon: Londra
-nld: Amsterdam
+* ab: Ashburn
+* sj: San Jose
+* sn: Sydney
+* lon: Londra
+* nld: Amsterdam
 
 >[!TIP]
 >
