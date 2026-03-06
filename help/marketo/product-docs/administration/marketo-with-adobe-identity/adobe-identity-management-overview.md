@@ -57,7 +57,7 @@ Gli abbonamenti Adobe Marketo Engage integrati nel sistema Adobe Identity Manage
 
 ## Domande frequenti {#faq}
 
-Le domande frequenti [ si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Le domande frequenti [&#x200B; si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

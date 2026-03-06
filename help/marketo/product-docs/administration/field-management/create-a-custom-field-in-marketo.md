@@ -47,7 +47,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Immettere _[!UICONTROL Name]_come si desidera che venga visualizzato in Marketo (_[!UICONTROL API Name]_ viene generato automaticamente). Scegli con attenzione, poiché non può essere rinominato dopo il salvataggio. Al termine, fai clic su **[!UICONTROL Create]**.
+1. Immettere _[!UICONTROL Name]_&#x200B;come si desidera che venga visualizzato in Marketo (_[!UICONTROL API Name]_ viene generato automaticamente). Scegli con attenzione, poiché non può essere rinominato dopo il salvataggio. Al termine, fai clic su **[!UICONTROL Create]**.
 
 >[!CAUTION]
 >
