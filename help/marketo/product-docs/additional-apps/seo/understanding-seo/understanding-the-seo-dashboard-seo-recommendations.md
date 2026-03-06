@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949180
-description: 'Dashboard SEO: consigli SEO (Search Engine Optimization), documentazione Marketo: documentazione del prodotto'
+description: Utilizza la sezione Consigli della dashboard SEO per trovare i problemi di ottimizzazione della pagina principale e le opportunità di collegamento principale per migliorare il tuo sito.
 title: 'Dashboard SEO: consigli SEO (Search Engine Optimization)'
 exl-id: 44239e48-4aa1-450b-957a-cd3a13787cca
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '185'
 ht-degree: 4%
 
 ---
@@ -19,10 +19,10 @@ Utilizza la dashboard per ottenere una visualizzazione di alto livello della ten
 >
 >Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 È inoltre possibile scoprire come migliorare utilizzando la sezione [!UICONTROL Recommendations]. Andiamo a tuffarci!
 

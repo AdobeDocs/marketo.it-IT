@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949208
-description: SEO - Risultati del filtro delle parole chiave - Documentazione di Marketo - Documentazione del prodotto
+description: Filtra i risultati delle parole chiave in base a un elenco, un intervallo di classificazione SERP o un campo di ricerca per trovare le parole chiave necessarie.
 title: 'SEO: filtrare risultati delle parole chiave'
 exl-id: 8f237814-09b7-4041-9fe7-bb9a6ce016ca
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '191'
 ht-degree: 5%
 
 ---
@@ -19,10 +19,10 @@ Potresti avere molte [parole chiave](/help/marketo/product-docs/additional-apps/
 >
 >Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Filtra per elenco {#filter-by-list}
 

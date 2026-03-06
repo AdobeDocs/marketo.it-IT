@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949220
-description: SEO - Aggiungere note ai problemi delle pagine - Documentazione di Marketo - Documentazione del prodotto
+description: Aggiungere note ai problemi della pagina come promemoria o messaggi del team dalla sezione Problemi o dal drill-down dei dettagli della pagina.
 title: 'SEO: aggiungere note a problemi della pagina'
 exl-id: 08ddd6d8-3eb4-4296-9a19-73c5efc5f668
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '189'
 ht-degree: 8%
 
 ---
@@ -19,10 +19,10 @@ Scopri come aggiungere note ai problemi della pagina come promemoria personali o
 >
 >Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Aggiunta di note nella sezione Problemi della pagina {#adding-notes-in-page-issues-section}
 

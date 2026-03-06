@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949232
-description: SEO - Gestione degli elenchi - Documentazione di Marketo - Documentazione del prodotto
+description: Crea e gestisci elenchi per parole chiave, pagine, problemi di pagina e collegamenti in entrata per organizzare i dati e filtrare i rapporti.
 title: 'SEO: gestire gli elenchi'
 exl-id: 6b78f8be-fc42-4431-a9c7-703612ec448f
 feature: SEO
-source-git-commit: 7e8e947c73ae961becf3c95187ce4742e1b290d5
+source-git-commit: b42922726bebab913436bb0955557339af96d0f5
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 7%
+source-wordcount: '147'
+ht-degree: 6%
 
 ---
 
@@ -19,10 +19,10 @@ ht-degree: 7%
 >
 >Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Fai clic su **[!UICONTROL Add Keywords]**.
 
