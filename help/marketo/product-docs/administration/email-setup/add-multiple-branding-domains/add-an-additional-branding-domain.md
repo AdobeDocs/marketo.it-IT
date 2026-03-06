@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11377395
-description: Aggiungere un dominio di branding aggiuntivo - Documentazione di Marketo - Documentazione di prodotto
+description: Aggiungi domini di branding aggiuntivi per più marchi in un’istanza in modo che ciascuno di essi abbia i propri collegamenti di tracciamento del marchio.
 title: Aggiungere un ulteriore dominio di branding
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '587'
 ht-degree: 3%
 
 ---
@@ -47,7 +47,7 @@ Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguit
 
 1. Dall&#39;area _[!UICONTROL Admin]_, selezionare **[!UICONTROL Email]**.
 
-1. Nella scheda _[!UICONTROL Domain]_&#x200B;selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
+1. Nella scheda _[!UICONTROL Domain]_selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
 
    ![Amministratore - E-mail - Dominio - Aggiungi SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
@@ -91,7 +91,7 @@ Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguit
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
+* **Mappatura DNS per il dominio in Marketo Engage**: prima di aggiungere domini nell&#39;interfaccia utente, è necessario [mappare i CNAME in un dominio fornito da Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/setup-steps#customize-your-landing-page-urls-with-a-cname){target="_blank"}.
 
 * **SSL personalizzati**: se hai bisogno di un SSL personalizzato, invia un [ticket di supporto](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Non utilizzare la casella di controllo self-service per la creazione SSL.
 

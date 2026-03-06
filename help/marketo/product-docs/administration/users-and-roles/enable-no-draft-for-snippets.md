@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095636
-description: Abilitare No-Draft for Snippets - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abilitare No-Draft per i frammenti in modo che le modifiche dei frammenti vengano applicate alle risorse approvate senza richiedere nuove bozze.
 title: Abilitare Nessuna bozza per snippet
 exl-id: 8a6b6f18-175f-417c-9937-4e000afd71af
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 12%
 
 ---
 

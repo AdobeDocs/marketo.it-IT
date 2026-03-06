@@ -1,11 +1,11 @@
 ---
-description: Intestazioni pagina di destinazione - Documentazione Marketo - Documentazione del prodotto
+description: Come personalizzare le intestazioni HTTP per i domini delle pagine di destinazione, tra cui Strict-Transport-Security e X-Frame-Options.
 title: Intestazioni pagina di destinazione
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '128'
 ht-degree: 5%
 
 ---

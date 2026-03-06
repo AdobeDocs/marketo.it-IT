@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360251
-description: Modificare il messaggio di annullamento dell’iscrizione - Documentazione di Marketo - Documentazione del prodotto
+description: Modifica il testo predefinito per l’annullamento dell’iscrizione e i collegamenti aggiunti alle e-mail di marketing in E-mail amministratore.
 title: Modificare il messaggio di annullamento dell’iscrizione
 exl-id: 68a3ebc1-b2c9-4e6c-bb13-e5a94c9596d2
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 8%
+source-wordcount: '133'
+ht-degree: 10%
 
 ---
 

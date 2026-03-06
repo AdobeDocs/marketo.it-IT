@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378051
-description: Sovrascrivi dominio primario per e-mail - Documentazione Marketo - Documentazione del prodotto
+description: Ignora il dominio di branding principale per le singole e-mail per modificare il modo in cui i collegamenti vengono contrassegnati quando vengono inviati.
 title: Sovrascrivere il dominio primario per e-mail
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambierà il modo in cui i collegamenti vengono contrassegnati al momento dell’invio dell’e-mail.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/overwrite-primary-domain-for-emails-1.png)
 

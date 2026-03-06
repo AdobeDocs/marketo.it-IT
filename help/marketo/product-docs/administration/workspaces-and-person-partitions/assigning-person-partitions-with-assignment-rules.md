@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360327
-description: Assegnazione di partizioni persona con regole di assegnazione - Documenti Marketo - Documentazione del prodotto
+description: Come impostare regole di assegnazione per indirizzare le persone dal CRM alle partizioni persona corrette.
 title: Assegnare partizioni persone con regole di assegnazione
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '166'
+ht-degree: 12%
 
 ---
 

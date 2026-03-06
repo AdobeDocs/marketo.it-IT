@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360311
-description: Creazione di un nuovo Workspace - Documentazione Marketo - Documentazione del prodotto
+description: Passaggi per creare una nuova area di lavoro, inclusi la denominazione, la selezione di partizioni di persone, la scelta di un dominio con marchio principale e l'impostazione della lingua dell'area di lavoro.
 title: Creare una nuova area di lavoro
 exl-id: 04245a92-55e0-4b18-9506-aa060cc62dc6
 feature: Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 7%
+source-wordcount: '208'
+ht-degree: 8%
 
 ---
 
@@ -30,7 +30,7 @@ Ecco come creare una nuova area di lavoro.
 
 >[!TIP]
 >
->Per ulteriori informazioni sulle best practice di Workspace, contattare [Marketo Professional Services](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"}.
+>Per ulteriori informazioni sulle best practice di Workspace, contattare [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

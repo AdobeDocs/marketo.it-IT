@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093188
-description: Informazioni sugli oggetti personalizzati di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Panoramica degli oggetti personalizzati per il tracciamento di metriche specifiche per l’azienda, tra cui relazioni uno-a-molti e molti-a-molti, filtri, trigger e dove accedervi in Admin.
 title: Informazioni sugli oggetti personalizzati di Marketo
 exl-id: f18b1689-c7bc-4da0-8326-7b29733d527d
 feature: Custom Objects
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '689'
+source-wordcount: '703'
 ht-degree: 2%
 
 ---
@@ -71,7 +71,7 @@ Gli oggetti personalizzati &quot;da molti a molti&quot; utilizzano due campi di 
 
 Dopo aver creato la struttura oggetto personalizzata, quando si caricano dati oggetto personalizzati specifici, gli oggetti personalizzati vengono automaticamente associati agli utenti del database utilizzando il campo di collegamento nell&#39;oggetto personalizzato. È possibile visualizzare le informazioni dalla scheda [!UICONTROL Custom Objects] nella pagina dei dettagli della persona.
 
-1. Vai a **[!UICONTROL Database]**.
+1. Passa a **[!UICONTROL Database]**.
 
    ![](assets/understanding-marketo-custom-objects-5.png)
 

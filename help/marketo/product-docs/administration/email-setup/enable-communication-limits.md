@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360222
-description: Abilitare i limiti di comunicazione - Documentazione di Marketo - Documentazione del prodotto
+description: Imposta limiti di e-mail giornalieri e per 7 giorni per evitare comunicazioni eccessive con le persone.
 title: Abilitare i limiti di comunicazione
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 

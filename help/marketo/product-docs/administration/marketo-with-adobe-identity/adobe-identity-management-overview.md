@@ -1,12 +1,12 @@
 ---
-description: Panoramica di Adobe Identity Management - Documentazione di Marketo - Documentazione del prodotto
+description: Panoramica di Adobe Identity Management per Marketo Engage Admin Console, inclusi i tempi di migrazione, la gestione degli utenti e i livelli di profilo, ad esempio Amministratore di sistema e Amministratore di prodotto.
 title: Panoramica su Identity Management di Adobe
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '445'
-ht-degree: 2%
+source-wordcount: '462'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe identity, 
 
 >[!NOTE]
 >
->Se desideri implementare Single Sign On e il tuo abbonamento è stato effettuato a Adobe Identity senza SSO implementato nell&#39;organizzazione Adobe, invia un ticket al [Supporto Marketo](https://nation.marketo.com/){target="_blank"} e specifica l&#39;argomento come &quot;Marketo su Admin Console, implementazione di SSO&quot;.
+>Se desideri implementare il Single Sign On (SSO) e il tuo abbonamento è stato inserito in Adobe Identity senza che l’SSO sia stato implementato nell’organizzazione Adobe, invia un ticket all’[assistenza Marketo](https://nation.marketo.com/){target="_blank"} specificando l’argomento “Marketo in Admin Console, implementing SSO”.
 
 ## Livelli di profilo {#profile-levels}
 
@@ -57,7 +57,7 @@ Gli abbonamenti Adobe Marketo Engage integrati nel sistema Adobe Identity Manage
 
 ## Domande frequenti {#faq}
 
-Le domande frequenti [&#x200B; si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
+Le domande frequenti [ si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

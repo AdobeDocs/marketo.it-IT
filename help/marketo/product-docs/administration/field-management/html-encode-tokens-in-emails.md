@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720461
-description: Codifica token HTML nelle e-mail - Documentazione Marketo - Documentazione del prodotto
+description: Abilita o disabilita la codifica HTML per i token personali e aziendali utilizzati nelle e-mail per garantire la corretta trasmissione.
 title: Codificare token HTML nelle e-mail
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 16%
+source-wordcount: '99'
+ht-degree: 18%
 
 ---
 

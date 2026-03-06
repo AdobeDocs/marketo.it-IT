@@ -1,12 +1,12 @@
 ---
-description: Esportare tutti i metadati degli oggetti - Documentazione di Marketo - Documentazione del prodotto
+description: Esporta come CSV tutti gli oggetti e i relativi metadati, inclusi campi lead, oggetti personalizzati, attività, canali e tag.
 title: Esportare tutti i metadati dell’oggetto
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 28%
+source-wordcount: '78'
+ht-degree: 29%
 
 ---
 

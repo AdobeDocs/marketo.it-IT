@@ -1,12 +1,12 @@
 ---
 unique-page-id: 15695874
-description: Connetti [!DNL BrightTALK] a Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Connetti il tuo canale  [!DNL BrightTALK]  a Marketo tramite LaunchPoint utilizzando le credenziali utente solo API.
 title: Connetti [!DNL BrightTALK] a Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: 7f8968210659ed2c51640966115f22da47e42ebf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '289'
 ht-degree: 3%
 
 ---

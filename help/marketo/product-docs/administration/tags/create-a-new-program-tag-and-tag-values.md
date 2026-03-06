@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360272
-description: Creazione di un nuovo codice di matricola e di un nuovo codice di matricola - Documentazione di Marketo - Documentazione del prodotto
+description: Come creare un tag di programma personalizzato e assegnare valori, scegliere i tipi di programma e impostare il tag necessario per la creazione di nuovi programmi.
 title: Creare un nuovo tag programma e valori di tag
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '160'
 ht-degree: 16%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360276
-description: Nascondere/mostrare un canale di programma - Documentazione di Marketo - Documentazione del prodotto
+description: Passaggi per nascondere un canale di programma quando è in uso o per scoprirlo utilizzando la casella di controllo Mostra nascosti.
 title: Nascondere/mostrare un canale del programma
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 17%
 
 ---
 

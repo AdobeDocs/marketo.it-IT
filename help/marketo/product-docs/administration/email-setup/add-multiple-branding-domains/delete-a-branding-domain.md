@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378041
-description: Eliminare un dominio di branding - Documenti Marketo - Documentazione del prodotto
+description: Rimuovi un dominio di branding dalla tabella Amministratore e-mail (imposta prima un dominio primario diverso se si elimina il dominio primario).
 title: Eliminare un dominio di branding
 exl-id: 12cbb8c0-4846-46cb-ba5a-d54a69523585
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 23%
+source-wordcount: '66'
+ht-degree: 19%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360358
-description: Limita l’accesso degli utenti solo all’SSO - Documentazione di Marketo - Documentazione del prodotto
+description: Richiedi SSO per tutti gli utenti in modo che non possano ignorare la sicurezza SSO tramite Impostazioni di accesso amministratore (non applicabile ad Adobe IMS).
 title: Limitare l’accesso utente solo al SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 8%
+source-wordcount: '239'
+ht-degree: 9%
 
 ---
 

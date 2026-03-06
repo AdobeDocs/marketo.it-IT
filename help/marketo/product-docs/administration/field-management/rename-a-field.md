@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360293
-description: Rinominare un campo - Documentazione Marketo - Documentazione del prodotto
+description: Passaggi per rinominare un campo personalizzato in Marketo dopo averne rimosso tutto l’utilizzo in moduli, elenchi avanzati e campagne.
 title: Rinominare un campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 9%
+source-wordcount: '131'
+ht-degree: 10%
 
 ---
 

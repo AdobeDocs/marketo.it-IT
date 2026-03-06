@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6848782
-description: Rendere dinamico il messaggio di annullamento dell’iscrizione per le lingue - Documentazione di Marketo - Documentazione del prodotto
+description: Utilizza il contenuto dinamico e la segmentazione per visualizzare il messaggio di annullamento dell’abbonamento e il collegamento in lingue diverse.
 title: Rendere dinamico il messaggio di annullamento dell’iscrizione per le lingue
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '434'
-ht-degree: 6%
+source-wordcount: '438'
+ht-degree: 7%
 
 ---
 
@@ -37,7 +37,7 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-2.png)
 
-1. Denomina la segmentazione **[!UICONTROL Preferred Language]**. Fare clic su **[!UICONTROL Add Segment]**. Digita in una lingua.
+1. Denomina la segmentazione **[!UICONTROL Preferred Language]**. Fai clic su **[!UICONTROL Add Segment]**. Digita in una lingua.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-3.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617187
-description: Informazioni sulle impostazioni della privacy - Documentazione di Marketo - Documentazione del prodotto
+description: Panoramica delle opzioni di privacy e tracciamento, tra cui Do Not Track, supporto del browser, cookie di rinuncia e tracciamento IP anonimo per i visitatori web.
 title: Informazioni sulle impostazioni della privacy
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: eccf4a66f5d3c581a82a363918b40ae37aa73576
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '493'
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Gli addetti al marketing possono consentire agli utenti di dare il consenso util
 
 Gli addetti al marketing possono preservare la privacy monitorando gli utenti con un indirizzo IP anonimo. Per eseguire questa operazione, aggiungere il codice all&#39;RTP o al JavaScript [!DNL Munchkin] incorporato nel sito Web.
 
-* Per [!DNL Munchkin], aggiungi `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Per [!DNL Munchkin], aggiungi `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Per Web Personalization (RTP), aggiungi questo al codice JavaScript:
 

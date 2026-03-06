@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360346
-description: Modificare gli alias dei campi per l’importazione degli elenchi - Documentazione di Marketo - Documentazione del prodotto
+description: Crea e modifica alias di campo in modo che le importazioni elenco con intestazioni di colonna sconosciute vengano mappate ai campi Marketo corretti.
 title: Modificare alias campo per importazione elenco
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 14%
+source-wordcount: '128'
+ht-degree: 15%
 
 ---
 

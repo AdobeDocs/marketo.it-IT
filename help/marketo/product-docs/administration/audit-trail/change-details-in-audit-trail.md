@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379928
-description: Dettagli delle modifiche in Audit Trail - Documentazione di Marketo - Documentazione del prodotto
+description: Riferimento per i dettagli delle modifiche Record di Audit Trail per risorse e azioni di amministrazione.
 title: Modificare i dettagli in Audit trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '1902'
+source-wordcount: '1906'
 ht-degree: 12%
 
 ---
@@ -456,7 +456,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>Token "token_name" eliminato</td>
   </tr>
   <tr>
-   <td rowspan="8">Forms</td>
+   <td rowspan="8">Moduli</td>
    <td>Creare</td>
    <td>In arrivo. Ulteriori informazioni o clonazione da "nome modulo"</td>
   </tr>
@@ -489,7 +489,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>Spostato in "Design studio" nella cartella "nome cartella"<br>o<br>Spostato in "Attività di marketing" nel programma "nome programma"</td>
   </tr>
   <tr>
-   <td>Forms</td>
+   <td>Moduli</td>
    <td>Approvazione</td>
    <td>Utilizzato da # assets </td>
   </tr>

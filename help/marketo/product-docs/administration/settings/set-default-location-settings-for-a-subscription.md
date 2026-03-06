@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359902
-description: Impostare le impostazioni di posizione predefinite per un abbonamento - Documentazione di Marketo - Documentazione del prodotto
+description: Modalità di visualizzazione e modifica delle impostazioni predefinite della posizione di una sottoscrizione da parte degli amministratori, incluse lingua, impostazioni internazionali, fuso orario e valuta.
 title: Impostare le impostazioni di posizione predefinite per un abbonamento
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '241'
 ht-degree: 11%
 
 ---

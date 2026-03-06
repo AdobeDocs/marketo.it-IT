@@ -1,12 +1,12 @@
 ---
-description: Intestazioni dei collegamenti di tracciamento e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Come personalizzare le intestazioni dei collegamenti di tracciamento e-mail in Amministratore in E-mail, incluso Strict-Transport-Security for HTTPS, con le linee guida per la revisione IT.
 title: Intestazioni collegamento tracciamento e-mail
 exl-id: 2db1f1b3-3afe-4710-a8b1-b06fbf09ec8c
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 9%
+source-wordcount: '110'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360217
-description: Modificare le impostazioni di attribuzione per Analytics - Documentazione di Marketo - Documentazione del prodotto
+description: Come impostare le opzioni di attribuzione di primo e più contatti, conversione dei lead e opportunità influenzate dal marketing in Revenue Cycle Analytics.
 title: Modificare le impostazioni di attribuzione per Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '179'
 ht-degree: 8%
 
 ---

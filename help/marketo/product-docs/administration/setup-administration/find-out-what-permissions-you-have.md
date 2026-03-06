@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359898
-description: 'Scopri Di Più Sulle Autorizzazioni Disponibili: Documentazione Di Marketo - Documentazione Del Prodotto'
+description: Scopri come visualizzare le autorizzazioni Marketo correnti.
 title: Scopri quali autorizzazioni possiedi
 exl-id: 46eb65ea-afd9-44b8-a753-f3ca74c6b74b
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 16%
+source-wordcount: '71'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 16%
 
 Se ti stai chiedendo quali autorizzazioni hai o non hai in Marketo, c&#39;è un modo semplice per scoprirlo.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/find-out-what-permissions-you-have-1.png)
 

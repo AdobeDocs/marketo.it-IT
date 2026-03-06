@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2950682
-description: Creazione di un canale di programma - Documentazione di Marketo - Documentazione del prodotto
+description: Passaggi per creare un canale di programma con stati e passaggi di progressione, tra cui tipo di programma, stato di successo e opzioni di check-in mobile per gli eventi.
 title: Creare un canale del programma
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '387'
-ht-degree: 3%
+source-wordcount: '401'
+ht-degree: 4%
 
 ---
 

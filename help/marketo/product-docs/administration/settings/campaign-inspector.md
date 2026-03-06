@@ -1,12 +1,12 @@
 ---
-description: Ispettore campagna - Documentazione Marketo - Documentazione del prodotto
+description: Come abilitare e utilizzare Ispettore campagna da per visualizzare ed eseguire ricerche in tutte le campagne avanzate in un’unica posizione.
 title: Ispezionare campagna
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 8%
+source-wordcount: '123'
+ht-degree: 7%
 
 ---
 

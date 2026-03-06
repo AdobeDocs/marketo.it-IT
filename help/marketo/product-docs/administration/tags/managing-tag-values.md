@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360274
-description: Gestione dei valori dei tag - Documentazione di Marketo - Documentazione del prodotto
+description: Informazioni su come aggiungere, nascondere e visualizzare i valori dei tag per i tag del programma, tra cui la selezione del tipo di tag e l'utilizzo dell'opzione Mostra nascosti.
 title: Gestire i valori tag
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 8%
+source-wordcount: '172'
+ht-degree: 9%
 
 ---
 

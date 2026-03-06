@@ -1,12 +1,12 @@
 ---
-description: Ruoli e autorizzazioni di esportazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come esportare tutti i ruoli e le relative autorizzazioni.
 title: Esportare ruoli e autorizzazioni
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 16%
+source-wordcount: '81'
+ht-degree: 19%
 
 ---
 
@@ -26,7 +26,7 @@ Ecco come esportare tutti i ruoli e le relative autorizzazioni.
 
    ![](assets/export-roles-and-permissions-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Roles]**.
+1. Fai clic sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/export-roles-and-permissions-3.png)
 

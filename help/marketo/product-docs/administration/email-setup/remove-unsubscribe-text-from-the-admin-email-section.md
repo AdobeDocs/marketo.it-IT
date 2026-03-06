@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360245
-description: Rimuovi il testo per l’annullamento dell’iscrizione dalla sezione E-mail per amministratori - Documentazione di Marketo - Documentazione del prodotto
+description: Rimuovi il contenuto predefinito per l’annullamento dell’iscrizione dall’e-mail di amministrazione utilizzando un commento di HTML durante la creazione del collegamento nei modelli.
 title: Rimuovi il testo per l’annullamento dell’iscrizione dalla sezione E-mail amministratore
 exl-id: 2961a9b6-8b35-4227-bf8a-a07b2664a6c4
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '165'
 ht-degree: 3%
 
 ---

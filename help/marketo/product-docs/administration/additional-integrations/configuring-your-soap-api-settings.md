@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360352
-description: Configurazione delle impostazioni API di SOAP - Documentazione di Marketo - Documentazione del prodotto
+description: Imposta la chiave di crittografia API SOAP e ottieni i dettagli dell’endpoint in Admin Web Services per gli sviluppatori.
 title: Configurare le impostazioni API di SOAP
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '79'
+ht-degree: 24%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 22%
 
 >[!MORELIKETHIS]
 >
->[Documentazione API SOAP](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/soap/soap-api)
+>[Documentazione API SOAP](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api)

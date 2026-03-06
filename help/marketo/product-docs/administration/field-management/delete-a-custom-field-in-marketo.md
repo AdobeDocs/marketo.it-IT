@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360339
-description: Eliminare un campo personalizzato in Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Come rimuovere un campo personalizzato dall’utilizzo nascondendolo dall’interfaccia utente quando non è più necessario.
 title: Eliminare un campo personalizzato in Marketo
 exl-id: 35829827-6e3c-4120-b57f-4fd68a7d4739
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '95'
 ht-degree: 26%
 
 ---

@@ -1,10 +1,10 @@
 ---
 unique-page-id: 10100275
-description: Aggiungere/Modificare/Eliminare i campi di attività personalizzati di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Come aggiungere, modificare o eliminare campi in un’attività personalizzata.
 title: Aggiungere/Modificare/Eliminare campi attività personalizzati di Marketo
 exl-id: cd47f21d-c1d1-4abc-85f8-7823b28cd98a
 feature: Custom Activities
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 14%

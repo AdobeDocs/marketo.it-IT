@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360185
-description: Modificare le impostazioni di sicurezza della password - Documentazione di Marketo - Documentazione del prodotto
+description: Come impostare i criteri per la password dell’abbonamento, inclusi modelli, scadenza e timeout della sessione inattiva.
 title: Modificare le impostazioni di protezione della password
 exl-id: cda7ec70-32aa-4e0a-86b2-eb9bea70ef72
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '158'
+ht-degree: 12%
 
 ---
 

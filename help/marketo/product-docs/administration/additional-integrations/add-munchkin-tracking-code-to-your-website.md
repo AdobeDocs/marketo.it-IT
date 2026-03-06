@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360354
-description: Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web - Documentazione di Marketo - Documentazione del prodotto
+description: Aggiungi Marketo [!DNL Munchkin] JavaScript al tuo sito per tenere traccia delle visite e abilitare le campagne basate sul Web.
 title: Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '633'
-ht-degree: 1%
+source-wordcount: '636'
+ht-degree: 3%
 
 ---
 
@@ -19,13 +19,13 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL
 >
 >Assicurati di avere accesso a uno sviluppatore JavaScript esperto. Il supporto tecnico Marketo non è configurato per fornire assistenza nella risoluzione dei problemi relativi al JavaScript personalizzato.
 
-## Aggiungi codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
+## Aggiungere il codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
 >Gli utenti di Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione di [Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} per includere lo script [!DNL Munchkin] nelle proprie pagine Web. Se si utilizza Adobe Launch, _lo script [!DNL Munchkin] viene aggiunto automaticamente_, pertanto non è necessario aggiungerlo manualmente.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-1.png)
 
@@ -65,7 +65,7 @@ Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL
 
 Se utilizzi le aree di lavoro nell’account Marketo, probabilmente avrai anche presentazioni web separate che corrispondono alle aree di lavoro. In tal caso, è possibile utilizzare JavaScript di monitoraggio [!DNL Munchkin] per assegnare le persone anonime all&#39;area di lavoro e alla partizione corrette.
 
-1. Passare all&#39;area **[!UICONTROL Admin]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-6.png)
 
@@ -135,7 +135,7 @@ Per verificare che il codice [!DNL Munchkin] funzioni dopo averlo aggiunto:
 
    ![](assets/add-munchkin-tracking-code-to-your-website-15.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Report]**.
+1. Fai clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-16.png)
 

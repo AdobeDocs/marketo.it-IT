@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515767
-description: Condividere segmentazioni tra aree di lavoro e partizioni - Documenti Marketo - Documentazione del prodotto
+description: Regole e passaggi per la condivisione delle segmentazioni tra aree di lavoro e partizioni, inclusi limiti e suggerimenti per la creazione di segmentazioni nell’area di lavoro predefinita.
 title: Condividere segmentazioni tra aree di lavoro e partizioni
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '466'
-ht-degree: 2%
+source-wordcount: '477'
+ht-degree: 3%
 
 ---
 
@@ -72,7 +72,7 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-6.png)
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Share Folder]**.
+1. Fai clic con il pulsante destro sulla cartella e seleziona **[!UICONTROL Share Folder]**.
 
    ![](assets/share-segmentations-across-workspaces-and-partitions-7.png)
 

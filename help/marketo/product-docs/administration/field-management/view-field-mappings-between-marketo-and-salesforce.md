@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360344
-description: "Visualizza mappature campi tra Marketo e  [!DNL Salesforce] - Documentazione Marketo - Documentazione del prodotto"
-title: "Visualizza mappature campi tra Marketo e  [!DNL Salesforce]"
+description: Scopri come visualizzare quali [!DNL Salesforce] campi sono mappati ai campi di Marketo in Gestione campi amministratore.
+title: Visualizza mapping campi tra Marketo e  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: 02b2e39580c5eac63de4b4b7fdaf2a835fdd4ba5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 8%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 0%
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-1.png)
 
-1. Fare clic su **[!UICONTROL Gestione campi]**.
+1. Fai clic su **[!UICONTROL Field Management]**.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 

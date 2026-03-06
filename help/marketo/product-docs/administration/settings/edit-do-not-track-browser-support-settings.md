@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6095047
-description: Modificare le impostazioni di supporto del browser "Do Not Track" (Non tenere traccia) - Documentazione di Marketo - Documentazione del prodotto
+description: Rispettare o ignorare la richiesta Do Not Track del browser modificando Person Tracking (Tracciamento persona).
 title: Modificare le impostazioni di supporto al browser “Non tenere traccia”
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 15%
+source-wordcount: '124'
+ht-degree: 17%
 
 ---
 

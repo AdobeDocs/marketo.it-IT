@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512292
-description: "Aggiungi [!DNL Level 3 Web Meeting] as a [!DNL LaunchPoint] Service - Documentazione Marketo - Documentazione del prodotto"
-title: "Aggiungi [!DNL Level 3 Web Meeting] come  [!DNL LaunchPoint Service]"
+description: Aggiungi [!DNL Level 3 Web Meeting] come servizio LaunchPoint per gestire la registrazione e la partecipazione in Marketo.
+title: Aggiungi [!DNL Level 3 Web Meeting] come  [!DNL LaunchPoint Service]
 exl-id: f419b019-33bb-446d-baf5-55393770a703
 feature: Administration, Integrations
-source-git-commit: d20a9bb584f69282eefae3704ce4be2179b29d0b
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+source-wordcount: '82'
+ht-degree: 9%
 
 ---
 
@@ -23,23 +23,23 @@ Marketo gestisce la registrazione e la partecipazione a [!DNL Level 3 Web Meetin
 >
 >Per questo passaggio sono necessari un abbonamento esistente a [!DNL Level 3 Web Meeting] e diritti di amministrazione. Devi avere a portata di mano il tuo numero di accesso, il tuo codice di accesso e il tuo codice di accesso.
 
-1. Vai all&#39;area **[!UICONTROL Amministratore]**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-1.png)
 
-1. Fare clic su **[!UICONTROL LaunchPoint]**.
+1. Fai clic su **[!UICONTROL LaunchPoint]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-2.png)
 
-1. Selezionare **[!UICONTROL Nuovo]** e quindi **[!UICONTROL Nuovo servizio]**.
+1. Selezionare **[!UICONTROL New]** e quindi **[!UICONTROL New Service]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-3.png)
 
-1. Immetti un **[!UICONTROL Nome visualizzato]**. In **[!UICONTROL Servizio]**, selezionare **[!UICONTROL Riunione Web di livello 3]**.
+1. Immetti **[!UICONTROL Display Name]**. In **[!UICONTROL Service]**, selezionare **[!UICONTROL Level 3 Web Meeting]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-4.png)
 
-1. Immetti il **[!UICONTROL numero di accesso]**, **[!UICONTROL codice di accesso]** e **[!UICONTROL codice di accesso]**, quindi fai clic su **[!UICONTROL Crea]**.
+1. Immetti **[!UICONTROL Access Number]**, **[!UICONTROL Access Code]** e **[!UICONTROL Passcode]**, quindi fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-level-three-web-meeting-as-a-launchpoint-service-5.png)
 

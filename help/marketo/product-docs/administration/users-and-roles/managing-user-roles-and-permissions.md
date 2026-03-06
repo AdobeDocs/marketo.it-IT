@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359909
-description: Gestione di ruoli e autorizzazioni utente - Documentazione di Marketo - Documentazione del prodotto
+description: Come impostare, creare e modificare i ruoli utente, assegnare ruoli agli utenti e controllare le aree e le funzionalità a cui ogni utente di Marketo può accedere.
 title: Gestire i ruoli utente e le autorizzazioni
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '455'
-ht-degree: 7%
+source-wordcount: '469'
+ht-degree: 10%
 
 ---
 
@@ -71,7 +71,7 @@ Talvolta all’interno dell’organizzazione sono presenti dipendenti con ruoli 
 
    ![](assets/managing-user-roles-and-permissions-6.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Roles]**.
+1. Fai clic sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-7.png)
 
@@ -95,7 +95,7 @@ Se è necessario modificare le autorizzazioni associate a un ruolo esistente, è
 
    ![](assets/managing-user-roles-and-permissions-11.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Roles]**.
+1. Fai clic sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-12.png)
 
@@ -123,7 +123,7 @@ Se un ruolo non è più necessario, è possibile eliminarlo.
 
    ![](assets/managing-user-roles-and-permissions-16.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Roles]**.
+1. Fai clic sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/managing-user-roles-and-permissions-17.png)
 

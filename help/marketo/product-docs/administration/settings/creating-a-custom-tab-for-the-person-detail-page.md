@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360305
-description: Creazione di una scheda personalizzata per la pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
+description: Come creare un layout personalizzato per la pagina dei dettagli della persona.
 title: Creare una scheda personalizzata per la pagina Dettagli persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 16%
+source-wordcount: '140'
+ht-degree: 18%
 
 ---
 
@@ -23,7 +23,7 @@ Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi 
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Custom Layout Designer]**.
+1. Fai clic sulla scheda **[!UICONTROL Custom Layout Designer]**.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-3.png)
 

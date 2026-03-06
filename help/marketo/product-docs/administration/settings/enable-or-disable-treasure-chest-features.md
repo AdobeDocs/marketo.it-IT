@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360307
-description: Abilitare o disabilitare le funzioni di Treasure Chest - Documentazione di Marketo - Documentazione del prodotto
+description: Come attivare o disattivare le funzioni sperimentali di Treasure Chest.
 title: Abilitare o disabilitare le funzioni Treasure Chest
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 21%
+ht-degree: 25%
 
 ---
 

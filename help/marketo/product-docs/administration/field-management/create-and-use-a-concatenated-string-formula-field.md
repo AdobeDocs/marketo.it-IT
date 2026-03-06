@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360337
-description: Creare e utilizzare un campo Stringa concatenata (formula) - Documenti Marketo - Documentazione del prodotto
+description: Combina valori da più campi o genera valori condizionali utilizzando i campi formula in Marketo Engage.
 title: Creare e utilizzare un campo (formula) Stringa concatenata
 exl-id: 779fbc56-a913-422a-a778-d86cc3ed7d48
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 13%
 
 ---

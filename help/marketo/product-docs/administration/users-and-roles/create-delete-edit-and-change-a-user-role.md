@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360198
-description: Creazione, eliminazione, modifica e modifica di un ruolo utente - Documenti Marketo - Documentazione del prodotto
+description: Passaggi per creare, eliminare e modificare i ruoli utente, inclusi i ruoli di denominazione, la selezione delle autorizzazioni e i ruoli di sistema che non possono essere modificati.
 title: Creare, eliminare, modificare e cambiare un ruolo utente
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 13%
+source-wordcount: '276'
+ht-degree: 15%
 
 ---
 
@@ -83,7 +83,7 @@ ht-degree: 13%
 
    ![](assets/create-delete-edit-and-change-a-user-role-10.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Roles]**.
+1. Fai clic sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/create-delete-edit-and-change-a-user-role-11.png)
 

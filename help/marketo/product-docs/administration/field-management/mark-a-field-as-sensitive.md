@@ -1,12 +1,12 @@
 ---
-description: Contrassegnare un campo come sensibile - Documentazione Marketo - Documentazione del prodotto
+description: Contrassegna i campi come sensibili in modo che i loro valori non vengano mai precompilati nei moduli per proteggere i dati utente.
 title: Contrassegnare un campo come sensibile
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '97'
+ht-degree: 12%
 
 ---
 

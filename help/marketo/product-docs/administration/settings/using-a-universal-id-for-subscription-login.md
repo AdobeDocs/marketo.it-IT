@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100311
-description: Utilizzo di un ID universale per l’accesso in abbonamento - Documentazione di Marketo - Documentazione del prodotto
+description: Come Universal ID consente di accedere a più abbonamenti Marketo con un unico login, di passare da un abbonamento all’altro e come funzionano i criteri per le password e i dati del profilo tra gli abbonamenti.
 title: Utilizzare un ID universale per l’accesso in abbonamento
 exl-id: 75cf1323-0468-49e9-83ca-e55aa30744ac
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '583'
 ht-degree: 2%
 
 ---

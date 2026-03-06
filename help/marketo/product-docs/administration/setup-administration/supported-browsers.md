@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359893
-description: Browser supportati - Documenti Marketo - Documentazione del prodotto
+description: Elenco dei browser e delle versioni supportati per Marketo Engage, inclusi Chrome, Firefox, Safari e Edge, con una nota per gli utenti di Adobe Identity.
 title: Browser supportati
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 7%
+source-wordcount: '80'
+ht-degree: 6%
 
 ---
 

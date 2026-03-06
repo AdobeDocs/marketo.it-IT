@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360295
-description: Esportare un elenco di tutti i nomi di campo API di Marketo - Documenti Marketo - Documentazione del prodotto
+description: Scarica un foglio di calcolo di tutti i campi Marketo e dei relativi nomi API per l’utilizzo dell’API SOAP o Munchkin.
 title: Esportare un elenco di tutti i nomi di campo API di Marketo
 exl-id: 7720c3fe-85e3-4de2-ad04-503c430562f0
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 24%
+source-wordcount: '98'
+ht-degree: 26%
 
 ---
 

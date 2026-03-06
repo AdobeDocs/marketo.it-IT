@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10096583
-description: Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] - Documenti Marketo - Documentazione del prodotto
+description: Domande frequenti sul rollout di tracciamento di nuova generazione [!DNL Munchkin] e sulla modifica del filtro Is Anonymous.
 title: 'Domande frequenti sul tracciamento di nuova generazione [!DNL Munchkin] '
 exl-id: 283189ac-c817-479a-b896-91233980608c
 feature: Administration, Munchkin Tracking Code
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -46,8 +46,8 @@ Se utilizzi già questo filtro in un elenco avanzato (ad esempio, in una campagn
 >[!NOTE]
 >
 >**Trigger**: pagina Web Visite, pagina Web è pagina determinazione prezzi
->&#x200B;>**Flusso**: modifica punteggio +10 e momento di interesse
->&#x200B;>**Web**: pagina determinazione prezzi visualizzata
+>**Flusso**: modifica punteggio +10 e momento di interesse
+>**Web**: pagina determinazione prezzi visualizzata
 >
 >Con [!DNL Munchkin] V2, se una persona anonima visita la pagina dei prezzi, non entra immediatamente nella campagna. Nel momento in cui la persona anonima si farà conoscere, faremo una campagna su di lei. Lei:
 >
@@ -92,4 +92,4 @@ Consulta questi collegamenti:
 
 ## Ho altre domande! Come faccio a rispondergli? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Rivolgiti alla [community](https://nation.marketo.com/){target="_blank"}. È inoltre possibile contattare il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}. Saranno felici di rispondere alle vostre domande.
+Rivolgiti alla [community](https://nation.marketo.com/){target="_blank"}. È inoltre possibile contattare il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}. Saranno felici di rispondere alle vostre domande.

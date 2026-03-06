@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360356
-description: Aggiunta del Single Sign-On a un portale - Documentazione Marketo - Documentazione del prodotto
+description: Abilita il Single Sign-On SAML 2.0 in modo che il provider di identità autentichi gli utenti per Marketo (non applicabile ad Adobe IMS).
 title: Aggiungere il single sign-on a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 3%
+source-wordcount: '580'
+ht-degree: 5%
 
 ---
 
@@ -25,7 +25,7 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!IMPORTANT]
 >
->Questo non si applica agli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. Al momento, Adobe Admin Console supporta solo gli SP avviati. [Ulteriori informazioni](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
+>Questo non si applica agli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. Al momento, Adobe Admin Console supporta solo gli SP avviati. Per ulteriori informazioni, [consulta questo articolo](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
@@ -69,7 +69,7 @@ SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configura
 
    >[!NOTE]
    >
-   >Se non vedi **[!UICONTROL Single Sign-On]** in **[!UICONTROL Admin]**, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+   >Se non vedi **[!UICONTROL Single Sign-On]** in **[!UICONTROL Admin]**, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 
 1. Nella sezione **[!UICONTROL SAML Settings]** fare clic su **[!UICONTROL Edit]**.
 

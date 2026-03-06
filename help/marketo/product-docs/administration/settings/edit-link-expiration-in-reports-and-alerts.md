@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360213
-description: Modifica scadenza collegamento in Rapporti e avvisi - Documentazione di Marketo - Documentazione del prodotto
+description: Come modificare il numero di giorni in cui i collegamenti nelle e-mail di abbonamento al report rimangono validi.
 title: Modificare la scadenza del collegamento in Rapporti e Avvisi
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 18%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 

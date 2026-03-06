@@ -1,12 +1,12 @@
 ---
-description: Regole di convalida modulo globale - Documentazione di Marketo - Documentazione del prodotto
+description: attivare l'autorizzazione Regole di convalida modulo di accesso e creare regole globali per impedire l'invio di domini specifici a Marketo Engage Form.
 title: Regole di convalida del modulo globale
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 4%
+source-wordcount: '255'
+ht-degree: 5%
 
 ---
 
@@ -26,7 +26,7 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
 
    ![](assets/global-form-validation-rules-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Roles]**.
+1. Fai clic sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/global-form-validation-rules-3.png)
 

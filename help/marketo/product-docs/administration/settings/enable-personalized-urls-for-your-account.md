@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360215
-description: Abilitare URL personalizzati per l’account - Documentazione di Marketo - Documentazione del prodotto
+description: Passaggi per abilitare URL personalizzati per l’abbonamento da utilizzare nella stampa e in altre campagne.
 title: Abilitare gli URL personalizzati per il tuo account
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 23%
+source-wordcount: '90'
+ht-degree: 25%
 
 ---
 

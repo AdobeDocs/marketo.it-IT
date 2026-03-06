@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378468
-description: Filtraggio in Audit Trail - Documentazione di Marketo - Documentazione del prodotto
+description: Filtra Audit Trail per intervallo di tempo, tipo di risorsa, utenti e azione per trovare modifiche specifiche.
 title: Filtrare in Audit trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 15%
+source-wordcount: '136'
+ht-degree: 14%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Verifica e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Panoramica della verifica e-mail per gli utenti di Marketo Engage, compreso il motivo per cui è richiesta, il flusso di inviti, l’e-mail di verifica e la risoluzione di più ID di accesso.
 title: Verifica dell’e-mail
 exl-id: 976e46a7-8c85-45ed-86c1-0c5cdb2d5c3e
 feature: Users and Roles
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '478'
 ht-degree: 1%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360253
-description: Modificare il messaggio "Visualizza come pagina web" - Documentazione di Marketo - Documentazione del prodotto
+description: Personalizza il testo del collegamento Visualizza come pagina web e HTML nell’e-mail di amministrazione mantenendo intatte le variabili richieste.
 title: Modificare il messaggio “Visualizza come pagina web”
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 16%
+source-wordcount: '162'
+ht-degree: 17%
 
 ---
 

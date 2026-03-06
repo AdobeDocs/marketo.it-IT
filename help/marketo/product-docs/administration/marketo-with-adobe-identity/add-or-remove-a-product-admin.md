@@ -1,12 +1,12 @@
 ---
-description: Aggiungere o rimuovere un amministratore di prodotto - Documentazione di Marketo - Documentazione di prodotto
+description: Passaggi per aggiungere o rimuovere amministratori di prodotto in Adobe Admin Console.
 title: Aggiungere o rimuovere un amministratore di prodotto
 exl-id: 9c48b830-cce6-48bd-88c4-4d02e3ada2b1
 feature: Marketo with Adobe Identity
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 6%
+source-wordcount: '277'
+ht-degree: 9%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 6%
 
    ![](assets/add-or-remove-a-product-admin-3.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Admins]**.
+1. Fai clic sulla scheda **[!UICONTROL Admins]**.
 
    ![](assets/add-or-remove-a-product-admin-4.png)
 
@@ -82,7 +82,7 @@ L’utente riceverà quindi due e-mail. La prima e-mail notifica che gli sono st
 
    ![](assets/add-or-remove-a-product-admin-13.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Admins]**.
+1. Fai clic sulla scheda **[!UICONTROL Admins]**.
 
    ![](assets/add-or-remove-a-product-admin-14.png)
 

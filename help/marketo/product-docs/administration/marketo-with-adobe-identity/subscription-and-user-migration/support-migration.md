@@ -1,11 +1,11 @@
 ---
-description: Migrazione al supporto Marketo Engage - Documentazione Marketo - Documentazione del prodotto
+description: Panoramica della migrazione del supporto a Adobe Admin Console e Experience League per la gestione degli utenti e l’invio dei ticket di supporto, inclusa la migrazione dei casi e il ruolo PSA.
 title: Migrazione del supporto per Marketo Engage
 feature: Marketo with Adobe Identity
 exl-id: 07e4377a-73d7-4293-938c-ae87c769c128
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '484'
 ht-degree: 2%
 
 ---
@@ -42,9 +42,9 @@ La migrazione del supporto verrà eseguita al termine della migrazione degli ute
 
 * Scopri come utilizzare [Adobe Admin Console per gestire i servizi Adobe autorizzati](https://helpx.adobe.com/it/enterprise/using/admin-roles.html){target="_blank"} per l&#39;intera organizzazione.
 
-* Ulteriori informazioni su come accedere a Marketo Engage con un Adobe ID [&#x200B; sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
+* Ulteriori informazioni su come accedere a Marketo Engage con un Adobe ID [ sono disponibili qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md){target="_blank"}.
 
-* Ulteriori informazioni su [Adobe Experience League](https://experienceleague.adobe.com/it?lang=it){target="_blank"}.
+* Ulteriori informazioni su [Adobe Experience League](https://experienceleague.adobe.com/?lang=it){target="_blank"}.
 
 ## Hai ancora delle domande? {#still-have-questions}
 

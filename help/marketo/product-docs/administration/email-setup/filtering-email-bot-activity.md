@@ -1,11 +1,11 @@
 ---
-description: Filtraggio dell’attività bot e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Filtra o registra l’attività di bot e-mail per evitare aperture e clic gonfiati utilizzando i pattern di corrispondenza e prossimità dell’elenco IAB.
 title: Filtrare l’attività bot dell’e-mail
 exl-id: 70c97159-72bf-46e5-b29b-247615d0fa80
 feature: Email Setup
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ A seconda del clic sul collegamento e-mail e dell’attività di apertura e-mail
 
    ![](assets/filtering-email-bot-activity-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Bot Activity]**.
+1. Fai clic sulla scheda **[!UICONTROL Bot Activity]**.
 
    ![](assets/filtering-email-bot-activity-3.png)
 

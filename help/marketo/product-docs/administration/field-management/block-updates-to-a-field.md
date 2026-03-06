@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360291
-description: Blocca aggiornamenti a un campo - Documentazione di Marketo - Documentazione del prodotto
+description: Blocca gli aggiornamenti a un campo in modo che il primo valore scritto venga mantenuto per tutta la durata del record.
 title: Bloccare gli aggiornamenti a un campo
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 9%
+source-wordcount: '167'
+ht-degree: 10%
 
 ---
 
