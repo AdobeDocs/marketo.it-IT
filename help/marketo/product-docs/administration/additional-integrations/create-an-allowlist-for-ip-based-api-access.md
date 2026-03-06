@@ -21,7 +21,7 @@ A volte, è necessario concedere l’accesso API solo a un indirizzo IP specific
 
 >[!NOTE]
 >
->Questa funzione opera indipendentemente dalle [restrizioni di accesso basate su IP di Marketo Engage](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} che vengono sostituite dal [controllo di accesso basato su IP di Admin Console](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Continuerà a funzionare così com’è dopo la migrazione di Adobe IMS.
+>Questa funzione opera indipendentemente dalle [restrizioni di accesso basate su IP di Marketo Engage](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/settings/restrict-marketo-logins-based-on-ip){target="_blank"} che vengono sostituite dal [controllo di accesso basato su IP di Admin Console](https://helpx.adobe.com/it/enterprise/using/ip-based-access.html){target="_blank"}. Continuerà a funzionare così com’è dopo la migrazione di Adobe IMS.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

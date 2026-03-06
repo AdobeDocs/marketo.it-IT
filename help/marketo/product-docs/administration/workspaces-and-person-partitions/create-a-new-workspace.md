@@ -30,7 +30,7 @@ Ecco come creare una nuova area di lavoro.
 
 >[!TIP]
 >
->Per ulteriori informazioni sulle best practice di Workspace, contattare [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Per ulteriori informazioni sulle best practice di Workspace, contattare [Marketo Professional Services](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"}.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

@@ -68,7 +68,7 @@ Gli addetti al marketing possono consentire agli utenti di dare il consenso util
 
 Gli addetti al marketing possono preservare la privacy monitorando gli utenti con un indirizzo IP anonimo. Per eseguire questa operazione, aggiungere il codice all&#39;RTP o al JavaScript [!DNL Munchkin] incorporato nel sito Web.
 
-* Per [!DNL Munchkin], aggiungi `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Per [!DNL Munchkin], aggiungi `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Per Web Personalization (RTP), aggiungi questo al codice JavaScript:
 
