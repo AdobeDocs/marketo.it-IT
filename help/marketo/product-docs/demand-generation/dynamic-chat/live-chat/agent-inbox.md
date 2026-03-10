@@ -3,10 +3,10 @@ description: Casella in entrata agente - Documentazione Marketo - Documentazione
 title: Casella in entrata agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b3b62c9c73330415d11b1d19599862ae22eb453d
 workflow-type: tm+mt
-source-wordcount: '550'
-ht-degree: 0%
+source-wordcount: '581'
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Nella parte superiore destra della schermata Casella in entrata agente è possib
 >
 >Se imposti lo stato su Non disponibile, le chat attive non verranno influenzate.
 
-## Notifiche chat in diretta {#live-chat-notifications}
+## Notifiche tramite chat in diretta {#live-chat-notifications}
 
 Ulteriori informazioni sulle notifiche nella [Panoramica chat in diretta](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/live-chat-overview.md#live-chat-notifications){target="_blank"}.
 
@@ -50,7 +50,7 @@ Sul lato destro della schermata Casella in entrata agente, potrai vedere (dall&#
 
 ![](assets/agent-inbox-5.png)
 
-## Termina una sessione {#end-a-session}
+## Terminare una sessione {#end-a-session}
 
 Gli agenti possono terminare manualmente una sessione semplicemente facendo clic sul pulsante **Termina sessione** accanto alle informazioni sul visitatore.
 
@@ -116,7 +116,13 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 
    ![](assets/agent-inbox-16.png)
 
-## Riepilogo conversazione {#conversation-summary}
+## Scarica trascrizione {#download-transcript}
+
+Al termine di una chat in diretta, fai clic sul pulsante **Scarica trascrizione** nella parte inferiore della finestra della chat e un file .txt della conversazione viene scaricato automaticamente nella cartella &quot;Download&quot;.
+
+![](assets/agent-inbox-17.png)
+
+## Riepilogo della conversazione {#conversation-summary}
 
 >[!NOTE]
 >
@@ -124,7 +130,7 @@ Nella parte inferiore della finestra Live Chat è presente un&#39;icona che ti c
 
 Riepilogo conversazione genera un riepilogo rapido in tempo reale, inclusi gli argomenti in cui il visitatore ha espresso interesse. È disponibile in basso a destra in ogni schermata di chat.
 
-![](assets/agent-inbox-17.png)
+![](assets/agent-inbox-18.png)
 
 >[!NOTE]
 >
