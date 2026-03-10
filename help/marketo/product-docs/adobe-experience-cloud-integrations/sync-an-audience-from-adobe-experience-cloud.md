@@ -1,11 +1,11 @@
 ---
-description: Sincronizzare un pubblico da Adobe Experience Cloud - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare un pubblico da Adobe Experience Cloud a Marketo Engage. Richiama i tipi di pubblico dalla Libreria tipi di pubblico nel database di Marketo per utilizzarli nelle campagne e nei programmi.
 title: Sincronizzare un pubblico da Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '277'
 ht-degree: 8%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 8%
 
 Quando la sincronizzazione dei cookie è abilitata per l’abbonamento a Marketo, munchkin.js di Marketo tenta di acquisire e memorizzare gli ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore cookie di Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi con gli ECID di Adobe.
 
-È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un’e-mail in testo normale. [&#x200B; è descritto esattamente come funziona](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un’e-mail in testo normale. [ è descritto esattamente come funziona](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Perché la dimensione dell&#39;elenco in Marketo è diversa da quella in Adobe?**
 
