@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515131
-description: Sincronizzazione SFDC - Eliminazione di un lead/contatto - Documentazione Marketo - Documentazione del prodotto
+description: Comprendere come funziona l’eliminazione di lead e contatti tra Salesforce e Marketo. Scopri le azioni di flusso Elimina persona e Elimina da SFDC di SFDC.
 title: Sincronizzazione SFDC - Eliminazione di un lead/contatto
 exl-id: b859357e-09c5-48e5-940e-f5b4e955e374
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 4%
 
 ---

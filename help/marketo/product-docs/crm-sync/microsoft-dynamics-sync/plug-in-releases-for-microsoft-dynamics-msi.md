@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099102
-description: Rilasci di plug-in per  [!DNL Microsoft Dynamics] MSI - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le versioni dei plug-in per Microsoft Dynamics MSI. Trova la cronologia delle versioni e scarica la soluzione Marketo più recente per la tua versione di Dynamics.
 title: Versioni plug-in per  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 6fb25aab33dfc0f6792950a7d5d802a9e4be8303
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 1%
 
 ---

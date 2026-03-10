@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719294
-description: Personalizzare la sincronizzazione delle attività - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come personalizzare le attività che Marketo invia a Salesforce. Abilita i tipi di attività in Opzioni di amministrazione e sincronizzazione per creare la cronologia delle attività di Salesforce dagli eventi.
 title: Personalizzare la sincronizzazione attività
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 3%
+source-wordcount: '271'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Se non si utilizza Marketo Sales Insight, Marketo Engage può creare record dell
 >
 >La sincronizzazione Salesforce/Marketo Engage non invierà a Salesforce alcuna attività che si è verificata prima del push della persona a Salesforce.
 
-1. Vai a **[!UICONTROL Admin]**.
+1. Passa a **[!UICONTROL Admin]**.
 
    ![](assets/customize-activities-sync-1.png)
 

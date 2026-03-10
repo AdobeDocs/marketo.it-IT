@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571805
-description: 'Passaggio 1 di 3: installare la soluzione Marketo (on-premise 2011) - Documentazione di Marketo - Documentazione del prodotto'
+description: Scopri come installare la soluzione Marketo per Dynamics 2011 on-premise. Importa la soluzione e completa i passaggi di installazione in Dynamics.
 title: 'Passaggio 1 di 3: installazione della soluzione Marketo (on-premise 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '260'
 ht-degree: 6%
 
 ---
@@ -43,7 +43,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] On-Premises e Marketo, è
 
    ![](assets/image2015-4-2-11-3a37-3a33.png)
 
-1. Fare clic su **[!UICONTROL Browse]**. Selezionare la soluzione di gestione dei lead di Marketo [scaricata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fai clic su **[!UICONTROL Next]**.
+1. Fai clic su **[!UICONTROL Browse]**. Selezionare la soluzione di gestione dei lead di Marketo [scaricata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2015-4-2-11-3a40-3a33.png)
 

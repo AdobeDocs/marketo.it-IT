@@ -1,11 +1,11 @@
 ---
-description: Passaggio 3 di 4 - Configurare l'app client in MS [!DNL Dynamics] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come configurare l’app client su Microsoft Dynamics per la connessione ROPC. Registra l’app in Azure AD e genera un segreto client per la sincronizzazione Marketo.
 title: Passaggio 3 di 4 - Configurare l'app client in MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 Per federare [!DNL Azure] AD a [!DNL ADFS Onprem] è necessario creare un criterio di individuazione del realm home per l&#39;applicazione specifica. Con questo criterio, [!DNL Azure] AD reindirizzerà la richiesta di autenticazione al servizio federativo. La sincronizzazione hash password deve essere abilitata in [!DNL AD Connect] per questo. Per ulteriori informazioni, vedere [[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20include%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
+Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=Questo%20report%20include%20include%20federated,sono%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Prima di procedere al punto 4 {#before-proceeding-to-step-4}
 

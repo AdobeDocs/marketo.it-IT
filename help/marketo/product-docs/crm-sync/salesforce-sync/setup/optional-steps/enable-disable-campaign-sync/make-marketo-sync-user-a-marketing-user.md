@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782944
-description: Rendi utente di Marketo Sync un utente di marketing - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come rendere l’utente di sincronizzazione Marketo un utente di marketing in Salesforce. Abilita la casella di controllo Utente marketing per consentire il corretto funzionamento della sincronizzazione di Salesforce Campaign.
 title: Rendere l’utente di Marketo Sync utente di marketing
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 15%
+source-wordcount: '111'
+ht-degree: 16%
 
 ---
 

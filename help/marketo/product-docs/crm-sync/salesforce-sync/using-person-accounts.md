@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719316
-description: Utilizzo degli account persona - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come Marketo Engage tratta gli account personali di Salesforce. Differenziare account persona e account aziendali e utilizzare il filtro Account persona Is in elenchi avanzati.
 title: Utilizzare gli account persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---

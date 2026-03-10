@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571816
-description: Passaggio 2 di 3 - Configurare l’utente Sync per Marketo (on-premises 2013) - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come configurare l’utente di sincronizzazione per Marketo con Dynamics 2013 on-premise. Imposta l’utente e assegna il ruolo Utente di Marketo Sync in Dynamics.
 title: 'Passaggio 2 di 3: configurare l''utente Sync per Marketo (on-premises 2013)'
 exl-id: 27c4407e-0623-4ae0-8aa1-0b28c6c5c4f8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '339'
 ht-degree: 4%
 
 ---
@@ -29,7 +29,7 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!IMPORTANT]
 >
->L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [&#x200B; deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. In **[!UICONTROL Settings]**, fare clic su **[!UICONTROL Administration]**.
 

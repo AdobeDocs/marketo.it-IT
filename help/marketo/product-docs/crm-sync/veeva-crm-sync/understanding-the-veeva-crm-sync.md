@@ -1,12 +1,12 @@
 ---
-description: Informazioni sulla sincronizzazione di  [!DNL Veeva] CRM - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come funziona la sincronizzazione di Veeva CRM tra Marketo Engage e Veeva. Esegui una sincronizzazione e scopri cosa viene sincronizzato, inclusi gli account persona e gli oggetti personalizzati.
 title: Informazioni sulla sincronizzazione di  [!DNL Veeva] CRM
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 9%
 
 ---
 
@@ -24,7 +24,7 @@ Marketo Engage esegue la sincronizzazione con [!DNL Veeva] CRM tutto il giorno, 
 
 ![](assets/understanding-the-veeva-sync-1.png)
 
-La sincronizzazione tra [!DNL Veeva] e Marketo Engage è bidirezionale solo per i campi Contatto nell&#39;oggetto account Persona. In questi casi, ogni volta che si apportano modifiche in [!DNL Veeva] o Marketo Engage, gli aggiornamenti verranno applicati a entrambi i sistemi. Tutte le altre sincronizzazioni sono solo da [!DNL Veeva] a Marketo Engage. Fai clic sui collegamenti riportati di seguito per ottenere informazioni dettagliate su ciascuno di essi.
+La sincronizzazione tra [!DNL Veeva] e Marketo Engage è bidirezionale solo per i campi Contatto nell&#39;oggetto account Persona. In questi casi, ogni volta che si apportano modifiche in [!DNL Veeva] o Marketo Engage, gli aggiornamenti verranno applicati a entrambi i sistemi. Tutte le altre sincronizzazioni sono solo da [!DNL Veeva] a Marketo Engage. Per visualizzare i dettagli su ciascuna sincronizzazione, fai clic sui collegamenti seguenti.
 
 ## Cos&#39;è sincronizzato tra Marketo Engage e [!DNL Veeva] {#what-is-synced-between-marketo-engage-and-veeva}
 
@@ -33,9 +33,9 @@ La sincronizzazione tra [!DNL Veeva] e Marketo Engage è bidirezionale solo per 
 * [Richiama e richiama oggetti chiave](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/syncing-call-and-call-key-messages.md){target="_blank"}
 * [Oggetti personalizzati](/help/marketo/product-docs/crm-sync/veeva-crm-sync/sync-details/custom-object-sync.md){target="_blank"}
 
-## Aspetti da considerare {#things-to-know}
+## Aspetti da comprendere {#things-to-know}
 
-* Le [credenziali immesse in Marketo Engage per  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui le credenziali hanno accesso.
+* Le [credenziali immesse in Marketo Engage per  [!DNL Veeva]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui tali credenziali hanno accesso.
 
 * [!DNL Veeva] CRM è basato su force.com e l&#39;esperienza avanzata di Marketo Engage con la piattaforma è ereditata in questa sincronizzazione.
 

@@ -1,11 +1,11 @@
 ---
-description: Domande frequenti sulla sincronizzazione dell’account della persona - Documentazione di Marketo - Documentazione del prodotto
+description: Ottieni aiuto sulla sincronizzazione dell’account persona tra Marketo Engage e Veeva CRM. Scopri come gli account personali si sincronizzano come società e persona e utilizza il filtro Account persona Is.
 title: Domande frequenti sulla sincronizzazione dell’account persona
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---

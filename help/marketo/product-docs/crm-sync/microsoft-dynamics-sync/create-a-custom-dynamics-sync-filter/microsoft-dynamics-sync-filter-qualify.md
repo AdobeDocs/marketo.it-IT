@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092977
-description: Filtro di sincronizzazione Microsoft Dynamics - Qualifica - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il processo di qualificazione del filtro di sincronizzazione Dynamics durante la conversione di un lead in un contatto. Comprendere in che modo i valori dei filtri di sincronizzazione lead e contatti influiscono sulla sincronizzazione di Marketo.
 title: Filtro di sincronizzazione Microsoft Dynamics - Qualifica
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---

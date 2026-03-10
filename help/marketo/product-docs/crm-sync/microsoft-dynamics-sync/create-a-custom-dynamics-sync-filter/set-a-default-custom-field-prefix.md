@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094647
-description: Impostare un prefisso di campo personalizzato predefinito - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare il prefisso del campo personalizzato predefinito su nuovo in Microsoft Dynamics. Utilizza Impostazioni e personalizzazioni per sincronizzare correttamente i campi proprietari di Marketo.
 title: Impostare un prefisso di campo personalizzato predefinito
 exl-id: 5608864b-356d-451b-b079-4ea11c3296e5
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 14%
 
 ---
 

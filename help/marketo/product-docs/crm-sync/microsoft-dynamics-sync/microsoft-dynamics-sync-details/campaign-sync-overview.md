@@ -1,12 +1,12 @@
 ---
-description: Panoramica sulla sincronizzazione di Campaign - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la sincronizzazione delle campagne tra Microsoft Dynamics e Marketo. Utilizza le azioni di flusso e i trigger Aggiungi a campagna Microsoft e Rimuovi da campagna Microsoft.
 title: Panoramica sulla sincronizzazione della campagna
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

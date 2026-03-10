@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504739
-description: Installazione di Marketo per Microsoft Dynamics 2015 on-premises Passaggio 2 di 3 - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare l’utente di sincronizzazione di Marketo per Dynamics 2015 on-premise. Crea l’utente e assegna il ruolo Utente di Marketo Sync in Dynamics.
 title: Installazione di Marketo per Microsoft Dynamics 2015 on-premise - Passaggio 2 di 3
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
@@ -29,7 +29,7 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!IMPORTANT]
 >
->L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [&#x200B; deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. In **[!UICONTROL Settings]**, fare clic su **[!UICONTROL Security]**.
 

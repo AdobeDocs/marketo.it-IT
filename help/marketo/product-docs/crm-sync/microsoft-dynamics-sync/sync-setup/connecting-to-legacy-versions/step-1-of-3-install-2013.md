@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571813
-description: 'Passaggio 1 di 3: installare la soluzione Marketo in Dynamics (on-premises 2013) - Documentazione di Marketo - Documentazione del prodotto'
+description: Scopri come installare la soluzione Marketo in Dynamics 2013 in locale. Importa la soluzione e completa i passaggi di installazione in Dynamics.
 title: 'Passaggio 1 di 3: installare la soluzione Marketo in Dynamics (on-premises 2013)'
 exl-id: 89f90bca-b459-447f-bbdd-363f232a1059
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '255'
 ht-degree: 1%
 
 ---

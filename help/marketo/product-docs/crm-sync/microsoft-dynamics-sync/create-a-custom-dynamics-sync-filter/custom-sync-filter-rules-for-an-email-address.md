@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095307
-description: Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare regole di filtro di sincronizzazione personalizzate per l’indirizzo e-mail in Dynamics. Utilizza i flussi di lavoro per impostare la sincronizzazione su Mkto in base al fatto che il lead o il contatto abbia un’e-mail.
 title: Regole filtro di sincronizzazione personalizzate per un indirizzo e-mail
 exl-id: d1d51310-0c59-447c-818c-b25aa281c15c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 8%
+source-wordcount: '213'
+ht-degree: 7%
 
 ---
 

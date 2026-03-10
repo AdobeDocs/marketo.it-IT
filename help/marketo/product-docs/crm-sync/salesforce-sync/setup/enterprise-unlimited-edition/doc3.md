@@ -1,13 +1,13 @@
 ---
-description: Passaggio 3 di 3 - Connessione di Marketo e Salesforce (Enterprise/Unlimited) - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come collegare Marketo e Salesforce nel passaggio finale Enterprise o Unlimited. Recupera il token di sicurezza utente di sincronizzazione e imposta le credenziali in Marketo Admin.
 title: Passaggio 3 di 3 - Connessione di Marketo e Salesforce (Enterprise/Unlimited)
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 9%
+source-wordcount: '121'
+ht-degree: 8%
 
 ---
 

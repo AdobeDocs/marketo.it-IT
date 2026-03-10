@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953467
-description: Sincronizzazione SFDC - Sincronizzazione opportunità - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come funziona la sincronizzazione delle opportunità da Salesforce a Marketo. Scopri come sincronizzare le opportunità, associarle ai contatti e utilizzare i trigger e i filtri delle opportunità.
 title: Sincronizzazione SFDC - Sincronizzazione opportunità
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '279'
-ht-degree: 1%
+source-wordcount: '293'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ La sincronizzazione è unidirezionale: da [!DNL Salesforce] a Marketo. Gli aggio
 
 >[!NOTE]
 >
->Le [credenziali immesse in Marketo per  [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui le credenziali hanno accesso.
+>Le [credenziali immesse in Marketo per  [!DNL Salesforce]](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md) vengono utilizzate per sincronizzare i dati. Verranno inclusi solo i dati a cui tali credenziali hanno accesso.
 
 ## È possibile avviare una sincronizzazione opportunità? {#can-i-initiate-an-opportunity-sync}
 

@@ -1,12 +1,12 @@
 ---
-description: Passaggio 3 di 3 - Connessione a Marketo Engage e [!DNL Veeva] CRM - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come collegare Marketo Engage a Veeva CRM nel passaggio finale di configurazione. Configura OAuth, conferma le credenziali e sincronizza i campi per completare la connessione.
 title: Passaggio 3 di 3 - Connessione a Marketo Engage e  [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 1%
+source-wordcount: '317'
+ht-degree: 2%
 
 ---
 
@@ -25,7 +25,7 @@ In questo articolo configurerai Marketo Engage per la sincronizzazione con l&#39
 
 ## Connetti a [!DNL Veeva] CRM tramite OAuth {#connect-to-veeva-crm-using-oauth}
 
-1. In Marketo, Fare Clic Su **[!UICONTROL Admin]**. Selezionare **[!UICONTROL CRM]** e fare clic su **[!UICONTROL Sync with Veeva]**.
+1. In Marketo, Fare Clic Su **[!UICONTROL Admin]**. Seleziona **[!UICONTROL CRM]** e fai clic su **[!UICONTROL Sync with Veeva]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-1.png)
 

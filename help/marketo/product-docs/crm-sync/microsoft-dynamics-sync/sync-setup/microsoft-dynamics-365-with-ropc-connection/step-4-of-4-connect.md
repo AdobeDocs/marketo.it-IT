@@ -1,12 +1,12 @@
 ---
-description: Passaggio 4 di 4 - Collegare la soluzione Marketo con la connessione di controllo della password del proprietario della risorsa - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come collegare la soluzione Marketo a Dynamics 365 con connessione ROPC. Immetti le credenziali utente per la sincronizzazione in Marketo Admin e abilita la sincronizzazione.
 title: Passaggio 4 di 4 - Connessione della soluzione Marketo con la connessione del controllo della password del proprietario della risorsa
 exl-id: 71a52a3e-f31e-45ee-8196-d536528e42ca
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 0%
+source-wordcount: '397'
+ht-degree: 2%
 
 ---
 

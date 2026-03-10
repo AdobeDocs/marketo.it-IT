@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097584
-description: Stato di sincronizzazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri lo stato di sincronizzazione di Microsoft Dynamics e come monitorare la velocità effettiva e il backlog. Visualizza le schede Stato di sincronizzazione ed Errori di sincronizzazione in Amministrazione.
 title: Stato della sincronizzazione
 exl-id: cab1cb1d-2bc7-4466-bab8-c9e03ab269f7
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 2%
+source-wordcount: '162'
+ht-degree: 4%
 
 ---
 
@@ -21,7 +21,7 @@ Nelle schede [!UICONTROL Sync Status] e [!UICONTROL Sync Errors] è possibile ma
 
    ![](assets/image2016-1-20-11-3a34-3a14.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Status]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Status]**.
 
    ![](assets/image2016-5-19-10-3a1-3a11.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571840
-description: Microsoft [!DNL Dynamics] Sincronizza - Sincronizzazione utenti - Documenti Marketo - Documentazione del prodotto
+description: Scopri come i dati utente vengono sincronizzati da Microsoft Dynamics a Marketo. Scopri quali campi proprietari vengono sincronizzati e come utilizzarli negli elenchi avanzati e nelle azioni di flusso.
 title: Microsoft [!DNL Dynamics] Sincronizza - Sincronizzazione utente
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---

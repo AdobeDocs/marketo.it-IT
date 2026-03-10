@@ -1,11 +1,11 @@
 ---
-description: Accedi con OAuth 2.0 - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come collegare Marketo e Salesforce utilizzando OAuth 2.0. Configura un’app client esterna in Salesforce e autorizza Marketo a eseguire la sincronizzazione in modo sicuro senza condividere le credenziali.
 title: Accedere utilizzando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 7234082102356fc05c760f359ef19ca8cff375b5
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '627'
 ht-degree: 2%
 
 ---

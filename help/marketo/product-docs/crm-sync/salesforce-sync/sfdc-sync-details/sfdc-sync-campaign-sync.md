@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953469
-description: Sincronizzazione SFDC - Sincronizzazione Campagne - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare i programmi Marketo con le campagne Salesforce. Mappare i programmi alle campagne e mantenere sincronizzati membri e stati tra i due sistemi.
 title: Sincronizzazione SFDC - Sincronizzazione campagna
 exl-id: 62435e00-9c59-4dee-a9b7-ccf1d1f41b78
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '374'
 ht-degree: 1%
 
 ---
@@ -73,6 +73,6 @@ Di seguito sono riportati alcuni elementi che è possibile verificare:
 >[!MORELIKETHIS]
 >
 >* [Sincronizzare una campagna SFDC con un programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/sync-an-sfdc-campaign-with-a-program.md){target="_blank"}
->* [Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+>* [Informazioni sull’iscrizione a un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
 >* [Attiva/Disattiva sincronizzazione campagne](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}
 >* [Imposta utente di Marketo Sync come utente di marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"}

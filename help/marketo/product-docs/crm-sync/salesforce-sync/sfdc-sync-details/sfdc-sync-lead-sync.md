@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953455
-description: Sincronizzazione SFDC - Sincronizzazione lead - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come funziona la sincronizzazione dei lead tra Salesforce e Marketo. Comprendi la sincronizzazione bidirezionale, crea lead da Marketo e rispetta le regole di convalida.
 title: Sincronizzazione SFDC - Sincronizzazione lead
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '243'
 ht-degree: 2%
 
 ---

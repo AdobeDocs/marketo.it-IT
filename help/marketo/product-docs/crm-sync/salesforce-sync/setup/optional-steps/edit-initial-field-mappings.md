@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719287
-description: Modifica mappature campi iniziali - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come modificare le mappature dei campi iniziali prima della prima sincronizzazione Salesforce. Mappa campi personalizzati non mappati o interrompi le mappature automatiche dei campi lead-contatto in Marketo.
 title: Modificare le mappature campi iniziali
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '275'
 ht-degree: 3%
 
 ---

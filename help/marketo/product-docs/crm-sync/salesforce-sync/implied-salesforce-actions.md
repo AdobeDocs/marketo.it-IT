@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719304
-description: Azioni Salesforce implicite - Documentazione Marketo - Documentazione del prodotto
+description: Scopri quali passaggi del flusso di Salesforce attivano la sincronizzazione automatica da persona a SFDC o altre azioni. Scopri le regole per Aggiungi a campagna, Cambia proprietario, Crea attività e Converti persona.
 title: Azioni Salesforce implicite
 exl-id: 88533588-77f2-465e-9644-a4f95b87f99d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 27%
+source-wordcount: '157'
+ht-degree: 23%
 
 ---
 

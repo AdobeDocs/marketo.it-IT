@@ -1,12 +1,12 @@
 ---
-description: Errori di sincronizzazione Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come visualizzare e filtrare gli errori di sincronizzazione di Salesforce in Marketo. Vedi errori a livello di record e di processo e utilizza i dettagli dell’errore per risolvere i problemi di sincronizzazione.
 title: Errori della sincronizzazione Salesforce
 exl-id: 4819f423-30c6-48e3-8cec-5d298ceb7b56
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 3%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 

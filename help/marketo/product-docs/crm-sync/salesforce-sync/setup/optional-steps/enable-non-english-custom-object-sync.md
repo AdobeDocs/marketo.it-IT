@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719302
-description: Abilita sincronizzazione oggetti personalizzati non in inglese - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abilitare la sincronizzazione di oggetti personalizzata quando l’utente di Marketo utilizza una lingua diversa dall’inglese. Imposta la lingua utente di sincronizzazione su Inglese in Salesforce e aggiorna lo schema.
 title: Abilitare la sincronizzazione oggetti personalizzati non inglese
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 8%
+source-wordcount: '157'
+ht-degree: 7%
 
 ---
 

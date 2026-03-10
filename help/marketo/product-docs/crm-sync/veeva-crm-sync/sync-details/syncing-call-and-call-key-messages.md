@@ -1,11 +1,11 @@
 ---
-description: Sincronizzazione dei messaggi chiave di chiamata e chiamata - Documenti Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare gli oggetti Messaggio chiave di chiamata e Call da Veeva CRM a Marketo Engage. Utilizza i trigger e i filtri relativi alle chiamate in elenchi e campagne Smart.
 title: Sincronizzare i messaggi di chiave chiamata e chiamata
 exl-id: a8df5b77-e594-4e06-8194-1758a3582cda
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '493'
 ht-degree: 6%
 
 ---

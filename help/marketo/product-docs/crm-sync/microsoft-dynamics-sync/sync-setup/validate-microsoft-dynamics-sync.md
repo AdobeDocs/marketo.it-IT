@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783322
-description: Convalida [!DNL Microsoft Dynamics] Sincronizzazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come eseguire lo strumento Validate Sync per verificare la configurazione di Microsoft Dynamics e Marketo. Controlla l’elenco di controllo in sette passaggi in Amministratore prima di effettuare la connessione finale.
 title: Convalida [!DNL Microsoft Dynamics] Sincronizzazione
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '236'
-ht-degree: 0%
+source-wordcount: '257'
+ht-degree: 3%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Se Multi-Factor Authentication (MFA) è abilitato per la sincronizzazione di [!DNL Dynamics], è necessario disattivarlo affinché [!DNL Dynamics] possa essere sincronizzato correttamente con Marketo. Per ulteriori informazioni, contattare il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se Multi-Factor Authentication (MFA) è abilitato per la sincronizzazione di [!DNL Dynamics], è necessario disattivarlo affinché [!DNL Dynamics] possa essere sincronizzato correttamente con Marketo. Per ulteriori informazioni, contattare il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 ## Eseguire Convalida sincronizzazione in Marketo {#run-validate-sync-in-marketo}
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
    ![](assets/image2015-9-28-16-3a10-3a47.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Validate Sync Setup]**.
+1. Fai clic sulla scheda **[!UICONTROL Validate Sync Setup]**.
 
    ![](assets/image2015-9-28-16-3a11-3a45.png)
 

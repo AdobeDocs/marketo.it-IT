@@ -1,11 +1,11 @@
 ---
-description: Crea attività in [!DNL Veeva] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare attività in Veeva da Marketo per informare le vendite su cosa fare e quando. Utilizzare il passaggio Crea task flow e personalizzare oggetto, descrizione e data di scadenza.
 title: Crea attività in [!DNL Veeva]
 exl-id: 342e45dd-2038-432d-a6b6-1740c8f0b58e
 feature: Veeva CRM
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---

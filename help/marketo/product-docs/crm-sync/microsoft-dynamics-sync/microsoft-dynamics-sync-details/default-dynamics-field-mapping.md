@@ -1,11 +1,11 @@
 ---
-description: Mappatura campo Dynamics predefinita - Documenti Marketo - Documentazione del prodotto
+description: Scopri la mappatura dei campi predefinita di Microsoft Dynamics tra Dynamics e Marketo. Scopri come mappare automaticamente i campi di lead, contatto, account e opportunità.
 title: Mappatura del campo Dynamics predefinito
 exl-id: 5f39bd0c-202e-4aa1-a0ac-49ac2554aa1e
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '332'
+source-wordcount: '345'
 ht-degree: 4%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Installa Marketo per  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 on-premise Passaggio 2 di 3 - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come configurare l’utente di sincronizzazione di Marketo per Dynamics 2016 o Dynamics 365 on-premise. Crea l’utente e assegna il ruolo Utente di Marketo Sync in Dynamics.
 title: Installa Marketo per  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 on-premise Passaggio 2 di 3
 exl-id: c789b977-7ada-4f5d-8488-e1b58963f7e3
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '459'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ Ottimo lavoro per completare i passaggi precedenti. Continuiamo a muoverci in qu
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-4.png)
 
-1. Fare clic su **[!UICONTROL Add and License Users]**. Dovrebbe aprirsi una nuova scheda.
+1. Fai clic su **[!UICONTROL Add and License Users]**. Dovrebbe aprirsi una nuova scheda.
 
    ![](assets/step-2-of-3-marketo-on-premises-2016-5.png)
 
@@ -74,7 +74,7 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!IMPORTANT]
 >
->L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [&#x200B; deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. In **[!UICONTROL Settings]**, fare clic su **[!UICONTROL Security]**.
 

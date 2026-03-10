@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719308
-description: Aggiungere un campo Salesforce esistente a Sincronizzazione Marketo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un campo Salesforce esistente alla sincronizzazione Marketo. Rendi il campo visibile all’utente di sincronizzazione in Salesforce in modo che venga sincronizzato nel ciclo successivo.
 title: Aggiungere un campo Salesforce esistente alla sincronizzazione Marketo
 exl-id: 6030aedd-9c4b-411f-89c7-f35fd39b0066
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 8%
 
 ---
 

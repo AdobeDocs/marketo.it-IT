@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571830
-description: Passaggio 3 di 3 - Connessione della soluzione Marketo con la connessione server-to-server - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come connettere la soluzione Marketo a Dynamics 365 con la connessione server-to-server. Immetti le informazioni utente di sincronizzazione in Amministrazione Marketo e convaliderle prima di abilitare la sincronizzazione.
 title: Passaggio 3 di 3 - Connessione della soluzione Marketo con la connessione server-to-server
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 0%
+source-wordcount: '430'
+ht-degree: 1%
 
 ---
 

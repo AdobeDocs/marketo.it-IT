@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360362
-description: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unlimited) - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere campi Marketo a Salesforce Enterprise o Unlimited edition. Crea punteggio, programma di acquisizione e data di acquisizione sugli oggetti lead e contatto.
 title: 'Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Enterprise/Unlimited)'
 exl-id: bcfba281-0d4b-42c3-b52a-ce1c3da884ba
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '719'
-ht-degree: 9%
+source-wordcount: '728'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12983390
-description: Registrare un'app con Azure per acquisire l'ID client/ID app - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come registrare un’app con Azure per ottenere l’ID client e l’ID app per la sincronizzazione con Dynamics. Utilizza le registrazioni di Azure Active Directory e app per l’autenticazione.
 title: Registrare un’app con Azure per acquisire l’ID client/ID app
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '306'
 ht-degree: 8%
 
 ---
@@ -25,10 +25,10 @@ Azure Active Directory estende le directory locali nel cloud, fornendo il suppor
 
    >[!NOTE]
    >
-   >Se non disponi di un account di Azure, puoi [iscriverti](https://azure.microsoft.com/en-us/free/){target="_blank"} per un account. Per ulteriori informazioni, consulta la documentazione di Microsoft o rivolgiti al tuo rappresentante Microsoft. Dopo aver creato un account di Azure, è possibile registrare una o più app utilizzando la procedura descritta di seguito.
+   >Se non disponi di un account Azure, puoi [registrarti](https://azure.microsoft.com/en-us/free/){target="_blank"} per un account. Per ulteriori informazioni, consulta la documentazione di Microsoft o rivolgiti al tuo rappresentante Microsoft. Dopo aver creato un account Azure, puoi registrare una o più app seguendo la procedura descritta di seguito.
    >
    >
-   >Se disponi di un account di Azure ma la sottoscrizione di [!DNL Office 365] con [!DNL Microsoft Dynamics 365] non è disponibile nella sottoscrizione di Azure, segui [queste istruzioni](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} per associare i due account.
+   >Se disponi di un account Azure ma la sottoscrizione [!DNL Office 365] a [!DNL Microsoft Dynamics 365] non è disponibile nella sottoscrizione Azure, segui [queste istruzioni](https://msdn.microsoft.com/office/office365/howto/setup-development-environment#bk_CreateAzureSubscription){target="_blank"} per associare i due account.
 
 1. Trovare e fare clic su **[!UICONTROL Azure Active Directory]** nel riquadro di spostamento a sinistra.
 

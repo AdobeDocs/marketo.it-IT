@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953457
-description: Sincronizzazione SFDC - Sincronizzazione contatti - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come funziona la sincronizzazione dei contatti tra Salesforce e Marketo. Comprendere la sincronizzazione bidirezionale, convertire le persone in contatti e forzare la sincronizzazione con le azioni di flusso.
 title: Sincronizzazione SFDC - Sincronizzazione contatti
 exl-id: 537bbc95-9233-4454-892e-81f962cf729d
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '244'
 ht-degree: 1%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571844
-description: Sincronizzazione Microsoft Dynamics - Sincronizzazione opportunità - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come funziona la sincronizzazione delle opportunità da Microsoft Dynamics a Marketo. Comprendere la sincronizzazione unidirezionale e il modo in cui le opportunità si associano ai contatti e ai lead.
 title: Sincronizzazione Microsoft Dynamics - Sincronizzazione opportunità
 exl-id: dcb72f28-c980-4183-8473-a1e5ad0c8d3c
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---

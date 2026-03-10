@@ -1,12 +1,12 @@
 ---
-description: Aggiungere/rimuovere un campo oggetto personalizzato come vincoli di elenco avanzato/trigger - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere o rimuovere i campi oggetto personalizzati di Veeva come filtri di elenchi avanzati e vincoli di attivazione. Utilizza Admin and Veeva Objects Sync per modificare i campi visibili.
 title: Aggiungere/rimuovere campo oggetto personalizzato come vincoli di elenco avanzato/trigger
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 12%
+source-wordcount: '178'
+ht-degree: 13%
 
 ---
 

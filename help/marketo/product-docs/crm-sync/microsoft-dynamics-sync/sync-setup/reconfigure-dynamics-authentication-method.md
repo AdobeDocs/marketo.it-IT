@@ -1,12 +1,12 @@
 ---
-description: Riconfigura [!DNL Dynamics] Metodo di autenticazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come riconfigurare il metodo di autenticazione Dynamics in Marketo. Disattivare la sincronizzazione, utilizzare Riconfigura nuovo metodo di autenticazione e convalidare le credenziali per l'API Web o ROPC.
 title: Riconfigura [!DNL Dynamics] Metodo di autenticazione
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: '271'
+ht-degree: 2%
 
 ---
 
@@ -33,7 +33,7 @@ Per aggiornare il metodo di autenticazione [!DNL Dynamics], attenersi alla proce
    >
    >Per aggiornare il metodo di autenticazione, è necessario disattivare temporaneamente la sincronizzazione globale.
 
-1. Fare clic sulla scheda **[!UICONTROL Reconfigure New Auth Method]**.
+1. Fai clic sulla scheda **[!UICONTROL Reconfigure New Auth Method]**.
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 

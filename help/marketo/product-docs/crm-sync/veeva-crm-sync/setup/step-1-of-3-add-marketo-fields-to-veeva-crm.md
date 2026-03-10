@@ -1,11 +1,11 @@
 ---
-description: Passaggio 1 di 3 - Aggiungere campi Marketo a  [!DNL Veeva] CRM - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere campi Marketo a Veeva CRM prima della connessione. Crea il campo Punteggio e i campi di marketing facoltativi sugli oggetti contatto in Veeva.
 title: Passaggio 1 di 3 - Aggiungere campi Marketo a  [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '496'
 ht-degree: 8%
 
 ---

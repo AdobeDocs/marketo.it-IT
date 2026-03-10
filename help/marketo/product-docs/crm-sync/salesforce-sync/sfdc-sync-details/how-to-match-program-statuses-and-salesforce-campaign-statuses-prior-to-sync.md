@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360370
-description: Come abbinare gli stati dei programmi e degli campagne Salesforce prima della sincronizzazione - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come abbinare gli stati del programma Marketo con gli stati dei membri della campagna Salesforce prima della sincronizzazione. Correggi gli errori e mappa gli stati in modo che i programmi si sincronizzino con le campagne.
 title: Come abbinare gli stati del programma e quelli della campagna Salesforce prima della sincronizzazione
 exl-id: 623676ff-ce63-484f-8467-71127fa40fe0
 feature: Salesforce Integration
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 5%
 
 ---
