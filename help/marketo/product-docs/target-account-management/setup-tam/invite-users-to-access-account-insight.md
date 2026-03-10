@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12980105
-description: Invita gli utenti ad accedere a [!UICONTROL Account Insight] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come invitare gli utenti ad accedere all’Insight dell’account. Invita tramite CRM o e-mail e concedi l’accesso Insight all’account dalla scheda Utenti vendite.
 title: Invita gli utenti ad accedere a [!UICONTROL Account Insight]
 exl-id: 772e50d6-4ae8-4d3e-9d6a-9bc075bd4a06
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '159'
 ht-degree: 1%
 
 ---

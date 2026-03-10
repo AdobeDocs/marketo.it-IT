@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380789
-description: Account Dimension denominato in RCA - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare rapporti basati sui ricavi utilizzando la dimensione Conto denominato in Revenue Cycle Analytics. Misura l’impatto della pipeline e dei ricavi dai conti target.
 title: Dimensione dell’account denominato in RCA
 exl-id: 0c5d9fb9-94e3-4ad0-b024-26542c2d2fd3
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '149'
-ht-degree: 8%
+source-wordcount: '163'
+ht-degree: 7%
 
 ---
 

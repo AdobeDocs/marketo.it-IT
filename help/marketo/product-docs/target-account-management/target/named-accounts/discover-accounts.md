@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378812
-description: Esplorare gli account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come individuare potenziali account target dalle aziende di gestione delle relazioni con i clienti o Marketo. Aggiungere gli account selezionati come Account denominati e associare automaticamente le persone.
 title: Individuare account
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---

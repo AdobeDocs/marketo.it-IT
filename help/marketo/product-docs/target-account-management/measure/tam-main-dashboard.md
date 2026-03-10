@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380783
-description: Dashboard principale TAM - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la dashboard principale di TAM e un riepilogo delle attività del tuo account di destinazione. Filtra per elenco di account ed esegui il drill-in di informazioni sull’elenco o sull’account denominato.
 title: Dashboard principale TAM
 exl-id: f550dd99-f5b1-4d75-9e11-d9791043baea
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 5%
+source-wordcount: '126'
+ht-degree: 4%
 
 ---
 

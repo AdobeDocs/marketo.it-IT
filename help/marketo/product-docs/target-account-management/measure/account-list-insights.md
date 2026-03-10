@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380787
-description: Informazioni sull’elenco degli account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la dashboard Elenco account e le informazioni aggregate provenienti dagli account denominati. Visualizza pipeline, ricavi, conti principali e quali risorse utilizzano ciascun elenco.
 title: Informazioni sull’elenco di account
 exl-id: 27a4020b-b1e0-4f19-b676-2e6dc5fe9611
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

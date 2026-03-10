@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17432598
-description: Configurazione della profilatura dell’account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare la profilazione dell’account e creare il modello di profilo cliente ideale in TAM. Inizia a usare la scheda Modello e crea il primo modello.
 title: Configurazione della profilazione dell'account
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 8%
+source-wordcount: '176'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 
    ![](assets/setting-up-account-profiling-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Account Profiling]**.
+1. Fai clic sulla scheda **[!UICONTROL Account Profiling]**.
 
    ![](assets/two-1.png)
 

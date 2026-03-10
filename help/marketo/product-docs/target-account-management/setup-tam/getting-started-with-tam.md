@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12255457
-description: 'Guida introduttiva a TAM: documentazione Marketo - Documentazione del prodotto'
+description: Scopri come iniziare a utilizzare il TAM dopo che è stato aggiunto all’istanza. Segui i passaggi per impostare le autorizzazioni, configurare il punteggio dell’account, creare account denominati e altro ancora.
 title: Guida introduttiva di TAM
 exl-id: 95fd6c22-7ef8-4184-aeff-7586d12ec495
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---

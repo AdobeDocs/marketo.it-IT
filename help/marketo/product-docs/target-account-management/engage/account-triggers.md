@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11380734
-description: Trigger account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come ascoltare e agire sulle attività comportamentali a livello di account utilizzando i trigger dell’account. Utilizza i trigger account denominati nelle campagne intelligenti per coinvolgere gli account chiave.
 title: Trigger account
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 6%
+source-wordcount: '106'
+ht-degree: 5%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378809
-description: Panoramica di [!UICONTROL Named Account] - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri gli account denominati e come contengono le persone delle tue aziende mirate. Visualizza i dati degli attributi correnti per tutti i conti denominati nel dashboard.
 title: '[!UICONTROL Named Account] Panoramica'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 

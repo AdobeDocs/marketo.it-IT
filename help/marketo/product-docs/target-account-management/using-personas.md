@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727818
-description: Utilizzo di Personas - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare gli utenti tipo per segmentare il pubblico e il mercato ABM in sottoinsiemi specifici. Aggiungi utenti tipo in Amministratore e utilizzali nei filtri elenchi avanzati.
 title: Utilizzo di utenti tipo
 exl-id: 8c8940ab-d336-494c-b6a0-dad09ed1c888
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 2%
+source-wordcount: '196'
+ht-degree: 5%
 
 ---
 
@@ -53,7 +53,7 @@ Visualizza i tuoi utenti tipo visitando un [!UICONTROL Named Account] specifico.
 
    ![](assets/one-a.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Personas]**.
+1. Fai clic sulla scheda **[!UICONTROL Personas]**.
 
    ![](assets/two-a.png)
 

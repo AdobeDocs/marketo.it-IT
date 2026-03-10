@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384438
-description: Configurazione del rapporto TAM - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare l’e-mail settimanale TAM Sales Report per i team dell’account. Scegli il giorno di consegna, il tipo di ordinamento e quali titolari di account o membri del team ricevono.
 title: Configurazione del report TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 6%
 
 ---
 

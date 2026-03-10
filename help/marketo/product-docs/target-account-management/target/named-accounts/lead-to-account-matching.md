@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11381156
-description: Corrispondenza lead-account - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la corrispondenza lead-account e come le corrispondenze Marketo portano ad account denominati quasi in tempo reale. Risolvi le corrispondenze deboli e attiva i nuovi lead.
 title: Lead per corrispondenza account
 exl-id: 676ae500-7691-492d-abec-0cac708216b7
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '466'
 ht-degree: 2%
 
 ---
@@ -41,11 +41,11 @@ Poiché la corrispondenza lead-account Marketo è una funzionalità incorporata 
 
 >[!NOTE]
 >
->Se utilizzi LeanData in Salesforce per la corrispondenza lead-account, Marketo dispone di un’integrazione che sincronizzerà tali corrispondenze con l’istanza Marketo. Per abilitare questa funzionalità, contattare il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) Per informazioni su come impostare i dati lean, vedere.
+>Se utilizzi LeanData in Salesforce per la corrispondenza lead-account, Marketo dispone di un’integrazione che sincronizzerà tali corrispondenze con l’istanza Marketo. Per abilitare questa funzionalità, contattare il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) Per informazioni su come impostare i dati lean, vedere.
 
 ## Utilizzo di LeanData per la corrispondenza lead-account {#using-leandata-for-lead-to-account-matching}
 
-Dopo che il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) ha abilitato LeanData per il tuo account, segui i passaggi seguenti per configurarlo.
+Dopo che il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) ha abilitato LeanData per il tuo account, segui i passaggi seguenti per configurarlo.
 
 1. In Salesforce, fai clic su **[!UICONTROL Setup Home]** nella barra di navigazione a sinistra.
 

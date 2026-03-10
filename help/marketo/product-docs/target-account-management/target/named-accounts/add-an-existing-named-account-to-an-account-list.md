@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615798
-description: Aggiungere un account con nome esistente a un elenco di account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un account con nome esistente a un elenco di account. Utilizza Azioni account denominate e seleziona Aggiungi all’elenco account con l’elenco desiderato.
 title: Aggiungere un account denominato esistente a un elenco di account
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 17%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979223
-description: Configurare l’account Insight - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare Account Insight per i team di vendita. Configura il modo in cui gli account con nome e le persone coinvolte hanno la priorità nella scheda Vendite.
 title: Configurare account Insight
 exl-id: 50e24974-339b-4a42-b5ca-2e80ab47d313
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 11%
+source-wordcount: '114'
+ht-degree: 9%
 
 ---
 
@@ -17,7 +17,7 @@ Ecco come impostare Account Insight.
 
 >[!PREREQUISITES]
 >
->Il punteggio dell&#39;account TAM [&#x200B; deve prima essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
+>Il punteggio dell&#39;account TAM [ deve prima essere configurato](/help/marketo/product-docs/target-account-management/setup-tam/account-score.md).
 
 1. Fai clic su **[!UICONTROL Admin]**.
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384433
-description: Configurazione del team dell’account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare i team dell’account e mappare i ruoli dell’account CRM su TAM. Scegliere i campi di ricerca utente che diventeranno membri del team account.
 title: Configurazione team account
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 4%
+source-wordcount: '185'
+ht-degree: 5%
 
 ---
 

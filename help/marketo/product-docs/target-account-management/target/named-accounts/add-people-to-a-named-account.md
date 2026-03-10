@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378816
-description: Aggiungere persone a un account denominato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere persone a un account denominato utilizzando azioni di flusso, passaggi di flusso di campagne intelligenti o importazione di elenchi.
 title: Aggiungere persone a un account denominato
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '166'
 ht-degree: 5%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380732
-description: Filtri account - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come identificare e coinvolgere account e utenti tipo denominati utilizzando filtri incentrati sull’account. Utilizza i filtri TAM nelle campagne intelligenti per eseguire il targeting degli account corretti.
 title: Filtri account
 exl-id: a359f53b-c0a0-4b46-bad0-2840ba668892
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '170'
 ht-degree: 1%
 
 ---

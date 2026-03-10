@@ -1,13 +1,13 @@
 ---
 unique-page-id: 15695924
-description: Classificazione e ottimizzazione della profilatura dell’account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri in che modo la funzione di profilazione degli account classifica le aziende in base all’ICP e aggiunge i dati degli indicatori agli account denominati. Ottimizza il tuo modello e promuovi gli account.
 title: Classificazione della profilazione dell'account e regolazione
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 3%
+source-wordcount: '393'
+ht-degree: 4%
 
 ---
 
@@ -30,7 +30,7 @@ Anche se facoltativo, è consigliabile selezionare la casella di controllo Promu
 <table>
  <tbody>
   <tr>
-   <td><strong><span class="uicontrol">Classifica</span></strong></td>
+   <td><strong><span class="uicontrol">Ranking</span></strong></td>
    <td>
     <div>
       Classificazione dell’account in base al profilo cliente ideale. A è la misura migliore, D è la misura minore.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355609
-description: Individuazione nuovo account - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come trovare nuovi account per eseguire il targeting utilizzando i consigli basati sull’intelligenza artificiale del tuo profilo cliente ideale. Individuare e salvare nuovi account di destinazione negli elenchi di account.
 title: Individuazione di un nuovo account
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 4%
 
 ---
 
@@ -31,11 +31,11 @@ L’individuazione di nuovi account può aiutarti a trovare nuovi account di des
 
    ![](assets/new-account-discovery-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Account Profiling]**.
+1. Fai clic sulla scheda **[!UICONTROL Account Profiling]**.
 
    ![](assets/two-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL New Accounts]**.
+1. Fai clic sulla scheda **[!UICONTROL New Accounts]**.
 
    ![](assets/three-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615781
-description: Creazione di un account denominato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare manualmente un account denominato in TAM. Utilizza il menu a discesa Nuovo, seleziona Crea account denominato e compila i campi desiderati.
 title: Creare un account denominato
 exl-id: 191ca1d2-8825-41ad-b8a0-53cf21526a91
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 8%
+source-wordcount: '65'
+ht-degree: 6%
 
 ---
 

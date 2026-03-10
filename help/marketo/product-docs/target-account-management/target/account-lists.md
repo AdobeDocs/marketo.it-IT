@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378814
-description: '[!UICONTROL Account Lists] - Documentazione di Marketo - Documentazione del prodotto'
+description: Scopri gli elenchi di account e come raggruppano gli account denominati per il targeting. Creare elenchi statici o dinamici dalle visualizzazioni account CRM.
 title: '[!UICONTROL Account Lists]'
 exl-id: 31bb4341-d012-4239-8f40-10a07cd4c51c
 feature: Target Account Management
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '306'
-ht-degree: 0%
+source-wordcount: '324'
+ht-degree: 5%
 
 ---
 
@@ -23,9 +23,9 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 >
 >Gli elenchi account creati in Marketo [!UICONTROL Target Account Management] sono automaticamente disponibili durante la creazione di elenchi avanzati e campagne Web in [Web Personalization](/help/marketo/product-docs/web-personalization/using-web-segments/web-segments.md).
 
-## Crea un nuovo elenco account {#create-a-new-account-list}
+## Creare un nuovo elenco di account {#create-a-new-account-list}
 
-1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL Create New Account List]**.
+1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL Create New Account List]**.
 
    ![](assets/1a.png)
 
@@ -41,7 +41,7 @@ Oltre agli elenchi di account, puoi anche creare elenchi di account dinamici gen
 
 ## Creare un nuovo elenco account dinamico {#create-a-new-dynamic-account-list}
 
-1. Fare clic sul menu a discesa **[!UICONTROL New]** e selezionare **[!UICONTROL Create New Dynamic List]**.
+1. Fai clic sul menu a discesa **[!UICONTROL New]** e seleziona **[!UICONTROL Create New Dynamic List]**.
 
    ![](assets/1.png)
 

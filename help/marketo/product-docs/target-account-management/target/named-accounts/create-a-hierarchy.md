@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795734
-description: Creare una gerarchia - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare manualmente una gerarchia di account denominata quando non si utilizza un CRM. Collegare i conti a un conto denominato padre utilizzando Raggruppa per gerarchia.
 title: Creare una gerarchia
 exl-id: ea56145b-f8c2-4b18-a50c-b547ac1102a1
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 8%
+source-wordcount: '150'
+ht-degree: 7%
 
 ---
 

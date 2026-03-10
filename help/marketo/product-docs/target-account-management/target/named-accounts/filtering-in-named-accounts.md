@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615804
-description: Filtraggio in Account denominati - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come filtrare gli account denominati per limitare rapidamente i dati. Utilizza nel filtro i campi del settore, del paese, dei dipendenti e altri campi sincronizzati con il sistema CRM.
 title: Filtraggio degli account denominati
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

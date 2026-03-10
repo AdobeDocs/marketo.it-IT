@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11378814
-description: Elenchi avanzati account - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare elenchi avanzati di account per identificare account di alto valore. Definisci i filtri dell’account e della persona corrispondente e utilizza i risultati nelle campagne o nell’esportazione.
 title: Elenchi avanzati di account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '445'
 ht-degree: 2%
 
 ---

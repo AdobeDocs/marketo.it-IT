@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795510
-description: Gerarchie TAM - Documentazione Marketo - Documentazione del prodotto
+description: Scopri le gerarchie TAM e come ereditano le relazioni padre-figlio dal tuo CRM. Esegui il targeting e genera rapporti su intere famiglie di account con un clic.
 title: Gerarchie TAM
 exl-id: 41364270-bd85-4ca3-921e-842c0dedc167
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '157'
 ht-degree: 2%
 
 ---

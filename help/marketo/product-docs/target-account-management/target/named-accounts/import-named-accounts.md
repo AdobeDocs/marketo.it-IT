@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615800
-description: Importa [!UICONTROL Named Accounts] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come importare account denominati da un file CSV in TAM. Carica l’elenco, scegli la modalità di deduplicazione per nome account o dominio e mappa i campi.
 title: Importa [!UICONTROL Named Accounts]
 exl-id: 3f40e567-9256-4efd-beea-4e818770759f
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 2%
+source-wordcount: '461'
+ht-degree: 3%
 
 ---
 

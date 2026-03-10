@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11380785
-description: Informazioni sull’account denominato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la dashboard dell’account denominato e la sua visualizzazione a 360 gradi degli account target. Visualizza gli indicatori di coinvolgimento, opportunità, team dell'account e ICP.
 title: Informazioni sull’account denominato
 exl-id: 2bd9497e-ca5f-4fd6-8fd2-241419e97cba
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '399'
 ht-degree: 2%
 
 ---

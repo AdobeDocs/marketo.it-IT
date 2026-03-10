@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615802
-description: Eliminare un account denominato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eliminare un account denominato in TAM. Selezionare gli account e utilizzare Azioni account denominate per eliminarli.
 title: Eliminare un account denominato
 exl-id: 47a1ce87-43ac-4f8f-94ab-7dec2730ab21
 feature: Target Account Management
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '109'
+ht-degree: 9%
 
 ---
 
