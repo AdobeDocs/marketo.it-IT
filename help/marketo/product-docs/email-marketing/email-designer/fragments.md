@@ -6,9 +6,9 @@ description: Scopri come creare e utilizzare frammenti di contenuto visivo come 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 14c673a1cc4563b8a8066d3e72c0aec482d49e00
+source-git-commit: 8e4e5ddd4789b9ddfb5ced7d20b58f345d257caf
 workflow-type: tm+mt
-source-wordcount: '1881'
+source-wordcount: '1902'
 ht-degree: 1%
 
 ---
@@ -312,6 +312,10 @@ Quando un frammento viene aggiunto a un e-mail o a un modello e-mail, il relativ
 * **[!UICONTROL Duplicate]** - Duplica il frammento nello stesso modello e-mail o e-mail all&#39;interno dell&#39;editor. Il frammento duplicato viene aggiunto immediatamente sotto l’originale.
 * **[!UICONTROL Open Fragment]** - Verrà aperta una nuova scheda del browser con la pagina e i dettagli dell&#39;editor frammenti.
 * **[!UICONTROL Break inheritance]** - Interrompe l&#39;ereditarietà del frammento (e delle relative modifiche) dall&#39;origine. Utilizza questa azione per rendere il contenuto del frammento disponibile come contenuto indipendente e modificabile all’interno del modello e-mail o e-mail. Questa azione rimuove anche il modello e-mail o e-mail dal riferimento _Usato da_ per il frammento originale.
+
+>[!NOTE]
+>
+>Se _Sincronizza con HTML_ è disabilitato nell&#39;e-mail, le modifiche apportate (inclusa l&#39;interruzione dell&#39;ereditarietà) non verranno applicate al contenuto del testo.
 
 Quando selezioni il frammento nella pagina dell’editor, queste azioni sono disponibili nella barra degli strumenti contestuale e nel pannello delle proprietà a destra.
 
