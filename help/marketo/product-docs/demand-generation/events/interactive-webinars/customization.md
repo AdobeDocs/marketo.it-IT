@@ -141,4 +141,4 @@ Seleziona **Applica** per salvare le modifiche o **Ripristina impostazioni prede
 
 * Gli host possono scegliere i temi durante la creazione della room o aggiornarli in un secondo momento dalla pagina delle informazioni sulla room (**Barra superiore della room** > **Altro menu** > **Visualizza informazioni sulla room**).
 
-Ulteriori informazioni su [Temi](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Ulteriori informazioni su [Temi](https://helpx.adobe.com/it/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
