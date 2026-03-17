@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147053
-description: Interrompere una campagna avanzata - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come interrompere una campagna avanzata. Arrestare una campagna batch in esecuzione e impedire l’accesso di altre persone.
 title: Interrompere una campagna avanzata
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 6%
+source-wordcount: '147'
+ht-degree: 8%
 
 ---
 

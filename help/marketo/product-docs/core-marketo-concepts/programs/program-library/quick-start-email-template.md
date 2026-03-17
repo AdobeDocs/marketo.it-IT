@@ -1,11 +1,11 @@
 ---
-description: Modello e-mail per guida rapida - Documentazione di Marketo - Documentazione del prodotto
+description: Modello e-mail di avvio rapido. Puoi utilizzarlo per creare rapidamente le e-mail da un modello predefinito.
 title: Modello di e-mail per avvio rapido
 feature: Programs
 exl-id: 4ad2063e-11c4-4926-8438-5b38af0fbc8d
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '565'
+source-wordcount: '571'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ L’editor e-mail di Marketo Engage è dotato di funzioni che consentono di modi
 
 * **Variabili**: quando è selezionato un modulo, le variabili vengono visualizzate sul lato destro dell&#39;editor. Questi possono essere utilizzati per regolare gli attributi del modulo che non sono facilmente modificabili tramite elementi di immagine o testo.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo moduli {#modules-summary}
 

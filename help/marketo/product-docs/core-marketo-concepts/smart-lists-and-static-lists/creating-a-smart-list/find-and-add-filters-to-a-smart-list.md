@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557273
-description: Trovare e aggiungere filtri a un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come trovare e aggiungere filtri a un elenco avanzato. Sfoglia e aggiungi filtri dalla struttura ad albero per creare la logica del tuo elenco.
 title: Trovare e aggiungere filtri a un elenco avanzato
 exl-id: de9afdc5-452e-47a4-99cf-ed7374bf114f
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 18%
 
 ---
@@ -21,7 +21,7 @@ In questo esempio, troviamo tutte le persone in California con un punteggio supe
 >
 >Esplora l’albero a destra: i filtri sono molto potenti e dispongono di un’ampia varietà di funzioni possibili.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/find-and-add-filters-to-a-smart-list-1.png)
 

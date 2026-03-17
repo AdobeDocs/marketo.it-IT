@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557316
-description: Definire i filtri per elenchi avanzati - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come definire i filtri per elenchi avanzati. Imposta i vincoli e i valori del filtro per determinare chi viene visualizzato nell’elenco.
 title: Definire i filtri dell’elenco avanzato
 exl-id: ab08c5be-0afa-46d5-9f29-99e1f6b99dea
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '189'
+ht-degree: 6%
 
 ---
 
@@ -22,7 +22,7 @@ Ora che hai [creato un elenco avanzato](/help/marketo/product-docs/core-marketo-
 
 Continuando il nostro esempio, definiamo questi filtri per trovare tutte le persone in California con un punteggio superiore a 50.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/define-smart-list-filters-1.png)
 

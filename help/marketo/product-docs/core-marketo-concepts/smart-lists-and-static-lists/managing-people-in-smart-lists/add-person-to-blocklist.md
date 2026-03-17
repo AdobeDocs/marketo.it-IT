@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438139
-description: Aggiunta di una persona al Inserisco nell'elenco Bloccati di - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere una persona al inserisco nell'elenco Bloccati di. Impedisci l’invio di e-mail a persone o domini specifici.
 title: Aggiungere persone all’elenco Bloccati
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 10%
+source-wordcount: '161'
+ht-degree: 9%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147078
-description: Modifica partizione persona - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come modificare la partizione di una persona in un passaggio del flusso. Spostare le persone tra aree di lavoro o partizioni.
 title: Modificare partizione persone
 exl-id: 7b2e0de0-2b49-4f7c-b4d5-47e1a16eb98d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 12%
+source-wordcount: '58'
+ht-degree: 10%
 
 ---
 

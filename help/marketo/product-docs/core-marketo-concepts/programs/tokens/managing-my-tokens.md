@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147116
-description: Gestione dei token - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire i miei token in un programma. Crea e utilizza i token per personalizzare il contenuto del programma e le e-mail.
 title: Gestire I miei token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 4%
+source-wordcount: '209'
+ht-degree: 5%
 
 ---
 

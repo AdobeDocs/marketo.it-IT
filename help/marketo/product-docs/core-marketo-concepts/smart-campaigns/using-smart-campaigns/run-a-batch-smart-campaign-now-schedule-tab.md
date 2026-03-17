@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146933
-description: Eseguire subito una campagna batch intelligente | Scheda Pianificazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eseguire subito una campagna batch avanzata dalla scheda Pianificazione. Esegui la campagna immediatamente anziché pianificare.
 title: Eseguire ora una campagna avanzata batch | Scheda di pianificazione
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 16%
+source-wordcount: '105'
+ht-degree: 15%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147112
-description: Informazioni sui tag - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i tag per organizzare e filtrare i programmi. Utilizza i tag per categorizzare i programmi e filtrare i rapporti.
 title: Informazioni sui tag
 exl-id: af74aec2-096f-489f-adf8-388da3867fae
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '176'
 ht-degree: 4%
 
 ---

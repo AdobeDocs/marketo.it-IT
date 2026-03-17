@@ -1,11 +1,11 @@
 ---
-description: Richieste di accesso a dati personali - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire le richieste di accesso ed eliminazione di dati personali in Marketo. Invia le richieste tramite l’interfaccia utente o l’API di Privacy Service ed elabora i dati dei consumatori.
 title: Richieste sulla privacy
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 245e8b2b25a7c51e8e46ace31e189a6132a9ada7
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '335'
-ht-degree: 16%
+source-wordcount: '353'
+ht-degree: 15%
 
 ---
 

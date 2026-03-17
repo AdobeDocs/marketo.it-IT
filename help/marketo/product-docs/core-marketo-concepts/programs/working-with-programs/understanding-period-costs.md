@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504676
-description: Informazioni sui costi dei periodi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i costi del periodo nei programmi per il tracciamento della spesa. Assegnare i costi ai periodi del programma per la generazione di rapporti e il ROI.
 title: Informazioni sui costi del periodo
 exl-id: 99f50eaf-28cf-4a8b-8ebd-89a4beef986a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 2%
+source-wordcount: '282'
+ht-degree: 3%
 
 ---
 
@@ -29,7 +29,7 @@ I costi del periodo si riferiscono al denaro speso in un mese specifico per un p
 >
 >[Informazioni sui programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)
 >
->[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
+>[Informazioni sull’iscrizione a un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md)
 
 ## Modalità di calcolo dei costi del periodo {#how-period-costs-are-calculated}
 

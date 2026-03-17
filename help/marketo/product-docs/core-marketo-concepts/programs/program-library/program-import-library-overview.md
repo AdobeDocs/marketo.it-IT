@@ -1,12 +1,12 @@
 ---
-description: Panoramica della libreria di importazione del programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la Libreria di importazione programmi e i programmi modello. Utilizza i modelli per creare programmi rapidamente in base alle best practice.
 title: Panoramica sulla libreria di importazione del programma
 feature: Programs
 exl-id: 1e754eed-b5e7-419f-a786-2bc9cbd1d21f
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 5%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 6%
 
 La Libreria di riferimento di Marketo Engage include diversi programmi iniziali che è possibile importare direttamente nell’istanza di Marketo per avviare la creazione di programmi utili per il supporto del team.
 
-La libreria include programmi quali: e-mail, coinvolgimento, evento, punteggio, recapito messaggi e dati operativi. Tutti i programmi sono stati sviluppati dal team di prodotto Adobe e analizzati dal nostro team di [servizi professionali globali](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"} nel tentativo di massimizzare la qualità e l&#39;efficacia.
+La libreria include programmi quali: e-mail, coinvolgimento, evento, punteggio, recapito messaggi e dati operativi. Tutti i programmi sono stati sviluppati dal team di prodotto Adobe e analizzati dal nostro team di [servizi professionali globali](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"} nel tentativo di massimizzare la qualità e l&#39;efficacia.
 
 ## Esempi di programmi disponibili {#available-program-examples}
 

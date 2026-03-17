@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783563
-description: Anteprima di un’e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come visualizzare in anteprima un’e-mail in Marketo Moments. Visualizza l’aspetto dell’e-mail prima di inviarla dall’app mobile.
 title: Anteprima di un’e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 6%
+source-wordcount: '138'
+ht-degree: 5%
 
 ---
 

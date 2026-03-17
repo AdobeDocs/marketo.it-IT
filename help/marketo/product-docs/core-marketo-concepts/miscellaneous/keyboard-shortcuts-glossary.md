@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147318
-description: Glossario delle scelte rapide da tastiera - Documentazione di Marketo - Documentazione del prodotto
+description: Ottieni aiuto sulle scelte rapide da tastiera di Marketo per la navigazione ad area, il calendario e altro ancora. Utilizza le scelte rapide per spostarti più rapidamente in Marketo Engage.
 title: Glossario delle scelte rapide da tastiera
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 17%
+source-wordcount: '127'
+ht-degree: 15%
 
 ---
 

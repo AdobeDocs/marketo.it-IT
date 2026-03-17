@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783561
-description: Invio di un esempio - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come inviare un’e-mail di esempio da Marketo Moments. Verifica l’e-mail inviando un campione a te stesso dall’app.
 title: Inviare un esempio
 exl-id: 9b4cdb6b-9969-4427-9ae3-f6d08430f10f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 6%
+source-wordcount: '140'
+ht-degree: 5%
 
 ---
 

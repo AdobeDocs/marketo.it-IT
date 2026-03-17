@@ -1,12 +1,12 @@
 ---
-description: Scadenza risorse locali - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la scadenza delle risorse locali nei programmi. Impostato quando le risorse locali di un programma scadono e vengono rimosse.
 title: Scadenza risorsa locale
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 4%
+source-wordcount: '250'
+ht-degree: 6%
 
 ---
 

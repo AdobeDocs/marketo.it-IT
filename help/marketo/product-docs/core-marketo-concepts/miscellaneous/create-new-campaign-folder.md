@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953207
-description: Creare una nuova cartella di campagne - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare una nuova cartella di campagne in Attività di marketing. Organizza l’area di lavoro con le cartelle delle campagne per l’automazione e le risorse.
 title: Creare una nuova cartella campagna
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 9%
+source-wordcount: '114'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Segui questi semplici passaggi e stai andando verso la magia dell’automazione.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -46,5 +46,5 @@ Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Se
 
 >[!MORELIKETHIS]
 >
->* [Crea un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
->* [Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)
+>* [Creare un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Creare una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md)

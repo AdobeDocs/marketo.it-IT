@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557329
-description: Esportare persone in Excel da un elenco o da un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come esportare le persone in Excel da un elenco o da un elenco avanzato. Scarica le persone nell’elenco per i rapporti.
 title: Esportare persone in Excel da un elenco o da un elenco avanzato
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 14%
+source-wordcount: '174'
+ht-degree: 15%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 Se hai bisogno di un elenco o di risultati di elenchi avanzati al di fuori di Marketo, puoi facilmente esportarli in Excel. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

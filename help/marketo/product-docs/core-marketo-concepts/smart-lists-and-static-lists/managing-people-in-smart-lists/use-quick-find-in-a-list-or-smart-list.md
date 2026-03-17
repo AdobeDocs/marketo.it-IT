@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557326
-description: Utilizzare la Ricerca rapida in un elenco o in un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare la Ricerca rapida in un elenco o in un elenco avanzato. Cerca una persona specifica per nome o e-mail nell’elenco.
 title: Utilizzare la ricerca rapida in un elenco o in un elenco avanzato
 exl-id: c8ec3d13-0432-400a-acd8-13df709bc29e
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '145'
 ht-degree: 13%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Trova una persona dai risultati di un elenco o di un elenco avanzato utilizzando la ricerca rapida.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

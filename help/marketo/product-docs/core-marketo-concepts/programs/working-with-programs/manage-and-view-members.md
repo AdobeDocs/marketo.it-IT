@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147122
-description: Gestire e visualizzare i membri - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire e visualizzare i membri del programma. Consente di vedere chi è incluso nel programma e gestire lo stato e i dati dei membri.
 title: Gestire e visualizzare i membri
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '250'
 ht-degree: 5%
 
 ---

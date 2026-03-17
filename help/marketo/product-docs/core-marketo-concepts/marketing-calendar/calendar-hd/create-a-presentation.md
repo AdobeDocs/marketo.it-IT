@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7503971
-description: Creazione di una presentazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare una presentazione di calendario di marketing per le visualizzazioni di progetto su una HDTV. Imposta le presentazioni specifiche per l'area di lavoro del tuo team.
 title: Creare una presentazione
 exl-id: 3a591c03-2604-44be-b335-2258151beaeb
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 7%
 
 ---
 

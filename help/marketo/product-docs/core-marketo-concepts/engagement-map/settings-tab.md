@@ -1,10 +1,10 @@
 ---
-description: Scheda Impostazioni - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la scheda Impostazioni per le regole di qualifica, le esecuzioni e la ricorrenza di Smart Campaign. Imposta la frequenza con cui le persone eseguono il flusso della campagna.
 title: Scheda Impostazioni
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---

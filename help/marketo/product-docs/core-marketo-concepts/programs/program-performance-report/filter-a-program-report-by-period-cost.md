@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147237
-description: Filtrare un rapporto sul programma in base al costo del periodo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come filtrare un rapporto di programma per costo periodo. Visualizzare le prestazioni del programma per specifici periodi di costo.
 title: Filtrare un rapporto del programma per costo del periodo
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 

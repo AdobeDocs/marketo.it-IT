@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146976
-description: Utilizzare una data specifica in un passaggio del flusso di attesa - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare una data specifica in un passaggio del flusso di attesa. Metti in pausa il flusso fino a una data e un’ora fisse.
 title: Utilizzare una data specifica in un passaggio di flusso di attesa
 exl-id: d6ef26a4-8c9a-4f40-9e80-dcb3921a427f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 18%
+source-wordcount: '108'
+ht-degree: 16%
 
 ---
 

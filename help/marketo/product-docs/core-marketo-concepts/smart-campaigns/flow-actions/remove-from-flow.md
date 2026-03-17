@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147084
-description: Rimuovi dal flusso - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come rimuovere le persone dal flusso con il passaggio Rimuovi da flusso. Interrompi ulteriore elaborazione per le persone selezionate.
 title: Rimuovere dal flusso
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 4%
+source-wordcount: '154'
+ht-degree: 3%
 
 ---
 

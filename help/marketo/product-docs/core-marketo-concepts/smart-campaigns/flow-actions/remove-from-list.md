@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146954
-description: Rimuovi dall’elenco - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come rimuovere le persone da un elenco con un passaggio di flusso. Utilizzalo per mantenere gli elenchi sincronizzati con il comportamento o lo stato.
 title: Rimuovi dall’elenco
 exl-id: ec837329-f904-47ea-b276-a0f7becdcc75
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 12%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

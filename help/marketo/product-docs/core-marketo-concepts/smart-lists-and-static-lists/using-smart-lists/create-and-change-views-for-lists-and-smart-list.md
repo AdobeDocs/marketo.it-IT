@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557337
-description: Creazione e modifica di visualizzazioni per elenchi e elenchi avanzati - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare e modificare le visualizzazioni per elenchi ed elenchi avanzati. Personalizzare le colonne visualizzate nella scheda Persone.
 title: Creare e modificare le viste per elenchi ed elenchi avanzati
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '218'
 ht-degree: 9%
 
 ---

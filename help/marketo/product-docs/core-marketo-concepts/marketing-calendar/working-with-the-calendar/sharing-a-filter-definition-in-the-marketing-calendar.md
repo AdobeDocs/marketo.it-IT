@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147304
-description: Condivisione di una definizione di filtro nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
+description: Scopri come condividere una definizione di filtro nel calendario di marketing con altri utenti. Copia l’URL del filtro da condividere con il team.
 title: Condividere una definizione di filtro nel calendario marketing
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '118'
+ht-degree: 13%
 
 ---
 

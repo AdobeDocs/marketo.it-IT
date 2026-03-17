@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146940
-description: Definire un elenco avanzato per Smart Campaign | Batch - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come definire l’elenco avanzato per una campagna avanzata in batch. Scegli chi entra nella campagna con i filtri.
 title: Definire un elenco avanzato per campagna avanzata | batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '273'
-ht-degree: 5%
+source-wordcount: '281'
+ht-degree: 4%
 
 ---
 

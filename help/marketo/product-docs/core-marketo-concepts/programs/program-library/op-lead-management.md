@@ -1,11 +1,11 @@
 ---
-description: Gestione dei lead operativi - Documentazione di Marketo - Documentazione del prodotto
+description: Modello di programma operativo Gestione lead. Utilizzalo per gestire il ciclo di vita e il punteggio del lead.
 title: OP-Gestione lead
 feature: Programs
 exl-id: bde644fe-d40b-4c9c-925d-a0f522e6de01
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '272'
 ht-degree: 7%
 
 ---
@@ -18,7 +18,7 @@ Questo è un esempio di flussi di lavoro basati sulle best practice per la gesti
 >
 >In Marketo Engage, i record del database sono denominati persone. La gestione dei lead in questo esempio fa riferimento ai record nel CRM.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html).
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html).
 
 ## Riepilogo canale {#channel-summary}
 

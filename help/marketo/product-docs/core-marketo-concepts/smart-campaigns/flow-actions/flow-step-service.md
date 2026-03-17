@@ -1,11 +1,11 @@
 ---
-description: Servizio Flusso - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il Servizio passaggio flusso per i passaggi di flusso personalizzati. Estendere le campagne intelligenti con azioni personalizzate tramite API.
 title: Servizio passaggio di flusso
 exl-id: 81367562-8b27-4ec5-8a9b-b02083a2e999
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1235'
 ht-degree: 0%
 
 ---

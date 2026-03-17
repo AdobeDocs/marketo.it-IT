@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953173
-description: Utilizzare i membri dell’elenco in un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i membri dell’elenco in un filtro Elenco avanzato. Includi o escludi le persone che si trovano in un altro elenco.
 title: Utilizzare i membri dell’elenco in un elenco avanzato
 exl-id: ebd458c1-01f4-4d19-b5b2-d19ab2bad1af
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 13%
+source-wordcount: '141'
+ht-degree: 12%
 
 ---
 

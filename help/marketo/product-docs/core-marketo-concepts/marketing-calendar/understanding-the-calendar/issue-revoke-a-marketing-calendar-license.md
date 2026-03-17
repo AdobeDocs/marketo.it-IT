@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147255
-description: Rilasciare/revocare una licenza di Marketing Calendar (Calendario di marketing) - Documenti Marketo - Documentazione del prodotto
+description: Scopri come rilasciare o revocare una licenza di Marketing Calendar per gli utenti di. Concedere o rimuovere l'accesso al calendario.
 title: Rilasciare/revocare una licenza del calendario marketing
 exl-id: b43cf0e4-3e3e-4034-8ecf-bda34557cfef
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 16%
+source-wordcount: '100'
+ht-degree: 18%
 
 ---
 

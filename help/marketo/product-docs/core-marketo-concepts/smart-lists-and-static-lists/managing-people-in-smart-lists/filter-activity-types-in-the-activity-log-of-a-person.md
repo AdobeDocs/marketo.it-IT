@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2952402
-description: Filtrare i tipi di attività nel registro attività di una persona - Documenti Marketo - Documentazione del prodotto
+description: Scopri come filtrare i tipi di attività nel registro attività di una persona. Concentrati su attività specifiche quando visualizzi la cronologia.
 title: Filtrare i tipi di attività nel registro attività di una persona
 exl-id: c778aa9c-d985-43ab-9018-58f3e3fe8165
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 21%
+source-wordcount: '118'
+ht-degree: 23%
 
 ---
 
@@ -19,7 +19,7 @@ Cerca le attività che ti interessano di più nel registro delle attività.
 >
 >Ulteriori informazioni sul [registro attività](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.md){target="_blank"}.
 
-1. Passare alla pagina Dettagli persona. Fare clic sulla scheda **[!UICONTROL Activity Log]**.
+1. Passare alla pagina Dettagli persona. Fai clic sulla scheda **[!UICONTROL Activity Log]**.
 
    ![](assets/one.png)
 
@@ -53,6 +53,6 @@ I filtri salvati sono accessibili dal menu a discesa [!UICONTROL Filter].
 
    ![](assets/seven-1.png)
 
-1. Fare clic su **[!UICONTROL Saved Filters]**. I filtri salvati sono elencati di seguito.
+1. Fai clic su **[!UICONTROL Saved Filters]**. I filtri salvati sono elencati di seguito.
 
    ![](assets/eight.png)

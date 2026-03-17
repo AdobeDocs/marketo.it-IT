@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949413
-description: Aggiungere un vincolo a un filtro di elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un vincolo a un filtro di elenco avanzato. Affina i filtri con condizioni aggiuntive per ottenere elenchi più precisi.
 title: Aggiungere un vincolo a un filtro dell’elenco avanzato
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 9%
+source-wordcount: '170'
+ht-degree: 10%
 
 ---
 
@@ -22,7 +22,7 @@ In questo esempio, aggiungiamo alcuni vincoli a un filtro **[Valore dati modific
 >* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Utilizzare il filtro &quot;Valore dati modificato&quot; in un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/use-the-data-value-changed-filter-in-a-smart-list.md){target="_blank"}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-1.png)
 

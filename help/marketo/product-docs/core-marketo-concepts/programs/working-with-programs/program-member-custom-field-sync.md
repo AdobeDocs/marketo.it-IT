@@ -1,12 +1,12 @@
 ---
-description: Sincronizzazione campi personalizzati membro del programma - Documentazione Marketo - Documentazione del prodotto
+description: Informazioni sulla sincronizzazione dei campi personalizzati dei membri del programma con Salesforce. Mantieni i dati dei membri personalizzati sincronizzati con il tuo sistema CRM.
 title: Sincronizzazione campo personalizzato del membro del programma
 exl-id: 7facfc79-a411-4ad9-b847-2002763af5bb
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '331'
-ht-degree: 9%
+source-wordcount: '340'
+ht-degree: 10%
 
 ---
 

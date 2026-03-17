@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146997
-description: Utilizzare un token di data in un passaggio del flusso di attesa - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare un token di data in un passaggio del flusso di attesa. Prima di continuare, attendi fino a una data dinamica da un token.
 title: Utilizzare un token data in un passaggio di flusso di attesa
 exl-id: d161922b-ce90-4e65-9282-d3bb866c1d94
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 9%
+source-wordcount: '214'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147140
-description: Informazioni sulle date provvisorie/confermate - Documentazione Marketo - Documentazione del prodotto
+description: Scopri le date provvisorie e confermate nella Vista pianificazione del programma. Comprendere quando le voci sono bloccate e quando vengono eseguite.
 title: Informazioni sulle date provvisorie/confermate
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '218'
 ht-degree: 4%
 
 ---

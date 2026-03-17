@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949839
-description: Visitare la pagina dedicata all'evento dal Tablet PC - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come controllare le persone nel tuo evento da un tablet. Utilizza l’app Event Check-in per eseguire la scansione e il check-in dei partecipanti.
 title: Controllare le persone del tuo evento dal tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '828'
 ht-degree: 2%
 
 ---

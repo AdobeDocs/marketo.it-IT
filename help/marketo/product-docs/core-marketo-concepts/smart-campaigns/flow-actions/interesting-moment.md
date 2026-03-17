@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146956
-description: Momento di interesse - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un momento interessante in un passaggio di flusso. Registra le azioni chiave per la visibilità delle vendite nel CRM.
 title: Momento interessante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '108'
+ht-degree: 3%
 
 ---
 

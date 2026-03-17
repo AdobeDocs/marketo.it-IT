@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146897
-description: Eliminare persone in un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eliminare le persone da un elenco avanzato o statico. Rimuovere le persone dall'elenco o dal database.
 title: Eliminare persone in un elenco avanzato o in un elenco
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 6%
+source-wordcount: '279'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ Puoi eliminare in modo rapido e semplice alcuni/tutti gli utenti inclusi in un e
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md)
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma-1.png)
 
@@ -31,7 +31,7 @@ Puoi eliminare in modo rapido e semplice alcuni/tutti gli utenti inclusi in un e
    >
    >Quando elimini una persona, non solo la rimuovi dall’elenco, ma la rimuovi completamente dal database.
 
-1. Fare clic su **[!UICONTROL Select All]**. È inoltre possibile scegliere alcuni record utilizzando Ctrl/Comando e facendo clic su.
+1. Fai clic su **[!UICONTROL Select All]**. È inoltre possibile scegliere alcuni record utilizzando Ctrl/Comando e facendo clic su.
 
    ![](assets/three-1.png)
 

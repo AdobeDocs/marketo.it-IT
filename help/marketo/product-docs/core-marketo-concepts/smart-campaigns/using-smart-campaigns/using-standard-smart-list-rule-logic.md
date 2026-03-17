@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147001
-description: Utilizzo della logica standard per la regola dell’elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare la logica standard della regola di elenco avanzato in una campagna avanzata. Combina i filtri con la logica AND per la qualifica.
 title: Utilizzare la logica standard per le regole di elenchi avanzati
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 9%
+source-wordcount: '139'
+ht-degree: 8%
 
 ---
 

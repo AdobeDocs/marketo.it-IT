@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360496
-description: Aggiungere più valori a un filtro di elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere più valori a un filtro Elenco avanzato. Per garantire la flessibilità, fai corrispondere uno o più valori in un filtro.
 title: Aggiungere più valori a un filtro dell’elenco avanzato
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 12%
+source-wordcount: '135'
+ht-degree: 13%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 12%
 
 Supponiamo che tu voglia trovare tutti gli utenti in California, ma potresti archiviare sia &quot;California&quot; che &quot;CA&quot; nel tuo database. Per includere tutte le persone idonee, è possibile utilizzare due filtri [!UICONTROL State], ma è più semplice utilizzarne uno.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/add-multiple-values-to-a-smart-list-filter-1.png)
 

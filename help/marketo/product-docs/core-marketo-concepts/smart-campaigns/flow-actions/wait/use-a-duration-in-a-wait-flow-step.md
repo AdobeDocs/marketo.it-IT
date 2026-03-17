@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146978
-description: Utilizzare una durata in un passaggio del flusso di attesa - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare una durata in un passaggio del flusso di attesa. Sospendi il flusso per un numero impostato di giorni prima dell’azione successiva.
 title: Utilizzare una durata in un passaggio di flusso di attesa
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '214'
 ht-degree: 9%
 
 ---

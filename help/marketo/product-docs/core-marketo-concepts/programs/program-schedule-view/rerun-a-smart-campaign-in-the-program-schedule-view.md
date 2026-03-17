@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953331
-description: Eseguire nuovamente una campagna avanzata nella visualizzazione Pianificazione programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eseguire nuovamente una campagna intelligente dalla vista Pianificazione programma. Esegui nuovamente una campagna batch su richiesta.
 title: Eseguire nuovamente una campagna avanzata nella vista Pianificazione del programma
 exl-id: 59ef61f5-cd7d-440e-afcf-54a79d1225ae
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 13%
+source-wordcount: '139'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 13%
 
 Puoi creare facilmente nuove esecuzioni di una campagna avanzata esistente direttamente dalla vista pianificazione del programma.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 

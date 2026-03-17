@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147042
-description: Aggiungere dati a un campo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere dati a un campo in un passaggio di flusso. Aggiungere testo ai valori dei campi esistenti senza sovrascriverli.
 title: Aggiungere dati a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '116'
+ht-degree: 12%
 
 ---
 

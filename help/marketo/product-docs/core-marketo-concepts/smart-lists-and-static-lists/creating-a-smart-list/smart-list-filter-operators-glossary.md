@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557312
-description: Glossario degli operatori di filtri per elenchi avanzati - Documentazione di Marketo - Documentazione del prodotto
+description: Ottenere informazioni sugli operatori di filtro elenchi smart. Scopri gli operatori è uguale a, contiene e altri per la creazione dei filtri.
 title: Glossario operatori di filtro dell’elenco avanzato
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '610'
 ht-degree: 15%
 
 ---

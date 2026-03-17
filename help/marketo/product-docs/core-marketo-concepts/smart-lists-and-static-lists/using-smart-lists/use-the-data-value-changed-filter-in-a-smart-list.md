@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557324
-description: Utilizzare il filtro Data Value Changed in uno Smart List - Marketo Docs - Documentazione del prodotto
+description: Scopri come utilizzare il filtro Data Value Changed in un elenco avanzato. Trova le persone quando il valore di un campo viene modificato.
 title: Utilizzare il filtro Valore dati modificato in un elenco avanzato
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 18%
+source-wordcount: '145'
+ht-degree: 17%
 
 ---
 

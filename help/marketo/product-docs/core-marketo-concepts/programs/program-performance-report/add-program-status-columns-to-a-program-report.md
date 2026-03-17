@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147239
-description: Aggiungere colonne di stato del programma a un rapporto sul programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere colonne di stato del programma a un rapporto del programma. Includere lo stato del membro nelle colonne del report.
 title: Aggiungere colonne di stato del programma a un rapporto del programma
 exl-id: ab8e5be7-7ea6-4b69-b701-0c81ea556107
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 13%
+source-wordcount: '133'
+ht-degree: 12%
 
 ---
 

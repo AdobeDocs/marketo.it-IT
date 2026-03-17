@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6848705
-description: 'Best practice: come organizzare i programmi - Documentazione di Marketo - Documentazione del prodotto'
+description: Ottieni aiuto sulle best practice per organizzare i programmi. Strutturare le cartelle e i programmi delle campagne per maggiore chiarezza e scalabilità.
 title: 'Best practice: come organizzare i programmi'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '854'
 ht-degree: 3%
 
 ---
@@ -121,4 +121,4 @@ Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle
 
 ## Riepilogo {#summary}
 
-Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma prendi in considerazione ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarti per il successo.
+Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma prendi in considerazione ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarti per il successo.

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147257
-description: Navigazione nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
+description: Scopri come navigare nel calendario di marketing, incluse le modalità a 3 settimane e mesi. Cambia visualizzazione e utilizza l’agenda per visualizzare le risorse pianificate.
 title: Navigazione nel calendario marketing
 exl-id: 0a70def5-d98e-4efd-ac3a-36c52c1cbc45
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '182'
 ht-degree: 6%
 
 ---

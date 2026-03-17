@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147150
-description: Utilizzare i tag in un programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i tag in un programma. Aggiungi i tag per organizzare i programmi e abilitare il filtro nel calendario e nei rapporti.
 title: Utilizzare i tag in un programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '156'
-ht-degree: 10%
+source-wordcount: '168'
+ht-degree: 16%
 
 ---
 

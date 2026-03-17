@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953362
-description: Conferma le voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
+description: Scopri come confermare le voci provvisorie di Smart Campaign e del programma e-mail nel calendario di marketing. Esegui la convalida e conferma per l’esecuzione delle campagne.
 title: Confermare le voci direttamente nel calendario marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 17%
 
 ---
 

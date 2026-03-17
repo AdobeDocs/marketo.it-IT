@@ -1,14 +1,14 @@
 ---
-description: Azioni flusso singolo dalla pagina dei dettagli della persona - Documenti Marketo - Documentazione del prodotto
+description: Scopri come eseguire una singola azione di flusso dalla pagina dei dettagli della persona. Esegui un passaggio di flusso per una persona su richiesta.
 title: Azioni flusso singolo da pagina Dettagli persona
 hide: true
 hidefromtoc: true
 exl-id: 3eeb7724-a502-4ea5-a57b-29d03133402f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '127'
+ht-degree: 11%
 
 ---
 

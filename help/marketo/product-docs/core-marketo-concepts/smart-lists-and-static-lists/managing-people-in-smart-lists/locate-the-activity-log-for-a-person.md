@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472404
-description: Individuare il registro attività per una persona - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come individuare il registro attività di una persona. Visualizzare la cronologia di e-mail, web e altre attività di un lead.
 title: Individuare il registro attività di una persona
 exl-id: c4018711-e68d-4684-ac3d-a5e10b138a86
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 15%
+source-wordcount: '131'
+ht-degree: 14%
 
 ---
 

@@ -1,20 +1,20 @@
 ---
-description: Panoramica del check-in degli eventi
-title: Panoramica del check-in degli eventi
+description: Scopri come effettuare il check-in degli eventi per consegnare i clienti da un tablet. Utilizza l’app Check-in per gestire la registrazione degli eventi.
+title: Panoramica sulla registrazione degli eventi
 exl-id: aae09cd8-5f8f-48c7-9d26-63c8345445d0
 feature: Mobile Marketing
-source-git-commit: 0abb315be0f9cb5f42fa41d72b446de8c2f62c1e
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 0%
+source-wordcount: '288'
+ht-degree: 4%
 
 ---
 
-# Panoramica del check-in degli eventi {#event-check-in-overview}
+# Panoramica sulla registrazione degli eventi {#event-check-in-overview}
 
 >[!IMPORTANT]
 >
->Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Events da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza di Marketo Engage a Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
+>Il 2 ottobre 2023 Adobe ha rimosso l’app Marketo Events da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
 L&#39;app Marketo Events per il tablet [!DNL iPad] o [!DNL Android] semplifica il check-in delle persone subito dopo l&#39;arrivo all&#39;evento.
 
@@ -24,7 +24,7 @@ Alcune attività si verificano prima dell’evento, ad esempio la creazione di u
 
 Buon evento!
 
-## Preparati per l’evento
+## Prepararti per l’evento
 
 Prima dell’evento:
 

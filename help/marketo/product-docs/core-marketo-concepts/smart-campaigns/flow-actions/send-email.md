@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146948
-description: Inviare e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come inviare un’e-mail in un passaggio di flusso di Smart Campaign. Aggiungi l’azione Invia e-mail al flusso della campagna.
 title: Invia e-mail
 exl-id: dc8e25c7-7578-4916-bca9-2d4bdffd3c6a
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 4%
+source-wordcount: '104'
+ht-degree: 3%
 
 ---
 

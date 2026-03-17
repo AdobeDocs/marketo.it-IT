@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147126
-description: Utilizzo della scheda Home del programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare la scheda Home del programma. Visualizza la panoramica del programma, le prestazioni e i dettagli chiave in un'unica posizione.
 title: Utilizzare la scheda Home del programma
 exl-id: 04c36190-d853-4900-b566-973d08316e37
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 8%
+source-wordcount: '153'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
 ## Visualizzazione Riepilogo {#summary-view}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 
@@ -71,4 +71,4 @@ La scheda Home del programma offre una panoramica generale di ciò che accade ne
 
    >[!MORELIKETHIS]
    >
-   >[Informazioni sull&#39;iscrizione al programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}
+   >[Informazioni sull’iscrizione a un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md){target="_blank"}

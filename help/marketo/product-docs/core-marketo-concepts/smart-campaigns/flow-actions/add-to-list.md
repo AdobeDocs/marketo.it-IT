@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146952
-description: Aggiungi all’elenco - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere persone a un elenco con il passaggio del flusso Aggiungi all’elenco. Utilizzala per creare elenchi dalle azioni della campagna.
 title: Aggiungi all’elenco
 exl-id: 30673b95-4eed-4aa5-bca2-5ed5350d28a7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 16%
+source-wordcount: '51'
+ht-degree: 11%
 
 ---
 
@@ -20,5 +20,3 @@ Questo passaggio di flusso viene utilizzato per aggiungere persone agli elenchi.
 Individuare e selezionare l&#39;elenco a cui si desidera aggiungere le persone.
 
 ![](assets/add-to-list-2.png)
-
-Abbastanza semplice!

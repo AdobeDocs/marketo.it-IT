@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783555
-description: Creazione di un preferito - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un preferito in Marketo Moments. Aggiungi elementi importanti per un accesso rapido nell’app mobile.
 title: Creare un preferito
 exl-id: 017ae477-02e2-42de-a1b0-1f9a215ef73b
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 8%
+source-wordcount: '103'
+ht-degree: 7%
 
 ---
 

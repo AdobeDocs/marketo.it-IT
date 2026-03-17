@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720377
-description: Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro. Utilizza un elenco da un’area di lavoro in un’altra con riferimento a.
 title: Fare riferimento a un elenco o a un elenco avanzato in più aree di lavoro
 exl-id: c390685c-e51d-4298-ba3b-8e4dd27eb85c
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 

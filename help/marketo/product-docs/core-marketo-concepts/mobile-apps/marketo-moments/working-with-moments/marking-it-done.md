@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783557
-description: Contrassegno completato - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come contrassegnare un momento come completato nell’app Marketo Moments. Al termine, cancella gli elementi dall'elenco.
 title: Contrassegno completato
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 6%
+source-wordcount: '146'
+ht-degree: 5%
 
 ---
 

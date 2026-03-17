@@ -1,12 +1,12 @@
 ---
-description: WR-YYYY-MM-Web Request Program - Documentazione di Marketo - Documentazione del prodotto
+description: Modello di programma per richieste Web. Utilizzala per l’invio di contenuti e moduli Gated.
 title: Programma di richiesta web WR-MM-AAAA
 feature: Programs
 exl-id: 4acaa2d0-3329-4027-acbd-ae2e0ec6f7c5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 8%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 Questo è un programma di esempio ideale per i moduli di richiesta di contatto, richiesta di preventivo, richiesta demo o richiesta di prova che utilizzano un programma predefinito di Marketo Engage. Può essere utilizzato con le pagine di destinazione di Marketo o come modulo incorporato in pagine di destinazione non Marketo. All’invio del modulo, viene inviato un messaggio e-mail di avviso a una persona specificata.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 

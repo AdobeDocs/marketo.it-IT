@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146966
-description: Visualizzare persone qualificate in una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare le persone qualificate in una campagna avanzata. Scopri chi soddisfa i criteri dell’elenco avanzato o del trigger.
 title: Visualizzare le persone qualificate in una campagna avanzata
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '171'
 ht-degree: 8%
 
 ---

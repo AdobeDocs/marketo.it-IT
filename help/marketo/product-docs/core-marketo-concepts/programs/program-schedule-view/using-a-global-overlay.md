@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147249
-description: Utilizzo di una sovrapposizione globale - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare una sovrapposizione globale nella Vista pianificazione del programma. Applica una sovrapposizione tra i programmi per una visualizzazione coerente.
 title: Utilizzare una sovrapposizione globale
 exl-id: b4e69f20-f1a7-43c4-92f7-e8802b4ce322
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '157'
 ht-degree: 5%
 
 ---

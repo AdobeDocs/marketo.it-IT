@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953364
-description: Comprendere/abilitare il focus sul programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri in che modo lo stato attivo sul programma consente di interagire con le voci del calendario di marketing. Attiva un programma per creare, modificare, eliminare o confermare le voci.
 title: Comprendere/abilitare l’oggetto del programma
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 5%
+source-wordcount: '163'
+ht-degree: 4%
 
 ---
 

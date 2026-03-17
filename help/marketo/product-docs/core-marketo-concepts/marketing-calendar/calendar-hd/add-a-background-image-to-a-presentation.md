@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504437
-description: Aggiungere un’immagine di sfondo a una presentazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un’immagine di sfondo a una presentazione con calendario di marketing. Personalizzare la presentazione selezionando un'immagine dalla libreria.
 title: Aggiungere un’immagine di sfondo a una presentazione
 exl-id: 3ca33701-0f94-448a-8ecc-45d0b2bfb38e
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 15%
+source-wordcount: '103'
+ht-degree: 13%
 
 ---
 

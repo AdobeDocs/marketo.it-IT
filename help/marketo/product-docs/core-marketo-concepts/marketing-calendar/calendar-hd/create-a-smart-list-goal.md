@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504128
-description: Creazione di un obiettivo di elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un obiettivo di elenco avanzato nel calendario di marketing. Monitora l’avanzamento con gli obiettivi che vengono aggiornati automaticamente ogni 2 ore nelle presentazioni.
 title: Creare un obiettivo di elenco avanzato
 exl-id: 3b6690b5-7dd1-46b2-b3f2-254439623f91
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 8%
+source-wordcount: '149'
+ht-degree: 10%
 
 ---
 
@@ -25,7 +25,7 @@ Analogamente alle presentazioni, gli obiettivi sono specifici di [workspace](/he
 
    ![](assets/image2015-3-24-12-3a2-3a55.png)
 
-1. Selezionare la scheda **[!UICONTROL Goals]**.
+1. Seleziona la scheda **[!UICONTROL Goals]**.
 
    ![](assets/image2015-3-26-12-3a25-3a17.png)
 

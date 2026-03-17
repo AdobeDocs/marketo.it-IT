@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557331
-description: Trovare tutte le persone in una fase del ricavo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come trovare tutte le persone in una fase di ricavi. Utilizza il filtro della fase ricavi per creare un elenco o un segmento.
 title: Trovare tutte le persone in una fase del ricavo
 exl-id: aa5b30bf-96f1-4c1f-8170-86ba808e9705
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '147'
+ht-degree: 9%
 
 ---
 

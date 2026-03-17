@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146942
-description: Definire un elenco avanzato per Smart Campaign | Trigger - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come definire l’elenco avanzato per un trigger di Smart Campaign. Imposta i filtri che qualificano le persone per il trigger.
 title: Definire un elenco avanzato per campagna avanzata | trigger
 exl-id: 14d9b15e-864a-47ef-8f39-3d65e6036a82
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: '260'
 ht-degree: 5%
 
 ---

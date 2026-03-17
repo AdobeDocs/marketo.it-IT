@@ -1,11 +1,11 @@
 ---
 unique-page-id: 11386358
-description: Sandbox Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la sandbox Marketo Engage da testare prima della produzione. Utilizza un’istanza sandbox per eseguire il test senza influire sulla produzione.
 title: Sandbox Marketo
 exl-id: c040fac6-2290-4de5-b27d-2c7cb28f6e30
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -33,7 +33,7 @@ Non è possibile sincronizzare una sandbox di Marketo con il CRM regolare se è 
 
 ## Copia istanza {#instance-copy}
 
-Puoi inviare un caso di supporto richiedendo una copia dell’istanza una tantum per riempire la sandbox. La copia dell&#39;istanza non riporterà _tutto_. Per ulteriori informazioni, consultare [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+Puoi inviare un caso di supporto richiedendo una copia dell’istanza una tantum per riempire la sandbox. La copia dell&#39;istanza non riporterà _tutto_. Per ulteriori informazioni, consultare [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147144
-description: Creazione di un nuovo programma e-mail nella vista Pianificazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare un nuovo programma e-mail dalla Vista pianificazione del programma. Aggiungi una voce del programma e-mail e configurala.
 title: Creazione di un nuovo programma e-mail nella vista Pianificazione
 exl-id: a052d6a8-d745-4017-a22a-a7019c8432ce
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 18%
+source-wordcount: '119'
+ht-degree: 19%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 18%
 
 Puoi creare un programma e-mail dalla vista pianificazione del programma. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355569
-description: Campi personalizzati dei membri del programma - Documentazione di Marketo - Documentazione del prodotto
+description: Informazioni sui campi personalizzati dei membri del programma. Memorizza e utilizza dati personalizzati per ogni persona in un programma.
 title: Campi personalizzati del membro del programma
 exl-id: 66b5dac6-015f-4907-8c82-78c932102463
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '412'
 ht-degree: 4%
 
 ---

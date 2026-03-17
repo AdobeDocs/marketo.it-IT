@@ -1,10 +1,10 @@
 ---
-description: Gestione della privacy - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri gli strumenti di gestione della privacy in Marketo Engage per RGPD, CCPA e altro ancora. Gestire le richieste di accesso ed eliminazione in conformità alle normative.
 title: Gestione della privacy
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '393'
 ht-degree: 1%
 
 ---

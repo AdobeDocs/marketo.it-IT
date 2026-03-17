@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147013
-description: Cadenza del programma di modifica del coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare la cadenza del programma di coinvolgimento in un passaggio di flusso. Regola la frequenza con cui le persone ricevono le e-mail in un flusso.
 title: Modificare la cadenza del programma di coinvolgimento
 exl-id: ce087a0d-43e1-467c-b7f0-3df072048f0e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 8%
+source-wordcount: '109'
+ht-degree: 7%
 
 ---
 

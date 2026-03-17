@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557322
-description: Eseguire un singolo passaggio di flusso da un elenco avanzato - Documenti Marketo - Documentazione del prodotto
+description: Scopri come eseguire un singolo passaggio di flusso da un elenco avanzato. Esegui un'azione di flusso per le persone selezionate dall'elenco.
 title: Eseguire un passaggio di flusso singolo da un elenco avanzato
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 9%
+source-wordcount: '228'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 >
 >[Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-1.png)
 
@@ -31,7 +31,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
    >
    >Questa funzionalità è disponibile sia per gli elenchi statici che per gli elenchi avanzati.
 
-1. Fare clic su **[!UICONTROL Select All]**. È inoltre possibile utilizzare **Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
+1. Fai clic su **[!UICONTROL Select All]**. È inoltre possibile utilizzare **Ctrl/Comando** e fare clic per selezionare alcuni record manualmente.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-3.png)
 

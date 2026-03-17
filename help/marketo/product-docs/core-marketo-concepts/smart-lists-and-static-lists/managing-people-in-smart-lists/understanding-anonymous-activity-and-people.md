@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147322
-description: Informazioni su attività e persone anonime - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le attività e le persone anonime in Marketo. Scopri come vengono tracciati i visitatori anonimi prima della conversione.
 title: Informazioni su persone e a ttività anonime
 exl-id: 1676e8f3-9138-42ed-8bb4-40e195391fc4
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '270'
 ht-degree: 3%
 
 ---

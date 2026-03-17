@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093348
-description: Informazioni sulle schede per campagne intelligenti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le schede Smart Campaign in Marketo Moments. Visualizza lo stato della campagna ed esegui i passaggi del flusso dall’app mobile.
 title: Informazioni sulle schede delle campagne avanzate
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 2%
+source-wordcount: '560'
+ht-degree: 1%
 
 ---
 

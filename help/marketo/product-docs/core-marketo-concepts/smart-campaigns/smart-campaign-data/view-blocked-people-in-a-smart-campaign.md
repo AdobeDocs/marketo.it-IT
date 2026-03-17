@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147062
-description: Visualizzare le persone bloccate in una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare le persone bloccate in una campagna avanzata. Scopri chi è stato bloccato dal flusso e perché.
 title: Visualizzare le persone bloccate in una campagna avanzata
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '126'
 ht-degree: 11%
 
 ---

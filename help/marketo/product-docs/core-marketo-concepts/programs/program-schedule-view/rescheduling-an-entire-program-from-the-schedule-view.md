@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147138
-description: Riprogrammazione di un intero programma dalla vista Pianificazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come ripianificare un intero programma dalla Vista pianificazione. Sposta tutte le voci in nuove date contemporaneamente.
 title: Ripianificazione di un programma intero dalla vista Pianificazione
 exl-id: 3debeff2-67ce-4b59-be5b-ce8cc198f4a0
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 16%
+source-wordcount: '125'
+ht-degree: 15%
 
 ---
 

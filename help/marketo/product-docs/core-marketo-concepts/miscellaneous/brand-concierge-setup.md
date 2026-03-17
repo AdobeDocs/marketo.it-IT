@@ -1,12 +1,12 @@
 ---
-description: Creazione di un portinaio - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare un Brand Concierge e aggiungere origini di conoscenza. Configura il tuo primo concierge con il catalogo dei prodotti o i collegamenti al sito web.
 title: Creare un portinaio
 hide: true
 hidefromtoc: true
 index: false
-source-git-commit: 46b832ccf64b0e9e7eae0d8b3255528db903b422
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1092'
 ht-degree: 1%
 
 ---
@@ -242,13 +242,13 @@ Potrai anche vedere segnali intensi come quello che i visitatori stanno cercando
 Stanno cercando di ottenere più query a livello di individuazione o di conversione, query di valutazione, ecc.?
 
 9:54
-Ti aiuta anche a capire il sentimento dei visitatori, giusto?
+Ti aiuta anche a capire il sentiment dei visitatori, giusto?
 
 9:58
 Stanno parlando in modo positivo?
 
 10:00
-Qualsiasi sentimento negativo proprio dove ci sono qualsiasi tipo di reclamo che i visitatori stanno facendo, sarete in grado di capire questi e anche il tono del visitatore come ho detto, non neutrale, apprezzabile, entusiasta, e così via.
+Qualsiasi sentiment negativo proprio dove ci sono qualsiasi tipo di reclamo che i visitatori stanno facendo, sarete in grado di capire questi e anche il tono del visitatore come ho detto, non neutrale, apprezzabile, entusiasta, e così via.
 
 10:14
 In questo momento, ti ho detto tutto sul portinaio.

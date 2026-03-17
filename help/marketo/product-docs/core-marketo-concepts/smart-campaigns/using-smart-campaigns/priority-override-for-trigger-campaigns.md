@@ -1,11 +1,11 @@
 ---
-description: Sovrascrittura delle priorità per le campagne Trigger - Documenti Marketo - Documentazione del prodotto
+description: Scopri la sostituzione della priorità per le campagne trigger. Controlla quale campagna viene eseguita quando più attivatori si attivano per la stessa persona.
 title: Sovrascrive priorità per campagne trigger
 exl-id: cf9b4d27-0e4c-40cf-accd-4f4a102160cc
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---

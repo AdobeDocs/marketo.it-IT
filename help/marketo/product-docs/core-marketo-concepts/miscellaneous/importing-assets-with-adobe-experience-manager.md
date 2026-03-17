@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37355768
-description: Importazione di Assets con Adobe Experience Manager - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come importare risorse AEM in Marketo Design Studio. Utilizza il Selettore risorse per accedere e importare le risorse da Adobe Experience Manager.
 title: Importare risorse con Adobe Experience Manager
 exl-id: 56ccf38f-3c99-4018-9989-719854e37a20
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '224'
-ht-degree: 5%
+source-wordcount: '237'
+ht-degree: 6%
 
 ---
 

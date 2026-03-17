@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953325
-description: Visualizza dettagli di ingresso - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come visualizzare i dettagli delle voci nel calendario di marketing. Selezionare una voce per visualizzarne le informazioni e fare clic con il pulsante destro del mouse per spostarsi tra gli editor o aprirli.
 title: Visualizzare i dettagli delle voci
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 8%
+source-wordcount: '92'
+ht-degree: 6%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147074
-description: Pulizia automatica delle campagne tramite trigger - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la pulizia automatica delle campagne tramite trigger. Scopri come Marketo ripulisce le esecuzioni delle vecchie campagne di trigger.
 title: Pulizia automatica campagna trigger
 exl-id: 08012b55-e241-4524-a387-9644f5a2b17e
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '235'
 ht-degree: 3%
 
 ---
@@ -27,7 +27,7 @@ Certo! Una volta al trimestre, riceverai una notifica con una settimana di antic
 
    ![](assets/automatic-trigger-campaign-cleanup-1.png)
 
-1. Fare clic su **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**. Quindi fare clic sul collegamento **[!UICONTROL These Idle Trigger Campaigns will be deactivated]**.
+1. Fai clic su **[!UICONTROL Idle Trigger Campaign Cleanup Scheduled]**. Quindi fare clic sul collegamento **[!UICONTROL These Idle Trigger Campaigns will be deactivated]**.
 
    ![](assets/automatic-trigger-campaign-cleanup-2.png)
 

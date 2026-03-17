@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147070
-description: Esporta risultati campagna avanzata in  [!DNL Excel] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come esportare i risultati di Smart Campaign in Excel. Scarica i dati dei membri della campagna per reporting o analisi.
 title: Esporta risultati campagna avanzata in [!DNL Excel]
 exl-id: 32aa55d7-dd10-40b9-b3f8-c767e513f103
 feature: Smart Campaigns
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---

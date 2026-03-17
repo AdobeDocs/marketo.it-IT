@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147102
-description: Creazione di una voce nella visualizzazione Pianificazione programma - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare una voce nella Vista Schedule del Programma. Aggiungi programmi e-mail, campagne avanzate o voci di base alla pianificazione.
 title: Creazione di una voce nella vista Pianificazione del programma
 exl-id: 7d15d110-17f4-4434-bf1c-0343c3a7f176
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '177'
 ht-degree: 10%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 10%
 
 ## Creare una voce di base {#create-a-basic-entry}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

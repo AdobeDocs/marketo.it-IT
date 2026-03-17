@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953348
-description: Creare voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare le voci direttamente nel calendario di marketing utilizzando l’elemento attivo del programma. Aggiungi voci di base, programmi e-mail o campagne avanzate.
 title: Creare le voci direttamente nel calendario marketing
 exl-id: 114b94e8-39f0-4e5d-abb0-27515957b33f
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 15%
+source-wordcount: '128'
+ht-degree: 14%
 
 ---
 

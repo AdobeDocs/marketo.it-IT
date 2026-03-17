@@ -1,12 +1,12 @@
 ---
 unique-page-id: 557275
-description: Utilizzare elenchi avanzati incorporati/di sistema - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare gli elenchi avanzati incorporati e di sistema. Utilizza elenchi predefiniti come Tutte le persone o Tutte le persone non abbonate nelle campagne.
 title: Utilizzare elenchi avanzati di sistema/incorporati
 exl-id: f4db0e02-2250-4c56-ba74-f9fa8a5b9c11
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '199'
 ht-degree: 7%
 
 ---

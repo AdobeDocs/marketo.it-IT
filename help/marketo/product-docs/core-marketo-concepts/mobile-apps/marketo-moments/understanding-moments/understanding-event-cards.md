@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8781974
-description: Informazioni sulle schede evento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le schede Evento in Marketo Moments. Visualizza i dettagli del programma dell’evento ed esegui un’azione dall’app mobile.
 title: Informazioni sulle schede di evento
 exl-id: 21e14ede-7b94-4580-8a4c-1b18a3734eef
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 5%
+source-wordcount: '161'
+ht-degree: 4%
 
 ---
 

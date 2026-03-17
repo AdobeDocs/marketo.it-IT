@@ -1,13 +1,13 @@
 ---
 unique-page-id: 557318
-description: Aggiornare un elenco o un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiornare un elenco o un elenco avanzato. Aggiorna le persone nell’elenco in modo che riflettano i risultati del filtro o l’iscrizione corrente.
 title: Aggiornare un elenco o un elenco avanzato
 exl-id: f66adc0f-910f-46d4-a33c-976b061bdce2
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 9%
+source-wordcount: '144'
+ht-degree: 8%
 
 ---
 

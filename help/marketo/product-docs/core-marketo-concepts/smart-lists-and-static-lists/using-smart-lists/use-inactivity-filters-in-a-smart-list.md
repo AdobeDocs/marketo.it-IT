@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511477
-description: Utilizzare i filtri di inattività in un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i filtri di inattività in un elenco avanzato. Trova persone che non hanno fatto qualcosa per un determinato periodo di tempo.
 title: Utilizzare i filtri di inattività in un elenco avanzato
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Lo sapevi che puoi cercare persone in un elenco avanzato che _non hanno_ fatto qualcosa? Consulta questi filtri di inattività.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-1.png)
 

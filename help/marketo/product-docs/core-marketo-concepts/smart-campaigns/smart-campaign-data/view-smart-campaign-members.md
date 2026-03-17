@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146937
-description: Visualizzare i membri di Smart Campaign - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare i membri di Smart Campaign. Vedi chi è nella campagna e il loro stato nel flusso.
 title: Visualizzare i membri della campagna avanzata
 exl-id: 027d93a9-f838-4f96-80d6-7bf6ee1cc03d
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 Visualizza le persone che hanno già eseguito il flusso di Smart Campaign.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/view-smart-campaign-members-1.png)
 

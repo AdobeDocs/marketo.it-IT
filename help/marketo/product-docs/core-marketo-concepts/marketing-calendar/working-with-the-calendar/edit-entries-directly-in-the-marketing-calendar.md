@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953352
-description: Modificare le voci direttamente nel calendario di marketing - Documenti Marketo - Documentazione del prodotto
+description: Scopri come modificare le voci direttamente nel calendario di marketing. Utilizzare lo stato attivo del programma per riprogrammare, rinominare o modificare i dettagli della voce.
 title: Modificare le voci direttamente nel calendario marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 9%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953132
-description: Informazioni sulle campagne intelligenti batch e trigger - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri cosa sono le campagne avanzate batch e trigger. Scopri quando utilizzare ogni tipo e come vengono eseguiti.
 title: Informazioni sulle campagne avanzate batch e trigger
 exl-id: 84a7b38c-b79c-4360-bd0b-3beb8ca35ac7
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 6%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 

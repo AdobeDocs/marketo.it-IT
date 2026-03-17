@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147118
-description: Utilizzo dei costi del periodo in un programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i costi del periodo in un programma. Aggiungere e assegnare i costi ai periodi del programma per la generazione di rapporti sul ROI.
 title: Utilizzo dei costi del periodo in un programma
 exl-id: 3f00dc09-797a-4f21-bb56-45a1f9b6e5bf
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 8%
+source-wordcount: '203'
+ht-degree: 9%
 
 ---
 

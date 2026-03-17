@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146995
-description: Utilizzare i token nei passaggi del flusso - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i token nei passaggi del flusso. Inserisci valori dinamici nel contenuto e nelle e-mail delle fasi del flusso.
 title: Utilizzare i token nei passaggi di flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '201'
 ht-degree: 10%
 
 ---

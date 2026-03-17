@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146989
-description: Azioni campagna -Clonare una campagna intelligente - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come clonare una campagna avanzata. Crea una copia di una campagna per riutilizzarne la struttura con un nuovo nome.
 title: Azioni campagna - Clona una campagna avanzata
 exl-id: 47441923-5a6a-4a9e-9753-85959bd3744f
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 7%
+source-wordcount: '89'
+ht-degree: 6%
 
 ---
 

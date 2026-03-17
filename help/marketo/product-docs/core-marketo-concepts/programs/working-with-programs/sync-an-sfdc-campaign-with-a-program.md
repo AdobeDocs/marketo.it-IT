@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147154
-description: Sincronizzare una campagna SFDC con un programma - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare una campagna Salesforce con un programma Marketo. Mantenere lo stato dei membri sincronizzato tra SFDC e Marketo.
 title: Sincronizzare una campagna SFDC con un programma
 exl-id: b95be580-c960-4a76-9d43-c7f624f43d03
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 10%
+source-wordcount: '172'
+ht-degree: 11%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Engage consente di sincronizzare i programmi con le campagne [!DNL Sales
 >
 >Quando si sincronizza una campagna SFDC con un programma Marketo Engage, le azioni implicite di SFDC (ad esempio, aggiungi a SFDC Campaign, Sincronizza con SFDC) verranno disabilitate per le campagne secondarie del programma.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146970
-description: Pianificazione di una campagna batch intelligente da eseguire in un secondo momento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare una campagna batch intelligente da eseguire in un secondo momento. Imposta una data e un’ora per l’esecuzione della campagna.
 title: Pianificare una campagna avanzata batch da eseguire in un secondo momento
 exl-id: b78ffed2-cf91-4860-8a94-65b35d2927e2
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 13%
+source-wordcount: '134'
+ht-degree: 12%
 
 ---
 

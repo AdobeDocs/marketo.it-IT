@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146987
-description: Eliminare un passaggio di flusso - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eliminare un passaggio di flusso da una campagna avanzata. Rimuovi dal flusso le azioni non più necessarie.
 title: Eliminare un passaggio di flusso
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '379'
 ht-degree: 2%
 
 ---

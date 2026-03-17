@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147068
-description: Filtrare i risultati di una campagna intelligente - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come filtrare i risultati di Smart Campaign. Restringi le persone visualizzate nella visualizzazione dei risultati della campagna in base ai criteri.
 title: Filtrare i risultati della campagna avanzata
 exl-id: 76c1b143-313b-4ef2-860f-f8b127fdfc6b
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '133'
 ht-degree: 6%
 
 ---

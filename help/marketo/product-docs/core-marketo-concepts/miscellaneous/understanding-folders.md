@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720779
-description: Cartelle - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le cartelle all’interno dei programmi per organizzare campagne e risorse avanzate. Creare, rinominare ed eliminare cartelle.
 title: Informazioni sulle cartelle
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 4%
+source-wordcount: '262'
+ht-degree: 8%
 
 ---
 
@@ -34,7 +34,7 @@ Fantastico! Ora disponi di una nuova cartella in cui archiviare le risorse local
 
 Va bene cambiare idea.
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Rename Folder]**.
+1. Fai clic con il pulsante destro sulla cartella e seleziona **[!UICONTROL Rename Folder]**.
 
    ![](assets/image2015-4-20-18-3a49-3a10.png)
 
@@ -48,7 +48,7 @@ Va bene cambiare idea.
 >
 >Assicurati che la cartella sia vuota prima di eliminarla.
 
-1. Fare clic con il pulsante destro del mouse sulla cartella e selezionare **[!UICONTROL Delete Folder]**.
+1. Fai clic con il pulsante destro sulla cartella e seleziona **[!UICONTROL Delete Folder]**.
 
    ![](assets/image2015-4-20-18-3a55-3a51.png)
 

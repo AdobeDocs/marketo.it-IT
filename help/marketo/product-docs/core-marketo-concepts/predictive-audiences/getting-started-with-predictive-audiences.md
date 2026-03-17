@@ -1,12 +1,12 @@
 ---
-description: Guida introduttiva di Predictive Audiences - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri Predictive Audiences e il targeting basato sull’intelligenza artificiale in Marketo. Utilizza valori di probabilità e filtri predittivi per raggiungere i tuoi obiettivi.
 title: Guida introduttiva ai tipi di pubblico predittivi
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 5%
+source-wordcount: '228'
+ht-degree: 4%
 
 ---
 

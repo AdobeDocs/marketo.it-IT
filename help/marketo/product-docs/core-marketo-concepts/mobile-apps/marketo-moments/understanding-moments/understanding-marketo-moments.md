@@ -1,12 +1,12 @@
 ---
 unique-page-id: 8781845
-description: Informazioni su Marketo Moments - Documentazione Marketo - Documentazione del prodotto
+description: Scopri Marketo Moments per vedere cosa conta quando è importante. Visualizza le informazioni chiave ed effettua azioni dall’app mobile.
 title: Informazioni sui momenti Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '600'
 ht-degree: 1%
 
 ---

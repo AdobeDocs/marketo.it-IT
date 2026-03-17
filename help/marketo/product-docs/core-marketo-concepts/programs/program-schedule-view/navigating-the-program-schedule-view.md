@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147100
-description: Navigazione nella vista Pianificazione programma - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come navigare nella vista Pianificazione programma. Spostarsi nel tempo e visualizzare le voci pianificate nel programma.
 title: Navigazione nella vista Pianificazione del programma
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '186'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 
 ## Trovare la vista Schedule {#find-the-schedule-view}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

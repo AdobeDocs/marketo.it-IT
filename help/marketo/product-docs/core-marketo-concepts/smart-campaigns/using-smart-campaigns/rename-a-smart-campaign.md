@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147049
-description: Rinominare una campagna avanzata - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come rinominare una campagna avanzata. Modifica il nome della campagna dalle impostazioni della campagna o dal menu di scelta rapida.
 title: Rinominare una campagna avanzata
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/rename-a-smart-campaign-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147058
-description: Annullare l’esecuzione di una campagna batch pianificata - Documenti Marketo - Documentazione del prodotto
+description: Scopri come annullare l’esecuzione di una campagna batch pianificata. Rimuovi un’esecuzione pianificata una tantum in modo che non venga eseguita.
 title: Annullare un’esecuzione di campagna batch pianificata
 exl-id: 4bdffdcc-d654-40d1-a316-5ed05fc1b7f4
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 13%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 

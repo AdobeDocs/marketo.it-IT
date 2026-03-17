@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2952292
-description: Notifiche - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le notifiche di Marketo Engage per gli errori della campagna e la sincronizzazione del sistema CRM. Iscriviti per ricevere gli avvisi tramite e-mail e resta aggiornato.
 title: Informazioni sulle notifiche
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: 5596dd02ff980145c3ada82d116f8b7619d2ce84
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 2%
+source-wordcount: '233'
+ht-degree: 3%
 
 ---
 
@@ -38,7 +38,7 @@ Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
 >[!NOTE]
 >
->La casella _[!UICONTROL Send to]_&#x200B;consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
+>La casella _[!UICONTROL Send to]_consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
 
 In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo Engage conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, riceverai un errore 404.
 

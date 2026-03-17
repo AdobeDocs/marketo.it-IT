@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504058
-description: Clonare una presentazione - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come clonare una presentazione di calendario di marketing per riutilizzarla. Crea una copia esatta da utilizzare in luoghi diversi.
 title: Clonare una presentazione
 exl-id: be013e38-734c-41d7-8623-e8f267b2799c
 feature: Marketing Calendar
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 11%
+source-wordcount: '63'
+ht-degree: 9%
 
 ---
 

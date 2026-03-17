@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146931
-description: Creazione di una nuova campagna avanzata - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare una nuova Smart Campaign. Imposta i trigger o uno Smart List e aggiungi i passaggi del flusso per automatizzare le azioni.
 title: Creare una nuova campagna avanzata
 exl-id: c24ef00a-1f5c-4d0f-a7ff-131dcb593119
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Le campagne intelligenti sono lo strumento più importante di Marketo Engage. Po
 >
 >Ulteriori informazioni su [Campagne avanzate](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.md){target="_blank"}.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-a-new-smart-campaign-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146972
-description: Pianificazione di una campagna batch ricorrente - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare una campagna batch ricorrente. Imposta la campagna in modo che venga eseguita ogni giorno, ogni settimana o ogni mese in base a una pianificazione.
 title: Pianificare una campagna batch ricorrente
 exl-id: b7a931b0-5061-4c4f-8084-4938254a4d9c
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 11%
+source-wordcount: '144'
+ht-degree: 10%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: OP-Scoring-Demographic - Documentazione Marketo - Documentazione del prodotto
+description: Modello del programma operativo Demografico punteggio. Utilizzala per il punteggio di lead basato sulla demografia.
 title: OP-Punteggio demografico
 feature: Programs
 exl-id: ed11616e-b587-4d03-b293-9cc9fa3c1699
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 25%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 25%
 
 Questo è un esempio di programma operativo avanzato (tokenizzato) che utilizza un programma predefinito di Marketo Engage per il punteggio demografico. Visualizza e modifica i valori di punteggio nella scheda &quot;I miei token&quot; del programma. Richiede un campo di punteggio personalizzato denominato &quot;Punteggio demografico&quot;.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 

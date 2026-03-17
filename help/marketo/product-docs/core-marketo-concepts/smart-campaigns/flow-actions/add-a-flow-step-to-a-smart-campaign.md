@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1146944
-description: Aggiungere un passaggio di flusso a una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un passaggio di flusso a una campagna avanzata. Inserisci azioni quali invia e-mail, modifica il valore dei dati o aggiungi all’elenco.
 title: Aggiungere un passaggio di flusso a una campagna avanzata
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 10%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 I passaggi di flusso indicano a Marketo Engage cosa desideri che accada a un gruppo di persone qualificate.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/add-a-flow-step-to-a-smart-campaign-1.png)
 

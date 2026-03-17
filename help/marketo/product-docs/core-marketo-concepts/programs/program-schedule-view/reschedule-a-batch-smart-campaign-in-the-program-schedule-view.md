@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7514985
-description: Riprogrammare una campagna batch intelligente nella visualizzazione Pianificazione del programma - Documenti Marketo - Documentazione del prodotto
+description: Scopri come riprogrammare una campagna intelligente in batch nella Vista pianificazione del programma. Modifica quando viene eseguita una campagna batch.
 title: Ripianificare una campagna avanzata batch nella vista Pianificazione del programma
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 19%
+source-wordcount: '109'
+ht-degree: 18%
 
 ---
 

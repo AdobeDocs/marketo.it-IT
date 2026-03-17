@@ -1,12 +1,12 @@
 ---
-description: Modelli e informazioni - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i modelli Predictive Audiences e i fattori che li influenzano. Utilizza le informazioni sull’intelligenza artificiale per ottimizzare il targeting e migliorare le prestazioni della campagna.
 title: Modelli e approfondimenti
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 2%
+source-wordcount: '223'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Passare alla sezione **[!UICONTROL Models and Data Health]** in **[!UICONTROL Pr
 
 ![Immagine Uno](assets/models-and-insights-1.png)
 
-* **Stato apprendimento**: indica se il modello sta eseguendo un addestramento attivo (migliorando le previsioni). L’addestramento viene eseguito automaticamente ogni due settimane. Il completamento di qualsiasi modello _in elaborazione_ potrebbe richiedere fino a 24 ore. Per qualsiasi modello _Non riuscito_, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support){target="_blank"}.
+* **Stato apprendimento**: indica se il modello sta eseguendo un addestramento attivo (migliorando le previsioni). L’addestramento viene eseguito automaticamente ogni due settimane. Il completamento di qualsiasi modello _in elaborazione_ potrebbe richiedere fino a 24 ore. Per qualsiasi modello _Non riuscito_, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
 * **Stato punteggio**: indica se il modello sta calcolando attivamente le previsioni (percentuali di probabilità) per i membri del programma.
 * **Prestazioni**: categorizzazione dell&#39;integrità del modello in base alla completezza dei dati e alla qualità dei dati (vedere di seguito).
 * **Completezza dati**: percentuale di attributi di dati presenti/completi.

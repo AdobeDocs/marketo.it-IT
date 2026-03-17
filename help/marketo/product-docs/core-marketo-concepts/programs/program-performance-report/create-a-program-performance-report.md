@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147129
-description: Creazione di un rapporto sulle prestazioni del programma - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare un rapporto sulle prestazioni del programma. Crea rapporti per visualizzare il ROI del programma, il successo e le metriche dei membri.
 title: Creare un rapporto sulle prestazioni del programma
 exl-id: 0b4c3769-e4a8-47b0-aa2c-a21acaf9525c
 feature: Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 14%
 
 ---
 
@@ -16,8 +16,8 @@ ht-degree: 11%
 Con questo rapporto puoi vedere statistiche straordinarie sui tuoi programmi.
 
 1. [Crea un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md){target="_blank"} e seleziona il **[!UICONTROL Program Performance]** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md){target="_blank"}.
-1. Fare clic sulla scheda **[!UICONTROL Report]**.
-1. Ci sei! Esplora il tuo rapporto per vedere come stanno andando i tuoi programmi.
+1. Fai clic sulla scheda **[!UICONTROL Report]**.
+1. Ecco fatto. Esplora il tuo rapporto per vedere come stanno andando i tuoi programmi.
 
    ![](assets/image2014-9-18-17-3a23-3a2.png)
 

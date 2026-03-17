@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147051
-description: Elenco di controllo per campagne avanzate - Documentazione di Marketo - Documentazione del prodotto
+description: Ottieni aiuto per l’elenco di controllo di Smart Campaign. Utilizza questo elenco per verificare che la campagna sia configurata correttamente prima dell’attivazione.
 title: Elenco di controllo della campagna avanzata
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '247'
 ht-degree: 3%
 
 ---
