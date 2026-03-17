@@ -38,7 +38,7 @@ Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
 >[!NOTE]
 >
->La casella _[!UICONTROL Send to]_consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
+>La casella _[!UICONTROL Send to]_&#x200B;consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
 
 In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo Engage conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, riceverai un errore 404.
 
