@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Questo è un esempio di un programma di webinar con gestione della registrazione, tre e-mail di invito, promemoria per la partecipazione e e-mail di follow-up che utilizzano un programma di eventi di Marketo Engage.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 

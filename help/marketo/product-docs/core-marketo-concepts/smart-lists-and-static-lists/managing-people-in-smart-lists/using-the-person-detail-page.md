@@ -60,7 +60,7 @@ Le informazioni sulla persona sono suddivise nelle seguenti schede:
 
 >[!NOTE]
 >
->È inoltre possibile visualizzare le informazioni sull&#39;opportunità [inserite tramite API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
+>È inoltre possibile visualizzare le informazioni sull&#39;opportunità [inserite tramite API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/opportunities) per le istanze non sincronizzate con un CRM.
 
 ## Modifica di un campo {#editing-a-field}
 
