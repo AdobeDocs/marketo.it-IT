@@ -1,12 +1,14 @@
 ---
-description: Pulsante di attivazione/disattivazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come utilizzare lo switch per passare da Marketo Classic a Modern UX. Imposta l’accesso per i ruoli in Amministratore e abilitalo per singole funzioni o per tutte le funzioni.
 title: Attiva/Disattiva
 exl-id: bb519314-bddf-4184-8585-22ed1fe85f9a
+hide: true
+hidefromtoc: true
 feature: Modern UX
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '266'
-ht-degree: 100%
+source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+workflow-type: tm+mt
+source-wordcount: '290'
+ht-degree: 89%
 
 ---
 
