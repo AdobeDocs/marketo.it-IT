@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359608
-description: Modificare la famiglia di caratteri del modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare la famiglia di font del modulo in Marketo. Selezionare un carattere diverso per il testo del modulo.
 title: Modificare la famiglia di font del modulo
 exl-id: eb5e861b-6e0b-4291-9944-828ea00f1869
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ I Google Fonts sono fantastici, e li abbiamo inseriti direttamente nell&#39;edit
 >
 >Questa impostazione ha effetto sull&#39;etichetta del modulo, sul testo di input e su qualsiasi testo RTF.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359654
-description: Modificare la lingua di un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare la lingua di un modulo di Marketo. Visualizzare le etichette dei moduli e i messaggi in un'altra lingua per il pubblico.
 title: Modificare la lingua di un modulo
 exl-id: 7f8e8dc4-b0e7-4bd4-a81b-9e0c3ce29300
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 9%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359667
-description: Applicare il mascheramento di input a un campo in un modulo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come applicare il mascheramento di input a un campo modulo in Marketo. Formatta il telefono, la data o altri campi come tipi di visitatori.
 title: Applicare il mascheramento di input a un campo di un modulo
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 11%
+source-wordcount: '176'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad esempio, è possibile che si desideri che i visitatori immettano i numeri di telefono solo in un formato specifico.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-4.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359870
-description: Trovare l’URL di un’immagine o di un file caricato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come trovare l’URL di un’immagine o di un file caricato in Marketo. Ottieni l’URL della risorsa da utilizzare nelle e-mail o nelle pagine esterne.
 title: Trovare l’URL di un’immagine o di un file caricato
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 29%
+source-wordcount: '77'
+ht-degree: 24%
 
 ---
 

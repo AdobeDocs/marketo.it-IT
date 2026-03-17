@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359657
-description: Modificare le impostazioni internazionali di un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare le impostazioni locali di un modulo in Marketo. Impostare la lingua del modulo e il formato regionale per le etichette e la convalida.
 title: Modificare le impostazioni locali di un modulo
 exl-id: 811153b7-27e6-407d-abbe-c29dc39944d7
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 7%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Quando si utilizzano i moduli internazionali, è necessario visualizzare le date e le ore nei formati corretti. Marketo eseguirà automaticamente questa operazione, non dovrai fare altro che impostare le impostazioni locali del modulo e ci occuperemo del resto.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-7.png)
 

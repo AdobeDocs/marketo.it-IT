@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359604
-description: Ridimensionamento dell’etichetta/larghezza del campo in un modulo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come ridimensionare le etichette e la larghezza dei campi in un modulo di Marketo. Regola la larghezza delle etichette e delle aree di input.
 title: Ridimensionare l’etichetta o la larghezza del campo in un modulo
 exl-id: cef10279-881e-44f3-a979-873fa24d7f4b
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 17%
+source-wordcount: '102'
+ht-degree: 15%
 
 ---
 

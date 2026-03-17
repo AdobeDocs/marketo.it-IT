@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359810
-description: Abilitare URL personalizzati per l’account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abilitare URL personalizzati per il tuo account Marketo. Configura la funzione in modo da poter utilizzare URL personalizzati sulle pagine di destinazione.
 title: Abilitare gli URL personalizzati per il tuo account
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '106'
 ht-degree: 17%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504163
-description: Aggiungi [!DNL LinkedIn] tipi di pubblico corrispondenti come servizio  [!DNL LaunchPoint] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere LinkedIn tipi di pubblico corrispondenti come servizio LaunchPoint. Utilizza gli elenchi di Marketo come segmenti di pubblico LinkedIn per il targeting di annunci.
 title: 'Aggiungi [!DNL LinkedIn] tipi di pubblico corrispondenti come servizio [!DNL LaunchPoint] '
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 1%
+source-wordcount: '203'
+ht-degree: 2%
 
 ---
 

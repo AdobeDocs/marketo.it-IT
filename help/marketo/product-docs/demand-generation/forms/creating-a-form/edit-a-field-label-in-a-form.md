@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359566
-description: Modificare un’etichetta di campo in un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare l’etichetta di un campo in un modulo Marketo. Modificare il testo dell'etichetta visualizzato accanto a un campo modulo.
 title: Modificare un’etichetta di campo in un modulo
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 14%
 
 L&#39;etichetta di un modulo può essere modificata in qualsiasi elemento, ad esempio è possibile utilizzare un&#39;immagine o cancellarla completamente. Ecco come farlo.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 

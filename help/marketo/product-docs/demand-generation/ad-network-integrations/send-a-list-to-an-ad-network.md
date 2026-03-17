@@ -1,12 +1,12 @@
 ---
-description: Inviare un elenco a un Ad Network - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come inviare un elenco statico a LinkedIn, Facebook o Google. Utilizza List Actions (Azioni elenco) e Send to Ad Network (Invia a rete di annunci) per scegliere le opzioni relative al pubblico e alla sincronizzazione.
 title: Inviare un elenco a un ad network
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 8%
+source-wordcount: '215'
+ht-degree: 7%
 
 ---
 

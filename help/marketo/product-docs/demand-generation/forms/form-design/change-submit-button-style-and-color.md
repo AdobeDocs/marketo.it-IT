@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359620
-description: Modificare lo stile e il colore del pulsante di invio - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare lo stile e il colore del pulsante Invia in un modulo di Marketo. Abbina il pulsante al tuo marchio e design.
 title: Cambiare stile e colore del pulsante Invia
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 10%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di più sofisticato, puoi scegliere tra un&#39;ampia gamma di stili di pulsante pronti all&#39;uso.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 

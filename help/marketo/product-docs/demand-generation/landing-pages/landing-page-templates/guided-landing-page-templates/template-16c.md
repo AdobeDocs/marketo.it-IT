@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437840
-description: Modello 16C - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il modello di pagina di destinazione guidata Modello 16C. Scarica e utilizzalo per le pagine di destinazione di Marketo.
 title: Modello 16C
 exl-id: 3e6369bd-4d36-4308-af41-65d67a01c172
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '60'
+ht-degree: 6%
 
 ---
 
 # Modello 16C {#template-16c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 16C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)
 
 ![](assets/image2015-8-14-12-3a58-3a46.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html?lang=it)
+[Modello 16C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-16c.html)

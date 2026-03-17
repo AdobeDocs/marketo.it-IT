@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359703
-description: Aggiungere un’immagine a una pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un’immagine a una pagina di destinazione in formato libero in Marketo. Inserire e posizionare le immagini da Design Studio.
 title: Aggiungere un’immagine a una pagina di destinazione in formato libero
 exl-id: 68b302e8-a2df-4bf3-9835-e92b36acce55
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 27%
+source-wordcount: '78'
+ht-degree: 24%
 
 ---
 

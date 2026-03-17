@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359594
-description: Aggiungere un set di campi a un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un set di campi a un modulo di Marketo. Raggruppa i campi correlati con un’intestazione per un layout migliore.
 title: Aggiungere un set di campi a un modulo
 exl-id: c549781f-f61b-4963-8f9e-58d3e7346fd1
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 12%
+source-wordcount: '105'
+ht-degree: 13%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 I campi sono fantastici. Raggruppano un mucchio di campi. Puoi anche controllare un intero blocco contemporaneamente!
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

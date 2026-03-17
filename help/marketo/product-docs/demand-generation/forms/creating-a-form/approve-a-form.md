@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359578
-description: Approvare un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come approvare un modulo in Marketo. Approva il modulo in modo che possa essere utilizzato nelle pagine di destinazione e inizia a catturare i lead.
 title: Approvare un un modulo
 exl-id: 4ff280d9-dfff-4d1e-829e-74414d731d57
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 9%
+source-wordcount: '120'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ Per aggiungere un modulo a una delle pagine di destinazione, è necessario appro
 
 Ecco come approvare un modulo esistente pronto per l’uso.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/approve-a-form-1.png)
 

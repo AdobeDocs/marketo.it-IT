@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11376700
-description: Aggiungere lead a un pubblico personalizzato in Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere lead a un pubblico personalizzato in Facebook da Marketo. Invia i membri dell’elenco a Facebook per il targeting degli annunci.
 title: Aggiungere lead a un pubblico personalizzato in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 9%
+source-wordcount: '153'
+ht-degree: 8%
 
 ---
 

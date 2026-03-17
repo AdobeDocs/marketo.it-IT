@@ -1,11 +1,11 @@
 ---
-description: Panoramica del flusso conversazionale - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri i flussi conversazionali e le differenze rispetto alle finestre di dialogo. Progetta i flussi attivati dalle azioni dei visitatori e utilizzali in moduli o popup.
 title: Panoramica sul flusso conversazionale
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '355'
 ht-degree: 3%
 
 ---
@@ -74,7 +74,7 @@ Nella parte superiore della scheda Impostazioni, è possibile aggiornare il nome
 >
 >Se si seleziona una lingua diversa, verrà modificata solo la lingua del testo di sistema. Sei responsabile della traduzione dei contenuti.
 
-### SDK conversazioni {#conversations-sdk}
+### SDK per le conversazioni {#conversations-sdk}
 
 Nella parte inferiore della scheda Impostazioni, personalizzare il trigger Conversazione, noto anche come SDK Conversazioni. Puoi decidere se la conversazione viene attivata sul tuo sito web quando un visitatore fa clic su un collegamento o al caricamento della pagina.
 
@@ -82,7 +82,7 @@ Nella parte inferiore della scheda Impostazioni, personalizzare il trigger Conve
 
 >[!TIP]
 >
->Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=it){target="_blank"} in azione.
+>Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione.
 
 >[!MORELIKETHIS]
 >

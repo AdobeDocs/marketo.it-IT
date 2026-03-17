@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359701
-description: Creazione di una pagina di destinazione in formato libero - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare una pagina di destinazione in formato libero in Marketo. Crea la pagina come risorsa del programma o in Design Studio per un utilizzo globale.
 title: Creare una pagina di destinazione in formato libero
 exl-id: fc58cb1f-8567-47ce-b724-24e6e6bc9cce
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -21,7 +21,7 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
 ## Creare una pagina di destinazione in formato libero in un programma {#create-a-free-form-landing-page-in-a-program}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
@@ -29,7 +29,7 @@ Le pagine di destinazione in formato libero possono essere create come risorse l
 
    ![](assets/image2015-5-19-12-3a46-3a47.png)
 
-1. Fare clic su **[!UICONTROL New]**. Seleziona **[!UICONTROL New Local Asset]**.
+1. Fai clic su **[!UICONTROL New]**. Seleziona **[!UICONTROL New Local Asset]**.
 
    ![](assets/image2015-5-19-12-3a47-3a27.png)
 

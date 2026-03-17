@@ -1,11 +1,11 @@
 ---
-description: Generazione di domande - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come generare domande per Dynamic Chat utilizzando gli URL e gli argomenti di origine. Crea risposte basate sull’intelligenza artificiale e tieni traccia dello stato delle attività nelle risposte assistite.
 title: Generazione della domanda
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '309'
 ht-degree: 3%
 
 ---

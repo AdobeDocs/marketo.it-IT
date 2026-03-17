@@ -1,11 +1,11 @@
 ---
-description: Analytics - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le dashboard di analisi di Dynamic Chat per il coinvolgimento e le prestazioni. Visualizzare le metriche delle finestre di dialogo, le prenotazioni delle riunioni, le prestazioni delle chat live e i risultati dell’esportazione.
 title: Analisi
 feature: Dynamic Chat
 exl-id: 8130a970-4cf1-4bf6-9403-998460269843
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '276'
 ht-degree: 3%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359663
-description: Impostare un valore per il campo Modulo nascosto - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare un valore per un campo modulo nascosto in Marketo. Passa i valori statici o token con l’invio del modulo.
 title: Impostare un valore per il campo modulo nascosto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '265'
 ht-degree: 6%
 
 ---

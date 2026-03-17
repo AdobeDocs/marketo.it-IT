@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359826
-description: Reindirizzare un percorso URL - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come reindirizzare un percorso URL per le pagine di destinazione di Marketo. Invia i percorsi meno recenti ai nuovi URL o alle nuove pagine di destinazione.
 title: Reindirizzare un percorso URL
 exl-id: 5857971a-507b-4946-b131-a5a74eef0d9a
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 9%
+source-wordcount: '134'
+ht-degree: 10%
 
 ---
 

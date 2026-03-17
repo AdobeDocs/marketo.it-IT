@@ -1,12 +1,12 @@
 ---
-description: Streaming Designer - Documentazione Marketo - Documentazione del prodotto
+description: Scopri Stream Designer per creare conversazioni chat con le schede. Consente di creare finestre di dialogo con messaggi, domande, documenti e prenotazioni di riunioni.
 title: Designer flusso
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1117'
 ht-degree: 2%
 
 ---

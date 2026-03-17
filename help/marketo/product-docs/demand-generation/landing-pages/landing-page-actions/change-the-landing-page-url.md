@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359738
-description: Modificare l’URL della pagina di destinazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare l’URL della pagina di destinazione in Marketo. Aggiorna il percorso URL o il tag per la pagina di destinazione.
 title: Modificare l’URL della pagina di destinazione
 exl-id: 4ce9ad93-f90e-4bbb-a90c-5d0c1e764fd1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '104'
+ht-degree: 9%
 
 ---
 

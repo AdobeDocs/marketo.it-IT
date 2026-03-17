@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359661
-description: Impostare un campo modulo come nascosto - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare un campo modulo nascosto in Marketo. Memorizza i dati senza mostrare il campo ai visitatori.
 title: Impostare il campo di un modulo come nascosto
 exl-id: 6f293477-69ec-4f56-9800-cc1baaf80f94
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '81'
 ht-degree: 22%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 22%
 
 I campi modulo nascosti possono acquisire dati in modo invisibile all’utente senza l’input del visitatore. Ecco come funziona.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 

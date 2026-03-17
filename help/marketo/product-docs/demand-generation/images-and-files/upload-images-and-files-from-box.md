@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359868
-description: Caricare immagini e file dalla confezione - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come caricare immagini e file da Box a Marketo. Connetti Box e importa risorse in Design Studio.
 title: Caricare immagini e file da Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 16%
+source-wordcount: '102'
+ht-degree: 18%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 16%
 
 Puoi caricare file da Box per utilizzarli nelle pagine di destinazione e nelle e-mail.
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passa a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio-3.png)
 
-1. Vai a **[!UICONTROL Images and Files]**. Fare clic su **[!UICONTROL File Actions]** e selezionare **[!UICONTROL Grab Images from Web]**.
+1. Passa a **[!UICONTROL Images and Files]**. Fare clic su **[!UICONTROL File Actions]** e selezionare **[!UICONTROL Grab Images from Web]**.
 
    ![](assets/image2014-9-16-12-3a50-3a40.png)
 

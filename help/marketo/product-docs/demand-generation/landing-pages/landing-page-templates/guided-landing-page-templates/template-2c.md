@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516475
-description: Modello 2C - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il modello di pagina di destinazione guidata Modello 2C. Scarica e utilizzalo per le pagine di destinazione di Marketo.
 title: Modello 2C
 exl-id: aabbc957-5eed-4db6-b107-0a8226371820
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 6%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
 
 # Modello 2C {#template-2c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 2C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)
 
 ![](assets/image2015-6-4-9-3a31-3a46.png)
 
@@ -29,4 +29,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html?lang=it)
+[Modello 2C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2c.html)

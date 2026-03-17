@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359705
-description: Aggiungere un nuovo modulo a una pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un nuovo modulo a una pagina di destinazione in formato libero in Marketo. Inserisci un modulo Marketo per acquisire i lead sulla pagina.
 title: Aggiungere un nuovo modulo a una pagina di destinazione in formato libero
 exl-id: cfdcf4b1-5391-4eff-b4dd-ebeb6670a933
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '143'
 ht-degree: 14%
 
 ---
@@ -20,7 +20,7 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
 >* [Crea modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md)
 >* [Crea una pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/create-a-free-form-landing-page.md)
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359612
-description: Modifica posizione etichetta modulo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come modificare la posizione dell’etichetta del modulo in Marketo. Posiziona le etichette sopra, sotto o a sinistra o a destra dei campi.
 title: Cambiare posizione all’etichetta del modulo
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 11%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 11%
 
 Durante la [creazione di un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md), è possibile modificare molto facilmente la posizione delle etichette dei campi modulo. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 10098238
-description: Domande frequenti sulla compilazione dei moduli social di LinkedIn - Documentazione di Marketo - Documentazione del prodotto
+description: Ottieni aiuto per LinkedIn modulo social compilato con moduli Marketo. Risposte alle domande frequenti sull’integrazione di LinkedIn tra moduli.
 title: Domande frequenti sulla compilazione di un modulo di contatto LinkedIn
 hide: true
 hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '529'
 ht-degree: 1%
 
 ---

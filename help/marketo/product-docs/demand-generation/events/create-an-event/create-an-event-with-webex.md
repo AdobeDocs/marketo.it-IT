@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949863
-description: Creazione di un evento con  [!DNL Webex] - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un evento con Webex in Marketo. Configurare l’integrazione Webex e sincronizzare i dati dell’evento o della riunione con Marketo.
 title: Crea un evento con  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---

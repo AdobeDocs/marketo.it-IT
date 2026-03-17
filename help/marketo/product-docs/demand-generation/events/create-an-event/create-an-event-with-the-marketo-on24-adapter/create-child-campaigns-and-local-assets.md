@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096675
-description: Creazione di campagne secondarie e Assets locale - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare campagne secondarie e risorse locali per gli eventi ON24 in Marketo. Organizza programmi per diverse aree geografiche o lingue.
 title: Creare campagne secondarie e risorse in locale
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '661'
 ht-degree: 3%
 
 ---

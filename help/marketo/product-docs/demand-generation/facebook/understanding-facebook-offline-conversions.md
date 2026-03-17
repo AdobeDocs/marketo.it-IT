@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11383945
-description: Informazioni sulle conversioni offline di Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le conversioni offline di Facebook e come funzionano con Marketo. Scopri in che modo i dati di conversione migliorano le prestazioni degli annunci.
 title: Informazioni sulle conversioni offline di Facebook
 exl-id: e0995ebc-47fb-4f10-b767-4fe9f572b2d2
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '234'
 ht-degree: 2%
 
 ---

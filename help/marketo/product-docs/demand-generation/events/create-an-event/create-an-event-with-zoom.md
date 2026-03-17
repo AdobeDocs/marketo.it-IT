@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17728023
-description: Creazione di un evento con  [!DNL Zoom] - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un evento con Zoom in Marketo. Configura l’integrazione di Zoom e sincronizza le riunioni o i webinar con il tuo programma di eventi.
 title: Crea un evento con  [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '531'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---

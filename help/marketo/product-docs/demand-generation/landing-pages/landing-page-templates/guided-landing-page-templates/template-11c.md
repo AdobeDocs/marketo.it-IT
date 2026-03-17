@@ -1,19 +1,19 @@
 ---
 unique-page-id: 9437562
-description: Modello 11C - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il modello di pagina di destinazione guidata Modello 11C. Scarica e utilizzalo per le pagine di destinazione di Marketo.
 title: Modello 11C
 exl-id: 7398604e-5a38-4630-b28e-31dc16cfcec3
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 7%
+source-wordcount: '66'
+ht-degree: 6%
 
 ---
 
 # Modello 11C {#template-11c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -26,4 +26,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=it)
+[Modello 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)

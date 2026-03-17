@@ -1,12 +1,12 @@
 ---
-description: Configurazione di reCAPTCHA v3 - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare reCAPTCHA v3 per Marketo forms. Configura reCAPTCHA invisibile per combattere lo spam senza bloccare gli utenti.
 title: Configurazione di reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 2%
+source-wordcount: '315'
+ht-degree: 3%
 
 ---
 

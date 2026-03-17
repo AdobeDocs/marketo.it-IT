@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472348
-description: Rendere compatibile per dispositivi mobili un modello di pagina di destinazione in formato libero esistente - Documenti Marketo - Documentazione del prodotto
+description: Scopri come rendere compatibile per dispositivi mobili un modello di pagina di destinazione in formato libero esistente. Effettua l’aggiornamento dal modello o dall’editor della pagina di destinazione.
 title: Rendere compatibile con dispositivi mobili un modello esistente di pagina di destinazione in formato libero
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 5%
+source-wordcount: '235'
+ht-degree: 6%
 
 ---
 
@@ -69,7 +69,7 @@ Se si apportano modifiche al modello, fare clic su [!UICONTROL Template Actions]
 
 Quando modifichi una pagina di destinazione e fai clic sulla scheda mobile, a volte noterai che il modello non è stato aggiornato. Non abbiate paura! Puoi aggiornarla proprio qui.
 
-1. Fare clic sulla scheda **[!UICONTROL Mobile]**.
+1. Fai clic sulla scheda **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-20-3a48-3a19.png)
 

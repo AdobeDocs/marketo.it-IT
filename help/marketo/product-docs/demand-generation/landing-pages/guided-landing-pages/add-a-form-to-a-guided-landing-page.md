@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515107
-description: Aggiungere un modulo a una pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un modulo a una pagina di destinazione guidata in Marketo. Inserire un elemento modulo e scegliere il modulo Marketo.
 title: Aggiungere un modulo a una pagina di destinazione in formato guidato
 exl-id: 480da9ab-909e-4eb5-83c2-34de56b05c78
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 13%
+source-wordcount: '171'
+ht-degree: 12%
 
 ---
 

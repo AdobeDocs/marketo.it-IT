@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359398
-description: Creazione di un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un modulo in Marketo. Aggiungi campi, imposta il modulo e utilizzalo nelle pagine di destinazione o sul tuo sito web per acquisire i lead.
 title: Creare un modulo
 exl-id: ab0f2700-99e5-4ceb-b9df-80016f30fc85
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '117'
 ht-degree: 7%
 
 ---
@@ -19,7 +19,7 @@ Crea e utilizza un modulo su una pagina di destinazione per generare nuovi nomi 
 >
 >Scopri cosa sta facendo Marketo Engage per [proteggere i moduli](https://nation.marketo.com/t5/Product-Documents/Forms-Service-Enhancements/ta-p/303670#M1038).
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-a-form-1.png)
 

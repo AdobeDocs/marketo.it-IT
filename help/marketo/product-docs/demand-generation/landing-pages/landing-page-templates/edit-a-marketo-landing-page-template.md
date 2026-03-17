@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720738
-description: Modificare un modello di pagina di destinazione di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare il modello di una pagina di destinazione di Marketo. Aggiornare i modelli in Design Studio per modificare il layout o il contenuto per le pagine future.
 title: Modificare un modello di pagina di destinazione Marketo
 exl-id: 247e057f-6da2-4415-a0b6-c0ffae3089fe
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '98'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 In Marketo puoi modificare qualsiasi modello di pagina di destinazione.
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passa a **[!UICONTROL Design Studio]**.
 
    ![](assets/designstudio.png)
 

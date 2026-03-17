@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720257
-description: Aggiungi [!DNL Facebook] Tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere tipi di pubblico personalizzati di Facebook come servizio LaunchPoint. Inviare elenchi Marketo a Facebook per utilizzarli come tipi di pubblico personalizzati nelle campagne pubblicitarie.
 title: 'Aggiungi [!DNL Facebook] tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] '
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 1%
+source-wordcount: '291'
+ht-degree: 2%
 
 ---
 

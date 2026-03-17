@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359736
-description: Aggiungere un collegamento a un’immagine di pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un collegamento a un’immagine in una pagina di destinazione in formato libero in Marketo. Rendi l’immagine cliccabile su un URL.
 title: Aggiungere un collegamento all’immagine di una pagina di destinazione in formato libero
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 

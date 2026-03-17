@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720856
-description: Aggiungere una visualizzazione mobile alla pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere una visualizzazione mobile per la pagina di destinazione in formato libero in Marketo. Ottimizza il layout di pagina per i dispositivi mobili.
 title: Aggiungere una visualizzazione per dispositivi mobili alla pagina di destinazione in formato libero
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 16%
+source-wordcount: '134'
+ht-degree: 19%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 16%
 >
 >La visualizzazione mobile funziona su schermi larghi 480 px (o meno). In altre parole, gli smartphone. Ecco altre [informazioni sulle risoluzioni dei dispositivi](https://www.mydevice.io/).
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -31,7 +31,7 @@ ht-degree: 16%
 
    ![](assets/image2015-1-22-15-3a38-3a12.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Mobile]**.
+1. Fai clic sulla scheda **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-16-3a46-3a10.png)
 

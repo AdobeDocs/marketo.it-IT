@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359673
-description: Aggiungere istruzioni di descrizione a un campo modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere istruzioni di descrizione a un campo modulo in Marketo. Mostra ulteriore aiuto quando i visitatori passano il cursore su un campo.
 title: Aggiungere istruzioni di descrizione a un campo modulo
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 14%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 14%
 >
 >Le **istruzioni** per il modulo sono descrizioni comandi che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-6.png)
 

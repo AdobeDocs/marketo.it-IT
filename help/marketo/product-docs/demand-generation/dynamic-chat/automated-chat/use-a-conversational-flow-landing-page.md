@@ -1,12 +1,12 @@
 ---
-description: Utilizzare una pagina di destinazione per il flusso conversazionale - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come incorporare un flusso conversazionale in una pagina di destinazione di Marketo. I visitatori possono pianificare le riunioni tramite Dynamic Chat senza compilare un modulo.
 title: Utilizzare una pagina di destinazione del flusso per conversazioni
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---

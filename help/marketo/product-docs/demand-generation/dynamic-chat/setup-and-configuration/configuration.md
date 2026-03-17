@@ -1,11 +1,11 @@
 ---
-description: Configurazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come personalizzare l’aspetto della finestra di dialogo di Dynamic Chat. Imposta colori, font, posizionamento, avatar e suoni di notifica.
 title: Configurazione
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---

@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2950555
-description: Modifica le impostazioni dei post avanzati di Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare le impostazioni dei post avanzati di Facebook in Marketo. Personalizza l’aspetto delle pagine di destinazione quando sono condivise su Facebook.
 title: Modificare le impostazioni dei post Rich di Facebook
 exl-id: f72bfb03-9bc7-46c4-bfb8-b377b2d23fc9
 hide: true
 hidefromtoc: true
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ Le _app social_ di Marketo consentono ai lead di condividere le pagine di destin
 
 Puoi specificare i tipi di informazioni sulla pagina da utilizzare nei [!DNL Facebook] post avanzati generati da condivisioni dalla pagina di destinazione.
 
-1. Seleziona **[!UICONTROL Facebook Message]** nell&#39;editor per il tuo video _&#x200B;_[!DNL YouTube_]_&#x200B;o pulsante social.
+1. Seleziona **[!UICONTROL Facebook Message]** nell&#39;editor per il tuo video __[!DNL YouTube_]_o pulsante social.
 
    ![](assets/image2014-9-22-16-3a47-3a21.png)
 

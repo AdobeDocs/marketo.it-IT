@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515266
-description: Creazione di una pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare una pagina di destinazione guidata in Marketo. Scegli un modello e crea la pagina con l’editor guidato.
 title: Creare una pagina di destinazione in formato guidato
 exl-id: 876735b7-1e71-4fd0-b5de-63e239bcfa30
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 13%
+source-wordcount: '184'
+ht-degree: 15%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 Le pagine di destinazione guidate possono essere create come risorse locali di un programma o in [!UICONTROL Design Studio] per essere utilizzate a livello globale.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one-1.png)
 
@@ -51,7 +51,7 @@ Le pagine di destinazione guidate possono essere create come risorse locali di u
 
 ## Creare una pagina di destinazione in Design Studio {#create-a-landing-page-in-design-studio}
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passa a **[!UICONTROL Design Studio]**.
 
    ![](assets/six.png)
 

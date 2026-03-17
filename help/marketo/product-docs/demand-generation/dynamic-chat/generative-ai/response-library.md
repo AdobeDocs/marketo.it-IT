@@ -1,12 +1,12 @@
 ---
-description: Libreria di risposte - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire la libreria di risposte per l’intelligenza artificiale generativa in Dynamic Chat. Aggiungi, modifica e approva domande e risposte per le campagne di chat.
 title: Libreria di risposta
 feature: Dynamic Chat
 exl-id: 774346fa-f633-48e8-a489-999404b6070b
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 2%
+source-wordcount: '363'
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ In un&#39;unica posizione, visualizzare tutte le domande, il loro stato di appro
 
    ![](assets/response-library-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Response library]**.
+1. Fai clic sulla scheda **[!UICONTROL Response library]**.
 
    ![](assets/response-library-2.png)
 

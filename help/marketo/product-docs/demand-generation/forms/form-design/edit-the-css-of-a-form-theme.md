@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359679
-description: Modificare il CSS di un tema modulo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come modificare il CSS di un tema di modulo in Marketo. Personalizzare l'aspetto del modulo con stili personalizzati.
 title: Modificare il CSS del tema di un modulo
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '176'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +19,7 @@ Hai alcuni [temi predefiniti tra cui puoi scegliere](/help/marketo/product-docs/
 >
 >Se desideri provare, assicurati di conoscere i file CSS, in quanto il supporto Marketo non è configurato per assistere nella codifica personalizzata. Inoltre, le modifiche apportate verranno applicate solo al modulo che si sta modificando.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -27,7 +27,7 @@ Hai alcuni [temi predefiniti tra cui puoi scegliere](/help/marketo/product-docs/
 
    ![](assets/image2014-9-15-14-3a37-3a7.png)
 
-1. Vai a **[!UICONTROL Form Settings]**.
+1. Passa a **[!UICONTROL Form Settings]**.
 
    ![](assets/image2014-9-15-14-3a37-3a42.png)
 

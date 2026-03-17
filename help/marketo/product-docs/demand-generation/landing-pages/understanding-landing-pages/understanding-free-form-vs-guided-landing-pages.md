@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7515207
-description: Informazioni sulle pagine di destinazione in formato libero e guidato - Documenti Marketo - Documentazione del prodotto
+description: Scopri le pagine di destinazione libere e guidate in Marketo. Scegli il tipo giusto per le tue esigenze di progettazione e flusso di lavoro.
 title: Informazioni sulle pagine di destinazione in formato libero e guidato
 exl-id: 1a71133a-1cd2-4d6c-94ad-df1f6f44e6d3
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '181'
 ht-degree: 6%
 
 ---

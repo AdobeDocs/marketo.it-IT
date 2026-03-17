@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359728
-description: Utilizzo delle guide per la progettazione di pagine di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come utilizzare le guide per la progettazione di pagine di destinazione in formato libero in Marketo. Allineare gli elementi e mantenere un layout coerente con le guide.
 title: Utilizzare le guide per la progettazione di pagine di destinazione in formato libero
 exl-id: 44c6a984-ae05-464c-905a-9e1b53f73f37
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 13%
+source-wordcount: '111'
+ht-degree: 12%
 
 ---
 

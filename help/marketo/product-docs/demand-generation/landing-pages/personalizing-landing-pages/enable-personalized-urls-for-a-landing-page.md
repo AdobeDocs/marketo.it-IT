@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359803
-description: Abilitare URL personalizzati per una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come abilitare URL personalizzati per una pagina di destinazione di Marketo. Consenti a ogni destinatario di avere un URL tracciabile univoco.
 title: Abilitare URL personalizzati per una pagina di destinazione
 exl-id: d87486f6-da49-406e-b1cf-781caba596c1
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 17%
+source-wordcount: '86'
+ht-degree: 16%
 
 ---
 

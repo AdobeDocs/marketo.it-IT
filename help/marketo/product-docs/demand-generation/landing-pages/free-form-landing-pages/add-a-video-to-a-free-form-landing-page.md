@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359722
-description: Aggiungere un video a una pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un video a una pagina di destinazione in formato libero in Marketo. Incorpora il contenuto video nella pagina di destinazione.
 title: Aggiungere un video a una pagina di destinazione in formato libero
 exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '227'
 ht-degree: 7%
 
 ---

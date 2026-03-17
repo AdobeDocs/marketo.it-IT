@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359606
-description: Eliminare un campo in un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eliminare un campo da un modulo di Marketo. Rimuovi dal modulo i campi non più necessari.
 title: Eliminare un campo in un modulo
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '78'
 ht-degree: 23%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 23%
 
 Se nel modulo è presente un campo non più necessario, è possibile eliminarlo facilmente. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 

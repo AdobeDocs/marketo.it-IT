@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980661
-description: Aggiungi Google Customer Match as a [!DNL LaunchPoint] Service - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere Customer Match di Google come servizio LaunchPoint. Invia i tipi di pubblico di Marketo a Google per il targeting su AdWords, YouTube, Search e Gmail.
 title: 'Aggiungi Google Customer Match come servizio  [!DNL LaunchPoint] '
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ Con questa integrazione, puoi inviare un pubblico Marketo a Google per il target
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai a **[!UICONTROL Admin]**.
+1. Passa a **[!UICONTROL Admin]**.
 
    ![](assets/admin.png)
 

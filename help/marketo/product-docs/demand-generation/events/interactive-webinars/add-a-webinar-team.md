@@ -1,11 +1,11 @@
 ---
-description: Aggiungere un team al webinar - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un team di webinar nei webinar interattivi. Assegna membri del gruppo per creare, gestire o distribuire webinar.
 title: Aggiungere un team per il webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '425'
+source-wordcount: '437'
 ht-degree: 2%
 
 ---

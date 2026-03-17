@@ -1,12 +1,12 @@
 ---
-description: Inviare un elenco a Google - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come inviare un elenco statico di Marketo a Google per Customer Match. Seleziona l’elenco, scegli Google e l’account dell’annuncio e, facoltativamente, mantieni sincronizzato il pubblico.
 title: Inviare un elenco a Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 6%
+source-wordcount: '226'
+ht-degree: 5%
 
 ---
 

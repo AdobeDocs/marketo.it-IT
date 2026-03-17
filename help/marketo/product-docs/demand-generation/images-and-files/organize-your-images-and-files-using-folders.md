@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359880
-description: Organizzazione di immagini e file tramite cartelle - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come organizzare immagini e file utilizzando le cartelle in Marketo. Creare cartelle in Design Studio per organizzare le risorse.
 title: Organizzazione di immagini e file mediante le cartelle
 exl-id: b2961d6b-8bc0-4376-b438-03d9fd26be72
 feature: Image Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 21%
+source-wordcount: '98'
+ht-degree: 24%
 
 ---
 

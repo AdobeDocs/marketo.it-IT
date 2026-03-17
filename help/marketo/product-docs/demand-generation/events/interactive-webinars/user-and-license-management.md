@@ -1,11 +1,11 @@
 ---
-description: Gestione di utenti e licenze - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire utenti e licenze per i webinar interattivi. Assegna l’accesso e gestisci chi può creare o inviare webinar.
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '717'
+source-wordcount: '728'
 ht-degree: 2%
 
 ---

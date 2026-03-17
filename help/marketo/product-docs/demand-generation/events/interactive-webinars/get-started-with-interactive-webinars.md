@@ -1,11 +1,11 @@
 ---
-description: 'Guida introduttiva ai webinar interattivi: documentazione di Marketo - Documentazione del prodotto'
+description: Introduzione ai webinar interattivi in Marketo. Scopri i prerequisiti, i concetti chiave e i passaggi per creare e distribuire il tuo primo webinar interattivo.
 title: Introduzione ai webinar interattivi
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

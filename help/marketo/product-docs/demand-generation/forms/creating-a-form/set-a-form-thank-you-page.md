@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359573
-description: Impostare una pagina di ringraziamento per il modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare una pagina di ringraziamento per il modulo in Marketo. Invia i mittenti a una pagina o a un URL specifico dopo l’invio del modulo.
 title: Impostare una pagina di ringraziamento del modulo
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '335'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Cosa succede quando qualcuno compila un modulo? A chi vengono inoltrati? Ecco co
 
 ## Modifica modulo {#edit-form}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 

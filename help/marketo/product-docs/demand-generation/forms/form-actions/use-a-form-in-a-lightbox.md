@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359677
-description: Utilizzare un modulo in un Lightbox - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare un modulo in una lightbox in Marketo. Visualizzare il modulo in una sovrapposizione a comparsa in una pagina di destinazione o in un sito Web.
 title: Utilizzare un modulo in un Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 15%
+source-wordcount: '107'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si desidera visualizzarlo. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-8.png)
 

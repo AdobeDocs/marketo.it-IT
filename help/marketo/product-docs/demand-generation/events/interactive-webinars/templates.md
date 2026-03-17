@@ -1,12 +1,12 @@
 ---
-description: Scopri come creare e implementare modelli nei webinar interattivi.
+description: Scopri come creare e implementare modelli nei webinar interattivi. Utilizza i modelli per standardizzare la progettazione dei webinar e velocizzare la creazione.
 title: Modelli per webinar interattivi
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 089902e937d32e6bca77f20296d9751bcc4ebdd6
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 0%
+source-wordcount: '306'
+ht-degree: 6%
 
 ---
 
@@ -18,11 +18,11 @@ Crea modelli facili da usare nei webinar interattivi per produrre contenuti più
 
 Prima che qualsiasi utente dell’organizzazione possa accedere ai modelli dei webinar interattivi, un amministratore di Marketo Engage deve innanzitutto aggiungere l’accesso ai ruoli desiderati.
 
-1. In Marketo Engage fare clic su **[!UICONTROL Amministratore]**.
+1. In Marketo Engage, fai clic su **[!UICONTROL Admin]**.
 
    ![](assets/templates-for-interactive-webinars-1.png)
 
-1. Fai clic su **[!UICONTROL Utenti e ruoli]**, quindi sulla scheda **[!UICONTROL Ruoli]**.
+1. Fare clic su **[!UICONTROL Users & Roles]**, quindi sulla scheda **[!UICONTROL Roles]**.
 
    ![](assets/templates-for-interactive-webinars-2.png)
 
@@ -34,21 +34,21 @@ Prima che qualsiasi utente dell’organizzazione possa accedere ai modelli dei w
 
    ![](assets/templates-for-interactive-webinars-4.png)
 
-1. Selezionare la casella di controllo **[!UICONTROL Accedi ai modelli di webinar interattivi]**.
+1. Selezionare la casella di controllo **[!UICONTROL Access Interactive Webinars Templates]**.
 
    ![](assets/templates-for-interactive-webinars-5.png)
 
 ## Creare un modello {#create-a-template}
 
-1. In Marketo Engage fare clic su **[!UICONTROL Design Studio]**.
+1. In Marketo Engage, fai clic su **[!UICONTROL Design Studio]**.
 
    ![](assets/templates-for-interactive-webinars-6.png)
 
-1. Fai clic su **[!UICONTROL Webinar interattivi]**.
+1. Fai clic su **[!UICONTROL Interactive Webinars]**.
 
    ![](assets/templates-for-interactive-webinars-7.png)
 
-1. Fare clic su **[!UICONTROL Gestisci modelli]**.
+1. Fai clic su **[!UICONTROL Manage Templates]**.
 
    ![](assets/templates-for-interactive-webinars-8.png)
 
@@ -90,15 +90,15 @@ Il modello viene salvato automaticamente.
 
 Per modificare un modello esistente, effettua le seguenti operazioni.
 
-1. In Marketo Engage fare clic su **[!UICONTROL Design Studio]**.
+1. In Marketo Engage, fai clic su **[!UICONTROL Design Studio]**.
 
    ![](assets/templates-for-interactive-webinars-16.png)
 
-1. Fai clic su **[!UICONTROL Webinar interattivi]**.
+1. Fai clic su **[!UICONTROL Interactive Webinars]**.
 
    ![](assets/templates-for-interactive-webinars-17.png)
 
-1. Fare clic su **[!UICONTROL Gestisci modelli]**.
+1. Fai clic su **[!UICONTROL Manage Templates]**.
 
    ![](assets/templates-for-interactive-webinars-18.png)
 

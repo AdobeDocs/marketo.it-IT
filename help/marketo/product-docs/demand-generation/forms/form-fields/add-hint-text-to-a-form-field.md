@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359671
-description: Aggiungere testo di suggerimento a un campo modulo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere testo di suggerimento a un campo modulo in Marketo. Mostra segnaposto o testo di supporto per guidare i visitatori.
 title: Aggiungere testo suggerimento a un campo modulo
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 14%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
@@ -23,7 +23,7 @@ Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/f
 >
 >Le **istruzioni** per il modulo sono piccole descrizioni che vengono visualizzate quando il visitatore passa il mouse sul campo.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 

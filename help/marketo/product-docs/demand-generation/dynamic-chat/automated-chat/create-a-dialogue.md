@@ -1,12 +1,12 @@
 ---
-description: Creare una finestra di dialogo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare una nuova finestra di dialogo in Dynamic Chat. Scegli un modello, imposta il nome e la priorità, quindi crea un flusso per la conversazione.
 title: Creare un dialogo
 feature: Dynamic Chat
 exl-id: 7de6ba05-39d5-41b9-921b-50bf5b2c5581
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 9%
+source-wordcount: '92'
+ht-degree: 7%
 
 ---
 

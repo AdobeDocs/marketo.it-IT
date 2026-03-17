@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098759
-description: Test degli annunci Facebook per l’integrazione mobile con Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come testare l’integrazione di Facebook Lead Ads per dispositivi mobili con Marketo. Verifica correttamente gli invii di annunci lead dalla sincronizzazione mobile.
 title: Testare gli annunci sponsorizzati di Facebook per l’integrazione per dispositivi mobili con Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 5%
+source-wordcount: '205'
+ht-degree: 4%
 
 ---
 

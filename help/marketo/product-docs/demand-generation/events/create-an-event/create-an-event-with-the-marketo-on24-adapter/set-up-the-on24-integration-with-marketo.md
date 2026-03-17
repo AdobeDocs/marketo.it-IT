@@ -1,11 +1,11 @@
 ---
-description: Configurare l'integrazione ON24 con Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come impostare l’integrazione di ON24 con Marketo. Connetti il tuo account ON24 per sincronizzare webinar e dati di registrazione.
 title: Configurare l’integrazione ON24 con Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '216'
 ht-degree: 8%
 
 ---
@@ -64,7 +64,7 @@ Ecco come configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Scegli un [!UICONTROL display name]. Fare clic sul menu a discesa **[!UICONTROL Service]** e selezionare **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [&#x200B; nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
+1. Scegli un [!UICONTROL display name]. Fare clic sul menu a discesa **[!UICONTROL Service]** e selezionare **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [ nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

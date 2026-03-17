@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11379622
-description: Configurare i lead Ads di Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare i lead Ads di Facebook con Marketo. Connetti il tuo account Facebook e sincronizza gli annunci lead inviati a Marketo.
 title: Configurare i lead sponsorizzati su Facebook
 exl-id: 24cb74da-6b46-45de-ba4a-66e3d490afd7
 feature: Integrations
-source-git-commit: 0e164542f45045f5259b2e9c068bd3bade150656
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '336'
 ht-degree: 4%
 
 ---

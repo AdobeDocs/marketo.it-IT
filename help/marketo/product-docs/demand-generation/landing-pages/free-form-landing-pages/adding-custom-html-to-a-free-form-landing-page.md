@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359730
-description: Aggiunta di HTML personalizzati a una pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere HTML personalizzato a una pagina di destinazione in formato libero in Marketo. Inserisci blocchi HTML per il contenuto personalizzato o il tracciamento.
 title: Aggiunta di HTML personalizzato a una pagina di destinazione in formato libero
 exl-id: 1bcb215b-d291-42a5-be74-2c78f151384e
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '158'
 ht-degree: 10%
 
 ---

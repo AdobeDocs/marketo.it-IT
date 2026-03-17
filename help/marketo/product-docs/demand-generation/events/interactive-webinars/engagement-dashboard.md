@@ -1,11 +1,11 @@
 ---
-description: Dashboard di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il dashboard del coinvolgimento dei webinar interattivi. Visualizza le metriche e le informazioni sul coinvolgimento dei partecipanti durante e dopo i webinar.
 title: Dashboard di coinvolgimento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1700'
+source-wordcount: '1712'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Visualizza il coinvolgimento per i seguenti tipi di sessioni in un webinar inter
 
 ## Visualizzare il dashboard {#view-the-dashboard}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/engagement-dashboard-1.png)
 
@@ -301,7 +301,7 @@ Comprendere i criteri per la classificazione del livello di coinvolgimento per c
     <li>Il partecipante ha posto almeno una domanda nel pod domande e risposte.</li></td>
   </tr>
   <tr>
-    <td>Canale</td>
+    <td>Media</td>
     <td>Partecipanti che soddisfano tutti i seguenti criteri:
     <li>Il livello di coinvolgimento del partecipante non è determinato come elevato.</li>
     <li>La durata della partecipazione è di almeno il 60% del tempo totale dell'evento.</li>

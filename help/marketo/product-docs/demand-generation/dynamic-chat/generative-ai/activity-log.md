@@ -1,12 +1,12 @@
 ---
-description: Registro attività - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il registro delle attività di IA generativa in Dynamic Chat. Visualizza tutte le attività, i proprietari, i tipi e la cronologia di modifica in un'unica posizione.
 title: Registro delle attività
 feature: Dynamic Chat
 exl-id: cddeccc3-3093-48b4-9b8a-13269b5b51e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 8%
+source-wordcount: '62'
+ht-degree: 11%
 
 ---
 
@@ -18,7 +18,7 @@ Visualizzare un elenco di tutte le attività e dei relativi dettagli di accompag
 
    ![](assets/activity-log-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Activity log]**.
+1. Fai clic sulla scheda **[!UICONTROL Activity log]**.
 
    ![](assets/activity-log-2.png)
 

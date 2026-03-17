@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096712
-description: Creare l’evento del webinar in ON24 - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare l’evento del webinar in ON24 per l’utilizzo con Marketo. Configurare l'evento in ON24 prima di eseguire la sincronizzazione con Marketo.
 title: Creare un evento webinar in ON24
 exl-id: a5211f11-c099-44a0-95eb-b43f10fa5c91
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 7%
+source-wordcount: '183'
+ht-degree: 6%
 
 ---
 

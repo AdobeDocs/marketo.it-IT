@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096683
-description: Aggiornamenti alla registrazione di eventi ON24 - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri gli aggiornamenti per la registrazione degli eventi ON24 e come vengono sincronizzati con Marketo. Mantieni sincronizzato lo stato di persona e programma quando le registrazioni cambiano.
 title: Aggiornamenti alla registrazione di un evento ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '261'
 ht-degree: 3%
 
 ---

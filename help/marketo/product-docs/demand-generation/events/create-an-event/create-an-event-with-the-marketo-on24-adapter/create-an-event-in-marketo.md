@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096725
-description: Creazione di un evento in Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare un evento in Marketo per l’integrazione ON24. Configura il programma e collegalo al tuo webinar ON24.
 title: Creare un evento in Marketo
 exl-id: c55116b7-dd65-439f-b7d4-63892fb940cb
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 7%
+source-wordcount: '149'
+ht-degree: 6%
 
 ---
 

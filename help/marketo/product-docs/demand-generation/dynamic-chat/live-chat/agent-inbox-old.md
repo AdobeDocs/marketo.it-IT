@@ -1,12 +1,12 @@
 ---
-description: Casella in entrata agente - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la casella in entrata dell’agente in cui gli agenti chat live inseriscono le conversazioni nel campo. Visualizza le chat attive e passate, le informazioni visitatore e imposta lo stato di disponibilità.
 title: Casella in entrata agente
 hide: true
 hidefromtoc: true
 feature: Dynamic Chat
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '317'
 ht-degree: 1%
 
 ---

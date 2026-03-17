@@ -1,19 +1,19 @@
 ---
 unique-page-id: 7516017
-description: Modello 1E - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il modello di pagina di destinazione guidata Modello 1E. Scarica e utilizzalo per le pagine di destinazione di Marketo.
 title: Modello 1E
 exl-id: 3ff781e3-2dc9-4581-b116-e588596c0249
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 8%
+source-wordcount: '60'
+ht-degree: 6%
 
 ---
 
 # Modello 1E {#template-1e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 1E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)
 
 ![](assets/image2015-5-29-9-3a14-3a40.png)
 
@@ -28,4 +28,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html?lang=it)
+[Modello 1E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1e.html)

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359543
-description: Aggiungere un campo a un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un campo a un modulo in Marketo. Aggiungi i campi modulo e mappali sugli attributi della persona o dell’azienda.
 title: Aggiungere un campo a un modulo
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '136'
 ht-degree: 12%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 12%
 
 Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} e [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, è possibile aggiungere altri campi da compilare. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/add-a-field-to-a-form-1.png)
 

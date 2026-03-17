@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10096656
-description: Creazione di un evento con l'adattatore Marketo ON24 - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare un evento con l’adattatore Marketo ON24. Collega i webinar ON24 a Marketo e sincronizza la registrazione e la partecipazione.
 title: Creare evento con l’adattatore ON24 Marketo
 exl-id: a240ff72-b12f-4e3a-8e14-94fddb02f944
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '284'
+source-wordcount: '293'
 ht-degree: 6%
 
 ---

@@ -1,12 +1,12 @@
 ---
-description: API per l’incorporamento di Adobe PDF - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare l’API di incorporamento di Adobe PDF per la scheda Documento in Dynamic Chat. Incorpora i PDF nelle finestre di dialogo e tieni traccia del coinvolgimento del documento.
 title: API Adobe PDF Embed
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 7%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 

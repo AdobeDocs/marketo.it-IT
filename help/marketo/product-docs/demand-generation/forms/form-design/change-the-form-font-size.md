@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359610
-description: Modificare le dimensioni del carattere del modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare la dimensione del font del modulo in Marketo. Regolare le dimensioni del testo nelle etichette e nei campi dei moduli.
 title: Modificare le dimensioni del font del modulo
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '117'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibil
 >
 >Questa impostazione ha effetto sull&#39;etichetta del modulo, sul testo di input e sul testo del pulsante Invia.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

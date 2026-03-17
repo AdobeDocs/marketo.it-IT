@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359726
-description: Modifica titolo e metadati della pagina di destinazione - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare il titolo e i metadati della pagina di destinazione in Marketo. Aggiorna il titolo della pagina e la descrizione meta per SEO (Search Engine Optimization) e visualizzazione.
 title: Modificare titolo e metadati della pagina di destinazione
 exl-id: dc31eeee-fd96-4721-b346-c3cde0383fea
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 11%
+source-wordcount: '128'
+ht-degree: 10%
 
 ---
 

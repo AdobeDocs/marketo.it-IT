@@ -1,19 +1,19 @@
 ---
 unique-page-id: 2359724
-description: Approvare più pagine di destinazione alla volta - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come approvare più pagine di destinazione contemporaneamente in Marketo. Approva in blocco le pagine per renderle live rapidamente.
 title: Approvare più pagine di destinazione alla volta
 exl-id: 0ce831fd-29e5-4bf9-96a9-c955e4a32ddb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '90'
 ht-degree: 16%
 
 ---
 
 # Approvare più pagine di destinazione alla volta {#approve-multiple-landing-pages-at-once}
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passa a **[!UICONTROL Design Studio]**.
 
    ![](assets/approve-multiple-landing-pages-at-once-1.png)
 

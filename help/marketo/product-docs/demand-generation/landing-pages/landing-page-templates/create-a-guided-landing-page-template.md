@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515401
-description: Creare un modello di pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un modello di pagina di destinazione guidata in Marketo. Utilizza la sintassi per definire aree e variabili modificabili per l’editor guidato.
 title: Creare un modello di pagina di destinazione in formato guidato
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1122'
-ht-degree: 2%
+source-wordcount: '1135'
+ht-degree: 15%
 
 ---
 
@@ -34,7 +34,7 @@ Se si definisce un&#39;area come Rich Text, gli utenti potranno modificarne il c
 
 Attributi richiesti:
 **classe**: &quot;mktoText&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
@@ -48,26 +48,26 @@ Esempio:
 
 Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un tag `<div>`, che specifica un contenitore in cui verrà inserita l&#39;immagine, oppure un tag `<img>`.
 
-## Opzione 1 - Utilizzare `<div>` {#option-use-a-div}
+## Opzione 1: Utilizzare un elemento `<div>` {#option-use-a-div}
 
 Attributi richiesti:
 
 class: &quot;mktoImg&quot;
-id: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+id: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
-mktoImgClass: Stringa. Il valore verrà aggiunto all&#39;attributo class dell&#39;elemento `<img>` all&#39;interno del div.
+mktoImgClass: Stringa. Il valore verrà aggiunto all’attributo classe dell’elemento `<img>` all’interno del div.
 
 Esempio:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Opzione 2 - Utilizzare un `<img>` {#option-use-a-img}
+## Opzione 2: Utilizzare un elemento `<img>` {#option-use-a-img}
 
 Attributi richiesti:
 class: &quot;mktoImg&quot;
-id: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+id: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
@@ -85,7 +85,7 @@ Esempio:
 
 Attributi :Required di esempio:
 **classe**: &quot;mktoForm&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 `<div class="mktoForm" id="exampleForm" mktoName="Example Form"></div>`
@@ -94,7 +94,7 @@ Attributi :Required di esempio:
 
 Attributi richiesti:
 **class**: &quot;mktoSnippet&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
@@ -105,7 +105,7 @@ Esempio:
 
 Attributi richiesti:
 **classe**: &quot;mktoShareButton&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
@@ -120,7 +120,7 @@ Esempio:
 
 Attributi richiesti:
 **classe**: &quot;mktoVideo&quot;
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Esempio:
@@ -143,7 +143,7 @@ Le variabili sono dichiarate come metatag nell&#39;elemento `<head>` del modello
 
 Attributi obbligatori:
 **classe**: &quot;mktoString&quot;,
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
@@ -162,7 +162,7 @@ Esempio con tutti gli attributi:
 
 Attributi obbligatori:
 **classe**: &quot;mktoColor&quot;,
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
@@ -180,7 +180,7 @@ Esempio con tutti gli attributi:
 
 Attributi obbligatori:
 **class** : &quot;mktoBoolean&quot;,
-**id**: stringa ID. Contiene solo lettere, numeri, trattini &quot;-&quot; e trattini bassi &quot;_&quot;. Non sono consentiti spazi. Deve essere univoco.
+**id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
 **mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:

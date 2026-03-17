@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359815
-description: Esportare un elenco con URL personalizzati - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come esportare un elenco con URL personalizzati da Marketo. Ottieni un elenco di destinatari con i loro URL univoci della pagina di destinazione.
 title: Esportare un elenco con URL personalizzati
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '172'
+ht-degree: 6%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11383953
-description: Configurare le conversioni offline di Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare le conversioni offline di Facebook in Marketo. Invia i dati di conversione da Marketo a Facebook per l’ottimizzazione degli annunci.
 title: Configurare le conversioni offline di Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 3%
+source-wordcount: '292'
+ht-degree: 4%
 
 ---
 
@@ -56,7 +56,7 @@ Inviando di nuovo i dati di conversione offline a [!DNL Facebook] per le persone
 
 ## Configurazione Modeler del ciclo dei ricavi {#revenue-cycle-modeler-configuration}
 
-1. Vai a **[!UICONTROL Analytics]**.
+1. Passa a **[!UICONTROL Analytics]**.
 
    ![](assets/image2016-11-29-13-3a29-3a23.png)
 

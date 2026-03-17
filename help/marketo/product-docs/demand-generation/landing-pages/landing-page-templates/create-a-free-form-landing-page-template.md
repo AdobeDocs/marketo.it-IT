@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097969
-description: Creare un modello di pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare un modello di pagina di destinazione in formato libero in Marketo. Crea un modello riutilizzabile in Design Studio per le pagine di destinazione future.
 title: Creare un modello di pagina di destinazione in formato libero
 exl-id: bf633c86-6087-44bf-aaa2-63173154f0aa
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '189'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Le pagine di destinazione in formato libero richiedono meno conoscenze tecniche delle relative controparti guidate. Per creare un modello per le pagine di destinazione future, segui i passaggi indicati di seguito.
 
-1. Vai a **[!UICONTROL Design Studio]**.
+1. Passa a **[!UICONTROL Design Studio]**.
 
    ![](assets/one.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359592
-description: Riordinare i campi in un modulo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come riordinare i campi in un modulo di Marketo. Trascinare per modificare l'ordine dei campi modulo.
 title: Riordinare i campi in un modulo
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '80'
 ht-degree: 20%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 È facile riordinare i campi in un modulo Marketo. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

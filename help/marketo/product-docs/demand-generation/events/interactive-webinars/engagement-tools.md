@@ -1,12 +1,12 @@
 ---
-description: Scopri i vari strumenti di coinvolgimento nei webinar interattivi.
+description: Scopri gli strumenti di coinvolgimento nei webinar interattivi. Utilizza sondaggi, domande e risposte e altre funzioni per migliorare l’interazione dei partecipanti durante i webinar.
 title: Strumenti di coinvolgimento nei webinar interattivi
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '1270'
+source-wordcount: '1280'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472283
-description: Personalizzare la visualizzazione mobile della pagina di destinazione in formato libero - Documenti Marketo - Documentazione del prodotto
+description: Scopri come personalizzare la visualizzazione mobile per la pagina di destinazione in formato libero in Marketo. Regola il layout e il contenuto per i visitatori di dispositivi mobili.
 title: Personalizzare la visualizzazione per dispositivi mobili della pagina di destinazione in formato libero
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '355'
-ht-degree: 5%
+source-wordcount: '363'
+ht-degree: 7%
 
 ---
 
@@ -27,7 +27,7 @@ La visualizzazione mobile della pagina di destinazione in formato libero è per 
 
    ![](assets/image2015-1-22-18-3a33-3a12.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Mobile]**.
+1. Fai clic sulla scheda **[!UICONTROL Mobile]**.
 
    ![](assets/image2015-1-22-18-3a31-3a40.png)
 
@@ -107,7 +107,7 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
    >
    >L’anteprima non è interattiva. Ogni smartphone mostra le cose in modo leggermente diverso. Consigliamo di visualizzare l’anteprima della pagina di destinazione su alcuni dispositivi per vedere esattamente come si comporta.
 
-Divertitevi!
+Buon lavoro!
 
 >[!MORELIKETHIS]
 >

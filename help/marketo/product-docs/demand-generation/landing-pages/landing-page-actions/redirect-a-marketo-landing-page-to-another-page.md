@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359740
-description: Reindirizzare una pagina di destinazione Marketo a un’altra pagina - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come reindirizzare una pagina di destinazione di Marketo a un’altra pagina. Invia i visitatori a un URL diverso quando arrivano sulla pagina.
 title: Reindirizzare una pagina di destinazione Marketo a un’altra pagina
 exl-id: fe744546-d075-4686-bf42-543bb3624dbb
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 12%
+source-wordcount: '148'
+ht-degree: 13%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949841
-description: Informazioni sui programmi di eventi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i programmi per eventi in Marketo. Scopri la struttura, i canali e come pianificare ed eseguire eventi e webinar.
 title: Informazioni sui programmi evento
 exl-id: 7d62accd-ab2f-46f7-998e-9145c4c11cbc
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 9%
+source-wordcount: '108'
+ht-degree: 8%
 
 ---
 

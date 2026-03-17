@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720275
-description: Creare un pubblico personalizzato in Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un pubblico personalizzato in Facebook da Marketo. Inviare elenchi Marketo a Facebook per campagne pubblicitarie mirate.
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '229'
 ht-degree: 6%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095239
-description: Utilizzare filtri e attivatori per annunci in una campagna intelligente - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i filtri e i trigger degli annunci lead di Facebook in una campagna intelligente Marketo. Automatizza le azioni quando i lead inviano da Facebook.
 title: Utilizzare filtri e attivatori per annunci sponsorizzati in una campagna avanzata
 exl-id: 3f711801-e03d-48e2-a48d-1007d4d7a556
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 26%
+source-wordcount: '84'
+ht-degree: 23%
 
 ---
 

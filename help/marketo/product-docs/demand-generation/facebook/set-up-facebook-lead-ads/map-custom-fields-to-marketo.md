@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12983101
-description: Mappatura di campi personalizzati su Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come mappare i campi personalizzati degli annunci lead di Facebook su Marketo. Assicurati che i dati dei lead ad siano mappati sui campi persona corretti in Marketo.
 title: Mappare campi personalizzati su Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 5%
+source-wordcount: '248'
+ht-degree: 6%
 
 ---
 

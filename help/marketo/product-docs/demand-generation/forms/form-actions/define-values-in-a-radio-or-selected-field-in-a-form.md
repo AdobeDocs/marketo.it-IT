@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359614
-description: Definire i valori in una radio o in un campo selezionato in un modulo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come definire i valori in un campo a discesa o a scelta in un modulo di Marketo. Imposta le opzioni tra cui i visitatori possono scegliere.
 title: Definire i valori in un pulsante di scelta o campo selezionato in un modulo
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '179'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Dopo aver [impostato un tipo di campo](/help/marketo/product-docs/administration/field-management/change-the-type-of-a-marketo-custom-field.md) come pulsante di scelta o tipo di selezione, è necessario definire i valori tra cui l&#39;utente può scegliere. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

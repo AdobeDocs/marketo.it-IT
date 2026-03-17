@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359637
-description: Eliminare un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eliminare un modulo in Marketo. Rimuovi dall’istanza i moduli non più necessari.
 title: Eliminare un modulo
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 6%
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Se si dispone di un modulo non necessario e non utilizzato, è possibile eliminarlo. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 

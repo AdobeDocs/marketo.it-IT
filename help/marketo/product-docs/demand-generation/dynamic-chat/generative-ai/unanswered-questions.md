@@ -1,12 +1,12 @@
 ---
-description: Domande senza risposta - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare e rispondere a domande chatbot senza risposta o non utili. Da questo elenco puoi aggiungere nuove risposte approvate alla libreria di risposte.
 title: Domande senza risposta
 feature: Dynamic Chat
 exl-id: 2f0f61a5-8c82-437c-af78-4c2ccc74d135
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 3%
+source-wordcount: '118'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ Vedi tutte le domande a cui il chatbot non ha risposto e/o quelle a cui i visita
 
    ![](assets/unanswered-questions-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Unanswered questions]**.
+1. Fai clic sulla scheda **[!UICONTROL Unanswered questions]**.
 
    ![](assets/unanswered-questions-2.png)
 

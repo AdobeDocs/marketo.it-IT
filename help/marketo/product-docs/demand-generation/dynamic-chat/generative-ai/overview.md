@@ -1,11 +1,11 @@
 ---
-description: Panoramica generativa sull’intelligenza artificiale - Documenti Marketo - Documentazione del prodotto
+description: Scopri l’intelligenza artificiale generativa in Dynamic Chat per la produttività degli agenti e le intenzioni dei visitatori. Utilizza le schede di risposta, il riepilogo delle conversazioni e le risposte assistite.
 title: IA generativa in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '463'
 ht-degree: 2%
 
 ---

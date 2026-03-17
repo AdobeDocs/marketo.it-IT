@@ -1,14 +1,14 @@
 ---
 unique-page-id: 2359616
-description: Abilitare la compilazione di moduli social network in un modulo - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come abilitare la compilazione di moduli social per consentire ai visitatori di inviare moduli utilizzando il proprio social network. Ottieni dati di lead aggiuntivi e dai ai visitatori un’esperienza più rapida.
 title: Abilitare la compilazione di un modulo di contatto in un modulo
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
 hidefromtoc: true
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '125'
 ht-degree: 14%
 
 ---
@@ -21,7 +21,7 @@ Consenti ai visitatori di compilare il modulo utilizzando il proprio social netw
 >
 >Non tutti gli utenti di Marketo Engage hanno acquistato questa funzionalità. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

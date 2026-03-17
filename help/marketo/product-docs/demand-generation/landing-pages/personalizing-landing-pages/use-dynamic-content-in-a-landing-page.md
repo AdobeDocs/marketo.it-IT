@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359532
-description: Utilizzare il contenuto dinamico in una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i contenuti dinamici in una pagina di destinazione di Marketo. Mostrare contenuti diversi a segmenti o visitatori diversi.
 title: Utilizzare il contenuto dinamico in una pagina di destinazione
 exl-id: 9f71473b-1805-43ab-b2d7-e4f9854f1944
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 8%
+source-wordcount: '186'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ L’utilizzo di contenuti dinamici nelle pagine di destinazione coinvolge le per
 
 ## Aggiungi segmentazione {#add-segmentation}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

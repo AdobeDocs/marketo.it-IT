@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096658
-description: Informazioni sugli eventi dell'adattatore Marketo On24 - Documentazione Marketo - Documentazione del prodotto
+description: Scopri l’adattatore Marketo ON24 e come collega i webinar ON24 a Marketo. Comprendere i tipi di evento e il comportamento di sincronizzazione.
 title: Informazioni sugli eventi con adattatore ON24 Marketo
 exl-id: 00c3ac54-b139-4cff-af53-d4d83d2610f9
 feature: Events
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 7%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Funzioni GenAI - Documentazione Marketo - Documentazione del prodotto
+description: Scopri le funzioni GenAI nei webinar interattivi. Utilizza l’intelligenza artificiale per migliorare il contenuto del webinar, i riepiloghi o il coinvolgimento.
 title: Funzioni GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 6350137c2abfb46a0a8451772a8dc08391f3e4b5
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Dopo aver accettato i termini e le condizioni di Adobe GenAI, il passaggio succe
 
 ![](assets/gen-ai-features-1.png){width="800" zoomable="yes"}
 
-## Come accedere {#how-to-access}
+## Come accedervi {#how-to-access}
 
 1. Vai alla pagina della panoramica del webinar nei webinar interattivi di Marketo Engage.
 

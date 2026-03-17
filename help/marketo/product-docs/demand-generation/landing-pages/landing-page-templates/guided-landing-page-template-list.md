@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7515616
-description: Elenco modelli pagina di destinazione guidata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri l’elenco dei modelli di pagine di destinazione guidate in Marketo. Sfoglia e scarica modelli per le pagine di destinazione.
 title: Elenco dei modelli di pagina di destinazione in formato guidato
 exl-id: 93893c9c-dda2-4d18-b74c-e47388ed552c
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '338'
-ht-degree: 64%
+source-wordcount: '347'
+ht-degree: 62%
 
 ---
 

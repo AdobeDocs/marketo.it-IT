@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359618
-description: Aggiungere testo formattato a un modulo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere testo RTF a un modulo di Marketo. Inserire intestazioni, collegamenti o istruzioni sopra o sotto i campi modulo.
 title: Aggiungere testo formattato a un modulo
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '102'
 ht-degree: 17%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 17%
 
 Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informazioni tra i campi. Guarda un po&#39;.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 

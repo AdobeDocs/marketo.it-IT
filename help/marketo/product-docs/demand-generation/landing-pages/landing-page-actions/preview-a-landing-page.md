@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359716
-description: Anteprima di una pagina di destinazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come visualizzare in anteprima una pagina di destinazione in Marketo. Guarda come si presenta e si comporta la pagina prima di pubblicarla.
 title: Visualizzaare in anteprima una pagina di destinazione
 exl-id: fa786e68-9dd6-479d-9e9b-5acd3e323cef
 feature: Landing Pages
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 10%
+source-wordcount: '141'
+ht-degree: 9%
 
 ---
 
