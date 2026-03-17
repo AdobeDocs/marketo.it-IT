@@ -95,7 +95,7 @@ Sì! [Scopri come](https://nation.marketo.com/t5/product-blogs/using-dynamic-cha
 Dynamic Chat utilizza più termini. Le definizioni per molti di loro si trovano negli articoli di aiuto delle rispettive aree.
 
 * Termini di Analytics come &quot;Persone acquisite&quot; [sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
-* Le definizioni di attivatore/filtro dell&#39;elenco smart [ sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Le definizioni di attivatore/filtro dell&#39;elenco smart [&#x200B; sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Le descrizioni delle varie schede Stream Designer [sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Posso usare Dynamic Chat senza Marketo Engage?**

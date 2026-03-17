@@ -46,7 +46,7 @@ Sono disponibili _molte_ combinazioni di attributi tra cui scegliere. Nell’ese
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _[!UICONTROL Is]_&#x200B;è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-8.png)
 
@@ -88,7 +88,7 @@ Esiste un modo semplice per eseguire il targeting specifico delle persone che no
    >
    >Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di buone informazioni.
 
-1. _[!UICONTROL Is]_è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _[!UICONTROL Is]_&#x200B;è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-15.png)
 
