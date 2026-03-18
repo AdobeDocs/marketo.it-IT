@@ -147,7 +147,7 @@ Utilizza il componente **[!UICONTROL Image]** per inserire un file immagine dal 
 
 1. Dalla scheda **[!UICONTROL Settings]**, fai clic su **[!UICONTROL Browse]** per scegliere un file di immagine dalle risorse oppure su **[!UICONTROL Import media]** per caricare una risorsa in Adobe Experience Manager Assets.
 
-   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
+   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=it){target="_blank"}.
 
    >[!NOTE]
    >
