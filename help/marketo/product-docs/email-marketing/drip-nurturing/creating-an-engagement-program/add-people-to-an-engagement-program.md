@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359782
-description: Aggiungere persone a un programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come le persone diventano membri dei programmi di coinvolgimento. Utilizzare passaggi di flusso, moduli, importazioni o campagne Salesforce per aggiungere membri.
 title: Aggiungere persone a un programma di coinvolgimento
 exl-id: b589b566-a61f-48c2-afb5-a2d82b2a28c4
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 12%
+source-wordcount: '109'
+ht-degree: 11%
 
 ---
 

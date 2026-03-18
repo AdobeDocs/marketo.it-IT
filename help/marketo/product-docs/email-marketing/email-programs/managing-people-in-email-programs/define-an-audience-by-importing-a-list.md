@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900597
-description: Definire un pubblico importando un elenco - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come definire un pubblico per un programma e-mail importando un elenco. Utilizza elenchi statici o caricati per eseguire il targeting dell’invio.
 title: Definire un pubblico importando un elenco
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '373'
 ht-degree: 15%
 
 ---
@@ -25,7 +25,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >Tutti i campi data/ora importati vengono trattati come ora centrale. Se sono presenti campi data/ora in un fuso orario diverso, puoi utilizzare una formula di Excel per trasformarla in Ora centrale (America/Chicago).
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

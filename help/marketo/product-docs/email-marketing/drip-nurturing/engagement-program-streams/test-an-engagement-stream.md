@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359839
-description: Test di un flusso di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come testare un flusso di coinvolgimento con una persona di test. Utilizza Azioni programma ed Esegui cast per inviare contenuti e verificare le regole di transizione.
 title: Testare un flusso di coinvolgimento
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 5%
+source-wordcount: '158'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla volta.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 

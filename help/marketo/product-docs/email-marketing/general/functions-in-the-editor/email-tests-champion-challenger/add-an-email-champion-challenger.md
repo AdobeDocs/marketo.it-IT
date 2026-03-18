@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359553
-description: Aggiungere un Email Champion/Challenger - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un test e-mail Champion/Challenger. Imposta più varianti e definisci come viene scelto il vincitore.
 title: Aggiungere un’e-mail campione/sfidante
 exl-id: 69c4a146-5d76-44c3-a63c-4e15f8b9aeb1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 5%
+source-wordcount: '211'
+ht-degree: 7%
 
 ---
 
@@ -21,14 +21,14 @@ Ecco come iniziare.
 
 >[!PREREQUISITES]
 >
->* [Crea un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
+>* [Creare un programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md)
 >* [Crea un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)
 
 >[!CAUTION]
 >
 >Le e-mail dei campioni/sfidanti funzionano solo con campagne di trigger e flussi di programmi di coinvolgimento. Per gli invii in batch, utilizza la funzionalità di test [A/B del programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/email-test-a-b-test/add-an-a-b-test.md).
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

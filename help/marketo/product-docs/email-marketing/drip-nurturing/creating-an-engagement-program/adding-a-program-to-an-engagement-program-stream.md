@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10098134
-description: Aggiunta di un programma a un flusso di programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i programmi nidificati nei flussi di coinvolgimento e quando utilizzarli. Aggiungi programmi per sottogruppi, passaggi multi-touch e di flusso aggiuntivo.
 title: Aggiunta di un programma a un flusso di programma di coinvolgimento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '453'
-ht-degree: 3%
+source-wordcount: '462'
+ht-degree: 4%
 
 ---
 
@@ -57,5 +57,5 @@ La generazione di rapporti sulle modifiche con la posizione dell’e-mail. Quind
 
 >[!MORELIKETHIS]
 >
->* [Aggiungi contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+>* [Aggiungere contenuti a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
 >* [Informazioni sui programmi](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.md)

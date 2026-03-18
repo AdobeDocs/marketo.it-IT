@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359502
-description: Utilizzare il test A/B "E-mail intera" - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eseguire test A/B per e-mail intere. Verifica diverse versioni di e-mail e scegli un vincitore in base ai criteri scelti.
 title: Utilizzare il test A/B “E-mail intera”
 exl-id: 28e5f0e0-702d-4e1d-add8-6bf61752ca5b
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '269'
 ht-degree: 6%
 
 ---
@@ -45,11 +45,11 @@ Puoi testare facilmente le e-mail tramite test A/B. Un ottimo test è il test **
 
 1. Seleziona la seconda e-mail.
 
-   [&#128279;](assets/image2014-9-12-15-3a23-3a49.png)
+   [](assets/image2014-9-12-15-3a23-3a49.png)
 
 1. Fare clic su **[!UICONTROL Add]** per applicare la seconda e-mail. Trascina il cursore per scegliere la percentuale del pubblico che desideri ricevere il test A/B e fai clic su **[!UICONTROL Next]**.
 
-   [&#128279;](assets/image2014-9-12-15-3a24-3a1.png)
+   [](assets/image2014-9-12-15-3a24-3a1.png)
 
    >[!NOTE]
    >

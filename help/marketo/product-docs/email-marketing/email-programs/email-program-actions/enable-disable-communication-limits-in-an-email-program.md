@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359596
-description: Abilitare/disabilitare i limiti di comunicazione in un programma e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come abilitare o disabilitare i limiti di comunicazione in un programma e-mail. Controlla la frequenza con cui le persone possono ricevere e-mail dal programma.
 title: Abilitare/disabilitare i limiti di comunicazione in un programma e-mail
 exl-id: 25427978-33a0-4153-ad66-b34f9549e794
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 12%
+source-wordcount: '137'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ Quando esegui un programma e-mail, puoi scegliere di ignorare o rispettare i [li
 >
 >I limiti di comunicazione sono [impostati nella sezione Amministratore](/help/marketo/product-docs/administration/email-setup/enable-communication-limits.md) e ti aiutano a evitare di inviare troppe e-mail a una persona.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359494
-description: Utilizzare il test A/B "Subject Line" - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eseguire i test A/B dell’oggetto nei programmi e-mail. Testare diverse righe dell'oggetto e scegliere un vincitore in base alle prestazioni.
 title: Utilizzare il test A/B “Oggetto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 5%
+source-wordcount: '243'
+ht-degree: 4%
 
 ---
 

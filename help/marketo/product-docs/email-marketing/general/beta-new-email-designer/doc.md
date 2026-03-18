@@ -1,12 +1,12 @@
 ---
-description: Documento temp - Documentazione Marketo - Documentazione del prodotto
+description: Documento temporaneo per la nuova versione beta di Email Designer. Aggiungi le risorse e utilizza la finestra di progettazione per i test beta (nascondi dal sommario).
 title: Documento temp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

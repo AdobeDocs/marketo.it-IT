@@ -1,11 +1,12 @@
 ---
-description: Modalità scura - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come progettare le e-mail per la modalità scura in E-mail Designer. Imposta la visualizzazione personalizzata in modalità scura per il supporto dei client e-mail.
 title: Modalità scura
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 77008ff8d8f7c577f48b508737e1b8eb2ac1e5ce
+exl-id: 9dc1bce2-c363-46ca-83ef-ee4695ee647f
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1195'
+source-wordcount: '1210'
 ht-degree: 1%
 
 ---

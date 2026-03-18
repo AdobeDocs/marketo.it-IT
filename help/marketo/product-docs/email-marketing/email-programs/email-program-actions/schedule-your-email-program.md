@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359455
-description: Pianificazione del programma e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare il programma e-mail. Imposta la data e l’ora per la consegna e, facoltativamente, utilizza il fuso orario del destinatario.
 title: Pianificare il programma e-mail
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '140'
+ht-degree: 8%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 7%
 
 Dopo aver creato il programma di posta elettronica, definito il pubblico e selezionato l&#39;indirizzo di posta elettronica, è possibile comunicare al programma *quando* inviare l&#39;indirizzo di posta elettronica. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

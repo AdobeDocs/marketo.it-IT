@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359476
-description: Utilizzare la dashboard del programma e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare la dashboard del programma e-mail per visualizzare le prestazioni. Monitora subito le aperture, i clic e altre metriche.
 title: Utilizzare la dashboard del programma e-mail
 exl-id: 47c1925a-144b-4277-a08d-1af660ed3d50
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '404'
 ht-degree: 2%
 
 ---

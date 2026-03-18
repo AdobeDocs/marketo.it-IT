@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359520
-description: Utilizzare il test A/B "Date/Time" (Data/Ora) - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eseguire test A/B data/ora per i programmi e-mail. Verifica diversi tempi di invio e scegli un vincitore in base alle prestazioni.
 title: Utilizzare il test A/B “Data/ora”
 exl-id: ee686d46-9427-4f8b-a16f-858c5109cabd
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '261'
 ht-degree: 4%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359462
-description: Approvare/Annullare l’approvazione di un programma e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come approvare o annullare l’approvazione di un programma e-mail. Completa il flusso di lavoro di approvazione in modo che il programma possa essere pianificato e inviato.
 title: Approvare/Annullare l’approvazione di un programma e-mail
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 7%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 5%
 
 Ora che il programma è pronto, il passaggio finale è quello di approvarlo. Ecco come:
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 
@@ -53,7 +53,7 @@ Ora che il programma è pronto, il passaggio finale è quello di approvarlo. Ecc
 
 Se cambi idea e decidi di non volerla uscire, puoi annullare l’approvazione del programma e-mail.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900587
-description: Utilizzare gli indirizzi IP dedicati per inviare e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare indirizzi IP dedicati per l’invio di e-mail in Marketo. Ottieni l’assistenza dei consulenti di recapito messaggi per il riscaldamento dell’IP e la configurazione DNS.
 title: Utilizzare i tuoi indirizzi IP dedicati per inviare e-mail
 exl-id: cc83cf43-8b6d-4869-9c4f-7f3d2cd82dfa
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '428'
 ht-degree: 4%
 
 ---
@@ -42,4 +42,4 @@ Per massimizzare il recapito messaggi a lungo termine, i consulenti di recapito 
 
 >[!CAUTION]
 >
->Se si verifica un numero elevato di mancati recapiti o qualsiasi altro problema, contattare il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Se desideri un supporto più mirato per scoprire come mantenere un database pulito e aumentare il coinvolgimento con il programma, puoi ricorrere ai consulenti per il recapito e-mail di Marketo per un pacchetto di servizi personalizzati.
+>Se si verifica un numero elevato di mancati recapiti o qualsiasi altro problema, contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support). Se desideri un supporto più mirato per scoprire come mantenere un database pulito e aumentare il coinvolgimento con il programma, puoi ricorrere ai consulenti per il recapito e-mail di Marketo per un pacchetto di servizi personalizzati.

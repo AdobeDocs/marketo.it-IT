@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359659
-description: Aggiungere contenuto a un flusso - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere e-mail o programmi a un flusso di programmi di coinvolgimento. Utilizza il pulsante Aggiungi contenuto o l’icona più per creare la tua cultura.
 title: Aggiungere contenuto a un flusso
 exl-id: b2db9f49-2baa-4d42-9755-480390a91041
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 7%
+source-wordcount: '175'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Dopo aver creato il programma di coinvolgimento, devi aggiungere il contenuto ai flussi. Puoi aggiungere e-mail o programmi a un flusso.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/add-content-to-a-stream-1.png)
 

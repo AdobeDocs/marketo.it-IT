@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10912237
-description: Panoramica del selettore dei modelli e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri il selettore dei modelli e-mail in Editor e-mail 2.0. Scegli uno dei modelli per creare nuove e-mail.
 title: Panoramica del selettore di modelli e-mail
 exl-id: 6bfedd73-8b77-469d-9055-f925e2c2a7f1
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '258'
-ht-degree: 3%
+source-wordcount: '267'
+ht-degree: 4%
 
 ---
 
@@ -65,5 +65,5 @@ Abbastanza pulito!
 
 >[!MORELIKETHIS]
 >
->* [Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Sintassi del modello per e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
 >* [Crea un&#39;e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/create-an-email.md)

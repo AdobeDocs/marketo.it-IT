@@ -1,14 +1,14 @@
 ---
-description: Authoring delle e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le funzioni di authoring delle e-mail nel nuovo Email Designer. Creare, personalizzare e visualizzare in anteprima le e-mail in Marketo Engage.
 title: Authoring di e-mail
 hide: true
 hidefromtoc: true
 feature: Email Editor
 exl-id: bfa8d9c2-93d7-494c-ac5e-f743894c58e7
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1486'
-ht-degree: 1%
+source-wordcount: '1497'
+ht-degree: 4%
 
 ---
 
@@ -22,9 +22,9 @@ Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuo
 
 >[!PREREQUISITES]
 >
->Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell&#39;account Adobe (il tuo account manager) o il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo abbonamento non è ancora stato migrato e desideri velocizzarne il processo, contatta il team di Adobe Account (il tuo account manager) o l’[assistenza Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
-## Creare un messaggio e-mail {#create-an-email}
+## Creare un’e-mail {#create-an-email}
 
 1. Accedi a Marketo Engage tramite [Adobe Experience Cloud](https://experiencecloud.adobe.com/){target="_blank"}.
 
@@ -84,7 +84,7 @@ Puoi importare contenuti HTML esistenti per progettare i messaggi e-mail. Il con
 
 >[!NOTE]
 >
->La struttura del file .zip non è soggetta a vincoli. Tuttavia, i riferimenti devono essere relativi e adattarsi alla struttura ad albero della cartella .zip.
+>La struttura del file .zip non è soggetta a specifici vincoli. Tuttavia, i riferimenti devono essere relativi e adattarsi alla struttura ad albero della cartella .zip.
 
 1. Nella pagina Progetta modello selezionare **Importa HTML**.
 
@@ -188,13 +188,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e&#x200B;_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 

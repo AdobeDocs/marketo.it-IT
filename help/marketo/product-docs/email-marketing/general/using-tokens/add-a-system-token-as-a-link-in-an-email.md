@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900573
-description: Aggiungere un token di sistema come collegamento in un messaggio e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un token di sistema come collegamento in un’e-mail. Utilizza i token negli URL dei collegamenti per annullare l’abbonamento o altri collegamenti dinamici.
 title: Aggiungere un token di sistema come collegamento in un messaggio e-mail
 exl-id: 9156be24-18ae-44ea-96e5-a6257ff29b46
 feature: Tokens
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '215'
+ht-degree: 9%
 
 ---
 

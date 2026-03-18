@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359483
-description: Informazioni sulle opzioni di test e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le opzioni di test e-mail per i test A/B. Comprendere l’oggetto, l’e-mail intera, l’indirizzo del mittente e il test di data/ora.
 title: Informazioni sulle opzioni di test per e-mail
 exl-id: 8e5b0298-4a4b-4c3a-bee1-712e77abadee
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 11%
+source-wordcount: '109'
+ht-degree: 10%
 
 ---
 

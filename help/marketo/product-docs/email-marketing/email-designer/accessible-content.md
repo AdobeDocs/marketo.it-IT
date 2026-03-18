@@ -1,20 +1,21 @@
 ---
 title: Progettare contenuti accessibili
-description: Scopri come progettare contenuti accessibili per le e-mail in Adobe Marketo Engage.
+description: Scopri come progettare contenuti e-mail accessibili in Marketo Engage. Applica le best practice in modo che le e-mail funzionino per tutti i destinatari.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 keywords: e-mail, progettazione, accessibilità
-source-git-commit: 5adfebfd8f9f0cdaebb1eb86a68c136d46298446
+exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1359'
+source-wordcount: '1365'
 ht-degree: 0%
 
 ---
 
 # Progettare contenuti accessibili {#accessible-content}
 
-L&#39;[atto europeo sull&#39;accessibilità](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019L0882){target="_blank"} è una direttiva intesa a migliorare il mercato interno dei prodotti e dei servizi accessibili eliminando gli ostacoli causati da norme nazionali divergenti tra gli Stati membri.
+L&#39;[atto europeo sull&#39;accessibilità](https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX%3A32019L0882){target="_blank"} è una direttiva intesa a migliorare il mercato interno dei prodotti e dei servizi accessibili eliminando gli ostacoli causati da norme nazionali divergenti tra gli Stati membri.
 
 Questo regolamento stabilisce che tutte le comunicazioni digitali, inclusi e-mail, newsletter, PDF e contenuti scaricabili, devono essere accessibili. Durante la creazione di contenuti per i destinatari, è quindi necessario seguire linee guida specifiche, ad esempio utilizzare font accessibili e formati leggibili e fornire testo alternativo per le immagini.
 

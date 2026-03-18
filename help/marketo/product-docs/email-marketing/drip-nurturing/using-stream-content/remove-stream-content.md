@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359915
-description: Rimuovi contenuto flusso - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come rimuovere il contenuto in streaming quando non è necessario conservare la cronologia.
 title: Rimuovere il contenuto flusso
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 6%
+source-wordcount: '123'
+ht-degree: 8%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Puoi rimuovere o archiviare una parte di contenuto. A differenza della rimozione del contenuto di flusso, l&#39;archiviazione [archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) mantiene tutta la cronologia associata al contenuto. Se non ti dispiace perdere le statistiche storiche di alcuni contenuti e vuoi rimuoverli, ecco come farlo.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

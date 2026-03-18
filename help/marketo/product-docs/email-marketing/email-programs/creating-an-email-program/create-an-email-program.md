@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900591
-description: Creazione di un programma e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un programma e-mail in Marketo. Configura pubblico, e-mail, pianificazione e approvazione in un’unica posizione.
 title: Creare un programma e-mail
 exl-id: b2efaddb-cc7a-4ae3-8c1c-b70d189dd290
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 6%
+source-wordcount: '128'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Utilizza i programmi e-mail per inviare in modo rapido e semplice un messaggio e-mail a un gruppo di persone.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 

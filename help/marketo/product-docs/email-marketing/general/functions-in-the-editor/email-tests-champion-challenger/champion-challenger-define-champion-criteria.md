@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359562
-description: Champion/Challenger - Definizione dei criteri dei campioni - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come definire i criteri dei campioni per i test e-mail. Imposta le regole che determinano quale variante vince il test Champion/Challenger.
 title: Campione/Sfidante - Definizione dei criteri del campione
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '178'
 ht-degree: 4%
 
 ---

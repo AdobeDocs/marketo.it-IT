@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359665
-description: Set Stream Cadence - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare la frequenza di flusso per i programmi di coinvolgimento. Pianifica i cast settimanali o mensili e facoltativamente utilizza il fuso orario del destinatario.
 title: Impostare cadenza del flusso
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '374'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
 
 ## Imposta cadenza {#set-cadence}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

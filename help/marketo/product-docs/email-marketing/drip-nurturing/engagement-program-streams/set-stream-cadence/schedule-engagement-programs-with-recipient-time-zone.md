@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12982909
-description: Programmi di pianificazione del coinvolgimento con fuso orario del destinatario - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare i cast del programma di coinvolgimento con il fuso orario del destinatario. Imposta il primo cast con almeno 25 ore di anticipo per la consegna globale.
 title: Pianificare programmi di coinvolgimento con fuso orario del destinatario
 exl-id: 818615be-3c7e-4051-adc7-2341783484b9
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 7%
+source-wordcount: '202'
+ht-degree: 8%
 
 ---
 
@@ -30,4 +30,4 @@ Quando pianifichi un flusso di programma di coinvolgimento e il fuso orario del 
 >[!MORELIKETHIS]
 >
 >* [Informazioni sul fuso orario del destinatario](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/scheduling-with-recipient-time-zone/understanding-recipient-time-zone.md)
->* [Imposta cadenza flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+>* [Impostare la cadenza del flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

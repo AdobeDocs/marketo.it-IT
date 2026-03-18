@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900593
-description: Creazione di un messaggio e-mail per un programma e-mail - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare un’e-mail per un programma e-mail. Aggiungi una nuova risorsa e-mail e scegli un modello o un messaggio e-mail esistente.
 title: Creare un’e-mail per un programma e-mail
 exl-id: 6513da2c-edbd-463a-8c0b-9f9016620f14
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '163'
 ht-degree: 9%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 9%
 
 Dopo aver creato il programma e-mail e definito il pubblico, decidi quale e-mail stai inviando. Puoi [scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o crearne una da zero. Ecco come creare una nuova e-mail.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 

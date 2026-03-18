@@ -1,18 +1,19 @@
 ---
-title: Conversione di immagini in modelli HTML
-description: Utilizza questo strumento senza codice per trasformare un’immagine in un modello e-mail modificabile.
+title: Convertire immagini in modelli HTML
+description: Scopri come convertire un’immagine in un modello e-mail di HTML modificabile. Utilizza lo strumento "image-to-HTML" senza codice nel Designer e-mail.
 solution: Marketo Engage
 product: marketo
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 74c8b1597bed7e2ac827bea444200dacfe4b29a5
+exl-id: 529e82aa-c00b-49ce-b561-c2448f6a7a9b
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1281'
-ht-degree: 1%
+source-wordcount: '1289'
+ht-degree: 2%
 
 ---
 
-# Conversione di immagini in modelli HTML {#image-to-html}
+# Convertire immagini in modelli HTML {#image-to-html}
 
 ## Panoramica {#overview}
 
@@ -23,7 +24,7 @@ Sfruttando la tecnologia di intelligenza artificiale generativa, il convertitore
 >[!PREREQUISITES]
 >
 >* Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
->* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
+>* Devi avere _Accedi al modello di e-mail_ e le autorizzazioni _Modifica/Genera modello di e-mail_ abilitate [nel tuo ruolo Marketo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#edit-a-role).
 
 ## Conversione di un’immagine {#convert-an-image}
 

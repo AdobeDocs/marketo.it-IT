@@ -1,12 +1,12 @@
 ---
-description: Collaborazione e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la collaborazione e il commento tramite e-mail in E-mail Designer. Rivedi, commenta e risolvi i feedback con il tuo team in tempo reale.
 title: Collaborazione e-mail
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 686a6950-6ca0-412f-8f47-24974c6428af
-source-git-commit: 58b1315db1a88c5e7aee813ef8dc0042bf8a6b14
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '314'
 ht-degree: 2%
 
 ---

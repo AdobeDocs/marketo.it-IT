@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359453
-description: Modificare l’intestazione e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare l’intestazione dell’e-mail (dal nome, dall’e-mail, alla risposta, all’oggetto). Imposta i campi di intestazione nell’editor e-mail.
 title: Modificare l’intestazione dell’e-mail
 exl-id: 21c529d1-55b0-4529-ac0a-4dfb9d149686
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---

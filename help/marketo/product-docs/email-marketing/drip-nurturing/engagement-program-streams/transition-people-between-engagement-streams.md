@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359947
-description: Transizione delle persone tra flussi di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare regole di transizione per spostare le persone tra i flussi di coinvolgimento. Definisci le regole nel flusso in cui desideri eseguire il pull.
 title: Transizione di Persone tra flussi di coinvolgimento
 exl-id: 2367852c-3dcf-4188-a50c-7c6f0b0ff7bc
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '235'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vuoi definire un modo in cui le persone possono spostarsi da un flusso all&#39;altro. Queste regole sono denominate **regole di transizione.**
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

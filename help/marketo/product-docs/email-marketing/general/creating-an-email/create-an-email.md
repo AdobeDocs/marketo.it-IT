@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912163
-description: Creazione di un messaggio e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare un’e-mail in Marketo. Scegli un modello o inizia da zero in Design Studio o in un programma e-mail.
 title: Creare un’e-mail
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '204'
 ht-degree: 6%
 
 ---
@@ -33,7 +33,7 @@ Semplice! Ora per il contrario...
 
 ## Creare un messaggio e-mail nelle attività di marketing {#create-an-email-in-marketing-activities}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-an-email-3.png)
 

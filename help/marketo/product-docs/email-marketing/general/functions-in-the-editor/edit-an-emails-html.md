@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900554
-description: Modifica HTML di un’e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come modificare direttamente il HTML di un’e-mail. Accedi alla vista HTML per apportare modifiche avanzate al codice e-mail.
 title: Modificare l’HTML di un’e-mail
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 2%
+source-wordcount: '342'
+ht-degree: 4%
 
 ---
 

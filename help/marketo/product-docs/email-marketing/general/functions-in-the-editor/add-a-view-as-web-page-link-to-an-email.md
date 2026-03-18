@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900560
-description: Aggiungere un collegamento Visualizza come pagina web a un messaggio e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere a un’e-mail un collegamento Visualizza come pagina web. Consenti ai destinatari di aprire l’e-mail in un browser con un collegamento persistente.
 title: Aggiungere un collegamento Visualizza come pagina web a un’e-mail
 exl-id: 0f420d1b-6c12-4e66-9dfa-3c8f6145dc89
 feature: Email Editor
-source-git-commit: 555745d293928961263a2aafed431a7b9e22d407
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 12%
+source-wordcount: '170'
+ht-degree: 11%
 
 ---
 

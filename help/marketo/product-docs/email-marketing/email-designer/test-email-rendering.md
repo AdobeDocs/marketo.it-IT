@@ -1,19 +1,19 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Test del rendering di e-mail con Litmus
-description: Gli utenti di Marketo Engage possono integrare il proprio account Litmus per testare in modo semplice il rendering dei contenuti in vari client e-mail.
+title: Test del rendering delle e-mail con Litmus
+description: Scopri come testare il rendering di e-mail tra i client con Litmus. Integra il tuo account Litmus per visualizzare in anteprima i contenuti di vari client e-mail.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: ccef36af-362a-4ac0-9030-492e9d7f10b5
-source-git-commit: 3a71e0f0da0f6201ccda73a0c8bd5b94864308c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 0%
+source-wordcount: '374'
+ht-degree: 5%
 
 ---
 
-# Test del rendering di e-mail con Litmus {#test-email-rendering-with-litmus}
+# Test del rendering delle e-mail con Litmus {#test-email-rendering-with-litmus}
 
 Sfrutta il tuo account [Litmus](https://www.litmus.com/email-testing) in Marketo Engage per visualizzare immediatamente il rendering delle e-mail nei client e-mail più diffusi.
 
@@ -47,7 +47,7 @@ I seguenti passaggi sono per gli utenti del [Piano aziendale Litmus](https://www
 
    ![](assets/test-email-rendering-with-litmus-4.png)
 
-1. Fare clic sul pulsante **Esegui test** per generare anteprime e-mail.
+1. Fai clic su **Esegui test** per generare anteprime e-mail.
 
 1. Scopri l’aspetto del contenuto nei client e-mail desktop, mobili e basati su Web più diffusi. Fai clic su tutte le miniature che desideri visualizzare in anteprima.
 

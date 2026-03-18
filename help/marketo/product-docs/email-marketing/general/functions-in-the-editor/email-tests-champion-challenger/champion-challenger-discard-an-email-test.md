@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359587
-description: Champion/Challenger - Elimina un test e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come eliminare un test e-mail Champion/Challenger. Annulla il test senza dichiarare un vincitore e gestisci il pubblico.
 title: 'Campione/Challenger: elimina un test e-mail'
 exl-id: 2a7571dc-4d97-4b6c-92c9-d4fd0b8b4153
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 9%
+source-wordcount: '94'
+ht-degree: 13%
 
 ---
 
@@ -19,7 +19,7 @@ Se, in qualsiasi momento, decidi di non voler continuare a eseguire il test e-ma
 >
 >[Campione/Sfidante: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 

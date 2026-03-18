@@ -1,27 +1,27 @@
 ---
 unique-page-id: 2359467
-description: Rapporto sulle prestazioni delle e-mail - Documenti Marketo - Documentazione del prodotto
-title: Rapporto prestazioni e-mail
+description: Scopri come creare e utilizzare il rapporto Prestazioni e-mail. Tieni traccia di aperture, clic, mancati recapiti e altre metriche e-mail.
+title: Rapporto sulle prestazioni e-mail
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 2%
+source-wordcount: '500'
+ht-degree: 96%
 
 ---
 
-# Rapporto prestazioni e-mail {#email-performance-report}
+# Rapporto sulle prestazioni e-mail {#email-performance-report}
 
-Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte, su cui è stato fatto clic, ecc., crea un rapporto sulle prestazioni delle e-mail.
+Per scoprire quanto sono efficaci le tue e-mail tramite statistiche quali consegnate, aperte, cliccate, ecc., crea un Rapporto sulle prestazioni e-mail.
 
-1. [Crea un report in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Email Performance]** [Tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
-1. [Modificare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **[!UICONTROL Report]**.
-1. Ci sei! Ora esplora il rapporto per vedere come si sono svolti i messaggi e-mail.
+1. [Crea un rapporto in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Email Performance]** [Tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. [Modifica l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic sulla scheda **[!UICONTROL Report]**.
+1. Ecco fatto. Ora puoi esplora il rapporto per vedere le prestazioni delle tue e-mail.
 
    >[!NOTE]
    >
-   >Il filtro Data di invio si basa sulla prima data di invio dell’e-mail.
+   >Il filtro Data di invio si basa sulla prima data in cui l’e-mail è stata inviata.
 
    ![](assets/email-performance-report.png)
 
@@ -31,9 +31,9 @@ Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte,
 
    >[!NOTE]
    >
-   >Un rapporto sulle prestazioni dell’e-mail include attività per tutte le persone, incluse quelle che sono state eliminate dopo l’invio dell’e-mail. A volte ti può capitare di voler vedere le attività solo per le persone attive. In tal caso, è necessario filtrare le persone eliminate dal rapporto. Utilizzare la scheda **[!UICONTROL Smart List]** per [creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il report. Se non si applica alcun filtro a un campo specifico, impostare il filtro Indirizzo di posta elettronica su: **[!UICONTROL is not empty]**.
+   >Un rapporto sulle prestazioni e-mail include le attività di tutte le persone, incluse quelle che sono state eliminate dopo l’invio dell’e-mail. A volte, potresti voler visualizzare le attività solo per le persone attive. In tal caso, è necessario escludere le persone eliminate dal rapporto tramite un filtro. Utilizza la scheda **[!UICONTROL Smart List]** per [creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il rapporto. Se non stai filtrando in base a nessun campo specifico, imposta il filtro Indirizzo e-mail su: **[!UICONTROL is not empty]**.
 
-   [Selezionare le colonne del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report delle prestazioni delle e-mail:
+   Le [colonne del rapporto selezionate](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto sulle prestazioni e-mail includono:
 
    <table><thead>
 
@@ -43,46 +43,46 @@ Per vedere le prestazioni delle e-mail con statistiche quali consegnate, aperte,
   </tr></thead>
 <tbody>
   <tr>
-    <td>Rifiuto rigido</td>
+    <td>Non recapitata in modo permanente</td>
     <td>L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente.</td>
   </tr>
   <tr>
-    <td>Rimbalzo morbido</td>
-    <td>L'e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa.</td>
+    <td>Non recapitata in modo non permanente</td>
+    <td>L’e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server fuori servizio o una casella in entrata piena.</td>
   </tr>
   <tr>
     <td>In sospeso</td>
-    <td>Questo numero viene calcolato sottraendo il numero di e-mail consegnate, non recapitate e non recapitate dal numero totale inviato.</td>
+    <td>Questo numero viene calcolato sottraendo il numero di e-mail Consegnate, Non recapitate e Non recapitate in modo non permanente dal numero totale inviato.</td>
   </tr>
   <tr>
-    <td>Collegamento selezionato</td>
+    <td>Collegamento cliccato</td>
     <td>Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail.</td>
   </tr>
   <tr>
-    <td>Annulla l'iscrizione</td>
-    <td>Numero di destinatari e-mail che hanno fatto clic sul collegamento Annulla iscrizione nell’e-mail e hanno compilato il modulo.</td>
+    <td>Iscrizioni annullate</td>
+    <td>Numero di destinatari e-mail che hanno fatto clic sul collegamento Annulla iscrizione nell’e-mail e compilato il modulo.</td>
   </tr>
   <tr>
-    <td>Interrotto</td>
-    <td>Numero di e-mail che non è stato possibile recapitare e non è stato ricevuto alcun evento di mancato recapito. Un’e-mail viene automaticamente definita Interrotta se non viene ricevuta una risposta entro tre giorni dall’invio dell’e-mail.</td>
+    <td>Interrotte</td>
+    <td>Numero di e-mail che non è stato possibile recapitare e per le quali non è stato ricevuto alcun evento di mancato recapito. Un’e-mail viene automaticamente definita Interrotta se non viene ricevuta una risposta entro tre giorni dall’invio.</td>
   </tr>
 </tbody></table>
 
 >[!NOTE]
 >
->I collegamenti e gli indirizzi e-mail per l’annullamento dell’abbonamento su cui si fa clic in un’e-mail non verranno registrati in Collegamenti selezionati nel rapporto.
+>I clic sui collegamenti e sugli indirizzi e-mail per l’annullamento dell’iscrizione in un’e-mail non verranno registrati in Collegamenti cliccati nel rapporto.
 
-In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente ha aperto prima l’e-mail. Seguiamo queste regole specifiche per il rapporto sulle prestazioni delle e-mail:
+In linea generale, queste statistiche vengono registrate seguendo criteri di buon senso. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, è ovvio che l’abbia prima aperta. Per il rapporto sulle prestazioni e-mail, vengono seguite le regole specifiche:
 
-* **Regola 1**: ogni record di attività e-mail è impostato su uno dei seguenti valori: _Consegnato_, _Rimbalzato_, _Rimbalzato temporaneamente_ o _In sospeso_.
+* **Regola 1**: ciascun record di attività e-mail è impostato esclusivamente su uno dei seguenti stati: _Consegnato_, _Non recapitato in modo permanente_, _Non recapitato in modo non permanente_ o _In sospeso_.
 
 * **Regola 2**: se il record e-mail mostra _[!UICONTROL Opened]_, viene conteggiato come_ Consegnato _.
 
-* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_&#x200B;o&#x200B;_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
+* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
 
-* **Regola 4**: se l&#39;e-mail è _[!UICONTROL Opened]_, i messaggi non recapitati vengono ignorati. Se l&#39;e-mail non è stata aperta,_ Non recapitato _ha la precedenza su_ Non recapitato _e_ Non recapitato _.
+* **Regola 4**: se l’e-mail è _[!UICONTROL Opened]_, i mancati recapiti vengono ignorati. Se l’e-mail non è stata aperta,_ Non recapitata in modo permanente _ha la precedenza su_ Non recapitata in modo non permanente _e_ Consegnata _.
 
-* **Regola 5**: se non viene ricevuta alcuna attività e-mail tre giorni dopo l&#39;invio, verrà considerata _Interrotta_.
+* **Regola 5**: se non viene ricevuta alcuna attività e-mail tre giorni dopo l’invio, verrà considerata _Interrotta_.
 
 >[!NOTE]
 >
@@ -92,6 +92,6 @@ In generale, cerchiamo di usare il buon senso per registrare queste statistiche.
 
 >[!MORELIKETHIS]
 >
->* [Filtrare Assets nei report e-mail per campagne](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
->* [Filtra record eliminati/uniti in un report sulle prestazioni delle e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
->* [Rapporto prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}
+>* [Filtrare le risorse nei rapporti e-mail di una campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md){target="_blank"}
+>* [Filtrare i record eliminati/uniti in un rapporto prestazioni e-mail](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-deleted-merged-records-email-performance-report.md){target="_blank"}
+>* [Rapporto sulle prestazioni del collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md){target="_blank"}

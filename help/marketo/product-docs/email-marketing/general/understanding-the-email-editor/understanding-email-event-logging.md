@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147356
-description: Informazioni sulla registrazione degli eventi e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come registrare gli eventi e-mail in Marketo. Scopri come tenere traccia e memorizzare le aperture, i clic e altri eventi.
 title: Informazioni sulla registrazione degli eventi e-mail
 exl-id: 107d7f4a-ad38-44e4-95d8-760539aacede
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '305'
 ht-degree: 3%
 
 ---

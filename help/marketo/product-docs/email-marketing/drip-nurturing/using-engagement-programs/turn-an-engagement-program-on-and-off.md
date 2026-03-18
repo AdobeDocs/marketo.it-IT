@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359856
-description: Attivare e disattivare un programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come attivare o disattivare un programma di coinvolgimento per interrompere o riprendere i contenuti.
 title: Attivare e disattivare un programma di coinvolgimento
 exl-id: 4fe68ca1-7a54-44b0-ab3b-06f482f65304
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '91'
+ht-degree: 23%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 21%
 
 È possibile disattivare un programma di coinvolgimento con la pressione di un interruttore. Questo impedirà l’invio di qualsiasi contenuto. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

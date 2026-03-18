@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359834
-description: Dare priorità ai contenuti in streaming - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come assegnare la priorità ai contenuti in streaming trascinandoli. Il contenuto viene distribuito dall’alto verso il basso in ogni cast e non viene inviato alcun contenuto due volte.
 title: Assegnare priorità al contenuto del flusso
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '117'
 ht-degree: 6%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 6%
 
 Dopo aver aggiunto il contenuto al flusso, potrebbe essere utile modificare la priorità. Il contenuto viene sempre distribuito dall’alto in basso in ogni cast e nessun contenuto viene inviato due volte alla stessa persona.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

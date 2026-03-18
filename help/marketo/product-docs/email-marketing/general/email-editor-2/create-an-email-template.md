@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096400
-description: Creazione di un modello di e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un modello e-mail in Editor e-mail 2.0. Crea modelli riutilizzabili con moduli e sezioni modificabili.
 title: Creare un modello e-mail
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 5%
+source-wordcount: '264'
+ht-degree: 16%
 
 ---
 
@@ -69,10 +69,10 @@ Se hai creato un’e-mail da salvare come modello da utilizzare in futuro, segui
 
    >[!CAUTION]
    >
-   >Quando si salva un’e-mail come modello, i valori delle variabili non vengono riportati. Le variabili continueranno a utilizzare i valori predefiniti specificati nel modello sottostante. Inoltre, i moduli disponibili nell’e-mail non vengono riportati, a meno che non siano stati inseriti nel corpo dell’e-mail.
+   >Quando si salva un’e-mail come modello, i valori delle variabili non verranno riportati. Le variabili continueranno a utilizzare i valori predefiniti specificati nel modello sottostante. Inoltre, i moduli disponibili nell’e-mail non vengono riportati, a meno che non siano stati inseriti nel corpo dell’e-mail.
 
 Per personalizzare il modello di e-mail, consulta l’articolo seguente.
 
 >[!MORELIKETHIS]
 >
->[Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Sintassi del modello per e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

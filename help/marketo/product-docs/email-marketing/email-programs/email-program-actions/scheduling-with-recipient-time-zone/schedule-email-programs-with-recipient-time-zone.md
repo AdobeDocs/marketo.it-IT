@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12982903
-description: Pianificazione dei programmi e-mail con fuso orario del destinatario - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare i programmi e-mail con il fuso orario del destinatario. Imposta la consegna per entro 25 ore o dopo e scegli il comportamento del fuso orario.
 title: Pianificare i programmi e-mail con fuso orario del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '804'
 ht-degree: 1%
 
 ---

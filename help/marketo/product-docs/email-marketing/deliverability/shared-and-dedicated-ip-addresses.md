@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912085
-description: Indirizzi IP condivisi e dedicati - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri gli indirizzi IP condivisi e dedicati e i relativi pro e contro. Decidi quale opzione è adatta al volume di invio e agli obiettivi di reputazione.
 title: Indirizzi IP condivisi e dedicati
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '446'
 ht-degree: 2%
 
 ---

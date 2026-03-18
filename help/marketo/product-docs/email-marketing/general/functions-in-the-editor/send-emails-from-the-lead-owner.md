@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1147340
-description: Inviare e-mail dal proprietario del lead - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come inviare e-mail dall’indirizzo del proprietario del lead. Utilizza l’opzione Invia da proprietario lead per visualizzare il mittente corretto nelle e-mail.
 title: Inviare e-mail dal proprietario del lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '196'
 ht-degree: 7%
 
 ---

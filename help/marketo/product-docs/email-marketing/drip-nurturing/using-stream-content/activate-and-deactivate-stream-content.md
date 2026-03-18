@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359669
-description: Attivare e disattivare i contenuti in streaming - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come attivare e disattivare i contenuti in streaming per i cast di coinvolgimento.
 title: Attivare e disattivare il contenuto del flusso
 exl-id: cd5acec0-13aa-491e-b4ee-1db3d66a5056
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 9%
+source-wordcount: '129'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attiva i co
 
 ## Attiva contenuto flusso {#activate-stream-content}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

@@ -1,19 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Importazione modello
-description: Scopri come importare i modelli e-mail esistenti dall’editor classico nel nuovo E-mail Designer.
+title: Importazione di modelli
+description: Scopri come importare i modelli e-mail dall’editor classico a E-mail Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 badge: Beta
-source-git-commit: 588ec23961df42de8a8c0aed919ba9a016b61f18
+exl-id: a4755e1c-01a0-40d5-91d1-514ec3d138f5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '756'
 ht-degree: 1%
 
 ---
 
-# Importazione modello {#template-import}
+# Importazione di modelli {#template-import}
 
 Importa facilmente i modelli e-mail esistenti dall’editor classico nel nuovo Designer e-mail, mantenendo le progettazioni e accelerando la creazione dei modelli con strutture familiari e riutilizzabili. Rivedi [best practice](#best-practices) e scopri [limitazioni e rimedi](#limitations-and-remedies).
 

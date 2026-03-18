@@ -1,37 +1,37 @@
 ---
 unique-page-id: 2359652
-description: Creazione di un programma di coinvolgimento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un programma di coinvolgimento in Marketo per lo sviluppo dell’e-mail. Scegli Coinvolgimento come tipo di programma e aggiungi flussi e contenuti.
 title: Creare un programma di coinvolgimento
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 10%
+source-wordcount: '89'
+ht-degree: 74%
 
 ---
 
 # Creare un programma di coinvolgimento {#create-an-engagement-program}
 
-Puoi utilizzare i programmi di coinvolgimento in Marketo per sviluppare e-mail con facilità.
+Puoi utilizzare i programmi di coinvolgimento in Marketo per completare con facilità attività di e-mail nurturing.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 
-1. Selezionare la cartella in cui si desidera creare il programma di coinvolgimento, quindi fare clic su **[!UICONTROL New]** e **[!UICONTROL New Program]**.
+1. Seleziona la cartella in cui desideri creare il programma di coinvolgimento, quindi fai clic su **[!UICONTROL New]** e **[!UICONTROL New Program]**.
 
    ![](assets/newprogramlifecycle.jpg)
 
-1. Immettere un **[!UICONTROL Name]**, selezionare **[!UICONTROL Engagement]** per **[!UICONTROL Program Type]** e fare clic su **[!UICONTROL Create]**.
+1. Inserisci un **[!UICONTROL Name]**, seleziona **[!UICONTROL Engagement]** per **[!UICONTROL Program Type]** e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
 
-1. Bene, ora che avete un programma di coinvolgimento, andiamo avanti e camuffiamolo.
+1. Bene, ora che hai creato un programma di coinvolgimento, prosegui e personalizzalo.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 
    >[!MORELIKETHIS]
    >
-   >* [Aggiungi contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
-   >* [Imposta cadenza flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)
+   >* [Aggiungere contenuto a un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md)
+   >* [Impostare la cadenza del flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/engagement-program-streams/set-stream-cadence.md)

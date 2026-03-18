@@ -2,16 +2,16 @@
 solution: Marketo Engage
 product: marketo
 title: TITOLO
-description: Scopri come semplificare la creazione di e-mail con temi e moduli riutilizzabili, garantendo coerenza ed efficienza del design.
+description: Scopri come applicare i temi del brand alle e-mail per una progettazione coerente. Utilizza temi e moduli riutilizzabili nel Designer e-mail.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 0c0dd3355f979577ec194f9e8f935615515905c0
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '714'
 ht-degree: 4%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359559
-description: Champion/Challenger - Indirizzo mittente - Documenti Marketo - Documentazione del prodotto
+description: Scopri come eseguire i test Champion/Challenger dagli indirizzi. Verifica diversi indirizzi del mittente e dichiara un vincitore in base ai criteri.
 title: Champion/Challenger - Indirizzo mittente
 exl-id: 0debb7d3-358b-4054-989f-526d5c434c14
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---

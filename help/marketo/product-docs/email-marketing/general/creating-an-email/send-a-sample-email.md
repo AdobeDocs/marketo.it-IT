@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1147352
-description: Inviare un messaggio e-mail di esempio - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come inviare un’e-mail di esempio per testare il contenuto prima del lancio. Utilizza l’editor e-mail per inviare a te stesso o ad altri una copia di prova.
 title: Inviare e-mail di esempio
 exl-id: b8f845e8-5c5e-463d-9d60-9c8103cec5ac
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 7%
+source-wordcount: '313'
+ht-degree: 8%
 
 ---
 
@@ -56,7 +56,7 @@ ht-degree: 7%
 
    >[!NOTE]
    >
-   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting).
+   >Il campo trigger è applicabile solo a coloro che utilizzano [script e-mail](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting).
 
 ## Inviare un messaggio e-mail di esempio basato su un segmento {#send-a-sample-email-based-on-a-segment}
 

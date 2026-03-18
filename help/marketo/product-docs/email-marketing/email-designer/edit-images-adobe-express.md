@@ -2,14 +2,14 @@
 solution: Marketo Engage
 product: marketo
 title: Modificare le immagini con Adobe Express
-description: Scopri come modificare le immagini nell’Editor e-mail di Adobe Marketo Engage utilizzando Adobe Express.
+description: Scopri come modificare le immagini in E-mail Designer utilizzando Adobe Express. Apri e perfeziona le immagini senza uscire da Marketo Engage.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 74623a14-8eaf-4f79-952c-d10092ddc34f
-source-git-commit: 40fdd38d8ec5b63568c8ed9beeab0ef50974b7fd
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '807'
-ht-degree: 1%
+source-wordcount: '812'
+ht-degree: 2%
 
 ---
 

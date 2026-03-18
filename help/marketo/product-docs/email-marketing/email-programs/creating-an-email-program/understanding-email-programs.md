@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953572
-description: Informazioni sui programmi e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i programmi e-mail e il pannello di controllo Campaign. Invia e-mail, esegui test A/B e visualizza le dashboard in un’unica posizione.
 title: Informazioni sui programmi e-mail
 exl-id: 3ec1a4f0-90fb-4a4b-94bf-ce5ee7d8bdd4
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '327'
 ht-degree: 3%
 
 ---

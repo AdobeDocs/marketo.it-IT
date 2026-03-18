@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1900589
-description: Aggiungere collegamenti tracciati a un’e-mail di testo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere collegamenti tracciati alle e-mail di solo testo. Abilita il tracciamento dei collegamenti in modo da poter misurare i clic nei rapporti e-mail.
 title: Aggiungere collegamenti tracciati a un messaggio e-mail di testo
 exl-id: 10b4e029-de23-4054-83f7-b68fea68c838
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '172'
 ht-degree: 8%
 
 ---

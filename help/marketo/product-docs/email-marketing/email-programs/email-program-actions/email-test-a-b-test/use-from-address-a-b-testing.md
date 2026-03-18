@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359504
-description: Utilizzare il test A/B "From Address" - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eseguire test A/B di indirizzi diversi. Verifica diversi indirizzi del mittente e scegli un vincitore in base alle prestazioni.
 title: Utilizzare il test A/B “Da indirizzo”
 exl-id: 83e2994b-39ec-4c88-87b0-8f2501ea2bf1
 feature: Email Programs, A/B Testing
-source-git-commit: 65d607e279fb86b0816ccaec2f4bf3c69e309cb9
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '255'
 ht-degree: 2%
 
 ---

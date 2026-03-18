@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11371065
-description: Aggiungere moduli all’e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere moduli all’e-mail in Editor e-mail 2.0. Inserisci e disponi i moduli di contenuto per creare il layout.
 title: Aggiungere moduli all’e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 4%
+source-wordcount: '254'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ In [!DNL Email Editor 2.0], un modulo è una sezione dell&#39;e-mail definita ne
 
    >[!NOTE]
    >
-   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. All&#39;estrema destra dell&#39;e-mail, fare clic su **[!UICONTROL Modules]**.
 
@@ -67,4 +67,4 @@ Esistono due modi per spostare un modulo.
 
 >[!MORELIKETHIS]
 >
->[Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>[Sintassi del modello per e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

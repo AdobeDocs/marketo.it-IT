@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359478
-description: Rapporto sulle prestazioni dei collegamenti e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare e utilizzare il rapporto Prestazioni del collegamento e-mail. Scopri le prestazioni di ogni collegamento nell’e-mail in termini di clic e coinvolgimento.
 title: Rapporto sulle prestazioni del collegamento e-mail
 exl-id: 216af37d-561f-42ad-9f2c-3d9ee5dfd9d7
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 5%
 
 ---

@@ -1,20 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Componenti contenuto
-description: DESCRIZIONE.
+title: Componenti per contenuti
+description: Scopri i componenti di contenuto per personalizzare il layout delle e-mail. Aggiungi i componenti e assegnagli uno stile all’interno dei componenti struttura in E-mail Designer.
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '1154'
-ht-degree: 0%
+source-wordcount: '1172'
+ht-degree: 15%
 
 ---
 
-# Componenti contenuto {#content-components}
+# Componenti per contenuti {#content-components}
 
 Durante la creazione del contenuto dell&#39;e-mail, **[!UICONTROL Content components]** ti consente di personalizzare ulteriormente l&#39;e-mail con componenti non elaborati che puoi modificare una volta inseriti in un messaggio e-mail.
 
@@ -22,7 +22,7 @@ Puoi aggiungere tutti i componenti di contenuto necessari all’interno di uno o
 
 ## Aggiungere componenti per contenuti {#add-content-components}
 
-Per aggiungere componenti di contenuto all’e-mail e adattarli alle tue esigenze, segui i passaggi indicati di seguito.
+Per aggiungere componenti per contenuti all’e-mail e modificarli in base alle tue esigenze, segui i passaggi indicati di seguito:
 
 1. In E-mail Designer, usa un contenuto esistente o trascina **[!UICONTROL Structure components]** nel contenuto vuoto per definire il layout dell&#39;e-mail. `[Learn how](content-from-scratch.md)`
 
@@ -30,13 +30,13 @@ Per aggiungere componenti di contenuto all’e-mail e adattarli alle tue esigenz
 
    SCHERMATA
 
-1. Trascina i componenti di contenuto selezionati all’interno dei componenti struttura rilevanti.
+1. Trascina i componenti per contenuti desiderati all’interno dei componenti struttura pertinenti.
 
    SCHERMATA
 
    >[!NOTE]
    >
-   >Puoi aggiungere più componenti in un singolo componente struttura e in ogni colonna di un componente struttura.
+   >È possibile aggiungere più componenti in un singolo componente struttura e in ogni colonna di un componente struttura.
 
 1. Regolare gli attributi e lo stile di ogni componente utilizzando le schede **[!UICONTROL Settings]** e **[!UICONTROL Style]** a destra. Ad esempio, puoi modificare lo stile del testo, la spaziatura interna o il margine di ciascun componente. `[Learn more about alignment and padding](alignment-and-padding.md)`
 
@@ -93,10 +93,10 @@ SCHERMATA
    SCHERMATA
 
    * **[!UICONTROL Change text style]**: applica il grassetto, il corsivo, la sottolineatura o il barrato al testo.
-   * **Cambia allineamento**: scegli l&#39;allineamento a sinistra, a destra, al centro o giustificato per il testo.
+   * **Modifica l’allineamento**: applica al testo l’allineamento a sinistra, a destra, centrato o giustificato.
    * **[!UICONTROL Create list]**: aggiungere un elenco puntato o numerato al testo.
    * **[!UICONTROL Set heading]**: aggiungi fino a sei livelli di intestazione al testo.
-   * **Dimensione font**: seleziona la dimensione font del testo in pixel.
+   * **Dimensione font**: seleziona la dimensione del font in pixel.
    * **[!UICONTROL Change font color]**: scegliere il colore del carattere.
    * **[!UICONTROL Insert link]**: aggiungi qualsiasi tipo di collegamento al contenuto.
    * **[!UICONTROL Edit image]**: aggiungi un&#39;immagine o una risorsa al componente testo. `[Learn more about asset management](../integrations/assets.md)`
@@ -107,7 +107,7 @@ SCHERMATA
    * **[!UICONTROL Duplicate]**: aggiungi una copia del componente testo.
    * **[!UICONTROL Delete]**: elimina il componente testo selezionato dal messaggio e-mail.
 
-1. Regola gli altri attributi di stile, ad esempio il colore del testo, la famiglia di caratteri, il bordo, la spaziatura interna, il margine e così via. dalla scheda **[!UICONTROL Styles]**.
+1. Regola gli altri attributi di stile quali colore del testo, famiglia di font, bordo, spaziatura, margine, ecc. dalla scheda **[!UICONTROL Styles]**.
 
    SCHERMATA
 
@@ -121,7 +121,7 @@ SCHERMATA
 
 ## HTML {#HTML}
 
-Utilizza il componente **[!UICONTROL HTML]** per copiare e incollare le diverse parti del HTML esistente. Questo consente di creare componenti HTML modulari gratuiti per riutilizzare alcuni contenuti esterni.
+Utilizza il componente **[!UICONTROL HTML]** per copiare e incollare le diverse parti del HTML esistente. Questo consente di creare componenti modulari HTML a forma libera in modo da riutilizzare dei contenuti esterni.
 
 1. Da **[!UICONTROL Content Components]** trascinare e rilasciare il componente **[!UICONTROL HTML]** in un **[!UICONTROL Structure component]**.
 
@@ -135,7 +135,7 @@ Utilizza il componente **[!UICONTROL HTML]** per copiare e incollare le diverse 
 
 >[!NOTE]
 >
->Per rendere semplicemente un contenuto esterno conforme a E-mail Designer, Adobe consiglia di creare un messaggio da zero e copiare il contenuto dall’e-mail esistente nei componenti.
+>Per rendere semplicemente un contenuto esterno conforme a E-mail Designer, Adobe consiglia di creare un messaggio da zero e di copiare il contenuto dell’e-mail esistente nei componenti.
 
 ## Immagine {#image}
 
@@ -147,7 +147,7 @@ Utilizza il componente **[!UICONTROL Image]** per inserire un file immagine dal 
 
 1. Dalla scheda **[!UICONTROL Settings]**, fai clic su **[!UICONTROL Browse]** per scegliere un file di immagine dalle risorse oppure su **[!UICONTROL Import media]** per caricare una risorsa in Adobe Experience Manager Assets.
 
-   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=it){target="_blank"}.
+   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -186,7 +186,7 @@ Utilizza il componente **[!UICONTROL Social]** per inserire collegamenti a pagin
 
 1. Se necessario, puoi anche cambiare le icone di ciascuno dei social media dal tuo Assets.
 
-1. Regola gli altri attributi di stile come stile, margine, bordo e così via. dalla scheda **[!UICONTROL Styles]**.
+1. Regola gli altri attributi quali stile, margine, bordo, ecc. dalla scheda **[!UICONTROL Styles]**.
 
 ## Decisione sull’offerta {#offer-decision}
 

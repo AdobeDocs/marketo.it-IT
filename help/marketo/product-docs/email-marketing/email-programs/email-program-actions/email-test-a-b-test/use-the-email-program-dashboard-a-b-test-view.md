@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359549
-description: Utilizzare la dashboard del programma e-mail - Visualizzazione test A/B - Documenti Marketo - Documentazione del prodotto
+description: Scopri come utilizzare la visualizzazione del test A/B della dashboard del programma e-mail. Monitora le varianti di test e le prestazioni prima di dichiarare un vincitore.
 title: 'Utilizzare la dashboard del programma e-mail: Visualizzazione test A/B'
 exl-id: c261bb05-db22-4f54-a30c-58963843584f
 feature: Email Programs, A/B Testing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 18%
+source-wordcount: '118'
+ht-degree: 16%
 
 ---
 

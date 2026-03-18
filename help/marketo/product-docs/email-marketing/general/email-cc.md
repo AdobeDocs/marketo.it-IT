@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727995
-description: E-mail CC - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le opzioni e-mail CC in Marketo. Aggiungi i destinatari CC alle e-mail quando necessario per conformità o visibilità.
 title: CC e-mail
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 1%
 
 ---

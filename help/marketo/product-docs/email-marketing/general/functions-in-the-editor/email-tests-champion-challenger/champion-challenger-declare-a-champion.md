@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359584
-description: Champion/Challenger - Dichiara campione - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come dichiarare un campione per il test e-mail. Scegli la variante vincente e invia il vincitore al resto del pubblico.
 title: Campione/Sfida - Dichiara campione
 exl-id: 04686934-6b6e-407f-8e50-bbf75139e367
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 4%
+source-wordcount: '126'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ Quando sei pronto, puoi dichiarare un campione per il test e-mail.
 >
 >[Campione/Sfidante: Approva Il Test E-Mail](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/champion-challenger-approve-your-email-test.md)
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-2.png)
 

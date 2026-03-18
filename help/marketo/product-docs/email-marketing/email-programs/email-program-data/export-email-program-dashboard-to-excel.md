@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359598
-description: Esportare il dashboard del programma e-mail in Excel - Documenti Marketo - Documentazione del prodotto
+description: Scopri come esportare il dashboard del programma e-mail in Excel. Scarica le metriche del programma per reporting e analisi.
 title: Esportare la dashboard del programma e-mail in Excel
 exl-id: d6b330d1-d12e-4620-a3c0-2851d7ea4996
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 15%
+source-wordcount: '97'
+ht-degree: 16%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Dopo aver eseguito un programma e-mail e aver inserito alcuni dati nel dashboard, puoi esportarli in excel per ulteriori analisi. Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-1.png)
 

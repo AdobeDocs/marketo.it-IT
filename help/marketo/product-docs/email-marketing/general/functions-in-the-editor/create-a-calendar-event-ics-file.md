@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900563
-description: Creazione di un file di evento calendario (con estensione ics) - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un file evento calendario (con estensione ics) per le e-mail. Aggiungi allegati del calendario in modo che i destinatari possano salvare gli eventi.
 title: Creare un file evento calendario (.ics)
 exl-id: 17b5d99d-94ce-4122-8928-4290cc253d11
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 13%
+source-wordcount: '99'
+ht-degree: 12%
 
 ---
 

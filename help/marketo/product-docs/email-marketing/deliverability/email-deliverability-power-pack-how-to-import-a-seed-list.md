@@ -1,17 +1,17 @@
 ---
 unique-page-id: 10099077
-description: Scopri come importare un elenco di seed nell’istanza Marketo Engage.
+description: Scopri come importare un elenco di seed in Marketo Engage per il test del posizionamento della casella in entrata. Utilizza Everest per scaricare e aggiungere l’elenco delle campagne di recapito messaggi.
 title: Email Deliverability Power Pack - Come importare un elenco di seed
 exl-id: a4782611-2556-43bf-802b-afeb332eafcd
 feature: Deliverability
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 0%
+source-wordcount: '326'
+ht-degree: 5%
 
 ---
 
-# Email Deliverability Power Pack: come importare un elenco di seed {#email-deliverability-power-pack-how-to-import-a-seed-list}
+# Pacchetto avanzato di recapitabilità e-mail: come importare un elenco di seed {#email-deliverability-power-pack-how-to-import-a-seed-list}
 
 Un elenco seed è un elenco di account e-mail presso più provider di caselle postali, tra cui Google Apps, Hotmail, Yahoo! e così via, utilizzati per approssimare la velocità di consegna della casella in entrata rispetto a quella della cartella di posta indesiderata. Di seguito sono riportati i passaggi per inserire l’elenco nell’istanza di Marketo Engage.
 
@@ -29,11 +29,11 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
 
    ![](assets/email-deliverability-power-pack-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Manage Seed List]**.
+1. Fai clic sulla scheda **[!UICONTROL Manage Seed List]**.
 
    ![](assets/email-deliverability-power-pack-3.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Actions]** e selezionare **[!UICONTROL Download: One Per Line]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Actions]** e seleziona **[!UICONTROL Download: One Per Line]**.
 
    ![](assets/email-deliverability-power-pack-4.png)
 

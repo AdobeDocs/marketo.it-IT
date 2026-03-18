@@ -1,15 +1,15 @@
 ---
 unique-page-id: 11373011
-description: Transizione all’Editor e-mail 2.0 - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come passare a Email Editor 2.0. Scopri le modifiche e come passare dall’editor classico alla nuova esperienza.
 title: Transizione all’editor e-mail 2.0
 exl-id: eb9ec8cc-d6e8-4839-a4d9-608d2f264cbb
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '618'
-ht-degree: 0%
+source-wordcount: '630'
+ht-degree: 1%
 
 ---
 
@@ -65,4 +65,4 @@ Aspetti da considerare
 >[!MORELIKETHIS]
 >
 >* [[!DNL Email Editor 2.0] Panoramica](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.md)
->* [Sintassi modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)
+>* [Sintassi del modello per e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md)

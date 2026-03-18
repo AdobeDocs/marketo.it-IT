@@ -1,13 +1,13 @@
 ---
 unique-page-id: 1900595
-description: Definire un pubblico con un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come definire un pubblico di programmi e-mail con un elenco avanzato. Utilizza i filtri per eseguire il targeting di chi riceve il programma e-mail.
 title: Definire un pubblico con un elenco avanzato
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '256'
-ht-degree: 7%
+source-wordcount: '266'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/
 >
 >La definizione del pubblico funziona solo quando il programma e-mail non viene approvato.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

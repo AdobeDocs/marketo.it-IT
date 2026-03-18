@@ -2,13 +2,13 @@
 solution: Marketo Engage
 product: marketo
 title: Bloccare il contenuto nei modelli e-mail
-description: Scopri come bloccare il contenuto nei modelli e-mail.
+description: Scopri come bloccare il contenuto nei modelli e-mail in modo che altri non possano modificarlo. Proteggi le sezioni in E-mail Designer per coerenza.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 7ccff4f0-5db5-4dd7-91e0-d2081b74ad18
-source-git-commit: 21bcdc10fe1f3517612efe0f8e2adaf2f4411a70
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '831'
+source-wordcount: '843'
 ht-degree: 8%
 
 ---

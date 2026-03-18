@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359949
-description: Mettere in pausa le persone in un programma di coinvolgimento - Documenti Marketo - Documentazione del prodotto
+description: Scopri come mettere in pausa le persone in un programma di coinvolgimento in modo che cessino di ricevere contenuti.
 title: Mettere in pausa le persone in un programma di coinvolgimento
 exl-id: 3bf2db4f-6fa2-4ae8-a1e7-ce6c584f749d
 feature: Engagement Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 10%
+source-wordcount: '122'
+ht-degree: 9%
 
 ---
 

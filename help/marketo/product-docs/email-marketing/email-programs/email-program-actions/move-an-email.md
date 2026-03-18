@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098691
-description: Spostare un’e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come spostare un’e-mail in un altro programma o cartella. Riposiziona le risorse e-mail mantenendo la risorsa stessa.
 title: Spostare un’e-mail
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '103'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Spostare un messaggio e-mail da un programma a un altro? Ecco come.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-an-email-1.png)
 
