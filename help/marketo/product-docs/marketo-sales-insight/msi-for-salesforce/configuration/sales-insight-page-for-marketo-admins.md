@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762409
-description: Pagina Sales Insight per gli amministratori di Marketo - Documenti Marketo - Documentazione del prodotto
+description: Scopri la pagina Sales Insight per gli amministratori di Marketo. Accedi alle impostazioni di configurazione delle azioni e MSI.
 title: Pagina Sales Insight per gli amministratori di Marketo
 exl-id: d98bc9d8-1a72-405f-b1d7-b71ad88c8493
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '364'
-ht-degree: 1%
+source-wordcount: '369'
+ht-degree: 2%
 
 ---
 
@@ -50,7 +50,7 @@ Per impostazione predefinita, [!DNL Marketo Sales Insight] utilizza il campo Pun
 
    ![](assets/seven.png)
 
-1. Fare clic su **[!UICONTROL Save]**. Il ricalcolo di Sales insight richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
+1. Fai clic su **[!UICONTROL Save]**. Il ricalcolo di Sales insight richiederà del tempo. Puoi controllare il tuo CRM più tardi per vedere le stelle e le fiamme.
 
    ![](assets/eight.png)
 
@@ -85,7 +85,7 @@ Se abilitata, gli utenti MSI possono visualizzare il proprio feed lead in un fee
 
 **Scadenza token:**
 
-La scadenza del token è controllata in Feature Manager. Per attivarlo o disattivarlo, contattare il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support). Se abilitati, tutti i token Marketo scadono entro 10 minuti. Se disabilitati, i token Marketo non scadranno.
+La scadenza del token è controllata in Feature Manager. Per attivarlo o disattivarlo, contattare il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support). Se abilitati, tutti i token Marketo scadono entro 10 minuti. Se disabilitati, i token Marketo non scadranno.
 
 I token generati prima dell’abilitazione della scadenza del token non avranno un tempo di scadenza per la convalida, pertanto non scadranno anche se la funzione è attualmente abilitata.
 

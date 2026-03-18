@@ -1,12 +1,12 @@
 ---
-description: Configurare un canale di consegna personalizzato per il team - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare un canale di consegna personalizzato per il team. Configura l’invio e il tracciamento delle e-mail di vendita.
 title: Configurare un canale di consegna personalizzato per il team
 exl-id: e7ba524c-a0d2-4c2b-95ba-20b9d830f18c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 11%
+source-wordcount: '165'
+ht-degree: 14%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 11%
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Team Delivery Channel]**.
+1. Fai clic sulla scheda **[!UICONTROL Team Delivery Channel]**.
 
    ![](assets/set-up-a-custom-delivery-channel-for-your-team-3.png)
 

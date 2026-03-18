@@ -1,10 +1,10 @@
 ---
-description: Utilizzo dell’invio in blocco di e-mail per le vendite in Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Scopri come inviare e-mail di vendita in blocco da Salesforce. Selezionare i lead o i contatti in una visualizzazione elenco e utilizzare il pulsante Invia e-mail vendite in Lightning o Classic.
 title: Utilizzo dell’e-mail per le vendite in blocco in Salesforce
 exl-id: 4886109d-c2b8-4186-922b-8a15cf1e742e
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '613'
 ht-degree: 2%
 
 ---

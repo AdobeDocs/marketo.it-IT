@@ -1,11 +1,11 @@
 ---
-description: Aggiungere pulsanti di azione in blocco a Salesforce Classic - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere pulsanti di azione in blocco alle visualizzazioni elenco in Salesforce Classic. Aggiungi i pulsanti Invia e-mail per vendite e Aggiungi a campagna di vendita.
 title: Aggiungere pulsanti di azione in blocco a Salesforce Classic
 exl-id: ed3881ca-1ce6-469b-9b77-b8c35f28e847
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '102'
 ht-degree: 7%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 7%
 
 ![](assets/add-bulk-action-buttons-to-salesforce-classic-1.png)
 
-1. Fare clic su **[!UICONTROL Setup]**. Cercare &quot;[!UICONTROL search layout]&quot; e fare clic su **[!UICONTROL Search Layouts]** in **[!UICONTROL Leads]**.
+1. Fai clic su **[!UICONTROL Setup]**. Cercare &quot;[!UICONTROL search layout]&quot; e fare clic su **[!UICONTROL Search Layouts]** in **[!UICONTROL Leads]**.
 
    ![](assets/add-bulk-action-buttons-to-salesforce-classic-2.png)
 

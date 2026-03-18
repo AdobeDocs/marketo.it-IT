@@ -1,13 +1,13 @@
 ---
-description: Registrazione delle risposte - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come registrare le risposte in modo che le risposte potenziali vengano registrate in Salesforce. Abilita Registra risposte quando la registrazione API è attiva e il tracciamento delle risposte è disponibile.
 title: Registrazione delle risposte
 hide: true
 hidefromtoc: true
 exl-id: a89e8212-83cb-4987-abc9-76c5fd74c152
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '255'
 ht-degree: 2%
 
 ---

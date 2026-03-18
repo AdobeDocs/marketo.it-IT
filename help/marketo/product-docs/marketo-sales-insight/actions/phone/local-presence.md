@@ -1,11 +1,11 @@
 ---
-description: Presenza locale - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la presenza locale per le chiamate di vendita. Visualizza un ID chiamante locale in modo che i potenziali clienti vedano un numero dalla loro area quando chiami.
 title: Presenza locale
 exl-id: 719fd3e8-1586-4aa1-940f-931dd3b99bd4
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '158'
 ht-degree: 3%
 
 ---

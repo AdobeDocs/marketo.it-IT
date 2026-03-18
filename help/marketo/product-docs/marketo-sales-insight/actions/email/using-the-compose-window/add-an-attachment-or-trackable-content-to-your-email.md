@@ -1,11 +1,11 @@
 ---
-description: Aggiungere un allegato o un contenuto tracciabile al messaggio e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere allegati o contenuti tracciabili alle e-mail di vendita. Allega file o aggiungi collegamenti e contenuti tracciabili per il tracciamento del coinvolgimento.
 title: Aggiungere un allegato o un contenuto tracciabile all’e-mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '409'
 ht-degree: 4%
 
 ---

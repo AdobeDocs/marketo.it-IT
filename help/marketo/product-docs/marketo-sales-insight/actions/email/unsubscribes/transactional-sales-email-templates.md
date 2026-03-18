@@ -1,12 +1,12 @@
 ---
-description: Modelli e-mail per le vendite transazionali - Documenti Marketo - Documentazione del prodotto
+description: Scopri i modelli e-mail per le vendite transazionali e quando non sono necessari collegamenti per annullare l’abbonamento. Da utilizzare per messaggi transazionali uno a uno.
 title: Modelli e-mail per vendite transazionali
 feature: Sales Insight Actions
 exl-id: 0178155e-f01c-449f-b510-40adf718e177
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 4%
+source-wordcount: '183'
+ht-degree: 5%
 
 ---
 

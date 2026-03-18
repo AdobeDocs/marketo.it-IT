@@ -1,11 +1,11 @@
 ---
-description: Attivatori e filtri attività di vendita - Documentazione Marketo - Documentazione del prodotto
+description: Comprendere i trigger e i filtri dell’attività di vendita in Marketo. Utilizza le attività Azioni per attivare campagne intelligenti e segmentare i lead.
 title: Attivatori e filtri dell’attività di vendita
 exl-id: d180c1fa-d2bb-443d-ba78-59c26083acf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '122'
 ht-degree: 8%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Panoramica del canale di consegna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i canali di consegna per l’invio di e-mail di vendita in Azioni Sales Insight. Scopri in che modo i canali di consegna consentono il tracciamento e la consegna.
 title: Panoramica del canale di consegna
 exl-id: 8dd6fe3e-86ae-4361-bc0a-6488dc1df9fa
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '660'
+source-wordcount: '673'
 ht-degree: 0%
 
 ---

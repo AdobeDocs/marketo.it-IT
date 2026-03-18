@@ -1,11 +1,11 @@
 ---
-description: Accesso automatico da Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come abilitare l’accesso automatico da Salesforce in modo che gli utenti si autentichino automaticamente nelle azioni di Sales Insight. Impostare Gestione accesso su Solo Salesforce e connettere gli account.
 title: Accesso automatico da Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---

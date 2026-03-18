@@ -1,12 +1,12 @@
 ---
-description: È possibile recuperare un contatto o un gruppo eliminato? - Documenti Marketo - Documentazione del prodotto
+description: Scopri se è possibile recuperare un contatto o un gruppo eliminato in Azioni Insight vendite. Scopri le opzioni e le limitazioni di ripristino.
 title: È possibile recuperare un contatto o un gruppo eliminato?
 exl-id: ef783d23-3b43-4e6c-9581-1e7d3958ae54
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 27%
+source-wordcount: '87'
+ht-degree: 20%
 
 ---
 

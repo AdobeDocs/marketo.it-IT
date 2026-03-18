@@ -1,11 +1,11 @@
 ---
-description: Utilizzo di un modello nella finestra Componi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare un modello nella finestra di composizione quando invii e-mail di vendita. Inserire modelli e fissare categorie per l'accesso rapido.
 title: Utilizzo di un modello nella finestra Componi
 exl-id: 766cf3e6-5afa-4ccc-9093-efd06b1713cf
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 4%
 
 ---

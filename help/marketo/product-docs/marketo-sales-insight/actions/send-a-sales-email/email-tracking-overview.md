@@ -1,11 +1,11 @@
 ---
-description: Panoramica sul tracciamento e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come tracciare le e-mail per le e-mail di vendita. Comprendere come vengono tracciate e registrate le visualizzazioni, i clic e le risposte.
 title: Panoramica tracciamento di e-mail
 exl-id: 89437d22-d739-45ea-8a2e-046a7de80379
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '492'
 ht-degree: 5%
 
 ---

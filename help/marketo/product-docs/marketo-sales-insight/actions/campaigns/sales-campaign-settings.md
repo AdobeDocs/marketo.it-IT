@@ -1,12 +1,12 @@
 ---
-description: Impostazioni delle campagne di vendita - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare le impostazioni della campagna di vendita, incluso Salta fine settimana, Rimuovi in caso di mancato recapito e comportamento di risposta.
 title: Impostazioni campagna vendite
 exl-id: 30674296-4a29-4349-afa8-4307be355d07
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '208'
-ht-degree: 5%
+source-wordcount: '217'
+ht-degree: 9%
 
 ---
 
@@ -30,7 +30,7 @@ Abilita Ignora fine settimana in modo che tutti i passaggi che sarebbero caduti 
 
    ![](assets/sales-campaign-settings-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-3.png)
 
@@ -50,7 +50,7 @@ Se utilizzi la connessione e-mail, verranno rilevati i messaggi non recapitati i
 
    ![](assets/sales-campaign-settings-6.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-7.png)
 
@@ -70,7 +70,7 @@ Se il monitoraggio delle risposte è abilitato per Gmail o [!DNL Exchange], poss
 
    ![](assets/sales-campaign-settings-10.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Settings]**.
 
    ![](assets/sales-campaign-settings-11.png)
 

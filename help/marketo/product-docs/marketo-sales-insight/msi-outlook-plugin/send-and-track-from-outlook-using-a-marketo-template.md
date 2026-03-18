@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949283
-description: Invia e tieni traccia di [!DNL Outlook] Utilizzo di un modello Marketo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come inviare e tenere traccia di Outlook utilizzando un modello di Marketo. Inserisci un modello di vendita e invia e-mail tracciate da Outlook.
 title: Invia e tieni traccia di [!DNL Outlook] Utilizzo di un modello Marketo
 exl-id: 72514b21-f10f-4958-8ee1-0e7f46429e6e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---

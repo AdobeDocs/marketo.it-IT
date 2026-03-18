@@ -1,11 +1,11 @@
 ---
-description: Panoramica della pagina di Analytics - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la scheda Analytics e i dati di coinvolgimento delle e-mail per le azioni Sales Insight. Visualizza le statistiche individuali e del team nelle schede Me, Team e Contenuto.
 title: Panoramica della pagina di analisi
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '391'
 ht-degree: 1%
 
 ---

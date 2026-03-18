@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472672
-description: Inviare un’e-mail a più record in Marketo Sales Insight - Documenti Marketo - Documentazione del prodotto
+description: Scopri come inviare un’e-mail a più record da Marketo Sales Insight in Salesforce. Invia un messaggio e-mail a tutti i contatti di un account o di un’opportunità.
 title: Inviare un messaggio e-mail a più record in Marketo Sales Insight
 exl-id: 65c6f4b3-a23c-40f4-84bd-3510a0f8509f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 10%
+source-wordcount: '133'
+ht-degree: 9%
 
 ---
 

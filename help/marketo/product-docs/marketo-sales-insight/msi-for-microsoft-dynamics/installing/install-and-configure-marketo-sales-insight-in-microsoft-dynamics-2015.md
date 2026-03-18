@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513865
-description: Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2015 - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come installare e configurare Marketo Sales Insight in Microsoft Dynamics 2015. Aggiungi la soluzione e completa la configurazione.
 title: Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2015
 exl-id: 26c1f02c-c910-445d-8560-0b37961eadcb
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 4%
+source-wordcount: '375'
+ht-degree: 6%
 
 ---
 
@@ -23,7 +23,7 @@ Marketo Sales Insight è uno strumento fantastico per offrire al vostro team di 
 
 ## Importa soluzione {#import-solution}
 
-OK, è ora di importare la soluzione [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics]. Ecco come:
+OK, è ora di importare la soluzione [!DNL Marketo Sales Insight] in [!DNL Microsoft Dynamics]. effettuando le seguenti operazioni:
 
 1. In [!UICONTROL Microsoft Dynamics CRM] fare clic su **[!UICONTROL Settings]**.
 
@@ -75,7 +75,7 @@ OK, è ora di importare la soluzione [!DNL Marketo Sales Insight] in [!DNL Micro
 
 ## Connettere Marketo e Sales Insight {#connect-marketo-and-sales-insight}
 
-Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. Ecco come:
+Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. effettuando le seguenti operazioni:
 
 >[!NOTE]
 >
@@ -127,11 +127,11 @@ Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. 
 
 Infine, devi fornire a utenti specifici l’accesso per utilizzare Marketo Sales Insight.
 
-1. Vai a **[!UICONTROL Settings]**.
+1. Passa a **[!UICONTROL Settings]**.
 
    ![](assets/image2014-12-12-9-3a8-3a34.png)
 
-1. Vai a **[!UICONTROL Security]**.
+1. Passa a **[!UICONTROL Security]**.
 
    ![](assets/image2015-4-29-14-3a56-3a33.png)
 

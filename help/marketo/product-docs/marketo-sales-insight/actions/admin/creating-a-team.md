@@ -1,12 +1,12 @@
 ---
-description: Creazione di un team - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare un team in Azioni Insight di vendita per condividere modelli, campagne e gruppi.
 title: Creazione di un team
 exl-id: 7cca53a8-67e7-467a-988a-bb99872a328e
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 6%
+source-wordcount: '117'
+ht-degree: 8%
 
 ---
 

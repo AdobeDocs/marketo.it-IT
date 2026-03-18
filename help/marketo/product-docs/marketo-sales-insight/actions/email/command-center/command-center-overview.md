@@ -1,12 +1,12 @@
 ---
-description: Panoramica del centro comandi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il Centro comandi per la gestione delle e-mail e delle attività di vendita. Visualizza le e-mail inviate, assegna le attività e utilizza le azioni rapide in Azioni Insight vendite.
 title: Panoramica del centro comandi
 exl-id: d7441f28-a432-4443-8eb8-ca6a685524ae
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 4%
+source-wordcount: '489'
+ht-degree: 3%
 
 ---
 

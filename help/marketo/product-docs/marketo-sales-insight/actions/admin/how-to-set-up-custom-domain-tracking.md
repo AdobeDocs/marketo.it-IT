@@ -1,11 +1,11 @@
 ---
-description: Come impostare il tracciamento del dominio personalizzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare il tracciamento del dominio personalizzato in modo che i collegamenti tracciabili utilizzino il dominio della tua azienda.
 title: Come impostare il tracciamento del dominio personalizzato
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---

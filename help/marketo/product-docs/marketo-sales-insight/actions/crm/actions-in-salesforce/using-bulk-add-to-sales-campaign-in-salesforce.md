@@ -1,10 +1,10 @@
 ---
-description: Utilizzo dell’aggiunta in blocco alla campagna di vendita in Salesforce - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere in blocco lead e contatti a una campagna di vendita da Salesforce. Seleziona una vista a elenco e utilizza il pulsante Aggiungi a campagna di vendita in Lightning o Classic.
 title: Utilizzo di Aggiunta in blocco alla campagna di vendite in Salesforce
 exl-id: e518fe82-e37d-4edd-8a31-19268f6fd4b1
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '598'
 ht-degree: 2%
 
 ---

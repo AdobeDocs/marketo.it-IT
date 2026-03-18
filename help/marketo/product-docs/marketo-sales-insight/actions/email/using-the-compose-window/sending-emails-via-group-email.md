@@ -1,12 +1,12 @@
 ---
-description: Invio di e-mail tramite e-mail di gruppo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come inviare e-mail di vendita tramite e-mail di gruppo. Invia più destinatari per e-mail contemporaneamente con le opzioni di tracciamento e personalizzazione.
 title: Invio di e-mail tramite e-mail di gruppo
 exl-id: 0099c0ee-dff2-4d7d-91cd-7d619405bac5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 7%
 
 ---
 
@@ -16,7 +16,7 @@ Ecco come inviare/modificare le e-mail utilizzando l’opzione Raggruppa e-mail.
 
 ## Invio di un’e-mail di gruppo {#sending-a-group-email}
 
-1. Fare clic sulla scheda **[!UICONTROL People]**.
+1. Fai clic sulla scheda **[!UICONTROL People]**.
 
    ![](assets/sending-emails-via-group-email-1.png)
 

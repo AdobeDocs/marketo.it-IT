@@ -1,13 +1,13 @@
 ---
-description: Visualizzazione dettagli persona - Documentazione Marketo - Documentazione del prodotto
+description: Comprendere la vista dei dettagli della persona in Azioni Insight vendite. Consulta le informazioni di contatto, la cronologia delle attività e le azioni rapide per un lead o un contatto.
 title: Visualizzazione dettagli persona
 hide: true
 hidefromtoc: true
 exl-id: 3d172daa-745d-44f9-8460-40866d0247a1
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '298'
 ht-degree: 3%
 
 ---

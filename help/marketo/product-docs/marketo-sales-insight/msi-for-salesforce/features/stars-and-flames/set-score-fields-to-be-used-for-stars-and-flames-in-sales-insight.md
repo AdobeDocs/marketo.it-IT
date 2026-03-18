@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360301
-description: Imposta i campi punteggio da utilizzare per stelle e fiamme nella documentazione di vendita Insight - Marketo Docs - Documentazione del prodotto
+description: Scopri come impostare i campi di punteggio per le stelle e le fiamme in Sales Insight. Mappa i campi di punteggio Marketo alla visualizzazione MSI in Salesforce.
 title: Impostare i campi punteggio da utilizzare per stelle e fiamme in Sales Insight
 exl-id: 640f6d53-71ee-4a6d-b28a-82f3825b8f8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 9%
+source-wordcount: '152'
+ht-degree: 11%
 
 ---
 

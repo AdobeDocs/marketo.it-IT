@@ -1,12 +1,12 @@
 ---
-description: Non posso più entrare nel mio account. Che cosa devo fare? - Documenti Marketo - Documentazione del prodotto
+description: Ottieni aiuto quando sei bloccato fuori dall’account Sales Insight Actions. Scopri come reimpostare la password o riconnettere Salesforce per recuperare l’accesso.
 title: Non posso più entrare nel mio account. Cosa devo fare?
 exl-id: e3ef9909-36e6-434b-8f6e-161af69e093b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '61'
+ht-degree: 36%
 
 ---
 

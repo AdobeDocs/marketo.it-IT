@@ -1,12 +1,12 @@
 ---
-description: Invio di un’e-mail tracciata - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come inviare un’e-mail di vendita tracciata in modo da poter visualizzare visualizzazioni, clic e risposte. Utilizza un canale di consegna e tieni traccia di dal centro comandi.
 title: Invio di un’e-mail tracciata
 hide: true
 hidefromtoc: true
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 4%
+source-wordcount: '215'
+ht-degree: 3%
 
 ---
 

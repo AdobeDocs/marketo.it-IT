@@ -1,11 +1,11 @@
 ---
-description: Informazioni sulla scheda Contenuto - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere la scheda Contenuto e le metriche di coinvolgimento dei modelli nelle azioni di Sales Insight. Visualizza l'Arma segreta, l'impegno massimo e minimo, gli allegati e i collegamenti principali.
 title: Informazioni sulla scheda Contenuto
 exl-id: 67d13ce6-8a21-4dce-b865-3e7115ac4c4b
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '198'
 ht-degree: 2%
 
 ---

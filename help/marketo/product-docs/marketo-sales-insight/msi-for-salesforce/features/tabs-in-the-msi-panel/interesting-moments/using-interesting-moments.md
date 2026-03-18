@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951640
-description: Utilizzo dei momenti di interesse - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i momenti interessanti nel pannello MSI. Visualizza e interpreta le attività chiave che indicano il coinvolgimento del lead.
 title: Utilizzo di momenti di interesse
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '428'
 ht-degree: 1%
 
 ---

@@ -1,11 +1,11 @@
 ---
-description: Guida alla configurazione dell’amministratore delle azioni di Insight per le vendite - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare le azioni di Insight per le vendite come amministratore. Configurare la connessione Marketo, la sincronizzazione dei dati e invitare gli utenti.
 title: Guida alla configurazione dell’amministratore delle azioni di Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '613'
 ht-degree: 3%
 
 ---
@@ -106,7 +106,7 @@ Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrar
 
    ![](assets/msi-actions-admin-guide-8.png)
 
-1. Fare clic su **[!UICONTROL connect]**. Il tuo account verrà quindi connesso.
+1. Fai clic su **[!UICONTROL connect]**. Il tuo account verrà quindi connesso.
 
    ![](assets/msi-actions-admin-guide-9.png)
 

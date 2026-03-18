@@ -1,11 +1,11 @@
 ---
-description: Panoramica sull’annullamento dell’abbonamento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire l’annullamento dell’abbonamento nelle Azioni di Insight per le vendite. Comprendere come funzionano gli annullamenti dell’abbonamento e la sincronizzazione con Marketo e Salesforce.
 title: Panoramica sull’annullamento dell’iscrizione
 exl-id: 7598efa9-9686-4dd0-840b-f8b6de4ab2be
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---

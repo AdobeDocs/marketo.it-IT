@@ -1,12 +1,12 @@
 ---
-description: Quali sono i termini di servizio delle azioni di Insight per le vendite? - Documenti Marketo - Documentazione del prodotto
+description: Trovare i termini di servizio Sales Insight Actions. Rivedi i termini legali applicabili all’utilizzo del prodotto.
 title: Quali sono i termini di servizio delle azioni di Sales Insight?
 exl-id: 5a5409a0-2a26-4d5b-b1c9-89841255059d
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 30%
+source-wordcount: '50'
+ht-degree: 18%
 
 ---
 

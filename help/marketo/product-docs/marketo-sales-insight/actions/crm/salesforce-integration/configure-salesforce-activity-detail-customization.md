@@ -1,11 +1,11 @@
 ---
-description: Configurare la personalizzazione dei dettagli delle attività di Salesforce - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare la personalizzazione dei dettagli delle attività di Salesforce per i campi dell’oggetto dell’attività. Imposta i registri per l'attività Salesforce durante la sincronizzazione delle attività.
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->* Le azioni Salesforce e Sales Insight [&#x200B; devono essere connesse](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* La registrazione dell&#39;attività e-mail tramite API [&#x200B; deve essere abilitata](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* Le azioni Salesforce e Sales Insight [ devono essere connesse](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività [!DNL Salesforce] quando un&#39;attività di attività/promemoria [!DNL Sales Insight Actions] viene sincronizzata in [!DNL Salesforce].
 

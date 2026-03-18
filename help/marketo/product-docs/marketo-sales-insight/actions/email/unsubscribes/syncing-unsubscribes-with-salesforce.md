@@ -1,11 +1,11 @@
 ---
-description: Sincronizzazione degli annullamenti dell’abbonamento con Salesforce - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare gli annullamenti degli abbonamenti tra le azioni di Sales Insight e Salesforce. Mantenere lo stato di rinuncia coerente tra i sistemi.
 title: Sincronizzazione degli annullamenti delle iscrizioni con Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '458'
+source-wordcount: '467'
 ht-degree: 2%
 
 ---

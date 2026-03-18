@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11377552
-description: Specificare gli amministratori del plug-in di Marketo [!UICONTROL Sales Insight] - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come specificare gli amministratori del plug-in Marketo Sales Insight per Outlook. Indicare chi può gestire il componente aggiuntivo per l'organizzazione.
 title: Specificare gli amministratori del plug-in di Marketo [!UICONTROL Sales Insight]
 exl-id: 63d8d611-5ce7-4216-9e97-6051dcfcb948
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 2%
+source-wordcount: '88'
+ht-degree: 5%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 2%
 
    ![](assets/image2016-7-25-14-3a12-3a59.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Email Add-In]**.
+1. Fai clic sulla scheda **[!UICONTROL Email Add-In]**.
 
    ![](assets/image2016-7-25-14-3a2-3a53.png)
 

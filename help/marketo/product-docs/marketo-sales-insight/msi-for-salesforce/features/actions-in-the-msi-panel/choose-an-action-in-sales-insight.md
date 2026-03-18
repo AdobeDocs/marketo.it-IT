@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099167
-description: Scegliere un’azione nella documentazione di Insight per le vendite - Marketo
+description: Scopri come scegliere un’azione in Sales Insight dal pannello MSI. Invia e-mail, aggiungi alla campagna, registra una chiamata o aggiungi un’attività.
 title: Scegliere un’azione in Sales Insight
 exl-id: 0e9d3bc0-ac0a-415b-9931-382c3c68cfe2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 3%
+source-wordcount: '202'
+ht-degree: 2%
 
 ---
 

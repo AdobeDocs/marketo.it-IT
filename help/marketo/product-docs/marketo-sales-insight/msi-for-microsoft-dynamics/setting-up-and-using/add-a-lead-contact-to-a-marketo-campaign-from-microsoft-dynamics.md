@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953342
-description: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un lead o un contatto a una campagna Marketo da Microsoft Dynamics. Utilizza il pannello MSI per aggiungere lead alle campagne.
 title: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 10%
+source-wordcount: '136'
+ht-degree: 9%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Rendere visibile una campagna di marketing nelle azioni di Insight per le vendite - Documenti Marketo - Documentazione del prodotto
+description: Scopri come rendere visibile una campagna di marketing Marketo nelle azioni di Sales Insight. Consenti agli utenti vendite di aggiungere lead alla campagna da Azioni.
 title: Rendere visibile una campagna di marketing nelle azioni di Sales Insight
 exl-id: 223baca3-159e-4f0d-b26f-f4c924a39fc3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---

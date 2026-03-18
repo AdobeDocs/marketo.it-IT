@@ -1,11 +1,11 @@
 ---
-description: Connettersi a Outlook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come collegare Outlook alle azioni di Sales Insight. Invia e tieni traccia delle e-mail di vendita da Outlook con l’integrazione di Actions.
 title: Connessione ad Outlook
 exl-id: 760db2d2-2e5d-4988-891a-9c57250264ac
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '485'
-ht-degree: 2%
+source-wordcount: '498'
+ht-degree: 3%
 
 ---
 
@@ -78,7 +78,7 @@ La connessione a Outlook ti consente di ricevere il tracciamento delle risposte,
 
    >[!NOTE]
    >
-   >Outlook Online (Office365) applica i propri limiti di invio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >Outlook Online (Office365) applica i propri limiti di invio. Per ulteriori informazioni, [consulta questo articolo](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Connessione a Exchange On-Premise {#connecting-to-exchange-on-premise}
 

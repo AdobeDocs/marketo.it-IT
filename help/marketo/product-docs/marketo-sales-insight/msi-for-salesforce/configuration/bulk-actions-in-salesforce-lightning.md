@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37356282
-description: Azioni in blocco in Salesforce Lightning - Documenti Marketo - Documentazione del prodotto
+description: Scopri le azioni in blocco in Salesforce Lightning per Marketo Sales Insight. Utilizza Invia e-mail vendite e Aggiungi a campagna vendite dalle viste a elenco.
 title: Azioni in blocco in Salesforce Lightning
 exl-id: 8e07e870-158f-4072-8122-9f4b440f5f7c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Ecco come impostare azioni in blocco in [!DNL Salesforce Lightning].
 
    ![](assets/bulk-actions-in-salesforce-lightning-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Object Manager]**.
+1. Fai clic sulla scheda **[!UICONTROL Object Manager]**.
 
    ![](assets/bulk-actions-in-salesforce-lightning-2.png)
 

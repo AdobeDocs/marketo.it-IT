@@ -1,12 +1,12 @@
 ---
-description: Elementi di maggiore rilevanza - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri gli elementi di maggiore rilevanza in Marketo Sales Insight for Dynamics. Scopri quali lead sono più coinvolti e pronti per essere contattati.
 title: Elementi di maggiore rilevanza
 exl-id: 748e2ad8-9d01-4e44-a0b4-c6869456a799
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 3%
+source-wordcount: '69'
+ht-degree: 2%
 
 ---
 
@@ -19,6 +19,6 @@ Facendo clic sul menu punto nella colonna Azioni, è possibile utilizzare le opz
 * [!UICONTROL Send Marketo Email]
 * [!UICONTROL Add to Marketo Campaign]
 
-È inoltre possibile selezionare più lead dalla scheda [!DNL Best Bets] e scegliere _[!UICONTROL Send Marketo Email]_&#x200B;o&#x200B;_[!UICONTROL Add to Marketo Campaign]_.
+È inoltre possibile selezionare più lead dalla scheda [!DNL Best Bets] e scegliere _[!UICONTROL Send Marketo Email]_o_[!UICONTROL Add to Marketo Campaign]_.
 
 ![](assets/best-bets-1.png)

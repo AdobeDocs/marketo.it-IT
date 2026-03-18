@@ -1,11 +1,11 @@
 ---
-description: Aggiungi set di autorizzazioni Insight per le vendite - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere il set di autorizzazioni Sales Insight in Salesforce. Assegna il set agli utenti che necessitano dell’accesso a Marketo Sales Insight.
 title: Aggiungere set di autorizzazioni di Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '348'
 ht-degree: 3%
 
 ---

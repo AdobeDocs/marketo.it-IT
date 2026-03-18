@@ -1,11 +1,11 @@
 ---
-description: Elenco di controllo per l’onboarding degli utenti nelle azioni di Insight per le vendite - Documenti Marketo - Documentazione del prodotto
+description: Per iniziare, utilizza l’elenco di controllo per l’onboarding degli utenti in Azioni di Insight per le vendite. Monitora i passaggi di configurazione e l’attivazione per i nuovi utenti.
 title: Elenco di controllo per l’onboarding degli utenti nelle azioni di Sales Insight
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '131'
 ht-degree: 9%
 
 ---

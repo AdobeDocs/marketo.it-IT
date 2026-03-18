@@ -1,12 +1,12 @@
 ---
-description: Modifica della password di vendita di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare la password di vendita di Marketo in Azioni di Insight per le vendite. Aggiorna la password in Impostazioni quando non si utilizza l'accesso Solo Salesforce.
 title: Modificare password di Marketo Sales
 exl-id: c63c007a-8f3e-433e-8f3a-9426da303cdb
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 8%
+source-wordcount: '172'
+ht-degree: 11%
 
 ---
 

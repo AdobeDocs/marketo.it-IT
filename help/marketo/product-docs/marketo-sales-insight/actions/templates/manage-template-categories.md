@@ -1,14 +1,14 @@
 ---
-description: Gestire le categorie dei modelli - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire le categorie di modelli in Azioni Vendite Insight. Organizza i modelli in categorie e controlla la condivisione.
 title: Gestire le categorie di modelli
 hide: true
 hidefromtoc: true
 exl-id: 6ec62e51-de9a-4165-b36b-d9260fcfcefe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 10%
+source-wordcount: '123'
+ht-degree: 19%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 10%
 
 ## Creare una categoria {#create-a-category}
 
-1. Fare clic sulla scheda **[!UICONTROL Templates]**.
+1. Fai clic sulla scheda **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-1.png)
 
@@ -30,7 +30,7 @@ ht-degree: 10%
 
 ## Rinominare una categoria di modelli {#rename-a-template-category}
 
-1. Fare clic sulla scheda **[!UICONTROL Templates]**.
+1. Fai clic sulla scheda **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-4.png)
 
@@ -44,7 +44,7 @@ ht-degree: 10%
 
 ## Eliminare una categoria di modello {#delete-a-template-category}
 
-1. Fare clic sulla scheda **[!UICONTROL Templates]**.
+1. Fai clic sulla scheda **[!UICONTROL Templates]**.
 
    ![](assets/manage-template-categories-7.png)
 

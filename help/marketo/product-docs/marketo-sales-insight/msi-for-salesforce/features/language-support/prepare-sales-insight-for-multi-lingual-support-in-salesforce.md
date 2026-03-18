@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7516460
-description: Preparare il team di vendita Insight per il supporto multilingue in Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come preparare Marketo Sales Insight per il supporto multilingue in Salesforce. Imposta lingua e impostazioni locali per gli utenti globali.
 title: Preparare Sales Insight per il supporto multilingue in Salesforce
 exl-id: b808fa91-accd-4e0c-8223-0717faccab10
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '202'
-ht-degree: 10%
+source-wordcount: '210'
+ht-degree: 11%
 
 ---
 
@@ -55,7 +55,7 @@ Marketo Sales Insight è memorizzato per lingua. Pertanto, se si desidera che fu
 
    ![](assets/image2015-7-6-16-3a7-3a15.png)
 
-1. Passa a Marketo. Individua i tuoi [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**&#x200B;dettagli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
+1. Passa a Marketo. Individua i tuoi [[!DNL Marketo Sales Insight] **[!UICONTROL API configuration]**dettagli](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/configure-marketo-sales-insight-in-salesforce-enterprise-unlimited.md#configure-marketo-sales-insight).
 
    ![](assets/image2015-7-6-16-3a41-3a2.png)
 

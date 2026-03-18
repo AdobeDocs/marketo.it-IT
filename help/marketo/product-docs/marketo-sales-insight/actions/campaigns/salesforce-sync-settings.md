@@ -1,12 +1,12 @@
 ---
-description: Impostazioni di sincronizzazione Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come configurare le impostazioni di sincronizzazione di Salesforce per la registrazione dell’attività e-mail.
 title: Impostazioni sincronizzazione Salesforce
 exl-id: fa13ced2-6184-485f-a0ef-813ccab4f0fe
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '574'
-ht-degree: 2%
+source-wordcount: '578'
+ht-degree: 4%
 
 ---
 
@@ -28,7 +28,7 @@ Questa funzionalità richiede l&#39;iscrizione all&#39;edizione Enterprise/Unlim
 
    ![](assets/salesforce-sync-settings-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Settings]**.
 
    ![](assets/salesforce-sync-settings-3.png)
 
@@ -58,7 +58,7 @@ Dopo aver attivato &quot;[!UICONTROL Email to Salesforce (BCC)]&quot;, riceverai
 
    ![](assets/salesforce-sync-settings-7.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Settings]**.
 
    ![](assets/salesforce-sync-settings-8.png)
 
@@ -102,7 +102,7 @@ Se l&#39;indirizzo di posta elettronica personale a [!DNL Salesforce] non è vis
 
    ![](assets/salesforce-sync-settings-11.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Settings]**.
 
    ![](assets/salesforce-sync-settings-12.png)
 

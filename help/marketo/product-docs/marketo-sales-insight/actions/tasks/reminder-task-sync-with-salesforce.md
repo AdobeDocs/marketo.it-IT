@@ -1,11 +1,11 @@
 ---
-description: Sincronizzazione attività promemoria con Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare le attività promemoria con Salesforce. Assicurati che nell’attività di Salesforce vengano visualizzate le attività e-mail, chiamate e personalizzate delle azioni.
 title: Sincronizzazione attività promemoria con Salesforce
 exl-id: 11aa6ab5-5489-4c20-a64d-2fd6fe29506f
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '497'
 ht-degree: 1%
 
 ---

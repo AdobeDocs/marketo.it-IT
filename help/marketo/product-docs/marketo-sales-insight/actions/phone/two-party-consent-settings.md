@@ -1,12 +1,12 @@
 ---
-description: Impostazioni di consenso di due parti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare le impostazioni di consenso di due parti per la registrazione delle chiamate. Rispetta le leggi sulla registrazione locali e statali.
 title: Impostazioni di consenso di due parti
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '146'
+ht-degree: 6%
 
 ---
 

@@ -1,11 +1,11 @@
 ---
-description: Connettersi a Gmail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come collegare Gmail alle azioni di Sales Insight. Invia e tieni traccia delle e-mail di vendita da Gmail con l’integrazione di Actions.
 title: Connessione a Gmail
 exl-id: 40f67fbd-cb6e-4e0b-b9ad-093c432f67ed
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 6%
+source-wordcount: '190'
+ht-degree: 7%
 
 ---
 
@@ -57,4 +57,4 @@ La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, a
 
 >[!NOTE]
 >
->Gmail applica i propri limiti di invio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail applica i propri limiti di invio. Per ulteriori informazioni, [consulta questo articolo](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

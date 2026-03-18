@@ -1,11 +1,11 @@
 ---
-description: Diagnostica Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Informazioni sulla diagnostica di Salesforce e sui messaggi di errore per la registrazione dei dati non riuscita. Accedere alla pagina Diagnostica e utilizzare la scheda di riferimento errori per la risoluzione dei problemi.
 title: Diagnostica Salesforce
 exl-id: c449f938-9615-47cb-b232-613ec29068a3
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '1339'
+source-wordcount: '1355'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Categoria:** Altro
 **Messaggio:** non può fare riferimento al lead convertito
 **Cosa sta succedendo:** Stiamo tentando di accedere a un lead convertito durante la registrazione attività più recente per contatti e lead. Ho visto anche un paio di questi per le piazzole.
-**Procedura di risoluzione dei problemi:** Segnala eventuali istanze di questo al nostro [team di supporto](https://nation.marketo.com/t5/Support/ct-p/Support).
+**Procedura di risoluzione dei problemi:** Segnala eventuali istanze di questo al nostro [team di supporto](https://nation.marketo.com/t5/support/ct-p/Support).
 
 **Errore:** ENTITY_IS_LOCKED
 **Categoria:** Accesso/Convalida

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949285
-description: Registrare i messaggi in entrata dai lead in Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come registrare la posta in entrata dai lead in Marketo. Acquisisci e attribuisci le risposte e le e-mail in entrata al record del lead corretto.
 title: Registra i messaggi in entrata dai lead in Marketo
 exl-id: 4fab5007-f6fb-432c-ae13-02da747a82ef
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 12%
+source-wordcount: '139'
+ht-degree: 11%
 
 ---
 

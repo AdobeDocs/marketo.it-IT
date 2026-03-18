@@ -1,13 +1,13 @@
 ---
 unique-page-id: 42762244
-description: Impostazione di stelle e fiamme per record di lead/contatti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare stelle e fiamme per i record di lead e contatti in Dynamics. Mostra il punteggio lead e l’urgenza nel sistema CRM.
 title: Impostazione di stelle e fiamme per record lead/contatti
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 11%
+source-wordcount: '164'
+ht-degree: 10%
 
 ---
 

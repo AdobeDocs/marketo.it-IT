@@ -1,11 +1,11 @@
 ---
-description: Opzioni per l’invio di e-mail in blocco - Documenti Marketo - Documentazione del prodotto
+description: Scopri le opzioni di invio di e-mail in blocco in Azioni Insight di vendita. Invia a più destinatari tramite e-mail di gruppo, seleziona e invia o campagne.
 title: Opzioni di invio e-mail in blocco
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '266'
 ht-degree: 5%
 
 ---

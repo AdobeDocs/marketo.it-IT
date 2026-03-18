@@ -1,12 +1,12 @@
 ---
-description: Perché l’attività di tracciamento non viene visualizzata nell’attività di Salesforce? - Documenti Marketo - Documentazione del prodotto
+description: Risolvere i problemi quando l’attività di tracciamento non viene visualizzata in Attività Salesforce. Controlla le impostazioni di sincronizzazione, la registrazione API e le autorizzazioni.
 title: Perché l’attività di tracciamento non viene visualizzata nell’attività di Salesforce?
 exl-id: 119b41a2-b691-48f8-9399-efcd5b47d942
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 16%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 

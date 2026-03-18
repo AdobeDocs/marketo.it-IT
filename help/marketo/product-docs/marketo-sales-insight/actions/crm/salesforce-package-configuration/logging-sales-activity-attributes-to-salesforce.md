@@ -1,11 +1,11 @@
 ---
-description: Registrazione degli attributi dell'attività di vendita su Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere campi di attività personalizzati per Azioni Sales Insight in Salesforce. Crea campi personalizzati per attività in Configurazione per registrare i risultati, i motivi e altro ancora delle chiamate.
 title: Registrazione degli attributi dell’attività di vendite in Salesforce
 exl-id: fdefe53b-eb99-48ce-a04e-3666be33fea4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 14%
+source-wordcount: '241'
+ht-degree: 13%
 
 ---
 

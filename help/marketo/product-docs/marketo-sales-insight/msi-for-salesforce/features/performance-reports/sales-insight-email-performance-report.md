@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720314
-description: Rapporto sulle prestazioni delle e-mail di Insight per le vendite - Documenti Marketo - Documentazione del prodotto
+description: Scopri il rapporto sulle prestazioni delle e-mail di Sales Insight in Salesforce. Visualizzare le metriche e il coinvolgimento delle e-mail di vendita.
 title: Rapporto sulle prestazioni delle e-mail di Sales Insight
 exl-id: eadce9f8-0ba2-4e0c-947c-50ff74003b8e
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 9%
+source-wordcount: '146'
+ht-degree: 22%
 
 ---
 
@@ -29,7 +29,7 @@ Visualizza le prestazioni delle e-mail inviate tramite [!DNL Salesforce], [!DNL 
 
    ![](assets/three.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Report]**.
+1. Fai clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/image2014-12-9-12-3a5-3a35.png)
 
@@ -47,7 +47,7 @@ Visualizza le prestazioni delle e-mail inviate tramite [!DNL Salesforce], [!DNL 
 
 È possibile visualizzare questo rapporto raggruppato per rappresentante commerciale modificando le impostazioni.
 
-1. Fare clic su **[!UICONTROL Setup]**. Fare doppio clic su **[!UICONTROL Email]**.
+1. Fai clic su **[!UICONTROL Setup]**. Fare doppio clic su **[!UICONTROL Email]**.
 
    ![](assets/image2014-12-9-12-3a12-3a19.png)
 
@@ -59,7 +59,7 @@ Visualizza le prestazioni delle e-mail inviate tramite [!DNL Salesforce], [!DNL 
 
    ![](assets/image2014-12-9-12-3a17-3a39.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Report]**.
+1. Fai clic sulla scheda **[!UICONTROL Report]**.
 
    ![](assets/image2014-12-9-12-3a19-3a7.png)
 

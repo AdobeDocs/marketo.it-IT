@@ -1,11 +1,11 @@
 ---
-description: Verifica e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come verificare il tuo indirizzo e-mail in Azioni Insight di vendita. Completa la verifica per poter inviare e-mail di vendita registrate.
 title: Verificare l’e-mail
 exl-id: 4ee9a45a-53c3-48ca-9f47-90f007b7f9b9
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '104'
 ht-degree: 7%
 
 ---
@@ -36,4 +36,4 @@ Se disponi di un’identità e-mail non verificata, segui i passaggi indicati di
 
 >[!NOTE]
 >
->Se non ricevi l’e-mail di verifica, controlla la cartella di posta indesiderata. In caso contrario, contattare il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se non ricevi l’e-mail di verifica, controlla la cartella di posta indesiderata. In caso contrario, contattare il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).

@@ -1,11 +1,11 @@
 ---
 unique-page-id: 14352613
-description: Aggiungere persone alla campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere o rimuovere persone dalle campagne di vendita dall’app web, da Salesforce o dalla casella in entrata. Imposta le opzioni di risposta e mancato recapito per terminare automaticamente le campagne.
 title: Aggiungere persone alla campagna
 exl-id: ef88ee07-6d33-40aa-9b0b-ccef12829345
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '462'
 ht-degree: 3%
 
 ---

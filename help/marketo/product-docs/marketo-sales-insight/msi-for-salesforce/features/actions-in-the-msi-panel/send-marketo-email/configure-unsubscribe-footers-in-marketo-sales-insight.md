@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2953373
-description: Configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight - Documenti Marketo - Documentazione del prodotto
+description: Scopri come configurare i piè di pagina per l’annullamento dell’abbonamento in Marketo Sales Insight. Imposta i collegamenti per annullare l’iscrizione e assicurati che le e-mail di vendita siano conformi.
 title: Configurare i piè di pagina per l’annullamento dell’iscrizione in Marketo Sales Insight
 exl-id: 16c1fcba-6826-400c-ab7c-371d8653d4ad
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '192'
+ht-degree: 7%
 
 ---
 

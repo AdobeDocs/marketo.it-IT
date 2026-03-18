@@ -1,19 +1,19 @@
 ---
 unique-page-id: 11377488
-description: Installa il componente aggiuntivo Marketo per  [!DNL Outlook]  con una chiave Enterprise - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come installare il componente aggiuntivo Marketo per Outlook con una chiave Enterprise. Distribuisci il componente aggiuntivo per la tua organizzazione utilizzando una chiave aziendale.
 title: Installa il componente aggiuntivo Marketo per  [!DNL Outlook]  con una chiave Enterprise
 exl-id: a44780d6-a360-4536-8913-31429cc32f65
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 0%
+source-wordcount: '271'
+ht-degree: 1%
 
 ---
 
 # Installare il componente aggiuntivo Marketo per [!DNL Outlook] con una chiave Enterprise {#install-the-marketo-add-in-for-outlook-with-an-enterprise-key}
 
-Spesso i rappresentanti commerciali non dispongono di privilegi amministrativi sui notebook e i loro team IT sono responsabili dell&#39;installazione di tutto il software in remoto. Il componente aggiuntivo Marketo per Outlook può essere installato in questo modo utilizzando la chiave Enterprise, disponibile nella sezione Sales Insight di Admin. Se non trovi il pulsante Visualizza chiave Enterprise, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) per abilitarlo.
+Spesso i rappresentanti commerciali non dispongono di privilegi amministrativi sui notebook e i loro team IT sono responsabili dell&#39;installazione di tutto il software in remoto. Il componente aggiuntivo Marketo per Outlook può essere installato in questo modo utilizzando la chiave Enterprise, disponibile nella sezione Sales Insight di Admin. Se non trovi il pulsante Visualizza chiave Enterprise, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per abilitarlo.
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ Spesso i rappresentanti commerciali non dispongono di privilegi amministrativi s
 
    ![](assets/image2016-7-25-14-3a22-3a12.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Email Add-In]**.
+1. Fai clic sulla scheda **[!UICONTROL Email Add-In]**.
 
    ![](assets/image2016-7-25-14-3a23-3a57.png)
 

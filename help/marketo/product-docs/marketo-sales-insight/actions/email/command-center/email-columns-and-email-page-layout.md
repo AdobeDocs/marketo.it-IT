@@ -1,11 +1,11 @@
 ---
-description: Colonne e-mail e layout della pagina e-mail - Documenti Marketo - Documentazione del prodotto
+description: Comprendere le colonne di posta elettronica e il layout di pagina nel centro comandi. Personalizza quali colonne vengono visualizzate e come viene visualizzata l’attività e-mail.
 title: Colonne e-mail e layout della pagina e-mail
 exl-id: 004c9cdf-7ab1-4476-ba72-9074d978b887
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '478'
 ht-degree: 2%
 
 ---

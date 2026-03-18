@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355602
-description: Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come installare e configurare Marketo Sales Insight in Microsoft Dynamics Online. Configurare la soluzione per Dynamics Online.
 title: Installare e configurare Marketo Sales Insight in Microsoft Dynamics Online
 exl-id: 3b58b109-96f9-427e-be5c-a8db270ffe69
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 4%
+source-wordcount: '411'
+ht-degree: 6%
 
 ---
 
@@ -81,7 +81,7 @@ ht-degree: 4%
 
 ## Connetti Marketo e [!DNL Sales Insight] {#connect-marketo-and-sales-insight}
 
-Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. Ecco come:
+Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. effettuando le seguenti operazioni:
 
 >[!NOTE]
 >
@@ -155,11 +155,11 @@ Colleghiamo l&#39;istanza di Marketo a [!DNL Sales Insight] in [!DNL Dynamics]. 
 
 Infine, devi fornire a utenti specifici l&#39;accesso per utilizzare [!DNL Marketo Sales Insight].
 
-1. Vai a **[!UICONTROL Settings]**.
+1. Passa a **[!UICONTROL Settings]**.
 
    ![](assets/image2014-12-12-9-3a8-3a34-1.png)
 
-1. Vai a **[!UICONTROL Security]**.
+1. Passa a **[!UICONTROL Security]**.
 
    ![](assets/image2015-4-29-14-3a56-3a33-1.png)
 

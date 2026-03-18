@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949279
-description: Aggiorna il componente aggiuntivo Marketo Email per  [!DNL Outlook] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiornare Marketo Email Add-in per Outlook. Scarica la versione più recente per nuove funzioni e correzioni.
 title: Aggiorna il componente aggiuntivo Marketo Email per  [!DNL Outlook]
 exl-id: 079f1142-8062-448c-aa07-59ecd89a718f
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '326'
 ht-degree: 11%
 
 ---
@@ -119,7 +119,7 @@ Scaricare il programma di installazione appropriato per la versione di Microsoft
 
 &#42;Versione di Office 365: solo client Windows (su Windows 10, Windows 11, Enterprise o Pro).
 
-## Esegui l&#39;aggiornamento {#upgrade}
+## Aggiornamento {#upgrade}
 
 1. Identifica la tua [[!DNL Microsoft Outlook] versione](https://support.microsoft.com/en-us/office/what-version-of-outlook-do-i-have-b3a9568c-edb5-42b9-9825-d48d82b2257c?ui=en-us&rs=en-us&ad=us).
 

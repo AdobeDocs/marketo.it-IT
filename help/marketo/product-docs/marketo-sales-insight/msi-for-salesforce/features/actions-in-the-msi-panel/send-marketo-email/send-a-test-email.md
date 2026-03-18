@@ -1,12 +1,12 @@
 ---
-description: Inviare un messaggio e-mail di prova - Documenti Marketo - Documentazione del prodotto
+description: Scopri come inviare un’e-mail di test dal pannello MSI in Salesforce. Visualizza l’anteprima e verifica i modelli e-mail per le vendite prima di inviarli ai lead.
 title: Inviare un messaggio e-mail di prova
 exl-id: 5577460d-71e9-4ded-bcd3-07689fca4c43
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 7%
+source-wordcount: '157'
+ht-degree: 8%
 
 ---
 

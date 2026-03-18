@@ -1,13 +1,13 @@
 ---
 unique-page-id: 37355596
-description: Disabilita sincronizzazione globale MS Dynamics - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come disabilitare la sincronizzazione globale di MS Dynamics per Marketo Sales Insight. Disattivare la sincronizzazione quando necessario senza disinstallare.
 title: Disabilitare sincronizzazione MS Dynamics globale
 exl-id: a8c64e4a-4932-4686-8563-63452d3753e2
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 13%
+source-wordcount: '56'
+ht-degree: 12%
 
 ---
 
@@ -29,4 +29,4 @@ Segui questi semplici passaggi per disabilitare la sincronizzazione di [!DNL MS 
 
    >[!NOTE]
    >
-   >Se non trovi un pulsante [!UICONTROL Disable Sync] nella tua istanza, contatta il [Supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se non trovi un pulsante [!UICONTROL Disable Sync] nella tua istanza, contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).

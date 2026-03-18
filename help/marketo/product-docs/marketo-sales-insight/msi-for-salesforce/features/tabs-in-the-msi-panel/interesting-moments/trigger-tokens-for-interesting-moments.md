@@ -1,12 +1,12 @@
 ---
 unique-page-id: 1146999
-description: Token di attivazione per i momenti di interesse - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i token di attivazione per momenti interessanti in Marketo. Configura quali attività creano momenti interessanti nel pannello MSI.
 title: Attivare token per momenti di interesse
 exl-id: 666a6eed-c432-4088-b4f1-54c996eca64c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '556'
 ht-degree: 40%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 40%
 
 Consulta [Panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md) per visualizzare tutti i token che puoi inserire in un momento interessante.
 
-## Attiva token {#trigger-tokens}
+## Token di attivazione {#trigger-tokens}
 
 In base al trigger utilizzato in una campagna intelligente, sono disponibili token di trigger aggiuntivi.
 
@@ -1017,7 +1017,7 @@ In base al trigger utilizzato in una campagna intelligente, sono disponibili tok
    <td><br></td>
   </tr>
   <tr>
-   <td>Visite alla pagina web</td>
+   <td>Visita la pagina web</td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><img src="assets/check.png" alt="check"></td>
    <td><br></td>

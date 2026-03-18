@@ -1,11 +1,11 @@
 ---
-description: Informazioni sulla scheda Team - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere la scheda Team e le metriche e-mail a livello di team in Azioni di Sales Insight. Visualizza l’utilizzo dei modelli, il tempo di picco di coinvolgimento, le offerte chiuse e la classifica dei rappresentanti.
 title: Informazioni sulla scheda Team
 exl-id: 36189eb2-a802-4601-afca-dca3006e4608
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '152'
 ht-degree: 2%
 
 ---

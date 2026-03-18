@@ -1,11 +1,11 @@
 ---
-description: Aggiungere testo con collegamento ipertestuale - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere testo con collegamento ipertestuale nei modelli e-mail. Inserisci collegamenti tracciabili e formatta il testo dei collegamenti nell’editor modelli.
 title: Aggiungere testo con collegamento ipertestuale
 exl-id: c79f4aa7-e1bf-479a-a4bb-493c26337ae7
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '131'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ Segui i passaggi seguenti per scoprire come aggiungere collegamenti ipertestuali
 
    ![](assets/add-hyperlinked-text-3.png)
 
-1. Immettere l&#39;URL al quale si desidera collegarlo (ovvero `https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=it`). Scegliere se aprire l&#39;URL nella stessa finestra o in una nuova finestra e fare clic su **[!UICONTROL Save]**.
+1. Immettere l&#39;URL al quale si desidera collegarlo (ovvero `https://experienceleague.adobe.com/docs/marketo/using/home.html`). Scegliere se aprire l&#39;URL nella stessa finestra o in una nuova finestra e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/add-hyperlinked-text-4.png)
 

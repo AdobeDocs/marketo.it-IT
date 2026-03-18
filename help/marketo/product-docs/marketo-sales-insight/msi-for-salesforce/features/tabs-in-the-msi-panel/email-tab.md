@@ -1,11 +1,11 @@
 ---
-description: Scheda E-Mail - Documentazione Di Marketo - Documentazione Del Prodotto
+description: Scopri la scheda E-mail nel pannello Marketo Sales Insight. Visualizza le e-mail inviate, le aperture, i clic e le risposte per il lead o il contatto.
 title: Scheda e-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '171'
 ht-degree: 3%
 
 ---

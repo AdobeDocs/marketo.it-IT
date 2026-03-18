@@ -1,12 +1,12 @@
 ---
-description: Blocco dei contenuti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abilitare il blocco dei contenuti per impedire agli utenti non amministratori di modificare modelli e campagne.
 title: Blocco dei contenuti
 exl-id: 3f17a862-321a-4bbb-8693-117a7fb6a65c
 feature: Sales Insight Actions
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 4%
+source-wordcount: '102'
+ht-degree: 6%
 
 ---
 
