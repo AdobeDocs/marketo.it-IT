@@ -1,11 +1,11 @@
 ---
-description: Registra i motivi delle chiamate e gli esiti delle chiamate a Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come registrare i motivi delle chiamate e i risultati delle chiamate a Salesforce da Sales Connect. Assicurati che la disposizione delle chiamate sia sincronizzata con i campi Salesforce corretti.
 title: Registrare i motivi e gli esiti delle chiamate in Salesforce
 exl-id: b35acdc2-8ec7-4dec-92b8-58ba7a1ad858
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '426'
 ht-degree: 4%
 
 ---

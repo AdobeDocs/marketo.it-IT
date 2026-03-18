@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352470
-description: Creazione di un rapporto sulle chiamate prioritarie Salesforce con dati Sales Connect - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come creare un rapporto sulle chiamate prioritarie Salesforce utilizzando i dati di Sales Connect. Creare rapporti che includono l'attività di chiamata da Sales Connect.
 title: Creare un rapporto sulle chiamate prioritarie Salesforce con i dati di Sales Connect
 exl-id: eede4c34-d570-4dbc-beaf-6960cf80af89
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '164'
 ht-degree: 12%
 
 ---

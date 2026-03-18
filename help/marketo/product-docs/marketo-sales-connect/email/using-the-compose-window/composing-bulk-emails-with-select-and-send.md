@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356578
-description: Composizione di e-mail in blocco con Select e Send - Documenti Marketo - Documentazione del prodotto
+description: Scopri come comporre e-mail in blocco con Seleziona e invia in Sales Connect. Invia la stessa e-mail a più contatti con la personalizzazione.
 title: Composizione di e-mail in blocco con Seleziona e invia
 exl-id: 99a53f7a-bf3c-40df-961c-1927476acd10
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '402'
 ht-degree: 3%
 
 ---

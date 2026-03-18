@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30081307
-description: Colonne della pagina Persone - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le colonne della pagina Persone in Sales Connect. Personalizza le colonne da visualizzare per visualizzare le informazioni di contatto necessarie.
 title: Colonne della pagina delle persone
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '244'
 ht-degree: 8%
 
 ---
@@ -66,7 +66,7 @@ ht-degree: 8%
    <td>Campagna di vendita in cui si trova la persona</td>
   </tr>
   <tr>
-   <td>N. [!UICONTROL Campaigns]</td>
+   <td># [!UICONTROL Campaigns]</td>
    <td>Numero totale di campagne di vendita di cui la persona ha fatto parte</td>
   </tr>
   <tr>

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352475
-description: Installare i campi evento Sales Connect nella cronologia attività - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come installare i campi dell’evento Sales Connect nella cronologia delle attività di Salesforce. Aggiungi campi personalizzati per tenere traccia degli eventi di Sales Connect.
 title: Installare campi evento Sales Connect nella cronologia attività
 exl-id: c1bdb5a6-04f0-4579-84b6-33f4a301128f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '239'
-ht-degree: 9%
+source-wordcount: '247'
+ht-degree: 8%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352444
-description: Barra degli strumenti Sales Connect - Documentazione Marketo - Documentazione del prodotto
+description: Informazioni sulla barra degli strumenti Sales Connect in Gmail. Utilizza la barra degli strumenti del plug-in per inserire modelli, tenere traccia delle e-mail e accedere a Salesforce.
 title: Barra degli strumenti Sales Connect
 exl-id: bff92e49-7dd2-4008-8f92-fee03a552fdf
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 7%
+source-wordcount: '103'
+ht-degree: 6%
 
 ---
 
@@ -19,5 +19,5 @@ Cinque pulsanti [!DNL Sales Connect] verranno aggiunti nella parte superiore del
 |---|---|
 | Pulsante **[!UICONTROL Live Feed]** | Apre il [!DNL Sales Connect] [Feed live](https://toutapp.com/next#live) in cui è possibile ottenere informazioni di tracciamento in tempo reale nelle e-mail. |
 | Pulsante **[!UICONTROL Tasks]** | Visualizza un elenco a discesa di tutte le attività. |
-| **[!UICONTROL Templates and Conversations]pulsanti** | Apre rispettivamente la pagina [&#x200B; e la pagina &#x200B;](https://toutapp.com/login) dell&#39;applicazione Web [!UICONTROL Templates]1. [!UICONTROL Conversations] Tutto all’interno della pagina Gmail. |
+| **[!UICONTROL Templates and Conversations]pulsanti** | Apre rispettivamente la pagina [ e la pagina ](https://toutapp.com/login) dell&#39;applicazione Web [!UICONTROL Templates]1. [!UICONTROL Conversations] Tutto all’interno della pagina Gmail. |
 | Pulsante **[!UICONTROL Sales Gong]** | Ti consente di festeggiare le offerte chiuse/vinte con i tuoi compagni di squadra. |

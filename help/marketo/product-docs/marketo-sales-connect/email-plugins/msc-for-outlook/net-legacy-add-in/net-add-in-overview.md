@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352457
-description: Panoramica del componente aggiuntivo .NET - Documentazione di Marketo - Documentazione del prodotto
+description: Informazioni sul componente aggiuntivo Sales Connect .NET per Outlook. Comprendere il componente aggiuntivo legacy e come funziona con il desktop di Outlook.
 title: Panoramica del componente aggiuntivo .NET
 exl-id: fa40377e-e70b-46d3-a75f-5fa791f9275b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---

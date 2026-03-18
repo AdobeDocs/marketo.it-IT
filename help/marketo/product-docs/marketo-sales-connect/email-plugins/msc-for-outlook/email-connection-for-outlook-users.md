@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17727591
-description: Connessione e-mail per gli utenti di Outlook - Documentazione di Marketo - Documentazione del prodotto
+description: Informazioni sulla connessione e-mail per gli utenti di Outlook in Sales Connect. Connetti Outlook per inviare e-mail e accedere a Salesforce.
 title: Connessione e-mail per gli utenti di Outlook
 exl-id: e694915c-39a6-4476-a643-080acb758de7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 5%
+source-wordcount: '279'
+ht-degree: 8%
 
 ---
 
@@ -31,7 +31,7 @@ La connessione a [!DNL Outlook] comporta la ricezione del tracciamento delle ris
 
    ![](assets/two.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Email Connection]**.
+1. Fai clic sulla scheda **[!UICONTROL Email Connection]**.
 
    ![](assets/three.png)
 
@@ -80,7 +80,7 @@ La connessione a [!DNL Outlook] comporta la ricezione del tracciamento delle ris
 
    >[!NOTE]
    >
-   >[!DNL Outlook Online (Office365)] applica i propri limiti di invio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+   >[!DNL Outlook Online (Office365)] applica i propri limiti di invio. Per ulteriori informazioni, [consulta questo articolo](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
 
 ## Connessione a [!DNL Exchange On-Premise] {#connecting-to-exchange-on-premise}
 
@@ -94,7 +94,7 @@ La connessione a [!DNL Exchange On-Premise] comporta la ricezione del tracciamen
 
    ![](assets/two.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Email Connection]**.
+1. Fai clic sulla scheda **[!UICONTROL Email Connection]**.
 
    ![](assets/three.png)
 

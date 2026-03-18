@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317369
-description: Visualizzare l’elenco dei modelli come altro utente - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare l’elenco dei modelli come altro utente in Sales Connect. Utilizza Visualizza come amministratore per visualizzare ciò che vede un utente.
 title: Visualizzare l’elenco modelli come altro utente
 exl-id: 5640168d-fe87-4cb1-8262-349f8798a3da
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '87'
 ht-degree: 18%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352543
-description: Posizione del destinatario errata - Documentazione Marketo - Documentazione del prodotto
+description: Ottenere assistenza quando l'ubicazione del destinatario non è corretta in Sales Connect. Correggi o aggiorna la posizione in cui viene visualizzata la posizione di un contatto nel feed live.
 title: Posizione destinatario errata
 exl-id: bb605522-367c-4a64-a547-e5b7b60e9a4c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 5%
+source-wordcount: '124'
+ht-degree: 4%
 
 ---
 

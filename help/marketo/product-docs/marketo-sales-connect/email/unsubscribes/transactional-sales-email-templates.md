@@ -1,11 +1,11 @@
 ---
-description: Modelli e-mail per le vendite transazionali - Documenti Marketo - Documentazione del prodotto
+description: Scopri i modelli e-mail per le vendite transazionali in Sales Connect. Utilizza i modelli che consentono di evitare l’annullamento dell’iscrizione ai messaggi transazionali.
 title: Modelli e-mail per vendite transazionali
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 4%
+source-wordcount: '182'
+ht-degree: 5%
 
 ---
 

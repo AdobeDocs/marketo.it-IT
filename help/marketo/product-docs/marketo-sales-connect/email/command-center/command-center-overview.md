@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352530
-description: Panoramica del centro comandi - Documentazione di Marketo - Documentazione del prodotto
+description: Informazioni sul centro comandi in Sales Connect. Gestisci le attività e-mail, i messaggi inviati e i follow-up in un'unica posizione.
 title: Panoramica del centro comandi
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '568'
 ht-degree: 1%
 
 ---

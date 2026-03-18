@@ -1,12 +1,12 @@
 ---
 unique-page-id: 30082174
-description: Momenti di interesse in Sales Connect - Documentazione Marketo - Documentazione del prodotto
+description: Scopri momenti interessanti in Sales Connect e Marketo. Scopri come l’attività di vendita crea momenti che fluiscono nel feed live.
 title: Momenti di interesse in Sales Connect
 exl-id: 210f31d1-606a-479d-8a2b-351b2b1a7678
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '279'
 ht-degree: 1%
 
 ---

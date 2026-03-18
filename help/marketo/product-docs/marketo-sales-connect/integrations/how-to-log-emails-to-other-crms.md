@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352430
-description: Come registrare le e-mail in altri CRM - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come registrare le e-mail di Sales Connect per CRM diversi da Salesforce. Ottieni opzioni per l’attività di registrazione nel tuo CRM.
 title: Come registrare le e-mail in altri CRM
 exl-id: 29b34be0-685f-4c80-920d-d33ff7d02f5d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '162'
 ht-degree: 9%
 
 ---

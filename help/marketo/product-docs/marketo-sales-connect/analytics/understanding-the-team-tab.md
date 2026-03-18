@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352414
-description: Informazioni sulla scheda [!UICONTROL Team] - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere la scheda Team e le metriche a livello di team in Sales Connect. Visualizza le e-mail inviate con modelli, orario massimo di coinvolgimento, offerte chiuse e classifica rappresentanti.
 title: Informazioni sulla scheda [!UICONTROL Team]
 exl-id: 07084711-b387-4688-bcf0-fd054acb8366
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 17728401
-description: Connessione e-mail per utenti Gmail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la connessione e-mail per gli utenti Gmail in Sales Connect. Connetti Gmail per inviare e-mail tracciate e registrare l’attività in Salesforce.
 title: Connessione e-mail per utenti Gmail
 exl-id: 024461f1-b1c0-40ff-bb1c-49846c57dabe
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+source-wordcount: '175'
+ht-degree: 12%
 
 ---
 
@@ -27,7 +27,7 @@ La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, a
 
    ![](assets/two.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Email Connection]**.
+1. Fai clic sulla scheda **[!UICONTROL Email Connection]**.
 
    ![](assets/three.png)
 
@@ -59,4 +59,4 @@ La connessione a Gmail ti consente di ricevere il tracciamento delle risposte, a
 
 >[!NOTE]
 >
->Gmail applica i propri limiti di invio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).
+>Gmail applica i propri limiti di invio. Per ulteriori informazioni, [consulta questo articolo](/help/marketo/product-docs/marketo-sales-connect/email/email-delivery/email-connection-throttling.md#email-provider-limits).

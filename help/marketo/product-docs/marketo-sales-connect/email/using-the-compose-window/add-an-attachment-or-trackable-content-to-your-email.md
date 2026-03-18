@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356587
-description: Aggiungere un allegato o un contenuto tracciabile al messaggio e-mail - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un allegato o un contenuto tracciabile all’e-mail di Sales Connect. Allegare file o aggiungere collegamenti tracciati nella finestra di composizione.
 title: Aggiungere un allegato o un contenuto tracciabile all’e-mail
 exl-id: 06a80676-00bd-46d3-a989-ae503f7e76a6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '290'
 ht-degree: 6%
 
 ---

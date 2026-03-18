@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352614
-description: Informazioni sulla scheda [!UICONTROL Me] - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere la scheda Me e le statistiche del coinvolgimento e-mail in Sales Connect. Visualizza le e-mail inviate, l’utilizzo dei modelli e quelle più coinvolgenti.
 title: Informazioni sulla scheda [!UICONTROL Me]
 exl-id: 5ae0e091-e315-4182-81d3-134113c8288f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---

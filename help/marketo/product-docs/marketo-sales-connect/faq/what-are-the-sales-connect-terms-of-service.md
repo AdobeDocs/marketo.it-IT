@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352495
-description: Quali sono i termini di servizio di Sales Connect? - Documenti Marketo - Documentazione del prodotto
+description: Scopri i termini di servizio di Sales Connect. Trovare i termini e le condizioni legali per l'utilizzo di Marketo Sales Connect.
 title: Quali sono i termini di servizio di Sales Connect?
 exl-id: 958d5d0f-1cf4-4653-aaf9-e516a23cb702
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '41'
-ht-degree: 29%
+source-wordcount: '48'
+ht-degree: 16%
 
 ---
 

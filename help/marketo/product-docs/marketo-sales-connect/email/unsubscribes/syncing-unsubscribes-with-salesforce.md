@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14746188
-description: Sincronizzazione degli annullamenti dell’abbonamento con Salesforce - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare gli annullamenti degli abbonamenti a Sales Connect con Salesforce. Mantieni lo stato di rinuncia sincronizzato in modo da non inviare e-mail ai contatti per i quali non sei abbonato.
 title: Sincronizzazione degli annullamenti delle iscrizioni con Salesforce
 exl-id: 1694d7bf-d2f6-4950-8a3e-c7d89c37b276
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '388'
+source-wordcount: '401'
 ht-degree: 2%
 
 ---

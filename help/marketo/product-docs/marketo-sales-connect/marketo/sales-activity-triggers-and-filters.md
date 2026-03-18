@@ -1,11 +1,11 @@
 ---
-description: Attivatori e filtri attività di vendita - Documentazione Marketo - Documentazione del prodotto
+description: Scopri i trigger e i filtri dell’attività di vendita in Marketo. Utilizza l’attività Sales Connect per attivare campagne e filtri avanzati.
 title: Attivatori e filtri dell’attività di vendita
 exl-id: 750abb73-8217-4739-8a08-1eb0f6e2976c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '124'
 ht-degree: 8%
 
 ---

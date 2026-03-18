@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352489
-description: Non ho effettuato l’accesso alla cronologia delle attività - Documentazione di Marketo - Documentazione del prodotto
+description: Ottieni assistenza quando l'attività Sales Connect non ha eseguito il log nella cronologia delle attività di Salesforce. Risolvere i problemi relativi a chiamate o e-mail mancanti nella Cronologia attività.
 title: Accesso alla cronologia attività non eseguito
 exl-id: 4870cd09-86d4-4dff-919c-0584bbc844d2
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 11%
+source-wordcount: '96'
+ht-degree: 10%
 
 ---
 

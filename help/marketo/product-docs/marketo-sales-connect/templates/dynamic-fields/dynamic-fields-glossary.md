@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352509
-description: Glossario dei campi dinamici - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i campi dinamici in Sales Connect. Utilizzare questo glossario per trovare i campi unione disponibili per i modelli e la personalizzazione.
 title: Glossario dei campi dinamici
 exl-id: 28351ba9-53da-4408-9526-918200d9bd29
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

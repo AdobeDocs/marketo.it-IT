@@ -1,12 +1,12 @@
 ---
 unique-page-id: 18317367
-description: Visualizzare l’elenco delle campagne come altro utente - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare l’elenco delle campagne come altro utente in Sales Connect. Utilizza l’elenco a discesa Visualizza come come amministratore per visualizzare le campagne di qualsiasi utente.
 title: Visualizzare un elenco di campagne come altro utente
 exl-id: 4efb565d-2760-4faa-93a3-c2e49b8b8ff3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 15%
 
 ---

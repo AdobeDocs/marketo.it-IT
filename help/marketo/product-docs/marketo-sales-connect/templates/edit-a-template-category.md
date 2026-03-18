@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352506
-description: Modificare una categoria di modelli - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare una categoria di modelli in Sales Connect. Rinominare o aggiornare le impostazioni e la condivisione delle categorie.
 title: Modificare una categoria di modello
 exl-id: ae7c9db2-78d3-497c-9752-77304b9ab3d8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 

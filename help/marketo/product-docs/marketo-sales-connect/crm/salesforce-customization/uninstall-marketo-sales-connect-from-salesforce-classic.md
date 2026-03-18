@@ -1,11 +1,11 @@
 ---
-description: Disinstallare Marketo Sales Connect da Salesforce Classic - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come disinstallare Marketo Sales Connect da Salesforce Classic. Rimuovere le personalizzazioni e i pulsanti di Sales Connect da Classic.
 title: Disinstallare Marketo Sales Connect da Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1025'
-ht-degree: 11%
+source-wordcount: '1032'
+ht-degree: 12%
 
 ---
 

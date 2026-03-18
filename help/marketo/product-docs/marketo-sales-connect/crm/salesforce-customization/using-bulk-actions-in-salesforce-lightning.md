@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762825
-description: 'Utilizzo di azioni in blocco in Salesforce Lightning: documenti Marketo: documentazione del prodotto'
+description: Scopri come utilizzare le azioni in blocco in Salesforce Lightning con Sales Connect. Invia più lead o contatti a Sales Connect contemporaneamente.
 title: Utilizzo di azioni in blocco in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '378'
 ht-degree: 1%
 
 ---

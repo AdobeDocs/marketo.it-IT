@@ -1,11 +1,11 @@
 ---
-description: Concessione dell’accesso agli utenti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come concedere agli utenti di Marketo l’accesso Sales Connect. Utilizza l’amministratore Marketo per effettuare il provisioning di Sales Connect per il tuo team.
 title: Concessione dell’accesso agli utenti
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '199'
 ht-degree: 4%
 
 ---

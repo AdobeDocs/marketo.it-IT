@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352538
-description: E-mail di prova non visualizzata - Documentazione di Marketo - Documentazione del prodotto
+description: Ricevi assistenza quando un’e-mail di test non risultava visualizzata come visualizzata in Sales Connect. Risoluzione dei problemi di tracciamento della visualizzazione per gli invii di test o anteprima.
 title: E-mail di test non visualizzata nel modo in cui viene vista
 exl-id: a97bf35c-6cc2-49d1-b8ab-7a434c4482b6
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '149'
 ht-degree: 8%
 
 ---

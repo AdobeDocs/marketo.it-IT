@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352594
-description: Utilizzo dei documenti di HTML - Marketo - Documentazione del prodotto
+description: Scopri come utilizzare HTML nei modelli di Sales Connect. Aggiungi HTML personalizzato per la formattazione, i collegamenti o il layout avanzato nei modelli.
 title: Utilizzo di HTML
 exl-id: 12cd78fa-6196-4605-aadf-8f0547bf71ca
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 6%
+source-wordcount: '97'
+ht-degree: 5%
 
 ---
 

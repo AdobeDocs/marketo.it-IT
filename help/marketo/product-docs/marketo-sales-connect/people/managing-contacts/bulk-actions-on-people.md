@@ -1,13 +1,13 @@
 ---
 unique-page-id: 30081230
-description: Azioni in blocco sulle persone - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare le azioni in blocco nella pagina Persone di Sales Connect. Aggiungi alla campagna, rimuovi dalla campagna o elimina più contatti.
 title: Azioni in blocco sulle persone
 exl-id: 5956444c-8839-4f8f-97d0-20ed35a395aa
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 8%
+source-wordcount: '155'
+ht-degree: 7%
 
 ---
 

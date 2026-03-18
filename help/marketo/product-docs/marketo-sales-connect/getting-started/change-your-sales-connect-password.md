@@ -1,12 +1,12 @@
 ---
-description: Modifica della password di connessione alle vendite - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare la password di Sales Connect. Aggiorna la password da Impostazioni per proteggere il tuo account.
 title: Modificare password di Sales Connect
 exl-id: b8c14c7c-c79a-452f-afba-6c8578be2ecd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 8%
+source-wordcount: '163'
+ht-degree: 11%
 
 ---
 

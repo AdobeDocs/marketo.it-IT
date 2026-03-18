@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317669
-description: Impostazioni di sincronizzazione Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Informazioni sulle impostazioni di sincronizzazione di Salesforce per Sales Connect. Configura la sincronizzazione di contatti, attività e dati tra Sales Connect e Salesforce.
 title: Impostazioni sincronizzazione Salesforce
 exl-id: 024c60ac-569f-4051-9eee-1e8d00f7296c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 5%
+source-wordcount: '370'
+ht-degree: 8%
 
 ---
 
@@ -29,7 +29,7 @@ Questa funzionalità richiede di essere nell’edizione Enterprise/Unlimited di 
 
    ![](assets/two-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Settings]**.
 
    ![](assets/three-1.png)
 
@@ -59,7 +59,7 @@ Dopo aver attivato &quot;E-mail a Salesforce (CCN)&quot;, riceverai un CCN delle
 
    ![](assets/two-3.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Settings]**.
 
    ![](assets/three-1.png)
 
@@ -103,7 +103,7 @@ Se nelle tue Impostazioni non trovi Il mio indirizzo e-mail a Salesforce, l’am
 
    ![](assets/two-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Sync Settings]**.
+1. Fai clic sulla scheda **[!UICONTROL Sync Settings]**.
 
    ![](assets/three-1.png)
 

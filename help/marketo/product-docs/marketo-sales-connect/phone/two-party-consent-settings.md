@@ -1,13 +1,13 @@
 ---
 unique-page-id: 45416566
-description: Impostazioni di consenso di due parti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le impostazioni di consenso di due parti per la registrazione delle chiamate di Sales Connect. Rispetta le leggi statali che richiedono il consenso per la registrazione.
 title: Impostazioni di consenso di due parti
 exl-id: d0468ea1-3009-4190-ab9b-74c6fae955cb
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 5%
+source-wordcount: '148'
+ht-degree: 6%
 
 ---
 

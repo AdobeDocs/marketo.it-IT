@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352416
-description: Panoramica della pagina [!UICONTROL Analytics] - Documentazione di Marketo - Documentazione del prodotto
-title: Panoramica della pagina di Analytics
+description: Scopri la pagina Sales Connect Analytics e i dati sul coinvolgimento delle e-mail. Visualizzare le statistiche individuali e del team nelle schede Me, Team e Contenuto.
+title: Panoramica della pagina di analisi
 exl-id: 4d67dff8-d602-4a90-bf74-f4149017ad51
 feature: Marketo Sales Connect
-source-git-commit: 0d37fbdb7d08901458c1744dc68893e155176327
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---

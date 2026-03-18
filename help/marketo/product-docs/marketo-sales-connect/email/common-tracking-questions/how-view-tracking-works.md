@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352536
-description: Come funziona il tracciamento delle visualizzazioni - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere come funziona il rilevamento delle visualizzazioni in Sales Connect. Scopri quando un’e-mail viene conteggiata come visualizzata e come viene tenuta traccia delle aperture.
 title: Funzionamento del tracciamento delle visualizzazioni
 exl-id: 5eae19f7-c360-486a-9da5-38a3059ad7af
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '122'
+ht-degree: 6%
 
 ---
 

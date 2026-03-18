@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352508
-description: Creare campi dinamici personalizzati - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare campi dinamici personalizzati nei modelli di Sales Connect. Aggiungi campi unione che estraggono i dati di contatti o utenti nelle e-mail.
 title: Creare campi dinamici personalizzati
 exl-id: 860511d2-4a8a-47a4-8362-ba4e715e44e9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 4%
+source-wordcount: '237'
+ht-degree: 3%
 
 ---
 

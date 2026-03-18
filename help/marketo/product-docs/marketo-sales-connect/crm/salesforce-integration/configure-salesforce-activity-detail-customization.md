@@ -1,11 +1,11 @@
 ---
-description: Configurare la personalizzazione dei dettagli delle attività di Salesforce - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare la personalizzazione dei dettagli delle attività di Salesforce per Sales Connect. Personalizza l’aspetto delle attività in Salesforce.
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '675'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* [!DNL Salesforce] e [!DNL Marketo Sales Connect] [devono essere connessi](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* La registrazione dell&#39;attività e-mail tramite API [&#x200B; deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività di Salesforce quando un&#39;attività di attività/promemoria [!DNL Sales Connect] viene sincronizzata in Salesforce.
 

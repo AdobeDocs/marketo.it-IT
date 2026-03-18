@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352541
-description: Sincronizzazione delle attività di vendita con Salesforce per la prima volta - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare le attività Sales Connect con Salesforce per la prima volta. Imposta la sincronizzazione delle attività affinché le attività vengano visualizzate in Salesforce.
 title: Sincronizzazione delle attività di Sales Connect con Salesforce per la prima volta
 exl-id: 42ac6b4f-76ac-40d7-9e10-7e0d3886a638
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '264'
 ht-degree: 3%
 
 ---

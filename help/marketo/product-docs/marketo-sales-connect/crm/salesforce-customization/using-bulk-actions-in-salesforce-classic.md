@@ -1,12 +1,12 @@
 ---
 unique-page-id: 42762794
-description: Utilizzo di azioni in blocco in  [!DNL Salesforce] Classic - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare le azioni in blocco in Salesforce Classic con Sales Connect. Invia più lead o contatti a Sales Connect contemporaneamente.
 title: Utilizzo di azioni in blocco in  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '324'
 ht-degree: 0%
 
 ---

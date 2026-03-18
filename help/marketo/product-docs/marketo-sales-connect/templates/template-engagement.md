@@ -1,17 +1,17 @@
 ---
 unique-page-id: 14352504
-description: Coinvolgimento con i modelli - Documentazione di Marketo - Documentazione del prodotto
-title: Inserimento di un modello
+description: Comprendere il coinvolgimento dei modelli in Sales Connect. Puoi vedere quali modelli ottengono il maggior numero di visualizzazioni, clic e risposte in Analytics.
+title: Livello di coinvolgimento per un modello
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '187'
 ht-degree: 2%
 
 ---
 
-# Inserimento di un modello {#template-engagement}
+# Livello di coinvolgimento per un modello {#template-engagement}
 
 Segui i passaggi seguenti per visualizzare il tuo coinvolgimento con i modelli.
 

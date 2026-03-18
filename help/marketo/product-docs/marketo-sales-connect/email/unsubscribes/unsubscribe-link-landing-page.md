@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14746176
-description: Pagina di destinazione collegamento per annullare l’abbonamento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il collegamento per annullare l’iscrizione nella pagina di destinazione di Sales Connect. Personalizza la pagina che i destinatari visualizzano quando fanno clic su Annulla iscrizione.
 title: Pagina di destinazione del collegamento per annullare l’iscrizione
 exl-id: 1ef22db5-56ca-47fb-894b-ef94ec4527ac
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 13%
+source-wordcount: '69'
+ht-degree: 11%
 
 ---
 

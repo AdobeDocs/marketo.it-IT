@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352618
-description: Creazione di una campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare una campagna Sales Connect con e-mail, chiamate, InMail e passaggi di attività personalizzati. Organizza, pianifica e misura le attività di sensibilizzazione in un’unica posizione.
 title: Creare una campagna
 exl-id: 17952187-4d7e-469e-9ac8-c2611dfeac1f
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 3%
 
 ---
 
@@ -24,7 +24,7 @@ Con Campagne è possibile:
 
 Quindi, come si imposta una campagna?
 
-1. Fare clic sulla scheda **[!UICONTROL Campaigns]**.
+1. Fai clic sulla scheda **[!UICONTROL Campaigns]**.
 
    ![](assets/one-1.png)
 
@@ -36,7 +36,7 @@ Quindi, come si imposta una campagna?
    >
    >Creare una nuova categoria facendo clic su **+** accanto a **[!UICONTROL Categories]**.
 
-1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL &#x200B; Continue]**.
+1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL  Continue]**.
 
    ![](assets/three-1.png)
 

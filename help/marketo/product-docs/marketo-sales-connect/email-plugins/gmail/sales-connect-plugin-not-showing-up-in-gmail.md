@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352547
-description: Il plug-in Sales Connect non viene visualizzato in Gmail - Documentazione di Marketo - Documentazione del prodotto
+description: Ricevi assistenza quando il plug-in Sales Connect non viene visualizzato in Gmail. Risolvere i problemi relativi all'installazione e alla compatibilità del browser.
 title: Plug-in Sales Connect non visualizzato in Gmail
 exl-id: 6cfe0100-5b5c-4f0e-99af-2f54bbd5623c
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '147'
 ht-degree: 5%
 
 ---

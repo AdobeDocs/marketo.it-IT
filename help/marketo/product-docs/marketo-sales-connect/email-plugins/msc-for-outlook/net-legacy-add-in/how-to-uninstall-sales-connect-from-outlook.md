@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352451
-description: Come disinstallare Sales Connect da Outlook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come disinstallare il plug-in Sales Connect da Outlook. Se necessario, rimuovere il componente aggiuntivo dal desktop di Outlook.
 title: Come disinstallare Sales Connect da Outlook
 exl-id: 42e12144-665e-4560-84ad-1c0631ed0c9b
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 11%
+source-wordcount: '70'
+ht-degree: 10%
 
 ---
 

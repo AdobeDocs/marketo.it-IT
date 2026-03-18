@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352638
-description: Creare una nuova categoria - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare una nuova categoria di modelli in Sales Connect. Organizza i modelli per categoria per il tuo team.
 title: Creare una nuova categoria.
 exl-id: 0bb6b244-dfc9-442d-bf85-1535bbe00f8a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '49'
-ht-degree: 16%
+source-wordcount: '59'
+ht-degree: 13%
 
 ---
 

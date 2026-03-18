@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352482
-description: Funzionamento del tracciamento delle risposte - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere come funziona il tracciamento delle risposte in Sales Connect. Scopri come vengono rilevate e registrate le risposte a Salesforce o Marketo.
 title: Funzionamento del tracciamento delle risposte
 exl-id: 8d087014-99b7-47ba-9f08-95b13bc16438
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '174'
 ht-degree: 4%
 
 ---

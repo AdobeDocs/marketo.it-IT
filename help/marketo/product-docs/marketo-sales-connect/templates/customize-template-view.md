@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352629
-description: Personalizzare la vista dei modelli - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come personalizzare la visualizzazione dei modelli in Sales Connect. Modificare le colonne e i filtri visualizzati nell'elenco dei modelli.
 title: Personalizzare la visualizzazione del modello
 exl-id: 893cb1ad-f0b9-4829-b1c7-8acda62986f9
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 10%
+source-wordcount: '71'
+ht-degree: 8%
 
 ---
 

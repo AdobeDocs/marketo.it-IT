@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352597
-description: Aggiungere testo con collegamento ipertestuale - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere testo con collegamento ipertestuale a un modello Sales Connect. Inserisci collegamenti tracciabili e assegnagli uno stile nell’editor di modelli.
 title: Aggiungere testo con collegamento ipertestuale
 exl-id: 29df5688-d6f5-4a75-9a3e-fc68f0f2b45a
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 15%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 

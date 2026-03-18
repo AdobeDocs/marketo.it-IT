@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352601
-description: Creare un riferimento a se stessi in un campo dinamico - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come fare riferimento a te stesso in un campo dinamico Sales Connect. Utilizza il nome o i dettagli del mittente nella personalizzazione dei modelli.
 title: Fare riferimento a sé in un campo dinamico
 exl-id: 89d5ad5e-e699-451c-b399-f3cc7f554100
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 15%
+source-wordcount: '89'
+ht-degree: 13%
 
 ---
 

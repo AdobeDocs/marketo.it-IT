@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352450
-description: Installare il plug-in e-mail Sales Connect per Gmail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come installare il plug-in e-mail Sales Connect per Gmail. Aggiungi il plug-in per inviare e-mail tracciate e utilizzare i modelli da Gmail.
 title: Installare il plug-in e-mail di Sales Connect per Gmail
 exl-id: f1ca3cd9-aafb-4782-a1c2-07c6ad9ef4b0
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '94'
+ht-degree: 20%
 
 ---
 
@@ -27,7 +27,7 @@ Scopri come installare il plug-in Gmail.
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-2.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Plugins]**.
+1. Fai clic sulla scheda **[!UICONTROL Plugins]**.
 
    ![](assets/install-the-sales-connect-email-plugin-for-gmail-3.png)
 

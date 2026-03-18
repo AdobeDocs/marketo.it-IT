@@ -1,13 +1,13 @@
 ---
 unique-page-id: 18317340
-description: Verifica annullamento iscrizione Marketo - Documentazione Marketo - Documentazione del prodotto
+description: Comprendere l'assegno per l'annullamento dell'abbonamento a Marketo in Sales Connect. Scopri in che modo Sales Connect rispetta lo stato di annullamento dell’iscrizione a Marketo durante l’invio.
 title: Verificare l’annullamento dell’iscrizione Marketo
 exl-id: b8bd5b38-a4f5-4ac7-a5ce-a155fce57998
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 5%
+source-wordcount: '190'
+ht-degree: 6%
 
 ---
 

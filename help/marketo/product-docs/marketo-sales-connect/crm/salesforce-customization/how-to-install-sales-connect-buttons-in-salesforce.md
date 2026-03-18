@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352473
-description: Come installare i pulsanti Sales Connect in Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come installare i pulsanti Sales Connect in Salesforce. Aggiungi Push to Sales Connect e altri pulsanti al layout Salesforce.
 title: Come installare i pulsanti Sales Connect in Salesforce
 exl-id: 8c263c46-5e49-4637-9316-5770e74117fc
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 20%
+source-wordcount: '112'
+ht-degree: 18%
 
 ---
 

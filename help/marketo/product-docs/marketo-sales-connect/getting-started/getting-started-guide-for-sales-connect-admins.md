@@ -1,11 +1,11 @@
 ---
-description: Guida introduttiva per [!DNL Sales Connect] amministratori - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare la nuova istanza di Sales Connect. Segui i passaggi per accedere all’account, invitare utenti, connettere Salesforce e Marketo.
 title: Guida introduttiva per [!DNL Sales Connect] amministratori
 exl-id: 8c866fff-3252-4564-a229-bbe4e17190fd
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---

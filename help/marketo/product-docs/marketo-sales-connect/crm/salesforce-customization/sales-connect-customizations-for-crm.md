@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745793
-description: Personalizzazioni di [!DNL Sales Connect] per CRM - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le personalizzazioni di Sales Connect per CRM e Salesforce. Comprendere le personalizzazioni disponibili e come installarle.
 title: Personalizzazioni di [!DNL Sales Connect] per CRM
 exl-id: c7344ec2-a16b-48a1-8e39-1bbd2818db80
 feature: Marketo Sales Connect
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 2%
 
 ---

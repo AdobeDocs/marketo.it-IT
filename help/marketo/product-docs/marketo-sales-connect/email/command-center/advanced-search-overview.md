@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356329
-description: Panoramica sulla ricerca avanzata - Documenti Marketo - Documentazione del prodotto
+description: Informazioni sulla ricerca avanzata in Sales Connect Command Center. Trova e-mail e attività per destinatario, data, campagna o altri filtri.
 title: Panoramica sulla ricerca avanzata
 exl-id: bb6e2c9f-b44a-43ba-94ae-ae30e182bcc8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '389'
 ht-degree: 4%
 
 ---
@@ -53,7 +53,7 @@ Filtra per destinatario/mittente e-mail nella sezione [!UICONTROL Who].
 | **[!UICONTROL By Group]** | Filtra le e-mail per un gruppo specifico di destinatari. |
 | **[!UICONTROL By Person]** | Filtra in base a un destinatario specifico. |
 
-**Quando**
+**When**
 
 Scegliere in base alla data di creazione, alla data di consegna, alla data non riuscita o alla data pianificata. Le opzioni disponibili variano a seconda dello stato dell&#39;e-mail scelto ([!UICONTROL Sent], [!UICONTROL Undelivered], [!UICONTROL Pending]).
 

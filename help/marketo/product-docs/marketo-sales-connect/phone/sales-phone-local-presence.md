@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352436
-description: Presenza locale telefono vendite - Documentazione Marketo - Documentazione del prodotto
+description: Informazioni sulla presenza locale del telefono di vendita in Sales Connect. Visualizzare un ID chiamante locale quando si effettuano chiamate in uscita per migliorare le percentuali di risposta.
 title: Presenza telefonica locale di vendita
 exl-id: 8ebd971f-caf6-40ac-8067-dd0028fec9ab
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '151'
 ht-degree: 5%
 
 ---

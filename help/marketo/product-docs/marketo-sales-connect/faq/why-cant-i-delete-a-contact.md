@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352488
-description: Perché non è possibile eliminare un contatto? - Documenti Marketo - Documentazione del prodotto
+description: Quando non è possibile eliminare un contatto in Sales Connect, è possibile ricevere assistenza. Comprendere le autorizzazioni e quando i contatti sono bloccati dall’eliminazione.
 title: Perché non è possibile eliminare un contatto?
 exl-id: 28218879-240e-450e-990d-1c2af0a74dc3
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 17%
+source-wordcount: '100'
+ht-degree: 12%
 
 ---
 

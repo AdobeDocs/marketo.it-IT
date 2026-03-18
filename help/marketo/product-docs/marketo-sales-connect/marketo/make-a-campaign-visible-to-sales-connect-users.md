@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745655
-description: Rendere visibile una campagna agli utenti Sales Connect - Documenti Marketo - Documentazione del prodotto
+description: Scopri come rendere visibile una campagna Marketo agli utenti Sales Connect. Condividi le campagne di marketing in modo che i venditori possano aggiungere lead da Sales Connect.
 title: Rendere una campagna visibile agli utenti di Sales Connect
 exl-id: 1fde53e3-2764-4e4b-897f-635b78534133
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 10%
+source-wordcount: '107'
+ht-degree: 14%
 
 ---
 
@@ -19,7 +19,7 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/make-a-marketing-campaign-visible-msc-1.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Smart List]**.
+1. Fai clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-2.png)
 
@@ -31,7 +31,7 @@ Le campagne possono essere condivise solo se sono rese visibili. Ecco come farlo
 
    ![](assets/make-a-marketing-campaign-visible-msc-4.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Flow]**.
+1. Fai clic sulla scheda **[!UICONTROL Flow]**.
 
    ![](assets/make-a-marketing-campaign-visible-msc-5.png)
 

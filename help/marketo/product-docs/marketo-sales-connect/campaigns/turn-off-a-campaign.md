@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352609
-description: Disattivare una campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come disattivare una campagna Sales Connect quando un destinatario risponde. Termina le campagne per una persona o rimuovi più persone in blocco dalla cartella inviata.
 title: Disattivare una campagna
 exl-id: 4b6fcb6e-7966-43aa-aa4f-43c475c79de8
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 7%
+source-wordcount: '160'
+ht-degree: 6%
 
 ---
 

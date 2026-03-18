@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352525
-description: E-mail contrassegnata come spam - Documentazione di Marketo - Documentazione del prodotto
+description: Ricevi assistenza quando l'e-mail di Sales Connect è stata contrassegnata come spam. Scopri come ridurre i reclami di spam e migliorare il recapito messaggi.
 title: E-mail contrassegnata come spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '231'
 ht-degree: 3%
 
 ---

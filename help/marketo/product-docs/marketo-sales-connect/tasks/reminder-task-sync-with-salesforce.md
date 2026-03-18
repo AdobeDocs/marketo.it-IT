@@ -1,11 +1,11 @@
 ---
-description: Sincronizzazione attività promemoria con Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Comprendi come le attività promemoria di Sales Connect si sincronizzano con Salesforce. Scopri il comportamento di sincronizzazione e dove vengono visualizzate le attività in Salesforce.
 title: Sincronizzazione attività promemoria con Salesforce
 exl-id: 4de933db-4626-4845-be70-8ad55d03a18e
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '492'
 ht-degree: 1%
 
 ---

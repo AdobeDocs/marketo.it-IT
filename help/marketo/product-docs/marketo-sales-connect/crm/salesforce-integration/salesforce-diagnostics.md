@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14745730
-description: Diagnostica Salesforce - Documentazione Marketo - Documentazione del prodotto
+description: Informazioni sulla diagnostica di Salesforce per Sales Connect. Risolvere i problemi di connessione e sincronizzazione tra Sales Connect e Salesforce.
 title: Diagnostica Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '1322'
+source-wordcount: '1333'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Categoria:** Altro
 **Messaggio:** non può fare riferimento al lead convertito
 **Cosa sta succedendo:** Stiamo tentando di accedere a un lead convertito durante la registrazione attività più recente per contatti e lead. Ho visto anche un paio di questi per le piazzole.
-**Procedura di risoluzione dei problemi:** Segnala eventuali istanze di questo al nostro [team di supporto](https://nation.marketo.com/t5/Support/ct-p/Support).
+**Procedura di risoluzione dei problemi:** Segnala eventuali istanze di questo al nostro [team di supporto](https://nation.marketo.com/t5/support/ct-p/Support).
 
 <br> 
 

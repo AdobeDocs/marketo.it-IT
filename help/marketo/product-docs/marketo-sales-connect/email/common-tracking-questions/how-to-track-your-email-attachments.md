@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352537
-description: Come tenere traccia degli allegati e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come tenere traccia degli allegati e-mail in Sales Connect. Rendi gli allegati tracciabili e osserva quando i destinatari si aprono o scaricano.
 title: Come tenere traccia degli allegati e-mail
 exl-id: 88c97309-13d4-46ef-a375-4afe4401fd94
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '161'
 ht-degree: 8%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352612
-description: Pianificazione di una campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare una campagna Sales Connect. Imposta l’ora di invio per ogni passaggio e-mail o utilizza la stessa ora della prima e-mail quando aggiungi persone.
 title: Pianificare una campagna
 exl-id: 841c6a9f-6336-4b7f-bcc5-54c1b92c0346
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '184'
 ht-degree: 3%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352630
-description: Eliminare un modello - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come eliminare un modello in Sales Connect. Rimuovere i modelli non più necessari dall'account o dalla categoria.
 title: Eliminare un modello
 exl-id: b3b1be67-b12d-44a4-b290-cbb266f2c328
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 11%
+source-wordcount: '67'
+ht-degree: 13%
 
 ---
 

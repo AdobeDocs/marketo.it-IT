@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352553
-description: Cos'è l'integrazione Sales Connect e Highspot? - Documenti Marketo - Documentazione del prodotto
+description: Scopri l’integrazione Sales Connect e Highspot. Allega il contenuto Highspot alle e-mail di vendita e tieni traccia del coinvolgimento.
 title: Cos’è l’integrazione Sales Connect e Highspot?
 exl-id: 30a7745e-169b-463e-8855-d1c9f14d7753
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 7%
+source-wordcount: '184'
+ht-degree: 5%
 
 ---
 

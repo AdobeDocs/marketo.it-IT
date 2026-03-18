@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14352621
-description: Informazioni sulle opzioni di invio - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere le opzioni di invio per i passaggi e-mail della campagna in Sales Connect. Scegli quando inviare, creare attività da inviare autonomamente o inviare e-mail al precedente.
 title: Informazioni sulle opzioni di invio
 exl-id: acdee691-478e-4ffe-90e2-54cf559fa38d
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 1%
+source-wordcount: '616'
+ht-degree: 0%
 
 ---
 

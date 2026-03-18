@@ -1,12 +1,12 @@
 ---
 unique-page-id: 37356590
-description: Aggiunta di contenuto Highspot all’e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere contenuti Highspot all’e-mail Sales Connect. Inserire collegamenti e allegati Highspot tracciabili nella finestra di composizione.
 title: Aggiunta di contenuto Highspot all’e-mail
 exl-id: a069d29a-46b6-4347-b474-df17b7595436
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 4%
 
 ---

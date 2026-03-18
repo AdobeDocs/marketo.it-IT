@@ -1,12 +1,12 @@
 ---
 unique-page-id: 14352463
-description: Aggiungi pulsanti di connessione vendite a  [!DNL Salesforce] - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere i pulsanti Sales Connect a Salesforce. Posizionare i pulsanti di connessione in Salesforce per accedere rapidamente alle azioni di connessione delle vendite.
 title: Aggiungere pulsanti Sales Connect a Salesforce
 exl-id: cd6b5314-5ac5-4854-a595-97c68aa7e9ba
 feature: Marketo Sales Connect
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '139'
 ht-degree: 4%
 
 ---
