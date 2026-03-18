@@ -33,7 +33,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->[!DNL Marketo Sales Insight] in [!DNL Salesforce1] include: [!DNLBelementi di maggiore rilevanza], feed lead, momenti di interesse e Aggiungi a Marketo Campaign.
+>[!DNL Marketo Sales Insight] in [!DNL Salesforce1] include: [!DNL Belementi di maggiore rilevanza], feed lead, momenti di interesse e Aggiungi a Marketo Campaign.
 
 ## Abilita l&#39;app mobile [!DNL Salesforce1] {#enable-the-salesforce1-mobile-app}
 
