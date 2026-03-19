@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359447
-description: Creare una segmentazione - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare una segmentazione per raggruppare le persone per il reporting e i contenuti dinamici. Aggiungere segmenti nel database, impostare l'ordine, quindi definire le regole dei segmenti.
 title: Creare una segmentazione
 exl-id: a7907f1d-bc78-4b63-9875-044e96609755
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '232'
 ht-degree: 3%
 
 ---
@@ -43,7 +43,7 @@ La segmentazione ti consente di raggruppare le persone in profili distinti per i
    >
    >Il numero totale di segmenti che puoi creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l’utilizzo di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri di un elenco, campi del proprietario del lead e fasi dei ricavi.
    >
-   >Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 1. Trascina e rilascia i segmenti per modificarne l’ordine. Al termine, fai clic su **[!UICONTROL Create]**.
 

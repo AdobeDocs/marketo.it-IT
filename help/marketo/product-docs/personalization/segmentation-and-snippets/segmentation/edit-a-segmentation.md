@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359474
-description: Modificare una segmentazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come modificare una segmentazione creando una bozza e modificando segmenti o regole. Aggiungi, modifica o elimina segmenti e definisci le regole dell’elenco avanzato nella bozza.
 title: Modificare una segmentazione
 exl-id: 8a217ce4-af14-4fc2-b5d7-7fc696b7665d
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '192'
 ht-degree: 3%
 
 ---

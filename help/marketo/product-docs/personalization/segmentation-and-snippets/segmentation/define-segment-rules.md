@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359449
-description: Definire le regole del segmento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come definire regole di segmento per classificare le persone in gruppi reciprocamente esclusivi. Aggiungi filtri per elenchi avanzati, visualizza in anteprima Persone (bozza) e approva segmenti per il contenuto dinamico.
 title: Definire le regole del segmento
 exl-id: e6631848-aa8c-4709-b182-4c88abbd365b
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '367'
-ht-degree: 1%
+source-wordcount: '386'
+ht-degree: 2%
 
 ---
 
@@ -51,7 +51,7 @@ La definizione delle regole di segmento consente di categorizzare le persone in 
 
    ![](assets/image2017-3-28-14-3a20-3a15.png)
 
-1. Vai a **[!UICONTROL Segmentation Actions]**. Fai clic su **[!UICONTROL Approve]**.
+1. Passa a **[!UICONTROL Segmentation Actions]**. Fai clic su **[!UICONTROL Approve]**.
 
    ![](assets/image2014-9-15-11-3a36-3a7.png)
 
@@ -59,7 +59,7 @@ La definizione delle regole di segmento consente di categorizzare le persone in 
    >
    >Il numero totale di segmenti che puoi creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l’utilizzo di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri di un elenco, campi del proprietario del lead e fasi dei ricavi.
    >
-   >Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 1. Consulta la dashboard per una panoramica rapida dei segmenti in un grafico a torta, nonché delle regole applicate.
 

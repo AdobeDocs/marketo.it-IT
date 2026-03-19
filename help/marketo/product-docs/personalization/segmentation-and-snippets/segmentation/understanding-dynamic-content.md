@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2953417
-description: Informazioni su Dynamic Content - Documenti Marketo - Documentazione del prodotto
+description: Scopri i contenuti dinamici di Marketo per la personalizzazione di pagine di destinazione ed e-mail per segmento. Comprendere la segmentazione, i blocchi di contenuto dinamici e i frammenti riutilizzabili.
 title: Informazioni sui contenuti dinamici
 exl-id: 1e74cdb5-f879-424e-8db0-0a788d13fd5e
 feature: Dynamic Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '237'
 ht-degree: 4%
 
 ---

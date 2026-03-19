@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10095644
-description: Approvare un frammento senza bozza - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come approvare un frammento con opzioni No-Draft. Per controllare il modo in cui vengono aggiornate le risorse utilizzando lo snippet, scegliete Aggiorna tutto o Crea bozze durante l'approvazione.
 title: Approvare uno snippet senza bozza
 exl-id: a06aa77a-68f1-41a4-b2bd-bf1882b81578
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '212'
+source-wordcount: '229'
 ht-degree: 4%
 
 ---

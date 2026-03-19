@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359492
-description: Rapporti persona gruppo per segmento - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come raggruppare i rapporti sulle persone per qualsiasi segmento dalle segmentazioni. Utilizza la scheda Impostazione report e Raggruppa persone per per per selezionare una segmentazione e visualizzare i risultati.
 title: Raggruppare rapporti persona per segmento
 exl-id: 38c77548-3bfd-484e-ba0a-ccedc2ed6205
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 9%
+source-wordcount: '125'
+ht-degree: 8%
 
 ---
 

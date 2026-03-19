@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359496
-description: Aggiungere contenuto a un frammento - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come aggiungere token, immagini, file o testo RTF a uno snippet. Utilizzare l'editor frammenti in Design Studio per aggiungere elementi Token, Immagine/File e Testo.
 title: Aggiungere contenuto a uno snippet
 exl-id: b8be61ea-016d-4aab-b1b7-a43d699c3bfe
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '183'
-ht-degree: 6%
+source-wordcount: '202'
+ht-degree: 5%
 
 ---
 

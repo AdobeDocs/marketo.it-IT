@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359457
-description: Approvare una segmentazione - Documenti Marketo - Documentazione del prodotto
+description: Scopri come approvare una segmentazione in modo che possa essere utilizzata per contenuti dinamici e reporting. Utilizza le azioni di database e segmentazione per approvare dopo aver definito le regole dei segmenti.
 title: Approvare una segmentazione
 exl-id: c8b0fbe9-012c-47bf-8769-0167156b43d3
 feature: Segmentation
-source-git-commit: b29186ba84ec88be42432e56d1ad0e77c5b43900
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ Una segmentazione deve essere approvata prima di poter essere utilizzata.
 >
 >Il numero totale di segmenti che puoi creare in una segmentazione dipende dal numero e dal tipo di filtri utilizzati e anche dalla complessità della logica dei segmenti. Anche se è possibile creare fino a 100 segmenti utilizzando campi standard, l’utilizzo di altri tipi di filtri può aumentare la complessità e la segmentazione potrebbe non essere approvata. Alcuni esempi sono: campi personalizzati, membri di un elenco, campi del proprietario del lead e fasi dei ricavi.
 >
->Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+>Se ricevi un messaggio di errore durante l&#39;approvazione e hai bisogno di assistenza per ridurre la complessità della segmentazione, contatta il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!MORELIKETHIS]
 >

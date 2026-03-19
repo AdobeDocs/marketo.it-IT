@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359512
-description: Utilizzare i filtri di segmento in un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i filtri di segmento in un elenco avanzato per ottimizzare le prestazioni. Aggiungi il filtro Segmento per eseguire il targeting delle persone in base alla segmentazione negli elenchi avanzati.
 title: Utilizzare i filtri di segmento in un elenco avanzato
 exl-id: 8a0f8631-9657-4209-af64-4e967c27b137
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 11%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 

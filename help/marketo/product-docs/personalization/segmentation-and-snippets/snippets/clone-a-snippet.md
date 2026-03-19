@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359514
-description: Clonare uno snippet - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come clonare uno snippet per creare una copia che puoi modificare. Utilizza le azioni Design Studio e Snippet per clonare e personalizzare il contenuto delle e-mail e delle pagine di destinazione.
 title: Clonare uno snippet
 exl-id: 9f5045d8-0dbf-4bb1-ac8c-3747bd130f36
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 9%
+source-wordcount: '85'
+ht-degree: 7%
 
 ---
 

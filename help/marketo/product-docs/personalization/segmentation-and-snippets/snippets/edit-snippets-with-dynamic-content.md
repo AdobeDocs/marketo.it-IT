@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359466
-description: Modifica di snippet con contenuti dinamici - Documenti Marketo - Documentazione del prodotto
+description: Scopri come modificare i frammenti con contenuto dinamico utilizzando la segmentazione. Aggiungete Segment By a uno snippet e applicate contenuti diversi per segmento in Design Studio.
 title: Modificare snippet con contenuto dinamico
 exl-id: 44fa65b0-bc3c-4b7f-90af-0af99da73337
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 9%
+source-wordcount: '127'
+ht-degree: 7%
 
 ---
 

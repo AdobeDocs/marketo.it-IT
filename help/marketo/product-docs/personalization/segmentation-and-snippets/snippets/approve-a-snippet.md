@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359463
-description: Approvare un frammento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come approvare un frammento in modo che possa essere utilizzato nelle e-mail e nelle pagine di destinazione. Utilizzare le azioni di Design Studio e Snippet per cambiare lo stato da Bozza ad Approvato.
 title: Approvare uno snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 16%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 

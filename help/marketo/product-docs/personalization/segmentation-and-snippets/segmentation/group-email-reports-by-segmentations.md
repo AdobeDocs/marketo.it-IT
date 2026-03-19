@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359488
-description: Raggruppare i rapporti e-mail per segmentazioni - Documenti Marketo - Documentazione del prodotto
+description: Scopri come raggruppare il rapporto sulle prestazioni delle e-mail in base alle segmentazioni. Utilizza la scheda Impostazioni report prestazioni e-mail per applicare una o due segmentazioni per il raggruppamento.
 title: Raggruppare rapporti e-mail per segmentazioni
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 15%
+source-wordcount: '119'
+ht-degree: 13%
 
 ---
 

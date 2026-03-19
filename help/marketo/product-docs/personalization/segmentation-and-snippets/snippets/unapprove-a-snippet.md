@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359516
-description: Annullare l’approvazione di un frammento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come annullare l’approvazione di uno snippet per apportarvi modifiche o eliminarlo. Rimuovi le associazioni di risorse, quindi utilizza Azioni frammento di codice per annullare l’approvazione e imposta lo stato su Bozza.
 title: Annullare l’approvazione di uno snippet
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 8%
 
 ---
 
