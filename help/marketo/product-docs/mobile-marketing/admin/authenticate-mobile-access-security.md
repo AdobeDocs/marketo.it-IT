@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096158
-description: Autenticazione sicurezza accesso mobile - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come abilitare la chiave di accesso e il segreto di accesso per la sicurezza delle app mobili. Fornisci i codici al reparto IT in modo che gli accessi all'app vengano verificati.
 title: Autenticare sicurezza accesso mobile
 exl-id: c8f5f15e-c45b-4751-aa1a-d58d0fd056df
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 7%
+source-wordcount: '142'
+ht-degree: 6%
 
 ---
 

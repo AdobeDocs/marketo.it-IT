@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617431
-description: Impostare Il Pubblico Dei Messaggi In-App - Documentazione Di Marketo - Documentazione Del Prodotto
+description: Scopri come impostare il pubblico dei messaggi in-app. Modifica l’elenco avanzato, scegli l’app e attiva, imposta il limite di visualizzazione e aggiungi filtri.
 title: Configurare il pubblico del messaggio in-app
 exl-id: 696ae5b6-7063-41bc-bcef-27879182ff1e
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '279'
 ht-degree: 4%
 
 ---

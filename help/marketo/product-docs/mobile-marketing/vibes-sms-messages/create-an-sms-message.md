@@ -1,12 +1,12 @@
 ---
-description: Creazione di un messaggio SMS - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un messaggio SMS. Aggiungi testo, token e collegamenti nell’editor e segui i limiti dei caratteri e i requisiti di conformità.
 title: Creare un messaggio SMS
 feature: Mobile Marketing
 exl-id: 94749ea4-2fe3-4d90-9b31-35700ddd1670
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '476'
-ht-degree: 1%
+source-wordcount: '490'
+ht-degree: 2%
 
 ---
 
@@ -22,7 +22,7 @@ Ecco come creare un messaggio SMS.
 >
 >[Aggiungi Vibes come servizio LaunchPoint](/help/marketo/product-docs/mobile-marketing/admin/add-vibes-as-a-launchpoint-service.md){target="_blank"}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/create-an-sms-message-1.png)
 

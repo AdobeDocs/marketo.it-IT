@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10912178
-description: Configurare il pulsante Ignora e approvare il messaggio - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare il pulsante Elimina e approvare il messaggio in-app. Configura le azioni di colore, progettazione e tocco, quindi visualizza l'anteprima e approva per l'avvio.
 title: Impostare il pulsante Ignora e approvare il messaggio
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '350'
 ht-degree: 0%
 
 ---

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096523
-description: Visualizzare la dashboard delle notifiche push - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come visualizzare il dashboard delle notifiche push. Vedi Totale inviato, Tocchi totali e Decadimento tocco per le campagne push.
 title: Visualizzare la dashboard delle notifiche push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 11%
+source-wordcount: '130'
+ht-degree: 10%
 
 ---
 

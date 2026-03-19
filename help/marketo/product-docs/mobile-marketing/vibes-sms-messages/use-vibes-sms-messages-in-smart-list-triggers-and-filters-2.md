@@ -1,12 +1,12 @@
 ---
-description: Utilizzare i messaggi Vibes SMS in Smart List Triggers and Filters - Marketo Docs - Documentazione del prodotto
+description: Scopri come utilizzare i trigger e i filtri Vibes SMS nelle campagne intelligenti. Definisci quando inviare o filtrare in base all’iscrizione e all’elenco.
 title: Utilizzare i messaggi Vibes SMS in Smart List Triggers and Filters
 hide: true
 hidefromtoc: true
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---

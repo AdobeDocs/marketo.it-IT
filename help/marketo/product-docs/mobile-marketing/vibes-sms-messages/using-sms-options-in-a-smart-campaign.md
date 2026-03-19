@@ -1,11 +1,11 @@
 ---
-description: Utilizzo delle opzioni SMS in una campagna avanzata - Documentazione di Marketo - Documentazione del prodotto
+description: Comprendere i trigger SMS, i filtri e i passaggi del flusso in Campagne avanzate. Campagne di targeting e attivazione tramite gli elenchi e le attività Vibes SMS.
 title: Utilizzo delle opzioni SMS in una campagna avanzata
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '415'
 ht-degree: 3%
 
 ---

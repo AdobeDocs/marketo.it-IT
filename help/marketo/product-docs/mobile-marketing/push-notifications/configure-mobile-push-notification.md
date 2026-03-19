@@ -1,11 +1,11 @@
 ---
-description: Configurare le notifiche push per dispositivi mobili - Documenti Marketo - Documentazione del prodotto
+description: Scopri come configurare una notifica push mobile. Imposta l’app, il testo del messaggio, le azioni di tocco, i collegamenti profondi e l’approvazione per l’invio.
 title: Configurare notifica push su dispositivo mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: f6bdae9dbf1520bd8f30b4dd774b52a36b029c45
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '461'
 ht-degree: 3%
 
 ---
@@ -82,7 +82,7 @@ Un URI di collegamento profondo è costituito da tre parti: nome dello schema, p
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Lo sviluppatore dispone di diverse opzioni per la definizione degli URI di collegamento profondo. Chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push puntano alle posizioni giuste. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Lo sviluppatore dispone di diverse opzioni per la definizione degli URI di collegamento profondo. Chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push puntano alle posizioni giuste. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
 
 >[!MORELIKETHIS]
 >

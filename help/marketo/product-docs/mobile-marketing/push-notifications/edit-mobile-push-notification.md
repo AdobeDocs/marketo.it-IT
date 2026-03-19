@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512460
-description: Modifica notifica push per dispositivi mobili - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come modificare una notifica push mobile. Apri Attività di marketing, seleziona la risorsa push e utilizza Modifica bozza per apportare modifiche.
 title: Modificare notifica push su dispositivo mobile
 exl-id: 3ed36e77-642c-42f9-8714-fc4f718eb073
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '33'
-ht-degree: 36%
+source-wordcount: '47'
+ht-degree: 25%
 
 ---
 

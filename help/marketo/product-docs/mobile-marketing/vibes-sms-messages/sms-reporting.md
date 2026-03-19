@@ -1,11 +1,11 @@
 ---
-description: Segnalazione SMS - Documentazione Marketo - Documentazione del prodotto
+description: Scopri la dashboard dei messaggi SMS e il reporting. Visualizza le campagne SMS inviate, consegnate, non recapitate e l’attività nel tempo.
 title: Rapporti su SMS
 feature: Mobile Marketing
 exl-id: c4429cb0-01e1-4176-ae14-b8ce38fa1baa
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '149'
 ht-degree: 3%
 
 ---

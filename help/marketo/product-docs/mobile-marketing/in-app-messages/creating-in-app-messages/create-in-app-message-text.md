@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100642
-description: Creare un testo per i messaggi in-app - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare testo e stile dei messaggi in-app. Modifica il testo principale e di supporto, i colori, le dimensioni, l’allineamento, i token e le azioni di tocco.
 title: Creare testo per messaggio in-app
 exl-id: 8fe5f004-dafb-4e03-9628-bd92fcb3fd44
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '376'
 ht-degree: 2%
 
 ---

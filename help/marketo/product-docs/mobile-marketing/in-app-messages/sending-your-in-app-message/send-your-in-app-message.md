@@ -1,18 +1,18 @@
 ---
-description: Inviare Il Messaggio In-App - Documentazione Di Marketo - Documentazione Del Prodotto
+description: Scopri come inviare il messaggio in-app. Crea un programma, utilizza il Pannello di controllo Campaign per impostare pubblico e messaggio, quindi approva per l’avvio.
 title: Inviare il messaggio in-app.
 exl-id: 4ec196df-e8ef-45f8-9486-70d2b7c7ab1f
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 5%
+source-wordcount: '162'
+ht-degree: 7%
 
 ---
 
 # Inviare il messaggio in-app. {#send-your-in-app-message}
 
-Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riportati i passaggi:
+Dopo aver creato il messaggio in-app, è ora di inviarlo. Di seguito sono riportati i passaggi da seguire:
 
 >[!NOTE]
 >

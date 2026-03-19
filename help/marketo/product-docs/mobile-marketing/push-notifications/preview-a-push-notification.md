@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10092730
-description: Anteprima di una notifica push - Documenti Marketo - Documentazione del prodotto
+description: Scopri come visualizzare in anteprima una notifica push su Android e iOS. Visualizzare l'aspetto della schermata iniziale, della schermata di blocco e del Centro notifiche.
 title: Anteprima di notifica push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '252'
 ht-degree: 3%
 
 ---

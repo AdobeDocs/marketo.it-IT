@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11378845
-description: Aggiungere Vibes as a LaunchPoint Service - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere Vibes come servizio LaunchPoint. Immetti le credenziali in Admin per abilitare gli SMS e utilizzare l’attività SMS in Marketo Engage.
 title: Aggiungere Vibes come servizio LaunchPoint
 exl-id: 13f153c1-609e-4bee-a588-eb4665755acc
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 9%
+source-wordcount: '168'
+ht-degree: 10%
 
 ---
 

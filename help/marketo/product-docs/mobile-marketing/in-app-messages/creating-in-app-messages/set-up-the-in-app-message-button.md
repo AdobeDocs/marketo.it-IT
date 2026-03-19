@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100644
-description: Configurare il pulsante Messaggio in-app - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come impostare il pulsante del messaggio in-app. Configura le azioni colore, forma, immagine personalizzata, font e tocco per Apple e Android.
 title: Configurare il pulsante Messaggio in-app
 exl-id: de03da9d-241e-4d6e-8eb5-3096ddf294ce
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---

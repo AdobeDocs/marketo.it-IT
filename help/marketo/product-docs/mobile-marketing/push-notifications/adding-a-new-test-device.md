@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8783146
-description: Aggiunta di un nuovo dispositivo di test - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un nuovo dispositivo di test per le notifiche push. Utilizza un URL o un codice QR per collegare il dispositivo e inviare push di test.
 title: Aggiunta di un nuovo dispositivo di test
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 8%
+source-wordcount: '137'
+ht-degree: 9%
 
 ---
 

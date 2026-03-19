@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10617440
-description: Approvare il messaggio in-app - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come approvare il messaggio in-app per avviarlo. Sospendi, riprendi o interrompi il programma e monitora le prestazioni con la dashboard in-app.
 title: Approvare il messaggio in-app.
 exl-id: 3ebd857e-8caa-45f3-a53c-fa2df2a81d36
 feature: Mobile Marketing
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '316'
 ht-degree: 2%
 
 ---
