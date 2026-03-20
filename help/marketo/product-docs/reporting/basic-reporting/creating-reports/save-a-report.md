@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511980
-description: Salvataggio di un rapporto - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come salvare i rapporti predefiniti per visualizzarli nuovamente in un secondo momento selezionando Salva con nome da Azioni report. Organizzare i report salvati in cartelle all'interno di Report personali o Report di gruppo.
 title: Salvare un rapporto
 exl-id: be6da793-1498-4ba1-8d65-e9c0fd5d1033
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 14%
+source-wordcount: '92'
+ht-degree: 10%
 
 ---
 
@@ -19,7 +19,7 @@ A volte può essere necessario salvare un rapporto predefinito per visualizzarlo
 
    ![](assets/image2015-4-30-11-3a50-3a5.png)
 
-1. Selezionare un tipo di report [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selezionare un tipo di report [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-20-16-3a57-3a42.png)
 

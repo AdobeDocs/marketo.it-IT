@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360188
-description: Rapporto sulle prestazioni delle e-mail per la campagna - Documenti Marketo - Documentazione del prodotto
+description: Scopri i rapporti sulle prestazioni e-mail di Campaign, che raggruppano le statistiche sulle e-mail in base alla campagna intelligente. Tieni traccia di aperture, clic, mancati recapiti e annullamenti di abbonamenti per misurare l’efficacia della campagna.
 title: Rapporto prestazioni e-mail campagna
 exl-id: 524222c6-7cf6-4e6d-a1a5-20a771cd9da5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 4%
+source-wordcount: '221'
+ht-degree: 34%
 
 ---
 
@@ -32,14 +32,14 @@ Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [
    | Colonna | Descrizione |
    |---|---|
    | [!UICONTROL Hard Bounced] | L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente. |
-   | [!UICONTROL Soft Bounced] | L&#39;e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server inattivo o una casella in entrata completa. |
+   | [!UICONTROL Soft Bounced] | L’e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server fuori servizio o una casella in entrata piena. |
    | [!UICONTROL Pending] | L’e-mail è ancora in fase di consegna. |
    | [!UICONTROL Clicked Link] | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
    | [!UICONTROL Unsubscribed] | Numero di destinatari e-mail che hanno fatto clic sul collegamento **[!UICONTROL Unsubscribe]** nell&#39;e-mail e hanno compilato il modulo. |
 
    >[!NOTE]
    >
-   >In generale, cerchiamo di usare il buon senso per registrare queste statistiche. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente l’ha aperto prima. Per le regole specifiche che seguiamo, consulta il [Rapporto sulle prestazioni delle e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+   >In linea generale, queste statistiche vengono registrate seguendo criteri di buon senso. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente l’ha aperto prima. Per le regole specifiche che seguiamo, consulta il [Rapporto sulle prestazioni delle e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
 
    >[!MORELIKETHIS]
    >

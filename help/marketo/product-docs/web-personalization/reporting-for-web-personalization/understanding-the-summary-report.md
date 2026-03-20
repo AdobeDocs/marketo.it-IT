@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9438258
-description: Informazioni sul rapporto di riepilogo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il rapporto di riepilogo che fornisce una visualizzazione mensile delle prestazioni della campagna e dei contenuti consigliati. Tieni traccia dei clic, delle conversioni dirette, delle conversioni assistite e confronta i risultati con i mesi precedenti.
 title: Comprensione del report di riepilogo
 exl-id: 972fb518-bb0d-4c7e-b190-0fe12b2367a7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 1%
+source-wordcount: '405'
+ht-degree: 0%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718683
-description: Approvazione degli stadi e assegnazione di lead a un modello di ricavi - Documenti Marketo - Documentazione del prodotto
+description: Scopri come approvare le fasi e assegnare i lead a un modello di ricavi in Marketo Engage, comprese le fasi e le. Fai il prossimo passo con fiducia.
 title: Approvazione di fasi e assegnazione di lead a un modello di ricavi
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '313'
 ht-degree: 7%
 
 ---

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795492
-description: Impostazioni di Performance Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le impostazioni di Performance Insights, inclusa l’aggregazione del successo del programma, la configurazione dei periodi precedenti, le opportunità influenzate dal marketing e le opzioni di calcolo dei costi. Configura le impostazioni in base alla vista del dashboard.
 title: Impostazioni approfondimenti prestazioni
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---

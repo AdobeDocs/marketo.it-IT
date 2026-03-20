@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360018
-description: Aggiungere colonne di opportunità a un rapporto sui lead - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere colonne di opportunità ai rapporti dei lead per visualizzare le statistiche e le metriche delle opportunità. Visualizza i dati sull'opportunità, inclusi gli importi, i tassi di conversione e le informazioni sul ciclo di vendita.
 title: Aggiungere colonne di opportunità a un rapporto sui lead
 exl-id: 446befcd-a2fe-478b-9f36-288a6a31adbd
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '240'
-ht-degree: 8%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 

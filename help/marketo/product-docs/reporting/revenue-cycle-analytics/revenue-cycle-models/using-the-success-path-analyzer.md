@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571886
-description: Utilizzo di Success Path Analyzer (Analisi del percorso di successo) - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come utilizzare l’analizzatore dei percorsi di successo in Marketo Engage utilizzando l’analizzatore dei percorsi di successo. Utilizza questa guida per completare il passaggio successivo.
 title: Utilizzo dell'analizzatore del processo di successo
 exl-id: f816b7ac-a158-46bd-9d00-09ef4cc8b381
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '356'
 ht-degree: 3%
 
 ---

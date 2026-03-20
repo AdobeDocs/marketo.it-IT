@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099798
-description: Filtraggio in Email Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come filtrare i dati di Email Insights per pubblico, contenuto, piattaforma, tipo di dispositivo e intervalli di date. Applica più filtri per eseguire il drill-down in metriche specifiche e confrontare le prestazioni.
 title: Filtrare in approfondimenti e-mail
 exl-id: be19a63f-7f1b-4920-97da-2e412d5d3fde
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '188'
 ht-degree: 2%
 
 ---

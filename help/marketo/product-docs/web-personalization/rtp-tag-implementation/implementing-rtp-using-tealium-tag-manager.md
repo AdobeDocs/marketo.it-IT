@@ -1,13 +1,13 @@
 ---
 unique-page-id: 9437340
-description: Implementazione di RTP con Tealium Tag Manager - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come implementare rtp utilizzando Tealium Tag Manager in Marketo Engage, incluso l’implementazione di rtp utilizzando dnl. Utilizza questa guida per completare il passaggio successivo.
 title: Implementazione di RTP con Tealium Tag Manager
 exl-id: 7a099184-625c-46b2-a741-3bcdad0a238e
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 4%
+source-wordcount: '200'
+ht-degree: 5%
 
 ---
 
@@ -35,7 +35,7 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
 1. Accedi al tuo account RTP.
 
-1. Vai a [!UICONTROL Account Settings].
+1. Passa a [!UICONTROL Account Settings].
 
    >[!NOTE]
    >

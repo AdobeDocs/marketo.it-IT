@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093041
-description: Modificare un’iscrizione a un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare le iscrizioni agli elenchi avanzati aggiornando destinatari, frequenza, colonne, data di consegna finale e formato. Apportare le modifiche direttamente nella scheda Sottoscrizioni.
 title: Modificare un abbonamento a un elenco avanzato
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '197'
 ht-degree: 6%
 
 ---

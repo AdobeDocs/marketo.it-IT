@@ -1,13 +1,13 @@
 ---
 unique-page-id: 3571888
-description: Abilitazione della sincronizzazione dei campi personalizzati per l’analisi del ciclo dei ricavi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abilitare la sincronizzazione dei campi personalizzati per l’analisi del ciclo dei ricavi in Marketo Engage, inclusa l’abilitazione del campo personalizzato. Fai il prossimo passo con fiducia.
 title: Abilitazione della sincronizzazione dei campi personalizzati per analisi ciclo ricavi
 exl-id: 5656db8f-fce5-47c3-b35d-4faebbdcaa44
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 11%
+source-wordcount: '90'
+ht-degree: 10%
 
 ---
 

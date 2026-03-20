@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720810
-description: Remarketing personalizzato in Google - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il remarketing personalizzato in google in Marketo Engage, incluso il remarketing personalizzato in google. Utilizza questa guida per completare il passaggio successivo.
 title: Remarketing personalizzato in Google
 exl-id: cc733f43-161d-41e4-afdf-8b5217700810
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 6%
+source-wordcount: '239'
+ht-degree: 5%
 
 ---
 
@@ -34,7 +34,7 @@ Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti util
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. In Audience Builder, fai clic su **[!UICONTROL Sequences]** e **[!UICONTROL Find the RTP Data]** in [!UICONTROL Custom Dimensions], [!UICONTROL UICONTROL [ !] Custom Variables], [!UICONTROL Events].
+1. In Audience Builder, fai clic su **[!UICONTROL Sequences]** e **[!UICONTROL Find the RTP Data]** in [!UICONTROL Custom Dimensions], [!UICONTROL [!]UICONTROL Custom Variables], [!UICONTROL Events].
 
 >[!TIP]
 >

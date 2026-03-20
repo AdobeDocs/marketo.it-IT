@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979008
-description: Panoramica del contributo di Performance Insights - Documenti Marketo - Documentazione del prodotto
+description: Scopri la visualizzazione Contributo di Performance Insights che valuta il contributo del marketing ai ricavi attraverso le metriche di coinvolgimento, pipeline e ricavi. Visualizza le prestazioni di canali e programmi con grafici ad anello e a barre.
 title: Panoramica del contributo di approfondimenti prestazioni
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '367'
 ht-degree: 1%
 
 ---

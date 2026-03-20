@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360057
-description: Rapporto sull’attività della campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il rapporto sull’attività della campagna in Marketo Engage, incluso il rapporto sull’attività della campagna, campagna e attività. Utilizza questa guida per completare il passaggio successivo.
 title: Rapporto di attività di una campagna
 exl-id: 13904129-c7e2-4bfa-b545-c85656d4262e
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 5%
+source-wordcount: '234'
+ht-degree: 4%
 
 ---
 

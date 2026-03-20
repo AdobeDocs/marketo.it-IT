@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095554
-description: Incorporare un modulo in una campagna web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come incorporare un modulo in una campagna web in Marketo Engage, incluso incorporare un modulo in una campagna web. Utilizza questa guida per completare il passaggio successivo.
 title: Incorporare un modulo in una campagna web
 exl-id: 41e60ae6-9a40-444f-8a55-47fc6ef6c5fb
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '313'
-ht-degree: 8%
+source-wordcount: '330'
+ht-degree: 7%
 
 ---
 
@@ -85,4 +85,4 @@ Per aggiungere codice CSS allo script:
 >
 >* [Modifica il CSS di un tema modulo](/help/marketo/product-docs/demand-generation/forms/form-design/edit-the-css-of-a-form-theme.md)
 >* [Mostra messaggio di ringraziamento senza una pagina di destinazione di completamento](https://developers.marketo.com/blog/show-thank-you-message-without-a-follow-up-landing-page/)
->* [Forms 2.0](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)
+>* [Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference)

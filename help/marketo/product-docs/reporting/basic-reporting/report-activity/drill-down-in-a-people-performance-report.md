@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360035
-description: Espansione di un rapporto sulle prestazioni delle persone - Documenti Marketo - Documentazione del prodotto
+description: Scopri come espandere i rapporti Prestazioni persone per visualizzare ulteriori informazioni sulla persona selezionando una riga e scegliendo un attributo. Esplora i dati dettagliati dei lead in una nuova scheda di rapporto.
 title: Eseguire un drill-down in un rapporto prestazioni persone
 exl-id: 87c77aae-a294-43d3-865a-5ca3beef0ff3
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 14%
+source-wordcount: '147'
+ht-degree: 12%
 
 ---
 

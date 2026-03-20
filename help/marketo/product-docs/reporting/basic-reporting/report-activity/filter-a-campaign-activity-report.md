@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360184
-description: Filtrare un rapporto sull’attività di una campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come filtrare un rapporto di attività campagna in Marketo Engage utilizzando l’opzione Filtra un rapporto di attività campagna. Utilizza questa guida per completare il passaggio successivo.
 title: Filtrare un rapporto di attività di una campagna
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 9%
+source-wordcount: '137'
+ht-degree: 8%
 
 ---
 

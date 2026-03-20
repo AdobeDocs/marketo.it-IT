@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504238
-description: Dashboard RTP personalizzati in Google Universal Analytics - Documentazione Marketo - Documentazione del prodotto
+description: Scopri le dashboard rtp personalizzate in google universal analytics in Marketo Engage, comprese le dashboard rtp personalizzate in. Fai il prossimo passo con fiducia.
 title: Dashboard RTP personalizzate in Universal Analytics di Google
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '761'
 ht-degree: 2%
 
 ---

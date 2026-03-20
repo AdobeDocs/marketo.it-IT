@@ -1,12 +1,12 @@
 ---
 unique-page-id: 3571892
-description: Utilizzo di organizzatori di campi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare gli organizzatori di campi in Marketo Engage utilizzando gli organizzatori di campi utilizzando gli organizzatori di campi. Utilizza questa guida per completare il passaggio successivo.
 title: Utilizzo di organizzatore di campi
 exl-id: 578969f7-9380-4019-9b86-85c659a216b3
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '170'
 ht-degree: 5%
 
 ---

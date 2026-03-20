@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360201
-description: Aggiungere colonne personalizzate a un rapporto sulle persone - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere colonne personalizzate ai rapporti sulle persone utilizzando elenchi avanzati come filtri. Ottimizza i rapporti con metriche aggiuntive trascinando colonne personalizzate nella scheda Configurazione.
 title: Aggiungere colonne personalizzate a un rapporto Persona
 exl-id: 8604b3dc-fc8c-491e-8ffd-a5d5a9597ae1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 15%
+source-wordcount: '107'
+ht-degree: 13%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10092925
-description: Anteprima e test di una campagna web - Documenti Marketo - Documentazione del prodotto
+description: Scopri come visualizzare in anteprima e testare una campagna web in Marketo Engage utilizzando l’anteprima e testare una campagna web. Utilizza questa guida per completare il passaggio successivo.
 title: Anteprima e test di una campagna web
 exl-id: 6cc4ebd8-0d39-4a7d-bc3d-e8cd18157470
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 4%
+source-wordcount: '386'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 ## Visualizzare l’anteprima di una campagna web nella pagina di creazione {#preview-a-web-campaign-on-the-creation-page}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a59-3a35.png)
 
@@ -77,7 +77,7 @@ Questo articolo mostra diversi modi per visualizzare in anteprima una campagna w
 
 Crea un segmento sandbox e una campagna.
 
-1. Vai a **[!UICONTROL Segments]**.
+1. Passa a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand.jpg)
 

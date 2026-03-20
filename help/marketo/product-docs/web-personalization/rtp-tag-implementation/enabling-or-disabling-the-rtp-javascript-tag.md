@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097163
-description: Abilitazione o disabilitazione del codice JavaScript RTP - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come abilitare o disabilitare il tag javascript rtp in Marketo Engage, incluso come abilitare o disabilitare l’rtp. Utilizza questa guida per completare il passaggio successivo.
 title: Abilitazione o disabilitazione del tag JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 11%
+source-wordcount: '133'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ Il tag JavaScript RTP controlla se Web Personalization tiene traccia dell’atti
 
 ## Attiva o disattiva il tag {#enable-or-disable-the-tag}
 
-1. Vai a **[!UICONTROL Account Settings]**.
+1. Passa a **[!UICONTROL Account Settings]**.
 
    ![](assets/image2014-12-1-23-3a3-3a12.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360394
-description: Esportare i dati di Opportunity Influence Analyzer (Analisi di influenza opportunità) - Documenti Marketo - Documentazione del prodotto
+description: Scopri come esportare i dati di Analysis Analyzer per l’influenza delle opportunità in Marketo Engage utilizzando questo strumento. Fai il prossimo passo con fiducia.
 title: Esportare dati analizzatore influenza opportunità
 exl-id: 081c94fa-8f56-489e-85d3-ca4bf4da65fa
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 8%
 
 ---
 

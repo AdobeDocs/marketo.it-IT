@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504725
-description: Salvataggio di un rapporto di Revenue Explorer - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come salvare un rapporto di Esplora ricavi in Marketo Engage, incluso il salvataggio di un rapporto di Esplora ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Salvataggio di un rapporto di Revenue Explorer
 exl-id: 9c63d714-0bd3-42d7-844a-921201bf53bc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 6%
+source-wordcount: '87'
+ht-degree: 5%
 
 ---
 

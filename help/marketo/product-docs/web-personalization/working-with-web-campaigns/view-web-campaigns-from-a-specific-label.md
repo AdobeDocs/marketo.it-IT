@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720075
-description: Visualizzare campagne web da un’etichetta specifica - Documenti Marketo - Documentazione del prodotto
+description: Scopri come visualizzare le campagne web da un’etichetta specifica in Marketo Engage, incluso come visualizzare le campagne web da un’etichetta specifica. Utilizza questa guida per completare il passaggio successivo.
 title: Visualizzare campagne web da un’etichetta specifica
 exl-id: 2611c79f-eb12-4597-9394-8749903f494c
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '94'
 ht-degree: 17%
 
 ---
@@ -17,7 +17,7 @@ Desideri visualizzare e filtrare le campagne in base a un’etichetta specifica?
 
 ## Filtra per etichette esistenti {#filter-by-existing-labels}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-4.jpg)
 

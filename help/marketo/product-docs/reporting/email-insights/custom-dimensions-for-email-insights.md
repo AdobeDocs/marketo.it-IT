@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11375276
-description: Dimensioni personalizzate per approfondimenti e-mail - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere fino a 10 dimensioni personalizzate a E-mail Insights utilizzando segmentazioni e tag di programma. Scegliete attentamente le quote poiché non possono essere eliminate o sostituite una volta aggiunte.
 title: Dimensioni personalizzate per approfondimenti e-mail
 exl-id: e648a788-50da-495b-b195-f287bcbaeecb
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '117'
 ht-degree: 11%
 
 ---

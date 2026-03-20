@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099413
-description: Panoramica sugli invii di e-mail Insights - Documenti Marketo - Documentazione del prodotto
+description: 'Scopri la pagina Insight e-mail: Invia, che esamina le caratteristiche delle comunicazioni e-mail recenti. Visualizza le metriche di consegna, le metriche di coinvolgimento e i punteggi di coinvolgimento per le e-mail inviate.'
 title: Panoramica sugli invii degli approfondimenti e-mail
 exl-id: 2e2535bd-fd3d-4660-be43-7755c142bcd1
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '182'
 ht-degree: 4%
 
 ---

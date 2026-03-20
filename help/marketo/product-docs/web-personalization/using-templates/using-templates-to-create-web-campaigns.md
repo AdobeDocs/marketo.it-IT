@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949168
-description: Utilizzo di modelli per la creazione di campagne web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare i modelli per creare campagne web in Marketo Engage utilizzando i modelli per creare campagne web. Utilizza questa guida per completare il passaggio successivo.
 title: Utilizzo dei modelli per creare campagne web
 exl-id: 1d4f24c7-27c7-4eb6-9377-dc6853d13fa3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '149'
 ht-degree: 11%
 
 ---
@@ -19,7 +19,7 @@ Accelera e semplifica il processo di creazione della campagna web utilizzando i 
 >
 >I modelli sono ottimizzati per tutti i dispositivi e le esperienze di navigazione sia per desktop che per dispositivi mobili.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand.jpg)
 

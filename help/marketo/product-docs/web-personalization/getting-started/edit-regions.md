@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720224
-description: Modifica aree geografiche - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare le aree in Marketo Engage utilizzando le impostazioni internazionali dell’utente. Utilizza questa guida per completare il passaggio successivo.
 title: Modificare le aree geografiche
 exl-id: 606f3b1b-2180-44b7-b02f-3250b542a4b7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 5%
+source-wordcount: '74'
+ht-degree: 6%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 5%
 
 Vuoi modificare le impostazioni internazionali dell’utente per visualizzare solo i dati per la tua area geografica specifica?
 
-1. Vai a **[!UICONTROL User Settings]**.
+1. Passa a **[!UICONTROL User Settings]**.
 
    ![](assets/image2014-12-1-23-3a8-3a40.png)
 

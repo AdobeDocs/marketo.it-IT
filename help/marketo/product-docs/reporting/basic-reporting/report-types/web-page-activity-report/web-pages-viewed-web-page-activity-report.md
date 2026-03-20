@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360052
-description: Pagine web visualizzate, rapporto sull’attività delle pagine web - Documenti Marketo - Documentazione del prodotto
+description: Scopri le pagine web visualizzate, il rapporto delle attività delle pagine web in Marketo Engage, comprese le pagine web visualizzate e le pagine web. Utilizza questa guida per completare il passaggio successivo.
 title: Pagine web visualizzate, Rapporto attività di pagina web
 exl-id: fb061f2a-7741-4ba8-8ae1-a35f24642e93
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 13%
+source-wordcount: '120'
+ht-degree: 11%
 
 ---
 

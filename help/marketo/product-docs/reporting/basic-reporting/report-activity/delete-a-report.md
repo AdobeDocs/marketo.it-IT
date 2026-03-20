@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360030
-description: Eliminare un rapporto - Documentazione di Marketo - Documentazione del prodotto
+description: Per scoprire come eliminare i rapporti non più necessari, fai clic con il pulsante destro del mouse su di essi nella struttura di navigazione. Mantenere organizzata l’area di lavoro di reporting rimuovendo i rapporti obsoleti.
 title: Eliminare un rapporto
 exl-id: 6b98a2e4-13a4-4a85-8ccd-0f74e6dfcaa9
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 9%
+source-wordcount: '84'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7511725
-description: I miei report e i report dei gruppi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la differenza tra I miei report, che sono visibili solo a te, e i report dei gruppi, che sono visibili a tutti gli utenti dell’area di lavoro. Organizza in modo efficace i rapporti salvati.
 title: Informazioni sui miei rapporti e i rapporti dei gruppi
 exl-id: 03bfee67-e39c-4664-9b36-39e3e3f29077
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 20%
+source-wordcount: '77'
+ht-degree: 15%
 
 ---
 

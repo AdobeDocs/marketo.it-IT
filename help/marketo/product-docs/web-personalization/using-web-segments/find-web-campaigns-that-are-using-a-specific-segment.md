@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719396
-description: Trovare campagne web che utilizzano un segmento specifico - Documenti Marketo - Documentazione del prodotto
+description: Scopri come trovare le campagne web che utilizzano un segmento specifico in Marketo Engage utilizzando Trova le campagne web che sono. Fai il prossimo passo con fiducia.
 title: Trovare campagne web che utilizzano un segmento specifico
 exl-id: 3d180fdf-dfd3-4e56-b50d-faad9b0dc93a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '99'
 ht-degree: 20%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 20%
 
 Cerchi campagne web che utilizzano un segmento specifico?
 
-1. Vai a **[!UICONTROL Segments]**.
+1. Passa a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-1.jpg)
 

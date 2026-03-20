@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11381689
-description: Marketing web basato su account con TAM - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il marketing web basato sull’account con tam in Marketo Engage, incluso il marketing web basato sull’account con tam. Utilizza questa guida per completare il passaggio successivo.
 title: Marketing web basato su account con TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 6%
+source-wordcount: '180'
+ht-degree: 5%
 
 ---
 

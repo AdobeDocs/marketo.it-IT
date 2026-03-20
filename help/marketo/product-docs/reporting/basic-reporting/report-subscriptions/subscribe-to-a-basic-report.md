@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359987
-description: Iscriviti a un rapporto di base - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abbonare gli indirizzi e-mail ai rapporti di base per ricevere aggiornamenti automatici e condividere i rapporti con il team. Impostare la frequenza di abbonamento nella scheda Sottoscrizioni.
 title: Abbonati a un rapporto di base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 14%
+source-wordcount: '136'
+ht-degree: 12%
 
 ---
 

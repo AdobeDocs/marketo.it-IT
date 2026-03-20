@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719336
-description: Impostazioni utente - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare le impostazioni utente, compresi il fuso orario, i rapporti e-mail, la password, le notifiche mobili e le impostazioni dell’area personale. Personalizza la tua esperienza con il Web Personalization e le preferenze di esportazione.
 title: Impostazioni utente
 exl-id: 2d7d66fd-6240-4275-a14b-083b30802727
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 

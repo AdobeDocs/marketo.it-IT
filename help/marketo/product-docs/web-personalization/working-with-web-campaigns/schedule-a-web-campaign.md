@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10097100
-description: Pianificazione di una campagna web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come pianificare una campagna web in Marketo Engage, inclusa la pianificazione di una campagna web. Utilizza questa guida per completare il passaggio successivo.
 title: Pianificare una campagna web
 exl-id: 53ad93ef-b1a8-42fd-8aff-923e02946527
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '304'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ Puoi pianificare la campagna web in base all’ora del visitatore web o a un fus
 >
 >La pianificazione delle date di inizio e di fine è utile per un evento pianificato, ad esempio un webinar, che viene eseguito per un periodo specifico. Le ripetizioni sono perfette per un&#39;offerta speciale che viene eseguita ogni settimana solo in un giorno particolare.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-16-3a38-3a47.png)
 

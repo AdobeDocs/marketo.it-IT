@@ -1,13 +1,13 @@
 ---
 unique-page-id: 8782266
-description: Assegnazione di priorità alle campagne web - Documenti Marketo - Documentazione del prodotto
+description: Scopri come assegnare le priorità alle campagne web in Marketo Engage, incluso assegnare le priorità alle campagne web. Utilizza questa guida per completare il passaggio successivo.
 title: Assegnazione di priorità alle campagne web
 exl-id: 18c43ba2-6d4a-4344-93be-3e1435742504
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '177'
+ht-degree: 4%
 
 ---
 
@@ -26,7 +26,7 @@ Imposta un punteggio di priorità per assegnare la priorità alle campagne web q
 >
 >Una campagna In Zone e una campagna (Widget o Dialogo) possono reagire sulla stessa pagina.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-6.jpg)
 

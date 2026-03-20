@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720151
-description: Implementazione di RTP sulle pagine di destinazione di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come implementare rtp sulle pagine di destinazione di marketo in Marketo Engage, incluso l’implementazione di rtp su marketo. Utilizza questa guida per completare il passaggio successivo.
 title: Implementazione di RTP sulle pagine di destinazione di Marketo
 exl-id: fd19c3ad-d3f6-44a3-9f7a-d518e2d3f02a
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -49,4 +49,4 @@ Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione ri
 
 1. Verifica che venga visualizzato in tutte le pagine, incluse le pagine di destinazione e i sottodomini.
 
-   A tale scopo, fai clic con il pulsante destro del mouse sulla pagina del sito web. Vai a **[!UICONTROL View Page Source].** Cerca **[!UICONTROL RTP]** per individuare il tag.
+   A tale scopo, fai clic con il pulsante destro del mouse sulla pagina del sito web. Passa a **[!UICONTROL View Page Source].** Cerca **[!UICONTROL RTP]** per individuare il tag.

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10094404
-description: Creare gruppi di campi personalizzati utilizzando la Libreria campi - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare gruppi di campi personalizzati utilizzando l’organizzatore dei campi in Marketo Engage utilizzando Crea gruppi di campi personalizzati. Utilizza questa guida per completare il passaggio successivo.
 title: Creare gruppi di campi personalizzati utilizzando l’Organizzatore di campi
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '951'
-ht-degree: 5%
+source-wordcount: '966'
+ht-degree: 4%
 
 ---
 

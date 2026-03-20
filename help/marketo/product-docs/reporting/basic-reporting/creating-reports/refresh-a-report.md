@@ -1,13 +1,13 @@
 ---
 unique-page-id: 5472328
-description: Aggiornare un rapporto - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiornare manualmente i rapporti per ottenere i dati più recenti, anche se i rapporti vengono aggiornati automaticamente ogni 24 ore. Utilizzare il pulsante di aggiornamento o il menu Azioni report per aggiornare i risultati.
 title: Aggiornare un rapporto
 exl-id: 022e338c-4e50-4d12-a5cb-d864aa60b131
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 5%
+source-wordcount: '127'
+ht-degree: 4%
 
 ---
 

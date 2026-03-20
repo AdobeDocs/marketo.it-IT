@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7505310
-description: Iscrizione a un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come iscriverti a elenchi avanzati per ricevere rapporti inviati direttamente alla tua casella in entrata. Crea abbonamenti da attività di marketing o database con frequenza e formato personalizzabili.
 title: Abbonati a un elenco avanzato
 exl-id: 4ea1664b-8178-41ae-a184-a8ebe090ef96
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '418'
 ht-degree: 2%
 
 ---

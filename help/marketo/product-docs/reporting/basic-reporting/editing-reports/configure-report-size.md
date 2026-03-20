@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360002
-description: Configurare le dimensioni del rapporto - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare la dimensione del rapporto modificando il limite massimo di righe dalle 5.000 righe predefinite. Regola righe esportazione disponibili nella scheda Configurazione per ottimizzare le prestazioni del rapporto.
 title: Configurare le dimensioni del rapporto
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '124'
+ht-degree: 8%
 
 ---
 

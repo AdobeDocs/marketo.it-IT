@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719344
-description: Creazione di un segmento web di base - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare un segmento web di base in Marketo Engage utilizzando create a-basic-web-segment (creazione di un segmento web di base). Fai il prossimo passo con fiducia.
 title: Creare un segmento web di base
 exl-id: 99bc3788-e04c-46a3-86e5-76d398f8a6e6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '165'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Creiamo un segmento di base destinato a tutti i visitatori web dagli Stati Uniti e dal settore dei servizi finanziari.
 
-1. Vai a **[!UICONTROL Segments]**.
+1. Passa a **[!UICONTROL Segments]**.
 
    ![](assets/image2016-8-18-15-3a37-3a32.png)
 

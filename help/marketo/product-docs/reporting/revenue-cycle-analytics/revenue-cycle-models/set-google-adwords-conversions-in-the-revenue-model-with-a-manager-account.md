@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7504923
-description: Imposta [!DNL Google AdWords] conversioni nel modello dei ricavi con un account Manager - Documenti Marketo - Documentazione del prodotto
+description: Scopri come impostare le conversioni di [!dnl google adwords] nel modello dei ricavi con un account manager in Marketo Engage. Utilizza questa guida per completare il passaggio successivo.
 title: Imposta [!DNL Google AdWords] conversioni nel modello dei ricavi con un account Manager
 exl-id: 8c9f50cf-0a8b-4f9a-a0bd-bb57eeac24cf
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '387'
 ht-degree: 1%
 
 ---

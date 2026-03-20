@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720145
-description: Implementazione di RTP tramite Google Tag Manager - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come implementare rtp utilizzando google tag manager in Marketo Engage, incluso come implementare rtp utilizzando dnl google. Utilizza questa guida per completare il passaggio successivo.
 title: Implementazione di RTP con Google Tag Manager
 exl-id: f7f06779-8abe-4c8c-9197-9d0c6bcfed49
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 5%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
 1. Accedi al tuo **account RTP**.
 
-1. Vai a **[!UICONTROL Account Settings]**.
+1. Passa a **[!UICONTROL Account Settings]**.
 
    a. Se hai già ricevuto il tag JavaScript dal Supporto, continua con il passaggio 6.
 
@@ -33,7 +33,7 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
 1. Copiare il tag JavaScript RTP e incollarlo nel nuovo **tag HTML personalizzato** creato (passaggio 1).
 
-1. Fare clic su **[!UICONTROL Add Rule to Fire Tag]**. Seleziona **[!UICONTROL All Pages]**.
+1. Fai clic su **[!UICONTROL Add Rule to Fire Tag]**. Seleziona **[!UICONTROL All Pages]**.
 
 1. Fai clic su **[!UICONTROL Save]** e [pubblica la nuova versione](https://support.google.com/tagmanager/answer/2699097?hl=en).
 

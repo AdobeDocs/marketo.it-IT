@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514151
-description: Esempio di attribuzione 4 - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri l’esempio 4 di attribuzione in Marketo Engage, incluso l’esempio 4 di attribuzione-esempio. Utilizza questa guida per completare il passaggio successivo.
 title: Esempio di attribuzione 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '217'
 ht-degree: 3%
 
 ---

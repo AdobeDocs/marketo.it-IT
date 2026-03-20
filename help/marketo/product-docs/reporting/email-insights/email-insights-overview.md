@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10099408
-description: Panoramica di Email Insights - Documenti Marketo - Documentazione del prodotto
+description: Scopri e-mail Insights che fornisce analisi efficaci dai dati storici delle e-mail tramite le sezioni Analytics e Sends. Esplora le metriche di consegna e coinvolgimento con opzioni di filtro avanzate.
 title: Panoramica approfondimenti e-mail
 exl-id: ce261c9b-3a52-4aec-a299-0eb60026483d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '219'
 ht-degree: 3%
 
 ---

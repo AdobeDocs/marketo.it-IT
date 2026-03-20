@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7512105
-description: Clonare un rapporto in rapporti di gruppo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come clonare i rapporti da I miei rapporti a rapporti di gruppo per renderli visibili a tutti gli utenti dell’area di lavoro. Condividere i report con il team utilizzando l'opzione Clona in.
 title: Clonare un rapporto in rapporti dei gruppi
 exl-id: e5587d17-9ff6-4a38-ae50-1fe8c2685a72
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '113'
+ht-degree: 12%
 
 ---
 

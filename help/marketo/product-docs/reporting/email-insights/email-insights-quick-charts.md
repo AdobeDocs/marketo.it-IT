@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099415
-description: Grafici rapidi di Email Insights - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare e salvare i grafici rapidi come miniature per le visualizzazioni grafico utilizzate di frequente in E-mail Insights. Salvare fino a 20 grafici personalizzati e accedervi rapidamente dall’icona Grafici rapidi.
 title: Grafici rapidi su approfondimenti e-mail
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 4%
+source-wordcount: '246'
+ht-degree: 3%
 
 ---
 

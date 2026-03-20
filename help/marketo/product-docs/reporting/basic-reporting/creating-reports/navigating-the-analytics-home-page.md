@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513141
-description: Navigazione nella home page di Analytics - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come navigare nella home page di Analytics per accedere a diversi tipi di rapporti e tornare alla visualizzazione Home. Seleziona i tipi di rapporto e gestisci l’area di lavoro di reporting.
 title: Navigazione nella pagina Home di Analytics
 exl-id: 51e044ac-c761-4d51-ac8a-168ba8f763c6
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 23%
+source-wordcount: '77'
+ht-degree: 18%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 23%
 
    ![](assets/image2015-4-27-8-3a38-3a10.png)
 
-1. Selezionare un tipo di report [&#128279;](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+1. Selezionare un tipo di report [](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
    ![](assets/image2015-4-27-8-3a38-3a22.png)
 

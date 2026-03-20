@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359971
-description: Rapporto sull’attività delle pagine web - Documenti Marketo - Documentazione del prodotto
+description: Scopri i rapporti Attività pagina web che mostrano chi visita il tuo sito web con informazioni dettagliate sui visitatori. Visualizzare utenti noti o anonimi e tenere traccia di visualizzazioni di pagina, pagine di ingresso e referenti.
 title: Rapporto attività di pagina web
 exl-id: 35bd37bd-e7b9-4418-b2c9-af5989f44b9f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '341'
 ht-degree: 3%
 
 ---

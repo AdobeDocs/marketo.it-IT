@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360429
-description: Report sul modello di fatturato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i rapporti sul modello di ricavi in Marketo Engage, incluso il rapporto sul modello di ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Rapporto sul modello di ricavi
 exl-id: a9abbfcb-b4ee-402c-9092-c2e0d388f7a4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 9%
 
 ---
 
@@ -19,7 +19,7 @@ Per ogni modello di ciclo dei ricavi, è possibile generare un rapporto sul nume
 >
 >I lead devono essere membri del modello da includere nel rapporto.
 
-1. Vai a **[!UICONTROL Analytics]**.
+1. Passa a **[!UICONTROL Analytics]**.
 
    ![](assets/image2015-4-29-16-3a8-3a14.png)
 
@@ -43,4 +43,4 @@ Per ogni modello di ciclo dei ricavi, è possibile generare un rapporto sul nume
 
    ![](assets/image2015-4-29-16-3a51-3a29.png)
 
-Perché questo è utile? Il modello mostra il canale di vendita e marketing. Tenere traccia dei loro saldi nel tempo per identificare i colli di bottiglia prima che diventino un problema.
+Perché questo è utile? Il modello mostra il funnel di vendita e marketing. Tenere traccia dei loro saldi nel tempo per identificare i colli di bottiglia prima che diventino un problema.

@@ -1,11 +1,11 @@
 ---
-description: Panoramica sul reporting - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i moduli di reporting di Marketo Engage, inclusi i rapporti di base, le informazioni e-mail, le informazioni sulle prestazioni e le analisi BI avanzate. Scopri quale soluzione di reporting soddisfa le tue esigenze.
 title: Panoramica sui rapporti
 exl-id: 62b4b9fc-a4fe-4298-947b-1ff453321464
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '405'
 ht-degree: 2%
 
 ---

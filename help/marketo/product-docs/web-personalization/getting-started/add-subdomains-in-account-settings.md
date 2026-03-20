@@ -1,12 +1,12 @@
 ---
 unique-page-id: 17727870
-description: Aggiungere sottodomini nelle impostazioni account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere sottodomini nelle impostazioni dell’account in Marketo Engage utilizzando Aggiungi sottodomini nelle impostazioni dell’account. Utilizza questa guida per completare il passaggio successivo.
 title: Aggiungere sottodomini in Impostazioni account
 exl-id: 8235ae4b-ab07-413f-bd23-4e12232bd019
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '149'
 ht-degree: 5%
 
 ---
@@ -37,4 +37,4 @@ Ecco come aggiungere sottodomini ai domini principali in [!UICONTROL Account Set
 
    >[!NOTE]
    >
-   >Se desideri aggiungere _domini primari_ al tuo account, contatta il [supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support).
+   >Se desideri aggiungere _domini primari_ al tuo account, contatta il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).

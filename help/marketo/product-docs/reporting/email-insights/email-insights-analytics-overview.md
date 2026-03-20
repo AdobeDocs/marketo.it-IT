@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10099411
-description: Panoramica di Analytics su Email Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri Email Insights Analytics che esplora i dati aggregati della serie temporale per le metriche di coinvolgimento e consegna delle e-mail. Utilizza grafici e informazioni guidate per scoprire i driver delle prestazioni rilevanti.
 title: Panoramica analisi su approfondimenti e-mail
 exl-id: 370720f7-bbe1-4143-b2be-15854e1ffe55
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '259'
-ht-degree: 3%
+source-wordcount: '277'
+ht-degree: 2%
 
 ---
 

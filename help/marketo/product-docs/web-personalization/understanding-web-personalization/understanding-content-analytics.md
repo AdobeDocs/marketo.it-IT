@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10093159
-description: Informazioni su Content Analytics - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come comprendere l’analisi dei contenuti in Marketo Engage, compresa l’analisi dei contenuti. Utilizza questa guida per completare il passaggio successivo.
 title: Informazioni su analisi dei contenuti
 exl-id: 9266fdfe-2a12-43b0-84ad-d12eb8589ed4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ La pagina Content Analytics mostra il contenuto esistente individuato (casi di s
 
 ## Visualizza Content Analytics {#view-content-analytics}
 
-Vai a **[!UICONTROL Content Analytics]**.
+Passa a **[!UICONTROL Content Analytics]**.
 
 ![](assets/one.png)
 
@@ -48,7 +48,7 @@ La tabella Analytics fornisce i seguenti dettagli:
    <td colspan="1" rowspan="1">Nome della risorsa di contenuto digitale. Fai clic su <strong>Titolo</strong> per aprire l'URL del contenuto in una nuova scheda.</td>
   </tr>
   <tr>
-   <td colspan="1"><p><strong>Consiglio </strong><strong>Icona</strong></p><p><img alt="—" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
+   <td colspan="1"><p><strong>Consiglio </strong><strong>Icona</strong></p><p><img alt="--" width="24" src="assets/recommended-icon.png" data-linked-resource-id="10094267" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="10093159" title="--"></p></td>
    <td colspan="1">Indica se il contenuto è stato aggiunto per <a href="#">Consigli sui contenuti</a>.</td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ L’analisi aggiuntiva dei contenuti include:
 
 * **[!UICONTROL Views]**: visualizzazioni del contenuto per l&#39;ambito temporale selezionato
 * **[!UICONTROL Direct Conversions]**: visitatori Web che hanno visualizzato il contenuto e compilato un modulo durante la stessa visita.
-* **[!UICONTROL Conversion Rate]**&#x200B;**:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
+* **[!UICONTROL Conversion Rate]****:** Un tasso di conversione percentuale calcolato dalle conversioni dirette diviso per i clic
 
 **[!UICONTROL Trends]**
 

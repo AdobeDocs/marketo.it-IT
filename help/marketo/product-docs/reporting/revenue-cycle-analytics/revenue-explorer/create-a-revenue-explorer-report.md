@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504047
-description: Creazione di un rapporto di Revenue Explorer - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un rapporto Esplora ricavi in Marketo Engage utilizzando la funzione Crea un rapporto Esplora ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Creare un rapporto Revenue Explorer
 exl-id: dc7b705d-00cc-4b9f-aae1-83a5127036f4
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 7%
+source-wordcount: '143'
+ht-degree: 6%
 
 ---
 

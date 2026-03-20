@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360341
-description: Sincronizzare i campi personalizzati con il Revenue Explorer - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come sincronizzare i campi personalizzati con Esplora ricavi in Marketo Engage utilizzando i campi personalizzati per sincronizzare i ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Sincronizzare campi personalizzati con Revenue Explorer
 exl-id: 6b7671ec-af43-4bca-89de-e2ac4a5cee1e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 7%
+source-wordcount: '126'
+ht-degree: 8%
 
 ---
 

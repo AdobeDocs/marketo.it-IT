@@ -1,12 +1,12 @@
 ---
 unique-page-id: 5472402
-description: Modifica del modello approvato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare il modello approvato in Marketo Engage, inclusa la modifica del modello approvato. Utilizza questa guida per completare il passaggio successivo.
 title: Modificare il modello approvato
 exl-id: 5f31b9bd-b008-4b97-ba5d-930488dd3da9
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '255'
 ht-degree: 3%
 
 ---

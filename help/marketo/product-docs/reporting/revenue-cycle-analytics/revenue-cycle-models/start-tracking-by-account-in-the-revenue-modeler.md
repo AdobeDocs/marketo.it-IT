@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718681
-description: Avviare il tracciamento per account nella Modeler dei ricavi - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come iniziare il tracciamento per account nel modellatore dei ricavi in Marketo Engage, incluso il tracciamento per account. Utilizza questa guida per completare il passaggio successivo.
 title: Avviare tracciamento per account nel modeler dei ricavi
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 7%
+source-wordcount: '241'
+ht-degree: 6%
 
 ---
 

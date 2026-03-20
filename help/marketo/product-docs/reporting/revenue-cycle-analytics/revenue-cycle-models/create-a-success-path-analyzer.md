@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360411
-description: Creazione di un analizzatore di percorsi di successo - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare un analizzatore di percorsi di successo in Marketo Engage utilizzando un analizzatore di percorsi di successo. Utilizza questa guida per completare il passaggio successivo.
 title: Creare un analizzatore del percorso di successo
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 9%
+source-wordcount: '177'
+ht-degree: 10%
 
 ---
 
@@ -47,7 +47,7 @@ Ottieni una rappresentazione visiva della velocità e del flusso attraverso il m
 
    ![](assets/five.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Success Path Analyzer]**.
+1. Fai clic sulla scheda **[!UICONTROL Success Path Analyzer]**.
 
    ![](assets/success-tab.png)
 

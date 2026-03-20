@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12615749
-description: Esportare i dati della campagna web - Documenti Marketo - Documentazione del prodotto
+description: Scopri come esportare i dati della campagna web in Marketo Engage utilizzando l’esportazione dei dati della campagna web-export-web-campaign-data. Utilizza questa guida per completare il passaggio successivo.
 title: Esportare i dati della campagna web
 exl-id: 04c33b2a-a314-486d-b72d-5618d7c0ed0d
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '52'
-ht-degree: 15%
+source-wordcount: '68'
+ht-degree: 14%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Segui questi semplici passaggi per esportare i dati della campagna web.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/one-2.png)
 

@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718654
-description: Informazioni sui modelli di ricavo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come comprendere i modelli di ricavo in Marketo Engage e i modelli di ricavo. Utilizza questa guida per completare il passaggio successivo.
 title: Informazioni sui modelli di ricavi
 exl-id: e8d1e7e9-caea-43a0-b87a-428a649e95d2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '564'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
 
 # Informazioni sui modelli di ricavi {#understanding-revenue-models}
 
-I modelli del ciclo dei ricavi portano il marketing al livello successivo. Modellano tutte le fasi dell’intero funnel di fatturato, dalla prima interazione con un lead fino a quando il lead non è un cliente acquisito.
+I modelli del ciclo dei ricavi portano il marketing al livello successivo. Modellano tutte le fasi dell&#39;intero funnel delle entrate, dalla prima interazione con un lead fino a quando il lead non è un cliente acquisito.
 
 ## Modello mentale (come pensare a questa cosa) {#mental-model-how-to-think-about-this-thing}
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12981145
-description: Configurazione di Performance Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come impostare Performance Insights configurando la configurazione delle opportunità, i costi del programma, il comportamento delle analisi e i criteri di successo. Assicurati che l’attribuzione e il flusso di dati siano corretti per una generazione di rapporti accurata.
 title: Impostazione di approfondimenti prestazioni
 exl-id: f87bbaba-c2c1-4b83-9e07-f8a5d1f1738b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '277'
-ht-degree: 3%
+source-wordcount: '296'
+ht-degree: 4%
 
 ---
 
@@ -64,7 +64,7 @@ Aggiornare i costi del programma per almeno 12 mesi. Puoi farlo manualmente o ut
 
    ![](assets/select-program.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Setup]**.
+1. Fai clic sulla scheda **[!UICONTROL Setup]**.
 
    ![](assets/setup-tab.png)
 

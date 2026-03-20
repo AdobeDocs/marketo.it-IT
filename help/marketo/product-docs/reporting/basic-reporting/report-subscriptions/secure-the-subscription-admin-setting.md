@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10095347
-description: Proteggere le impostazioni di amministrazione dell’abbonamento - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come proteggere le impostazioni di amministrazione delle sottoscrizioni per richiedere l’accesso prima di scaricare i rapporti. Configura questa opzione di protezione in Impostazioni accesso amministratore per le impostazioni report elenchi smart.
 title: Proteggere le impostazioni di amministrazione dell’abbonamento
 exl-id: 0cc1bc36-6a97-4f8d-afea-21746e8e3d84
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 12%
+source-wordcount: '99'
+ht-degree: 13%
 
 ---
 

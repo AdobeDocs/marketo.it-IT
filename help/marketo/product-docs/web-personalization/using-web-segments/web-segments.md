@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719093
-description: Segmenti web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i segmenti web in Marketo Engage; la scheda dei segmenti mostra tutte le funzioni personalizzate. Utilizza questa guida per completare il passaggio successivo.
 title: Segmenti web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1980'
+source-wordcount: '1998'
 ht-degree: 0%
 
 ---
@@ -187,7 +187,7 @@ Seleziona da un [elenco account denominati](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Escludi ISP**
 
@@ -286,7 +286,7 @@ Aggiungi il valore Evento di destinazione. Ad esempio da fonti di dati di terze 
 
 **API contesto utente**
 
-Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

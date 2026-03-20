@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359963
-description: Creazione di un rapporto in un programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un rapporto all’interno di un programma per analizzare persone, programmi, pagine di destinazione, e-mail e risorse social. Eseguire rapporti direttamente da Marketing Activities (Attività di marketing) o dalla scheda Analytics.
 title: Creare un rapporto in un programma
 exl-id: 3a80c10f-3113-46c2-a2e7-7ba2e3f4783f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 7%
 
 Esegui un rapporto per analizzare le persone, i programmi, le pagine di destinazione, le e-mail e le risorse social.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities.png)
 

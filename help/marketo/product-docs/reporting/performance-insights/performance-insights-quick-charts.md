@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12980873
-description: Rapidi grafici di Performance Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare e salvare grafici rapidi in Approfondimenti prestazioni per le visualizzazioni grafico utilizzate di frequente. Salva fino a 20 grafici personalizzati con filtri e metriche specifiche per un accesso rapido.
 title: Grafici rapidi su approfondimenti prestazioni
 exl-id: 3989ae49-7c52-4966-ba75-e58d001d0241
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 3%
+source-wordcount: '186'
+ht-degree: 2%
 
 ---
 

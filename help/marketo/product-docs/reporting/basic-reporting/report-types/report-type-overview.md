@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2359965
-description: Panoramica sul tipo di rapporto - Documenti Marketo - Documentazione del prodotto
+description: Scopri i tipi di rapporto disponibili, tra cui Prestazioni persone, Prestazioni e-mail, Prestazioni e-mail campagna e Rapporti attività web. Scegliere il tipo di rapporto appropriato per le esigenze di analisi.
 title: Panoramica del tipo di rapporto
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 11%
+source-wordcount: '235'
+ht-degree: 10%
 
 ---
 
@@ -47,7 +47,7 @@ Quando [crei un report in un programma](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapporto persone per fase dei ricavi</a></strong></td>
-   <td>Generazione di rapporti di base per il modello di ricavo. Consulta <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td>
+   <td>Generazione di rapporti di base per il modello di ricavo. Consulta <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestazioni della pagina di destinazione</a>  </strong></td>
@@ -55,7 +55,7 @@ Quando [crei un report in un programma](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Prestazioni del programma</a>  </strong></td>
-   <td>Metriche di base del programma come membri e successo. Consulta <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td>
+   <td>Metriche di base del programma come membri e successo. Consulta <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Attività Web della società</a></strong></td>
@@ -67,11 +67,11 @@ Quando [crei un report in un programma](/help/marketo/product-docs/reporting/bas
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md">Rapporto sulle prestazioni del flusso di coinvolgimento</a> </strong></td>
-   <td>Controlla il funzionamento del <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a>.</td>
+   <td>Controlla il funzionamento del <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a>.</td>
   </tr>
    <tr>
    <td><strong><a href="/help/marketo/product-docs/reporting/basic-reporting/report-types/campaign-email-performance-report.md">Prestazioni e-mail campagna</a> </strong></td>
-   <td>Controlla il funzionamento del <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a>.</td>
+   <td>Controlla il funzionamento del <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs">programma di coinvolgimento</a>.</td>
   </tr>
  </tbody>
 </table>

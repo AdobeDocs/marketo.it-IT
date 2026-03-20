@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949170
-description: Salvare la campagna come modello - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come salvare la campagna come modello in Marketo Engage, incluso come modello. Utilizza questa guida per completare il passaggio successivo.
 title: Salvare la campagna come modello
 exl-id: b14663a0-8a15-4d3d-bf1f-93a25ea606ef
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '105'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Hai mai trascorso del tempo a creare la campagna web perfetta? Ora è possibile salvarlo come modello per riutilizzarlo facilmente in futuro.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979858
-description: Domande frequenti su Performance Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Risposte alle domande frequenti su Performance Insights, incluse le impostazioni di attribuzione, la visibilità del programma, la mappatura delle opportunità e i requisiti di configurazione. Comprendere come MPI funziona con il CRM e l’analisi.
 title: Domande frequenti su approfondimenti prestazioni
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1343'
+source-wordcount: '1364'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ I campi personalizzati, il tipo di opportunità e i filtri ABM sono tutti attrib
 
 ## Desidero utilizzare un campo opportunità Salesforce personalizzato per la generazione di rapporti sui ricavi anziché il campo importo opportunità Salesforce standard. L&#39;MPI mi permette di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sì.  [Il supporto Marketo](https://nation.marketo.com/t5/Support/ct-p/Support) è in grado di rimappare il campo Importo opportunità di Marketo in un campo opportunità Salesforce personalizzato, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo Salesforce personalizzato ricampionato.
+Sì.  [Il supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) è in grado di rimappare il campo Importo opportunità di Marketo in un campo opportunità Salesforce personalizzato, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo Salesforce personalizzato ricampionato.
 
 >[!NOTE]
 >

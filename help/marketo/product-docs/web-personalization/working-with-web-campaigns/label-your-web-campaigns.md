@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2949154
-description: Etichettare Le Campagne Web - Documentazione Di Marketo - Documentazione Del Prodotto
+description: Scopri come etichettare le campagne web in Marketo Engage utilizzando l’etichetta label your web campaigns-your-web-campaigns. Utilizza questa guida per completare il passaggio successivo.
 title: Etichettare le campagne web
 exl-id: 891772c8-dc4d-46a4-b254-4baf0a74f9de
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 

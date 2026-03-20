@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720149
-description: Implementazione di RTP su Wordpress - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come implementare rtp su wordpress in Marketo Engage, inclusa l’implementazione di rtp su dnl wordpress. Utilizza questa guida per completare il passaggio successivo.
 title: Implementazione di RTP su Wordpress
 exl-id: f010942b-02bb-447b-a272-c4237782b2d7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '172'
-ht-degree: 2%
+source-wordcount: '187'
+ht-degree: 4%
 
 ---
 
@@ -23,7 +23,7 @@ Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione ri
 
 1. Nell&#39;elenco dei file modello a destra dell&#39;editor di testo, trovare **header.php** e aprirlo.
 
-1. Vai a **[!UICONTROL Account Settings]**.
+1. Passa a **[!UICONTROL Account Settings]**.
 
    a. Se hai già ricevuto il tag JavaScript dal Supporto tecnico - continua con il passaggio 5.
 
@@ -43,4 +43,4 @@ Per implementare [!UICONTROL RTP tag], seguire le istruzioni di installazione ri
 
 1. Verifica che venga visualizzato in tutte le pagine, incluse le pagine di destinazione e i sottodomini.
 
-   a. Per farlo, fai clic con il pulsante destro del mouse sulla pagina del sito web. Vai a **[!UICONTROL View Page Source].** Cerca **RTP** per individuare il tag.
+   a. Per farlo, fai clic con il pulsante destro del mouse sulla pagina del sito web. Passa a **[!UICONTROL View Page Source].** Cerca **RTP** per individuare il tag.

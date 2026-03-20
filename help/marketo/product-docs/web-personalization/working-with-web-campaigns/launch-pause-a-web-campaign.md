@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719406
-description: Avviare/sospendere una campagna web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come avviare/mettere in pausa una campagna web in Marketo Engage, inclusa la pagina di avvio di una campagna web. Utilizza questa guida per completare il passaggio successivo.
 title: Avviare/sospendere una campagna web
 exl-id: ce85a5ef-dd53-4298-a521-4b6d0032e111
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '164'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
    ![](assets/one-1.png)
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/two-1.png)
 

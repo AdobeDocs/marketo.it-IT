@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719348
-description: Etichettare Il Segmento - Documentazione Di Marketo - Documentazione Del Prodotto
+description: Scopri come etichettare il segmento in Marketo Engage utilizzando l’etichetta del segmento-tuo-segmento. Utilizza questa guida per completare il passaggio successivo.
 title: Etichettare il segmento
 exl-id: 5278f52b-a352-4d85-904c-48f94972d4e7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 5%
+source-wordcount: '131'
+ht-degree: 4%
 
 ---
 

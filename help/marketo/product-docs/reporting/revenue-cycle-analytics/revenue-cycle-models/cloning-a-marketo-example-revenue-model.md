@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718677
-description: Duplicazione di un esempio di modello di ricavo di Marketo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come clonare un modello di ricavi di esempio marketo in Marketo Engage, incluso clonare un ricavo di esempio marketo. Utilizza questa guida per completare il passaggio successivo.
 title: Clonazione di un modello di ricavi di esempio di Marketo
 exl-id: 121a80bc-953e-47ed-9fdf-159fbb5595a6
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 23%
+source-wordcount: '83'
+ht-degree: 19%
 
 ---
 

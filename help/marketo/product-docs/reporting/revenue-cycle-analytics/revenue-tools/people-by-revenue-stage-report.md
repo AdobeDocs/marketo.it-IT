@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360418
-description: Report fase Persone per retribuzione - Documentazione Marketo - Documentazione del prodotto
+description: Scopri il rapporto Persone per fase di ricavi in Marketo Engage, incluso il rapporto Persone per fase di ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Rapporto persone per fase dei ricavi
 exl-id: 1f3d605d-fa0d-4ec8-b7d6-bfd8dac93609
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '139'
 ht-degree: 12%
 
 ---
@@ -19,7 +19,7 @@ Puoi creare un rapporto che mostra in quale fase del modello del ciclo dei ricav
 >
 >Non tutte le edizioni di Marketo includono questa funzionalità. Per maggiori informazioni, contatta il tuo Account Manager.
 
-1. Vai a **[!UICONTROL Analytics]**.
+1. Passa a **[!UICONTROL Analytics]**.
 
    ![](assets/image2017-3-27-15-3a43-3a55.png)
 

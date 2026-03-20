@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360437
-description: Esplora i dettagli del programma e del canale con il tool Program Analyzer - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri i dettagli del programma e del canale con l’analizzatore di programmi in Marketo Engage, incluso esplora programma. Utilizza questa guida per completare il passaggio successivo.
 title: Esplorare dettagli programma e canale con analizzatore di programmi
 exl-id: 0d7133b6-648f-4549-ba8d-7f7abeb89a16
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '198'
 ht-degree: 4%
 
 ---

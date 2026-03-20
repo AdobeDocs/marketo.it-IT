@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720796
-description: Retargeting con dati di Web Personalization - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il retargeting con dati di personalizzazione web in Marketo Engage, incluso il retargeting con web dnl. Utilizza questa guida per completare il passaggio successivo.
 title: Retargeting con dati di personalizzazione web
 exl-id: b5af1f84-2061-4d0d-9d1f-2fff9191f028
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '395'
 ht-degree: 3%
 
 ---
@@ -54,7 +54,7 @@ Web Personalization attualmente aggiunge dati alle seguenti piattaforme di remar
 
 ## Configurazione remarketing {#remarketing-configuration}
 
-1. Vai a **[!UICONTROL Retargeting]**.
+1. Passa a **[!UICONTROL Retargeting]**.
 
    ![](assets/one.png)
 

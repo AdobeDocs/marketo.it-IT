@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360235
-description: Creazione di un analizzatore di influenza sulle opportunità - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare un analizzatore di influenza delle opportunità in Marketo Engage utilizzando l’opzione Crea un’influenza delle opportunità. Utilizza questa guida per completare il passaggio successivo.
 title: Creare analizzatore influenza opportunità
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '212'
 ht-degree: 6%
 
 ---
@@ -52,7 +52,7 @@ Utilizza Opportunity Influence Analyzer (Analisi di influenza opportunità) per 
    >
    >Nella maggior parte dei casi, **[!UICONTROL All Time]** è la scelta più semplice.
 
-1. Ci sei! Fai clic sulla scheda principale per visualizzare i momenti interessanti e i successi coinvolti nell’opportunità.
+1. Ecco fatto. Fai clic sulla scheda principale per visualizzare i momenti interessanti e i successi coinvolti nell’opportunità.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

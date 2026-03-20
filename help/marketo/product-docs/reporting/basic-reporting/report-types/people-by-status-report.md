@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360012
-description: Rapporto Persone per stato - Documenti Marketo - Documentazione del prodotto
+description: Scopri i rapporti Persone per stato che mostrano quante persone vengono visualizzate mensilmente in ogni valore di Stato persona. Monitora l’avanzamento del processo e identifica i colli di bottiglia nel funnel.
 title: Rapporto Persone per stato
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 8%
+source-wordcount: '119'
+ht-degree: 6%
 
 ---
 

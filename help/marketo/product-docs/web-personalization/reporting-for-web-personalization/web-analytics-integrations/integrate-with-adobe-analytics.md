@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2949160
-description: Integrare con Adobe Analytics - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come effettuare l’integrazione con adobe analytics in Marketo Engage utilizzando l’integrazione con adobe analytics. Utilizza questa guida per completare il passaggio successivo.
 title: Integrare con Adobe Analytics
 exl-id: 6ea35811-6f3d-4dc8-91aa-877d613f8e93
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '984'
+source-wordcount: '999'
 ht-degree: 1%
 
 ---
@@ -200,7 +200,7 @@ Aggiunta del reportlet Settori al dashboard
 
 Aggiunta del reportlet dei segmenti al dashboard
 
-1. Vai a **[!UICONTROL Site Metrics]**. Fai clic su **[!UICONTROL Custom Events]**, **[!UICONTROL Segments]**.
+1. Passa a **[!UICONTROL Site Metrics]**. Fai clic su **[!UICONTROL Custom Events]**, **[!UICONTROL Segments]**.
 
 1. Configura grafico a **Barra verticale**.
 

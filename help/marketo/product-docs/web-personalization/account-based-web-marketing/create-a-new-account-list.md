@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720232
-description: Creazione di un nuovo elenco account - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un nuovo elenco di account in Marketo Engage utilizzando Crea un nuovo elenco di account crea-un-nuovo-elenco-account. Utilizza questa guida per completare il passaggio successivo.
 title: Creare un nuovo elenco di account
 exl-id: 644c5b3b-852a-4dd9-8e55-b434505504ea
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '392'
-ht-degree: 4%
+source-wordcount: '409'
+ht-degree: 5%
 
 ---
 
@@ -21,7 +21,7 @@ Crea e carica un elenco di nomi di organizzazione e dominio per eseguire il targ
 
 ## Creare un nuovo elenco di account {#create-a-new-account-list-1}
 
-1. Vai a **[!UICONTROL Account Lists]**.
+1. Passa a **[!UICONTROL Account Lists]**.
 
    ![](assets/dropdown-account-lists-hand.jpg)
 
@@ -68,7 +68,7 @@ Nella pagina **Elenchi account**, fare clic sull&#39;icona **Modifica** nell&#39
 
 ![](assets/create-new-account-list-edit.jpg)
 
-Seleziona **[!UICONTROL Browse...]** e carica il tuo nuovo file CSV. Questo file sostituirà il file originale. Fare clic su **[!UICONTROL Save]**. Il nuovo file caricato rimarrà in sospeso fino all&#39;approvazione da parte del supporto tecnico Marketo, mentre il file originale rimarrà attivo in sospeso.
+Seleziona **[!UICONTROL Browse...]** e carica il tuo nuovo file CSV. Questo file sostituirà il file originale. Fai clic su **[!UICONTROL Save]**. Il nuovo file caricato rimarrà in sospeso fino all&#39;approvazione da parte del supporto tecnico Marketo, mentre il file originale rimarrà attivo in sospeso.
 
 ![](assets/set-account-list-edit-hands.jpg)
 

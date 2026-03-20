@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951877
-description: Informazioni sull’area di analisi delle opportunità del programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come comprendere l’area di analisi delle opportunità di programma in Marketo Engage, compresa la sezione. Utilizza questa guida per completare il passaggio successivo.
 title: Informazioni su area di analisi delle opportunità del programma
 exl-id: 6105df93-b3de-4929-85e3-fd328372bd24
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '919'
 ht-degree: 1%
 
 ---

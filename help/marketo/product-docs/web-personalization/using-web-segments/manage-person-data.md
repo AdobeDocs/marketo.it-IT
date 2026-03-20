@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504051
-description: Gestire i dati della persona - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come gestire i dati personali in Marketo Engage, incluso gestire i dati personali gestire i dati personali. Utilizza questa guida per completare il passaggio successivo.
 title: Gestione dati della persona
 exl-id: 40f4aac8-c6e5-4cf3-9573-cac2fdf9bcad
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 10%
+source-wordcount: '206'
+ht-degree: 12%
 
 ---
 
@@ -15,11 +15,11 @@ ht-degree: 10%
 
 Sfrutta i dati della persona per [!DNL Web Personalization] selezionando i campi della persona da utilizzare nella segmentazione.
 
-1. Vai a **[!UICONTROL Account Settings]**.
+1. Passa a **[!UICONTROL Account Settings]**.
 
    ![](assets/image2015-5-7-15-3a17-3a23.png)
 
-1. Vai a **[!UICONTROL Database]**.
+1. Passa a **[!UICONTROL Database]**.
 
    ![](assets/account-settings-dropdown-database.jpg)
 

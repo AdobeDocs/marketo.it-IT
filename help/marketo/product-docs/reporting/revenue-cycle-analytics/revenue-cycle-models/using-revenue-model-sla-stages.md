@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718668
-description: Utilizzo degli stadi di SLA del modello di ricavo - Documenti Marketo - Documentazione del prodotto
+description: Scopri come utilizzare le fasi sla del modello di ricavo in Marketo Engage utilizzando le fasi sla del modello di ricavo. Utilizza questa guida per completare il passaggio successivo.
 title: Utilizzo delle fasi di SLA del modello di ricavi
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '239'
 ht-degree: 4%
 
 ---

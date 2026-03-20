@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720218
-description: Implementazione di RTP tramite Adobe Tag Manager - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come implementare rtp con adobe tag manager in Marketo Engage, e come implementarlo con adobe tag. Utilizza questa guida per completare il passaggio successivo.
 title: Implementazione di RTP con Adobe Tag Manager
 exl-id: 5a938d02-6b09-45d5-94b0-dbb50b5d62b6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 6%
+source-wordcount: '191'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
 1. Accedi al tuo account RTP.
 
-1. Vai a **[!UICONTROL Account Settings]**.
+1. Passa a **[!UICONTROL Account Settings]**.
 
    a. Se hai già ricevuto il tag JavaScript dal Supporto tecnico - continua con il passaggio 4.
 
@@ -29,7 +29,7 @@ Per implementare il tag RTP, seguire le istruzioni di installazione riportate di
 
 1. Accedi al tuo account [!DNL Dynamic Tag Manager] ([https://dtm.adobe.com/sign_in](https://dtm.adobe.com/sign_in)).
 
-1. Vai a **[!UICONTROL Dashboard].** Fare clic sulla relativa proprietà Web.
+1. Passa a **[!UICONTROL Dashboard].** Fare clic sulla relativa proprietà Web.
 
    ![](assets/image2014-12-3-17-3a58-3a17.png)
 

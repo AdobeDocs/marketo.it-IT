@@ -1,13 +1,13 @@
 ---
 unique-page-id: 13795534
-description: Dashboard di Performance Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le dashboard di Performance Insights, tra cui le visualizzazioni Coinvolgimento, Pipeline e Ricavi. Misura il coinvolgimento del pubblico, l’acquisizione di nuovi nomi e le prestazioni dei canali con metriche di primo contatto e multi-contatto.
 title: Dashboard su approfondimenti prestazioni
 exl-id: 324880d0-e3ff-4bd5-8e1b-102c4ea66c8f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '493'
-ht-degree: 1%
+source-wordcount: '511'
+ht-degree: 0%
 
 ---
 

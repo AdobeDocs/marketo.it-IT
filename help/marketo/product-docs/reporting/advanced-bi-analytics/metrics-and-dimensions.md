@@ -1,11 +1,11 @@
 ---
-description: Metriche e dimensioni - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le metriche e le dimensioni disponibili per i rapporti di Advanced BI Analytics, tra cui e-mail, lead, programma e analisi delle opportunità. Crea rapporti personalizzati utilizzando questi elementi dati.
 title: Metriche e dimensioni
 feature: Reporting
 exl-id: 5f348007-ed0d-4900-ba4b-ecc9b935c6d2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '1040'
+source-wordcount: '1058'
 ht-degree: 7%
 
 ---
@@ -618,7 +618,7 @@ Di seguito sono riportate tutte le metriche e le dimensioni disponibili per il r
             <li>Clic effettuato</li>
             <li>Reclami</li>
             <li>Consegnati</li>
-            <li>Rifiuto rigido</li>
+            <li>Non recapitata in modo permanente</li>
             <li>Aperto</li>
             <li>Inviato</li>
             <li>Clic univoci</li>

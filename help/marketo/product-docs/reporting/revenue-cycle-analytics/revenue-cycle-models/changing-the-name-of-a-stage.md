@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718675
-description: Modifica del nome di una fase - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come modificare il nome di una fase in Marketo Engage, inclusa la modifica del nome di una fase. Utilizza questa guida per completare il passaggio successivo.
 title: Modificare il nome di una fase
 exl-id: 03e2a648-8524-4d10-ba6c-f422d9da5a40
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 26%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 

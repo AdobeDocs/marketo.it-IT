@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360240
-description: Configurare un analizzatore di influenza sulle opportunità - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come configurare un analizzatore di influenza delle opportunità in Marketo Engage utilizzando l’opzione per configurare un’influenza delle opportunità. Utilizza questa guida per completare il passaggio successivo.
 title: Configurare analizzatore influenza opportunità
 exl-id: 9165c7ac-5b8e-48d2-bbe7-1f9074848724
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 8%
+source-wordcount: '167'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10098884
-description: Filtrare campagne web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come filtrare le campagne web in Marketo Engage utilizzando il filtro campagne web filter-web-campaigns. Utilizza questa guida per completare il passaggio successivo.
 title: Filtrare campagne web
 exl-id: 07237fff-02d7-4974-9651-09a328d27365
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '102'
 ht-degree: 8%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 8%
 
 Dopo aver creato centinaia di [!DNL Web Personalization] campagne, è molto utile poter utilizzare i filtri per visualizzare solo quelle che ti interessano.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-8.jpg)
 

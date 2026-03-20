@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7513771
-description: Gestione di accesso e utenti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come accedere e gestire gli utenti in Marketo Engage utilizzando la gestione degli accessi e degli utenti login-and-user-management. Utilizza questa guida per completare il passaggio successivo.
 title: Gestione di login e utenti
 exl-id: 3cf5a50a-1926-4fb6-a1fe-39ba5eb2560f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 4%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 3%
 
 ## Assegna ruolo WP all&#39;utente {#assign-wp-role-to-user}
 
-1. Vai a **[!UICONTROL Users]**.
+1. Passa a **[!UICONTROL Users]**.
 
    ![](assets/image2015-4-29-11-3a31-3a3.png)
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719400
-description: Creazione di una nuova campagna web nell’area - Documentazione di Marketo - Documentazione del prodotto
+description: Creare campagne Web In Zone che sostituiscono gli elementi del sito Web basati su ID zona con contenuti personalizzati o banner grafici. Utilizza gli ID zona per eseguire il targeting di aree specifiche del sito web.
 title: Creare una nuova campagna web in un’area
 exl-id: 5cbe80a2-5e20-4e35-a722-b4cb479b4df7
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '691'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 ## Creare una campagna web in area {#create-an-in-zone-web-campaign}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a54-3a21.png)
 

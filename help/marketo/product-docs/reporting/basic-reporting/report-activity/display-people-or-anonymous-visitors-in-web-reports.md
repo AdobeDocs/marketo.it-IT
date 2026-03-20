@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360008
-description: Visualizzare persone o visitatori anonimi in rapporti web - Documenti Marketo - Documentazione del prodotto
+description: Scopri le persone o i visitatori anonimi da visualizzare nei rapporti web in Marketo Engage, inclusi gli utenti da visualizzare o. Utilizza questa guida per completare il passaggio successivo.
 title: Visualizzare persone o visitatori anonimi nei rapporti web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 11%
+source-wordcount: '155'
+ht-degree: 10%
 
 ---
 

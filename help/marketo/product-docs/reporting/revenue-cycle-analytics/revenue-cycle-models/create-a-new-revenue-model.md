@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718656
-description: Creazione di un nuovo modello di ricavi - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un nuovo modello di ricavi in Marketo Engage utilizzando Crea un nuovo modello di ricavi crea un nuovo modello di ricavi. Fai il prossimo passo con fiducia.
 title: Creare un nuovo modello di ricavi
 exl-id: 1c2e7d2b-35f6-4bd8-9a31-6bb857a63bbc
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 8%
 
 ---
 

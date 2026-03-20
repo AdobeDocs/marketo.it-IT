@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10096420
-description: Informazioni sulle vendite - Documentazione Marketo - Documentazione del prodotto
+description: Scopri le funzioni di Sales Intelligence che forniscono informazioni preziose su visitatori e organizzazioni web. Monitora, tieni traccia e ricevi avvisi sulle principali organizzazioni e account per regione.
 title: Informazioni sulle vendite
 exl-id: 118da902-8c02-413b-8959-2e970d3dd9a4
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 2%
+source-wordcount: '213'
+ht-degree: 1%
 
 ---
 

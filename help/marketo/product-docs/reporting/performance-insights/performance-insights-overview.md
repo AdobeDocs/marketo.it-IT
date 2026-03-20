@@ -1,13 +1,13 @@
 ---
 unique-page-id: 12979006
-description: Panoramica di Performance Insights - Documenti Marketo - Documentazione del prodotto
+description: Scopri Performance Insights che consente di ottimizzare il mix di canali e individuare tendenze a lungo termine per strategie vincenti coerenti. Analizzare contributi, tendenze ed esportare dati in PowerPoint o Excel.
 title: Panoramica approfondimenti prestazioni
 exl-id: f89f8500-5623-4ee2-a7c0-1d561dd40687
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 3%
+source-wordcount: '240'
+ht-degree: 2%
 
 ---
 

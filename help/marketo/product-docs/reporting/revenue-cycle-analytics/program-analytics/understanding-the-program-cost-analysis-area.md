@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718636
-description: Informazioni sull’area di analisi dei costi del programma - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come comprendere l’area di analisi dei costi del programma in Marketo Engage, compreso il costo del programma. Utilizza questa guida per completare il passaggio successivo.
 title: Informazioni su area di analisi dei costi del programma
 exl-id: b59e07a2-c804-46a2-b0ca-127191fd2188
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '341'
 ht-degree: 10%
 
 ---

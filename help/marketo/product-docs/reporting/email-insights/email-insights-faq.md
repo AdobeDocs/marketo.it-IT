@@ -1,12 +1,12 @@
 ---
 unique-page-id: 10100257
-description: Domande frequenti su Email Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Risposte alle domande frequenti su E-mail Insights, tra cui calcoli metrici, dimensioni personalizzate e filtro del dispositivo. Scopri le differenze tra Email Insights e altri strumenti di reporting.
 title: Domande frequenti su approfondimenti e-mail
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '599'
 ht-degree: 1%
 
 ---

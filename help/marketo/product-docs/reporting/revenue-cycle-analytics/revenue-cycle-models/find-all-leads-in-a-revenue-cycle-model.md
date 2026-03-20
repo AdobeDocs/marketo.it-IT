@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360423
-description: Trovare tutti i lead in un modello di ciclo dei ricavi - Documenti Marketo - Documentazione del prodotto
+description: Scopri come trovare tutti i lead in un modello di ciclo dei ricavi in Marketo Engage utilizzando Trova tutti i lead in un ciclo dei ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Trovare tutti i lead in un modello del ciclo dei ricavi
 exl-id: 428dbfa1-2f19-41ce-bfc6-e63edfdaba17
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 9%
+source-wordcount: '189'
+ht-degree: 8%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12979012
-description: Filtraggio in Performance Insights - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come filtrare i dati di Performance Insights per elenchi di account ABM, attributi personalizzati, tipo di opportunità, tag del programma e area di lavoro. Applica più filtri per eseguire query su informazioni specifiche e aggiornare i grafici.
 title: Filtrare in approfondimenti prestazioni
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '328'
 ht-degree: 1%
 
 ---

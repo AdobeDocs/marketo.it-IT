@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360016
-description: Filtrare le persone in un rapporto con un elenco avanzato - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come filtrare le persone nei rapporti utilizzando elenchi avanzati per limitare i risultati in base a attributi persona specifici. Applicare i filtri nella scheda Elenco avanzato per vari tipi di rapporti.
 title: Filtrare le persone in un rapporto con un elenco avanzato
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 17%
+source-wordcount: '142'
+ht-degree: 15%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720917
-description: Remarketing personalizzato in Facebook - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri il remarketing personalizzato in facebook in Marketo Engage, incluso il remarketing personalizzato in dnl. Utilizza questa guida per completare il passaggio successivo.
 title: Remarketing personalizzato in Facebook
 exl-id: 47636afa-49df-40ba-8948-4f2850467c2f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 7%
+source-wordcount: '268'
+ht-degree: 8%
 
 ---
 
@@ -18,7 +18,7 @@ Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti util
 >[!PREREQUISITES]
 >
 >* Completare l&#39;installazione di [Retargeting con dati Web Personalization](/help/marketo/product-docs/web-personalization/website-retargeting/retargeting-with-web-personalization-data.md)
->* Rivedi la [&#128279;](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentazione di Facebook su tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e remarketing.
+>* Rivedi la [](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) [documentazione di Facebook su tipi di pubblico personalizzati](https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started#install-the-pixel) e remarketing.
 
 ## Creazione di un pubblico in [!DNL Facebook] {#creating-an-audience-in-facebook}
 

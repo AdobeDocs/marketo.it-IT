@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10097747
-description: Aggiunta di misure personalizzate a un rapporto di Revenue Explorer - Documenti Marketo - Documentazione del prodotto
+description: Scopri come aggiungere misure personalizzate a un rapporto di Esplora ricavi in Marketo Engage, inclusa l’aggiunta di misure personalizzate. Utilizza questa guida per completare il passaggio successivo.
 title: Aggiunta di misure personalizzate a un rapporto Revenue Explorer
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 8%
+source-wordcount: '211'
+ht-degree: 7%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 10093157
-description: Clonare una campagna web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come clonare una campagna web in Marketo Engage utilizzando clonare una campagna web clone-a-web-campaign. Utilizza questa guida per completare il passaggio successivo.
 title: Clonare una campagna web
 exl-id: c87440fb-694f-4a51-ad73-317f4d7f4314
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 4%
+source-wordcount: '178'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ Utilizzare la funzione di clonazione nella pagina [!UICONTROL Web Campaigns] per
 
 ## Creare una campagna Clone {#create-a-clone-campaign}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-16-3a44-3a0.png)
 

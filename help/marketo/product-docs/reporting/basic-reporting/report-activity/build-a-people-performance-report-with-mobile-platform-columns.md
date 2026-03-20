@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2951220
-description: Creare un rapporto sulle prestazioni delle persone con colonne della piattaforma mobile - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come creare un rapporto sulle prestazioni delle persone con le colonne della piattaforma mobile in Marketo Engage utilizzando l’opzione Crea persona. Utilizza questa guida per completare il passaggio successivo.
 title: Creare un rapporto prestazioni persone con colonne della piattaforma mobile
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '269'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ Per creare un rapporto sulle prestazioni delle persone con colonne di piattaform
 
 ## Creare elenchi avanzati per dispositivi mobili {#create-mobile-smart-lists}
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/ma.png)
 

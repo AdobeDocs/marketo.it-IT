@@ -1,19 +1,19 @@
 ---
 unique-page-id: 4718660
-description: Fasi del modello di ricavo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come comprendere le fasi del modello di ricavo in Marketo Engage, compresa la fase del modello di ricavo. Utilizza questa guida per completare il passaggio successivo.
 title: Informazioni sulle fasi del modello di ricavi
 exl-id: 036559ff-b576-4490-ab76-54092e909178
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 15%
+source-wordcount: '73'
+ht-degree: 12%
 
 ---
 
 # Informazioni sulle fasi del modello di ricavi {#understanding-revenue-model-phases}
 
-Le fasi sono un modo per raggruppare una serie di fasi. A volte più stadi in un modello riflettono una fase di un funnel.
+Le fasi sono un modo per raggruppare una serie di fasi. A volte più fasi in un modello riflettono una fase di un funnel.
 
 ![—](assets/image2015-6-12-16-3a56-3a40.png)
 

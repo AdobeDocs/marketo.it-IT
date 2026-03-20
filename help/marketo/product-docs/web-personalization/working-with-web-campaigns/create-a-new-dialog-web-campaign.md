@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4719398
-description: Creazione di una nuova campagna web di dialogo - Documenti Marketo - Documentazione del prodotto
+description: Crea campagne web di dialogo per personalizzare il contenuto in tempo reale con messaggi a comparsa sul sito web. Personalizza stili, posizioni, animazioni e impostazioni di visualizzazione delle finestre di dialogo per coinvolgere i visitatori.
 title: Creare una nuova campagna web con finestre di dialogo
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '732'
+source-wordcount: '748'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ Crea una campagna web per personalizzare i contenuti web in tempo reale e fornir
 
 Una campagna web è una reazione personalizzata associata a un segmento specifico. La reazione può essere una finestra di dialogo nel sito Web, un [sostituto zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una [funzionalità widget](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-widget-web-campaign.md) o un avviso e-mail.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a48-3a45.png)
 

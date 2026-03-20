@@ -1,12 +1,12 @@
 ---
 unique-page-id: 6095029
-description: Imposta [!DNL Google AdWords] conversioni nel modello di ricavi - Documenti Marketo - Documentazione del prodotto
+description: Scopri come impostare le conversioni di [!dnl google adwords] nel modello di ricavi in Marketo Engage utilizzando set dnl google. Utilizza questa guida per completare il passaggio successivo.
 title: Imposta [!DNL Google AdWords] conversioni nel modello di ricavi
 exl-id: dd1259fc-d3f2-44ec-8055-f75d55263b36
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '426'
 ht-degree: 2%
 
 ---

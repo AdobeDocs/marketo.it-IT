@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4720236
-description: Creare un segmento utilizzando un elenco di account - Documentazione di Marketo - Documentazione di prodotto
+description: Scopri come creare un segmento utilizzando un elenco di account in Marketo Engage utilizzando un elenco di account. Utilizza questa guida per completare il passaggio successivo.
 title: Creare un segmento utilizzando un elenco di account
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '166'
 ht-degree: 10%
 
 ---
@@ -19,7 +19,7 @@ Ecco come creare un segmento utilizzando un Elenco account.
 >
 >[Crea un nuovo elenco account](/help/marketo/product-docs/target-account-management/target/account-lists.md)
 
-1. Vai a **[!UICONTROL Segments]**.
+1. Passa a **[!UICONTROL Segments]**.
 
    ![](assets/new-dropdown-segments-hand-no-account-list.jpg)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 6094879
-description: Aggiunta di un URL target a una campagna web - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come aggiungere un URL di destinazione a una campagna web in Marketo Engage, inclusa l’aggiunta di un URL di destinazione a un web. Utilizza questa guida per completare il passaggio successivo.
 title: Aggiunta di un URL di destinazione a una campagna web
 exl-id: 5fbb3f12-1474-46c3-8315-8d081422e154
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 9%
+source-wordcount: '238'
+ht-degree: 10%
 
 ---
 
@@ -17,7 +17,7 @@ Un URL di Target si trova nella pagina Imposta campagna e definisce l’URL o gl
 
 ## Aggiunta di un URL di destinazione per le campagne Web di finestre di dialogo o widget {#adding-a-target-url-for-dialog-or-widget-web-campaigns}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 
@@ -62,7 +62,7 @@ Facendo clic sull&#39;icona più (![—](assets/image2015-2-18-8-3a40-3a59.png))
 
 ## Aggiunta di un URL di destinazione per le campagne web nell’area {#adding-a-target-url-for-in-zone-web-campaigns}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-5.jpg)
 

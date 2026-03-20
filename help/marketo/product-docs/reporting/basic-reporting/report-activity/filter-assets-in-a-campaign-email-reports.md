@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360227
-description: Filtrare i rapporti e-mail di Assets in una campagna - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come filtrare le risorse nei rapporti e-mail di una campagna in Marketo Engage utilizzando l’opzione Filtra risorse in un messaggio e-mail della campagna. Utilizza questa guida per completare il passaggio successivo.
 title: Filtrare le risorse nei rapporti e-mail di una campagna
 exl-id: 8e5e9ddc-b456-4802-a2a1-24d53d23117f
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 9%
+source-wordcount: '171'
+ht-degree: 8%
 
 ---
 

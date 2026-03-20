@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2951252
-description: Ordinare le campagne web in base alle prestazioni più recenti o migliori - Documenti Marketo - Documentazione del prodotto
+description: Scopri come ordinare le campagne web in base alle prestazioni più recenti o migliori in Marketo Engage utilizzando Ordina campagne web in base alle ultime o. Utilizza questa guida per completare il passaggio successivo.
 title: Ordina campagne web dalla più recente o da quella con prestazioni migliori
 exl-id: af4483b5-6ac6-404e-9ea6-be0d4edffdc6
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 19%
+source-wordcount: '101'
+ht-degree: 17%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 19%
 
 Puoi ordinare le campagne web in due modi diversi.
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/web-campaigns-hand-1.jpg)
 

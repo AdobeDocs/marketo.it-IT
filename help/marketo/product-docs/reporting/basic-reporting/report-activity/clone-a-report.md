@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360028
-description: Clonare un rapporto - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come clonare rapporti per creare duplicati da personalizzare senza modificare l’originale. Utilizza Azioni report o fai clic con il pulsante destro del mouse per clonare e denominare il nuovo report.
 title: Clonare un rapporto
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '88'
+ht-degree: 6%
 
 ---
 

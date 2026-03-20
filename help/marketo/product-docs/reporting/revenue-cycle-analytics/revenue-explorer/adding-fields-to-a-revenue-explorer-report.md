@@ -1,13 +1,13 @@
 ---
 unique-page-id: 7504383
-description: Aggiunta di campi a un rapporto di Revenue Explorer (documenti Marketo) - Documentazione del prodotto
+description: Scopri come aggiungere campi a un rapporto di Esplora ricavi in Marketo Engage, inclusa l’aggiunta di campi a un ricavo. Utilizza questa guida per completare il passaggio successivo.
 title: Aggiunta di campi a un rapporto di Revenue Explorer
 exl-id: af4d7885-68ca-4ecf-b0fa-a5cf72bea168
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 8%
 
 ---
 

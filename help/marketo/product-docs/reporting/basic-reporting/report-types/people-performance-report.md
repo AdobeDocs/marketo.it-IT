@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2360014
-description: Rapporto Prestazioni Persone - Documenti Marketo - Documentazione Del Prodotto
+description: Scopri i report sulle prestazioni delle persone che misurano la crescita del database nel tempo e raggruppano le persone per attributi. Analizza i programmi ed esplora informazioni dettagliate sui lead con funzionalità drill-down.
 title: Rapporto prestazioni persone
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '242'
 ht-degree: 3%
 
 ---

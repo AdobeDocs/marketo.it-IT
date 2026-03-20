@@ -1,12 +1,12 @@
 ---
 unique-page-id: 4718670
-description: Utilizzo degli stadi del gate del modello di ricavo - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come utilizzare le fasi di gate del modello di ricavo in Marketo Engage utilizzando le fasi di gate del modello di ricavo. Utilizza questa guida per completare il passaggio successivo.
 title: Utilizzo dei gate stages del modello di ricavi
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '262'
 ht-degree: 6%
 
 ---

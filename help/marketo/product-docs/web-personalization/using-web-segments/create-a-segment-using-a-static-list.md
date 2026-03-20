@@ -1,12 +1,12 @@
 ---
 unique-page-id: 13795536
-description: Creare un segmento utilizzando un elenco statico - Documenti Marketo - Documentazione del prodotto
+description: Scopri come creare un segmento utilizzando un elenco statico in Marketo Engage utilizzando un elenco statico. Utilizza questa guida per completare il passaggio successivo.
 title: Creare un segmento utilizzando un elenco statico
 exl-id: 6652c1e2-2f07-4395-8c8d-c630517eb1e8
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '172'
 ht-degree: 9%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 Segmenta i visitatori Web noti quando visitano il tuo sito Web in base al fatto che si trovino o meno in uno dei tuoi [elenchi statici](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.md) di Marketo.
 
-1. Vai a **[!UICONTROL Segments]**.
+1. Passa a **[!UICONTROL Segments]**.
 
    ![](assets/1.jpg)
 

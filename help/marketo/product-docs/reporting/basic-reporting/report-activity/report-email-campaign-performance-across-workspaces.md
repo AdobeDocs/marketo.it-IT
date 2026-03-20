@@ -1,13 +1,13 @@
 ---
 unique-page-id: 2360055
-description: Report e-mail, prestazioni delle campagne in più aree di lavoro - Documenti Marketo - Documentazione del prodotto
+description: Scopri le e-mail dei rapporti, le prestazioni delle campagne nelle aree di lavoro di Marketo Engage, inclusa l’e-mail dei rapporti e la campagna. Utilizza questa guida per completare il passaggio successivo.
 title: E-mail rapporti, prestazioni campagna in più aree di lavoro
 exl-id: e5b94f77-b6f6-4b9b-aef7-88a471929869
 feature: Reporting
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 17%
+source-wordcount: '87'
+ht-degree: 14%
 
 ---
 

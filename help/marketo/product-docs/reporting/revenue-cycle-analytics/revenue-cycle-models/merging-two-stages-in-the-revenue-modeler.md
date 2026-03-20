@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4718685
-description: Unione di due fasi nel Modeler dei ricavi - Documenti Marketo - Documentazione del prodotto
+description: Scopri come unire due fasi nel modellatore dei ricavi in Marketo Engage, inclusa l’unione di due fasi nei ricavi. Utilizza questa guida per completare il passaggio successivo.
 title: Unione di due fasi nel modeler dei ricavi
 exl-id: d4798f50-5c3e-469f-b3ae-0a7e6977a116
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 15%
+source-wordcount: '115'
+ht-degree: 13%
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4719402
-description: Creazione di una nuova campagna web Widget - Documentazione Marketo - Documentazione del prodotto
+description: Crea campagne web di widget che appaiono come testo fisso o banner sul lato verticale delle pagine web con funzionalità di espansione e contratto. Personalizzare le impostazioni relative a posizione, colore, animazione e visualizzazione.
 title: Creare una nuova campagna web con widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 3%
+source-wordcount: '630'
+ht-degree: 4%
 
 ---
 
@@ -17,7 +17,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
 
 ## Creare una campagna web widget {#create-a-widget-web-campaign}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
