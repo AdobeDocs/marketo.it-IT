@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11384645
-description: Tutti i contenuti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri la pagina Tutti i contenuti, le relative metriche e come le categorie organizzano i risultati predittivi. Filtra per categoria e date, quindi aggiungi, approva o rimuovi il contenuto in base alle esigenze.
 title: Informazioni su tutti i contenuti
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '278'
 ht-degree: 2%
 
 ---

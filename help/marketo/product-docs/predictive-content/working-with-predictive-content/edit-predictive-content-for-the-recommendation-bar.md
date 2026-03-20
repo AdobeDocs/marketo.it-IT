@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385942
-description: Modifica contenuto predittivo per la barra dei consigli - Documenti Marketo - Documentazione del prodotto
+description: Scopri come abilitare i contenuti predittivi approvati per la barra dei consigli dei contenuti.
 title: Modificare i contenuti predittivi per la barra dei consigli
 exl-id: 9a61e625-ec3f-4b4f-90d4-67ff7630ef48
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 22%
+source-wordcount: '73'
+ht-degree: 21%
 
 ---
 

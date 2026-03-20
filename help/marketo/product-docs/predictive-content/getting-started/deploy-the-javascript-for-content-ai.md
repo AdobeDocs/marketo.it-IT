@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11385053
-description: Distribuire JavaScript per IA per la gestione dei contenuti - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come generare e inserire il tag Personalization web RTP per i contenuti predittivi. Copialo nell’intestazione della pagina, verifica la copertura e conferma che l’interruttore sia sempre attivo.
 title: Distribuire JavaScript per i contenuti basati sull’IA
 exl-id: d48bfd1b-73e8-4013-88d6-8750e4ef532b
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ Per utilizzare Contenuto predittivo, è necessario generare e impostare il tag R
 
 ## Genera tag {#generate-tag}
 
-1. Accedi al tuo account Predictive Content. Vai a **[!UICONTROL Account Settings]**.
+1. Accedi al tuo account Predictive Content. Passa a **[!UICONTROL Account Settings]**.
 
    ![](assets/settings-dropdown-account-hands.png)
 

@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384659
-description: Elimina contenuto - Documenti Marketo - Documentazione del prodotto
+description: Scopri come eliminare contenuti dalla pagina Tutti i contenuti quando non è più necessario tenerne traccia. Per mantenere aggiornato l’elenco, rimuovi il contenuto tramite Azioni contenuto.
 title: Eliminare contenuto
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 19%
+source-wordcount: '68'
+ht-degree: 13%
 
 ---
 

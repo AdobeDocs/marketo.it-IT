@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385579
-description: Creare modelli di contenuto - Documenti Marketo - Documentazione del prodotto
+description: Scopri come definire i pattern degli URL in modo che Predictive Content rilevi automaticamente le pagine HTML che i visitatori visualizzano o fanno clic su. Aggiungi percorsi e categorie in Modelli URL impostazioni contenuto.
 title: Creare modelli di contenuto
 exl-id: 963529fb-1b30-486c-b97d-3ff697f91258
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 Quando imposti i pattern di contenuto, il contenuto viene individuato automaticamente quando un visitatore web fa clic sulla pagina web HTML pertinente al pattern di contenuto. Viene utilizzato per aggiungere pagine HTML (post di blog, comunicati stampa, articoli di notizie) come parti di contenuto alla pagina Tutti i contenuti. Quando l’individuazione automatica si basa sui pattern di contenuto, rileva e tiene traccia delle pagine HTML correlate al pattern URL definito quando un visitatore web visualizza o fa clic su un collegamento alla pagina. Questo elemento di contenuto (l’URL, il nome della pagina e i metadati, inclusi l’URL e la descrizione dell’immagine) viene aggiunto alla pagina Tutto il contenuto per preparare contenuti predittivi. Per l&#39;individuazione automatica di altri contenuti, ad esempio PDF e video incorporati, è necessario [abilitare l&#39;individuazione dei contenuti](/help/marketo/product-docs/predictive-content/getting-started/enable-content-discovery.md).
 
-1. Vai a **[!UICONTROL Content Settings]**.
+1. Passa a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand-2.png)
 
@@ -71,7 +71,7 @@ Per _domain.com_:
    <td><p>Rileva tutto il contenuto che corrisponde al pattern domain.com/article/2017/:</p><p>domain.com/article/2017/5-top-tricks</p></td>
   </tr>
   <tr>
-   <td><img alt="—" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
+   <td><img alt="--" width="80" src="assets/image2017-3-24-10-3a38-3a46.png" data-linked-resource-id="12976559" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="11385579" title="--"></td>
    <td><p>Rileva qualsiasi URL contenente la parola "datasheets:"</p><p>domain.com/datasheets/5-top-tricks</p><p>domain.com/blog/5-top-datasheets</p></td>
   </tr>
   <tr>

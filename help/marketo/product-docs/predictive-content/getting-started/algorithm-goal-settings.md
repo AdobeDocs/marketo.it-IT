@@ -1,13 +1,13 @@
 ---
 unique-page-id: 14745750
-description: Impostazioni obiettivo algoritmo - Documentazione Marketo - Documentazione del prodotto
+description: Scopri come impostare l’obiettivo dell’algoritmo Predictive Content su Clic o Conversioni nelle impostazioni del contenuto. Allinea l’intelligenza artificiale agli obiettivi aziendali per massimizzare le prestazioni dei contenuti.
 title: Impostazioni obiettivo algoritmo
 exl-id: b07a5b71-c6f3-47e8-bc31-10ba64483ad0
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 6%
+source-wordcount: '119'
+ht-degree: 7%
 
 ---
 

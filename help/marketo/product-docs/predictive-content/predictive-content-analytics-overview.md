@@ -1,12 +1,12 @@
 ---
 unique-page-id: 12981204
-description: Panoramica di Predictive Content Analytics - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri le dashboard di Predictive Content Analytics per le viste principali, il tasso di conversione, il contenuto con tendenze e i suggerimenti. Filtra per attributi, imposta intervalli di date ed esporta dati per perfezionare la strategia dei contenuti.
 title: Panoramica di analisi di contenuti predittivi
 exl-id: 0f975baa-b17b-411a-bae0-64b67eea2b34
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '337'
 ht-degree: 2%
 
 ---

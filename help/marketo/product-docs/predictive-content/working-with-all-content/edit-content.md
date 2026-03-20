@@ -1,13 +1,13 @@
 ---
 unique-page-id: 11384653
-description: Modifica contenuto - Documenti Marketo - Documentazione del prodotto
+description: Scopri come modificare Tutti gli elenchi di contenuti per titolo, URL, categorie e approvazione predittiva.
 title: Modificare contenuto
 exl-id: 138b620e-4435-4a81-b4c8-132c2d6e25f5
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 4%
+source-wordcount: '95'
+ht-degree: 7%
 
 ---
 

@@ -1,12 +1,12 @@
 ---
 unique-page-id: 11385057
-description: Configurare le categorie - Documentazione di Marketo - Documentazione del prodotto
+description: Imposta le categorie in Contenuto predittivo per raggruppare i risultati predittivi sul web o e-mail. Crea tag di categoria in Impostazioni contenuto per facilitare il filtraggio e la ricerca.
 title: Configurare categorie
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
@@ -29,7 +29,7 @@ Quando aggiungi contenuto, puoi assegnare a esso i tag con le categorie selezion
 
 Ecco come creare i tag delle categorie.
 
-1. Vai a **[!UICONTROL Content Settings]**.
+1. Passa a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand-1.png)
 

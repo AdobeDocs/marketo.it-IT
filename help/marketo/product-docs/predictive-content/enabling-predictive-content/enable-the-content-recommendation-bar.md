@@ -1,13 +1,13 @@
 ---
 unique-page-id: 4720108
-description: Abilitare la barra dei consigli per i contenuti - Documentazione di Marketo - Documentazione del prodotto
+description: Scopri come abilitare e assegnare uno stile alla barra dei consigli dei contenuti con analisi predittive per ogni URL. Utilizza Impostazioni contenuto per attivare o disattivare le pagine e personalizzare colori e percorsi.
 title: Abilitare la barra dei consigli dei contenuti
 exl-id: f2244db1-51a9-4e26-9bf7-b2c79df25552
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 3%
+source-wordcount: '333'
+ht-degree: 4%
 
 ---
 
@@ -29,7 +29,7 @@ Il motore di raccomandazione dei contenuti utilizza algoritmi di analisi preditt
 
 ## Abilitare e personalizzare la barra dei consigli dei contenuti {#enable-and-customize-the-content-recommendation-bar}
 
-1. Vai a **[!UICONTROL Content Settings]**.
+1. Passa a **[!UICONTROL Content Settings]**.
 
    ![](assets/settings-dropdown-hand.png)
 

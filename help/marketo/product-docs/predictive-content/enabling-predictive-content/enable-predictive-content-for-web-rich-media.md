@@ -1,12 +1,12 @@
 ---
 unique-page-id: 7514956
-description: Abilitare i contenuti predittivi per contenuti web - Documenti Marketo - Documentazione del prodotto
+description: Scopri come abilitare Predictive Content per i modelli di contenuti rich media web sul tuo sito. Attiva i titoli singolarmente o in blocco, quindi incorpora e personalizza i documenti per sviluppatori di JavaScript.
 title: Abilitare i contenuti predittivi per i rich media per il web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '307'
 ht-degree: 6%
 
 ---
@@ -47,7 +47,7 @@ Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per R
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
 Incolla il codice JavaScript nel tuo sito web nel percorso in cui desideri visualizzare il modello.
 
