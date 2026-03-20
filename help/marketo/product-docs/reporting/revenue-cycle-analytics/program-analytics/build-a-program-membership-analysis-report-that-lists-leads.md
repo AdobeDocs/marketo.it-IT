@@ -47,7 +47,7 @@ Vedi quanto è stato facile?
 
 ![](assets/seven.png)
 
-È possibile aggiungere rapidamente un attributo del lead come _[!UICONTROL Full Name]_per visualizzare i membri.
+È possibile aggiungere rapidamente un attributo del lead come _[!UICONTROL Full Name]_&#x200B;per visualizzare i membri.
 
 >[!TIP]
 >

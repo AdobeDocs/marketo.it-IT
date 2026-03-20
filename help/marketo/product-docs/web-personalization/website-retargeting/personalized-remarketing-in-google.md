@@ -34,7 +34,7 @@ Il remarketing personalizzato consente di coinvolgere nuovamente gli utenti util
 
    ![](assets/image2015-1-15-17-3a32-3a4.png)
 
-1. In Audience Builder, fai clic su **[!UICONTROL Sequences]** e **[!UICONTROL Find the RTP Data]** in [!UICONTROL Custom Dimensions], [!UICONTROL [!]UICONTROL Custom Variables], [!UICONTROL Events].
+1. In Audience Builder, fai clic su **[!UICONTROL Sequences]** e **[!UICONTROL Find the RTP Data]** in [!UICONTROL Custom Dimensions], [!UICONTROL UICONTROL [ !] Custom Variables], [!UICONTROL Events].
 
 >[!TIP]
 >
