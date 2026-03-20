@@ -29,7 +29,7 @@ La prima volta che un utente visita una [pagina di destinazione](/help/marketo/p
 
    * Fa clic su un [collegamento in un&#39;e-mail di Marketo](/help/marketo/product-docs/email-marketing/general/using-tokens/add-tokens-to-an-email-link.md).
    * Compila un [modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md) Marketo.
-   * Utilizza l&#39;[API REST](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/leads) o l&#39;API [Munchkin](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) di Marketo (per sviluppatori) per associare un&#39;attività anonima a un record noto.
+   * Utilizza l&#39;[API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/leads) o l&#39;API [Munchkin](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking) di Marketo (per sviluppatori) per associare un&#39;attività anonima a un record noto.
 
    Un nome nel database potrebbe essere associato a molti cookie perché le persone spesso utilizzano dispositivi e browser diversi per visitare il sito.
 
