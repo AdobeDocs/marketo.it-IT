@@ -6,9 +6,9 @@ description: Scopri come utilizzare l’assistente AI per aggiungere testo e imm
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 750af291d324acc188cb0fe2693507c156d09c0d
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '876'
 ht-degree: 7%
 
 ---
@@ -24,6 +24,8 @@ L’Assistente AI in Marketo Engage Email Designer consente di creare e-mail con
 ## Configurare le autorizzazioni {#set-up-permissions}
 
 _Dopo_ che segue il prerequisito precedente, gli amministratori di Marketo devono applicare l&#39;accesso a utenti/ruoli specifici prima che gli utenti visualizzino i pulsanti GenAI.
+
++++Scopri come impostare le autorizzazioni
 
 1. In Marketo Engage, fai clic su **Amministratore** e seleziona **Utenti e ruoli**.
 
@@ -44,6 +46,8 @@ _Dopo_ che segue il prerequisito precedente, gli amministratori di Marketo devon
 1. Seleziona il ruolo scelto nel passaggio 3 e l’area di lavoro desiderata (se applicabile). Fai clic su **Salva**.
 
    ![](assets/use-the-ai-assistant-0e.png)
+
++++
 
 ## Casi d’uso {#use-cases}
 
@@ -119,19 +123,27 @@ Dopo aver creato l’e-mail, puoi modificare alcune sezioni, immagini o testo.
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In questo esempio, utilizziamo un modello di assistenza sanitaria. Se l’immagine esistente dell’esperto sanitario non soddisfa le tue esigenze, puoi istruire l’assistente di intelligenza artificiale a creare la propria immagine di un esperto sanitario. Seleziona semplicemente il contenuto dell’immagine e fai clic su Assistente AI.
+In questo esempio viene utilizzato un modello finanziario. Se una o più immagini esistenti non soddisfano le tue esigenze, puoi istruire l’assistente AI a creare una nuova immagine in base alla descrizione. Seleziona l’immagine desiderata e fai clic sull’icona dell’assistente AI.
 
 ![](assets/use-the-ai-assistant-8.png)
 
-Immetti i dettagli pertinenti nel prompt, ad esempio, &quot;genera un’immagine per un esperto sanitario&quot; e aggiungi eventuali personalizzazioni desiderate. È inoltre possibile utilizzare la libreria dei prompt (a destra del prompt) se non si è sicuri di cosa immettere.
-
-Dopo aver fatto clic su **Genera**, vengono create più varianti tra cui scegliere.
+Inserisci i dettagli pertinenti nel prompt, ad esempio, &quot;Un banchiere seduto alla sua scrivania con pile di contanti.&quot; È inoltre possibile utilizzare la libreria dei prompt (a destra del prompt) se non si è sicuri di cosa immettere. Fare clic su **Impostazioni immagine**.
 
 ![](assets/use-the-ai-assistant-9.png)
 
-Simile all’immagine, è possibile modificare anche parti di testo dell’e-mail.
+Fai clic sull&#39;interruttore per abilitare _Genera immagini con IA_, quindi modifica le impostazioni desiderate, compreso il modello da utilizzare (Adobe Firefly o Gemini 2.5 Nano Banana). Al termine, fare clic su **Genera**.
 
 ![](assets/use-the-ai-assistant-10.png)
+
+Vengono create più varianti. Scegli il tuo preferito e fai clic su **Applica**.
+
+![](assets/use-the-ai-assistant-11.png)
+
+>[!NOTE]
+>
+>Se nessuna delle immagini soddisfa le tue esigenze, fai di nuovo clic su **Genera** per creare nuove versioni.
+
+Simile all’immagine, è possibile modificare anche parti di testo dell’e-mail.
 
 ## Creare un messaggio e-mail completo da un modello selezionato {#create-an-entire-email}
 
@@ -139,18 +151,18 @@ Questa opzione è disponibile solo se l’e-mail viene creata utilizzando un mod
 
 Seleziona un modello, senza selezionare alcun componente all’interno del modello, quindi fai clic sul pulsante Assistente IA in E-mail Designer.
 
-![](assets/use-the-ai-assistant-11.png)
+![](assets/use-the-ai-assistant-12.png)
 
 Immetti il prompt corrispondente e scegli le impostazioni di testo, le risorse del brand e le impostazioni immagine desiderate per l’e-mail.
 
-![](assets/use-the-ai-assistant-12.png)
+![](assets/use-the-ai-assistant-13.png)
 
 Se desideri generare immagini con Firefly, seleziona Impostazioni immagine e seleziona l&#39;opzione per **Generare immagini con AI**.
 
-![](assets/use-the-ai-assistant-13.png)
+![](assets/use-the-ai-assistant-14.png)
 
 Seleziona il _Tipo di contenuto_, _Colore e tono_, _Illuminazione_ e _Composizione_ per creare immagini Gen-AI per la tua e-mail. Al termine, fai clic su **Genera**.
 
-![](assets/use-the-ai-assistant-14.png)
+![](assets/use-the-ai-assistant-15.png)
 
 Per vedere come si presenterà una variante nell&#39;e-mail, fai clic su **Anteprima**. Scegliere una variante facendo clic su **Applica**.
