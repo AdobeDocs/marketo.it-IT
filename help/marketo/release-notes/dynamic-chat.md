@@ -20,11 +20,11 @@ La pagina delle note sulla versione standard per Marketo Engage [si trova qui](/
 
 ### Limite di tempo di attesa del visitatore {#visitor-wait-time}
 
-Imposta un periodo di tempo massimo (tra 10 e 500 secondi) prima che un visitatore riceva un messaggio di fallback per essere connesso a un agente live. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Imposta un periodo di tempo massimo (tra 10 e 500 secondi) prima che un visitatore riceva un messaggio di fallback per essere connesso a un agente live. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Scarica trascrizione {#download-transcript}
 
-Ora puoi scaricare un file .txt della trascrizione della chat al termine di una chat in tempo reale. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ora puoi scaricare un file .txt della trascrizione della chat al termine di una chat in tempo reale. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versione di giugno 2025 {#june-2025-release}
 
