@@ -3,10 +3,10 @@ description: Informazioni sulla gestione degli agenti in Dynamic Chat. Visualizz
 title: Gestione agente
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: '364'
+ht-degree: 3%
 
 ---
 
@@ -77,3 +77,17 @@ Seleziona un messaggio standard (di sistema) o scrivine uno personalizzato che i
 >[!TIP]
 >
 >Durante la creazione di un messaggio personalizzato, puoi applicare uno stile al font, utilizzare i collegamenti e persino inserire emoji. `:)`
+
+## Impostazioni {#settings}
+
+### Limite di chat live simultanee {#concurrent-live-chat}
+
+Imposta il numero di chat attive simultanee che un agente può intraprendere contemporaneamente. Può essere impostato tra 1 e 10.
+
+![](assets/agent-management-10.png)
+
+### Limite di tempo di attesa del visitatore {#visitor-wait-time}
+
+Controlla il tempo massimo di attesa (in secondi) per la connessione a un agente live prima che il visitatore riceva un messaggio di fallback. Può essere impostato tra 10 e 500 secondi.
+
+![](assets/agent-management-11.png)
