@@ -8,10 +8,10 @@ level: Beginner, Intermediate
 hide: true
 hidefromtoc: true
 exl-id: 88945b7c-0205-4540-bb37-1df85e647d90
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5688edd53ead1c6a4f0f7e90ab3f4f6598fa489f
 workflow-type: tm+mt
-source-wordcount: '1330'
-ht-degree: 8%
+source-wordcount: '1256'
+ht-degree: 2%
 
 ---
 
@@ -27,37 +27,33 @@ Inserisci e organizza manualmente i dettagli del brand o carica i documenti di b
 
 ## Accedere ai brand {#generative-access}
 
-Per accedere al menu **[!UICONTROL Brands]** in [!DNL Adobe Marketo Engage], è necessario concedere agli utenti le autorizzazioni **[!UICONTROL Manage brand kit]** o **[!UICONTROL Enable AI assistant]**.
+Per accedere al menu **[!UICONTROL Brands]** in [!DNL Adobe Marketo Engage], è necessario concedere agli utenti le autorizzazioni appropriate.
 
 +++  Scopri come assegnare le autorizzazioni relative al brand
 
-Per assegnare le autorizzazioni per i brand, effettua le seguenti operazioni:
+### Utenti e ruoli {#users-and-roles}
 
-1. Nel prodotto **Autorizzazioni**, passa alla scheda **Ruoli** e seleziona il **Ruolo** desiderato.
+1. In _Amministratore_, seleziona **Utenti e ruoli**.
 
-1. Fai clic su **Modifica** per modificare le autorizzazioni.
+1. Seleziona il ruolo desiderato.
 
-1. Aggiungi la risorsa **Assistente AI**, quindi seleziona **Gestisci brand kit** o **[!UICONTROL Enable Ai assistant]** dal menu a discesa.
+1. Fare clic per espandere il menu **Access Design Studio**.
 
-   Si noti che l&#39;autorizzazione **[!UICONTROL Enable Ai assistant]** fornisce accesso in sola lettura al menu **[!UICONTROL Brands]**.
+1. Seleziona **Accedi all&#39;Assistente AI** e fai clic su **Salva**.
 
-   SCHERMATA
+### Amministratore
 
-1. Fai clic su **Salva** per applicare le modifiche.
+1. Nell’area Amministratore, fai clic su Nuova esperienza.
 
-   Le autorizzazioni degli utenti già assegnati a questo ruolo verranno aggiornate automaticamente.
+1. Accanto a _Gestisci i tuoi marchi_, fai clic su **Modifica**.
 
-1. Per assegnare questo ruolo a nuovi utenti, passa alla scheda **Utenti** nella dashboard **Ruoli** e fai clic su **Aggiungi utente**.
-
-1. Immetti il nome o l’indirizzo e-mail dell’utente o sceglilo dall’elenco e fai clic su **Salva**.
-
-1. Se l’utente non è già stato creato in precedenza, consulta [questa documentazione](https://experienceleague.adobe.com/it/docs/experience-platform/access-control/abac/permissions-ui/users).
+OK, COSA SUCCEDERÀ???
 
 +++
 
 ## Creazione e gestione del brand {#create-brand-kit}
 
-Per creare e gestire la linea guida del brand, puoi inserire i dettagli personalmente o caricare il documento di linee guida del brand per estrarre automaticamente le informazioni:
+Per creare e gestire la linea guida del brand, puoi immettere i dettagli personalmente o caricare il documento sulle linee guida del brand per estrarre automaticamente le informazioni.
 
 1. Nel menu **[!UICONTROL Brands]**, fare clic su **[!UICONTROL Create brand]**.
 
