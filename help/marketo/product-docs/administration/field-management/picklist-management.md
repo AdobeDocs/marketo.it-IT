@@ -4,9 +4,10 @@ title: Gestione elenchi a discesa
 hide: true
 hidefromtoc: true
 feature: Field Management
-source-git-commit: 3c9facaed46a72c12a8a604aa9d22b47e28183cb
+exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
+source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -43,16 +44,24 @@ Ogni voce dell’elenco a discesa ha un valore visualizzato e un valore inviato.
 
 ## Suggerimento automatico {#autosuggest}
 
+Quando l&#39;impostazione _Elenco di selezione gestito_ è abilitata, i passaggi Filtri, Flusso e Modifica valore dati suggeriranno automaticamente i valori dall&#39;elenco di selezione gestito. Se questa impostazione è disabilitata, vengono suggeriti solo i valori non gestiti.
+
+![](assets/picklist-management-4.png)
+
+![](assets/picklist-management-5.png)
+
+![](assets/picklist-management-6.png)
+
 ### Passaggio tra elenchi di selezione gestiti e non gestiti {#switching}
 
 La maggior parte degli abbonamenti a Marketo Engage contiene dati precedenti all’introduzione degli elenchi di scelta gestiti. Per utilizzare i valori negli elenchi avanzati o nei passaggi del flusso da questo elenco di selezione delle versioni non gestite (ad esempio, dall’intero set di valori esistenti nei record del database), attiva l’impostazione Elenco di selezione gestito nella vista Elenco avanzato o Campagna. Quando è attivata, vengono visualizzati solo i valori dell’elenco a discesa gestito. Quando viene disattivato, viene utilizzato l’elenco a discesa non gestito e i valori vengono suggeriti automaticamente in base ai valori esistenti nel database.
 
-### Elenchi Di Selezione Moduli (Seleziona Campi Tipo) {#form-picklists}
+## Elenchi Di Selezione Moduli (Seleziona Campi Tipo) {#form-picklists}
 
 Analogamente agli elenchi di selezione predefiniti e gestiti da CRM, i valori per gli elenchi di selezione gestiti si propagano in Forms quando si utilizza il tipo di campo Seleziona. Per un campo con un elenco a discesa gestito, selezionare tale campo e impostare Tipo campo su _Seleziona_.
 
-![](assets/picklist-management-4.png)
+![](assets/picklist-management-7.png)
 
 Mostra il set di valori dell’elenco a discesa gestito definiti per quel campo.
 
-![](assets/picklist-management-5.png)
+![](assets/picklist-management-8.png)
