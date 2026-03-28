@@ -3,9 +3,9 @@ description: Scopri come configurare la personalizzazione dei dettagli delle att
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 534ebdb5-7a5b-48eb-98f7-2d05a9eae8e8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 2186cfc201f9f61df4e1fe9cd5f6da1a4a8996bf
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '677'
 ht-degree: 2%
 
 ---
@@ -14,8 +14,8 @@ ht-degree: 2%
 
 >[!PREREQUISITES]
 >
->* Le azioni Salesforce e Sales Insight [&#x200B; devono essere connesse](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
->* La registrazione dell&#39;attività e-mail tramite API [&#x200B; deve essere abilitata](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
+>* Le azioni Salesforce e Sales Insight [ devono essere connesse](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/sync-sales-activities-to-salesforce.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività [!DNL Salesforce] quando un&#39;attività di attività/promemoria [!DNL Sales Insight Actions] viene sincronizzata in [!DNL Salesforce].
 
@@ -68,33 +68,33 @@ I campi dinamici delle attività contengono informazioni di riferimento sulle at
   <th>Descrizione</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>Popola il tipo di attività come E-mail, Chiamata, InMail o Personalizzato.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Compilerà l'oggetto dell'attività.</p>
       <p>Nel caso di un’e-mail, verrà compilata la riga dell’oggetto dell’e-mail.</p>
       <p>In caso di chiamata, inMail o personalizzata, verrà compilato un valore se è stata creata un'attività promemoria con un valore nel campo nome attività/oggetto.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>Se l’attività è stata avviata da una campagna di vendita, popolerà il nome della campagna di vendita.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>Se l'attività è stata avviata da una campagna di vendita, verrà compilato il numero del giorno della campagna di vendita in cui si è verificata l'attività.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>Se l'attività è stata avviata da una campagna di vendita, popolerà il numero della fase entro il giorno della campagna di vendita in cui si è verificata l'attività.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>Se l’attività è una chiamata e viene selezionato un risultato della chiamata, questo popolerà il valore del risultato della chiamata.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>Se l’attività è una chiamata e viene selezionato un motivo di chiamata, questo popolerà il valore del motivo della chiamata.</td>
  </tr>
 </table>

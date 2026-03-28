@@ -4,7 +4,7 @@ description: Scopri l’esempio 4 di attribuzione in Marketo Engage, incluso l�
 title: Esempio di attribuzione 4
 exl-id: 98cd7401-3bc7-40a1-b88d-7174a3027d4e
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 3%
@@ -15,15 +15,15 @@ ht-degree: 3%
 
 Leggi lo scenario seguente e prova a determinare i numeri che devono essere presenti nella griglia.
 
-* 11 aprile | Michelle scarica l&#39;e-Book (contenuto) - operazione riuscita
-* Aprile 15 | John partecipa (webinar) - Operazione riuscita
-* Aprile 22 | (Opportunità 1) creata per $ 3.000
-* Aprile 24 | (Opportunità 2) creato per $5.000
-* Aprile 25 | John e Michelle sono associati a **entrambi** optys
-* Aprile 29 | [L&#39;opzione 1] è chiusa
+* 11 aprile | Michelle scarica l&#39;e-Book (Contenuto) - Successo
+* 15 aprile | John partecipa (webinar) - Operazione riuscita
+* 22 aprile | (Opportunità 1) creato per $ 3.000
+* 24 aprile | (Opportunità 2) creato per $ 5.000
+* 25 aprile | John e Michelle sono associati a **entrambi** Optys
+* 29 aprile | [L&#39;opzione 1] è chiusa
 
-| Nome del programma | (Contenuto) | (Webinar) |
-|---|---|---|
+| Nome del programma | (Contenuto) | (Webinar) | | |
+|---|---|---|---|---|
 |   | (Opzione 1) | (Opzione 2) | (Opzione 1) | (Opzione 2) |
 | (MT) Opty creato | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` | `<pre>0.5</pre>` |
 | (MT) Pipeline creata | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` | `<pre>$1,500</pre>` | `<pre>$2,500</pre>` |

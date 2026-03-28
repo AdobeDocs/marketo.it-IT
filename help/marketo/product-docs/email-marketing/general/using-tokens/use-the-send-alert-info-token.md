@@ -4,7 +4,7 @@ description: Scopri come utilizzare il token di informazioni per l’invio degli
 title: Utilizzare il token di informazioni sull’invio dell’avviso
 exl-id: 950eb4d1-35d5-4e5c-9624-a38284bff987
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 4%
@@ -52,7 +52,7 @@ Le seguenti informazioni sono incluse in `{{SP_Send_Alert_Info}}`:
 
    ![](assets/three-3.png)
 
-1. Trovare e selezionare il token **[!UICONTROL {{SP_Send_Alert_Info}}]** e fare clic su **[!UICONTROL Insert]**.
+1. Trovare e selezionare il token **[!UICONTROL `{{SP_Send_Alert_Info}}`]** e fare clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2014-9-25-15-3a19-3a11.png)
 

@@ -4,7 +4,7 @@ description: Avvisa il rappresentante di vendita - Documentazione Marketo - Docu
 title: Avvisare il rappresentante commerciale
 exl-id: 4ad7d7b8-ee1e-4605-b4e0-e72a7e573c05
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 8%
@@ -61,7 +61,7 @@ Per inviare automaticamente e-mail di avviso agli agenti di vendita, devi solo i
 
    >[!NOTE]
    >
-   >{{SP_Send_Alert_Info}} è un token speciale per le e-mail di avviso. Per ulteriori informazioni, consulta [Utilizzare il token di informazioni per l&#39;invio degli avvisi](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}{target="_blank"}.
+   >`{{SP_Send_Alert_Info}}` è un token speciale per le e-mail di avviso. Per ulteriori informazioni, consulta [Utilizzare il token di informazioni per l&#39;invio degli avvisi](/help/marketo/product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md){target="_blank"}.
 
 1. Fai clic su **[!UICONTROL Save]**.
 

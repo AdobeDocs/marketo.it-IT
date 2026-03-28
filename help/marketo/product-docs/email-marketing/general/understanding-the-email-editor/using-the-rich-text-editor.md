@@ -4,7 +4,7 @@ description: Scopri come utilizzare l’editor Rich Text per i contenuti delle e
 title: Utilizzo dell’editor Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 3%
@@ -39,7 +39,7 @@ L’impostazione dell’elemento del blocco principale definisce i tag che racch
 
    ![](assets/four.png)
 
-   Se hai `<div class=“mktEditable”></div>` in un Modello e-mail, visualizzerai il seguente comportamento di HTML Source quando apri la sezione e digiti &quot;Text Goes Here&quot; nell&#39;editor:
+   Se hai `<div class="mktEditable"></div>` in un Modello e-mail, visualizzerai il seguente comportamento di HTML Source quando apri la sezione e digiti &quot;Text Goes Here&quot; nell&#39;editor:
 
 <table>
  <tbody>
@@ -51,7 +51,7 @@ L’impostazione dell’elemento del blocco principale definisce i tag che racch
   <tr>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;p&gt;Il testo va qui&lt;/p&gt;<br>&lt;/div&gt;</p></td>
    <td><p>&lt;div class="mktEditable"&gt;<br>&lt;div&gt;Il testo va qui&lt;/div&gt;<br>&lt;/div&gt;</p></td>
-   <td><p>&lt;div class="mktEditable"&gt;<br>Testo da inserire<br>&lt;/div&gt;</p></td>
+   <td><p>&lt;div class="mktEditable"&gt;<br>Il testo va qui<br>&lt;/div&gt;</p></td>
   </tr>
  </tbody>
 </table>
@@ -79,7 +79,8 @@ Di seguito sono elencate le funzioni disponibili in un editor Rich Text.
 | ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **Più scuro e più spesso**. |
 | ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *Angolato, per enfasi o offerta*. |
 | ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | Inserisce una riga sotto il testo. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Utilizza questo menu a discesa per disporre il testo e le immagini. Centrali, scegliete l&#39;allineamento a sinistra o a destra oppure distribuite il bordo allo spigolo con una giustificazione completa. |  | ![—](assets/image2015-7-9-10-3a32-3a47.png) | Elenco | Scegli punti elenco o numeri dal menu a discesa. Gli elenchi puntati sono utili per elenchi e numeri con passaggi. |
+| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Utilizza questo menu a discesa per disporre il testo e le immagini. Centrali, scegliete l&#39;allineamento a sinistra o a destra oppure distribuite il bordo allo spigolo con una giustificazione completa. |
+| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Elenco | Scegli punti elenco o numeri dal menu a discesa. Gli elenchi puntati sono utili per elenchi e numeri con passaggi. |
 | ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | Scegli un rientro maggiore o minore. Utilizzare per i paragrafi o per qualsiasi testo che si desidera evidenziare. |
 | ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | Inserisci un collegamento a un sito web o a un altro contenuto; apporta facilmente modifiche. |
 | ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | Un&#39;immagine vale mille parole. Rilasciane uno. Fare clic sull&#39;icona della fotocamera per sfogliare Design Studio. È possibile inserire le immagini una accanto all&#39;altra. |

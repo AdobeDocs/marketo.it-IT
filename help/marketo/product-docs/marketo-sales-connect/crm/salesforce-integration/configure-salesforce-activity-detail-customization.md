@@ -3,9 +3,9 @@ description: Scopri come configurare la personalizzazione dei dettagli delle att
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '668'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* [!DNL Salesforce] e [!DNL Marketo Sales Connect] [devono essere connessi](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* La registrazione dell&#39;attività e-mail tramite API [&#x200B; deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività di Salesforce quando un&#39;attività di attività/promemoria [!DNL Sales Connect] viene sincronizzata in Salesforce.
 
@@ -68,33 +68,33 @@ I campi dinamici delle attività contengono informazioni di riferimento sulle at
   <th>Descrizione</th>
  </tr>
  <tr>
-  <td>{{activity_type}}</td>
+  <td><code>{{activity_type}}</code></td>
   <td>Popola il tipo di attività come E-mail, Chiamata, InMail o Personalizzato.</td>
  </tr>
  <tr>
-  <td>{{activity_subject}}</td>
+  <td><code>{{activity_subject}}</code></td>
   <td><p>Compilerà l'oggetto dell'attività.</p>
       <p>Nel caso di un’e-mail, verrà compilata la riga dell’oggetto dell’e-mail.</p>
       <p>In caso di chiamata, inMail o personalizzata, verrà compilato un valore se è stata creata un'attività promemoria con un valore nel campo nome attività/oggetto.</p></td>
  </tr>
  <tr>
-  <td>{{sales_campaign_name}}</td>
+  <td><code>{{sales_campaign_name}}</code></td>
   <td>Se l’attività è stata avviata da una campagna di vendita, popolerà il nome della campagna di vendita.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_day}}</td>
+  <td><code>{{sales_campaign_day}}</code></td>
   <td>Se l'attività è stata avviata da una campagna di vendita, verrà compilato il numero del giorno della campagna di vendita in cui si è verificata l'attività.</td>
  </tr>
  <tr>
-  <td>{{sales_campaign_step}}</td>
+  <td><code>{{sales_campaign_step}}</code></td>
   <td>Se l'attività è stata avviata da una campagna di vendita, popolerà il numero della fase entro il giorno della campagna di vendita in cui si è verificata l'attività.</td>
  </tr>
  <tr>
-  <td>{{call_outcome}}</td>
+  <td><code>{{call_outcome}}</code></td>
   <td>Se l’attività è una chiamata e viene selezionato un risultato della chiamata, questo popolerà il valore del risultato della chiamata.</td>
  </tr>
  <tr>
-  <td>{{call_reason}}</td>
+  <td><code>{{call_reason}}</code></td>
   <td>Se l’attività è una chiamata e viene selezionato un motivo di chiamata, questo popolerà il valore del motivo della chiamata.</td>
  </tr>
 </table>
