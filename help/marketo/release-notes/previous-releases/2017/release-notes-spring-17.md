@@ -3,7 +3,7 @@ unique-page-id: 12977439
 description: Note sulla versione -Primavera del '17 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Primavera 2017
 exl-id: 61873d1f-41dd-4f5c-94d0-65f0bcacff75
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '633'
 ht-degree: 0%
@@ -86,13 +86,13 @@ Archivia è un nuovo stato di Campagna Web che consente di archiviare [!UICONTRO
 
 ![](assets/archive-campaign-5b2-5d.png)
 
-**[Localizzazione](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localizzazione](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Web Personalization è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 
 ## Miglioramenti predittivi {#predictive-enhancements}
 
-**[Localizzazione](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)**
+**[Localizzazione](/help/marketo/product-docs/administration/settings/change-time-zone.md)**
 
 Il contenuto predittivo è ora disponibile in tutte le lingue supportate da Marketo (inglese, giapponese, tedesco, spagnolo, francese e portoghese).
 

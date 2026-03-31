@@ -3,7 +3,7 @@ unique-page-id: 12255606
 description: Note sulla versione -Inverno '17 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Inverno '17
 exl-id: b76dab24-43be-4d13-b4dc-b199e3e8f9a2
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -38,7 +38,7 @@ Esporta tutti i dettagli e le analisi della campagna web in formato CSV. Potrai 
 
 ## Localizzazione {#localization}
 
-Le app Web Personalization, [!UICONTROL Predictive Content] e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. [selezionare la lingua e le impostazioni locali](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) per visualizzare il contenuto in queste lingue.
+Le app Web Personalization, [!UICONTROL Predictive Content] e Email Insights sono ora disponibili in giapponese, tedesco e spagnolo. [selezionare la lingua e le impostazioni locali](/help/marketo/product-docs/administration/settings/change-time-zone.md) per visualizzare il contenuto in queste lingue.
 
 ![](assets/japanese-web-personalization.png)
 

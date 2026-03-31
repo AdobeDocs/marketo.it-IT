@@ -4,7 +4,7 @@ description: Note sulla versione -Marzo 2014 - Documentazione Marketo - Document
 title: Note sulla versione - Marzo 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 1%
@@ -51,7 +51,7 @@ Come promemoria, questa impostazione modifica anche le metriche di attribuzione 
 
 ## Lingua utente aggiuntiva {#additional-user-language}
 
-Seleziona [Lingua Dell&#39;Applicazione Marketo](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md). Visualizza l&#39;interfaccia Gestione lead di Marketo nella lingua preferita, che ora supporta il giapponese.
+Seleziona [Lingua Dell&#39;Applicazione Marketo](/help/marketo/product-docs/administration/settings/change-time-zone.md). Visualizza l&#39;interfaccia Gestione lead di Marketo nella lingua preferita, che ora supporta il giapponese.
 
 ![](assets/image2014-9-22-11-3a37-3a14.png)
 

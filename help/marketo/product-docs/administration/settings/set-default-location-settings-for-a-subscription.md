@@ -4,10 +4,10 @@ description: Modalità di visualizzazione e modifica delle impostazioni predefin
 title: Impostare le impostazioni di posizione predefinite per un abbonamento
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 11%
+source-wordcount: '233'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ Questo articolo descrive come un amministratore visualizzerebbe e modificherebbe
 
 ## Impostare le impostazioni di posizione predefinite per un abbonamento {#set-default-location-settings-for-a-subscription-1}
 
-Quando un amministratore modifica le impostazioni predefinite del percorso, gli utenti appena creati ereditano queste impostazioni. Gli utenti possono sempre [modificare la lingua, le impostazioni locali e le preferenze del fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) nei loro account individuali.
+Quando un amministratore modifica le impostazioni predefinite del percorso, gli utenti appena creati ereditano queste impostazioni. Gli utenti possono [modificare il proprio fuso orario](/help/marketo/product-docs/administration/settings/change-time-zone.md) nei propri account individuali.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -65,4 +65,4 @@ Se si stanno modificando le impostazioni internazionali predefinite per gli uten
 
 >[!MORELIKETHIS]
 >
->* [Seleziona lingua, lingua e fuso orario](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md)
+>* [Cambia il tuo fuso orario](/help/marketo/product-docs/administration/settings/change-time-zone.md)

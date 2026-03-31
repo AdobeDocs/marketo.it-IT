@@ -4,7 +4,7 @@ description: Scopri come pianificare i programmi e-mail con il fuso orario del d
 title: Pianificare i programmi e-mail con fuso orario del destinatario
 exl-id: d0c3f3c1-9f21-4081-818d-7c5cb1766915
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 1%
@@ -36,7 +36,7 @@ Questo offre due opzioni:
 >
 >* **[!UICONTROL Deliver the following day in the recipient's time zone]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail il *mercoledì* alle 9:00am.
 >
->* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le [impostazioni del fuso orario dell&#39;abbonamento](/help/marketo/product-docs/administration/settings/select-your-language-locale-and-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00am PDT (qualsiasi ora si trovi nel proprio fuso orario).
+>* **[!UICONTROL Deliver using the program's default set time]**: se l&#39;e-mail è programmata per uscire martedì alle 9:00am, le persone qualificate che vivono in fusi orari in cui l&#39;ora pianificata è già passata riceveranno l&#39;e-mail *in base alle impostazioni del fuso orario dell&#39;abbonamento*. Pertanto, se le [impostazioni del fuso orario dell&#39;abbonamento](/help/marketo/product-docs/administration/settings/change-time-zone.md) sono impostate su PDT America/Los Angeles, i destinatari riceveranno comunque l&#39;e-mail martedì alle 9:00am PDT (qualsiasi ora si trovi nel proprio fuso orario).
 
 >[!NOTE]
 >
