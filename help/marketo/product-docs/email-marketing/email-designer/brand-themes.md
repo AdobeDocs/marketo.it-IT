@@ -6,7 +6,7 @@ description: Scopri come creare e gestire le linee guida per i marchi in Marketo
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e6b576e5-3456-4bee-9383-b63cd6728620
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 6f40dad1975db59fe2059ef1a0c5e266da07eef4
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -73,7 +73,7 @@ Per modificare una variante, fai clic sulla relativa icona a forma di matita.
 
 >[!NOTE]
 >
->Puoi creare fino a sei varianti.
+>Puoi creare fino a quattro varianti.
 
 Sono disponibili più elementi da personalizzare. Le impostazioni delle varianti sono raggruppate nelle seguenti categorie:
 
