@@ -6,9 +6,9 @@ description: Scopri come utilizzare l’assistente AI per aggiungere testo e imm
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
-source-git-commit: 58b052fc93a43ea6fb744f000e34ee57c0056f12
+source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '923'
 ht-degree: 6%
 
 ---
@@ -51,17 +51,21 @@ _Dopo_ che segue il prerequisito precedente, gli amministratori di Marketo devon
 
 ## Casi d’uso {#use-cases}
 
-Esistono tre casi d’uso principali per l’Assistente IA:
+Esistono alcuni casi d’uso principali per l’Assistente IA:
 
-* [Crea un oggetto](#create-a-subject-line) per l&#39;e-mail
+* [Crea un oggetto e/o un preheader](#create-a-subject-line-preheader) per la tua e-mail
 * [Crea contenuto per una sezione specifica](#create-content-for-a-specific-section) dell&#39;e-mail
 * [Crea un&#39;intera e-mail](#create-an-entire-email) da un modello selezionato
 
-## Creare un oggetto {#create-a-subject-line}
+## Creare un oggetto/preintestazione {#create-a-subject-line-preheader}
 
-Quando viene creato un messaggio e-mail utilizzando il nuovo Designer e-mail, immetti un oggetto temporaneo.
+È possibile utilizzare l’Assistente AI per creare un oggetto, un preheader o entrambi.
 
 ![](assets/use-the-ai-assistant-1.png)
+
+L’esempio seguente illustra la riga dell’oggetto. Per un preheader, gli stessi passaggi possono essere seguiti facendo clic sulla casella di controllo _Preheader_ (nell&#39;immagine precedente).
+
+Quando viene creato un messaggio e-mail utilizzando il nuovo Designer e-mail, immetti un oggetto temporaneo.
 
 Dopo la creazione dell&#39;e-mail, l&#39;oggetto si trova nella colonna _Dettagli_ a destra. Fai clic sul pulsante Assistente IA ( ![Icona Filtro](assets/icon-ai-assistant.png) ) accanto a esso per ottenere assistenza nella creazione di una nuova riga dell&#39;oggetto utilizzando la funzionalità di intelligenza artificiale generica.
 
