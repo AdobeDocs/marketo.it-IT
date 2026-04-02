@@ -3,7 +3,7 @@ unique-page-id: 11384018
 description: Note sulla versione -Autunno '16 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Autunno '16
 exl-id: da935951-162e-426c-acf2-12c55ff706b4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Con l&#39;integrazione di [!DNL Facebook] Conversioni offline, i dati di convers
 
 ![](assets/facebook.png)
 
-## [ID universale](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md) {#universal-id}
+## ID universale {#universal-id}
 
 Un Universal ID consente di accedere a più abbonamenti Marketo con un unico accesso e di passare rapidamente da un abbonamento all’altro. Puoi utilizzare un singolo profilo community per tutti gli abbonamenti.
 

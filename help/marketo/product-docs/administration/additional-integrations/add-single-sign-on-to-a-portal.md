@@ -4,9 +4,9 @@ description: Abilita il Single Sign-On SAML 2.0 in modo che il provider di ident
 title: Aggiungere il single sign-on a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: bba45ef3db9cf8f1a7a9f9c818a5890ca63d6ec7
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '573'
 ht-degree: 5%
 
 ---
@@ -115,6 +115,5 @@ SSO è disabilitato per impostazione predefinita. Per abilitare SAML e configura
 
 >[!MORELIKETHIS]
 >
->* [Utilizzo di un ID universale per l&#39;accesso all&#39;abbonamento](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md){target="_blank"}
 >* [Limita l&#39;accesso utente solo a SSO](/help/marketo/product-docs/administration/additional-integrations/restrict-user-login-to-sso-only.md){target="_blank"}
 >* [Invito di utenti Marketo a due istanze con ID universale](https://nation.marketo.com/t5/Knowledgebase/Inviting-Marketo-Users-to-Two-Instances-with-Universal-ID-UID/ta-p/251122){target="_blank"}

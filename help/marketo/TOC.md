@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: f33289e095a66147a7e06eb620111922e19aef31
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '9340'
+source-wordcount: '9333'
 ht-degree: 99%
 
 ---
@@ -224,7 +224,6 @@ ht-degree: 99%
          + [Impostare una pagina di fallback](product-docs/administration/settings/set-a-fallback-page.md)
          + [Impostare le impostazioni di posizione predefinite per un abbonamento](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
          + [Informazioni sulle impostazioni della privacy](product-docs/administration/settings/understanding-privacy-settings.md)
-         + [Utilizzare un ID universale per l’accesso in abbonamento](product-docs/administration/settings/using-a-universal-id-for-subscription-login.md)
       + Tag {#tags}
          + [Creare un nuovo tag programma e valori di tag](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
          + [Creare un canale del programma](product-docs/administration/tags/create-a-program-channel.md)

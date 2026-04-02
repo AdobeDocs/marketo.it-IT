@@ -2,9 +2,9 @@
 description: Note sulla versione - Agosto 2021 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - agosto 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '897'
 ht-degree: 1%
 
 ---
@@ -63,7 +63,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ![](assets/yellow-star.png)
 
-* Integrazione di Forms **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione di [!DNL LinkedIn] Ads con [!DNL Bizible].
+* Integrazione di Forms **[!DNL Bizible][!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione esistente di [!DNL LinkedIn] Ads con [!DNL Bizible].
 
 * **Dashboard Velocity migliorato**: è stata aggiunta una nuova metrica di velocità e un nuovo filtro del dashboard per ottenere informazioni più approfondite. Questa dashboard viene utilizzata dagli esperti di marketing per comprendere la velocità di lead e opportunità di ogni fase e l’efficienza di diverse forme di coinvolgimento di marketing e vendita.
 
@@ -71,7 +71,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ## Integrazione di [!DNL Bizible] con Adobe Experience Cloud {#bizible-integration-with-adobe-experience-cloud}
 
-Questa sezione include nuove funzioni per gli utenti Bizible che hanno completato la migrazione del sistema Adobe Identity Management (IMS). Se sei stato trasferito, il nuovo Adobe ID sarà visibile nelle impostazioni di [!DNL Bizible] nella scheda Adobe ID. Tutti gli account dovrebbero essere migrati entro la fine del 2021.
+Questa sezione include nuove funzioni per gli utenti Bizible che hanno completato la migrazione del sistema Adobe Identity Management (IMS). Se è stata effettuata la migrazione, il nuovo Adobe ID verrà visualizzato nelle impostazioni di [!DNL Bizible] nella scheda Adobe ID. Tutti gli account dovrebbero essere migrati entro la fine del 2021.
 
 * Integrazione di **[!DNL Bizible]con Adobe Privacy Service** (disponibile a settembre 2021): l&#39;integrazione di [!DNL Bizible] con Adobe Privacy Service centralizza la conformità alle normative sulla privacy dei dati critici (come il RGPD) nelle applicazioni Adobe Experience Cloud. Ora puoi sfruttare questo servizio e gestire tutte le richieste di accesso a dati personali a livello centrale in modo che le richieste di modifica provenienti da [!DNL Bizible] e altri prodotti Adobe vengano applicate a tutte le applicazioni.
 
@@ -81,7 +81,7 @@ Questa sezione include nuove funzioni per gli utenti Bizible che hanno completat
 
 ## Annunci {#announcements}
 
-* **Aggiornamento delle impostazioni dell&#39;ID universale della sottoscrizione**: per supportare la prossima integrazione di Marketo Engage e Adobe Identity per gli utenti esistenti, tutte le sottoscrizioni di Marketo Engage saranno unificate nell&#39;abilitazione del supporto dell&#39;ID universale. Ulteriori informazioni [sono disponibili qui](/help/marketo/product-docs/administration/settings/using-a-universal-id-for-subscription-login.md).
+* **Aggiornamento delle impostazioni dell&#39;ID universale della sottoscrizione**: per supportare la prossima integrazione di Marketo Engage e Adobe Identity per gli utenti esistenti, tutte le sottoscrizioni di Marketo Engage saranno unificate nell&#39;abilitazione del supporto dell&#39;ID universale.
 
 **_Webinar sulla versione del prodotto_**
 
