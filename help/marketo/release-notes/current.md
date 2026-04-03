@@ -3,10 +3,10 @@ description: Note sulla versione corrente - Documenti Marketo - Documentazione d
 title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
-source-git-commit: 70939d387dcfe6064e179e4e7e91b16c6baa7b8b
+source-git-commit: 1850dd03baba259e99e8cc089b39f35735e63fdf
 workflow-type: tm+mt
 source-wordcount: '462'
-ht-degree: 39%
+ht-degree: 38%
 
 ---
 
@@ -29,8 +29,19 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail Designer - Gestisci marchi (beta)</strong>: genera contenuti e-mail in base alle linee guida specifiche per la scrittura in copia della tua organizzazione o del tuo marchio.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Creare e gestire i brand</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Azioni rapide</strong>: <i>Parità con il vecchio editor e-mail</i>. Le azioni rapide sono ora disponibili per tutte le risorse di E-mail Designer (e-mail, modelli e-mail, frammenti). Le azioni rapide supportate includono: Duplica, Elimina, Sposta, Crea/Modifica bozza.
+   </td>
+   <td>Rilasciato</i></td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
@@ -49,17 +60,6 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td><strong>E-mail Designer - Correzione rendering di Outlook</strong>: questo aggiornamento risolve alcuni problemi di rendering, in particolare in MS Outlook. La "modalità Expert" consente di apportare modifiche minori a HTML/CSS o di aggiungere tag script all’e-mail (si consiglia di non apportare altre modifiche al HTML dell’e-mail per mantenere gli elementi visivi così come sono).
-   </td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-mail Designer - Azioni rapide</strong>: <i>Parità con il vecchio editor e-mail</i>. Le azioni rapide sono ora disponibili per tutte le risorse di E-mail Designer (e-mail, modelli e-mail, frammenti). Le azioni rapide supportate includono: Duplica, Elimina, Sposta, Crea/Modifica bozza.
    </td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
@@ -92,7 +92,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 ## Annunci {#announcements}
 
-* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=it){target="_blank"}.
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite dei lead di unione API REST**: a partire dal 31 marzo 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
 
