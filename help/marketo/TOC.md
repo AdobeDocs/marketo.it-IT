@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '9342'
+source-wordcount: '9160'
 ht-degree: 99%
 
 ---
@@ -60,44 +60,10 @@ ht-degree: 99%
 + Documentazione del prodotto {#product-docs}
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
-         + Informazioni su SEO {#understanding-seo}
-            + [Informazioni sull’ottimizzazione per i motori di ricerca](product-docs/additional-apps/seo/understanding-seo/understanding-search-engine-optimization.md)
-            + [Informazioni sulla dashboard SEO: consigli SEO](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-recommendations.md)
-            + [Informazioni sulla dashboard SEO: SEO Snapshot](product-docs/additional-apps/seo/understanding-seo/understanding-the-seo-dashboard-seo-snapshot.md)
-            + [SEO: aggiungere/eliminare un sito](product-docs/additional-apps/seo/understanding-seo/seo-add-a-site-delete-a-site.md)
-            + [SEO: aggiungere concorrenti](product-docs/additional-apps/seo/understanding-seo/seo-add-competitors.md)
-            + [SEO: gestire gli elenchi](product-docs/additional-apps/seo/understanding-seo/seo-managing-lists.md)
-            + [SEO: selezionare l’area geografica o il paese per il motore di ricerca](product-docs/additional-apps/seo/understanding-seo/seo-pick-region-country-for-your-search-engine.md)
-            + [SEO: impostare le preferenze degli avvisi e-mail](product-docs/additional-apps/seo/understanding-seo/seo-set-your-email-alert-preferences.md)
          + Parole chiave {#keywords}
-            + [SEO: aggiungere parole chiave](product-docs/additional-apps/seo/keywords/seo-add-keywords.md)
-            + [SEO: aggiungere/rimuovere colonne dalla vista Parole chiave](product-docs/additional-apps/seo/keywords/seo-add-remove-columns-from-your-keywords-view.md)
-            + [SEO: aggiungere/rimuovere parole chiave da un elenco](product-docs/additional-apps/seo/keywords/seo-add-remove-keywords-from-a-list.md)
             + [SEO: esportare risultati delle parole chiave](product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results.md)
-            + [SEO: filtrare risultati delle parole chiave](product-docs/additional-apps/seo/keywords/seo-filter-keyword-results.md)
-            + [SEO: ottienere parole chiave consigliate](product-docs/additional-apps/seo/keywords/seo-get-suggested-keywords.md)
-            + [SEO: importare parole chiave con un file CSV](product-docs/additional-apps/seo/keywords/seo-importing-keywords-with-a-csv.md)
-            + [SEO: grafico delle tendenze delle parole chiave](product-docs/additional-apps/seo/keywords/seo-keyword-trends-chart.md)
-            + [SEO: ottimizzare pagine specifiche con parole chiave mirate](product-docs/additional-apps/seo/keywords/seo-optimize-specific-pages-with-targeted-keywords.md)
-            + [SEO: rimuovere una parola chiave](product-docs/additional-apps/seo/keywords/seo-remove-a-keyword.md)
-            + [SEO: informazioni sulle parole chiave](product-docs/additional-apps/seo/keywords/seo-understanding-keywords.md)
-            + [SEO: visualizzare i risultati delle parole chiave in un motore di ricerca](product-docs/additional-apps/seo/keywords/seo-view-keyword-results-in-search-engine.md)
          + Pagine {#pages}
-            + [SEO: aggiungere note a problemi della pagina](product-docs/additional-apps/seo/pages/seo-add-notes-to-page-issues.md)
-            + [SEO: aggiungere pagine](product-docs/additional-apps/seo/pages/seo-add-pages.md)
-            + [SEO: aggiungere/rimuovere pagina dall’elenco](product-docs/additional-apps/seo/pages/seo-add-remove-page-from-list.md)
-            + [SEO: aggiungere/rimuovere un problema della pagina da un elenco](product-docs/additional-apps/seo/pages/seo-add-remove-page-issue-from-a-list.md)
             + [SEO: esportare problemi in file CSV](product-docs/additional-apps/seo/pages/seo-export-issues-to-csv.md)
-            + [SEO: rimuovere/eliminare un problema della pagina](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page-issue.md)
-            + [SEO: rimuovere/eliminare una pagina](product-docs/additional-apps/seo/pages/seo-remove-delete-a-page.md)
-            + [SEO: informazioni sulle pagine](product-docs/additional-apps/seo/pages/seo-understanding-pages.md)
-            + [SEO: utilizzare l’approfondimento dei dettagli della pagina](product-docs/additional-apps/seo/pages/seo-using-the-page-detail-drill-down.md)
-         + Collegamenti in entrata {#inbound-links}
-            + [SEO: aggiungere un URL di collegamento in entrata manualmente](product-docs/additional-apps/seo/inbound-links/seo-add-an-inbound-link-url-manually.md)
-            + [SEO: aggiungere/rimuovere un URL di collegamento in entrata da un elenco](product-docs/additional-apps/seo/inbound-links/seo-add-remove-an-inbound-link-url-from-a-list.md)
-            + [SEO: ottenere suggerimenti per collegamenti in entrata](product-docs/additional-apps/seo/inbound-links/seo-get-inbound-link-suggestions.md)
-            + [SEO: rimuovere/eliminare un URL di collegamento in entrata](product-docs/additional-apps/seo/inbound-links/seo-remove-delete-an-inbound-link-url.md)
-            + [SEO: informazioni sui collegamenti in entrata](product-docs/additional-apps/seo/inbound-links/seo-understanding-inbound-links.md)
          + Rapporti {#reports}
             + [SEO: utilizzare il rapporto sulle tendenze delle KW del concorrente](product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report.md)
             + [SEO: utilizzare il rapporto sulle tendenze delle parole chiave](product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report.md)

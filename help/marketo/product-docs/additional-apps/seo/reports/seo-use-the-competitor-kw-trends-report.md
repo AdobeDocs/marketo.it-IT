@@ -3,11 +3,13 @@ unique-page-id: 2949270
 description: Confronta nel tempo la classificazione delle parole chiave di tuoi e dei tuoi concorrenti.
 title: 'SEO: utilizzare il rapporto sulle tendenze delle KW del concorrente'
 exl-id: c36e84d0-ca8d-4618-a1ad-9b903f317792
+hide: true
+hidefromtoc: true
 feature: SEO
-source-git-commit: b42922726bebab913436bb0955557339af96d0f5
+source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 11%
+source-wordcount: '202'
+ht-degree: 10%
 
 ---
 
@@ -17,12 +19,12 @@ In questo rapporto, puoi vedere come tu e i tuoi concorrenti siete classificati 
 
 >[!IMPORTANT]
 >
->Il 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzione di ottimizzazione dei motori di ricerca. Esportare tutti i dati pertinenti entro e non oltre il 30 marzo. [Ulteriori informazioni](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}.
+>Il 31 marzo 2026, in Marketo Engage [è stata dichiarata obsoleta la funzionalità Ottimizzazione motore di ricerca](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) è ancora disponibile per un periodo limitato. Segui i passaggi descritti negli articoli seguenti per esportare qualsiasi dato.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 ## Trova i Report {#find-reports}
 
