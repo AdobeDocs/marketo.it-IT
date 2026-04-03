@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 3ab1d36fd99e72566adc463429fb8084dbf364c9
+source-git-commit: e867cd5611d2727e08242685cb666ae1295ce680
 workflow-type: tm+mt
-source-wordcount: '9339'
+source-wordcount: '9342'
 ht-degree: 99%
 
 ---
@@ -1049,8 +1049,8 @@ ht-degree: 99%
          + [Rapporto spam e-mail con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
          + Brand {#brands}
             + [Temi del brand](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [Applicare il brand](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Gestisci marchi](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Applica marchio](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Creare e gestire i brand](product-docs/email-marketing/email-designer/brands/manage-brands.md)
             + [Personalizzare i brand](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
             + [Allineamento del brand](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + Programmi e-mail {#email-programs}
