@@ -3,7 +3,7 @@ description: Note sulla versione - Ottobre 2025 - Documentazione Marketo - Docum
 title: Note sulla versione - Ottobre 2025
 feature: Release Information
 exl-id: 9c668de0-14d0-4d2e-8ea6-dc7db5be3ea7
-source-git-commit: 6b8733e8b67ef9f93ba16cd1589de93fe45ceb25
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 93%
@@ -44,7 +44,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   <tr>
    <td><strong>E-mail designer - Temi brand</strong>: ora puoi definire i temi del brand in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli per e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.</td>
    <td>Rilasciato</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md" target="_blank">Temi del brand</a></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md" target="_blank">Temi del brand</a></td>
   </tr>
   <tr>
    <td> </td>

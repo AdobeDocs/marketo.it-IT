@@ -5,7 +5,7 @@ description: Scopri E-mail Designer e il suo editor drag-and-drop. Creazione e p
 title: Panoramica
 feature: Email Designer
 exl-id: d31ce148-1feb-411e-bd10-453a6c7878fb
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
 workflow-type: tm+mt
 source-wordcount: '670'
 ht-degree: 95%
@@ -54,7 +54,7 @@ Per accedere al nuovo E-mail designer, il tuo abbonamento a Marketo Engage deve 
 
 * [Convertitore da immagine ad HTML](/help/marketo/product-docs/email-marketing/email-designer/feature-comparison.md){target="_blank"}: carica un file immagine conforme con PNG/JPEG di un’e-mail; verrà automaticamente convertito in HTML da utilizzare nel nuovo E-mail designer.
 
-* [Temi del brand](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md){target="_blank"}: definisci i temi del brand in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli per e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.
+* [Temi del brand](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md){target="_blank"}: definisci i temi del brand in Marketo Engage. Le configurazioni di stile possono essere riutilizzate e applicate ai modelli per e-mail e ad altre risorse e-mail al fine di mantenere la coerenza del brand.
 
 * [Importazione modelli](/help/marketo/product-docs/email-marketing/email-designer/import-template.md){target="_blank"}: importa i modelli per e-mail dall’editor e-mail classico per creare modelli compatibili con il nuovo E-mail designer in Design Studio.
 
@@ -84,7 +84,7 @@ Al momento, la modifica delle risorse tramite API non è supportata nel nuovo E-
 
 **Esiste un modo per applicare elementi di branding (font, loghi e colori)?**
 
-Sì. Puoi creare e gestire le linee guida del brand con [temi del brand](/help/marketo/product-docs/email-marketing/email-designer/brand-themes.md).
+Sì. Puoi creare e gestire le linee guida del brand con [temi del brand](/help/marketo/product-docs/email-marketing/email-designer/brands/brand-themes.md).
 
 **La creazione di moduli per i modelli sarà più personalizzabile e scalabile?**
 
