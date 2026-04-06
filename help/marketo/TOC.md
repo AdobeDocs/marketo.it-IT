@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 62f5166e6a77c8ef50e7c596754205e8f02c6dc7
+source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
 workflow-type: tm+mt
 source-wordcount: '9171'
 ht-degree: 99%
@@ -58,12 +58,12 @@ ht-degree: 99%
       + [Istanza ereditata: documenta la tua configurazione](getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md)
       + [Rivedere le competenze principali](getting-started/inheriting-a-marketo-engage-instance/reviewing-core-skills.md)
 + Documentazione del prodotto {#product-docs}
-   + MCP MARKETO {#marketo-mcp}
-      + [Panoramica](product-docs/marketo-mcp/overview.md)
-      + [Impostazioni e configurazione](product-docs/marketo-mcp/settings-setup.md)
+   + MARKETO AI {#marketo-ai}
+      + [Panoramica](product-docs/marketo-ai/overview.md)
+      + [Impostazioni e configurazione](product-docs/marketo-ai/settings-setup.md)
       + Agenti {#agents}
-         + [Importa lead](product-docs/marketo-mcp/agents/import-leads.md)
-         + [Controllo di qualità del programma](product-docs/marketo-mcp/agents/program-qa.md)
+         + [Importa lead](product-docs/marketo-ai/agents/import-leads.md)
+         + [Controllo di qualità del programma](product-docs/marketo-ai/agents/program-qa.md)
    + App aggiuntive {#additional-apps}
       + SEO {#seo}
          + Parole chiave {#keywords}
