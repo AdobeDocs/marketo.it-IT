@@ -4,10 +4,10 @@ title: Impostazioni e configurazione
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 4b04b83416009193fbd7b3930d75ed3fd14d1e7c
+source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
@@ -15,11 +15,23 @@ ht-degree: 5%
 
 Testo introduttivo.
 
+## Impostazioni {#settings}
+
+Per connettere NAME al tuo account Marketo Engage, segui la procedura riportata di seguito.
+
+1. In Il mio Marketo, fai clic sul riquadro **Genera con IA**.
+
+SCHERMATA
+
+1. Fai clic sull’icona a forma di ingranaggio
+
+L’ISTANZA NON È GIÀ CONNESSA
+
 ## Connessione {#connection}
 
 Nella scheda Connessione, segui i passaggi indicati di seguito per la configurazione iniziale di NOME DI MCP MARKETO.
 
-+++
++++Passaggi di configurazione iniziali
 
 Testo
 
