@@ -4,7 +4,7 @@ title: Panoramica di Marketo Engage AI
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 3%
@@ -31,6 +31,14 @@ Nella console centrale sono presenti sette funzioni Agentic che consentono di es
 
 ## Agenti {#agents}
 
+### Controllo di qualità del programma {#program-qa}
+
+Convalida i programmi Marketo Engage in base alle best practice e rileva eventuali problemi prima del lancio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+
+### Importa lead {#import-leads}
+
+Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. [Ulteriori informazioni](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+
 ### Indaga lead (disponibile a breve) {#investigate-lead}
 
 Scopri perché un utente non ha conseguito la licenza MQL, non si è qualificato per un programma o non ha completato il ciclo di vita.
@@ -42,14 +50,6 @@ Crea un documento di configurazione del programma da utilizzare per altri utenti
 ### Crea programma (disponibile a breve) {#create-program}
 
 Genera un intero programma Marketo Engage utilizzando un resoconto della campagna, completo di e-mail, pagina di destinazione e Smart Campaign.
-
-### Controllo di qualità del programma {#program-qa}
-
-Convalida i programmi Marketo Engage in base alle best practice e rileva eventuali problemi prima del lancio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
-
-### Importa lead {#import-leads}
-
-Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. [Ulteriori informazioni](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
 
 ### Normalizza dati (presto disponibili) {#normalize-data}
 
