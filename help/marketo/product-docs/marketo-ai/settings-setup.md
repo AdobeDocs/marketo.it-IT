@@ -4,10 +4,10 @@ title: Impostazioni e configurazione
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 4%
+source-wordcount: '189'
+ht-degree: 1%
 
 ---
 
@@ -15,58 +15,56 @@ ht-degree: 4%
 
 Testo introduttivo.
 
-## Impostazioni {#settings}
+## Autorizzazioni {#permissions}
 
-Per connettere NAME al tuo account Marketo Engage, segui la procedura riportata di seguito.
+Per accedere a Marketo AI, gli amministratori devono prima abilitare le autorizzazioni del ruolo.
+
+1. Nel tuo My Marketo, fai clic su **Amministratore**, quindi su **Utenti e ruoli**.
+
+   ![](assets/settings-setup-1.png)
+
+1. Nella scheda _Ruoli_, seleziona il ruolo desiderato e fai clic su **Modifica ruolo**.
+
+   ![](assets/settings-setup-2.png)
+
+1. Scorri verso il basso e seleziona la casella di controllo **Access Build with AI**, quindi fai clic su **Salva**.
+
+   ![](assets/settings-setup-3.png)
+
+## Impostazioni {#settings}
 
 1. In Il mio Marketo, fai clic sul riquadro **Genera con IA**.
 
-SCHERMATA
+   ![](assets/settings-setup-4.png)
 
-1. Fai clic sull’icona a forma di ingranaggio
+1. Fai clic sull’icona a forma di ingranaggio.
 
-L’ISTANZA NON È GIÀ CONNESSA
+   ![](assets/settings-setup-5.png)
 
-## Connessione {#connection}
+### Connessione {#connection}
 
-Nella scheda Connessione, segui i passaggi indicati di seguito per la configurazione iniziale di NOME DI MCP MARKETO.
+Questa scheda non contiene campi modificabili. Mostra informazioni sull’account, come il tuo Munchkin ID e l’organizzazione IMS.
 
-+++Passaggi di configurazione iniziali
+![](assets/settings-setup-6.png)
 
-Testo
+### Regole organizzative {#organizational-rules}
 
-SCHERMATA
+Definisci le linee guida e i vincoli organizzativi che Marketo AI segue durante la creazione o la modifica di risorse Marketo Engage.
 
-Testo
-
-SCHERMATA
-
-+++
-
-## Regole organizzative {#organizational-rules}
-
-Definisci le linee guida e i vincoli organizzativi che MARKETO MCP segue durante la creazione o la modifica di risorse Marketo.
-
-Testo
-
-SCHERMATA
-
-Testo
-
-SCHERMATA
+![](assets/settings-setup-7.png){width="800" zoomable="yes"}
 
 >[!NOTE]
 >
 >Le regole utilizzano il formato Markdown con il frontmatter YAML. Le regole globali si applicano a tutte le aree di lavoro. Le regole di Workspace sovrascrivono le impostazioni globali.
 
-## Integrazioni {#integrations}
+### Integrazioni (presto disponibili) {#integrations}
 
-Configurare le connessioni a servizi e API esterni (DISPONIBILE A BREVE).
+Configurare le connessioni a servizi e API esterni.
 
 _Questa scheda può essere visualizzata nell&#39;interfaccia utente, ma non è ancora disponibile. Controlla di nuovo la disponibilità di aggiornamenti_.
 
-## Notifiche {#notifications}
+### Notifiche (disponibili a breve) {#notifications}
 
-Gestire le preferenze degli avvisi e i canali di notifica (DISPONIBILE A BREVE).
+Gestisce le preferenze degli avvisi e i canali di notifica.
 
 _Questa scheda può essere visualizzata nell&#39;interfaccia utente, ma non è ancora disponibile. Controlla di nuovo la disponibilità di aggiornamenti_.
