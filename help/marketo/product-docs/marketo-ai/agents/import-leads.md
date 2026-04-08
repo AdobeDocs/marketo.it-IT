@@ -4,9 +4,9 @@ title: Importa lead
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 2e2f646680e3e328b7f0c4f68b0dedab52950c50
+source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,52 @@ ht-degree: 0%
 
 Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi.
 
-Importare un elenco di LEAD? GENTE? in formato csv, applicando alcune regole di normalizzazione dei dati e salvandole nel database di Marketo.
+## Come usare {#how-to-use}
 
-Facendo clic su questo agente si entra nell&#39;intelligenza artificiale conversazionale. Nel riquadro a sinistra è presente un Assistente AI che fornisce una finestra per l&#39;agente per pubblicare indicazioni, risposte e opzioni per le funzioni di normalizzazione dei dati da eseguire.
+1. In Il mio Marketo, fai clic sul riquadro **Genera con IA**.
 
-Per avviare il processo di importazione, fare clic sull&#39;icona dell&#39;allegato per caricare un file.
+   ![](assets/import-leads-1.png)
 
-Digita nell’elenco Importa e fai clic su Invia
+1. Fai clic sull&#39;agente **Importa lead**.
 
-Immettere la regola business da applicare e fare clic su Invia. Una volta inserita, una finestra nella console centrale fornisce i risultati della regola applicata.
+   ![](assets/import-leads-2.png)
 
-Immettere un&#39;altra regola business, se necessario, e fare clic su Invia.
+   Sei portato all&#39;intelligenza artificiale conversazionale. Nel riquadro a sinistra, l’agente pubblica indicazioni, risposte e opzioni per le funzioni di normalizzazione dei dati da eseguire.
 
-Per visualizzare un elenco di campi elenco mappati al database, fare clic sulla scheda di mappatura.
+   ![](assets/import-leads-3.png)
 
-Quando si è pronti a salvare l&#39;elenco nel database, fare clic sul pulsante Importa in Marketo.
+1. Per iniziare a importare i lead, fai clic sull’icona dell’allegato e caricali tramite il file .CSV.
 
-Seleziona la cartella in cui salvare l’elenco, immetti un nome per l’elenco dei lead, seleziona le caselle di consenso e fai clic sul pulsante &quot;Approva e importa in Marketo&quot;.
+   ![](assets/import-leads-4.png)
 
-Una volta salvato l’elenco, viene fornita una verifica con un riepilogo dei record elaborati, con errori o con avvisi.
+1. Digita _Elenco di importazione_ e fai clic su **Invia**.
+
+   ![](assets/import-leads-5.png)
+
+   L’elenco viene visualizzato in anteprima nella console centrale.
+
+   ![](assets/import-leads-6.png)
+
+1. Immettere una regola di business desiderata e fare clic su **Invia**.
+
+   ![](assets/import-leads-7.png)
+
+   I risultati vengono visualizzati nella console centrale.
+
+   ![](assets/import-leads-8.png)
+
+   Se lo si desidera, immettere ulteriori regole business.
+
+1. Per visualizzare i campi mappati, fai clic sulla scheda **Mappature**.
+
+1. Se alcuni campi non sono stati mappati correttamente, correggili qui.
+
+   ![](assets/import-leads-9.png)
+
+1. Al termine dell&#39;importazione dell&#39;elenco, fare clic sulla scheda **Importa in Marketo**.
+
+1. Seleziona la cartella di destinazione e immetti un nome. Seleziona ogni casella di consenso e fai clic su **Approva e importa in Marketo**.
+
+   ![](assets/import-leads-10.png)
+
+Al termine dell’importazione, la verifica viene fornita con un riepilogo dei lead elaborati, delle righe non riuscite ed eventuali avvisi.
