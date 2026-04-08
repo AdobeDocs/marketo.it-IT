@@ -4,9 +4,9 @@ title: Importa lead
 hide: true
 hidefromtoc: true
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e137d417f7ba9440b9d3d68a985fa38694e1c157
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
    ![](assets/import-leads-2.png)
 
-   Sei portato all&#39;intelligenza artificiale conversazionale. Nel riquadro a sinistra, l’agente pubblica indicazioni, risposte e opzioni per le funzioni di normalizzazione dei dati da eseguire.
+   Viene visualizzata la schermata di IA per la conversazione. Nel riquadro a sinistra, l’agente pubblica indicazioni, risposte e opzioni per le funzioni di normalizzazione dei dati da eseguire.
 
    ![](assets/import-leads-3.png)
 

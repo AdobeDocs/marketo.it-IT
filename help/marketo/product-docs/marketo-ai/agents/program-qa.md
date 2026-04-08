@@ -1,12 +1,12 @@
 ---
-description: In arrivo.
+description: Scopri come controllare i programmi per individuare le best practice per tutti i componenti, ad esempio e-mail, pagine di destinazione, campagne e altro ancora.
 title: Controllo di qualità del programma
 hide: true
 hidefromtoc: true
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 5a9bcf6b5709b69b0681789971c47dd45af2cb03
+source-git-commit: e74181cdb5498719cfd47fbdfd23c661d7a71406
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -15,22 +15,22 @@ ht-degree: 0%
 
 Controlla i programmi per scoprire le best practice per tutti i componenti, ad esempio e-mail, pagine di destinazione, campagne e altro ancora.
 
-Esistono due modi per accedere a questo agente.
+## Come usare {#how-to-use}
 
-Fai clic sull’agente nella finestra centrale, fai clic sul menu a discesa in alto a destra.
+1. In Il mio Marketo, fai clic sul riquadro **Genera con IA**.
 
-fare clic sul pulsante Usa questo agente
+   ![](assets/program-qa-1.png)
 
-e nel riquadro sinistro della finestra di dialogo del prompt viene visualizzato il testo predefinito.
+1. Fai clic sull&#39;agente **Controllo di qualità programma**.
 
-Quindi seleziona il Programma di cui desideri eseguire il controllo qualità nel riquadro a destra
+   ![](assets/program-qa-2.png)
 
-Nella finestra centrale verrà visualizzato un riepilogo del programma che fornisce una panoramica del programma e di ciò che è stato creato.
+   Viene visualizzata la schermata di IA per la conversazione.
 
-Oppure, fai clic sull’agente nella schermata principale di IA per la conversazione.
+1. Seleziona il programma desiderato nel riquadro a destra.
 
-L’Assistente AI visualizzerà il testo predefinito per mostrare l’agente che verrà eseguito.
+   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-Quindi seleziona il programma a destra che deve essere QA&#39;d.
+Nel riquadro centrale viene visualizzato un riepilogo del programma che fornisce una panoramica del programma.
 
-e lo stesso riepilogo verrà visualizzato nella console centrale
+![](assets/program-qa-4.png){width="450" zoomable="yes"}
