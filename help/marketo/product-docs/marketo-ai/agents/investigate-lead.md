@@ -3,9 +3,9 @@ description: In arrivo.
 title: Indaga lead
 hide: true
 hidefromtoc: true
-source-git-commit: 7eda3ecf602552e67323ccf076f182efe949f6ea
+source-git-commit: 780e07bfafe72bd69a43c3014522fd1b2a6b9a36
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '197'
 ht-degree: 1%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 Scopri perché un utente non ha conseguito la licenza MQL, non si è qualificato per un programma o non ha completato il ciclo di vita.
 
-Per visualizzare l’elenco completo degli scenari di indagine, fai clic sulla freccia giù a destra.
+Per visualizzare l&#39;elenco completo degli scenari di indagine, fare clic sulla freccia a destra.
 
 SCHERMATA
 
