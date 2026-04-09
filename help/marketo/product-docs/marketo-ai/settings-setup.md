@@ -4,9 +4,9 @@ title: Impostazioni e configurazione
 hide: true
 hidefromtoc: true
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: d5f5c11a56f21e7dba3e1e79eb6785937f165b14
+source-git-commit: dc2126b2949411a436cb48a91d187ec8b8fa21f2
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '339'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Se desideri rimuovere l’accesso per qualsiasi ruolo, segui la procedura riport
 
    ![](assets/settings-setup-1.png)
 
-1. Nella scheda _Ruoli_, seleziona il ruolo o i ruoli desiderati e fai clic su **Modifica ruolo**.
+1. Nella scheda _Ruoli_, seleziona il ruolo desiderato e fai clic su **Modifica ruolo**.
 
    ![](assets/settings-setup-2.png)
 
@@ -41,9 +41,11 @@ Se desideri rimuovere l’accesso per qualsiasi ruolo, segui la procedura riport
 
    ![](assets/settings-setup-3.png)
 
+Ripeti questi passaggi per qualsiasi altro ruolo desiderato.
+
 ### Ruolo personalizzato {#custom-role}
 
-È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Build con AI_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
+È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Build con AI_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
 
 <!-- ## Permissions {#permissions}
 
