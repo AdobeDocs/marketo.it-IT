@@ -4,10 +4,10 @@ description: Scopri come rilasciare una licenza di Marketo Email Add-in per Outl
 title: Rilasciare una licenza del componente aggiuntivo e-mail di Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 5%
+source-wordcount: '321'
+ht-degree: 4%
 
 ---
 
@@ -34,19 +34,15 @@ A tutti gli utenti che desiderano utilizzare il componente aggiuntivo [!DNL Outl
 
    ![](assets/image2016-7-22-10-3a20-3a15.png)
 
-1. Immettere gli indirizzi e-mail dei rappresentanti commerciali che devono essere autorizzati a utilizzare il plug-in e fare clic su **[!UICONTROL Issue License]**.
+1. Immettere gli indirizzi e-mail dei rappresentanti commerciali che devono essere autorizzati a utilizzare il plug-in e fare clic su **[!UICONTROL Issue License]**. Per immettere più indirizzi e-mail, separali con una virgola.
 
-   ![](assets/image2016-8-31-9-3a37-3a8.png)>
-
-   >[!TIP]
-   >
-   >Puoi immettere più indirizzi e-mail, separati da una virgola.
+   ![](assets/image2016-8-31-9-3a37-3a8.png)
 
    >[!NOTE]
    >
-   >Per installare il plug-in in remoto, lascia deselezionata la casella di controllo e invia al team IT la [chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Per installare il plug-in in remoto, lascia deselezionata la casella di controllo _Invia e-mail di registrazione_ e invia al tuo team IT la tua [chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >Se i rappresentanti commerciali hanno accesso come amministratore ai loro computer, seleziona la casella e hai chiuso.
+   >* Se i rappresentanti commerciali hanno accesso come amministratore ai loro computer, selezionare la casella di controllo _Invia e-mail di registrazione_ ed eseguire l&#39;operazione. I destinatari dispongono di **30 giorni** per fare clic sul collegamento nell&#39;e-mail prima della scadenza.
 
 >[!MORELIKETHIS]
 >
