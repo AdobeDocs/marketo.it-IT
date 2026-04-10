@@ -3,7 +3,7 @@ description: Elenco di controllo dell’amministratore dell’istanza ereditata 
 title: Elenco di controllo amministrazione istanza ereditata
 feature: Getting Started
 exl-id: 088f3ce9-bf3d-4323-9cde-c39fec06c20e
-source-git-commit: ae094747a1ad593e9b6619f52d382669812863e5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
 source-wordcount: '1850'
 ht-degree: 3%
@@ -263,7 +263,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
    <td><li>A quale CRM stai eseguendo la sincronizzazione? Salesforce? MS Dynamics? Veeva?</li>
 <li>Stai utilizzando una <a href="https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758" target="_blank">sincronizzazione personalizzata</a>?</li>
 <li>[Solo per Salesforce] L’istanza dispone di filtri di sincronizzazione personalizzati implementati?
-<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: contatta il supporto Marketo per identificare filtri di sincronizzazione personalizzati o richiedere l’implementazione di una regola di sincronizzazione personalizzata.</li></td>
+<p><img src="assets/note-icon.png" alt="icona nota"> NOTA: contatta il supporto Adobe per identificare filtri di sincronizzazione personalizzati o richiedere l’implementazione di una regola di sincronizzazione personalizzata.</li></td>
   </tr>
   <tr>
    <td>Pagine di destinazione</td>
@@ -293,7 +293,7 @@ Le seguenti liste di controllo (le successive sono collegate in fondo a ciascun 
   </tr>
   <tr>
    <td>Adobe Dynamic Chat (se applicabile)</td>
-<td>Seguendo i passaggi seguenti sarà necessario accedere a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Se non hai ancora configurato un Adobe ID, <a href="https://helpx.adobe.com/it/manage-account/using/create-update-adobe-id.html" target="_blank">scopri come farlo qui</a>.
+<td>Seguendo i passaggi seguenti sarà necessario accedere a <a href="https://adminconsole.adobe.com/" target="_blank">Adobe Admin Console</a>. Se non hai ancora configurato un Adobe ID, <a href="https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html" target="_blank">scopri come farlo qui</a>.
 <br/>
 <li>Hai accettato l'<a href="/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/initial-setup.md" target="_blank">invito dell'amministratore di prodotto Dynamic Chat</a>? L’e-mail viene inviata quando Dynamic Chat è abilitato nella tua istanza di Marketo Engage e sei designato come Amministratore di sistema.
 <br/>     In caso contrario, cerca l’e-mail di benvenuto nella tua casella in entrata e accetta l’invito a configurare il tuo Adobe ID.</li>

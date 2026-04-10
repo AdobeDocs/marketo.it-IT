@@ -4,10 +4,10 @@ short-description: Hai appena iniziato a usare Adobe Marketo Engage? Scopri qual
 title: Passaggi di configurazione
 feature: Getting Started
 exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
-source-git-commit: ee8b46179d9fe85c4d5f2ebd7c2d31b7fbf516c3
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
 source-wordcount: '1663'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -163,7 +163,7 @@ il team Marketing ora utilizza la piattaforma Marketo per comunicare con il pers
 
 >[!NOTE]
 >
->Se ti serve un elenco abbreviato di indirizzi IP da inserire nell’elenco Consentiti specifico per il tuo ambiente, contatta l’assistenza di Marketo.
+>Per un elenco abbreviato di IP da specifico per il tuo ambiente, contatta il supporto Adobe.
 
     * Se il nostro sistema antispam utilizza i domini Da, aggiungi questi:
 

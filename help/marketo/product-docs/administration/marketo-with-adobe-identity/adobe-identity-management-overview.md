@@ -1,31 +1,27 @@
 ---
-description: Panoramica di Adobe Identity Management per Marketo Engage Admin Console, inclusi i tempi di migrazione, la gestione degli utenti e i livelli di profilo, ad esempio Amministratore di sistema e Amministratore di prodotto.
+description: Panoramica di Adobe Identity Management per Marketo Engage, inclusi i tempi di migrazione, la gestione degli utenti e i livelli di profilo, ad esempio Amministratore di sistema e Amministratore di prodotto.
 title: Panoramica su Identity Management di Adobe
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '462'
-ht-degree: 11%
+source-wordcount: '350'
+ht-degree: 3%
 
 ---
 
 # Panoramica su Identity Management di Adobe {#adobe-identity-management-overview}
 
-Tutte le nuove sottoscrizioni a Adobe Marketo Engage (31 luglio 2023 o versioni successive) sono integrate con Adobe Identity Management System. Gli abbonamenti Marketo Engage esistenti sono attualmente in fase di migrazione al sistema Adobe Identity Management su qualsiasi evento di vendita, che include rinnovi, eventi di riappalto e/o aggiunte. Le migrazioni al di fuori di un evento di vendita sono supportate a ottobre 2024. Gli amministratori di Marketo riceveranno una notifica con 2-4 settimane di anticipo se il loro abbonamento è pianificato per essere trasferito al di fuori di un evento di vendita.
+Tutte le nuove sottoscrizioni a Adobe Marketo Engage (31 luglio 2023 o versioni successive) sono integrate con Adobe Identity Management System.
 
->[!NOTE]
->
->Il supporto Marketo non è in grado di fornire aggiornamenti relativi alla migrazione Adobe IMS. Il team dell’account Adobe raggiungerà la tempistica stimata nei prossimi mesi. Per ulteriori informazioni, consulta [questo articolo](/help/marketo/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md){target="_blank"} e le [Domande frequenti](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
-
-Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe identity, Adobe Admin Console viene utilizzato per la gestione degli utenti. I concetti relativi all’identità, come Single Sign On, vengono gestiti anche in Admin Console.
+Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe identity, Adobe Admin Console viene utilizzato per la gestione degli utenti. I concetti relativi all’identità, come il Single Sign-On, vengono gestiti anche in Admin Console.
 
 * Ulteriori informazioni su [Adobe Admin Console](https://helpx.adobe.com/it/enterprise/using/admin-console.html){target="_blank"}.
 * Ulteriori informazioni sulla [configurazione dell&#39;organizzazione Adobe relativa alla sottoscrizione a Marketo](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
 
 >[!NOTE]
 >
->Se desideri implementare il Single Sign On (SSO) e il tuo abbonamento è stato inserito in Adobe Identity senza che l’SSO sia stato implementato nell’organizzazione Adobe, invia un ticket all’[assistenza Marketo](https://nation.marketo.com/){target="_blank"} specificando l’argomento “Marketo in Admin Console, implementing SSO”.
+>Se desideri implementare il Single Sign-On e il tuo abbonamento è stato acquisito a Adobe Identity senza SSO implementato nell&#39;organizzazione Adobe, invia un ticket al [Supporto Marketo](https://nation.marketo.com/){target="_blank"} e specifica l&#39;argomento come &quot;Marketo su Admin Console, implementazione del SSO&quot;.
 
 ## Livelli di profilo {#profile-levels}
 
@@ -54,10 +50,6 @@ Gli abbonamenti Adobe Marketo Engage integrati nel sistema Adobe Identity Manage
   <td>Persona a cui è stato concesso l’accesso a Marketo Engage. Nessun privilegio amministrativo.</td>
  </tr>
 </table>
-
-## Domande frequenti {#faq}
-
-Le domande frequenti [&#x200B; si trovano qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/faq.md){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

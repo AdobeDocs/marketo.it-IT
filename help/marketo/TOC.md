@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
 workflow-type: tm+mt
-source-wordcount: '9176'
+source-wordcount: '9146'
 ht-degree: 99%
 
 ---
@@ -163,16 +163,7 @@ ht-degree: 99%
          + [Panoramica su Identity Management di Adobe](product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md)
          + [Configurazione dell’amministratore](product-docs/administration/marketo-with-adobe-identity/admin-setup.md)
          + [Configurazione dell’amministratore di prodotto](product-docs/administration/marketo-with-adobe-identity/product-admin-setup.md)
-         + [Aggiungere utente solo per API per gli abbonamenti abilitati Adobe IMS](product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md)
-         + [Aggiungere o rimuovere un amministratore di prodotto](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md)
-         + [Aggiungere o rimuovere un utente](product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md)
-         + [Domande frequenti](product-docs/administration/marketo-with-adobe-identity/faq.md)
          + [Accesso utente con Adobe ID](product-docs/administration/marketo-with-adobe-identity/user-sign-in-with-adobe-id.md)
-         + Abbonamento e migrazione utente {#subscription-and-user-migration}
-            + [Migrazione ad Adobe Identity](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity.md)
-            + [Informazioni sull’abbonamento a Marketo e sulla migrazione degli utenti ad Adobe Admin Console](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console.md)
-            + [Migrazione del supporto per Marketo Engage](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/support-migration.md)
-            + [Guida alla risoluzione dei problemi](product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/troubleshooting.md)
       + Impostazioni {#settings}
          + [Informazioni API dell’esportazione in blocco](product-docs/administration/settings/bulk-export-api-information.md)
          + [Ispezionare campagna](product-docs/administration/settings/campaign-inspector.md)
@@ -205,7 +196,10 @@ ht-degree: 99%
          + [Nascondere/mostrare un canale del programma](product-docs/administration/tags/hide-unhide-a-program-channel.md)
          + [Gestire i valori tag](product-docs/administration/tags/managing-tag-values.md)
       + Utenti e ruoli {#users-and-roles}
+         + [Aggiungere o rimuovere un amministratore di prodotto](product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md)
+         + [Aggiungere o rimuovere un utente](product-docs/administration/users-and-roles/add-or-remove-a-user.md)
          + [Creare un ruolo utente solo per API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
+         + [Creare un utente solo per API](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Creare, eliminare, modificare e cambiare un ruolo utente](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
          + [Verifica dell’e-mail](product-docs/administration/users-and-roles/email-verification.md)
          + [Esportare un elenco di utenti e ruoli](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
