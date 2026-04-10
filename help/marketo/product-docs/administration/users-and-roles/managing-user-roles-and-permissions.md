@@ -4,10 +4,10 @@ description: Come impostare, creare e modificare i ruoli utente, assegnare ruoli
 title: Gestire i ruoli utente e le autorizzazioni
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '469'
-ht-degree: 10%
+source-wordcount: '463'
+ht-degree: 9%
 
 ---
 
@@ -24,16 +24,13 @@ Ad esempio, un utente marketing in genere ha bisogno di un ampio accesso in tutt
 Marketo fornisce diversi ruoli incorporati, con diversi livelli di accesso:
 
 * **Amministratore** - Tutte le parti dell&#39;applicazione, inclusa la sezione Amministratore
+* **Amministratore di prodotto Adobe**: tutte le parti dell&#39;applicazione, inclusa la sezione Amministratore
 * **Utente standard** - tutte le parti dell&#39;applicazione, ad eccezione della sezione Admin
 * **Utente marketing** - tutte le parti dell&#39;applicazione, tranne la sezione Amministratore
 * **Web Designer** - solo Design Studio
 * **Utente Analytics** - solo la sezione Analytics
 
-Non puoi modificare i ruoli Amministratore e Utente standard, ma puoi modificare gli altri. Puoi anche creare nuovi ruoli personalizzati che corrispondano alle specifiche strutture organizzative della tua azienda.
-
-## Marketo con Identity Service {#marketo-with-adobe-identity}
-
-Se utilizzi Marketo con Adobe Identity, l&#39;elenco delle descrizioni del profilo [si trova qui](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md#profile-levels).
+Non puoi eliminare i ruoli Amministratore di prodotto o Amministratore di prodotto di Adobe, ma puoi modificare/eliminare gli altri. Puoi anche creare nuovi ruoli personalizzati che corrispondano alle specifiche strutture organizzative della tua azienda.
 
 ## Assegnare ruoli a un utente {#assign-roles-to-a-user}
 

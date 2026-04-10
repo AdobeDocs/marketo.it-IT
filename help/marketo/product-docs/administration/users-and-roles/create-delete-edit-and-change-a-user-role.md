@@ -4,10 +4,10 @@ description: Passaggi per creare, eliminare e modificare i ruoli utente, inclusi
 title: Creare, eliminare, modificare e cambiare un ruolo utente
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 15%
+source-wordcount: '268'
+ht-degree: 16%
 
 ---
 
@@ -21,13 +21,10 @@ ht-degree: 15%
 
 >[!IMPORTANT]
 >
->I seguenti ruoli sono ruoli di sistema e non possono essere modificati o eliminati:
+>I seguenti ruoli sono ruoli di sistema e non possono essere eliminati:
 >
 >* Amministratore
 >* Amministratore di prodotto Adobe
->* Utente standard
->* Editor RTP
->* Utilità di avvio RTP
 
 ## Crea un Ruolo {#create-a-role}
 

@@ -3,7 +3,7 @@ description: Domande frequenti su Adobe Identity per Marketo Engage, tra cui mig
 title: Domande frequenti su Adobe Identity Management
 feature: Marketo with Adobe Identity
 exl-id: 2401def7-1696-4d77-a8a3-96c490517121
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
 workflow-type: tm+mt
 source-wordcount: '1591'
 ht-degree: 98%
@@ -57,9 +57,9 @@ Sì. Gli utenti per i quali è stato eseguito l’onboarding in Adobe IMS non po
 
 **A chi bisogna rivolgersi per assistenza in caso di integrazione con IMS?**
 
-* Prima della migrazione degli utenti: registra un casi di supporto nella [community Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o tramite e-mail all¦indirizzo `customercare@marketo.com`.
+* Prima della migrazione degli utenti: registra un casi di supporto nella [community Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o tramite e-mail all¦indirizzo `marketocares@adobe.com`.
 
-* Dopo la migrazione degli utenti: registra un caso di supporto nella [community Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o tramite e-mail all’indirizzo `customercare@marketo.com`.
+* Dopo la migrazione degli utenti: registra un caso di supporto nella [community Marketing Nation](https://nation.marketo.com/t5/support/ct-p/Support) o tramite e-mail all’indirizzo `marketocares@adobe.com`.
 
 * Dopo il completamento della migrazione del supporto: gli amministratori del supporto del prodotto possono aprire casi tramite il portale di assistenza Experience League.
 
