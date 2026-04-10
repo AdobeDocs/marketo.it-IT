@@ -7,14 +7,14 @@ level: Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 02d809b2c44e8c852375d8944819660cd4f9c6ad
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '365'
 ht-degree: 2%
 
 ---
 
-# Modificare i modelli e-mail con l’editor HTML avanzato {#email-template-expert-mode}
+# Modificare i modelli e-mail con l’editor HTML avanzato {#advanced-html-mode}
 
 La modalità avanzata di HTML consente di visualizzare e modificare il codice sorgente non elaborato dei modelli e-mail direttamente dall&#39;interfaccia di Designer e-mail [!DNL Marketo Engage].
 
@@ -40,13 +40,13 @@ Per aprire l’editor di HTML avanzato e modificare l’origine del modello, seg
 
 1. Aprire o [creare un modello di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-template-authoring.md#create-an-email-template) in E-mail Designer.
 
-1. Nella schermata Modifica modello e-mail, fai clic sul pulsante HTML nell’angolo in alto a destra.
+1. Nella schermata _Modifica modello e-mail_, fai clic sul pulsante HTML nell&#39;angolo in alto a destra.
 
-   SCHERMATA
+   ![](assets/advanced-html-mode-1.png){width="800" zoomable="yes"}
 
 1. La prima volta che apri l’editor di HTML avanzato, viene visualizzato un messaggio di avviso. Al termine, rivedi il clic **[!UICONTROL OK]**.
 
-   SCHERMATA
+   ![](assets/advanced-html-mode-2.png)
 
    >[!NOTE]
    >
@@ -54,7 +54,7 @@ Per aprire l’editor di HTML avanzato e modificare l’origine del modello, seg
 
 1. Viene visualizzato l’editor HTML avanzato.
 
-   SCHERMATA
+   ![](assets/advanced-html-mode-3.png){width="800" zoomable="yes"}
 
 1. Aggiungi le modifiche desiderate al contenuto dell’e-mail.
 
@@ -64,7 +64,7 @@ Per aprire l’editor di HTML avanzato e modificare l’origine del modello, seg
 
 1. La simulazione e il salvataggio dei contenuti non sono disponibili nella visualizzazione HTML avanzata per motivi di compatibilità. Torna alla vista Desktop per visualizzare in anteprima il contenuto e salvare le modifiche.
 
-   SCHERMATA
+   ![](assets/advanced-html-mode-4.png){width="800" zoomable="yes"}
 
    >[!NOTE]
    >
