@@ -14,7 +14,7 @@ ht-degree: 9%
 
 >[!NOTE]
 >
->**Gli amministratori di sistema** vengono creati solo a livello di organizzazione Adobe. Se pensi di averne bisogno più di uno, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support).
+>**Gli amministratori di sistema** vengono creati solo a livello di organizzazione Adobe. Se pensi di averne bisogno più di uno, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support).
 
 ## Aggiungi un amministratore prodotto {#add-a-product-admin}
 
