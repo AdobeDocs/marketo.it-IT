@@ -3,7 +3,7 @@ description: Panoramica di Adobe Identity Management per Marketo Engage, inclusi
 title: Panoramica su Identity Management di Adobe
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 3%
@@ -54,5 +54,5 @@ Gli abbonamenti Adobe Marketo Engage integrati nel sistema Adobe Identity Manage
 >[!MORELIKETHIS]
 >
 >* [Installazione amministratore](/help/marketo/product-docs/administration/marketo-with-adobe-identity/admin-setup.md){target="_blank"}
->* [Aggiungi o rimuovi amministratore prodotto](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-product-admin.md){target="_blank"}
->* [Aggiungere o rimuovere un utente](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.md){target="_blank"}
+>* [Aggiungi o rimuovi amministratore prodotto](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-product-admin.md){target="_blank"}
+>* [Aggiungere o rimuovere un utente](/help/marketo/product-docs/administration/users-and-roles/add-or-remove-a-user.md){target="_blank"}
