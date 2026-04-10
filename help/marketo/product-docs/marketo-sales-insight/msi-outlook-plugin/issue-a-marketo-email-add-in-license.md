@@ -4,9 +4,9 @@ description: Scopri come rilasciare una licenza di Marketo Email Add-in per Outl
 title: Rilasciare una licenza del componente aggiuntivo e-mail di Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: e91e69fa361bd873b6a45342e7231b65a0a785f8
+source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '327'
 ht-degree: 4%
 
 ---
@@ -40,9 +40,9 @@ A tutti gli utenti che desiderano utilizzare il componente aggiuntivo [!DNL Outl
 
    >[!NOTE]
    >
-   >* Per installare il plug-in in remoto, lascia deselezionata la casella di controllo _Invia e-mail di registrazione_ e invia al tuo team IT la tua [chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
+   >* Per installare il plug-in in remoto, lascia deselezionata la casella di controllo _Invia messaggio di posta elettronica di registrazione con collegamento per il download_ e invia al team IT la [chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >* Se i rappresentanti commerciali hanno accesso come amministratore ai loro computer, selezionare la casella di controllo _Invia e-mail di registrazione_ ed eseguire l&#39;operazione. I destinatari dispongono di **30 giorni** per fare clic sul collegamento nell&#39;e-mail prima della scadenza.
+   >* Se i rappresentanti commerciali hanno accesso come amministratore ai loro computer, seleziona la casella di controllo _Invia e-mail di registrazione con il collegamento per il download_ ed è tutto pronto. I destinatari dispongono di **30 giorni** per fare clic sul collegamento nell&#39;e-mail prima della scadenza.
 
 >[!MORELIKETHIS]
 >
