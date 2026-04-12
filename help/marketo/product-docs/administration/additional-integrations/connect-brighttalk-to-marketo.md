@@ -4,7 +4,7 @@ description: Connetti il tuo canale  [!DNL BrightTALK]  a Marketo tramite Launch
 title: Connetti [!DNL BrightTALK] a Marketo
 exl-id: 5c6a12ec-301b-4dec-975c-24ec759ebb37
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: acfa5e91f30a90c3bdf349ffe36861d000bf3f51
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 3%
@@ -33,7 +33,7 @@ Scopri come collegare il canale [!DNL BrightTALK] all&#39;istanza Marketo. A que
 
 1. Crea un ruolo utente [solo API](/help/marketo/product-docs/administration/users-and-roles/create-an-api-only-user-role.md){target="_blank"}.
 
-1. [Crea un utente API](/help/marketo/product-docs/administration/marketo-with-adobe-identity/add-api-only-user-for-adobe-ims-enabled-subscriptions.md){target="_blank"}, utilizzando il ruolo API [!DNL BrightTALK] creato durante il passaggio 4.
+1. [Crea un utente API](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"}, utilizzando il ruolo API [!DNL BrightTALK] creato durante il passaggio 4.
 
 1. Torna all&#39;area **[!UICONTROL Admin]**.
 
