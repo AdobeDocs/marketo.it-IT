@@ -4,9 +4,9 @@ description: Elenco di riferimento di tutte le autorizzazioni dei ruoli in Marke
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
 workflow-type: tm+mt
-source-wordcount: '1468'
+source-wordcount: '1320'
 ht-degree: 1%
 
 ---
@@ -32,10 +32,10 @@ Quando [crei o modifichi un ruolo](/help/marketo/product-docs/administration/use
 Visualizza e modifica le impostazioni nella sezione Account personale dell’amministratore.
 
 * Accedere ad Adobe Connect: consente agli utenti di accedere alla schermata Adobe Connect
-* Accedi a Adobe Experience Manager&#42; - Consente agli utenti di accedere alla schermata Adobe Experience Manager
-* Accedi a Mapping organizzazione Adobe&#42;: consente agli utenti di accedere alla schermata Mapping organizzazione Adobe
-* Accesso Admin Audit Trail&#42; - Consente agli utenti di accedere alla schermata Admin Audit Trail
-* Accesso alla prova di verifica dell&#39;accesso&#42; - Consente agli utenti di accedere alla prova di verifica dell&#39;accesso
+* Accedi a Adobe Experience Manager: consente agli utenti di accedere alla schermata Adobe Experience Manager
+* Accedi a Mapping organizzazione Adobe: consente agli utenti di accedere alla schermata Mapping organizzazione Adobe
+* Accedere ad Admin Audit Trail (Admin Audit Trail): consente agli utenti di accedere alla schermata Admin Audit Trail (Admin Audit Trail).
+* Accedi a prova di verifica dell’accesso: consente agli utenti di accedere alla prova di verifica dell’accesso
 * Accedi a Audit Trail: consente agli utenti di accedere sia ad Asset Audit Trail che ad Admin Audit Trail
 * Accedere a CAPTCHA: accedere alla schermata CAPTCHA
 * Accesso ai canali: consente agli utenti di accedere solo per modificare il tag Canale, non altri tag personalizzati
@@ -51,11 +51,11 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Posizione di accesso: consente agli utenti di accedere alla posizione in Amministratore per impostare lingua, lingua, fuso orario e valuta predefiniti
 * Cronologia accesso - Consente agli utenti di accedere alla Cronologia accesso utente in Audit Trail
 * Impostazioni di accesso - Consente agli utenti di accedere alle impostazioni di accesso in Amministratore per sicurezza, restrizioni IP e impostazioni dei rapporti degli elenchi avanzati
-* Accedi alla nuova esperienza&#42; - Consente agli utenti di accedere alla schermata Nuova esperienza
+* Accedi a nuova esperienza: consente agli utenti di accedere alla schermata Nuova esperienza
 * Accedi all’attività personalizzata di Marketo: consente agli utenti di accedere alle attività personalizzate di Marketo in Amministratore
 * Accedi a oggetto personalizzato Marketo: consente agli utenti di accedere a oggetti personalizzati Marketo in Amministrazione
 * Accesso a [!DNL Munchkin]: gli utenti GIves accedono a [!DNL Munchkin] in Admin per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
-* Accedi a Predictive Audiences&#42; - Consente agli utenti di accedere alla schermata Predictive Audiences
+* Accedere a Predictive Audiences: consente agli utenti di accedere alla schermata Predictive Audiences (Tipi di pubblico predittivi)
 * Accedere ad Analytics per il ciclo dei ricavi: consente agli utenti di accedere ad Analytics per il ciclo dei ricavi in Admin, per impostare Riepilogo sincronizzazione e Attribuzione
 * Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
 * Accesso a Sales Insight: consente agli utenti di gestire Sales Insight in Admin (Amministrazione) per impostare lo stato, la configurazione API, il punteggio persona e altre impostazioni
@@ -67,8 +67,6 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accesso agli utenti: consente agli utenti di modificare e gestire gli utenti (ma non i ruoli) in Amministratore
 * Accedi ai webhook: consente agli utenti di accedere ai webhook in Admin, per impostare dettagli e mappature di risposta
 * Accesso alle aree di lavoro e alle partizioni: consente agli utenti di creare, modificare ed eliminare aree di lavoro e partizioni in Admin
-
-_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## API di accesso  {#access-api}
 
@@ -102,11 +100,9 @@ Consente agli utenti con **Solo API** **Ruolo** di accedere alle singole API ele
 Consente agli utenti di accedere alle schede di Analytics, a Informazioni e-mail, ai rapporti e ai tre elementi seguenti, a meno che non siano deselezionati.
 
 * Accesso a Gestione ricavi: l&#39;annullamento della selezione comporta la rimozione dell&#39;accesso dell&#39;utente a Gestione ricavi
-* Crea report&#42; - Consente agli utenti di creare, clonare, leggere, aggiornare e spostare le risorse report in Analytics e nelle attività di marketing, nonché le risorse Modeler del ciclo dei ricavi
+* Crea rapporto: consente agli utenti di creare, clonare, leggere, aggiornare e spostare le risorse dei rapporti nelle attività di analisi e marketing, nonché le risorse del ciclo dei ricavi Modeler
 * Elimina rapporto: se si deseleziona, viene rimossa la possibilità dell’utente di eliminare rapporti
 * Esporta dati di Analytics: se si deseleziona, viene rimossa la possibilità dell’utente di esportare dati di Analytics
-
-_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Accedere alle presentazioni del calendario {#access-calendar-presentations}
 
@@ -178,7 +174,7 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
    * Modifica segmentazione
 
 * Eliminare persona
-* Crea elenco&#42;
+* Crea elenco
    * Accesso per creare una risorsa elenco nelle attività di database e marketing
    * Accesso per creare una risorsa di elenco avanzato in attività di database e marketing
 * Elimina elenco
@@ -190,8 +186,6 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
 * Esegui azioni a flusso singolo: consente agli utenti di eseguire il passaggio di flusso **Modifica valore dati** sulle persone dal database
 
 * Visualizza dati opportunità: nasconde le informazioni sull’opportunità nella pagina dei dettagli della persona.
-
-_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Accedere alle attività di marketing {#access-marketing-activities}
 
@@ -225,8 +219,6 @@ Accedere a SEO
 
 * Amministrare SEO
 * SEO standard
-
-_&#42;Per evitare interruzioni per gli utenti esistenti, questa autorizzazione viene introdotta in modalità passiva ed è visibile ma non accessibile in questo momento. Comunicheremo come implementarlo quando diventerà attivo a metà del 2024._
 
 ## Targeting e Personalization {#targeting-and-personalization}
 
