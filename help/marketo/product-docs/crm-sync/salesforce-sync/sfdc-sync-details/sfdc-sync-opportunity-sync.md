@@ -4,7 +4,7 @@ description: Scopri come funziona la sincronizzazione delle opportunità da Sale
 title: Sincronizzazione SFDC - Sincronizzazione opportunità
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 4%
@@ -27,7 +27,7 @@ No, non puoi. Le modifiche apportate a qualsiasi opportunità in [!DNL Salesforc
 
 ## Marketo supporta più di una valuta nell’importo dell’opportunità? {#does-marketo-support-more-than-one-currency-in-the-opportunity-amount}
 
-No, Marketo supporta una sola valuta. L&#39;importo dell&#39;opportunità verrà sincronizzato da [!DNL Salesforce], ma la valuta sarà la [valuta predefinita](/help/marketo/product-docs/administration/settings/set-default-location-settings-for-a-subscription.md#set-the-default-currency-settings-for-a-subscription) nella sottoscrizione Marketo.
+No, Marketo supporta una sola valuta. L&#39;importo dell&#39;opportunità verrà sincronizzato da [!DNL Salesforce], ma la valuta sarà la [valuta predefinita](/help/marketo/product-docs/administration/settings/set-default-currency.md) nella sottoscrizione Marketo.
 
 ## In che modo Marketo associa opportunità e contatti? {#how-does-marketo-associate-opportunities-and-contacts}
 

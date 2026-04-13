@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '9146'
+source-wordcount: '9129'
 ht-degree: 99%
 
 ---
@@ -168,8 +168,6 @@ ht-degree: 99%
          + [Informazioni API dell’esportazione in blocco](product-docs/administration/settings/bulk-export-api-information.md)
          + [Ispezionare campagna](product-docs/administration/settings/campaign-inspector.md)
          + [Modificare le impostazioni di attribuzione per Analytics](product-docs/administration/settings/change-attribution-settings-for-analytics.md)
-         + [Modifica la password di Marketo](product-docs/administration/settings/change-your-marketo-password.md)
-         + [Modificare le impostazioni di protezione della password](product-docs/administration/settings/change-your-password-security-settings.md)
          + [Creare una scheda personalizzata per la pagina Dettagli persona](product-docs/administration/settings/creating-a-custom-tab-for-the-person-detail-page.md)
          + [Modificare le impostazioni account](product-docs/administration/settings/edit-account-settings.md)
          + [Modificare le impostazioni di supporto al browser “Non tenere traccia”](product-docs/administration/settings/edit-do-not-track-browser-support-settings.md)
@@ -185,7 +183,7 @@ ht-degree: 99%
          + [Limitare gli accessi a Marketo in base all’IP](product-docs/administration/settings/restrict-marketo-logins-based-on-ip.md)
          + [Cambia il tuo fuso orario](product-docs/administration/settings/change-time-zone.md)
          + [Impostare una pagina di fallback](product-docs/administration/settings/set-a-fallback-page.md)
-         + [Impostare le impostazioni di posizione predefinite per un abbonamento](product-docs/administration/settings/set-default-location-settings-for-a-subscription.md)
+         + [Imposta la valuta predefinita](product-docs/administration/settings/set-default-currency.md)
          + [Informazioni sulle impostazioni della privacy](product-docs/administration/settings/understanding-privacy-settings.md)
       + Tag {#tags}
          + [Creare un nuovo tag programma e valori di tag](product-docs/administration/tags/create-a-new-program-tag-and-tag-values.md)
@@ -201,9 +199,7 @@ ht-degree: 99%
          + [Creare un ruolo utente solo per API](product-docs/administration/users-and-roles/create-an-api-only-user-role.md)
          + [Creare un utente solo per API](product-docs/administration/users-and-roles/create-api-only-user.md)
          + [Creare, eliminare, modificare e cambiare un ruolo utente](product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md)
-         + [Verifica dell’e-mail](product-docs/administration/users-and-roles/email-verification.md)
          + [Esportare un elenco di utenti e ruoli](product-docs/administration/users-and-roles/export-a-list-of-users-and-roles.md)
-         + [Gestire gli utenti di Marketo](product-docs/administration/users-and-roles/managing-marketo-users.md)
          + [Gestire i ruoli utente e le autorizzazioni](product-docs/administration/users-and-roles/managing-user-roles-and-permissions.md)
          + [Esportare ruoli e autorizzazioni](product-docs/administration/users-and-roles/export-roles-and-permissions.md)
          + [Descrizioni delle autorizzazioni per il ruolo](product-docs/administration/users-and-roles/descriptions-of-role-permissions.md)

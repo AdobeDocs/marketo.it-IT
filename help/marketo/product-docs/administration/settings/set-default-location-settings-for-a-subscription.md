@@ -1,68 +1,36 @@
 ---
 unique-page-id: 2359902
-description: Modalità di visualizzazione e modifica delle impostazioni predefinite della posizione di una sottoscrizione da parte degli amministratori, incluse lingua, impostazioni internazionali, fuso orario e valuta.
-title: Impostare le impostazioni di posizione predefinite per un abbonamento
+description: Modalità di visualizzazione e modifica della valuta predefinita della sottoscrizione Marketo Engage da parte degli amministratori.
+title: Imposta la valuta predefinita
 exl-id: 9181e22b-be60-4dc0-bc75-f4583ee5dbea
 feature: Administration
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '233'
-ht-degree: 12%
+source-wordcount: '55'
+ht-degree: 9%
 
 ---
 
-# Impostare le impostazioni di posizione predefinite per un abbonamento {#set-default-location-settings-for-a-subscription}
+# Imposta la valuta predefinita {#set-default-currency}
 
-Questo articolo descrive come un amministratore visualizzerebbe e modificherebbe le impostazioni predefinite di posizione per una sottoscrizione, tra cui lingua, lingua e fuso orario.
+Scopri come visualizzare e modificare la valuta predefinita per l’abbonamento a Marketo Engage.
 
 >[!NOTE]
 >
->Diritti di amministrazione richiesti. Il linguaggio non è in genere un elemento che l’amministratore potrebbe modificare. Viene specificato al momento dell’acquisto in modo che l’abbonamento possa essere generato nella lingua appropriata.
-
-## Impostare le impostazioni di posizione predefinite per un abbonamento {#set-default-location-settings-for-a-subscription-1}
-
-Quando un amministratore modifica le impostazioni predefinite del percorso, gli utenti appena creati ereditano queste impostazioni. Gli utenti possono [modificare il proprio fuso orario](/help/marketo/product-docs/administration/settings/change-time-zone.md) nei propri account individuali.
+>**Autorizzazioni amministratore richieste.**
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
-   ![](assets/set-default-location-settings-for-a-subscription-1.png)
+   ![](assets/set-default-currency-1.png)
 
 1. Fai clic su **[!UICONTROL Location]**.
 
-   ![](assets/set-default-location-settings-for-a-subscription-2.png)
-
-1. Fai clic su **[!UICONTROL Edit]**.
-
-   ![](assets/set-default-location-settings-for-a-subscription-3.png)
-
-   Questo abbonamento è stato creato in inglese. Supponiamo che tu sia a Londra e desideri modificare la lingua e il fuso orario predefiniti. La lingua determina la formattazione di numeri, date e ore.
-
-1. Selezionare **[!UICONTROL Locale]** e modificarlo in **[!UICONTROL English (United Kingdom)]**.
-
-   ![](assets/set-default-location-settings-for-a-subscription-4.png)
-
-1. Infine, scegliere il **[!UICONTROL Time Zone]** appropriato.
-
-   ![](assets/set-default-location-settings-for-a-subscription-5.png)
-
-   >[!NOTE]
-   >
-   >Marketo Sales Insight per [Salesforce.com](https://salesforce.com/) supporta francese, tedesco, giapponese, portoghese e spagnolo.
-
-## Impostare le impostazioni di valuta predefinite per una sottoscrizione {#set-the-default-currency-settings-for-a-subscription}
-
-Se si stanno modificando le impostazioni internazionali predefinite per gli utenti, è possibile modificare anche le impostazioni del formato valuta.
+   ![](assets/set-default-currency-2.png)
 
 1. Fare clic su **[!UICONTROL Edit]** in [!UICONTROL Subscription Currency Settings].
 
-   ![](assets/set-default-location-settings-for-a-subscription-6.png)
+   ![](assets/set-default-currency-3.png)
 
 1. Selezionare il formato valuta desiderato e fare clic su **[!UICONTROL Save]**.
 
-   ![](assets/set-default-location-settings-for-a-subscription-7.png)
-
-   Congratulazioni! Hai modificato le impostazioni di posizione per l’abbonamento.
-
->[!MORELIKETHIS]
->
->* [Cambia il tuo fuso orario](/help/marketo/product-docs/administration/settings/change-time-zone.md)
+   ![](assets/set-default-currency-4.png)

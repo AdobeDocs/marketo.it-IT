@@ -4,10 +4,10 @@ description: Come impostare, creare e modificare i ruoli utente, assegnare ruoli
 title: Gestire i ruoli utente e le autorizzazioni
 exl-id: e0213c5f-04e0-41a9-ac7b-873e2e39ac79
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 9%
+source-wordcount: '457'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +34,7 @@ Non puoi eliminare i ruoli Amministratore di prodotto o Amministratore di prodot
 
 ## Assegnare ruoli a un utente {#assign-roles-to-a-user}
 
-Puoi assegnare ruoli a un utente quando [crei utenti per la prima volta](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) o [modificando un utente esistente](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md).
+Puoi assegnare ruoli a un utente quando [crei utenti per la prima volta](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md).
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

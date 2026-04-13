@@ -4,7 +4,7 @@ description: Note sulla versione - Primavera del 1916 - Documentazione di Market
 title: Note sulla versione - Primavera 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
 workflow-type: tm+mt
 source-wordcount: '786'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Email Insights è una nuovissima esperienza di analisi dei dati aggregati e-mail
 
 ![](assets/two.png)
 
-## [Selettore modelli e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
+## [Selettore di modelli per e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md) {#email-template-picker}
 
 Crea splendide e-mail utilizzando i nostri nuovi modelli Starter! Inoltre, individua rapidamente i modelli dalle miniature live.
 
@@ -57,7 +57,7 @@ Sono finiti i giorni in cui devi riapprovare tutto ogni volta che uno snippet vi
 
 Le API REST di Marketo ora supportano il controllo sulle pagine di destinazione, i modelli di pagina di destinazione e i moduli di Marketo. Gli utenti possono ora creare, aggiornare il contenuto, approvare ed eliminare queste risorse direttamente tramite l’API REST di Marketo.
 
-## [inserire nell&#39;elenco Consentiti IP in attesa dell&#39;accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
+## [IP in attesa dell&#39;accesso API](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md) {#ip-allowlisting-for-api-access}
 
 Analogamente alla funzione di inserire nell&#39;elenco Consentiti dell’IP per gli accessi degli utenti Marketo, ora gli amministratori di Marketo possono impostare un elenco Consentiti di indirizzi IP in grado di accedere alle API Marketo SOAP e REST, bloccando in tal modo l’accesso da indirizzi IP non autorizzati. Questo offre un ulteriore livello di sicurezza all’istanza Marketo e garantisce che l’accesso API sia possibile solo dall’interno della rete dell’organizzazione. I dettagli sulla configurazione sono disponibili nel [sito della documentazione di Marketo](/help/marketo/product-docs/administration/additional-integrations/create-an-allowlist-for-ip-based-api-access.md).
 
@@ -85,7 +85,7 @@ Attualmente è difficile distinguere tra istanze di Marketo, ad esempio istanze 
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 
-## [Accesso a tempo limitato per le sottoscrizioni](/help/marketo/product-docs/administration/users-and-roles/managing-marketo-users.md) {#limited-time-access-for-subscriptions}
+## Accesso limitato nel tempo per gli abbonamenti {#limited-time-access-for-subscriptions}
 
 Oggi, gli utenti sono invitati a iscriversi a Marketo per un periodo di tempo indefinito. Questa funzione consente agli amministratori di invitare gli utenti agli abbonamenti per un periodo di tempo limitato, ad esempio 2 settimane o 1 mese.
 
