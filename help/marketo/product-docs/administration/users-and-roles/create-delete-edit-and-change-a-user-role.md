@@ -4,9 +4,9 @@ description: Passaggi per creare, eliminare e modificare i ruoli utente, inclusi
 title: Creare, eliminare, modificare e cambiare un ruolo utente
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '256'
 ht-degree: 16%
 
 ---
@@ -95,10 +95,6 @@ ht-degree: 16%
    >[!NOTE]
    >
    >Le modifiche apportate al ruolo avranno effetto su tutti gli utenti associati a questo ruolo.
-
-   >[!TIP]
-   >
-   >Desideri aggiornare l’indirizzo e-mail dell’account? [Scopri come](/help/marketo/product-docs/administration/settings/edit-account-settings.md).
 
 ## Cambia il ruolo di un utente {#change-a-users-role}
 
