@@ -4,10 +4,10 @@ description: Scopri la sintassi del modello e-mail in Email Editor 2.0. Utilizza
 title: Sintassi del modello e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '2462'
-ht-degree: 99%
+ht-degree: 97%
 
 ---
 
@@ -106,7 +106,7 @@ Valore predefinito (facoltativo)
 
 Esempio:
 
-`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.marketo.com"> <a><img style="border:10px solid red;"></a> </div>`
+`<div class="mktoImg" id="exampleImg" mktoName="Example Image" mktoImgLink="https://www.adobe.com"> <a><img style="border:10px solid red;"></a> </div>`
 
 ### Opzione 2: Utilizzare un elemento \&lt;img\> {#option-use-an-img}
 
@@ -128,7 +128,7 @@ Esempio:
 
 ## Snippet {#snippets}
 
-Se definisci un’area come Snippet, gli utenti finali potranno scegliere quale [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) approvato desiderano inserirvi. Sebbene gli elementi Rich Text possano essere convertiti in Snippet all’interno dell’editor e-mail, se definisci specificatamente un’area come Snippet, questa non può essere convertita in Rich Text. Puoi specificare un’area Snippet utilizzando un `<div>` con class=“mktoSnippet”
+Se si definisce un&#39;area come Snippet, gli utenti finali potranno scegliere quale [Snippet](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md) approvato desiderano inserire in questa area. Sebbene gli elementi Rich Text possano essere convertiti in Snippet all’interno dell’editor e-mail, se definisci specificatamente un’area come Snippet, questa non può essere convertita in Rich Text. Puoi specificare un’area Snippet utilizzando un `<div>` con class=“mktoSnippet”
 
 Attributi richiesti
 
@@ -370,4 +370,4 @@ Attributi richiesti
 
 >[!CAUTION]
 >
->I contenitori possono contenere esclusivamente moduli: se è presente qualsiasi altro elemento, il contenitore viene considerato non valido. È consentito un solo contenitore per modello.
+>I contenitori possono contenere solo moduli: se è presente qualcos’altro, il contenitore viene considerato non valido. È consentito un solo contenitore per modello.

@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
 workflow-type: tm+mt
 source-wordcount: '9129'
 ht-degree: 99%
@@ -933,7 +933,7 @@ ht-degree: 99%
             + [Esportare un elenco con URL personalizzati](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
             + [Includere un file ICS evento calendario in una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
             + [Reindirizzare un percorso URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Panoramica dei token](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Panoramica sui token](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Utilizzare il contenuto dinamico in una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Utilizzo del generatore di URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + Social {#social}
@@ -988,6 +988,12 @@ ht-degree: 99%
             + [Assegnare priorità al contenuto del flusso](product-docs/email-marketing/drip-nurturing/using-stream-content/prioritize-stream-content.md)
             + [Rimuovere il contenuto flusso](product-docs/email-marketing/drip-nurturing/using-stream-content/remove-stream-content.md)
       + E-mail designer {#email-designer}
+         + Brand {#brands}
+            + [Temi del brand](product-docs/email-marketing/email-designer/brands/brand-themes.md)
+            + [Applica marchio](product-docs/email-marketing/email-designer/brands/apply-brand.md)
+            + [Creare e gestire i brand](product-docs/email-marketing/email-designer/brands/manage-brands.md)
+            + [Personalizzare i brand](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
+            + [Allineamento del brand](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
          + [Panoramica](product-docs/email-marketing/email-designer/overview.md)
          + [Caratteristiche a confronto](product-docs/email-marketing/email-designer/feature-comparison.md)
          + [Authoring di e-mail](product-docs/email-marketing/email-designer/email-authoring.md)
@@ -1010,12 +1016,6 @@ ht-degree: 99%
          + [Collaborazione e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
          + [Assistente AI per E-mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
          + [Rapporto spam e-mail con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-         + Brand {#brands}
-            + [Temi del brand](product-docs/email-marketing/email-designer/brands/brand-themes.md)
-            + [Applica marchio](product-docs/email-marketing/email-designer/brands/apply-brand.md)
-            + [Creare e gestire i brand](product-docs/email-marketing/email-designer/brands/manage-brands.md)
-            + [Personalizzare i brand](product-docs/email-marketing/email-designer/brands/personalize-brands.md)
-            + [Allineamento del brand](product-docs/email-marketing/email-designer/brands/brand-alignment.md)
       + Programmi e-mail {#email-programs}
          + Creazione di un programma e-mail {#creating-an-email-program}
             + [Creare un programma e-mail](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)
