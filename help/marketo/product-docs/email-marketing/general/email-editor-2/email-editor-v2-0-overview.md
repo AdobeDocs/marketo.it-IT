@@ -4,10 +4,10 @@ description: Scopri Email Editor v2.0 e le sue funzioni. Crea e modifica le e-ma
 title: Panoramica dell’editor e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: a2c5ee6591b688ca262fbab94f0b13bae481daff
+source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 95%
+source-wordcount: '443'
+ht-degree: 85%
 
 ---
 
@@ -17,7 +17,7 @@ Panoramica dell’editor e-mail classico.
 
 >[!IMPORTANT]
 >
->Anche se non è stata impostata una data precisa, l’editor e-mail classico diventerà probabilmente obsoleto nel 2027 (la data precisa verrà annunciata non appena sarà stata definita). Si consiglia vivamente di iniziare ad adottare l’avanzato [E-mail designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, in quanto offre molte funzionalità non disponibili nell’editor classico.
+>Anche se non esiste una data esatta, l’editor e-mail classico alla fine diventerà obsoleto (verrà annunciata una data esatta in cui ne avremo uno). Si consiglia vivamente di iniziare ad adottare l&#39;avanzato [E-mail Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, in quanto dispone di molte funzionalità non disponibili nell&#39;editor classico.
 
 **Selettore di modelli per e-mail**
 
