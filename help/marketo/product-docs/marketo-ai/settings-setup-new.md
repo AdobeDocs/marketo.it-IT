@@ -3,9 +3,9 @@ description: Scopri come abilitare le autorizzazioni di Marketo AI, configurare 
 title: Impostazioni e configurazione
 hide: true
 hidefromtoc: true
-source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
+source-git-commit: 967c0accb8ac82a0b27c03de9d577cf48fb034eb
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '491'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ Scopri come abilitare le autorizzazioni e utilizzare l’area Impostazioni per v
 
 ## Autorizzazioni e ruoli {#permission-and-role}
 
-Esiste una _Build di accesso con autorizzazione AI_ e una _Build con IA_, che offre agli amministratori un maggiore controllo su quali utenti possono accedere alla funzionalità **Build con AI**. L’autorizzazione viene assegnata a livello di ruolo. Il ruolo _Build con IA_ viene fornito con l&#39;autorizzazione _Build di accesso con IA_ abilitata per impostazione predefinita.
+Esiste una build di _accesso con autorizzazione AI_ e un ruolo _Build con utente AI_, che offre agli amministratori un maggiore controllo sugli utenti che possono accedere alla funzionalità **Build con AI**. L’autorizzazione viene assegnata a livello di ruolo. Il ruolo _Build con utente AI_ viene fornito con l&#39;autorizzazione _Build di accesso con IA_ abilitata per impostazione predefinita.
 
 >[!IMPORTANT]
 >
@@ -79,6 +79,10 @@ Segui i passaggi seguenti per abilitare _Access Build con AI_ per i ruoli idonei
 
 Segui questi passaggi per assegnare un utente specifico al ruolo _Genera con utente AI_.
 
+>[!NOTE]
+>
+>Questo ruolo **only** contiene _Access Build con autorizzazioni AI_. Se desideri che l’utente abbia accesso a più di Marketo AI, assicurati di aggiungere ulteriori autorizzazioni.
+
 1. Nel tuo My Marketo, fai clic su **Amministratore**, quindi su **Utenti e ruoli**.
 
    ![](assets/settings-setup-1.png)
@@ -93,7 +97,7 @@ Segui questi passaggi per assegnare un utente specifico al ruolo _Genera con ute
 
 ### Ruolo personalizzato {#custom-role}
 
-È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Build con AI_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
+È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Build con AI_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
 
 ## Impostazioni {#settings}
 
