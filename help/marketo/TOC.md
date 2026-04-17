@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 47389ec9d7974d5f75a68bfbb0e32e8147d8eaaa
 workflow-type: tm+mt
-source-wordcount: '9129'
+source-wordcount: '9132'
 ht-degree: 99%
 
 ---
@@ -61,6 +61,7 @@ ht-degree: 99%
    + MARKETO AI {#marketo-ai}
       + [Panoramica](product-docs/marketo-ai/overview.md)
       + [Impostazioni e configurazione](product-docs/marketo-ai/settings-setup.md)
+      + [Impostazioni e configurazione](product-docs/marketo-ai/settings-setup-new.md)
       + Agenti {#agents}
          + [Importa lead](product-docs/marketo-ai/agents/import-leads.md)
          + [Controllo di qualità del programma](product-docs/marketo-ai/agents/program-qa.md)
