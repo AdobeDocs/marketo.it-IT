@@ -4,10 +4,10 @@ description: Scopri Email Editor v2.0 e le sue funzioni. Crea e modifica le e-ma
 title: Panoramica dell’editor e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: b27b9d4306040e3b22557d8065684c62f0a604e0
+source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 85%
+source-wordcount: '424'
+ht-degree: 84%
 
 ---
 
@@ -102,12 +102,6 @@ Puoi aggiungere un elemento [!UICONTROL Preheader]. Un elemento [!UICONTROL Preh
 >[!CAUTION]
 >
 >Quando si utilizza l’editor e-mail, i token non funzionano nell’elemento [!UICONTROL Preheader]. Per utilizzare un token nell’elemento [!UICONTROL Preheader], è necessario inserirne il codice HTML in un modello per e-mail.
-
-Tante nuove funzioni interessanti. Buon lavoro!
-
->[!NOTE]
->
->Per un approfondimento, guarda questo [video](https://nation.marketo.com/videos/1463).
 
 >[!MORELIKETHIS]
 >
