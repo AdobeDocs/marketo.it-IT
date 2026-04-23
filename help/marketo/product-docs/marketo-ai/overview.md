@@ -1,19 +1,24 @@
 ---
 description: Esplora la suite di agenti Marketo Engage AI progettati per automatizzare attività di marketing come il controllo qualità del programma, l’importazione dei lead, la normalizzazione dei dati e altro ancora.
 title: Panoramica di Marketo Engage AI
+beta: true
 hide: true
 hidefromtoc: true
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 491c2fc587fdeee1cbb65a8022f91c6f7c9a65be
+source-git-commit: 562442b6340d08aef492d4b3576c0d6b5f3d720d
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 2%
 
 ---
 
 # Panoramica di Marketo Engage AI {#overview}
 
 Marketo Engage AI offre una serie di agenti progettati per automatizzare noiose ma importanti funzioni di marketing.
+
+>[!NOTE]
+>
+>Questa funzione è in versione open beta ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi un riquadro di _generazione con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
 
 ## Come accedervi {#access}
 
