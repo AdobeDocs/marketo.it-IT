@@ -45,9 +45,9 @@ Add an additional branding domain when you&#39;re running multiple brands out of
 
 Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguito.
 
-1. From the _[!UICONTROL Admin]_area, select **[!UICONTROL Email]**.
+1. From the _[!UICONTROL Admin]_&#x200B;area, select **[!UICONTROL Email]**.
 
-1. On the _[!UICONTROL Domain]_tab, select the domain row and click **[!UICONTROL Add SSL]**.
+1. On the _[!UICONTROL Domain]_&#x200B;tab, select the domain row and click **[!UICONTROL Add SSL]**.
 
    ![Admin - Email - Domain - Add SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 
