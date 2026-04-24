@@ -4,10 +4,10 @@ description: Scopri come creare un segmento utilizzando un elenco di account in 
 title: Creare un segmento utilizzando un elenco di account
 exl-id: 73179ed9-2f9b-46df-abfa-6e8ebb645cc5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 6638f4a24aac6cf828f443d17b896a9dec9bca16
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 10%
+source-wordcount: '205'
+ht-degree: 8%
 
 ---
 
@@ -18,6 +18,10 @@ Ecco come creare un segmento utilizzando un Elenco account.
 >[!PREREQUISITES]
 >
 >[Crea un nuovo elenco account](/help/marketo/product-docs/target-account-management/target/account-lists.md)
+
+>[!NOTE]
+>
+>La possibilità di visualizzare gli elenchi di account in Web Personalization richiede un modulo aggiuntivo denominato &quot;Web ABM&quot;. Se non vedi gli Elenchi di account come opzione, rivolgiti al Team account di Adobe (il tuo account manager) per assistenza.
 
 1. Passa a **[!UICONTROL Segments]**.
 
