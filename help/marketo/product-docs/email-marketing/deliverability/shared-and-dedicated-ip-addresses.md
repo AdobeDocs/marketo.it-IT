@@ -1,64 +1,64 @@
 ---
 unique-page-id: 10912085
-description: Scopri gli indirizzi IP condivisi e dedicati e i relativi pro e contro. Decidi quale opzione è adatta al volume di invio e agli obiettivi di reputazione.
+description: Learn about shared and dedicated IP addresses and their pros and cons. Decide which option fits your sending volume and reputation goals.
 title: Indirizzi IP condivisi e dedicati
 exl-id: 3d7a78f4-531a-4ad7-a20b-1385bd62d1d9
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '447'
 ht-degree: 2%
 
 ---
 
 # Indirizzi IP condivisi e dedicati {#shared-and-dedicated-ip-addresses}
 
-## Che cos’è un indirizzo IP? {#what-is-an-ip-address}
+## What is an IP address? {#what-is-an-ip-address}
 
-Etichetta numerica che indica l&#39;indirizzo di un computer connesso a Internet.
+A numerical label signifying the address of a computer that is connected to the internet.
 
-## Cosa sono gli indirizzi IP condivisi? {#what-are-shared-ip-addresses}
+## What are Shared IP addresses? {#what-are-shared-ip-addresses}
 
-Si riferisce a quando più mittenti utilizzano gli stessi indirizzi IP per avviare campagne e-mail. Condividono tutti gli stessi IP di invio.
+This refers to when multiple senders utilize the same IP addresses to launch email campaigns. They all share the same sending IPs.
 
-## Che cos’è un indirizzo IP dedicato? {#what-is-a-dedicated-ip-address}
+## What is a Dedicated IP address? {#what-is-a-dedicated-ip-address}
 
-Un indirizzo IP specifico per l’utente inviato da un solo mittente.
+A user-specific IP address that only one sender sends from.
 
-## Qual è il migliore: condiviso o dedicato? {#which-is-better-shared-or-dedicated}
+## Which is better - Shared or Dedicated? {#which-is-better-shared-or-dedicated}
 
-Come al solito, ci sono pro e contro per entrambe le opzioni.
+As usual, there are pros and cons to both options.
 
-**Pro e contro di un IP dedicato**
+**Pros and Cons of a Dedicated IP**
 
-_Pro_
+_Pros_
 
-**Reputazione** - Sei completamente proprietario della tua reputazione e del tuo recapito messaggi.
-**Monitoraggio** - Il monitoraggio del reporting sul recapito messaggi consente di rispondere rapidamente alle modifiche nelle metriche di consegna.
-**Risoluzione dei problemi** - È più facile ricercare, comprendere e risolvere i problemi di consegna.
+**Reputation** - You wholly own your reputation and deliverability.
+**Monitoring** - Monitoring your deliverability reporting enables you to respond quickly to changes in your delivery metrics.
+**Issue resolution** - It&#39;s easier to research, understand, and resolve delivery issues.
 
-_Contro_
+_Cons_
 
-**Modifiche al volume** - I picchi nel volume possono influire negativamente sulla reputazione e devono essere gestiti.
-**Processo di riscaldamento IP** - La reputazione è stata creata nel tempo. Alcuni provider di servizi Internet (ISP) limitano gli indirizzi IP senza cronologia dei volumi, pertanto dovrai creare una reputazione nelle prime settimane (Marketo può aiutarti).
-**Costo** - In genere è previsto un costo aggiuntivo per l&#39;invio da un IP dedicato con qualsiasi provider.
+**Volume changes** - Spikes in volume can negatively affect your reputation and need to be managed.
+**IP warm-up process** - Reputation is built over time. Some Internet Service Providers (ISPs) throttle IP addresses with no volume history, so you will have to build a reputation over the first few weeks (Marketo can help guide you).
+**Cost** - There is usually an additional charge to send from a Dedicated IP with any provider.
 
-**Pro e contro di un IP condiviso**
+**Pros and Cons of a Shared IP**
 
-_Pro_
+_Pros_
 
-**Buoni coinquilini** - Se gli utenti che stai condividendo il tuo IP seguono le best practice di invio, ne trarrai vantaggio.
-**Frequenza di invio** - Non è necessaria alcuna frequenza di invio minima per qualificarsi per un IP condiviso, a differenza di quanto avviene con gli IP dedicati.
-**Costo** - Non esiste mai un costo aggiuntivo da inviare da un IP condiviso.
+**Good roommates** - If the folks you&#39;re sharing your IP with follow best sending practices, you would benefit.
+**Mailing frequency** - There is no minimum mailing frequency needed to qualify for a shared IP, unlike with Dedicated IPs.
+**Cost** - There is never an additional charge to send from a Shared IP.
 
-_Contro_
+_Cons_
 
-**Compagni di stanza non validi** - Se gli utenti che condividi il tuo IP sono coinvolti in pratiche di invio scadenti, le tue campagne e-mail potrebbero essere influenzate negativamente.
-**Controllo** - Hai un controllo molto minore sulla reputazione del mittente.
-**Risoluzione del problema** - Spesso può essere più difficile risolvere un problema durante l&#39;invio da IP condivisi.
+**Bad roommates** - If the folks you&#39;re sharing your IP with engage in poor sending practices, your email campaigns could be adversely affected.
+**Control** - You have much less control over your sender reputation.
+**Issue Resolution** - It can often be more difficult to resolve an issue when sending from Shared IPs.
 
 >[!NOTE]
 >
->Quando prendi una decisione, prendi in considerazione anche un altro fattore importante: il volume di invio. Se prevedi di inviare meno di 100.000 e-mail al mese, o meno di due e-mail in un mese, probabilmente non trarrai vantaggio da un IP dedicato. Inviare numeri come questo sono considerati bassi, e sarebbe difficile mantenere il tuo IP dedicato &quot;caldo&quot; abbastanza per essere considerato sicuro dai principali ISP. Fondamentalmente, se non invii abbastanza spesso, gli ISP vedranno un messaggio come un improvviso &quot;aumento&quot; di attività e potrebbero finire per bloccarlo come spam sospetto.
+>When making a decision, there&#39;s another important factor to consider: sending volume. If you plan to send less than 100,000 emails a month, or less than two mailings in a month, you probably wouldn&#39;t benefit from a Dedicated IP. Sending numbers like that are considered low, and it would be difficult to keep your Dedicated IP &quot;warm&quot; enough to be considered safe by the main ISPs. Basically, if you don&#39;t mail frequently enough, the ISPs will see a mailing as a sudden &quot;surge&quot; of activity, and may end up blocking it as suspected spam.
 
-Per maggiori informazioni o se sei interessato alla configurazione di un IP dedicato, contatta il tuo rappresentante commerciale Marketo.
+If you have any questions, or are interested in setting up a Dedicated IP, please contact your Marketo sales rep.

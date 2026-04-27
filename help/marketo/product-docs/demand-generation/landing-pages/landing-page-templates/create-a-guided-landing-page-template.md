@@ -1,44 +1,44 @@
 ---
 unique-page-id: 7515401
-description: Scopri come creare un modello di pagina di destinazione guidata in Marketo. Utilizza la sintassi per definire aree e variabili modificabili per l’editor guidato.
+description: Learn how to create a guided landing page template in Marketo. Use syntax to define editable regions and variables for the guided editor.
 title: Creare un modello di pagina di destinazione in formato guidato
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '1135'
-ht-degree: 15%
+source-wordcount: '1127'
+ht-degree: 21%
 
 ---
 
 # Creare un modello di pagina di destinazione in formato guidato {#create-a-guided-landing-page-template}
 
-I modelli di pagina di destinazione guidata hanno una sintassi speciale. Utilizza questa sintassi per specificare cosa è personalizzabile e dove il contenuto finirà su ogni pagina di destinazione creata dal modello. Solo le aree geografiche o le variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor di pagine di destinazione &quot;Guidate&quot;.
+Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the &quot;Guided&quot; landing page editor.
 
 >[!TIP]
 >
->Utilizza le buone convenzioni di denominazione e il tuo team di marketing si innamorerà di te.
+>Use good naming conventions and your marketing team will fall in love with you.
 
-Esistono due modi per dichiarare che un elemento nella pagina deve essere modificabile:
+There are two ways to declare that something on your page should be editable:
 
-* Dichiarare un oggetto come &quot;elemento&quot;. Il creatore della pagina di destinazione sarà in grado di aggiungere immagini, testo o risorse Marketo nelle aree specificate.
-* Dichiara una stringa come &quot;variabile&quot;. Il creatore della pagina di destinazione sarà in grado di sostituire tale variabile con una stringa, un colore o uno stato booleano da una leva true/false.
+* Declare an object as an &quot;element&quot;. The landing page creator will be able to add images, text, or Marketo assets into those specified regions.
+* Declare a string as a &quot;variable&quot;. The landing page creator will be able to replace that variable with a string, color, or boolean state from a true/false lever.
 
-## Elementi modificabili {#editable-elements}
+## Editable Elements {#editable-elements}
 
-Gli elementi vengono dichiarati aggiungendo un normale elemento DOM al modello, quindi decorando l’elemento con un nome di classe specifico per Marketo.
+Elements are declared by adding a normal DOM element to the template, then decorating the element with a Marketo-specific class name.
 
 ## Testo {#text}
 
-Se si definisce un&#39;area come Rich Text, gli utenti potranno modificarne il contenuto [utilizzando l&#39;Editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
+Se definisci un’area come Rich Text, gli utenti potranno modificarne il contenuto [utilizzando l’Editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
-Attributi richiesti:
-**classe**: &quot;mktoText&quot;
+Required attributes:
+**class**: &quot;mktoText&quot;
 **id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-**mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
+**mktoName**: stringa. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
 
-Facoltativo:
-Il contenuto di un elemento con la classe mktoText (se fornita) verrà utilizzato come valore predefinito per l’area modificabile.
+Optional:
+The content of an element with class mktoText (if provided) will be used as the default value for the editable region.
 
 Esempio:
 
@@ -46,15 +46,15 @@ Esempio:
 
 ## Immagine {#image}
 
-Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un tag `<div>`, che specifica un contenitore in cui verrà inserita l&#39;immagine, oppure un tag `<img>`.
+You have two options for defining editable Image Elements. You may use either a `<div>`, which specifies a container that the image will be inserted into, or an `<img>` tag.
 
 ## Opzione 1: Utilizzare un elemento `<div>` {#option-use-a-div}
 
-Attributi richiesti:
+Required attributes:
 
 class: &quot;mktoImg&quot;
-id: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
+id: ID string. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
+mktoName : String. This is the display name that will be shown in the landing page editor. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
 mktoImgClass: Stringa. Il valore verrà aggiunto all’attributo classe dell’elemento `<img>` all’interno del div.
@@ -63,7 +63,7 @@ Esempio:
 
 `<div class="mktoImg" id="exampleImg" mktoName="Example Image"></div>`
 
-## Opzione 2: Utilizzare un elemento `<img>` {#option-use-a-img}
+## Opzione 2 - Utilizzare un `<img>` {#option-use-a-img}
 
 Attributi richiesti:
 class: &quot;mktoImg&quot;
@@ -79,7 +79,7 @@ Esempio:
 
 >[!NOTE]
 >
->Quando si utilizza la versione `<img>`, il HTML sottoposto a rendering conterrà un wrapper div generato intorno al tag `<img>`. Sarà impostato su class .&quot;mktoImg.mktoGen,&quot; e verranno visualizzati:inline-block.
+>Quando si utilizza la versione `<img>`, il HTML sottoposto a rendering conterrà un wrapper div generato intorno al tag `<img>`. Verrà impostata sulla classe .&quot;mktoImg.mktoGen&quot; e verrà visualizzata:inline-block.
 
 ## Modulo {#form}
 
@@ -192,11 +192,11 @@ Facoltativo:
 
 Esempio di base:
 
-`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
-
 `<meta class="mktoBoolean" id="boolean1" mktoName="My Boolean Variable">`
 
 Esempio con tutti gli attributi:
+
+`<meta class="mktoColor" id="color" mktoName="My Color Variable" default="#336699">`
 
 Questo esempio mostra un caso d’uso comune in cui una variabile booleana controlla la visibilità di un elemento css impostando il valore della proprietà di visualizzazione css su &quot;block&quot; o &quot;none&quot; per mostrare/nascondere un elemento per id con gli stili CSS. L’editor della pagina di destinazione utilizza il nome visualizzato Mostra/Nascondi invece di OFF/ON.
 

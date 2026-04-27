@@ -1,22 +1,18 @@
 ---
-description: Contrassegna i campi come sensibili in modo che i loro valori non vengano mai precompilati nei moduli per proteggere i dati utente.
+description: Mark fields as sensitive so their values are never pre-filled in forms to protect user data.
 title: Contrassegnare un campo come sensibile
 exl-id: 23af8344-4808-4f91-95e8-9c246153c8b3
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '64'
+ht-degree: 18%
 
 ---
 
 # Contrassegnare un campo come sensibile {#mark-a-field-as-sensitive}
 
-In qualità di amministratore di Marketo, puoi contrassegnare un campo specifico come &quot;sensibile&quot; in modo che i suoi valori non vengano mai precompilati nei moduli, proteggendo in tal modo i dati sensibili degli utenti.
-
->[!NOTE]
->
->Questa funzione verrà abilitata per tutte le istanze Marketo la sera di martedì 11 maggio.
+As a Marketo Admin, you can mark a specific field as &quot;sensitive&quot; so its values never get pre-filled in forms, thereby protecting users&#39; sensitive data.
 
 1. Fai clic su **[!UICONTROL Admin]**.
 
@@ -26,12 +22,10 @@ In qualità di amministratore di Marketo, puoi contrassegnare un campo specifico
 
    ![](assets/mark-a-field-as-sensitive-2.png)
 
-1. Individuare e selezionare il campo desiderato.
+1. Find and select your desired field.
 
    ![](assets/mark-a-field-as-sensitive-3.png)
 
-1. Selezionare la casella di controllo **[!UICONTROL Mark Field as Sensitive]**.
+1. Select the **[!UICONTROL Mark Field as Sensitive]** checkbox.
 
    ![](assets/mark-a-field-as-sensitive-4.png)
-
-Ed è tutto! In futuro, i moduli Marketo abilitati per la precompilazione non visualizzeranno i dati per il campo selezionato.
