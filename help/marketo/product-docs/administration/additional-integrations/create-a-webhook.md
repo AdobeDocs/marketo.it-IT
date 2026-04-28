@@ -4,9 +4,9 @@ description: Crea un webhook in Admin per chiamare servizi web di terze parti pe
 title: Crea un  [!DNL Webhook]
 exl-id: 3e753d2d-6f33-4987-884e-8e13167cf3df
 feature: Administration, Webhooks
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '202'
 ht-degree: 3%
 
 ---
@@ -51,4 +51,4 @@ Utilizza [!DNL Webhooks] per sfruttare i servizi Web di terze parti per inviare 
 
 >[!NOTE]
 >
->Ulteriori informazioni sono disponibili nella sessione di approfondimento [[!DNL Webhooks]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.
+>Ulteriori informazioni sono disponibili nella sessione di approfondimento [[!DNL Webhooks]](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/webhooks/webhooks){target="_blank"}.

@@ -4,16 +4,16 @@ description: Integra più account  [!DNL Google AdWords]  con Marketo utilizzand
 title: Aggiungi [!DNL Google AdWords] as a [!DNL Launchpoint] Service con un account Manager
 exl-id: aac106f4-6615-49d5-a561-0dd965c7b0ff
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '292'
 ht-degree: 7%
 
 ---
 
 # Aggiungi [!DNL Google AdWords] come servizio [!DNL Launchpoint] con un account Manager {#add-google-adwords-as-a-launchpoint-service-with-a-manager-account}
 
-Collega l&#39;account [!DNL Google AdWords] a Marketo per caricare automaticamente i dati di conversione offline da Marketo a [!DNL Google AdWords]. Quindi, dall&#39;interfaccia utente di [!DNL AdWords], potrai vedere facilmente quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase dei ricavi desideri monitorare) dopo [aver aggiunto colonne personalizzate](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Queste informazioni non vengono visualizzate nell’interfaccia utente di Marketo.
+Collega l&#39;account [!DNL Google AdWords] a Marketo per caricare automaticamente i dati di conversione offline da Marketo a [!DNL Google AdWords]. Dall&#39;interfaccia utente di [!DNL AdWords], puoi vedere quali clic hanno generato lead qualificati, opportunità e nuovi clienti (o qualsiasi fase dei ricavi desideri monitorare) dopo [aver aggiunto colonne personalizzate](https://support.google.com/adwords/answer/3073556){target="_blank"} in [!DNL AdWords]. Queste informazioni non vengono visualizzate nell’interfaccia utente di Marketo.
 
 Se si dispone di più account [!DNL Google Adwords], è possibile utilizzare un account [[!DNL Google AdWords Manager Account]](https://www.google.com/adwords/manager-accounts/){target="_blank"} (precedentemente noto come [!DNL My Client Center]) per integrarli con Marketo.
 
@@ -63,7 +63,7 @@ Ulteriori informazioni sulla [funzionalità di importazione di conversione offli
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-7.png)
 
-1. Lo stato verrà visualizzato come **[!UICONTROL Success]**. Seleziona **[!UICONTROL Next]**.
+1. Lo stato viene visualizzato come **[!UICONTROL Success]**. Seleziona **[!UICONTROL Next]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-8.png)
 
@@ -88,12 +88,12 @@ Ulteriori informazioni sulla [funzionalità di importazione di conversione offli
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-11.png)
 
-1. Deseleziona gli account da non aggiornare. Fai clic su **[!UICONTROL Create]**.
+1. Deselect accounts you do not want to update. Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-google-adwords-as-a-launchpoint-service-with-a-manager-12.png)
 
-   Ora consulta l&#39;articolo correlato seguente per informazioni su come mappare [!DNL AdWords] conversioni offline nel modello di ricavo.
+   See the Related Article below for how to map [!DNL AdWords] offline conversions in your revenue model.
 
    >[!MORELIKETHIS]
    >
-   >[Imposta [!DNL Google AdWords] Conversioni nel modello di ricavi con un account Manager](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}
+   >[Set [!DNL Google AdWords] Conversions in the Revenue Model with a Manager Account](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/set-google-adwords-conversions-in-the-revenue-model-with-a-manager-account.md){target="_blank"}

@@ -1,30 +1,30 @@
 ---
 unique-page-id: 2949210
-description: Esporta i risultati delle parole chiave dalla sezione Parole chiave da condividere con il team o creare rapporti.
+description: Export keyword results from the Keywords section to share with your team or create reports.
 title: 'SEO: esportare risultati delle parole chiave'
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
 hidefromtoc: true
 feature: SEO
-source-git-commit: c669a10a65409205eb749ab9ee6b35a4b14c73c5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 10%
+source-wordcount: '174'
+ht-degree: 5%
 
 ---
 
 # SEO: esportare risultati delle parole chiave {#seo-exporting-keyword-results}
 
-Puoi esportare i risultati delle parole chiave da condividere con il team o per creare un rapporto.
+Scopri come esportare i risultati delle parole chiave da condividere con il team o creare un rapporto.
 
 >[!IMPORTANT]
 >
 >Il 31 marzo 2026, in Marketo Engage [è stata dichiarata obsoleta la funzionalità Ottimizzazione motore di ricerca](https://nation.marketo.com/t5/product-blogs/marketo-engage-seo-feature-deprecation/ba-p/359060){target="_blank"}. [seo.marketo.com](https://seo.marketo.com/) è ancora disponibile per un periodo limitato. Segui i passaggi descritti negli articoli seguenti per esportare qualsiasi dato.
 >
->* [Problemi di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
->* [Esporta risultati parole chiave](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
->* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
->* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
+>* [Problemi di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/pages/seo-export-issues-to-csv){target="_blank"}
+>* [Esporta risultati parole chiave](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/keywords/seo-exporting-keyword-results){target="_blank"}
+>* [Tendenze parole chiave di esportazione](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-keyword-trends-report#exporting-data){target="_blank"}
+>* [Esporta tendenze parole chiave concorrenti](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/additional-apps/seo/reports/seo-use-the-competitor-kw-trends-report#exporting-data){target="_blank"}
 
 1. Passare alla sezione **[!UICONTROL Keywords]**.
 

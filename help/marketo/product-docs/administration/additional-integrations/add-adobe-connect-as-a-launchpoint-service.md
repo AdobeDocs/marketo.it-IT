@@ -4,9 +4,9 @@ description: Aggiungi Adobe Connect as a LaunchPoint Service in modo che Marketo
 title: Aggiungi Adobe Connect as a [!DNL LaunchPoint] Service
 exl-id: 21beb156-6674-46a8-bdc5-345fcb4bb272
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '183'
 ht-degree: 7%
 
 ---
@@ -53,7 +53,7 @@ Marketo gestisce la registrazione e la partecipazione ai webinar su Adobe Connec
 
    >[!TIP]
    >
-   >Quando crei la password del partecipante, il valore scelto viene incluso in una stringa di query quando i collegamenti vengono inviati per l&#39;evento. Consigliamo quindi di rendere il sistema semplice e intuitivo.
+   >Quando crei la password del partecipante, il valore scelto viene incluso in una stringa di query quando i collegamenti vengono inviati per l&#39;evento. Si consiglia di renderlo di facile utilizzo per il cliente.
 
    >[!NOTE]
    >

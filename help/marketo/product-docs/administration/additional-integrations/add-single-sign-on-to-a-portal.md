@@ -4,20 +4,20 @@ description: Abilita il Single Sign-On SAML 2.0 in modo che il provider di ident
 title: Aggiungere il single sign-on a un portale
 exl-id: 72f96239-7252-4cbc-bbe1-84ac7ae7f92e
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 5%
+source-wordcount: '620'
+ht-degree: 6%
 
 ---
 
 # Aggiungere il single sign-on a un portale {#add-single-sign-on-to-a-portal}
 
-Se si dispone di un servizio directory che autentica gli utenti, è possibile consentire l&#39;accesso Single Sign-On (SSO) in Marketo. Questa funzionalità è supportata con [!DNL Security Assertion Markup Language] (SAML) versione 2.0 e successive.
+Se si dispone di un servizio directory che autentica gli utenti, è possibile consentire l&#39;accesso Single Sign-On (SSO) in Marketo. Marketo supporta questa funzione utilizzando [!DNL Security Assertion Markup Language] (SAML) versione 2.0 e successive.
 
 Marketo funziona come provider di servizi SAML (SP) e dipende da un provider di identità esterno (IdP) per l’autenticazione degli utenti.
 
-Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un utente. Quando un utente desidera utilizzare il software Marketo, l&#39;IdP invia un messaggio SAML firmato a Marketo, che funge da SP. Questo messaggio garantisce a Marketo che l&#39;utente è autorizzato a utilizzare il software Marketo.
+Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un utente. Quando un utente desidera utilizzare il software Marketo, l&#39;IdP invia un messaggio SAML firmato a Marketo, che funge da SP. Questo messaggio conferma a Marketo che l&#39;utente è autorizzato a utilizzare il software Marketo.
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ Una volta abilitato l&#39;SSO, l&#39;IdP può convalidare le credenziali di un u
 
 >[!IMPORTANT]
 >
->**not** si applica alle sottoscrizioni a cui è stato effettuato l&#39;onboarding in Adobe Identity. Le impostazioni precedenti potrebbero essere visualizzate (da prima della migrazione IMS), ma non sono più applicabili. Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe Identity, l’accesso Single Sign-On è configurato a livello di organizzazione Adobe in Adobe Admin Console. Per ulteriori informazioni, [consulta questo articolo](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"}.
+>**not** si applica alle sottoscrizioni a cui è stato effettuato l&#39;onboarding in Adobe Identity. Le impostazioni precedenti potrebbero essere visualizzate (da prima della migrazione IMS), ma non sono più applicabili. Per gli abbonamenti a cui è stato effettuato l&#39;onboarding in Adobe Identity, [Single Sign-On è configurato](https://helpx.adobe.com/it/enterprise/using/set-up-identity.html){target="_blank"} a livello di organizzazione Adobe in Adobe Admin Console.
 
 >[!NOTE]
 >
->Sei un utente di [!DNL Microsoft Azure]? Consulta la loro [esercitazione sull&#39;integrazione](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Per informazione, nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato di inoltro su `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
+>Sei un utente di [!DNL Microsoft Azure]? Consulta la loro [esercitazione sull&#39;integrazione](https://learn.microsoft.com/en-us/entra/identity/saas-apps/marketo-tutorial){target="_blank"}. Tieni presente che nel passaggio 5c dell’esercitazione è presente un errore di battitura. Impostare lo stato di inoltro su `https://<munchkinid>.mktoweb.com`, **_not_** `https://<munchkinid>.marketo.com`.
 
 ## Come inviare la richiesta {#how-to-send-the-request}
 

@@ -4,10 +4,10 @@ description: Aggiungi [!DNL Webex] Webinar come servizio LaunchPoint per sincron
 title: Aggiungi [!DNL Webex] as a [!DNL LaunchPoint] Service
 exl-id: 2c2cedde-d38f-4d53-a760-104b517afc4c
 feature: Administration, Integrations
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 9%
+source-wordcount: '97'
+ht-degree: 10%
 
 ---
 
@@ -39,11 +39,11 @@ Marketo Engage gestisce la registrazione e la partecipazione al webinar [!DNL We
 
    ![](assets/add-webex-as-a-launchpoint-service-5.png)
 
-1. Webex si aprirà in una nuova scheda. Accedi utilizzando le credenziali Webex.
+1. Webex si apre in una nuova scheda. Accedi utilizzando le credenziali Webex.
 
    ![](assets/add-webex-as-a-launchpoint-service-6.png)
 
-1. Dopo aver effettuato l&#39;accesso, la scheda verrà chiusa e la finestra modale _Nuovo servizio_ in Marketo Engage leggerà &quot;L&#39;account Webinar Webex è impostato&quot;. Fai clic su **[!UICONTROL Create]**.
+1. Dopo aver effettuato l&#39;accesso, la scheda si chiude e la finestra modale _New Service_ in Marketo Engage riporta &quot;Webex Webinars account is set&quot; (L&#39;account Webex Webinars è impostato). Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/add-webex-as-a-launchpoint-service-7.png)
 

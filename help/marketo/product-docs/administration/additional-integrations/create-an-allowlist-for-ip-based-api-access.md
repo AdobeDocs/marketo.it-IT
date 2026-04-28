@@ -4,9 +4,9 @@ description: Restrict API access to specific IP addresses or ranges via Admin We
 title: Creare un elenco Consentiti per l’accesso API basato su IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: d0c8f8d5dda0747a83e4a76004863c650998c75f
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '161'
 ht-degree: 15%
 
 ---
@@ -21,7 +21,7 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 
 >[!CAUTION]
 >
->Enabling this feature prevents you from being able to access the [Marketo MCP Server](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mcp-server){target="_blank"} at this time. This will be fixed in an upcoming release.
+>Enabling this feature prevents you from being able to access the [Marketo MCP Server](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server){target="_blank"} at this time. This is expected to be resolved in an upcoming release.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
