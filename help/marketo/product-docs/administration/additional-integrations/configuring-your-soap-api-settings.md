@@ -17,7 +17,7 @@ ht-degree: 22%
 
 >[!IMPORTANT]
 >
->L&#39;API SOAP [è stata dichiarata obsoleta](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/soap/soap-api) il 31 luglio 2026. Si consiglia di utilizzare l&#39;[API REST](https://developer.adobe.com/marketo-apis/).
+>L&#39;API SOAP [è stata dichiarata obsoleta](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/soap/soap-api) il 31 luglio 2026. Si consiglia di utilizzare l&#39;[API REST](https://developer.adobe.com/marketo-apis/).
 
 >[!NOTE]
 >

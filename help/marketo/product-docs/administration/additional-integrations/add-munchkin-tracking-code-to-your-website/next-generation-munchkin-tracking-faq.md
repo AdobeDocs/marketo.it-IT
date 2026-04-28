@@ -90,4 +90,4 @@ Consulta questi collegamenti:
 
 ## Ho altre domande! Come faccio a rispondergli? {#i-have-more-questions-how-do-i-get-them-answered}
 
-Visita la [community Marketo](https://experienceleaguecommunities.adobe.com/){target="_blank"}. È inoltre possibile contattare il Supporto tecnico Marketo. Loro sono felici di rispondere alle vostre domande.
+Visita la [community Marketo](https://experienceleaguecommunities.adobe.com/?profile.language=it){target="_blank"}. È inoltre possibile contattare il Supporto tecnico Marketo. Loro sono felici di rispondere alle vostre domande.
