@@ -28,7 +28,7 @@ Le aree di lavoro sono utili per suddividere la società. I motivi per la config
 
 >[!TIP]
 >
->Per ulteriori informazioni sulle best practice di Workspace, contattare [Marketo Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}.
+>Per ulteriori informazioni sulle best practice di Workspace, contattare [Marketo Professional Services](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"}.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
