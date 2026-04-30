@@ -4,16 +4,16 @@ description: Scopri come modificare la partizione principale di un’area di lav
 title: Modificare un’area di lavoro
 exl-id: 4c268759-5234-465b-8666-dcb47a0d7ea4
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
 source-wordcount: '144'
-ht-degree: 11%
+ht-degree: 10%
 
 ---
 
 # Modificare un’area di lavoro {#edit-a-workspace}
 
-A volte è necessario apportare modifiche in un Workspace. È facile.
+A volte è necessario apportare modifiche in un Workspace.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ A volte è necessario apportare modifiche in un Workspace. È facile.
 
 >[!NOTE]
 >
->Approfondisci le aree di lavoro con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
+>Per ulteriori informazioni sulle aree di lavoro, vedere [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md){target="_blank"}.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

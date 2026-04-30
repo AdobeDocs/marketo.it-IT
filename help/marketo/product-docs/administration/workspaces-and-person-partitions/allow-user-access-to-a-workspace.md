@@ -4,16 +4,16 @@ description: Passaggi per concedere a un utente l’accesso a una o più aree di
 title: Consentire l’accesso utente a un’area di lavoro
 exl-id: 8ccec529-ae28-4bf8-a9ba-4d9c7df809d9
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 18%
+source-wordcount: '99'
+ht-degree: 20%
 
 ---
 
 # Consentire l’accesso utente a un’area di lavoro {#allow-user-access-to-a-workspace}
 
-Le aree di lavoro possono avere qualsiasi motivo (ad esempio, separazione geografica o di business unit). Separano le risorse (elenchi avanzati, programmi, ecc.) di ciascun team. Di seguito viene illustrato come concedere a un utente l’accesso a una o più aree di lavoro.
+Le aree di lavoro possono avere qualsiasi motivo (ad esempio, separazione geografica o di business unit). Separano le risorse (elenchi avanzati, programmi, ecc.) di ogni team.
 
 >[!NOTE]
 >

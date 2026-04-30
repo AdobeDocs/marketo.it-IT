@@ -4,16 +4,16 @@ description: Passaggi per creare, eliminare e modificare i ruoli utente, inclusi
 title: Creare, eliminare, modificare e cambiare un ruolo utente
 exl-id: e5bb3184-32a6-4c5b-9d84-f3252ba5f73c
 feature: Users and Roles
-source-git-commit: c22ccca477eaf19e64aced78da2fa34bcb9732fb
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '254'
 ht-degree: 16%
 
 ---
 
 # Creare, eliminare, modificare e cambiare un ruolo utente {#create-delete-edit-and-change-a-user-role}
 
-**I ruoli** raggruppano un gruppo di autorizzazioni. **Autorizzazioni** ti consentono di eseguire operazioni in Marketo. Assegna un **ruolo** a un utente. Facile come una torta.
+**I ruoli** raggruppano un set di autorizzazioni. **Autorizzazioni** ti consentono di eseguire azioni in Marketo. Assegna un **ruolo** a un utente.
 
 >[!NOTE]
 >

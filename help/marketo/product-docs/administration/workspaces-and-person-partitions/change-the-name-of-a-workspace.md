@@ -4,10 +4,10 @@ description: Scopri come rinominare un’area di lavoro.
 title: Modificare il nome di un’area di lavoro
 exl-id: 1d714803-b1c3-49e9-874b-2555dd13a9d1
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 28%
+source-wordcount: '67'
+ht-degree: 29%
 
 ---
 
@@ -21,11 +21,11 @@ ht-degree: 28%
 >
 >[Crea un nuovo Workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md)
 
-Gli utenti possono modificare il nome di un’area di lavoro. È piuttosto semplice.
+Gli utenti possono modificare il nome di un’area di lavoro.
 
 >[!NOTE]
 >
->Comprendere prima con [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
+>Per ulteriori informazioni, vedere [Informazioni sulle aree di lavoro e sulle partizioni delle persone](/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md).
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

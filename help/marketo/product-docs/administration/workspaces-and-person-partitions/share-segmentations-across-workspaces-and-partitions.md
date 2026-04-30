@@ -4,10 +4,10 @@ description: Regole e passaggi per la condivisione delle segmentazioni tra aree 
 title: Condividere segmentazioni tra aree di lavoro e partizioni
 exl-id: b50f4328-fdba-4e39-bc0d-75bade1f9cbc
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '477'
-ht-degree: 3%
+source-wordcount: '463'
+ht-degree: 4%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 ## Cos’è una segmentazione? {#whats-a-segmentation}
 
-Marketo è in grado di individuare le persone giuste per un programma o una campagna intelligente. Tuttavia, per gli utenti tipo più permanenti, devi utilizzare le segmentazioni. Sono necessarie per utilizzare contenuti dinamici avanzati in Marketo.
+Marketo identifica le persone giuste per un programma o una campagna intelligente. Tuttavia, per gli utenti tipo più permanenti, devi utilizzare le segmentazioni. Sono necessarie per utilizzare contenuti dinamici avanzati in Marketo.
 
 >[!NOTE]
 >
@@ -31,7 +31,7 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
 * Ogni sottoscrizione di Marketo può contenere fino a 20 segmentazioni &quot;totali&quot; in più aree di lavoro (**non 20 per area di lavoro**).
 * Puoi condividere una segmentazione solo con le aree di lavoro a cui hai accesso.
-* Assicurati di creare e utilizzare un&#39;area di lavoro **predefinita con visibilità in tutte le partizioni**.
+* Crea e utilizza un&#39;area di lavoro **predefinita con visibilità in tutte le partizioni**.
 
 * L’elaborazione della segmentazione viene eseguita solo sulle persone nell’area di lavoro in cui viene creata la segmentazione.
 
@@ -46,7 +46,7 @@ Dopo aver configurato questi utenti tipo (_e_ si utilizzano le aree di lavoro), 
 
 >[!NOTE]
 >
->Alcune di queste regole sono un po&#39; complesse. Il modo più semplice per iniziare è quello di testare con persone specifiche. Puoi sempre effettuare nuove segmentazioni ed eliminare quelle vecchie.
+>Alcune di queste regole sono complesse. Si consiglia di effettuare test con persone specifiche. È possibile creare nuove segmentazioni ed eliminare quelle precedenti in base alle esigenze.
 
 ## Scenari di esempio {#example-scenarios}
 

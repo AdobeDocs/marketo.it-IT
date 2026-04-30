@@ -4,16 +4,16 @@ description: Passaggi per modificare il nome di una partizione di una persona e 
 title: Modificare una partizione persone esistente
 exl-id: 23353e93-f0f0-4f0d-b833-d870ff345b1a
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 19%
+source-wordcount: '85'
+ht-degree: 21%
 
 ---
 
 # Modificare una partizione persone esistente {#edit-an-existing-person-partition}
 
-Una partizione di persona è simile a un secondo (o terzo) database. È possibile collegare una partizione a una o più aree di lavoro. Per modificare i dettagli della partizione, procedere come segue.
+Una partizione di persona è simile a un secondo (o terzo) database. È possibile collegare una partizione a una o più aree di lavoro.
 
 >[!NOTE]
 >
@@ -39,6 +39,6 @@ Una partizione di persona è simile a un secondo (o terzo) database. È possibil
 
    ![](assets/edit-an-existing-person-partition-4.png)
 
-Dopo aver salvato le modifiche, dovresti visualizzare l’aggiornamento.
+Dopo aver salvato le modifiche, viene visualizzato l’aggiornamento.
 
 ![](assets/edit-an-existing-person-partition-5.png)

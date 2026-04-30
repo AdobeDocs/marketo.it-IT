@@ -4,10 +4,10 @@ description: Scopri come le aree di lavoro organizzano le risorse di marketing e
 title: Informazioni sulle aree di lavoro e sulle partizioni per persone
 exl-id: 27d00a0d-ebf1-4dff-b41e-1644ec9dbd28
 feature: Partitions, Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 97%
+source-wordcount: '544'
+ht-degree: 78%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 97%
 
 >[!CAUTION]
 >
->La configurazione delle aree di lavoro può essere complessa. Contatta l’[assistenza Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per verificare se fanno al caso tuo.
+>La configurazione delle aree di lavoro può essere complessa. Contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per verificare se sono adatti a te.
 
 Le aree di lavoro sono aree separate in Marketo che contengono risorse di marketing come programmi, pagine di destinazione, e-mail e altro ancora. Possono essere utilizzate da più persone. Ogni utente ha accesso a una o più aree di lavoro.
 
@@ -34,11 +34,11 @@ Le aree di lavoro sono aree separate in Marketo che contengono risorse di market
 
 >[!NOTE]
 >
->Scopri come [creare una nuova area di lavoro](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
+>Scopri come [creare un nuovo workspace](/help/marketo/product-docs/administration/workspaces-and-person-partitions/create-a-new-workspace.md).
 
 ## Condivisione tra più aree di lavoro {#sharing-across-workspaces}
 
-Ecco come condividere le risorse tra più aree di lavoro. La procedura è uguale per qualsiasi elemento che desideri condividere; per questo esempio, abbiamo utilizzato le segmentazioni.
+I passaggi seguenti spiegano come condividere le risorse tra le aree di lavoro. La procedura è uguale per qualsiasi elemento che desideri condividere; per questo esempio, abbiamo utilizzato le segmentazioni.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Ecco come condividere le risorse tra più aree di lavoro. La procedura è uguale
 
    >[!NOTE]
    >
-   >La cartella di origine presenta ora una piccola freccia verde per indicare che è stata condivisa. Nell’area di lavoro condivisa, la cartella presenta un lucchetto per indicare che è di sola lettura.
+   >La cartella di origine presenta ora una piccola freccia verde che indica che è stata condivisa. Nell’area di lavoro condivisa, la cartella presenta un lucchetto per indicare che è di sola lettura.
 
 Puoi condividere tra più aree di lavoro i seguenti elementi.
 
@@ -84,7 +84,7 @@ Puoi condividere tra più aree di lavoro i seguenti elementi.
 
 ## Clonazione tra aree di lavoro {#cloning-across-workspaces}
 
-Per le risorse che non sono modelli, è preferibile clonarle come risorse locali all’interno di un programma. Se disponi del livello di accesso appropriato, puoi trascinare queste risorse in un’altra area di lavoro:
+Per le risorse che non sono modelli, si consiglia di clonarle come risorse locali all’interno di un programma. Se disponi del livello di accesso appropriato, puoi trascinare queste risorse in un’altra area di lavoro:
 
 * Programmi
 * E-mail
@@ -105,11 +105,11 @@ Per spostare delle risorse in una nuova area di lavoro, inseriscile in una carte
 
 >[!NOTE]
 >
->Non puoi spostare un programma che contiene membri da un’area di lavoro a un’altra.
+>Un programma che contiene membri non può essere spostato da un&#39;area di lavoro a un&#39;altra.
 
 ## Partizioni per persone {#person-partitions}
 
-Le partizioni per persone si comportano come database separati. Ogni partizione ha le proprie persone che non vengono deduplicate o mescolate con altre partizioni. Se ritieni che un caso d’uso aziendale possa richiedere la duplicazione di record con lo stesso indirizzo e-mail, contatta l’[assistenza Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+Le partizioni per persone si comportano come database separati. Ogni partizione ha le proprie persone che non vengono deduplicate o mescolate con altre partizioni. Se il tuo caso d&#39;uso aziendale richiede record duplicati con lo stesso indirizzo e-mail, contatta il [supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 Puoi assegnare le partizioni per persone alle [aree di lavoro](create-a-new-workspace.md) nelle seguenti configurazioni:
 
@@ -121,7 +121,7 @@ Puoi assegnare le partizioni per persone alle [aree di lavoro](create-a-new-work
 >
 >Motivi per cui utilizzare una partizione per persone:
 >
->* Oltre ad avere risorse diverse, le tue aree di lavoro non devono condividere le stesse persone.
+>* Le aree di lavoro non dispongono solo di risorse diverse, ma non condividono nemmeno altre persone
 >* Per esigenze di business, devi poter utilizzare duplicati.
 
 >[!CAUTION]

@@ -4,10 +4,10 @@ description: Scopri come esportare un elenco di utenti e ruoli.
 title: Esportare un elenco di utenti e ruoli
 exl-id: dd3c5372-4c34-438c-8f47-34ae2d14db24
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 27%
+source-wordcount: '70'
+ht-degree: 28%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 27%
 >
 >**Autorizzazioni amministratore richieste**
 
-È piuttosto semplice esportare un elenco completo degli utenti e dei ruoli utente. Ecco come.
+Per esportare un elenco completo di utenti e ruoli utente, segui la procedura riportata di seguito.
 
 1. Passa a **[!UICONTROL Admin]**.
 
@@ -39,6 +39,6 @@ ht-degree: 27%
 
    ![](assets/export-a-list-of-users-and-roles-4.png)
 
-   E questo è tutto, gente! È necessario scaricare il nuovo file Excel.
+   Inizia il download del file Excel.
 
    ![](assets/export-a-list-of-users-and-roles-5.png)

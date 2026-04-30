@@ -3,10 +3,10 @@ description: Come aggiungere o rimuovere utenti Marketo Engage in Adobe Admin Co
 title: Aggiungere o rimuovere un utente
 exl-id: b1087d41-b548-47bd-91b7-282dc902cba3
 feature: Marketo with Adobe Identity
-source-git-commit: a6acaad889d49e9db869d812bfc5b41258680719
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '246'
-ht-degree: 9%
+source-wordcount: '260'
+ht-degree: 13%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 9%
 
    >[!IMPORTANT]
    >
-   >Per accedere a Marketo Engage, è necessario aggiungere un utente _1&rbrace; a un profilo di prodotto._
+   >Per accedere a Marketo Engage, è necessario aggiungere un utente _1} a un profilo di prodotto._
 
 1. Fai clic su **[!UICONTROL Save]**.
 

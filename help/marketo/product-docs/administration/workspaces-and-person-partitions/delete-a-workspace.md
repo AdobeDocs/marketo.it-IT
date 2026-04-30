@@ -4,10 +4,10 @@ description: Passaggi per eliminare un’area di lavoro, inclusa la conferma del
 title: Eliminare un’area di lavoro
 exl-id: 4968b8bf-bd0d-4055-8b48-43f8d3ffa991
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 23%
+source-wordcount: '55'
+ht-degree: 25%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 23%
 
    ![](assets/delete-a-workspace-3.png)
 
-1. Conferma il numero di risorse che stai per eliminare (sono elencate accanto a &quot;[!UICONTROL total assets]&quot;), seleziona la casella di controllo **[!UICONTROL Cannot Undo]**, quindi fai clic su **[!UICONTROL Delete]**.
+1. Confermare il numero di risorse da eliminare (elencate accanto a &quot;[!UICONTROL total assets]&quot;), selezionare la casella di controllo **[!UICONTROL Cannot Undo]**, quindi fare clic su **[!UICONTROL Delete]**.
 
    ![](assets/delete-a-workspace-4.png)

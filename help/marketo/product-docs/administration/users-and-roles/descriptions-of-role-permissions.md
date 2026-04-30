@@ -4,9 +4,9 @@ description: Elenco di riferimento di tutte le autorizzazioni dei ruoli in Marke
 title: Descrizioni delle autorizzazioni per il ruolo
 exl-id: 00963cd9-2d53-455f-bc6f-42a573468ff9
 feature: Users and Roles
-source-git-commit: 9d8baf635462f287a05955b8563bf7866049d94a
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '1320'
+source-wordcount: '1344'
 ht-degree: 1%
 
 ---
@@ -54,7 +54,7 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accedi a nuova esperienza: consente agli utenti di accedere alla schermata Nuova esperienza
 * Accedi all’attività personalizzata di Marketo: consente agli utenti di accedere alle attività personalizzate di Marketo in Amministratore
 * Accedi a oggetto personalizzato Marketo: consente agli utenti di accedere a oggetti personalizzati Marketo in Amministrazione
-* Accesso a [!DNL Munchkin]: gli utenti GIves accedono a [!DNL Munchkin] in Admin per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
+* Accesso a [!DNL Munchkin]: consente agli utenti di accedere a [!DNL Munchkin] in Admin per impostare il codice di tracciamento, il tracciamento delle persone e abilitare la configurazione API
 * Accedere a Predictive Audiences: consente agli utenti di accedere alla schermata Predictive Audiences (Tipi di pubblico predittivi)
 * Accedere ad Analytics per il ciclo dei ricavi: consente agli utenti di accedere ad Analytics per il ciclo dei ricavi in Admin, per impostare Riepilogo sincronizzazione e Attribuzione
 * Ruoli di accesso: consente agli utenti di gestire e modificare i ruoli, ma non gli utenti
@@ -179,7 +179,7 @@ Visualizzare il database e visualizzare e modificare gli elenchi smart/static.
    * Accesso per creare una risorsa di elenco avanzato in attività di database e marketing
 * Elimina elenco
 * Modifica persona: impedisce la modifica manuale e l’esecuzione di passaggi a flusso singolo; è comunque possibile modificare le persone eseguendo campagne su di esse
-* Esporta persona - Esporta fogli di calcolo con dagli elenchi del database
+* Esporta persona - Esporta i fogli di calcolo dagli elenchi del database
 * Importa oggetto personalizzato
 * Importa elenco
 * Unisci persone

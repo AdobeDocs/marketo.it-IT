@@ -4,10 +4,10 @@ description: Come impostare regole di assegnazione per indirizzare le persone da
 title: Assegnare partizioni persone con regole di assegnazione
 exl-id: 6b54dcb7-8da9-466b-b153-099ebcb96424
 feature: Partitions
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 12%
+source-wordcount: '160'
+ht-degree: 13%
 
 ---
 
@@ -63,7 +63,7 @@ Quando si utilizzano le partizioni persona, impostare le regole di assegnazione 
 
    ![](assets/assigning-person-partitions-with-assignment-rules-8.png)
 
-Ed eccola qui! Hai assegnato regole per riempire le partizioni delle persone con le persone.
+Le regole di assegnazione per le partizioni persona sono state configurate.
 
 >[!NOTE]
 >

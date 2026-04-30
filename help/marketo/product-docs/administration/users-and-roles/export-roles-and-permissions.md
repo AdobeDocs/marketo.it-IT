@@ -3,20 +3,20 @@ description: Scopri come esportare tutti i ruoli e le relative autorizzazioni.
 title: Esportare ruoli e autorizzazioni
 exl-id: 2c3ee917-dc8c-40e1-a6e6-f6cb059963f6
 feature: Users and Roles
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 19%
+source-wordcount: '85'
+ht-degree: 22%
 
 ---
 
 # Esportare ruoli e autorizzazioni {#export-roles-and-permissions}
 
-Ecco come esportare tutti i ruoli e le relative autorizzazioni.
+Nei passaggi seguenti viene illustrato come esportare tutti i ruoli e le relative autorizzazioni.
 
 >[!NOTE]
 >
->Autorizzazioni amministratore richieste
+>**Autorizzazioni amministratore richieste**
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

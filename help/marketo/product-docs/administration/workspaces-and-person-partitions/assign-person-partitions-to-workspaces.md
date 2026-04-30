@@ -4,16 +4,16 @@ description: Scopri come modificare le partizioni di persone assegnate a un’ar
 title: Assegnare partizioni persone alle aree di lavoro
 exl-id: 84c539f0-ca68-4be3-a462-cbe9d191dbb6
 feature: Workspaces
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 15%
+source-wordcount: '133'
+ht-degree: 19%
 
 ---
 
 # Assegnare partizioni persone alle aree di lavoro {#assign-person-partitions-to-workspaces}
 
-Di seguito viene illustrato come modificare le assegnazioni della partizione persona/area di lavoro:
+Per modificare le assegnazioni di partizioni persona e area di lavoro, attenersi alla procedura descritta di seguito.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Di seguito viene illustrato come modificare le assegnazioni della partizione per
    >
    >* La casella di controllo &quot;[!UICONTROL All Person Partitions]&quot; indica che l&#39;area di lavoro ha accesso a tutte le partizioni persona nel sistema.
    >
-   >* Le partizioni di persona primarie sono quelle predefinite in cui vengono immesse tutte le persone. Utilizza [passaggi di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [regole di assegnazione](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} per spostare le persone.
+   >* Le partizioni persona primarie sono quelle predefinite in cui verranno immesse tutte le persone. Utilizza [passaggi di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step.md) o [regole di assegnazione](/help/marketo/product-docs/administration/workspaces-and-person-partitions/assigning-person-partitions-with-assignment-rules.md){target="_blank"} per spostare le persone tra le partizioni.
 
 1. Fai clic su **[!UICONTROL Save]**.
 
@@ -56,8 +56,6 @@ Di seguito viene illustrato come modificare le assegnazioni della partizione per
 Dopo il salvataggio, dovresti vedere le modifiche.
 
 ![](assets/assign-person-partitions-to-workspaces-6.png)
-
-L&#39;area di lavoro è stata modificata.
 
 >[!MORELIKETHIS]
 >
