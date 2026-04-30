@@ -3,9 +3,9 @@ description: Modello per pagina di destinazione Quick Start. Utilizzalo per crea
 title: Modello di pagina di destinazione per avvio rapido
 feature: Programs
 exl-id: edd60476-31bc-40f1-ae9d-9fcd3d41501c
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '473'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ Alcuni dei programmi iniziali nella Libreria di riferimento di Marketo Engage co
 >
 >Ulteriori informazioni su [Modelli di pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md){target="_blank"}
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo sezioni {#sections-summary}
 

@@ -3,10 +3,10 @@ description: Modello di programma per newsletter. Utilizzala per newsletter e-ma
 title: Newsletter NL-MM-AAAA
 feature: Programs
 exl-id: bce05e0f-e288-4614-9d05-c14844615454
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 8%
+source-wordcount: '293'
+ht-degree: 10%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 8%
 
 In questo esempio viene inviata un’e-mail alla newsletter utilizzando un programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -144,4 +144,4 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;01-Engaged&quot; per il successo del tracciamento. Esegui questa operazione _prima_ che il modulo sia attivo e che le e-mail vengano inviate.
+>Attiva la campagna &quot;01-Engaged&quot; per il successo del tracciamento prima che il modulo venga live e che le e-mail vengano inviate.

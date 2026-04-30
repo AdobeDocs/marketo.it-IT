@@ -4,10 +4,10 @@ description: Scopri come utilizzare i tag in un programma. Aggiungi i tag per or
 title: Utilizzare i tag in un programma
 exl-id: f1bae623-a710-472a-a30f-9044ce1001f5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 16%
+source-wordcount: '163'
+ht-degree: 15%
 
 ---
 
@@ -37,7 +37,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
    ![](assets/use-tags-in-a-program-4.png)
 
-1. Proprio così. Il nuovo tag verrà visualizzato nell’area di lavoro.
+1. Il nuovo tag viene ora visualizzato nell’area di lavoro.
 
    ![](assets/use-tags-in-a-program-5.png)
 
@@ -55,7 +55,7 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
    ![](assets/use-tags-in-a-program-8.png)
 
-1. Fantastico! Dovresti vedere le modifiche nell’area di lavoro.
+1. Le modifiche ora dovrebbero riflettersi nell’area di lavoro.
 
    ![](assets/use-tags-in-a-program-9.png)
 
@@ -69,4 +69,4 @@ I tag sono attributi che descrivono i programmi e vengono utilizzati per raggrup
 
    ![](assets/use-tags-in-a-program-11.png)
 
-Ottimo lavoro. I programmi con tag coerenti semplificano notevolmente l&#39;esecuzione dei report.
+I programmi con tag coerenti rendono più efficiente la generazione di rapporti.

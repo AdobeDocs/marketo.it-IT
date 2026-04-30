@@ -3,10 +3,10 @@ description: Modello del programma del webinar. Utilizzala per i webinar con una
 title: Programma del webinar WBN-GG-MM-AAAA
 feature: Programs
 exl-id: 0506606e-d09a-42d2-949f-a65371a29c00
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '597'
-ht-degree: 15%
+source-wordcount: '621'
+ht-degree: 16%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 15%
 
 Questo è un esempio di un programma di webinar con gestione della registrazione, tre e-mail di invito, promemoria per la partecipazione e e-mail di follow-up che utilizzano un programma di eventi di Marketo Engage.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -310,7 +310,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 ## Best practice {#best-practices}
 
-* Se utilizzi un provider di webinar integrato, non dimenticare di collegare il programma Marketo Engage al tuo webinar nel sistema di hosting.
+* Se utilizzi un provider di webinar integrato, collega il programma Marketo Engage al tuo webinar nel sistema di hosting.
 
 * Dopo aver importato il programma del webinar, spostare il modulo da una risorsa locale a una risorsa globale disponibile in Design Studio.
    * La riduzione del numero di moduli e l’utilizzo di più risorse globali da Design Studio consentono una maggiore scalabilità nella progettazione dei programmi e nella governance amministrativa. Offre inoltre flessibilità per gli aggiornamenti regolari sulla conformità per campi, lingua di consenso, ecc.
@@ -325,7 +325,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;05 - Partecipazione avvenuta (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che le e-mail vengano inviate.
+>Attiva la campagna &quot;05 - Partecipazione avvenuta (programma riuscito)&quot; per monitorare il successo prima dell’invio delle e-mail.
 
 >[!IMPORTANT]
 >

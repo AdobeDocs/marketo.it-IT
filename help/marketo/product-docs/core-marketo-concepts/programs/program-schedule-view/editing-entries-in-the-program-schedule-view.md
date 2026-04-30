@@ -4,10 +4,10 @@ description: Scopri come modificare le voci nella Vista pianificazione del progr
 title: Modifica delle voci nella vista Pianificazione del programma
 exl-id: f04cfb84-ff96-4f4e-ab0d-d4b0b95a9f9c
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 9%
+source-wordcount: '143'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a3-3a22.png)
 
-1. Fantastico! La descrizione è stata modificata.
+1. La descrizione è stata aggiornata.
 
    ![](assets/image2014-9-18-18-3a3-3a48.png)
 
@@ -49,7 +49,7 @@ Puoi apportare modifiche ai diversi elementi del programma nella vista Pianifica
 
    ![](assets/image2014-9-18-18-3a4-3a39.png)
 
-Sasso! Ora la data della voce è stata spostata in una nuova data.
+La data della voce è stata aggiornata.
 
 >[!NOTE]
 >

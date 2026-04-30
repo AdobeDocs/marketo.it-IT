@@ -4,9 +4,9 @@ description: Scopri come modificare le impostazioni del comportamento di Analyti
 title: Modificare le impostazioni comportamento di Analytics
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '178'
 ht-degree: 7%
 
 ---
@@ -47,7 +47,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-24-11-3a42-3a6.png)
 
-Ben fatto! Ora sai come ignorare il comportamento di analisi a livello di programma.
+Il comportamento di analisi è stato sostituito a livello di programma.
 
 >[!NOTE]
 >

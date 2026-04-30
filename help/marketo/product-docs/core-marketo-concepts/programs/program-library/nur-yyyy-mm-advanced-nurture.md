@@ -3,10 +3,10 @@ description: Modello di programma Advanced Nurture. Utilizzatelo per l'allevamen
 title: Nurturing avanzato NUR-MM-AAAA
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '497'
-ht-degree: 10%
+source-wordcount: '508'
+ht-degree: 11%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 10%
 
 Questo è un esempio di programmi di sviluppo avanzati che utilizzano il programma Marketo Engage Engagement. I programmi e-mail nidificati impediscono agli utenti di ricevere contenuti già utilizzati o controllano il tipo di contenuto da utilizzare in ciascun flusso. È possibile eseguire rapporti di attribuzione per ogni singolo programma e-mail nidificato. Canali: &quot;Nurture&quot; e un canale dedicato &quot;Nurture Email&quot; per i Programmi e-mail nidificati invia un’e-mail alla newsletter utilizzando un Programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -213,4 +213,4 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;04 - Coinvolto (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che le e-mail vengano inviate.
+>Attiva la campagna &quot;04 - Coinvolto (Programma riuscito)&quot; per monitorare il successo prima che le e-mail vengano inviate.

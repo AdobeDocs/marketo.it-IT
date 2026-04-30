@@ -4,10 +4,10 @@ description: Scopri come gestire e visualizzare i membri del programma. Consente
 title: Gestire e visualizzare i membri
 exl-id: 8d6ad815-4022-4d4b-a258-2bc048ca48f9
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '250'
-ht-degree: 5%
+source-wordcount: '245'
+ht-degree: 6%
 
 ---
 
@@ -79,11 +79,9 @@ Fare clic con il pulsante destro del mouse sull&#39;intestazione di colonna per 
 
    ![](assets/image2014-10-1-16-3a47-3a45.png)
 
-   L&#39;operazione potrebbe richiedere alcuni minuti. Il messaggio seguente verrà visualizzato al termine dell&#39;operazione.
+   L&#39;operazione potrebbe richiedere alcuni minuti. Al termine del processo viene visualizzato il seguente messaggio.
 
    ![](assets/changestatusconfirm.png)
-
-Molte caratteristiche, ma sono tutte abbastanza semplici. Buon lavoro!
 
 >[!MORELIKETHIS]
 >

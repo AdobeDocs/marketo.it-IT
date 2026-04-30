@@ -4,7 +4,7 @@ description: Scopri come importare i membri da un foglio di calcolo in un progra
 title: Importare membri da un foglio di calcolo in un programma
 exl-id: 09c597bb-d28a-463b-8340-ff22d2e0fa02
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 11%
@@ -59,7 +59,7 @@ Puoi importare un elenco di persone che diventano automaticamente membri di un p
 
    ![](assets/image2014-9-18-15-3a44-3a37.png)
 
-   Fantastico! Dovresti visualizzare i nuovi membri importati.
+   I nuovi membri dovrebbero essere visualizzati.
 
    ![](assets/image2014-9-18-15-3a45-3a16.png)
 

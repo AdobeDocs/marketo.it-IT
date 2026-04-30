@@ -3,10 +3,10 @@ description: Modello per programma operativo API di acquisizione. Utilizzala per
 title: OP-Acquisizione da API
 feature: Programs
 exl-id: abf7c4a0-c363-4e92-9a1f-197c3953c515
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 6%
+source-wordcount: '182'
+ht-degree: 8%
 
 ---
 
@@ -86,4 +86,4 @@ Questo programma di esempio è destinato ai processi operativi per monitorare l�
 
 * Prendi in considerazione l’utilizzo di programmi simili per garantire l’allineamento alle best practice su tutte le origini di input per includere il CRM o le integrazioni di dati.
 
-* Nell&#39;ambito delle iniziative di marketing su canali specifici, assicurati di acquisire le immagini quando necessario.
+* Nell&#39;ambito delle iniziative di marketing su canali specifici, assicurati che l&#39;acquisizione venga acquisita quando necessario.

@@ -3,10 +3,10 @@ description: Modello di programma per pagina di destinazione non Marketo per con
 title: Contenuto CT-MM-AAAA pagina di destinazione non di Marketo
 feature: Programs
 exl-id: b7cf8e52-4f3f-44d7-ab4c-ad10fa0badc9
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '401'
-ht-degree: 9%
+source-wordcount: '427'
+ht-degree: 10%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 9%
 
 Questo è un esempio di un programma per contenuti con un modulo Marketo Engage per scaricare contenuti su una pagina di destinazione non Marketo Engage utilizzando un programma predefinito di Marketo Engage. Questo programma è destinato a funzionare con un modulo Marketo Engage incorporato nel sito Web. Il collegamento all’offerta o al contenuto può essere inviato tramite e-mail di ringraziamento.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -171,4 +171,4 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;02-Engaged&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che il modulo sia attivo e che le e-mail vengano inviate.
+>Attiva la campagna &quot;02-Engaged&quot; per monitorare il successo prima che il modulo sia attivo e che le e-mail vengano inviate.

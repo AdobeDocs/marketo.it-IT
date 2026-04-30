@@ -3,10 +3,10 @@ description: Modello di programma di sviluppo semplice. Utilizzalo per campagne 
 title: Nurturing semplice NUR-MM-AAAA
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '356'
-ht-degree: 12%
+source-wordcount: '369'
+ht-degree: 13%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 12%
 
 Si tratta di un esempio di semplici programmi di sviluppo, che utilizzano il programma Marketo Engage Engagement, con contenuto cadenziato da distribuire nel tempo nel database utilizzando flussi di dati per guidare i record attraverso percorsi basati sul comportamento.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -171,4 +171,4 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;04 - Coinvolto (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che le e-mail vengano inviate.
+>Attiva la campagna &quot;04 - Coinvolto (Programma riuscito)&quot; per tenere traccia del successo prima che il modulo sia attivo e che le e-mail vengano inviate.

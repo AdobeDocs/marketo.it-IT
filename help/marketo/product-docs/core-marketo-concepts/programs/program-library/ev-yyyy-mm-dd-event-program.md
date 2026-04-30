@@ -3,10 +3,10 @@ description: Modello di programma di eventi. Utilizzala per eseguire webinar ed 
 title: Programma evento EV-GG-MM-AAAA
 feature: Programs
 exl-id: 999a82ae-6637-40bf-96c0-62183cb0a197
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '570'
-ht-degree: 16%
+source-wordcount: '600'
+ht-degree: 17%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 16%
 
 Questo è un esempio di programma per eventi con una pagina di registrazione, tre e-mail di invito e messaggi e-mail di follow-up che utilizzano un programma per eventi di Marketo Engage. Adatto per tutti gli eventi per i quali è necessaria la registrazione, inclusi eventi itineranti, pranzi, cene o presentazioni durante le fiere.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -30,9 +30,9 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td>Evento</td>
    <td>01 - Invitato
 <br/>02-In lista d'attesa
-<br/>03-Registrato
+Registrazione <br/>03
 <br/>04-Nessuno spettacolo
-<br/>05-Partecipato-Riuscito</td>
+<br/>05-Partecipated-Success</td>
    <td>Inclusivo</td>
    <td>Evento</td>
   </tr>
@@ -330,7 +330,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;06 partecipanti (programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che il modulo sia attivo e che le e-mail vengano inviate.
+>Attiva la campagna &quot;06 partecipanti (programma riuscito)&quot; per tenere traccia del successo prima che il modulo sia attivo e che le e-mail vengano inviate.
 
 >[!IMPORTANT]
 >

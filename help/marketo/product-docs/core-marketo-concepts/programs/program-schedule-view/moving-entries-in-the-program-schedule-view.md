@@ -4,10 +4,10 @@ description: Scopri come spostare le voci nella Vista pianificazione del program
 title: Spostamento delle voci nella vista Pianificazione del programma
 exl-id: 6df2cb23-99d1-4b72-8a1d-ff4466597e8b
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 15%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
@@ -23,7 +23,7 @@ Lo spostamento delle voci nella vista Schedule le riprogrammerà automaticamente
 
    ![](assets/image2014-9-18-17-3a47-3a23.png)
 
-1. Il nostro Data Retriever quindi annulla l’approvazione, modifica la data e riapprova la risorsa. È così figo.
+1. Marketo annulla l’approvazione, modifica la data e riapprova automaticamente la risorsa.
 
    ![](assets/image2014-9-18-17-3a47-3a35.png)
 

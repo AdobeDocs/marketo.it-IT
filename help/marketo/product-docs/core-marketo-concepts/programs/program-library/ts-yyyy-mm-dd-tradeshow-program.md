@@ -3,10 +3,10 @@ description: Modello di programma per fiere. Utilizzala per eventi e fiere comme
 title: Programma fiera TS-GG-MM-AAAA
 feature: Programs
 exl-id: 39ef8d6e-392b-456e-a925-b1f6c2cb81d8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '416'
-ht-degree: 11%
+source-wordcount: '440'
+ht-degree: 12%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 11%
 
 Questo è un esempio di programma di fiere con inviti e e-mail di follow-up tramite un programma Marketo Engage Event.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -30,9 +30,9 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
    <td>Evento</td>
    <td>01 - Invitato
    <br/>02-In lista d'attesa
-   <br/>03-Registrato
+   Registrazione <br/>03
    Stand visitato da <br/>04
-   <br/>05-Coinvolti allo spettacolo - Completato
+   <br/>05 - Coinvolto allo spettacolo - operazione riuscita
    <br/>06-Coinvolto al post-show - operazione riuscita</td>
    <td>Inclusivo</td>
    <td>Evento</td>
@@ -211,7 +211,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
 
 >[!TIP]
 >
->Non dimenticare di attivare la campagna &quot;03 - Coinvolto tramite e-mail di follow-up (Programma riuscito)&quot; per tenere traccia del successo. Esegui questa operazione _prima_ che le e-mail vengano inviate.
+>Attiva la campagna &quot;03 - Coinvolto tramite e-mail di follow-up (Programma riuscito)&quot; per monitorare il successo prima dell’invio delle e-mail.
 
 >[!IMPORTANT]
 >

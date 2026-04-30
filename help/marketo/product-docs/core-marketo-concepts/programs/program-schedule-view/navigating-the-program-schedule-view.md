@@ -4,10 +4,10 @@ description: Scopri come navigare nella vista Pianificazione programma. Spostars
 title: Navigazione nella vista Pianificazione del programma
 exl-id: 31623f95-f956-44f6-9b6e-5595fb6e62d5
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
 workflow-type: tm+mt
-source-wordcount: '186'
-ht-degree: 6%
+source-wordcount: '164'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 
    ![](assets/image2014-9-17-11-3a38-3a3.png)
 
-   Ora vedrai la visualizzazione della pianificazione del tuo programma.
+   Viene visualizzata la visualizzazione della pianificazione del programma.
 
    ![](assets/image2014-9-17-11-3a38-3a14.png)
 
@@ -38,8 +38,6 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 1. Nei dettagli della voce, fare clic sulle frecce per passare alla voce pianificata successiva.
 
    ![](assets/image2014-9-17-11-3a38-3a54.png)
-
-   Fantastico, eh?
 
    ![](assets/image2014-9-17-11-3a39-3a10.png)
 
@@ -60,8 +58,6 @@ Di seguito sono riportate le nozioni di base per la navigazione nella visualizza
 1. Puoi fare clic sull’icona dello schermo nell’angolo in alto a destra per visualizzare la pianificazione del programma in modalità a schermo intero.
 
    ![](assets/image2014-9-17-11-3a40-3a45.png)
-
-Fantastico! Ora che sai come visualizzare il tuo programma, impariamo le altre cose interessanti che può fare.
 
 >[!MORELIKETHIS]
 >
