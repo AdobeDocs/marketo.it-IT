@@ -3,9 +3,9 @@ description: Scopri i filtri predittivi per il targeting dei tipi di pubblico co
 title: Filtri predittivi
 exl-id: 27736b80-cd8b-455d-9d73-c17d492d0906
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '425'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Questi due filtri consentono di espandere il pubblico corrente eseguendo il targ
 
 Fare clic su **[!UICONTROL Add Constraint]** per scegliere i criteri di successo per i membri dei programmi selezionati.
 
-Fai clic sull&#39;icona **+** per aggiungere facilmente più programmi/elenchi avanzati a un filtro.
+Fare clic sull&#39;icona **+** per aggiungere più programmi/elenchi smart a un filtro.
 
 ![Immagine cinque](assets/predictive-filters-5.png)
 
@@ -58,6 +58,6 @@ Fai clic sull&#39;icona **+** per aggiungere facilmente più programmi/elenchi a
 * I filtri predittivi non sono disponibili per le campagne Trigger.
 * La clonazione o lo spostamento di campagne che contengono filtri predittivi non è supportato.
 * In un elenco avanzato è possibile utilizzare fino a 5 filtri predittivi.
-* Se Marketo Engage rileva un errore nella valutazione dei filtri predittivi, l’esecuzione della campagna si interrompe automaticamente e ricevi una notifica nel centro notifiche di Marketo.
+* Se Marketo Engage rileva un errore nella valutazione dei filtri predittivi, l’esecuzione della campagna si interrompe automaticamente e viene inviata una notifica al centro notifiche di Marketo.
 * I filtri predittivi hanno attualmente un limite di input di 1 milione di persone qualificate.
 * È possibile avere fino a 50 programmi attivi con filtri predittivi.

@@ -4,9 +4,9 @@ description: Scopri le schede del programma e-mail in Marketo Moments. Visualizz
 title: Informazioni sulle schede del programma di e-mail
 exl-id: c9de8334-4c42-44e4-aa73-9e82f25e5f00
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '372'
 ht-degree: 4%
 
 ---
@@ -27,7 +27,7 @@ Quando tocchi una scheda del programma e-mail, puoi:
 * [Contrassegna un messaggio e-mail come completato](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/marking-it-done.md)
 * [Condivisione di una scheda dei momenti e-mail](/help/marketo/product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
 
-In una scheda del programma e-mail per un messaggio e-mail non ancora inviato, troverai informazioni sullo stato e sul pubblico del programma e-mail.
+In una scheda del programma e-mail per un messaggio e-mail che non è ancora stato inviato, troverai informazioni sullo stato e sul pubblico del programma e-mail.
 
 ![](assets/image2015-7-2-9-3a33-3a47.png)
 
@@ -51,7 +51,7 @@ Dopo l’invio dell’e-mail, la scheda mostra altre informazioni importanti, tr
 
    >[!NOTE]
    >
-   >Ora la tua carta diventerà arancione!
+   >La carta diventerà arancione.
 
 ## Annullamento dell’invio di una scheda e-mail {#canceling-an-email-card-send}
 
@@ -83,7 +83,7 @@ Puoi riprogrammare le schede e-mail confermate o non confermate.
 
    ![](assets/image2015-7-17-10-3a5-3a55.png)
 
-   Se si dispone di un servizio wireless, è possibile riprogrammare da qualsiasi luogo.
+   Con una connessione wireless, la riprogrammazione è possibile da qualsiasi postazione.
 
 ## Inviare un esempio {#sending-a-sample}
 
@@ -109,7 +109,7 @@ Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne
 
    ![](assets/image2015-7-14-16-3a42-3a21.png)
 
-   In questo modo, sai che la tua e-mail è perfetta prima di premere il grilletto!
+   Questo consente di verificare che l’e-mail abbia l’aspetto corretto prima dell’invio.
 
    ![](assets/image2015-6-30-11-3a15-3a22.png)
 

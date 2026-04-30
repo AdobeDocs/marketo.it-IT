@@ -4,9 +4,9 @@ description: Scopri le schede di Analytics in Marketo Moments. Visualizzare metr
 title: Informazioni sulle schede di Analytics
 exl-id: fc314ab8-4d29-44f5-bc45-71e6727ecc06
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '294'
 ht-degree: 2%
 
 ---
@@ -33,11 +33,11 @@ Tocca una scheda Analytics per visualizzare:
 * Un confronto mese dopo mese
 * Un grafico a barre del massimo o dei primi tre (a seconda della scheda)
 
-Vediamo ad esempio i dettagli della scheda Analytics [!UICONTROL Acquired Leads]:
+Ad esempio, di seguito sono riportati i dettagli per la scheda Analytics [!UICONTROL Acquired Leads]:
 
 ![](assets/image2015-7-6-14-3a5-3a25.png)
 
-In questo esempio, il rosso indica che il valore è diminuito nell’intervallo di date selezionato (oh!). Il verde indica che il valore è aumentato (yay!).
+In questo esempio, il rosso indica che il valore è diminuito nell’intervallo di date selezionato. Il verde indica che il valore è aumentato.
 
 ## [!UICONTROL Acquired Leads] {#acquired-leads}
 

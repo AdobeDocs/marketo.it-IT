@@ -4,16 +4,14 @@ description: Scopri come visualizzare i dettagli delle voci nel calendario di ma
 title: Visualizzare i dettagli delle voci
 exl-id: bb65f7ae-5a37-4b09-8532-75d1e9a6464c
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
 # Visualizzare i dettagli delle voci {#view-entry-details}
-
-Quando visualizzi i dettagli di una voce nel calendario di marketing, puoi trovare tutte le informazioni interessanti su di essa.
 
 1. Selezionare una voce dal calendario.
 
@@ -25,4 +23,4 @@ Quando visualizzi i dettagli di una voce nel calendario di marketing, puoi trova
 
 >[!TIP]
 >
->Provare a fare clic con il pulsante destro del mouse sui dettagli a destra. È possibile visualizzare i menu per spostarsi o visualizzare gli editor. Bello, vero?
+>Fai clic con il pulsante destro del mouse sul pannello dei dettagli per accedere ai menu di navigazione o aprire gli editor.

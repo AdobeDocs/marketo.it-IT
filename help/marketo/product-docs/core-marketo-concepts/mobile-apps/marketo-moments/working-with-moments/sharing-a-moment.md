@@ -4,16 +4,16 @@ description: Scopri come condividere un momento dall’app Marketo Moments. Invi
 title: Condividere un momento
 exl-id: e149f8d8-1405-43d2-aa0b-900796328a92
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 5%
+source-wordcount: '170'
+ht-degree: 4%
 
 ---
 
 # Condividere un momento {#sharing-a-moment}
 
-Vuoi fornire un aggiornamento al tuo team? Sono disponibili due opzioni per selezionare la condivisione.
+Un momento può essere condiviso in due modi.
 
 >[!IMPORTANT]
 >
@@ -29,11 +29,11 @@ Vuoi fornire un aggiornamento al tuo team? Sono disponibili due opzioni per sele
 
    ![](assets/image2015-7-14-16-3a8-3a18.png)
 
-1. Seleziona la modalità di condivisione. Passiamo all&#39;e-mail.
+1. Seleziona la modalità di condivisione. In questo esempio, l’opzione E-mail è selezionata.
 
    >[!NOTE]
    >
-   >La condivisione dipende dalle app installate sul telefono. Quindi, se non hai [!DNL Facebook], non lo vedrai in Momenti.
+   >La condivisione dipende dalle app installate sul telefono. Se [!DNL Facebook] non è installato, non verrà visualizzato in Momenti.
 
    ![](assets/image2015-7-14-16-3a11-3a42.png)
 

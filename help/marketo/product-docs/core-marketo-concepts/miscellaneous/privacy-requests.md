@@ -2,10 +2,10 @@
 description: Scopri come gestire le richieste di accesso ed eliminazione di dati personali in Marketo. Invia le richieste tramite l’interfaccia utente o l’API di Privacy Service ed elabora i dati dei consumatori.
 title: Richieste sulla privacy
 exl-id: ae61eabc-ad8f-4c7b-8097-838e89c1a3ec
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 15%
+source-wordcount: '371'
+ht-degree: 20%
 
 ---
 
@@ -30,8 +30,6 @@ Puoi inviare singole richieste per accedere e cancellare i dati dei consumatori 
 
 [Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=it){target="_blank"} supporta due tipi di richieste: accesso ai dati ed eliminazione dei dati.
 
-Vediamo come creare richieste di accesso ed eliminazione.
-
 ## Configurazione necessaria per inviare richieste per Marketo Engage {#required-setup-to-send-requests-for-marketo-engage}
 
 Per richiedere l&#39;accesso e l&#39;eliminazione dei dati per Marketo Engage, è necessario:
@@ -41,7 +39,7 @@ Per richiedere l&#39;accesso e l&#39;eliminazione dei dati per Marketo Engage, �
    a. ID organizzazione IMS<br/>
 b. Indirizzo e-mail della persona su cui desideri agire
 
-   Un ID organizzazione IMS è una stringa alfanumerica composta da 24 caratteri, con l&#39;aggiunta di @AdobeOrg. Se il team marketing o l&#39;amministratore di sistema interno di Adobe non conosce l&#39;ID organizzazione IMS dell&#39;organizzazione, contatta l&#39;Assistenza clienti Adobe all&#39;indirizzo `gdprsupport@adobe.com`. Per inviare richieste all’API per la privacy è necessario l’ID organizzazione IMS.
+   Un ID organizzazione IMS è una stringa alfanumerica composta da 24 caratteri, con l&#39;aggiunta di @AdobeOrg. Se il team marketing o l&#39;amministratore di sistema interno di Adobe non conosce l&#39;ID organizzazione IMS dell&#39;organizzazione, contatta il supporto Adobe all&#39;indirizzo `gdprsupport@adobe.com`. Per inviare richieste all’API per la privacy è necessario l’ID organizzazione IMS.
 
 1. In Privacy Service, puoi inviare le richieste di accesso ed eliminazione a Marketo Engage e controllare lo stato delle richieste esistenti.
 

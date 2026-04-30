@@ -4,9 +4,9 @@ description: Scopri come prepararti all’evento con Event Check-in. Configura l
 title: Prepararti per l’evento
 exl-id: 30754c2e-dad0-4275-b5b3-f31680a62c42
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '417'
 ht-degree: 2%
 
 ---
@@ -33,7 +33,7 @@ Marketo ha un ruolo utente speciale per l’app di archiviazione degli eventi. [
 
 ## Specificare le date dell&#39;evento {#specify-the-event-dates}
 
-Impostare le date dell&#39;evento è un&#39;operazione immediata.
+L’impostazione delle date dell’evento è semplice.
 
 1. Fai clic sull’evento nella pianificazione e imposta la data e l’ora di inizio e di fine.
 

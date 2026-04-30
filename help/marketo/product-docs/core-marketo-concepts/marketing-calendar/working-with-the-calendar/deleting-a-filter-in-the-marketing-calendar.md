@@ -4,16 +4,14 @@ description: Scopri come eliminare un filtro nel calendario di marketing.
 title: Eliminazione di un filtro nel calendario marketing
 exl-id: 1c53f346-ab35-44d4-9b8a-6e31f97044ca
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 30%
+source-wordcount: '36'
+ht-degree: 47%
 
 ---
 
 # Eliminazione di un filtro nel calendario marketing {#deleting-a-filter-in-the-marketing-calendar}
-
-Se stai cercando di eliminare un filtro nel calendario di marketing, sei arrivato nella posizione giusta.
 
 1. Seleziona il filtro da eliminare.
 

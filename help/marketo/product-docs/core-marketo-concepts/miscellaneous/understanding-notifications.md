@@ -3,9 +3,9 @@ unique-page-id: 2952292
 description: Scopri le notifiche di Marketo Engage per gli errori della campagna e la sincronizzazione del sistema CRM. Iscriviti per ricevere gli avvisi tramite e-mail e resta aggiornato.
 title: Informazioni sulle notifiche
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
-source-git-commit: ea341c472b6e4ac81edd60e269916f0451b94152
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '240'
 ht-degree: 3%
 
 ---
@@ -42,10 +42,10 @@ Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
 >[!NOTE]
 >
->La casella _[!UICONTROL Send to]_&#x200B;consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
+>La casella _[!UICONTROL Send to]_consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
 
-In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo Engage conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, riceverai un errore.
+In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo Engage conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, si verifica un errore.
 
 >[!TIP]
 >
->Desideri annullare l’abbonamento alle e-mail di notifica? Nessun problema. Fai clic sul collegamento **[!UICONTROL unsubscribe from notifications]** in fondo all&#39;e-mail di notifica.
+>Per annullare l&#39;iscrizione alle e-mail di notifica, fare clic sul collegamento **[!UICONTROL unsubscribe from notifications]** nella parte inferiore dell&#39;e-mail di notifica.

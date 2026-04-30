@@ -2,10 +2,10 @@
 description: Scopri gli strumenti di gestione della privacy in Marketo Engage per RGPD, CCPA e altro ancora. Gestire le richieste di accesso ed eliminazione in conformità alle normative.
 title: Gestione della privacy
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '393'
-ht-degree: 1%
+source-wordcount: '439'
+ht-degree: 0%
 
 ---
 
@@ -42,4 +42,4 @@ Per aiutarti a garantire l&#39;idoneità alle normative sulla privacy, Marketo E
 * Il **diritto di accesso** è il diritto dell&#39;interessato di ottenere conferma da parte del titolare del trattamento sul fatto che i dati personali che lo riguardano siano trattati o meno, su dove avvenga il trattamento e sullo scopo del trattamento. Il titolare del trattamento fornisce gratuitamente una copia dei dati personali in formato elettronico.
 * Anche noto come eliminazione dei dati, il **diritto all&#39;oblio** (richiesta di eliminazione) autorizza l&#39;interessato a richiedere che il titolare del trattamento cancelli i suoi dati personali, cessi di diffonderli ed richieda a terzi di cessarne il trattamento da parte di terzi.
 
-Per informazioni su come creare richieste di accesso/eliminazione ed elaborarle, consulta [questo articolo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).
+Per informazioni su come creare o eliminare le richieste di accesso e su come vengono elaborate, consulta [questo articolo](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/privacy-requests.md).

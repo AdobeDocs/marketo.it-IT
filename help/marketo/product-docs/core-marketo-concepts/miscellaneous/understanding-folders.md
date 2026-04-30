@@ -3,9 +3,9 @@ unique-page-id: 4720779
 description: Scopri le cartelle all’interno dei programmi per organizzare campagne e risorse avanzate. Creare, rinominare ed eliminare cartelle.
 title: Informazioni sulle cartelle
 exl-id: 2ea914f6-ca64-4e87-806c-93beba075ab2
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '259'
 ht-degree: 8%
 
 ---
@@ -28,11 +28,9 @@ Le cartelle all’interno di un programma possono essere utilizzate per organizz
 
    ![](assets/image2015-4-20-18-3a46-3a57.png)
 
-Fantastico! Ora disponi di una nuova cartella in cui archiviare le risorse locali.
+La nuova cartella è ora pronta per le risorse locali.
 
 ## Rinominare una cartella {#rename-a-folder}
-
-Va bene cambiare idea.
 
 1. Fai clic con il pulsante destro sulla cartella e seleziona **[!UICONTROL Rename Folder]**.
 

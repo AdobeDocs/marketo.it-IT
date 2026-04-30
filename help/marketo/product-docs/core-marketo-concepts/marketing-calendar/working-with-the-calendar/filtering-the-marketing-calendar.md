@@ -4,10 +4,10 @@ description: Scopri come filtrare il calendario di marketing per tipo di voce, t
 title: Filtrare il calendario marketing
 exl-id: 94cbe35b-2b87-4c8f-86c6-11a0d12b2a12
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 6%
+source-wordcount: '109'
+ht-degree: 7%
 
 ---
 
@@ -27,13 +27,13 @@ Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le infor
 
    ![](assets/image2014-9-24-10-3a46-3a54.png)
 
-1. Scegli altri tipi di voce da visualizzare nel filtro.
+1. Scegliere ulteriori tipi di voce da aggiungere al filtro.
 
    ![](assets/image2014-9-24-10-3a47-3a0.png)
 
    >[!TIP]
    >
-   >Per le descrizioni dei tipi di voce standard, consultare [Tipi di voce per la visualizzazione della pianificazione dei programmi](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
+   >Per le descrizioni dei tipi di voce standard, vedere [Tipi di voce per la visualizzazione della pianificazione del programma](/help/marketo/product-docs/core-marketo-concepts/programs/program-schedule-view/program-schedule-view-entry-types.md){target="_blank"}.
 
 1. Seleziona i tag del programma che ti interessano.
 
@@ -43,7 +43,7 @@ Utilizzare tipi di voce, tag di programma o aree di lavoro per filtrare le infor
 
    ![](assets/image2014-9-24-10-3a47-3a9.png)
 
-   Fantastico! Ora verranno visualizzate solo le voci che si applicano al filtro appena definito.
+   Saranno visibili solo le voci che corrispondono al filtro definito.
 
    >[!NOTE]
    >

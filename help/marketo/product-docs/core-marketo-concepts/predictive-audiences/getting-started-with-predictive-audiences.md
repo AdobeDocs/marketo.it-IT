@@ -3,10 +3,10 @@ description: Scopri Predictive Audiences e il targeting basato sull’intelligen
 title: Guida introduttiva ai tipi di pubblico predittivi
 exl-id: d4780837-4cab-49b8-9aa4-61e6d4c43e8b
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 4%
+source-wordcount: '230'
+ht-degree: 5%
 
 ---
 

@@ -4,16 +4,16 @@ description: Scopri Marketo Moments per vedere cosa conta quando è importante. 
 title: Informazioni sui momenti Marketo
 exl-id: bc103d25-a175-4ab1-8305-1e05b9b0dc2d
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '600'
+source-wordcount: '603'
 ht-degree: 1%
 
 ---
 
 # Informazioni sui momenti Marketo {#understanding-marketo-moments}
 
-Il potere di Marketo ora è nelle vostre mani, letteralmente! Visualizza l’anteprima e riprogramma le e-mail direttamente dal telefono o da iPad.
+Il potere di Marketo è ora nelle vostre mani. Visualizza l’anteprima e riprogramma le e-mail direttamente dal telefono o da iPad.
 
 >[!IMPORTANT]
 >
@@ -38,21 +38,21 @@ Ecco i diversi flussi in Moments (Momenti).
 >* [!UICONTROL Later]: qualsiasi cosa accada più tardi di questo momento viene inserita qui.
 >* [!UICONTROL Done]: qualsiasi elemento che ha completato l&#39;esecuzione o che è stato contrassegnato come completato viene visualizzato qui.
 
-Ok, ora che ce l&#39;abbiamo fatta, diamo un&#39;occhiata a Marketo Moments al telefono!
+Ecco uno sguardo a Marketo Moments su un telefono.
 
 ## Tre tipi di schede {#three-kinds-of-cards}
 
 Marketo Moments offre tre diverse schede per seguire l’avanzamento della tua e-mail:
 
-**[!UICONTROL On-Deck]** - Questa e-mail sta per essere inviata. È l’ultima possibilità per visualizzarlo in anteprima, inviarne un campione o, anche per annullarlo, se necessario.
+**[!UICONTROL On-Deck]** - Questa e-mail sta per essere inviata. È l’ultima possibilità per visualizzarla in anteprima, inviarne un campione o, se necessario, annullarla.
 
 ![](assets/image2015-7-17-11-3a25-3a48.png)
 
-**[!UICONTROL Heart-beat]** - Ciao - questa e-mail è in fase di recapito! Ed ecco anche le statistiche. Vai avanti e condividilo.
+**[!UICONTROL Heart-beat]** - Questo messaggio e-mail è in fase di recapito, statistiche incluse. Condividilo con il tuo team.
 
 ![](assets/image2015-7-17-11-3a27-3a22.png)
 
-**[!UICONTROL Results]** - Ecco come è andata l&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati vengono visualizzati il punteggio di coinvolgimento e altre statistiche.
+**[!UICONTROL Results]** - Mostra le prestazioni dell&#39;e-mail. Al termine dell’esecuzione dell’e-mail, nella scheda Risultati vengono visualizzati il punteggio di coinvolgimento e altre statistiche.
 
 ![](assets/image2015-7-17-11-3a43-3a28.png)
 
@@ -74,7 +74,7 @@ Toccando i tre punti si apre il menu delle azioni della scheda.
 
 ![](assets/image2015-7-15-10-3a47-3a34.png)
 
-Fantastico! Ora puoi fare qualcosa toccando:
+Toccare una delle seguenti opzioni per eseguire un&#39;azione:
 
 ![](assets/image2015-7-15-10-3a49-3a20.png)
 
@@ -82,11 +82,11 @@ Fantastico! Ora puoi fare qualcosa toccando:
 >
 >**Definizione**
 >
->* [!UICONTROL Favorite]: è facile prestare attenzione alle cose più tempestive e importanti se le si rende preferite.
+>* [!UICONTROL Favorite]: è facile prestare attenzione agli elementi più tempestivi e importanti se li si rende preferiti.
 >* [!UICONTROL Done]: Fine ottiene dalla visualizzazione Momenti Marketo (ma lascia in Marketo, sicuro e sonoro).
 >* [!UICONTROL Share]: invia un&#39;immagine per motivare o congratularsi con il tuo team.
 >* [!UICONTROL Send Sample] (solo e-mail): usa questa opzione per consentire ad altri di controllare l&#39;aspetto delle e-mail prima che vengano inviate.
->* [!UICONTROL Preview Email] (solo e-mail): è sempre consigliabile controllare le e-mail in anticipo.
+>* [!UICONTROL Preview Email] (solo e-mail): è sempre consigliabile rivedere le e-mail in anticipo.
 
 ## Momenti successivi {#later-moments}
 
@@ -106,13 +106,13 @@ La sezione Più tardi mostra le attività imminenti.
 
 ## Schede programma e-mail {#email-program-cards}
 
-Le schede del programma e-mail mostrano cose importanti come pianificazione, pubblico, stato e altre cose utili, anche quando sei fuori a pranzo.
+Le schede del programma e-mail mostrano dettagli chiave come pianificazione, pubblico, stato e altre informazioni utili, anche quando sei fuori a pranzo.
 
 ![](assets/image2015-6-29-15-3a31-3a57.png)
 
 ## Schede evento {#event-cards}
 
-Per gli eventi, visualizzerai il numero totale di membri e il loro stato.
+Per gli eventi, la scheda mostra il numero totale di membri e il loro stato.
 
 ![](assets/image2015-6-29-15-3a39-3a12.png)
 
@@ -143,9 +143,7 @@ In ogni passaggio della procedura, puoi confermare o annullare un’azione. Se c
 Marketo Moments supporta le seguenti versioni del sistema operativo:
 
 * [!DNL Apple] iOS 8.0 e versioni successive.
-* [!DNL Android] versione 4.1 e successive (sostanzialmente Jellybean e successive).
-
-Vuoi saperne di più?
+* [!DNL Android] versione 4.1 e successive.
 
 >[!MORELIKETHIS]
 >

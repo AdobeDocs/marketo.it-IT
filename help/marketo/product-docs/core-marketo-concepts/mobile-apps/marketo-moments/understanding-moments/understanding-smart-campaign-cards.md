@@ -4,9 +4,9 @@ description: Scopri le schede Smart Campaign in Marketo Moments. Visualizza lo s
 title: Informazioni sulle schede delle campagne avanzate
 exl-id: 2d7476aa-d33d-4c82-aef8-b340766b9526
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -19,7 +19,7 @@ Utilizza Marketo Moments per visualizzare ogni esecuzione delle campagne Smart d
 >
 >Il 2 ottobre 2023, Adobe ha rimosso l’app Marketo Moments da tutti gli app store. Se l&#39;app è già installata sul tuo tablet/dispositivo mobile, puoi continuare a utilizzarla per il momento. Una volta migrata l’istanza Marketo Engage ad Adobe Identity per l’autenticazione di Marketo, non potrai più accedere all’app. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/marketo-events-app-and-marketo-moments-app-end-of-life/m-p/340712/highlight/true#M193869){target="_blank"}.
 
-Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Marketo Moments non mostra ancora alcuna statistica della campagna. Verranno visualizzati in una versione futura.
+Per le future campagne intelligenti pianificate ma non ancora eseguite, la scheda Marketo Moments non mostra ancora alcuna statistica della campagna. Verranno visualizzati in una versione futura.
 
 ![](assets/image2015-9-23-10-3a1-3a5.png)
 
@@ -43,7 +43,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-21-13-3a37-3a20.png)
 
-1. Ora vedrai il flusso di Smart Campaign. Questa campagna ha un solo passaggio di flusso, ma possono esserci più passaggi.
+1. Il flusso della campagna intelligente è mostrato qui. Questa campagna ha un solo passaggio di flusso, ma possono esserci più passaggi.
 
    ![](assets/image2015-9-22-15-3a8-3a12.png)
 
@@ -55,7 +55,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
    ![](assets/image2015-9-21-13-3a59-3a29.png)
 
-1. Vedi quei due punti in basso? Indicano che a questa Smart Campaign sono collegate due e-mail. Per visualizzare i risultati per l’altra e-mail, scorri lo schermo verso sinistra. Ecco i risultati della seconda e-mail.
+1. I due punti in basso indicano che sono presenti due e-mail connesse a questa Smart Campaign. Per visualizzare i risultati per l’altra e-mail, scorri lo schermo verso sinistra. Ecco i risultati della seconda e-mail.
 
    ![](assets/image2015-9-21-14-3a4-3a51.png)
 
@@ -65,7 +65,7 @@ Per le future campagne avanzate pianificate ma non ancora eseguite, la scheda Ma
 
 ## Creazione di esempi e anteprime e-mail {#creating-email-samples-and-previews}
 
-È consigliabile dare un’occhiata a un’e-mail prima che venga inviata. Oppure, inviate un campione a qualcun altro per avere un secondo sguardo su di esso.
+È consigliabile dare un’occhiata a un’e-mail prima che venga pubblicata. Oppure, inviate un campione a qualcun altro per avere un secondo sguardo su di esso.
 
 1. Tocca il menu di azioni a tre punti su un’e-mail.
 
@@ -93,7 +93,7 @@ Le schede per le campagne Smart Campaign non confermate sono grigie fino a quand
 
    >[!NOTE]
    >
-   >Ora la tua carta diventerà arancione!
+   >La carta diventerà arancione.
 
 ## Annullamento di un’esecuzione di una campagna avanzata {#canceling-a-smart-campaign-run}
 
@@ -113,7 +113,7 @@ Puoi annullare un’esecuzione confermata e pianificata di Smart Campaign.
 
 ## Riprogrammazione di una campagna avanzata {#rescheduling-a-smart-campaign}
 
-Puoi ripianificare una campagna avanzata confermata che non è ancora stata eseguita.
+Puoi ripianificare una campagna avanzata confermata non ancora eseguita.
 
 1. Tocca il menu Azioni con tre punti.
 
@@ -126,8 +126,6 @@ Puoi ripianificare una campagna avanzata confermata che non è ancora stata eseg
 1. Seleziona una data nel calendario e tocca **[!UICONTROL Reschedule]**.
 
    ![](assets/image2015-9-22-14-3a16-3a56.png)
-
-   Un pezzo di torta!
 
 ## Altre azioni di Smart Campaign {#other-smart-campaign-actions}
 
@@ -145,4 +143,4 @@ Come per altre schede Marketo Moments, puoi toccare i tre punti su qualsiasi sch
 
 ## Eliminare rapidamente una smart card di una campagna {#quickly-delete-a-smart-campaign-card}
 
-Se si dispone di una scheda che non è più necessaria, ad esempio quella utilizzata per i test, è possibile eliminarla rapidamente scorrendo verso sinistra o verso destra.
+Se si dispone di una scheda non più necessaria, ad esempio quella utilizzata per il test, è possibile rimuoverla rapidamente scorrendo verso sinistra o verso destra.

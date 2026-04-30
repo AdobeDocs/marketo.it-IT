@@ -4,9 +4,9 @@ description: Scopri come controllare le persone nel tuo evento da un tablet. Uti
 title: Controllare le persone del tuo evento dal tablet
 exl-id: b48f5f95-8e36-441f-a785-1651f42f9f60
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '863'
 ht-degree: 2%
 
 ---
@@ -81,11 +81,11 @@ L&#39;ospite ora è in stato Partecipato e riceve un segno di spunta. Il record 
 
 >[!TIP]
 >
->Se una persona è stata invitata ma non si è registrata, è possibile cercare il nome facendo clic su **[!UICONTROL Search on Server]**, immediatamente sotto la casella Cerca. Lo stato Invitato cambia in **[!UICONTROL Attended]** per l&#39;evento.
+>Se una persona è stata invitata ma non si è registrata, è possibile cercare il nome facendo clic su **[!UICONTROL Search on Server]** sotto la casella Cerca. Lo stato Invitato cambia in **[!UICONTROL Attended]** per l&#39;evento.
 
 ## Creare una nuova persona sul tablet {#create-a-new-person-on-the-tablet}
 
-Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel database di Marketo. Verranno automaticamente archiviati e aggiunti al database durante la sincronizzazione con Marketo.
+Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel database di Marketo. Verranno automaticamente archiviati e aggiunti al database quando si esegue la sincronizzazione con Marketo.
 
 1. Fai clic su **[!UICONTROL Add]**.
 
@@ -103,7 +103,7 @@ Puoi aggiungere manualmente gli ospiti che non sono persone esistenti nel databa
 
    >[!NOTE]
    >
-   >Puoi utilizzare solo i campi esistenti. Non puoi crearne di personalizzati.
+   >Sono disponibili solo i campi esistenti. Impossibile creare campi personalizzati.
 
    >[!CAUTION]
    >
@@ -119,11 +119,10 @@ Se una persona è stata archiviata per errore, _prima della sincronizzazione con
 
    ![](assets/image2016-4-15-11-3a38-3a31.png)
 
-   Tutto risolto!
 
 ## Modificare un record persona al momento del check-in {#edit-a-person-record-at-check-in}
 
-Puoi aggiungere e modificare le informazioni dei visitatori direttamente all’evento.
+È possibile aggiungere e modificare le informazioni dei guest durante l&#39;evento.
 
 1. Toccare il nome nell&#39;elenco delle persone e toccare **[!UICONTROL Edit]**.
 
@@ -145,7 +144,7 @@ L’app Marketo Events funziona in modo indipendente finché non sincronizzi nuo
 
 >[!CAUTION]
 >
->Dopo la sincronizzazione, non è possibile annullare un check-in dall&#39;app.
+>Dopo la sincronizzazione, non è possibile annullare un check-in dall’app.
 
 1. Sul tablet, apri l’app e passa all’evento.
 
@@ -153,22 +152,22 @@ L’app Marketo Events funziona in modo indipendente finché non sincronizzi nuo
 
    L’evento viene aggiornato con le nuove archiviazioni nel database di Marketo. Il contatore rosso sul pulsante Sincronizza si cancella finché non si archivia un altro utente.
 
-   Per motivi di sicurezza, devi uscire dall’app Marketo Events al termine della sincronizzazione.
+   Per motivi di sicurezza, dovresti uscire dall’app Marketo Events al termine della sincronizzazione.
 
 ## Utilizzo dell&#39;accesso limitato a Internet {#working-with-limited-internet-access}
 
-Alcuni luoghi hanno uno scarso accesso a Internet. È necessaria una buona connessione a:
+Alcuni luoghi hanno scarso accesso a Internet. È necessaria una buona connessione a:
 
 * Scaricare e installare l’app
 * Accedi
 * Seleziona un evento
 * Sincronizzare l’app con Marketo
 
-Se sei preoccupato dell&#39;accesso a Internet, puoi accedere all&#39;app Marketo Events e selezionare l&#39;evento in anticipo, in una posizione con un forte accesso a Internet. In questo modo, puoi comunque utilizzare l’app offline. Quindi, quando si riprende una connessione Internet, eseguire immediatamente la sincronizzazione con il database di Marketo.
+Se sei preoccupato per l&#39;accesso a Internet, puoi accedere all&#39;app Marketo Events e selezionare l&#39;evento in anticipo, in una posizione con un forte accesso a Internet. In questo modo, puoi comunque utilizzare l’app offline. Quindi, quando si riprende una connessione Internet, eseguire immediatamente la sincronizzazione con il database di Marketo.
 
 >[!TIP]
 >
->Se non si dispone di una connessione a Internet, è comunque possibile creare una nuova persona per l&#39;archiviazione. Si riconcilierà con la persona esistente quando sincronizzerai l&#39;app.
+>Se non è disponibile alcuna connessione a Internet, è comunque possibile creare una nuova persona per il check-in. Quando sincronizzi l’app, questa si riconcilierà con la persona esistente.
 
 >[!NOTE]
 >

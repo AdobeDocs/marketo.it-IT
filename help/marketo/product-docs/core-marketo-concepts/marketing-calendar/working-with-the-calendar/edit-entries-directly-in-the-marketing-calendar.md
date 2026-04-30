@@ -4,16 +4,16 @@ description: Scopri come modificare le voci direttamente nel calendario di marke
 title: Modificare le voci direttamente nel calendario marketing
 exl-id: a78e4637-96b4-4771-9f9e-39ff50e11d72
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 9%
+source-wordcount: '180'
+ht-degree: 7%
 
 ---
 
 # Modificare le voci direttamente nel calendario marketing {#edit-entries-directly-in-the-marketing-calendar}
 
-Una volta attivata la modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario. Ecco come.
+Una volta attivata la modalità di attivazione del programma, è possibile apportare rapidamente modifiche alle voci del calendario.
 
 ## Abilita attivazione programma {#enable-program-focus}
 
@@ -27,7 +27,7 @@ Una volta attivata la modalità di attivazione del programma, è possibile appor
 
 ## Riprogramma voce {#reschedule-entry}
 
-1. È sufficiente trascinare una voce per riprogrammarla.
+1. Trascinare una voce per riprogrammarla.
 
    ![](assets/image2014-10-20-13-3a16-3a18.png)
 
@@ -63,7 +63,7 @@ Puoi accedere rapidamente a diverse aree delle voci per la modifica.
 
    ![](assets/image2014-10-20-13-3a18-3a48.png)
 
-Tutto qui. Come puoi vedere ci sono molte cose che puoi fare direttamente dal calendario di marketing.
+Puoi eseguire molte operazioni direttamente dal calendario di marketing.
 
 >[!MORELIKETHIS]
 >

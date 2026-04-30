@@ -4,16 +4,16 @@ description: Scopri come concedere agli utenti l’accesso all’app Event Check
 title: Concedere agli utenti l’accesso all’app di registrazione
 exl-id: 898ac49f-a708-4cdf-b341-58582740a45b
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '290'
 ht-degree: 8%
 
 ---
 
 # Concedere agli utenti l’accesso all’app di registrazione {#grant-users-access-to-the-check-in-app}
 
-Marketo Engage ha un ruolo utente speciale per l’app di archiviazione degli eventi. Ecco come creare un nuovo ruolo con l’autorizzazione per utilizzare l’app.
+Marketo Engage ha un ruolo utente speciale per l’app di archiviazione degli eventi. Segui i passaggi seguenti per creare un nuovo ruolo con l’autorizzazione all’utilizzo dell’app.
 
 >[!IMPORTANT]
 >
@@ -49,7 +49,7 @@ Marketo Engage ha un ruolo utente speciale per l’app di archiviazione degli ev
 
    ![](assets/image2015-6-2-11-3a11-3a32.png)
 
-1. Immettere le informazioni del nuovo utente. Seleziona le caselle di controllo per tutti i ruoli appropriati e il nuovo ruolo con l’autorizzazione per accedere all’app mobile. Al termine, fai clic su **[!UICONTROL Invite]**.
+1. Immettere le informazioni del nuovo utente. Seleziona le caselle di controllo per tutti i ruoli appropriati e il nuovo ruolo con l’autorizzazione per accedere all’app mobile. Al termine, fare clic su **[!UICONTROL Invite]**.
 
    ![](assets/image2015-6-2-11-3a16-3a26.png)
 

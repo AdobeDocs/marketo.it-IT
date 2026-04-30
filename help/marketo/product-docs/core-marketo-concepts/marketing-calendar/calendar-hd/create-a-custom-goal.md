@@ -4,9 +4,9 @@ description: Scopri come creare un obiettivo personalizzato nel calendario di ma
 title: Creare un obiettivo personalizzato
 exl-id: 5e97fb4c-c779-46c7-83ed-de07d27770c7
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '111'
 ht-degree: 11%
 
 ---

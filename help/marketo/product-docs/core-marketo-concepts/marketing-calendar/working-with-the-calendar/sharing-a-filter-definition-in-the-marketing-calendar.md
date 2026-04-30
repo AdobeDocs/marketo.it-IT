@@ -4,10 +4,10 @@ description: Scopri come condividere una definizione di filtro nel calendario di
 title: Condividere una definizione di filtro nel calendario marketing
 exl-id: 3429edba-fdb1-43e9-82ff-01b952036526
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '114'
+ht-degree: 14%
 
 ---
 
@@ -22,7 +22,7 @@ I filtri possono essere condivisi tra diversi utenti.
 
 >[!NOTE]
 >
-> Se apporti una modifica a un filtro salvato, assicurati di condividerlo di nuovo; le modifiche non verranno applicate agli altri utenti fino a quando non lo farai.
+> Se apporti una modifica a un filtro salvato, condividilo di nuovo; le modifiche non verranno applicate agli altri utenti fino a quando non lo fai.
 
 1. Seleziona il filtro da condividere.
 

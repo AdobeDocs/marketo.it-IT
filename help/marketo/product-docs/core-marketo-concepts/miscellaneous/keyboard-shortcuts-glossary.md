@@ -1,18 +1,20 @@
 ---
 unique-page-id: 1147318
 description: Ottieni aiuto sulle scelte rapide da tastiera di Marketo per la navigazione ad area, il calendario e altro ancora. Utilizza le scelte rapide per spostarti più rapidamente in Marketo Engage.
+hide: true
+hidefromtoc: true
 title: Glossario delle scelte rapide da tastiera
 exl-id: ca85bd0f-5ed3-4ae2-a20b-ef3151609f83
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '129'
 ht-degree: 15%
 
 ---
 
 # Glossario delle scelte rapide da tastiera {#keyboard-shortcuts-glossary}
 
-Sei una persona che lavora con le scelte rapide da tastiera? Ti copriamo!
+Utilizza queste scelte rapide da tastiera per navigare in Marketo più rapidamente.
 
 ## Navigazione area {#area-navigation}
 
@@ -41,4 +43,4 @@ Sei una persona che lavora con le scelte rapide da tastiera? Ti copriamo!
 |---|---|
 | ESC | Chiudi finestra a comparsa |
 | Invio/Ritorno | Invia pop-up |
-| Ctrl + Alt/Opt + H | Nascondere/mostrare un campo nell’editor di moduli |
+| Ctrl + Alt/Opt + H | Nascondere o rendere visibile un campo nell’editor di moduli |

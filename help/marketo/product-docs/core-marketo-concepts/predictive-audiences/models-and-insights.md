@@ -3,10 +3,10 @@ description: Scopri i modelli Predictive Audiences e i fattori che li influenzan
 title: Modelli e approfondimenti
 exl-id: 7a01d6f0-000a-4b9a-8abb-9e7f9c4b1679
 feature: Predictive Audiences
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 3%
+source-wordcount: '227'
+ht-degree: 5%
 
 ---
 
@@ -18,9 +18,9 @@ Le prestazioni dei modelli dipendono dalla qualità e dalla completezza dei dati
 >
 >I comportamenti contrassegnati con (+) influenzano positivamente le previsioni (e viceversa).
 
-Ecco come valutare lo stato del modello.
+Utilizza quanto segue per valutare lo stato del modello.
 
-Passare alla sezione **[!UICONTROL Models and Data Health]** in **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** di Marketo Engage. Qui vedrai tutti i tuoi modelli e i loro stati.
+Passare alla sezione **[!UICONTROL Models and Data Health]** in **[!UICONTROL Predictive Audiences]** nell&#39;area **[!UICONTROL Admin]** di Marketo Engage. Tutti i modelli e i relativi stati sono visualizzati qui.
 
 ![Immagine Uno](assets/models-and-insights-1.png)
 

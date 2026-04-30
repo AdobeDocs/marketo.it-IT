@@ -3,16 +3,16 @@ unique-page-id: 2953207
 description: Scopri come creare una nuova cartella di campagne in Attività di marketing. Organizza l’area di lavoro con le cartelle delle campagne per l’automazione e le risorse.
 title: Creare una nuova cartella campagna
 exl-id: 2899ee63-b15a-462a-bed6-8858a6b65308
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 17%
+source-wordcount: '101'
+ht-degree: 19%
 
 ---
 
 # Creare una nuova cartella campagna {#create-new-campaign-folder}
 
-Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Segui questi semplici passaggi e stai andando verso la magia dell’automazione.
+Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Segui questi passaggi per iniziare.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -38,11 +38,11 @@ Le cartelle di Campaign consentono di mantenere un’area di lavoro ordinata. Se
 
    ![](assets/image2015-2-25-8-3a9-3a3.png)
 
-   Fantastico! Hai appena creato una cartella della campagna. Controllalo nell&#39;albero.
+   La cartella della campagna viene visualizzata nella struttura.
 
    ![](assets/image2015-2-25-8-3a10-3a29.png)
 
-   Ora, quando [crei un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), vedrai questa cartella della campagna come un&#39;opzione.
+   Ora, quando [crei un nuovo programma](/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.md), viene visualizzata questa cartella della campagna come opzione.
 
 >[!MORELIKETHIS]
 >

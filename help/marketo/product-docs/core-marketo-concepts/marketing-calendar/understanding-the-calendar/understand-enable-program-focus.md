@@ -1,17 +1,17 @@
 ---
 unique-page-id: 2953364
 description: Scopri in che modo lo stato attivo sul programma consente di interagire con le voci del calendario di marketing. Attiva un programma per creare, modificare, eliminare o confermare le voci.
-title: Comprendere/abilitare l’oggetto del programma
+title: Comprendere e abilitare la messa a fuoco dei programmi
 exl-id: 90de3d93-d243-451d-8df3-5e2732919615
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 4%
+source-wordcount: '166'
+ht-degree: 0%
 
 ---
 
-# Comprendere/abilitare l’oggetto del programma {#understand-enable-program-focus}
+# Comprendere e abilitare la messa a fuoco dei programmi {#understand-enable-program-focus}
 
 Il calendario di marketing offre una visione d’insieme delle cose, ma consente anche alcune interazioni. Puoi [creare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/create-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [modificare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/edit-entries-directly-in-the-marketing-calendar.md){target="_blank"}, [eliminare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/delete-entries-directly-in-the-marketing-calendar.md){target="_blank"} e [confermare](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/confirm-entries-directly-in-the-marketing-calendar.md){target="_blank"} le voci. Per interagire con le voci, devi prima concentrarti su un programma.
 
@@ -23,7 +23,7 @@ Il calendario di marketing offre una visione d’insieme delle cose, ma consente
 
    ![](assets/image2014-10-20-13-3a24-3a3.png)
 
-1. Da notare che ora ci concentriamo sul nostro programma denominato &quot;Comunicato stampa&quot;.
+1. Il programma ora si concentra sul &quot;Comunicato stampa&quot;.
 
    ![](assets/image2014-10-20-13-3a24-3a15.png)
 
@@ -31,11 +31,11 @@ Il calendario di marketing offre una visione d’insieme delle cose, ma consente
    >
    >Concentrandosi su un programma è possibile interagire solo con le voci che lo appartengono e creare nuove voci che verranno ospitate da esso.
 
-1. Al termine, rilascia lo stato attivo per interagire con altri programmi/voci.
+1. Al termine dell’operazione, rilascia lo stato attivo per interagire con altri programmi o voci.
 
    ![](assets/image2014-10-20-13-3a24-3a24.png)
 
-Fantastico! Ora vai avanti e scopri come interagire con le voci.
+Utilizza i collegamenti riportati di seguito per scoprire come interagire con le voci.
 
 >[!MORELIKETHIS]
 >

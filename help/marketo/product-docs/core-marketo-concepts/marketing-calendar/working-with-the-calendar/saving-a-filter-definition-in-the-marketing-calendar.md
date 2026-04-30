@@ -4,10 +4,10 @@ description: Scopri come salvare una definizione di filtro nel calendario di mar
 title: Salvare una definizione di filtro nel calendario marketing
 exl-id: 66346207-6e8d-472d-971c-31417bd5210b
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 18%
+source-wordcount: '88'
+ht-degree: 19%
 
 ---
 
@@ -35,7 +35,7 @@ Il salvataggio di un filtro consente di passare da una definizione di filtro all
 
    ![](assets/image2014-9-24-10-3a51-3a12.png)
 
-   Se lo desideri, puoi [inviare una copia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} della definizione ad altri utenti di Marketo.
+   Facoltativamente, [invia una copia](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/working-with-the-calendar/sharing-a-filter-definition-in-the-marketing-calendar.md){target="_blank"} della definizione ad altri utenti di Marketo.
 
    >[!NOTE]
    >

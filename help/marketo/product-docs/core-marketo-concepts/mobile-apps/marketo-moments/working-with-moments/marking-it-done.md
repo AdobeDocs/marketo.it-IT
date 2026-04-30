@@ -4,10 +4,10 @@ description: Scopri come contrassegnare un momento come completato nell’app Ma
 title: Contrassegno completato
 exl-id: 0abac320-da3b-4ab8-a1ce-28e5e17f4d15
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 5%
+source-wordcount: '169'
+ht-degree: 4%
 
 ---
 
@@ -33,4 +33,4 @@ Contrassegna un programma e-mail, un evento o una scheda di analisi come [!UICON
 
    >[!NOTE]
    >
-   >Se si contrassegna una scheda come Completata, non viene eliminata l’e-mail, l’evento o la smart campaign. Lo sposta solo dal flusso Momenti/Più tardi al flusso Fatto (Done).
+   >Contrassegnando una scheda come Fine non si elimina l’e-mail, l’evento o la smart campaign. Lo sposta solo dal flusso Momenti/Più tardi al flusso Fatto (Done).

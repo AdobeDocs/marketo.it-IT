@@ -4,16 +4,16 @@ description: Scopri come visualizzare in anteprima un’e-mail in Marketo Moment
 title: Anteprima di un’e-mail
 exl-id: 10bcedbd-553f-4ba1-b1bd-1aad2890dbd4
 feature: Mobile Marketing
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '158'
 ht-degree: 5%
 
 ---
 
 # Anteprima di un’e-mail {#previewing-an-email}
 
-Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l’anteprima prima di premere il trigger.
+Fai clic con il pulsante destro del mouse su una scheda e-mail per visualizzarne l’anteprima prima dell’invio.
 
 >[!IMPORTANT]
 >

@@ -4,9 +4,9 @@ description: Scopri come personalizzare una presentazione con calendari di marke
 title: Personalizzare una presentazione
 exl-id: c871afb9-9762-498d-b168-cfce4ef05736
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '273'
 ht-degree: 2%
 
 ---
@@ -36,7 +36,7 @@ Le presentazioni passano attraverso diverse [definizioni di filtro](/help/market
 
 ## Aggiungi un obiettivo {#add-a-goal}
 
-Le presentazioni sono straordinarie quando mostrano gli obiettivi del tuo team. Trascina su [obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} o [obiettivi elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"} diversi. È possibile utilizzare fino a 10.
+Le presentazioni sono più efficaci quando mostrano gli obiettivi del team. Trascina su diversi [obiettivi personalizzati](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-custom-goal.md){target="_blank"} o [obiettivi elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/create-a-smart-list-goal.md){target="_blank"}. È possibile utilizzare fino a 10.
 
 1. Nell&#39;albero a destra trascinare i diversi obiettivi che si desidera visualizzare nella presentazione.
 
@@ -44,7 +44,7 @@ Le presentazioni sono straordinarie quando mostrano gli obiettivi del tuo team. 
 
 ## Impostare la frequenza di rotazione {#set-the-frequency-of-rotation}
 
-Dopo aver inserito le viste desiderate nella presentazione, impostare la frequenza di rotazione tra le diverse viste.
+Una volta inserite le viste, impostate la frequenza di rotazione tra le diverse viste.
 
 1. Fare clic su **[!UICONTROL 5 minutes]** (cadenza predefinita).
 
@@ -66,11 +66,9 @@ Dopo aver inserito le viste desiderate nella presentazione, impostare la frequen
 
    ![](assets/image2015-3-18-13-3a27-3a37.png)
 
-   Fantastico! Sei pronto a vedere la tua presentazione?
-
 >[!TIP]
 >
->Imposta [immagine di sfondo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} per la presentazione. Suggeriamo gattini o arcobaleni.
+>Imposta [immagine di sfondo](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/calendar-hd/add-a-background-image-to-a-presentation.md){target="_blank"} per la presentazione.
 
 ## Anteprima di una presentazione {#preview-a-presentation}
 
@@ -80,11 +78,11 @@ Una volta configurata, la presentazione è pronta per essere visualizzata in ant
 
    ![](assets/image2015-3-18-13-3a37-3a55.png)
 
-   Ta-da! Ecco come potrebbe apparire la presentazione.
+   Ecco come potrebbe apparire la presentazione.
 
    ![](assets/image2015-3-24-14-3a29-3a29.png)
 
-   Non ti piace quello che vedi? Torna indietro e utilizza diverse definizioni di filtro per creare la visualizzazione desiderata.
+   Per regolare la visualizzazione, utilizza definizioni di filtro diverse.
 
 >[!MORELIKETHIS]
 >

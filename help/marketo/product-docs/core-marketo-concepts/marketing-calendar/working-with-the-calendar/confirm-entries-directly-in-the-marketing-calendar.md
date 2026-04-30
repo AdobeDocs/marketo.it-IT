@@ -4,16 +4,16 @@ description: Scopri come confermare le voci provvisorie di Smart Campaign e del 
 title: Confermare le voci direttamente nel calendario marketing
 exl-id: f0074982-0cdc-44b9-b6f9-eb47407aba58
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 17%
+source-wordcount: '89'
+ht-degree: 15%
 
 ---
 
 # Confermare le voci direttamente nel calendario marketing {#confirm-entries-directly-in-the-marketing-calendar}
 
-Campagne intelligenti e programmi e-mail possono essere creati come voci provvisorie e devono essere confermati affinché tutto accada effettivamente. Ecco come.
+Campagne intelligenti e programmi e-mail possono essere creati come voci provvisorie e devono essere confermati affinché tutto accada effettivamente.
 
 1. Passare a **[!UICONTROL Calendar]**.
 
@@ -23,7 +23,7 @@ Campagne intelligenti e programmi e-mail possono essere creati come voci provvis
 
    ![](assets/image2014-10-20-13-3a22-3a15.png)
 
-1. Procedi e conferma la voce.
+1. Confermare la voce.
 
    ![](assets/image2014-10-20-13-3a22-3a26.png)
 

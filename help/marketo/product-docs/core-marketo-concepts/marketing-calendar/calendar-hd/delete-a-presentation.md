@@ -4,16 +4,16 @@ description: Scopri come eliminare una presentazione di calendario di marketing.
 title: Eliminare una presentazione
 exl-id: 027d6d68-c2b6-4424-bc69-77d047d62359
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '51'
-ht-degree: 17%
+source-wordcount: '42'
+ht-degree: 21%
 
 ---
 
 # Eliminare una presentazione {#delete-a-presentation}
 
-A volte puoi avere troppe cose buone. Elimina le vecchie presentazioni per liberare spazio per quelle nuove.
+Eliminare le vecchie presentazioni per liberare spazio per quelle nuove.
 
 1. Selezionare una presentazione.
 

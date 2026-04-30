@@ -4,16 +4,16 @@ description: Scopri come avviare una presentazione del calendario di marketing d
 title: Avviare una presentazione
 exl-id: 2726e185-c28a-44bb-b7a6-46698efcd1b4
 feature: Marketing Calendar
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 8bb13497a5173f355563e2badf867a5f847be488
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 5%
+source-wordcount: '113'
+ht-degree: 6%
 
 ---
 
 # Avviare una presentazione {#launch-a-presentation}
 
-Dopo aver impostato le visualizzazioni e la frequenza di rotazione per la presentazione, è ora di spegnersi.
+Una volta impostate le visualizzazioni e la frequenza di rotazione, la presentazione è pronta per l&#39;avvio.
 
 >[!AVAILABILITY]
 >
@@ -27,7 +27,7 @@ Dopo aver impostato le visualizzazioni e la frequenza di rotazione per la presen
 
 >[!TIP]
 >
->Assicurati di _visualizzare in anteprima una presentazione_ prima di avviare.
+>Visualizzare l&#39;anteprima della presentazione prima di avviarla.
 
 1. Fai clic su **[!UICONTROL Launch]**.
 
