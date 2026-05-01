@@ -157,7 +157,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   </tr>
   <tr>
    <td>Centro sottoscrizioni/preferenze</td>
-   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
+   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=it" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
   </tr>
   <tr>
    <td>Momenti di interesse (se applicabile)</td>

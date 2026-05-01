@@ -98,9 +98,9 @@ Quando si esegue una grande quantità di aggiornamenti (ad esempio, se si modifi
 
 **Campi aggiornati di frequente**: alcuni campi sono soggetti ad aggiornamenti frequenti. Ad esempio, i campi di valuta soggetti a modifiche di valuta. Controlla se è necessario sincronizzarli o se i campi devono essere progettati in modo diverso. Se sono presenti altri campi che vengono aggiornati frequentemente e non sono necessari, nasconderli all&#39;utente di sincronizzazione. Assicurati di discutere con le integrazioni dell’amministratore di SFDC che potrebbero aggiornare i campi.
 
-**Oggetti personalizzati**: controlla periodicamente [oggetti personalizzati](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} abilitati per sincronizzare e disabilitare quelli che non devono più essere sincronizzati.
+**Oggetti personalizzati**: controlla periodicamente [oggetti personalizzati](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync){target="_blank"} abilitati per sincronizzare e disabilitare quelli che non devono più essere sincronizzati.
 
-**Attività**: [Verifica eventuali attività](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} abilitate per la sincronizzazione che possono essere rimosse.  Queste attività vengono sincronizzate solo una volta al giorno per lead.
+**Attività**: [Verifica eventuali attività](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/optional-steps/customize-activities-sync){target="_blank"} abilitate per la sincronizzazione che possono essere rimosse.  Queste attività vengono sincronizzate solo una volta al giorno per lead.
 
 **Errori di sincronizzazione recensioni**: la gestione delle eccezioni potrebbe rallentare la sincronizzazione. L&#39;esame delle notifiche degli utenti e la risoluzione degli errori possono migliorare l&#39;integrità della sincronizzazione.
 

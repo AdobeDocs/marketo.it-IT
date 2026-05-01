@@ -36,7 +36,7 @@ Per eseguire la sincronizzazione con le applicazioni Adobe, come Audience Manage
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Immetti il [ID organizzazione Adobe IMS](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
+1. Immetti il [ID organizzazione Adobe IMS](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=it){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
