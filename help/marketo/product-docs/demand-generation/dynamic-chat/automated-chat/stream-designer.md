@@ -145,7 +145,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-11.png)
 
-1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_sotto la prenotazione della riunione.
+1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_&#x200B;sotto la prenotazione della riunione.
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-18.png)
 
-1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_sotto Info Capture.
+1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_&#x200B;sotto Info Capture.
 
    ![](assets/stream-designer-19.png)
 

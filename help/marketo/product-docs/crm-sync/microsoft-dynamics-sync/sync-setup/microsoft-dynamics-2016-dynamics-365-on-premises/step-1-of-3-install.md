@@ -30,7 +30,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365
 >
 >Per eseguire questa sincronizzazione sono necessari privilegi di amministratore CRM.
 
-1. Accedi a **[!DNL Dynamics].** Fare clic sul menu a discesa CRM **di**[!DNL Microsoft Dynamics] e selezionare **[!UICONTROL Settings]**.
+1. Accedi a **[!DNL Dynamics].** Fare clic sul menu a discesa CRM **di**&#x200B;[!DNL Microsoft Dynamics] e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

@@ -52,7 +52,7 @@ ht-degree: 8%
 
 Quando la sincronizzazione dei cookie è abilitata per l’abbonamento a Marketo, munchkin.js di Marketo tenta di acquisire e memorizzare gli ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore cookie di Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi con gli ECID di Adobe.
 
-È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un’e-mail in testo normale. [ è descritto esattamente come funziona](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un’e-mail in testo normale. [&#x200B; è descritto esattamente come funziona](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Perché la dimensione dell&#39;elenco in Marketo è diversa da quella in Adobe?**
 

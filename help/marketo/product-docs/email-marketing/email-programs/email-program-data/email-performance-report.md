@@ -78,7 +78,7 @@ In linea generale, queste statistiche vengono registrate seguendo criteri di buo
 
 * **Regola 2**: se il record e-mail mostra _[!UICONTROL Opened]_, viene conteggiato come_ Consegnato _.
 
-* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
+* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_&#x200B;o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
 
 * **Regola 4**: se l’e-mail è _[!UICONTROL Opened]_, i mancati recapiti vengono ignorati. Se l’e-mail non è stata aperta,_ Non recapitata in modo permanente _ha la precedenza su_ Non recapitata in modo non permanente _e_ Consegnata _.
 

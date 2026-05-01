@@ -36,7 +36,7 @@ Quindi, come si imposta una campagna?
    >
    >Creare una nuova categoria facendo clic su **+** accanto a **[!UICONTROL Categories]**.
 
-1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL  Continue]**.
+1. Verrà selezionata la categoria selezionata. Se cambi idea, fai clic sul menu a discesa e selezionane uno diverso. Al termine, fare clic su **[!UICONTROL &#x200B; Continue]**.
 
    ![](assets/three-1.png)
 

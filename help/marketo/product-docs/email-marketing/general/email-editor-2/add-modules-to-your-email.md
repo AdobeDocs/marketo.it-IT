@@ -21,7 +21,7 @@ In [!DNL Email Editor 2.0], un modulo è una sezione dell&#39;e-mail definita ne
 
    >[!NOTE]
    >
-   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. All&#39;estrema destra dell&#39;e-mail, fare clic su **[!UICONTROL Modules]**.
 
