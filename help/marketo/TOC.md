@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: f26e46d4e6cb4855e5eb7f4d34a90f801e9654a7
+source-git-commit: 88155ad99ba2899c3db3c1f7ae92a69f348dc020
 workflow-type: tm+mt
-source-wordcount: '9132'
+source-wordcount: '9236'
 ht-degree: 99%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 99%
       + [Iscriviti alle notifiche di stato del sistema](getting-started/things-to-know/system-status-notifications.md)
       + [Assistente AI per la conoscenza del prodotto](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
       + [Community nazione di marketing](getting-started/things-to-know/community.md)
+      + [Migrazione AWS](getting-started/things-to-know/aws-migration.md)
    + Risultati rapidi {#quick-wins}
       + [Configurare e aggiungere una persona](getting-started/quick-wins/get-set-up-and-add-a-person.md)
       + [Inviare un’e-mail](getting-started/quick-wins/send-an-email.md)
@@ -121,7 +122,7 @@ ht-degree: 99%
          + [Abilitare restrizioni persona per campagne avanzate](product-docs/administration/email-setup/enable-person-restrictions-for-smart-campaigns.md)
          + [Tracciamento dell’apertura delle e-mail a livello di campagna](product-docs/administration/email-setup/email-open-tracking-at-campaign-level.md)
          + [Filtrare l’attività bot dell’e-mail](product-docs/administration/email-setup/filtering-email-bot-activity.md)
-         + [Rimuovere il testo per l’annullamento iscrizione](product-docs/administration/email-setup/remove-unsubscribe-text-from-the-admin-email-section.md)
+         + [Rimuovere il testo per l’annullamento iscrizione](product-docs/administration/email-setup/remove-unsubscribe-text.md)
       + Gestione dei campi {#field-management}
          + [Bloccare aggiornamenti dei campi durante l’importazione degli elenchi da origini non attendibili](product-docs/administration/field-management/block-field-updates-during-list-import-from-untrusted-sources.md)
          + [Bloccare gli aggiornamenti a un campo](product-docs/administration/field-management/block-updates-to-a-field.md)
@@ -217,7 +218,7 @@ ht-degree: 99%
          + [Modificare un’area di lavoro](product-docs/administration/workspaces-and-person-partitions/edit-a-workspace.md)
          + [Modificare una partizione persone esistente](product-docs/administration/workspaces-and-person-partitions/edit-an-existing-person-partition.md)
          + [Condividere segmentazioni tra aree di lavoro e partizioni](product-docs/administration/workspaces-and-person-partitions/share-segmentations-across-workspaces-and-partitions.md)
-   + Integrazioni di Adobe Experience Cloud  {#adobe-experience-cloud-integrations}
+   + Integrazioni di Adobe Experience Cloud {#adobe-experience-cloud-integrations}
       + [Panoramica delle integrazioni di Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/adobe-experience-cloud-integrations-overview.md)
       + [Configurare la mappatura dell’organizzazione Adobe](product-docs/adobe-experience-cloud-integrations/set-up-adobe-organization-mapping.md)
       + [Sincronizzare un pubblico da Adobe Experience Cloud](product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md)
@@ -934,7 +935,7 @@ ht-degree: 99%
             + [Esportare un elenco con URL personalizzati](product-docs/demand-generation/landing-pages/personalizing-landing-pages/export-a-list-with-personalized-urls.md)
             + [Includere un file ICS evento calendario in una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/include-a-calendar-event-ics-file-in-a-landing-page.md)
             + [Reindirizzare un percorso URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/redirect-a-url-path.md)
-            + [Panoramica sui token](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
+            + [Panoramica dei token](product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md)
             + [Utilizzare il contenuto dinamico in una pagina di destinazione](product-docs/demand-generation/landing-pages/personalizing-landing-pages/use-dynamic-content-in-a-landing-page.md)
             + [Utilizzo del generatore di URL](product-docs/demand-generation/landing-pages/personalizing-landing-pages/using-the-url-builder.md)
       + Social {#social}
@@ -1306,22 +1307,13 @@ ht-degree: 99%
          + [Sincronizzazione attività promemoria con Salesforce](product-docs/marketo-sales-connect/tasks/reminder-task-sync-with-salesforce.md)
          + [Sincronizzazione delle attività di Sales Connect con Salesforce per la prima volta](product-docs/marketo-sales-connect/tasks/syncing-sales-connect-tasks-with-salesforce-for-the-first-time.md)
       + Modelli {#templates}
-         + [Aggiungere annullamenti automatici dell’iscrizione a un modello](product-docs/marketo-sales-connect/templates/add-auto-unsubscribes-to-a-template.md)
+         + [Gestire i modelli](product-docs/marketo-sales-connect/templates/manage-templates.md)
          + [Aggiungere testo con collegamento ipertestuale](product-docs/marketo-sales-connect/templates/add-hyperlinked-text.md)
-         + [Archiviare modelli](product-docs/marketo-sales-connect/templates/archive-templates.md)
-         + [Creare una nuova categoria.](product-docs/marketo-sales-connect/templates/create-a-new-category.md)
-         + [Creare un nuovo modello](product-docs/marketo-sales-connect/templates/create-a-new-template.md)
-         + [Personalizzare la visualizzazione del modello](product-docs/marketo-sales-connect/templates/customize-template-view.md)
-         + [Eliminare una categoria di modello](product-docs/marketo-sales-connect/templates/delete-a-template-category.md)
-         + [Eliminare un modello](product-docs/marketo-sales-connect/templates/delete-a-template.md)
-         + [Modificare una categoria di modello](product-docs/marketo-sales-connect/templates/edit-a-template-category.md)
-         + [Aggiungere un modello ai preferiti](product-docs/marketo-sales-connect/templates/favorite-a-template.md)
-         + [Unire e deduplicare le categorie](product-docs/marketo-sales-connect/templates/merge-and-de-duplicate-categories.md)
          + [Modelli consigliati](product-docs/marketo-sales-connect/templates/recommended-templates.md)
-         + [Modelli condivisi](product-docs/marketo-sales-connect/templates/shared-templates.md)
          + [Livello di coinvolgimento per un modello](product-docs/marketo-sales-connect/templates/template-engagement.md)
          + [Utilizzo di HTML](product-docs/marketo-sales-connect/templates/using-html.md)
          + [Visualizzare l’elenco modelli come altro utente](product-docs/marketo-sales-connect/templates/view-template-list-as-another-user.md)
+         + [Gestire le categorie di modelli](product-docs/marketo-sales-connect/templates/manage-template-categories.md)
          + Campi dinamici {#dynamic-fields}
             + [Creare campi dinamici personalizzati](product-docs/marketo-sales-connect/templates/dynamic-fields/create-custom-dynamic-fields.md)
             + [Glossario dei campi dinamici](product-docs/marketo-sales-connect/templates/dynamic-fields/dynamic-fields-glossary.md)
