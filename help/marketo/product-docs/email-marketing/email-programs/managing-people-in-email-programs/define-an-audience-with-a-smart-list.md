@@ -4,9 +4,9 @@ description: Scopri come definire un pubblico di programmi e-mail con un elenco 
 title: Definire un pubblico con un elenco avanzato
 exl-id: 72a1e717-271b-46b5-b097-d29658b8f6ff
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '267'
 ht-degree: 8%
 
 ---
@@ -47,7 +47,7 @@ Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/
 
    ![](assets/myemailprogram.jpg)
 
-   Ottimo lavoro! È ora di [scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [creare un&#39;e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
+   Ottimo lavoro! Ora è il momento di [scegliere un&#39;e-mail esistente](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/choose-an-existing-email.md) o [creare un&#39;e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da inviare a queste persone.
 
 >[!NOTE]
 >

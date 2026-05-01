@@ -4,9 +4,9 @@ description: Scopri le notifiche push in Marketo. Comprendi la configurazione de
 title: Informazioni sulle notifiche push
 exl-id: a3e99eeb-3671-40c4-82ac-773c2cc05914
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '232'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->La messaggistica in-app è un’applicazione aggiuntiva. Conferma con il tuo account manager Marketo per essere sicuro che sia attivato.
+>La messaggistica in-app è un’applicazione aggiuntiva. Per verificare che sia attivato, rivolgiti al tuo account manager Marketo.
 
 Marketo mobile engagement consente di creare, configurare e inviare una notifica proprio come si farebbe per creare un’e-mail.  Prima di poter creare e inviare notifiche push dall’app mobile, devi rivolgerti all’amministratore di Marketo e allo sviluppatore di app mobili per eseguire alcune impostazioni.
 

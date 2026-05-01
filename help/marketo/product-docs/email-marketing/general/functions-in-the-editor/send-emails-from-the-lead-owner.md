@@ -4,9 +4,9 @@ description: Scopri come inviare e-mail dall’indirizzo del proprietario del le
 title: Inviare e-mail dal proprietario del lead
 exl-id: b7ceb976-f52f-4134-8b7e-1c18d09af5de
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '197'
 ht-degree: 7%
 
 ---
@@ -59,6 +59,6 @@ Cosa succede se desideri inviare un’e-mail a un lead per conto del proprietari
 
    ![](assets/ten.png)
 
-1. Assicurati che i campi **[!UICONTROL Reply-to]** e **[!UICONTROL Subject]** siano compilati ed è tutto pronto.
+1. Completare i campi **[!UICONTROL Reply-to]** e **[!UICONTROL Subject]**.
 
    ![](assets/eleven.png)

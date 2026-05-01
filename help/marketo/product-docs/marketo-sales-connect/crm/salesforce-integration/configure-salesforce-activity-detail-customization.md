@@ -3,9 +3,9 @@ description: Scopri come configurare la personalizzazione dei dettagli delle att
 title: Configurare la personalizzazione dei dettagli delle attività di Salesforce
 exl-id: 4b20ca29-18d6-4026-9bf9-77656ad1442d
 feature: Marketo Sales Connect
-source-git-commit: 5da84f816951dffdd17c415222e12ed77fb8b9e6
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '672'
 ht-degree: 2%
 
 ---
@@ -15,13 +15,13 @@ ht-degree: 2%
 >[!PREREQUISITES]
 >
 >* [!DNL Salesforce] e [!DNL Marketo Sales Connect] [devono essere connessi](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/connect-your-sales-connect-account-to-salesforce.md)
->* La registrazione dell&#39;attività e-mail tramite API [&#x200B; deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
+>* La registrazione dell&#39;attività e-mail tramite API [ deve essere abilitata](/help/marketo/product-docs/marketo-sales-connect/crm/salesforce-integration/salesforce-sync-settings.md)
 
 Personalizzazione dettagli attività consente agli amministratori di configurare le informazioni che accederanno al campo Oggetto dell&#39;attività di Salesforce quando un&#39;attività di attività/promemoria [!DNL Sales Connect] viene sincronizzata in Salesforce.
 
 >[!NOTE]
 >
->* Gli aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Sales Connect] di un&#39;attività promemoria verranno rispecchiati nel campo dell&#39;oggetto dell&#39;attività [!DNL Salesforce] corrispondente, se si utilizza il campo dinamico `{{activity_subject}}` nella personalizzazione dei dettagli attività.
+>* Se si utilizza il campo dinamico `{{activity_subject}}` nella personalizzazione dei dettagli attività, gli aggiornamenti apportati al campo dell&#39;oggetto in [!DNL Sales Connect] di un&#39;attività promemoria si rifletteranno nel campo dell&#39;oggetto corrispondente dell&#39;attività [!DNL Salesforce].
 >* Le interruzioni di riga non sono supportate quando si registrano informazioni nel campo dell&#39;oggetto [!DNL Salesforce]. Eventuali interruzioni di riga nell&#39;editor personalizzazione dettagli attività verranno rimosse quando si aggiorna un oggetto attività di vendita.
 
 ![](assets/configure-salesforce-activity-detail-customization-1.png)
@@ -125,7 +125,7 @@ Quando configuri i dettagli dell&#39;attività, considera quali dati sarebbero p
 
    >[!TIP]
    >
-   >Anche se non obbligatorio, la disposizione del testo aggiunto tra parentesi quadre può facilitare la distinzione tra i dati quando vengono inseriti in un campo dell’oggetto in Salesforce. Esempio: `[Sales Connect] - {{Activity_type}}`
+   >Anche se non obbligatorio, la disposizione del testo aggiunto tra parentesi quadre può facilitare la distinzione tra i dati quando questi vengono inseriti in un campo dell’oggetto in Salesforce. Esempio: `[Sales Connect] - {{Activity_type}}`
 
 1. Per aggiungere altri campi dinamici, fare clic sul pulsante **[!UICONTROL Add Dynamic Field]**.
 

@@ -4,9 +4,9 @@ description: Scopri come visualizzare le informazioni e le attività relative a 
 title: Visualizzare le informazioni sulla persona e sull’account e le attività in Google Mail
 exl-id: 06bfd7ce-d60a-42de-a349-0a4b4ef72db5
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '301'
 ht-degree: 6%
 
 ---

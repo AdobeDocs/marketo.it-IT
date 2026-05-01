@@ -3,16 +3,16 @@ description: Aumenta o diminuisce il limite di recupero degli oggetti personaliz
 title: Modifica dei limiti di recupero degli oggetti personalizzati in [!DNL Velocity Scripting]
 exl-id: ef45205e-421d-4d1d-8c9d-7d627326a90c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 0%
+source-wordcount: '236'
+ht-degree: 1%
 
 ---
 
 # Modifica dei limiti di recupero degli oggetti personalizzati in [!DNL Velocity Scripting] {#change-custom-object-retrieval-limits-in-velocity-scripting}
 
-Se utilizzi [!DNL Velocity Script] per visualizzare i dati degli oggetti personalizzati nelle e-mail, questa funzione potrebbe essere adatta a te. Per impostazione predefinita, puoi accedere a 10 oggetti personalizzati principali dallo script Velocity. Se hai bisogno di accedervi di più, continua a leggere.
+Se utilizzi [!DNL Velocity Script] per visualizzare i dati degli oggetti personalizzati nelle e-mail, questa funzione potrebbe essere applicabile al tuo caso d&#39;uso. Per impostazione predefinita, è consentito l’accesso a 10 oggetti personalizzati principali dallo script Velocity. Per ulteriori informazioni, consulta la procedura riportata di seguito.
 
 ## Cos&#39;è [!DNL Velocity] {#what-is-velocity}
 
@@ -38,4 +38,4 @@ Se utilizzi [!DNL Velocity Script] per visualizzare i dati degli oggetti persona
 >
 >Il valore [!UICONTROL Parent Retrieval Limit] deve essere compreso tra 10 e 100. [!UICONTROL Child Retrieval Limit] viene impostato automaticamente. A tale scopo, dividere 1000 per [!UICONTROL Parent Retrieval Limit]. Ad esempio, se si imposta il limite Padre su 50, il limite Figlio diventa 20 (1000 ÷ 50 = 20).
 
-Bello! È ora possibile accedere a più oggetti personalizzati da [!DNL Velocity script].
+È ora possibile accedere a più oggetti personalizzati da [!DNL Velocity script].

@@ -4,16 +4,16 @@ description: Scopri come visualizzare quali [!DNL Salesforce] campi sono mappati
 title: Visualizza mapping campi tra Marketo e  [!DNL Salesforce]
 exl-id: a60835ec-da8f-4141-af54-0160e2531581
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 8%
+source-wordcount: '94'
+ht-degree: 12%
 
 ---
 
 # Visualizza mapping campi tra Marketo e [!DNL Salesforce] {#view-field-mappings-between-marketo-and-salesforce}
 
-È possibile sapere a quali [!DNL Salesforce] campi è associato un campo Marketo specifico. Ecco come controllare.
+È possibile sapere a quali [!DNL Salesforce] campi è mappato un campo Marketo specifico. Segui i passaggi seguenti.
 
 >[!NOTE]
 >
@@ -27,7 +27,7 @@ ht-degree: 8%
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-2.png)
 
-1. Individua il campo che desideri visualizzare e fai clic su **+** per espandere la mappatura.
+1. Trova il campo che ti interessa e fai clic su **+** per espandere la mappatura.
 
    ![](assets/view-field-mappings-between-marketo-and-salesforce-3.png)
 

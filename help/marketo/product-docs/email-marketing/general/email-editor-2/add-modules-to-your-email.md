@@ -4,10 +4,10 @@ description: Scopri come aggiungere moduli all’e-mail in Editor e-mail 2.0. In
 title: Aggiungere moduli all’e-mail
 exl-id: d87b8b42-421b-4804-8441-8e41f2353b03
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 5%
+source-wordcount: '257'
+ht-degree: 7%
 
 ---
 
@@ -21,7 +21,7 @@ In [!DNL Email Editor 2.0], un modulo è una sezione dell&#39;e-mail definita ne
 
    >[!NOTE]
    >
-   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare &#x200B;](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
+   >La maggior parte dei Marketo [!UICONTROL Starter Templates] contiene [!UICONTROL Modules]. Puoi anche [creare ](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-syntax.md#modules).
 
 1. All&#39;estrema destra dell&#39;e-mail, fare clic su **[!UICONTROL Modules]**.
 
@@ -43,7 +43,7 @@ In [!DNL Email Editor 2.0], un modulo è una sezione dell&#39;e-mail definita ne
 
 Esistono due modi per spostare un modulo.
 
-1. Identificare il modulo che si desidera spostare. Se non sai come si chiama, posiziona il cursore del mouse su di esso, che verrà evidenziato a destra.
+1. Identificare il modulo che si desidera spostare. Se non sei sicuro di come si chiama, posiziona il cursore del mouse su di esso e verrà evidenziato a destra.
 
    ![](assets/six-2.png)
 
@@ -63,7 +63,7 @@ Esistono due modi per spostare un modulo.
 
    ![](assets/ten-2.png)
 
-È tutto qui.
+Tutto qui.
 
 >[!MORELIKETHIS]
 >

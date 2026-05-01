@@ -4,9 +4,9 @@ description: Scopri come inviare un’e-mail tracciata da Gmail con il plug-in S
 title: Come inviare un’e-mail da Gmail
 exl-id: 8a036b37-984c-4298-917e-fa680657b79f
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '146'
 ht-degree: 9%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 9%
 
 >[!CAUTION]
 >
->L’utilizzo della funzionalità &quot;Annulla invio&quot; in Gmail impedirà l’invio dell’e-mail quando si utilizza l’estensione Gmail, ma è possibile che venga ancora visualizzata un’attività nell’applicazione web e in Salesforce, se si registrano attività in Salesforce.
+>L’utilizzo della funzionalità &quot;Annulla invio&quot; in Gmail impedirà l’invio dell’e-mail quando si utilizza l’estensione Gmail, ma è possibile che venga ancora visualizzata un’attività nell’applicazione web e in Salesforce se si registrano attività in Salesforce.
 
 1. In Gmail, fai clic su **Componi**.
 

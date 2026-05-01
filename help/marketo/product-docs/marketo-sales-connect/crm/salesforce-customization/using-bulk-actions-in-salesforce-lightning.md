@@ -4,9 +4,9 @@ description: Scopri come utilizzare le azioni in blocco in Salesforce Lightning 
 title: Utilizzo di azioni in blocco in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '378'
+source-wordcount: '385'
 ht-degree: 1%
 
 ---
@@ -42,7 +42,7 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
-   a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;Tutte le ricezioni&quot; - corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
+   a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;Tutte le ricevute&quot;. Corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
 b. Questo elenco è visibile nel pannello a sinistra denominato &quot;Composizione in blocco&quot;. Qui puoi aggiungere/rimuovere i destinatari
 c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
 d. Puoi inviare l’e-mail immediatamente o pianificare l’invio in un secondo momento

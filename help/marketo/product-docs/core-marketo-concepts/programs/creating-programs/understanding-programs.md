@@ -4,16 +4,16 @@ description: Scopri i programmi in Marketo per organizzare campagne e risorse. U
 title: Informazioni sui programmi
 exl-id: 3ba18df8-9b31-4a69-bb52-f50d3896bb47
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 87%
+source-wordcount: '165'
+ht-degree: 81%
 
 ---
 
 # Informazioni sui programmi {#understanding-programs}
 
-I programmi rappresentano una singola iniziativa di marketing. Un programma può essere considerato come un contenitore con tutte le informazioni necessarie per il suo funzionamento. Tali informazioni sono dette “risorse locali&quot; e includono **pagine di destinazione**, **e-mail**, **campagne avanzate** e altro ancora. I programmi sono articolati, ma è facile iniziare.
+I programmi rappresentano una singola iniziativa di marketing. Un programma può essere considerato come un contenitore con tutte le informazioni necessarie per il suo funzionamento. Tali informazioni sono dette “risorse locali&quot; e includono **pagine di destinazione**, **e-mail**, **campagne avanzate** e altro ancora. I programmi fanno molto, ma è facile iniziare.
 
 Esistono quattro tipi di programmi:
 

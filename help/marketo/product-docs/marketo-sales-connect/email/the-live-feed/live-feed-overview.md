@@ -4,9 +4,9 @@ description: Scopri il feed live in Sales Connect. Visualizza il coinvolgimento 
 title: Panoramica dei feed live
 exl-id: 646a3650-538d-4ea5-b29f-44ad6588e247
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '409'
 ht-degree: 1%
 
 ---
@@ -101,4 +101,4 @@ Visualizza le persone migliori (ordinate dal livello più alto a quello più bas
 
 >[!NOTE]
 >
->Se vedi che un utente visualizza la tua e-mail più volte nel tuo feed Live, potrebbe aver inoltrato l’e-mail ad altri destinatari. Questo è più probabile se noti che la posizione inizia a cambiare per quelle viste.
+>Se qualcuno visualizza la tua e-mail più e più volte nel tuo feed Live, potrebbe aver inoltrato l’e-mail ad altri destinatari. Questo è più probabile se noti che la posizione inizia a cambiare per quelle viste.

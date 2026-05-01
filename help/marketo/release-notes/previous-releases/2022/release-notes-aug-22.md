@@ -2,9 +2,9 @@
 description: Note sulla versione - Agosto 2022 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - agosto 2022
 exl-id: 7a224fa7-0aec-4d0d-9535-c35241a45654
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '517'
 ht-degree: 7%
 
 ---

@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '314'
 ht-degree: 5%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 5%
 
    ![](assets/add-to-marketing-campaign-4.png)
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su [!UICONTROL Individuals] e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, non selezionare più l’indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su [!UICONTROL Individuals] e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
 
    ![](assets/add-to-marketing-campaign-5.png)
 
@@ -78,7 +78,7 @@ PICC
 
 PICC
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su [!UICONTROL Individuals] e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, non selezionare più l’indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su [!UICONTROL Individuals] e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
 
 PICC
 

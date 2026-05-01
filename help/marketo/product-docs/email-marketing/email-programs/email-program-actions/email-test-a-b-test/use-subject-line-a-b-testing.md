@@ -4,9 +4,9 @@ description: Scopri come eseguire i test A/B dell’oggetto nei programmi e-mail
 title: Utilizzare il test A/B “Oggetto”
 exl-id: 99c2415e-886b-44fa-ba96-5d4ec371753e
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '246'
 ht-degree: 4%
 
 ---
@@ -41,7 +41,7 @@ Puoi testare facilmente le e-mail tramite test A/B. Uno dei test più comuni è 
 
    >[!CAUTION]
    >
-   >**Si consiglia di evitare di impostare la dimensione del campione su 100%**. Se utilizzi un elenco statico, impostando la dimensione del campione sul 100%, l’e-mail verrà inviata a tutti gli utenti del pubblico e il vincitore non verrà recapitato a nessuno. Se utilizzi un elenco avanzato, impostando la dimensione del campione sul 100%, l&#39;e-mail verrà inviata a tutti gli utenti del pubblico _in quel momento_. E quando il programma e-mail viene eseguito nuovamente in un secondo momento, anche le nuove persone che si qualificano per l’elenco avanzato riceveranno l’e-mail, in quanto sono ora incluse nel pubblico.
+   >**Si consiglia di evitare di impostare la dimensione del campione su 100%**. Se utilizzi un elenco statico, impostando la dimensione del campione su 100%, l’e-mail verrà inviata a tutti gli utenti del pubblico e il vincitore non verrà recapitato a nessuno. Se utilizzi un elenco avanzato, impostando la dimensione del campione su 100%, l&#39;e-mail verrà inviata a tutti gli utenti del pubblico _in quel momento_. E quando il programma e-mail viene eseguito nuovamente in un secondo momento, anche le nuove persone che si qualificano per l’elenco avanzato riceveranno l’e-mail, in quanto sono ora incluse nel pubblico.
 
    >[!NOTE]
    >

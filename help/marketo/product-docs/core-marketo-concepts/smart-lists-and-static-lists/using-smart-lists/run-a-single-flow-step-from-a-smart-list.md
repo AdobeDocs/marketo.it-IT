@@ -4,10 +4,10 @@ description: Scopri come eseguire un singolo passaggio di flusso da un elenco av
 title: Eseguire un passaggio di flusso singolo da un elenco avanzato
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '228'
-ht-degree: 10%
+source-wordcount: '231'
+ht-degree: 9%
 
 ---
 
@@ -51,7 +51,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-6.png)
 
-1. Se i valori dei dati vengono modificati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fai clic su **[!UICONTROL Go For It]**.
+1. Se si modificano i valori dei dati per un numero elevato di persone, potrebbe essere necessario confermare la modifica digitando il numero. Fai clic su **[!UICONTROL Go For It]**.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 

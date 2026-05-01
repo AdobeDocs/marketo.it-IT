@@ -4,16 +4,16 @@ description: Scopri come rimuovere le persone dal flusso con il passaggio Rimuov
 title: Rimuovere dal flusso
 exl-id: 98b3664a-dd40-4859-a74d-0a9e84113225
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '157'
 ht-degree: 3%
 
 ---
 
 # Rimuovere dal flusso {#remove-from-flow}
 
-Immagina di avere un flusso di Smart Campaign che utilizza &quot;Invia avviso&quot; per ricordare a un rappresentante di vendita di chiamare un potenziale cliente. Invia un messaggio ogni giorno finché l’amministratore non effettua la chiamata. Puoi utilizzare &quot;Rimuovi dal flusso&quot; in una campagna di trigger una volta che il potenziale cliente è stato contattato per interrompere ulteriori avvisi. È come un seggiolino eiettabile Smart Campaign per una persona.
+Immagina di avere un flusso di Smart Campaign che utilizza &quot;Invia avviso&quot; per ricordare a un rappresentante di vendita di chiamare un potenziale cliente. Invia un messaggio ogni giorno finché l’amministratore non effettua la chiamata. Puoi utilizzare &quot;Rimuovi dal flusso&quot; in una campagna di trigger una volta che il potenziale cliente è stato contattato per interrompere ulteriori avvisi. È come un seggiolino eiettore Smart Campaign per una persona.
 
 ![](assets/remove-from-flow-1.png)
 

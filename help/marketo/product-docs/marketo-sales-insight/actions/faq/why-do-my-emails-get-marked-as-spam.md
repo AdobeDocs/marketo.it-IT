@@ -2,10 +2,10 @@
 description: Ricevi assistenza quando le e-mail di vendita sono contrassegnate come spam. Scopri le cause comuni e come migliorare il recapito messaggi e la reputazione del mittente.
 title: Perché le mie e-mail vengono contrassegnate come spam?
 exl-id: f42cd9ba-5c05-491b-a471-a8dcc49fe27d
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 8%
+source-wordcount: '206'
+ht-degree: 7%
 
 ---
 
@@ -15,7 +15,7 @@ In qualità di azienda, ci impegniamo a fondo per garantire che i nostri tassi d
 
 **Verifica le impostazioni**
 
-* Custom Domain Tracking: ti consente di visualizzare tutti i collegamenti di tracciamento in movimento.&quot;yourdomain&quot; invece di go.toutapp. Alcuni servizi di sicurezza e-mail noteranno che l’e-mail proviene dal &quot;tuo dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le e-mail avranno un aspetto legittimo e una probabilità maggiore di raggiungere la casella in entrata del destinatario.
+* Tracciamento del dominio personalizzato: consente di visualizzare tutti i collegamenti di tracciamento come go.&quot;yourdomain&quot; invece di go.toutapp. Alcuni servizi di sicurezza e-mail noteranno che l’e-mail proviene dal &quot;tuo dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le e-mail avranno un aspetto legittimo e una probabilità maggiore di raggiungere la casella in entrata del destinatario.
 
 **Verifica il comportamento delle e-mail**
 

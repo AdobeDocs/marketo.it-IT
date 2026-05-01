@@ -3,9 +3,9 @@ description: Scopri come utilizzare la ricerca globale in Marketo Engage per tro
 title: Utilizzo della ricerca globale
 exl-id: eb50013b-9595-4fe1-bd5e-b2d5ca185de4
 feature: Modern UX
-source-git-commit: 95bb780780f90b423465e940f04946dd5c5bed80
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 7%
 
 ---
@@ -32,7 +32,7 @@ La potente ricerca globale offre numerose opzioni senza limiti per i risultati v
 
    ![](assets/using-the-global-search-4.png)
 
-Viene visualizzata direttamente l’e-mail desiderata.
+Si viene indirizzati direttamente all&#39;e-mail desiderata.
 
 ![](assets/using-the-global-search-5.png)
 

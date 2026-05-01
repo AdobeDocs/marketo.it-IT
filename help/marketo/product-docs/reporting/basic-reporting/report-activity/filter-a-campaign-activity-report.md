@@ -4,10 +4,10 @@ description: Scopri come filtrare un rapporto di attività campagna in Marketo E
 title: Filtrare un rapporto di attività di una campagna
 exl-id: c34d6dfa-c635-4ca8-ad4f-bfa5cadaef2d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 8%
+source-wordcount: '139'
+ht-degree: 7%
 
 ---
 

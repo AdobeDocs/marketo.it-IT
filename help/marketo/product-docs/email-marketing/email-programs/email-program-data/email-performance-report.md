@@ -4,10 +4,10 @@ description: Scopri come creare e utilizzare il rapporto Prestazioni e-mail. Tie
 title: Rapporto sulle prestazioni e-mail
 exl-id: 327d4c0e-951f-4782-989d-4a4c6a513ebc
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 96%
+source-wordcount: '501'
+ht-degree: 95%
 
 ---
 
@@ -17,7 +17,7 @@ Per scoprire quanto sono efficaci le tue e-mail tramite statistiche quali conseg
 
 1. [Crea un rapporto in un programma](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Email Performance]** [Tipo di rapporto](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Modifica l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic sulla scheda **[!UICONTROL Report]**.
-1. Ecco fatto. Ora puoi esplora il rapporto per vedere le prestazioni delle tue e-mail.
+1. Tu ci sei! Ora puoi esplora il rapporto per vedere le prestazioni delle tue e-mail.
 
    >[!NOTE]
    >
@@ -78,7 +78,7 @@ In linea generale, queste statistiche vengono registrate seguendo criteri di buo
 
 * **Regola 2**: se il record e-mail mostra _[!UICONTROL Opened]_, viene conteggiato come_ Consegnato _.
 
-* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_&#x200B;o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
+* **Regola 3**: se il record e-mail mostra _[!UICONTROL Clicked Email]_o_[!UICONTROL Unsubscribed]_, viene conteggiato come _Consegnato_ e _Aperto_.
 
 * **Regola 4**: se l’e-mail è _[!UICONTROL Opened]_, i mancati recapiti vengono ignorati. Se l’e-mail non è stata aperta,_ Non recapitata in modo permanente _ha la precedenza su_ Non recapitata in modo non permanente _e_ Consegnata _.
 

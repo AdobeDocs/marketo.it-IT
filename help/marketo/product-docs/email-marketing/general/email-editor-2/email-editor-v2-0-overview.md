@@ -4,10 +4,10 @@ description: Scopri Email Editor v2.0 e le sue funzioni. Crea e modifica le e-ma
 title: Panoramica dell’editor e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
-source-git-commit: 6788b03206f44b505160d9c030d6fdc4fc9ee4bd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 84%
+source-wordcount: '429'
+ht-degree: 78%
 
 ---
 
@@ -21,7 +21,7 @@ Panoramica dell’editor e-mail classico.
 
 **Selettore di modelli per e-mail**
 
-Quando crei una nuova e-mail, viene mostrato il [selettore di modelli per e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
+Quando crei una nuova e-mail, accedi al [Selettore modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
@@ -45,7 +45,7 @@ I pulsanti per passare dalla versione HTML alla versione testuale dell’e-mail 
 
 **Intestazione dell’e-mail**
 
-Ti serve più spazio per progettare l’e-mail? Una volta [modificata](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md), puoi nascondere la sezione dell’intestazione dell’e-mail. Fai clic su questa icona...
+Ti serve più spazio per progettare l’e-mail? L&#39;intestazione e-mail può essere nascosta dopo che hai completato [la modifica](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
 
 ![](assets/email-editor-v2-overview-5.png)
 

@@ -4,10 +4,10 @@ description: Scopri come eseguire lo strumento Validate Sync per verificare la c
 title: Convalida [!DNL Microsoft Dynamics] Sincronizzazione
 exl-id: 00297a8d-36c3-42f6-a9b8-4a8dd7c1f30d
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 3%
+source-wordcount: '263'
+ht-degree: 5%
 
 ---
 

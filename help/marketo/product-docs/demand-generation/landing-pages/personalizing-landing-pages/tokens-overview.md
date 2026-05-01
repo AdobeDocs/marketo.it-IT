@@ -4,10 +4,10 @@ description: Scopri i token per personalizzare le pagine di destinazione di Mark
 title: Panoramica dei token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 94%
+source-wordcount: '309'
+ht-degree: 88%
 
 ---
 
@@ -17,7 +17,7 @@ Un token è una variabile che può essere utilizzata nei passaggi del flusso di 
 
 ## Informazioni sui valori predefiniti {#understanding-default-values}
 
-Quando utilizzi un token, desideri anche fornire un valore predefinito. Questo è il testo che appare se una persona non ha un valore nel campo a cui fai riferimento.
+Quando utilizzi un token, desideri anche fornire un valore predefinito. Questo è il testo che mostra se una persona non ha un valore per il campo a cui si sta facendo riferimento.
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 

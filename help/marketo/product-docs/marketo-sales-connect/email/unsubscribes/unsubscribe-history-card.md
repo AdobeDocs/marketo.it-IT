@@ -4,9 +4,9 @@ description: Scopri la scheda della cronologia degli annullamenti dell’abbonam
 title: Scheda Cronologia dell’annullamento dell’iscrizione
 exl-id: ae44552d-7f9e-4f5c-bb22-62c55b63f3e6
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '154'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ La scheda [!UICONTROL Unsubscribe History] consente agli amministratori e agli u
 
 >[!NOTE]
 >
->Per arrivare qui, fare clic sulla scheda [!UICONTROL People] e selezionare una persona. Si trova nella parte inferiore della scheda [!UICONTROL About] nella visualizzazione Dettagli persona (se è stata annullata l&#39;iscrizione).
+>Per arrivare qui, fare clic sulla scheda [!UICONTROL People] e selezionare una persona. Si trova nella parte inferiore della scheda [!UICONTROL About] nella visualizzazione Dettagli persona (se è stato annullato l&#39;abbonamento).
 
 ![](assets/1-1.jpg)
 

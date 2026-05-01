@@ -4,10 +4,10 @@ description: Scopri come abilitare RSS per Marketo Sales Insight. Consenti agli 
 title: Abilitare RSS per Sales Insight
 exl-id: 1b6c0dc7-6f24-4931-ae99-6a2cf00db99d
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 10%
+source-wordcount: '94'
+ht-degree: 8%
 
 ---
 

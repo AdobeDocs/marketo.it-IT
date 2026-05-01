@@ -4,9 +4,9 @@ description: Scopri come applicare il mascheramento di input a un campo modulo i
 title: Applicare il mascheramento di input a un campo di un modulo
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '178'
 ht-degree: 12%
 
 ---

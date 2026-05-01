@@ -4,16 +4,16 @@ description: Scopri come aggiungere una visualizzazione mobile per la pagina di 
 title: Aggiungere una visualizzazione per dispositivi mobili alla pagina di destinazione in formato libero
 exl-id: 1fc9689f-a39c-4ab4-9b03-0953fe229a8c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '143'
 ht-degree: 19%
 
 ---
 
 # Aggiungere una visualizzazione per dispositivi mobili alla pagina di destinazione in formato libero {#add-a-mobile-view-for-your-free-form-landing-page}
 
-È facile fare in modo che le pagine di destinazione in formato libero abbiano un aspetto fantastico su uno smartphone.
+È facile fare in modo che le tue pagine di destinazione in formato libero abbiano un aspetto fantastico su uno smartphone.
 
 >[!NOTE]
 >

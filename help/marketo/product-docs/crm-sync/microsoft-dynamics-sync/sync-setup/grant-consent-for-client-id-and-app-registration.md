@@ -3,9 +3,9 @@ description: Scopri come concedere il consenso per l’ID client e la registrazi
 title: Concedere il consenso per la registrazione di ID client e app
 exl-id: d0c851d7-24a1-4b17-9daa-f0ceed39d040
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '284'
 ht-degree: 7%
 
 ---

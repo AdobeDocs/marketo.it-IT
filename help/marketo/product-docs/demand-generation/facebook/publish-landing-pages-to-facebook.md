@@ -4,9 +4,9 @@ description: Scopri come pubblicare le pagine di destinazione di Marketo su Face
 title: Pubblicare pagine di destinazione su Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '293'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Puoi pubblicare le pagine di destinazione in [!DNL Facebook], incontrare il pubb
 
 >[!PREREQUISITES]
 >
->La pagina deve avere almeno 2.000 Mi piace prima di poter pubblicare su [!DNL Facebook].
+>La pagina deve avere almeno 2.000 Mi piace prima di poter pubblicare in [!DNL Facebook].
 
 Se stai lanciando un nuovo libro, potresti raggiungere parte del tuo pubblico tramite e-mail e sito web. La pubblicazione di una pagina di destinazione di Marketo in aggiunta alla pagina del marchio [!DNL Facebook] raggiunge un pubblico più ampio e incoraggia la condivisione della tua offerta.
 

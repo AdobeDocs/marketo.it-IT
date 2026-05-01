@@ -4,9 +4,9 @@ description: Scopri come personalizzare le attività che Marketo invia a Salesfo
 title: Personalizzare la sincronizzazione attività
 exl-id: 938d83dc-b9b1-41d8-bf98-04548b074ec4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '272'
 ht-degree: 4%
 
 ---

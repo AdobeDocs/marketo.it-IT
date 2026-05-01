@@ -4,9 +4,9 @@ description: Scopri come creare un evento con Webex in Marketo. Configurare l’
 title: Crea un evento con  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '657'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Pianifica l&#39;evento e scegli le impostazioni preferite in [Webex](https://www
 * **Registrazione automatica**: selezionare questa opzione per registrare automaticamente il webinar.
 * **Sessione di esercitazione**: selezionare questa opzione per avviare una sessione di esercitazione all&#39;inizio del webinar.
 * **Sessioni Breakout**: le sessioni Breakout consentono di preassegnare i membri del gruppo e i partecipanti prima dell&#39;inizio del webinar o di consentire loro di partecipare durante il webinar.
-* **Serie di webinar**: l&#39;aggiunta a una serie di webinar consente alle persone di visualizzare il webinar, indipendentemente dal fatto che sia pubblico o meno.
+* **Serie di webinar**: l&#39;aggiunta a una serie di webinar consente alle persone di visualizzare il webinar indipendentemente dal fatto che sia pubblico o meno.
 * **Registrazione**: i partecipanti devono registrarsi e ricevere l&#39;approvazione dell&#39;host prima di partecipare.
 * **Promemoria e-mail**: scegli un promemoria e-mail che vada da 15 minuti prima dell&#39;inizio del webinar fino a due giorni.
 * **Opzioni webinar**: determina le funzionalità disponibili per i partecipanti al webinar.

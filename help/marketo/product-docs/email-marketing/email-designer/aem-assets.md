@@ -4,10 +4,10 @@ description: Scopri come utilizzare le immagini AEM Assets nelle e-mail Marketo 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '893'
-ht-degree: 2%
+source-wordcount: '987'
+ht-degree: 4%
 
 ---
 
@@ -19,11 +19,11 @@ Adobe Experience Manager _Assets as a Cloud Service_ offre una soluzione cloud d
 
 >[!PREREQUISITES]
 >
->* Per l&#39;integrazione sono necessarie licenze per _Assets as a Cloud Service_ e Dynamic Media. Verificare che [Dynamic Media con API aperta sia abilitato](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). A seconda del contratto e della configurazione, è possibile accedere a Adobe Experience Manager _Assets as a Cloud Service_ direttamente da Marketo Engage durante la progettazione di contenuto visivo.
+>* Per l&#39;integrazione sono necessarie licenze per _Assets as a Cloud Service_ e Dynamic Media. Verificare che [Dynamic Media con API aperta sia abilitato](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dynamic-media-open-apis/dynamic-media-open-apis-overview#enable-dynamic-media-open-apis). A seconda del contratto e della configurazione, è possibile accedere a Adobe Experience Manager _Assets as a Cloud Service_ direttamente da Marketo Engage durante la progettazione di contenuto visivo.
 
 >[!NOTE]
 >
->Al momento, in Marketo Engage sono supportate solo le risorse immagine di _Adobe Experience Manager Assets_. Le modifiche alle risorse devono essere effettuate dall’archivio centrale di Adobe Experience Manager Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
+>Al momento, in Marketo Engage sono supportate solo le risorse immagine di _Adobe Experience Manager Assets_. Le modifiche alle risorse devono essere effettuate dall’archivio centrale di Adobe Experience Manager Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets){target="_blank"}
 
 ## Collegamento ai servizi cloud di AEM {#link-to-your-aem-cloud-services}
 
@@ -51,9 +51,9 @@ Prima di poter utilizzare questa funzionalità, devi collegare i servizi cloud d
    >
    >* Sono elencati solo gli archivi associati alla stessa organizzazione IMS del tuo abbonamento a Marketo Engage.
    >
-   >* Marketo Engage supporta solo archivi dal livello di consegna. Se utilizzi il livello di authoring e desideri convertirlo, contatta il [supporto Adobe Experience Manager](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-manager/content/overview/help-resources).
+   >* Marketo Engage supporta solo archivi dal livello di consegna. Se utilizzi il livello di authoring e desideri convertirlo, contatta il [supporto Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
-1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [&#128279;](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
+1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
 
    ![Aggiungi un certificato](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
@@ -81,7 +81,7 @@ Se l’ambiente dispone di una o più connessioni all’archivio delle risorse, 
 
 ![Seleziona AEM Assets come origine immagine nella finestra di dialogo per la creazione](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* Quando apri una risorsa di contenuto esistente, scegli `AEM Assets` nella sezione _[!UICONTROL Body]_&#x200B;a destra.
+* Quando apri una risorsa di contenuto esistente, scegli `AEM Assets` nella sezione _[!UICONTROL Body]_a destra.
 
 ![Seleziona AEM Assets come origine immagine nelle proprietà](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 
@@ -89,7 +89,7 @@ Se l’ambiente dispone di una o più connessioni all’archivio delle risorse, 
 
 >[!IMPORTANT]
 >
->Un amministratore deve aggiungere gli utenti che hanno bisogno di accedere alle risorse ai profili di prodotto Utenti consumer di Assets e/o Utenti di Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
+>Un amministratore deve aggiungere gli utenti che hanno bisogno di accedere alle risorse ai profili di prodotto Utenti consumer di Assets e/o Utenti di Assets. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/security/ims-support#managing-products-and-user-access-in-admin-console)
 
 Nell&#39;editor di contenuti visivi, fai clic sull&#39;icona _Selettore risorse Experience Manager_ nella barra laterale a sinistra. In questo modo il pannello strumenti diventa un elenco delle risorse disponibili nell’archivio selezionato.
 

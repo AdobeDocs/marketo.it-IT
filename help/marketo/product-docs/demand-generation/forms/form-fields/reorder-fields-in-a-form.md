@@ -4,10 +4,10 @@ description: Scopri come riordinare i campi in un modulo di Marketo. Trascinare 
 title: Riordinare i campi in un modulo
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 20%
+source-wordcount: '82'
+ht-degree: 19%
 
 ---
 

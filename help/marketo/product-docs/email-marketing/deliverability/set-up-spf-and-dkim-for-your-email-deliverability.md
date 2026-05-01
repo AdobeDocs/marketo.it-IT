@@ -4,16 +4,16 @@ description: Scopri come configurare SPF e DKIM nel DNS per migliorare il recapi
 title: Configurare SPF e DKIM per la recapitabilità e-mail
 exl-id: a0f88e94-3348-4f48-bbd2-963e2af93dc0
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '434'
-ht-degree: 94%
+ht-degree: 89%
 
 ---
 
 # Configurare SPF e DKIM per la recapitabilità e-mail {#set-up-spf-and-dkim-for-your-email-deliverability}
 
-Un metodo rapido per migliorare il tasso di consegna delle e-mail consiste nell’incorporare **SPF** (Sender Policy Framework) e **DKIM** (Domain Keys Identified Mail) nelle impostazioni DNS. Con questa aggiunta alle voci DNS, informi i destinatari che hai autorizzato Marketo a inviare e-mail per tuo conto. Senza questa modifica, l’e-mail ha una maggiore probabilità di essere considerata spam poiché è stata indirizzata dal tuo dominio, ma tramite un indirizzo IP con dominio Marketo.
+Un metodo rapido per migliorare il tasso di consegna delle e-mail consiste nell’incorporare **SPF** (Sender Policy Framework) e **DKIM** (Domain Keys Identified Mail) nelle impostazioni DNS. Con questa aggiunta alle voci DNS, stai dicendo ai destinatari che hai autorizzato Marketo a inviare e-mail per tuo conto. Senza questa modifica, l’e-mail ha una maggiore probabilità di essere considerata spam poiché è stata indirizzata dal tuo dominio, ma tramite un indirizzo IP con dominio Marketo.
 
 >[!CAUTION]
 >
@@ -23,7 +23,7 @@ Un metodo rapido per migliorare il tasso di consegna delle e-mail consiste nell�
 
 **Se NON disponi di un record SPF nel tuo dominio**
 
-Chiedi all’amministratore della tua rete di aggiungere la riga seguente alle voci DNS. Sostituisci [domain] con il dominio principale del tuo sito web (ad es. “azienda.com”) e [corpIP] con l’indirizzo IP del server di posta elettronica aziendale (ad es. “255.255.255.255”). Se invii e-mail da più domini tramite Marketo, devi aggiungere questa voce a ciascun dominio (su una riga).
+Chiedi all’amministratore della tua rete di aggiungere la riga seguente alle voci DNS. Sostituisci [domain] con il dominio principale del tuo sito web (ad es. “azienda.com”) e [corpIP] con l’indirizzo IP del server di posta elettronica aziendale (ad es. &quot;255.255.255.255&quot;). Se invii e-mail da più domini tramite Marketo, devi aggiungere questa voce a ciascun dominio (su una riga).
 
 `[domain] IN TXT v=spf1 mx ip4:[corpIP] include:mktomail.com ~all`
 

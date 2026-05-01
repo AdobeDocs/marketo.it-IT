@@ -4,9 +4,9 @@ description: Ricevi assistenza quando l'e-mail di Sales Connect è stata contras
 title: E-mail contrassegnata come spam
 exl-id: 2cd1ec96-441d-4de7-8709-543d04e20a91
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '249'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ In qualità di azienda, ci impegniamo a fondo per garantire che i nostri tassi d
 
 **Verifica le impostazioni**
 
-* Custom Domain Tracking: ti consente di visualizzare tutti i collegamenti di tracciamento in movimento.&quot;yourdomain&quot; invece di go.toutapp. Alcuni servizi di sicurezza e-mail noteranno che l’e-mail proviene dal &quot;tuo dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le e-mail avranno un aspetto legittimo e una probabilità maggiore di raggiungere la casella in entrata del destinatario.
+* Tracciamento del dominio personalizzato: consente di visualizzare tutti i collegamenti di tracciamento come go.&quot;yourdomain&quot; invece di go.toutapp. Alcuni servizi di sicurezza e-mail noteranno che l’e-mail proviene dal &quot;tuo dominio&quot;, ma il collegamento viene reindirizzato a go.toutapp. Implementando il tracciamento dei collegamenti del dominio personalizzato, le e-mail avranno un aspetto legittimo e una probabilità maggiore di raggiungere la casella in entrata del destinatario.
 * Canale di consegna e-mail: per impostazione predefinita, le e-mail vengono inviate tramite server ToutApp. Configurando il proprio Gmail o SMTP personalizzato, è possibile fornire alle e-mail la migliore opportunità per arrivare nella casella in entrata di un destinatario. [Fai clic qui](https://nation.marketo.com/docs/DOC-5080){target="_blank"} per ulteriori informazioni sulla selezione del canale di consegna più adatto alle tue esigenze.
 
 **Verifica il comportamento delle e-mail**

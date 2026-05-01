@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 feature: Getting Started
 exl-id: 86a4ad2c-22c7-4543-bcb3-bca132b6afea
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '590'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ SCHERMATA
 
 ## Invia una domanda {#submit-a-question}
 
-In genere, è qui che si va per chiedere aiuto. Inizia un thread di discussione (o cerca un thread esistente) quando stai cercando feedback su un particolare problema, o salta nel thread di qualcun altro per aiutarli con un problema di cui sei a conoscenza.
+In genere, è qui che si va per chiedere aiuto. Inizia un thread di discussione (o cerca un thread esistente) quando cerchi un feedback su un particolare problema, oppure salta nel thread di qualcun altro per aiutarlo con un problema di cui sei a conoscenza.
 
 SCHERMATA
 

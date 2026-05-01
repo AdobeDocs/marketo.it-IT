@@ -3,9 +3,9 @@ description: Risoluzione dei problemi quando i campi dinamici non compilano i mo
 title: Perché i campi dinamici non vengono compilati?
 exl-id: 4e1d133f-8314-4e64-b50b-f3e824c3bef4
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: '312'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ Nelle azioni di Sales Insight sono disponibili tre tipi di campi dinamici: Base,
 
 [!DNL Salesforce] campi: ad esempio `{{sfdc_account_name}}`
 
-* Assicurati che sia collegato correttamente alle azioni di Insight per le vendite. Vai alla pagina [Impostazioni]&#x200B;(<https://toutapp.com/login{target="_blank"}> e fai clic su **Gestione** accanto al tuo CRM.
+* Assicurati che sia collegato correttamente alle azioni di Sales Insight. Vai alla pagina [Impostazioni]&#x200B;(<https://toutapp.com/login{target="_blank"}> e fai clic su **Gestione** accanto al tuo CRM.
 
 **Risoluzione dei problemi dei campi di base e personalizzati**
 

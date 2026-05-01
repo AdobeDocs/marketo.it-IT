@@ -4,9 +4,9 @@ description: Scopri come utilizzare l’editor Rich Text per i contenuti delle e
 title: Utilizzo dell’editor Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '682'
 ht-degree: 3%
 
 ---
@@ -70,35 +70,35 @@ Di seguito sono elencate le funzioni disponibili in un editor Rich Text.
 
 | Icona | Nome | Funzionamento |
 |---|---|---|
-| ![—](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Font Family] | Scegli il tuo stile. Ce n&#39;è un sacco! |
-| ![—](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Font Size] | Quanto la volete grande? 25 opzioni, da 8 a 90 px. |
-| ![—](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Styles] | Scegliere Paragrafo o sei stili Titolo (per le pagine di destinazione). |
-| ![—](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Line Spacing] | Scegliete la distanza tra le linee. |
-| ![—](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Text Color] | Nero, rosso o qualsiasi altra cosa tu voglia. |
-| ![—](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Background Color] | Evidenzia per enfasi. |
-| ![—](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **Più scuro e più spesso**. |
-| ![—](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *Angolato, per enfasi o offerta*. |
-| ![—](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | Inserisce una riga sotto il testo. |
-| ![—](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Utilizza questo menu a discesa per disporre il testo e le immagini. Centrali, scegliete l&#39;allineamento a sinistra o a destra oppure distribuite il bordo allo spigolo con una giustificazione completa. |
-| ![—](assets/image2015-7-9-10-3a32-3a47.png) | Elenco | Scegli punti elenco o numeri dal menu a discesa. Gli elenchi puntati sono utili per elenchi e numeri con passaggi. |
-| ![—](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | Scegli un rientro maggiore o minore. Utilizzare per i paragrafi o per qualsiasi testo che si desidera evidenziare. |
-| ![—](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | Inserisci un collegamento a un sito web o a un altro contenuto; apporta facilmente modifiche. |
-| ![—](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | Un&#39;immagine vale mille parole. Rilasciane uno. Fare clic sull&#39;icona della fotocamera per sfogliare Design Studio. È possibile inserire le immagini una accanto all&#39;altra. |
-| ![—](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Insert Token] | Uno strumento potente, ottimo per la personalizzazione e-mail e il tracciamento dei dati. Assicurati di immettere un valore predefinito. |
-| ![—](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Undo] | Ops! Torniamo indietro di un passo e riproviamo. |
-| ![—](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Redo] | Se va davvero bene così com&#39;è, torna all&#39;originale. |
-| ![—](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Table] | Costruisci il tuo, come questo. Un menu a discesa consente di configurarlo. |
-| ![—](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Insert Anchor] | Rilascia l&#39;ancora! |
-| ![—](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Horizontal Line] | Molti utilizzi: ottimo per la divisione delle sezioni. |
-| ![—](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Edit HTML] | Attiva HTML Source Editor per modificare il codice. |
-| ![—](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Subscript] | Lettere poco sporgenti (come in O`<sub>2</sub>`). |
-| ![—](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Superscript] | Hai il potere! (2`<sup>6</sup>`). |
-| ![—](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Strikethrough] | `<s>Put a line through text, like this</s>`. |
-| ![—](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Special Character] | Vuoi parlare di euro? Matematica? Hai 243 scelte. |
-| ![—](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Find and Replace] | Cerca e modifica le cose molto più rapidamente rispetto alla ricerca di ogni istanza. |
-| ![—](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Clear Formatting] | Ripristina gli standard. |
-| ![—](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Cancel] | Premi il pulsante per dire, &quot;Non importa&quot;. |
-| ![—](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Save] | Premete il pulsante per dire &quot;OK, mi piace&quot;. |
+| ![--](assets/image2015-7-9-10-3a23-3a24.png) | [!UICONTROL Font Family] | Scegli il tuo stile. Ce n&#39;è un sacco! |
+| ![--](assets/image2015-7-9-10-3a22-3a11.png) | [!UICONTROL Font Size] | Quanto la volete grande? 25 opzioni, da 8 a 90 px. |
+| ![--](assets/image2015-7-9-10-3a59-3a4.png) | [!UICONTROL Styles] | Scegliere Paragrafo o sei stili Titolo (per le pagine di destinazione). |
+| ![--](assets/image2015-7-9-10-3a20-3a1.png) | [!UICONTROL Line Spacing] | Scegliete la distanza tra le linee. |
+| ![--](assets/image2015-7-9-10-3a25-3a52.png) | [!UICONTROL Text Color] | Nero, rosso o qualsiasi altra cosa tu voglia. |
+| ![--](assets/image2015-7-9-10-3a24-3a38.png) | [!UICONTROL Background Color] | Evidenzia per enfasi. |
+| ![--](assets/image2015-7-9-10-3a28-3a4.png) | [!UICONTROL Bold] | **Più scuro e più spesso**. |
+| ![--](assets/image2015-7-9-10-3a29-3a1.png) | [!UICONTROL Italic] | *Angolato, per enfasi o offerta*. |
+| ![--](assets/image2015-7-9-10-3a30-3a56.png) | [!UICONTROL Underline] | Inserisce una riga sotto il testo. |
+| ![--](assets/image2015-7-9-10-3a31-3a57.png) | [!UICONTROL Alignment] | Utilizza questo elenco a discesa per disporre il testo e le immagini. Centrali, scegliete l&#39;allineamento a sinistra o a destra oppure distribuite il bordo allo spigolo con una giustificazione completa. |
+| ![--](assets/image2015-7-9-10-3a32-3a47.png) | Elenco | Scegliere punti elenco o numeri dal menu a discesa. Gli elenchi puntati sono utili per elenchi e numeri con passaggi. |
+| ![--](assets/image2015-7-9-10-3a38-3a0.png) | [!UICONTROL Indent] | Scegli un rientro maggiore o minore. Utilizzare per i paragrafi o per qualsiasi testo che si desidera evidenziare. |
+| ![--](assets/image2015-7-9-10-3a38-3a58.png) | [!UICONTROL Insert/Edit Link] | Inserisci un collegamento a un sito web o a un altro contenuto; apporta facilmente modifiche. |
+| ![--](assets/image2015-7-9-10-3a39-3a42.png) | [!UICONTROL Insert/Edit Image] | Un&#39;immagine vale mille parole. Rilasciane uno. Fare clic sull&#39;icona della fotocamera per sfogliare Design Studio. È possibile inserire le immagini una accanto all&#39;altra. |
+| ![--](assets/image2015-7-9-10-3a40-3a36.png) | [!UICONTROL Insert Token] | Uno strumento potente, ottimo per la personalizzazione e-mail e il tracciamento dei dati. Assicurati di immettere un valore predefinito. |
+| ![--](assets/image2015-7-9-10-3a41-3a21.png) | [!UICONTROL Undo] | Ops! Torniamo indietro di un passo e riproviamo. |
+| ![--](assets/image2015-7-9-10-3a42-3a13.png) | [!UICONTROL Redo] | Se è davvero OK così com&#39;è, tornare all&#39;originale. |
+| ![--](assets/image2015-7-9-10-3a43-3a29.png) | [!UICONTROL Table] | Costruisci il tuo, come questo. Un menu a discesa consente di configurarlo. |
+| ![--](assets/image2015-7-9-10-3a45-3a1.png) | [!UICONTROL Insert Anchor] | Rilascia l&#39;ancora! |
+| ![--](assets/image2015-7-9-10-3a45-3a48.png) | [!UICONTROL Horizontal Line] | Molti utilizzi: ottimo per la divisione delle sezioni. |
+| ![--](assets/image2015-10-6-12-3a12-3a17.png) | [!UICONTROL Edit HTML] | Attiva HTML Source Editor per modificare il codice. |
+| ![--](assets/image2015-7-9-10-3a47-3a36.png) | [!UICONTROL Subscript] | Lettere poco sporgenti (come in O`<sub>2</sub>`). |
+| ![--](assets/image2015-7-9-10-3a48-3a35.png) | [!UICONTROL Superscript] | Hai il potere! (2`<sup>6</sup>`). |
+| ![--](assets/image2015-7-9-10-3a49-3a31.png) | [!UICONTROL Strikethrough] | `<s>Put a line through text, like this</s>`. |
+| ![--](assets/image2015-7-9-10-3a50-3a11.png) | [!UICONTROL Special Character] | Vuoi parlare di euro? Matematica? Hai 243 scelte. |
+| ![--](assets/image2015-7-9-10-3a52-3a26.png) | [!UICONTROL Find and Replace] | Cerca e modifica le cose molto più rapidamente rispetto alla ricerca di ogni istanza. |
+| ![--](assets/image2015-7-9-10-3a53-3a37.png) | [!UICONTROL Clear Formatting] | Ripristina gli standard. |
+| ![--](assets/image2015-7-9-10-3a55-3a2.png) | [!UICONTROL Cancel] | Premi il pulsante per dire, &quot;Non importa&quot;. |
+| ![--](assets/image2015-7-9-10-3a56-3a2.png) | [!UICONTROL Save] | Premete il pulsante per dire &quot;OK, mi piace&quot;. |
 
 >[!TIP]
 >

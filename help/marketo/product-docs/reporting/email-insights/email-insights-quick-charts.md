@@ -4,9 +4,9 @@ description: Scopri come creare e salvare i grafici rapidi come miniature per le
 title: Grafici rapidi su approfondimenti e-mail
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '250'
 ht-degree: 3%
 
 ---
@@ -35,7 +35,7 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
    ![](assets/four.png)
 
-1. Fai clic sul primo elenco a discesa. Fai clic su per selezionare i criteri (se non sono già selezionati) e deseleziona eventuali criteri indesiderati.
+1. Fai clic sul primo elenco a discesa. Fai clic su per selezionare i criteri (se non sono già selezionati) e deseleziona i criteri indesiderati.
 
    ![](assets/5.png)
 

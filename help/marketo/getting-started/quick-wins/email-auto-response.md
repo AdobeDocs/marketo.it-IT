@@ -4,10 +4,10 @@ description: Risposta automatica e-mail - Documentazione di Marketo - Documentaz
 title: Risposta automatica e-mail
 exl-id: c9c0a154-65ec-4845-97a0-a2100223cb13
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '340'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '351'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 ## Passaggio 1: creare un messaggio e-mail {#step-create-an-email}
 
-1. Passa all&#39;area [!UICONTROL Marketing Activities].
+1. Passa alla schermata [!UICONTROL Marketing Activities].
 
    ![](assets/email-auto-response-1.png)
 
@@ -108,7 +108,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->Una volta attivata, questa campagna verrà eseguita ogni volta che una persona compila il modulo specificato. La campagna continuerà a essere attiva fino a quando non verrà disattivata.
+>Una volta attivata, questa campagna verrà eseguita ogni volta che una persona compila il modulo specificato. La campagna continuerà a essere in esecuzione fino a quando non verrà disattivata.
 
 ## Passaggio 3: compilare il modulo {#step-fill-out-the-form}
 

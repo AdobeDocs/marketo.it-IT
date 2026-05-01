@@ -4,9 +4,9 @@ description: Scopri il rapporto sulle prestazioni della pagina di destinazione i
 title: Rapporto delle prestazioni della pagina di destinazione
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '214'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ Scopri quante persone hanno compilato i moduli nelle pagine di destinazione e qu
 
 >[!NOTE]
 >
->Se noti una discrepanza nei numeri tra il rapporto Prestazioni elenchi avanzati e pagine di destinazione, è probabile che tali elenchi filtrino i dati solo in base alle persone, mentre i rapporti Prestazioni pagine di destinazione includono dati social (Facebook, Google Ads, ecc.) e attività anonime, oltre ai dati relativi alle persone.
+>Se noti una discrepanza nei numeri tra il rapporto Prestazioni elenchi avanzati e pagina di destinazione, è probabile che tali elenchi filtrino i dati solo in base alle persone, mentre i rapporti Prestazioni pagine di destinazione includono i social (Facebook, Google Ads, ecc.) e attività anonime, oltre ai dati relativi alle persone.
 
 1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il [!UICONTROL Landing Page Performance] [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda [!UICONTROL Report].

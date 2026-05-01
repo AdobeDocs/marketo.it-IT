@@ -4,9 +4,9 @@ description: Scopri le impostazioni di Performance Insights, inclusa l’aggrega
 title: Impostazioni approfondimenti prestazioni
 exl-id: 894df9de-d416-44f7-8253-ebf3c2a36c90
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---

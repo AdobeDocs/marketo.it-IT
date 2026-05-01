@@ -3,9 +3,9 @@ description: Scopri come sincronizzare un pubblico da Adobe Experience Cloud a M
 title: Sincronizzare un pubblico da Adobe Experience Cloud
 exl-id: 2288ee01-2c2e-4f33-b5c9-da3a431c1816
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '280'
 ht-degree: 8%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 8%
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-4.png)
 
-1. Per la destinazione, puoi selezionare un elenco esistente o digitarne il nome di uno nuovo. In questo esempio ne stiamo creando uno nuovo. Al termine, fai clic su **[!UICONTROL Sync]**.
+1. Per la destinazione, puoi selezionare un elenco esistente o digitarne il nome di uno nuovo. In questo esempio viene creato un nuovo elenco. Al termine, fai clic su **[!UICONTROL Sync]**.
 
    ![](assets/sync-an-audience-from-adobe-experience-cloud-5.png)
 
@@ -52,11 +52,11 @@ ht-degree: 8%
 
 Quando la sincronizzazione dei cookie è abilitata per l’abbonamento a Marketo, munchkin.js di Marketo tenta di acquisire e memorizzare gli ECID di Adobe per l’organizzazione IMS di Adobe specificata durante la configurazione dell’integrazione e di far corrispondere questi ECID all’identificatore cookie di Marketo corrispondente. Questo consente ai profili utente anonimi di Marketo di arricchirsi con gli ECID di Adobe.
 
-È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un’e-mail in testo normale. [&#x200B; è descritto esattamente come funziona](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
+È necessario un ulteriore passaggio per associare il profilo utente anonimo a un profilo lead, identificato mediante un’e-mail in testo normale. [ è descritto esattamente come funziona](/help/marketo/product-docs/reporting/basic-reporting/report-activity/tracking-anonymous-activity-and-people.md){target="_blank"}.
 
 **Perché la dimensione dell&#39;elenco in Marketo è diversa da quella in Adobe?**
 
-Inoltre, una persona non eseguirà la sincronizzazione se non è possibile collegare un ID cookie ECID a una persona nota in Marketo.
+Inoltre, una persona non eseguirà la sincronizzazione se un ID cookie ECID non può essere associato a una persona nota in Marketo.
 
 **È una sincronizzazione occasionale?**
 

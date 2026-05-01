@@ -4,9 +4,9 @@ description: Informazioni sulla diagnostica di Salesforce per Sales Connect. Ris
 title: Diagnostica Salesforce
 exl-id: a2b5bd10-bc92-4fd4-bc1b-4e02b48c9d83
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1333'
+source-wordcount: '1369'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Categoria:** Accesso/Convalida
 **Messaggio: l&#39;API** è disabilitata per questo utente
 **Cosa sta succedendo:** l&#39;utente non dispone dell&#39;accesso API
-**Passaggi per la risoluzione dei problemi:** L&#39;amministratore [!DNL Salesforce] deve concedere l&#39;accesso all&#39;API utente.
+**Passaggi per la risoluzione dei problemi:** [!DNL Salesforce] L&#39;amministratore deve concedere l&#39;accesso all&#39;API utente.
 
 <br> 
 
@@ -34,7 +34,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Errore:** CANNOT_INSERT_UPDATE_ACTIVATE_ENTITY
 **Categoria:** Accesso/Convalida
 **Messaggio:** {&quot;errorCode&quot;:&quot;INVALID_SESSION_ID&quot;,&quot;messaggio&quot;:&quot;Sessione scaduta o non valida&quot;}
-**Cosa sta succedendo:**
+**In corso:**
 
 1 - Il codice del trigger non riesce a eseguire l’aggiornamento.
 2 - L’utente non dispone di autorizzazioni di scrittura a livello di oggetto per l’oggetto specificato.
@@ -49,7 +49,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Errore:** CANNOT_UPDATE_CONVERTED_LEAD
 **Categoria:** Altro
 **Messaggio:** non può fare riferimento al lead convertito
-**Cosa sta succedendo:** Stiamo tentando di accedere a un lead convertito durante la registrazione attività più recente per contatti e lead. Ho visto anche un paio di questi per le piazzole.
+**Cosa sta succedendo:** stiamo tentando di accedere a un lead convertito durante la registrazione attività più recente per contatti e lead. Ho visto anche un paio di questi per le piazzole.
 **Procedura di risoluzione dei problemi:** Segnala eventuali istanze di questo al nostro [team di supporto](https://nation.marketo.com/t5/support/ct-p/Support).
 
 <br> 
@@ -57,7 +57,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Errore:** ENTITY_IS_LOCKED
 **Categoria:** Accesso/Convalida
 **Messaggio:** l&#39;entità è bloccata per la modifica
-**Operazione in corso:** Il record si trova in un processo di approvazione in cui è bloccato da eventuali modifiche aggiuntive fino a quando non viene approvato o negato da un proprietario dell&#39;approvazione.
+**Operazione in corso:** Il record è in un processo di approvazione in cui è bloccato da eventuali modifiche aggiuntive fino a quando non viene approvato o negato da un utente proprietario dell&#39;approvazione.
 **Passaggi per la risoluzione dei problemi:** Vedi sopra.
 
 <br> 
@@ -74,7 +74,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Categoria:** intermittente
 **Messaggio:** fine file raggiunta
 **Cosa sta succedendo:** problema di prestazioni con [!DNL Salesforce], probabilmente dovuto a trigger non ottimali sul lato cliente.
-**Passaggi per la risoluzione dei problemi:** La logica dei tentativi deve gestire questo problema. Se il problema persiste, rivolgiti al tuo amministratore [!DNL Salesforce] per risolvere un problema relativo al trigger.
+**Passaggi per la risoluzione dei problemi:** La logica dei tentativi deve gestire questo problema. Se il problema persiste, rivolgiti all&#39;amministratore [!DNL Salesforce] per risolverlo.
 
 <br> 
 
@@ -112,12 +112,12 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Categoria:** Autenticazione
 **Messaggio:** invalid_grant: utente inattivo
 **In corso:** L&#39;utente [!DNL Salesforce] non è più attivo
-**Passaggi per la risoluzione dei problemi:** Disconnettiti e riconnettiti da [!DNL Salesforce].
+**Procedura per la risoluzione dei problemi:** Disconnettiti e riconnettiti da [!DNL Salesforce].
 
 **Errore:** INSERT_UPDATE_DELETE_NOT_ALLOWED_WHILE_MAINTENANCE
 **Categoria:** intermittente
 **Messaggio:** (nessun messaggio aggiuntivo)
-**In corso:** l&#39;istanza [!DNL Salesforce] è in modalità manutenzione.
+**In corso:** l&#39;istanza [!DNL Salesforce] è in modalità di manutenzione.
 **Passaggi per la risoluzione dei problemi:** Attendere il completamento della manutenzione del sistema, quindi riprovare a eseguire la registrazione.
 
 **Errore:** INSUFFICIENTE_ACCESS_ON_CROSS_REFERENCE_ENTITY
@@ -131,7 +131,7 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Errore:** INSUFFICIENTE_ACCESS_OR_READONLY
 **Categoria:** Accesso/Convalida
 **Messaggio:** diritti di accesso insufficienti per l&#39;ID oggetto
-**Operazione in corso:** La registrazione attività più recente non è in grado di modificare il record specifico perché l&#39;utente non dispone dell&#39;accesso in scrittura.
+**Operazione in corso:** la registrazione attività più recente non è in grado di modificare il record specifico perché l&#39;utente non dispone dell&#39;accesso in scrittura.
 **Passaggi per la risoluzione dei problemi:** Concedere all&#39;utente l&#39;accesso in [!DNL Salesforce] OPPURE disabilitare la registrazione delle attività più recenti per l&#39;oggetto per l&#39;utente.
 
 **Errore:** INVALID_FIELD
@@ -149,8 +149,8 @@ Parte dell&#39;integrazione di [!DNL Salesforce] include una pagina di diagnosti
 **Errore:** INVALID_GRANT
 **Categoria:** Autenticazione
 **Messaggio:** invalid_grant: ip limitato
-**Cosa sta succedendo:** Stiamo tentando di accedere al tuo [!DNL Salesforce], ma sono presenti restrizioni IP che impediscono di farlo.
-inserire nell&#39;elenco Consentiti **Passaggi per la risoluzione dei problemi:** L&#39;amministratore [!DNL Salesforce] dovrà i nostri IP. Gli utenti devono contattare il supporto tecnico per ottenere gli indirizzi IP.
+**Cosa sta succedendo:** Stiamo tentando di accedere a [!DNL Salesforce], ma sono presenti restrizioni IP che impediscono di farlo.
+**Passaggi per la risoluzione dei problemi:** L&#39;amministratore [!DNL Salesforce] dovrà i nostri IP. Gli utenti devono contattare il supporto tecnico per ottenere gli indirizzi IP.
 
 **Errore:** INVALID_TYPE
 **Categoria:** Accesso/Convalida
@@ -160,9 +160,9 @@ inserire nell&#39;elenco Consentiti **Passaggi per la risoluzione dei problemi:*
 
 **Errore:** QUERY_TIMEOUT
 **Categoria:** intermittente
-**Messaggio:** La richiesta di query è stata eseguita troppo a lungo
+**Messaggio:** la richiesta di query è stata eseguita troppo a lungo
 **Cosa sta succedendo:** Vedi sopra.
-**Passaggi per la risoluzione dei problemi:** La logica dei tentativi deve gestire questo problema. Se il problema persiste, rivolgiti all&#39;amministratore [!DNL Salesforce] per risolvere il problema di un trigger.
+**Passaggi per la risoluzione dei problemi:** La logica dei tentativi deve gestire questo problema. Se il problema persiste, rivolgiti all&#39;amministratore [!DNL Salesforce] per risolverlo.
 
 **Errore:** REQUEST_LIMIT_EXCEEDED
 **Categoria:** intermittente
@@ -179,7 +179,7 @@ inserire nell&#39;elenco Consentiti **Passaggi per la risoluzione dei problemi:*
 
 **Errore:** CAMPO_OBBLIGATORIO_MANCANTE
 **Categoria:** Accesso/Convalida
-**Messaggio:** Mancano campi obbligatori: `[Amount_Committed_Private_Capital__c]`
+**Messaggio:** Campi obbligatori mancanti: `[Amount_Committed_Private_Capital__c]`
 **Cosa sta succedendo:** Questo generalmente accade per la registrazione delle attività più recenti. I campi personalizzati erano impostati per essere obbligatori ma contenevano valori vuoti. Ciò può verificarsi se il record è stato creato con un valore vuoto del campo personalizzato e quindi è stato reso obbligatorio. La richiesta viene applicata quando si tenta di aggiornare il record, anche se il campo personalizzato non viene toccato.
 **Passaggi per la risoluzione dei problemi:** Aggiorna manualmente i valori dei campi mancanti. Puoi quindi riprovare a inviare il messaggio da ToutApp.
 
@@ -199,10 +199,10 @@ inserire nell&#39;elenco Consentiti **Passaggi per la risoluzione dei problemi:*
 **Categoria:** intermittente
 **Messaggio:** impossibile ottenere l&#39;accesso esclusivo a questo record o a 1 record: &quot;ID record&quot;
 **Cosa sta accadendo:** è probabile che un trigger stia causando più tentativi di accesso allo stesso record, probabilmente nel caso di un&#39;e-mail di gruppo.
-**Passaggi per la risoluzione dei problemi:** La logica dei tentativi deve gestire questo problema. Se il problema persiste, rivolgiti all&#39;amministratore [!DNL Salesforce] per risolvere il problema di un trigger.
+**Passaggi per la risoluzione dei problemi:** La logica dei tentativi deve gestire questo problema. Se il problema persiste, rivolgiti all&#39;amministratore [!DNL Salesforce] per risolverlo.
 
 **Errore:** ECCEZIONE_SCONOSCIUTA
 **Categoria:** Altro
 **Messaggio:** Si è verificata un&#39;eccezione sconosciuta
-**Evento in corso:** Eccezione non gestita in [!DNL Salesforce].
+**In corso:** Eccezione non gestita in [!DNL Salesforce].
 **Passaggi per la risoluzione dei problemi:** Archivia un caso con [!DNL Salesforce] e copia i valori numerici nel messaggio di errore. Il codice [!DNL Salesforce] non gestisce correttamente un errore.

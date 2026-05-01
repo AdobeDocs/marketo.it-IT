@@ -3,9 +3,9 @@ description: Risposte alle domande frequenti sul contenuto e sugli allegati nell
 title: Domande frequenti su contenuto e file allegato
 exl-id: 53374ab8-c41e-4cf3-91ed-8ce47f06fbc8
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '274'
 ht-degree: 3%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 3%
 
 Un **file allegato** è simile a un file allegato che useresti nel tuo normale client di posta elettronica.
 
-**Contenuto** è ciò che viene utilizzato per descrivere qualsiasi file (PPT, PDF, documento di Word, ecc.) che si desidera venga tracciato da [!DNL Sales Insight Actions].
+**Contenuto** è ciò che usiamo per descrivere qualsiasi file (PPT, PDF, documento Word, ecc.) che desideri essere monitorato da [!DNL Sales Insight Actions].
 
 Dopo aver fatto clic su questo pulsante, puoi scegliere un file già caricato o caricare un nuovo file da tracciare. Quindi inseriamo un collegamento nell’e-mail o nel modello in uso.
 

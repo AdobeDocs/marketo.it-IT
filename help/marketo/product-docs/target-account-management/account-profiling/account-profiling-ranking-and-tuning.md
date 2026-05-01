@@ -4,9 +4,9 @@ description: Scopri in che modo la funzione di profilazione degli account classi
 title: Classificazione della profilazione dell'account e regolazione
 exl-id: 9c5d0a03-0ebe-43cc-95ef-faab19a7f673
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '393'
+source-wordcount: '405'
 ht-degree: 4%
 
 ---

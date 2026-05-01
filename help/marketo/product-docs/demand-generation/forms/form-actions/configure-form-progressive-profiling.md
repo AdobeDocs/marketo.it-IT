@@ -4,9 +4,9 @@ description: Scopri come configurare la profilatura progressiva in un modulo di 
 title: Configurare la profilatura progressiva del modulo
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '323'
 ht-degree: 4%
 
 ---

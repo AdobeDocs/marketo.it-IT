@@ -3,16 +3,16 @@ description: Scopri come installare la soluzione Marketo in Dynamics 365 con con
 title: 'Passaggio 1 di 3: installare la soluzione Marketo con connessione server-server'
 exl-id: bf6f87c1-5ba5-490b-bcce-365120af3730
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '246'
 ht-degree: 3%
 
 ---
 
 # Passaggio 1 di 3: installare la soluzione Marketo con connessione server-server {#step-1-of-3-install-the-marketo-solution-s2s}
 
-Prima di poter sincronizzare [!DNL Microsoft Dynamics 365] e Marketo, è necessario installare la soluzione Marketo in [!DNL Dynamics]. Sono necessarie **[!DNL Dynamics]autorizzazioni amministratore.**
+Prima di poter sincronizzare [!DNL Microsoft Dynamics 365] e Marketo, è necessario installare la soluzione Marketo in [!DNL Dynamics]. **[!DNL Dynamics]Le autorizzazioni di amministrazione sono necessarie.**
 
 >[!CAUTION]
 >

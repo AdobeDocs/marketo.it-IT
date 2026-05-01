@@ -3,10 +3,10 @@ description: Scopri come concedere agli utenti di Marketo l’accesso Sales Conn
 title: Concessione dell’accesso agli utenti
 exl-id: d9577401-7aa2-4ce1-bc4d-c0514d01d953
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 4%
+source-wordcount: '201'
+ht-degree: 3%
 
 ---
 

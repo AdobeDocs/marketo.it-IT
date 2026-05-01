@@ -4,10 +4,10 @@ description: Scopri la sintassi del modello e-mail in Email Editor 2.0. Utilizza
 title: Sintassi del modello e-mail
 exl-id: 84d6c0a8-1108-4b7e-8b4f-ac0682c6bdbb
 feature: Email Editor
-source-git-commit: 95da11838132f31a2728ca18dca39e781c7c3f44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '2462'
-ht-degree: 97%
+source-wordcount: '2464'
+ht-degree: 83%
 
 ---
 
@@ -49,7 +49,7 @@ Attributi richiesti
 
 Attributi facoltativi
 
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Valore predefinito
 
@@ -67,7 +67,7 @@ Attributi richiesti
 
 * **class**: &quot;mktoText&quot;
 * **id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Valore predefinito
 
@@ -87,7 +87,7 @@ Attributi richiesti
 
 * **class:** &quot;mktoImg&quot;.
 * **id:** stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-* **mktoName:** stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -118,7 +118,7 @@ Attributi richiesti
 
 * **class:** &quot;mktoImg&quot;.
 * **id:** stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-* **mktoName:** stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.  Valore predefinito (facoltativo)
+* **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.  Valore predefinito (facoltativo)
 * **src:** da utilizzare come valore predefinito per l’immagine. Se viene omesso, viene utilizzato un segnaposto.
 * **mktoLockImgSize:** utilizzato per sbloccare le proprietà height e width dell’elemento `<img>` in modo che l’utente finale possa modificarle (se omesso, il valore predefinito è vero).
 * **mktoLockImgStyle:** utilizzato per bloccare la proprietà di stile dell’elemento `<img>` (il valore predefinito è falso).
@@ -132,8 +132,8 @@ Se si definisce un&#39;area come Snippet, gli utenti finali potranno scegliere q
 
 Attributi richiesti
 
-* **id:** ID stringa. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-* **mktoName:** stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **id:** stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Valore predefinito (facoltativo)
 
@@ -149,8 +149,8 @@ Se definisci un’area come video, gli utenti finali potranno inserire un URL Yo
 
 Attributi richiesti
 
-* **id:** ID stringa. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-* **mktoName:** stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **id:** stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
+* **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -171,7 +171,7 @@ Se specifichi una variabile come Stringa, l’utente finale potrà inserire il t
 Attributi richiesti
 
 * **id:** il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName:** stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -194,12 +194,12 @@ Se specifichi una variabile come Elenco, l’utente finale potrà scegliere da u
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName:** stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName:** stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 * **valori:** elenco di valori separato da virgole. Deve disporre di almeno una stringa.
 
 Attributi facoltativi
 
-* **default:** il valore predefinito del menu a discesa di selezione. Se omesso, viene utilizzato il primo valore dell’attributo “values”.
+* **default:** Valore predefinito del menu a discesa di selezione. Se omesso, viene utilizzato il primo valore dell’attributo “values”.
 * **mktoModuleScope**: booleano. Controlla se la variabile è locale (vero) o globale (falso) quando viene utilizzata in un modulo. Se omesso, il valore predefinito è Falso.
 
 Esempio di dichiarazione:
@@ -217,14 +217,14 @@ Se specifichi una variabile come Numero, l’utente finale potrà inserire un nu
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 * **default:** il valore numerico predefinito per la variabile.
 
 Attributi facoltativi
 
 * **min:** il valore minimo accettato.
 * **max:** il valore massimo accettato.
-* **units:** unità da aggiungere al valore numerico (ad es. px, pt, em, ecc.) quando viene visualizzato nell’editor e-mail e nel codice risultante.
+* **unità:** unità da aggiungere al valore numerico (ad esempio: px, pt, em, ecc.) quando viene visualizzato nell’Editor e-mail e nel codice risultante.
 * **passaggio:** di quante unità la variabile Numero deve aumentare/diminuire di (0,1, 1, 10, ecc.). Se omesso, il valore predefinito è 1.
 * **mktoModuleScope**: booleano. Controlla se la variabile è locale (vero) o globale (falso) quando viene utilizzata in un modulo. Se omesso, il valore predefinito è Falso.
 
@@ -243,7 +243,7 @@ Se specifichi una variabile come Colore, l’utente finale potrà inserire un va
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -265,7 +265,7 @@ Se specifichi una variabile come Booleana, l’utente finale potrà attivare/dis
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -291,7 +291,7 @@ Se specifichi una variabile come Blocco HTML, l’utente finale potrà inserire 
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -313,7 +313,7 @@ Se specifichi una variabile come Immagine, l’utente finale potrà scegliere un
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento alla variabile all’interno del modello e-mail.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 
@@ -347,7 +347,7 @@ Può essere specificato utilizzando `<table>` con class=“mktoModule”
 Attributi richiesti
 
 * **id**: il modo in cui fai riferimento al modulo all’interno del modello e-mail.
-* **mktoName**: stringa. Questo è il nome che verrà visualizzato nell’editor e-mail 2.0. Si consiglia di utilizzare un nome descrittivo.
+* **mktoName**: stringa. Questo è il nome visualizzato in Email Editor 2.0. Si consiglia di utilizzare un nome descrittivo.
 
 Attributi facoltativi
 

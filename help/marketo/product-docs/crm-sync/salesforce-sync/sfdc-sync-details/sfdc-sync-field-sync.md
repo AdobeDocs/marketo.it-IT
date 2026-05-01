@@ -4,9 +4,9 @@ description: Scopri quali campi di Salesforce vengono sincronizzati con Marketo 
 title: Sincronizzazione SFDC - Sincronizzazione campi
 exl-id: fbd66829-53cb-47fd-a530-149d12baee0e
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '432'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Sincronizziamo la maggior parte dei campi standard in SFDC ed eventuali campi pe
 
 ## Come determinare se un record in Marketo è un lead o un contatto in [!DNL Salesforce]? {#how-do-you-determine-if-a-record-in-marketo-is-a-lead-or-a-contact-in-salesforce}
 
-In Marketo è presente un campo denominato Tipo SFDC. Possiede tre valori possibili: lead, contatto o è vuoto. Se è vuoto, significa che questo lead Marketo non esiste in SFDC.
+In Marketo è presente un campo denominato Tipo SFDC. Possiede tre valori possibili: lead, contatto o vuoto. Se è vuoto, significa che questo lead Marketo non esiste in SFDC.
 
 ## Come determinare se un lead o un contatto viene eliminato in SFDC? {#how-do-you-determine-if-a-lead-or-contact-is-deleted-in-sfdc}
 

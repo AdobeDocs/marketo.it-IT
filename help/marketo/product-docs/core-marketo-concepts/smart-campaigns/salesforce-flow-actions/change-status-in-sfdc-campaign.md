@@ -4,9 +4,9 @@ description: Scopri come modificare lo stato in una campagna Salesforce con un p
 title: Modificare lo stato nella campagna SFDC
 exl-id: 7c0082fe-204f-46d2-a835-8655dea4d0b1
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '103'
 ht-degree: 9%
 
 ---
@@ -27,6 +27,6 @@ Se un lead non esiste in Salesforce o non è ancora membro della campagna, verr�
 
    ![](assets/change-status-in-sfdc-campaign-2.png)
 
-1. Quindi seleziona **[!UICONTROL New Status]** da impostare ed è terminato.
+1. Quindi, selezionare **[!UICONTROL New Status]** da impostare ed è terminato.
 
    ![](assets/change-status-in-sfdc-campaign-3.png)

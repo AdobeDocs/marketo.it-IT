@@ -3,9 +3,9 @@ description: Scopri come promuovere un webinar interattivo in Marketo. Condividi
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Dopo l’aggiunta o l’importazione dei membri, puoi creare una campagna e-mail
 >
 >Se desideri aggiungere un co-host o un presentatore come membro del pubblico al programma di eventi del webinar interattivo, devi utilizzare un ID e-mail diverso per loro, altrimenti riceveranno un errore &quot;Questa e-mail è già registrata&quot;.
 
-L’e-mail può contenere dettagli specifici del programma e includere un URL della pagina di destinazione che reindirizzerebbe il destinatario a una pagina specifica in cui è possibile aggiungere ulteriori informazioni relative al webinar (ad esempio, contenuto, informazioni sul presentatore, ecc.). Questa pagina di destinazione può essere creata come risorsa locale nel programma di eventi dei webinar interattivi.
+L’e-mail può contenere dettagli specifici del programma e includere un URL della pagina di destinazione che reindirizzerebbe il destinatario a una pagina specifica in cui ulteriori informazioni relative al webinar (ad esempio, contenuto, informazioni sul presentatore, ecc.) possono essere aggiunti. Questa pagina di destinazione può essere creata come risorsa locale nel programma di eventi dei webinar interattivi.
 
 Per richiedere la registrazione a questo webinar, abilita un modulo nella pagina di destinazione e collega i clic del modulo alla registrazione abilitata nel programma di eventi del webinar interattivo. È quindi possibile creare una campagna che utilizza l’invio dei moduli come attivatore e cambia lo stato del programma da &quot;invitato&quot; a &quot;registrato&quot;.
 
@@ -46,7 +46,7 @@ I webinar interattivi consentono di richiedere la registrazione prima, durante o
 
 ## Token webinar interattivi {#interactive-webinars-tokens}
 
-Utilizza i token per promuovere i webinar interattivi nelle e-mail senza dover aggiungere manualmente i dettagli del webinar. Questo migliora l’efficienza complessiva, poiché qualsiasi modifica apportata ai metadati del webinar (come titolo del webinar, data di inizio e così via) si rifletterà automaticamente nelle risorse.
+Utilizza i token per promuovere i webinar interattivi nelle e-mail senza dover aggiungere manualmente i dettagli del webinar. Ciò migliora l’efficienza complessiva in quanto eventuali modifiche apportate ai metadati del webinar (come titolo del webinar, data di inizio, ecc.) si rifletterà automaticamente nelle risorse.
 
 ![](assets/promoting-an-interactive-webinar-3.png)
 

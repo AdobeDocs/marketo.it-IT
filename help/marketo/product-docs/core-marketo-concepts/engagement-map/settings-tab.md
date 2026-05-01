@@ -2,9 +2,9 @@
 description: Scopri la scheda Impostazioni per le regole di qualifica, le esecuzioni e la ricorrenza di Smart Campaign. Imposta la frequenza con cui le persone eseguono il flusso della campagna.
 title: Scheda Impostazioni
 exl-id: 622ad162-a2b1-4a37-93d8-c1dd8c6e10c8
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '324'
 ht-degree: 2%
 
 ---
@@ -35,7 +35,7 @@ Le regole di qualifica saranno disponibili per tutte le campagne (trigger e batc
 
 >[!TIP]
 >
->Se pianifichi una serie di campagne, è più facile utilizzare la finestra modale di ricorrenza.
+>Se pianifichi una serie di campagne, è più facile utilizzare la finestra modale Ricorrenza.
 
 ![](assets/settings-tab-3.png)
 
@@ -56,11 +56,11 @@ La scheda Impostazioni include anche una rapida panoramica di Smart Campaign. In
 
 Set di autorizzazioni ed errori nella scheda Impostazioni:
 
-Tutti i set di autorizzazioni esistenti saranno applicabili nella scheda Impostazioni. Se il pulsante Modifica è disattivato, fai clic sull’icona Aiuto per scoprirne il motivo.
+Tutti i set di autorizzazioni esistenti saranno applicabili nella scheda Impostazioni. Se il pulsante Modifica è disattivato, fare clic sull&#39;icona della guida per scoprirne il motivo.
 
 >[!NOTE]
 >
->Se dopo aver fatto clic sull’icona della guida viene visualizzato &quot;È necessaria un’autorizzazione aggiuntiva&quot;, contatta il tuo amministratore Marketo.
+>Se dopo aver fatto clic sull’icona della guida viene visualizzato &quot;Autorizzazione aggiuntiva richiesta&quot;, contatta il team dell’account di Adobe (il tuo account manager).
 
 ![](assets/settings-tab-5.png)
 

@@ -2,10 +2,10 @@
 description: Scopri come impostare una sandbox Sales Insight Actions per il test. Richiedi il provisioning, attiva l’istanza e collegati a Salesforce Sandbox.
 title: Impostare una sandbox per le azioni di Sales Insight
 exl-id: 8bc3a8a6-7fbc-4cbe-99a7-21b066ec4f96
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '682'
-ht-degree: 2%
+source-wordcount: '693'
+ht-degree: 3%
 
 ---
 
@@ -65,7 +65,7 @@ Per eseguire le azioni è necessario attivare prima una nuova istanza con un ute
 
 1. Aggiorna le impostazioni di accesso in &quot;Tutti i metodi di accesso&quot; in modo da poter accedere con un nome utente e una password, se necessario. Se lo si desidera, è possibile tornare a &quot;Solo Salesforce&quot; dopo aver configurato tutto. [Per ulteriori informazioni, vedere](/help/marketo/product-docs/marketo-sales-insight/actions/admin/login-management-settings.md){target="_blank"}.
 
-1. Disconnettiti da Salesforce Production e connettiti al tuo Salesforce Sandbox. [Scopri come connetterti qui](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. Per il passaggio 3, seleziona &quot;Sandbox&quot; invece di &quot;Salesforce&quot;. Se la connessione è già attiva, nella scheda Connessioni e personalizzazioni di Salesforce dovrebbe essere visualizzata un&#39;opzione per la disconnessione.
+1. Disconnettiti da Salesforce Production e connettiti al tuo Salesforce Sandbox. [Scopri come connetterti qui](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/connect-your-sales-insight-actions-account-to-salesforce.md){target="_blank"}. Per il passaggio 3, seleziona &quot;Sandbox&quot; invece di &quot;Salesforce&quot;. Se si è già connessi, nella scheda Connessioni e personalizzazioni di Salesforce dovrebbe essere visualizzata un&#39;opzione per disconnettersi.
 
 >[!NOTE]
 >

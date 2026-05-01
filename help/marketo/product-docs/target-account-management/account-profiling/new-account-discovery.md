@@ -4,9 +4,9 @@ description: Scopri come trovare nuovi account per eseguire il targeting utilizz
 title: Individuazione di un nuovo account
 exl-id: 0d07cd0d-abf6-4daf-b818-21b91919bd9d
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '307'
 ht-degree: 4%
 
 ---

@@ -3,10 +3,10 @@ description: Scopri come impostare le azioni di Insight per le vendite come ammi
 title: Guida alla configurazione dell’amministratore delle azioni di Sales Insight
 exl-id: 339d518d-445b-4634-ab81-92c9d5541927
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '613'
-ht-degree: 3%
+source-wordcount: '627'
+ht-degree: 4%
 
 ---
 
@@ -94,7 +94,7 @@ L’utente riceverà un’e-mail con i passaggi per accedere all’account.
 
    ![](assets/msi-actions-admin-guide-6.png)
 
-Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, ti verrà chiesto di effettuare l&#39;accesso.
+Se hai già effettuato l’accesso a Salesforce, sarai connesso. In caso contrario, ti verrà chiesto di effettuare l’accesso.
 
 ## Collegare Marketo all&#39;account App vendite {#connect-marketo-to-your-sales-apps-account}
 

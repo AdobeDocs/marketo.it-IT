@@ -3,9 +3,9 @@ description: Scopri come gestire i modelli e-mail nelle azioni di Sales Insight.
 title: Gestire i modelli
 exl-id: a18e7112-91e8-462c-9d1a-3a0f43c1b1cf
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 5%
 
    ![](assets/manage-templates-3.png)
 
-1. Nell’editor modelli, crea un oggetto per l’e-mail e digita il messaggio desiderato. Utilizzate gli strumenti di modifica (font, dimensione del testo, ecc.) per personalizzare l&#39;aspetto. Fai clic su **[!UICONTROL Save]** per finalizzare le modifiche.
+1. Nell’editor modelli, crea un oggetto per l’e-mail e digita il messaggio desiderato. Utilizza gli strumenti di modifica (font, dimensione del testo, ecc.) per personalizzare l&#39;aspetto. Fai clic su **[!UICONTROL Save]** per finalizzare le modifiche.
 
    ![](assets/manage-templates-4.png)
 

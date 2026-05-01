@@ -4,16 +4,16 @@ description: Scopri come aggiungere misure personalizzate a un rapporto di Esplo
 title: Aggiunta di misure personalizzate a un rapporto Revenue Explorer
 exl-id: 1f9230eb-4ea4-48d7-a269-76f9e589d3cd
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '214'
 ht-degree: 7%
 
 ---
 
 # Aggiunta di misure personalizzate a un rapporto Revenue Explorer {#adding-custom-measures-to-a-revenue-explorer-report}
 
-Talvolta, può essere necessario inserire una misura personalizzata in un rapporto. È facile crearne uno tuo.
+Talvolta, può essere necessario inserire una misura personalizzata in un rapporto. È facile crearne una tua.
 
 Nell’esempio seguente, stai creando una misura calcolata per mancati recapiti non permanenti, che accetta metriche già presenti nel rapporto e utilizza dati matematici di base per creare una nuova metrica. Potete creare anche altri tipi di misure.
 

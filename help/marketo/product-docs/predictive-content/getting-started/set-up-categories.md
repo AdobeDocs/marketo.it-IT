@@ -4,9 +4,9 @@ description: Imposta le categorie in Contenuto predittivo per raggruppare i risu
 title: Configurare categorie
 exl-id: 4756e821-d90d-4148-b9c4-4912a48d26b4
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 5%
 
 ---
@@ -45,7 +45,7 @@ Ecco come creare i tag delle categorie.
 
    ![](assets/remove-category-tag-updated.png)
 
-1. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Al termine, fare clic su **[!UICONTROL Save]**.
 
    ![](assets/save-new.png)
 

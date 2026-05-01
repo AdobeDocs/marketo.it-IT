@@ -3,9 +3,9 @@ description: Scopri come iniziare come nuovo utente Sales Insight Actions. Compl
 title: Guida all’onboarding degli utenti per le azioni di Sales Insight
 exl-id: ace517b6-3a06-4e2e-b545-8c95ad0cf457
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '316'
 ht-degree: 5%
 
 ---

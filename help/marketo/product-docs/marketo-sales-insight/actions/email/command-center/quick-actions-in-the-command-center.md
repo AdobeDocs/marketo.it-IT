@@ -3,9 +3,9 @@ description: Scopri le azioni rapide nel Centro comandi per le e-mail e le attiv
 title: Azioni rapide nel centro comandi
 exl-id: e95cdb06-8a67-41ba-b528-c2478a75356f
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '309'
 ht-degree: 4%
 
 ---
@@ -39,7 +39,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+   <td><p>Eliminazione dell'e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
   </tr>
  </tbody>
 </table>
@@ -58,7 +58,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+   <td><p>Eliminazione dell'e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
   </tr>
  </tbody>
 </table>
@@ -77,7 +77,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+   <td><p>Eliminazione dell'e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
   </tr>
  </tbody>
 </table>

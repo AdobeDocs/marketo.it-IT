@@ -2,9 +2,9 @@
 description: Scopri la scheda Mappa di coinvolgimento e le relative schede di trigger, filtro e flusso. Fai clic sulle schede per visualizzare i dettagli e modificare gli elementi della campagna.
 title: Scheda Mappa di coinvolgimento
 exl-id: 8c4d076a-d8aa-44ff-b538-ca6a6778697a
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '950'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Passaggi di flusso: se un passaggio di flusso _non_ include scelte, questa sched
    * Campagna a cui appartiene il passaggio di flusso
    * Passaggio Modifica flusso
    * Elenco di attributi associati al passaggio del flusso
-   * Pulsante &quot;Visualizza elenco&quot;, che apre un elenco di campagne che utilizzano la specifica campagna di richiesta/esecuzione
+   * Pulsante &quot;Visualizza elenco&quot;, che apre un elenco di campagne che utilizzano la richiesta o l’esecuzione specifica della campagna
 
 >[!NOTE]
 >
@@ -74,7 +74,7 @@ Passaggi di flusso: se un passaggio di flusso _non_ include scelte, questa sched
    * Campagna a cui appartiene la scelta
    * Modifica scelta
    * Elenco delle condizioni di scelta associate al passaggio del flusso
-   * Visualizza elenco, che apre un elenco di campagne che utilizzano la specifica campagna di richiesta/esecuzione
+   * Visualizza elenco, che apre un elenco di campagne che utilizzano la richiesta o l’esecuzione di una campagna specifica
 
   ![](assets/engagement-map-tab-10.png)
 
@@ -116,7 +116,7 @@ Puoi approfondire le campagne nidificate se uno dei passaggi del flusso include 
 
 ![](assets/engagement-map-tab-16.png)
 
-Di seguito è riportato un esempio di campagna di richiesta con scelte.
+Di seguito è riportato un esempio di campagna di richiesta con opzioni.
 
 ![](assets/engagement-map-tab-17.png)
 

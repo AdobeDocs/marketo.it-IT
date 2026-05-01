@@ -4,10 +4,10 @@ description: Scopri il punteggio dell’account e come consente di assegnare la 
 title: Punteggio account
 exl-id: 68fb5f41-f715-4a4d-b4da-9db4dc38d67d
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 2%
+source-wordcount: '354'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ Il punteggio dell&#39;account è una parte vitale di [!UICONTROL Target Account 
 
 ## Cos’è il punteggio dell’account? {#what-is-account-scoring}
 
-Si tratta di un approccio sistematico progettato per aiutare i team di vendita e marketing a identificare e assegnare le priorità alle aziende (inclusi i potenziali clienti) che hanno più probabilità di effettuare un acquisto.
+Si tratta di un approccio sistematico progettato per aiutare i team di vendita e marketing a identificare e assegnare le priorità alle aziende (inclusi i potenziali clienti) che hanno maggiori probabilità di effettuare un acquisto.
 
 Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individuo prenda una decisione di acquisto. Spesso sono coinvolti diversi ruoli, ciascuno con le proprie esigenze. Il punteggio basato sull’account ne tiene conto aggregando i punteggi dei lead da più lead e fornendo un punteggio a livello di account.
 
@@ -47,9 +47,7 @@ Nel complesso mondo dei processi di acquisto B2B, è raro che un singolo individ
 >Per calcolare i punteggi dei conti, devi innanzitutto creare i punteggi dei lead. Marketo TAM aggrega automaticamente i punteggi dei lead per i punteggi degli account. Ad esempio, verranno utilizzati due degli esempi precedenti (_Punteggio interesse prodotto account_ e _Punteggio coinvolgimento Web account_).
 >
 >Innanzitutto, crea dei campi di valutazione del lead che acquisiscono dettagli rilevanti da ciascun lead di un account target.
->Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:
->Punteggio interesse prodotto conto = SOMMA (Punteggio interesse prodotto lead)
->Punteggio coinvolgimento Web account = SUM (punteggio coinvolgimento Web lead)
+>Quindi assegna i punteggi dei lead ai rispettivi punteggi dell’account:>Punteggio interesse prodotto conto = SOMMA (Punteggio interesse prodotto lead)>Punteggio coinvolgimento Web account = SUM (punteggio coinvolgimento Web lead)
 
 >[!NOTE]
 >

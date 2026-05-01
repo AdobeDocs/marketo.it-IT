@@ -1,12 +1,12 @@
 ---
 unique-page-id: 2359614
-description: Scopri come definire i valori in un campo a discesa o a scelta in un modulo di Marketo. Imposta le opzioni tra cui i visitatori possono scegliere.
+description: Scopri come definire i valori in un campo radio o a discesa in un modulo Marketo. Imposta le opzioni tra cui i visitatori possono scegliere.
 title: Definire i valori in un pulsante di scelta o campo selezionato in un modulo
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 15%
 
 ---

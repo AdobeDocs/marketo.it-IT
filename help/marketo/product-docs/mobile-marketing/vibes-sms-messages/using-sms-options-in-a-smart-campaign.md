@@ -3,10 +3,10 @@ description: Comprendere i trigger SMS, i filtri e i passaggi del flusso in Camp
 title: Utilizzo delle opzioni SMS in una campagna avanzata
 feature: Mobile Marketing
 exl-id: 199b7cae-86d2-42fe-8934-10aa780f4454
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '415'
-ht-degree: 3%
+source-wordcount: '420'
+ht-degree: 5%
 
 ---
 
@@ -70,11 +70,11 @@ Al contrario, il filtro **Membro dell&#39;elenco Vibes** trova *chiunque* è att
   </tr>
 
 <tr>
-    <td style="width:20%"><b>Iscriviti all’elenco delle vibrazioni</b></td>
+    <td style="width:20%"><b>Iscriviti all’elenco Vibes</b></td>
     <td>Questa azione di flusso avvia il processo di abbonamento SMS tramite una campagna di acquisizione Vibes selezionata dall’utente. Vibes invia quindi un messaggio di conferma e il destinatario deve rispondere con "Y" entro 24 ore per confermare l’opt-in. Una volta che l’utente ha acconsentito, diventerà membro dell’elenco di iscrizioni Vibes associato.</td>
   </tr>
   <tr>
-    <td style="width:20%"><b>Annulla iscrizione all’elenco delle vibrazioni</b></td>
+    <td style="width:20%"><b>Annulla l’iscrizione all’elenco Vibes</b></td>
     <td>Questa azione di flusso annulla l’abbonamento di ogni persona da un elenco di abbonamenti Vibes con consenso esplicito dell’utente. Quando un utente scrive "STOP" al codice, il record della persona viene aggiornato per indicare che non è più membro dell’elenco di abbonamento a Vibes.</td>
   </tr>
   </tbody>

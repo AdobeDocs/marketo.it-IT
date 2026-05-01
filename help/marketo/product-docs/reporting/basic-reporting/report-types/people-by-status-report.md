@@ -4,9 +4,9 @@ description: Scopri i rapporti Persone per stato che mostrano quante persone ven
 title: Rapporto Persone per stato
 exl-id: 1d820d37-f820-4ea4-ab2f-41d71f71e64b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 6%
 
 ---

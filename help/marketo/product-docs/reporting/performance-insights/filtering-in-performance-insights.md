@@ -4,9 +4,9 @@ description: Scopri come filtrare i dati di Performance Insights per elenchi di 
 title: Filtrare in approfondimenti prestazioni
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '345'
 ht-degree: 1%
 
 ---
@@ -53,7 +53,7 @@ Puoi rimuovere un filtro in qualsiasi momento facendo clic sulla X accanto a ess
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">Account denominato ABM</span></strong></td>
-   <td colspan="1">Se utilizzi Marketo ABM, tutti gli account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro ‘ABM Named Account’ (Account denominato ABM). Puoi selezionare un account denominato per filtrare i risultati in base a tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account denominati ABM.</a></td>
+   <td colspan="1">Se utilizzi Marketo ABM, tutti gli account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Named Account" (Account denominato ABM). Puoi selezionare un account denominato per filtrare i risultati in base a tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account denominati ABM.</a></td>
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">Attributo personalizzato</span></strong></td>

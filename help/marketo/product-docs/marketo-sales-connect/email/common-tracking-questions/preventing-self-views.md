@@ -4,9 +4,9 @@ description: Scopri come impedire le visualizzazioni automatiche in Sales Connec
 title: Impedire visualizzazioni personali
 exl-id: c18715fc-4ca2-4a6b-8f63-a9406f30c0d8
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '280'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Ottenere falsi positivi per il tracciamento delle visualizzazioni può causare i
 
 * Verificare che nel computer siano abilitati i cookie.
 
-* Se utilizzi un nuovo computer o dispositivo mobile, assicurati di aver effettuato l’accesso all’applicazione web. In questo modo sarà possibile riconoscere il computer o il dispositivo in uso.
+* Se si utilizza un nuovo computer o dispositivo mobile, verificare di aver effettuato l&#39;accesso all&#39;applicazione Web. In questo modo sarà possibile riconoscere il computer o il dispositivo in uso.
 
 ## Desktop (Windows) {#desktop-windows}
 

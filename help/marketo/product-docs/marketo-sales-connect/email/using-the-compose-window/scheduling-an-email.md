@@ -4,9 +4,9 @@ description: Scopri come pianificare un’e-mail in Sales Connect. Imposta una d
 title: Programmazione di un’e-mail
 exl-id: db79ef1f-92f4-4afa-97c8-655299c59406
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '145'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ Segui questi semplici passaggi per pianificare un’e-mail.
 
    ![](assets/one-1.png)
 
-1. Al termine della composizione dell&#39;e-mail, fai clic su **[!UICONTROL Schedule]** in basso a destra
+1. Al termine della composizione dell&#39;e-mail, fare clic su **[!UICONTROL Schedule]** in basso a destra
 
    ![](assets/two-1.png)
 

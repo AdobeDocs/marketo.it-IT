@@ -4,10 +4,10 @@ description: Scopri come abilitare o disabilitare il tag javascript rtp in Marke
 title: Abilitazione o disabilitazione del tag JavaScript RTP
 exl-id: 15d958b2-e8ed-430e-947d-418cb5dd060b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 12%
+source-wordcount: '134'
+ht-degree: 11%
 
 ---
 
@@ -17,7 +17,7 @@ Il tag JavaScript RTP controlla se Web Personalization tiene traccia dell’atti
 
 >[!NOTE]
 >
->**Non è necessario rimuovere il tag dal codice HTML sul sito Web.** controllarlo tramite [!UICONTROL Account Settings].
+>**non è necessario rimuovere il tag dal codice html sul sito Web.** Controlla tramite [!UICONTROL Account Settings].
 
 ## Attiva o disattiva il tag {#enable-or-disable-the-tag}
 

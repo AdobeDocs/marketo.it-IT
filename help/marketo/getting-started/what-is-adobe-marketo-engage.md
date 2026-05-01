@@ -4,10 +4,10 @@ description: Che cos’è Adobe Marketo Engage? - Documenti Marketo - Documentaz
 title: Che cos’è Adobe Marketo Engage?
 exl-id: 7b76e910-6c01-4fdb-8ab8-f6b1abe13136
 feature: Getting Started
-source-git-commit: 94f8ed13720ead55696572be211889d36789a0bd
-workflow-type: ht
-source-wordcount: '286'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 95%
 
 ---
 
@@ -43,7 +43,7 @@ Marketo Engage offre numerose funzioni avanzate per aiutarti a raggiungere i tuo
 
 ## Devo imparare tutto questo? {#do-i-need-to-learn-all-of-that}
 
-No. È facile iniziare a utilizzare Marketo Engage e si evolverà insieme a te. Puoi imparare tutto, se lo desideri, o semplicemente utilizzare le parti che si adattano alle tue esigenze.
+No. È facile iniziare a utilizzare Marketo Engage, e si evolverà insieme a te. Puoi imparare tutto, se lo desideri, o semplicemente utilizzare le parti che si adattano alle tue esigenze.
 
 ## È necessario eseguire una configurazione? {#do-i-need-to-do-any-setup}
 
@@ -55,7 +55,7 @@ No. Abbiamo creato una serie di semplici tutorial. [Inizia qui](/help/marketo/ge
 
 ## Esiste un elenco di elementi con dei limiti, ad esempio il numero totale di e-mail che è possibile inviare in una settimana? {#list-of-limits}
 
-Sì, esiste. I limiti statici (e altri parametri) sono descritti [in questo articolo](https://helpx.adobe.com/it/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
+Sì, esiste. I limiti statici (e altri parametri) sono descritti [in questo articolo](https://helpx.adobe.com/legal/product-descriptions/adobe-marketo-engage---product-description.html#performance-guardrails){target="_blank"}.
 
 ## Per quanto tempo Marketo conserva i miei dati? {#data-retention-policy}
 

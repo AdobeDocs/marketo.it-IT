@@ -4,9 +4,9 @@ description: Scopri come approvare o annullare l’approvazione di un programma 
 title: Approvare/Annullare l’approvazione di un programma e-mail
 exl-id: 0bfb1306-7a98-4629-9264-63cfd5d6a690
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 7%
 
 ---

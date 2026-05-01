@@ -4,9 +4,9 @@ description: Scopri come abilitare Predictive Content per i modelli di contenuti
 title: Abilitare i contenuti predittivi per i rich media per il web
 exl-id: 030f1dd7-8fe7-4c82-be5e-052f0a259e3c
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '319'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ I contenuti predittivi coinvolgono i visitatori web con i contenuti più rilevan
 
 >[!NOTE]
 >
->Si consiglia di abilitare oltre cinque contenuti per categoria e per origine (e-mail, rich media, barra) prima di testare e utilizzare Contenuto predittivo. Più contenuti consentono di ottenere risultati predittivi migliori.
+>Prima di testare e utilizzare Predictive Content (Contenuto predittivo), si consiglia di abilitare più di cinque contenuti per categoria e per origine (e-mail, rich media, barra). Più contenuti consentono di ottenere risultati predittivi migliori.
 
 >[!PREREQUISITES]
 >
@@ -47,7 +47,7 @@ Dopo aver preparato il titolo, la descrizione e l’immagine del contenuto per R
 
 ## Personalizza il codice JavaScript e incorporalo nel tuo sito web  {#customize-the-javascript-code-and-embed-it-into-your-website}
 
-Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
+Consulta la documentazione relativa al modello di consigli per contenuti multimediali avanzati [sul sito per sviluppatori di Marketo](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation){target="_blank"}. Questo spiega come personalizzare il modello per il sito web.
 
 Incolla il codice JavaScript nel tuo sito web nel percorso in cui desideri visualizzare il modello.
 

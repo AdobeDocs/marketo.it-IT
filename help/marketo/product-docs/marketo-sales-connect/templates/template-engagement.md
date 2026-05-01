@@ -4,9 +4,9 @@ description: Comprendere il coinvolgimento dei modelli in Sales Connect. Puoi ve
 title: Livello di coinvolgimento per un modello
 exl-id: 368e1dae-26bf-42a1-9525-6c0cd9e64e23
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '189'
 ht-degree: 2%
 
 ---

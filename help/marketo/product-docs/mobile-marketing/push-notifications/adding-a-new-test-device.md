@@ -4,10 +4,10 @@ description: Scopri come aggiungere un nuovo dispositivo di test per le notifich
 title: Aggiunta di un nuovo dispositivo di test
 exl-id: b7adfad7-c699-4840-a77a-8bdf3ff16f60
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 9%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 

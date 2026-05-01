@@ -4,10 +4,10 @@ description: Pagina di destinazione con un modulo - Documentazione Marketo - Doc
 title: Pagina di destinazione con un modulo
 exl-id: 4ae6df7c-96d0-4bfe-962c-e14ecb877a6a
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '498'
-ht-degree: 7%
+source-wordcount: '505'
+ht-degree: 6%
 
 ---
 
@@ -117,7 +117,7 @@ Ben fatto! Ora che abbiamo creato un programma, andiamo avanti e creiamo alcuni 
 
    >[!NOTE]
    >
-   >Potresti avere un modello diverso da quello della schermata, non c&#39;è problema, selezionane uno e continua.
+   >Puoi avere un modello diverso da quello della schermata, non c&#39;è problema, selezionane uno e continua.
 
    ![](assets/landing-page-with-a-form-17.png)
 

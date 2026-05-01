@@ -4,10 +4,10 @@ description: Scopri come impostare le conversioni offline di Facebook in Marketo
 title: Configurare le conversioni offline di Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 4%
+source-wordcount: '314'
+ht-degree: 3%
 
 ---
 
@@ -50,7 +50,7 @@ Inviando di nuovo i dati di conversione offline a [!DNL Facebook] per le persone
 
    ![](assets/image2016-11-29-13-3a14-3a52.png)
 
-   Dolce! Hai terminato a metà l&#39;abilitazione di [!DNL Facebook] Conversioni offline. Passiamo al Modeler del ciclo dei ricavi per mappare le fasi.
+   Dolce! È stata completata l&#39;attivazione di [!DNL Facebook] conversioni offline. Passiamo al Modeler del ciclo dei ricavi per mappare le fasi.
 
    ![](assets/image2016-11-29-13-3a16-3a55.png)
 
@@ -87,7 +87,7 @@ Inviando di nuovo i dati di conversione offline a [!DNL Facebook] per le persone
 
    ![](assets/2.png)
 
-1. Approva il tuo modello e hai finito!
+1. Approva il modello e hai finito!
 
    ![](assets/image2016-11-29-15-3a6-3a30.png)
 

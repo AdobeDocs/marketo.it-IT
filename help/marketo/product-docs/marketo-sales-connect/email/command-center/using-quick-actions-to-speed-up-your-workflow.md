@@ -4,7 +4,7 @@ description: Scopri come utilizzare le azioni rapide in Sales Connect per veloci
 title: Utilizzo di azioni rapide per velocizzare il flusso di lavoro
 exl-id: 8cfc2fb4-d7b1-4a12-bf4e-37613345e65b
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
 source-wordcount: '326'
 ht-degree: 6%
@@ -40,7 +40,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+   <td><p>Eliminazione dell'e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
   </tr>
  </tbody>
 </table>
@@ -59,7 +59,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+   <td><p>Eliminazione dell'e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
   </tr>
  </tbody>
 </table>
@@ -78,7 +78,7 @@ Le azioni rapide per l’e-mail sono dinamiche e vengono aggiornate in base alle
   </tr>
   <tr>
    <td>[!UICONTROL Delete]</td>
-   <td><p>Elimina l’e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
+   <td><p>Eliminazione dell'e-mail.<br><strong>Nota:</strong> le e-mail inviate come parte di una campagna non possono essere eliminate.</p></td>
   </tr>
  </tbody>
 </table>

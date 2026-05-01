@@ -4,9 +4,9 @@ description: Scopri come utilizzare le fasi sla del modello di ricavo in Marketo
 title: Utilizzo delle fasi di SLA del modello di ricavi
 exl-id: 48ca4be9-0e77-4065-8769-ce046d0c50ea
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '244'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ SLA sta per service level agreement. Questi stadi vengono utilizzati quando esis
 
 >[!TIP]
 >
->È consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo con i colleghi.
+>è consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo con i colleghi.
 
 ## Aggiungere Una Fase Di SLA {#add-an-sla-stage}
 

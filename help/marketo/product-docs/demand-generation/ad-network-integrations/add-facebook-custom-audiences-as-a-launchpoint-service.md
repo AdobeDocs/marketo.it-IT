@@ -4,9 +4,9 @@ description: Scopri come aggiungere tipi di pubblico personalizzati di Facebook 
 title: 'Aggiungi [!DNL Facebook] tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] '
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '300'
 ht-degree: 2%
 
 ---
@@ -39,7 +39,7 @@ Con questa integrazione è possibile inviare dati di pubblico da elenchi statici
 
    ![](assets/image2016-11-29-10-3a52-3a29.png)
 
-1. Dopo aver effettuato l&#39;accesso a [!DNL Facebook], torna a Marketo. Fai clic su **[!UICONTROL Authorize]**.
+1. Dopo aver effettuato l&#39;accesso a [!DNL Facebook], tornare a Marketo. Fai clic su **[!UICONTROL Authorize]**.
 
    ![](assets/fb-custom-authorize-hand.png)
 
@@ -51,7 +51,7 @@ Con questa integrazione è possibile inviare dati di pubblico da elenchi statici
 
    ![](assets/image2016-11-29-10-3a56-3a3.png)
 
-1. Ora sei autorizzato! Selezionare una modalità corrispondente e fare clic su **[!UICONTROL Create]**.
+1. Ora sei autorizzato. Selezionare una modalità corrispondente e fare clic su **[!UICONTROL Create]**.
 
    >[!NOTE]
    >

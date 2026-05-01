@@ -4,9 +4,9 @@ description: Scopri come impostare la mappatura dell’organizzazione Adobe in M
 title: Configurare la mappatura dell’organizzazione Adobe
 exl-id: d20be0d5-508f-40b9-a267-b6752643c311
 feature: Integrations
-source-git-commit: 0851dedd240b2239fd3daca43aa84d8123a4d791
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -36,7 +36,7 @@ Per eseguire la sincronizzazione con le applicazioni Adobe, come Audience Manage
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-3.png)
 
-1. Immetti l&#39;ID organizzazione Adobe IMS (scopri come trovare [qui](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=it){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
+1. Immetti il [ID organizzazione Adobe IMS](https://experienceleague.adobe.com/docs/control-panel/using/faq.html){target="_blank"}) e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/set-up-adobe-experience-cloud-audience-sharing-4.png)
 
@@ -52,6 +52,6 @@ Per eseguire la sincronizzazione con le applicazioni Adobe, come Audience Manage
    >
    >Per motivi di sicurezza, devi essere un amministratore organizzazione per l’organizzazione Adobe a cui desideri mappare. In caso contrario, l’azione avrà esito negativo. Inoltre, l’utente di Adobe e l’utente di Marketo devono utilizzare lo stesso indirizzo e-mail al momento dell’accesso.
 
-1. Se _non_ hai già effettuato l&#39;accesso, verrà visualizzato un pop-up in una nuova scheda/finestra. Accedi all’organizzazione Adobe (questa azione convalida l’accesso all’organizzazione).
+1. Se _non_ hai già effettuato l&#39;accesso, verrà visualizzato un pop-up in una nuova scheda o finestra. Accedi all’organizzazione Adobe (questa azione convalida l’accesso all’organizzazione).
 
 È ora possibile [condividere i dati del pubblico](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md){target="_blank"} o [sincronizzare un pubblico](/help/marketo/product-docs/adobe-experience-cloud-integrations/sync-an-audience-from-adobe-experience-cloud.md){target="_blank"} da Adobe Experience Cloud.

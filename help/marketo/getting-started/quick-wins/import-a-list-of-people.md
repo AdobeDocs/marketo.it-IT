@@ -4,10 +4,10 @@ description: Importare un elenco di persone - Documentazione di Marketo - Docume
 title: Importare un elenco di persone
 exl-id: a85ec787-7b22-4666-84fd-d7bf23d32cd4
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '541'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '553'
+ht-degree: 95%
 
 ---
 
@@ -49,7 +49,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
 ## Passaggio 2: creare un programma {#step-create-a-program}
 
-1. Passa all&#39;area **[!UICONTROL Marketing Activities]**.
+1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 
    ![](assets/import-a-list-of-people-3.png)
 
@@ -113,7 +113,7 @@ Questa esercitazione illustra come importare le persone da un file del foglio di
 
    >[!TIP]
    >
-   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione maiuscole/minuscole). Se stai utilizzando campi personalizzati e non li vedi nel menu a discesa, torna indietro e [creali](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} in modo che possano diventare opzioni.
+   >Per ottenere i migliori risultati di mappatura automatica, le intestazioni di colonna devono sempre corrispondere esattamente al campo (con distinzione maiuscole/minuscole). Se utilizzi campi personalizzati e non li vedi nel menu a discesa, torna indietro e [creali](/help/marketo/product-docs/administration/field-management/create-a-custom-field-in-marketo.md){target="_blank"} in modo che possano diventare opzioni.
 
    >[!NOTE]
    >

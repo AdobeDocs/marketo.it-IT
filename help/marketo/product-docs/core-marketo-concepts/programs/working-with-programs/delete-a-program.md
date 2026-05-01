@@ -4,9 +4,9 @@ description: Scopri come eliminare un programma in Marketo. Rimuovere i programm
 title: Eliminare un programma
 exl-id: c13dbb4a-36ea-49ee-aee2-a4af28750b0f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '180'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 7%
 
    ![](assets/image2014-9-23-15-3a41-3a11.png)
 
-1. Selezionare il pulsante di opzione Elimina tutto... Verificare gli effetti dell&#39;eliminazione del programma, quindi fare clic su **[!UICONTROL Delete]** per confermare.
+1. Seleziona &quot;Elimina tutto...&quot; pulsante di opzione. Verificare gli effetti dell&#39;eliminazione del programma, quindi fare clic su **[!UICONTROL Delete]** per confermare.
 
 >[!TIP]
 >

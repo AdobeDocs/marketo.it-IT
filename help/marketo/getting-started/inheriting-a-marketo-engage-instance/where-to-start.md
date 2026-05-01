@@ -3,9 +3,9 @@ description: Scopri come ottimizzare e scalare un’istanza Marketo Engage esist
 title: Da dove iniziare
 feature: Getting Started
 exl-id: 819bddc4-0a92-4ff0-86c6-a93fc61dffac
-source-git-commit: 04dcc90c24ea00d247af5de2d5a3a63cc821ae8a
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '593'
 ht-degree: 1%
 
 ---
@@ -18,11 +18,11 @@ Stai avviando un nuovo processo o rilevando un’istanza esistente da un altro a
 
 Assicurati di essere configurato correttamente nella community Marketo Engage.
 
-* [**Configura il tuo profilo**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=it){target="_blank"} compilando i campi obbligatori (società, specializzazioni della soluzione, paese, ecc.)
+* [**Configura il tuo profilo**](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"} compilando i campi obbligatori (società, specializzazioni della soluzione, paese, ecc.)
 
-* Leggi le [**linee guida della community di Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base?profile.language=it){target="_blank"}.
+* Leggi le [**linee guida della community di Adobe Experience League**](https://experienceleaguecommunities.adobe.com/knowledge-base){target="_blank"}.
 
-* Scopri come [**inviare un caso di supporto**](https://experienceleague.adobe.com/it/support#home){target="_blank"} e confermare di essere configurato come [Amministratore supporto](https://experienceleague.adobe.com/it/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
+* Scopri come [**inviare un caso di supporto**](https://experienceleague.adobe.com/en/support#home){target="_blank"} e confermare di essere configurato come [Amministratore supporto](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/admin-roles#administrative-hierarchy){target="_blank"}.
 
 ## Unione dei profili della community Marketo Engage {#merge-your-community-profiles}
 
@@ -44,7 +44,7 @@ Dopo aver creato il profilo con le informazioni sul nuovo account, invia una ric
 
 ### Passaggio 3: completare l’unione e accedere di nuovo {#complete-merge}
 
-Il team della community Adobe unirà i profili della community entro 4-6 giorni lavorativi. Una volta completato, al momento dell’accesso vedrai la cronologia del tuo coinvolgimento nel nuovo profilo community.
+Il team della community Adobe unirà i profili della community entro 4-6 giorni lavorativi. Una volta completato, al momento dell’accesso visualizzerai la cronologia del tuo coinvolgimento nel nuovo profilo community.
 
 Se la cronologia del coinvolgimento non viene visualizzata, provare a eseguire le operazioni seguenti:
 
@@ -59,24 +59,24 @@ Adobe, con l’input di Marketo Champions, ha messo insieme diverse liste di con
 
 È inoltre possibile [scaricare gli elenchi di controllo](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/assets/adobe-marketo-engage-inherited-instance-admin-checklist.xlsx) in formato foglio di calcolo.
 
-* [Sezione amministratore](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
+* [Sezione Amministratore](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/admin-section-checklist.md){target="_blank"}
 
 * [Database](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/database-checklist.md){target="_blank"}
 
-* [Studio Progettazione](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
+* [Design Studio](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/design-studio-checklist.md){target="_blank"}
 
 * [Attività di marketing](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/marketing-activities-checklist.md){target="_blank"}
 
-* [Documenta la configurazione dell&#39;istanza ereditata](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
+* [Documentare la configurazione dell’istanza ereditata](/help/marketo/getting-started/inheriting-a-marketo-engage-instance/document-your-setup.md){target="_blank"}
 
 ## Come ottenere assistenza {#ways-to-get-help}
 
 Hai bisogno di ulteriore aiuto? Puoi connetterti con noi o con altri utenti di Marketo Engage tramite i collegamenti riportati di seguito.
 
-* Per assistenza tecnica con un elemento che non funziona correttamente, contatta l&#39;**[Assistenza clienti Marketo Engage](https://experienceleague.adobe.com/it/support){target="_blank"}**.
+* Per assistenza tecnica con un elemento che non funziona correttamente, contatta l&#39;**[Assistenza clienti Marketo Engage](https://experienceleague.adobe.com/en/support){target="_blank"}**.
 
-* Connettiti con altri utenti di Marketo Engage e impara da essi nella **[Community Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26?profile.language=it){target="_blank"}**.
+* Connettiti con altri utenti di Marketo Engage e impara da essi nella **[Community Adobe Marketo Engage](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-26){target="_blank"}**.
 
-* Per assistenza pratica per ottenere il massimo dall&#39;istanza di Marketo Engage, contatta **[Adobe Professional Services](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"}**.
+* Per assistenza pratica per ottenere il massimo dall&#39;istanza di Marketo Engage, contatta **[Adobe Professional Services](https://business.adobe.com/products/marketo/services-support.html){target="_blank"}**.
 
-* Guarda **[video tutorial curati](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=it){target="_blank"}** su diversi aspetti di Marketo Engage.
+* Guarda **[video tutorial curati](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html){target="_blank"}** su diversi aspetti di Marketo Engage.

@@ -3,10 +3,10 @@ description: Scopri come configurare la disponibilità del calendario e delle ri
 title: Impostazioni agente
 feature: Dynamic Chat
 exl-id: a782ef9b-6a89-448a-8bd9-f127ceea3bf5
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '621'
-ht-degree: 1%
+source-wordcount: '634'
+ht-degree: 3%
 
 ---
 
@@ -90,7 +90,7 @@ Se hai effettuato l’accesso all’app, riceverai una notifica in-app di una ch
 
 >[!IMPORTANT]
 >
->* L&#39;opzione [disponibilità](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} nella cartella Posta in arrivo dell&#39;agente **sostituirà** quanto immesso nella scheda _Disponibilità chat in tempo reale_. Pertanto, se l&#39;agente è programmato come disponibile da 1p-5p ma deve fare una pausa rapida a 3p, non deve modificare le impostazioni dell&#39;agente. Lo stato di attivazione/disattivazione della disponibilità rimarrà fino a quando non verrà modificato manualmente, fino al raggiungimento del successivo blocco di tempo nella disponibilità dell’agente o fino alla mezzanotte del fuso orario specificato dell’agente (per ulteriori informazioni, vedi il punto successivo).
+>* L&#39;opzione [disponibilità](/help/marketo/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox.md#availability-toggle){target="_blank"} nella cartella Posta in arrivo dell&#39;agente **sostituirà** quanto immesso nella scheda _Disponibilità chat in tempo reale_. Pertanto, se l&#39;agente è programmato come disponibile da 1p-5p ma deve fare una pausa rapida a 3p, non deve modificare le impostazioni dell&#39;agente. Lo stato di attivazione/disattivazione della disponibilità rimarrà finché non verrà modificato manualmente, finché non verrà raggiunto il blocco di tempo successivo nella disponibilità dell’agente o fino alla mezzanotte del fuso orario specificato dell’agente (per ulteriori informazioni, vedi il punto successivo).
 >
 >* Quando l’agente utilizza l’interruttore di disponibilità per modificare il proprio stato su &quot;disponibile&quot;, il proprio stato si ripristina automaticamente (passa a non disponibile) alla mezzanotte del fuso orario specificato nella pianificazione della disponibilità. Se non viene specificato alcun fuso orario, il valore predefinito è UTC (Coordinated Universal Time).
 

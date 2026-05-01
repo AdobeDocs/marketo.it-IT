@@ -4,16 +4,16 @@ description: Scopri come utilizzare il feed di lead nella scheda Marketo in Sale
 title: Utilizzo dei feed di lead
 exl-id: cdb10fe4-3006-4bae-b485-f7bfa95f1226
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '351'
 ht-degree: 3%
 
 ---
 
 # Utilizzo dei feed di lead {#using-the-lead-feed}
 
-Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. Si troverà sul lato destro quando si fa clic sulla scheda Marketo. È come un feed RSS o [!DNL Twitter]: gli aggiornamenti più recenti sono in cima all&#39;elenco. Usa questo per saltare sui lead mentre sei ancora fresco nella loro mente.
+Il feed di lead è un elenco aggiornato di eventi interessanti creati dai lead. Si troverà sul lato destro quando si fa clic sulla scheda Marketo. È simile a un feed RSS o [!DNL Twitter]: gli aggiornamenti più recenti si trovano in cima all&#39;elenco. Usa questo per saltare sui lead mentre sei ancora fresco nella loro mente.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Quando viene visualizzato in [!DNL Salesforce], ogni elemento ha:
   </tr>
   <tr>
    <td><p>C. Nome del conto</p></td>
-   <td><p>Nome società</p></td>
+   <td><p>Nome dell’azienda</p></td>
   </tr>
   <tr>
    <td><p>D. Ora</p></td>

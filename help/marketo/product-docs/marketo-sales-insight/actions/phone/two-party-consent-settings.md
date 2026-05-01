@@ -3,16 +3,16 @@ description: Scopri come configurare le impostazioni di consenso di due parti pe
 title: Impostazioni di consenso di due parti
 exl-id: 47634441-c396-4f0c-a9ea-d4f6872b6bf5
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '146'
-ht-degree: 6%
+source-wordcount: '151'
+ht-degree: 7%
 
 ---
 
 # Impostazioni di consenso di due parti {#two-party-consent-settings}
 
-Al fine di garantire la conformità con le leggi sul consenso di due parti degli Stati Uniti durante la registrazione delle chiamate, come Amministratore puoi abilitare un messaggio preregistrato di tua scelta da riprodurre all’inizio delle chiamate quando vengono registrate.
+Al fine di garantire la conformità con le leggi sul consenso di due parti degli Stati Uniti durante la registrazione delle chiamate, come Amministratore puoi abilitare un messaggio preregistrato di tua scelta da riprodurre all’inizio delle chiamate quando viene registrato.
 
 >[!PREREQUISITES]
 >

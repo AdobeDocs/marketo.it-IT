@@ -3,9 +3,9 @@ description: Scopri come creare un utente Veeva CRM per la sincronizzazione Mark
 title: Passaggio 2 di 3 - Creare un utente Veeva CRM per Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '554'
 ht-degree: 7%
 
 ---

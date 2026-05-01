@@ -3,9 +3,9 @@ description: Elenco di controllo di Instance Design Studio ereditato - Documenti
 title: Elenco di controllo di Design Studio dell'istanza ereditata
 feature: Getting Started
 exl-id: 41e89120-4ac0-4e70-bed0-da4e5c5542ff
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '602'
 ht-degree: 3%
 
 ---
@@ -25,8 +25,8 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr>
    <td>Pagine di destinazione globali</td>
    <td><li>Quante <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md" target="_blank">pagine di destinazione</a> globali sono presenti? Vengono utilizzati dai programmi?</li>
-   <li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html?lang=it" target="_blank">centro sottoscrizioni</a>?
-   <br/>     In caso contrario, puoi crearne una.</li></td>
+   <li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-learn.html" target="_blank">centro sottoscrizioni</a>?
+   <br/> In caso contrario, provare a crearne uno.</li></td>
   </tr>
   <tr>
    <td>Modelli</td>
@@ -68,7 +68,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
  </tbody>
 </table>
 
-## Forms {#forms}
+## Moduli {#forms}
 
 <table style="table-layout:auto">
  <tbody>
@@ -88,14 +88,14 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
 </td>
   </tr>
   <tr>
-   <td>Standardizzazione dati</td>
+   <td>Standardizzazione dei dati</td>
    <td><li>I <a href="/help/marketo/product-docs/demand-generation/forms/form-fields/add-a-fieldset-to-a-form.md" target="_blank">campi modulo</a> sono principalmente elenchi a discesa o campi di testo aperti?</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: se si tratta di campi di testo aperti, è consigliabile passare agli elenchi a discesa per evitare problemi di dati.</td>
   </tr>
   <tr>
    <td>Privacy e conformità</td>
    <td><li>La strategia dei moduli è in linea con i requisiti aziendali relativi alla privacy dei dati e all’opt-in?
-   <br/>     Prendi in considerazione <a href="https://business.adobe.com/it/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">il Regolamento generale sulla protezione dei dati (RGPD)</a>, la legge canadese anti-spam (CASL), il Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
+   <br/> Prendi in considerazione <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">il Regolamento generale sulla protezione dei dati (RGPD)</a>, la legge canadese contro lo spam (CASL), il Controllo dell'assalto alla pornografia non richiesta e il marketing Act del 2003 (CAN-SPAM), il California Consumer Privacy Act (CCPA), ecc., per la conformità alle normative.</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody>
@@ -124,7 +124,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   </tr>
   <tr>
    <td>Privacy e conformità</td>
-   <td><li>Tutte le tue e-mail hanno i piè di pagina appropriati? Prendi in considerazione RGPD, CASL, CAN-SPAM, CCPA, ecc. per le implicazioni relative alla conformità.</li>
+   <td><li>Tutte le tue e-mail hanno i piè di pagina appropriati? Considera GDPR, CASL, CAN-SPAM, CCPA, ecc. per le implicazioni di conformità.</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale per questioni di conformità. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
  </tbody>
@@ -141,7 +141,7 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr>
    <td>Snippet</td>
    <td><li>Quanti <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/create-a-snippet.md" target="_blank">snippet</a> sono presenti? Vengono utilizzati?
-   <br/>     In caso contrario, è consigliabile utilizzarli per il contenuto del piè di pagina <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">e-mail</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Pagina di destinazione</a>, loghi e altro ancora.</li></td>
+   <br/> In caso contrario, è consigliabile utilizzarli per il contenuto del piè di pagina <a href="/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-snippet-to-an-email.md" target="_blank">e-mail</a> e <a href="/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/add-a-snippet-to-a-landing-page.md" target="_blank">Pagina di destinazione</a>, loghi e altro ancora.</li></td>
   </tr>
  </tbody>
 </table>
@@ -157,12 +157,12 @@ La struttura dei modelli e la creazione di moduli globali, snippet, immagini e f
   <tr>
    <td>Stato risorsa</td>
    <td><li>Quante risorse sono in <i>Bozza</i> e <i>Approvate con stato Bozza</i> (ad esempio, <a href="/help/marketo/product-docs/email-marketing/general/creating-an-email/approve-an-email.md" target="_blank">e-mail</a>, <a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md#approve-a-landing-page" target="_blank">Pagine di destinazione</a>, <a href="/help/marketo/product-docs/demand-generation/forms/creating-a-form/approve-a-form.md" target="_blank">Moduli</a>, <a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/snippets/approve-a-snippet.md" target="_blank">snippet</a>)?
-   <br/>     Se ce ne sono molti, puoi eliminarli o approvarli.</li></td>
+   <br/> Se ce ne sono molti, provare a eliminarli o approvarli.</li></td>
   </tr>
   <tr>
    <td>Condivisione di risorse</td>
    <td><li>Quali risorse sono <a href="/help/marketo/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.md#sharing-across-workspaces" target="_blank">condivise in Workspace</a>?</li>
-   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: è importante saperlo, in quanto le azioni eseguite in un Workspace potrebbero causare una risorsa inaccessibile a un altro utente in un Workspace diverso.</td>
+   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: è importante saperlo, poiché le azioni eseguite in un Workspace potrebbero causare la mancata accessibilità di una risorsa in un Workspace diverso per un altro utente.</td>
   </tr>
  </tbody>
 </table>

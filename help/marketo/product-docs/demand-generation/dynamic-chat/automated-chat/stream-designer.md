@@ -3,9 +3,9 @@ description: Scopri Stream Designer e le schede per la creazione di conversazion
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1191'
+source-wordcount: '1196'
 ht-degree: 2%
 
 ---
@@ -145,7 +145,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-11.png)
 
-1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_&#x200B;sotto la prenotazione della riunione.
+1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_sotto la prenotazione della riunione.
 
    ![](assets/stream-designer-12.png)
 
@@ -177,7 +177,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-18.png)
 
-1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_&#x200B;sotto Info Capture.
+1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_sotto Info Capture.
 
    ![](assets/stream-designer-19.png)
 
@@ -193,7 +193,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-22.png)
 
-1. Quando sei pronto ad attivare la tua finestra di dialogo, fai clic su **[!UICONTROL Publish]**.
+1. Quando si è pronti ad attivare la finestra di dialogo, fare clic su **[!UICONTROL Publish]**.
 
    ![](assets/stream-designer-23.png)
 

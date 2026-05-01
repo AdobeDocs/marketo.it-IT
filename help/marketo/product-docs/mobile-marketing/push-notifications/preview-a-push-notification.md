@@ -4,9 +4,9 @@ description: Scopri come visualizzare in anteprima una notifica push su Android 
 title: Anteprima di notifica push
 exl-id: 72c5221d-8cef-4d26-b15f-c7c3e291c919
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '258'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ Nella struttura di spostamento fare clic con il pulsante destro del mouse sul fi
 
 >[!NOTE]
 >
->Se la notifica push è abilitata per una sola piattaforma, la scheda per l’altra piattaforma non viene visualizzata.
+>Se la notifica push è abilitata solo per una piattaforma, la scheda per l’altra piattaforma non viene visualizzata.
 
 ![](assets/image2015-9-4-9-3a52-3a27.png)
 

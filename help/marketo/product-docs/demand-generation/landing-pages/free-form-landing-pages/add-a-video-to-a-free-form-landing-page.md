@@ -6,9 +6,9 @@ exl-id: 3a3bbb56-1fd9-48dd-84e8-8750032bd984
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '238'
 ht-degree: 7%
 
 ---
@@ -49,4 +49,4 @@ Congratulazioni! Hai aggiunto una condivisione video alla pagina di destinazione
 
 >[!MORELIKETHIS]
 >
->Al termine, è possibile modificare le impostazioni della condivisione video, se necessario. Inizia con _personalizzazione del flusso di condivisione_ (quando e dove viene aperto il prompt di condivisione).
+>al termine dell&#39;operazione, è possibile modificare le impostazioni della condivisione video, se necessario. Inizia con _personalizzazione del flusso di condivisione_ (quando e dove viene aperto il prompt di condivisione).

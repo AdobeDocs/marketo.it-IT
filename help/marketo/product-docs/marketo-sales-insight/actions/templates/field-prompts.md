@@ -2,9 +2,9 @@
 description: Scopri i prompt dei campi nei modelli e-mail. Aggiungi segnaposto che richiedono al mittente di compilare il contenuto personalizzato durante l’invio.
 title: Prompt dei campi
 exl-id: c138b627-f853-4d35-b022-cc517d6b86d4
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 2%
 
 ---
@@ -29,4 +29,4 @@ Per aggiungere un prompt dei campi, digitare il testo desiderato. Prefettelo con
 
 >[!NOTE]
 >
->Quando si utilizzano i prompt con le campagne di vendita, è consigliabile utilizzarli con i passaggi manuali dell’e-mail. Questi passaggi assegnano a un utente un’attività di promemoria per inviare l’e-mail, offrendo l’opportunità di sostituire le richieste con testo personalizzato. Le fasi e-mail automatiche in Campagne di vendita tenteranno di inviare automaticamente, senza consentire all’utente di sostituire le richieste. Se una richiesta non viene sostituita, l’invio delle e-mail non riuscirà.
+>Quando si utilizzano i prompt con le campagne di vendita, è consigliabile utilizzarli con passaggi e-mail manuali. Questi passaggi assegnano a un utente un’attività di promemoria per inviare l’e-mail, offrendo l’opportunità di sostituire le richieste con testo personalizzato. Le fasi e-mail automatiche in Campagne di vendita tenteranno di inviare automaticamente, senza consentire all’utente di sostituire le richieste. Se una richiesta non viene sostituita, l’invio delle e-mail non riuscirà.

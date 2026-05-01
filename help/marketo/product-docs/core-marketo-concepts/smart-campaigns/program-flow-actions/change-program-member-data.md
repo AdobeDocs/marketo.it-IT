@@ -3,9 +3,9 @@ description: Scopri come modificare i dati dei membri del programma in un passag
 title: Modificare i dati membro del programma
 exl-id: 2ed8468e-0dbb-48c1-be60-7b51e92f9095
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 5%
 
 ---
@@ -34,7 +34,7 @@ ht-degree: 5%
 >
 >È inoltre possibile utilizzare i token in [!UICONTROL New Value].
 
-Ora esegui Smart Campaign ed è tutto pronto!
+Ora esegui Smart Campaign e hai terminato.
 
 >[!TIP]
 >

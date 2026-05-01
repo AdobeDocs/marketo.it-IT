@@ -4,9 +4,9 @@ description: Scopri come assegnare la priorità ai contenuti in streaming trasci
 title: Assegnare priorità al contenuto del flusso
 exl-id: 81de8a3c-c002-4ecd-afdd-217522c3db01
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '118'
 ht-degree: 6%
 
 ---

@@ -3,9 +3,9 @@ description: Scopri la gestione delle sale per i webinar interattivi. Crea e ges
 title: Gestione della stanza
 feature: Interactive Webinars
 exl-id: f164795c-c64b-4e0e-a417-b5f7e18a26b3
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '783'
+source-wordcount: '790'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,7 @@ La scheda Contenuto consente di visualizzare i file caricati, il loro tipo, le d
 Nella scheda Contenuto è possibile eseguire le azioni seguenti:
 
 * Fare clic sul pulsante **[!UICONTROL Launch room]** per avviare e accedere alla room.
-* Usa la barra di ricerca per trovare il file che stai cercando.
+* Utilizza la barra di ricerca per trovare il file che stai cercando.
 * Fai clic sull’icona Scarica file per scaricare un file sul dispositivo. Selezionare due o più file da scaricare in blocco.
 * Fare clic sull&#39;icona Elimina room per rimuovere la room. Quando un file viene eliminato, non può essere recuperato.
 * Seleziona un file dal contenuto elencato per visualizzarlo sul dispositivo.

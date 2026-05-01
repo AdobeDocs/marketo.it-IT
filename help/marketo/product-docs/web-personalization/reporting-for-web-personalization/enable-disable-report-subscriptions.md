@@ -4,9 +4,9 @@ description: Scopri come abilitare o disabilitare le sottoscrizioni ai report pe
 title: Abilitare/Disabilitare le sottoscrizioni report
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '81'
 ht-degree: 13%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 13%
 
    ![](assets/image2014-9-17-20-3a48-3a28.png)
 
-1. Seleziona il rapporto a cui desideri abbonarti e la relativa frequenza. Fai clic su **[!UICONTROL Save]**.
+1. Seleziona il rapporto a cui desideri abbonarti e diventa frequenza. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/email-settings.png)
 

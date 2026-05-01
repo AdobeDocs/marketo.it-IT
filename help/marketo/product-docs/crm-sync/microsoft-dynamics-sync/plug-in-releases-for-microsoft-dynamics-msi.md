@@ -4,10 +4,10 @@ description: Scopri le versioni dei plug-in per Microsoft Dynamics MSI. Trova la
 title: Versioni plug-in per  [!DNL Microsoft Dynamics] MSI
 exl-id: 830f7dc3-07fd-429b-b0fd-290ffdda88e6
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '446'
-ht-degree: 1%
+source-wordcount: '490'
+ht-degree: 12%
 
 ---
 
@@ -65,7 +65,7 @@ Ed è tutto! Dopo l’aggiornamento verrà visualizzata una sola soluzione MSI.
    <p>
    Crittografa le informazioni della chiave segreta dalla vista utente. Per poter eseguire la crittografia, è necessario modificare la password dopo l’importazione del nuovo pacchetto.
    <p>
-   Durante l’aggiornamento del plug-in MSI for Dynamics, si consiglia di aggiornare sia la chiave segreta dell’API SOAP che le credenziali MSI come forma di aggiornamento per garantire che non vengano eseguite autorizzazioni di accesso con il nuovo pacchetto installato.</td>
+   Durante l’aggiornamento del plug-in MSI for Dynamics, si consiglia di aggiornare sia la chiave segreta dell’API SOAP che le credenziali MSI come forma di aggiornamento per garantire che non vengano effettuate autorizzazioni di accesso con il nuovo pacchetto installato.</td>
   </tr>
   <tr>
    <td>10/18/23</td>

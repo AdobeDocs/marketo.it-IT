@@ -4,9 +4,9 @@ description: Scopri come utilizzare il passaggio di flusso Richiedi campagna. At
 title: Richiedere campagna
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '117'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 4%
 
    ![](assets/request-campaign-3.png)
 
-1. In alto a destra, vedrai quando è fatto. Fai clic su **[!UICONTROL View Results]**.
+1. In alto a destra nella schermata, vedrai quando è fatto. Fai clic su **[!UICONTROL View Results]**.
 
    ![](assets/request-campaign-4.png)
 

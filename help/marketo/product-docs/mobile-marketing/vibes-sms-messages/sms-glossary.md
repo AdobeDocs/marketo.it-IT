@@ -3,9 +3,9 @@ description: Scopri i termini SMS Vibes comuni utilizzati con Marketo Engage. Ut
 title: Glossario SMS
 feature: Mobile Marketing
 exl-id: 0c23ca9f-f994-42ae-bd72-7d37289b7a94
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '749'
+source-wordcount: '779'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Di seguito sono riportati alcuni termini comuni che potresti incontrare durante 
   </tr>
   <tr>
     <td>Dominio breve personalizzato</td>
-    <td>Se utilizzi il abbreviatore di collegamento Vibes, l’URL abbreviato apparirà, per impostazione predefinita, nell’URL breve Vibes: https://vbs.cm/xxxxxx. Un dominio breve personalizzato è un dominio univoco del tuo marchio. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Ulteriori informazioni sui domini brevi personalizzati</a>.<p>
+    <td>Se utilizzi il abbreviatore di collegamento Vibes, per impostazione predefinita l’URL abbreviato viene visualizzato nell’URL breve Vibes: https://vbs.cm/xxxxxx. Un dominio breve personalizzato è un dominio univoco del tuo marchio. <a href="https://developer-platform.vibes.com/docs/creating-a-custom-short-domain">Ulteriori informazioni sui domini brevi personalizzati</a>.<p>
     Questo vale solo per i messaggi inviati dalla piattaforma Vibes, in particolare per i messaggi della campagna di acquisizione e per i messaggi predefiniti con codice breve.<p>
     Si consiglia l’abbreviazione dell’URL di Marketo per poter inserire i dati di clic nel programma Marketo.</td>
   </tr>

@@ -4,9 +4,9 @@ description: Scopri come installare Marketo Email Add-in per Outlook con un codi
 title: Installa Marketo Email Add-in per  [!DNL Outlook]  con un codice di registrazione
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '624'
 ht-degree: 3%
 
 ---
@@ -23,7 +23,7 @@ Se non hai ricevuto un’e-mail di invito, chiedi all’amministratore di Market
 
 >[!IMPORTANT]
 >
->L&#39;installazione non è supportata nei PC in cui la cartella dell&#39;utente di Windows contiene caratteri non inglesi. Questa cartella viene generata automaticamente da Windows in `<System Root>\Users\` in base al nome utente di Windows e può contenere caratteri non inglesi se il nome utente di Windows è un nome non inglese. Collabora con il tuo team IT per verificare se stai riscontrando problemi di installazione.
+>L&#39;installazione non è supportata nei PC in cui la cartella dell&#39;utente di Windows contiene caratteri non inglesi. Questa cartella viene generata automaticamente da Windows in `<System Root>\Users\` in base al nome utente di Windows e può contenere caratteri non inglesi se il nome utente di Windows è un nome non inglese. Collabora con il tuo team IT per verificare se si verificano problemi di installazione.
 
 >[!NOTE]
 >

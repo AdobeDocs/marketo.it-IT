@@ -4,9 +4,9 @@ description: Scopri le opzioni e-mail CC in Marketo. Aggiungi i destinatari CC a
 title: CC e-mail
 exl-id: 00550e98-916d-4e66-91f8-7394c242a29b
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 E-mail CC consente l’invio di e-mail specifiche tramite Marketo per includere i destinatari CC.
 
-Questa funzione è disponibile su tutte le risorse e-mail di Marketo, indipendentemente da come viene inviata l’e-mail (batch o attiva campagna). Il destinatario CC riceverà una copia esatta dell’e-mail inviata alla persona Marketo scelta. Di conseguenza, qualsiasi attività di coinvolgimento (aperture, clic, ecc.) verrà registrata nel registro attività della persona Marketo nella riga &quot;A&quot; dell’e-mail. Tuttavia, l&#39;attività di consegna (inviata, recapitata, mancato recapito permanente, ecc.) _diversa da &quot;mancato recapito non permanente&quot;_ si registrerà **non**, poiché Marketo non è in grado di distinguere gli eventi di consegna per la persona Marketo dai destinatari CC. Marketo creerà fino a 100.000 CC alla volta. Se la tua lista intelligente supera i 100.000 e ogni persona che la contiene deve assolutamente ottenere un certificato CC, ti consigliamo di spezzarla.
+Questa funzione è disponibile su tutte le risorse e-mail di Marketo, indipendentemente da come viene inviata l’e-mail (batch o attiva campagna). Il destinatario CC riceverà una copia esatta dell’e-mail inviata alla persona Marketo scelta. Di conseguenza, qualsiasi attività di coinvolgimento (aperture, clic, ecc.) verrà registrato nel registro attività della persona Marketo nella riga &quot;A&quot; dell’e-mail. Tuttavia, l’attività di consegna (inviata, consegnata, mancato recapito permanente, ecc.) _altro che &quot;mancati recapiti non permanenti&quot;_ si registrerà **non**, poiché Marketo non è in grado di distinguere gli eventi di consegna per l&#39;utente Marketo dai destinatari CC. Marketo creerà fino a 100.000 CC alla volta. Se la tua lista intelligente supera i 100.000 e ogni persona su di essa ottiene CC&#39;d, ti consigliamo di suddividerla.
 
 >[!NOTE]
 >

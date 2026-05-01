@@ -4,9 +4,9 @@ description: Scopri come pianificare il programma e-mail. Imposta la data e l’
 title: Pianificare il programma e-mail
 exl-id: c125166f-3e0d-49a5-ad83-7abac51da713
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '141'
 ht-degree: 8%
 
 ---

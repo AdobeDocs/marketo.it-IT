@@ -4,10 +4,10 @@ description: Scopri come rilasciare una licenza di Marketo Email Add-in per Outl
 title: Rilasciare una licenza del componente aggiuntivo e-mail di Marketo
 exl-id: 179bb2b6-2e06-4e85-8f3f-2cd5d3ae3081
 feature: Marketo Sales Insights
-source-git-commit: f8e81b66985e2841b3fb31a1d139b9c5aa21f5fd
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '327'
-ht-degree: 4%
+source-wordcount: '334'
+ht-degree: 5%
 
 ---
 
@@ -15,8 +15,8 @@ ht-degree: 4%
 
 A tutti gli utenti che desiderano utilizzare il componente aggiuntivo [!DNL Outlook] per e-mail Marketo deve essere prima rilasciata una licenza. Esistono due modi per fornire la licenza.
 
-* **[Installazione chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: utilizzare questo metodo se i rappresentanti commerciali non dispongono dei diritti di amministratore per i notebook aziendali e non possono installare plug-in, software e così via. su di esso. In questo caso, l’amministratore di Marketo rilascia licenze a un elenco di utenti autorizzati. Successivamente, il team IT distribuisce il plug-in in remoto in tutti i computer degli utenti autorizzati utilizzando la chiave Enterprise. L’utente del plug-in quindi lo autorizza.
-* **[Installazione del codice di registrazione](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: utilizzare questo metodo quando i rappresentanti commerciali dispongono dei diritti di amministratore per il proprio laptop aziendale e possono installare plug-in, software e così via. su di esso. Per questo processo, l’amministratore di Marketo rilascia le licenze a un elenco di utenti autorizzati e invia loro le e-mail di registrazione direttamente con i collegamenti per il download. Il rappresentante commerciale riceve un’e-mail con un collegamento per il download del plug-in e un URL di registrazione univoco.
+* **[Installazione chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md)**: utilizzare questo metodo se i rappresentanti commerciali non dispongono dei diritti di amministratore per i notebook aziendali e non possono installarvi plug-in, software e così via. In questo caso, l’amministratore di Marketo rilascia licenze a un elenco di utenti autorizzati. Successivamente, il team IT distribuisce il plug-in in remoto in tutti i computer degli utenti autorizzati utilizzando la chiave Enterprise. L’utente del plug-in quindi lo autorizza.
+* **[Installazione del codice di registrazione](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-email-add-in-for-outlook-with-a-registration-code.md)**: utilizzare questo metodo quando i rappresentanti commerciali dispongono dei diritti di amministratore per il proprio laptop aziendale e possono installarvi plug-in, software e così via. Per questo processo, l’amministratore di Marketo rilascia le licenze a un elenco di utenti autorizzati e invia loro le e-mail di registrazione direttamente con i collegamenti per il download. Il rappresentante commerciale riceve un’e-mail con un collegamento per il download del plug-in e un URL di registrazione univoco.
 
 >[!AVAILABILITY]
 >
@@ -42,7 +42,7 @@ A tutti gli utenti che desiderano utilizzare il componente aggiuntivo [!DNL Outl
    >
    >* Per installare il plug-in in remoto, lascia deselezionata la casella di controllo _Invia messaggio di posta elettronica di registrazione con collegamento per il download_ e invia al team IT la [chiave Enterprise](/help/marketo/product-docs/marketo-sales-insight/msi-outlook-plugin/install-the-marketo-add-in-for-outlook-with-an-enterprise-key.md).
    >
-   >* Se i rappresentanti commerciali hanno accesso come amministratore ai loro computer, seleziona la casella di controllo _Invia e-mail di registrazione con il collegamento per il download_ ed è tutto pronto. I destinatari dispongono di **30 giorni** per fare clic sul collegamento nell&#39;e-mail prima della scadenza.
+   >* Se i rappresentanti commerciali hanno accesso come amministratore ai loro computer, selezionare la casella di controllo _Invia messaggio di posta elettronica di registrazione con collegamento per il download_. I destinatari dispongono di **30 giorni** per fare clic sul collegamento nell&#39;e-mail prima della scadenza.
 
 >[!MORELIKETHIS]
 >

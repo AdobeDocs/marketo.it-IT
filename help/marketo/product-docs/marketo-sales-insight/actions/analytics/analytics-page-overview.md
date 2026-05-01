@@ -3,9 +3,9 @@ description: Scopri la scheda Analytics e i dati di coinvolgimento delle e-mail 
 title: Panoramica della pagina di analisi
 exl-id: b9f6210b-ac66-47c4-970a-31a0ff6fc216
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '391'
+source-wordcount: '392'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Nelle schede [!UICONTROL Me] e [!UICONTROL Team] verranno visualizzate informazi
 
 ## Scheda [!UICONTROL Me] {#me-tab}
 
-La [scheda Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} è un&#39;ottima posizione per controllare il coinvolgimento delle e-mail, dei modelli e dei collegamenti. Se sei un amministratore di Sales Insight Actions, puoi filtrare in base a qualsiasi utente del tuo team per visualizzarne le statistiche.
+La [scheda Me](/help/marketo/product-docs/marketo-sales-insight/actions/analytics/understanding-the-me-tab.md){target="_blank"} è un&#39;ottima posizione per controllare il coinvolgimento delle e-mail, dei modelli e dei collegamenti. Se sei un amministratore in Azioni Insight vendite, puoi filtrare in base a qualsiasi utente del team per visualizzarne le statistiche.
 
 ## Scheda [!UICONTROL Team] {#team-tab}
 

@@ -4,9 +4,9 @@ description: Scopri come creare un analizzatore di percorsi di successo in Marke
 title: Creare un analizzatore del percorso di successo
 exl-id: bcf3075c-4de6-428c-aebf-8191076169c0
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '181'
 ht-degree: 10%
 
 ---

@@ -6,10 +6,10 @@ exl-id: 36e19771-e038-4c7d-ac8b-561c5480722f
 hide: true
 hidefromtoc: true
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '234'
-ht-degree: 8%
+source-wordcount: '241'
+ht-degree: 9%
 
 ---
 
@@ -57,4 +57,4 @@ Congratulazioni! Hai aggiunto un pulsante Social alla pagina di destinazione. As
 
 >[!MORELIKETHIS]
 >
->Hai terminato, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con _personalizzare lo stile del pulsante_ o _modificare i messaggi di condivisione_ che presenta.
+>hai finito, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con _personalizzare lo stile del pulsante_ o _modificare i messaggi di condivisione_ che presenta.

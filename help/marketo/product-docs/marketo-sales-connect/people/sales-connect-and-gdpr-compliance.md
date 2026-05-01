@@ -4,9 +4,9 @@ description: Scopri Sales Connect e la conformità ai requisiti RGPD. Scopri in 
 title: Sales Connect e la conformità ai requisiti GDPR
 exl-id: f5822085-0372-42f9-b6d6-9f6ce58559ea
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1307'
+source-wordcount: '1337'
 ht-degree: 1%
 
 ---
@@ -36,7 +36,7 @@ Il RGPD si applica a qualsiasi organizzazione all’interno o all’esterno dell
 
 ## Implicazioni per il marketing {#implications-for-marketing}
 
-Gli addetti al marketing mirano a creare esperienze cliente personali e umane, basate sulla fiducia e distribuite con cura. Anche se il RGPD non utilizza questi termini, gli obiettivi sono gli stessi: rispettare i diritti dei clienti e guadagnarsi la loro fiducia. Per creare e mantenere tale fiducia, gli esperti di marketing devono essere in grado di comprendere come, quando e perché i loro clienti desiderano essere coinvolti. È fondamentale che le preferenze del cliente siano rispettate, non solo come requisito legale, ma come base per pratiche di coinvolgimento incentrate sul cliente.
+Gli addetti al marketing mirano a creare esperienze cliente personali e umane, basate sulla fiducia e distribuite con cura. Anche se il RGPD non utilizza questi termini, gli obiettivi sono gli stessi: rispettare i diritti dei clienti e guadagnarsi la loro fiducia. Per creare e mantenere tale fiducia, gli esperti di marketing devono essere in grado di comprendere come, quando e perché i loro clienti desiderano essere coinvolti. È fondamentale che le preferenze del cliente siano rispettate, non solo come requisito legale, ma come base per le pratiche di coinvolgimento incentrate sul cliente.
 
 Il modo in cui gli esperti di marketing rispondono a queste aspettative più elevate in merito alla raccolta, all’utilizzo e alla sicurezza dei dati personali utilizzati abitualmente nel corso del loro lavoro è fondamentale e Marketo può aiutarli a soddisfare tali aspettative.
 

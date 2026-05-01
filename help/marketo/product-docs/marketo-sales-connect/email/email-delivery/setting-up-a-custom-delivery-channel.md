@@ -4,9 +4,9 @@ description: Scopri come impostare un canale di consegna personalizzato in Sales
 title: Configurare un canale di consegna personalizzato
 exl-id: a31f7bfd-a4ee-4948-9bdc-b49d47054d40
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '371'
 ht-degree: 4%
 
 ---
@@ -43,7 +43,7 @@ Gli utenti possono impostare un server SMTP personalizzato per il proprio utiliz
 
    >[!NOTE]
    >
-   >Se questo è l’unico canale di consegna, viene automaticamente assegnato a tutte le identità e-mail, e qui hai completato l’operazione. Se questo non è l’unico canale di consegna, continua con il passaggio 5.
+   >Se si tratta dell’unico canale di consegna, viene automaticamente assegnato a tutte le identità e-mail e viene eseguito qui. Se questo non è l’unico canale di consegna, continua con il passaggio 5.
 
 1. Sempre in [!UICONTROL Email Settings], fare clic su **[!UICONTROL Address and Signature]**.
 

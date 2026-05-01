@@ -4,10 +4,10 @@ description: Scopri come definire i criteri dei vincitori del test A/B. Imposta 
 title: Definire i criteri vincitori del test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '423'
-ht-degree: 20%
+source-wordcount: '443'
+ht-degree: 23%
 
 ---
 
@@ -28,7 +28,7 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
    <table>
    <tr>
    <td><b>[!UICONTROL Opens]</b></td>
-   <td>Un messaggio aperto si registra quando le immagini vengono scaricate in un messaggio e-mail. Anche se non includi un’immagine, per impostazione predefinita Marketo inserisce un singolo pixel di tracciamento in tutte le e-mail di HTML.</td>
+   <td>Un messaggio aperto si registra quando le immagini vengono scaricate in un messaggio e-mail. Anche se non includi un’immagine, per impostazione predefinita Marketo inserisce un singolo pixel di tracciamento in tutte le e-mail HTML.</td>
    </tr>
    <tr>
    <td><b>[!UICONTROL Clicks]</b></td>
@@ -40,7 +40,7 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=it" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
+   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
    </tr>
    </table>
 

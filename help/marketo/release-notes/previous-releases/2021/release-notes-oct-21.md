@@ -3,9 +3,9 @@ description: Note sulla versione - Ottobre 2021 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2021
 exl-id: 6b363c9b-7abe-4576-a362-0ad5cf515c02
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1084'
+source-wordcount: '1110'
 ht-degree: 2%
 
 ---
@@ -66,7 +66,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 * **Informazioni avanzate sull&#39;attività di vendita**: una nuova attività di tracciamento delle risposte e-mail, e-mail di vendita con risposta, tiene traccia delle interazioni dei destinatari con un messaggio e-mail che viene sincronizzato automaticamente con Marketo Engage. Inoltre, l’attributo Source è stato aggiornato da &quot;Tout&quot; a &quot;Sales App&quot;. Questa attività può essere esportata e segnalata tramite l’API REST di Marketo Engage o l’esportazione in blocco ed è disponibile sui filtri e sui trigger come vincoli aggiuntivi per gli elenchi avanzati, espandendo le opzioni di personalizzazione in Campagne avanzate.
 
-* **Esperienza utente semplificata**: questo aggiornamento introduce nuovi tipi di carattere, colori, pulsanti e modali per [!DNL Sales Connect] basati sul sistema di progettazione Adobe Spectrum. Con questi aggiornamenti, offriamo un&#39;esperienza più efficiente, in cui i venditori possono concentrarsi su ciò che è necessario, quando è necessario.
+* **Esperienza utente semplificata**: questo aggiornamento introduce nuovi tipi di carattere, colori, pulsanti e modali per [!DNL Sales Connect] basati sul sistema di progettazione Adobe Spectrum. Con questi aggiornamenti, offriamo un’esperienza più efficiente, in cui i venditori possono concentrarsi su ciò che è necessario, quando è necessario.
 
 ## [!DNL Bizible] {#bizible}
 

@@ -4,9 +4,9 @@ description: Scopri i filtri e i trigger di opportunità in Marketo. Segmentazio
 title: Filtri e attivatori di opportunità
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '482'
 ht-degree: 1%
 
 ---
@@ -27,7 +27,7 @@ I filtri opportunità consentono di analizzare in dettaglio i lead Salesforce ch
 * Opportunità rimossa
 * L’opportunità è stata aggiornata
 
-Se cerchi i campi Opportunità (personalizzati o standard), usa il filtro **Possiede opportunità** oppure **L&#39;opportunità era`[Added/Removed/Updated]`** filtri o trigger.
+Se stai cercando i campi Opportunità (personalizzati o standard), utilizza il filtro **Ha opportunità** oppure **L&#39;opportunità era`[Added/Removed/Updated]`** filtri o trigger.
 
 **Numero di ottavi, Importo totale dell&#39;opzione, Ricavi totali previsti dell&#39;opzione**
 

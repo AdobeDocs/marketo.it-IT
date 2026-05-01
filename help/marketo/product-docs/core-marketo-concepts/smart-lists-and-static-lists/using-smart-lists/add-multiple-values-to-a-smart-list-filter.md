@@ -4,9 +4,9 @@ description: Scopri come aggiungere più valori a un filtro Elenco avanzato. Per
 title: Aggiungere più valori a un filtro dell’elenco avanzato
 exl-id: 5f9aaf1b-a3a6-4acf-82ea-7d70d1af1763
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 13%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 13%
 >* [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
 >* [Trova e aggiungi filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
 
-Supponiamo che tu voglia trovare tutti gli utenti in California, ma potresti archiviare sia &quot;California&quot; che &quot;CA&quot; nel tuo database. Per includere tutte le persone idonee, è possibile utilizzare due filtri [!UICONTROL State], ma è più semplice utilizzarne uno.
+Supponiamo che tu voglia trovare tutti gli utenti in California, ma potresti archiviare sia &quot;California&quot; che &quot;CA&quot; nel tuo database. Per includere tutte le persone idonee, è possibile utilizzare due filtri [!UICONTROL State], ma è più facile con uno.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 

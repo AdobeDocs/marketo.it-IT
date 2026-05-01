@@ -3,16 +3,16 @@ description: Correggi gli errori di autenticazione durante la connessione delle 
 title: Come posso risolvere il problema "Impossibile autenticare la richiesta" durante la connessione a Salesforce?
 exl-id: ef876f0f-bd76-4ba5-bf48-885ee048ceae
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
 
 # Come risolvere il problema relativo all&#39;impossibilità di autenticare la richiesta durante la connessione a [!DNL Salesforce] {#how-do-i-fix-we-were-unable-to-authenticate-your-request-when-connecting-to-salesforce}
 
-Se stai tentando di collegare la tua istanza di Marketo Sales a Salesforce e visualizzi l’errore &quot;Non siamo in grado di autenticare la tua richiesta&quot;, è probabile che ciò dipenda dalla configurazione dell’istanza di Salesforce.
+Se stai tentando di collegare la tua istanza di Marketo Sales a Salesforce e viene visualizzato l’errore &quot;Non siamo in grado di autenticare la richiesta&quot;, è probabile che sia correlato alla configurazione dell’istanza di Salesforce.
 
 La pagina di autenticazione non riuscita può essere generata da due tipi di errori.
 
@@ -29,7 +29,7 @@ Controlla l’URL per identificare il tipo che stai ricevendo.
 
 Questo errore indica in genere che disponi di un dominio personalizzato a cui non è possibile indirizzare. Per risolvere l&#39;errore, provare ad accedere all&#39;istanza di Salesforce a cui si desidera connettersi per prima. Quindi, segui i passaggi per connetterti a Salesforce.
 
-Se l’istanza a cui stai tentando di connetterti è un dominio Sandbox di Salesforce e ricevi un errore, dovrai eseguire ulteriori passaggi per aggiornare l’istanza in modo che sia compatibile con Salesforce Sandbox. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
+Se l’istanza a cui stai tentando di connetterti è un dominio Sandbox di Salesforce e ricevi un errore, dovrai eseguire ulteriori passaggi per aggiornare l’istanza in modo che sia compatibile con Sandbox di Salesforce. [Ulteriori informazioni](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-integration/set-up-a-sales-insight-actions-sandbox.md){target="_blank"}.
 
 ## Risolvi app OAuth bloccata {#resolve-oauth-app-blocked}
 

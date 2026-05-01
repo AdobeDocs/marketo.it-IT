@@ -3,10 +3,10 @@ description: Note sulla versione corrente di Dynamic Chat - Documenti Marketo - 
 title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '3474'
-ht-degree: 98%
+source-wordcount: '3551'
+ht-degree: 94%
 
 ---
 
@@ -20,11 +20,11 @@ La pagina delle note sulla versione standard per Marketo Engage [si trova qui](/
 
 ### Limite di tempo di attesa del visitatore {#visitor-wait-time}
 
-Imposta un periodo di tempo massimo (tra 10 e 500 secondi) prima che un visitatore riceva un messaggio di fallback per essere connesso a un agente live. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Imposta un periodo di tempo massimo (tra 10 e 500 secondi) prima che un visitatore riceva un messaggio di fallback per essere connesso a un agente live. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Scarica trascrizione {#download-transcript}
 
-Ora puoi scaricare un file .txt della trascrizione della chat al termine di una chat in tempo reale. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ora puoi scaricare un file .txt della trascrizione della chat al termine di una chat in tempo reale. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versione di giugno 2025 {#june-2025-release}
 
@@ -58,7 +58,7 @@ Se l’agente non è disponibile, il sistema:
 
 * Invece:
 
-   * Mostra il calendario della riunione dell’agente mappato (se attivato).
+   * Mostra il calendario della riunione dell&#39;agente mappato (se attivato).
 -oppure-
    * Torna a un messaggio predefinito (caso peggiore).
 
@@ -74,7 +74,7 @@ Il fallback Round Robin non viene attivato solo perché un agente non risponde.
 
 Se nessuno dei due agenti risponde:
 
-* Il sistema mostra il calendario del primo agente provato (se attivato).
+* Il sistema visualizza il calendario del primo agente provato (se attivato).
 -oppure-
 * Mostra il messaggio di fallback predefinito.
 
@@ -104,7 +104,7 @@ La regola di indirizzamento (Personalizzato, Team, Round Robin) a livello di sch
 
 * Se il coinvolgimento non ha esito positivo, viene applicata la logica di fallback:
 
-   * Fallback calendario (se attivato),
+   * Fallback del calendario (se attivato),
 -oppure-
    * Messaggio predefinito.
 
@@ -114,7 +114,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 <p>
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 <table><thead>
   <tr>
@@ -140,7 +140,7 @@ _&#x200B;**Indirizzamento account**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento personalizzato**&#x200B;_
+_**Indirizzamento personalizzato**_
 
 <table><thead>
   <tr>
@@ -166,7 +166,7 @@ _&#x200B;**Indirizzamento personalizzato**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Instradamento team**&#x200B;_
+_**Instradamento team**_
 
 <table><thead>
   <tr>
@@ -192,7 +192,7 @@ _&#x200B;**Instradamento team**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 <table><thead>
   <tr>
@@ -354,7 +354,7 @@ Pertanto, quando un visitatore con cookie abc arriva a una pagina e fornisce un 
     <td>Persona nota</td>
     <td>xyz</td>
     <td>Diverso da persona esistente</td>
-    <td>questo scenario non è possibile se si tratta di un nuovo cookie considerato per impostazione predefinita come nuovo profilo anonimo</td>
+    <td>questo scenario non è possibile se si tratta di un nuovo cookie per impostazione predefinita considerato come un nuovo profilo anonimo</td>
   </tr>
 </tbody></table>
 
@@ -534,7 +534,7 @@ All’inizio di quest’anno è stata rilasciata la diramazione condizionale per
 
 ### Chat in tempo reale per flussi conversazionali {#live-chat-for-conversational-flows}
 
-Nel 2023 è stata rilasciata la funzionalità di chat in tempo reale per Dialoghi e ora puoi aggiungere coinvolgimenti in chat in tempo reale anche ai flussi conversazionali. Se utilizzi i flussi conversazionali con i moduli Marketo Engage, ora puoi consentire ai visitatori qualificati di chattare con un agente in tempo reale immediatamente dopo l’invio del modulo.
+Nel 2023 è stata rilasciata la funzionalità di chat in tempo reale per Dialoghi e ora puoi aggiungere coinvolgimenti in chat in tempo reale anche ai flussi conversazionali. Se utilizzi i flussi di conversazione con i moduli Marketo Engage, ora puoi consentire ai visitatori qualificati di chattare con un agente live immediatamente dopo l’invio del modulo.
 
 ### Attività Marketo Engage recenti nella casella in entrata dell’agente {#recent-marketo-engage-activities-in-agent-inbox}
 

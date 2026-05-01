@@ -4,9 +4,9 @@ description: Scopri come collegare Marketo e Salesforce nell’edizione finale d
 title: Passaggio 3 di 3 - Connessione di Marketo e Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '369'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ In questo articolo configurerai Marketo Engage per la sincronizzazione con l’i
 
    >[!CAUTION]
    >
-   >Se vuoi controllare le [mappature e personalizzarle](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}, questa è la tua unica possibilità! Dopo aver fatto clic su Avvia Salesforce Sync, l&#39;operazione viene completata.
+   >Se vuoi controllare le [mappature e personalizzarle](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/edit-initial-field-mappings.md){target="_blank"}, questa è la tua unica possibilità! Dopo aver fatto clic su Avvia sincronizzazione Salesforce, l&#39;operazione viene completata.
 
 ## Avvia sincronizzazione [!DNL Salesforce] {#start-salesforce-sync}
 

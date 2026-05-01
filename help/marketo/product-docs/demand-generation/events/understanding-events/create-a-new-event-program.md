@@ -4,10 +4,10 @@ description: Scopri come creare un nuovo programma per eventi in Marketo. Config
 title: Creare un nuovo programma evento
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 8%
 
 ---
 

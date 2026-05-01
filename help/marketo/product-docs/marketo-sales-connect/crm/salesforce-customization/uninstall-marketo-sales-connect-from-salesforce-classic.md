@@ -2,9 +2,9 @@
 description: Scopri come disinstallare Marketo Sales Connect da Salesforce Classic. Rimuovere le personalizzazioni e i pulsanti di Sales Connect da Classic.
 title: Disinstallare Marketo Sales Connect da Salesforce Classic
 exl-id: 17078054-a615-4f2f-bfde-f28fd3ff6f48
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1032'
+source-wordcount: '1035'
 ht-degree: 12%
 
 ---
@@ -77,7 +77,7 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
    >
    >L&#39;abbreviazione MSE _è_ [!DNL Sales Connect]. È solo il nome precedente, &quot;Marketo Sales Engage&quot;.
 
-1. Fai clic su **Salva** quando hai finito con la pagina Lead.
+1. Fare clic su **Salva** quando la pagina Lead è terminata.
 
 ## Rimuovi [!DNL Sales Connect] pulsanti di azione in blocco dalla vista elenco lead {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 

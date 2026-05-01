@@ -4,9 +4,9 @@ description: Scopri gli account denominati e come contengono le persone delle tu
 title: '[!UICONTROL Named Account] Panoramica'
 exl-id: 6708bdd8-d0ab-49a2-a04b-4064ee5407ed
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '244'
 ht-degree: 6%
 
 ---

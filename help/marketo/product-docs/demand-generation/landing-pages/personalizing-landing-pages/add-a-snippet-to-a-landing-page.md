@@ -4,9 +4,9 @@ description: Scopri come aggiungere uno snippet a una pagina di destinazione di 
 title: Aggiungere uno snippet a una pagina di destinazione
 exl-id: 35290bef-cb6f-4477-995c-d4571712b866
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '112'
 ht-degree: 12%
 
 ---
@@ -33,7 +33,7 @@ I frammenti sono piccoli frammenti di HTML che possono seguire le regole e conte
 
    >[!TIP]
    >
-   >Se non riesci a trovare il frammento, assicurati che sia approvato prima.
+   >Se non riesci a trovare il frammento, assicurati che sia stato approvato prima.
 
    >[!NOTE]
    >

@@ -4,9 +4,9 @@ description: Scopri come iniziare il tracciamento per account nel modellatore de
 title: Avviare tracciamento per account nel modeler dei ricavi
 exl-id: 5ad6829c-6dad-4133-95a2-b01b066253ca
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '245'
 ht-degree: 6%
 
 ---
@@ -39,7 +39,7 @@ Con Modeler e [!UICONTROL Revenue Explorer] per la fase dei ricavi, puoi ottener
 
    ![](assets/image2015-4-29-17-3a18-3a9.png)
 
-1. Nella finestra di dialogo visualizzata, selezionare **[!UICONTROL Yes]** e fare clic sulla freccia rivolta a destra al centro. Questo filtra solo le fasi con &quot;Tracciamento per account&quot; abilitato. Al termine, fai clic su **[!UICONTROL OK]**.
+1. Nella finestra di dialogo visualizzata, selezionare **[!UICONTROL Yes]** e fare clic sulla freccia rivolta a destra al centro. Questo filtra solo le fasi con &quot;Tracciamento per account&quot; abilitato. Al termine, fare clic su **[!UICONTROL OK]**.
 
    ![](assets/image2015-6-9-16-3a21-3a3.png)
 

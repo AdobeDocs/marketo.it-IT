@@ -4,9 +4,9 @@ description: Scopri come impostare il pulsante Elimina e approvare il messaggio 
 title: Impostare il pulsante Ignora e approvare il messaggio
 exl-id: d7d2b4ad-efcb-4eb3-a741-ae51cfab2626
 feature: Mobile Marketing
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Il pulsante Ignora dispone di molte opzioni che consentono di configurarlo nel m
 
 ## Racchiudi {#wrap-it-up}
 
-Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state salvate automaticamente. Ora sei pronto a finire il lavoro.
+Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state salvate automaticamente. Ora, sei pronto a finire il lavoro.
 
 1. Per visualizzare l&#39;anteprima del messaggio in-app, fai clic sul menu a discesa **[!UICONTROL Message Actions]** e seleziona **[!UICONTROL Preview]**.
 
@@ -65,7 +65,7 @@ Tutte le selezioni per gli elementi grafici, il testo e i pulsanti sono state sa
    >
    >Puoi anche selezionare **[!UICONTROL Approve & Close]** direttamente dal menu a discesa [!UICONTROL Message Actions] (vedi passaggio 1), ma perché non visualizzare prima l&#39;anteprima del messaggio solo per sicurezza?
 
-1. Per chiudere l’editor senza approvazione, è sufficiente chiudere la scheda. Viene salvato automaticamente, quindi puoi restituirlo e approvarlo in un secondo momento.
+1. Per chiudere l’editor senza approvazione, è sufficiente chiudere la scheda. Viene salvata automaticamente, quindi puoi restituirla e approvarla in un secondo momento.
 
    ![](assets/image2016-5-9-11-3a9-3a46.png)
 

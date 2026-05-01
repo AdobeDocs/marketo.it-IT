@@ -4,9 +4,9 @@ description: Scopri come filtrare un rapporto sulle prestazioni di una pagina di
 title: Filtrare un rapporto sulle prestazioni di una pagina di destinazione
 exl-id: 825bcdc9-67cc-4a06-b7c3-8a95ad74e30c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 8%
 
 ---

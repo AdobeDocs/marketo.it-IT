@@ -4,9 +4,9 @@ description: Scopri come impostare i team dellâ€™account e mappare i ruoli dellâ
 title: Configurazione team account
 exl-id: a4aee37f-5e39-4296-b720-b1c73c98df9e
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '187'
 ht-degree: 5%
 
 ---

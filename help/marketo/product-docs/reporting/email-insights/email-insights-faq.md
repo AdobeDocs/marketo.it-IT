@@ -4,9 +4,9 @@ description: Risposte alle domande frequenti su E-mail Insights, tra cui calcoli
 title: Domande frequenti su approfondimenti e-mail
 exl-id: de3aca5a-08b4-4af8-ab92-675cb46dcbb2
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '614'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 ## Esistono differenze tra le metriche del rapporto con [!UICONTROL Email Insights] e altri rapporti e-mail di Marketo? {#are-there-any-differences-between-ratio-metrics-with-email-insights-and-other-marketo-email-reporting}
 
-Sì.  [!UICONTROL Email Insights] mette in correlazione le metriche di coinvolgimento con le metriche di consegna corrispondenti per la stessa e-mail inviata quando si calcolano i rapporti delle metriche di coinvolgimento (Percentuale di apertura, Percentuale di clic per apertura, Percentuale di annullamento abbonamento). Ad esempio, in [!UICONTROL Email Insights], quando si esamina un grafico di serie temporali nell&#39;ultima settimana con raggruppamenti giornalieri di Click-to-Open-Rate, ora viene mostrato il rapporto effettivo correlato tra eventi di apertura, clic e annullamento dell&#39;abbonamento in base alle metriche di consegna corrispondenti. Ciò è in contrasto con il comportamento di Esplora entrate, che semplicemente riassume tutto. [!UICONTROL Email Insights] offre una visualizzazione più precisa dei rapporti di coinvolgimento.
+Sì. [!UICONTROL Email Insights] mette in correlazione le metriche di coinvolgimento con le metriche di consegna corrispondenti per la stessa e-mail inviata quando si calcolano i rapporti delle metriche di coinvolgimento (Percentuale di apertura, Percentuale di clic per apertura, Percentuale di annullamento abbonamento). Ad esempio, in [!UICONTROL Email Insights], quando si esamina un grafico di serie temporali nell&#39;ultima settimana con raggruppamenti giornalieri di Click-to-Open-Rate, ora viene mostrato il rapporto effettivo correlato tra eventi di apertura, clic e annullamento dell&#39;abbonamento in base alle metriche di consegna corrispondenti. Ciò è in contrasto con il comportamento di Esplora entrate, che semplicemente riassume tutto. [!UICONTROL Email Insights] offre una visualizzazione più precisa dei rapporti di coinvolgimento.
 
 ## Perché [!UICONTROL Email Insights] supporta solo 10 dimensioni personalizzate? {#why-does-email-insights-only-support-custom-dimensions}
 
@@ -27,11 +27,11 @@ Una volta allocato un determinato slot Dimension personalizzato, la modifica del
 
 ## [!UICONTROL Email Insights] supporta le e-mail di Marketo Sales Insight? {#does-email-insights-support-marketo-sales-insight-emails}
 
-Sì.  Tutti i messaggi di posta elettronica inviati tramite Marketo Sales Insights sono inclusi in [!UICONTROL Email Insights].
+Sì. Tutti i messaggi di posta elettronica inviati tramite Marketo Sales Insights sono inclusi in [!UICONTROL Email Insights].
 
 ## [!UICONTROL Email Insights] supporta le e-mail operative? {#does-email-insights-support-operational-emails}
 
-Sì.  Per impostazione predefinita, le e-mail operative sono nascoste dalla visualizzazione e dall’esecuzione di query. Tuttavia, potete modificare questa impostazione nel pannello Impostazioni personali.
+Sì. Per impostazione predefinita, le e-mail operative sono nascoste dalla visualizzazione e dall’esecuzione di query. Tuttavia, potete modificare questa impostazione nel pannello Impostazioni personali.
 
 ## [!UICONTROL Email Insights] acquisisce i passaggi ricorrenti del flusso e-mail pianificati o rieseguiti di Smart Campaign? {#does-email-insights-capture-recurring-scheduled-or-re-run-smart-campaign-email-flow-steps}
 
@@ -39,7 +39,7 @@ Sì e No. Con la versione iniziale di [!UICONTROL Email Insights], tutti gli eve
 
 ## Perché molte metriche mostrano lo zero quando si filtra per tipo di dispositivo o SO del dispositivo? {#why-do-many-metrics-show-zero-when-i-filter-by-device-type-or-device-os}
 
-Ad eccezione di Tasso di clic per apertura, Aperture, Clic e Annullamenti abbonamenti, tutte le altre metriche supportate sono eventi di consegna o rapporti derivati da eventi di consegna. Poiché il tipo di dispositivo e il sistema operativo del dispositivo si applicano solo alle metriche di coinvolgimento, le informazioni da visualizzare non sono disponibili. Ad esempio, si tratta di una query non definita per richiedere la Percentuale di Consegna quando viene filtrata per Tipo di Dispositivo = mobile, in quanto Marketo non avrebbe ricevuto alcuna metrica di Coinvolgimento per gli eventi di Consegna e Inviato sottostanti. Stiamo esplorando modi per applicare il tipo di dispositivo e il sistema operativo del dispositivo dalle metriche di coinvolgimento per rapporti che comprendono sia le metriche di coinvolgimento che quelle di consegna.
+Ad eccezione di Tasso di clic per apertura, Aperture, Clic e Annullamenti abbonamenti, tutte le altre metriche supportate sono eventi di consegna o rapporti derivati da eventi di consegna. Poiché il tipo di dispositivo e il sistema operativo del dispositivo si applicano solo alle metriche di coinvolgimento, le informazioni da visualizzare non sono disponibili. Ad esempio, si tratta di una query non definita per richiedere il tasso di consegna quando viene filtrato per Tipo di dispositivo = mobile, in quanto Marketo non avrebbe ricevuto metriche di coinvolgimento per gli eventi di consegna e invio sottostanti. Stiamo esplorando modi per applicare il tipo di dispositivo e il sistema operativo del dispositivo dalle metriche di coinvolgimento per rapporti che comprendono sia le metriche di coinvolgimento che quelle di consegna.
 
 ## Cosa fa [!UICONTROL Email Insights] quando alcuni client di posta elettronica bloccano le immagini? {#what-does-email-insights-do-when-certain-email-clients-block-images}
 

@@ -4,9 +4,9 @@ description: Scopri come utilizzare le fasi di inventario del modello di ricavo 
 title: Utilizzo delle fasi di magazzino del modello di ricavi
 exl-id: 7df10e8c-5e25-4cb4-970c-e23d92a3dfb7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '258'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Tutti i lead e gli account noti risiedono inizialmente nella fase di inventario.
 
 >[!TIP]
 >
->È consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo con i colleghi.
+>è consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo prima con i colleghi.
 
 ## Aggiungi Una Fase Di Inventario {#add-an-inventory-stage}
 

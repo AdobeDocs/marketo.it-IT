@@ -4,9 +4,9 @@ description: Scopri come utilizzare Aggiungi scelta in un passaggio di flusso. C
 title: Utilizzare Aggiungi scelta in un passaggio di flusso
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 6%
 
 ---

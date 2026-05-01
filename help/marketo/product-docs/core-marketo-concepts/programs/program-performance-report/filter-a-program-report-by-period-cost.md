@@ -4,9 +4,9 @@ description: Scopri come filtrare un rapporto di programma per costo periodo. Vi
 title: Filtrare un rapporto del programma per costo del periodo
 exl-id: 039041be-326d-4018-b97d-d80198cb9b84
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 15%
 
 ---

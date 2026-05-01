@@ -4,9 +4,9 @@ description: Note sulla versione - Primavera del 1916 - Documentazione di Market
 title: Note sulla versione - Primavera 2016
 exl-id: 0ca26acf-2ac2-418e-bc4e-9820f483fa71
 feature: Release Information
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '815'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Il nuovo connettore Dynamics ad alta velocità offre velocità fino a 20 volte s
 
 ## [Nome istanza descrittivo](/help/marketo/product-docs/administration/settings/edit-subscription-settings.md) {#friendly-instance-name}
 
-Attualmente è difficile distinguere tra istanze di Marketo, ad esempio istanze sandbox e di produzione. Questa funzione consente di sapere su quali istanze stai lavorando.
+Attualmente è difficile distinguere tra istanze di Marketo, ad esempio istanze sandbox e di produzione. Questa funzione consente di sapere su quali istanze si sta attualmente lavorando.
 
 ![](assets/image2016-5-16-15-3a57-3a14.png)
 

@@ -4,9 +4,9 @@ description: Scopri come utilizzare le fasi di gate del modello di ricavo in Mar
 title: Utilizzo dei gate stages del modello di ricavi
 exl-id: a69a4efd-76de-4bfa-81f2-6e74048f30f7
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '266'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ Una fase del gate funge da controllo di qualificazione.
 
 >[!TIP]
 >
->È consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo con i colleghi.
+>è consigliabile creare un modello di esercitazione in un programma grafico o di presentazione e confermarlo con i colleghi.
 
 ## Aggiungi Un Gate Stage {#add-a-gate-stage}
 

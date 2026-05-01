@@ -4,9 +4,9 @@ description: Comprendere i gruppi di annullamento dell'iscrizione in Sales Conne
 title: Annullare la sottoscrizione del gruppo
 exl-id: 43e7dc75-1a78-4f87-8054-7ed4b5a883db
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '72'
 ht-degree: 5%
 
 ---

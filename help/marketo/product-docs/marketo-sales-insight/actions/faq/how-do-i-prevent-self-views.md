@@ -3,9 +3,9 @@ description: Scopri come evitare che le visualizzazioni automatiche vengano cont
 title: Come posso impedire le visualizzazioni automatiche?
 exl-id: 52de102f-6c6c-4663-9725-aae2f620d5bb
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '290'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ Ottenere falsi positivi per il tracciamento delle visualizzazioni può causare i
 
 * Verificare che nel computer siano abilitati i cookie.
 
-* Se utilizzi un nuovo computer o dispositivo mobile, assicurati di aver effettuato l’accesso all’applicazione web. In questo modo sarà possibile riconoscere il computer o il dispositivo in uso.
+* Se si utilizza un nuovo computer o dispositivo mobile, verificare di aver effettuato l&#39;accesso all&#39;applicazione Web. In questo modo sarà possibile riconoscere il computer o il dispositivo in uso.
 
 ## Desktop (Windows) {#desktop-windows}
 

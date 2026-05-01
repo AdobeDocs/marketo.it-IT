@@ -4,9 +4,9 @@ description: Scopri come escludere specifici indirizzi IP o intervalli IP dal tr
 title: Escludere specifici IP dal tracciamento
 exl-id: d6989c8f-46ff-40a8-bf7f-5d34e701b359
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '209'
 ht-degree: 5%
 
 ---

@@ -4,9 +4,9 @@ description: Scopri come gestire i miei token in un programma. Crea e utilizza i
 title: Gestire I miei token
 exl-id: a2e70c17-a8d4-4723-ac7c-da1979828dc9
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '211'
 ht-degree: 5%
 
 ---
@@ -79,7 +79,7 @@ L’utilizzo dei token può semplificare le attività in Marketo Engage. Puoi ut
 
 >[!CAUTION]
 >
->Quando elimini un token personale, accertati che non vi sia attualmente riferimento in alcuna risorsa. Se viene eliminato, uno spazio vuoto verrà visualizzato in qualsiasi punto in cui viene fatto riferimento a tale spazio.
+>Quando elimini un My Token, accertati che non vi sia attualmente riferimento in alcuna risorsa. Se viene eliminato, uno spazio vuoto verrà visualizzato in qualsiasi punto in cui viene fatto riferimento a tale spazio.
 
 1. Selezionare il token da eliminare e fare clic su **[!UICONTROL Delete Token]**.
 

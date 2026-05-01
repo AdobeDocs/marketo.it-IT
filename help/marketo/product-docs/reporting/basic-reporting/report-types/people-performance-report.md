@@ -4,9 +4,9 @@ description: Scopri i report sulle prestazioni delle persone che misurano la cre
 title: Rapporto prestazioni persone
 exl-id: 9c73ad96-088a-4a4a-8e8b-7b379370d80a
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 3%
 
 ---

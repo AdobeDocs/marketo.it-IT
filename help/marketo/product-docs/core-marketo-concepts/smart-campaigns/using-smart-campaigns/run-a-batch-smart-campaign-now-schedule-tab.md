@@ -4,16 +4,16 @@ description: Scopri come eseguire subito una campagna batch avanzata dalla sched
 title: Eseguire ora una campagna avanzata batch | Scheda di pianificazione
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '106'
 ht-degree: 15%
 
 ---
 
 # Eseguire ora una campagna avanzata batch | Scheda di pianificazione {#run-a-batch-smart-campaign-now-schedule-tab}
 
-Al termine della creazione della campagna batch, puoi scegliere di eseguirla ora o in un secondo momento. Ecco come eseguirlo immediatamente.
+Una volta completata la creazione della campagna batch, puoi scegliere di eseguirla ora o in un secondo momento. Ecco come eseguirlo immediatamente.
 
 1. Selezionare la campagna batch, passare alla scheda **[!UICONTROL Schedule]** e fare clic su **[!UICONTROL Run Once]**.
 

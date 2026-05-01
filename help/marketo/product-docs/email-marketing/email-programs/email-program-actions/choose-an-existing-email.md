@@ -4,9 +4,9 @@ description: Scopri come scegliere un’e-mail esistente per un programma e-mail
 title: Scegliere un’e-mail esistente
 exl-id: c59200fd-808a-4b99-8c44-d7c1aaf53f98
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '239'
 ht-degree: 4%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 4%
 >
 >Per ottenere rapporti accurati, evita di _riutilizzare_ un&#39;e-mail da un programma e-mail, facendo riferimento ad essa in una campagna avanzata o spostando la risorsa dal programma e-mail avviato a uno nuovo. In questo modo, verranno aggregati tutti i dati in ogni dashboard di reporting associato a tale e-mail. Se devi riutilizzare un&#39;e-mail, [clonala](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.md){target="_blank"}, in quanto copia l&#39;e-mail ma ne crea una nuova con un nuovo ID e-mail.
 
-Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definito il pubblico, deciderai quale e-mail inviare. Puoi [creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da zero o sceglierne una già esistente. Ecco come sceglierne uno che esiste già.
+Dopo aver [creato un programma di posta elettronica](/help/marketo/product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md) e definito il pubblico, sarà necessario decidere quale e-mail si sta inviando. Puoi [creare un&#39;e-mail per un programma e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md) da zero o sceglierne una già esistente. Ecco come sceglierne uno che esiste già.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 

@@ -4,9 +4,9 @@ description: Scopri come definire un pubblico per un programma e-mail importando
 title: Definire un pubblico importando un elenco
 exl-id: 9a63f4a5-1d76-4671-9622-19eb368d196f
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '376'
 ht-degree: 15%
 
 ---
@@ -77,7 +77,7 @@ Dopo aver creato un programma di posta elettronica, è necessario indicare a chi
 >
 >Non è necessario attendere il completamento dell&#39;importazione degli elenchi. Puoi continuare a lavorare, se vuoi.
 
-Fantastico! Ora è il momento di scegliere un’e-mail già esistente o di creare una nuova e-mail da inviare a queste persone.
+Fantastico! Ora è il momento di scegliere un’e-mail già esistente o di crearne una nuova da inviare a queste persone.
 
 >[!MORELIKETHIS]
 >

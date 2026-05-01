@@ -4,9 +4,9 @@ description: Scopri come creare un rapporto sulle prestazioni delle persone con 
 title: Creare un rapporto prestazioni persone con colonne della piattaforma mobile
 exl-id: 93fb6cb4-a6ca-4b35-b8bf-c6657eb9343b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '271'
 ht-degree: 8%
 
 ---

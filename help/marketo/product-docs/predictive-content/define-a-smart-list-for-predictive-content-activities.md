@@ -4,9 +4,9 @@ description: Scopri come definire elenchi avanzati con attività di contenuti pr
 title: Definire un elenco avanzato per le attività di contenuti predittivi
 exl-id: 2c72b215-8c0b-48b4-8492-8e3fe832fae9
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '306'
 ht-degree: 5%
 
 ---

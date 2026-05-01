@@ -2,9 +2,9 @@
 description: Scopri come disinstallare Marketo Sales Connect da Salesforce Lightning. Rimuovere le personalizzazioni e i pulsanti Sales Connect da Lightning.
 title: Disinstallare Marketo Sales Connect da Salesforce Lightning
 exl-id: 4af89222-22b1-4c08-8081-3dab89d1985b
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '1199'
+source-wordcount: '1202'
 ht-degree: 9%
 
 ---
@@ -89,7 +89,7 @@ Di seguito viene illustrato come disinstallare il pacchetto Marketo Sales Connec
    >
    >L&#39;abbreviazione MSE _è_ Sales Connect. È solo il nome precedente, &quot;Marketo Sales Engage&quot;.
 
-1. Fai clic su **Salva** quando hai finito con la pagina Lead.
+1. Fare clic su **Salva** quando la pagina Lead è terminata.
 
 ## Rimuovi pulsanti di azione in blocco Sales Connect dalla vista Elenco lead {#remove-sales-connect-bulk-action-buttons-from-lead-list-view}
 

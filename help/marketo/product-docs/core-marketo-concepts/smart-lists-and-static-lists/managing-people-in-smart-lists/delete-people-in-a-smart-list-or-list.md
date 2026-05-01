@@ -4,9 +4,9 @@ description: Scopri come eliminare le persone da un elenco avanzato o statico. R
 title: Eliminare persone in un elenco avanzato o in un elenco
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '282'
 ht-degree: 7%
 
 ---

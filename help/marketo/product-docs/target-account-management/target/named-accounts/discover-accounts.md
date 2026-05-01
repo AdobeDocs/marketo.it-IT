@@ -4,9 +4,9 @@ description: Scopri come individuare potenziali account target dalle aziende di 
 title: Individuare account
 exl-id: 90da4ae0-0a12-48bd-8bae-a7431d2cf4f4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -101,7 +101,7 @@ Identifica le aziende giuste per il targeting.
 
    ![](assets/disc-comp-seven.png)
 
-   Bel lavoro!
+   Ottimo lavoro.
 
    ![](assets/disc-co-six.png)
 

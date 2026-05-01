@@ -4,10 +4,10 @@ description: Scopri il marketing web basato sull’account con tam in Marketo En
 title: Marketing web basato su account con TAM
 exl-id: fa81e979-123a-4f60-95d0-dde3918b2ef3
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 5%
+source-wordcount: '186'
+ht-degree: 6%
 
 ---
 
@@ -27,7 +27,7 @@ Quando si utilizza Marketo [!UICONTROL Web Personalization] e [!UICONTROL Target
 
 ## Per i clienti ABWM esistenti {#for-existing-abwm-customers}
 
-Se si utilizza già ABWM:
+Se si sta già utilizzando ABWM:
 
 * È possibile creare [!UICONTROL Account Lists] in ABWM _e_ in TAM
 * È possibile creare, modificare ed eliminare [!UICONTROL Account Lists] in TAM _and_ in ABWM

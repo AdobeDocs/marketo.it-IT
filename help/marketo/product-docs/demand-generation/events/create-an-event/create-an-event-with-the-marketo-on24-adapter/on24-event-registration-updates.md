@@ -4,9 +4,9 @@ description: Scopri gli aggiornamenti per la registrazione degli eventi ON24 e c
 title: Aggiornamenti alla registrazione di un evento ON24
 exl-id: 1d194ef2-b6ca-4e2d-b476-beb5bccd3c5f
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '264'
 ht-degree: 3%
 
 ---
@@ -29,7 +29,7 @@ Puoi approvare manualmente i tuoi iscritti prima di inviare loro un messaggio e-
 
 ## Gestione delle persone con un errore di registrazione {#handling-people-with-a-registration-error}
 
-Se una persona alla fine non viene registrata, ma impostata sullo stato [!UICONTROL Registration Error], non è troppo tardi per il ripristino.
+Se una persona alla fine non viene registrata, ma viene impostata sullo stato [!UICONTROL Registration Error], non è troppo tardi per il ripristino.
 
 1. Dalla scheda [!UICONTROL Members], filtra l&#39;elenco di persone con lo stato **[!UICONTROL Registration Error]**.
 1. Prima di continuare, accertati di aver determinato e risolto il problema con l&#39;integrazione (verifica che non vi siano errori in **[!UICONTROL Event Partners]** in Admin).

@@ -2,9 +2,9 @@
 description: Note sulla versione - Maggio 2022 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione, maggio 2022
 exl-id: f591ab95-5ad8-45fa-8c4e-8e42b5d1359a
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '828'
 ht-degree: 4%
 
 ---
@@ -23,7 +23,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 ## Integrazione CRM nativa {#native-crm-integration}
 
-**[Integrazione nativa di Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilità limitata)**: migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente agli esperti di marketing di creare esperienze cross-channel più personalizzate e ottimizzate per i professionisti del settore sanitario. Contatta il tuo Customer Success Manager se sei interessato a partecipare.
+**[Integrazione nativa di Veeva CRM](/help/marketo/product-docs/crm-sync/veeva-crm-sync/understanding-the-veeva-crm-sync.md){target="_blank"} (disponibilità limitata)**: migliora il coinvolgimento con i professionisti del settore sanitario sincronizzando l&#39;attività tra Veeva CRM e Marketo Engage tramite l&#39;integrazione nativa. Questa integrazione consente agli esperti di marketing di creare esperienze cross-channel più personalizzate e ottimizzate per i professionisti del settore sanitario. Se sei interessato a partecipare, contatta il tuo Customer Success Manager.
 
 ## Orchestrazione cross-channel {#cross-channel-orchestration}
 
@@ -65,7 +65,7 @@ Stiamo distribuendo la visualizzazione dei dettagli del modello di e-mail entro 
 
 La verifica e-mail per gli abbonamenti che utilizzano la funzionalità &quot;[!UICONTROL Login in Invite User Dialog]&quot; o che hanno un&#39;unica e-mail associata a più utenti coinciderà con la versione di maggio. Gli abbonamenti con un’unica e-mail associata a più utenti verranno abilitati con Verifica e-mail e richiederanno a tali utenti di risolvere il conflitto e di utilizzare un’e-mail univoca per utente. Quando la funzione &quot;Login in Invite User Dialog&quot; (Consenti di accedere alla finestra di dialogo con l’utente) è abilitata, gli utenti invitati tramite questa funzione dovranno disporre di un indirizzo e-mail univoco. Per gli utenti invitati solo API tramite questa funzione, l’indirizzo e-mail non deve necessariamente essere univoco.
 
-**Modifica del comportamento della cartella di archiviazione**: con questa versione, la possibilità di creare nuove risorse nelle cartelle di archiviazione non sarà più disponibile dai menu di scelta rapida della struttura. Le opzioni di menu per la creazione di nuove risorse saranno nascoste per tutte le risorse. [Ulteriori informazioni](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
+**Modifica del comportamento della cartella di archiviazione**: con questa versione, la possibilità di creare nuove risorse nelle cartelle di archiviazione non sarà più disponibile dai menu di scelta rapida della struttura. Le opzioni di menu per la creazione di nuove risorse saranno nascoste per tutte le risorse. Per ulteriori informazioni, [consulta questo articolo](https://nation.marketo.com/t5/product-discussions/archive-folder-change-in-may-2022-release/m-p/324369#M183235){target="_blank"}.
 
 **_Webinar sulla versione del prodotto_**
 

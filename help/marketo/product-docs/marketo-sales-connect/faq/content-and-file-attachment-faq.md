@@ -4,9 +4,9 @@ description: Risposte alle domande relative a contenuto e file allegati in Sales
 title: Domande frequenti su contenuto e file allegato
 exl-id: 4dc1261d-bcbe-4b3b-a384-83e022733229
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '273'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 Un **file allegato** è simile a un file allegato che useresti nel tuo normale client di posta elettronica.
 
-**Contenuto** è ciò che viene utilizzato per descrivere qualsiasi file (PPT, PDF, documento di Word, ecc.) che si desidera venga tracciato da [!DNL Sales Connect].
+**Contenuto** è ciò che usiamo per descrivere qualsiasi file (PPT, PDF, documento Word, ecc.) che desideri essere monitorato da [!DNL Sales Connect].
 
 Dopo aver fatto clic su questo pulsante, puoi scegliere un file già caricato o caricare un nuovo file da tracciare. Quindi inseriamo un collegamento nell’e-mail o nel modello in uso.
 

@@ -3,9 +3,9 @@ description: Per iniziare, utilizza l’elenco di controllo per l’onboarding d
 title: Elenco di controllo per l’onboarding degli utenti nelle azioni di Sales Insight
 exl-id: 2cc21121-88ef-4cb9-a2bf-73ce213d9fbd
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '133'
 ht-degree: 9%
 
 ---

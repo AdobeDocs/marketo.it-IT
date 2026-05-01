@@ -3,9 +3,9 @@ description: Scopri come creare e assegnare attività promemoria in Sales Connec
 title: Creare e assegnare attività promemoria
 exl-id: bc486795-7ce2-4336-834d-ecfd5efc348e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '146'
 ht-degree: 10%
 
 ---

@@ -2,9 +2,9 @@
 description: Risolvere i problemi relativi alla mancata sincronizzazione di attività e campi di vendita con Salesforce. Controlla la registrazione API, i campi personalizzati e le autorizzazioni.
 title: Perché le attività di vendita e i campi attività non vengono sincronizzati con Salesforce?
 exl-id: 5da855f2-18c6-456a-9e5d-ef4499596b3c
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '339'
 ht-degree: 6%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 6%
 
 **Non vedo campi attività in Salesforce Update.**
 
-Se non vedi l&#39;aggiornamento dei [campi dell&#39;attributo dell&#39;attività](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} tramite e-mail in Salesforce, ciò potrebbe essere dovuto a restrizioni all&#39;accessibilità dei campi del tuo team. La sicurezza a livello di campo di Salesforce consente agli amministratori di Salesforce di limitare le informazioni visualizzabili e modificabili dagli utenti. Se gli utenti di Actions non hanno accesso alla visualizzazione e alla modifica di questi campi, la sincronizzazione delle attività di Actions non riuscirà ad aggiornare questi campi.
+Se non vedi l&#39;aggiornamento dei campi dell&#39;attributo attività [dell&#39;e-mail](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"} in Salesforce, ciò potrebbe essere dovuto a restrizioni all&#39;accessibilità dei campi del tuo team. La sicurezza a livello di campo di Salesforce consente agli amministratori di Salesforce di limitare le informazioni visualizzabili e modificabili dagli utenti. Se gli utenti di Actions non hanno accesso alla visualizzazione e alla modifica di questi campi, la sincronizzazione delle attività di Actions non riuscirà ad aggiornare questi campi.
 
 * Rivolgiti al tuo amministratore di Salesforce per assicurarti che queste impostazioni di sicurezza non interferiscano con i campi [Attività Salesforce per azioni](/help/marketo/product-docs/marketo-sales-insight/actions/crm/salesforce-package-configuration/logging-sales-activity-attributes-to-salesforce.md){target="_blank"}.
 * Se sei un amministratore di Salesforce, puoi visualizzare l’accessibilità dei campi nella scheda Controlli di sicurezza. Gli oggetti principali con cui interagiranno le azioni sono: lead, contatti, account, opportunità e attività.

@@ -4,9 +4,9 @@ description: Scopri come utilizzare le azioni in blocco in Salesforce Classic co
 title: Utilizzo di azioni in blocco in  [!DNL Salesforce] Classic
 exl-id: f676ba65-6bc9-41e5-aa70-0f10bceedab7
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Scopri come eseguire azioni in blocco, come l’aggiunta di lead a una campagna,
 
 1. Verrà visualizzata un&#39;e-mail MSC. Include le seguenti funzionalità:
 
-   a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;[!UICONTROL All Recipients]&quot; - corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
+   a. Il campo &quot;[!UICONTROL To]&quot; mostra &quot;[!UICONTROL All Recipients]&quot;. Corrisponde all&#39;elenco di lead scelti nella visualizzazione elenco lead
 b. L&#39;elenco è visibile nel pannello sinistro denominato &quot;[!UICONTROL Bulk Compose]&quot;. Qui è possibile aggiungere/rimuovere i destinatari
 c. Puoi scegliere un modello o creare un messaggio e-mail personalizzato
 d. Puoi visualizzare in anteprima i campi dinamici che verranno compilati nel messaggio e-mail

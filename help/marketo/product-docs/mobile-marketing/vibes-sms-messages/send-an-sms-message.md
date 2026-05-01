@@ -3,9 +3,9 @@ description: Scopri come inviare un messaggio SMS tramite batch o attivare una c
 title: Inviare un messaggio SMS
 feature: Mobile Marketing
 exl-id: 2c863ded-f441-4217-9541-6dcc442d9831
-source-git-commit: f9d71b22a14240713c4a00979b29cac9e2b26f02
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '342'
 ht-degree: 2%
 
 ---
@@ -19,7 +19,7 @@ Hai [creato il messaggio SMS](/help/marketo/product-docs/mobile-marketing/vibes-
 >Durante l’invio di messaggi SMS:
 >
 >* Deduplicazione Marketo Engage per numero di telefono. Quindi, se più persone hanno lo stesso numero di telefono, solo una persona riceverà il messaggio se è membro di un solo elenco di abbonamenti Vibes. La deduplicazione viene eseguita a livello di elenco degli abbonamenti Vibes, non a livello di programma Marketo.
->* Marketo inserire nell&#39;elenco Bloccati non invierà a persone che sono state o Sospese dal marketing.
+>* Marketo non invierà a persone che sono state o Sospese dal marketing.
 >* Un messaggio SMS non invierà a nessuno che ha annullato l’abbonamento se non è incluso nell’elenco del database mobile di Vibes.
 
 ## Inviare un SMS in batch {#send-a-batch-sms}

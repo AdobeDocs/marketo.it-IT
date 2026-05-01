@@ -3,16 +3,16 @@ description: Scopri come installare la soluzione Marketo in Dynamics 365 con con
 title: Passaggio 1 di 4 - Installare la soluzione Marketo con la connessione di controllo della password del proprietario della risorsa
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 3%
+source-wordcount: '299'
+ht-degree: 5%
 
 ---
 
 # Passaggio 1 di 4: installare la soluzione Marketo con la connessione di controllo della password del proprietario della risorsa {#step-1-of-4-install-the-marketo-solution-ropc}
 
-Prima di poter sincronizzare [!DNL Microsoft Dynamics] 365 e Marketo, è necessario installare la soluzione Marketo in [!DNL Dynamics]. Sono necessarie **[!DNL Dynamics]autorizzazioni amministratore.**
+Prima di poter sincronizzare [!DNL Microsoft Dynamics] 365 e Marketo, è necessario installare la soluzione Marketo in [!DNL Dynamics]. **[!DNL Dynamics]Le autorizzazioni di amministrazione sono necessarie.**
 
 >[!CAUTION]
 >

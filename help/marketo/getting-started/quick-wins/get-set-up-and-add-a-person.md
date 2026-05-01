@@ -4,10 +4,10 @@ description: Configurare e aggiungere una persona - Documenti di Marketo - Docum
 title: Configurare e aggiungere una persona
 exl-id: 194c7421-fe6d-4d8c-bd34-d3fc89ec80f2
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
-workflow-type: ht
-source-wordcount: '207'
-ht-degree: 100%
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 96%
 
 ---
 
@@ -45,7 +45,7 @@ Creiamo una cartella in cui inserire tutto ciò che farai nelle missioni.
 
 Aggiungiti come persona in Marketo in modo da poterti inviare e-mail di prova in un secondo momento.
 
-1. Passa all’area **[!UICONTROL Database]**.
+1. Passa alla schermata **[!UICONTROL Database]**.
 
    ![](assets/get-set-up-and-add-a-person-6.png)
 
@@ -73,7 +73,7 @@ Aggiungiti come persona in Marketo in modo da poterti inviare e-mail di prova in
 
 ## Configurazione completa {#set-up-complete}
 
-Puoi iniziare la tua prima missione.
+Sei pronto per iniziare la tua prima missione!
 
 <br> 
 

@@ -4,9 +4,9 @@ description: Scopri come approvare le fasi e assegnare i lead a un modello di ri
 title: Approvazione di fasi e assegnazione di lead a un modello di ricavi
 exl-id: 0c93dfe4-8950-444c-a65b-080620816ba2
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '315'
 ht-degree: 7%
 
 ---
@@ -63,7 +63,7 @@ Fantastico! Per specificare la modalità di assegnazione dei nuovi lead alle fas
 
 >[!NOTE]
 >
->Se il modello è nello stato Fasi approvate, non verranno visualizzati eventi di fase Modifica ricavi nei registri attività dei lead. Se il modello è stato approvato completamente, questo passaggio di flusso viene ignorato se si sposta un lead nella stessa fase in cui si trova attualmente.
+>Se il modello è nello stato Fasi approvate, non verranno visualizzati eventi di fase Modifica ricavi nei registri attività dei lead. Se il modello è stato approvato completamente, questo passaggio di flusso verrà ignorato se si sposta un lead nella stessa fase in cui si trova attualmente.
 
 ## Nuovi lead: crea regole di assegnazione  {#new-leads-create-assignment-rules}
 

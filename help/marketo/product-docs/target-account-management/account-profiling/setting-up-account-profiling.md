@@ -4,9 +4,9 @@ description: Scopri come impostare la profilazione dell’account e creare il mo
 title: Configurazione della profilazione dell'account
 exl-id: 6f3af2e7-f820-473b-8ed6-ff0982672e54
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ Per iniziare a utilizzare la profilazione account, segui la procedura riportata 
 
    ![](assets/setting-up-account-profiling-4.png)
 
-1. Il modello inizierà la sua generazione. Potrebbe volerci un po&#39; di tempo, ma non preoccuparti, riceverai una notifica al termine.
+1. Il modello inizierà la sua generazione. Potrebbe volerci un po&#39; di tempo, ma non preoccuparti, riceverai una notifica al termine dell&#39;operazione.
 
    ![](assets/five.png)
 

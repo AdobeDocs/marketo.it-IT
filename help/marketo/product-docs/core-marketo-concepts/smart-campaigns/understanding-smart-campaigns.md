@@ -4,10 +4,10 @@ description: Scopri le campagne intelligenti per l’automazione in Marketo. Uti
 title: Informazioni sulle campagne avanzate
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '261'
-ht-degree: 92%
+source-wordcount: '264'
+ht-degree: 85%
 
 ---
 

@@ -4,10 +4,10 @@ description: Scopri come creare un analizzatore di influenza delle opportunità 
 title: Creare analizzatore influenza opportunità
 exl-id: a1ae4407-3668-4289-b177-fad1aee6c876
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 6%
+source-wordcount: '215'
+ht-degree: 5%
 
 ---
 
@@ -52,7 +52,7 @@ Utilizza Opportunity Influence Analyzer (Analisi di influenza opportunità) per 
    >
    >Nella maggior parte dei casi, **[!UICONTROL All Time]** è la scelta più semplice.
 
-1. Ecco fatto. Fai clic sulla scheda principale per visualizzare i momenti interessanti e i successi coinvolti nell’opportunità.
+1. Tu ci sei! Fai clic sulla scheda principale per visualizzare i momenti interessanti e i successi coinvolti nell’opportunità.
 
    ![](assets/image2014-9-17-8-3a57-3a42.png)
 

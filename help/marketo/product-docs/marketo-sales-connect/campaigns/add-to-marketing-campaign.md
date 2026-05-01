@@ -4,10 +4,10 @@ description: Scopri come aggiungere singoli utenti o gruppi a una campagna di ma
 title: Aggiungere alla campagna di marketing
 exl-id: d520d681-8415-4d48-896f-f213a8fabd11
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 6%
+source-wordcount: '303'
+ht-degree: 5%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 6%
 
    ![](assets/four-3.png)
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su **[!UICONTROL Individuals]** e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, non selezionare più l’indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su **[!UICONTROL Individuals]** e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
 
    ![](assets/five-2.png)
 
@@ -77,7 +77,7 @@ ht-degree: 6%
 
    ![](assets/twelve.png)
 
-1. Poiché stai effettuando l’aggiunta a una campagna di marketing, salta la selezione di un indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su **[!UICONTROL Individuals]** e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
+1. Poiché stai effettuando l’aggiunta a una campagna di marketing, non selezionare più l’indirizzo &quot;da&quot;. È tuttavia possibile aggiungere altri contatti. Se si sceglie di, fare clic su **[!UICONTROL Individuals]** e digitarli. Al termine, fai clic su **[!UICONTROL Next]**.
 
    ![](assets/thirteen.png)
 

@@ -4,9 +4,9 @@ description: Scopri come definire i criteri dei campioni per i test e-mail. Impo
 title: Campione/Sfidante - Definizione dei criteri del campione
 exl-id: 6b2d2568-caf3-41fc-9d50-f7f561cc4865
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '179'
 ht-degree: 4%
 
 ---
@@ -55,7 +55,7 @@ Dopo aver impostato il tipo di test, devi definire i criteri di campione. Ecco c
 
    ![](assets/image2014-9-15-13-3a4-3a7.png)
 
-   Fantastico! Ora è il momento di pianificare il rapporto.
+   Fantastico! Ora è il momento di programmare il rapporto.
 
    >[!MORELIKETHIS]
    >

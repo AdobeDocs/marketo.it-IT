@@ -4,9 +4,9 @@ description: Scopri come connettere Marketo a Dynamics 2015 on-premise nel passa
 title: Installazione di Marketo per Microsoft Dynamics 2015 on-premise - Passaggio 3 di 3
 exl-id: 054bf725-7a80-4114-8360-2d86e2e33dd7
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '375'
 ht-degree: 2%
 
 ---

@@ -3,10 +3,10 @@ description: Scopri come installare la soluzione Marketo per Dynamics 2016 o Dyn
 title: Installa Marketo per  [!DNL Microsoft Dynamics] 2016/Dynamics 365 on-premise Passaggio 1 di 3
 exl-id: 0a494ae7-87da-4ff9-bb47-990b957533e1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 1%
+source-wordcount: '307'
+ht-degree: 0%
 
 ---
 
@@ -30,7 +30,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 2016 On-Prem/Dynamics 365
 >
 >Per eseguire questa sincronizzazione sono necessari privilegi di amministratore CRM.
 
-1. Accedi a **[!DNL Dynamics].** Fare clic sul menu a discesa **[!DNL Microsoft Dynamics]CRM** e selezionare **[!UICONTROL Settings]**.
+1. Accedi a **[!DNL Dynamics].** Fare clic sul menu a discesa CRM **di**[!DNL Microsoft Dynamics] e selezionare **[!UICONTROL Settings]**.
 
    ![](assets/image2015-3-19-8-33-29.png)
 

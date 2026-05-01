@@ -3,10 +3,10 @@ description: Note sulla versione - Luglio 2023 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2023
 feature: Release Information
 exl-id: 4056353c-4125-4849-8350-59c58afb9e66
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '655'
-ht-degree: 20%
+source-wordcount: '664'
+ht-degree: 21%
 
 ---
 
@@ -24,7 +24,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 </br>
 
-* **Mappa di coinvolgimento**: Mappa di coinvolgimento è uno strumento visivo che consente di creare e organizzare campagne riutilizzabili. È completamente compatibile con le versioni precedenti, pertanto tutte le campagne esistenti possono essere visualizzate in questa nuova struttura con un clic. È possibile scaricare e condividere le mappe.
+* **Mappa di coinvolgimento**: Mappa di coinvolgimento è uno strumento visivo che consente di creare e organizzare campagne riutilizzabili. È completamente compatibile con le versioni precedenti, pertanto tutte le campagne esistenti possono essere visualizzate in questa nuova struttura con il clic di un pulsante. È possibile scaricare e condividere le mappe.
 
 <table>
   <tr>

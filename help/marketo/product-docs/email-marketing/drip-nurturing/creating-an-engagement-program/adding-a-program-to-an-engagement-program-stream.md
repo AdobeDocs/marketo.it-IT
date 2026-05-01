@@ -4,9 +4,9 @@ description: Scopri i programmi nidificati nei flussi di coinvolgimento e quando
 title: Aggiunta di un programma a un flusso di programma di coinvolgimento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '469'
 ht-degree: 4%
 
 ---

@@ -3,10 +3,10 @@ description: Note sulla versione - Gennaio 2025 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2025
 feature: Release Information
 exl-id: fd816b9c-9e06-4292-87d6-9fa991c4681f
-source-git-commit: 8e72b24e18ae108ec74e6d4fa6b04f10130439a4
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 34%
+source-wordcount: '635'
+ht-degree: 41%
 
 ---
 
@@ -33,7 +33,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
     <tr>
    <td><strong>Nuovo Designer e-mail</strong>: crea e-mail moderne ed efficienti utilizzando il nuovo Designer e-mail nativo in Marketo Engage. Accedi a uno dei modelli e-mail predefiniti oppure creane facilmente uno tuo. Utilizza i contenuti dinamici e accedi alle immagini da Adobe Experience Manager Cloud Services. Utilizza la funzionalità Content Accelerator Gen-AI per creare e-mail innovative e performanti su larga scala.
-   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se non lo hai ancora fatto e desideri richiederne la rapidità, contatta il team dell'account Adobe (il tuo account manager) o il <a href="https://nation.marketo.com/t5/support/ct-p/Support">supporto Marketo</a>. Per accedere alla funzionalità Content Accelerator Gen-AI, contatta il team dell’account Adobe.</td>
+   <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: per accedere al nuovo e-mail designer, è necessario eseguire la migrazione della sottoscrizione di Marketo Engage a <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview">Adobe Identity Management System (IMS)</a>. Se il tuo abbonamento non è ancora stato migrato e desideri velocizzarne il processo, contatta il team di Adobe Account (il tuo account manager) o l’<a href="https://nation.marketo.com/t5/support/ct-p/Support">assistenza Marketo</a>. Per accedere alla funzionalità Content Accelerator Gen-AI, contatta il team dell’account Adobe.</td>
    <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/overview.md">Panoramica di E-mail designer</a></td>
   </tr>
@@ -73,8 +73,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 Da allora, gli utenti non sono stati in grado di creare, clonare o incorporare nessuna di queste funzioni Social in Marketo Engage. Le risorse sociali esistenti continuano a funzionare fino al 31 gennaio 2025. Il 1° febbraio 2025 le risorse social cesseranno di funzionare. Le funzioni social incorporate nelle pagine di destinazione dovranno essere rimosse. [Ulteriori informazioni](https://nation.marketo.com/t5/employee-blogs/marketo-engage-social-features-deprecation/ba-p/351977){target="_blank"}
 
-* **Aggiornamento API Get Program Members**: è stata migliorata l&#39;API [Get Program Members](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} per supportare la possibilità di recuperare l&#39;identificatore dei membri del programma. A questo scopo, aggiungi l’ID all’elenco di campi specificati nel parametro fields della richiesta API.
+* **Aggiornamento API Get Program Members**: è stata migliorata l&#39;API [Get Program Members](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/program-members#query){target="_blank"} per supportare la possibilità di recuperare l&#39;identificatore dei membri del programma. A questo scopo, aggiungi l’ID all’elenco di campi specificati nel parametro fields della richiesta API.
 
-* **Deprecazione parametro &#39;access_token&#39; API Rest**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà più disponibile dopo il mercoledì 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Parametro “access_token” API Rest obsoleto**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è ora obsoleto e non sarà più disponibile dopo il 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **API SOAP obsolete**: il supporto per le API SOAP di Marketo terminerà il 31 marzo 2026. I servizi che utilizzano le funzionalità API SOAP devono essere migrati alle [API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

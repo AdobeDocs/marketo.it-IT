@@ -4,9 +4,9 @@ description: Scopri come riordinare le opzioni Aggiungi scelta in un passaggio d
 title: Riordinare la scelta di aggiunta in un passaggio di flusso
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---

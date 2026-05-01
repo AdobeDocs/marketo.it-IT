@@ -2,9 +2,9 @@
 description: Scopri la Mappa di coinvolgimento per visualizzare le campagne intelligenti. Utilizzala per visualizzare in modo intuitivo trigger, filtri e passaggi del flusso in Marketo.
 title: Panoramica sulla mappa di coinvolgimento
 exl-id: 01cb283d-06c2-4a99-86a9-39dea9550c08
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '763'
 ht-degree: 1%
 
 ---
@@ -77,7 +77,7 @@ No. Engagement Map è completamente compatibile con le versioni precedenti. Face
 
 **La presenza di Engagement Map in Marketo Engage comporta la perdita dell&#39;accesso alla struttura delle cartelle e la necessità di riapprendere come creare una campagna avanzata?**
 
-No. La cosa fantastica di Engagement Map è che ti offre il meglio di entrambi i mondi; è complementare al modo attuale di creare campagne. Tutti gli utenti potranno ancora usufruire del potente set di funzioni di Marketo Engage, ora integrato da immagini chiare.
+No. Engagement Map offre il meglio di entrambi i mondi ed è complementare al modo attuale di creare campagne. Tutti gli utenti potranno ancora usufruire del potente set di funzioni di Marketo Engage, ora integrato da immagini chiare.
 
 **Engagement Map è un componente aggiuntivo a pagamento?**
 
@@ -85,7 +85,7 @@ No. Tutti gli utenti esistenti e nuovi di Marketo Engage inclusi in tutti gli ab
 
 **In qualità di amministratore di Marketo Engage, sono responsabile dell&#39;attivazione/disattivazione di Engagement Map?**
 
-No. Engagement Map sarà disponibile per tutti gli utenti nelle loro istanze. Non sarà possibile attivarla o disattivarla per determinati utenti, aree di lavoro e così via.
+No. Engagement Map sarà disponibile per tutti gli utenti nelle loro istanze. Non sarà possibile attivarla o disattivarla per determinati utenti, aree di lavoro, ecc.
 
 **In che modo questo è diverso da altri generatori visivi?**
 
@@ -93,7 +93,7 @@ Sono tre gli elementi chiave che distinguono Engagement Map:
 
 * Flessibilità: gestisci e convalida facilmente le campagne interconnesse o fortemente nidificate tramite la visualizzazione.
 
-* Funzionalità: tutti gli elementi visivi sono pronti all’uso, per un utilizzo più semplice; la struttura nidificata consente di immergerti e ottenere l’intera immagine.
+* Funzionalità: tutti gli elementi visivi sono pronti all’uso, per un utilizzo più semplice; la struttura nidificata consente di esplorare in profondità e visualizzare l’immagine completa.
 
 * Potenza: è possibile mantenere tutta la sofisticazione esistente di Marketo Engage, ora in un formato visivo.
 

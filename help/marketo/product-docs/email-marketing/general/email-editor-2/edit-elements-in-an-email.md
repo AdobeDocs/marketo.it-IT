@@ -4,9 +4,9 @@ description: Scopri come modificare gli elementi in un’e-mail in Email Editor 
 title: Modificare elementi in un’e-mail
 exl-id: 915b4a45-f92e-40ff-9a4c-65c52f19f1ec
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '490'
 ht-degree: 2%
 
 ---
@@ -87,7 +87,7 @@ Le e-mail possono contenere quattro elementi diversi: Testo formattato, Immagini
 
    >[!NOTE]
    >
-   >Se stai sostituendo un&#39;immagine, devi selezionare la casella **[!UICONTROL Overwrite existing image]** che viene visualizzata sotto l&#39;URL/nome dell&#39;immagine.
+   >Se si sostituisce un&#39;immagine, sarà necessario selezionare la casella **[!UICONTROL Overwrite existing image]** visualizzata sotto l&#39;URL/nome dell&#39;immagine.
 
    **Studio Progettazione**
 

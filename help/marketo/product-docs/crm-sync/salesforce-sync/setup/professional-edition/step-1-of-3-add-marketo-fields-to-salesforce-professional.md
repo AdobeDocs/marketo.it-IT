@@ -4,9 +4,9 @@ description: Scopri come aggiungere campi Marketo all’edizione Salesforce Prof
 title: 'Passaggio 1 di 3: aggiunta di campi Marketo a Salesforce (Professional)'
 exl-id: 1b52825e-201d-4b55-8edf-444b1653d591
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '730'
+source-wordcount: '731'
 ht-degree: 8%
 
 ---
@@ -126,7 +126,7 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    ![](assets/image2016-5-26-15-3a14-3a45.png)
 
-1. Fare clic su **[!UICONTROL Save & New]** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su **[!UICONTROL Save]** e termina con tutti e tre.
+1. Fare clic su **[!UICONTROL Save & New]** per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su **[!UICONTROL Save]** con l&#39;operazione terminata con tutti e tre.
 
    ![](assets/image2016-5-23-15-3a8-3a43.png)
 
@@ -252,7 +252,7 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
    ![](assets/image2016-5-26-16-3a56-3a23.png)
 
 1. Ripeti i passaggi precedenti per tutti gli altri campi creati.
-1. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Al termine, fare clic su **[!UICONTROL Save]**.
 
 Abbastanza facile, vero?
 

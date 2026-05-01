@@ -3,9 +3,9 @@ description: Elenco di controllo delle attività di marketing dell’istanza ere
 title: Elenco di controllo delle attività di marketing dell’istanza ereditata
 feature: Getting Started
 exl-id: 653e8081-25cd-411c-a6b4-bba269e0dac3
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '809'
+source-wordcount: '855'
 ht-degree: 2%
 
 ---
@@ -37,7 +37,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
 <li>Tutti i programmi <a href="/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/how-to-match-program-statuses-and-salesforce-campaign-statuses-prior-to-sync.md" target="_blank">sono sincronizzati in SFDC Campaigns</a> (se applicabile)?</li>
 <li>Sono presenti passaggi di flusso che assegnano un <a href="/help/marketo/product-docs/core-marketo-concepts/programs/creating-programs/understanding-program-membership.md#acquisition-program" target="_blank">programma di acquisizione</a> alle persone?</li>
 <li>È stata impostata una posizione centrale per i modelli di programma?
-   <br/>     In caso contrario, scegliere tra diversi esempi di programmi predefiniti dalla <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Libreria programmi di Marketo Engage</a>.</li></td>
+   <br/> In caso contrario, scegliere tra diversi esempi di programmi predefiniti dalla <a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview.md" target="_blank">Libreria programmi di Marketo Engage</a>.</li></td>
   </tr>
   <tr>
    <td>Archivia</td>
@@ -70,16 +70,16 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   <tr>
    <td>Token</td>
    <td><li><a href="/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md" target="_blank">token</a> sono utilizzati nei tipi di programma più comuni?
-   <br/>     In caso contrario, dovresti considerare la possibilità di utilizzarli per aumentare l’efficienza.</li>
+   <br/> In caso contrario, è consigliabile utilizzarli per aumentare l'efficienza.</li>
 <li>Se i token sono implementati, esistono token di cartelle globali? Come vengono utilizzati?</li></td>
   </tr>
   <tr>
    <td>Programmi di coinvolgimento</td>
    <td><li>Sono in esecuzione <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.md" target="_blank">Programmi di coinvolgimento</a>?</li>
 <li>Quante <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/using-engagement-programs/people-who-have-exhausted-content.md" target="_blank"> persone sono esauste</a>?
-<br/>     Se sono presenti molti utenti esausti, valutare l'opportunità di <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">aggiungere contenuto</a>.</li>
+<br/> Se sono presenti molte persone esauste, valutare l'opportunità di <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-content-to-a-stream.md" target="_blank">aggiungere contenuto</a>.</li>
 <li>Le persone <a href="/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md" target="_blank">utilizzano il contenuto</a>?
-<br/>     In caso contrario, è consigliabile aggiornarlo e/o eseguire test A/B.</li>
+<br/> In caso contrario, è consigliabile aggiornarlo e/o eseguire test A/B.</li>
 <li>Hai incontrato persone in più programmi di coinvolgimento? Dovrebbero essere in più di uno?</li></td>
   </tr>
   <tr>
@@ -131,7 +131,7 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
 <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: Marketo Engage raccoglie automaticamente i dati in un campo di origine indipendentemente dai programmi operativi.</td>
   </tr>
   <tr>
-   <td>Standardizzazione dati</td>
+   <td>Standardizzazione dei dati</td>
    <td><li>È disponibile un programma centralizzato per la standardizzazione dei dati in arrivo?</li></td>
   </tr>
   <tr>
@@ -140,8 +140,8 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   </tr>
   <tr>
    <td>Privacy e conformità</td>
-   <td><li>Hai programmi per assicurarti di rispettare le leggi sulla privacy dei dati e sulla posta indesiderata?
-   <br/>     Considera <a href="https://business.adobe.com/it/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, ecc.</li>
+   <td><li>Disponi di programmi che ti garantiscono la conformità alle leggi sulla privacy dei dati e sullo spam?
+   <br/> Considera <a href="https://business.adobe.com/resources/ebooks/the-gdpr-and-the-marketer.html" target="_blank">RGPD</a>, CASL, CAN-SPAM, CCPA, ecc.</li>
 <p><img src="assets/tip-icon.png" alt="icona di suggerimento">SUGGERIMENTO: ricorda di consultare sempre il tuo team legale su queste questioni. Chiedi al tuo team quali sono state le iniziative precedenti per mantenere la conformità prima di apportare qualsiasi modifica.</td>
   </tr>
   <tr>
@@ -152,12 +152,12 @@ Organizza correttamente la sezione Attività di marketing per aiutare gli altri 
   <tr>
    <td>Recapito e-mail</td>
    <td><li>Recupera un <a href="/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md" target="_blank">report sulle prestazioni delle e-mail</a> per gli invii negli ultimi mesi. Come si presenta il recapito messaggi e-mail?</li>
-<li>Se il recapito messaggi e-mail non è così efficace come si desidera, è consigliabile esaminare e implementare le best practice per il recapito messaggi e-mail, ad esempio <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF e DKIM</a>.</li>
+<li>Se il recapito dei messaggi e-mail non è così efficace come si desidera, è consigliabile esaminare e implementare le procedure consigliate per il recapito dei messaggi, ad esempio <a href="/help/marketo/product-docs/email-marketing/deliverability/set-up-spf-and-dkim-for-your-email-deliverability.md" target="_blank">SPF e DKIM</a>.</li>
 <li>Stai raggiungendo il tuo pubblico completo commerciabile?</li></td>
   </tr>
   <tr>
    <td>Centro sottoscrizioni/preferenze</td>
-   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=it" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
+   <td><li>È stato configurato un <a href="https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html" target="_blank">Centro sottoscrizioni/preferenze</a>? Funziona come dovrebbe?</li></td>
   </tr>
   <tr>
    <td>Momenti di interesse (se applicabile)</td>

@@ -4,9 +4,9 @@ description: Scopri i trigger e i filtri per le campagne intelligenti per dispos
 title: Attivatori e filtri per campagne avanzate per dispositivi mobili
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '849'
 ht-degree: 3%
 
 ---
@@ -75,7 +75,7 @@ Usa questo filtro per scoprire tutte le persone che hanno mai avuto la tua app i
 
 >[!TIP]
 >
->È consigliabile specificare Has Mobile App = true and Is Push Enabled = true (Ha app mobile = true e Push abilitato = true), nonché il nome dell’app mobile, quando si definisce l’elenco avanzato di chi deve ricevere una notifica push.
+>è consigliabile specificare Has Mobile App = true and Is Push Enabled = true (Ha app mobile = true e Push abilitato = true), nonché il nome dell’app mobile, quando si definisce l’elenco avanzato di chi deve ricevere una notifica push.
 
 L&#39;App Mobile È/È Stata Installata
 
@@ -103,7 +103,7 @@ L&#39;App Mobile È/È Stata Aperta
 
 Ha/Ha Avuto Attività Di App Mobile
 
-Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Ha un&#39;attività in app mobile - trigger
 

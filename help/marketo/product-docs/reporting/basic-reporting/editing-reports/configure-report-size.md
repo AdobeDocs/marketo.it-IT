@@ -4,10 +4,10 @@ description: Scopri come configurare la dimensione del rapporto modificando il l
 title: Configurare le dimensioni del rapporto
 exl-id: ee8ade4b-a45f-4c2b-bc42-a544cbbaa407
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 8%
+source-wordcount: '126'
+ht-degree: 7%
 
 ---
 

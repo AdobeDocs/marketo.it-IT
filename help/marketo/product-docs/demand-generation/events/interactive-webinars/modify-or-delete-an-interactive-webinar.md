@@ -3,9 +3,9 @@ description: Scopri come modificare o eliminare un webinar interattivo in Market
 title: Modificare o eliminare un webinar interattivo
 exl-id: 01dd801f-809b-481f-b926-2ed48bfbd5b7
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '330'
 ht-degree: 4%
 
 ---
@@ -74,7 +74,7 @@ Scopri come apportare modifiche al webinar interattivo.
 
    >[!NOTE]
    >
-   >Al momento è possibile salvare un webinar interattivo clonato solo come webinar interattivo. Il salvataggio di un webinar clonato come webinar per i partner (ad esempio, Zoom, ON24, ecc.) sarà presto disponibile.
+   >Al momento è possibile salvare un webinar interattivo clonato solo come webinar interattivo. Salvataggio di un webinar clonato come webinar per i partner (ad esempio, Zoom, ON24 e così via) sarà disponibile a breve.
 
 1. Scegli le impostazioni per il webinar clonato e fai clic su **Clone**.
 

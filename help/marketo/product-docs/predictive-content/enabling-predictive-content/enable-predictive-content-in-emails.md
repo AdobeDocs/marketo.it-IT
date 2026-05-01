@@ -4,9 +4,9 @@ description: Scopri come rendere predittive le immagini delle e-mail con Content
 title: Consentire il contenuto predittivo nelle e-mail
 exl-id: 7eaefee1-23e8-47ee-afff-adcf49096aa7
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '400'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Rendi predittive una o più immagini nell’e-mail, personalizzando l’esperien
 
 >[!NOTE]
 >
->Si consiglia di abilitare oltre cinque contenuti per categoria e per origine (e-mail, rich media, barra) prima di testare e utilizzare Contenuto predittivo. Più contenuti consentono di ottenere risultati predittivi migliori.
+>Prima di testare e utilizzare Predictive Content (Contenuto predittivo), si consiglia di abilitare più di cinque contenuti per categoria e per origine (e-mail, rich media, barra). Più contenuti consentono di ottenere risultati predittivi migliori.
 
 >[!PREREQUISITES]
 >

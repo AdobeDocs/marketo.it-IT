@@ -4,10 +4,10 @@ description: Scopri come scaricare la soluzione Marketo Lead Management per Micr
 title: Scaricare la soluzione di gestione dei lead Marketo
 exl-id: 2deafcfc-19f4-4cbf-8764-402a7f69c7d2
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 21%
+source-wordcount: '101'
+ht-degree: 20%
 
 ---
 
@@ -21,7 +21,7 @@ Per avviare la sincronizzazione, è necessario scaricare e installare una soluzi
 
 >[!CAUTION]
 >
->È fondamentale scaricare la soluzione Marketo più recente _prima_ di eseguire qualsiasi aggiornamento.
+>è fondamentale scaricare la soluzione Marketo più recente _prima_ di eseguire qualsiasi aggiornamento.
 
 >[!NOTE]
 >

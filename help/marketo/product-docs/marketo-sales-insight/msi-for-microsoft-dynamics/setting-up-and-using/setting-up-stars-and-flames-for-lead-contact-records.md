@@ -4,9 +4,9 @@ description: Scopri come impostare stelle e fiamme per i record di lead e contat
 title: Impostazione di stelle e fiamme per record lead/contatti
 exl-id: 696b2551-0627-4da1-a64e-d3ef91596442
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '171'
 ht-degree: 10%
 
 ---

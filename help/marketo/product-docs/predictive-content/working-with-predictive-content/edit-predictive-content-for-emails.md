@@ -4,9 +4,9 @@ description: Scopri come impostare contenuti predittivi per le e-mail con immagi
 title: Modificare i contenuti predittivi per le e-mail
 exl-id: 6f3e4e32-0318-4981-b2e9-796c3d001614
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '245'
 ht-degree: 5%
 
 ---

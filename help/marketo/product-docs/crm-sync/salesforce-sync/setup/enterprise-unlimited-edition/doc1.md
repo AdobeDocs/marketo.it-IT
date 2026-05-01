@@ -4,9 +4,9 @@ title: Passaggio 1 di 3 - Aggiungere campi Marketo a Salesforce (Enterprise/Unli
 hide: true
 hidefromtoc: true
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '670'
 ht-degree: 1%
 
 ---
@@ -92,7 +92,7 @@ Se è stato creato un profilo personalizzato per l&#39;utente di sincronizzazion
 
    SCHERMATA
 
-1. Fai clic su Salva e nuovo per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su Salva. Hai terminato tutte e tre le operazioni.
+1. Fai clic su Salva e nuovo per tornare indietro e creare ciascuno degli altri due campi personalizzati. Fai clic su Salva con te per terminare tutte e tre le operazioni.
 
    SCHERMATA
 

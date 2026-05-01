@@ -4,10 +4,10 @@ description: Punteggio semplice - Documentazione di Marketo - Documentazione del
 title: Punteggio semplice
 exl-id: 6129d46a-e6d2-4819-9b6c-ccbf37060712
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 17%
+source-wordcount: '361'
+ht-degree: 16%
 
 ---
 
@@ -44,7 +44,7 @@ ht-degree: 17%
 
    ![](assets/simple-scoring-5.png)
 
-1. Fare clic sulla scheda **[!UICONTROL Smart List]**.
+1. Fai clic sulla scheda **[!UICONTROL Smart List]**.
 
    ![](assets/simple-scoring-6.png)
 
@@ -62,7 +62,7 @@ ht-degree: 17%
    >
    >Se hai completato la [pagina di destinazione con un modulo](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md){target="_blank"} vinto rapidamente, dovresti disporre del modulo. Se per il modulo è stato utilizzato un nome diverso, selezionarlo.
 
-1. Fare clic sulla scheda **[!UICONTROL Flow]**.
+1. Fai clic sulla scheda **[!UICONTROL Flow]**.
 
    ![](assets/simple-scoring-9.png)
 
@@ -88,7 +88,7 @@ ht-degree: 17%
 
 >[!NOTE]
 >
->Una volta attivata, questa campagna verrà eseguita ogni volta che una persona compila il modulo. La campagna continuerà a essere attiva fino a quando non verrà disattivata.
+>Una volta attivata, questa campagna verrà eseguita ogni volta che una persona compila il modulo. La campagna continuerà a essere in esecuzione fino a quando non verrà disattivata.
 
 ## Passaggio 2: compilare il modulo {#step-fill-out-the-form}
 
@@ -96,7 +96,7 @@ ht-degree: 17%
 
    ![](assets/simple-scoring-14.png)
 
-1. Fare clic su **[!UICONTROL Preview]**. La pagina di destinazione si aprirà in una nuova scheda.
+1. Fai clic su **[!UICONTROL Preview]**. La pagina di destinazione si aprirà in una nuova scheda.
 
    ![](assets/simple-scoring-15.png)
 

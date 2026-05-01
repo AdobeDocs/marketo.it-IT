@@ -4,9 +4,9 @@ description: Scopri come testare l’integrazione desktop di Facebook Lead Ads c
 title: Testare gli annunci sponsorizzati Facebook per l’integrazione desktop con Marketo
 exl-id: 2025b6e9-ecd7-4677-9f76-bc7813884e93
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '208'
 ht-degree: 4%
 
 ---
