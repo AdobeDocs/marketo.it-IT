@@ -3,9 +3,9 @@ description: Introduzione ai webinar interattivi in Marketo. Scopri i prerequisi
 title: Introduzione ai webinar interattivi
 feature: Interactive Webinars
 exl-id: 6e1409aa-a60a-4fb2-8abd-cdc0c20a20d9
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -29,8 +29,6 @@ Hai letto la [Panoramica dei webinar interattivi](/help/marketo/product-docs/dem
 **Passaggio cinque**: [Promuovi il tuo webinar](/help/marketo/product-docs/demand-generation/events/interactive-webinars/promoting-an-interactive-webinar.md){target="_blank"}: scopri suggerimenti utili su come promuovere il tuo prossimo evento.
 
 **Passaggio Sei**: [Distribuisci il webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/deliver-an-interactive-webinar.md){target="_blank"} — Tutto ciò che devi sapere sulla presentazione del webinar.
-
-Tutto qui.
 
 ## Documentazione aggiuntiva {#additional-documentation}
 

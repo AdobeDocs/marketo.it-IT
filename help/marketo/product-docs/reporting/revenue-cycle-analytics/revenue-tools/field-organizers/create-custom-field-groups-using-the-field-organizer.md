@@ -4,9 +4,9 @@ description: Scopri come creare gruppi di campi personalizzati utilizzando l’o
 title: Creare gruppi di campi personalizzati utilizzando l’Organizzatore di campi
 exl-id: 0425a446-2c92-4a2a-85c4-e05c22118035
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '984'
 ht-degree: 4%
 
 ---
@@ -183,5 +183,3 @@ Nelle tre sezioni successive viene descritto come creare un gruppo di campi pers
    L’esempio seguente mostra una voce per i lead del primo trimestre 2015 che passano al terzo trimestre.
 
    ![](assets/16.5.png)
-
-   Ed è tutto! Ottimo lavoro.

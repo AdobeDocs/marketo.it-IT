@@ -4,10 +4,10 @@ description: Scopri i gruppi di test delle pagine di destinazione in Marketo. Es
 title: Gruppi di test della pagina di destinazione
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 5%
+source-wordcount: '185'
+ht-degree: 7%
 
 ---
 
@@ -19,7 +19,7 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 >
 >[Creare due o più pagine di destinazione](/help/marketo/getting-started/quick-wins/landing-page-with-a-form.md), preferibilmente con un modulo.
 
-1. In Design Studio, fare clic su **[!UICONTROL New]**. Nel menu a discesa, seleziona **[!UICONTROL New Test Group]**.
+1. In Design Studio, fare clic su **[!UICONTROL New]**. Nel menu a discesa, selezionare **[!UICONTROL New Test Group]**.
 
    ![](assets/image2015-8-5-13-3a32-3a50.png)
 
@@ -42,11 +42,11 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 
    ![](assets/three-1.png)
 
-1. Fare clic sul menu a discesa **[!UICONTROL Test Group Actions]** e selezionare **[!UICONTROL Approve Test Group]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Test Group Actions]** e seleziona **[!UICONTROL Approve Test Group]**.
 
    ![](assets/four-1.png)
 
-   Tutto qui. Ora potrai confrontare le statistiche delle pagine di destinazione selezionate.
+   Ora puoi confrontare le statistiche delle pagine di destinazione selezionate.
 
    ![](assets/five.png)
 

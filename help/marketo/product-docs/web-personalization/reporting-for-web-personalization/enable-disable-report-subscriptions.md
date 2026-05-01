@@ -4,10 +4,10 @@ description: Scopri come abilitare o disabilitare le sottoscrizioni ai report pe
 title: Abilitare/Disabilitare le sottoscrizioni report
 exl-id: fbaebdd1-245b-4faf-b47f-fb17ea4d5417
 feature: Web Personalization
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '81'
-ht-degree: 13%
+source-wordcount: '78'
+ht-degree: 11%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 13%
 
    ![](assets/email-settings.png)
 
-   Tutto qui. Per annullare l&#39;iscrizione al report, deselezionare e fare clic su **[!UICONTROL Save]**.
+   Per annullare l&#39;iscrizione al report, deselezionare e fare clic su **[!UICONTROL Save]**.

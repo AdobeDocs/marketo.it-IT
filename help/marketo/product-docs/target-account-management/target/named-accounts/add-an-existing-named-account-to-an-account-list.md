@@ -4,10 +4,10 @@ description: Scopri come aggiungere un account con nome esistente a un elenco di
 title: Aggiungere un account denominato esistente a un elenco di account
 exl-id: 5c6c535c-05da-4d7e-b764-cdbbcc7ec415
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 15%
+ht-degree: 16%
 
 ---
 
@@ -30,8 +30,6 @@ L’aggiunta di un account denominato a un elenco di account è semplice.
 1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Account List]**, selezionare l&#39;elenco di account desiderato e fare clic su **[!UICONTROL Add]**.
 
    ![](assets/six-1.png)
-
-   Tutto qui!
 
 >[!MORELIKETHIS]
 >

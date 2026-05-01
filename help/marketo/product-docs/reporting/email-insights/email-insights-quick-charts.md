@@ -4,9 +4,9 @@ description: Scopri come creare e salvare i grafici rapidi come miniature per le
 title: Grafici rapidi su approfondimenti e-mail
 exl-id: 5c071694-af86-48bd-8159-f877c51364f2
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '246'
 ht-degree: 3%
 
 ---
@@ -55,11 +55,9 @@ In questo esempio, sceglieremo open rate per le prime tre settimane di febbraio 
 
    ![](assets/8.png)
 
-   Ed è tutto!
-
    >[!TIP]
    >
-   >Per spostare un grafico rapido, è sufficiente fare clic e trascinarlo nella posizione desiderata.
+   >Per spostare un grafico rapido, fare clic su di esso e trascinarlo nella posizione desiderata.
 
 ## Eliminare un grafico rapido {#delete-a-quick-chart}
 

@@ -4,10 +4,10 @@ description: Scopri come utilizzare una durata in un passaggio del flusso di att
 title: Utilizzare una durata in un passaggio di flusso di attesa
 exl-id: 7b13d225-78ba-4ef1-9ff5-0f6acde6e5ff
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 9%
+source-wordcount: '213'
+ht-degree: 8%
 
 ---
 
@@ -23,7 +23,7 @@ Puoi utilizzare il passaggio Flusso di attesa per mettere in pausa il percorso d
 
    ![](assets/use-a-duration-in-a-wait-flow-step-2.png)
 
-1. Tutto qui. Il flusso verrà messo in pausa per la durata specificata. Per opzioni avanzate, fai clic sull’icona a forma di ingranaggio a destra.
+1. Il flusso viene sospeso per la durata specificata. Per opzioni avanzate, fai clic sull’icona a forma di ingranaggio a destra.
 
    ![](assets/use-a-duration-in-a-wait-flow-step-3.png)
 

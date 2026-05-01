@@ -4,10 +4,10 @@ description: Scopri come archiviare o annullare l’archiviazione dei contenuti 
 title: Archiviazione e annullamento dell’archiviazione del contenuto del flusso
 exl-id: 45a7fec2-a98d-4a3f-8033-543cc88c499f
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 8%
+source-wordcount: '144'
+ht-degree: 6%
 
 ---
 
@@ -29,7 +29,7 @@ Se non desideri più utilizzare una parte di contenuto in un flusso, puoi [rimuo
 
    ![](assets/image2014-9-15-17-3a42-3a7.png)
 
-   Tutto qui. Ricorda, archivia se desideri preservare la cronologia.
+   Archivia se desideri conservare la cronologia.
 
 ## Annulla archiviazione contenuto flusso {#unarchive-stream-content}
 

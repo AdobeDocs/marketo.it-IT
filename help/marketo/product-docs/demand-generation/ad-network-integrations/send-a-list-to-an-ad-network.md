@@ -3,9 +3,9 @@ description: Scopri come inviare un elenco statico a LinkedIn, Facebook o Google
 title: Inviare un elenco a un ad network
 exl-id: d5c55df7-53c8-491a-9d79-ecf7c25cee08
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '216'
 ht-degree: 7%
 
 ---
@@ -40,7 +40,7 @@ Scopri come inviare un elenco statico a [!DNL LinkedIn], [!DNL Facebook] o Googl
    >
    >Se selezioni &quot;[!UICONTROL Enable continuous audience sync]&quot;, Marketo mantiene l&#39;elenco aggiornato nella rete di annunci scelta mentre l&#39;elenco cambia nell&#39;istanza di Marketo. Aggiungiamo entrambi **e** persone rimosse dal pubblico se vengono aggiunte o rimosse dall&#39;elenco statico.
 
-1. Ed è tutto! Fare clic su **[!UICONTROL OK]** per uscire.
+1. Fare clic su **[!UICONTROL OK]** per uscire.
 
    ![](assets/send-a-list-to-an-ad-network-5.png)
 

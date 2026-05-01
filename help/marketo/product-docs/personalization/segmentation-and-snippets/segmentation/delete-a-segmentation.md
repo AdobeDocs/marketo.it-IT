@@ -4,10 +4,10 @@ description: Scopri come eliminare una segmentazione non più necessaria. Rimuov
 title: Eliminare una segmentazione
 exl-id: d8d9b435-ced1-45cf-8615-d6a12a85bfcd
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 5%
+source-wordcount: '95'
+ht-degree: 6%
 
 ---
 
@@ -36,5 +36,3 @@ Per eliminare una segmentazione, segui i passaggi indicati di seguito.
 1. Una volta non approvata, fai clic su **[!UICONTROL Segmentation Actions]** e [!UICONTROL Delete] la segmentazione.
 
    ![](assets/image2017-3-28-15-3a51-3a46.png)
-
-Tutto qui. Non puoi recuperarlo, quindi assicurati di non averne più bisogno.

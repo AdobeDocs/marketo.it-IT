@@ -4,9 +4,9 @@ description: Scopri come impostare l’e-mail settimanale TAM Sales Report per i
 title: Configurazione del report TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '167'
 ht-degree: 6%
 
 ---
@@ -48,8 +48,6 @@ Il rapporto sulle vendite TAM è un’e-mail personalizzata inviata settimanalme
 1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/seven-2.png)
-
-Ed è tutto!
 
 ## Annullare l’abbonamento {#how-to-unsubscribe}
 

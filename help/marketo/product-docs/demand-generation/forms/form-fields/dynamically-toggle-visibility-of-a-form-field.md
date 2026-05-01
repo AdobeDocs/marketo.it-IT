@@ -4,9 +4,9 @@ description: Scopri come mostrare o nascondere dinamicamente un campo modulo in 
 title: Attivazione/disattivazione dinamica della visibilità di un campo modulo
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '253'
 ht-degree: 8%
 
 ---
@@ -65,10 +65,10 @@ Una caratteristica molto interessante di Marketo Forms è la possibilità di nas
 
    ![](assets/image2014-9-15-15-3a18-3a15.png)
 
-Ed è tutto! Ora, quando gli utenti compilano questo modulo e selezionano Stati Uniti per Paese, il campo Stato viene visualizzato in modo dinamico con le scelte specificate.
+Ora, quando gli utenti compilano questo modulo e selezionano Stati Uniti per Paese, il campo Stato viene visualizzato in modo dinamico con le scelte specificate.
 
 >[!IMPORTANT]
 >
->Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >I campi condizionali potrebbero non funzionare come previsto se i valori dei campi vengono modificati da script esterni diversi dall’API JavaScript di Forms 2.0.

@@ -4,10 +4,10 @@ description: Scopri come annullare l’approvazione di uno snippet per apportarv
 title: Annullare l’approvazione di uno snippet
 exl-id: e3797788-704c-461f-a7b0-dac39eeaa1a7
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 8%
+source-wordcount: '90'
+ht-degree: 6%
 
 ---
 
@@ -29,4 +29,4 @@ Uno snippet non approvato non può essere utilizzato nelle e-mail o nelle pagine
 
    ![](assets/image2014-9-16-10-3a41-3a54.png)
 
-Tutto qui. Lo stato del frammento è Bozza e consente di apportare modifiche o eliminarlo.
+Lo stato del frammento è Bozza e consente di apportare modifiche o eliminarlo.

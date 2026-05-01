@@ -4,10 +4,10 @@ description: Scopri come rimuovere il contenuto in streaming quando non è neces
 title: Rimuovere il contenuto flusso
 exl-id: caab3510-4f91-4832-9817-0d154475db31
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 8%
+source-wordcount: '121'
+ht-degree: 6%
 
 ---
 
@@ -31,4 +31,4 @@ Puoi rimuovere o archiviare una parte di contenuto. A differenza della rimozione
    >
    >Rimuovi contenuto solo se non ti interessa la cronologia. Se desideri conservare la cronologia, [archivia](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md).
 
-   Tutto qui. Ora sai come rimuovere una parte di contenuto.
+   Ora sai come rimuovere una parte di contenuto.

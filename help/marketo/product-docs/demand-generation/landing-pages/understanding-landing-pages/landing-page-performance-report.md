@@ -4,10 +4,10 @@ description: Scopri il rapporto sulle prestazioni della pagina di destinazione i
 title: Rapporto delle prestazioni della pagina di destinazione
 exl-id: 6cfe072d-5087-4e52-b387-73615f86e1eb
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 4%
+source-wordcount: '212'
+ht-degree: 3%
 
 ---
 
@@ -21,7 +21,7 @@ Scopri quante persone hanno compilato i moduli nelle pagine di destinazione e qu
 
 1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il [!UICONTROL Landing Page Performance] [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda [!UICONTROL Report].
-1. Tutto qui. Esplora il rapporto per valutare il funzionamento delle pagine di destinazione.
+1. Esplora il rapporto per valutare il funzionamento delle pagine di destinazione.
 
    ![](assets/image2014-9-16-15-3a53-3a33.png)
 

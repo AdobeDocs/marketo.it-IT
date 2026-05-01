@@ -4,9 +4,9 @@ description: Scopri come impostare la frequenza di flusso per i programmi di coi
 title: Impostare cadenza del flusso
 exl-id: 589eeefa-b2f6-4131-a72b-359c97ab98c0
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '374'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -68,8 +68,6 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
    >[!NOTE]
    >
    >In questo esempio, un’e-mail verrà inviata giovedì. Quindi saltiamo una settimana e inviamo di nuovo martedì, mercoledì e giovedì della settimana successiva. E poi ripetiamo il ciclo.
-
-Tutto qui. Continua a leggere se vuoi impostare una cadenza mensile.
 
 ## Mensile {#monthly}
 

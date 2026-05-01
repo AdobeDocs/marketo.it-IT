@@ -4,9 +4,9 @@ description: Scopri come installare e configurare Marketo Sales Insight in Micro
 title: Installare e configurare Marketo Sales Insight in Microsoft Dynamics 2011
 exl-id: 40622dcc-7129-4392-95dc-ca829c15c3a6
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '336'
+source-wordcount: '330'
 ht-degree: 6%
 
 ---
@@ -91,7 +91,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >I campi seguenti devono essere sincronizzati con Marketo Insight affinché _lead e contatto_ funzionino correttamente:
+   >I campi seguenti devono essere sincronizzati con Marketo affinché _lead e contatto_ funzionino correttamente:
    >
    >* Priorità
    >* Urgenza
@@ -143,11 +143,9 @@ Configurare i ruoli utente per consentire a utenti specifici l&#39;accesso a [!D
 
    ![](assets/image2015-5-4-11-3a36-3a59.png)
 
-   Ed è tutto! Tutti gli utenti con accesso potranno ora visualizzare la sezione sales insight nella vista lead/dettagli contatto.
+   Tutti gli utenti che hanno accesso ora potranno visualizzare la sezione sales insight nella vista lead/dettagli contatto.
 
    ![](assets/image2015-5-4-11-3a39-3a23.png)
-
-   Congratulazioni. Hai liberato la potenza di [!DNL Marketo Sales Insight].
 
 >[!MORELIKETHIS]
 >

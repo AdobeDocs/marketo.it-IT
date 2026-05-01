@@ -4,10 +4,10 @@ description: Scopri i rapporti Attività web dell’azienda, che mostrano le azi
 title: Rapporto su attività web della società
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 5%
+source-wordcount: '267'
+ht-degree: 4%
 
 ---
 
@@ -27,13 +27,13 @@ Crea un [report attività pagina Web](/help/marketo/product-docs/reporting/basic
 
 1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **[!UICONTROL Report]**.
 
-1. Tutto qui. Rivedi il rapporto per vedere quali aziende stanno visitando il tuo sito.
+1. Rivedi il rapporto per vedere quali aziende stanno visitando il tuo sito.
 
    ![](assets/image2014-9-16-11-3a0-3a24.png)
 
    >[!TIP]
    >
-   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_&#x200B;e scegli **[!UICONTROL Sort Descending]**.
+   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_e scegli **[!UICONTROL Sort Descending]**.
 
    [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report Attività Web della società includono:
 
@@ -47,7 +47,7 @@ Crea un [report attività pagina Web](/help/marketo/product-docs/reporting/basic
  <tbody>
   <tr>
    <td>Azienda</td>
-   <td>L’azienda dei visitatori.<br> <strong>I nomi in grassetto</strong> sono confermati come nome della società da almeno una persona.</td>
+   <td>Azienda dei visitatori.<br> <strong>I nomi in grassetto</strong> sono confermati come nome della società da almeno una persona.</td>
   </tr>
   <tr>
    <td>Società o ISP dedotto</td>

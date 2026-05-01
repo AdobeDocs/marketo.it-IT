@@ -4,10 +4,10 @@ description: Scopri come approvare un frammento in modo che possa essere utilizz
 title: Approvare uno snippet
 exl-id: 9dd123dc-6a8c-483e-ba2b-e7dde2c97f5f
 feature: Snippets
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 11%
+source-wordcount: '71'
+ht-degree: 8%
 
 ---
 
@@ -27,7 +27,7 @@ Uno snippet deve essere approvato prima dell&#39;uso.
 
    ![](assets/image2014-9-16-8-3a55-3a24.png)
 
-Tutto qui. Lo stato del frammento cambia da Bozza ad Approvato.
+Lo stato del frammento cambia da Bozza ad Approvato.
 
 >[!MORELIKETHIS]
 >

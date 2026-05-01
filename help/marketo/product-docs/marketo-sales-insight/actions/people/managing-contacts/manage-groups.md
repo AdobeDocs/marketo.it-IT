@@ -3,9 +3,9 @@ description: Scopri come gestire gruppi di contatti in Azioni Sales Insight. Cre
 title: Gestire i gruppi
 exl-id: 9b21f552-d4ba-40ed-b4a7-0070cf3e7201
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '324'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
   </tr>
   <tr>
    <td>[!UICONTROL Dynamic Groups]</td>
-   <td>Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td>
+   <td>Contatti personali: tutti i contatti di cui sei proprietario.<br>Annulla iscrizione: contatti che hanno rinunciato a ricevere corrispondenza.</td>
   </tr>
   <tr>
    <td>[!UICONTROL My Groups]</td>
@@ -54,8 +54,6 @@ Scopri come gestire i gruppi in [!DNL Sales Insight Actions].
 1. Assegna un nome al gruppo e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/manage-groups-2.png)
-
-   Tutto qui!
 
 ## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
 

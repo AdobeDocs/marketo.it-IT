@@ -4,9 +4,9 @@ description: Scopri come gestire i gruppi in Sales Connect. Crea, modifica, cond
 title: Gestire i gruppi
 exl-id: 8788c9ab-7d52-4b8d-96eb-26fd1a07b0f5
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '266'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,6 @@ Scopri come gestire i gruppi in [!DNL Sales Connect].
 1. Assegna un nome al gruppo e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/two-3.png)
-
-   Tutto qui.
 
 ## Aggiungere contatti a un gruppo {#add-contacts-to-a-group}
 

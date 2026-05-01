@@ -4,10 +4,10 @@ description: Scopri come creare un’e-mail in Marketo. Scegli un modello o iniz
 title: Creare un’e-mail
 exl-id: 58388c21-d3f7-4101-a375-05e9b68a278e
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 6%
+source-wordcount: '205'
+ht-degree: 7%
 
 ---
 
@@ -44,8 +44,6 @@ Semplice! Ora per il contrario...
 1. Fai clic su **[!UICONTROL Email]**.
 
    ![](assets/create-an-email-5.png)
-
-   Ed è tutto!
 
 Il metodo scelto consente di passare al selettore di modelli.
 

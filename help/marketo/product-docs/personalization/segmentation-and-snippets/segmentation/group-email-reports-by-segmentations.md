@@ -4,10 +4,10 @@ description: Scopri come raggruppare il rapporto sulle prestazioni delle e-mail 
 title: Raggruppare rapporti e-mail per segmentazioni
 exl-id: dd023dca-02a4-40c7-9cb8-53024597e671
 feature: Segmentation
-source-git-commit: 80b39eb99cdaacf4c9655aa175da3d22548dcca6
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 13%
+source-wordcount: '117'
+ht-degree: 11%
 
 ---
 
@@ -35,7 +35,7 @@ Le segmentazioni non sono solo per il contenuto dinamico. Puoi anche raggruppare
 
    ![](assets/image2014-9-16-9-3a17-3a9.png)
 
-1. Tutto qui. Fai clic sulla scheda **[!UICONTROL Report]**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
+1. Fai clic sulla scheda **[!UICONTROL Report]**. Se utilizzi una segmentazione, il rapporto mostra una riga per ogni segmento.
 
    ![](assets/image2014-9-16-9-3a17-3a17.png)
 

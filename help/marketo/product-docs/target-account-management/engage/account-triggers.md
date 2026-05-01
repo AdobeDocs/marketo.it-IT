@@ -4,10 +4,10 @@ description: Scopri come ascoltare e agire sulle attività comportamentali a liv
 title: Trigger account
 exl-id: cf8d49ed-58c4-49d0-95e2-e5df8c9bef50
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 5%
+source-wordcount: '109'
+ht-degree: 3%
 
 ---
 
@@ -39,7 +39,7 @@ Fai clic sull’elenco a discesa dell’account denominato...
 
 ![](assets/six-1.png)
 
-Tutto qui. Dopo aver completato il resto della campagna avanzata, ricordati di attivarla.
+Dopo aver completato il resto della campagna avanzata, assicurati di attivarla.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Scopri come aggiungere token ai collegamenti e-mail. Inserisci valo
 title: Aggiungere token a un collegamento e-mail
 exl-id: b04d279a-b71a-4975-9992-23a51d075856
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '86'
 ht-degree: 17%
 
 ---
@@ -34,8 +34,6 @@ Per inserire nei collegamenti parametri aggiuntivi e specifici della persona, pu
 1. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/five.png)
-
-   Ed è tutto!
 
 >[!MORELIKETHIS]
 >

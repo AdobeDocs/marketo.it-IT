@@ -4,10 +4,10 @@ description: Scopri come aggiungere persone a un account denominato utilizzando 
 title: Aggiungere persone a un account denominato
 exl-id: 1fbe7cd2-7324-4b03-ba8b-66e35baaec03
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 5%
+source-wordcount: '167'
+ht-degree: 4%
 
 ---
 
@@ -51,7 +51,7 @@ Esistono tre modi diversi per aggiungere manualmente persone a un account denomi
 
    ![](assets/eight.png)
 
-   Tutto qui. Successivamente, pianifica (o attiva) la tua campagna avanzata e, nel passaggio del flusso, verranno aggiunte persone qualificate all’account denominato designato.
+   Successivamente, pianifica (o attiva) la tua smart campaign e il passaggio del flusso inizierà ad aggiungere persone qualificate all’account denominato designato.
 
 ## Importazione elenco {#list-import}
 

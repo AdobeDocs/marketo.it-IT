@@ -4,10 +4,10 @@ description: Scopri come riordinare le colonne del rapporto trascinandole e rila
 title: Riordinare le colonne in un rapporto
 exl-id: 4906807f-f6e3-413a-b581-75bcec02019b
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 7%
+source-wordcount: '105'
+ht-degree: 5%
 
 ---
 
@@ -27,7 +27,7 @@ Puoi modificare l’ordine delle colonne in un rapporto.
 
    ![](assets/image2014-9-16-10-3a50-3a34.png)
 
-1. Tutto qui. Le colonne vengono ora visualizzate nel nuovo ordine.
+1. Le colonne vengono ora visualizzate nel nuovo ordine.
 
    ![](assets/image2014-9-16-10-3a50-3a37.png)
 

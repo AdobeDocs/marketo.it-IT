@@ -4,10 +4,10 @@ description: Scopri come abbonare gli indirizzi e-mail ai rapporti di base per r
 title: Abbonati a un rapporto di base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 12%
+source-wordcount: '131'
+ht-degree: 11%
 
 ---
 
@@ -42,8 +42,6 @@ Per ricevere aggiornamenti automatici di un report di base o per condividerli, �
    >[!NOTE]
    >
    >Chiunque può annullare l’abbonamento al report nell’e-mail che riceve.
-
-   Tutto qui. Controlla la tua casella in entrata!
 
    ![](assets/image2014-9-16-10-3a32-3a49.png)
 

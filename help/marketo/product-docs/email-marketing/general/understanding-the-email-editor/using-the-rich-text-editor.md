@@ -4,9 +4,9 @@ description: Scopri come utilizzare l’editor Rich Text per i contenuti delle e
 title: Utilizzo dell’editor Rich Text
 exl-id: 9b2d6d41-f947-4859-aad9-a10c15eb013a
 feature: Email Editor
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '679'
 ht-degree: 3%
 
 ---
@@ -131,5 +131,3 @@ L’impostazione dell’elemento del blocco principale definisce i tag che racch
 1. Nel menu a discesa **[!UICONTROL Landing Page Editor]**, selezionare `<p>` o [!UICONTROL None] e fare clic su **[!UICONTROL Save]**. `<p>` è utilizzato in questo esempio.
 
    ![](assets/five.png)
-
-   Ed è tutto!

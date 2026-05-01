@@ -4,9 +4,9 @@ description: Scopri come creare un modello e-mail in Editor e-mail 2.0. Crea mod
 title: Creare un modello e-mail
 exl-id: dfd91254-03fa-4f91-995d-ae4fe549a98d
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
@@ -64,8 +64,6 @@ Se hai creato un’e-mail da salvare come modello da utilizzare in futuro, segui
 1. Fare clic sull&#39;elenco a discesa **[!UICONTROL Folder]**, selezionare la posizione in cui si desidera inserire il modello e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/five-1.png)
-
-   Ed è tutto!
 
    >[!CAUTION]
    >

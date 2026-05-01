@@ -4,9 +4,9 @@ description: Scopri come eliminare contenuti dalla pagina Tutti i contenuti quan
 title: Eliminare contenuto
 exl-id: b4463baf-689f-432e-bf5b-375fe218a407
 feature: Predictive Content
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '68'
 ht-degree: 14%
 
 ---
@@ -22,5 +22,3 @@ Quando non hai più bisogno di contenuti, puoi eliminarli facilmente.
 1. Fai clic sul menu a discesa **[!UICONTROL Content Actions]** e seleziona **[!UICONTROL Delete Content]**.
 
    ![](assets/image2017-10-3-9-3a9-3a12.png)
-
-   Tutto qui.

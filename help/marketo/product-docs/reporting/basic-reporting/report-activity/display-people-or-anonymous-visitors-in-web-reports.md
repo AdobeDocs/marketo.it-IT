@@ -4,7 +4,7 @@ description: Scopri le persone o i visitatori anonimi da visualizzare nei rappor
 title: Visualizzare persone o visitatori anonimi nei rapporti web
 exl-id: 6a9aa3d3-74bb-4812-b706-ac8b0bcfec50
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 10%
@@ -35,7 +35,7 @@ Nei report [[!UICONTROL Web Page Activity]](/help/marketo/product-docs/reporting
    >
    >L’inclusione degli ISP per i visitatori anonimi genera un rapporto più lungo, ma l’esclusione di questi fornisce una visione più chiara di dove provengono i visitatori oltre alle sorgenti standard, come Google.
 
-1. Tutto qui. Fare clic sulla scheda **[!UICONTROL Report]** per tornare indietro e visualizzare il report con persone note o anonime.
+1. Fare clic sulla scheda **[!UICONTROL Report]** per tornare indietro e visualizzare il report con persone note o anonime.
 
    ![](assets/image2015-3-10-11-3a48-3a36.png)
 

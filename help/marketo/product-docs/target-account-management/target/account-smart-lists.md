@@ -4,9 +4,9 @@ description: Scopri come creare elenchi avanzati di account per identificare acc
 title: Elenchi avanzati di account
 exl-id: fbdfb2b8-0061-467d-be89-527744a659a9
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '444'
 ht-degree: 2%
 
 ---
@@ -77,7 +77,7 @@ Ecco come apparirà il contenitore.
 >
 >La creazione di un contenitore di filtri crea una regola &quot;e&quot;, che restituisce solo tutti i risultati combinati. In questo esempio, gli account con un settore sanitario, oltre a trovarsi in California _e_ con qualcuno elencato come CFO. Se non desideri utilizzare i contenitori, rilascia semplicemente il filtro al di sotto/al di sopra di quello esistente.
 
-Ed è tutto! Consulta la sezione seguente per scoprire come utilizzare [!UICONTROL Account Smart List].
+Consulta la sezione seguente per scoprire come utilizzare [!UICONTROL Account Smart List].
 
 >[!TIP]
 >

@@ -4,10 +4,10 @@ description: Scopri come filtrare gli account denominati per limitare rapidament
 title: Filtraggio degli account denominati
 exl-id: 4592ff5e-e2bf-408c-b213-e582110b83e4
 feature: Target Account Management
-source-git-commit: b4fcaeab734a44bbac52c7ee7ebce2da085fa686
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 10%
+source-wordcount: '131'
+ht-degree: 12%
 
 ---
 
@@ -39,7 +39,7 @@ Il filtro è un ottimo modo per limitare i dati rapidamente.
 
    ![](assets/four-2.png)
 
-   Ed è tutto! I risultati filtrati vengono visualizzati sul lato sinistro della schermata.
+   I risultati filtrati vengono visualizzati sul lato sinistro della schermata.
 
    >[!NOTE]
    >

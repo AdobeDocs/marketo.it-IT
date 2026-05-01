@@ -4,9 +4,9 @@ description: Scopri come clonare rapporti per creare duplicati da personalizzare
 title: Clonare un rapporto
 exl-id: ca1485a1-0c07-4261-8aa5-9d9f8d29046d
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '88'
 ht-degree: 6%
 
 ---
@@ -31,7 +31,7 @@ Crea un duplicato del rapporto per personalizzarlo ulteriormente senza modificar
 
    ![](assets/image2014-9-16-14-3a23-3a57.png)
 
-   Tutto qui: sei pronto per iniziare a personalizzare il tuo clone!
+   Il clone è ora disponibile per la personalizzazione.
 
    >[!MORELIKETHIS]
    >

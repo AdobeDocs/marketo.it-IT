@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---
@@ -46,4 +46,4 @@ Assegna agli eventi obiettivi specifici e ne osserva le prestazioni.
 >
 >Non puoi impostare gli obiettivi per un evento dopo il suo avvio.
 
-Ed è tutto! Controllare lo stato dell&#39;obiettivo dell&#39;evento facendo clic sulla scheda [!UICONTROL Reports].
+Controllare lo stato dell&#39;obiettivo dell&#39;evento facendo clic sulla scheda [!UICONTROL Reports].

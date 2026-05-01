@@ -4,9 +4,9 @@ description: Scopri come creare un pubblico personalizzato in Facebook da Market
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '236'
 ht-degree: 6%
 
 ---
@@ -58,7 +58,7 @@ ht-degree: 6%
 
    ![](assets/create-a-custom-audience-in-facebook-6.png)
 
-   Ed è tutto! In Facebook il nuovo pubblico verrà visualizzato in **Ads Manager** > **Audiences**.
+   In Facebook il nuovo pubblico verrà visualizzato in **Ads Manager** > **Audiences**.
 
    ![](assets/create-a-custom-audience-in-facebook-7.png)
 
