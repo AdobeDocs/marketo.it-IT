@@ -18,7 +18,7 @@ Vuoi ricevere un avviso ogni volta che viene creata una persona duplicata? Ecco 
 1. [Crea una nuova campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign.md){target="_blank"}. Definisci il seguente elenco avanzato:
 
 * Trigger: **[!UICONTROL Person is Created]**
-* Filtro: **[!UICONTROL Duplicate Fields]**. Nome Campo **[!UICONTROL is][!UICONTROL Full Name]**
+* Filtro: **[!UICONTROL Duplicate Fields]**. Nome Campo **[!UICONTROL is]&#x200B;[!UICONTROL Full Name]**
 
   ![](assets/automate-an-alert-1.png)
 
