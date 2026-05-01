@@ -121,4 +121,4 @@ Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle
 
 ## Riepilogo {#summary}
 
-Come potete vedere, Marketo ha una grande potenza. Le nozioni di base sono trattate qui, ma considera ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurare se stessi per il successo.
+Come potete vedere, Marketo ha una grande potenza. Le nozioni di base sono trattate qui, ma considera ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"} per perfezionare e configurare se stessi per il successo.
