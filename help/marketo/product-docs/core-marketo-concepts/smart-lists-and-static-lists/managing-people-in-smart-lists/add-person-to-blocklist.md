@@ -4,9 +4,9 @@ description: Scopri come aggiungere una persona al inserisco nell'elenco Bloccat
 title: Aggiungere persone all’elenco Bloccati
 exl-id: e4543bf9-11e9-42df-a31e-e2cebe24ad4a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '162'
 ht-degree: 9%
 
 ---
@@ -53,7 +53,7 @@ L’aggiunta di persone al tuo Elenco Bloccati di impedisce loro di ricevere la 
 
    ![](assets/add-person-to-blocklist-8.png)
 
-1. Seleziona l’elenco avanzato appena creato.
+1. Selezionare l&#39;elenco avanzato creato.
 
    ![](assets/add-person-to-blocklist-9.png)
 

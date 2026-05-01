@@ -4,16 +4,16 @@ description: Scopri come trovare persone duplicate con logica personalizzata. Cr
 title: Trovare persone duplicate con logica personalizzata
 exl-id: e268ca34-03a3-403a-8869-4e2b60bba05c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 18%
+source-wordcount: '135'
+ht-degree: 17%
 
 ---
 
 # Trovare persone duplicate con logica personalizzata {#find-duplicate-people-with-custom-logic}
 
-Marketo Engage dispone di un elenco avanzato del sistema che trova le persone duplicate in base ai loro indirizzi e-mail. Se desideri utilizzare un altro campo per trovare duplicati con, ecco come.
+Marketo Engage dispone di un elenco avanzato del sistema che trova le persone duplicate in base ai loro indirizzi e-mail. Se desideri utilizzare un altro campo per trovare duplicati con, segui i passaggi seguenti.
 
 >[!PREREQUISITES]
 >
@@ -44,4 +44,4 @@ Marketo Engage dispone di un elenco avanzato del sistema che trova le persone du
 
    ![](assets/four-2.png)
 
-   Fine. Esegui Smart List per trovare persone con lo stesso valore nel campo selezionato in precedenza.
+   Esegui Smart List per trovare persone con lo stesso valore nel campo selezionato in precedenza.

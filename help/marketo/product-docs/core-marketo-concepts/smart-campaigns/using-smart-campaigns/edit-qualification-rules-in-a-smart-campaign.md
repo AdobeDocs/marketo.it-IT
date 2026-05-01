@@ -4,16 +4,16 @@ description: Scopri come modificare le regole di qualifica in una campagna intel
 title: Modificare le regole di qualificazione in una campagna avanzata
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '188'
 ht-degree: 7%
 
 ---
 
 # Modificare le regole di qualificazione in una campagna avanzata {#edit-qualification-rules-in-a-smart-campaign}
 
-Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna avanzata. Per impostazione predefinita, anche se un utente attiva più volte una campagna avanzata, il messaggio viene inviato tramite il flusso solo una volta. Per modificare queste impostazioni, procedere come segue.
+Le regole di qualifica controllano quante volte un utente può eseguire il flusso in una campagna avanzata. Per impostazione predefinita, anche se un utente attiva più volte una campagna avanzata, il messaggio viene inviato tramite il flusso solo una volta.
 
 1. In Smart Campaign, fai clic sulla scheda **[!UICONTROL Schedule]** e quindi su **[!UICONTROL Edit Settings]**.
 

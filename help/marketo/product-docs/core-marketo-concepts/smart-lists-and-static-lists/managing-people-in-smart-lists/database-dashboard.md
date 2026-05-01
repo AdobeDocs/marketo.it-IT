@@ -4,9 +4,9 @@ description: Scopri il dashboard Database in Marketo. Visualizzare rapidamente l
 title: Dashboard del database
 exl-id: 44b00d28-a224-4f09-8307-468c14ddb0df
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '182'
 ht-degree: 2%
 
 ---
@@ -31,8 +31,8 @@ I grafici indicano il numero totale di persone, il numero di persone commerciabi
 
 >[!TIP]
 >
->Desideri ottenere informazioni più specifiche o tempestive sulle tue persone? Prova un [report sulle prestazioni delle persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
+>Per informazioni più specifiche o tempestive sulle persone, prova un [Rapporto prestazioni persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md){target="_blank"}.
 
 **Persone totali:** il numero di persone di ogni tempo per l&#39;area di lavoro elencata.
 
-inserire nell&#39;elenco Bloccati **Persone idonee per il marketing:** Il numero di persone di ogni tempo per l&#39;area di lavoro elencata, _meno le seguenti_: persone senza un indirizzo e-mail, persone la cui e-mail è stata duramente recapitata, persone che sono state, persone che hanno annullato l&#39;iscrizione, persone attualmente impostate su Marketing sospeso.
+**Persone idonee per il marketing:** Il numero di persone di ogni tempo per l&#39;area di lavoro elencata, _meno le seguenti_: persone senza un indirizzo e-mail, persone la cui e-mail è stata duramente recapitata, persone che sono state, persone che hanno annullato l&#39;iscrizione, persone attualmente impostate su Marketing sospeso.

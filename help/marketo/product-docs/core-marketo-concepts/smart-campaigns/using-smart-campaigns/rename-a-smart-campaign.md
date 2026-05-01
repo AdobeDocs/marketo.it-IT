@@ -4,16 +4,16 @@ description: Scopri come rinominare una campagna avanzata. Modifica il nome dell
 title: Rinominare una campagna avanzata
 exl-id: 116dff4a-56ca-451a-bbab-f277e4f3daf9
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 12%
+source-wordcount: '93'
+ht-degree: 10%
 
 ---
 
 # Rinominare una campagna avanzata {#rename-a-smart-campaign}
 
-Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
+Puoi modificare il nome di una campagna avanzata esistente.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -35,4 +35,4 @@ Puoi modificare il nome di una campagna avanzata esistente. Ecco come.
    >
    >Il vecchio nome è visibile nella scheda e cambia durante il salvataggio.
 
-Veloce e facile! Verrà modificato anche qualsiasi punto in cui si fa riferimento alla campagna avanzata.
+Verrà aggiornato anche qualsiasi punto in cui si fa riferimento alla campagna avanzata.

@@ -4,16 +4,16 @@ description: Scopri come eliminare una campagna avanzata. Rimuovi una campagna n
 title: Azioni campagna - Eliminare una campagna avanzata
 exl-id: 11a210c8-3375-4e12-a97f-a70a9115a197
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '117'
-ht-degree: 12%
+ht-degree: 11%
 
 ---
 
 # Azioni campagna: eliminare una campagna avanzata {#campaign-actions-delete-a-smart-campaign}
 
-Se disponi di una vecchia campagna avanzata di cui non hai più bisogno, puoi eliminarla. Ecco come.
+Se disponi di una vecchia campagna avanzata di cui non hai più bisogno, puoi eliminarla.
 
 >[!CAUTION]
 >

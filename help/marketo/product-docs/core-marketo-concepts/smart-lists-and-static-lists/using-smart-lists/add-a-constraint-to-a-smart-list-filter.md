@@ -4,9 +4,9 @@ description: Scopri come aggiungere un vincolo a un filtro di elenco avanzato. A
 title: Aggiungere un vincolo a un filtro dell’elenco avanzato
 exl-id: 5345019c-55e7-4afd-b583-90f1a687a71c
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '167'
 ht-degree: 10%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 Durante la creazione di un elenco avanzato, alcuni filtri dispongono di opzioni avanzate denominate &quot;vincoli&quot;. Si tratta di condizioni aggiuntive che puoi aggiungere ai filtri e ai trigger per restringere ulteriormente la ricerca.
 
-In questo esempio, aggiungiamo alcuni vincoli a un filtro **[Valore dati modificato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** per trovare persone con uno stato cambiato da MQL a SQL.
+In questo esempio, aggiungi alcuni vincoli a un filtro **[Valore dati modificato](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}** per trovare persone con stato cambiato da MQL a SQL.
 
 >[!PREREQUISITES]
 >
@@ -46,4 +46,4 @@ In questo esempio, aggiungiamo alcuni vincoli a un filtro **[Valore dati modific
 
    ![](assets/add-a-constraint-to-a-smart-list-filter-6.png)
 
-1. Ben fatto! Fare clic sulla scheda **[!UICONTROL People]** per visualizzare tutte le persone che hanno avuto un cambiamento di stato da &quot;MQL&quot; a &quot;SQL&quot; negli ultimi 30 giorni.
+1. Fare clic sulla scheda **[!UICONTROL People]** per visualizzare tutte le persone che hanno avuto un cambiamento di stato da &quot;MQL&quot; a &quot;SQL&quot; negli ultimi 30 giorni.

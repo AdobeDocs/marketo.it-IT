@@ -4,9 +4,9 @@ description: Scopri i token di campo personalizzati dei membri del programma. Ut
 title: Token campo personalizzato del membro del programma
 exl-id: 3046dec8-b885-4b08-baa9-896bcf3594b2
 feature: Tokens
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '423'
 ht-degree: 5%
 
 ---
@@ -51,7 +51,7 @@ Puoi inserire token dei campi personalizzati dei membri del programma in e-mail,
 
 >[!NOTE]
 >
->Non dimenticare di approvare l’e-mail.
+>Ricorda di approvare l’e-mail.
 
 **Pagine di destinazione**
 

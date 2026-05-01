@@ -4,16 +4,16 @@ description: Scopri come creare un elenco avanzato in Marketo. Aggiungere un ele
 title: Creare un elenco avanzato
 exl-id: 3acab0f8-44c9-4346-add7-8b317aa82471
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 12%
+source-wordcount: '78'
+ht-degree: 14%
 
 ---
 
 # Creare un elenco avanzato {#create-a-smart-list}
 
-Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzando filtri semplici. Ecco come crearne una.
+Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzando filtri semplici.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -35,7 +35,7 @@ Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzan
 
    ![](assets/create-a-smart-list-5.png)
 
-   Ta-da, ottimo lavoro! Ora aggiungiamo e definiamo alcuni filtri.
+   Ora aggiungi e definisci alcuni filtri.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Scopri le date provvisorie e confermate nella Vista pianificazione 
 title: Informazioni sulle date provvisorie/confermate
 exl-id: af6b907f-e4d8-432f-b1da-dd7c04376ba8
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '207'
 ht-degree: 4%
 
 ---
@@ -47,8 +47,8 @@ Le voci confermate verranno sicuramente eseguite. Hanno regole, risorse approvat
 
 ## Terminato  {#finished}
 
-Le voci completate sono già state eseguite. Possono essere solo nel passato (ovviamente). Una volta che una voce è stata eseguita ed è **[!UICONTROL Finished]**, non è possibile spostarla o renderla provvisoria. (Nessuna realtà mutevole e interruzione del flusso temporale).
+Le voci completate sono già state eseguite. Possono essere solo nel passato. Una volta che una voce è stata eseguita ed è **[!UICONTROL Finished]**, non è possibile spostarla o renderla provvisoria.
 
 ![](assets/image2014-9-23-15-3a25-3a53.png)
 
-Questi stati sono strumenti potenti. Quando cloni un programma, tutte le date della campagna intelligente e del programma e-mail saranno provvisorie. Possono essere tutti confermati dalla vista pianificazione. Fantastico, vero?
+Questi stati sono strumenti potenti. Quando cloni un programma, tutte le date della campagna intelligente e del programma e-mail saranno provvisorie. Possono essere tutti confermati dalla vista pianificazione.

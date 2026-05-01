@@ -4,9 +4,9 @@ description: Scopri come aggiungere persone a una campagna Salesforce con un pas
 title: Aggiungere a campagna SFDC
 exl-id: a5e14cc7-fd83-4a2c-aacb-e515669c9d21
 feature: Smart Campaigns, Salesforce Integration
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 4%
 
 ---
@@ -31,7 +31,7 @@ Questo passaggio di flusso può essere utilizzato nelle campagne Marketo Engage 
    >
    >Se non riesci a visualizzare una campagna Salesforce nell’elenco delle campagne:
    >
-   > 1. Assicurarsi che la sincronizzazione della [campagna sia abilitata](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
+   > 1. Verificare che la sincronizzazione della [campagna sia abilitata](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync.md){target="_blank"}.
    > 1. Conferma che il tuo [utente Marketo Sync](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md){target="_blank"} è un [utente Marketing](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/enable-disable-campaign-sync/make-marketo-sync-user-a-marketing-user.md){target="_blank"} in Salesforce.
 
    >[!TIP]

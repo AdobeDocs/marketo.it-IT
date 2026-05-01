@@ -4,9 +4,9 @@ description: Scopri come applicare i limiti di comunicazione a una campagna inte
 title: Applicare limiti di comunicazione a campagne avanzate
 exl-id: b33885ba-6811-47ab-9db9-099d35ca49df
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 8%
 
 ---

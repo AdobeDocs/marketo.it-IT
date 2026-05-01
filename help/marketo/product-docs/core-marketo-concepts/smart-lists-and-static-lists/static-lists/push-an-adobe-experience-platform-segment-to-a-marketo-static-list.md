@@ -3,9 +3,9 @@ description: Scopri come inviare un segmento Adobe Experience Platform a un elen
 title: Inviare un segmento Adobe Experience Platform a un elenco statico Marketo
 exl-id: 8df11bf4-06f4-4927-8dfb-954414fce6dc
 feature: Static Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '625'
+source-wordcount: '626'
 ht-degree: 4%
 
 ---
@@ -16,9 +16,9 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
 >[!PREREQUISITES]
 >
->* [Modifica il ruolo API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} per assicurarti che disponga dell&#39;autorizzazione **Persona di lettura/scrittura** (disponibile nel menu a discesa API di Access).
+>* [Modifica il ruolo API](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md#edit-an-existing-role){target="_blank"} per confermare che dispone dell&#39;autorizzazione **Persona di lettura/scrittura** (disponibile nel menu a discesa API di Access).
 >* [Crea un utente API](/help/marketo/product-docs/administration/users-and-roles/create-api-only-user.md){target="_blank"} in Marketo.
->* Vai a **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Trovare il nome del ruolo appena creato e fare clic su **[!UICONTROL View Details]**. Copiare e salvare le informazioni in **[!UICONTROL Client ID]** e **[!UICONTROL Client Secret]**, in quanto potrebbero essere necessarie per il passaggio 7.
+>* Vai a **[!UICONTROL Admin]** > **[!UICONTROL Launchpoint]**. Trovare il nome del ruolo creato e fare clic su **[!UICONTROL View Details]**. Copiare e salvare le informazioni in **[!UICONTROL Client ID]** e **[!UICONTROL Client Secret]**, in quanto potrebbero essere necessarie per il passaggio 7.
 >* In Marketo, crea un elenco statico oppure individuane e selezionane uno già creato. Avrai bisogno del suo ID.
 
 1. Accedi a [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
@@ -63,7 +63,7 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
    >[!NOTE]
    >
-   >Se scegli &quot;[!UICONTROL Match Existing Marketo People Only]&quot;, dovrai mappare solo l&#39;e-mail e/o l&#39;ECID, quindi puoi saltare i passaggi 13-16.
+   >Se scegli &quot;[!UICONTROL Match Existing Marketo People Only]&quot;, dovrai mappare solo l&#39;e-mail o l&#39;ECID, quindi puoi saltare i passaggi 13-16.
 
 1. Questa sezione è facoltativa. Fai clic su **[!UICONTROL Create]** per saltare.
 
@@ -79,7 +79,7 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
    >[!NOTE]
    >
-   >Se scegli più segmenti, dovrai mappare ogni segmento a un elenco statico specificato nella scheda [!UICONTROL Segment Schedule].
+   >Se si scelgono più segmenti, sarà necessario mappare ogni segmento a un elenco statico specificato nella scheda [!UICONTROL Segment Schedule].
 
    >[!IMPORTANT]
    >
@@ -99,7 +99,7 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
    >[!NOTE]
    >
-   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
+   >È possibile mappare gli attributi da Experience Platform a qualsiasi attributo a cui la tua organizzazione ha accesso in Marketo Engage. Utilizza [Descrizione richiesta API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/lead-database/lead-database#describe){target="_blank"} per recuperare i campi attributo a cui la tua organizzazione ha accesso.
 
 1. Mappare il cognome e il nome della società facendo nuovamente clic su **[!UICONTROL Add New Mapping]** e ripetendo due volte il passaggio 15, scegliendo **[!UICONTROL lastName]** e quindi **[!UICONTROL companyName]**.
 
@@ -119,7 +119,7 @@ Questa funzione consente di inviare a Marketo Engage i segmenti presenti nel Ado
 
    >[!IMPORTANT]
    >
-   >La mappatura di e-mail e/o ECID dalla scheda **[!UICONTROL Identity Namespace]** è la cosa più importante da fare per garantire che la persona corrisponda in Marketo. La mappatura dell’e-mail garantirà la percentuale di corrispondenza più elevata.
+   >La mappatura di e-mail o ECID dalla scheda **[!UICONTROL Identity Namespace]** è la cosa più importante da fare per garantire che la persona corrisponda in Marketo. La mappatura dell’e-mail garantirà la percentuale di corrispondenza più elevata.
 
 1. Ora è il momento di scegliere i campi sorgente. Per l’e-mail, fai clic sull’icona del cursore.
 

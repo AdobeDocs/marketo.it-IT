@@ -4,9 +4,9 @@ description: Ottenere informazioni sugli operatori di filtro elenchi smart. Scop
 title: Glossario operatori di filtro dell’elenco avanzato
 exl-id: 5a370482-f214-4909-bb49-801c1a36b153
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '601'
 ht-degree: 15%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 15%
 
 Un operatore fa parte dell’elenco avanzato, che consente di ottenere specifiche. Ti consente di descrivere il filtro o l’attivatore in un linguaggio semplice. Gli operatori disponibili sono diversi per ogni tipo di campo.
 
-Di seguito è riportato un glossario che descrive ogni insieme di operatori.
+Questo glossario descrive ogni insieme di operatori.
 
 ## Campi data {#date-fields}
 
@@ -102,7 +102,7 @@ Quando scegli un operatore, il lato destro cambia in modo dinamico.
   </tr>
 </tbody></table>
 
-**&#42;** L&#39;input del linguaggio naturale è cool. Di seguito sono riportati alcuni dei pattern che è possibile immettere:
+**&#42;** L&#39;input del linguaggio naturale utilizza i seguenti pattern:
 
 * 1 ora
 * 82 giorni
@@ -110,7 +110,7 @@ Quando scegli un operatore, il lato destro cambia in modo dinamico.
 * 14 mesi
 * 1 anno
 
-Basta digitare il numero e l&#39;unità e funzionerà!
+Digitare insieme il numero e l&#39;unità.
 
 >[!NOTE]
 >
@@ -236,4 +236,4 @@ Utilizza il diagramma seguente per comprendere la differenza tra gli operatori d
 </tbody>
 </table>
 
-Come potete vedere, questi operatori facilitano l&#39;uso del linguaggio Marketo con fluenza!
+Come potete vedere, questi operatori facilitano l&#39;uso del linguaggio Marketo.

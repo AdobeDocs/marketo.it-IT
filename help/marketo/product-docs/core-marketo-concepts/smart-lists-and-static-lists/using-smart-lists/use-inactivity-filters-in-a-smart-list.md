@@ -4,16 +4,16 @@ description: Scopri come utilizzare i filtri di inattività in un elenco avanzat
 title: Utilizzare i filtri di inattività in un elenco avanzato
 exl-id: 9e00c864-db3f-46cd-b65d-e4fd49d89ff5
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '125'
 ht-degree: 12%
 
 ---
 
 # Utilizzare i filtri di inattività in un elenco avanzato {#use-inactivity-filters-in-a-smart-list}
 
-Lo sapevi che puoi cercare persone in un elenco avanzato che _non hanno_ fatto qualcosa? Consulta questi filtri di inattività.
+Utilizza i filtri di inattività per trovare in un elenco avanzato le persone che non hanno eseguito alcuna operazione.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -23,7 +23,7 @@ Lo sapevi che puoi cercare persone in un elenco avanzato che _non hanno_ fatto q
 
    ![](assets/use-inactivity-filters-in-a-smart-list-2.png)
 
-1. Trova e trascina il filtro di inattività desiderato nell’area di lavoro. Ad esempio, troviamo le persone che non hanno visitato alcuna delle tue pagine.
+1. Trova e trascina il filtro di inattività desiderato nell’area di lavoro. Ad esempio, questo esempio trova le persone che non hanno visitato nessuna delle tue pagine.
 
    ![](assets/use-inactivity-filters-in-a-smart-list-3.png)
 

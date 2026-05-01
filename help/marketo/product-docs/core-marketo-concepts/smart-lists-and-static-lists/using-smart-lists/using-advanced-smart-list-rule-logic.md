@@ -4,16 +4,16 @@ description: Scopri come utilizzare la logica avanzata della regola dell’elenc
 title: Utilizzare la logica avanzata per le regole di elenchi avanzati
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '302'
-ht-degree: 4%
+ht-degree: 3%
 
 ---
 
 # Utilizzare la logica avanzata per le regole di elenchi avanzati {#using-advanced-smart-list-rule-logic}
 
-Per trovare le persone necessarie, applica la logica della regola Elenco avanzato a più filtri all’interno di un Elenco avanzato. Ecco come.
+Per trovare le persone necessarie, applica la logica della regola Elenco avanzato a più filtri all’interno di un Elenco avanzato.
 
 >[!PREREQUISITES]
 >

@@ -4,16 +4,16 @@ description: Scopri come visualizzare le persone bloccate in una campagna avanza
 title: Visualizzare le persone bloccate in una campagna avanzata
 exl-id: 7adf00fe-4893-42ea-8077-b7a1bed1866f
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '125'
 ht-degree: 11%
 
 ---
 
 # Visualizzare le persone bloccate in una campagna avanzata {#view-blocked-people-in-a-smart-campaign}
 
-Le persone bloccate nel database di Marketo Engage inserire nell&#39;elenco Bloccati sono contrassegnate come appartenenti a un’e-mail non valida o vuota oppure sono contrassegnate come appartenenti a un gruppo di persone che ha effettuato l’iscrizione o che ha annullato l’iscrizione, che hanno sospeso l’attività di marketing e/o un messaggio e-mail non valido o vuoto.
+Le persone bloccate nel database di Marketo Engage sono contrassegnate come appartenenti a gruppi di lavoro inseriti nell&#39;elenco Bloccati, non iscritti, con marketing sospeso o con un messaggio e-mail vuoto o non valido.
 
 1. Nella tua Smart Campaign, fai clic su **[!UICONTROL Schedule]**. In **[!UICONTROL Smart List Status]** fare clic sul secondo collegamento.
 

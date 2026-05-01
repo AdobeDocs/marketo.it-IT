@@ -4,10 +4,10 @@ description: Scopri gli elenchi avanzati per trovare gruppi di persone con filtr
 title: Informazioni sugli elenchi avanzati
 exl-id: 8b7fd845-96d8-4b53-9ad0-118cf55be24a
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 
@@ -21,8 +21,8 @@ Gli elenchi avanzati consentono di trovare gruppi specifici di persone utilizzan
 I passaggi principali per la creazione di un elenco avanzato sono i seguenti:
 
 1. [Creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md){target="_blank"}
-1. [Trova e aggiungi filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
-1. [Definisci filtri elenchi avanzati](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
+1. [Trovare e aggiungere filtri a un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/find-and-add-filters-to-a-smart-list.md){target="_blank"}
+1. [Definire i filtri dell’elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/define-smart-list-filters.md){target="_blank"}
 
 Di seguito è riportato un esempio dell&#39;aspetto di un elenco avanzato.
 
@@ -43,8 +43,6 @@ Qui vengono visualizzati i risultati, ovvero tutte le persone qualificate per i 
 Aggiungere e definire i filtri per visualizzare un gruppo specifico di persone nella scheda [!UICONTROL People].
 
 ![](assets/understanding-smart-lists-3.png)
-
-OK, iniziamo!
 
 >[!MORELIKETHIS]
 >

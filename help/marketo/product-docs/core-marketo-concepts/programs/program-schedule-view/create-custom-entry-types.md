@@ -4,9 +4,9 @@ description: Scopri come creare tipi di voce personalizzati nella Vista pianific
 title: Creare tipi di voce personalizzati
 exl-id: 75a0fb0d-a0d4-472d-9ac1-53e2f2831221
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '107'
 ht-degree: 14%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 14%
 
    ![](assets/image2014-9-15-16-3a4-3a14.png)
 
-Fantastico! Ora, quando si crea una nuova voce nella vista Schedule, questo tipo sarà un&#39;opzione.
+Ora, quando si crea una nuova voce nella vista Schedule, questo tipo sarà un&#39;opzione.
 
 >[!NOTE]
 >

@@ -4,9 +4,9 @@ description: Scopri come inviare un elenco a Adobe Experience Cloud. Condividi l
 title: Inviare un elenco a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '819'
 ht-degree: 3%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 3%
 
 ## Come inviare un elenco statico {#how-to-send-a-static-list}
 
-Un elenco statico è solo questo, statico. Non verrà apportata alcuna modifica all&#39;elenco in Adobe Experience Cloud, a meno che non vengano apportate manualmente.
+Elenco statico statico. Non verrà apportata alcuna modifica all&#39;elenco in Adobe Experience Cloud, a meno che non vengano apportate manualmente.
 
 1. In Marketo, individua l’elenco da esportare. Fare clic con il pulsante destro del mouse e selezionare **[!UICONTROL Send to Experience Cloud]**.
 
@@ -94,9 +94,9 @@ Puoi interrompere la sincronizzazione dell’elenco in qualsiasi momento.
 
 ### Condivisione con Adobe Analytics {#sharing-to-adobe-analytics}
 
-* Per gli utenti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà ai tipi di pubblico di essere condivisi da Marketo alle suite di rapporti di Adobe Analytics, tuttavia è necessario seguire alcuni passaggi di configurazione aggiuntivi in Adobe Audience Manager per abilitare questa funzione. Rivedi la [documentazione di Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=it){target="_blank"} per ulteriori informazioni su come configurare questa impostazione.
+* Per gli utenti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà ai tipi di pubblico di essere condivisi da Marketo alle suite di rapporti di Adobe Analytics, tuttavia è necessario seguire alcuni passaggi di configurazione aggiuntivi in Adobe Audience Manager per abilitare questa funzione. Rivedi la [documentazione di Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} per ulteriori informazioni su come configurare questa impostazione.
 
-* Dopo aver caricato un elenco da Marketo a Adobe Audience Manager, è possibile accedervi anche da Adobe Target. La configurazione [&#x200B; deve essere abilitata in Adobe Target](https://experienceleague.adobe.com/it/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Dopo aver caricato un elenco da Marketo a Adobe Audience Manager, è possibile accedervi anche da Adobe Target. La configurazione [ deve essere abilitata in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Se un elenco è vuoto o non ha persone con valori ECID, il nome dell’elenco non verrà inviato per essere referenziato all’esterno di Marketo.
 

@@ -4,9 +4,9 @@ description: Scopri come eliminare un passaggio di flusso da una campagna avanza
 title: Eliminare un passaggio di flusso
 exl-id: 039a1e80-48cc-47f9-9e1a-459f89bf0730
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '372'
 ht-degree: 2%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >La rimozione dei passaggi del flusso, _in particolare dei passaggi di attesa_ da campagne Smart attive, può produrre risultati imprevisti. Leggi questo articolo con attenzione.
 
-Per prima cosa, analizziamo le nozioni di base. Ecco come rimuovere un passaggio di flusso indesiderato da una campagna avanzata.
+Per rimuovere un passaggio di flusso indesiderato da una campagna avanzata:
 
 1. In Smart Campaign **[!UICONTROL Flow]**, fai clic sull&#39;icona **X** per eliminare qualsiasi passaggio di flusso.
 
@@ -39,10 +39,10 @@ Per prima cosa, analizziamo le nozioni di base. Ecco come rimuovere un passaggio
 
    1. **Mai eseguito**. Apportare tutte le modifiche desiderate. Non toccherà a nessuno finché non eseguirai quella campagna.
    1. **È una campagna Smart ricorrente**. Le modifiche avranno effetto sulle persone nelle esecuzioni future, non sulle esecuzioni precedenti.
-   1. **Sono già stati eseguiti i passaggi SENZA attendere**.L&#39;operazione non verrà eseguita perché la campagna è inattiva dopo l&#39;esecuzione.
+   1. **Esecuzione senza attendere i passaggi**.Nessuna persona sarà interessata perché la campagna è inattiva dopo l’esecuzione.
    1. **È in esecuzione**. Le modifiche possono causare un comportamento imprevisto a seconda della tempistica e dei dettagli dell’eliminazione. È consigliabile NON modificare una campagna batch in esecuzione. Per i casi di emergenza, scopri come [interrompere una campagna avanzata in esecuzione](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/abort-a-smart-campaign.md){target="_blank"}.
 
-   1. **Già eseguito con passaggi di attesa.** Diversi dettagli su questo.
+   1. **Esecuzione già in corso con passaggi di attesa.** Molti dettagli su questo.
 Quando una persona entra in un passaggio di attesa, la persona riduce la durata e il PASSAGGIO NUMERO a cui tornare. Vedi l’esempio seguente.
 
    **Attiva campagne intelligenti**

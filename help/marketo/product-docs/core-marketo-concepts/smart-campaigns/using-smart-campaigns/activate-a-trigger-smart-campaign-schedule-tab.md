@@ -4,16 +4,16 @@ description: Scopri come attivare una Smart Campaign dalla scheda Pianificazione
 title: Attivare una campagna avanzata trigger | Scheda di pianificazione
 exl-id: f9232c91-aa39-4033-bd11-865d1cbc5eb2
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 14%
+source-wordcount: '90'
+ht-degree: 15%
 
 ---
 
 # Attivare una campagna avanzata trigger | Scheda di pianificazione {#activate-a-trigger-smart-campaign-schedule-tab}
 
-Attivare una campagna avanzata è come attivarla. Ecco cosa fare.
+Attivare una campagna avanzata è come attivarla.
 
 1. Nella scheda **[!UICONTROL Schedule]** di Smart Campaign, fai clic su **[!UICONTROL Activate]**.
 

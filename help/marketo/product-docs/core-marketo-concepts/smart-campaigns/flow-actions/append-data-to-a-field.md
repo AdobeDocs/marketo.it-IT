@@ -4,16 +4,16 @@ description: Scopri come aggiungere dati a un campo in un passaggio di flusso. A
 title: Aggiungere dati a un campo
 exl-id: 62d68efd-b2df-48bd-925e-f9a95907f33c
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '116'
-ht-degree: 12%
+source-wordcount: '108'
+ht-degree: 9%
 
 ---
 
 # Aggiungere dati a un campo {#append-data-to-a-field}
 
-È possibile aggiungere dati a un campo in modo semplice. Ecco come.
+L’aggiunta di dati a un campo è semplice.
 
 >[!PREREQUISITES]
 >
@@ -39,4 +39,4 @@ ht-degree: 12%
 
    ![](assets/append-data-to-a-field-4.png)
 
-Tutto qui. Puoi diventare creativo e aggiungere più token.
+Puoi aggiungere più token nello stesso campo.

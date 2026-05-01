@@ -4,10 +4,10 @@ description: Scopri come eseguire un singolo passaggio di flusso da un elenco av
 title: Eseguire un passaggio di flusso singolo da un elenco avanzato
 exl-id: 1ac5795b-1906-4f94-bd0a-570d55c9357b
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '231'
-ht-degree: 9%
+source-wordcount: '224'
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
    >
    >Se i risultati si estendono su più pagine, facendo clic su **[!UICONTROL Select All]** verranno selezionate tutte le persone in tutte le pagine.
 
-1. In **[!UICONTROL Person Actions]**, selezionare il passaggio di flusso desiderato. In questo esempio utilizzeremo [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
+1. In **[!UICONTROL Person Actions]**, selezionare il passaggio di flusso desiderato. In questo esempio viene utilizzato [Modifica valore dati](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md){target="_blank"}.
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-4.png)
 
@@ -55,7 +55,7 @@ Se desideri eseguire un passaggio di flusso una tantum, puoi utilizzare un singo
 
    ![](assets/run-a-single-flow-step-from-a-smart-list-7.png)
 
-Ottimo lavoro! Lo stato del singolo passaggio di flusso viene visualizzato nell’angolo in alto a destra.
+Lo stato del singolo passaggio di flusso viene visualizzato nell’angolo in alto a destra.
 
 ![](assets/run-a-single-flow-step-from-a-smart-list-8.png)
 

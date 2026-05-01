@@ -4,7 +4,7 @@ description: Scopri come creare un momento interessante in un passaggio di fluss
 title: Momento interessante
 exl-id: fa1a45b8-1e62-497e-9441-bf6859addb42
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 3%
@@ -27,7 +27,7 @@ Se hai Marketo Sales Insight, puoi utilizzare il passaggio di flusso **Momento d
 
    >[!TIP]
    >
-   >_Meno è più_. Collabora con il tuo sales team per assicurarti che i momenti interessanti siano davvero interessanti.
+   >_Meno è più_. Collabora con il tuo sales team per confermare che i momenti interessanti sono davvero interessanti.
 
 Puoi anche utilizzare [token in momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md){target="_blank"} per creare descrizioni dinamiche molto utili.
 

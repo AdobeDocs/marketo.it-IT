@@ -3,9 +3,9 @@ description: Scopri la scadenza delle risorse locali nei programmi. Impostato qu
 title: Scadenza risorsa locale
 exl-id: 603e3eee-0531-4139-a8f5-279831ad011f
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '250'
+source-wordcount: '251'
 ht-degree: 6%
 
 ---
@@ -40,7 +40,7 @@ Prima di poter pianificare la scadenza di una risorsa, il ruolo Marketo deve dis
 
    ![](assets/local-asset-expiration-4.png)
 
-1. Controlla le risorse per le quali vuoi impostare una data di scadenza, quindi fai clic su **[!UICONTROL Set expiration]**.
+1. Controlla la risorsa per la quale vuoi impostare una data di scadenza, quindi fai clic su **[!UICONTROL Set expiration]**.
 
    ![](assets/local-asset-expiration-5.png)
 
@@ -48,7 +48,7 @@ Prima di poter pianificare la scadenza di una risorsa, il ruolo Marketo deve dis
 
    ![](assets/local-asset-expiration-6.png)
 
-1. Imposta un orario. È necessario pianificare un orario di almeno 15 minuti in futuro (non dimenticare di immettere AM/PM). Al termine, fai clic su **[!UICONTROL Confirm]**.
+1. Imposta un orario. È necessario programmare un orario di almeno 15 minuti nel futuro (ricordarsi di immettere AM/PM). Al termine, fai clic su **[!UICONTROL Confirm]**.
 
    ![](assets/local-asset-expiration-7.png)
 

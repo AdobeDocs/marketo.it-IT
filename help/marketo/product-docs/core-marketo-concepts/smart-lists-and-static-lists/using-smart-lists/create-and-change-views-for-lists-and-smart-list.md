@@ -4,16 +4,16 @@ description: Scopri come creare e modificare le visualizzazioni per elenchi ed e
 title: Creare e modificare le viste per elenchi ed elenchi avanzati
 exl-id: a1661990-ae10-4f8e-9eed-ada6564136d9
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 9%
+source-wordcount: '214'
+ht-degree: 8%
 
 ---
 
 # Creare e modificare le viste per elenchi ed elenchi avanzati {#create-and-change-views-for-lists-and-smart-list}
 
-In un elenco avanzato viene visualizzato un set predefinito di colonne. Sapevi che era possibile modificare quelle colonne nel contenuto del tuo cuore? Ecco come.
+In un elenco avanzato viene visualizzato un set predefinito di colonne. Tali colonne possono essere personalizzate.
 
 ## Creare una visualizzazione {#create-a-view}
 
@@ -45,7 +45,7 @@ In un elenco avanzato viene visualizzato un set predefinito di colonne. Sapevi c
 
 ## Modificare una visualizzazione {#edit-a-view}
 
-1. Verificare che la visualizzazione che si desidera modificare sia selezionata nel menu a discesa **[!UICONTROL View]**.
+1. Verificare che la visualizzazione da modificare sia selezionata nel menu a discesa **[!UICONTROL View]**.
 
    ![](assets/create-and-change-views-for-lists-and-smart-list-5.png)
 

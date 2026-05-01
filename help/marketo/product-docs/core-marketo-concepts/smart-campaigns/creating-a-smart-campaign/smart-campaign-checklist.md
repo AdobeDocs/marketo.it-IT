@@ -4,10 +4,10 @@ description: Ottieni aiuto per l’elenco di controllo di Smart Campaign. Utiliz
 title: Elenco di controllo della campagna avanzata
 exl-id: 3c0d08c9-66ae-4083-ab0a-fa5a95149aba
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 3%
+source-wordcount: '245'
+ht-degree: 2%
 
 ---
 
@@ -49,7 +49,7 @@ Nella scheda **[!UICONTROL Schedule]**, controllare **[!UICONTROL Smart List Sta
 
 ## Controlla limite restrizioni persona {#check-person-restrictions-limit}
 
-Nella scheda **[!UICONTROL Schedule]**, assicurarsi che il numero di persone qualificate non superi il limite di restrizione della persona.
+Nella scheda **[!UICONTROL Schedule]**, verificare che il numero di persone qualificate non superi il limite di restrizione della persona.
 
 ![](assets/smart-campaign-checklist-4.png)
 
@@ -63,4 +63,4 @@ Nella scheda **[!UICONTROL Schedule]**, assicurarsi che il numero di persone qua
 >
 >Se il tuo Smart Campaign non riesce ancora, scopri come [comprendere le notifiche](/help/marketo/product-docs/core-marketo-concepts/miscellaneous/understanding-notifications.md) per capire qual è stato il problema e come risolverlo.
 
-Ottimo lavoro! Tieni a portata di mano questo elenco di controllo prima di eseguire una campagna avanzata.
+Tieni a portata di mano questo elenco di controllo prima di eseguire una campagna avanzata.

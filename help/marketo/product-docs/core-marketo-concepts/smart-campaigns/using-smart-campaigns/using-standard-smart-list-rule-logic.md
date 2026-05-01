@@ -4,10 +4,10 @@ description: Scopri come utilizzare la logica standard della regola di elenco av
 title: Utilizzare la logica standard per le regole di elenchi avanzati
 exl-id: 9befaa81-e50c-47d3-9edf-220cfadd00f6
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 8%
+source-wordcount: '138'
+ht-degree: 10%
 
 ---
 
@@ -21,7 +21,7 @@ Potresti aver notato l’opzione &quot;Usa filtri&quot; durante la creazione deg
 >
 >La modifica della logica della regola dell&#39;elenco smart si applica solo ai filtri, _not_ trigger.
 
-Gli attivatori vengono sempre valutati come OR anche se l’impostazione precedente è impostata su ALL. Ecco un esempio:
+Gli attivatori vengono sempre valutati come OR anche se l’impostazione precedente è impostata su ALL. Ad esempio:
 
 ![](assets/using-standard-smart-list-rule-logic-2.png)
 

@@ -4,7 +4,7 @@ description: Scopri i filtri dedotti negli elenchi avanzati. Scopri in che modo 
 title: Filtri dedotti
 exl-id: 6db4ff4d-7fab-4722-94b1-1bf92ba4651d
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 1%
@@ -13,11 +13,11 @@ ht-degree: 1%
 
 # Filtri dedotti {#inferred-filters}
 
-Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di informazioni.
+Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. Il sistema cerca il proprio IP in un database speciale e deduce tutti i tipi di informazioni.
 
 >[!NOTE]
 >
->Per garantire che i valori dei campi dedotti rimangano aggiornati, viene aggiornato periodicamente il database utilizzato per le ricerche degli indirizzi IP. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che potrebbe essere necessario aggiungere alle definizioni dei filtri di elenchi avanzati.
+>Per garantire che i valori dei campi dedotti rimangano correnti, il database utilizzato per le ricerche degli indirizzi IP viene aggiornato periodicamente. Gli aggiornamenti del database possono introdurre nuovi valori di campo dedotti che potrebbe essere necessario aggiungere alle definizioni dei filtri di elenchi avanzati.
 >
 >Gli aggiornamenti del database possono verificarsi durante una [versione del prodotto Marketo Engage](/help/marketo/release-notes/release-schedule.md){target="_blank"}. Quando si verifica un aggiornamento, le [note sulla versione di Marketo Engage](/help/marketo/release-notes/current.md){target="_blank"} conterranno una spiegazione di eventuali modifiche ai valori dei campi dedotti.
 

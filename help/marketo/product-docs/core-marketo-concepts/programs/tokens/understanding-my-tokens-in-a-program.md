@@ -4,10 +4,10 @@ description: Scopri I miei token in un programma. Utilizza i token per personali
 title: Informazioni su I miei token in un programma
 exl-id: 01b42272-c419-4cd5-ad30-87413ceb2032
 feature: Tokens
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '429'
-ht-degree: 4%
+source-wordcount: '441'
+ht-degree: 5%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 4%
 
 Un token è una variabile che puoi utilizzare nelle e-mail, nelle pagine di destinazione e nelle campagne avanzate per semplificare la tua vita.
 
-Oltre a I miei token, nei programmi puoi utilizzare anche qualsiasi token incorporato. Controlla la [panoramica dei token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
+Oltre a I miei token, nei programmi puoi utilizzare anche qualsiasi token incorporato. Vedi la panoramica dei [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"}.
 
 ## I miei token  {#my-tokens}
 
@@ -46,7 +46,7 @@ Esempi:
   </tr>
   <tr>
    <td>Script e-mail <img alt="--" src="assets/image2014-9-25-16-3a45-3a4.png" data-linked-resource-id="3083232" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></td>
-   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td>
+   <td>Utilizza questo token per eseguire uno script Velocity nelle e-mail. Ulteriori informazioni <a href="https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/email-scripting" title="Segui collegamento" rel="nofollow">qui</a>. </td>
   </tr>
   <tr>
    <td>Numero <span> <img alt="--" src="assets/image2014-9-25-16-3a45-3a25.png" data-linked-resource-id="3083233" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114"></span></td>
@@ -61,7 +61,7 @@ Esempi:
    <td>Usa questo token nel <a href="/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-tokens-in-flow-steps.md">passaggio del flusso del punteggio di modifica</a>. </td>
   </tr>
   <tr>
-   <td colspan="1">SFDC Campaign <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td>
+   <td colspan="1">Campagna SFDC <img alt="--" src="assets/sfdc-campaign-icon.jpg" data-linked-resource-id="11379761" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="1147114" title="--"></td>
    <td colspan="1">Utilizza questo token per consentire ai lead che entrano a far parte di un programma Marketo di essere aggiunti anche a qualsiasi campagna SFDC venga aggiunta.</td>
   </tr>
   <tr>

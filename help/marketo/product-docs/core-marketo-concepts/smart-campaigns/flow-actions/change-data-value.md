@@ -4,9 +4,9 @@ description: Scopri come modificare un valore di dati in un passaggio di flusso 
 title: Modifica valore dati
 exl-id: cdfa7632-87e2-407f-9891-3697771b5687
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '113'
 ht-degree: 5%
 
 ---
@@ -25,7 +25,7 @@ Puoi utilizzare Marketo per aggiornare il valore di un campo. Per questo, utiliz
 
    ![](assets/change-data-value-2.png)
 
-1. Immetti il valore desiderato e l&#39;operazione è completata.
+1. Immetti il valore desiderato.
 
    ![](assets/change-data-value-3.png)
 

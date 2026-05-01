@@ -4,9 +4,9 @@ description: Scopri come utilizzare i token nei passaggi del flusso. Inserisci v
 title: Utilizzare i token nei passaggi di flusso
 exl-id: 9b4c3d57-5906-4d7c-8215-4ba2271be3f8
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '200'
 ht-degree: 10%
 
 ---
@@ -46,7 +46,7 @@ Un token è una variabile. Puoi utilizzarlo nelle e-mail, nelle pagine di destin
    >
    >I token di campo personalizzati dei membri del programma possono essere utilizzati in: Crea attività, Crea attività in Microsoft, Momenti di interesse, Azioni del flusso Modifica valore dati e Webhook.
 
-   Fantastico! I dati verranno estratti dal token quando viene eseguita la campagna avanzata.
+   I dati verranno estratti dal token quando viene eseguita la campagna avanzata.
 
    >[!MORELIKETHIS]
    >

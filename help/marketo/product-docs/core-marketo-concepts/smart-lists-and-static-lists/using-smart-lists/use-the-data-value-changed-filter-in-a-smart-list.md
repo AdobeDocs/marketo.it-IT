@@ -4,16 +4,16 @@ description: Scopri come utilizzare il filtro Data Value Changed in un elenco av
 title: Utilizzare il filtro Valore dati modificato in un elenco avanzato
 exl-id: 4ecca2b0-771f-44aa-a0cf-9f9f40549f41
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 17%
+source-wordcount: '143'
+ht-degree: 16%
 
 ---
 
 # Utilizzare il filtro Valore dati modificato in un elenco avanzato {#use-the-data-value-changed-filter-in-a-smart-list}
 
-I valori cambiano e vengono aggiornati costantemente nel database di Marketo. A volte, invece di cercare un valore specifico, è meglio cercare le persone che hanno avuto una variazione di valore. Ecco come.
+I valori cambiano e vengono aggiornati costantemente nel database di Marketo. A volte, invece di cercare un valore specifico, è meglio cercare le persone che hanno avuto una variazione di valore.
 
 >[!PREREQUISITES]
 >

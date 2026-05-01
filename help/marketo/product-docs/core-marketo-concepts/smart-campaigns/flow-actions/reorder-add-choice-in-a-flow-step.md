@@ -4,9 +4,9 @@ description: Scopri come riordinare le opzioni Aggiungi scelta in un passaggio d
 title: Riordinare la scelta di aggiunta in un passaggio di flusso
 exl-id: e76af93a-24df-48ba-b5f2-ea6e697e2f3a
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Poiché solo la prima scelta corrispondente si applica a una persona, l’ordine
    >
    >Durante il riordinamento è possibile **[!UICONTROL Move Up]**, **[!UICONTROL Move Down]** o **[!UICONTROL Move To]**.
 
-   Bel lavoro! Ora sai come spostare una scelta verso l’alto o il basso di singoli incrementi.
+   Puoi spostare una scelta verso l’alto o verso il basso con incrementi singoli.
 
    ![](assets/reorder-add-choice-in-a-flow-step-3.png)
 
@@ -35,4 +35,3 @@ Poiché solo la prima scelta corrispondente si applica a una persona, l’ordine
 
 ![](assets/reorder-add-choice-in-a-flow-step-4.png)
 
-È molto semplice riorganizzare l’ordine delle scelte dei passaggi del flusso.

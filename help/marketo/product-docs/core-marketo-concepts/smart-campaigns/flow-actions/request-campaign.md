@@ -4,9 +4,9 @@ description: Scopri come utilizzare il passaggio di flusso Richiedi campagna. At
 title: Richiedere campagna
 exl-id: 5deecb56-c25f-4e3b-bd85-f9cac1c7149e
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 4%
 
 ---
@@ -38,8 +38,6 @@ ht-degree: 4%
    La tua persona è ora nella campagna richiesta.
 
    ![](assets/request-campaign-5.png)
-
-   Ottimo lavoro!
 
 >[!TIP]
 >

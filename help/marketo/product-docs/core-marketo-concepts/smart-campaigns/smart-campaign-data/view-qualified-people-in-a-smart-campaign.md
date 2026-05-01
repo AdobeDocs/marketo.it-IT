@@ -4,9 +4,9 @@ description: Scopri come visualizzare le persone qualificate in una campagna ava
 title: Visualizzare le persone qualificate in una campagna avanzata
 exl-id: 84fb5c85-d794-4eb3-b74c-242c76ecdd1d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '168'
 ht-degree: 8%
 
 ---
@@ -35,7 +35,7 @@ Visualizza le persone idonee a passare attraverso il flusso quando esegui una ca
    >
    >Il numero di persone qualificate dipende anche dalle regole di qualificazione di Smart Campaign. Scopri come [modificare le regole di qualifica](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign.md){target="_blank"}.
 
-Bello! Puoi utilizzare questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna avanzata.
+Utilizza questo elenco per verificare quali persone potrebbero attraversare il flusso prima di eseguire una campagna avanzata.
 
 >[!MORELIKETHIS]
 >

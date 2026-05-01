@@ -4,9 +4,9 @@ description: Scopri come spostare una campagna avanzata. Trasferisci la campagna
 title: Spostare una campagna avanzata
 exl-id: e5988fba-584f-47c5-8b26-7ce6ba312c9d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '149'
 ht-degree: 7%
 
 ---
@@ -33,8 +33,8 @@ Spostare una campagna avanzata tra programmi o cartelle diversi utilizzando il t
 
    >[!NOTE]
    >
-   >In questo esempio stiamo spostando Smart Campaign in un altro programma, ma puoi anche spostarla in una cartella della campagna.
+   >In questo esempio Smart Campaign viene spostata in un altro programma, ma puoi anche spostarla in una cartella della campagna.
 
-Ben fatto! La campagna avanzata è stata spostata.
+La campagna avanzata è stata spostata.
 
 ![](assets/move-a-smart-campaign-4.png)

@@ -4,16 +4,16 @@ description: Scopri come clonare un elenco o un elenco avanzato. Creare una copi
 title: Clonare un elenco o un elenco avanzato
 exl-id: e802fa74-5884-4201-9b55-d6cd7e2a7d9f
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 19%
+source-wordcount: '79'
+ht-degree: 17%
 
 ---
 
 # Clonare un elenco o un elenco avanzato {#clone-a-list-or-smart-list}
 
-Invece di creare un elenco avanzato da zero, risparmia tempo duplicandone uno simile e apportando modifiche. Ecco come.
+Invece di creare un elenco avanzato da zero, risparmia tempo duplicandone uno simile e apportando modifiche.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -27,4 +27,4 @@ Invece di creare un elenco avanzato da zero, risparmia tempo duplicandone uno si
 
    ![](assets/clone-a-list-or-smart-list-3.png)
 
-Bel lavoro! Allo stesso modo è possibile clonare anche gli elenchi regolari.
+Allo stesso modo è possibile clonare anche gli elenchi regolari.

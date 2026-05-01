@@ -4,10 +4,10 @@ description: Scopri come impostare una campagna avanzata di trigger per le vendi
 title: Impostare una campagna avanzata trigger per le vendite tramite “È richiesta la campagna”
 exl-id: ed6d7c27-d54b-48e3-af67-19503da4ef56
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '291'
-ht-degree: 10%
+source-wordcount: '282'
+ht-degree: 11%
 
 ---
 
@@ -19,10 +19,10 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 >
 >Esempi di campagne intelligenti da richiedere:
 >
->1. **Alimentazione a lungo termine** - se quest&#39;anno non hanno un budget e vuoi solo restare nel radar
+>1. **Alimentazione a lungo termine** - se quest&#39;anno non hanno un budget e vuoi restare nel radar
 >1. **Ciclo di vendita attivo** - quando il venditore non desidera inviare messaggi alla persona, ad eccezione dei propri. (utilizza il flag marketing sospeso per annullare temporaneamente l’abbonamento)
 >
->Sii creativo. Cosa vorrebbe automatizzare il venditore? Chiedetelo a loro e collegatelo!
+>Chiedi al team di vendita cosa desidera automatizzare e configurare.
 
 1. Creare una campagna avanzata.
 
@@ -32,13 +32,13 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-2.png)
 
-1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, assicurarsi di scegliere **[!UICONTROL Sales Insight]**.
+1. Le scelte di origine indicano il tipo di richiesta che verrà rispettata. Per la funzionalità Salesforce, scegliere **[!UICONTROL Sales Insight]**.
 
    >[!TIP]
    >
    >Gli operatori di origine sono per la sicurezza. Puoi limitare la campagna alle richieste effettuate solo da origini specifiche, come altre campagne avanzate o sviluppatori. Scegliere **[!UICONTROL Is Any]** nella prima casella se si desidera consentire le richieste da tutte le origini.
    >
-   >_Ricorda_, scegliendo Vendite Insight, verrà magicamente visualizzato nella casella per le vendite. Non esagerare. Troppi verranno ignorati da loro.
+   >_Ricorda_, scegliendo Vendite Insight, verrà magicamente visualizzato nella casella per le vendite. Evita di aggiungerne troppi, poiché verranno ignorati.
 
    ![](assets/setting-up-a-trigger-smart-campaign-for-sales-3.png)
 
@@ -46,4 +46,4 @@ Una delle caratteristiche più interessanti di Marketo è la possibilità di coi
 
 >[!TIP]
 >
->Non dimenticare di dare un nome chiaro alle campagne avanzate. In Sales Insight verranno visualizzati esattamente come li si chiama.
+>Dai un nome chiaro alle campagne avanzate. In Sales Insight verranno visualizzati esattamente come li si chiama.

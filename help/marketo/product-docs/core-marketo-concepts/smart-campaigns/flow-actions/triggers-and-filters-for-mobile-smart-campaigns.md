@@ -4,7 +4,7 @@ description: Scopri i trigger e i filtri per le campagne intelligenti per dispos
 title: Attivatori e filtri per campagne avanzate per dispositivi mobili
 exl-id: 76fc7a74-b27d-4898-a8ca-85c9c2828a28
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 3%
@@ -103,7 +103,7 @@ L&#39;App Mobile È/È Stata Aperta
 
 Ha/Ha Avuto Attività Di App Mobile
 
-Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
+Questi forniscono un modo potente per tenere traccia delle attività mobili personalizzate. Devi collaborare con il tuo sviluppatore per configurare il tracciamento di [per Android](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#how-to-install-marketo-sdk-on-android){target="_blank"} e [per iOS](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/installation#install-marketo-sdk-on-ios){target="_blank"}.
 
 * Ha un&#39;attività in app mobile - trigger
 
@@ -136,7 +136,7 @@ I vincoli di azione ti consentono di utilizzare il trigger e i filtri per monito
 >   * È costato 30 $
 >   * Ci sono voluti 20 secondi per comprare
 
-Ecco come si presenta il filtro in Marketo:
+Il filtro si presenta così in Marketo:
 
 ![](assets/triggers-and-filters-for-mobile-smart-campaigns-6.png)
 

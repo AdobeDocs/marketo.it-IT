@@ -4,9 +4,9 @@ description: Scopri come modificare il successo del programma in un passaggio di
 title: Modificare il successo del programma
 exl-id: 5b45b6d0-0c3d-4677-8b9a-8bbf03b1209e
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '144'
 ht-degree: 4%
 
 ---
@@ -41,4 +41,4 @@ Se un gruppo di persone è contrassegnato in modo errato con Program Success (Co
    >
    >Puoi utilizzare il passaggio di flusso due volte per impostare sia il flag di successo che la data.
 
-Fantastico! Ora sai come annullare e forzare il successo.
+Ora sai come annullare e forzare il successo.

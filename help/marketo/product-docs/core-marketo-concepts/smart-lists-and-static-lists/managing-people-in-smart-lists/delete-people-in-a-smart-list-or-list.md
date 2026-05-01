@@ -4,16 +4,16 @@ description: Scopri come eliminare le persone da un elenco avanzato o statico. R
 title: Eliminare persone in un elenco avanzato o in un elenco
 exl-id: 192e79e6-d816-44e3-84c4-212cd73eb3ce
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '274'
 ht-degree: 7%
 
 ---
 
 # Eliminare persone in un elenco avanzato o in un elenco {#delete-people-in-a-smart-list-or-list}
 
-Puoi eliminare in modo rapido e semplice alcuni/tutti gli utenti inclusi in un elenco o in un elenco avanzato.
+È possibile eliminare alcuni o tutti gli utenti inclusi in un elenco o in un elenco avanzato.
 
 >[!PREREQUISITES]
 >
@@ -67,4 +67,4 @@ Puoi eliminare in modo rapido e semplice alcuni/tutti gli utenti inclusi in un e
    >
    >Per visualizzare i risultati dell&#39;eliminazione di massa, fare clic su **[!UICONTROL View Results]** nella casella a comparsa Azione flusso singolo nell&#39;angolo superiore destro dello schermo. I tempi di eliminazione possono variare notevolmente, a seconda di più fattori.
 
-   Questa è una funzione straordinaria, fai attenzione quando la utilizzi!
+   Utilizza questa funzione con cautela.

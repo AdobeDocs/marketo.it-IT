@@ -4,7 +4,7 @@ description: Scopri come riprogrammare una campagna intelligente in batch nella 
 title: Ripianificare una campagna avanzata batch nella vista Pianificazione del programma
 exl-id: accae56e-36c5-4093-a72e-0882ce8e50b2
 feature: Programs, Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 18%
@@ -23,7 +23,7 @@ Ripianificare l’esecuzione di una campagna batch? Trascinali e rilasciali nel 
 
 ![](assets/image2015-5-19-12-3a12-3a1.png)
 
-1. Fantastico! La campagna avanzata è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **[!UICONTROL Date]** nei dettagli di immissione.
+1. La campagna avanzata è stata ripianificata. L&#39;ora può anche essere modificata dal menu a discesa **[!UICONTROL Date]** nei dettagli di immissione.
 
    ![](assets/image2015-5-19-12-3a15-3a38.png)
 

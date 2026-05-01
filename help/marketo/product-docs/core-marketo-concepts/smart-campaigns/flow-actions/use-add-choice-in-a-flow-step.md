@@ -4,9 +4,9 @@ description: Scopri come utilizzare Aggiungi scelta in un passaggio di flusso. C
 title: Utilizzare Aggiungi scelta in un passaggio di flusso
 exl-id: 50ffcd60-48ee-4341-94d8-170c63bc9ecb
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '201'
 ht-degree: 6%
 
 ---
@@ -51,7 +51,7 @@ ht-degree: 6%
    >
    >Al passaggio del flusso viene applicata solo la prima scelta corrispondente. Scopri come [riordinare &quot;Aggiungi scelta&quot; in un&#39;azione di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/reorder-add-choice-in-a-flow-step.md){target="_blank"}.
 
-   Fantastico! È ora possibile creare una singola campagna avanzata con scelte dei passaggi di flusso anziché creare più campagne avanzate per ogni scelta.
+   È ora possibile creare una singola campagna avanzata con scelte dei passaggi di flusso anziché creare più campagne avanzate per ogni scelta.
 
    >[!MORELIKETHIS]
    >

@@ -3,7 +3,7 @@ description: Scopri come utilizzare il passaggio Esegui flusso Campaign. Esegui 
 title: Eseguire campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 1%
@@ -60,7 +60,7 @@ Se è impostato su true, i seguenti contesti di token vengono inviati nella camp
 
 **Interazione API**
 
-Quando si utilizza Schedule o Request Campaign [&#x200B; nell&#39;API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
+Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 
@@ -73,7 +73,7 @@ Quando si utilizza Schedule o Request Campaign [&#x200B; nell&#39;API](https://e
 
 >[!CAUTION]
 >
->Non lasciare mai i tuoi elenchi avanzati per le campagne eseguibili non validi. In caso contrario, _nessuno_ sarà idoneo. Si consiglia di creare risorse di elenchi avanzati separate, definirle completamente e assicurarsi che siano valide. Quindi, utilizza il filtro &quot;Membro di elenco avanzato&quot; nella campagna eseguibile in modo da poter scambiare la definizione dell’elenco avanzato.
+>Non lasciare mai i tuoi elenchi avanzati per le campagne eseguibili non validi. In caso contrario, _nessuno_ sarà idoneo. Si consiglia di creare risorse di elenchi avanzati separate, definirle completamente e confermarne la validità. Quindi, utilizza il filtro &quot;Membro di elenco avanzato&quot; nella campagna eseguibile in modo da poter scambiare la definizione dell’elenco avanzato.
 
 ## Esempio di ereditarietà del token {#token-inheritance-example}
 

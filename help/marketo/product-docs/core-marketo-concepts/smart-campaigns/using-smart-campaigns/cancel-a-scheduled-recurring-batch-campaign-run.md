@@ -4,16 +4,16 @@ description: Scopri come annullare un’esecuzione pianificata di una campagna b
 title: Annullare un’esecuzione di campagna batch pianificata ricorrente
 exl-id: 7a659d4e-e546-4630-a36f-38ed80dd2a6e
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 13%
+source-wordcount: '122'
+ht-degree: 12%
 
 ---
 
 # Annullare un’esecuzione di campagna batch pianificata ricorrente {#cancel-a-scheduled-recurring-batch-campaign-run}
 
-Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le esecuzioni future. Ecco come.
+Se hai una campagna in batch ricorrente che non desideri più, puoi annullare le esecuzioni future.
 
 1. Seleziona Smart Campaign e fai clic sulla scheda **Pianifica**.
 

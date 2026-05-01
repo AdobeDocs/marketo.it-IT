@@ -4,9 +4,9 @@ description: Scopri come aggiungere un passaggio di flusso a una campagna avanza
 title: Aggiungere un passaggio di flusso a una campagna avanzata
 exl-id: bd842551-b981-4cd9-a742-321b1ceab872
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '174'
 ht-degree: 10%
 
 ---
@@ -39,7 +39,7 @@ I passaggi di flusso indicano a Marketo Engage cosa desideri che accada a un gru
 >
 >In caso di voce non valida, viene visualizzata una linea ondulata rossa. Passa il cursore del mouse sulla riga per vedere come correggerla.
 
-Fantastico! Assicurati di [rivedere e convalidare Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} prima di pianificarla o attivarla.
+[Rivedi e convalida Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.md){target="_blank"} prima di pianificarla o attivarla.
 
 >[!MORELIKETHIS]
 >

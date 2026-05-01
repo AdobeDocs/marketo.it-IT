@@ -4,9 +4,9 @@ description: Scopri i filtri e i trigger di opportunità in Marketo. Segmentazio
 title: Filtri e attivatori di opportunità
 exl-id: 5b372c00-1553-4ac3-a495-53e208371d8d
 feature: Smart Lists
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '483'
 ht-degree: 1%
 
 ---

@@ -4,9 +4,9 @@ description: Ottieni aiuto sulle best practice per organizzare i programmi. Stru
 title: 'Best practice: come organizzare i programmi'
 exl-id: 018a3fbd-b741-4005-9695-56958063d71a
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '855'
 ht-degree: 3%
 
 ---
@@ -17,7 +17,7 @@ Esistono diversi modi per organizzare la struttura nelle attività di marketing 
 
 >[!TIP]
 >
->Un giorno (quando ti promuovono!), qualcun altro cercherà di dare un senso ai tuoi programmi. Una buona organizzazione li aiuterà a essere produttivi rapidamente.
+>Un giorno, qualcun altro potrebbe aver bisogno di dare un senso ai tuoi programmi. Una buona organizzazione li aiuterà a essere produttivi rapidamente.
 
 ## Cartelle {#folders}
 
@@ -105,20 +105,20 @@ Vengono utilizzati a scopo di pulizia dei dati. Avere cartelle per le date di es
 
 ## Nidificazione dei programmi e-mail {#nesting-email-programs}
 
-I programmi e-mail sono progettati per essere lo strumento di gestione della posta elettronica. Puoi inserirli all’interno di Eventi o altri programmi per promozioni, inviti e promemoria. Sono dotati di una dashboard fredda e di altre funzioni di test A/B. Inoltre, possono essere facilmente manipolati nella visualizzazione della pianificazione del programma.
+I programmi e-mail sono progettati per essere lo strumento di gestione della posta elettronica. Puoi inserirli all’interno di Eventi o altri programmi per promozioni, inviti e promemoria. Sono forniti con una dashboard e altre funzioni di test A/B. Possono essere gestiti anche nella vista pianificazione del programma.
 
-Puoi anche creare un programma e-mail come programma autonomo. I programmi e-mail non sono consentiti all’interno di altri programmi e-mail. Sarebbe da pazzi!
+Puoi anche creare un programma e-mail come programma autonomo. I programmi e-mail non sono consentiti all’interno di altri programmi e-mail.
 
 ## Duplicazione {#cloning}
 
-Una delle funzionalità più interessanti di Marketo è la possibilità di clonare i programmi. Ciò significa che puoi impostare un &quot;modello&quot; di programma contenente tutte le campagne intelligenti e le e-mail che desideri. Configuralo in anticipo e clonalo per la tua prossima iniziativa di marketing.
+Una delle funzionalità più utili di Marketo è la possibilità di clonare i programmi. Ciò significa che puoi impostare un &quot;modello&quot; di programma contenente tutte le campagne intelligenti e le e-mail che desideri. Configuralo in anticipo e clonalo per la tua prossima iniziativa di marketing.
 
 >[!TIP]
 >
 >Osserva i Modelli di evento nell’esempio in alto. Inserisci i diversi tipi di eventi per una clonazione semplice.
 
-Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle pagine di destinazione in token. Questo consente di clonare e quindi modificare i token. Infine, passare alla visualizzazione della programmazione del programma e modificare le date e si è terminato. Voilà!
+Alcuni utenti astraggono persino la maggior parte del testo nelle e-mail e nelle pagine di destinazione in token. Questo consente di clonare e quindi modificare i token. Infine, passare alla visualizzazione della programmazione del programma e modificare le date e si è terminato.
 
 ## Riepilogo {#summary}
 
-Come potete vedere, Marketo ha una grande potenza. Abbiamo trattato le nozioni di base qui, ma prendi in considerazione ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/it/products/marketo/services-support.html){target="_blank"} per perfezionare e configurarti per il successo.
+Come potete vedere, Marketo ha una grande potenza. Le nozioni di base sono trattate qui, ma considera ulteriori servizi di [esperti Marketo Engage](https://business.adobe.com/products/marketo/services-support.html){target="_blank"} per perfezionare e configurare se stessi per il successo.

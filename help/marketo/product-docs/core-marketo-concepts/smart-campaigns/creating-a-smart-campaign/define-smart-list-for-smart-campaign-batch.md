@@ -4,16 +4,16 @@ description: Scopri come definire l’elenco avanzato per una campagna avanzata 
 title: Definire un elenco avanzato per campagna avanzata | batch
 exl-id: 0e0061a9-df24-4cf6-8f1e-09ff0ee62efa
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '283'
-ht-degree: 4%
+source-wordcount: '272'
+ht-degree: 5%
 
 ---
 
 # Definire un elenco avanzato per campagna avanzata | batch {#define-smart-list-for-smart-campaign-batch}
 
-Gli elenchi avanzati sono il meccanismo utilizzato in Marketo Engage per definire &quot;chi&quot; (quali persone) includere, che si tratti di un rapporto, un elenco o una campagna avanzata. Di seguito viene descritto come definire un elenco avanzato per una campagna batch.
+Gli elenchi avanzati sono il meccanismo utilizzato in Marketo Engage per definire &quot;chi&quot; (quali persone) includere, che si tratti di un rapporto, un elenco o una campagna avanzata.
 
 >[!CAUTION]
 >

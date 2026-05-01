@@ -4,16 +4,16 @@ description: Scopri le risorse locali in un programma. Scopri in che modo e-mail
 title: Informazioni sulle risorse locali in un programma
 exl-id: aa577b2b-f77c-41cc-aa47-59ce2d189530
 feature: Programs
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 16%
+source-wordcount: '103'
+ht-degree: 30%
 
 ---
 
 # Informazioni sulle risorse locali in un programma {#understanding-local-assets-in-a-program}
 
-Le risorse locali sono i contenuti che compongono il programma. Assets è personalizzabile e consente di creare iniziative di marketing automatizzate. Ecco una panoramica della maggior parte delle risorse locali che puoi creare in un programma:
+Le risorse locali sono i contenuti che compongono il programma. Assets è personalizzabile e consente di creare iniziative di marketing automatizzate. Di seguito sono elencate la maggior parte delle risorse locali che puoi creare in un programma:
 
 ![](assets/one.png)
 
@@ -29,6 +29,6 @@ Le risorse locali sono i contenuti che compongono il programma. Assets è person
 * [E-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-actions/create-an-email-for-an-email-program.md){target="_blank"}
 * [Notifiche push](/help/marketo/product-docs/mobile-marketing/push-notifications/understanding-push-notifications.md){target="_blank"}
 * [Pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/understanding-free-form-vs-guided-landing-pages.md){target="_blank"}
-* [Forms](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
+* [Moduli](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"}
 * [Gruppo di test](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-test-groups.md){target="_blank"}
-* [Vibes SMS](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}
+* [Messaggi SMS Vibes](/help/marketo/product-docs/mobile-marketing/vibes-sms-messages/create-an-sms-message.md){target="_blank"}

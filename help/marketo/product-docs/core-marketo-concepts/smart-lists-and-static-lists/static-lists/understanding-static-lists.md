@@ -4,16 +4,16 @@ description: Scopri gli elenchi statici in Marketo per set fissi di persone. Uti
 title: Informazioni sugli elenchi statici
 exl-id: c37c1496-cf19-4e44-aaec-77b10669b9bf
 feature: Static Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '222'
 ht-degree: 4%
 
 ---
 
 # Informazioni sugli elenchi statici {#understanding-static-lists}
 
-Gli elenchi statici sono una delle funzioni più semplici e utili di Marketo. Si tratta semplicemente di un elenco di nomi del database. Troverai molti motivi per utilizzarli.
+Gli elenchi statici sono una delle funzioni più semplici e utili di Marketo. Si tratta di un elenco di nomi del database. Troverai molti motivi per utilizzarli.
 
 >[!NOTE]
 >
@@ -28,13 +28,13 @@ La differenza tra elenco statico e elenco avanzato è fondamentale per comprende
 
 >[!CAUTION]
 >
->Uno degli errori più comuni è pensare di poter rimuovere una persona da un elenco semplicemente &quot;eliminandola&quot;. **Errore**. Se si elimina la persona, verranno eliminati da **tutto il database**, non solo dall&#39;elenco.
+>Uno degli errori più comuni consiste nel pensare di poter rimuovere una persona da un elenco &quot;eliminandola&quot;. **Errore**. Se si elimina la persona, verranno eliminati da **tutto il database**, non solo dall&#39;elenco.
 
-## Modi per aggiungere/rimuovere persone da un elenco {#ways-to-add-remove-people-from-a-list}
+## Modi per aggiungere o rimuovere persone da un elenco {#ways-to-add-remove-people-from-a-list}
 
 1. Passaggio del flusso di Smart Campaign ([Aggiungi all&#39;elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-to-list.md){target="_blank"}, [Rimuovi dall&#39;elenco](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-list.md){target="_blank"})
 
-1. [Passaggio del flusso di una singola azione](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
+1. [Passaggio del flusso di azione singolo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/run-a-single-flow-step-from-a-smart-list.md){target="_blank"}
 1. Trascinare le persone in un elenco nella struttura
 1. [Importazione elenco](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md){target="_blank"}
 
@@ -43,8 +43,6 @@ La differenza tra elenco statico e elenco avanzato è fondamentale per comprende
 * Elenco preselezionato per ricevere un messaggio di marketing.
 * Una lista di &quot;concorrenti&quot; che usi per inviare messaggi di contro-intelligence maliziosi.
 * Un elenco temporaneo di persone in un particolare stato, che vengono quindi rimosse da Smart Campaigns quando escono da tale stato.
-
-Godetevi la potenza della LISTA!
 
 >[!MORELIKETHIS]
 >

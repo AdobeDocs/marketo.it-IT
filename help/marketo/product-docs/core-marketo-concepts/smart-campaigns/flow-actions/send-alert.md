@@ -4,9 +4,9 @@ description: Scopri come inviare un avviso in un passaggio di flusso di Smart Ca
 title: Invia avviso
 exl-id: 2016e2e7-0361-4bb2-8740-819e21fbd15b
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '150'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Marketo Engage può inviare un messaggio e-mail di notifica con le informazioni 
 
    >[!NOTE]
    >
-   >Assicurarsi di utilizzare il token &quot;[!UICONTROL Send Alert Info]&quot; nel messaggio e-mail.
+   >Utilizza il token &quot;[!UICONTROL Send Alert Info]&quot; nel messaggio e-mail.
 
 1. Selezionare il destinatario dell&#39;avviso. È possibile scegliere [!UICONTROL Sales Owner] o [!UICONTROL Account Owner].
 

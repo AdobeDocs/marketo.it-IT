@@ -4,9 +4,9 @@ description: Scopri come interrompere una campagna avanzata. Arrestare una campa
 title: Interrompere una campagna avanzata
 exl-id: 1d80e67a-324c-4a99-bda3-57074a24ea3d
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '146'
 ht-degree: 8%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 8%
 >
 >Solo Per Uso Di Emergenza
 
-A volte avvii una campagna avanzata e capisci subito che si è trattato di un errore. Ecco come tirare il freno di emergenza e fermare la campagna Smart a metà corsa.
+A volte avvii una campagna avanzata e capisci subito che si è trattato di un errore. Per interrompere una campagna avanzata di mid-run, segui la procedura riportata di seguito.
 
 1. Scegliere la campagna avanzata desiderata e fare clic sulla scheda **[!UICONTROL Schedule]**.
 
@@ -33,7 +33,7 @@ A volte avvii una campagna avanzata e capisci subito che si è trattato di un er
 
    >[!NOTE]
    >
-   >L’interruzione non annulla i passaggi già completati, ma solo interrompe l’esecuzione di altre operazioni (ad esempio: non è possibile annullare la consegna delle e-mail).
+   >L’interruzione non annulla i passaggi già completati, ma impedisce l’esecuzione di altre operazioni (ad esempio: non è possibile annullare la consegna delle e-mail).
 
    ![](assets/abort-a-smart-campaign-4.png)
 

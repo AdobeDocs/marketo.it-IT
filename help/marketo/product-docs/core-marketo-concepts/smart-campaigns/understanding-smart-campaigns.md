@@ -4,9 +4,9 @@ description: Scopri le campagne intelligenti per l’automazione in Marketo. Uti
 title: Informazioni sulle campagne avanzate
 exl-id: 94675059-cc04-4dc2-989f-aaf81e1260d3
 feature: Smart Campaigns
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '248'
 ht-degree: 85%
 
 ---
@@ -51,7 +51,7 @@ Il flusso include i passaggi da eseguire nella campagna avanzata, inclusi quelli
 
 Infine, in questa scheda puoi controllare quando viene eseguita la campagna avanzata. Puoi anche impostare la ricorrenza in modo che venga eseguita secondo una pianificazione che si ripete.
 
-Una campagna avanzata offre enormi possibilità. Prendi confidenza e scoprirai che tutto in Marketo diventa molto più semplice da capire.
+Una campagna avanzata offre enormi possibilità.
 
 >[!CAUTION]
 >

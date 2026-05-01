@@ -4,16 +4,16 @@ description: Scopri come trovare e unire le persone duplicate. Combinare i recor
 title: Trovare e unire persone duplicate
 exl-id: a6d46096-587a-4e3a-b37a-917c0d2098b1
 feature: Smart Lists
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '428'
 ht-degree: 3%
 
 ---
 
 # Trovare e unire persone duplicate {#find-and-merge-duplicate-people}
 
-Marketo Engage esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe inizialmente aver inviato più duplicati. Ecco come unirle.
+Marketo Engage esegue automaticamente la deduplicazione quando nuove persone entrano nel sistema. Tuttavia, il CRM potrebbe inizialmente aver inviato più duplicati.
 
 >[!CAUTION]
 >
@@ -35,7 +35,7 @@ Marketo Engage esegue automaticamente la deduplicazione quando nuove persone ent
 
    >[!CAUTION]
    >
-   >L&#39;unione di persone in Marketo potrebbe non funzionare se si utilizza un account persona [!DNL Salesforce]. Unisci i record in [!DNL Salesforce] se possibile.
+   >L&#39;unione di persone in Marketo potrebbe non funzionare se si utilizza un account persona [!DNL Salesforce]. Se possibile, unisci i record in [!DNL Salesforce].
 
 1. Selezionare l&#39;elenco avanzato di sistema **[!UICONTROL Possible Duplicates]** e fare clic sulla scheda **[!UICONTROL People]**.
 
@@ -49,7 +49,7 @@ Marketo Engage esegue automaticamente la deduplicazione quando nuove persone ent
 
 >[!CAUTION]
 >
->Durante l&#39;unione delle persone, se la persona perdente ha un oggetto personalizzato Marketo, _non_ verrà nuovamente associata alla persona vincente. Prima di eseguire l&#39;unione, rieseguire l&#39;oggetto personalizzato.
+>Durante l&#39;unione delle persone, se la persona perdente ha un oggetto personalizzato Marketo, _non_ verrà nuovamente associata alla persona vincente. Prima di eseguire l&#39;unione, riapplicare l&#39;oggetto personalizzato.
 
 1. Selezionare i duplicati tenendo premuto Ctrl/Comando e facendo clic su, quindi fare clic su **[!UICONTROL Merge People]**.
 

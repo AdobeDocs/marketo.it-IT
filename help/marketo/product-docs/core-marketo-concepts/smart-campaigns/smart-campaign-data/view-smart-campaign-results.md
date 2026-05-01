@@ -4,16 +4,16 @@ description: Scopri come visualizzare i risultati di Smart Campaign. Scopri chi 
 title: Visualizzare i risultati di una campagna avanzata
 exl-id: a883b2da-fbce-49f9-b18d-d75a90bd9c51
 feature: Smart Campaigns
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 8%
+source-wordcount: '118'
+ht-degree: 6%
 
 ---
 
 # Visualizzare i risultati di una campagna avanzata {#view-smart-campaign-results}
 
-Desideri visualizzare un raggruppamento di tutto ciò che è successo in una Smart Campaign? Ecco come.
+Scopri come visualizzare i risultati della tua Smart Campaign.
 
 >[!TIP]
 >
@@ -35,7 +35,7 @@ Desideri visualizzare un raggruppamento di tutto ciò che è successo in una Sma
    >
    >Visualizzare i dettagli della persona facendo clic sul nome della persona.
 
-   Approfondisci i risultati per vedere cosa ha fatto la tua campagna o semplicemente [esporta i risultati di Smart Campaign in Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
+   Approfondisci i risultati per vedere cosa ha fatto la tua campagna o [esporta i risultati di Smart Campaign in Excel](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/smart-campaign-data/export-smart-campaign-results-to-excel.md){target="_blank"}.
 
    >[!MORELIKETHIS]
    >
