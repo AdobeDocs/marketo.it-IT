@@ -4,7 +4,7 @@ description: Come creare un tag di programma personalizzato e assegnare valori, 
 title: Creare un nuovo tag programma e valori di tag
 exl-id: 67300761-df6d-45ce-850f-4443789a3be9
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 16%
@@ -61,4 +61,4 @@ Puoi creare [tag](/help/marketo/product-docs/core-marketo-concepts/programs/work
 
    ![](assets/create-a-new-program-tag-and-tag-values-7.png)
 
-Ora, quando gli utenti creano un programma, devono impostare il valore personalizzato per il tag creato.
+Quando gli utenti creano un programma, devono impostare il valore personalizzato per il tag creato.

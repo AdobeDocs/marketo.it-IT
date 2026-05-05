@@ -4,7 +4,7 @@ description: Informazioni su come aggiungere, nascondere e visualizzare i valori
 title: Gestire i valori tag
 exl-id: cb733007-fc8b-4d7a-a341-b40ea5d4febe
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 9%
@@ -13,7 +13,7 @@ ht-degree: 9%
 
 # Gestire i valori tag {#managing-tag-values}
 
-[Tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) utilizzati per descrivere i programmi. Puoi crearne quanti ne hai bisogno, ciascuno con valori univoci. Ecco come gestire questi valori.
+[Tag](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.md) utilizzati per descrivere i programmi. Puoi crearne quanti ne hai bisogno, ciascuno con valori univoci. I passaggi seguenti spiegano come gestire tali valori.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ ht-degree: 9%
 
    ![](assets/managing-tag-values-4.png)
 
-1. Immettere **[!UICONTROL Value]** e fare clic su **[!UICONTROL Add Another]**. È possibile aggiungere tutti i valori desiderati.
+1. Immettere **[!UICONTROL Value]** e fare clic su **[!UICONTROL Add Another]**. Puoi aggiungere tutti i valori necessari.
 
    ![](assets/managing-tag-values-5.png)
 
@@ -49,7 +49,7 @@ ht-degree: 9%
 
    ![](assets/managing-tag-values-6.png)
 
-Dovresti vedere le modifiche immediatamente!
+Le modifiche vengono visualizzate immediatamente.
 
 ![](assets/managing-tag-values-7.png)
 

@@ -4,16 +4,16 @@ description: Come rimuovere lo stato di un programma da un canale in Admin (Ammi
 title: Eliminare lo stato di un programma da un canale del programma
 exl-id: 01bda910-cd6d-49df-a300-8163701482cd
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '125'
 ht-degree: 16%
 
 ---
 
 # Eliminare lo stato di un programma da un canale del programma {#delete-a-program-status-from-a-program-channel}
 
-Gli stati dei programmi sono i punti di controllo attraverso un percorso dei programmi (canale). Se per errore crei uno stato o non ne hai più bisogno, puoi eliminarlo.
+Gli stati dei programmi sono i punti di controllo attraverso il percorso (canale) di un programma. Se uno stato viene creato per errore o non è più necessario, è possibile eliminarlo.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -33,6 +33,6 @@ Gli stati dei programmi sono i punti di controllo attraverso un percorso dei pro
 
    >[!TIP]
    >
-   >Se una persona è attualmente assegnata allo stato in questione, non è possibile eliminarlo, è tuttavia possibile nasconderlo.
+   >Se una persona è attualmente assegnata allo stato in questione, non puoi eliminarlo, ma puoi nasconderlo.
 
-Ben fatto! Puoi anche [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessario.
+Puoi anche [eliminare un intero canale](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md), se necessario.

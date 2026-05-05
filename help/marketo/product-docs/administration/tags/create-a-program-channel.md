@@ -4,9 +4,9 @@ description: Passaggi per creare un canale di programma con stati e passaggi di 
 title: Creare un canale del programma
 exl-id: 7b4e15db-c221-45a9-9588-99eb2510cde7
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '390'
 ht-degree: 4%
 
 ---
@@ -33,7 +33,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
    >[!NOTE]
    >
-   >Perché utilizzare i tag? Un canale è un modo per descrivere un programma, proprio come gli altri tag. Il canale ha solo speciali funzionalità extra.
+   >Perché utilizzare i tag? Un canale è un modo per descrivere un programma, proprio come gli altri tag. Il canale ha speciali funzioni extra.
 
 1. Fai clic sul segno **+** accanto a [!UICONTROL Channel] per espandere e visualizzare i canali esistenti.
 
@@ -50,7 +50,7 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >Canale: Affissioni
    >
    >* Applica a: predefinito
-   >* Progressione: membro, coinvolto (in caso di dubbi, funzionano correttamente)
+   >* Progressione: membro, impegnato (valori predefiniti idonei)
    >* Completato: Coinvolto
    >
    >Canale: Party
@@ -59,15 +59,15 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
    >* Progressione: Invitato, Registrato, No Show e Partecipato
    >* Operazione completata: partecipazione avvenuta
    >
-   >Consulta le Progressioni dei canali esistenti per scoprire come utilizzarli.
+   >Esaminare le Progressioni dei canali esistenti per informazioni su come utilizzarli.
 
-1. Prendiamo l&#39;esempio del canale del partito. Assegna un nome al nuovo **[!UICONTROL Channel]** e seleziona il tipo di programma a cui verrà applicato.
+1. Utilizzando il canale di parte come esempio, assegnare un nome al nuovo **[!UICONTROL Channel]** e selezionare il tipo di programma a cui verrà applicato.
 
    ![](assets/create-a-program-channel-5.png)
 
    >[!NOTE]
    >
-   >Applicare a cosa? Esistono diversi tipi di programmi. Abbina il canale al tipo corretto. In caso di dubbi, scegliere **[!UICONTROL Default]**.
+   >Esistono diversi tipi di programmi. Abbina il canale al tipo corretto. In caso di dubbi, scegliere **[!UICONTROL Default]**.
 
    >[!NOTE]
    >
@@ -117,4 +117,4 @@ Un programma è una specifica iniziativa di marketing. Il canale deve essere il 
 
    ![](assets/create-a-program-channel-11.png)
 
-   Ben fatto! Quando crei un nuovo programma di quel tipo, questo nuovo canale sarà una delle scelte.
+   Quando crei un nuovo programma di quel tipo, questo nuovo canale sarà una delle scelte.

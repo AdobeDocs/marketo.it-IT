@@ -4,9 +4,9 @@ description: Passaggi per nascondere un canale di programma quando è in uso o p
 title: Nascondere/mostrare un canale del programma
 exl-id: 17061f87-85c9-4940-bd8e-590e4c7c04f1
 feature: Tags
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 8ba1c4b9d192a1fe3a20ed4a65c6ddeb1e59f276
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 17%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 17%
 >
 >**Autorizzazioni amministratore richieste**
 
-È possibile [eliminare un canale di programma](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se non è utilizzato da alcun programma.  Tuttavia, una volta che viene utilizzato, dobbiamo mantenerlo in giro.  Tuttavia, puoi nasconderlo se non è più necessario.
+È possibile [eliminare un canale di programma](/help/marketo/product-docs/administration/tags/delete-a-program-channel.md) se non è utilizzato da alcun programma.  Tuttavia, una volta in uso, deve rimanere nel sistema. Puoi nasconderlo se non ti serve più.
 
 ## Nascondere un canale programma {#hide-a-program-channel}
 
@@ -36,8 +36,6 @@ ht-degree: 17%
 1. In **[!UICONTROL Tag Actions]**, fare clic su **[!UICONTROL Hide]**.
 
    ![](assets/hide-unhide-a-program-channel-4.png)
-
-Vieni, vai!
 
 ## Scoprire un canale del programma {#unhide-a-program-channel}
 
