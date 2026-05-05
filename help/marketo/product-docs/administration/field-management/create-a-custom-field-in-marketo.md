@@ -4,16 +4,16 @@ description: Passaggi per creare un nuovo campo personalizzato in Marketo Engage
 title: Creare un campo personalizzato in Marketo
 exl-id: 6face1d7-6a4e-412b-9708-6aa7e43e8c11
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 11%
+source-wordcount: '191'
+ht-degree: 14%
 
 ---
 
 # Creare un campo personalizzato in Marketo {#create-a-custom-field-in-marketo}
 
-Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare/acquisire dati, ecco come crearne uno.
+Scopri come creare un campo personalizzato in Marketo Engage per archiviare e acquisire dati.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -47,7 +47,7 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare
 
    ![](assets/create-a-custom-field-in-marketo-5.png)
 
-1. Immettere _[!UICONTROL Name]_&#x200B;come si desidera che venga visualizzato in Marketo (_[!UICONTROL API Name]_ viene generato automaticamente). Scegli con attenzione, poiché non può essere rinominato dopo il salvataggio. Al termine, fai clic su **[!UICONTROL Create]**.
+1. Immettere _[!UICONTROL Name]_come si desidera che venga visualizzato in Marketo (_[!UICONTROL API Name]_ viene generato automaticamente). Scegli con attenzione, poiché non può essere rinominato dopo il salvataggio. Al termine, fai clic su **[!UICONTROL Create]**.
 
 >[!CAUTION]
 >
@@ -59,4 +59,4 @@ Se hai bisogno di un nuovo campo personalizzato in Marketo Engage per archiviare
 >
 >Il nome API viene utilizzato dall’API SOAP e da altri processi di back-end.
 
-Ora puoi utilizzare questo campo personalizzato in maschere, passaggi di flusso ed elenchi avanzati.
+È ora possibile utilizzare questo campo personalizzato in maschere, passaggi di flusso ed elenchi avanzati.

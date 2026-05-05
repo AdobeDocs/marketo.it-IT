@@ -4,16 +4,16 @@ description: Nascondi i campi dall’interfaccia utente di Marketo quando non so
 title: Nascondere e mostrare un campo
 exl-id: 14395c31-d0f4-4aec-8592-a60a764a7263
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '161'
 ht-degree: 16%
 
 ---
 
 # Nascondere e mostrare un campo {#hide-and-unhide-a-field}
 
-Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
+Se non hai più bisogno di un campo in Marketo Engage, puoi nasconderlo dall’interfaccia utente in modo che non venga più visualizzato nell’applicazione.
 
 ## Nascondi campo {#hide-a-field}
 
@@ -35,7 +35,7 @@ Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfa
 
    >[!NOTE]
    >
-   >* Per nascondere un campo, non deve essere associato ad altre risorse (comprese quelle archiviate). Assicurati di rimuovere il campo da tutti gli elenchi avanzati, le scelte delle fasi di flusso, i moduli, le e-mail, ecc., prima di nasconderli.
+   >* Per nascondere un campo, non deve essere associato ad altre risorse (comprese quelle archiviate). Prima di nascondere il campo, rimuovilo da tutti gli elenchi avanzati, le scelte delle fasi di flusso, i moduli, le e-mail e così via.
    >* Non è possibile nascondere i campi standard (di sistema).
    >* Non puoi nascondere i campi di informazioni sull’opportunità.
 
@@ -43,7 +43,7 @@ Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfa
 
    ![](assets/hide-and-unhide-a-field-4.png)
 
-   Ottimo lavoro. Ora sai come nascondere un campo dall’interfaccia utente di Marketo.
+   Ora sai come nascondere un campo dall’interfaccia utente di Marketo.
 
    ![](assets/hide-and-unhide-a-field-5.png)
 
@@ -61,4 +61,4 @@ Se non utilizzi più un campo in Marketo Engage, puoi nasconderlo dall’interfa
 
    ![](assets/hide-and-unhide-a-field-8.png)
 
-   Ottimo lavoro! Ora puoi scoprire i campi e renderli nuovamente visibili.
+   Ora puoi scoprire i campi e renderli nuovamente visibili.

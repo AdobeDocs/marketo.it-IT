@@ -4,16 +4,16 @@ description: Blocca gli aggiornamenti a un campo in modo che il primo valore scr
 title: Bloccare gli aggiornamenti a un campo
 exl-id: 763097a3-cfa0-4df7-bfd1-40332b8dda1e
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 10%
 
 ---
 
 # Bloccare gli aggiornamenti a un campo {#block-updates-to-a-field}
 
-Il blocco degli aggiornamenti di un campo consente di scrivere nel campo una volta e di mantenere il valore originale per la durata del campo. Questo può essere utile per un campo come [!UICONTROL Person Source].
+Il blocco degli aggiornamenti di un campo consente di scrivere nel campo una volta e di mantenere il valore originale per la durata del record. Questo può essere utile per un campo come [!UICONTROL Person Source].
 
 >[!NOTE]
 >

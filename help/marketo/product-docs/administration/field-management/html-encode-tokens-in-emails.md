@@ -4,16 +4,16 @@ description: Abilita o disabilita la codifica HTML per i token personali e azien
 title: Codificare token HTML nelle e-mail
 exl-id: aeac6eec-0f43-4cf3-a850-d193e4fc194d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 18%
+source-wordcount: '91'
+ht-degree: 19%
 
 ---
 
 # Codificare token HTML nelle e-mail {#html-encode-tokens-in-emails}
 
-Abilita/disabilita i token persona e azienda utilizzati nelle e-mail.
+Abilita o disabilita i token persona e azienda utilizzati nelle e-mail.
 
 >[!NOTE]
 >
@@ -21,7 +21,7 @@ Abilita/disabilita i token persona e azienda utilizzati nelle e-mail.
 
 >[!NOTE]
 >
->La codifica converte i caratteri nelle rispettive versioni del codice HTML per evitare confusione durante la trasmissione (ad esempio, &quot;&amp;&quot; viene modificato in `&amp;`). Per ulteriori informazioni, consulta il tuo sviluppatore web.
+>La codifica converte i caratteri nelle rispettive versioni del codice HTML per evitare confusione durante la trasmissione (ad esempio, &quot;&amp;&quot; viene modificato in `&amp;`). Per ulteriori dettagli, consulta uno sviluppatore web.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -39,4 +39,4 @@ Abilita/disabilita i token persona e azienda utilizzati nelle e-mail.
 
    ![](assets/html-encode-tokens-in-emails-4.png)
 
-   Ed è tutto! Puoi eseguire questa operazione per tutti i singoli campi desiderati.
+   Ripeti l’operazione per eventuali campi aggiuntivi, in base alle esigenze.

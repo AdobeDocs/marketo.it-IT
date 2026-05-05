@@ -4,16 +4,16 @@ description: Come modificare il tipo di dati di un campo personalizzato in Gesti
 title: Modificare il tipo di un campo personalizzato di Marketo
 exl-id: b9b3dfc5-cb5f-4233-9fe6-f8fdf111d48c
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '105'
 ht-degree: 20%
 
 ---
 
 # Modificare il tipo di un campo personalizzato di Marketo {#change-the-type-of-a-marketo-custom-field}
 
-Per modificare il tipo di campo di un campo personalizzato, procedere come segue.
+Scopri come modificare il tipo di campo di un campo personalizzato.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -45,7 +45,7 @@ Per modificare il tipo di campo di un campo personalizzato, procedere come segue
 
    >[!NOTE]
    >
-   >Il messaggio di avviso visualizzato varia a seconda del tipo di campo da/a che si desidera modificare.
+   >Il messaggio di avviso visualizzato varia a seconda del tipo di campo da cui si sta modificando e a.
 
    >[!MORELIKETHIS]
    >

@@ -3,9 +3,9 @@ description: Esporta come CSV tutti gli oggetti e i relativi metadati, inclusi c
 title: Esportare tutti i metadati dell’oggetto
 exl-id: 93ddf737-98db-4791-b526-d399c59147ee
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '79'
 ht-degree: 29%
 
 ---
@@ -45,6 +45,6 @@ Questa funzione consente di esportare tutti gli oggetti e i relativi metadati.
 >
 >Assicurati che il browser non blocchi i popup da Marketo.
 
-I dati verranno esportati come file CSV.
+I dati vengono esportati come file CSV.
 
 ![](assets/export-all-object-metadata-4.png)

@@ -4,16 +4,16 @@ description: Crea e modifica alias di campo in modo che le importazioni elenco c
 title: Modificare alias campo per importazione elenco
 exl-id: 0cc2f4c8-6858-4b41-bae3-4a8d267efe88
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 15%
+source-wordcount: '123'
+ht-degree: 16%
 
 ---
 
 # Modificare alias campo per importazione elenco {#edit-field-aliases-for-list-import}
 
-Quando importi un elenco con intestazioni sconosciute, puoi creare alias di campo per semplificarlo. Puoi anche modificare tali alias nella gestione dei campi. Guarda un po&#39;.
+Quando importi un elenco con intestazioni sconosciute, puoi creare alias di campo per semplificare le importazioni future. Puoi anche modificare tali alias in Gestione campi.
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ Quando importi un elenco con intestazioni sconosciute, puoi creare alias di camp
 >
 >Fare clic su **[!UICONTROL Add Another]** e immettere altri alias, se necessari.
 
-Guardate quello! Ora, se si importa un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
+Ora, se si importa un foglio di calcolo con una colonna denominata &quot;DOB&quot;, Marketo lo riconoscerà automaticamente come &quot;Data di nascita&quot; e importerà i dati nel campo corretto.
 
 ![](assets/edit-field-aliases-for-list-import-6.png)

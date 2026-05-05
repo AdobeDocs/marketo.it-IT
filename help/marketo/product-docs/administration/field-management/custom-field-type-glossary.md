@@ -4,7 +4,7 @@ description: Riferimento per i tipi di campi personalizzati in Marketo, inclusi 
 title: Glossario dei tipi di campo personalizzato
 exl-id: 495d4deb-28f1-4044-98d3-27c20756fe73
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 3%
@@ -13,7 +13,7 @@ ht-degree: 3%
 
 # Glossario dei tipi di campo personalizzato {#custom-field-type-glossary}
 
-Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui scegliere.
+Quando si crea un campo personalizzato in Marketo, è disponibile un elenco di tipi tra cui scegliere.
 
 >[!PREREQUISITES]
 >
@@ -25,7 +25,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 >[!NOTE]
 >
->La maggior parte dei campi non prevede un numero massimo di caratteri, ma solo un numero di byte. Per questo motivo, non è possibile fornire un limite di caratteri definitivo per ciascun campo. L&#39;eccezione è **String**, che non può superare i 255 caratteri.
+>La maggior parte dei campi non raggiunge il numero massimo di caratteri, ma la quantità di byte. Per questo motivo, Marketo non è in grado di fornire un limite di caratteri definitivo per ciascun campo. L&#39;eccezione è **String**, che non può superare i 255 caratteri.
 
 ## Booleano {#boolean}
 
@@ -45,7 +45,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Data {#date}
 
-**Nome esempio:** Data di rinnovo - Memorizza le date di rinnovo dei clienti
+**Nome esempio:** Data rinnovo - Memorizza le date di rinnovo dei clienti
 
 **Valori di esempio:** 8/19/14
 
@@ -61,7 +61,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## E-mail {#email}
 
-**Nome esempio:** e-mail alternativa - Mantieni un indirizzo e-mail alternativo per le tue persone (non può effettivamente inviare e-mail a questo campo come il campo indirizzo e-mail predefinito, che è speciale)
+**Nome esempio:** e-mail alternativa - Mantieni un indirizzo e-mail alternativo per le persone (impossibile inviare effettivamente e-mail a questo campo come il campo dell&#39;indirizzo e-mail predefinito)
 
 **Valori di esempio:** <name@company.com>
 
@@ -77,13 +77,13 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Formula {#formula}
 
-**Nome esempio:** Saluti. Utilizzare questo campo speciale in una [soluzione per ottenere la formula di apertura corretta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) in base al sesso
+**Nome esempio:** Saluti - Utilizza questo campo speciale in una [soluzione per ottenere la formula di apertura corretta](/help/marketo/product-docs/administration/field-management/create-and-use-a-concatenated-string-formula-field.md) in base al sesso
 
-**Valori di esempio:** controllare la soluzione collegata
+**Valori di esempio:** Controllare la soluzione collegata
 
 ## Intero {#integer}
 
-**Nome esempio:** Numero di dipendenti - memorizzare un valore numerico che non richiede decimali
+**Nome esempio:** Numero di dipendenti - Memorizza un valore numerico che non richiede decimali
 
 **Valori di esempio:** 600
 
@@ -91,7 +91,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Percentuale {#percent}
 
-**Nome esempio:** probabile acquisto - memorizzare un valore percentuale (forse calcolato sul lato CRM)
+**Nome esempio:** probabile acquisto - memorizzare un valore percentuale (calcolato nel CRM)
 
 **Valori di esempio:** 85%
 
@@ -99,7 +99,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Telefono {#phone}
 
-**Nome esempio:** telefono alternativo - memorizzare un numero di telefono aggiuntivo per le persone
+**Nome esempio:** telefono alternativo - Memorizza un numero di telefono aggiuntivo per le persone
 
 **Valore di esempio:** 650-555-5555
 
@@ -107,7 +107,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Punteggio {#score}
 
-**Nome esempio:** Punteggio comportamentale/Punteggio demografico - crea più campi di punteggio per tenere traccia di attributi diversi
+**Nome esempio:** Punteggio comportamentale/Punteggio demografico - Crea più campi di punteggio per tenere traccia di attributi diversi
 
 **Valore di esempio:** 14
 
@@ -115,7 +115,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Stringa {#string}
 
-**Nome esempio:** secondo nome - memorizzare un attributo di testo aggiuntivo
+**Nome esempio:** secondo nome - Memorizza un attributo di testo aggiuntivo
 
 **Valore di esempio:** Rose
 
@@ -123,7 +123,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## Area di testo {#text-area}
 
-**Nome esempio:** Commenti - aggiungi un campo commenti ai moduli per consentire l&#39;immissione di testo su più righe
+**Nome esempio:** Commenti - Aggiungere un campo commenti ai moduli per consentire l&#39;immissione di testo su più righe
 
 **Valore di esempio:** Questo articolo è fantastico!
 
@@ -131,7 +131,7 @@ Quando crei un campo personalizzato in Marketo, hai un elenco di tipi tra cui sc
 
 ## URL {#url}
 
-**Nome esempio:** Blog - crea un campo per memorizzare gli URL del blog della persona
+**Nome esempio:** Blog - Crea un campo per memorizzare gli URL del blog personale
 
 **Valore di esempio:** &lt;www.myblog.com>
 

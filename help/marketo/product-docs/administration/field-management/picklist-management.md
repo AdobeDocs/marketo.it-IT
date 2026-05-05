@@ -1,13 +1,13 @@
 ---
-description: Inserire qui la descrizione.
+description: Scopri come definire un set fisso di valori per un campo per semplificare la gestione dei dati e dei flussi di lavoro.
 title: Gestione elenchi a discesa
 hide: true
 hidefromtoc: true
 feature: Field Management
 exl-id: 2b75edbb-0ce3-495b-a245-dac2db9c0126
-source-git-commit: 3e1f9cb0a896dc9468d778e5ff2c5ffab3e6d80e
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ La gestione degli elenchi di selezione consente di definire un set fisso di valo
 
 * **Predefinito**: il campo include un elenco di valori definito dal sistema suggeriti all&#39;utente.
 
-* **CRM**: il campo include un valore definito dal sistema CRM, Salesforce.com o Microsoft Dynamics, che è sincronizzato con l&#39;istanza.
+* **CRM**: il campo include un valore definito dal sistema di gestione delle relazioni con i clienti, Salesforce.com o Microsoft Dynamics, che è sincronizzato con l&#39;istanza.
 
   ![](assets/picklist-management-1.png)
 
@@ -40,7 +40,7 @@ Nella finestra di dialogo _Gestisci elenco a discesa_ puoi aggiungere, modificar
 
 ![](assets/picklist-management-3.png)
 
-Ogni voce dell’elenco a discesa ha un valore visualizzato e un valore inviato. Il valore di visualizzazione è ciò che viene suggerito all’utente durante la creazione di elenchi avanzati, campagne avanzate o moduli, mentre il valore inviato è quello memorizzato. Ad esempio, il caso di utilizzo del Codice territorio potrebbe suggerire il nome completo di un territorio (ad esempio, Alberta), durante la memorizzazione del codice a due lettere (AB).
+Ogni voce dell’elenco a discesa ha un valore visualizzato e un valore inviato. Il valore di visualizzazione è ciò che viene suggerito all’utente durante la creazione di elenchi avanzati, campagne avanzate o moduli, mentre il valore inviato è quello memorizzato. Ad esempio, un caso di utilizzo di Codice territorio può suggerire il nome completo di un territorio (ad esempio, Alberta), memorizzando il codice a due lettere (AB).
 
 ## Suggerimento automatico {#autosuggest}
 
@@ -54,7 +54,7 @@ Quando l&#39;impostazione _Elenco di selezione gestito_ è abilitata, i passaggi
 
 ### Passaggio tra elenchi di selezione gestiti e non gestiti {#switching}
 
-La maggior parte degli abbonamenti a Marketo Engage contiene dati precedenti all’introduzione degli elenchi di scelta gestiti. Per utilizzare i valori negli elenchi avanzati o nei passaggi del flusso da questo elenco di selezione delle versioni non gestite (ad esempio, dall’intero set di valori esistenti nei record del database), attiva l’impostazione Elenco di selezione gestito nella vista Elenco avanzato o Campagna. Quando è attivata, vengono visualizzati solo i valori dell’elenco a discesa gestito. Quando viene disattivato, viene utilizzato l’elenco a discesa non gestito e i valori vengono suggeriti automaticamente in base ai valori esistenti nel database.
+La maggior parte degli abbonamenti a Marketo Engage contiene dati precedenti all’introduzione degli elenchi di scelta gestiti. Per utilizzare i valori negli elenchi avanzati o nei passaggi di flusso di questa versione non gestita dell’elenco a discesa (ad esempio, dall’intero set di valori presenti nei record del database), attiva l’impostazione Elenco a discesa gestito nella vista Elenco avanzato o Campagna. Quando è attivata, vengono visualizzati solo i valori dell’elenco a discesa gestito. Quando viene disattivato, viene utilizzato l’elenco a discesa non gestito e i valori vengono suggeriti automaticamente in base ai valori esistenti nel database.
 
 ## Elenchi Di Selezione Moduli (Seleziona Campi Tipo) {#form-picklists}
 

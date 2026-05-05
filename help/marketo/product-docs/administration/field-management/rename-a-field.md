@@ -4,10 +4,10 @@ description: Passaggi per rinominare un campo personalizzato in Marketo dopo ave
 title: Rinominare un campo
 exl-id: 3c9558b6-df08-4687-94ac-61a2f70628a4
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 10%
+source-wordcount: '125'
+ht-degree: 11%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 10%
 
 >[!NOTE]
 >
->È possibile rinominare un campo personalizzato in Marketo, ma esiste un problema: è necessario rimuoverne tutto l’utilizzo nel sistema prima di farlo. Sono inclusi moduli, elenchi avanzati e campagne avanzate.
+>È possibile rinominare un campo personalizzato in Marketo. Tuttavia, è necessario rimuoverne tutto l&#39;uso nel sistema prima di farlo. Ciò include moduli, elenchi avanzati e campagne avanzate.
 
 >[!NOTE]
 >
@@ -41,8 +41,8 @@ ht-degree: 10%
 
    ![](assets/rename-a-field-4.png)
 
-Bel lavoro! Ora sai come rinominare i campi in Marketo.
+Ora sai come rinominare i campi in Marketo.
 
 >[!CAUTION]
 >
->Se si rinomina il nome API in [!DNL Salesforce], Marketo creerà un nuovo campo e lascerà quello precedente.
+>Se si rinomina il nome API in [!DNL Salesforce], Marketo creerà un nuovo campo e lascerà indietro quello precedente.

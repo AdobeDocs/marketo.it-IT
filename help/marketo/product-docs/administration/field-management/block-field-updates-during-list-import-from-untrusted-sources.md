@@ -4,16 +4,16 @@ description: Impedisci la sovrascrittura dei campi chiave durante le importazion
 title: Bloccare aggiornamenti dei campi durante l’importazione degli elenchi da origini non attendibili
 exl-id: 0fd59f0c-6cb9-442c-937b-da18a4466873
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 14%
+source-wordcount: '187'
+ht-degree: 13%
 
 ---
 
 # Bloccare aggiornamenti dei campi durante l’importazione degli elenchi da origini non attendibili {#block-field-updates-during-list-import-from-untrusted-sources}
 
-In alcuni elenchi è possibile considerare attendibili i dati più di altri. A volte si hanno dati discutibili e si desidera accettarli se il campo è vuoto, ma non se è presente un valore esistente. Per farlo, blocca gli aggiornamenti dei campi nei campi chiave.
+In alcuni elenchi è possibile considerare attendibili i dati più di altri. A volte si hanno dati discutibili e si desidera accettare i dati se il campo è vuoto, ma non se è presente un valore esistente. Per farlo, blocca gli aggiornamenti dei campi nei campi chiave.
 
 >[!NOTE]
 >
@@ -51,4 +51,4 @@ Ripetere i passaggi precedenti per tutti gli altri campi che si desidera protegg
 
 Per istruzioni dettagliate sull&#39;importazione degli elenchi, vedere [Importare un elenco di persone](/help/marketo/getting-started/quick-wins/import-a-list-of-people.md).
 
-Ottimo lavoro. Ora sai come proteggere i campi chiave dagli elenchi non attendibili.
+I campi chiave sono ora protetti dalle importazioni di elenchi non attendibili.

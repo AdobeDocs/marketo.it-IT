@@ -4,10 +4,10 @@ description: Esporta un elenco di risorse che utilizzano un campo in modo da pot
 title: Esportare Utilizzo da dati per un campo
 exl-id: 6d7aab4d-1c4d-48f8-aeea-a926628ebf0d
 feature: Field Management
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: cbf6c6c480eb9959f4f1f8367deffcef2728f068
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 27%
+source-wordcount: '99'
+ht-degree: 28%
 
 ---
 
@@ -35,7 +35,7 @@ In qualità di amministratore, puoi esportare le risorse correlate di un campo i
 
    ![](assets/export-used-by-data-for-a-field-4.png)
 
-1. Verrà esportato un file [!DNL Excel]. Aprilo per visualizzarne il contenuto.
+1. Esportazioni di un file [!DNL Excel]. Aprilo per visualizzarne il contenuto.
 
    ![](assets/export-used-by-data-for-a-field-5.png)
 
