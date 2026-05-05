@@ -15,4 +15,4 @@ ht-degree: 16%
 
 [!DNL Munchkin] è lo snippet di JavaScript inserito nel sito Web. Tiene traccia di visite, clic e compilazioni di moduli. Dispone inoltre di un’API avanzata con funzionalità aggiuntive.
 
-Per ulteriori informazioni, consulta la pagina per sviluppatori [ in  [!DNL Munchkin]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+Per ulteriori informazioni, consulta la pagina per sviluppatori [&#x200B; in  [!DNL Munchkin]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
