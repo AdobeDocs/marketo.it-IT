@@ -4,10 +4,10 @@ description: Filtra Audit Trail per intervallo di tempo, tipo di risorsa, utenti
 title: Filtrare in Audit trail
 exl-id: 7928dfff-4d3f-42b4-94ad-0147a2fc3433
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 14%
+source-wordcount: '132'
+ht-degree: 21%
 
 ---
 
@@ -39,7 +39,7 @@ Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e alt
 
    ![](assets/filtering-in-audit-trail-5.png)
 
-1. Fai clic sul menu a discesa **Actions** e seleziona **[!UICONTROL Edit]**.
+1. Fai clic sul menu a discesa **[!UICONTROL Actions]** e seleziona **[!UICONTROL Edit]**.
 
    ![](assets/filtering-in-audit-trail-6.png)
 
@@ -51,11 +51,9 @@ Filtra per intervallo di tempo, tipo di risorsa, utenti, azione intrapresa e alt
 
    ![](assets/filtering-in-audit-trail-8.png)
 
-   Tutto qui!
-
    >[!NOTE]
    >
-   >Se sono state attivate delle aree di lavoro, verranno visualizzati i dati di controllo per tutte le aree di lavoro. Se applichi un filtro dell’area di lavoro, Marketo ricorda il valore dell’area di lavoro precedente ogni volta che utilizzi l’audit trail. Le autorizzazioni Workspace a livello di risorsa vengono applicate.
+   >Se sono state attivate aree di lavoro, vengono visualizzati i dati di controllo per tutte le aree di lavoro. Se applichi un filtro dell’area di lavoro, Marketo ricorda il valore dell’area di lavoro precedente ogni volta che utilizzi Audit Trail. Le autorizzazioni Workspace a livello di risorsa vengono applicate.
 
    >[!MORELIKETHIS]
    >

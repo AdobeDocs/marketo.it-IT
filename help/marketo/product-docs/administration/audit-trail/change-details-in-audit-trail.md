@@ -4,16 +4,16 @@ description: Riferimento per i dettagli delle modifiche Record di Audit Trail pe
 title: Modificare i dettagli in Audit trail
 exl-id: 5583be62-46a6-42f9-b4b3-0df63a171b2d
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '1906'
+source-wordcount: '1910'
 ht-degree: 12%
 
 ---
 
 # Modificare i dettagli in Audit trail {#change-details-in-audit-trail}
 
-Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a Marketo. Ecco i dettagli.
+Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a Marketo.
 
 ## Asset Audit Trail {#asset-audit-trail}
 
@@ -303,7 +303,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
   </tr>
   <tr>
    <td>Modifica flusso programma</td>
-   <td>Aggiungi contenuto<br>Nome flusso "nome flusso"<br>Digitare "E-mail" o "Programma"<br>Nome "nome e-mail" o "nome programma"<br>Nome campagna avanzata "nome campagna avanzata"</td>
+   <td>Aggiungi contenuto<br>Nome flusso "nome flusso"<br>Digitare "E-mail" o "Programma"<br>Nome "nome e-mail" o "nome programma"<br>Smart Campaign "nome smart campaign"</td>
   </tr>
   <tr>
    <td>Modifica flusso programma</td>
@@ -412,7 +412,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
   </tr>
   <tr>
    <td>Modifica impostazione programma</td>
-   <td>Elimina comportamento di analisi "nome comportamento"</td>
+   <td>Eliminare il comportamento di analisi "nome comportamento"</td>
   </tr>
   <tr>
    <td colspan="1">Modifica impostazione programma</td>
@@ -428,7 +428,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
   </tr>
   <tr>
    <td colspan="1">Modifica impostazione programma</td>
-   <td colspan="1">Aggiunto "nome_partner" partner evento</td>
+   <td colspan="1">Aggiunto partner eventi 'partner_name'</td>
   </tr>
   <tr>
    <td>Esporta</td>
@@ -630,7 +630,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>Clonato in "Programmi" nel programma "nome programma" <br>Nome risorsa clonato "nome"<br>o<br>Clonato in "Cartella" nella cartella "nome cartella"<br>Nome risorsa clonato "nome"</td>
   </tr>
   <tr>
-   <td>Modifica impostazione elenco smart</td>
+   <td>Modifica impostazione elenco avanzato</td>
    <td>Mostra lo snapshot dello stato corrente, inclusi nomi e valori di filtri e trigger</td>
   </tr>
   <tr>
@@ -667,7 +667,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>Clonato in "Database persona" nella cartella "foldername" <br>Nome risorsa clonato "name"<br>o<br>Clonato in "Attività di marketing" nel programma "nome programma" <br>Nome risorsa clonato "name"</td>
   </tr>
   <tr>
-   <td>Modifica impostazione elenco smart</td>
+   <td>Modifica impostazione elenco avanzato</td>
    <td>Mostra lo snapshot dello stato corrente, inclusi nomi e valori di filtri e trigger </td>
   </tr>
   <tr>
@@ -749,7 +749,7 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
   <tr>
    <td>Sicurezza password</td>
    <td>Modifica</td>
-   <td>La sicurezza della password è stata modificata nel modello: Sicurezza standard, lunghezza minima: #, inferiore-superiore: #, numero: #, maiuscole/minuscole: # , scadenza : #, timeout sessione: #</td>
+   <td>La sicurezza della password è stata modificata nel modello: Sicurezza standard, lunghezza minima: #, inferiore-superiore: #, numero: #, maiuscole/minuscole: #, scadenza: #, timeout sessione: #</td>
   </tr>
   <tr>
    <td rowspan="3">Ruolo<br><br></td>
@@ -765,14 +765,14 @@ Audit Trail offre molto di insight su chi sta facendo cosa nell’abbonamento a 
    <td>Ruolo modificato da "nome precedente" a "nuovo nome" (NOTA: per informazioni sulle autorizzazioni modificate, contattare il supporto tecnico) - <br>mostra un'istantanea delle autorizzazioni assegnate al ruolo<br></td>
   </tr>
   <tr>
-   <td>Rapporto elenco smart</td>
+   <td>Rapporto elenchi avanzati</td>
    <td>Modifica</td>
-   <td>Elenco smart modificato per il download: "true or false"</td>
+   <td>Elenco avanzato modificato per il download: "true or false"</td>
   </tr>
   <tr>
    <td rowspan="7">Utente<br><br><br><br></td>
    <td>Crea (invita)</td>
-   <td>Utente invitato con: E-mail "indirizzo e-mail", Nome "nome e cognome", Scadenza accesso "vuoto o con una data", Utente API "vero o falso" - <br>mostra l’istantanea dei ruoli e delle aree di lavoro assegnati all’utente</td>
+   <td>L’utente è stato invitato con: E-mail "indirizzo e-mail", Nome "nome e cognome", Scadenza accesso "vuoto o con data", Utente API "vero o falso" - <br>mostra un’istantanea dei ruoli e delle aree di lavoro assegnati all’utente</td>
   </tr>
   <tr>
    <td colspan="1">Elimina</td>

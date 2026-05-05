@@ -4,9 +4,9 @@ description: Visualizza chi ha effettuato l’accesso alla sottoscrizione e quan
 title: Cronologia di accesso utente
 exl-id: 4ae3f755-28af-48b5-abe1-377c6952d00a
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '181'
 ht-degree: 8%
 
 ---
@@ -49,7 +49,7 @@ Per visualizzare la cronologia degli accessi utente:
 
    ![](assets/user-login-history-5.png)
 
-1. Oppure, scegli dall’elenco a discesa.
+1. Oppure scegli dall’elenco a discesa.
 
    ![](assets/user-login-history-6.png)
 
@@ -67,7 +67,7 @@ Per visualizzare la cronologia degli accessi utente:
 
    >[!NOTE]
    >
-   >L’interfaccia utente visualizza fino a 30 giorni di dati. Se hai bisogno di più, puoi scaricare i dati degli ultimi sei mesi in un file csv.
+   >L’interfaccia utente visualizza fino a 30 giorni di dati. Per saperne di più, puoi scaricare gli ultimi sei mesi di dati in un file CSV.
 
    >[!MORELIKETHIS]
    >

@@ -4,9 +4,9 @@ description: Abilita Audit Trail e Cronologia di accesso per un ruolo e assegna 
 title: Abilitare Audit trail
 exl-id: 3ab2d7b2-1be1-4b3f-a9cc-d3edfa963679
 feature: Audit Trail
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 759f14f3913491d95e637e0d80217720beda55b1
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '211'
 ht-degree: 5%
 
 ---
@@ -67,13 +67,13 @@ Audit Trail è disponibile per tutti i clienti ed è controllato da due autorizz
    >
    >Questo processo si applica anche quando si crea un nuovo utente.
 
-1. Seleziona i ruoli Audit Trail creati. In questo esempio abbiamo creato &quot;Audit Trail - Risorse e amministratore&quot; e &quot;Audit Trail - Con cronologia di accesso&quot;.
+1. Seleziona i ruoli Audit Trail creati. Questo esempio mostra come creare &quot;Audit Trail - Risorse e amministratore&quot; e &quot;Audit Trail - Con cronologia di accesso&quot;.
 
    ![](assets/enable-audit-trail-7.png)
 
    >[!CAUTION]
    >
-   >Se sono state abilitate aree di lavoro, assicurarsi di selezionare la casella di controllo del ruolo, che seleziona tutte le aree di lavoro. Deselezionando una singola area di lavoro, verrà nascosto Audit Trail. Ciò significa che vedrai i dati di Audit Trail per ogni area di lavoro. È possibile nascondere le aree di lavoro quando [si filtra](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
+   >Se sono state abilitate aree di lavoro, assicurarsi di selezionare la casella di controllo del ruolo, che seleziona tutte le aree di lavoro. Deselezionando una singola area di lavoro si nasconde Audit Trail. È possibile nascondere le aree di lavoro quando [si filtra](/help/marketo/product-docs/administration/audit-trail/filtering-in-audit-trail.md).
 
 1. Fai clic su **[!UICONTROL Save]**.
 
