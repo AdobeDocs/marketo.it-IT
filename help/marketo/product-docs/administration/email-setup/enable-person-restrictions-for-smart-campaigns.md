@@ -13,7 +13,7 @@ ht-degree: 14%
 
 # Abilitare restrizioni persona per campagne avanzate {#enable-person-restrictions-for-smart-campaigns}
 
-In Marketo è disponibile una funzione per limitare il numero massimo di _1} persone che possono qualificarsi per una campagna avanzata._ In questo modo si evita di inviare accidentalmente e-mail all’intero database.
+In Marketo è disponibile una funzione per limitare il numero massimo di _1&rbrace; persone che possono qualificarsi per una campagna avanzata._ In questo modo si evita di inviare accidentalmente e-mail all’intero database.
 
 >[!NOTE]
 >
