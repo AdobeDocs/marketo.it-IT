@@ -3,9 +3,9 @@ unique-page-id: 11380218
 description: Note sulla versione - Estate del 16 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - Estate 2016
 exl-id: 3843668e-c729-42aa-b05c-55c33ee0d783
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '798'
 ht-degree: 0%
 
 ---
@@ -52,14 +52,14 @@ Creazione semplice di messaggi SMS direttamente in Marketo. Personalizza e indir
 
 **Variabili a livello di modulo**
 
-In precedenza, tutte le variabili specificate in Modelli e-mail 2.0 erano &quot;globali&quot; nell’ambito. Quando si utilizzano le variabili all’interno dei moduli, questo non è sempre opportuno se si intende utilizzare più istanze del modulo. Con questa versione, le variabili possono ora essere specificate come &quot;livello modulo&quot;, che consente di indicare che l’utente deve essere in grado di impostare valori univoci per ogni modulo in cui vengono utilizzate.
+In precedenza, tutte le variabili specificate in Modelli e-mail 2.0 erano &quot;globali&quot; nell’ambito. Quando si utilizzano variabili all’interno di moduli, questo non è sempre opportuno se si intende utilizzare più istanze del modulo. Con questa versione, le variabili possono ora essere specificate come &quot;livello modulo&quot;, che consente di indicare che l’utente deve essere in grado di impostare valori univoci per ogni modulo in cui vengono utilizzate.
 
 ![](assets/module-level-variables.png)
 
 **Aggiornamenti sintassi**
 
 * Ora è possibile utilizzare &quot;mktoAddByDefault&quot; sui moduli specificati in Modelli e-mail 2.0 per indicare quali moduli devono essere visualizzati nelle nuove e-mail per impostazione predefinita. Questa funzione è molto più utile se stai creando un modello e-mail con un numero elevato di moduli.
-* Sugli elementi immagine è ora possibile specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell&#39;elemento HTML sottostante devono essere bloccate o modificabili per l&#39;utente finale. `<img>` mktoLockImgSize=&quot;true&quot; causerà il blocco di altezza/larghezza (anche se l&#39;immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; causerà il blocco della proprietà &quot;style&quot;.
+* Sugli elementi immagine è ora possibile specificare se le proprietà &quot;height&quot; e &quot;width&quot; dell&#39;elemento HTML sottostante devono essere bloccate o modificabili per l&#39;utente finale. `<img>`mktoLockImgSize=&quot;true&quot; causerà il blocco di altezza/larghezza (anche se l&#39;immagine viene modificata). Analogamente, mktoLockImgStyle=&quot;true&quot; causerà il blocco della proprietà &quot;style&quot;.
 
 **Ricerca codice**
 

@@ -3,9 +3,9 @@ description: Scopri il dashboard del coinvolgimento dei webinar interattivi. Vis
 title: Dashboard di coinvolgimento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '1712'
+source-wordcount: '1736'
 ht-degree: 0%
 
 ---
@@ -301,7 +301,7 @@ Comprendere i criteri per la classificazione del livello di coinvolgimento per c
     <li>Il partecipante ha posto almeno una domanda nel pod domande e risposte.</li></td>
   </tr>
   <tr>
-    <td>Media</td>
+    <td>Canale</td>
     <td>Partecipanti che soddisfano tutti i seguenti criteri:
     <li>Il livello di coinvolgimento del partecipante non è determinato come elevato.</li>
     <li>La durata della partecipazione è di almeno il 60% del tempo totale dell'evento.</li>

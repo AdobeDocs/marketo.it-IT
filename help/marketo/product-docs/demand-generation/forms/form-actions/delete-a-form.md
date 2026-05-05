@@ -4,9 +4,9 @@ description: Scopri come eliminare un modulo in Marketo. Rimuovi dall’istanza 
 title: Eliminare un modulo
 exl-id: 137e75b3-febd-44e8-b7f8-12221a1252fa
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '140'
 ht-degree: 7%
 
 ---
@@ -29,7 +29,7 @@ Se si dispone di un modulo non necessario e non utilizzato, è possibile elimina
 
    >[!NOTE]
    >
-   >Ricordati di rimuovere il modulo da una o più pagine di destinazione che lo utilizzano. Inoltre, verifica che il modulo non venga utilizzato su un sito Web pubblico.
+   >Ricordati di rimuovere il modulo da una o più pagine di destinazione che lo utilizzano. Inoltre, verifica che il modulo non sia utilizzato su un sito web pubblico.
 
 1. Confermare facendo clic su **[!UICONTROL Delete]**.
 

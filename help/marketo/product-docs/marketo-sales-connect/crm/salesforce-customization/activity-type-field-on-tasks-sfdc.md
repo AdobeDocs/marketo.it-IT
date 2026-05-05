@@ -4,10 +4,10 @@ description: Comprendere il campo del tipo di attività nelle attività durante 
 title: Campo Tipo di attività su Attività (SFDC)
 exl-id: b291e641-d3af-4667-a01c-cd491cd87add
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 7%
+source-wordcount: '259'
+ht-degree: 6%
 
 ---
 

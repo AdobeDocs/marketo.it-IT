@@ -4,9 +4,9 @@ description: Scopri come modificare l’etichetta di un campo in un modulo Marke
 title: Modificare un’etichetta di campo in un modulo
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '122'
 ht-degree: 14%
 
 ---
@@ -25,7 +25,7 @@ L&#39;etichetta di un modulo può essere modificata in qualsiasi elemento, ad es
 
    >[!NOTE]
    >
-   >Se il modulo non è stato approvato, fare clic su **Modifica bozza**.
+   >Se il modulo non è approvato, fare clic su **Modifica bozza**.
 
 1. Selezionare il campo e quindi modificare **[!UICONTROL Label]**. I campi in Impostazioni modulo rifletteranno le etichette immesse.
 

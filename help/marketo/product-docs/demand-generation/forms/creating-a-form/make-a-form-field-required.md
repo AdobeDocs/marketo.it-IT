@@ -4,9 +4,9 @@ description: Scopri come rendere obbligatorio un campo modulo in Marketo. Richie
 title: Rendere obbligatorio un campo in un modulo
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '109'
 ht-degree: 14%
 
 ---
@@ -25,7 +25,7 @@ Quando [aggiungi campi a un modulo](/help/marketo/product-docs/demand-generation
 
    >[!NOTE]
    >
-   >Se il modulo non è stato approvato, fare clic su **Modifica bozza**.
+   >Se il modulo non è approvato, fare clic su **Modifica bozza**.
 
 1. Selezionare il campo da rendere obbligatorio e selezionare **[!UICONTROL Is Required]**.
 
