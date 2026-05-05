@@ -4,10 +4,10 @@ description: Scopri come configurare Marketo Sales Insight in Salesforce Profess
 title: Configurare Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 1%
+source-wordcount: '688'
+ht-degree: 3%
 
 ---
 
@@ -67,7 +67,7 @@ Configurare Marketo Sales Insight in Salesforce Professional Edition completando
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-8-1.png)
 
-1. Immettere il nome del sito remoto (può essere simile a `MarketoSoapAPI`). Immetti l’URL del sito remoto, che è l’URL dell’host Marketo dal pannello Configurazione API Soap in Marketo Engage. Fare clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API Soap.
+1. Immettere il nome del sito remoto (può essere simile a `MarketoSoapAPI`). Immetti l’URL del sito remoto, che è l’URL dell’host Marketo dal pannello Configurazione API Soap in Marketo Engage. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API Soap.
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-9-1.png)
 
@@ -75,7 +75,7 @@ Configurare Marketo Sales Insight in Salesforce Professional Edition completando
 
    ![](assets/configure-marketo-sales-insight-in-salesforce-professional-edition-10-1.png)
 
-1. Immetti il nome del sito remoto (può essere ad esempio &quot;MarketoRestAPI&quot;). Immetti l’URL del sito remoto, che è l’URL dell’API dal pannello Configurazione API REST in Marketo. Fare clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
+1. Immetti il nome del sito remoto (può essere ad esempio &quot;MarketoRestAPI&quot;). Immetti l’URL del sito remoto, che è l’URL dell’API dal pannello Configurazione API REST in Marketo. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
 
 ## Concedere agli utenti di Sales Insight l&#39;accesso al profilo per gli oggetti Salesforce standard {#grant-sales-insight-users-profile-access}
 
@@ -105,7 +105,7 @@ A causa dei miglioramenti apportati alla sicurezza di Salesforce, i pacchetti Ap
 
    ![](assets/image2014-9-24-17-3a32-3a53.png)
 
-1. Immettere &quot;Marketo Sales Insight&quot; come **[!UICONTROL Section Name]**. Selezionare **[!UICONTROL 1-Column]** e fare clic su **[!UICONTROL OK]**.
+1. Immettere &quot;Marketo Sales Insight&quot; come **[!UICONTROL Section Name]**. Seleziona **[!UICONTROL 1-Column]** e fai clic su **[!UICONTROL OK]**.
 
    ![](assets/image2014-9-24-17-3a33-3a23.png)
 
@@ -171,7 +171,7 @@ I campi persona di Marketo devono essere mappati sui campi contatto di Salesforc
 
    ![](assets/image2015-6-1-9-3a58-3a48-1.png)
 
-1. Fai clic sul menu a discesa a destra per **[!UICONTROL Engagement]**.
+1. Fare clic sul menu a discesa a destra per **[!UICONTROL Engagement]**.
 
    ![](assets/image2015-6-1-10-3a9-3a53-1.png)
 

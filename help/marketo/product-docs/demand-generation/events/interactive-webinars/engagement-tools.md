@@ -4,9 +4,9 @@ title: Strumenti di coinvolgimento nei webinar interattivi
 hide: true
 hidefromtoc: true
 feature: Interactive Webinars
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '1280'
+source-wordcount: '1285'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ SCHERMATA
 
 File
 
-Il pod dei file viene utilizzato per condividere il contenuto scaricabile. che può essere utilizzato per condividere white paper, case study, presentazioni, video e così via. con i partecipanti. I file possono essere aggiunti facendo clic sul pulsante più o trascinando i file direttamente sul pod. Per ulteriori informazioni sul pod File, guarda questo video.
+Il pod dei file viene utilizzato per condividere il contenuto scaricabile. che può essere utilizzato per condividere con i partecipanti white paper, casi di studio, presentazioni, video e così via. I file possono essere aggiunti facendo clic sul pulsante più o trascinando i file direttamente sul pod. Per ulteriori informazioni sul pod File, guarda questo video.
 
 SCHERMATA
 

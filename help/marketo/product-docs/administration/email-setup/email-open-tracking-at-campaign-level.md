@@ -3,34 +3,34 @@ description: Controlla se le aperture delle e-mail vengono tracciate per campagn
 title: Tracciamento dell’apertura delle e-mail a livello di campagna
 feature: Email Setup
 exl-id: 23cd6ba8-5e3f-44f1-af8d-da03f4b038f2
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 15%
+source-wordcount: '105'
+ht-degree: 20%
 
 ---
 
 # Tracciamento dell’apertura delle e-mail a livello di campagna {#email-open-tracking-at-campaign-level}
 
-Questa funzione ti consente di controllare il tracciamento delle aperture delle e-mail, una volta per ogni apertura in una campagna o una sola volta per ogni e-mail, indipendentemente dal numero di volte in cui viene utilizzata in diverse campagne.
+Questa funzione ti consente di controllare il tracciamento dell’apertura delle e-mail, una volta per ogni apertura in una campagna o una sola volta per ogni e-mail, indipendentemente dal numero di volte in cui viene utilizzata in diverse campagne.
 
 >[!NOTE]
 >
 >**Autorizzazioni amministratore richieste**
 
-1. Vai all&#39;area **Amministratore**.
+1. Passa alla schermata **[!UICONTROL Admin]**.
 
    ![](assets/email-open-tracking-at-campaign-level-1.png)
 
-1. Fai clic su **Smart Campaign**.
+1. Fai clic su **[!UICONTROL Smart Campaign]**.
 
    ![](assets/email-open-tracking-at-campaign-level-2.png)
 
-1. Accanto a _Impostazioni per aperture e-mail_, fai clic su **Modifica**.
+1. Accanto a _Impostazioni per aperture e-mail_, fare clic su **[!UICONTROL Edit]**.
 
    ![](assets/email-open-tracking-at-campaign-level-3.png)
 
-1. Fai clic sull&#39;elenco a discesa, scegli l&#39;impostazione desiderata e fai clic su **Salva**.
+1. Fare clic sull&#39;elenco a discesa, scegliere l&#39;impostazione desiderata e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/email-open-tracking-at-campaign-level-4.png)
 

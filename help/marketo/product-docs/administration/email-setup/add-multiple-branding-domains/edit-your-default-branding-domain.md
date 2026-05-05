@@ -4,10 +4,10 @@ description: Sostituisci il dominio di tracciamento generico con il dominio con 
 title: Modificare il dominio di branding predefinito
 exl-id: 961d4195-2c4c-4b33-81f0-dd11ec3fb500
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 12%
+source-wordcount: '132'
+ht-degree: 16%
 
 ---
 
@@ -27,7 +27,7 @@ La modifica del dominio di branding predefinito è il primo passaggio nell’uti
 
    ![](assets/edit-your-default-branding-domain-2.png)
 
-1. Nella tabella [!UICONTROL Branding Domains], seleziona il dominio generico e fai clic su Modifica per modificarlo nel dominio con marchio della tua azienda.
+1. Nella tabella [!UICONTROL Branding Domains], seleziona il dominio generico e fai clic su **[!UICONTROL Edit]** per modificarlo nel dominio con marchio della tua azienda.
 
    ![](assets/edit-your-default-branding-domain-3.png)
 

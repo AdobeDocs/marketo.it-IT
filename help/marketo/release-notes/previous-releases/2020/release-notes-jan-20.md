@@ -4,9 +4,9 @@ description: Note sulla versione - Gennaio 2020 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2020
 exl-id: 7b011c1a-1161-42f8-8bd0-4ee273928b59
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '842'
 ht-degree: 1%
 
 ---
@@ -29,12 +29,12 @@ Le seguenti funzionalità verranno rilasciate il **17 gennaio 2020**.
 
 >[!NOTE]
 >
->Attualmente, il selettore delle risorse di AEM è completamente supportato solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome (v. 80), a seconda delle impostazioni dei cookie SameSite.
+>Attualmente, il selettore delle risorse di AEM è completamente supportato solo in Firefox. Non è supportato in Safari e potrebbe non funzionare nella versione più recente di Chrome (v. 80), a seconda delle impostazioni del cookie SameSite.
 
 * **[!DNL Microsoft Dynamics]- Sincronizza lead con CRM in tempo reale**: sincronizzazione in tempo reale di lead e contatti tra Marketo Engage e [!DNL Microsoft Dynamics]. Creare lead o contatti e visualizzarli immediatamente in [!DNL Microsoft Dynamics] con l&#39;azione di flusso &quot;Sincronizza persona in Microsoft&quot;.
 * **[!DNL LinkedIn]Mappatura campi aggiuntivi per Forms lead gen**: acquisisci i dati dei lead da [!DNL LinkedIn] Forms lead gen per creare esperienze più rilevanti sia per i punti di contatto di vendita che per quelli di marketing. Estrai campi nascosti, campi di consenso e il campo dei lead di test in Marketo Engage.
 * **API delle dipendenze dei modelli e-mail**: ottieni un elenco di risorse che dipendono da un modello e-mail per comprendere l&#39;ambito delle potenziali modifiche e indirizzare le dipendenze ai modelli in modo che possano essere modificate ed eliminate più rapidamente.
-* **Miglioramenti alla gestione di più istanze**: accedi rapidamente all&#39;istanza desiderata con un menu a discesa scorrevole e alfabetico delle sottoscrizioni.
+* **Miglioramenti alla gestione di più istanze**: accedi rapidamente all&#39;istanza desiderata con un menu a discesa scorrevole e in ordine alfabetico delle sottoscrizioni.
 
 ## Account-Based Marketing {#account-based-marketing}
 
@@ -57,7 +57,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=it#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
+* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
 
 ## [!DNL Sales Insight] {#sales-insight}
 
@@ -74,6 +74,6 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 >
 >* **Deprecazione di TLS 1.0 e 1.1**: in un continuo sforzo di integrazione con la struttura delle versioni di Adobe, la rimozione di TLS 1.0 e TLS 1.1 verrà spostata al 13 gennaio 2020. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/docs/DOC-7059-tls-10-11-deprecation-faq).
 >
->* **Aggiornamento [!DNL Munchkin] di ITP 2.1+**: a causa delle modifiche ai criteri dei cookie per [!DNL Safari], la possibilità di [!DNL Munchkin] di tenere traccia degli utenti tra sessioni sullo stesso dominio sarà limitata da ITP a 1 o 7 giorni in base al browser e alla versione del browser utilizzati dal visitatore. Per questo, stiamo implementando un nuovo servizio web per consentire l’impostazione dei cookie di Munchkin con un’intestazione Set-Cookie tramite risposta HTTP. Ulteriori informazioni sull&#39;implementazione di questo nuovo servizio sono disponibili [qui](https://nation.marketo.com/docs/DOC-7351).
+>* **Aggiornamento** di ITP 2.1+ [!DNL Munchkin]: a causa delle modifiche ai criteri dei cookie per [!DNL Safari], la possibilità di [!DNL Munchkin] di tenere traccia degli utenti tra sessioni sullo stesso dominio sarà limitata da ITP a 1 o 7 giorni in base al browser e alla versione del browser utilizzati dal visitatore. Per questo, stiamo implementando un nuovo servizio web per consentire l’impostazione dei cookie di Munchkin con un’intestazione Set-Cookie tramite risposta HTTP. Ulteriori informazioni sull&#39;implementazione di questo nuovo servizio sono disponibili [qui](https://nation.marketo.com/docs/DOC-7351).
 
 **_Webinar sulla versione del prodotto_** [Unisciti a noi](https://engage.marketo.com/Jan_Feb_20_Release_Webinar_Registration.html) il 3 marzo alle 11:00AM PT / 2:00PM ET per un webinar live ospitato dal nostro team di prodotto e ulteriori informazioni sulle funzioni incluse in questa versione.

@@ -4,20 +4,20 @@ description: Utilizza il contenuto dinamico e la segmentazione per visualizzare 
 title: Rendere dinamico il messaggio di annullamento dell’iscrizione per le lingue
 exl-id: 953a7fd8-b1f2-4f3f-b889-87d1f0471e0d
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '415'
 ht-degree: 7%
 
 ---
 
 # Rendere dinamico il messaggio di annullamento dell’iscrizione per le lingue {#make-your-unsubscribe-message-dynamic-for-languages}
 
-Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti sono in inglese. Puoi utilizzare il contenuto dinamico per visualizzarlo in lingue diverse.
+Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti sono in inglese. Puoi utilizzare il contenuto dinamico per visualizzarli in lingue diverse.
 
 >[!NOTE]
 >
->Questo articolo rappresenta una best practice, ma può essere eseguito in altri modi.
+>Questo articolo rappresenta una best practice, ma può essere realizzato in altri modi.
 
 ## Preparare i dati {#prepare-your-data}
 
@@ -95,7 +95,7 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-15.png)
 
-1. Seleziona un segmento dalla struttura. Fai clic sull’icona di annullamento dell’abbonamento e quindi sull’icona del collegamento.
+1. Seleziona un segmento dalla struttura. Fai clic sul testo per annullare l’iscrizione, quindi fai clic sull’icona del collegamento.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-16.png)
 
@@ -107,11 +107,9 @@ Il messaggio e il collegamento di annullamento dell’iscrizione predefiniti son
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-18.png)
 
-Fantastico. Ci siamo quasi!
+## Utilizzare uno snippet in un messaggio e-mail {#use-a-snippet-in-an-email}
 
-## Utilizzare lo snippet in un messaggio e-mail {#use-snippet-in-an-email}
-
-1. Nell’editor e-mail, fai clic sull’elemento modificabile. Fare quindi clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Replace with Snippet]**. Se stai selezionando un elemento frammento modificabile, fai clic sull&#39;icona a forma di ingranaggio e seleziona **[!UICONTROL Edit]**.
+1. Nell’editor e-mail, fai clic sull’elemento modificabile. Fare quindi clic sull&#39;icona a forma di ingranaggio e selezionare **[!UICONTROL Replace with Snippet]**. Se si seleziona un elemento frammento modificabile, fare clic sull&#39;icona ingranaggio e selezionare **[!UICONTROL Edit]**.
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-19.png)
 
@@ -133,9 +131,9 @@ Fantastico. Ci siamo quasi!
 
    >[!TIP]
    >
-   >Naturalmente, puoi modificare anche il resto dell’e-mail per il linguaggio dinamico. Mentre lo fai, utilizza la stessa tecnica nella pagina per annullare l’abbonamento.
+   >Puoi modificare anche il resto dell’e-mail per il linguaggio dinamico. Utilizza la stessa tecnica nella pagina per annullare l’abbonamento.
 
-## Personalizzazione della pagina per annullare l’iscrizione con contenuti dinamici {#customizing-your-unsubscribe-page-with-dynamic-content}
+## Personalizzare la pagina per l’annullamento dell’abbonamento con contenuti dinamici {#customize-your-unsubscribe-page-with-dynamic-content}
 
 Se desideri che le persone visitino una pagina per l’annullamento dell’abbonamento nella lingua preferita, puoi utilizzare il contenuto dinamico nelle pagine di destinazione e di conferma.
 
@@ -159,8 +157,6 @@ Se desideri che le persone visitino una pagina per l’annullamento dell’abbon
 
    ![](assets/make-your-unsubscribe-message-dynamic-for-languages-28.png)
 
-   Modifica il contenuto per ogni pagina di destinazione, approva e non è necessario ripetere questa operazione.
-
    >[!NOTE]
    >
-   >Ulteriori informazioni su [contenuti dinamici](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md) e su tutte le operazioni più interessanti.
+   >Ulteriori informazioni su [contenuti dinamici](/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/understanding-dynamic-content.md).

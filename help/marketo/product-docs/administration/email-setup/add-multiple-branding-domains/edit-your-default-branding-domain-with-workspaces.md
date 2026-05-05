@@ -4,10 +4,10 @@ description: Modifica il dominio di branding generico con il dominio della tua a
 title: Modificare il dominio di branding predefinito con le aree di lavoro
 exl-id: f0982793-5b74-41fb-ab6b-08d4084ac9b1
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 13%
+source-wordcount: '138'
+ht-degree: 14%
 
 ---
 
@@ -28,8 +28,6 @@ ht-degree: 13%
    >[!NOTE]
    >
    >**[!UICONTROL Add]** non funziona finché non hai modificato il dominio generico. **[!UICONTROL Delete]** non funziona finché non aggiungi un secondo dominio.
-   >
-   >Non puoi aggiungere un dominio aggiuntivo finché non modifichi prima il dominio generico.
 
 1. Immettere il nome del dominio predefinito e fare clic su **[!UICONTROL Next]**.
 
@@ -41,6 +39,6 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->Quando aggiungi altri domini di branding, puoi scegliere di renderli il dominio principale per una o più aree di lavoro; inoltre, tutti i messaggi e-mail non inviati esistenti verranno impostati su &quot;Predefinito&quot; e tutti i messaggi e-mail appena creati verranno impostati per impostazione predefinita sul dominio principale. Puoi ignorarlo per e-mail.
+>Quando aggiungi altri domini di branding, puoi scegliere di renderli il dominio principale per una o più aree di lavoro; inoltre, tutte le e-mail non inviate esistenti impostate su &quot;Default&quot; (Predefinito) e tutte le e-mail appena create avranno il dominio principale come predefinito. Puoi ignorarlo per e-mail.
 
 Ora puoi [aggiungere altri domini di branding](/help/marketo/product-docs/administration/email-setup/add-multiple-branding-domains/add-an-additional-branding-domain-with-workspaces.md) necessari per le aree di lavoro.

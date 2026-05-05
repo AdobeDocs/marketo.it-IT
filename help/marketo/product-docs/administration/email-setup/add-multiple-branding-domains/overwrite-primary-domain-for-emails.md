@@ -4,16 +4,16 @@ description: Ignora il dominio di branding principale per le singole e-mail per 
 title: Sovrascrivere il dominio primario per e-mail
 exl-id: ebf5d581-db90-4b83-8357-abdb34ca1e63
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '91'
 ht-degree: 13%
 
 ---
 
 # Sovrascrivere il dominio primario per e-mail {#overwrite-primary-domain-for-emails}
 
-Puoi sovrascrivere il dominio primario del marchio per ogni e-mail. Questo cambierà il modo in cui i collegamenti vengono contrassegnati al momento dell’invio dell’e-mail.
+Puoi sovrascrivere il dominio primario del marchio per e-mail. Questo cambierà il modo in cui i collegamenti vengono contrassegnati al momento dell’invio dell’e-mail.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 

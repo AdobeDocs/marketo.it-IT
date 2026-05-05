@@ -4,16 +4,16 @@ description: Imposta un numero massimo di persone idonee per una campagna avanza
 title: Abilitare restrizioni persona per campagne avanzate
 exl-id: 45bdaf3f-874c-493f-9746-440f7703713c
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '155'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 14%
 
 ---
 
 # Abilitare restrizioni persona per campagne avanzate {#enable-person-restrictions-for-smart-campaigns}
 
-In Marketo è disponibile una funzione per limitare il numero massimo di _persone_ idonee per una campagna avanzata. In questo modo si evita di inviare accidentalmente e-mail all’intero database.
+In Marketo è disponibile una funzione per limitare il numero massimo di _1} persone che possono qualificarsi per una campagna avanzata._ In questo modo si evita di inviare accidentalmente e-mail all’intero database.
 
 >[!NOTE]
 >
@@ -50,8 +50,6 @@ In Marketo è disponibile una funzione per limitare il numero massimo di _person
    >[!CAUTION]
    >
    >Questo limite viene applicato a tutte le campagne avanzate, ma può essere ignorato a livello di campagna. Scopri come [ignorare le restrizioni personali in una campagna avanzata](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/override-person-restrictions-in-a-smart-campaign.md).
-
-Fine. Hai appena acceso l&#39;interruttore di sicurezza.
 
 >[!MORELIKETHIS]
 >

@@ -4,16 +4,16 @@ description: Imposta limiti di e-mail giornalieri e per 7 giorni per evitare com
 title: Abilitare i limiti di comunicazione
 exl-id: c69c083c-08fe-49fc-91d4-5b1ff82a2e52
 feature: Email Setup
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 12%
+source-wordcount: '159'
+ht-degree: 11%
 
 ---
 
 # Abilitare i limiti di comunicazione {#enable-communication-limits}
 
-È molto importante non comunicare in modo eccessivo con le persone. L’impostazione dei limiti di comunicazione consente di evitare che la tua organizzazione invii troppe e-mail.
+È importante non comunicare eccessivamente con le persone. L’impostazione dei limiti di comunicazione consente di evitare che la tua organizzazione invii troppe e-mail.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ ht-degree: 12%
    >
    >[!UICONTROL Per Day] si basa sul giorno del calendario nel fuso orario dell&#39;abbonamento (mezzanotte-mezzanotte).
 
-1. Fare clic sul menu a discesa **[!UICONTROL Per Day]** e selezionare il limite desiderato. In questo esempio scegliamo 1.
+1. Fare clic sul menu a discesa **[!UICONTROL Per Day]** e selezionare il limite desiderato. In questo esempio, viene utilizzato 1.
 
    ![](assets/enable-communication-limits-4.png)
 
@@ -43,7 +43,7 @@ ht-degree: 12%
    >
    >Puoi anche scegliere **[!UICONTROL Custom]** se nessuna delle opzioni predefinite funziona.
 
-1. Fare clic sul menu a discesa **[!UICONTROL Per 7 Days]** e selezionare il limite desiderato. In questo esempio scegliamo 5.
+1. Fare clic sul menu a discesa **[!UICONTROL Per 7 Days]** e selezionare il limite desiderato. In questo esempio, viene utilizzato 5.
 
    ![](assets/enable-communication-limits-5.png)
 
@@ -63,7 +63,7 @@ ht-degree: 12%
    >
    >**Esempio**
    >
-   >Le impostazioni precedenti indicano che le persone non riceveranno più di **e-mail al giorno** o più di **5 in un periodo di sette giorni**.
+   >Le impostazioni precedenti indicano che le persone non riceveranno più di **1 e-mail al giorno** o più di **5 in un periodo di sette giorni**.
 
    >[!NOTE]
    >
