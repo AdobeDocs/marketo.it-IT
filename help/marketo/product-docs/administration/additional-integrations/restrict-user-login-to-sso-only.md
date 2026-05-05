@@ -4,10 +4,10 @@ description: Richiedi SSO per tutti gli utenti in modo che non possano ignorare 
 title: Limitare l’accesso utente solo al SSO
 exl-id: 74915871-dcf5-478d-a5ae-b20c3d2de553
 feature: Administration
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
 workflow-type: tm+mt
-source-wordcount: '232'
-ht-degree: 9%
+source-wordcount: '249'
+ht-degree: 8%
 
 ---
 
@@ -45,13 +45,13 @@ Se [utilizzi SSO](/help/marketo/product-docs/administration/additional-integrati
 
 >[!TIP]
 >
->Se si seleziona **[!UICONTROL Require SSO]**, è possibile escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **[!UICONTROL Bypass Single Sign-On]** durante la configurazione del ruolo. In questo modo gli utenti potranno accedere normalmente. Ad esempio, gli utenti Admin potrebbero dover ancora accedere a Marketo tramite la schermata di accesso. Se sono abilitati sia SSO che Universal ID, è necessario disporre dell&#39;autorizzazione &quot;Bypass Single Signed On&quot; (Ignora Single Sign On) per attivare o disattivare le sottoscrizioni.
+>Se si seleziona **[!UICONTROL Require SSO]**, è possibile escludere un [ruolo utente](/help/marketo/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role.md) da questa restrizione selezionando l&#39;opzione **[!UICONTROL Bypass Single Sign-On]** durante la configurazione del ruolo. Questo consente agli utenti di accedere normalmente. Ad esempio, gli utenti Admin potrebbero dover ancora accedere a Marketo tramite la schermata di accesso. Se sono abilitati sia SSO che Universal ID, è necessario disporre dell&#39;autorizzazione &quot;Bypass Single Signed On&quot; (Ignora Single Sign On) per attivare o disattivare le sottoscrizioni.
 
 >[!CAUTION]
 >
->Quando nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se **[!UICONTROL Require SSO]** è selezionato, non riceverà queste e-mail, a meno che non sia assegnato a un ruolo impostato su **[!UICONTROL Bypass Single Sign-On]**.
+>Quando nuovi utenti vengono invitati, ricevono le e-mail di invito. Tuttavia, se è selezionato **[!UICONTROL Require SSO]**, questi messaggi non vengono ricevuti a meno che non siano assegnati a un ruolo impostato su **[!UICONTROL Bypass Single Sign-On]**.
 
-Tutto qui. Ora tutti gli utenti (ad eccezione di quelli che dispongono dell&#39;autorizzazione per ignorare il Single Sign-On) saranno limitati a utilizzare solo l&#39;accesso SSO.
+Ora tutti gli utenti (ad eccezione di quelli che dispongono dell&#39;autorizzazione per ignorare il Single Sign-On) possono utilizzare solo l&#39;accesso SSO.
 
 >[!MORELIKETHIS]
 >

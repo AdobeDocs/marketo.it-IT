@@ -4,7 +4,7 @@ description: Scopri come inviare un’e-mail tracciata in Sales Connect. Inviare
 title: Invio di un’e-mail tracciata
 exl-id: 9a2a53a5-93b9-4254-8540-510c83a6c083
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+source-git-commit: e085e6b7554f8532a1c73f8c386325aa7f4e1ab6
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 3%
@@ -40,7 +40,7 @@ Quando si invia un messaggio e-mail con [!DNL Marketo Sales Connect], vengono tr
 
    >[!NOTE]
    >
-   >Se un utente che è stato CC’d o BCC’d apre l’e-mail, tale visualizzazione verrà registrata come visualizzazione nel record della persona nel campo **[!UICONTROL To]**.
+   >Se un utente che è stato CC o CCN apre l&#39;e-mail, l&#39;apertura verrà registrata come visualizzazione nel record della persona nel campo **[!UICONTROL To]**.
 
 1. Aggiungi un oggetto.
 
@@ -57,4 +57,4 @@ Quando si invia un messaggio e-mail con [!DNL Marketo Sales Connect], vengono tr
    >[!MORELIKETHIS]
    >
    >* [Pianificazione di un&#39;e-mail](/help/marketo/product-docs/marketo-sales-connect/email/using-the-compose-window/scheduling-an-email.md)
-   >* [Modelli](/help/marketo/product-docs/marketo-sales-connect/templates/create-a-new-template.md)
+   >* [Modelli](/help/marketo/product-docs/marketo-sales-connect/templates/manage-templates.md)
