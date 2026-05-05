@@ -4,15 +4,15 @@ description: Panoramica dello snippet JavaScript di Munchkin per il tracciamento
 title: '[!DNL Munchkin]'
 exl-id: 3f9303d4-f534-4ce0-9cde-baa7bba3c7f4
 feature: Administration, Munchkin Tracking Code
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 1%
+source-wordcount: '67'
+ht-degree: 16%
 
 ---
 
 # [!DNL Munchkin] {#munchkin}
 
-[!DNL Munchkin] è lo snippet di JavaScript inserito nel sito Web. Tiene traccia di visite, clic e compilazioni di moduli. Ha anche una ricca API per fare ogni sorta di cose interessanti.
+[!DNL Munchkin] è lo snippet di JavaScript inserito nel sito Web. Tiene traccia di visite, clic e compilazioni di moduli. Dispone inoltre di un’API avanzata con funzionalità aggiuntive.
 
-Per ulteriori informazioni, consulta la [pagina per sviluppatori in  [!DNL Munchkin]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+Per ulteriori informazioni, consulta la pagina per sviluppatori [ in  [!DNL Munchkin]](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.

@@ -3,9 +3,9 @@ description: Passaggi iniziali di configurazione per gli amministratori di siste
 title: Configurazione dell’amministratore
 exl-id: e753f61a-b2ad-4b2e-94e7-d7a391f030d8
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '246'
 ht-degree: 4%
 
 ---
@@ -20,13 +20,13 @@ Dopo essere stato aggiunto come amministratore di sistema di Adobe a Marketo Eng
 
    ![](assets/admin-setup-1.png)
 
-1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, accedi direttamente a Adobe Admin Console. In caso contrario, [configura il tuo Adobe ID](https://helpx.adobe.com/it/manage-account/using/create-update-adobe-id.html){target="_blank"}.
+1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, verrai indirizzato direttamente a Adobe Admin Console. In caso contrario, [configura il tuo Adobe ID](https://helpx.adobe.com/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
    ![](assets/admin-setup-2.png)
 
 ## Creare un Profilo prodotto {#create-a-product-profile}
 
-Una volta che l’amministratore di sistema avrà effettuato l’accesso ad Admin Console, sarà possibile creare un profilo di prodotto. In questo modo gli utenti/amministratori possono accedere a Marketo Engage.
+Una volta che l’amministratore di sistema avrà effettuato l’accesso a Admin Console, è il momento di creare un profilo di prodotto. In questo modo gli utenti e gli amministratori possono accedere a Marketo Engage.
 
 1. Nella pagina **[!UICONTROL Overview]**, in **[!UICONTROL Products and Services]**, fare clic su **Marketo Engage**.
 

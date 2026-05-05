@@ -4,9 +4,9 @@ description: Come impostare le opzioni di attribuzione di primo e più contatti,
 title: Modificare le impostazioni di attribuzione per Analytics
 exl-id: 4740b0fa-ddaf-46ed-87d6-8b3f8d35afe3
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '182'
 ht-degree: 8%
 
 ---
@@ -31,7 +31,7 @@ Queste impostazioni avranno un impatto su [!UICONTROL Revenue Explorer] report n
 
    >[!TIP]
    >
-   >La modifica di questa impostazione non comporta la modifica di alcun dato di Marketo, ma semplicemente modifica il modo in cui vengono eseguiti i rapporti. Questa funzione può essere ripristinata in qualsiasi momento.
+   >La modifica di questa impostazione non comporta la modifica di alcun dato di Marketo, ma modifica il modo in cui vengono eseguiti i rapporti. Questa funzione può essere ripristinata in qualsiasi momento.
 
 1. Selezionare un&#39;opzione e fare clic su **[!UICONTROL Save]**.
 

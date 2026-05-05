@@ -3,20 +3,20 @@ description: Controllare l’utilizzo della capacità API di estrazione in blocc
 title: Informazioni API dell’esportazione in blocco
 exl-id: 527c446b-d5d1-458a-bc4d-d4eb53339ed6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 12%
+source-wordcount: '113'
+ht-degree: 11%
 
 ---
 
 # Informazioni API dell’esportazione in blocco {#bulk-export-api-information}
 
-Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
+Scopri come controllare la capacità di [estrazione in blocco delle API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract){target="_blank"} utilizzata dall&#39;istanza di Marketo Engage negli ultimi sette giorni.
 
 >[!NOTE]
 >
->Se hai bisogno di ulteriore capacità, contatta il tuo Account Representative.
+>Se hai bisogno di ulteriore capacità, contatta il rappresentante del tuo account.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 

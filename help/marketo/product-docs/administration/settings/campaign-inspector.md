@@ -3,16 +3,16 @@ description: Come abilitare e utilizzare Ispettore campagna da per visualizzare 
 title: Ispezionare campagna
 exl-id: bac4a24d-9177-4a03-b8c3-e3836676a3ad
 feature: Campaign Inspector
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '126'
 ht-degree: 7%
 
 ---
 
 # Ispezionare campagna {#campaign-inspector}
 
-Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate in un’unica posizione.
+Utilizza Campaign Inspector per visualizzare ed eseguire ricerche in tutte le campagne avanzate in un’unica posizione.
 
 ## Abilita Ispettore campagna {#enable-campaign-inspector}
 
@@ -34,7 +34,7 @@ Utilizza Campaign Inspector per visualizzare/cercare tutte le campagne avanzate 
 
    >[!NOTE]
    >
-   >L’area di lavoro desiderata deve essere selezionata nella struttura per visualizzare la scheda Ispettore campagna dopo che è stata abilitata.
+   >L’area di lavoro desiderata deve essere selezionata nella struttura per visualizzare la scheda Ispettore campagna dopo l’abilitazione.
 
 ## Utilizzo di Campaign Inspector {#using-campaign-inspector}
 

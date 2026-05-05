@@ -3,9 +3,9 @@ description: Come personalizzare le intestazioni HTTP per i domini delle pagine 
 title: Intestazioni pagina di destinazione
 exl-id: 58eaa0cd-2a2b-4abe-9180-f60a2a1dcc87
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '134'
 ht-degree: 5%
 
 ---

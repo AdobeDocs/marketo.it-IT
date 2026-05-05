@@ -4,7 +4,7 @@ description: Come attivare o disattivare le funzioni sperimentali di Treasure Ch
 title: Abilitare o disabilitare le funzioni Treasure Chest
 exl-id: 79cbe2af-9a00-4798-8b1d-1db475d42ab1
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 25%
@@ -13,7 +13,7 @@ ht-degree: 25%
 
 # Abilitare o disabilitare le funzioni Treasure Chest {#enable-or-disable-treasure-chest-features}
 
-Il Treasure Chest contiene divertenti caratteristiche sperimentali che non sono completamente supportate.
+Il Treasure Chest contiene caratteristiche sperimentali che non sono completamente supportate.
 
 >[!NOTE]
 >
@@ -37,4 +37,4 @@ Il Treasure Chest contiene divertenti caratteristiche sperimentali che non sono 
 
    >[!TIP]
    >
-   >Per rendere effettive le modifiche, potrebbe essere necessario disconnettersi e tornare a Marketo.
+   >Per rendere effettive le modifiche, potrebbe essere necessario disconnettersi e accedere nuovamente a Marketo.

@@ -3,9 +3,9 @@ description: attivare l'autorizzazione Regole di convalida modulo di accesso e c
 title: Regole di convalida del modulo globale
 exl-id: a44db893-00b5-40d2-8be3-41d52b2fd7b5
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '262'
 ht-degree: 5%
 
 ---
@@ -64,13 +64,13 @@ Prima di poter utilizzare questa funzione, devi abilitarne l’autorizzazione pe
    >
    >L&#39;elenco a discesa [!UICONTROL Form Validation Rule Actions] consente di eliminare o modificare le regole esistenti.
 
-1. Assegna un nome alla regola, fornisci una descrizione facoltativa e inserisci il messaggio di errore che desideri venga visualizzato dai visitatori del modulo. Immettere i domini da bloccare nella casella delle regole, selezionare **[!UICONTROL Activate Rule]** e fare clic su **[!UICONTROL Create]**.
+1. Assegna un nome alla regola, fornisci una descrizione facoltativa e inserisci il messaggio di errore che desideri venga visualizzato dai visitatori del modulo. Immettere uno o più domini da bloccare nella casella delle regole, selezionare **[!UICONTROL Activate Rule]** e fare clic su **[!UICONTROL Create]**.
 
    ![](assets/global-form-validation-rules-10.png)
 
 >[!NOTE]
 >
->Marketo Engage dispone di un elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola precaricata &quot;Dominio e-mail consumer: Inserire nell&#39;elenco Bloccati&quot;. [Visualizza l&#39;elenco](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (per scaricare, assicurati che il browser sia aggiornato e in grado di accettare i download).
+>Marketo Engage dispone di un elenco Bloccati definito di domini e-mail consumer gratuiti che vengono bloccati quando si utilizza la regola di Elenco Bloccati del dominio e-mail consumer pre-caricata [Visualizza l&#39;elenco qui](/help/marketo/product-docs/administration/settings/assets/freemaildomains.csv) (per scaricare, assicurati che il browser sia aggiornato e possa accettare i download).
 
 ## Disattivazione dell&#39;accesso per modulo{#how-to-disable-access-per-form}
 

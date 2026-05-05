@@ -4,16 +4,16 @@ description: Come modificare il numero di giorni in cui i collegamenti nelle e-m
 title: Modificare la scadenza del collegamento in Rapporti e Avvisi
 exl-id: 9be08798-c413-451b-9b67-893042668061
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '94'
 ht-degree: 21%
 
 ---
 
 # Modificare la scadenza del collegamento in Rapporti e Avvisi {#edit-link-expiration-in-reports-and-alerts}
 
-I collegamenti nelle e-mail di abbonamento al report scadono dopo tre giorni. Per modificare l’ora di scadenza di questi collegamenti, segui la procedura riportata di seguito.
+I collegamenti nelle e-mail di abbonamento al report scadono dopo tre giorni. Per modificare il tempo di scadenza di questi collegamenti, segui la procedura riportata di seguito.
 
 >[!NOTE]
 >

@@ -4,16 +4,16 @@ description: Come creare un layout personalizzato per la pagina dei dettagli del
 title: Creare una scheda personalizzata per la pagina Dettagli persona
 exl-id: 8a8bd4a0-6a18-4576-b4a3-89c31b502cd6
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 18%
+source-wordcount: '131'
+ht-degree: 19%
 
 ---
 
 # Creare una scheda personalizzata per la pagina Dettagli persona {#creating-a-custom-tab-for-the-person-detail-page}
 
-Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi creare un layout personalizzato per semplificare la ricerca.
+Se devi accedere spesso a un set specifico di campi nella pagina dei dettagli della persona, puoi creare un layout personalizzato.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -43,6 +43,6 @@ Se cerchi più volte un set specifico di campi nei dettagli della persona, puoi 
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-6.png)
 
-   Ottimo lavoro! Ora, quando carichi i dettagli di una persona, puoi utilizzare il layout personalizzato per accedere alle informazioni che ti interessano.
+   Quando carichi i dettagli di una persona, puoi utilizzare il layout personalizzato per accedere alle informazioni che ti interessano.
 
    ![](assets/creating-a-custom-tab-for-the-person-detail-page-7.png)

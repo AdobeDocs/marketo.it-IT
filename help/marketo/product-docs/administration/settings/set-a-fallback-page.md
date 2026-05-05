@@ -4,16 +4,16 @@ description: Passaggi per impostare una pagina di fallback che consenta ai visit
 title: Impostare una pagina di fallback
 exl-id: 2b073e4d-1b84-4602-a35c-08739c9086d7
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '72'
 ht-degree: 22%
 
 ---
 
 # Impostare una pagina di fallback {#set-a-fallback-page}
 
-Le pagine di fallback rappresentano l’ultima linea di difesa se la pagina di destinazione è offline o non viene trovata. Assicurati di averne uno.
+Le pagine di fallback rappresentano l’ultima linea di difesa se la pagina di destinazione è offline o non viene trovata. Assicurati di averne una configurata.
 
 >[!NOTE]
 >

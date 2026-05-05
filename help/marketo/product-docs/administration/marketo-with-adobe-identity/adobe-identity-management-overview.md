@@ -3,10 +3,10 @@ description: Panoramica di Adobe Identity Management per Marketo Engage, inclusi
 title: Panoramica su Identity Management di Adobe
 exl-id: 18ddeebc-bc89-411c-9d2c-23df6841cb3a
 feature: Marketo with Adobe Identity
-source-git-commit: 9e21f8a6a95717b1c9794fd7819a2230105370ec
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 6%
 
 ---
 
@@ -25,7 +25,7 @@ Per gli abbonamenti a cui è stato effettuato l’onboarding in Adobe identity, 
 
 ## Livelli di profilo {#profile-levels}
 
-Gli abbonamenti Adobe Marketo Engage integrati nel sistema Adobe Identity Management supportano vari profili. Di seguito sono elencati i tipi di profili utente rilevanti per questa integrazione.
+Gli abbonamenti Adobe Marketo Engage inseriti nel sistema Adobe Identity Management supportano vari profili. Di seguito sono elencati i tipi di profili utente rilevanti per questa integrazione.
 
 <table>
  <tr>

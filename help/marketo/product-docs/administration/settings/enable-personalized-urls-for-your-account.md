@@ -4,16 +4,16 @@ description: Passaggi per abilitare URL personalizzati per l’abbonamento da ut
 title: Abilitare gli URL personalizzati per il tuo account
 exl-id: 3fdf6112-f483-4a86-ba8b-43a3d733227a
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 25%
+source-wordcount: '88'
+ht-degree: 23%
 
 ---
 
 # Abilitare gli URL personalizzati per il tuo account {#enable-personalized-urls-for-your-account}
 
-Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
+Gli URL personalizzati sono utili per le campagne di stampa tramite posta.
 
 >[!NOTE]
 >
@@ -35,7 +35,7 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 
    ![](assets/enable-personalized-urls-for-your-account-4.png)
 
-Ottimo lavoro! Ora che hai abilitato i PURL per il tuo account, puoi [abilitarli per singole pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
+Ora che hai abilitato i PURL per il tuo account, puoi [abilitarli per singole pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md).
 
 >[!NOTE]
 >

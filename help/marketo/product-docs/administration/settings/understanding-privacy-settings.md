@@ -4,9 +4,9 @@ description: Panoramica delle opzioni di privacy e tracciamento, tra cui Do Not 
 title: Informazioni sulle impostazioni della privacy
 exl-id: 1fde9011-02a9-4ec9-bfa4-c56a52ce1eed
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '508'
 ht-degree: 1%
 
 ---
@@ -22,7 +22,7 @@ Marketo offre agli esperti di marketing un modo per ottenere il consenso dei vis
 
 In alternativa, l’addetto al marketing può tenere traccia degli utenti, ma utilizzando un IP anonimo.
 
-Questi metodi possono influire sul valore e sulle funzionalità di Marketo in aree specifiche. Tuttavia, se l&#39;addetto marketing _non modifica_ nulla nella configurazione di Marketo, la funzionalità di Marketo rimane invariata.
+Questi metodi possono influire sul valore e sulle funzionalità di Marketo in aree specifiche. Tuttavia, se l&#39;addetto marketing _non_ modifica nulla nella configurazione di Marketo, la funzionalità di Marketo rimane invariata.
 
 ## Impostazioni browser per Do Not Track {#browser-settings-for-do-not-track}
 
@@ -40,9 +40,9 @@ Per eseguire questa operazione, è necessario aggiungere un parametro a un colle
 
 ?marketo_opt_out=true
 
-Di seguito sono riportati alcuni esempi di pagine web con un collegamento di rinuncia e una pagina di destinazione per dopo aver fatto clic sul collegamento. Il vostro sarà diverso.
+Di seguito sono riportati alcuni esempi di pagine web con un collegamento di rinuncia e una pagina di destinazione per dopo aver fatto clic sul collegamento. Questi varieranno.
 
-Ecco una pagina web con un pulsante con il parametro &quot;?marketo_opt_out=true&quot; nel collegamento di rinuncia.
+Questa è una pagina web con un pulsante con il parametro &quot;?marketo_opt_out=true&quot; nel collegamento di rinuncia.
 
 ![](assets/understanding-privacy-settings-1.png)
 
@@ -68,7 +68,7 @@ Gli addetti al marketing possono consentire agli utenti di dare il consenso util
 
 Gli addetti al marketing possono preservare la privacy monitorando gli utenti con un indirizzo IP anonimo. Per eseguire questa operazione, aggiungere il codice all&#39;RTP o al JavaScript [!DNL Munchkin] incorporato nel sito Web.
 
-* Per [!DNL Munchkin], aggiungi `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
+* Per [!DNL Munchkin], aggiungere `{"anonymizeIP",true}` alla funzione [init](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/leadtracking/configuration){target="_blank"}.
 
 * Per Web Personalization (RTP), aggiungi questo al codice JavaScript:
 

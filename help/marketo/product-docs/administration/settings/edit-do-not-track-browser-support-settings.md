@@ -4,10 +4,10 @@ description: Rispettare o ignorare la richiesta Do Not Track del browser modific
 title: Modificare le impostazioni di supporto al browser “Non tenere traccia”
 exl-id: 22248911-21e9-4e13-9132-22415aa114fc
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '124'
-ht-degree: 17%
+source-wordcount: '130'
+ht-degree: 16%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 17%
 
 >[!NOTE]
 >
->&quot;Do Not Track&quot; sarà impostato su **[!UICONTROL Ignore]** per impostazione predefinita, quindi se è questo il tuo scopo, non dovrai eseguire alcuna operazione.
+>&quot;Do Not Track&quot; verrà impostato su **[!UICONTROL Ignore]** per impostazione predefinita, quindi se è questo il valore desiderato, non sarà necessario eseguire alcuna operazione.
 
 1. Fai clic su **[!UICONTROL Admin]**.
 
@@ -45,7 +45,7 @@ ht-degree: 17%
 
    >[!NOTE]
    >
-   >Si consiglia di supportare la funzione &quot;Do Not Track&quot;. In Europa è la legge!
+   >Si consiglia di supportare la funzione &quot;Do Not Track&quot;. In Europa è la legge.
 
    >[!TIP]
    >

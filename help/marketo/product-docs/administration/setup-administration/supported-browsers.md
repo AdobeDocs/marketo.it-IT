@@ -4,10 +4,10 @@ description: Elenco dei browser e delle versioni supportati per Marketo Engage, 
 title: Browser supportati
 exl-id: 58c35407-ddc5-4932-9853-aeb4d47bab7f
 feature: Administration, Getting Started
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 6%
+source-wordcount: '98'
+ht-degree: 5%
 
 ---
 
@@ -26,4 +26,4 @@ Marketo attualmente supporta i seguenti browser:
 >
 >Per gli utenti che sono stati trasferiti a [Marketo con Adobe Identity](/help/marketo/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.md){target="_blank"}, tutti i browser sono supportati sia in Mac che in Windows, ad eccezione di Microsoft Edge in modalità Strict.
 
-Per una migliore esperienza, **mantieni aggiornato il browser**!
+Per una migliore esperienza, **aggiorna il browser**.

@@ -4,16 +4,16 @@ description: Come modificare il nome di dominio, la pagina di fallback, la preco
 title: Modificare le impostazioni della pagina di destinazione
 exl-id: 019b4651-3a66-46f9-8722-66af30194380
 feature: Administration, Landing Pages
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '208'
 ht-degree: 10%
 
 ---
 
 # Modificare le impostazioni della pagina di destinazione {#edit-landing-page-settings}
 
-Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabilitare la precompilazione dei moduli, evitare l’uso improprio della pagina di destinazione e altro ancora. Ecco come.
+Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabilitare la precompilazione dei moduli, evitare l’uso improprio della pagina di destinazione e altro ancora. Segui i passaggi seguenti.
 
 >[!NOTE]
 >
@@ -37,8 +37,8 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 
    | Termine | Definizione |
    |---|---|
-   | [!UICONTROL Domain name for landing pages] | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che viene assegnato alle persone per le pagine di destinazione. In `https://go.yourCompany.com`, ad esempio, la parola &quot;go&quot; è il CNAME. Si possono avere più, ma la maggior parte delle persone usa solo quello. |
-   | [!UICONTROL Fallback page] | Questo è il percorso da seguire se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
+   | [!UICONTROL Domain name for landing pages] | Questo è il tuo CNAME. Un CNAME è la prima parte dell’URL che viene assegnato alle persone per le pagine di destinazione. In `https://go.yourCompany.com`, ad esempio, la parola &quot;go&quot; è il CNAME. Puoi avere più utenti, ma la maggior parte ne utilizza solo uno. |
+   | [!UICONTROL Fallback page] | Questa è la destinazione se la pagina di destinazione non esiste o è inattiva. Ulteriori informazioni su [pagine di fallback](/help/marketo/product-docs/administration/settings/set-a-fallback-page.md). |
    | [!UICONTROL Homepage] | Immetti l’URL del sito aziendale. |
 
 1. Selezionare la casella di controllo **[!UICONTROL Form Prefill]** per consentire ai moduli di precompilare le informazioni per le persone note (con cookie). Deseleziona per bloccare.
@@ -55,4 +55,4 @@ Puoi modificare il nome di dominio e la pagina di fallback, abilitare o disabili
 
    ![](assets/edit-landing-page-settings-6.png)
 
-   Ottimo lavoro! Le pagine di destinazione ora dispongono delle informazioni corrette e dovrebbero iniziare a funzionare immediatamente.
+   Le pagine di destinazione ora dispongono delle informazioni corrette e dovrebbero iniziare a funzionare immediatamente.

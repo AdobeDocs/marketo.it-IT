@@ -4,16 +4,16 @@ description: Come assegnare all’abbonamento Marketo un nome visualizzato univo
 title: Modificare le impostazioni abbonamento
 exl-id: 005eaf79-60f5-45d5-bf73-e55f93553d64
 feature: Administration
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 11%
 
 ---
 
 # Modificare le impostazioni abbonamento {#edit-subscription-settings}
 
-Se hai accesso a più abbonamenti Marketo e desideri essere sicuro di quale stai utilizzando, prova a dare a ciascuno un nome univoco. Tale nome viene quindi visualizzato nella parte superiore della pagina di abbonamento.
+Se hai accesso a più abbonamenti Marketo e desideri confermare quale stai utilizzando, assegna a ciascuno un nome univoco. Tale nome viene quindi visualizzato nella parte superiore della pagina di abbonamento.
 
 Ad esempio, se lavori sia nelle istanze di produzione che in quelle di sandbox, puoi denominare una sottoscrizione **Marketo Production** e l&#39;altra **Marketo Sandbox**.
 
