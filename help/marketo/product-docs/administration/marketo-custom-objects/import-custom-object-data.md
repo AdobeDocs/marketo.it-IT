@@ -4,16 +4,16 @@ description: Passaggi per importare dati oggetto personalizzati utilizzando un f
 title: Importare i dati dell’oggetto personalizzato
 exl-id: ee11199a-57ca-47ec-8f59-8384a93ea05e
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '231'
 ht-degree: 4%
 
 ---
 
 # Importare i dati dell’oggetto personalizzato {#import-custom-object-data}
 
-È facile importare dati oggetto personalizzati nel database. Se utilizzi oggetti personalizzati con aziende, consulta [Utilizzo di oggetti personalizzati con aziende](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) per ulteriori informazioni.
+Per importare dati oggetto personalizzati nel database, attenersi alla procedura descritta di seguito. Se si utilizzano oggetti personalizzati con società, vedere [Utilizzo di oggetti personalizzati con società](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md#using-custom-objects-with-companies) per ulteriori informazioni.
 
 1. In Il mio Marketo, vai a **[!UICONTROL Database]**.
 
@@ -37,7 +37,7 @@ ht-degree: 4%
 
    >[!NOTE]
    >
-   >Utilizzare i campi di deduplicazione come identificatori univoci quando si creano o si aggiornano record oggetto personalizzati. In questo esempio viene utilizzato il campo Dedupe dell&#39;oggetto personalizzato **car** - vin (numero ID veicolo). Se si aggiornano solo record oggetto personalizzati, è possibile selezionare [!UICONTROL Marketo Guid] come [!UICONTROL Dedupe Mode].
+   >Utilizzare uno o più campi di deduplicazione come identificatori univoci quando si creano o si aggiornano record oggetto personalizzati. In questo esempio viene utilizzato il campo Dedupe dell&#39;oggetto personalizzato **car** - vin (numero ID veicolo). Se si aggiornano solo record oggetto personalizzati, è possibile selezionare [!UICONTROL Marketo Guid] come [!UICONTROL Dedupe Mode].
 
 1. Mappa ciascuna colonna su un campo Marketo, selezionandola dall’elenco a discesa.
 
@@ -63,11 +63,9 @@ ht-degree: 4%
    >
    >Immetti il tuo indirizzo e-mail nel campo **[!UICONTROL Send Alert To]** e Marketo ti invierà un&#39;e-mail al termine dell&#39;importazione.
 
-1. Nell’angolo in alto a destra dello schermo viene visualizzata una notifica mentre l’importazione è in esecuzione e al termine vengono visualizzati i risultati finali.
+1. Nell’angolo in alto a destra dello schermo viene visualizzata una notifica mentre è in esecuzione l’importazione e al termine vengono visualizzati i risultati finali.
 
    ![](assets/import-custom-object-data-9.png)
-
-   Yay!
 
 >[!MORELIKETHIS]
 >

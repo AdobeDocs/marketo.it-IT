@@ -4,9 +4,9 @@ description: Passaggi per modificare o eliminare un oggetto personalizzato.
 title: Modificare ed eliminare un oggetto personalizzato di Marketo
 exl-id: 97bae63e-f679-490b-bfa2-51d88355b29c
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '236'
 ht-degree: 10%
 
 ---
@@ -41,11 +41,11 @@ Utilizzare il menu Azioni oggetto personalizzato per modificare o eliminare un o
 
    ![](assets/edit-and-delete-a-marketo-custom-object-5.png)
 
-1. Assicurarsi di approvare [l&#39;oggetto modificato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
+1. Approva [l&#39;oggetto modificato](/help/marketo/product-docs/administration/marketo-custom-objects/approve-a-custom-object.md).
 
 ## Eliminare un oggetto personalizzato {#delete-a-custom-object}
 
-Eliminare un oggetto personalizzato è facile, ma è necessario prestare attenzione. Gli oggetti personalizzati possono essere connessi ad altri oggetti o a elenchi avanzati. Marketo ti avvisa quindi prima di fare clic su **[!UICONTROL Delete]**.
+L’eliminazione di un oggetto personalizzato richiede particolare attenzione. Gli oggetti personalizzati possono essere connessi ad altri oggetti o a elenchi avanzati. Marketo ti avviserà prima di consentire di fare clic su **[!UICONTROL Delete]**.
 
 >[!CAUTION]
 >
@@ -71,11 +71,11 @@ Eliminare un oggetto personalizzato è facile, ma è necessario prestare attenzi
    >
    >È inoltre possibile fare clic con il pulsante destro del mouse sull&#39;oggetto e selezionare **[!UICONTROL Delete Object]**.
 
-1. Se l&#39;oggetto personalizzato è in formato bozza, non ancora approvato, verrà visualizzato questo avviso. Se sei sicuro, fai clic su **[!UICONTROL Delete]**.
+1. Se l’oggetto personalizzato è in forma di bozza, non ancora approvato, verrà visualizzato questo avviso. Se si è certi, fare clic su **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-10.png)
 
-1. Se l’oggetto personalizzato è già approvato, il rischio di eliminarlo è maggiore. Quindi, riceverete questo severo avviso. Immettere **[!UICONTROL I understand]**, selezionare la casella di controllo **[!UICONTROL Cannot Undo]** e fare clic su **[!UICONTROL Delete]**.
+1. Se l’oggetto personalizzato è già approvato, il rischio di eliminarlo è maggiore. Pertanto, riceverai questo avviso sterner. Immettere **[!UICONTROL I understand]**, selezionare la casella di controllo **[!UICONTROL Cannot Undo]** e fare clic su **[!UICONTROL Delete]**.
 
    ![](assets/edit-and-delete-a-marketo-custom-object-11.png)
 

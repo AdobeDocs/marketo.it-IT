@@ -4,10 +4,10 @@ description: Passaggi per creare oggetti personalizzati Marketo per strutture un
 title: Creare oggetti personalizzati di Marketo
 exl-id: d68b41e1-a12b-436f-aad7-42c7264cd901
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '629'
-ht-degree: 5%
+source-wordcount: '687'
+ht-degree: 7%
 
 ---
 
@@ -49,13 +49,13 @@ Questo esempio mostra un oggetto personalizzato Car, da utilizzare in una strutt
 
    >[!NOTE]
    >
-   >È possibile modificare questi campi durante la creazione, ma dopo averli salvati è possibile modificare solo il campo [!UICONTROL Plural Name] e il cursore **[!UICONTROL Show in Lead Detail]**.
+   >È possibile modificare questi campi durante la creazione, ma dopo il salvataggio è possibile modificare solo il campo [!UICONTROL Plural Name] e il cursore **[!UICONTROL Show in Lead Detail]**.
 
 1. Richiamare il cursore **[!UICONTROL Show in Lead Detail]** per visualizzare **[!UICONTROL Show]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-5.png)
 
-1. Nelle informazioni personalizzate sugli oggetti viene visualizzato il contenuto immesso. Lo stato è **[!UICONTROL Draft]**.
+1. Nelle informazioni personalizzate sugli oggetti viene visualizzato il contenuto immesso. Si noti che è in uno stato **[!UICONTROL Draft]**.
 
    ![](assets/create-marketo-custom-objects-6.png)
 
@@ -67,11 +67,11 @@ Questo esempio mostra un oggetto personalizzato Car, da utilizzare in una strutt
 
 ## Creare un oggetto personalizzato per una struttura Many-to-Many (Da molti-a-molti) {#create-a-custom-object-for-a-many-to-many-structure}
 
-Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato per creare una relazione molti-a-molti tra persone/aziende e corsi. Al termine dell&#39;operazione, verrà creato un oggetto intermediario per collegarlo alle persone o alle società del database.
+Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato per creare una relazione molti-a-molti tra persone o aziende e corsi. Al termine dell&#39;operazione, verrà creato un oggetto intermediario per collegarlo alle persone o alle società del database.
 
 >[!NOTE]
 >
->Per una relazione molti-a-molti, non è necessario creare un collegamento nell&#39;oggetto personalizzato. Al contrario, aggiungerai due collegamenti all’oggetto intermedio (vedi sotto).
+>Per una relazione molti-a-molti, non è necessario creare un collegamento nell’oggetto personalizzato. Al contrario, aggiungerai due collegamenti all’oggetto intermedio (vedi sotto).
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -91,13 +91,13 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
 
    >[!NOTE]
    >
-   >È possibile modificare questi campi durante la creazione, ma dopo averli salvati è possibile modificare solo il campo [!UICONTROL Plural Name] e il cursore **[!UICONTROL Show in Lead Detail]**.
+   >È possibile modificare questi campi durante la creazione, ma dopo il salvataggio è possibile modificare solo il campo [!UICONTROL Plural Name] e il cursore **[!UICONTROL Show in Lead Detail]**.
 
 1. Richiamare il cursore **[!UICONTROL Show in Lead Detail]** per visualizzare **[!UICONTROL Show]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-11.png)
 
-1. Nelle informazioni personalizzate sugli oggetti viene visualizzato il contenuto immesso. Lo stato è **[!UICONTROL Draft]**.
+1. Nelle informazioni personalizzate sugli oggetti viene visualizzato il contenuto immesso. Si noti che è in uno stato **[!UICONTROL Draft]**.
 
    ![](assets/create-marketo-custom-objects-12.png)
 
@@ -105,7 +105,7 @@ Questo esempio mostra un oggetto personalizzato del corso, che verrà utilizzato
    >
    >Puoi popolare gli oggetti personalizzati di Marketo solo tramite un&#39;importazione elenco o l&#39;[API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
-Il passaggio successivo è la creazione dell’oggetto intermedio (vedi di seguito). Ma prima di questo, devi creare un campo a cui collegarti.
+Il passaggio successivo consiste nel creare l&#39;oggetto intermedio (vedi sotto). Prima di ciò, devi creare un campo a cui collegarti.
 
 ## Creare un oggetto intermedio {#create-an-intermediary-object}
 
@@ -133,15 +133,15 @@ Utilizzare un oggetto intermediario per connettere un oggetto personalizzato a u
 
    >[!NOTE]
    >
-   >È possibile modificare questi campi durante la creazione, ma dopo averli salvati è possibile modificare solo il campo [!UICONTROL Plural Name] e il cursore [!UICONTROL Show in Lead Detail].
+   >È possibile modificare questi campi durante la creazione, ma dopo il salvataggio è possibile modificare solo il campo [!UICONTROL Plural Name] e il cursore [!UICONTROL Show in Lead Detail].
 
-1. Richiamare il cursore **[!UICONTROL Show in Lead Detail]** per visualizzare **Show** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **Salva**.
+1. Richiamare il cursore **[!UICONTROL Show in Lead Detail]** per visualizzare **[!UICONTROL Show]** se si desidera visualizzare i dati oggetto personalizzati nella pagina Database. Fai clic su **[!UICONTROL Save]**.
 
    ![](assets/create-marketo-custom-objects-17.png)
 
-1. Nelle informazioni personalizzate sugli oggetti viene visualizzato il contenuto immesso. Lo stato è **[!UICONTROL Draft]**.
+1. Nelle informazioni personalizzate sugli oggetti viene visualizzato il contenuto immesso. Si noti che è in uno stato **[!UICONTROL Draft]**.
 
-   Il passaggio successivo prevede l&#39;aggiunta di [campi collegamento](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) per collegare l&#39;oggetto intermedio a una persona/azienda e a un oggetto personalizzato.
+   Il passaggio successivo consiste nell&#39;aggiungere [campi collegamento](/help/marketo/product-docs/administration/marketo-custom-objects/add-marketo-custom-object-link-fields.md) per collegare l&#39;oggetto intermedio a una persona o a un&#39;azienda e a un oggetto personalizzato.
 
 >[!MORELIKETHIS]
 >

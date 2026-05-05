@@ -3,16 +3,16 @@ description: Come esportare lo schema di metadati di oggetti personalizzati per 
 title: Esportare metadati degli oggetti personalizzati
 exl-id: 4c23f07e-3491-43c5-8ea8-2e54c9a4b9af
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '105'
-ht-degree: 17%
+source-wordcount: '106'
+ht-degree: 21%
 
 ---
 
 # Esportare metadati degli oggetti personalizzati {#custom-object-metadata-export}
 
-Se utilizzi l&#39;API SOAP o l&#39;API [!DNL Munchkin], puoi esportare lo schema metadati oggetto personalizzato. Ecco come ottenerlo.
+Se si utilizza l&#39;API SOAP o l&#39;API [!DNL Munchkin], è possibile esportare lo schema metadati di oggetti personalizzati. Segui i passaggi seguenti.
 
 >[!AVAILABILITY]
 >

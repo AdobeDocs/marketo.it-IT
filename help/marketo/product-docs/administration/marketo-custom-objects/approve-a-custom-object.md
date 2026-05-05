@@ -4,20 +4,20 @@ description: Come approvare oggetti personalizzati nuovi o modificati in Admin, 
 title: Approvare un oggetto personalizzato
 exl-id: 8bae94df-91fe-4722-8c75-c26df882c65d
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '284'
 ht-degree: 7%
 
 ---
 
 # Approvare un oggetto personalizzato {#approve-a-custom-object}
 
-È necessario approvare un oggetto personalizzato prima di poterlo utilizzare. Il processo è leggermente diverso per i nuovi oggetti personalizzati e per quelli che hai modificato.
+È necessario approvare un oggetto personalizzato prima di poterlo utilizzare. Il processo è leggermente diverso per i nuovi oggetti personalizzati e per quelli modificati.
 
 ## Approva un nuovo oggetto personalizzato {#approve-a-new-custom-object}
 
-Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
+È stato creato un nuovo oggetto personalizzato. Per approvarlo, segui la procedura indicata di seguito.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -27,7 +27,7 @@ Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
 
    ![](assets/approve-a-custom-object-2.png)
 
-1. Selezionate un oggetto in stato Bozza.
+1. Selezionare un oggetto in stato Bozza.
 
    ![](assets/approve-a-custom-object-3.png)
 
@@ -43,13 +43,13 @@ Hai creato un nuovo oggetto personalizzato. Ecco come approvarlo.
    >
    >Un oggetto personalizzato utilizzato in una struttura _uno-a-molti_ deve avere almeno un campo di deduplicazione, un campo di collegamento, un nome di oggetto collegato e un nome di campo collegato da approvare.
    >
-   >Un oggetto personalizzato utilizzato in una struttura _many-to-many_ **non richiede un campo collegamento, un nome di oggetto collegato o un nome di campo collegato quando viene approvato (perché risiedono nell&#39;oggetto intermedio).**
+   >Un oggetto personalizzato utilizzato in una struttura _many-to-many_ **non** richiede un campo di collegamento, un nome di oggetto collegato o un nome di campo collegato quando lo si approva (perché risiedono nell&#39;oggetto intermedio).
    >
    >Un oggetto personalizzato utilizzato come _oggetto intermedio_ richiede un campo di collegamento, un nome di oggetto collegato e un nome di campo collegato, ma **non richiede un campo di deduplicazione**.
    >
    >Per ulteriori informazioni, vedere [Informazioni sugli oggetti personalizzati di Marketo](/help/marketo/product-docs/administration/marketo-custom-objects/understanding-marketo-custom-objects.md).
 
-Tutto qui. Ora puoi selezionare l’oggetto personalizzato nei vincoli dei filtri e dei trigger da utilizzare nelle campagne.
+Ora puoi selezionare l’oggetto personalizzato nei vincoli dei filtri e dei trigger da utilizzare nelle campagne.
 
 ## Approvare un oggetto personalizzato modificato {#approve-an-edited-custom-object}
 

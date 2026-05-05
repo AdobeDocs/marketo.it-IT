@@ -4,10 +4,10 @@ description: Come utilizzare i trigger di aggiunta o modifica di oggetti persona
 title: Disattivare le modifiche all’oggetto personalizzato
 exl-id: a2a3d82f-33ae-4191-b114-dbbf944a66c8
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 6%
+source-wordcount: '199'
+ht-degree: 9%
 
 ---
 
@@ -18,9 +18,10 @@ ht-degree: 6%
 >Questa funzione è disponibile solo:
 >
 >* Da utilizzare solo con oggetti personalizzati di Marketo, non con oggetti personalizzati sincronizzati tramite l&#39;integrazione nativa di [!DNL Salesforce] o [!DNL Microsoft Dynamics]
+>
 >* Come attivatore, non come filtro
 >
->Contatta il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per richiedere l&#39;abilitazione dei trigger di modifica degli oggetti personalizzati.
+>Contattare il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) per attivare i trigger di modifica oggetti personalizzati.
 
 Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di flusso quando un oggetto personalizzato viene aggiunto a una persona o a un’azienda. Puoi anche creare un elenco avanzato che utilizza come attivatore una _modifica_ in un oggetto personalizzato. Ad esempio, utilizzalo per inviare un’e-mail quando il nome di un corso viene aggiornato.
 
@@ -48,7 +49,7 @@ Nell’elenco avanzato di una campagna avanzata, puoi attivare un’azione di fl
 
    ![](assets/trigger-off-custom-object-changes-5.png)
 
-1. Ed eccoti qui. La modifica viene salvata automaticamente.
+1. La modifica viene salvata automaticamente.
 
    ![](assets/trigger-off-custom-object-changes-6.png)
 

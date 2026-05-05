@@ -4,9 +4,9 @@ description: Come aggiungere campi di collegamento per connettere oggetti person
 title: Aggiungere campi collegamento oggetto personalizzato di Marketo
 exl-id: e7537d79-9fca-4966-881a-9d7d312008e2
 feature: Custom Objects
-source-git-commit: e894ece3a643113fd3e1d8df9f8addefea5553f5
+source-git-commit: 40d7e8a0723946970c49a6dfc4f0de4c71b0df65
 workflow-type: tm+mt
-source-wordcount: '664'
+source-wordcount: '685'
 ht-degree: 3%
 
 ---
@@ -20,11 +20,11 @@ Quando si creano oggetti personalizzati, è necessario fornire campi di collegam
 
 >[!IMPORTANT]
 >
->Marketo Engage supporta solo un singolo oggetto edge per ogni oggetto bridge nella relazione Many to Many (Da molti a molti). Nell’esempio fornito di seguito, ogni iscrizione può essere collegata solo a un singolo corso. Tuttavia, possono esserci molti oggetti ponte per ogni oggetto perimetrale, così come ci sono molte iscrizioni degli studenti a ogni corso (relazione molti-a-uno). Se i dati oggetto personalizzati sono strutturati in modo che per ogni record oggetto di Bridge siano presenti più record oggetto di Edge (uno-a-molti o molti-a-molti), è possibile creare più record oggetto di Bridge, ciascuno dei quali fa riferimento a un singolo record oggetto di Edge per rappresentare tali dati in Marketo.
+>Marketo Engage supporta solo un singolo oggetto edge per ogni oggetto bridge nella relazione Many to Many (Da molti a molti). Nell’esempio fornito di seguito, ogni iscrizione può essere collegata solo a un singolo corso. Tuttavia, possono esserci molti oggetti ponte per ogni oggetto perimetrale, così come ci sono molte iscrizioni degli studenti a ogni corso (relazione molti-a-uno). Se i dati oggetto personalizzati sono strutturati in modo che esista più di un record oggetto di Edge per ciascun record oggetto di Bridge (uno-a-molti o molti-a-molti), è possibile creare più record oggetto di Bridge che fanno riferimento ciascuno a un singolo record oggetto di Edge per rappresentare tali dati in Marketo.
 
 ## Creare un campo collegamento per una struttura uno-a-molti {#create-a-link-field-for-a-one-to-many-structure}
 
-Di seguito viene illustrato come creare un campo collegamento in un oggetto personalizzato per una struttura uno-a-molti.
+Segui i passaggi seguenti per creare un campo di collegamento in un oggetto personalizzato per una struttura uno-a-molti.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -42,13 +42,13 @@ Di seguito viene illustrato come creare un campo collegamento in un oggetto pers
 
    ![](assets/add-marketo-custom-object-link-fields-4.png)
 
-1. Assegna un nome al campo del collegamento e aggiungi un [!UICONTROL Description] facoltativo. Assicurarsi di selezionare il tipo di dati [!UICONTROL Link].
+1. Assegna un nome al campo del collegamento e aggiungi un [!UICONTROL Description] facoltativo. Selezionare il tipo di dati [!UICONTROL Link].
 
    ![](assets/add-marketo-custom-object-link-fields-5.png)
 
    >[!CAUTION]
    >
-   >Non sarà possibile tornare indietro e creare, modificare o eliminare [!UICONTROL Link] o [!UICONTROL Dedupe Field] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
+   >Non è possibile tornare indietro e creare, modificare o eliminare un oggetto [!UICONTROL Link] o [!UICONTROL Dedupe Field] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
 
 1. Seleziona se [!UICONTROL Link Object] è per un [!UICONTROL lead] (persona) o un [!UICONTROL company].
 
@@ -56,7 +56,7 @@ Di seguito viene illustrato come creare un campo collegamento in un oggetto pers
 
    >[!NOTE]
    >
-   >Se scegli [!UICONTROL lead], nell&#39;elenco verranno visualizzati ID, indirizzo e-mail ed eventuali campi personalizzati.
+   >Se scegli [!UICONTROL lead], nell&#39;elenco verranno visualizzati l&#39;ID, l&#39;indirizzo e-mail ed eventuali campi personalizzati.
    >
    >Se scegli [!UICONTROL company], nell&#39;elenco verranno visualizzati l&#39;ID ed eventuali campi personalizzati.
 
@@ -74,7 +74,7 @@ Di seguito viene illustrato come creare un campo collegamento in un oggetto pers
 
 ## Creare un campo di collegamento per una struttura Many-to-Many (Da molti-a-molti) {#create-a-link-field-for-a-many-to-many-structure}
 
-Di seguito viene illustrato come creare un campo di collegamento in un oggetto intermedio da utilizzare in una struttura molti-a-molti.
+Segui i passaggi seguenti per creare un campo di collegamento in un oggetto intermedio da utilizzare in una struttura molti-a-molti.
 
 >[!PREREQUISITES]
 >
@@ -96,13 +96,13 @@ Di seguito viene illustrato come creare un campo di collegamento in un oggetto i
 
    ![](assets/add-marketo-custom-object-link-fields-12.png)
 
-1. Devi creare due campi di collegamento. Creale una alla volta. Innanzitutto, assegna un nome al campo per i membri dell’elenco del database (ad esempio, leadID). Aggiungi un elemento [!UICONTROL Description] facoltativo. Assicurarsi di selezionare [!UICONTROL link] [!UICONTROL Data Type].
+1. Crea due campi di collegamento, uno alla volta. Innanzitutto, assegna un nome al campo per i membri dell’elenco del database (ad esempio, leadID). Aggiungi un elemento [!UICONTROL Description] facoltativo. Selezionare [!UICONTROL link] [!UICONTROL Data Type].
 
    ![](assets/add-marketo-custom-object-link-fields-13.png)
 
    >[!CAUTION]
    >
-   >Non sarà possibile tornare indietro e creare, modificare o eliminare [!UICONTROL Link] o [!UICONTROL Dedupe Field] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
+   >Non è possibile tornare indietro e creare, modificare o eliminare un oggetto [!UICONTROL Link] o [!UICONTROL Dedupe Field] dopo l&#39;approvazione dell&#39;oggetto personalizzato.
 
 1. Selezionare [!UICONTROL Link Object] dal database; in questo caso, [!UICONTROL Lead].
 
@@ -128,7 +128,7 @@ Di seguito viene illustrato come creare un campo di collegamento in un oggetto i
 
 ## Utilizzo di oggetti personalizzati {#using-custom-objects}
 
-Il passaggio successivo consiste nell’utilizzare questi oggetti personalizzati nei filtri delle campagne intelligenti. Con una relazione molti-a-molti, puoi selezionare più persone/aziende e più oggetti personalizzati. Nell’esempio seguente, verranno elencati tutti gli utenti del database che soddisfano questi criteri. Il campo Nome corso proviene dall&#39;oggetto personalizzato del corso e il livello di iscrizione proviene dall&#39;oggetto intermedio.
+Il passaggio successivo consiste nell’utilizzare questi oggetti personalizzati nei filtri delle campagne intelligenti. Con una relazione molti-a-molti, puoi selezionare più persone o aziende e più oggetti personalizzati. Nell’esempio seguente, verranno elencati tutti gli utenti del database che soddisfano questi criteri. Il campo Nome corso proviene dall&#39;oggetto personalizzato del corso e il livello di iscrizione proviene dall&#39;oggetto intermedio.
 
 ![](assets/add-marketo-custom-object-link-fields-18.png)
 
