@@ -3,9 +3,9 @@ description: Scopri come configurare una notifica push mobile. Imposta l’app, 
 title: Configurare notifica push su dispositivo mobile
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 3d0c7a7ee68bfcd128ba106bef4e44d88eac02cc
 workflow-type: tm+mt
-source-wordcount: '477'
+source-wordcount: '506'
 ht-degree: 2%
 
 ---
@@ -82,7 +82,19 @@ Un URI di collegamento profondo è costituito da tre parti: nome dello schema, p
 
 ![](assets/configure-mobile-push-notification-10.png)
 
-Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Lo sviluppatore dispone di diverse opzioni per la definizione degli URI di collegamento profondo. Chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push puntano alle posizioni giuste. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+Detto questo, la struttura dei collegamenti profondi dell&#39;app potrebbe essere diversa da quella dell&#39;esempio precedente. Lo sviluppatore dispone di diverse opzioni per la definizione degli URI di collegamento profondo. Chiedi allo sviluppatore di inviarti gli URI (collegamenti) per le pagine che ti interessano. In questo modo gli URI immessi nei messaggi push puntano alle posizioni giuste. Il tuo sviluppatore può [trovare ulteriori informazioni qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mobile/enabling-deep-links-in-your-app).
+
+## URL di reindirizzamento {#redirect-urls}
+
+Gli URL di reindirizzamento configurati nei messaggi di notifica push supportano i token Marketo al loro interno. Applicabile solo per &quot;Avvia URL app&quot;.
+
+Formato di esempio:
+
+* Formato applicazione esistente:
+  `com.onboardmd://financing?FirstName={{lead.First Name}}&City={{lead.City}}`
+
+* Formato con valori di fallback:
+  `com.onboardmd://financing?FirstName={{lead.First Name:default=edit me}}&City={{lead.City:default=edit me}}`
 
 >[!MORELIKETHIS]
 >
