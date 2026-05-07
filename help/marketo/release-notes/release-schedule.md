@@ -4,10 +4,10 @@ description: Pianificazione del rilascio - Documenti Marketo - Documentazione de
 title: Pianificazione delle versioni
 exl-id: 38bd10e3-7f47-46f7-b9b0-83e1ab50014c
 feature: Release Information
-source-git-commit: 39ea33ddb4827d1c0824ef871956a4357f0c9fa3
+source-git-commit: b1c177e03fab297e5f94b1848103ac3239e4d079
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 89%
+source-wordcount: '160'
+ht-degree: 79%
 
 ---
 
@@ -45,36 +45,36 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
   <tr>
   <td><a href="/help/marketo/release-notes/current.md">Marzo 2026</td>
    <td>27 marzo 2026</td>
-   <td>In corso</td>
+   <td>Completa</td>
   </tr>
   <tr>
   <td>Maggio 2026</td>
-   <td>sabato 15 maggio 2026</td>
+   <td>22 maggio 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
   <td>Giugno 2026</td>
-   <td>sabato 26 giugno 2026</td>
+   <td>26 giugno 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
   <td>Luglio '26</td>
-   <td>sabato 31 luglio 2026</td>
+   <td>31 luglio 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
   <td>Agosto '26</td>
-   <td>sabato 28 agosto 2026</td>
+   <td>28 agosto 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
   <td>Settembre '26</td>
-   <td>sabato 25 settembre 2026</td>
+   <td>25 settembre 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
   <tr>
   <td>Ottobre 2026</td>
-   <td>sabato 30 ottobre 2026</td>
+   <td>30 ottobre 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
  </tbody>
