@@ -4,10 +4,10 @@ description: Scopri come utilizzare un modulo in una lightbox in Marketo. Visual
 title: Utilizzare un modulo in un Lightbox
 exl-id: 4cbb6ae7-acd4-4979-8825-fa983fdc8fb5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 14%
+source-wordcount: '106'
+ht-degree: 15%
 
 ---
 
@@ -40,5 +40,3 @@ Una Lightbox è una tecnica che apre un modulo davanti al contenuto quando si de
    ![](assets/image2014-9-15-14-3a32-3a39.png)
 
 Invia il codice al tuo sviluppatore web e fai in modo che lo aggiunga al tuo sito web.
-
-Ottimo lavoro!

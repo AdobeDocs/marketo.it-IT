@@ -4,16 +4,16 @@ description: Scopri come visualizzare in anteprima un modulo in Marketo prima di
 title: Visualizzare in anteprima un modulo
 exl-id: 7d7522ef-422f-4c20-a1dc-2bcb856ac373
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 10%
+source-wordcount: '72'
+ht-degree: 11%
 
 ---
 
 # Visualizzare in anteprima un modulo {#preview-a-form}
 
-Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di moduli rapido e semplice.
+Prima di pubblicare, puoi visualizzare il modulo in questo visualizzatore di moduli.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 

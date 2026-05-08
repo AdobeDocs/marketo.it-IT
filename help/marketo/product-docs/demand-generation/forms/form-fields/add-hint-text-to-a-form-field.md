@@ -4,10 +4,10 @@ description: Scopri come aggiungere testo di suggerimento a un campo modulo in M
 title: Aggiungere testo suggerimento a un campo modulo
 exl-id: 317ca17f-eff7-4c57-ac91-214732b4d8e5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 15%
+source-wordcount: '123'
+ht-degree: 14%
 
 ---
 
@@ -45,8 +45,8 @@ Suggerimenti e [istruzioni](/help/marketo/product-docs/demand-generation/forms/f
 
    >[!NOTE]
    >
-   >Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
+   >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
    ![](assets/image2014-9-15-13-3a53-3a23.png)
 
-Dai un&#39;occhiata! Andiamo avanti e aggiungiamo alcune [istruzioni](add-tooltip-instructions-to-a-form-field.md) ora.
+Per aggiungere istruzioni di descrizione a un campo modulo, vedere [Aggiungere istruzioni di descrizione a un campo modulo](add-tooltip-instructions-to-a-form-field.md).

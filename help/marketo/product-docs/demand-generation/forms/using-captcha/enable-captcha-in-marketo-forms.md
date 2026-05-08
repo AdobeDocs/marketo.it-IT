@@ -3,16 +3,16 @@ description: Scopri come abilitare CAPTCHA in Marketo Forms. Riduci le richieste
 title: Abilitare CAPTCHA nei moduli Marketo
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 12%
+source-wordcount: '101'
+ht-degree: 11%
 
 ---
 
 # Abilitare CAPTCHA nei moduli Marketo {#enable-captcha-in-marketo-forms}
 
-È possibile abilitare/disabilitare [!UICONTROL CAPTCHA] in base al modulo.
+È possibile abilitare o disabilitare [!UICONTROL CAPTCHA] in base al modulo.
 
 1. Individuare e selezionare il modulo desiderato.
 

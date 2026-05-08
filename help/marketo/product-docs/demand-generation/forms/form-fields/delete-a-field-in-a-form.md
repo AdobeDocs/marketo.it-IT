@@ -4,9 +4,9 @@ description: Scopri come eliminare un campo da un modulo di Marketo. Rimuovi dal
 title: Eliminare un campo in un modulo
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '77'
 ht-degree: 23%
 
 ---
@@ -37,4 +37,4 @@ Se nel modulo è presente un campo non più necessario, è possibile eliminarlo 
 
 >[!NOTE]
 >
->Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
+>Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.

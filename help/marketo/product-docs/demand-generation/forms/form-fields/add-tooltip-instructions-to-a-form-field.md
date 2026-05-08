@@ -4,9 +4,9 @@ description: Scopri come aggiungere istruzioni di descrizione a un campo modulo 
 title: Aggiungere istruzioni di descrizione a un campo modulo
 exl-id: 455d19de-2e2b-447d-a210-7d77fdda6dc9
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '121'
 ht-degree: 14%
 
 ---
@@ -45,8 +45,8 @@ ht-degree: 14%
 
    >[!NOTE]
    >
-   >Non dimenticare di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
+   >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
    ![](assets/image2014-9-15-14-3a16-3a56.png)
 
-Ottimo lavoro! La descrizione comando viene visualizzata quando un visitatore passa il mouse sul campo.
+La descrizione comando viene visualizzata quando un visitatore passa il mouse sul campo.

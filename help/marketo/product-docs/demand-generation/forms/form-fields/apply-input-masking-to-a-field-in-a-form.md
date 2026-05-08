@@ -4,9 +4,9 @@ description: Scopri come applicare il mascheramento di input a un campo modulo i
 title: Applicare il mascheramento di input a un campo di un modulo
 exl-id: cb99bf10-0d0c-4161-a4e9-ec24700b1b31
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '172'
 ht-degree: 12%
 
 ---
@@ -51,12 +51,10 @@ Puoi limitare l’input del visitatore utilizzando una maschera di input. Ad ese
 
    ![](assets/image2014-9-15-13-3a41-3a28.png)
 
-   Dai un&#39;occhiata! Ora stai chiedendo al visitatore di inserire i numeri in un formato specifico.
+   Ora stai chiedendo al visitatore di inserire i numeri in un formato specifico.
 
    ![](assets/image2014-9-15-13-3a41-3a39.png)
 
    >[!NOTE]
    >
    >Il campo potrebbe non visualizzare aree predefinite, come illustrato nell’immagine precedente. Può apparire vuota finché il visitatore non inizia a immettere numeri, che poi aderiranno automaticamente al formato di input definito per il campo.
-
-Fantastico, eh?

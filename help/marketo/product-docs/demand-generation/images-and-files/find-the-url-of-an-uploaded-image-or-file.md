@@ -4,16 +4,16 @@ description: Scopri come trovare l’URL di un’immagine o di un file caricato 
 title: Trovare l’URL di un’immagine o di un file caricato
 exl-id: 7aa137cc-7398-40a1-9994-97ca53c88837
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '78'
 ht-degree: 24%
 
 ---
 
 # Trovare l’URL di un’immagine o di un file caricato {#find-the-url-of-an-uploaded-image-or-file}
 
-Cerchi l’indirizzo web (URL) di un’immagine o di un file che hai caricato?
+Per trovare l’URL di un’immagine o di un file caricato, segui la procedura riportata di seguito.
 
 1. Passare a **[!UICONTROL Design Studio]**.
 

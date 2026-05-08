@@ -4,10 +4,10 @@ description: Scopri come modificare lo stile e il colore del pulsante Invia in u
 title: Cambiare stile e colore del pulsante Invia
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 11%
+source-wordcount: '139'
+ht-degree: 12%
 
 ---
 
@@ -29,7 +29,7 @@ Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di 
 
    >[!TIP]
    >
-   >Lo sapevi che puoi trascinare il pulsante Invia a sinistra o a destra per modificarne la posizione? È così facile. Provalo!
+   >È possibile trascinare il pulsante Invia a sinistra o a destra per modificarne la posizione.
 
 1. Scegliere lo stile di pulsante desiderato (scorrimento verso l&#39;alto o verso il basso).
 
@@ -54,8 +54,6 @@ Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di 
 1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
-
-   Ecco qua!
 
    ![](assets/image2014-9-15-16-3a57-3a17.png)
 

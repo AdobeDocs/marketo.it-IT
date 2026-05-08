@@ -4,16 +4,16 @@ description: Scopri come selezionare un tema del modulo in Marketo. Scegliere un
 title: Selezionare un tema per il modulo
 exl-id: 7b1fa1f6-2507-45f9-974d-e31bc9d7a683
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 9%
+source-wordcount: '118'
+ht-degree: 11%
 
 ---
 
 # Selezionare un tema per il modulo {#select-a-form-theme}
 
-Abbiamo creato una serie di bei temi per le vostre forme. Quale ti piace di più?
+Sono disponibili diversi temi per i moduli.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -53,8 +53,6 @@ Abbiamo creato una serie di bei temi per le vostre forme. Quale ti piace di più
 1. Fare clic su **[!UICONTROL Next]** per configurare altre opzioni di modulo oppure su **[!UICONTROL Finish]** se si desidera modificare solo il tema del modulo.
 
    ![](assets/select-a-form-theme-5.png)
-
-Quanto era facile?! Ora puoi lasciare che il tuo libro HTML/CSS raccolga un po’ di polvere.
 
 >[!MORELIKETHIS]
 >

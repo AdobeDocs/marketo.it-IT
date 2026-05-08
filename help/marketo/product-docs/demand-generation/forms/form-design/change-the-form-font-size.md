@@ -4,10 +4,10 @@ description: Scopri come modificare la dimensione del font del modulo in Marketo
 title: Modificare le dimensioni del font del modulo
 exl-id: 20774590-9209-4c3f-a791-dcbe7bb38031
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '117'
-ht-degree: 13%
+source-wordcount: '111'
+ht-degree: 14%
 
 ---
 
@@ -52,5 +52,3 @@ Marketo semplifica la personalizzazione dell&#39;aspetto dei moduli. È possibil
    >Ricorda di approvare la bozza della pagina di destinazione creata dalle modifiche del modulo.
 
    ![](assets/image2014-9-15-16-3a11-3a42.png)
-
-Un pezzo di torta! Ce l&#39;hai.

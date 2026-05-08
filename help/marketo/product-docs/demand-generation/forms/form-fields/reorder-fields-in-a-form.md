@@ -4,10 +4,10 @@ description: Scopri come riordinare i campi in un modulo di Marketo. Trascinare 
 title: Riordinare i campi in un modulo
 exl-id: 62846099-f925-44d6-8ff3-d9fffd2816b9
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 19%
+source-wordcount: '75'
+ht-degree: 18%
 
 ---
 
@@ -29,6 +29,5 @@ ht-degree: 19%
 
 >[!TIP]
 >
->Puoi anche trascinare i campi uno accanto all’altro. In questo modo è possibile creare colonne.
+>Puoi anche trascinare i campi uno accanto all’altro. Questo consente di creare colonne.
 
-Ottimo lavoro! Stai rovinando questa cosa.

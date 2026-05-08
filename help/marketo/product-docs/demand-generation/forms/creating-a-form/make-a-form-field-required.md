@@ -4,16 +4,16 @@ description: Scopri come rendere obbligatorio un campo modulo in Marketo. Richie
 title: Rendere obbligatorio un campo in un modulo
 exl-id: f07c4dd8-457a-442b-9ef8-89b51647829b
 feature: Forms
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 14%
+source-wordcount: '104'
+ht-degree: 13%
 
 ---
 
 # Rendere obbligatorio un campo in un modulo {#make-a-form-field-required}
 
-Quando [aggiungi campi a un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, potresti voler renderne alcuni obbligatori alla persona che li compila. Ecco come.
+Quando [aggiungi campi a un modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/add-a-field-to-a-form.md){target="_blank"}, potresti voler renderne alcuni obbligatori alla persona che li compila.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -31,7 +31,7 @@ Quando [aggiungi campi a un modulo](/help/marketo/product-docs/demand-generation
 
    ![](assets/make-a-form-field-required-3.png)
 
-1. Ben fatto! Fai clic su **[!UICONTROL Finish]**.
+1. Fai clic su **[!UICONTROL Finish]**.
 
    ![](assets/make-a-form-field-required-4.png)
 
@@ -41,7 +41,7 @@ Quando [aggiungi campi a un modulo](/help/marketo/product-docs/demand-generation
 
 >[!NOTE]
 >
->Non dimenticare di [approvare le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} su cui si basa il modulo per attivare le modifiche.
+>Ricorda di [approvare qualsiasi pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md){target="_blank"} su cui è basato questo modulo per rendere attive le modifiche.
 
 >[!MORELIKETHIS]
 >

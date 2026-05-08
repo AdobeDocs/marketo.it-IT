@@ -4,10 +4,10 @@ description: Scopri come definire i valori in un campo radio o a discesa in un m
 title: Definire i valori in un pulsante di scelta o campo selezionato in un modulo
 exl-id: 62e8d1db-3de7-4129-80d5-11c1fe8d9dd3
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 15%
+source-wordcount: '174'
+ht-degree: 16%
 
 ---
 
@@ -62,5 +62,3 @@ Dopo aver [impostato un tipo di campo](/help/marketo/product-docs/administration
 1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a29-3a57.png)
-
-Super lavoro! Stai andando davvero bene.

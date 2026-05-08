@@ -4,7 +4,7 @@ description: Scopri come caricare immagini e file da Box a Marketo. Connetti Box
 title: Caricare immagini e file da Box
 exl-id: 08596026-ce25-4076-957a-d069aa44b85a
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 18%

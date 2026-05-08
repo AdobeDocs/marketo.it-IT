@@ -4,10 +4,10 @@ description: Scopri come modificare la posizione dell’etichetta del modulo in 
 title: Cambiare posizione all’etichetta del modulo
 exl-id: b4291454-f6f8-4800-b806-6ea56d6f83cd
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 12%
+source-wordcount: '95'
+ht-degree: 15%
 
 ---
 
@@ -51,8 +51,6 @@ Durante la [creazione di un modulo](/help/marketo/product-docs/demand-generation
    >[!NOTE]
    >
    >Ricorda di approvare la bozza della pagina di destinazione creata dalle modifiche del modulo.
-
-Ben fatto! È facile modificare le posizioni delle etichette in un modulo? OK, vediamo cosa si può fare per cambiare il font delle etichette dei moduli.
 
 >[!MORELIKETHIS]
 >

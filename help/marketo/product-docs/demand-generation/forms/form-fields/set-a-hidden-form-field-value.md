@@ -4,10 +4,10 @@ description: Scopri come impostare un valore per un campo modulo nascosto in Mar
 title: Impostare un valore per il campo modulo nascosto
 exl-id: acec7de1-8567-42c0-a6ce-a91b0bf69f41
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 5%
+source-wordcount: '266'
+ht-degree: 6%
 
 ---
 
@@ -37,7 +37,7 @@ Se desideri acquisire i parametri URL (stringhe di query) dalla pagina in cui si
 
 >[!NOTE]
 >
->I parametri sono piuttosto tecnologici, vero? Una volta ottenuti, però, sono potenti. Questa [pagina Wikipedia sulle stringhe di query](https://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
+>I parametri sono tecnici. Una volta che li capisci, sono potenti. Questa [pagina Wikipedia sulle stringhe di query](https://en.wikipedia.org/wiki/Query_string) è in qualche modo utile.
 
 1. Selezionare **[!UICONTROL URL Parameter]** per **[!UICONTROL Get Value Type]**.
 

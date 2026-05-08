@@ -4,16 +4,16 @@ description: Scopri come eliminare un’immagine o un file caricato da Marketo. 
 title: Eliminare un’immagine o un file caricato
 exl-id: 291ea4f3-a317-4696-b26e-0d69bf4581e3
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 15%
+source-wordcount: '110'
+ht-degree: 16%
 
 ---
 
 # Eliminare un’immagine o un file caricato {#delete-an-uploaded-image-or-file}
 
-Eliminare immagini o file è facile e veloce.
+Per eliminare un’immagine o un file caricato, segui la procedura riportata di seguito.
 
 >[!CAUTION]
 >

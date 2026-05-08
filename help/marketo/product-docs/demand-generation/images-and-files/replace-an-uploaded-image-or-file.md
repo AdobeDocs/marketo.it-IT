@@ -4,10 +4,10 @@ description: Scopri come sostituire un’immagine o un file caricato in Marketo.
 title: Sostituire un’immagine o un file caricato
 exl-id: 2bd936bc-2103-49b0-98b5-55f45674a257
 feature: Image Editor
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 15%
+source-wordcount: '112'
+ht-degree: 16%
 
 ---
 
@@ -40,8 +40,6 @@ ht-degree: 15%
    >[!NOTE]
    >
    >Il nome del file sostitutivo verrà modificato in modo da corrispondere al nome del file precedente.
-
-Ottimo lavoro!
 
 >[!MORELIKETHIS]
 >

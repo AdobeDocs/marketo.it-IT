@@ -4,16 +4,16 @@ description: Scopri come aggiungere testo RTF a un modulo di Marketo. Inserire i
 title: Aggiungere testo formattato a un modulo
 exl-id: 6363c03d-c1f2-4464-9483-2d9aa8dafcc5
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 19%
 
 ---
 
 # Aggiungere testo formattato a un modulo {#add-rich-text-to-a-form}
 
-Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informazioni tra i campi. Guarda un po&#39;.
+Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informazioni tra i campi.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -50,8 +50,6 @@ Utilizzare il formato RTF in un modulo per aggiungere istruzioni o altre informa
 1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a48-3a51.png)
-
-   Ben fatto! Guarda un po&#39;.
 
    ![](assets/image2014-9-15-16-3a48-3a58.png)
 

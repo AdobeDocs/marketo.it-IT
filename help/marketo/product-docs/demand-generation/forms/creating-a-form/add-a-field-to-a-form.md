@@ -4,16 +4,16 @@ description: Scopri come aggiungere un campo a un modulo in Marketo. Aggiungi i 
 title: Aggiungere un campo a un modulo
 exl-id: cda45a69-128b-4cdc-846e-637acb9555da
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 12%
+source-wordcount: '132'
+ht-degree: 11%
 
 ---
 
 # Aggiungere un campo a un modulo {#add-a-field-to-a-form}
 
-Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} e [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, è possibile aggiungere altri campi da compilare. Ecco come.
+Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/creating-a-form/create-a-form.md){target="_blank"} e aver [selezionato un tema](/help/marketo/product-docs/demand-generation/forms/creating-a-form/select-a-form-theme.md){target="_blank"}, aggiungere altri campi da compilare.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -49,7 +49,7 @@ Dopo aver [creato il modulo](/help/marketo/product-docs/demand-generation/forms/
 
 >[!NOTE]
 >
->Assicurati di approvare tutte le bozze di pagine di destinazione create a causa delle modifiche apportate al modulo.
+>Approva le bozze delle pagine di destinazione create a causa delle modifiche apportate al modulo.
 
 >[!MORELIKETHIS]
 >

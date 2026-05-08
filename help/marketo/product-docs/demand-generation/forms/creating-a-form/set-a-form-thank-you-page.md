@@ -4,9 +4,9 @@ description: Scopri come impostare una pagina di ringraziamento per il modulo in
 title: Impostare una pagina di ringraziamento del modulo
 exl-id: ed221b1c-d6f0-4ee1-b9d3-41112490e070
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '334'
 ht-degree: 5%
 
 ---
@@ -127,8 +127,6 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 
    ![](assets/image2014-9-15-17-3a40-3a26.png)
 
-   OK, sta bene!
-
    ![](assets/image2014-9-15-17-3a40-3a34.png)
 
 1. Fai clic su **[!UICONTROL Finish]**.
@@ -138,5 +136,3 @@ Puoi selezionare una pagina di destinazione di Marketo approvata come follow-up.
 1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-17-3a41-3a0.png)
-
-Ottimo lavoro!

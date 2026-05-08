@@ -4,9 +4,9 @@ description: Scopri come mostrare HTML personalizzato per persone note in un mod
 title: Mostrare un modulo HTML personalizzato per utenti noti
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '243'
 ht-degree: 8%
 
 ---
@@ -68,7 +68,7 @@ Se in passato un visitatore ha fornito il suo nome completo e il suo indirizzo e
    >
    >Ricorda di [approvare la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md) creata dalle modifiche del modulo.
 
-   Un pezzo di torta! Scopri cosa vedrebbe una persona se tornasse allo stesso modulo:
+   Di seguito viene illustrato ciò che un utente vedrebbe se tornasse allo stesso modulo:
 
    ![](assets/image2014-9-15-12-3a28-3a12.png)
 

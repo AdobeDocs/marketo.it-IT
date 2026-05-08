@@ -4,10 +4,10 @@ description: Scopri come aggiungere un elenco a discesa per paese al modulo Mark
 title: Aggiungere una lista di selezione del paese al modulo
 exl-id: b4725352-7116-4f08-b4ad-2affe81afbf4
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 11%
+source-wordcount: '138'
+ht-degree: 14%
 
 ---
 
@@ -69,11 +69,9 @@ Segui queste istruzioni per convertire il campo Paese in un elenco a discesa con
 
    ![](assets/image2014-9-15-15-3a35-3a36.png)
 
-   Ben fatto! Ora, quando una persona compila il modulo può scegliere dall’elenco dei paesi fornito.
+   Ora, quando una persona compila il modulo può scegliere dall’elenco dei paesi fornito.
 
    ![](assets/image2014-9-15-15-3a35-3a43.png)
-
-Dato che è stato così facile, perché non fare di più? Come si visualizza dinamicamente il campo Stato quando un utente seleziona Stati Uniti come paese nell’elenco? Consulta l’articolo correlato di seguito per scoprire come farlo.
 
 >[!MORELIKETHIS]
 >

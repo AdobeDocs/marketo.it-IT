@@ -4,10 +4,10 @@ description: Scopri come disattivare la compilazione di moduli social network in
 title: Disabilitare la compilazione di un modulo di contatto
 exl-id: 69b66a7e-c6c9-4e29-a5b3-688da9cae505
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 13%
+source-wordcount: '80'
+ht-degree: 15%
 
 ---
 
@@ -42,5 +42,3 @@ A volte è meglio non inviare più i moduli tramite un profilo social. Ecco come
 1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a36-3a33.png)
-
-   È tutto quello che devi fare.

@@ -4,10 +4,10 @@ description: Scopri come configurare la profilatura progressiva in un modulo di 
 title: Configurare la profilatura progressiva del modulo
 exl-id: 72afe3dc-0688-45ec-ab70-4dc9accf4fc8
 feature: Forms
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 4%
+source-wordcount: '311'
+ht-degree: 5%
 
 ---
 
@@ -94,6 +94,4 @@ Le forme corte sono buone! Quando qualcuno ritorna a un modulo, puoi presentare 
 
    ![](assets/image2014-9-15-12-3a33-3a45.png)
 
-Bel lavoro! Il lavoro che hai appena fatto pagherà.
-
-Sperimenta questa funzione e assicurati di testarla. È avanzato, ma in questo modo è possibile rendere i moduli molto dinamici.
+Sperimenta questa funzione e testala. È avanzato, ma in questo modo è possibile rendere i moduli molto dinamici.
