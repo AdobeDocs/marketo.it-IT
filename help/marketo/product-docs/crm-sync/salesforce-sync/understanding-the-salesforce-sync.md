@@ -4,16 +4,16 @@ description: Scopri in che modo la sincronizzazione di Salesforce mantiene sincr
 title: Informazioni sulla sincronizzazione con Salesforce
 exl-id: 658c81ff-5fb3-4ad8-8759-da55bbf4e263
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '229'
-ht-degree: 89%
+source-wordcount: '224'
+ht-degree: 81%
 
 ---
 
 # Informazioni sulla sincronizzazione con [!DNL Salesforce] {#understanding-the-salesforce-sync}
 
-Marketo Engage e Salesforce si completano alla perfezione. Mantengono la sincronizzazione dei dati di vendita e di marketing.
+Scopri in che modo la sincronizzazione di Salesforce mantiene sincronizzati i dati di Marketo e Salesforce.
 
 ## Funzionamento della sincronizzazione {#how-sync-works}
 
@@ -34,7 +34,7 @@ La sincronizzazione tra [!DNL Salesforce] e Marketo è bidirezionale solo per i 
 * [Account](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-account-sync.md){target="_blank"}
 * [Utenti](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-lead-account-owner-sync.md){target="_blank"}
 * [Opportunità](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-opportunity-sync.md){target="_blank"}
-* [Campagne di Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
+* [Campagne Salesforce](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-campaign-sync.md){target="_blank"}
 * [Oggetti personalizzati](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-custom-object-sync.md){target="_blank"}
 * [Attività](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/sfdc-sync-activity-sync.md){target="_blank"}
 

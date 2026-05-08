@@ -3,9 +3,9 @@ description: Scopri come installare la soluzione Marketo in Dynamics 365 con con
 title: Passaggio 1 di 4 - Installare la soluzione Marketo con la connessione di controllo della password del proprietario della risorsa
 exl-id: aab3bbb8-4e52-4c40-94d1-631af1d63f9f
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '290'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 365 e Marketo, è necessa
 >[!CAUTION]
 >
 >* Non abilitare la sincronizzazione di entità personalizzata prima del completamento della sincronizzazione iniziale. Al termine della sincronizzazione iniziale, riceverai una notifica via e-mail.
->* Se Multi-Factor Authentication (MFA) è abilitato per la sincronizzazione di [!DNL Dynamics], è necessario disattivarlo affinché [!DNL Dynamics] possa essere sincronizzato correttamente con Marketo. Per ulteriori informazioni, contattare il [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
+>* Se Multi-Factor Authentication (MFA) è abilitato per la sincronizzazione di [!DNL Dynamics], è necessario disattivarlo affinché [!DNL Dynamics] possa essere sincronizzato correttamente con Marketo. Per ulteriori informazioni, contattare [Supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
 
 >[!NOTE]
 >
@@ -67,7 +67,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 365 e Marketo, è necessa
    >
    >Per completare il processo di installazione, è necessario abilitare i popup nel browser.
 
-1. Ora attendi il completamento dell’importazione. Alzati e fai qualche tratto.
+1. Ora attendi il completamento dell’importazione.
 
    ![](assets/image2015-3-11-11-3a34-3a9.png)
 
@@ -87,7 +87,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 365 e Marketo, è necessa
 
    ![](assets/image2015-3-19-8-3a41-3a21.png)
 
-   Ottimo lavoro. L&#39;installazione è terminata.
+   Installazione completata.
 
    >[!MORELIKETHIS]
    >

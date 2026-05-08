@@ -4,16 +4,16 @@ description: Scopri come abilitare la sincronizzazione per un’entità personal
 title: Abilitare la sincronizzazione per un’entità personalizzata
 exl-id: 4b075bf3-f10b-4725-8c8e-a6ecee63d756
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '310'
 ht-degree: 4%
 
 ---
 
 # Abilitare la sincronizzazione per un’entità personalizzata {#enable-sync-for-a-custom-entity}
 
-Se sono necessari dati di entità personalizzati da [!DNL Dynamics] per essere disponibili in Marketo Engage, di seguito viene illustrato come abilitare la sincronizzazione per tale entità.
+Se hai bisogno che i dati di entità personalizzati di [!DNL Dynamics] siano disponibili in Marketo Engage, segui i passaggi seguenti.
 
 >[!PREREQUISITES]
 >
@@ -64,7 +64,7 @@ Se sono necessari dati di entità personalizzati da [!DNL Dynamics] per essere d
 
    ![](assets/enable-sync-for-a-custom-entity-7.png)
 
-1. Non dimenticare di riattivare la sincronizzazione globale.
+1. Riattiva la sincronizzazione globale.
 
    ![](assets/enable-sync-for-a-custom-entity-8.png)
 

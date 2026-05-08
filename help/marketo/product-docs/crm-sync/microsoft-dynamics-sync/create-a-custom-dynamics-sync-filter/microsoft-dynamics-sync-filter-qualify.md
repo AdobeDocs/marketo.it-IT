@@ -4,20 +4,18 @@ description: Scopri il processo di qualificazione del filtro di sincronizzazione
 title: Filtro di sincronizzazione Microsoft Dynamics - Qualifica
 exl-id: 9b26795c-fc94-478e-a7f0-ac8e602792b1
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # Filtro di sincronizzazione [!DNL Microsoft Dynamics]: qualificato {#microsoft-dynamics-sync-filter-qualify}
 
-Quando si desidera convertire un lead in un contatto in [!DNL Microsoft Dynamics], assicurarsi di utilizzare questo processo di qualificazione predefinito. Quindi, sincronizzalo con Marketo.
+Per convertire un lead in un contatto in [!DNL Microsoft Dynamics], utilizzare questo processo di qualificazione predefinito. Quindi, sincronizzalo con Marketo.
 
 ## Il processo di conversione {#the-conversion-process}
-
-Ecco come funzionano i filtri durante il processo di conversione.
 
 | Se il filtro di sincronizzazione del lead è: | e il filtro di sincronizzazione dei contatti è: | Questo è il risultato in Marketo |
 |---|---|---|

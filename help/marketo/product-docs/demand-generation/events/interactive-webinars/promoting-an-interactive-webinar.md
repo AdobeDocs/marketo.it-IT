@@ -3,9 +3,9 @@ description: Scopri come promuovere un webinar interattivo in Marketo. Condividi
 title: Promozione di un webinar interattivo
 feature: Interactive Webinars
 exl-id: d26f91ce-3a95-4247-9a52-085260bb15e8
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '800'
+source-wordcount: '799'
 ht-degree: 1%
 
 ---
@@ -34,7 +34,7 @@ Per richiedere la registrazione a questo webinar, abilita un modulo nella pagina
 
 Quando un membro si trova nello stato di programma &quot;registrato&quot; in un programma di eventi di webinar interattivi, viene automaticamente effettuata una registrazione al webinar creato in Adobe Connect. I dati di registrazione come Nome, Cognome e ID e-mail vengono quindi trasferiti ad Adobe Connect. Ciò significa che una volta che l’utente si unisce al webinar come partecipante, le informazioni saranno disponibili al presentatore o all’host durante il webinar.
 
-Entro pochi minuti dalla registrazione, l’URL del webinar per il membro viene popolato nella scheda Membri. Se non riesci a individuare la colonna per l’URL del webinar, accertati che la colonna sia stata aggiunta alla vista. Questo è un URL personalizzato per ogni membro registrato per poter accedere al webinar all’ora pianificata senza richiedere alcuna autenticazione. I token scambiati internamente si occupano dell&#39;autenticazione per i membri.
+Entro pochi minuti dalla registrazione, l’URL del webinar per il membro viene popolato nella scheda Membri. Se non riesci a individuare la colonna per l’URL del webinar, verifica che la colonna sia stata aggiunta alla tua visualizzazione. Questo è un URL personalizzato per ogni membro registrato per poter accedere al webinar all’ora pianificata senza richiedere alcuna autenticazione. I token scambiati internamente si occupano dell&#39;autenticazione per i membri.
 
 È possibile utilizzare il `{{member.webinar url}}` [token](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/tokens-overview.md){target="_blank"} per includere l&#39;URL del webinar ai singoli membri in una campagna e-mail per comunicare che sono stati registrati nell&#39;evento e per utilizzare l&#39;URL di partecipazione per accedere al webinar all&#39;ora pianificata. I token del calendario possono essere utilizzati nella stessa campagna e-mail per garantire che la pianificazione del webinar possa essere aggiunta ai calendari dei membri.
 
@@ -42,7 +42,7 @@ Sul lato destro della scheda Panoramica nel programma dell’evento sono disponi
 
 ![](assets/promoting-an-interactive-webinar-2.png)
 
-I webinar interattivi consentono di richiedere la registrazione prima, durante o dopo un webinar. In tutti i casi, dovrai semplicemente condividere l’URL del webinar con il lead. Facendo clic sul collegamento prima dell’inizio del webinar, vengono inviate a una pagina di destinazione precedente al webinar. Facendo clic su di esso durante il webinar, vengono indirizzati al webinar in corso. Facendo clic su di esso dopo il webinar, viene visualizzata una registrazione del webinar.
+I webinar interattivi consentono di richiedere la registrazione prima, durante o dopo un webinar. In tutti i casi, è necessario condividere l’URL del webinar con il lead. Facendo clic sul collegamento prima dell’inizio del webinar, vengono inviate a una pagina di destinazione precedente al webinar. Facendo clic su di esso durante il webinar, vengono indirizzati al webinar in corso. Facendo clic su di esso dopo il webinar, viene visualizzata una registrazione del webinar.
 
 ## Token webinar interattivi {#interactive-webinars-tokens}
 

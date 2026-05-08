@@ -4,9 +4,9 @@ description: Scopri come creare un evento con Zoom in Marketo. Configura l’int
 title: Crea un evento con  [!DNL Zoom]
 exl-id: 6a2aec58-902c-4e40-ab59-9cc33ec83cea
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '555'
 ht-degree: 0%
 
 ---
@@ -53,9 +53,9 @@ Immetti le seguenti informazioni per il webinar, che verranno inserite in Market
 
 >[!TIP]
 >
->Sono presenti campi aggiuntivi che verranno configurati in [!DNL Zoom] che NON influiranno sull&#39;integrazione. Fare riferimento al [[!DNL Zoom] Centro assistenza webinar](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar) per ulteriori informazioni su questi campi.
+>Sono presenti campi aggiuntivi che verranno configurati in [!DNL Zoom] che NON influiranno sull&#39;integrazione. Per ulteriori informazioni su questi campi, vedere il [[!DNL Zoom] Centro assistenza webinar](https://support.zoom.us/hc/en-us/sections/200324965-Video-Webinar).
 
-Ora, saltiamo su Marketo!
+Passare a Marketo.
 
 1. Seleziona un evento. Fare clic su **[!UICONTROL Event Actions]** e scegliere **[!UICONTROL Event Settings]**.
 
@@ -81,7 +81,7 @@ Ora, saltiamo su Marketo!
 
    ![](assets/eventsettingssave.png)
 
-   Eccellente! Ora l&#39;evento è sincronizzato e pianificato da [!DNL Zoom].
+   L&#39;evento è ora sincronizzato e pianificato da [!DNL Zoom].
 
    >[!NOTE]
    >
@@ -93,7 +93,7 @@ Ora, saltiamo su Marketo!
    >
    >Imposta l&#39;e-mail di conferma su **Operativo** per garantire che le persone che si registrano e potrebbero annullare l&#39;iscrizione ricevano comunque le informazioni di conferma.
 
-   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso **[!UICONTROL Change Program Status]** quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurarsi inoltre di #1 **[!UICONTROL Change Program Status]** passaggio di flusso e #2. **[!UICONTROL Send Email]** passaggio di flusso
+   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso **[!UICONTROL Change Program Status]** quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Inoltre, #1 **[!UICONTROL Change Program Status]** passaggio di flusso e #2. **[!UICONTROL Send Email]** passaggio di flusso
 
    ![](assets/goto-webinar-1.png)
 

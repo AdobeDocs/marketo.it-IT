@@ -3,7 +3,7 @@ description: Scopri come rendere i moduli Marketo conversazionali con i flussi c
 title: Impostazioni Di Flusso Per Conversazione Per Marketo Engage Forms
 feature: Dynamic Chat
 exl-id: 36d00862-4bb9-46fd-a5f8-69df7bf22ecf
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Rendi Marketo Engage Forms conversazionale integrandolo con Dynamic Chat Convers
 
 >[!AVAILABILITY]
 >
->Il membro di un elenco avanzato o il criterio Membro di un elenco richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
+>Il membro di un elenco avanzato o il criterio Membro di un elenco richiede Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 1. Individuare e selezionare il modulo (o crearne uno nuovo).
 
@@ -34,7 +34,7 @@ Rendi Marketo Engage Forms conversazionale integrandolo con Dynamic Chat Convers
 
    ![](assets/conversational-flow-settings-4.png)
 
-1. Verrà visualizzata una finestra modale di scelta predefinita. Seleziona la preferenza. In questo esempio stiamo scegliendo **[!UICONTROL Use Conversational Flow]**.
+1. Verrà visualizzata una finestra modale di scelta predefinita. Seleziona la preferenza. In questo esempio, **[!UICONTROL Use Conversational Flow]** è selezionato.
 
    ![](assets/conversational-flow-settings-5.png)
 
@@ -54,7 +54,7 @@ Rendi Marketo Engage Forms conversazionale integrandolo con Dynamic Chat Convers
    >
    >Il browser del visitatore deve essere utilizzato come cookie come persona nota prima dell’invio del modulo per essere idoneo a essere membro di Static/Smart List.
 
-   **PASSAGGIO FACOLTATIVO**: fare clic sul segno **+** all&#39;interno di ogni passaggio per aggiungere altri attributi, che consentono di restringere il pubblico di destinazione (gli attributi disponibili sono i campi scelti per il modulo). In questo esempio, il targeting è per gli autori tecnici di Adobe in California.
+   **PASSAGGIO FACOLTATIVO**: fare clic sul segno **+** all&#39;interno di ogni passaggio per aggiungere altri attributi, che consentono di restringere il pubblico di destinazione (gli attributi disponibili sono i campi scelti per il modulo). In questo esempio, la configurazione è destinata a Adobe Technical Writers in California.
 
    ![](assets/conversational-flow-settings-8.png)
 

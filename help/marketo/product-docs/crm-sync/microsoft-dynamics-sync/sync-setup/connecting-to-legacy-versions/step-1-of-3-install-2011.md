@@ -4,9 +4,9 @@ description: Scopri come installare la soluzione Marketo per Dynamics 2011 on-pr
 title: 'Passaggio 1 di 3: installazione della soluzione Marketo (on-premise 2011)'
 exl-id: 6e559b10-5273-4dc2-b98d-49c509cbeff7
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '280'
 ht-degree: 6%
 
 ---
@@ -67,7 +67,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] On-Premises e Marketo, è
    >
    >Per completare il processo di installazione, è necessario abilitare i popup nel browser.
 
-1. Ora attendi il completamento dell’importazione. Alzati e fai qualche tratto.
+1. Ora attendi il completamento dell’importazione.
 
    ![](assets/image2015-4-2-11-3a43-3a51.png)
 

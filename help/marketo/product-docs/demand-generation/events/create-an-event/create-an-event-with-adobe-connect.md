@@ -4,9 +4,9 @@ description: Scopri come creare un evento con Adobe Connect in Marketo. Imposta 
 title: Creare un evento con Adobe Connect
 exl-id: 196b1640-9cfd-4485-9bc4-e907d3ac1f16
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '393'
 ht-degree: 3%
 
 ---
@@ -20,17 +20,17 @@ La sincronizzazione con Adobe Connect consente di gestire la registrazione e la 
 >* [Collega Adobe Connect e Marketo](/help/marketo/product-docs/administration/additional-integrations/add-adobe-connect-as-a-launchpoint-service.md)
 >* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 
-Innanzitutto, assicurati di aver creato la riunione o il seminario in Adobe Connect. Se hai bisogno di aiuto, consulta la [Guida utente di Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
+Verifica innanzitutto di aver creato la riunione o il seminario in Adobe Connect. Se hai bisogno di assistenza, consulta la [Guida utente di Adobe Connect](https://help.adobe.com/en_US/connect/9.0/using/index.html).
 
 Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cartella specificata al momento dell&#39;immissione delle credenziali in Marketo. Dopo aver creato la riunione o il seminario, prendere nota di tutte le informazioni logistiche pertinenti (ad esempio il numero di telefono) da utilizzare nell&#39;e-mail di conferma e nel file ICS.
 
 >[!CAUTION]
 >
->In qualità di host dell&#39;evento, assicurati di partecipare dall&#39;app e **non** tramite il collegamento inviato ai partecipanti.
+>In qualità di host dell&#39;evento, partecipa dall&#39;app e **non** tramite il collegamento inviato ai partecipanti.
 
 >[!NOTE]
 >
->Al momento Adobe Connect On-Site non è supportato.
+>Adobe Connect On-Site non è al momento supportato.
 
 1. Nella home di un nuovo evento, selezionare **[!UICONTROL Event Actions]**, quindi **[!UICONTROL Event Settings]**.
 
@@ -38,7 +38,7 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
 
    >[!NOTE]
    >
-   >Se non vedi **[!UICONTROL Event Settings]** nel menu a discesa, assicurati che nel canale dell&#39;evento sia selezionato **[!UICONTROL Event with Webinar]** in &quot;[!UICONTROL Applies to]&quot;.
+   >Se non vedi **[!UICONTROL Event Settings]** nel menu a discesa, verifica che il canale dell&#39;evento abbia selezionato **[!UICONTROL Event with Webinar]** in &quot;[!UICONTROL Applies to]&quot;.
 
 1. In **[!UICONTROL Event Partner]**, selezionare **[!UICONTROL Adobe Connect]**.
 
@@ -52,7 +52,7 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
 
    ![](assets/event-settings-overview.png)
 
-   Bello! L’evento Adobe Connect ora è sincronizzato con l’evento Marketo.
+   L’evento Adobe Connect ora è sincronizzato con l’evento Marketo.
 
    >[!NOTE]
    >
@@ -64,7 +64,7 @@ Le riunioni e i seminari creati in Adobe Connect devono essere creati nella cart
    >
    >Imposta l&#39;e-mail di conferma su **Operativo** per garantire che le persone che si registrano e potrebbero annullare l&#39;iscrizione ricevano comunque le informazioni di conferma.
 
-   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso [!UICONTROL Change Program Status] quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurarsi inoltre di #1 [!UICONTROL Change Program Status] passaggio di flusso e #2. [!UICONTROL Send Email] passaggio di flusso
+   Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso [!UICONTROL Change Program Status] quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Inoltre, #1 [!UICONTROL Change Program Status] passaggio di flusso e #2. [!UICONTROL Send Email] passaggio di flusso
 
    ![](assets/adobe.png)
 

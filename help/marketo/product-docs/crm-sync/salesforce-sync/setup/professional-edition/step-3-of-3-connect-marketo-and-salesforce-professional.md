@@ -4,9 +4,9 @@ description: Scopri come collegare Marketo e Salesforce nell’edizione finale d
 title: Passaggio 3 di 3 - Connessione di Marketo e Salesforce (Professional)
 exl-id: a35e22ef-6378-45e0-be7e-687b0832ecf3
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ In questo articolo configurerai Marketo Engage per la sincronizzazione con l’i
 
    >[!NOTE]
    >
-   >Assicurarsi di [nascondere tutti i campi non necessari](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo dall&#39;utente sincronizzato prima di fare clic su **[!UICONTROL Sync Fields]**. Dopo aver fatto clic su Sincronizza campi, tutti i campi visualizzati dall&#39;utente verranno creati in Marketo in modo permanente e non potranno essere eliminati.
+   >[Nascondi tutti i campi non necessari](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo dall&#39;utente sincronizzato prima di fare clic su **[!UICONTROL Sync Fields]**. Dopo aver fatto clic su Sincronizza campi, tutti i campi visualizzati dall&#39;utente verranno creati in Marketo in modo permanente e non potranno essere eliminati.
 
 1. Immettere le credenziali utente di Salesforce Sync create nella parte 2 della configurazione di Salesforce ([Professional](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/professional-edition/step-2-of-3-create-a-salesforce-user-for-marketo-professional.md), [Enterprise](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.md)) e fare clic su **[!UICONTROL Sync Fields]**.
 
@@ -100,7 +100,7 @@ Marketo fornisce messaggi di stato per la sincronizzazione [!DNL Salesforce] nel
 
    ![](assets/image2014-12-9-9-3a54-3a35.png)
 
-Hai appena finito di configurare una delle funzionalità più potenti di Marketo, vai!
+La configurazione di una delle funzioni più potenti di Marketo è stata completata.
 
 >[!MORELIKETHIS]
 >

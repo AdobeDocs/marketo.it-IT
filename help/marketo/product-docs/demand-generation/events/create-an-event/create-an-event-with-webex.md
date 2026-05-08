@@ -4,9 +4,9 @@ description: Scopri come creare un evento con Webex in Marketo. Configurare l’
 title: Crea un evento con  [!DNL Webex]
 exl-id: 25266a6b-3951-46d1-8700-b36d7086ad2c
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '657'
+source-wordcount: '647'
 ht-degree: 0%
 
 ---
@@ -40,8 +40,8 @@ Pianifica l&#39;evento e scegli le impostazioni preferite in [Webex](https://www
 
 ![](assets/create-an-event-with-webex-2.png)
 
-* **Password webinar**: (facoltativo) se utilizzi questo campo, assicurati di includerlo nell&#39;e-mail di conferma.
-* **Password per il ruolo**: (facoltativo) se utilizzi questo campo, assicurati di includerlo nell&#39;agenda del webinar.
+* **Password webinar**: (facoltativo) se utilizzi questo campo, includilo nell&#39;e-mail di conferma.
+* **Password per il ruolo**: (facoltativo) se utilizzi questo campo, includilo nell&#39;agenda del webinar.
 * **Richiedi account**: limita i partecipanti solo a coloro che dispongono di account Webex.
 
 ### Opzioni di connessione audio {#audio-connection-options}
@@ -67,7 +67,7 @@ Pianifica l&#39;evento e scegli le impostazioni preferite in [Webex](https://www
 
 >[!NOTE]
 >
->L’integrazione Marketo-Webex non supporta l’invio di e-mail di conferma da Webex. La conferma deve essere inviata tramite Marketo. Dopo aver pianificato l&#39;evento, assicurati di copiare le informazioni sull&#39;evento nell&#39;e-mail di conferma di Marketo e impostare l&#39;e-mail come _Operativa_.
+>L’integrazione Marketo-Webex non supporta l’invio di e-mail di conferma da Webex. La conferma deve essere inviata tramite Marketo. Dopo aver pianificato l&#39;evento, copiare le informazioni sull&#39;evento nell&#39;e-mail di conferma di Marketo e impostare l&#39;e-mail come _Operativo_.
 
 ## Sincronizza l’evento con Marketo Engage {#sync-your-event-with-marketo-engage}
 
@@ -95,7 +95,7 @@ Pianifica l&#39;evento e scegli le impostazioni preferite in [Webex](https://www
 
    ![](assets/create-an-event-with-webex-9.png)
 
-L’evento Webex è ora sincronizzato con il programma Marketo Event. Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso _Modifica stato programma_ quando il nuovo stato è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurati di #1 #2. il passaggio di flusso _Modifica stato programma_ e il passaggio di flusso _Invia e-mail_
+L’evento Webex è ora sincronizzato con il programma Marketo Event. Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso _Modifica stato programma_ quando il nuovo stato è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Imposta _Modifica stato programma_ passaggio di flusso #1 e _Invia e-mail_ passaggio di flusso #2.
 
 ## Aspetti da considerare {#things-to-note}
 

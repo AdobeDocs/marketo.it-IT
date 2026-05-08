@@ -3,9 +3,9 @@ description: Scopri le autorizzazioni di Dynamic Chat e i profili di prodotto in
 title: Autorizzazioni
 feature: Dynamic Chat
 exl-id: 06798ac4-636b-476e-bbb1-498062844406
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '737'
 ht-degree: 4%
 
 ---
@@ -20,7 +20,7 @@ In Dynamic Chat sono disponibili cinque profili predefiniti con autorizzazioni p
 
    ![](assets/permissions-1.png)
 
-1. Nella scheda **Profili di prodotto**, seleziona il profilo da modificare. In questo esempio, stiamo scegliendo **Agente live**.
+1. Nella scheda **Profili di prodotto**, seleziona il profilo da modificare. In questo esempio, **Agente live** è selezionato.
 
    ![](assets/permissions-2.png)
 
@@ -28,7 +28,7 @@ In Dynamic Chat sono disponibili cinque profili predefiniti con autorizzazioni p
 
    ![](assets/permissions-3.png)
 
-1. Seleziona l’area del profilo da modificare. In questo esempio, scegliamo Live Chat. Fai clic sull’icona della matita.
+1. Seleziona l’area del profilo da modificare. In questo esempio, **Live Chat** è selezionato. Fai clic sull’icona della matita.
 
    ![](assets/permissions-4.png)
 

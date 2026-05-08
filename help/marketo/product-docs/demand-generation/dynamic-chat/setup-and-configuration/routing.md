@@ -3,10 +3,10 @@ description: Scopri come organizzare riunioni e chat in tempo reale in Dynamic C
 title: Indirizzamento
 feature: Dynamic Chat
 exl-id: e20193b9-55c1-40f2-9e42-5b5dc9b88144
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 0%
+source-wordcount: '360'
+ht-degree: 1%
 
 ---
 
@@ -24,7 +24,7 @@ Regola personalizzata: è possibile scegliere agenti specifici per ricevere riun
 
 ## Creare una regola personalizzata {#create-a-custom-rule}
 
-In questo esempio invieremo tutte le riunioni dagli stati dedotti di CA, OR e WA all&#39;agente John.
+In questo esempio, tutte le riunioni dagli stati dedotti di CA, OR e WA vengono instradate all&#39;agente John.
 
 1. In Configurazione fare clic su **Regole di routing**.
 
@@ -100,7 +100,7 @@ Identifica e carica il tuo account di destinazione e i rispettivi proprietari de
 
 ### Aggiungi un account {#add-an-account}
 
-In questo esempio, indirizzeremo tutti i dipendenti della Lego direttamente all&#39;agente Steven.
+In questo esempio, tutti i dipendenti della Lego vengono indirizzati direttamente all&#39;agente Steven.
 
 1. Nella scheda Instradamento account, fare clic su **+ Aggiungi account**.
 

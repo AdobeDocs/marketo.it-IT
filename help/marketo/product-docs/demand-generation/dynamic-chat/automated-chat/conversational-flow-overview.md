@@ -3,9 +3,9 @@ description: Scopri i flussi conversazionali e le differenze rispetto alle fines
 title: Panoramica sul flusso conversazionale
 feature: Dynamic Chat
 exl-id: c741886d-d672-471f-8902-208d25898afa
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '370'
 ht-degree: 3%
 
 ---
@@ -82,7 +82,7 @@ Nella parte inferiore della scheda Impostazioni, personalizzare il trigger Conve
 
 >[!TIP]
 >
->Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=it){target="_blank"} in azione.
+>Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione.
 
 >[!MORELIKETHIS]
 >

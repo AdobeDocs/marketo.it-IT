@@ -4,16 +4,16 @@ description: Scopri come i dati utente vengono sincronizzati da Microsoft Dynami
 title: Microsoft [!DNL Dynamics] Sincronizza - Sincronizzazione utente
 exl-id: d642d4d2-2beb-42c6-a6b2-3da5df1cd9c8
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
 
 # Sincronizzazione di Microsoft [!DNL Dynamics]: sincronizzazione utenti {#microsoft-dynamics-sync-user-sync}
 
-Lo sapevi che Marketo sincronizza l&#39;intero database con [!DNL Dynamics]? Si sincronizza, poi aspetta 5 minuti e poi si sincronizza di nuovo, tutto il giorno, ogni giorno. Ecco alcuni dettagli su come Marketo tratta gli account [!DNL Dynamics] in modo specifico.
+Marketo sincronizza l&#39;intero database con [!DNL Dynamics]. Si sincronizza, poi aspetta 5 minuti e poi si sincronizza di nuovo, tutto il giorno, ogni giorno. Ecco alcuni dettagli su come Marketo tratta gli account [!DNL Dynamics] in modo specifico.
 
 Sarà necessario un utente CRM Microsoft [!DNL Dynamics] dedicato ai fini dell&#39;integrazione. Questo utente viene chiamato utente di sincronizzazione.
 

@@ -4,7 +4,7 @@ description: Scopri come funziona la sincronizzazione dei lead tra Microsoft Dyn
 title: Sincronizzazione Microsoft Dynamics - Sincronizzazione lead
 exl-id: ea04a039-32f7-41f9-85fb-18df8e236390
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 # Sincronizzazione [!DNL Microsoft Dynamics]: Sincronizzazione lead {#microsoft-dynamics-sync-lead-sync}
 
-La sincronizzazione tra Marketo e [!DNL Dynamics] è estremamente potente. Ecco i dettagli:
+La sincronizzazione tra Marketo e [!DNL Dynamics] è potente. Ecco i dettagli:
 
 ## Come vengono mantenuti sincroni i dettagli tra i due sistemi? {#how-are-details-kept-in-sync-between-the-two-systems}
 
@@ -25,11 +25,11 @@ La sincronizzazione è bidirezionale. Se si apportano modifiche a un lead in [!D
 
 ## Cosa succede se vengono apportate modifiche allo stesso campo in entrambi i sistemi contemporaneamente? (Conflitto di dati) {#what-if-changes-are-made-to-the-same-field-in-both-systems-at-the-same-time-data-collision}
 
-Anche se si tratta di una situazione rara, Marketo vincerà per le persone (lead) e [!DNL Dynamics] per i contatti. Questo perché consideriamo il reparto marketing come autorevole per le persone, mentre il sistema ufficiale di registrazione per i contatti è nel reparto vendite (CRM).
+Anche se si tratta di una situazione rara, Marketo vincerà per le persone (lead) e [!DNL Dynamics] per i contatti. Questo perché il reparto marketing è considerato autorevole per le persone, mentre il sistema ufficiale di registrazione per i contatti è nel reparto vendite (CRM).
 
 ## Posso creare un lead in [!DNL Dynamics] utilizzando Marketo? {#can-i-create-a-lead-in-dynamics-using-marketo}
 
-Sì, utilizza l&#39;azione di flusso [[!UICONTROL Sync Person to Microsoft]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Questo creerà un lead in [!DNL Dynamics] se il lead non esiste. Se il lead esiste, il passaggio di flusso non eseguirà alcuna azione.
+Sì, utilizza l&#39;azione di flusso [[!UICONTROL Sync Person to Microsoft]](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/microsoft-dynamics-flow-actions/sync-person-to-microsoft.md). Se il lead non esiste, verrà creato un lead in [!DNL Dynamics]. Se il lead esiste, il passaggio di flusso non eseguirà alcuna azione.
 
 >[!NOTE]
 >
@@ -45,4 +45,4 @@ No, la sincronizzazione automatica in background è l&#39;unico modo per sincron
 
 ## Marketo rispetterà le regole di convalida [!DNL Dynamics]? {#will-marketo-respect-the-dynamics-validation-rules}
 
-Sì.  La sincronizzazione non riuscirà se il formato dei dati non è corretto o se mancano le informazioni richieste sul campo. In questo caso, Marketo registrerà il risultato nel registro attività della persona.
+Sì. La sincronizzazione non riuscirà se il formato dei dati non è corretto o se mancano le informazioni richieste sul campo. In questo caso, Marketo registrerà il risultato nel registro attività della persona.

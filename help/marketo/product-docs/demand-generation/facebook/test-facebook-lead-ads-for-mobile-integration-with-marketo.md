@@ -4,10 +4,10 @@ description: Scopri come testare l’integrazione di Facebook Lead Ads per dispo
 title: Testare gli annunci sponsorizzati di Facebook per l’integrazione per dispositivi mobili con Marketo
 exl-id: 0c381c53-f97a-4e1d-b44d-5ee6521ac990
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 4%
+source-wordcount: '192'
+ht-degree: 5%
 
 ---
 
@@ -43,9 +43,9 @@ Dopo aver creato l’annuncio lead, devi testarlo.
 
    >[!NOTE]
    >
-   >Questo è solo un esempio, che utilizza un Call to action Ulteriori informazioni. Il Call to action dell&#39;unità annuncio lead potrebbe essere diverso.
+   >Questo è un esempio che utilizza un Call to action Ulteriori informazioni. Il Call to action dell&#39;unità annuncio lead potrebbe essere diverso.
 
-1. Qui è dove avviene la magia! Dopo aver inviato il modulo, [crea un elenco smart in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) come parte di un programma o nel database principale che utilizza il filtro **[!UICONTROL Filled Out Facebook Lead Ads Form]**. Inserisci il nome del modulo annuncio lead del modulo appena inviato.
+1. Dopo aver inviato il modulo, [crea un elenco smart in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) come parte di un programma o nel database principale che utilizza il filtro **[!UICONTROL Filled Out Facebook Lead Ads Form]**. Inserire il nome del modulo lead annuncio del modulo inviato.
 
    ![](assets/image2016-3-11-8-3a59-3a34.png)
 
@@ -53,8 +53,6 @@ Dopo aver creato l’annuncio lead, devi testarlo.
 
    ![](assets/image2016-3-11-15-3a27-3a54.png)
 
-È bello o cosa?
-
 >[!NOTE]
 >
->[Attiva/Disattiva [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)
+>[Configura [!UICONTROL Facebook Lead Ads]](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md)

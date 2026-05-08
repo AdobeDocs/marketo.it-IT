@@ -4,10 +4,10 @@ description: Scopri come funziona la sincronizzazione delle opportunità da Sale
 title: Sincronizzazione SFDC - Sincronizzazione opportunità
 exl-id: f8acc528-c631-43f0-8899-2f3c6fdabe9e
 feature: Salesforce Integration
-source-git-commit: b78d943f59628b0885118f56e0875fd43217da35
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 4%
+source-wordcount: '292'
+ht-degree: 5%
 
 ---
 
@@ -43,7 +43,7 @@ Trigger:
 
 * Aggiunto all’opportunità
 * Rimosso dall’opportunità
-* L’opportunità è aggiornata
+* L&#39;opportunità è aggiornata
 
 Filtri:
 
@@ -57,6 +57,6 @@ Filtri:
 
 >[!TIP]
 >
->Scopri i vincoli per filtri e attivatori. Ci sono un sacco di dettagli interessanti.
+>Per ulteriori dettagli, controlla i vincoli sui filtri e sui trigger.
 >
->È sufficiente creare un nuovo campo nell&#39;oggetto opportunità in [!DNL Salesforce] per renderlo automaticamente un vincolo.
+>Creare un nuovo campo nell&#39;oggetto opportunità in [!DNL Salesforce] che diventerà automaticamente un vincolo.

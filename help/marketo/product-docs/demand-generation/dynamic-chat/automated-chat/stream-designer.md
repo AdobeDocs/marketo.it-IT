@@ -3,9 +3,9 @@ description: Scopri Stream Designer e le schede per la creazione di conversazion
 title: Designer flusso
 feature: Dynamic Chat
 exl-id: 310b1dff-dd93-48a6-85c2-64c58494ce48
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1182'
 ht-degree: 2%
 
 ---
@@ -51,7 +51,7 @@ Il Designer Stream contiene più schede che è possibile aggiungere per modellar
  <tr>
   <td style="width:25%"><strong>Azione*</strong></td>
   <td>Simile ai campi nascosti di un modulo, con la scheda delle azioni è possibile compilare qualsiasi attributo del lead o dell'azienda (con tipo di dati <a href="/help/marketo/product-docs/administration/field-management/custom-field-type-glossary.md#string">string</a>) con valori impliciti che si desidera acquisire in base a un record del lead. Puoi aggiungere la scheda delle azioni in qualsiasi punto della conversazione e aggiornare i rispettivi attributi con un valore o token nativi che popolano automaticamente il rispettivo valore.
-  <p><i>* Questa scheda richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).</i></td>
+  <p><i>* Questa scheda richiede Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Live Chat</strong></td>
@@ -62,7 +62,7 @@ Il Designer Stream contiene più schede che è possibile aggiungere per modellar
  <tr>
   <td style="width:25%"><strong>Risposte generate*</strong></td>
   <td>Crea un messaggio per il visitatore per quando raggiunge un determinato punto della conversazione. È possibile impostare una serie di domande da porre contemporaneamente per ottenere l'indicatore di prestazioni chiave desiderato.
-  <p><i>* Questa scheda richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).</i></td>
+  <p><i>* Questa scheda richiede Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).</i></td>
  </tr>
  <tr>
   <td style="width:25%"><strong>Ramificazione condizionale</strong></td>
@@ -76,7 +76,7 @@ Il Designer Stream contiene più schede che è possibile aggiungere per modellar
 
 ## Icone Streaming Designer {#stream-designer-icons}
 
-In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fanno.
+In alto a destra in Stream Designer sono disponibili alcune icone. Di seguito sono descritte le singole icone.
 
 <table>
  <tr>
@@ -103,7 +103,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
 ## Creare un flusso {#create-a-stream}
 
-È possibile creare flussi per le finestre di dialogo o [Forms conversational](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In questo esempio ne creeremo uno per un dialogo.
+È possibile creare flussi per le finestre di dialogo o [Forms conversational](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/conversational-flow-overview.md){target="_blank"}. In questo esempio, viene creato un flusso per una finestra di dialogo.
 
 1. Dopo aver [creato la finestra di dialogo](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/create-a-dialogue.md){target="_blank"}, fare clic sulla scheda **[!UICONTROL Stream Designer]**.
 
@@ -137,7 +137,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
    >
    >**[!UICONTROL Edit Stored Values]** è un passaggio facoltativo per coloro che desiderano memorizzare nel database un valore diverso da quello visualizzato ai visitatori nel chatbot per gli attributi mappati nella scheda Domanda (ad esempio, il visitatore vede &quot;Ottimizzazione del motore di ricerca&quot;, il valore viene memorizzato come &quot;SEO&quot;).
 
-1. Per &quot;Sì&quot; si desidera prenotare una riunione, quindi trascinare il mouse sulla scheda _Prenotazione riunione_.
+1. Per &quot;Sì&quot;, trascina la scheda _Prenotazione riunione_ sotto l&#39;opzione.
 
    ![](assets/stream-designer-10.png)
 
@@ -145,7 +145,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-11.png)
 
-1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_&#x200B;sotto la prenotazione della riunione.
+1. Poiché si tratta di un obiettivo, trascinare la scheda _[!UICONTROL Goal]_sotto la prenotazione della riunione.
 
    ![](assets/stream-designer-12.png)
 
@@ -153,7 +153,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-13.png)
 
-1. Per &quot;No&quot; vogliamo vedere se si uniranno alla mailing list, quindi sotto quell&#39;opzione trascina un&#39;altra scheda [!UICONTROL Question].
+1. Per &quot;No&quot;, trascina un&#39;altra scheda [!UICONTROL Question] sotto l&#39;opzione per verificare se il visitatore desidera iscriversi alla mailing list.
 
    ![](assets/stream-designer-14.png)
 
@@ -177,7 +177,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-18.png)
 
-1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_&#x200B;sotto Info Capture.
+1. Poiché la raccolta delle e-mail è un obiettivo, trascina la scheda _[!UICONTROL Goal]_sotto Info Capture.
 
    ![](assets/stream-designer-19.png)
 
@@ -185,11 +185,11 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
    ![](assets/stream-designer-20.png)
 
-1. Ricordati di aggiungere una risposta se dicono &quot;No&quot;. Un&#39;opzione consiste nel trascinare una scheda Messaggio qui sotto e dire &quot;grazie comunque&quot;. In questo esempio, forniremo loro invece un documento PDF gratuito.
+1. Ricordati di aggiungere una risposta se dicono &quot;No&quot;. Un&#39;opzione consiste nel trascinare una scheda Messaggio qui sotto e dire &quot;grazie comunque&quot;. In questo esempio, viene invece fornito un documento PDF gratuito.
 
    ![](assets/stream-designer-21.png)
 
-1. In questo esempio verrà creato un nuovo documento. Assegnare un nome, immettere l&#39;URL del PDF già ospitato e fare clic su **[!UICONTROL Save]**.
+1. Crea un nuovo documento. Assegnare un nome, immettere l&#39;URL del PDF già ospitato e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/stream-designer-22.png)
 
@@ -199,7 +199,7 @@ In alto a destra in Stream Designer sono disponibili alcune icone. Ecco cosa fan
 
 >[!NOTE]
 >
->Prima di fare clic su [!UICONTROL Publish], assicurati di aver [inserito gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
+>Prima di fare clic su [!UICONTROL Publish], verifica di aver immesso [gli URL di destinazione](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/audience-criteria.md#target){target="_blank"}.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Scopri come creare campagne secondarie e risorse locali per gli eve
 title: Creare campagne secondarie e risorse in locale
 exl-id: 272105e1-43d6-455c-a533-aae65e859384
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '661'
+source-wordcount: '673'
 ht-degree: 3%
 
 ---
@@ -65,7 +65,7 @@ Esempi di campagne per bambini sono le campagne di invito, di registrazione e di
 **Registrazione/Conferma (Attiva campagna)**
 
 * Elenco avanzato
-* Trigger basato su **Compila modulo**. Accertati di includere la pagina di destinazione in cui si trova il modulo utilizzando **Aggiungi vincolo**, soprattutto se lo stesso modulo viene utilizzato in più pagine di destinazione.
+* Trigger basato su **Compila modulo**. Includi la pagina di destinazione in cui si trova il modulo utilizzando **Aggiungi vincolo**, soprattutto se lo stesso modulo viene utilizzato in più pagine di destinazione.
 
 >[!CAUTION]
 >

@@ -3,9 +3,9 @@ description: Scopri come creare un utente Veeva CRM per la sincronizzazione Mark
 title: Passaggio 2 di 3 - Creare un utente Veeva CRM per Marketo Engage
 exl-id: 78945192-36b0-4e0b-830a-f37eb0b83484
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '546'
 ht-degree: 7%
 
 ---
@@ -104,9 +104,9 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
 
    >[!TIP]
    >
-   >Assicurarsi di selezionare la casella [!UICONTROL Password Never Expires].
+   >Selezionare la casella [!UICONTROL Password Never Expires].
 
-1. Nella sezione [!UICONTROL General User Permissions], assicurati che [!UICONTROL Edit Events] e [!UICONTROL Edit Tasks] siano selezionati.
+1. Nella sezione [!UICONTROL General User Permissions], verifica che [!UICONTROL Edit Events] e [!UICONTROL Edit Tasks] siano selezionati.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-13.png)
 
@@ -197,7 +197,7 @@ Marketo richiede le credenziali per accedere a [!DNL Veeva] CRM. Questa operazio
 >
 >Verifica che l’indirizzo e-mail inserito sia valido. Per reimpostare la password è necessario accedere come utente di sincronizzazione.
 
-Eccellente! Ora disponi di un account che Marketo Engage può utilizzare per connettersi a [!DNL Veeva] CRM. Facciamolo.
+Ora disponi di un account che Marketo Engage può utilizzare per connettersi a [!DNL Veeva] CRM.
 
 >[!MORELIKETHIS]
 >

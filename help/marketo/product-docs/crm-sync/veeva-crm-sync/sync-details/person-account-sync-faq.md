@@ -3,9 +3,9 @@ description: Ottieni aiuto sulla sincronizzazione dell’account persona tra Mar
 title: Domande frequenti sulla sincronizzazione dell’account persona
 exl-id: b77bb44f-94d0-40b2-9955-9636421ac468
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '488'
 ht-degree: 1%
 
 ---
@@ -46,7 +46,7 @@ La sincronizzazione dei campi relativi al contatto dell’account persona è bid
 
 **Cosa succede se in entrambi i sistemi vengono apportate modifiche ai campi Contatto sull&#39;account della persona contemporaneamente?**
 
-Saremmo gentili e lasceremmo vincere [!DNL Veeva] CRM. Tuttavia, è raro che si verifichi questo tipo di conflitto di dati.
+[!DNL Veeva] vittorie CRM. Raramente, tuttavia, si verifica questo tipo di conflitto di dati.
 
 **Il tipo di record Lead o Contatto è sincronizzato con [!DNL Veeva] CRM?**
 

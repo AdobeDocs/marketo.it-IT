@@ -3,9 +3,9 @@ description: Scopri il dashboard del coinvolgimento dei webinar interattivi. Vis
 title: Dashboard di coinvolgimento
 feature: Interactive Webinars
 exl-id: 7fdb922a-a67a-4027-b9c2-8d8833c8eba0
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1736'
+source-wordcount: '1738'
 ht-degree: 0%
 
 ---
@@ -247,7 +247,7 @@ Nell’attività on-demand, visualizza le metriche seguenti:
 
 * Fare clic su **[!UICONTROL On-demand report (CSV)]** per scaricare le metriche on-demand.
 * Numero di visualizzatori univoci fino all’ultimo aggiornamento del dashboard.
-* Numero di utenti che hanno visualizzato la registrazione ma non hanno potuto partecipare al webinar.
+* Numero di spettatori che hanno visualizzato la registrazione ma non hanno potuto partecipare al webinar.
 * Numero di spettatori che hanno partecipato al webinar e hanno visualizzato la registrazione. È probabile che siano i migliori potenziali clienti.
 * Numero di visualizzatori registrati per la sessione on-demand.
 * Durata media di registrazione dell&#39;orologio in minuti.

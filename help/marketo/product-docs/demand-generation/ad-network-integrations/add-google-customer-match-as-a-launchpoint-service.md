@@ -4,9 +4,9 @@ description: Scopri come aggiungere Customer Match di Google come servizio Launc
 title: 'Aggiungi Google Customer Match come servizio  [!DNL LaunchPoint] '
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '178'
 ht-degree: 4%
 
 ---
@@ -55,7 +55,7 @@ Con questa integrazione, puoi inviare un pubblico Marketo a Google per il target
 
    ![](assets/authorizesuccess.png)
 
-   Fantastico! Ora nella scheda Servizi installati sono elencati i tipi di pubblico corrispondenti a Google come servizio [!DNL LaunchPoint].
+   I tipi di pubblico corrispondenti a Google sono ora elencati come servizio [!DNL LaunchPoint] nella scheda Servizi installati.
 
 >[!NOTE]
 >

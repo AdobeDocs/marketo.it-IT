@@ -4,9 +4,9 @@ description: Scopri come creare un evento con il webinar Goto in Marketo. Config
 title: Crea un evento con  [!DNL GotoWebinar]
 exl-id: c0f0a202-e416-4523-b7d6-dbcfafc536cd
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -55,9 +55,9 @@ Immetti le seguenti informazioni per il webinar, che verranno inserite in Market
 
 >[!TIP]
 >
->Se hai bisogno di ulteriore assistenza su [!DNL GoToWebinar], visita il [sito della Guida](https://support.logmeininc.com/gotowebinar).
+>Se hai bisogno di ulteriore assistenza su [!DNL GoToWebinar], consulta il [sito della Guida](https://support.logmeininc.com/gotowebinar).
 
-Ora, saltiamo su Marketo!
+Passare a Marketo.
 
 1. Seleziona un evento. Fare clic su **[!UICONTROL Event Actions]** e scegliere **[!UICONTROL Event Settings]**.
 
@@ -83,7 +83,7 @@ Ora, saltiamo su Marketo!
 
    ![](assets/image2015-5-14-14-3a58-3a54.png)
 
-1. Eccellente! Ora l&#39;evento è sincronizzato e pianificato da **[!DNL GoToWebinar]**.
+1. L&#39;evento è ora sincronizzato e pianificato da **[!DNL GoToWebinar]**.
 
    ![](assets/image2015-5-14-15-3a0-3a47.png)
 
@@ -107,7 +107,7 @@ Ora, saltiamo su Marketo!
    >
    >La visualizzazione dei dati in Marketo può richiedere fino a 48 ore. Se dopo aver atteso così a lungo non trovi ancora nulla, seleziona **[!UICONTROL Refresh from Webinar Provider]** dal menu [!UICONTROL Event Actions] nella scheda **[!UICONTROL Summary]** dell&#39;evento.
 
-Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso [!UICONTROL Change Program Status] quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Assicurarsi inoltre di #1 [!UICONTROL Change Program Status] passaggio di flusso e #2. [!UICONTROL Send Email] passaggio di flusso
+Le persone che si registrano al webinar verranno inviate al provider del webinar tramite il passaggio di flusso [!UICONTROL Change Program Status] quando [!UICONTROL New Status] è impostato su &quot;Registrato&quot;. Nessun altro stato spingerà la persona oltre. Inoltre, #1 [!UICONTROL Change Program Status] passaggio di flusso e #2. [!UICONTROL Send Email] passaggio di flusso
 
 ## Visualizzazione dello Schedule  {#viewing-the-schedule}
 

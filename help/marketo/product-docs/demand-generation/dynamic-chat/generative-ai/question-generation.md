@@ -3,10 +3,10 @@ description: Scopri come generare domande per Dynamic Chat utilizzando gli URL e
 title: Generazione della domanda
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 3%
+source-wordcount: '307'
+ht-degree: 4%
 
 ---
 
@@ -60,7 +60,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-7.png)
 
-1. Nel file di Excel, **[!DNL Task details]** mostra solo questo, vari dettagli sull&#39;attività, comprese le istruzioni su come aggiungere/modificare domande e/o risposte.
+1. Nel file di Excel, **[!DNL Task details]** mostra vari dettagli sull&#39;attività, incluse istruzioni su come aggiungere o modificare domande e risposte.
 
    ![](assets/question-generation-8.png)
 
@@ -72,9 +72,9 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-9.png)
 
-## INSERIRE NELL&#39;ELENCO CONSENTITI Indirizzi IP da {#ip-addresses-to-allowlist}
+## Indirizzi IP da {#ip-addresses-to-allowlist}
 
-Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione di domande e risposte, individua la tua regione di seguito e assicurati che l’indirizzo IP associato sia inserito nell&#39;elenco Consentiti dal team web.
+Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione di domande e risposte, individua la tua area geografica di seguito e verifica che l’indirizzo IP ad esso associato sia inserito nell&#39;elenco Consentiti dal team web.
 
 <table width="450">
 <thead>
@@ -86,9 +86,9 @@ Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione 
 </thead>
 <tbody>
   <tr>
-    <td>13 68 17 252</td>
-    <td>20 105 150 224</td>
-    <td>20 213 91 77</td>
+    <td>13.68.17.252</td>
+    <td>20.105.150.224</td>
+    <td>20.213.91.77</td>
   </tr>
 </tbody>
 </table>

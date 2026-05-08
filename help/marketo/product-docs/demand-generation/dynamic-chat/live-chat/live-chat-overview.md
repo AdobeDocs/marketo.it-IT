@@ -3,9 +3,9 @@ description: Scopri le chat live per conversazioni in tempo reale tra visitatori
 title: Panoramica sulla chat live
 feature: Dynamic Chat
 exl-id: 44e8b249-b534-4cec-a612-daa184acd266
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '916'
 ht-degree: 2%
 
 ---
@@ -16,7 +16,7 @@ La chat in tempo reale consente ai visitatori del sito web di intrattenere conve
 
 >[!NOTE]
 >
->Per coloro che fanno parte del pacchetto Dynamic Chat Select, la chat in diretta è una funzione di prova con un limite di durata di 100 engagement. Quando questo limite viene raggiunto, tutti i visitatori che richiedono di chattare con un agente live non saranno connessi e riceveranno invece il messaggio di fallback globale. Per aumentare il limite, contatta il rappresentante del tuo account Adobe per informazioni sulle opzioni di aggiornamento del pacchetto.
+>Per coloro che fanno parte del pacchetto Dynamic Chat Select, la chat in diretta è una funzione di prova con un limite di durata di 100 engagement. Quando questo limite viene raggiunto, tutti i visitatori che richiedono di chattare con un agente live non saranno connessi e riceveranno invece il messaggio di fallback globale. Per aumentare il limite, contatta il rappresentante del tuo account Adobe per discutere le opzioni di aggiornamento del pacchetto.
 
 ## Aggiungi agenti chat in tempo reale {#add-live-chat-agents}
 
@@ -41,7 +41,7 @@ Utilizza la scheda chat in diretta in [Stream Designer](/help/marketo/product-do
 ### Best practice {#best-practices}
 
 * Utilizza una scheda domande prima della scheda chat in diretta in cui si chiede al visitatore se desidera connettersi.
-* Una volta che il visitatore accetta di connettersi, utilizza la scheda di acquisizione delle informazioni per raccogliere alcune informazioni, come nome/cognome, indirizzo e-mail, qualifica professionale, ecc. (si consiglia almeno di richiedere nome e indirizzo e-mail).
+* Una volta che il visitatore accetta di connettersi, utilizza la scheda di acquisizione delle informazioni per raccogliere alcune informazioni, come nome, cognome, indirizzo e-mail, qualifica professionale, ecc. (si consiglia almeno di richiedere nome e indirizzo e-mail).
 
 ## Opzioni scheda chat in diretta {#live-chat-card-options}
 
@@ -94,7 +94,7 @@ Se gli agenti non ricevono le notifiche del browser anche dopo averlo consentito
 
 ### Quando una chat in diretta viene indirizzata a un agente {#when-a-live-chat-is-routed-to-an-agent}
 
-Quando una chat in diretta viene indirizzata a un agente, questi visualizzerà un banner blu nella parte superiore dello schermo che chiede di accettare, nonché un suono di notifica per evitare notifiche non effettuate.
+Quando una chat in diretta viene indirizzata a un agente, questi visualizzerà un banner blu nella parte superiore dello schermo che chiede di accettare, nonché un suono di notifica per aiutare a prevenire le notifiche mancanti.
 
 ![](assets/live-chat-overview-3.png)
 
@@ -115,7 +115,7 @@ Quando un’azione, come la prenotazione di una riunione o una chat in tempo rea
 
 * Gli agenti hanno 100 secondi per rispondere prima che venga visualizzato il messaggio &quot;Accetta chat&quot;. In seguito, i visitatori riceveranno il [messaggio di fallback](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management.md#live-chat-fallback){target="_blank"}. Per i sottoscrittori di Dynamic Chat Prime che hanno l&#39;opzione di routing impostata su **Team**, verrà tentato un altro agente prima che venga visualizzato il messaggio di fallback.
 * Al momento esiste un limite di 10 chat live per agente.
-* Casella in entrata agente è solo per le conversazioni Live Chat. Se la chat non viene accettata da un agente, non verrà visualizzata nella casella Posta in arrivo dell&#39;agente, in quanto non si qualifica come chat in diretta.
+* La casella in entrata dell’agente è riservata esclusivamente alle conversazioni Live Chat. Se la chat non viene accettata da un agente, non verrà visualizzata nella casella Posta in arrivo dell&#39;agente, in quanto non si qualifica come chat in diretta.
 * La scheda Conversazione visualizza tutte le conversazioni, sia Live che Automated chat. Quindi se una conversazione non viene accettata dall&#39;agente, verrà elencata nella scheda Conversazione. Nella scheda Conversazione è presente un ritardo massimo di 24 ore, poiché non è in tempo reale. Casella in entrata agente, tuttavia, è in tempo reale.
 * Se dopo 10 minuti (dall’agente o dal visitatore) non vi è alcuna attività di chat, la chat si interrompe.
 * Se un agente modifica l&#39;immagine del profilo (in account.adobe.com) _durante_ una chat in diretta, il visitatore vedrà comunque la vecchia immagine fino alla fine della chat. Il visitatore vedrà la nuova immagine la prossima volta che chatta e avrà quell’agente.

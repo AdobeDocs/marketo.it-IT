@@ -4,10 +4,10 @@ description: Scopri le versioni dei plug-in di Marketo per Microsoft Dynamics. T
 title: Versioni del plug-in di Marketo per  [!DNL Microsoft Dynamics]
 exl-id: c9c25e11-bcf7-49bf-920a-4182af27d278
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '470'
-ht-degree: 0%
+source-wordcount: '519'
+ht-degree: 14%
 
 ---
 
@@ -41,7 +41,7 @@ La prima volta che esegui la sincronizzazione con [!DNL Microsoft Dynamics], sca
    <th style="width:65%">Note</th>
   </tr>
   <tr>
-   <td>5.0.2.1.</td>
+   <td>5.0.2.1</td>
    <td>1/19/24</td>
    <td>Correzione bug: sono stati corretti alcuni bug relativi alla sincronizzazione di entità personalizzate.</td>
   </tr>

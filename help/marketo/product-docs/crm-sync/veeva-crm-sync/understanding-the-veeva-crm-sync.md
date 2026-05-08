@@ -3,16 +3,16 @@ description: Scopri come funziona la sincronizzazione di Veeva CRM tra Marketo E
 title: Informazioni sulla sincronizzazione di  [!DNL Veeva] CRM
 exl-id: 99ade106-7f32-40e8-8b9a-2b1d0e769b9c
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '251'
 ht-degree: 9%
 
 ---
 
 # Informazioni sulla sincronizzazione CRM per [!DNL Veeva] {#understanding-the-veeva-crm-sync}
 
-In pochi semplici passaggi è facile eseguire una sincronizzazione tra Adobe Marketo Engage e il CRM [!DNL Veeva].
+L&#39;esecuzione di una sincronizzazione tra Adobe Marketo Engage e il CRM [!DNL Veeva] richiede solo alcuni passaggi.
 
 ## Funzionamento della sincronizzazione {#how-the-sync-works}
 

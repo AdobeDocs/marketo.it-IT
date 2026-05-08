@@ -4,9 +4,9 @@ description: Scopri come modificare le mappature dei campi iniziali prima della 
 title: Modificare le mappature campi iniziali
 exl-id: 320613d1-3845-4e05-a704-0db0f8027dc8
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '278'
 ht-degree: 3%
 
 ---
@@ -59,7 +59,7 @@ Se sul lead e sull&#39;oggetto contatto sono presenti campi con lo stesso nome, 
 
    ![](assets/image2014-12-9-13-3a31-3a58.png)
 
-   Bello! La sincronizzazione iniziale è quasi terminata.
+   La sincronizzazione iniziale è quasi terminata.
 
 ## Ripristina schema {#reset-schema}
 

@@ -4,9 +4,9 @@ description: Scopri come risolvere i problemi di sincronizzazione della convalid
 title: Correggere i problemi di sincronizzazione della convalida Dynamics
 exl-id: 1a300249-65b7-49b1-bf50-82236916298f
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '520'
 ht-degree: 1%
 
 ---
@@ -103,7 +103,7 @@ Se disponi di ![x](assets/delete.png) qui, verifica che nessuno dei passaggi pre
 
 ## L&#39;utente di sincronizzazione è assegnato alla soluzione Marketo {#sync-user-is-assigned-to-the-marketo-solution}
 
-Se hai ![x](assets/delete.png) qui, assicurati che l&#39;utente Sync sia assegnato alla pagina Marketo Default in Microsoft Dynamics.
+Se hai ![x](assets/delete.png) qui, verifica che l&#39;utente Sync sia assegnato alla pagina Marketo Default in Microsoft Dynamics.
 
 1. In Dynamics, fai clic sull&#39;icona Impostazioni e seleziona **Impostazioni avanzate**.
 
@@ -119,7 +119,7 @@ Se hai ![x](assets/delete.png) qui, assicurati che l&#39;utente Sync sia assegna
 
 ## L&#39;utente di sincronizzazione corrisponde al nome utente e alla password {#sync-user-matches-username-and-password}
 
-Se disponi di un ![x](assets/delete.png), assicurati di assegnare l&#39;utente di sincronizzazione corretto nel campo Utente Marketo nel passaggio di configurazione predefinita di Marketo in Microsoft Dynamics.
+Se disponi di un ![x](assets/delete.png), assegna l&#39;utente di sincronizzazione corretto nel campo Utente Marketo nel passaggio di installazione predefinita di Configurazione Marketo in Microsoft Dynamics.
 
 >[!MORELIKETHIS]
 >

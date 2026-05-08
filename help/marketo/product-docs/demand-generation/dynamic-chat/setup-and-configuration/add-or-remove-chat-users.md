@@ -3,10 +3,10 @@ description: Scopri come aggiungere o rimuovere utenti Dynamic Chat in Adobe Adm
 title: Aggiungere o rimuovere utenti dalla chat
 feature: Dynamic Chat
 exl-id: 2f5237f7-edb2-4332-97f1-c5b904ce2d92
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '247'
-ht-degree: 12%
+source-wordcount: '260'
+ht-degree: 16%
 
 ---
 
@@ -58,7 +58,7 @@ Per aggiungere o rimuovere utenti chat, segui la procedura riportata di seguito.
 
 ## Aggiungi accesso Dynamic Chat al ruolo Marketo {#add-dynamic-chat-access-to-marketo-role}
 
-Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone già dell&#39;autorizzazione [!DNL Dynamic Chat], fare clic qui per aggiungerlo.
+Se il ruolo Marketo dell&#39;utente di Chat appena aggiunto non dispone già dell&#39;autorizzazione [!DNL Dynamic Chat], eseguire la procedura seguente per aggiungerlo.
 
 1. In Marketo, fare clic su **[!UICONTROL Admin]** e selezionare **[!UICONTROL Users & Roles]**.
 

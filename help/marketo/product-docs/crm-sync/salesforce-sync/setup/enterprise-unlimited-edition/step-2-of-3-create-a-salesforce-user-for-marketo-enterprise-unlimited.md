@@ -4,9 +4,9 @@ description: Scopri come creare un utente Salesforce per Marketo con Enterprise 
 title: 'Passaggio 2 di 3: creazione di un utente Salesforce per Marketo (Enterprise/Unlimited)'
 exl-id: 871f335c-7b1e-47e1-8320-a18fbf21a970
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '360'
+source-wordcount: '359'
 ht-degree: 2%
 
 ---
@@ -47,7 +47,7 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
    ![](assets/image2014-12-9-9-3a19-3a30.png)
 
-1. Nella sezione **[!UICONTROL Administrative Permissions]** verificare che siano selezionate le caselle seguenti:
+1. Nella sezione **[!UICONTROL Administrative Permissions]** verificare che le caselle seguenti siano selezionate:
 
    * [!UICONTROL API Enabled]
    * [!UICONTROL Edit HTML Templates]
@@ -58,9 +58,9 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
    >[!TIP]
    >
-   >Assicurarsi di selezionare la casella **[!UICONTROL Password Never Expires]**.
+   >Selezionare la casella **[!UICONTROL Password Never Expires]**.
 
-1. Nella sezione [!UICONTROL General User Permissions] verificare che siano selezionate le caselle seguenti:
+1. Nella sezione [!UICONTROL General User Permissions] verificare che le caselle seguenti siano selezionate:
 
    * [!UICONTROL Convert Leads]
    * [!UICONTROL Edit Events]
@@ -68,7 +68,7 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
    ![](assets/image2014-12-9-9-3a19-3a47.png)
 
-1. Nella sezione [!UICONTROL Standard Object Permissions], assicurati che siano verificate le autorizzazioni [!UICONTROL Read, Create, Edit, and Delete] per:
+1. Nella sezione [!UICONTROL Standard Object Permissions] verificare che le autorizzazioni [!UICONTROL Read, Create, Edit, and Delete] siano verificate per:
 
    * [!UICONTROL Accounts]
    * [!UICONTROL Campaigns]
@@ -111,7 +111,7 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
    ![](assets/sfdc-sync-field-edit1.png)
 
-1. Individuare i campi non necessari, verificare che **[!UICONTROL Read Access]** e **[!UICONTROL Edit Access]** siano deselezionati. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Individuare i campi non necessari, verificare che **[!UICONTROL Read Access]** e **[!UICONTROL Edit Access]** siano deselezionati. Al termine, fare clic su **[!UICONTROL Save]**.
 
    >[!NOTE]
    >
@@ -119,7 +119,7 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
    ![](assets/sfdc-sync-field-edit2.png)
 
-1. Dopo aver disabilitato tutti i campi non necessari, è necessario controllare **[!UICONTROL Read Access and Edit Access]** per i seguenti campi oggetto. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Dopo aver disabilitato tutti i campi non necessari, è necessario controllare **[!UICONTROL Read Access and Edit Access]** per i seguenti campi oggetto. Al termine, fare clic su **[!UICONTROL Save]**.
 
 <table>
  <tbody>
@@ -154,7 +154,7 @@ In questo articolo verranno impostate le autorizzazioni utente nel profilo [!DNL
 
    ![](assets/sfdc-new-users.png)
 
-1. Compila i campi obbligatori. Quindi, seleziona **[!UICONTROL User License: Salesforce]** e il profilo creato in precedenza. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Compila i campi obbligatori. Quindi, seleziona **[!UICONTROL User License: Salesforce]** e il profilo creato in precedenza. Al termine, fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-12-9-9-3a20-3a56.png)
 

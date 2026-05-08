@@ -4,9 +4,9 @@ description: Scopri come mappare i campi personalizzati degli annunci lead di Fa
 title: Mappare campi personalizzati su Marketo
 exl-id: c52c9bcb-6448-4ebe-b87f-9e3a48e3d27d
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '255'
 ht-degree: 6%
 
 ---
@@ -17,7 +17,7 @@ Per impostazione predefinita, è possibile che si desideri raccogliere più info
 
 Tuttavia, **Marketo non inizierà automaticamente a raccogliere questi dati**. Affinché Marketo possa iniziare a catturare i valori dei campi personalizzati, **devi** mappare tali campi personalizzati a un campo in Marketo.
 
-Per effettuare questa configurazione, consulta l’area LaunchPoint in Amministrazione.
+Segui questi passaggi per effettuare questa configurazione nell’area LaunchPoint di Admin.
 
 >[!NOTE]
 >
@@ -31,15 +31,15 @@ Per effettuare questa configurazione, consulta l’area LaunchPoint in Amministr
 
    ![](assets/image2017-10-24-14-3a55-3a13.png)
 
-1. Lascia invariato l&#39;account autorizzato. **non** apportare modifiche. Fai clic su **[!UICONTROL Next]**.
+1. Lascia invariato l&#39;account autorizzato, **non** apporta modifiche. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-14-3a56-3a48.png)
 
-1. Come prima, lascia invariate le pagine selezionate—fai **no** per apportare modifiche. Fai clic su **[!UICONTROL Next]**.
+1. Come prima, lascia invariate le pagine selezionate, **non** apporta modifiche. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/image2017-10-24-15-3a0-3a54.png)
 
-1. Qui è dove mappi il campo [!DNL Facebook] personalizzato al tuo campo Marketo. Fare clic su **[!UICONTROL Add].**
+1. Mappa il campo [!DNL Facebook] personalizzato sul tuo campo Marketo. Fare clic su **[!UICONTROL Add].**
 
    ![](assets/image2017-10-24-9-3a33-3a49.png)
 

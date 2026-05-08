@@ -3,10 +3,10 @@ description: Scopri come inviare un elenco statico di Marketo a Google per Custo
 title: Inviare un elenco a Google
 feature: Integrations
 exl-id: d28d828c-3d83-44ca-85de-1207c55ec911
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 5%
+source-wordcount: '239'
+ht-degree: 7%
 
 ---
 
@@ -36,7 +36,7 @@ Per coloro che utilizzano Google Customer Match, segui i passaggi seguenti per i
 
    >[!NOTE]
    >
-   >* Selezionando **Mantieni l&#39;iscrizione al pubblico sincronizzato**, l&#39;elenco viene aggiornato man mano che cambia nell&#39;istanza. Aggiungiamo/rimuoviamo persone dal pubblico quando vengono aggiunte/rimosse dall’elenco statico.
+   >* Selezionando **Mantieni l&#39;iscrizione al pubblico sincronizzato**, l&#39;elenco viene aggiornato man mano che cambia nell&#39;istanza. L’iscrizione al pubblico viene aggiornata quando le persone vengono aggiunte o rimosse dall’elenco statico.
    >
    >* Selezionando la casella di controllo in basso, si invia lo stato di consenso come CONCESSO per i dati utente inviati a Google Ads a scopo pubblicitario e di personalizzazione degli annunci. Se questa opzione non è selezionata, lo stato del consenso viene inviato come NON SPECIFICATO. Per coloro che prevedono di caricare dati per gli utenti dello Spazio economico europeo (SEE), Google ha stilato un elenco di [domande frequenti](https://support.google.com/google-ads/answer/14310715){target="_blank"} e ulteriori dettagli che descrivono i [criteri di consenso degli utenti dell&#39;UE](https://www.google.com/about/company/user-consent-policy/){target="_blank"}.
 

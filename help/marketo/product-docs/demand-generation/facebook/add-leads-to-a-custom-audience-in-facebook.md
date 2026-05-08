@@ -4,16 +4,16 @@ description: Scopri come aggiungere lead a un pubblico personalizzato in Faceboo
 title: Aggiungere lead a un pubblico personalizzato in Facebook
 exl-id: cb8a81bf-2645-4500-8c54-03b8da09f245
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 8%
+source-wordcount: '152'
+ht-degree: 7%
 
 ---
 
 # Aggiungi lead a un pubblico personalizzato in [!DNL Facebook] {#add-leads-to-a-custom-audience-in-facebook}
 
-Hai già un pubblico personalizzato in [!DNL Facebook] e vuoi aggiungervi altri lead? Ecco come.
+Per aggiungere lead a un pubblico personalizzato esistente, segui la procedura riportata di seguito.
 
 >[!PREREQUISITES]
 >
@@ -46,7 +46,7 @@ Hai già un pubblico personalizzato in [!DNL Facebook] e vuoi aggiungervi altri 
 
    ![](assets/five-1.png)
 
-   È tutto qui!
+   Il processo è stato completato.
 
    >[!NOTE]
    >

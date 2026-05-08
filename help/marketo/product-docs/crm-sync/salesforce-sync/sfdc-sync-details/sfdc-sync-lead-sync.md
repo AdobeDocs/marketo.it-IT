@@ -4,16 +4,16 @@ description: Scopri come funziona la sincronizzazione dei lead tra Salesforce e 
 title: Sincronizzazione SFDC - Sincronizzazione lead
 exl-id: cf38e091-7344-4b95-b9e1-77eda751c4a9
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '245'
+source-wordcount: '242'
 ht-degree: 2%
 
 ---
 
 # Sincronizzazione SFDC: sincronizzazione lead {#sfdc-sync-lead-sync}
 
-Conoscevi le sincronizzazioni di Marketo dal tuo database [!DNL Salesforce]? Viene sincronizzato, attende 5 minuti, quindi viene sincronizzato di nuovo. Tutto il giorno, tutti i giorni. Ecco alcuni dettagli su come Marketo tratta in modo specifico i lead [!DNL Salesforce].
+Marketo esegue la sincronizzazione dal database [!DNL Salesforce]. Viene sincronizzato, attende 5 minuti, quindi viene sincronizzato di nuovo. Tutto il giorno, tutti i giorni. Ecco alcuni dettagli su come Marketo tratta in modo specifico i lead [!DNL Salesforce].
 
 ## Direzione di sincronizzazione {#sync-direction}
 

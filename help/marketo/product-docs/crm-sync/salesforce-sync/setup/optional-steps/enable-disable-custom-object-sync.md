@@ -4,9 +4,9 @@ description: Scopri come abilitare o disabilitare la sincronizzazione di oggetti
 title: Abilitare/disabilitare la sincronizzazione oggetti personalizzati
 exl-id: f17d9135-b33e-48c0-9220-131fb437e9e5
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '212'
 ht-degree: 9%
 
 ---
@@ -75,7 +75,7 @@ Anche gli oggetti personalizzati creati nell’istanza Salesforce possono far pa
 
    ![](assets/image2015-8-24-14-3a18-3a53.png)
 
-   Eccellente! È ora possibile utilizzare i dati di questo oggetto personalizzato nelle campagne avanzate e negli elenchi avanzati.
+   È ora possibile utilizzare i dati di questo oggetto personalizzato nelle campagne avanzate e negli elenchi avanzati.
 
 >[!MORELIKETHIS]
 >

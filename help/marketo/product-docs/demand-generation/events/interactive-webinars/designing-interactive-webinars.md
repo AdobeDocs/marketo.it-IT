@@ -3,9 +3,9 @@ description: Scopri come progettare webinar interattivi in Marketo. Pianifica co
 title: Progettazione di webinar interattivi
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: '602'
 ht-degree: 1%
 
 ---
@@ -26,7 +26,7 @@ Scopri come progettare il webinar in base alle tue esigenze.
    >
    >* Una stanza è uno spazio online utilizzato per condurre riunioni.
    >
-   >* Se scegli una chat room di webinar esistente e devi rinominarla, fai clic sul pulsante **Rinomina chat room di webinar** a destra.
+   >* Se si sceglie una room di webinar esistente e si desidera rinominarla, fare clic sul pulsante **Rinomina room di webinar** a destra.
    >
    >* L’elenco a discesa mostra solo le room esistenti create in precedenza, non quelle di altri host.
 
@@ -50,7 +50,7 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
    ![](assets/designing-interactive-webinars-5.png)
 
-1. Puoi perfezionare il webinar immediatamente o in un secondo momento. Facciamolo adesso. Fai Clic Su **Perfeziona Ora Il Tuo Webinar**.
+1. Puoi perfezionare il webinar immediatamente o in un secondo momento. Per procedere ora, fai clic su **Perfeziona il tuo webinar ora**.
 
    ![](assets/designing-interactive-webinars-6.png)
 
@@ -62,7 +62,7 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
    ![](assets/designing-interactive-webinars-8.png)
 
-1. Per informazioni dettagliate sulle room e sui modelli, consultare la sezione &quot;Modelli e layout della sala riunioni&quot; del [presente articolo della Guida di Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
+1. Per informazioni dettagliate sulle room e sui modelli, vedere la sezione &quot;Modelli e layout della sala riunioni&quot; del [presente articolo della Guida di Adobe](https://helpx.adobe.com/in/adobe-connect/using/creating-arranging-meetings.html#creating_and_arranging_meetings){target="_blank"}.
 
 1. Al termine della progettazione del webinar, fare clic su **Esci dalla chat**.
 
@@ -76,9 +76,9 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
 **Pod**: componente all&#39;interno di un modello che esegue una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un sondaggio. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire in modo casuale con loro può essere un&#39;attività distribuita tramite il chat pod. Sono disponibili diversi altri pod, ad esempio Condivisione, Appunti, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e Domande e risposte.
 
-      **Pod sondaggio**: consente agli host di progettare e inviare moduli di feedback strutturati direttamente all&#39;interno di una sessione live. Il pod di sondaggio estende le funzionalità esistenti dei pod di sondaggio consentendo di presentare più domande insieme, offrendo un modo più semplice e coeso per raccogliere le informazioni sui partecipanti. [Ulteriori informazioni](https://helpx.adobe.com/it/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod sondaggio**: consente agli host di progettare e inviare moduli di feedback strutturati direttamente all&#39;interno di una sessione live. Il pod di sondaggio estende le funzionalità esistenti dei pod di sondaggio consentendo di presentare più domande insieme, offrendo un modo più semplice e coeso per raccogliere le informazioni sui partecipanti. [Ulteriori informazioni](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pool di risorse**: sostituisce i pod precedenti File e Collegamenti Web, fornendo un unico modo unificato per condividere le risorse durante le sessioni live. [Ulteriori informazioni](https://helpx.adobe.com/it/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pool di risorse**: sostituisce i pod precedenti File e Collegamenti Web, fornendo un unico modo unificato per condividere le risorse durante le sessioni live. [Ulteriori informazioni](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

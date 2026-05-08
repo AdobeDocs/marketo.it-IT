@@ -4,9 +4,9 @@ description: Scopri come creare un evento con riunione web di livello 3 in Marke
 title: Crea un evento con  [!DNL Level 3 Web Meeting]
 exl-id: 17ade784-a2f4-4e92-a875-3bf2f80c13ab
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 >* [Crea un nuovo programma eventi](/help/marketo/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.md)
 >* Imposta le [azioni di flusso](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/add-a-flow-step-to-a-smart-campaign.md)appropriate per tenere traccia del coinvolgimento
 
-Crea il tuo webinar in [!DNL Level 3]. Se hai bisogno di aiuto, vedi la [[!DNL Level 3] Libreria risorse](https://www.level3.com/en/resource-library/). Si noterà che è molto simile a [!DNL BrightTalk].  Marketo utilizza un piccolo sottoinsieme di [!DNL Level 3] campi:
+Crea il tuo webinar in [!DNL Level 3]. Se hai bisogno di aiuto, consulta la [[!DNL Level 3] Libreria risorse](https://www.level3.com/en/resource-library/). È molto simile a [!DNL BrightTalk].  Marketo utilizza un piccolo sottoinsieme di [!DNL Level 3] campi:
 
 * **Nome** - Nome del webcast.
 * **Data inizio** - La data di inizio del webcast.
@@ -47,10 +47,10 @@ Crea il tuo webinar in [!DNL Level 3]. Se hai bisogno di aiuto, vedi la [[!DNL L
 
    ![](assets/image2016-3-24-15-3a45-3a31.png)
 
-   Ottimo! Hai connesso l&#39;evento a [!DNL Level 3].
+   L&#39;evento è ora connesso a [!DNL Level 3].
 
 ## Visualizzazione dello Schedule  {#viewing-the-schedule}
 
-Nella visualizzazione della pianificazione del programma fare clic sulla voce del calendario dell&#39;evento. Il programma è visibile sul lato destro dello schermo!
+Nella visualizzazione della pianificazione del programma fare clic sulla voce del calendario dell&#39;evento. Il programma è visibile sul lato destro dello schermo.
 
 ![](assets/image2016-3-24-15-3a51-3a7.png)

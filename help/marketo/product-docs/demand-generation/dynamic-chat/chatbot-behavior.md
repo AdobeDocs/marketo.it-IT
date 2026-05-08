@@ -3,10 +3,10 @@ description: Scopri il comportamento dei chatbot in Dynamic Chat per finestre di
 title: Comportamento di chatbot
 feature: Dynamic Chat
 exl-id: e91e7981-6617-42fe-8120-a7311a99cdfb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1697'
-ht-degree: 3%
+source-wordcount: '1700'
+ht-degree: 1%
 
 ---
 
@@ -185,7 +185,7 @@ Di seguito sono riportati diversi possibili scenari che descrivono il comportame
         <p>V1 fa clic su D1 ma non risponde</p>
         <p>Visite V1 WP2</p>
       </td>
-      <td>D1 verrà risolto in WP1<br/>
+      <td>D1 verrà risolto nel WP1<br/>
       D2 verrà risolto nel WP2</td>
       <td>
         <p>Il conteggio dei trigger per D1 verrà aumentato di 1</p>
@@ -409,4 +409,4 @@ Di seguito sono riportati diversi possibili scenari che descrivono il comportame
 
 ## Risoluzione dei lead in tempo reale {#real-time-lead-resolution}
 
-Nel corso di una conversazione con un lead anonimo dove viene fornito un ID e-mail, si risolve se esiste un record lead noto con tale ID e-mail e questo viene utilizzato per la personalizzazione in tempo reale. Se vengono rilevati più record, questi verranno uniti in tempo reale. Questo comportamento è implementato sia per i dialoghi che per i flussi conversazionali.
+Durante una conversazione con un lead anonimo e con un ID e-mail fornito, Dynamic Chat risolve se esiste un record lead noto con tale ID e-mail e lo utilizza per la personalizzazione in tempo reale. Se vengono trovati più record, questi vengono uniti in tempo reale. Questo comportamento è implementato sia per i dialoghi che per i flussi conversazionali.

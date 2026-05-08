@@ -3,16 +3,16 @@ description: Scopri i webinar on-demand nei webinar interattivi di Marketo. Rend
 title: Webinar on demand
 feature: Interactive Webinars
 exl-id: 65bfc1d2-6382-4cfa-9560-69cbb0c37c42
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '461'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
 # Webinar on demand {#on-demand-webinars}
 
-I webinar on-demand acquisiscono e perfezionano i lead che si sono registrati per l’evento e che non hanno partecipato, ma desiderano ottenere informazioni relative all’evento guardando la registrazione. Informazioni quali Nome, ID e-mail e Data/durata di controllo possono essere acquisite in Marketo Engage e utilizzate per individuare questi lead non visibili.
+I webinar on-demand acquisiscono e perfezionano i lead che si sono registrati per l’evento e non vi hanno partecipato, ma desiderano ottenere informazioni relative all’evento guardando la registrazione. Informazioni quali Nome, ID e-mail e Data/durata di controllo possono essere acquisite in Marketo Engage e utilizzate per individuare questi lead non visibili.
 
 L’URL di unione del webinar condiviso con gli utenti registrati prima dell’evento può essere utilizzato per guardare la registrazione on-demand. Quando un utente registrato che non ha partecipato all’evento live (ad esempio, un lead con lo stato di programma &quot;No-Show&quot;) fa clic sull’URL di iscrizione al webinar, lo stato di tale lead cambia da &quot;No-Show&quot; a &quot;Partecipated On-Demand&quot;. Lo stato del programma dei lead che hanno guardato l’evento in diretta e che hanno lo stato &quot;Partecipato&quot; non subisce modifiche se decidono di visitare l’URL di unione e guardare la registrazione on-demand.
 
@@ -23,8 +23,8 @@ Marketo Engage fornisce le statistiche di controllo per i webinar on-demand sull
 * Riepilogo on-demand: fornisce un riepilogo del numero di visitatori (no-show) che guardano la registrazione dopo l’evento in un dato giorno/i
 
 * Statistiche on-demand: questo widget fornisce informazioni su:
-   * Giorni in cui è disponibile per la visualizzazione la registrazione su richiesta: consente agli addetti al marketing di eseguire azioni, ad esempio eseguire campagne e-mail prossime alla fine della durata di disponibilità della registrazione di 30 giorni.
-   * Conteggio complessivo dei visitatori per i webinar on-demand fino ad oggi: il conteggio di tutti i partecipanti che hanno guardato la registrazione on-demand fino ad oggi.
+   * Giorni in cui è disponibile la registrazione On-Demand: consente agli addetti marketing di eseguire azioni, ad esempio eseguire campagne e-mail prossime alla fine della durata di disponibilità della registrazione, pari a 30 giorni.
+   * Conteggio complessivo dei visitatori per i webinar on-demand fino ad oggi: il conteggio di tutti gli iscritti al programma No-Show che hanno guardato la registrazione on-demand fino ad oggi.
    * Durata media dell’orologio in minuti per tutti i visitatori: fornisce agli addetti al marketing un’idea di quanta registrazione viene visualizzata e di quali campagne intelligenti possono essere utilizzate per indirizzare i lead oltre una determinata durata dell’orologio.
 
 ![](assets/on-demand-webinars-1.png)

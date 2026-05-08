@@ -3,9 +3,9 @@ description: Scopri come aggiungere un team di webinar nei webinar interattivi. 
 title: Aggiungere un team per il webinar
 feature: Interactive Webinars
 exl-id: eff0b69a-0ffe-45b4-8170-cd57894ab926
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '455'
 ht-degree: 2%
 
 ---
@@ -38,7 +38,7 @@ Il presentatore è un ruolo esterno che partecipa alla distribuzione dell’espe
 
    >[!NOTE]
    >
-   >Se selezioni **Utente interno del webinar interattivo**, dovrai semplicemente fare clic sul menu a discesa **Host disponibili** e scegliere dall&#39;elenco di persone che sono state aggiunte come utenti del webinar interattivo in Marketo Engage. Gli host esistenti non verranno visualizzati in questo elenco a discesa, in quanto sono già host.
+   >Se selezioni **Utente interno di webinar interattivi**, dovrai fare clic sul menu a discesa **Host disponibili** e scegliere dall&#39;elenco di persone che sono state aggiunte come utenti di webinar interattivi in Marketo Engage. Gli host esistenti non verranno visualizzati in questo elenco a discesa, in quanto sono già host.
 
 1. Immetti il nome, il cognome e l&#39;indirizzo e-mail del co-host desiderato. Fai clic su **Aggiungi**.
 

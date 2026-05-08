@@ -4,9 +4,9 @@ description: Scopri come creare un pubblico personalizzato in Facebook da Market
 title: Creare un pubblico personalizzato in Facebook
 exl-id: a2c8d89c-16b3-44f6-a2c6-c52fe78ab39c
 feature: Integrations
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '235'
 ht-degree: 6%
 
 ---
@@ -52,7 +52,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >Vuoi scambiare un nuovo pubblico con uno esistente attualmente associato a un set di annunci o a un gruppo? Selezionare la casella di controllo **[!UICONTROL Replace an existing audience]**. In questo modo **non** verrà eliminato il pubblico da sostituire.
+   >Per scambiare un nuovo pubblico con un pubblico esistente attualmente associato a un set di annunci o a un gruppo, selezionare la casella di controllo **[!UICONTROL Replace an existing audience]**. In questo modo **non** verrà eliminato il pubblico da sostituire.
 
 1. Al termine, la finestra di dialogo di stato viene aggiornata.
 

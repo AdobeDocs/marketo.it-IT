@@ -3,9 +3,9 @@ description: Scopri come verificare un webinar interattivo prima di andare "live
 title: Testare un webinar interattivo
 feature: Interactive Webinars
 exl-id: 40dc1c86-6978-4b9f-abeb-96a5cab7dc5d
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 2%
 
 ---
@@ -24,7 +24,7 @@ Il flusso di lavoro per la creazione di un webinar di prova rimane invariato ris
 >
 >Se imposti la data e l’ora per il webinar di prova troppo vicino in futuro e tale data/ora è trascorsa, i webinar interattivi considerano il webinar consegnato e detrarranno un credito dalla licenza.
 
-Un credito verrà bloccato per il webinar di prova, ma può essere utilizzato ripianificando il programma da utilizzare con un webinar effettivo o semplicemente eliminando il programma del webinar di prova.
+Un credito verrà bloccato per il webinar di prova, ma può essere utilizzato ripianificando il programma da utilizzare con un webinar effettivo o eliminando il programma del webinar di prova.
 
 Dopo aver creato e progettato il webinar, l’host, il co-host e/o i relatori possono unirsi per provare la consegna. È inoltre possibile aggiungere invitati esterni come co-host per poter partecipare al test. Il test può essere eseguito nello stesso modo in cui viene consegnato il webinar, in modo che i valutatori abbiano un’idea di come il webinar si presenterà di fronte a un pubblico effettivo. Tutte le funzionalità del webinar live sono disponibili anche nel webinar di prova. Questa operazione può essere eseguita fino a 15 minuti prima dell’ora di inizio del webinar.
 

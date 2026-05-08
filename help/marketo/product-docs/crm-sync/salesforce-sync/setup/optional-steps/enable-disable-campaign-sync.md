@@ -4,10 +4,10 @@ description: Scopri come abilitare o disabilitare la sincronizzazione delle camp
 title: Abilitare/disabilitare la sincronizzazione campagna
 exl-id: a8d53268-75b9-479d-8ffc-b3f19eb77483
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 10%
+source-wordcount: '76'
+ht-degree: 11%
 
 ---
 
@@ -31,7 +31,7 @@ Questa opzione consente a Marketo Engage di sincronizzare gli stati e l’appart
 
    ![](assets/image2014-12-9-13-3a37-3a8.png)
 
-Eccola qui. Dia alla sincronizzazione un po&#39; di tempo per estrarre i dati da Salesforce e sei a posto.
+La sincronizzazione potrebbe richiedere un po’ di tempo per estrarre i dati da Salesforce.
 
 >[!MORELIKETHIS]
 >

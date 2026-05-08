@@ -3,10 +3,10 @@ description: Scopri l’intelligenza artificiale generativa in Dynamic Chat per 
 title: IA generativa in Dynamic Chat
 feature: Dynamic Chat
 exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '463'
-ht-degree: 2%
+source-wordcount: '472'
+ht-degree: 4%
 
 ---
 
@@ -16,7 +16,7 @@ Le funzionalità generative basate sull’intelligenza artificiale di Adobe Dyna
 
 ## Autorizzazioni {#permissions}
 
-Per utilizzare l&#39;intelligenza artificiale generativa, assicurati di concedere agli utenti desiderati le [autorizzazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) appropriate.
+Per utilizzare l&#39;intelligenza artificiale generativa, concedi agli utenti desiderati le [autorizzazioni](/help/marketo/product-docs/demand-generation/dynamic-chat/setup-and-configuration/permissions.md) appropriate.
 
 ![](assets/generative-ai-overview-1.png)
 
@@ -70,17 +70,17 @@ Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di ele
 
 >[!IMPORTANT]
 >
->Quando utilizzi l&#39;intelligenza artificiale generativa, devi attenerti alle [linee guida per l&#39;utente di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html), in modo da poter garantire che le funzioni di Adobe Experience Cloud che incorporano l&#39;intelligenza artificiale generativa vengano utilizzate in modo sicuro e responsabile.
+>Quando utilizzi l&#39;intelligenza artificiale generativa, devi attenerti alle [linee guida per gli utenti di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) per garantire che le funzioni Adobe Experience Cloud che incorporano l&#39;intelligenza artificiale generativa vengano utilizzate in modo sicuro e responsabile.
 
 ## Domande frequenti {#faq}
 
 **L&#39;intelligenza artificiale generativa è disponibile per tutti gli utenti di Dynamic Chat?**
 
-L’intelligenza artificiale generativa è disponibile solo per gli abbonati a Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
+L’intelligenza artificiale generativa è disponibile solo per gli abbonati a Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 **Esiste un limite al numero di domande e risposte che è possibile generare?**
 
-Sì.  Al momento, il limite di durata è di 1000.
+Sì. Al momento, il limite di durata è di 1000.
 
 **Quali lingue sono disponibili nell&#39;IA generativa?**
 

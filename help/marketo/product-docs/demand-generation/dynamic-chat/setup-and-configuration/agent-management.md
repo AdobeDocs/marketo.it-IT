@@ -3,9 +3,9 @@ description: Informazioni sulla gestione degli agenti in Dynamic Chat. Visualizz
 title: Gestione agente
 feature: Dynamic Chat
 exl-id: 151d8cf2-a5b7-43c4-8418-cc22252108b2
-source-git-commit: d762c5a3d644c2c13fd82c55b329af9145ac3125
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: '362'
 ht-degree: 3%
 
 ---
@@ -24,7 +24,7 @@ Questa scheda elenca tutti gli agenti nell’istanza di Dynamic Chat e include i
 
 >[!NOTE]
 >
->Non trovi un agente _appena_ aggiunto? Potrebbero essere necessarie fino a due ore prima che vengano visualizzate qui dopo essere state aggiunte nell’Admin Console di Adobe.
+>Se un agente aggiunto di recente non viene visualizzato qui, potrebbero essere necessarie fino a due ore dopo l’aggiunta nell’Admin Console di Adobe.
 
 ## Team {#teams}
 
@@ -32,7 +32,7 @@ Gli amministratori possono creare team di agenti per facilitare l’inoltro a gr
 
 >[!AVAILABILITY]
 >
->L’accesso a Teams richiede un abbonamento a Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
+>L’accesso a Teams richiede un abbonamento a Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 ![](assets/agent-management-3.png)
 
@@ -76,7 +76,7 @@ Seleziona un messaggio standard (di sistema) o scrivine uno personalizzato che i
 
 >[!TIP]
 >
->Durante la creazione di un messaggio personalizzato, puoi applicare uno stile al font, utilizzare i collegamenti e persino inserire emoji. `:)`
+>Durante la creazione di un messaggio personalizzato, puoi applicare uno stile al font, utilizzare i collegamenti e persino inserire emoji.
 
 ## Impostazioni {#settings}
 

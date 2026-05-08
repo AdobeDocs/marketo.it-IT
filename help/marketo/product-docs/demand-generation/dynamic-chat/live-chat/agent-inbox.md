@@ -3,9 +3,9 @@ description: Scopri la casella in entrata dell’agente in cui gli agenti chat l
 title: Casella in entrata agente
 feature: Dynamic Chat
 exl-id: 65f13879-36d2-4a23-a029-271f5aea1229
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '596'
 ht-degree: 1%
 
 ---
@@ -62,7 +62,7 @@ Gli agenti possono terminare manualmente una sessione semplicemente facendo clic
 >
 >Questa funzione fa parte dell’intelligenza artificiale generativa, disponibile tramite l’abbonamento a Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
-Le scelte rapide, basate sulla [libreria di risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di IA generativa, sono un ottimo modo per ottenere aiuto in tempo reale durante le chat con un visitatore. Digitare una barra (`/`) nella casella di testo e scegliere `ask` o `search`.
+Le scelte rapide, basate sulla [libreria di risposte](/help/marketo/product-docs/demand-generation/dynamic-chat/generative-ai/response-library.md) di IA generativa, sono un modo efficace per ottenere aiuto quando si chatta con un visitatore. Digitare una barra (`/`) nella casella di testo e scegliere `ask` o `search`.
 
 ![](assets/agent-inbox-7.png)
 
@@ -90,7 +90,7 @@ Le scelte rapide, basate sulla [libreria di risposte](/help/marketo/product-docs
 
    ![](assets/agent-inbox-12.png)
 
-## Cronologia attività {#activity-history}
+## Cronologia delle attività {#activity-history}
 
 Sotto le informazioni sul visitatore si trova la cronologia delle attività. Visualizza i tipi di attività e le date, e anche le trascrizioni delle chat.
 

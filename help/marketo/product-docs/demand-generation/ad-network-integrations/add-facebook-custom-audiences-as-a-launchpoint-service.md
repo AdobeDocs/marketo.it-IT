@@ -4,10 +4,10 @@ description: Scopri come aggiungere tipi di pubblico personalizzati di Facebook 
 title: 'Aggiungi [!DNL Facebook] tipi di pubblico personalizzati come servizio [!DNL LaunchPoint] '
 exl-id: 5c5b5c80-fd0f-482a-8163-6eef3dbcb236
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 2%
+source-wordcount: '294'
+ht-degree: 1%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 2%
 >
 >**Autorizzazioni amministratore richieste**
 
-Con questa integrazione è possibile inviare dati di pubblico da elenchi statici e avanzati di Marketo a [!DNL Facebook] per utilizzarli come tipi di pubblico personalizzati nelle campagne pubblicitarie [!DNL Facebook]. Ecco come configurarlo.
+Con questa integrazione è possibile inviare dati di pubblico da elenchi statici e avanzati di Marketo a [!DNL Facebook] per utilizzarli come tipi di pubblico personalizzati nelle campagne pubblicitarie [!DNL Facebook]. Segui questi passaggi per configurarlo.
 
 1. Passare a Marketo **[!UICONTROL Admin]**.
 
@@ -59,11 +59,11 @@ Con questa integrazione è possibile inviare dati di pubblico da elenchi statici
 
    ![](assets/fb-custom-adv-matching-hands.png)
 
-   Ottimo lavoro! Ora puoi passare a qualsiasi elenco statico o avanzato in Marketo e inviare i dati sul pubblico a [!DNL Facebook].
+   Ora puoi passare a qualsiasi elenco statico o avanzato in Marketo e inviare dati sul pubblico a [!DNL Facebook].
 
    >[!CAUTION]
    >
-   >Oh, prima di andare, assicurati di [accettare i termini dei tipi di pubblico personalizzati di [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account [!DNL Facebook]. In caso contrario, gli aggiornamenti del pubblico non riusciranno.
+   >Prima di utilizzare la tua integrazione, [Accetta i termini dei tipi di pubblico personalizzati di  [!DNL Facebook]](https://www.facebook.com/ads/manage/customaudiences/tos.php) nel tuo account [!DNL Facebook]. In caso contrario, gli aggiornamenti del pubblico non riusciranno.
 
 >[!MORELIKETHIS]
 >

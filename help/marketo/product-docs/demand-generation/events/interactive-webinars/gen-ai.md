@@ -3,9 +3,9 @@ description: Scopri le funzioni GenAI nei webinar interattivi. Utilizza l’inte
 title: Funzioni GenAI
 feature: Interactive Webinars
 exl-id: 3e0a41b0-7ff3-4676-bafc-4e7a0725a737
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Genera automaticamente capitoli e riepiloghi per i webinar registrati, rendendol
 
 * **Contenuto modificabile**: se necessario, modifica i capitoli e i riepiloghi generati utilizzando le funzionalità di modifica manuali e basate su IA.
 
-* **Integrazione semplificata**: è possibile aggiungere facilmente capitoli e riepiloghi alle pagine di destinazione copiando il codice HTML nell&#39;editor di pagine Web desiderato.
+* **Integrazione perfetta**: aggiungi capitoli e riepiloghi alle pagine di destinazione copiando il codice HTML nell&#39;editor pagina Web desiderato.
 
 ## Abilita GenAI {#enable-genai}
 
 >[!PREREQUISITES]
 >
->Prima di utilizzare queste funzioni, devi accettare i termini e le condizioni di Adobe GenAI. Se non lo hai ancora fatto, contatta il team dell’account di Adobe (il tuo Account Manager) per maggiori dettagli.
+>Prima di utilizzare queste funzioni, devi accettare i termini e le condizioni di Adobe GenAI. Se non lo hai ancora fatto, contatta l’Account Team di Adobe (il tuo Account Manager) per ulteriori dettagli.
 
 Dopo aver accettato i termini e le condizioni di Adobe GenAI, il passaggio successivo consiste nell’abilitarli per i singoli utenti. A tale scopo, passare a **[!UICONTROL Admin]** > **[!UICONTROL Interactive Webinars]** e selezionare gli utenti che devono avere accesso a GenAI.
 

@@ -3,7 +3,7 @@ description: Scopri come impostare l’integrazione di ON24 con Marketo. Connett
 title: Configurare l’integrazione ON24 con Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 10%
@@ -12,7 +12,7 @@ ht-degree: 10%
 
 # Configurare l’integrazione ON24 con Marketo{#set-up-the-on24-integration-with-marketo}
 
-Ecco come configurare l’integrazione dell’evento ON24.
+Segui questi passaggi per configurare l’integrazione dell’evento ON24.
 
 ## Creare un ruolo solo API {#create-an-api-only-role}
 
@@ -42,7 +42,7 @@ Ecco come configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Seleziona [!UICONTROL ON24 API Only Role (all workspaces)] appena creato. Selezionare la casella di controllo **[!UICONTROL API Only]**. Fai clic su **[!UICONTROL Next]**.
+1. Seleziona [!UICONTROL ON24 API Only Role (all workspaces)] creato. Selezionare la casella di controllo **[!UICONTROL API Only]**. Fai clic su **[!UICONTROL Next]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
@@ -64,11 +64,11 @@ Ecco come configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Scegli un [!UICONTROL display name]. Fai clic sul menu a discesa **[!UICONTROL Service]** e seleziona **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [&#x200B; nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
+1. Scegli un [!UICONTROL display name]. Fai clic sul menu a discesa **[!UICONTROL Service]** e seleziona **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [ nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 
-1. Trovare il servizio [!DNL LaunchPoint] personalizzato appena creato e fare clic su [!UICONTROL View Details].
+1. Trovare il servizio [!DNL LaunchPoint] personalizzato creato e fare clic su [!UICONTROL View Details].
 
    ![](assets/set-up-the-on24-integration-with-marketo-12.png)
 

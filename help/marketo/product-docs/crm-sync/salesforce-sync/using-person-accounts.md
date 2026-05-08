@@ -4,16 +4,16 @@ description: Scopri come Marketo Engage tratta gli account personali di Salesfor
 title: Utilizzare gli account persona
 exl-id: 3cc67ff2-f689-4dfb-8b67-2b5b8d389aaf
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '297'
 ht-degree: 2%
 
 ---
 
 # Utilizzare gli account persona {#using-person-accounts}
 
-Gli account personali possono essere impostati in Salesforce in base alle esigenze della tua organizzazione. Ecco come Marketo Engage tratta gli account personali.
+Gli account personali possono essere impostati in Salesforce in base alle esigenze della tua organizzazione. Di seguito viene descritto il modo in cui Marketo Engage tratta gli account personali.
 
 >[!NOTE]
 >

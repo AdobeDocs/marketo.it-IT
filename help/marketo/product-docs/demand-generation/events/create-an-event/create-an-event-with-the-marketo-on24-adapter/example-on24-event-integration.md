@@ -4,16 +4,16 @@ description: Impara da un esempio di integrazione di un evento ON24 con Marketo.
 title: Esempio di integrazione di eventi ON24
 exl-id: 9d34d1bf-1ff8-4b26-906e-4a6bb9d5f3f6
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '374'
 ht-degree: 2%
 
 ---
 
 # Esempio di integrazione di eventi ON24 {#example-on-event-integration}
 
-Ecco un evento di esempio, comprese le campagne, per un webinar su ON24. Quando crei l’evento, assicurati di testare le campagne prima di eseguirle.
+Di seguito è riportato un evento di esempio, incluse le campagne, per un webinar ON24. Quando crei l’evento, testa le campagne prima di eseguirle.
 
 ## Creare un nuovo evento nelle attività di marketing {#create-a-new-event-in-marketing-activities}
 
@@ -55,7 +55,7 @@ Ecco un evento di esempio, comprese le campagne, per un webinar su ON24. Quando 
 
 * **Elenco avanzato**
 
-   * Attiva la campagna in base a **[!UICONTROL Fills Out Form]**. Assicurarsi di includere la pagina di destinazione in cui si trova il modulo utilizzando **[!UICONTROL Add Constraint]**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
+   * Attiva la campagna in base a **[!UICONTROL Fills Out Form]**. Includi la pagina di destinazione in cui si trova il modulo utilizzando **[!UICONTROL Add Constraint]**, soprattutto se il modulo viene utilizzato su più pagine di destinazione.
 
 >[!CAUTION]
 >
@@ -71,7 +71,7 @@ Ecco un evento di esempio, comprese le campagne, per un webinar su ON24. Quando 
 
 ![](assets/image2015-12-22-15-3a52-3a9.png)
 
-**NOTA**: se la persona viene restituita con un errore di registrazione, non riceverà la conferma e-mail.
+**NOTA**: se la persona viene restituita con un errore di registrazione, non riceverà l&#39;e-mail di conferma.
 
 ## Promemoria (campagna in batch) {#reminder-batch-campaign}
 

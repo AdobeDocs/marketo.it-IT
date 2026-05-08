@@ -3,9 +3,9 @@ description: Ottieni aiuto sulle best practice per i webinar interattivi in Mark
 title: Best practice sui webinar interattivi
 feature: Interactive Webinars
 exl-id: fd9d7d03-8d92-45f7-9372-a2b6d2f4c635
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '1775'
+source-wordcount: '1759'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Durante l’esecuzione di eventi virtuali, destinati a un pubblico piccolo o grande, è fondamentale che le cose vadano come previsto. Con i vari passaggi necessari per pianificare ed eseguire un evento, dalla preparazione, alla promozione, alla consegna e al follow-up, a volte può sembrare molto.
 
-Per aiutarci, abbiamo compilato un elenco di best practice che possono essere utili per pianificare, progettare e produrre webinar di successo e coinvolgenti. Questi suggerimenti ti aiuteranno a ottenere il massimo dai webinar interattivi basati su Adobe Connect.
+Le seguenti best practice possono essere utili per pianificare, progettare e produrre webinar di successo e coinvolgenti. Questi suggerimenti ti aiuteranno a ottenere il massimo dai webinar interattivi basati su Adobe Connect.
 
 ## Preparazione pre-evento {#pre-event-preparation}
 
@@ -22,15 +22,15 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 >[!TIP]
 >
->L’esperienza web mobile dei webinar interattivi non risponde, pertanto consigliamo di utilizzare l’app Adobe Connect per un’esperienza di webinar fluida sul dispositivo mobile. Nota: l’app Adobe Connect non è attualmente disponibile negli App Store in Cina.
+>L’esperienza web mobile dei webinar interattivi non risponde, pertanto consigliamo di utilizzare l’app Adobe Connect per un’esperienza di webinar fluida sul dispositivo mobile. L’app Adobe Connect non è attualmente disponibile negli app store in Cina.
 
 * Crea un webinar interattivo di esempio (IW) e clonalo ogni volta, per evitare di partire da zero.
 
-* Riutilizza le chat di Adobe Connect se distribuisci nuovamente lo stesso contenuto in un secondo momento. Passa a **Cancella contenuto dai pod** dal menu Pods per cancellare la cronologia delle chat e i risultati dei sondaggi/quiz dell&#39;ultima sessione. Questo cancella solo il contenuto della stanza. Tutti i dati delle sessioni precedenti continueranno a essere disponibili in Marketo Engage.
+* Riutilizza le chat di Adobe Connect se distribuisci nuovamente lo stesso contenuto in un secondo momento. Passa a **Cancella contenuto dai pod** dal menu Pods per cancellare la cronologia delle chat e i risultati dei sondaggi/quiz dell&#39;ultima sessione. Questo cancella il contenuto della stanza. Tutti i dati delle sessioni precedenti continueranno a essere disponibili in Marketo Engage.
 
 * Evita di pianificare sessioni back-to-back. Assicurati di disporre di almeno 30 minuti di preparazione prima dell’inizio del webinar. Potrai così caricare le modifiche apportate alla presentazione dell&#39;ultimo minuto, regolare il microfono e la videocamera e rendere i nuovi relatori più a tuo agio con l&#39;interfaccia di.
 
-* Assegna ruoli ai membri del gruppo. Aggiungili come co-host e relatori. Host e relatori possono entrare nella stanza prima dei partecipanti. Ma assicurati di [progettare il tuo webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _prima_ di aggiungere co-host e presentatori.
+* Assegna ruoli ai membri del gruppo. Aggiungili come co-host e relatori. Host e relatori possono entrare nella stanza prima dei partecipanti. Ma [progetta il tuo webinar interattivo](/help/marketo/product-docs/demand-generation/events/interactive-webinars/designing-interactive-webinars.md){target="_blank"} _prima_ di aggiungere co-host e relatori.
 
 ### Promozione dell&#39;evento {#promoting-your-event}
 
@@ -46,7 +46,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 * Utilizza il tuo sito web/blog, i social media, la pubblicità a pagamento e le promozioni dei partner per raggiungere un pubblico più ampio e promuovere le registrazioni.
 
-* Invia e-mail di promemoria agli invitati registrati 2-3 giorni prima del webinar _e_ il giorno dell&#39;evento per assicurarti che non se ne dimentichino e che possano partecipare.
+* Inviare e-mail di promemoria agli invitati registrati 2-3 giorni prima del webinar _e_ il giorno dell&#39;evento per assicurarsi che non se ne dimentichino e che possano partecipare.
 
 ### Progettazione di una room {#designing-a-room}
 
@@ -85,7 +85,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 * **Pod domande e risposte**: è possibile nascondere sia il nome del partecipante che ha inviato la domanda sia il nome dell&#39;host/relatore che ha risposto. Per farlo, deseleziona le opzioni relative alla privacy nella sezione &quot;Q&amp;A Pod&quot; in Preferenze della stanza.
 
-* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/it/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
+* **Pannello chat**: il pannello chat è un&#39;area chat che non fa parte delle registrazioni della sessione. Quindi, se non vuoi che le chat appaiano nelle registrazioni, utilizza il Pannello Chat invece di Chat Pod. [Fare clic qui](https://helpx.adobe.com/adobe-connect/using/notes-chat-q-a-polls.html#chat_panel){target="_blank"} per ulteriori informazioni sull&#39;utilizzo del Pannello chat.
 
 * **Chat privata**: disattiva la chat privata per impedire ai partecipanti di eseguire il ping di un altro partecipante. A tale scopo, deselezionare &quot;Consenti ai partecipanti di chattare in privato&quot; nella sezione &quot;Chat&quot; in Preferenze della stanza.
 
@@ -93,7 +93,7 @@ Per aiutarci, abbiamo compilato un elenco di best practice che possono essere ut
 
 ## Consegna {#delivery}
 
-* Esegui alcune esecuzioni per testare la tua configurazione audio/video e per conoscere Adobe Connect se non l’hai già utilizzata in precedenza. Non dimenticare di includere anche i relatori e i co-presentatori durante le prove.
+* Effettua alcune esecuzioni per testare la tua configurazione audio/video e per conoscere Adobe Connect, se non l’hai già utilizzato in precedenza. Includi i tuoi relatori e i co-host durante la prova.
 
 * Chiedere a host e relatori di arrivare almeno 30 minuti prima dell&#39;ora di inizio e assicurarsi che tutto funzioni correttamente.
    * Decidi chi modererà i pod di domande e risposte e chat.

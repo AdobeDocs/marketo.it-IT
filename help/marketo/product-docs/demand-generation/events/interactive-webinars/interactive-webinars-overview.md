@@ -3,20 +3,20 @@ description: Scopri i webinar interattivi in Marketo per un coinvolgimento live 
 title: Panoramica dei webinar interattivi
 exl-id: c454f0a5-c9c6-48a4-8bbf-e1b10dc00eec
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '556'
-ht-degree: 92%
+source-wordcount: '555'
+ht-degree: 87%
 
 ---
 
 # Panoramica dei webinar interattivi {#interactive-webinars-overview}
 
-La funzione Webinar interattivi è la piattaforma webinar incorporata all’interno di Marketo Engage. Non sono necessari strumenti o integrazioni aggiuntivi.
+La funzione dei webinar interattivi è la piattaforma integrata all’interno di Marketo Engage. Non sono necessari strumenti o integrazioni aggiuntivi.
 
 >[!IMPORTANT]
 >
->I webinar interattivi basati su Adobe Connect sono una funzione con integrazione incorporata in Adobe Connect. L’utilizzo dei webinar interattivi sarà soggetto a termini e condizioni aggiuntive. Consulta il tuo contratto o [contatta Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per richiedere informazioni sui termini e le condizioni aggiuntive.
+>I webinar interattivi basati su Adobe Connect sono una funzione con integrazione incorporata in Adobe Connect. L’utilizzo dei webinar interattivi sarà soggetto a termini e condizioni aggiuntive. Rivedi il tuo contratto o [contatta Adobe](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"} per informazioni sui termini e le condizioni aggiuntive.
 
 ## Che cosa sono i webinar interattivi? {#what-is-interactive-webinars}
 
@@ -54,7 +54,7 @@ Se il campo “nome” del lead è vuoto, il lead non può registrarsi al webina
 
 **Sto riscontrando problemi audio/video durante la presentazione di un webinar quando accedo alla VPN della mia organizzazione. Che cosa devo fare?**
 
-Adobe Connect, la piattaforma di consegna dei webinar interattivi, utilizza WebRTC per la condivisione di audio, video e schermate. È probabile che il firewall di rete dell’organizzazione stia bloccando gli indirizzi/le porte IP utilizzati per la comunicazione basata su WebRTC. Il team IT deve abilitare queste porte per consentire il corretto funziomanento di WebRTC. [Ulteriori informazioni](https://helpx.adobe.com/it/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
+Adobe Connect, la piattaforma di consegna dei webinar interattivi, utilizza WebRTC per la condivisione di audio, video e schermate. È probabile che il firewall di rete dell&#39;organizzazione stia bloccando gli indirizzi IP e le porte utilizzati per le comunicazioni basate su WebRTC. Il team IT deve abilitare queste porte per consentire il corretto funziomanento di WebRTC. [Ulteriori informazioni](https://helpx.adobe.com/it/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html){target="_blank"}.
 
 **I webinar interattivi vengono registrati automaticamente?**
 

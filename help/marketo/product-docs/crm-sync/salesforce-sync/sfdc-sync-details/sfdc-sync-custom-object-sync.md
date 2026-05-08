@@ -4,10 +4,10 @@ description: Scopri come impostare la sincronizzazione personalizzata degli ogge
 title: Sincronizzazione SFDC - Sincronizzazione oggetto personalizzato
 exl-id: e491e0bc-04a9-4e78-97c3-a25b945d546a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 3%
+source-wordcount: '291'
+ht-degree: 7%
 
 ---
 
@@ -65,7 +65,7 @@ Anche gli oggetti personalizzati creati nell&#39;istanza [!DNL Salesforce] posso
 
    >[!NOTE]
    >
-   >Non dimenticare di riattivare la sincronizzazione globale.
+   >Ricordati di riattivare la sincronizzazione globale.
 
 1. Torna alla scheda **[!UICONTROL Salesforce]**.
 
@@ -87,6 +87,6 @@ Anche gli oggetti personalizzati creati nell&#39;istanza [!DNL Salesforce] posso
 
 ### Passaggio successivo: {#whats-next}
 
-[Aggiungi/Rimuovi campo oggetto personalizzato come elenco avanzato/vincoli trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
+[Aggiungere/rimuovere campo oggetto personalizzato come vincoli di elenco avanzato/trigger](/help/marketo/product-docs/crm-sync/salesforce-sync/setup/optional-steps/add-remove-custom-object-field-as-smart-list-trigger-constraints.md){target="_blank"}
 
-Eccellente! Ora puoi utilizzare i dati di questo oggetto personalizzato nelle campagne avanzate e negli elenchi avanzati.
+Ora puoi utilizzare i dati di questo oggetto personalizzato nelle campagne avanzate e negli elenchi avanzati.

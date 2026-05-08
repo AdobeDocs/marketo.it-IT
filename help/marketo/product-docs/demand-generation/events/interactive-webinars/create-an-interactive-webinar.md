@@ -3,16 +3,16 @@ description: Scopri come creare un webinar interattivo in Marketo. Segui i passa
 title: Creare un webinar interattivo
 exl-id: 91fdede6-2e5a-4895-9893-852d0441aa2a
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '304'
 ht-degree: 2%
 
 ---
 
 # Creare un webinar interattivo {#create-an-interactive-webinar}
 
-Crea un webinar interattivo in pochi semplici passaggi.
+Crea un webinar interattivo nei passaggi seguenti.
 
 1. Vai a **Attività di marketing**.
 
@@ -30,7 +30,7 @@ Crea un webinar interattivo in pochi semplici passaggi.
 
    ![](assets/create-an-interactive-webinar-3.png)
 
-1. Fare clic sull&#39;elenco a discesa Canale e selezionare un canale contenente _Evento con webinar_ nella colonna &quot;Si applica a&quot;. In questo esempio, stiamo scegliendo **Webinar**.
+1. Fare clic sull&#39;elenco a discesa Canale e selezionare un canale contenente _Evento con webinar_ nella colonna &quot;Si applica a&quot;. In questo esempio, è selezionato **Webinar**.
 
    ![](assets/create-an-interactive-webinar-4.png)
 

@@ -4,9 +4,9 @@ description: Scopri come impostare il cognome persona e il nome società predefi
 title: Impostare cognome persona e nome azienda predefiniti
 exl-id: 0216fb41-adf0-4ccf-be22-c064e90be65a
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '137'
 ht-degree: 12%
 
 ---
@@ -31,4 +31,4 @@ ht-degree: 12%
    >
    >Marketo Engage assegna un valore predefinito solo quando il record viene inizialmente sincronizzato con Salesforce e solo se uno dei campi obbligatori è vuoto.
 
-E questo è quanto! Ogni volta che a una persona mancano un cognome e/o il nome della società, Marketo aggiungerà il valore predefinito mentre sincronizza il record.
+Ogni volta che a una persona manca un cognome o un nome società, Marketo aggiungerà il valore predefinito mentre sincronizza il record.

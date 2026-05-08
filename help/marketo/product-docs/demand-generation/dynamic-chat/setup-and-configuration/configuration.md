@@ -3,9 +3,9 @@ description: Scopri come personalizzare l’aspetto della finestra di dialogo di
 title: Configurazione
 feature: Dynamic Chat
 exl-id: 01ca6a38-4918-46b0-b0f6-1baffbb0bbaf
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '414'
 ht-degree: 2%
 
 ---
@@ -52,7 +52,7 @@ Fai clic sul menu a discesa per selezionare un suono per il visitatore ogni volt
 
 **Abilita messaggi poke su dispositivi mobili**
 
-Seleziona il cursore per abilitare &quot;Poke&quot; (Poke), che mostra la domanda di apertura accanto all’icona della chat senza che il visitatore debba fare clic su di essa per visualizzarla, per i visitatori che chattano da un dispositivo mobile.
+Seleziona il cursore per abilitare &quot;Poke&quot;, che mostra la domanda di apertura accanto all’icona della chat senza che il visitatore debba fare clic su di essa per visualizzarla, per i visitatori che chattano da un dispositivo mobile.
 
 ![](assets/configuration-6.png)
 
@@ -72,7 +72,7 @@ Fai clic sulla scheda **Privacy** per aggiungere/modificare l&#39;URL dell&#39;i
 
 ## Scheda Installazione {#installation-tab}
 
-Per far sì che il chatbot venga visualizzato sul sito web, devi innanzitutto installare lo snippet Dynamic Chat JavaScript. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il tuo team Web o il reparto IT per assistenza.
+Per far sì che il chatbot venga visualizzato sul sito web, devi innanzitutto installare lo snippet Dynamic Chat JavaScript. Fai clic su questa scheda per trovare/copiare il codice necessario. Se non conosci questa operazione, contatta il team Web o il reparto IT per assistenza.
 
 ![](assets/configuration-9.png)
 

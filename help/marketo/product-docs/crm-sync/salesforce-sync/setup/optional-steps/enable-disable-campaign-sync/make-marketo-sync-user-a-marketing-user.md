@@ -4,9 +4,9 @@ description: Scopri come rendere l’utente di sincronizzazione Marketo un utent
 title: Rendere l’utente di Marketo Sync utente di marketing
 exl-id: 2bbaf4d3-0bcf-4917-afe1-da9ae9b06a28
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '110'
 ht-degree: 16%
 
 ---
@@ -35,4 +35,4 @@ Affinché la sincronizzazione di Salesforce Campaign funzioni correttamente, l&#
 
    ![](assets/image2015-7-8-14-3a30-3a16.png)
 
-   Fantastico! Questo utente di sincronizzazione Marketo è ora un utente di marketing.
+   Questo utente di sincronizzazione Marketo è ora un utente di marketing.

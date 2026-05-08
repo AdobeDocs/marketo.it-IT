@@ -4,9 +4,9 @@ description: Scopri come i campi del lead e del proprietario dell’account veng
 title: Sincronizzazione SFDC - Sincronizzazione lead/proprietario account
 exl-id: b9effcc2-f426-4390-aef1-42f4e525b182
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '218'
 ht-degree: 2%
 
 ---
@@ -48,4 +48,3 @@ Esistono molti motivi per utilizzare questi dati, ad esempio
 * Regole di assegnazione (e riassegnazione) in Marketo
 * Utilizzali nelle azioni di flusso [Cambia proprietario](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/change-owner.md){target="_blank"}, [Sincronizza persona in SFDC](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/sync-person-to-sfdc.md){target="_blank"} e [Crea attività](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/salesforce-flow-actions/create-task.md){target="_blank"}
 
-Marketo ha sicuramente una fantastica sincronizzazione di [!DNL Salesforce]. Nessun altro lo fa così bene!

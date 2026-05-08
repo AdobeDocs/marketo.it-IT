@@ -4,10 +4,10 @@ description: Scopri come abilitare la sincronizzazione di oggetti personalizzata
 title: Abilitare la sincronizzazione oggetti personalizzati non inglese
 exl-id: 5d1c5b52-5323-4f68-847b-7d24e6acd6c4
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 7%
+source-wordcount: '158'
+ht-degree: 8%
 
 ---
 
@@ -61,4 +61,4 @@ Se l&#39;utente di Marketo Sync è impostato su una lingua diversa dall&#39;ingl
 
 >[!NOTE]
 >
->Non dimenticare di aggiornare lo schema un&#39;ultima volta per richiamare gli oggetti nella lingua.
+>Aggiorna lo schema un&#39;ultima volta per richiamare gli oggetti nella lingua.

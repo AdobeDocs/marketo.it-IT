@@ -3,9 +3,9 @@ description: Scopri come personalizzare i webinar interattivi in Marketo. Config
 title: Personalizzazione dei webinar interattivi
 feature: Interactive Webinars
 exl-id: 52933cb6-7bce-4c81-ba3f-68eaf211e8eb
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '770'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -141,4 +141,4 @@ Seleziona **Applica** per salvare le modifiche o **Ripristina impostazioni prede
 
 * Gli host possono scegliere i temi durante la creazione della room o aggiornarli in un secondo momento dalla pagina delle informazioni sulla room (**Barra superiore della room** > **Altro menu** > **Visualizza informazioni sulla room**).
 
-Ulteriori informazioni su [Temi](https://helpx.adobe.com/it/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.
+Ulteriori informazioni su [Temi](https://helpx.adobe.com/adobe-connect/connect-central-admin/connect-central-ui-customization-basics.html){target="_blank"}.

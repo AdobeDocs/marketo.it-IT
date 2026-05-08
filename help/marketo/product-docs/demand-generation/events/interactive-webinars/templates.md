@@ -3,16 +3,16 @@ description: Scopri come creare e implementare modelli nei webinar interattivi. 
 title: Modelli per webinar interattivi
 feature: Interactive Webinars
 exl-id: 779deab6-f257-4002-904b-80d20bb73e3e
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '310'
 ht-degree: 6%
 
 ---
 
 # Modelli per webinar interattivi {#templates-for-interactive-webinars}
 
-Crea modelli facili da usare nei webinar interattivi per produrre contenuti più rapidamente e rimanere in linea con le linee guida del marchio quando lavori su un team.
+Crea modelli riutilizzabili nei webinar interattivi per produrre contenuti più rapidamente e rimanere in linea con le linee guida del brand quando lavori su un team.
 
 ## Concedere le autorizzazioni {#grant-permissions}
 
@@ -106,7 +106,7 @@ Per modificare un modello esistente, effettua le seguenti operazioni.
 
    ![](assets/templates-for-interactive-webinars-19.png)
 
-1. Viene visualizzata una nuova scheda. Per modificare il modello, è necessario immettere una room. Poiché non si tratta di una vera e propria sala webinar, non è necessario effettuare selezioni audio/video. Fare clic su **Entra nella room**.
+1. Viene visualizzata una nuova scheda. Per modificare il modello, è necessario accedere a una room. Poiché non si tratta di una vera e propria sala webinar, non è necessario effettuare selezioni audio/video. Fare clic su **Entra nella room**.
 
    ![](assets/templates-for-interactive-webinars-20.png)
 

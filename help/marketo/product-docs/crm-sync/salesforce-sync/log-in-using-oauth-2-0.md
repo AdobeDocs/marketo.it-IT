@@ -3,9 +3,9 @@ description: Scopri come collegare Marketo e Salesforce utilizzando OAuth 2.0. C
 title: Accedere utilizzando OAuth 2.0
 exl-id: 0a70505d-d2b8-4dc9-ad11-decc86588f7f
 feature: Salesforce Integration
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '641'
 ht-degree: 3%
 
 ---
@@ -72,11 +72,11 @@ Salesforce utilizza il protocollo OAuth per consentire agli utenti delle applica
 >* L&#39;utente di Marketo Sync deve essere creato in Salesforce.
 >* Per i clienti esistenti, la funzione &quot;Abilita OAuth per la sincronizzazione con SFDC&quot; è abilitata nell’abbonamento del cliente.
 >* Blocchi popup disattivati.
->* L&#39;app connessa è stata creata e sono disponibili [!UICONTROL Consumer Key] e [!UICONTROL Consumer Secret].
+>* L&#39;app connessa è stata creata e [!UICONTROL Consumer Key] e [!UICONTROL Consumer Secret] sono disponibili per l&#39;uso.
 
 >[!CAUTION]
 >
->Prima di fare clic su **[!UICONTROL Sync Fields]**, accertarsi di nascondere all&#39;utente di sincronizzazione tutti i campi non necessari in Marketo. Dopo aver fatto clic su Sincronizza campi, tutti i campi che l’utente può visualizzare in SFDC verranno creati in Marketo in modo permanente e non potranno essere eliminati.
+>Nascondere tutti i campi non necessari in Marketo dall&#39;utente di sincronizzazione prima di fare clic su **[!UICONTROL Sync Fields]**. Dopo aver fatto clic su Sincronizza campi, tutti i campi che l’utente può visualizzare in SFDC verranno creati in Marketo in modo permanente e non potranno essere eliminati.
 
 1. Nella sezione Amministrazione di Marketo, fare clic su **[!UICONTROL CRM]**, quindi su **[!UICONTROL Sync with Salesforce]**.
 

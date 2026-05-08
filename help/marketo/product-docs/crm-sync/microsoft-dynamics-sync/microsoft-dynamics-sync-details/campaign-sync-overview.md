@@ -3,7 +3,7 @@ description: Scopri la sincronizzazione delle campagne tra Microsoft Dynamics e 
 title: Panoramica sulla sincronizzazione della campagna
 exl-id: d9b748e9-3e0c-40bc-937a-99160aead081
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 4%
@@ -36,7 +36,7 @@ I trigger verranno eseguiti in base alle azioni dell&#39;azione di flusso di Mar
 
 >[!NOTE]
 >
->Verificare che la sincronizzazione della campagna sia funzionante e che la campagna non sia inattiva in Microsoft [!DNL Dynamics].
+>Verificare che Campaign Sync sia funzionante e che la campagna non sia inattiva in Microsoft [!DNL Dynamics].
 
 >[!MORELIKETHIS]
 >

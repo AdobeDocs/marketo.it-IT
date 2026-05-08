@@ -4,9 +4,9 @@ description: Scopri come aggiungere LinkedIn tipi di pubblico corrispondenti com
 title: 'Aggiungi [!DNL LinkedIn] tipi di pubblico corrispondenti come servizio [!DNL LaunchPoint] '
 exl-id: 82096b19-aae9-4086-8fb4-defc5481d382
 feature: Integrations
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '211'
 ht-degree: 2%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 2%
 
 >[!IMPORTANT]
 >
->LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni LinkedIn di Marketo Engage. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024. Per ulteriori informazioni, consulta le [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
+>LinkedIn sta aggiornando le API di marketing utilizzate dalle integrazioni LinkedIn di Marketo Engage. Per evitare interruzioni del servizio, queste modifiche richiederanno la riautenticazione di tutti i servizi LinkedIn LaunchPoint nel menu **Amministratore** > **LaunchPoint** tra il 7 giugno e il 15 dicembre 2024. Per ulteriori informazioni, vedere [Domande frequenti sulla migrazione](https://nation.marketo.com/t5/employee-blogs/linkedin-re-authentication-required/ba-p/347794){target="_blank"}.
 
 >[!NOTE]
 >
@@ -59,7 +59,7 @@ Connetti il tuo account Marketo con [!DNL LinkedIn] tipi di pubblico corrisponde
 
    ![](assets/image2018-2-23-14-3a35-3a55.png)
 
-   Fantastico! Ora nella scheda Servizi installati vengono visualizzati [!DNL LinkedIn] tipi di pubblico corrispondenti elencati come servizio [!DNL LaunchPoint].
+   [!DNL LinkedIn] tipi di pubblico corrispondenti è ora elencato come servizio [!DNL LaunchPoint] nella scheda Servizi installati.
 
    ![](assets/bartholomew2.png)
 

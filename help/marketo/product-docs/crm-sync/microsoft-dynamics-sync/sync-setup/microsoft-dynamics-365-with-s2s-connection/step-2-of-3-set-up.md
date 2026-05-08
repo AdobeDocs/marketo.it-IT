@@ -4,9 +4,9 @@ description: Scopri come impostare la soluzione Marketo con la connessione serve
 title: 'Passaggio 2 di 3: configurare la soluzione Marketo con connessione server-server'
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 
 >[!CAUTION]
 >
->Accertati di prendere nota del valore Segreto client (visualizzato nella schermata seguente), come sarà necessario in seguito. Viene visualizzato una sola volta e non sarà più possibile recuperarlo.
+>Nota il valore Segreto client (visualizzato nella schermata seguente), in quanto viene visualizzato una sola volta e non può essere recuperato di nuovo.
 
 ![](assets/step-2-of-3-set-up-marketo-sync-user-in-dynamics-s2s-4.png)
 
@@ -51,18 +51,18 @@ ht-degree: 0%
 
    >[!IMPORTANT]
    >
-   >* Quando si assegnano le autorizzazioni all&#39;utente dell&#39;applicazione, assicurarsi di assegnarle al &quot;Ruolo utente di Marketo Sync&quot;.
+   >* Assegnare le autorizzazioni all&#39;utente dell&#39;applicazione a &quot;Marketo Sync User Role&quot; (Ruolo utente di sincronizzazione).
    >* Prendere nota dell&#39;indirizzo di posta elettronica dell&#39;utente dell&#39;applicazione dall&#39;opzione [visualizza dettagli](https://docs.microsoft.com/en-us/power-platform/admin/manage-application-users#view-or-edit-the-details-of-an-application-user) in Power Platform. Questo indirizzo e-mail verrà utilizzato come nome utente durante la configurazione della connessione a MS [!DNL Dynamics] in Marketo.
 
 ## [!DNL Azure AD] federato con [!DNL AD FS On-prem] {#azure-ad-federated-with-ad-fs-on-prem}
 
 Per il Federated [!DNL Azure AD] in [!DNL ADFS Onprem] è necessaria la creazione di un criterio di individuazione del realm home per l&#39;applicazione specifica. Con questo criterio, [!DNL Azure AD] reindirizzerà la richiesta di autenticazione al servizio federativo. La sincronizzazione hash password deve essere abilitata in [!DNL AD Connect] per questo. Per ulteriori informazioni, vedere [[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=Questo%20report%20include%20include%20federated,sono%20federated%20to%20Azure%20AD.){target="_blank"}.
+Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Configurare la soluzione Marketo {#configure-marketo-solution}
 
-Ci siamo quasi! Tutto ciò che ci rimane è informare Marketo Solution sul nuovo utente creato.
+Un ultimo passaggio: informare la soluzione Marketo del nuovo utente creato.
 
 1. Torna alla sezione [!UICONTROL Advanced Settings] e fai clic sull&#39;icona ![](assets/image2015-5-13-15-3a49-3a19.png) accanto a [!UICONTROL Settings], quindi seleziona **[!UICONTROL Marketo Config]**.
 

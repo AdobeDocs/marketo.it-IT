@@ -4,9 +4,9 @@ description: Scopri come registrare un’app con Azure per ottenere l’ID clien
 title: Registrare un’app con Azure per acquisire l’ID client/ID app
 exl-id: 006cd130-a2fc-41ce-b5ee-890ef6167b34
 feature: Microsoft Dynamics
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '318'
 ht-degree: 8%
 
 ---
@@ -84,6 +84,5 @@ Azure Active Directory estende le directory locali nel cloud, fornendo il suppor
 
    ![](assets/fourteen.png)
 
-   E hai finito!
 
    ![](assets/fifteen.png)

@@ -3,7 +3,7 @@ description: Scopri come modificare i campi da sincronizzare in Marketo prima di
 title: Modifica dei campi da sincronizzare prima di eliminarli in Dynamics
 exl-id: 6fa9f6c0-c69d-478f-b333-13a5c910f577
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 5%

@@ -3,9 +3,9 @@ description: Scopri come collegare Marketo Engage a Veeva CRM nel passaggio fina
 title: Passaggio 3 di 3 - Connessione a Marketo Engage e  [!DNL Veeva] CRM
 exl-id: aff91540-1d9d-448c-aae9-e6fa92a8ae01
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '319'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ In questo articolo configurerai Marketo Engage per la sincronizzazione con l&#39
 
    >[!NOTE]
    >
-   >Assicurarsi di [nascondere tutti i campi non necessari](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo dall&#39;utente sincronizzato prima di fare clic su Sincronizza campi. Dopo aver fatto clic su Sincronizza campi, tutti i campi visualizzati dall&#39;utente verranno creati in Marketo in modo permanente e non potranno essere eliminati.
+   >[Nascondi tutti i campi non necessari](/help/marketo/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/hide-a-salesforce-field-from-the-marketo-sync.md){target="_blank"} in Marketo dall&#39;utente di sincronizzazione prima di fare clic su Sincronizza campi. Dopo aver fatto clic su Sincronizza campi, tutti i campi visualizzati dall&#39;utente verranno creati in Marketo in modo permanente e non potranno essere eliminati.
 
 1. Fai clic su **[!UICONTROL Login with Veeva]**.
 
@@ -57,7 +57,7 @@ In questo articolo configurerai Marketo Engage per la sincronizzazione con l&#39
 
    ![](assets/step-3-of-3-connect-marketo-engage-6.png)
 
-1. In pochi minuti verrà visualizzato un pop-up in Marketo Engae. Fai clic su **[!UICONTROL Confirm Credentials]**.
+1. Tra pochi minuti verrà visualizzato un pop-up in Marketo Engage. Fai clic su **[!UICONTROL Confirm Credentials]**.
 
    ![](assets/step-3-of-3-connect-marketo-engage-7.png)
 

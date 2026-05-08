@@ -3,9 +3,9 @@ description: Scopri come gestire utenti e licenze per i webinar interattivi. Ass
 title: Gestione di utenti e licenze
 exl-id: 1fee628b-e9f3-46ab-b993-f2d09fe5e183
 feature: Interactive Webinars
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '734'
+source-wordcount: '733'
 ht-degree: 2%
 
 ---
@@ -102,9 +102,9 @@ I webinar interattivi offrono licenze specifiche per la creazione di eventi basa
 
 * Ogni volta che viene creato un evento, esso viene conteggiato come &quot;consumato&quot; dalla rispettiva licenza (a meno che non si tratti di una licenza per sala condivisa). La preferenza viene data a &quot;Shared Event License&quot; se sono presenti sia &quot;Shared Event License&quot; che &quot;Shared Room License&quot; della stessa capacità. Se l&#39;evento non è stato consegnato e il programma eventi viene eliminato prima dell&#39;ora pianificata, il conteggio degli eventi viene rifornito. Se l&#39;evento non viene consegnato e il programma eventi non viene eliminato prima dell&#39;ora pianificata, l&#39;evento non viene rifornito.
 
-* Il tipo &quot;Licenza di archiviazione aggiuntiva&quot; fornisce solo l&#39;archiviazione, pertanto il valore in ogni campo _oltre_ Capacità di archiviazione verrà elencato semplicemente come &quot;-&quot;.
+* Il tipo &quot;Licenza di archiviazione aggiuntiva&quot; fornisce solo spazio di archiviazione, pertanto il valore in ogni campo _oltre_ Capacità di archiviazione verrà elencato come &quot;-&quot;.
 
-* Il tipo &quot;Shared Room License&quot; ha eventi illimitati e &quot;Additional Storage License&quot; fornisce solo storage, pertanto il campo Total Events (Eventi totali) per queste licenze verrà elencato semplicemente come &quot;-&quot;.
+* Il tipo &quot;Shared Room License&quot; ha eventi illimitati e &quot;Additional Storage License&quot; fornisce solo storage, pertanto il campo Eventi totali per queste licenze sarà elencato come &quot;-&quot;.
 
 * Una volta esaurita la licenza, il riquadro rimane nella schermata Webinar interattivi della sezione Amministratore con &quot;Eventi totali&quot; e &quot;Eventi consumati&quot; che hanno lo stesso valore. La licenza verrà rimossa dalla schermata solo alla scadenza.
 

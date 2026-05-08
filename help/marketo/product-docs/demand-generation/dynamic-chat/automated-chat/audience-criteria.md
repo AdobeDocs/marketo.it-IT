@@ -3,7 +3,7 @@ description: Scopri i criteri di pubblico per il targeting di chi visualizza le 
 title: Criteri di audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '598'
 ht-degree: 1%
@@ -22,7 +22,7 @@ La priorità determina quale finestra di dialogo riceve un lead nel caso in cui 
 
 ## Eventi {#events}
 
-Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimento o alla durata della loro presenza sulla pagina/sito. Nell’esempio seguente, eseguiamo il targeting dei visitatori che si trovano su una pagina specifica da più di 20 secondi.
+Gli eventi consentono di indirizzare i visitatori in base al livello di scorrimento o alla durata della pagina o del sito. Nell’esempio seguente, la configurazione esegue il targeting dei visitatori che si trovano su una pagina specifica da più di 20 secondi.
 
 1. Acquisisci l&#39;evento **[!UICONTROL Time on Page]** e trascinalo a destra.
 
@@ -40,13 +40,13 @@ Gli eventi consentono di indirizzare i visitatori in base al numero di scorrimen
 
 **Persone note**
 
-Sono disponibili _molte_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, il targeting riguarda tutte le persone note in California che lavorano in un’azienda con più di 50 dipendenti.
+Sono disponibili _molte_ combinazioni di attributi tra cui scegliere. Nell’esempio seguente, la configurazione di esegue il targeting per tutte le persone note in California che lavorano in un’azienda con più di 50 dipendenti.
 
 1. Acquisire l&#39;attributo **[!UICONTROL Person State]** e trascinarlo verso destra.
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_&#x200B;è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _[!UICONTROL Is]_è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-8.png)
 
@@ -68,7 +68,7 @@ Sono disponibili _molte_ combinazioni di attributi tra cui scegliere. Nell’ese
 
 **Persone anonime**
 
-Esiste un modo semplice per eseguire il targeting specifico delle persone che non sono ancora presenti nel database. In questo esempio, il targeting riguarda tutte le persone anonime che si trovano nell&#39;area di New York.
+I seguenti elementi sono destinati a utenti che non sono ancora presenti nel database. In questo esempio, la configurazione esegue il targeting per tutte le persone anonime che si trovano nell’area di New York.
 
 1. Acquisire l&#39;attributo **[!UICONTROL Person Email]** e trascinarlo verso destra.
 
@@ -84,9 +84,9 @@ Esiste un modo semplice per eseguire il targeting specifico delle persone che no
 
    >[!NOTE]
    >
-   >Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. Cerchiamo il loro IP in un database speciale e deduciamo tutti i tipi di buone informazioni.
+   >Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. L’indirizzo IP viene ricercato in un database speciale per dedurre la posizione e altre informazioni.
 
-1. _[!UICONTROL Is]_&#x200B;è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _[!UICONTROL Is]_è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-15.png)
 
@@ -96,7 +96,7 @@ Utilizza gli elenchi avanzati di Marketo Engage per il pubblico di destinazione 
 
 >[!AVAILABILITY]
 >
->Il membro di un elenco avanzato o il criterio Membro di un elenco richiede Dynamic Chat Prime. Per ulteriori informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
+>Il membro di un elenco avanzato o il criterio Membro di un elenco richiede Dynamic Chat Prime. Per informazioni, contatta il team dell’account di Adobe (il tuo Account Manager).
 
 1. In Appartenenza, acquisire **[!UICONTROL Member of Smart List]** e rilasciarlo sull&#39;area di lavoro.
 

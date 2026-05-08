@@ -3,9 +3,9 @@ description: Scopri come configurare l’app client su Microsoft Dynamics per la
 title: Passaggio 3 di 4 - Configurare l'app client in MS [!DNL Dynamics]
 exl-id: e7897174-3303-4c3b-8832-3e10f34fca96
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '374'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 1. Segui tutti i passaggi. Per il passaggio 3, immettere il nome di un&#39;applicazione pertinente, ad esempio &quot;[!DNL Marketo Integration]&quot;. In Tipi di account supportati, seleziona Account solo in questa directory organizzativa.
 
-1. Annotare l&#39;ID applicazione (ClientId). Sarà necessario immetterlo in Marketo in un secondo momento.
+1. Annotare l&#39;ID applicazione (ClientId). Immettilo in Marketo in un secondo momento.
 
 1. Concedi il consenso all&#39;amministratore seguendo i passaggi descritti in [questo articolo](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/grant-consent-for-client-id-and-app-registration.md){target="_blank"}.
 
@@ -39,7 +39,7 @@ ht-degree: 0%
 
    >[!CAUTION]
    >
-   >Accertati di prendere nota del valore Segreto client (visualizzato nella schermata seguente), come sarà necessario in seguito. Viene visualizzato una sola volta e non sarà più possibile recuperarlo.
+   >Nota il valore Segreto client (visualizzato nella schermata seguente), in quanto viene visualizzato una sola volta e non può essere recuperato di nuovo.
 
    ![](assets/step-3-of-4-set-up-client-app-ms-dynamics-ropc-4.png)
 
@@ -47,7 +47,7 @@ ht-degree: 0%
 
 Per federare [!DNL Azure] AD a [!DNL ADFS Onprem] è necessario creare un criterio di individuazione del realm home per l&#39;applicazione specifica. Con questo criterio, [!DNL Azure] AD reindirizzerà la richiesta di autenticazione al servizio federativo. La sincronizzazione hash password deve essere abilitata in [!DNL AD Connect] per questo. Per ulteriori informazioni, vedere [[!DNL OAuth] with [!DNL ROPC]](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc) e [Set an hrd policy for an application](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/configure-authentication-for-federated-users-portal#example-set-an-hrd-policy-for-an-application).
 
-Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=Questo%20report%20include%20include%20federated,sono%20federated%20to%20Azure%20AD.){target="_blank"}.
+Ulteriori riferimenti [sono disponibili qui](https://docs.microsoft.com/en-us/azure/active-directory/reports-monitoring/concept-all-sign-ins#:~:text=Interactive%20user%20sign%2Dins%20are,as%20the%20Microsoft%20Authenticator%20app.&text=This%20report%20also%20includes%20federated,are%20federated%20to%20Azure%20AD.){target="_blank"}.
 
 ## Prima di procedere al punto 4 {#before-proceeding-to-step-4}
 

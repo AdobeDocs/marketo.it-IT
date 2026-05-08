@@ -4,9 +4,9 @@ description: Scopri come pubblicare le pagine di destinazione di Marketo su Face
 title: Pubblicare pagine di destinazione su Facebook
 exl-id: 42ba4136-3538-4eef-b794-3fce7e9fb8e5
 feature: Integrations
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '293'
+source-wordcount: '292'
 ht-degree: 1%
 
 ---
@@ -57,7 +57,7 @@ Se stai lanciando un nuovo libro, potresti raggiungere parte del tuo pubblico tr
    >
    >Per sostituire le pagine di destinazione di Marketo pubblicate in precedenza in [!DNL Facebook], selezionare **[!UICONTROL Replace Existing Tab]** e scegliere la scheda da sostituire dall&#39;elenco a discesa. Tieni presente che queste non sostituiranno le schede non Marketo.
 
-1. I lead possono ora visitare la pagina di destinazione direttamente sulla pagina [!DNL Facebook]. Fai clic sul nome della scheda sotto l’immagine di copertina.
+1. I lead possono ora visitare la pagina di destinazione direttamente sulla pagina [!DNL Facebook]. Fai clic sul nome della scheda sotto l&#39;immagine di copertina.
 
    ![](assets/image2015-4-22-18-3a42-3a15.png)
 

@@ -3,7 +3,7 @@ description: Scopri come riconfigurare il metodo di autenticazione Dynamics in M
 title: Riconfigura [!DNL Dynamics] Metodo di autenticazione
 exl-id: 2bd6a992-3dfd-4e91-bec5-9fb3f7bbb840
 feature: Microsoft Dynamics
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 2%
@@ -37,7 +37,7 @@ Per aggiornare il metodo di autenticazione [!DNL Dynamics], attenersi alla proce
 
    ![](assets/reconfigure-dynamics-authentication-method-3.png)
 
-1. Seleziona il nuovo metodo di autenticazione desiderato (in questo esempio stiamo scegliendo API web).
+1. Seleziona il nuovo metodo di autenticazione desiderato (in questo esempio, è selezionata l’opzione API web ).
 
    ![](assets/reconfigure-dynamics-authentication-method-4.png)
 
@@ -48,7 +48,7 @@ Per aggiornare il metodo di autenticazione [!DNL Dynamics], attenersi alla proce
    >[!NOTE]
    >
    >* I campi specifici variano a seconda del metodo di autenticazione scelto e il modulo viene aggiornato automaticamente a seconda del metodo di autenticazione precedente.
-   >* Se hai eseguito la sincronizzazione in precedenza, i dati nel modulo di cui sopra potrebbero essere precompilati. Immetti nuovamente tutte le credenziali per garantire i valori corretti.
+   >* Se hai eseguito la sincronizzazione in precedenza, i dati nel modulo di cui sopra potrebbero essere precompilati. Immetti di nuovo tutte le credenziali per garantire i valori corretti.
 
 1. Se tutto funziona correttamente, la sincronizzazione di convalida genererà tutti i segni di spunta verdi ![](assets/green-check.png). Rivedere il messaggio e fare clic su **[!UICONTROL Switch]** per aggiornare il metodo di autenticazione.
 

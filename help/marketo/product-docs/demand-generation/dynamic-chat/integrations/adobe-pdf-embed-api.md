@@ -3,16 +3,16 @@ description: Scopri come impostare l’API di incorporamento di Adobe PDF per la
 title: API Adobe PDF Embed
 feature: Dynamic Chat
 exl-id: 27482f55-1bd1-423c-9154-f650532ff1e5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '149'
 ht-degree: 6%
 
 ---
 
 # API Adobe PDF Embed {#adobe-pdf-embed-api}
 
-La scheda Documento consente di incorporare i documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti. Ecco come configurarlo.
+La scheda Documento consente di incorporare i documenti PDF nelle finestre di dialogo e di tenere traccia dell’attività di coinvolgimento dei visitatori nei documenti. Segui questi passaggi per configurarlo.
 
 1. Passa a [API di incorporamento Adobe PDF](https://udp.adobe.io/document-services/apis/pdf-embed/){target="_blank"}.
 
@@ -30,7 +30,7 @@ La scheda Documento consente di incorporare i documenti PDF nelle finestre di di
 
    >[!IMPORTANT]
    >
-   >Dovrai utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, assicurati di immetterlo nel passaggio 4).
+   >Devi utilizzare il dominio in cui ospiterai il chatbot (ad esempio, se ospiti il chatbot su mycompany.com, immetti tale dominio nel passaggio 4).
 
 1. Fai clic su **[!UICONTROL Copy]** per copiare l&#39;ID client.
 

@@ -4,9 +4,9 @@ description: Scopri come aggiungere o rimuovere campi oggetto personalizzati di 
 title: Aggiungere/rimuovere campo oggetto personalizzato come vincoli di elenco avanzato/trigger
 exl-id: 639e73eb-9a8c-4b10-8e97-892abf5c5db0
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '187'
 ht-degree: 12%
 
 ---
@@ -61,7 +61,7 @@ Marketo Engage offre un controllo dettagliato sulla sincronizzazione personalizz
 
    >[!NOTE]
    >
-   >Non dimenticare di riattivare la sincronizzazione globale.
+   >Ricordati di riattivare la sincronizzazione globale.
 
 Ora i tuoi elenchi avanzati e le campagne avanzate hanno ancora più potenza.
 

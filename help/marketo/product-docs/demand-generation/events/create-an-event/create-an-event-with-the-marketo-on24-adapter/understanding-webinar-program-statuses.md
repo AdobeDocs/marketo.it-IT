@@ -4,9 +4,9 @@ description: Scopri gli stati del programma del webinar nell’integrazione di O
 title: Informazioni sullo stato dei programmi per webinar
 exl-id: ef0b1b94-a612-4aa8-9b4a-aa7ef0e2abaa
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '426'
 ht-degree: 1%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 1%
 
 Gli stati del programma rappresentano i diversi stati dell’evento che una persona sviluppa come membro dell’evento. Sono associati a un tipo di canale. Marketo ha un tipo di canale integrato denominato **Webinar**. Gli stati possono essere utilizzati sia nelle campagne batch che in quelle attivate.
 
-Le persone passano da uno stato all’altro del programma in modo lineare e non tornano indietro nello stato. Ad esempio, una persona con lo stato di **Partecipato** non può tornare a **Registrato**.
+Le persone passano da uno stato all’altro del programma in modo lineare e non tornano indietro nello stato. Ad esempio, una persona con lo stato di **Partecipazione avvenuta** non può tornare a **Registrazione**.
 
 Segue una breve descrizione degli stati del programma associati al canale del webinar.
 
@@ -51,7 +51,7 @@ Segue una breve descrizione degli stati del programma associati al canale del we
 
 >[!NOTE]
 >
->Affinché Marketo possa richiamare lo stato No Show, le persone devono essere state registrate *in Marketo*. Non è possibile acquisire alcun programma proveniente dal feed di dati On24.
+>Affinché Marketo possa richiamare lo stato No Show, le persone devono essere state registrate *in Marketo*. No Non è possibile acquisire i dati provenienti dal feed di dati On24.
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Scopri come creare un nuovo programma per eventi in Marketo. Config
 title: Creare un nuovo programma evento
 exl-id: 095d59d7-a4d7-4e0a-b34b-7d25074e6959
 feature: Events
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 8%
 
 ---
@@ -39,7 +39,7 @@ Eventi consente di automatizzare gli eventi online e offline. Acquisisci lo stat
 
    ![](assets/image2015-2-26-14-3a33-3a17.png)
 
-   Ta-da! Il nuovo evento verrà ora visualizzato nella struttura.
+   Il nuovo evento verrà ora visualizzato nella struttura.
 
    ![](assets/image2015-2-26-14-3a34-3a33.png)
 

@@ -3,7 +3,7 @@ description: Scopri come aggiungere o rimuovere i campi oggetto personalizzati d
 title: Aggiungere/rimuovere campo oggetto personalizzato come vincoli di elenco avanzato/trigger
 exl-id: b01923be-c307-4788-afb9-0eb4eb018a6d
 feature: Veeva CRM
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 13%
@@ -52,7 +52,7 @@ Marketo Engage fornisce un controllo specifico sulla sincronizzazione degli ogge
 
 >[!IMPORTANT]
 >
->Non dimenticare di riattivare la sincronizzazione globale.
+>Ricordati di riattivare la sincronizzazione globale.
 
 Ora i tuoi elenchi avanzati e le campagne avanzate hanno ancora più potenza.
 

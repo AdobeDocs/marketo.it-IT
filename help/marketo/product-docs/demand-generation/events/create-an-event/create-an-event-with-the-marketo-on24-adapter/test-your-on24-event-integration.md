@@ -4,9 +4,9 @@ description: Scopri come testare l’integrazione dell’evento ON24 con Marketo
 title: Testare l’integrazione di un evento ON24
 exl-id: 8326b81e-abf7-4615-9a0b-b0a579be8bb8
 feature: Events
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '192'
 ht-degree: 5%
 
 ---
@@ -28,7 +28,7 @@ Verifica a fondo l’integrazione dell’evento.
 
 ## Dopo l’evento {#after-the-event}
 
-Ecco come vengono aggiornati i dati dopo lo svolgimento dell’evento:
+Di seguito viene descritto come i dati vengono aggiornati dopo lo svolgimento dell’evento:
 
 * Marketo recupera i dati dei partecipanti da ON24 ogni notte.
 * Una volta sincronizzati i dati dei partecipanti tra Marketo e ON24, Marketo aggiorna lo stato di iscrizione a [!UICONTROL Attended], [!UICONTROL Attended On-demand] o [!UICONTROL No Show]. Nella scheda **[!UICONTROL Summary]** dell&#39;evento, lo stato dell&#39;evento è aggiornato a **[!UICONTROL Event Complete]**.

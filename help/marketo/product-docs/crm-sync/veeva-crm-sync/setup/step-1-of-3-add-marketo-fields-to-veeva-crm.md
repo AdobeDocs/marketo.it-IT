@@ -3,9 +3,9 @@ description: Scopri come aggiungere campi Marketo a Veeva CRM prima della connes
 title: Passaggio 1 di 3 - Aggiungere campi Marketo a  [!DNL Veeva] CRM
 exl-id: a9a59e76-a7a4-4391-8169-922bd6acfb6d
 feature: Veeva CRM
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 8%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 8%
 >
 >L&#39;istanza di CRM [!DNL Veeva] deve avere accesso alle API di Salesforce per sincronizzare i dati tra Marketo Engage e il CRM [!DNL Veeva].
 
-Marketo Engage utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in [!DNL Veeva] CRM, segui le istruzioni riportate di seguito.
+Marketo Engage utilizza un set di campi per acquisire determinati tipi di informazioni di marketing. Se desideri questi dati in [!DNL Veeva] CRM, segui le istruzioni seguenti.
 
 1. Crea un campo personalizzato nel CRM [!DNL Veeva] sugli oggetti contatto: Punteggio
 1. Se necessario, puoi creare campi aggiuntivi (vedi la tabella seguente).
