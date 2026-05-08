@@ -82,7 +82,7 @@ Nella parte inferiore della scheda Impostazioni, personalizzare il trigger Conve
 
 >[!TIP]
 >
->Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/){target="_blank"} in azione.
+>Visualizza [Conversazioni SDK](https://experienceleague.adobe.com/tools/marketo-dynamic-chatbot/conversations-sdk/?lang=it){target="_blank"} in azione.
 
 >[!MORELIKETHIS]
 >
