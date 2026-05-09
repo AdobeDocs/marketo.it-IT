@@ -246,7 +246,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr>
   <tr>
    <td colspan="1"><strong>Tracciamento dominio personalizzato</strong></td>
-   <td colspan="1">Utilizzo di un dominio con marchio aziendale per il tracciamento dei collegamenti e-mail e di <strong>URL della pagina di destinazione</strong> invece del dominio Marketo predefinito, migliorando la coerenza del marchio e la consegna delle e-mail <strong>2}.</strong></td>
+   <td colspan="1">Utilizzo di un dominio con marchio aziendale per il tracciamento dei collegamenti e-mail e di <strong>URL della pagina di destinazione</strong> invece del dominio Marketo predefinito, migliorando la coerenza del marchio e la consegna delle e-mail <strong>2&rbrace;.</strong></td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Pubblico personalizzato</a></strong></td>
@@ -921,7 +921,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr>
   <tr>
    <td colspan="1"><strong>Elenco seed</strong></td>
-   <td colspan="1">Elenco di indirizzi e-mail interni o di test aggiunti a un invio di campagna per verificare il recapito dell'e-mail <strong>1} e il rendering tra diversi client e-mail prima o insieme a un invio di un pubblico completo.</strong></td>
+   <td colspan="1">Elenco di indirizzi e-mail interni o di test aggiunti a un invio di campagna per verificare il recapito dell'e-mail <strong>1&rbrace; e il rendering tra diversi client e-mail prima o insieme a un invio di un pubblico completo.</strong></td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">Segmento</a></strong></td>
