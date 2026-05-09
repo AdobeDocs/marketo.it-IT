@@ -2,12 +2,11 @@
 description: Scopri come visualizzare l’elenco dei modelli come altro utente quando sei un amministratore. Utilizzare Visualizza come per visualizzare i modelli di un altro utente.
 title: Visualizzare l’elenco modelli come altro utente
 hide: true
-hidefromtoc: true
 exl-id: c0d8d0c4-17a1-4f0e-86f2-a0d19fab5d36
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '86'
 ht-degree: 18%
 
 ---

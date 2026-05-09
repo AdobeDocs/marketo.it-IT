@@ -4,9 +4,8 @@ description: Scopri come abilitare la compilazione di moduli social per consenti
 title: Abilitare la compilazione di un modulo di contatto in un modulo
 exl-id: 0ca4941c-dbad-477b-b9c1-387876615c33
 hide: true
-hidefromtoc: true
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 14%

@@ -2,10 +2,9 @@
 description: Scopri come impostare la connessione Marketo per le azioni Sales Insight. Connettiti da Marketo Admin per abilitare le azioni per la tua istanza.
 title: Configurare la connessione Marketo
 hide: true
-hidefromtoc: true
 exl-id: f38272b1-a6dc-4d98-b6c1-e432c75b87c6
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 5%

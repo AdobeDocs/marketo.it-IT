@@ -2,10 +2,9 @@
 description: Scopri come aggiungere contatti a una campagna di marketing Marketo dalle azioni di Sales Insight. Seleziona i contatti e aggiungili alla campagna.
 title: Aggiungere alla campagna di marketing
 hide: true
-hidefromtoc: true
 exl-id: de9c6896-8a7e-4388-b03b-fec5cc14cb92
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 5%

@@ -3,10 +3,9 @@ unique-page-id: 2360352
 description: Imposta la chiave di crittografia API SOAP e ottieni i dettagli dell’endpoint in Admin Web Services per gli sviluppatori.
 title: Configurare le impostazioni API di SOAP
 hide: true
-hidefromtoc: true
 exl-id: a848f5c5-b3ca-40cc-9202-467f26d3916f
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 22%

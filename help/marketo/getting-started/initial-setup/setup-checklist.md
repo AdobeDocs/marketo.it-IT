@@ -6,10 +6,10 @@ hide: true
 hidefromtoc: true
 exl-id: 397093f8-9daf-468a-adca-acd94303ebe8
 feature: Getting Started
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 0%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -30,11 +30,11 @@ Benvenuto in Marketo. Puoi utilizzare il seguente elenco di controllo come elenc
 1. Chiedi al reparto IT di creare un record DNS per il CNAME della pagina di destinazione
 1. Al termine dell’IT, imposta il nome di dominio della pagina di destinazione in Marketo
 
-## Garantire il recapito dei messaggi e-mail {#ensure-email-deliverability}
+## Assicurare la recapitabilità delle e-mail {#ensure-email-deliverability}
 
 1. Seleziona un CNAME e-mail per i collegamenti di tracciamento con brand
 1. Chiedi al reparto IT di impostare un record DNS per il CNAME e-mail
-1. Inserire nell&#39;elenco Consentiti Chiedi al reparto IT di Marketo
+1. Chiedi al reparto IT di Marketo
 1. Configurare DKIM e SPF nell&#39;area [!UICONTROL Admin]
 1. Configura MX per `[FromDomain1]`
 1. Una volta che l’E-mail CNAME è stata completata, imposta il tuo CNAME e-mail in Marketo

@@ -4,10 +4,10 @@ title: Documento temp
 hide: true
 hidefromtoc: true
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
@@ -40,8 +40,8 @@ Fai clic su Abilita contenuto condizione per aggiungere contenuto dinamico e ada
 Se necessario, puoi personalizzare ulteriormente l’e-mail facendo clic su Passa all’editor di codice dal menu avanzato. Questo consente di modificare il codice sorgente dell’e-mail, ad esempio per aggiungere tag di tracciamento o HTML personalizzati.
 
 ATTENZIONE
-Dopo il passaggio all’editor di codice, non puoi tornare al designer visivo per questo messaggio e-mail.
+Dopo il passaggio all’editor di codice, per l’e-mail corrente non è possibile tornare al designer visivo.
 
-Una volta che il contenuto è pronto, fai clic sul pulsante Simula contenuto per verificare il rendering. È possibile scegliere la visualizzazione desktop o mobile.
+Una volta che il contenuto è pronto, fai clic sul pulsante Simula contenuto per verificare il rendering. È possibile scegliere la visualizzazione su desktop o dispositivo mobile.
 
 Al termine, fai clic su Salva.

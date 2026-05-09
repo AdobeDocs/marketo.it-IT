@@ -2,10 +2,9 @@
 description: Scopri come impostare gli obiettivi dell’evento nei programmi di eventi di Marketo. Definisci le metriche di successo e tieni traccia dell’avanzamento verso gli obiettivi dell’evento.
 title: Impostazione degli obiettivi evento
 hide: true
-hidefromtoc: true
 exl-id: 9690adc0-1136-4416-bb7b-f721789d408b
 feature: Events
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 7%

@@ -1,12 +1,11 @@
 ---
 unique-page-id: 2949210
-description: Export keyword results from the Keywords section to share with your team or create reports.
+description: Esporta i risultati delle parole chiave dalla sezione Parole chiave da condividere con il team o creare rapporti.
 title: 'SEO: esportare risultati delle parole chiave'
 exl-id: cc1a2487-cdf1-4bf0-ba7a-a020483d0c6e
 hide: true
-hidefromtoc: true
 feature: SEO
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 5%
