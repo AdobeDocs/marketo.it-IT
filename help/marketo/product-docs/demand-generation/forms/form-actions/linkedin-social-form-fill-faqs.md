@@ -3,12 +3,11 @@ unique-page-id: 10098238
 description: Ottieni aiuto per LinkedIn modulo social compilato con moduli Marketo. Risposte alle domande frequenti sull’integrazione di LinkedIn tra moduli.
 title: Domande frequenti sulla compilazione di un modulo di contatto LinkedIn
 hide: true
-hidefromtoc: true
 exl-id: ce87b918-5b45-418f-9b42-8e8275f2e60a
 feature: Forms
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -37,11 +36,11 @@ Prima di apportare questa modifica, abbiamo inviato notifiche settimanali alla t
 
 ## [!DNL LinkedIn] pulsanti di condivisione social continuano a funzionare? {#do-linkedin-social-sharing-buttons-still-work}
 
-Sì.  La modifica influisce solo sulla funzionalità di riempimento del modulo social network di [!DNL LinkedIn].
+Sì. La modifica influisce solo sulla funzionalità di riempimento del modulo social network di [!DNL LinkedIn].
 
 ## [!DNL Facebook] e [!DNL Twitter] compilazioni modulo social continuano a funzionare? {#do-facebook-and-twitter-social-form-fill-still-work}
 
-Sì.  [!DNL Facebook] e [!DNL Twitter] riempimento modulo social non sono stati modificati.
+Sì. [!DNL Facebook] e [!DNL Twitter] riempimento modulo social non sono stati modificati.
 
 ## È successo qualcosa ai dati che abbiamo già acquisito tramite [!DNL LinkedIn] compilazione modulo social? {#did-anything-happen-to-the-data-we-already-captured-via-linkedin-social-form-fill}
 
@@ -63,15 +62,15 @@ No, i moduli in cui è stata rimossa questa funzionalità sono rimasti pubblicat
 
 No, verrà rimosso solo il pulsante [!DNL LinkedIn] dal modulo. Ogni volta che a un modulo viene applicato il riempimento di un modulo social, viene creato un contenitore al di sopra del quale sono presenti i pulsanti Riempimento modulo social. Prima del 28 aprile 2016, se [!DNL LinkedIn] era l&#39;unica opzione, l&#39;aspetto del contenitore era simile a questa immagine:
 
-![—](assets/one.png)
+![--](assets/one.png)
 
 Dopo il 28 aprile 2016, è rimasto un contenitore vuoto nella parte superiore di qualsiasi modulo in cui [!DNL LinkedIn] Social Form Fill è stato rimosso:
 
-![—](assets/two.png)
+![--](assets/two.png)
 
 >[!NOTE]
 >
->Le immagini di cui sopra sono solo per esempio. Potrebbe non essere esattamente così che viene visualizzato il contenitore del pulsante Riempimento modulo social network. Qualsiasi colore, stile, ecc. del font. hai scelto di influenzare l’aspetto del contenitore.
+>Le immagini di cui sopra sono solo per esempio. Potrebbe non essere esattamente così che viene visualizzato il contenitore del pulsante Riempimento modulo social network. Qualsiasi colore, stile ecc. del carattere scelto influisce sull’aspetto del contenitore.
 
 ## Se [!DNL LinkedIn] era la mia unica rete selezionata, come posso rimuovere il contenitore vuoto sopra il mio modulo? {#if-linkedin-was-my-only-selected-network-how-can-i-remove-the-empty-container-above-my-form}
 

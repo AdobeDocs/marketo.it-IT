@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '1172'
-ht-degree: 15%
+source-wordcount: '1184'
+ht-degree: 14%
 
 ---
 
@@ -76,11 +76,11 @@ Utilizza il componente **[!UICONTROL Button]** per inserire uno o più pulsanti 
 
    SCHERMATA
 
-1. Puoi personalizzare ulteriormente il pulsante modificando gli attributi di stile come **[!UICONTROL Border]**, **[!UICONTROL Size]**, **[!UICONTROL Margin]** e così via. dal riquadro **[!UICONTROL Component settings]**.
+1. È possibile personalizzare ulteriormente il pulsante modificando gli attributi di stile come **[!UICONTROL Border]**, **[!UICONTROL Size]**, **[!UICONTROL Margin]** e così via dal riquadro **[!UICONTROL Component settings]**.
 
 ## Testo {#text}
 
-Utilizza il componente **[!UICONTROL Text]** per inserire testo nel messaggio e-mail e regolare lo stile (bordo, dimensione, spaziatura interna, ecc.) utilizzando la scheda **[!UICONTROL Styles]**.
+Utilizza il componente **[!UICONTROL Text]** per inserire testo nel messaggio e-mail e modificare lo stile (bordo, dimensione, spaziatura interna, ecc.) utilizzando la scheda **[!UICONTROL Styles]**.
 
 SCHERMATA
 
@@ -107,7 +107,7 @@ SCHERMATA
    * **[!UICONTROL Duplicate]**: aggiungi una copia del componente testo.
    * **[!UICONTROL Delete]**: elimina il componente testo selezionato dal messaggio e-mail.
 
-1. Regola gli altri attributi di stile quali colore del testo, famiglia di font, bordo, spaziatura, margine, ecc. dalla scheda **[!UICONTROL Styles]**.
+1. Regolare gli altri attributi di stile, ad esempio il colore del testo, la famiglia di caratteri, il bordo, la spaziatura interna, il margine e così via, dalla scheda **[!UICONTROL Styles]**.
 
    SCHERMATA
 
@@ -147,7 +147,7 @@ Utilizza il componente **[!UICONTROL Image]** per inserire un file immagine dal 
 
 1. Dalla scheda **[!UICONTROL Settings]**, fai clic su **[!UICONTROL Browse]** per scegliere un file di immagine dalle risorse oppure su **[!UICONTROL Import media]** per caricare una risorsa in Adobe Experience Manager Assets.
 
-   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html?lang=it){target="_blank"}.
+   Per ulteriori informazioni su [!DNL Adobe Experience Manager Assets], consulta la [documentazione di Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/experience-manager-assets-essentials/help/introduction.html){target="_blank"}.
 
    >[!NOTE]
    >
@@ -158,13 +158,13 @@ Utilizza il componente **[!UICONTROL Image]** per inserire un file immagine dal 
 1. Fai clic sul componente appena aggiunto e imposta le proprietà dell’immagine:
 
    * **[!UICONTROL Image title]** consente di definire un titolo per l&#39;immagine.
-   * **[!UICONTROL Alt text]** ti consente di definire la didascalia collegata all&#39;immagine. Corrisponde all’attributo alt HTML.
+   * **[!UICONTROL Alt text]** ti consente di definire la didascalia collegata all&#39;immagine. Questo corrisponde all’attributo HTML “alt”.
 
    SCHERMATA
 
 1. Puoi anche scegliere di **[!UICONTROL Find similar Stock photos]**. `[Learn more](../integrations/stock.md)`
 
-1. Dalla scheda **[!UICONTROL Styles]**, regola gli altri attributi di stile come margine, bordo e così via. o aggiungendo un collegamento per reindirizzare il pubblico a un altro contenuto dal riquadro **[!UICONTROL Component settings]**.
+1. Dalla scheda **[!UICONTROL Styles]**, regola gli altri attributi di stile come margine, bordo e così via oppure aggiungi un collegamento per reindirizzare il pubblico a un altro contenuto dal riquadro **[!UICONTROL Component settings]**.
 
 ## Social {#social}
 
@@ -186,7 +186,7 @@ Utilizza il componente **[!UICONTROL Social]** per inserire collegamenti a pagin
 
 1. Se necessario, puoi anche cambiare le icone di ciascuno dei social media dal tuo Assets.
 
-1. Regola gli altri attributi quali stile, margine, bordo, ecc. dalla scheda **[!UICONTROL Styles]**.
+1. Regolare gli altri attributi di stile quali stile, margine, bordo e così via dalla scheda **[!UICONTROL Styles]**.
 
 ## Decisione sull’offerta {#offer-decision}
 

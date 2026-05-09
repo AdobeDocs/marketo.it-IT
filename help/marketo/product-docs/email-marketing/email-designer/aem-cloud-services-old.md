@@ -5,7 +5,7 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 8%
@@ -36,7 +36,7 @@ SCHERMATA
 >
 >Sono elencati solo gli archivi associati alla stessa organizzazione IMS del tuo abbonamento a Marketo Engage.
 
-1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [&#128279;](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
+1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
 
 SCHERMATA
 

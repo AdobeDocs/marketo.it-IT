@@ -2,13 +2,12 @@
 description: Scopri come disconnettere Salesforce dalle azioni di Sales Insight.
 title: Disconnettere Salesforce dalle azioni di Sales Insight
 hide: true
-hidefromtoc: true
 exl-id: 4b3838d1-92de-4baf-81af-4cd7fc316c06
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 10%
+source-wordcount: '81'
+ht-degree: 9%
 
 ---
 

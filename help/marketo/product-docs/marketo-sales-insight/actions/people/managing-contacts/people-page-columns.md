@@ -2,10 +2,9 @@
 description: Scopri le colonne della pagina Persone e come personalizzare la visualizzazione. Mostra o nascondi le colonne per visualizzare i dati di contatto necessari.
 title: Colonne della pagina delle persone
 hide: true
-hidefromtoc: true
 exl-id: 29870197-81e1-4f88-a129-b1ff6da34924
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 8%
@@ -56,11 +55,11 @@ ht-degree: 8%
   </tr>
   <tr>
    <td colspan="1">[!UICONTROL Title (default)]</td>
-   <td colspan="1">Posizione lavorativa</td>
+   <td colspan="1">Titolo del processo</td>
   </tr>
   <tr>
    <td>[!UICONTROL Company (default)]</td>
-   <td>Nome società</td>
+   <td>Nome dell’azienda</td>
   </tr>
   <tr>
    <td>[!UICONTROL Campaign (default)]</td>

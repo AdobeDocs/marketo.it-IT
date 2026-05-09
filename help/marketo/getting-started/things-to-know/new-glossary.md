@@ -4,8 +4,8 @@ short-description: Scopri i termini di Marketo Engage e le relative definizioni 
 title: Glossario di Marketo Engage
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: fbb3747227eca8f47eae43c8fbf02ef2ee702978
+exl-id: dd97b50c-4148-473e-b9fb-4e76ef733e5d
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
 source-wordcount: '6168'
 ht-degree: 62%
@@ -246,7 +246,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr>
   <tr>
    <td colspan="1"><strong>Tracciamento dominio personalizzato</strong></td>
-   <td colspan="1">Utilizzo di un dominio con marchio aziendale per il tracciamento dei collegamenti e-mail e di <strong>URL della pagina di destinazione</strong> invece del dominio Marketo predefinito, migliorando la coerenza del marchio e la consegna delle e-mail <strong>2&rbrace;.</strong></td>
+   <td colspan="1">Utilizzo di un dominio con marchio aziendale per il tracciamento dei collegamenti e-mail e di <strong>URL della pagina di destinazione</strong> invece del dominio Marketo predefinito, migliorando la coerenza del marchio e la consegna delle e-mail <strong>2}.</strong></td>
   </tr>
   <tr>
    <td colspan="1"><strong><a href="/help/marketo/product-docs/demand-generation/facebook/create-a-custom-audience-in-facebook.md" rel="nofollow">Pubblico personalizzato</a></strong></td>
@@ -921,7 +921,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
   </tr>
   <tr>
    <td colspan="1"><strong>Elenco seed</strong></td>
-   <td colspan="1">Elenco di indirizzi e-mail interni o di test aggiunti a un invio di campagna per verificare il recapito dell'e-mail <strong>1&rbrace; e il rendering tra diversi client e-mail prima o insieme a un invio di un pubblico completo.</strong></td>
+   <td colspan="1">Elenco di indirizzi e-mail interni o di test aggiunti a un invio di campagna per verificare il recapito dell'e-mail <strong>1} e il rendering tra diversi client e-mail prima o insieme a un invio di un pubblico completo.</strong></td>
   </tr>
   <tr>
    <td><strong><a href="/help/marketo/product-docs/personalization/segmentation-and-snippets/segmentation/create-a-segmentation.md" rel="nofollow">Segmento</a></strong></td>

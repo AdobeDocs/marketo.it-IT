@@ -3,12 +3,11 @@ description: Note sulla versione corrente di Dynamic Chat - Documenti Marketo - 
 title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
-hidefromtoc: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
 workflow-type: tm+mt
-source-wordcount: '924'
-ht-degree: 68%
+source-wordcount: '933'
+ht-degree: 66%
 
 ---
 
@@ -36,7 +35,7 @@ La logica di indirizzamento della chat in tempo reale in Dynamic Chat è stata r
 
 * **Comportamento specifico della regola di indirizzamento**
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 Se il dominio e-mail di un visitatore è mappato su un account noto, l’agente mappato ha sempre la priorità.
 
@@ -53,7 +52,7 @@ Invece:
 
 La regola di routing a livello di scheda (ad esempio, Team, Personalizzato) viene considerata solo se l’Instradamento account non è idoneo (nessun dominio o agente corrispondente).
 
-_&#x200B;**Indirizzamento personalizzato/team**&#x200B;_
+_**Indirizzamento personalizzato/team**_
 
 Queste regole possono restituire più agenti idonei.
 
@@ -63,11 +62,11 @@ Il fallback Round Robin non viene attivato solo perché un agente non risponde.
 
 Se nessuno dei due agenti risponde:
 
-* Il sistema mostra il calendario del primo agente provato (se attivato).
+* Il sistema visualizza il calendario del primo agente provato (se attivato).
 -oppure-
 * Mostra il messaggio di fallback predefinito.
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 Quando viene utilizzato come regola di indirizzamento principale, il sistema:
 
@@ -77,7 +76,7 @@ Quando viene utilizzato come regola di indirizzamento principale, il sistema:
 
 Se Round Robin viene utilizzato come fallback, si attiva solo se non vengono risolti agenti dalla regola primaria.
 
-_&#x200B;**Flusso esperienza visitatore**&#x200B;_
+_**Flusso esperienza visitatore**_
 
 Il sistema verifica se è applicabile l’indirizzamento dell’account.
 
@@ -93,7 +92,7 @@ Sono state valutate le regole di indirizzamento a livello di scheda (Personalizz
 
 * Se non viene completato alcun coinvolgimento, viene applicata la logica di fallback:
 
-   * Fallback calendario (se attivato),
+   * Fallback del calendario (se attivato),
 -oppure-
    * Messaggio predefinito.
 
@@ -101,7 +100,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 ##### Casi d’uso {#use-cases}
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 <table><thead>
   <tr>
@@ -127,7 +126,7 @@ _&#x200B;**Indirizzamento account**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento personalizzato**&#x200B;_
+_**Indirizzamento personalizzato**_
 
 <table><thead>
   <tr>
@@ -153,7 +152,7 @@ _&#x200B;**Indirizzamento personalizzato**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Instradamento team**&#x200B;_
+_**Instradamento team**_
 
 <table><thead>
   <tr>
@@ -179,7 +178,7 @@ _&#x200B;**Instradamento team**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 <table><thead>
   <tr>
