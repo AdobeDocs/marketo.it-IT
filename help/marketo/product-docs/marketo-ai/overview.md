@@ -3,20 +3,24 @@ description: Esplora la suite di agenti Marketo Engage AI progettati per automat
 title: Panoramica di Marketo Engage AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: f8d847c83cafa79f732e91c1d8729b1ea3c31316
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 3%
+source-wordcount: '260'
+ht-degree: 2%
 
 ---
 
 # Panoramica di Marketo Engage AI {#overview}
 
-Marketo Engage AI offre una serie di agenti progettati per automatizzare noiose ma importanti funzioni di marketing.
+Marketo Engage AI fornisce agenti progettati per automatizzare funzioni di marketing lunghe ma importanti.
 
 >[!NOTE]
 >
->Questa funzione è in versione open beta ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi un riquadro di _compilazione con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è in versione open beta ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+
+>[!IMPORTANT]
+>
+>Dopo aver abilitato questa funzionalità per la sottoscrizione, è necessario eseguire alcuni [passaggi di installazione](/help/marketo/product-docs/marketo-ai/settings-setup.md) per garantire l&#39;accesso agli utenti desiderati.
 
 ## Come accedervi {#access}
 
@@ -24,40 +28,50 @@ Nella schermata My Marketo, fai clic sul riquadro **Build with AI**.
 
 ![](assets/overview-1.png)
 
-L&#39;interfaccia di conversazione fornisce una serie di funzioni Agentic progettate per automatizzare le attività manuali che migliorano significativamente la produttività.
-
-Fare clic sul pulsante **Inizia** nella finestra di dialogo (&quot;_Inizia a usare gli agenti di intelligenza artificiale..._&quot; è nel prompt per impostazione predefinita).
+Nel campo del prompt, fare clic su **Inizia** (o digitare una query personalizzata).
 
 ![](assets/overview-2.png)
 
-Nella console centrale sono presenti sette funzioni Agentic che consentono di eseguire diverse attività.
-
 ## Agenti {#agents}
+
+La console centrale dispone di un set crescente di agenti disponibili per aiutarti con varie attività. Ogni agente è un assistente di intelligenza artificiale appositamente creato con cui interagisci attraverso il linguaggio naturale per completare un’attività specifica.
 
 ### Controllo di qualità del programma {#program-qa}
 
-Convalida i programmi Marketo Engage in base alle best practice e rileva eventuali problemi prima del lancio. [Ulteriori informazioni](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}
+Il Controllo qualità del programma controlla automaticamente la configurazione rispetto alle best practice e ai problemi relativi alle superfici di Marketo prima del lancio. Ulteriori informazioni sull&#39;agente di controllo qualità [Programma](/help/marketo/product-docs/marketo-ai/agents/program-qa.md){target="_blank"}.
 
 ### Importa lead {#import-leads}
 
-Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. [Ulteriori informazioni](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}
+Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. Ulteriori informazioni sull&#39;[agente lead di importazione](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
 
-### Indaga lead (disponibile a breve) {#investigate-lead}
+## Disponibile a breve {#coming-soon}
 
-Scopri perché un utente non ha conseguito la licenza MQL, non si è qualificato per un programma o non ha completato il ciclo di vita.
+Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso in termini di tempo saranno presto disponibili, ad esempio:
 
-### Pianifica programma (disponibile a breve) {#plan-program}
+* Diagnosticare il motivo per cui un lead non ha ottenuto MQL o l&#39;avanzamento nel ciclo di vita.
+* Genera programmi Marketo Engage completi direttamente da una descrizione della campagna.
+* E altro ancora.
 
-Crea un documento di configurazione del programma da utilizzare per altri utenti da una descrizione della campagna.
+<!--
 
-### Crea programma (disponibile a breve) {#create-program}
+### Investigate Lead (Coming soon) {#investigate-lead}
 
-Genera un intero programma Marketo Engage utilizzando un resoconto della campagna, completo di e-mail, pagina di destinazione e Smart Campaign.
+Discover why someone didn't MQL, qualify for a program, or progress through the lifecycle.
 
-### Normalizza dati (presto disponibili) {#normalize-data}
+### Plan Program (Coming soon) {#plan-program}
 
-Standardizzazione di campi come nome società, qualifica professionale, paese e altro ancora.
+Create a program setup document for others to use from a campaign brief.
 
-### Agenti chiamabili (in arrivo) {#callable-agents}
+### Create Program (Coming soon) {#create-program}
 
-Questi agenti vengono eseguiti come webhook in Marketo Engage Smart Campaigns per l’elaborazione dei dati in tempo reale.
+Generate an entire Marketo Engage program using a campaign brief, complete with email, landing page, and Smart Campaign.
+
+### Normalize data (Coming soon) {#normalize-data}
+
+Standardize fields such as company name, job title, country, and more.
+
+### Callable agents (Coming soon) {#callable-agents}
+
+These agents run as webhooks in Marketo Engage Smart Campaigns for real-time data processing.
+
+-->
