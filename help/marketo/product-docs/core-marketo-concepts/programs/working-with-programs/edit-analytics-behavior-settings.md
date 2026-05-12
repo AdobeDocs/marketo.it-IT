@@ -4,16 +4,16 @@ description: Scopri come modificare le impostazioni del comportamento di Analyti
 title: Modificare le impostazioni comportamento di Analytics
 exl-id: 672973f9-35f7-4427-8bea-8f2e0c9d0b35
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 7%
+source-wordcount: '166'
+ht-degree: 6%
 
 ---
 
 # Modificare le impostazioni comportamento di Analytics {#edit-analytics-behavior-settings}
 
-È possibile impostare il comportamento di [Analytics a livello di amministratore sui canali](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md){target="_blank"}, ma è anche possibile modificarlo a livello di programma. Ecco come.
+Scopri come modificare il comportamento di Analytics a livello di programma.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 

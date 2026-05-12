@@ -4,9 +4,9 @@ description: Note sulla versione -Gennaio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Gennaio 2014
 exl-id: 1507aa40-9bd7-42be-8c85-deae8dd45234
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '301'
 ht-degree: 1%
 
 ---
@@ -47,6 +47,6 @@ Sono finiti i giorni in cui si solleva il codice HTML dai moduli inseriti nelle 
 
 ## Campi aggiuntivi nell’analisi dell’appartenenza al programma {#additional-fields-in-program-membership-analysis}
 
-Ora puoi aggiungere e raggruppare le metriche di [Analisi sull&#39;iscrizione al programma](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/build-a-program-membership-analysis-report-that-lists-leads.md) in base agli attributi del lead e della società. Ad esempio, puoi aggiungere il campo Settore per visualizzare la suddivisione dei membri e dei successi del programma.
+Ora puoi aggiungere e raggruppare le metriche di analisi dell’iscrizione al programma in base agli attributi del lead e dell’azienda. Ad esempio, puoi aggiungere il campo Settore per visualizzare la suddivisione dei membri e dei successi del programma.
 
 ![](assets/image2014-9-22-10-3a39-3a1.png)

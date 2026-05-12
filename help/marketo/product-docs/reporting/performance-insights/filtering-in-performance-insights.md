@@ -4,9 +4,9 @@ description: Scopri come filtrare i dati di Performance Insights per elenchi di 
 title: Filtrare in approfondimenti prestazioni
 exl-id: c86260b7-fd5c-4d40-a8da-c9e3f09be14d
 feature: Reporting
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -53,11 +53,7 @@ Puoi rimuovere un filtro in qualsiasi momento facendo clic sulla X accanto a ess
   </tr>
   <tr>
    <td colspan="1"><strong><span class="uicontrol">Account denominato ABM</span></strong></td>
-   <td colspan="1">Se utilizzi Marketo ABM, tutti gli account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro "ABM Named Account" (Account denominato ABM). Puoi selezionare un account denominato per filtrare i risultati in base a tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account denominati ABM.</a></td>
-  </tr>
-  <tr>
-   <td colspan="1"><strong><span class="uicontrol">Attributo personalizzato</span></strong></td>
-   <td colspan="1"><p>Questi sono determinati da voi. Tutti i campi <a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/enabling-custom-field-sync-for-revenue-cycle-analytics.md" rel="nofollow">abilitati</a> per l'analisi dell'opportunità possono essere filtrati in Performance Insights.</p></td>
+   <td colspan="1">Se utilizzi Marketo ABM, tutti gli account denominati verranno sincronizzati in MPI e saranno visibili tramite il filtro 'Account denominato ABM'. Puoi selezionare un account denominato per filtrare i risultati in base a tali account.<a href="https://docs.marketo.com/x/eaCt" rel="nofollow">Ulteriori informazioni sugli account denominati ABM.</a></td>
   </tr>
   <tr>
    <td colspan="1"><p><strong><span class="uicontrol">Periodo di investimento</span></strong></p></td>

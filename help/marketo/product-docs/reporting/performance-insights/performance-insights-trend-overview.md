@@ -4,9 +4,9 @@ description: Scopri la vista Tendenza di Performance Insights che mostra le tend
 title: Panoramica delle tendenze approfondimenti prestazioni
 exl-id: f6590a13-2eba-44b3-b832-fd352b67ab5e
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '170'
 ht-degree: 2%
 
 ---
@@ -23,7 +23,7 @@ Fare clic sulla scheda **[!UICONTROL Trend]** per accedere a questa visualizzazi
 
 ![](assets/2-1.png)
 
-Seleziona la metrica in base alla quale visualizzare le prestazioni. In questo esempio verranno esaminate le opportunità realizzate tramite [[!UICONTROL First-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
+Seleziona la metrica in base alla quale visualizzare le prestazioni.
 
 ![](assets/3-2.png)
 

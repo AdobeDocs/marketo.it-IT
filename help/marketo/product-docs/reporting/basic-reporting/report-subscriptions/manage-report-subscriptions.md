@@ -4,9 +4,9 @@ description: Scopri come gestire tutte le sottoscrizioni di rapporti in un’uni
 title: Gestire gli abbonamenti ai rapporti
 exl-id: 0d303b1c-3cc9-42f6-a76a-db6a022c471a
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '217'
 ht-degree: 7%
 
 ---
@@ -60,5 +60,5 @@ Configurare ed eliminare sottoscrizioni ai rapporti.
 
    >[!MORELIKETHIS]
    >
-   >* [Iscriviti a un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
-   >* [Abbonati a un report di Gestione ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md)
+   >[Iscriviti a un report di base](/help/marketo/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.md)
+
