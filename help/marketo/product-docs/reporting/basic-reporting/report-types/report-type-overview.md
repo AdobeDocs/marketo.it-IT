@@ -4,10 +4,10 @@ description: Scopri i tipi di rapporto disponibili, tra cui Prestazioni persone,
 title: Panoramica del tipo di rapporto
 exl-id: 983e920d-bba7-4c61-8a0f-6611808dd5c5
 feature: Reporting
-source-git-commit: f69cd13e686da48a531d7affb7ce224cf42f1806
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 7%
+source-wordcount: '235'
+ht-degree: 8%
 
 ---
 
@@ -46,16 +46,8 @@ Quando [crei un report in un programma](/help/marketo/product-docs/reporting/bas
    <td>Generazione automatica di rapporti in base al campo Stato persona.</td>
   </tr>
   <tr>
-   <td><strong><a href="/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md">Rapporto persone per fase dei ricavi</a></strong></td>
-   <td>Generazione di rapporti di base per il modello di ricavo. Consulta <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td>
-  </tr>
-  <tr>
    <td><strong><a href="/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md">Prestazioni della pagina di destinazione</a>  </strong></td>
    <td>Visualizza visite, conversioni e altre metriche per le pagine di destinazione.</td>
-  </tr>
-  <tr>
-   <td><strong><a href="/help/marketo/product-docs/core-marketo-concepts/programs/program-performance-report/create-a-program-performance-report.md">Prestazioni del programma</a>  </strong></td>
-   <td>Metriche di base del programma come membri e successo. Consulta <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/create-a-new-revenue-model">Analisi del ciclo dei ricavi</a> per informazioni più approfondite sui rapporti.</td>
   </tr>
   <tr>
    <td><strong><a href="company-web-activity-report.md">Attività Web della società</a></strong></td>

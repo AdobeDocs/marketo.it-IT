@@ -4,9 +4,9 @@ description: Scopri l’iscrizione al programma e come gli utenti accedono ai pr
 title: Informazioni sull’iscrizione al programma
 exl-id: 02480a93-b499-4e0f-8a1c-a22f7d3b7178
 feature: Programs
-source-git-commit: 7fe6ed8b9fcb1aacf0e651a11ab90eaf0ae07937
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '271'
 ht-degree: 2%
 
 ---
@@ -56,7 +56,7 @@ Lo scopo di un programma è quello di creare un’interazione significativa con 
 
 ## Programma di acquisizione {#acquisition-program}
 
-Quando un nuovo nome entra nel sistema come membro del programma, Marketo imposta automaticamente tale programma come &quot;acquisizione&quot;. Viene stabilito il merito per [Attribuzione primo contatto](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md){target="_blank"}.
+Quando un nuovo nome entra nel sistema come membro del programma, Marketo imposta automaticamente tale programma come &quot;acquisizione&quot;.
 
 >[!MORELIKETHIS]
 >

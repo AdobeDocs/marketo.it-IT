@@ -4,20 +4,16 @@ description: Scopri come abbonare gli indirizzi e-mail ai rapporti di base per r
 title: Abbonati a un rapporto di base
 exl-id: d2550578-e576-44e6-ae56-43563f8d3d45
 feature: Reporting
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 11%
+source-wordcount: '118'
+ht-degree: 12%
 
 ---
 
 # Abbonati a un rapporto di base {#subscribe-to-a-basic-report}
 
 Per ricevere aggiornamenti automatici di un report di base o per condividerli, è possibile sottoscrivere qualsiasi indirizzo e-mail a un report esistente.
-
->[!NOTE]
->
->Per le sottoscrizioni ai report di Revenue Cycle Explorer, vedere [Abbonarsi a un report di Revenue Explorer](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.md).
 
 1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
 

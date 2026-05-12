@@ -3,9 +3,9 @@ description: Configura la sezione Attività di marketing per la nuova istanza di
 title: Best practice per le nuove istanze - Elenco di controllo delle attività di marketing
 feature: Getting Started
 exl-id: df536423-7ac8-437a-86c1-3692e68cd9fa
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1363'
 ht-degree: 2%
 
 ---
@@ -102,7 +102,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
   </tr>
   <tr>
     <td>Gestire gli abbonamenti ai rapporti</td>
-    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=it" target="_blank">Impostare sottoscrizioni report</a> in attività di marketing o Analytics per <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=it" target="_blank">report di base</a> o <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/revenue-cycle-analytics/revenue-explorer/subscribe-to-a-revenue-explorer-report.html?lang=it" target="_blank">report di Gestione cicli di ricavi</a>.</li></td>
+    <td><li><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/manage-report-subscriptions.html?lang=it" target="_blank">Imposta sottoscrizioni report</a> in attività di marketing o Analytics per <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-subscriptions/subscribe-to-a-basic-report.html?lang=it" target="_blank">report di base</a>.</li></td>
   </tr>
 </tbody>
 </table>

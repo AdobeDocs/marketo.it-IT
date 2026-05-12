@@ -4,9 +4,9 @@ description: Scopri come impostare le conversioni offline di Facebook in Marketo
 title: Configurare le conversioni offline di Facebook
 exl-id: e1974943-8fc8-41f6-be7e-1b594de13db6
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '302'
 ht-degree: 3%
 
 ---
@@ -17,8 +17,7 @@ Inviando di nuovo i dati di conversione offline a [!DNL Facebook] per le persone
 
 >[!PREREQUISITES]
 >
->* Devi [configurare i lead Ads di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
->* È necessario disporre di un modello approvato in [Revenue Cycle Modeler](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/understanding-revenue-models.md).
+>Devi [configurare i lead Ads di Facebook](/help/marketo/product-docs/demand-generation/facebook/set-up-facebook-lead-ads.md).
 
 ## Configurazione amministratore {#admin-configuration}
 

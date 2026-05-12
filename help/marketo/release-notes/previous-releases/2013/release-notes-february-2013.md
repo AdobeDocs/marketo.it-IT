@@ -4,7 +4,7 @@ description: Note sulla versione - Febbraio 2013 - Documentazione Marketo - Docu
 title: Note sulla versione - Febbraio 2013
 exl-id: 9adfa676-09ea-497a-bcce-42300848b9d8
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 1%
@@ -33,4 +33,4 @@ L&#39;endpoint dell&#39;API SOAP preferito è stato aggiornato, come mostrato ne
 
 ## Disponibile a breve: supporto per più modelli {#coming-soon-support-for-multiple-models}
 
-Stiamo gettando le basi per supportare modelli di cicli di fatturato multipli, votati #1&#39;idea per RCA nella Comunità, in una versione futura. In questa versione, noterai alcune modifiche tra cui [Filtri per elenchi avanzati e Aggiungi scelte nei passaggi del flusso](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-cycle-models/find-all-leads-in-a-revenue-cycle-model.md) per supportare la selezione di un modello e un&#39;area di visualizzazione. Stiamo inoltre spostando i campi Fase ricavi lead e Modello ciclo ricavi lead dalla scheda Griglia lead elenco avanzato.
+Stiamo gettando le basi per supportare modelli di cicli di ricavo multipli, votato #1&#39;idea per RCA nella Comunità, in una versione futura. In questa versione, noterai alcune modifiche tra cui i filtri per elenchi avanzati e Aggiungi scelte nei passaggi del flusso per supportare la selezione di un modello e un’area di visualizzazione. Stiamo inoltre spostando i campi Fase ricavi lead e Modello ciclo ricavi lead dalla scheda Griglia lead elenco avanzato.

@@ -4,9 +4,9 @@ description: Scopri come filtrare le persone nei rapporti utilizzando elenchi av
 title: Filtrare le persone in un rapporto con un elenco avanzato
 exl-id: f3cc38d1-35fd-424a-a024-949852edd6a7
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '138'
 ht-degree: 15%
 
 ---
@@ -19,7 +19,6 @@ Utilizza gli elenchi avanzati per filtrare i rapporti in base a attributi person
 
 * [Prestazioni persone](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-performance-report.md)
 * [Persone per stato](/help/marketo/product-docs/reporting/basic-reporting/report-types/people-by-status-report.md)
-* [Persone per fase ricavi](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/people-by-revenue-stage-report.md)
 * [Prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
 * [Prestazioni collegamento e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-link-performance-report.md)
 * [Prestazioni del flusso di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/engagement-stream-performance-report.md)

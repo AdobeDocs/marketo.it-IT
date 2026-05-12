@@ -4,10 +4,10 @@ description: Note sulla versione -Marzo 2014 - Documentazione Marketo - Document
 title: Note sulla versione - Marzo 2014
 exl-id: 1f87dca2-14aa-42cf-a016-f1558259fb64
 feature: Release Information
-source-git-commit: 7e9e062fba3361e5b40830ebda16c794d236a5ff
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '400'
-ht-degree: 1%
+source-wordcount: '417'
+ht-degree: 0%
 
 ---
 
@@ -35,7 +35,7 @@ Quando si utilizza il [report sulle prestazioni del programma](/help/marketo/pro
 
 ## Programmi inclusivi e operativi per Analytics {#inclusive-and-operational-programs-for-analytics}
 
-È ora possibile [includere programmi senza costi di periodo](/help/marketo/product-docs/reporting/revenue-cycle-analytics/program-analytics/make-a-program-without-a-period-cost-available-in-revenue-explorer-and-analyzers.md) in [!UICONTROL Revenue Explorer] e Analyzer impostando l&#39;opzione Comportamento di Analytics su &quot;Inclusivo&quot; quando si modificano i canali del programma. È inoltre possibile escludere tutti i programmi operativi dal reporting scegliendo &quot;Operativo&quot;.
+È ora possibile includere i programmi senza costi di periodo in [!UICONTROL Revenue Explorer] e Analyzer impostando l&#39;opzione Comportamento di Analytics su &quot;Inclusivo&quot; quando si modificano i canali del programma. È inoltre possibile escludere tutti i programmi operativi dal reporting scegliendo &quot;Operativo&quot;.
 
 ![](assets/image2014-9-22-11-3a36-3a32.png)
 

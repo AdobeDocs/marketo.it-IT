@@ -4,9 +4,9 @@ description: Scopri la visualizzazione Contributo di Performance Insights che va
 title: Panoramica del contributo di approfondimenti prestazioni
 exl-id: 52d97100-b811-4f43-9833-b18ae098a0f3
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+source-git-commit: fffa5c1ba9bc23aa2da4cdc4f2ca5cb6bdd3948e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '366'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,13 @@ Seleziona la metrica in base alla quale visualizzare le prestazioni. In questo e
 
 ![](assets/2.png)
 
->[!NOTE]
->
->Informazioni su [[!UICONTROL First-Touch] e [!UICONTROL Multi-Touch]](/help/marketo/product-docs/reporting/revenue-cycle-analytics/revenue-tools/attribution/understanding-attribution.md).
-
 Scegli il periodo per il quale visualizzare le metriche. In questo esempio viene illustrato l’anno corrente (progressivo anno).
 
 ![](assets/3-1.png)
 
 >[!NOTE]
 >
->La selezione &quot;Anno precedente&quot; è stata temporaneamente rimossa. È ancora possibile visualizzare tutti i dati sulle prestazioni dell&#39;anno precedente utilizzando la selezione **[!UICONTROL Custom Range]**.
+>La selezione &quot;Anno precedente&quot; è stata temporaneamente rimossa. È comunque possibile visualizzare tutti i dati sulle prestazioni dell&#39;anno precedente utilizzando la selezione **[!UICONTROL Custom Range]**.
 
 Le metriche sono presentate tramite due grafici: ciambella e barra.
 
