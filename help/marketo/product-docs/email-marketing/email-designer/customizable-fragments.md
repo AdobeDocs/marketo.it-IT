@@ -19,9 +19,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 8ba2ac1fa056e96aac50abbde16042e522779ab3
+source-git-commit: fdc003d7aed05d85687427d9455bb806eb33d0b2
 workflow-type: tm+mt
-source-wordcount: 1405
+source-wordcount: 1398
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Per rendere modificabili parti di un frammento visivo, effettua le seguenti oper
 
 >[!NOTE]
 >
->I campi modificabili possono essere aggiunti ai componenti **image**, **text** e **button**. Per i componenti di **HTML**, i campi modificabili vengono aggiunti utilizzando l&#39;editor di personalizzazione, in modo simile ai frammenti di espressione. [Scopri come aggiungere campi modificabili nei componenti HTML e nei frammenti di espressione](#expression)
+>I campi modificabili possono essere aggiunti ai componenti **image**, **text** e **button**. Per i componenti di **HTML**, i campi modificabili vengono aggiunti utilizzando l&#39;editor di personalizzazione, in modo simile ai frammenti di espressione. [Scopri i campi modificabili nei componenti HTML nei frammenti](#editable-html)
 
 1. Apri la schermata di modifica del contenuto del frammento.
 
@@ -64,7 +64,7 @@ Per rendere modificabili parti di un frammento visivo, effettua le seguenti oper
 
 Dopo aver aggiunto il frammento a un messaggio e-mail, gli utenti possono personalizzare tutti i campi modificabili configurati nel frammento.
 
-## Aggiungere campi modificabili ai componenti HTML e ai frammenti di espressione {#expression}
+## Componenti HTML modificabili nei frammenti {#editable-html}
 
 All’interno di un componente HTML, è possibile modificare i seguenti tipi di elementi:
 
