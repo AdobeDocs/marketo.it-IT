@@ -3,9 +3,9 @@ description: Utilizza la conoscenza del prodotto per chiedere a Marketo AI infor
 title: Conoscenza del prodotto
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Conoscenza del prodotto {#product-knowledge}
 
 La conoscenza del prodotto consente di accedere on-demand alle competenze di Marketo senza uscire dalla piattaforma. Poni una domanda in un linguaggio semplice e l’intelligenza artificiale di Marketo si basa sulla documentazione ufficiale di Adobe per rispondere.
+
+>[!PREREQUISITES]
+>
+>Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 
 ## Come usare {#how-to-use}
 
@@ -32,7 +36,7 @@ La conoscenza del prodotto consente di accedere on-demand alle competenze di Mar
 
 ## Aspetti da considerare {#things-to-note}
 
-* **La conoscenza del prodotto è ideale per le domande e le best practice generali su Marketo**: non ha accesso ai dati di abbonamento specifici.
-* **Utilizza agenti specifici quando disponibili**: per domande sul motivo per cui una persona/lead o una campagna si è comportata in un determinato modo, utilizza _Indagine lead_ o _Controllo qualità programma_.
-* **La conoscenza di Marketo AI riflette le best practice e le indicazioni documentate di Adobe**: per le versioni molto recenti, controlla direttamente le note sulla versione di Adobe Marketo Engage.
-* **Più specifica è la domanda, più utile sarà la risposta**: &quot;Come funziona il punteggio di persona/lead?&quot; otterrò una risposta più ampia rispetto a &quot;Dovrei valutare una visita di pagina di determinazione prezzi a 10 o 15 punti?&quot;
+* La conoscenza del prodotto è ideale per domande e best practice generali su Marketo. Non ha accesso ai tuoi dati di abbonamento specifici.
+* Se disponibili, utilizza agenti specifici. Per domande sul motivo per cui una persona/lead o una campagna si è comportata in un determinato modo, utilizza invece _Indagine lead_ o _Controllo qualità programma_.
+* La conoscenza di Marketo AI riflette le best practice e le linee guida documentate di Adobe. Per le versioni molto recenti, consulta direttamente le note sulla versione di Adobe Marketo Engage.
+* Più specifica è la domanda, più utile sarà la risposta. &quot;Come funziona il punteggio di persona/lead?&quot; otterrò una risposta più ampia rispetto a &quot;Dovrei valutare una visita di pagina di determinazione prezzi a 10 o 15 punti?&quot;

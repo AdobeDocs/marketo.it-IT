@@ -3,9 +3,9 @@ description: Il programma Clone duplica un programma Marketo esistente in una nu
 title: Clona programma
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,10 @@ L’agente del programma Clona copia un programma di lavoro, incluse le campagne
 
 >[!PREREQUISITES]
 >
+>* Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+>
 >* È necessario disporre dell&#39;autorizzazione per creare programmi nella cartella di destinazione.
+>
 >* Il programma di origine che si desidera clonare deve esistere già nell&#39;ambiente Marketo.
 
 ## Come usare {#how-to-use}
@@ -43,8 +46,8 @@ L’agente del programma Clona copia un programma di lavoro, incluse le campagne
 
 ## Aspetti da considerare {#things-to-note}
 
-* **I programmi clonati vengono creati in uno stato disattivato**: nulla diventa attivo finché non attivi le campagne avanzate.
-* **Le risorse e-mail nel clone sono copie, non condivise con l&#39;originale**: le modifiche alle e-mail del clone non influiranno sul programma di origine.
-* **I token utilizzati nel programma di origine vengono copiati nel clone**. Tuttavia, devono essere aggiornati con i nuovi valori (date, URL, nomi di eventi).
-* **I filtri Smart Campaign nel clone fanno riferimento agli stessi elenchi e campi dell&#39;originale**: controlla e aggiorna il targeting del pubblico prima di attivarlo.
-* **Le risorse locali che fanno riferimento ad altri programmi o elenchi condivisi vengono copiate nel clone**: tali riferimenti devono essere rivisti prima dell&#39;attivazione.
+* I programmi clonati vengono creati in uno stato disattivato. Niente diventa attivo finché non attivi le campagne intelligenti.
+* Le risorse e-mail nel clone sono copie, non condivise con l’originale. Le modifiche alle e-mail del clone non influiranno sul programma di origine.
+* I token utilizzati nel programma di origine vengono copiati nel clone. Tuttavia, devono ancora essere aggiornati con i nuovi valori (date, URL, nomi di eventi).
+* I filtri Smart Campaign nel clone fanno riferimento agli stessi elenchi e campi dell’originale. Rivedi e aggiorna il targeting del pubblico prima dell&#39;attivazione.
+* Le risorse locali che fanno riferimento ad altri programmi o elenchi condivisi vengono copiate nel clone. Tali riferimenti devono essere rivisti prima dell’attivazione.

@@ -3,9 +3,9 @@ description: Parla con Marketo AI dei tuoi dati sulle prestazioni di Marketo Eng
 title: Analisi
 beta: true
 hide: true
-source-git-commit: cb30495d71d5b4d4fe86d33eed0677eaee882c5e
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '451'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Analytics ti consente di parlare dei dati sulle prestazioni di Marketo. Poni le 
 
 >[!PREREQUISITES]
 >
->È necessario avere accesso ai programmi e ai report di cui si desidera ottenere informazioni.
+>* Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+>
+>* È necessario avere accesso ai programmi e ai report di cui si desidera ottenere informazioni.
 
 ## Come usare {#how-to-use}
 
@@ -38,8 +40,8 @@ Analytics ti consente di parlare dei dati sulle prestazioni di Marketo. Poni le 
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Le risposte di Analytics si basano sui dati disponibili nell&#39;istanza di Marketo**: se non si tiene traccia di un programma o non si acquisisce una metrica, Marketo AI non sarà in grado di generare report su di esso.
-* **Intervalli di date molto grandi o domande generiche possono restituire riepiloghi di alto livello anziché dettagli granulari**: Ad esempio, &quot;Come sono stati eseguiti tutti i programmi negli ultimi due anni?&quot;
-* **Marketo AI può rendere visibili i dati ma non può apportare modifiche** ai programmi o ai report in base a ciò che trova.
-* **Per rapporti personalizzati dettagliati con filtri e raggruppamenti specifici**, gli strumenti di reporting incorporati di Marketo o un&#39;integrazione BI potrebbero essere più appropriati.
-* **L&#39;attribuzione in campagne multi-touch richiede la corretta configurazione del programma**: Marketo AI segnalerà ciò che è stato tracciato, non dedurrà l&#39;attribuzione che non è stata configurata.
+* Le risposte di Analytics si basano sui dati disponibili nell’istanza Marketo. Se non viene tracciato un programma o non viene acquisita una metrica, Marketo AI non sarà in grado di generare rapporti su di esso.
+* Intervalli di date molto ampi o domande di ampia portata possono restituire riepiloghi di alto livello anziché dettagli granulari. Ad esempio, &quot;Come sono andati tutti i miei programmi negli ultimi due anni?&quot;
+* Marketo AI può rendere visibili i dati ma non può apportare modifiche ai programmi o ai rapporti in base a ciò che trova.
+* Per rapporti personalizzati dettagliati con filtri e raggruppamenti specifici, potrebbe essere più appropriato utilizzare gli strumenti di reporting incorporati di Marketo o un’integrazione BI.
+* L’attribuzione tra campagne multi-touch richiede una corretta configurazione del programma. Marketo AI genererà rapporti su ciò che viene tracciato, non su attribuzioni non configurate.

@@ -3,9 +3,9 @@ description: Utilizza Marketo AI per creare un programma Marketo da una descrizi
 title: Crea programma
 beta: true
 hide: true
-source-git-commit: 4b982139b07f4a59752fead580ca40710935ff23
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '560'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,9 @@ Descrivi una campagna di marketing in linguaggio semplice e Marketo AI creerà l
 
 >[!PREREQUISITES]
 >
->È necessario disporre dell&#39;autorizzazione per la creazione di programmi nell&#39;account Marketo.
+>* Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+>
+>* È necessario disporre dell&#39;autorizzazione per la creazione di programmi nell&#39;account Marketo.
 
 ## Come usare {#how-to-use}
 
@@ -48,8 +50,8 @@ Descrivi una campagna di marketing in linguaggio semplice e Marketo AI creerà l
 
 ## Aspetti da considerare {#things-to-note}
 
-* **Scopri chiaramente le funzionalità della campagna**: chi è il pubblico, quale azione lo attiva (o se si tratta di un invio batch) e qual è l&#39;obiettivo.
-* **Non sono richiesti modelli o moduli iniziali**: Marketo AI crea la struttura e successivamente puoi connettere le risorse (sei ancora responsabile della scrittura della copia e-mail e della configurazione di eventuali pagine di destinazione).
-* **Marketo AI non è in grado di accedere automaticamente agli elenchi di pubblico esistenti**: dopo la creazione del programma, è necessario collegare i filtri degli elenchi avanzati ai segmenti effettivi.
-* **Programmi con più passaggi complessi** con logica di diramazione avanzata potrebbero richiedere un perfezionamento manuale dopo la creazione.
-* **Se l&#39;ambiente Marketo utilizza convenzioni di denominazione o strutture di cartelle**: specificarle nella descrizione in modo che il programma venga creato nella posizione giusta.
+* Avere un’idea chiara di cosa dovrebbe fare la campagna, chi è il pubblico, quale azione lo attiva (o se si tratta di un invio in batch) e qual è l’obiettivo.
+* Non sono richiesti modelli o moduli iniziali. Marketo AI crea la struttura e successivamente puoi collegare le risorse (sei ancora responsabile della scrittura della copia e-mail e della configurazione di eventuali pagine di destinazione).
+* Marketo AI non può accedere automaticamente agli elenchi di pubblico esistenti. Dopo aver creato il programma, è necessario collegare i filtri per elenchi avanzati ai segmenti effettivi.
+* I programmi con più passaggi complessi con logica di diramazione avanzata possono richiedere un perfezionamento manuale dopo la creazione.
+* Se l’ambiente Marketo utilizza convenzioni di denominazione o strutture di cartelle. Specificali nella descrizione in modo che il programma venga creato nella posizione giusta.
