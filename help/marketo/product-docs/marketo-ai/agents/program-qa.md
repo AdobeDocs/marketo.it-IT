@@ -3,9 +3,9 @@ description: Scopri come controllare i programmi per individuare le best practic
 title: Controllo di qualità del programma
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Controlla i programmi per scoprire le best practice per tutti i componenti, ad esempio e-mail, pagine di destinazione, campagne e altro ancora.
 
+>[!PREREQUISITES]
+>
+>Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+
 >[!NOTE]
 >
->Questa funzione è in versione open beta ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi un riquadro di _compilazione con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi un riquadro di _compilazione con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
 
 ## Come usare {#how-to-use}
 
@@ -34,7 +38,7 @@ Controlla i programmi per scoprire le best practice per tutti i componenti, ad e
 
    ![](assets/program-qa-3.png){width="800" zoomable="yes"}
 
-   Nel riquadro centrale viene visualizzato un riepilogo del programma che fornisce una panoramica del programma.
+   Nel riquadro centrale viene visualizzato un riepilogo del programma selezionato.
 
    ![](assets/program-qa-4.png){width="450" zoomable="yes"}
 
@@ -42,7 +46,7 @@ Controlla i programmi per scoprire le best practice per tutti i componenti, ad e
 
    ![](assets/program-qa-5.png)
 
-   L’Assistente AI fornisce un controllo qualità del programma selezionato che mostra cosa è stato passato e cosa non è riuscito.
+   L&#39;Assistente IA fornisce un controllo qualità del programma selezionato, mostrando cosa è stato passato e cosa non è riuscito.
 
    ![](assets/program-qa-6.png)
 

@@ -3,9 +3,9 @@ description: Scopri come utilizzare l’agente Lead di importazione per caricare
 title: Importa lead
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: f99d8039641ff16444b1ce1ad5410c170f771008
+source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,13 @@ ht-degree: 0%
 
 Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi.
 
+>[!PREREQUISITES]
+>
+>Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+
 >[!NOTE]
 >
->Questa funzione è in versione open beta ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi un riquadro di _compilazione con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi un riquadro di _compilazione con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
 
 ## Come usare {#how-to-use}
 
@@ -28,7 +32,7 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
    ![](assets/import-leads-2.png)
 
-   Viene visualizzata la schermata di IA per la conversazione. Nel riquadro a sinistra, l’agente pubblica indicazioni, risposte e opzioni per le funzioni di normalizzazione dei dati da eseguire.
+   Viene visualizzata la schermata di IA per la conversazione. Nel riquadro a sinistra vengono visualizzate indicazioni, risposte e opzioni di normalizzazione dei dati disponibili.
 
    ![](assets/import-leads-3.png)
 
@@ -36,7 +40,7 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
    ![](assets/import-leads-4.png)
 
-1. Digita _Elenco di importazione_ e fai clic su **Invia**.
+1. Digitare &quot;Import list&quot; e fare clic su **Invia**.
 
    ![](assets/import-leads-5.png)
 
@@ -66,4 +70,4 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
    ![](assets/import-leads-10.png)
 
-Al termine dell’importazione, la verifica viene fornita con un riepilogo dei lead elaborati, delle righe non riuscite ed eventuali avvisi.
+Al termine dell’importazione, viene visualizzato un riepilogo di verifica che mostra i lead elaborati, le righe non riuscite ed eventuali avvisi.
