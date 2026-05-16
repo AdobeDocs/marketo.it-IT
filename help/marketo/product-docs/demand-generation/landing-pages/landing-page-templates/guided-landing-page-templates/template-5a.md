@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modello 5A {#template-5a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 5A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=it)
 
 ![](assets/image2015-6-29-16-3a9-3a32.png)
 
@@ -34,4 +34,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html)
+[Modello 5A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5a.html?lang=it)

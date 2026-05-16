@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Modello 2D {#template-2d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 2D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=it)
 
 ![](assets/image2015-6-4-9-3a38-3a47.png)
 
@@ -34,4 +34,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html)
+[Modello 2D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2d.html?lang=it)

@@ -53,7 +53,7 @@ Collega il tuo account [[!DNL Google AdWords]  a Marketo](/help/marketo/product-
 
 ## Nuove API REST di Assets {#new-asset-rest-apis}
 
-[Nuove API REST di Assets](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/assets)
+[Nuove API REST di Assets](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/assets)
 
 È ora disponibile il supporto per la creazione e la modifica di e-mail, modelli, token, file e snippet [tramite l&#39;API](https://developer.adobe.com/marketo-apis/api/asset/).
 

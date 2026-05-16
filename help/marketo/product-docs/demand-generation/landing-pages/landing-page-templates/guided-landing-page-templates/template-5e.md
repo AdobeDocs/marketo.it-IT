@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Modello 5E {#template-5e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 5E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=it)
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -34,4 +34,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html)
+[Modello 5E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-5e.html?lang=it)

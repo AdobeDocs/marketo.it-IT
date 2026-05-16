@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Modello 2B {#template-2b}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 2B](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=it)
 
 ![](assets/image2015-6-2-15-3a32-3a38.png)
 
@@ -34,4 +34,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html)
+[Modello 2B.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-2b.html?lang=it)

@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Modello 11C {#template-11c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 11C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=it)
 
 ![](assets/image2015-8-4-14-3a3-3a44.png)
 
@@ -31,4 +31,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html)
+[Modello 11C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-11c.html?lang=it)

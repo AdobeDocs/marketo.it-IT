@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modello 12C {#template-12c}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 12C](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=it)
 
 ![](assets/image2015-8-4-14-3a36-3a13.png)
 
@@ -34,4 +34,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html)
+[Modello 12C.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12c.html?lang=it)

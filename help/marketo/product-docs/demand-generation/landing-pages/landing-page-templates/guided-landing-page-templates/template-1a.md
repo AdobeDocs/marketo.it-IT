@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modello 1A {#template-1a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 1A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html?lang=it)
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 
@@ -33,4 +33,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html)
+[Modello 1A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1a.html?lang=it)

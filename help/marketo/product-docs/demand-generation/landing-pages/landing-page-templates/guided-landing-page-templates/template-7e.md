@@ -18,7 +18,7 @@ ht-degree: 5%
 
 # Modello 7E {#template-7e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 7E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html?lang=it)
 
 ![](assets/image2015-7-29-15-3a11-3a34.png)
 
@@ -34,4 +34,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html)
+[Modello 7E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-7e.html?lang=it)
