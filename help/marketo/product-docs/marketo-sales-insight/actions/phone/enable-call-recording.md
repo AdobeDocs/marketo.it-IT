@@ -3,9 +3,12 @@ description: Scopri come abilitare la registrazione delle chiamate nelle azioni 
 title: Abilitare la registrazione delle chiamate
 exl-id: 85a271f7-5cd9-4660-80b3-60742b743979
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/37hdOAowbNsB2eZKh7pojClflb0GCKtYywijBS6Pqgo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: 98
 ht-degree: 6%
 
 ---

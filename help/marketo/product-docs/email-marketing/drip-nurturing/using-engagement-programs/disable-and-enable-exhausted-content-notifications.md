@@ -4,9 +4,14 @@ description: Scopri come attivare o disattivare le notifiche con contenuti esaur
 title: Disabilitare e abilitare notifiche di contenuto esaurite
 exl-id: 6c40de8e-80bd-41c0-a811-2ed70bb09795
 feature: Engagement Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/hbRQJScd6cxiS8k63hwN2HRKSZtviMFHB9xaBAeWt8U
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: 96
 ht-degree: 16%
 
 ---

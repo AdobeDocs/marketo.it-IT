@@ -4,9 +4,15 @@ description: Scopri come rendere compatibile per dispositivi mobili un modello d
 title: Rendere compatibile con dispositivi mobili un modello esistente di pagina di destinazione in formato libero
 exl-id: 942456a5-3f3e-4a71-aecc-4cc6bf6237b3
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/-EJdlRrUIvCn6r4P6LGvZbyAyBy1K3HJms38fW2VKnE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: 240
 ht-degree: 7%
 
 ---

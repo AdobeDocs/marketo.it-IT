@@ -4,9 +4,14 @@ description: Scopri come eseguire subito una campagna batch avanzata dalla sched
 title: Eseguire ora una campagna avanzata batch | Scheda di pianificazione
 exl-id: a9014ab4-12a4-44ae-a361-72f95bb62e27
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/d0ctWO9YrQT-qlAB6sZuD0N81Mkf4y3XHUJpk-nO5Wc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: 98
 ht-degree: 16%
 
 ---

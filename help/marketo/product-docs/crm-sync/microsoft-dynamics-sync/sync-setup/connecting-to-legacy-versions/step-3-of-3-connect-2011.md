@@ -4,9 +4,12 @@ description: Scopri come collegare Microsoft Dynamics 2011 on-premise a Marketo 
 title: Passaggio 3 di 3 -Connessione [!DNL Microsoft Dynamics] con Marketo (on-premise 2011)
 exl-id: e6a5d49d-025a-4899-9e92-7a4c32086c67
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/lXIts5epOGhGJLKvIKTOAdOABz15rNAfuSmvHuSC0SI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: 344
 ht-degree: 1%
 
 ---

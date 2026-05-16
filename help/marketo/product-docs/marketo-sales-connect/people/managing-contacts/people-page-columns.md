@@ -4,9 +4,12 @@ description: Scopri le colonne della pagina Persone in Sales Connect. Personaliz
 title: Colonne della pagina delle persone
 exl-id: e7d7bae5-dca9-435b-80b8-262b969135af
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/dFBARNGsQ7x-3gilAkQY-vVfQZ-spiRIAGgvzcqiDvk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: 244
 ht-degree: 8%
 
 ---
@@ -55,11 +58,11 @@ ht-degree: 8%
   </tr>
   <tr>
    <td colspan="1">[!UICONTROL Title (default)]</td>
-   <td colspan="1">Posizione lavorativa</td>
+   <td colspan="1">Titolo del processo</td>
   </tr>
   <tr>
    <td>[!UICONTROL Company (default)]</td>
-   <td>Nome società</td>
+   <td>Nome dell’azienda</td>
   </tr>
   <tr>
    <td>[!UICONTROL Campaign (default)]</td>

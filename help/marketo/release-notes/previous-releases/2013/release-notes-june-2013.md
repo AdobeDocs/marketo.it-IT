@@ -4,9 +4,16 @@ description: Note sulla versione - Giugno 2013 - Documentazione Marketo - Docume
 title: Note sulla versione - Giugno 2013
 exl-id: c4f022f2-e579-42ed-9e47-00dcd96d0e6f
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/eQePp2FMfxvMsOkO3n0zHR3CkprQ0asS3oa9PzurWqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: 161
 ht-degree: 2%
 
 ---
@@ -35,7 +42,7 @@ Clonare le risorse in sottocartelle.
 
 ## Modelli multipli {#multiple-models}
 
-Idea fondamentale per l’analisi del ciclo dei ricavi (RCA, Revenue Cycle Analytics) nella community, questa funzione consente di creare più modelli per comprendere in modo più dettagliato il funnel dei ricavi per linea di prodotto, business unit o area geografica. I rapporti Lead per fase ricavi, Analisi del percorso di successo, Analizzatore di programma ed Esplora ricavi ora supportano la possibilità di selezionare un modello specifico per la generazione di rapporti.
+Ideale per l’analisi del ciclo di ricavi nella community, questa funzione consente di creare più modelli per comprendere in modo più dettagliato il funnel dei ricavi per linea di prodotto, business unit o area geografica. I rapporti Lead per fase ricavi, Analisi del percorso di successo, Analizzatore di programma ed Esplora ricavi ora supportano la possibilità di selezionare un modello specifico per la generazione di rapporti.
 
 Per impostazione predefinita, sono disponibili due modelli per Select SMB Edition e quindici modelli per Enterprise Edition. È possibile acquistare anche altri modelli.
 

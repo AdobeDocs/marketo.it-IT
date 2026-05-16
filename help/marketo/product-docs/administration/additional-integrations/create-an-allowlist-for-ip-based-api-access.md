@@ -1,19 +1,27 @@
 ---
 unique-page-id: 10098433
-description: Restrict API access to specific IP addresses or ranges via Admin Web Services IP Restrictions.
-title: Creare un elenco Consentiti per l’accesso API basato su IP
+description: Limita l’accesso API a specifici indirizzi IP o intervalli tramite le restrizioni IP dei servizi web di amministrazione.
+title: Creazione di un Inserisco nell'elenco Consentiti di accesso API basato su IP
 exl-id: 1a2f2216-07ee-4d37-b883-458ea39fc452
 feature: Administration
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/MIuDfjHpqBC2Z-hMEgtk0BvK-W2DEL25M-j6GNQK9zI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 15%
+source-wordcount: 161
+ht-degree: 0%
 
 ---
 
-# Creare un elenco Consentiti per l’accesso API basato su IP {#create-an-allowlist-for-ip-based-api-access}
+# Creazione di un Inserisco nell&#39;elenco Consentiti di accesso API basato su IP {#create-an-allowlist-for-ip-based-api-access}
 
-Sometimes, you want to give API access only to a specific IP address or a range of addresses. To do this, you first enable restrictions, then specify the IP addresses that are allowed to use the APIs.
+A volte, è necessario concedere l’accesso API solo a un indirizzo IP specifico o a un intervallo di indirizzi. A questo scopo, devi innanzitutto abilitare le restrizioni, quindi specificare gli indirizzi IP che possono utilizzare le API.
 
 >[!NOTE]
 >
@@ -21,32 +29,32 @@ Sometimes, you want to give API access only to a specific IP address or a range 
 
 >[!CAUTION]
 >
->Enabling this feature prevents you from being able to access the [Marketo MCP Server](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mcp-server){target="_blank"} at this time. This is expected to be resolved in an upcoming release.
+>L&#39;attivazione di questa funzionalità impedisce l&#39;accesso a [Marketo MCP Server](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mcp-server){target="_blank"} in questo momento. Questa situazione dovrebbe essere risolta in una prossima versione.
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-1.png)
 
-1. Fai clic su **[!UICONTROL Web Services]**.
+1. Fare clic su **[!UICONTROL Web Services]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-2.png)
 
-1. In the **[!UICONTROL IP Restrictions]** area, click **[!UICONTROL Edit],** or click **[!UICONTROL Edit IP Restrictions]** in the upper left.
+1. Nell&#39;area **[!UICONTROL IP Restrictions]** fare clic su **[!UICONTROL Edit],** o su **[!UICONTROL Edit IP Restrictions]** in alto a sinistra.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-3.png)
 
-1. Check the **[!UICONTROL Enable IP Restrictions]** box and enter the IP addresses you want to Allowlist.
+1. Selezionare la casella **[!UICONTROL Enable IP Restrictions]** e immettere gli indirizzi IP che si desidera Inserire nell&#39;elenco Consentiti.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-4.png)
 
    >[!NOTE]
    >
-   >You can enter a single IP address or a range of them, or use a wildcard.
+   >È possibile immettere un singolo indirizzo IP o un intervallo oppure utilizzare un carattere jolly.
 
-1. Click **[!UICONTROL Add]** to open additional fields to enter more IP addresses.
+1. Fare clic su **[!UICONTROL Add]** per aprire ulteriori campi e immettere altri indirizzi IP.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-5.png)
 
-1. Fai clic su **[!UICONTROL Save]**.
+1. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/create-an-allowlist-for-ip-based-api-access-6.png)

@@ -3,9 +3,12 @@ description: Scopri le opzioni di invio di e-mail in blocco in Azioni Insight di
 title: Opzioni di invio e-mail in blocco
 exl-id: 08cc60d5-0db1-4dfa-9441-4c5e5a021d73
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/o4PzEJ3Rh1p-8ixAC5fOg3XzUg4GM6tBjBnt6F7QEm4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: 266
 ht-degree: 5%
 
 ---

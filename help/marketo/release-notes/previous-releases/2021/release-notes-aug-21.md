@@ -2,9 +2,25 @@
 description: Note sulla versione - Agosto 2021 - Documentazione Marketo - Documentazione del prodotto
 title: Note sulla versione - agosto 2021
 exl-id: 4aec4e0b-520e-4786-a110-8e68f1bf9950
-source-git-commit: b29fba0718fda60c6369c398b2b1497d44f91782
+TQID: https://experienceleague.adobe.com/eX6BJ2kUTiOEw6RjiuSu8883IqyfX6cUBqkr7zdGZv0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: 908
 ht-degree: 1%
 
 ---
@@ -63,7 +79,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ![](assets/yellow-star.png)
 
-* Integrazione di Forms **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Lead Gen Forms è una delle offerte di paid media a più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione esistente di [!DNL LinkedIn] Ads con [!DNL Bizible].
+* Integrazione di Forms **[!DNL Bizible]&#x200B;[!DNL LinkedIn] Lead Gen**: Gli addetti al marketing possono ora eseguire l&#39;attribuzione dei ricavi sulle conversioni che si verificano quando [!DNL LinkedIn] acquisisce i moduli compilati tramite le unità pubblicitarie Forms Lead Gen. Queste informazioni possono quindi essere utilizzate per ottimizzare le prestazioni dei moduli e gli investimenti in supporti a pagamento. [!DNL LinkedIn] Forms di generazione lead è una delle offerte di media a pagamento in più rapida crescita di [!DNL LinkedIn] e questa nuova funzionalità è inclusa nell&#39;integrazione esistente di [!DNL LinkedIn] Ads con [!DNL Bizible].
 
 * **Dashboard Velocity migliorato**: è stata aggiunta una nuova metrica di velocità e un nuovo filtro del dashboard per ottenere informazioni più approfondite. Questa dashboard viene utilizzata dagli esperti di marketing per comprendere la velocità di lead e opportunità di ogni fase e l’efficienza di diverse forme di coinvolgimento di marketing e vendita.
 

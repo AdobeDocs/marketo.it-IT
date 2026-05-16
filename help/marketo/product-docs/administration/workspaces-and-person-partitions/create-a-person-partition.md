@@ -4,9 +4,16 @@ description: Passaggi per creare una nuova partizione persona, denominarla e ass
 title: Creare una partizione persone
 exl-id: 097fd314-c3e1-4123-af47-2f7e53a658e3
 feature: Partitions
-source-git-commit: 1146a55b77910283323903c78d3b0d0cbd715462
+TQID: https://experienceleague.adobe.com/4g-iqBI-P6rlgXmXFFqVpK5cJlCv3ZqVV4EcOSuu6tE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: 73
 ht-degree: 21%
 
 ---

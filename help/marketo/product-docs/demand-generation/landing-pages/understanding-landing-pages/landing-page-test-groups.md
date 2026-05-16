@@ -4,10 +4,15 @@ description: Scopri i gruppi di test delle pagine di destinazione in Marketo. Es
 title: Gruppi di test della pagina di destinazione
 exl-id: 2d765cc9-9914-41ce-b602-01ffaf2ee0db
 feature: Landing Pages
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/8RZuj0vLcsc5JowokHWY0qI55I-3vd6EkffgnsDNta4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '185'
-ht-degree: 7%
+source-wordcount: 185
+ht-degree: 0%
 
 ---
 
@@ -42,7 +47,7 @@ Marketo tiene traccia del numero di visualizzazioni di pagina e di completamenti
 
    ![](assets/three-1.png)
 
-1. Fai clic sul menu a discesa **[!UICONTROL Test Group Actions]** e seleziona **[!UICONTROL Approve Test Group]**.
+1. Fare clic sul menu a discesa **[!UICONTROL Test Group Actions]** e selezionare **[!UICONTROL Approve Test Group]**.
 
    ![](assets/four-1.png)
 

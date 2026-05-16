@@ -3,14 +3,28 @@ description: Imposta la sezione Database per la nuova istanza di Marketo Engage.
 title: Best practice per le nuove istanze - Elenco di controllo del database
 feature: Getting Started
 exl-id: 996ea2db-a00c-48e5-97a8-00f869c261b1
-source-git-commit: 26573c20c411208e5a01aa7ec73a97e7208b35d5
+TQID: https://experienceleague.adobe.com/yHZP1MXkAnmnz3zeucu2Bdm6FrCVtmnX9opKWiIJTAA
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '301'
-ht-degree: 2%
+source-wordcount: 451
+ht-degree: 5%
 
 ---
 
-# Best practice per le nuove istanze: elenco di controllo del database {#new-instance-best-practices-database-checklist}
+# Best practice per la nuova istanza: elenco di controllo del database {#new-instance-best-practices-database-checklist}
 
 Nella sezione Database sono disponibili gli attributi chiave delle persone presenti nell&#39;istanza. Scopri i passaggi necessari per spostarti tra i diversi elenchi e segmentazioni nel tuo database e come gestire i record di persone.
 
@@ -32,7 +46,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
     <li>Esaminare il numero totale di persone e persone commerciabili nel <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/database-dashboard.html?lang=it" target="_blank">database Marketo Engage</a>.</li></td>
   </tr>
   <tr>
-    <td>INSERISCO NELL'ELENCO BLOCCATI DI</td>
+    <td>Elenco Bloccati</td>
     <td><li>Definisci i criteri di inserisce nell'elenco Bloccati dei. Prendi in considerazione l'aggiunta dei domini della concorrenza al tuo <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.html?lang=it" target="_blank">inserisco nell'elenco Bloccati di</a> per impedire loro di ricevere le tue e-mail.</li></td>
   </tr>
   <tr>
@@ -40,7 +54,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
     <td><li>Definisci i criteri di <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe#marketing-suspended" target="_blank">Marketing sospeso</a>.</li></td>
   </tr>
   <tr>
-    <td>Indirizzi e-mail non recapitati </td>
+    <td>Indirizzi e-mail con mancato recapito </td>
     <td><li>Definisci i criteri per gli indirizzi e-mail non recapitati.</li>
     <li>Rivedi le persone nella categoria "E-mail non valida" e determina se le e-mail devono essere <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/hard-and-soft-bounces-in-email.html?lang=it" target="_blank">reimpostate manualmente</a>.</li></td>
   </tr>
@@ -55,7 +69,7 @@ Ricordati di [scaricare le liste di controllo](/help/marketo/getting-started/imp
     <td><li>Stabilisci campagne nei modelli di programma che impostano un programma di acquisizione, soprattutto se utilizzi moduli globali.</li></td>
   </tr>
   <tr>
-    <td>Persone non abbonate</td>
+    <td>Persone con iscrizione annullata</td>
     <td><li>Rivedi i criteri per <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=it" target="_blank">Utenti non iscritti</a>.</li></td>
   </tr>
 </tbody>

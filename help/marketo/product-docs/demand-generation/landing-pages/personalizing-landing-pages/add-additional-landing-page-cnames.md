@@ -4,10 +4,13 @@ description: Scopri come aggiungere altri CNAME per pagine di destinazione in Ma
 title: Aggiungere altri CNAME alla pagina di destinazione
 exl-id: eb5a7f69-552e-49a2-91db-a784f4639cd0
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '230'
-ht-degree: 6%
+source-wordcount: 222
+ht-degree: 7%
 
 ---
 
@@ -23,7 +26,7 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 >
 >**Stesso dominio di primo livello - Buono! I cookie sono condivisi**.<br/> **vai**.mycompany.com > **info**.mycompany.com
 >
->**Domini di primo livello diversi - non validi! I cookie sono _non_ condivisi**.<br/> vai.**società**.com > vai.**mionuova società**.com
+>**Domini di primo livello diversi - non validi! I cookie sono _non_ condivisi**.<br/> vai.**miaazienda**.com > vai.**miaazienda**.com
 
 >[!NOTE]
 >

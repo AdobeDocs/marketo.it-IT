@@ -4,9 +4,12 @@ description: Scopri come invitare gli utenti al tuo account Sales Connect. Puoi 
 title: Invitare gli utenti
 exl-id: 0d8cfbf5-ec34-498d-a51e-29935442b0cd
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/N0ZY75CwdkxCT6PfwBZgK5knAKsYWGA3pwupSLF5AL0
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: 66
 ht-degree: 9%
 
 ---

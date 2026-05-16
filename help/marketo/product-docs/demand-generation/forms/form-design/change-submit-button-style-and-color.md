@@ -1,21 +1,26 @@
 ---
 unique-page-id: 2359620
 description: Scopri come modificare lo stile e il colore del pulsante Invia in un modulo di Marketo. Abbina il pulsante al tuo marchio e design.
-title: Cambiare stile e colore del pulsante Invia
+title: Cambia stile e colore del pulsante Invia
 exl-id: a94143d4-0cd5-4c27-b8b1-73d803763e9d
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/uCgQuqRelLuGuBLXjvOMymJdlqO-jH--caWtte-bY14
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 12%
+source-wordcount: 139
+ht-degree: 0%
 
 ---
 
-# Cambiare stile e colore del pulsante Invia {#change-submit-button-style-and-color}
+# Cambia stile e colore del pulsante Invia {#change-submit-button-style-and-color}
 
 Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di più sofisticato, puoi scegliere tra un&#39;ampia gamma di stili di pulsante pronti all&#39;uso.
 
-1. Passa a **[!UICONTROL Marketing Activities]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-3.png)
 
@@ -43,15 +48,15 @@ Se il pulsante di invio standard è poco chiaro o se hai bisogno di qualcosa di 
    >
    >È inoltre possibile immettere manualmente il codice colore.
 
-1. Fai clic su **[!UICONTROL Select]**.
+1. Fare clic su **[!UICONTROL Select]**.
 
    ![](assets/image2014-9-15-16-3a56-3a37.png)
 
-1. Fai clic su **[!UICONTROL Finish]**.
+1. Fare clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-16-3a56-3a52.png)
 
-1. Fai clic su **[!UICONTROL Approve and Close]**.
+1. Fare clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2014-9-15-16-3a57-3a10.png)
 

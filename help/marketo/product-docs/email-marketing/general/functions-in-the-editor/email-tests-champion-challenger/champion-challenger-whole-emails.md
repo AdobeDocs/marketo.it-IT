@@ -4,10 +4,13 @@ description: Scopri come eseguire i test Champion/Challenger con e-mail intere. 
 title: Champion/Challenger - E-mail intere
 exl-id: fb95b412-5766-44a8-b250-aa5103a604bc
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/-XoBeMYaVcDqM1CvAe9Kl4UzUa-HCxOs3jTO9C68zSk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 1%
+source-wordcount: 254
+ht-degree: 2%
 
 ---
 

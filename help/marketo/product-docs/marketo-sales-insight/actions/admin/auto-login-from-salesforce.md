@@ -3,9 +3,12 @@ description: Scopri come abilitare l’accesso automatico da Salesforce in modo 
 title: Accesso automatico da Salesforce
 exl-id: 3b788af5-6204-40f8-af79-74729de45744
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/q6r5vG5dwpOpfUAaJ98MGhf5PW8ppw3bYv-Yv52A5DY
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: 97
 ht-degree: 0%
 
 ---

@@ -4,9 +4,24 @@ description: Note sulla versione - Agosto 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Agosto 2014
 exl-id: 789af65d-f42a-4500-bebc-fc4dd709379d
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/11A7owMguRaH-ceWbIhCiZUrkJgpUrxhD7OMSLIixuk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: 401
 ht-degree: 1%
 
 ---
@@ -19,7 +34,7 @@ Le seguenti funzioni sono incluse nella versione di agosto 2014. Verifica la dis
 
 Dopo il 5 settembre 2014, solo 5 utenti possono avere accesso gratuito al calendario di marketing. Assicurati di [rilasciare/revocare una licenza di Marketing Calendar](/help/marketo/product-docs/core-marketo-concepts/marketing-calendar/understanding-the-calendar/issue-revoke-a-marketing-calendar-license.md) agli utenti da te scelti prima di tale data per un accesso ininterrotto.
 
-![—](assets/image2014-9-16-9-3a45-3a52.png)
+![--](assets/image2014-9-16-9-3a45-3a52.png)
 
 ## Autorizzazioni per nuovi utenti {#new-user-permissions}
 

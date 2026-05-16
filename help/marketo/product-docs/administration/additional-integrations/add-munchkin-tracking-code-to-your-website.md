@@ -1,29 +1,38 @@
 ---
 unique-page-id: 2360354
-description: Add Marketo [!DNL Munchkin] JavaScript to your site to track visits and enable web-based campaigns.
-title: Add [!DNL Munchkin] Tracking Code to Your Website
+description: Aggiungi Marketo [!DNL Munchkin] JavaScript al tuo sito per tenere traccia delle visite e abilitare le campagne basate sul Web.
+title: Aggiungi  [!DNL Munchkin] Codice di tracciamento al tuo sito Web
 exl-id: a03a7f11-8d5e-4325-b975-8fc350711da0
 feature: Administration, Munchkin Tracking Code
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/3L0oDc3Xx3IaOy8t8Ut2W9c4YkRTdS5Ryd4r-Yuuhts
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: 652
 ht-degree: 5%
 
 ---
 
-# Add [!DNL Munchkin] Tracking Code to Your Website {#add-munchkin-tracking-code-to-your-website}
+# Aggiungi il codice di tracciamento [!DNL Munchkin] al tuo sito Web {#add-munchkin-tracking-code-to-your-website}
 
-Marketo&#39;s custom JavaScript tracking code, called [!DNL Munchkin], tracks all individuals who visit your website so you can react to their visits with automated marketing campaigns. Even anonymous visitors are tracked along with their IP addresses and other information. **Without this tracking code, you will not be able to track visits or other activity on your website**!
+Il codice di tracciamento JavaScript personalizzato di Marketo, denominato [!DNL Munchkin], tiene traccia di tutti gli utenti che visitano il tuo sito Web in modo che tu possa reagire alle loro visite con campagne di marketing automatizzate. Anche i visitatori anonimi vengono tracciati insieme ai loro indirizzi IP e altre informazioni. **Senza questo codice di tracciamento, non potrai tenere traccia di visite o altre attività sul tuo sito Web**.
 
 >[!PREREQUISITES]
 >
->Ensure you have access to an experienced JavaScript developer. Il supporto tecnico Marketo non è configurato per fornire assistenza nella risoluzione dei problemi relativi al JavaScript personalizzato.
+>Assicurati di avere accesso a uno sviluppatore JavaScript esperto. Il supporto tecnico Marketo non è configurato per fornire assistenza nella risoluzione dei problemi relativi al JavaScript personalizzato.
 
 ## Aggiungere il codice di tracciamento al tuo sito web {#add-tracking-code-to-your-website}
 
 >[!NOTE]
 >
->Adobe Experience Cloud users can also use the [Marketo integration in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} to include [!DNL Munchkin] script on their web pages. If you use Adobe Launch, _the [!DNL Munchkin] script gets added automatically_, so you would not need to add it yourself.
+>Gli utenti di Adobe Experience Cloud possono inoltre utilizzare l&#39;integrazione di [Marketo in Adobe Launch](https://exchange.adobe.com/apps/ec/100223/adobe-launch-core-extension){target="_blank"} per includere lo script [!DNL Munchkin] nelle proprie pagine Web. Se si utilizza Adobe Launch, _lo script [!DNL Munchkin] viene aggiunto automaticamente_, pertanto non è necessario aggiungerlo manualmente.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -33,37 +42,37 @@ Marketo&#39;s custom JavaScript tracking code, called [!DNL Munchkin], tracks al
 
    ![](assets/add-munchkin-tracking-code-to-your-website-2.png)
 
-1. Select **[!UICONTROL Asynchronous]** for **[!UICONTROL Tracking Code Type]**.
+1. Selezionare **[!UICONTROL Asynchronous]** per **[!UICONTROL Tracking Code Type]**.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-3.png)
 
    >[!NOTE]
    >
-   >In almost all cases, you should use the asynchronous code. [Ulteriori informazioni](#types-of-munchkin-tracking-codes).
+   >Nella maggior parte dei casi, devi utilizzare il codice asincrono. [Ulteriori informazioni](#types-of-munchkin-tracking-codes).
 
-1. Copy the JavaScript tracking code to add to your website.
+1. Copia il codice di tracciamento JavaScript da aggiungere al sito web.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-4.png)
 
    >[!CAUTION]
    >
-   >Do not use the code shown in this screenshot - you must use the unique code that appears in your account.
+   >Non utilizzare il codice mostrato in questa schermata: devi utilizzare il codice univoco visualizzato nel tuo account.
 
    >[!TIP]
    >
-   >Put tracking code on the web pages you want to track. This may be every page for smaller sites, or only key pages on sites that have many dynamically generated Web pages, user forums, and so on.
+   >Inserisci il codice di tracciamento nelle pagine web che desideri tracciare. Può trattarsi di tutte le pagine per i siti più piccoli o solo di pagine chiave per i siti con molte pagine Web generate dinamicamente, forum utente e così via.
 
-   For best results, use the asynchronous [!DNL Munchkin] code and place it inside the `<head>` elements of your pages. If you are using the simple code (not recommended), this is right before the `</body>` tag.
+   Per ottenere risultati ottimali, utilizzare il codice [!DNL Munchkin] asincrono e inserirlo negli elementi `<head>` delle pagine. Se utilizzi il codice semplice (scelta non consigliata), si trova immediatamente prima del tag `</body>`.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-5.png)
 
    >[!TIP]
    >
-   >For sites that see a high volume of traffic (that is, hundreds of thousands of visits per month), it is recommended you opt not to track anonymous people. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
+   >Per i siti che registrano un elevato volume di traffico (ovvero centinaia di migliaia di visite al mese), si consiglia di scegliere di non tenere traccia delle persone anonime. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/leadtracking/lead-tracking){target="_blank"}.
 
-## Add Tracking Code When Using Multiple Workspaces {#add-tracking-code-when-using-multiple-workspaces}
+## Aggiungi Codice Di Tracciamento Quando Si Utilizzano Più Aree Di Lavoro {#add-tracking-code-when-using-multiple-workspaces}
 
-If you are using Workspaces in your Marketo account, you probably also have separate web presences that correspond to your workspaces. In that case, you can use the [!DNL Munchkin] tracking Javascript to assign your anonymous people to the correct workspace and partition.
+Se utilizzi le aree di lavoro nell’account Marketo, probabilmente avrai anche presentazioni web separate che corrispondono alle aree di lavoro. In tal caso, è possibile utilizzare JavaScript di monitoraggio [!DNL Munchkin] per assegnare le persone anonime all&#39;area di lavoro e alla partizione corrette.
 
 1. Passa alla schermata **[!UICONTROL Admin]**.
 
@@ -73,13 +82,13 @@ If you are using Workspaces in your Marketo account, you probably also have sepa
 
    ![](assets/add-munchkin-tracking-code-to-your-website-7.png)
 
-1. Select the appropriate workspace for the web pages you wish to track.
+1. Seleziona l’area di lavoro appropriata per le pagine web da monitorare.
 
    ![](assets/add-munchkin-tracking-code-to-your-website-8.png)
 
    >[!NOTE]
    >
-   >If you do not use the special workspace [!DNL Munchkin] code, the people will be assigned to the default partition that was created when your account was set up. Il nome è &#39;[!UICONTROL Default]&#39; per impostazione predefinita, ma è possibile che sia stato modificato.
+   >Se non si utilizza il codice speciale dell&#39;area di lavoro [!DNL Munchkin], le persone verranno assegnate alla partizione predefinita creata al momento della configurazione dell&#39;account. Il nome è &#39;[!UICONTROL Default]&#39; per impostazione predefinita, ma è possibile che sia stato modificato.
 
 1. Selezionare **[!UICONTROL Asynchronous]** per **[!UICONTROL Tracking Code Type]**.
 

@@ -3,9 +3,12 @@ description: Scopri come generare domande per Dynamic Chat utilizzando gli URL e
 title: Generazione della domanda
 feature: Dynamic Chat
 exl-id: 05e0fd4c-b8e0-47de-8ca8-d4ba07d6a06a
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/aNb02vSBYXLUd-bGqvbbTB6IXSL6IY-8KCozGeZjZsI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: 307
 ht-degree: 4%
 
 ---
@@ -30,7 +33,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    >[!IMPORTANT]
    >
-   >Per garantire che Marketo Engage possa eseguire il raschiamento del contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. [Per ulteriori dettagli, vedere di seguito](#ip-addresses-to-allowlist).
+   >Per garantire che Marketo Engage possa raschiare il contenuto dagli URL forniti, devi prima inserire nell&#39;elenco Consentiti diversi indirizzi IP. In questo caso, è necessario che l’utente che ha eseguito l’operazione sia in grado di eseguire l’operazione di raschiamento di un determinato contenuto dagli URL forniti. In questo caso, è necessario innanzitutto  diversi indirizzi IP. [Per ulteriori dettagli, vedere di seguito](#ip-addresses-to-allowlist).
 
    >[!NOTE]
    >
@@ -72,7 +75,7 @@ Visualizza tutte le attività e i relativi dettagli pertinenti, ad esempio quand
 
    ![](assets/question-generation-9.png)
 
-## Indirizzi IP da {#ip-addresses-to-allowlist}
+## Indirizzi IP da Inserire nell&#39;elenco Consentiti per l accesso {#ip-addresses-to-allowlist}
 
 Per abilitare l’estrazione dei contenuti dagli URL web durante la generazione di domande e risposte, individua la tua area geografica di seguito e verifica che l’indirizzo IP ad esso associato sia inserito nell&#39;elenco Consentiti dal team web.
 

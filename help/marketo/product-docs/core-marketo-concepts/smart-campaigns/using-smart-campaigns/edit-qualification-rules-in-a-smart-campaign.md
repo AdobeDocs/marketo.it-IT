@@ -4,9 +4,14 @@ description: Scopri come modificare le regole di qualifica in una campagna intel
 title: Modificare le regole di qualificazione in una campagna avanzata
 exl-id: 8b016fe4-8caf-4266-9f8f-2b05dae78cff
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/4ECvGFFV51jBniUn7-LG82svSLPwu3VJI2kt5-EmIqc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: 188
 ht-degree: 7%
 
 ---

@@ -4,10 +4,20 @@ description: Note sulla versione -Gennaio 2015 - Documentazione Marketo - Docume
 title: Note sulla versione - Gennaio 2015
 exl-id: f312ff87-6ac1-4167-be98-76600bb4b3cd
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/NrxOOJ5YBCQW4FtOB2Ki-oMlhy8VwVWOhO6BmjaEkFM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '354'
-ht-degree: 1%
+source-wordcount: 385
+ht-degree: 3%
 
 ---
 
@@ -21,7 +31,7 @@ Le seguenti funzioni sono incluse nella versione di gennaio 2015. Per informazio
 
 Ora puoi [creare visualizzazioni per dispositivi mobili per le pagine di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md) dall&#39;editor delle pagine di destinazione. Distribuisci il messaggio in modo efficace indipendentemente dal dispositivo e aumenta il coinvolgimento personalizzando i contenuti per facilitarne l’utilizzo in movimento. Questa funzione verrà implementata gradualmente nel corso della settimana successiva al rilascio.
 
-Video introduttivo sulla pagina di destinazione [-](https://youtu.be/aPQHlG2X6c0)
+[-Video introduttivo sulla pagina di destinazione-](https://youtu.be/aPQHlG2X6c0)
 
 **Nuove chiamate REST API**
 

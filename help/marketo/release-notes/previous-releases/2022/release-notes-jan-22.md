@@ -2,10 +2,29 @@
 description: Note sulla versione - Gennaio 2022 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Gennaio 2022
 exl-id: babc4e7f-3f11-4883-80c6-58e69c3e1ab4
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/sWnFMRl-gpHawYrXU3POsKo2V2OrO9DmiYKvo0oyN3g
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2:
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '884'
-ht-degree: 4%
+source-wordcount: 964
+ht-degree: 3%
 
 ---
 
@@ -32,7 +51,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **21 gennaio 2022**
 
 * **Sincronizzazione del tipo di campo Multiselect Optionset generalmente disponibile**: sincronizza il tipo di campo Multiselect Optionset da [!DNL Microsoft Dynamics] per sfruttare in elenchi avanzati e campagne avanzate per un targeting più granulare del pubblico. Alcuni esempi includono: argomenti/prodotti di interesse, modalità di comunicazione preferite e altro ancora. Questa nuova sincronizzazione è disponibile per [!DNL Microsoft Dynamics] versione 9.X (incluso Dynamics 365 Online).
 
-* **Autenticazione da server a server per[!DNL Microsoft Dynamics 365 Online]**: per una maggiore sicurezza, è ora possibile supportare Server to Server (S2S) come modalità di autenticazione aggiuntiva per l&#39;utente di sincronizzazione Marketo Engage in Azure Active Directory per l&#39;accesso non interattivo a [!DNL Microsoft Dynamics 365 Online]. Questo ti consente di utilizzare l’autenticazione a più fattori, in quanto tutte le autenticazioni e gli accessi saranno basati su OAuth (solo ID client e segreto client).
+* **Autenticazione da server a server per[!DNL Microsoft Dynamics 365 Online]**: per una maggiore sicurezza, ora supporteremo Server to Server (S2S) come modalità di autenticazione aggiuntiva per l&#39;utente di sincronizzazione Marketo Engage su Azure Active Directory per l&#39;accesso non interattivo a [!DNL Microsoft Dynamics 365 Online]. Questo ti consente di utilizzare l’autenticazione a più fattori, in quanto tutte le autenticazioni e gli accessi saranno basati su OAuth (solo ID client e segreto client).
 
 >[!NOTE]
 >

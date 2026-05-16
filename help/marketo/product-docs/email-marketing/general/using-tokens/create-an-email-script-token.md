@@ -4,10 +4,15 @@ description: Scopri come creare un token di script e-mail. Definisci i token per
 title: Creare un token di script e-mail
 exl-id: c7f8c3e0-6d64-4115-b9b6-261576360ba1
 feature: Tokens
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/3FbkNKaOjEX--zXCOC1EHLEVr5ChimEOJTROMY0bHmc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '212'
-ht-degree: 5%
+source-wordcount: 243
+ht-degree: 4%
 
 ---
 
@@ -49,9 +54,9 @@ Per gli sviluppatori avanzati, puoi utilizzare [gli script Velocity](https://vel
 
 1. Scrivi il tuo script in Velocity. Di seguito sono riportate alcune risorse utili:
 
-   * [Documentazione Scripting E-Mail Per Sviluppatori Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)
-   * [Guida utente Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
-   * [Guida di riferimento Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
+   * [Documentazione sugli script e-mail per sviluppatori Marketo](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/email-scripting)
+   * [Guida utente di Velocity](https://velocity.apache.org/engine/devel/user-guide.html)
+   * [Guida di riferimento di Velocity](https://velocity.apache.org/engine/devel/vtl-reference-guide.html)
    * [Strumenti Velocity Javadoc](https://velocity.apache.org/tools/releases/2.0/javadoc/index.html)
 
 1. Una volta completato lo script, fare clic su **[!UICONTROL Save]**.

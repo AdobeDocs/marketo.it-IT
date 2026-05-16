@@ -4,9 +4,12 @@ description: Scopri come pianificare un’e-mail per una data successiva dal plu
 title: Programmare un’e-mail per una data successiva
 exl-id: a3948f7d-c505-4e56-bf19-69d660c61740
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/0rYSj6xircNr9N8FsRxSzcN47KOeX3GF17ZNAi-sToI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: 148
 ht-degree: 9%
 
 ---

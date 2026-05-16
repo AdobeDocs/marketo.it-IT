@@ -1,16 +1,21 @@
 ---
 description: Scopri come impostare l’integrazione di ON24 con Marketo. Connetti il tuo account ON24 per sincronizzare webinar e dati di registrazione.
-title: Configurare l’integrazione ON24 con Marketo
+title: Configurare l'integrazione ON24 con Marketo
 exl-id: 395ffa37-b87d-4eb4-bf9f-72aa96dc819c
 feature: Events
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/qIKnrBwavLmy7tBqPTLvz72AJNIiVRzoEKQtH0OVgWg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '238'
-ht-degree: 10%
+source-wordcount: 238
+ht-degree: 0%
 
 ---
 
-# Configurare l’integrazione ON24 con Marketo{#set-up-the-on24-integration-with-marketo}
+# Configurare l&#39;integrazione ON24 con Marketo{#set-up-the-on24-integration-with-marketo}
 
 Segui questi passaggi per configurare l’integrazione dell’evento ON24.
 
@@ -28,7 +33,7 @@ Segui questi passaggi per configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-3.png)
 
-1. Immetti [!UICONTROL Role Name]. Aprire il menu **[!UICONTROL Access API]** e selezionare &quot;[!UICONTROL Read-Write Custom Object]&quot; e &quot;[!UICONTROL Read-Write Person]&quot;.&quot; Fai clic su **[!UICONTROL Create]**.
+1. Immetti [!UICONTROL Role Name]. Aprire il menu **[!UICONTROL Access API]** e selezionare &quot;[!UICONTROL Read-Write Custom Object]&quot; e &quot;[!UICONTROL Read-Write Person]&quot;.&quot; Fare clic su **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-4.png)
 
@@ -42,11 +47,11 @@ Segui questi passaggi per configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-6.png)
 
-1. Seleziona [!UICONTROL ON24 API Only Role (all workspaces)] creato. Selezionare la casella di controllo **[!UICONTROL API Only]**. Fai clic su **[!UICONTROL Next]**.
+1. Seleziona [!UICONTROL ON24 API Only Role (all workspaces)] creato. Selezionare la casella di controllo **[!UICONTROL API Only]**. Fare clic su **[!UICONTROL Next]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-7.png)
 
-1. Fai clic su **[!UICONTROL Send]**.
+1. Fare clic su **[!UICONTROL Send]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-8.png)
 
@@ -64,7 +69,7 @@ Segui questi passaggi per configurare l’integrazione dell’evento ON24.
 
    ![](assets/set-up-the-on24-integration-with-marketo-10.png)
 
-1. Scegli un [!UICONTROL display name]. Fai clic sul menu a discesa **[!UICONTROL Service]** e seleziona **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [&#x200B; nei passaggi precedenti](#create-a-new-user). Fai clic su **[!UICONTROL Create]**.
+1. Scegli un [!UICONTROL display name]. Fare clic sul menu a discesa **[!UICONTROL Service]** e selezionare **[!UICONTROL Custom]**. Immetti [!UICONTROL description]. Fai clic sul menu a discesa [!UICONTROL API Only User] e seleziona l&#39;utente che hai creato [&#x200B; nei passaggi precedenti](#create-a-new-user). Fare clic su **[!UICONTROL Create]**.
 
    ![](assets/set-up-the-on24-integration-with-marketo-11.png)
 

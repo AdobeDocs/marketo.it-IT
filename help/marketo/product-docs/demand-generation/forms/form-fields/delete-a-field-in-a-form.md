@@ -4,9 +4,14 @@ description: Scopri come eliminare un campo da un modulo di Marketo. Rimuovi dal
 title: Eliminare un campo in un modulo
 exl-id: 294150f1-309f-42a3-9569-628deb160fc9
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/qjDE4DIkk561T-m8naodIFdudxF7lsf2DZ0Ix4FIFwc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: 77
 ht-degree: 23%
 
 ---

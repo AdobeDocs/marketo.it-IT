@@ -3,9 +3,33 @@ description: Note sulla versione - Gennaio 2021 - Documentazione Marketo - Docum
 title: Note sulla versione - Gennaio 2021
 exl-id: 24a5f955-ef4b-4adf-9478-2653db6f9d79
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/0Mwxsvl6m0uIK7-L0GkX0mYKMnNXDuNjTmR-MBfLDXM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
+  - id: fc9b09fe-b844-4544-887b-e420c3b82065
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1235'
+source-wordcount: 1301
 ht-degree: 0%
 
 ---
@@ -60,7 +84,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 ![(stella)](assets/yellow-star.png)
 
 * **[Flussi di lavoro e-mail per test migliorati ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/actions-in-the-msi-panel/send-marketo-email/send-a-test-email.md)**: aumenta l&#39;efficienza del team di vendita con [!DNL Sales Insight] flussi di lavoro e-mail per test migliorati. I venditori possono inviare e-mail di prova agli indirizzi e-mail selezionati prima di inviare e-mail in blocco a 200 destinatari.
-* **[Informazioni sullo stato delle e-mail ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: gli utenti visualizzano un messaggio di avviso quando tentano di inviare un messaggio e-mail a un ID e-mail non valido o a un indirizzo e-mail non sottoscritto prima di inviare un messaggio e-mail.  Gli stati di consegna delle e-mail possono essere verificati nella scheda e-mail di [!DNL Sales Insight].
+* **[Informazioni sullo stato delle e-mail ([!DNL Salesforce] CRM)](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/email-tab.md)**: gli utenti visualizzano un messaggio di avviso quando tentano di inviare un messaggio e-mail a un ID e-mail non valido o a un indirizzo e-mail non iscritto prima di inviare un messaggio e-mail. Gli stati di consegna delle e-mail possono essere verificati nella scheda e-mail di [!DNL Sales Insight].
 * **Invia e-mail in blocco da [Account](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#account-layout) e [Opportunità](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/msi-feature-overview.md#opportunity-layout) Pannelli ([!DNL Salesforce] CRM)**: migliora l&#39;efficienza del flusso di lavoro del venditore e interagisci con un intero elenco di contatti dell&#39;account o dell&#39;opportunità utilizzando nuove funzioni per azioni in blocco. Invia e-mail o aggiungi contatti alle campagne Marketo Engage utilizzando la nuova opzione a discesa nelle schede account o opportunità invece di lavorare con i singoli contatti. Aggiungere contatti dell&#39;account a una watchlist per ricevere una notifica quando i lead diventano attivi.
 * **[[!DNL Sales Insight] per integrazioni non native [!DNL Salesforce] CRM](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md)**: gli abbonamenti GA con integrazioni Salesforce CRM personalizzate possono installare il pacchetto [!DNL Sales Insight] e aiutare i team di vendita a definire le priorità e interagire con i lead e le opportunità più promettenti.
 * **[Miglioramenti elementi di maggiore rilevanza](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/marketo-tab/best-bets.md)**: contatta rapidamente gli hot lead dalla scheda Elementi di maggiore rilevanza inviandoli per e-mail o aggiungendoli a una campagna Marketo Engage. Visualizza un lead in Marketo Engage o aggiungilo alla watchlist. Le azioni in blocco e le opzioni di ordinamento nella scheda [!UICONTROL Best Bets] consentono di risparmiare tempo e migliorare l&#39;efficienza del team vendite.
@@ -79,7 +103,7 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 * Tutti gli utenti devono effettuare l&#39;aggiornamento alla versione più recente di Sales Insight **prima del 15 gennaio 2021**. Se non hai completato l’aggiornamento, ti verrà richiesto di farlo al momento dell’accesso all’applicazione. Segui le istruzioni [in questa guida](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/upgrading/upgrading-your-msi-package.md). La versione aggiornata include una patch per una vulnerabilità di sicurezza identificata. La patch è stata originariamente rilasciata il 6 aprile 2016. Nota: **Le versioni 1.4363 o successive** non devono eseguire un aggiornamento.
 * Il servizio Form 1.0 diventerà obsoleto a partire dalla versione **maggio 2021**. Il servizio Forms 1.0 diventerà completamente obsoleto, con conseguente perdita di funzionalità delle risorse Forms 1.0 ancora in uso. Inoltre, gli invii di moduli effettuati tramite metodi non supportati, ad esempio moduli programmatici POST agli endpoint leadCapture/save e leadCapture/save2, verranno rifiutati. Per ulteriori informazioni e soluzioni, consulta [il nostro post in Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-the-Marketo-Engage-Form-Platform/ta-p/306631).
-* Nel 2021, Marketo Engage apporterà modifiche alla struttura URL per le pagine di destinazione, i moduli e le risorse di immagini e file. Per gli abbonamenti Marketo Engage esistenti, inizieremo il rollout graduale il 1° aprile 2021. Ulteriori dettagli sulla timeline di rollout saranno rilasciati a marzo 2021. Per informazioni dettagliate su come cambierà ogni tipo di risorsa interessata, consulta [il nostro post in Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632).
+* Nel 2021, Marketo Engage apporterà modifiche alla struttura URL per le pagine di destinazione, i moduli e le risorse di immagini e file. Per gli abbonamenti Marketo Engage esistenti, inizieremo il rollout graduale il 1° aprile 2021. Maggiori dettagli sulla timeline di rollout saranno rilasciati a marzo 2021. Per informazioni dettagliate su come cambierà ogni tipo di risorsa interessata, consulta [il nostro post in Marketing Nation](https://nation.marketo.com/t5/Product-Documents/Upcoming-Changes-to-Design-Studio-URLs/ta-p/306632).
 
 **_Webinar sulla versione del prodotto_**
 

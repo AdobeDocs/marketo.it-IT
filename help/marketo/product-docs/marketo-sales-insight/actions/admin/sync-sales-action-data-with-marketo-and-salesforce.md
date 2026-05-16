@@ -2,9 +2,14 @@
 description: Scopri come sincronizzare i dati delle azioni di Sales Insight con Marketo Engage e Salesforce.
 title: Sincronizzare i dati relativi alle azioni di vendita con Marketo e Salesforce
 exl-id: bb213d50-be22-492d-b74c-b8cfb834b2ca
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/SEElhIJ05KyqQUi5rLjSZjwFMdHDDO5is9Hqk7JxeIE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1068'
+source-wordcount: 1072
 ht-degree: 3%
 
 ---
@@ -71,7 +76,7 @@ La configurazione dei campi Marketo Engage sincronizzati con le azioni di Sales 
 
 ## Perché le azioni di Sales Insight dispongono di un proprio database? {#why-does-actions-have-its-own-database}
 
-Sales Insight Actions dispone di una propria applicazione web con un database dedicato di persone e attività per fornire un&#39;area di lavoro ottimizzata creata e progettata per i team di vendita. Questo consente ai responsabili delle vendite e ai venditori di disporre di uno spazio per sviluppare e gestire la propria strategia di coinvolgimento   senza concedere l’accesso o i privilegi all’area di lavoro principale di Marketo Engage, ottimizzata per gli specialisti delle operazioni di marketing.
+Sales Insight Actions dispone di una propria applicazione web con un database dedicato di persone e attività per fornire un&#39;area di lavoro ottimizzata creata e progettata per i team di vendita. Questo consente ai responsabili vendite e ai venditori di disporre di uno spazio per sviluppare e gestire la propria strategia di coinvolgimento senza concedere l&#39;accesso o i privilegi allo spazio di lavoro principale di Marketo Engage, ottimizzato per gli specialisti delle operazioni di marketing.
 
 ## Come vengono gestiti i duplicati? {#how-are-duplicates-handled}
 

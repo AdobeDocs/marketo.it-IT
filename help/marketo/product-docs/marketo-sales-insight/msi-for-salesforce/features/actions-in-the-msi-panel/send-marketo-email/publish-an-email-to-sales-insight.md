@@ -4,9 +4,16 @@ description: Scopri come pubblicare un’e-mail da Marketo a Sales Insight. Rend
 title: Pubblicare un messaggio e-mail su Sales Insight
 exl-id: 59b6821f-cbed-427f-942f-0a67cbd4e2df
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/7EFnNV-4RjI7nOwRnNJWtVTbxHPC2E6OEACX965cIqw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: 204
 ht-degree: 3%
 
 ---
@@ -33,7 +40,7 @@ Abilitare l&#39;impostazione Pubblica su [!DNL Sales Insight] per rendere dispon
 
    >[!NOTE]
    >
-   >Alle 23:00 (ora legale del Pacifico) della data di scadenza (se impostata), l&#39;e-mail resa disponibile scompare da :59 e dai relativi componenti aggiuntivi. [!DNL Sales Insight] Naturalmente sarà ancora accessibile in Marketo.
+   >Alle 23:00 (ora legale del Pacifico) della data di scadenza (se impostata), l&#39;e-mail resa disponibile scompare da [!DNL Sales Insight] e dai relativi componenti aggiuntivi. :59Naturalmente sarà ancora accessibile in Marketo.
 
 1. Fai clic su **[!DNL Save]**.
 

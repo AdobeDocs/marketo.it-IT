@@ -1,17 +1,25 @@
 ---
 unique-page-id: 10093041
 description: Scopri come modificare le iscrizioni agli elenchi avanzati aggiornando destinatari, frequenza, colonne, data di consegna finale e formato. Apportare le modifiche direttamente nella scheda Sottoscrizioni.
-title: Modificare un abbonamento a un elenco avanzato
+title: Modificare una sottoscrizione a un elenco avanzato
 exl-id: f745c887-c8f8-44bc-a0fe-da0669155ef9
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/5zO37cTaYpoqKJxN0c3UCGeFjj1npVmcfl59UwYS-cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 6%
+source-wordcount: 197
+ht-degree: 0%
 
 ---
 
-# Modificare un abbonamento a un elenco avanzato {#edit-a-smart-list-subscription}
+# Modificare una sottoscrizione a un elenco avanzato {#edit-a-smart-list-subscription}
 
 Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni, che viene visualizzata in Attività di marketing o Database:
 
@@ -37,7 +45,7 @@ Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni, che vie
 
    ![](assets/image2015-9-14-10-3a30-3a37.png)
 
-1. Aprire la colonna **[!UICONTROL Columns]** e utilizzare il selettore per aggiungere o rimuovere colonne dal report. Colonne report contiene tutte le colonne disponibili e Colonne Marketo mostra solo quelle selezionate per la visualizzazione nel report. Fai clic su **[!UICONTROL Save]**.
+1. Aprire la colonna **[!UICONTROL Columns]** e utilizzare il selettore per aggiungere o rimuovere colonne dal report. Colonne report contiene tutte le colonne disponibili e Colonne Marketo mostra solo quelle selezionate per la visualizzazione nel report. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2015-9-14-10-3a59-3a6.png)
 
@@ -45,7 +53,7 @@ Puoi modificare queste colonne direttamente nella scheda Sottoscrizioni, che vie
    >
    >Le colonne in Colonne di Marketo sono le colonne del rapporto, non quelle utilizzate nella scheda del rapporto Sottoscrizioni.
 
-1. Fare clic sulla colonna **[!UICONTROL End Date]** per modificare la data di fine. Selezionare **[!UICONTROL Never]** o **[!UICONTROL Date]**. Per una data, inseritela o sceglietela dal calendario. Fai clic su **[!UICONTROL Approve]**.
+1. Fare clic sulla colonna **[!UICONTROL End Date]** per modificare la data di fine. Selezionare **[!UICONTROL Never]** o **[!UICONTROL Date]**. Per una data, inseritela o sceglietela dal calendario. Fare clic su **[!UICONTROL Approve]**.
 
    ![](assets/image2015-9-14-11-3a6-3a38.png)
 

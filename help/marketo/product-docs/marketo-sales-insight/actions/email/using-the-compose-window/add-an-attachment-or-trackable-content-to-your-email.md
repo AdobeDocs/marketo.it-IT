@@ -3,9 +3,14 @@ description: Scopri come aggiungere allegati o contenuti tracciabili alle e-mail
 title: Aggiungere un allegato o un contenuto tracciabile all’e-mail
 exl-id: 932ab7f8-3d58-4bc2-a82d-3718f082c369
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/yPBxpWnkT0FsrMRlwUQ1bGLB6oeCuEW9IUHMUeqA7EM
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: 412
 ht-degree: 4%
 
 ---

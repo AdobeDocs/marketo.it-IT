@@ -1,12 +1,17 @@
 ---
 unique-page-id: 7514918
-description: Scopri i tipi di annullamento dell’abbonamento in Marketo Inserire nell'elenco Bloccati (Annulla abbonamento, Marketing Sospeso,). Utilizza il campo corretto per ogni scenario nelle campagne.
+description: Scopri i tipi di annullamento dell’abbonamento in Marketo (Annulla abbonamento, Marketing Sospeso,). Utilizza il campo corretto per ogni scenario nelle campagne.
 title: Informazioni sull’annullamento dell’iscrizione
 exl-id: 30866dc0-cdac-4e73-8dbf-d4b509012269
 feature: Deliverability
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/zmsCI3a7GECVNiuFjtjqgDQsjelBoccugPeuzAF4c4k
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: 238
 ht-degree: 4%
 
 ---

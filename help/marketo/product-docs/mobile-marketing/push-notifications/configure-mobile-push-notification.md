@@ -1,18 +1,24 @@
 ---
 description: Scopri come configurare una notifica push mobile. Imposta l’app, il testo del messaggio, le azioni di tocco, i collegamenti profondi e l’approvazione per l’invio.
-title: Configurare notifica push su dispositivo mobile
+title: Configurare le notifiche push per dispositivi mobili
 exl-id: 10368b13-40c9-435a-847c-68aaa5a892ea
 feature: Mobile Marketing
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-8Uq6iWU2ithRZ9pUDoFgCjICxCIggt2jtrQapokriw
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '506'
-ht-degree: 2%
+source-wordcount: 506
+ht-degree: 0%
 
 ---
 
-# Configurare notifica push su dispositivo mobile {#configure-mobile-push-notification}
+# Configurare le notifiche push per dispositivi mobili {#configure-mobile-push-notification}
 
-1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/configure-mobile-push-notification-1.png)
 
@@ -28,7 +34,7 @@ ht-degree: 2%
    >
    >Se il messaggio push si applica a una sola piattaforma (ad esempio, iOS), puoi escludere l&#39;altra piattaforma facendo scorrere manualmente il selettore su **Disabilitato**.
 
-1. Fai clic su **[!UICONTROL Next]**.
+1. Fare clic su **[!UICONTROL Next]**.
 
    ![](assets/configure-mobile-push-notification-4.png)
 
@@ -62,7 +68,7 @@ ht-degree: 2%
 
    ![](assets/configure-mobile-push-notification-8.png)
 
-1. Fai clic su **[!UICONTROL Approve and Close]**.
+1. Fare clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/configure-mobile-push-notification-9.png)
 

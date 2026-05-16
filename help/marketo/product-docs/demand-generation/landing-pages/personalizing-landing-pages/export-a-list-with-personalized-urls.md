@@ -4,9 +4,12 @@ description: Scopri come esportare un elenco con URL personalizzati da Marketo. 
 title: Esportare un elenco con URL personalizzati
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: 173
 ht-degree: 6%
 
 ---

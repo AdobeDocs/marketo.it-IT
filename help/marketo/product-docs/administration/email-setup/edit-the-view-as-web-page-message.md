@@ -1,17 +1,24 @@
 ---
 unique-page-id: 2360253
 description: Personalizza il testo del collegamento Visualizza come pagina web e HTML nell’e-mail di amministrazione mantenendo intatte le variabili richieste.
-title: Modificare il messaggio “Visualizza come pagina web”
+title: Modifica il messaggio "Visualizza come pagina web"
 exl-id: 5541fe6c-7297-4277-8355-ba7b4ac73e2e
 feature: Email Setup
-source-git-commit: df76402e5fb0c002afeb04d41c52801be67a7136
+TQID: https://experienceleague.adobe.com/mREJHheKv7c16atJ17pv8S9ZGUoLnD8jd5jyk6QtgR8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 31%
+source-wordcount: 153
+ht-degree: 0%
 
 ---
 
-# Modificare il messaggio “Visualizza come pagina web” {#edit-the-view-as-web-page-message}
+# Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message}
 
 Scopri come modificare il testo &quot;[Visualizza come pagina Web](/help/marketo/product-docs/email-marketing/general/functions-in-the-editor/add-a-view-as-web-page-link-to-an-email.md)&quot;.
 
@@ -19,13 +26,13 @@ Scopri come modificare il testo &quot;[Visualizza come pagina Web](/help/marketo
 >
 >**Autorizzazioni amministratore richieste**
 
-## Modificare il messaggio “Visualizza come pagina web” {#edit-the-view-as-web-page-message-1}
+## Modifica il messaggio &quot;Visualizza come pagina web&quot; {#edit-the-view-as-web-page-message-1}
 
-1. Passa alla schermata **[!UICONTROL Admin]**.
+1. Passare all&#39;area **[!UICONTROL Admin]**.
 
    ![](assets/edit-the-view-as-web-page-message-1.png)
 
-1. Fai clic su **[!UICONTROL Email]**.
+1. Fare clic su **[!UICONTROL Email]**.
 
    ![](assets/edit-the-view-as-web-page-message-2.png)
 

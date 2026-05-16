@@ -4,9 +4,12 @@ description: Comprendere i tipi di gruppo in Sales Connect. Scopri I miei gruppi
 title: Tipi di gruppo
 exl-id: 70b59c5d-f753-4b0d-b861-b2de379839a2
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/T9ZW2amKeLWFAbWHSuP4d858Qh8nqAfxwpyMESvKftk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: 95
 ht-degree: 6%
 
 ---
@@ -33,7 +36,7 @@ Informazioni sui diversi tipi di gruppo in [!UICONTROL Sales Connect].
   </tr>
   <tr>
    <td colspan="1"><p>[!UICONTROL Dynamic Groups]</p></td>
-   <td colspan="1">Contatti personali: tutti i contatti di cui si è proprietari.<br>Annulla iscrizione: contatti che hanno rinunciato alla ricezione della corrispondenza.</td>
+   <td colspan="1">Contatti personali: tutti i contatti di cui sei proprietario.<br>Annulla iscrizione: contatti che hanno rinunciato a ricevere corrispondenza.</td>
   </tr>
   <tr>
    <td><p>[!UICONTROL My Groups]</p></td>

@@ -4,10 +4,13 @@ description: Scopri come impostare il tracciamento del dominio personalizzato in
 title: Come impostare il tracciamento del dominio personalizzato
 exl-id: 55a9b5b7-214d-44e6-a52b-612d03835f01
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/iK8QMNOkLI25nbr0laGsU6sM6-ChiAlmcsModzw3Fkk
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 14%
+source-wordcount: 102
+ht-degree: 13%
 
 ---
 
@@ -17,4 +20,4 @@ Ti diamo la possibilità di configurare il tracciamento del dominio personalizza
 
 Per configurare questa impostazione, l&#39;amministratore IT deve seguire i passaggi elencati nella [pagina impostazioni](https://toutapp.com/custom_tracking_domain).
 
-Dopo aver configurato questa configurazione, verrà inserito nell&#39;elenco Consentiti come &quot;go.yourcompany.com&quot; qualsiasi collegamento presente nell’e-mail.
+Dopo aver configurato l’app, tutti i collegamenti presenti nell’e-mail verranno inseriti nell&#39;elenco Consentiti come &quot;go.yourcompany.com&quot;.

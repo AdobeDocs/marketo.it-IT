@@ -3,9 +3,15 @@ description: Scopri come impostare reCAPTCHA v3 per Marketo forms. Configura reC
 title: Configurazione di reCAPTCHA v3
 exl-id: 235a2688-59a8-4827-a929-a07f3ae06988
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/DMCWJvJQu1Gzdll6GEn9bhOM-eqlC1bP0Avoq7o-wlU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: 333
 ht-degree: 4%
 
 ---
@@ -52,7 +58,7 @@ I seguenti passaggi vengono eseguiti al di fuori di Marketo.
 
    >[!NOTE]
    >
-   >Ad esempio, se il [!UICONTROL Data Center] dell&#39;account è &quot;sjst&quot;, il dominio da inserire nell&#39;elenco Consentiti sarà `app-sjst.marketo.com`. Se [!UICONTROL Munchkin ID] è 123-ABC-789, il dominio da inserire nell&#39;elenco Consentiti sarà `123-ABC-789.mktoweb.com`.
+   >Ad esempio, se l&#39;account [!UICONTROL Data Center] è &quot;sjst&quot;, il dominio da inserire nell&#39;elenco Consentiti sarà `app-sjst.marketo.com`. Se [!UICONTROL Munchkin ID] è 123-ABC-789, il dominio da inserire nell&#39;elenco Consentiti sarà `123-ABC-789.mktoweb.com`.
 
 1. Imposta un proprietario e un indirizzo e-mail aggiuntivo a cui inviare eventuali avvisi relativi al servizio.
 

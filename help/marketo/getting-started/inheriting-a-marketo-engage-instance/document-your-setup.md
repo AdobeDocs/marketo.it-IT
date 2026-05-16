@@ -3,9 +3,16 @@ description: Documento istanza ereditato La tua configurazione - Documentazione 
 title: Documento istanza ereditata Configurazione
 feature: Getting Started
 exl-id: 57057a05-b05a-4451-a13f-05729d5410dc
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/nmRkM3TVZyi9ZwXxwM-nXNg-6qJoqx-cBL4ALs2zWXI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 299
 ht-degree: 3%
 
 ---
@@ -46,7 +53,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr>
    <td>Dizionario dati</td>
    <td><li>Esiste un dizionario dati separato che spieghi i campi disponibili?
-   <br/>     In caso contrario, puoi crearne una in una cartella accessibile al team Marketing Operations.</li></td>
+   <br/> In caso contrario, è consigliabile crearne una in una cartella accessibile al team Marketing Operations.</li></td>
   </tr>
   <tr>
    <td>Organizzazione</td>
@@ -61,7 +68,7 @@ Dopo aver appreso le aree chiave del prodotto da controllare quando si eredita u
   <tr>
    <td>Playbook</td>
     <td><li>La tua organizzazione dispone di un playbook utente o amministratore?
-    <br/>     In caso affermativo, aggiornale di conseguenza.</li></td>
+    <br/> In tal caso, aggiornale di conseguenza.</li></td>
   </tr>
   <tr>
    <td>Conversazioni con le parti interessate interne</td>

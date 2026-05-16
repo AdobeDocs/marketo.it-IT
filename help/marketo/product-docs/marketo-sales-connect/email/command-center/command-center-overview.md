@@ -4,9 +4,12 @@ description: Informazioni sul centro comandi in Sales Connect. Gestisci le attiv
 title: Panoramica del centro comandi
 exl-id: 141fa369-9ef9-48c7-a7ff-f5265d0e9ca5
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/hzr8OOsBDYhff0UJ-DqyaG6GGnfMePWeagHF78RbF7E
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '568'
+source-wordcount: 575
 ht-degree: 1%
 
 ---
@@ -53,7 +56,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   <tr>
    <td title="Colore di sfondo : Grigio"><br></td>
    <td title="Colore di sfondo : Grigio">[!UICONTROL Draft]</td>
-   <td title="Colore di sfondo : Grigio"><p>E-mail che sono state salvate come bozza.<br><strong>Nota:</strong> è possibile salvare come bozze solo singole e-mail. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td>
+   <td title="Colore di sfondo : Grigio"><p>Messaggi e-mail salvati come bozza.<br><strong>Nota:</strong> è possibile salvare come bozze solo i messaggi e-mail singoli. Le e-mail in blocco (Seleziona e invia e-mail e Raggruppa e-mail) non verranno salvate come bozze.</p></td>
   </tr>
   <tr>
    <td title="Colore di sfondo : Grigio"><br></td>
@@ -73,7 +76,7 @@ La sezione e-mail offre una panoramica di tutte le e-mail e ne semplifica l’or
   <tr>
    <td title="Colore di sfondo : Blu"><br></td>
    <td title="Colore di sfondo : Blu">[!UICONTROL Spam]</td>
-   <td title="Colore di sfondo : Blu"><p>E-mail che sono state contrassegnate manualmente come spam dal destinatario.<br><strong>Nota:</strong> questo problema viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td>
+   <td title="Colore di sfondo : Blu"><p>Messaggi e-mail contrassegnati manualmente come spam dal destinatario.<br><strong>Nota:</strong> Questo messaggio viene rilevato solo se sei un utente ToutApp legacy e hai accesso ai server MSC come canale di consegna.</p></td>
   </tr>
  </tbody>
 </table>

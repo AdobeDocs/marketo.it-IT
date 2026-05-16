@@ -4,10 +4,17 @@ description: Scopri come utilizzare il pulsante Push to Sales Connect in Salesfo
 title: Invia a  [!DNL Sales Connect]
 exl-id: 8fb99d28-d6c6-47c3-b4d2-c416251aff47
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/piy3bPtiO48FQhWEmpu5qo4denlJ8v1ZU-VXBlWh0Mg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 2%
+source-wordcount: 166
+ht-degree: 1%
 
 ---
 
@@ -34,6 +41,6 @@ Il pulsante [!UICONTROL Push to Tout] conterrà un elenco dei lead/contatti in [
 
    >[!NOTE]
    >
-   >[!DNL Sales Connect] aggiungerà il gruppo denominato &quot;SFDC-...&quot; alla pagina Relazioni della [applicazione Web](https://toutapp.com/login).
+   >[!DNL Sales Connect] aggiungerà questo gruppo denominato &quot;SFDC-...&quot; nella pagina Relazioni dell&#39;[applicazione Web](https://toutapp.com/login).
 
 1. Selezionare **[!UICONTROL Email Entire Group]** per inviare l&#39;e-mail del gruppo.

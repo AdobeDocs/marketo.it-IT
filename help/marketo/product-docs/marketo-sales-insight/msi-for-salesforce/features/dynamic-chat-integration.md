@@ -3,9 +3,16 @@ description: Scopri l’integrazione di Dynamic Chat con Marketo Sales Insight. 
 title: Integrazione Dynamic Chat
 exl-id: b2e3b4da-9ca7-4299-9c50-f52e0de91e36
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/6KP-StSNikG472sbPnquQqChyiIxPA1c-m1d-xyC7lo
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '364'
+source-wordcount: 363
 ht-degree: 6%
 
 ---
@@ -38,7 +45,7 @@ Per abilitare l&#39;integrazione di [!DNL Dynamic Chat], attenersi alla procedur
 
 ## Panoramica delle funzioni {#feature-overview}
 
-[!DNL Dynamic Chat] utenti possono sfruttare le seguenti [!DNL Sales Insight] attività...
+[!DNL Sales Insight] utenti possono sfruttare le seguenti [!DNL Dynamic Chat] attività...
 
 Finestra di dialogo coinvolta: collegata a Marketo e popolata in [!DNL Sales Insight] quando un visitatore fa clic su un chatbot e interagisce con la finestra di dialogo.
 
@@ -86,7 +93,7 @@ La scheda Chat è inclusa anche nella scheda Global Marketo. Include tre tipi di
 
 * [!UICONTROL Person]
 * [!UICONTROL Account]
-* [!UICONTROL Activity type] ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal])
+* [!UICONTROL Activity type] ([!UICONTROL Engaged Dialogue], [!UICONTROL Scheduled Appointment], [!UICONTROL Reached Goal])
 * [!UICONTROL Dialogue Name]
 * [!UICONTROL Date]
 

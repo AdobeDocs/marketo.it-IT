@@ -4,9 +4,12 @@ description: Scopri la pagina Tutti i contenuti, le relative metriche e come le 
 title: Informazioni su tutti i contenuti
 exl-id: 475943f0-bba4-4bd7-8808-de75475f934d
 feature: Predictive Content
-source-git-commit: cd7a000c415bedd561aa509e375ba0dee8e81d9f
+TQID: https://experienceleague.adobe.com/fzonhoTQmJlhdlbSFQ87CjwntcScl9f3-VjtwQL6At8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: 278
 ht-degree: 2%
 
 ---

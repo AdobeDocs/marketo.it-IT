@@ -4,9 +4,24 @@ description: Note sulla versione -19 giugno - Documentazione Marketo - Documenta
 title: Note sulla versione - Giugno '19
 exl-id: 292710f4-0072-4355-93c1-115c9b0ef723
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/l-uJTEC4AHKsGj-BPUHaIVvCpZkeXHSlNW9fivL6NrI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+  - id: de9e3aa9-f002-4fe1-897b-09ee3c55114b
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: 639
 ht-degree: 0%
 
 ---
@@ -22,7 +37,7 @@ Le seguenti funzionalità sono state rilasciate il 14 giugno 2019.
 ## Servizi di base di Marketo {#marketo-core-services}
 
 * **Checksum dell&#39;estrazione in blocco dei file**: verificare che sia stato recuperato un file completo confrontando l&#39;hash del file con la stringa di checksum dei processi di estrazione completati.
-* **Migrazione automatizzata da e-mail 1.0 a e-mail 2.0**: e-mail 2.0 è completamente compatibile con e-mail 1.0 e modelli. Scopri nuove funzionalità, come la possibilità di raggruppare gli elementi di contenuto (immagini, testo, ecc.) in moduli, definire variabili come Stringa, Colore, Immagine, ecc. nei modelli e sfrutta modelli di avvio completamente reattivi. Include anche un selettore del modello e-mail visivo.
+* **Migrazione automatizzata da e-mail 1.0 a e-mail 2.0**: e-mail 2.0 è completamente compatibile con e-mail 1.0 e modelli. Scopri nuove funzionalità, come la possibilità di raggruppare gli elementi di contenuto (immagini, testo, ecc.) nei moduli, definisci variabili come Stringa, Colore, Immagine, ecc. all’interno dei modelli e sfrutta i modelli iniziali completamente reattivi. Include anche un selettore del modello e-mail visivo.
 
 >[!CAUTION]
 >
@@ -51,7 +66,7 @@ Le seguenti funzionalità dovrebbero essere rilasciate nel corso del secondo tri
 * **Widget post blog community**: accesso ai post recenti dalla community in My Marketo.
 * **Widget a breve scadenza**: aggiungi il widget &quot;In scadenza&quot; alla dashboard di My Marketo per vedere quali campagne e pagine di destinazione sono impostate per scadere in seguito.
 * **Altre smart list**: segmentare e impostare la destinazione in modo appropriato con altre smart list, inclusi il passaggio di flusso &quot;Crea attività&quot;, le regole degli smart list CRM e altro ancora.
-* **Pagina dettagli campione/sfidante e-mail**: visualizza dati come criteri di vincita, creati in, ecc. dai test e-mail champion/challenge.
+* **Email Champion/Challenger Details Page**: visualizza dati come criteri di vittoria, creati alle, ecc. dai tuoi test e-mail champion/Challenger.
 
 ## Marketo [!DNL Sales Connect] {#marketo-sales-connect}
 

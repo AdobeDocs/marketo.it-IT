@@ -4,10 +4,16 @@ description: Scopri come spostare un’e-mail in un altro programma o cartella. 
 title: Spostare un’e-mail
 exl-id: 1ad7940c-b06f-48d4-8564-aedda8f7029a
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/aLEEHp-4EKjKKKb9XxwgDJDDLP4O4aQ3mAgETAnCGRU
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 10%
+source-wordcount: 106
+ht-degree: 0%
 
 ---
 
@@ -15,7 +21,7 @@ ht-degree: 10%
 
 Spostare un messaggio e-mail da un programma a un altro? Ecco come.
 
-1. Passa a **[!UICONTROL Marketing Activities]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/move-an-email-1.png)
 
@@ -23,7 +29,7 @@ Spostare un messaggio e-mail da un programma a un altro? Ecco come.
 
    ![](assets/move-an-email-2.png)
 
-1. Selezionare **[!UICONTROL Destination]**, **[!UICONTROL Program]** e **[!UICONTROL Folder]** facoltativi. Seleziona **[!UICONTROL Move]**.
+1. Selezionare **[!UICONTROL Destination]**, **[!UICONTROL Program]** e **[!UICONTROL Folder]** facoltativi. Selezionare **[!UICONTROL Move]**.
 
    ![](assets/move-an-email-3.png)
 

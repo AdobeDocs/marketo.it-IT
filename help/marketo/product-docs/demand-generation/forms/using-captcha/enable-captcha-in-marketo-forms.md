@@ -1,16 +1,23 @@
 ---
 description: Scopri come abilitare CAPTCHA in Marketo Forms. Riduci le richieste di posta indesiderata con reCAPTCHA o altre opzioni CAPTCHA.
-title: Abilitare CAPTCHA nei moduli Marketo
+title: Abilitare CAPTCHA in Marketo Forms
 exl-id: d83fc2d3-7ae4-4927-9a09-ea6995013b6f
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/h96LW3aYKHgGcqtPPctlQJsX2VNvPf-7rtxe7U-AAkI
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 11%
+source-wordcount: 101
+ht-degree: 0%
 
 ---
 
-# Abilitare CAPTCHA nei moduli Marketo {#enable-captcha-in-marketo-forms}
+# Abilitare CAPTCHA in Marketo Forms {#enable-captcha-in-marketo-forms}
 
 È possibile abilitare o disabilitare [!UICONTROL CAPTCHA] in base al modulo.
 
@@ -30,11 +37,11 @@ ht-degree: 11%
 
    ![](assets/enable-captcha-in-marketo-forms-4.png)
 
-1. Fai clic su **[!UICONTROL Finish]**.
+1. Fare clic su **[!UICONTROL Finish]**.
 
    ![](assets/enable-captcha-in-marketo-forms-5.png)
 
-1. Fai clic su **[!UICONTROL Approve and Close]**.
+1. Fare clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/enable-captcha-in-marketo-forms-6.png)
 

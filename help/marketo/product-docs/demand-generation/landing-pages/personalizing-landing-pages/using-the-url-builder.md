@@ -4,9 +4,14 @@ description: Scopri come utilizzare il Generatore di URL per gli URL personalizz
 title: Utilizzo del generatore di URL
 exl-id: f8c1e459-f50f-4f74-bf8a-1f1b64fcf46c
 feature: Landing Pages
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/C7P2TIGZMWFZs81tdVuYuM9T3VYZQdMBx8eFO7e5ZHg
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: 127
 ht-degree: 6%
 
 ---
@@ -29,6 +34,6 @@ Il Generatore di URL consente di creare URL che possono popolare i campi dei mod
 
    >[!NOTE]
    >
-   >Se nel generatore non sono presenti campi disponibili, verificare che il modulo contenga campi nascosti e che tali campi siano impostati per accettare i parametri URL[.](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter)
+   >Se nel generatore non sono presenti campi disponibili, verificare che il modulo contenga campi nascosti e che tali campi siano impostati per accettare i parametri URL[&#128279;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
 Ottimo lavoro! Ora puoi copiare e incollare l’URL e utilizzarlo sul web.

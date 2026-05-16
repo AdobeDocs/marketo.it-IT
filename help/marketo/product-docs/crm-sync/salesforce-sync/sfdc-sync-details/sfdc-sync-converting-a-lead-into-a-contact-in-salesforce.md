@@ -4,9 +4,12 @@ description: Scopri cosa accade quando si converte un lead in un contatto in Sal
 title: Sincronizzazione SFDC - Conversione di un lead in un contatto in Salesforce
 exl-id: 9c9dbe9a-80a6-4153-ac86-96f85025fe77
 feature: Salesforce Integration
-source-git-commit: 2b29f05a27f847184e0968442012d443e9e0597d
+TQID: https://experienceleague.adobe.com/Z5ApDpLvZhGu3-DeZHwQanilG1WILGFQF7VnDxQikr4
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: 163
 ht-degree: 0%
 
 ---

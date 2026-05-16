@@ -4,10 +4,22 @@ description: Risposte alle domande frequenti su Performance Insights, incluse le
 title: Domande frequenti su approfondimenti prestazioni
 exl-id: cee791c3-1845-4fca-b803-c0dc1c644549
 feature: Reporting
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/j0yX-068dvoBY9FHEfDzoVyPzZ5rbFSFYHg-eVAr7wE
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2:
+  - id: b9f06cb0-cdf7-4b83-a9d1-a701d132779b
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1364'
-ht-degree: 0%
+source-wordcount: 1388
+ht-degree: 1%
 
 ---
 
@@ -23,7 +35,7 @@ Il successo è una misura dell’interazione significativa in Marketo. Lo scopo 
 
 ## MPI funzionerà con qualsiasi CRM? {#will-mpi-work-with-any-crm}
 
-Sì.  Tecnicamente, MPI non interagisce direttamente con il sistema CRM per la sincronizzazione dei dati. MPI utilizza i dati memorizzati nel Data Warehouse di Marketo Analytics. Poiché la sincronizzazione CRM si verifica nell&#39;applicazione Gestione lead, qualsiasi CRM supportato da Marketo integrato nell&#39;applicazione Gestione lead visualizzerà correttamente i dati. Tuttavia, i campi dell’opportunità di gestione delle relazioni con i clienti devono essere mappati correttamente ai campi dell’opportunità di Marketo.
+Sì. Tecnicamente, MPI non interagisce direttamente con il sistema CRM per la sincronizzazione dei dati. MPI utilizza i dati memorizzati nel Data Warehouse di Marketo Analytics. Poiché la sincronizzazione CRM si verifica nell&#39;applicazione Gestione lead, qualsiasi CRM supportato da Marketo integrato nell&#39;applicazione Gestione lead visualizzerà correttamente i dati. Tuttavia, i campi dell’opportunità di gestione delle relazioni con i clienti devono essere mappati correttamente ai campi dell’opportunità di Marketo.
 
 ## Non ho altri prodotti di analisi di marketing (ARB, RCE, RCA, analisi del programma). L&#39;MPI funzionerà per me? {#i-do-not-have-any-other-marketing-analytics-products-arb-rce-rca-program-analysis-will-mpi-work-for-me}
 
@@ -82,7 +94,7 @@ I campi personalizzati, il tipo di opportunità e i filtri ABM sono tutti attrib
 
 ## Desidero utilizzare un campo opportunità Salesforce personalizzato per la generazione di rapporti sui ricavi anziché il campo importo opportunità Salesforce standard. L&#39;MPI mi permette di farlo? {#i-want-to-use-a-custom-salesforce-opportunity-field-for-revenue-reporting-instead-of-the-standard-salesforce-opportunity-amount-field-will-mpi-allow-me-to-do-that}
 
-Sì.  [Il supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) è in grado di rimappare il campo Importo opportunità di Marketo in un campo opportunità Salesforce personalizzato, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo Salesforce personalizzato ricampionato.
+Sì. [Il supporto Marketo](https://nation.marketo.com/t5/support/ct-p/Support) è in grado di rimappare il campo Importo opportunità di Marketo in un campo opportunità Salesforce personalizzato, purché il tipo di campo sia valuta. Poiché MPI punta al campo Importo opportunità Marketo, può utilizzare i dati del campo Salesforce personalizzato ricampionato.
 
 >[!NOTE]
 >
@@ -100,7 +112,7 @@ MPI è progettato per consentire di misurare le prestazioni del programma dall�
 
 ## Posso misurare il successo delle strategie basate su account in MPI? {#can-i-measure-the-success-of-account-based-strategies-in-mpi}
 
-Sì.  MPI si integra con [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) per richiamare gli elenchi di account ABM in MPI senza problemi. È possibile utilizzare il filtro Elenco account ABM per scegliere l&#39;elenco ABM desiderato in base al quale filtrare i dati.
+Sì. MPI si integra con [Marketo TAM](https://docs.marketo.com/display/DOCS/Account+Based+Marketing+Overview) per richiamare gli elenchi di account ABM in MPI senza problemi. È possibile utilizzare il filtro Elenco account ABM per scegliere l&#39;elenco ABM desiderato in base al quale filtrare i dati.
 
 ## L’attribuzione è immediatamente disponibile quando acquisto MPI? {#is-attribution-instantly-available-when-i-purchase-mpi}
 

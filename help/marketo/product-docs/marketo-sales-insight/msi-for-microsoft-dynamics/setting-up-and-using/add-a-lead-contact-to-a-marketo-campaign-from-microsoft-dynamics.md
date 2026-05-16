@@ -4,9 +4,16 @@ description: Scopri come aggiungere un lead o un contatto a una campagna Marketo
 title: Aggiungere un lead/contatto a una campagna Marketo da Microsoft Dynamics
 exl-id: f74b2ade-dd2c-4e04-a6cf-4bc80db12d42
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/-Koxk8vu7pdKpmATjaqEUuzdmCuG1WjBSy-exSHO8n8
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: 137
 ht-degree: 9%
 
 ---
@@ -37,6 +44,6 @@ Puoi aggiungere lead/contatti alle campagne intelligenti di Marketo in modo rapi
 
    >[!NOTE]
    >
-   >Affinché la campagna venga visualizzata nel menu a discesa, utilizza il trigger [**della** campagna richiesta](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md), con [!DNL Sales Insight] come origine, quando configuri la campagna.
+   >Affinché la campagna venga visualizzata nel menu a discesa, utilizza il trigger [&#128279;](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/setting-up-a-trigger-smart-campaign-for-sales-using-campaign-is-requested.md) della **campagna richiesta**, con [!DNL Sales Insight] come origine, quando configuri la campagna.
 
 E questa è tutta gente! Ora puoi sfruttare la potenza delle campagne intelligenti di Marketo direttamente da [!DNL Dynamics].
