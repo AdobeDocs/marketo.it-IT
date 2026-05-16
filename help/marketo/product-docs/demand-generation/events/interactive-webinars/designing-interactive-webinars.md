@@ -3,9 +3,13 @@ description: Scopri come progettare webinar interattivi in Marketo. Pianifica co
 title: Progettazione di webinar interattivi
 exl-id: e340910a-ddcb-46e8-82a9-faedf0ab2d74
 feature: Interactive Webinars
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-QrRSSkG0-w5Wfkgd-qESFfKtWdcC053-J-xzKT2Uec
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: 602
 ht-degree: 1%
 
 ---
@@ -76,9 +80,9 @@ Scopri come progettare il webinar in base alle tue esigenze.
 
 **Pod**: componente all&#39;interno di un modello che esegue una particolare attività durante il webinar. Ad esempio, l’impostazione e la distribuzione di un sondaggio per acquisire le risposte dei partecipanti in un’attività che può essere soddisfatta da un sondaggio. Allo stesso modo, chattare con i partecipanti per trasmettere un messaggio o interagire in modo casuale con loro può essere un&#39;attività distribuita tramite il chat pod. Sono disponibili diversi altri pod, ad esempio Condivisione, Appunti, Video, Chat, Elenco partecipanti, File, Collegamenti web, Sondaggi e Domande e risposte.
 
-      **Pod sondaggio**: consente agli host di progettare e inviare moduli di feedback strutturati direttamente all&#39;interno di una sessione live. Il pod di sondaggio estende le funzionalità esistenti dei pod di sondaggio consentendo di presentare più domande insieme, offrendo un modo più semplice e coeso per raccogliere le informazioni sui partecipanti. [Ulteriori informazioni](https://helpx.adobe.com/it/adobe-connect/using/survey-pod.html){target="_blank"}
+      **Pod sondaggio**: consente agli host di progettare e inviare moduli di feedback strutturati direttamente all&#39;interno di una sessione live. Il pod di sondaggio estende le funzionalità esistenti dei pod di sondaggio consentendo di presentare più domande insieme, offrendo un modo più semplice e coeso per raccogliere le informazioni sui partecipanti. [Ulteriori informazioni](https://helpx.adobe.com/adobe-connect/using/survey-pod.html){target="_blank"}
 
-      **Pool di risorse**: sostituisce i pod precedenti File e Collegamenti Web, fornendo un unico modo unificato per condividere le risorse durante le sessioni live. [Ulteriori informazioni](https://helpx.adobe.com/it/adobe-connect/using/resources-pod.html){target="_blank"}
+      **Pool di risorse**: sostituisce i pod precedenti File e Collegamenti Web, fornendo un unico modo unificato per condividere le risorse durante le sessioni live. [Ulteriori informazioni](https://helpx.adobe.com/adobe-connect/using/resources-pod.html){target="_blank"}
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,12 @@ description: Scopri come mostrare o nascondere dinamicamente un campo modulo in 
 title: Attivazione/disattivazione dinamica della visibilità di un campo modulo
 exl-id: 51b9283d-bfa1-4535-89ba-96c0ae2ea909
 feature: Forms
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/U3Lcsc5iBDigd3OdgrN0D7S3NBWllz9BwfztqeDBV98
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: 253
 ht-degree: 8%
 
 ---
@@ -69,6 +72,6 @@ Ora, quando gli utenti compilano questo modulo e selezionano Stati Uniti per Pae
 
 >[!IMPORTANT]
 >
->Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
+>Il comportamento del campo modulo funzionerà senza problemi quando i valori dei campi vengono impostati/aggiornati tramite script personalizzato utilizzando [funzioni API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference){target="_blank"} in Forms 2.0.
 >
 >I campi condizionali potrebbero non funzionare come previsto se i valori dei campi vengono modificati da script esterni diversi dall’API JavaScript di Forms 2.0.

@@ -1,12 +1,16 @@
 ---
 unique-page-id: 7512289
-description: Add [!DNL GoToWebinar] as a LaunchPoint service so Marketo manages webinar registration and attendance.
+description: Aggiungi [!DNL GoToWebinar] come servizio LaunchPoint in modo che Marketo gestisca la registrazione e la partecipazione ai webinar.
 title: Aggiungi [!DNL GoToWebinar] as a [!DNL LaunchPoint] Service
 exl-id: ebc845df-68e6-408f-8d0f-0c56d7e4baa3
 feature: Administration, Integrations
-source-git-commit: 40f06a5391f2f7263bea0c5b8cefc1f3a607c68c
+TQID: https://experienceleague.adobe.com/5KrCqBMRk-5avIMRc9GLDJPI5FY8JAWGwRaeC60HEFY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: 134
 ht-degree: 6%
 
 ---
@@ -49,9 +53,9 @@ Marketo gestisce la registrazione e la partecipazione a [!DNL GoToWebinar].
 
    >[!NOTE]
    >
-   >If you want to sync Company Name and Job Title from your Marketo form to [!DNL GoToWebinar], select the **[!UICONTROL Enable Additional Fields]** box.
+   >Se si desidera sincronizzare il nome della società e la posizione lavorativa dal modulo Marketo a [!DNL GoToWebinar], selezionare la casella **[!UICONTROL Enable Additional Fields]**.
 
-1. In the [!DNL GoToWebinar] Sign In pop-up window, enter your **[!UICONTROL GoToWebinar]** email and password and click **[!UICONTROL Sign In]**.
+1. Nella finestra popup Accesso a [!DNL GoToWebinar], immetti l&#39;e-mail e la password di **[!UICONTROL GoToWebinar]** e fai clic su **[!UICONTROL Sign In]**.
 
    ![](assets/add-gotowebinar-as-a-launchpoint-service-6.png)
 

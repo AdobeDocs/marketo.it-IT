@@ -4,16 +4,19 @@ description: Scopri il modello di pagina di destinazione guidata Modello 18E. Sc
 title: Modello 18E
 exl-id: 0677e0a8-0385-4f8b-a77c-de64da40cd38
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/mPzvErgtsaAXnwejADWmFNG-5i4yCuO9NQDQy3hfPpA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 6%
+source-wordcount: 78
+ht-degree: 5%
 
 ---
 
 # Modello 18E {#template-18e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 18E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)
 
 ![](assets/image2015-8-17-18-3a29-3a1.png)
 
@@ -29,4 +32,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html?lang=it)
+[Modello 18E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-18e.html)

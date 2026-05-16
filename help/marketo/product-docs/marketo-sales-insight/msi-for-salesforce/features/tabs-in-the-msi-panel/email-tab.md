@@ -3,10 +3,13 @@ description: Scopri la scheda E-mail nel pannello Marketo Sales Insight. Visuali
 title: Scheda e-mail
 exl-id: 2fbc966a-6409-4eca-8730-83843b03d19c
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/uG8cRVMM-ZAnS8qZgtvVIDeLJINBEeGS92pkaYmk3ns
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 3%
+source-wordcount: 171
+ht-degree: 4%
 
 ---
 
@@ -16,8 +19,8 @@ La scheda e-mail mostra un elenco di tutte le e-mail inviate a un contatto o a u
 
 * Oggetto
 * Data
-* Aperto
-* Clic effettuato
+* Apertura
+* Clic
 
 Un messaggio e-mail con l’icona Marketo accanto alla riga dell’oggetto indica che l’e-mail è stata inviata da Marketo. Un&#39;e-mail senza l&#39;icona Marketo indica che l&#39;e-mail è stata inviata da [!DNL Sales Insight].
 

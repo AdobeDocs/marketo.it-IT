@@ -4,10 +4,12 @@ description: Informazioni sulle chiamate internazionali di Sales Phone in Sales 
 title: Chiamate telefoniche internazionali di vendita
 exl-id: 5a5956fe-67f3-41dd-bbbe-b0cea1ded6f0
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/IYUuKHJBRfSrVMWH-jxgAFkgyDZo2GbIfvd4tNW-Krc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
-ht-degree: 7%
+source-wordcount: 409
+ht-degree: 23%
 
 ---
 
@@ -61,15 +63,15 @@ Il numero di telefono consente di comunicare facilmente a livello internazionale
   </tr>
   <tr>
    <td>Grecia </td>
-   <td>31, 3021</td>
+   <td>30, 3021</td>
   </tr>
   <tr>
    <td>Ungheria</td>
-   <td>37, 361</td>
+   <td>36, 361</td>
   </tr>
   <tr>
    <td colspan="1">Irlanda </td>
-   <td colspan="1">354, 3531</td>
+   <td colspan="1">353, 3531</td>
   </tr>
   <tr>
    <td>Israele</td>
@@ -113,7 +115,7 @@ Il numero di telefono consente di comunicare facilmente a livello internazionale
   </tr>
   <tr>
    <td colspan="1">Polonia </td>
-   <td colspan="1">49, 4832</td>
+   <td colspan="1">48, 4832</td>
   </tr>
   <tr>
    <td colspan="1">Portogallo </td>
@@ -121,7 +123,7 @@ Il numero di telefono consente di comunicare facilmente a livello internazionale
   </tr>
   <tr>
    <td colspan="1">Singapore </td>
-   <td colspan="1">64, 658, 659</td>
+   <td colspan="1">65, 658, 659</td>
   </tr>
   <tr>
    <td colspan="1">Spagna </td>
@@ -137,7 +139,7 @@ Il numero di telefono consente di comunicare facilmente a livello internazionale
   </tr>
   <tr>
    <td>Stati Uniti</td>
-   <td>1, 1800, 1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
+   <td>1, 1800,1808, 1844, 1855, 1866, 1867, 1877, 1888</td>
   </tr>
  </tbody>
 </table>
@@ -156,7 +158,7 @@ Di seguito è riportato l&#39;elenco dei paesi per i quali attualmente non suppo
 
 **Esistono tipi specifici di numeri che non è possibile chiamare con il telefono di vendita?**
 
-Sì.  Non sono supportate le chiamate ai numeri di telefono dei servizi a tariffa maggiorata (ad esempio i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non è supportata la chiamata di numeri telefonici a costo condiviso e di un numero limitato di altre rotte premium.
+Sì. Non sono supportate le chiamate ai numeri di telefono dei servizi a tariffa maggiorata (ad esempio i numeri 900 negli Stati Uniti e +449 nel Regno Unito). In generale, non è supportata la chiamata di numeri telefonici a costo condiviso e di un numero limitato di altre rotte premium.
 
 **Posso usare la presenza locale quando richiamo internazionale?**
 

@@ -4,9 +4,11 @@ description: Scopri come esportare le persone in Excel da un elenco o da un elen
 title: Esportare persone in Excel da un elenco o da un elenco avanzato
 exl-id: d2a184e2-fb22-47f7-8368-747fa803233e
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/gr2GJ22r0Kf7RCRHLsW04WYHXrsqcGAC0itjkFScKOE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: 173
 ht-degree: 14%
 
 ---

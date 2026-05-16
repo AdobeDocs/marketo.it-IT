@@ -3,9 +3,14 @@ description: Note sulla versione - Ottobre 2024 - Documentazione di Marketo - Do
 title: Note sulla versione - Ottobre 2024
 feature: Release Information
 exl-id: 2e28ae7f-51de-4510-b3e8-79a989f0daf5
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/3Qk4bF8OVxVoJYZbtedik6vRsAebYvj-ZMOfxXuzDMk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: 575
 ht-degree: 20%
 
 ---
@@ -92,7 +97,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 * **Aggiornamento API per estrazione in blocco**: è stato risolto un problema nell&#39;API per estrazione in blocco che interessava l&#39;opzione columnHeaderNames, che consente di specificare nomi di intestazione di colonna personalizzati nel file esportato. In precedenza, i nomi delle intestazioni di colonna contenenti caratteri non ASCII potevano danneggiarsi.
 
-* **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
+* **Parametro access_token API REST obsoleto**: il parametro di query &#39;access_token&#39; utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 marzo 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l&#39;intestazione &#39;Authorization&#39; [come descritto qui](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#using-an-access-token).
 
 * **Deprecazione del codice QR**: il 4 ottobre 2024 la funzione del codice QR utilizzata nelle notifiche push e nelle risorse di messaggistica in-app diventerà obsoleta. Ciò include l&#39;utilizzo di codici QR per un nuovo dispositivo di test e la creazione di nuove risorse con codici QR. Le funzioni obsolete con un utilizzo inferiore ci consentono di riallocare le loro risorse alla manutenzione complessiva di Marketo Engage.
 

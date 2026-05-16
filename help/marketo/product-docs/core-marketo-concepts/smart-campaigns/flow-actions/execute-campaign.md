@@ -3,9 +3,13 @@ description: Scopri come utilizzare il passaggio Esegui flusso Campaign. Esegui 
 title: Eseguire campagna
 exl-id: d550cf08-b295-4289-9bb0-79d81cabc245
 feature: Smart Campaigns
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/ggWhZOpbixcuP8E1mXOU4w49S-HQyT-NuXtLhFKGeeU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '718'
+source-wordcount: 718
 ht-degree: 1%
 
 ---
@@ -60,7 +64,7 @@ Se è impostato su true, i seguenti contesti di token vengono inviati nella camp
 
 **Interazione API**
 
-Quando si utilizza Schedule o Request Campaign [&#x200B; nell&#39;API](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
+Quando si utilizza Schedule o Request Campaign [ nell&#39;API](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/smart-campaigns#batch), entrambi consentono di trasmettere valori per I miei token, che sostituiscono i valori impostati per tali token nella campagna che si sta chiamando. Se tale campagna esegue un’altra campagna e imposta &quot;Use Parent Context&quot; (Usa contesto padre) su True, utilizzerà i valori trasmessi tramite l’API, anziché i valori impostati nell’applicazione.
 
 ## Aspetti da considerare {#things-to-note}
 

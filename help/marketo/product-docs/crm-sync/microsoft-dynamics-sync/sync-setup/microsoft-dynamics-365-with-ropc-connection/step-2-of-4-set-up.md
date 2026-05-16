@@ -3,9 +3,12 @@ description: Scopri come impostare la soluzione Marketo con connessione ROPC. Cr
 title: Passaggio 2 di 4 - Configurare la soluzione Marketo con la connessione di controllo della password del proprietario della risorsa
 exl-id: 41c05910-d8e3-4fb7-8f68-17ee10294e57
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/-pefk892NFYV87CCTDrt28Yz-GUS66YZY74Q3-8z4YI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: 409
 ht-degree: 1%
 
 ---
@@ -74,7 +77,7 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!IMPORTANT]
 >
->L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [&#x200B; deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Torna alla scheda [!UICONTROL Enabled Users] e aggiorna l&#39;elenco degli utenti.
 

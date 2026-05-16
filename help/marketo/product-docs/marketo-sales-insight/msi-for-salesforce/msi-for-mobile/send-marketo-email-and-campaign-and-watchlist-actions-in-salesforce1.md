@@ -4,9 +4,13 @@ description: Scopri come inviare e-mail a Marketo e utilizzare le azioni delle c
 title: Inviare azioni e-mail e campagne Marketo e watchlist in Salesforce1
 exl-id: 055754b1-4803-4ca6-aa3f-474175daad1a
 feature: Marketo Sales Insights
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/bJcrAu9z069YhqSKLMU2pAwwZmZ1t7f6Li1e2B2Bl-4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: 159
 ht-degree: 6%
 
 ---
@@ -23,7 +27,7 @@ ht-degree: 6%
 
    >[!NOTE]
    >
-   >Quali campagne intelligenti vengono visualizzate? Quelli con trigger &quot;Campaign is Requested&quot; (È richiesta la campagna). Scopri come impostare una campagna attivata da [&#x200B; utilizzando &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
+   >Quali campagne intelligenti vengono visualizzate? Quelli con trigger &quot;Campaign is Requested&quot; (È richiesta la campagna). Scopri come impostare una campagna attivata da [ utilizzando &quot;Campaign is Requested](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/request-campaign.md)&quot;.
 
 Fantastico, ora i tuoi venditori possono partecipare attivamente alle attività di marketing.
 

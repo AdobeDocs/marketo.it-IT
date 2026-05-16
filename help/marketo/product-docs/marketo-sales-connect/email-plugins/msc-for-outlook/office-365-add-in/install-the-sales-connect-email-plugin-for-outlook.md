@@ -4,9 +4,11 @@ description: Scopri come installare il plug-in e-mail Sales Connect per Outlook.
 title: Installare il plug-in e-mail di Sales Connect per Outlook
 exl-id: ff741d1b-caa5-49c3-b1e0-afd69c283e8c
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/hi31NUvqfTfY7-EsFSkdihoG8FDnwaV6gC3ttGyRsKU
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: 225
 ht-degree: 6%
 
 ---

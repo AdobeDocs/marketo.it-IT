@@ -1,21 +1,23 @@
 ---
 unique-page-id: 10096523
 description: Scopri come visualizzare il dashboard delle notifiche push. Vedi Totale inviato, Tocchi totali e Decadimento tocco per le campagne push.
-title: Visualizzare la dashboard delle notifiche push
+title: Visualizzare il dashboard delle notifiche push
 exl-id: c898d02e-9587-495e-bd86-c50343cacf8c
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/KXMLSV-xX5YhIwocSxAtnz534ecP1ahOH0nk0N-i2SA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: 132
+ht-degree: 0%
 
 ---
 
-# Visualizzare la dashboard delle notifiche push {#view-the-push-notification-dashboard}
+# Visualizzare il dashboard delle notifiche push {#view-the-push-notification-dashboard}
 
 È facile vedere come funzionano le notifiche push.
 
-1. Passa alla schermata **[!UICONTROL Marketing Activities]**.
+1. Passare all&#39;area **[!UICONTROL Marketing Activities]**.
 
    ![](assets/image2015-12-11-12-3a57-3a48.png)
 

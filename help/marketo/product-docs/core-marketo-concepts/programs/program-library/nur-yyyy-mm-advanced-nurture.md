@@ -3,9 +3,13 @@ description: Modello di programma Advanced Nurture. Utilizzatelo per l'allevamen
 title: Nurturing avanzato NUR-MM-AAAA
 feature: Programs
 exl-id: bd9c6605-a13f-4c73-aaa8-eca43cfcc950
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/hdywHZ1nm-guYiDHprc3a7l9u2iab-kCGvkIxd-oLoo
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: 508
 ht-degree: 11%
 
 ---
@@ -14,7 +18,7 @@ ht-degree: 11%
 
 Questo è un esempio di programmi di sviluppo avanzati che utilizzano il programma Marketo Engage Engagement. I programmi e-mail nidificati impediscono agli utenti di ricevere contenuti già utilizzati o controllano il tipo di contenuto da utilizzare in ciascun flusso. È possibile eseguire rapporti di attribuzione per ogni singolo programma e-mail nidificato. Canali: &quot;Nurture&quot; e un canale dedicato &quot;Nurture Email&quot; per i Programmi e-mail nidificati invia un’e-mail alla newsletter utilizzando un Programma e-mail di Marketo Engage. L’e-mail può includere o meno un test A/B.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 

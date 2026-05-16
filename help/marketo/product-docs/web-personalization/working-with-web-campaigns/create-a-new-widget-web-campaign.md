@@ -1,27 +1,31 @@
 ---
 unique-page-id: 4719402
 description: Crea campagne web di widget che appaiono come testo fisso o banner sul lato verticale delle pagine web con funzionalità di espansione e contratto. Personalizzare le impostazioni relative a posizione, colore, animazione e visualizzazione.
-title: Creare una nuova campagna web con widget
+title: Crea una nuova campagna web widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '630'
-ht-degree: 4%
+source-wordcount: 636
+ht-degree: 0%
 
 ---
 
-# Creare una nuova campagna web con widget {#create-a-new-widget-web-campaign}
+# Crea una nuova campagna web widget {#create-a-new-widget-web-campaign}
 
 Una campagna Web è una reazione personalizzata associata a un segmento specifico e può essere una [finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sul sito Web, una [sostituzione zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una funzionalità widget o un avviso e-mail. La campagna web Widget è un testo o un banner che viene visualizzato sul lato verticale della pagina web, con la possibilità di espandersi e contrarsi, pur rimanendo fisso sulla pagina web durante la visita.
 
 ## Creare una campagna web widget {#create-a-widget-web-campaign}
 
-1. Passa a **[!UICONTROL Web Campaigns]**.
+1. Vai a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Seleziona **[!UICONTROL Create New Web Campaign]**.
+1. Selezionare **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
@@ -67,7 +71,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
   </tr>
   <tr>
    <td colspan="1" rowspan="1"><p><strong>Pulsante widget</strong><br></p></td>
-   <td colspan="1" rowspan="1">Personalizzare il pulsante del widget stesso.<br>Freccia: consente di scegliere tra più icone diverse nel menu a discesa a destra. Il colore viene determinato dal menu a discesa a sinistra.<br>Personalizzato: inserire l'URL di qualsiasi immagine ospitata. Tipi di file accettati: .JPEG, .GIF (incluso animato), .PNG, .APNG, .SVG, .BMP.<br>Testo: il widget può essere testo e personalizzarne colore, dimensione e carattere.</td>
+   <td colspan="1" rowspan="1">Personalizzare il pulsante del widget.<br>Freccia: consente di scegliere tra più icone diverse nel menu a discesa a destra. Il colore è determinato dal menu a discesa a sinistra.<br>Personalizzato: inserire l'URL di qualsiasi immagine ospitata. Tipi di file accettati: .JPEG, .GIF (incluso animato), .PNG, .APNG, .SVG, .BMP.<br>Testo: il widget può essere testo e personalizzarne il colore, le dimensioni e il font.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Sticky</strong></td>
@@ -83,7 +87,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
   </tr>
   <tr>
    <td colspan="1"><strong>Anteprima sul sito </strong></td>
-   <td colspan="1">Anteprima delle campagne prima del loro avvio.<br>
+   <td colspan="1">Visualizza l’anteprima delle campagne prima che vengano avviate.<br>
     <ul>
      <li>URL: immetti un URL di esempio in cui eseguire la campagna per visualizzare un esempio di anteprima dell’aspetto della campagna dal vivo.</li>
      <li>Anteprima - Fai clic su <strong>Anteprima </strong>per aprire una nuova finestra dell'URL di esempio e vedere come reagisce la campagna (Aggiungi l'<a href="https://chrome.google.com/extensions/detail/ldiddonjplchallbngbccbfdfeldohkj?hl=en" rel="nofollow">estensione Chrome</a> per la migliore esperienza di anteprima di Campaign Web). </li>

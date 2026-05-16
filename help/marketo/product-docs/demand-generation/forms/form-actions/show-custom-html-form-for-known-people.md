@@ -1,21 +1,24 @@
 ---
 unique-page-id: 2359644
 description: Scopri come mostrare HTML personalizzato per persone note in un modulo Marketo. Visualizzare contenuti o messaggi diversi per i visitatori riconosciuti.
-title: Mostrare un modulo HTML personalizzato per utenti noti
+title: Mostra HTML Form personalizzato per utenti noti
 exl-id: 668216ea-7c2b-4204-81a5-56547c3baf1d
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/9Fmdx0EAvYOgdUHr-cKKuoCDSbdv-dmuxB9P3vxqjVk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 8%
+source-wordcount: 243
+ht-degree: 0%
 
 ---
 
-# Mostrare un modulo HTML personalizzato per utenti noti {#show-custom-html-form-for-known-people}
+# Mostra HTML Form personalizzato per utenti noti {#show-custom-html-form-for-known-people}
 
 Se in passato un visitatore ha fornito il suo nome completo e il suo indirizzo e-mail e non vuoi che riceva l’intero modulo, scopri come mostrare loro un HTML personalizzato (ad esempio, un pulsante per il download).
 
-1. Passa a **[!UICONTROL Marketing Activities]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/login-marketing-activities-5.png)
 
@@ -52,11 +55,11 @@ Se in passato un visitatore ha fornito il suo nome completo e il suo indirizzo e
    >
    >È possibile utilizzare solo i quattro token indicati sopra. Qualsiasi altro token non funzionerà qui.
 
-1. Fai clic su **[!UICONTROL Finish]**.
+1. Fare clic su **[!UICONTROL Finish]**.
 
    ![](assets/image2014-9-15-12-3a27-3a25.png)
 
-1. Fai clic su **[!UICONTROL Approve and Close]**.
+1. Fare clic su **[!UICONTROL Approve and Close]**.
 
    >[!NOTE]
    >

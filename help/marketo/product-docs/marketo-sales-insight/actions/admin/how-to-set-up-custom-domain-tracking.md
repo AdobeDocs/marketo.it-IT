@@ -3,16 +3,18 @@ description: Scopri come impostare il tracciamento del dominio personalizzato in
 title: Come impostare il tracciamento del dominio personalizzato
 exl-id: 6dea7f3d-d44d-4f67-af44-a8963c95c378
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/gn3uC4uxpwp35IVYcUs-cZJFqbmPc-7vTmgbIPm8lTk
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: 186
 ht-degree: 7%
 
 ---
 
 # Come impostare il tracciamento del dominio personalizzato {#how-to-set-up-custom-domain-tracking}
 
-Il tracciamento del dominio personalizzato consente al team di utilizzare il nome della tua società in tutti i collegamenti tracciabili aggiunti alle e-mail di vendita. Dopo aver configurato questa configurazione, verrà inserito nell&#39;elenco Consentiti come go.yourcompany.com qualsiasi collegamento presente nell’e-mail, in modo che, quando qualcuno passa il mouse su un collegamento, venga letto go.yourcompany.com anziché go.toutapp.com.
+Il tracciamento del dominio personalizzato consente al team di utilizzare il nome della tua società in tutti i collegamenti tracciabili aggiunti alle e-mail di vendita. Dopo aver configurato il collegamento, verrà inserito nell&#39;elenco Consentiti come go.yourcompany.com qualsiasi collegamento presente nell&#39;e-mail, in modo che, quando qualcuno passa il mouse su un collegamento, venga letto go.yourcompany.com anziché go.toutapp.com.
 
 Per impostare un record CNAME per il dominio che punta a go.toutapp.com, è necessario l’assistenza del team IT. Questo CNAME verrà visualizzato in tutti i collegamenti di tracciamento (ad esempio, go.yourcompany.com).
 

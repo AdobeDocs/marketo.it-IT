@@ -4,9 +4,12 @@ description: Scopri come aggiungere Customer Match di Google come servizio Launc
 title: 'Aggiungi Google Customer Match come servizio  [!DNL LaunchPoint] '
 exl-id: c780bde0-3044-4c89-a2ac-88398cbc3425
 feature: Integrations
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/Dc0c-GMUeuShXpt-tDuhhqu5SIfrzF-7prfsPdu-3pY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: 178
 ht-degree: 4%
 
 ---

@@ -3,9 +3,11 @@ description: Scopri come collegare un nuovo amministratore a Marketo e trasferir
 title: Connettere nuovo amministratore a Marketo
 exl-id: ef405bca-a29a-40fc-9efa-eccff5f45956
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/vQ-yzlQX0qzdTBy2uEV2HTkamgRYlWe7f35PQK2FJCc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: 495
 ht-degree: 2%
 
 ---

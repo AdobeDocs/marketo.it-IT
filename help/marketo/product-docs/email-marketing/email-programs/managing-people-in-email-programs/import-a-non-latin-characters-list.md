@@ -4,9 +4,12 @@ description: Scopri come importare elenchi con caratteri non latini per i progra
 title: Importa un elenco di caratteri non latini
 exl-id: 11519e2c-ab01-4164-8ce3-0717e4c13ae6
 feature: Email Programs
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/Gm8yGhCq4D4Is9dE84rHf6XUAOY08viLQNEF-VjR2VA
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '301'
+source-wordcount: 308
 ht-degree: 15%
 
 ---

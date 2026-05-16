@@ -1,44 +1,47 @@
 ---
 unique-page-id: 7515401
-description: Learn how to create a guided landing page template in Marketo. Use syntax to define editable regions and variables for the guided editor.
+description: Scopri come creare un modello di pagina di destinazione guidata in Marketo. Utilizza la sintassi per definire aree e variabili modificabili per l’editor guidato.
 title: Creare un modello di pagina di destinazione in formato guidato
 exl-id: 7d097162-d862-4d09-9440-aba1628450c2
 feature: Landing Pages
-source-git-commit: 4a95c37fe8c09cdbe3cc84e701f0fc50286fc276
+TQID: https://experienceleague.adobe.com/0dAw-HmJskYDA8uvu4ffMPPWwaQV3M-l8-kxLN-Vx-o
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: 1127
 ht-degree: 21%
 
 ---
 
 # Creare un modello di pagina di destinazione in formato guidato {#create-a-guided-landing-page-template}
 
-Guided landing page templates have a special syntax. Use this syntax to specify what is customizable and where content will end up on each landing page built from your template. Only the regions or variables you specify as editable will be available for customization within the &quot;Guided&quot; landing page editor.
+I modelli di pagina di destinazione guidata hanno una sintassi speciale. Utilizza questa sintassi per specificare cosa è personalizzabile e dove il contenuto finirà su ogni pagina di destinazione creata dal modello. Solo le aree geografiche o le variabili specificate come modificabili saranno disponibili per la personalizzazione nell’editor di pagine di destinazione &quot;Guidate&quot;.
 
 >[!TIP]
 >
->Use good naming conventions and your marketing team will fall in love with you.
+>Utilizza le buone convenzioni di denominazione e il tuo team di marketing si innamorerà di te.
 
-There are two ways to declare that something on your page should be editable:
+Esistono due modi per dichiarare che un elemento nella pagina deve essere modificabile:
 
-* Declare an object as an &quot;element&quot;. The landing page creator will be able to add images, text, or Marketo assets into those specified regions.
-* Declare a string as a &quot;variable&quot;. The landing page creator will be able to replace that variable with a string, color, or boolean state from a true/false lever.
+* Dichiarare un oggetto come &quot;elemento&quot;. Il creatore della pagina di destinazione sarà in grado di aggiungere immagini, testo o risorse Marketo nelle aree specificate.
+* Dichiara una stringa come &quot;variabile&quot;. Il creatore della pagina di destinazione sarà in grado di sostituire tale variabile con una stringa, un colore o uno stato booleano da una leva true/false.
 
-## Editable Elements {#editable-elements}
+## Elementi modificabili {#editable-elements}
 
-Elements are declared by adding a normal DOM element to the template, then decorating the element with a Marketo-specific class name.
+Gli elementi vengono dichiarati aggiungendo un normale elemento DOM al modello, quindi decorando l’elemento con un nome di classe specifico per Marketo.
 
 ## Testo {#text}
 
 Se definisci un’area come Rich Text, gli utenti potranno modificarne il contenuto [utilizzando l’Editor Rich Text di Marketo](/help/marketo/product-docs/email-marketing/general/understanding-the-email-editor/using-the-rich-text-editor.md).
 
-Required attributes:
+Attributi richiesti:
 **class**: &quot;mktoText&quot;
 **id**: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-**mktoName**: stringa. This is the display name that will be shown in the landing page editor. Best practice is to use a descriptive name.
+**mktoName**: stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
-Optional:
-The content of an element with class mktoText (if provided) will be used as the default value for the editable region.
+Facoltativo:
+Il contenuto di un elemento con la classe mktoText (se fornita) verrà utilizzato come valore predefinito per l’area modificabile.
 
 Esempio:
 
@@ -46,15 +49,15 @@ Esempio:
 
 ## Immagine {#image}
 
-You have two options for defining editable Image Elements. You may use either a `<div>`, which specifies a container that the image will be inserted into, or an `<img>` tag.
+Sono disponibili due opzioni per definire gli elementi immagine modificabili. È possibile utilizzare un tag `<div>`, che specifica un contenitore in cui verrà inserita l&#39;immagine, oppure un tag `<img>`.
 
 ## Opzione 1: Utilizzare un elemento `<div>` {#option-use-a-div}
 
-Required attributes:
+Attributi richiesti:
 
 class: &quot;mktoImg&quot;
-id: ID string. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
-mktoName : String. This is the display name that will be shown in the landing page editor. Si consiglia di utilizzare un nome descrittivo.
+id: stringa ID. Contiene solo lettere, numeri, trattini “-” e trattini bassi “_”. Non sono consentiti spazi. Deve essere univoco.
+mktoName : Stringa. Questo è il nome visualizzato che verrà visualizzato nell’editor pagina di destinazione. Si consiglia di utilizzare un nome descrittivo.
 
 Facoltativo:
 mktoImgClass: Stringa. Il valore verrà aggiunto all’attributo classe dell’elemento `<img>` all’interno del div.

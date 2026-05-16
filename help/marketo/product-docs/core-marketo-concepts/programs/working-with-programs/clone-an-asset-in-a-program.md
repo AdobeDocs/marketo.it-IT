@@ -4,9 +4,12 @@ description: Scopri come clonare una risorsa all’interno di un programma. Crea
 title: Clonare una risorsa in un programma
 exl-id: 27bc2eab-f8ca-405b-b40e-6dadff902c2f
 feature: Programs
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/Gv8ebcjYVhdI53wz0RKb7NMoEeNOwIVeoSO3UJOlToQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 125
 ht-degree: 13%
 
 ---

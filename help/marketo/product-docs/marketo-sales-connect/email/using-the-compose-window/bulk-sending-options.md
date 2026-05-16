@@ -4,9 +4,11 @@ description: Scopri le opzioni di invio in massa in Sales Connect. Scegli come i
 title: Opzioni di invio in blocco
 exl-id: 37bc9d4c-da0f-4fd0-8c96-3fb4ea22fa8e
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/NUW1-99Akcjv-rv4uknctidG-vIZjmKwpWgdJr-ypDc
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: 270
 ht-degree: 4%
 
 ---
@@ -37,7 +39,7 @@ L’invio di e-mail in blocco è un ottimo modo per accelerare il coinvolgimento
   </tr>
   <tr>
    <td><p><span>E-mail gruppo</span> </p></td>
-   <td><p><span>1.000</span> </p></td>
+   <td><p><span>1,000</span> </p></td>
    <td><p><span>Selezionare un gruppo e fare clic</span><span> sul pulsante </span><span>"Azioni gruppo"</span><span> oppure digitare il nome del gruppo nel campo A. </span> </p></td>
    <td><p><span>Sì</span> </p></td>
    <td><p><span>No</span> </p></td>

@@ -4,9 +4,11 @@ description: Scopri come creare ed eliminare contatti in Sales Connect. Aggiungi
 title: Creazione ed eliminazione di contatti
 exl-id: 04e2887b-8515-4d48-8a94-ccff00805210
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/UXdE5MWxchftyKvPznHtJQrbKgSCccQcZ3qrD-nfgqQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: 119
 ht-degree: 9%
 
 ---

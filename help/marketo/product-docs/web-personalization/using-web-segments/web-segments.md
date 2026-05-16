@@ -4,9 +4,14 @@ description: Scopri i segmenti web in Marketo Engage; la scheda dei segmenti mos
 title: Segmenti web
 exl-id: ec62c1ae-579a-4753-9b2d-18c7c2fa1ff5
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/rMjE1DOlcGdvg8QQkXcth5kJtO074hoZqAsoD-lmBFQ
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1998'
+source-wordcount: 2041
 ht-degree: 0%
 
 ---
@@ -17,7 +22,7 @@ ht-degree: 0%
 
 ![](assets/image2014-11-11-20-3a24-3a5.png)
 
-Nella scheda Segmenti vengono visualizzati tutti i segmenti personalizzati definiti in base a vari attributi.  **Un segmento è una raccolta di visitatori che soddisfano i criteri specificati definiti nella pagina &quot;Imposta un segmento&quot;.** Un segmento può essere costituito da visitatori provenienti da un settore, una posizione o un&#39;attività in loco del visitatore.
+Nella scheda Segmenti vengono visualizzati tutti i segmenti personalizzati definiti in base a vari attributi.  **Un segmento è una raccolta di visitatori che soddisfano i criteri specificati nella pagina &#39;Imposta un segmento&#39;.**  Un segmento può essere costituito da visitatori di un settore, una posizione o un’attività nel sito specifici del visitatore.
 
 In [!DNL Web Personalizatio] un visitatore può corrispondere a più segmenti. Ad esempio, se è presente un segmento per i visitatori negli Stati Uniti e un segmento per le società di servizi finanziari, un visitatore Web di Bank of America troverà **entrambi** il segmento per il visitatore negli Stati Uniti e il segmento per le società di servizi finanziari.
 
@@ -149,7 +154,7 @@ Una volta aggiunto il paese, puoi specificare anche lo stato, la città e il cod
 
 >[!TIP]
 >
->**Quali sono le condizioni del segmento scelte? &#39;AND&#39; o &#39;OR&#39;?** OR funziona come opzione aggiuntiva all&#39;interno di ogni campo. I potenziali clienti devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo per qualificarsi per il segmento. (Ad esempio, i potenziali clienti possono provenire dagli Stati Uniti *o* dall&#39;industria della difesa). AND funge da parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della Difesa). All’interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot; a seconda della Condizione del segmento selezionata.
+>**Quali sono le condizioni del segmento scelte? &#39;AND&#39; o &#39;OR&#39;?** O funziona come opzione aggiuntiva all’interno di ciascun campo. I potenziali clienti devono soddisfare solo uno dei criteri multipli selezionati all’interno di ciascun campo per qualificarsi per il segmento. Ad esempio, i clienti potenziali possono provenire da Stati Uniti, *or* dell&#39;industria della difesa). AND funge da parametro obbligatorio aggiuntivo che deve essere soddisfatto per questo segmento. (Ad esempio, le prospettive devono provenire sia dagli Stati Uniti che dall&#39;industria della Difesa). All’interno di ciascun profilo di segmentazione, ogni campo separato può funzionare come entrambi, sia come &quot;AND&quot; che come &quot;OR&quot; a seconda della Condizione del segmento selezionata.
 
 **Settori** Nella sezione **[!UICONTROL Profile Segmentation]**, seleziona la casella accanto a **[!UICONTROL Industry]**.
 
@@ -177,7 +182,7 @@ Account denominati **-**
 * **Appartiene a queste società (nomi specifici)**
 
    * Seleziona la società di destinazione dal menu a discesa &quot;Seleziona la società da aggiungere&quot;.
-   * Puoi digitare il nome esatto dell’organizzazione di destinazione. *Si consiglia *sempre* di utilizzare gli Elenchi di account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedi sotto).
+   * Puoi digitare il nome esatto dell’organizzazione di destinazione. *Si consiglia* sempre* di utilizzare gli Elenchi di account denominati invece di digitare manualmente i nomi per ottenere corrispondenze migliori (vedi sotto).
 
 **Elenco account denominati**
 
@@ -187,7 +192,7 @@ Seleziona da un [elenco account denominati](/help/marketo/product-docs/web-perso
 
 >[!NOTE]
 >
->Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization).
+>Il numero tra parentesi accanto al nome dell&#39;elenco di account denominati viene utilizzato come riferimento di indice per l&#39;elenco per Web Personalization [API di lettura](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization).
 
 **Escludi ISP**
 
@@ -282,11 +287,11 @@ Puoi indirizzare l’attività a visitatori che utilizzano tipi e/o versioni spe
 
 **Eventi dati** - Segmenta i visitatori che attivano eventi dati personalizzati specifici
 
-Aggiungi il valore Evento di destinazione. Ad esempio da fonti di dati di terze parti.
+Aggiungi il valore Evento di destinazione. E.g. da origini dati di terze parti.
 
 **API contesto utente**
 
-Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/web-personalization)
+Chiamata API Web Personalization [ulteriori informazioni qui.](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/web-personalization)
 
 >[!TIP]
 >

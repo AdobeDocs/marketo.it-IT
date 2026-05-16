@@ -4,10 +4,15 @@ description: Note sulla versione - Luglio 2014 - Documentazione Marketo - Docume
 title: Note sulla versione - Luglio 2014
 exl-id: 0f0b4ad4-0ca7-4f43-bc08-5e555890d289
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ztiNePeKURvJ6rBPeI5QWPv7Qsioz5RvGn6kbRik8G4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '410'
-ht-degree: 2%
+source-wordcount: 442
+ht-degree: 4%
 
 ---
 
@@ -47,7 +52,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Elencare le operazioni nell’API REST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -78,7 +83,7 @@ La pagina Imposta campagna RTP ora [include modelli già pronti](/help/marketo/p
 
 ## RTP: miglioramenti API di JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 

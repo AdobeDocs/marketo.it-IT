@@ -4,10 +4,13 @@ description: Scopri come modificare l’etichetta di un campo in un modulo Marke
 title: Modificare un’etichetta di campo in un modulo
 exl-id: e9820766-5424-4fb8-bf26-2d38eb5e64cb
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/0pqRxjLH5S2SkdOvyBOUDjG-dW5jvqBxNI9qPM4oFuY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 14%
+source-wordcount: 121
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ ht-degree: 14%
 
 L&#39;etichetta di un modulo può essere modificata in qualsiasi elemento, ad esempio è possibile utilizzare un&#39;immagine o cancellarla completamente. Ecco come farlo.
 
-1. Passa a **[!UICONTROL Marketing Activities]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/edit-a-field-label-in-a-form-1.png)
 
@@ -35,11 +38,11 @@ L&#39;etichetta di un modulo può essere modificata in qualsiasi elemento, ad es
    >
    >Fai clic sull&#39;icona ![matita](assets/icon-pencil.png) per accedere all&#39;editor Rich Text.
 
-1. Fai clic su **[!UICONTROL Finish]**.
+1. Fare clic su **[!UICONTROL Finish]**.
 
    ![](assets/edit-a-field-label-in-a-form-4.png)
 
-1. Fai clic su **[!UICONTROL Approve and Close]**.
+1. Fare clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/edit-a-field-label-in-a-form-5.png)
 

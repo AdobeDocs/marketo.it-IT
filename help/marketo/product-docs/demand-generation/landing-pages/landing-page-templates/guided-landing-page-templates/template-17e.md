@@ -4,16 +4,19 @@ description: Scopri il modello di pagina di destinazione guidata Modello 17E. Sc
 title: Modello 17E
 exl-id: c4ffe84c-a15f-4d11-bbfa-5de78f981a7a
 feature: Landing Pages, Guided Landing Page Templates
-source-git-commit: 031eb5f3ff8aac185ce496664f984a4c745c6e44
+TQID: https://experienceleague.adobe.com/WBQnQy-a-JBh7ee4OEqMnclCgrP98A6P2-XJxHh9ng0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 7%
+source-wordcount: 73
+ht-degree: 5%
 
 ---
 
 # Modello 17E {#template-17e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 17E](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)
 
 ![](assets/image2015-8-17-17-3a43-3a20.png)
 
@@ -28,4 +31,4 @@ Questo modello include i seguenti contenuti:
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html?lang=it)
+[Modello 17E.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-17e.html)

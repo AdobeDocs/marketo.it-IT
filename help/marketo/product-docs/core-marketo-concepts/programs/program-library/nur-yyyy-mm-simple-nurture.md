@@ -3,9 +3,12 @@ description: Modello di programma di sviluppo semplice. Utilizzalo per campagne 
 title: Nurturing semplice NUR-MM-AAAA
 feature: Programs
 exl-id: aed11d75-3190-46ea-8b0b-c1494645901d
-source-git-commit: d5258342dd89a8f46a9897e9c7ee8dad4a33df59
+TQID: https://experienceleague.adobe.com/4dEZucMMXmSHngRHdUqasKVAg08MkwZFIDn1OzbxnVg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: 369
 ht-degree: 13%
 
 ---
@@ -14,7 +17,7 @@ ht-degree: 13%
 
 Si tratta di un esempio di semplici programmi di sviluppo, che utilizzano il programma Marketo Engage Engagement, con contenuto cadenziato da distribuire nel tempo nel database utilizzando flussi di dati per guidare i record attraverso percorsi basati sul comportamento.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 

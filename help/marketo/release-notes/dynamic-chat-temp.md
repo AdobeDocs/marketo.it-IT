@@ -4,9 +4,11 @@ title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 hide: true
 exl-id: 0a7e5cc9-f2a6-4721-bbdc-661249a2e2b6
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+TQID: https://experienceleague.adobe.com/96IN5RB3KNwgTetW-pfioXkeOY3e7Uu7OiOSVncJ3ug
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: 933
 ht-degree: 66%
 
 ---
@@ -35,7 +37,7 @@ La logica di indirizzamento della chat in tempo reale in Dynamic Chat è stata r
 
 * **Comportamento specifico della regola di indirizzamento**
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 Se il dominio e-mail di un visitatore è mappato su un account noto, l’agente mappato ha sempre la priorità.
 
@@ -52,7 +54,7 @@ Invece:
 
 La regola di routing a livello di scheda (ad esempio, Team, Personalizzato) viene considerata solo se l’Instradamento account non è idoneo (nessun dominio o agente corrispondente).
 
-_&#x200B;**Indirizzamento personalizzato/team**&#x200B;_
+_**Indirizzamento personalizzato/team**_
 
 Queste regole possono restituire più agenti idonei.
 
@@ -66,7 +68,7 @@ Se nessuno dei due agenti risponde:
 -oppure-
 * Mostra il messaggio di fallback predefinito.
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 Quando viene utilizzato come regola di indirizzamento principale, il sistema:
 
@@ -76,7 +78,7 @@ Quando viene utilizzato come regola di indirizzamento principale, il sistema:
 
 Se Round Robin viene utilizzato come fallback, si attiva solo se non vengono risolti agenti dalla regola primaria.
 
-_&#x200B;**Flusso esperienza visitatore**&#x200B;_
+_**Flusso esperienza visitatore**_
 
 Il sistema verifica se è applicabile l’indirizzamento dell’account.
 
@@ -100,7 +102,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 ##### Casi d’uso {#use-cases}
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 <table><thead>
   <tr>
@@ -126,7 +128,7 @@ _&#x200B;**Indirizzamento account**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento personalizzato**&#x200B;_
+_**Indirizzamento personalizzato**_
 
 <table><thead>
   <tr>
@@ -152,7 +154,7 @@ _&#x200B;**Indirizzamento personalizzato**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Instradamento team**&#x200B;_
+_**Instradamento team**_
 
 <table><thead>
   <tr>
@@ -178,7 +180,7 @@ _&#x200B;**Instradamento team**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 <table><thead>
   <tr>

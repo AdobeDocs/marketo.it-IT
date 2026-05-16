@@ -4,9 +4,13 @@ description: Crea campagne web di dialogo per personalizzare il contenuto in tem
 title: Creare una nuova campagna web con finestre di dialogo
 exl-id: 389b0d2d-f39e-4825-b419-373322b6811b
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/mZDrkTIuAbmAVulUumQZpjgWSzV837oipro2vaKtGLE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '748'
+source-wordcount: 751
 ht-degree: 3%
 
 ---
@@ -115,7 +119,7 @@ Una campagna web è una reazione personalizzata associata a un segmento specific
   </tr>
   <tr>
    <td colspan="1"><strong>Anteprima sul sito</strong></td>
-   <td colspan="1">Anteprima delle campagne prima del loro avvio.<br>
+   <td colspan="1">Visualizza l’anteprima delle campagne prima che vengano avviate.<br>
     <ul>
      <li>URL: immetti un URL di esempio in cui eseguire la campagna per visualizzare un esempio di anteprima dell’aspetto della campagna dal vivo.</li>
      <li>Dispositivo: visualizza in anteprima come verrà visualizzata la campagna per dispositivo: Desktop, Verticale mobile, Orizzontale mobile, Verticale tablet, Orizzontale verticale.<br></li>

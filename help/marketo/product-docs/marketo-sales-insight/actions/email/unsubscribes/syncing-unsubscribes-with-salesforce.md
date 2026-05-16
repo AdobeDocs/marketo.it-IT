@@ -3,9 +3,12 @@ description: Scopri come sincronizzare gli annullamenti degli abbonamenti tra le
 title: Sincronizzazione degli annullamenti delle iscrizioni con Salesforce
 exl-id: b5b0f625-e38c-4a03-81e7-010082001636
 feature: Sales Insight Actions
-source-git-commit: 03f984d4049c119267c7b2c2baa4e68c7db34ad0
+TQID: https://experienceleague.adobe.com/ra-Nezm1zXZTZ5EZoCdCdYm0DRkCb5sZ0M5TKNt6nxM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '467'
+source-wordcount: 471
 ht-degree: 2%
 
 ---
@@ -26,7 +29,7 @@ Quando si raccoglie un annullamento dell&#39;iscrizione in [!DNL Marketo Sales],
 
 **Sincronizzazione annullamento abbonamento**
 
-Dopo aver attivato la sincronizzazione per l’annullamento dell’iscrizione (passaggio 3 di seguito), la sincronizzazione notturna verrà attivata. La sincronizzazione viene eseguita una volta al giorno intorno alle 20.00 PST. :00 Sincronizzerà in modo bidirezionale tutti gli annullamenti di abbonamenti in Marketo Sales con il campo Opt Out in Salesforce.
+Dopo aver attivato la sincronizzazione per l’annullamento dell’iscrizione (passaggio 3 di seguito), la sincronizzazione notturna verrà attivata. La sincronizzazione viene eseguita una volta al giorno intorno alle 20.00 PST. :00Sincronizzerà in modo bidirezionale tutti gli annullamenti di abbonamenti in Marketo Sales con il campo Opt Out in Salesforce.
 
 >[!NOTE]
 >

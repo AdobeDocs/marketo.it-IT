@@ -4,9 +4,11 @@ description: Scopri come utilizzare le azioni in blocco in Salesforce Lightning 
 title: Utilizzo di azioni in blocco in Salesforce Lightning
 exl-id: 72022507-6568-4cc2-b3b5-c1703a1493ad
 feature: Marketo Sales Connect
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/r5KxIMzKrnHOiFJ1QgQazTiflZJ5GDCbfxKwcX7bCuw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: 385
 ht-degree: 1%
 
 ---

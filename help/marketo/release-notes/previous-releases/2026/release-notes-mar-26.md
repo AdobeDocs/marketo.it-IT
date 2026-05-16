@@ -1,0 +1,100 @@
+---
+description: Note sulla versione - Marzo 2026 - Documentazione di Marketo - Documentazione del prodotto
+title: Note sulla versione - Febbraio 2026
+feature: Release Information
+source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+workflow-type: tm+mt
+source-wordcount: '533'
+ht-degree: 18%
+
+---
+
+# Note sulla versione: marzo 2026 {#release-notes-mar-26}
+
+Qui sotto troverai tutte le funzioni incluse nella versione di marzo 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
+
+Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
+
+## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
+
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **27 marzo 2026**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+
+<table style="table-layout:auto">
+ <tbody>
+ <tr>
+   <th style="width:65%">Funzione</th>
+   <th style="width:10%">Stato</th>
+   <th style="width:25%">Documentazione</th>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Gestisci marchi (beta)</strong>: genera contenuti e-mail in base alle linee guida specifiche per la scrittura in copia della tua organizzazione o del tuo marchio.</td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/manage-brands.md" target="_blank">Creare e gestire i brand</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Componenti HTML modificabili in Frammenti</strong>: all'interno dei frammenti visivi, i campi modificabili sono supportati nei componenti immagine, testo e pulsante tramite il pannello delle proprietà del componente. Per i componenti HTML, i campi modificabili sono configurati in modo diverso, utilizzando una sintassi basata su variabili all’interno del codice sorgente del componente HTML stesso.
+   </td>
+   <td>Rilasciato</i></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Azioni rapide</strong>: <i>Parità con il vecchio editor e-mail</i>. Le azioni rapide sono ora disponibili per tutte le risorse di E-mail Designer (e-mail, modelli e-mail, frammenti). Le azioni rapide supportate includono: Duplica, Elimina, Sposta, Crea/Modifica bozza.
+   </td>
+   <td>Rilasciato</i></td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+   <tr>
+   <td><strong>E-mail Designer - Correzione rendering di Outlook</strong>: questo aggiornamento risolve alcuni problemi di rendering, in particolare in MS Outlook. La modalità HTML avanzata consente di apportare modifiche minori a HTML/CSS o di aggiungere tag script al modello e-mail.
+   </td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Modificare i modelli e-mail con l’editor HTML avanzato</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Brand Score Checker</strong>: valuta la qualità generale dei contenuti per identificare potenziali problemi di leggibilità, coerenza ed efficacia dei contenuti, indipendentemente dalle linee guida del tuo marchio.</td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/brands/brand-score.md" target="_blank">Punteggio marchio</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Notifiche push</strong>: gli URI di reindirizzamento configurati nei messaggi di notifica push ora supportano i token di Marketo Engage (applicabile solo a <i>URL di app Launch</i>).
+   </td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/mobile-marketing/push-notifications/configure-mobile-push-notification.md#redirect-uris">URI di reindirizzamento</a></td>
+  </tr>
+  </tbody>
+</table>
+<br/>
+
+## Annunci {#announcements}
+
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+
+* **Limite dei lead di unione API REST**: a partire dal 31 marzo 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
+
+* **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 luglio 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+
+* **API SOAP obsoleta**: il supporto per l&#39;API Marketo SOAP terminerà il 31 luglio 2026. I servizi che utilizzano le funzionalità API SOAP devono essere migrati alle [API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

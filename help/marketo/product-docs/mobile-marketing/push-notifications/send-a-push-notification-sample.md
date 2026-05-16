@@ -1,17 +1,19 @@
 ---
 unique-page-id: 8783141
 description: Scopri come inviare un esempio di notifica push per verificarne il funzionamento. Seleziona un dispositivo di test o aggiungine uno, quindi invia l'esempio dall'editor.
-title: Inviare un esempio di notifica push
+title: Invia un esempio di notifica push
 exl-id: 1d2d9f6e-32c5-41f5-8744-33373c3b42e0
 feature: Mobile Marketing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/TPNT1X4vgRtkP81L20QwsDCTmwhFUOhqbGbVvuPalNw
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '267'
-ht-degree: 3%
+source-wordcount: 267
+ht-degree: 0%
 
 ---
 
-# Inviare un esempio di notifica push {#send-a-push-notification-sample}
+# Invia un esempio di notifica push {#send-a-push-notification-sample}
 
 Puoi inviare un esempio per verificare che la notifica push funzioni correttamente.
 

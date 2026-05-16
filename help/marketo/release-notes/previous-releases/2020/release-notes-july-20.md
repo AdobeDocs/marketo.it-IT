@@ -4,9 +4,14 @@ description: Note sulla versione -20 luglio - Documentazione Marketo - Documenta
 title: Note sulla versione - Luglio 20
 exl-id: 3c9b1f1d-961c-4bf8-8b99-37b483230506
 feature: Release Information
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/m0gaKwTahjs5M2I7i-XVYMLZT4COy0XRTYwIsd3p9g8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2: id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '629'
+source-wordcount: 651
 ht-degree: 2%
 
 ---
@@ -63,6 +68,6 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 * **Rimozione parametro &quot;_method&quot; di Asset API**: dopo settembre 2020, gli endpoint di Asset API non accetteranno più &quot;_method&quot; per passare i parametri di query nel corpo di un POST per aggirare le limitazioni relative alla lunghezza degli URI. Per soddisfare le richieste che richiedevano questo parametro, i limiti URI per le API Asset verranno aumentati da 8 KB a 65 KB.
 * **[[!DNL Munchkin] Associa lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: con questa versione del client Munchkin JavaScript, versione 159, verrà dichiarata obsoleta la versione del metodo [!DNL Munchkin] Associa lead. Se richiamato, riceverai un avviso che indica che il metodo verrà rimosso in una versione futura. Una volta rimosso, il metodo non sarà più funzionale e i tentativi di utilizzarlo non riusciranno. I clienti Marketo Engage che hanno utilizzato di recente questo metodo riceveranno una notifica individuale del loro utilizzo.
-* **Supporto per Internet Explorer**: come annunciato in precedenza, il supporto di Marketo Engage per Internet Explorer 11 termina il **31 luglio 2020**. Continueremo a supportare [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL &#x200B; Apple Safari] e [!DNL Microsoft Edge].
+* **Supporto per Internet Explorer**: come annunciato in precedenza, il supporto di Marketo Engage per Internet Explorer 11 termina il **31 luglio 2020**. Continueremo a supportare [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL  Apple Safari] e [!DNL Microsoft Edge].
 * **Esperienza predefinita Sky**: l&#39;opzione che consente agli amministratori o agli utenti di impostare [!DNL Marketo Sky] come esperienza predefinita verrà rimossa in questa versione in preparazione di un aggiornamento dell&#39;esperienza utente principale. Ulteriori dettagli sull’aggiornamento dell’esperienza principale, pianificato per la fine dell’anno, saranno disponibili a luglio. Gli utenti che hanno impostato [!DNL Marketo Sky] come esperienza predefinita o a cui è stato concesso l&#39;accesso a [!DNL Marketo Sky] possono continuare ad accedere a [!DNL Marketo Sky] da un riquadro nella home page di My Marketo.
 * Supporto di **EdgeHTML (non Chromium) [!DNL Microsoft Edge]**: Marketo Engage non supporterà più le versioni EdgeHTML di Microsoft Edge alla fine del 2020. A partire dal 1° gennaio 2021, supporteremo solo l’ultima versione di Microsoft Edge in formato Chromium.

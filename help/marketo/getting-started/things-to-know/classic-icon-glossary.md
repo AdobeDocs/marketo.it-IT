@@ -3,10 +3,14 @@ description: Glossario delle icone classiche - Documentazione di Marketo - Docum
 title: Glossario icona classica
 feature: Getting Started
 exl-id: 05706dc2-9e8b-4f10-89cf-996a69bc4816
-source-git-commit: 09a656c3a0d0002edfa1a61b987bff4c1dff33cf
+TQID: https://experienceleague.adobe.com/ILFVjCHYiyZvNKoI29b4Ahz9ypY0v1mWvLHhM5QbdkY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '563'
-ht-degree: 14%
+source-wordcount: 566
+ht-degree: 15%
 
 ---
 
@@ -220,7 +224,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-9-8-3a40-3a3.png">
     </td>
-   <td>Amministratore</td>
+   <td>Amministrazione</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-8-3a46-3a19.png">
@@ -261,7 +265,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2014-12-23-11-3a38-3a16.png">
     </td>
-   <td>Aggiungere al programma di coinvolgimento</td>
+   <td>Aggiungi al programma di coinvolgimento</td>
   </tr>
   <tr>
    <td><img src="assets/image2014-12-23-11-3a40-3a19.png">
@@ -401,7 +405,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-9-14-3a56-3a46.png">
     </td>
-   <td>Approvazione</td>
+   <td>Approva</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-14-3a57-3a27.png">
@@ -431,7 +435,7 @@ Di seguito sono riportate le vecchie icone dell’interfaccia Marketo Classic. I
   <tr>
    <td><img src="assets/image2015-1-9-15-3a17-3a53.png">
     </td>
-   <td>Approvazione</td>
+   <td>Approva</td>
   </tr>
   <tr>
    <td><img src="assets/image2015-1-9-15-3a18-3a20.png">

@@ -4,9 +4,12 @@ description: Scopri come modificare il CSS di un tema di modulo in Marketo. Pers
 title: Modificare il CSS del tema di un modulo
 exl-id: 33a124d5-2784-415b-80b6-623823f1eb19
 feature: Forms
-source-git-commit: 89db9bc670be0b1b91ea7d7be936cb4f20d33e08
+TQID: https://experienceleague.adobe.com/TL1wjn5oKpA2QO-6UKKkbQc3zbaQ2l7tdpHpj0-kN-M
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: 176
 ht-degree: 11%
 
 ---

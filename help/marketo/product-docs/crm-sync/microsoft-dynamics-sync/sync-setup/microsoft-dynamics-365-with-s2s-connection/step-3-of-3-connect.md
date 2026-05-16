@@ -4,10 +4,12 @@ description: Scopri come connettere la soluzione Marketo a Dynamics 365 con la c
 title: Passaggio 3 di 3 - Connessione della soluzione Marketo con la connessione server-to-server
 exl-id: e3ede749-f787-45d3-adb4-f71ef1221208
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/CtVAFVltlfzpVkB28kTjz7YTIdk-8sMKHKDEp5XQMuY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '447'
-ht-degree: 2%
+source-wordcount: 447
+ht-degree: 0%
 
 ---
 
@@ -42,7 +44,7 @@ Passaggio finale della sincronizzazione.
 
    ![](assets/image2015-3-16-9-3a47-3a34.png)
 
-1. Seleziona **[!UICONTROL Microsoft]**.
+1. Selezionare **[!UICONTROL Microsoft]**.
 
    ![](assets/image2015-3-16-9-3a50-3a6.png)
 
@@ -68,7 +70,7 @@ Passaggio finale della sincronizzazione.
 
    ![](assets/image2015-3-16-9-3a51-3a28.png)
 
-1. Seleziona i campi da sincronizzare con Marketo in modo che siano preselezionati. Fai clic su **[!UICONTROL Save]**.
+1. Seleziona i campi da sincronizzare con Marketo in modo che siano preselezionati. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a6-3a11.png)
 
@@ -88,7 +90,7 @@ Se hai creato un filtro personalizzato, vai e seleziona i nuovi campi da sincron
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fai clic su **[!UICONTROL Save]**.
+1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a7-3a35.png)
 

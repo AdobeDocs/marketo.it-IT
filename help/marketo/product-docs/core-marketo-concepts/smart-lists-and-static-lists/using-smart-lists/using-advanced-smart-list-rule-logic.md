@@ -1,17 +1,19 @@
 ---
 unique-page-id: 1146901
 description: Scopri come utilizzare la logica avanzata della regola dell’elenco avanzato. Combina i filtri con AND e OR per una qualificazione complessa.
-title: Utilizzare la logica avanzata per le regole di elenchi avanzati
+title: Utilizzo della logica avanzata della regola di elenco avanzato
 exl-id: fc41b6fd-c65e-4c44-b0ee-7bb5c77c51fb
 feature: Smart Lists
-source-git-commit: 60c5603fa29bb1039b9d477633beb2c6f5c63486
+TQID: https://experienceleague.adobe.com/fApf1UB9N8aT8Eqi8oibEnWYiNjET-QcWYTvCfgJHgs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '302'
-ht-degree: 3%
+source-wordcount: 302
+ht-degree: 0%
 
 ---
 
-# Utilizzare la logica avanzata per le regole di elenchi avanzati {#using-advanced-smart-list-rule-logic}
+# Utilizzo della logica avanzata della regola di elenco avanzato {#using-advanced-smart-list-rule-logic}
 
 Per trovare le persone necessarie, applica la logica della regola Elenco avanzato a più filtri all’interno di un Elenco avanzato.
 

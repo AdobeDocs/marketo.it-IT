@@ -4,9 +4,14 @@ description: Scopri le dashboard rtp personalizzate in google universal analytic
 title: Dashboard RTP personalizzate in Universal Analytics di Google
 exl-id: 712c71b6-74eb-4743-9ca8-50c912278e62
 feature: Web Personalization
-source-git-commit: 50befbf7339cd7a8b25b0942515497f6acc8f9ab
+TQID: https://experienceleague.adobe.com/J33gQt6txu9Dq95xAKDo5kRFqceNX1N17y9X3fTK3eY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: 779
 ht-degree: 2%
 
 ---
@@ -81,7 +86,7 @@ Il dashboard è costituito da 3 colonne
      <li>Nome: numero di utenti RTP segmentati</li>
      <li>Tipo: <span class="uicontrol">2.1 Metrica</span></li>
      <li><span class="uicontrol">Mostra la metrica seguente</span>: <span class="uicontrol">Utenti</span><br></li>
-     <li>Filtro: <br><span class="uicontrol">Mostra solo</span> | <span class="uicontrol">Categoria eventi</span> (contenente) segmenti RTP</li>
+     <li>Filtro: <br><span class="uicontrol">Mostra solo</span> | <span class="uicontrol">Categoria evento</span> (contenente) segmenti RTP</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a33-3a6.png" data-linked-resource-id="7504249" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></td>
    <td>
     <ul>
@@ -106,7 +111,7 @@ Il dashboard è costituito da 3 colonne
      <li><strong>Tipo: <span class="uicontrol">Geomap</span></strong></li>
      <li><strong><span class="uicontrol">Traccia la metrica selezionata</span>: <span class="uicontrol">Paese</span> | <span class="uicontrol">Sessioni</span></strong></li>
      <li><strong><span class="uicontrol">Seleziona una regione</span>: <span class="uicontrol">Il mondo</span></strong></li>
-     <li><strong>Filtro: <span class="uicontrol">Mostra solo</span> | <span class="uicontrol">Categoria eventi</span> (contenente) segmenti RTP</strong></li>
+     <li><strong>Filtro: <span class="uicontrol">Mostra solo</span> | <span class="uicontrol">Categoria evento</span> (contenente) segmenti RTP</strong></li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a34-3a18.png" data-linked-resource-id="7504253" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -124,7 +129,7 @@ Il dashboard è costituito da 3 colonne
      <li>Tipo: <span class="uicontrol">Barra</span></li>
      <li><span class="uicontrol">Crea un grafico a barre </span>: <span class="uicontrol">Utenti</span></li>
      <li><span class="uicontrol">Raggruppato per</span>: <span class="uicontrol">Azione evento</span></li>
-     <li>Filtro: <span class="uicontrol">Mostra solo</span> | <span class="uicontrol">Categoria eventi</span> (contenente) segmenti RTP</li>
+     <li>Filtro: <span class="uicontrol">Mostra solo</span> | <span class="uicontrol">Categoria evento</span> (contenente) segmenti RTP</li>
     </ul><p><img width="350" src="assets/add-a-widget.png" data-linked-resource-id="11382874" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th>
     <ul>
@@ -141,7 +146,7 @@ Il dashboard è costituito da 3 colonne
      <li>Nome: sessioni e obiettivi per segmenti principali</li>
      <li>Tipo: tabella<br></li>
      <li>Visualizza le colonne seguenti: <br>Etichetta evento | Sessioni | Tasso di conversione obiettivo</li>
-     <li>Filtro: <br>Mostra solo | Categoria evento (contenente) segmenti RTP</li>
+     <li>Filtro: <br>Mostra solo | Categoria di eventi (contenente) segmenti RTP</li>
     </ul><p><img width="350" src="assets/image2015-3-23-11-3a36-3a15.png" data-linked-resource-id="7504257" data-linked-resource-type="attachment" data-base-url="https://docs.marketo.com" data-linked-resource-container-id="7504238"></p></th>
    <th> </th>
   </tr>

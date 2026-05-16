@@ -4,9 +4,11 @@ description: Scopri come installare Sales Connect Salesforce customization for P
 title: Installa [!DNL Salesforce] Personalizzazione per i clienti Professional Edition
 exl-id: dc004a28-b580-4449-9fde-e744681ac53a
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/-u-VxODTzqp8V86ulyItc3J90xNZRV9grChJyR6rcSg
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: 252
 ht-degree: 0%
 
 ---
@@ -56,6 +58,6 @@ I clienti con [!DNL Salesforce] Professional Edition dovranno seguire questi pas
 
 ## Guide {#guides}
 
-[Guida all&#39;installazione per Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
+[Guida all’installazione per Salesforce Classic](https://s3.amazonaws.com/tout-user-store/salesforce/assets/Marketo+Sales+Engage+For+Salesforce_+Installation+and+Success+Guide.pdf)
 
 [Guida all&#39;installazione per Salesforce Lightning](https://s3.amazonaws.com/tout-user-store/salesforce/assets/SF+Guide+for+Lightning.pdf)

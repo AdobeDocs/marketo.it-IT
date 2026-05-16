@@ -4,16 +4,19 @@ description: Scopri i token per personalizzare le pagine di destinazione di Mark
 title: Panoramica dei token
 exl-id: d60816ce-33fb-4e18-8acd-71d4e90f47de
 feature: Landing Pages
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/nwWdqv-I5E0SfUIDAwMGnQHlx3kJ3crT4uwT0HEvaA8
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '309'
-ht-degree: 88%
+source-wordcount: 309
+ht-degree: 0%
 
 ---
 
 # Panoramica dei token {#tokens-overview}
 
-Un token è una variabile che può essere utilizzata nei passaggi del flusso di campagne avanzate Marketo, nelle e-mail, nelle pagine di destinazione, negli snippet e nelle campagne web.
+Un token è una variabile che può essere utilizzata nei passaggi di flusso di campagne intelligenti Marketo, nelle e-mail, nelle pagine di destinazione, nei frammenti e nelle campagne web.
 
 ## Informazioni sui valori predefiniti {#understanding-default-values}
 
@@ -21,17 +24,17 @@ Quando utilizzi un token, desideri anche fornire un valore predefinito. Questo �
 
 ![](assets/image2014-12-2-13-3a16-3a48.png)
 
-In questo esempio, l’e-mail indicherà “Saluti, (nome)” o “Congratulazioni” (valore predefinito).
+In questo esempio, l’e-mail indicherà &quot;Saluti, (nome)&quot; o &quot;Saluti, terra&quot; (valore predefinito).
 
 ![](assets/two.png)
 
 >[!CAUTION]
 >
->Durante l’utilizzo dell’editor e-mail di Marketo, i token non funzionano nella preintestazione, Per utilizzare un token nella preintestazione, devi farlo tramite il tuo HTML in un modello e-mail.
+>I token non funzionano nella preintestazione quando si utilizza l’editor e-mail di Marketo. Per utilizzare un token nella preintestazione, devi usare un HTML in un modello e-mail.
 
 >[!NOTE]
 >
->Questo elenco non è esaustivo. I token vengono creati anche per ciascun campo personalizzato disponibile in Marketo.
+>Questo elenco non è esaustivo. Vengono creati anche token per ogni campo personalizzato disponibile in Marketo.
 
 ## Token persona {#person-tokens}
 
@@ -87,9 +90,9 @@ In questo esempio, l’e-mail indicherà “Saluti, (nome)” o “Congratulazio
 * `{{lead.Unsubscribed}}`
 * `{{lead.Unsubscribed Reason}}`
 * `{{lead.Updated At}}`
-* I campi persona personalizzati funzionano anche se utilizzi il relativo nome visualizzato, ad esempio `{{lead.Custom Field Name}}`
+* I campi persona personalizzati funzionano anche se utilizzi il loro nome visualizzato, ad esempio `{{lead.Custom Field Name}}`
 
-## Token azienda {#company-tokens}
+## Token società {#company-tokens}
 
 * `{{Company.Account Owner Email Address}}`
 * `{{Company.Address}}`
@@ -110,7 +113,7 @@ In questo esempio, l’e-mail indicherà “Saluti, (nome)” o “Congratulazio
 * `{{Company.Site}}`
 * `{{Company.State}}`
 * `{{Company.Website}}`
-* I campi personalizzati dell’azienda funzionano anche se utilizzi il relativo nome visualizzato, ad esempio. `{{Company.Custom Field Name}}`
+* I campi personalizzati dell’azienda funzionano anche se utilizzi il nome visualizzato, ad esempio. `{{Company.Custom Field Name}}`
 
 ## Token campagna {#campaign-tokens}
 
@@ -131,7 +134,7 @@ In questo esempio, l’e-mail indicherà “Saluti, (nome)” o “Congratulazio
 * `{{system.unsubscribeLink}}`
 * `{{system.viewAsWebpageLink}}`
 
-## Token di attivazione {#trigger-tokens}
+## Attiva token {#trigger-tokens}
 
 * `{{trigger.Trigger Name}}`
 * `{{trigger.Name}}`
@@ -149,7 +152,7 @@ In questo esempio, l’e-mail indicherà “Saluti, (nome)” o “Congratulazio
 
 >[!NOTE]
 >
->Consulta ulteriori dettagli sui [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna avanzata.
+>Trova ulteriori dettagli su [token per momenti interessanti](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/tabs-in-the-msi-panel/interesting-moments/trigger-tokens-for-interesting-moments.md) in base ai trigger utilizzati in una campagna intelligente.
 
 ## Token programma {#program-tokens}
 
@@ -161,12 +164,12 @@ In questo esempio, l’e-mail indicherà “Saluti, (nome)” o “Congratulazio
 
 [!UICONTROL My Tokens] sono definiti in un programma e iniziano con `{{my.` seguito dal nome creato per il token. Ulteriori informazioni su [I miei token in un programma](/help/marketo/product-docs/core-marketo-concepts/programs/tokens/understanding-my-tokens-in-a-program.md).
 
-## Token member {#member-token}
+## Token membro {#member-token}
 
-I token member vengono utilizzati per inserire valori univoci dai partner di servizi integrati. Un uso comune dei token member è la generazione di URL univoci per i partecipanti al webinar. Ogni persona dispone di un URL univoco per accedere al webinar che può essere inserito utilizzando un token `{{member.webinar url}}`. Il token `{{member.webinar url}}` risolve automaticamente l’URL di conferma univoco della persona generato dal fornitore di servizi.
+I token dei membri vengono utilizzati per inserire valori univoci dai partner di servizi integrati. Un uso comune dei token di membro è quello di URL univoci per i partecipanti al webinar. Ogni persona dispone di un URL univoco per accedere al webinar che può essere inserito utilizzando un token `{{member.webinar url}}`. Il token `{{member.webinar url}}` risolve automaticamente l&#39;URL di conferma univoco della persona generato dal provider di servizi.
 
 * `{{member.webinar url}}`
 
 >[!CAUTION]
 >
->Il token `{{member.webinar url}}` verrà popolato solo se la campagna avanzata che invia l’e-mail è una risorsa secondaria del programma dell’evento.
+>Il token `{{member.webinar url}}` verrà popolato solo se la campagna avanzata che invia l&#39;e-mail è una risorsa secondaria del programma dell&#39;evento.

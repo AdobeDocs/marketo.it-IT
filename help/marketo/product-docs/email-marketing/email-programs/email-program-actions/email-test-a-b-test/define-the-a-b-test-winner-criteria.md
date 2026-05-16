@@ -4,9 +4,12 @@ description: Scopri come definire i criteri dei vincitori del test A/B. Imposta 
 title: Definire i criteri vincitori del test A/B
 exl-id: be8a0887-70f4-4667-93a6-d982a16cdfdb
 feature: Email Programs, A/B Testing
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/CCAarjClLyHDUn3-PQ-0cQ2Ef5NKedjIwdHh0dgnXJE
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: 443
 ht-degree: 23%
 
 ---
@@ -40,7 +43,7 @@ Quando [aggiungi un test A/B](/help/marketo/product-docs/email-marketing/email-p
    </tr>
    <tr>
    <td><b>[!UICONTROL Engagement Score]</b></td>
-   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html?lang=it" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
+   <td>Il <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.html" target="_blank">punteggio di coinvolgimento</a> consente di determinare l'efficacia del contenuto.</td>
    </tr>
    </table>
 

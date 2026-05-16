@@ -4,9 +4,11 @@ description: Scopri come impostare l’e-mail settimanale TAM Sales Report per i
 title: Configurazione del report TAM
 exl-id: fc451b05-12a2-4761-a273-2c71f92f2284
 feature: Target Account Management
-source-git-commit: f4ac42384a47d4b5e1ca139f1580ab475c58f543
+TQID: https://experienceleague.adobe.com/wXMjcc5C-4pYGtgqomP56DSwTgFHvDSoyjCshMWpBG4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: 167
 ht-degree: 6%
 
 ---

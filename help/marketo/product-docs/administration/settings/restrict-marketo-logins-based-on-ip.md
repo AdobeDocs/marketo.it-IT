@@ -4,9 +4,13 @@ description: Scopri come consentire o bloccare gli accessi a Marketo per indiriz
 title: Limitare gli accessi a Marketo in base all’IP
 exl-id: 5d9d0b88-b4bc-4e1b-b70c-2c2e7b4269f5
 feature: Administration
-source-git-commit: c06481152e88b8760a4539842a91aea90ab07fa1
+TQID: https://experienceleague.adobe.com/05hhFeXOdOg2zw9ioSV3kVI9DbDscpjx-s9SKYVDzv0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: 233
 ht-degree: 10%
 
 ---
@@ -21,7 +25,7 @@ Puoi limitare o consentire agli utenti di accedere a Marketo in base ai loro ind
 
 >[!IMPORTANT]
 >
->Adobe Admin Console (AAC) supporta [il controllo degli accessi basato su IP](https://helpx.adobe.com/it/enterprise/using/ip-based-access.html){target="_blank"}. Per garantire una transizione senza problemi, le restrizioni IP di Marketo Engage esistenti saranno attive, tra cui gli utenti di Adobe ID fino al primo trimestre del 2027 negli abbonamenti in cui questa funzione è abilitata.
+>Adobe Admin Console (AAC) supporta [il controllo degli accessi basato su IP](https://helpx.adobe.com/enterprise/using/ip-based-access.html){target="_blank"}. Per garantire una transizione senza problemi, le restrizioni IP di Marketo Engage esistenti saranno attive, tra cui gli utenti di Adobe ID fino al primo trimestre del 2027 negli abbonamenti in cui questa funzione è abilitata.
 >
 >* È possibile configurare l&#39;accesso basato su IP AAC in qualsiasi momento.
 >* Le restrizioni AAC e Marketo Engage possono essere eseguite contemporaneamente. Utilizza lo stesso elenco consentiti IP per la compatibilità.

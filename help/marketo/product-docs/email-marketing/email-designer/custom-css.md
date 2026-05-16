@@ -6,9 +6,14 @@ description: Scopri come aggiungere CSS personalizzati al contenuto delle e-mail
 level: Intermediate
 feature: Email Designer
 exl-id: c191b44a-47ab-41f8-aa95-9268e359e5db
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/Rw-Sk5TQz8PEK07bb69pJnyuqAEKWH-XsS87XW4N22k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e2290edd-b061-4880-9d79-dee306cf5aa9
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '591'
+source-wordcount: 592
 ht-degree: 3%
 
 ---
@@ -35,13 +40,13 @@ Aggiungi un CSS personalizzato direttamente in Marketo Engage Email Designer per
    >
    >Il pulsante **[!UICONTROL Add custom CSS]** è disponibile solo quando è selezionato **[!UICONTROL Body]**. Tuttavia, puoi applicare stili CSS personalizzati a tutti i componenti all’interno del contenuto.
 
-1. Inserisci il codice CSS nell’area di testo dedicata visualizzata. Verificare che il file CSS personalizzato [&#x200B; sia valido e che segua la sintassi corretta](#use-valid-css). Al termine, fai clic su **Salva**.
+1. Inserisci il codice CSS nell’area di testo dedicata visualizzata. Verificare che il file CSS personalizzato [ sia valido e che segua la sintassi corretta](#use-valid-css). Al termine, fai clic su **Salva**.
 
    ![](assets/custom-css-2.png)
 
    >[!NOTE]
    >
-   >Non puoi aggiungere CSS personalizzati al contenuto quando utilizzi un modello [&#x200B; con contenuto bloccato](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). L&#39;etichetta del pulsante diventa **[!UICONTROL View custom CSS]** ed eventuali CSS personalizzati visualizzati sono di sola lettura.
+   >Non puoi aggiungere CSS personalizzati al contenuto quando utilizzi un modello [ con contenuto bloccato](/help/marketo/product-docs/email-marketing/email-designer/content-locking.md). L&#39;etichetta del pulsante diventa **[!UICONTROL View custom CSS]** ed eventuali CSS personalizzati visualizzati sono di sola lettura.
 
 1. Assicurati che il CSS sia applicabile al contenuto. In caso contrario, controllare la sezione [Risoluzione dei problemi](#troubleshooting).
 
@@ -218,7 +223,7 @@ Se il CSS personalizzato non è applicato, prova i suggerimenti riportati di seg
 
 * Verificare che il file CSS venga aggiunto al tag `<style>` con l&#39;attributo `data-name="global-custom"`.
 
-* Verificare se l&#39;attributo `global-custom` del tag di stile `data-disabled` è impostato su `true`. In tal caso, il CSS personalizzato non viene applicato.
+* Verificare se l&#39;attributo `data-disabled` del tag di stile `global-custom` è impostato su `true`. In tal caso, il CSS personalizzato non viene applicato.
 
   +++ Ad esempio:
 

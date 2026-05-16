@@ -6,10 +6,16 @@ role: User
 level: Beginner, Intermediate
 keywords: e-mail, progettazione, accessibilità
 exl-id: 6768d304-54c5-4eea-b3a7-b3a4eb3b4955
-source-git-commit: f6893edbfe85d1d6e0958b5a3029d8fd404b1311
+TQID: https://experienceleague.adobe.com/kqwxM0mBZnchTEISiowpQOy7AZlKmmryK0GGkENiFdI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1365'
-ht-degree: 0%
+source-wordcount: 1423
+ht-degree: 1%
 
 ---
 
@@ -85,7 +91,7 @@ Utilizzare il componente **[!UICONTROL Image]** per fornire testo alternativo pe
 <!--![](assets/accessible-alt-text.png){width="90%"}-->
 
 * Descrivi lo scopo dell’immagine in modo conciso e contestuale.
-* Evita frasi ridondanti come &quot;Immagine di ...&quot; e utilizza testo alternativo vuoto per le immagini decorative.
+* Evita frasi ridondanti come &quot;Immagine di ...&quot; e utilizza testo alt vuoto per le immagini decorative.
 * Per le icone con significato, fornisci etichette significative e per le immagini complesse, utilizza un breve testo alternativo più una descrizione più lunga altrove.
 
 ## Usa formato leggibile {#readable-format}

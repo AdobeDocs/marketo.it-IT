@@ -3,9 +3,13 @@ description: Modello del programma operativo di gestione dati. Utilizzalo per ma
 title: OP-Gestione dati
 feature: Programs
 exl-id: ac4a522b-37a7-4080-83d6-fbc2203a568b
-source-git-commit: 3efcb529cd3e35027f35e51dfd91f95e94af9d61
+TQID: https://experienceleague.adobe.com/EGzqLIOGFIpRAB2OoDhRBTheiHBtitfI29T8TvZQNp0
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+topic_v2: id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: 335
 ht-degree: 16%
 
 ---
@@ -14,7 +18,7 @@ ht-degree: 16%
 
 Questo è un esempio di semplici flussi di lavoro basati sulle best practice per la gestione dei dati operativi che utilizzano un programma predefinito, per aiutarti a gestire la coerenza dei dati per i record all’interno del database Marketo Engage.
 
-Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/it/customers/consulting-services/main.html){target="_blank"}.
+Per ulteriore assistenza sulla strategia o per personalizzare un programma, contatta il team dell&#39;account Adobe o visita la pagina [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ## Riepilogo canale {#channel-summary}
 
@@ -57,7 +61,7 @@ Per ulteriore assistenza sulla strategia o per personalizzare un programma, cont
   <tr>
    <td>Campagna avanzata</td>
    <td> </td>
-   <td>Inserire nell'elenco Bloccati Imposta l'su True</td>
+   <td>Imposta l'su True</td>
   </tr>
   <tr>
    <td>Campagna avanzata</td>

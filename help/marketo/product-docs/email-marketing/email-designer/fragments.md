@@ -6,9 +6,15 @@ description: Scopri come creare e utilizzare i frammenti come componenti e-mail 
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: abc065a0-cd2f-4f0f-a5f2-228b833b99a8
-source-git-commit: 67d416c3fc126e695ff7cc3f712265d6dec6dc0d
+TQID: https://experienceleague.adobe.com/sGWGa3VQda--5A2JtkUjFmqIUD2CG3RhrhoJtcRvAMs
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: df8eb12b-4f82-491f-acbb-d74012ca5654
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '1904'
+source-wordcount: 1910
 ht-degree: 1%
 
 ---
@@ -232,7 +238,7 @@ Le modifiche apportate a un frammento dipendono dal suo stato corrente:
 
 Esistono due modi per aprire la versione bozza per la modifica dalla pagina di elenco _[!UICONTROL Fragments]_:
 
-* Fai clic sull&#39;icona _Altro_ (**...**) accanto al nome del frammento e scegli **[!UICONTROL Open draft version]**.
+* Fai clic sull&#39;icona _Altro_ (**...**) accanto al nome del frammento e scegliere **[!UICONTROL Open draft version]**.
 
   ![Apri versione bozza](assets/fragments-create-draft-version.png){width="300"}
 
@@ -258,7 +264,7 @@ Per aggiornare il contenuto:
 
 Puoi duplicare un frammento utilizzando uno dei seguenti metodi:
 
-* Dalla pagina dell&#39;elenco _[!UICONTROL Fragments]_, fai clic sull&#39;icona_ Altro _(**...**) accanto al nome del frammento e scegli **[!UICONTROL Duplicate]**.
+* Dalla pagina dell&#39;elenco _[!UICONTROL Fragments]_, fare clic sull&#39;icona_ Altro _(**...**) accanto al nome del frammento e scegliere **[!UICONTROL Duplicate]**.
 * Nella parte superiore destra della pagina dei dettagli del frammento, fare clic su **[!UICONTROL ... More]** e scegliere **[!UICONTROL Duplicate]**.
 
 ![Duplica il frammento](assets/fragment-details-duplicate.png){width="600" zoomable="yes"}

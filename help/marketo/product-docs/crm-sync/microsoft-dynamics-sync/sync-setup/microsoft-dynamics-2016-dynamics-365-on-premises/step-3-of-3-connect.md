@@ -3,10 +3,12 @@ description: Scopri come connettere Marketo a Dynamics 2016 o Dynamics 365 on-pr
 title: Installa Marketo per  [!DNL Microsoft Dynamics] 2016/[!DNL Dynamics] 365 on-premise Passaggio 3 di 3
 exl-id: ae801a59-8e29-479c-84c5-a18c7511f21f
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/WYR9u4Mfq8SeuXPyuYxgA-9iZlez5oKYPpnvrl-RwqY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 1%
+source-wordcount: 389
+ht-degree: 0%
 
 ---
 
@@ -27,11 +29,11 @@ ht-degree: 1%
 
    ![](assets/login-admin.png)
 
-1. Fai clic su **[!UICONTROL CRM]**.
+1. Fare clic su **[!UICONTROL CRM]**.
 
    ![](assets/image2015-3-16-9-47-34.png)
 
-1. Seleziona **[!DNL Microsoft]**.
+1. Selezionare **[!DNL Microsoft]**.
 
    ![](assets/image2015-3-16-9-50-6.png)
 
@@ -63,7 +65,7 @@ ht-degree: 1%
 
    ![](assets/image2015-3-16-9-51-28.png)
 
-1. Seleziona i campi da sincronizzare con Marketo in modo che siano preselezionati. Fai clic su **[!UICONTROL Save]**.
+1. Seleziona i campi da sincronizzare con Marketo in modo che siano preselezionati. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a14-3a28.png)
 
@@ -83,7 +85,7 @@ Se hai creato un filtro personalizzato, vai e seleziona i nuovi campi da sincron
 
    ![](assets/image2015-10-9-9-3a52-3a23.png)
 
-1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fai clic su **[!UICONTROL Save]**.
+1. Scorri verso il basso fino al campo e selezionalo. Il nome effettivo deve essere new_synctomkto, ma il nome visualizzato può essere qualsiasi cosa. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2016-8-25-15-3a15-3a35.png)
 

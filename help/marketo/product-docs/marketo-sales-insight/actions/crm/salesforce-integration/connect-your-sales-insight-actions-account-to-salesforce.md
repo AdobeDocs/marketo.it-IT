@@ -3,9 +3,11 @@ description: Scopri come collegare l’account Sales Insight Actions a Salesforc
 title: Collegare l’account delle azioni Sales Insight a Salesforce
 exl-id: 5d84d0f0-7867-45a8-b966-5088dca1bfca
 feature: Sales Insight Actions
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/C8GZBofPcwE9Jo2dxCnF4A-EoRaEq1194A9k06ww4CY
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: 113
 ht-degree: 8%
 
 ---

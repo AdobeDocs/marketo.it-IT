@@ -4,9 +4,11 @@ description: Scopri come modificare direttamente il HTML di un’e-mail. Accedi 
 title: Modificare l’HTML di un’e-mail
 exl-id: 9dc8e44d-d9da-4bc2-950f-3ffbb976f5d5
 feature: Email Editor
-source-git-commit: 7eb2f49718ea02be4a394a142c3a0ff05eeff796
+TQID: https://experienceleague.adobe.com/2le08a9sTBmn-jV6KfW-OzXJg-7MKlfbZM5kPdZ-3WM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: 346
 ht-degree: 4%
 
 ---
@@ -50,7 +52,7 @@ Queste modifiche al codice **non** interrompono un&#39;e-mail dal relativo model
 * Eliminazione di un modulo dal contenitore
 
 * Modifica degli attributi specifici di mkto (ad esempio, &quot;mktoName&quot; o &quot;mktoImgUrl&quot;) di qualsiasi elemento al di fuori di un modulo
-* Modifica del contenuto di qualsiasi elemento (testo formattato, immagine, video ecc.) all’esterno di un modulo
+* Modifica del contenuto di qualsiasi elemento (testo formattato, immagine, video, ecc.) all&#39;esterno di un modulo
 
 Le operazioni che è possibile eseguire nell&#39;editor di codice **interromperanno** l&#39;e-mail dal relativo modello:
 

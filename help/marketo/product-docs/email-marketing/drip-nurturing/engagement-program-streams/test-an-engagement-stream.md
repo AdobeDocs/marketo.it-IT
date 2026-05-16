@@ -4,10 +4,13 @@ description: Scopri come testare un flusso di coinvolgimento con una persona di 
 title: Testare un flusso di coinvolgimento
 exl-id: 144d805c-7805-4b35-b25c-4a18a7c3ab87
 feature: Engagement Programs
-source-git-commit: 240b78561db11e169188698880d4707a5c1f64de
+TQID: https://experienceleague.adobe.com/idDd76zfpXOVc7RIRfubWZ1bScpjAR6rECV69EaivpI
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: c5f60233-d5ea-4453-a799-0ad258b4d399id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 6%
+source-wordcount: 160
+ht-degree: 0%
 
 ---
 
@@ -15,7 +18,7 @@ ht-degree: 6%
 
 Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla volta.
 
-1. Passa a **[!UICONTROL Marketing Activities]**.
+1. Vai a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 

@@ -3,10 +3,12 @@ description: Scopri la limitazione della connessione e-mail in Sales Connect. Sc
 title: Limitazione della connessione e-mail
 exl-id: 093f5459-1bbb-45dd-8590-71ea4e1168d4
 feature: Marketo Sales Connect
-source-git-commit: 15427eacd2fc42a02f6a4c59d9102bacba02e57b
+TQID: https://experienceleague.adobe.com/ufnU49MGATTxUg41JNV7lziyYSAQof-3q3Bb-W-TIiM
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: 405
+ht-degree: 0%
 
 ---
 
@@ -33,7 +35,7 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
    ![](assets/email-connection-throttling-1.png)
 
-1. Fai clic su **[!UICONTROL General]**.
+1. Fare clic su **[!UICONTROL General]**.
 
    ![](assets/email-connection-throttling-2.png)
 
@@ -45,7 +47,7 @@ Quando i limiti vengono costantemente superati, a volte questo può essere visto
 
    ![](assets/email-connection-throttling-4.png)
 
-1. Fai clic su **[!UICONTROL Save]**.
+1. Fare clic su **[!UICONTROL Save]**.
 
    ![](assets/email-connection-throttling-5.png)
 

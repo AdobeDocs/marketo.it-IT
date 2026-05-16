@@ -4,10 +4,12 @@ description: Scopri come installare la soluzione Marketo per Dynamics 2015 on-pr
 title: Installazione di Marketo per Microsoft Dynamics 2015 on-premise - Passaggio 1 di 3
 exl-id: c9b6d365-15c1-4eff-938c-8433b1fe7f24
 feature: Microsoft Dynamics
-source-git-commit: d20c398cd1f5ed2646f56995c35a57630c3f2e95
+TQID: https://experienceleague.adobe.com/i6ILYEtzZ2vJnyELO-Zb8T-hRh0b2yVzbHaOzIEkF-k
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
-source-wordcount: '287'
-ht-degree: 1%
+source-wordcount: 287
+ht-degree: 0%
 
 ---
 
@@ -39,11 +41,11 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 2015 on-premise con Marke
 
    ![](assets/image2015-3-19-8-33-3.png)
 
-1. Fai clic su **[!UICONTROL Import]**.
+1. Fare clic su **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-19-8-34-8.png)
 
-1. Fai clic su **[!UICONTROL Browse]** e seleziona la soluzione [scaricata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fai clic su **[!UICONTROL Next]**.
+1. Fai clic su **[!UICONTROL Browse]** e seleziona la soluzione [scaricata](/help/marketo/product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/download-the-marketo-lead-management-solution.md). Fare clic su **[!UICONTROL Next]**.
 
    ![](assets/image2015-3-19-9-20-56.png)
 
@@ -59,7 +61,7 @@ Prima di poter sincronizzare [!DNL Microsoft Dynamics] 2015 on-premise con Marke
 
    ![](assets/image2015-3-19-9-21-50.png)
 
-1. Assicurati che la casella di controllo dell’opzione SDK sia selezionata. Fai clic su **[!UICONTROL Import]**.
+1. Assicurati che la casella di controllo dell’opzione SDK sia selezionata. Fare clic su **[!UICONTROL Import]**.
 
    ![](assets/image2015-3-19-9-19-12.png)
 
