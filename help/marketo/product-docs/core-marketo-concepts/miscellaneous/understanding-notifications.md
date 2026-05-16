@@ -4,8 +4,10 @@ description: Scopri le notifiche di Marketo Engage per gli errori della campagna
 title: Informazioni sulle notifiche
 exl-id: c47b10ae-cca0-427d-88e3-8f5f84aa5467
 TQID: https://experienceleague.adobe.com/2gXuzpDABMzULJZfzqvuc5u39hzfEuabZsz9TkjnSaY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 240
@@ -45,7 +47,7 @@ Puoi abbonarti alle notifiche per riceverle nell’e-mail.
 
 >[!NOTE]
 >
->La casella _[!UICONTROL Send to]_consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
+>La casella _[!UICONTROL Send to]_&#x200B;consente solo di immettere un indirizzo e-mail. Non verrà visualizzato un elenco di abbonati esistenti.
 
 In alcuni casi, una notifica fornisce un collegamento &quot;Consulta l’elenco completo&quot; per scaricare un file con valori separati da virgola (CSV), ad esempio il file Errori di sincronizzazione di Microsoft Dynamics. Marketo Engage conserva questi file CSV per 30 giorni. Se tenti di scaricare il file dopo 30 giorni, si verifica un errore.
 

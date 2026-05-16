@@ -5,7 +5,8 @@ title: 'Passaggio 2 di 3: configurare la soluzione Marketo con connessione serve
 exl-id: 324e2142-2aa2-4548-9a04-683832e3ba69
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/3U-6D08B0wmDyHMsDwUqAzFT-jy1EroQ4ZHzndAr-kE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 605

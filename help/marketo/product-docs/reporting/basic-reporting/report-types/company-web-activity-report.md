@@ -5,9 +5,15 @@ title: Rapporto su attività web della società
 exl-id: e248fe5c-7964-44c1-b88f-9e6c9887403f
 feature: Reporting
 TQID: https://experienceleague.adobe.com/U075R1PGYsqHdHOwEv5IgD-Wb6I4ejtmY4CylsXeXds
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 267
@@ -37,7 +43,7 @@ Crea un [report attività pagina Web](/help/marketo/product-docs/reporting/basic
 
    >[!TIP]
    >
-   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_e scegli **[!UICONTROL Sort Descending]**.
+   >Per trovare le aziende che visitano maggiormente il tuo sito, [ordina il tuo report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/sort-report-on-columns.md) nella colonna _[!UICONTROL Page Views]_&#x200B;e scegli **[!UICONTROL Sort Descending]**.
 
    [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report Attività Web della società includono:
 

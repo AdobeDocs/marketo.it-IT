@@ -5,9 +5,13 @@ title: Aggiungere un ulteriore dominio di branding
 exl-id: df6e5afe-dbb0-4fbe-bf06-79d92a91b986
 feature: Email Setup
 TQID: https://experienceleague.adobe.com/sPW8Gy4nhaxQ3kx7VPMaPG1ZrmE8ZnAN65qas0Idwqw
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 697
@@ -51,7 +55,7 @@ Per abilitare SSL per i domini esistenti, segui la procedura riportata di seguit
 
 1. Dall&#39;area _[!UICONTROL Admin]_, selezionare **[!UICONTROL Email]**.
 
-1. Nella scheda _[!UICONTROL Domain]_selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
+1. Nella scheda _[!UICONTROL Domain]_&#x200B;selezionare la riga del dominio e fare clic su **[!UICONTROL Add SSL]**.
 
    ![Amministratore - E-mail - Dominio - Aggiungi SSL](./assets/admin-email-branding-domain-add-ssl.png){width="600"}
 

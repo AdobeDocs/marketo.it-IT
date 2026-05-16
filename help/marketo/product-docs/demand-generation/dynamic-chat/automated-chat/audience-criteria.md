@@ -4,10 +4,16 @@ title: Criteri di audience
 feature: Dynamic Chat
 exl-id: 95c4558e-0c0c-4623-bb7d-b6ac2f455c01
 TQID: https://experienceleague.adobe.com/1h0-iXYpK53V4jUIZVM-T3TJkxhbaWvmZrb4er1vW18
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+subfeature_v2:
+  - id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 598
@@ -51,7 +57,7 @@ Sono disponibili _molte_ combinazioni di attributi tra cui scegliere. Nell’ese
 
    ![](assets/audience-criteria-7.png)
 
-1. _[!UICONTROL Is]_è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _[!UICONTROL Is]_&#x200B;è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in CA (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-8.png)
 
@@ -91,7 +97,7 @@ I seguenti elementi sono destinati a utenti che non sono ancora presenti nel dat
    >
    >Quando qualcuno visita il tuo sito Web, [Munchkin](/help/marketo/product-docs/administration/additional-integrations/add-munchkin-tracking-code-to-your-website.md){target="_blank"} lo cookie e lo inserisce nel sistema. L’indirizzo IP viene ricercato in un database speciale per dedurre la posizione e altre informazioni.
 
-1. _[!UICONTROL Is]_è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
+1. _[!UICONTROL Is]_&#x200B;è impostato per impostazione predefinita. Nel campo Seleziona valori, digita in NY (puoi anche fare clic sull’elenco a discesa e selezionare dall’elenco).
 
    ![](assets/audience-criteria-15.png)
 

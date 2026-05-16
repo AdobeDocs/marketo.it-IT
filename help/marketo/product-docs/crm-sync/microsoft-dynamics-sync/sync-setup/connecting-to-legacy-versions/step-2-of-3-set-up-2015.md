@@ -5,9 +5,12 @@ title: Installazione di Marketo per Microsoft Dynamics 2015 on-premise - Passagg
 exl-id: 39f00749-4ba3-47f1-b2e3-72cbaa7caf2e
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/hCthtzbLl9lqBmn2Ges10eu7UM-fzDt-0UyT8Je-bbY
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 358
@@ -33,7 +36,7 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!IMPORTANT]
 >
->L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [&#x200B; deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. In **[!UICONTROL Settings]**, fare clic su **[!UICONTROL Security]**.
 

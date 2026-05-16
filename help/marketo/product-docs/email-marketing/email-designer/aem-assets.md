@@ -5,10 +5,17 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: c2172042-a35c-4179-bf81-6e96323bd4d4
 TQID: https://experienceleague.adobe.com/kCDv70SM0B5fZjQ9-FTlVYZGkVbAbpJ1qmRm-YXOJf8
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: da3860b0-d637-47df-bef0-273751180266
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+  - id: da3860b0-d637-47df-bef0-273751180266
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 987
@@ -58,7 +65,7 @@ Prima di poter utilizzare questa funzionalità, devi collegare i servizi cloud d
    >
    >* Marketo Engage supporta solo archivi dal livello di consegna. Se utilizzi il livello di authoring e desideri convertirlo, contatta il [supporto Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/overview/help-resources).
 
-1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
+1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [&#128279;](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
 
    ![Aggiungi un certificato](assets/access-the-ai-assistant-content-accelerator-4.png){width="800" zoomable="yes"}
 
@@ -86,7 +93,7 @@ Se l’ambiente dispone di una o più connessioni all’archivio delle risorse, 
 
 ![Seleziona AEM Assets come origine immagine nella finestra di dialogo per la creazione](assets/work-with-experience-manager-assets-1.png){width="400" zoomable="yes"}
 
-* Quando apri una risorsa di contenuto esistente, scegli `AEM Assets` nella sezione _[!UICONTROL Body]_a destra.
+* Quando apri una risorsa di contenuto esistente, scegli `AEM Assets` nella sezione _[!UICONTROL Body]_&#x200B;a destra.
 
 ![Seleziona AEM Assets come origine immagine nelle proprietà](assets/work-with-experience-manager-assets-2.png){width="700" zoomable="yes"}
 

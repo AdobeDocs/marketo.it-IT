@@ -4,8 +4,10 @@ title: Campi dinamici
 exl-id: d9e52eae-d5bb-462f-8b7b-c28a560f6ea4
 feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/TSha6oGJPKxA0HNM0H-IDRC3rUE-Ld40VHWPzu6DHY4
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 544
@@ -19,7 +21,7 @@ ht-degree: 2%
 
 >[!TIP]
 >
->Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Insight Actions] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
+>Il campo &quot;first_name&quot; e &quot;company&quot; sono gli unici campi che verranno cercati sia in [!DNL Sales Insight Actions] che in [!DNL Salesforce]. Ciò significa che se un contatto non esiste nell&#39;applicazione Web [&#128279;](https://toutapp.com/login), verrà eseguita una ricerca in [!DNL Salesforce] per verificare se è possibile trovare un record contatto/lead con un indirizzo e-mail corrispondente. Quindi utilizziamo le informazioni di quel record per compilare il campo.
 
 ## Inserire un campo dinamico in un modello {#insert-a-dynamic-field-into-a-template}
 

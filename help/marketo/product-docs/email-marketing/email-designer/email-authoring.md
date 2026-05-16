@@ -5,11 +5,25 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 9d9b6cf3-f907-47d4-805d-4f9c73db5a32
 TQID: https://experienceleague.adobe.com/T4P378JxWQuCWzPMUsgXoQvnPhaRxdAnZUxVzpZuqWo
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2: id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46id: ffdd6159-0e10-4a57-8021-94e93bab8183
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 1800
@@ -207,7 +221,7 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 >
 >Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne da 1:1, quindi trascina e rilascia il frammento all’interno di esso.
 
-Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
+Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_&#x200B;della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
 ### Aggiungi Assets {#add-assets}
 
@@ -239,13 +253,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/authoring-layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 

@@ -5,7 +5,8 @@ title: Saltare i fine settimana
 exl-id: 4d7bf11a-71a2-4ae0-ad24-02be81e53957
 feature: Marketo Sales Connect
 TQID: https://experienceleague.adobe.com/svilh3tgrWWepx7-Bn9VhoFTpDwTWGCTVKv2Awu6KFU
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 77
@@ -17,7 +18,7 @@ ht-degree: 6%
 
 Durante l’automazione di una campagna, probabilmente non vorrai che le e-mail vengano inviate di sabato o domenica. In caso contrario, puoi saltare i fine settimana.
 
-1. In [!DNL Sales Connect], fare clic sulla scheda **[!UICONTROL  Campaigns]**.
+1. In [!DNL Sales Connect], fare clic sulla scheda **[!UICONTROL &#x200B; Campaigns]**.
 
    ![](assets/one-2.png)
 

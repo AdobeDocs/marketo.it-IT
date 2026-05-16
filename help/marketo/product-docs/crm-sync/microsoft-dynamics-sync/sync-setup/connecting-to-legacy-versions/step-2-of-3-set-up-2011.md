@@ -5,9 +5,13 @@ title: 'Passaggio 2 di 3: configurare l''utente di Marketo Sync in [!DNL Dynamic
 exl-id: 807c8902-24a6-48b6-a5c9-96a72764fdef
 feature: Microsoft Dynamics
 TQID: https://experienceleague.adobe.com/g-yRCQWbdVo-5rBF--v8tmevwRkrQdiCQ3M0BB42nfE
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 377
@@ -33,7 +37,7 @@ Assegnare il ruolo Utente di sincronizzazione Marketo solo all&#39;utente di sin
 
 >[!IMPORTANT]
 >
->L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [ deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
+>L&#39;impostazione della lingua dell&#39;utente di sincronizzazione [&#x200B; deve essere inglese](https://learn.microsoft.com/en-us/power-platform/admin/enable-languages){target="_blank"}.
 
 1. Nel menu in basso a sinistra, selezionare **[!UICONTROL Settings]**.
 

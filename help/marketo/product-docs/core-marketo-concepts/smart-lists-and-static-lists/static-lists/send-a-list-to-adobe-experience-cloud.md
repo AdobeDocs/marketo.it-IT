@@ -5,9 +5,14 @@ title: Inviare un elenco a Adobe Experience Cloud
 exl-id: 770eefe1-05f9-409d-8e7c-b3f1e6ba8139
 feature: Static Lists
 TQID: https://experienceleague.adobe.com/bu62GzoQCaBSkoAbX1tU90mzPYiRnnlUkpT4TLmoN0c
-product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 819
@@ -100,7 +105,7 @@ Puoi interrompere la sincronizzazione dell’elenco in qualsiasi momento.
 
 * Per gli utenti che possiedono sia Adobe Audience Manager che Adobe Analytics, questa integrazione consentirà ai tipi di pubblico di essere condivisi da Marketo alle suite di rapporti di Adobe Analytics, tuttavia è necessario seguire alcuni passaggi di configurazione aggiuntivi in Adobe Audience Manager per abilitare questa funzione. Rivedi la [documentazione di Adobe Audience Manager](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html){target="_blank"} per ulteriori informazioni su come configurare questa impostazione.
 
-* Dopo aver caricato un elenco da Marketo a Adobe Audience Manager, è possibile accedervi anche da Adobe Target. La configurazione [ deve essere abilitata in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
+* Dopo aver caricato un elenco da Marketo a Adobe Audience Manager, è possibile accedervi anche da Adobe Target. La configurazione [&#x200B; deve essere abilitata in Adobe Target](https://experienceleague.adobe.com/en/docs/target/using/integrate/audience-manager-target-integration){target="_blank"}.
 
 * Se un elenco è vuoto o non ha persone con valori ECID, il nome dell’elenco non verrà inviato per essere referenziato all’esterno di Marketo.
 
