@@ -4,9 +4,9 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 12c00719acd28ad2063b423eb14c866f495ac757
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Durante la finestra di migrazione, tutti i servizi Marketo Engage non saranno di
 
 * **Evita di eseguire** importazioni o esportazioni di dati o qualsiasi campagna principale di generazione di lead/persone.
 
-* **Rivedi e aggiorna i inserisce nell&#39;elenco Consentiti di IP** per l&#39;accesso, l&#39;accesso API, l&#39;invio di e-mail, il tracciamento web e le integrazioni.
+* **Rivedi e aggiorna i inserisce nell&#39;elenco Consentiti di accesso, accesso API, invio di e-mail, tracciamento web e integrazioni di IP**.
 
 * Aggiungi i seguenti indirizzi IP e mantieni gli IP correnti così come sono:
 
@@ -47,5 +47,3 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 ## Aggiornamenti e supporto
 
 Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support).
-
-DA AGGIUNGERE: DETTAGLI POD/DATA CENTER
