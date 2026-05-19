@@ -3,9 +3,9 @@ description: Scopri come utilizzare l’agente Lead di importazione per caricare
 title: Importa lead
 badge: Beta
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi.
 
->[!PREREQUISITES]
->
->Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
-
 >[!AVAILABILITY]
 >
->Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è a disponibilità limitata. Per richiedere l’accesso al tuo abbonamento, contatta il team dell’account di Adobe (il tuo account manager).
+
+>[!PREREQUISITES]
+>
+>Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per ulteriori informazioni, contatta il tuo account manager.
 
 ## Come usare {#how-to-use}
 

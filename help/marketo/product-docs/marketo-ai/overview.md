@@ -1,26 +1,26 @@
 ---
-description: Esplora la suite di agenti Marketo Engage AI progettati per automatizzare attività di marketing come il controllo qualità del programma, l’importazione dei lead, la normalizzazione dei dati e altro ancora.
-title: Panoramica di Marketo Engage AI
+description: Esplora la suite di agenti Marketo AI progettati per automatizzare attività di marketing come il controllo qualità del programma, l’importazione dei lead, la normalizzazione dei dati e altro ancora.
+title: Panoramica di Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '266'
 ht-degree: 2%
 
 ---
 
-# Panoramica di Marketo Engage AI {#overview}
+# Panoramica di Marketo AI {#overview}
 
-Marketo Engage AI fornisce agenti progettati per automatizzare funzioni di marketing lunghe ma importanti.
-
->[!PREREQUISITES]
->
->Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+Marketo AI fornisce agenti progettati per automatizzare funzioni di marketing lunghe ma importanti.
 
 >[!AVAILABILITY]
 >
->Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è a disponibilità limitata. Per richiedere l’accesso al tuo abbonamento, contatta il team dell’account di Adobe (il tuo account manager).
+
+>[!PREREQUISITES]
+>
+>Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per ulteriori informazioni, contatta il tuo account manager.
 
 >[!IMPORTANT]
 >
