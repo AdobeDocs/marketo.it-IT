@@ -1,12 +1,12 @@
 ---
 description: L’agente lead di Investigate risponde alle domande che gli addetti al marketing si pongono più spesso. È più veloce e affidabile rispetto allo scavo manuale dei registri di attività, alla cronologia intelligente delle campagne e ai record di punteggio.
 title: Indaga lead
-beta: true
+badge: Beta
 hide: true
 hidefromtoc: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -20,6 +20,10 @@ Scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (
 >* Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 >
 >* È necessario disporre dell&#39;accesso in visualizzazione al record del lead e al programma o alla fase cardine esaminati.
+
+>[!AVAILABILITY]
+>
+>Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
 
 ## Come usare {#how-to-use}
 

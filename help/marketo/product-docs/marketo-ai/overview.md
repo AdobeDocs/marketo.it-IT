@@ -3,7 +3,7 @@ description: Esplora la suite di agenti Marketo Engage AI progettati per automat
 title: Panoramica di Marketo Engage AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 2%
@@ -18,7 +18,7 @@ Marketo Engage AI fornisce agenti progettati per automatizzare funzioni di marke
 >
 >Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 
->[!NOTE]
+>[!AVAILABILITY]
 >
 >Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
 

@@ -1,11 +1,11 @@
 ---
 description: Parla con Marketo AI dei tuoi dati sulle prestazioni di Marketo Engage. Poni le tue domande in un linguaggio semplice e ottieni le risposte nel tuo ambiente Marketo.
 title: Analisi
-beta: true
+badge: Beta
 hide: true
-source-git-commit: f552c0b0219aede39e0742466ab2473e8e924e55
+source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '530'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,10 @@ Analytics ti consente di parlare dei dati sulle prestazioni di Marketo. Poni le 
 >* Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 >
 >* È necessario avere accesso ai programmi e ai report di cui si desidera ottenere informazioni.
+
+>[!AVAILABILITY]
+>
+>Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
 
 ## Come usare {#how-to-use}
 
