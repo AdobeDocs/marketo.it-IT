@@ -1,12 +1,12 @@
 ---
 description: Scopri come abilitare le autorizzazioni di Marketo AI, configurare le regole organizzative e gestire impostazioni come integrazioni e notifiche.
 title: Impostazioni e configurazione
-hide: true
+badge: Beta
 exl-id: d6f37214-65b9-48c1-bf9f-d64b4eda87b9
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 814e1a9c3e97404e9ed227fcbdf201fde0145a7a
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 0%
+source-wordcount: '371'
+ht-degree: 1%
 
 ---
 
@@ -18,7 +18,7 @@ Scopri come abilitare le autorizzazioni e utilizzare l’area Impostazioni per v
 
 >[!IMPORTANT]
 >
->Nella fase Alpha di Marketo AI, l&#39;accesso _è abilitato per impostazione predefinita_ per i seguenti ruoli: Amministratore, Amministratore di prodotto Adobe, Utente di marketing, Utente standard. Pertanto, invece di attivarla per i ruoli a cui si desidera accedere, è necessario disattivarla per i ruoli non disponibili.
+>Nella fase beta di Marketo AI, l&#39;accesso _è abilitato per impostazione predefinita_ per i seguenti ruoli: Amministratore e Amministratore di prodotto Adobe. Devi abilitarla per tutti gli altri ruoli a cui desideri avere accesso.
 
 ### Accesso per tutti {#access-for-all}
 
