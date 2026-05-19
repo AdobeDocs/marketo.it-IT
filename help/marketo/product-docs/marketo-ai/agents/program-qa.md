@@ -3,9 +3,9 @@ description: Scopri come controllare i programmi per individuare le best practic
 title: Controllo di qualità del programma
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 Controlla i programmi per scoprire le best practice per tutti i componenti, ad esempio e-mail, pagine di destinazione, campagne e altro ancora.
 
->[!PREREQUISITES]
->
->Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
-
 >[!AVAILABILITY]
 >
->Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è a disponibilità limitata. Per richiedere l’accesso al tuo abbonamento, contatta il team dell’account di Adobe (il tuo account manager).
+
+>[!PREREQUISITES]
+>
+>Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per ulteriori informazioni, contatta il tuo account manager.
 
 ## Come usare {#how-to-use}
 
