@@ -5,17 +5,13 @@ title: Rapporto sulle prestazioni del flusso di coinvolgimento
 exl-id: e838fcd8-0fe3-4e96-b453-30b15b911ede
 feature: Engagement Programs, Reporting
 TQID: https://experienceleague.adobe.com/63c8ll4a9f8PleyGPDFDIKmXW9b9TsJ3pmqnorwKU2g
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 157
-ht-degree: 7%
+source-wordcount: 150
+ht-degree: 6%
 
 ---
 
@@ -44,7 +40,7 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
 
    ![](assets/image2014-9-15-18-3a24-3a23.png)
 
-   Va bene! Vediamo ora le impostazioni.
+   Ora configura le impostazioni.
 
 ## Modifica impostazioni {#edit-settings}
 
@@ -70,4 +66,4 @@ Vuoi sapere come stanno andando i contenuti del tuo coinvolgimento? Prova il rap
    >
    >Anche se non illustrato, il punteggio di coinvolgimento è una colonna in questo rapporto. Per informazioni dettagliate su cosa è, consulta [Informazioni sul punteggio di coinvolgimento](/help/marketo/product-docs/email-marketing/drip-nurturing/reports-and-notifications/understanding-the-engagement-score.md).
 
-   Ottimo lavoro! Il report è raggruppato per programma di coinvolgimento.
+   Il report è raggruppato per programma di coinvolgimento.

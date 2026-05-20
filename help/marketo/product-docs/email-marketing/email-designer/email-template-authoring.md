@@ -5,25 +5,15 @@ level: Beginner, Intermediate
 feature: Email Designer
 exl-id: 92af4ba4-f214-423c-ab2d-ade07b368797
 TQID: https://experienceleague.adobe.com/En79ezOIpQCGnmPv9HasACkYY4ssfpsFOI-7IOj5Y4s
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1872
-ht-degree: 5%
+source-wordcount: 1787
+ht-degree: 3%
 
 ---
 
@@ -31,13 +21,9 @@ ht-degree: 5%
 
 Per un processo di progettazione accelerato e migliorato, puoi creare modelli e-mail autonomi per riutilizzare facilmente i contenuti personalizzati.
 
->[!PREREQUISITES]
->
->Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview). Se il tuo abbonamento non è ancora stato migrato e desideri velocizzarne il processo, contatta il team di Adobe Account (il tuo account manager) o l’[assistenza Marketo](https://nation.marketo.com/t5/support/ct-p/Support).
-
 >[!NOTE]
 >
->I modelli e-mail nel nuovo e-mail designer possono essere utilizzati solo per creare e-mail nel nuovo e-mail designer. Non è possibile farvi riferimento nel vecchio editor e-mail.
+>I modelli e-mail in E-mail Designer possono essere utilizzati solo per creare e-mail in E-mail Designer. Non è possibile farvi riferimento nell’editor e-mail classico.
 
 ## Creare un modello e-mail {#create-an-email-template}
 
@@ -177,7 +163,7 @@ L’editor esegue il rendering del frammento all’interno della sezione/element
 >
 >Se desideri che il frammento occupi l’intero layout orizzontale all’interno dell’e-mail, aggiungi una struttura di colonne da 1:1, quindi trascina e rilascia il frammento all’interno di esso.
 
-Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_&#x200B;della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
+Dopo il salvataggio, l&#39;e-mail viene visualizzata nella scheda _[!UICONTROL Used By]_della pagina dei dettagli del frammento. I frammenti aggiunti a un modello e-mail non sono modificabili all’interno del modello; il frammento di origine definisce il contenuto.
 
 ### Aggiungere risorse {#add-assets}
 
@@ -185,7 +171,7 @@ Aggiungi le immagini archiviate nella sezione [Immagini e file](/help/marketo/pr
 
 >[!NOTE]
 >
->È possibile aggiungere solo immagini nella nuova finestra di progettazione, non altri tipi di file in questo momento.
+>Al momento è possibile aggiungere solo immagini nel Designer e-mail, non altri tipi di file.
 
 1. Per accedere alle immagini, fai clic sull’icona del selettore delle risorse.
 
@@ -209,13 +195,13 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 1. Selezionare la colonna nel componente struttura direttamente nell&#39;area di lavoro o utilizzando la _struttura di spostamento_ visualizzata a sinistra.
 
-1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_&#x200B;e scegliere quello che si desidera modificare.
+1. Dalla barra degli strumenti della colonna, fare clic sullo strumento _[!UICONTROL Select a column]_e scegliere quello che si desidera modificare.
 
-   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_&#x200B;e_[!UICONTROL Styles]_ a destra.
+   Puoi anche selezionarla dall’albero della struttura. I parametri modificabili per tale colonna vengono visualizzati nelle schede _[!UICONTROL Settings]_e_[!UICONTROL Styles]_ a destra.
 
    ![](assets/layers-settings-styles-2.png)
 
-1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_&#x200B;a destra e modificarle in base alle proprie esigenze:
+1. Per modificare le proprietà della colonna, fare clic sulla scheda _[!UICONTROL Styles]_a destra e modificarle in base alle proprie esigenze:
 
    * Per **[!UICONTROL Background]**, modificare il colore di sfondo in base alle esigenze.
 
@@ -236,7 +222,7 @@ L’esempio seguente illustra i passaggi per regolare la spaziatura e l’alline
 
 ### Personalizzazione dei contenuti {#personalize-content}
 
-I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecchio, ma l’icona ha un aspetto diverso. L’esempio seguente illustra l’aggiunta di un token di nome con testo di fallback.
+I token funzionano in E-mail Designer nello stesso modo in cui funzionano nell’editor classico, ma l’icona ha un aspetto diverso. L’esempio seguente illustra l’aggiunta di un token di nome con testo di fallback.
 
 1. Seleziona il componente testo. Posiziona il cursore nel punto in cui desideri visualizzare il token e fai clic sull&#39;icona **Aggiungi personalizzazione**.
 
@@ -252,7 +238,7 @@ I token funzionano nel nuovo editor nello stesso modo in cui funzionano nel vecc
 
    >[!NOTE]
    >
-   >&quot;Testo di fallback&quot; è il nuovo termine dell’editor per il valore predefinito. Esempio: ``{{lead.First Name:default=Friend}}``. È consigliato nel caso in cui non vi sia alcun valore per la persona nel campo scelto.
+   >&quot;Testo di fallback&quot; è il termine del Designer e-mail relativo al valore predefinito. Esempio: ``{{lead.First Name:default=Friend}}``. È consigliato nel caso in cui non vi sia alcun valore per la persona nel campo scelto.
 
 1. Imposta il testo di fallback e fai clic su **Aggiungi**.
 
@@ -384,4 +370,4 @@ Dalla pagina di elenco dei _modelli e-mail_, seleziona più modelli selezionando
 
 >[!MORELIKETHIS]
 >
->[Authoring di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}: scopri come creare, progettare e fare riferimento a un messaggio e-mail nella nuova finestra di progettazione.
+>[Authoring di e-mail](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md){target="_blank"}

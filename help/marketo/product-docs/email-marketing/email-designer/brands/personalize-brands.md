@@ -7,9 +7,9 @@ role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 63d2e356-1a42-4cd2-b11f-3499f963c2dd
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '844'
 ht-degree: 1%
 
 ---
@@ -167,7 +167,7 @@ Per personalizzare **[!UICONTROL Writing Style]**:
 
 1. Se necessario, seleziona una linea guida o un’esclusione da aggiornare o eliminare.
 
-1. Fai clic su Modifica per modificare l’esempio o sull’icona Elimina per eliminarlo.
+1. Fare clic sull&#39;icona **[!UICONTROL Edit]** per modificare la voce oppure sull&#39;icona **[!UICONTROL Delete]** per eliminarla.
 
    SCHERMATA
 

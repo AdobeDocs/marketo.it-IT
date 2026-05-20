@@ -5,14 +5,12 @@ title: Creare un programma di coinvolgimento
 exl-id: 90f76d04-79cf-4fa1-999b-54d4ae34223f
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/GpU-1BhLyA-LWGaSJZl6cHOzZsFyzylKkoxAuQefE78
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 89
-ht-degree: 74%
+source-wordcount: 74
+ht-degree: 68%
 
 ---
 
@@ -31,8 +29,6 @@ Puoi utilizzare i programmi di coinvolgimento in Marketo per completare con faci
 1. Inserisci un **[!UICONTROL Name]**, seleziona **[!UICONTROL Engagement]** per **[!UICONTROL Program Type]** e fai clic su **[!UICONTROL Create]**.
 
    ![](assets/image2014-9-15-15-3a35-3a32.png)
-
-1. Bene, ora che hai creato un programma di coinvolgimento, prosegui e personalizzalo.
 
    ![](assets/image2014-9-15-15-3a35-3a38.png)
 

@@ -5,21 +5,13 @@ title: Aggiunta di un programma a un flusso di programma di coinvolgimento
 exl-id: 44c2ce45-439b-4b29-8130-8cc218e04bbf
 feature: Engagement Programs
 TQID: https://experienceleague.adobe.com/kI2v6drF78DnJhhEbgeVSi4TYbF5rExY2wgR0aAK-bI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: 471
 ht-degree: 4%
 
 ---
@@ -50,9 +42,9 @@ Può ottenere e-mail e programmi di mixaggio complicati in un programma di coinv
 
 >[!TIP]
 >
->Assicurarsi di utilizzare un filtro **[!UICONTROL Member of Engagement Program]** nell&#39;elenco avanzato.
+>Utilizza un filtro **[!UICONTROL Member of Engagement Program]** nell&#39;elenco avanzato.
 
-## Cosa succede alle persone che non soddisfano i criteri della lista intelligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## Cosa succederà alle persone che non soddisfano i criteri dell’elenco avanzato? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 Nel caso in cui qualcuno venga escluso dall’elenco avanzato della campagna intelligente di un programma nidificato, non passa alla parte successiva del contenuto durante il cast corrente. Passeranno al contenuto successivo nel flusso per il cast *seguente*.
 
