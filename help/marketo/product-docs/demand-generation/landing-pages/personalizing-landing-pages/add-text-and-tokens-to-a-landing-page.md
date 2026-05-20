@@ -5,9 +5,8 @@ title: Aggiungere testo e token a una pagina di destinazione
 exl-id: df6f17dc-50a0-4ee0-9a6e-96b0ebde46c7
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/-WO74fBXUqqawkC75M5bH2pFdWk3jcVhZghU2o5vEmk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 191
 ht-degree: 8%
@@ -38,7 +37,7 @@ ht-degree: 8%
 
    ![](assets/image2015-7-8-17-3a0-3a49.png)
 
-Ora che sai come aggiungere testo a una pagina di destinazione, lavoriamo sull’aggiunta di un token.
+Ora che sai come aggiungere testo a una pagina di destinazione, la sezione successiva tratta l’aggiunta di un token.
 
 ## Aggiungere un token alla pagina di destinazione {#add-a-token-to-your-landing-page}
 
@@ -46,7 +45,7 @@ I token sono parti di testo dinamiche che possono personalizzare la pagina di de
 
 >[!TIP]
 >
->Cose come First Name provengono dal record della persona. Altri token provengono dalla scheda I miei token del programma.
+>Valori come Nome provengono dal record della persona. Altri token provengono dalla scheda I miei token del programma.
 
 1. Seleziona la pagina di destinazione e fai clic su **[!UICONTROL Edit Draft]**.
 
@@ -76,4 +75,4 @@ I token sono parti di testo dinamiche che possono personalizzare la pagina di de
 
    ![](assets/image2015-7-8-17-3a25-3a22.png)
 
-   Missione completata. Ora hai un token nella pagina di destinazione.
+   Ora hai un token nella pagina di destinazione.

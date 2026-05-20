@@ -5,15 +5,12 @@ title: Personalizzare la visualizzazione per dispositivi mobili della pagina di 
 exl-id: 8a5b3d81-34b1-47be-9575-d5ab61cdf9e4
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/RJiOHLIXxHZdZBJk2XtIqk6TtJ7UVjcExmkxyVFp3yQ
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 376
-ht-degree: 7%
+source-wordcount: 365
+ht-degree: 6%
 
 ---
 
@@ -23,7 +20,7 @@ ht-degree: 7%
 >
 >[Aggiungi una visualizzazione mobile alla pagina di destinazione in formato libero](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/add-a-mobile-view-for-your-free-form-landing-page.md)
 
-La visualizzazione mobile della pagina di destinazione in formato libero è per lo più automatica, ma puoi personalizzarla. Ecco come.
+La visualizzazione mobile della pagina di destinazione in formato libero è per lo più automatica, ma puoi personalizzarla.
 
 1. Seleziona la pagina di destinazione in formato libero.
 
@@ -51,7 +48,7 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
 ![](assets/image2015-5-21-15-3a12-3a2.png)
 
-## Aspetti importanti da considerare: {#important-things-to-know}
+## Aspetti importanti da considerare {#important-things-to-know}
 
 * Le immagini si espanderanno fino alla larghezza del dispositivo mobile. Se desideri immagini più piccole, richiama l’elemento rich-text e aggiungi l’immagine da lì.
 * Utilizza solo moduli di Forms 2.0. Sono reattivi e si regolano automaticamente.
@@ -63,13 +60,13 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
 >[!TIP]
 >
->Di meno si ottiene invece con i dispositivi mobili. Usa meno parole per clienti più felici.
+>Di meno si ottiene invece con i dispositivi mobili.
 
 1. Per nascondere un elemento, fai clic sulla casella di controllo corrispondente sotto la colonna mobile.
 
    ![](assets/image2015-5-21-15-3a28-3a17.png)
 
-1. Perfetto! Tale elemento non sarà più visibile nella visualizzazione per dispositivi mobili.
+1. Tale elemento non sarà più visibile nella visualizzazione per dispositivi mobili.
 
    ![](assets/image2015-5-21-15-3a30-3a17.png)
 
@@ -77,7 +74,7 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
 >[!TIP]
 >
->Crea contenuti speciali (più brevi) solo per la visualizzazione mobile.
+>Riduci i contenuti per la visualizzazione per dispositivi mobili.
 
 1. Per aggiungere un elemento, trascinalo sulla pagina di destinazione in formato libero.
 
@@ -97,7 +94,7 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
    ![](assets/image2015-5-21-15-3a36-3a35.png)
 
-1. Vuoi vedere qualcosa di figo? Seleziona **[!UICONTROL Side By Side]**.
+1. Selezionare **[!UICONTROL Side By Side]** per confrontare contemporaneamente le versioni desktop e mobile.
 
    ![](assets/image2015-1-22-20-3a2-3a15.png)
 
@@ -105,7 +102,7 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
 
    ![](assets/image2015-1-22-20-3a3-3a22.png)
 
-1. Se ti piace, fai clic su **[!UICONTROL Approve and Close]**.
+1. Fai clic su **[!UICONTROL Approve and Close]**.
 
    ![](assets/image2015-1-22-20-3a5-3a36.png)
 
@@ -113,7 +110,6 @@ Per impostazione predefinita, tutto ciò che si trova sulla vista desktop viene 
    >
    >L’anteprima non è interattiva. Ogni smartphone mostra le cose in modo leggermente diverso. Consigliamo di visualizzare l’anteprima della pagina di destinazione su alcuni dispositivi per vedere esattamente come si comporta.
 
-Buon lavoro!
 
 >[!MORELIKETHIS]
 >

@@ -5,18 +5,17 @@ title: Aggiunta di un rettangolo a una pagina di destinazione in formato libero
 exl-id: 9c0e614f-9a47-41be-b943-9d493f7e5000
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/jKfwONyZaf3HXfYg2i1bl0ncsuXp5ALCh6HuCw-Vf5M
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 133
-ht-degree: 14%
+source-wordcount: 130
+ht-degree: 13%
 
 ---
 
 # Aggiunta di un rettangolo a una pagina di destinazione in formato libero {#adding-a-rectangle-to-a-free-form-landing-page}
 
-I rettangoli nelle pagine di destinazione sono ideali per evidenziare un’area del testo.
+I rettangoli nelle pagine di destinazione possono essere utilizzati per evidenziare o separare visivamente le sezioni di contenuto.
 
 1. Selezionare una pagina di destinazione in formato libero e fare clic su **[!UICONTROL Edit Draft]**.
 
@@ -38,4 +37,4 @@ I rettangoli nelle pagine di destinazione sono ideali per evidenziare un’area 
 
    ![](assets/image2015-5-21-14-3a50-3a24.png)
 
-Congratulazioni! Ora puoi creare rettangoli nelle pagine di destinazione in formato libero.
+Ora puoi aggiungere rettangoli alle pagine di destinazione in formato libero.

@@ -5,18 +5,17 @@ title: Abilitare gli URL personalizzati per il tuo account
 exl-id: 3964db0c-8f86-40aa-a3d7-da59824bdc4c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/As1NwttcwB-zbe-UNOF1tuYcot34gZcb3UH-lnQcRAM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 106
-ht-degree: 17%
+source-wordcount: 103
+ht-degree: 16%
 
 ---
 
 # Abilitare gli URL personalizzati per il tuo account {#enable-personalized-urls-for-your-account}
 
-Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
+Gli URL personalizzati funzionano correttamente per le campagne di stampa tramite posta.
 
 >[!NOTE]
 >
@@ -34,7 +33,7 @@ Gli URL personalizzati sono ideali per le campagne di stampa tramite posta.
 
    ![](assets/image2014-9-18-13-3a30-3a6.png)
 
-Ottimo lavoro! Ora che hai abilitato i PURL per il tuo account, puoi abilitarli per le singole pagine di destinazione.
+Hai abilitato i PURL per il tuo account. Ora puoi abilitarli per le singole pagine di destinazione.
 
 >[!NOTE]
 >

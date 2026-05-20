@@ -5,12 +5,11 @@ title: Esportare un elenco con URL personalizzati
 exl-id: a267af34-9812-4994-b506-bba32e89e66c
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/4GUDuUUCJroLl2v1QGD8-7k9ZwmzrZtfzB2DAQBVZTs
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 173
-ht-degree: 6%
+source-wordcount: 156
+ht-degree: 7%
 
 ---
 
@@ -21,7 +20,7 @@ ht-degree: 6%
 >* [Abilita URL personalizzati per il tuo account](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-your-account.md)
 >* [Abilita URL personalizzati per una pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/personalizing-landing-pages/enable-personalized-urls-for-a-landing-page.md)
 
-1. Selezionare l&#39;elenco o l&#39;elenco avanzato, fare clic sulla scheda **[!UICONTROL Leads]** per ottenere i risultati e quindi fare clic sull&#39;icona Excel. INLINE Assicurarsi di avere **[!UICONTROL Marketo Unique Code]** e **[!UICONTROL Marketo Unique Name]** [colonne visibili](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
+1. Selezionare l&#39;elenco o l&#39;elenco avanzato, fare clic sulla scheda **[!UICONTROL Leads]** per ottenere i risultati, quindi fare clic sull&#39;icona Excel. Assicurati di avere **[!UICONTROL Marketo Unique Code]** e **[!UICONTROL Marketo Unique Name]** [colonne visibili](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/using-smart-lists/create-and-change-views-for-lists-and-smart-list.md).
 
    ![](assets/image2014-9-25-11-3a10-3a43.png)
 
@@ -35,7 +34,7 @@ ht-degree: 6%
 
    >[!TIP]
    >
-   >Se trovi più URL per la stessa pagina di destinazione, è probabile che tu abbia modificato l’URL delle pagine in passato e creato un reindirizzamento.
+   >Se trovi più URL per la stessa pagina di destinazione, è probabile che tu abbia modificato l’URL della pagina in passato e creato un reindirizzamento.
 
 1. Scegliere un **[!UICONTROL Style]** e fare clic su **[!UICONTROL Export]**.
 
@@ -44,8 +43,6 @@ ht-degree: 6%
 1. Al termine dell&#39;esportazione, fare clic sul collegamento **[!UICONTROL Download Now]** per salvare il file.
 
    ![](assets/image2014-9-18-13-3a37-3a27.png)
-
-   E hai finito! Ora disponi di un elenco di lead e URL personalizzati.
 
    ![](assets/image2014-9-18-13-3a37-3a36.png)
 

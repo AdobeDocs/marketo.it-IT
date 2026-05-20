@@ -5,11 +5,10 @@ title: Aggiungere un collegamento all’immagine di una pagina di destinazione i
 exl-id: 74560863-b135-4e0e-b84d-9462aacbb902
 feature: Landing Pages
 TQID: https://experienceleague.adobe.com/oWeDNJi60IIzN30h98YEwJQix8W5pJP7BvAY-1rgobI
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 95
+source-wordcount: 93
 ht-degree: 21%
 
 ---
@@ -24,14 +23,14 @@ ht-degree: 21%
 >
 >Questo vale solo per le pagine di destinazione in formato libero.
 
-1. Seleziona l&#39;immagine aggiunta alla pagina di destinazione ed espandi **[!UICONTROL Property Sheet].**
+1. Seleziona l&#39;immagine aggiunta alla pagina di destinazione ed espandi **[!UICONTROL Property Sheet]**.
 
    ![](assets/image2014-9-18-15-3a29-3a0.png)
 
-1. Digita il collegamento mailto in **[!UICONTROL linkUrl].**
+1. Digitare il collegamento mailto in **[!UICONTROL linkUrl]**.
 
    ![](assets/image2014-9-18-15-3a29-3a21.png)
 
-   Ottimo lavoro! Nella pagina di destinazione di Marketo è ora disponibile un’immagine come collegamento e-mail.
+   Nella pagina di destinazione di Marketo è ora disponibile un’immagine come collegamento e-mail.
 
    ![](assets/image2014-9-18-15-3a29-3a38.png)
