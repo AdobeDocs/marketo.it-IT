@@ -9,22 +9,22 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 440
+source-wordcount: 427
 ht-degree: 3%
 
 ---
 
 # Configurare una firma DKIM personalizzata {#set-up-a-custom-dkim-signature}
 
-Per garantire un recapito messaggi di prima qualità, firmiamo automaticamente tutti i messaggi in uscita con una firma Marketo DKIM condivisa.
+Per garantire un recapito messaggi ottimale, Marketo firma automaticamente tutti i messaggi in uscita con una firma DKIM condivisa.
 
 >[!NOTE]
 >
 >Potrebbe essere necessario l’aiuto del team IT per completare alcuni dei passaggi descritti in questo articolo.
 
-Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come.
+Puoi personalizzare la firma DKIM per riflettere i domini selezionati.
 
 1. Passare alla sezione **[!UICONTROL Admin]**.
 
@@ -32,7 +32,7 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
 
    >[!NOTE]
    >
-   >Se imposti una firma DKIM personalizzata secondo la vecchia modalità, questa continuerà a funzionare e dovrebbe essere visualizzata qui.
+   >Se imposti una firma DKIM personalizzata utilizzando il metodo legacy, questa continuerà a funzionare e dovrebbe essere visualizzata qui.
 
 1. Fai clic su **E-mail**.
 
@@ -49,7 +49,7 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
    <table>
    <tr>
    <td width="20%"><b>Selettore</b></td>
-   <td>Stringa o identificatore univoco utilizzato per individuare la parte della chiave pubblica del record DKIM. Può trattarsi di una stringa arbitraria o di un identificatore univoco per separare e identificare lo scopo di tale chiave/record DKIM.</td>
+   <td>Stringa/identificatore univoco utilizzato per individuare la parte della chiave pubblica del record DKIM. Può trattarsi di una stringa arbitraria o di un identificatore univoco per separare e identificare lo scopo di tale chiave/record DKIM.</td>
    </tr>
    <tr>
    <td width="20%"><b>Dimensione chiave</b></td>
@@ -62,16 +62,16 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
 
    >[!TIP]
    >
-   >* È consigliabile impostare la dimensione della chiave su 2048.
-   >* Se utilizzi un dominio diverso nell’indirizzo Da, verrà utilizzata la firma DKIM condivisa di Marketo.
+   >* Si consiglia di impostare la dimensione della chiave su 2048.
+   >* Se si utilizza un dominio diverso nell&#39;indirizzo Da, Marketo utilizzerà la firma DKIM condivisa.
 
    >[!IMPORTANT]
    >
    >Se è necessario aggiornare il selettore DKIM o la dimensione di crittografia DKIM per il dominio, è necessario eliminare il record esistente e ripubblicare il record appena generato con i nuovi valori.
    >
-   >Si prega di notare che quando si esegue questa operazione, DKIM non verrà firmato per il dominio fino a quando il nuovo record non verrà pubblicato e convalidato dal sistema. Pianifica le modifiche di conseguenza, poiché potrebbero essere necessarie da 24 a 48 ore prima che il nuovo record DKIM venga completamente propagato su Internet.
+   >In questo caso, DKIM non verrà firmato per il dominio fino a quando il nuovo record non verrà pubblicato e convalidato dal sistema. Pianifica le modifiche di conseguenza, poiché potrebbero essere necessarie da 24 a 48 ore prima che il nuovo record DKIM venga completamente propagato su Internet.
 
-1. Invia **[!UICONTROL Host Record]** e **[!UICONTROL TXT Value]** al tuo IT. Chiedere loro di creare il record e assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
+1. Invia **[!UICONTROL Host Record]** e **[!UICONTROL TXT Value]** al tuo IT. Chiedere loro di creare il record e di assicurarsi che venga propagato a tutti i server dei nomi associati al dominio di origine. La verifica DKIM di Marketo richiede che la chiave DKIM venga propagata a tutti i server dei nomi associati al dominio con firma DKIM.
 
    ![](assets/set-up-a-custom-dkim-signature-5.png)
 
@@ -85,6 +85,6 @@ Puoi personalizzare la firma DKIM per riflettere i domini selezionati. Ecco come
 
    >[!CAUTION]
    >
-   >La modifica o la rimozione del record DNS corrispondente compromette il recapito messaggi. Assicurati di eliminare la voce in Marketo prima di apportare modifiche DNS.
+   >La modifica o la rimozione del record DNS corrispondente compromette il recapito messaggi. Elimina la voce in Marketo prima di apportare modifiche DNS.
 
-   Questo ti sarà di grande aiuto per il recapito dei messaggi e-mail. Dovresti ottenere la convalida che il record sia presente e corretto.
+   Questo migliorerà il recapito messaggi e-mail. Dovresti ottenere la convalida che il record sia presente e corretto.

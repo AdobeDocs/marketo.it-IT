@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 238
 ht-degree: 4%
@@ -18,7 +18,7 @@ ht-degree: 4%
 
 # Informazioni sull’annullamento dell’iscrizione {#understanding-unsubscribe}
 
-In realtà esistono diversi tipi di annullamento di abbonamenti incorporati in Marketo. Sono tutti rappresentati da campi sull’oggetto persona, proprio come Nome.
+In Marketo sono disponibili diversi tipi di annullamento dell’abbonamento integrato. Sono tutti rappresentati da campi nell’oggetto persona, proprio come Nome.
 
 Tutti questi campi sono incorporati nel tuo abbonamento Marketo. Sono tutti di tipo booleano (casella di controllo). Possono essere utilizzati in Forms o nei [passaggi del flusso Change Data Value](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/change-data-value.md).
 
@@ -36,10 +36,10 @@ Questo stato blocca la spedizione di una persona per 24 ore dopo che si è verif
 
 >[!NOTE]
 >
->Le e-mail sospese rimarranno controllate anche dopo il periodo di 24 ore, quindi puoi fare riferimento a persone che sono state storicamente contrassegnate come tali. Per vedere se la persona è inviabile, calcola semplicemente 24 ore dopo il momento della sospensione dell’e-mail.
+>Le e-mail sospese rimarranno controllate anche dopo il periodo di 24 ore, quindi puoi fare riferimento a persone che sono state storicamente contrassegnate come tali. Per verificare se la persona è inviabile, calcola 24 ore dopo il momento della sospensione dell’e-mail.
 
 ## Inseriti nell’elenco bloccati {#blocklisted}
 
-[Utilizzalo per persone come i concorrenti](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Chiunque desideri ricevere **no** e-mail: operativo, di marketing, ecc. Non ricevono nulla!
+[Utilizzalo per persone come i concorrenti](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/add-person-to-blocklist.md). Chiunque desideri ricevere **no** e-mail: operativo, di marketing, ecc. Non ricevono e-mail.
 
 ![](assets/image2015-5-18-12-3a6-3a40.png)

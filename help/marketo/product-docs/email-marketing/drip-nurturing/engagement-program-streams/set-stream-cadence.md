@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 362
+source-wordcount: 356
 ht-degree: 3%
 
 ---
@@ -46,11 +46,11 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
 
    ![](assets/image2017-12-5-14-3a10-3a17.png)
 
-1. Ora scegli se vuoi che la cadenza avvenga ogni settimana o più distanziata. Scegliamo ogni due settimane.
+1. Ora scegli se vuoi che la cadenza avvenga ogni settimana o più distanziata. Scegli ogni 2 settimane.
 
    ![](assets/image2017-12-5-14-3a10-3a56.png)
 
-1. Decidi quali giorni della settimana. In questo caso facciamo martedì, mercoledì e giovedì.
+1. Decidi quali giorni della settimana. In questo caso, selezionare Martedì, Mercoledì e Giovedì.
 
    ![](assets/image2017-12-5-14-3a12-3a29.png)
 
@@ -66,13 +66,13 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
    >
    >Il contenuto verrà pubblicato nella data selezionata per il primo cast, quindi assicurati che coincida con il giorno della settimana scelto; altrimenti verrà distribuito due volte nella prima settimana.
 
-1. Passa il cursore sopra la cadenza. Vedrai che giorno usciranno i cast futuri.
+1. Passa il cursore sopra la cadenza. Appariranno i giorni dei cast futuri.
 
    ![](assets/image2017-12-5-14-3a17-3a29.png)
 
    >[!NOTE]
    >
-   >In questo esempio, un’e-mail verrà inviata giovedì. Quindi saltiamo una settimana e inviamo di nuovo martedì, mercoledì e giovedì della settimana successiva. E poi ripetiamo il ciclo.
+   >In questo esempio, un’e-mail verrà inviata giovedì. La settimana successiva viene saltata e l’e-mail viene inviata di nuovo martedì, mercoledì e giovedì della settimana successiva. Il ciclo si ripete.
 
 ## Mensile {#monthly}
 
@@ -84,7 +84,7 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
 
    ![](assets/image2014-9-15-16-3a30-3a11.png)
 
-1. Seleziona questa opzione se desideri che sia ogni mese o più distanziato... Scegliamo ogni quattro mesi.
+1. Seleziona questa opzione se desideri che sia ogni mese o più distanziato. Scegli ogni quattro mesi.
 
    ![](assets/image2014-9-15-16-3a30-3a7.png)
 
@@ -100,7 +100,7 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
 
    ![](assets/image2014-9-15-16-3a29-3a42.png)
 
-1. Passa il cursore sopra la cadenza. Vedrai che giorno usciranno i cast futuri.
+1. Passa il cursore sopra la cadenza. Appariranno i giorni dei cast futuri.
 
    ![](assets/image2014-9-15-16-3a29-3a38.png)
 
@@ -108,7 +108,7 @@ Puoi inviare il contenuto del coinvolgimento in qualsiasi intervallo. Ad esempio
    >
    >Se decidi di modificare la cadenza del flusso di coinvolgimento in un secondo momento, assicurati che il primo cast sia impostato su una data futura.
 
-Ora sai come impostare una cadenza di flusso!
+Ora sai come impostare una cadenza di flusso.
 
 >[!MORELIKETHIS]
 >

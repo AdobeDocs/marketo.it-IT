@@ -17,9 +17,9 @@ subfeature_v2:
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 469
+source-wordcount: 471
 ht-degree: 4%
 
 ---
@@ -50,9 +50,9 @@ Può ottenere e-mail e programmi di mixaggio complicati in un programma di coinv
 
 >[!TIP]
 >
->Assicurarsi di utilizzare un filtro **[!UICONTROL Member of Engagement Program]** nell&#39;elenco avanzato.
+>Utilizza un filtro **[!UICONTROL Member of Engagement Program]** nell&#39;elenco avanzato.
 
-## Cosa succede alle persone che non soddisfano i criteri della lista intelligente? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
+## Cosa succederà alle persone che non soddisfano i criteri dell’elenco avanzato? {#what-happens-to-people-who-dont-meet-the-smart-list-criteria}
 
 Nel caso in cui qualcuno venga escluso dall’elenco avanzato della campagna intelligente di un programma nidificato, non passa alla parte successiva del contenuto durante il cast corrente. Passeranno al contenuto successivo nel flusso per il cast *seguente*.
 

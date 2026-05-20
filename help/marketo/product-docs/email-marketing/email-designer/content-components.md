@@ -7,10 +7,10 @@ level: Beginner, Intermediate
 feature: Email Designer
 hide: true
 hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '1184'
-ht-degree: 14%
+source-wordcount: '1181'
+ht-degree: 11%
 
 ---
 
@@ -135,7 +135,7 @@ Utilizza il componente **[!UICONTROL HTML]** per copiare e incollare le diverse 
 
 >[!NOTE]
 >
->Per rendere semplicemente un contenuto esterno conforme a E-mail Designer, Adobe consiglia di creare un messaggio da zero e di copiare il contenuto dell’e-mail esistente nei componenti.
+>Per rendere il contenuto esterno conforme a E-mail Designer, Adobe consiglia di creare un messaggio da zero e copiare il contenuto dall’e-mail esistente nei componenti.
 
 ## Immagine {#image}
 
@@ -198,7 +198,7 @@ Utilizza il componente **[!UICONTROL Offer decision]** per inserire le offerte n
 
    SCHERMATA
 
-1. Selezionare **[!UICONTROL Placements]** dall&#39;elenco a discesa.  Quindi, seleziona **[!UICONTROL Offer decision]** da aggiungere al contenuto e fai clic su **[!UICONTROL Add]**.
+1. Selezionare **[!UICONTROL Placements]** dall&#39;elenco a discesa. Selezionare quindi **[!UICONTROL Offer decision]** da aggiungere al contenuto e fare clic su **[!UICONTROL Add]**.
 
    SCHERMATA
 

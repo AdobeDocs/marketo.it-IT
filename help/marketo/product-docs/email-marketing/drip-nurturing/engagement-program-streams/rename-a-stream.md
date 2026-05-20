@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 59
-ht-degree: 10%
+source-wordcount: 45
+ht-degree: 13%
 
 ---
 
 # Rinominare un flusso {#rename-a-stream}
 
-Se desideri rimanere organizzato, puoi rinominare i flussi. Ecco come farlo.
+Se desideri rimanere organizzato, puoi rinominare i flussi.
 
 1. Trovare e selezionare il programma di coinvolgimento, quindi fare clic su **[!UICONTROL Streams]**.
 
@@ -31,5 +31,3 @@ Se desideri rimanere organizzato, puoi rinominare i flussi. Ecco come farlo.
 1. Immettere il nuovo flusso **[!UICONTROL Name]** e fare clic su **[!UICONTROL Save]**.
 
    ![](assets/image2014-9-15-17-3a4-3a14.png)
-
-   E voilà! Ora sai rinominare i flussi.

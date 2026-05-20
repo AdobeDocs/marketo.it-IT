@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 96
-ht-degree: 16%
+source-wordcount: 93
+ht-degree: 15%
 
 ---
 
 # Disabilitare e abilitare notifiche di contenuto esaurite {#disable-and-enable-exhausted-content-notifications}
 
-Quando le persone esauriscono tutti i contenuti di un flusso, Marketo può inviarti una notifica. Puoi disabilitare/abilitare le notifiche in base alle tue esigenze. Ecco come.
+Quando le persone esauriscono tutti i contenuti di un flusso, Marketo può inviarti una notifica. Puoi disabilitare/abilitare le notifiche in base alle tue esigenze.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -36,4 +36,4 @@ Quando le persone esauriscono tutti i contenuti di un flusso, Marketo può invia
 
    ![](assets/image2014-9-15-17-3a28-3a15.png)
 
-   Super! Se abiliti le notifiche, visualizzerai un elemento nel flusso stesso e riceverai una notifica e-mail.
+   Se abiliti le notifiche, visualizzerai un elemento nel flusso stesso e riceverai una notifica e-mail.

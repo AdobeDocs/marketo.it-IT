@@ -7,9 +7,9 @@ feature: Deliverability
 TQID: https://experienceleague.adobe.com/VKfpLEXYck1SKLiwg-d8em3BpYmaxHIuiyZZYYRgZ-0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 328
+source-wordcount: 321
 ht-degree: 5%
 
 ---
@@ -50,7 +50,7 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
 
    >[!TIP]
    >
-   >Assicurati di denominare l’elenco in modo da facilitarne la ricerca.
+   >Assegna un nome all’elenco in modo da facilitarne la ricerca.
 
    >[!CAUTION]
    >
@@ -58,6 +58,6 @@ Un elenco seed è un elenco di account e-mail presso più provider di caselle po
 
 ## Acquisizione di nuovi elenchi di seed {#acquiring-new-seedlists}
 
-L’elenco dei seed può cambiare ogni mese. È importante accedere regolarmente al Power Pack di recapito messaggi e-mail e controllare lo stato dell’elenco di seed. Quando vengono aggiunti nuovi indirizzi o è necessario un aggiornamento, viene visualizzato un avviso tramite l’icona di notifica posta nella parte inferiore sinistra dell’applicazione.
+L’elenco dei seed può cambiare ogni mese. È importante accedere regolarmente a Email Deliverability Power Pack e controllare lo stato dell’elenco di seed. Quando vengono aggiunti nuovi indirizzi o è necessario un aggiornamento, viene visualizzato un avviso tramite l’icona di notifica nella parte inferiore sinistra dell’applicazione.
 
 Dopo aver creato l’elenco statico in Marketo, puoi iniziare a inviarlo per testare il posizionamento della casella in entrata della tua e-mail.

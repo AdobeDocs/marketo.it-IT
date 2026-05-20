@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 129
+source-wordcount: 115
 ht-degree: 10%
 
 ---
@@ -34,15 +34,13 @@ Il contenuto del flusso è disattivato per impostazione predefinita. Attiva i co
 
    >[!NOTE]
    >
-   >Le e-mail devono essere approvate per poterle attivare.
+   >Le e-mail devono essere approvate per attivarle.
 
    ![](assets/image2014-9-15-16-3a33-3a42.png)
 
    >[!TIP]
    >
    >È inoltre possibile attivare tutto il contenuto di un flusso facendo clic sull&#39;icona a forma di ingranaggio nel livello superiore e quindi su **[!UICONTROL Activate all content]**.
-
-   Ottimo lavoro. Ora sai come attivare il contenuto nei flussi.
 
 ## Disattiva contenuto flusso {#deactivate-stream-content}
 

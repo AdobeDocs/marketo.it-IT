@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: 228
 ht-degree: 5%
 
 ---
 
 # Transizione di Persone tra flussi di coinvolgimento {#transition-people-between-engagement-streams}
 
-I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), vuoi definire un modo in cui le persone possono spostarsi da un flusso all&#39;altro. Queste regole sono denominate **regole di transizione.**
+I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso](/help/marketo/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-a-stream.md), definisci un modo per le persone di spostarsi da un flusso all&#39;altro. Queste regole sono denominate **regole di transizione.**
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 
@@ -36,7 +36,7 @@ I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso]
    >
    >Le regole di transizione si estraggono in un flusso; definiscono sempre le regole del flusso in cui desideri essere estratti.
 
-   Una volta aperta la finestra della regola di transizione, individua e trascina il trigger desiderato. In questo caso, si desidera spostare le persone in [!UICONTROL Mid Stage] quando viene aggiunto a un&#39;opportunità.
+   Una volta aperta la finestra della regola di transizione, individua e trascina il trigger desiderato. In questo esempio, le persone verranno spostate in [!UICONTROL Mid Stage] quando aggiunte a un&#39;opportunità.
 
    ![](assets/image2014-9-15-18-3a10-3a46.png)
 
@@ -46,13 +46,13 @@ I programmi di coinvolgimento possono avere più flussi. Se [aggiungi un flusso]
 
    >[!TIP]
    >
-   >È possibile aggiungere più trigger e filtri a una regola di transizione, ma la regola di transizione utilizza tutti i filtri (l’utilizzo di TUTTI i filtri è l’unica opzione). Se devi utilizzare l’operatore OR in una regola di transizione, ti consigliamo invece di impostare una campagna avanzata esterna.
+   >È possibile aggiungere più trigger e filtri a una regola di transizione, ma la regola di transizione utilizza tutti i filtri (l’utilizzo di TUTTI i filtri è l’unica opzione). Se devi utilizzare OR in una regola di transizione, ti consigliamo invece di impostare una campagna intelligente esterna.
 
 1. Fai clic su **[!UICONTROL Close]**.
 
    ![](assets/image2014-9-15-18-3a11-3a23.png)
 
-   Fantastico! Ora qualsiasi persona nel programma di coinvolgimento aggiunta a un&#39;opportunità verrà spostata nel flusso [!UICONTROL Mid Stage].
+   Ora qualsiasi persona nel programma di coinvolgimento aggiunta a un&#39;opportunità verrà spostata nel flusso [!UICONTROL Mid Stage].
 
    ![](assets/image2014-9-15-18-3a11-3a29.png)
 

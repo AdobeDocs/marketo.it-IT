@@ -9,16 +9,16 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 8%
+source-wordcount: 200
+ht-degree: 9%
 
 ---
 
 # Pianificare programmi di coinvolgimento con fuso orario del destinatario {#schedule-engagement-programs-with-recipient-time-zone}
 
-Quando pianifichi un flusso di programma di coinvolgimento e il fuso orario del destinatario è attivo, il cast del programma inizierà a essere eseguito a mezzanotte nel primo fuso orario (UTC +14:00). Ti chiediamo di pianificare il primo cast **almeno 25 ore** in futuro, perché ci potrebbero essere persone che si qualificano per il cast in ogni fuso orario del mondo. L’avvio dell’elaborazione in questo momento in base al primo fuso orario garantisce la consegna dell’e-mail alla data e all’ora pianificate per ogni destinatario.
+Quando pianifichi un flusso di programma di coinvolgimento e il fuso orario del destinatario è attivo, il cast del programma inizierà a essere eseguito a mezzanotte nel primo fuso orario (UTC +14:00). Il primo cast deve essere pianificato **per almeno 25 ore** in futuro, perché potrebbero esserci persone idonee per il cast in ogni fuso orario in tutto il mondo. L’avvio dell’elaborazione ora nel primo fuso orario garantisce che l’e-mail venga consegnata alla data e all’ora pianificate per ogni destinatario.
 
 1. Nel programma di coinvolgimento, passare alla scheda **[!UICONTROL Streams]** e fare clic sulla pianificazione di cadenza di un flusso per modificarla.
 

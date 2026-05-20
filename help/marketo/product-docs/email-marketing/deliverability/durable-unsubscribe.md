@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 304
+source-wordcount: 301
 ht-degree: 1%
 
 ---
@@ -38,13 +38,13 @@ In Marketo, deseleziona la casella di annullamento dell’abbonamento nella sche
 
 ![Cancellazione della casella di annullamento dell&#39;iscrizione in un record persona](assets/durable-unsubscribe-2.png)
 
-Esegui un passaggio del flusso _Modifica valore dati_ come mostrato di seguito per una o più persone.
+Esegui un passaggio di flusso **[!UICONTROL Change Data Value]** come mostrato di seguito su una o più persone.
 
 ![Passaggio del flusso del valore dei dati di modifica](assets/durable-unsubscribe-3.png)
 
 ## Creazione di una nuova persona {#creating-a-new-person}
 
-Quando viene creata una nuova persona, Marketo la confronta con la tabella dello stato dell’e-mail principale. Se la persona ha annullato l’abbonamento in precedenza, il record verrà aggiornato in modo da annullare l’abbonamento.
+Quando viene creata una nuova persona, Marketo la confronta con la tabella dello stato dell’e-mail principale. Se la persona ha annullato l’abbonamento in precedenza, il record verrà aggiornato per annullare l’abbonamento.
 
 ## Modifica di un indirizzo e-mail {#changing-an-email-address}
 
@@ -52,7 +52,7 @@ Se modifichi l’indirizzo e-mail di una persona impostandolo su un indirizzo e-
 
 ## Ri-iscrizione {#re-subscribing}
 
-Proprio come un annullamento dell’iscrizione causerebbe la cancellazione di tutte le persone con lo stesso indirizzo e-mail, un nuovo abbonamento comporterebbe in realtà la reiscrizione di ogni persona con lo stesso indirizzo e-mail.
+Così come l’annullamento dell’iscrizione causerebbe l’annullamento dell’iscrizione di tutte le persone con lo stesso indirizzo e-mail, anche l’annullamento dell’iscrizione comporterebbe il rinnovo dell’iscrizione per ogni persona con lo stesso indirizzo e-mail.
 
 >[!MORELIKETHIS]
 >

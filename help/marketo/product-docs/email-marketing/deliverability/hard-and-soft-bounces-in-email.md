@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 312
+source-wordcount: 310
 ht-degree: 14%
 
 ---
@@ -22,7 +22,7 @@ Un mancato recapito permanente può rendere non valido l’indirizzo e-mail di u
 
 ## Classificazione per mancato recapito {#bounce-classification}
 
-In Marketo sono presenti 5 stringhe di persone correlate alla consegna di e-mail con problemi.
+In Marketo sono disponibili 5 campi per persona relativi alla consegna di e-mail con problemi.
 
 1. **E-mail sospesa** - Impostato su True quando si verifica un determinato tipo di mancato recapito.
 1. **Causa di sospensione dell&#39;e-mail** - I motivi possono essere molteplici. Questo campo cerca di spiegare la causa.
@@ -34,7 +34,7 @@ In Marketo sono presenti 5 stringhe di persone correlate alla consegna di e-mail
 >
 >Quando una persona raggiunge lo stato **e-mail sospesa**, non è possibile deselezionare la casella di controllo e-mail sospesa. Tuttavia, la persona sarà ancora disponibile per la posta 24 ore dopo la sospensione iniziale.
 >
->Quando una persona è contrassegnata come **e-mail non valida**, può essere reimpostata solo manualmente (cosa che ti consigliamo di fare solo se sai per certo che la sua e-mail è valida) deselezionando la casella &quot;E-mail non valida&quot; nella scheda Informazioni persona del suo record.
+>Quando una persona è contrassegnata come **e-mail non valida**, può essere reimpostata solo manualmente (opzione consigliata solo se l&#39;indirizzo e-mail è stato confermato come valido) deselezionando la casella &quot;E-mail non valida&quot; nella scheda Informazioni persona del record.
 
 >[!PREREQUISITES]
 >

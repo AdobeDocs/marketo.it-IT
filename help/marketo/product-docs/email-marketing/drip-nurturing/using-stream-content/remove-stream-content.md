@@ -9,7 +9,7 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 121
 ht-degree: 6%
@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Rimuovere il contenuto flusso {#remove-stream-content}
 
-Puoi rimuovere o archiviare una parte di contenuto. A differenza della rimozione del contenuto di flusso, l&#39;archiviazione [archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) mantiene tutta la cronologia associata al contenuto. Se non ti dispiace perdere le statistiche storiche di alcuni contenuti e vuoi rimuoverli, ecco come farlo.
+Puoi rimuovere o archiviare una parte di contenuto. A differenza della rimozione del contenuto di flusso, l&#39;archiviazione [archiving](/help/marketo/product-docs/email-marketing/drip-nurturing/using-stream-content/archive-and-unarchive-stream-content.md) mantiene tutta la cronologia associata al contenuto. Se non ti dispiace perdere le statistiche storiche di alcuni contenuti e desideri rimuoverli, ecco come.
 
 1. Passa a **[!UICONTROL Marketing Activities]**.
 

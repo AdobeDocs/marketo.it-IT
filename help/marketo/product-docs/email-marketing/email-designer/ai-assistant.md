@@ -14,7 +14,7 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
 source-wordcount: 936
 ht-degree: 1%
@@ -123,7 +123,7 @@ Puoi anche caricare una risorsa del marchio per utilizzare il contenuto all’in
 
 ![](assets/use-the-ai-assistant-5.png)
 
-Per scegliere una variante, selezionarne la casella di controllo e fare clic su **Seleziona**. È inoltre possibile modificarlo facendo clic su **Perfeziona**. Inoltre, puoi fornire un feedback facendo clic sull&#39;icona miniature in alto o miniature in basso in modo che la tecnologia Gen-AI apprenda le tue preferenze.
+Per scegliere una variante, selezionarne la casella di controllo e fare clic su **Seleziona**. È inoltre possibile modificarlo facendo clic su **Perfeziona**. Inoltre, puoi fornire un feedback facendo clic sull&#39;icona delle miniature in alto o in basso in modo che la tecnologia Gen-AI possa apprendere le tue preferenze.
 
 Dopo aver effettuato la selezione, la riga dell’oggetto viene inserita nei Dettagli e-mail.
 

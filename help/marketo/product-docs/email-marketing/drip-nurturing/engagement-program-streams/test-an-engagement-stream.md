@@ -10,10 +10,10 @@ product_v2:
 feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 0%
+source-wordcount: 158
+ht-degree: 6%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla volta.
 
-1. Vai a **[!UICONTROL Marketing Activities]**.
+1. Passa a **[!UICONTROL Marketing Activities]**.
 
    ![](assets/one.png)
 
@@ -39,7 +39,7 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 
    >[!CAUTION]
    >
-   >Assicurati che la persona di prova sia univoca e non contenga duplicati nel database.
+   >Assicurati che la persona di prova sia univoca e che non contenga duplicati nel database.
 
    >[!TIP]
    >
@@ -55,8 +55,6 @@ Dopo aver aggiunto tutti i contenuti a un flusso, puoi testarli un pezzo alla vo
 1. Verrà visualizzato il nuovo flusso, a indicare che il test è riuscito.
 
    ![](assets/seven-rubiks.png)
-
-   Ottimo lavoro!
 
    >[!NOTE]
    >

@@ -24,20 +24,16 @@ level_v2:
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 1800
-ht-degree: 4%
+source-wordcount: 1727
+ht-degree: 2%
 
 ---
 
 # Authoring di e-mail {#email-authoring}
 
-Scopri come creare, personalizzare e visualizzare in anteprima le e-mail nel nuovo Marketo Engage Email Designer.
-
->[!PREREQUISITES]
->
->Per accedere al nuovo e-mail designer, la sottoscrizione a Marketo Engage deve essere migrata a [Adobe Identity Management System (IMS)](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}. Se il tuo abbonamento non è ancora stato migrato e desideri velocizzarne il processo, contatta il team di Adobe Account (il tuo account manager) o l’[assistenza Marketo](https://nation.marketo.com/t5/support/ct-p/Support){target="_blank"}.
+Scopri come creare, personalizzare e visualizzare in anteprima le e-mail in E-mail Designer.
 
 ## Creare un’e-mail {#create-an-email}
 
@@ -73,7 +69,7 @@ Le e-mail inviate da e-mail designer possono essere create solo in Design Studio
 
    ![](assets/create-an-email-5.png)
 
-1. Sono disponibili due opzioni per creare una nuova e-mail. Fai clic con il pulsante destro del mouse sul nome del programma e-mail e seleziona **Nuova risorsa locale** oppure fai clic sul pulsante **+Nuova e-mail** nella casella E-mail nel dashboard. In questo esempio, eseguiremo la prima.
+1. Sono disponibili due opzioni per creare una nuova e-mail. Fai clic con il pulsante destro del mouse sul nome del programma e-mail e seleziona **Nuova risorsa locale** oppure fai clic sul pulsante **+Nuova e-mail** nella casella E-mail nel dashboard. In questo esempio viene utilizzata la prima opzione.
 
    ![](assets/create-an-email-6.png)
 

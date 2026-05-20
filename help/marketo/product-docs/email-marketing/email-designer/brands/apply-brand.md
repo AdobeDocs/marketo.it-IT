@@ -1,17 +1,17 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: TITOLO
+title: Applicare temi al contenuto dell’e-mail
 description: Scopri come applicare i temi del brand alle e-mail per una progettazione coerente. Utilizza temi e moduli riutilizzabili nel Designer e-mail.
 feature: Email Designer
 role: User
 level: Beginner, Intermediate
 hide: true
 exl-id: 349ee021-7341-40e0-8d8c-d041f1a8f343
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: '718'
-ht-degree: 4%
+source-wordcount: '725'
+ht-degree: 5%
 
 ---
 
@@ -62,7 +62,7 @@ If using a content created in Manual Styling mode or HTML, you cannot apply them
 If you apply a theme to a content using a [fragment](../content-management/fragments.md) created in Manual Styling mode, the rendering may not be optimal.
 -->
 
-## Creare un tema {#create-and-edit-themes}
+## Crea un tema {#create-and-edit-themes}
 
 Per definire un tema che puoi sfruttare nei contenuti delle e-mail future, segui i passaggi indicati di seguito.
 
@@ -128,9 +128,9 @@ Per applicare temi di stile predefiniti o personalizzati a un’e-mail, segui la
 
      >[!CAUTION]
      >
-     >Se scegli la modalità _Stile manuale_, non potrai applicare alcun tema a meno che non reimposti l&#39;e-mail.
+     >* Se scegli la modalità _Stile manuale_, non potrai applicare alcun tema a meno che non reimposti l&#39;e-mail.
      >
-     >Per utilizzare un [frammento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) in modalità _Usa temi_, è necessario che il frammento sia stato creato utilizzando la modalità _Usa temi_.
+     >* Per utilizzare un [frammento](/help/marketo/product-docs/email-marketing/email-designer/fragments.md) in modalità _Usa temi_, è necessario che il frammento sia stato creato utilizzando la modalità _Usa temi_.
 
 1. Una volta nel Designer di posta elettronica, fare clic sul pulsante **[!UICONTROL Themes]** nella barra a destra. Viene visualizzato il tema predefinito o il tema del modello. Per questo tema è possibile alternare tra le due varianti di colore.
 

@@ -11,9 +11,9 @@ feature_v2:
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 450
+source-wordcount: 445
 ht-degree: 2%
 
 ---
@@ -54,18 +54,18 @@ _Contro_
 
 _Pro_
 
-**Buoni coinquilini** - Se gli utenti che condividi il tuo IP seguono le best practice di invio, ne trarrai vantaggio.
+**Buoni coinquilini** - Se i mittenti che condividono l&#39;IP seguono le best practice di invio, ne trarrai vantaggio.
 **Frequenza di invio** - Non è necessaria alcuna frequenza di invio minima per qualificarsi per un IP condiviso, a differenza di quanto avviene con gli IP dedicati.
 **Costo** - Non esiste mai un costo aggiuntivo da inviare da un IP condiviso.
 
 _Contro_
 
-**Compagni di stanza non validi** - Se gli utenti che condividi il tuo IP sono coinvolti in pratiche di invio scadenti, le tue campagne e-mail potrebbero essere influenzate negativamente.
+**Compagni di stanza non validi** - Se i mittenti che condividono il tuo IP si impegnano in pratiche di invio inadeguate, le tue campagne e-mail potrebbero essere influenzate negativamente.
 **Controllo** - Hai un controllo molto minore sulla reputazione del mittente.
 **Risoluzione del problema** - Spesso può essere più difficile risolvere un problema durante l&#39;invio da IP condivisi.
 
 >[!NOTE]
 >
->Quando prendi una decisione, prendi in considerazione anche un altro fattore importante: il volume di invio. Se prevedi di inviare meno di 100.000 e-mail al mese, o meno di due e-mail in un mese, probabilmente non trarrai vantaggio da un IP dedicato. Inviare numeri come questo sono considerati bassi, e sarebbe difficile mantenere il tuo IP dedicato &quot;caldo&quot; abbastanza per essere considerato sicuro dai principali ISP. Fondamentalmente, se non invii abbastanza spesso, gli ISP vedranno un messaggio come un improvviso &quot;aumento&quot; di attività e potrebbero finire per bloccarlo come spam sospetto.
+>Quando prendi una decisione, c&#39;è un altro fattore importante da considerare: il volume di invio. Se prevedi di inviare meno di 100.000 e-mail al mese, o meno di due e-mail in un mese, probabilmente non trarrai vantaggio da un IP dedicato. Inviare numeri come questo sono considerati bassi, e sarebbe difficile mantenere il tuo IP dedicato &quot;caldo&quot; abbastanza per essere considerato sicuro dai principali ISP. Se non invii messaggi abbastanza frequentemente, gli ISP vedranno un messaggio come un improvviso &quot;aumento&quot; di attività e potrebbero finire per bloccarlo come spam sospetto.
 
-Per maggiori informazioni o se sei interessato alla configurazione di un IP dedicato, contatta il tuo rappresentante commerciale Marketo.
+Per maggiori informazioni o se sei interessato a configurare un IP dedicato, contatta il rappresentante commerciale Marketo di zona.

@@ -16,9 +16,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
 workflow-type: tm+mt
-source-wordcount: 395
+source-wordcount: 394
 ht-degree: 5%
 
 ---
@@ -71,7 +71,7 @@ I seguenti passaggi sono per gli utenti del [Piano aziendale Litmus](https://www
 
    ![](assets/test-email-rendering-with-litmus-6.png)
 
-**PASSAGGIO FACOLTATIVO**: se decidi di apportare modifiche all&#39;e-mail, dopo aver fatto clic su **Esegui rendering e-mail** per visualizzarle, assicurati di fare clic anche sul pulsante **Ripeti** in alto a destra della schermata _Anteprime e-mail_ di Litmus.
+**PASSAGGIO FACOLTATIVO**: se decidi di apportare modifiche all&#39;e-mail, dopo aver fatto clic su **Esegui rendering e-mail** per visualizzarle, ricorda di fare clic anche sul pulsante **Ripeti** in alto a destra nella schermata _Anteprime e-mail_ di Litmus.
 
 ![](assets/test-email-rendering-with-litmus-7.png)
 
