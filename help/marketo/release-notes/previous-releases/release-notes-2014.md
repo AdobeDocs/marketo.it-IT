@@ -325,7 +325,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Elencare le operazioni nell’API REST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -356,7 +356,7 @@ La pagina Imposta campagna RTP ora [include modelli già pronti](/help/marketo/p
 
 ## RTP: miglioramenti API di JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -469,7 +469,7 @@ Utilizza l’API per richiamare nuove attività o modifiche ai lead:
 * Ottieni tipi di attività
 * Ottieni token di paging
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Invia e-mail Marketo per [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -509,7 +509,7 @@ Utilizza una nuova chiamata che tiene traccia della cronologia delle visite prec
 * Prodotti interessati a
 * Quali campagne RTP hanno visto
 
-Visita [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.
+Visita [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.
 
 ## Dicembre 2014 {#december}
 
@@ -565,7 +565,7 @@ Tre nuove chiamate per l’API REST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] miglioramenti alla compatibilità {#munchkin-javascript-compatibility-enhancements}
 
