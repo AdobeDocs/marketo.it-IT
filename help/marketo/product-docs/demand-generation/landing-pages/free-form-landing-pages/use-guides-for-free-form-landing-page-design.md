@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/Bw7pYxsFnhj5vhHyJpVN1aKPAAqPz2d-wap8uaSkQV8
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 115
+source-wordcount: 118
 ht-degree: 13%
 
 ---
 
 # Utilizzare le guide per la progettazione di pagine di destinazione in formato libero {#use-guides-for-free-form-landing-page-design}
 
-Durante la progettazione di una pagina di destinazione in formato libero, è possibile utilizzare le guide per facilitare l’allineamento dei componenti.
+Durante la progettazione di una pagina di destinazione in formato libero, puoi utilizzare le guide per allineare gli elementi sulla pagina.
 
 >[!NOTE]
 >
@@ -38,4 +38,4 @@ Durante la progettazione di una pagina di destinazione in formato libero, è pos
 
    ![](assets/image2015-5-20-14-3a17-3a24.png)
 
-   Gli oggetti allineati sono facili da vedere!
+   Gli elementi correttamente allineati creano un layout più pulito e professionale.

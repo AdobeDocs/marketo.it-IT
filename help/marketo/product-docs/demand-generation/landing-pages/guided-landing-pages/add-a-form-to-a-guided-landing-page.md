@@ -7,16 +7,14 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/rWlijjPdA6LW-7FBx-wSwolGY0thdJQGn6xg6mYkukk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 174
-ht-degree: 12%
+source-wordcount: 161
+ht-degree: 13%
 
 ---
 
 # Aggiungere un modulo a una pagina di destinazione in formato guidato {#add-a-form-to-a-guided-landing-page}
-
-Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di incontro.
 
 >[!PREREQUISITES]
 >
@@ -52,12 +50,10 @@ Modulo, incontra la pagina di destinazione. Pagina di destinazione, modulo di in
    >
    >La pagina di follow-up è la pagina che le persone vedranno dopo aver inviato il modulo.
 
-1. In questo esempio utilizzeremo [!UICONTROL Form Defined]. Fai clic su **[!UICONTROL Insert]**.
+1. In questo esempio, selezionare [!UICONTROL Form Defined]. Fai clic su **[!UICONTROL Insert]**.
 
    ![](assets/image2015-5-20-15-3a46-3a55.png)
 
-   Ben fatto!
-
    ![](assets/image2015-5-20-15-3a45-3a45.png)
 
-Ora chiudi l&#39;editor della pagina di destinazione e [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).
+Chiudi l&#39;editor pagina di destinazione e [approva la bozza della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/approve-unapprove-or-delete-a-landing-page.md).

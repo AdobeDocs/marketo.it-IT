@@ -9,9 +9,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 127
+source-wordcount: 125
 ht-degree: 6%
 
 ---
@@ -36,4 +36,4 @@ Il Generatore di URL consente di creare URL che possono popolare i campi dei mod
    >
    >Se nel generatore non sono presenti campi disponibili, verificare che il modulo contenga campi nascosti e che tali campi siano impostati per accettare i parametri URL[&#128279;](/help/marketo/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.md#url-parameter).
 
-Ottimo lavoro! Ora puoi copiare e incollare l’URL e utilizzarlo sul web.
+Ora puoi copiare e incollare l’URL e utilizzarlo sul web.

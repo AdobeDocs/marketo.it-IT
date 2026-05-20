@@ -7,9 +7,9 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/IhpbLwq0syIQpnKsRApy6YtEKhe56dbDciW8lSYJ9tI
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 222
+source-wordcount: 219
 ht-degree: 7%
 
 ---
@@ -64,7 +64,7 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 
    ![](assets/add-additional-landing-page-cnames-6.png)
 
-1. Immetti **[!UICONTROL Domain Alias].** **[!UICONTROL Default Page]** viene visualizzato se il visitatore non inserisce un URL. In tal caso, specifica il percorso da seguire.
+1. Immetti **[!UICONTROL Domain Alias]**. **[!UICONTROL Default Page]** viene visualizzato se il visitatore non inserisce un URL. In tal caso, specifica il percorso da seguire.
 
    >[!NOTE]
    >
@@ -76,4 +76,4 @@ Puoi aggiungere i CNAME della pagina di destinazione per consentire a URL divers
 
    ![](assets/add-additional-landing-page-cnames-8.png)
 
-Bello! Ora sai cosa fare se mai vorrai aggiungere un CNAME.
+Ora sai come aggiungere un CNAME alle pagine di destinazione.

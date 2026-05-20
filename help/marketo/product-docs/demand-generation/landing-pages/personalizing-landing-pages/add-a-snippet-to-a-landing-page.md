@@ -15,16 +15,16 @@ subfeature_v2:
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 112
+source-wordcount: 110
 ht-degree: 12%
 
 ---
 
 # Aggiungere uno snippet a una pagina di destinazione {#add-a-snippet-to-a-landing-page}
 
-I frammenti sono piccoli frammenti di HTML che possono seguire le regole e contenere contenuti personalizzati.
+I snippet sono blocchi riutilizzabili di HTML che possono seguire le regole e contenere contenuti personalizzati.
 
 >[!PREREQUISITES]
 >
@@ -50,4 +50,4 @@ I frammenti sono piccoli frammenti di HTML che possono seguire le regole e conte
    >
    >Se desideri aggiungere uno snippet a una pagina di destinazione guidata, consulta [questo articolo](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/create-a-guided-landing-page-template.md).
 
-Ottimo lavoro! Ora sai come aggiungere snippet alle pagine di destinazione.
+Ora sai come aggiungere snippet alle pagine di destinazione.

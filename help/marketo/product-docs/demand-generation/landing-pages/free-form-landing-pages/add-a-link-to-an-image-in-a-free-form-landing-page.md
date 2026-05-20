@@ -7,16 +7,16 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/affRhH-IV8B1M-BYs0vBk-8E3gteSLOudgQI3iWqnTc
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 124
-ht-degree: 21%
+source-wordcount: 122
+ht-degree: 19%
 
 ---
 
 # Aggiungere un collegamento a un’immagine in una pagina di destinazione in formato libero {#add-a-link-to-an-image-in-a-free-form-landing-page}
 
-Desideri creare un’immagine nella pagina di destinazione come collegamento a un’altra pagina/sito? Ecco come.
+Per fare in modo che un’immagine sulla pagina di destinazione diventi un collegamento cliccabile, segui i passaggi indicati di seguito.
 
 >[!PREREQUISITES]
 >
@@ -34,7 +34,7 @@ Desideri creare un’immagine nella pagina di destinazione come collegamento a u
 
    ![](assets/add-link.png)
 
-   Congratulazioni! Ora hai aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora puoi [visualizzare l&#39;anteprima della pagina](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) per vederla in azione.
+   Hai aggiunto correttamente un collegamento a un’immagine nella pagina di destinazione. Ora puoi [visualizzare l&#39;anteprima della pagina](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.md) per vederla in azione.
 
 >[!TIP]
 >

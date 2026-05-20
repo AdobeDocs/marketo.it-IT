@@ -11,10 +11,10 @@ feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 202
-ht-degree: 15%
+source-wordcount: 192
+ht-degree: 16%
 
 ---
 
@@ -38,7 +38,7 @@ Integra le persone di Marketo Engage con il pubblico di LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-3.png)
 
-1. Fai clic sull&#39;icona _Invia tramite Ad Bridge_ ![—](assets/icon-ad-bridge.png) nella parte inferiore dell&#39;elenco.
+1. Fare clic sull&#39;icona **[!UICONTROL Send Via Ad Bridge]** ![—](assets/icon-ad-bridge.png) nella parte inferiore dell&#39;elenco.
 
    ![](assets/list-as-a-linkedin-audience-segment-4.png)
 
@@ -50,7 +50,7 @@ Integra le persone di Marketo Engage con il pubblico di LinkedIn.
 
    ![](assets/list-as-a-linkedin-audience-segment-5.png)
 
-1. Seleziona un pubblico _LinkedIn_.
+1. Seleziona **[!UICONTROL LinkedIn Audience]**.
 
    >[!NOTE]
    >
@@ -62,12 +62,12 @@ Integra le persone di Marketo Engage con il pubblico di LinkedIn.
    >
    >LinkedIn ha dichiarato obsolete le API utilizzate per il tipo push &quot;Clear audience and add lead&quot; (Cancella pubblico e aggiungi lead) a marzo 2018. Questa opzione non è più disponibile dalla versione di Marketo del primo trimestre 2018.
 
-1. Seleziona _[!UICONTROL Push Type]_. Fai clic su **[!UICONTROL Update]**.
+1. Seleziona **[!UICONTROL Push Type]**. Fai clic su **[!UICONTROL Update]**.
 
    ![](assets/list-as-a-linkedin-audience-segment-7.png)
 
    >[!NOTE]
    >
-   >Attendere 15 minuti per eseguire la sincronizzazione.
+   >Attendere 15 minuti per il completamento della sincronizzazione.
 
-Cinque in alto! Adesso i tuoi dati saranno disturbati dai tipi di pubblico di LinkedIn. Per informazioni sul caricamento di elenchi su LinkedIn per il targeting di account e contatti, visita il [Centro assistenza per le soluzioni di marketing di LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.
+I dati verranno ora sincronizzati con i tipi di pubblico di LinkedIn. Per informazioni sul caricamento di elenchi su LinkedIn per il targeting di account e contatti, visita il [Centro assistenza per le soluzioni di marketing di LinkedIn](https://www.linkedin.com/help/lms/answer/73938?query=ad%20segment){target="_blank"}.

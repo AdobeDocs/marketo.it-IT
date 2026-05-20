@@ -10,14 +10,14 @@ product_v2:
 feature_v2:
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 7%
+source-wordcount: 238
+ht-degree: 11%
 
 ---
 
-# Crea un modello di pagina di destinazione in formato libero esistente [!UICONTROL Mobile Compatible] {#make-an-existing-free-form-landing-page-template-mobile-compatible}
+# Rendere compatibile con dispositivi mobili un modello esistente di pagina di destinazione in formato libero {#make-an-existing-free-form-landing-page-template-mobile-compatible}
 
 Questa operazione può essere eseguita in due posizioni, Editor modelli e Editor pagina di destinazione.
 
@@ -57,9 +57,15 @@ Questa operazione può essere eseguita in due posizioni, Editor modelli e Editor
 
 ## Cosa crea un modello [!UICONTROL Mobile Compatible]? {#what-makes-a-template-mobile-compatible}
 
-Grandi domande! Il modello deve avere i seguenti tag:
+Il modello deve avere i seguenti tag:
 
-`Must have <!DOCTYPE HTML> Must have a <HEAD> element Must have a <TITLE> in the <HEAD> element Must have <META CHARSET="UTF-8"> within the <HEAD> element Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>`
+```
+Must have <!DOCTYPE HTML> 
+Must have a <HEAD> element 
+Must have a <TITLE> in the <HEAD> element 
+Must have <META CHARSET="UTF-8"> within the <HEAD> element 
+Must have a <BODY> element that contains one (and only one) <DIV class="mktoContent"></DIV>
+```
 
 Se tutto sembra a posto, vedrai questo messaggio.
 
@@ -69,7 +75,7 @@ Se si verifica un errore, viene visualizzato un messaggio di errore, fare clic s
 
 ![](assets/image2015-1-22-20-3a43-3a20.png)
 
-Se si apportano modifiche al modello, fare clic su [!UICONTROL Template Actions] e selezionare [!UICONTROL Validate Mobile Compatibility].
+Se si apportano modifiche al modello, fare clic su **[!UICONTROL Template Actions]** e selezionare **[!UICONTROL Validate Mobile Compatibility]**.
 
 ## Aggiornamento di un modello dall’Editor pagina di destinazione in formato libero {#upgrading-a-template-from-the-free-form-landing-page-editor}
 
@@ -87,4 +93,4 @@ Quando modifichi una pagina di destinazione e fai clic sulla scheda mobile, a vo
    >
    >L’attivazione della versione mobile di un modello creerà le bozze di tutte le pagine di destinazione che lo utilizzano.
 
-Fantastico! Ora puoi [personalizzare la visualizzazione per dispositivi mobili](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) di tutte le pagine di destinazione che utilizzano questo modello.
+Ora puoi [personalizzare la visualizzazione per dispositivi mobili](/help/marketo/product-docs/demand-generation/landing-pages/free-form-landing-pages/customize-mobile-view-for-your-free-form-landing-page.md) di tutte le pagine di destinazione che utilizzano questo modello.

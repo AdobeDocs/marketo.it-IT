@@ -12,7 +12,7 @@ feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
 source-wordcount: 348
 ht-degree: 62%
@@ -21,7 +21,7 @@ ht-degree: 62%
 
 # Elenco dei modelli di pagina di destinazione in formato guidato {#guided-landing-page-template-list}
 
-Sfoglia la nostra raccolta di modelli di esempio, da utilizzare con [Editor pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework Bootstrap.
+Sfoglia la nostra raccolta di modelli di esempio da utilizzare con [Editor pagina di destinazione guidata](/help/marketo/product-docs/demand-generation/landing-pages/guided-landing-pages/create-a-guided-landing-page.md). Ogni modello è completamente reattivo e basato sul framework Bootstrap.
 
 >[!NOTE]
 >
@@ -31,10 +31,10 @@ Per importare un modello in Marketo:
 
 1. Fare clic sul nome del modello per ingrandire la visualizzazione.
 1. Scarica il modello scelto.
-1. In Marketo, passare a **[!UICONTROL Design Studio].**
-1. Fare clic su **[!UICONTROL Landing Pages]** nell&#39;albero a sinistra, quindi selezionare **[!UICONTROL Templates].**
+1. In Marketo, passare a **[!UICONTROL Design Studio]**.
+1. Fare clic su **[!UICONTROL Landing Pages]** nell&#39;albero a sinistra, quindi selezionare **[!UICONTROL Templates]**.
 
-1. Nella barra dei menu fare clic su **[!UICONTROL Import Template].**
+1. Nella barra dei menu fare clic su **[!UICONTROL Import Template]**.
 1. Scegliere il file scaricato, immettere un nome di modello, quindi fare clic su **[!UICONTROL Import]** (assicurarsi di scegliere un nome descrittivo e indicare che la modalità di modifica è **[!UICONTROL Guided]**).
 
 <table>

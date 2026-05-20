@@ -8,9 +8,9 @@ feature: Landing Pages
 TQID: https://experienceleague.adobe.com/siTy0QNBBmitEfs7pg8xxW5Kdul2GF2NYRVTzTzQZPU
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b2861922f7d2732a3286bab93243bdc0515a5995
 workflow-type: tm+mt
-source-wordcount: 241
+source-wordcount: 216
 ht-degree: 9%
 
 ---
@@ -35,7 +35,7 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
 
    ![](assets/image2014-9-17-10-3a35-3a13.png)
 
-   Quando la pagina di destinazione è attiva, visualizza l&#39;attività generata dal _pulsante social (con Analytics) nel dashboard social_.
+   Una volta che la pagina di destinazione è attiva, puoi visualizzare l’attività generata dal pulsante per social network (con Analytics) sulla dashboard di social network.
 
    Se invece aggiungi [!UICONTROL Like/Recommend Button (Lite)], vedi il numero di condivisioni nel [rapporto sulle prestazioni della pagina di destinazione](/help/marketo/product-docs/demand-generation/landing-pages/understanding-landing-pages/landing-page-performance-report.md).
 
@@ -53,10 +53,6 @@ Un pulsante social incoraggia le persone a condividere i tuoi contenuti con i lo
    >
    >Per risparmiare tempo, puoi utilizzare l&#39;opzione **[!UICONTROL Clone From]** per copiare tutte le impostazioni da un pulsante social esistente.
 
-   [pubblica la pagina di destinazione su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) _inserisci il pulsante social nel tuo sito Web_
+1. Pubblica la pagina di destinazione [su Facebook](/help/marketo/product-docs/demand-generation/facebook/publish-landing-pages-to-facebook.md) e inserisci il pulsante per social network nel tuo sito Web.
 
-Congratulazioni! Hai aggiunto un pulsante Social alla pagina di destinazione. Assicurati di approvare la pagina di destinazione.
-
->[!MORELIKETHIS]
->
->hai finito, ma puoi modificare le impostazioni del pulsante social se necessario. Inizia con _personalizzare lo stile del pulsante_ o _modificare i messaggi di condivisione_ che presenta.
+Hai aggiunto un pulsante Social alla pagina di destinazione. Approva la pagina di destinazione quando sei pronto.
