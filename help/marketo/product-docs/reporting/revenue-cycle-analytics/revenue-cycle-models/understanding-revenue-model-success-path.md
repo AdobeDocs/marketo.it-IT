@@ -4,9 +4,9 @@ description: Scopri come comprendere il percorso di successo del modello di rica
 title: Informazioni sul percorso di successo del modello di ricavi
 exl-id: aeb85e5e-0377-40b5-a7c9-ee9c1322ee66
 feature: Reporting, Revenue Cycle Analytics
-source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
+source-git-commit: d2f1f0d664576a1ac8f5640dc20ebf50bec58501
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 5%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 5%
 
 Nel modello, il percorso verde denominato **Percorso di successo** rappresenta il percorso ottimale per la transizione lineare di un lead a un&#39;azienda chiusa/acquisita.
 
-![--](assets/image2015-6-12-17-3a12-3a18.png)
+![diagramma di flusso](assets/image2015-6-12-17-3a12-3a18.png)
 
 Esempio di fasi in un percorso di successo:
 
