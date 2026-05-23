@@ -59,9 +59,9 @@ Le nuove sottoscrizioni di Marketo Engage sono state acquisite in [Adobe Identit
   </tr>
   <tr>
     <td>Utenti</td>
-    <td><li>Crea un criterio su quando <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html">creare un utente</a>.</li> <li>Crea un criterio per determinare quando rimuovere gli utenti.</li>
+    <td><li>Crea un criterio su quando <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user.html?lang=it">creare un utente</a>.</li> <li>Crea un criterio per determinare quando rimuovere gli utenti.</li>
     <p><img src="assets/note-icon.png" alt="icona nota"> NOTA: per rimuovere gli utenti è necessario essere amministratore di sistema.
-    <li>Determina chi deve disporre delle <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=it">autorizzazioni di amministratore di sistema Adobe e amministratore di prodotto Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Aggiungi utenti</a> al profilo di prodotto desiderato.</li>
+    <li>Determina chi deve disporre delle <a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview.html?lang=it">autorizzazioni di amministratore di sistema Adobe e amministratore di prodotto Marketo Engage.</a> <li><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user">Aggiungi utenti</a> al profilo di prodotto desiderato.</li>
     <li>Crea un utente API per ogni caso d’uso dell’API.</li></td>
   </tr>
   <tr>

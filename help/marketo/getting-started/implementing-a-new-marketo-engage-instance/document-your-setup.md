@@ -59,7 +59,7 @@ Dopo aver appreso le aree principali del prodotto da configurare per una nuova i
 <tbody>
   <tr>
     <td>Utenti</td>
-    <td><li>Documenta gli <a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nella tua istanza per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Amministratore &gt; Utenti e ruoli):</li>
+    <td><li>Documenta gli <a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/add-or-remove-a-user#add-a-user" target="_blank">utenti correnti</a> nella tua istanza per motivi di sicurezza. I seguenti dettagli devono essere inclusi come minimo (e sono tutti visibili andando in Amministratore &gt; Utenti e ruoli):</li>
     <ul>
     <li>Nome</li>
     <li>E-mail</li>
