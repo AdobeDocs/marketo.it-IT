@@ -70,7 +70,7 @@ Prima di esaminare la tabella seguente, [scopri come identificare](/help/marketo
    <td>AB70<br>
    AB43</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Aggiornamenti e supporto
