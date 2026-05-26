@@ -4,22 +4,14 @@ title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 48aeac444cca4abfc4393eb53dc091b8e73a5b63
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: 421
-ht-degree: 28%
+source-wordcount: 541
+ht-degree: 23%
 
 ---
 
@@ -35,6 +27,37 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 <table style="table-layout:auto">
  <tbody>
+ <tr>
+   <th style="width:65%">Funzione</th>
+   <th style="width:10%">Stato</th>
+   <th style="width:25%">Documentazione</th>
+  </tr>
+  <tr>
+   <td><strong>Marketo AI</strong>: utilizza una suite di agenti progettati per automatizzare funzioni di marketing lunghe ma importanti (due agenti disponibili ora e altri in arrivo).
+</td>
+   <td>Disponibilità limitata (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">richiedere l'accesso qui</a>)</td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Panoramica di Marketo AI</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <th style="width:65%">Funzione</th>
+   <th style="width:10%">Stato</th>
+   <th style="width:25%">Documentazione</th>
+  </tr>
+  <tr>
+   <td><strong>Server MCP Marketo</strong>: il server MCP Marketo funge da ponte tra l'assistente AI e Marketo Engage. Espone più di 100 operazioni tra moduli, programmi, campagne intelligenti, persone/lead, e-mail, snippet, elenchi e cartelle.</td>
+   <td>Disponibilità limitata (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&amp;origin=QRCode">richiedere l'accesso qui</a>)</td>
+   <td><a href="https://experienceleague.corp.adobe.com/docs/marketo-developer/marketo/mcp-server.html">Server Marketo MCP</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
  <tr>
    <th style="width:65%">Funzione</th>
    <th style="width:10%">Stato</th>

@@ -3,9 +3,9 @@ description: Scopri come controllare i programmi per individuare le best practic
 title: Controllo di qualità del programma
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: ff71b9e2a743056f8efd64d3debdf498ee3e43df
+source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Controlla i programmi per scoprire le best practice per tutti i componenti, ad e
 
 >[!AVAILABILITY]
 >
->Questa funzione è a disponibilità limitata. Per richiedere l’accesso al tuo abbonamento, contatta il team dell’account di Adobe (il tuo account manager).
+>Questa funzione è a disponibilità limitata. Per richiedere l&#39;accesso, compila [questo modulo](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Assicurati di avere il Munchkin ID della tua iscrizione pronto.
 
 >[!PREREQUISITES]
 >
