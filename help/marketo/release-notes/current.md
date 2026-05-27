@@ -44,7 +44,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>Marketo AI</strong>: utilizza una suite di agenti progettati per automatizzare funzioni di marketing lunghe ma importanti (due agenti disponibili ora e altri in arrivo).
 </td>
    <td>Disponibilità limitata (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">richiedere l'accesso qui</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview">Panoramica di Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/overview">Panoramica di Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
