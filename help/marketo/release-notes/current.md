@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
+source-git-commit: 24293b38dc097aa69b8716b367ac9c3a63279bfc
 workflow-type: tm+mt
-source-wordcount: 700
+source-wordcount: 704
 ht-degree: 19%
 
 ---
@@ -115,7 +115,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Stato chat non disponibile</strong>: ora quando un agente non accetta una chat, nei Dettagli attività della persona che ha chattato verrà visualizzato il nuovo stato "Chat non disponibile".
+   <td><strong>Dynamic Chat - Stato chat non disponibile</strong>: quando un agente non accetta una chat, verrà visualizzato un nuovo stato di "chat non disponibile" nei Dettagli attività nel record della persona che ha effettuato la chat.
    </td>
    <td>Rilasciato</td>
    <td>n/d</td>
@@ -126,7 +126,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Nuovo comportamento di sincronizzazione attributi</strong>: in precedenza, l'aggiunta di nuovi attributi bloccava le modifiche nell'ambiente fino a 24 ore al termine della sincronizzazione, impedendo la modifica e la pubblicazione delle finestre di dialogo. Ora, mentre l’aggiunta di un nuovo attributo richiede ancora una sincronizzazione dati completa (che potrebbe richiedere fino a 24 ore), l’ambiente non è più bloccato durante questo processo.
+   <td><strong>Dynamic Chat - Nuovo comportamento di sincronizzazione attributi</strong>: in precedenza, l'aggiunta di nuovi attributi bloccava le modifiche nell'ambiente fino a 24 ore al termine della sincronizzazione, impedendo la modifica e la pubblicazione delle finestre di dialogo. Ora, mentre l’aggiunta di un nuovo attributo richiede ancora una sincronizzazione dati completa (che può richiedere ancora fino a 24 ore), l’ambiente non viene più bloccato durante il processo.
    </td>
    <td>Rilasciato</td>
    <td>n/d</td>
