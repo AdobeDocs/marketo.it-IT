@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7853491f53bd2f7d5ec6e63189c1e8b77b4b5349
+source-git-commit: 365a2c3767c8c3e3455361ac5c2a0e070796cbfa
 workflow-type: tm+mt
-source-wordcount: 543
-ht-degree: 23%
+source-wordcount: 700
+ht-degree: 19%
 
 ---
 
@@ -86,6 +86,50 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    </td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Sta digitando</strong>: ora sia il visitatore che l'agente visualizzano un messaggio "sta digitando..." notifica mentre l’altra parte sta digitando, impedendo a una di interrompere l’altra.
+   </td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Campi elenco a discesa/elenco a discesa di Marketo</strong>: i campi elenco a discesa/elenco a discesa della persona di Marketo (inclusi i valori sincronizzati con Salesforce) sono ora disponibili come valori a discesa nell'editor dei profili di chat.
+   </td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Stato chat non disponibile</strong>: ora quando un agente non accetta una chat, nei Dettagli attività della persona che ha chattato verrà visualizzato il nuovo stato "Chat non disponibile".
+   </td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Dynamic Chat - Nuovo comportamento di sincronizzazione attributi</strong>: in precedenza, l'aggiunta di nuovi attributi bloccava le modifiche nell'ambiente fino a 24 ore al termine della sincronizzazione, impedendo la modifica e la pubblicazione delle finestre di dialogo. Ora, mentre l’aggiunta di un nuovo attributo richiede ancora una sincronizzazione dati completa (che potrebbe richiedere fino a 24 ore), l’ambiente non è più bloccato durante questo processo.
+   </td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
   </tr>
   </tbody>
 </table>
