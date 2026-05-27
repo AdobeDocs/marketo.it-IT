@@ -76,7 +76,7 @@ Prima di esaminare la tabella seguente, [scopri come identificare](/help/marketo
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  </body>
+  &lt;/body>
   </table>
 
 ## Aggiornamenti e supporto
