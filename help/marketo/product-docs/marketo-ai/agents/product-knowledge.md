@@ -3,9 +3,9 @@ description: Utilizza la conoscenza del prodotto per chiedere a Marketo AI infor
 title: Conoscenza del prodotto
 badge: Beta
 hide: true
-source-git-commit: 69749951d0397a837bee77d16baddc3342f68ec2
+source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '463'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ La conoscenza del prodotto consente di accedere on-demand alle competenze di Mar
 
 >[!AVAILABILITY]
 >
->Questa funzione è in versione beta chiusa ed è attualmente in fase di rollout nei prossimi mesi. Quando visualizzi il riquadro _Genera con IA_ nella schermata My Marketo, saprai quando è stato abilitato per il tuo abbonamento.
+>Questa funzione è attualmente in versione beta chiusa. Non divulgare questa documentazione.
 
 ## Come usare {#how-to-use}
 
