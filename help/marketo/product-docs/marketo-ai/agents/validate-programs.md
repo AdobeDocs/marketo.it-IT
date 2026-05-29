@@ -3,7 +3,7 @@ description: Scopri come controllare i programmi per individuare le best practic
 title: Convalida programmi
 badge: Beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: d6051c04a5d2680d280b572c0ba53751f4086b03
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -43,29 +43,3 @@ Controlla i programmi per scoprire le best practice per tutti i componenti, ad e
    L&#39;Assistente IA fornisce un controllo qualità del programma selezionato, mostrando cosa è stato passato e cosa non è riuscito.
 
    ![](assets/program-qa-6.png)
-
-<!--
-   You have three validation paths to choose from:
-
-   | Path | What You Provide | Verification Type | Best For |
-   | --- | --- | --- | --- |
-   | Rules Only | Nothing | Compliance checks | Org compliance & audits |
-   | + Test Plan | Your team's test document | Rules + Custom checks | Team or channel-specific checks |
-   | + Campaign Brief | Campaign brief document | Exact field matching | Pre-launch readiness |
-
-1. To Upload a Test Plan, a Campaign Brief, or both, click the upload icon, add your files and click **Send**. To proceed with rules only, enter "Proceed with Rules Only" in the prompt window and click **Send**. In this example, we are proceeding with rules only.
-
-PICC
-
-1. To start validation, click **Run QA Validation**.
-
-PICC
-
-1. The report generates. To see the full report, click View Full Report.
-
-PICC
-
-1. The report appears in the center console. Scroll down to view. You can also download the report via .docx file.
-
-PICC
--->
