@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d63afbeaaa3c1299e73276e2be5d993f575b5fde
+source-git-commit: db3d673399917ad24559a88931972beaf4ea40a5
 workflow-type: tm+mt
-source-wordcount: 698
+source-wordcount: 655
 ht-degree: 18%
 
 ---
@@ -74,8 +74,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Gestione elenchi di controllo</strong>: è ora possibile specificare i valori che possono essere utilizzati nei campi di Marketo Engage.
    </td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Rilasciato</td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Gestione elenchi a discesa</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -83,7 +83,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Sta digitando</strong>: ora sia il visitatore che l'agente visualizzano un messaggio "sta digitando..." notifica mentre l’altra parte sta digitando, impedendo a una di interrompere l’altra.
+   <td><strong>Dynamic Chat - Sta digitando</strong>: il visitatore e l'agente ricevono una notifica "sta digitando..." mentre l'altra parte sta digitando, impedendo a una di interrompere l'altra.
    </td>
    <td>Rilasciato</td>
    <td>n/d</td>
