@@ -3,7 +3,7 @@ description: Esplora la suite di agenti Marketo AI progettati per automatizzare 
 title: Panoramica di Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: d905e4b850d63e3ccf2517c0d2573314b7b8938b
+source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 2%
@@ -40,9 +40,9 @@ Nel campo del prompt, fare clic su **Inizia** (o digitare una query personalizza
 
 La console centrale dispone di un set crescente di agenti disponibili per aiutarti con varie attività. Ogni agente è un assistente di intelligenza artificiale appositamente creato con cui interagisci attraverso il linguaggio naturale per completare un’attività specifica.
 
-### Controllo di qualità del programma {#program-qa}
+### Convalida programmi {#validate-programs}
 
-Il Controllo qualità del programma controlla automaticamente la configurazione rispetto alle best practice e ai problemi relativi alle superfici di Marketo prima del lancio. Ulteriori informazioni sull&#39;agente [Convalida programmi](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
+La funzione Convalida programmi controlla automaticamente la configurazione rispetto alle best practice e ai problemi relativi alle superfici di Marketo prima dell’avvio. Ulteriori informazioni sull&#39;agente [Convalida programmi](/help/marketo/product-docs/marketo-ai/agents/validate-programs.md){target="_blank"}.
 
 ### Importa lead {#import-leads}
 
@@ -58,4 +58,4 @@ Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
