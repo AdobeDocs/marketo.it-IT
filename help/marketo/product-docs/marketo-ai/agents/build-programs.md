@@ -3,16 +3,16 @@ description: Utilizza Marketo AI per creare un programma Marketo da una descrizi
 title: Creare programmi
 badge: Beta
 hide: true
-source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
+source-git-commit: f2be5a29916b48fd0ba4932925aa4826b7f4ee7f
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '573'
 ht-degree: 0%
 
 ---
 
 # Creare programmi {#build-programs}
 
-Descrivi una campagna di marketing in linguaggio semplice e Marketo AI creerà la struttura del programma, completa di segnaposto delle risorse e pianificazione.
+Descrivi una campagna di marketing in linguaggio semplice e Marketo AI crea la struttura del programma, completa di segnaposto delle risorse e pianificazione.
 
 >[!PREREQUISITES]
 >
