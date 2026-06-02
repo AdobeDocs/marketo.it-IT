@@ -3,9 +3,9 @@ description: Parla con Marketo AI dei tuoi dati sulle prestazioni di Marketo Eng
 title: Informazioni sulla superficie
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: 5b459e82e0a3bc9a335483b66ca975d39121d025
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -48,4 +48,4 @@ Surface Insights ti consente di parlare dei dati delle prestazioni di Marketo. P
 * Intervalli di date molto ampi o domande di ampia portata possono restituire riepiloghi di alto livello anziché dettagli granulari. Ad esempio, &quot;Come sono andati tutti i miei programmi negli ultimi due anni?&quot;
 * Marketo AI può rendere visibili i dati ma non può apportare modifiche ai programmi o ai rapporti in base a ciò che trova.
 * Per rapporti personalizzati dettagliati con filtri e raggruppamenti specifici, potrebbe essere più appropriato utilizzare gli strumenti di reporting incorporati di Marketo o un’integrazione BI.
-* L’attribuzione tra campagne multi-touch richiede una corretta configurazione del programma. Marketo AI genererà rapporti su ciò che viene tracciato, non su attribuzioni non configurate.
+* L’attribuzione tra campagne multi-touch richiede una corretta configurazione del programma. L’intelligenza artificiale di Marketo riporta ciò che è stato tracciato, non deduce l’attribuzione che non è stata configurata.
