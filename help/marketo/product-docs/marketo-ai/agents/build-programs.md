@@ -3,7 +3,7 @@ description: Utilizza Marketo AI per creare un programma Marketo da una descrizi
 title: Creare programmi
 badge: Beta
 hide: true
-source-git-commit: 54702db63ae356706fceba7dc4c09c70e164612f
+source-git-commit: c796ac842d937e9b05bc39bc36f3e5645ad68328
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
@@ -58,4 +58,4 @@ Descrivi una campagna di marketing in linguaggio semplice e Marketo AI creerà l
 * Non sono richiesti modelli o moduli iniziali. Marketo AI crea la struttura e successivamente puoi collegare le risorse (sei ancora responsabile della scrittura della copia e-mail e della configurazione di eventuali pagine di destinazione).
 * Marketo AI non può accedere automaticamente agli elenchi di pubblico esistenti. Dopo aver creato il programma, è necessario collegare i filtri per elenchi avanzati ai segmenti effettivi.
 * I programmi con più passaggi complessi con logica di diramazione avanzata possono richiedere un perfezionamento manuale dopo la creazione.
-* Se l’ambiente Marketo utilizza convenzioni di denominazione o strutture di cartelle. Specificali nella descrizione in modo che il programma venga creato nella posizione giusta.
+* Se l’ambiente Marketo utilizza convenzioni di denominazione o strutture di cartelle, specificale nella descrizione in modo che il programma venga creato nella posizione giusta.
