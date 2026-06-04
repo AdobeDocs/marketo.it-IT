@@ -4,16 +4,12 @@ title: Domande frequenti su Dynamic Chat
 feature: Dynamic Chat
 exl-id: 7b31afc3-77f4-46fb-9f0e-8cb9d60f3ffb
 TQID: https://experienceleague.adobe.com/IpAD0KUETdl3o4UTUS-PBWhtCTY1N7k83qeyGkKnan8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 922
+source-wordcount: 963
 ht-degree: 1%
 
 ---
@@ -29,6 +25,10 @@ Contatta il tuo amministratore di Marketo Engage e verifica che [ti abbia aggiun
 **È possibile installare Dynamic Chat in qualsiasi punto del sito Web aziendale o funziona solo sulle pagine di destinazione di Marketo?**
 
 Lo snippet Dynamic Chat JavaScript può essere installato su qualsiasi sito Web e sulle pagine di destinazione Marketo.
+
+**Ho Dynamic Chat ma non vedo una sezione di Dynamic Chat in Il mio Marketo. Come è possibile ottenerlo?**
+
+Accedi a Dynamic Chat dal menu App su experience.adobe.com e collegati a Marketo tramite **Configurazione** > **Integrazioni**. Dopo la connessione, verrà visualizzata la tessera.
 
 **Per quanto tempo vengono memorizzati i dati per i rapporti?**
 
@@ -70,7 +70,7 @@ Il limite di conversazione attivato viene reimpostato il primo di ogni mese di c
 
 Le finestre di dialogo sono progettate per essere mostrate a un visitatore una sola volta. Quindi, non appena un visitatore raggiunge la fine di un dato ramo in un Dialogo, quel Dialogo è considerato completo e non verrà mai più mostrato a quel visitatore.
 
-**Quando si fa clic sul riquadro Dynamic Chat in My Marketo e si accede a Adobe Experience Cloud, perché viene visualizzato il messaggio seguente? &quot;_Sembra che il tuo Adobe ID non sia collegato agli account della tua soluzione Adobe Experience Cloud_.&quot;**
+**Quando si fa clic sul riquadro Dynamic Chat in Il mio Marketo e si accede ad Adobe Experience Cloud, perché viene visualizzato il messaggio seguente? &quot;_Sembra che il tuo Adobe ID non sia collegato agli account della tua soluzione Adobe Experience Cloud_.&quot;**
 
 Questo probabilmente indica che non sei stato aggiunto come utente Dynamic Chat in Adobe Admin Console. Contatta un amministratore di sistema per la tua organizzazione Adobe o un amministratore di prodotto per Dynamic Chat per richiedere l’accesso a Dynamic Chat.
 
@@ -103,7 +103,7 @@ Sì. [Scopri come](https://nation.marketo.com/t5/product-blogs/using-dynamic-cha
 Dynamic Chat utilizza più termini. Le definizioni per molti di loro si trovano negli articoli di aiuto delle rispettive aree.
 
 * Termini di Analytics come &quot;Persone acquisite&quot; [sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/analytics.md#definitions){target="_blank"}.
-* Le definizioni di attivatore/filtro dell&#39;elenco smart [&#x200B; sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
+* Le definizioni di attivatore/filtro dell&#39;elenco smart [ sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities.md#definitions){target="_blank"}.
 * Le descrizioni delle varie schede Stream Designer [sono disponibili qui](/help/marketo/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer.md#stream-designer-cards){target="_blank"}.
 
 **Posso usare Dynamic Chat senza Marketo Engage?**
