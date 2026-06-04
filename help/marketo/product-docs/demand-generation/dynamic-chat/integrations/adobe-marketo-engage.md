@@ -15,9 +15,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: cc2b43cd0e963803d1998bd8438f066d74303e67
 workflow-type: tm+mt
-source-wordcount: 293
+source-wordcount: 317
 ht-degree: 3%
 
 ---
@@ -38,7 +38,7 @@ Dopo aver completato la [configurazione iniziale](/help/marketo/product-docs/dem
 
    >[!NOTE]
    >
-   >Se non vedi il riquadro, rivolgiti al tuo amministratore Marketo.
+   >Se nella schermata My Marketo non trovi il riquadro Dynamic Chat, accedi a Dynamic Chat dal menu App su experience.adobe.com e collegati a Marketo tramite **Configurazione** > **Integrazioni**. Dopo la connessione, verrà visualizzata la tessera.
 
 1. Se in precedenza hai effettuato l’accesso a un’applicazione con un Adobe ID, verrai indirizzato direttamente a Dynamic Chat. In caso contrario, [configura il tuo Adobe ID](https://helpx.adobe.com/it/manage-account/using/create-update-adobe-id.html){target="_blank"}.
 
