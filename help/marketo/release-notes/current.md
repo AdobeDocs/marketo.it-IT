@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: f5b235bda9063b8f54321fd62f2c9d5f4442c783
+source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
 workflow-type: tm+mt
-source-wordcount: 655
+source-wordcount: 654
 ht-degree: 18%
 
 ---
@@ -63,8 +63,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>E-mail Designer - Contenuto condizionale per frammenti e-mail</strong>: <i>Parità con il vecchio editor e-mail</i>. Il contenuto condizionale è ora supportato per i frammenti.</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
+   <td>Rilasciato</td>
+   <td>n/d</td>
   </tr>
   <tr>
    <td> </td>
