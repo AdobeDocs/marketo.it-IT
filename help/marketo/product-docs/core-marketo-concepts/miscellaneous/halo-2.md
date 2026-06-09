@@ -38,7 +38,7 @@ Un CSV di pubblico pronto per il caricamento. Se hai bisogno di un punto di part
 Un&#39;idea chiara dell&#39;obiettivo della campagna, ad esempio &quot;riconquistare clienti inattivi&quot;, &quot;invitare utenti di prova a un webinar&quot;.
 
 Suggerimento: se non hai ancora scritto le richieste per le campagne di marketing, prendi due minuti per evitare di suggerire Halo - best practice prima di iniziare. Affilerà tutto quello che segue.
-[PER KEITH: Dovremo creare questo documento aggiuntivo, che sarà basato su una combinazione di:
+&lbrack;PER KEITH: Dovremo creare questo documento aggiuntivo, che sarà basato su una combinazione di:
 
 1. Generazione di contenuti AJO / procedure di richiesta (sezioni applicabili:
 
@@ -50,7 +50,7 @@ Scrittura di obiettivi efficaci
 
 Escludi il contenuto (roba specifica)
 
-2. Journey Agent (sezioni applicabili: nelle sezioni ambito ed esterna, dovremo aggiungere qualcosa di simile)
+&#x200B;2. Journey Agent (sezioni applicabili: nelle sezioni ambito ed esterna, dovremo aggiungere qualcosa di simile)
 
 Forma
 
@@ -104,10 +104,10 @@ Forma
 
 Passaggio 4: aggiungere una breve descrizione e materiale di riferimento
 
-[FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. : come Halo utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
+&lbrack;FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. : come Halo utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
 
 Ecco un approfondimento della mia sessione al summit dove affronto questo tema: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. ]
+Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. &rbrack;
 
 [SCHERMATA: breve/riferimento allegato interfaccia utente]
 
@@ -181,14 +181,14 @@ Forma
 
 Domande comuni
 
-[PER KEITH: Domande frequenti 4-6 basate sul feedback ricevuto dagli utenti in anticipo. Suggerimenti per iniziare - per discutere con il nostro team Engg:
+&lbrack;PER KEITH: Domande frequenti 4-6 basate sul feedback ricevuto dagli utenti in anticipo. Suggerimenti per iniziare - per discutere con il nostro team Engg:
 - &quot;Perché la prima risposta richiede così tanto tempo?
 - &quot;E se l&#39;output di Halo non fosse corretto?&quot;
 - &quot;Posso modificare le e-mail direttamente o solo tramite chat?&quot;
 - &quot;Come posso salvare una campagna senza avviarla?&quot;
 - &quot;Cosa succede se il file CSV del mio pubblico contiene errori?&quot;
 - &quot;Posso duplicare o eseguire il remix di una campagna?&quot;
-- &quot;Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?&quot;]
+- &quot;Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?&quot;&rbrack;
 
 Forma
 
