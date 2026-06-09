@@ -106,7 +106,7 @@ Passaggio 4: aggiungere una breve descrizione e materiale di riferimento
 
 &lbrack;FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. : come Halo utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
 
-Ecco un approfondimento della mia sessione al summit dove affronto questo tema: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Ecco un approfondimento della mia sessione al summit dove affronto questo tema: https://business.adobe.com/it/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
 Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. &rbrack;
 
 [SCHERMATA: breve/riferimento allegato interfaccia utente]
