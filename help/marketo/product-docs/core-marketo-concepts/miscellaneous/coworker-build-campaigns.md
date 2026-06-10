@@ -73,10 +73,10 @@ Esempio:
 
 ## Passaggio 4: aggiungere una breve descrizione e materiale di riferimento
 
-[FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. - il modo in cui CX Enterprise Collaborator utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
+&lbrack;FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. - il modo in cui CX Enterprise Collaborator utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
 
 Ecco un approfondimento della mia sessione al summit dove affronto questo tema: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. ]
+Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. &rbrack;
 
 [SCHERMATA: breve/riferimento allegato interfaccia utente]
 
@@ -133,11 +133,11 @@ Quando sei soddisfatto della campagna, hai alcune opzioni:
 
 ## Domande comuni
 
-[PER KEITH: Domande frequenti 4-6 basate sul feedback ricevuto dagli utenti in anticipo. Suggerimenti per iniziare - per discutere con il nostro team Eng:
+&lbrack;PER KEITH: Domande frequenti 4-6 basate sul feedback ricevuto dagli utenti in anticipo. Suggerimenti per iniziare - per discutere con il nostro team Eng:
 * &quot;Perché la prima risposta richiede così tanto tempo?
 * &quot;E se l&#39;output di CX Enterprise Collaborator non fosse corretto?&quot;
 * &quot;Posso modificare le e-mail direttamente o solo tramite chat?&quot;
 * &quot;Come posso salvare una campagna senza avviarla?&quot;
 * &quot;Cosa succede se il file CSV del mio pubblico contiene errori?&quot;
 * &quot;Posso duplicare o eseguire il remix di una campagna?&quot;
-* &quot;Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?&quot;]
+* &quot;Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?&quot;&rbrack;
