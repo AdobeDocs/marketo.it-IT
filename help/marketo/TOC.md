@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: a1efdaab40e02861b7ee9ceabeb004fdd6c5de57
+source-git-commit: 69965ea0c32f61bf749fa6fc655854dcca7674b9
 workflow-type: tm+mt
-source-wordcount: '8903'
+source-wordcount: '8905'
 ht-degree: 96%
 
 ---
@@ -467,9 +467,9 @@ ht-degree: 96%
                + [Inviare un esempio](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sending-a-sample.md)
                + [Condividere un momento](product-docs/core-marketo-concepts/mobile-apps/marketo-moments/working-with-moments/sharing-a-moment.md)
       + Varie {#miscellaneous}
-         + {hide-from-toc}[Halo 1](product-docs/core-marketo-concepts/miscellaneous/halo-1.md)
-         + {hide-from-toc}[Alone 2](product-docs/core-marketo-concepts/miscellaneous/halo-2.md)
-         + {hide-from-toc}[Halo 3](product-docs/core-marketo-concepts/miscellaneous/halo-3.md)
+         + {hide-from-toc}[Panoramica dei collaboratori](product-docs/core-marketo-concepts/miscellaneous/coworker-overview.md)
+         + {hide-from-toc}[Campagne Build Collaboratore](product-docs/core-marketo-concepts/miscellaneous/coworker-build-campaigns.md)
+         + {hide-from-toc}[Casi di utilizzo collaboratori](product-docs/core-marketo-concepts/miscellaneous/coworker-use-cases.md)
          + {hide-from-toc}[Configurazione dell&#39;integrazione di Adobe Experience Manager](product-docs/core-marketo-concepts/miscellaneous/configuring-adobe-experience-manager-integration.md)
          + [Creare una nuova cartella campagna](product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.md)
          + {hide-from-toc}[Glossario delle scelte rapide da tastiera](product-docs/core-marketo-concepts/miscellaneous/keyboard-shortcuts-glossary.md)
