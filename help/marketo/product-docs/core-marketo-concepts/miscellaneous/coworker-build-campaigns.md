@@ -1,9 +1,9 @@
 ---
 description: Una guida dettagliata per la creazione di una campagna e-mail in CX Enterprise Collaborator, dalla scrittura delle richieste alla revisione e all’esportazione della campagna.
 title: Creare e generare campagne e-mail
-source-git-commit: b58edb707bf68aeed9f1b5eba8328c54a95c5a2f
+source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
 workflow-type: tm+mt
-source-wordcount: '1179'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -40,6 +40,8 @@ Dalla pagina Home puoi iniziare in tre modi:
 
 [SCHERMATA: Home page con barra dei prompt, riga del modello e opzione &quot;Help me prompt&quot; evidenziata]
 
+![](assets/generate-email-campaigns-.png)
+
 [PER KEITH: Breve descrizione di ciascuna opzione e quando usarla. Suggerisci modelli per i nuovi utenti, richieste in formato libero per gli addetti al marketing che sanno cosa desiderano e &quot;Chiedi assistenza&quot; per chiunque nel periodo compreso tra.]
 
 ## Passaggio 2: scrivi la richiesta
@@ -61,11 +63,15 @@ Esempio:
 
 [SCHERMATA: barra di richiesta con il prompt di esempio digitato in]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Passaggio 3: caricare il pubblico
 
 [PER KEITH: procedura dettagliata per il caricamento CSV. Copertina: - Posizione del pulsante Carica nell’interfaccia utente. : colonne obbligatorie e aspettative relative al formato. - Campi di personalizzazione che CX Enterprise Collaborator può utilizzare (nome, data dell&#39;ultimo ordine, categoria del prodotto, ecc.). : collegamento al file CSV di esempio. - Cosa succede se i dati sono disordinati o se mancano dei campi.]
 
 [SCHERMATA: flusso di caricamento CSV]
+
+![](assets/generate-email-campaigns-.png)
 
 >[!TIP]
 >
@@ -79,6 +85,8 @@ Ecco un approfondimento della mia sessione al summit dove affronto questo tema: 
 Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. &rbrack;
 
 [SCHERMATA: breve/riferimento allegato interfaccia utente]
+
+![](assets/generate-email-campaigns-.png)
 
 ## Passaggio 5: generare la campagna
 
@@ -94,6 +102,8 @@ Fai clic su **Genera campagna**. CX Enterprise Collaborator:
 
 [SCHERMATA: scheda Campaign generata con piano, percorso e contenuto visibili]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Passaggio 6: rivedere e perfezionare
 
 L’interfaccia conversazionale consente un perfezionamento semplice. Per apportare modifiche, contattare CX Enterprise Collaborator:
@@ -108,6 +118,8 @@ L’interfaccia conversazionale consente un perfezionamento semplice. Per apport
 
 [SCHERMATA: ottimizzazione conversazionale in azione — mostra un prima e dopo di un&#39;e-mail dopo una richiesta di chat]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Passaggio 7: inviare un’e-mail di bozza
 
 Prima del lancio, invia la campagna a te stesso o a un membro del tuo team per la revisione in una vera e propria casella in entrata.
@@ -116,12 +128,15 @@ Prima del lancio, invia la campagna a te stesso o a un membro del tuo team per l
 
 [SCHERMATA: invia flusso bozza]
 
+![](assets/generate-email-campaigns-.png)
+
 ## Passaggio 8: avviare o esportare
 
 Quando sei soddisfatto della campagna, hai alcune opzioni:
 
->[!NOTE]
->Launch non è attualmente disponibile al momento del rilascio, ma verrà abilitato entro due settimane dalla versione iniziale, in attesa dell’autorizzazione legale.
+>[!AVAILABILITY]
+>
+>Launch non è disponibile nella versione iniziale, ma l’attivazione è prevista per la fine di giugno. Controlla qui per gli aggiornamenti.
 
 * Avvia la campagna.
 * Esporta singole e-mail come HTML.
@@ -130,6 +145,8 @@ Quando sei soddisfatto della campagna, hai alcune opzioni:
 [PER KEITH: Dettagli su ciascuna opzione ed eventuali controlli pre-avvio eseguiti da CX Enterprise Collaborator (conformità, collegamenti interrotti, campi di personalizzazione mancanti, ecc.).]
 
 [SCHERMATA: opzioni di avvio/esportazione]
+
+![](assets/generate-email-campaigns-.png)
 
 ## Domande comuni
 

@@ -1,9 +1,9 @@
 ---
 description: Scopri CX Enterprise Coworker, un’applicazione di marketing nativa per l’intelligenza artificiale che trasforma un singolo prompt in una campagna pronta per la revisione.
 title: Panoramica di CX Enterprise Collaborator
-source-git-commit: 1d7b5e3c4c5ca34c10934a659ac9025d2a27c95d
+source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
 workflow-type: tm+mt
-source-wordcount: '856'
+source-wordcount: '836'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ CX Enterprise Collaborator è un&#39;applicazione di marketing nativa per l&#39;
 
 1. (Facoltativo) Carica un modello e-mail di HTML in **Modelli e-mail** affinché CX Enterprise Collaborator applichi la progettazione durante la generazione del contenuto.
 
-[SCHERMATA: schermata di accesso/benvenuto per la versione di prova di CX Enterprise Collaborator]
+   ![Schermata di benvenuto per la versione di prova di CX Enterprise Collaborator](assets/overview-1.png)
 
 Sei pronto per generare la tua prima campagna.
 
@@ -40,7 +40,7 @@ Sei pronto per generare la tua prima campagna.
 
 L&#39;interfaccia di CX Enterprise Collaborator è organizzata in base a una navigazione a sinistra.
 
-[SCHERMATA: la schermata iniziale con annotazioni mostra il menu di navigazione a sinistra (nuova chat, Home, chat, campagne, i tuoi contenuti, Personalizza) e l&#39;area centrale del prompt]
+![Schermata iniziale](assets/overview-2.gif)
 
 | Sezione | Scopo |
 |---|---|
