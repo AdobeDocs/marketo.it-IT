@@ -1,16 +1,16 @@
 ---
 description: Scopri CX Enterprise Coworker, un’applicazione di marketing nativa per l’intelligenza artificiale che trasforma un singolo prompt in una campagna pronta per la revisione.
 title: Panoramica di CX Enterprise Collaborator
-source-git-commit: e7f73f63bed1158a734d0905ec3e93c247936741
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '835'
 ht-degree: 0%
 
 ---
 
 # Panoramica di CX Enterprise Collaborator {#overview}
 
-CX Enterprise Collaborator è un&#39;applicazione di marketing nativa per l&#39;intelligenza artificiale che consente di passare in pochi minuti da un singolo prompt a una campagna pronta per la revisione.
+CX Enterprise Collaborator è un&#39;applicazione di marketing nativa per l&#39;intelligenza artificiale che consente di passare da un prompt singolo a una campagna completa pronta per la revisione.
 
 ## Come accedervi
 

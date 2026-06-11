@@ -1,9 +1,9 @@
 ---
 description: Una guida dettagliata per la creazione di una campagna e-mail in CX Enterprise Collaborator, dalla scrittura delle richieste alla revisione e all’esportazione della campagna.
 title: Creare e generare campagne e-mail
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8750337464744e2684bef91d70caa4abcefdcc8c
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1165'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Scopri come creare e rivedere in pochi minuti campagne e-mail complete.
 
 Assicurati di avere:
 
-* Un account CX Enterprise Worker attivo ([registratevi qui](https://coworker-essentials.experience.adobe.com/), se non lo avete già fatto).
+* Un account CX Enterprise Worker attivo ([registratevi qui](https://coworker-essentials.experience.adobe.com/){target="_blank"}, se non lo avete già fatto).
 
 * Il tuo marchio è configurato in **La tua roba** > **Marchi**.
 
@@ -24,27 +24,29 @@ Assicurati di avere:
 
 * Un CSV di pubblico pronto per il caricamento.
 
-* Un’idea chiara dell’obiettivo della campagna (ad esempio, &quot;riconquistare clienti inattivi&quot;, &quot;invitare utenti di prova a un webinar&quot;).
-
->[!TIP]
->
->Se non hai ancora scritto i prompt per le campagne di marketing, impiega due minuti per ignorare _Richiedere a CX Enterprise Collaborator: best practice_ prima di iniziare.
+* Un’idea chiara dell’obiettivo della campagna (ad esempio, &quot;riconquistare clienti inattivi&quot; o &quot;invitare utenti di prova a un webinar&quot;).
 
 ## Passaggio 1: avviare una nuova chat
 
 Dalla pagina Home puoi iniziare in tre modi:
 
-* Digitate un prompt nella barra centrale dei prompt.
-* Seleziona un modello di campagna pronto dalla sezione modelli sotto la barra dei prompt.
-* Utilizzare un&#39;opzione &quot;Help me prompt&quot; dal menu a discesa nella barra dei prompt per fare in modo che CX Enterprise Worker ti guidi durante la scrittura del prompt.
+**Opzione uno**: digitare un prompt nella barra dei prompt centrale.
+
+_Quando utilizzare: quando si conosce esattamente ciò che si desidera._
+
+Opzione 2: scegli un modello pronto dalla sezione **Modelli campagna** sotto la barra dei prompt.
+
+_Quando utilizzare: quando non si è sicuri di dove iniziare._
+
+Opzione tre: utilizzare l&#39;opzione &quot;Help me prompt&quot; dal menu a discesa nella barra dei prompt per fare in modo che CX Enterprise Collaborator ti guidi durante la scrittura del prompt.
+
+_Quando utilizzare: è possibile avere un&#39;idea di ciò che si desidera, ma si desidera ricevere un piccolo aiuto._
 
 [SCHERMATA: Home page con barra dei prompt, riga del modello e opzione &quot;Help me prompt&quot; evidenziata]
 
 ![](assets/generate-email-campaigns-.png)
 
-[PER KEITH: Breve descrizione di ciascuna opzione e quando usarla. Suggerisci modelli per i nuovi utenti, richieste in formato libero per gli addetti al marketing che sanno cosa desiderano e &quot;Chiedi assistenza&quot; per chiunque nel periodo compreso tra.]
-
-## Passaggio 2: scrivi la richiesta
+## Passaggio 2: creare la richiesta
 
 Un forte prompt di CX Enterprise Workker include:
 
@@ -55,11 +57,13 @@ Un forte prompt di CX Enterprise Workker include:
 
 Esempio:
 
-```
-"Create a win-back email series for customers who bought last year but haven't returned. Use the CSV I uploaded. Include 2–3 emails that feel seasonal and remind them to shop again."
-```
+<pre style="white-space: pre-wrap;">
+"Crea una serie e-mail di riconquista per i clienti che hanno acquistato l’anno scorso ma non sono tornati. Utilizza il file CSV che ho caricato. Includi 2-3 e-mail che sembrano stagionali e ricordano di fare acquisti di nuovo."
+</pre>
 
-[PER KEITH: può aggiungere altri 2-3 esempi di prompt che si estendono su B2B e B2C per dare varietà. Estrai i casi d&#39;uso dal documento della raccolta per coerenza.]
+>[!TIP]
+>
+>Per ulteriori esempi, consulta l&#39;articolo _Casi d&#39;uso_.
 
 [SCHERMATA: barra di richiesta con il prompt di esempio digitato in]
 
@@ -79,10 +83,10 @@ Esempio:
 
 ## Passaggio 4: aggiungere una breve descrizione e materiale di riferimento
 
-&lbrack;FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. - il modo in cui CX Enterprise Collaborator utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
+[FOR KEITH: Spiega come allegare una breve documentazione di riferimento sul brand o altro contesto. Copertina: - Tipi di file supportati. - il modo in cui CX Enterprise Collaborator utilizza queste informazioni (estratte nel contesto del prompt, applicate alla generazione di contenuti, ecc.). - Limiti di dimensione del file, se presenti
 
-Ecco un approfondimento della mia sessione al summit dove affronto questo tema: https://business.adobe.com/it/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
-Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. &rbrack;
+Ecco un approfondimento della mia sessione al summit dove affronto questo tema: https://business.adobe.com/summit/2026/sessions/3-2-1-launch-project-halo-revealed-s232.html\
+Limitazioni - Posso collegarvi con l&#39;engg - Neha Pullabhotla, che sarà in grado di aiutarci su specifiche qui. ]
 
 [SCHERMATA: breve/riferimento allegato interfaccia utente]
 
@@ -116,7 +120,7 @@ L’interfaccia conversazionale consente un perfezionamento semplice. Per apport
 
 [PER KEITH: scopri come apportare modifiche sia tramite chat che tramite modifica diretta. Spiega in che modo gli artefatti vengono aggiornati. Non esiste alcuna possibilità di aggiungere altri nodi al flusso di lavoro tramite l’editor, né attualmente esiste il controllo delle versioni. Per ottenere i migliori risultati, li invitiamo anche a richiedere qualsiasi modifica per il flusso di lavoro complessivo all&#39;inizio della creazione del piano]
 
-[SCHERMATA: ottimizzazione conversazionale in azione — mostra un prima e dopo di un&#39;e-mail dopo una richiesta di chat]
+[SCHERMATA: ottimizzazione conversazionale in azione - mostra un prima e dopo di un&#39;e-mail dopo una richiesta di chat]
 
 ![](assets/generate-email-campaigns-.png)
 
@@ -150,11 +154,11 @@ Quando sei soddisfatto della campagna, hai alcune opzioni:
 
 ## Domande comuni
 
-&lbrack;PER KEITH: Domande frequenti 4-6 basate sul feedback ricevuto dagli utenti in anticipo. Suggerimenti per iniziare - per discutere con il nostro team Eng:
+[PER KEITH: Domande frequenti 4-6 basate sul feedback ricevuto dagli utenti in anticipo. Suggerimenti per iniziare - per discutere con il nostro team Eng:
 * &quot;Perché la prima risposta richiede così tanto tempo?
 * &quot;E se l&#39;output di CX Enterprise Collaborator non fosse corretto?&quot;
 * &quot;Posso modificare le e-mail direttamente o solo tramite chat?&quot;
 * &quot;Come posso salvare una campagna senza avviarla?&quot;
 * &quot;Cosa succede se il file CSV del mio pubblico contiene errori?&quot;
 * &quot;Posso duplicare o eseguire il remix di una campagna?&quot;
-* &quot;Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?&quot;&rbrack;
+* &quot;Come posso condividere una bozza di campagna con un compagno di squadra per la revisione?&quot;]
