@@ -1,7 +1,8 @@
 ---
 description: Scopri Adobe CX Enterprise Customer Campaigns, un’applicazione di marketing nativa per l’intelligenza artificiale che trasforma un singolo prompt in una campagna pronta per la revisione.
 title: Panoramica di Adobe CX Enterprise Collaborator
-source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
+hide: true
+source-git-commit: 14ea82fe7161fdc9ca6c45937a606774f0144177
 workflow-type: tm+mt
 source-wordcount: '850'
 ht-degree: 0%
