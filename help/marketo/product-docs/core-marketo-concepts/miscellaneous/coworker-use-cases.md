@@ -1,20 +1,20 @@
 ---
-description: Sfogliare i modelli di prompt reali per CX Enterprise Collaborator, organizzati in base al caso d'uso per le diverse campagne di acquisizione, coinvolgimento, eventi, conversione e conservazione.
+description: Sfoglia i modelli di prompt reali per le campagne Adobe CX Enterprise Collaborator, organizzati in base al caso d’uso per le campagne di acquisizione, coinvolgimento, eventi, conversione e conservazione.
 title: Casi di utilizzo
-source-git-commit: e72cf50e03dcf225a47872dc5ade976d46445c86
+source-git-commit: 8229c19a046bb9b8f82053475e8f00b5c27370c2
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
 
 # Casi di utilizzo {#use-cases}
 
-Di seguito sono riportati i modelli di richiesta reali utilizzati dagli esperti di marketing per la crescita e il ciclo di vita in CX Enterprise Collaborator. Ognuna è creata per essere copiata, scambiata con il tuo pubblico e i tuoi dettagli del brand e perfezionata nella conversazione.
+Di seguito sono riportati i modelli di prompt reali utilizzati dagli esperti di marketing per la crescita e il ciclo di vita nelle campagne Adobe CX Enterprise Customer Workers. Ognuna è creata per essere copiata, scambiata con il tuo pubblico e i tuoi dettagli del brand e perfezionata nella conversazione.
 
 ## Come usare
 
-Scegli un caso d&#39;uso adatto al tuo obiettivo, copia il prompt di esempio e incollalo in CX Enterprise Collaborator, sostituisci i segnaposto con le tue specifiche e perfeziona l&#39;output tramite chat. Per informazioni dettagliate, passa a Genera e genera campagne.
+Scegli un caso d’uso adatto al tuo obiettivo, copia il prompt di esempio e incollalo in Campagne collaboratori, sostituisci i segnaposto con le tue specifiche e perfeziona l’output tramite chat. Per informazioni dettagliate, passa a Genera e genera campagne.
 
 ## Acquisizione e onboarding
 
@@ -24,7 +24,7 @@ Dai il benvenuto a nuovi clienti, membri o account e configurali per un impegno 
 
 Ideale per: attivazione dell’account aziendale, nuove iscrizioni SaaS, handoff post-vendita.
 
-`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I uploaded and personalize by first name and company name."`
+`"Create a guided onboarding email series for new enterprise accounts. Include a welcome email, a setup walkthrough, and a check-in from a customer success contact. Use the CSV I will upload and personalize by first name and company name."`
 
 ### Onboarding di nuovi membri, B2C
 
@@ -52,7 +52,7 @@ Tieni il pubblico informato, istruito e connesso tra i momenti chiave.
 
 Ideale per: Fidelizzazione dei clienti, consapevolezza del prodotto, leadership di pensiero.
 
-`"Create a monthly newsletter for our customers. Use the CSV I uploaded. Include product updates, industry insights, and a resource, with simple CTAs."`
+`"Create a monthly newsletter for our customers. Use the CSV I will upload. Include product updates, industry insights, and a resource, with simple CTAs."`
 
 ### Newsletter mensile, B2C
 
@@ -142,7 +142,7 @@ Recupera i tipi di pubblico che sono andati alla deriva e riattiva i segmenti in
 
 Ideale per: clienti inattivi, acquirenti inattivi, riattivazione stagionale.
 
-`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I uploaded. Include 2-3 emails that feel seasonal and remind them to shop again."`
+`"Create a win-back email series for customers who bought last year but haven't come back. Use the CSV I will upload. Include 2-3 emails that feel seasonal and remind them to shop again."`
 
 ### Ripresa del coinvolgimento dei tifosi, B2C (sport e intrattenimento)
 
@@ -158,4 +158,4 @@ Ideale per: qualsiasi tipo di pubblico che non ha risposto.
 
 ## Pronto per la generazione?
 
-Scegli un caso d&#39;uso qui sopra, visita _Genera e genera campagne_ per l&#39;intera procedura, quindi prova.
+Scegli un caso d&#39;uso qui sopra, visita _Crea una campagna e-mail_ per l&#39;intera procedura, quindi prova.
