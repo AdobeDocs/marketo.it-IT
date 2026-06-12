@@ -3,9 +3,9 @@ description: Esplora la suite di agenti Marketo AI progettati per automatizzare 
 title: Panoramica di Marketo AI
 badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 4f19245d55403bd99002de35e4ee226055b96c4d
+source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '303'
 ht-degree: 2%
 
 ---
@@ -28,11 +28,11 @@ Marketo AI fornisce agenti progettati per automatizzare funzioni di marketing lu
 
 ## Come accedervi {#access}
 
-Nella schermata My Marketo, fai clic sul riquadro **Build with AI**.
+Nella schermata Il mio Marketo, fai clic sul riquadro **IA per Marketo**.
 
 ![](assets/overview-1.png)
 
-Nel campo del prompt, fare clic su **Inizia** (o digitare una query personalizzata).
+Digita la richiesta nel campo prompt oppure seleziona uno degli agenti seguenti.
 
 ![](assets/overview-2.png)
 
@@ -46,7 +46,7 @@ La funzione Convalida programmi controlla automaticamente la configurazione risp
 
 ### Importa lead {#import-leads}
 
-Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. Ulteriori informazioni sull&#39;[agente lead di importazione](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
+Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. Ulteriori informazioni sull&#39;agente [Import lead](/help/marketo/product-docs/marketo-ai/agents/import-leads.md){target="_blank"}.
 
 ## Disponibile a breve {#coming-soon}
 
@@ -58,4 +58,4 @@ Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
