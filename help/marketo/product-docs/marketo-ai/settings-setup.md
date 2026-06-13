@@ -1,12 +1,11 @@
 ---
 description: Scopri come abilitare le autorizzazioni di Marketo AI, configurare le regole organizzative e gestire impostazioni come integrazioni e notifiche.
 title: Impostazioni e configurazione
-badge: Beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 854fee409fb55c8f611ee85225bea6ab77036dff
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '580'
-ht-degree: 2%
+source-wordcount: '579'
+ht-degree: 1%
 
 ---
 

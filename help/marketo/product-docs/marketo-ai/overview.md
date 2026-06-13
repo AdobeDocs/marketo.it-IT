@@ -1,12 +1,11 @@
 ---
 description: Esplora la suite di agenti Marketo AI progettati per automatizzare attività di marketing come il controllo qualità del programma, l’importazione dei lead, la normalizzazione dei dati e altro ancora.
 title: Panoramica di Marketo AI
-badge: Beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 92d0d8b1820b0588e26e097e67ef6b6f32837397
+source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
 workflow-type: tm+mt
-source-wordcount: '303'
-ht-degree: 2%
+source-wordcount: '302'
+ht-degree: 1%
 
 ---
 
@@ -16,7 +15,7 @@ Marketo AI fornisce agenti progettati per automatizzare funzioni di marketing lu
 
 >[!AVAILABILITY]
 >
->Questa funzione è a disponibilità limitata. Per richiedere l&#39;accesso, compila [questo modulo](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Assicurati di avere il Munchkin ID della tua iscrizione pronto.
+>Questa funzione è a disponibilità limitata. Per richiedere l&#39;accesso, compila [questo modulo](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode){target="_blank"}. Assicurati di avere a portata di mano il Munchkin ID del tuo abbonamento.
 
 >[!PREREQUISITES]
 >
