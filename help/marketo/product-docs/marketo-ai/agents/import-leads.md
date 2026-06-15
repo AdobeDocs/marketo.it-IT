@@ -2,9 +2,9 @@
 description: Scopri come utilizzare l’agente Lead di importazione per caricare un CSV, applicare regole aziendali, mappare campi e importare lead direttamente nel database di Marketo Engage.
 title: Importa lead
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
 ## Come usare {#how-to-use}
 
-1. In Il mio Marketo, fai clic sul riquadro **Genera con IA**.
+1. In Il mio Marketo, fai clic sul riquadro **IA per Marketo**.
 
    ![](assets/import-leads-1.png)
 

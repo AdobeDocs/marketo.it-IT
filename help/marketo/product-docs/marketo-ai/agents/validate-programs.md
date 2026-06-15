@@ -2,9 +2,9 @@
 description: Scopri come controllare i programmi per individuare le best practice per tutti i componenti, ad esempio e-mail, pagine di destinazione, campagne e altro ancora.
 title: Convalida programmi
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: e7df214d1796c631a4fcdd874de84cfe7f92e8b6
+source-git-commit: 8dff86ca52f267f1fb25eb3036af83e689a5e312
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,22 +23,22 @@ Controlla i programmi per scoprire le best practice per tutti i componenti, ad e
 
 ## Come usare {#how-to-use}
 
-1. In Il mio Marketo, fai clic sul riquadro **Genera con IA**.
+1. In Il mio Marketo, fai clic sul riquadro **IA per Marketo**.
 
-   ![](assets/program-qa-1.png)
+   ![](assets/validate-programs-1.png)
 
 1. Selezionare l&#39;agente **Convalida programmi**.
 
 1. Selezionare il programma da convalidare nel riquadro di destra.
 
-   ![](assets/program-qa-3.png){width="800" zoomable="yes"}
+   ![](assets/validate-programs-3.png){width="800" zoomable="yes"}
 
    Nel riquadro centrale viene visualizzato un riepilogo del programma selezionato.
 
-   ![](assets/program-qa-4.png){width="450" zoomable="yes"}
+   ![](assets/validate-programs-4.png){width="450" zoomable="yes"}
 
 1. Nella finestra del prompt, immetti &quot;convalida programma&quot; e fai clic su **Invia**.
 
    L&#39;Assistente IA fornisce un controllo qualità del programma selezionato, mostrando cosa è stato passato e cosa non è riuscito.
 
-   ![](assets/program-qa-6.png)
+   ![](assets/validate-programs-6.png)
