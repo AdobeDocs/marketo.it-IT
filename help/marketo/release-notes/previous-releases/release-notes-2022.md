@@ -25,7 +25,7 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 992f0ad35d396b1f6ecd30f34ba1d228116fb264
 workflow-type: tm+mt
 source-wordcount: 4254
 ht-degree: 6%
@@ -46,7 +46,7 @@ Le seguenti funzioni sono incluse nella versione di gennaio 2022. Verifica la di
 
 Le seguenti funzionalità inizieranno a essere rilasciate il **21 gennaio 2022**, con un rollout graduale di ogni funzionalità nelle settimane successive (salvo diversa indicazione).
 
-## Esperienza di nuova generazione {#modern-ux}
+## Esperienza di nuova generazione
 
 * **Screens aggiornato nell&#39;esperienza di nuova generazione**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
 
@@ -133,7 +133,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 * **Miglioramento del filtro dell&#39;attività bot e-mail**: come miglioramento della funzione [Filtro dell&#39;attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} rilasciata in precedenza, ora puoi dare il consenso per la registrazione delle attività identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
 
-## Esperienza di nuova generazione {#modern-ux}
+## Esperienza di nuova generazione
 
 * **Screens aggiornato nell&#39;esperienza di nuova generazione**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
 
@@ -215,7 +215,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **6 maggio 2022**, 
 
 **[Intestazione STS per i collegamenti di tracciamento e-mail](/help/marketo/product-docs/administration/settings/email-tracking-link-headers.md){target="_blank"}**: soddisfa le best practice di sicurezza con la possibilità di applicare intestazioni di sicurezza trasporto sicuro per garantire che il traffico verso i collegamenti tracciati sia sempre sicuro.
 
-## Esperienza di nuova generazione {#modern-ux}
+## Esperienza di nuova generazione
 
 **Attiva/Disattiva opzione predefinita per Esperienza di nuova generazione**: l&#39;opzione attiva/disattiva verrà impostata come predefinita per la nuova esperienza in tutte le schermate in cui è disponibile, facilitando l&#39;individuazione delle progettazioni aggiornate e dei miglioramenti a livello di usabilità.
 
@@ -427,7 +427,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tbody>
 </table>
 
-### Esperienza di nuova generazione {#modern-ux}
+### Esperienza di nuova generazione
 
 </br>
 
@@ -565,3 +565,4 @@ Le seguenti funzioni seguono un formato Agile e vengono rilasciate in varie date
 * **Forms 1.0**: la versione obsoleta di Forms 1.0 verrà completata con la versione di ottobre. Le risorse di Forms 1.0 non saranno più in grado di inviare dati a Marketo Engage e, se tentate, restituiranno errori.
 
 * **Forms senza script**: Forms non funzionerà più se JavaScript è disabilitato nel browser. Per l’invio di un modulo è necessario abilitare JavaScript.
+
