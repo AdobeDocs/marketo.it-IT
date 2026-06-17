@@ -16,10 +16,10 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: d8620eadc64a918d1932739ca1794d5030cc4941
+source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
 workflow-type: tm+mt
-source-wordcount: 654
-ht-degree: 18%
+source-wordcount: 628
+ht-degree: 19%
 
 ---
 
@@ -43,8 +43,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Marketo AI</strong>: utilizza una suite di agenti progettati per automatizzare funzioni di marketing lunghe ma importanti (due agenti disponibili ora e altri in arrivo).
 </td>
-   <td>Disponibilità limitata (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">richiedere l'accesso qui</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/overview">Panoramica di Marketo AI</a></td>
+   <td>Beta aperta</td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Panoramica di Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -53,8 +53,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Server MCP Marketo Engage</strong>: il server MCP Marketo Engage funge da ponte tra l'assistente AI e Marketo Engage. Espone più di 100 operazioni tra moduli, programmi, campagne intelligenti, persone/lead, e-mail, snippet, elenchi e cartelle.</td>
-   <td>Disponibilità limitata (<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4Y-uSf63sAxCmWyqMJg8eMFUMVZSVExSNDA3T0I4SEcwRDFSVTBGWU01Uy4u&origin=QRCode">richiedere l'accesso qui</a>)</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it">Server Marketo MCP</a></td>
+   <td>Beta aperta</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it" target="_blank">Server Marketo MCP</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -75,7 +75,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>Gestione elenchi di controllo</strong>: è ora possibile specificare i valori che possono essere utilizzati nei campi di Marketo Engage.
    </td>
    <td>Rilasciato</td>
-   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md">Gestione elenchi a discesa</a></td>
+   <td><a href="/help/marketo/product-docs/administration/field-management/picklist-management.md" target="_blank">Gestione elenchi a discesa</a></td>
   </tr>
   <tr>
    <td> </td>
