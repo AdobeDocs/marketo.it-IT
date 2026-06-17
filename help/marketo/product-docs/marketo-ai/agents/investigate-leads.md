@@ -1,9 +1,9 @@
 ---
 description: L’agente lead di Investigate risponde alle domande che gli addetti al marketing si pongono più spesso. È più veloce e affidabile rispetto allo scavo manuale dei registri di attività, alla cronologia intelligente delle campagne e ai record di punteggio.
 title: Indagare sui lead
-source-git-commit: 3895c3c0ffeeafee45193c8ac3ce346a4e59ebb1
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '551'
 ht-degree: 0%
 
 ---

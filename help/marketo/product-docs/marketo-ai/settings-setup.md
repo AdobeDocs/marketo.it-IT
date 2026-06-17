@@ -2,9 +2,9 @@
 description: Scopri come abilitare le autorizzazioni di Marketo AI, configurare le regole organizzative e gestire impostazioni come integrazioni e notifiche.
 title: Impostazioni e configurazione
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 9cc4e828948622b8862f207865dac0f4de6c52a8
+source-git-commit: 3f7d17870cf0d60c716095ae200c003fc8ff0e28
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 1%
 
 ---
@@ -80,7 +80,7 @@ Segui questi passaggi per assegnare un utente specifico al ruolo _Utente di Mark
 
 ### Ruolo personalizzato {#custom-role}
 
-È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Marketo AI_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
+È inoltre possibile [creare un nuovo ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-delete-edit-and-change-a-user-role#create-a-role){target="_blank"} e personalizzarne le autorizzazioni, aggiungendo _Access Marketo AI_, insieme a qualsiasi altro elemento desiderato, e [assegnare tale ruolo](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/managing-user-roles-and-permissions#assign-roles-to-a-user){target="_blank"} a utenti specifici.
 
 ## Impostazioni {#settings}
 
@@ -118,4 +118,4 @@ _Questa scheda può essere visualizzata nell&#39;interfaccia utente, ma non è a
 
 Gestisce le preferenze degli avvisi e i canali di notifica.
 
-_Questa scheda può essere visualizzata nell&#39;interfaccia utente, ma non è ancora disponibile. Controlla di nuovo la disponibilità di aggiornamenti_.
+_Questa scheda può essere visualizzata nell&#39;interfaccia utente, ma non è ancora disponibile. Controllare la disponibilità di aggiornamenti in questo articolo_.
