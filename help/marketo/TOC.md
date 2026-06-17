@@ -3,9 +3,9 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 7706af36b932345f3534190444d9eba29febd924
+source-git-commit: a87250f519eff511c158e9f949761f090a565a45
 workflow-type: tm+mt
-source-wordcount: '8899'
+source-wordcount: '8896'
 ht-degree: 96%
 
 ---
@@ -35,7 +35,6 @@ ht-degree: 96%
       + [Centro assistenza](getting-started/things-to-know/help-center.md)
       + [Iscriviti alle notifiche di stato del sistema](getting-started/things-to-know/system-status-notifications.md)
       + {hide-from-toc}[Assistente AI per la conoscenza del prodotto](getting-started/things-to-know/ai-assistant-for-product-knowledge.md)
-      + {hide-from-toc}[Community nazione di marketing](getting-started/things-to-know/community.md)
       + {hide-from-toc}[Migrazione AWS](getting-started/things-to-know/aws-migration.md)
       + {hide-from-toc}[Nuova interfaccia](getting-started/things-to-know/new-ui.md)
    + Risultati rapidi {#quick-wins}
@@ -1963,4 +1962,3 @@ ht-degree: 96%
       + [2012](release-notes/previous-releases/release-notes-2012.md)
       + [2010-2011](release-notes/previous-releases/2010-2011.md)
       + [2007-2009](release-notes/previous-releases/2007-2009.md)
-
