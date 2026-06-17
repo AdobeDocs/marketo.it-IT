@@ -3,7 +3,7 @@ description: Scopri come utilizzare l’agente Lead di importazione per caricare
 title: Importa lead
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '232'
 ht-degree: 0%
@@ -67,3 +67,4 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
    ![](assets/import-leads-10.png)
 
 Al termine dell’importazione, viene visualizzato un riepilogo di verifica che mostra i lead elaborati, le righe non riuscite ed eventuali avvisi.
+

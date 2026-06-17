@@ -3,7 +3,7 @@ description: Scopri come controllare i programmi per individuare le best practic
 title: Convalida programmi
 badge: beta
 exl-id: 51d4b2d8-44b0-4b51-851f-7cb233baf2d6
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -43,3 +43,4 @@ Controlla i programmi per scoprire le best practice per tutti i componenti, ad e
    L&#39;Assistente IA fornisce un controllo qualità del programma selezionato, mostrando cosa è stato passato e cosa non è riuscito.
 
    ![](assets/validate-programs-6.png)
+
