@@ -2,7 +2,7 @@
 description: L’agente lead di Investigate risponde alle domande che gli addetti al marketing si pongono più spesso. È più veloce e affidabile rispetto allo scavo manuale dei registri di attività, alla cronologia intelligente delle campagne e ai record di punteggio.
 title: Indagare sui lead
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -54,3 +54,4 @@ Scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (
 * Indagine lead di sola lettura. Indica l&#39;accaduto, ma non apporta modifiche al record del lead o all&#39;iscrizione al programma.
 * Per i problemi che si rivelano problemi di qualità dei dati (valori di campo mancanti, origine lead errata), la correzione deve essere eseguita manualmente nel record del lead.
 * Se l’indagine rivela un problema di logica della campagna intelligente che interessa molti lead, utilizza il Controllo qualità del programma per rivedere la configurazione completa del programma.
+

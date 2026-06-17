@@ -2,7 +2,7 @@
 description: Utilizza la conoscenza del prodotto per chiedere a Marketo AI informazioni sulle funzioni, le best practice e le procedure guidate di Marketo Engage. Le risposte si basano sulla documentazione ufficiale di Adobe.
 title: Conoscenza del prodotto
 badge: beta
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
 workflow-type: tm+mt
 source-wordcount: '449'
 ht-degree: 0%
@@ -20,9 +20,7 @@ La conoscenza del prodotto consente di accedere on-demand alle competenze di Mar
 ## Come usare {#how-to-use}
 
 1. In Il mio Marketo, fai clic sul riquadro **IA per Marketo**.
-
 1. Nella finestra del prompt, digita la domanda in linguaggio naturale; non è richiesta alcuna sintassi speciale.
-
 1. La risposta viene fornita. Se hai bisogno di maggiori dettagli o di un angolo diverso, chiedi un follow-up.
 
 ## Casi d’uso {#use-cases}
