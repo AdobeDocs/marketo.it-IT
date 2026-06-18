@@ -33,7 +33,7 @@ A volte è meglio elencare semplicemente le regole. Eccoci qui:
 
 >[!NOTE]
 >
->Il comportamento dei campi booleani in un’unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} ulteriori dettagli.
+>Il comportamento dei campi booleani in un’unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=it){target="_blank"} ulteriori dettagli.
 
 >[!MORELIKETHIS]
 >
