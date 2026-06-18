@@ -23,7 +23,7 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
 workflow-type: tm+mt
 source-wordcount: 3266
 ht-degree: 1%
@@ -594,3 +594,4 @@ Gestisci e monitora i tuoi account chiave ad alto rendimento nella nuova pagina 
 Abbiamo aggiunto un nuovo effetto Scorrimento per le campagne In Zone per consentire ai contenuti personalizzati di scorrere in posizione al caricamento della pagina.
 
 ![](assets/image2014-12-5-11-3a9-3a34.png)
+
