@@ -28,7 +28,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 1857
 ht-degree: 0%
@@ -105,7 +105,7 @@ Marketo sta aggiungendo un’ulteriore origine dati giapponese per Web Personali
 
 Il Web Personalization ora può personalizzare il contenuto per un visitatore web noto che fa parte di un elenco statico definito in Attività di marketing (MLM). Con questo miglioramento, ora puoi vendere a elenchi statici tra canali diversi e indirizzare le persone in tali elenchi con contenuti personalizzati sul tuo sito web.
 
-## ContentAI {#contentai}
+## ContentAI
 
 **Miglioramento dell&#39;algoritmo predittivo**
 
@@ -189,7 +189,7 @@ Condividi facilmente i tuoi grafici rapidi con altri [!UICONTROL Performance Ins
 
 La navigazione ottimizzata e i flussi di lavoro migliorati consentono di visualizzare i criteri di successo del programma e di accedere ai relativi dettagli.
 
-## ContentAI {#contentai}
+## ContentAI
 
 [Impostazione obiettivo](/help/marketo/product-docs/predictive-content/getting-started/algorithm-goal-settings.md)
 
@@ -217,7 +217,7 @@ Le seguenti funzioni sono incluse nella versione di autunno del 1918. Verifica l
 
 Fai clic sui collegamenti del titolo per visualizzare articoli dettagliati per ciascuna funzione, se disponibile.
 
-## Miglioramenti della piattaforma core {#core-platform-enhancements}
+## Miglioramenti della piattaforma core
 
 **[Web Personalization](/help/marketo/product-docs/web-personalization/getting-started/workspaces-in-web-personalization.md)**
 
@@ -305,3 +305,4 @@ Marketo ora supporta l’utilizzo dei campi di disposizione delle e-mail sulle A
 >[!NOTE]
 >
 >Marketo sta inoltre aggiornando le librerie relative all’identità e all’autenticazione. Mentre l’aggiornamento è in corso, se hai una sessione attiva aperta potresti notare errori intermittenti. In caso di problemi, disconnettiti e accedi di nuovo al tuo abbonamento.
+
