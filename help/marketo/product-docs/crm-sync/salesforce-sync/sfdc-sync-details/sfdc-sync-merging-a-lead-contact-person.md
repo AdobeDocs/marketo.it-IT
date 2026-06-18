@@ -5,11 +5,10 @@ title: Sincronizzazione SFDC - Unione di lead/contatti/persone
 exl-id: 0e755c80-27cd-4ba3-b540-d7918264c5f6
 feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
 workflow-type: tm+mt
-source-wordcount: 267
+source-wordcount: 268
 ht-degree: 2%
 
 ---
@@ -33,7 +32,7 @@ A volte è meglio elencare semplicemente le regole. Eccoci qui:
 
 >[!NOTE]
 >
->Il comportamento dei campi booleani in un’unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=it){target="_blank"} ulteriori dettagli.
+>Il comportamento dei campi booleani in un’unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} per ulteriori dettagli.
 
 >[!MORELIKETHIS]
 >
