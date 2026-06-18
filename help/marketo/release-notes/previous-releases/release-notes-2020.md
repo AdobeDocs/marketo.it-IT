@@ -2,38 +2,10 @@
 title: 2020
 description: 2020 - Documentazione di Marketo - Documentazione del prodotto
 feature: Release Information
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1
-  - id: d1956f52-ecfd-4e01-8941-47af238acb0d
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275
-  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
-  - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
-  - id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5
-  - id: ffdd6159-0e10-4a57-8021-94e93bab8183
-topic_v2:
-  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: beb7a3c1-66ab-4786-b879-7621375b3c40
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 4d4669f3239b43afbcbd660644c8d1a35734a556
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a8c137b3-8aa5-433e-bdc9-0a216c2a11c1id: d1956f52-ecfd-4e01-8941-47af238acb0did: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: ea4e3ff5-e7b9-4b4c-a5a0-dc27cc3f4275id: f5e85a9b-a883-40d0-8759-f3651efb32e9id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22id: fd4ca7b1-bd80-47f4-ad1a-846912e45cc5id: ffdd6159-0e10-4a57-8021-94e93bab8183
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: beb7a3c1-66ab-4786-b879-7621375b3c40id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
 workflow-type: tm+mt
 source-wordcount: 4148
 ht-degree: 1%
@@ -67,7 +39,7 @@ Le seguenti funzionalità verranno rilasciate il **17 gennaio 2020**.
 * **API delle dipendenze dei modelli e-mail**: ottieni un elenco di risorse che dipendono da un modello e-mail per comprendere l&#39;ambito delle potenziali modifiche e indirizzare le dipendenze ai modelli in modo che possano essere modificate ed eliminate più rapidamente.
 * **Miglioramenti alla gestione di più istanze**: accedi rapidamente all&#39;istanza desiderata con un menu a discesa scorrevole e in ordine alfabetico delle sottoscrizioni.
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![(stella)](assets/yellow-star.png)
 
@@ -79,7 +51,7 @@ Le seguenti funzionalità verranno rilasciate il **17 gennaio 2020**.
 
 Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![(stella)](assets/yellow-star.png)
 
@@ -88,15 +60,15 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 ## [!DNL Marketo Sky] {#marketo-sky}
 
-* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=it#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
+* [Modifica immagini](https://experienceleague.adobe.com/docs/marketo/sky/design-studio/marketo-image-editor.html?lang=en#design-studio): accedi alle funzionalità di modifica di Adobe senza uscire da Marketo Engage. Questa nuova funzionalità consente di eseguire operazioni quali migliorare, ritagliare e aggiungere testo alle immagini direttamente in [!UICONTROL Design Studio].
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 * **[!DNL Salesforce Lightning]azioni in blocco**: migliora l&#39;efficienza delle vendite e mantiene gli acquirenti coinvolti con la possibilità di aggiungere fino a 200 contatti/lead alle campagne e inviare loro e-mail Marketo Engage in blocco con [!DNL Salesforce Lightning].
 * **Supporto Mobile per[!DNL Salesforce1]**: ora puoi accedere da dispositivi mobili a tutte le funzioni di [!DNL Sales Insight], come Momenti di interesse e Attività Web e e-mail, direttamente nell&#39;app [!DNL Salesforce1].
 * **Miglioramenti all&#39;interfaccia utente**: interfaccia aggiornata con miglioramenti alla leggibilità e una progettazione coerente con l&#39;esperienza [!DNL Marketo Sky].
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 * **Componenti Griglia**: ottimizzare l&#39;istanza [!DNL Sales Connect] con nuove funzionalità di personalizzazione della griglia. Scegliere le colonne da visualizzare, cercare le colonne, selezionare o deselezionare tutte le colonne e determinare il numero di righe di dati da visualizzare in ogni pagina.
 * **[Blocco dei contenuti](/help/marketo/product-docs/marketo-sales-connect/admin/content-lockdown.md)**: massimizza l&#39;allineamento del brand con un&#39;impostazione a livello di abbonamento che controlla se i non amministratori possono creare e modificare modelli e campagne.
@@ -119,9 +91,9 @@ Le seguenti funzioni sono incluse nella versione di febbraio 2020. Verifica la d
 
 **_Versioni trimestrali_** Le seguenti funzionalità sono state rilasciate il **21 febbraio 2020**.
 
-## Marketo Engage core {#core-marketo-engage}
+## Marketo Engage core
 
-* Azione di flusso **&quot;Change Owner in Microsoft&quot; di**&#x200B;[!DNL Microsoft Dynamics]: mantieni il controllo dei tuoi dati di gestione delle relazioni con i clienti [!DNL Microsoft Dynamics] con la possibilità di modificare un proprietario lead/contatto direttamente da Marketo Engage. Questo è un miglioramento della funzionalità di integrazione CRM nativa.
+* Azione di flusso **&quot;Change Owner in Microsoft&quot; di**[!DNL Microsoft Dynamics]: mantieni il controllo dei tuoi dati di gestione delle relazioni con i clienti [!DNL Microsoft Dynamics] con la possibilità di modificare un proprietario lead/contatto direttamente da Marketo Engage. Questo è un miglioramento della funzionalità di integrazione CRM nativa.
 * **API per la gestione degli utenti**: gestione automatizzata di utenti e ruoli tramite sistemi esterni di gestione delle identità e delle organizzazioni. Questo è un miglioramento della funzionalità Chiamate API.
 * **API per schemi di oggetti personalizzati**: gestisci ed esegui il provisioning automatico degli schemi di oggetti personalizzati tra le istanze in Marketo Engage per mantenere coerenza tra i modelli di dati degli strumenti di vendita e marketing. Con questa API, puoi definire e testare gli oggetti personalizzati in una sandbox o in un centro di eccellenza ed eseguire il provisioning di tutte le istanze necessarie. Questo è un miglioramento della funzionalità Chiamate API. Per informazioni su come ottenere l’accesso a questo miglioramento, contatta il rappresentante Marketo Engage.
 * **API per le regole di reindirizzamento delle pagine di destinazione**: gestione automatizzata delle regole di reindirizzamento delle pagine di destinazione. Questo è un miglioramento della funzionalità Chiamate API.
@@ -133,7 +105,7 @@ Le seguenti funzioni sono incluse nella versione di febbraio 2020. Verifica la d
 
 Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![(stella)](assets/yellow-star.png)
 
@@ -141,18 +113,18 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 * **Salvataggio filtri**: salva filtri specifici per dashboard specifici di ogni utente per analizzare i dashboard in modo rapido e coerente.
 * **Esporta in PDF**: condividi informazioni importanti nell&#39;organizzazione esportando dashboard Bizible come PDF.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 * **Aggiornamenti finestra composizione**: il processo di selezione dei modelli e l&#39;invio di e-mail tramite [!DNL Sales Connect] è stato semplificato. Utilizza la finestra Componi nel nostro client web e Salesforce come punto di riferimento per i venditori, con la possibilità di salvare categorie di modelli, pianificare le e-mail, inviare le e-mail in blocco e inviare e-mail con visualizzazione e tracciamento dei clic.
 * **Aggiornamenti del centro di comando**: è in corso la ricostruzione del centro di comando [!DNL Sales Connect] per consentire ai venditori insight di accedere a tutte le e-mail, le chiamate e le attività avviate da [!DNL Sales Connect]. Possono inoltre visualizzare informazioni quali il coinvolgimento e-mail e il recapito messaggi dal Command Center.
 
 <br> 
 
-## Annunci {#announcements}
+## Annunci
 
 * **Success Center di Marketo Engage**: verrà avviato il Success Center di Marketo a febbraio 2020. Success Center è un centro di assistenza interno al prodotto che consente di effettuare ricerche nei documenti sui prodotti e nella community, avviare guide pratiche, accedere a contenuti di adozione come Marketo University, video sulle best practice per i colleghi e altro ancora direttamente dall’istanza di Marketo Engage. **Nota**: questa funzionalità verrà avviata come versione beta in Australia e Nuova Zelanda e verrà implementata in Nord America in un secondo momento nel corso del trimestre.
 
-## Funzionalità deprecate {#deprecations}
+## Funzionalità deprecate
 
 * **Parametro &quot;_method&quot; di Asset API**: dopo settembre 2020, Asset API Endpoints non accetterà più &quot;_method&quot; per passare i parametri di query nel corpo di un POST per aggirare le limitazioni relative alla lunghezza degli URI. Per soddisfare le richieste che richiedevano questo parametro, il limite URI per le API Asset verrà aumentato da 6KiB a 65KiB, in modo da poter inviare URI di richiesta lunghi.
 * **Supporto Internet Explorer**: a partire dalla versione di luglio del 31 luglio 2020, l&#39;interfaccia utente di Marketo Engage non sarà più supportata in Internet Explorer.
@@ -169,9 +141,9 @@ Le seguenti funzioni sono incluse nella versione di giugno 2020. Verifica la dis
 
 **_Versioni trimestrali_** Le seguenti funzionalità verranno rilasciate il **5 giugno 2020**.
 
-## Marketo Engage core {#core-marketo-engage}
+## Marketo Engage core
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=it#predictive-audiences)** ![(star)](assets/yellow-star.png): i nuovi filtri per elenchi avanzati e campagne intelligenti basati su Adobe AI ti consentono di creare segmenti di pubblico basati sull’intelligenza artificiale per programmi di marketing di e-mail, eventi e webinar. Utilizza l’intelligenza artificiale per segmentare il pubblico in base alla probabilità di lead per registrarti a un evento, partecipare a un evento o annullare l’abbonamento. Crea tipi di pubblico simili in base a programmi passati per replicare in modo efficiente i successi precedenti. Raggiungi gli obiettivi di conversione con il tracciamento predittivo degli obiettivi e ottieni consigli su come perfezionare i segmenti di pubblico per i programmi evento.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png): i nuovi filtri per elenchi avanzati e campagne intelligenti basati su Adobe AI ti consentono di creare segmenti di pubblico basati sull’intelligenza artificiale per programmi di marketing di e-mail, eventi e webinar. Utilizza l’intelligenza artificiale per segmentare il pubblico in base alla probabilità di lead per registrarti a un evento, partecipare a un evento o annullare l’abbonamento. Crea tipi di pubblico simili in base a programmi passati per replicare in modo efficiente i successi precedenti. Raggiungi gli obiettivi di conversione con il tracciamento predittivo degli obiettivi e ottieni consigli su come perfezionare i segmenti di pubblico per i programmi evento.
 * **Incremento e-mail in batch** ![(stella)](assets/yellow-star.png): è stata migliorata la funzionalità di e-mail marketing, che consente di inviare fino a 3 milioni di e-mail in batch all&#39;ora. Abbiamo riprogettato l’elaborazione delle campagne batch e dei rapporti e-mail per migliorare le prestazioni dei programmi e-mail e delle campagne e-mail batch. Ciò consente di ridurre il lead time di invio e di migliorare il tempo di completamento. La configurazione degli invii di e-mail normalmente non comporta complessità aggiuntive. Questo miglioramento è disponibile come componente aggiuntivo di prodotto che include anche un pacchetto di lancio dei servizi di consegna, strumenti di consegna e-mail e più indirizzi IP dedicati.
 * **[Integrazione del pubblico con Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: nuova integrazione Adobe Experience Cloud (AEC) che consente di sincronizzare elenchi statici di lead noti da Marketo Engage con più applicazioni AEC per migliorare i programmi esistenti, sbloccare nuovi casi d&#39;uso e orchestrare campagne multicanale. Questa integrazione include Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager e Adobe Advertising Cloud.
 * **[Campi personalizzati del membro del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: acquisire e utilizzare campi personalizzati su un membro del programma. Utilizza questi nuovi campi nei Marketo Engage Form, visualizzali nell’elenco dei membri di un programma, sfruttali nei filtri e nei trigger dell’elenco avanzato e includili in una nuova Azione di flusso di Smart Campaign per una maggiore automazione e una personalizzazione più granulare. Questi possono anche essere importati ed esportati tramite l’interfaccia utente e le API. Miglioramento della funzionalità per campi e oggetti dati personalizzati.
@@ -181,7 +153,7 @@ Le seguenti funzioni sono incluse nella versione di giugno 2020. Verifica la dis
 * **Imposta preintestazione e-mail tramite API**: abilita la traduzione e la localizzazione automatiche dei campi di preintestazione e-mail. Miglioramento della nostra API.
 * **Memorizzazione in cache di immagini e file**: è in corso l&#39;aumento della stabilità del server Marketo Engage distribuendo le risorse di immagini e file da una cache di 60 secondi.
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![(stella)](assets/yellow-star.png)
 
@@ -195,17 +167,17 @@ Le seguenti funzioni sono incluse nella versione di giugno 2020. Verifica la dis
 
 Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
-## [!DNL Bizible] {#bizible}
+## [!DNL Bizible]
 
 ![(stella)](assets/yellow-star.png)
 
 * **Integrazione dei programmi Marketo Engage**: estrarre i dati del programma direttamente da Marketo Engage per creare punti di contatto lungo il percorso di attribuzione in [!DNL Bizible] per accreditare in modo appropriato i programmi di e-mail e coinvolgimento. Miglioramento dell&#39;integrazione con Marketo Engage.
 * **Integrazione delle attività di Marketo Engage (BETA)**: inserisci i dati delle attività di Marketo Engage direttamente in [!DNL Bizible] per creare punti di contatto nel percorso di clienti e in tutti i modelli di attribuzione. Alcuni esempi includono modifiche del punteggio di lead, momenti di interesse, clic su e-mail o altre attività personalizzate. Miglioramento dell&#39;integrazione con Marketo Engage.
-* Integrazione degli attributi del cliente B2B **[!DNL Bizible] (BETA)**: si tratta di un&#39;integrazione Adobe Experience Cloud con Adobe Analytics che consente di inserire dati Bizible selezionati direttamente in Adobe Analytics per un&#39;analisi più approfondita. Alcuni esempi includono il traffico del sito basato sull&#39;account e l&#39;analisi dei contenuti per nome società, attributi dell&#39;account, opportunità di gestione delle relazioni con i clienti e singoli utenti di valore elevato come definiti da [!DNL Bizible] ricavi attribuiti e fase funnel.
+* Integrazione degli attributi del cliente B2B **[!DNL Bizible](BETA)**: si tratta di un&#39;integrazione Adobe Experience Cloud con Adobe Analytics che consente di inserire dati Bizible selezionati direttamente in Adobe Analytics per un&#39;analisi più approfondita. Alcuni esempi includono il traffico del sito basato sull&#39;account e l&#39;analisi dei contenuti per nome società, attributi dell&#39;account, opportunità di gestione delle relazioni con i clienti e singoli utenti di valore elevato come definiti da [!DNL Bizible] ricavi attribuiti e fase funnel.
 * **[!DNL Bizible]Filtri di individuazione e miglioramenti**: Analizza i tuoi dati con filtri per canali, sottocanale, campagne e segmenti nelle dashboard. Maggiore visibilità dei dati con un maggior numero di attributi di espansione. Questo è un miglioramento alle nostre Discover Boards.
 * **Sincronizzazione attività per[!DNL Microsoft Dynamics]**: attribuisci le interazioni di vendita inserendo [!DNL Microsoft Dynamics] attività di gestione delle relazioni con i clienti nel percorso di punti di contatto e tieni traccia di eventi quali chiamate, appuntamenti o attività associate ai tuoi lead o contatti. Miglioramento dell&#39;integrazione CRM di [!DNL Microsoft Dynamics].
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(stella)](assets/yellow-star.png)
 
@@ -213,13 +185,13 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 <br> 
 
-## Annunci {#announcements}
+## Annunci
 
 * **Aggiornamento RTP ITP 2.1+**: a causa delle modifiche ai criteri dei cookie per [!DNL Safari], la possibilità dei cookie RTP di tenere traccia degli utenti tra sessioni sullo stesso dominio sarà limitata da ITP a 1 o 7 giorni in base alla versione del browser e del browser utilizzati dal visitatore. Per questo, stiamo implementando un nuovo servizio web per consentire l’impostazione dei cookie RTP con un’intestazione Set-Cookie tramite risposta HTTP. Ulteriori informazioni sono disponibili [qui](https://nation.marketo.com/t5/Knowledgebase/Browser-Cookie-Updates-How-Marketo-RTP-Is-Affected/ta-p/299603).
 
 * **Modifiche all&#39;infrastruttura delle campagne batch**: i servizi delle campagne batch verranno aggiornati per il resto dell&#39;anno. Si tratterà di un aggiornamento senza soluzione di continuità che non influirà sulle campagne batch in corso e non comporterà un cambiamento di comportamento. Non è richiesta alcuna azione. Trova ulteriori dettagli in questo [Post nazione](https://nation.marketo.com/t5/Product-Documents/Batch-Campaign-Processing-Infrastructure-Update/ta-p/301374).
 
-## Funzionalità deprecate {#deprecations}
+## Funzionalità deprecate
 
 * **[Associa lead Munchkin](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: a partire dalla versione 159 di [!DNL Munchkin] JS, quando viene richiamato il metodo Associa lead verrà registrato un avviso di elementi obsoleti nella console del browser, a indicare che la funzionalità verrà rimossa in una versione futura.  La pianificazione completa degli elementi obsoleti verrà annunciata in un secondo momento.
 
@@ -235,11 +207,11 @@ Le seguenti funzioni sono incluse nella versione di luglio 2020. Verifica la dis
 
 **_Versioni trimestrali_** Le seguenti funzionalità verranno rilasciate il **31 luglio 2020**.
 
-## Amministrazione {#administration}
+## Amministrazione
 
 * **[Esportazione &quot;Utilizzato da&quot; in Gestione campi](/help/marketo/product-docs/administration/field-management/export-used-by-data-for-a-field.md)**: gli amministratori ora possono esportare tutti i collegamenti alle risorse &quot;Usato da&quot; per un campo selezionato in un file CSV. Questo miglioramento può aiutare sia gli amministratori che i non amministratori a pulire i campi non utilizzati. Inoltre, ora è possibile aprire le risorse in una nuova scheda o finestra del browser.
 
-## Account-Based Marketing {#account-based-marketing}
+## Account-Based Marketing
 
 ![(stella)](assets/yellow-star.png)
 
@@ -259,13 +231,13 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 * **Limite dimensione URI API risorsa aumentato**: il limite dimensione URI (Uniform Resource Identifier) viene aumentato da 8 KB a 65 KB prima della rimozione del parametro &quot;_method&quot;. Quando si eseguono stringhe di query lunghe, questo aumento del limite di dimensione consentirà ai dati di passare più facilmente. La rimozione del parametro &quot;_method&quot; fa parte di un aggiornamento della sicurezza imminente.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(stella)](assets/yellow-star.png)
 
 * **[[!DNL Sales Insight] Abilitato per i clienti con integrazione CRM non nativa [!DNL Salesforce] CRM](/help/marketo/product-docs/marketo-sales-insight/sales-insight-for-non-native-salesforce-integrations.md) (Beta)**: i clienti Marketo Engage con integrazioni CRM [!DNL Salesforce] non native ora possono utilizzare [!DNL Sales Insight] per aiutare i loro team di vendita a comprendere, assegnare priorità e interagire con i lead e le opportunità più coinvolti per consentire vendite intelligenti e offerte più veloci.
 
-## [!DNL Sales Connect] {#sales-connect}
+## [!DNL Sales Connect]
 
 ![(stella)](assets/yellow-star.png)
 
@@ -273,11 +245,11 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 
 <br> 
 
-## Annunci ed elementi obsoleti {#announcements-deprecations}
+## Annunci ed elementi obsoleti
 
 * **Rimozione parametro &quot;_method&quot; di Asset API**: dopo settembre 2020, gli endpoint di Asset API non accetteranno più &quot;_method&quot; per passare i parametri di query nel corpo di un POST per aggirare le limitazioni relative alla lunghezza degli URI. Per soddisfare le richieste che richiedevano questo parametro, i limiti URI per le API Asset verranno aumentati da 8 KB a 65 KB.
 * **[[!DNL Munchkin] Associa lead](https://developers.marketo.com/blog/deprecation-of-munchkin-associate-lead-method/)**: con questa versione del client Munchkin JavaScript, versione 159, verrà dichiarata obsoleta la versione del metodo [!DNL Munchkin] Associa lead. Se richiamato, riceverai un avviso che indica che il metodo verrà rimosso in una versione futura. Una volta rimosso, il metodo non sarà più funzionale e i tentativi di utilizzarlo non riusciranno. I clienti Marketo Engage che hanno utilizzato di recente questo metodo riceveranno una notifica individuale del loro utilizzo.
-* **Supporto per Internet Explorer**: come annunciato in precedenza, il supporto di Marketo Engage per Internet Explorer 11 termina il **31 luglio 2020**. Continueremo a supportare [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL &#x200B; Apple Safari] e [!DNL Microsoft Edge].
+* **Supporto per Internet Explorer**: come annunciato in precedenza, il supporto di Marketo Engage per Internet Explorer 11 termina il **31 luglio 2020**. Continueremo a supportare [!DNL Google Chrome], [!DNL Mozilla Firefox],[!DNL  Apple Safari] e [!DNL Microsoft Edge].
 * **Esperienza predefinita Sky**: l&#39;opzione che consente agli amministratori o agli utenti di impostare [!DNL Marketo Sky] come esperienza predefinita verrà rimossa in questa versione in preparazione di un aggiornamento dell&#39;esperienza utente principale. Ulteriori dettagli sull’aggiornamento dell’esperienza principale, pianificato per la fine dell’anno, saranno disponibili a luglio. Gli utenti che hanno impostato [!DNL Marketo Sky] come esperienza predefinita o a cui è stato concesso l&#39;accesso a [!DNL Marketo Sky] possono continuare ad accedere a [!DNL Marketo Sky] da un riquadro nella home page di My Marketo.
 * Supporto di **EdgeHTML (non Chromium) [!DNL Microsoft Edge]**: Marketo Engage non supporterà più le versioni EdgeHTML di Microsoft Edge alla fine del 2020. A partire dal 1° gennaio 2021, supporteremo solo l’ultima versione di Microsoft Edge in formato Chromium.
 
@@ -305,9 +277,9 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 * **Incorpora automazione codice modulo**: acquisisci altri lead con Marketo Engage Form incorporati nelle pagine di destinazione protette ospitate al di fuori di Marketo. Il codice di incorporamento del modulo si aggiorna automaticamente per includere il nome di dominio della pagina di destinazione ed elimina il lavoro manuale per gli sviluppatori web. Il dominio personalizzato nel collegamento di codice migliora le esperienze di navigazione del sito web e l’utilizzo dei moduli.
 
-## Integrazione di Experience Cloud {#experience-cloud-integration}
+## Integrazione con Experience Cloud {#experience-cloud-integration}
 
-* **Sincronizzazione continua del pubblico da Adobe Experience Cloud a Marketo Engage**: esegui il targeting dei lead con Marketo Engage in base ai dati di intento di prime parti da Adobe Analytics, Adobe Audience Manager o Adobe Real-Time CDP. Aggiorna automaticamente gli elenchi statici di Marketo Engage tramite sincronizzazione continua, aggiungi lead a programmi e-mail o di coinvolgimento e avvisa le vendite quando i lead sono pronti.
+* **Sincronizzazione continua del pubblico da Adobe Experience Cloud a Marketo Engage**: rivolgiti ai lead con Marketo Engage in base ai dati di intenti di prime parti da Adobe Analytics, Adobe Audience Manager o Adobe Real-Time CDP. Aggiorna automaticamente gli elenchi statici di Marketo Engage tramite sincronizzazione continua, aggiungi lead a programmi e-mail o di coinvolgimento e avvisa le vendite quando i lead sono pronti.
 
 ## Integrazione CRM {#crm-integration}
 
@@ -319,7 +291,7 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 * Integrazioni di **[!DNL Facebook]annunci lead**: è ora possibile acquisire [!DNL Facebook] parametri di tracciamento dei moduli tramite il servizio LaunchPoint per [!DNL Facebook] annunci lead. Questi campi nascosti possono ora essere mappati sui campi Marketo, consentendo agli addetti al marketing di memorizzare e agire sui dati di tracciamento delle campagne.
 
-## Amministrazione {#administration}
+## Amministrazione
 
 * **Esporta ruoli e autorizzazioni**: esporta ruoli e autorizzazioni in fogli di calcolo per facilitarne la condivisione tra i team dell&#39;organizzazione. Eseguire controlli di ruoli e autorizzazioni più semplici e veloci.
 
@@ -335,13 +307,13 @@ Le seguenti funzioni sono incluse nella versione di ottobre 2020. Verifica la di
 
 Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei prossimi mesi.
 
-## [!DNL Sales Insight] {#sales-insight}
+## [!DNL Sales Insight]
 
 ![(stella)](assets/yellow-star.png)
 
 * **Opzioni di configurazione per l&#39;ottimizzazione API e la nuova governance**: migliorare l&#39;esperienza utente di [!DNL Sales Insight] tramite l&#39;ottimizzazione API avanzata e l&#39;aggiunta di funzionalità di governance. Le impostazioni di configurazione consentono agli amministratori di definire il modo in cui le campagne e gli eventi vengono caricati nel dashboard di Sales Insight. Le attività di calendario flessibili visualizzano opzioni che riducono l’utilizzo delle API e migliorano l’esperienza complessiva.
 
-## Annunci ed elementi obsoleti {#announcements-deprecations}
+## Annunci ed elementi obsoleti
 
 * **Nuovo aspetto Marketo Engage**: le nuove versioni dei grafici a linee, a barre, a colonne e a torta forniscono visualizzazioni aggiornate in Marketo Engage, incluse le attività di marketing, tutte le funzionalità di reporting e la visualizzazione dei dati visualizzata nelle attività di marketing. Questo aggiornamento risponde al fatto che Adobe Flash ha raggiunto la fine del ciclo di vita il 31 dicembre 2020.
 
@@ -354,3 +326,4 @@ Le seguenti funzioni sono in un ciclo non trimestrale e verranno rilasciate nei 
 ## Webinar sulla versione del prodotto {#product-release-webinar}
 
 Guarda la registrazione del webinar sulla versione del prodotto [qui](https://engage.marketo.com/Oct_20_Release_OnDemand.html).
+
