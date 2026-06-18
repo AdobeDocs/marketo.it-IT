@@ -7,10 +7,10 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 25bbf4409df3db38b849d936e2a90b48f859d089
 workflow-type: tm+mt
-source-wordcount: 204
-ht-degree: 3%
+source-wordcount: 267
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,13 @@ A volte è meglio elencare semplicemente le regole. Eccoci qui:
 >L’unione di 3 lead (persone) con un punteggio di 10 ciascuno genera il risultato di 1 lead (persona) con un punteggio di 30.
 
 * I valori dei campi in conflitto vengono ricavati dal &quot;record vincente&quot;. (Record = lead o contatto risultante)
-* Se il &quot;record perdente&quot; (quello che sta scomparendo) ha un valore e il record vincente non ha alcun valore, manterremo il record perdente. In altre parole, &quot;Un certo valore è meglio di nessun valore&quot;.
+* Se il &quot;record perdente&quot; (quello che sta scomparendo) aveva un valore e il record vincente non ha alcun valore (o è nullo), manterremo il record perdente. In altre parole, &quot;Un certo valore è meglio di nessun valore&quot;.
 * Tutti gli elementi del registro attività vengono uniti.
 
 >[!NOTE]
 >
->Approfondisci per ulteriori informazioni sull&#39;unione di [persone in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md){target="_blank"}.
+>Il comportamento dei campi booleani in un’unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=it){target="_blank"} ulteriori dettagli.
+
+>[!MORELIKETHIS]
+>
+>Approfondisci per ulteriori informazioni sull&#39;unione di [persone in Marketo](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/find-and-merge-duplicate-people.md).
