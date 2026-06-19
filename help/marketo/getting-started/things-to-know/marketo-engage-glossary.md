@@ -42,9 +42,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
-source-wordcount: 6102
+source-wordcount: 6103
 ht-degree: 62%
 
 ---
@@ -331,7 +331,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
     <div>
      <p><strong> Programma predefinito</strong></p>
     </div></td>
-   <td colspan="1">Un tipo di programma in Marketo. Un programma generico da utilizzare quando un programma di e-mail, evento o coinvolgimento non è rilevante. <br></td>
+   <td colspan="1">Un tipo di programma in Marketo. Un programma generico che utilizzerai quando un’e-mail, un evento o un programma di coinvolgimento non è pertinente. <br></td>
   </tr>
   <tr>
    <td colspan="1"><strong>Indirizzo IP dedicato</strong></td>
@@ -478,7 +478,7 @@ Di seguito sono riportate le definizioni di molti dei termini che è possibile i
    <td colspan="1">Quando una persona ha ricevuto ogni elemento di contenuto in un flusso di coinvolgimento. Le persone contrassegnate come esaurite rimarranno tali fino all'aggiunta di ulteriori <strong>contenuti</strong>.</td>
   </tr>
   <tr>
-   <td colspan="1"><strong>Sincronizzazione pubblico Experience Cloud</strong></td>
+   <td colspan="1"><strong>Sincronizzazione pubblico di Experience Cloud</strong></td>
    <td colspan="1">Funzione che sincronizza i segmenti di pubblico tra Marketo Engage e altre applicazioni Adobe Experience Cloud (come Adobe Experience Platform), consentendo un targeting coerente del pubblico in tutto l’ecosistema Adobe.</td>
   </tr>
  </tbody>
