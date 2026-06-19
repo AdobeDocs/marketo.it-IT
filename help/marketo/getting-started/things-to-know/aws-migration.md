@@ -4,7 +4,7 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1f54476f0f7d66f6250299464b3c1145b11e86b1
+source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -46,7 +46,7 @@ Prima di esaminare le tabelle seguenti, [scopri come identificare](/help/marketo
 
 ## Pianificazione {#schedule}
 
-Vengono aggiunte periodicamente nuove date e informazioni sui data center/pod, quindi controlla qui per ulteriori dettagli.
+Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, quindi controlla qui per ulteriori dettagli.
 
 <table>
  <tbody>
@@ -74,7 +74,7 @@ Vengono aggiunte periodicamente nuove date e informazioni sui data center/pod, q
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Indirizzi IP da aggiungere {#ip-addresses}
@@ -99,9 +99,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 18.200.201.81<br>
 54.220.138.65</td>
   </tr>
-  &lt;/body>
+  </body>
   </table>
 
 ## Aggiornamenti e supporto
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
