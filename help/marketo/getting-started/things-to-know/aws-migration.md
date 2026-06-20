@@ -4,7 +4,7 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 6137b262cf085d5b270d16e0bf3e4e39351c5af4
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 3%
@@ -74,34 +74,34 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  &lt;/body>
-  </table>
+  </body>
+</table>
 
 ## Indirizzi IP da aggiungere {#ip-addresses}
 
 In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi indirizzi IP.
 
 <table>
- <tbody>
-  <tr>
-   <th style="width:25%">Data center</th>
-   <th style="width:75%">Indirizzi IP</th>
-  </tr>
-  <tr>
-   <td>AB</td>
-   <td>54.160.246.246<br>
-   54.237.141.197<br>
-   52.20.211.99</td>
-  </tr>
-  <tr>
-   <td>NLD</td>
-   <td>34.247.24.245<br>
+<tbody>
+<tr>
+  <th style="width:25%">Data center</th>
+  <th style="width:75%">Indirizzi IP</th>
+</tr>
+<tr>
+  <td>AB</td>
+  <td>54.160.246.246<br>
+  54.237.141.197<br>
+  52.20.211.99</td>
+</tr>
+<tr>
+  <td>NLD</td>
+  <td>34.247.24.245<br>
 18.200.201.81<br>
 54.220.138.65</td>
-  </tr>
-  &lt;/body>
-  </table>
+</tr>
+</body>
+</table>
 
 ## Aggiornamenti e supporto
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.

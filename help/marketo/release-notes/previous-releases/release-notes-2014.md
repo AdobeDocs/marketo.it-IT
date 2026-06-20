@@ -2,28 +2,10 @@
 title: 2014
 description: 2014 - Documentazione di Marketo - Documentazione del prodotto
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
-  - id: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1
-  - id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bccid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: a1d50dda-6d94-4e16-8c30-5eb7181c4650id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: d5c7388a-594e-4d15-9b39-98d6ce479e8bid: d5f08d55-2fea-44e2-b699-c9c3a8a79cf1id: fc5c4f1e-5467-43ac-94e9-0acfa71c517d
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: d095671a-1355-40aa-8b5f-06c33c68080bid: e0eb8757-182f-49f3-94a4-1587d16f5094id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 3266
 ht-degree: 1%
@@ -325,7 +307,7 @@ Oltre al calendario di marketing con cui gestisci gli eventi e i programmi prede
 
 ## Elencare le operazioni nell’API REST {#list-operations-in-the-rest-api}
 
-Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+Abbiamo aggiunto le seguenti chiamate relative alle operazioni di elenco in ReST. Per la documentazione completa, consulta [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 * Ottieni elenco per ID
 * Ottieni più elenchi
@@ -356,7 +338,7 @@ La pagina Imposta campagna RTP ora [include modelli già pronti](/help/marketo/p
 
 ## RTP: miglioramenti API di JavaScript {#rtp-javascript-api-enhancements}
 
-Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
+Nuova chiamata API RTP per ottenere i dati dei visitatori in tempo reale come organizzazione, settore, posizione e corrispondenza del codice di segmento. Inoltre, passando il cursore sul nome di un segmento nella pagina Segmenti viene visualizzata una descrizione comando che mostra il codice del segmento. Per la documentazione completa, consulta il [sito per sviluppatori](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation).
 
 ![](assets/image2014-9-22-14-3a26-3a11.png)
 
@@ -469,7 +451,7 @@ Utilizza l’API per richiamare nuove attività o modifiche ai lead:
 * Ottieni tipi di attività
 * Ottieni token di paging
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/rest-api](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api).
 
 ## MSI - Invia e-mail Marketo per [!DNL Microsoft Dynamics] {#msi-send-marketo-email-for-microsoft-dynamics}
 
@@ -509,7 +491,7 @@ Utilizza una nuova chiamata che tiene traccia della cronologia delle visite prec
 * Prodotti interessati a
 * Quali campagne RTP hanno visto
 
-Visita [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.
+Visita [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/rich-media-recommendation) per informazioni dettagliate.
 
 ## Dicembre 2014 {#december}
 
@@ -565,7 +547,7 @@ Tre nuove chiamate per l’API REST per lead e attività:
 
 · Unisci lead
 
-I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
+I dettagli completi saranno disponibili dopo il rilascio all&#39;indirizzo [https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/home](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/home)
 
 ## [!DNL Munchkin Javascript] miglioramenti alla compatibilità {#munchkin-javascript-compatibility-enhancements}
 
