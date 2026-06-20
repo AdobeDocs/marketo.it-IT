@@ -74,7 +74,7 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
    <td>17:00 PST<br>
    18:00 PST</td>
   </tr>
-  </body>
+  &lt;/body>
 </table>
 
 ## Indirizzi IP da aggiungere {#ip-addresses}
@@ -99,7 +99,7 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-</body>
+&lt;/body>
 </table>
 
 ## Aggiornamenti e supporto
