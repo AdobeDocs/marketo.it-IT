@@ -4,10 +4,10 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: 51020c6772c6a81ef53f3a0effcf43cda01f85f4
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 3%
+source-wordcount: '390'
+ht-degree: 2%
 
 ---
 
@@ -58,23 +58,42 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
   <tr>
    <td>19 giugno 2026</td>
    <td>AB46</td>
-   <td>17:00 PST</td>
+   <td>POSTICIPATO</td>
   </tr>
   <tr>
    <td>8 luglio 2026</td>
    <td>AB69<br>
    AB64</td>
-   <td>17:00 PST<br>
-   18:00 PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
   </tr>
   <tr>
    <td>9 luglio 2026</td>
    <td>AB70<br>
    AB43</td>
-   <td>17:00 PST<br>
-   18:00 PST</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
   </tr>
-  &lt;/body>
+  <tr>
+   <td>13 luglio 2026</td>
+   <td>NLD101</td>
+   <td>10:00 PDT</td>
+  </tr>
+  <tr>
+   <td>15 luglio 2026</td>
+   <td>NLD102<br>
+   NLD104</td>
+   <td>10:00 PDT<br>
+   11:00 PDT</td>
+  </tr>
+  <tr>
+   <td>17 luglio 2026</td>
+   <td>NLD103<br>
+   NLD105</td>
+   <td>10:00 PDT<br>
+   11:00 PDT</td>
+  </tr>
+  </body>
 </table>
 
 ## Indirizzi IP da aggiungere {#ip-addresses}
@@ -99,9 +118,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
 ## Aggiornamenti e supporto
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
