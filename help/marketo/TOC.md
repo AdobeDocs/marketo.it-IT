@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: 85837c6612724787d58179dd69ff44b91a909b79
 workflow-type: tm+mt
 source-wordcount: '8893'
 ht-degree: 96%
@@ -502,12 +502,12 @@ ht-degree: 96%
                + [Passaggio 1 di 3: installare la soluzione Marketo - On-premise 2015/Dynamics 365 On-premise 2016](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-1-of-3-install.md)
                + [Passaggio 2 di 3: configurare l’utente di Marketo Sync in Dynamics On-premise 2015/Dynamics 365 On-premise 2016](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-2-of-3-set-up.md)
                + [Passaggio 3 di 3: connettere Marketo e Dynamics On-premise 2015/Dynamics 365 On-premise 2016](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-2016-dynamics-365-on-premises/step-3-of-3-connect.md)
-            + Microsoft Dynamics 365 con connessione ROPC{#microsoft-dynamics-365-with-ropc-connection}
+            + Microsoft Dynamics 365 con connessione ROPC {#microsoft-dynamics-365-with-ropc-connection}
                + [Passaggio 1 di 4: installare la soluzione Marketo con la connessione ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-1-of-4-install.md)
                + [Passaggio 2 di 4: configurare la soluzione Marketo con la connessione ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-2-of-4-set-up.md)
                + [Passaggio 3 di 4: configurare l’app client su MS Dynamics](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-3-of-4-set-up.md)
                + [Passaggio 4 di 4: collegare la soluzione Marketo con la connessione ROPC](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-ropc-connection/step-4-of-4-connect.md)
-            + Microsoft Dynamics 365 con connessione S2S{#microsoft-dynamics-365-with-s2s-connection}
+            + Microsoft Dynamics 365 con connessione S2S {#microsoft-dynamics-365-with-s2s-connection}
                + [Passaggio 1 di 3: installare la soluzione Marketo con la connessione S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-1-of-3-install.md)
                + [Passaggio 2 di 3: configurare la soluzione Marketo con la connessione S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up.md)
                + [Passaggio 3 di 3: collegare la soluzione Marketo con la connessione S2S](product-docs/crm-sync/microsoft-dynamics-sync/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-3-of-3-connect.md)
@@ -1285,7 +1285,7 @@ ht-degree: 96%
       + People {#people}
          + [Visualizzazione dettagli persona](product-docs/marketo-sales-connect/people/person-detail-view.md)
          + [Sales Connect e la conformità ai requisiti GDPR](product-docs/marketo-sales-connect/people/sales-connect-and-gdpr-compliance.md)
-         + Gestione dei contatti {#manging-contacts}
+         + Gestione dei contatti {#managing-contacts}
             + [Azioni in blocco sulle persone](product-docs/marketo-sales-connect/people/managing-contacts/bulk-actions-on-people.md)
             + [Creazione ed eliminazione di contatti](product-docs/marketo-sales-connect/people/managing-contacts/creating-and-deleting-contacts.md)
             + [Tipi di gruppo](product-docs/marketo-sales-connect/people/managing-contacts/group-types.md)
