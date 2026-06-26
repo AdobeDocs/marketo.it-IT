@@ -1,5 +1,5 @@
 ---
-title: 2020
+title: "2020"
 description: 2020 - Documentazione di Marketo - Documentazione del prodotto
 feature: Release Information
 feature_v2:
@@ -33,7 +33,7 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 5247efff11566852d4c7271f1d212cc233593c19
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
 source-wordcount: 4148
 ht-degree: 1%
@@ -171,7 +171,7 @@ Le seguenti funzioni sono incluse nella versione di giugno 2020. Verifica la dis
 
 ## Marketo Engage core
 
-* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=en#predictive-audiences)** ![(star)](assets/yellow-star.png): i nuovi filtri per elenchi avanzati e campagne intelligenti basati su Adobe AI ti consentono di creare segmenti di pubblico basati sull’intelligenza artificiale per programmi di marketing di e-mail, eventi e webinar. Utilizza l’intelligenza artificiale per segmentare il pubblico in base alla probabilità di lead per registrarti a un evento, partecipare a un evento o annullare l’abbonamento. Crea tipi di pubblico simili in base a programmi passati per replicare in modo efficiente i successi precedenti. Raggiungi gli obiettivi di conversione con il tracciamento predittivo degli obiettivi e ottieni consigli su come perfezionare i segmenti di pubblico per i programmi evento.
+* **[Predictive Audiences](https://experienceleague.adobe.com/docs/marketo/sky/predictive-audiences/getting-started-with-predictive-audiences.html?lang=it#predictive-audiences)** ![(star)](assets/yellow-star.png): i nuovi filtri per elenchi avanzati e campagne intelligenti basati su Adobe AI ti consentono di creare segmenti di pubblico basati sull’intelligenza artificiale per programmi di marketing di e-mail, eventi e webinar. Utilizza l’intelligenza artificiale per segmentare il pubblico in base alla probabilità di lead per registrarti a un evento, partecipare a un evento o annullare l’abbonamento. Crea tipi di pubblico simili in base a programmi passati per replicare in modo efficiente i successi precedenti. Raggiungi gli obiettivi di conversione con il tracciamento predittivo degli obiettivi e ottieni consigli su come perfezionare i segmenti di pubblico per i programmi evento.
 * **Incremento e-mail in batch** ![(stella)](assets/yellow-star.png): è stata migliorata la funzionalità di e-mail marketing, che consente di inviare fino a 3 milioni di e-mail in batch all&#39;ora. Abbiamo riprogettato l’elaborazione delle campagne batch e dei rapporti e-mail per migliorare le prestazioni dei programmi e-mail e delle campagne e-mail batch. Ciò consente di ridurre il lead time di invio e di migliorare il tempo di completamento. La configurazione degli invii di e-mail normalmente non comporta complessità aggiuntive. Questo miglioramento è disponibile come componente aggiuntivo di prodotto che include anche un pacchetto di lancio dei servizi di consegna, strumenti di consegna e-mail e più indirizzi IP dedicati.
 * **[Integrazione del pubblico con Adobe Experience Cloud (AEC)](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/send-a-list-to-adobe-experience-cloud.md)**: nuova integrazione Adobe Experience Cloud (AEC) che consente di sincronizzare elenchi statici di lead noti da Marketo Engage con più applicazioni AEC per migliorare i programmi esistenti, sbloccare nuovi casi d&#39;uso e orchestrare campagne multicanale. Questa integrazione include Adobe Analytics, Adobe Target, Adobe Experience Manager, Adobe Audience Manager e Adobe Advertising Cloud.
 * **[Campi personalizzati del membro del programma](/help/marketo/product-docs/core-marketo-concepts/programs/working-with-programs/program-member-custom-fields.md)**: acquisire e utilizzare campi personalizzati su un membro del programma. Utilizza questi nuovi campi nei Marketo Engage Form, visualizzali nell’elenco dei membri di un programma, sfruttali nei filtri e nei trigger dell’elenco avanzato e includili in una nuova Azione di flusso di Smart Campaign per una maggiore automazione e una personalizzazione più granulare. Questi possono anche essere importati ed esportati tramite l’interfaccia utente e le API. Miglioramento della funzionalità per campi e oggetti dati personalizzati.

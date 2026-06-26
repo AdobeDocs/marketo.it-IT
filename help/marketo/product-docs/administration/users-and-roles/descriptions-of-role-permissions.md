@@ -28,9 +28,9 @@ topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: e8a199f7105f301b7328def28ea172da00285da9
 workflow-type: tm+mt
-source-wordcount: 1344
+source-wordcount: 1338
 ht-degree: 1%
 
 ---
@@ -68,7 +68,7 @@ Visualizza e modifica le impostazioni nella sezione Account personale dell’amm
 * Accesso a `Data.com`: consente agli utenti di accedere all&#39;azione di flusso Data.com
 * Accedi a Amministrazione e-mail: consente agli utenti di accedere a Amministrazione e-mail per modificare le impostazioni predefinite, ad esempio i domini di annullamento dell’abbonamento e di branding
 * Accesso ai partner eventi: consente agli utenti di accedere a LaunchPoint in Admin
-* Accedere ad Experience Cloud Audience Sharing - Consente agli utenti di sincronizzare un pubblico da Adobe Experience Cloud a Marketo Engage
+* Accedere a Condivisione pubblico di Experience Cloud: consente agli utenti di sincronizzare un pubblico da Adobe Experience Cloud a Marketo Engage
 * Accesso alla gestione dei campi: consente agli utenti di accedere alla gestione dei campi in Admin
 * Caricamento file di accesso: consente agli utenti di caricare immagini e file in Design Studio
 * Accedere alle pagine di destinazione: consente agli utenti di accedere alle pagine di destinazione in Admin
@@ -234,15 +234,10 @@ Visualizza la scheda Attività di marketing, le campagne e le cartelle delle cam
 * Elimina risorsa di marketing
 * Modifica restrizioni campagna
 * Modifica risorsa marketing
-* Esporta attività campagna&#42;
+* Esporta attività campagna
 * Importa programma
 * Importazione elenco
 * Pianifica campagna batch
-
-Accedere a SEO
-
-* Amministrare SEO
-* SEO standard
 
 ## Targeting e Personalization {#targeting-and-personalization}
 

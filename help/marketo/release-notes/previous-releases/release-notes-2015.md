@@ -1,5 +1,5 @@
 ---
-title: 2015
+title: "2015"
 description: 2015 - Documentazione di Marketo - Documentazione del prodotto
 feature: Release Information
 feature_v2:
@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: ad6fe9ab015682c15426fdc416cf6d243c83f297
+source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
 workflow-type: tm+mt
-source-wordcount: 2807
+source-wordcount: 2862
 ht-degree: 1%
 
 ---
@@ -281,8 +281,7 @@ Sei fuori a pranzo ma devi riprogrammare un&#39;email? L&#39;app [!DNL Marketo M
 
 ## Aggiornamento dell’editor Rich Text {#rich-text-editor-update}
 
-L’editor di testo è stato aggiornato con aspetto moderno, inclusa la formattazione del testo semplificata, la modifica delle immagini, l’inserimento di collegamenti e la modifica di HTML. L’editor di HTML ora dispone di una convalida minima, che consente modifiche del codice meno restrittive.
-`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà implementato automaticamente entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella legacy dell&#39;editor da **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**.
+L’editor di testo è stato aggiornato con aspetto moderno, inclusa la formattazione del testo semplificata, la modifica delle immagini, l’inserimento di collegamenti e la modifica di HTML. L’editor di HTML ora dispone di una convalida minima, che consente modifiche del codice meno restrittive.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà implementato automaticamente entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella legacy dell&#39;editor da **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
