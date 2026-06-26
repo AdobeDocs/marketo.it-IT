@@ -3,9 +3,9 @@ description: Esplora la suite di agenti Marketo AI progettati per automatizzare 
 title: Panoramica di Marketo AI
 badge: beta
 exl-id: b89750cc-aa70-402c-9d0b-9a3e6a12a423
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '368'
 ht-degree: 1%
 
 ---
@@ -20,7 +20,9 @@ Marketo AI fornisce agenti progettati per automatizzare funzioni di marketing lu
 
 >[!IMPORTANT]
 >
->Dopo aver abilitato Marketo AI per la sottoscrizione, è necessario eseguire alcuni [passaggi di installazione](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} per garantire l&#39;accesso agli utenti desiderati.
+>* Dopo aver abilitato Marketo AI per la sottoscrizione, è necessario eseguire alcuni [passaggi di installazione](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} per garantire l&#39;accesso agli utenti desiderati.
+>
+>* Esaminare l&#39;ambito dei dati, i controlli di governance e le considerazioni PII nel [data information sheet](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"} di Marketo AI.
 
 ## Come accedervi {#access}
 
@@ -62,4 +64,4 @@ Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
