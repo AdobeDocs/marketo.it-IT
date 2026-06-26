@@ -1,11 +1,10 @@
 ---
-description: Esplora la suite di agenti Marketo AI progettati per automatizzare attività di marketing come il controllo qualità del programma, l’importazione dei lead, la normalizzazione dei dati e altro ancora.
+description: Rivedi l’ambito dati di Marketo AI, i controlli di governance e le considerazioni PII in tutti i flussi di lavoro chiave, come l’importazione di lead, il controllo qualità del programma e la normalizzazione dei dati.
 title: Scheda informativa di Marketo AI
 badge: beta
-hide: true
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
-source-wordcount: '1478'
+source-wordcount: '1479'
 ht-degree: 0%
 
 ---
@@ -56,7 +55,7 @@ L’intelligenza artificiale di Marketo è una funzione nativa e dinamica di Ado
 
 ## Casi di utilizzo
 
-Oltre a quelli elencati, considera l’utilizzo di IA per Marketo per diagnosticare e risolvere problemi operativi complessi (errori di sincronizzazione CRM, errori del webhook, analisi della causa principale della consegna e-mail, incongruenze dei campi), condurre controlli di audit sul tuo account (recapito e-mail, conformità del centro abbonamenti, revisioni di campagne intelligenti, valutazioni del modello di punteggio) e accelerare la creazione del programma da resoconti e modelli (programmi di eventi, campagne e-mail multilingue, configurazioni del webinar). Additional è progettato per facilitare la classificazione dei lead assistiti dall’intelligenza artificiale e l’arricchimento dei dati su larga scala, l’analisi delle prestazioni con raccomandazioni per il monitoraggio e il debug guidato delle configurazioni tecniche, come gli script Velocity e i modelli di ciclo di vita.
+Oltre a quelli elencati, considera l’utilizzo di IA per Marketo per diagnosticare e risolvere problemi operativi complessi (errori di sincronizzazione CRM, errori del webhook, analisi della causa principale della consegna e-mail, incongruenze dei campi), condurre controlli di audit sul tuo account (recapito e-mail, conformità del centro abbonamenti, revisioni di campagne intelligenti, valutazioni del modello di punteggio) e accelerare la creazione del programma da resoconti e modelli (programmi di eventi, campagne e-mail multilingue, configurazioni del webinar). L’intelligenza artificiale di Marketo è progettata per fornire la classificazione dei lead assistiti dall’intelligenza artificiale e l’arricchimento dei dati su larga scala, l’analisi delle prestazioni con raccomandazioni per il monitoraggio e il debug guidato delle configurazioni tecniche, come gli script Velocity e i modelli di ciclo di vita.
 
 ## Disponibilità e stato di rollout
 
@@ -122,9 +121,7 @@ In questa sezione vengono riepilogati gli ambienti in cui opera Marketo AI e dov
 
 **Nessun archivio separato per più utenti:** Il servizio non introduce un livello separato di condivisione dati o archiviazione da utente a utente.
 
-## Considerazioni su PII e privacy dei dati
-
-### Ambito dati per tipo di flusso di lavoro
+## Considerazioni su PII e privacy dei dati: ambito dei dati per tipo di flusso di lavoro
 
 I dati elaborati da Marketo AI sono determinati dal modello di utilizzo dell’utente e dal flusso di lavoro specifico richiamato. Non tutti i flussi di lavoro richiedono l’elaborazione di dati a livello di lead.
 
@@ -150,7 +147,7 @@ I dati elaborati da Marketo AI sono determinati dal modello di utilizzo dell’u
 * In tutti i casi, i dati inviati al modello di IA sono limitati a quanto necessario per soddisfare la specifica richiesta dell’utente all’interno di tale flusso di lavoro
 * L’intelligenza artificiale eredita le autorizzazioni Marketo Engage esistenti dell’utente richiedente e non può accedere a record, campi o programmi di lead oltre a quelli che l’utente può già visualizzare tramite l’interfaccia utente del prodotto
 * I flussi di lavoro investigativi e per le operazioni sui dati richiedono necessariamente dati a livello di lead, in quanto l’utente chiede esplicitamente all’IA di analizzare, classificare o agire su tali record
-* gli utenti che desiderano limitare l’elaborazione dei dati dei lead possono limitare l’accesso agli strumenti dei flussi di lavoro investigativi attraverso i controlli esistenti di autorizzazioni e ruoli di Marketo Engage, mantenendo al contempo il pieno accesso alle funzionalità di intelligenza artificiale strutturali e amministrative
+* Gli utenti che desiderano limitare l’elaborazione dei dati dei lead possono limitare l’accesso ai flussi di lavoro investigativi dello strumento attraverso i controlli esistenti di autorizzazione e ruolo di Marketo Engage, mantenendo al contempo il pieno accesso alle funzionalità di intelligenza artificiale strutturali e amministrative
 
 ### Nessuna esposizione incrementale dei dati
 

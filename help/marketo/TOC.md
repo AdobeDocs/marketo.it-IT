@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: 39fef7edc7c475efd901a75235ccf7b25f789793
+source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
 workflow-type: tm+mt
 source-wordcount: '8898'
 ht-degree: 96%
@@ -131,7 +131,7 @@ ht-degree: 96%
          + [Nascondere e mostrare un campo](product-docs/administration/field-management/hide-and-unhide-a-field.md)
          + [Codificare token HTML nelle e-mail](product-docs/administration/field-management/html-encode-tokens-in-emails.md)
          + [Contrassegnare un campo come sensibile](product-docs/administration/field-management/mark-a-field-as-sensitive.md)
-         + [Gestione elenchi a discesa](product-docs/administration/field-management/picklist-management.md)
+         + [Gestione degli elenchi a discesa](product-docs/administration/field-management/picklist-management.md)
          + [Rinominare un campo](product-docs/administration/field-management/rename-a-field.md)
          + [Informazioni sui campi gestiti dal sistema](product-docs/administration/field-management/understanding-system-managed-fields.md)
          + [Visualizzare le mappature campi tra Marketo e Salesforce](product-docs/administration/field-management/view-field-mappings-between-marketo-and-salesforce.md)
@@ -1107,10 +1107,10 @@ ht-degree: 96%
             + [Utilizzare il token di informazioni sull’invio dell’avviso](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
             + [Utilizzo degli URL nei miei token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
          + [CC e-mail](product-docs/email-marketing/general/email-cc.md)
-   + MARKETO AI {#marketo-ai}
+   + Marketo AI {#marketo-ai}
       + [Panoramica](product-docs/marketo-ai/overview.md)
       + [Impostazioni e configurazione](product-docs/marketo-ai/settings-setup.md)
-      + {hide-from-toc}[Scheda informativa di Marketo AI](product-docs/marketo-ai/data-information.md)
+      + [Scheda informativa di Marketo AI](product-docs/marketo-ai/data-information.md)
       + Abilità {#skills}
          + [Conoscenza del prodotto](product-docs/marketo-ai/skills/product-knowledge.md)
          + {hide-from-toc}[Informazioni superficie](product-docs/marketo-ai/skills/surface-insights.md)
