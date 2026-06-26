@@ -2,7 +2,7 @@
 description: Rivedi l’ambito dati di Marketo AI, i controlli di governance e le considerazioni PII in tutti i flussi di lavoro chiave, come l’importazione di lead, il controllo qualità del programma e la normalizzazione dei dati.
 title: Scheda informativa di Marketo AI
 badge: beta
-source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
+source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
 workflow-type: tm+mt
 source-wordcount: '1454'
 ht-degree: 0%
@@ -127,25 +127,25 @@ I dati elaborati da Marketo AI sono determinati dal modello di utilizzo dell’u
 
 ### Flussi di lavoro che sfruttano solo i metadati della campagna (nessuna informazione sui lead)
 
-* Creazione di programmi da breve: genera strutture di programmi, campagne intelligenti, passaggi di flusso e segnaposto di contenuti da istruzioni in linguaggio naturale
-* Clonazione e traduzione di e-mail: duplica e traduce il contenuto del HTML e-mail, le righe dell’oggetto e la copia di marketing nelle varianti di lingua
-* Controllo delle campagne: esamina le configurazioni di campagne intelligenti, le definizioni di attivatori/filtri, la logica di flusso e le convenzioni di denominazione.
+* Creazione di programmi da breve: genera strutture di programmi, campagne intelligenti, passaggi di flusso e segnaposto di contenuto da istruzioni in linguaggio naturale
+* Clonazione e traduzione di e-mail: duplica e traduce il contenuto del HTML e-mail, le righe dell’oggetto e la copia di marketing tra le varianti di lingua
+* Controllo delle campagne: rivede le configurazioni di campagne intelligenti, le definizioni di attivatori/filtri, la logica di flusso e le convenzioni di denominazione
 * Convalida del controllo qualità del programma: valuta i programmi rispetto alle regole definite dall&#39;utente per la conformità, lo stato di approvazione e la completezza strutturale
-* Valutazione dell’architettura di programmi e centri di abbonamento — analizza la logica della campagna e la struttura del programma
-* Conoscenza del prodotto e best practice: fornisce a Marketo le risposte alle procedure da un livello di conoscenza condiviso
+* Valutazione dell’architettura di programmi e centri di abbonamento: analizza la logica della campagna e la struttura del programma
+* Conoscenza del prodotto e best practice: fornisce a Marketo risposte pratiche da un livello di conoscenza condiviso
 
 ### Flussi di lavoro che sfruttano i record a livello di lead (campi di contatto B2B standard)
 
-* Analisi e risoluzione dei problemi dei lead: esamina i valori dei campi dei lead individuali forniti dall&#39;utente, la cronologia delle attività e la progressione del ciclo di vita per diagnosticare il motivo per cui un lead ha raggiunto o meno lo stato MQL o è idoneo per una campagna di marketing
-* Importazione e normalizzazione dei lead: elabora i dati dei lead forniti dall&#39;utente, inclusi nomi, indirizzi e-mail, numeri di telefono e campi aziendali per la mappatura, la pulizia e la deduplicazione
-* Classificazione e arricchimento dei lead: valuta i record dei lead in base a una logica di punteggio o classificazione definita dall’utente (ad esempio, lead validi e spam per l’integrità del database, utenti tipo per scopi di personalizzazione, lead aziendali con lead di e-mail aziendali e clienti potenziali)
-* Controlli della qualità dei dati e del recapito messaggi: analizza i dati del coinvolgimento a livello di lead, i pattern di mancato recapito e i record duplicati per identificare i problemi di integrità del database
-* Analisi delle prestazioni di Campaign: emergono modelli di coinvolgimento dei lead, dati di conversione e composizione del pubblico per supportare l’analisi delle prestazioni
+* Analisi e risoluzione dei problemi dei lead: esamina i valori dei campi dei lead individuali forniti dall’utente, la cronologia delle attività e la progressione del ciclo di vita per diagnosticare il motivo per cui un lead ha raggiunto o meno lo stato MQL o si è qualificato per una campagna di marketing
+* Importazione e normalizzazione dei lead: elabora i dati dei lead forniti dall&#39;utente, tra cui nomi, indirizzi e-mail, numeri di telefono e campi aziendali per la mappatura, la pulizia e la deduplicazione
+* Classificazione e arricchimento dei lead: valuta i record dei lead in base a una logica di punteggio o classificazione definita dall’utente (ad esempio, lead validi e spam per l’integrità del database, utenti tipo per scopi di personalizzazione, lead aziendali con lead e-mail aziendali e lead consumatori)
+* Controlli sulla qualità dei dati e sul recapito messaggi: analizza i dati sul coinvolgimento a livello di lead, i pattern di mancato recapito e i record duplicati per identificare i problemi di integrità del database.
+* Analisi delle prestazioni di Campaign: superfici che presentano pattern di coinvolgimento di lead, dati di conversione e composizione del pubblico per supportare l’analisi delle prestazioni
 
 ### Minimizzazione dei dati in base alla progettazione
 
 * In tutti i casi, i dati inviati al modello di IA sono limitati a quanto necessario per soddisfare la specifica richiesta dell’utente all’interno di tale flusso di lavoro
-* Marketo AI segue le autorizzazioni Marketo Engage esistenti dell’utente e non fornisce l’accesso a record, campi o programmi oltre a quelli che l’utente dispone dell’autorizzazione per visualizzare tramite l’interfaccia utente del prodotto
+* Marketo AI segue le autorizzazioni esistenti di Marketo Engage dell’utente; non fornisce l’accesso a record, campi o programmi oltre a quelli che l’utente dispone dell’autorizzazione per visualizzare tramite l’interfaccia utente del prodotto
 * Gli utenti che desiderano limitare l’elaborazione dei dati dei lead possono limitare l’accesso ai flussi di lavoro investigativi dello strumento attraverso i controlli esistenti di autorizzazione e ruolo di Marketo Engage, mantenendo al contempo il pieno accesso alle funzionalità di intelligenza artificiale strutturali e amministrative
 
 ### Nessuna esposizione incrementale dei dati
