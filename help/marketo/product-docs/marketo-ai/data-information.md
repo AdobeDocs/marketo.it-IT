@@ -2,9 +2,9 @@
 description: Rivedi l’ambito dati di Marketo AI, i controlli di governance e le considerazioni PII in tutti i flussi di lavoro chiave, come l’importazione di lead, il controllo qualità del programma e la normalizzazione dei dati.
 title: Scheda informativa di Marketo AI
 badge: beta
-source-git-commit: e3e7991f0a8fcdb18f7be8c5a25c3c7904ef9ed6
+source-git-commit: 5c127a9b84033f2baa3c6bce727472d4b58f5842
 workflow-type: tm+mt
-source-wordcount: '1479'
+source-wordcount: '1454'
 ht-degree: 0%
 
 ---
@@ -121,11 +121,11 @@ In questa sezione vengono riepilogati gli ambienti in cui opera Marketo AI e dov
 
 **Nessun archivio separato per più utenti:** Il servizio non introduce un livello separato di condivisione dati o archiviazione da utente a utente.
 
-## Considerazioni su PII e privacy dei dati: ambito dei dati per tipo di flusso di lavoro
+## Ambito dati per tipo di flusso di lavoro
 
 I dati elaborati da Marketo AI sono determinati dal modello di utilizzo dell’utente e dal flusso di lavoro specifico richiamato. Non tutti i flussi di lavoro richiedono l’elaborazione di dati a livello di lead.
 
-### Flussi di lavoro che elaborano solo i metadati della campagna (nessun PII lead)
+### Flussi di lavoro che sfruttano solo i metadati della campagna (nessuna informazione sui lead)
 
 * Creazione di programmi da breve: genera strutture di programmi, campagne intelligenti, passaggi di flusso e segnaposto di contenuti da istruzioni in linguaggio naturale
 * Clonazione e traduzione di e-mail: duplica e traduce il contenuto del HTML e-mail, le righe dell’oggetto e la copia di marketing nelle varianti di lingua
@@ -134,9 +134,9 @@ I dati elaborati da Marketo AI sono determinati dal modello di utilizzo dell’u
 * Valutazione dell’architettura di programmi e centri di abbonamento — analizza la logica della campagna e la struttura del programma
 * Conoscenza del prodotto e best practice: fornisce a Marketo le risposte alle procedure da un livello di conoscenza condiviso
 
-### Flussi di lavoro per l&#39;elaborazione dei record a livello di lead (campi di contatto B2B standard)
+### Flussi di lavoro che sfruttano i record a livello di lead (campi di contatto B2B standard)
 
-* Analisi e risoluzione dei problemi dei lead: esamina i valori dei campi dei lead, la cronologia delle attività e la progressione del ciclo di vita dei singoli lead per diagnosticare il motivo per cui un lead ha raggiunto o meno il livello MQL o è qualificato per una campagna di marketing
+* Analisi e risoluzione dei problemi dei lead: esamina i valori dei campi dei lead individuali forniti dall&#39;utente, la cronologia delle attività e la progressione del ciclo di vita per diagnosticare il motivo per cui un lead ha raggiunto o meno lo stato MQL o è idoneo per una campagna di marketing
 * Importazione e normalizzazione dei lead: elabora i dati dei lead forniti dall&#39;utente, inclusi nomi, indirizzi e-mail, numeri di telefono e campi aziendali per la mappatura, la pulizia e la deduplicazione
 * Classificazione e arricchimento dei lead: valuta i record dei lead in base a una logica di punteggio o classificazione definita dall’utente (ad esempio, lead validi e spam per l’integrità del database, utenti tipo per scopi di personalizzazione, lead aziendali con lead di e-mail aziendali e clienti potenziali)
 * Controlli della qualità dei dati e del recapito messaggi: analizza i dati del coinvolgimento a livello di lead, i pattern di mancato recapito e i record duplicati per identificare i problemi di integrità del database
@@ -145,8 +145,7 @@ I dati elaborati da Marketo AI sono determinati dal modello di utilizzo dell’u
 ### Minimizzazione dei dati in base alla progettazione
 
 * In tutti i casi, i dati inviati al modello di IA sono limitati a quanto necessario per soddisfare la specifica richiesta dell’utente all’interno di tale flusso di lavoro
-* L’intelligenza artificiale eredita le autorizzazioni Marketo Engage esistenti dell’utente richiedente e non può accedere a record, campi o programmi di lead oltre a quelli che l’utente può già visualizzare tramite l’interfaccia utente del prodotto
-* I flussi di lavoro investigativi e per le operazioni sui dati richiedono necessariamente dati a livello di lead, in quanto l’utente chiede esplicitamente all’IA di analizzare, classificare o agire su tali record
+* Marketo AI segue le autorizzazioni Marketo Engage esistenti dell’utente e non fornisce l’accesso a record, campi o programmi oltre a quelli che l’utente dispone dell’autorizzazione per visualizzare tramite l’interfaccia utente del prodotto
 * Gli utenti che desiderano limitare l’elaborazione dei dati dei lead possono limitare l’accesso ai flussi di lavoro investigativi dello strumento attraverso i controlli esistenti di autorizzazione e ruolo di Marketo Engage, mantenendo al contempo il pieno accesso alle funzionalità di intelligenza artificiale strutturali e amministrative
 
 ### Nessuna esposizione incrementale dei dati
