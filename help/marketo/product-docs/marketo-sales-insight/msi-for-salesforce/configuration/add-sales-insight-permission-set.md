@@ -4,16 +4,13 @@ title: Aggiungere set di autorizzazioni di Sales Insight
 exl-id: b93ddf2e-0f7b-41e0-ba88-7363f5e34970
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/uFyP8aZCuXSPJn5ktZUxmCoVekyw9LN88U3KaY06-do
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 348
-ht-degree: 3%
+source-wordcount: 379
+ht-degree: 2%
 
 ---
 
@@ -27,7 +24,9 @@ Utilizzare la procedura seguente per aggiungere l&#39;accesso alle funzionalità
 
 >[!IMPORTANT]
 >
->Se in precedenza hai concesso a [!DNL Sales Insight] l&#39;accesso a tutti i profili e/o implementato [!DNL Sales Insight] per tutti gli utenti, devi [rimuovere l&#39;accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
+>* Se in precedenza hai concesso a [!DNL Sales Insight] l&#39;accesso a tutti i profili e/o implementato [!DNL Sales Insight] per tutti gli utenti, devi [rimuovere l&#39;accesso a livello di profilo](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/configuration/remove-sales-insight-access.md){target="_blank"} per utilizzare questo set di autorizzazioni.
+>
+>* Per la piena funzionalità di MSI è richiesta la licenza Salesforce standard. Gli utenti con la licenza Salesforce Platform (una classe di licenza limitata) possono visualizzare errori durante l’esecuzione di determinate azioni o l’accesso ad alcune schede.
 
 ## Panoramica {#overview}
 

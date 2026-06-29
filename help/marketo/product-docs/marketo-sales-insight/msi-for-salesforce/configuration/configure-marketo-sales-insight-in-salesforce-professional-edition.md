@@ -5,16 +5,12 @@ title: Configurare Marketo Sales Insight in Salesforce Professional Edition
 exl-id: fae63560-0bb3-46a9-94a3-cc27c1aa363e
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/ixHyQT01yLz6LIoEG5L0wm9WKUSOgShHmXZUCI-R4Pw
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 688
+source-wordcount: 719
 ht-degree: 3%
 
 ---
@@ -86,6 +82,10 @@ Configurare Marketo Sales Insight in Salesforce Professional Edition completando
 1. Immetti il nome del sito remoto (può essere ad esempio &quot;MarketoRestAPI&quot;). Immetti l’URL del sito remoto, che è l’URL dell’API dal pannello Configurazione API REST in Marketo. Fai clic su **[!UICONTROL Save]**. Sono state create le impostazioni del sito remoto per l’API REST.
 
 ## Concedere agli utenti di Sales Insight l&#39;accesso al profilo per gli oggetti Salesforce standard {#grant-sales-insight-users-profile-access}
+
+>[!IMPORTANT]
+>
+>Per la piena funzionalità di MSI è richiesta la licenza Salesforce standard. Gli utenti con la licenza Salesforce Platform (una classe di licenza limitata) possono visualizzare errori durante l’esecuzione di determinate azioni o l’accesso ad alcune schede.
 
 A causa dei miglioramenti apportati alla sicurezza di Salesforce, i pacchetti AppExchange non possono più concedere l’autorizzazione agli oggetti standard e l’accesso deve essere concesso agli oggetti Salesforce pertinenti dal profilo dell’utente Salesforce. Concedi le autorizzazioni necessarie seguendo questi passaggi.
 

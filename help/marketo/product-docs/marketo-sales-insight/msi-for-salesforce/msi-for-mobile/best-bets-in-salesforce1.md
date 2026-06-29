@@ -5,13 +5,11 @@ title: Elementi di maggiore rilevanza in Salesforce1
 exl-id: 5b1c9f26-7896-4d38-b458-1a43352ec036
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/yjT8JEOPeB6rr69mRMoM3xfYe8TYWno1Yj2FaI2Ldmk
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 94
 ht-degree: 4%
 
 ---
@@ -19,6 +17,10 @@ ht-degree: 4%
 # [!DNL Best Bets] in [!DNL Salesforce1] {#best-bets-in-salesforce}
 
 [[!DNL Best Bets]](/help/marketo/product-docs/marketo-sales-insight/msi-for-salesforce/features/stars-and-flames/priority-urgency-relative-score-and-best-bets.md) sono i tuoi lead e contatti con il punteggio più alto per urgenza e relativo. Solo i lead di tua proprietà sono visibili in tale elenco, che viene aggiornato in base al cambiamento dei punteggi dei lead.
+
+>[!AVAILABILITY]
+>
+>Gli elementi di maggiore rilevanza non sono disponibili con la licenza della piattaforma Salesforce.
 
 1. Passare all&#39;area Marketo nell&#39;app [!DNL Salesforce].
 
