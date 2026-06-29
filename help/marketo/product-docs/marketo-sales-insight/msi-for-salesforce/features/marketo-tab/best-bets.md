@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: 427d3327b9d5641dbc6744ee32ee8803ae76d6fe
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: 300
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 # [!DNL Best Bets] {#best-bets}
 
 La scheda [!DNL Best Bets] include un elenco di tutti gli hot lead in base alla loro priorità, calcolata utilizzando l&#39;urgenza e il punteggio relativo.
+
+>[!AVAILABILITY]
+>
+>Gli elementi di maggiore rilevanza non sono disponibili con la licenza della piattaforma Salesforce.
 
 >[!CAUTION]
 >
