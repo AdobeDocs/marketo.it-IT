@@ -16,9 +16,9 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
 workflow-type: tm+mt
-source-wordcount: 483
+source-wordcount: 481
 ht-degree: 22%
 
 ---
@@ -43,7 +43,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Competenza Marketo AI - Conoscenza del prodotto</strong>: la conoscenza del prodotto consente l'accesso on-demand alle competenze Marketo senza uscire dalla piattaforma. Poni una domanda in un linguaggio semplice e l’intelligenza artificiale di Marketo si basa sulla documentazione ufficiale di Adobe per rispondere.</td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Panoramica di Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conoscenza del prodotto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +54,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>Abilità di Marketo AI - Indagine sui lead</strong>: scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo.
 </td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Panoramica di Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Indagare sui lead</a></td>
   </tr>
   <tr>
    <td> </td>
