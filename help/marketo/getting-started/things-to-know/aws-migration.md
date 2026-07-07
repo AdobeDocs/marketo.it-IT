@@ -4,7 +4,7 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9c2784f06be42e5b65cd338a18b0d37a8fa48d9a
+source-git-commit: de84d9a26dea78022a1d4ca79baa8e2f445ee2a9
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 2%
@@ -17,7 +17,7 @@ Nei prossimi mesi, tutti gli abbonamenti Marketo Engage verranno migrati da un d
 
 Riceverai un’e-mail e una notifica in-app circa 30 giorni prima della migrazione. Utilizza questa guida per preparare.
 
-## Azioni consigliate
+## Azioni consigliate {#actions}
 
 Durante la finestra di migrazione, tutti i servizi Marketo Engage non saranno disponibili. Per mitigare l’impatto sull’azienda, consigliamo di effettuare le seguenti operazioni.
 
@@ -33,7 +33,7 @@ Durante la finestra di migrazione, tutti i servizi Marketo Engage non saranno di
 
 * **Aggiungi nuovi indirizzi IP** e mantieni invariati gli IP correnti. Visualizza gli indirizzi IP da aggiungere tramite la [tabella seguente](#ip-addresses).
 
-## Impatto previsto sui servizi
+## Impatto previsto sui servizi {#impacts}
 
 Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
@@ -93,7 +93,7 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
    <td>10:00 PDT<br>
    11:00 PDT</td>
   </tr>
-  &lt;/body>
+  </body>
 </table>
 
 ## Indirizzi IP da aggiungere {#ip-addresses}
@@ -118,9 +118,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 18.200.201.81<br>
 54.220.138.65</td>
 </tr>
-&lt;/body>
+</body>
 </table>
 
-## Aggiornamenti e supporto
+## Aggiornamenti e supporto {#support}
 
 Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
