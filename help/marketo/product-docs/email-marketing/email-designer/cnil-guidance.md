@@ -14,7 +14,7 @@ ht-degree: 0%
 
 # Linee guida CNIL: tracciamento dell’apertura condizionale delle e-mail {#cnil}
 
-Scopri come configurare Marketo Engage per rispettare il consenso dell’utente finale per il tracciamento dell’apertura delle e-mail (pixel), in conformità con le [linee guida CNIL](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632){target="_blank"}. L’approccio utilizza un campo booleano personalizzato per determinare quale variante e-mail riceve una persona, una con il tracciamento aperto abilitato o una con esso disabilitato.
+Scopri come configurare Marketo Engage per rispettare il consenso dell’utente finale per il tracciamento dell’apertura delle e-mail (pixel), in conformità con le [linee guida CNIL](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=it){target="_blank"}. L’approccio utilizza un campo booleano personalizzato per determinare quale variante e-mail riceve una persona, una con il tracciamento aperto abilitato o una con esso disabilitato.
 
 ## Passaggio 1: creare un campo booleano personalizzato {#custom-field}
 
@@ -28,7 +28,7 @@ Scopri come configurare Marketo Engage per rispettare il consenso dell’utente 
 
 ## Passaggio 2: compilare il campo del consenso {#populate}
 
-1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -62,7 +62,7 @@ In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si
 
 ## Passaggio 4: configurare Smart Campaign {#smart-campaign}
 
-[Crea una campagna avanzata](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
+[Crea una campagna avanzata](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
 
 1. Nella scheda _Flusso_ della tua Smart Campaign, inserisci il passaggio di flusso **Invia e-mail**.
 
