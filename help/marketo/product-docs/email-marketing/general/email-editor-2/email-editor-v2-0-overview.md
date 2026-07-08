@@ -5,14 +5,12 @@ title: Panoramica dell’editor e-mail v2.0
 exl-id: 082570d5-3d26-48f5-83f4-76ad9efc9c9d
 feature: Email Editor
 TQID: https://experienceleague.adobe.com/FKo7NwPSrEVbNBlfo1Jpd88yXyIH-NVfdpYiVmrRSLM
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+source-git-commit: 5935e1cef334c7c5fd40864dd2a677b4cb9d46d4
 workflow-type: tm+mt
-source-wordcount: 429
-ht-degree: 78%
+source-wordcount: 453
+ht-degree: 70%
 
 ---
 
@@ -24,31 +22,31 @@ Panoramica dell’editor e-mail classico.
 >
 >Anche se non esiste una data esatta, l’editor e-mail classico alla fine diventerà obsoleto (verrà annunciata una data esatta in cui ne avremo uno). Si consiglia vivamente di iniziare ad adottare l&#39;avanzato [E-mail Designer](/help/marketo/product-docs/email-marketing/email-designer/overview.md){target="_blank"}, in quanto dispone di molte funzionalità non disponibili nell&#39;editor classico.
 
-**Selettore di modelli per e-mail**
+## Selettore modello e-mail {#email-template-picker}
 
 Quando crei una nuova e-mail, accedi al [Selettore modello e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/email-template-picker-overview.md).
 
 ![](assets/email-editor-v2-overview-1.png)
 
-**Editor e-mail**
+## Editor e-mail {#email-editor}
 
 Quando inizi a modificare l’e-mail, l’editor assume un aspetto completamente nuovo.
 
 ![](assets/email-editor-v2-overview-2.png)
 
-**Moduli**
+### Moduli {#modules}
 
 Gli elementi sul lato destro dell’editor sono chiamati moduli. Scopri come [aggiungere i moduli all’e-mail](/help/marketo/product-docs/email-marketing/general/email-editor-2/add-modules-to-your-email.md).
 
 ![](assets/email-editor-v2-overview-3.png)
 
-**Versione testuale**
+### Versione testo {#text-version}
 
 I pulsanti per passare dalla versione HTML alla versione testuale dell’e-mail ora si trovano in una pratica scheda nella parte inferiore. Scopri come [modificare la versione testuale di un’e-mail](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.md).
 
 ![](assets/email-editor-v2-overview-4.png)
 
-**Intestazione dell’e-mail**
+### Intestazione e-mail {#email-header}
 
 Ti serve più spazio per progettare l’e-mail? L&#39;intestazione e-mail può essere nascosta dopo che hai completato [la modifica](/help/marketo/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.md). Fai clic su questa icona...
 
@@ -58,7 +56,7 @@ Ti serve più spazio per progettare l’e-mail? L&#39;intestazione e-mail può e
 
 ![](assets/email-editor-v2-overview-6.png)
 
-**Anteprima dell’e-mail**
+### Anteprima e-mail {#preview-your-email}
 
 Per impostazione predefinita, l’e-mail si presenta così come verrà visualizzata su un computer desktop, come indicato dall’icona blu evidenziata. Se fai clic sull’icona alla sua destra...
 
@@ -80,7 +78,7 @@ La vista predefinita è quella per desktop...
 
 ![](assets/email-editor-v2-overview-11.png)
 
-**[!UICONTROL Email Actions]**
+## Azioni e-mail {#email-actions}
 
 In **[!UICONTROL Email Actions]**, noterai alcune nuove funzioni. **[!UICONTROL Upload an Image or File]** e **[!UICONTROL Grab Images from Web]**. Puoi anche salvare l’e-mail stessa come nuovo modello per e-mail. Non devi fare altro che assegnargli un nome e una destinazione.
 
@@ -94,11 +92,17 @@ In **[!UICONTROL Email Actions]**, noterai alcune nuove funzioni. **[!UICONTROL 
 >
 >**[[!UICONTROL Grab Images from Web]](/help/marketo/product-docs/demand-generation/images-and-files/grab-the-images-from-a-web-page.md)** funziona esattamente come in [!UICONTROL Design Studio].
 
-Se necessario, con **[!UICONTROL Disable Open Tracking]** in **[!UICONTROL Edit Settings]** puoi disabilitare il tracciamento delle aperture.
+## Impostazioni e-mail {#email-settings}
+
+Puoi scegliere tra una serie di impostazioni aggiuntive che ti consentono di personalizzare l’e-mail.
+
+### Disabilita tracciamento apertura
+
+In **[!UICONTROL Edit Settings]**, se necessario, è possibile disabilitare il tracciamento delle aperture.
 
 ![](assets/email-editor-v2-overview-13.png)
 
-**[!UICONTROL Edit Settings]**
+### Aggiungere una preintestazione {#add-a-preheader}
 
 Puoi aggiungere un elemento [!UICONTROL Preheader]. Un elemento [!UICONTROL Preheader] è un breve testo di riepilogo che appare dopo l’oggetto dell’e-mail quando questa viene visualizzata nella casella in entrata.
 
