@@ -6,10 +6,10 @@ description: Scopri come configurare Marketo Engage per la conformità CNIL util
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: f5f3d0cf1068c09308388dd1455666d5ac3555b6
+source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 1%
+source-wordcount: '419'
+ht-degree: 0%
 
 ---
 
@@ -29,7 +29,7 @@ Scopri come configurare Marketo Engage per rispettare il consenso degli utenti f
 
 ## Passaggio 2: compilare il campo del consenso {#populate}
 
-1. Imposta il valore del campo EmailPixelTracking per ogni persona tramite l’importazione di dati (sincronizzazione API o caricamento CSV).
+1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -51,7 +51,7 @@ Crea due e-mail. Il tracciamento dell’apertura delle e-mail è abilitato per i
 
   ![](assets/cnil-5.png)
 
-In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si trova nella scheda _Dettagli_ del riquadro _Riepilogo_ a destra dell&#39;e-mail. Nell&#39;editor e-mail legacy, la casella di controllo **Disattiva tracciamento aperto** è disponibile nel menu _Modifica impostazioni_.
+In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si trova nella scheda _Dettagli_ del riquadro _Riepilogo_ a destra dell&#39;e-mail. Nell&#39;editor e-mail legacy, la casella di controllo **Disattiva tracciamento aperto** si trova nel menu _Impostazioni e-mail_.
 
 **E-mail Designer**
 
@@ -61,9 +61,9 @@ In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si
 
 ![](assets/cnil-7.png){width="800" zoomable="yes"}
 
-## Passaggio 4: configurare la campagna intelligente {#smart-campaign}
+## Passaggio 4: configurare Smart Campaign {#smart-campaign}
 
-Crea una campagna avanzata per determinare quale e-mail riceve ogni persona.
+[Crea una campagna avanzata](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
 
 1. Nella scheda _Flusso_ della tua Smart Campaign, inserisci il passaggio di flusso **Invia e-mail**.
 
