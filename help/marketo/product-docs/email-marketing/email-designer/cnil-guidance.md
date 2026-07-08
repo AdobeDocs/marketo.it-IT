@@ -29,7 +29,7 @@ Scopri come configurare Marketo Engage per rispettare il consenso degli utenti f
 
 ## Passaggio 2: compilare il campo del consenso {#populate}
 
-1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
+1. Imposta il valore del campo Tracciamento pixel e-mail per ogni persona tramite importazione dati (sincronizzazione API o [caricamento CSV](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/quick-wins/import-a-list-of-people){target="_blank"}).
 
    ![](assets/cnil-3.png)
 
@@ -63,7 +63,7 @@ In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si
 
 ## Passaggio 4: configurare Smart Campaign {#smart-campaign}
 
-[Crea una campagna avanzata](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
+[Crea una campagna avanzata](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/create-a-new-smart-campaign){target="_blank"} per determinare quale e-mail riceve ogni persona.
 
 1. Nella scheda _Flusso_ della tua Smart Campaign, inserisci il passaggio di flusso **Invia e-mail**.
 
