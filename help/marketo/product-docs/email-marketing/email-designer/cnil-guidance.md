@@ -6,9 +6,9 @@ description: Scopri come configurare Marketo Engage per la conformità CNIL util
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-source-git-commit: 070a7cc09b8e428a8282cab15e3ad236ecf70ef0
+source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ In E-mail Designer, la casella di controllo **Disattiva tracciamento aperto** si
 
    ![](assets/cnil-8.png){width="800" zoomable="yes"}
 
-1. Nel passaggio del flusso, fare clic su **Aggiungi scelta**. Nella scelta 1, imposta **if** su _EmailPixelTracking_, imposta l&#39;operatore su _is_ e imposta il valore su _false_. Per **E-mail**, seleziona _E-mail due_.
+1. Nel passaggio del flusso, fare clic su **Aggiungi scelta**. Nella scelta 1, impostare **if** su _Tracciamento pixel e-mail_, impostare l&#39;operatore su _is_ e impostare il valore su _false_. Per **E-mail**, seleziona _E-mail due_.
 
 1. In Scelta predefinita, impostare **E-mail** su _E-mail uno_.
 
