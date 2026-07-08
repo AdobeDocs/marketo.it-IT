@@ -1,21 +1,20 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Conformità alle linee guida CNIL - Tracciamento dell’apertura condizionale delle e-mail
+title: Linee guida CNIL - Tracciamento apertura e-mail condizionale
 description: Scopri come configurare Marketo Engage per la conformità CNIL utilizzando un campo booleano personalizzato per instradare il tracciamento delle e-mail aperte in base allo stato di consenso di ogni persona.
 level: Beginner, Intermediate
 feature: Email Designer
-hide: true
-source-git-commit: c0c8e88ae6357c4bf75437e1bbc7fe0d6bce1012
+source-git-commit: b8d1872fc697e42a82675a2b45ce01f21bb83edd
 workflow-type: tm+mt
-source-wordcount: '421'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
-# Conformità alle linee guida CNIL: tracciamento dell’apertura condizionale delle e-mail {#cnil}
+# Linee guida CNIL: tracciamento dell’apertura condizionale delle e-mail {#cnil}
 
-Scopri come configurare Marketo Engage per rispettare il consenso degli utenti finali per il tracciamento dell’apertura delle e-mail (pixel), in conformità alle linee guida CNIL (COMMUNITY LINK). L’approccio utilizza un campo booleano personalizzato per determinare quale variante e-mail riceve una persona, una con il tracciamento aperto abilitato o una con esso disabilitato.
+Scopri come configurare Marketo Engage per rispettare il consenso dell’utente finale per il tracciamento dell’apertura delle e-mail (pixel), in conformità con le [linee guida CNIL](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/understanding-cnil-s-updated-guidance-on-email-open-tracking-251632?profile.language=it){target="_blank"}. L’approccio utilizza un campo booleano personalizzato per determinare quale variante e-mail riceve una persona, una con il tracciamento aperto abilitato o una con esso disabilitato.
 
 ## Passaggio 1: creare un campo booleano personalizzato {#custom-field}
 
