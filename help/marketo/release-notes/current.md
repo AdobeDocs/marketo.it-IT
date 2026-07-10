@@ -4,28 +4,20 @@ title: Note sulla versione corrente
 exl-id: a2eccad5-73ad-48f9-8091-51cee23824e1
 feature: Release Information
 TQID: https://experienceleague.adobe.com/QJFy7PeGXlvS3jcJGcZJROlc8c1UvphO-TOOwPUQeX8
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: c942e9f6-ed06-481a-abdd-1195363d1452
-topic_v2:
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 14cdc585c2c5b972dd3743c5eb3e253a8a91f608
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: c942e9f6-ed06-481a-abdd-1195363d1452
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d0cf66fe0c72af8e9d1db09792f73fd6db10abbb
 workflow-type: tm+mt
-source-wordcount: 481
+source-wordcount: 477
 ht-degree: 22%
 
 ---
 
-# Note sulla versione: #1 del 2 luglio 2026 {#release-notes-july-26-one}
+# Note sulla versione: luglio 2026 {#release-notes-july-26}
 
-Di seguito trovi tutte le funzioni incluse nella prima versione del 26 luglio. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
+Di seguito trovi tutte le funzioni incluse nella versione di luglio 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
@@ -43,7 +35,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Competenza Marketo AI - Conoscenza del prodotto</strong>: la conoscenza del prodotto consente l'accesso on-demand alle competenze Marketo senza uscire dalla piattaforma. Poni una domanda in un linguaggio semplice e l’intelligenza artificiale di Marketo si basa sulla documentazione ufficiale di Adobe per rispondere.</td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conoscenza del prodotto</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conoscenza del prodotto</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -54,7 +46,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>Abilità di Marketo AI - Indagine sui lead</strong>: scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo.
 </td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Indagare sui lead</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Indagare sui lead</a></td>
   </tr>
   <tr>
    <td> </td>
