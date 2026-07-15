@@ -53,4 +53,4 @@ Accedi al codice di incorporamento di un modulo per ospitarlo sul tuo sito web.
 
    >[!TIP]
    >
-   >Se lo sviluppatore desidera personalizzare l&#39;aspetto o accedere alle funzioni API avanzate, visualizzare la [pagina per sviluppatori di Forms 2.0](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
+   >Se lo sviluppatore desidera personalizzare l&#39;aspetto o accedere alle funzioni API avanzate, visualizzare la [pagina per sviluppatori di Forms 2.0](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/javascriptapi/forms-api-reference).
