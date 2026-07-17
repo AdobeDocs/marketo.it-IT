@@ -30,9 +30,9 @@ topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+source-git-commit: ca5ce3f901525a7ad1d08a7c4a4d8d5f61786cf4
 workflow-type: tm+mt
-source-wordcount: 2862
+source-wordcount: 2865
 ht-degree: 1%
 
 ---
@@ -267,7 +267,9 @@ Utilizza gli algoritmi di apprendimento automatico e analisi predittiva di RTP p
 
 Le seguenti funzioni sono incluse nella versione di giugno 2015. Per informazioni sulla disponibilità delle funzioni, controllare la Marketo Edition. Dopo il rilascio, torna indietro per trovare i collegamenti agli articoli dettagliati per ogni funzione.
 
-## [Rapporto e-mail attribuzione](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) {#attribution-email-report}
+## Rapporto e-mail di attribuzione {#attribution-email-report}
+
+[Rapporto e-mail di attribuzione](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md)
 
 Scopri il valore che la personalizzazione e i contenuti consigliati forniscono alle attività di marketing. [Nel report e-mail di attribuzione](/help/marketo/product-docs/web-personalization/reporting-for-web-personalization/email-reports.md) sono visualizzati i lead diretti e assistiti attribuiti dalle campagne di personalizzazione e di contenuto consigliato di RTP. In RTP, Impostazioni utente e Rapporto e-mail, aggiungi il Rapporto e-mail di attribuzione per ricevere e-mail mensili o trimestrali.
 
@@ -281,7 +283,8 @@ Sei fuori a pranzo ma devi riprogrammare un&#39;email? L&#39;app [!DNL Marketo M
 
 ## Aggiornamento dell’editor Rich Text {#rich-text-editor-update}
 
-L’editor di testo è stato aggiornato con aspetto moderno, inclusa la formattazione del testo semplificata, la modifica delle immagini, l’inserimento di collegamenti e la modifica di HTML. L’editor di HTML ora dispone di una convalida minima, che consente modifiche del codice meno restrittive.`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà implementato automaticamente entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella legacy dell&#39;editor da **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**.
+L’editor di testo è stato aggiornato con aspetto moderno, inclusa la formattazione del testo semplificata, la modifica delle immagini, l’inserimento di collegamenti e la modifica di HTML. L’editor di HTML ora dispone di una convalida minima, che consente modifiche del codice meno restrittive.
+`<iframe width="420" height="315" src="https://www.youtube.com/embed/LmmBN6IQrII" frameborder="0" allowfullscreen></iframe>` Questo aggiornamento verrà implementato automaticamente entro pochi giorni dalla versione di luglio. In seguito, potrai passare dalla versione nuova a quella legacy dell&#39;editor da **[!UICONTROL Admin]> [!UICONTROL Email] >[!UICONTROL Edit Editor Settings]**.
 
 ![](assets/image2015-7-10-9-3a42-3a44.png)
 
