@@ -4,10 +4,10 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 42d19e88f8c9b77f5e2524701f2cced40eccaf86
+source-git-commit: 55a3bfe19da19ebfdf3f565ac4a4dbe2ca6041a2
 workflow-type: tm+mt
-source-wordcount: '457'
-ht-degree: 6%
+source-wordcount: '488'
+ht-degree: 5%
 
 ---
 
@@ -39,6 +39,10 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 * **Le integrazioni CRM e i servizi LaunchPoint** verranno disabilitati, ma dovrebbero riprendere automaticamente in seguito.
 * **Le pagine di destinazione, i moduli e la raccolta dati** non saranno disponibili e verrà visualizzato un messaggio di manutenzione.
+
+>[!NOTE]
+>
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri conservare i dati durante la migrazione, contatta il [supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} e fornisci l&#39;ID modulo e l&#39;ID Munchkin della sottoscrizione.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -166,4 +170,4 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 ## Aggiornamenti e supporto {#support}
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
