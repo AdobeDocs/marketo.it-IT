@@ -40,7 +40,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>E-mail Designer - Componenti HTML modificabili in Frammenti</strong>: all'interno dei frammenti visivi, i campi modificabili sono supportati nei componenti immagine, testo e pulsante tramite il pannello delle proprietà del componente. Per i componenti HTML, i campi modificabili sono configurati in modo diverso, utilizzando una sintassi basata su variabili all’interno del codice sorgente del componente HTML stesso.
    </td>
    <td>Rilasciato</i></td>
-   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -91,7 +91,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=it){target="_blank"}.
 
 * **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
 
