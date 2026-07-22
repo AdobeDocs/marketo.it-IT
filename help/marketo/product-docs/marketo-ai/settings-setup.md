@@ -3,9 +3,9 @@ description: Scopri come abilitare le autorizzazioni di Marketo AI, configurare 
 title: Impostazioni e configurazione
 badge: beta
 exl-id: faf642a1-25f0-4566-b35d-074b003835ed
-source-git-commit: 333381166ca4d2b89dea53c6d925e5d837d93aa6
+source-git-commit: f5228b97caf8301ca2a4360c02803d5749854b56
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '535'
 ht-degree: 2%
 
 ---
@@ -81,7 +81,7 @@ Segui questi passaggi per assegnare un utente specifico al ruolo _Utente di Mark
 
 ## Impostazioni {#settings}
 
-1. In Il mio Marketo, fai clic sul riquadro **IA per Marketo**.
+1. Nel Marketo personale, fare clic sul riquadro **[!UICONTROL Marketo AI]**.
 
    ![](assets/settings-setup-7.png)
 
