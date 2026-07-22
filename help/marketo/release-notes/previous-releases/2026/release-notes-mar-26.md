@@ -2,10 +2,10 @@
 description: Note sulla versione - Marzo 2026 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Marzo 2026
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 18%
+source-wordcount: '468'
+ht-degree: 21%
 
 ---
 
@@ -37,9 +37,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-mail Designer - Componenti HTML modificabili in Frammenti</strong>: all'interno dei frammenti visivi, i campi modificabili sono supportati nei componenti immagine, testo e pulsante tramite il pannello delle proprietà del componente. Per i componenti HTML, i campi modificabili sono configurati in modo diverso, utilizzando una sintassi basata su variabili all’interno del codice sorgente del componente HTML stesso.</td>
+   <td><strong>E-mail Designer - Componenti HTML modificabili in Frammenti</strong>: all'interno dei frammenti visivi, i campi modificabili sono supportati nei componenti immagine, testo e pulsante tramite il pannello delle proprietà del componente. Per i componenti HTML, i campi modificabili sono configurati in modo diverso, utilizzando una sintassi basata su variabili all’interno del codice sorgente del componente HTML stesso.
+   </td>
    <td>Rilasciato</i></td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/customizable-fragments#editable-html" target="_blank">Componenti HTML modificabili nei frammenti</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -47,7 +48,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>E-mail Designer - Azioni rapide</strong>: <i>Parità con il vecchio editor e-mail</i>. Le azioni rapide sono ora disponibili per tutte le risorse di E-mail Designer (e-mail, modelli e-mail, frammenti). Le azioni rapide supportate includono: Duplica, Elimina, Sposta, Crea/Modifica bozza.</td>
+   <td><strong>E-mail Designer - Azioni rapide</strong>: <i>Parità con il vecchio editor e-mail</i>. Le azioni rapide sono ora disponibili per tutte le risorse di E-mail Designer (e-mail, modelli e-mail, frammenti). Le azioni rapide supportate includono: Duplica, Elimina, Sposta, Crea/Modifica bozza.
+   </td>
    <td>Rilasciato</i></td>
    <td>n/d</td>
   </tr>
@@ -57,7 +59,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
    <tr>
-   <td><strong>E-mail Designer - Correzione rendering di Outlook</strong>: questo aggiornamento risolve alcuni problemi di rendering, in particolare in MS Outlook. La modalità HTML avanzata consente di apportare modifiche minori a HTML/CSS o di aggiungere tag script al modello e-mail.</td>
+   <td><strong>E-mail Designer - Correzione rendering di Outlook</strong>: questo aggiornamento risolve alcuni problemi di rendering, in particolare in MS Outlook. La modalità HTML avanzata consente di apportare modifiche minori a HTML/CSS o di aggiungere tag script al modello e-mail.
+   </td>
    <td>Rilasciato</td>
    <td><a href="/help/marketo/product-docs/email-marketing/email-designer/advanced-html-mode.md" target="_blank">Modificare i modelli e-mail con l’editor HTML avanzato</a></td>
   </tr>
@@ -88,10 +91,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 ## Annunci {#announcements}
 
-* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617?profile.language=it){target="_blank"}.
+* **Funzionalità SEO obsoleta**: martedì 31 marzo 2026, Marketo Engage dichiarerà obsoleta la funzionalità di ottimizzazione per i motori di ricerca (SEO). Se non utilizzi attivamente la SEO (Search Engine Optimization), non devi fare nulla. Se hai utilizzato SEO di recente, puoi esportare i dati. [Ulteriori informazioni](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/seo-feature-deprecation-248617){target="_blank"}.
 
 * **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
 
-* **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 luglio 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 agosto 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **API SOAP obsoleta**: il supporto per l&#39;API Marketo SOAP terminerà il 31 luglio 2026. I servizi che utilizzano le funzionalità API SOAP devono essere migrati alle [API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.

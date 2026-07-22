@@ -2,10 +2,10 @@
 description: Note sulla versione - Maggio 2026 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2026
 feature: Release Information
-source-git-commit: 7ed34709d2a8b8ab3922a62d043bcdfa8e2d33ce
+source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
 workflow-type: tm+mt
-source-wordcount: '802'
-ht-degree: 14%
+source-wordcount: '760'
+ht-degree: 15%
 
 ---
 
@@ -30,7 +30,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>Marketo AI</strong>: utilizza una suite di agenti progettati per automatizzare funzioni di marketing lunghe ma importanti (due agenti disponibili ora e altri in arrivo).
 </td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Panoramica di Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Panoramica di Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -40,7 +40,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>Server MCP Marketo Engage</strong>: il server MCP Marketo Engage funge da ponte tra l'assistente AI e Marketo Engage. Espone più di 100 operazioni tra moduli, programmi, campagne intelligenti, persone/lead, e-mail, snippet, elenchi e cartelle.</td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it" target="_blank">Server Marketo MCP</a></td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html" target="_blank">Server Marketo MCP</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Sta digitando</strong>: ora sia il visitatore che l'agente visualizzano un messaggio "sta digitando..." notifica mentre l’altra parte sta digitando, impedendo a una di interrompere l’altra.</td>
+   <td><strong>Dynamic Chat - Sta digitando</strong>: il visitatore e l'agente ricevono una notifica "sta digitando..." mentre l'altra parte sta digitando, impedendo a una di interrompere l'altra.
+   </td>
    <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
@@ -101,7 +102,8 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Nuovo comportamento di sincronizzazione attributi</strong>: in precedenza, l'aggiunta di nuovi attributi bloccava le modifiche nell'ambiente fino a 24 ore al termine della sincronizzazione, impedendo la modifica e la pubblicazione delle finestre di dialogo. Ora, mentre l’aggiunta di un nuovo attributo richiede ancora una sincronizzazione dati completa (che può richiedere ancora fino a 24 ore), l’ambiente non viene più bloccato durante il processo.</td>
+   <td><strong>Dynamic Chat - Nuovo comportamento di sincronizzazione attributi</strong>: in precedenza, l'aggiunta di nuovi attributi bloccava le modifiche nell'ambiente fino a 24 ore al termine della sincronizzazione, impedendo la modifica e la pubblicazione delle finestre di dialogo. Ora, mentre l’aggiunta di un nuovo attributo richiede ancora una sincronizzazione dati completa (che può richiedere ancora fino a 24 ore), l’ambiente non viene più bloccato durante il processo.
+   </td>
    <td>Rilasciato</td>
    <td>n/d</td>
   </tr>
@@ -113,17 +115,17 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 
 * **Campi obsoleti per funzionalità social**: nel 2025, Marketo Engage ha dichiarato obsolete le seguenti funzionalità social:
 
-   * Sondaggi
-   * Pulsante social
-   * Offerta segnalata
-   * Condividi video
-   * Lotterie
+  * Sondaggi
+  * Pulsante social
+  * Offerta segnalata
+  * Condividi video
+  * Lotterie
 
 All&#39;inizio di quest&#39;anno, i campi correlati che erano stati lasciati indietro sono stati rimossi da Marketo. Poco dopo, le richieste API che facevano riferimento a determinati campi lead correlati a Social hanno restituito un errore &quot;campo non trovato&quot;, causando interruzioni. Il servizio è stato ripristinato dopo che i campi interessati sono stati resi nuovamente disponibili, quindi per evitare ulteriori interruzioni, Marketo ha definitivamente scollegato i campi Social dalla rimozione delle funzioni Social (e come tale saranno disponibili nel tuo account Marketo). Gli utenti sono invitati a rivedere le query API e le integrazioni che fanno riferimento a campi correlati a Marketo Social e a determinare se tali campi sono ancora necessari per i processi aziendali in corso.
 
-* **Funzionalità di unione API per campi booleani**: il comportamento dei campi booleani in un&#39;unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=it){target="_blank"} per ulteriori dettagli.
+* **Funzionalità di unione API per campi booleani**: il comportamento dei campi booleani in un&#39;unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219){target="_blank"} per ulteriori dettagli.
 
-* **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 luglio 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
+* **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 agosto 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
 
 * **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
 
