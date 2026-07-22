@@ -1,34 +1,14 @@
 ---
-title: "2022"
+title: 2022
 description: 2022 - Documentazione di Marketo - Documentazione del prodotto
 feature: Release Information
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
-  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
-  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
-  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-subfeature_v2:
-  - id: ad89fb33-8541-4339-afe7-bb13d1633714
-  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-  - id: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-  - id: d095671a-1355-40aa-8b5f-06c33c68080b
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 1e70b9383bf3a1cd30715df4379d440c4efb1abd
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: d65b4a73-87a3-4d56-b638-74e74d9939ceid: e64968b2-4ee5-47f9-8cae-0588f184b9ebid: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: f71e690b-4480-4b67-9ef5-88f42f9cdfdbid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2: id: ad89fb33-8541-4339-afe7-bb13d1633714id: d0251300-e25f-466f-9856-7e11ce8fa7aaid: efc9a24a-a6a4-449d-a3e6-44f6c74dfd46
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: d095671a-1355-40aa-8b5f-06c33c68080bid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
-source-wordcount: 4254
-ht-degree: 6%
+source-wordcount: 4283
+ht-degree: 7%
 
 ---
 
@@ -50,8 +30,8 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **21 gennaio 2022**
 
 * **Screens aggiornato nell&#39;esperienza di nuova generazione**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
 
-   * Dettagli risorsa pagina di destinazione in [!UICONTROL Design Studio]
-   * Dettagli risorsa pagina di destinazione in [!UICONTROL Marketing Activities]
+  * Dettagli risorsa pagina di destinazione in [!UICONTROL Design Studio]
+  * Dettagli risorsa pagina di destinazione in [!UICONTROL Marketing Activities]
 
 ## Integrazione di [!DNL Microsoft Dynamics] {#microsoft-dynamics-integration}
 
@@ -129,7 +109,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 ## Orchestrazione cross-channel
 
-* **[!DNL Dynamic Chat]**: massimizza ogni opportunità sul tuo sito web eseguendo il targeting sia dei lead che degli account con conversazioni proattive, coinvolgenti e 1:1 personalizzate. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} consente agli utenti di Marketo Engage di iniziare a sfruttare le chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le caratteristiche includono: la possibilità di prenotare le riunioni direttamente all&#39;interno della chat, l&#39;indirizzamento dei lead, modelli di avvio, creazione di conversazioni con trascinamento e molto altro. Dynamic Chat è incluso in tutti i pacchetti Marketo Engage e verrà introdotto quest’anno per tutti gli utenti di Marketo Engage.
+* **[!DNL Dynamic Chat]**: massimizza ogni opportunità sul tuo sito web eseguendo il targeting di lead e account con conversazioni proattive, coinvolgenti e personalizzate in un rapporto di 1:1. [Dynamic Chat](/help/marketo/product-docs/demand-generation/dynamic-chat/dynamic-chat-overview.md){target="_blank"} consente agli utenti di Marketo Engage di iniziare a sfruttare le chat come parte chiave delle esperienze cross-channel integrate per i casi di utilizzo di marketing e vendite B2B. Le caratteristiche includono: la possibilità di prenotare le riunioni direttamente all&#39;interno della chat, l&#39;indirizzamento dei lead, modelli di avvio, creazione di conversazioni con trascinamento e molto altro. Dynamic Chat è incluso in tutti i pacchetti Marketo Engage e verrà introdotto quest’anno per tutti gli utenti di Marketo Engage.
 
 * **Miglioramento del filtro dell&#39;attività bot e-mail**: come miglioramento della funzione [Filtro dell&#39;attività bot e-mail](/help/marketo/product-docs/administration/email-setup/filtering-email-bot-activity.md){target="_blank"} rilasciata in precedenza, ora puoi dare il consenso per la registrazione delle attività identificate come bot. Puoi quindi filtrare e attivare le azioni in base alle attività identificate come eseguite dai bot.
 
@@ -137,7 +117,7 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **11 marzo 2022**, 
 
 * **Screens aggiornato nell&#39;esperienza di nuova generazione**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
 
-   * Visualizzazione elenco moduli in [!UICONTROL Design Studio] (incluse nuove azioni in blocco)
+  * Visualizzazione elenco moduli in [!UICONTROL Design Studio] (incluse nuove azioni in blocco)
 
 * **Aggiornamento del flusso di lavoro del programma di importazione**: il flusso di lavoro del programma di importazione viene consegnato nell&#39;esperienza di nuova generazione con una progettazione aggiornata e miglioramenti a livello di usabilità. Si tratta di una modifica automatica senza interruttore.
 
@@ -275,8 +255,8 @@ Le seguenti funzionalità inizieranno a essere rilasciate il **24 giugno 2022**,
 
 **Nuove visualizzazioni per commutazione**: le visualizzazioni seguenti sono ora disponibili nell&#39;esperienza di nuova generazione:
 
-* [Vista dettagli e-mail](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-details-view){target="_blank"}
-* [Vista elenco e-mail](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md#email-list-view){target="_blank"}
+* [Vista dettagli e-mail](https://experienceleague.adobe.com/it/docs/marketo/using/home){target="_blank"}
+* [Vista elenco e-mail](https://experienceleague.adobe.com/it/docs/marketo/using/home){target="_blank"}
 
 ## Automazione dell’esperienza
 
@@ -340,10 +320,10 @@ Le seguenti funzionalità hanno iniziato un rollout graduale il **26 agosto 2022
 
 * **Visualizza gerarchia cartelle della cartella di destinazione nella finestra di dialogo Sposta**: la visualizzazione della gerarchia di cartelle per ogni cartella semplifica lo spostamento delle risorse e riduce la probabilità di inserirle nella cartella errata.
 
-* **[Screens aggiornato nell&#39;esperienza di nuova generazione](/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md){target="_blank"}**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
+* **[Screens aggiornato nell&#39;esperienza di nuova generazione](https://experienceleague.adobe.com/it/docs/marketo/using/home){target="_blank"}**: verranno fornite schermate aggiuntive e aggiornate nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite interruttore:
 
-   * Dettagli snippet
-   * Dettagli di &quot;Immagini e file&quot;
+  * Dettagli snippet
+  * Dettagli di &quot;Immagini e file&quot;
 
 >[!NOTE]
 >
@@ -433,8 +413,8 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
 
 * **Screens aggiornato nell&#39;esperienza di nuova generazione**: verranno forniti schermi aggiuntivi e aggiornati nell&#39;esperienza di nuova generazione che offrono una progettazione aggiornata e miglioramenti a livello di usabilità accessibili tramite l&#39;interruttore:
 
-   * Dettagli modello pagina di destinazione
-   * Elenco modelli e-mail
+  * Dettagli modello pagina di destinazione
+  * Elenco modelli e-mail
 
 <table>
   <tr>
@@ -443,7 +423,7 @@ Le seguenti funzioni rientrano nel ciclo di rilascio standard. Inizieranno a ess
   </tr>
   <tr>
    <td>Rilasciato</td>
-   <td><a href="/help/marketo/product-docs/marketo-engage-modern-ux/toggle-switch.md">Attiva/Disattiva</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/home">Attiva/Disattiva</a></td>
   </tr>
   </tbody>
 </table>

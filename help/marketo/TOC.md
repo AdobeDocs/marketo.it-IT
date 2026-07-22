@@ -3,7 +3,7 @@ audience: end-user
 user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: babcd0bfb6c16165488cabd075a9d75d2952016b
 workflow-type: tm+mt
 source-wordcount: '8901'
 ht-degree: 96%
@@ -1119,10 +1119,7 @@ ht-degree: 96%
       + [Indagare sui lead](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importa lead](product-docs/marketo-ai/skills/import-leads.md)
       + [Convalida programmi](product-docs/marketo-ai/skills/validate-programs.md)
-  + Marketo Engage Modern UX {#marketo-engage-modern-ux}
-    + [Panoramica](product-docs/marketo-engage-modern-ux/overview.md)
-    + [Utilizzo della ricerca globale](product-docs/marketo-engage-modern-ux/using-the-global-search.md)
-    + {hide-from-toc}[Attiva/Disattiva switch](product-docs/marketo-engage-modern-ux/toggle-switch.md)
+    + [MCP MARKETO](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notifiche di Marketo {#marketo-notifications}
     + {hide-from-toc}[Notifica: connessione Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
