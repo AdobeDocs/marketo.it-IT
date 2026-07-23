@@ -4,9 +4,9 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
+source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!NOTE]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri conservare i dati durante la migrazione, contatta il [supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} e fornisci l&#39;ID modulo e l&#39;ID Munchkin della sottoscrizione.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri conservare i dati durante la migrazione, contatta il [supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} e fornisci l&#39;ID modulo e l&#39;ID Munchkin della sottoscrizione.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -107,12 +107,9 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
   </tr>
   <tr>
    <td>21 luglio 2026</td>
-   <td>AB54<br>
-   AB56</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <td>AB54</td>
+   <td>17:00 PDT</td>
+   <td>Completato</td>
   </tr>
   <tr>
    <td>23 luglio 2026</td>
@@ -170,4 +167,4 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 ## Aggiornamenti e supporto {#support}
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
