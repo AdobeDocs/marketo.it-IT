@@ -4,9 +4,9 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: cd0b1dece6129df76deb7eb9c8953711d4d29e45
+source-git-commit: b38557d141ba7364fa5900ba0b87c7ba9d24da4d
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '479'
 ht-degree: 5%
 
 ---
@@ -107,12 +107,9 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
   </tr>
   <tr>
    <td>21 luglio 2026</td>
-   <td>AB54<br>
-   AB56</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <td>AB54</td>
+   <td>17:00 PDT</td>
+   <td>Completato</td>
   </tr>
   <tr>
    <td>23 luglio 2026</td>
