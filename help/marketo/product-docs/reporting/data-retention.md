@@ -93,7 +93,7 @@ I dati relativi alle attività precedenti alla finestra di conservazione possono
 
 ## Esportare i dati
 
-Marketo offre l&#39;[API REST Bulk Extract](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), che consente di esportare le attività delle persone e ospitarle localmente. Una volta estratti i dati tramite l’API, puoi memorizzarli e ordinarli in base alle esigenze del caso d’uso.
+Marketo offre l&#39;[API REST Bulk Extract](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/bulk-extract/bulk-extract), che consente di esportare le attività delle persone e ospitarle localmente. Una volta estratti i dati tramite l’API, puoi memorizzarli e ordinarli in base alle esigenze del caso d’uso.
 
 >[!TIP]
 >

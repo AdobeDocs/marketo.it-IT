@@ -1119,7 +1119,7 @@ ht-degree: 96%
       + [Indagare sui lead](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importa lead](product-docs/marketo-ai/skills/import-leads.md)
       + [Convalida programmi](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MCP MARKETO](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
+    + [MCP MARKETO](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mcp-server)
   + Notifiche di Marketo {#marketo-notifications}
     + {hide-from-toc}[Notifica: connessione Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
