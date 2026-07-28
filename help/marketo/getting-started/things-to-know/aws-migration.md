@@ -4,10 +4,10 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: f0d3f6ad0113d3610f55e03533f8280816ed5181
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 5%
+source-wordcount: '531'
+ht-degree: 6%
 
 ---
 
@@ -50,7 +50,7 @@ Prima di esaminare le tabelle seguenti, [scopri come identificare](/help/marketo
 
 ## Pianificazione {#schedule}
 
-Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, quindi controlla qui per ulteriori dettagli.
+Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o modificate periodicamente, pertanto è necessario monitorare questa pianificazione per eventuali aggiornamenti.
 
 <table>
  <tbody>
@@ -150,6 +150,24 @@ Vengono aggiunte periodicamente nuove date e informazioni sul datacenter/pod, qu
    AB44</td>
    <td>17:00 PDT<br>
    18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
+  <tr>
+   <td>26 agosto 2026</td>
+   <td>AB40<br>
+   AB50</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
+  <tr>
+   <td>28 agosto 2026</td>
+   <td>AB53<br>
+   AB56</td>
+   <td>15:00 PDT<br>
+   16:00 PDT</td>
    <td>Secondo pianificazione<br>
    Nei tempi previsti</td>
   </tr>

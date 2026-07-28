@@ -2,7 +2,7 @@
 description: Scopri in che modo i criteri di conservazione dei dati di 25 mesi e 90 giorni di Marketo influiscono sui rapporti di Analytics, con un raggruppamento per rapporto e suggerimenti per la conservazione dei dati più a lungo.
 title: Conservazione dei dati
 feature: Reporting
-source-git-commit: 0828b4cb43dd18d02b80083ea5128e2f0e5e40d6
+source-git-commit: 8eb9fd285e5dd055603579fbb5e7a4c4eb681172
 workflow-type: tm+mt
 source-wordcount: '1084'
 ht-degree: 5%
@@ -13,7 +13,7 @@ ht-degree: 5%
 
 Marketo conserva i dati dell’attività di marketing su base continua. I dati relativi all’attività e all’iscrizione alla campagna vengono memorizzati per un periodo continuo di 25 mesi oltre la data dell’attività e i dati relativi all’attività per un volume elevato vengono conservati per un periodo continuo di 90 giorni oltre la data dell’attività per impostazione predefinita, che può essere regolato per utente. Oltre questi periodi di conservazione, i dati non sono più disponibili tramite l’interfaccia utente di Marketo.
 
-## Rapporti di Marketo analytics
+## Rapporti di Marketo Analytics
 
 Poiché i dati delle attività vengono conservati per un massimo di 25 mesi, alcuni rapporti di Marketo Analytics sono interessati da questo criterio, mentre altri no. I rapporti che estraggono dati dai registri di attività della persona mostreranno dati solo per un massimo di 25 mesi. I rapporti che non fanno assolutamente riferimento all’attività della persona non vengono interessati.
 
@@ -25,7 +25,7 @@ La tabella seguente riepiloga il comportamento di ogni rapporto, inclusi gli sce
 
 | Tipo di report | Filtra scenario | Interessato dai criteri di conservazione? |
 |---|---|---|
-| **Rapporti di Revenue Cycle Explorer** | Nessun filtro disponibile | No - Gli utenti di Revenue Cycle Explorer e Advanced Analytics sono completamente esenti da questi limiti di conservazione. I dati RCE vengono inviati durante la notte in un server di database separato che gestisce il reporting RCE. Poiché è memorizzato separatamente e non nei registri di attività di persona, questi rapporti non sono interessati da questo criterio. La funzione di gestione del ciclo dei ricavi non estrae dati direttamente dal database delle persone, pertanto i filtri non sono disponibili. |
+| **Rapporti di Revenue Cycle Explorer** | Nessun filtro disponibile | No: gli utenti di Revenue Cycle Explorer e Advanced Analytics sono completamente esenti da questi limiti di conservazione. I dati RCE vengono inviati durante la notte in un server di database separato che gestisce il reporting RCE. Poiché è memorizzato separatamente e non nei registri di attività di persona, questi rapporti non sono interessati da questo criterio. La funzione di gestione del ciclo dei ricavi non estrae dati direttamente dal database delle persone, pertanto i filtri non sono disponibili. |
 | **Rapporto prestazioni persone** | Nessun filtro elenco avanzato | No |
 | | Filtri per attributi persona (Esempio: Nome) | No |
 | | Filtri sulle attività personali negli ultimi 25 mesi | No |
@@ -61,7 +61,7 @@ La tabella seguente riepiloga il comportamento di ogni rapporto, inclusi gli sce
 | | Filtri per attributi persona (Esempio: Nome) | No |
 | | Filtri sulle attività personali negli ultimi 25 mesi | No |
 | | Filtri per attività persona senza vincoli di data | No |
-| **Attività pagina Web** | Nessun filtro elenco avanzato | Sì, soggetto al periodo di conservazione predefinito di 90 giorni (regolabile per utente) |
+| **Attività pagina Web** | Nessun filtro elenco avanzato | Sì: soggetto al periodo di conservazione predefinito di 90 giorni (regolabile per utente) |
 | | Filtri per attributi persona (Esempio: Nome) | Sì |
 | | Filtri sulle attività personali negli ultimi 25 mesi | Sì |
 | | Filtri per attività persona senza vincoli di data | Sì |
