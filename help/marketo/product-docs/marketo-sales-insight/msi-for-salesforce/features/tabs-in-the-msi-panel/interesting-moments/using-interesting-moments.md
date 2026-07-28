@@ -5,15 +5,12 @@ title: Utilizzo di momenti di interesse
 exl-id: ccf7664b-08e1-490a-a3f9-5fa3bd8fb05f
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/a7xwk8AWmiXHHxNMaCKh6rfVAO-60pwNjBoNsCZu0h4
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-topic_v2:
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+topic_v2: id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 76cacaf05738c6fe8836c5f2e9c64d9287c56bb7
 workflow-type: tm+mt
-source-wordcount: 427
+source-wordcount: 431
 ht-degree: 1%
 
 ---
@@ -24,11 +21,11 @@ I momenti interessanti sono la chiave per comunicare con il tuo team di vendita 
 
 >[!AVAILABILITY]
 >
->Sono disponibili solo per [!DNL Marketo Sales Insight] e [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md) clienti.
+>Per utilizzare i momenti interessanti è necessario essere un utente [!DNL Marketo Sales Insight] o [[!DNL Marketo Sales Connect]](/help/marketo/product-docs/marketo-sales-connect/marketo/interesting-moments-in-sales-connect.md).
 
 ## Qual è un momento interessante? {#what-is-an-interesting-moment}
 
-Sta a te decidere! Decidi quali informazioni sono rilevanti per il tuo team di vendita. Il tuo team di vendita potrebbe voler sapere quando un lead:
+Sta a te. Decidi quali informazioni sono rilevanti per il tuo team di vendita. Il tuo team di vendita potrebbe voler sapere quando un lead:
 
 * Visita la pagina dei prezzi sul sito Web
 * Fa clic su un collegamento in un messaggio e-mail di annuncio di un nuovo prodotto.
