@@ -1,10 +1,9 @@
 ---
 description: Rivedi l’ambito dati di Marketo AI, i controlli di governance e le considerazioni PII in tutti i flussi di lavoro chiave, come l’importazione di lead, il controllo qualità del programma e la normalizzazione dei dati.
 title: Scheda informativa di Marketo AI
-badge: beta
-source-git-commit: 06d77c31c729de70033696662fb6191eb527dedf
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '1454'
+source-wordcount: '1453'
 ht-degree: 0%
 
 ---

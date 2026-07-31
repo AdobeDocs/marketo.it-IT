@@ -1,10 +1,9 @@
 ---
 description: L’agente lead di Investigate risponde alle domande che gli addetti al marketing si pongono più spesso. È più veloce e affidabile rispetto allo scavo manuale dei registri di attività, alla cronologia intelligente delle campagne e ai record di punteggio.
 title: Indagare sui lead
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -13,15 +12,9 @@ ht-degree: 0%
 
 Scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo.
 
->[!AVAILABILITY]
+>[!PREREQUISITES]
 >
->Questa funzione è attualmente in versione open beta. Per richiedere l’accesso, contatta il tuo account manager. Devi accettare anche i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
->
->* È necessario avere accesso in visualizzazione al record della persona/del lead e al programma o alla fase cardine che si sta esaminando.
-
->[!AVAILABILITY]
->
->Questa funzione è attualmente in versione open beta. Per accedere, rivolgiti al tuo account manager.
+>È necessario avere accesso in visualizzazione al record della persona/del lead e al programma o alla fase cardine che si sta esaminando.
 
 ## Come usare {#how-to-use}
 
