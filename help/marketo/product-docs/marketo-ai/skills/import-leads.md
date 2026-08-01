@@ -2,10 +2,9 @@
 description: Scopri come utilizzare l’agente Lead di importazione per caricare un CSV, applicare regole aziendali, mappare campi e importare lead direttamente nel database di Marketo Engage.
 title: Importa lead
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-badge: beta
-source-git-commit: 408923e529bdfb2aa23f7d6acfb229cd7ee4c9d8
+source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
@@ -13,10 +12,6 @@ ht-degree: 0%
 # Importa lead {#import-leads}
 
 Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi.
-
->[!AVAILABILITY]
->
->Questa funzione è attualmente in versione open beta. Per richiedere l’accesso, contatta il tuo account manager. Devi accettare anche i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
 ## Come usare {#how-to-use}
 
