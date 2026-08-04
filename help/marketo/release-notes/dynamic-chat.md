@@ -52,11 +52,11 @@ La logica di indirizzamento della chat in tempo reale in Dynamic Chat è stata r
 
 * **Fino a due tentativi di coinvolgimento per sessione**
 
-   * Il sistema tenterà di connettersi con non più di due agenti due agenti (al massimo), ma rigorosamente all’interno della regola di indirizzamento principale.
+  * Il sistema tenterà di connettersi con non più di due agenti due agenti (al massimo), ma rigorosamente all’interno della regola di indirizzamento principale.
 
-   * Se un agente è disponibile ma non risponde (ad esempio, rifiuta o salta la chat), il sistema tenterà di connettersi a un altro agente dello stesso pool.
+  * Se un agente è disponibile ma non risponde (ad esempio, rifiuta o salta la chat), il sistema tenterà di connettersi a un altro agente dello stesso pool.
 
-   * La logica di fallback (come Round Robin) viene attivata solo se non vengono trovati agenti idonei durante la risoluzione iniziale, per non riprovare dopo un coinvolgimento fallito.
+  * La logica di fallback (come Round Robin) viene attivata solo se non vengono trovati agenti idonei durante la risoluzione iniziale, per non riprovare dopo un coinvolgimento fallito.
 
 * **Comportamento specifico della regola di indirizzamento**
 
@@ -72,9 +72,9 @@ Se l’agente non è disponibile, il sistema:
 
 * Invece:
 
-   * Mostra il calendario della riunione dell&#39;agente mappato (se attivato).
--oppure-
-   * Torna a un messaggio predefinito (caso peggiore).
+  * Mostra il calendario della riunione dell&#39;agente mappato (se attivato).
+    -oppure-
+  * Torna a un messaggio predefinito (caso peggiore).
 
 La regola di indirizzamento a livello di scheda (ad esempio Team, Personalizzato) viene considerata solo se l’instradamento dell’account non è idoneo (nessun dominio o agente corrispondente).
 
@@ -118,9 +118,9 @@ La regola di indirizzamento (Personalizzato, Team, Round Robin) a livello di sch
 
 * Se il coinvolgimento non ha esito positivo, viene applicata la logica di fallback:
 
-   * Fallback del calendario (se attivato),
--oppure-
-   * Messaggio predefinito.
+  * Fallback del calendario (se attivato),
+    -oppure-
+  * Messaggio predefinito.
 
 Il fallback Round Robin viene considerato solo quando non vengono trovati agenti idonei dalla regola di indirizzamento principale, non quando i singoli agenti non rispondono.
 
@@ -304,9 +304,9 @@ Quantifica i lead in base alla qualità della loro interazione via chat e utiliz
 
 * Impostazione punteggio:
 
-   * Nella casella in entrata dell’agente: durante una chat in tempo reale, l’agente è in grado di aggiornare o impostare un punteggio per la conversazione, che viene memorizzato nell’attività relativa
+  * Nella casella in entrata dell’agente: durante una chat in tempo reale, l’agente è in grado di aggiornare o impostare un punteggio per la conversazione, che viene memorizzato nell’attività relativa
 
-   * Nel designer di flusso: nella scheda dell’obiettivo l’utente è in grado di aggiornare o impostare un punteggio per la conversazione
+  * Nel designer di flusso: nella scheda dell’obiettivo l’utente è in grado di aggiornare o impostare un punteggio per la conversazione
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
