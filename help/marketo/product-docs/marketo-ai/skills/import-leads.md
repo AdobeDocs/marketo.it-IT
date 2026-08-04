@@ -2,9 +2,9 @@
 description: Scopri come utilizzare l’agente Lead di importazione per caricare un CSV, applicare regole aziendali, mappare campi e importare lead direttamente nel database di Marketo Engage.
 title: Importa lead
 exl-id: 6583b93c-71eb-4a07-b25d-11eca834a3ba
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 66029f852408996cf816a3fd9f3e8cc9cc504126
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '215'
 ht-degree: 0%
 
 ---
@@ -27,19 +27,19 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
    ![](assets/import-leads-3.png)
 
-1. Per iniziare a importare i lead, fai clic sull’icona dell’allegato e caricali tramite il file .CSV.
+1. Per iniziare a importare i lead, fai clic sull&#39;icona **+** e seleziona **Carica file**. Trova e carica il tuo file CSV.
 
    ![](assets/import-leads-4.png)
 
-1. Digitare &quot;Import list&quot; e fare clic su **Invia**.
+1. Fare clic sull&#39;icona freccia su.
 
    ![](assets/import-leads-5.png)
 
-   L’elenco viene visualizzato in anteprima nella console centrale.
+1. Fai clic su **Rivedi** per visualizzare l&#39;elenco nella console centrale.
 
    ![](assets/import-leads-6.png)
 
-1. Immettere una regola di business desiderata e fare clic su **Invia**.
+1. Controlla le regole business disponibili per pulire l’elenco. Immettere il valore desiderato e fare clic sull&#39;icona freccia su.
 
    ![](assets/import-leads-7.png)
 
@@ -51,15 +51,14 @@ Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con a
 
 1. Per visualizzare i campi mappati, fai clic sulla scheda **Mappature**.
 
-1. Se alcuni campi non sono stati mappati correttamente, correggili qui.
+1. Se alcuni campi non sono stati mappati correttamente, correggerli qui modificando il **campo di destinazione**.
 
    ![](assets/import-leads-9.png)
 
 1. Al termine dell&#39;importazione dell&#39;elenco, fare clic sulla scheda **Importa in Marketo**.
 
-1. Seleziona la cartella di destinazione e immetti un nome. Seleziona ogni casella di consenso e fai clic su **Approva e importa in Marketo**.
+1. Seleziona la cartella di destinazione e immetti un nome. Seleziona ogni casella di consenso e fai clic su **Inizia importazione**.
 
    ![](assets/import-leads-10.png)
 
-Al termine dell’importazione, viene visualizzato un riepilogo di verifica che mostra i lead elaborati, le righe non riuscite ed eventuali avvisi.
-
+   Al termine dell’importazione, viene visualizzato un riepilogo di verifica che mostra i lead elaborati, le righe non riuscite ed eventuali avvisi.

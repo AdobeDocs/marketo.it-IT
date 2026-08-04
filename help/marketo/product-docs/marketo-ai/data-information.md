@@ -1,9 +1,9 @@
 ---
 description: Rivedi l’ambito dati di Marketo AI, i controlli di governance e le considerazioni PII in tutti i flussi di lavoro chiave, come l’importazione di lead, il controllo qualità del programma e la normalizzazione dei dati.
 title: Scheda informativa di Marketo AI
-source-git-commit: 0f58900f991bc288cbc6a4acc0ce882722b853ea
+source-git-commit: 03ad8c4d06e8dd011cd8fb0d49a7f7c436a18c16
 workflow-type: tm+mt
-source-wordcount: '1453'
+source-wordcount: '1382'
 ht-degree: 0%
 
 ---
@@ -28,41 +28,47 @@ L’intelligenza artificiale di Marketo è una funzione nativa e dinamica di Ado
 
 **Funzione:** elabora i dati dei lead forniti dall&#39;utente per la mappatura, la normalizzazione, la deduplicazione e l&#39;importazione in Marketo Engage.
 
-### Controllo di qualità del programma
+### Convalida programmi
 
 **Funzione:** valuta i programmi Marketo in base alle regole organizzative definite dagli utenti in un file di markdown delle abilità, ad esempio gli standard di denominazione, lo stato di approvazione, la conformità e-mail e la logica di flusso.
 
-### Crea programma da breve
+<!--
 
-**Funzione:** utilizza prompt in linguaggio naturale per generare strutture di programmi Marketo, incluse campagne avanzate, passaggi di flusso e segnaposto di contenuto, direttamente nell&#39;ambiente dell&#39;utente.
+### Create program from brief
 
-### Agenti chiamabili
+**Function:** Uses natural-language prompts to generate Marketo program structures, including smart campaigns, flow steps, and content placeholders, directly within the user's environment.
 
-**Funzione:** esegue azioni di IA attivate da azioni di flusso all&#39;interno dei passaggi di flusso di Smart Campaign per casi di utilizzo quali convalida, normalizzazione e rilevamento di bot.
+### Callable agents
 
-### Indagine lead
+**Function:** Executes flow action-triggered AI actions within Smart Campaign flow steps for use cases such as validation, normalization, and bot detection.
+
+-->
+
+### Indagare sui lead
 
 **Funzione:** fornisce un&#39;analisi conversazionale del motivo per cui una persona è passata o meno a una fase cardine esaminando l&#39;esecuzione delle fasi del flusso e l&#39;appartenenza all&#39;elenco smart.
 
-### Misurazione e analisi
+<!--
 
-**Funzione:** genera l&#39;analisi delle prestazioni di campagne e programmi, inclusi consigli e approfondimenti sulle cause principali.
+### Measurement and analytics
+
+**Function:** Surfaces campaign and program performance analysis, including recommendations and root-cause insights.
+
+-->
 
 ### Conoscenza del prodotto
 
 **Funzione:** fornisce best practice e indicazioni pratiche per Marketo attraverso un livello di conoscenza condiviso utilizzato nell&#39;esperienza dell&#39;agente.
 
-## Casi di utilizzo
+## Casi d’uso
 
 Oltre a quelli elencati, considera l’utilizzo di IA per Marketo per diagnosticare e risolvere problemi operativi complessi (errori di sincronizzazione CRM, errori del webhook, analisi della causa principale della consegna e-mail, incongruenze dei campi), condurre controlli di audit sul tuo account (recapito e-mail, conformità del centro abbonamenti, revisioni di campagne intelligenti, valutazioni del modello di punteggio) e accelerare la creazione del programma da resoconti e modelli (programmi di eventi, campagne e-mail multilingue, configurazioni del webinar). L’intelligenza artificiale di Marketo è progettata per fornire la classificazione dei lead assistiti dall’intelligenza artificiale e l’arricchimento dei dati su larga scala, l’analisi delle prestazioni con raccomandazioni per il monitoraggio e il debug guidato delle configurazioni tecniche, come gli script Velocity e i modelli di ciclo di vita.
 
 ## Disponibilità e stato di rollout
 
-**Idoneità:** l&#39;abilitazione iniziale dell&#39;utente è limitata agli utenti Marketo Engage idonei che hanno accettato il rider Adobe Gen AI.
+**Idoneità:** il provisioning è limitato agli utenti di Marketo Engage che hanno accettato i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}.
 
-**Provisioning:** l&#39;accesso viene gestito tramite i controlli di abilitazione del prodotto esistenti e il provisioning dei flag di funzionalità all&#39;interno dell&#39;esperienza Marketo Engage.
-
-**Rollout modello:** La distribuzione procede attraverso Alpha e Private Beta prima di ampliare l&#39;espansione di Public Beta.
+**Rollout modello:** La distribuzione procede attraverso Alpha e Private Beta prima di ampliare l&#39;espansione del Beta pubblico e, in ultima analisi, la disponibilità generale.
 
 **Ambito geografico:** La versione iniziale è destinata agli utenti globali di Marketo Engage, esclusa la Cina continentale.
 
