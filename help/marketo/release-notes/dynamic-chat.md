@@ -4,19 +4,9 @@ title: Note sulla versione di Dynamic Chat
 feature: Release Information, Dynamic Chat
 exl-id: 0447dc47-b9c5-42e1-8f66-73bf67c7871d
 TQID: https://experienceleague.adobe.com/AAOfVuJRhzuwLD48wA3me91Hx6LPD9NCOGHGaXe-vyA
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-feature_v2:
-  - id: a7170d27-32ab-462b-a333-269abc654483
-  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
-  - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
-  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
-topic_v2:
-  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: a7170d27-32ab-462b-a333-269abc654483id: b0bb9048-d951-48d8-8232-45cf248a7e27id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45id: c5f60233-d5ea-4453-a799-0ad258b4d399id: ea90ebee-5c84-42d9-8b21-006bdabc95a3id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: e0eb8757-182f-49f3-94a4-1587d16f5094id: e1e0219c-f879-479f-8427-888ed2a6e9c2
 source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
 workflow-type: tm+mt
 source-wordcount: 3551
@@ -34,11 +24,11 @@ La pagina delle note sulla versione standard per Marketo Engage [si trova qui](/
 
 ### Limite di tempo di attesa del visitatore {#visitor-wait-time}
 
-Imposta un periodo di tempo massimo (tra 10 e 500 secondi) prima che un visitatore riceva un messaggio di fallback per essere connesso a un agente live. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
+Imposta un periodo di tempo massimo (tra 10 e 500 secondi) prima che un visitatore riceva un messaggio di fallback per essere connesso a un agente live. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/setup-and-configuration/agent-management#visitor-wait-time){target="_blank"}
 
 ### Scarica trascrizione {#download-transcript}
 
-Ora puoi scaricare un file .txt della trascrizione della chat al termine di una chat in tempo reale. [Ulteriori informazioni](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
+Ora puoi scaricare un file .txt della trascrizione della chat al termine di una chat in tempo reale. [Ulteriori informazioni](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/live-chat/agent-inbox#download-transcript){target="_blank"}
 
 ## Versione di giugno 2025 {#june-2025-release}
 
@@ -52,11 +42,11 @@ La logica di indirizzamento della chat in tempo reale in Dynamic Chat è stata r
 
 * **Fino a due tentativi di coinvolgimento per sessione**
 
-   * Il sistema tenterà di connettersi con non più di due agenti due agenti (al massimo), ma rigorosamente all’interno della regola di indirizzamento principale.
+  * Il sistema tenterà di connettersi con non più di due agenti due agenti (al massimo), ma rigorosamente all’interno della regola di indirizzamento principale.
 
-   * Se un agente è disponibile ma non risponde (ad esempio, rifiuta o salta la chat), il sistema tenterà di connettersi a un altro agente dello stesso pool.
+  * Se un agente è disponibile ma non risponde (ad esempio, rifiuta o salta la chat), il sistema tenterà di connettersi a un altro agente dello stesso pool.
 
-   * La logica di fallback (come Round Robin) viene attivata solo se non vengono trovati agenti idonei durante la risoluzione iniziale, per non riprovare dopo un coinvolgimento fallito.
+  * La logica di fallback (come Round Robin) viene attivata solo se non vengono trovati agenti idonei durante la risoluzione iniziale, per non riprovare dopo un coinvolgimento fallito.
 
 * **Comportamento specifico della regola di indirizzamento**
 
@@ -72,9 +62,9 @@ Se l’agente non è disponibile, il sistema:
 
 * Invece:
 
-   * Mostra il calendario della riunione dell&#39;agente mappato (se attivato).
--oppure-
-   * Torna a un messaggio predefinito (caso peggiore).
+  * Mostra il calendario della riunione dell&#39;agente mappato (se attivato).
+    -oppure-
+  * Torna a un messaggio predefinito (caso peggiore).
 
 La regola di indirizzamento a livello di scheda (ad esempio Team, Personalizzato) viene considerata solo se l’instradamento dell’account non è idoneo (nessun dominio o agente corrispondente).
 
@@ -118,9 +108,9 @@ La regola di indirizzamento (Personalizzato, Team, Round Robin) a livello di sch
 
 * Se il coinvolgimento non ha esito positivo, viene applicata la logica di fallback:
 
-   * Fallback del calendario (se attivato),
--oppure-
-   * Messaggio predefinito.
+  * Fallback del calendario (se attivato),
+    -oppure-
+  * Messaggio predefinito.
 
 Il fallback Round Robin viene considerato solo quando non vengono trovati agenti idonei dalla regola di indirizzamento principale, non quando i singoli agenti non rispondono.
 
@@ -128,7 +118,7 @@ Il fallback Round Robin viene considerato solo quando non vengono trovati agenti
 
 <p>
 
-_&#x200B;**Indirizzamento account**&#x200B;_
+_**Indirizzamento account**_
 
 <table><thead>
   <tr>
@@ -154,7 +144,7 @@ _&#x200B;**Indirizzamento account**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento personalizzato**&#x200B;_
+_**Indirizzamento personalizzato**_
 
 <table><thead>
   <tr>
@@ -180,7 +170,7 @@ _&#x200B;**Indirizzamento personalizzato**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Instradamento team**&#x200B;_
+_**Instradamento team**_
 
 <table><thead>
   <tr>
@@ -206,7 +196,7 @@ _&#x200B;**Instradamento team**&#x200B;_
   </tr>
 </tbody></table>
 
-_&#x200B;**Indirizzamento Round Robin**&#x200B;_
+_**Indirizzamento Round Robin**_
 
 <table><thead>
   <tr>
@@ -304,9 +294,9 @@ Quantifica i lead in base alla qualità della loro interazione via chat e utiliz
 
 * Impostazione punteggio:
 
-   * Nella casella in entrata dell’agente: durante una chat in tempo reale, l’agente è in grado di aggiornare o impostare un punteggio per la conversazione, che viene memorizzato nell’attività relativa
+  * Nella casella in entrata dell’agente: durante una chat in tempo reale, l’agente è in grado di aggiornare o impostare un punteggio per la conversazione, che viene memorizzato nell’attività relativa
 
-   * Nel designer di flusso: nella scheda dell’obiettivo l’utente è in grado di aggiornare o impostare un punteggio per la conversazione
+  * Nel designer di flusso: nella scheda dell’obiettivo l’utente è in grado di aggiornare o impostare un punteggio per la conversazione
 
 ![](assets/dynamic-chat-sep-oct-2024-release-2.png)
 
