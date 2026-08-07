@@ -4,9 +4,9 @@ user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 3a01bc6f6d6ec2e07a95316a30be7a379152091d
+source-git-commit: 354c6285ff143a28b3057fa7d3b0ca528c3e51b6
 workflow-type: tm+mt
-source-wordcount: '8917'
+source-wordcount: '8918'
 ht-degree: 96%
 
 ---
@@ -1011,7 +1011,7 @@ ht-degree: 96%
       + [Integrazione di GenStudio per Marketo Engage](product-docs/email-marketing/email-designer/genstudio.md)
       + [Blocco dei contenuti](product-docs/email-marketing/email-designer/content-locking.md)
       + [Collaborazione e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
-      + [Assistente AI per E-mail Designer](product-docs/email-marketing/email-designer/ai-assistant.md)
+      + [Generare contenuti nel Designer e-mail](product-docs/email-marketing/email-designer/generate-content.md)
       + [Rapporto spam e-mail con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
       + [Linee guida per il tracciamento dei messaggi aperti CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
     + Programmi e-mail {#email-programs}
@@ -1122,7 +1122,7 @@ ht-degree: 96%
       + [Indagare sui lead](product-docs/marketo-ai/skills/investigate-leads.md)
       + [Importa lead](product-docs/marketo-ai/skills/import-leads.md)
       + [Convalida programmi](product-docs/marketo-ai/skills/validate-programs.md)
-    + [MCP MARKETO](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/mcp-server)
+    + [MCP MARKETO](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/mcp-server)
   + Notifiche di Marketo {#marketo-notifications}
     + {hide-from-toc}[Notifica: connessione Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}
