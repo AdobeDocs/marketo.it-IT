@@ -16,22 +16,22 @@ subfeature_v2:
   - id: c942e9f6-ed06-481a-abdd-1195363d1452
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 6fc98c8f6a47c184831964e5613aa9bd05e9b737
+source-git-commit: 46d547255d27dfe7d176694cf68de0ec99a5773e
 workflow-type: tm+mt
-source-wordcount: 460
-ht-degree: 23%
+source-wordcount: 406
+ht-degree: 28%
 
 ---
 
-# Note sulla versione: luglio 2026 {#release-notes-july-26}
+# Note sulla versione: agosto 2026 {#release-notes-aug-26}
 
-Di seguito trovi tutte le funzioni incluse nella versione di luglio 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
+Qui sotto trovi tutte le funzioni incluse nella versione di agosto 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
 
 Le note sulla versione specifiche per Adobe Dynamic Chat [sono disponibili qui](/help/marketo/release-notes/dynamic-chat.md){target="_blank"}.
 
 ## Funzioni del ciclo di rilascio standard {#standard-release-cycle-features}
 
-Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **10 luglio 2026**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
+Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno a essere rilasciate il **14 agosto 2026**, con un rollout graduale delle funzioni rimanenti nelle settimane successive. Le funzioni e le date di rilascio sono soggette a modifiche. Verifica lo stato di ciascuna funzionalità.
 
 <table style="table-layout:auto">
  <tbody>
@@ -41,10 +41,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:25%">Documentazione</th>
   </tr>
   <tr>
-   <td><strong>Competenza Marketo AI - Conoscenza del prodotto</strong>: la conoscenza del prodotto consente l'accesso on-demand alle competenze Marketo senza uscire dalla piattaforma. Poni una domanda in un linguaggio semplice e l’intelligenza artificiale di Marketo si basa sulla documentazione ufficiale di Adobe per fornire una risposta.
+   <td><strong>Nuova interfaccia utente di Marketo Engage</strong>: l'interfaccia di Marketo Engage ha un aspetto aggiornato, inclusi menu, icone e layout aggiornati per un'esperienza più pulita e moderna. Questo è solo un aggiornamento visivo, non influisce su alcuna funzionalità o flusso di lavoro esistente.
 </td>
-   <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/product-knowledge" target="_blank">Conoscenza del prodotto</a></td>
+   <td>Rollout graduale nel corso del mese di agosto</td>
+   <td><i>n/d</i></td>
   </tr>
   <tr>
    <td> </td>
@@ -52,21 +52,21 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Abilità di Marketo AI - Indagine sui lead</strong>: scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo.
+   <td><strong>E-mail Designer - Generatore di script</strong>: Generatore di script è un assistente basato sull'intelligenza artificiale che consente di creare script di personalizzazione più rapidamente.
 </td>
-   <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/skills/investigate-leads" target="_blank">Indagare sui lead</a></td>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer e-mail - Menu contestuale dell'Assistente di intelligenza artificiale</strong>: è ora possibile accedere alle funzioni dell'Assistente di intelligenza artificiale di E-mail Designer dal menu contestuale (la barra nera). Ad esempio, quando selezioni il contenuto di testo, nel menu contestuale viene visualizzata l’icona Assistente IA, che consente di eseguire azioni rapide da lì.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>Disabilita campagne nell'archivio</strong>: l'archiviazione di una cartella ora disattiva e depianifica tutte le campagne nella struttura di cartelle, impedendo l'esecuzione imprevista delle campagne Smart archiviate.
+</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
   </tr>
   </tbody>
 </table>
@@ -75,6 +75,9 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 ## Annunci {#announcements}
 
 * **Deprecazione parametro &#39;access_token&#39; API REST**: il parametro di query `access_token` utilizzato per autenticare le chiamate API REST di Marketo è obsoleto e non sarà disponibile dopo il 31 agosto 2026. Tutte le integrazioni nuove ed esistenti devono autenticare le chiamate API REST utilizzando l’intestazione “Authorization”, [come descritto qui](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/authentication){target="_blank"}.
-* **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione genereranno un codice di errore 1080 e la chiamata verrà ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.
-* **API SOAP obsoleta**: il supporto per l&#39;API Marketo SOAP terminerà il 31 luglio 2026. I servizi che utilizzano le funzionalità API SOAP devono essere migrati alle [API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
-* **Limiti di dimensione elenco statico per attività Get Lead e modifiche Get Lead**: a partire dal 30 settembre 2026, le chiamate agli endpoint Get Lead Activities e Get Lead Changes che includono il parametro `listId` restituiranno un codice di errore 1003 se l&#39;elenco statico di destinazione contiene 10.000 o più lead. Per ulteriori informazioni, consultare la [Guida alla migrazione](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/lead-database/migration){target="_blank"}.
+
+* **ID esecuzione campagna REST API**: il supporto per l&#39;API SOAP di Marketo terminerà il 31 luglio 2026. I servizi che utilizzano le funzionalità API SOAP devono essere migrati alle [API REST](https://experienceleague.adobe.com/it/docs/marketo-developer/marketo/rest/rest-api){target="_blank"}.
+
+* **Limiti di dimensioni elenco statico per attività Get Lead e modifiche Get Lead**: in alcune circostanze, il valore ID esecuzione campagna di un&#39;attività veniva talvolta restituito con una formattazione errata, tra due coppie di virgolette (ad esempio, `"campaignRunId": ""102938""`).<br/>A partire dalla versione di agosto, questo valore verrà sempre restituito con il formato numerico corretto (`"campaignRunId": 102938`)
+
+* **Limite dei lead di unione API REST**: a partire dal 31 luglio 2026, le chiamate che includono più di 25 ID nel parametro leadIds di una chiamata API dei lead di unione restituiscono un codice di errore 1080 e la chiamata viene ignorata. I posti di lavoro che richiedono la fusione di più di 25 record in uno dovrebbero essere suddivisi in più lavori per garantire il successo di tali chiamate.

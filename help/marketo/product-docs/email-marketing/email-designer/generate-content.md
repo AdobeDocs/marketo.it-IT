@@ -1,8 +1,8 @@
 ---
 solution: Marketo Engage
 product: marketo
-title: Utilizzo dell’Assistente IA
-description: Scopri come utilizzare l’assistente AI per aggiungere testo e immagini alle e-mail. Utilizza l’intelligenza artificiale generativa di Adobe nel Designer e-mail per le idee sui contenuti.
+title: Generare contenuti nel Designer e-mail
+description: Scopri come generare contenuti per aggiungere testo e immagini alle e-mail. Utilizza l’intelligenza artificiale generativa di Adobe nel Designer e-mail per le idee sui contenuti.
 level: Beginner, Intermediate
 feature: Email Designer
 exl-id: e07ed645-d8a3-483f-aa1f-f82bc9cb8634
@@ -14,20 +14,20 @@ feature_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 39b6fecdc7aa16ab1205582d3bf372a8538a2d35
+source-git-commit: bf1ac405e4e4ce9a9d6ea3e93d8f46730957f435
 workflow-type: tm+mt
-source-wordcount: 936
+source-wordcount: 914
 ht-degree: 1%
 
 ---
 
-# Assistente AI per E-mail Designer {#ai-assistant-email-designer}
+# Generare contenuti nel Designer e-mail {#generate-content}
 
-L’Assistente AI in Marketo Engage Email Designer consente di creare e-mail contemporanee, performanti e intuitive. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme a Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase di percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
+La generazione di contenuti in Marketo Engage Email Designer consente di creare e-mail contemporanee, performanti e intuitive. Ciò si ottiene tramite la tecnologia di intelligenza artificiale generativa di Adobe e la libreria tempestiva insieme a Firefly per la generazione di immagini che aiuta a creare contenuti adatti per un particolare utente/gruppo di acquisto, fase di percorso di marketing, strategia di comunicazione, tono, ecc. Per creare contenuti è inoltre possibile utilizzare risorse specifiche per i marchi.
 
 >[!PREREQUISITES]
 >
->L&#39;Assistente AI non è attivato per impostazione predefinita. Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
+>Questa funzione non è attivata per impostazione predefinita. Devi innanzitutto accettare i [Termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"} per l&#39;utilizzo della funzionalità Gen-AI in E-mail Designer. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 
 ## Configurare le autorizzazioni {#set-up-permissions}
 
@@ -59,15 +59,13 @@ _Dopo_ che segue il prerequisito precedente, gli amministratori di Marketo devon
 
 ## Casi d’uso {#use-cases}
 
-Esistono alcuni casi d’uso principali per l’Assistente IA:
-
 * [Crea un oggetto e/o un preheader](#create-a-subject-line-preheader) per la tua e-mail
 * [Crea contenuto per una sezione specifica](#create-content-for-a-specific-section) dell&#39;e-mail
 * [Crea un&#39;intera e-mail](#create-an-entire-email) da un modello selezionato
 
 ## Creare un oggetto/preintestazione {#create-a-subject-line-preheader}
 
-È possibile utilizzare l’Assistente AI per creare un oggetto, un preheader o entrambi.
+Crea un oggetto, un preheader o entrambi.
 
 ![](assets/use-the-ai-assistant-1.png)
 
@@ -75,11 +73,11 @@ L’esempio seguente illustra la riga dell’oggetto. Per un preheader, gli stes
 
 Quando viene creato un messaggio e-mail utilizzando il nuovo Designer e-mail, immetti un oggetto temporaneo.
 
-Dopo la creazione dell&#39;e-mail, l&#39;oggetto si trova nella colonna _Dettagli_ a destra. Fai clic sul pulsante Assistente IA ( ![Icona Filtro](assets/icon-ai-assistant.png) ) accanto a esso per ottenere assistenza nella creazione di una nuova riga dell&#39;oggetto utilizzando la funzionalità di intelligenza artificiale generica.
+Dopo la creazione dell&#39;e-mail, l&#39;oggetto si trova nella colonna _Dettagli_ a destra. Fai clic sul pulsante Genera contenuto ( ![Icona Filtro](assets/icon-ai-assistant.png) ) accanto a esso per ottenere assistenza nella creazione di una nuova riga dell&#39;oggetto utilizzando la funzionalità Gen AI.
 
 ![](assets/use-the-ai-assistant-2.png)
 
-Abilita l&#39;opzione **Usa contenuto di riferimento** per l&#39;Assistente AI per personalizzare nuovi contenuti in base al contenuto selezionato.
+Abilita l&#39;opzione **Usa contenuto di riferimento** per personalizzare nuovi contenuti in base al contenuto selezionato.
 
 Immettere il prompt per personalizzare l&#39;oggetto. Inserisci le impostazioni di testo pertinenti e carica tutte le risorse del brand da utilizzare come riferimento per creare una riga dell’oggetto appropriata.
 
@@ -135,7 +133,7 @@ Dopo aver creato l’e-mail, puoi modificare alcune sezioni, immagini o testo.
 
 ![](assets/use-the-ai-assistant-7.png)
 
-In questo esempio viene utilizzato un modello finanziario. Se una o più immagini esistenti non soddisfano le tue esigenze, puoi istruire l’assistente AI a creare una nuova immagine in base alla descrizione. Seleziona l’immagine desiderata e fai clic sull’icona dell’assistente AI.
+In questo esempio viene utilizzato un modello finanziario. Se una o più immagini esistenti non soddisfano le tue esigenze, puoi crearne una nuova in base alla tua descrizione. Seleziona l’immagine desiderata e fai clic sull’icona Genera contenuto.
 
 ![](assets/use-the-ai-assistant-8.png)
 
@@ -161,7 +159,7 @@ Simile all’immagine, è possibile modificare anche parti di testo dell’e-mai
 
 Questa opzione è disponibile solo se l’e-mail viene creata utilizzando un modello esistente. Può essere un modello standard fornito da E-mail Designer, un modello salvato già creato o un modello importato utilizzando l’opzione Importa HTML. Questa opzione non è disponibile se per l&#39;e-mail si sceglie [Progetta da zero](/help/marketo/product-docs/email-marketing/email-designer/email-authoring.md#design-from-scratch).
 
-Seleziona un modello, senza selezionare alcun componente all’interno del modello, quindi fai clic sul pulsante Assistente IA in E-mail Designer.
+Seleziona un modello senza selezionare alcun componente al suo interno, quindi fai clic sul pulsante Genera contenuto nel Designer e-mail.
 
 ![](assets/use-the-ai-assistant-12.png)
 
