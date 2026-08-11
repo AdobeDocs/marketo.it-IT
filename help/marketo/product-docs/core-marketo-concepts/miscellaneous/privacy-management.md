@@ -3,14 +3,12 @@ description: Scopri gli strumenti di gestione della privacy in Marketo Engage pe
 title: Gestione della privacy
 exl-id: e18a48d7-2961-4133-8540-8512ea181fe0
 TQID: https://experienceleague.adobe.com/MzzRnGGXqzNNFzl2VYU0fZDsdyqhKqJ5BDwfdw1fQaY
-product_v2:
-  - id: b27e5950-9033-45ac-9f86-eb22e567f615
-topic_v2:
-  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+topic_v2: id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 2cfe050fe4844f44815b9842cffafa4c1eb37c13
 workflow-type: tm+mt
-source-wordcount: 439
-ht-degree: 0%
+source-wordcount: 268
+ht-degree: 4%
 
 ---
 
@@ -30,15 +28,7 @@ Marketo Engage offre una serie di strumenti per aiutarti a rispettare le normati
 
 ## Normative sulla gestione della privacy {#regulations-on-privacy-management}
 
-Le funzionalità di Marketo Engage consentono di rispettare le seguenti normative:
-
-* **[!DNL GDPR]** [Il regolamento generale sulla protezione dei dati](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-does-general-data-protection-regulation-gdpr-govern_en) è la normativa sulla privacy dell&#39;Unione europea che armonizza e modernizza i requisiti di protezione dei dati per i paesi dell&#39;UE.
-* **[!DNL CCPA]** [California Consumer Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CIV&division=3.&title=1.81.5.&part=4.&chapter=&article=) fornisce ai residenti della California i diritti in merito alle loro informazioni personali e impone responsabilità in materia di protezione dei dati a determinate entità che conducono attività commerciali in California.
-* **[!DNL PDPA]** [La legge sulla protezione dei dati personali](https://secureprivacy.ai/thailand-pdpa-summary-what-businesses-need-to-know/) è la legge sulla privacy che armonizza e modernizza i requisiti di protezione dei dati in Thailandia.
-* **[!DNL LGPD]** [Lei Geral de Proteção de Dados](https://iapp.org/media/pdf/resource_center/Brazilian_General_Data_Protection_Law.pdf) valido dall&#39;inizio del 2021 per tutte le aziende che raccolgono o elaborano dati personali in Brasile.
-* **[!DNL NZPA]** [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2020/0031/latest/LMS23223.html) è la legge sulla privacy che armonizza e modernizza i requisiti di protezione dei dati per la Nuova Zelanda.
-
-Tutte le normative di cui sopra si applicano ai clienti di Marketo Engage che detengono dati per gli interessati residenti nelle rispettive regioni o paesi menzionati in precedenza (UE, California, Thailandia, Brasile, Nuova Zelanda).
+Le funzionalità di Marketo Engage consentono di rispettare diverse normative sulla privacy. Per un elenco delle normative supportate, vedere [Panoramica delle normative sulla privacy](https://experienceleague.adobe.com/it/docs/experience-platform/privacy/regulations/overview){target="_blank"}.
 
 ## Diritto di accesso e diritto all’oblio {#right-to-access-and-right-to-be-forgotten}
 
