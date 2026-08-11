@@ -4,10 +4,10 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 16ff6c279c222f3cd2d9b8a1a7bbba15472231cb
+source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
 workflow-type: tm+mt
-source-wordcount: '680'
-ht-degree: 6%
+source-wordcount: '820'
+ht-degree: 5%
 
 ---
 
@@ -203,6 +203,24 @@ Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o m
    <td>Secondo pianificazione<br>
    Nei tempi previsti</td>
   </tr>
+  <tr>
+   <td>15 settembre 2026</td>
+   <td>AB05<br>
+   AB06</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
+  <tr>
+   <td>18 settembre 2026</td>
+   <td>AB07<br>
+   AB08</td>
+   <td>15:00 PDT<br>
+   16:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
   </body>
 </table>
 
@@ -243,7 +261,7 @@ Tutti i dati utente di Marketo vengono memorizzati su Amazon Web Services (AWS).
 **Dove vengono memorizzati i dati personali in modo specifico?**
 I dati personali vengono memorizzati in Amazon Aurora, il servizio di database relazionale completamente gestito di AWS. Aurora replica i dati in sei modi in tre aree di disponibilità separate all&#39;interno dell&#39;area AWS per proteggere i dati personali da guasti hardware, deterioramento dello storage ed eventi dell&#39;infrastruttura localizzata.
 
-**A chi appartiene l&#39;ambiente di archiviazione?**
+**A chi appartiene l&#39;ambiente di storage?**
 L&#39;infrastruttura di storage è di proprietà e gestita da Amazon Web Services (AWS). Adobe (Marketo) opera come cliente di AWS secondo un modello di responsabilità condivisa: AWS è responsabile della sicurezza e della disponibilità dell’infrastruttura sottostante, mentre Adobe è responsabile della sicurezza dei dati e delle applicazioni in esecuzione al suo interno.
 
 **Quali sono i dettagli completi su produzione, percorsi di backup/ripristino di emergenza e tecnologia di storage?**
