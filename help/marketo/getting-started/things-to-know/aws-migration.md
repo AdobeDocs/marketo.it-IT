@@ -4,9 +4,9 @@ title: Migrazione AWS
 feature: Getting Started
 hide: true
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 99b7a65fe436f40d474a708fb54d2f2f1a45c5db
+source-git-commit: 750dabcbfaf8fe66291e5eac7e26a0cefc05e675
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '835'
 ht-degree: 5%
 
 ---
@@ -42,7 +42,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!NOTE]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri conservare i dati durante la migrazione, contatta il [supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} e fornisci l&#39;ID modulo e l&#39;ID Munchkin della sottoscrizione.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -251,7 +251,7 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 ## Aggiornamenti e supporto {#support}
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
