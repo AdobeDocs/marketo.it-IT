@@ -3,9 +3,9 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78940c808e61be8a702b50df253071182d176942
+source-git-commit: e7ad638f664fe8dca4b9e9896a8fdd6e155437d4
 workflow-type: tm+mt
-source-wordcount: '834'
+source-wordcount: '828'
 ht-degree: 5%
 
 ---
@@ -41,7 +41,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!NOTE]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -195,12 +195,9 @@ Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o m
   </tr>
   <tr>
    <td>10 settembre 2026</td>
-   <td>AB03<br>
-   AB04</td>
-   <td>17:00 PDT<br>
-   18:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <td>AB03</td>
+   <td>17:00 PDT</td>
+   <td>Secondo pianificazione</td>
   </tr>
   <tr>
    <td>15 settembre 2026</td>
@@ -250,7 +247,7 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 ## Aggiornamenti e supporto {#support}
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
