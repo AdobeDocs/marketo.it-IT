@@ -3,9 +3,9 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 9a445d50781458b3342be0dd9c1a4262346a9f7f
+source-git-commit: 78940c808e61be8a702b50df253071182d176942
 workflow-type: tm+mt
-source-wordcount: '835'
+source-wordcount: '834'
 ht-degree: 5%
 
 ---
@@ -142,8 +142,8 @@ Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o m
    AB17</td>
    <td>15:00 PDT<br>
    16:00 PDT</td>
-   <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <td>Completato<br>
+   Completato</td>
   </tr>
   <tr>
   <td>13 agosto 2026</td>
@@ -155,7 +155,7 @@ Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o m
   <td>18 agosto 2026</td>
    <td>AB39</td>
    <td>17:00 PDT</td>
-   <td>Secondo pianificazione</td>
+   <td>Posticipato (data da definire)</td>
   </tr>
   <tr>
    <td>20 agosto 2026</td>
