@@ -11,9 +11,9 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: eb36cf28856d8f889f39d69825bb2e0046e1b197
+source-git-commit: 7116fe4f2b7f909e023be05fdb5ad53f9d49cf15
 workflow-type: tm+mt
-source-wordcount: 152
+source-wordcount: 151
 ht-degree: 83%
 
 ---
@@ -60,14 +60,14 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
    <td>Completa</td>
   </tr>
   <tr>
-  <td><a href="/help/marketo/release-notes/current.md">Luglio '26</a></td>
+  <td><a href="/help/marketo/release-notes/previous-releases/2026/release-notes-july-26.md">Luglio '26</a></td>
    <td>10 luglio 2026</td>
-   <td>In corso</td>
+   <td>Completa</td>
   </tr>
   <tr>
-  <td>Agosto '26</td>
+  <td><a href="/help/marketo/release-notes/current.md">Agosto '26</a></td>
    <td>14 agosto 2026</td>
-   <td>Secondo pianificazione</td>
+   <td>In corso</td>
   </tr>
   <tr>
   <td>Settembre '26</td>
