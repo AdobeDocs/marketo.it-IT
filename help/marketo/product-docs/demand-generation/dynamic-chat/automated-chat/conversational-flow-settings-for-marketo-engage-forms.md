@@ -8,9 +8,9 @@ product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
 feature_v2:
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b85314d3e3117a0a4ddd45fa6ebf15963566e716
 workflow-type: tm+mt
-source-wordcount: 281
+source-wordcount: 306
 ht-degree: 1%
 
 ---
@@ -65,7 +65,9 @@ Rendi Marketo Engage Forms conversazionale integrandolo con Dynamic Chat Convers
 
    >[!NOTE]
    >
-   >Criterio Logica impostata su &quot;all&quot; significa che ogni attributo deve essere soddisfatto per essere qualificato. La logica dei criteri impostata su &quot;any&quot; indica che è sufficiente uno qualsiasi degli attributi.
+   >* Criterio Logica impostata su &quot;all&quot; significa che ogni attributo deve essere soddisfatto per essere qualificato. La logica dei criteri impostata su &quot;any&quot; indica che è sufficiente uno qualsiasi degli attributi.
+   >
+   >* Per &quot;Membro di elenchi avanzati&quot;, i valori nel menu a discesa rappresentano tutti gli elenchi avanzati che fanno parte di qualsiasi programma. Vengono visualizzati come `<program name>.<smart list name>`.
 
    **PASSAGGIO FACOLTATIVO**: se si aggiungono due o più scelte, è possibile riordinarle facendo clic sulle relative frecce su/giù.
 
