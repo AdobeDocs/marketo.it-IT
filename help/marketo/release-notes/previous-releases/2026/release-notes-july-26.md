@@ -2,9 +2,9 @@
 description: Note sulla versione - Luglio 2026 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Luglio 2026
 feature: Release Information
-source-git-commit: bd433a683cab2437f6c32a5f52454d8ac4d9293a
+source-git-commit: 37ef6b0f6c89b8ec8cd098beb5cf4d321fdac401
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '503'
 ht-degree: 19%
 
 ---
@@ -60,7 +60,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Designer e-mail - Genera contenuto menu contestuale</strong>: le funzioni "Genera contenuto" di Designer e-mail sono ora accessibili dal menu contestuale (la barra nera). Ad esempio, quando selezioni il contenuto di testo, l’icona Genera contenuto viene visualizzata nel menu contestuale, consentendo di eseguire azioni rapide da lì.</td>
+   <td><strong>Designer e-mail - Genera contenuto menu contestuale</strong>: le funzioni "Genera contenuto" di Designer e-mail sono ora accessibili dal menu contestuale (la barra nera). Ad esempio, quando selezioni il contenuto di testo, l’icona Genera contenuto viene visualizzata nel menu contestuale, consentendo di eseguire azioni rapide.</td>
    <td><i>Disponibile a breve</i></td>
 <td><i>Disponibile a breve</i></td>
   </tr>
