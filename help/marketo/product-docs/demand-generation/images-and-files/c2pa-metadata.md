@@ -3,9 +3,9 @@ description: Scopri come i metadati C2PA vengono automaticamente allegati alle i
 title: Metadati C2PA in Marketo Engage
 level: Beginner, Intermediate
 feature: Email Designer
-source-git-commit: 2746d9d016a6119411bb1fe29c4be2e16f3610e8
+source-git-commit: 77c4c0b6438f8a5070fd33412b7037b79f7fded1
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -30,7 +30,7 @@ La tabella seguente riepiloga quando vengono allegati metadati C2PA, in base all
 
 | Azione | Descrizione | Metadati C2PA allegati? | Esempio di caso d’uso |
 |---|---|---|---|
-| **Generare un&#39;immagine** | Create una nuova immagine da un prompt di testo, da un&#39;immagine di riferimento o generate un&#39;immagine simile. | Sempre. L’immagine viene generata dall’intelligenza artificiale generativa, in modo da trasportare sempre nuovi metadati C2PA. | Un’immagine del banner per una campagna e-mail viene generata da un prompt di testo che descrive l’elemento visivo desiderato. |
+| **Utilizza lo strumento &#39;Genera immagine&#39;** | Create una nuova immagine da un prompt di testo, da un&#39;immagine di riferimento o generate un&#39;immagine simile. | Sempre. L’immagine viene generata dall’intelligenza artificiale generativa, in modo da trasportare sempre nuovi metadati C2PA. | Un’immagine del banner per una campagna e-mail viene generata da un prompt di testo che descrive l’elemento visivo desiderato. |
 | **Ritagliare un&#39;immagine** | Regola un&#39;immagine alle dimensioni richieste. | Solo se l’immagine di origine conteneva già metadati C2PA. Il ritaglio ricrea i pixel dell&#39;immagine, che normalmente cancellano i metadati C2PA, quindi Marketo Engage lo legge dall&#39;immagine sorgente prima del ritaglio, quindi lo ricostruisce e lo ricollega al risultato ritagliato. Il ritaglio stesso non aggiunge una nuova azione di IA generativa, ma mantiene quella esistente. | Un’immagine del banner generata viene ritagliata per adattarla a una pagina web: i metadati C2PA vengono conservati attraverso il ritaglio. Una foto stock caricata, utilizzata come sfondo di notifica push, viene ritagliata per adattarsi allo schermo: poiché la foto stock non comporta alcuna azione AI generativa, non vengono creati metadati C2PA. |
 | **Aggiungi una sovrapposizione di testo** | Rendering del testo generato sopra un&#39;immagine di sfondo. | Solo se l’immagine di sfondo conteneva già metadati C2PA. Il rendering della sovrapposizione produce una nuova immagine dallo sfondo più il testo, che normalmente cancella i metadati C2PA, in modo che Marketo Engage lo legga in anticipo dall&#39;immagine di sfondo, quindi lo ricostruisce e lo ricollega al risultato. Il passaggio di sovrapposizione non aggiunge una nuova azione di IA generativa. | Un titolo promozionale viene riprodotto come sovrapposizione di testo su un’immagine di sfondo generata per una pagina di destinazione: i metadati C2PA dell’immagine di sfondo vengono mantenuti. |
 
@@ -47,4 +47,4 @@ Marketo Engage conserva i metadati C2PA associati alle risorse immagine supporta
 ## Risorse aggiuntive
 
 * [Linee guida utente per l’intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html)
-* [Guardrail e limitazioni](https://experienceleague.adobe.com/it/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
+* [Guardrail e limitazioni](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails)
