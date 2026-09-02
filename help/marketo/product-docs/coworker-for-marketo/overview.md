@@ -1,16 +1,16 @@
 ---
 description: Esplora la suite di agenti Coworker for Marketo Engage progettati per automatizzare attività di marketing come il controllo qualità dei programmi, l’importazione di lead, la normalizzazione dei dati e altro ancora.
 title: Panoramica di Collaboratore per Marketo Engage
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Panoramica di Collaboratore per Marketo Engage {#overview}
 
-Coworker for Marketo Engage fornisce competenze di agente progettate per automatizzare funzioni di marketing lunghe ma importanti.
+Coworker for Marketo Engage (precedentemente noto come Marketo AI) fornisce competenze di agente progettate per automatizzare funzioni di marketing lunghe ma importanti.
 
 >[!AVAILABILITY]
 >
@@ -62,4 +62,4 @@ Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
