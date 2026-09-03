@@ -1,16 +1,16 @@
 ---
 description: Esplora la suite di agenti Coworker for Marketo Engage progettati per automatizzare attività di marketing come il controllo qualità dei programmi, l’importazione di lead, la normalizzazione dei dati e altro ancora.
 title: Panoramica di Collaboratore per Marketo Engage
-source-git-commit: 7526f4d10f9ee6da85677a6f709220e1390c6896
+source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '408'
 ht-degree: 1%
 
 ---
 
 # Panoramica di Collaboratore per Marketo Engage {#overview}
 
-Coworker for Marketo Engage fornisce competenze di agente progettate per automatizzare funzioni di marketing lunghe ma importanti.
+Coworker for Marketo Engage (precedentemente noto come Marketo AI) fornisce competenze di agente progettate per automatizzare funzioni di marketing lunghe ma importanti.
 
 >[!AVAILABILITY]
 >
@@ -18,9 +18,9 @@ Coworker for Marketo Engage fornisce competenze di agente progettate per automat
 
 >[!IMPORTANT]
 >
->* Dopo aver abilitato Coworker for Marketo Engage per la sottoscrizione, è necessario eseguire alcuni [passaggi di installazione](/help/marketo/product-docs/marketo-ai/settings-setup.md){target="_blank"} per garantire l&#39;accesso agli utenti desiderati.
+>* Dopo aver abilitato Coworker for Marketo Engage per la sottoscrizione, è necessario eseguire alcuni [passaggi di installazione](/help/marketo/product-docs/coworker-for-marketo/settings-setup.md){target="_blank"} per garantire l&#39;accesso agli utenti desiderati.
 >
->* Rivedi l&#39;ambito dei dati, i controlli di governance e le considerazioni PII nel [data information sheet](/help/marketo/product-docs/marketo-ai/data-information.md){target="_blank"} di Collaborator per Marketo Engage.
+>* Rivedi l&#39;ambito dei dati, i controlli di governance e le considerazioni PII nel [data information sheet](/help/marketo/product-docs/coworker-for-marketo/data-information.md){target="_blank"} di Collaborator per Marketo Engage.
 
 ## Come accedervi {#access}
 
@@ -38,19 +38,19 @@ La console centrale dispone di un set crescente di competenze degli agenti dispo
 
 ### Indagare sui lead {#investigate-leads}
 
-Scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo. Ulteriori informazioni sull&#39;abilità [Esaminare i lead](/help/marketo/product-docs/marketo-ai/skills/investigate-leads.md){target="_blank"}.
+Scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo. Ulteriori informazioni sull&#39;abilità [Esaminare i lead](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
 
 ### Conoscenza del prodotto {#product-knowledge}
 
-La conoscenza del prodotto consente di accedere on-demand alle competenze di Marketo senza uscire dalla piattaforma. Poni una domanda in un linguaggio semplice e Collaboratore per Marketo Engage si basa sulla documentazione ufficiale di Adobe per rispondere. Ulteriori informazioni sulla [abilità nella conoscenza del prodotto](/help/marketo/product-docs/marketo-ai/skills/product-knowledge.md){target="_blank"}.
+La conoscenza del prodotto consente di accedere on-demand alle competenze di Marketo senza uscire dalla piattaforma. Poni una domanda in un linguaggio semplice e Collaboratore per Marketo Engage si basa sulla documentazione ufficiale di Adobe per rispondere. Ulteriori informazioni sulla [abilità nella conoscenza del prodotto](/help/marketo/product-docs/coworker-for-marketo/skills/product-knowledge.md){target="_blank"}.
 
 ### Convalida programmi {#validate-programs}
 
-La funzione Convalida programmi controlla automaticamente la configurazione rispetto alle best practice e ai problemi relativi alle superfici di Marketo prima dell’avvio. Ulteriori informazioni sull&#39;abilità [Convalida programmi](/help/marketo/product-docs/marketo-ai/skills/validate-programs.md){target="_blank"}.
+La funzione Convalida programmi controlla automaticamente la configurazione rispetto alle best practice e ai problemi relativi alle superfici di Marketo prima dell’avvio. Ulteriori informazioni sull&#39;abilità [Convalida programmi](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md){target="_blank"}.
 
 ### Importa lead {#import-leads}
 
-Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. Ulteriori informazioni sull&#39;[abilità Importa lead](/help/marketo/product-docs/marketo-ai/skills/import-leads.md){target="_blank"}.
+Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi. Ulteriori informazioni sull&#39;[abilità Importa lead](/help/marketo/product-docs/coworker-for-marketo/skills/import-leads.md){target="_blank"}.
 
 ## Disponibile a breve {#coming-soon}
 

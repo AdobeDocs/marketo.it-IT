@@ -4,9 +4,9 @@ user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 714e57ba66fb5bab0a871f70950b88e474d1b818
+source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
 workflow-type: tm+mt
-source-wordcount: '8957'
+source-wordcount: '8931'
 ht-degree: 96%
 
 ---
@@ -1124,18 +1124,6 @@ ht-degree: 96%
         + [Utilizzare il token di informazioni sull’invio dell’avviso](product-docs/email-marketing/general/using-tokens/use-the-send-alert-info-token.md)
         + [Utilizzo degli URL nei miei token](product-docs/email-marketing/general/using-tokens/using-urls-in-my-tokens.md)
       + [CC e-mail](product-docs/email-marketing/general/email-cc.md)
-  + Marketo AI {#marketo-ai}
-    + {hide-from-toc}[Panoramica](product-docs/marketo-ai/overview.md)
-    + {hide-from-toc}[Impostazioni e installazione](product-docs/marketo-ai/settings-setup.md)
-    + {hide-from-toc}[Scheda informativa di Marketo AI](product-docs/marketo-ai/data-information.md)
-    + Competenza {#skills}
-      + {hide-from-toc}[Conoscenza del prodotto](product-docs/marketo-ai/skills/product-knowledge.md)
-      + {hide-from-toc}[Informazioni superficie](product-docs/marketo-ai/skills/surface-insights.md)
-      + {hide-from-toc}[Programmi di compilazione](product-docs/marketo-ai/skills/build-programs.md)
-      + {hide-from-toc}[Clona programma](product-docs/marketo-ai/skills/clone-program.md)
-      + {hide-from-toc}[Indagine sui lead](product-docs/marketo-ai/skills/investigate-leads.md)
-      + {hide-from-toc}[Importa lead](product-docs/marketo-ai/skills/import-leads.md)
-      + {hide-from-toc}[Convalida programmi](product-docs/marketo-ai/skills/validate-programs.md)
   + Notifiche di Marketo {#marketo-notifications}
     + {hide-from-toc}[Notifica: connessione Websocket](product-docs/marketo-notifications/websocket-connection.md)
   + Marketo Sales Connect {#marketo-sales-connect}

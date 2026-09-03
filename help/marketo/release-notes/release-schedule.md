@@ -11,7 +11,7 @@ feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: 3b6dbef83c5ac1f764d573f96d88dd0dfb388acc
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
 source-wordcount: 166
 ht-degree: 75%
@@ -76,7 +76,7 @@ _Le date/funzionalità di rilascio sono soggette a modifiche_
   </tr>
   <tr>
   <td>Ottobre 2026</td>
-   <td>30 ottobre 2026</td>
+   <td>23 ottobre 2026</td>
    <td>Secondo pianificazione</td>
   </tr>
  </tbody>

@@ -2,10 +2,10 @@
 description: Note sulla versione - Maggio 2026 - Documentazione di Marketo - Documentazione del prodotto
 title: Note sulla versione - Maggio 2026
 feature: Release Information
-source-git-commit: e8663ada66948bc30ff7ad90b26f6ba75d670ae8
+source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
 workflow-type: tm+mt
-source-wordcount: '760'
-ht-degree: 15%
+source-wordcount: '805'
+ht-degree: 14%
 
 ---
 
@@ -27,10 +27,10 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <th style="width:25%">Documentazione</th>
   </tr>
   <tr>
-   <td><strong>Marketo AI</strong>: utilizza una suite di agenti progettati per automatizzare funzioni di marketing lunghe ma importanti (due agenti disponibili ora e altri in arrivo).
+   <td><strong>Marketo AI</strong>: utilizza una suite di competenze agente progettate per automatizzare funzioni di marketing lunghe ma importanti (due competenze agente disponibili ora, altre in arrivo).
 </td>
    <td>Beta aperta</td>
-   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/marketo-ai/overview" target="_blank">Panoramica di Marketo AI</a></td>
+   <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/coworker-for-marketo/overview" target="_blank">Panoramica di Marketo AI</a></td>
   </tr>
   <tr>
    <td> </td>
@@ -69,7 +69,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
-   <td><strong>Dynamic Chat - Sta digitando</strong>: il visitatore e l'agente ricevono una notifica "sta digitando..." mentre l'altra parte sta digitando, impedendo a una di interrompere l'altra.
+   <td><strong>Dynamic Chat - Sta digitando</strong>: ora sia il visitatore che l'agente visualizzano un messaggio "sta digitando..." notifica mentre l’altra parte sta digitando, impedendo a una di interrompere l’altra.
    </td>
    <td>Rilasciato</td>
    <td>n/d</td>
