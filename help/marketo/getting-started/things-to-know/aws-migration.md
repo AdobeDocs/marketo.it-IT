@@ -3,9 +3,9 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 90726ce1010f75690587936f3c4019846bdbb0fa
+source-git-commit: 26975e7134c06510311ac3869e281f9c160d2657
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '903'
 ht-degree: 5%
 
 ---
@@ -239,6 +239,36 @@ Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o m
    <td>25 settembre 2026</td>
    <td>AB10<br>
    AB11</td>
+   <td>16:00 PDT<br>
+   17:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
+  <tr>
+   <td>29 settembre 2026</td>
+   <td>AB14</td>
+   <td>18:00 PDT</td>
+   <td>Secondo pianificazione</td>
+  </tr>
+   <tr>
+   <td>1 ottobre 2026</td>
+   <td>AB15<br>
+   AB16</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
+  <tr>
+   <td>6 ottobre 2026</td>
+   <td>AB18</td>
+   <td>17:00 PDT</td>
+   <td>Secondo pianificazione</td>
+  </tr>
+  <tr>
+   <td>9 ottobre 2026</td>
+   <td>AB19<br>
+   AB22</td>
    <td>16:00 PDT<br>
    17:00 PDT</td>
    <td>Secondo pianificazione<br>
