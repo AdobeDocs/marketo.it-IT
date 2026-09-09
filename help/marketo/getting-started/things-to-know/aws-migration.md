@@ -3,9 +3,9 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 2f5b6f31959e542b149e10bf42e4ab4ee763fbcd
+source-git-commit: 45994b2296473529f7c8ea9e34dd76c6c1c1e897
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '990'
 ht-degree: 5%
 
 ---
@@ -43,7 +43,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!IMPORTANT]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -51,7 +51,9 @@ Prima di esaminare la pianificazione seguente, [scopri come identificare](/help/
 
 ## Pianificazione {#schedule}
 
-Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o modificate periodicamente, pertanto è necessario monitorare questa pianificazione per eventuali aggiornamenti.
+Le nuove date e le informazioni relative al centro dati/pod vengono aggiunte o modificate periodicamente, pertanto è necessario monitorare questa pianificazione per eventuali aggiornamenti. Non è possibile rinunciare o richiedere di spostare la migrazione a una data diversa.
+
+Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifica e la pianificazione verrà riprogrammata.
 
 +++Pianificazione di luglio
 <table>
@@ -306,7 +308,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 ## Aggiornamenti e supporto {#support}
 
-Per gli ultimi aggiornamenti, aggiungi un segnalibro a questa pagina. In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+Per informazioni aggiornate, aggiungi un segnalibro a questa pagina. Per ricevere aggiornamenti sullo stato all&#39;inizio e al completamento della migrazione, ma [è necessario abbonarsi](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} per riceverli. Puoi anche visitare https://status.adobe.com/.
+
+In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
