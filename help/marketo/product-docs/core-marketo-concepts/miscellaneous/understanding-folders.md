@@ -11,10 +11,10 @@ feature_v2:
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+source-git-commit: b77e1a1e72b89e7cdef5733dbb2de4405ebf3b07
 workflow-type: tm+mt
-source-wordcount: 259
-ht-degree: 8%
+source-wordcount: 412
+ht-degree: 4%
 
 ---
 
@@ -30,11 +30,11 @@ Le cartelle all’interno di un programma possono essere utilizzate per organizz
 
 1. Fare clic con il pulsante destro del mouse su un programma e selezionare **[!UICONTROL New Folder]**.
 
-   ![](assets/image2015-4-20-18-3a45-3a14.png)
+   ![](assets/image2015-4-20-18-3a45-3a14.png){width="600" zoomable="yes"}
 
 1. Denomina la nuova cartella e premi **[!UICONTROL Enter]**.
 
-   ![](assets/image2015-4-20-18-3a46-3a57.png)
+   ![](assets/image2015-4-20-18-3a46-3a57.png){width="600" zoomable="yes"}
 
 La nuova cartella è ora pronta per le risorse locali.
 
@@ -42,11 +42,11 @@ La nuova cartella è ora pronta per le risorse locali.
 
 1. Fai clic con il pulsante destro sulla cartella e seleziona **[!UICONTROL Rename Folder]**.
 
-   ![](assets/image2015-4-20-18-3a49-3a10.png)
+   ![](assets/image2015-4-20-18-3a49-3a10.png){width="600" zoomable="yes"}
 
 1. Digitare un nuovo nome e premere **[!UICONTROL Enter]**.
 
-   ![](assets/image2015-4-20-18-3a52-3a30.png)
+   ![](assets/image2015-4-20-18-3a52-3a30.png){width="600" zoomable="yes"}
 
 ## Eliminare una cartella {#delete-a-folder}
 
@@ -56,13 +56,13 @@ La nuova cartella è ora pronta per le risorse locali.
 
 1. Fai clic con il pulsante destro sulla cartella e seleziona **[!UICONTROL Delete Folder]**.
 
-   ![](assets/image2015-4-20-18-3a55-3a51.png)
+   ![](assets/image2015-4-20-18-3a55-3a51.png){width="600" zoomable="yes"}
 
 ## Archiviare una cartella {#archive-a-folder}
 
 In Marketo è possibile convertire le cartelle esistenti in cartelle di archivio. Le cartelle di archivio esistono in [!UICONTROL Marketing Activities], [!UICONTROL Database] e [!UICONTROL Design Studio].
 
-![](assets/image2015-4-20-19-3a3-3a46.png)
+![](assets/image2015-4-20-19-3a3-3a46.png){width="600" zoomable="yes"}
 
 Quando archivi una cartella:
 
@@ -74,6 +74,28 @@ Quando archivi una cartella:
 Funzionalità che **non** cambieranno durante l&#39;archiviazione:
 
 * La ricerca globale trova ancora risultati nelle cartelle archiviate
-* Una risorsa in uso continuerà a funzionare anche dopo l’archiviazione
 * Puoi utilizzare un filtro per selezionare le risorse archiviate da utilizzare nei rapporti
-* Le risorse archiviate non vengono disattivate. Devono anche essere disattivati se vuoi che smettano di funzionare
+
+### Disabilita campagne nell’archivio {#disable-campaigns-archive}
+
+Quando si archivia una cartella o un programma oppure si sposta una campagna Smart attiva in una cartella già archiviata, Marketo Engage interrompe l’esecuzione delle campagne interessate:
+
+* **Le campagne attivate** sono disattivate.
+* **Le esecuzioni in sospeso delle campagne batch** sono state annullate.
+* **Le campagne eseguibili** non dispongono di uno stato di esecuzione, pertanto non viene eseguita alcuna azione.
+
+**Azioni supportate**
+
+Le azioni seguenti disattivano le campagne:
+
+* Trascinamento di una **cartella** contenente campagne attive in una cartella archiviata
+* Trascinamento di un **programma** (di qualsiasi tipo) contenente campagne attive in una cartella archiviata
+* Trascinamento di una **singola campagna avanzata** in una cartella archiviata
+* Fare clic con il pulsante destro del mouse su **Sposta** in una singola Smart Campaign in una cartella archiviata
+* Fare clic con il pulsante destro del mouse su **Sposta cartella** in una cartella contenente campagne attive in una cartella archiviata
+* Fare clic con il pulsante destro del mouse su **Sposta** in un programma contenente campagne attive in una cartella archiviata
+* Fare clic con il pulsante destro del mouse su **Converti in cartella archiviata** in una cartella per archiviarla senza spostarla
+
+>[!NOTE]
+>
+>Se all’interno della cartella o del programma in fase di archiviazione viene fatto riferimento a una campagna avanzata (ad esempio, tramite un passaggio di flusso &quot;Richiedi campagna&quot;), l’archiviazione viene bloccata per evitare di interrompere l’altra campagna.
