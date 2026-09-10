@@ -43,7 +43,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!IMPORTANT]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -310,9 +310,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 Per informazioni aggiornate, aggiungi un segnalibro a questa pagina.
 
-Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [https://status.adobe.com/](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
+Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [https://status.adobe.com/it-it/](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
 
-In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
