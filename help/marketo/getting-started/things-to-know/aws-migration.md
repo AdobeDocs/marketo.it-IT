@@ -3,13 +3,11 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: ae8999e3dbf4f95f470c36f675c9a4b5798b8d07
+source-git-commit: 577eb59d80224137833c30979dda2c183c04af70
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '993'
 ht-degree: 5%
-
 ---
-
 # Migrazione AWS {#aws-migration}
 
 Nei prossimi mesi, tutti gli abbonamenti Marketo Engage verranno migrati da un data center privato al cloud pubblico AWS per migliorare l’affidabilità, la scalabilità e la velocità.
@@ -43,7 +41,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!IMPORTANT]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -215,11 +213,11 @@ Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifi
   <tr>
    <td>15 settembre 2026</td>
    <td>AB05<br>
-   AB06</td>
+   <i>AB06</i></td>
    <td>17:00 PDT<br>
-   18:00 PDT</td>
+   <i>18 PDT</i></td>
    <td>Secondo pianificazione<br>
-   Nei tempi previsti</td>
+   <i>Posticipato (data da definire)</i></td>
   </tr>
   <tr>
    <td>17 settembre 2026</td>
@@ -310,9 +308,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 Per informazioni aggiornate, aggiungi un segnalibro a questa pagina.
 
-Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [status.adobe.com](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
+Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [status.adobe.com](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
 
-In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
