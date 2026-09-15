@@ -4,13 +4,11 @@ user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 8a3959f6edd01d28e6377a3a39a23b63a1d6475e
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '8931'
+source-wordcount: '8930'
 ht-degree: 96%
-
 ---
-
 
 # Guida di Marketo {#using}
 
@@ -1007,7 +1005,7 @@ ht-degree: 96%
       + [Panoramica](product-docs/email-marketing/email-designer/overview.md)
       + [Caratteristiche a confronto](product-docs/email-marketing/email-designer/feature-comparison.md)
       + [Authoring di e-mail](product-docs/email-marketing/email-designer/email-authoring.md)
-      + [Utilizzare i moduli in E-mail Designer](product-docs/email-marketing/email-designer/email-modules.md)
+      + [Utilizzare i moduli in E-mail designer](product-docs/email-marketing/email-designer/email-modules.md)
       + [Contenuti condizionali](product-docs/email-marketing/email-designer/conditional-content.md)
       + [Authoring di modelli per e-mail](product-docs/email-marketing/email-designer/email-template-authoring.md)
       + [Importare un modello](product-docs/email-marketing/email-designer/import-template.md)
@@ -1027,7 +1025,7 @@ ht-degree: 96%
       + [Collaborazione e-mail](product-docs/email-marketing/email-designer/email-collaboration.md)
       + [Generare contenuti nel Designer e-mail](product-docs/email-marketing/email-designer/generate-content.md)
       + [Rapporto spam e-mail con SpamAssassin](product-docs/email-marketing/email-designer/spam-report.md)
-      + [Linee guida per il tracciamento dei messaggi aperti CNIL](product-docs/email-marketing/email-designer/cnil-guidance.md)
+      + [Tracciamento apertura condizionale](product-docs/email-marketing/email-designer/conditional-open-tracking.md)
     + Programmi e-mail {#email-programs}
       + Creazione di un programma e-mail {#creating-an-email-program}
         + [Creare un programma e-mail](product-docs/email-marketing/email-programs/creating-an-email-program/create-an-email-program.md)

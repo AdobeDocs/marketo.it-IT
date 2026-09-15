@@ -2,13 +2,11 @@
 description: Note sulla versione - Luglio 2026 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Luglio 2026
 feature: Release Information
-source-git-commit: b40977d6745fdf31a48c6e08a7b070cd164408c8
+source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
 workflow-type: tm+mt
-source-wordcount: '505'
-ht-degree: 19%
-
+source-wordcount: '454'
+ht-degree: 22%
 ---
-
 # Note sulla versione: luglio 2026 {#release-notes-july-26}
 
 Di seguito trovi tutte le funzioni incluse nella versione di luglio 2026. Verifica la disponibilità delle funzioni nell‘edizione di Adobe Marketo Engage.
@@ -51,18 +49,7 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   <tr>
    <td><strong>E-mail Designer - Moduli</strong>: ora puoi accedere a blocchi di contenuto pronti all'uso e completamente strutturati progettati per accelerare l'assembly delle e-mail.</td>
    <td>Rilasciato</td>
-   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Utilizzare i moduli in E-mail Designer</a></td>
-  </tr>
-  </tr>
-  <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>Designer e-mail - Genera contenuto menu contestuale</strong>: le funzioni "Genera contenuto" di Designer e-mail sono ora accessibili dal menu contestuale (la barra nera). Ad esempio, quando selezioni il contenuto di testo, l’icona Genera contenuto viene visualizzata nel menu contestuale, consentendo di eseguire azioni rapide.</td>
-   <td><i>Disponibile a breve</i></td>
-<td><i>Disponibile a breve</i></td>
+   <td><a href="/help/marketo/product-docs/email-marketing/email-designer/email-modules.md" target="_blank">Utilizzare i moduli in E-mail designer</a></td>
   </tr>
   </tr>
   </tbody>
