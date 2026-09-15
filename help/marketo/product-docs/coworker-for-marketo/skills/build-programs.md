@@ -1,15 +1,11 @@
 ---
 description: Utilizza Coworker for Marketo Engage per creare un programma Marketo da una descrizione in linguaggio semplice. Prepara campagne intelligenti, pianificazione e segnaposto per le risorse per la revisione e il perfezionamento.
 title: Creare programmi
-badge: Beta
-hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '582'
 ht-degree: 0%
-
 ---
-
 # Creare programmi {#build-programs}
 
 Descrivi una campagna di marketing in linguaggio semplice e Coworker for Marketo Engage crea la struttura del programma, completa di segnaposto delle risorse e pianificazione.
@@ -19,10 +15,6 @@ Descrivi una campagna di marketing in linguaggio semplice e Coworker for Marketo
 >* Per utilizzare questa funzione devi prima accettare i [termini Gen-AI di base e i termini supplementari](https://www.adobe.com/legal/terms/enterprise-licensing/genai-ww.html){target="_blank"}. Per informazioni, contatta il team dell’account di Adobe (il tuo account manager).
 >
 >* È necessario disporre dell&#39;autorizzazione per la creazione di programmi nell&#39;account Marketo.
-
->[!AVAILABILITY]
->
->Questa funzione è attualmente in versione beta chiusa. Non divulgare questa documentazione.
 
 ## Come usare {#how-to-use}
 

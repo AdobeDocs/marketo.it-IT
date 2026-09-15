@@ -1,13 +1,11 @@
 ---
 description: Esplora la suite di agenti Coworker for Marketo Engage progettati per automatizzare attività di marketing come il controllo qualità dei programmi, l’importazione di lead, la normalizzazione dei dati e altro ancora.
 title: Panoramica di Collaboratore per Marketo Engage
-source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
+source-git-commit: f812c2f442c39883e028735ce51efe607968142b
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '439'
 ht-degree: 1%
-
 ---
-
 # Panoramica di Collaboratore per Marketo Engage {#overview}
 
 Coworker for Marketo Engage (precedentemente noto come Marketo AI) fornisce competenze di agente progettate per automatizzare funzioni di marketing lunghe ma importanti.
@@ -36,6 +34,10 @@ Digita la richiesta nel campo prompt, seleziona una delle abilità dell’agente
 
 La console centrale dispone di un set crescente di competenze degli agenti disponibili per aiutarti con varie attività. Ogni abilità è un assistente IA appositamente creato con cui si interagisce attraverso il linguaggio naturale per completare un’attività specifica.
 
+### Creare programmi {#build-programs}
+
+Descrivi una campagna di marketing in linguaggio semplice e Coworker for Marketo Engage crea la struttura del programma, completa di segnaposto delle risorse e pianificazione. Ulteriori informazioni sull&#39;abilità [Programmi di compilazione](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+
 ### Indagare sui lead {#investigate-leads}
 
 Scopri perché una persona/un lead specifico non ha raggiunto una fase cardine (come MQL, qualificazione del programma o una campagna) e ottieni una spiegazione semplice di ciò che è successo. Ulteriori informazioni sull&#39;abilità [Esaminare i lead](/help/marketo/product-docs/coworker-for-marketo/skills/investigate-leads.md){target="_blank"}.
@@ -62,4 +64,4 @@ Agenti aggiuntivi progettati per gestire il lavoro più ripetitivo e dispendioso
 
 >[!MORELIKETHIS]
 >
->[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
+>[Marketo Engage MCP Server](https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html){target="_blank"} funge da ponte tra l&#39;assistente di intelligenza artificiale e Marketo Engage.
