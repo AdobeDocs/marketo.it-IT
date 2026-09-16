@@ -16,9 +16,9 @@ feature_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: c5aeb2888adf964f59d61f21a7bb0abf68ff4ba8
+source-git-commit: 39f87db3b9437e82aeec1a860592654acaf8e0ca
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '394'
 ht-degree: 55%
 ---
 # Elenco dei modelli di pagina di destinazione in formato guidato {#guided-landing-page-template-list}
@@ -33,7 +33,7 @@ Sfoglia la nostra raccolta di modelli di esempio da utilizzare con [Editor pagin
 
 1. Fai clic sul nome del [modello desiderato di seguito](#all-templates) per portarlo alla relativa pagina dedicata.
 
-1. Fare clic con il pulsante destro del mouse su &quot;Scarica modello&quot; e selezionare **Salva collegamento con nome**. Salvare il file nella posizione desiderata sul computer.
+1. Fare clic con il pulsante destro del mouse su &quot;Scarica modello&quot; e selezionare **Salva collegamento con nome...**. Salvare il file nella posizione desiderata sul computer.
 
 1. In Marketo Engage, passare a **[!UICONTROL Design Studio]**.
 
@@ -49,7 +49,7 @@ Sfoglia la nostra raccolta di modelli di esempio da utilizzare con [Editor pagin
 
    ![](assets/guided-landing-page-template-list-5.png)
 
-1. Scegli il file scaricato e fai clic su **[!UICONTROL Create]** (la selezione di **Sostituisci qualsiasi modello esistente con questo nome** è facoltativa).
+1. Scegli il file modello scaricato e fai clic su **[!UICONTROL Create]** (la selezione di **Sostituisci qualsiasi modello esistente con questo nome** è facoltativa).
 
    ![](assets/guided-landing-page-template-list-6.png)
 
