@@ -1,13 +1,11 @@
 ---
 description: Esplora la suite di agenti Coworker for Marketo Engage progettati per automatizzare attività di marketing come il controllo qualità dei programmi, l’importazione di lead, la normalizzazione dei dati e altro ancora.
 title: Panoramica di Collaboratore per Marketo Engage
-source-git-commit: b981719a196b7b6ef74c2d048b21f0324fd51859
+source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
 workflow-type: tm+mt
 source-wordcount: '408'
 ht-degree: 1%
-
 ---
-
 # Panoramica di Collaboratore per Marketo Engage {#overview}
 
 Coworker for Marketo Engage (precedentemente noto come Marketo AI) fornisce competenze di agente progettate per automatizzare funzioni di marketing lunghe ma importanti.
@@ -35,6 +33,14 @@ Digita la richiesta nel campo prompt, seleziona una delle abilità dell’agente
 ## Competenza {#skills}
 
 La console centrale dispone di un set crescente di competenze degli agenti disponibili per aiutarti con varie attività. Ogni abilità è un assistente IA appositamente creato con cui si interagisce attraverso il linguaggio naturale per completare un’attività specifica.
+
+<!--
+
+### Build programs {#build-programs}
+
+Describe a marketing campaign in plain language and Coworker for Marketo Engage builds the program structure, complete with asset placeholders and scheduling. Learn more about the [Build programs skill](/help/marketo/product-docs/coworker-for-marketo/skills/build-programs.md){target="_blank"}.
+
+-->
 
 ### Indagare sui lead {#investigate-leads}
 

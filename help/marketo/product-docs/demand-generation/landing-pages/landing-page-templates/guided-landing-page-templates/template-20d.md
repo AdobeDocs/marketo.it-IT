@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/M-o3ZSlkpXcmdQQbuoxn-iN8B7VrD0clbXEVd2-ETyw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: '73'
 ht-degree: 5%
-
 ---
-
 # Modello 20D {#template-20d}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 20D](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 20D](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20d.html)
 
 ![](assets/template-20d.png)
 
@@ -26,11 +26,11 @@ Questo modello include i seguenti contenuti:
 
 * Una sezione primaria
 
-   * include testo e punteggi di protagonista
+  * include testo e punteggi di protagonista
 
 * Quattro sezioni del corpo (facoltativo)
 * Piè di pagina (facoltativo)
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 20D.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-20d.html?lang=it)
+[Modello 20D.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-20d.html)
