@@ -1,9 +1,9 @@
 ---
 description: Scopri come le Regole organizzative definiscono gli standard di governance e guidano Collaboratore per Marketo Engage nella creazione di programmi, nella pianificazione delle campagne e nella convalida.
 title: Regole organizzative
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
 workflow-type: tm+mt
-source-wordcount: '828'
+source-wordcount: '829'
 ht-degree: 0%
 ---
 # Regole organizzative {#organizational-rules}
@@ -19,7 +19,7 @@ Le Regole organizzative sono un documento di configurazione basato su markdown c
 * Requisiti di conformità (collegamenti per annullare l’abbonamento, parametri UTM, filtri di esclusione)
 * Best practice (progettazione di e-mail, configurazione di elenchi avanzati)
 
-Ogni istanza di Marketo include regole organizzative predefinite. Puoi personalizzarli per riflettere le specifiche esigenze di governance della tua organizzazione.
+Ogni ambiente Marketo Engage include regole organizzative predefinite. Puoi personalizzarli per riflettere le specifiche esigenze di governance della tua organizzazione.
 
 ## Dove vengono utilizzate le regole organizzative {#where-organizational-rules-are-used}
 
