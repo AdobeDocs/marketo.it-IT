@@ -22,7 +22,7 @@ Fare clic con il pulsante destro del mouse su [scarica modello 1A](https://51837
 
 >[!NOTE]
 >
->I passaggi completi su come scaricare e importare un modello [ si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
+>I passaggi completi su come scaricare e importare un modello [&#x200B; si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-5-28-10-3a1-3a40.png)
 

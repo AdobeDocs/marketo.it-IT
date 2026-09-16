@@ -22,7 +22,7 @@ Fare clic con il pulsante destro del mouse su [scarica modello 7F](https://51837
 
 >[!NOTE]
 >
->I passaggi completi su come scaricare e importare un modello [ si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
+>I passaggi completi su come scaricare e importare un modello [&#x200B; si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-7-29-14-3a52-3a10.png)
 

@@ -22,7 +22,7 @@ Fare clic con il pulsante destro del mouse su [scarica modello 17C](https://5183
 
 >[!NOTE]
 >
->I passaggi completi su come scaricare e importare un modello [ si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
+>I passaggi completi su come scaricare e importare un modello [&#x200B; si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-8-17-17-3a6-3a47.png)
 
