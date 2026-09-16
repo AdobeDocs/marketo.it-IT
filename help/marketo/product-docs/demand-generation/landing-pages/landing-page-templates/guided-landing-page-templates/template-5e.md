@@ -11,14 +11,18 @@ product_v2:
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
     internal-label: Templates
-source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
+source-git-commit: 043d09315fec24d58897c362e9e28008df7d4aa9
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 4%
+source-wordcount: '106'
+ht-degree: 3%
 ---
 # Modello 5E {#template-5e}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 5E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5e.html)
+Fare clic con il pulsante destro del mouse su [scarica modello 5E](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5e.html) e selezionare **Salva collegamento con nome...**
+
+>[!NOTE]
+>
+>I passaggi completi su come scaricare e importare un modello [ si trovano qui](/help/marketo/product-docs/demand-generation/landing-pages/landing-page-templates/guided-landing-page-template-list.md#how-to-import){target="_blank"}.
 
 ![](assets/image2015-7-29-15-3a24-3a40.png)
 
@@ -32,6 +36,6 @@ Questo modello include i seguenti contenuti:
 * Tre sezioni di corpo (facoltativo)
 * Piè di pagina (facoltativo)
 
-**Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
+**Fare clic con il pulsante destro del mouse qui sotto (e selezionare _Salva collegamento con nome..._) per scaricare questo modello:**
 
 [Modello 5E.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-5e.html)
