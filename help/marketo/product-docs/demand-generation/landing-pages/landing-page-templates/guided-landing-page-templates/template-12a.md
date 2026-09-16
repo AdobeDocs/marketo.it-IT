@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/INFeg2RURkbzE7EW1Y2jECQTQ5IPSND62hDJTM7Ks-I
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 79
+source-wordcount: '79'
 ht-degree: 5%
-
 ---
-
 # Modello 12A {#template-12a}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 12A](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 12A](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12a.html)
 
 ![](assets/image2015-8-4-14-3a23-3a23.png)
 
@@ -27,11 +27,11 @@ Questo modello include i seguenti contenuti:
 * Intestazione A (facoltativa)
 * Una sezione primaria
 
-   * Include titolo, testo e immagine protagonista
+  * Include titolo, testo e immagine protagonista
 
 * Sei sezioni di carrozzeria (facoltativo)
 * Piè di pagina (facoltativo)
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 12A.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-12a.html?lang=it)
+[Modello 12A.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-12a.html)

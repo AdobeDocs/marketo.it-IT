@@ -7,18 +7,18 @@ feature: Landing Pages, Guided Landing Page Templates
 TQID: https://experienceleague.adobe.com/-spsNvAj4w67FjfyAbXJTNN8yKx1QlDL2jde1KzQdJQ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Templates
+source-git-commit: 5c0e06eafd047db8a64255351e09d1533cc82d0a
 workflow-type: tm+mt
-source-wordcount: 75
+source-wordcount: '75'
 ht-degree: 5%
-
 ---
-
 # Modello 1F {#template-1f}
 
-Fare clic con il pulsante destro del mouse per [scaricare il modello 1F](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=it)
+Fare clic con il pulsante destro del mouse per [scaricare il modello 1F](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-1f.html)
 
 ![](assets/image2015-5-29-9-3a9-3a19.png)
 
@@ -26,11 +26,11 @@ Questo modello include i seguenti contenuti:
 
 * Una sezione primaria
 
-   * include un&#39;immagine protagonista e un pulsante.
+  * include un&#39;immagine protagonista e un pulsante.
 
 * Tre sezioni di corpo (facoltativo)
 * Piè di pagina (facoltativo)
 
 **Fare clic con il pulsante destro del mouse di seguito per scaricare il modello:**
 
-[Modello 1F.html](https://experienceleague.adobe.com/landing/marketo/lp-templates/template-1f.html?lang=it)
+[Modello 1F.html](https://51837-micrositemarketo.adobeio-static.net/lp-templates/template-1f.html)
