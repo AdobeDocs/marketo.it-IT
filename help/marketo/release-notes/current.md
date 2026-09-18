@@ -24,9 +24,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 3a4c5d6f8aa299111ff8c09836246e9e0c7f93b1
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '524'
 ht-degree: 17%
 ---
 # Note sulla versione: agosto 2026 {#release-notes-aug-26}
@@ -62,18 +62,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
 </td>
    <td>Rilasciato</td>
    <td><a href="https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders#disable-campaigns-archive" target="_blank">Disabilita campagne nell'archivio</a></td>
-  </tr>
-    <tr>
-   <td> </td>
-   <td> </td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td><strong>E-mail Designer - Generatore di script</strong>: Generatore di script è un assistente basato sull'intelligenza artificiale che consente di creare script di personalizzazione più rapidamente.
-</td>
-   <td><i>Disponibile a breve</i></td>
-   <td><i>Disponibile a breve</i></td>
-  </tr>
   </tr>
     <tr>
    <td> </td>

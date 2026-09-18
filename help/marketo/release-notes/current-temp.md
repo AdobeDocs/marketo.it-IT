@@ -25,9 +25,9 @@ subfeature_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: df650f93bedc7202ad82f8f725616cd25e4a99ef
+source-git-commit: ba06d7ce62da1ceb3f696527532975622e06fa70
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '552'
 ht-degree: 18%
 ---
 # Note sulla versione: settembre 2026 {#release-notes-sep-26}
@@ -80,6 +80,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
   </tr>
   <tr>
    <td><strong>Passaggi del flusso self-service - Timeout callback aumentato</strong>: il periodo di timeout callback per i passaggi del flusso self-service viene aumentato da un'ora a quattro ore. Non è richiesta alcuna azione da parte tua.</td>
+   <td><i>Disponibile a breve</i></td>
+   <td><i>Disponibile a breve</i></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
+   <td><strong>E-mail Designer - Tabelle</strong>: ora puoi trascinare e rilasciare il tipo di contenuto "tabella" nel messaggio e-mail, impostando il numero di colonne e righe.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
   </tr>
