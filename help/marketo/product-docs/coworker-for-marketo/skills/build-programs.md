@@ -1,14 +1,16 @@
 ---
 description: Utilizza Coworker for Marketo Engage per creare un programma Marketo adattando un modello esistente. Prepara campagne avanzate, pianificazione e segnaposto per le risorse per la revisione e il perfezionamento.
 title: Creare programmi
-source-git-commit: 0949e5193333d56943a5c9a52c1715ecbcb274f3
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '804'
 ht-degree: 0%
 ---
 # Creare programmi {#build-programs}
 
 Descrivi una campagna di marketing in un linguaggio semplice e Coworker for Marketo Engage adatta un modello di programma esistente alle tue esigenze, aggiornando automaticamente il contenuto delle e-mail e creando risorse aggiuntive duplicando la struttura del modello.
+
+Le [regole organizzative](/help/marketo/product-docs/coworker-for-marketo/organizational-rules.md){target="_blank"} della tua organizzazione guidano il modo in cui Coworker for Marketo Engage struttura e convalida il programma durante la creazione. Queste regole garantiscono che il nuovo programma sia allineato alle convenzioni di denominazione, ai token richiesti, alla struttura delle cartelle e agli standard di conformità.
 
 >[!PREREQUISITES]
 >

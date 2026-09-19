@@ -4,7 +4,7 @@ user-guide-title: Guida di Marketo
 user-guide-description: Documentazione del prodotto Marketo
 feature-set: Marketo Engage
 nudge: toc-retry
-source-git-commit: 60ab04f79b2b24ca659676f5847d6f87b867e2f4
+source-git-commit: fc1bcbdaa543e39127945852a6f89e69f2966c21
 workflow-type: tm+mt
 source-wordcount: '8932'
 ht-degree: 96%
@@ -487,12 +487,12 @@ ht-degree: 96%
   + Collaboratore per Marketo Engage {#coworker-for-marketo}
     + [Panoramica](product-docs/coworker-for-marketo/overview.md)
     + [Impostazioni e configurazione](product-docs/coworker-for-marketo/settings-setup.md)
-    + {hide-from-toc}[Regole organizzative](product-docs/coworker-for-marketo/organizational-rules.md)
+    + [Regole organizzative](product-docs/coworker-for-marketo/organizational-rules.md)
     + [Scheda informativa di Coworker for Marketo Engage](product-docs/coworker-for-marketo/data-information.md)
     + Competenza {#skills}
       + [Conoscenza del prodotto](product-docs/coworker-for-marketo/skills/product-knowledge.md)
       + {hide-from-toc}[Informazioni superficie](product-docs/coworker-for-marketo/skills/surface-insights.md)
-      + {hide-from-toc}[Programmi di compilazione](product-docs/coworker-for-marketo/skills/build-programs.md)
+      + [Creare programmi](product-docs/coworker-for-marketo/skills/build-programs.md)
       + {hide-from-toc}[Clona programma](product-docs/coworker-for-marketo/skills/clone-program.md)
       + [Indagare sui lead](product-docs/coworker-for-marketo/skills/investigate-leads.md)
       + [Importa lead](product-docs/coworker-for-marketo/skills/import-leads.md)
