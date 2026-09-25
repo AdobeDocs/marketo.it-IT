@@ -2,10 +2,10 @@
 description: Note sulla versione - Luglio 2026 - Documenti Marketo - Documentazione del prodotto
 title: Note sulla versione - Luglio 2026
 feature: Release Information
-source-git-commit: edeb795f12082fab9c72b0ff4305f3db90aa4c46
+source-git-commit: 15308a78867253ae6c54faa8e77c2cf7eb68b9a5
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 15%
+source-wordcount: '577'
+ht-degree: 13%
 ---
 # Note sulla versione: agosto 2026 {#release-notes-aug-26}
 
@@ -36,6 +36,16 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td> </td>
   </tr>
   <tr>
+   <td><strong>Server MCP Marketo Engage</strong>: il server MCP Marketo Engage funge da ponte tra l'assistente AI e Marketo Engage. Espone più di 100 operazioni tra moduli, programmi, campagne intelligenti, persone/lead, e-mail, snippet, elenchi e cartelle.</td>
+   <td>Generalmente disponibile</td>
+   <td><a href="https://experienceleague.adobe.com/docs/marketo-developer/marketo/mcp-server.html?lang=it" target="_blank">Server Marketo MCP</a></td>
+  </tr>
+  <tr>
+   <td> </td>
+   <td> </td>
+   <td> </td>
+  </tr>
+  <tr>
    <td><strong>Disabilita campagne nell'archivio</strong>: l'archiviazione di una cartella ora disattiva e depianifica tutte le campagne nella struttura di cartelle, impedendo l'esecuzione imprevista delle campagne Smart archiviate.
 </td>
    <td>Rilasciato</td>
@@ -50,7 +60,6 @@ Le seguenti funzionalità rientrano nel ciclo di rilascio standard e inizieranno
    <td><strong>Designer e-mail - Genera contenuto menu contestuale</strong>: le funzioni "Genera contenuto" di Designer e-mail sono ora accessibili dal menu contestuale (la barra nera). Ad esempio, quando selezioni il contenuto di testo, l’icona Genera contenuto viene visualizzata nel menu contestuale, consentendo di eseguire azioni rapide.</td>
    <td><i>Disponibile a breve</i></td>
    <td><i>Disponibile a breve</i></td>
-  </tr>
   </tr>
   </tbody>
 </table>
