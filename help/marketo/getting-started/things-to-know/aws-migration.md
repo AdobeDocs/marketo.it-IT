@@ -3,9 +3,9 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 8c767c18df9483c060fea9bd055e48be1a58c172
+source-git-commit: 78109173b7dc6ea6793961ee84ec6878c3f6011a
 workflow-type: tm+mt
-source-wordcount: '1001'
+source-wordcount: '1018'
 ht-degree: 5%
 ---
 # Migrazione AWS {#aws-migration}
@@ -277,11 +277,22 @@ Se per qualche motivo una migrazione non ha esito positivo, riceverai una notifi
    Nei tempi previsti</td>
   </tr>
    <tr>
-   <td>30 ottobre 2026<br> 
-   (riprogrammato dal 6 ottobre)</td>
-   <td>AB18</td>
-   <td>17:00 PDT</td>
-   <td>Secondo pianificazione</td>
+   <td>21 ottobre 2026</td>
+   <td>AB36<br>
+   AB38</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
+  </tr>
+  <tr>
+   <td>22 ottobre 2026</td>
+   <td>AB51<br>
+   AB52</td>
+   <td>17:00 PDT<br>
+   18:00 PDT</td>
+   <td>Secondo pianificazione<br>
+   Nei tempi previsti</td>
   </tr>
   </body>
 </table>
