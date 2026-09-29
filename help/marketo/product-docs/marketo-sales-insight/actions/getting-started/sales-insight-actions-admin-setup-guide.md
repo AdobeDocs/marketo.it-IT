@@ -6,16 +6,17 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/OSNakPU4zEu-ORacv80glsvfhIeC-XfwtAcvuE3Iacw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Database
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 627
+source-wordcount: '627'
 ht-degree: 4%
-
 ---
-
 # Guida alla configurazione dell’amministratore delle azioni di Sales Insight {#sales-insight-actions-admin-setup-guide}
 
 >[!NOTE]
@@ -144,11 +145,11 @@ La sincronizzazione dei campi di unificazione dei dati per le azioni di Sales In
 
    ![](assets/msi-actions-admin-guide-13.png)
 
-I record di persona esistenti in Marketo e [!DNL Salesforce] verranno sincronizzati nel tuo account Marketo Sales Apps.
+   I record di persona esistenti in Marketo e [!DNL Salesforce] verranno sincronizzati nel tuo account Marketo Sales Apps.
 
->[!NOTE]
->
->Per ulteriori informazioni sulla sincronizzazione dei dati relativi a persone e attività tra le azioni di Sales Insight, Marketo e Salesforce, [fai clic qui](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
+   >[!NOTE]
+   >
+   >Per ulteriori informazioni sulla sincronizzazione dei dati relativi a persone e attività tra le azioni di Sales Insight, Marketo e Salesforce, [fai clic qui](/help/marketo/product-docs/marketo-sales-insight/actions/admin/sync-sales-action-data-with-marketo-and-salesforce.md){target="_blank"}.
 
 ## Invita singoli utenti alle azioni MSI {#invite-individual-users-to-msi-actions}
 

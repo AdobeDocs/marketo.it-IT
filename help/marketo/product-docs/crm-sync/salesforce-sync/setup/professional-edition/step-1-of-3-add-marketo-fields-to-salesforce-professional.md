@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJfI70
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 729
+source-wordcount: '729'
 ht-degree: 8%
-
 ---
-
 # Passaggio 1 di 3: aggiunta di campi Marketo a [!DNL Salesforce] (Professional) {#step-of-add-marketo-fields-to-salesforce-professional}
 
 >[!PREREQUISITES]
@@ -56,58 +55,58 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
 1. Immettere [!UICONTROL Field Label], [!UICONTROL Length] e [!UICONTROL Field Name] per il campo, come illustrato nella tabella seguente.
 
-<table>
- <thead>
-  <tr>
-   <th>
-    <div>
-      Etichetta campo
-    </div></th>
-   <th>
-    <div>
-      Nome campo
-    </div></th>
-   <th>
-    <div>
-      Tipo di dati
-    </div></th>
-   <th>
-    <div>
-      Attributi del campo
-    </div></th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Punteggio</td>
-   <td>mkto71_Lead_Score</td>
-   <td>Numero</td>
-   <td>Lunghezza 10<br>Cifre decimali 0 </td>
-  </tr>
-  <tr>
-   <td>Data di acquisizione</td>
-   <td>mkto71_Acquisition_Date</td>
-   <td>Data/ora</td>
-   <td> </td>
-  </tr>
-  <tr>
-   <td>Programma di acquisizione</td>
-   <td>mkto71_Acquisition_Program</td>
-   <td>Testo</td>
-   <td>Lunghezza 255</td>
-  </tr>
- </tbody>
-</table>
+   <table>
+   <thead>
+   <tr>
+      <th>
+      <div>
+         Etichetta campo
+      </div></th>
+      <th>
+      <div>
+         Nome campo
+      </div></th>
+      <th>
+      <div>
+         Tipo di dati
+      </div></th>
+      <th>
+      <div>
+         Attributi del campo
+      </div></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+      <td>Punteggio</td>
+      <td>mkto71_Lead_Score</td>
+      <td>Numero</td>
+      <td>Lunghezza 10<br>Cifre decimali 0 </td>
+   </tr>
+   <tr>
+      <td>Data di acquisizione</td>
+      <td>mkto71_Acquisition_Date</td>
+      <td>Data/ora</td>
+      <td> </td>
+   </tr>
+   <tr>
+      <td>Programma di acquisizione</td>
+      <td>mkto71_Acquisition_Program</td>
+      <td>Testo</td>
+      <td>Lunghezza 255</td>
+   </tr>
+   </tbody>
+   </table>
 
->[!NOTE]
->
->[!DNL Salesforce] aggiunge __c ai nomi di campo quando li utilizza per creare i nomi API.
+   >[!NOTE]
+   >
+   >[!DNL Salesforce] aggiunge __c ai nomi di campo quando li utilizza per creare i nomi API.
 
-![](assets/image2016-5-26-14-3a55-3a33.png)
+   ![](assets/image2016-5-26-14-3a55-3a33.png)
 
->[!NOTE]
->
->I campi di testo e numerici richiedono una lunghezza, ma i campi di data e ora non la richiedono. Una descrizione è facoltativa.
+   >[!NOTE]
+   >
+   >I campi di testo e numerici richiedono una lunghezza, ma i campi di data e ora non la richiedono. Una descrizione è facoltativa.
 
 1. Fai clic su **[!UICONTROL Next]**.
 
@@ -119,9 +118,9 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
 
    * Deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo dell&#39;utente di sincronizzazione:
 
-      * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo Amministratore di sistema (come illustrato di seguito)
+     * Se come utente di sincronizzazione è presente un utente con il profilo di _Amministratore di sistema_, deselezionare la casella di controllo **[!UICONTROL Read-Only]** per il profilo Amministratore di sistema (come illustrato di seguito)
 
-      * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Read-Only]** per tale profilo personalizzato
+     * Se hai creato un _profilo personalizzato_ per l&#39;utente di sincronizzazione, deseleziona la casella di controllo **[!UICONTROL Read-Only]** per tale profilo personalizzato
 
    ![](assets/image2016-6-30-9-3a25-3a4.png)
 

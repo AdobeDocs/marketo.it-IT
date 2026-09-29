@@ -6,18 +6,20 @@ exl-id: 2ec6409b-f2c8-42a4-94e0-5d2cd331a0a6
 TQID: https://experienceleague.adobe.com/Q5f-5suH6XCiuGhqnyPEu1hjWbtIXBaLOoz5VX7gC6o
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 472
+source-wordcount: '472'
 ht-degree: 4%
-
 ---
-
 # IA generativa in Dynamic Chat {#generative-ai-overview}
 
 Le funzionalità generative basate sull’intelligenza artificiale di Adobe Dynamic Chat consentono di ottimizzare la produttività per gli agenti di vendita, ottenere informazioni sulle intenzioni dei visitatori del sito web e rispondere alle domande dei visitatori in modo sicuro.
@@ -78,7 +80,7 @@ Gli argomenti discussi sono disponibili come vincolo nei trigger e filtri di ele
 
 >[!IMPORTANT]
 >
->Quando utilizzi l&#39;intelligenza artificiale generativa, devi attenerti alle [linee guida per gli utenti di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) per garantire che le funzioni Adobe Experience Cloud che incorporano l&#39;intelligenza artificiale generativa vengano utilizzate in modo sicuro e responsabile.
+>Quando utilizzi l’intelligenza artificiale generativa, devi attenerti alle [Linee guida per l’utente di intelligenza artificiale generativa di Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html) per garantire che le funzioni di Adobe Experience Cloud che incorporano l’intelligenza artificiale generativa siano utilizzate in modo sicuro e responsabile.
 
 ## Domande frequenti {#faq}
 

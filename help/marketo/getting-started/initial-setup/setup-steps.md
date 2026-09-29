@@ -7,20 +7,23 @@ exl-id: 5f37da48-b2ed-4e48-a5a2-429149745085
 TQID: https://experienceleague.adobe.com/RkW-U6fZa-sLIdAWdbLET8S2f8yEFYaELRktRXCrCho
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 subfeature_v2:
   - id: d5c7388a-594e-4d15-9b39-98d6ce479e8b
+    internal-label: Microsoft Dynamics
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Administration
+source-git-commit: 3b41a127ca8ff73849ccf27b1fe903169f464a02
 workflow-type: tm+mt
-source-wordcount: 1681
-ht-degree: 85%
-
+source-wordcount: '1679'
+ht-degree: 84%
 ---
-
 # Passaggi di configurazione {#setup-steps}
 
 **Ti diamo il benvenuto in Marketo Engage.**
@@ -102,9 +105,9 @@ Ora hai tutte le informazioni necessarie per inviare la richiesta al reparto IT.
 
 Scegli un CNAME per le pagine di destinazione. Alcuni esempi:
 
-    * **go**.[DominioSocietà].com
-    * **www2**.[DominioSocietà].com
-    * **lp**.[DominioSocietà].com
+* **vai**.[DominioSocietà].com
+* **www2**.[DominioSocietà].com
+* **lp**.[DominioSocietà].com
 
 >[!TIP]
 >
@@ -156,26 +159,26 @@ il team Marketing ora utilizza la piattaforma Marketo per comunicare con il pers
 
 `3)` Inserisci gli inrdirizzi IP di Marketo nell’elenco Consentiti.
 
-    * Se utilizziamo gli indirizzi IP nel nostro elenco di indirizzi consentiti per l’e-mail, aggiungi gli IP elencati di seguito:
-    199.15.212.0/22
-    
-    192.28.144.0/20
-    
-    192.28.160.0/19
-    
-    185.28.196.0/22
-    
-    130.248.172.0/24
-    
-    130.248.173.0/24
-    
-    94.236.119.0/26
+* Se utilizziamo gli indirizzi IP nel nostro Inserisco nell&#39;elenco Consentiti di Email di, aggiungi gli IP elencati di seguito:
+199.15.212.0/22
+
+192.28.144.0/20
+
+192.28.160.0/19
+
+185.28.196.0/22
+
+130.248.172.0/24
+
+130.248.173.0/24
+
+94.236.119.0/26
 
 >[!NOTE]
 >
 >Contatta il supporto Adobe se desideri un elenco abbreviato di IP da specifici per il tuo ambiente.
 
-    * Se il nostro sistema antispam utilizza i domini Da, aggiungi questi:
+* Se il nostro sistema anti-spam utilizza i domini From, aggiungi questi:
 
 **`[FromDomain1]`**
 **`[FromDomain2]`**

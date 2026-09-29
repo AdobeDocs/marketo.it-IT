@@ -4,14 +4,12 @@ description: Scopri come collegare AEM Cloud Services a Marketo Engage. Utilizza
 level: Beginner, Intermediate
 feature: Email Designer
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 8%
-
 ---
-
 # Connetti servizi cloud Adobe Experience Manager {#connect-adobe-experience-manager-cloud-services}
 
 Scopri come collegare l’account AEM Assets Cloud Services all’istanza di Adobe Marketo Engage in modo da poter sfruttare l’archivio delle risorse AEM in Marketo Engage Email Designer.
@@ -36,7 +34,7 @@ SCHERMATA
 >
 >Sono elencati solo gli archivi associati alla stessa organizzazione IMS del tuo abbonamento a Marketo Engage.
 
-1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [&#128279;](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
+1. Per configurare l&#39;archivio è necessario aggiungere un certificato di credenziali del servizio [](https://experienceleague.adobe.com/it/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/service-credentials). Fare clic sul pulsante **+ Aggiungi certificato**.
 
 SCHERMATA
 
