@@ -6,18 +6,18 @@ exl-id: bc700abd-cb89-475a-bcaf-3eac46c3ffab
 TQID: https://experienceleague.adobe.com/JzvT5UwsTTmvs-QCBwiDr-C9hipDM-VMLGioDLQhJb0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Programs
+source-git-commit: dc8457cac3da6d128b39590ff6d54958f1622ee8
 workflow-type: tm+mt
-source-wordcount: 245
+source-wordcount: '231'
 ht-degree: 100%
-
 ---
-
 # Glossario delle icone di Marketo Engage {#icon-glossary}
 
-Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marketo Engage. Se devi fare riferimento alle icone di Marketo Classic, puoi trovarle [qui](/help/marketo/getting-started/things-to-know/classic-icon-glossary.md).
+Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marketo Engage.
 
 ## Icone generali {#general-icons}
 
@@ -31,7 +31,7 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/account-smart-list.png"></td>
-   <td>Elenco intelligente dell’account</td>
+   <td>Elenco avanzato account</td>
   </tr>
   <tr>
    <td><img src="assets/classic-smart-campaign-active.png"></td>
@@ -310,7 +310,7 @@ Di seguito sono riportate le icone per l&#39;interfaccia corrente di Adobe Marke
   <tr>
    <td><strong>n/d</strong></td>
    <td><img src="assets/inactive.png"></td>
-   <td>Inattivo</td>
+   <td>Non attivo</td>
   </tr>
   <tr>
    <td><img src="assets/classic-invalid.png"></td>
