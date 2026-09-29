@@ -8,9 +8,7 @@ source-git-commit: f1b147b6883e5e150603304ba92b902125fea2b0
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 2%
-
 ---
-
 # Informazioni su area di analisi e-mail {#understanding-the-email-analysis-area}
 
 L’area di analisi e-mail si concentra sulle metriche e-mail. Questo articolo introduce tutti i rapporti disponibili al suo interno.
