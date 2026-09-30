@@ -13,7 +13,7 @@ feature_v2:
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
     internal-label: Smart Lists
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 5%
@@ -48,7 +48,7 @@ Anche gli oggetti personalizzati creati nell&#39;istanza di CRM [!DNL Veeva] pos
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-   Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
+1. Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
 
    ![](assets/enable-disable-custom-object-sync-5.png)
 

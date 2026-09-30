@@ -8,7 +8,7 @@ TQID: https://experienceleague.adobe.com/RUXVwNEVQ7kaqc5QZvAOErO5B--hgyGLhx3TzlJ
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
     internal-label: Marketo Engage
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '729'
 ht-degree: 8%
@@ -98,15 +98,15 @@ Per aggiungerli, effettua le seguenti operazioni per ciascuno dei tre campi pers
    </tbody>
    </table>
 
-   >[!NOTE]
-   >
-   >[!DNL Salesforce] aggiunge __c ai nomi di campo quando li utilizza per creare i nomi API.
+>[!NOTE]
+>
+>[!DNL Salesforce] aggiunge __c ai nomi di campo quando li utilizza per creare i nomi API.
 
-   ![](assets/image2016-5-26-14-3a55-3a33.png)
+![](assets/image2016-5-26-14-3a55-3a33.png)
 
-   >[!NOTE]
-   >
-   >I campi di testo e numerici richiedono una lunghezza, ma i campi di data e ora non la richiedono. Una descrizione è facoltativa.
+>[!NOTE]
+>
+>I campi di testo e numerici richiedono una lunghezza, ma i campi di data e ora non la richiedono. Una descrizione è facoltativa.
 
 1. Fai clic su **[!UICONTROL Next]**.
 
