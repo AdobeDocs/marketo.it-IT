@@ -12,7 +12,7 @@ topic_v2:
     internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 7%
@@ -149,7 +149,7 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-   Individuare i campi non necessari, verificare che [!UICONTROL Read Access] e [!UICONTROL Edit Access] siano **un** selezionati. Al termine, fai clic su **[!UICONTROL Save]**.
+1. Individuare i campi non necessari, verificare che [!UICONTROL Read Access] e [!UICONTROL Edit Access] siano **un** selezionati. Al termine, fai clic su **[!UICONTROL Save]**.
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 

@@ -17,9 +17,9 @@ feature_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting
-source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
+source-git-commit: 7480399d10794264471d53430c733147060664e0
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1153'
 ht-degree: 1%
 ---
 # Metriche backlog della sincronizzazione Salesforce  {#salesforce-sync-backlog-metrics}
@@ -103,7 +103,7 @@ Quando si esegue una grande quantità di aggiornamenti (ad esempio, se si modifi
 
 ## Procedure consigliate per la gestione dei backlog di sincronizzazione {#best-practices}
 
-**Campi visibili all&#39;utente di sincronizzazione**: assicurarsi che i campi visibili per la sincronizzazione siano solo quelli che devono essere sincronizzati e che abbiano valore per le attività di marketing. Qualsiasi aggiornamento a un record in Salesforce che aggiorna l’ultima marca temporale modificata accoderà un record al backlog di sincronizzazione e la sincronizzazione di campi non necessari potrebbe rallentare i campi più importanti in fase di sincronizzazione. Se i campi non necessari sono nascosti all&#39;utente di sincronizzazione, gli aggiornamenti apportati a tali campi determineranno un salto molto più rapido rispetto a un aggiornamento. Rivedi le best practice [qui](https://nation.marketo.com/t5/marketo-whisperer-blogs/best-practices-for-determining-which-fields-to-sync-with-marketo/ba-p/247449){target="_blank"} con il tuo amministratore di Salesforce e aggiorna i campi visibili all&#39;utente di Marketo Sync.
+**Campi visibili all&#39;utente di sincronizzazione**: assicurarsi che i campi visibili per la sincronizzazione siano solo quelli che devono essere sincronizzati e che abbiano valore per le attività di marketing. Qualsiasi aggiornamento a un record in Salesforce che aggiorna l’ultima marca temporale modificata accoderà un record al backlog di sincronizzazione e la sincronizzazione di campi non necessari potrebbe rallentare i campi più importanti in fase di sincronizzazione. Se i campi non necessari sono nascosti all&#39;utente di sincronizzazione, gli aggiornamenti apportati a tali campi determineranno un salto molto più rapido rispetto a un aggiornamento. Rivolgiti al tuo amministratore di Salesforce per [rivedere le best practice](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-general-27/best-practices-for-determining-which-fields-to-sync-with-marketo-161224?profile.language=it){target="_blank"} e aggiornare quali campi sono visibili all&#39;utente di Marketo Sync.
 
 **Nascondi o filtra i record non necessari**: se un record non è commerciabile, le risorse di sincronizzazione potrebbero andare sprecate. Se l&#39;utente sincronizzato non è in grado di visualizzarlo, non sprecherà le risorse che tenteranno di sincronizzarlo. [Il supporto Marketo Engage](https://nation.marketo.com/t5/support/ct-p/Support#_blank){target="_blank"} può facilitare la configurazione di un filtro di sincronizzazione per impedire la sincronizzazione dei record in base a criteri aggiuntivi. Ulteriori informazioni sulla configurazione di un filtro di sincronizzazione personalizzato [&#x200B; sono disponibili qui](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"}. Si consiglia vivamente di utilizzare i campi indice all’interno di Salesforce (per ulteriori informazioni, contatta la forza vendita).
 
