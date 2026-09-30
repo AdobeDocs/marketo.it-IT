@@ -6,19 +6,22 @@ exl-id: 6b58eb50-ff0d-4774-a232-3ae929948e2a
 TQID: https://experienceleague.adobe.com/RSYhWjNNh7gQiyEw1ImnHr6q23UpaVWhBll6aziHkJk
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 1%
-
 ---
-
 # Metriche backlog della sincronizzazione Salesforce  {#salesforce-sync-backlog-metrics}
 
 Il backlog di sincronizzazione è il nome utilizzato per i record in attesa di sincronizzazione. Tiene conto dei record in attesa di sincronizzazione da Salesforce a Marketo Engage e viceversa. Assicurandoti che il backlog rimanga sotto controllo, le sincronizzazioni saranno regolari e tempestive. Il backlog copre i numeri in attesa di aggiornamenti del post di sincronizzazione su entrambi i lati e non quelli eseguiti da passaggi del flusso di sincronizzazione come i passaggi del flusso Lead di sincronizzazione in SFDC.
@@ -89,7 +92,8 @@ Le statistiche riflettono la velocità effettiva e lo stato del backlog per ogni
     <td>Stato backlog</td>
     <td>Questo mostra se il backlog è cresciuto nelle ultime 6 ore. Se il backlog corrente è maggiore del backlog registrato 6 ore fa, viene dedotto "In crescita". In caso contrario, verrà visualizzato come 'Normale'. Questo serve a mostrare se il throughput di sincronizzazione sta raggiungendo il backlog.</td>
   </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Cause dei backlog di sincronizzazione {#what-causes-sync-backlogs}
 

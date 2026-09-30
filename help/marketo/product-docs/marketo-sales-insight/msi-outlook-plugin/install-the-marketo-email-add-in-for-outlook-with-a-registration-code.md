@@ -1,22 +1,23 @@
 ---
 unique-page-id: 2949711
 description: Scopri come installare Marketo Email Add-in per Outlook con un codice di registrazione. Ottieni il componente aggiuntivo per gli utenti che dispongono di un codice di registrazione.
-title: Installa Marketo Email Add-in per  [!DNL Outlook]  con un codice di registrazione
+title: Installare il componente aggiuntivo e-mail di Marketo per [!DNL Outlook] con un codice di registrazione
 exl-id: d7a877c2-f71e-44da-b323-04f6cdb44eb0
 feature: Marketo Sales Insights
 TQID: https://experienceleague.adobe.com/bu311YmDSYHNbjD-WfmOzLK21N0rpYu9kAChA82T5IE
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Insights
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 624
+source-wordcount: '625'
 ht-degree: 3%
-
 ---
-
 # Installare il componente aggiuntivo e-mail di Marketo per [!DNL Outlook] con un codice di registrazione {#install-the-marketo-email-add-in-for-outlook-with-a-registration-code}
 
 Se gli utenti possono accedere alle impostazioni di amministrazione sui propri laptop, puoi inviare loro direttamente un codice di registrazione.

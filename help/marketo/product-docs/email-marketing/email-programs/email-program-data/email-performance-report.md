@@ -7,18 +7,20 @@ feature: Email Programs
 TQID: https://experienceleague.adobe.com/90WK5ODp6PnSFAyWFvEc4DFR1oiRn97gsqlP1lXj7-M
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 501
+source-wordcount: '501'
 ht-degree: 95%
-
 ---
-
 # Rapporto sulle prestazioni e-mail {#email-performance-report}
 
 Per scoprire quanto sono efficaci le tue e-mail tramite statistiche quali consegnate, aperte, cliccate, ecc., crea un Rapporto sulle prestazioni e-mail.
@@ -27,23 +29,23 @@ Per scoprire quanto sono efficaci le tue e-mail tramite statistiche quali conseg
 1. [Modifica l’intervallo di tempo del rapporto](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fai clic sulla scheda **[!UICONTROL Report]**.
 1. Tu ci sei! Ora puoi esplora il rapporto per vedere le prestazioni delle tue e-mail.
 
-   >[!NOTE]
-   >
-   >Il filtro Data di invio si basa sulla prima data in cui l’e-mail è stata inviata.
+>[!NOTE]
+>
+>Il filtro Data di invio si basa sulla prima data in cui l’e-mail è stata inviata.
 
-   ![](assets/email-performance-report.png)
+![](assets/email-performance-report.png)
 
-   >[!TIP]
-   >
-   >Fai clic sul nome di un’e-mail per aprirla in Anteprima e-mail.
+>[!TIP]
+>
+>Fai clic sul nome di un’e-mail per aprirla in Anteprima e-mail.
 
-   >[!NOTE]
-   >
-   >Un rapporto sulle prestazioni e-mail include le attività di tutte le persone, incluse quelle che sono state eliminate dopo l’invio dell’e-mail. A volte, potresti voler visualizzare le attività solo per le persone attive. In tal caso, è necessario escludere le persone eliminate dal rapporto tramite un filtro. Utilizza la scheda **[!UICONTROL Smart List]** per [creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il rapporto. Se non stai filtrando in base a nessun campo specifico, imposta il filtro Indirizzo e-mail su: **[!UICONTROL is not empty]**.
+>[!NOTE]
+>
+>Un rapporto sulle prestazioni e-mail include le attività di tutte le persone, incluse quelle che sono state eliminate dopo l’invio dell’e-mail. A volte, potresti voler visualizzare le attività solo per le persone attive. In tal caso, è necessario escludere le persone eliminate dal rapporto tramite un filtro. Utilizza la scheda **[!UICONTROL Smart List]** per [creare un elenco avanzato](/help/marketo/product-docs/core-marketo-concepts/smart-lists-and-static-lists/creating-a-smart-list/create-a-smart-list.md) per il rapporto. Se non stai filtrando in base a nessun campo specifico, imposta il filtro Indirizzo e-mail su: **[!UICONTROL is not empty]**.
 
-   Le [colonne del rapporto selezionate](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto sulle prestazioni e-mail includono:
+Le [colonne del rapporto selezionate](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un rapporto sulle prestazioni e-mail includono:
 
-   <table><thead>
+<table><thead>
 
 <tr>
     <th>Colonna</th>

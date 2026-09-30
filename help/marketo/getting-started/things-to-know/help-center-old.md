@@ -3,14 +3,12 @@ description: Help Center - Documentazione di Marketo Engage - Documentazione del
 title: Help Center
 feature: Getting Started
 hide: true
-hidefromtoc: true
-source-git-commit: 689773f0d6f87b65d5299ecc11f3de11f7e66775
+hidefromtoc: yes
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 85%
-
 ---
-
 # Help Center {#help-center}
 
 Help Center di Adobe Marketo Engage funge da sede centralizzata per ricevere assistenza. Oltre a effettuare il collegamento a varie risorse (ad esempio, [documentazione del prodotto](/help/marketo/home.md){target="_blank"}, [informazioni sulla versione](/help/marketo/release-notes/current.md){target="_blank"}, la [community di Marketing Nation](https://nation.marketo.com/){target="_blank"}), puoi accedere a utili procedure dettagliate interne al prodotto organizzate per livello di esperienza.

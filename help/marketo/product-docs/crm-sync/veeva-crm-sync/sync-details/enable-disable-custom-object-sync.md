@@ -6,17 +6,18 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/nsmRk-zf-I5r0hfLxsOnGsTf66X-bYZ7OAUXHrPc-t0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
 subfeature_v2:
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Smart Lists
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 201
+source-wordcount: '201'
 ht-degree: 5%
-
 ---
-
 # Abilitare/disabilitare la sincronizzazione oggetti personalizzati {#enable-disable-custom-object-sync}
 
 Anche gli oggetti personalizzati creati nell&#39;istanza di CRM [!DNL Veeva] possono far parte di Marketo Engage. Ecco come configurarlo.
@@ -47,13 +48,13 @@ Anche gli oggetti personalizzati creati nell&#39;istanza di CRM [!DNL Veeva] pos
 
    ![](assets/enable-disable-custom-object-sync-4.png)
 
-Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
+   Selezionare l&#39;oggetto da sincronizzare e fare clic su **[!UICONTROL Enable Sync]**.
 
-![](assets/enable-disable-custom-object-sync-5.png)
+   ![](assets/enable-disable-custom-object-sync-5.png)
 
->[!TIP]
->
->Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Contatto o Account in [!DNL Veeva] CRM.
+   >[!TIP]
+   >
+   >Marketo può sincronizzare un oggetto personalizzato solo se ha una relazione diretta con l&#39;oggetto Contatto o Account in [!DNL Veeva] CRM.
 
 1. Fare di nuovo clic su **[!UICONTROL Enable Sync]**.
 

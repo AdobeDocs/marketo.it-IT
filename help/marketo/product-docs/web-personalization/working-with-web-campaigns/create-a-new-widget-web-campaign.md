@@ -1,35 +1,37 @@
 ---
 unique-page-id: 4719402
 description: Crea campagne web di widget che appaiono come testo fisso o banner sul lato verticale delle pagine web con funzionalità di espansione e contratto. Personalizzare le impostazioni relative a posizione, colore, animazione e visualizzazione.
-title: Crea una nuova campagna web widget
+title: Creare una nuova campagna web con widget
 exl-id: e00f5be7-1d33-4659-8f38-b74b53eeb09f
 feature: Web Personalization
 TQID: https://experienceleague.adobe.com/N5fOUcDPWM9bxW225YElTMZi6qkoqNEoGHHW3QXj8dw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 topic_v2:
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Personalization
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 636
-ht-degree: 0%
-
+source-wordcount: '636'
+ht-degree: 4%
 ---
-
-# Crea una nuova campagna web widget {#create-a-new-widget-web-campaign}
+# Creare una nuova campagna web con widget {#create-a-new-widget-web-campaign}
 
 Una campagna Web è una reazione personalizzata associata a un segmento specifico e può essere una [finestra di dialogo](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-dialog-web-campaign.md) sul sito Web, una [sostituzione zona](/help/marketo/product-docs/web-personalization/working-with-web-campaigns/create-a-new-in-zone-web-campaign.md), una funzionalità widget o un avviso e-mail. La campagna web Widget è un testo o un banner che viene visualizzato sul lato verticale della pagina web, con la possibilità di espandersi e contrarsi, pur rimanendo fisso sulla pagina web durante la visita.
 
 ## Creare una campagna web widget {#create-a-widget-web-campaign}
 
-1. Vai a **[!UICONTROL Web Campaigns]**.
+1. Passa a **[!UICONTROL Web Campaigns]**.
 
    ![](assets/image2016-8-18-15-3a57-3a46.png)
 
-1. Selezionare **[!UICONTROL Create New Web Campaign]**.
+1. Seleziona **[!UICONTROL Create New Web Campaign]**.
 
    ![](assets/create-new-web-campaign-hand-1.png)
 
@@ -79,7 +81,7 @@ Una campagna Web è una reazione personalizzata associata a un segmento specific
   </tr>
   <tr>
    <td colspan="1"><strong>Sticky</strong></td>
-   <td colspan="1">Selezionando questa opzione il widget viene visualizzato su tutte le pagine web durante tutta la sessione del visitatore.</td>
+   <td colspan="1">Selezionando questa opzione, il widget viene visualizzato su tutte le pagine web durante tutta la sessione del visitatore.</td>
   </tr>
   <tr>
    <td colspan="1"><strong>Riduci a icona widget sulla visualizzazione della campagna</strong></td>

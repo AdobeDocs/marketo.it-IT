@@ -7,13 +7,12 @@ feature: Sales Insight Actions
 TQID: https://experienceleague.adobe.com/wL4DvH6WwopQbqXlYcvSQJLPYyJbnmDENqvb7qCJo8w
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Marketo Engage
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 314
+source-wordcount: '314'
 ht-degree: 5%
-
 ---
-
 # Aggiungere alla campagna di marketing {#add-to-marketing-campaign}
 
 >[!PREREQUISITES]
@@ -52,11 +51,11 @@ PICC
 
 1. Fai clic sull’elenco a discesa Aree di lavoro e scegli l’area di lavoro contenente la campagna a cui desideri aggiungere il gruppo.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo [!UICONTROL Team Access].
+   >[!NOTE]
+   >
+   >Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo [!UICONTROL Team Access].
 
 1. Selezionare la campagna desiderata e fare clic su **[!UICONTROL Next]**.
 
@@ -86,19 +85,19 @@ PICC
 
 1. Seleziona **[!UICONTROL Marketing Campaign]**.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Per aggiungere una persona a una campagna Marketo da [!DNL Sales Connect], [!DNL Sales Connect] deve avere l&#39;ID lead Marketo della persona.
+   >[!NOTE]
+   >
+   >Per aggiungere una persona a una campagna Marketo da [!DNL Sales Connect], [!DNL Sales Connect] deve avere l&#39;ID lead Marketo della persona.
 
 1. Fai clic sull’elenco a discesa Aree di lavoro e scegli l’area di lavoro contenente la campagna a cui desideri aggiungere il gruppo.
 
-PICC
+   PICC
 
->[!NOTE]
->
->Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo Team Access.
+   >[!NOTE]
+   >
+   >Se l&#39;area di lavoro desiderata non è visualizzata, assicurarsi che l&#39;amministratore esegua il provisioning tramite la pagina Marketo Team Access.
 
 1. Selezionare la campagna desiderata e fare clic su **[!UICONTROL Next]**.
 

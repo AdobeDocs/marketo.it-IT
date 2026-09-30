@@ -6,16 +6,17 @@ feature: Veeva CRM
 TQID: https://experienceleague.adobe.com/xBrDKmj-kFlbwaisJkDElcAI8GFlNp7EjWyISrvVJ3g
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Security
+source-git-commit: 1890727c45729d801a123686fc3ffc102b76048e
 workflow-type: tm+mt
-source-wordcount: 546
+source-wordcount: '546'
 ht-degree: 7%
-
 ---
-
 # Passaggio 2 di 3: creazione di un utente CRM [!DNL Veeva] per Marketo Engage {#step-2-of-3-create-a-veeva-crm-user-for-marketo-engage}
 
 >[!NOTE]
@@ -148,13 +149,13 @@ La procedura seguente consente all&#39;utente di Marketo Sync di aggiornare i ca
 
    ![](assets/step-2-of-3-create-a-veeva-crm-user-18.png)
 
-Individuare i campi non necessari, verificare che [!UICONTROL Read Access] e [!UICONTROL Edit Access] siano **un** selezionati. Al termine, fai clic su **[!UICONTROL Save]**.
+   Individuare i campi non necessari, verificare che [!UICONTROL Read Access] e [!UICONTROL Edit Access] siano **un** selezionati. Al termine, fai clic su **[!UICONTROL Save]**.
 
-![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
+   ![](assets/step-2-of-3-create-a-veeva-crm-user-19.png)
 
->[!NOTE]
->
->Modifica solo l’accessibilità per i campi personalizzati.
+   >[!NOTE]
+   >
+   >Modifica solo l’accessibilità per i campi personalizzati.
 
 1. Dopo aver disabilitato tutti i campi non necessari, selezionare [!UICONTROL Read Access] e [!UICONTROL Edit Access] per i campi oggetto seguenti. Al termine, fai clic su **[!UICONTROL Save]**.
 
