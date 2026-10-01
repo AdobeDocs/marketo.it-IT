@@ -7,21 +7,27 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: a3bd8b47cc9c49d4b0c164219347d003441971c0
 workflow-type: tm+mt
-source-wordcount: 221
-ht-degree: 34%
-
+source-wordcount: '247'
+ht-degree: 31%
 ---
-
 # Rapporto prestazioni e-mail campagna {#campaign-email-performance-report}
 
-Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail di Campaign.
+Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail di Campaign.
+
+>[!NOTE]
+>
+>È possibile creare un rapporto sulle prestazioni e-mail di una campagna solo come risorsa locale in un programma Attività di marketing. Non è disponibile nella sezione Analytics.
 
 1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Campaign Email Performance]** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
 
