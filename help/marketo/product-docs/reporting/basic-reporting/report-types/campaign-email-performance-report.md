@@ -7,49 +7,61 @@ feature: Reporting
 TQID: https://experienceleague.adobe.com/pMoHSEmaDbjOVpoVaUi1lvUHBYkyzOwkuF1n7mxpmY0
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: a526f0bf4cbdf888b1c4462ba35dd2bc92316527
+    internal-label: Reporting
+source-git-commit: fd61a23992a0698425987c9c1c307c148c51041e
 workflow-type: tm+mt
-source-wordcount: 221
-ht-degree: 34%
-
+source-wordcount: '244'
+ht-degree: 26%
 ---
-
 # Rapporto prestazioni e-mail campagna {#campaign-email-performance-report}
 
-Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [smart campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail di Campaign.
+Per visualizzare le statistiche delle prestazioni delle e-mail raggruppate per [Smart Campaign](/help/marketo/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/understanding-batch-and-trigger-smart-campaigns.md), esegui un rapporto sulle prestazioni e-mail di Campaign.
 
-1. [Crea un report](/help/marketo/product-docs/reporting/basic-reporting/creating-reports/create-a-report-in-a-program.md) e seleziona il **[!UICONTROL Campaign Email Performance]** [tipo di report](/help/marketo/product-docs/reporting/basic-reporting/report-types/report-type-overview.md).
+>[!NOTE]
+>
+>È possibile creare un rapporto sulle prestazioni e-mail di una campagna solo come risorsa locale in un programma Attività di marketing. Non è disponibile nella sezione Analytics.
 
-1. [Impostare l&#39;intervallo di tempo del report](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/change-a-report-time-frame.md) e fare clic sulla scheda **[!UICONTROL Report]**.
+1. Nel programma, fai clic su **Nuovo** e seleziona **Nuova risorsa locale**.
 
-1. Ora esplora il rapporto per visualizzare le prestazioni di ogni e-mail nelle campagne.
+   ![](assets/campaign-email-performance-report-1.png)
 
-   ![](assets/image2014-9-16-16-3a19-3a59.png)
+1. Seleziona **Report**.
 
-   >[!TIP]
-   >
-   >Fai clic sul nome di un’e-mail per aprirla in Anteprima e-mail.
+   ![](assets/campaign-email-performance-report-2.png)
 
-   [Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report sulle prestazioni e-mail della campagna includono:
+1. Nel menu a discesa _Tipo_, seleziona **Prestazioni e-mail campagna**. Assegna un nome al report e fai clic su **Crea**.
 
-   | Colonna | Descrizione |
-   |---|---|
-   | [!UICONTROL Hard Bounced] | L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente. |
-   | [!UICONTROL Soft Bounced] | L’e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server fuori servizio o una casella in entrata piena. |
-   | [!UICONTROL Pending] | L’e-mail è ancora in fase di consegna. |
-   | [!UICONTROL Clicked Link] | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
-   | [!UICONTROL Unsubscribed] | Numero di destinatari e-mail che hanno fatto clic sul collegamento **[!UICONTROL Unsubscribe]** nell&#39;e-mail e hanno compilato il modulo. |
+   ![](assets/campaign-email-performance-report-3.png)
 
-   >[!NOTE]
-   >
-   >In linea generale, queste statistiche vengono registrate seguendo criteri di buon senso. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente l’ha aperto prima. Per le regole specifiche che seguiamo, consulta il [Rapporto sulle prestazioni delle e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+1. Definisci i parametri del rapporto.
 
-   >[!MORELIKETHIS]
-   >
-   >* [Filtrare Assets in un report e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
-   >* [Rapporto prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)
+   ![](assets/campaign-email-performance-report-4.png)
+
+1. Al termine, fai clic sulla scheda **Report** per visualizzare il tuo report.
+
+[Le colonne che puoi selezionare](/help/marketo/product-docs/reporting/basic-reporting/editing-reports/select-report-columns.md) per un report sulle prestazioni e-mail della campagna includono:
+
+| Colonna | Descrizione |
+|---|---|
+| [!UICONTROL Hard Bounced] | L’e-mail è stata rifiutata a causa di una condizione permanente, ad esempio un indirizzo e-mail inesistente. |
+| [!UICONTROL Soft Bounced] | L’e-mail è stata rifiutata a causa di una condizione temporanea, ad esempio un server fuori servizio o una casella in entrata piena. |
+| [!UICONTROL Pending] | L’e-mail è ancora in fase di consegna. |
+| [!UICONTROL Clicked Link] | Numero di destinatari e-mail che hanno fatto clic su un collegamento nell’e-mail. |
+| [!UICONTROL Unsubscribed] | Numero di destinatari e-mail che hanno fatto clic sul collegamento **[!UICONTROL Unsubscribe]** nell&#39;e-mail e hanno compilato il modulo. |
+
+>[!NOTE]
+>
+>In linea generale, queste statistiche vengono registrate seguendo criteri di buon senso. Ad esempio, se qualcuno ha fatto clic su un collegamento in un’e-mail, ovviamente l’ha aperto prima. Per le regole specifiche che seguiamo, consulta il [Rapporto sulle prestazioni delle e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md).
+
+>[!MORELIKETHIS]
+>
+>* [Filtrare Assets in un report e-mail campagna](/help/marketo/product-docs/reporting/basic-reporting/report-activity/filter-assets-in-a-campaign-email-reports.md)
+>* [Rapporto prestazioni e-mail](/help/marketo/product-docs/email-marketing/email-programs/email-program-data/email-performance-report.md)

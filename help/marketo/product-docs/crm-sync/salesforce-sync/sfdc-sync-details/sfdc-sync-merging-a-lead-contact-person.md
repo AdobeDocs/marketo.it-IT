@@ -7,13 +7,12 @@ feature: Salesforce Integration
 TQID: https://experienceleague.adobe.com/alPa6YMG0tgo08ruZAZlWhujV54iVcUMAAejXJbEQFw
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
-source-git-commit: 18ccc13ddd9cfb998015bb581373a7ca7c064d59
+    internal-label: Marketo Engage
+source-git-commit: c8f30157ca645b020191f85a414cf66407b421bb
 workflow-type: tm+mt
-source-wordcount: 268
-ht-degree: 2%
-
+source-wordcount: '207'
+ht-degree: 3%
 ---
-
 # Sincronizzazione SFDC: unione di lead/contatti/persone {#sfdc-sync-merging-a-lead-contact-person}
 
 A volte è meglio elencare semplicemente le regole. Eccoci qui:
@@ -30,10 +29,6 @@ A volte è meglio elencare semplicemente le regole. Eccoci qui:
 * I valori dei campi in conflitto vengono ricavati dal &quot;record vincente&quot;. (Record = lead o contatto risultante)
 * Se il &quot;record perdente&quot; (quello che sta scomparendo) aveva un valore e il record vincente non ha alcun valore (o è nullo), manterremo il record perdente. In altre parole, &quot;Un certo valore è meglio di nessun valore&quot;.
 * Tutti gli elementi del registro attività vengono uniti.
-
->[!NOTE]
->
->Il comportamento dei campi booleani in un’unione API è stato modificato nella versione di marzo 2026. Ora, un valore False viene trattato correttamente come se avesse un valore per quel campo. Solo un valore nullo viene considerato &quot;vuoto&quot; durante la valutazione dei campi in conflitto. Vedi [questo post della community](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/api-merge-functionality-for-boolean-fields-251219?profile.language=it){target="_blank"} per ulteriori dettagli.
 
 >[!MORELIKETHIS]
 >
