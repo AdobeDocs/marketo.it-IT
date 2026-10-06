@@ -3,10 +3,10 @@ description: Migrazione AWS - Documentazione Marketo Engage - Documentazione del
 title: Migrazione AWS
 feature: Getting Started
 exl-id: a4bb6c23-ec63-43ec-9fbe-b1cb3928f233
-source-git-commit: 78cbf2bc22a769e1b1013ddf7293e1a49ccd77e4
+source-git-commit: a02e4782a1c320ec1baa8c304d50c7e1807ab445
 workflow-type: tm+mt
-source-wordcount: '1020'
-ht-degree: 5%
+source-wordcount: '1227'
+ht-degree: 4%
 ---
 # Migrazione AWS {#aws-migration}
 
@@ -20,7 +20,7 @@ Durante la finestra di migrazione, tutti i servizi Marketo Engage non saranno di
 
 * **Evita di creare o aggiornare lead/persone** o di eseguire processi che modificano i record Persona.
 
-* **Non attivare i processi di follow-on**, poiché le campagne pianificate verranno sospese.
+* **Non attivare i processi di follow-on**, poiché tutte le campagne pianificate verranno sospese.
 
 * **Disattivare temporaneamente le integrazioni** che inviano o ricevono dati da o verso Marketo Engage.
 
@@ -41,11 +41,11 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!IMPORTANT]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
-Prima di esaminare la pianificazione seguente, [scopri come identificare](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify) il centro dati e il pod/server in cui si trova la sottoscrizione.
+Prima di esaminare la pianificazione seguente, [scopri come identificare](/help/marketo/getting-started/things-to-know/system-status-notifications.md#identify){target="_blank"} il centro dati e il pod/server in cui si trova la sottoscrizione.
 
 ## Pianificazione {#schedule}
 
@@ -341,9 +341,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 Per informazioni aggiornate, aggiungi un segnalibro a questa pagina.
 
-Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [status.adobe.com](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
+Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [status.adobe.com](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
 
-In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
+In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
@@ -362,3 +362,13 @@ Marketo utilizza Amazon Aurora, un motore di database relazionale nativo per il 
 Aurora esegue inoltre backup continui e automatici su Amazon S3 in tempo reale, consentendo il ripristino point-in-time (PITR) in qualsiasi secondo all&#39;interno della finestra di conservazione configurata.
 
 Al momento, l&#39;implementazione di Marketo per Aurora opera all&#39;interno di un&#39;unica area geografica AWS, senza replica tra aree geografiche diverse. I dati di produzione rimangono all&#39;interno dell&#39;infrastruttura regionale designata e il ripristino di emergenza viene fornito tramite la ridondanza dello storage AZ multiplo di Aurora e backup continui, anziché il failover geografico su un&#39;area secondaria. Questo aspetto può essere ulteriormente valutato con la maturazione dell’infrastruttura AWS di Marketo.
+
+**Come vengono gestiti gli annullamenti degli abbonamenti durante il periodo di inattività?**
+Gli abbonamenti standard e quelli annullati dagli elenchi (dai client e-mail) vengono ancora ricevuti e verranno elaborati poco dopo la migrazione.
+
+**Esistono alternative alla sospensione delle campagne?**
+Sì. Se desideri impedire alle persone di avanzare, ma non perdere i dati in arrivo, considera queste opzioni:
+
+* Aggiungi un passaggio di scelta: invece di disabilitare la campagna, lasciala attiva ma aggiungi un [passaggio del flusso di attesa](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} o un passaggio immediato &quot;Non eseguire nulla&quot; nella parte superiore del flusso. Imposta una [regola di scelta](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} che indirizza le persone in questo stato di pausa, quindi aggiorna le regole di scelta quando sei pronto.
+* Rimuovi dal flusso: se alcune persone sono già entrate nella campagna ma è necessario arrestarne l&#39;avanzamento, utilizza l&#39;azione [Rimuovi dal flusso](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} per estrarle senza disabilitare definitivamente il trigger della campagna.
+* Alternativa batch: se non hai bisogno di instradamenti o risposte istantanei e desideri semplicemente elaborare le persone durante la notte o a intervalli pianificati, puoi convertire le campagne trigger in campagne batch.
