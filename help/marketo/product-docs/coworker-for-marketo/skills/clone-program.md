@@ -3,13 +3,11 @@ description: Il programma Clone duplica un programma Marketo esistente in una nu
 title: Clona programma
 badge: Beta
 hide: true
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '487'
 ht-degree: 0%
-
 ---
-
 # Clona programma {#clone-program}
 
 L’agente del programma Clona copia un programma di lavoro, incluse le campagne intelligenti, i passaggi di flusso, le risorse e-mail e la configurazione, in una nuova posizione nell’ambiente Marketo.
@@ -28,16 +26,16 @@ L’agente del programma Clona copia un programma di lavoro, incluse le campagne
 
 ## Come usare {#how-to-use}
 
-1. Nel tuo My Marketo, fai clic sul riquadro **Collaboratore per Marketo Engage**.
+1. In Il mio Marketo, fai clic sul riquadro **CX Enterprise Coworker per Marketo Engage**.
 1. Nella finestra del prompt, digitare le istruzioni. Ad esempio, &quot;Clona il mio programma di webinar Q2 nella cartella Campagne Q3 e chiamalo Webinar dimostrativo del prodotto Q3.&quot;
-1. Collaboratore per Marketo Engage conferma il programma di origine, la cartella di destinazione e il nuovo nome. Rivedi e conferma.
-1. Il clone viene creato. Collaboratore per Marketo Engage conferma quando è fatto e ti dice dove trovarlo.
+1. CX Enterprise Coworker for Marketo Engage conferma il programma di origine, la cartella di destinazione e il nuovo nome. Rivedi e conferma.
+1. Il clone viene creato. CX Enterprise Coworker for Marketo Engage conferma quando è completato e indica dove trovarlo.
 1. Apri il nuovo programma in Marketo e aggiorna le differenze: contenuto e-mail, date, filtri del pubblico, token e così via.
 1. Esegui l&#39;agente di controllo qualità [Programma](/help/marketo/product-docs/coworker-for-marketo/skills/validate-programs.md) prima dell&#39;attivazione.
 
 ## Casi d’uso {#use-cases}
 
-**Riutilizzo campagna trimestrale**: un manager campagna esegue la stessa serie di webinar ogni trimestre. Chiedono a Coworker di Marketo Engage di clonare il programma del webinar dell’ultimo trimestre nella cartella del nuovo trimestre con un nome aggiornato. Quindi aggiorna la copia e-mail, i token della data del webinar e il collegamento di registrazione, risparmiando ore di tempo per la configurazione.
+**Riutilizzo campagna trimestrale**: un manager campagna esegue la stessa serie di webinar ogni trimestre. Chiedono a CX Enterprise Coworker che Marketo Engage cloni il programma del webinar dell’ultimo trimestre nella cartella del nuovo trimestre con un nome aggiornato. Quindi aggiorna la copia e-mail, i token della data del webinar e il collegamento di registrazione, risparmiando ore di tempo per la configurazione.
 
 **Creazione di un modello da un programma collaudato**: uno specialista di operazioni di marketing clona un programma di lancio di prodotto ad alte prestazioni in una cartella &quot;Modelli&quot; per fungere da punto di partenza per i lanci futuri. Il clone viene lasciato disattivato e utilizzato come copia di riferimento.
 
