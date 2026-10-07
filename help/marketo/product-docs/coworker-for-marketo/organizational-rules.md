@@ -1,14 +1,14 @@
 ---
-description: Scopri come le Regole organizzative definiscono gli standard di governance e guidano Collaboratore per Marketo Engage nella creazione di programmi, nella pianificazione delle campagne e nella convalida.
+description: Scopri come le Regole organizzative definiscono gli standard di governance e guidano CX Enterprise Coworker per Marketo Engage nella creazione, pianificazione e convalida dei programmi.
 title: Regole organizzative
-source-git-commit: c1581e2b692dd50bf472756e4e6222ff75ae091c
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '829'
+source-wordcount: '867'
 ht-degree: 0%
 ---
 # Regole organizzative {#organizational-rules}
 
-Le Regole organizzative definiscono gli standard delle operazioni di marketing e i requisiti di governance in un unico documento che guida Collaboratore per Marketo Engage nella creazione di programmi, nella pianificazione delle campagne e nei flussi di lavoro di convalida.
+Le Regole organizzative definiscono gli standard delle operazioni di marketing e i requisiti di governance in un unico documento che guida CX Enterprise Coworker per Marketo Engage per la creazione di programmi, la pianificazione delle campagne e i flussi di lavoro di convalida.
 
 ## Cosa sono le regole organizzative? {#what-are-organizational-rules}
 
@@ -23,17 +23,17 @@ Ogni ambiente Marketo Engage include regole organizzative predefinite. Puoi pers
 
 ## Dove vengono utilizzate le regole organizzative {#where-organizational-rules-are-used}
 
-Guida alle regole organizzative Collaboratore per Marketo Engage in tre ambiti:
+Le regole organizzative guidano CX Enterprise Coworker per Marketo Engage in tre ambiti:
 
 | Competenza | Modalità di applicazione delle regole |
 | --- | --- |
-| Programmi di build | Le regole guidano la creazione della struttura del programma, la denominazione e la configurazione iniziale. Coworker for Marketo Engage segnala eventuali problemi di conformità nella descrizione prima di creare il programma. |
-| Pianificare campagne | Le regole informano su come Coworker per Marketo Engage struttura le campagne intelligenti, i filtri e i passaggi di flusso in base agli standard. |
-| Convalida programmi | Le regole definiscono ciò che viene verificato da Coworker for Marketo Engage durante la convalida dei programmi prima dell’attivazione. |
+| Programmi di build | Le regole guidano la creazione della struttura del programma, la denominazione e la configurazione iniziale. CX Enterprise Coworker for Marketo Engage segnala eventuali problemi di conformità nella descrizione prima di creare il programma. |
+| Pianificare campagne | Le regole informano su come CX Enterprise Coworker per Marketo Engage struttura campagne intelligenti, filtri e passaggi di flusso in base agli standard. |
+| Convalida programmi | Le regole definiscono ciò che CX Enterprise Coworker for Marketo Engage controlla durante la convalida dei programmi prima dell’attivazione. |
 
 ## Come accedere e personalizzare le regole organizzative {#how-to-access-and-customize-organizational-rules}
 
-1. Nel tuo My Marketo, fai clic sul riquadro **Collaboratore per Marketo Engage**.
+1. In Il mio Marketo, fai clic sul riquadro **CX Enterprise Coworker per Marketo Engage**.
 1. Fai clic sull’icona a forma di ingranaggio.
 1. Selezionare la scheda **Regole organizzative**.
 1. Esamina le regole predefinite (che sono precompilate con le best practice per le operazioni di marketing).
@@ -45,7 +45,7 @@ Guida alle regole organizzative Collaboratore per Marketo Engage in tre ambiti:
    * Norme di conformità ed esclusione
 
 1. Aggiorna il numero di versione quando apporti modifiche.
-1. Salva le modifiche. Tutte le abilità di Collaboratore per Marketo Engage utilizzeranno immediatamente le regole personalizzate.
+1. Salva le modifiche. Tutte le competenze di CX Enterprise Coworker for Marketo Engage utilizzeranno immediatamente le regole personalizzate.
 
 ## Struttura delle regole organizzative {#organizational-rules-structure}
 
@@ -99,16 +99,16 @@ customized: true
 * **Mantieni le regole concentrate**: includi solo i requisiti rilevanti per la tua organizzazione. Regole inutili creano rumore e riducono inutilmente i punteggi di conformità.
 * **Utilizzare controlli automatici e manuali**:
 
-  * Controlli automatizzati: convenzioni di denominazione, cartelle obbligatorie, utilizzo dei token (possono essere verificate da Collaboratore per Marketo Engage)
-  * Controlli manuali: progettazione visiva delle e-mail, conformità del brand, logica della campagna (Coworker for Marketo Engage contrassegnerà questi come passaggi di revisione manuali)
+  * Controlli automatizzati: convenzioni di denominazione, cartelle richieste, utilizzo dei token (CX Enterprise Coworker for Marketo Engage può verificarli)
+  * Controlli manuali: progettazione visiva delle e-mail, conformità del brand, logica della campagna (CX Enterprise Coworker for Marketo Engage contrassegnerà questi come passaggi di revisione manuali)
 
 * **Equilibrio tra rigidità e flessibilità**: regole troppo rigide possono rallentare la creazione del programma. Le regole troppo vaghe non colgono importanti problemi di conformità.
 * **Versione delle regole**: aggiorna il numero di versione quando apporti modifiche significative in modo che il tuo team sappia che gli standard di governance sono stati aggiornati.
 * **Comunicare le modifiche**: quando aggiorni le Regole organizzative, comunica al tuo team di addetti al marketing cosa è cambiato e perché.
 
-## Cosa può e non può convalidare Coworker for Marketo Engage {#what-coworker-can-and-cannot-validate}
+## Convalida di CX Enterprise Coworker for Marketo Engage {#what-coworker-can-and-cannot-validate}
 
-Collaboratore per Marketo Engage PUÒ convalidare (controlli automatici):
+CX Enterprise Coworker per Marketo Engage PUÒ convalidare (controlli automatici):
 
 * Le convenzioni di denominazione corrispondono ai tuoi modelli
 * La struttura di cartelle richiesta esiste
@@ -117,7 +117,7 @@ Collaboratore per Marketo Engage PUÒ convalidare (controlli automatici):
 * I collegamenti esterni includono i parametri UTM
 * I nomi delle campagne intelligenti seguono le convenzioni
 
-Impossibile convalidare il collaboratore per Marketo Engage (è necessaria una revisione manuale):
+CX Enterprise Coworker for Marketo Engage NON PUÒ essere convalidato (è necessaria una revisione manuale):
 
 * Logica filtro elenchi avanzati (limitazione API: è necessario configurare i filtri manualmente)
 * Logica del passaggio di flusso di Smart Campaign (limitazione API: è necessario configurare i flussi manualmente)
@@ -125,14 +125,14 @@ Impossibile convalidare il collaboratore per Marketo Engage (è necessaria una r
 * Rispetto del brand e tono di messaggistica (richiede il giudizio umano)
 * Regole di segmentazione dinamica dei contenuti (limitazione API)
 
-Quando Coworker for Marketo Engage rileva qualcosa che non può convalidare, lo contrassegna come un passaggio di revisione manuale nel flusso di lavoro.
+Quando CX Enterprise Coworker for Marketo Engage rileva qualcosa che non può convalidare, lo contrassegna come passaggio di revisione manuale nel flusso di lavoro.
 
 ## Valutazione della conformità {#compliance-scoring}
 
-Quando si utilizza Convalida programmi, Collaboratore per Marketo Engage calcola un punteggio di conformità in base a:
+Quando si utilizza Convalida programmi, CX Enterprise Coworker per Marketo Engage calcola un punteggio di conformità in base a:
 
-* **Controlli superati**: il collaboratore per Marketo Engage ha verificato la conformità e non ha rilevato problemi
-* **Controlli non riusciti**: il collaboratore per Marketo Engage ha rilevato violazioni delle regole organizzative
+* **Controlli superati**: CX Enterprise Coworker per Marketo Engage ha verificato la conformità e non ha rilevato problemi
+* **Controlli non riusciti**: CX Enterprise Coworker per Marketo Engage ha rilevato violazioni delle regole organizzative
 * **Passaggi di revisione manuali**: elementi che richiedono la verifica umana (questi NON vengono conteggiati rispetto al punteggio)
 
 Un programma può avere una conformità del 100% e richiedere comunque passaggi di revisione manuali; sono esclusi dal calcolo del punteggio.
@@ -172,9 +172,9 @@ Utilizzalo se la tua organizzazione dà priorità alla conformità rispetto alla
 
 ## Risoluzione dei problemi {#troubleshooting}
 
-**D: ho aggiornato le regole organizzative ma Collaboratore per Marketo Engage utilizza ancora le regole precedenti.**
+**D: ho aggiornato le regole organizzative, ma CX Enterprise Coworker per Marketo Engage utilizza ancora le regole precedenti.**
 
-R: Le modifiche diventano immediatamente effettive per i nuovi programmi e le convalide. Se stai lavorando a un programma esistente, aggiorna il browser o avvia un nuovo flusso di lavoro Collaboratore per Marketo Engage per visualizzare le regole aggiornate.
+R: Le modifiche diventano immediatamente effettive per i nuovi programmi e le convalide. Se stai lavorando a un programma esistente, aggiorna il browser o avvia un nuovo flusso di lavoro CX Enterprise Coworker for Marketo Engage per visualizzare le regole aggiornate.
 
 **Q: posso ripristinare le regole predefinite?**
 

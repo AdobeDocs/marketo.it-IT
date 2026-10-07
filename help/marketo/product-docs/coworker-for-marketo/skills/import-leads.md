@@ -1,30 +1,28 @@
 ---
 description: Scopri come utilizzare l’agente Lead di importazione per caricare un CSV, applicare regole aziendali, mappare campi e importare lead direttamente nel database di Marketo Engage.
 title: Importa lead
-source-git-commit: 224dff93cda319bb6bb59fcbec4edb13cc940f4a
+source-git-commit: 148a0ec13abef0658048346f034ff72d9f4012b6
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '229'
 ht-degree: 0%
-
 ---
-
 # Importa lead {#import-leads}
 
 Importare e deduplicare gli elenchi di lead nel database di Marketo Engage con assistenza per la mappatura dei campi.
 
 ## Come usare {#how-to-use}
 
-1. Nel tuo My Marketo, fai clic sul riquadro **Collaboratore per Marketo Engage**.
+1. In Il mio Marketo, fai clic sul riquadro **CX Enterprise Coworker per Marketo Engage**.
 
-   ![](assets/import-leads-1.png)
+   ![](assets/cx-import-leads-1.png)
 
 1. Digitare &quot;Import a lead list and normalize the data&quot; (Importare un elenco di lead e normalizzare i dati) (o selezionarlo se è elencato come prompt di esempio) e fare clic sull&#39;icona freccia su.
 
-   ![](assets/import-leads-2.png)
+   ![](assets/cx-import-leads-2.png)
 
 1. Viene richiesto di caricare il file CSV e vengono mostrati i passaggi successivi.
 
-   ![](assets/import-leads-3.png)
+   ![](assets/cx-import-leads-3.png)
 
 1. Fai clic sull&#39;icona **+** e seleziona **Carica file**. Trova e carica il tuo file CSV.
 
