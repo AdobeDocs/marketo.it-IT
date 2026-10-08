@@ -47,7 +47,7 @@ Gli impatti riportati di seguito non richiedono alcuna azione da parte tua.
 
 >[!IMPORTANT]
 >
->Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/en/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
+>Se utilizzi [moduli esterni](/help/marketo/product-docs/demand-generation/forms/form-actions/embed-a-form-on-your-website.md){target="_blank"} e desideri evitare di perdere i dati di invio dei moduli raccolti mentre Marketo Engage non è disponibile durante la finestra di migrazione, contatta il [Supporto Adobe](https://experienceleague.adobe.com/it/support){target="_blank"} **almeno due giorni lavorativi** in anticipo e fornisci l&#39;ID modulo e l&#39;ID Munchkin dell&#39;abbonamento.
 
 ## Identificazione del centro dati/pod {#identify}
 
@@ -347,9 +347,9 @@ In base al centro dati, collabora con il reparto IT per aggiungere i rispettivi 
 
 Per informazioni aggiornate, aggiungi un segnalibro a questa pagina.
 
-Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [status.adobe.com](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
+Per gli aggiornamenti sullo stato, puoi [abbonarti per riceverli](https://experienceleague.adobe.com/it/docs/marketo/using/getting-started/things-to-know/system-status-notifications){target="_blank"} all&#39;inizio e al completamento della migrazione. Puoi anche visitare [status.adobe.com](https://status.adobe.com/it){target="_blank"} durante la finestra di migrazione.
 
-In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/en/support){target="_blank"}.
+In caso di domande, contatta il supporto Adobe tramite il portale di supporto in Admin Console o [Experience League](https://experienceleague.adobe.com/it/support){target="_blank"}.
 
 ## Domande frequenti {#faq}
 
@@ -375,6 +375,6 @@ Gli abbonamenti standard e quelli annullati dagli elenchi (dai client e-mail) ve
 **Esistono alternative alla sospensione delle campagne?**
 Sì. Se desideri impedire alle persone di avanzare, ma non perdere i dati in arrivo, considera queste opzioni:
 
-* Aggiungi un passaggio di scelta: invece di disabilitare la campagna, lasciala attiva ma aggiungi un [passaggio del flusso di attesa](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} o un passaggio immediato &quot;Non eseguire nulla&quot; nella parte superiore del flusso. Imposta una [regola di scelta](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} che indirizza le persone in questo stato di pausa, quindi aggiorna le regole di scelta quando sei pronto.
-* Rimuovi dal flusso: se alcune persone sono già entrate nella campagna ma è necessario arrestarne l&#39;avanzamento, utilizza l&#39;azione [Rimuovi dal flusso](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} per estrarle senza disabilitare definitivamente il trigger della campagna.
+* Aggiungi un passaggio di scelta: invece di disabilitare la campagna, lasciala attiva ma aggiungi un [passaggio del flusso di attesa](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/wait/wait-overview){target="_blank"} o un passaggio immediato &quot;Non eseguire nulla&quot; nella parte superiore del flusso. Imposta una [regola di scelta](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/use-add-choice-in-a-flow-step){target="_blank"} che indirizza le persone in questo stato di pausa, quindi aggiorna le regole di scelta quando sei pronto.
+* Rimuovi dal flusso: se alcune persone sono già entrate nella campagna ma è necessario arrestarne l&#39;avanzamento, utilizza l&#39;azione [Rimuovi dal flusso](https://experienceleague.adobe.com/it/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/remove-from-flow){target="_blank"} per estrarle senza disabilitare definitivamente il trigger della campagna.
 * Alternativa batch: se non hai bisogno di instradamenti o risposte istantanei e desideri semplicemente elaborare le persone durante la notte o a intervalli pianificati, puoi convertire le campagne trigger in campagne batch.
